@@ -1,1 +1,1 @@
-var mnemonic = "uncle wrong short stumble grit method sight wish feature mixture antique high";
+var mnemonic = "arrow vessel verify stamp cube diamond civil couch around kitten have dog";

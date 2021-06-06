@@ -1,1 +1,1 @@
-var mnemonic = "frequent loyal perfect lounge collect front floor knife either artefact fluid put";
+var mnemonic = "cushion advance feature hollow vocal record meadow shallow scheme blossom index afraid";

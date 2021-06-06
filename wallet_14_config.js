@@ -1,1 +1,1 @@
-var mnemonic = "orchard kid industry sample spice essence grocery figure harsh ramp season open";
+var mnemonic = "method reunion century fever oppose hat comfort drip gloom tissue bachelor until";

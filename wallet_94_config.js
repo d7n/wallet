@@ -1,1 +1,1 @@
-var mnemonic = "panel nurse banner decline rotate shallow sting holiday quarter patrol surround empower";
+var mnemonic = "blossom spider hero credit bright release celery devote exit stool blind episode";

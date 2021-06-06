@@ -1,1 +1,1 @@
-var mnemonic = "retire fragile pretty love pill expire gather hope recipe area reveal eye";
+var mnemonic = "purity pledge arctic awake alarm lumber chief bean paddle royal dirt poet";

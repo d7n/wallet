@@ -1,1 +1,1 @@
-var mnemonic = "gym gallery biology fabric tree must dwarf unhappy noise skate border scrap";
+var mnemonic = "unveil celery say hole lawsuit shock gather kick useless media album jungle";

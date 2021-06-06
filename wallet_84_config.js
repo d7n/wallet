@@ -1,1 +1,1 @@
-var mnemonic = "east glance profit stone input area tribe doll zero april patch cargo";
+var mnemonic = "place gold south barely indoor order settle suffer smart horror novel ladder";

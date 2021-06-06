@@ -1,1 +1,1 @@
-var mnemonic = "patrol window bike ridge gun crush nominee olympic mention festival warfare cook";
+var mnemonic = "grass answer faith crunch plastic buddy subject isolate mass supply embrace height";

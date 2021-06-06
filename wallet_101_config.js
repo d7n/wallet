@@ -1,1 +1,1 @@
-var mnemonic = "clutch away attack convince debris dose thunder delay cluster escape valve glare";
+var mnemonic = "tail once use approve fine frame total copy desert pair balance vivid";

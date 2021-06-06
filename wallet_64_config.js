@@ -1,1 +1,1 @@
-var mnemonic = "bunker crunch laugh inch mango ginger gloom loan rose deny noodle zone";
+var mnemonic = "disease tuition divert during insect since speak hill caution three ability then";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed auction motor night old glide gate spin bone champion become choice";
+var mnemonic = "abuse extra burden myself normal door journey humble lunch inch lyrics kind";

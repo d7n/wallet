@@ -1,1 +1,1 @@
-var mnemonic = "crazy across thought atom medal welcome vintage stool praise clown rocket cement";
+var mnemonic = "whale shop below apple coil happy that now fashion flush test gown";

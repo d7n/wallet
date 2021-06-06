@@ -1,1 +1,1 @@
-var mnemonic = "cup this slice grape betray sight boil broom horror veteran whip rough";
+var mnemonic = "era sheriff object find forum update dish smoke romance vault cactus mask";

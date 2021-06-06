@@ -1,1 +1,1 @@
-var mnemonic = "infant nature gasp earth plug play trade cook grow twice obey enhance";
+var mnemonic = "april pepper wrap only caught network retire message scout under mistake awesome";

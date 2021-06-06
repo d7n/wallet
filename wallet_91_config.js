@@ -1,1 +1,1 @@
-var mnemonic = "master hip climb magic fancy firm double bullet fatal gold this nurse";
+var mnemonic = "ordinary item session donor spice lunar oak foster security trend review border";

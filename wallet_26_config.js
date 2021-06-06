@@ -1,1 +1,1 @@
-var mnemonic = "slam forget razor cactus remain rookie digital tuna pony melt august draft";
+var mnemonic = "walk easy goddess tree know leader hip gloom fog crowd ugly plug";

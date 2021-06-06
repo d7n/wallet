@@ -1,1 +1,1 @@
-var mnemonic = "hundred poem fringe peasant sun fault crunch carry mistake economy gain come";
+var mnemonic = "anger crawl autumn element magic essence giraffe fruit frozen session category rabbit";

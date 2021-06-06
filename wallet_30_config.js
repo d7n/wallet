@@ -1,1 +1,1 @@
-var mnemonic = "round river address rack warm exhaust soul cabbage grocery depth arrest typical";
+var mnemonic = "tiny student renew tennis limb second hair glide short legend execute hole";

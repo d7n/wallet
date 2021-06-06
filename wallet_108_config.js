@@ -1,1 +1,1 @@
-var mnemonic = "noble rose census issue upgrade cover else slender swift lemon edit curious";
+var mnemonic = "change dice focus pride start symptom garment purity just face promote suffer";

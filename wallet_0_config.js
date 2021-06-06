@@ -1,1 +1,1 @@
-var mnemonic = "fat below cheap quarter economy timber glass rally solar swift must title";
+var mnemonic = "future symbol finger cupboard museum mule case old dove festival left loud";

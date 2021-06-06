@@ -1,1 +1,1 @@
-var mnemonic = "canoe amused toast wait sunset various eternal tenant expect cluster front sorry";
+var mnemonic = "abuse bid oyster sing shiver rice fruit imitate chalk session orient merge";

@@ -1,1 +1,1 @@
-var mnemonic = "index model tragic slogan domain drama load tourist bracket guard vast furnace";
+var mnemonic = "gas run swallow fiber half rural license concert stuff quit upset ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "elite praise this deny service depart flag tissue slow scorpion planet shrug";
+var mnemonic = "pole much abandon abuse present system youth swamp capital rude follow crawl";

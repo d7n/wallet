@@ -1,1 +1,1 @@
-var mnemonic = "time need decorate quality better pledge tilt profit mean pen retreat trim";
+var mnemonic = "next car scissors mandate rate forget whisper couch senior behind chair move";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal van omit mosquito daring stick file subway actress bridge spoil pretty";
+var mnemonic = "slam lab spirit vintage diesel focus hedgehog tube jeans host vapor excite";

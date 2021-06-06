@@ -1,1 +1,1 @@
-var mnemonic = "patient chaos coffee still flush kitten bright power city away solution regret";
+var mnemonic = "shaft fragile trophy blanket polar design hotel tourist choose term anchor wonder";

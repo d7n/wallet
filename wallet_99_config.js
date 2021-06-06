@@ -1,1 +1,1 @@
-var mnemonic = "cliff fault ridge benefit auction usual deputy butter summer hurry blind kind";
+var mnemonic = "town convince inside network solve cat list mass feel acoustic unlock vacuum";

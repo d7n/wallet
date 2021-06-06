@@ -1,1 +1,1 @@
-var mnemonic = "notice wire practice exile team awake kingdom robust program shuffle still provide";
+var mnemonic = "latin inmate click priority position practice wedding despair hunt october assist sugar";

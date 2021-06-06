@@ -1,1 +1,1 @@
-var mnemonic = "dirt coach lumber prize picnic arm dirt fruit yard ripple safe bread";
+var mnemonic = "soon firm cruise garden face critic stove lazy exclude coconut pipe margin";

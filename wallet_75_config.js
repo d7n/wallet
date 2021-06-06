@@ -1,1 +1,1 @@
-var mnemonic = "chicken border pilot property meadow system grace sleep cat movie method special";
+var mnemonic = "catch clay body sight vessel lens burst infant gravity once broccoli enjoy";

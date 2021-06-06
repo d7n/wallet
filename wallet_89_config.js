@@ -1,1 +1,1 @@
-var mnemonic = "ordinary play physical liberty trust retreat promote lounge appear brown palm claim";
+var mnemonic = "sound win nephew awesome tray plug remain dignity key end twenty chuckle";

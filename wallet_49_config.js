@@ -1,1 +1,1 @@
-var mnemonic = "author that defy excuse output primary fine rib nothing math sauce medal";
+var mnemonic = "voice east genius critic surprise giggle secret float tenant refuse oppose rain";

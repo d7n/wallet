@@ -1,1 +1,1 @@
-var mnemonic = "faint medal artist arena shiver machine surround embody certain knee harsh wife";
+var mnemonic = "unit bonus ranch repair minute bonus that tiger bid expire drive broom";

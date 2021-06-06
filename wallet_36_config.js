@@ -1,1 +1,1 @@
-var mnemonic = "boil marble note pill require deputy tobacco faculty bean tumble door polar";
+var mnemonic = "hammer begin limit lens sock social science ill pen always admit control";

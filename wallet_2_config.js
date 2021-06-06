@@ -1,1 +1,1 @@
-var mnemonic = "torch bleak deny frost bread dry link ceiling aim disorder increase boil";
+var mnemonic = "crash mad friend hero chimney arrow funny doctor cousin idea useful sea";

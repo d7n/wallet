@@ -1,1 +1,1 @@
-var mnemonic = "obtain gun rack cargo erase dynamic fresh exhaust ethics derive appear stamp";
+var mnemonic = "scale hospital invest amateur list because orchard put casual night minimum top";

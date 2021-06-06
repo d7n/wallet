@@ -1,1 +1,1 @@
-var mnemonic = "cliff wealth regular dad top orange collect asset myself bleak leisure bag";
+var mnemonic = "weather turtle when lens fine age pond wave click tunnel emotion endorse";

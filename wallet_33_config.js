@@ -1,1 +1,1 @@
-var mnemonic = "chuckle practice blast enable vivid sorry frog steak check company crumble blanket";
+var mnemonic = "camp tiny length term jacket female discover dynamic void congress upset unhappy";

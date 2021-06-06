@@ -1,1 +1,1 @@
-var mnemonic = "bridge jelly mansion oyster zebra legend cave horror drip library speed safe";
+var mnemonic = "rubber brick buzz trophy jeans solution plug gun stomach guide brief robust";

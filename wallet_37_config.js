@@ -1,1 +1,1 @@
-var mnemonic = "genuine input inspire brown powder broccoli lizard use occur kick force spoon";
+var mnemonic = "baby pipe such stay buddy volcano omit item scare spray riot promote";

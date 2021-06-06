@@ -1,1 +1,1 @@
-var mnemonic = "since gap size giant club day fat fashion else hello imitate window";
+var mnemonic = "general defense wire edit age crush absent render extend jeans evil infant";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror often fee option sail potato afford affair lock spin junk aisle";
+var mnemonic = "predict stick real bike home travel deny direct question obscure bleak ranch";

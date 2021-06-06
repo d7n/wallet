@@ -1,1 +1,1 @@
-var mnemonic = "loyal salad sphere certain subject usage else grit brass gravity wash lawsuit";
+var mnemonic = "there taste state label lucky luxury ribbon trash refuse obtain bid dutch";

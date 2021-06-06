@@ -1,1 +1,1 @@
-var mnemonic = "summer chef major depend fabric material supreme give day disease fish kick";
+var mnemonic = "butter attitude vanish tenant snack invite void quit forward cabin blouse interest";

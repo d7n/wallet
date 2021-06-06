@@ -1,1 +1,1 @@
-var mnemonic = "best clog plastic merit able change exchange when behind elephant toddler height";
+var mnemonic = "laundry hammer treat square churn south draft vital tenant emotion tree cherry";

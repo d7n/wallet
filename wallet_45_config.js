@@ -1,1 +1,1 @@
-var mnemonic = "magnet rate bridge exchange reunion giraffe join aspect own disagree cereal rich";
+var mnemonic = "dentist elegant pear dove crawl awkward control bronze talent match addict clinic";

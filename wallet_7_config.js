@@ -1,1 +1,1 @@
-var mnemonic = "obey public web ball betray major pioneer youth fade equal fly swift";
+var mnemonic = "little copy reunion regular toast reduce iron damp vessel tube gadget crucial";

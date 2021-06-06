@@ -1,1 +1,1 @@
-var mnemonic = "enhance egg heart expand bike doll raw piece allow huge winner diet";
+var mnemonic = "shine strategy answer into whale clock endorse sniff sister foam tenant trip";

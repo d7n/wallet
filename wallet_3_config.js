@@ -1,1 +1,1 @@
-var mnemonic = "budget metal noble few sibling barely orchard essence uncle camp similar people";
+var mnemonic = "great biology mandate impose caution shiver engage burger spawn risk embark quiz";

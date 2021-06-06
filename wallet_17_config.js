@@ -1,1 +1,1 @@
-var mnemonic = "stay hen victory happy rookie camp obscure genuine slim fever energy siege";
+var mnemonic = "have into light critic muscle input execute remove hope daughter venture myself";

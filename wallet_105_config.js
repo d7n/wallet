@@ -1,1 +1,1 @@
-var mnemonic = "twice choice innocent witness globe crisp fragile toe employ practice price canoe";
+var mnemonic = "object script nasty keep text exhibit iron sight polar kitten bottom grain";

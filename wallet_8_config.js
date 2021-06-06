@@ -1,1 +1,1 @@
-var mnemonic = "abstract rotate mom puzzle fury glimpse ecology lab item hurdle spoon express";
+var mnemonic = "gaze various large paddle rotate crack view axis stereo system flee diesel";

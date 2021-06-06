@@ -1,1 +1,1 @@
-var mnemonic = "cat lonely main crush galaxy clean ketchup toss siege envelope cross artwork";
+var mnemonic = "pass world ostrich police student arrange betray mercy frog rug law rare";

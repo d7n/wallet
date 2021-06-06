@@ -1,1 +1,1 @@
-var mnemonic = "promote ceiling arrange globe trumpet urge shift hen boil small exercise hair";
+var mnemonic = "lunar final drastic light access federal pink video silent load install unable";

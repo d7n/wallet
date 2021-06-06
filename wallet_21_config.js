@@ -1,1 +1,1 @@
-var mnemonic = "message choose cycle admit barrel decline stuff dog else ten motor scatter";
+var mnemonic = "piece behave design mushroom urge mechanic venture park fiscal half shiver census";

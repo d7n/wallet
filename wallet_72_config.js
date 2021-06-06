@@ -1,1 +1,1 @@
-var mnemonic = "rocket kidney sunset prevent clay guitar hope hill dove misery usual simple";
+var mnemonic = "program eyebrow scorpion umbrella pole hybrid obvious style upgrade census avocado embark";

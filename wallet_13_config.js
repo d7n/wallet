@@ -1,1 +1,1 @@
-var mnemonic = "horn immense neck blanket eagle agent ordinary tribe assist quick license north";
+var mnemonic = "lawsuit leaf spend expire hope arena barely normal raccoon execute excess lens";

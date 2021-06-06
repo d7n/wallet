@@ -1,1 +1,1 @@
-var mnemonic = "help vapor satoshi dragon crystal across reopen visa any junior palm later";
+var mnemonic = "resist fence rate cry eager music disagree peace goose marriage topic slam";

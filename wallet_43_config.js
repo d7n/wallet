@@ -1,1 +1,1 @@
-var mnemonic = "call swim boy breeze abandon legend tattoo cluster dream menu candy ghost";
+var mnemonic = "pitch burger boy vivid abstract entire crater save west marine clog champion";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease choose half abandon local brisk delay style buzz frequent obvious evil";
+var mnemonic = "organ grant bargain brand install frown scrub curve shy hybrid begin inform";

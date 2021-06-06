@@ -1,1 +1,1 @@
-var mnemonic = "snack vessel slim radar own walk atom sample plate over slender sibling";
+var mnemonic = "exclude avoid offer ethics more patch drastic kit current shrug device physical";

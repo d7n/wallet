@@ -1,1 +1,1 @@
-var mnemonic = "slice trick genre winner meat kit window raw describe castle truly gentle";
+var mnemonic = "rich plunge walnut audit select shrug topple hello close chief catalog radio";

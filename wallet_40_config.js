@@ -1,1 +1,1 @@
-var mnemonic = "salt lesson ill royal enhance blood switch expose author valve boy plug";
+var mnemonic = "token frequent mask panic twin cause goose hurry photo venture silver praise";

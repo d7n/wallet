@@ -1,1 +1,1 @@
-var mnemonic = "tone clutch also shift cotton army green find search frozen useful spice";
+var mnemonic = "nuclear now bleak example taste soda kitchen thumb hurdle genius soccer surge";

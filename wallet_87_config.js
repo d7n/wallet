@@ -1,1 +1,1 @@
-var mnemonic = "scissors course mountain legend artefact pig play walnut lady level shop ball";
+var mnemonic = "public belt fever remain simple ship rather fog ten update orphan upon";

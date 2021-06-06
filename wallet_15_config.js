@@ -1,1 +1,1 @@
-var mnemonic = "problem topple loop caution genuine risk chair alpha antenna shield dad camp";
+var mnemonic = "umbrella garlic sauce bachelor skull erase step marble hand parade mimic pen";

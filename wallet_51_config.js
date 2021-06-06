@@ -1,1 +1,1 @@
-var mnemonic = "cluster nut snow dog topic duty chronic rule wheel social ancient armor";
+var mnemonic = "owner rate end rail length auction home gospel screen guitar paper carbon";

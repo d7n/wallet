@@ -1,1 +1,1 @@
-var mnemonic = "outside enemy describe sister zero approve matrix bracket output mouse exclude critic";
+var mnemonic = "apology vehicle hobby theme kiss purity clean pill enhance height scout essence";

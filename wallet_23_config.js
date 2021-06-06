@@ -1,1 +1,1 @@
-var mnemonic = "fix melt obey denial sentence melody december car smooth loan cup tennis";
+var mnemonic = "eight draw tube tell utility shift sing term penalty diesel toss legal";

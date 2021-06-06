@@ -1,1 +1,1 @@
-var mnemonic = "wet panel resource alien bacon divorce solution remember tell admit flavor clever";
+var mnemonic = "stage brave crush patient puppy scan ritual enroll party purpose emotion lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle tip wheel velvet useful regular spoon laptop add squeeze refuse random";
+var mnemonic = "town student please frozen route never famous hero elite mechanic search switch";

@@ -1,1 +1,1 @@
-var mnemonic = "flee tape wire stone just arena eye armed ketchup maximum law help";
+var mnemonic = "spring candy joy captain neglect tell matter record canoe message jealous spatial";

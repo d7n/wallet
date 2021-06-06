@@ -1,1 +1,1 @@
-var mnemonic = "shoe behind bronze turtle blast dinosaur month amount pool bus broom manage";
+var mnemonic = "one creek ostrich rent hospital feature submit trial work whale alley unlock";

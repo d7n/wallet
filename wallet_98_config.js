@@ -1,1 +1,1 @@
-var mnemonic = "wise soap floor uphold waste wheel blame essay blue step million trip";
+var mnemonic = "squirrel nephew icon exotic metal weasel lunch joy congress firm bulb unit";

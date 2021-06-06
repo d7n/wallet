@@ -1,1 +1,1 @@
-var mnemonic = "slot impulse fox salute someone machine swarm great ivory swing sustain street";
+var mnemonic = "hat vast despair mistake cause material sugar tumble wreck purity cherry era";

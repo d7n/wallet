@@ -1,1 +1,1 @@
-var mnemonic = "chalk return ship snake junk decide check armed grocery confirm soap power";
+var mnemonic = "wool slush gun actress network search pear village limit promote document surface";

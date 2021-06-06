@@ -1,1 +1,1 @@
-var mnemonic = "blue project yellow dirt crisp liquid ribbon grunt century artwork butter note";
+var mnemonic = "detail sense almost become genre person margin cherry cloud glad network will";

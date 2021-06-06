@@ -1,1 +1,1 @@
-var mnemonic = "decade duty payment busy alpha hunt spell kiss juice chase again key";
+var mnemonic = "zebra army wall reward own dance slice green that palm sibling topic";

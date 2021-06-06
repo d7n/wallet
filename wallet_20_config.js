@@ -1,1 +1,1 @@
-var mnemonic = "illegal economy radio merit one riot endorse volume merit chair letter happy";
+var mnemonic = "genius twelve width rate cream try pupil more boy view outdoor elegant";

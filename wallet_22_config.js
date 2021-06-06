@@ -1,1 +1,1 @@
-var mnemonic = "garment north acid hundred cake pear aisle early amount false awake portion";
+var mnemonic = "idle frequent scissors blue absorb style ghost share extra cross approve dignity";

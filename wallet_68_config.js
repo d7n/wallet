@@ -1,1 +1,1 @@
-var mnemonic = "powder question about produce leader equal lake mandate escape artist social pigeon";
+var mnemonic = "meadow wagon crucial sure entire rotate flower announce maid afraid oak degree";

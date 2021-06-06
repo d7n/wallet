@@ -1,1 +1,1 @@
-var mnemonic = "cube climb section bacon tilt tonight gadget oak utility quantum disease road";
+var mnemonic = "pistol impact story tray treat upper cloud shiver ethics rhythm elegant broken";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi hamster soul oil switch this ladder avoid member picnic save pizza";
+var mnemonic = "pact verb embrace broccoli provide dwarf seek resource effort merge rule cereal";

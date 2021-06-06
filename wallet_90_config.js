@@ -1,1 +1,1 @@
-var mnemonic = "pistol orient rather document artwork crane explain relief prefer dial junior chef";
+var mnemonic = "keen ocean dinosaur renew scorpion similar fine fold around right symbol excess";

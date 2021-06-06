@@ -1,1 +1,1 @@
-var mnemonic = "invest powder explain culture carbon enough faint kiss spirit help galaxy stand";
+var mnemonic = "letter elbow flush funny noble control crew fashion jazz fog area erosion";

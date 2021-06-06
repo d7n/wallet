@@ -1,1 +1,1 @@
-var mnemonic = "used network ride require sail approve churn keep turn mercy draw saddle";
+var mnemonic = "flock net light grass wear design knock crunch muffin ribbon lunar abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "fetch junk canvas gap shiver alley elite addict curtain action obscure arrest";
+var mnemonic = "lunch grab moral file rice fantasy debate blast angle lazy wheel expect";

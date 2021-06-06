@@ -1,1 +1,1 @@
-var mnemonic = "crack enter govern judge flight friend illegal hurry swamp leave trend airport";
+var mnemonic = "cushion ladder section minute wasp infant mother middle account blame vague goose";

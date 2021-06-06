@@ -1,1 +1,1 @@
-var mnemonic = "weasel copper region slim fold mixed home about stay above donkey inform";
+var mnemonic = "skill muffin settle recycle large human raise transfer despair pink auto detail";

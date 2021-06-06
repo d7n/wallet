@@ -1,1 +1,1 @@
-var mnemonic = "model cloud guard bonus regret surface glimpse slice message ceiling lemon caught";
+var mnemonic = "cliff flip credit horn rocket supply arena pet busy remember sheriff violin";

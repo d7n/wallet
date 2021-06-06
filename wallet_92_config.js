@@ -1,1 +1,1 @@
-var mnemonic = "man airport slogan minimum catalog atom right demand sister rack powder ankle";
+var mnemonic = "lens attract balance rule nurse frame lawn early celery mimic member unusual";

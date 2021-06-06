@@ -1,1 +1,1 @@
-var mnemonic = "coconut velvet creek people fiction bird inform rice rate script lava camp";
+var mnemonic = "volcano sister way staff eyebrow erode chef ability diamond tourist topple castle";

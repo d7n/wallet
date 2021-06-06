@@ -1,1 +1,1 @@
-var mnemonic = "museum sadness sure shoe cloth peanut dove enlist also team machine cute";
+var mnemonic = "unlock struggle same art page spell open pause infant jungle talent hire";
