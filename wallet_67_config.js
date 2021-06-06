@@ -1,1 +1,1 @@
-var mnemonic = "snake tray act alien impact hire type bunker soap behind truly permit";
+var mnemonic = "initial digital slice cannon exist behind mad ginger couple witness someone display";

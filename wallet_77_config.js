@@ -1,1 +1,1 @@
-var mnemonic = "rookie exile harvest bicycle dream fuel armed project wall goddess sudden cargo";
+var mnemonic = "lobster equal intact trend laugh obey useless aware usual swallow fog lottery";

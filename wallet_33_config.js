@@ -1,1 +1,1 @@
-var mnemonic = "fortune produce flame panda public refuse august voyage flavor buffalo super awkward";
+var mnemonic = "blast scare clarify insect mistake best rhythm they puppy random error lobster";

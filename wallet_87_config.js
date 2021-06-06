@@ -1,1 +1,1 @@
-var mnemonic = "vapor jewel eye trial elbow blur toward pink swarm fitness abandon flower";
+var mnemonic = "keen cry today index breeze olive essence spell steel transfer hello high";

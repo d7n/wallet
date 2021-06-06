@@ -1,1 +1,1 @@
-var mnemonic = "window chalk axis wait suggest sustain average pyramid afraid sauce daring unique";
+var mnemonic = "jar plunge wood strike feed wagon rude paper enemy sibling fatigue immense";

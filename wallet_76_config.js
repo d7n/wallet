@@ -1,1 +1,1 @@
-var mnemonic = "pony upon quit try route tomorrow crucial apology buyer race cactus excess";
+var mnemonic = "tuition sell want damage affair chimney cat program alcohol bubble release capital";

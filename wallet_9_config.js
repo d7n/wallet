@@ -1,1 +1,1 @@
-var mnemonic = "betray increase view violin bus grid fat wasp bike fatal crater turkey";
+var mnemonic = "zebra silk donate extra acid gentle talk inquiry liar clump drift proud";

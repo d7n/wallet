@@ -1,1 +1,1 @@
-var mnemonic = "cousin cradle lunar gift cash post boil harvest close company aisle wasp";
+var mnemonic = "concert menu mansion link machine proof rough amazing vehicle hen tattoo scatter";

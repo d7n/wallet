@@ -1,1 +1,1 @@
-var mnemonic = "curtain knife custom north accident lamp engine space awesome payment soda luggage";
+var mnemonic = "imitate alert ankle unit session acid clerk assume advance media marble foam";

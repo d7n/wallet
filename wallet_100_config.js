@@ -1,1 +1,1 @@
-var mnemonic = "script spare water hip kid tone outside dinner clog camera cause quantum";
+var mnemonic = "area recycle glow where dance crane bulk trophy strategy deer blossom leopard";

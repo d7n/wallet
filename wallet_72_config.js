@@ -1,1 +1,1 @@
-var mnemonic = "such scout report capital impact private army clutch viable can service volcano";
+var mnemonic = "clarify glide glad embrace certain day arena giraffe neck attend long company";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum recycle turkey mosquito exhibit agent reflect rude render easy menu muffin";
+var mnemonic = "slot able pluck machine comic joy snow sheriff garage unaware smooth skin";

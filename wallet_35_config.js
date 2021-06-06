@@ -1,1 +1,1 @@
-var mnemonic = "kid mom pole close life fold among now young fury glove slab";
+var mnemonic = "symptom pulse champion kiss together void tail major father knee chapter rice";

@@ -1,1 +1,1 @@
-var mnemonic = "upon supreme thought cave kiwi net you window jaguar high noble fix";
+var mnemonic = "sing switch trend van insane ability credit express interest dentist unknown canyon";

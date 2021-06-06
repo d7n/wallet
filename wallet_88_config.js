@@ -1,1 +1,1 @@
-var mnemonic = "fat hockey stick fashion master dry february knock task foil text gun";
+var mnemonic = "nose critic immense ivory salon order quiz write local poem arrest twelve";

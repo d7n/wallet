@@ -1,1 +1,1 @@
-var mnemonic = "occur bring swallow cart select gain duck shed muffin negative outer opinion";
+var mnemonic = "head giggle fun skirt street adult drama melt conduct reduce stand alien";

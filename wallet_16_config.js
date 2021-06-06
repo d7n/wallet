@@ -1,1 +1,1 @@
-var mnemonic = "dream matrix install bridge nasty silver rescue hire ski paper danger fan";
+var mnemonic = "diesel burst rude jealous head disorder invest stereo stumble primary filter property";

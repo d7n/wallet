@@ -1,1 +1,1 @@
-var mnemonic = "tiny giant orange install garden joy initial field erode venture prepare client";
+var mnemonic = "surround alpha quick portion have inquiry tackle melt term usage step slim";

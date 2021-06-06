@@ -1,1 +1,1 @@
-var mnemonic = "novel north sting exclude grass mixed rival essence sick average exist teach";
+var mnemonic = "issue seed bullet era yard victory there piece alcohol enter wire shaft";

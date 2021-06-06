@@ -1,1 +1,1 @@
-var mnemonic = "betray oblige obvious coin guide lady spoon pride walnut certain mimic survey";
+var mnemonic = "pen blue payment view sleep possible all animal blue culture miss tragic";

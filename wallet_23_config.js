@@ -1,1 +1,1 @@
-var mnemonic = "about worth insane banana close december stool true session vote soda result";
+var mnemonic = "hockey tennis ecology hollow student useful blame mule state dynamic matrix wine";

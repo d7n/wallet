@@ -1,1 +1,1 @@
-var mnemonic = "arm trash extend jealous awesome cement verify promote bird pelican hen wide";
+var mnemonic = "hint control empty indicate carry parade buyer erosion quiz carbon crush banner";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion echo trust vicious mechanic square ball genre wreck animal indicate cliff";
+var mnemonic = "myself peace public section poet design distance pact suspect stereo boil pig";

@@ -1,1 +1,1 @@
-var mnemonic = "sample only split naive volcano rocket few swear nice know pave cliff";
+var mnemonic = "job ten junk upper vital judge canvas share viable actress lyrics tent";

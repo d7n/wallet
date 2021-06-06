@@ -1,1 +1,1 @@
-var mnemonic = "nation keen brand achieve laugh cheese giraffe income twenty plastic mail peanut";
+var mnemonic = "health pattern three area arrive indoor sweet olive joke embrace trick approve";

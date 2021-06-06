@@ -1,1 +1,1 @@
-var mnemonic = "ecology culture hill remain follow defense eagle target banner snake door word";
+var mnemonic = "round sad orchard middle style harbor such slim chef elite scan syrup";

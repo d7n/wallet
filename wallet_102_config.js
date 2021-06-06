@@ -1,1 +1,1 @@
-var mnemonic = "tail identify beef online arch glow blind tray nothing reject spider proof";
+var mnemonic = "repair transfer random acoustic buffalo never grief control inner clay pave giraffe";

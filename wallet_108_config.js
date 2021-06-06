@@ -1,1 +1,1 @@
-var mnemonic = "loan relief before time abstract stick supreme impose agree filter salute front";
+var mnemonic = "echo gesture entry salute hope retire cruel soap viable lady flower second";

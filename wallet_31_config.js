@@ -1,1 +1,1 @@
-var mnemonic = "eight lens spike price ethics debris recycle mom craft sand switch pig";
+var mnemonic = "glue cupboard faith buyer dawn opera lava rent truck antique boost skirt";

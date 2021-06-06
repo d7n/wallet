@@ -1,1 +1,1 @@
-var mnemonic = "abstract gentle husband donate among frost seat huge transfer pride jeans ensure";
+var mnemonic = "tornado spatial dignity frame enhance poem fence execute climb circle patch trade";

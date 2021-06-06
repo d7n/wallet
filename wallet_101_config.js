@@ -1,1 +1,1 @@
-var mnemonic = "unable slim voice often adult noble virtual behind fiscal key fat avocado";
+var mnemonic = "seek flash february ginger approve above fashion select melody advice crisp story";

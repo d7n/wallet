@@ -1,1 +1,1 @@
-var mnemonic = "design debate current normal alone trumpet forum shrug can surge sponsor grain";
+var mnemonic = "wild loan era charge street nose ranch fat ice deliver breeze armed";

@@ -1,1 +1,1 @@
-var mnemonic = "meat version into segment treat slim law grid west comfort hundred behave";
+var mnemonic = "security digital mutual myself tilt major rail system fiscal elephant today multiply";

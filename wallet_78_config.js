@@ -1,1 +1,1 @@
-var mnemonic = "call hire cat regret profit patient track visual raw program local load";
+var mnemonic = "alpha skull cliff child final cook protect goose walnut drastic radar plate";

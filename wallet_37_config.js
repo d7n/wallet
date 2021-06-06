@@ -1,1 +1,1 @@
-var mnemonic = "mobile frog rude reopen trigger atom polar net sort winter radio tenant";
+var mnemonic = "loud clock merge palace delay another duck tuna room will shop velvet";

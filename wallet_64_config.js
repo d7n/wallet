@@ -1,1 +1,1 @@
-var mnemonic = "woman book close enhance car comic amazing tape menu climb obvious detect";
+var mnemonic = "either unit ranch fiscal riot wreck dwarf save barely debris beauty talent";

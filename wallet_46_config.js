@@ -1,1 +1,1 @@
-var mnemonic = "unfold wood clap custom garbage clean claim immense book forward miracle arena";
+var mnemonic = "lounge essence shield punch flavor project success detail globe yellow guitar hedgehog";

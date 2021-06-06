@@ -1,1 +1,1 @@
-var mnemonic = "urge option main grape gallery rare day blossom describe olympic enforce protect";
+var mnemonic = "note virtual donkey glass hamster replace strike exact gorilla pistol tuna rice";

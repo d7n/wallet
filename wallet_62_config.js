@@ -1,1 +1,1 @@
-var mnemonic = "must alpha coconut harbor combine equal someone until great venue asthma feed";
+var mnemonic = "bread fat happy acid erode robust baby vehicle spray reflect produce buddy";

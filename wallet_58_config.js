@@ -1,1 +1,1 @@
-var mnemonic = "attend royal decorate injury lawsuit zero misery jeans salad spike exact improve";
+var mnemonic = "veteran chunk dish foil rally gold expose castle post fringe evoke fan";

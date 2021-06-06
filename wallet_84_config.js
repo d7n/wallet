@@ -1,1 +1,1 @@
-var mnemonic = "favorite fantasy beach bright echo magic raccoon hedgehog keen hour law february";
+var mnemonic = "essay lounge antique stove chat leisure muscle roof chuckle health rent chat";

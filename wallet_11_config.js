@@ -1,1 +1,1 @@
-var mnemonic = "comic marine outdoor cabin error siege cinnamon bring horror glove price assume";
+var mnemonic = "ten identify essay dynamic clown gate river abuse derive leg awake velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "south client where equip dinosaur submit genius dash sphere village claw system";
+var mnemonic = "media combine confirm liar rather rare area clean divert above grow speed";

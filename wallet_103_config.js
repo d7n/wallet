@@ -1,1 +1,1 @@
-var mnemonic = "small typical decrease venture betray oxygen stay cruise silent noise erode champion";
+var mnemonic = "shield mean identify tackle enemy galaxy bamboo hunt basic canvas margin same";

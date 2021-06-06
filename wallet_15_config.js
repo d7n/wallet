@@ -1,1 +1,1 @@
-var mnemonic = "reveal upon speak athlete reduce measure ankle come noodle swear series slush";
+var mnemonic = "attitude olympic trust magic green fine lottery find yellow wrap strong repair";

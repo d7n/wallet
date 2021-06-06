@@ -1,1 +1,1 @@
-var mnemonic = "curve parade imitate loop junior offer success awake lyrics federal situate mercy";
+var mnemonic = "glare sword merge actual deer receive ginger maid glow satoshi setup arrange";

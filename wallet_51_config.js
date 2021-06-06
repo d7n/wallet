@@ -1,1 +1,1 @@
-var mnemonic = "unable this damage common brass angle bomb tube frown teach song spice";
+var mnemonic = "add current runway nose army above fun paper ribbon private north draw";

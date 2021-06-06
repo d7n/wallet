@@ -1,1 +1,1 @@
-var mnemonic = "permit civil above cupboard nest anxiety repeat syrup lucky purse lend hair";
+var mnemonic = "fork attend ecology sweet corn expire load arrow absent pretty snake common";

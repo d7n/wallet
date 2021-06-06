@@ -1,1 +1,1 @@
-var mnemonic = "course vault museum garlic describe mouse trick typical census ability car brass";
+var mnemonic = "shoulder learn episode fringe disorder charge type club rare mention split cement";

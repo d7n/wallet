@@ -1,1 +1,1 @@
-var mnemonic = "sauce habit valve runway parrot elite rug lend admit zebra play lounge";
+var mnemonic = "muscle refuse kiwi girl furnace mesh school swear inner thing warm mail";

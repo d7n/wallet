@@ -1,1 +1,1 @@
-var mnemonic = "ignore daughter mention hurry chair reform good cabbage benefit rival pencil rice";
+var mnemonic = "energy column crack cradle company syrup three disease certain salute carry jelly";

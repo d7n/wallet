@@ -1,1 +1,1 @@
-var mnemonic = "conduct tank inquiry ticket puppy tonight current excuse until rifle adapt equal";
+var mnemonic = "uncover cute exact pass estate crouch gorilla uncle output goddess rib best";

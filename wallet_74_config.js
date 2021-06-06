@@ -1,1 +1,1 @@
-var mnemonic = "cry glimpse frog duck scatter occur genuine swamp media fun eye catalog";
+var mnemonic = "reunion much gain because struggle curtain opinion grab thrive arrange business music";

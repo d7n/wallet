@@ -1,1 +1,1 @@
-var mnemonic = "notable slogan know toy spirit pull mother lawn glare roof wool cycle";
+var mnemonic = "horror focus engage scale shove swear flower rural wine expect away enroll";

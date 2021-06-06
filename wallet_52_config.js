@@ -1,1 +1,1 @@
-var mnemonic = "desert inhale nothing surge wrestle vessel damage puppy scare furnace athlete female";
+var mnemonic = "teach south moon mule purpose cruel alter acid record rough pen van";

@@ -1,1 +1,1 @@
-var mnemonic = "horror trade vicious icon next bicycle fire melody advance cool doctor parent";
+var mnemonic = "thing debate also magic matter advance adjust soda plastic subject dirt curious";

@@ -1,1 +1,1 @@
-var mnemonic = "game obtain good family wheel focus grit remove possible shoe add doctor";
+var mnemonic = "romance screen rather crucial spray select crime six secret sick evolve trigger";

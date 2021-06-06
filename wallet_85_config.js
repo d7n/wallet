@@ -1,1 +1,1 @@
-var mnemonic = "menu wasp alien maple ring athlete quick nurse forward border lounge turtle";
+var mnemonic = "educate danger abandon jaguar climb ginger hobby tired video claw cash start";

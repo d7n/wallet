@@ -1,1 +1,1 @@
-var mnemonic = "tip dirt unaware grit annual grief walnut pipe lion ethics doll lake";
+var mnemonic = "wolf scale lobster inspire maze square piano theme wing mimic betray hawk";

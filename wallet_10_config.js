@@ -1,1 +1,1 @@
-var mnemonic = "good hand salon tell draw style surprise convince embody sad fresh side";
+var mnemonic = "crisp sport already leave upgrade mom simple sunset utility curtain dwarf crash";

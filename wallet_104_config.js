@@ -1,1 +1,1 @@
-var mnemonic = "flash volcano say company float tonight brain edit wrong pole panel crisp";
+var mnemonic = "artwork you mosquito taxi mom essence maple illegal that pact exist radio";

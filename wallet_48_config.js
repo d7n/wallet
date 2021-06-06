@@ -1,1 +1,1 @@
-var mnemonic = "then mimic embrace about slice dial april bunker front direct gas dolphin";
+var mnemonic = "junk biology flash frozen summer three story husband genius moral quantum knife";

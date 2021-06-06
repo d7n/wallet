@@ -1,1 +1,1 @@
-var mnemonic = "ordinary sphere myself wage merry physical hurry usage style crawl orient goddess";
+var mnemonic = "tribe detail arctic quote print tennis flag much desk purpose garden number";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh hill blossom budget crane veteran nurse estate senior valid expire surround";
+var mnemonic = "submit brief march spatial spin exhaust usage sort erosion scene mosquito enhance";

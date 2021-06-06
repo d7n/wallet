@@ -1,1 +1,1 @@
-var mnemonic = "piece patrol great win follow local erupt tissue awkward urban pair flame";
+var mnemonic = "false submit abuse reflect evidence pass bicycle sample feature dynamic burst garment";

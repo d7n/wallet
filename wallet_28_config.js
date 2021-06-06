@@ -1,1 +1,1 @@
-var mnemonic = "brush mango surface wool alarm sight swift uncover sentence basket any flight";
+var mnemonic = "other belt focus alone chronic note local also pistol champion car blade";

@@ -1,1 +1,1 @@
-var mnemonic = "city divorce differ trash blame army yard victory solar inject mixture oil";
+var mnemonic = "gift box long chat sense element trend still security edge develop provide";

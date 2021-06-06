@@ -1,1 +1,1 @@
-var mnemonic = "define swim fiber twist motion hammer peanut split engage barely audit view";
+var mnemonic = "palace silly mixture idea damage display clerk sad dove orphan leisure resemble";

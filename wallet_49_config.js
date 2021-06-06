@@ -1,1 +1,1 @@
-var mnemonic = "sign coconut rib media pistol outdoor swamp head license fold north wonder";
+var mnemonic = "jar cliff pizza wonder cover north quiz unique dance record shadow insane";

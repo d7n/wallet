@@ -1,1 +1,1 @@
-var mnemonic = "arctic opera island fence ring excite treat venture another shop they stable";
+var mnemonic = "skill liberty robot prosper split logic muffin fancy hand brave skill endless";

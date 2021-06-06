@@ -1,1 +1,1 @@
-var mnemonic = "minute lens focus outside alone must barely picture thing cloth bullet dose";
+var mnemonic = "sudden forward memory leisure suggest core away stone develop slam display success";

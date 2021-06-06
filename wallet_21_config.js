@@ -1,1 +1,1 @@
-var mnemonic = "version grape program age tank fresh victory mixture submit settle odor fiction";
+var mnemonic = "kitten intact able gasp fork pitch addict once divert task train access";

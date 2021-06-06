@@ -1,1 +1,1 @@
-var mnemonic = "opinion hunt wrap edge dog wrestle keep gloom chase tent math fossil";
+var mnemonic = "coffee concert auto whale save minor survey certain pass salon sad scatter";

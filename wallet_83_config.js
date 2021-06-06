@@ -1,1 +1,1 @@
-var mnemonic = "sugar logic legend whisper home brain art engage judge dry tooth cabin";
+var mnemonic = "emotion fiscal end fork cover orbit neglect firm flat wash tomorrow skate";

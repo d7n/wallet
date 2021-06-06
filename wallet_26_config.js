@@ -1,1 +1,1 @@
-var mnemonic = "hour social quit amount lens funny stock night illegal grab snack game";
+var mnemonic = "stove stamp all sniff guitar treat sun fiscal surge write soul donor";

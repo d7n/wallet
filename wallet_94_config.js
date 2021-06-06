@@ -1,1 +1,1 @@
-var mnemonic = "tray million destroy toilet weekend anchor north erode ripple hedgehog casino rich";
+var mnemonic = "love decide total avoid material delay satoshi tornado crane stereo treat firm";

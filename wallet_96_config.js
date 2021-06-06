@@ -1,1 +1,1 @@
-var mnemonic = "mistake spend belt spike thumb turn pride often rice cram cloth pyramid";
+var mnemonic = "used attend pair copy trumpet seminar tank verb trouble bottom year clip";

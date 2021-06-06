@@ -1,1 +1,1 @@
-var mnemonic = "phone almost involve aware tiny dress permit injury pencil empty sustain purity";
+var mnemonic = "strike crater brown over version elegant hello autumn warm reopen report music";

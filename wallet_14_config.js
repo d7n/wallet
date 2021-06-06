@@ -1,1 +1,1 @@
-var mnemonic = "diesel phrase wedding exhibit nose wet install gauge antenna desk audit measure";
+var mnemonic = "evoke window spring omit approve oval correct right habit chief aware proof";

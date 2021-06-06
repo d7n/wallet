@@ -1,1 +1,1 @@
-var mnemonic = "jar tuna bottom pepper place swear brush fatal sight inmate vault candy";
+var mnemonic = "slush outside ride praise below dash draw season feed rent phrase skill";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow possible shaft mansion share coach cupboard cart gown gorilla airport lens";
+var mnemonic = "decline sauce miss joy invite shuffle office thank crawl renew fire brown";

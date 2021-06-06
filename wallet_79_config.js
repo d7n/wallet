@@ -1,1 +1,1 @@
-var mnemonic = "bread jelly abuse physical virus girl kite list decide zone lizard fan";
+var mnemonic = "already grid shove aunt head office globe glow miss slot develop february";

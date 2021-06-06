@@ -1,1 +1,1 @@
-var mnemonic = "loyal boat clean alien dumb crunch derive police expose into grape loud";
+var mnemonic = "true shoot flavor change lock burger mouse shove monitor argue glare acid";

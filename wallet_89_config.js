@@ -1,1 +1,1 @@
-var mnemonic = "slice become grid fine toward nut tourist panel lazy daughter infant pink";
+var mnemonic = "mountain birth spin ketchup ship source true achieve napkin lecture cupboard uphold";

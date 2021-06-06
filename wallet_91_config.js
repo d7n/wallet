@@ -1,1 +1,1 @@
-var mnemonic = "category awful hospital bar inject text wise office once theme keen upon";
+var mnemonic = "edge web vintage type disease drill swallow assault cereal cook limit business";
