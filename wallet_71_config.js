@@ -1,1 +1,1 @@
-var mnemonic = "symptom pole glance scout awake appear mother robust faculty aware bachelor volume";
+var mnemonic = "short artefact deny clutch also crop man real spin naive liberty swim";

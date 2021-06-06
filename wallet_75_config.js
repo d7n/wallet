@@ -1,1 +1,1 @@
-var mnemonic = "history convince turtle dish fan dignity initial belt trend over tongue decline";
+var mnemonic = "beach drip reject scene buyer repeat visit talk amateur tribe because save";

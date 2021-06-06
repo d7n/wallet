@@ -1,1 +1,1 @@
-var mnemonic = "remain planet shy vehicle quarter certain insane thing fresh identify idea corn";
+var mnemonic = "random worth tackle soda leopard cry chaos country sail plate online duty";

@@ -1,1 +1,1 @@
-var mnemonic = "source cart title birth staff erode remain bottom tomorrow castle slab goddess";
+var mnemonic = "penalty income occur echo minor cigar senior okay copper learn pass degree";

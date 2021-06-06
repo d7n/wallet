@@ -1,1 +1,1 @@
-var mnemonic = "charge volcano embody approve burger arm bamboo lamp patrol put mean armor";
+var mnemonic = "obtain foam pupil ensure burden fall urge boil trigger tree pulse curious";

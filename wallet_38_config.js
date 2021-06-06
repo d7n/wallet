@@ -1,1 +1,1 @@
-var mnemonic = "candy tragic property income area already stay door sketch normal boring symptom";
+var mnemonic = "claw cool reform ribbon mask much barely decline hard kidney diamond occur";

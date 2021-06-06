@@ -1,1 +1,1 @@
-var mnemonic = "obvious garage nice office quote blue okay mouse catch doctor level old";
+var mnemonic = "regular primary trial mango another swim correct match ring blind lunar clean";

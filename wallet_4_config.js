@@ -1,1 +1,1 @@
-var mnemonic = "idle vital filter tattoo smile tail drama attend thing aspect goose custom";
+var mnemonic = "marine donkey hub melt until limb wage cactus bless gossip tip outside";

@@ -1,1 +1,1 @@
-var mnemonic = "grow blur bind advice sniff absent oven leader small glow soda cheese";
+var mnemonic = "race antique turkey library weekend panda hint tool peasant barely submit okay";

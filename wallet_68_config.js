@@ -1,1 +1,1 @@
-var mnemonic = "auction under habit frog snack cram lottery only zoo tent defy want";
+var mnemonic = "home giant bronze better crawl cluster must finger bottom lava clinic floor";

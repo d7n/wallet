@@ -1,1 +1,1 @@
-var mnemonic = "gospel code ski siren fall obey miss rabbit cheap true chimney movie";
+var mnemonic = "giggle rich host ankle soldier pig unlock else eyebrow bridge polar rent";

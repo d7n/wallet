@@ -1,1 +1,1 @@
-var mnemonic = "retreat decorate trick empty oval split soon entry history question rubber sing";
+var mnemonic = "submit salute rent resemble else blame normal talk fancy recycle stand repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby kitchen general senior road increase omit sun try purchase spread vacuum";
+var mnemonic = "color combine gossip melody open seven husband mammal interest van flush adult";

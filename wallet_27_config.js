@@ -1,1 +1,1 @@
-var mnemonic = "tooth garden seminar grunt slim guess cruel uphold fade hope warm tank";
+var mnemonic = "napkin buffalo burger edit ask clean wheat bless sadness praise wood group";

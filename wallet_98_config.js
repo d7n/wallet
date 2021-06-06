@@ -1,1 +1,1 @@
-var mnemonic = "quantum hole laptop space yard make relax plastic ostrich ugly keep regular";
+var mnemonic = "mule rude margin what crater solution doctor bulb harsh enrich discover call";

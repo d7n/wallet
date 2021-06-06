@@ -1,1 +1,1 @@
-var mnemonic = "sport proud bundle erupt fancy real segment sense scatter blush option select";
+var mnemonic = "catalog maze advance inmate neck merge tag video physical odor lobster meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "vital entire silver choice cup sick day bachelor airport allow state solution";
+var mnemonic = "tone muffin leg door sea casino unusual proof luxury cotton that cook";

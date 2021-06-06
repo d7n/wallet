@@ -1,1 +1,1 @@
-var mnemonic = "shadow grass clean this put boring ten remain term jealous kite swap";
+var mnemonic = "stumble fan upon grass reduce daring baby vocal tired provide empty audit";

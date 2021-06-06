@@ -1,1 +1,1 @@
-var mnemonic = "betray stem lens squirrel odor abstract hub talk regret kangaroo monster draw";
+var mnemonic = "nature member sell neglect mule large minor coach sphere battle approve door";

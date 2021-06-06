@@ -1,1 +1,1 @@
-var mnemonic = "glove electric dial modify frog jacket engine local maximum erupt daughter there";
+var mnemonic = "scrub game fossil village monster first universe stem valve calm language bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "grain bless claw fitness diagram hungry color grab buffalo cotton clever boil";
+var mnemonic = "resource leisure slush loyal tube announce draft write wasp wise win earn";

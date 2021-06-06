@@ -1,1 +1,1 @@
-var mnemonic = "bring pelican process ask ticket fork seek crawl pond swamp act kingdom";
+var mnemonic = "abandon wheel lava ring mixture lift ugly flock powder club fiscal shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "orange seed chaos tide museum between team spike holiday tell chuckle say";
+var mnemonic = "bean rescue undo pumpkin ceiling service favorite cloud cable world lend neutral";

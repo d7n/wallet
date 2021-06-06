@@ -1,1 +1,1 @@
-var mnemonic = "flavor confirm hair crumble age seek utility insane battle force shaft delay";
+var mnemonic = "doctor unknown future zone cool pool pencil screen moon athlete palm credit";

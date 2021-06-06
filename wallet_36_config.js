@@ -1,1 +1,1 @@
-var mnemonic = "color picture wood brush pole culture sugar unable toast portion account smile";
+var mnemonic = "much embody bracket quit imitate decade derive abuse diesel fork degree tail";

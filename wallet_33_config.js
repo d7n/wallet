@@ -1,1 +1,1 @@
-var mnemonic = "candy urge usual abandon alley mother setup lamp eye coin toy salmon";
+var mnemonic = "mule uncover visual script angry attack velvet range unknown clinic shoe office";

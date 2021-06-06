@@ -1,1 +1,1 @@
-var mnemonic = "only ocean trophy hire market cover auto near path urban salmon cake";
+var mnemonic = "mercy page rebuild review merge client acid armor embark bar submit festival";

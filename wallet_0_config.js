@@ -1,1 +1,1 @@
-var mnemonic = "discover drop market dream fancy deny narrow wood indoor protect aunt orchard";
+var mnemonic = "solve impose tobacco adult position resemble glare wife ozone treat valve slogan";

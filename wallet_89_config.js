@@ -1,1 +1,1 @@
-var mnemonic = "journey destroy alcohol awkward review green shaft lens usual assume piece focus";
+var mnemonic = "priority snack lend head weapon census genre trend joke double mom fox";

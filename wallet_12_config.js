@@ -1,1 +1,1 @@
-var mnemonic = "bar spoil sort believe fossil night carbon again inner gym attack abstract";
+var mnemonic = "bone coffee boil elevator issue youth connect ahead nut shy law network";

@@ -1,1 +1,1 @@
-var mnemonic = "label hill brass mirror lunar borrow pond one crowd gentle attract predict";
+var mnemonic = "virus bounce dragon couple note expand staff filter book spoil involve remember";

@@ -1,1 +1,1 @@
-var mnemonic = "manage vibrant resource reunion beach fragile aware goddess spy action draw aspect";
+var mnemonic = "afraid equip omit jaguar clump surge double squirrel mirror same point loud";

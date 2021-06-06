@@ -1,1 +1,1 @@
-var mnemonic = "abandon sibling game craft seek say bounce sorry try steak path shop";
+var mnemonic = "receive rebuild model vital spend awake two reflect initial hold gadget leader";

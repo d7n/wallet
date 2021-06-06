@@ -1,1 +1,1 @@
-var mnemonic = "patch claim culture canyon boss trumpet address pill mass busy depth pulp";
+var mnemonic = "decrease estate catalog only proud orbit expect habit tongue into swim lock";

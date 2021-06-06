@@ -1,1 +1,1 @@
-var mnemonic = "bless anxiety hip judge wasp elegant sort monitor frog harvest rabbit animal";
+var mnemonic = "sick barrel cactus exclude fluid mutual mixture fringe myth indoor educate cricket";

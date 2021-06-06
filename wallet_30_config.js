@@ -1,1 +1,1 @@
-var mnemonic = "genre twin tortoise main canoe arrow retreat track inject across message spatial";
+var mnemonic = "copper tag area trade crunch strike eternal loyal grain blanket move cause";

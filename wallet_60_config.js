@@ -1,1 +1,1 @@
-var mnemonic = "shoe flat minimum law success useless liquid drink ice stumble limb vote";
+var mnemonic = "visa belt dust slab suffer panel truly route lottery evoke test end";

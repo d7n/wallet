@@ -1,1 +1,1 @@
-var mnemonic = "hungry into change lawn prosper leisure hurt gift depth frown garlic kiss";
+var mnemonic = "risk agree phone actual valid undo price husband shoulder resemble beyond worry";

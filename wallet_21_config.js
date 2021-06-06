@@ -1,1 +1,1 @@
-var mnemonic = "roast foot peasant lady fiscal slot bid pilot move act impose require";
+var mnemonic = "exchange define general steel capable dune happy that flame alert girl turn";

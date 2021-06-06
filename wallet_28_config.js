@@ -1,1 +1,1 @@
-var mnemonic = "slide cabin cereal release dismiss develop squeeze ketchup fatal harsh fire knock";
+var mnemonic = "hero educate assault mutual burden rare siren trim mom prevent welcome slow";

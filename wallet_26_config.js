@@ -1,1 +1,1 @@
-var mnemonic = "sauce jeans art weasel cement answer firm pepper festival egg divorce border";
+var mnemonic = "tuition uniform alarm argue erase rebuild hill exhaust mouse eagle exercise deny";

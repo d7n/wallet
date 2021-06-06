@@ -1,1 +1,1 @@
-var mnemonic = "push someone school crash sunset census accuse north purpose cup foil hamster";
+var mnemonic = "armed bargain universe alone box dog fee vessel forum fish dream detail";

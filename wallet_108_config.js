@@ -1,1 +1,1 @@
-var mnemonic = "uniform kid desert bitter any hire speed fantasy year vibrant major aunt";
+var mnemonic = "window quantum blue seat ketchup discover only rain top swing train upper";

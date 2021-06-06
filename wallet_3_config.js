@@ -1,1 +1,1 @@
-var mnemonic = "coffee van pepper virus vivid coconut flush bracket long absurd hollow advice";
+var mnemonic = "someone brass account harbor park melt exit blind waste blossom nuclear need";

@@ -1,1 +1,1 @@
-var mnemonic = "engage upset creek render uphold sword rigid atom empty advice smile movie";
+var mnemonic = "sight movie satisfy useless you you later twin asthma echo milk supply";

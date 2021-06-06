@@ -1,1 +1,1 @@
-var mnemonic = "scare speed rocket light inflict arrive guess frost orchard walk grocery motor";
+var mnemonic = "youth head soul radar satisfy suit music impose mouse thank must sibling";

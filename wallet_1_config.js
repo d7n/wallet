@@ -1,1 +1,1 @@
-var mnemonic = "gift inject entire impulse cigar upset tape fatal minute sketch noodle advance";
+var mnemonic = "expand only shy noodle shoulder helmet whisper civil work cradle warm chapter";

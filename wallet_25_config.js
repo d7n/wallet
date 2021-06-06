@@ -1,1 +1,1 @@
-var mnemonic = "steak tool reflect truck price menu erode danger tunnel episode galaxy private";
+var mnemonic = "retreat perfect shadow sport reduce october vicious doctor wealth erupt bless evil";

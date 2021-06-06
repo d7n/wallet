@@ -1,1 +1,1 @@
-var mnemonic = "glimpse barrel lift slab aspect excite hurry breeze magnet prepare drift bacon";
+var mnemonic = "question match okay explain unknown kind hover usage cross scene shoot enroll";

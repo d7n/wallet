@@ -1,1 +1,1 @@
-var mnemonic = "sudden ancient rice marble junk gossip hold illness screen circle popular divide";
+var mnemonic = "runway smooth invite dignity armed buzz ecology enemy baby retire fiscal order";

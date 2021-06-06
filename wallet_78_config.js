@@ -1,1 +1,1 @@
-var mnemonic = "betray lamp mosquito escape job clean decide multiply ozone total fashion mandate";
+var mnemonic = "trim unable hedgehog high donate news pen poet fabric isolate year clean";

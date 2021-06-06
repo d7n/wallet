@@ -1,1 +1,1 @@
-var mnemonic = "moment all ignore soccer celery trial vanish during furnace palace smooth mystery";
+var mnemonic = "equip flavor program seven sword reveal joy game grocery dwarf second chalk";

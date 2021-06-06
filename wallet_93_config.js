@@ -1,1 +1,1 @@
-var mnemonic = "obey gravity account sorry into stem differ mass path solution initial reform";
+var mnemonic = "tomato divert robust illegal west embark globe push draft satisfy cigar rail";

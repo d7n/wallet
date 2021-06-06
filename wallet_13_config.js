@@ -1,1 +1,1 @@
-var mnemonic = "lonely fish invite slender paper knee error conduct notable cloth excuse escape";
+var mnemonic = "able enemy glue tower napkin action cousin offer spare dune vacuum cannon";

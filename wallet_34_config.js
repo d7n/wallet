@@ -1,1 +1,1 @@
-var mnemonic = "success door adult second noodle embrace tortoise lemon inside autumn stem defy";
+var mnemonic = "science flight gown other shoot hire board pause general task law off";

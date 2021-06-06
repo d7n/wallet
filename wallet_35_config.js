@@ -1,1 +1,1 @@
-var mnemonic = "water enforce admit online stadium dad display plate same frame capital adult";
+var mnemonic = "coin canoe pause glow tumble stadium cattle among coral behave car hybrid";

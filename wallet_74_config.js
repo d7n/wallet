@@ -1,1 +1,1 @@
-var mnemonic = "clarify panic isolate material rifle pass video hat warfare globe actress scatter";
+var mnemonic = "rookie shine blame kidney aim coach omit fog session shield atom duck";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle almost borrow core planet innocent kingdom scare example dry oyster field";
+var mnemonic = "rocket chief tornado daughter ordinary wave pistol pride guide coconut toe crime";

@@ -1,1 +1,1 @@
-var mnemonic = "husband farm labor hotel broom empty bicycle master parrot plastic path novel";
+var mnemonic = "light envelope potato pistol seminar person core convince later juice remain debate";

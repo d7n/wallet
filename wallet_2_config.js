@@ -1,1 +1,1 @@
-var mnemonic = "laundry rival sound print message wheel shed bachelor lecture bring fluid ostrich";
+var mnemonic = "whip sign town honey change opera hip skate nerve divert worry attack";

@@ -1,1 +1,1 @@
-var mnemonic = "copper acid urban exotic swear double sadness romance elder interest broken hawk";
+var mnemonic = "spy wide outside someone flash project boring rain tube toast park lobster";

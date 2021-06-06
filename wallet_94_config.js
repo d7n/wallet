@@ -1,1 +1,1 @@
-var mnemonic = "inherit report gravity sense picnic ship crouch number sell magic during solar";
+var mnemonic = "dad scrub mercy open whale gym anxiety pattern hockey fold wage raven";

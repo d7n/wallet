@@ -1,1 +1,1 @@
-var mnemonic = "field horror cargo biology raise boy wasp order coral winner giraffe endless";
+var mnemonic = "rail similar donate still whisper cute maximum double seven south vocal excuse";

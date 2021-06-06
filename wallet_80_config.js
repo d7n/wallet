@@ -1,1 +1,1 @@
-var mnemonic = "peace lift issue suffer delay senior hill present afford initial budget spy";
+var mnemonic = "boy hamster cabbage few legal ritual ivory basic aspect hawk convince wool";

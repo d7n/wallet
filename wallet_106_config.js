@@ -1,1 +1,1 @@
-var mnemonic = "title ocean invite march defy room sea pet trash pepper renew word";
+var mnemonic = "carbon oak glad enact empty target ramp swim fix animal lazy six";

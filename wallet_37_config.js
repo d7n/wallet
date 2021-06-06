@@ -1,1 +1,1 @@
-var mnemonic = "tone enforce vicious flock shoulder craft skill ranch portion equip twin real";
+var mnemonic = "shell spring parade universe pattern recycle pattern alien hour donkey brisk deer";

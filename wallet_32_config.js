@@ -1,1 +1,1 @@
-var mnemonic = "sure bottom rib motor chalk hunt maze all sustain general inmate session";
+var mnemonic = "hamster neither board pumpkin bunker action immune industry chalk derive nose tip";

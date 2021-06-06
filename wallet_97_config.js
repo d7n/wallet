@@ -1,1 +1,1 @@
-var mnemonic = "acoustic else excite super team volcano tattoo siege gate mountain coast dust";
+var mnemonic = "cram youth air ramp armor recall vocal benefit keep salt sweet average";

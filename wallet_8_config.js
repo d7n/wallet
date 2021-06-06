@@ -1,1 +1,1 @@
-var mnemonic = "alley thunder august trim census senior gossip vacant crisp sleep smoke embark";
+var mnemonic = "shaft pole fossil dentist boy kick switch wide unfold camera cinnamon stuff";

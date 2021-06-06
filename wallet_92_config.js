@@ -1,1 +1,1 @@
-var mnemonic = "panther limit aware pattern critic coffee spread machine allow run gallery place";
+var mnemonic = "code pear hunt basket tortoise gaze entire acquire exotic scrub profit auction";

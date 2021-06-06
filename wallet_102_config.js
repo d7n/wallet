@@ -1,1 +1,1 @@
-var mnemonic = "habit foam month wool average access knee pelican genre couple earth devote";
+var mnemonic = "impose add century print bid curve path hollow exotic expire patient usage";

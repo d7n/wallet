@@ -1,1 +1,1 @@
-var mnemonic = "salt flee can umbrella february doctor chair mirror sell prison news antique";
+var mnemonic = "glow typical answer practice suspect shove maze mother spring else hire mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon useless action curious carbon track advance angle pencil know mixture solar";
+var mnemonic = "gun vast choose era hand dial grit picnic guilt employ chicken riot";

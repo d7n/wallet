@@ -1,1 +1,1 @@
-var mnemonic = "pool exotic voice prevent holiday bargain person horror consider machine riot tank";
+var mnemonic = "poet fruit tourist future mammal tumble million ball wild east thank tube";

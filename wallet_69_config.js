@@ -1,1 +1,1 @@
-var mnemonic = "year surprise hill unfold original network south type egg hour reflect party";
+var mnemonic = "convince vague exhibit slight cattle toe mammal horse spell beyond marine divorce";

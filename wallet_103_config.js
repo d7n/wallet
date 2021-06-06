@@ -1,1 +1,1 @@
-var mnemonic = "claw spare flight coil timber outer tragic senior draw hotel because crucial";
+var mnemonic = "carpet method negative loop oil crystal lounge eagle bitter harbor pudding equal";

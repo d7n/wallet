@@ -1,1 +1,1 @@
-var mnemonic = "garment inflict guess around box loud scissors panda one negative tent fabric";
+var mnemonic = "list beyond spring novel load seven medal radar transfer olympic forest nothing";

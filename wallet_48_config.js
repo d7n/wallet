@@ -1,1 +1,1 @@
-var mnemonic = "pear history love rhythm give skill addict hidden rug leopard perfect vital";
+var mnemonic = "negative seminar vocal climb oak fine word adult reflect genre grit brief";

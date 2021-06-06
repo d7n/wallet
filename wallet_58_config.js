@@ -1,1 +1,1 @@
-var mnemonic = "envelope dismiss horn gauge trip day forest among hamster odor rigid nephew";
+var mnemonic = "clay speed food identify orchard jar hobby marble clean junk since service";

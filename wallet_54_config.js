@@ -1,1 +1,1 @@
-var mnemonic = "today flavor card return pulse bus gentle upper enforce drive behind easy";
+var mnemonic = "puzzle tired warrior nothing chalk length tissue word device round fault inmate";

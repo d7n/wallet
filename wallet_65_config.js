@@ -1,1 +1,1 @@
-var mnemonic = "join adjust crop produce jelly shaft legend mistake ability bronze number powder";
+var mnemonic = "race foster endless pitch tragic exile rifle trial arrive live expand assault";

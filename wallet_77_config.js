@@ -1,1 +1,1 @@
-var mnemonic = "now camera orphan metal audit destroy half length forget crumble private enhance";
+var mnemonic = "report theory decide heart shy phrase island cash observe cherry veteran core";

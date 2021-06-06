@@ -1,1 +1,1 @@
-var mnemonic = "bike theory mystery pelican present duty window elbow young guess domain pull";
+var mnemonic = "syrup people rookie cry win sport rain gas leopard screen payment theme";

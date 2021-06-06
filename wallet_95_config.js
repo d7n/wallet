@@ -1,1 +1,1 @@
-var mnemonic = "quit example question certain obscure cat way anxiety nose forum strong share";
+var mnemonic = "bounce stove fuel local ribbon strong bright duck hover cloud cake pioneer";

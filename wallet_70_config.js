@@ -1,1 +1,1 @@
-var mnemonic = "silver jelly share garage anger mutual snack cereal arctic winner kite grass";
+var mnemonic = "goose eager rather piece gauge uncle cattle conduct noise accuse category betray";

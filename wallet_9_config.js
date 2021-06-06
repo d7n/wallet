@@ -1,1 +1,1 @@
-var mnemonic = "popular creek carpet bacon napkin vote zebra fire start sense decade slim";
+var mnemonic = "bean bird husband mountain sketch brick purity mix spoon hat spring regret";
