@@ -1,1 +1,1 @@
-var mnemonic = "device rely fluid bind monster hole code pilot scrap sadness arch raven";
+var mnemonic = "loan relief before time abstract stick supreme impose agree filter salute front";

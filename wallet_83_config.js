@@ -1,1 +1,1 @@
-var mnemonic = "buffalo dawn chaos buffalo bless knock come tape venue armed robust nominee";
+var mnemonic = "sugar logic legend whisper home brain art engage judge dry tooth cabin";

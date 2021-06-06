@@ -1,1 +1,1 @@
-var mnemonic = "trick labor analyst donor rough isolate crystal twice hybrid senior key thought";
+var mnemonic = "piece patrol great win follow local erupt tissue awkward urban pair flame";

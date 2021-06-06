@@ -1,1 +1,1 @@
-var mnemonic = "method wool method expect napkin taxi amazing combine legend globe sadness demand";
+var mnemonic = "tip dirt unaware grit annual grief walnut pipe lion ethics doll lake";

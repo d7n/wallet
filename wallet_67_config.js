@@ -1,1 +1,1 @@
-var mnemonic = "brush vast december aware gorilla zone gift busy mirror choice range crouch";
+var mnemonic = "snake tray act alien impact hire type bunker soap behind truly permit";

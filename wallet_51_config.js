@@ -1,1 +1,1 @@
-var mnemonic = "remove luxury tower echo pass need inform effort stool truly pave tube";
+var mnemonic = "unable this damage common brass angle bomb tube frown teach song spice";

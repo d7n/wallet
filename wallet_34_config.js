@@ -1,1 +1,1 @@
-var mnemonic = "oak wear push senior risk alley check burst suffer crane proof pizza";
+var mnemonic = "robust dignity exit midnight luggage island bid quit olympic dinner sustain inquiry";

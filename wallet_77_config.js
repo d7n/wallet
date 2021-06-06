@@ -1,1 +1,1 @@
-var mnemonic = "sword betray hospital vibrant margin timber bachelor tray sausage skin enroll clerk";
+var mnemonic = "rookie exile harvest bicycle dream fuel armed project wall goddess sudden cargo";

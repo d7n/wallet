@@ -1,1 +1,1 @@
-var mnemonic = "type govern express unfold cry decide host pool usual buffalo ugly turn";
+var mnemonic = "about worth insane banana close december stool true session vote soda result";

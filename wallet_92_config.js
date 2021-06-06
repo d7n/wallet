@@ -1,1 +1,1 @@
-var mnemonic = "turtle version card record point main open furnace obvious stairs scare day";
+var mnemonic = "sun clog tissue bitter calm food nice disease program nominee identify honey";

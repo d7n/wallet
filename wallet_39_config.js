@@ -1,1 +1,1 @@
-var mnemonic = "discover source brisk crop oblige lecture crisp pizza this copy arrest predict";
+var mnemonic = "lounge buyer charge lens execute middle snap inject fortune few half chronic";

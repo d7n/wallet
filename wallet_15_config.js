@@ -1,1 +1,1 @@
-var mnemonic = "tongue addict cross category zone razor square mammal lab someone earth lock";
+var mnemonic = "reveal upon speak athlete reduce measure ankle come noodle swear series slush";

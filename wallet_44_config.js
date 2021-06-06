@@ -1,1 +1,1 @@
-var mnemonic = "follow level feed forum cereal unique outer perfect lucky stage loan coil";
+var mnemonic = "waste erupt drink escape real nerve couch join wash whip frown walk";

@@ -1,1 +1,1 @@
-var mnemonic = "space key achieve ecology slight lobster peasant cube soap into olympic only";
+var mnemonic = "sign coconut rib media pistol outdoor swamp head license fold north wonder";

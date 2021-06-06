@@ -1,1 +1,1 @@
-var mnemonic = "fury pill depart clock digital renew toy soda bomb multiply table pave";
+var mnemonic = "version grape program age tank fresh victory mixture submit settle odor fiction";

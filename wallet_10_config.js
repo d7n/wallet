@@ -1,1 +1,1 @@
-var mnemonic = "harsh fancy mushroom damp corn normal federal female hungry giggle what nose";
+var mnemonic = "good hand salon tell draw style surprise convince embody sad fresh side";

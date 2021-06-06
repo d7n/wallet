@@ -1,1 +1,1 @@
-var mnemonic = "lens salt rescue blanket dash program dinosaur jazz search boss syrup hire";
+var mnemonic = "notable slogan know toy spirit pull mother lawn glare roof wool cycle";

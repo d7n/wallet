@@ -1,1 +1,1 @@
-var mnemonic = "isolate flight gate humble modify margin battle valley crowd empower retire birth";
+var mnemonic = "fortune produce flame panda public refuse august voyage flavor buffalo super awkward";

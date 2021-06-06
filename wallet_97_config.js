@@ -1,1 +1,1 @@
-var mnemonic = "mouse thing eager pumpkin sudden library twin bless risk faculty vintage define";
+var mnemonic = "arm trash extend jealous awesome cement verify promote bird pelican hen wide";

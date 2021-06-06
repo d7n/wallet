@@ -1,1 +1,1 @@
-var mnemonic = "daughter roof bring wife dance hero false onion off smile typical record";
+var mnemonic = "nation keen brand achieve laugh cheese giraffe income twenty plastic mail peanut";

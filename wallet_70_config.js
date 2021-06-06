@@ -1,1 +1,1 @@
-var mnemonic = "artist regret relief rotate market unveil portion junk season step giraffe truck";
+var mnemonic = "lobster miss marine tone same excite maid source garage absent talk artefact";

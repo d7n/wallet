@@ -1,1 +1,1 @@
-var mnemonic = "maple area brave dignity giggle debris poem grocery end alert bracket poem";
+var mnemonic = "jacket race border claim dismiss rail spawn decide game wagon melody north";

@@ -1,1 +1,1 @@
-var mnemonic = "they truly crack click culture effort inflict bullet basket horn invest swim";
+var mnemonic = "permit civil above cupboard nest anxiety repeat syrup lucky purse lend hair";

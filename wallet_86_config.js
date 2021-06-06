@@ -1,1 +1,1 @@
-var mnemonic = "shield sausage celery address sail filter trouble quote eye language rotate snack";
+var mnemonic = "loyal boat clean alien dumb crunch derive police expose into grape loud";

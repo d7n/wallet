@@ -1,1 +1,1 @@
-var mnemonic = "thank glare seminar ivory dry ramp destroy release enact fog solve version";
+var mnemonic = "south client where equip dinosaur submit genius dash sphere village claw system";

@@ -1,1 +1,1 @@
-var mnemonic = "write act liar deny throw balance jacket antique scatter alien marble message";
+var mnemonic = "require drastic expect practice blush entry parade spend clean bulk exact dutch";

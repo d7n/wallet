@@ -1,1 +1,1 @@
-var mnemonic = "educate enjoy oval total hover mesh differ teach problem you recall erupt";
+var mnemonic = "woman book close enhance car comic amazing tape menu climb obvious detect";

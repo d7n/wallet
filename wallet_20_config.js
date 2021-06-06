@@ -1,1 +1,1 @@
-var mnemonic = "river blast sudden spread sing antenna mirror rain thrive search electric purity";
+var mnemonic = "sample only split naive volcano rocket few swear nice know pave cliff";

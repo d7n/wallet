@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon urge actor social clump come service mechanic royal young agree earth";
+var mnemonic = "melody spot witness cement puppy arch boat spice shrimp fault input between";

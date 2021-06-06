@@ -1,1 +1,1 @@
-var mnemonic = "anchor lens theory gossip flower flock trash diamond diagram curtain donate arm";
+var mnemonic = "such scout report capital impact private army clutch viable can service volcano";

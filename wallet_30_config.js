@@ -1,1 +1,1 @@
-var mnemonic = "edge pelican fluid inmate chef nation toy rather twelve energy cheese find";
+var mnemonic = "horse plunge tool access issue garage exile satisfy scene nothing sound blush";

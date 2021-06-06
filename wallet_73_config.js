@@ -1,1 +1,1 @@
-var mnemonic = "dress age check bicycle trip category fox cake jar produce range label";
+var mnemonic = "ecology culture hill remain follow defense eagle target banner snake door word";

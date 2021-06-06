@@ -1,1 +1,1 @@
-var mnemonic = "pact kind antique use doll reform dove march birth stem boss expect";
+var mnemonic = "pony upon quit try route tomorrow crucial apology buyer race cactus excess";

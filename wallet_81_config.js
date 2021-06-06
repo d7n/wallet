@@ -1,1 +1,1 @@
-var mnemonic = "damage front jaguar economy swallow hold early leopard lake badge pyramid sail";
+var mnemonic = "number rain demand pipe hello damage neck task moon lobster cement job";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple divide exclude toast motion duck annual mango account balcony grunt teach";
+var mnemonic = "attend royal decorate injury lawsuit zero misery jeans salad spike exact improve";

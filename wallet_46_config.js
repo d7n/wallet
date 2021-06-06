@@ -1,1 +1,1 @@
-var mnemonic = "peanut kingdom draw shoulder chalk educate enact couple satisfy spoon gallery mom";
+var mnemonic = "unfold wood clap custom garbage clean claim immense book forward miracle arena";

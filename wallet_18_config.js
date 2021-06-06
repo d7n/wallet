@@ -1,1 +1,1 @@
-var mnemonic = "ring sweet denial column magnet cream fun address country aware hire cricket";
+var mnemonic = "arctic opera island fence ring excite treat venture another shop they stable";

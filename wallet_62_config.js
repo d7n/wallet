@@ -1,1 +1,1 @@
-var mnemonic = "final observe dilemma between custom allow wheat fault lazy usual injury pass";
+var mnemonic = "must alpha coconut harbor combine equal someone until great venue asthma feed";

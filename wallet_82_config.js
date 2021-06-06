@@ -1,1 +1,1 @@
-var mnemonic = "run address machine dignity scorpion leader nominee cliff afford alpha rural offer";
+var mnemonic = "curve parade imitate loop junior offer success awake lyrics federal situate mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "model faculty portion lucky wing arena tissue medal visa old video bacon";
+var mnemonic = "minimum delay laptop young mask color lift exercise sponsor myself volcano fit";

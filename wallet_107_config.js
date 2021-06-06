@@ -1,1 +1,1 @@
-var mnemonic = "noise achieve pipe grunt design arctic paddle better kitten name saddle primary";
+var mnemonic = "novel north sting exclude grass mixed rival essence sick average exist teach";

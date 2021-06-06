@@ -1,1 +1,1 @@
-var mnemonic = "tunnel category buzz boil jacket concert basket position addict traffic coffee plastic";
+var mnemonic = "dream matrix install bridge nasty silver rescue hire ski paper danger fan";

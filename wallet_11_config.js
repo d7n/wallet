@@ -1,1 +1,1 @@
-var mnemonic = "side topple prison thank boost rally arctic click hockey shield arm theme";
+var mnemonic = "comic marine outdoor cabin error siege cinnamon bring horror glove price assume";

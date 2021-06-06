@@ -1,1 +1,1 @@
-var mnemonic = "label sudden measure keep what critic recipe private arctic toward gun phrase";
+var mnemonic = "vapor jewel eye trial elbow blur toward pink swarm fitness abandon flower";

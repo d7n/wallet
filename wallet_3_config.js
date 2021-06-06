@@ -1,1 +1,1 @@
-var mnemonic = "tool beach work unit economy capable bamboo shock license income task identify";
+var mnemonic = "whisper abuse sick cement erase action frost skirt leader thunder chest nasty";

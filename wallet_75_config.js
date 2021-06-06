@@ -1,1 +1,1 @@
-var mnemonic = "urge normal jazz reopen stadium recycle skill govern hand syrup pole buffalo";
+var mnemonic = "elbow possible shaft mansion share coach cupboard cart gown gorilla airport lens";

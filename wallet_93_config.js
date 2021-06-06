@@ -1,1 +1,1 @@
-var mnemonic = "water wine wide chief happy deny suggest member vocal give aunt bubble";
+var mnemonic = "vacuum recycle turkey mosquito exhibit agent reflect rude render easy menu muffin";

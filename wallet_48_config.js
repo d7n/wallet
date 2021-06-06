@@ -1,1 +1,1 @@
-var mnemonic = "lake blush muffin scout payment spawn mountain suspect invest apple banner security";
+var mnemonic = "then mimic embrace about slice dial april bunker front direct gas dolphin";

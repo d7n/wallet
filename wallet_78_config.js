@@ -1,1 +1,1 @@
-var mnemonic = "tip junk identify hybrid cereal program glimpse butter rate shallow movie awake";
+var mnemonic = "call hire cat regret profit patient track visual raw program local load";

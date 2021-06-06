@@ -1,1 +1,1 @@
-var mnemonic = "remain expand define evidence rocket steak try lizard bread cool pattern wreck";
+var mnemonic = "favorite fantasy beach bright echo magic raccoon hedgehog keen hour law february";

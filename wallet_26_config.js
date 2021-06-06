@@ -1,1 +1,1 @@
-var mnemonic = "plug exhibit trigger attitude else museum middle tube adjust swallow priority carbon";
+var mnemonic = "hour social quit amount lens funny stock night illegal grab snack game";

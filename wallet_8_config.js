@@ -1,1 +1,1 @@
-var mnemonic = "pole hole cactus cinnamon asthma flower piece filter try sleep neutral lab";
+var mnemonic = "curtain knife custom north accident lamp engine space awesome payment soda luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "merry sister snake rabbit notice easy banana arrive hammer crazy scrub harvest";
+var mnemonic = "noodle link camera travel donor decide ivory type model arena fringe follow";

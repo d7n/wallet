@@ -1,1 +1,1 @@
-var mnemonic = "silent draw second agent leader gas secret rough lounge father honey expose";
+var mnemonic = "cry glimpse frog duck scatter occur genuine swamp media fun eye catalog";

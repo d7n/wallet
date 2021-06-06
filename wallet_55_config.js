@@ -1,1 +1,1 @@
-var mnemonic = "turn bracket crisp unfair essay satoshi blue must cruise junk hour zoo";
+var mnemonic = "victory cattle shallow artwork donkey happy same demise naive rigid around silk";

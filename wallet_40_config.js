@@ -1,1 +1,1 @@
-var mnemonic = "food dice receive dry file stuff dial brush blind film resemble sign";
+var mnemonic = "define swim fiber twist motion hammer peanut split engage barely audit view";

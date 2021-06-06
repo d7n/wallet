@@ -1,1 +1,1 @@
-var mnemonic = "correct siege garbage island garlic manual erosion copy glue faith lift core";
+var mnemonic = "course vault museum garlic describe mouse trick typical census ability car brass";

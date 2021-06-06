@@ -1,1 +1,1 @@
-var mnemonic = "service auction police divert visit detail length drum rabbit disease pen wide";
+var mnemonic = "ignore daughter mention hurry chair reform good cabbage benefit rival pencil rice";

@@ -1,1 +1,1 @@
-var mnemonic = "torch regret truth public infant anchor drastic forest degree horse knife copper";
+var mnemonic = "fashion echo trust vicious mechanic square ball genre wreck animal indicate cliff";

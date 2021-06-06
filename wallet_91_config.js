@@ -1,1 +1,1 @@
-var mnemonic = "busy record govern else fun core success ozone alert winner switch shoulder";
+var mnemonic = "category awful hospital bar inject text wise office once theme keen upon";

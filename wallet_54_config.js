@@ -1,1 +1,1 @@
-var mnemonic = "rent bike head nuclear jewel flush diet stuff kind letter despair dynamic";
+var mnemonic = "minute lens focus outside alone must barely picture thing cloth bullet dose";

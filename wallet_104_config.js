@@ -1,1 +1,1 @@
-var mnemonic = "raw million until confirm mistake banner tongue diesel game proof admit maid";
+var mnemonic = "flash volcano say company float tonight brain edit wrong pole panel crisp";

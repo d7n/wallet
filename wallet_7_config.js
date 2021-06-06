@@ -1,1 +1,1 @@
-var mnemonic = "dial deliver subway sad time human please spider wine check divert submit";
+var mnemonic = "jar tuna bottom pepper place swear brush fatal sight inmate vault candy";

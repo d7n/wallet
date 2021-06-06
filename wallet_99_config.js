@@ -1,1 +1,1 @@
-var mnemonic = "result creek banner change crash current file repair gauge mad differ belt";
+var mnemonic = "visual marine sauce cross deputy absent hen normal book music judge aerobic";

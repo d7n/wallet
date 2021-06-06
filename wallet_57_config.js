@@ -1,1 +1,1 @@
-var mnemonic = "acid space ghost ill syrup lens promote scan script erosion gym modify";
+var mnemonic = "betray oblige obvious coin guide lady spoon pride walnut certain mimic survey";

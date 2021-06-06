@@ -1,1 +1,1 @@
-var mnemonic = "crumble own scrub trumpet violin empty push arena suffer present fence together";
+var mnemonic = "mobile frog rude reopen trigger atom polar net sort winter radio tenant";

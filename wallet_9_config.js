@@ -1,1 +1,1 @@
-var mnemonic = "giraffe foot life twist fury tenant hard patient pizza panel high raw";
+var mnemonic = "betray increase view violin bus grid fat wasp bike fatal crater turkey";

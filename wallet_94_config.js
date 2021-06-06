@@ -1,1 +1,1 @@
-var mnemonic = "beef side melody lyrics ability rubber select embrace error river praise assist";
+var mnemonic = "tray million destroy toilet weekend anchor north erode ripple hedgehog casino rich";

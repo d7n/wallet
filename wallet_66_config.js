@@ -1,1 +1,1 @@
-var mnemonic = "dentist swim romance census dynamic path sea impose table unknown session voice";
+var mnemonic = "oppose print wolf salt drastic shallow lobster jacket panda very throw pact";

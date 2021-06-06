@@ -1,1 +1,1 @@
-var mnemonic = "trigger patient smart fame sorry gold shuffle jump bus mean chapter achieve";
+var mnemonic = "game obtain good family wheel focus grit remove possible shoe add doctor";

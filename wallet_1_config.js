@@ -1,1 +1,1 @@
-var mnemonic = "burden annual forward eternal pride clap erosion act address bonus warfare two";
+var mnemonic = "phone almost involve aware tiny dress permit injury pencil empty sustain purity";

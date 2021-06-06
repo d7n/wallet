@@ -1,1 +1,1 @@
-var mnemonic = "link open zero brick cradle giggle dad artist prepare trumpet opinion fish";
+var mnemonic = "desert inhale nothing surge wrestle vessel damage puppy scare furnace athlete female";

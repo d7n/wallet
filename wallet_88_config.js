@@ -1,1 +1,1 @@
-var mnemonic = "scheme rent space treat equal monster pet ugly raccoon stool often custom";
+var mnemonic = "fat hockey stick fashion master dry february knock task foil text gun";

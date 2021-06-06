@@ -1,1 +1,1 @@
-var mnemonic = "protect warrior ginger wire perfect delay admit carpet rhythm target rib wasp";
+var mnemonic = "window chalk axis wait suggest sustain average pyramid afraid sauce daring unique";

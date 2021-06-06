@@ -1,1 +1,1 @@
-var mnemonic = "silent source quantum noise laundry camera move crater vault second rain enjoy";
+var mnemonic = "mistake spend belt spike thumb turn pride often rice cram cloth pyramid";

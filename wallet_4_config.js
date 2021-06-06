@@ -1,1 +1,1 @@
-var mnemonic = "inside advice verify urban into guilt agent adapt response kiss hamster much";
+var mnemonic = "horror trade vicious icon next bicycle fire melody advance cool doctor parent";

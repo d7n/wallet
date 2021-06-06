@@ -1,1 +1,1 @@
-var mnemonic = "video junk erode turn heart donkey pause rival husband margin certain rigid";
+var mnemonic = "unable slim voice often adult noble virtual behind fiscal key fat avocado";

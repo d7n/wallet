@@ -1,1 +1,1 @@
-var mnemonic = "spirit supreme expect forest fit over fitness someone aerobic old clock dog";
+var mnemonic = "ethics solar trend gesture want ranch all fetch ticket hand fashion car";

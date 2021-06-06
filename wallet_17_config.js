@@ -1,1 +1,1 @@
-var mnemonic = "food ecology congress theory slab runway split bulk roof copper reform axis";
+var mnemonic = "fresh hill blossom budget crane veteran nurse estate senior valid expire surround";

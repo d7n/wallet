@@ -1,1 +1,1 @@
-var mnemonic = "door whip resource install magic receive sponsor survey magic garment success beyond";
+var mnemonic = "meat version into segment treat slim law grid west comfort hundred behave";

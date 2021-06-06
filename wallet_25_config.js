@@ -1,1 +1,1 @@
-var mnemonic = "suspect fashion clip vehicle pipe friend obscure elder phrase oyster gospel goddess";
+var mnemonic = "sauce habit valve runway parrot elite rug lend admit zebra play lounge";

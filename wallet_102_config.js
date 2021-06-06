@@ -1,1 +1,1 @@
-var mnemonic = "call weapon wash wool royal lounge small fish void hold decade render";
+var mnemonic = "tail identify beef online arch glow blind tray nothing reject spider proof";

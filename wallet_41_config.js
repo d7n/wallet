@@ -1,1 +1,1 @@
-var mnemonic = "inquiry carbon length decide scrap eagle rival output describe share spider mix";
+var mnemonic = "conduct tank inquiry ticket puppy tonight current excuse until rifle adapt equal";

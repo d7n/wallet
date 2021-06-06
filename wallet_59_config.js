@@ -1,1 +1,1 @@
-var mnemonic = "renew kiss alert seat avocado club ill okay rule club fragile client";
+var mnemonic = "opinion hunt wrap edge dog wrestle keep gloom chase tent math fossil";

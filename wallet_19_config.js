@@ -1,1 +1,1 @@
-var mnemonic = "truly arm danger man real weapon viable tired name sauce attract unusual";
+var mnemonic = "ethics job dose domain crime mechanic fiber usage fog museum soap saddle";

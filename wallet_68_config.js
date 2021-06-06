@@ -1,1 +1,1 @@
-var mnemonic = "abuse leave math skull ski turn harbor ticket say addict diary rent";
+var mnemonic = "design debate current normal alone trumpet forum shrug can surge sponsor grain";

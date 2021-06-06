@@ -1,1 +1,1 @@
-var mnemonic = "weird video chronic hat win valley shuffle add when abuse claim paddle";
+var mnemonic = "okay ahead pioneer crowd ripple crash nominee sleep zebra alert dumb boat";

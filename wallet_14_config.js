@@ -1,1 +1,1 @@
-var mnemonic = "art glove control deer call wasp shoe funny merry toward room field";
+var mnemonic = "diesel phrase wedding exhibit nose wet install gauge antenna desk audit measure";

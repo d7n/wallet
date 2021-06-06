@@ -1,1 +1,1 @@
-var mnemonic = "sponsor panther play weasel twenty lend rose truth return scrap vanish market";
+var mnemonic = "cousin cradle lunar gift cash post boil harvest close company aisle wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "slice oval attitude giraffe neither pride emerge suit have coil curve behave";
+var mnemonic = "eight lens spike price ethics debris recycle mom craft sand switch pig";

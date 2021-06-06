@@ -1,1 +1,1 @@
-var mnemonic = "start mimic impact service cattle chuckle before summer glance talk cupboard decide";
+var mnemonic = "culture display ski reopen purse claim law payment bundle outdoor destroy talent";
