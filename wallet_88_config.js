@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon wish economy basket garden library brand violin exchange month ship picnic";
+var mnemonic = "sound conduct kitten bottom indoor drive vague obvious impose truck lucky panther";

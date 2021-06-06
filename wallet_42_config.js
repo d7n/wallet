@@ -1,1 +1,1 @@
-var mnemonic = "boring swear project rack crazy certain either cabin decide animal south pudding";
+var mnemonic = "glory idea attitude lawsuit shop cannon net crew conduct certain party club";

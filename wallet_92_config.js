@@ -1,1 +1,1 @@
-var mnemonic = "bulb gorilla useful undo afraid sign erupt pulse gorilla alcohol route cycle";
+var mnemonic = "general glance puppy armed memory must north bargain burst foil drip usage";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog pistol tribe best choice swap only relax echo dish budget pet";
+var mnemonic = "promote crater inhale leopard truth engine can caution truly pudding dog execute";

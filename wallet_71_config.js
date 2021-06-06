@@ -1,1 +1,1 @@
-var mnemonic = "sound matter useful table seminar metal food mushroom manage cage shove agree";
+var mnemonic = "trip entry weather harbor language reunion million swap scout tape valve narrow";

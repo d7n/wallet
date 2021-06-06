@@ -1,1 +1,1 @@
-var mnemonic = "bike split bring spike garbage model venture season dash eternal ridge unit";
+var mnemonic = "company harsh bitter bright jungle above wash track develop melt alarm build";

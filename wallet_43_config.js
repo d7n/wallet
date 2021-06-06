@@ -1,1 +1,1 @@
-var mnemonic = "lizard confirm melt runway repair nation pioneer pyramid crisp submit amount travel";
+var mnemonic = "large quarter mom night lend laugh hood flock smile warfare drop balance";

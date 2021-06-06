@@ -1,1 +1,1 @@
-var mnemonic = "extra valley coral nothing walk record orange absurd mountain solar churn melody";
+var mnemonic = "apart noodle waste team skill course gap remind cricket unable record cricket";

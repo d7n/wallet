@@ -1,1 +1,1 @@
-var mnemonic = "concert skull space pair million donor face faith tenant obtain coast acoustic";
+var mnemonic = "trophy dumb copy group fury barrel celery humble soda hundred regular gate";

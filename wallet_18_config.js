@@ -1,1 +1,1 @@
-var mnemonic = "myth coyote poem derive smart grunt speed common sample syrup orbit mimic";
+var mnemonic = "blanket demand box great punch rose organ mixed column collect lens aware";

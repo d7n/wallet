@@ -1,1 +1,1 @@
-var mnemonic = "valid unit aim pipe place tobacco rather night bulk ramp input immense";
+var mnemonic = "stay few level tackle sell zebra title sight network evidence boil blur";

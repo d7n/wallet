@@ -1,1 +1,1 @@
-var mnemonic = "better spell wire various grief scrap march list canal okay coil walnut";
+var mnemonic = "pink water smooth surface page sign street injury voice honey rack wood";

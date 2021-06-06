@@ -1,1 +1,1 @@
-var mnemonic = "infant rescue process pilot wide cargo critic settle bridge receive mention test";
+var mnemonic = "famous flame world harbor birth route elephant onion soda rocket okay square";

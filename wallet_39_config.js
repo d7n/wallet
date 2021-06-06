@@ -1,1 +1,1 @@
-var mnemonic = "blouse defy tell nature avocado awful breeze acoustic swim peace clerk pitch";
+var mnemonic = "chair vendor wait paper two fence captain fetch soda fashion business already";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose easy armed under punch cliff say pact combine happy extra chunk";
+var mnemonic = "follow adult one awake mixed monster about arch find acquire flavor hint";

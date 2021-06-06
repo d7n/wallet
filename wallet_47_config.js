@@ -1,1 +1,1 @@
-var mnemonic = "industry rifle negative patch ship praise suspect welcome view shoe capital tunnel";
+var mnemonic = "snake april caught renew post luggage claw orange biology novel million key";

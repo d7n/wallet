@@ -1,1 +1,1 @@
-var mnemonic = "fitness snow grunt cloth regular screen boil polar always thumb grit humble";
+var mnemonic = "online minor upper copy tent clinic copy damp inherit impose gorilla equal";

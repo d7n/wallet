@@ -1,1 +1,1 @@
-var mnemonic = "hand blood shoot armed glass night club tent feel snow poverty mixed";
+var mnemonic = "wet chunk foot foil use entire ticket feed vast crumble army shove";

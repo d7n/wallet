@@ -1,1 +1,1 @@
-var mnemonic = "sense orchard pioneer repeat van eight undo adapt weapon exhibit husband assume";
+var mnemonic = "wolf define gasp charge pole vehicle acoustic cheap giraffe enrich power thrive";

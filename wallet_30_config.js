@@ -1,1 +1,1 @@
-var mnemonic = "crisp remove invest alcohol scout ask ladder select beauty public express mixed";
+var mnemonic = "heart fog wall repeat wide slam vacant lemon usual record hospital mango";

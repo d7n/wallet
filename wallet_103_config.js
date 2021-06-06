@@ -1,1 +1,1 @@
-var mnemonic = "weapon gallery addict blur party crane kind crystal patient exhaust stay stomach";
+var mnemonic = "skin elder item lift math tell march elephant cinnamon tower cactus depart";

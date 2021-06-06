@@ -1,1 +1,1 @@
-var mnemonic = "emotion horror warrior faint muscle rural short tunnel dog unveil monkey topic";
+var mnemonic = "narrow runway hole miracle kitchen heart veteran lunar whisper laptop abstract diesel";

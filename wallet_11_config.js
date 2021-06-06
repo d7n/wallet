@@ -1,1 +1,1 @@
-var mnemonic = "decade open creek attend polar combine price cat unknown increase hip lottery";
+var mnemonic = "bronze shrug street twenty reward actual gauge salute another smile chuckle alley";

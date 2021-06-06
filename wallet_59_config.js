@@ -1,1 +1,1 @@
-var mnemonic = "hire fitness pulp column feel office nose supreme unit render detect suffer";
+var mnemonic = "oval appear about mad join return rate fence mansion lens strategy three";

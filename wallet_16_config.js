@@ -1,1 +1,1 @@
-var mnemonic = "column arrive depend tonight never butter type enter fetch civil together lake";
+var mnemonic = "brief lab aunt core shiver keep ginger pride spy bulk busy tag";

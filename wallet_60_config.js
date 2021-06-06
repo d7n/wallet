@@ -1,1 +1,1 @@
-var mnemonic = "away supreme thunder amazing ethics behave all machine hill pigeon build practice";
+var mnemonic = "lemon humor system minor sniff mutual live clay joke session keen planet";

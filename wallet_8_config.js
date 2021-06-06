@@ -1,1 +1,1 @@
-var mnemonic = "one wage tag only buzz romance stomach embark hello help demand core";
+var mnemonic = "quote stone course clap old feed crime this elder conduct donor mask";

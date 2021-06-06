@@ -1,1 +1,1 @@
-var mnemonic = "time scare hood noodle require sing recycle claim segment camera obvious shock";
+var mnemonic = "identify step unique vibrant outdoor about message tunnel double glow ahead curtain";

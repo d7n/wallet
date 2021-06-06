@@ -1,1 +1,1 @@
-var mnemonic = "motor sad column organ believe found differ ride oak wire butter federal";
+var mnemonic = "rival sunny spike captain spray flavor wish creek remove few tongue clever";

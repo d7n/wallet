@@ -1,1 +1,1 @@
-var mnemonic = "nephew pony inside fiction congress harbor venue calm wedding record margin fever";
+var mnemonic = "then leg become mimic public text affair bus fitness chat shed option";

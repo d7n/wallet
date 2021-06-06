@@ -1,1 +1,1 @@
-var mnemonic = "rebuild sting danger flip diet million middle pride unlock slight physical benefit";
+var mnemonic = "torch general coach coach issue comfort clip flee surprise connect fine spray";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar creek aisle luxury strong priority right govern again brave blood honey";
+var mnemonic = "tube plunge rare nurse axis develop sorry decrease fringe copper eye acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral this below coach buffalo produce reopen alarm use recall announce slab";
+var mnemonic = "ticket roof pizza shuffle kangaroo pride risk save betray summer library liquid";

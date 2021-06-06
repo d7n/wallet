@@ -1,1 +1,1 @@
-var mnemonic = "high fury bar save riot shrug science insane enlist dial discover color";
+var mnemonic = "inside bubble picnic weekend quiz drift expect first bunker sentence gallery cash";

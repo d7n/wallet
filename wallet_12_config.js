@@ -1,1 +1,1 @@
-var mnemonic = "wear fly monkey ball breeze evolve clap indicate blur jaguar proof fade";
+var mnemonic = "bulk wisdom zone barely spread tackle speed ocean great wide bread luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "bird harvest sock girl govern skate resist melt loan panic spare moral";
+var mnemonic = "action venture athlete pear gauge custom permit battle eager spare together roof";

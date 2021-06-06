@@ -1,1 +1,1 @@
-var mnemonic = "this large hockey win caution liquid oven sock humor soup misery nurse";
+var mnemonic = "promote captain glide wrong card page question viable gorilla truth wheel load";

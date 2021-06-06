@@ -1,1 +1,1 @@
-var mnemonic = "thunder hope assist avoid cream polar cart scare slam clown sadness pony";
+var mnemonic = "scare still ready dust kite evidence trophy chair glance spy hint twice";

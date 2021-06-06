@@ -1,1 +1,1 @@
-var mnemonic = "helmet fashion what final marble abandon romance dash utility tattoo wagon question";
+var mnemonic = "jazz rhythm will stumble pudding magnet plastic guess pair cave chapter fashion";

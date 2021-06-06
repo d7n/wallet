@@ -1,1 +1,1 @@
-var mnemonic = "gown broom ready enact reopen asthma strike grab clutch supply obey negative";
+var mnemonic = "pony shield baby lamp ice false olive inmate venture local library pipe";

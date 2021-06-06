@@ -1,1 +1,1 @@
-var mnemonic = "jeans sauce skin pause garden cost clutch torch anchor eight humble improve";
+var mnemonic = "dial lawn solid oak regret bottom humor coil melt monkey brand fame";

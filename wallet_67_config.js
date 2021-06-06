@@ -1,1 +1,1 @@
-var mnemonic = "awful fine supreme curve salt fitness property vote ridge clean settle reveal";
+var mnemonic = "exact usage charge thought powder begin raven young goat garment swing mean";

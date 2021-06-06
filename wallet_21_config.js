@@ -1,1 +1,1 @@
-var mnemonic = "vapor fabric piano achieve bubble choose sea lunar soap indicate resemble end";
+var mnemonic = "hedgehog child scout flush release enhance south away foot wear display cluster";

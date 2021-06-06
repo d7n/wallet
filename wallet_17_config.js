@@ -1,1 +1,1 @@
-var mnemonic = "ball cash nerve rib asset thunder swim tone plate task animal crane";
+var mnemonic = "solid rhythm taxi rough banana job token anchor crack crisp bean dune";

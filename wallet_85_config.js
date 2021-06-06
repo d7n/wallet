@@ -1,1 +1,1 @@
-var mnemonic = "age poet globe artist artwork magnet chest soul stand duty parent hospital";
+var mnemonic = "purse portion purse match machine bench grab never cheese goddess abandon carpet";

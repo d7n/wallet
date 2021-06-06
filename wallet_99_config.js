@@ -1,1 +1,1 @@
-var mnemonic = "portion estate cancel thunder final cabin cotton smooth write brick disease problem";
+var mnemonic = "profit direct demand behave since ball detect lemon wrap drift brown machine";

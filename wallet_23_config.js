@@ -1,1 +1,1 @@
-var mnemonic = "sick wet sudden tail viable drama tackle force render person firm razor";
+var mnemonic = "odor disagree parade phone column ice trust stumble wheat first wink able";

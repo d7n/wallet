@@ -1,1 +1,1 @@
-var mnemonic = "jazz inform smart picture monkey office kiss impose foil giraffe copper certain";
+var mnemonic = "devote virus tiger print action feature session pudding dynamic cotton divorce latin";

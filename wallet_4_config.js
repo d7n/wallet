@@ -1,1 +1,1 @@
-var mnemonic = "still input tortoise bronze soup rebuild august confirm project someone faint pride";
+var mnemonic = "drop pride pyramid super heart copy truly walnut ripple long upper bitter";

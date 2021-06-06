@@ -1,1 +1,1 @@
-var mnemonic = "credit palm cancel bicycle argue cash when cup shy casino poem adapt";
+var mnemonic = "number fabric sustain defense dash fuel network sleep video arena escape wheat";

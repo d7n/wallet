@@ -1,1 +1,1 @@
-var mnemonic = "kitten practice cabbage clay paddle spider zone mention like purse goose satisfy";
+var mnemonic = "alcohol casino budget route toe exclude radio leg diagram stumble silent oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity orange soon twin magnet pen embody north such song galaxy acoustic";
+var mnemonic = "assume glide erode nature share chunk leg claim olive venue innocent diesel";

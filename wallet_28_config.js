@@ -1,1 +1,1 @@
-var mnemonic = "weird prison anger pair access scorpion draft tornado below aspect final fantasy";
+var mnemonic = "track increase cat endorse clay split unveil since say school salad cross";

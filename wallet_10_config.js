@@ -1,1 +1,1 @@
-var mnemonic = "entry leg way party twin essay honey derive scrap sniff friend way";
+var mnemonic = "fiscal lumber dream hard skate void glad upper force dinosaur rebel canyon";

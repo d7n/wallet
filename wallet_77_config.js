@@ -1,1 +1,1 @@
-var mnemonic = "candy young sentence object mutual suspect extra melt repair size wide find";
+var mnemonic = "furnace steak begin rely laptop between wrap raven hard myself image oppose";

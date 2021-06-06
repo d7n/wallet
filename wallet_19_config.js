@@ -1,1 +1,1 @@
-var mnemonic = "unit turn swear pledge smooth wait rocket survey thumb clown laugh smart";
+var mnemonic = "innocent anxiety collect kick horror inmate hobby seek can rain spring forward";

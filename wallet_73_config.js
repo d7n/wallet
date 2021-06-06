@@ -1,1 +1,1 @@
-var mnemonic = "shove follow bamboo during leisure art bird artefact quantum gaze very illness";
+var mnemonic = "rigid engine brass person hen crunch lunar festival demand certain burst amused";

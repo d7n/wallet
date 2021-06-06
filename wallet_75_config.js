@@ -1,1 +1,1 @@
-var mnemonic = "member vital polar month comic acoustic vacant present mechanic cigar stool capital";
+var mnemonic = "canyon warrior yellow people demand pole vast believe present focus blast trick";

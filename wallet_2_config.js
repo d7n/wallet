@@ -1,1 +1,1 @@
-var mnemonic = "right winner federal powder ancient woman curious title success acquire aware net";
+var mnemonic = "test course off fruit across result sauce strong enough great strong purity";

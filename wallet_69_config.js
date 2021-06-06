@@ -1,1 +1,1 @@
-var mnemonic = "mail dentist flavor spawn holiday review ancient chimney life square relax shoot";
+var mnemonic = "eye false shiver rifle jar century kid lawn airport strike situate tape";

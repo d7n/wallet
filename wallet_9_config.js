@@ -1,1 +1,1 @@
-var mnemonic = "virus fetch kite sick tilt peanut mutual device hammer useless category defense";
+var mnemonic = "lava hazard possible patrol photo advice winter control opera turn volcano salute";

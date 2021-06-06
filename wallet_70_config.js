@@ -1,1 +1,1 @@
-var mnemonic = "decrease mind peasant tongue shove myth talk toddler rude mansion confirm reward";
+var mnemonic = "aspect theory snake fluid shallow nothing process small cherry truth hello tumble";

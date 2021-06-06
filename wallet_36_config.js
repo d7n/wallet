@@ -1,1 +1,1 @@
-var mnemonic = "slight drama name lazy trap sphere infant cram border dry project need";
+var mnemonic = "fatigue select senior street harbor scrub sweet barrel absurd gold alone human";

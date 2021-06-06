@@ -1,1 +1,1 @@
-var mnemonic = "tongue life spend supreme lens aunt outdoor boil sign tilt hotel unit";
+var mnemonic = "worry try grid law jar dad list clog list fog country you";

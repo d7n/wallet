@@ -1,1 +1,1 @@
-var mnemonic = "attend tattoo leisure twin scorpion dismiss swear siege nut toilet combine indoor";
+var mnemonic = "symbol garbage swarm jelly flower silver tag glove climb busy museum indoor";

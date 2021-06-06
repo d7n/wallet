@@ -1,1 +1,1 @@
-var mnemonic = "collect item negative kiss crime pulse obtain plug elevator shift fall enough";
+var mnemonic = "elevator prosper supreme shrug punch version option mushroom embrace knife lizard minor";

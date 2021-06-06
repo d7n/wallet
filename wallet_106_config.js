@@ -1,1 +1,1 @@
-var mnemonic = "mystery kite funny sound under novel favorite two fall tribe number include";
+var mnemonic = "wisdom dragon pool unit spider easy diesel misery drop forget test enroll";

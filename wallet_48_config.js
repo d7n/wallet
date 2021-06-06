@@ -1,1 +1,1 @@
-var mnemonic = "slice problem rigid thrive merit palm shield tip crisp turn away later";
+var mnemonic = "steel omit census truth luxury rocket voyage fitness punch beauty swallow club";

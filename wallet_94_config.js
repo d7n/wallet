@@ -1,1 +1,1 @@
-var mnemonic = "invest slender minimum roast creek baby pet flight tide sock search lunar";
+var mnemonic = "deputy soap account topic village abstract arrive mandate echo reunion modify egg";

@@ -1,1 +1,1 @@
-var mnemonic = "income swing okay crane shop biology raven view winter portion violin guide";
+var mnemonic = "burger must half can because winter invite invest obvious blood brief mix";

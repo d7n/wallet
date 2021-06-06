@@ -1,1 +1,1 @@
-var mnemonic = "company smoke trim useless lonely front autumn donkey over involve rose error";
+var mnemonic = "fit inflict thunder priority seed cram exchange scrap rude radio unlock again";

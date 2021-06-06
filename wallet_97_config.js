@@ -1,1 +1,1 @@
-var mnemonic = "goose inform alarm floor morning seven reunion hollow globe hope oil atom";
+var mnemonic = "skirt winner poet legal craft width bicycle just sing fee tomorrow amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "social slam dismiss rib tent abstract mind muffin layer rare soft now";
+var mnemonic = "can hour art one floor athlete moon match leopard frozen concert little";

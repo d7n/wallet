@@ -1,1 +1,1 @@
-var mnemonic = "tip alarm long common nasty people burden season obtain garden tuna risk";
+var mnemonic = "symbol stamp humor comic charge left patient rib basket humble example control";

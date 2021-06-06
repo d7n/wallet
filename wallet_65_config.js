@@ -1,1 +1,1 @@
-var mnemonic = "limit connect chimney life equip service chair toy style faith snow unhappy";
+var mnemonic = "castle river mushroom fence doctor december bridge wear rubber barely rival unhappy";

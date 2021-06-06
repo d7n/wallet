@@ -1,1 +1,1 @@
-var mnemonic = "tiny man domain seek increase hope advance find envelope suffer carpet access";
+var mnemonic = "turkey donate income explain orchard glad ribbon sick ride double vocal claw";

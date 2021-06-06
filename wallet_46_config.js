@@ -1,1 +1,1 @@
-var mnemonic = "waste time shrimp page bargain scrub behave deputy rescue syrup cloth salad";
+var mnemonic = "check illness smooth doctor busy ski notice pig lake leisure casino cook";

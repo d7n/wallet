@@ -1,1 +1,1 @@
-var mnemonic = "gravity idle second oil quote isolate drastic mesh close duty sudden seminar";
+var mnemonic = "joy skull tent rely helmet fit idea noise useless sentence bunker high";

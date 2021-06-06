@@ -1,1 +1,1 @@
-var mnemonic = "onion access mimic siren hungry napkin version among gesture tobacco vessel tooth";
+var mnemonic = "own cargo tornado attend pause kind narrow bus marriage era lemon script";

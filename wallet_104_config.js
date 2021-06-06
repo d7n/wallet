@@ -1,1 +1,1 @@
-var mnemonic = "gaze pumpkin sun bar equip coin pencil sustain wonder blade enemy speak";
+var mnemonic = "whip garden ritual brand document surface give kite ride symbol trial equip";

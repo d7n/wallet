@@ -1,1 +1,1 @@
-var mnemonic = "very silk program arctic ahead couch logic lava title stage short eternal";
+var mnemonic = "tank upgrade tray exotic reward about fitness combine party split reunion connect";

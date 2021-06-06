@@ -1,1 +1,1 @@
-var mnemonic = "armed project shift quarter hint camp cabin riot ancient bicycle industry govern";
+var mnemonic = "kick hour credit liquid tobacco security royal smoke essay ginger cycle drama";

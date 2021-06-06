@@ -1,1 +1,1 @@
-var mnemonic = "increase permit buzz public brush kind decrease whale exchange face army surround";
+var mnemonic = "tonight traffic country grass dilemma shoulder soldier favorite boring pony mask length";

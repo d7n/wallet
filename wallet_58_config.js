@@ -1,1 +1,1 @@
-var mnemonic = "hawk betray december vote swing usual exact social extra turkey narrow dignity";
+var mnemonic = "gorilla flock ranch upgrade leave coil ill mistake veteran smile peasant ice";

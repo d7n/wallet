@@ -1,1 +1,1 @@
-var mnemonic = "purse conduct race transfer chronic rather pioneer seven water turn stairs guilt";
+var mnemonic = "arm bounce dizzy remain buffalo chair blame gallery phone possible reunion interest";

@@ -1,1 +1,1 @@
-var mnemonic = "little heavy sting similar universe crime obvious flight unable physical bus pen";
+var mnemonic = "leader awful audit fringe upper become blood follow rail can inside twice";

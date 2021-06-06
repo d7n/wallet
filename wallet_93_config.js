@@ -1,1 +1,1 @@
-var mnemonic = "provide tomato teach rice wagon reflect warfare style road blur release solution";
+var mnemonic = "quick lunar rival cheap auto grunt room wheat crater admit twin resource";
