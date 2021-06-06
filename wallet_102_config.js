@@ -1,1 +1,1 @@
-var mnemonic = "soon raise thrive muffin bless journey razor kiss hard unique federal network";
+var mnemonic = "witness south team allow attract vocal chat pass ice police sauce assault";

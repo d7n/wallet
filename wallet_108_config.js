@@ -1,1 +1,1 @@
-var mnemonic = "leg news animal rail nasty model edge lava razor common wait nut";
+var mnemonic = "dawn unknown room bounce exclude account strategy code release ridge actual bracket";

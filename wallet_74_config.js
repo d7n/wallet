@@ -1,1 +1,1 @@
-var mnemonic = "bunker bounce tray quit board injury paper way absent police dinner trouble";
+var mnemonic = "girl target vintage practice bone cage fatigue perfect kingdom chaos trophy hungry";

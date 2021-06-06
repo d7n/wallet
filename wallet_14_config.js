@@ -1,1 +1,1 @@
-var mnemonic = "nurse mansion pistol person job fantasy field energy table general crew tuition";
+var mnemonic = "endless grunt picnic motor struggle work arrest barrel often payment roof sphere";

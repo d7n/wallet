@@ -1,1 +1,1 @@
-var mnemonic = "crane extra jeans become resource forget increase appear gospel erase train figure";
+var mnemonic = "simple square shield choose muscle noble earn cannon silver news awkward elbow";

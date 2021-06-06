@@ -1,1 +1,1 @@
-var mnemonic = "stuff grit business erode leader ten april panel assume tube wing blast";
+var mnemonic = "dune loop milk orbit fortune borrow blast cash census expand shield student";

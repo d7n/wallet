@@ -1,1 +1,1 @@
-var mnemonic = "tiger lens load one drastic fox crop chimney grid reason swift now";
+var mnemonic = "million define bracket easily side raw december beach video junior found upon";

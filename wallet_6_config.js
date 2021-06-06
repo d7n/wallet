@@ -1,1 +1,1 @@
-var mnemonic = "squeeze quick vendor fit clock fatal motor abstract gravity blame swap clean";
+var mnemonic = "sort sausage champion balance farm lizard thing dragon escape charge boil panther";

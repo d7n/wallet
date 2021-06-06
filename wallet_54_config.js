@@ -1,1 +1,1 @@
-var mnemonic = "giant syrup flock taste bid twelve setup mango note rug inside creek";
+var mnemonic = "denial join credit school spoil tomorrow there wrist arch payment economy cycle";

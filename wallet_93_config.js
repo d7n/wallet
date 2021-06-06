@@ -1,1 +1,1 @@
-var mnemonic = "vintage task dog dial distance jump pen stove carry indicate hollow forward";
+var mnemonic = "six frame pair turkey fury worth check raccoon primary path pipe visit";

@@ -1,1 +1,1 @@
-var mnemonic = "glory rigid rhythm silk park calm crumble cruise fan side ozone soft";
+var mnemonic = "trophy fiction gas file vacuum involve raccoon panic frown absent edit van";

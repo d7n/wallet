@@ -1,1 +1,1 @@
-var mnemonic = "senior thank air carpet perfect present scorpion fun alpha valve spare junk";
+var mnemonic = "twice enrich team truly roast history chief tiny seat toe goddess logic";

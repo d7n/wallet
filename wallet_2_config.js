@@ -1,1 +1,1 @@
-var mnemonic = "baby supply mule expire mammal mirror fresh medal hole zone mushroom nice";
+var mnemonic = "average solution exclude nation absorb mule noodle seed gospel shield wasp spell";

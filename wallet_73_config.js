@@ -1,1 +1,1 @@
-var mnemonic = "hospital inflict loyal plate pledge borrow exclude trip lava video dial olympic";
+var mnemonic = "about vessel stomach crash item bundle near oval fix machine orange purpose";

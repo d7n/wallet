@@ -1,1 +1,1 @@
-var mnemonic = "romance drink guide display glide scare nominee east plug virus water drop";
+var mnemonic = "fame usual ramp bounce topic office toe click observe hunt convince loan";

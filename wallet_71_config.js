@@ -1,1 +1,1 @@
-var mnemonic = "shy siege stumble service despair connect actress grid mechanic step popular sustain";
+var mnemonic = "attack midnight ride ancient range bottom armor lonely afraid breeze worth dismiss";

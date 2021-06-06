@@ -1,1 +1,1 @@
-var mnemonic = "pelican slogan zone strike into term ecology antique traffic north gym shaft";
+var mnemonic = "avocado marriage sauce upgrade result diet census wealth river depart consider sunset";

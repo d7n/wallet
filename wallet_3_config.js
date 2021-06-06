@@ -1,1 +1,1 @@
-var mnemonic = "squirrel elevator original buddy aisle hub pledge regular inspire regret scan item";
+var mnemonic = "hip average green render genuine horse foam multiply purchase dose potato illegal";

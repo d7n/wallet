@@ -1,1 +1,1 @@
-var mnemonic = "fiber milk coast artist theme demise coast stumble surge art gap rebuild";
+var mnemonic = "sausage pretty broccoli solar deliver drastic gadget tell cliff short picture dry";

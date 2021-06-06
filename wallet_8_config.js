@@ -1,1 +1,1 @@
-var mnemonic = "sudden season gloom worry arrow seminar load smoke curious hat page pistol";
+var mnemonic = "town scout belt traffic give essay proud dish there hire strike bundle";

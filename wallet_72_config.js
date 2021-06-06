@@ -1,1 +1,1 @@
-var mnemonic = "market space card dash seven profit sight lumber float return second dust";
+var mnemonic = "tattoo table elder aim cement lounge exile shell oil hand shield work";

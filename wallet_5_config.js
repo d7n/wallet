@@ -1,1 +1,1 @@
-var mnemonic = "rapid portion sail forum away coil match gloom leader school peace discover";
+var mnemonic = "rule until emerge poverty grain gown dignity bird disagree clown minimum illness";

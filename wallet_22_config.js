@@ -1,1 +1,1 @@
-var mnemonic = "jealous rack agree perfect list cigar stumble oval reward fiber one puzzle";
+var mnemonic = "second page army behave apology attitude nature toast dog such inflict connect";

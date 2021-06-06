@@ -1,1 +1,1 @@
-var mnemonic = "wedding insect dwarf hazard endless actual letter glide display picnic sport kidney";
+var mnemonic = "solar bean actress huge boat pistol eyebrow vapor exit rather gospel lava";

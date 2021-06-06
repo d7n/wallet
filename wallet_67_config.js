@@ -1,1 +1,1 @@
-var mnemonic = "strategy tube public public spend spatial run build wall genre tip stumble";
+var mnemonic = "scale silly dentist that method urban finish tonight portion winner leg bamboo";

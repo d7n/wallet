@@ -1,1 +1,1 @@
-var mnemonic = "position make awkward system near tiny fine belt angle episode decade mask";
+var mnemonic = "bunker come current category egg paddle that habit art border naive erupt";

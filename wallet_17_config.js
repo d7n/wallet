@@ -1,1 +1,1 @@
-var mnemonic = "gym east horn party beef follow gorilla fit dog ahead make more";
+var mnemonic = "peasant level cloth tuition cream gloom witness thunder measure hover someone aerobic";

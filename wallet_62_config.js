@@ -1,1 +1,1 @@
-var mnemonic = "ball banana remember step grab obtain mad silly figure patient capable insane";
+var mnemonic = "media vessel ladder deal arm circle brand vendor enable advance wave hip";

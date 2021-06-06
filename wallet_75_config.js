@@ -1,1 +1,1 @@
-var mnemonic = "quote mad pupil title sting robust gaze filter punch yard borrow share";
+var mnemonic = "sunny mountain program unfold feed month sample bacon filter tiny fetch measure";

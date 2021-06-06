@@ -1,1 +1,1 @@
-var mnemonic = "awesome health body season frost dose coconut rebel program cousin reason craft";
+var mnemonic = "chair seminar benefit license drop special person nerve consider tilt staff climb";

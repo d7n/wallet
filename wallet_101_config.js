@@ -1,1 +1,1 @@
-var mnemonic = "pepper model erase tube buyer struggle myth insane say vehicle table girl";
+var mnemonic = "foam leaf ozone hello omit ankle pulse acid number fork trophy kidney";

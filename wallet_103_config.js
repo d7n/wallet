@@ -1,1 +1,1 @@
-var mnemonic = "coral twenty outer tortoise purchase unfold deny lemon donor earth slam hour";
+var mnemonic = "need unfair used coin maximum relief silent soft menu bulk wisdom prize";

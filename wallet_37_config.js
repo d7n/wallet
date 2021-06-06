@@ -1,1 +1,1 @@
-var mnemonic = "abuse scale gauge monster spot there dose bronze shove squirrel horn erase";
+var mnemonic = "tonight talk open rally all radar dog hungry path board force defy";

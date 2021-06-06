@@ -1,1 +1,1 @@
-var mnemonic = "maximum squeeze dress motor choose solve bean tank silent crack busy devote";
+var mnemonic = "ghost motor reward easily belt describe ramp spirit matter letter fortune denial";

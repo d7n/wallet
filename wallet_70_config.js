@@ -1,1 +1,1 @@
-var mnemonic = "library own camp scatter cost chaos stone angry normal energy kangaroo spot";
+var mnemonic = "record reform science talent rail shine brother action human match magnet web";

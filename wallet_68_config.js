@@ -1,1 +1,1 @@
-var mnemonic = "repeat high scatter solid tone match spray trend animal situate miss frame";
+var mnemonic = "certain rain thumb venture buzz august siege figure taxi door water either";

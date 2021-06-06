@@ -1,1 +1,1 @@
-var mnemonic = "improve lazy love napkin foil tape size cabbage dune crane gentle blur";
+var mnemonic = "snap ginger antenna grape gym fiction wagon kick decide spoon chuckle truly";

@@ -1,1 +1,1 @@
-var mnemonic = "daring cube clutch hand matrix fitness black lunar fatigue solar enhance sponsor";
+var mnemonic = "tag bubble border piano morning wheel gate mandate crop suit glimpse differ";

@@ -1,1 +1,1 @@
-var mnemonic = "moon century payment radio laptop glide what put carbon small step brush";
+var mnemonic = "derive crop sorry slush empower heart horse kind coast erupt inspire lift";

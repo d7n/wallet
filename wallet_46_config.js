@@ -1,1 +1,1 @@
-var mnemonic = "shed bird modify dose dog dilemma subway stomach envelope unable address end";
+var mnemonic = "sense mother battle spirit that hidden visit promote say tissue above bundle";

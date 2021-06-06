@@ -1,1 +1,1 @@
-var mnemonic = "arrange fish recall online sauce eight exchange doll sing ask portion depend";
+var mnemonic = "actor much milk decorate must frost asthma maze slam general setup cube";

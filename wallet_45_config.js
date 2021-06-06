@@ -1,1 +1,1 @@
-var mnemonic = "message piece test pear affair alter squeeze piece shiver post obvious naive";
+var mnemonic = "loyal local depth fortune right firm sick motion suggest trade mandate consider";

@@ -1,1 +1,1 @@
-var mnemonic = "grain subway wear ramp blossom cream face shoe ensure genuine pill acid";
+var mnemonic = "frame carbon drastic slide mobile bid school excess ramp lift reveal business";

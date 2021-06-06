@@ -1,1 +1,1 @@
-var mnemonic = "lend trumpet follow stem embark action sustain advance unknown faculty eager loop";
+var mnemonic = "time rent vote stable belt brother wear shrimp define alert law lunar";

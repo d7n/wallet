@@ -1,1 +1,1 @@
-var mnemonic = "cross myth blanket extend index journey gap canal rough inflict prepare bind";
+var mnemonic = "scrap hair bird buyer segment side bless swift dream betray midnight fix";

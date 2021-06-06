@@ -1,1 +1,1 @@
-var mnemonic = "calm pipe frog bundle multiply acquire endorse group edit anger input black";
+var mnemonic = "truly melody vicious proud mango disagree silly flavor cube notable eager come";

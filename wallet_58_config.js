@@ -1,1 +1,1 @@
-var mnemonic = "jaguar assist unfold middle park gate dash guitar canvas cream fancy live";
+var mnemonic = "clip test nuclear educate below ask attack vintage balcony junior three wealth";

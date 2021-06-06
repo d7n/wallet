@@ -1,1 +1,1 @@
-var mnemonic = "prison wonder often debris carbon supply angry pulse climb corn search sweet";
+var mnemonic = "ghost poet early hold inmate series embark soldier mad pilot people oval";

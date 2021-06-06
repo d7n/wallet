@@ -1,1 +1,1 @@
-var mnemonic = "feature property jar shoulder zero vehicle genre manual crisp faint face muscle";
+var mnemonic = "crowd hammer rose symbol twenty frozen manage alert myth ignore swarm flight";

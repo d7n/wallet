@@ -1,1 +1,1 @@
-var mnemonic = "try rack detect lunch ticket advance person tooth caught narrow pyramid coffee";
+var mnemonic = "grab victory regular below practice smile modify either misery thought minor become";

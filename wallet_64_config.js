@@ -1,1 +1,1 @@
-var mnemonic = "light cloud access gap scrap off kid seed maze rebuild sphere act";
+var mnemonic = "give ocean hair chaos flat tide silk refuse park dutch cabbage pilot";

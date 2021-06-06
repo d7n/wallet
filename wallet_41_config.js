@@ -1,1 +1,1 @@
-var mnemonic = "cry author prevent want calm siege salon rival endless feed bronze rail";
+var mnemonic = "robust laptop fruit orchard govern magnet waste message myth age holiday unveil";

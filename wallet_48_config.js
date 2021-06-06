@@ -1,1 +1,1 @@
-var mnemonic = "recipe noble air stool crawl label taxi stock aim deliver rack unit";
+var mnemonic = "will connect price wreck believe course trumpet scatter release cattle rose hood";

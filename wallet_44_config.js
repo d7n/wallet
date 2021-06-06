@@ -1,1 +1,1 @@
-var mnemonic = "fish rack comfort cannon museum pole leisure squirrel weasel dragon finger sand";
+var mnemonic = "rice place embark mimic hybrid aerobic height blush snap huge hedgehog hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "place teach grass situate frost satisfy misery ivory annual federal heavy antenna";
+var mnemonic = "awake oblige return just list front boy dash sphere napkin knock give";

@@ -1,1 +1,1 @@
-var mnemonic = "box disorder shoulder bulk erupt this language dizzy arrive weapon spy reunion";
+var mnemonic = "ahead unhappy session curious level soda lunch enough swamp life coach huge";

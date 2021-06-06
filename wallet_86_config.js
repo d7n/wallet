@@ -1,1 +1,1 @@
-var mnemonic = "reopen top glad knee mercy loop bike yard skin pledge core dream";
+var mnemonic = "wonder hamster end walnut grant pink cement struggle focus wrong taste lady";

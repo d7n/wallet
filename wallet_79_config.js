@@ -1,1 +1,1 @@
-var mnemonic = "betray apology basic runway trade crisp silk patrol bargain ordinary patrol cause";
+var mnemonic = "march real enrich derive tree jump excuse miracle stock crazy curve head";

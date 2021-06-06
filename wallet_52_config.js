@@ -1,1 +1,1 @@
-var mnemonic = "seed life omit across damp tonight among cabin blast way mixed parade";
+var mnemonic = "swim hidden wrong vivid body web gravity giant again buddy cannon onion";

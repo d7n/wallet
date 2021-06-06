@@ -1,1 +1,1 @@
-var mnemonic = "toilet cube clarify tiny whisper fashion exile swing fitness owner assist color";
+var mnemonic = "crouch guilt liar juice capable cruise venue cruel hour wear quit east";

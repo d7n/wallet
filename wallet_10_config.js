@@ -1,1 +1,1 @@
-var mnemonic = "arm hurt please office oven universe kiwi fury wrap strategy cruise hospital";
+var mnemonic = "radio agree moon fitness gentle vague moral depend mercy message economy own";

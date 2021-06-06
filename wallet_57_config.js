@@ -1,1 +1,1 @@
-var mnemonic = "forum group extra box dance laundry gallery ticket beef good wheel awful";
+var mnemonic = "liar suit actual ketchup fatal forum present coin middle public hill fitness";

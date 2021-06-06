@@ -1,1 +1,1 @@
-var mnemonic = "maid tourist write crystal road aspect connect scissors sign help clog patch";
+var mnemonic = "catalog lava stone gasp runway famous total magic cake dish foil infant";

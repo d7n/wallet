@@ -1,1 +1,1 @@
-var mnemonic = "bag cube monkey cotton mercy stereo void month profit few there medal";
+var mnemonic = "one orchard portion stick release casual evil volcano amount figure rare choose";

@@ -1,1 +1,1 @@
-var mnemonic = "news goat pulse consider drive economy clump asset hand gather fancy idea";
+var mnemonic = "dawn second morning deliver cargo okay sudden lecture turtle apology general expect";

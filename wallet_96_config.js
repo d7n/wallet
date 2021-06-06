@@ -1,1 +1,1 @@
-var mnemonic = "toss win brand pledge churn company guitar reopen sea age lake inflict";
+var mnemonic = "bench course brisk pool roof cannon rack wealth twin solve horror behave";

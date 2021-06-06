@@ -1,1 +1,1 @@
-var mnemonic = "pave blame pelican dance brick tuna sure choice real lady coyote rent";
+var mnemonic = "retire certain anchor emerge mule absurd hour put swim license usual seminar";

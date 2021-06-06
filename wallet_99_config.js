@@ -1,1 +1,1 @@
-var mnemonic = "oblige ask attract clerk flee diary sniff clay farm explain multiply donate";
+var mnemonic = "popular skin dry maple cherry student casino obtain hunt waste use trigger";

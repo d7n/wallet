@@ -1,1 +1,1 @@
-var mnemonic = "media random puzzle vital suit vehicle push bicycle matrix vivid series clown";
+var mnemonic = "congress repair bleak bicycle raw rather way swallow member dutch angry crane";

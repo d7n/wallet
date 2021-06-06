@@ -1,1 +1,1 @@
-var mnemonic = "observe impact poem elevator blanket primary thunder urban return brother cherry cattle";
+var mnemonic = "negative taste remain stay moon glow dismiss expire use leg carry again";

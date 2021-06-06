@@ -1,1 +1,1 @@
-var mnemonic = "long audit follow various dumb suit brisk trade legend tray frame roof";
+var mnemonic = "bulk rotate lend electric bid object like physical visa able escape arm";

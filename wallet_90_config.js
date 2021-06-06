@@ -1,1 +1,1 @@
-var mnemonic = "hill blossom crop sign same height security left light vivid sail setup";
+var mnemonic = "clap item predict crash test prefer bar level knock elbow photo choice";

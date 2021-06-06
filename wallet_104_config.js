@@ -1,1 +1,1 @@
-var mnemonic = "chief knock shield add wish trust bacon cousin fat arch lonely defy";
+var mnemonic = "have train kick rain oppose fantasy report client balance lion undo memory";

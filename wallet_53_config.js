@@ -1,1 +1,1 @@
-var mnemonic = "cattle bargain wrap fee cave post improve length chase provide twist color";
+var mnemonic = "drop guess general cruise violin curious sweet carry face black stay tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion practice cry aim topple toss more man capable husband latin fuel";
+var mnemonic = "praise garment shuffle gold mountain stamp wolf swamp torch escape rifle edit";

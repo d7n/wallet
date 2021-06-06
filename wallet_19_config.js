@@ -1,1 +1,1 @@
-var mnemonic = "coconut wash prison surround tide hundred text globe neither convince derive now";
+var mnemonic = "glide spider anchor trigger link trial lunch aisle finish exchange vague sustain";

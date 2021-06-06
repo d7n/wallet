@@ -1,1 +1,1 @@
-var mnemonic = "dismiss seek crush rely champion armor person drip express trick nature mimic";
+var mnemonic = "horse sad stock pulp note galaxy more about crush large unknown primary";

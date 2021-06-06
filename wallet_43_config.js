@@ -1,1 +1,1 @@
-var mnemonic = "metal clarify demand anchor frost pioneer grape inch skill release lawsuit fashion";
+var mnemonic = "sight rough crouch liberty visa good season village ribbon multiply nurse aisle";

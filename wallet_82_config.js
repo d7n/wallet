@@ -1,1 +1,1 @@
-var mnemonic = "crunch crew describe clarify also sort claw garlic until gun police often";
+var mnemonic = "road evil custom length acid rubber jungle invest impact agree finish kidney";

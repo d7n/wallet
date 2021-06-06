@@ -1,1 +1,1 @@
-var mnemonic = "cream bronze start ginger recipe gorilla machine stomach rural tragic job train";
+var mnemonic = "husband camp tenant return glory cabin limit reject sing section wide case";

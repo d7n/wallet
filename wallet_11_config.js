@@ -1,1 +1,1 @@
-var mnemonic = "ice hen sausage noise mad know review jaguar reject clutch below party";
+var mnemonic = "crew genuine real marriage bird bless culture cluster able abstract slice case";

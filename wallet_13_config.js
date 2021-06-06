@@ -1,1 +1,1 @@
-var mnemonic = "defense pole curious diary about strike degree worry problem cancel grunt inform";
+var mnemonic = "space divert spatial gauge stay rail magnet noble target control believe enough";

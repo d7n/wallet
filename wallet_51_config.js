@@ -1,1 +1,1 @@
-var mnemonic = "steel chapter satisfy garbage render absorb cry bicycle stock issue true adapt";
+var mnemonic = "nose boring aim pioneer city ice catalog anchor opinion coast apology fiber";

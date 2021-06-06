@@ -1,1 +1,1 @@
-var mnemonic = "mixture mobile illegal learn record dentist blush forum adjust disagree kiwi toss";
+var mnemonic = "laundry cruise hotel receive spatial prosper welcome sheriff lazy frame laugh grief";

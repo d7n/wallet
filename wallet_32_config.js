@@ -1,1 +1,1 @@
-var mnemonic = "fancy question below release hole trouble someone three convince banner cousin word";
+var mnemonic = "reward huge boring tattoo prosper urge scare caution vanish brother race favorite";

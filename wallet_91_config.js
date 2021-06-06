@@ -1,1 +1,1 @@
-var mnemonic = "immense husband manage alarm hamster target acid toward fringe frog dry nominee";
+var mnemonic = "journey immune cash picture crunch sick wrap unit crouch prefer tide pear";

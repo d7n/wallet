@@ -1,1 +1,1 @@
-var mnemonic = "sea satisfy dynamic butter decide balance name answer arctic century vacant tide";
+var mnemonic = "husband knock execute valve improve cloth tragic short country cheese biology orbit";

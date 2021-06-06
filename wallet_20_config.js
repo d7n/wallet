@@ -1,1 +1,1 @@
-var mnemonic = "outside series three food staff letter wolf carpet lab pitch casino swap";
+var mnemonic = "juice tackle leaf recall screen detect step mechanic solid indicate south skin";

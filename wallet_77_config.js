@@ -1,1 +1,1 @@
-var mnemonic = "file resource lens trend logic fiction file snap already nerve imitate avoid";
+var mnemonic = "announce air pig clip window staff blood vehicle tired panda thrive repair";
