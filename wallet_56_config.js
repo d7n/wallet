@@ -1,1 +1,1 @@
-var mnemonic = "clock tooth excuse cushion dream segment dragon coconut property guess bench perfect";
+var mnemonic = "bonus biology ocean ordinary scene lady turkey session nephew alien direct humble";

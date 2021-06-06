@@ -1,1 +1,1 @@
-var mnemonic = "bounce song possible cactus doctor donate snack mule doll laundry mechanic amused";
+var mnemonic = "nerve police sustain feed antenna blast elevator ankle glad orchard tongue close";

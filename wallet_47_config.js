@@ -1,1 +1,1 @@
-var mnemonic = "enforce owner evoke crumble alien board fox staff all rough inch toilet";
+var mnemonic = "wreck confirm disagree chapter gravity vote churn another treat ask pupil rebel";

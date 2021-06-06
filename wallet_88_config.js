@@ -1,1 +1,1 @@
-var mnemonic = "stadium arrest step staff pilot involve future rubber twist humor imitate ill";
+var mnemonic = "settle toddler gaze lounge furnace dune poverty step match cake response mad";

@@ -1,1 +1,1 @@
-var mnemonic = "appear recall power divorce top drastic reunion version artwork habit zoo affair";
+var mnemonic = "frequent enable puzzle purse detect club gather party clip original satoshi retire";

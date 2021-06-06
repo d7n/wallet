@@ -1,1 +1,1 @@
-var mnemonic = "snake fever above snake beach tackle crater trial reason island employ source";
+var mnemonic = "code outside submit rigid arrest gesture thrive final lyrics measure height east";

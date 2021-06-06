@@ -1,1 +1,1 @@
-var mnemonic = "frozen drink cactus safe lobster lazy worth achieve method camera scissors spring";
+var mnemonic = "width slim matrix multiply beyond evoke carry rebuild mystery fringe near unknown";

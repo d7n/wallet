@@ -1,1 +1,1 @@
-var mnemonic = "fan cry cigar resemble hair dog device hybrid artist item fancy gap";
+var mnemonic = "assault debris exhaust tired diet apple swim boil one zebra frozen leopard";

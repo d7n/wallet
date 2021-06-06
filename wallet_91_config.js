@@ -1,1 +1,1 @@
-var mnemonic = "honey body slight main olympic govern original answer hockey idea fringe sibling";
+var mnemonic = "medal crawl torch basket swift resource swing seven benefit sausage tooth tunnel";

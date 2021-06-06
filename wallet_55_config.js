@@ -1,1 +1,1 @@
-var mnemonic = "supply afraid holiday hard thumb mixture woman gravity network gain nominee picnic";
+var mnemonic = "clinic atom bridge aisle social language across hat kite pig song accuse";

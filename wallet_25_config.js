@@ -1,1 +1,1 @@
-var mnemonic = "stable oval excuse cash output myself tourist kidney plate act firm repeat";
+var mnemonic = "champion age frog supreme chest fringe museum bounce actress business speed task";

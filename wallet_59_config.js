@@ -1,1 +1,1 @@
-var mnemonic = "ladder twist glance bread mixed aisle lend window love list caught power";
+var mnemonic = "uncover olympic motor dismiss actor planet elephant menu jeans hybrid anger report";

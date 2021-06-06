@@ -1,1 +1,1 @@
-var mnemonic = "rug reduce trend ancient negative celery obvious distance stem route ozone differ";
+var mnemonic = "reunion again virtual title donkey blur bronze marriage tiny gauge pumpkin blanket";

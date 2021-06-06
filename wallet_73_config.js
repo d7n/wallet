@@ -1,1 +1,1 @@
-var mnemonic = "health luggage mistake hawk happy detail napkin cruel very better quick denial";
+var mnemonic = "piece pill kick suspect soup burden salad inherit alley badge teach cable";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm depend fade relax eight ethics interest cabbage burden energy prefer ship";
+var mnemonic = "over oblige trade stairs quality relief one glove vintage heavy tape walk";

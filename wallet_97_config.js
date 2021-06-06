@@ -1,1 +1,1 @@
-var mnemonic = "job chef screen donate tackle turtle bronze skirt that kingdom lady easily";
+var mnemonic = "left slab middle paddle solid exotic analyst battle agent achieve success amazing";

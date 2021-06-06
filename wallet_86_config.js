@@ -1,1 +1,1 @@
-var mnemonic = "region want impact rose brain stadium client early idle invest jar virus";
+var mnemonic = "crater space swap duck spoil output behind turn wall fox pizza dismiss";

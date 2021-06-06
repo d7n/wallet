@@ -1,1 +1,1 @@
-var mnemonic = "coyote century fragile use laundry hazard never side social copy weapon power";
+var mnemonic = "pretty bless segment rule myself creek elite zoo science vapor collect foam";

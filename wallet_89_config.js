@@ -1,1 +1,1 @@
-var mnemonic = "prepare host beef lawn over nuclear doll now farm verb smart fuel";
+var mnemonic = "pretty impact typical write foil sort erase mirror effort desert picture plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "list holiday educate pause hint original celery camera detail black local tell";
+var mnemonic = "size dish blur network business entry hello pistol always angle mystery trash";

@@ -1,1 +1,1 @@
-var mnemonic = "twin chaos short weekend fiber check argue test supply dial junior tackle";
+var mnemonic = "execute cancel old cactus expect goose half excess solve vacuum priority job";

@@ -1,1 +1,1 @@
-var mnemonic = "include report risk wait unique dream isolate major holiday sphere rubber tide";
+var mnemonic = "state garment zone already ring quit oppose level reopen logic actual live";

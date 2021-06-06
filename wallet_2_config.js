@@ -1,1 +1,1 @@
-var mnemonic = "dumb grief goat much snow board bunker glue curve minor garlic actress";
+var mnemonic = "brick invest memory review basic will inflict drop tray mass scatter occur";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol mushroom dish mercy derive toddler bag movie display curtain crack duck";
+var mnemonic = "toe educate shell cereal fee meat empty rather tuition piano snack aunt";

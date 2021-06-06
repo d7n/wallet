@@ -1,1 +1,1 @@
-var mnemonic = "gym trumpet nation base smoke simple treat nerve entry series brass book";
+var mnemonic = "latin pattern risk kangaroo bamboo episode wisdom garment work input civil because";

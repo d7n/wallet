@@ -1,1 +1,1 @@
-var mnemonic = "cheap damage thumb hand robust oppose mutual angry absurd leader theory kite";
+var mnemonic = "sword foster test chest tape suspect file mad myth hand armor drum";

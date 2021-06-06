@@ -1,1 +1,1 @@
-var mnemonic = "tomato issue bunker snake wagon exist giggle aerobic divide evil satisfy regret";
+var mnemonic = "aware account legend brown hole correct original dish leg tongue noble absorb";

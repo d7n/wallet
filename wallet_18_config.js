@@ -1,1 +1,1 @@
-var mnemonic = "outdoor garage shift fix horse high mutual clown ball you basket emerge";
+var mnemonic = "kiwi hood social common lab evolve toast era gain rude fire mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt almost mom transfer wage wing ball truth prevent still hammer tent";
+var mnemonic = "gadget clip aisle best problem gadget kangaroo clog oxygen afford dry surprise";

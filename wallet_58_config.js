@@ -1,1 +1,1 @@
-var mnemonic = "current arrive stock verify divide pilot yellow enough arena equip thumb original";
+var mnemonic = "fever advance august buddy soon human balcony inside select best symptom zoo";

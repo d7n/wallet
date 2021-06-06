@@ -1,1 +1,1 @@
-var mnemonic = "vintage month sight bitter wealth sweet attack fashion comfort trip knee inhale";
+var mnemonic = "match execute giggle pluck shuffle shaft advice brush dumb order wise jewel";

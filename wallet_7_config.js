@@ -1,1 +1,1 @@
-var mnemonic = "sample forum under mother exercise blame attack best spoil sound when glide";
+var mnemonic = "island yellow release infant cradle gather step bless custom family lesson image";

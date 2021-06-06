@@ -1,1 +1,1 @@
-var mnemonic = "assume marriage puzzle light outside letter priority mimic virtual stereo library maid";
+var mnemonic = "iron okay scale later basic police edit dragon donkey grant genius chair";

@@ -1,1 +1,1 @@
-var mnemonic = "expire sauce flee bronze celery emerge mountain clay sure dignity napkin lesson";
+var mnemonic = "bright train novel physical sleep wish scrub mimic hope proof session bright";

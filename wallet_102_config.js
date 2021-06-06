@@ -1,1 +1,1 @@
-var mnemonic = "beyond soon inch salt glare embark elephant mistake palace alarm amused way";
+var mnemonic = "hand soldier include robot praise attract spend scene harbor enter flee suspect";

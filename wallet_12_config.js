@@ -1,1 +1,1 @@
-var mnemonic = "purse purpose cash busy whip merry fine surprise coin fever fetch wheel";
+var mnemonic = "bottom point analyst mention century frog plunge coast second ball mail pottery";

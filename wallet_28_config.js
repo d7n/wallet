@@ -1,1 +1,1 @@
-var mnemonic = "garden noodle mystery negative olympic gas spatial stairs frown matter vanish extend";
+var mnemonic = "victory recall dad gold margin live brown jealous double animal clog bracket";

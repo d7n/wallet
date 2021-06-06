@@ -1,1 +1,1 @@
-var mnemonic = "chef fuel bind marriage club rescue garlic damp vacuum degree suggest best";
+var mnemonic = "pitch grid shift void reunion hood churn lift vital cute plunge good";

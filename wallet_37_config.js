@@ -1,1 +1,1 @@
-var mnemonic = "violin forward rib omit plug chicken art project knock range vacuum cycle";
+var mnemonic = "oppose resource car uncle treat come cinnamon run biology heavy corn nurse";

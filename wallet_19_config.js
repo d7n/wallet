@@ -1,1 +1,1 @@
-var mnemonic = "play fall abuse silly argue strategy glimpse push dolphin iron father wheel";
+var mnemonic = "bread breeze valley salon grid figure pill common orient stock memory food";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise arch fame guide vicious chase weapon wealth hundred engage coyote dune";
+var mnemonic = "cat faith damp want canoe program choose talk zero wisdom vast gym";

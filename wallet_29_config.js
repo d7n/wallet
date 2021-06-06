@@ -1,1 +1,1 @@
-var mnemonic = "hour window front parent pelican mistake melody rain silly near swim plunge";
+var mnemonic = "math detail learn hole vivid vote okay omit lemon adapt exact barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter fortune scout velvet stem report dose real retreat attitude spray dove";
+var mnemonic = "price ice top twin family speed found lion museum melt helmet stool";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth parent atom crouch time lady pole soon glance language glimpse spot";
+var mnemonic = "prison super enact feel spread screen gadget cement velvet follow craft they";

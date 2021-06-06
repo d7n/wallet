@@ -1,1 +1,1 @@
-var mnemonic = "once mean front silent woman tornado inject lend genius pact sail blur";
+var mnemonic = "derive vessel silent chair possible disagree shield trumpet rather call cage else";

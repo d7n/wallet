@@ -1,1 +1,1 @@
-var mnemonic = "prosper bring umbrella stadium pulse wasp agent say else demise gauge daughter";
+var mnemonic = "dish couch chair soul purpose hawk cloth dose strike mosquito impact path";

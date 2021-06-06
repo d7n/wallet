@@ -1,1 +1,1 @@
-var mnemonic = "extend loan fresh diet item surprise ensure unable virtual soccer silver silent";
+var mnemonic = "goddess town boy pupil before mule wealth resist assault sight observe output";

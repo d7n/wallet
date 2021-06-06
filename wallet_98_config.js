@@ -1,1 +1,1 @@
-var mnemonic = "fuel world match over genre twelve sustain fog never comic become slab";
+var mnemonic = "light buffalo clever primary chat palm special cluster pact section fade inflict";

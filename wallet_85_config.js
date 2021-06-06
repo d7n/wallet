@@ -1,1 +1,1 @@
-var mnemonic = "state armor address cloud sausage achieve spot survey check quick mass trophy";
+var mnemonic = "stool dry bitter reject reward sign spirit arrow later twelve minimum layer";

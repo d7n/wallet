@@ -1,1 +1,1 @@
-var mnemonic = "merit bounce occur trumpet injury art will popular valid quote random boost";
+var mnemonic = "push wide cat subway afford educate project twist farm sample motor grow";

@@ -1,1 +1,1 @@
-var mnemonic = "stock sail vault analyst source grocery motion put nothing mobile breeze practice";
+var mnemonic = "patch recall solution report narrow toddler disagree salute provide salon flash domain";

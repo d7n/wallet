@@ -1,1 +1,1 @@
-var mnemonic = "arrest oxygen antique ordinary draw puzzle snack worth sunny soda paper remind";
+var mnemonic = "time ready balance panic polar crouch shadow hollow host under avoid police";

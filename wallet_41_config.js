@@ -1,1 +1,1 @@
-var mnemonic = "mixed trade awful olympic blouse energy minute waste carry quality wisdom dutch";
+var mnemonic = "wish sight useful broken gesture crumble cave kitchen type magnet deal churn";

@@ -1,1 +1,1 @@
-var mnemonic = "unable paper breeze fox forum lake elephant clump topple shy say scout";
+var mnemonic = "bracket giant wrong card flip path search ocean lyrics middle gym also";

@@ -1,1 +1,1 @@
-var mnemonic = "actor room merge turkey raise shoot magic panda old music other theme";
+var mnemonic = "shrimp raccoon urban gym holiday pair parade square mention company damp coil";

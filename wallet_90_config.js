@@ -1,1 +1,1 @@
-var mnemonic = "battle basket antique include sorry correct mind drastic into fury exile damage";
+var mnemonic = "pulp left surprise cover chief humor property mobile cabbage body february what";

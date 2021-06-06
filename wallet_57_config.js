@@ -1,1 +1,1 @@
-var mnemonic = "dismiss lava wedding vast puppy begin expose curve novel alone roof purpose";
+var mnemonic = "matrix right betray birth belt balance huge spend luxury laugh promote climb";

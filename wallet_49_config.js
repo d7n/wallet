@@ -1,1 +1,1 @@
-var mnemonic = "satisfy hip wisdom spider outside aerobic charge hunt obey brief shuffle input";
+var mnemonic = "base labor olympic arrange hidden air tank kind edit develop useful describe";

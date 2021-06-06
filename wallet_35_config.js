@@ -1,1 +1,1 @@
-var mnemonic = "green athlete century glimpse truck erase sugar maze road shy used surround";
+var mnemonic = "keep tool popular consider casino rhythm coyote prefer size afraid cave now";

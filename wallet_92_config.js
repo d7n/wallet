@@ -1,1 +1,1 @@
-var mnemonic = "sample couple valley wrist congress innocent sibling make social body close abstract";
+var mnemonic = "trophy rain citizen gap quarter message display reform hip egg glance immense";

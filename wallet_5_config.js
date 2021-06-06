@@ -1,1 +1,1 @@
-var mnemonic = "sort arrest solve myself hour impact able sun hen fog category require";
+var mnemonic = "warrior shell sea salon welcome garment estate differ bridge legal license canoe";

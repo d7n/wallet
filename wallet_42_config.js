@@ -1,1 +1,1 @@
-var mnemonic = "coach confirm cable century option snack gain defy open picture fish basket";
+var mnemonic = "certain human obtain grit core message electric resemble wrong donate stone drastic";

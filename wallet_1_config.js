@@ -1,1 +1,1 @@
-var mnemonic = "dentist hero actual scatter scale clown require attitude silver tornado top comfort";
+var mnemonic = "athlete oval arrow album finger green viable kingdom anger soda shadow acquire";

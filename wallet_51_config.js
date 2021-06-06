@@ -1,1 +1,1 @@
-var mnemonic = "kingdom marriage panther undo before coast seat govern annual bench fabric earth";
+var mnemonic = "yard volcano elder salad lobster hover proud add fragile assault question rain";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior multiply buddy congress between like card mushroom quarter glory banner recipe";
+var mnemonic = "answer gorilla young history air hospital edge rent man shiver flight come";

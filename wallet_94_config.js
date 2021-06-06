@@ -1,1 +1,1 @@
-var mnemonic = "figure tumble talent wide acquire scrub attract pride today amused build fitness";
+var mnemonic = "sunny wise cute father horse virus cereal solid army medal destroy wink";

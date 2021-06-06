@@ -1,1 +1,1 @@
-var mnemonic = "plug seek ridge pencil favorite hammer tomorrow furnace buffalo coyote stomach term";
+var mnemonic = "time stuff purchase habit fire rubber leader ridge crater move remind fitness";

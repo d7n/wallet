@@ -1,1 +1,1 @@
-var mnemonic = "strong maid dizzy pen pipe special spirit emotion view occur upgrade bubble";
+var mnemonic = "gallery able sugar appear digital dawn more soon couch myth sausage expand";

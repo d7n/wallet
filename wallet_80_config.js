@@ -1,1 +1,1 @@
-var mnemonic = "brush critic speak weapon wash measure brain pyramid security rule result forward";
+var mnemonic = "unhappy column double grace master coast sunny erosion harvest plug garment theory";

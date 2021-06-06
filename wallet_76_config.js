@@ -1,1 +1,1 @@
-var mnemonic = "neck trumpet culture gesture surge depart cargo clerk section want float hurry";
+var mnemonic = "heart spider fee mail leopard auto action fuel castle jaguar rabbit walnut";

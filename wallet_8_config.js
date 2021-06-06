@@ -1,1 +1,1 @@
-var mnemonic = "judge spike proud make barely put tortoise jacket wrong labor noise tornado";
+var mnemonic = "piano rug glimpse account empty trim twelve evolve cable fork achieve silk";

@@ -1,1 +1,1 @@
-var mnemonic = "claw absurd uniform ladder sorry clip silk can title tired huge island";
+var mnemonic = "buyer apart identify wagon romance cluster broom sausage fold slide heavy winter";

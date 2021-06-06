@@ -1,1 +1,1 @@
-var mnemonic = "chat phone soul solar margin satoshi derive alpha piano ritual express obtain";
+var mnemonic = "ski girl stock dust monitor rabbit thought cake amateur river lens modify";

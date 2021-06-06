@@ -1,1 +1,1 @@
-var mnemonic = "room breeze monitor drink next fly kiwi zoo armor maximum ancient provide";
+var mnemonic = "duck bring cave inquiry organ quit between orphan fringe health blood double";

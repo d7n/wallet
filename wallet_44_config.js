@@ -1,1 +1,1 @@
-var mnemonic = "pave verb fly mom decrease loud about admit puzzle poem arrange still";
+var mnemonic = "reject eternal depth tomato box audit notable aisle okay chalk bomb cheap";

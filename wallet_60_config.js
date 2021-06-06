@@ -1,1 +1,1 @@
-var mnemonic = "body sentence trash around volume host hub nasty sleep comic observe estate";
+var mnemonic = "absurd cricket upon birth term parent mosquito erosion blouse regret wrestle twin";

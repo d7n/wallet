@@ -1,1 +1,1 @@
-var mnemonic = "off before decrease grab tackle table tower symbol cupboard holiday nephew fashion";
+var mnemonic = "life alien snack engine push strategy cake noble gap hip tuna bulb";

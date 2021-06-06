@@ -1,1 +1,1 @@
-var mnemonic = "setup ensure human decade crawl giggle man grass vendor siege aspect drift";
+var mnemonic = "wall rabbit tell village carbon intact inform pull guide dress shy hockey";

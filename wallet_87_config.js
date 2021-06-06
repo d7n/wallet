@@ -1,1 +1,1 @@
-var mnemonic = "become vacuum rubber feed peasant cement problem cost kidney spin tiger cigar";
+var mnemonic = "retire glide cute turn pudding habit dial noodle bar poet turkey switch";

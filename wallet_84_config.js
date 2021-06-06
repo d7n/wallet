@@ -1,1 +1,1 @@
-var mnemonic = "extend smile property romance vintage gun educate airport nurse dismiss bike food";
+var mnemonic = "park brief vague belt verb legend where rough race strategy faint leave";

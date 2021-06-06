@@ -1,1 +1,1 @@
-var mnemonic = "battle weekend pig remain grid mutual page distance warrior wedding twelve cook";
+var mnemonic = "echo month disagree december mix journey goddess among lonely another coast worry";

@@ -1,1 +1,1 @@
-var mnemonic = "wood client stage keep mean stand mind prepare hello coral afraid month";
+var mnemonic = "convince meadow hockey quality reject oyster result blue thank wear rotate sword";

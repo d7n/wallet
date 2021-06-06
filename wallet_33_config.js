@@ -1,1 +1,1 @@
-var mnemonic = "actual menu system treat clerk eye priority afford attack dial garden finger";
+var mnemonic = "tube stuff travel corn tattoo combine reform legend bubble onion disagree slab";

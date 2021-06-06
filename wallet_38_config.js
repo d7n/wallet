@@ -1,1 +1,1 @@
-var mnemonic = "salt diesel large pencil shift clap replace soup genre mystery foil shop";
+var mnemonic = "real cute young outdoor profit blush quality egg best this shrimp make";

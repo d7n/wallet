@@ -1,1 +1,1 @@
-var mnemonic = "pink tag decorate game knee long various truth lonely reunion still cook";
+var mnemonic = "dragon bracket identify possible grow trend crazy style plastic quarter obey wet";

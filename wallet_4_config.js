@@ -1,1 +1,1 @@
-var mnemonic = "pilot fiber limb juice loan sauce bronze secret cake lend tiny track";
+var mnemonic = "soup grace picnic crawl artist portion mail slim hidden praise service gown";

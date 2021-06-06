@@ -1,1 +1,1 @@
-var mnemonic = "record feature novel glove cost injury cloth under donkey material puppy flip";
+var mnemonic = "sweet humble west trial wage post observe science movie famous mesh congress";

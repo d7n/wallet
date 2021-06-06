@@ -1,1 +1,1 @@
-var mnemonic = "fatal diary pink fatal tool limit trash elite celery grow strategy repeat";
+var mnemonic = "pill manual town mercy faith horror myth sniff acid nothing work bird";

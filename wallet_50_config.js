@@ -1,1 +1,1 @@
-var mnemonic = "lend mesh tape sense enroll crowd pelican zoo parrot fatigue certain stove";
+var mnemonic = "lawn gloom crazy tube girl desk know end advance cute shoot bus";

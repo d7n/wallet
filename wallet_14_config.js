@@ -1,1 +1,1 @@
-var mnemonic = "middle open differ ceiling brief wife whale client bird dismiss must start";
+var mnemonic = "strategy among agree crowd chapter give trip love sunset net thought twice";

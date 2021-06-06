@@ -1,1 +1,1 @@
-var mnemonic = "immune rug evil improve grit hover hawk gown main sort body hybrid";
+var mnemonic = "weasel make organ void cover life twice modify inject casual move moon";

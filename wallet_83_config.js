@@ -1,1 +1,1 @@
-var mnemonic = "sphere unknown together bike scorpion whip duty mesh hole gift family clay";
+var mnemonic = "when agree pave state truly erase symbol define smile polar puppy domain";

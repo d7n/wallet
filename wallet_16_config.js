@@ -1,1 +1,1 @@
-var mnemonic = "endorse deny cattle excuse put dress elbow cruel drama shed combine sunset";
+var mnemonic = "brief sample sick until section air ready depart member risk captain morning";

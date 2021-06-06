@@ -1,1 +1,1 @@
-var mnemonic = "pepper bird occur nose add curve truck together develop jar success myself";
+var mnemonic = "limb nothing dynamic ramp since slogan thrive hard leaf myth choice canoe";

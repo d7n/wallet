@@ -1,1 +1,1 @@
-var mnemonic = "warrior wedding piano biology amateur surround laundry useful stone domain armed twelve";
+var mnemonic = "recycle lyrics estate knife page glance fit raw invest inherit jaguar alcohol";

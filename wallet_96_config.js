@@ -1,1 +1,1 @@
-var mnemonic = "speak clever digital corn tool west argue eye crisp wife maximum apart";
+var mnemonic = "myth neglect uniform shed flip holiday clump sentence stereo isolate strong section";
