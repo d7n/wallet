@@ -1,1 +1,1 @@
-var mnemonic = "custom pattern veteran flip slow unique artist snack puzzle umbrella auto stomach";
+var mnemonic = "guilt fantasy surface one broccoli caution tiny width wet reduce erase champion";

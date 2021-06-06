@@ -1,1 +1,1 @@
-var mnemonic = "slender fog loyal radio grit stand such witness speak blast chalk monkey";
+var mnemonic = "solve spawn world rate shoulder urban effort clump afraid churn shaft lounge";

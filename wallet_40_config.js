@@ -1,1 +1,1 @@
-var mnemonic = "carbon spread across devote symbol front innocent spoon able medal tiny winter";
+var mnemonic = "nice filter throw resource gift random depend together crane hurt super bunker";

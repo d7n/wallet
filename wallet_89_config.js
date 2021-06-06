@@ -1,1 +1,1 @@
-var mnemonic = "deliver depart bamboo trust daring remove labor fame filter design tuna arrive";
+var mnemonic = "stem turtle dismiss since reform twist snake radar mercy sport slight around";

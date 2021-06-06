@@ -1,1 +1,1 @@
-var mnemonic = "tail copy view pumpkin filter globe section throw program pottery mesh permit";
+var mnemonic = "earth era smooth rotate rare wrong advice path decrease siege any electric";

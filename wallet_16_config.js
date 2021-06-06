@@ -1,1 +1,1 @@
-var mnemonic = "extra quick jar hover solar below usage debris language vast copy gossip";
+var mnemonic = "owner radar plastic device tomato uphold witness fog more popular solve near";

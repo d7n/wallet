@@ -1,1 +1,1 @@
-var mnemonic = "company hen fury humor web involve film diesel flat wing predict screen";
+var mnemonic = "section attitude creek bless soul off cradle rose syrup loan forward try";

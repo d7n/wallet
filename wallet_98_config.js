@@ -1,1 +1,1 @@
-var mnemonic = "canyon quick flower toilet resist nose recall apple gasp brick enact behave";
+var mnemonic = "extra dinosaur bread blanket solve dinosaur glare example snake elite wreck favorite";

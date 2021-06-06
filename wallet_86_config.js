@@ -1,1 +1,1 @@
-var mnemonic = "wine cat thunder cram embrace shiver salt survey insane economy duty trade";
+var mnemonic = "odor timber height any scissors damage frame neck insane soccer pioneer combine";

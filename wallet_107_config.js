@@ -1,1 +1,1 @@
-var mnemonic = "sponsor suffer night ability metal turn quarter truck shine bike lunch federal";
+var mnemonic = "over turtle unfair pottery glove genuine door perfect vintage veteran social quarter";

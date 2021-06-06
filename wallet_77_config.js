@@ -1,1 +1,1 @@
-var mnemonic = "struggle list sniff fiction prize ecology sauce satoshi occur future palace yard";
+var mnemonic = "east smoke nice ordinary vast melody peasant solve faint family mixed creek";

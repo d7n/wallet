@@ -1,1 +1,1 @@
-var mnemonic = "assault margin income divert riot beef engage onion spring gesture picnic merry";
+var mnemonic = "help gaze again horn hope crumble loud okay victory crew wonder buyer";

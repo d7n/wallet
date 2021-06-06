@@ -1,1 +1,1 @@
-var mnemonic = "mountain minor guess harvest still favorite pyramid forward degree fan city hundred";
+var mnemonic = "media bubble parade tower across upon grid old whale rather fat benefit";

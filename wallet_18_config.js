@@ -1,1 +1,1 @@
-var mnemonic = "tent eternal flee bounce come approve hub wrong steak secret twelve tragic";
+var mnemonic = "monitor purse length love unit clarify until script garment grass float thing";

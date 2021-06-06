@@ -1,1 +1,1 @@
-var mnemonic = "engine coin version gorilla palm find repeat ticket double whisper wine treat";
+var mnemonic = "bulk lonely expire caught soldier chunk helmet despair dash cover host quit";

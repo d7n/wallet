@@ -1,1 +1,1 @@
-var mnemonic = "nephew mom remove lyrics salt tobacco afford life dizzy agree ride mobile";
+var mnemonic = "tool combine glue sibling sure shell saddle turkey loop crush sustain matrix";

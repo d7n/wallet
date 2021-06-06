@@ -1,1 +1,1 @@
-var mnemonic = "clip insane panther naive spare unaware blossom divide soon hidden lyrics tiger";
+var mnemonic = "hard whisper try hero hard cousin label dance lunch primary success cushion";

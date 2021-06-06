@@ -1,1 +1,1 @@
-var mnemonic = "cream cereal fox fee code unique snake lion grid tree junior belt";
+var mnemonic = "dawn moon settle invest olympic giant curve tip tunnel genius myself dragon";

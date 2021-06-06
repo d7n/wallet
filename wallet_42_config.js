@@ -1,1 +1,1 @@
-var mnemonic = "toward panel extend metal surge exit virtual zoo unveil road scheme belt";
+var mnemonic = "useful false army world tray arm churn upgrade sad tomato orient trim";

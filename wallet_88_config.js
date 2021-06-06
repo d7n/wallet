@@ -1,1 +1,1 @@
-var mnemonic = "sting brick clock drop injury core thought order luxury table wrestle either";
+var mnemonic = "alcohol universe lonely develop clump toss arctic coconut gloom must analyst quality";

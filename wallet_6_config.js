@@ -1,1 +1,1 @@
-var mnemonic = "know poem excite slow decline birth sail pottery toe success hidden under";
+var mnemonic = "oil stadium found mansion effort water mercy soon train machine float embrace";

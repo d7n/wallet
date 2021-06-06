@@ -1,1 +1,1 @@
-var mnemonic = "print narrow chimney industry prison annual burger cheap window frost occur ball";
+var mnemonic = "story lake prepare road night plate still snap cook hat mad muscle";

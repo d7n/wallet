@@ -1,1 +1,1 @@
-var mnemonic = "phone day remain seat frown unlock inside cream slot clay clap first";
+var mnemonic = "bread magic marine drip potato tiger immune series shrug retreat twice peace";

@@ -1,1 +1,1 @@
-var mnemonic = "ask labor mass burger right direct scheme balcony right mountain famous proof";
+var mnemonic = "when social grain early veteran narrow expose creek fatal quit adult dirt";

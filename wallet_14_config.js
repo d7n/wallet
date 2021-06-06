@@ -1,1 +1,1 @@
-var mnemonic = "hidden injury drastic thought envelope brave spike ginger zone struggle proud joke";
+var mnemonic = "step consider tongue hedgehog luggage mouse car engage squirrel cinnamon boring fee";

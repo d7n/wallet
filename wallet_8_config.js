@@ -1,1 +1,1 @@
-var mnemonic = "pull ladder grab success goat vessel glow nerve toss giraffe step slab";
+var mnemonic = "pottery stove cabbage shove token enact primary wave sadness unfold water scale";

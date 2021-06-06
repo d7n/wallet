@@ -1,1 +1,1 @@
-var mnemonic = "narrow split desert expect manual undo nose car spice icon castle stairs";
+var mnemonic = "recycle caution picnic custom domain banner grid field must table huge jar";

@@ -1,1 +1,1 @@
-var mnemonic = "add target place junk nose agree affair wide orient mistake judge long";
+var mnemonic = "kiss mandate traffic napkin skirt inflict barely supply alpha warm champion buddy";

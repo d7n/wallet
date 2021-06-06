@@ -1,1 +1,1 @@
-var mnemonic = "biology broccoli favorite early town permit announce about now damp tooth tape";
+var mnemonic = "bargain science fault involve thing thank depart usual year speak unfair sea";

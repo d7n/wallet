@@ -1,1 +1,1 @@
-var mnemonic = "frog organ public album deliver amateur lizard lonely catch boat screen note";
+var mnemonic = "region raven fragile grape maximum bitter desert siege tonight reopen alarm repeat";

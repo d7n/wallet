@@ -1,1 +1,1 @@
-var mnemonic = "weird annual album recall company casino husband erase client wash gather fury";
+var mnemonic = "firm borrow catch dial choice shrug crystal absurd buddy judge choice wood";

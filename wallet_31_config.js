@@ -1,1 +1,1 @@
-var mnemonic = "lock pulse elder above sunset focus purpose method exit field denial elephant";
+var mnemonic = "horn best method pioneer peasant eager rebuild garlic object such swear capable";

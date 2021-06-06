@@ -1,1 +1,1 @@
-var mnemonic = "milk viable powder essay camera age pizza clip always excite shock afraid";
+var mnemonic = "motor void system goose feed example autumn emerge language deer reopen during";

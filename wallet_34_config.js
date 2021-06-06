@@ -1,1 +1,1 @@
-var mnemonic = "always reunion capital firm nose snap town unit certain brush girl polar";
+var mnemonic = "exercise aware baby raven embrace glad oppose sort more monitor cute slice";

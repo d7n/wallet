@@ -1,1 +1,1 @@
-var mnemonic = "glance artwork process lecture smooth turkey aspect kite float bargain deal over";
+var mnemonic = "dune over pet machine father primary defy diagram slam throw hungry clarify";

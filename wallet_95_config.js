@@ -1,1 +1,1 @@
-var mnemonic = "crumble dynamic echo able empty truth hurdle old zebra special master pretty";
+var mnemonic = "female arch produce habit course gift fatigue cabin oppose other grace device";

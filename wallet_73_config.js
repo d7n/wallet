@@ -1,1 +1,1 @@
-var mnemonic = "blush shoe west pattern picnic tone scout awful explain syrup amused face";
+var mnemonic = "endorse seed easy gun south cart sell earn adult inject fog sorry";

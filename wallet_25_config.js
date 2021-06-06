@@ -1,1 +1,1 @@
-var mnemonic = "that hair muscle valve rabbit invite case alpha april april spin spin";
+var mnemonic = "prevent any because chunk into damage success park hurdle change legal twelve";

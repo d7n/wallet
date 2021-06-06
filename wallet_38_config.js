@@ -1,1 +1,1 @@
-var mnemonic = "renew print journey atom thrive rebuild spot aerobic brother ten ice cave";
+var mnemonic = "dragon normal common narrow seek find trumpet corn clown change lobster renew";

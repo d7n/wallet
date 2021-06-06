@@ -1,1 +1,1 @@
-var mnemonic = "throw stem flush garlic please wage wet antique stay nominee volcano post";
+var mnemonic = "general title tide space glory marriage prepare piano explain loud squeeze robust";

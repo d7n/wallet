@@ -1,1 +1,1 @@
-var mnemonic = "load nasty fiction appear credit impact pig bronze truth link neutral leg";
+var mnemonic = "shoot snow position trust pill brief grid prepare spatial snack eternal birth";

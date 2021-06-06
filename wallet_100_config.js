@@ -1,1 +1,1 @@
-var mnemonic = "smooth wood frequent project short install muffin olympic fuel state glue sure";
+var mnemonic = "sheriff torch south copy thrive coil parent hope train mimic travel sense";

@@ -1,1 +1,1 @@
-var mnemonic = "argue gallery bonus thank churn country syrup sense civil donkey derive clump";
+var mnemonic = "humor vacant give used crystal fluid fiscal wild color strategy online obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "foam squeeze square pool wrap mosquito picnic pulse ketchup wife fabric skull";
+var mnemonic = "reopen crouch notable cross text small combine endless right mom century awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "ability process sun stove correct rain erode wheat ordinary dress faint seminar";
+var mnemonic = "balcony approve sister double loan shed tonight hood jelly liberty divert smooth";

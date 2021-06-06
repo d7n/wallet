@@ -1,1 +1,1 @@
-var mnemonic = "rural blouse believe spoon gold comfort disagree ketchup tone barrel offer second";
+var mnemonic = "wire split ask deliver donor rule catalog crumble predict poem acid actor";

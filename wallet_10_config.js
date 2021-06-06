@@ -1,1 +1,1 @@
-var mnemonic = "vintage emerge slim thing talk chase knock play away desert proof inner";
+var mnemonic = "route retire pave shop team traffic canoe rural coffee crane alarm potato";

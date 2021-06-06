@@ -1,1 +1,1 @@
-var mnemonic = "rapid dial observe until blood pudding soon bread hedgehog juice food weird";
+var mnemonic = "sock wash permit pitch hospital ability apology primary odor turtle fancy dice";

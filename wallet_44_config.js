@@ -1,1 +1,1 @@
-var mnemonic = "dream rare dune season october spare rib card law float birth fire";
+var mnemonic = "home airport hub find wet dice script device tail demise vault awkward";

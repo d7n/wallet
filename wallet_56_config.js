@@ -1,1 +1,1 @@
-var mnemonic = "fault affair later riot target outside latin payment screen aunt impose say";
+var mnemonic = "earn window among bus whip solid march quick arrest rigid reflect tower";

@@ -1,1 +1,1 @@
-var mnemonic = "popular thought recall gorilla crime dirt cruise entry liberty trap nest famous";
+var mnemonic = "celery toy wreck they divide food copper indicate champion rate hair way";

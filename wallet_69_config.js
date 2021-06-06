@@ -1,1 +1,1 @@
-var mnemonic = "explain wing neglect brief grab picture swallow exclude deal picture boost humor";
+var mnemonic = "before retreat urge check giggle daughter bitter electric romance praise fish clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle scene million clip item fan shallow seminar still envelope plate kitchen";
+var mnemonic = "better slender crush sister tilt close rule kick symbol page neck ghost";

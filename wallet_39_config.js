@@ -1,1 +1,1 @@
-var mnemonic = "note sure sustain bid faculty pool whisper click increase income camera canvas";
+var mnemonic = "regular engage maximum surface service coral trim degree twist session place shy";

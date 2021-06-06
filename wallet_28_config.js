@@ -1,1 +1,1 @@
-var mnemonic = "describe sustain few dirt column fiction filter seek erase example episode fan";
+var mnemonic = "jeans goose embody rate immense city usage drink correct unfair device useless";

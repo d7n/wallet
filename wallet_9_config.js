@@ -1,1 +1,1 @@
-var mnemonic = "fox swim absurd solid game slush sad smooth effort art dismiss slender";
+var mnemonic = "enact surge will ship travel age agree plate bubble kid muscle affair";

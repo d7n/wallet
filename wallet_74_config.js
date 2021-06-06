@@ -1,1 +1,1 @@
-var mnemonic = "bamboo column rice install edge era unfair dose grace indoor inhale dinosaur";
+var mnemonic = "chat inherit oyster eight word wreck cousin garlic explain airport squeeze turn";

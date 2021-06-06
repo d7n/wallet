@@ -1,1 +1,1 @@
-var mnemonic = "gun ripple blouse hidden plastic violin sniff rescue bronze shell casino better";
+var mnemonic = "lunar confirm cargo alert feed fruit sense grocery transfer write weapon trap";

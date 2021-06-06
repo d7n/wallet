@@ -1,1 +1,1 @@
-var mnemonic = "buyer rebel atom maple ozone other rotate public bird short day upset";
+var mnemonic = "atom milk verify snow erosion sketch educate kidney swamp marble chat stove";

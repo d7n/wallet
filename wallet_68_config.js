@@ -1,1 +1,1 @@
-var mnemonic = "rack horse skill female dose oblige high cupboard ship atom abuse flavor";
+var mnemonic = "filter believe surprise obey vacant regret lab anxiety obey wool whisper custom";

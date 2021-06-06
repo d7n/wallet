@@ -1,1 +1,1 @@
-var mnemonic = "nest silk essence salmon relax token obtain crumble fortune want hazard ticket";
+var mnemonic = "raw edit employ talent badge grape ordinary galaxy aisle right shoot start";

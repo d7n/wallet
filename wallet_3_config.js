@@ -1,1 +1,1 @@
-var mnemonic = "brother diary word wish brain utility image novel dad drip bench into";
+var mnemonic = "diet lottery muffin fun outdoor jeans ketchup also ecology damp lake heart";

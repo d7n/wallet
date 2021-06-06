@@ -1,1 +1,1 @@
-var mnemonic = "essence panda allow forget picnic embody tuna pond cigar script once relax";
+var mnemonic = "high goddess razor arch void unique insect ivory category diet uncover cushion";

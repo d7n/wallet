@@ -1,1 +1,1 @@
-var mnemonic = "wrong tube humor unveil morning alone neck sound impact clarify rate wire";
+var mnemonic = "ranch engage high violin game grow priority fly process soul fame two";

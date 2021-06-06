@@ -1,1 +1,1 @@
-var mnemonic = "say kit repeat inherit coral kid winter pudding sorry black amateur off";
+var mnemonic = "board add frog reward trigger destroy coral cause wrestle valley approve domain";

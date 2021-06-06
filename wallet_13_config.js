@@ -1,1 +1,1 @@
-var mnemonic = "fall depend interest differ sorry company pink coconut satisfy jaguar midnight amazing";
+var mnemonic = "useful exotic motor shine half picture cement ridge among language chimney blast";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal mad intact bus bar prison will hope minute taxi lend inspire";
+var mnemonic = "clump outdoor exchange north bargain mobile force absorb tired card daughter page";

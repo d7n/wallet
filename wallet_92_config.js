@@ -1,1 +1,1 @@
-var mnemonic = "monster nurse oxygen parrot detect exist pigeon nice until bone urban net";
+var mnemonic = "high zero code letter maximum napkin title gym drift jeans together april";

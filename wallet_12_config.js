@@ -1,1 +1,1 @@
-var mnemonic = "icon conduct mushroom cage race ribbon age you aware climb kiss opinion";
+var mnemonic = "sadness latin lunar silk catalog enroll marriage pet worry clutch weekend target";

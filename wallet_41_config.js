@@ -1,1 +1,1 @@
-var mnemonic = "isolate slice bid comfort sunset october column bicycle song planet december prison";
+var mnemonic = "pen tomorrow stool safe segment silk alter program pass journey dove scrub";

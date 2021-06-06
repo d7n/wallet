@@ -1,1 +1,1 @@
-var mnemonic = "nuclear wood toward often resist pole sword valve ankle bag piece dry";
+var mnemonic = "position hint tape baby scrap topic pole uncle absent fringe famous burger";

@@ -1,1 +1,1 @@
-var mnemonic = "assist wood warfare join midnight cancel rib exchange grace list limb valley";
+var mnemonic = "hub wolf sunny work man diagram major rate axis person off day";

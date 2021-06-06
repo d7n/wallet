@@ -1,1 +1,1 @@
-var mnemonic = "inner advice spirit agree alert anchor farm leader coil memory puppy pool";
+var mnemonic = "average attack decide unknown pretty soldier slice unique warfare bird curve device";

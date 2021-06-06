@@ -1,1 +1,1 @@
-var mnemonic = "icon angry consider sight curve stove depth hub lottery salute emerge ask";
+var mnemonic = "client boost when issue news fish banana key badge runway tribe width";

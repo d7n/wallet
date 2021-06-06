@@ -1,1 +1,1 @@
-var mnemonic = "prison plastic together burst guilt chuckle enact trap bread bicycle equal extend";
+var mnemonic = "chicken erosion help twin desk visual observe ski ski clerk eager multiply";

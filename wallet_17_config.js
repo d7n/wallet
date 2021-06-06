@@ -1,1 +1,1 @@
-var mnemonic = "nut dish door primary explain design badge survey badge memory film leader";
+var mnemonic = "arm afraid chronic either wealth volume parrot spider situate topic horse inner";

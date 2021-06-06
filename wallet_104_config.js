@@ -1,1 +1,1 @@
-var mnemonic = "slide blame search mistake medal shadow proof jacket glance waste nasty hedgehog";
+var mnemonic = "pipe shell ozone symbol panther margin maid bachelor atom provide super tell";

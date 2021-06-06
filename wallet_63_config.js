@@ -1,1 +1,1 @@
-var mnemonic = "exclude debate skill scheme crunch library cart vapor cube oyster wife blade";
+var mnemonic = "prevent quote general lend cream return twist injury monkey mimic shallow acid";

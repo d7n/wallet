@@ -1,1 +1,1 @@
-var mnemonic = "wait story run absurd parrot aerobic genius whale review cream alert exile";
+var mnemonic = "zebra able middle coast area general portion acoustic clog eight dad captain";

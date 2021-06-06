@@ -1,1 +1,1 @@
-var mnemonic = "office cereal age favorite forest neck gauge sure can fly east retreat";
+var mnemonic = "gold remind wrong van peace conduct license noble west husband shoe true";

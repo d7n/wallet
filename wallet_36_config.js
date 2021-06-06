@@ -1,1 +1,1 @@
-var mnemonic = "kick vapor able sign traffic finger sweet glass hawk member kit sick";
+var mnemonic = "organ foam call gun fall brick erosion smoke concert lunar word goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog sport treat crater coast typical chicken into blood shine library ten";
+var mnemonic = "river advance stone humor leave entire frost only custom first forward hub";
