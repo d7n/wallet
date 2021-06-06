@@ -1,1 +1,1 @@
-var mnemonic = "logic buyer describe clever clinic boy violin click path ramp venue fashion";
+var mnemonic = "ketchup squeeze mirror light popular hire silent page lumber potato question attract";

@@ -1,1 +1,1 @@
-var mnemonic = "budget business effort harsh height fade job debate shy caught open slow";
+var mnemonic = "endless nuclear armor toe three disagree thought world jar veteran actor robot";

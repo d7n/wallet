@@ -1,1 +1,1 @@
-var mnemonic = "vital evoke fall alter science eagle egg inject forget hundred hotel fog";
+var mnemonic = "axis place garlic trial leave nature find plate snack mix reopen hurt";

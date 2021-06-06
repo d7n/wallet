@@ -1,1 +1,1 @@
-var mnemonic = "crater transfer pond news panda gossip turkey strategy wink lab couch supreme";
+var mnemonic = "lock fold usual grid maze seed wheel horn devote few ripple wild";

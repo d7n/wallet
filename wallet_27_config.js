@@ -1,1 +1,1 @@
-var mnemonic = "table execute inject deputy weird salt drip trend paper city best address";
+var mnemonic = "police one pitch forget very version poverty pen primary panel lab lift";

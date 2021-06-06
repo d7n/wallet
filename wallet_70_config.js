@@ -1,1 +1,1 @@
-var mnemonic = "chief sight brain scheme chalk ride change spike fix pluck tongue crop";
+var mnemonic = "rival early lottery collect sunny gaze pyramid diagram danger gaze series room";

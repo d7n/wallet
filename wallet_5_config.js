@@ -1,1 +1,1 @@
-var mnemonic = "run tortoise boil borrow link across endless special orchard salad pull vibrant";
+var mnemonic = "maid scare fuel taxi weird defy once veteran humor rich setup assist";

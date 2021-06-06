@@ -1,1 +1,1 @@
-var mnemonic = "few snack morning junior aware woman lab blast clap agree quick glue";
+var mnemonic = "thrive pitch shop token spare kitchen poem mouse battle delay autumn pause";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge anxiety thing hero all pride public caution garden educate punch dwarf";
+var mnemonic = "remove pig pulse evoke buddy drop warm twelve payment cash travel gauge";

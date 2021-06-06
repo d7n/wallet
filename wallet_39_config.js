@@ -1,1 +1,1 @@
-var mnemonic = "smile else illegal day develop hammer edge dumb body remind false mosquito";
+var mnemonic = "pyramid toe remain shuffle armed duty acoustic hero start food tiny sister";

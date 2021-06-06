@@ -1,1 +1,1 @@
-var mnemonic = "expire cricket stereo artefact conduct attack scale fringe fault abandon scale stand";
+var mnemonic = "good already topic runway drive like maid autumn hunt game wrestle top";

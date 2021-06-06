@@ -1,1 +1,1 @@
-var mnemonic = "smooth zebra net modify weird claw develop unhappy order path orange sand";
+var mnemonic = "aim oxygen float soup biology yellow poet lucky transfer thing cactus elder";

@@ -1,1 +1,1 @@
-var mnemonic = "fun keen script differ door seat carpet opera spring already found atom";
+var mnemonic = "stadium rabbit forum license mesh chest list ship credit position filter manual";

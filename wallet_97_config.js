@@ -1,1 +1,1 @@
-var mnemonic = "collect travel develop hip enter matter medal apart hammer mixture crisp core";
+var mnemonic = "ride exit bleak abstract hire rib cancel write sustain kick tissue rapid";

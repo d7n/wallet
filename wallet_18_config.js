@@ -1,1 +1,1 @@
-var mnemonic = "cherry orient match thank dash mobile seven limb south tumble favorite stadium";
+var mnemonic = "cook parade scare obey raw alert bean tray library ancient vapor siege";

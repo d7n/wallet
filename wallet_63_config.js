@@ -1,1 +1,1 @@
-var mnemonic = "shed else author buffalo valid weather slow defy replace problem inherit defense";
+var mnemonic = "satoshi bright physical crouch uncle share now tragic empty robust decade tag";

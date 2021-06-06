@@ -1,1 +1,1 @@
-var mnemonic = "skate car smile merge push pony feature blood science lend burden narrow";
+var mnemonic = "relief mean tortoise van bunker spider palace cross guess step student rail";

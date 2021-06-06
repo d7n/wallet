@@ -1,1 +1,1 @@
-var mnemonic = "elite version other unlock universe hair payment dove box quick alert run";
+var mnemonic = "tilt bamboo finger gloom mystery since hospital erupt trial round kitten drastic";

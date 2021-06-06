@@ -1,1 +1,1 @@
-var mnemonic = "addict dust father matrix swift similar end bicycle tissue piece prevent east";
+var mnemonic = "lizard agree wrist pumpkin ridge bubble deal segment pig spy art artefact";

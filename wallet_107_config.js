@@ -1,1 +1,1 @@
-var mnemonic = "group filter cover enable metal flush battle message main where initial soldier";
+var mnemonic = "hood adult coach addict exhaust shoulder switch thrive diagram come canoe relief";

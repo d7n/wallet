@@ -1,1 +1,1 @@
-var mnemonic = "find original swap world group describe become first income year arrange sauce";
+var mnemonic = "finger casino trumpet festival rabbit real bread prize skirt merge minimum dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "october ship clever rib animal couple brain sense deal inflict calm gate";
+var mnemonic = "exchange excuse august occur fame fat festival have matrix sell slot jungle";

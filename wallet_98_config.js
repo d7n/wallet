@@ -1,1 +1,1 @@
-var mnemonic = "atom kiss rural pause vast major home stamp rule wreck impulse cradle";
+var mnemonic = "fix oxygen begin breeze once fetch decide alien extend simple surge flee";

@@ -1,1 +1,1 @@
-var mnemonic = "october walnut tissue cram happy hidden uncle fever feed aspect hero increase";
+var mnemonic = "angle bean burden submit defense tissue wagon test area crunch lawn oyster";

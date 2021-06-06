@@ -1,1 +1,1 @@
-var mnemonic = "space affair evoke primary skill alarm second false neutral cruel end purity";
+var mnemonic = "obtain topple metal trap lottery inquiry slogan soul kiwi educate finish century";

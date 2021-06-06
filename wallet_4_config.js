@@ -1,1 +1,1 @@
-var mnemonic = "screen pass space mass false diet canyon observe purpose enjoy tower enter";
+var mnemonic = "exit alarm mandate category repeat combine company sibling fox brisk swing humor";

@@ -1,1 +1,1 @@
-var mnemonic = "knife civil soup path crime injury orchard pet firm sight absent either";
+var mnemonic = "subway sunny company rule sad issue capable cancel cricket brave notable learn";

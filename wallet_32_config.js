@@ -1,1 +1,1 @@
-var mnemonic = "novel coconut awful miracle fever almost mango laugh where path stone frown";
+var mnemonic = "else basket during dolphin mammal little project modify melt physical seven capable";

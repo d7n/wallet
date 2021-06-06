@@ -1,1 +1,1 @@
-var mnemonic = "become speak laundry taste advance hawk together pill noodle march boring echo";
+var mnemonic = "crouch mail adjust kick sunset segment garment equip know caution list short";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover wide mix armor enforce employ orange tomorrow ribbon absorb mirror surge";
+var mnemonic = "east amateur tunnel battle file maid pave sniff draw spread slender welcome";

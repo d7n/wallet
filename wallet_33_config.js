@@ -1,1 +1,1 @@
-var mnemonic = "sail before wire below away lake kid harvest chronic round proof keen";
+var mnemonic = "acid cliff double spray pluck borrow mutual need oblige life fiber canvas";

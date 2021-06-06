@@ -1,1 +1,1 @@
-var mnemonic = "odor goat steel ship antenna reform crunch cactus light entire doctor post";
+var mnemonic = "around toast pattern gas protect hurry ring surge increase purity sound state";

@@ -1,1 +1,1 @@
-var mnemonic = "claw bubble kiss open ask secret senior business hill feel wolf bless";
+var mnemonic = "list foam hazard bless insane route august vehicle agent gravity symptom express";

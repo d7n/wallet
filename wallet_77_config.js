@@ -1,1 +1,1 @@
-var mnemonic = "blanket load bargain other theory lab buzz pelican glimpse feed desk fatal";
+var mnemonic = "voyage release able pizza age clerk thank captain cube matter focus six";

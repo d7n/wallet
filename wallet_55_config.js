@@ -1,1 +1,1 @@
-var mnemonic = "gasp similar museum slight clay interest recycle exist album kidney beyond grow";
+var mnemonic = "harbor enforce exist better agent lobster feed clerk shoulder north embark soda";

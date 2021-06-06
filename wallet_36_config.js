@@ -1,1 +1,1 @@
-var mnemonic = "second claim ability embrace fringe cross van dish roast phone cloth tragic";
+var mnemonic = "jar now sand agree sketch tribe urge truly crumble vocal student surface";

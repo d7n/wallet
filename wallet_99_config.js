@@ -1,1 +1,1 @@
-var mnemonic = "lumber cycle witness switch giggle liquid expose laptop cushion doctor boss tonight";
+var mnemonic = "prevent vital garden cost total there modify maple asset siege grocery flash";

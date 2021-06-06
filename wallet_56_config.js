@@ -1,1 +1,1 @@
-var mnemonic = "angry photo assist hundred stairs awesome daring fog forum bomb evoke leisure";
+var mnemonic = "steak toe license sunny wolf ensure wear mutual whale real steak address";

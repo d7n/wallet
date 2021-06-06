@@ -1,1 +1,1 @@
-var mnemonic = "honey flush enough grace only weather picture dolphin pretty ripple police south";
+var mnemonic = "history embark pencil nest admit oppose embody snow quantum napkin pass slow";

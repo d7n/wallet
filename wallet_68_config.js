@@ -1,1 +1,1 @@
-var mnemonic = "deputy together evolve hand nation rural level link cradle message focus erase";
+var mnemonic = "day clip proof envelope across veteran utility lamp rail steel wreck case";

@@ -1,1 +1,1 @@
-var mnemonic = "web celery coconut destroy lounge senior acoustic any urban erupt teach draft";
+var mnemonic = "until glow skirt easily clog breeze phone praise humor oyster double help";

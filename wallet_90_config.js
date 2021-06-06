@@ -1,1 +1,1 @@
-var mnemonic = "virtual little monkey galaxy hold profit word elite notable excuse expose funny";
+var mnemonic = "acoustic sunny near purpose salmon begin squirrel senior entire saddle universe rack";

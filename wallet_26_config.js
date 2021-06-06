@@ -1,1 +1,1 @@
-var mnemonic = "cost surprise embody snake tissue shuffle blade general favorite arrive able mercy";
+var mnemonic = "curious glide change miss brisk member replace jeans merit enlist ripple quit";

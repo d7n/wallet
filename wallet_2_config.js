@@ -1,1 +1,1 @@
-var mnemonic = "climb fossil verb host bind orphan observe claim apology corn eagle lake";
+var mnemonic = "kite network acoustic plastic recycle pioneer liberty good already hunt cover chef";

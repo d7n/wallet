@@ -1,1 +1,1 @@
-var mnemonic = "dynamic design member empower coral prefer hat model tank talk jungle vendor";
+var mnemonic = "expect release ridge define armor baby motion mechanic gloom quit convince burger";

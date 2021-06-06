@@ -1,1 +1,1 @@
-var mnemonic = "term dry pave turn cloth harvest kidney sand auto oblige already agent";
+var mnemonic = "stage west endorse produce network correct swallow bundle planet curtain act core";

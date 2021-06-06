@@ -1,1 +1,1 @@
-var mnemonic = "butter rich senior festival submit cradle mouse more regret leader gentle intact";
+var mnemonic = "human alien burden lonely concert notice aunt vehicle multiply wonder topple bird";

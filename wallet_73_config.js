@@ -1,1 +1,1 @@
-var mnemonic = "shy head novel hint attract stuff drift nerve pill order olive equal";
+var mnemonic = "april sing dog lift little they narrow carry very march stereo lava";

@@ -1,1 +1,1 @@
-var mnemonic = "broom top float town juice snow tree desk holiday magic vehicle label";
+var mnemonic = "hammer harbor furnace hybrid silly want suffer slot bottom magnet spell need";

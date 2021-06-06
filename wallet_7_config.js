@@ -1,1 +1,1 @@
-var mnemonic = "script usual panda later language lawn wrong obvious apart maple exhibit style";
+var mnemonic = "dog action slogan cart kangaroo erode ghost unfair reason route valve reject";

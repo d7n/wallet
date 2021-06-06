@@ -1,1 +1,1 @@
-var mnemonic = "cake reason exile oxygen agent reopen blur liar shop best mail lecture";
+var mnemonic = "lend will mobile minute jewel error royal bike junior rate author marine";

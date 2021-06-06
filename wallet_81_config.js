@@ -1,1 +1,1 @@
-var mnemonic = "century energy blanket emotion fantasy upon urge critic time exit gift you";
+var mnemonic = "warm adult fancy squeeze sort mule strong sure praise daughter turtle voyage";

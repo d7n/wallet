@@ -1,1 +1,1 @@
-var mnemonic = "cloud cactus heart giraffe check sight genre produce update loyal prison card";
+var mnemonic = "weasel dignity jewel drip bless salmon live dream fee caught believe tumble";

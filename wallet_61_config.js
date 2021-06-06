@@ -1,1 +1,1 @@
-var mnemonic = "cushion decide bring found second bundle reunion three trim business senior hand";
+var mnemonic = "print hockey diary legal write hip rely surface demise believe produce off";

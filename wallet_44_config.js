@@ -1,1 +1,1 @@
-var mnemonic = "into trim brush rule order afford auto habit ankle hen exclude mass";
+var mnemonic = "right put swear hold promote sword attract female veteran repair blouse ghost";

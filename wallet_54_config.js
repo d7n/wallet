@@ -1,1 +1,1 @@
-var mnemonic = "clip scatter law crawl veteran that van short sing ship hire announce";
+var mnemonic = "ill force exhibit spider battle dumb used early wool dish enforce moral";

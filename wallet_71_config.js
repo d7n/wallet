@@ -1,1 +1,1 @@
-var mnemonic = "quit hood antique also regular figure inside thumb weapon defy level digital";
+var mnemonic = "file nominee diamond joy chief cabin fee renew ski comic episode typical";

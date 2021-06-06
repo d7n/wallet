@@ -1,1 +1,1 @@
-var mnemonic = "light magnet august crumble sense impose brush clean large acoustic coconut fine";
+var mnemonic = "shoe arrest fix bottom tip welcome letter armed wagon thank guilt odor";

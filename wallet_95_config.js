@@ -1,1 +1,1 @@
-var mnemonic = "know hover risk blood chest install amateur certain slush pool resist zero";
+var mnemonic = "chalk waste pear print debris urban wing other tuna only heart machine";

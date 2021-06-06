@@ -1,1 +1,1 @@
-var mnemonic = "lecture disagree enough critic process smile timber original power motion pass rival";
+var mnemonic = "current wheel source dream hour shrug drop crunch error rely foil angle";

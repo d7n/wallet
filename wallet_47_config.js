@@ -1,1 +1,1 @@
-var mnemonic = "simple depart fetch office wisdom green tenant network address stock poet lawn";
+var mnemonic = "bracket thank truck antenna usage mango bless decade side busy huge slim";

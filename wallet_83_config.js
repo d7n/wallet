@@ -1,1 +1,1 @@
-var mnemonic = "sniff hope phone melt cry evidence hello bulb fringe title creek peace";
+var mnemonic = "doll enforce cream air jealous yellow media kiss boil dress fat sniff";

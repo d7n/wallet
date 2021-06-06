@@ -1,1 +1,1 @@
-var mnemonic = "pepper few arm blue orbit lesson melt warfare public room family fee";
+var mnemonic = "input stumble glory huge inherit viable mango brand chat tank repeat peace";

@@ -1,1 +1,1 @@
-var mnemonic = "cause crack keep ghost limb sport fix dish enough soap faith coral";
+var mnemonic = "series turn turkey myself solar tell purity neither weather carpet mean soldier";

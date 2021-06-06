@@ -1,1 +1,1 @@
-var mnemonic = "employ judge armed disagree clay enlist fruit robot lottery smooth case critic";
+var mnemonic = "squirrel drill worry swift extend flat front daughter north radar manual glory";

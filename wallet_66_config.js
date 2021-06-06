@@ -1,1 +1,1 @@
-var mnemonic = "afraid cave company begin rebuild limit agree rural canal shallow together mask";
+var mnemonic = "tree resource exhaust acoustic burden wasp ocean dutch beyond camp water fantasy";

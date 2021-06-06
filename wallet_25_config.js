@@ -1,1 +1,1 @@
-var mnemonic = "cry divide rain mosquito whisper giggle basic second agree primary spatial fossil";
+var mnemonic = "flush mule stay deny juice nation cook mention tribe human mass second";

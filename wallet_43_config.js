@@ -1,1 +1,1 @@
-var mnemonic = "combine horse tunnel vacuum breeze make wild athlete trophy celery select load";
+var mnemonic = "helmet fit imitate print essay absent captain ethics clown lazy victory exact";

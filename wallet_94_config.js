@@ -1,1 +1,1 @@
-var mnemonic = "armed oxygen can fork culture fee insect flag stumble black cloud raccoon";
+var mnemonic = "raw horror sorry enlist load crucial mechanic setup leave venue bargain dawn";

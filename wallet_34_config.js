@@ -1,1 +1,1 @@
-var mnemonic = "season help mushroom cannon table alter kingdom bullet fault common canvas balance";
+var mnemonic = "behind attack control nothing expose maximum scale clay truth festival then judge";

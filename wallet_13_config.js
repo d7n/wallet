@@ -1,1 +1,1 @@
-var mnemonic = "reward deputy seed sign toast parade amused embody jungle toddler soap report";
+var mnemonic = "arrange border shed comic stay ramp magic panic chase skin axis puzzle";

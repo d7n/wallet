@@ -1,1 +1,1 @@
-var mnemonic = "law marine scan earn upon twelve cherry prize smart uphold fog control";
+var mnemonic = "venture avocado buzz vendor outdoor hub hand omit hand organ identify raw";

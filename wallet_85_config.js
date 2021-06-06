@@ -1,1 +1,1 @@
-var mnemonic = "assist twin plunge obscure theory derive trim sunny glide exclude train lab";
+var mnemonic = "wrist insane enrich muffin tube divert boss steak mammal purchase lady split";

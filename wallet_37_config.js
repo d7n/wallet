@@ -1,1 +1,1 @@
-var mnemonic = "erode company detect adult clever crime believe comic hint humor consider speak";
+var mnemonic = "harvest vivid family snow client force always strong wedding rare hello more";

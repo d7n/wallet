@@ -1,1 +1,1 @@
-var mnemonic = "session quantum man relief plug shield property nest expect tonight enable cream";
+var mnemonic = "pepper guide biology execute melt brown diagram donor harsh cream castle inflict";

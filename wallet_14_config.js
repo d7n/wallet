@@ -1,1 +1,1 @@
-var mnemonic = "switch unfold movie dragon gym write wise shoe blouse remind frame attend";
+var mnemonic = "spirit garment action keep elegant over sibling donate panel glad notice sketch";

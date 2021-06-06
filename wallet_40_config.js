@@ -1,1 +1,1 @@
-var mnemonic = "utility arrive master steel mother rate poet stay just angry mind boss";
+var mnemonic = "mail food glue arrest switch install chat oyster build slow trouble spoil";

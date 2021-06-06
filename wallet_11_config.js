@@ -1,1 +1,1 @@
-var mnemonic = "laptop swear draw amazing liar silver mesh charge pumpkin bag sign early";
+var mnemonic = "pelican degree glory again column asthma margin cheap van tuition usual habit";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum notice hill spawn innocent flash moral coyote decide million quit other";
+var mnemonic = "various oven tooth glow seven enter push play similar update travel inspire";

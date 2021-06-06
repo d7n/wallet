@@ -1,1 +1,1 @@
-var mnemonic = "enforce brush income dragon demise enroll antenna useless usage camera punch offer";
+var mnemonic = "antique still split radar muscle aspect shoulder curious impact damp valley board";

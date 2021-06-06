@@ -1,1 +1,1 @@
-var mnemonic = "nut october palm cotton note famous help manual click timber buzz brave";
+var mnemonic = "pink water pave negative rifle picnic drop call forget extra rifle happy";

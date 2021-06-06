@@ -1,1 +1,1 @@
-var mnemonic = "truck wave old senior logic dinosaur gravity material build chase amused uncle";
+var mnemonic = "misery creek celery voyage acoustic refuse seek enemy parent spoil trigger lemon";

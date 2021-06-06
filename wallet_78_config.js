@@ -1,1 +1,1 @@
-var mnemonic = "improve glory twice awake adapt prize jelly ancient main mouse cost blouse";
+var mnemonic = "clerk grid attract label danger eager clump slice disagree grit vast consider";

@@ -1,1 +1,1 @@
-var mnemonic = "group decorate sweet detail butter tiger obtain hub message enjoy nut ritual";
+var mnemonic = "image exercise lion action coral demand duty response puzzle wear suggest jealous";

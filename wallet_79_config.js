@@ -1,1 +1,1 @@
-var mnemonic = "struggle flip final shine render sheriff mobile conduct foil shed first equip";
+var mnemonic = "rocket throw marble check lift addict already rabbit safe denial giant pretty";

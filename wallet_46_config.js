@@ -1,1 +1,1 @@
-var mnemonic = "episode reform choose very memory comfort average game devote desk shaft wise";
+var mnemonic = "repair elite cushion false bargain meat isolate donor girl milk luggage you";

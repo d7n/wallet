@@ -1,1 +1,1 @@
-var mnemonic = "salute random into coral never useful nothing ribbon blouse young damp various";
+var mnemonic = "material spider purse one crew warfare knock belt wolf fit easily bike";

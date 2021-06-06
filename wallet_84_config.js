@@ -1,1 +1,1 @@
-var mnemonic = "hurt puppy gentle indoor spy over degree attack skull cage patient series";
+var mnemonic = "pudding domain immense segment hurt mesh cycle check ready absorb wish brand";

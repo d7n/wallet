@@ -1,1 +1,1 @@
-var mnemonic = "wild plug brother fury plate faculty nuclear oyster alien huge gun rigid";
+var mnemonic = "office decide stock coral actress police atom animal shield degree soldier scrub";

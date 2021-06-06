@@ -1,1 +1,1 @@
-var mnemonic = "alley hero interest canyon protect limit steel poet flight spend column monkey";
+var mnemonic = "pumpkin boss engage scheme garbage chronic never plunge debate ghost strategy alpha";

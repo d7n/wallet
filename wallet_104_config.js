@@ -1,1 +1,1 @@
-var mnemonic = "track main wealth abandon latin muscle tuna document crouch update wool trade";
+var mnemonic = "oven stairs embrace ritual mad cradle evil plastic potato impact hood endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "present cloud hazard pilot chalk rose paddle bracket enable drop cushion shallow";
+var mnemonic = "onion zero wonder jazz figure ritual impulse patch sniff senior minor valve";

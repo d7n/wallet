@@ -1,1 +1,1 @@
-var mnemonic = "casino glow forum window hammer tunnel salt belt athlete tilt file skate";
+var mnemonic = "zoo smoke clarify north noble scorpion goddess author obey early surprise canyon";

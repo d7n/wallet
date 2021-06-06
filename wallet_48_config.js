@@ -1,1 +1,1 @@
-var mnemonic = "favorite join essay once south addict major athlete poverty write local piece";
+var mnemonic = "suit aim vibrant castle track pledge truck educate belt weather rug caution";

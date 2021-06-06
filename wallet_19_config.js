@@ -1,1 +1,1 @@
-var mnemonic = "jacket absorb raven engine safe inspire sure rose still lake spawn lunar";
+var mnemonic = "rebel truck ball flower rare comic resist door town rich slush build";

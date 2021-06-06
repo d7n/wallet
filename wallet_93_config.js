@@ -1,1 +1,1 @@
-var mnemonic = "will tiger slight survey adapt steak hill between chronic book size write";
+var mnemonic = "jewel hurt weird collect decide lawsuit mouse hazard conduct awake city fortune";

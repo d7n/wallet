@@ -1,1 +1,1 @@
-var mnemonic = "couch bind scatter copy pass census finish venture august expire bicycle oblige";
+var mnemonic = "wife mutual obvious feel card remember fever knee series pelican miracle mean";
