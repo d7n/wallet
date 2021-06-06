@@ -1,1 +1,1 @@
-var mnemonic = "lift unfair vessel quarter train rent turn tank budget holiday increase push";
+var mnemonic = "mobile ripple syrup author submit grant disagree image choose nut fitness fame";

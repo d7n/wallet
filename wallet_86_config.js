@@ -1,1 +1,1 @@
-var mnemonic = "mushroom defy column latin outer park front decrease arch sun toast valid";
+var mnemonic = "bullet today crowd exact heart install furnace project blood screen daring drill";

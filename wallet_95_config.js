@@ -1,1 +1,1 @@
-var mnemonic = "train board tide suffer lyrics female picture marine visual fog unfold ripple";
+var mnemonic = "tilt burst kidney bridge matter deny board clever donor place rival fine";

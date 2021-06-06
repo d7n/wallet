@@ -1,1 +1,1 @@
-var mnemonic = "hello noble valley foster dinner bless whale vital winter danger medal tower";
+var mnemonic = "hazard faculty then exchange note evolve train either myth depart attend rate";

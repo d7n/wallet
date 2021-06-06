@@ -1,1 +1,1 @@
-var mnemonic = "fence render general world ripple ripple acid morning fork fragile alone struggle";
+var mnemonic = "empty busy yard iron basket wool sing near market announce wait valley";

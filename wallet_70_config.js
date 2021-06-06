@@ -1,1 +1,1 @@
-var mnemonic = "valid soap lecture limb rack egg cash tumble seek kick coin poet";
+var mnemonic = "trip about help defense blur degree mango live prosper dizzy man learn";

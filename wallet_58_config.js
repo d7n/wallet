@@ -1,1 +1,1 @@
-var mnemonic = "diet earth voyage suffer enroll maximum stone jungle rack leave learn bomb";
+var mnemonic = "rabbit lady run brick surprise crisp trial timber bitter engine predict talk";

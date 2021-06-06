@@ -1,1 +1,1 @@
-var mnemonic = "rich unfold gravity myth found tank obvious height draft guard soul issue";
+var mnemonic = "cigar news update route outdoor people piece parade empower tray jacket letter";

@@ -1,1 +1,1 @@
-var mnemonic = "endless include tragic toss bean first smile near spatial slow stuff stove";
+var mnemonic = "syrup renew own burger rescue vacant claw pencil bulk ribbon doll riot";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel boring damp garden very license heavy achieve wish run kind magic";
+var mnemonic = "fetch caught shed logic snack wish album use pause icon asset shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon above episode online gloom expire sign violin brick lottery strong tent";
+var mnemonic = "amused father just goat ladder match rival thing forget history business spider";

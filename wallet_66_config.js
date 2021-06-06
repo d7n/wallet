@@ -1,1 +1,1 @@
-var mnemonic = "turn denial tube exotic evolve name grape stone cinnamon grow circle camera";
+var mnemonic = "decade magic motor decide visa despair animal maid void hospital first mean";

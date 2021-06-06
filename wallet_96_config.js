@@ -1,1 +1,1 @@
-var mnemonic = "right sibling fiction family topple detect doctor expire charge lunar divorce bulk";
+var mnemonic = "stumble announce paddle utility joke sustain below sell venue calm air number";

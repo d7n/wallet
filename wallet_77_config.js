@@ -1,1 +1,1 @@
-var mnemonic = "odor throw soccer purchase mercy crew library shine local mind spice bright";
+var mnemonic = "chest plug argue luxury cliff gas oval life come shoulder because manual";

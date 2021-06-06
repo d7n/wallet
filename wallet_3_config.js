@@ -1,1 +1,1 @@
-var mnemonic = "clutch airport view million average firm palace travel squirrel cup label angle";
+var mnemonic = "claim model ankle pistol drama suit turkey never monster dilemma soap boy";

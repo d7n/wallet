@@ -1,1 +1,1 @@
-var mnemonic = "juice student gas cute rotate word odor loyal happy two usual first";
+var mnemonic = "minute liquid charge frog news tape fly medal fall admit badge wrist";

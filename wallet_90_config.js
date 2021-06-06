@@ -1,1 +1,1 @@
-var mnemonic = "radio wage business supreme term office denial obtain tortoise parrot agent misery";
+var mnemonic = "sleep vast caught shell march vacant topic away fashion hammer habit media";

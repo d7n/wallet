@@ -1,1 +1,1 @@
-var mnemonic = "wife arrive else portion output else word inflict bubble claw inherit swear";
+var mnemonic = "tongue mail scheme still master frost despair flame pen need uncover use";

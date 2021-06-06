@@ -1,1 +1,1 @@
-var mnemonic = "quarter runway purse sick effort sport myth broccoli category range exotic welcome";
+var mnemonic = "similar nose act extend lazy raccoon whip resource potato crunch forget strategy";

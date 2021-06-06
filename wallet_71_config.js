@@ -1,1 +1,1 @@
-var mnemonic = "stage crystal sting uncle south trial trigger orchard surprise ability junior position";
+var mnemonic = "roast allow library travel gasp become source mail ring pride skull equal";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach today cover dignity flush shove surprise viable fetch outer surround february";
+var mnemonic = "vacant refuse news device language dose vault season remain island rule simple";

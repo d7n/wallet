@@ -1,1 +1,1 @@
-var mnemonic = "hip people pledge exchange canvas cliff join second onion task chronic shy";
+var mnemonic = "hungry meadow peace chuckle bar word setup pizza spot roof loop unhappy";

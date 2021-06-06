@@ -1,1 +1,1 @@
-var mnemonic = "nerve pave cable lumber element crouch sad other around host grocery organ";
+var mnemonic = "soul panda school pilot smart few illegal cave shallow october february account";

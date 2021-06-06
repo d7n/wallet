@@ -1,1 +1,1 @@
-var mnemonic = "embrace token tip keen dream brain noble announce trigger piano idle congress";
+var mnemonic = "again tide cement leopard air foster shell grow broken usual arch spray";

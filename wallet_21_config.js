@@ -1,1 +1,1 @@
-var mnemonic = "better derive alert congress gas eye receive earn silver series oppose also";
+var mnemonic = "outside floor dinosaur cactus mix student brave crush sustain husband nephew wrestle";

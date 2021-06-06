@@ -1,1 +1,1 @@
-var mnemonic = "zero unfold guess imitate wave upper host limb tackle service morning alone";
+var mnemonic = "broken settle office like soul report magnet narrow march evidence fame all";

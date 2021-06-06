@@ -1,1 +1,1 @@
-var mnemonic = "cost pioneer strong decorate video marriage hundred toilet noble jacket trick world";
+var mnemonic = "camera calm talk tenant piece click guitar mom cereal episode west slot";

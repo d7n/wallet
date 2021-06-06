@@ -1,1 +1,1 @@
-var mnemonic = "uniform march stage glad prevent draw rural salute elite slogan pistol bar";
+var mnemonic = "elephant exchange alley space street silly hurry rich blouse catch plastic unknown";

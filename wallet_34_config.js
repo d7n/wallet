@@ -1,1 +1,1 @@
-var mnemonic = "cannon marble elephant produce crop pioneer resemble minimum reward cereal student expire";
+var mnemonic = "differ exotic chimney street hard reason sick coyote crouch upper height still";

@@ -1,1 +1,1 @@
-var mnemonic = "kite angry record ski bus faint develop teach kind sun churn nominee";
+var mnemonic = "team idea improve slush cake provide bag also flip spatial cement spike";

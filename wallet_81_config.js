@@ -1,1 +1,1 @@
-var mnemonic = "order primary super advice champion tornado subway private dog unusual stable exercise";
+var mnemonic = "distance dentist output hurt twice plug celery blue annual rack tribe poet";

@@ -1,1 +1,1 @@
-var mnemonic = "car require comfort coast spring naive issue music burst document pig forest";
+var mnemonic = "earth theme luxury tunnel excess virus town bright crater major off dumb";

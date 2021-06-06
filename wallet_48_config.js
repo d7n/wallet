@@ -1,1 +1,1 @@
-var mnemonic = "empty reveal area spin dynamic famous marriage smooth scatter mesh blush keen";
+var mnemonic = "exercise hurry ridge wire unhappy horror proof autumn blush lift object nation";

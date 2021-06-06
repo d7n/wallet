@@ -1,1 +1,1 @@
-var mnemonic = "initial whip rude tonight napkin bone image today soldier hire pencil cram";
+var mnemonic = "parent young benefit bitter safe diesel walk slight opera dizzy manage mix";

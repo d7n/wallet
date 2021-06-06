@@ -1,1 +1,1 @@
-var mnemonic = "maximum arctic moment cloth chapter dish mad snap inch addict sweet echo";
+var mnemonic = "kidney nature dove razor develop click select web vessel endless romance bitter";

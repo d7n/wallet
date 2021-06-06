@@ -1,1 +1,1 @@
-var mnemonic = "pony romance enable bullet cigar velvet chaos fan anxiety seed metal minimum";
+var mnemonic = "turtle before relief jaguar tragic fashion similar history season gesture casual produce";

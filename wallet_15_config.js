@@ -1,1 +1,1 @@
-var mnemonic = "network family ripple hub fresh rely image stomach live arch skill choose";
+var mnemonic = "palm potato reform engine indicate erase echo nature add float define almost";

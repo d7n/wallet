@@ -1,1 +1,1 @@
-var mnemonic = "hungry grocery decide trick eyebrow this acquire term library light rifle noodle";
+var mnemonic = "apple answer hedgehog eternal cup urban town rich push syrup boost track";

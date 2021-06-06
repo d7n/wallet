@@ -1,1 +1,1 @@
-var mnemonic = "stumble sense cart still silver outside pause stem saddle smile happy merry";
+var mnemonic = "mango tail bone maple mean volume ketchup baby rough travel bubble gate";

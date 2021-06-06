@@ -1,1 +1,1 @@
-var mnemonic = "arm viable civil buyer decline case raise dutch address urban budget upgrade";
+var mnemonic = "waste slush carbon crew identify bomb snap wife answer fence vicious pyramid";

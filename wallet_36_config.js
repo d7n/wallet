@@ -1,1 +1,1 @@
-var mnemonic = "help wolf actor build wonder sand music outside school survey culture can";
+var mnemonic = "enforce video indicate vanish lounge section supply young key educate strategy fantasy";

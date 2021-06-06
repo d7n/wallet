@@ -1,1 +1,1 @@
-var mnemonic = "tiny guess enhance dinosaur various economy turtle upgrade animal scorpion order witness";
+var mnemonic = "high rifle deputy visit note color agree ceiling betray demise tell child";

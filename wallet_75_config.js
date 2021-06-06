@@ -1,1 +1,1 @@
-var mnemonic = "gravity reopen blame chaos hobby liberty brown feature hat scrub story animal";
+var mnemonic = "adult reunion reveal park axis major cinnamon antenna rice pole spoon flower";

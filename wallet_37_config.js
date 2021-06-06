@@ -1,1 +1,1 @@
-var mnemonic = "robot wide credit cover wedding field clip marble clock drop key fiber";
+var mnemonic = "father leopard cook abstract lamp apple position arrest loan frame tree afraid";

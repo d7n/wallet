@@ -1,1 +1,1 @@
-var mnemonic = "initial short isolate choose wife metal behind mean skate ask claim park";
+var mnemonic = "mule have elegant diamond solve rose laugh robot give wisdom regular name";

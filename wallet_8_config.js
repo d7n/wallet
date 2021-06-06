@@ -1,1 +1,1 @@
-var mnemonic = "shove inmate alarm around stone capable cloud maze clerk chronic lonely what";
+var mnemonic = "pizza poet siege pyramid author feed birth future basic liberty olympic guess";

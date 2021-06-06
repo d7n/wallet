@@ -1,1 +1,1 @@
-var mnemonic = "print bargain gym pelican desert dream art advance depth cage cabbage fuel";
+var mnemonic = "patch sugar harvest blur genuine soap senior phone cactus insect rent lab";

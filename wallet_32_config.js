@@ -1,1 +1,1 @@
-var mnemonic = "jump absurd inherit attitude lawsuit crystal weird note family quote amazing nothing";
+var mnemonic = "possible flip point curtain comfort pupil emotion skin various anger review token";

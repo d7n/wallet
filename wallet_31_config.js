@@ -1,1 +1,1 @@
-var mnemonic = "race suspect truly wide health describe vacant weather alcohol reduce position sauce";
+var mnemonic = "process fan company push key entry case across author distance recycle eight";

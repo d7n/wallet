@@ -1,1 +1,1 @@
-var mnemonic = "wisdom odor notice letter slice iron response radio soccer van coffee boost";
+var mnemonic = "just bulk carry six hidden hour silk east solution cook omit wire";

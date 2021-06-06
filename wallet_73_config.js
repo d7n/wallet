@@ -1,1 +1,1 @@
-var mnemonic = "column execute february warrior boy six trip husband someone main friend october";
+var mnemonic = "rather cycle rapid usual reward reunion know merry shrimp short announce have";

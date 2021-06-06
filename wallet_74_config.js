@@ -1,1 +1,1 @@
-var mnemonic = "mind conduct fatal above toe talent derive work amateur relief urge disagree";
+var mnemonic = "find clay huge rural visual coffee duck school grant student prize pioneer";

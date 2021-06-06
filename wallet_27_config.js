@@ -1,1 +1,1 @@
-var mnemonic = "problem bomb vast cycle spring theory say raven room hand rail sail";
+var mnemonic = "usage please van guilt canoe subway million chef fly error armor dash";

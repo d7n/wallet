@@ -1,1 +1,1 @@
-var mnemonic = "badge wing draw right right often neutral little two reveal inflict weather";
+var mnemonic = "jungle inner fury pistol cabin island innocent yellow flat escape ecology volume";

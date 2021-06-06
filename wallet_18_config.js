@@ -1,1 +1,1 @@
-var mnemonic = "million wisdom square upset repair relax deer measure can club silly kiwi";
+var mnemonic = "unable myself lonely surprise hint help session violin unveil tennis cream three";

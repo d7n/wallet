@@ -1,1 +1,1 @@
-var mnemonic = "toward tell tower hint daughter auction problem scale slim rapid elbow plate";
+var mnemonic = "stool math power captain play hazard gun swift force street usual budget";

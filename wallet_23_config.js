@@ -1,1 +1,1 @@
-var mnemonic = "cash boy differ sketch better fee alley garlic lottery stereo there wine";
+var mnemonic = "siege sadness cattle hub often cart shrimp board differ loop prison despair";

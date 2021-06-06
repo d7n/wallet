@@ -1,1 +1,1 @@
-var mnemonic = "case bacon second host fine april either double this measure knife rack";
+var mnemonic = "dice baby crystal exotic daughter exhibit divorce bring put tube verify movie";

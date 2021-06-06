@@ -1,1 +1,1 @@
-var mnemonic = "leave devote crane ill damp enact attend enlist media fork crime improve";
+var mnemonic = "illegal display polar basket table absent jar pretty october feel disagree lesson";

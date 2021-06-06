@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur illness sister believe bulb night pumpkin health sing valid field onion";
+var mnemonic = "nice insect razor sock leopard math mandate diamond enjoy hungry evoke thing";

@@ -1,1 +1,1 @@
-var mnemonic = "earn group potato solid ribbon silly crop kiss owner spider erode amazing";
+var mnemonic = "reform review mistake joke off churn air acoustic owner box answer jaguar";

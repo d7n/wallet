@@ -1,1 +1,1 @@
-var mnemonic = "smile install lake later tragic nature staff student list alpha elbow chaos";
+var mnemonic = "useful heart switch pioneer jump spider idle lock order blast come call";

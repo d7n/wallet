@@ -1,1 +1,1 @@
-var mnemonic = "you matter evoke vendor public stumble garden region balcony reveal pen devote";
+var mnemonic = "include lift erode reveal crazy ranch industry cat potato hip equal box";

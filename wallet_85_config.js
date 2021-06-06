@@ -1,1 +1,1 @@
-var mnemonic = "decide west congress describe screen major swallow tennis label forest achieve juice";
+var mnemonic = "valid course wish conduct blouse model poet reunion sauce people style list";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic skirt park assume sweet burst basket ability long travel horse segment";
+var mnemonic = "winner muffin used avoid program legend purse rail panel flower label morning";

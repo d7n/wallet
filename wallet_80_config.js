@@ -1,1 +1,1 @@
-var mnemonic = "end inhale margin laugh flush attitude inform arm trumpet axis unlock vague";
+var mnemonic = "task gas maze gap switch network pumpkin flush perfect grocery custom depend";

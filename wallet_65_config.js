@@ -1,1 +1,1 @@
-var mnemonic = "priority egg art alone obey obey position silent viable erode brisk obtain";
+var mnemonic = "soon gossip case hip fiscal stone hand toss celery guilt account animal";

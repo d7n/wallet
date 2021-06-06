@@ -1,1 +1,1 @@
-var mnemonic = "meat much case thrive sunset ski cinnamon flower purse habit term interest";
+var mnemonic = "hammer empty credit uncle february link ski track finish where swear orient";

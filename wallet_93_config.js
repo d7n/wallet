@@ -1,1 +1,1 @@
-var mnemonic = "autumn ranch need draw blame artefact valley much damage hurt urban vanish";
+var mnemonic = "security gap jeans beef giggle refuse move voyage hobby clerk skull behind";

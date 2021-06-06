@@ -1,1 +1,1 @@
-var mnemonic = "this hood solution analyst muffin afraid glance stage excess file transfer employ";
+var mnemonic = "kingdom pet bounce tourist welcome feed column age cabin catalog girl genre";

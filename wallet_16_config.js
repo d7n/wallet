@@ -1,1 +1,1 @@
-var mnemonic = "keen escape trigger abstract south wine runway social company innocent sick announce";
+var mnemonic = "frost flush prison margin marine gossip sunset trial minor snake drink mosquito";

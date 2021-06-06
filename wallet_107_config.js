@@ -1,1 +1,1 @@
-var mnemonic = "stairs number scene discover robust guide congress middle suspect few turtle scene";
+var mnemonic = "just post whale auction test marine laugh way suggest school remain crystal";

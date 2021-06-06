@@ -1,1 +1,1 @@
-var mnemonic = "arm word adult slam dutch awkward owner mix hat super aspect oven";
+var mnemonic = "stuff mean glad decade mix like phrase bind riot dune smoke galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "whip crew glide lunar certain palm neck sample garage palm jungle spin";
+var mnemonic = "label perfect sense feed airport swamp patch silent vocal this giant flash";

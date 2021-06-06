@@ -1,1 +1,1 @@
-var mnemonic = "access pistol priority height story brand tiny strategy rural extend reveal lucky";
+var mnemonic = "remember blast humble hour album flee robust rifle maple focus breeze gaze";

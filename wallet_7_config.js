@@ -1,1 +1,1 @@
-var mnemonic = "myth track sauce garden trash chicken proof cherry dress trust hybrid glad";
+var mnemonic = "eternal pluck edit jealous obvious conduct flight valley remember chunk grain deposit";

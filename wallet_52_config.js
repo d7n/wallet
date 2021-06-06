@@ -1,1 +1,1 @@
-var mnemonic = "world fuel youth open mimic elephant gym fringe voyage pond water blush";
+var mnemonic = "april danger amateur inhale vacant loan among era sniff resource fragile patient";

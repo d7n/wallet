@@ -1,1 +1,1 @@
-var mnemonic = "license cabbage pulse shed you wine puppy excite tiger ripple inside bronze";
+var mnemonic = "goat seminar puzzle aisle brick crater fat ahead endorse draft planet fabric";

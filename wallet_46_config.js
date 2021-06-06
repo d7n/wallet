@@ -1,1 +1,1 @@
-var mnemonic = "dawn pistol sun speed witness exotic can claw wedding able modify twice";
+var mnemonic = "lawn region inquiry damp meat solve host swing foot catalog ability one";

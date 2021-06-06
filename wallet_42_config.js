@@ -1,1 +1,1 @@
-var mnemonic = "genius erosion conduct penalty pretty ticket atom arrow slice found toe coffee";
+var mnemonic = "truly hybrid canvas auction expand spoil gorilla adapt crucial squeeze muscle stadium";

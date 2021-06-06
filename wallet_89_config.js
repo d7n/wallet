@@ -1,1 +1,1 @@
-var mnemonic = "shadow bachelor dutch open term report rather worth worth inch fame tragic";
+var mnemonic = "admit know protect scrap excess velvet fortune oval jelly seat total suggest";

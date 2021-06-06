@@ -1,1 +1,1 @@
-var mnemonic = "guide rose educate become vicious traffic travel orbit radar vanish now purpose";
+var mnemonic = "toss depend there bacon radar powder fury alpha fog void antique spike";

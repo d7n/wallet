@@ -1,1 +1,1 @@
-var mnemonic = "injury either raven emerge elder purity cat system ripple demise again resemble";
+var mnemonic = "tumble quick grace frame athlete mail pig project sausage fatigue invest dove";

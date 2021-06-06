@@ -1,1 +1,1 @@
-var mnemonic = "race venture rocket ozone chat chicken convince public tent parrot hedgehog fragile";
+var mnemonic = "crane jewel reunion elder else pumpkin hub garlic truly hobby toward album";

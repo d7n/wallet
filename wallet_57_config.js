@@ -1,1 +1,1 @@
-var mnemonic = "multiply woman gym address expose opinion sudden chair leisure swallow bitter narrow";
+var mnemonic = "collect cargo stomach stomach crowd change evidence rude orient clock cram humble";

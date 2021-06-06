@@ -1,1 +1,1 @@
-var mnemonic = "nominee despair canoe dynamic bench smoke soul ritual dove satoshi slide habit";
+var mnemonic = "know body sorry margin word transfer alpha expose fragile flight liar deer";

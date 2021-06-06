@@ -1,1 +1,1 @@
-var mnemonic = "term soap scheme surprise universe select voice board athlete clown celery danger";
+var mnemonic = "space convince emotion sport okay because attack gaze horse aunt buffalo bone";

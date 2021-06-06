@@ -1,1 +1,1 @@
-var mnemonic = "angry force pass much call artefact damp food million claim abstract sudden";
+var mnemonic = "universe message current erode account evil clog month unveil crystal topple various";

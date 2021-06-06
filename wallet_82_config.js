@@ -1,1 +1,1 @@
-var mnemonic = "cloud clerk same scout grow always dog any chalk genre intact smart";
+var mnemonic = "gallery loop coconut tool text soft notable custom puppy clutch between swap";
