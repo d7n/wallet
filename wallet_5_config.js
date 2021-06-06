@@ -1,1 +1,1 @@
-var mnemonic = "number lizard gate shoot input close benefit popular diagram bleak retire force";
+var mnemonic = "drum crane assault island box planet sting renew cushion monster poverty bitter";

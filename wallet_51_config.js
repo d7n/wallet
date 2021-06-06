@@ -1,1 +1,1 @@
-var mnemonic = "broom biology glory gentle spoon truth define fresh country sudden buffalo damage";
+var mnemonic = "glass trouble people air shoot guilt bird initial early issue saddle include";

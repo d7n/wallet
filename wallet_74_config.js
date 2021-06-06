@@ -1,1 +1,1 @@
-var mnemonic = "stick elbow balcony occur attack scare brain goose winner ask sheriff fire";
+var mnemonic = "strategy fly champion razor excite random caught bring ecology derive sick apple";

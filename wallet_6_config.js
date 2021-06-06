@@ -1,1 +1,1 @@
-var mnemonic = "entry crucial fox error giggle child lizard federal omit peace pigeon solid";
+var mnemonic = "spoon zoo force dog action desk team skirt depth rubber suffer picnic";

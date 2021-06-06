@@ -1,1 +1,1 @@
-var mnemonic = "drive caution subject label bargain path tank divide permit scout suggest episode";
+var mnemonic = "small future hockey chimney track chapter hour hamster usage visual gasp typical";

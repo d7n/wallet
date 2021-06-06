@@ -1,1 +1,1 @@
-var mnemonic = "gadget worth second minute dad team stove reveal sphere next goose dad";
+var mnemonic = "uniform rubber visual void receive brick sure destroy young program wife velvet";

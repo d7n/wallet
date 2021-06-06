@@ -1,1 +1,1 @@
-var mnemonic = "click spirit crumble nominee convince celery service canvas carpet insect right quit";
+var mnemonic = "evoke capable fan robust resource pledge world retire later pride milk normal";

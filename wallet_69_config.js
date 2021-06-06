@@ -1,1 +1,1 @@
-var mnemonic = "swap circle patient night unhappy wisdom learn squeeze bid canal window crawl";
+var mnemonic = "coconut payment chat buffalo security prevent collect train tobacco clever maid able";

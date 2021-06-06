@@ -1,1 +1,1 @@
-var mnemonic = "thunder gravity minute figure bone taste oyster sort guitar word supply physical";
+var mnemonic = "never brief dinner filter material peasant unaware bronze uniform lobster february account";

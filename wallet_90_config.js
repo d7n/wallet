@@ -1,1 +1,1 @@
-var mnemonic = "thing double buzz around tornado merry very turtle charge asset pistol charge";
+var mnemonic = "stick village job quarter misery long dismiss slide green west soda piece";

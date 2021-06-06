@@ -1,1 +1,1 @@
-var mnemonic = "giraffe profit educate bargain bean donor about wear brave upgrade remember carpet";
+var mnemonic = "mass minute unable marine emotion cousin daughter finger spray age write fame";

@@ -1,1 +1,1 @@
-var mnemonic = "plug general stem sort maximum since first lens margin february void raw";
+var mnemonic = "bless rebuild spice icon host fringe hurt gain border orbit brass cotton";

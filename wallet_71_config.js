@@ -1,1 +1,1 @@
-var mnemonic = "laugh seminar reward tiger buffalo fade silk flower clarify lake inside iron";
+var mnemonic = "produce first guitar chapter muscle hybrid bean equip charge cake come govern";

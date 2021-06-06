@@ -1,1 +1,1 @@
-var mnemonic = "unique screen brush kind runway skirt rival cheap glory sleep chaos churn";
+var mnemonic = "stereo dice engage spirit latin pyramid visit assume library bread brain tail";

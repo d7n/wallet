@@ -1,1 +1,1 @@
-var mnemonic = "hotel horror leopard old tell edge dutch crater novel card pool strike";
+var mnemonic = "east cry unhappy art prosper fluid vibrant digital offer burden onion hockey";

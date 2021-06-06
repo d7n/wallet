@@ -1,1 +1,1 @@
-var mnemonic = "east trouble attack nerve comic thought brother repair space limb pear ugly";
+var mnemonic = "magic spin drink bring capital planet output salon first project foam often";

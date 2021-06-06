@@ -1,1 +1,1 @@
-var mnemonic = "lyrics clever lonely hold trick bid hill athlete sting egg palm only";
+var mnemonic = "pole figure health nerve stand true ignore object end joy marble bounce";

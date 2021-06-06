@@ -1,1 +1,1 @@
-var mnemonic = "swim copy liquid ice leopard glad potato patient stay plate fix confirm";
+var mnemonic = "hundred obtain twist drift unveil grief crush rhythm rural smooth oval reform";

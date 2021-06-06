@@ -1,1 +1,1 @@
-var mnemonic = "assault disorder believe pottery busy story install help ordinary annual mushroom approve";
+var mnemonic = "super peasant decorate useful boring observe coach fortune patient manual tourist blouse";

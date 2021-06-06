@@ -1,1 +1,1 @@
-var mnemonic = "ranch apart same merry balcony sniff depth aunt glove tilt adjust transfer";
+var mnemonic = "public concert valley helmet mesh club woman network witness spot misery weapon";

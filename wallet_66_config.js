@@ -1,1 +1,1 @@
-var mnemonic = "suspect ability rule curtain spirit hold banner nothing when screen flower zero";
+var mnemonic = "dynamic grid off february cycle fiction observe plastic scare outside slight forget";

@@ -1,1 +1,1 @@
-var mnemonic = "present gun odor quote hip foil puzzle indoor acid jungle silver elegant";
+var mnemonic = "spy matter orchard venture wink surge trend illness current topple conduct library";

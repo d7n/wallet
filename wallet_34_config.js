@@ -1,1 +1,1 @@
-var mnemonic = "accuse special clay pepper remind end slow vital orchard dinner sauce horn";
+var mnemonic = "drop hard pill rate girl electric amateur execute into eyebrow unique praise";

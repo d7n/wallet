@@ -1,1 +1,1 @@
-var mnemonic = "ceiling emerge convince dish lecture modify burden silk nephew crime dentist method";
+var mnemonic = "carbon junk crash like must unveil apple never horn tuna vivid raven";

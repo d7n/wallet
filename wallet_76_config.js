@@ -1,1 +1,1 @@
-var mnemonic = "pilot develop veteran coin cheese become dial salmon neck crouch leisure inner";
+var mnemonic = "fence crater harvest plug picnic animal tobacco pigeon slam zebra animal gold";

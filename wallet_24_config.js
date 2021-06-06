@@ -1,1 +1,1 @@
-var mnemonic = "secret clever home marriage breeze velvet ridge joy manual thrive gather client";
+var mnemonic = "recall social truck slice sunny arch must glide among subway version open";

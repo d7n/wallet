@@ -1,1 +1,1 @@
-var mnemonic = "rotate lyrics relax staff ride swing into mansion moon torch foot add";
+var mnemonic = "junior screen media issue twist carry puzzle teach above gather soldier essay";

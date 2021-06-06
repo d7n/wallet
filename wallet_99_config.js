@@ -1,1 +1,1 @@
-var mnemonic = "cigar wheel unaware alarm swamp sustain pulse priority wear arctic cheese alter";
+var mnemonic = "reopen orange hair since century chair trip wreck novel legal mule detect";

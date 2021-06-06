@@ -1,1 +1,1 @@
-var mnemonic = "can jazz gravity auto wear shell sketch devote acid club galaxy claim";
+var mnemonic = "giraffe glass library valley cruise zebra raven keep oak pelican escape bicycle";

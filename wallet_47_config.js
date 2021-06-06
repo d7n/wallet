@@ -1,1 +1,1 @@
-var mnemonic = "legal wisdom sing lend fringe afraid liberty toss lyrics outer disagree zero";
+var mnemonic = "regular public knife flash erode planet inspire panther tube cruise man cabbage";

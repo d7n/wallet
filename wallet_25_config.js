@@ -1,1 +1,1 @@
-var mnemonic = "web bread pioneer forward safe blade strike group liar gown car allow";
+var mnemonic = "shuffle tourist retreat victory gaze rifle unfair auction clap history sweet make";

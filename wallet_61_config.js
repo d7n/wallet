@@ -1,1 +1,1 @@
-var mnemonic = "divorce brother distance nurse diagram punch figure series feed mirror embrace below";
+var mnemonic = "super machine width crystal exotic army scrap size slab song example age";

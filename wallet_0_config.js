@@ -1,1 +1,1 @@
-var mnemonic = "elevator rival fit smooth virus fix breeze hedgehog melody fantasy tip cupboard";
+var mnemonic = "swarm walk clean mushroom alone tunnel disorder foot shock dignity fruit pink";

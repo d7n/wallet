@@ -1,1 +1,1 @@
-var mnemonic = "doll great time bright arm enrich blast legend memory guitar toy program";
+var mnemonic = "deposit embody vote wire security muscle final finish endorse abandon antenna baby";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy dance forward yellow typical twice gift believe praise dad surround rough";
+var mnemonic = "deliver coil sadness collect viable matter lens spirit slogan friend scorpion sadness";

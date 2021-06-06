@@ -1,1 +1,1 @@
-var mnemonic = "valid twist bike remain quit decline proud layer awake denial consider slight";
+var mnemonic = "tortoise brain conduct open lunar urge cluster sign code absurd sting equal";

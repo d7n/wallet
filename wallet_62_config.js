@@ -1,1 +1,1 @@
-var mnemonic = "another metal dinosaur nice fury great exchange health cry slam quantum corn";
+var mnemonic = "endless grit maze device mystery cute trust nerve occur way cage observe";

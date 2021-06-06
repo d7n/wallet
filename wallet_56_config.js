@@ -1,1 +1,1 @@
-var mnemonic = "economy write extend crumble patch turn suspect delay require curious apology refuse";
+var mnemonic = "image bundle real word alter flip fabric country monkey abandon expire half";

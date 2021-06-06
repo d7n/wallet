@@ -1,1 +1,1 @@
-var mnemonic = "curtain account joy annual that first key dream shaft rescue tape giraffe";
+var mnemonic = "amused swallow foam black siege casino buddy inform topic city creek gesture";

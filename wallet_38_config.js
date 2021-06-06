@@ -1,1 +1,1 @@
-var mnemonic = "head cattle kit until pull depth history rack truly imitate hunt weapon";
+var mnemonic = "ladder foster stumble swim solar inherit canal cousin earn truly chef reveal";

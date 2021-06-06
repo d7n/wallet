@@ -1,1 +1,1 @@
-var mnemonic = "again post clock assist scare cargo simple exile camp move enroll upon";
+var mnemonic = "heavy jump tornado tornado weapon double motion mimic cloud left can foil";

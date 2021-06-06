@@ -1,1 +1,1 @@
-var mnemonic = "aunt pudding fire arrow live foil race task prefer hotel atom permit";
+var mnemonic = "lion lyrics kingdom employ board sadness raise uniform sunset grass ancient offer";

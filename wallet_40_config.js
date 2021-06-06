@@ -1,1 +1,1 @@
-var mnemonic = "chaos ring visit sail response canvas ice region escape marble manual pond";
+var mnemonic = "manage illegal animal trial man cereal wear sand okay vanish dwarf weekend";

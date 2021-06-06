@@ -1,1 +1,1 @@
-var mnemonic = "dentist unfair depend hold else street burden try narrow crouch diet must";
+var mnemonic = "million actress clog basket assist rocket spin melody advice ugly total sketch";

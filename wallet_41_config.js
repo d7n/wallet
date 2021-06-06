@@ -1,1 +1,1 @@
-var mnemonic = "web fox extra leg buddy blouse slogan icon begin problem lift today";
+var mnemonic = "zoo else improve crowd energy destroy casino burger book title blossom south";

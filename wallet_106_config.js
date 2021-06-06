@@ -1,1 +1,1 @@
-var mnemonic = "goat shaft subject tonight code faculty sound plug cupboard captain dice exhaust";
+var mnemonic = "analyst comfort small armor hotel bubble hungry fade session thumb illegal warrior";

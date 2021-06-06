@@ -1,1 +1,1 @@
-var mnemonic = "story floor early resemble item sadness side desk horse bracket dose fish";
+var mnemonic = "chief expect benefit slide arrest blouse inject napkin plug draw gym ignore";

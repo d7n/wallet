@@ -1,1 +1,1 @@
-var mnemonic = "around example fuel hazard put deal term delay until road runway trigger";
+var mnemonic = "language lottery energy fiscal skull rotate pudding warfare dolphin couple tip hat";

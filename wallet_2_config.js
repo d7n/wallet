@@ -1,1 +1,1 @@
-var mnemonic = "search where depth diamond cause surprise daring marine spot pulp later wide";
+var mnemonic = "scissors lawn critic summer parade point rack spin cage amount fat flight";

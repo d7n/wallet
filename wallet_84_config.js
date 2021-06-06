@@ -1,1 +1,1 @@
-var mnemonic = "rare infant fix process ship fiscal square climb smooth buzz typical episode";
+var mnemonic = "rich picture salt mail brown market siren arrive cigar swim weird mammal";

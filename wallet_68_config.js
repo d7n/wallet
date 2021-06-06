@@ -1,1 +1,1 @@
-var mnemonic = "tool survey submit stem industry idle shove define drill caught once divorce";
+var mnemonic = "fish time unveil appear panic quiz define grape between spray above ignore";

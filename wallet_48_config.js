@@ -1,1 +1,1 @@
-var mnemonic = "evil cactus guard price creek castle pencil nephew wash obvious leave luggage";
+var mnemonic = "spatial soap fringe picture behind rate away tragic join brown veteran loyal";

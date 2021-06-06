@@ -1,1 +1,1 @@
-var mnemonic = "wasp fabric patch power find pig message obvious diamond choose door patch";
+var mnemonic = "winter two gain tide hour dust tennis comic like sure mask mango";

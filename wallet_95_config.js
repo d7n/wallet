@@ -1,1 +1,1 @@
-var mnemonic = "vehicle hammer piano bundle gadget regular general double antenna provide member rice";
+var mnemonic = "know real decide swift tower nurse increase hope trick cradle prize sun";

@@ -1,1 +1,1 @@
-var mnemonic = "thing fish involve kitten horror coast void cost slam cotton weapon trophy";
+var mnemonic = "estate bomb spare solid evolve refuse ignore gadget vibrant issue acquire find";

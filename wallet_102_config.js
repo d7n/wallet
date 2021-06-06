@@ -1,1 +1,1 @@
-var mnemonic = "garment order city all hint budget calm crater chunk earth ladder exchange";
+var mnemonic = "wet cook blush world swim assist next space apple drastic admit volume";

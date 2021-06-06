@@ -1,1 +1,1 @@
-var mnemonic = "horror cancel credit visa giant task gown address luggage bonus unit broom";
+var mnemonic = "detail hen joke vanish rice receive leisure force easy poet crack uphold";

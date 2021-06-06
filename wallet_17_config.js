@@ -1,1 +1,1 @@
-var mnemonic = "buyer tumble true spice ginger system denial outer spawn drink enjoy canal";
+var mnemonic = "candy shock awful tool funny enrich obey plug all enter wide movie";

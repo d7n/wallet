@@ -1,1 +1,1 @@
-var mnemonic = "flight february future patch become mango demand bird sponsor amount camp brave";
+var mnemonic = "object brush damp deny flight rebel define there chuckle bomb saddle alter";

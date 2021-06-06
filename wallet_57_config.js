@@ -1,1 +1,1 @@
-var mnemonic = "banner pencil scale reform weasel denial danger become visit plunge point method";
+var mnemonic = "frog movie weird pool enough mom artwork raccoon grant absent mutual intact";

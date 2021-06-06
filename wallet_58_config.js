@@ -1,1 +1,1 @@
-var mnemonic = "broom stock course almost glimpse rain release rice exclude merry hurdle bicycle";
+var mnemonic = "aerobic borrow fee clip shy august puzzle foot photo process inhale flat";

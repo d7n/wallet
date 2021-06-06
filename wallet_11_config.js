@@ -1,1 +1,1 @@
-var mnemonic = "motor food uncle odor fee shell kick giraffe slot regret matrix chief";
+var mnemonic = "wait trophy certain inherit piano wash cube sweet aunt seminar wheel crop";

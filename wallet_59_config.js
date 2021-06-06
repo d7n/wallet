@@ -1,1 +1,1 @@
-var mnemonic = "pair cancel used sustain eagle burger fever grid artwork prosper veteran glass";
+var mnemonic = "ripple miracle birth lazy scan cliff fiscal prison unhappy modify slender that";

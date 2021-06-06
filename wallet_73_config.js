@@ -1,1 +1,1 @@
-var mnemonic = "zoo penalty patient mountain slot shift into run next excite assist sort";
+var mnemonic = "term company kitchen chest ritual crystal library invest palm disorder banner laugh";

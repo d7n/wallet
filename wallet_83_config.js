@@ -1,1 +1,1 @@
-var mnemonic = "avocado chunk divide achieve pattern fold parent belt item pen apology enrich";
+var mnemonic = "keen simple island today connect sponsor depart material street enhance walnut express";

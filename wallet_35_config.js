@@ -1,1 +1,1 @@
-var mnemonic = "uncover manual hospital lottery help garbage scorpion lyrics library hurry have either";
+var mnemonic = "service visit hawk way eyebrow spring grace clutch travel gasp visa betray";

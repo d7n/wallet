@@ -1,1 +1,1 @@
-var mnemonic = "twenty subject infant long happy feel pole jungle piece client cliff erode";
+var mnemonic = "surprise frame census agree pass pyramid quiz crazy immune winner blush broken";

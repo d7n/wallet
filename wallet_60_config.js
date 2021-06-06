@@ -1,1 +1,1 @@
-var mnemonic = "depend exit motor faculty rule ivory ripple cancel hard original sure author";
+var mnemonic = "rate mother celery student daughter peanut enrich embody wedding glance city toast";

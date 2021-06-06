@@ -1,1 +1,1 @@
-var mnemonic = "crunch plunge summer thing second approve learn cage accuse lawsuit quote base";
+var mnemonic = "insect student tomorrow cattle survey wrap cricket source gallery renew slide erosion";

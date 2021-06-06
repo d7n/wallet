@@ -1,1 +1,1 @@
-var mnemonic = "girl tribe desk place chalk bottom weird novel copy kick lobster shell";
+var mnemonic = "muscle move pact diary innocent tonight vapor chair curious labor deer liberty";

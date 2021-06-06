@@ -1,1 +1,1 @@
-var mnemonic = "spoon viable west frozen gentle this scout uncle coil inside ill across";
+var mnemonic = "desert jar just mother damp prison shove weekend palace reason lock pair";

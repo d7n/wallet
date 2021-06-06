@@ -1,1 +1,1 @@
-var mnemonic = "slow rule degree inner shift faint almost private arrest skin crop mechanic";
+var mnemonic = "autumn wing trophy movie move okay lady protect cage crack moment camera";

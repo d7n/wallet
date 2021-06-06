@@ -1,1 +1,1 @@
-var mnemonic = "bid system never enlist region surge wear squeeze region alarm eager distance";
+var mnemonic = "vessel story wish jealous quiz fly mistake island vital bench caught lounge";

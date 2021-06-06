@@ -1,1 +1,1 @@
-var mnemonic = "acquire blush baby food wink caught make ginger half runway quiz denial";
+var mnemonic = "wet shuffle alien mix game shuffle candy retire moment pluck poem hard";

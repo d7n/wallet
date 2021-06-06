@@ -1,1 +1,1 @@
-var mnemonic = "brother gallery dinner great chief note twelve cross nephew firm panel fruit";
+var mnemonic = "occur client else vast profit insect october cloud one kit lobster lava";

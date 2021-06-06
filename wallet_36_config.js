@@ -1,1 +1,1 @@
-var mnemonic = "icon response twelve arm load marine drift body park blood lend please";
+var mnemonic = "park silk fish marble save scrap flame grief tackle witness oven nasty";

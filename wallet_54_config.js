@@ -1,1 +1,1 @@
-var mnemonic = "already inmate retreat vicious key entry vintage flame salad orphan bachelor ritual";
+var mnemonic = "excess violin dilemma harvest remind glove notable close puppy tornado base silk";

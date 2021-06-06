@@ -1,1 +1,1 @@
-var mnemonic = "husband apart robot detect fatigue pitch spare ghost vocal moon exact blue";
+var mnemonic = "empty throw soldier sell pond shop text eagle way face charge inflict";

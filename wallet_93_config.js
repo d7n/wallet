@@ -1,1 +1,1 @@
-var mnemonic = "reform crazy reduce fiber whale horror lottery select celery either oxygen off";
+var mnemonic = "sea behave divorce bachelor horse sausage diesel trend tattoo super damage snow";

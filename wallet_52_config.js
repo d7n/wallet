@@ -1,1 +1,1 @@
-var mnemonic = "pulse ripple catalog maid range achieve remain clarify sadness day marine elephant";
+var mnemonic = "title still inner quantum metal puppy owner void young marble dial fat";

@@ -1,1 +1,1 @@
-var mnemonic = "melt silent royal fly wrist crisp decorate ripple drastic distance surround combine";
+var mnemonic = "clap analyst poem crane furnace outside item enjoy skill test farm royal";

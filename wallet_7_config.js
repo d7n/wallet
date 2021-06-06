@@ -1,1 +1,1 @@
-var mnemonic = "science cable animal cup ocean demand indicate east blur gospel rescue toward";
+var mnemonic = "edit soccer exhibit add friend true quarter knife talent melt fault immune";

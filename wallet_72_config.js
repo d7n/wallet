@@ -1,1 +1,1 @@
-var mnemonic = "crumble arctic oak cave inject blade marriage cement embody crane where wedding";
+var mnemonic = "fortune melt crew rent firm gather august outdoor vivid ranch picnic pass";

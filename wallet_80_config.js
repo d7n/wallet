@@ -1,1 +1,1 @@
-var mnemonic = "carbon drum tiger gun offer winter company minor valid senior uncover current";
+var mnemonic = "scissors gesture fruit rival math castle aspect high knock solid sing orphan";

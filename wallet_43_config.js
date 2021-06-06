@@ -1,1 +1,1 @@
-var mnemonic = "series certain claw fly mercy uncle skate sponsor can boil stand better";
+var mnemonic = "still response share velvet auction fancy describe spoil they flavor chapter ribbon";

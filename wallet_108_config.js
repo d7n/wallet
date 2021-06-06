@@ -1,1 +1,1 @@
-var mnemonic = "arena any try regret luxury present hunt yard deliver oven tired stove";
+var mnemonic = "zero shoot scene panda extend half village monster pave glow purpose cinnamon";

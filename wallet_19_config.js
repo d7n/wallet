@@ -1,1 +1,1 @@
-var mnemonic = "ribbon buddy vivid pact patrol settle hard depart pottery vendor scout effort";
+var mnemonic = "shiver describe treat cattle vendor pencil quarter educate behind index foot gorilla";

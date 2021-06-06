@@ -1,1 +1,1 @@
-var mnemonic = "buyer detect catalog change then dust link course all laugh bracket token";
+var mnemonic = "athlete music rebuild access ball organ empty vehicle maid innocent used wide";

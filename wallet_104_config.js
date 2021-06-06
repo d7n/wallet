@@ -1,1 +1,1 @@
-var mnemonic = "spray wine galaxy resemble gift plate live churn muffin rival strong essay";
+var mnemonic = "chicken scene want business athlete hover mind badge canoe royal science any";

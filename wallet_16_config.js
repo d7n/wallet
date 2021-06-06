@@ -1,1 +1,1 @@
-var mnemonic = "buzz crazy video stick meat torch sense pave ticket stable fluid height";
+var mnemonic = "enter blood blind match record cycle foil spoon swallow brother frequent someone";
