@@ -1,1 +1,1 @@
-var mnemonic = "kiwi hood social common lab evolve toast era gain rude fire mansion";
+var mnemonic = "menu odor buddy blossom access kid cruise solid end arrest tragic brick";

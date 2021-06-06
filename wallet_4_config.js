@@ -1,1 +1,1 @@
-var mnemonic = "soup grace picnic crawl artist portion mail slim hidden praise service gown";
+var mnemonic = "matter salt kingdom man today cabbage parade vocal cloud warrior box process";

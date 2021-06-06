@@ -1,1 +1,1 @@
-var mnemonic = "retire glide cute turn pudding habit dial noodle bar poet turkey switch";
+var mnemonic = "december code victory say suffer today world opera joke student blame suit";

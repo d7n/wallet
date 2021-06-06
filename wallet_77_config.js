@@ -1,1 +1,1 @@
-var mnemonic = "coconut iron veteran rude satisfy alert begin enrich awesome improve choose breeze";
+var mnemonic = "angry task sentence sick soldier abandon supply only twist milk method wave";

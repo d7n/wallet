@@ -1,1 +1,1 @@
-var mnemonic = "office echo hazard juice train snap buddy indoor maximum mixed birth resemble";
+var mnemonic = "coil spike warm infant cattle nerve true ozone open riot cricket pistol";

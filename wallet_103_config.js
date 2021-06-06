@@ -1,1 +1,1 @@
-var mnemonic = "limb nothing dynamic ramp since slogan thrive hard leaf myth choice canoe";
+var mnemonic = "tilt junk become avoid height judge salon feature suit stairs drop split";

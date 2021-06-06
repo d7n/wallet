@@ -1,1 +1,1 @@
-var mnemonic = "bacon process extra sorry sustain soup random floor bus armor pencil gesture";
+var mnemonic = "credit bracket dolphin garbage sting biology bacon spirit trouble three sand neck";

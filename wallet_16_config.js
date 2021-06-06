@@ -1,1 +1,1 @@
-var mnemonic = "brief sample sick until section air ready depart member risk captain morning";
+var mnemonic = "cube pride jewel wood super attract view code series rabbit wolf check";

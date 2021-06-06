@@ -1,1 +1,1 @@
-var mnemonic = "bread breeze valley salon grid figure pill common orient stock memory food";
+var mnemonic = "rebel hero purpose force fix gain help false secret color garage result";

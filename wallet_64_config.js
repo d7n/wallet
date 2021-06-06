@@ -1,1 +1,1 @@
-var mnemonic = "wall rabbit tell village carbon intact inform pull guide dress shy hockey";
+var mnemonic = "curve caught moon buyer donate solution roof nice cloud leaf quiz gentle";

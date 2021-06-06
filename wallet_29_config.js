@@ -1,1 +1,1 @@
-var mnemonic = "math detail learn hole vivid vote okay omit lemon adapt exact barrel";
+var mnemonic = "glad dragon unit liar bamboo ship science tobacco sing forget time ahead";

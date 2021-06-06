@@ -1,1 +1,1 @@
-var mnemonic = "bottom point analyst mention century frog plunge coast second ball mail pottery";
+var mnemonic = "length thumb invite region hard frame advance muffin nephew base charge sunset";

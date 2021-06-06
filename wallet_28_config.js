@@ -1,1 +1,1 @@
-var mnemonic = "victory recall dad gold margin live brown jealous double animal clog bracket";
+var mnemonic = "cancel what swallow sense craft include dinner laptop upset write soap federal";

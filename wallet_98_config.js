@@ -1,1 +1,1 @@
-var mnemonic = "light buffalo clever primary chat palm special cluster pact section fade inflict";
+var mnemonic = "pride buyer south door glare lobster airport ketchup document claw door please";

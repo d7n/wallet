@@ -1,1 +1,1 @@
-var mnemonic = "duck bring cave inquiry organ quit between orphan fringe health blood double";
+var mnemonic = "craft seek mimic antenna tiny goose notice mouse satisfy royal tribe bulk";

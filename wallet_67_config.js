@@ -1,1 +1,1 @@
-var mnemonic = "assault debris exhaust tired diet apple swim boil one zebra frozen leopard";
+var mnemonic = "veteran brown mesh park mobile quantum air jeans soccer innocent success humble";

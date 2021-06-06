@@ -1,1 +1,1 @@
-var mnemonic = "stool dry bitter reject reward sign spirit arrow later twelve minimum layer";
+var mnemonic = "weird essence note offer load chaos way remember output mouse helmet physical";

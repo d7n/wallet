@@ -1,1 +1,1 @@
-var mnemonic = "piano rug glimpse account empty trim twelve evolve cable fork achieve silk";
+var mnemonic = "rice brisk fence toilet first neither save tattoo fury exhaust reason crouch";

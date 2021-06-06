@@ -1,1 +1,1 @@
-var mnemonic = "pill manual town mercy faith horror myth sniff acid nothing work bird";
+var mnemonic = "build two recycle labor sister dentist stove reveal fabric dose essay rough";

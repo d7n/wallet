@@ -1,1 +1,1 @@
-var mnemonic = "patch recall solution report narrow toddler disagree salute provide salon flash domain";
+var mnemonic = "culture aspect mammal plastic rigid crew pencil keen immense vital tomorrow high";

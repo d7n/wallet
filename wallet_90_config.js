@@ -1,1 +1,1 @@
-var mnemonic = "pulp left surprise cover chief humor property mobile cabbage body february what";
+var mnemonic = "position panic stem depend eyebrow half night bomb champion there approve manage";

@@ -1,1 +1,1 @@
-var mnemonic = "when agree pave state truly erase symbol define smile polar puppy domain";
+var mnemonic = "shell duty rabbit slogan siege neutral love meadow van deposit mystery pupil";

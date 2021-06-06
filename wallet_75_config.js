@@ -1,1 +1,1 @@
-var mnemonic = "time ready balance panic polar crouch shadow hollow host under avoid police";
+var mnemonic = "life mind then coyote push else response toe blanket walnut choice quick";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess town boy pupil before mule wealth resist assault sight observe output";
+var mnemonic = "strong entire dignity crop possible emotion metal book march rebel fine cruise";

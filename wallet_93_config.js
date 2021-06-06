@@ -1,1 +1,1 @@
-var mnemonic = "ski girl stock dust monitor rabbit thought cake amateur river lens modify";
+var mnemonic = "develop close coyote dream color usual arm practice cradle swing rather throw";

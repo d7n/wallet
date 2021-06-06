@@ -1,1 +1,1 @@
-var mnemonic = "derive vessel silent chair possible disagree shield trumpet rather call cage else";
+var mnemonic = "gate shed peasant avocado balance march swift episode apology crisp wrap magnet";

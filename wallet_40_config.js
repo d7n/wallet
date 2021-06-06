@@ -1,1 +1,1 @@
-var mnemonic = "gadget clip aisle best problem gadget kangaroo clog oxygen afford dry surprise";
+var mnemonic = "empty base destroy drink just glass beef fence home normal giant extra";

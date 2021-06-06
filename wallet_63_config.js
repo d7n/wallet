@@ -1,1 +1,1 @@
-var mnemonic = "above hedgehog stamp multiply rotate best today pipe sleep glory bag joke";
+var mnemonic = "certain olympic raven almost submit sunset survey lawn receive buffalo gap notable";

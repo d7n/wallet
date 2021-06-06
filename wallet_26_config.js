@@ -1,1 +1,1 @@
-var mnemonic = "iron okay scale later basic police edit dragon donkey grant genius chair";
+var mnemonic = "typical bachelor vault ask addict pig kick renew juice fetch east opera";

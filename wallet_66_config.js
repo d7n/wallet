@@ -1,1 +1,1 @@
-var mnemonic = "bamboo cluster practice neither buffalo right renew regular remind fever scout disagree";
+var mnemonic = "anxiety include sad cabin east talk notice stay bright capable shove beach";

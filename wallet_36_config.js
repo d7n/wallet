@@ -1,1 +1,1 @@
-var mnemonic = "answer gorilla young history air hospital edge rent man shiver flight come";
+var mnemonic = "inhale camera hamster grab three twin toward habit ivory armor token wage";

@@ -1,1 +1,1 @@
-var mnemonic = "crater space swap duck spoil output behind turn wall fox pizza dismiss";
+var mnemonic = "orbit cloth library audit salmon wait skin explain kick hip hollow gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "merge shield income pink flock march shiver enemy devote short pipe awkward";
+var mnemonic = "away quiz lion climb rubber syrup blind quantum regret crew illness hour";

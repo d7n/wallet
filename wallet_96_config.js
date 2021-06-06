@@ -1,1 +1,1 @@
-var mnemonic = "myth neglect uniform shed flip holiday clump sentence stereo isolate strong section";
+var mnemonic = "rotate wink pottery mutual plunge hobby theme output talk cruel drama remain";

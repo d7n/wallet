@@ -1,1 +1,1 @@
-var mnemonic = "size dish blur network business entry hello pistol always angle mystery trash";
+var mnemonic = "quarter describe mimic always clarify rather umbrella force duck news roof initial";

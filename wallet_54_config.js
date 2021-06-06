@@ -1,1 +1,1 @@
-var mnemonic = "dwarf spoon organ suit opera two original bargain arm pyramid engage anxiety";
+var mnemonic = "gate plunge famous feature lady decorate glimpse heart close target across echo";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior shell sea salon welcome garment estate differ bridge legal license canoe";
+var mnemonic = "dish share wrestle horse bronze panda gold push run skull enjoy curious";

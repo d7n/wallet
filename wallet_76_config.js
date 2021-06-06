@@ -1,1 +1,1 @@
-var mnemonic = "heart spider fee mail leopard auto action fuel castle jaguar rabbit walnut";
+var mnemonic = "shine crazy race ability crystal robust gloom wire eyebrow pattern among disorder";

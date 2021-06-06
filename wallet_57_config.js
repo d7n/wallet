@@ -1,1 +1,1 @@
-var mnemonic = "matrix right betray birth belt balance huge spend luxury laugh promote climb";
+var mnemonic = "okay nuclear trust near forest butter perfect survey special fiber dumb wreck";

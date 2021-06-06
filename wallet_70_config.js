@@ -1,1 +1,1 @@
-var mnemonic = "song bargain swallow gallery soon ugly culture because peace crime parade nation";
+var mnemonic = "hint water angry flat cherry report parent buyer pledge account early motion";

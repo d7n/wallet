@@ -1,1 +1,1 @@
-var mnemonic = "code outside submit rigid arrest gesture thrive final lyrics measure height east";
+var mnemonic = "cube frown pupil else chronic address orange clinic april napkin believe space";

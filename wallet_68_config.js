@@ -1,1 +1,1 @@
-var mnemonic = "bracket giant wrong card flip path search ocean lyrics middle gym also";
+var mnemonic = "ask polar original wheat hand stick bulb rug shed knife corn decline";

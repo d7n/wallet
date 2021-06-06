@@ -1,1 +1,1 @@
-var mnemonic = "where guitar disagree mother struggle casual loop table scorpion demand tag blanket";
+var mnemonic = "argue legal thunder palace smooth dumb harbor twist round tenant custom civil";

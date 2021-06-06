@@ -1,1 +1,1 @@
-var mnemonic = "buyer apart identify wagon romance cluster broom sausage fold slide heavy winter";
+var mnemonic = "injury calm scatter aspect sign carbon keen jewel mushroom nut cargo noise";

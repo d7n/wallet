@@ -1,1 +1,1 @@
-var mnemonic = "sweet humble west trial wage post observe science movie famous mesh congress";
+var mnemonic = "achieve rely puppy ketchup candy typical fragile spring that rapid cricket million";

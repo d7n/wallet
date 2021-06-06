@@ -1,1 +1,1 @@
-var mnemonic = "aware account legend brown hole correct original dish leg tongue noble absorb";
+var mnemonic = "pond price pink exercise catalog try enable leisure cover click segment warm";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp raccoon urban gym holiday pair parade square mention company damp coil";
+var mnemonic = "fee act physical course skill flip abandon convince lonely island diamond plug";

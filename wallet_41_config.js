@@ -1,1 +1,1 @@
-var mnemonic = "wish sight useful broken gesture crumble cave kitchen type magnet deal churn";
+var mnemonic = "soda twelve evolve struggle wait creek ecology squeeze fatal twice upset canal";

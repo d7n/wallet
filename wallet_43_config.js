@@ -1,1 +1,1 @@
-var mnemonic = "life alien snack engine push strategy cake noble gap hip tuna bulb";
+var mnemonic = "near genre region bring innocent final account salt taste repeat call sport";

@@ -1,1 +1,1 @@
-var mnemonic = "latin pattern risk kangaroo bamboo episode wisdom garment work input civil because";
+var mnemonic = "boy photo time tourist input nest donor decline skill uphold duty flight";

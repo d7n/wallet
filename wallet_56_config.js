@@ -1,1 +1,1 @@
-var mnemonic = "bonus biology ocean ordinary scene lady turkey session nephew alien direct humble";
+var mnemonic = "cradle dog chaos chimney brisk bamboo genre twice light utility invite predict";

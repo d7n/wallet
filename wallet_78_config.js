@@ -1,1 +1,1 @@
-var mnemonic = "echo month disagree december mix journey goddess among lonely another coast worry";
+var mnemonic = "success black process raw various urban anger best innocent lunch palace recycle";

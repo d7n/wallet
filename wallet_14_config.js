@@ -1,1 +1,1 @@
-var mnemonic = "strategy among agree crowd chapter give trip love sunset net thought twice";
+var mnemonic = "blossom whisper olympic brain bullet voyage rough easy hub blind diagram half";

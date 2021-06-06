@@ -1,1 +1,1 @@
-var mnemonic = "width slim matrix multiply beyond evoke carry rebuild mystery fringe near unknown";
+var mnemonic = "confirm effort pear anger waste electric middle indoor permit upset scatter wrong";

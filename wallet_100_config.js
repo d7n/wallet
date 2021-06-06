@@ -1,1 +1,1 @@
-var mnemonic = "dragon bracket identify possible grow trend crazy style plastic quarter obey wet";
+var mnemonic = "domain mesh utility sunset salad speed arm early ship frog blouse squirrel";

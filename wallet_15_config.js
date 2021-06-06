@@ -1,1 +1,1 @@
-var mnemonic = "dish couch chair soul purpose hawk cloth dose strike mosquito impact path";
+var mnemonic = "turn change essence shoot group recall anxiety behind reveal pulse extra rate";

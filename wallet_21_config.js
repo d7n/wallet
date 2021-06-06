@@ -1,1 +1,1 @@
-var mnemonic = "cat faith damp want canoe program choose talk zero wisdom vast gym";
+var mnemonic = "theory arch maximum divorce party exchange buyer cage cruel zoo cactus expand";

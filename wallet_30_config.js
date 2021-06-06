@@ -1,1 +1,1 @@
-var mnemonic = "frequent enable puzzle purse detect club gather party clip original satoshi retire";
+var mnemonic = "unfold misery fortune kite camp able rate celery already lucky patch fringe";

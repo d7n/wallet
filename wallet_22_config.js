@@ -1,1 +1,1 @@
-var mnemonic = "time stuff purchase habit fire rubber leader ridge crater move remind fitness";
+var mnemonic = "news sock inspire chuckle lottery dentist fruit deal ethics album chaos narrow";

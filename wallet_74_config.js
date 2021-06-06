@@ -1,1 +1,1 @@
-var mnemonic = "over oblige trade stairs quality relief one glove vintage heavy tape walk";
+var mnemonic = "guard mesh fence ball decline sketch mirror quick business win move cube";

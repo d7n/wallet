@@ -1,1 +1,1 @@
-var mnemonic = "reunion again virtual title donkey blur bronze marriage tiny gauge pumpkin blanket";
+var mnemonic = "insane sausage manage page want machine rebel approve essence cram enforce secret";

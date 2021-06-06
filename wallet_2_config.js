@@ -1,1 +1,1 @@
-var mnemonic = "brick invest memory review basic will inflict drop tray mass scatter occur";
+var mnemonic = "suffer satoshi lend prefer answer fossil drum pattern fragile analyst into chunk";

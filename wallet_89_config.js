@@ -1,1 +1,1 @@
-var mnemonic = "pretty impact typical write foil sort erase mirror effort desert picture plastic";
+var mnemonic = "chimney hood walk belt furnace age video horn twelve diary humble fiscal";

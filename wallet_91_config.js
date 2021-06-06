@@ -1,1 +1,1 @@
-var mnemonic = "medal crawl torch basket swift resource swing seven benefit sausage tooth tunnel";
+var mnemonic = "bleak chalk turkey steak bus tuition weasel current credit camp protect recycle";

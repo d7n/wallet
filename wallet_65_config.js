@@ -1,1 +1,1 @@
-var mnemonic = "convince meadow hockey quality reject oyster result blue thank wear rotate sword";
+var mnemonic = "hundred notice worth reject sport liquid pyramid drift vacant economy swing fatigue";

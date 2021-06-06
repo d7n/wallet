@@ -1,1 +1,1 @@
-var mnemonic = "recycle lyrics estate knife page glance fit raw invest inherit jaguar alcohol";
+var mnemonic = "relief monitor fuel fruit clip adult dance museum eye rigid saddle gasp";

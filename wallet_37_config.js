@@ -1,1 +1,1 @@
-var mnemonic = "oppose resource car uncle treat come cinnamon run biology heavy corn nurse";
+var mnemonic = "journey depend vessel believe marine promote birth plug enter mother orbit two";

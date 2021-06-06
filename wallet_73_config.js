@@ -1,1 +1,1 @@
-var mnemonic = "piece pill kick suspect soup burden salad inherit alley badge teach cable";
+var mnemonic = "aunt bachelor heavy earth jacket pen gospel deposit yard jacket rifle family";

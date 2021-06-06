@@ -1,1 +1,1 @@
-var mnemonic = "uncover olympic motor dismiss actor planet elephant menu jeans hybrid anger report";
+var mnemonic = "letter luggage canyon opinion style powder guitar pledge carry brisk scrub raw";

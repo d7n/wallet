@@ -1,1 +1,1 @@
-var mnemonic = "hand soldier include robot praise attract spend scene harbor enter flee suspect";
+var mnemonic = "absent scene develop mind burger appear edge win doctor job rib cloth";

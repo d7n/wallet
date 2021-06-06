@@ -1,1 +1,1 @@
-var mnemonic = "lawn gloom crazy tube girl desk know end advance cute shoot bus";
+var mnemonic = "scissors release smoke street wine fix melt token tiger rain chief acid";

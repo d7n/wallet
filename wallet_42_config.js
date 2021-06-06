@@ -1,1 +1,1 @@
-var mnemonic = "certain human obtain grit core message electric resemble wrong donate stone drastic";
+var mnemonic = "plastic rocket swing spot brisk organ adapt glare fringe actress gun story";

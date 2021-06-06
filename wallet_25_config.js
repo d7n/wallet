@@ -1,1 +1,1 @@
-var mnemonic = "champion age frog supreme chest fringe museum bounce actress business speed task";
+var mnemonic = "wheat tree fee waste tail spend police suggest head dinosaur game visa";

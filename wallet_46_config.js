@@ -1,1 +1,1 @@
-var mnemonic = "push wide cat subway afford educate project twist farm sample motor grow";
+var mnemonic = "furnace muscle laugh decorate leisure slender kite badge remind trick cry ice";

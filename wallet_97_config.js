@@ -1,1 +1,1 @@
-var mnemonic = "left slab middle paddle solid exotic analyst battle agent achieve success amazing";
+var mnemonic = "depend jaguar ignore friend alter vivid suffer anger program gossip trend nation";

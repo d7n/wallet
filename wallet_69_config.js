@@ -1,1 +1,1 @@
-var mnemonic = "sword foster test chest tape suspect file mad myth hand armor drum";
+var mnemonic = "police prefer report another twist wild era radio quarter disease save admit";

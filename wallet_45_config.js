@@ -1,1 +1,1 @@
-var mnemonic = "bright train novel physical sleep wish scrub mimic hope proof session bright";
+var mnemonic = "script faith blame agent elevator alien slender crack domain grain upgrade knock";

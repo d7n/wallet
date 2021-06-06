@@ -1,1 +1,1 @@
-var mnemonic = "sunny wise cute father horse virus cereal solid army medal destroy wink";
+var mnemonic = "burden aim coral symptom party quick manage anger multiply anger can auto";

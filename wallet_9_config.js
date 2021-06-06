@@ -1,1 +1,1 @@
-var mnemonic = "radar dust strategy garden street refuse despair around orange property impose century";
+var mnemonic = "dog undo aspect drink atom today famous life abuse chest blur wage";

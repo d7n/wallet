@@ -1,1 +1,1 @@
-var mnemonic = "reject eternal depth tomato box audit notable aisle okay chalk bomb cheap";
+var mnemonic = "mandate creek fitness often narrow certain actual gold sea clutch leaf spin";

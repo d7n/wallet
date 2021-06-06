@@ -1,1 +1,1 @@
-var mnemonic = "gallery able sugar appear digital dawn more soon couch myth sausage expand";
+var mnemonic = "erase cake zoo mesh much sketch friend paper obscure enlist inch flight";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty bless segment rule myself creek elite zoo science vapor collect foam";
+var mnemonic = "icon dog february already tired must like green sing dish sell sphere";

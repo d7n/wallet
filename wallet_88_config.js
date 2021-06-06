@@ -1,1 +1,1 @@
-var mnemonic = "settle toddler gaze lounge furnace dune poverty step match cake response mad";
+var mnemonic = "host correct village suffer syrup critic myself cube actress outer traffic private";

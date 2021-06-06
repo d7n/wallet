@@ -1,1 +1,1 @@
-var mnemonic = "athlete oval arrow album finger green viable kingdom anger soda shadow acquire";
+var mnemonic = "chest ceiling design icon swallow error focus cheap record actor midnight eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap cart book burden resist airport stool twelve close danger win lion";
+var mnemonic = "light you clay element kiwi faint jazz exact setup addict hand sell";

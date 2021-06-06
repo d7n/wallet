@@ -1,1 +1,1 @@
-var mnemonic = "keep tool popular consider casino rhythm coyote prefer size afraid cave now";
+var mnemonic = "shoulder lobster layer obvious expand crop hello oppose liquid mobile fiber donor";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd cricket upon birth term parent mosquito erosion blouse regret wrestle twin";
+var mnemonic = "illegal unfair hunt thought express timber thought heavy way cricket unhappy rally";

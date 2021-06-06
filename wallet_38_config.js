@@ -1,1 +1,1 @@
-var mnemonic = "real cute young outdoor profit blush quality egg best this shrimp make";
+var mnemonic = "flower again when panel wave thunder assume wood ring vivid ginger snack";

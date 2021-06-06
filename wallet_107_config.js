@@ -1,1 +1,1 @@
-var mnemonic = "price ice top twin family speed found lion museum melt helmet stool";
+var mnemonic = "crucial wash hero forum predict half adapt heavy rule speak reason artefact";
