@@ -1,1 +1,1 @@
-var mnemonic = "cigar chuckle judge neglect elevator enough pitch surface pig screen split dune";
+var mnemonic = "replace hip joke visit virus fade meat open shrimp brand endorse ceiling";

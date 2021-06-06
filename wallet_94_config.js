@@ -1,1 +1,1 @@
-var mnemonic = "gas exhaust they cement physical attract resemble promote finger oxygen plunge avocado";
+var mnemonic = "arrive neither country timber runway depth copper ask inside tobacco target manual";

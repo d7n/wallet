@@ -1,1 +1,1 @@
-var mnemonic = "enemy weapon catalog slush ticket invite solve priority pupil lobster noble picture";
+var mnemonic = "treat cover blade able live hidden warrior outside oven skull away stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella follow execute catalog actor cliff parade vault occur wedding body clog";
+var mnemonic = "tide dirt luxury loop offer avocado lazy hamster license setup demand sick";

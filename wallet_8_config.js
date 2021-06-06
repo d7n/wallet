@@ -1,1 +1,1 @@
-var mnemonic = "tattoo junior bench husband annual eager super possible medal pass scissors sign";
+var mnemonic = "edit roof fish romance glare series jar crime normal ahead practice bag";

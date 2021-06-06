@@ -1,1 +1,1 @@
-var mnemonic = "bachelor edge bar update buyer width path piece body price love cage";
+var mnemonic = "wolf plate pond effort friend orient meat please cricket void carbon review";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate have crash begin valley float true main symbol taxi pond pizza";
+var mnemonic = "impact patrol donate coral vicious grit useful together barely relief head notice";

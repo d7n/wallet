@@ -1,1 +1,1 @@
-var mnemonic = "course chair fine frost stuff warfare nothing increase sun trouble steak raise";
+var mnemonic = "memory shuffle joy music alone today height gasp march clog elbow exhibit";

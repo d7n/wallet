@@ -1,1 +1,1 @@
-var mnemonic = "scatter project ripple emerge giggle year sadness gas amazing now narrow reason";
+var mnemonic = "dolphin road vessel discover buddy soda surface exact aspect large ignore elbow";

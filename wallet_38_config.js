@@ -1,1 +1,1 @@
-var mnemonic = "flag mail width ostrich defy genuine syrup nothing memory point damp latin";
+var mnemonic = "club token draft opera name kid jar absurd knife observe marriage believe";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition jacket tool balance reject price miss athlete mobile glove craft victory";
+var mnemonic = "drink monitor else adjust upon mandate rice foil badge coconut inch close";

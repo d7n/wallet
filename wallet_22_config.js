@@ -1,1 +1,1 @@
-var mnemonic = "void castle panda trend post total dash marine cradle proof endless adjust";
+var mnemonic = "negative bottom arrow combine arrange return oak box good surprise pony promote";

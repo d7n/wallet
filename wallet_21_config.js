@@ -1,1 +1,1 @@
-var mnemonic = "need anger upset throw position sock job tumble hurry parent person impose";
+var mnemonic = "you giraffe naive opera expose lunar uncover roast vacant update drift magic";

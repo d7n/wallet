@@ -1,1 +1,1 @@
-var mnemonic = "bullet grass major shuffle open wheat elevator split raven invite teach bronze";
+var mnemonic = "dream adult erosion exchange cram rigid forest earn whisper accuse umbrella fuel";

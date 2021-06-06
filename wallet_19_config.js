@@ -1,1 +1,1 @@
-var mnemonic = "ship guess believe fringe sort mutual record jaguar public system blind party";
+var mnemonic = "become social sunset amateur blossom sunny giggle hub six popular today age";

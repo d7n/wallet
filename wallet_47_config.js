@@ -1,1 +1,1 @@
-var mnemonic = "bottom album trouble tunnel creek awful cricket edit erosion bamboo joy horn";
+var mnemonic = "net depart kingdom buffalo comfort kidney noise snow galaxy want attack kitchen";

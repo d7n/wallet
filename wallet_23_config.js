@@ -1,1 +1,1 @@
-var mnemonic = "airport attitude expect filter almost rookie budget buddy loyal guess chapter fame";
+var mnemonic = "right hold tonight polar know wing meadow buzz cotton salad sport demand";

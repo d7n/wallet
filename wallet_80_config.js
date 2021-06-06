@@ -1,1 +1,1 @@
-var mnemonic = "hammer brave barely curious assault lemon half subject option staff talk fortune";
+var mnemonic = "weapon style chief wet control pudding device bleak boat message churn peasant";

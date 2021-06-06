@@ -1,1 +1,1 @@
-var mnemonic = "keep spoon use fold width card orchard dice flock grant shove faint";
+var mnemonic = "aware dumb bone seven miracle seat time flame swift enter ensure breeze";

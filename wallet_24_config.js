@@ -1,1 +1,1 @@
-var mnemonic = "pen recipe coconut pitch area speed utility release cloth noodle gauge online";
+var mnemonic = "tongue grain firm mother danger toss wrist more innocent best section swap";

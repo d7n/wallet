@@ -1,1 +1,1 @@
-var mnemonic = "trick agent stereo lottery bubble goose tent list style tone deal forum";
+var mnemonic = "present organ area bike chronic weather focus call trap autumn slender photo";

@@ -1,1 +1,1 @@
-var mnemonic = "fault tent evidence beyond garage nurse vessel fan web economy cake very";
+var mnemonic = "lemon obscure boost icon drive symptom machine rose dish tooth crush edit";

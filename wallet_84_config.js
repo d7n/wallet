@@ -1,1 +1,1 @@
-var mnemonic = "prefer steak annual elite brass dish knee clay decide guess buzz capital";
+var mnemonic = "practice siren awful across mistake hundred staff useful ticket amazing bid ozone";

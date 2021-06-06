@@ -1,1 +1,1 @@
-var mnemonic = "census fiber palm ice play candy beef silent north kidney clay blame";
+var mnemonic = "rack record envelope boil drill grocery mesh glide retire canvas market burden";

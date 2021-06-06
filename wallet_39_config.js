@@ -1,1 +1,1 @@
-var mnemonic = "win opera ramp sorry eight wonder there anxiety hundred pair goose kid";
+var mnemonic = "truly zoo target ripple cotton term horror hedgehog easy badge ghost tornado";

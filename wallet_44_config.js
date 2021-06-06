@@ -1,1 +1,1 @@
-var mnemonic = "problem ancient chase oil library man genuine smooth sphere toe dream tomato";
+var mnemonic = "birth damp leaf century price guilt employ crucial slow defy novel tent";

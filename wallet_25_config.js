@@ -1,1 +1,1 @@
-var mnemonic = "evolve mind amused female diary panda spare demand hold south maid play";
+var mnemonic = "invest alarm ivory trade virtual enroll ill magnet chicken express please world";

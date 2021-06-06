@@ -1,1 +1,1 @@
-var mnemonic = "year guitar tooth panic bargain tuna nephew gadget speak raven sort inherit";
+var mnemonic = "scrap dove season answer same zero air hour rough diamond alien step";

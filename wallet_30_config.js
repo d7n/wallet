@@ -1,1 +1,1 @@
-var mnemonic = "lizard okay proof spider toy inflict noble spirit repair deny raven mad";
+var mnemonic = "resemble topple bounce stumble carbon empower page inner gorilla decade hour swap";

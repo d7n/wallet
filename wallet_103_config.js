@@ -1,1 +1,1 @@
-var mnemonic = "outside human vendor test route immune narrow recipe awake pumpkin reform happy";
+var mnemonic = "latin burst fever drastic solve burden wait menu good please riot wire";

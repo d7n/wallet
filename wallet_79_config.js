@@ -1,1 +1,1 @@
-var mnemonic = "address upgrade surface boy popular magnet prefer where relief gloom behave craft";
+var mnemonic = "input recall coconut exhaust negative cushion meadow obvious someone subway method talent";

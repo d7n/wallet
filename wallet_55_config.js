@@ -1,1 +1,1 @@
-var mnemonic = "eye fiscal gather submit sing excess away coral vanish time leave awful";
+var mnemonic = "state raven setup face output sea erosion disorder age bulb truth fancy";

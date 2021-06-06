@@ -1,1 +1,1 @@
-var mnemonic = "similar pear slogan gossip section across retreat coast sock response transfer basket";
+var mnemonic = "tongue heart elegant phrase vote buzz trouble van flower catch leave have";

@@ -1,1 +1,1 @@
-var mnemonic = "gown artist interest need island peasant pilot piano grace oak tribe slab";
+var mnemonic = "coach tooth escape height garment pistol exclude ridge mountain limit case wedding";

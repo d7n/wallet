@@ -1,1 +1,1 @@
-var mnemonic = "mother earn party soft carbon blouse whisper seminar final heart day green";
+var mnemonic = "just list aim spawn stadium spoon cup general weasel lift desk payment";

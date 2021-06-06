@@ -1,1 +1,1 @@
-var mnemonic = "silent region crowd delay divorce master monster spy own funny deliver young";
+var mnemonic = "clean image approve practice rural absent play nothing expire oblige town walnut";

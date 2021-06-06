@@ -1,1 +1,1 @@
-var mnemonic = "hungry filter party laundry antique armed noise orbit tray better jeans goddess";
+var mnemonic = "device inject inch chase color alert inhale melody scheme turtle another mechanic";

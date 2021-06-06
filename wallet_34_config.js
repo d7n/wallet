@@ -1,1 +1,1 @@
-var mnemonic = "aerobic other crater mandate equip flip among civil luxury excite muscle cook";
+var mnemonic = "staff dance rebuild process guess spirit evoke menu stem forum manage hurdle";

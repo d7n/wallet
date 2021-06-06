@@ -1,1 +1,1 @@
-var mnemonic = "benefit provide taste game abandon able attend regular marine captain brisk cruel";
+var mnemonic = "fan area liquid hair jar must north off valley ticket kiss section";

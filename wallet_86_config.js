@@ -1,1 +1,1 @@
-var mnemonic = "chair canoe pupil doctor enhance syrup amused vintage noble reveal spoon relax";
+var mnemonic = "search harbor dash zone undo skate traffic century giraffe awful game invite";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter flight shell miracle protect devote infant youth reason fly expect wire";
+var mnemonic = "sister total friend ivory dress quarter plastic champion advice expand tunnel modify";

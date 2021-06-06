@@ -1,1 +1,1 @@
-var mnemonic = "decline balance common material length half spray tissue velvet text sponsor cost";
+var mnemonic = "ignore museum dirt curtain wolf indoor desert steel baby that split angle";

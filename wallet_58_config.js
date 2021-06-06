@@ -1,1 +1,1 @@
-var mnemonic = "rough jaguar lyrics rabbit side stone license add push later impose clever";
+var mnemonic = "globe card rookie entry legal clown doll orange prosper tool spy voice";

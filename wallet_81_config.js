@@ -1,1 +1,1 @@
-var mnemonic = "normal crime bubble click any cook soul field smoke forest shoot identify";
+var mnemonic = "believe burger catch poet balcony early appear wage chat duty message goat";

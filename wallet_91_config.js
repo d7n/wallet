@@ -1,1 +1,1 @@
-var mnemonic = "sting burger twist vibrant diesel stumble case avoid arrive exact clap select";
+var mnemonic = "version stomach bus empower shaft number father ketchup walnut victory power similar";

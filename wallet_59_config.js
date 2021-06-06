@@ -1,1 +1,1 @@
-var mnemonic = "vapor picnic office cliff garden aim rose square must exact hub creek";
+var mnemonic = "rough jump coconut alien wheel huge diary depth ramp donate ahead fatigue";

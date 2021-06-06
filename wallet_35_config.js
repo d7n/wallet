@@ -1,1 +1,1 @@
-var mnemonic = "club circle october sponsor rather service section priority inch indoor diet robust";
+var mnemonic = "flight assume sword bleak wage nominee vocal scout limit expire input mystery";

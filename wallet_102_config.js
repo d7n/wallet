@@ -1,1 +1,1 @@
-var mnemonic = "test submit rain liar lion harsh coral shuffle alert hedgehog own coast";
+var mnemonic = "stem margin banana song nurse expect income enemy change mean seven benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "swap name badge twelve bus grab dose hole core drum brave fabric";
+var mnemonic = "expand pact goat defy insect mirror need again nothing dog resource fault";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil sorry marine bicycle barrel soon museum weekend puzzle click report basket";
+var mnemonic = "issue vanish age usual rebel wrist volume effort gain upgrade economy tilt";

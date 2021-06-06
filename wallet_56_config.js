@@ -1,1 +1,1 @@
-var mnemonic = "page nuclear quit lift dust before wrestle couch east tower spin burden";
+var mnemonic = "paper jeans birth sun forest assault melt matter satoshi timber borrow state";

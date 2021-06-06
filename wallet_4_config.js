@@ -1,1 +1,1 @@
-var mnemonic = "tube brown license flower paddle february book father kiss ribbon direct fine";
+var mnemonic = "connect goat miss try pride bamboo wasp broccoli answer album client hand";

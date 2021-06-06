@@ -1,1 +1,1 @@
-var mnemonic = "board keen rough hard appear bar sorry exile sample earn company decorate";
+var mnemonic = "tide fatigue garden pony tag pass rival other permit assist private endorse";

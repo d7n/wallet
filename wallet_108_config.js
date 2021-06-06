@@ -1,1 +1,1 @@
-var mnemonic = "burger grace test polar allow elegant guide shed carpet source slam neck";
+var mnemonic = "typical barrel rule burger daughter debris actual door original vendor service business";

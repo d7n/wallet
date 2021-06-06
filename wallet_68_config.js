@@ -1,1 +1,1 @@
-var mnemonic = "offer curious also elegant enrich destroy ozone day vendor web offer dumb";
+var mnemonic = "erode lend stock father lava addict awkward faith explain solar pet old";

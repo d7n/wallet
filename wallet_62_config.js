@@ -1,1 +1,1 @@
-var mnemonic = "cross observe hazard message lecture virus concert use barrel wall where head";
+var mnemonic = "quit industry auction segment soon display manual wagon join flavor wild detect";

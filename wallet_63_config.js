@@ -1,1 +1,1 @@
-var mnemonic = "embody pet sound assist gate legend crane unaware dream two derive soap";
+var mnemonic = "lock tiny atom turkey desk success profit possible jump armed project will";

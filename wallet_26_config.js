@@ -1,1 +1,1 @@
-var mnemonic = "canal leave green grocery final hidden tape razor one hen expand nut";
+var mnemonic = "wing acquire release base soda audit wide disease unlock iron patient neither";

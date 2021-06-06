@@ -1,1 +1,1 @@
-var mnemonic = "abuse equip question inside toddler whip list can banner gospel sniff pact";
+var mnemonic = "grace dad beyond bamboo gloom enough end okay weapon nominee pulp creek";

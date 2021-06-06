@@ -1,1 +1,1 @@
-var mnemonic = "rebuild alien fold parent custom response rent someone special dust roast retreat";
+var mnemonic = "open tribe minute maid trade crack absorb confirm vital mesh honey sample";

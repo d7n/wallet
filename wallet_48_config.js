@@ -1,1 +1,1 @@
-var mnemonic = "escape track chalk start kiwi language become corn arrest learn clip slogan";
+var mnemonic = "there ride biology clean recall demand timber emerge film brain egg pulp";

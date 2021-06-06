@@ -1,1 +1,1 @@
-var mnemonic = "multiply essay inch skull laptop amount lucky simple novel trim pelican wedding";
+var mnemonic = "frozen inmate engine chaos again charge best neither such crop provide clarify";

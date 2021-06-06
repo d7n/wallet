@@ -1,1 +1,1 @@
-var mnemonic = "metal brown major cable opera venue eight manual glove olive riot tribe";
+var mnemonic = "trophy possible dizzy wisdom woman flavor weekend erode ladder decrease script play";

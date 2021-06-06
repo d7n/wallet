@@ -1,1 +1,1 @@
-var mnemonic = "rather century such inflict harbor poet betray retire excuse moment trial math";
+var mnemonic = "ranch diagram phrase found execute stay know puzzle giraffe pink miracle enjoy";

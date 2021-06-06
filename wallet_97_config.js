@@ -1,1 +1,1 @@
-var mnemonic = "gate because stomach cereal thing bulk picture evoke soon arctic animal enforce";
+var mnemonic = "hedgehog wrist place relief casual involve bone inside kingdom mercy push deal";

@@ -1,1 +1,1 @@
-var mnemonic = "surge figure cotton acid oppose usage charge size always moon urban amazing";
+var mnemonic = "click spell apology chef minute young sail first thought reunion toddler decide";

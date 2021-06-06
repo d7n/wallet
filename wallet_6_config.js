@@ -1,1 +1,1 @@
-var mnemonic = "sheriff evil credit other merge shrug elbow alley genre goddess squirrel sleep";
+var mnemonic = "vehicle debris wisdom width permit depart sausage embrace art spring earn arena";

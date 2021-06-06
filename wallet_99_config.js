@@ -1,1 +1,1 @@
-var mnemonic = "axis sport limb scissors spider human stone candy tower robust anxiety occur";
+var mnemonic = "injury range hint person street fatigue hat index twelve cover soda banner";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis never chair stable when monkey rate plunge brown health bulk vault";
+var mnemonic = "brisk ice remember nothing budget bridge mix flip text mother fold decrease";

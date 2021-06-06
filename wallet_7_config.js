@@ -1,1 +1,1 @@
-var mnemonic = "sorry figure crunch onion sphere when elbow kit work inherit topple inmate";
+var mnemonic = "distance execute clock avoid frown hobby better hedgehog humble ahead custom globe";

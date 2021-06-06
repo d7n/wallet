@@ -1,1 +1,1 @@
-var mnemonic = "defense spy bike trophy notable silk stadium buffalo spell gallery comfort foster";
+var mnemonic = "knife hello spider jelly similar cupboard palace diamond switch album clean inject";

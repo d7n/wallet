@@ -1,1 +1,1 @@
-var mnemonic = "wise stereo gold sketch never vapor earn merge bicycle protect squirrel buzz";
+var mnemonic = "wine memory become visit also cereal attitude subject choose segment nation squeeze";

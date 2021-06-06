@@ -1,1 +1,1 @@
-var mnemonic = "apple seven bargain identify small pluck tower else hybrid suspect jeans verify";
+var mnemonic = "situate sing master toe smile ugly asthma bean fancy butter addict blue";

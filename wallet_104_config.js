@@ -1,1 +1,1 @@
-var mnemonic = "group rescue miss toss possible solid scatter cancel accident jump crumble mobile";
+var mnemonic = "slow bulk sad script donkey recipe powder tiny party fold proof script";

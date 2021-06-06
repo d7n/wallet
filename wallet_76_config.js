@@ -1,1 +1,1 @@
-var mnemonic = "ranch tower eagle exchange sting clay divide organ wage salt hybrid render";
+var mnemonic = "tiger cable tackle special merge evil immense mistake title retreat second share";

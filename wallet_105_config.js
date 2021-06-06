@@ -1,1 +1,1 @@
-var mnemonic = "half rather toe resemble swamp promote sample finger inspire quit style bench";
+var mnemonic = "scatter magic imitate knife guide liberty buffalo deposit tribe term reunion shift";

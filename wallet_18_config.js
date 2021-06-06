@@ -1,1 +1,1 @@
-var mnemonic = "tragic apology response help chicken inform shove air globe south edge lobster";
+var mnemonic = "exile someone enrich lab catch lamp embody attack speed mom leisure similar";

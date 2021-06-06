@@ -1,1 +1,1 @@
-var mnemonic = "similar escape piece sure stomach feel pole human front chimney rule switch";
+var mnemonic = "tail suit warfare roast west top helmet exchange asset paper bid must";

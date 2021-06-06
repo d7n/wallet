@@ -1,1 +1,1 @@
-var mnemonic = "disagree denial shine ball pipe waste risk cash throw renew card length";
+var mnemonic = "eight orchard razor maple trick trust isolate copy donate hamster unhappy want";

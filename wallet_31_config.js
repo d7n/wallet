@@ -1,1 +1,1 @@
-var mnemonic = "plug vibrant ice lesson insect casual consider sugar pottery rich test balcony";
+var mnemonic = "illegal buddy arena pig latin fade crew ask keen bleak oil fun";

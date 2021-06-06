@@ -1,1 +1,1 @@
-var mnemonic = "brush layer reform water exit what flight solar whisper jaguar company trend";
+var mnemonic = "champion churn busy when lottery episode curve silver half vibrant exile party";

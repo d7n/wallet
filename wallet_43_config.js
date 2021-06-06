@@ -1,1 +1,1 @@
-var mnemonic = "circle drum number exile segment jaguar switch company flag style stone year";
+var mnemonic = "affair gap easy wide apology reopen middle initial skull city fatal excess";

@@ -1,1 +1,1 @@
-var mnemonic = "stone that pill foster audit surprise oxygen rhythm basic develop ghost you";
+var mnemonic = "guitar danger hazard arrest barrel pelican royal wasp deer raise gun typical";

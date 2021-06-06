@@ -1,1 +1,1 @@
-var mnemonic = "aisle idle middle rude dutch steak supply strong nut absent chimney one";
+var mnemonic = "clip seed grow cart rifle blind kick finish enrich render spider above";

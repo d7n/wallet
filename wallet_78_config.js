@@ -1,1 +1,1 @@
-var mnemonic = "gadget violin ride desk small celery entry soul miracle alarm neck plastic";
+var mnemonic = "giant crucial local similar hub crime strike noodle conduct shock wild nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "auto tree smooth unusual flock mammal solution magnet whisper cousin rich all";
+var mnemonic = "champion wild coil kick shrimp alley garbage tail catch caught energy truth";

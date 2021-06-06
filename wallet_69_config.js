@@ -1,1 +1,1 @@
-var mnemonic = "phone winner term wild mask liar fever green judge own wave addict";
+var mnemonic = "chalk fame crew jacket begin gesture buyer spawn net capable weasel security";

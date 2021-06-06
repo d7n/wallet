@@ -1,1 +1,1 @@
-var mnemonic = "dove eager quantum lake guilt mobile employ essence fluid snap please fortune";
+var mnemonic = "ozone dutch liberty estate enact ordinary pet tired trash develop sense slush";

@@ -1,1 +1,1 @@
-var mnemonic = "casual way little clock wife betray cable change enjoy then find race";
+var mnemonic = "assume earn problem pause crumble erupt render tilt ask awful program near";

@@ -1,1 +1,1 @@
-var mnemonic = "east menu news income acquire predict core easy program amount walnut warm";
+var mnemonic = "rare craft decline wool share boring nuclear raccoon eye minor promote moral";

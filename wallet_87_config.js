@@ -1,1 +1,1 @@
-var mnemonic = "matter avoid panda twelve dizzy six path connect clutch gap ring crisp";
+var mnemonic = "exact hybrid okay erase fatigue vacant adult brown flee able opera great";

@@ -1,1 +1,1 @@
-var mnemonic = "question dose answer list weird assault narrow retreat present filter quote weather";
+var mnemonic = "wine naive dilemma enact leg patch ability north helmet castle split window";

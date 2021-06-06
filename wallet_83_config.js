@@ -1,1 +1,1 @@
-var mnemonic = "peanut cool miracle side ten decade render invest orchard exercise brand expire";
+var mnemonic = "raw fitness explain minimum any rotate rely olive wear business model night";

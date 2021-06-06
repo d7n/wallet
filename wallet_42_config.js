@@ -1,1 +1,1 @@
-var mnemonic = "lecture happy face wire spoil pear plastic echo grid cannon guitar primary";
+var mnemonic = "fly process limit journey century try people fold cotton pizza hobby result";

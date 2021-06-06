@@ -1,1 +1,1 @@
-var mnemonic = "return flip glass coach foster amateur depend country pattern noble wheel action";
+var mnemonic = "metal turn dish chase young august unlock disease spy ocean decline start";
