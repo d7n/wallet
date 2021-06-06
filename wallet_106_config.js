@@ -1,1 +1,1 @@
-var mnemonic = "sad space little emerge surge day entire echo museum company elbow era";
+var mnemonic = "angry rotate element duck crazy whisper broom faith swim genius tornado undo";

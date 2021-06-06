@@ -1,1 +1,1 @@
-var mnemonic = "hope yard recall clutch flat offer hole such else fence endless capital";
+var mnemonic = "bean reveal run elephant sweet idle climb rail cushion filter figure have";

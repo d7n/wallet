@@ -1,1 +1,1 @@
-var mnemonic = "rubber allow marble feature cushion two cannon fashion enact kiss risk winner";
+var mnemonic = "april edit describe custom half rather unaware forget vote suggest heavy churn";

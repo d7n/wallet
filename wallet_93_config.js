@@ -1,1 +1,1 @@
-var mnemonic = "together edit assume swamp rice avocado fatal witness acquire marriage depth tree";
+var mnemonic = "machine wonder deliver gossip weasel census taste bike toss few local element";

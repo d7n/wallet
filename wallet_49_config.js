@@ -1,1 +1,1 @@
-var mnemonic = "hybrid dish actor labor seven pretty faith tent sauce rate pudding bronze";
+var mnemonic = "diesel permit slush column rhythm miss double provide rate hunt lake rude";

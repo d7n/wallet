@@ -1,1 +1,1 @@
-var mnemonic = "lunch estate include unaware dwarf side tell magic attend endorse maze must";
+var mnemonic = "produce define safe idea loop young vendor enroll crumble pupil rigid fork";

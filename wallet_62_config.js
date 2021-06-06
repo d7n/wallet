@@ -1,1 +1,1 @@
-var mnemonic = "audit cup mass merge employ build little quantum step flight auto vote";
+var mnemonic = "tribe cruise rib minimum fragile lift avocado use struggle leopard april insane";

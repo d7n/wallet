@@ -1,1 +1,1 @@
-var mnemonic = "retire victory gorilla pact scatter planet unfold reform believe gas figure similar";
+var mnemonic = "focus fork amazing describe riot ribbon obvious dinosaur argue share urban version";

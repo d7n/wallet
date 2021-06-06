@@ -1,1 +1,1 @@
-var mnemonic = "van hold car match month vapor absorb citizen dad middle enlist always";
+var mnemonic = "give relief pair demise tenant favorite share chicken teach hour execute virtual";

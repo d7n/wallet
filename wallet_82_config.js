@@ -1,1 +1,1 @@
-var mnemonic = "direct oven song dune wreck shaft dizzy horror group cycle monkey bird";
+var mnemonic = "expire ostrich escape quit cotton shell govern alien universe scorpion record answer";

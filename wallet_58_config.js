@@ -1,1 +1,1 @@
-var mnemonic = "fence giggle grocery sauce food decorate video icon medal banana leader this";
+var mnemonic = "any eternal liar merit property average minute pyramid stool bring media noise";

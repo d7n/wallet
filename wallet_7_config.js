@@ -1,1 +1,1 @@
-var mnemonic = "future limb solar exhibit code anger electric truck distance raven work machine";
+var mnemonic = "differ message interest appear obvious glue blame sustain fatigue early motion virtual";

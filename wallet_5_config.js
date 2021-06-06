@@ -1,1 +1,1 @@
-var mnemonic = "bubble damage mind bag tide gift home riot atom either save crucial";
+var mnemonic = "blind smoke margin virus annual pony deer chuckle quick bind tomorrow ethics";

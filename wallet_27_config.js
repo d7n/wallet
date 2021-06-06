@@ -1,1 +1,1 @@
-var mnemonic = "space divide vital actor reveal disagree damp artist van appear index diamond";
+var mnemonic = "increase song poem early reunion crew boost finger solution devote brave wealth";

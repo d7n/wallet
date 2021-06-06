@@ -1,1 +1,1 @@
-var mnemonic = "tag detail cable logic fluid essay buffalo fee base genre dune gorilla";
+var mnemonic = "river client lunch raise sleep icon pole give live final explain swear";

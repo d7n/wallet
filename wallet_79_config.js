@@ -1,1 +1,1 @@
-var mnemonic = "disagree rug ice fan extra cram throw pet van front online script";
+var mnemonic = "swamp proud inform acid pretty alone loud super autumn marble gentle print";

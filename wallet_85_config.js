@@ -1,1 +1,1 @@
-var mnemonic = "festival oak feed ritual add abuse sun border clump update off addict";
+var mnemonic = "morning kit rent bread display else cheap female owner just custom escape";

@@ -1,1 +1,1 @@
-var mnemonic = "child duty girl original candy surface pause rail light garlic black swallow";
+var mnemonic = "lake grow citizen swamp sense loyal tell hammer survey outside weasel fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "range apart blouse napkin clay rescue argue liberty tired unit picnic snap";
+var mnemonic = "toilet law nose hover solve case undo corn public shine law buffalo";

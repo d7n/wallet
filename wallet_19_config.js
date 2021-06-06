@@ -1,1 +1,1 @@
-var mnemonic = "term eagle property vocal favorite deliver snow fire wealth forum desk struggle";
+var mnemonic = "century faculty gym coconut human glue brass flavor skirt hire ten impose";

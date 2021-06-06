@@ -1,1 +1,1 @@
-var mnemonic = "hazard project crane horror scene bid monitor draw bullet weasel one debate";
+var mnemonic = "drill credit ignore oven humble escape kitten perfect tornado gather shadow raven";

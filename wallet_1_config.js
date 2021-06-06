@@ -1,1 +1,1 @@
-var mnemonic = "alarm guard nothing razor grit boil whale crack cube way smile clay";
+var mnemonic = "add decline abandon smooth bonus ritual solve reward write tuition lens horror";

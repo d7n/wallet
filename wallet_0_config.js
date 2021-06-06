@@ -1,1 +1,1 @@
-var mnemonic = "defense stick black clever kid swap ugly gate convince unhappy prepare jealous";
+var mnemonic = "palace sponsor focus torch inherit protect wear limit miracle shoulder forum army";

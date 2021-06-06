@@ -1,1 +1,1 @@
-var mnemonic = "mad naive dawn prosper broken rose room fish moon jar ketchup quick";
+var mnemonic = "quit exile glare spice grace cloth poet asset hill love supply wear";

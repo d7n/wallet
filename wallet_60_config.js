@@ -1,1 +1,1 @@
-var mnemonic = "segment just illegal rebuild minor banana ecology leg culture imitate zero world";
+var mnemonic = "decorate warrior couch beach vague way wall believe bomb myself solve jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "brick caught stay hip water yellow since cricket worry zebra girl close";
+var mnemonic = "observe sentence success extend table embrace stable grape sister glove alone planet";

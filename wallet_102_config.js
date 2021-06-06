@@ -1,1 +1,1 @@
-var mnemonic = "mammal auction sniff gun erase lunar useless penalty vicious wrist delay always";
+var mnemonic = "please actor actor library disease crumble hold meat voice bulk carpet nerve";

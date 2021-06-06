@@ -1,1 +1,1 @@
-var mnemonic = "roof piano advance grab indoor wait advice explain visa cricket census target";
+var mnemonic = "dance rail reject law fox apple envelope seven regular useful match slide";

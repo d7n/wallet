@@ -1,1 +1,1 @@
-var mnemonic = "quality someone seek move boring hazard harsh add basket attitude brand dismiss";
+var mnemonic = "family happy gloom warrior fan tip glad slab bulk virus select message";

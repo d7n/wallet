@@ -1,1 +1,1 @@
-var mnemonic = "future element sad spend furnace maple author slide ready guess avoid near";
+var mnemonic = "switch there recall ribbon typical quarter syrup sauce pledge change march zero";

@@ -1,1 +1,1 @@
-var mnemonic = "genre prison employ crowd swing patch major apology omit pond practice rich";
+var mnemonic = "april donkey pilot example tower state carbon blossom order industry extra elevator";

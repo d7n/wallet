@@ -1,1 +1,1 @@
-var mnemonic = "walk debris camera chef own decline figure damp walnut animal olive misery";
+var mnemonic = "fade depart excuse ship volume front drink salt cable orange bundle mixture";

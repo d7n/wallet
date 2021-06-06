@@ -1,1 +1,1 @@
-var mnemonic = "bunker cry tiger ten day lazy evil very wheat cheese advance slam";
+var mnemonic = "ordinary oppose gain eight spy travel penalty short gain mirror model ugly";

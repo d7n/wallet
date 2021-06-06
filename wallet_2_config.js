@@ -1,1 +1,1 @@
-var mnemonic = "match post embody pulse betray drive when success zone spatial few gas";
+var mnemonic = "awesome damage exercise size empower crouch gather edit unknown fan weekend argue";

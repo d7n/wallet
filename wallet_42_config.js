@@ -1,1 +1,1 @@
-var mnemonic = "any tenant chuckle census radio sample truck drip unaware brain camp unfair";
+var mnemonic = "near behind brain rent creek monitor end sphere wall region monitor develop";

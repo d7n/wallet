@@ -1,1 +1,1 @@
-var mnemonic = "follow adapt similar turkey link link hungry artefact morning occur dress detail";
+var mnemonic = "cover orphan sunset worry punch private staff focus human raven unlock twin";

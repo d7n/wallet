@@ -1,1 +1,1 @@
-var mnemonic = "broccoli pumpkin weapon entry trend perfect wrap wine history between fiber board";
+var mnemonic = "sheriff guitar connect staff rebel evil spoil power absurd casino magnet crew";

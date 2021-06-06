@@ -1,1 +1,1 @@
-var mnemonic = "myself team picture tornado speed retreat element unlock hand elephant discover frown";
+var mnemonic = "ginger punch autumn tag latin nut primary train proud cactus token since";

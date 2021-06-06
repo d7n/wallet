@@ -1,1 +1,1 @@
-var mnemonic = "brush supply unhappy youth small finish educate sleep scrub scene enter destroy";
+var mnemonic = "endorse surprise amazing belt seek private hen monkey elite ocean method wolf";

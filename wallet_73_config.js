@@ -1,1 +1,1 @@
-var mnemonic = "defy enforce drip bar horn olive document property salad tumble autumn calm";
+var mnemonic = "expose hurry inch come net inform crater bomb arrest angle female juice";

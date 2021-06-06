@@ -1,1 +1,1 @@
-var mnemonic = "idle thrive genius dinosaur cloud jazz witness casino sick phrase ancient visit";
+var mnemonic = "between parrot arena essay pipe void real burden joy runway keen company";

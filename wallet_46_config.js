@@ -1,1 +1,1 @@
-var mnemonic = "fabric uphold army local gasp rebuild lemon street ignore risk flip foam";
+var mnemonic = "dice retire truck divide benefit hat unaware address prize neglect muscle unhappy";

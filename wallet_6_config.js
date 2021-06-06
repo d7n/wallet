@@ -1,1 +1,1 @@
-var mnemonic = "spirit little tip early climb large people ketchup soccer mesh spell draft";
+var mnemonic = "stock punch mention minimum fruit become flee firm prevent green casual hair";

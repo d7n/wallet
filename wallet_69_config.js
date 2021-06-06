@@ -1,1 +1,1 @@
-var mnemonic = "owner race undo involve apart glimpse split body destroy page gossip arrest";
+var mnemonic = "ring abandon hurdle boil master quick zoo witness pelican wealth arm timber";

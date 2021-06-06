@@ -1,1 +1,1 @@
-var mnemonic = "predict major question safe voyage group pilot bubble sauce hub canal code";
+var mnemonic = "near enrich wild tonight phrase tissue comic angle brand portion chunk cost";

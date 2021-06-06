@@ -1,1 +1,1 @@
-var mnemonic = "payment kiss prefer index office deliver album cabbage garage fancy arrest meat";
+var mnemonic = "author clay very reunion can divide valve youth uniform grief farm alone";

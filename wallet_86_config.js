@@ -1,1 +1,1 @@
-var mnemonic = "middle nephew ramp craft assist lesson subject garage silk reopen chaos comfort";
+var mnemonic = "hurt mean mimic puzzle certain kit bus cereal fluid spice sign tribe";

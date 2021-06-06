@@ -1,1 +1,1 @@
-var mnemonic = "hawk library tide pill matrix edge project winner corn moral nerve eagle";
+var mnemonic = "quit adjust picture crunch employ early uncle carpet method aisle double minor";

@@ -1,1 +1,1 @@
-var mnemonic = "upper flat trophy size wife practice human flock access artwork machine pond";
+var mnemonic = "will pilot lake vacuum enemy prize slim update glare inflict flash rival";

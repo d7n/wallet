@@ -1,1 +1,1 @@
-var mnemonic = "blind oak isolate crew solution profit bulk claim runway gaze frame income";
+var mnemonic = "put object timber tortoise dilemma creek undo saddle lottery maple memory blush";

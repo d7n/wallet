@@ -1,1 +1,1 @@
-var mnemonic = "coconut okay feed usage snake prosper case leg state slim prefer timber";
+var mnemonic = "kid hurdle evolve twelve weapon task nation oak motor twice produce quality";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror desert fitness maple upon deal whisper flock parade nice wedding beyond";
+var mnemonic = "monster crisp public giggle elite bus walk episode unable where vague coast";

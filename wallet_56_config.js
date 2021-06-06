@@ -1,1 +1,1 @@
-var mnemonic = "antenna devote shrug bean era swing pear subway luxury festival forum science";
+var mnemonic = "eye laptop clinic equal sponsor cart quarter bonus sentence grief index punch";

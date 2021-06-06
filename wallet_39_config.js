@@ -1,1 +1,1 @@
-var mnemonic = "average theme spoon vote crater just laptop fantasy account across pig attend";
+var mnemonic = "envelope lonely patient twenty toe client cloth genuine blur theory doctor extra";

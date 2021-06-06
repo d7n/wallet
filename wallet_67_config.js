@@ -1,1 +1,1 @@
-var mnemonic = "swallow pond dynamic rebuild topic sunny junior afraid verb name guilt negative";
+var mnemonic = "prison you behave armor shoulder thought april recipe bleak resist hazard color";

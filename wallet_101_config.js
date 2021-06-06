@@ -1,1 +1,1 @@
-var mnemonic = "waste wrestle team surround inner spin orange vague average online arrive fossil";
+var mnemonic = "fat casino simple ignore across scrub organ include cargo buzz excite base";

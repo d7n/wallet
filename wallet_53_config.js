@@ -1,1 +1,1 @@
-var mnemonic = "width crop rough sister obtain verb weasel link dirt climb gaze detail";
+var mnemonic = "spoon furnace glad lion legal blade soon cover range village sauce brief";

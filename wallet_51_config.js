@@ -1,1 +1,1 @@
-var mnemonic = "slab mirror excess spatial release feel try snack spring vessel ivory flip";
+var mnemonic = "chief depend domain sting inflict clever museum buyer can load soon key";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf lamp bargain violin wink decade average duty sense horror voyage erosion";
+var mnemonic = "today rocket absent clinic pool rule rose glow scene cotton frost muffin";

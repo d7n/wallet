@@ -1,1 +1,1 @@
-var mnemonic = "panel source crush version scene flower ostrich act mountain please craft scatter";
+var mnemonic = "snack bargain case also tongue jungle naive helmet cushion behind oyster cannon";

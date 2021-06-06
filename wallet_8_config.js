@@ -1,1 +1,1 @@
-var mnemonic = "cage orange plate dog fringe decline certain tattoo blossom grid razor beauty";
+var mnemonic = "tiger exotic razor citizen peasant vocal exact need two apple before energy";

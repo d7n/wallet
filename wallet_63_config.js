@@ -1,1 +1,1 @@
-var mnemonic = "black theme erosion capable topic sport indoor culture deer olive ski derive";
+var mnemonic = "limit coffee grain fashion return vague vault armor unique weather blouse kiss";

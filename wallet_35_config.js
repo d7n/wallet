@@ -1,1 +1,1 @@
-var mnemonic = "genre pitch engage enrich spin region organ cabbage crucial island pizza catalog";
+var mnemonic = "question peace hollow autumn image siege attract slice finish muffin fruit average";

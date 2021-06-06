@@ -1,1 +1,1 @@
-var mnemonic = "easily machine ring wise essay gain market health write auto dirt tattoo";
+var mnemonic = "kangaroo tone dish sweet supply property cup salad magnet now smile flee";

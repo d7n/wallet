@@ -1,1 +1,1 @@
-var mnemonic = "dad turtle cave crater anxiety rally employ expire attack absorb swallow treat";
+var mnemonic = "online carpet remain struggle cherry write school mixture task fuel exit tribe";

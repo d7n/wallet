@@ -1,1 +1,1 @@
-var mnemonic = "fish annual depart enemy glide tool laundry major inner mass mutual vacuum";
+var mnemonic = "hungry crisp seminar thumb mirror chat noble injury auto asset female bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "message dance alcohol elbow flower crisp diesel bar must once seminar lab";
+var mnemonic = "exotic impose sudden busy emerge bunker duty hire peasant gloom observe skill";

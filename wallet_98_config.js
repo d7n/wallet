@@ -1,1 +1,1 @@
-var mnemonic = "moral melt east globe water august rice giggle peace walnut chimney saddle";
+var mnemonic = "expose angry minor rocket girl meadow hunt face decrease choice way index";

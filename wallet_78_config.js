@@ -1,1 +1,1 @@
-var mnemonic = "scare soda eager matter birth wet diesel expose ginger please carry around";
+var mnemonic = "cactus mammal voyage relief fun motion try tree analyst follow small crawl";

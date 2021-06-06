@@ -1,1 +1,1 @@
-var mnemonic = "symbol amazing risk cluster sell siege method feature stick six demand expand";
+var mnemonic = "correct trigger drift height media prepare devote copper speak between work lazy";

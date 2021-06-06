@@ -1,1 +1,1 @@
-var mnemonic = "creek page neutral harsh enroll frequent primary woman vast toast pizza orbit";
+var mnemonic = "ticket foil foil scale van carbon obscure seven scene run nature illegal";

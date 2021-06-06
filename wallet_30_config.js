@@ -1,1 +1,1 @@
-var mnemonic = "devote concert arrow monitor prize assault gap flash power manual caught sudden";
+var mnemonic = "use peasant autumn into misery gather elevator wise teach cube forget answer";

@@ -1,1 +1,1 @@
-var mnemonic = "garment maximum abandon sort wide dove treat three decline cross motor claim";
+var mnemonic = "craft crazy organ muscle elevator patch input what embrace slot narrow audit";

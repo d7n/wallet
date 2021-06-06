@@ -1,1 +1,1 @@
-var mnemonic = "desk token top venture crater rug beyond discover dust blade planet record";
+var mnemonic = "acquire into calm stable hurt law token end twist canal office word";

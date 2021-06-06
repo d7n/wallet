@@ -1,1 +1,1 @@
-var mnemonic = "armed switch gown artwork round nation rare pigeon little transfer blast script";
+var mnemonic = "various jeans silly museum oblige dinner palace saddle enable keep bag bind";

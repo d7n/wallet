@@ -1,1 +1,1 @@
-var mnemonic = "small useless crucial say tilt lens butter kiwi fatigue possible slide make";
+var mnemonic = "false jungle chaos hundred animal market fame hold breeze width gate motor";

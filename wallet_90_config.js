@@ -1,1 +1,1 @@
-var mnemonic = "potato any eternal youth cherry curious stem home hello gain ribbon square";
+var mnemonic = "clip first ripple hamster aim bonus alpha glide food jazz above maple";

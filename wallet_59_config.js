@@ -1,1 +1,1 @@
-var mnemonic = "club weather approve trouble comic forum giraffe lawn above hole there inch";
+var mnemonic = "boy candy place knock invite evolve assist firm someone corn prefer sound";

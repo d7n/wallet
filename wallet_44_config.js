@@ -1,1 +1,1 @@
-var mnemonic = "voyage license coin laptop gloom pioneer business tenant marine expire craft fashion";
+var mnemonic = "thrive ladder student ranch obvious night day image unit ship chaos dash";

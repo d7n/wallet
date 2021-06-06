@@ -1,1 +1,1 @@
-var mnemonic = "beyond dawn engage between vault abstract glimpse chest draft give doctor quiz";
+var mnemonic = "derive beauty civil outer mule globe word luxury will rifle banana junk";

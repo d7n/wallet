@@ -1,1 +1,1 @@
-var mnemonic = "share fiction riot okay mandate say still damage season dance panel snow";
+var mnemonic = "drama virtual coast flight rescue daring vintage tone gap barely enable knee";

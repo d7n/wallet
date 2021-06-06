@@ -1,1 +1,1 @@
-var mnemonic = "claim kite drum girl used cave because month unusual prosper couple hamster";
+var mnemonic = "casual absent match smooth coral south coconut enhance spoon manage neither episode";

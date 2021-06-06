@@ -1,1 +1,1 @@
-var mnemonic = "imitate injury foil result toe want hollow discover obey reason traffic robust";
+var mnemonic = "ask album apart elite rabbit appear life capital arrest garbage soul phone";

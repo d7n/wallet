@@ -1,1 +1,1 @@
-var mnemonic = "benefit tank network whip lazy coil skate leaf business ostrich acquire round";
+var mnemonic = "orbit plate oven pact dolphin wine piano trash abstract regret supreme toss";

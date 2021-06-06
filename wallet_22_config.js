@@ -1,1 +1,1 @@
-var mnemonic = "mechanic resource purpose glue trust human heavy theme try mobile tenant myself";
+var mnemonic = "north anchor give sentence skirt dirt vintage rocket save blood recall can";

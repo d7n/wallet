@@ -1,1 +1,1 @@
-var mnemonic = "glory toward tray wagon ugly marble robust dinosaur awesome unveil tortoise gown";
+var mnemonic = "ball put surge pigeon chronic silent situate glove kick movie rate allow";

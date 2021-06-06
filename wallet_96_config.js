@@ -1,1 +1,1 @@
-var mnemonic = "keen drink bullet vendor release caught warrior acoustic promote solid dance close";
+var mnemonic = "feel joy embrace demand walk foil film vessel nice grass eagle shy";
