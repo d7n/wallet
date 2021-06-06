@@ -1,1 +1,1 @@
-var mnemonic = "sight movie satisfy useless you you later twin asthma echo milk supply";
+var mnemonic = "hidden injury drastic thought envelope brave spike ginger zone struggle proud joke";

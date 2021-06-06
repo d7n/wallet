@@ -1,1 +1,1 @@
-var mnemonic = "rapid protect broken banana light seat trash core drama double stick crop";
+var mnemonic = "gun ripple blouse hidden plastic violin sniff rescue bronze shell casino better";

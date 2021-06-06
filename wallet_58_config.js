@@ -1,1 +1,1 @@
-var mnemonic = "clay speed food identify orchard jar hobby marble clean junk since service";
+var mnemonic = "foam squeeze square pool wrap mosquito picnic pulse ketchup wife fabric skull";

@@ -1,1 +1,1 @@
-var mnemonic = "question match okay explain unknown kind hover usage cross scene shoot enroll";
+var mnemonic = "fault affair later riot target outside latin payment screen aunt impose say";

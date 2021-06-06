@@ -1,1 +1,1 @@
-var mnemonic = "beach drip reject scene buyer repeat visit talk amateur tribe because save";
+var mnemonic = "weird annual album recall company casino husband erase client wash gather fury";

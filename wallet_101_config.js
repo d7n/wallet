@@ -1,1 +1,1 @@
-var mnemonic = "tone muffin leg door sea casino unusual proof luxury cotton that cook";
+var mnemonic = "ask labor mass burger right direct scheme balcony right mountain famous proof";

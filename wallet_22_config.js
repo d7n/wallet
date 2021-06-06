@@ -1,1 +1,1 @@
-var mnemonic = "doctor unknown future zone cool pool pencil screen moon athlete palm credit";
+var mnemonic = "husband table myself trim tiny sponsor mixture visa bread sphere scorpion prepare";

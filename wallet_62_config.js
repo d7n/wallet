@@ -1,1 +1,1 @@
-var mnemonic = "capital bacon range what gain romance evoke engine renew entry drip script";
+var mnemonic = "icon angry consider sight curve stove depth hub lottery salute emerge ask";

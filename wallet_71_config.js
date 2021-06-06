@@ -1,1 +1,1 @@
-var mnemonic = "short artefact deny clutch also crop man real spin naive liberty swim";
+var mnemonic = "predict side myself puppy strike wage tissue buzz dragon genuine cloud brother";

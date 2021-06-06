@@ -1,1 +1,1 @@
-var mnemonic = "much embody bracket quit imitate decade derive abuse diesel fork degree tail";
+var mnemonic = "kick vapor able sign traffic finger sweet glass hawk member kit sick";

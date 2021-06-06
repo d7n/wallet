@@ -1,1 +1,1 @@
-var mnemonic = "rookie shine blame kidney aim coach omit fog session shield atom duck";
+var mnemonic = "bamboo column rice install edge era unfair dose grace indoor inhale dinosaur";

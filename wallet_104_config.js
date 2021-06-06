@@ -1,1 +1,1 @@
-var mnemonic = "race antique turkey library weekend panda hint tool peasant barely submit okay";
+var mnemonic = "slide blame search mistake medal shadow proof jacket glance waste nasty hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "bean bird husband mountain sketch brick purity mix spoon hat spring regret";
+var mnemonic = "fox swim absurd solid game slush sad smooth effort art dismiss slender";

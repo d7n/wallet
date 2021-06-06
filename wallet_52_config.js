@@ -1,1 +1,1 @@
-var mnemonic = "bean rescue undo pumpkin ceiling service favorite cloud cable world lend neutral";
+var mnemonic = "tail copy view pumpkin filter globe section throw program pottery mesh permit";

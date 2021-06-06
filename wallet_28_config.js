@@ -1,1 +1,1 @@
-var mnemonic = "hero educate assault mutual burden rare siren trim mom prevent welcome slow";
+var mnemonic = "describe sustain few dirt column fiction filter seek erase example episode fan";

@@ -1,1 +1,1 @@
-var mnemonic = "smart grow lady result audit fork great enact slim december ahead congress";
+var mnemonic = "nut dish door primary explain design badge survey badge memory film leader";

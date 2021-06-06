@@ -1,1 +1,1 @@
-var mnemonic = "code pear hunt basket tortoise gaze entire acquire exotic scrub profit auction";
+var mnemonic = "monster nurse oxygen parrot detect exist pigeon nice until bone urban net";

@@ -1,1 +1,1 @@
-var mnemonic = "visa belt dust slab suffer panel truly route lottery evoke test end";
+var mnemonic = "calm gift quick sausage chase notable pear hungry regret about abandon reason";

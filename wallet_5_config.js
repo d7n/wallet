@@ -1,1 +1,1 @@
-var mnemonic = "fall result curve wasp stool police push second alcohol involve chapter session";
+var mnemonic = "assault margin income divert riot beef engage onion spring gesture picnic merry";

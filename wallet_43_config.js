@@ -1,1 +1,1 @@
-var mnemonic = "runway smooth invite dignity armed buzz ecology enemy baby retire fiscal order";
+var mnemonic = "tourist frost place any super aunt veteran project weird liquid road interest";

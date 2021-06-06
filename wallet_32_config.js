@@ -1,1 +1,1 @@
-var mnemonic = "hamster neither board pumpkin bunker action immune industry chalk derive nose tip";
+var mnemonic = "wrong tube humor unveil morning alone neck sound impact clarify rate wire";

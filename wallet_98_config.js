@@ -1,1 +1,1 @@
-var mnemonic = "mule rude margin what crater solution doctor bulb harsh enrich discover call";
+var mnemonic = "canyon quick flower toilet resist nose recall apple gasp brick enact behave";

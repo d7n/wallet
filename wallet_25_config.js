@@ -1,1 +1,1 @@
-var mnemonic = "retreat perfect shadow sport reduce october vicious doctor wealth erupt bless evil";
+var mnemonic = "that hair muscle valve rabbit invite case alpha april april spin spin";

@@ -1,1 +1,1 @@
-var mnemonic = "regular primary trial mango another swim correct match ring blind lunar clean";
+var mnemonic = "add target place junk nose agree affair wide orient mistake judge long";

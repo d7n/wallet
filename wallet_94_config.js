@@ -1,1 +1,1 @@
-var mnemonic = "dad scrub mercy open whale gym anxiety pattern hockey fold wage raven";
+var mnemonic = "spin inside grass ensure visit draft nuclear tired clutch sphere embark project";

@@ -1,1 +1,1 @@
-var mnemonic = "equip flavor program seven sword reveal joy game grocery dwarf second chalk";
+var mnemonic = "assist wood warfare join midnight cancel rib exchange grace list limb valley";

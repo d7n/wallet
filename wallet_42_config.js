@@ -1,1 +1,1 @@
-var mnemonic = "silly select side kitten lend train adapt clap case awake prison arctic";
+var mnemonic = "toward panel extend metal surge exit virtual zoo unveil road scheme belt";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet method negative loop oil crystal lounge eagle bitter harbor pudding equal";
+var mnemonic = "mountain minor guess harvest still favorite pyramid forward degree fan city hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "priority snack lend head weapon census genre trend joke double mom fox";
+var mnemonic = "deliver depart bamboo trust daring remove labor fame filter design tuna arrive";

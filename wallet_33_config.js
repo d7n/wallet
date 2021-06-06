@@ -1,1 +1,1 @@
-var mnemonic = "mule uncover visual script angry attack velvet range unknown clinic shoe office";
+var mnemonic = "biology broccoli favorite early town permit announce about now damp tooth tape";

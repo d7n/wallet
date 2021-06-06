@@ -1,1 +1,1 @@
-var mnemonic = "bounce stove fuel local ribbon strong bright duck hover cloud cake pioneer";
+var mnemonic = "crumble dynamic echo able empty truth hurdle old zebra special master pretty";

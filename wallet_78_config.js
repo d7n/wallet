@@ -1,1 +1,1 @@
-var mnemonic = "trim unable hedgehog high donate news pen poet fabric isolate year clean";
+var mnemonic = "yellow health luxury good wage mushroom dose public lab void guide empty";

@@ -1,1 +1,1 @@
-var mnemonic = "bone coffee boil elevator issue youth connect ahead nut shy law network";
+var mnemonic = "icon conduct mushroom cage race ribbon age you aware climb kiss opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "convince vague exhibit slight cattle toe mammal horse spell beyond marine divorce";
+var mnemonic = "explain wing neglect brief grab picture swallow exclude deal picture boost humor";

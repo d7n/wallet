@@ -1,1 +1,1 @@
-var mnemonic = "random worth tackle soda leopard cry chaos country sail plate online duty";
+var mnemonic = "rural blouse believe spoon gold comfort disagree ketchup tone barrel offer second";

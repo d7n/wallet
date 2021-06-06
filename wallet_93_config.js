@@ -1,1 +1,1 @@
-var mnemonic = "tomato divert robust illegal west embark globe push draft satisfy cigar rail";
+var mnemonic = "language city link aisle genre life degree hold silent camp patrol media";

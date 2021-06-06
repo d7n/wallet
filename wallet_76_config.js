@@ -1,1 +1,1 @@
-var mnemonic = "anger loud verify minute fury need stool column chest struggle social recipe";
+var mnemonic = "hedgehog sport treat crater coast typical chicken into blood shine library ten";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition uniform alarm argue erase rebuild hill exhaust mouse eagle exercise deny";
+var mnemonic = "milk viable powder essay camera age pizza clip always excite shock afraid";

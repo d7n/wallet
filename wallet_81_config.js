@@ -1,1 +1,1 @@
-var mnemonic = "color combine gossip melody open seven husband mammal interest van flush adult";
+var mnemonic = "cycle only sing genuine slight leaf credit boss clump assist cricket black";

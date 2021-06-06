@@ -1,1 +1,1 @@
-var mnemonic = "vacuum valve chimney message height toy follow firm misery cool walnut train";
+var mnemonic = "glance artwork process lecture smooth turkey aspect kite float bargain deal over";

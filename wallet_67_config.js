@@ -1,1 +1,1 @@
-var mnemonic = "sick barrel cactus exclude fluid mutual mixture fringe myth indoor educate cricket";
+var mnemonic = "ability result glow favorite become hope road before exercise luggage install unique";

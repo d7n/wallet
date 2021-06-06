@@ -1,1 +1,1 @@
-var mnemonic = "clarify inside swallow autumn own fault give seed pretty cable attack demise";
+var mnemonic = "isolate slice bid comfort sunset october column bicycle song planet december prison";

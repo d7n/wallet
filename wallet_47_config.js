@@ -1,1 +1,1 @@
-var mnemonic = "mercy page rebuild review merge client acid armor embark bar submit festival";
+var mnemonic = "nest silk essence salmon relax token obtain crumble fortune want hazard ticket";

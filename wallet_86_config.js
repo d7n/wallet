@@ -1,1 +1,1 @@
-var mnemonic = "couch catalog wide color arch eager pulp order program hybrid cause gorilla";
+var mnemonic = "wine cat thunder cram embrace shiver salt survey insane economy duty trade";

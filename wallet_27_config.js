@@ -1,1 +1,1 @@
-var mnemonic = "napkin buffalo burger edit ask clean wheat bless sadness praise wood group";
+var mnemonic = "dose okay pudding skirt crime name joy balcony bracket unfair now install";

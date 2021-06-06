@@ -1,1 +1,1 @@
-var mnemonic = "boy hamster cabbage few legal ritual ivory basic aspect hawk convince wool";
+var mnemonic = "allow crush salon faith obtain planet educate program left smile clinic episode";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog maze advance inmate neck merge tag video physical odor lobster meadow";
+var mnemonic = "carbon spread across devote symbol front innocent spoon able medal tiny winter";

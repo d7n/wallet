@@ -1,1 +1,1 @@
-var mnemonic = "puzzle direct swift lumber cushion find reflect bullet ten february runway stable";
+var mnemonic = "load nasty fiction appear credit impact pig bronze truth link neutral leg";

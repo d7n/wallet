@@ -1,1 +1,1 @@
-var mnemonic = "scrub game fossil village monster first universe stem valve calm language bomb";
+var mnemonic = "frog organ public album deliver amateur lizard lonely catch boat screen note";

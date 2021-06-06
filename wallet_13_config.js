@@ -1,1 +1,1 @@
-var mnemonic = "able enemy glue tower napkin action cousin offer spare dune vacuum cannon";
+var mnemonic = "fall depend interest differ sorry company pink coconut satisfy jaguar midnight amazing";

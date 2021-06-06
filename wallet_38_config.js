@@ -1,1 +1,1 @@
-var mnemonic = "claw cool reform ribbon mask much barely decline hard kidney diamond occur";
+var mnemonic = "renew print journey atom thrive rebuild spot aerobic brother ten ice cave";

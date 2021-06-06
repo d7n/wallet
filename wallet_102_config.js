@@ -1,1 +1,1 @@
-var mnemonic = "impose add century print bid curve path hollow exotic expire patient usage";
+var mnemonic = "rapid dial observe until blood pudding soon bread hedgehog juice food weird";

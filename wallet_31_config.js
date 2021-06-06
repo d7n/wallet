@@ -1,1 +1,1 @@
-var mnemonic = "glow typical answer practice suspect shove maze mother spring else hire mirror";
+var mnemonic = "lock pulse elder above sunset focus purpose method exit field denial elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "expand only shy noodle shoulder helmet whisper civil work cradle warm chapter";
+var mnemonic = "throw stem flush garlic please wage wet antique stay nominee volcano post";

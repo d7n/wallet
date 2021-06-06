@@ -1,1 +1,1 @@
-var mnemonic = "solve impose tobacco adult position resemble glare wife ozone treat valve slogan";
+var mnemonic = "memory hobby patient verb oil crawl online pair another vacuum office flat";

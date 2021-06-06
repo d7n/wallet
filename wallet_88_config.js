@@ -1,1 +1,1 @@
-var mnemonic = "syrup people rookie cry win sport rain gas leopard screen payment theme";
+var mnemonic = "sting brick clock drop injury core thought order luxury table wrestle either";

@@ -1,1 +1,1 @@
-var mnemonic = "spy wide outside someone flash project boring rain tube toast park lobster";
+var mnemonic = "vocal mad intact bus bar prison will hope minute taxi lend inspire";

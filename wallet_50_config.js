@@ -1,1 +1,1 @@
-var mnemonic = "render lumber suit hybrid bamboo elephant swarm teach enlist circle public similar";
+var mnemonic = "buyer rebel atom maple ozone other rotate public bird short day upset";

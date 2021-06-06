@@ -1,1 +1,1 @@
-var mnemonic = "goose eager rather piece gauge uncle cattle conduct noise accuse category betray";
+var mnemonic = "nuclear wood toward often resist pole sword valve ankle bag piece dry";

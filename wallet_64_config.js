@@ -1,1 +1,1 @@
-var mnemonic = "okay fee water fork deposit maze loan thought tackle absorb fox tourist";
+var mnemonic = "office cereal age favorite forest neck gauge sure can fly east retreat";

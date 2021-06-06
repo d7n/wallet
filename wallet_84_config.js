@@ -1,1 +1,1 @@
-var mnemonic = "analyst melt citizen author demise under own random swamp eight begin swallow";
+var mnemonic = "custom pattern veteran flip slow unique artist snack puzzle umbrella auto stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "youth head soul radar satisfy suit music impose mouse thank must sibling";
+var mnemonic = "enhance evil empower puzzle inmate ancient split stove great artefact amount assist";

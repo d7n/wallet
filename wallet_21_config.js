@@ -1,1 +1,1 @@
-var mnemonic = "exchange define general steel capable dune happy that flame alert girl turn";
+var mnemonic = "produce paddle beach insane village violin purchase melt grant decline captain town";

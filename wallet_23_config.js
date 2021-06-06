@@ -1,1 +1,1 @@
-var mnemonic = "athlete coast matrix labor debris yard enroll road educate wagon trumpet answer";
+var mnemonic = "phrase entry ugly asthma solar husband turkey trophy useful private success clever";

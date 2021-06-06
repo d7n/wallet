@@ -1,1 +1,1 @@
-var mnemonic = "home giant bronze better crawl cluster must finger bottom lava clinic floor";
+var mnemonic = "rack horse skill female dose oblige high cupboard ship atom abuse flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon wheel lava ring mixture lift ugly flock powder club fiscal shrug";
+var mnemonic = "swamp bitter curious hood kite thunder cricket energy claw country chalk tongue";

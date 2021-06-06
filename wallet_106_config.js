@@ -1,1 +1,1 @@
-var mnemonic = "carbon oak glad enact empty target ramp swim fix animal lazy six";
+var mnemonic = "clip insane panther naive spare unaware blossom divide soon hidden lyrics tiger";

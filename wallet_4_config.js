@@ -1,1 +1,1 @@
-var mnemonic = "marine donkey hub melt until limb wage cactus bless gossip tip outside";
+var mnemonic = "engine coin version gorilla palm find repeat ticket double whisper wine treat";

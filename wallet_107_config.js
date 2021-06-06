@@ -1,1 +1,1 @@
-var mnemonic = "decrease estate catalog only proud orbit expect habit tongue into swim lock";
+var mnemonic = "sponsor suffer night ability metal turn quarter truck shine bike lunch federal";

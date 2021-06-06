@@ -1,1 +1,1 @@
-var mnemonic = "rocket chief tornado daughter ordinary wave pistol pride guide coconut toe crime";
+var mnemonic = "extra quick jar hover solar below usage debris language vast copy gossip";

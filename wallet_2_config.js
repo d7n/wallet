@@ -1,1 +1,1 @@
-var mnemonic = "whip sign town honey change opera hip skate nerve divert worry attack";
+var mnemonic = "regular copy artist hard zoo duck trophy switch above pipe wonder beef";

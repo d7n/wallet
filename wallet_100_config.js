@@ -1,1 +1,1 @@
-var mnemonic = "armed bargain universe alone box dog fee vessel forum fish dream detail";
+var mnemonic = "smooth wood frequent project short install muffin olympic fuel state glue sure";

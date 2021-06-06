@@ -1,1 +1,1 @@
-var mnemonic = "stumble fan upon grass reduce daring baby vocal tired provide empty audit";
+var mnemonic = "vintage emerge slim thing talk chase knock play away desert proof inner";

@@ -1,1 +1,1 @@
-var mnemonic = "virus bounce dragon couple note expand staff filter book spoil involve remember";
+var mnemonic = "company hen fury humor web involve film diesel flat wing predict screen";

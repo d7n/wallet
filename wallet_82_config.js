@@ -1,1 +1,1 @@
-var mnemonic = "weather success taxi portion cruise someone achieve arctic era enforce open enact";
+var mnemonic = "ability process sun stove correct rain erode wheat ordinary dress faint seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "light envelope potato pistol seminar person core convince later juice remain debate";
+var mnemonic = "argue gallery bonus thank churn country syrup sense civil donkey derive clump";

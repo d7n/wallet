@@ -1,1 +1,1 @@
-var mnemonic = "enlist ritual program bright proud brother film notable embody essence artist maximum";
+var mnemonic = "ask cost refuse immune amateur joke lunch version toss deliver water retreat";

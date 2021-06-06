@@ -1,1 +1,1 @@
-var mnemonic = "kite nothing kidney arch seven present flock recycle baby boy around job";
+var mnemonic = "phone day remain seat frown unlock inside cream slot clay clap first";

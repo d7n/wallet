@@ -1,1 +1,1 @@
-var mnemonic = "move flag toss ramp lobster happy absorb liberty save loop crucial silent";
+var mnemonic = "know poem excite slow decline birth sail pottery toe success hidden under";

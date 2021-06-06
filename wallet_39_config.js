@@ -1,1 +1,1 @@
-var mnemonic = "giggle rich host ankle soldier pig unlock else eyebrow bridge polar rent";
+var mnemonic = "note sure sustain bid faculty pool whisper click increase income camera canvas";

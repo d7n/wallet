@@ -1,1 +1,1 @@
-var mnemonic = "level journey side when word release three culture siege arch all crawl";
+var mnemonic = "tent eternal flee bounce come approve hub wrong steak secret twelve tragic";

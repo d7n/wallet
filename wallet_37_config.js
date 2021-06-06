@@ -1,1 +1,1 @@
-var mnemonic = "shell spring parade universe pattern recycle pattern alien hour donkey brisk deer";
+var mnemonic = "cream cereal fox fee code unique snake lion grid tree junior belt";

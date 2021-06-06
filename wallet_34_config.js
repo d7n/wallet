@@ -1,1 +1,1 @@
-var mnemonic = "science flight gown other shoot hire board pause general task law off";
+var mnemonic = "always reunion capital firm nose snap town unit certain brush girl polar";

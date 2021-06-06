@@ -1,1 +1,1 @@
-var mnemonic = "easy bleak shed season seminar broccoli world mixed hold they bulb damage";
+var mnemonic = "wait story run absurd parrot aerobic genius whale review cream alert exile";

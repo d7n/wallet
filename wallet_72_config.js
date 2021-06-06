@@ -1,1 +1,1 @@
-var mnemonic = "theory sail avocado dog hedgehog share cart axis slab analyst time tumble";
+var mnemonic = "genius any observe issue vocal weather weather measure throw loud heavy spoon";

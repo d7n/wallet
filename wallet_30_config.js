@@ -1,1 +1,1 @@
-var mnemonic = "copper tag area trade crunch strike eternal loyal grain blanket move cause";
+var mnemonic = "power strike want cruel link device profit glimpse beauty project gallery timber";

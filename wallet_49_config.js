@@ -1,1 +1,1 @@
-var mnemonic = "poet fruit tourist future mammal tumble million ball wild east thank tube";
+var mnemonic = "draft nasty aisle expose spy ranch burst shy eagle risk water affair";

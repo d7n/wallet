@@ -1,1 +1,1 @@
-var mnemonic = "penalty income occur echo minor cigar senior okay copper learn pass degree";
+var mnemonic = "slender fog loyal radio grit stand such witness speak blast chalk monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "talent direct stereo ramp unit bid trick turtle blast monitor sound hello";
+var mnemonic = "essence panda allow forget picnic embody tuna pond cigar script once relax";

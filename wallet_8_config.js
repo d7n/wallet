@@ -1,1 +1,1 @@
-var mnemonic = "shaft pole fossil dentist boy kick switch wide unfold camera cinnamon stuff";
+var mnemonic = "pull ladder grab success goat vessel glow nerve toss giraffe step slab";
