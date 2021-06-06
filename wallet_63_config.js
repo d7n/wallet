@@ -1,1 +1,1 @@
-var mnemonic = "glue approve merge wall eight strong educate senior lunch noble loud useless";
+var mnemonic = "amateur shiver human economy moral avoid icon desk tragic acquire inject ten";

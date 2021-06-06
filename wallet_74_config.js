@@ -1,1 +1,1 @@
-var mnemonic = "dice mouse dial vote orient butter need pottery travel kick surround oven";
+var mnemonic = "oil west urge drift auction coconut primary butter image scan alien accident";

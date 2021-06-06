@@ -1,1 +1,1 @@
-var mnemonic = "find develop real answer split disagree original puppy recall sheriff symbol industry";
+var mnemonic = "toast spoon load wise delay morning loyal pulp sun drum innocent tattoo";

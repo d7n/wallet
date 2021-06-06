@@ -1,1 +1,1 @@
-var mnemonic = "first twist lecture true trigger style purpose rely that true twelve unaware";
+var mnemonic = "hurdle tortoise federal later bamboo genre nature idea direct powder habit because";

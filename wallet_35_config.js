@@ -1,1 +1,1 @@
-var mnemonic = "ripple twin admit potato blade spice prison ticket gentle hill manual enhance";
+var mnemonic = "obey disagree blush couch inflict sort undo raise disagree matrix edge eyebrow";

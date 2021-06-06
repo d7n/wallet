@@ -1,1 +1,1 @@
-var mnemonic = "agent eyebrow gather thumb desk balance pitch various sheriff second clown clay";
+var mnemonic = "front fringe tray omit recycle village gorilla noise vacant neck movie demand";

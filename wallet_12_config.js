@@ -1,1 +1,1 @@
-var mnemonic = "elite blossom fiction voice orange rich poet drip drastic box improve truly";
+var mnemonic = "practice brass below patch quarter surge vehicle fame yellow math sausage economy";

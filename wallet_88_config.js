@@ -1,1 +1,1 @@
-var mnemonic = "bid inmate garment advice identify expand devote violin kiss remind alter issue";
+var mnemonic = "robust legend increase inform crash foam lab hundred flame predict feed vapor";

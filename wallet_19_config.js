@@ -1,1 +1,1 @@
-var mnemonic = "fresh shaft aware giggle tiger blossom organ worry ticket viable audit cattle";
+var mnemonic = "venue bitter strike describe hard gossip trust gallery peanut detect sample blanket";

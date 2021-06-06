@@ -1,1 +1,1 @@
-var mnemonic = "struggle hollow quick limit orphan group program among negative potato option kingdom";
+var mnemonic = "syrup sleep broccoli regular reform payment flat list announce blade high middle";

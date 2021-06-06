@@ -1,1 +1,1 @@
-var mnemonic = "muscle high document lawsuit miracle armed pill fiction pause index used stomach";
+var mnemonic = "bike liberty grunt burden swift flight medal galaxy crumble now shaft where";

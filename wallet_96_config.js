@@ -1,1 +1,1 @@
-var mnemonic = "year resource finger pond garage timber video again else viable accident ladder";
+var mnemonic = "express summer news cash much flight pole silver split frog agent balcony";

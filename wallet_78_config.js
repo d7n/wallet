@@ -1,1 +1,1 @@
-var mnemonic = "recycle when army hollow fame wash pass age tackle magic flee wage";
+var mnemonic = "crowd border sword nephew meadow door long twin increase always stove reason";

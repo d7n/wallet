@@ -1,1 +1,1 @@
-var mnemonic = "deposit legend miracle hungry shy push entire sweet clog easily shiver uncover";
+var mnemonic = "scatter carbon impose depart charge ostrich about fiscal hour almost guilt immense";

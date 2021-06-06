@@ -1,1 +1,1 @@
-var mnemonic = "door giant student custom tomorrow owner goddess unable educate text surround butter";
+var mnemonic = "exchange flock enhance spawn day frequent turkey hard agent viable traffic chalk";

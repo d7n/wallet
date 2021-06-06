@@ -1,1 +1,1 @@
-var mnemonic = "outer deer hobby feature adjust wage boat dragon aisle enrich blanket day";
+var mnemonic = "sign draw legend spawn noodle deposit talent stem skate glare distance west";

@@ -1,1 +1,1 @@
-var mnemonic = "lend elder seed involve diamond arrange toy chunk royal shallow brisk top";
+var mnemonic = "rule burst escape parent merit shoe enact chat grab number seat hurdle";

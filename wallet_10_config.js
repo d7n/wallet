@@ -1,1 +1,1 @@
-var mnemonic = "rabbit mushroom cause ankle you skull alpha picture swift order october curve";
+var mnemonic = "curious roast swap minute boss bachelor disease assist fit gospel machine job";

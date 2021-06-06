@@ -1,1 +1,1 @@
-var mnemonic = "fabric bunker render diary card swim math ribbon category know tail toward";
+var mnemonic = "praise glad hill crunch slice segment connect cruel quit sausage ocean glimpse";

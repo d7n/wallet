@@ -1,1 +1,1 @@
-var mnemonic = "hollow mobile shock canal service cotton arrest gown razor auction pretty reopen";
+var mnemonic = "guide tag stick crunch repair kitten current clean crucial web rocket menu";

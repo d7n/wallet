@@ -1,1 +1,1 @@
-var mnemonic = "couch nasty steak such energy imitate bonus tragic culture lonely damage grow";
+var mnemonic = "success nephew priority wet smile return clever palm gain arch age captain";

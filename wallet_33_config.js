@@ -1,1 +1,1 @@
-var mnemonic = "cupboard begin marble wink expire mosquito install erupt layer blast pull post";
+var mnemonic = "subject bonus clutch idea raise helmet zebra ribbon hover fold genius horror";

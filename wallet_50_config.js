@@ -1,1 +1,1 @@
-var mnemonic = "injury topple minor deputy gauge winter blame just spell apology sun jazz";
+var mnemonic = "fresh put cricket art reward tiny stereo bread focus dizzy motion tiger";

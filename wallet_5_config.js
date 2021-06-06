@@ -1,1 +1,1 @@
-var mnemonic = "wear disease blind drastic wreck laugh express brave stem game half duty";
+var mnemonic = "purse rain rabbit parade fury wine robot maze silly stock student call";

@@ -1,1 +1,1 @@
-var mnemonic = "window ask chicken modify mansion slot dutch brush pet wheat monitor jar";
+var mnemonic = "ugly cat loyal roast tuna bronze climb come among ride soldier best";

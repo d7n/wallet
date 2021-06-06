@@ -1,1 +1,1 @@
-var mnemonic = "broken used grunt health close bleak debris mosquito bonus film green camera";
+var mnemonic = "original upper bamboo saddle young goose honey photo oil range siren oval";

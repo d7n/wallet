@@ -1,1 +1,1 @@
-var mnemonic = "calm stuff air lesson wink gentle asthma spy special student brand best";
+var mnemonic = "ordinary topic ill first usage major exclude fade sell laugh noble donate";

@@ -1,1 +1,1 @@
-var mnemonic = "material burger order verify ready excess super lecture actress oak expand jewel";
+var mnemonic = "arctic pretty april digital gloom orient rebel bicycle battle puppy near caught";

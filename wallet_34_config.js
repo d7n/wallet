@@ -1,1 +1,1 @@
-var mnemonic = "erase fence define fresh devote hybrid electric fatal alley street sausage armed";
+var mnemonic = "debate worry absent tenant jump author major gap tone barely cheap team";

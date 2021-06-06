@@ -1,1 +1,1 @@
-var mnemonic = "stairs high wasp now birth stay orchard fly ceiling agree ladder result";
+var mnemonic = "fan year pair bronze cover medal suffer bunker window nose album grocery";

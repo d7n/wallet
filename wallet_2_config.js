@@ -1,1 +1,1 @@
-var mnemonic = "sleep deny banner reason latin follow curve custom solid citizen fetch quit";
+var mnemonic = "stage put oil layer silver desk rescue total material scout disease ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "plate era fiber ready sister enlist lady rocket walnut dynamic balance under";
+var mnemonic = "glory shell rose legend elbow raven cushion cream charge gain yard easily";

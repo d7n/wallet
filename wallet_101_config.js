@@ -1,1 +1,1 @@
-var mnemonic = "liberty vibrant rhythm total worry drink boil state milk online casual music";
+var mnemonic = "fire trap twenty caught flip rookie joke benefit wealth trial waste motion";

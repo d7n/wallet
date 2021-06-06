@@ -1,1 +1,1 @@
-var mnemonic = "make review pond silent talk mountain match tennis dry trouble govern cram";
+var mnemonic = "violin winter mix fortune slender melody main caution afford mention vendor demise";

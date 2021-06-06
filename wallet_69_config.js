@@ -1,1 +1,1 @@
-var mnemonic = "catch apart media hazard grow prefer fork winner topple oil skin copper";
+var mnemonic = "welcome dove fury perfect roof wolf innocent private social assume prosper secret";

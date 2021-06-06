@@ -1,1 +1,1 @@
-var mnemonic = "funny color penalty photo jealous rough duck dove bus anger coral air";
+var mnemonic = "stumble donkey define furnace solve walnut accuse guess pyramid slab eternal indoor";

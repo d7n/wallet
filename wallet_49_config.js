@@ -1,1 +1,1 @@
-var mnemonic = "scrub leaf trouble novel convince robot vendor super pink eternal arctic mistake";
+var mnemonic = "try search luxury found spray boy student air draw usage remain anger";

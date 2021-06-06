@@ -1,1 +1,1 @@
-var mnemonic = "city poverty decrease decade believe umbrella sword label auto salmon left canal";
+var mnemonic = "play present involve shadow shell fee remember able century carbon scare glimpse";

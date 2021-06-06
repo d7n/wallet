@@ -1,1 +1,1 @@
-var mnemonic = "buzz sell oven proud amount stock erosion grace winter lounge autumn morning";
+var mnemonic = "grocery scout width engage announce sad quote spell maple angle pool observe";

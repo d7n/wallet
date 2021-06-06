@@ -1,1 +1,1 @@
-var mnemonic = "cargo coach eager warrior crush kitchen again physical bubble focus earth industry";
+var mnemonic = "scout abuse diagram one nature tone marble income angle margin blanket pole";

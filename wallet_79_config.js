@@ -1,1 +1,1 @@
-var mnemonic = "jealous develop want beach object robot strategy now song stove bring quarter";
+var mnemonic = "attract slab inspire spirit smile cousin waste high shell net pulp like";

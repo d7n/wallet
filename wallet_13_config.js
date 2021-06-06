@@ -1,1 +1,1 @@
-var mnemonic = "school regret violin keep soldier grief wrestle dial define legend sure coin";
+var mnemonic = "swamp eyebrow plate output female verb sustain defy bleak theme frozen volcano";

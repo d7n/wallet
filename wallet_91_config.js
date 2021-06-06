@@ -1,1 +1,1 @@
-var mnemonic = "sure game say tissue ride scorpion south mule aisle iron urban they";
+var mnemonic = "decline close buzz bounce pelican profit tired anxiety venue excite mechanic entire";

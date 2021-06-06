@@ -1,1 +1,1 @@
-var mnemonic = "happy bicycle toss goose reward syrup desk body hope decrease myself describe";
+var mnemonic = "inmate leisure friend plug cotton super slice six divorce toss tower smile";

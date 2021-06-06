@@ -1,1 +1,1 @@
-var mnemonic = "decorate year size gasp potato satisfy monkey lava hidden misery actress student";
+var mnemonic = "habit okay face magic lounge essay journey brand mean cupboard summer sustain";

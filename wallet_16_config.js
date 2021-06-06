@@ -1,1 +1,1 @@
-var mnemonic = "imitate enhance engage height flush fatigue balance congress range answer submit bright";
+var mnemonic = "define joke once venue scorpion relax aunt decide genre edit opera welcome";

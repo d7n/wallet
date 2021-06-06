@@ -1,1 +1,1 @@
-var mnemonic = "search tip cabin canvas share calm since surface fly diesel milk first";
+var mnemonic = "drift dynamic rather canal typical clap order outer oven age kiss direct";

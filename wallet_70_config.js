@@ -1,1 +1,1 @@
-var mnemonic = "duck jazz surge quantum omit habit animal silk burger lake also board";
+var mnemonic = "boss problem taxi short derive tube jump home tool coconut still once";

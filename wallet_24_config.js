@@ -1,1 +1,1 @@
-var mnemonic = "long joy replace cloth near announce spell shrug payment reveal shift bus";
+var mnemonic = "across annual kid viable science two layer heart domain wire kidney gorilla";

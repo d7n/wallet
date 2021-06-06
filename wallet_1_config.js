@@ -1,1 +1,1 @@
-var mnemonic = "cruel tell expand spring bargain atom arrest harvest pen pyramid cannon fence";
+var mnemonic = "virtual size access moral obscure card lucky resist fade shine train guess";

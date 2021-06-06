@@ -1,1 +1,1 @@
-var mnemonic = "gap next stick cash world innocent vacuum gate vicious virtual autumn atom";
+var mnemonic = "plunge theory library perfect tuition employ soccer crucial embark sport empower property";

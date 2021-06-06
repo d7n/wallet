@@ -1,1 +1,1 @@
-var mnemonic = "mix lake earn name sand alpha then always struggle kick room ability";
+var mnemonic = "brave bronze swarm dragon curious small rent front black hollow surface napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive walk alpha accuse travel finish lyrics remind leaf ask rifle bright";
+var mnemonic = "grunt word find wisdom mango erode boy hospital scatter video profit cream";

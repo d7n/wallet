@@ -1,1 +1,1 @@
-var mnemonic = "patient estate any range ankle reason heavy olympic eight talent group guard";
+var mnemonic = "similar abuse middle shoot main pencil mercy match frown speak border trust";

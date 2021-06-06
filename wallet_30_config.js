@@ -1,1 +1,1 @@
-var mnemonic = "cost virus mad throw receive unveil sadness payment task pluck vessel cupboard";
+var mnemonic = "large expose save salute hub ticket need portion ship script decorate conduct";

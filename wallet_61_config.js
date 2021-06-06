@@ -1,1 +1,1 @@
-var mnemonic = "runway absurd humble pool sock bottom mystery client local hazard stamp parade";
+var mnemonic = "real parent kidney burst toward banana tourist prosper strike tide online diesel";

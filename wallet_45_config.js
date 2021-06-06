@@ -1,1 +1,1 @@
-var mnemonic = "grass task foil section artwork glory swamp admit front slab slim wool";
+var mnemonic = "light board scissors soccer special web pluck coach category alpha damp floor";

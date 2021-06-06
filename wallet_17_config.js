@@ -1,1 +1,1 @@
-var mnemonic = "salon tree steak traffic empty auction three prevent pond dilemma birth jump";
+var mnemonic = "license strong dad vintage combine eye hamster view mammal elder fossil flag";

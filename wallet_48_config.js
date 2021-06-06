@@ -1,1 +1,1 @@
-var mnemonic = "obvious broccoli biology balance mansion bind duck fancy orbit tuna major hundred";
+var mnemonic = "winter prefer shoulder afraid boost cactus garbage cousin sudden tongue school extra";

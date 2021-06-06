@@ -1,1 +1,1 @@
-var mnemonic = "cage vehicle wagon noble leave best wire chair chaos grape tiny panda";
+var mnemonic = "drip bike sunset logic river nothing struggle aisle orphan stuff pioneer globe";

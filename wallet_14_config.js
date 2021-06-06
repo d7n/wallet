@@ -1,1 +1,1 @@
-var mnemonic = "couple answer wrist lady super frozen another lamp crew sphere dog much";
+var mnemonic = "fat frequent crouch moral opinion bleak liquid spoon skin armed journey sail";

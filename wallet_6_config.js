@@ -1,1 +1,1 @@
-var mnemonic = "movie prosper casual remind violin mesh leaf minor divert crouch hero skin";
+var mnemonic = "choose intact goddess envelope zone basket oak fly pledge shed equal term";

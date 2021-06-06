@@ -1,1 +1,1 @@
-var mnemonic = "hammer winter large devote diagram parrot other woman neither gate unknown head";
+var mnemonic = "item trumpet east hub bulk glare tooth asthma simple stone wreck fitness";

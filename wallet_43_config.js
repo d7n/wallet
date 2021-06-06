@@ -1,1 +1,1 @@
-var mnemonic = "tip pulse traffic ranch concert weapon know double review glove type submit";
+var mnemonic = "gown absent original achieve infant include mix helmet scheme indoor hidden wet";

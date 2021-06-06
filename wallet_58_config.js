@@ -1,1 +1,1 @@
-var mnemonic = "uncle daughter biology produce pepper fall script bicycle sibling false mobile fossil";
+var mnemonic = "duck shine daring wolf satoshi stuff siege quote price minimum bar brother";

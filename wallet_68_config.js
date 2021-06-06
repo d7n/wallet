@@ -1,1 +1,1 @@
-var mnemonic = "blast time tape where paper wage caught cheap exclude friend pattern wild";
+var mnemonic = "analyst draft demise cave useless upset report arrive expose lend donkey team";

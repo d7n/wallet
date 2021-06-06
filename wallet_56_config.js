@@ -1,1 +1,1 @@
-var mnemonic = "matter garage essay iron car kitten tray sight axis tower velvet body";
+var mnemonic = "have because spirit must olympic call name obvious pigeon panther drop over";

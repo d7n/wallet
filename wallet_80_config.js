@@ -1,1 +1,1 @@
-var mnemonic = "glow call garage drop cat remember siege type voyage impulse boat robust";
+var mnemonic = "spray become brush pull wonder anxiety mom maze unable grief buddy high";

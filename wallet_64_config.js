@@ -1,1 +1,1 @@
-var mnemonic = "rocket nothing knock luxury pizza monitor feed curve judge draw knife replace";
+var mnemonic = "join float sniff half impose beef bus kitchen way icon you satisfy";

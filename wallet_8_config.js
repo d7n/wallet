@@ -1,1 +1,1 @@
-var mnemonic = "mixed pumpkin spell odor pledge teach rail helmet gesture maid over stomach";
+var mnemonic = "wink layer teach cart trouble ghost inner west day crack defy page";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon shell solar cement century play mule deliver fame length pass october";
+var mnemonic = "section penalty misery job train online family legend enlist arena expire cement";

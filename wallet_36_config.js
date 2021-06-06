@@ -1,1 +1,1 @@
-var mnemonic = "skate stereo claim butter reduce term behave barrel learn stable place prepare";
+var mnemonic = "high kangaroo target below surprise demise empty floor problem ski erode feel";

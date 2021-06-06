@@ -1,1 +1,1 @@
-var mnemonic = "wheel course wrist network truck borrow range car certain pupil mind tree";
+var mnemonic = "donor gap umbrella trash fog rail unaware media spend alert chapter aunt";

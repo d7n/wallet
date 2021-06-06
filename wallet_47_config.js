@@ -1,1 +1,1 @@
-var mnemonic = "patch safe clever pact surprise rally lesson people youth gown praise system";
+var mnemonic = "flavor potato guitar wine emerge pond genius pride uncle globe rely food";

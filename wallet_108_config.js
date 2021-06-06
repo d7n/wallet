@@ -1,1 +1,1 @@
-var mnemonic = "cash apple annual bean dutch endorse oak such post boat vicious release";
+var mnemonic = "between jewel mushroom head menu section poverty marble boring pear matter gasp";

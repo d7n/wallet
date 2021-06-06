@@ -1,1 +1,1 @@
-var mnemonic = "about south yard shove example young foster inmate car lift caught grace";
+var mnemonic = "ecology blouse tenant december exile enrich position lawn wrap denial item armor";

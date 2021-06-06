@@ -1,1 +1,1 @@
-var mnemonic = "maze grunt fog connect piece opinion pottery scale idea pink zero guide";
+var mnemonic = "often protect brave summer sunny manage kiwi arrow tone tooth fringe purse";

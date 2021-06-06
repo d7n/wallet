@@ -1,1 +1,1 @@
-var mnemonic = "inhale lava weekend ketchup predict avocado off sign latin maple mad bunker";
+var mnemonic = "blood around latin neither orbit bronze aerobic digital oppose this front lazy";

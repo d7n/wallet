@@ -1,1 +1,1 @@
-var mnemonic = "truck orange account volume tone drum thank bacon hope tenant garden auction";
+var mnemonic = "asset deposit nasty dolphin another army guilt wife input soldier blue edit";

@@ -1,1 +1,1 @@
-var mnemonic = "solar hen error media result uniform walk uncover stable settle opera brisk";
+var mnemonic = "expose beef spice camp common bargain category hundred clean surprise direct fine";

@@ -1,1 +1,1 @@
-var mnemonic = "brush antique vital coast supply mean worth guess cool message chalk long";
+var mnemonic = "possible grab polar motor infant cheese size general cinnamon include search proud";

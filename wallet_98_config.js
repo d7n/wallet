@@ -1,1 +1,1 @@
-var mnemonic = "version bundle boring economy slab alien floor develop almost pair rude tired";
+var mnemonic = "mouse sight season loan abandon mimic idea squirrel scale ticket pistol neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior pelican violin lecture priority tuna pigeon clinic piece size carbon dutch";
+var mnemonic = "matter sentence below hammer frame repeat blade camp salt ready cause wrist";

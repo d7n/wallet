@@ -1,1 +1,1 @@
-var mnemonic = "echo basket ask inner together announce annual december art deer come robot";
+var mnemonic = "worry park wave boost noodle chair cricket online obscure vapor lake manual";

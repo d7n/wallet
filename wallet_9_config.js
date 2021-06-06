@@ -1,1 +1,1 @@
-var mnemonic = "river lab diamond wire way hundred crumble window pigeon swift memory uphold";
+var mnemonic = "ivory cake escape satisfy apart brand rug shrug beauty eager swift flag";

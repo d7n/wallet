@@ -1,1 +1,1 @@
-var mnemonic = "alcohol magnet industry shift machine human eager cabbage announce law sport trap";
+var mnemonic = "village risk purse few never vibrant bottom mention treat salmon orbit sting";

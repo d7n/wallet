@@ -1,1 +1,1 @@
-var mnemonic = "explain number solution relief bright curious alpha identify tone ridge episode mansion";
+var mnemonic = "record real skill crumble member lunch jaguar wisdom blame hollow alien sight";

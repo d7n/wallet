@@ -1,1 +1,1 @@
-var mnemonic = "kit rubber hold lock sand chapter stock wine phone minute artist sadness";
+var mnemonic = "tornado type salt head armed tunnel nephew ring brother like cool certain";

@@ -1,1 +1,1 @@
-var mnemonic = "clock tilt twin struggle body lawn oven unlock wealth light february sun";
+var mnemonic = "truly endorse kiwi nut pizza forget unaware napkin measure club issue canal";

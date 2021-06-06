@@ -1,1 +1,1 @@
-var mnemonic = "mail clarify hawk funny average verify ready choose cancel arrest slow quarter";
+var mnemonic = "device brass live deny level run chicken curious scissors book tunnel rose";

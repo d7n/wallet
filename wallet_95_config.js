@@ -1,1 +1,1 @@
-var mnemonic = "whip same above debris layer club word coil suit duck jelly snake";
+var mnemonic = "lawn inflict village hood art hunt oppose addict choose output clap manage";

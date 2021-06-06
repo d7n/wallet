@@ -1,1 +1,1 @@
-var mnemonic = "build gather wreck seek van quick stomach helmet thing because business resemble";
+var mnemonic = "fun laundry cute width hope room cabin bounce medal appear edit habit";

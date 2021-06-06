@@ -1,1 +1,1 @@
-var mnemonic = "like focus denial gallery sting mind produce escape human danger try auction";
+var mnemonic = "plastic humor ketchup struggle turtle pair retreat inhale wire search that city";
