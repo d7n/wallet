@@ -1,1 +1,1 @@
-var mnemonic = "basic blast depend erupt broken recall harsh mirror mammal matter test hello";
+var mnemonic = "loan north basket point vintage bunker hat shock lemon lamp ghost adjust";

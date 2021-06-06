@@ -1,1 +1,1 @@
-var mnemonic = "lyrics knee topple bring olympic science tip guard gadget vivid cruise hawk";
+var mnemonic = "noodle narrow radar scene best similar execute thank green upon sure return";

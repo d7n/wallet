@@ -1,1 +1,1 @@
-var mnemonic = "maple draft minimum merry future still hair fix humble century arrange noise";
+var mnemonic = "fever museum load drill steel offer best giraffe charge echo holiday ticket";

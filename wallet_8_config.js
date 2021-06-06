@@ -1,1 +1,1 @@
-var mnemonic = "impulse mouse high release hip lunch neglect swim among fuel invest blade";
+var mnemonic = "drama wear make hobby squirrel found uncle scatter security slight execute rate";

@@ -1,1 +1,1 @@
-var mnemonic = "danger buzz monster window mandate artist mansion walnut black aunt leisure utility";
+var mnemonic = "deal trouble cause faint enemy trend never step they armor enhance toss";

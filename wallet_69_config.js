@@ -1,1 +1,1 @@
-var mnemonic = "box spare beauty random ribbon cargo bomb member window mushroom flavor badge";
+var mnemonic = "gentle grape fiscal polar blame daring lunar flip web letter siren slight";

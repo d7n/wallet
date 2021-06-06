@@ -1,1 +1,1 @@
-var mnemonic = "stomach outer fringe jelly camera motion scheme aware umbrella explain height sheriff";
+var mnemonic = "lecture artist siren month cheese acquire kick audit zero outside plastic burden";

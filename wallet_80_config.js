@@ -1,1 +1,1 @@
-var mnemonic = "pattern often balcony chalk pill memory huge because edge strong snap steel";
+var mnemonic = "top since tunnel inner fade praise invite account virtual pupil into walk";

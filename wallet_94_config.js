@@ -1,1 +1,1 @@
-var mnemonic = "spend unusual tribe genius aisle time blue couch bar analyst federal hat";
+var mnemonic = "pink phrase fatal rent maple catalog unfold then stove pulse betray stamp";

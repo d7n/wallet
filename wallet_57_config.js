@@ -1,1 +1,1 @@
-var mnemonic = "crater clown second walk scan hen option salute mosquito feature gallery arrow";
+var mnemonic = "gallery jelly unit eternal gown forget black loud vault journey manual truly";

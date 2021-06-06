@@ -1,1 +1,1 @@
-var mnemonic = "trophy clip grunt owner size runway crucial trip solve plug surface gasp";
+var mnemonic = "beyond swing debate mad latin boat choice child jewel survey use opinion";

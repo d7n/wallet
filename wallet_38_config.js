@@ -1,1 +1,1 @@
-var mnemonic = "corn lyrics improve multiply enough unit impulse jeans camp vague curve deposit";
+var mnemonic = "zoo barrel delay guard flame space color better fee token digital hospital";

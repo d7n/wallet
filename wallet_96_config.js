@@ -1,1 +1,1 @@
-var mnemonic = "public action bottom half staff tray advice cactus health carry notable naive";
+var mnemonic = "survey tattoo mimic absurd check churn angle open crystal prosper tragic hamster";

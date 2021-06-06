@@ -1,1 +1,1 @@
-var mnemonic = "glance under artist agree can private army have chef huge lend trim";
+var mnemonic = "ski whisper dice acquire notable jealous either basket erupt faculty lecture ancient";

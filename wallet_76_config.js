@@ -1,1 +1,1 @@
-var mnemonic = "response equal maximum poet seek alarm evoke language velvet napkin face urge";
+var mnemonic = "history bleak illegal clock absorb strike donate hope seek cage brief chaos";

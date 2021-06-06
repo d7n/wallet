@@ -1,1 +1,1 @@
-var mnemonic = "awesome capable element sting today sleep monster infant entry bonus spider typical";
+var mnemonic = "pottery wide crucial evil cat opinion dumb tonight left cactus squeeze exit";

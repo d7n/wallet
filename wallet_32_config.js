@@ -1,1 +1,1 @@
-var mnemonic = "protect fence seminar scale solve year glass dirt vicious picture above bullet";
+var mnemonic = "void person exile arrow square save zero survey razor lunch venue ignore";

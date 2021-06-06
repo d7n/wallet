@@ -1,1 +1,1 @@
-var mnemonic = "bronze dad history like mesh mobile arrest north orphan weasel margin fog";
+var mnemonic = "circle humor funny animal afford audit session category account hobby blue regular";

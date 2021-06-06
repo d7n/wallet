@@ -1,1 +1,1 @@
-var mnemonic = "room breeze jaguar quiz bachelor forest oblige saddle tobacco bless myth bright";
+var mnemonic = "grid write also mansion blouse basket impose sheriff firm summer worth clarify";

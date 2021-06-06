@@ -1,1 +1,1 @@
-var mnemonic = "horror spoon verb junk pear potato crumble scan unveil table crisp kidney";
+var mnemonic = "enlist inflict dismiss napkin frog enact endless obey cook filter cycle page";

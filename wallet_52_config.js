@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow rhythm solution success guard fish broom whisper grass horn else iron";
+var mnemonic = "taste boil two leopard dragon orchard million lawsuit grab vintage cherry wagon";

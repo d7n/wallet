@@ -1,1 +1,1 @@
-var mnemonic = "mango pride task ski chat spider luggage guilt squeeze ability copper vintage";
+var mnemonic = "cannon hand teach spider chronic pupil blossom stay useless speed glue loop";

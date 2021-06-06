@@ -1,1 +1,1 @@
-var mnemonic = "volcano crazy chest recycle utility aerobic bless quality pill purpose crowd tennis";
+var mnemonic = "patch title keep this turtle side shock helmet peace enemy govern discover";

@@ -1,1 +1,1 @@
-var mnemonic = "apple enlist dumb foam spread depend amount dinosaur trip edit nasty diet";
+var mnemonic = "vocal clean stove foster spare cost swim broom involve teach palace sleep";

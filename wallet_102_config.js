@@ -1,1 +1,1 @@
-var mnemonic = "material exhaust hockey moral hold ask opera diamond allow garbage injury correct";
+var mnemonic = "december act gravity tail resource youth myself increase outside hire same sword";

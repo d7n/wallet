@@ -1,1 +1,1 @@
-var mnemonic = "idle vessel frost soap bone dinosaur forget crop charge hundred wrestle radar";
+var mnemonic = "green pen opera diet benefit logic script artwork buyer segment file possible";

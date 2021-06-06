@@ -1,1 +1,1 @@
-var mnemonic = "craft range blood tenant museum month alone opinion brisk shuffle doll chunk";
+var mnemonic = "food old kite vital valve exhibit audit artist soldier time december private";

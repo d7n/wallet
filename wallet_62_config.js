@@ -1,1 +1,1 @@
-var mnemonic = "mushroom muscle face property slab lyrics machine menu aisle home decrease cart";
+var mnemonic = "notable relief burst depend chief nephew brisk essay give flush grant lottery";

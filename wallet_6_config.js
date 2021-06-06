@@ -1,1 +1,1 @@
-var mnemonic = "believe brief paper chunk observe approve leaf exotic suffer category burger obtain";
+var mnemonic = "hungry quit curtain brother sign matter dismiss butter agree neglect switch deposit";

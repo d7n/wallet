@@ -1,1 +1,1 @@
-var mnemonic = "ceiling divorce steel fuel stairs evolve pair fragile loud dry horse tell";
+var mnemonic = "dial donate genius fiction prosper point leisure antique record walk anger gift";

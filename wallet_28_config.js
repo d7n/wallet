@@ -1,1 +1,1 @@
-var mnemonic = "buyer thunder royal fame uniform fee giggle derive friend guard drama busy";
+var mnemonic = "remain vendor effort mixed arm act project delay about evil sniff fork";

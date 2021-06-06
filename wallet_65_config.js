@@ -1,1 +1,1 @@
-var mnemonic = "mind oyster filter super sort bronze banana cross figure rely blade family";
+var mnemonic = "vault exotic grunt surge asset liberty second clip card utility gesture soda";

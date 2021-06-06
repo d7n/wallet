@@ -1,1 +1,1 @@
-var mnemonic = "recall firm hockey apple lens nurse trim genius flavor winner excuse style";
+var mnemonic = "odor honey myth soft coconut leave simple enemy frame clinic book nurse";

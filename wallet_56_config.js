@@ -1,1 +1,1 @@
-var mnemonic = "resist antique swim maid that emotion habit champion motion body fatigue dice";
+var mnemonic = "cruel library answer hope song work help review strategy naive board nut";

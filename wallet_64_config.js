@@ -1,1 +1,1 @@
-var mnemonic = "arrow couch say mesh regret net cradle rent fault buddy armed jump";
+var mnemonic = "fringe useless scatter love expect better tennis vote embark few stuff goat";

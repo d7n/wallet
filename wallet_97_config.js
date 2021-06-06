@@ -1,1 +1,1 @@
-var mnemonic = "build prepare eternal account cool license surround horn obscure obvious only ecology";
+var mnemonic = "bean pupil frequent excite nest chef fly soccer novel few wife key";

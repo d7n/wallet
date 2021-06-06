@@ -1,1 +1,1 @@
-var mnemonic = "bulk above police slam sniff wrap track lobster tomorrow stone husband album";
+var mnemonic = "news veteran camera oven now jungle course glare nest bright menu admit";

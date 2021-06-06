@@ -1,1 +1,1 @@
-var mnemonic = "liberty primary tunnel negative tenant stay wedding word manual you term chimney";
+var mnemonic = "face faith advance exchange panther gallery panda tray decorate crowd couple bicycle";

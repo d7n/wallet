@@ -1,1 +1,1 @@
-var mnemonic = "service load ramp glow eye kiss sunset search dance hawk amazing sphere";
+var mnemonic = "glue city cotton surprise velvet all ethics game kit casino detail dove";

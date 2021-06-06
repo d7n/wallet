@@ -1,1 +1,1 @@
-var mnemonic = "frog undo file color relief pencil flock cupboard tool senior horse kid";
+var mnemonic = "predict merit nominee oyster frost light critic globe similar run receive scan";

@@ -1,1 +1,1 @@
-var mnemonic = "seek uphold case adult trade auto key park hybrid viable foster foot";
+var mnemonic = "wrist peace rough quality purchase project beach claw bridge brief chuckle mass";

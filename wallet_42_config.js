@@ -1,1 +1,1 @@
-var mnemonic = "chimney transfer office amazing rabbit bamboo run reward hard desk company shine";
+var mnemonic = "rubber marble kite crime okay wheat wonder decide drill exchange glad today";

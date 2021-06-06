@@ -1,1 +1,1 @@
-var mnemonic = "tool marriage canvas embody track ecology equal army soap pet betray entry";
+var mnemonic = "skate hero tissue shiver miracle athlete fresh session pretty supreme swap shaft";

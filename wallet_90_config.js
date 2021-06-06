@@ -1,1 +1,1 @@
-var mnemonic = "across motor again boss author capital run priority glass differ flash hurry";
+var mnemonic = "blue identify rely hungry avocado flag bulb hurdle hazard woman despair rich";

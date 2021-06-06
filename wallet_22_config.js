@@ -1,1 +1,1 @@
-var mnemonic = "unaware demand punch gallery slim fossil install summer pilot fork ski rack";
+var mnemonic = "isolate draw donate wreck divert dentist vapor require combine slide miracle drink";

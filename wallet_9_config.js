@@ -1,1 +1,1 @@
-var mnemonic = "park forget object room lazy city false unique fix shrimp awkward finish";
+var mnemonic = "force school panel egg horn oxygen equal chalk attack erase area arena";

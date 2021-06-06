@@ -1,1 +1,1 @@
-var mnemonic = "ladder giant next seek wealth salt melt critic print enlist climb zero";
+var mnemonic = "power carry sword acquire best grant coffee merit net horror into boss";

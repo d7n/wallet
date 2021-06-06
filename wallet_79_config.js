@@ -1,1 +1,1 @@
-var mnemonic = "sea region spell carbon flash inherit crucial maid push foster target embrace";
+var mnemonic = "leader wife cancel reflect person just recall exotic aisle beauty hockey multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "half point scene book invest dry hotel elegant gap merit obey spike";
+var mnemonic = "early odor weird mouse annual very bulk test connect field ozone figure";

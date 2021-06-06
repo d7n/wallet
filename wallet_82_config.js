@@ -1,1 +1,1 @@
-var mnemonic = "guilt resource music wife there split friend boost utility spoon slow artwork";
+var mnemonic = "taxi utility athlete panic risk warfare van host useless blanket amazing unable";

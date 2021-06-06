@@ -1,1 +1,1 @@
-var mnemonic = "episode seed bleak unlock ticket crash behave brain dutch solid much secret";
+var mnemonic = "display pool oyster vital key furnace equal grain lock cushion dismiss cabbage";

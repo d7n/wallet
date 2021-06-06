@@ -1,1 +1,1 @@
-var mnemonic = "tragic hurdle buzz vivid general fortune boring hero lazy nation winner heart";
+var mnemonic = "until exhibit paper north lobster agent walnut case focus village rate essence";

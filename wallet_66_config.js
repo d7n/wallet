@@ -1,1 +1,1 @@
-var mnemonic = "quarter twice million pink fix potato garden metal science island demand arrest";
+var mnemonic = "detect radar proof finish load loop bonus vehicle betray pilot laptop style";

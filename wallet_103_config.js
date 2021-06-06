@@ -1,1 +1,1 @@
-var mnemonic = "taxi record yellow cloth number demise radar awake cause weird moment debate";
+var mnemonic = "tiger blame tape weapon exhibit brand vocal source welcome mountain embody net";

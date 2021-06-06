@@ -1,1 +1,1 @@
-var mnemonic = "anchor permit picnic swim theory never village trick ancient sentence tuition catch";
+var mnemonic = "stick company fringe ghost pumpkin sea journey scene trouble occur token figure";

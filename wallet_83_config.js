@@ -1,1 +1,1 @@
-var mnemonic = "infant noise never wood town vendor loan hundred ability rate road office";
+var mnemonic = "object choice monkey frost fly lobster snap want walk switch parade weapon";

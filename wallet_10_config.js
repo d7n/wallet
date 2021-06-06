@@ -1,1 +1,1 @@
-var mnemonic = "tribe summer scare assault flash joke month trick manage awful wrap mango";
+var mnemonic = "hello album bring mesh salute thumb good client fork gesture sponsor floor";

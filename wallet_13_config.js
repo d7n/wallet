@@ -1,1 +1,1 @@
-var mnemonic = "olive ecology decrease interest midnight spread secret receive indicate fiber shoe spray";
+var mnemonic = "move grow pool cinnamon kick organ critic half become develop trip eight";

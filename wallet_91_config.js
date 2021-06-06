@@ -1,1 +1,1 @@
-var mnemonic = "raise family judge shell sea hazard tornado spot spawn hint evil truck";
+var mnemonic = "jar creek disagree timber boring genre fiscal message achieve enact bleak return";

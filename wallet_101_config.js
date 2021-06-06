@@ -1,1 +1,1 @@
-var mnemonic = "quarter moral wisdom input immense parade core require unhappy much flee fuel";
+var mnemonic = "happy mind rate swap slab easily blush there tube neutral link produce";

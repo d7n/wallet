@@ -1,1 +1,1 @@
-var mnemonic = "clinic hire like fiber spare mimic scheme this high illegal mango faculty";
+var mnemonic = "hip nation knock eyebrow write finger hat abstract south rail trumpet involve";

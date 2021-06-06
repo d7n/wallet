@@ -1,1 +1,1 @@
-var mnemonic = "suit obscure fruit reunion churn item police box gather jaguar comfort friend";
+var mnemonic = "skill uphold salad tell wing kidney isolate copy expose glow candy crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve alien choose donate release glow blossom praise certain process chase ridge";
+var mnemonic = "symbol among front liberty awkward prize water camera giggle badge hedgehog actress";

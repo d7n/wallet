@@ -1,1 +1,1 @@
-var mnemonic = "giant cannon scout type wealth install poverty glare until trim knock extend";
+var mnemonic = "diesel bike solar gun table response shadow attitude diagram exist scene arch";

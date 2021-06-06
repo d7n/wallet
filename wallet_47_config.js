@@ -1,1 +1,1 @@
-var mnemonic = "physical merit lottery find muffin pepper divert gentle beauty domain spy ecology";
+var mnemonic = "nurse earth coyote lyrics useful exile inject man chair apology reopen grocery";

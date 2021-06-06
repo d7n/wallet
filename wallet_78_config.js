@@ -1,1 +1,1 @@
-var mnemonic = "wish lava someone alone benefit net present whale young dust install lawsuit";
+var mnemonic = "bike pear harsh reform sauce place maple useful vocal defense mountain device";

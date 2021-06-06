@@ -1,1 +1,1 @@
-var mnemonic = "sword life boss vague letter view cream memory position claw night loud";
+var mnemonic = "surprise barely ahead lemon empower surround degree potato disagree boring control kick";

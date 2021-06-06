@@ -1,1 +1,1 @@
-var mnemonic = "warrior burger already basic hamster fan unit outdoor soon acid bone hat";
+var mnemonic = "topic fork dog sunset frame off message stove swift direct mass hole";

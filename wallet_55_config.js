@@ -1,1 +1,1 @@
-var mnemonic = "tourist physical nephew accident happy hand mom orphan butter abuse bronze envelope";
+var mnemonic = "either cushion make argue child impact will wedding orphan rookie assault soldier";

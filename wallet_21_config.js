@@ -1,1 +1,1 @@
-var mnemonic = "can impulse recall belt curious memory spend fiscal gold teach brush grace";
+var mnemonic = "nuclear volume taste cancel web pupil club dance another lonely manual ski";

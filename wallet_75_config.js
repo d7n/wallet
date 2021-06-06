@@ -1,1 +1,1 @@
-var mnemonic = "dinner sadness apple close wave slab patient absent era churn wheat chief";
+var mnemonic = "box annual emotion cushion boat gown super leopard region fence consider dirt";

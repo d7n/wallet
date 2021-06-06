@@ -1,1 +1,1 @@
-var mnemonic = "sustain trial fork spatial brown kingdom media muscle inject mad calm two";
+var mnemonic = "primary mercy quarter excuse salad abstract setup path dragon mass fun seek";

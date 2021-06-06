@@ -1,1 +1,1 @@
-var mnemonic = "jealous can bridge much blood bench enjoy another rice amused month wheat";
+var mnemonic = "brand oblige scrub adjust muffin kingdom tomorrow similar choose dish what offer";

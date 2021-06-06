@@ -1,1 +1,1 @@
-var mnemonic = "protect bike vocal old roast rally typical pill pair card rabbit drive";
+var mnemonic = "tray feel emerge dry this federal stay dilemma giggle spray improve broom";

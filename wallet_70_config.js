@@ -1,1 +1,1 @@
-var mnemonic = "trust alone three bus quit record goat view history submit mixed meadow";
+var mnemonic = "front false you vacuum jar wisdom ensure latin velvet jungle ginger early";

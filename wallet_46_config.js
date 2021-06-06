@@ -1,1 +1,1 @@
-var mnemonic = "fruit stuff match cable unveil stable lab venue fabric truly music song";
+var mnemonic = "grant path board correct popular future walnut chase fall pumpkin subway cash";

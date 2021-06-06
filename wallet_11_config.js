@@ -1,1 +1,1 @@
-var mnemonic = "assault defense vacuum funny pave what hover old two cream one they";
+var mnemonic = "grant crazy extra seek fee ripple pen vessel bargain rally cave leopard";

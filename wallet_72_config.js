@@ -1,1 +1,1 @@
-var mnemonic = "head siege couch youth like possible wall will dial moon card vast";
+var mnemonic = "obscure boat weekend dilemma harbor genuine dog thrive essay during scorpion predict";

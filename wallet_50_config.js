@@ -1,1 +1,1 @@
-var mnemonic = "mind grit drive world maple pretty dove enough burden label deliver lend";
+var mnemonic = "mosquito velvet guard enact avocado cinnamon thumb attract pigeon deliver chair surface";

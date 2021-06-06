@@ -1,1 +1,1 @@
-var mnemonic = "mixed road grass fade sadness curious replace search side maximum hurdle unhappy";
+var mnemonic = "metal fold silk garage brother lunch equip acid spoil elbow drill blood";

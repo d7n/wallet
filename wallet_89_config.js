@@ -1,1 +1,1 @@
-var mnemonic = "tag file orchard palm sight rebuild people easy emotion foil garlic finger";
+var mnemonic = "seminar vivid welcome result company giant base enable can excess unhappy moment";

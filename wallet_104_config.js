@@ -1,1 +1,1 @@
-var mnemonic = "salon choice pride another elegant glimpse analyst unit harbor morning mixed juice";
+var mnemonic = "senior rack icon monitor slight cement glide leave lucky sock slogan action";

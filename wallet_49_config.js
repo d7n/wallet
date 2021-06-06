@@ -1,1 +1,1 @@
-var mnemonic = "tissue stuff spell address demise group depth fuel journey oblige alarm citizen";
+var mnemonic = "jacket trip friend utility attract whip remain there crunch agent ranch invest";

@@ -1,1 +1,1 @@
-var mnemonic = "pool van ribbon mule snake idea promote today prefer dragon unfair leader";
+var mnemonic = "vendor solution purity dose merit square assault fabric craft sense runway dilemma";

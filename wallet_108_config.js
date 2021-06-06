@@ -1,1 +1,1 @@
-var mnemonic = "dismiss envelope scrap giggle easily spin glare cute veteran scissors seed goose";
+var mnemonic = "segment napkin skirt vacant time company improve smile refuse erase shiver inflict";

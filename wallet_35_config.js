@@ -1,1 +1,1 @@
-var mnemonic = "tide word craft news acquire embrace bubble position review twenty loud wood";
+var mnemonic = "strike volume prefer month cram success piano must stage season wine like";

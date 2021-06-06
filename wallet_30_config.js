@@ -1,1 +1,1 @@
-var mnemonic = "butter equip vicious unknown test silent drink novel link poem fold fantasy";
+var mnemonic = "crowd arm history ozone rule morning visual habit join lyrics coil lawsuit";

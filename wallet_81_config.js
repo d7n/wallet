@@ -1,1 +1,1 @@
-var mnemonic = "faculty cannon radar then believe cigar slide old castle black brand volcano";
+var mnemonic = "jeans swarm dismiss chicken edge course evoke minimum lyrics open country chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "winter scissors gospel picture shift vast middle check enforce usage lemon lounge";
+var mnemonic = "amused oil dress trap jelly core nurse local boil frost gift they";

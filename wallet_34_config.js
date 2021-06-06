@@ -1,1 +1,1 @@
-var mnemonic = "modify exotic spray entire tent tuition circle alter phrase cabin edit crunch";
+var mnemonic = "vessel subject twist raccoon possible render ice skull horse boil reduce sorry";
