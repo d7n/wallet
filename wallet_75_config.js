@@ -1,1 +1,1 @@
-var mnemonic = "orbit plate oven pact dolphin wine piano trash abstract regret supreme toss";
+var mnemonic = "dinner sadness apple close wave slab patient absent era churn wheat chief";

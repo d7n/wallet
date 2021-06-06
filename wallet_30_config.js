@@ -1,1 +1,1 @@
-var mnemonic = "use peasant autumn into misery gather elevator wise teach cube forget answer";
+var mnemonic = "butter equip vicious unknown test silent drink novel link poem fold fantasy";

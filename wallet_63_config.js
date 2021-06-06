@@ -1,1 +1,1 @@
-var mnemonic = "limit coffee grain fashion return vague vault armor unique weather blouse kiss";
+var mnemonic = "clinic hire like fiber spare mimic scheme this high illegal mango faculty";

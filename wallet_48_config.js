@@ -1,1 +1,1 @@
-var mnemonic = "will pilot lake vacuum enemy prize slim update glare inflict flash rival";
+var mnemonic = "room breeze jaguar quiz bachelor forest oblige saddle tobacco bless myth bright";

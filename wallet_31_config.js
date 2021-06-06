@@ -1,1 +1,1 @@
-var mnemonic = "fame lottery burger ugly huge rubber unhappy staff sand benefit air express";
+var mnemonic = "meadow order cereal position peace stage track inmate word spend teach claim";

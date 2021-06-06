@@ -1,1 +1,1 @@
-var mnemonic = "envelope lonely patient twenty toe client cloth genuine blur theory doctor extra";
+var mnemonic = "flush palace blood clap pledge coral like exhaust seek screen spray sample";

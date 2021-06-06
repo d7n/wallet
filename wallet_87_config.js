@@ -1,1 +1,1 @@
-var mnemonic = "observe sentence success extend table embrace stable grape sister glove alone planet";
+var mnemonic = "recall firm hockey apple lens nurse trim genius flavor winner excuse style";

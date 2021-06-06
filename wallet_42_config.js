@@ -1,1 +1,1 @@
-var mnemonic = "near behind brain rent creek monitor end sphere wall region monitor develop";
+var mnemonic = "chimney transfer office amazing rabbit bamboo run reward hard desk company shine";

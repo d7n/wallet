@@ -1,1 +1,1 @@
-var mnemonic = "ask album apart elite rabbit appear life capital arrest garbage soul phone";
+var mnemonic = "physical merit lottery find muffin pepper divert gentle beauty domain spy ecology";

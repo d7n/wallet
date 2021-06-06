@@ -1,1 +1,1 @@
-var mnemonic = "flip mobile wonder immense diagram hope glimpse wife small soda simple spy";
+var mnemonic = "bronze dad history like mesh mobile arrest north orphan weasel margin fog";

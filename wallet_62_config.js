@@ -1,1 +1,1 @@
-var mnemonic = "tribe cruise rib minimum fragile lift avocado use struggle leopard april insane";
+var mnemonic = "mushroom muscle face property slab lyrics machine menu aisle home decrease cart";

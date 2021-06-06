@@ -1,1 +1,1 @@
-var mnemonic = "any eternal liar merit property average minute pyramid stool bring media noise";
+var mnemonic = "service load ramp glow eye kiss sunset search dance hawk amazing sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "west model nephew castle usage earn curve sound category army buffalo wisdom";
+var mnemonic = "volcano crazy chest recycle utility aerobic bless quality pill purpose crowd tennis";

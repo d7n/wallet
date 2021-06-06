@@ -1,1 +1,1 @@
-var mnemonic = "elite pelican skull boss nose range exchange flight earth age ribbon find";
+var mnemonic = "warrior burger already basic hamster fan unit outdoor soon acid bone hat";

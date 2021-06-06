@@ -1,1 +1,1 @@
-var mnemonic = "keep assault quality census robust grace talk town patch useless cabbage melt";
+var mnemonic = "danger buzz monster window mandate artist mansion walnut black aunt leisure utility";

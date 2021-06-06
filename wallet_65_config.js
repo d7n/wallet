@@ -1,1 +1,1 @@
-var mnemonic = "online carpet remain struggle cherry write school mixture task fuel exit tribe";
+var mnemonic = "mind oyster filter super sort bronze banana cross figure rely blade family";

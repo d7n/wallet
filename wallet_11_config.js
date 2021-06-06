@@ -1,1 +1,1 @@
-var mnemonic = "kid hurdle evolve twelve weapon task nation oak motor twice produce quality";
+var mnemonic = "assault defense vacuum funny pave what hover old two cream one they";

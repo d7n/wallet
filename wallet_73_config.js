@@ -1,1 +1,1 @@
-var mnemonic = "expose hurry inch come net inform crater bomb arrest angle female juice";
+var mnemonic = "mango pride task ski chat spider luggage guilt squeeze ability copper vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate warrior couch beach vague way wall believe bomb myself solve jelly";
+var mnemonic = "daughter donor enforce soup heart float robust nose remind task receive good";

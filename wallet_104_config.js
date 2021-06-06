@@ -1,1 +1,1 @@
-var mnemonic = "roof cheap wash distance priority bright seat credit reflect spice child blouse";
+var mnemonic = "salon choice pride another elegant glimpse analyst unit harbor morning mixed juice";

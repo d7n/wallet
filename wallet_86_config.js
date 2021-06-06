@@ -1,1 +1,1 @@
-var mnemonic = "hurt mean mimic puzzle certain kit bus cereal fluid spice sign tribe";
+var mnemonic = "seek uphold case adult trade auto key park hybrid viable foster foot";

@@ -1,1 +1,1 @@
-var mnemonic = "advice angle original text coin gate puppy ladder soccer shoulder lounge glad";
+var mnemonic = "trust alone three bus quit record goat view history submit mixed meadow";

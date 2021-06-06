@@ -1,1 +1,1 @@
-var mnemonic = "ordinary oppose gain eight spy travel penalty short gain mirror model ugly";
+var mnemonic = "tourist physical nephew accident happy hand mom orphan butter abuse bronze envelope";

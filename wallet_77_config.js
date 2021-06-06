@@ -1,1 +1,1 @@
-var mnemonic = "chat shoulder slab lock busy abstract rely envelope during noble live sponsor";
+var mnemonic = "ladder giant next seek wealth salt melt critic print enlist climb zero";

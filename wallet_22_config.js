@@ -1,1 +1,1 @@
-var mnemonic = "north anchor give sentence skirt dirt vintage rocket save blood recall can";
+var mnemonic = "unaware demand punch gallery slim fossil install summer pilot fork ski rack";

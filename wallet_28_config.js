@@ -1,1 +1,1 @@
-var mnemonic = "project cloth build cabin level slight list bottom foam swear abstract pond";
+var mnemonic = "buyer thunder royal fame uniform fee giggle derive friend guard drama busy";

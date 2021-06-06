@@ -1,1 +1,1 @@
-var mnemonic = "family happy gloom warrior fan tip glad slab bulk virus select message";
+var mnemonic = "quarter twice million pink fix potato garden metal science island demand arrest";

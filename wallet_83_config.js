@@ -1,1 +1,1 @@
-var mnemonic = "monster crisp public giggle elite bus walk episode unable where vague coast";
+var mnemonic = "infant noise never wood town vendor loan hundred ability rate road office";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus mammal voyage relief fun motion try tree analyst follow small crawl";
+var mnemonic = "wish lava someone alone benefit net present whale young dust install lawsuit";

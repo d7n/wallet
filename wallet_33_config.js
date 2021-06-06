@@ -1,1 +1,1 @@
-var mnemonic = "sheriff guitar connect staff rebel evil spoil power absurd casino magnet crew";
+var mnemonic = "sword life boss vague letter view cream memory position claw night loud";

@@ -1,1 +1,1 @@
-var mnemonic = "clip first ripple hamster aim bonus alpha glide food jazz above maple";
+var mnemonic = "across motor again boss author capital run priority glass differ flash hurry";

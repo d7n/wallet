@@ -1,1 +1,1 @@
-var mnemonic = "increase song poem early reunion crew boost finger solution devote brave wealth";
+var mnemonic = "leave behind problem slice hint file mesh fruit cactus village before alter";

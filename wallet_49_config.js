@@ -1,1 +1,1 @@
-var mnemonic = "diesel permit slush column rhythm miss double provide rate hunt lake rude";
+var mnemonic = "tissue stuff spell address demise group depth fuel journey oblige alarm citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp proud inform acid pretty alone loud super autumn marble gentle print";
+var mnemonic = "sea region spell carbon flash inherit crucial maid push foster target embrace";

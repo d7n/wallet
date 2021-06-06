@@ -1,1 +1,1 @@
-var mnemonic = "bean reveal run elephant sweet idle climb rail cushion filter figure have";
+var mnemonic = "leg celery august hobby coast clerk mango universe lava develop tenant tortoise";

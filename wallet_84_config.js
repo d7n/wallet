@@ -1,1 +1,1 @@
-var mnemonic = "derive beauty civil outer mule globe word luxury will rifle banana junk";
+var mnemonic = "stable say excess size polar notable dad foster raw text fiction there";

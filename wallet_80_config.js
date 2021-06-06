@@ -1,1 +1,1 @@
-var mnemonic = "unusual pole kiss picture poem puppy fabric devote rival city seek man";
+var mnemonic = "pattern often balcony chalk pill memory huge because edge strong snap steel";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic impose sudden busy emerge bunker duty hire peasant gloom observe skill";
+var mnemonic = "response equal maximum poet seek alarm evoke language velvet napkin face urge";

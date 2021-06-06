@@ -1,1 +1,1 @@
-var mnemonic = "craft crazy organ muscle elevator patch input what embrace slot narrow audit";
+var mnemonic = "dismiss envelope scrap giggle easily spin glare cute veteran scissors seed goose";

@@ -1,1 +1,1 @@
-var mnemonic = "stock punch mention minimum fruit become flee firm prevent green casual hair";
+var mnemonic = "believe brief paper chunk observe approve leaf exotic suffer category burger obtain";

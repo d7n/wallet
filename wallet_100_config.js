@@ -1,1 +1,1 @@
-var mnemonic = "drill credit ignore oven humble escape kitten perfect tornado gather shadow raven";
+var mnemonic = "lyrics knee topple bring olympic science tip guard gadget vivid cruise hawk";

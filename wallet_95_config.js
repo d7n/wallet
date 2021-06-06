@@ -1,1 +1,1 @@
-var mnemonic = "jealous merry siege game insect enough blur social away armor into electric";
+var mnemonic = "sustain trial fork spatial brown kingdom media muscle inject mad calm two";

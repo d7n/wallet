@@ -1,1 +1,1 @@
-var mnemonic = "please actor actor library disease crumble hold meat voice bulk carpet nerve";
+var mnemonic = "material exhaust hockey moral hold ask opera diamond allow garbage injury correct";

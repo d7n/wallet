@@ -1,1 +1,1 @@
-var mnemonic = "quit exile glare spice grace cloth poet asset hill love supply wear";
+var mnemonic = "can impulse recall belt curious memory spend fiscal gold teach brush grace";

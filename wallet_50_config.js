@@ -1,1 +1,1 @@
-var mnemonic = "false jungle chaos hundred animal market fame hold breeze width gate motor";
+var mnemonic = "mind grit drive world maple pretty dove enough burden label deliver lend";

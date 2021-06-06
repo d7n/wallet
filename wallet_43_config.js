@@ -1,1 +1,1 @@
-var mnemonic = "river client lunch raise sleep icon pole give live final explain swear";
+var mnemonic = "suit obscure fruit reunion churn item police box gather jaguar comfort friend";

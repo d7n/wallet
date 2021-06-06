@@ -1,1 +1,1 @@
-var mnemonic = "pluck junior blind lunar pigeon parade salon arrange diesel theory orange jeans";
+var mnemonic = "ceiling divorce steel fuel stairs evolve pair fragile loud dry horse tell";

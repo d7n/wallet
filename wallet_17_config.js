@@ -1,1 +1,1 @@
-var mnemonic = "near enrich wild tonight phrase tissue comic angle brand portion chunk cost";
+var mnemonic = "episode seed bleak unlock ticket crash behave brain dutch solid much secret";

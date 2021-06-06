@@ -1,1 +1,1 @@
-var mnemonic = "dice retire truck divide benefit hat unaware address prize neglect muscle unhappy";
+var mnemonic = "fruit stuff match cable unveil stable lab venue fabric truly music song";

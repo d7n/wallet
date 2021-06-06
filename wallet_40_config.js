@@ -1,1 +1,1 @@
-var mnemonic = "dance rail reject law fox apple envelope seven regular useful match slide";
+var mnemonic = "craft range blood tenant museum month alone opinion brisk shuffle doll chunk";

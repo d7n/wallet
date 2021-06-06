@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo tone dish sweet supply property cup salad magnet now smile flee";
+var mnemonic = "glance under artist agree can private army have chef huge lend trim";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger punch autumn tag latin nut primary train proud cactus token since";
+var mnemonic = "head siege couch youth like possible wall will dial moon card vast";

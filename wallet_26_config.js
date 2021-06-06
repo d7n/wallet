@@ -1,1 +1,1 @@
-var mnemonic = "swallow stock comic can exile once basic evil order nice lottery found";
+var mnemonic = "butter hospital exhaust toast fortune furnace draft city bring joy dose seat";

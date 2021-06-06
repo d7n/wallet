@@ -1,1 +1,1 @@
-var mnemonic = "awesome damage exercise size empower crouch gather edit unknown fan weekend argue";
+var mnemonic = "tragic hurdle buzz vivid general fortune boring hero lazy nation winner heart";

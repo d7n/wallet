@@ -1,1 +1,1 @@
-var mnemonic = "author clay very reunion can divide valve youth uniform grief farm alone";
+var mnemonic = "modify exotic spray entire tent tuition circle alter phrase cabin edit crunch";

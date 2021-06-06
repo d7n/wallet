@@ -1,1 +1,1 @@
-var mnemonic = "machine wonder deliver gossip weasel census taste bike toss few local element";
+var mnemonic = "maple draft minimum merry future still hair fix humble century arrange noise";

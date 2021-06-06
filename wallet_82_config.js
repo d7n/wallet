@@ -1,1 +1,1 @@
-var mnemonic = "expire ostrich escape quit cotton shell govern alien universe scorpion record answer";
+var mnemonic = "guilt resource music wife there split friend boost utility spoon slow artwork";

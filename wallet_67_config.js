@@ -1,1 +1,1 @@
-var mnemonic = "prison you behave armor shoulder thought april recipe bleak resist hazard color";
+var mnemonic = "true woman favorite match connect wool recipe balcony accident urge treat skin";

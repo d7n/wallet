@@ -1,1 +1,1 @@
-var mnemonic = "blind smoke margin virus annual pony deer chuckle quick bind tomorrow ethics";
+var mnemonic = "anchor permit picnic swim theory never village trick ancient sentence tuition catch";

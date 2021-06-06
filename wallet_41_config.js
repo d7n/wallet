@@ -1,1 +1,1 @@
-var mnemonic = "snack bargain case also tongue jungle naive helmet cushion behind oyster cannon";
+var mnemonic = "awesome capable element sting today sleep monster infant entry bonus spider typical";

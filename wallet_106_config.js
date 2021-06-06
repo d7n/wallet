@@ -1,1 +1,1 @@
-var mnemonic = "angry rotate element duck crazy whisper broom faith swim genius tornado undo";
+var mnemonic = "trophy brush combine mercy room organ people bag invite solution culture wealth";

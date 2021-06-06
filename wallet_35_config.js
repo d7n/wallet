@@ -1,1 +1,1 @@
-var mnemonic = "question peace hollow autumn image siege attract slice finish muffin fruit average";
+var mnemonic = "tide word craft news acquire embrace bubble position review twenty loud wood";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire into calm stable hurt law token end twist canal office word";
+var mnemonic = "liberty primary tunnel negative tenant stay wedding word manual you term chimney";

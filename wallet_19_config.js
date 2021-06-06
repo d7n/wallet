@@ -1,1 +1,1 @@
-var mnemonic = "century faculty gym coconut human glue brass flavor skirt hire ten impose";
+var mnemonic = "battle coil math tourist will stereo document genius tube insect victory calm";

@@ -1,1 +1,1 @@
-var mnemonic = "air latin rain mercy spray castle hotel behave junk clap frozen theme";
+var mnemonic = "corn lyrics improve multiply enough unit impulse jeans camp vague curve deposit";

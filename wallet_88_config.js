@@ -1,1 +1,1 @@
-var mnemonic = "put object timber tortoise dilemma creek undo saddle lottery maple memory blush";
+var mnemonic = "cart sustain husband inform puzzle control allow pattern letter blanket plate moon";

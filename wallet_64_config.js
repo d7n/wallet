@@ -1,1 +1,1 @@
-var mnemonic = "drama virtual coast flight rescue daring vintage tone gap barely enable knee";
+var mnemonic = "arrow couch say mesh regret net cradle rent fault buddy armed jump";

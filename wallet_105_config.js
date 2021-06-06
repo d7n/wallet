@@ -1,1 +1,1 @@
-var mnemonic = "endorse surprise amazing belt seek private hen monkey elite ocean method wolf";
+var mnemonic = "december book into corn orange about camera tourist account edge grit remove";

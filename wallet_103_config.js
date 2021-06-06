@@ -1,1 +1,1 @@
-var mnemonic = "pink little fetch phone rely danger crazy multiply elite perfect human relief";
+var mnemonic = "taxi record yellow cloth number demise radar awake cause weird moment debate";

@@ -1,1 +1,1 @@
-var mnemonic = "feel joy embrace demand walk foil film vessel nice grass eagle shy";
+var mnemonic = "public action bottom half staff tray advice cactus health carry notable naive";

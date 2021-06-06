@@ -1,1 +1,1 @@
-var mnemonic = "abandon degree beyond void fun metal elevator intact problem feel offer excuse";
+var mnemonic = "twelve alien choose donate release glow blossom praise certain process chase ridge";

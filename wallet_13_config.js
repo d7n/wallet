@@ -1,1 +1,1 @@
-var mnemonic = "lake grow citizen swamp sense loyal tell hammer survey outside weasel fiscal";
+var mnemonic = "olive ecology decrease interest midnight spread secret receive indicate fiber shoe spray";

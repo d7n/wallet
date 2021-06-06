@@ -1,1 +1,1 @@
-var mnemonic = "between parrot arena essay pipe void real burden joy runway keen company";
+var mnemonic = "mixed road grass fade sadness curious replace search side maximum hurdle unhappy";

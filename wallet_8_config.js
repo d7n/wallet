@@ -1,1 +1,1 @@
-var mnemonic = "tiger exotic razor citizen peasant vocal exact need two apple before energy";
+var mnemonic = "impulse mouse high release hip lunch neglect swim among fuel invest blade";

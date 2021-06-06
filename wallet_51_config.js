@@ -1,1 +1,1 @@
-var mnemonic = "chief depend domain sting inflict clever museum buyer can load soon key";
+var mnemonic = "trophy clip grunt owner size runway crucial trip solve plug surface gasp";

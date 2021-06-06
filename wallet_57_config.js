@@ -1,1 +1,1 @@
-var mnemonic = "churn rival seminar boost puzzle napkin retreat unable doctor obvious kitten patient";
+var mnemonic = "crater clown second walk scan hen option salute mosquito feature gallery arrow";

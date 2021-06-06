@@ -1,1 +1,1 @@
-var mnemonic = "want practice peace slogan ship green gate tiger west update vague sock";
+var mnemonic = "build prepare eternal account cool license surround horn obscure obvious only ecology";

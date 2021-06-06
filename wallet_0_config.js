@@ -1,1 +1,1 @@
-var mnemonic = "palace sponsor focus torch inherit protect wear limit miracle shoulder forum army";
+var mnemonic = "idle vessel frost soap bone dinosaur forget crop charge hundred wrestle radar";

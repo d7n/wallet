@@ -1,1 +1,1 @@
-var mnemonic = "fade depart excuse ship volume front drink salt cable orange bundle mixture";
+var mnemonic = "apple enlist dumb foam spread depend amount dinosaur trip edit nasty diet";

@@ -1,1 +1,1 @@
-var mnemonic = "produce define safe idea loop young vendor enroll crumble pupil rigid fork";
+var mnemonic = "pool van ribbon mule snake idea promote today prefer dragon unfair leader";

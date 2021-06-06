@@ -1,1 +1,1 @@
-var mnemonic = "thrive ladder student ranch obvious night day image unit ship chaos dash";
+var mnemonic = "stomach outer fringe jelly camera motion scheme aware umbrella explain height sheriff";

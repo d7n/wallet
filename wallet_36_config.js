@@ -1,1 +1,1 @@
-var mnemonic = "correct trigger drift height media prepare devote copper speak between work lazy";
+var mnemonic = "bulk above police slam sniff wrap track lobster tomorrow stone husband album";

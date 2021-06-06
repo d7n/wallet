@@ -1,1 +1,1 @@
-var mnemonic = "fat casino simple ignore across scrub organ include cargo buzz excite base";
+var mnemonic = "quarter moral wisdom input immense parade core require unhappy much flee fuel";

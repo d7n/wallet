@@ -1,1 +1,1 @@
-var mnemonic = "toilet law nose hover solve case undo corn public shine law buffalo";
+var mnemonic = "tribe summer scare assault flash joke month trick manage awful wrap mango";

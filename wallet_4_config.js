@@ -1,1 +1,1 @@
-var mnemonic = "ticket foil foil scale van carbon obscure seven scene run nature illegal";
+var mnemonic = "genius defy photo judge neutral inner convince quiz soup movie soon erupt";

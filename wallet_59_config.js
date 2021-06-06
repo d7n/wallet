@@ -1,1 +1,1 @@
-var mnemonic = "boy candy place knock invite evolve assist firm someone corn prefer sound";
+var mnemonic = "tool marriage canvas embody track ecology equal army soap pet betray entry";

@@ -1,1 +1,1 @@
-var mnemonic = "segment awful champion income unfold half retreat actual topple attend hat aerobic";
+var mnemonic = "bonus maid learn zoo mobile mutual else enforce coconut snow blush trumpet";

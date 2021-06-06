@@ -1,1 +1,1 @@
-var mnemonic = "quit adjust picture crunch employ early uncle carpet method aisle double minor";
+var mnemonic = "tomorrow rhythm solution success guard fish broom whisper grass horn else iron";

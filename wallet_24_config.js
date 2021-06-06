@@ -1,1 +1,1 @@
-var mnemonic = "hungry crisp seminar thumb mirror chat noble injury auto asset female bundle";
+var mnemonic = "winter scissors gospel picture shift vast middle check enforce usage lemon lounge";

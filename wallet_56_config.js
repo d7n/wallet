@@ -1,1 +1,1 @@
-var mnemonic = "eye laptop clinic equal sponsor cart quarter bonus sentence grief index punch";
+var mnemonic = "resist antique swim maid that emotion habit champion motion body fatigue dice";
