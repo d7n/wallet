@@ -1,1 +1,1 @@
-var mnemonic = "dove street hello penalty garlic razor actor public shy random group chest";
+var mnemonic = "rack burst light siren regret indoor nominee inch twenty local exotic squirrel";

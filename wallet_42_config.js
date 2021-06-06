@@ -1,1 +1,1 @@
-var mnemonic = "simple three sausage wedding this fork wolf hero want float electric practice";
+var mnemonic = "umbrella woman tourist fork predict milk brand horn mirror giant artwork convince";

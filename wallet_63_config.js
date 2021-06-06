@@ -1,1 +1,1 @@
-var mnemonic = "blade bacon pepper couple tilt early fee grab dutch agree alone couch";
+var mnemonic = "offer frost raccoon change wait ramp cube essay rocket corn pull own";

@@ -1,1 +1,1 @@
-var mnemonic = "runway garlic gym cool crucial cousin guilt doctor wink catalog casino work";
+var mnemonic = "analyst snake upper broccoli assault engine joke melody seat planet name crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz double coffee mirror burden sweet gate garage drive busy dentist mixed";
+var mnemonic = "fee auto mention parent pen person own hamster word galaxy income pioneer";

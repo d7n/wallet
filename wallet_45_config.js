@@ -1,1 +1,1 @@
-var mnemonic = "game loop stadium husband february hub hair poem assault ladder romance vendor";
+var mnemonic = "produce saddle direct total spatial produce book daughter public ahead resist pause";

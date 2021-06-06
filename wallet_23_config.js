@@ -1,1 +1,1 @@
-var mnemonic = "decrease check female voice inform hungry load popular loan ozone army industry";
+var mnemonic = "crucial remember jacket torch affair spawn submit thing describe process attend decade";

@@ -1,1 +1,1 @@
-var mnemonic = "media sick broom behind vessel wear hope suffer copy filter symbol enemy";
+var mnemonic = "inform evil position rally bread spice renew essence public crumble cement oblige";

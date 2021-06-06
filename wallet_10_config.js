@@ -1,1 +1,1 @@
-var mnemonic = "mother uncover skill another prosper elite secret twist foam bind shrug chalk";
+var mnemonic = "sad tuna vessel evidence rifle essence bicycle ship include bind asthma noise";

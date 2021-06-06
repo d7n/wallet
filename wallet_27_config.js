@@ -1,1 +1,1 @@
-var mnemonic = "blind type south tenant home bridge salute just insect sister ring used";
+var mnemonic = "note lyrics rib thing pluck afraid pyramid battle ride profit winter fruit";

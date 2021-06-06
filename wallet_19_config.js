@@ -1,1 +1,1 @@
-var mnemonic = "toilet embark hamster story tube deliver like arctic custom protect direct board";
+var mnemonic = "suffer immune hospital travel crater own trouble unfold siege speak forest piano";

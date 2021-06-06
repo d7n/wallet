@@ -1,1 +1,1 @@
-var mnemonic = "lumber sure duty wagon defy injury monkey turkey trend liberty clarify become";
+var mnemonic = "vintage region age poet today enrich dish rapid armed combine require slam";

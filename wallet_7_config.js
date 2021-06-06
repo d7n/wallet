@@ -1,1 +1,1 @@
-var mnemonic = "hen grass common combine cable tent world right trap prefer motor cargo";
+var mnemonic = "install digital nuclear check cat humble limb flip sentence actor short useful";

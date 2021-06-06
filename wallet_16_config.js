@@ -1,1 +1,1 @@
-var mnemonic = "alley humor quick atom riot camera spare season cabbage bring year crouch";
+var mnemonic = "earth glad spatial parrot earn pool novel bring snap force tongue hundred";

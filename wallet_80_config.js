@@ -1,1 +1,1 @@
-var mnemonic = "assume parrot negative box latin gospel limb call issue stool symbol enlist";
+var mnemonic = "limb cabin minimum fork sugar smooth gain seek enlist struggle tenant slush";

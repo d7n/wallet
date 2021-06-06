@@ -1,1 +1,1 @@
-var mnemonic = "equip ivory mandate document pretty exhibit argue know obey educate sight net";
+var mnemonic = "salmon unable plate ability old grant direct woman match because mimic update";

@@ -1,1 +1,1 @@
-var mnemonic = "axis onion silent news shuffle tail crime afraid level rich matter bundle";
+var mnemonic = "income sock plug uncle outer tennis latin large sketch just pumpkin crew";

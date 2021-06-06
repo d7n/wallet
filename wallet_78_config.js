@@ -1,1 +1,1 @@
-var mnemonic = "energy report buzz ill between wheat zoo leg object milk receive job";
+var mnemonic = "afford voice panther topic sorry depend grid clap summer garlic blame athlete";

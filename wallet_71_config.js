@@ -1,1 +1,1 @@
-var mnemonic = "lounge lunar author soup parent hybrid castle skull pony surround silent velvet";
+var mnemonic = "tunnel fence such fiber impose gloom fiber raise weekend affair better retire";

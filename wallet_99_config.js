@@ -1,1 +1,1 @@
-var mnemonic = "shift slab illness pact phone oval people betray faith cause tower disorder";
+var mnemonic = "warm live liar clerk north west industry garden good floor pulp manual";

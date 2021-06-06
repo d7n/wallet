@@ -1,1 +1,1 @@
-var mnemonic = "tongue shy flip crumble what menu frozen submit economy anxiety tent story";
+var mnemonic = "labor swim spread property hurry liar kidney note raise worry jungle garden";

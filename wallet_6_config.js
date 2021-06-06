@@ -1,1 +1,1 @@
-var mnemonic = "visit blind armed frost birth fortune direct wheel resist lesson tourist diary";
+var mnemonic = "spider drift you armed dress giggle hard unaware alarm ship repeat sunny";

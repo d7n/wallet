@@ -1,1 +1,1 @@
-var mnemonic = "illness ankle just forum key faint silent version vote harsh tooth end";
+var mnemonic = "disagree fatal humor faculty boat shove glue head flush yard street ramp";

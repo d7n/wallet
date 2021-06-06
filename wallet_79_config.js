@@ -1,1 +1,1 @@
-var mnemonic = "unfold scorpion bullet bar north shrimp exclude critic fatigue flag song dynamic";
+var mnemonic = "credit verb execute fantasy equip useful awkward breeze stumble cup brass clerk";

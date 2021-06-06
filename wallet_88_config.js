@@ -1,1 +1,1 @@
-var mnemonic = "okay use twenty dish power diesel ivory dial bleak bone curve genre";
+var mnemonic = "clever together used paddle negative choice coffee fame kind purpose push trophy";

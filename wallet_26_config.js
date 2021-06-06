@@ -1,1 +1,1 @@
-var mnemonic = "alien runway slab stadium crazy favorite opera bounce festival trust lawsuit movie";
+var mnemonic = "patch laptop carpet correct screen obtain oblige shoot ugly depth puzzle piece";

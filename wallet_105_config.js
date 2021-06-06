@@ -1,1 +1,1 @@
-var mnemonic = "verb require police bounce virus sniff boy laptop tourist movie situate vintage";
+var mnemonic = "cat lemon ladder apology drum antenna garbage vote list assist sell canal";

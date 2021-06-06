@@ -1,1 +1,1 @@
-var mnemonic = "jewel interest arctic glass wood season fabric reunion foil cotton expand radio";
+var mnemonic = "credit tornado firm record accident cry shrug palace idea pony enjoy abuse";

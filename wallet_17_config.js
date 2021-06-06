@@ -1,1 +1,1 @@
-var mnemonic = "baby session floor swear main badge current nurse jungle soup rib hawk";
+var mnemonic = "this brick forum kangaroo wine stay hurry sponsor arrive hope oak lamp";

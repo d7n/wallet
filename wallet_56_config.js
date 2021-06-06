@@ -1,1 +1,1 @@
-var mnemonic = "stick approve drill lobster consider focus latin scorpion similar equip cupboard name";
+var mnemonic = "spin tank scrap crumble bamboo fence loud mind card fantasy arena great";

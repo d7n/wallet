@@ -1,1 +1,1 @@
-var mnemonic = "east shiver tooth genuine trouble bone among spirit polar glass oven mobile";
+var mnemonic = "boring mushroom torch course else main scale crush bleak story negative sketch";

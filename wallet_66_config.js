@@ -1,1 +1,1 @@
-var mnemonic = "deny castle width curious exchange warm patient alert easily pool cloth artefact";
+var mnemonic = "satisfy rain tank select bird bounce august trap more small rifle merry";

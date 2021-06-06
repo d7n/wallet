@@ -1,1 +1,1 @@
-var mnemonic = "paddle west draft remind beauty address two arctic river dizzy outside abandon";
+var mnemonic = "birth nice release over secret vivid fog shell close veteran train umbrella";

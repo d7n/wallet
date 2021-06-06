@@ -1,1 +1,1 @@
-var mnemonic = "clog oxygen ten repair lobster fetch talk apology much sound only aerobic";
+var mnemonic = "speed scrub cluster eager segment allow garlic describe cute axis place quote";

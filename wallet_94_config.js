@@ -1,1 +1,1 @@
-var mnemonic = "lottery round blush recall fat betray perfect cycle naive park cousin shrug";
+var mnemonic = "judge gospel clerk glove easily file gospel balcony element walk million silk";

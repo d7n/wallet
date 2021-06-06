@@ -1,1 +1,1 @@
-var mnemonic = "mask bench twice square post mushroom list better trigger other valve rate";
+var mnemonic = "project scissors pause armed champion laugh also ivory arch scorpion piano useless";

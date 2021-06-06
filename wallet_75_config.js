@@ -1,1 +1,1 @@
-var mnemonic = "way hire story pencil achieve damage boy crisp federal torch shop vehicle";
+var mnemonic = "embark medal vote talk obey discover certain topic else awkward gas normal";

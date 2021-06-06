@@ -1,1 +1,1 @@
-var mnemonic = "burst ceiling divide milk airport club athlete wealth eagle acquire physical job";
+var mnemonic = "enable dress guess foot oak blade robot perfect onion predict question garden";

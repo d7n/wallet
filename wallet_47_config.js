@@ -1,1 +1,1 @@
-var mnemonic = "clip crush car park shell rabbit awkward pave net industry echo business";
+var mnemonic = "gossip bubble gravity trust style knee orbit rare ladder bleak unhappy vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "sting banner witness black camp acid iron exchange manual soldier hedgehog jump";
+var mnemonic = "start dentist knee resemble differ obscure two truly myth gift spawn fall";

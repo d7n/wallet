@@ -1,1 +1,1 @@
-var mnemonic = "need mad record dismiss olive liar manual bid lake erosion draft slender";
+var mnemonic = "ski coral deny output grow flag attack fancy purpose public aspect stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "language enough copper plastic access debris rocket daughter affair turkey right blind";
+var mnemonic = "main wall muscle fatal usual dad student execute disease divorce wild bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "manual april educate gauge rabbit drift pipe morning boost impulse mushroom often";
+var mnemonic = "wrong buddy raccoon vault season ridge cash range august mansion monster initial";

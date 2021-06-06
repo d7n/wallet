@@ -1,1 +1,1 @@
-var mnemonic = "afraid brain goose cross exact kit bridge road head rather turn census";
+var mnemonic = "bounce chuckle bread crane corn achieve under pattern aerobic sand across inmate";

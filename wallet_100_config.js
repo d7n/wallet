@@ -1,1 +1,1 @@
-var mnemonic = "virus worth industry promote humble rookie code solid web remember illegal swift";
+var mnemonic = "liar soldier core silly volume stuff furnace trial tiger joy recipe step";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd thought paddle voyage garden enforce rain surge shallow adjust can garment";
+var mnemonic = "price always grace tennis blush width museum nation ignore cycle prize keep";

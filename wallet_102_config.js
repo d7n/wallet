@@ -1,1 +1,1 @@
-var mnemonic = "side sweet fit shock oval artist turtle blood firm casino flavor oval";
+var mnemonic = "blue insect symptom better pyramid mask polar knee shield under beach tissue";

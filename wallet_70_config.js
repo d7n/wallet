@@ -1,1 +1,1 @@
-var mnemonic = "ensure rib diagram soap tape almost shy jazz security evoke cart assault";
+var mnemonic = "work total crawl comfort bacon word stool coyote insane hint noise volume";

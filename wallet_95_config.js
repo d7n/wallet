@@ -1,1 +1,1 @@
-var mnemonic = "bone decide theme expect vivid civil mammal tell pattern airport broccoli today";
+var mnemonic = "salon chimney potato expire retreat puzzle proud fiscal tiger board victory almost";

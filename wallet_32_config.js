@@ -1,1 +1,1 @@
-var mnemonic = "gorilla trophy absorb public short leaf lake treat kingdom cool install check";
+var mnemonic = "divide worry response focus miss embrace merge hunt egg hurry toss dream";

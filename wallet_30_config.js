@@ -1,1 +1,1 @@
-var mnemonic = "wave weather bottom act because make mixture appear tip security rule van";
+var mnemonic = "slim ahead napkin soccer twist trophy system figure ugly shed gauge nest";

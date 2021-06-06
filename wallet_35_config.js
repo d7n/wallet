@@ -1,1 +1,1 @@
-var mnemonic = "second tragic morning royal loop door venue baby save cancel harvest primary";
+var mnemonic = "project lottery flock blush minute comic pony despair estate edit mystery dragon";

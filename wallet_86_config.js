@@ -1,1 +1,1 @@
-var mnemonic = "bleak truth field solution thought people lawn truth fit burst flock suggest";
+var mnemonic = "onion special sauce athlete remember slogan engine inner garment crush trick chunk";

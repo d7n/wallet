@@ -1,1 +1,1 @@
-var mnemonic = "lucky nominee arrow panic doctor citizen chalk elephant typical meadow novel shed";
+var mnemonic = "oyster runway diagram aunt bar month retire layer juice dust art margin";

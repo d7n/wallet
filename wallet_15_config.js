@@ -1,1 +1,1 @@
-var mnemonic = "warm matrix rice favorite trim animal change real cause flat helmet hidden";
+var mnemonic = "near jealous taxi raw urge faith side emerge monitor mosquito document champion";

@@ -1,1 +1,1 @@
-var mnemonic = "soul pattern rotate lucky fabric grass large adult limb vote segment crouch";
+var mnemonic = "waste wreck machine traffic primary clerk group month debate define camera grow";

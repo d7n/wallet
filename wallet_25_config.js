@@ -1,1 +1,1 @@
-var mnemonic = "transfer hold rival census glow luxury reunion solar prison document domain shoe";
+var mnemonic = "ill what brass fancy decade breeze argue impulse course unusual grocery match";

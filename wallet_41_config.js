@@ -1,1 +1,1 @@
-var mnemonic = "erosion unable alter online raccoon able sausage advice awful vacant decrease twenty";
+var mnemonic = "pipe vanish hazard green fetch tip hedgehog behind child weapon tray disease";

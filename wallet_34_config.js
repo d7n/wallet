@@ -1,1 +1,1 @@
-var mnemonic = "gas hood verb april learn meat affair switch use armed beauty crouch";
+var mnemonic = "bulk dream again erosion fuel bag number system swing loan embrace brother";

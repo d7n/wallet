@@ -1,1 +1,1 @@
-var mnemonic = "obvious dwarf eye cheap arrest pair diagram puzzle agent enforce anchor kangaroo";
+var mnemonic = "life stem bicycle coil same whale target frog admit assist split school";

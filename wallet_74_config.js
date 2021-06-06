@@ -1,1 +1,1 @@
-var mnemonic = "bacon cradle prefer asthma suggest tent crouch insect civil hover wealth hospital";
+var mnemonic = "diet inflict ski measure toe screen spider hour absent innocent asthma truth";

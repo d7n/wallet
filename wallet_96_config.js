@@ -1,1 +1,1 @@
-var mnemonic = "garlic just valley cloud acquire pretty report order license frost modify display";
+var mnemonic = "glow market melody catalog broccoli pepper balcony apology sign toilet fabric habit";

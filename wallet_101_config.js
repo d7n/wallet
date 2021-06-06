@@ -1,1 +1,1 @@
-var mnemonic = "program sweet evoke dose trend casino toilet retire problem notice orient unlock";
+var mnemonic = "profit marble jacket found flower tennis goddess blanket again escape language wish";

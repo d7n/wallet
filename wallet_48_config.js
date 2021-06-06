@@ -1,1 +1,1 @@
-var mnemonic = "rapid gain honey forum dirt rubber pause scan deputy bright produce diet";
+var mnemonic = "fat quick famous suggest first giraffe then forest cancel digital disagree code";

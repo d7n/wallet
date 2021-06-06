@@ -1,1 +1,1 @@
-var mnemonic = "waste follow maple verb tail patch way merge include fiction favorite pistol";
+var mnemonic = "approve horse bitter alert find soccer aerobic benefit under rhythm giggle price";

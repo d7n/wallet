@@ -1,1 +1,1 @@
-var mnemonic = "bitter unfair shove someone door fossil cable margin allow furnace catch warrior";
+var mnemonic = "manage depart mandate this penalty argue label recycle width chronic mechanic abandon";

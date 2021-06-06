@@ -1,1 +1,1 @@
-var mnemonic = "rebuild stove scrap around small combine unhappy civil friend story truth fatal";
+var mnemonic = "kingdom tennis silly tank denial rather buffalo drive busy submit inform romance";

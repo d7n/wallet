@@ -1,1 +1,1 @@
-var mnemonic = "inspire chapter produce ordinary cushion soul capital wrestle dilemma hill sleep vendor";
+var mnemonic = "tunnel issue hawk gospel quality twelve shy system strategy jazz atom carpet";

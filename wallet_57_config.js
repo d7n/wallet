@@ -1,1 +1,1 @@
-var mnemonic = "gift snap drive buddy pond bronze develop frozen follow measure glad wing";
+var mnemonic = "pyramid stay fiction hurdle slow suit price thank claim table broom around";

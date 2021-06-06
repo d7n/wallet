@@ -1,1 +1,1 @@
-var mnemonic = "citizen pretty unfair cage front extra purse dove grant harbor member accident";
+var mnemonic = "cat flavor piano agent mix noise secret finger depend badge diagram outside";

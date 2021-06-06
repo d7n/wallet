@@ -1,1 +1,1 @@
-var mnemonic = "animal benefit increase pill detect silk work author announce embody usual become";
+var mnemonic = "club swamp spider novel crunch glimpse there glue mistake exit powder beach";

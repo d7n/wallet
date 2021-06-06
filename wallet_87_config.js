@@ -1,1 +1,1 @@
-var mnemonic = "car also flip foster ready goose detect spirit gate aspect such melody";
+var mnemonic = "portion disease true voice produce antique sphere utility flower rural arrive couple";

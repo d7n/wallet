@@ -1,1 +1,1 @@
-var mnemonic = "polar market beef purse essay blue bacon glove orbit educate caught want";
+var mnemonic = "giant update unknown innocent original lobster finish mercy all blush solve verify";

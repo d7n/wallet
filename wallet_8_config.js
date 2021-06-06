@@ -1,1 +1,1 @@
-var mnemonic = "dynamic move bus drip second arrest pull divide wasp rural speak debate";
+var mnemonic = "guilt cup tissue help ostrich obtain material laptop anxiety adjust case movie";

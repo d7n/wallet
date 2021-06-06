@@ -1,1 +1,1 @@
-var mnemonic = "youth ankle jacket economy brother decorate alien hollow upper senior banner disease";
+var mnemonic = "desk wrong atom someone solve once cake economy deputy marine fault mix";

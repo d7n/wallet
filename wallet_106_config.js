@@ -1,1 +1,1 @@
-var mnemonic = "track access spirit miss attitude math bridge wreck scrub today lucky matter";
+var mnemonic = "ritual jar stamp expose disagree bullet hungry board grab deal tumble fashion";

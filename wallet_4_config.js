@@ -1,1 +1,1 @@
-var mnemonic = "way exhibit smoke sport spirit canvas tube head visa bar verb left";
+var mnemonic = "eye make grab scorpion address truck object ripple capital vague culture cement";

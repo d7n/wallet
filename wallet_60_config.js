@@ -1,1 +1,1 @@
-var mnemonic = "exact exotic sleep guess that gown turtle husband author tunnel raven ask";
+var mnemonic = "draw task mean wagon fruit vendor address flight update patient holiday wisdom";

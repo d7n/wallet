@@ -1,1 +1,1 @@
-var mnemonic = "buzz jaguar globe garage duck beyond excuse govern exhibit evoke volume fat";
+var mnemonic = "blood gain athlete attack pet mean save issue decide index riot icon";

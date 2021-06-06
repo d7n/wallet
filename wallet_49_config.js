@@ -1,1 +1,1 @@
-var mnemonic = "flight fuel remind marble exotic vacuum author mimic evolve smart age domain";
+var mnemonic = "rebuild volcano treat wheel close oil obey onion scout fatigue dress sorry";

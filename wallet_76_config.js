@@ -1,1 +1,1 @@
-var mnemonic = "maze beyond truly dose industry couple exhaust forum chat sphere permit arm";
+var mnemonic = "baby cannon clock purity jump clever bomb fabric rail jungle cabin high";

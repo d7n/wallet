@@ -1,1 +1,1 @@
-var mnemonic = "arctic empty flavor fix jeans vault field chuckle insane mother supply mail";
+var mnemonic = "distance winter pitch two saddle chat flat easy pulp dove nation endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "arch almost shrug sketch genre general whip visa clock universe rude sponsor";
+var mnemonic = "neither pulp science vicious payment net ready wolf clean tomato icon danger";

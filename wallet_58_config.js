@@ -1,1 +1,1 @@
-var mnemonic = "fancy frequent laugh stage armor addict dirt scout defy present capable clarify";
+var mnemonic = "day give salt alone swarm tuition buddy nest today volcano code wrestle";

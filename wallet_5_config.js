@@ -1,1 +1,1 @@
-var mnemonic = "few wish ancient hire maximum turkey hammer aisle cheese used history plunge";
+var mnemonic = "ecology infant course when tissue army best need regret balcony taxi exhibit";

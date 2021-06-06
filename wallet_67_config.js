@@ -1,1 +1,1 @@
-var mnemonic = "open father purse eyebrow siren argue umbrella purity army cinnamon remove liberty";
+var mnemonic = "claw ordinary fish dial undo mule marine check man unaware popular spider";

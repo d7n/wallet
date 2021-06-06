@@ -1,1 +1,1 @@
-var mnemonic = "gold weapon turtle clip remove tower note session float expose crash offer";
+var mnemonic = "success margin genre jealous park stable record rail drop only grass evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "wage north edit retreat timber path bus view diesel enlist render person";
+var mnemonic = "dignity figure shrug access rabbit shine poverty jar shoulder nephew fragile omit";

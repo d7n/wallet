@@ -1,1 +1,1 @@
-var mnemonic = "note dust attack carpet typical fan rescue rescue sunny purpose animal great";
+var mnemonic = "wear inch friend pitch choose action crisp chimney impact fantasy way table";

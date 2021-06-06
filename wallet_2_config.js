@@ -1,1 +1,1 @@
-var mnemonic = "grant mask cute actress fantasy mistake honey celery insect rice embark frown";
+var mnemonic = "museum brother pen remain blood photo frown solar clog slim space sword";

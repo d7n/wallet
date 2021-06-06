@@ -1,1 +1,1 @@
-var mnemonic = "grape desk innocent digital embody divert number chaos buffalo cupboard exist kind";
+var mnemonic = "woman mammal fluid fox defy know helmet wise rigid copper liberty nose";

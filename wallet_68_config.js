@@ -1,1 +1,1 @@
-var mnemonic = "bulb force blade switch adjust carbon all stumble pottery crane they dose";
+var mnemonic = "nerve fold ride crane whisper thrive horn exile inhale miss giggle grow";
