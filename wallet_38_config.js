@@ -1,1 +1,1 @@
-var mnemonic = "kingdom tennis silly tank denial rather buffalo drive busy submit inform romance";
+var mnemonic = "tray firm glare senior brick army label sudden useful ethics silly depend";

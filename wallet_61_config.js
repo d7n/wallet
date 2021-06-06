@@ -1,1 +1,1 @@
-var mnemonic = "woman mammal fluid fox defy know helmet wise rigid copper liberty nose";
+var mnemonic = "sausage visa song patient boss van differ eyebrow act trumpet hole manual";

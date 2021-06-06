@@ -1,1 +1,1 @@
-var mnemonic = "birth nice release over secret vivid fog shell close veteran train umbrella";
+var mnemonic = "judge minute term treat student fitness weird clown riot dutch connect power";

@@ -1,1 +1,1 @@
-var mnemonic = "ill what brass fancy decade breeze argue impulse course unusual grocery match";
+var mnemonic = "van wasp hobby scale extra track disorder museum hero sunny announce hard";

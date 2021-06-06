@@ -1,1 +1,1 @@
-var mnemonic = "trouble token together melody road panel forum cruel mosquito provide dynamic coffee";
+var mnemonic = "either bean dawn dad isolate camera panther arrange lesson derive tuna improve";

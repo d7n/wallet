@@ -1,1 +1,1 @@
-var mnemonic = "boring mushroom torch course else main scale crush bleak story negative sketch";
+var mnemonic = "season silly purse index punch hurdle strike session six huge author style";

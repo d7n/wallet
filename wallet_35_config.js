@@ -1,1 +1,1 @@
-var mnemonic = "project lottery flock blush minute comic pony despair estate edit mystery dragon";
+var mnemonic = "visit infant soon radar sorry craft clip candy nice pass siren little";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon unable plate ability old grant direct woman match because mimic update";
+var mnemonic = "hero laundry time electric suffer swarm friend side electric clean detail clutch";

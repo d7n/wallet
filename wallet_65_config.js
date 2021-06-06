@@ -1,1 +1,1 @@
-var mnemonic = "blood gain athlete attack pet mean save issue decide index riot icon";
+var mnemonic = "thank conduct guide never clean stumble menu soap mammal away idle twelve";

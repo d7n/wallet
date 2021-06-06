@@ -1,1 +1,1 @@
-var mnemonic = "embark medal vote talk obey discover certain topic else awkward gas normal";
+var mnemonic = "gentle spread talk anchor retire mix century essence course live helmet gift";

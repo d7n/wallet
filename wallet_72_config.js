@@ -1,1 +1,1 @@
-var mnemonic = "rack burst light siren regret indoor nominee inch twenty local exotic squirrel";
+var mnemonic = "deposit kitten kangaroo april atom announce beef lumber earn together violin strike";

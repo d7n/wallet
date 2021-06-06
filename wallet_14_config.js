@@ -1,1 +1,1 @@
-var mnemonic = "labor swim spread property hurry liar kidney note raise worry jungle garden";
+var mnemonic = "canyon already high cherry trial degree mom law eager flame junk survey";

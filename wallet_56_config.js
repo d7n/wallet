@@ -1,1 +1,1 @@
-var mnemonic = "spin tank scrap crumble bamboo fence loud mind card fantasy arena great";
+var mnemonic = "sausage tent toy rapid fee shiver pause tonight denial supreme fiber tone";

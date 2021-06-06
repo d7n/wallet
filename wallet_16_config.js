@@ -1,1 +1,1 @@
-var mnemonic = "earth glad spatial parrot earn pool novel bring snap force tongue hundred";
+var mnemonic = "cinnamon apology distance pilot void together sound reform couch priority hope ecology";

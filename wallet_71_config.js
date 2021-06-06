@@ -1,1 +1,1 @@
-var mnemonic = "tunnel fence such fiber impose gloom fiber raise weekend affair better retire";
+var mnemonic = "victory sort path ethics world abstract vintage weather believe exotic scatter direct";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy rain tank select bird bounce august trap more small rifle merry";
+var mnemonic = "inmate nest frown mind thought dizzy dilemma company pill physical area document";

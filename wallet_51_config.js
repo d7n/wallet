@@ -1,1 +1,1 @@
-var mnemonic = "manage depart mandate this penalty argue label recycle width chronic mechanic abandon";
+var mnemonic = "check they skull usual recycle level diet enroll sure stadium spin fantasy";

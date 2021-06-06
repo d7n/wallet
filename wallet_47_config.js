@@ -1,1 +1,1 @@
-var mnemonic = "gossip bubble gravity trust style knee orbit rare ladder bleak unhappy vanish";
+var mnemonic = "lizard siren afford gloom ozone approve source height avoid candy virus lesson";

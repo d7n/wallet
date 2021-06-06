@@ -1,1 +1,1 @@
-var mnemonic = "afford voice panther topic sorry depend grid clap summer garlic blame athlete";
+var mnemonic = "slow fog young endless globe spirit dentist roast exhaust spider ankle side";

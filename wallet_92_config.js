@@ -1,1 +1,1 @@
-var mnemonic = "neither pulp science vicious payment net ready wolf clean tomato icon danger";
+var mnemonic = "end slide trophy purpose afford icon universe easily salt fee picture record";

@@ -1,1 +1,1 @@
-var mnemonic = "ready winner couple ethics beauty quit call you party cream bargain scissors";
+var mnemonic = "reduce spin echo outdoor soul bus involve stumble either fiction crime year";

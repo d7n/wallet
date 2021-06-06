@@ -1,1 +1,1 @@
-var mnemonic = "cook coyote mammal crew fabric nature beyond vicious evil dutch proof ridge";
+var mnemonic = "ensure erosion crane consider dune law argue fiber motion hurdle drop oppose";

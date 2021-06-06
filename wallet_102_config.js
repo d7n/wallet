@@ -1,1 +1,1 @@
-var mnemonic = "blue insect symptom better pyramid mask polar knee shield under beach tissue";
+var mnemonic = "ostrich square dry dragon enemy moral size tomorrow cliff satoshi favorite sustain";

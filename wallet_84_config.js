@@ -1,1 +1,1 @@
-var mnemonic = "project scissors pause armed champion laugh also ivory arch scorpion piano useless";
+var mnemonic = "enemy mouse trick device advice gun reject old journey young sense cherry";

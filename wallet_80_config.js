@@ -1,1 +1,1 @@
-var mnemonic = "limb cabin minimum fork sugar smooth gain seek enlist struggle tenant slush";
+var mnemonic = "bargain utility assault deer time measure wine route answer damp top trip";

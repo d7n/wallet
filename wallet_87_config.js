@@ -1,1 +1,1 @@
-var mnemonic = "portion disease true voice produce antique sphere utility flower rural arrive couple";
+var mnemonic = "explain zebra sport slot today fluid vacuum deliver reward key wire local";

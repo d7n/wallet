@@ -1,1 +1,1 @@
-var mnemonic = "guilt cup tissue help ostrich obtain material laptop anxiety adjust case movie";
+var mnemonic = "floor scene sand art cluster prepare garbage stem fat long stairs urge";

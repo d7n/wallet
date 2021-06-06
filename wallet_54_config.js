@@ -1,1 +1,1 @@
-var mnemonic = "bounce chuckle bread crane corn achieve under pattern aerobic sand across inmate";
+var mnemonic = "ordinary select kitten strategy van pink resource olive volume awful plastic runway";

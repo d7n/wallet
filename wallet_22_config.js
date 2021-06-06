@@ -1,1 +1,1 @@
-var mnemonic = "fold income hire ramp bachelor arch version shove trick client negative nephew";
+var mnemonic = "surface puzzle parrot health bitter wall raise top minimum found arctic north";

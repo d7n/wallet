@@ -1,1 +1,1 @@
-var mnemonic = "offer frost raccoon change wait ramp cube essay rocket corn pull own";
+var mnemonic = "enrich monitor foam jacket way warfare uniform dove strategy sword receive home";

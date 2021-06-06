@@ -1,1 +1,1 @@
-var mnemonic = "umbrella woman tourist fork predict milk brand horn mirror giant artwork convince";
+var mnemonic = "movie celery elder citizen supply capable divide maple connect nuclear tray infant";

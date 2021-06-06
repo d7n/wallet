@@ -1,1 +1,1 @@
-var mnemonic = "giant update unknown innocent original lobster finish mercy all blush solve verify";
+var mnemonic = "tattoo toast parade blur surprise wing library help magnet diesel find impact";

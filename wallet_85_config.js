@@ -1,1 +1,1 @@
-var mnemonic = "credit tornado firm record accident cry shrug palace idea pony enjoy abuse";
+var mnemonic = "drift sadness roof wonder daring target armor pyramid verify rural lobster category";

@@ -1,1 +1,1 @@
-var mnemonic = "credit verb execute fantasy equip useful awkward breeze stumble cup brass clerk";
+var mnemonic = "air amused author parent work cook crane puzzle unveil unknown source razor";

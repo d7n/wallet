@@ -1,1 +1,1 @@
-var mnemonic = "cat flavor piano agent mix noise secret finger depend badge diagram outside";
+var mnemonic = "current effort hover mixed child input table double unaware frame believe alert";

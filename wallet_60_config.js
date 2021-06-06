@@ -1,1 +1,1 @@
-var mnemonic = "draw task mean wagon fruit vendor address flight update patient holiday wisdom";
+var mnemonic = "unique used example universe silly ketchup harbor able raccoon chaos appear fire";

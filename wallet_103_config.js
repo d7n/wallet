@@ -1,1 +1,1 @@
-var mnemonic = "fee auto mention parent pen person own hamster word galaxy income pioneer";
+var mnemonic = "clinic hole border grocery trick final point soda spoon arch nephew hundred";

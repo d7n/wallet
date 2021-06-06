@@ -1,1 +1,1 @@
-var mnemonic = "retreat public aunt uphold this access phrase science pave dose diagram boring";
+var mnemonic = "frog visit emerge sign stomach dwarf spoon whisper comic drum reduce camera";

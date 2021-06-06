@@ -1,1 +1,1 @@
-var mnemonic = "income sock plug uncle outer tennis latin large sketch just pumpkin crew";
+var mnemonic = "carbon nose feed weird doll chest law crew pigeon hamster beef buzz";

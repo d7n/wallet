@@ -1,1 +1,1 @@
-var mnemonic = "success margin genre jealous park stable record rail drop only grass evidence";
+var mnemonic = "wasp correct ethics vicious uphold blue odor address okay account tragic math";

@@ -1,1 +1,1 @@
-var mnemonic = "club swamp spider novel crunch glimpse there glue mistake exit powder beach";
+var mnemonic = "tree van ethics palace toward tail story rapid topic truck match audit";

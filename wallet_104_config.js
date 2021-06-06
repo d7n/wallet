@@ -1,1 +1,1 @@
-var mnemonic = "start dentist knee resemble differ obscure two truly myth gift spawn fall";
+var mnemonic = "scrap unique unlock enemy camp smile toy supply say decrease analyst narrow";

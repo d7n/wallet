@@ -1,1 +1,1 @@
-var mnemonic = "duty smart doctor teach blind cloud phone science two remind crop profit";
+var mnemonic = "process obscure loan advice curve lumber angry doll series remain only wash";

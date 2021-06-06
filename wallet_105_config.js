@@ -1,1 +1,1 @@
-var mnemonic = "cat lemon ladder apology drum antenna garbage vote list assist sell canal";
+var mnemonic = "prison wall portion gasp sheriff nuclear already crawl argue winner box cat";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve fold ride crane whisper thrive horn exile inhale miss giggle grow";
+var mnemonic = "cradle hat notice economy usage famous illness moon bright fun tribe course";

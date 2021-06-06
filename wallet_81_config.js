@@ -1,1 +1,1 @@
-var mnemonic = "price always grace tennis blush width museum nation ignore cycle prize keep";
+var mnemonic = "design about soon day best oak sting lunar loud pool kitten shove";

@@ -1,1 +1,1 @@
-var mnemonic = "disagree fatal humor faculty boat shove glue head flush yard street ramp";
+var mnemonic = "upgrade brand retreat shoot exhibit arrest shove hour sister fossil post just";

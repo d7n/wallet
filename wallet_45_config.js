@@ -1,1 +1,1 @@
-var mnemonic = "produce saddle direct total spatial produce book daughter public ahead resist pause";
+var mnemonic = "bottom direct song frown endless stamp minute valley fresh test baby topple";

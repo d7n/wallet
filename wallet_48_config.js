@@ -1,1 +1,1 @@
-var mnemonic = "fat quick famous suggest first giraffe then forest cancel digital disagree code";
+var mnemonic = "zebra rocket smooth alert behind above long avoid raccoon assault run certain";

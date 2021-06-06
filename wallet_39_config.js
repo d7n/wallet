@@ -1,1 +1,1 @@
-var mnemonic = "ski coral deny output grow flag attack fancy purpose public aspect stomach";
+var mnemonic = "course energy poverty swap upper original disagree child tool suffer episode essay";

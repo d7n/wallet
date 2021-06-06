@@ -1,1 +1,1 @@
-var mnemonic = "chicken trade flame ivory aunt moon spot book describe any annual enlist";
+var mnemonic = "damp puppy example one six garbage risk exhaust battle foster learn lawsuit";

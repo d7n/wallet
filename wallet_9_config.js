@@ -1,1 +1,1 @@
-var mnemonic = "defy orange neither dragon fish adult world mixture bargain relax galaxy moment";
+var mnemonic = "marriage reform undo arch size cup lend leaf tennis cable room rapid";

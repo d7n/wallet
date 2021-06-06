@@ -1,1 +1,1 @@
-var mnemonic = "cousin orphan junk between minimum base cream add income buddy style famous";
+var mnemonic = "vivid bright girl cushion ship weird brown purity develop search rack rotate";

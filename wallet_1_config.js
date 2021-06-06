@@ -1,1 +1,1 @@
-var mnemonic = "dignity figure shrug access rabbit shine poverty jar shoulder nephew fragile omit";
+var mnemonic = "chronic memory nut mom gloom wrist aware reason fun puzzle endorse theme";

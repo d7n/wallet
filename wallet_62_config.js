@@ -1,1 +1,1 @@
-var mnemonic = "tunnel issue hawk gospel quality twelve shy system strategy jazz atom carpet";
+var mnemonic = "interest skirt cross park budget know hire seminar gentle toast jacket soul";

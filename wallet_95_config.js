@@ -1,1 +1,1 @@
-var mnemonic = "salon chimney potato expire retreat puzzle proud fiscal tiger board victory almost";
+var mnemonic = "fault key shiver axis rely glow hold valid image dragon abstract judge";

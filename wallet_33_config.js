@@ -1,1 +1,1 @@
-var mnemonic = "oyster runway diagram aunt bar month retire layer juice dust art margin";
+var mnemonic = "negative day rescue acoustic able journey change job jump top wheel funny";

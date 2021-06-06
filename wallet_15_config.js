@@ -1,1 +1,1 @@
-var mnemonic = "near jealous taxi raw urge faith side emerge monitor mosquito document champion";
+var mnemonic = "surround rely combine design own vehicle resemble size kitten neutral ticket mutual";

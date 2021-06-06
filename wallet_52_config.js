@@ -1,1 +1,1 @@
-var mnemonic = "inform evil position rally bread spice renew essence public crumble cement oblige";
+var mnemonic = "bike rival sunny index exchange peanut flush crop can pencil hour bacon";

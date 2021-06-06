@@ -1,1 +1,1 @@
-var mnemonic = "bulk dream again erosion fuel bag number system swing loan embrace brother";
+var mnemonic = "there exact license citizen craft curious exit reflect miracle security piece gown";

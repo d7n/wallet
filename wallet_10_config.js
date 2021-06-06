@@ -1,1 +1,1 @@
-var mnemonic = "sad tuna vessel evidence rifle essence bicycle ship include bind asthma noise";
+var mnemonic = "kiss grass wall lonely clinic once mimic boost truth visit obscure foil";

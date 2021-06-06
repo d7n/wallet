@@ -1,1 +1,1 @@
-var mnemonic = "couch reform script peace brown embrace simple wealth sort floor build blade";
+var mnemonic = "dismiss library boost simple bundle purity pluck ridge waste soap draw stone";

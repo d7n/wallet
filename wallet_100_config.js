@@ -1,1 +1,1 @@
-var mnemonic = "liar soldier core silly volume stuff furnace trial tiger joy recipe step";
+var mnemonic = "pond true pulp dream design tourist animal jar panic pole motor divert";

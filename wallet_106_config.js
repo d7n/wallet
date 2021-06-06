@@ -1,1 +1,1 @@
-var mnemonic = "ritual jar stamp expose disagree bullet hungry board grab deal tumble fashion";
+var mnemonic = "file smoke sound sleep scan rubber intact use caught fame tuition pitch";

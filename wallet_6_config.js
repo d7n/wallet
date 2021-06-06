@@ -1,1 +1,1 @@
-var mnemonic = "spider drift you armed dress giggle hard unaware alarm ship repeat sunny";
+var mnemonic = "utility erupt assist mask walnut swarm lottery punch glove mask garment police";

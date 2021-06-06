@@ -1,1 +1,1 @@
-var mnemonic = "profit marble jacket found flower tennis goddess blanket again escape language wish";
+var mnemonic = "exit believe wood holiday subject seat catch lion change young field about";

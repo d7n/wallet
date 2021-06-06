@@ -1,1 +1,1 @@
-var mnemonic = "install digital nuclear check cat humble limb flip sentence actor short useful";
+var mnemonic = "car artefact license robust penalty tourist earn reopen pluck prevent enable ill";

@@ -1,1 +1,1 @@
-var mnemonic = "carry chicken theory purse plate pumpkin meat great raccoon food enough retire";
+var mnemonic = "shoe neither dignity march opinion vessel clutch casino obtain report lunch lock";

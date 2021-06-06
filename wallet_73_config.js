@@ -1,1 +1,1 @@
-var mnemonic = "waste wreck machine traffic primary clerk group month debate define camera grow";
+var mnemonic = "gaze rigid merit patient system horn net bullet note wink sheriff festival";

@@ -1,1 +1,1 @@
-var mnemonic = "clever together used paddle negative choice coffee fame kind purpose push trophy";
+var mnemonic = "average clown luxury orbit flash million olive area shy cousin leader ability";

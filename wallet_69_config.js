@@ -1,1 +1,1 @@
-var mnemonic = "duck fiction flip between modify action must raw turn gospel squirrel fame";
+var mnemonic = "quick replace grab check payment key leopard girl reflect equal win then";

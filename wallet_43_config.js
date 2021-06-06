@@ -1,1 +1,1 @@
-var mnemonic = "sick raise divert neck pool thing claw social donate airport differ rotate";
+var mnemonic = "zero else mixed toward cover antenna chef scorpion helmet animal wife small";

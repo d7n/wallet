@@ -1,1 +1,1 @@
-var mnemonic = "approve horse bitter alert find soccer aerobic benefit under rhythm giggle price";
+var mnemonic = "orphan lend economy sea dust junior peasant donor dentist category coconut deputy";

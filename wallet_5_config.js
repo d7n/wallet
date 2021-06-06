@@ -1,1 +1,1 @@
-var mnemonic = "ecology infant course when tissue army best need regret balcony taxi exhibit";
+var mnemonic = "creek moral acquire appear change spare crucial receive fat exclude worry fresh";

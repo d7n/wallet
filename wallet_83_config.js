@@ -1,1 +1,1 @@
-var mnemonic = "wrong buddy raccoon vault season ridge cash range august mansion monster initial";
+var mnemonic = "tomorrow buffalo cloth ride cloth come assault magic hole silk six enlist";

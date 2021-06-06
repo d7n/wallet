@@ -1,1 +1,1 @@
-var mnemonic = "roast foster clip abstract save final awkward coast buzz notable narrow crack";
+var mnemonic = "appear broccoli myself between history screen job mushroom staff poet confirm engine";

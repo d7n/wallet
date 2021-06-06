@@ -1,1 +1,1 @@
-var mnemonic = "dose note theme prevent wine head stone bulk phone original weekend rate";
+var mnemonic = "aisle dream tuition energy casual mutual firm saddle return garbage rich direct";

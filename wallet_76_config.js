@@ -1,1 +1,1 @@
-var mnemonic = "baby cannon clock purity jump clever bomb fabric rail jungle cabin high";
+var mnemonic = "market hazard hurry invest lamp loyal meadow jungle web dust toe legend";

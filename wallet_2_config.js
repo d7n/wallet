@@ -1,1 +1,1 @@
-var mnemonic = "museum brother pen remain blood photo frown solar clog slim space sword";
+var mnemonic = "card ring ethics melody near movie upon obscure depth liar magnet salad";

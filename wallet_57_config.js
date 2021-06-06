@@ -1,1 +1,1 @@
-var mnemonic = "pyramid stay fiction hurdle slow suit price thank claim table broom around";
+var mnemonic = "column extend leave release apple fragile measure barrel doctor hamster often attitude";

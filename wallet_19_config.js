@@ -1,1 +1,1 @@
-var mnemonic = "suffer immune hospital travel crater own trouble unfold siege speak forest piano";
+var mnemonic = "young enrich sleep normal type select tonight okay meadow wolf ribbon worry";

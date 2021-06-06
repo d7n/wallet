@@ -1,1 +1,1 @@
-var mnemonic = "slim ahead napkin soccer twist trophy system figure ugly shed gauge nest";
+var mnemonic = "produce update when answer panda welcome tide innocent wear visa can convince";

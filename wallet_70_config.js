@@ -1,1 +1,1 @@
-var mnemonic = "work total crawl comfort bacon word stool coyote insane hint noise volume";
+var mnemonic = "canoe spell fatal dress welcome acoustic comfort metal twist valve vanish recycle";

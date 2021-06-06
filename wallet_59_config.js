@@ -1,1 +1,1 @@
-var mnemonic = "estate juice broken cram brain case all seek security giant arrow pledge";
+var mnemonic = "output deny enlist expect nasty reunion icon powder coil shoulder enact bean";

@@ -1,1 +1,1 @@
-var mnemonic = "eye make grab scorpion address truck object ripple capital vague culture cement";
+var mnemonic = "flower fiction candy tennis tooth jacket drastic amazing since limit agent output";

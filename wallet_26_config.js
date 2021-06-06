@@ -1,1 +1,1 @@
-var mnemonic = "patch laptop carpet correct screen obtain oblige shoot ugly depth puzzle piece";
+var mnemonic = "hood law when say test disease kite edge expect exotic can rigid";

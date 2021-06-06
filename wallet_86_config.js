@@ -1,1 +1,1 @@
-var mnemonic = "onion special sauce athlete remember slogan engine inner garment crush trick chunk";
+var mnemonic = "mean garbage apart cook fish milk skill scan adjust design bar game";

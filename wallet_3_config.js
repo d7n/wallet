@@ -1,1 +1,1 @@
-var mnemonic = "wear inch friend pitch choose action crisp chimney impact fantasy way table";
+var mnemonic = "friend clay slice around liquid pull sample place broom frozen prefer rule";

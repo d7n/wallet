@@ -1,1 +1,1 @@
-var mnemonic = "life stem bicycle coil same whale target frog admit assist split school";
+var mnemonic = "pumpkin boy kind traffic trade enter aim lawsuit robot alpha risk lend";

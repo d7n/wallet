@@ -1,1 +1,1 @@
-var mnemonic = "rebuild volcano treat wheel close oil obey onion scout fatigue dress sorry";
+var mnemonic = "kid wagon boost prevent explain tent inform street social color addict drink";
