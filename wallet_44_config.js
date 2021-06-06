@@ -1,1 +1,1 @@
-var mnemonic = "tent meat front cupboard silent decorate napkin army flee embark switch ladder";
+var mnemonic = "prison volume hazard party february hold industry radio enough genre property voice";

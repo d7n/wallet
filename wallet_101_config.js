@@ -1,1 +1,1 @@
-var mnemonic = "promote isolate spray squeeze broken height common save parade mention cereal account";
+var mnemonic = "floor brief brave receive great draft off speed luxury draw mean camera";

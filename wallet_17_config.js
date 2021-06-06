@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow cake ecology obvious fish link ride please zone tool rug grid";
+var mnemonic = "bulb kick almost cat hand magic unveil slender bitter cup cake marble";

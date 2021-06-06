@@ -1,1 +1,1 @@
-var mnemonic = "blind never rose idea clap devote sweet always laundry frame bring thrive";
+var mnemonic = "alert recall virus solve abandon blouse trial clock glimpse must local indicate";

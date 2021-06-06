@@ -1,1 +1,1 @@
-var mnemonic = "robot know soon abstract rifle pluck code chimney seek legend weather imitate";
+var mnemonic = "giraffe song turkey spot hub pudding comic recipe square swarm snap ketchup";

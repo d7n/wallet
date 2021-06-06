@@ -1,1 +1,1 @@
-var mnemonic = "horror fan urge trumpet never reason matrix cry shoe hurry fiber coral";
+var mnemonic = "say cupboard toddler crash spy pool brown figure convince gospel flag lumber";

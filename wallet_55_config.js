@@ -1,1 +1,1 @@
-var mnemonic = "evidence park require shed cheese team water panther fatal forget pupil model";
+var mnemonic = "surround truly twice syrup garage warm poem remind shuffle crawl drink fog";

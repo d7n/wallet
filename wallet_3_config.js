@@ -1,1 +1,1 @@
-var mnemonic = "company exclude behave skirt already live woman mesh joy page admit catalog";
+var mnemonic = "forest heart lazy purse faint sauce smoke curious horse rain insane desk";

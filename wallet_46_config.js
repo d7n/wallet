@@ -1,1 +1,1 @@
-var mnemonic = "say behind slide urban example polar fiber water shoulder drama wet someone";
+var mnemonic = "apart belt morning focus response arm tumble monkey rely easily friend toward";

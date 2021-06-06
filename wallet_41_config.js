@@ -1,1 +1,1 @@
-var mnemonic = "flavor upon list student robot law rhythm spare life devote topple total";
+var mnemonic = "illegal couple nest shrimp inflict entire cereal negative method meadow life online";

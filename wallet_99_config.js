@@ -1,1 +1,1 @@
-var mnemonic = "hard common tenant zoo piece crack bargain exit dutch issue sentence large";
+var mnemonic = "thank forget labor fresh hold despair coconut person pool alone pair debate";

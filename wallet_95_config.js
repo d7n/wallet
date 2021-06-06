@@ -1,1 +1,1 @@
-var mnemonic = "another ball high task key drill reveal sight party noodle vacuum turn";
+var mnemonic = "zebra reflect present guilt grace chest mutual convince bind jar civil buffalo";

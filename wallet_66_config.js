@@ -1,1 +1,1 @@
-var mnemonic = "great ticket bulb network load change achieve ignore valley tunnel detect original";
+var mnemonic = "describe flag kiwi brief guide fever cotton reject reunion deputy apology orient";

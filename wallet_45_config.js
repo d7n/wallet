@@ -1,1 +1,1 @@
-var mnemonic = "vacuum family green curious situate seven ritual suggest hidden gadget sauce rule";
+var mnemonic = "garlic boring since bean robust man machine expand stone photo power hello";

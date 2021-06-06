@@ -1,1 +1,1 @@
-var mnemonic = "bubble shell pulse crowd tip amount scheme husband flush pioneer film expire";
+var mnemonic = "extend regular caught act fox because enter asset pulse old access almost";

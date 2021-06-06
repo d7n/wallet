@@ -1,1 +1,1 @@
-var mnemonic = "shadow tuna naive dumb invest figure repair place vapor clever art provide";
+var mnemonic = "judge liar six adapt frost route worth foil betray wink badge radio";

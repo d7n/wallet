@@ -1,1 +1,1 @@
-var mnemonic = "tool account fortune bachelor essay toy deny extend seat access swing twin";
+var mnemonic = "gate orbit situate beef rose close lab federal dose liar sad dice";

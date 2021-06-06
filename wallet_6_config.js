@@ -1,1 +1,1 @@
-var mnemonic = "birth reform submit trim three retire lazy copper chief final total term";
+var mnemonic = "analyst cause right apart grain gallery fiction service soul million ivory limit";

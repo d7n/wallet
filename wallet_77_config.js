@@ -1,1 +1,1 @@
-var mnemonic = "census message casual cherry rabbit verb mass day casino sea unaware sudden";
+var mnemonic = "ask cheap boil robot siege camp half traffic badge then polar drink";

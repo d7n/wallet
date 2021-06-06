@@ -1,1 +1,1 @@
-var mnemonic = "word come lesson mother obscure achieve toe ten report joke pill system";
+var mnemonic = "main kangaroo false assist kitten stomach history upgrade dose ozone dry width";

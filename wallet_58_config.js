@@ -1,1 +1,1 @@
-var mnemonic = "cave slight logic portion favorite bike tattoo slice chimney improve enroll labor";
+var mnemonic = "ensure legal extend news develop setup shuffle insane panda cream snake catch";

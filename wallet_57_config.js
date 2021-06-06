@@ -1,1 +1,1 @@
-var mnemonic = "gun blind reopen clean slogan summer tornado much garlic awesome suspect situate";
+var mnemonic = "critic taste people deliver struggle glass describe fury woman shop hire million";

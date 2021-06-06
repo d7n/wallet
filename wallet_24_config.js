@@ -1,1 +1,1 @@
-var mnemonic = "crazy science acquire rail cost version coffee unaware sing false next museum";
+var mnemonic = "arm return morning confirm arch share trophy exit broccoli fish venue shield";

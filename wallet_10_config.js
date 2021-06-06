@@ -1,1 +1,1 @@
-var mnemonic = "photo mind clown enough ghost inquiry foam village book parrot confirm garage";
+var mnemonic = "someone brave danger end humor spawn truly banana enough category midnight entire";

@@ -1,1 +1,1 @@
-var mnemonic = "toy vendor slogan bomb fancy enemy wrap amused blind teach penalty arrest";
+var mnemonic = "cannon lizard embark reason thought what cheese spot combine apology rate toy";

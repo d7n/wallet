@@ -1,1 +1,1 @@
-var mnemonic = "list again stumble ring cluster any dog cream aisle drop sign earth";
+var mnemonic = "ticket master quantum shrug list renew wave demise satisfy soldier assume welcome";

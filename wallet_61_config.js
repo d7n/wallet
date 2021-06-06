@@ -1,1 +1,1 @@
-var mnemonic = "team access enact reduce duck clinic water release fix skate truck domain";
+var mnemonic = "roof act clump detect soldier canyon soft check female script move session";

@@ -1,1 +1,1 @@
-var mnemonic = "talk meat patrol tissue carpet machine switch orbit hello impose arctic maze";
+var mnemonic = "cloud captain donkey sand eye fork amazing fold trigger vendor box middle";

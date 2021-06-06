@@ -1,1 +1,1 @@
-var mnemonic = "stomach tornado come cradle citizen usual copper mandate cheese deputy close moon";
+var mnemonic = "mom already orphan taste swift gym unaware swap appear want diesel diamond";

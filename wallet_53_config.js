@@ -1,1 +1,1 @@
-var mnemonic = "permit faculty merge champion peace robust chalk alpha unveil fruit toast boat";
+var mnemonic = "mirror toward frown make ability equip fame parent top funny orchard crop";

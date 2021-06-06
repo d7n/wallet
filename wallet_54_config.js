@@ -1,1 +1,1 @@
-var mnemonic = "elder exist kiwi offer dawn device seat cliff explain dash exclude absorb";
+var mnemonic = "theme sand eyebrow bulk spare stem barely trophy tortoise faint various flight";

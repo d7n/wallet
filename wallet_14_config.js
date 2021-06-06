@@ -1,1 +1,1 @@
-var mnemonic = "tail pigeon alone episode target skin outdoor record arrest keen taxi leave";
+var mnemonic = "blade wage renew awesome version spell salt please journey gallery hurdle arctic";

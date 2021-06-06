@@ -1,1 +1,1 @@
-var mnemonic = "open where only win page page solar rebel very relax loud cart";
+var mnemonic = "twelve cluster oxygen route dizzy cover brand morning extend trip warrior praise";

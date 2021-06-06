@@ -1,1 +1,1 @@
-var mnemonic = "brave panel slide sword stand current robust enjoy abstract copper kitten boil";
+var mnemonic = "upset asset shadow swallow forget device drill roast course youth about valid";

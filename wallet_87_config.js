@@ -1,1 +1,1 @@
-var mnemonic = "own actual sock glad clarify present plate rare taste wink note use";
+var mnemonic = "wild sniff anger stumble island maid machine night require foam garbage custom";

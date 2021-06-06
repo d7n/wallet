@@ -1,1 +1,1 @@
-var mnemonic = "please gown skirt crazy actress normal comfort bubble opera water chest asthma";
+var mnemonic = "vast old sing recipe gadget kiwi trap dish once naive health wagon";

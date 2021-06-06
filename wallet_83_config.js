@@ -1,1 +1,1 @@
-var mnemonic = "spend husband cloth pioneer renew labor magnet mobile rail insect ladder indoor";
+var mnemonic = "cross enforce nasty fantasy athlete vapor bring notable expire pitch meadow motion";

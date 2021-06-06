@@ -1,1 +1,1 @@
-var mnemonic = "volume face shock car travel silver draft blood grief day cute pledge";
+var mnemonic = "east sudden begin try divide matter drive fury doll note behave because";

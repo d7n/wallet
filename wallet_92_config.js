@@ -1,1 +1,1 @@
-var mnemonic = "pudding exhibit pig repeat very throw source verify convince prison gorilla material";
+var mnemonic = "resist humor river catalog interest behave magnet game guilt outside clean odor";

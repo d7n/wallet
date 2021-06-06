@@ -1,1 +1,1 @@
-var mnemonic = "fall problem then exclude candy food raven become brave powder oppose immune";
+var mnemonic = "lawn reflect faculty lecture lesson castle visual release plastic insane top patch";

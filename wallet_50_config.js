@@ -1,1 +1,1 @@
-var mnemonic = "market victory organ exhaust lab horror food donor option rack chase struggle";
+var mnemonic = "seven current salad sister casino soldier consider senior annual open grab person";

@@ -1,1 +1,1 @@
-var mnemonic = "spray income prevent south grief exclude angry state plunge crawl motor saddle";
+var mnemonic = "weasel agree helmet stool attack grit balance give adult myth bullet bamboo";

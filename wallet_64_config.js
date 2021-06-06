@@ -1,1 +1,1 @@
-var mnemonic = "bright clinic kiss decade blind sure make produce goose snow expect permit";
+var mnemonic = "salmon ridge allow boss hello elder mercy poet mad tunnel ski vital";

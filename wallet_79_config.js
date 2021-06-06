@@ -1,1 +1,1 @@
-var mnemonic = "measure robust labor loop task gentle teach defense universe then blade basic";
+var mnemonic = "nation web finger civil vicious stable giant imitate hand march digital belt";

@@ -1,1 +1,1 @@
-var mnemonic = "treat design saddle inmate gather crazy canyon holiday joy nasty habit melt";
+var mnemonic = "text dream head call earth reopen nephew cabin amount happy glare access";

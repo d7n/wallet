@@ -1,1 +1,1 @@
-var mnemonic = "lens net frozen steak mixture useless exhibit find neglect pass river patrol";
+var mnemonic = "ski talk ripple hammer tongue oblige inside glance hand twice twelve home";

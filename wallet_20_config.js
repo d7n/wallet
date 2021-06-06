@@ -1,1 +1,1 @@
-var mnemonic = "entry butter damp arm board car school slot sadness decide point divide";
+var mnemonic = "section destroy upon torch enemy build sure stove opera arm response program";

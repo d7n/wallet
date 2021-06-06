@@ -1,1 +1,1 @@
-var mnemonic = "cream jealous meat dragon wisdom put ecology satoshi maple amount slice project";
+var mnemonic = "roast vast crush zebra hen tragic group orbit attract mother joy below";

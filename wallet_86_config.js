@@ -1,1 +1,1 @@
-var mnemonic = "lens joke check fluid fun blanket gather cherry remain find toss angry";
+var mnemonic = "vault price cave recipe pool eye explain term add slot exchange sail";

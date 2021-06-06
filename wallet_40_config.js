@@ -1,1 +1,1 @@
-var mnemonic = "long timber ill smoke ivory sphere hamster town quality object chef cruise";
+var mnemonic = "palace humble ordinary educate easy reopen insect fine prize develop tornado gallery";

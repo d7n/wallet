@@ -1,1 +1,1 @@
-var mnemonic = "practice mobile pet disagree soup oak brother bitter blood imitate pelican shock";
+var mnemonic = "drip media shift bullet riot project what strong benefit arm either become";

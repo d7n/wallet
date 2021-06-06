@@ -1,1 +1,1 @@
-var mnemonic = "mixture lock world basket plate glow rubber frown uncle broken tumble shoot";
+var mnemonic = "curve awake curious print arrive surface alert under shadow escape inch tongue";

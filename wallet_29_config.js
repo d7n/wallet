@@ -1,1 +1,1 @@
-var mnemonic = "pool drum document argue mouse release snap diagram viable slot inner panda";
+var mnemonic = "mountain square sunset vote dilemma length close rabbit gloom vacant faculty cave";

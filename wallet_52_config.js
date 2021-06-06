@@ -1,1 +1,1 @@
-var mnemonic = "under pottery assume local poem comfort twice foam glimpse good convince swift";
+var mnemonic = "chalk repeat knife crouch spoon improve observe century grape client prosper maximum";

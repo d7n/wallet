@@ -1,1 +1,1 @@
-var mnemonic = "provide atom wild before jealous long subway pair oblige silk history disagree";
+var mnemonic = "fabric maid away kid brother ready rose noodle emotion fun hurry neglect";

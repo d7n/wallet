@@ -1,1 +1,1 @@
-var mnemonic = "share uncle neglect brick boat desert deliver game submit behave address balance";
+var mnemonic = "drive crack noise present humble lock tongue lesson garment beauty apple primary";

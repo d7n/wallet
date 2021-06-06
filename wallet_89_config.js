@@ -1,1 +1,1 @@
-var mnemonic = "elegant miracle sauce type icon orbit village day black repeat coast camera";
+var mnemonic = "right announce report ritual army piano spy suggest moon select icon head";

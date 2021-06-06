@@ -1,1 +1,1 @@
-var mnemonic = "state year flush dwarf bone reunion alpha rain visit scatter essence harsh";
+var mnemonic = "want proof fancy kidney client interest issue nasty shoot tornado outer time";

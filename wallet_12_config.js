@@ -1,1 +1,1 @@
-var mnemonic = "observe axis twin three uncle ranch amazing coyote lend letter vintage dust";
+var mnemonic = "usage window casino subject resist scrub music easy glass game cabbage young";

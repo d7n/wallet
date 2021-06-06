@@ -1,1 +1,1 @@
-var mnemonic = "differ any clean blouse robust uncle fuel time fan observe cause drill";
+var mnemonic = "mask setup improve task diamond usual cotton hello level trophy glare sister";

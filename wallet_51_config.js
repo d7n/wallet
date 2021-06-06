@@ -1,1 +1,1 @@
-var mnemonic = "daughter rule text deputy tomorrow sun another shuffle glory mad until fat";
+var mnemonic = "candy student report train display spray announce enemy law question clap wait";

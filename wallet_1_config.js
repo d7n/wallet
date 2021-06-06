@@ -1,1 +1,1 @@
-var mnemonic = "return tide bulb frost boy series find swarm impulse inhale rubber cattle";
+var mnemonic = "deny diagram yard voice acid hurt shrimp gown fix term gym doll";

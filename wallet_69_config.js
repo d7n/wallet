@@ -1,1 +1,1 @@
-var mnemonic = "nice tree violin file shrug disorder risk among spell bullet swing region";
+var mnemonic = "village inmate maximum wisdom title number goat dinner dish erode whip blanket";

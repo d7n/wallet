@@ -1,1 +1,1 @@
-var mnemonic = "between donkey solar sudden enjoy beef rather typical grocery develop funny census";
+var mnemonic = "bridge shop token object woman wine evidence double unique great divorce since";

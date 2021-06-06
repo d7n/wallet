@@ -1,1 +1,1 @@
-var mnemonic = "pistol save setup usage give sad reunion forward asset govern outdoor mobile";
+var mnemonic = "album stumble grape april shallow struggle agree depend brand hobby absurd garden";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella onion camp exchange slim turtle zebra buyer there blue lemon fresh";
+var mnemonic = "energy material reject sock fit face neglect season satoshi jungle age sister";

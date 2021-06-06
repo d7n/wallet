@@ -1,1 +1,1 @@
-var mnemonic = "mix disorder service donkey ill surround slam october upset tragic voyage scale";
+var mnemonic = "soccer favorite lawn margin outer away upper cattle donkey scare bullet agent";

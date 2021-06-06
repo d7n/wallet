@@ -1,1 +1,1 @@
-var mnemonic = "foot fish medal iron blouse toy capital skirt void canvas place bicycle";
+var mnemonic = "lazy shoe pool chair nature can faint people burden admit field mango";

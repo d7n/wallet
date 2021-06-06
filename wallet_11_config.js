@@ -1,1 +1,1 @@
-var mnemonic = "scheme message swing skin hard test drastic trumpet similar dawn possible original";
+var mnemonic = "planet liberty beach share because river broccoli tenant home win spend inject";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic napkin heart juice come knife relax market recall swear live matrix";
+var mnemonic = "lazy kit nuclear once hello document leopard bid crouch fossil ostrich tide";

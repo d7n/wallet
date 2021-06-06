@@ -1,1 +1,1 @@
-var mnemonic = "teach hedgehog cry kick abandon border twenty palm cave orient chuckle version";
+var mnemonic = "tone drum cram strike silver benefit weekend bronze enhance light connect leaf";

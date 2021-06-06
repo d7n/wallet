@@ -1,1 +1,1 @@
-var mnemonic = "runway barely grunt canal unveil gossip unknown detect anxiety crowd initial zero";
+var mnemonic = "crucial orange cake seek pudding olive space come drip audit salt million";

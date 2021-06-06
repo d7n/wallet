@@ -1,1 +1,1 @@
-var mnemonic = "equip recycle quality gossip acoustic reunion tunnel sun silent angle brisk defense";
+var mnemonic = "repeat over design flash isolate quote unaware exotic erase upset empty nose";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt strategy scheme ugly fluid belt garment cloud buffalo mother toddler school";
+var mnemonic = "tuition blue neck vocal ship sing slide wear culture depend tomorrow tired";

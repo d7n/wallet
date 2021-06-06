@@ -1,1 +1,1 @@
-var mnemonic = "zoo either member cinnamon blood abuse plate ginger method pencil muffin outside";
+var mnemonic = "clinic escape antique supply body slice dignity live exact member inquiry museum";

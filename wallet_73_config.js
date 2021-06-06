@@ -1,1 +1,1 @@
-var mnemonic = "height peace clown glad enact about alcohol across sunset rough action brisk";
+var mnemonic = "suit symptom special any dice vote credit party icon april estate diesel";

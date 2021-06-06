@@ -1,1 +1,1 @@
-var mnemonic = "choice remain web sell state laundry place harvest oyster sheriff liquid cage";
+var mnemonic = "abstract dish off sample hood quiz nature grass gaze thumb solar family";

@@ -1,1 +1,1 @@
-var mnemonic = "boat left local furnace doll avoid maple long unveil bonus clown cram";
+var mnemonic = "uniform sentence regular fan hand wrestle track artwork toilet build december thought";

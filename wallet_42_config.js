@@ -1,1 +1,1 @@
-var mnemonic = "galaxy bless lonely purchase pigeon horn brown draft silly baby media reveal";
+var mnemonic = "dumb mechanic radio devote explain rain shaft furnace spare detail squeeze weird";

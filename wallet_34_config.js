@@ -1,1 +1,1 @@
-var mnemonic = "wave chimney fence canoe coral safe drum decrease drama stick genuine subway";
+var mnemonic = "december march slogan vast place report total absurd govern appear thank october";

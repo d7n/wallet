@@ -1,1 +1,1 @@
-var mnemonic = "omit energy admit energy repeat trumpet sleep staff cousin plug used dragon";
+var mnemonic = "frame power heavy tide upper code stem acquire pull network hip hard";

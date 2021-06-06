@@ -1,1 +1,1 @@
-var mnemonic = "clump merit fantasy husband public destroy same expand beyond simple mutual hunt";
+var mnemonic = "agent large fancy damage student uncover double social gesture grain phone forum";

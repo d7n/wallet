@@ -1,1 +1,1 @@
-var mnemonic = "soft one soda rose shed where dance casino open camp suffer asthma";
+var mnemonic = "right warfare manual sword sting pluck tell budget dirt final abuse cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden knee brisk strong deputy evidence good lemon mixed foil way argue";
+var mnemonic = "harsh way planet surge unaware paper rebel plastic indoor acoustic virus swamp";

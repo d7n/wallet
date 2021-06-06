@@ -1,1 +1,1 @@
-var mnemonic = "swing monitor buffalo bring potato asthma mercy gun garden enemy elbow entry";
+var mnemonic = "liquid smile twist shoulder that nature lake ritual topic insane there stool";

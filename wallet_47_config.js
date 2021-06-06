@@ -1,1 +1,1 @@
-var mnemonic = "true rose spend disagree enhance private can follow tide apple renew fiscal";
+var mnemonic = "vacant note wreck ugly below learn enact total paper swallow gas assault";

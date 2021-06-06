@@ -1,1 +1,1 @@
-var mnemonic = "select orient link employ heavy strike source shy duty loyal perfect useful";
+var mnemonic = "visit doll legal knock fit gadget fitness private couple denial accuse pretty";

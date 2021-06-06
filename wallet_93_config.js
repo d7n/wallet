@@ -1,1 +1,1 @@
-var mnemonic = "six bacon elbow indoor echo carry month web domain rack crater sport";
+var mnemonic = "boil because permit kiss arrow enjoy cover rhythm leaf old annual thing";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse provide charge cargo deposit surround slush tuition resemble until opinion spot";
+var mnemonic = "letter fine romance ability chase aisle vanish ancient mandate sport royal warm";

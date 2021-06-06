@@ -1,1 +1,1 @@
-var mnemonic = "taxi harbor kidney knee crater vehicle movie have multiply amazing stamp march";
+var mnemonic = "alarm ten cancel rival surprise fan about ready hawk absorb sunset fog";
