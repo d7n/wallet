@@ -1,1 +1,1 @@
-var mnemonic = "subject toilet negative draw math toward mosquito dismiss total wasp galaxy guess";
+var mnemonic = "cherry raise rebuild team hole oak sibling collect thought robust best leisure";

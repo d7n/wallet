@@ -1,1 +1,1 @@
-var mnemonic = "evoke capable fan robust resource pledge world retire later pride milk normal";
+var mnemonic = "blade bacon pepper couple tilt early fee grab dutch agree alone couch";

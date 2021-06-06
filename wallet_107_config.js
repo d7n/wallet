@@ -1,1 +1,1 @@
-var mnemonic = "brand double heart goat answer delay cross raise host advance unique gentle";
+var mnemonic = "lumber sure duty wagon defy injury monkey turkey trend liberty clarify become";

@@ -1,1 +1,1 @@
-var mnemonic = "title still inner quantum metal puppy owner void young marble dial fat";
+var mnemonic = "media sick broom behind vessel wear hope suffer copy filter symbol enemy";

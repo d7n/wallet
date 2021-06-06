@@ -1,1 +1,1 @@
-var mnemonic = "strategy fly champion razor excite random caught bring ecology derive sick apple";
+var mnemonic = "bacon cradle prefer asthma suggest tent crouch insect civil hover wealth hospital";

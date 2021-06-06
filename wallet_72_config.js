@@ -1,1 +1,1 @@
-var mnemonic = "fortune melt crew rent firm gather august outdoor vivid ranch picnic pass";
+var mnemonic = "dove street hello penalty garlic razor actor public shy random group chest";

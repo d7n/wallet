@@ -1,1 +1,1 @@
-var mnemonic = "stick village job quarter misery long dismiss slide green west soda piece";
+var mnemonic = "illness ankle just forum key faint silent version vote harsh tooth end";

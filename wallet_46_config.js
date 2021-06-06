@@ -1,1 +1,1 @@
-var mnemonic = "chief expect benefit slide arrest blouse inject napkin plug draw gym ignore";
+var mnemonic = "people submit rocket unveil awake base gospel few edit add silly replace";

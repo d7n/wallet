@@ -1,1 +1,1 @@
-var mnemonic = "analyst comfort small armor hotel bubble hungry fade session thumb illegal warrior";
+var mnemonic = "track access spirit miss attitude math bridge wreck scrub today lucky matter";

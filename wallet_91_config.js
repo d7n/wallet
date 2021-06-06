@@ -1,1 +1,1 @@
-var mnemonic = "uniform rubber visual void receive brick sure destroy young program wife velvet";
+var mnemonic = "obvious dwarf eye cheap arrest pair diagram puzzle agent enforce anchor kangaroo";

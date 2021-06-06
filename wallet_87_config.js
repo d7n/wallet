@@ -1,1 +1,1 @@
-var mnemonic = "insect student tomorrow cattle survey wrap cricket source gallery renew slide erosion";
+var mnemonic = "car also flip foster ready goose detect spirit gate aspect such melody";

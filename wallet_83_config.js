@@ -1,1 +1,1 @@
-var mnemonic = "keen simple island today connect sponsor depart material street enhance walnut express";
+var mnemonic = "manual april educate gauge rabbit drift pipe morning boost impulse mushroom often";

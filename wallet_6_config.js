@@ -1,1 +1,1 @@
-var mnemonic = "spoon zoo force dog action desk team skirt depth rubber suffer picnic";
+var mnemonic = "visit blind armed frost birth fortune direct wheel resist lesson tourist diary";

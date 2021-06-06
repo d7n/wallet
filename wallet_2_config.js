@@ -1,1 +1,1 @@
-var mnemonic = "scissors lawn critic summer parade point rack spin cage amount fat flight";
+var mnemonic = "grant mask cute actress fantasy mistake honey celery insect rice embark frown";

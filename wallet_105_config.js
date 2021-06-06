@@ -1,1 +1,1 @@
-var mnemonic = "pole figure health nerve stand true ignore object end joy marble bounce";
+var mnemonic = "verb require police bounce virus sniff boy laptop tourist movie situate vintage";

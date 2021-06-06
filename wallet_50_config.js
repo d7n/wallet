@@ -1,1 +1,1 @@
-var mnemonic = "super peasant decorate useful boring observe coach fortune patient manual tourist blouse";
+var mnemonic = "abandon oval bounce royal ritual sad wonder announce sleep carbon invest innocent";

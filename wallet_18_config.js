@@ -1,1 +1,1 @@
-var mnemonic = "never brief dinner filter material peasant unaware bronze uniform lobster february account";
+var mnemonic = "nice torch citizen merry palm gentle chunk credit diagram super exile memory";

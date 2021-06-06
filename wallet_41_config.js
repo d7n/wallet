@@ -1,1 +1,1 @@
-var mnemonic = "zoo else improve crowd energy destroy casino burger book title blossom south";
+var mnemonic = "erosion unable alter online raccoon able sausage advice awful vacant decrease twenty";

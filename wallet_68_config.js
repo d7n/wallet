@@ -1,1 +1,1 @@
-var mnemonic = "fish time unveil appear panic quiz define grape between spray above ignore";
+var mnemonic = "bulb force blade switch adjust carbon all stumble pottery crane they dose";

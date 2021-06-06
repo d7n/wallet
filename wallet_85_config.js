@@ -1,1 +1,1 @@
-var mnemonic = "east cry unhappy art prosper fluid vibrant digital offer burden onion hockey";
+var mnemonic = "jewel interest arctic glass wood season fabric reunion foil cotton expand radio";

@@ -1,1 +1,1 @@
-var mnemonic = "endless grit maze device mystery cute trust nerve occur way cage observe";
+var mnemonic = "inspire chapter produce ordinary cushion soul capital wrestle dilemma hill sleep vendor";

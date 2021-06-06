@@ -1,1 +1,1 @@
-var mnemonic = "image bundle real word alter flip fabric country monkey abandon expire half";
+var mnemonic = "stick approve drill lobster consider focus latin scorpion similar equip cupboard name";

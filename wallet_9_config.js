@@ -1,1 +1,1 @@
-var mnemonic = "junior screen media issue twist carry puzzle teach above gather soldier essay";
+var mnemonic = "mammal soup setup same champion seat output style casual minute scrap rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "bless rebuild spice icon host fringe hurt gain border orbit brass cotton";
+var mnemonic = "loan force luggage apart chief casino below casino palm carpet indicate border";

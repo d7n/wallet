@@ -1,1 +1,1 @@
-var mnemonic = "amused swallow foam black siege casino buddy inform topic city creek gesture";
+var mnemonic = "flight fuel remind marble exotic vacuum author mimic evolve smart age domain";

@@ -1,1 +1,1 @@
-var mnemonic = "sea behave divorce bachelor horse sausage diesel trend tattoo super damage snow";
+var mnemonic = "glance catalog fresh adjust sword emerge quit slow clog spring antique fit";

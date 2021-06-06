@@ -1,1 +1,1 @@
-var mnemonic = "athlete music rebuild access ball organ empty vehicle maid innocent used wide";
+var mnemonic = "lucky nominee arrow panic doctor citizen chalk elephant typical meadow novel shed";

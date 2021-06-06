@@ -1,1 +1,1 @@
-var mnemonic = "surprise frame census agree pass pyramid quiz crazy immune winner blush broken";
+var mnemonic = "runway garlic gym cool crucial cousin guilt doctor wink catalog casino work";

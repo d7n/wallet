@@ -1,1 +1,1 @@
-var mnemonic = "glass trouble people air shoot guilt bird initial early issue saddle include";
+var mnemonic = "bitter unfair shove someone door fossil cable margin allow furnace catch warrior";

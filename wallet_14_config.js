@@ -1,1 +1,1 @@
-var mnemonic = "agree tree bullet planet regular metal weird any bacon broken nephew govern";
+var mnemonic = "tongue shy flip crumble what menu frozen submit economy anxiety tent story";

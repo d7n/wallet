@@ -1,1 +1,1 @@
-var mnemonic = "fence crater harvest plug picnic animal tobacco pigeon slam zebra animal gold";
+var mnemonic = "maze beyond truly dose industry couple exhaust forum chat sphere permit arm";

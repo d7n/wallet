@@ -1,1 +1,1 @@
-var mnemonic = "giraffe glass library valley cruise zebra raven keep oak pelican escape bicycle";
+var mnemonic = "fantasy crucial wild tiger nothing chest own circle dignity bird helmet sign";

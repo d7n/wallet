@@ -1,1 +1,1 @@
-var mnemonic = "elite always road various swear clarify before wage echo velvet museum convince";
+var mnemonic = "language cliff coyote venue use cheap music prevent effort kind merit mention";

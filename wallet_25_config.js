@@ -1,1 +1,1 @@
-var mnemonic = "shuffle tourist retreat victory gaze rifle unfair auction clap history sweet make";
+var mnemonic = "transfer hold rival census glow luxury reunion solar prison document domain shoe";

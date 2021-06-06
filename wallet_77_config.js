@@ -1,1 +1,1 @@
-var mnemonic = "winter two gain tide hour dust tennis comic like sure mask mango";
+var mnemonic = "income length whisper choice pig bus client sing tray mom skill quality";

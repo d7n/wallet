@@ -1,1 +1,1 @@
-var mnemonic = "year enable ethics tomato coach scheme pupil comic dutch glide fiction rare";
+var mnemonic = "bleak truth field solution thought people lawn truth fit burst flock suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver describe treat cattle vendor pencil quarter educate behind index foot gorilla";
+var mnemonic = "toilet embark hamster story tube deliver like arctic custom protect direct board";

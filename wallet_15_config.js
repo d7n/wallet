@@ -1,1 +1,1 @@
-var mnemonic = "special still treat enter knife pistol grief blur skull soccer clutch taste";
+var mnemonic = "warm matrix rice favorite trim animal change real cause flat helmet hidden";

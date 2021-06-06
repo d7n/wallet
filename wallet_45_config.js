@@ -1,1 +1,1 @@
-var mnemonic = "object brush damp deny flight rebel define there chuckle bomb saddle alter";
+var mnemonic = "game loop stadium husband february hub hair poem assault ladder romance vendor";

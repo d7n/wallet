@@ -1,1 +1,1 @@
-var mnemonic = "reopen orange hair since century chair trip wreck novel legal mule detect";
+var mnemonic = "shift slab illness pact phone oval people betray faith cause tower disorder";

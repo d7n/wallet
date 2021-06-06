@@ -1,1 +1,1 @@
-var mnemonic = "scissors gesture fruit rival math castle aspect high knock solid sing orphan";
+var mnemonic = "assume parrot negative box latin gospel limb call issue stool symbol enlist";

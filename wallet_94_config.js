@@ -1,1 +1,1 @@
-var mnemonic = "small future hockey chimney track chapter hour hamster usage visual gasp typical";
+var mnemonic = "lottery round blush recall fat betray perfect cycle naive park cousin shrug";

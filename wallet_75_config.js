@@ -1,1 +1,1 @@
-var mnemonic = "few destroy buffalo abandon roast ivory slush liberty develop liquid frozen tell";
+var mnemonic = "way hire story pencil achieve damage boy crisp federal torch shop vehicle";

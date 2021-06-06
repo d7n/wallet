@@ -1,1 +1,1 @@
-var mnemonic = "public concert valley helmet mesh club woman network witness spot misery weapon";
+var mnemonic = "axis onion silent news shuffle tail crime afraid level rich matter bundle";

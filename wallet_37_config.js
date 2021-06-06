@@ -1,1 +1,1 @@
-var mnemonic = "million actress clog basket assist rocket spin melody advice ugly total sketch";
+var mnemonic = "polar market beef purse essay blue bacon glove orbit educate caught want";

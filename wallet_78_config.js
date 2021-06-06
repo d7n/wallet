@@ -1,1 +1,1 @@
-var mnemonic = "route steel entry proof square brisk refuse pledge way brisk humor right";
+var mnemonic = "energy report buzz ill between wheat zoo leg object milk receive job";

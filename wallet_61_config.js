@@ -1,1 +1,1 @@
-var mnemonic = "super machine width crystal exotic army scrap size slab song example age";
+var mnemonic = "grape desk innocent digital embody divert number chaos buffalo cupboard exist kind";

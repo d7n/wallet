@@ -1,1 +1,1 @@
-var mnemonic = "lion lyrics kingdom employ board sadness raise uniform sunset grass ancient offer";
+var mnemonic = "burst ceiling divide milk airport club athlete wealth eagle acquire physical job";

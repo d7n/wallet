@@ -1,1 +1,1 @@
-var mnemonic = "service visit hawk way eyebrow spring grace clutch travel gasp visa betray";
+var mnemonic = "second tragic morning royal loop door venue baby save cancel harvest primary";

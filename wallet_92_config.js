@@ -1,1 +1,1 @@
-var mnemonic = "empty throw soldier sell pond shop text eagle way face charge inflict";
+var mnemonic = "arch almost shrug sketch genre general whip visa clock universe rude sponsor";

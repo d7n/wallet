@@ -1,1 +1,1 @@
-var mnemonic = "fruit unique twist system industry spot night ill boss image gadget deer";
+var mnemonic = "clog oxygen ten repair lobster fetch talk apology much sound only aerobic";

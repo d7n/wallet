@@ -1,1 +1,1 @@
-var mnemonic = "dynamic grid off february cycle fiction observe plastic scare outside slight forget";
+var mnemonic = "deny castle width curious exchange warm patient alert easily pool cloth artefact";

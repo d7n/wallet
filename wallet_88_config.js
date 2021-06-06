@@ -1,1 +1,1 @@
-var mnemonic = "mass minute unable marine emotion cousin daughter finger spray age write fame";
+var mnemonic = "okay use twenty dish power diesel ivory dial bleak bone curve genre";

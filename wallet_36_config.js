@@ -1,1 +1,1 @@
-var mnemonic = "park silk fish marble save scrap flame grief tackle witness oven nasty";
+var mnemonic = "waste follow maple verb tail patch way merge include fiction favorite pistol";

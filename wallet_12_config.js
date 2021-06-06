@@ -1,1 +1,1 @@
-var mnemonic = "heavy jump tornado tornado weapon double motion mimic cloud left can foil";
+var mnemonic = "arctic empty flavor fix jeans vault field chuckle insane mother supply mail";

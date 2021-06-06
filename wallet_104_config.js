@@ -1,1 +1,1 @@
-var mnemonic = "chicken scene want business athlete hover mind badge canoe royal science any";
+var mnemonic = "sting banner witness black camp acid iron exchange manual soldier hedgehog jump";

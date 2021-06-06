@@ -1,1 +1,1 @@
-var mnemonic = "excess violin dilemma harvest remind glove notable close puppy tornado base silk";
+var mnemonic = "afraid brain goose cross exact kit bridge road head rather turn census";

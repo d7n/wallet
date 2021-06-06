@@ -1,1 +1,1 @@
-var mnemonic = "evil domain eternal typical horror excite dynamic answer buddy element liberty wife";
+var mnemonic = "absurd thought paddle voyage garden enforce rain surge shallow adjust can garment";

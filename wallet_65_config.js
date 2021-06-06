@@ -1,1 +1,1 @@
-var mnemonic = "magic spin drink bring capital planet output salon first project foam often";
+var mnemonic = "buzz jaguar globe garage duck beyond excuse govern exhibit evoke volume fat";

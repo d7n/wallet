@@ -1,1 +1,1 @@
-var mnemonic = "swarm walk clean mushroom alone tunnel disorder foot shock dignity fruit pink";
+var mnemonic = "animal benefit increase pill detect silk work author announce embody usual become";

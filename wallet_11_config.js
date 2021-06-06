@@ -1,1 +1,1 @@
-var mnemonic = "wait trophy certain inherit piano wash cube sweet aunt seminar wheel crop";
+var mnemonic = "citizen pretty unfair cage front extra purse dove grant harbor member accident";

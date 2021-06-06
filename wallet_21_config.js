@@ -1,1 +1,1 @@
-var mnemonic = "round carry convince animal cube harbor deliver broken pudding ensure cliff ensure";
+var mnemonic = "gold weapon turtle clip remove tower note session float expose crash offer";

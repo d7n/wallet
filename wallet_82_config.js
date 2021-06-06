@@ -1,1 +1,1 @@
-var mnemonic = "family sheriff dog crawl repair speed frost radar brain history liquid print";
+var mnemonic = "youth ankle jacket economy brother decorate alien hollow upper senior banner disease";

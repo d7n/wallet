@@ -1,1 +1,1 @@
-var mnemonic = "regular public knife flash erode planet inspire panther tube cruise man cabbage";
+var mnemonic = "clip crush car park shell rabbit awkward pave net industry echo business";

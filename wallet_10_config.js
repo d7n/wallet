@@ -1,1 +1,1 @@
-var mnemonic = "vessel story wish jealous quiz fly mistake island vital bench caught lounge";
+var mnemonic = "mother uncover skill another prosper elite secret twist foam bind shrug chalk";

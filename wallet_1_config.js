@@ -1,1 +1,1 @@
-var mnemonic = "occur client else vast profit insect october cloud one kit lobster lava";
+var mnemonic = "wage north edit retreat timber path bus view diesel enlist render person";

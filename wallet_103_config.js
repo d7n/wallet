@@ -1,1 +1,1 @@
-var mnemonic = "detail hen joke vanish rice receive leisure force easy poet crack uphold";
+var mnemonic = "buzz double coffee mirror burden sweet gate garage drive busy dentist mixed";

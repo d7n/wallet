@@ -1,1 +1,1 @@
-var mnemonic = "someone scissors grocery seek stamp pitch educate best pony sing peace energy";
+var mnemonic = "decrease check female voice inform hungry load popular loan ozone army industry";

@@ -1,1 +1,1 @@
-var mnemonic = "estate bomb spare solid evolve refuse ignore gadget vibrant issue acquire find";
+var mnemonic = "expose matter ozone squeeze cook middle awesome apple group time relax fee";

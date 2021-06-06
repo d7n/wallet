@@ -1,1 +1,1 @@
-var mnemonic = "ripple miracle birth lazy scan cliff fiscal prison unhappy modify slender that";
+var mnemonic = "neither trust flee tackle repeat marble mother demand stove easy motion alley";

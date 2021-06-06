@@ -1,1 +1,1 @@
-var mnemonic = "know real decide swift tower nurse increase hope trick cradle prize sun";
+var mnemonic = "bone decide theme expect vivid civil mammal tell pattern airport broccoli today";

@@ -1,1 +1,1 @@
-var mnemonic = "flee day kid stuff oblige social act solid below lottery extend husband";
+var mnemonic = "gorilla trophy absorb public short leaf lake treat kingdom cool install check";

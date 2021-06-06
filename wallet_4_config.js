@@ -1,1 +1,1 @@
-var mnemonic = "deliver coil sadness collect viable matter lens spirit slogan friend scorpion sadness";
+var mnemonic = "way exhibit smoke sport spirit canvas tube head visa bar verb left";

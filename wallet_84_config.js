@@ -1,1 +1,1 @@
-var mnemonic = "rich picture salt mail brown market siren arrive cigar swim weird mammal";
+var mnemonic = "mask bench twice square post mushroom list better trigger other valve rate";

@@ -1,1 +1,1 @@
-var mnemonic = "language lottery energy fiscal skull rotate pudding warfare dolphin couple tip hat";
+var mnemonic = "wave weather bottom act because make mixture appear tip security rule van";

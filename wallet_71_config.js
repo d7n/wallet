@@ -1,1 +1,1 @@
-var mnemonic = "produce first guitar chapter muscle hybrid bean equip charge cake come govern";
+var mnemonic = "lounge lunar author soup parent hybrid castle skull pony surround silent velvet";

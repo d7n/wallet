@@ -1,1 +1,1 @@
-var mnemonic = "echo glimpse bullet smooth drive clip clip toilet student soon pet rebel";
+var mnemonic = "unfold scorpion bullet bar north shrimp exclude critic fatigue flag song dynamic";

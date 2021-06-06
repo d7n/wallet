@@ -1,1 +1,1 @@
-var mnemonic = "manage illegal animal trial man cereal wear sand okay vanish dwarf weekend";
+var mnemonic = "language enough copper plastic access debris rocket daughter affair turkey right blind";

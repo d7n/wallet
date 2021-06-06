@@ -1,1 +1,1 @@
-var mnemonic = "carbon junk crash like must unveil apple never horn tuna vivid raven";
+var mnemonic = "open father purse eyebrow siren argue umbrella purity army cinnamon remove liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "wet shuffle alien mix game shuffle candy retire moment pluck poem hard";
+var mnemonic = "blind type south tenant home bridge salute just insect sister ring used";

@@ -1,1 +1,1 @@
-var mnemonic = "candy shock awful tool funny enrich obey plug all enter wide movie";
+var mnemonic = "baby session floor swear main badge current nurse jungle soup rib hawk";

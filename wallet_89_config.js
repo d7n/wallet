@@ -1,1 +1,1 @@
-var mnemonic = "autumn wing trophy movie move okay lady protect cage crack moment camera";
+var mnemonic = "equip ivory mandate document pretty exhibit argue know obey educate sight net";

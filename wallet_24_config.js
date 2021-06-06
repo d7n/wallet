@@ -1,1 +1,1 @@
-var mnemonic = "recall social truck slice sunny arch must glide among subway version open";
+var mnemonic = "east shiver tooth genuine trouble bone among spirit polar glass oven mobile";

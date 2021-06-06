@@ -1,1 +1,1 @@
-var mnemonic = "cute artist able grain winner hub drop point promote reform hip general";
+var mnemonic = "fit morning copy wire fade poverty infant spawn ribbon lady disorder symbol";

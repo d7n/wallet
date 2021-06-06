@@ -1,1 +1,1 @@
-var mnemonic = "clap analyst poem crane furnace outside item enjoy skill test farm royal";
+var mnemonic = "simple three sausage wedding this fork wolf hero want float electric practice";

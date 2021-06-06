@@ -1,1 +1,1 @@
-var mnemonic = "spatial soap fringe picture behind rate away tragic join brown veteran loyal";
+var mnemonic = "rapid gain honey forum dirt rubber pause scan deputy bright produce diet";

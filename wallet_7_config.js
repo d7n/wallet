@@ -1,1 +1,1 @@
-var mnemonic = "edit soccer exhibit add friend true quarter knife talent melt fault immune";
+var mnemonic = "hen grass common combine cable tent world right trap prefer motor cargo";

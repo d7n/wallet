@@ -1,1 +1,1 @@
-var mnemonic = "drop hard pill rate girl electric amateur execute into eyebrow unique praise";
+var mnemonic = "gas hood verb april learn meat affair switch use armed beauty crouch";

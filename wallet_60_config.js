@@ -1,1 +1,1 @@
-var mnemonic = "rate mother celery student daughter peanut enrich embody wedding glance city toast";
+var mnemonic = "exact exotic sleep guess that gown turtle husband author tunnel raven ask";

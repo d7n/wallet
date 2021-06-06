@@ -1,1 +1,1 @@
-var mnemonic = "zero shoot scene panda extend half village monster pave glow purpose cinnamon";
+var mnemonic = "paddle west draft remind beauty address two arctic river dizzy outside abandon";

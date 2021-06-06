@@ -1,1 +1,1 @@
-var mnemonic = "spy matter orchard venture wink surge trend illness current topple conduct library";
+var mnemonic = "virus worth industry promote humble rookie code solid web remember illegal swift";
