@@ -1,1 +1,1 @@
-var mnemonic = "earn object gift snap build frost topple employ diagram decline edge edit";
+var mnemonic = "mad beyond ball butter coconut reunion quiz pizza bunker paddle outer toilet";

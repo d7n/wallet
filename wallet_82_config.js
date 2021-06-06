@@ -1,1 +1,1 @@
-var mnemonic = "taxi utility athlete panic risk warfare van host useless blanket amazing unable";
+var mnemonic = "general spider remember lazy receive dumb kick chunk rigid december jelly project";

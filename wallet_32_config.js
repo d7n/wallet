@@ -1,1 +1,1 @@
-var mnemonic = "void person exile arrow square save zero survey razor lunch venue ignore";
+var mnemonic = "flat cry maid lock crazy remove high gun tribe math dutch sunset";

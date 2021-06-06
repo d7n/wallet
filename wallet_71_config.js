@@ -1,1 +1,1 @@
-var mnemonic = "devote luxury soul arrest turtle early betray tomorrow pretty begin wear spot";
+var mnemonic = "end price biology exclude certain attack dune nut insect glow wealth stage";

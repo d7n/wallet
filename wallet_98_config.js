@@ -1,1 +1,1 @@
-var mnemonic = "predict merit nominee oyster frost light critic globe similar run receive scan";
+var mnemonic = "blind armor forward helmet property girl dinosaur glance soon liar oppose thrive";

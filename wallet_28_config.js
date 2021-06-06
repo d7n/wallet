@@ -1,1 +1,1 @@
-var mnemonic = "remain vendor effort mixed arm act project delay about evil sniff fork";
+var mnemonic = "cute tiny define diamond sort morning course pelican uniform leg blush wagon";

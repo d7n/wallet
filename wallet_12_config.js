@@ -1,1 +1,1 @@
-var mnemonic = "ski whisper dice acquire notable jealous either basket erupt faculty lecture ancient";
+var mnemonic = "seat arrow fat original avocado argue clog weird ceiling gather ocean stadium";

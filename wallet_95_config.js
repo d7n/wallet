@@ -1,1 +1,1 @@
-var mnemonic = "primary mercy quarter excuse salad abstract setup path dragon mass fun seek";
+var mnemonic = "matrix menu head cry nature load uniform limit cradle baby mammal web";

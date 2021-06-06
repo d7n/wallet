@@ -1,1 +1,1 @@
-var mnemonic = "bean pupil frequent excite nest chef fly soccer novel few wife key";
+var mnemonic = "ability spare future never float learn belt pudding copper never flame dream";

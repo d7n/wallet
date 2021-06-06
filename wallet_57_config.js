@@ -1,1 +1,1 @@
-var mnemonic = "gallery jelly unit eternal gown forget black loud vault journey manual truly";
+var mnemonic = "ready noodle spawn struggle question yellow square dynamic tomato wink around salute";

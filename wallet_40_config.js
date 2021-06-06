@@ -1,1 +1,1 @@
-var mnemonic = "food old kite vital valve exhibit audit artist soldier time december private";
+var mnemonic = "glad food blood ill ugly hazard twenty lesson pave glance venture tourist";

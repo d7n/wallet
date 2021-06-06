@@ -1,1 +1,1 @@
-var mnemonic = "december act gravity tail resource youth myself increase outside hire same sword";
+var mnemonic = "promote around warfare grow feel car wing during grow coin cricket quarter";

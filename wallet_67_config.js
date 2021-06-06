@@ -1,1 +1,1 @@
-var mnemonic = "hood peanut neither obey foster common develop song wear laptop cram security";
+var mnemonic = "fat jaguar feel economy scorpion finger scout layer soldier wage ready knife";

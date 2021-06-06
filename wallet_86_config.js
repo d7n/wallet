@@ -1,1 +1,1 @@
-var mnemonic = "wrist peace rough quality purchase project beach claw bridge brief chuckle mass";
+var mnemonic = "village yellow merry wheat seven glass undo wall live flip gauge faint";

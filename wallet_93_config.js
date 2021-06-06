@@ -1,1 +1,1 @@
-var mnemonic = "fever museum load drill steel offer best giraffe charge echo holiday ticket";
+var mnemonic = "unlock like engine amount adapt palm grab treat monitor elder bird rate";

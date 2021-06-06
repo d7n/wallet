@@ -1,1 +1,1 @@
-var mnemonic = "metal fold silk garage brother lunch equip acid spoil elbow drill blood";
+var mnemonic = "climb gym calm next path tissue marble around tiny music engine category";

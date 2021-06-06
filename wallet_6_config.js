@@ -1,1 +1,1 @@
-var mnemonic = "hungry quit curtain brother sign matter dismiss butter agree neglect switch deposit";
+var mnemonic = "about flat stereo coast oil another trick punch excess menu frozen axis";

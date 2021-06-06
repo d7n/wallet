@@ -1,1 +1,1 @@
-var mnemonic = "grid write also mansion blouse basket impose sheriff firm summer worth clarify";
+var mnemonic = "rally lake tooth train recipe inside forum wheat camp coyote level aware";

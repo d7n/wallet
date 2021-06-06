@@ -1,1 +1,1 @@
-var mnemonic = "display pool oyster vital key furnace equal grain lock cushion dismiss cabbage";
+var mnemonic = "under robot old high push nuclear labor message robot welcome zoo tuition";

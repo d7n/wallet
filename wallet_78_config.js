@@ -1,1 +1,1 @@
-var mnemonic = "bike pear harsh reform sauce place maple useful vocal defense mountain device";
+var mnemonic = "assault balcony oblige club stereo affair three load carpet salon swamp sister";

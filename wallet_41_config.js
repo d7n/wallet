@@ -1,1 +1,1 @@
-var mnemonic = "pottery wide crucial evil cat opinion dumb tonight left cactus squeeze exit";
+var mnemonic = "illegal snake garden theme exhibit armed mad science anxiety cash nice average";

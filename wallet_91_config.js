@@ -1,1 +1,1 @@
-var mnemonic = "jar creek disagree timber boring genre fiscal message achieve enact bleak return";
+var mnemonic = "combine evoke flip olive agree sell uphold rather pioneer argue canal hospital";

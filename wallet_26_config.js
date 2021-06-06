@@ -1,1 +1,1 @@
-var mnemonic = "cement west cereal hospital knee high labor main brand worth enroll crisp";
+var mnemonic = "pen burger hawk apart exchange toilet dolphin vintage undo transfer picnic trim";

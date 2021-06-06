@@ -1,1 +1,1 @@
-var mnemonic = "detect radar proof finish load loop bonus vehicle betray pilot laptop style";
+var mnemonic = "wheat soda tree surround twelve escape lucky woman method actress begin say";

@@ -1,1 +1,1 @@
-var mnemonic = "brand oblige scrub adjust muffin kingdom tomorrow similar choose dish what offer";
+var mnemonic = "narrow toast rich connect approve crawl dash cluster explain push average unaware";

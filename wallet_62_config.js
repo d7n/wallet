@@ -1,1 +1,1 @@
-var mnemonic = "notable relief burst depend chief nephew brisk essay give flush grant lottery";
+var mnemonic = "quality exhaust joy robust cinnamon fog zoo rescue fence badge basket jazz";

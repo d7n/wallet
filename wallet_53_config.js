@@ -1,1 +1,1 @@
-var mnemonic = "organ public nasty wash bulk glow inquiry direct lawn stadium fetch fun";
+var mnemonic = "fox castle sentence pledge water art immense where disagree sand caught scale";

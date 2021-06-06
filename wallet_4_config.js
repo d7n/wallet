@@ -1,1 +1,1 @@
-var mnemonic = "debate sock zone crater resist citizen atom defy flip tribe increase animal";
+var mnemonic = "expose dirt mixture you where print galaxy magic misery canyon certain immune";

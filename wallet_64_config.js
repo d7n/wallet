@@ -1,1 +1,1 @@
-var mnemonic = "fringe useless scatter love expect better tennis vote embark few stuff goat";
+var mnemonic = "awful pool turn story this old relax onion funny crush century energy";

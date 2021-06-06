@@ -1,1 +1,1 @@
-var mnemonic = "town ivory raven unknown axis oxygen sausage biology phone trust bonus artefact";
+var mnemonic = "segment music settle debate salt little oak mask trouble climb gospel stay";

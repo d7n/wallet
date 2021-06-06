@@ -1,1 +1,1 @@
-var mnemonic = "vendor solution purity dose merit square assault fabric craft sense runway dilemma";
+var mnemonic = "disease cousin skin city horse vital identify stairs shoulder toy mule process";

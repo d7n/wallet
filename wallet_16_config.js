@@ -1,1 +1,1 @@
-var mnemonic = "attack emerge impact disease antenna remember reflect affair slow spare allow sustain";
+var mnemonic = "satoshi correct bomb glance adult foot pink uncle unlock suggest photo claw";

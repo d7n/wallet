@@ -1,1 +1,1 @@
-var mnemonic = "enlist inflict dismiss napkin frog enact endless obey cook filter cycle page";
+var mnemonic = "analyst butter minute omit expand hawk garage impulse spot stand kidney place";

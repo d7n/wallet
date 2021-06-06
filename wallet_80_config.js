@@ -1,1 +1,1 @@
-var mnemonic = "top since tunnel inner fade praise invite account virtual pupil into walk";
+var mnemonic = "urge asthma dry shrimp begin sight furnace abstract brass evidence choose pill";

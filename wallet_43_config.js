@@ -1,1 +1,1 @@
-var mnemonic = "skill uphold salad tell wing kidney isolate copy expose glow candy crouch";
+var mnemonic = "any faculty mix roof uphold input diagram neither napkin loyal scatter assist";

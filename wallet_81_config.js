@@ -1,1 +1,1 @@
-var mnemonic = "jeans swarm dismiss chicken edge course evoke minimum lyrics open country chuckle";
+var mnemonic = "fat pink hero kit position vocal negative country girl security banana citizen";

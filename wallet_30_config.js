@@ -1,1 +1,1 @@
-var mnemonic = "crowd arm history ozone rule morning visual habit join lyrics coil lawsuit";
+var mnemonic = "attack crystal awkward lawn express appear nerve parade recycle fortune mother bring";

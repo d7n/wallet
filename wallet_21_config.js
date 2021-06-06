@@ -1,1 +1,1 @@
-var mnemonic = "nuclear volume taste cancel web pupil club dance another lonely manual ski";
+var mnemonic = "unusual inherit tonight course boss bag tail rescue expand custom clarify loyal";

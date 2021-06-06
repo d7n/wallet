@@ -1,1 +1,1 @@
-var mnemonic = "news veteran camera oven now jungle course glare nest bright menu admit";
+var mnemonic = "aspect letter bubble whip refuse inform gallery photo craft bean earth virtual";

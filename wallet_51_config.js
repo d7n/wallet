@@ -1,1 +1,1 @@
-var mnemonic = "beyond swing debate mad latin boat choice child jewel survey use opinion";
+var mnemonic = "hair twin kitten episode will cave unable volume dog gentle crowd steel";

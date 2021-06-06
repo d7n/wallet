@@ -1,1 +1,1 @@
-var mnemonic = "wire addict because timber garbage often acoustic feature define fork fever enter";
+var mnemonic = "narrow lounge forum van scan never awful mass adapt company dial lady";

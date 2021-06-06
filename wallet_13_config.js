@@ -1,1 +1,1 @@
-var mnemonic = "move grow pool cinnamon kick organ critic half become develop trip eight";
+var mnemonic = "dentist silly meat cupboard brief blade course oblige scene embrace just utility";

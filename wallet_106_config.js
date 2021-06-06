@@ -1,1 +1,1 @@
-var mnemonic = "lecture agent problem case birth multiply surge copper december lawsuit phrase strike";
+var mnemonic = "matrix theme voice effort squirrel tape athlete lemon mention orchard duty turtle";

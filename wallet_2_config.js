@@ -1,1 +1,1 @@
-var mnemonic = "until exhibit paper north lobster agent walnut case focus village rate essence";
+var mnemonic = "frost floor sauce dinner heavy over resource cage best always fossil dad";

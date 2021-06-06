@@ -1,1 +1,1 @@
-var mnemonic = "hello album bring mesh salute thumb good client fork gesture sponsor floor";
+var mnemonic = "fragile note gym dance cover attitude cage horse once cake domain gloom";

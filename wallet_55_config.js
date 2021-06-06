@@ -1,1 +1,1 @@
-var mnemonic = "either cushion make argue child impact will wedding orphan rookie assault soldier";
+var mnemonic = "advance window refuse father slice mandate drill danger fine veteran elite invest";

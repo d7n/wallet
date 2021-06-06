@@ -1,1 +1,1 @@
-var mnemonic = "jacket trip friend utility attract whip remain there crunch agent ranch invest";
+var mnemonic = "gather yard educate account quiz diet require sustain mammal much mad always";

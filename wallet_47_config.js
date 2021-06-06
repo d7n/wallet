@@ -1,1 +1,1 @@
-var mnemonic = "nurse earth coyote lyrics useful exile inject man chair apology reopen grocery";
+var mnemonic = "rapid purity vital session unknown dry term armed security gaze advice shove";

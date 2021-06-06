@@ -1,1 +1,1 @@
-var mnemonic = "glue city cotton surprise velvet all ethics game kit casino detail dove";
+var mnemonic = "ridge govern shoulder fame person spice mutual waste regret use setup wait";

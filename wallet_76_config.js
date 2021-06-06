@@ -1,1 +1,1 @@
-var mnemonic = "history bleak illegal clock absorb strike donate hope seek cage brief chaos";
+var mnemonic = "basket now invite victory please immune drip crop rose ability kidney again";

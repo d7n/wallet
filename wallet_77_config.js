@@ -1,1 +1,1 @@
-var mnemonic = "power carry sword acquire best grant coffee merit net horror into boss";
+var mnemonic = "lamp unit deer film pole two ripple vault senior panther ice liar";

@@ -1,1 +1,1 @@
-var mnemonic = "grant crazy extra seek fee ripple pen vessel bargain rally cave leopard";
+var mnemonic = "when avoid captain repeat news high sock divide market pencil oppose attract";

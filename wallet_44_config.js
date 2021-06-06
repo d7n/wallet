@@ -1,1 +1,1 @@
-var mnemonic = "lecture artist siren month cheese acquire kick audit zero outside plastic burden";
+var mnemonic = "step silver walnut survey twelve east hero lemon nut segment local nest";

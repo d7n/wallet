@@ -1,1 +1,1 @@
-var mnemonic = "leader wife cancel reflect person just recall exotic aisle beauty hockey multiply";
+var mnemonic = "island frost kitten industry add panic become soap release inform laundry brief";

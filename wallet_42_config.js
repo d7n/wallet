@@ -1,1 +1,1 @@
-var mnemonic = "rubber marble kite crime okay wheat wonder decide drill exchange glad today";
+var mnemonic = "west corn float fabric border dog symbol lamp alter stem twist wish";

@@ -1,1 +1,1 @@
-var mnemonic = "amused oil dress trap jelly core nurse local boil frost gift they";
+var mnemonic = "useful today exact impact expose kingdom bargain sister abandon salt tumble soup";

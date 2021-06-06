@@ -1,1 +1,1 @@
-var mnemonic = "tiger blame tape weapon exhibit brand vocal source welcome mountain embody net";
+var mnemonic = "vessel either assume weekend very eternal scrub six pill still apart library";

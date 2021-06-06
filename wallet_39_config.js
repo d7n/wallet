@@ -1,1 +1,1 @@
-var mnemonic = "motion fresh curtain glue garbage guide heavy soldier scale scare post champion";
+var mnemonic = "tunnel stool rapid child hello dove area family battle purity gym lemon";

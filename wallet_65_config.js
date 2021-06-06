@@ -1,1 +1,1 @@
-var mnemonic = "vault exotic grunt surge asset liberty second clip card utility gesture soda";
+var mnemonic = "palm firm buddy bachelor select calm ribbon best when grow shrimp delay";

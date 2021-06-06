@@ -1,1 +1,1 @@
-var mnemonic = "odor honey myth soft coconut leave simple enemy frame clinic book nurse";
+var mnemonic = "tunnel below enroll climb first coin quarter brass steel hand elegant pet";

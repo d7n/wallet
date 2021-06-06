@@ -1,1 +1,1 @@
-var mnemonic = "stick company fringe ghost pumpkin sea journey scene trouble occur token figure";
+var mnemonic = "congress desert enroll tired wealth wisdom find below they client reason pitch";

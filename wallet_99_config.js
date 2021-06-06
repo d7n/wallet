@@ -1,1 +1,1 @@
-var mnemonic = "dial donate genius fiction prosper point leisure antique record walk anger gift";
+var mnemonic = "tape harvest inspire jaguar fit rather tuna make pilot umbrella flush garlic";

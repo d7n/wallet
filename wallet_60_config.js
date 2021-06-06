@@ -1,1 +1,1 @@
-var mnemonic = "crack liberty distance shiver valid grass corn grain fish exhaust heart uncover";
+var mnemonic = "virtual exotic tobacco economy police pretty admit else congress laundry shiver own";

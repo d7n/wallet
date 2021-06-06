@@ -1,1 +1,1 @@
-var mnemonic = "cruel library answer hope song work help review strategy naive board nut";
+var mnemonic = "permit cross reflect very normal casino used turn film furnace reveal leg";

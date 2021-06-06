@@ -1,1 +1,1 @@
-var mnemonic = "symbol among front liberty awkward prize water camera giggle badge hedgehog actress";
+var mnemonic = "budget conduct rifle poem book copper census foot bracket muffin super secret";

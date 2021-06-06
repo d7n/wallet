@@ -1,1 +1,1 @@
-var mnemonic = "flush novel harvest evil shoe shrug split phone drum door host pattern";
+var mnemonic = "card love consider birth toward disagree coach dirt cup awful term legal";

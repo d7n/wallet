@@ -1,1 +1,1 @@
-var mnemonic = "survey tattoo mimic absurd check churn angle open crystal prosper tragic hamster";
+var mnemonic = "forum major together crisp praise matrix above angry define crush lizard sell";

@@ -1,1 +1,1 @@
-var mnemonic = "skate hero tissue shiver miracle athlete fresh session pretty supreme swap shaft";
+var mnemonic = "story track net yellow luggage paddle youth omit raven safe clock afraid";

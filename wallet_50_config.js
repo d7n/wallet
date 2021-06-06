@@ -1,1 +1,1 @@
-var mnemonic = "mosquito velvet guard enact avocado cinnamon thumb attract pigeon deliver chair surface";
+var mnemonic = "exercise clever genuine nephew library pipe number ranch thrive sort resist gun";

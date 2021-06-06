@@ -1,1 +1,1 @@
-var mnemonic = "happy mind rate swap slab easily blush there tube neutral link produce";
+var mnemonic = "wife cushion siege globe slot arena cereal escape hotel near quarter giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "strike volume prefer month cram success piano must stage season wine like";
+var mnemonic = "relief pool clarify lecture cave pumpkin comic reward onion notable sentence direct";

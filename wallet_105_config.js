@@ -1,1 +1,1 @@
-var mnemonic = "erosion test glad observe mesh then diet angry tide quantum expect round";
+var mnemonic = "cloud ethics garden fantasy quarter celery enact swing ring auction beyond burden";

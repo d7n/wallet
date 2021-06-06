@@ -1,1 +1,1 @@
-var mnemonic = "seminar vivid welcome result company giant base enable can excess unhappy moment";
+var mnemonic = "celery equal rubber top display cousin census wish inform color slam stomach";

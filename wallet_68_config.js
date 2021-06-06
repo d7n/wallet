@@ -1,1 +1,1 @@
-var mnemonic = "circle humor funny animal afford audit session category account hobby blue regular";
+var mnemonic = "engage shrug final evolve trap produce poet leader almost poet theory degree";

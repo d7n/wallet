@@ -1,1 +1,1 @@
-var mnemonic = "tray feel emerge dry this federal stay dilemma giggle spray improve broom";
+var mnemonic = "vendor throw swap image life wise dice nasty stay cinnamon weapon marriage";

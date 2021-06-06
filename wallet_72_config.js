@@ -1,1 +1,1 @@
-var mnemonic = "obscure boat weekend dilemma harbor genuine dog thrive essay during scorpion predict";
+var mnemonic = "alert reduce pig lava weather dose jungle property hour pull gate live";

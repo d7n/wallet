@@ -1,1 +1,1 @@
-var mnemonic = "senior rack icon monitor slight cement glide leave lucky sock slogan action";
+var mnemonic = "system core patient brush dress diary legal sponsor pink art napkin proof";

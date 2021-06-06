@@ -1,1 +1,1 @@
-var mnemonic = "gentle grape fiscal polar blame daring lunar flip web letter siren slight";
+var mnemonic = "cash huge garage sister barrel loop layer mimic idle used kind language";

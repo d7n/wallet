@@ -1,1 +1,1 @@
-var mnemonic = "grant path board correct popular future walnut chase fall pumpkin subway cash";
+var mnemonic = "neck soul catch scatter scare call blast nephew tell goat fabric pottery";

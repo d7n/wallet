@@ -1,1 +1,1 @@
-var mnemonic = "observe symptom road december chronic vast adult repeat obey walk camp sock";
+var mnemonic = "wool praise airport account divorce credit walk sauce depth chicken light town";
