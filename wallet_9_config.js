@@ -1,1 +1,1 @@
-var mnemonic = "donate major grape caught relax release divert recycle vanish donate indoor absent";
+var mnemonic = "donor repeat symbol repair zebra green black dinner rubber hard blame sausage";

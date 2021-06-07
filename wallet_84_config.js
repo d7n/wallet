@@ -1,1 +1,1 @@
-var mnemonic = "recycle evidence nice session crop resemble uphold begin huge green engage inject";
+var mnemonic = "they wheel slender click talent have oxygen destroy equip donate female sorry";

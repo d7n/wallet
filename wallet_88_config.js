@@ -1,1 +1,1 @@
-var mnemonic = "pottery any toe fault loyal chunk skin genius make length wrestle idea";
+var mnemonic = "toast guitar ten smoke power adapt stairs canyon above put suggest cradle";

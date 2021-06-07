@@ -1,1 +1,1 @@
-var mnemonic = "pulse secret stem hero thunder scrap grid check length great detect aerobic";
+var mnemonic = "boil sing initial strike unfair barely tiny embody century bamboo extra rack";

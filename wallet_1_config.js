@@ -1,1 +1,1 @@
-var mnemonic = "alley candy crack neglect time capable minute hybrid venue lens shrimp sail";
+var mnemonic = "level actress ostrich animal sort fitness guess merit access profit rain vague";

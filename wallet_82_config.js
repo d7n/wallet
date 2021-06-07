@@ -1,1 +1,1 @@
-var mnemonic = "angle fiction much capable dad miracle flee false improve present always desk";
+var mnemonic = "little lunch much ball hard oppose salt scheme ankle pattern know barrel";

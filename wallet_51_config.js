@@ -1,1 +1,1 @@
-var mnemonic = "fix price sock kick mouse wasp evolve teach amateur baby panda expire";
+var mnemonic = "slab deal orange aisle grunt example leader radar section sell enlist step";

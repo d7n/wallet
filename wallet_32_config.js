@@ -1,1 +1,1 @@
-var mnemonic = "column glad repair sponsor essay title deer scissors normal exile vocal leopard";
+var mnemonic = "circle west soap cotton music pair stove usage crack layer film umbrella";

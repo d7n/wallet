@@ -1,1 +1,1 @@
-var mnemonic = "can dismiss gauge absent eternal upgrade arch ready soon office loan sniff";
+var mnemonic = "file connect advance panther cheese evoke busy square question rely shrimp alone";

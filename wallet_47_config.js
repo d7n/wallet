@@ -1,1 +1,1 @@
-var mnemonic = "have curve chief wait mad load faint cereal devote castle execute portion";
+var mnemonic = "divide note grace question mansion like drastic body glance mammal culture eternal";

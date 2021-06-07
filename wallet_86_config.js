@@ -1,1 +1,1 @@
-var mnemonic = "egg nuclear rebuild blood dune immense fatigue regular absurd wait lemon submit";
+var mnemonic = "turkey help wrap market eyebrow mosquito once noble salad steak illegal keen";

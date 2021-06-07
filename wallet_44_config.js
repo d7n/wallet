@@ -1,1 +1,1 @@
-var mnemonic = "rail private reason solar pencil mimic much evidence nominee oblige asthma twenty";
+var mnemonic = "ethics arrest target update luggage energy change they scatter prison decorate speak";

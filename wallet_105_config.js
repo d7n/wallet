@@ -1,1 +1,1 @@
-var mnemonic = "history fine client recycle feature credit lemon bright galaxy found heart dynamic";
+var mnemonic = "retreat convince run magnet minor curve phrase gauge tray winner cause donkey";

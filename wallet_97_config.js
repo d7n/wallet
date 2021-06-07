@@ -1,1 +1,1 @@
-var mnemonic = "course hill mammal muffin swear city dynamic shuffle eager engage mobile vintage";
+var mnemonic = "chuckle nature cause scan depend rail apart goat impose require panda raven";

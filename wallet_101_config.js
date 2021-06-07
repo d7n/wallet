@@ -1,1 +1,1 @@
-var mnemonic = "shop awkward digital love extra strategy evoke hundred surprise usual strong bomb";
+var mnemonic = "anxiety grocery man illegal legend torch spice girl gas liberty patient panda";

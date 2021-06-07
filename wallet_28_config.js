@@ -1,1 +1,1 @@
-var mnemonic = "brave jungle visit account chase expire prison skill arm praise describe work";
+var mnemonic = "lizard ankle tumble position journey walk unknown family actress volume always keen";

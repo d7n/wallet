@@ -1,1 +1,1 @@
-var mnemonic = "chat entry inner sting bulb peasant pulse follow betray mushroom jeans fan";
+var mnemonic = "renew section budget weather day crop express little faculty slogan sea wage";

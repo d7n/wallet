@@ -1,1 +1,1 @@
-var mnemonic = "access wheat pony shrug bronze sand sight swallow put city crater leaf";
+var mnemonic = "page perfect dynamic horn seat bread ketchup pioneer file behind eternal design";

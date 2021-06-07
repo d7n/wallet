@@ -1,1 +1,1 @@
-var mnemonic = "draw forget destroy demand ancient globe anxiety panic want ball twice future";
+var mnemonic = "board milk fuel game mobile equal ready possible lucky canyon rude moral";

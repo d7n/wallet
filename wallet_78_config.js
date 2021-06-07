@@ -1,1 +1,1 @@
-var mnemonic = "brown raise morning dad online analyst connect swarm aisle ability next expire";
+var mnemonic = "pepper viable usage oppose speak utility tail ceiling kingdom steak album aspect";

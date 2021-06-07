@@ -1,1 +1,1 @@
-var mnemonic = "limb area online jar obscure merry meat swing barely where artefact gym";
+var mnemonic = "outside myself cousin card curious adjust screen shift since foam pave acquire";

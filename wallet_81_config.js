@@ -1,1 +1,1 @@
-var mnemonic = "tomato replace rib thing borrow doll mercy actress card insect thunder engage";
+var mnemonic = "just lend pet people film sorry build sight toe weekend ill clog";

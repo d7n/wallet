@@ -1,1 +1,1 @@
-var mnemonic = "life item hamster put feel enter syrup rule asthma pigeon dragon hurry";
+var mnemonic = "misery solution arch garden mind enroll luxury laugh snake congress this destroy";

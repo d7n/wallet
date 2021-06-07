@@ -1,1 +1,1 @@
-var mnemonic = "detect fun ship put ivory empower city rely into fantasy always trend";
+var mnemonic = "screen real media differ face cruise steak dinosaur trouble buddy eagle choice";

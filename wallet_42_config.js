@@ -1,1 +1,1 @@
-var mnemonic = "install slogan bread track clog pink bacon diary hawk license aware kidney";
+var mnemonic = "anxiety bind final submit umbrella duck month weather maximum clarify board office";

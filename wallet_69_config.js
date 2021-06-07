@@ -1,1 +1,1 @@
-var mnemonic = "pretty glue swap between segment junk clinic upset lecture goat penalty label";
+var mnemonic = "render destroy couch six summer excite tiny sunny harsh chronic spike jaguar";

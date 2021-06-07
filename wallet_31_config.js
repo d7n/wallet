@@ -1,1 +1,1 @@
-var mnemonic = "inflict gold exact sell swift little beauty steak combine fatal buyer random";
+var mnemonic = "congress access merit route atom cereal phone indicate enemy vivid all gun";

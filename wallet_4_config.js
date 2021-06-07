@@ -1,1 +1,1 @@
-var mnemonic = "then parent shop benefit resist picnic talk pumpkin crucial stock click grain";
+var mnemonic = "annual dance heavy walnut shiver nice must prison strike town random core";

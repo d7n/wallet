@@ -1,1 +1,1 @@
-var mnemonic = "reunion chat satoshi pole record summer spice steak scout brave measure stamp";
+var mnemonic = "fury globe neutral social romance mango glass knee nature helmet night plunge";

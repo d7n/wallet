@@ -1,1 +1,1 @@
-var mnemonic = "repair peanut detail purse baby tackle egg asset gentle flee hobby simple";
+var mnemonic = "viable mass sadness calm welcome hour conduct hidden syrup impact help bitter";

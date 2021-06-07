@@ -1,1 +1,1 @@
-var mnemonic = "purchase yellow suspect evil sugar vacant tenant income want notable cousin upon";
+var mnemonic = "tone more pyramid glory hover primary toddler scheme dilemma mansion hen thing";

@@ -1,1 +1,1 @@
-var mnemonic = "december dream bomb resist frog bean ranch stumble skin hospital chunk frequent";
+var mnemonic = "embrace river cup play swamp head upset sadness surround hover frog sense";

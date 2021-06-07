@@ -1,1 +1,1 @@
-var mnemonic = "kitchen aim stay dose develop farm define order much holiday act cement";
+var mnemonic = "romance gold note polar version civil melt stand express orbit dish surge";

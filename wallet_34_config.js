@@ -1,1 +1,1 @@
-var mnemonic = "mango usage north town target wide write load ethics amount ritual question";
+var mnemonic = "urban knock enable orient stage mandate wheat corn shoulder regret enhance tuna";

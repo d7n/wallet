@@ -1,1 +1,1 @@
-var mnemonic = "object tomato crystal method airport pyramid note swift price tiger post fringe";
+var mnemonic = "leader shove access price receive nest install detail salon damage enroll proof";

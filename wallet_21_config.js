@@ -1,1 +1,1 @@
-var mnemonic = "culture inspire spider team select seek transfer purchase essay morning camp silent";
+var mnemonic = "news crouch iron category dolphin find dice slam point mix cheap analyst";

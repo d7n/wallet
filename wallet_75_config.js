@@ -1,1 +1,1 @@
-var mnemonic = "awake fury pave genius cute cat suspect attitude call near exile movie";
+var mnemonic = "weather afraid virtual gentle solid lock rather pelican library toddler moon pluck";

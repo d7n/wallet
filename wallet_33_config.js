@@ -1,1 +1,1 @@
-var mnemonic = "remain roof pull potato pony alarm ketchup allow tortoise sunny harvest second";
+var mnemonic = "today frozen airport road trophy effort jazz body scissors brick mixture fine";

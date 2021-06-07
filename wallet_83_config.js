@@ -1,1 +1,1 @@
-var mnemonic = "target report require unveil zero cloud jazz uniform tortoise impose race car";
+var mnemonic = "float dignity love chief dumb furnace outer chest win artwork noise prefer";

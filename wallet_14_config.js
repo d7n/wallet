@@ -1,1 +1,1 @@
-var mnemonic = "task aspect kiss entire shine lobster proof manual depend mix used someone";
+var mnemonic = "auto slot mobile head impact wreck move calm prison clown village grape";

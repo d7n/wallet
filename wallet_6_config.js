@@ -1,1 +1,1 @@
-var mnemonic = "wrong flush install rebuild skirt artwork sketch once giraffe warfare detail mind";
+var mnemonic = "glide hockey spell conduct meadow submit turtle supreme popular harsh news assault";

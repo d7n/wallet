@@ -1,1 +1,1 @@
-var mnemonic = "rack erosion first remain alley field inside avocado mule horse autumn vapor";
+var mnemonic = "script ostrich young way veteran number eager lava gap excuse veteran shaft";

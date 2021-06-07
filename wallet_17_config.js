@@ -1,1 +1,1 @@
-var mnemonic = "print roast another either liar draw crazy solution shoe split melody merit";
+var mnemonic = "toilet alpha stadium monkey vote hub chair excite middle slush sound arm";

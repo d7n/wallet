@@ -1,1 +1,1 @@
-var mnemonic = "blur acquire chuckle assume decide cannon drip romance dish final away leader";
+var mnemonic = "sea brand lounge virtual group indoor scan wrap ivory sorry response will";

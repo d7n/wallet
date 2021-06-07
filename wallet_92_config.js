@@ -1,1 +1,1 @@
-var mnemonic = "skull knife cherry satoshi feature tube marine bleak lunch joke lava help";
+var mnemonic = "noise cream smoke enforce battle culture please peanut penalty dinner math fetch";

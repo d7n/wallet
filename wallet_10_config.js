@@ -1,1 +1,1 @@
-var mnemonic = "hundred erosion tennis dilemma myself blue main lunch fossil pulp matrix curtain";
+var mnemonic = "check learn orient void vapor silly device write forward dance taxi tourist";

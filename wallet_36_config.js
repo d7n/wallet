@@ -1,1 +1,1 @@
-var mnemonic = "poem draw wealth spend mask link extend must evil holiday inmate just";
+var mnemonic = "glare super viable march plug give barely frown tonight oppose void into";

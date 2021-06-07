@@ -1,1 +1,1 @@
-var mnemonic = "reject void boost shuffle citizen mean wise alpha obvious hunt helmet atom";
+var mnemonic = "venue leg version rail focus ghost cancel excess nothing squeeze trip sausage";

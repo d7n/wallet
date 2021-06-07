@@ -1,1 +1,1 @@
-var mnemonic = "volume decade turn tumble orient humble supreme silk retire decade half scrub";
+var mnemonic = "release surface dumb van october mind tonight pond illegal spice mercy find";

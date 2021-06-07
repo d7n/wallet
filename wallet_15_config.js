@@ -1,1 +1,1 @@
-var mnemonic = "cushion absurd earn lobster style planet estate wise shrimp craft kite leader";
+var mnemonic = "cigar observe height trust adapt judge stuff upper strike furnace fantasy zero";

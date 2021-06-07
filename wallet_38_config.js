@@ -1,1 +1,1 @@
-var mnemonic = "palm robust pipe apple garlic talk alert average syrup practice juice wasp";
+var mnemonic = "language excuse raven vintage utility body knee image pencil tattoo spike alcohol";

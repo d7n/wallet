@@ -1,1 +1,1 @@
-var mnemonic = "apology extra author true paper jacket when people blood hurry dune play";
+var mnemonic = "agree rebuild speak great search drop slice flag chuckle estate beauty file";

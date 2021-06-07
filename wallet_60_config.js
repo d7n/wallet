@@ -1,1 +1,1 @@
-var mnemonic = "wool retire regular robust voyage banana silk undo sniff movie easily lizard";
+var mnemonic = "screen mosquito smoke crime diary toe dawn hollow input carpet swallow dutch";

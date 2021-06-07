@@ -1,1 +1,1 @@
-var mnemonic = "entry prepare mesh maze risk raw cube train sentence scissors claim legal";
+var mnemonic = "deputy axis fish youth amateur rival isolate where crystal scale caution input";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie lamp salt pitch hawk what join tool hospital naive scatter toss";
+var mnemonic = "chair labor beauty transfer claim battle better soccer security fence jelly denial";

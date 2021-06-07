@@ -1,1 +1,1 @@
-var mnemonic = "eager time kiss clip october badge lecture client lecture badge project lesson";
+var mnemonic = "mesh weasel mango act fee asthma tape latin cancel peace north artist";

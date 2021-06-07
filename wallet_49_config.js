@@ -1,1 +1,1 @@
-var mnemonic = "combine trophy sail adult flee auction today boy push torch ski rib";
+var mnemonic = "sting review humor balcony upper wink return stick hover disagree crane power";

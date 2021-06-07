@@ -1,1 +1,1 @@
-var mnemonic = "child trouble ranch wreck file remember rebuild pistol next life opera celery";
+var mnemonic = "mention kick volcano ability saddle east observe great senior helmet drink song";

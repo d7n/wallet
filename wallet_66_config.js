@@ -1,1 +1,1 @@
-var mnemonic = "shine matter fat lottery fit deer diet cinnamon hour merry flower ramp";
+var mnemonic = "pluck fringe leg option motor benefit west suggest decline forest soon oppose";

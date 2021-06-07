@@ -1,1 +1,1 @@
-var mnemonic = "cancel opera strike reflect shield country fun whale fox always viable thought";
+var mnemonic = "share search mosquito usage divert person link eye check recall hotel more";

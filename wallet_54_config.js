@@ -1,1 +1,1 @@
-var mnemonic = "crucial unique canvas dance able what excite trend grace wash daring rotate";
+var mnemonic = "vessel puppy giggle gaze accident still enjoy human orange exist yellow team";

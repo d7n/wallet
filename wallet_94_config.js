@@ -1,1 +1,1 @@
-var mnemonic = "sadness mechanic tonight violin narrow steak celery summer huge broccoli dice clarify";
+var mnemonic = "spawn vendor twist wrestle survey attitude olive wedding license street pride hand";

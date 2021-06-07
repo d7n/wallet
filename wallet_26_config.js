@@ -1,1 +1,1 @@
-var mnemonic = "super loyal glad wrong already artist between elder drum tank gold enroll";
+var mnemonic = "because grow lottery actual stadium charge earth purchase sustain theme fashion will";

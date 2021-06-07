@@ -1,1 +1,1 @@
-var mnemonic = "oyster amount capable grunt soda kind mean young seven cannon pyramid monkey";
+var mnemonic = "feature misery fit fatigue captain gain scale office mother pioneer badge include";

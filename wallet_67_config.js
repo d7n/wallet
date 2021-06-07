@@ -1,1 +1,1 @@
-var mnemonic = "cruise hello judge embark life garlic once sadness combine disorder fringe draw";
+var mnemonic = "palace battle during elder sunset vessel body crazy deal nuclear arrest dirt";

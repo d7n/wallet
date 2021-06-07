@@ -1,1 +1,1 @@
-var mnemonic = "journey camera vicious charge path gym must seminar charge palace worth spend";
+var mnemonic = "come aspect much talent wine because ecology worry kitchen pitch virus dance";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial route harvest catch guard tree pig speak since old apology story";
+var mnemonic = "hard document unknown wave erode moral bitter pistol worry enroll dentist noodle";

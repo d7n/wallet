@@ -1,1 +1,1 @@
-var mnemonic = "ticket include desert walk fan copper hospital number soft water fortune bleak";
+var mnemonic = "vague assault magnet unfold bunker humor horn robot chalk exercise slam recall";

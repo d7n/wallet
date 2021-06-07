@@ -1,1 +1,1 @@
-var mnemonic = "can claim affair lecture sport arrange zero desert mom tank liquid resist";
+var mnemonic = "fox organ review moment share media team target there atom region also";

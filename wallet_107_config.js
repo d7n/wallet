@@ -1,1 +1,1 @@
-var mnemonic = "fall clay dilemma husband erase boost unique grief waste magnet hurdle unit";
+var mnemonic = "lock grocery autumn celery ripple apart rebuild vintage glue just inhale multiply";

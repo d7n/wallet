@@ -1,1 +1,1 @@
-var mnemonic = "leaf record broccoli angle level found convince heavy army salute famous topic";
+var mnemonic = "gentle member twenty need later tuition nominee denial barrel frozen bracket high";

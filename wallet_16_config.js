@@ -1,1 +1,1 @@
-var mnemonic = "exile famous raccoon book abandon valid radio alien make ski buzz seminar";
+var mnemonic = "plate grunt swamp grant ethics arrest admit skill amazing snake gesture alley";

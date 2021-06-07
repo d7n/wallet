@@ -1,1 +1,1 @@
-var mnemonic = "mechanic sell sand horn ketchup avoid vessel panel utility repair settle bench";
+var mnemonic = "pigeon season pill ski card radar whip bonus emotion benefit again excuse";

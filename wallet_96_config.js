@@ -1,1 +1,1 @@
-var mnemonic = "core shoot recall mammal number battle desert license boss area way love";
+var mnemonic = "flush kid legal utility hold strategy guard beach prison toward member neck";

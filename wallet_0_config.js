@@ -1,1 +1,1 @@
-var mnemonic = "gun tail purse digital upper ticket strike shallow aware cheap canoe calm";
+var mnemonic = "topic unusual buddy crop torch nest blouse toy skirt injury inform alone";

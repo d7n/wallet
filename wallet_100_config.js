@@ -1,1 +1,1 @@
-var mnemonic = "enjoy ordinary hedgehog snake erosion blush notice close flame scissors patrol neck";
+var mnemonic = "tuition wise sustain coral noodle oblige focus path elbow trust truly ancient";

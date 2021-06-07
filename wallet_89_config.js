@@ -1,1 +1,1 @@
-var mnemonic = "pottery cloud planet please shoe sort situate sun embody find detail stomach";
+var mnemonic = "decline ribbon hungry wedding shuffle outside coffee chair measure give camera session";

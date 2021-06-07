@@ -1,1 +1,1 @@
-var mnemonic = "medal coin piano pioneer civil slim stereo ball injury common pudding ethics";
+var mnemonic = "dinner lake infant diary fish stomach knife air oxygen pottery best chest";

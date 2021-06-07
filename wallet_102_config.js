@@ -1,1 +1,1 @@
-var mnemonic = "country arm bean disagree lesson soup trial toward unaware monster range luxury";
+var mnemonic = "half wheel below lounge moment twin simple virtual impact polar enemy square";

@@ -1,1 +1,1 @@
-var mnemonic = "empty barrel open upper tongue coach snack near chair aspect sword story";
+var mnemonic = "seven vapor slice tribe reveal scare space fresh ski elbow route weasel";

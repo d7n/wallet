@@ -1,1 +1,1 @@
-var mnemonic = "select globe define system employ employ result pool that dial omit over";
+var mnemonic = "move traffic fine aspect load code mercy neglect seek define route shrimp";

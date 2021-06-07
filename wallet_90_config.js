@@ -1,1 +1,1 @@
-var mnemonic = "discover high usage bag park chase year fringe nature caught toddler direct";
+var mnemonic = "cool work achieve fortune cargo crouch mimic bottom search amused unit raccoon";
