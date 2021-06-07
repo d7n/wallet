@@ -1,1 +1,1 @@
-var mnemonic = "narrow tuna keep whip civil elegant exact service blade awful stable mother";
+var mnemonic = "guard gap connect note place dial village rent time vote fitness always";

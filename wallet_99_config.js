@@ -1,1 +1,1 @@
-var mnemonic = "craft possible coffee tuna gloom trophy cycle neutral practice once common ivory";
+var mnemonic = "mechanic ghost favorite fun bundle gain lab visual pulp security comic monster";

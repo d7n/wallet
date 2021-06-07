@@ -1,1 +1,1 @@
-var mnemonic = "nose veteran like nut horse hotel source dinner barrel lunch ocean talk";
+var mnemonic = "protect account display patient come anchor roast jewel indoor evoke error clip";

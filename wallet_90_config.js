@@ -1,1 +1,1 @@
-var mnemonic = "quarter hurdle nasty eagle thank trip inside burger fossil pyramid trim grant";
+var mnemonic = "grunt mirror describe toy street program canvas inquiry fossil flock alert endorse";

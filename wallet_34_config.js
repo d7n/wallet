@@ -1,1 +1,1 @@
-var mnemonic = "clump gold radar merge office noise unknown satisfy harvest monster car beef";
+var mnemonic = "capable matter olympic fuel rural cook silent hub snack field dice work";

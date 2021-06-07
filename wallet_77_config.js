@@ -1,1 +1,1 @@
-var mnemonic = "utility today space matrix duck enhance leader stick gaze accuse proof bag";
+var mnemonic = "please chest marine fan uncover better core lawn asset buzz able orbit";

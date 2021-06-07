@@ -1,1 +1,1 @@
-var mnemonic = "ocean saddle used water clog awkward today survey grant either win ski";
+var mnemonic = "prepare maple spread kind bag merit approve milk wave liberty join brain";

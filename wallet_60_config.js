@@ -1,1 +1,1 @@
-var mnemonic = "join over knock outer marble sport fever hill nut castle chaos elite";
+var mnemonic = "seed caught special double enter stage rack frozen voyage reason notable midnight";

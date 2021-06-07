@@ -1,1 +1,1 @@
-var mnemonic = "hood leg spare creek memory trap remain peanut race chronic debris easy";
+var mnemonic = "zero mesh divide garlic never ticket ginger jump clay auto filter dinosaur";

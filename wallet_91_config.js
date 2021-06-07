@@ -1,1 +1,1 @@
-var mnemonic = "edge advice giggle food pudding clog elbow practice enact crew hybrid shift";
+var mnemonic = "evoke boring edit own put test curious vivid truth raw food cat";

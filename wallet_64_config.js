@@ -1,1 +1,1 @@
-var mnemonic = "advance crucial hill verify deposit poverty music young cat laundry hole borrow";
+var mnemonic = "napkin fence clinic frost enrich session fly bone round brain weather swap";

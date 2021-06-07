@@ -1,1 +1,1 @@
-var mnemonic = "melt alien magnet exchange time hurry filter naive rose fire sad orange";
+var mnemonic = "glue ensure awake meadow adjust universe useless any alpha shock vacuum movie";

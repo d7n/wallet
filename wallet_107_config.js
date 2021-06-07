@@ -1,1 +1,1 @@
-var mnemonic = "identify whale olympic miss accident crunch photo valid ice script reduce shallow";
+var mnemonic = "shoot curve input solid chalk pigeon help discover uncle view shiver essay";

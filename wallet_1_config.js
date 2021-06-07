@@ -1,1 +1,1 @@
-var mnemonic = "lemon sphere absorb thought tag gas mouse pass boil stamp fox pink";
+var mnemonic = "trial design shell token dynamic nasty matter vintage actress oyster genuine neck";

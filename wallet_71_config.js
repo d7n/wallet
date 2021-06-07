@@ -1,1 +1,1 @@
-var mnemonic = "labor shrimp theory hidden bird chuckle senior garlic venue man suffer cereal";
+var mnemonic = "solid jealous galaxy elegant away route entry tomato check exhaust party portion";

@@ -1,1 +1,1 @@
-var mnemonic = "van tomato toilet surprise bachelor detail reform drift blind ice equal swap";
+var mnemonic = "van renew question spider snap estate brush puppy guess charge decorate senior";

@@ -1,1 +1,1 @@
-var mnemonic = "wife snake liar crack moment glory goose project gorilla yard large rubber";
+var mnemonic = "level face flame over fit drift farm prosper feel path above magic";

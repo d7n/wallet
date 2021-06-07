@@ -1,1 +1,1 @@
-var mnemonic = "ring mimic allow knock above behave innocent snack strategy warfare much what";
+var mnemonic = "mansion wet sad neutral liberty praise clown grab cargo taste annual submit";

@@ -1,1 +1,1 @@
-var mnemonic = "flee enemy struggle local buffalo antique cruise danger axis federal bundle move";
+var mnemonic = "young strategy pitch arctic jaguar put purchase display easily ensure fee menu";

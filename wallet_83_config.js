@@ -1,1 +1,1 @@
-var mnemonic = "potato front adjust joke photo bean mail music load scare price sun";
+var mnemonic = "razor inmate humor replace vanish ramp climb diet govern common piano vocal";

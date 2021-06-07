@@ -1,1 +1,1 @@
-var mnemonic = "picture reopen alter damp like chicken organ misery link card travel laptop";
+var mnemonic = "cry garden kitten silent opinion slow sick quote bachelor fringe fame over";

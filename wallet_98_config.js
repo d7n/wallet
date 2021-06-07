@@ -1,1 +1,1 @@
-var mnemonic = "approve diamond brown plunge humble crop embody crunch make snap delay negative";
+var mnemonic = "stable sure wave sand puzzle stool grab catalog suggest wild urge shoe";

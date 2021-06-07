@@ -1,1 +1,1 @@
-var mnemonic = "danger account apart aware wing joy habit steel soon found monster mobile";
+var mnemonic = "alpha answer force congress north mother know gospel cake rich device cycle";

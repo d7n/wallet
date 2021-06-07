@@ -1,1 +1,1 @@
-var mnemonic = "blanket front cake door nest grass build august spice ridge still state";
+var mnemonic = "hobby reopen naive error rate rather math reform float license labor pool";

@@ -1,1 +1,1 @@
-var mnemonic = "blame leaf purse biology night fury demise target velvet motion diet minute";
+var mnemonic = "couch oil wealth phone worth market argue body gate surprise solar apart";

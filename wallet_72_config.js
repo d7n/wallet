@@ -1,1 +1,1 @@
-var mnemonic = "design aspect staff blur firm stick narrow mechanic harsh cherry average genre";
+var mnemonic = "save major mistake spare supply awkward assault razor beach okay isolate thing";

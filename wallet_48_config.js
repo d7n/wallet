@@ -1,1 +1,1 @@
-var mnemonic = "burst exist wise practice boy critic crucial other robust main blue type";
+var mnemonic = "purpose wink claim arrange razor slab stairs afford pudding notable width any";

@@ -1,1 +1,1 @@
-var mnemonic = "vital license dilemma toe unaware egg scan holiday embark cable chicken fade";
+var mnemonic = "adapt minor output trend pumpkin fade ribbon divert hip offer potato cable";

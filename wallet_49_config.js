@@ -1,1 +1,1 @@
-var mnemonic = "seminar amused exist photo interest desert polar scissors social fade traffic hotel";
+var mnemonic = "flee helmet layer discover siege pudding blame bracket sick creek cheese hobby";

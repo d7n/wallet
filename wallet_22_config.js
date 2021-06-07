@@ -1,1 +1,1 @@
-var mnemonic = "suffer dinosaur carpet garment stairs fragile shoe snack start taste cup weapon";
+var mnemonic = "duty taxi inject rib jaguar forum side walnut bullet fluid multiply ability";

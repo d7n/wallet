@@ -1,1 +1,1 @@
-var mnemonic = "cook actual sick pool mercy deliver update nature dad beyond crash want";
+var mnemonic = "depth off fat clump dizzy wing memory bar patch cotton cotton uniform";

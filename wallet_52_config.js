@@ -1,1 +1,1 @@
-var mnemonic = "junk jaguar can island nasty stomach honey proud faint nurse remember balance";
+var mnemonic = "nose echo fix muffin farm cloth accident seat organ glove rather acid";

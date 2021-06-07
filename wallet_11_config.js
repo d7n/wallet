@@ -1,1 +1,1 @@
-var mnemonic = "upper boost nation damage grace universe question code skull tongue sausage polar";
+var mnemonic = "travel finger mistake art sport believe soul gas chuckle movie ribbon swamp";

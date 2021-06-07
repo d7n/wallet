@@ -1,1 +1,1 @@
-var mnemonic = "illegal jar actor inherit idea aware kick hurry banana mandate speed muffin";
+var mnemonic = "behind atom culture ugly bargain subway sleep produce soldier speak weather arena";

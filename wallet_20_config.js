@@ -1,1 +1,1 @@
-var mnemonic = "relax estate lift garden sunset observe mention comic absurd million popular panda";
+var mnemonic = "also wonder dignity slender random similar jacket scrub guitar abstract famous affair";

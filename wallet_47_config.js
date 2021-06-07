@@ -1,1 +1,1 @@
-var mnemonic = "stage foil trust silly remain course census can obtain whale option elevator";
+var mnemonic = "grain sphere crew resource hair cruise company nest trash verify hen distance";

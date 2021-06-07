@@ -1,1 +1,1 @@
-var mnemonic = "bubble absurd embrace orbit toast fun dice syrup range alert lyrics pride";
+var mnemonic = "initial grape giraffe rival tag shrug language exotic record draw spoon recall";

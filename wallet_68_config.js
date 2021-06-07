@@ -1,1 +1,1 @@
-var mnemonic = "news rookie stay fatigue long equip neither expire ranch off whip online";
+var mnemonic = "lamp discover buddy alley error vapor hill diet neither speak maid leave";

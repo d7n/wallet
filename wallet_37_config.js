@@ -1,1 +1,1 @@
-var mnemonic = "awesome basket old fantasy genuine discover dust simple fan space athlete negative";
+var mnemonic = "nest few cereal roast tip search neutral fatal symbol degree penalty recall";

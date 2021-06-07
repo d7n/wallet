@@ -1,1 +1,1 @@
-var mnemonic = "clock claim used bronze brand solution betray urge local letter acquire unfair";
+var mnemonic = "vehicle oyster visual armor vivid few attract valve exchange provide creek awkward";

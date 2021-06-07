@@ -1,1 +1,1 @@
-var mnemonic = "this consider honey decrease initial sign unknown dry easily anchor more ripple";
+var mnemonic = "visa nice bread kind wrestle hill desk high zone debris start tennis";

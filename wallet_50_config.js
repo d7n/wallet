@@ -1,1 +1,1 @@
-var mnemonic = "merit kid crime quick river yellow monkey orphan click spider setup moment";
+var mnemonic = "defense hand lobster web island spend zoo globe fame banana clay tornado";

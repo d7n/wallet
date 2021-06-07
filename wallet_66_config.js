@@ -1,1 +1,1 @@
-var mnemonic = "fury novel bar evil expand prepare grow undo cage spatial obey alarm";
+var mnemonic = "size dust push allow nose test thing desert holiday myth legend mandate";

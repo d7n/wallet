@@ -1,1 +1,1 @@
-var mnemonic = "hawk prosper entry property hurt fine main page spirit frame gun stuff";
+var mnemonic = "praise frame daring sun property before caution insane indoor raw blouse cattle";

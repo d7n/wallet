@@ -1,1 +1,1 @@
-var mnemonic = "one avocado ginger black figure scale shoulder law blood save area work";
+var mnemonic = "boss dawn offer play fence soccer physical enemy conduct arrive pear notice";

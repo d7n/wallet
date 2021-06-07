@@ -1,1 +1,1 @@
-var mnemonic = "wisdom avoid write situate basket fever chronic pepper trip kiwi disease page";
+var mnemonic = "trim cabin lazy dilemma prefer lottery rally fresh library sleep twin obvious";

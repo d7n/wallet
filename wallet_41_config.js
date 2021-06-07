@@ -1,1 +1,1 @@
-var mnemonic = "grain outer vehicle decade vote clever arrange camera novel token quality voyage";
+var mnemonic = "clever motor dove fade fine game donkey elder welcome then twelve borrow";

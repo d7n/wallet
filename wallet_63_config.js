@@ -1,1 +1,1 @@
-var mnemonic = "crouch yard marriage sample lazy black goddess gossip rival soon insane sunny";
+var mnemonic = "broccoli report mixture remind timber wide catch price sure enlist this connect";

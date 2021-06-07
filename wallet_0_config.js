@@ -1,1 +1,1 @@
-var mnemonic = "delay budget remind pepper defy humble twelve depart husband grid unknown discover";
+var mnemonic = "shaft guilt boost ignore nest finger winner learn message duck doll uphold";

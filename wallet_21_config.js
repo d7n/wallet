@@ -1,1 +1,1 @@
-var mnemonic = "asset lens solve impact amazing utility shoe sound plunge evil actor ill";
+var mnemonic = "until correct goose build wall sell panic only there sunny couch cream";

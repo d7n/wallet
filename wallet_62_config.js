@@ -1,1 +1,1 @@
-var mnemonic = "option banana average position radio hire unknown service soft helmet excess way";
+var mnemonic = "link curious brush fat leisure lemon bright blue stable tortoise monkey rude";

@@ -1,1 +1,1 @@
-var mnemonic = "book magnet typical suggest silly amazing tongue attack detect income admit speed";
+var mnemonic = "antenna video rude artist pyramid fury fence december author else scissors furnace";

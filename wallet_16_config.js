@@ -1,1 +1,1 @@
-var mnemonic = "physical sense click guide food cliff village sheriff prevent day service title";
+var mnemonic = "clever awesome clog can lend spell vehicle bubble energy arrange number awkward";

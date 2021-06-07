@@ -1,1 +1,1 @@
-var mnemonic = "spin goddess viable mouse giggle mystery emotion year jeans page sell estate";
+var mnemonic = "planet settle claw nuclear fever globe clever plate few deal gauge turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant cage mountain guess dance multiply evidence base harbor give hawk dress";
+var mnemonic = "jaguar copy loud panther cloud allow curtain rude dust finger antenna alley";

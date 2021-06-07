@@ -1,1 +1,1 @@
-var mnemonic = "merit armor warm flight rely useless humble erase adjust spider cinnamon possible";
+var mnemonic = "bracket stay hurry swallow system lunar local cook vehicle during trick logic";

@@ -1,1 +1,1 @@
-var mnemonic = "latin rain custom rely gospel season reveal amazing glow kidney repair void";
+var mnemonic = "riot intact park giraffe blood couple bitter crane essence elevator enlist cousin";

@@ -1,1 +1,1 @@
-var mnemonic = "degree destroy island once shine host picture scorpion fortune aunt dismiss gesture";
+var mnemonic = "noodle weird craft hard language wage mass idea trap treat weather canyon";

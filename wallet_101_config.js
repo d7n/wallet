@@ -1,1 +1,1 @@
-var mnemonic = "flat gym load next exit level gossip trade daughter include coil kitten";
+var mnemonic = "toddler wine cause column knife myself early horror sound next raise identify";

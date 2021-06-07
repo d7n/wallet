@@ -1,1 +1,1 @@
-var mnemonic = "fantasy polar equal primary route mesh labor fire adapt because where next";
+var mnemonic = "good win churn chimney junior since mass remove chalk bright refuse correct";

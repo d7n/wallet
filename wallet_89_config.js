@@ -1,1 +1,1 @@
-var mnemonic = "hungry toe evoke royal thumb badge prison drift result below recipe cover";
+var mnemonic = "elder dignity wood harbor second bird rhythm scissors this valve wink senior";

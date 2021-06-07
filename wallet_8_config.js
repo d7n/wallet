@@ -1,1 +1,1 @@
-var mnemonic = "you quick ethics federal install middle warrior cricket stand ethics legal cube";
+var mnemonic = "clutch royal future mother sister clean field session pudding art sustain punch";

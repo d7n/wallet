@@ -1,1 +1,1 @@
-var mnemonic = "winner benefit stool shadow surround century surprise razor artefact uniform shadow kind";
+var mnemonic = "seminar harsh copper order switch common input right write hope approve detail";

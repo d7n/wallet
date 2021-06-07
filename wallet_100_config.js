@@ -1,1 +1,1 @@
-var mnemonic = "festival candy man nothing dial echo exclude sponsor cycle key broken shift";
+var mnemonic = "hurry kit cabin almost hire sea once escape select kind rice apology";

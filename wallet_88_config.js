@@ -1,1 +1,1 @@
-var mnemonic = "total boat correct decide abandon uncle vivid disorder adapt youth drink doctor";
+var mnemonic = "physical neck napkin text system local cruel hurry large rigid usage palace";

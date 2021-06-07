@@ -1,1 +1,1 @@
-var mnemonic = "slice know skull rapid simple puzzle inherit speak hard cricket destroy very";
+var mnemonic = "foam century gloom leaf faculty piece base cement viable maid flock shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "horn submit over identify curve act voyage alone cover discover asthma patch";
+var mnemonic = "parrot demise shed matter live mirror wheat language cattle tape concert cause";

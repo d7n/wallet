@@ -1,1 +1,1 @@
-var mnemonic = "hybrid know enhance salt fatal talk taste neck soft certain rude feed";
+var mnemonic = "deal enable napkin alien ostrich segment chunk awkward illegal surface scare immune";

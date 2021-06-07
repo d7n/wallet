@@ -1,1 +1,1 @@
-var mnemonic = "buzz walk mom surround exclude foam verb owner fault balance bean romance";
+var mnemonic = "walnut bamboo drive fence zebra panther ranch once various rocket rail suggest";

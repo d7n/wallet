@@ -1,1 +1,1 @@
-var mnemonic = "finish video dog cancel taste ancient lamp confirm muscle popular achieve gloom";
+var mnemonic = "frown jazz left race among hamster execute alone reject husband smooth increase";

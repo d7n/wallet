@@ -1,1 +1,1 @@
-var mnemonic = "wine clever naive gun original caution muscle settle width steel unlock fruit";
+var mnemonic = "orange limb differ use blouse shove exact hen business sample cradle harsh";

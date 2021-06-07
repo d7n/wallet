@@ -1,1 +1,1 @@
-var mnemonic = "ketchup plunge comfort half planet practice unfold grain crane stomach into hello";
+var mnemonic = "inject relax there direct social cover range fitness stand project blind coin";

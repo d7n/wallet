@@ -1,1 +1,1 @@
-var mnemonic = "usual proud fix squirrel eternal brisk donate bargain hawk bench donate myself";
+var mnemonic = "theory deny trophy measure movie cake glow churn you margin honey gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich label dog almost uphold tomato rescue common boil price talk viable";
+var mnemonic = "lecture innocent whale razor flock boss melt junior essence company theory demise";

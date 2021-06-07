@@ -1,1 +1,1 @@
-var mnemonic = "picture cable vast today expose teach swarm chair snow addict powder peace";
+var mnemonic = "pride virtual multiply time enlist squeeze actual table hen modify rice fit";

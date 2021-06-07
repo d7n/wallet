@@ -1,1 +1,1 @@
-var mnemonic = "ketchup code step gasp avocado blanket angry steak like improve citizen oblige";
+var mnemonic = "woman pond rough hello surprise useful small gaze spike hunt long warrior";

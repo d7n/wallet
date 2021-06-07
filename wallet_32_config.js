@@ -1,1 +1,1 @@
-var mnemonic = "rent impact crazy wait spawn decide civil exercise moon account safe amateur";
+var mnemonic = "rebel radio annual deny move bonus quiz question test cook toddler census";

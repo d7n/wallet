@@ -1,1 +1,1 @@
-var mnemonic = "father fan armed earth vapor shy cousin basic topple deliver obey bus";
+var mnemonic = "light comfort seven select essence blue mesh risk life dignity apple trash";

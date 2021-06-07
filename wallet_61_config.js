@@ -1,1 +1,1 @@
-var mnemonic = "dutch wing name barely reveal orphan spider lend maid garden club mass";
+var mnemonic = "month shift husband pair obtain isolate ghost zebra welcome wave picnic shock";

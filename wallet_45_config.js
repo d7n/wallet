@@ -1,1 +1,1 @@
-var mnemonic = "voyage clever feed south core equal copper yellow girl deer delay question";
+var mnemonic = "journey anger bind under half frame trophy float clay tree unfold toy";

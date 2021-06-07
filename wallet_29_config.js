@@ -1,1 +1,1 @@
-var mnemonic = "guilt claw announce ribbon praise zebra business taste write add south level";
+var mnemonic = "wedding chalk board advice divide unit inner brown gate village violin clump";

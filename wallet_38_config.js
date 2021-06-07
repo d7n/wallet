@@ -1,1 +1,1 @@
-var mnemonic = "shoulder satoshi museum people pizza solid cannon test poverty use another family";
+var mnemonic = "duck coach normal setup ridge sleep hour submit sibling wet tell raw";

@@ -1,1 +1,1 @@
-var mnemonic = "place pulse nuclear clerk avoid sketch steak rural work detail young artist";
+var mnemonic = "retreat border lounge view cruise winter trip isolate casino treat wage eye";

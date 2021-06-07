@@ -1,1 +1,1 @@
-var mnemonic = "lemon lab cream cotton vapor trick laugh save flip coral gold curtain";
+var mnemonic = "draft toward label various grass funny snap umbrella snake impact before quantum";

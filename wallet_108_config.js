@@ -1,1 +1,1 @@
-var mnemonic = "oppose elder obscure squirrel sand dog mad art farm buddy atom dad";
+var mnemonic = "absurd weekend ahead mushroom slight news sugar dragon teach vault price pave";

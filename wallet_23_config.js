@@ -1,1 +1,1 @@
-var mnemonic = "bike lady pepper payment tumble rhythm boat goose afraid relax climb promote";
+var mnemonic = "spell neutral off kitten pair proof used belt swing mystery shove often";

@@ -1,1 +1,1 @@
-var mnemonic = "into stick moment opinion region bounce usual poet gospel virtual vote split";
+var mnemonic = "canal social arrive country will life test egg abuse any clutch ugly";

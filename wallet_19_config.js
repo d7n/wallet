@@ -1,1 +1,1 @@
-var mnemonic = "toss boss damage ozone satisfy honey anger moral just arctic hello column";
+var mnemonic = "shallow window lumber orange empower salad input lonely across notice shine loyal";

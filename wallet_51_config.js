@@ -1,1 +1,1 @@
-var mnemonic = "video matrix balcony expose razor victory license punch ceiling work stairs hawk";
+var mnemonic = "outside shaft glue fit success price bird panic rail offer cabbage solar";

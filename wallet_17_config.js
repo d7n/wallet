@@ -1,1 +1,1 @@
-var mnemonic = "aunt utility idea jar option secret obey employ hard skull glove unaware";
+var mnemonic = "tag sweet round fruit ivory fold slice easily field clerk option weekend";

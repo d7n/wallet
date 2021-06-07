@@ -1,1 +1,1 @@
-var mnemonic = "dragon tenant trim shift festival pretty what lift render stem illness east";
+var mnemonic = "liquid unveil angry shoe hero vacuum column carbon brass loop noodle river";

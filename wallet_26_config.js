@@ -1,1 +1,1 @@
-var mnemonic = "better fault view theory estate danger hobby about defy bind modify rug";
+var mnemonic = "arctic domain vital twin anchor today extra practice forest afford exile almost";

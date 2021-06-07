@@ -1,1 +1,1 @@
-var mnemonic = "chef slice winter same memory exist photo skill grace rebuild shrimp expose";
+var mnemonic = "pear step delay olympic spatial oblige digital large vital initial runway network";

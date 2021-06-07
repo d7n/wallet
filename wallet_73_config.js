@@ -1,1 +1,1 @@
-var mnemonic = "neglect innocent hour range style rib earn owner faith measure hurdle super";
+var mnemonic = "buzz north bus final diagram expose gallery shiver exile shoe dial crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "exact domain item biology decrease credit erosion session elbow once pencil three";
+var mnemonic = "swamp range age weapon round major food air eager feel oxygen panic";

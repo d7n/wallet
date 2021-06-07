@@ -1,1 +1,1 @@
-var mnemonic = "close people rug apple diesel city antenna balance flower forest local banana";
+var mnemonic = "mushroom mystery this course group check crisp episode tool salute bracket stem";

@@ -1,1 +1,1 @@
-var mnemonic = "sting view lobster term trumpet celery item debris leader where subway embark";
+var mnemonic = "siege panther august imitate bronze yellow liberty vacant draft poem night tuna";
