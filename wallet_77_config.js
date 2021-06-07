@@ -1,1 +1,1 @@
-var mnemonic = "busy once gaze arm liar soap dance veteran galaxy inform accuse emerge";
+var mnemonic = "mammal enough pulp despair cry quick slight recycle club exhaust drill hour";

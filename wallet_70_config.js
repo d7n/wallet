@@ -1,1 +1,1 @@
-var mnemonic = "junk fragile demand clip surface picture august smart churn fashion mass join";
+var mnemonic = "grow razor dance satisfy joy swear early pact prison verify achieve enemy";

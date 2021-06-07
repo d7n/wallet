@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow secret apple surface bid skull hover bird obscure pool call nest";
+var mnemonic = "dice cruel someone castle rapid away grant remember anxiety jacket army soda";

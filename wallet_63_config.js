@@ -1,1 +1,1 @@
-var mnemonic = "primary symbol eye horn blur deer drum music virtual trim law fitness";
+var mnemonic = "helmet avoid such patient spring develop spray certain fancy try ostrich cram";

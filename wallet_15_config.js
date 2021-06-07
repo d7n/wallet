@@ -1,1 +1,1 @@
-var mnemonic = "usage rural nominee orient world hour that oil robust toss sustain argue";
+var mnemonic = "arctic dish monster slice dash moral wagon voyage green erode category seminar";

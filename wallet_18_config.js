@@ -1,1 +1,1 @@
-var mnemonic = "focus water very wreck ripple battle minor ritual rail walk tell door";
+var mnemonic = "arm lady mimic pact hammer page solution path alpha black scatter coast";

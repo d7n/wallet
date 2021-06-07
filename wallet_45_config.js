@@ -1,1 +1,1 @@
-var mnemonic = "prize daring balcony message bubble excess nose legal help wall slam engine";
+var mnemonic = "two nothing hunt menu more comic awake tail river display ride fish";

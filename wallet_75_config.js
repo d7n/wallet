@@ -1,1 +1,1 @@
-var mnemonic = "float genre sort equal truly toss cram injury pattern pistol oblige run";
+var mnemonic = "reunion fringe initial hedgehog tank language faith artefact change robot execute misery";

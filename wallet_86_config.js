@@ -1,1 +1,1 @@
-var mnemonic = "code gesture doll paper spawn roof tobacco trip volume fog ship drip";
+var mnemonic = "pluck salute either thank pride step fiction dinner spin brick void display";

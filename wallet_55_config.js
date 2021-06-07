@@ -1,1 +1,1 @@
-var mnemonic = "spray example access humor voice rabbit sell hover front vivid leave foil";
+var mnemonic = "grain roof bottom cool fault leg spoon crane urban element beef doll";

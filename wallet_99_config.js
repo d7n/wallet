@@ -1,1 +1,1 @@
-var mnemonic = "large party tell winter air joy estate abandon great token legal also";
+var mnemonic = "voyage announce uniform gain surge traffic subject erosion aunt nothing seed silent";

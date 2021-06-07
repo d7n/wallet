@@ -1,1 +1,1 @@
-var mnemonic = "figure extra maple stairs near nerve again describe decrease cup recall glad";
+var mnemonic = "dress goat impact cost rare honey awesome animal legal staff reward layer";

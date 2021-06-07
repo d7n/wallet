@@ -1,1 +1,1 @@
-var mnemonic = "labor simple ritual before drastic injury rice surprise drill asset submit grain";
+var mnemonic = "axis duck gain crack tent define elephant slice recipe misery wealth slender";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue title gap pioneer clog pair ring sphere arm tenant mandate example";
+var mnemonic = "empower response chapter used pave olive love pepper quote scatter avocado narrow";

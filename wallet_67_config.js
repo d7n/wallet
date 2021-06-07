@@ -1,1 +1,1 @@
-var mnemonic = "army label shell clock endless orange universe stool surround junior venue tube";
+var mnemonic = "salmon box plastic knife cup police buzz street bless odor census shield";

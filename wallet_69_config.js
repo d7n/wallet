@@ -1,1 +1,1 @@
-var mnemonic = "tell metal bubble roof measure also charge moon piano unlock canal army";
+var mnemonic = "crunch work salmon measure reduce guard goddess month siren chalk quick estate";

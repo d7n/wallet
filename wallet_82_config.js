@@ -1,1 +1,1 @@
-var mnemonic = "rookie remind rigid bomb dutch certain license recipe body blood youth luggage";
+var mnemonic = "escape acoustic lawsuit aware focus quote spoil twin panda student worry arena";

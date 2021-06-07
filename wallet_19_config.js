@@ -1,1 +1,1 @@
-var mnemonic = "foil artwork omit fetch guard behind area sketch attract add debris cigar";
+var mnemonic = "mom surface valve stuff explain sadness wage advance violin expect city agree";

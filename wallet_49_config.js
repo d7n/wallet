@@ -1,1 +1,1 @@
-var mnemonic = "dog song deer olive chunk fetch sunny unusual unfair sorry custom pulse";
+var mnemonic = "bleak inflict fly slight alone swift grace sugar purity intact note clean";

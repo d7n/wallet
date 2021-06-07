@@ -1,1 +1,1 @@
-var mnemonic = "fan reduce render since hurdle swallow faint loud bone review boil enrich";
+var mnemonic = "zone match bottom moment train make powder afford twenty glide mesh obtain";

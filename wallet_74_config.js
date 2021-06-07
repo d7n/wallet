@@ -1,1 +1,1 @@
-var mnemonic = "draft advance lobster leave suit lamp account input neutral good seat capable";
+var mnemonic = "rain demise picture clutch pencil evil answer system shop vast bullet search";

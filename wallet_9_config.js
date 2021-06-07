@@ -1,1 +1,1 @@
-var mnemonic = "month enforce suit hawk february round summer brand enroll dial base hat";
+var mnemonic = "endorse jealous decline vendor repair ecology vessel cause castle job arm inquiry";

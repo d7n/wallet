@@ -1,1 +1,1 @@
-var mnemonic = "awkward bless special pond multiply pair save crop blind drop prefer copper";
+var mnemonic = "charge cinnamon code ribbon host enjoy bar whale rotate spin sun return";

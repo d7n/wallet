@@ -1,1 +1,1 @@
-var mnemonic = "infant potato foam window illness love cloud infant retire infant eye key";
+var mnemonic = "armor wear always story capital crouch ritual weasel canoe exchange stuff beauty";

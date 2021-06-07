@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur spin rely hope keep beauty coffee brick sound step gloom neglect";
+var mnemonic = "rough advance pill ivory weasel bitter cloth option frozen favorite minor grocery";

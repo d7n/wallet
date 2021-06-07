@@ -1,1 +1,1 @@
-var mnemonic = "together category goose immune warrior moon senior jeans bonus ceiling luggage announce";
+var mnemonic = "eternal aunt muffin gold absent daring mandate lonely unique act pass laptop";

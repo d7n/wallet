@@ -1,1 +1,1 @@
-var mnemonic = "fun bargain address van gorilla section reduce stone machine author couch ahead";
+var mnemonic = "early mask ball wasp fever weekend image tourist chuckle theory bridge aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "slender move credit catalog useless catalog escape power blind violin unfair thank";
+var mnemonic = "connect dinosaur drip latin ignore mystery bless vault cat sting blood pipe";

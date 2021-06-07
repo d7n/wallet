@@ -1,1 +1,1 @@
-var mnemonic = "logic push various aerobic cabbage sustain plate symbol awesome endorse discover view";
+var mnemonic = "husband cool foot join north ketchup eagle brand cheap remind kite sword";

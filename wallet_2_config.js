@@ -1,1 +1,1 @@
-var mnemonic = "twin floor bone govern beach audit print thunder cable town panda rigid";
+var mnemonic = "can tennis cluster mirror language industry mother recycle chase soccer summer segment";

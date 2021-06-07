@@ -1,1 +1,1 @@
-var mnemonic = "impulse surface song net paddle canoe cram core great siren able require";
+var mnemonic = "must orange post biology parent lumber similar wonder deal plate goose pet";

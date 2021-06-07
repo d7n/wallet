@@ -1,1 +1,1 @@
-var mnemonic = "company maze float chest walk bird daughter rotate slogan endorse physical tattoo";
+var mnemonic = "olive arena leisure secret yellow position begin join cloud raven beef identify";

@@ -1,1 +1,1 @@
-var mnemonic = "remind able glad zone device document name stick shuffle tomato noise biology";
+var mnemonic = "spend hint fee glory resource capital gesture output zero wealth category essay";

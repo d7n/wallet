@@ -1,1 +1,1 @@
-var mnemonic = "lottery endorse snap crawl rich gate virus thing affair aspect oak pact";
+var mnemonic = "nothing knee mad auto purchase used keen develop print response sand dream";

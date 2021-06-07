@@ -1,1 +1,1 @@
-var mnemonic = "infant idle mule bring sniff album hurdle clown sick mixed crew satisfy";
+var mnemonic = "wheat chat helmet fade raise erupt rotate private wage twice blouse raise";

@@ -1,1 +1,1 @@
-var mnemonic = "risk shrimp buyer menu fork soldier walk swear portion bonus issue raccoon";
+var mnemonic = "robust draw south expose explain whip anger cake unable guess poverty knife";

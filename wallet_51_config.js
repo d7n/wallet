@@ -1,1 +1,1 @@
-var mnemonic = "female key rack still tissue insect only symbol barely enter endless kid";
+var mnemonic = "daring between occur input hawk gasp seek praise jewel gym car swallow";

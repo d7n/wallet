@@ -1,1 +1,1 @@
-var mnemonic = "assist rebel goddess tube put knife buffalo update kingdom pear first duty";
+var mnemonic = "refuse betray naive city still cute high grab color work around embrace";

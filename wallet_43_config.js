@@ -1,1 +1,1 @@
-var mnemonic = "patrol mad alien woman simple admit basket manage tiger gasp survey boy";
+var mnemonic = "increase dismiss flower plug gate tree pelican patient settle pigeon goose myself";

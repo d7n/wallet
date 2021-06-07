@@ -1,1 +1,1 @@
-var mnemonic = "mean salt marble know orient chest upgrade manage draw blossom best wealth";
+var mnemonic = "goat refuse close will pulse hello involve section garden kiwi tiger dress";

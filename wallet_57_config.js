@@ -1,1 +1,1 @@
-var mnemonic = "someone limit lyrics velvet broom pause tired mind alpha olive image review";
+var mnemonic = "brick announce smart mad seat also obvious blame render tuition riot battle";

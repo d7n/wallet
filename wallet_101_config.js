@@ -1,1 +1,1 @@
-var mnemonic = "hand sniff embrace exist film shrimp pudding twelve various earn wish album";
+var mnemonic = "also sick gasp square outdoor wait trouble donkey humor pull basic dial";

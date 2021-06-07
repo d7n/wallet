@@ -1,1 +1,1 @@
-var mnemonic = "fetch lady renew rebuild trap diagram nephew female okay soccer letter crack";
+var mnemonic = "smart enact second soda high wild funny city license wise live identify";

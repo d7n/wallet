@@ -1,1 +1,1 @@
-var mnemonic = "you tip salad knife spring huge approve ride celery fence aware used";
+var mnemonic = "own dog add embark say silk increase hill artefact target race help";

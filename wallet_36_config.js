@@ -1,1 +1,1 @@
-var mnemonic = "forget lizard try purpose soldier burst save frown panther crime quit wise";
+var mnemonic = "window very case rib begin copper useful latin match parrot fit feed";

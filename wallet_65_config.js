@@ -1,1 +1,1 @@
-var mnemonic = "wheel jealous obscure theory custom question discover kitten fog mention leisure list";
+var mnemonic = "special theory churn wrestle mandate artist ghost clutch rule ethics unhappy tenant";

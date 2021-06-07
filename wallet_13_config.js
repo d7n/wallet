@@ -1,1 +1,1 @@
-var mnemonic = "chuckle six erase muscle struggle wear lazy faith drum actor clump post";
+var mnemonic = "asthma dolphin sentence hard bring ride sudden maximum gap cancel survey chronic";

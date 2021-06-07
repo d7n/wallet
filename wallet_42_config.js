@@ -1,1 +1,1 @@
-var mnemonic = "disagree please copper nasty trim paddle satoshi bike ostrich gauge sustain raw";
+var mnemonic = "frequent satisfy inside measure patient hour coach cream label frame earth coyote";

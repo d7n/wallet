@@ -1,1 +1,1 @@
-var mnemonic = "master empty tone device inquiry repair elevator this axis mix banner elder";
+var mnemonic = "apart alley pulse point elder social sorry tongue major suspect web dumb";

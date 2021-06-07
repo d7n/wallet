@@ -1,1 +1,1 @@
-var mnemonic = "brand lawn series tank churn private apology skill error thrive december hammer";
+var mnemonic = "impact april girl impact electric detect warfare mean roast super sweet kid";

@@ -1,1 +1,1 @@
-var mnemonic = "record answer deposit carry develop orbit that acquire chief laundry behave awesome";
+var mnemonic = "benefit kingdom senior cram achieve vehicle copy torch chat pulp auction slush";

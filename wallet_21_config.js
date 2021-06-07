@@ -1,1 +1,1 @@
-var mnemonic = "consider drift awake define verify skin purse diagram horse useful enter hazard";
+var mnemonic = "trash city aspect start brand kitchen bargain cover rich lottery sign one";

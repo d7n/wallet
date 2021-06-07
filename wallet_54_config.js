@@ -1,1 +1,1 @@
-var mnemonic = "pond million gaze blouse crash magnet stool column top transfer magnet dumb";
+var mnemonic = "among dice verb model rate crane goddess valley hungry rigid try alone";

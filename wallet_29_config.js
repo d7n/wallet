@@ -1,1 +1,1 @@
-var mnemonic = "lumber ice sea actor truck disease few aerobic assault fiction glance come";
+var mnemonic = "make ostrich wide comfort hair mule quiz round spider hover burger together";

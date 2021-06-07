@@ -1,1 +1,1 @@
-var mnemonic = "warfare exotic garage silly confirm impulse aerobic undo motor tell diesel smile";
+var mnemonic = "shiver screen color cram actress ability nation open regret balcony door polar";

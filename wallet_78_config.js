@@ -1,1 +1,1 @@
-var mnemonic = "nose donkey kangaroo noodle whip december easily melt wedding clip bonus music";
+var mnemonic = "whale wine absent later oak ignore survey very riot suggest future invite";

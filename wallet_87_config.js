@@ -1,1 +1,1 @@
-var mnemonic = "stem fork swallow cheese dash tattoo way mother fragile verify accuse caught";
+var mnemonic = "gym swamp rent baby business clerk fiscal jewel trophy harvest shop duck";

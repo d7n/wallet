@@ -1,1 +1,1 @@
-var mnemonic = "sleep spawn glass private poet worth rely step rose panel puzzle north";
+var mnemonic = "mixture member local inside welcome spoon lunar clever settle exit fever reflect";

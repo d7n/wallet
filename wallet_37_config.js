@@ -1,1 +1,1 @@
-var mnemonic = "veteran kitchen clump story pencil thought timber impulse cancel address tobacco nephew";
+var mnemonic = "snap mesh aunt kitchen peasant circle fatal warrior tree lonely expose nerve";

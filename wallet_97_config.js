@@ -1,1 +1,1 @@
-var mnemonic = "fury mammal balance solid rookie gift add entire glide mixture advance present";
+var mnemonic = "rough east rapid hard praise help remove need recipe feel avoid habit";

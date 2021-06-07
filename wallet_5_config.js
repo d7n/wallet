@@ -1,1 +1,1 @@
-var mnemonic = "tower young lonely beyond kiwi present goddess plug outer act mercy boat";
+var mnemonic = "update wish category clown alpha vintage reform valid pole weekend crane gasp";

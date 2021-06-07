@@ -1,1 +1,1 @@
-var mnemonic = "together loyal west melody boy gesture purity box industry bulk cup swamp";
+var mnemonic = "arrive lesson fiction layer fresh rhythm electric oval lock skill viable ahead";

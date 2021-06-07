@@ -1,1 +1,1 @@
-var mnemonic = "chalk flag mad sail april conduct alcohol library entry empty bronze truck";
+var mnemonic = "ranch glue finish resemble grow judge price hint follow remove income discover";

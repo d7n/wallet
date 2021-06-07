@@ -1,1 +1,1 @@
-var mnemonic = "move number film type gesture transfer item depart cannon glimpse chalk festival";
+var mnemonic = "second balcony reveal truly pony antique space fluid camp violin inquiry hen";

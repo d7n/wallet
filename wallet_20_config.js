@@ -1,1 +1,1 @@
-var mnemonic = "vocal crowd daughter pelican play medal lamp crouch segment scatter portion kiwi";
+var mnemonic = "baby toddler pill expose salt recall knock empower lab boost model minute";

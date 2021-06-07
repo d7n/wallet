@@ -1,1 +1,1 @@
-var mnemonic = "raccoon always vault vivid canvas direct tower roast cherry input silent wait";
+var mnemonic = "service elevator senior shrug canvas produce network opinion fine flip dry swap";

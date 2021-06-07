@@ -1,1 +1,1 @@
-var mnemonic = "humor derive receive rug sound deposit other pride can deputy resource little";
+var mnemonic = "blame lift symbol like remind gauge source outside erode second kite huge";

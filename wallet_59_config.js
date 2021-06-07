@@ -1,1 +1,1 @@
-var mnemonic = "inch bacon gentle fee develop pen fabric spider damp obtain survey gasp";
+var mnemonic = "gaze zoo phrase talent few various scout convince damage walnut evidence produce";

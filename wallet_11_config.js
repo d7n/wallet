@@ -1,1 +1,1 @@
-var mnemonic = "response duty wisdom balance midnight dad clean symbol cargo denial melt planet";
+var mnemonic = "vital badge approve enlist eternal main rival law episode leaf vocal ripple";

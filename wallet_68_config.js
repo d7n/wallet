@@ -1,1 +1,1 @@
-var mnemonic = "jeans future basket surface weasel chuckle secret defense slight obvious concert mother";
+var mnemonic = "already misery path van battle immense include distance salon raven abandon muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit puzzle betray salmon kid game donor bleak giant struggle couple news";
+var mnemonic = "quantum kind gather major chunk fragile smoke warrior trade trust satisfy subject";

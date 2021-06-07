@@ -1,1 +1,1 @@
-var mnemonic = "income number album bread rent caught artefact neck ostrich record rookie carbon";
+var mnemonic = "phone october code project try asthma shed cook stem craft attack labor";

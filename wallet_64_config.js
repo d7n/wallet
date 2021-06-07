@@ -1,1 +1,1 @@
-var mnemonic = "bicycle object clog close keep rate ostrich axis globe need guide kiss";
+var mnemonic = "return garage warm situate sand diary vivid scare logic present extra ready";

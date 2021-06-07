@@ -1,1 +1,1 @@
-var mnemonic = "lounge tomato loan mosquito tone gossip merry increase mechanic mouse taxi bachelor";
+var mnemonic = "glass explain fault travel then hundred spawn faculty small decide lonely dress";

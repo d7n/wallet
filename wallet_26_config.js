@@ -1,1 +1,1 @@
-var mnemonic = "dolphin weapon task trap random recipe tube tomorrow grow lock rare suffer";
+var mnemonic = "salute guess hour mass amateur viable speak siege ozone purity milk canvas";

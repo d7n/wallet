@@ -1,1 +1,1 @@
-var mnemonic = "quiz citizen curtain exit jaguar flush essay ozone industry cool situate miss";
+var mnemonic = "effort mother rain effort glory satoshi devote must pumpkin case cross trumpet";

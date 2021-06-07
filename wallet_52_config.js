@@ -1,1 +1,1 @@
-var mnemonic = "fox indicate follow actress vacant speak dog tooth kitten mirror nut bounce";
+var mnemonic = "odor jungle cinnamon rigid ahead opera abandon catch beyond chair amount wage";

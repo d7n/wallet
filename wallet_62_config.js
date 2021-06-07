@@ -1,1 +1,1 @@
-var mnemonic = "inherit indoor machine judge rapid guide clap cotton lava olive myth conduct";
+var mnemonic = "marriage chase valve rug neutral build school mimic alcohol huge quit clever";

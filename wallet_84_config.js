@@ -1,1 +1,1 @@
-var mnemonic = "dress able soccer note ride execute hospital forward scrub voyage upon cute";
+var mnemonic = "title video clay raise beef chaos veteran section thank beauty try depend";

@@ -1,1 +1,1 @@
-var mnemonic = "surface skin sadness approve leader then tribe trend broken mixed admit exhibit";
+var mnemonic = "film isolate coffee region ribbon explain aspect leisure room cargo ozone upon";

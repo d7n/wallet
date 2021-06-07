@@ -1,1 +1,1 @@
-var mnemonic = "whisper stumble frog maximum salute swallow suit wash impulse essence goose claw";
+var mnemonic = "globe total illegal tray actual banana category federal goat gauge unlock rather";

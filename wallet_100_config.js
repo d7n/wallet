@@ -1,1 +1,1 @@
-var mnemonic = "vast alter wire online home barrel network umbrella purity spike venture glimpse";
+var mnemonic = "start jar nasty tent visa forum pride company diagram island brand job";

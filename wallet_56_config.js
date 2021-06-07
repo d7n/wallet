@@ -1,1 +1,1 @@
-var mnemonic = "appear fit wait easily energy gift fall ecology depend oval awesome anxiety";
+var mnemonic = "desert finger wreck deliver language enroll execute identify cute cover couch lumber";

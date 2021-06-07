@@ -1,1 +1,1 @@
-var mnemonic = "jealous shuffle hungry weird plug life disease chronic pull salmon drill perfect";
+var mnemonic = "cruise video nurse limit turn prison turtle child outdoor cook animal boy";

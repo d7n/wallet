@@ -1,1 +1,1 @@
-var mnemonic = "base police when sun process busy shove uncover flag vapor bicycle wonder";
+var mnemonic = "elegant truck admit pet season grocery purchase wreck dial magic over there";

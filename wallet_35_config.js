@@ -1,1 +1,1 @@
-var mnemonic = "park canal square long illness soda response inquiry gold filter prepare deposit";
+var mnemonic = "survey trash team demand bomb churn chat silk crack home bachelor scare";

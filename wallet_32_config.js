@@ -1,1 +1,1 @@
-var mnemonic = "fit seven indoor combine now truck cheese member question ginger tell float";
+var mnemonic = "mean street raw member divide border weasel urban sea rate step damp";

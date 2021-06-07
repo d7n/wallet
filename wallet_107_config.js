@@ -1,1 +1,1 @@
-var mnemonic = "raccoon grow naive disorder adult alien pull ankle couch guide bachelor blue";
+var mnemonic = "rain maximum drink mango toddler promote cycle choose summer cinnamon glue ocean";

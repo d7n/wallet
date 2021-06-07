@@ -1,1 +1,1 @@
-var mnemonic = "weasel lend erupt margin abandon fog fault satisfy police outer shield furnace";
+var mnemonic = "explain palm fan dry brain pigeon solar color brother float jaguar idle";
