@@ -1,1 +1,1 @@
-var mnemonic = "special east estate adapt need sweet remove nuclear squirrel lemon fire oblige";
+var mnemonic = "economy siege rare maximum slot thumb kiwi dial basket finger absent phone";

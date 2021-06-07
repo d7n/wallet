@@ -1,1 +1,1 @@
-var mnemonic = "glimpse segment sunset bamboo fatal repeat bonus alien cat image gate bomb";
+var mnemonic = "child decline fix amateur render asthma pride bunker hill bomb syrup enter";

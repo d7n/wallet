@@ -1,1 +1,1 @@
-var mnemonic = "coyote multiply world antique rude about athlete work cat fluid anger toss";
+var mnemonic = "pet core giant sport panel giggle shaft upper vocal delay grape fire";

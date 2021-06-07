@@ -1,1 +1,1 @@
-var mnemonic = "fat brick damp jaguar evil possible doctor clerk mule sustain seat raccoon";
+var mnemonic = "apple before around winter wool hope smart water identify safe elder carpet";

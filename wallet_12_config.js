@@ -1,1 +1,1 @@
-var mnemonic = "snow range repair logic trash clinic island famous furnace cannon defy drive";
+var mnemonic = "awesome symbol razor media benefit pumpkin inquiry sure rhythm elephant genius capital";

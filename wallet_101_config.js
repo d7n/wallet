@@ -1,1 +1,1 @@
-var mnemonic = "art imitate imitate apart border option bottom debate lift talent since episode";
+var mnemonic = "intact source flush alcohol guitar fun urge liquid neck steak indoor bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp match typical law family force food because dutch help neutral mirror";
+var mnemonic = "cube sister when vanish reunion have chunk trash split correct promote barrel";

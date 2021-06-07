@@ -1,1 +1,1 @@
-var mnemonic = "soup online vault slot offer brass verify antenna popular medal inform frame";
+var mnemonic = "oyster annual inside bamboo pupil pottery kingdom solution define saddle ripple pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "visual crazy broom term adult market fetch happy puzzle unaware current swear";
+var mnemonic = "park coast spy evidence banana lamp image domain situate excess credit menu";

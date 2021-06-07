@@ -1,1 +1,1 @@
-var mnemonic = "divert affair until animal art kiwi addict chef juice real advice wreck";
+var mnemonic = "hour slab round region dentist else manual income garden mobile tunnel exist";

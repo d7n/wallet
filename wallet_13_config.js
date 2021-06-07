@@ -1,1 +1,1 @@
-var mnemonic = "cheese hire dinosaur endorse attack smart aim slide survey garage soda resource";
+var mnemonic = "throw will floor crater major rotate device high code knock crater nest";

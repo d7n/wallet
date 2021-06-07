@@ -1,1 +1,1 @@
-var mnemonic = "hawk chest valid afford similar glad pistol enjoy north copper essay enter";
+var mnemonic = "hello other beauty come become river churn spike secret mushroom arch into";

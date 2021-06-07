@@ -1,1 +1,1 @@
-var mnemonic = "pause flat clarify account away harbor tree detail scorpion release hazard lumber";
+var mnemonic = "pond correct target horse notable honey shift again demise mix infant deposit";

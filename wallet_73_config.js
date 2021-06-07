@@ -1,1 +1,1 @@
-var mnemonic = "valve shiver save exist priority couple utility pilot asthma gas stand donkey";
+var mnemonic = "someone menu caution permit tongue fine help begin broccoli balcony auction voyage";

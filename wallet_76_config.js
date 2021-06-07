@@ -1,1 +1,1 @@
-var mnemonic = "horror tribe prepare tennis favorite jealous master cabin wife night apart nasty";
+var mnemonic = "ritual weasel limit lend work join sugar grab usual beach relief era";

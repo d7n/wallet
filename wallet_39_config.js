@@ -1,1 +1,1 @@
-var mnemonic = "feature skirt spatial canyon project minute solution donor fury acid citizen repeat";
+var mnemonic = "scare point uncover turtle piece judge expand scale entire road merge muffin";

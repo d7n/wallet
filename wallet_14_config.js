@@ -1,1 +1,1 @@
-var mnemonic = "thrive relax ready between client entry office unusual remain crisp bamboo crack";
+var mnemonic = "nephew gospel force toy together web noise chair physical raccoon icon lab";

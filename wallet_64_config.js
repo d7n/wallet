@@ -1,1 +1,1 @@
-var mnemonic = "father brick casino glad urban name detect umbrella joke filter narrow weekend";
+var mnemonic = "frozen island safe tired seek blind argue liar second hour walk lava";

@@ -1,1 +1,1 @@
-var mnemonic = "during fuel record cave layer limb gallery rifle finish receive illegal raise";
+var mnemonic = "loud install violin camp master faith steak similar delay casual assume bread";

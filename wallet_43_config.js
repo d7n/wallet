@@ -1,1 +1,1 @@
-var mnemonic = "neglect liberty riot great street zoo escape hazard knock slender dance today";
+var mnemonic = "receive wild veteran party inhale praise help eyebrow control ivory kid spring";

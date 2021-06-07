@@ -1,1 +1,1 @@
-var mnemonic = "next split curtain lizard hip client avocado finish region blood panic local";
+var mnemonic = "favorite hover coyote zone print flag pupil hotel impulse sand foil amount";

@@ -1,1 +1,1 @@
-var mnemonic = "action region middle crater multiply crowd decrease squirrel sunset dinner ordinary divorce";
+var mnemonic = "move shift valley riot promote giggle promote antique jazz mention search inch";

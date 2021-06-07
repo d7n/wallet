@@ -1,1 +1,1 @@
-var mnemonic = "artist upgrade pumpkin picnic rely crane output tornado shoot obvious quarter theory";
+var mnemonic = "first under combine gown thumb meat network angry equip twenty shove toe";

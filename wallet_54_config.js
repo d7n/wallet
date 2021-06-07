@@ -1,1 +1,1 @@
-var mnemonic = "inhale best clog door west battle garlic swallow neutral luxury manage coconut";
+var mnemonic = "frown crawl accuse trumpet unveil beauty upgrade auction educate erosion country enroll";

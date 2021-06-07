@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur earn march dry illness reason chalk document seven dove execute number";
+var mnemonic = "hollow stool garbage grain ginger cloud crazy retire banner fatal inmate robot";

@@ -1,1 +1,1 @@
-var mnemonic = "list once short legal carry north laundry reopen repeat process arctic ball";
+var mnemonic = "hair biology fuel slab zebra pattern artwork knife comic follow distance actual";

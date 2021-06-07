@@ -1,1 +1,1 @@
-var mnemonic = "fashion glass increase focus decline merit code still text check calm toward";
+var mnemonic = "donate creek leisure elegant glow buzz morning subway leisure office few subject";

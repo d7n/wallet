@@ -1,1 +1,1 @@
-var mnemonic = "general gain foot sentence equip dumb amount cloud desert chaos silly goddess";
+var mnemonic = "paddle second lawn goddess matrix water alter system olive since chunk note";

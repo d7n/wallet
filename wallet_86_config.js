@@ -1,1 +1,1 @@
-var mnemonic = "lyrics practice cream flash estate analyst present foil display amount jump choice";
+var mnemonic = "identify snow document ginger similar repeat fossil scatter museum that stable sell";

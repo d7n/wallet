@@ -1,1 +1,1 @@
-var mnemonic = "erase maid shrimp defense other wool orange oval unique ready spell floor";
+var mnemonic = "outer barely muscle inside receive skate awesome today act tourist frog often";

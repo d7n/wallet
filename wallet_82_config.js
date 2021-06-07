@@ -1,1 +1,1 @@
-var mnemonic = "quantum sustain viable fiscal canoe aunt earth aerobic acoustic hurt relief brown";
+var mnemonic = "bounce enable true custom city apology forward impact trim nothing whisper place";

@@ -1,1 +1,1 @@
-var mnemonic = "client vendor excuse hollow group knock helmet dice north fossil where cost";
+var mnemonic = "mixed fluid unaware coffee flight art hamster soul bicycle between resist movie";

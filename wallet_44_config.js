@@ -1,1 +1,1 @@
-var mnemonic = "romance slender flip alcohol reform crane maximum skate vital pupil huge squeeze";
+var mnemonic = "diet fetch chalk shaft time cave junior blind fitness notice father envelope";

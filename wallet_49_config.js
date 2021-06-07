@@ -1,1 +1,1 @@
-var mnemonic = "beach absent lock rescue salon fiber draw usage run gain salute pioneer";
+var mnemonic = "thumb only wool rent jazz seed divide slender until voice strike dash";

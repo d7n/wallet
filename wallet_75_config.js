@@ -1,1 +1,1 @@
-var mnemonic = "census luxury indoor cricket scale soup arena suffer toe else limit health";
+var mnemonic = "alley educate task rib bicycle boy actress city tunnel leave bike bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "light urban inch unit sudden great people gain normal kind bunker wash";
+var mnemonic = "hammer amateur cushion board idle napkin idea fish box nest core link";

@@ -1,1 +1,1 @@
-var mnemonic = "recall skirt riot fresh fee immune leopard pyramid tuition key number exile";
+var mnemonic = "front monkey exist filter elite number giant sell latin employ cancel verb";

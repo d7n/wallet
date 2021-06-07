@@ -1,1 +1,1 @@
-var mnemonic = "inner dinner buffalo resemble nephew farm sniff fold time chimney frame better";
+var mnemonic = "suffer chalk diagram spoon myth magic garment mesh glass color brass march";

@@ -1,1 +1,1 @@
-var mnemonic = "idea multiply gossip lucky slogan hint organ course mandate legal mom tenant";
+var mnemonic = "ready awkward banner fuel sudden powder rent diagram used tide history modify";

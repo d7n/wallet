@@ -1,1 +1,1 @@
-var mnemonic = "boil vacuum easily bubble school exist assume secret choice air advance urban";
+var mnemonic = "pottery aware claim high health aerobic food tooth puppy furnace blanket penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "about angle clinic lonely swim episode coil grant goose plunge boost salt";
+var mnemonic = "orange funny sail odor fatal riot retreat unable change topic sing front";

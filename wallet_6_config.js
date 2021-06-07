@@ -1,1 +1,1 @@
-var mnemonic = "scan zoo blossom clever parade boring tribe together lake asset silk stool";
+var mnemonic = "seven broom car carbon super ethics impact caught sport media ask welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "rally edge post trim attitude giant claim equip chaos track yellow super";
+var mnemonic = "damp cat trumpet control high brief merge mad still liar six shed";

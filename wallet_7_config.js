@@ -1,1 +1,1 @@
-var mnemonic = "mesh cheese olympic own yellow pepper step consider wealth art police river";
+var mnemonic = "someone company sausage host purity word trouble evil clump cement art organ";

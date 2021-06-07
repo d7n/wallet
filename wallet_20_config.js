@@ -1,1 +1,1 @@
-var mnemonic = "word alley truth panda weekend because below reason milk bring heart joy";
+var mnemonic = "where source renew blouse three hurry pioneer exit main physical virtual camera";

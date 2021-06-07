@@ -1,1 +1,1 @@
-var mnemonic = "wool use camera come arm gospel island humble yellow glove disagree ski";
+var mnemonic = "same foot jaguar hybrid crack like notice jacket test nuclear quality wonder";

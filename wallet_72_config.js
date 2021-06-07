@@ -1,1 +1,1 @@
-var mnemonic = "story measure cute exist bounce soap call employ wet better sister spoil";
+var mnemonic = "surge drop decorate cart extend jeans shell kiwi blade risk tray ugly";

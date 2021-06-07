@@ -1,1 +1,1 @@
-var mnemonic = "butter tennis uniform plastic extend absorb scene clinic pledge behind goat fork";
+var mnemonic = "office ugly shiver raccoon damp report bamboo marriage book explain frozen despair";

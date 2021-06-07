@@ -1,1 +1,1 @@
-var mnemonic = "diary dad horror hazard wife elevator walk keen amazing modify hamster cabin";
+var mnemonic = "focus resource dice baby more wealth trim ugly action series melt peanut";

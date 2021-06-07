@@ -1,1 +1,1 @@
-var mnemonic = "fatal glide slice book husband garden zone speed process enhance cable pole";
+var mnemonic = "track syrup praise father disagree asset search coconut awkward advance save cake";

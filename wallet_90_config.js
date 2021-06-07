@@ -1,1 +1,1 @@
-var mnemonic = "wheel aim spy shove giraffe index section rubber edge lesson tomato valley";
+var mnemonic = "pencil peasant kingdom corn express issue scout river frozen dilemma cigar income";

@@ -1,1 +1,1 @@
-var mnemonic = "frost law ready smart sell master demand drill arrow history field cancel";
+var mnemonic = "boring escape palm elegant wage gold december achieve shine amount wine solve";

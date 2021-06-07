@@ -1,1 +1,1 @@
-var mnemonic = "suffer immune winter finish settle employ boil buyer awkward cushion shield payment";
+var mnemonic = "cereal spider this tomorrow amazing okay palm squirrel ice oak suggest marriage";

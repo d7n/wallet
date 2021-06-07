@@ -1,1 +1,1 @@
-var mnemonic = "mystery gas juice embody grief alpha summer dawn scatter utility castle worry";
+var mnemonic = "radar noodle once blouse wonder clarify insect away female much cream mistake";

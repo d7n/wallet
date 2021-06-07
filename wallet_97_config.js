@@ -1,1 +1,1 @@
-var mnemonic = "insect ocean very pelican profit beef cheap govern camera filter color sort";
+var mnemonic = "solid gym accident cancel cat example kitten orient jungle media scale horse";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat erase drum stay robust disagree lunch east eternal electric budget mail";
+var mnemonic = "obtain soup practice poet spread shield true negative fire inmate supply screen";

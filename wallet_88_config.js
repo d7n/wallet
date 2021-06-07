@@ -1,1 +1,1 @@
-var mnemonic = "mixture panda benefit fashion harbor kick fog behind cable vast junior tuna";
+var mnemonic = "awful hamster mule song clip salt clever flight federal ride olive brass";

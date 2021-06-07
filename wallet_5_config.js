@@ -1,1 +1,1 @@
-var mnemonic = "street glance side lab scrap stuff hundred pupil kingdom alarm yellow civil";
+var mnemonic = "unique response guilt explain chair basic soul edit later cloud cloth pulse";

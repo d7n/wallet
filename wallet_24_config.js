@@ -1,1 +1,1 @@
-var mnemonic = "vanish mimic state notice divide bone student lizard garlic vast ten cement";
+var mnemonic = "firm together slim reflect stereo insect federal fire alone thing artist lab";

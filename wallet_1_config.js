@@ -1,1 +1,1 @@
-var mnemonic = "anxiety chair reunion inflict cupboard portion pretty dolphin school bring ridge boss";
+var mnemonic = "believe cup find suspect flower rely cheap sadness churn infant burden thing";

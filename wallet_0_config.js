@@ -1,1 +1,1 @@
-var mnemonic = "race loop ivory sudden garlic lock clinic cover cricket cart car conduct";
+var mnemonic = "negative famous wing gravity actor good reunion replace search bag holiday prevent";

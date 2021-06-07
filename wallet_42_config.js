@@ -1,1 +1,1 @@
-var mnemonic = "robot soup output valve aunt decide into myth stock wealth area organ";
+var mnemonic = "steak point lion analyst east doctor chaos idle palm champion penalty trip";

@@ -1,1 +1,1 @@
-var mnemonic = "version grief thank brown skirt cruel where fork inject spend organ eyebrow";
+var mnemonic = "drastic can oxygen similar believe train surface civil giraffe crew claim certain";

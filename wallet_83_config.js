@@ -1,1 +1,1 @@
-var mnemonic = "few net recycle gauge craft desert swift attitude still honey critic dinner";
+var mnemonic = "fossil exotic trust enter vacuum drop decrease plate knee stove lawn ugly";

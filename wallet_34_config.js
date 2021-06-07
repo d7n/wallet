@@ -1,1 +1,1 @@
-var mnemonic = "slogan allow height bounce mandate amazing nut real loan cruise extra vacant";
+var mnemonic = "tiger coconut absent glad sheriff slice song share scissors spike mountain rural";

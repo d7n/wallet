@@ -1,1 +1,1 @@
-var mnemonic = "pink mushroom weekend muffin mechanic enroll poem announce intact drop draw seven";
+var mnemonic = "buzz wisdom check addict stand admit fog absent human scan drip extend";

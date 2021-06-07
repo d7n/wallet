@@ -1,1 +1,1 @@
-var mnemonic = "dove skill enroll option practice exercise safe destroy monitor segment muscle gossip";
+var mnemonic = "goddess arrow penalty beach supply voice capital mandate frown weasel keep bench";

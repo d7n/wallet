@@ -1,1 +1,1 @@
-var mnemonic = "dentist uphold vast edit walnut cabin mule diet chaos senior bunker cricket";
+var mnemonic = "aim good ripple tent thank baby release lab add grant bitter cannon";

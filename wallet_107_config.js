@@ -1,1 +1,1 @@
-var mnemonic = "uniform cannon upper spoon prefer clock barrel inherit soldier ethics nature bright";
+var mnemonic = "door bamboo umbrella equip marriage filter gauge body merry cable beyond report";

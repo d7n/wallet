@@ -1,1 +1,1 @@
-var mnemonic = "deal goose armed sheriff achieve obscure glass riot unfair network wage minute";
+var mnemonic = "tonight bomb erosion blush robot prefer heart easily leisure ordinary yellow snow";

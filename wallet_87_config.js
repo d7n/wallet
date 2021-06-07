@@ -1,1 +1,1 @@
-var mnemonic = "carbon crucial fame blouse erupt bounce orchard talent miss phone party hidden";
+var mnemonic = "poet artefact general abandon gate choice holiday protect rocket syrup harbor under";

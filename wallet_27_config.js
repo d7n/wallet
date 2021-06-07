@@ -1,1 +1,1 @@
-var mnemonic = "demise thumb price leisure room pink cook seed scare radar hover chapter";
+var mnemonic = "hair veteran flight tornado enhance twenty acquire material domain unable shadow gun";

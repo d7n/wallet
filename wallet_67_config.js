@@ -1,1 +1,1 @@
-var mnemonic = "skin right lunar fatal obscure trust kid spy kangaroo bench audit bright";
+var mnemonic = "music power addict conduct used raise boss bronze law oval joy fiscal";

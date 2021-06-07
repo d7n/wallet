@@ -1,1 +1,1 @@
-var mnemonic = "sausage story achieve gas nominee young chair gown stamp panther obtain horn";
+var mnemonic = "fine rich review bid jealous adapt open sick jealous another negative clown";

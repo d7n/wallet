@@ -1,1 +1,1 @@
-var mnemonic = "major action scheme cave wrist thought hedgehog envelope clay van lobster poet";
+var mnemonic = "review balcony observe foot utility already stem stairs public crumble cute noise";

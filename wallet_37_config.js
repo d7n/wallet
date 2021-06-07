@@ -1,1 +1,1 @@
-var mnemonic = "remember bus wife ship rookie genre rookie almost summer dose boat degree";
+var mnemonic = "hurry toy group dog metal lounge flower link behind science convince leave";

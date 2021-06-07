@@ -1,1 +1,1 @@
-var mnemonic = "bunker meadow gesture cart chuckle private later tortoise loan rose twin predict";
+var mnemonic = "hello owner drive require toe excite total punch clock drill girl hunt";

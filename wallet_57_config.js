@@ -1,1 +1,1 @@
-var mnemonic = "alter worth maze patch ramp into bar heavy glare enact motion entire";
+var mnemonic = "response govern profit ship promote weather budget soldier garlic chapter uncle ask";

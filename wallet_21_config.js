@@ -1,1 +1,1 @@
-var mnemonic = "bargain drop rough derive client client sing lunch muscle allow behind wink";
+var mnemonic = "pluck exhaust imitate excuse digital weasel double drop curve comfort rely head";

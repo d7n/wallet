@@ -1,1 +1,1 @@
-var mnemonic = "blame tuition relief finger fiber correct gadget dirt quote hood educate cycle";
+var mnemonic = "tube million bubble chapter exist praise gap group kiss parrot ridge carry";

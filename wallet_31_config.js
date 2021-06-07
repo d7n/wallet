@@ -1,1 +1,1 @@
-var mnemonic = "stereo fog aware surge market wealth absent umbrella palm lumber hint ski";
+var mnemonic = "amazing more rotate chat anger give liar virus glare food snake swim";

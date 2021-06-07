@@ -1,1 +1,1 @@
-var mnemonic = "diagram exchange gravity mesh path item soap arrow tower bundle situate plate";
+var mnemonic = "rare hour fashion uniform gallery island drink harsh table hollow bean reject";

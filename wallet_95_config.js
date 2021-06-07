@@ -1,1 +1,1 @@
-var mnemonic = "wait jealous method acquire pumpkin mammal elephant party tomato olive elder seed";
+var mnemonic = "remind jelly heart gadget visit honey wedding index close twist metal around";

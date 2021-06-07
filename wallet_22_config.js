@@ -1,1 +1,1 @@
-var mnemonic = "junior believe afraid decide mistake volcano forum kangaroo invite agent reopen laugh";
+var mnemonic = "draw van bleak bid tattoo supreme cross mass rib catch front luggage";

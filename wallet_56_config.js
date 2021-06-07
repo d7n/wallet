@@ -1,1 +1,1 @@
-var mnemonic = "sign orient mad lesson creek mother call river bag narrow window genre";
+var mnemonic = "silk where obscure grape enhance scan paper suffer clock body zebra nasty";

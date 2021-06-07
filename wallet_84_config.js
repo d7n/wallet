@@ -1,1 +1,1 @@
-var mnemonic = "snow cradle category photo short smart sorry teach firm they breeze waste";
+var mnemonic = "predict aisle catalog advance coral enrich tortoise trigger inside session uphold recall";

@@ -1,1 +1,1 @@
-var mnemonic = "brand cricket aunt sorry nice pear way firm obtain defy tired ill";
+var mnemonic = "cost zone mention morning film pulp shallow omit cancel supply powder wrist";

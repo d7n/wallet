@@ -1,1 +1,1 @@
-var mnemonic = "mixed cash meadow treat loud success minor ivory craft cannon win glue";
+var mnemonic = "diagram orange april organ wall net mother vanish ethics urge expand small";

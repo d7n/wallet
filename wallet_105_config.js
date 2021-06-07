@@ -1,1 +1,1 @@
-var mnemonic = "razor buddy web film citizen album series kite sure artist image damage";
+var mnemonic = "island luxury develop view hobby bright horse render river pretty upon penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "juice autumn title fun pulse raccoon result pretty dream depart script typical";
+var mnemonic = "renew honey trend egg poet knee life nose vague taxi old furnace";

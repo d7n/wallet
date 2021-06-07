@@ -1,1 +1,1 @@
-var mnemonic = "again taxi dirt dream party word dutch uniform drill must scale quality";
+var mnemonic = "flash sketch wheat melody dinner culture waste fun yard festival arrest youth";
