@@ -1,1 +1,1 @@
-var mnemonic = "learn lounge avoid gallery fix globe express engine evoke network endless gun";
+var mnemonic = "photo water never absurd infant pioneer iron glue grief adult situate insect";

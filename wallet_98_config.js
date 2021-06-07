@@ -1,1 +1,1 @@
-var mnemonic = "round snap enough affair middle genius grain page square result symptom wine";
+var mnemonic = "stamp sword typical onion crop poverty boost merry theme lab view vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "pill humble exist owner congress pudding east protect evoke scrub venture floor";
+var mnemonic = "shadow seminar shoot matrix pipe oxygen oak gun swap table mouse pulp";

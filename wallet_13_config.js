@@ -1,1 +1,1 @@
-var mnemonic = "custom train domain smoke nature north fuel repair range segment exist consider";
+var mnemonic = "source welcome argue approve make book citizen response balance govern pipe urge";

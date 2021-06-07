@@ -1,1 +1,1 @@
-var mnemonic = "amazing glare harvest resemble prefer sight clump imitate flip sunset seminar worth";
+var mnemonic = "worry fluid chunk guilt need sphere pull write mixed thumb giggle until";

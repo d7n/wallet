@@ -1,1 +1,1 @@
-var mnemonic = "damp famous buddy govern chase organ survey tourist glue slow nuclear math";
+var mnemonic = "marriage project media spare deliver deputy offer tortoise talk menu ski fan";

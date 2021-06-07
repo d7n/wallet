@@ -1,1 +1,1 @@
-var mnemonic = "amused draft expose gasp morning involve blood catalog eyebrow cloud recipe brand";
+var mnemonic = "want dog target desert wire course burger clip bind zone asset purity";

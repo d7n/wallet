@@ -1,1 +1,1 @@
-var mnemonic = "gravity great print reduce onion horse remember captain lake camp supply blush";
+var mnemonic = "heart age wrist abuse candy adjust mandate soul latin permit sleep lake";

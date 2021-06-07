@@ -1,1 +1,1 @@
-var mnemonic = "census retreat square current damage icon basket swing marriage ticket slice twist";
+var mnemonic = "grain random hub order slab swift boss purity yard crumble seek fragile";

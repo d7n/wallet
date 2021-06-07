@@ -1,1 +1,1 @@
-var mnemonic = "neck start bus library deal witness net project excess wrist random fury";
+var mnemonic = "enrich meadow learn island hotel bus rate travel siege grab assume engine";

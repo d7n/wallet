@@ -1,1 +1,1 @@
-var mnemonic = "ghost polar turn penalty mad gym cube index away vivid suit typical";
+var mnemonic = "disease want name umbrella comfort hybrid pigeon boat camera frown car daring";

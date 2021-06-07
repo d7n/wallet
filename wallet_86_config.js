@@ -1,1 +1,1 @@
-var mnemonic = "limb tape pelican total wing advice husband creek tip vehicle height number";
+var mnemonic = "radio tilt reopen put sick lunar fence scrub gift frame chuckle end";

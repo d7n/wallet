@@ -1,1 +1,1 @@
-var mnemonic = "cry toilet shoot essence blame loud usage treat work antique engine remind";
+var mnemonic = "mushroom cluster tower exist visit process curtain surprise stomach wagon people skill";

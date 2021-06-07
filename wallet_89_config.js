@@ -1,1 +1,1 @@
-var mnemonic = "cotton avoid woman clump give tree rookie frame raise bread client creek";
+var mnemonic = "labor crucial project thumb delay giraffe order fall remind risk orphan subway";

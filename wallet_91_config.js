@@ -1,1 +1,1 @@
-var mnemonic = "humor lawn gasp insect submit typical ring group squeeze universe harvest stumble";
+var mnemonic = "barrel canyon bulk employ trap risk employ antique mind purity urban bring";

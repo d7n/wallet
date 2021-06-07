@@ -1,1 +1,1 @@
-var mnemonic = "invest title country oxygen flavor any oyster baby pumpkin casual left beauty";
+var mnemonic = "wall vintage spy daughter identify blush expect head wonder captain course remain";

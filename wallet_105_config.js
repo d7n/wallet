@@ -1,1 +1,1 @@
-var mnemonic = "outdoor student town supreme shoot happy device ball floor security bleak section";
+var mnemonic = "success right pretty impulse buddy faint equip example vicious praise echo smooth";

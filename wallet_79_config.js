@@ -1,1 +1,1 @@
-var mnemonic = "hand sunny write below disease addict spare safe cliff wrong pigeon screen";
+var mnemonic = "fabric injury hello any planet walk stable curve treat today rebuild drip";

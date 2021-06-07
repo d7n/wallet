@@ -1,1 +1,1 @@
-var mnemonic = "reveal diet rug dawn grid twelve want blanket galaxy few since vintage";
+var mnemonic = "convince refuse clog piece multiply sugar travel wild floor record tower dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "more quote topple armor wild area sound print property tree manual employ";
+var mnemonic = "advance consider educate double foster vapor feature meat word hard grit end";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct exist correct hip man gold wild refuse lawsuit loyal toward educate";
+var mnemonic = "oval tissue wing federal tomorrow dust leisure vague author width horse gold";

@@ -1,1 +1,1 @@
-var mnemonic = "add minor warfare subway kid cause butter behave input attend acid ugly";
+var mnemonic = "still rally spring breeze injury spoil sauce decline boat frown spoon machine";

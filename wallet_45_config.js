@@ -1,1 +1,1 @@
-var mnemonic = "drum kidney stumble stable disorder cancel reject fragile sound that ranch century";
+var mnemonic = "permit rail first acquire trash hurry dawn rather diet cannon blur convince";

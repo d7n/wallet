@@ -1,1 +1,1 @@
-var mnemonic = "account anxiety price story smooth state miracle filter best person escape flight";
+var mnemonic = "picnic gun obey virus marble certain transfer kick cool close unhappy pupil";

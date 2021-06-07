@@ -1,1 +1,1 @@
-var mnemonic = "okay again merge year prefer glove lizard notable odor bread embrace target";
+var mnemonic = "table bachelor mango grace power humor mom host muscle party fault miss";

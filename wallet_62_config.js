@@ -1,1 +1,1 @@
-var mnemonic = "then tiger wave huge offer biology oval mutual history cabbage upset potato";
+var mnemonic = "shaft pig marine ready syrup during develop know taste pony globe shine";

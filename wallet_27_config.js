@@ -1,1 +1,1 @@
-var mnemonic = "enjoy comic party syrup bleak leg immense decorate kiwi enact prison shiver";
+var mnemonic = "ivory job potato swift type crime right quiz want song much match";

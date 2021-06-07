@@ -1,1 +1,1 @@
-var mnemonic = "diet action drip youth myth museum broom desert mean congress cotton caution";
+var mnemonic = "slogan attend club absorb card pause various combine pipe critic nephew seminar";

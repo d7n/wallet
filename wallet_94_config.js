@@ -1,1 +1,1 @@
-var mnemonic = "hunt dish slice trim valley tumble immense morning change hurdle bitter auction";
+var mnemonic = "year vacuum steel rely chicken afraid model spell educate tenant arrive audit";

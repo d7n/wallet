@@ -1,1 +1,1 @@
-var mnemonic = "trial galaxy post service staff smile brand hurdle flag hip seek grow";
+var mnemonic = "update fresh purity iron shove firm evoke lemon remember speak ankle cool";

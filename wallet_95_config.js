@@ -1,1 +1,1 @@
-var mnemonic = "dirt wisdom other focus secret virtual island rocket adjust sleep mule cinnamon";
+var mnemonic = "ship puzzle fringe sphere empower fiber pyramid energy face churn plunge crunch";

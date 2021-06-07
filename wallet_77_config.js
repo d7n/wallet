@@ -1,1 +1,1 @@
-var mnemonic = "addict panther clock journey large summer quality general toddler south waste mimic";
+var mnemonic = "file prosper heart critic wink right penalty member tunnel crystal shadow success";

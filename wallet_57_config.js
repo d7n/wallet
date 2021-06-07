@@ -1,1 +1,1 @@
-var mnemonic = "poem caution leg magnet end unaware beauty sea blossom adjust weapon phone";
+var mnemonic = "vanish image doll obscure hotel story enlist maid mistake pumpkin perfect exhibit";

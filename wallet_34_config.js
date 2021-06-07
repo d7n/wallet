@@ -1,1 +1,1 @@
-var mnemonic = "auto home reduce this quit maple chest foil great cancel they gauge";
+var mnemonic = "delay giraffe stay grief deal color genuine spot loop coffee admit rebel";

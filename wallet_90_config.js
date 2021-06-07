@@ -1,1 +1,1 @@
-var mnemonic = "search present lion citizen open control nurse transfer trap bounce speak eyebrow";
+var mnemonic = "awkward best crucial neutral common feature burden piece chapter top faith tiger";

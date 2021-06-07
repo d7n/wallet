@@ -1,1 +1,1 @@
-var mnemonic = "fault gorilla vague mouse scrap alpha scatter dune flower record example grant";
+var mnemonic = "expire divide stone census idle run alert fragile mushroom point carpet want";

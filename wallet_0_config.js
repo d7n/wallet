@@ -1,1 +1,1 @@
-var mnemonic = "wing clerk crystal code matter milk salon tone luggage give lift pattern";
+var mnemonic = "primary bitter rely robust burger control rescue syrup deputy salt motion music";

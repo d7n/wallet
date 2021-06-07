@@ -1,1 +1,1 @@
-var mnemonic = "cluster assume lemon canyon dial change slight lazy super snow discover mountain";
+var mnemonic = "merit bachelor once gadget bunker mountain play enroll security island want hamster";

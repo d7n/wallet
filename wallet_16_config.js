@@ -1,1 +1,1 @@
-var mnemonic = "plate frown east tool cool injury letter addict ignore boil minute south";
+var mnemonic = "own illegal merry circle option mean shove message orphan pig what reject";

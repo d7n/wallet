@@ -1,1 +1,1 @@
-var mnemonic = "cattle tail coyote twist poverty craft boss lobster squeeze antique slide deer";
+var mnemonic = "zebra sort device cook private patrol stomach double unfold current century before";

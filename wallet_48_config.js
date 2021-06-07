@@ -1,1 +1,1 @@
-var mnemonic = "insect trash survey dinosaur convince light meadow meadow unaware soul paddle awkward";
+var mnemonic = "enhance help exact tree mix invite crucial lonely three eagle remind bundle";

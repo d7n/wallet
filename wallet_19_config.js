@@ -1,1 +1,1 @@
-var mnemonic = "extend winter step satisfy flat volume world soup game adapt night assist";
+var mnemonic = "candy stage hard huge private sweet monitor friend movie matter advance execute";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle hunt pistol wise fatal leopard glare office oil elevator major network";
+var mnemonic = "forum fog tortoise focus educate slight cycle virtual indoor check matter urge";

@@ -1,1 +1,1 @@
-var mnemonic = "visual auto pitch identify peasant vessel mutual accuse right ridge finger believe";
+var mnemonic = "network vibrant stuff between speak toilet garbage harbor clutch rescue guitar dad";

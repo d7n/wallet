@@ -1,1 +1,1 @@
-var mnemonic = "fetch cinnamon various knee curve law jacket amused cancel tube moral canoe";
+var mnemonic = "diet often person dilemma history item aisle loan crawl prefer bleak tiger";

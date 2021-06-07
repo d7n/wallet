@@ -1,1 +1,1 @@
-var mnemonic = "own easy act fit casino camp grocery ancient leaf enjoy stove snake";
+var mnemonic = "crash exclude weather dentist february nasty grant edit alert fetch dust uncover";

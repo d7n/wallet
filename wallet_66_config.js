@@ -1,1 +1,1 @@
-var mnemonic = "toast unfair lawsuit napkin aunt reflect gun explain together use fashion enlist";
+var mnemonic = "spy frame noodle monitor brother canoe box discover measure reduce buffalo enjoy";

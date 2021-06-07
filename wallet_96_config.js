@@ -1,1 +1,1 @@
-var mnemonic = "clean magnet club engine more buyer observe detect obtain social protect pupil";
+var mnemonic = "horn expect solar confirm orient viable crime sadness gloom unaware robot jar";

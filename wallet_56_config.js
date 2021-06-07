@@ -1,1 +1,1 @@
-var mnemonic = "carry caution arm monitor leave young pond acid minimum grace silver ski";
+var mnemonic = "swift pretty retire process tiger super absorb square shuffle income limit report";

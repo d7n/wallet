@@ -1,1 +1,1 @@
-var mnemonic = "rib arrow adult magic abstract shield trim round useless october mass skill";
+var mnemonic = "taxi corn oyster hill gesture genius drastic elevator stick quote timber neither";

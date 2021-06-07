@@ -1,1 +1,1 @@
-var mnemonic = "merry fury march weasel wagon lock snap robust kiss trumpet volume drink";
+var mnemonic = "popular scene cost gather fetch tag eyebrow resemble swift blind dog dance";

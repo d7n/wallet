@@ -1,1 +1,1 @@
-var mnemonic = "spawn poem daring guess gain leisure write fever reject boost wild bag";
+var mnemonic = "together aim venue shine caution slogan sponsor range rifle sample west captain";

@@ -1,1 +1,1 @@
-var mnemonic = "wing situate goose detect depend country electric mercy once reason sample cool";
+var mnemonic = "now save mention east ladder debate ability immune catch frost culture harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "visit oppose swift asset napkin turtle host anchor hood just hour ribbon";
+var mnemonic = "salad burger tongue reopen print rifle exile chronic decorate aunt fall rice";

@@ -1,1 +1,1 @@
-var mnemonic = "air bargain chicken flame exit liquid purity task unknown foam roast wreck";
+var mnemonic = "tent tape van digital remove unknown plastic assault scout army find there";

@@ -1,1 +1,1 @@
-var mnemonic = "system finger keen have eight faculty room august exercise illness usual anxiety";
+var mnemonic = "twin one click smart cushion quote genuine vehicle trophy crumble effort flavor";

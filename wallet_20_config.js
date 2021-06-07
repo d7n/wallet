@@ -1,1 +1,1 @@
-var mnemonic = "same live produce script end spare fork blossom that core shine window";
+var mnemonic = "you rely cement sibling toast ready height moral fabric apart brick clever";

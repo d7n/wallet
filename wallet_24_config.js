@@ -1,1 +1,1 @@
-var mnemonic = "long limb cause popular rifle supreme wide screen shop couch match dinner";
+var mnemonic = "matrix spoon repeat adapt media east music clerk pave degree snack junk";

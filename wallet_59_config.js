@@ -1,1 +1,1 @@
-var mnemonic = "river fix often salmon dolphin rival decrease street trigger volume shift wall";
+var mnemonic = "toss permit second heavy meadow camp churn carbon vacuum fluid off chair";

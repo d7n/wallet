@@ -1,1 +1,1 @@
-var mnemonic = "tissue stool whale flee inject visual empower settle horror ghost trigger struggle";
+var mnemonic = "fluid health album hazard true emotion dream obey bulb demise confirm salute";

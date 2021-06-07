@@ -1,1 +1,1 @@
-var mnemonic = "swear idea make repeat jar barrel produce mirror reunion wedding baby outside";
+var mnemonic = "frame nature sadness brick finish swim pelican suspect human focus toss source";

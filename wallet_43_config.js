@@ -1,1 +1,1 @@
-var mnemonic = "ten win basket often loan maze hurry unfold quit kind moral already";
+var mnemonic = "clinic discover bomb salon shallow mechanic sponsor merry glove chapter wave able";

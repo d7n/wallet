@@ -1,1 +1,1 @@
-var mnemonic = "add flock end satisfy zone mechanic leader concert vocal dad connect erase";
+var mnemonic = "faculty toast toy pizza solution truly script black amount oblige frozen alley";

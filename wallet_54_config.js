@@ -1,1 +1,1 @@
-var mnemonic = "hat embrace comic summer oil kite trumpet kite canvas affair mother because";
+var mnemonic = "team fatal depend athlete street couch act wolf help broken panic galaxy";

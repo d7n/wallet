@@ -1,1 +1,1 @@
-var mnemonic = "clarify pet stumble duty shadow sad flush image lizard deliver fiscal royal";
+var mnemonic = "kit orchard public brown sibling aim you keen airport they rude obscure";

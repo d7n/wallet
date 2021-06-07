@@ -1,1 +1,1 @@
-var mnemonic = "idle coyote deer tribe corn million pilot cover pond tackle test gaze";
+var mnemonic = "rain knife wheel company holiday father turkey door acquire skill witness phone";

@@ -1,1 +1,1 @@
-var mnemonic = "rail sun tube calm endorse forward ranch drip puzzle rate isolate pig";
+var mnemonic = "north zebra talk maid quit cushion result result task movie canyon near";

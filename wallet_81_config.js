@@ -1,1 +1,1 @@
-var mnemonic = "cable code kiss typical craft carpet mansion wife pyramid narrow group resource";
+var mnemonic = "truck wire police sibling teach rocket robust bamboo weapon antique miracle bird";

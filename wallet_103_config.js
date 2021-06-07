@@ -1,1 +1,1 @@
-var mnemonic = "start riot shoe average inform video aunt buffalo army slam hen skate";
+var mnemonic = "normal save cluster crane thing upper option shock vacuum distance grace drop";

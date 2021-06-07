@@ -1,1 +1,1 @@
-var mnemonic = "direct program jealous bike main rather warfare prepare blast parrot crane nuclear";
+var mnemonic = "bless dirt edge special amused cloth same piece style bring doll angry";

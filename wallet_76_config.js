@@ -1,1 +1,1 @@
-var mnemonic = "music glow frequent evolve whip humor mask put idea sentence lesson slim";
+var mnemonic = "vendor satoshi board turn mixture approve mail shell top volume dash into";

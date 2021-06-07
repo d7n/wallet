@@ -1,1 +1,1 @@
-var mnemonic = "worth hand treat hurt mountain awkward lunch hybrid flat state scan swarm";
+var mnemonic = "palace guide mule cute tonight shadow insect alpha ranch enemy rug lazy";

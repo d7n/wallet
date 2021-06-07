@@ -1,1 +1,1 @@
-var mnemonic = "wisdom swap solve top oil surface stable wave large reopen swamp usage";
+var mnemonic = "swarm swear jump book believe roast rule peace wool verb animal opinion";

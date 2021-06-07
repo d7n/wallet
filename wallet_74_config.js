@@ -1,1 +1,1 @@
-var mnemonic = "solar agent join excite spoon couple bike crumble vessel pond tumble loan";
+var mnemonic = "tackle pass final alert chicken chimney deliver slam hello history ocean hamster";

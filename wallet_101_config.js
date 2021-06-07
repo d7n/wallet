@@ -1,1 +1,1 @@
-var mnemonic = "goat swim decide impose melt inspire afraid clap puppy idle smart hungry";
+var mnemonic = "approve double lens hotel bus spot blur surface scale sick cigar junior";

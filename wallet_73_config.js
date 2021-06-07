@@ -1,1 +1,1 @@
-var mnemonic = "turtle essence dolphin hammer step someone kangaroo bless acquire sting unit hold";
+var mnemonic = "floor destroy armed oval giraffe image gravity relax denial bind daughter upgrade";

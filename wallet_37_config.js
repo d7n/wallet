@@ -1,1 +1,1 @@
-var mnemonic = "surprise mutual act child render fiscal teach foam net dismiss target flavor";
+var mnemonic = "gloom aware appear grid crisp next wrong spatial increase double consider chef";

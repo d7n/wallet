@@ -1,1 +1,1 @@
-var mnemonic = "wealth child tobacco umbrella focus ranch crash reopen shadow artwork caught maximum";
+var mnemonic = "away garage sell tiny harsh young escape cinnamon evolve bounce winner coral";

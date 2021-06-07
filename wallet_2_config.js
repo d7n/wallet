@@ -1,1 +1,1 @@
-var mnemonic = "happy method water short claim length insane trial knock coyote cousin cup";
+var mnemonic = "range size fish ginger wolf choice chef bulb behave autumn banana table";

@@ -1,1 +1,1 @@
-var mnemonic = "pool evolve debris deer mom parade fatal fabric region smile dutch art";
+var mnemonic = "cook math motion already account acoustic ski inmate trigger ill minor mention";

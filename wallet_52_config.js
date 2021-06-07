@@ -1,1 +1,1 @@
-var mnemonic = "dose screen stumble tuna news illness baby punch position sadness camera bid";
+var mnemonic = "east attend human other awful tent isolate nasty check delay giant shoot";

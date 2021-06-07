@@ -1,1 +1,1 @@
-var mnemonic = "bicycle lazy endorse deputy collect medal guilt story beyond wait pilot since";
+var mnemonic = "faculty large cruel unaware divorce morning inject inquiry thumb theme romance timber";

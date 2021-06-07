@@ -1,1 +1,1 @@
-var mnemonic = "physical hurt garden volume leaf soon refuse copy flat sentence swamp fog";
+var mnemonic = "agent service amount alarm void mind spray tooth renew train unaware illegal";

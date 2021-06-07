@@ -1,1 +1,1 @@
-var mnemonic = "obtain robot economy uphold duck dignity library siege adjust giraffe window choice";
+var mnemonic = "vital orient bundle evidence zero inject elder insect lecture ghost sail insane";

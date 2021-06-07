@@ -1,1 +1,1 @@
-var mnemonic = "panic wash isolate misery aware clap dizzy quarter junk frog cigar soldier";
+var mnemonic = "slot stuff pledge pudding empty apart hobby pipe security pulp outer sponsor";

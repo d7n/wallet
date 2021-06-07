@@ -1,1 +1,1 @@
-var mnemonic = "lab liberty banana dove crowd sport glimpse fold jealous victory often keep";
+var mnemonic = "tragic own produce caught foil course easily question drastic inform version law";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage strategy mutual ginger risk behave auction summer wreck obey hazard banana";
+var mnemonic = "joy loan art clay ladder meat waste wait animal sustain damage during";

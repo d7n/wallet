@@ -1,1 +1,1 @@
-var mnemonic = "say quality cupboard state flavor off life all light embody embody loop";
+var mnemonic = "charge fancy mistake rib home craft digital frame virus damage penalty wage";

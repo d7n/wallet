@@ -1,1 +1,1 @@
-var mnemonic = "tape few glare scene immune bullet rack quote share aunt expose lawn";
+var mnemonic = "order famous settle hammer flip average penalty sand walnut victory settle dumb";

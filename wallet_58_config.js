@@ -1,1 +1,1 @@
-var mnemonic = "forum omit gasp supreme border dumb paper pyramid label wall six depart";
+var mnemonic = "steel town rookie fancy waste future provide awesome marble lamp wreck debris";

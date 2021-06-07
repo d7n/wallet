@@ -1,1 +1,1 @@
-var mnemonic = "crisp celery mobile later toward dose reflect wife peasant stool average age";
+var mnemonic = "one tiny myth cherry legal point danger danger say deputy avoid chunk";

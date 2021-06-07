@@ -1,1 +1,1 @@
-var mnemonic = "spare gift blue velvet fence screen toy scale prevent express have scheme";
+var mnemonic = "ready jaguar trust afraid indoor ring tape sausage boat option poem idea";

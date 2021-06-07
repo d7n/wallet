@@ -1,1 +1,1 @@
-var mnemonic = "pupil risk common allow jelly slender guard crucial retire wing sweet picture";
+var mnemonic = "fun only this floor review prevent zone duty deposit three learn economy";

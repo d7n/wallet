@@ -1,1 +1,1 @@
-var mnemonic = "system remove often loan seek shove yellow celery impact state bag identify";
+var mnemonic = "occur win west ordinary eager stone luxury pool mix brick whip where";
