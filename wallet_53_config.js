@@ -1,1 +1,1 @@
-var mnemonic = "curve divorce leave attack quick pipe kitchen error cause crime coast legend";
+var mnemonic = "rocket online asset tissue bamboo clip upon nephew govern coyote evil crop";

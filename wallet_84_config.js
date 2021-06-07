@@ -1,1 +1,1 @@
-var mnemonic = "please shy loyal tape match goddess session genre swear profit chunk impose";
+var mnemonic = "swallow void leave ill quote strategy stock boost resource card awesome cup";

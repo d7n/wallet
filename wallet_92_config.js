@@ -1,1 +1,1 @@
-var mnemonic = "become draft friend maximum bronze result mobile bone chalk around chalk area";
+var mnemonic = "farm modify quality kiss night address husband ride need lab festival candy";

@@ -1,1 +1,1 @@
-var mnemonic = "clay situate tomorrow coin concert recycle obscure disorder state glove police vendor";
+var mnemonic = "pole parent ivory prize flush frequent clutch half orphan reason twelve violin";

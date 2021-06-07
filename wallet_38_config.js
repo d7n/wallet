@@ -1,1 +1,1 @@
-var mnemonic = "wrist reopen budget lion chef proof invest wedding weapon wheel person trip";
+var mnemonic = "faith crunch recycle fox theme ill upgrade fame armed tenant name universe";

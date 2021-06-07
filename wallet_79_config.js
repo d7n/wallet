@@ -1,1 +1,1 @@
-var mnemonic = "letter inflict never range essence barrel soda client judge evidence kitchen day";
+var mnemonic = "either digital laptop fire seminar butter strategy rigid laptop grain erosion person";

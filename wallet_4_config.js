@@ -1,1 +1,1 @@
-var mnemonic = "amused void virtual come kite link spawn nothing crater practice finger custom";
+var mnemonic = "toddler select skirt purchase quit potato gun economy occur inside ghost print";

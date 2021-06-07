@@ -1,1 +1,1 @@
-var mnemonic = "collect game deny wave ritual vapor travel walnut effort between tomato emotion";
+var mnemonic = "idle chief foster valley pitch pig coyote exercise defense release afraid shoulder";

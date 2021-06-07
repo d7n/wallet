@@ -1,1 +1,1 @@
-var mnemonic = "ankle axis assist search eight during gym inmate shadow decide hello this";
+var mnemonic = "later coconut supply village liberty love deal always vacant nose notable people";

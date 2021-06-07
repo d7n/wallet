@@ -1,1 +1,1 @@
-var mnemonic = "radar edge bounce beef hawk stairs gasp april uncover crouch salmon genius";
+var mnemonic = "noise output jungle rib hub prison sense demand rubber ranch quarter cube";

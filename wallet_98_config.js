@@ -1,1 +1,1 @@
-var mnemonic = "scheme oak diamond voyage rebuild metal wagon exhaust olympic indicate soap survey";
+var mnemonic = "hybrid amused media poet all alert grit draft hand typical insane shaft";

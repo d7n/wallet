@@ -1,1 +1,1 @@
-var mnemonic = "oval sweet curve foster brother inmate rule bar reopen divorce sudden lumber";
+var mnemonic = "wait face ten style fitness arrest leave island room flush mosquito crisp";

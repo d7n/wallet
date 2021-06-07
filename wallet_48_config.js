@@ -1,1 +1,1 @@
-var mnemonic = "buddy code mechanic mean detail fury worry nature consider valley bridge exact";
+var mnemonic = "fame eagle oppose throw chair notice mind theory much donor shift odor";

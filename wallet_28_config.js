@@ -1,1 +1,1 @@
-var mnemonic = "submit capable cloud tray sweet hover midnight lava duty glide glide hint";
+var mnemonic = "juice vivid mimic siege situate future key salad ivory error width impose";

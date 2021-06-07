@@ -1,1 +1,1 @@
-var mnemonic = "pool sing language noodle expand energy fuel save raven tell basic nurse";
+var mnemonic = "tennis cannon visit sword tuna myself position prize lift reveal chapter arrange";

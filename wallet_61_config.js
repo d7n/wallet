@@ -1,1 +1,1 @@
-var mnemonic = "portion sleep supreme hungry snake rifle tower clown doctor ceiling young gasp";
+var mnemonic = "lucky priority city draft curious reject trial void shuffle practice among depend";

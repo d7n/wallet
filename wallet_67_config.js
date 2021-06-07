@@ -1,1 +1,1 @@
-var mnemonic = "able beach rebuild can jaguar flip lottery begin minimum refuse endless rack";
+var mnemonic = "subject maze basket include this uphold cruel vapor into horse bread hedgehog";

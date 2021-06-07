@@ -1,1 +1,1 @@
-var mnemonic = "bicycle example swallow remember company renew person bitter keen multiply airport bronze";
+var mnemonic = "vote year when practice index add robot easily castle engage service flip";

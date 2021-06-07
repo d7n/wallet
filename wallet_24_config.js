@@ -1,1 +1,1 @@
-var mnemonic = "crack orbit record gallery travel head midnight member ripple cancel lesson dove";
+var mnemonic = "obtain relief plug sustain museum oxygen humor kind isolate crane dilemma february";

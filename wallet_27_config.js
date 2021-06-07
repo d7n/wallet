@@ -1,1 +1,1 @@
-var mnemonic = "country number melt seminar front life tube wheat demise civil switch eagle";
+var mnemonic = "junior noble trumpet case fame vacant pair narrow walnut pull season length";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket pistol light april replace execute planet surround coil bridge false trim";
+var mnemonic = "sweet tragic valid eye celery timber pig belt reject comic style giant";

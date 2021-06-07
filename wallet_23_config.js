@@ -1,1 +1,1 @@
-var mnemonic = "category crawl silent educate silent bleak auction sadness lake join action royal";
+var mnemonic = "woman chicken universe butter inside hill umbrella wheat beef embody another sustain";

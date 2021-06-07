@@ -1,1 +1,1 @@
-var mnemonic = "meadow sand vehicle omit general donor shield crystal scissors purity art garden";
+var mnemonic = "near depart job when jelly screen wave master wage economy horn fiscal";

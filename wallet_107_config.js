@@ -1,1 +1,1 @@
-var mnemonic = "cereal hidden harsh general feed tired credit thing theory match eight buddy";
+var mnemonic = "mosquito fly banana reward smoke recall master decline tuition slogan stock method";

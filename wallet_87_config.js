@@ -1,1 +1,1 @@
-var mnemonic = "upper garbage soap matrix blood among forum crane expose either happy pelican";
+var mnemonic = "veteran motion artwork spare ankle flight buffalo legend core help inside scheme";

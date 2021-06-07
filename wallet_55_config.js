@@ -1,1 +1,1 @@
-var mnemonic = "deal swarm weapon mom profit candy envelope mandate fence domain enroll coyote";
+var mnemonic = "please cart can vibrant banana drift pause crop online wild dizzy immune";

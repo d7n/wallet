@@ -1,1 +1,1 @@
-var mnemonic = "police leopard material ball pull endless jungle ripple loyal give sea cargo";
+var mnemonic = "update among disorder wheel scale lazy domain fury seed drum portion vague";

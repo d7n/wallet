@@ -1,1 +1,1 @@
-var mnemonic = "trash minor quote cabbage crack tail guilt embark want buyer simple motion";
+var mnemonic = "please best question harbor gas capital rotate attract wild lake mesh have";

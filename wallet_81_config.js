@@ -1,1 +1,1 @@
-var mnemonic = "unit alley bulb trust clarify sphere year blouse buffalo shop utility like";
+var mnemonic = "rice craft sock lion fly drastic clown gentle beach crop major fee";

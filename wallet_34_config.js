@@ -1,1 +1,1 @@
-var mnemonic = "random style honey kiwi swamp payment used chat immune hurt harbor gorilla";
+var mnemonic = "note weapon stadium cricket miracle useful visit stove color slogan bubble liberty";

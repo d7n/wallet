@@ -1,1 +1,1 @@
-var mnemonic = "state next gate purpose because fine ready view indicate burden enhance prepare";
+var mnemonic = "isolate leisure foil license view earn onion share file zoo suggest forget";

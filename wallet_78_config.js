@@ -1,1 +1,1 @@
-var mnemonic = "whisper world carbon cargo moment smile thank thought agent endorse popular vapor";
+var mnemonic = "fabric term quote castle blush census odor expose exercise clump jacket letter";

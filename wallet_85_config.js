@@ -1,1 +1,1 @@
-var mnemonic = "hawk mango brush option raise have ball frequent fame trouble zero devote";
+var mnemonic = "say visit spoon rabbit slam junior blood asthma kit miracle index action";

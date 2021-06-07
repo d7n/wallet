@@ -1,1 +1,1 @@
-var mnemonic = "stool deliver gauge doll truly confirm worth lounge bicycle junk pull ordinary";
+var mnemonic = "type invest flee own image toy soap stadium job issue enlist dolphin";

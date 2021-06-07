@@ -1,1 +1,1 @@
-var mnemonic = "hole neglect panda surprise potato dolphin gorilla guitar soft net auction adjust";
+var mnemonic = "misery hat grape gasp peanut orange swap major dust lens knee regret";

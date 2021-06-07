@@ -1,1 +1,1 @@
-var mnemonic = "impose balance solve okay hundred coast tree asthma ball achieve decade attack";
+var mnemonic = "search polar govern twice spray clinic dove shed magic film dream black";

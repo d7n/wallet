@@ -1,1 +1,1 @@
-var mnemonic = "abandon thank approve what huge prefer cloth normal load hard solve rain";
+var mnemonic = "word young birth ready fossil barely dwarf nurse frozen crystal faint fee";

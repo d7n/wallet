@@ -1,1 +1,1 @@
-var mnemonic = "lesson original lawsuit super empty dad tape quit garment borrow spell course";
+var mnemonic = "luggage place enrich suffer genuine link position dynamic poem toddler game fluid";

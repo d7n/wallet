@@ -1,1 +1,1 @@
-var mnemonic = "require deposit party audit find raccoon spoon gravity junior expect rookie assault";
+var mnemonic = "source stadium critic daughter ski magic raise bamboo common edit habit inject";

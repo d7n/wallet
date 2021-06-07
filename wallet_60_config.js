@@ -1,1 +1,1 @@
-var mnemonic = "wedding conduct acid broken only boy office plug wide taxi gauge bar";
+var mnemonic = "neither huge hospital lend one indoor economy clock such decrease join state";

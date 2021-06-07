@@ -1,1 +1,1 @@
-var mnemonic = "isolate rather later shrimp bundle exchange spread pelican barrel scorpion edge napkin";
+var mnemonic = "few trumpet zoo decrease stumble panda snack destroy measure home weather airport";

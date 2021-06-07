@@ -1,1 +1,1 @@
-var mnemonic = "frequent burger neglect vocal kind club purse spatial expand match fancy actual";
+var mnemonic = "episode exact accuse width mixture obscure reduce swing aim sorry chronic layer";

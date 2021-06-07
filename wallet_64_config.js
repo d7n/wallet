@@ -1,1 +1,1 @@
-var mnemonic = "alert picture come panther domain pig enrich survey ripple father script hammer";
+var mnemonic = "miss kingdom horror flavor panic chaos proof roof theme traffic huge brick";

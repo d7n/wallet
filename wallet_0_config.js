@@ -1,1 +1,1 @@
-var mnemonic = "bring congress hint trip total help produce develop worry romance smooth width";
+var mnemonic = "trap neck two produce volume often better any veteran pilot ankle census";

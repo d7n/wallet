@@ -1,1 +1,1 @@
-var mnemonic = "vicious winner comfort now female crowd observe bomb assume into heavy escape";
+var mnemonic = "mad knock abandon fringe wolf elder alley grape vanish industry umbrella regret";

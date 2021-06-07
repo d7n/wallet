@@ -1,1 +1,1 @@
-var mnemonic = "visit evidence abstract layer topic rookie sadness have glory mask ginger gift";
+var mnemonic = "usage sand labor assist name test sustain melt stock laundry crowd zoo";

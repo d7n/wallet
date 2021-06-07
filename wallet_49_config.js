@@ -1,1 +1,1 @@
-var mnemonic = "chest course control seek addict between taste robust life economy tone right";
+var mnemonic = "surprise sadness merge input today assume tonight planet bid drip diesel marriage";

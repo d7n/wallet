@@ -1,1 +1,1 @@
-var mnemonic = "piano extra patch become gift jeans dignity unlock brain physical pluck fragile";
+var mnemonic = "van market liberty canyon connect inquiry cupboard hawk shuffle help motor spring";

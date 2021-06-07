@@ -1,1 +1,1 @@
-var mnemonic = "unit tower bench elevator gun dose afraid actual hour problem spell cargo";
+var mnemonic = "enjoy arena document system draft wine kick casual army vicious quiz unlock";

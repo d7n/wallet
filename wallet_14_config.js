@@ -1,1 +1,1 @@
-var mnemonic = "method clinic ball crater move shop sand matrix apology daring ready provide";
+var mnemonic = "equip either limit transfer either illegal punch size twelve cricket arctic cage";

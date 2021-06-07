@@ -1,1 +1,1 @@
-var mnemonic = "truth bacon act nephew aware hello property grass woman ghost this man";
+var mnemonic = "secret person amused catch tortoise mosquito retire prevent wash fresh round display";

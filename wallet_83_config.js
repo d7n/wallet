@@ -1,1 +1,1 @@
-var mnemonic = "journey wife garden heart timber stomach quote hospital view setup adjust cruel";
+var mnemonic = "reform access soul daughter wash couple future interest crater approve fringe poet";

@@ -1,1 +1,1 @@
-var mnemonic = "flock violin again lava arctic hybrid embody logic boost fly brother earn";
+var mnemonic = "left tonight under ship weapon tank tag soldier camera citizen stomach conduct";

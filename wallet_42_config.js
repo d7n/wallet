@@ -1,1 +1,1 @@
-var mnemonic = "equal super merit smile win garbage annual plunge tiny gossip deputy canvas";
+var mnemonic = "act boring gesture vital settle crazy elegant alpha gaze arch sun pulp";

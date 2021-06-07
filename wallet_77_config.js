@@ -1,1 +1,1 @@
-var mnemonic = "hand can rose desk divorce wagon bag sell cute artefact trouble unfold";
+var mnemonic = "typical detail delay pill quarter horse copy true iron remain you quit";

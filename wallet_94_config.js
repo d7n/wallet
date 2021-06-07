@@ -1,1 +1,1 @@
-var mnemonic = "discover escape hint river neither blouse pudding stool maze cancel wedding draw";
+var mnemonic = "fruit brother expect desert anchor duty congress symptom dove blade frequent ignore";

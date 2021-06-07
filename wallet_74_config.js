@@ -1,1 +1,1 @@
-var mnemonic = "victory yellow sugar extra surround ketchup drip brisk sound detect ketchup shed";
+var mnemonic = "carbon jump leaf short century woman bright all cruel alarm million vanish";

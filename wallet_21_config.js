@@ -1,1 +1,1 @@
-var mnemonic = "casual author drama brass plunge sort material minimum seat ghost never used";
+var mnemonic = "legend comic marble valve energy give sauce crawl mule one ensure secret";

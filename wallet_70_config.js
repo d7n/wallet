@@ -1,1 +1,1 @@
-var mnemonic = "tube away sound traffic deny slow fancy march album ignore whisper sword";
+var mnemonic = "height pumpkin adult office clap library gift dog gain total merry jump";

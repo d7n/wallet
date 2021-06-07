@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo dune funny taste tennis grass image gospel viable average pony yard";
+var mnemonic = "rebel mammal coast celery toddler flower tomato mystery suit shy interest blast";

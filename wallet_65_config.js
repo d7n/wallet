@@ -1,1 +1,1 @@
-var mnemonic = "tumble ill example amused chalk inside crunch leg stuff invest illegal book";
+var mnemonic = "mixed later total kidney name record squeeze pipe expand umbrella ahead lucky";

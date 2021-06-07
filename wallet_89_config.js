@@ -1,1 +1,1 @@
-var mnemonic = "physical duck brother lunch reunion recipe hurdle motor kitchen degree lake ice";
+var mnemonic = "window marine stone donate van marine story history turn sure captain various";

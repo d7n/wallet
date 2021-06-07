@@ -1,1 +1,1 @@
-var mnemonic = "slim dumb auction giggle rhythm fee option father release harbor filter gasp";
+var mnemonic = "crazy equip swallow until rare equal alcohol emotion token like skin bulk";

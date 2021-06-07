@@ -1,1 +1,1 @@
-var mnemonic = "endless file frown salad arm wave vendor talent friend because action abuse";
+var mnemonic = "fog grit speed arena civil damage glow grain fit blouse decade stage";

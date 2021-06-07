@@ -1,1 +1,1 @@
-var mnemonic = "banner badge drift pulse later have romance foster moment craft clay grain";
+var mnemonic = "sad give stove husband ocean deal solar toast special rigid spare cry";

@@ -1,1 +1,1 @@
-var mnemonic = "legal smart city trumpet six weekend post please pride polar level clerk";
+var mnemonic = "engine nothing night slush when grace snack shuffle orbit item know degree";

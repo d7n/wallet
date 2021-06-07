@@ -1,1 +1,1 @@
-var mnemonic = "ghost scale short indicate lend enough desert raw oak mean wife captain";
+var mnemonic = "border balcony food inspire quantum jazz define inflict nurse slab picture corn";

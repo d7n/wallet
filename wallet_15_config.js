@@ -1,1 +1,1 @@
-var mnemonic = "sponsor front calm critic cart skill salmon wish stereo green reveal supreme";
+var mnemonic = "current record tone notice student dance nurse car section fiction rough cricket";

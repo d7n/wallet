@@ -1,1 +1,1 @@
-var mnemonic = "outside post youth broom buddy beef thrive parent bacon advance october wolf";
+var mnemonic = "rate distance sight tell enrich indicate embrace loop lemon round treat extra";

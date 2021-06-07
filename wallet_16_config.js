@@ -1,1 +1,1 @@
-var mnemonic = "spring bronze dilemma injury face glass history muscle about bench warfare brain";
+var mnemonic = "typical thing honey neck illegal master heart eye stand leader breeze small";

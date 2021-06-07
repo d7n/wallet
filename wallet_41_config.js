@@ -1,1 +1,1 @@
-var mnemonic = "mule flush club rate art praise nurse announce junior cabin satoshi famous";
+var mnemonic = "tenant sentence chalk journey royal street elephant process blur ten rather amused";

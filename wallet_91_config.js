@@ -1,1 +1,1 @@
-var mnemonic = "hospital reopen valve gather tennis frequent expose mango police apple useful tiny";
+var mnemonic = "across wing paddle primary globe theory puppy squeeze hero pottery top bachelor";

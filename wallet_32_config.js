@@ -1,1 +1,1 @@
-var mnemonic = "pencil brass tiger language bright drop task fatal raccoon turkey found idle";
+var mnemonic = "absorb glare mutual clerk series camera same rare spare december three flip";

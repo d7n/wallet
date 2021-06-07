@@ -1,1 +1,1 @@
-var mnemonic = "learn fluid lounge monitor escape bone daring bamboo viable section payment morning";
+var mnemonic = "jeans pear film across pact scout rate flower scout swallow pill benefit";

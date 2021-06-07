@@ -1,1 +1,1 @@
-var mnemonic = "mobile label bronze scrap alert stone vivid team replace festival floor tooth";
+var mnemonic = "furnace zero bonus meadow upon orbit miracle license quiz light magic tomato";

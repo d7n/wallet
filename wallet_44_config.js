@@ -1,1 +1,1 @@
-var mnemonic = "crush rigid major mention industry cushion tortoise lab sick plunge innocent language";
+var mnemonic = "matrix pilot oil sword general legal stable firm farm voyage extra brick";

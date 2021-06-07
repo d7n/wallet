@@ -1,1 +1,1 @@
-var mnemonic = "black blame skirt estate response quit visit trend ankle modify width mountain";
+var mnemonic = "mammal enroll danger divorce curious rule giraffe hint relief swap bundle decorate";

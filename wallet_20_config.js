@@ -1,1 +1,1 @@
-var mnemonic = "aspect clap smooth school certain gain say depend year apology real plunge";
+var mnemonic = "hen negative reduce initial equip garment catch uncle already either soup attack";

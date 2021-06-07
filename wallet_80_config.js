@@ -1,1 +1,1 @@
-var mnemonic = "rookie bonus make pioneer pass safe lottery such float test party arch";
+var mnemonic = "cover excite elegant stock alley cattle blame gadget budget end fog one";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat modify glory cup include mask put auction kingdom mountain curious divorce";
+var mnemonic = "absurd ecology tooth brisk swarm figure phrase derive fault dream evidence maid";

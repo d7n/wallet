@@ -1,1 +1,1 @@
-var mnemonic = "mother bulk meat language mandate gravity coconut piano inject guide want where";
+var mnemonic = "eagle bamboo canal gravity person bleak sleep liar moment perfect boost couch";

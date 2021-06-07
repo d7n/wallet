@@ -1,1 +1,1 @@
-var mnemonic = "error off parade scale federal inherit tunnel impact usual agent stamp perfect";
+var mnemonic = "animal cinnamon stock vibrant torch smooth disorder rather embark paper ladder history";

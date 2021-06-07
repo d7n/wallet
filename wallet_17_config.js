@@ -1,1 +1,1 @@
-var mnemonic = "lecture noble edge silver version ocean square virus possible common broom wait";
+var mnemonic = "arctic rapid decade avoid drip high intact foam recipe solid rich much";

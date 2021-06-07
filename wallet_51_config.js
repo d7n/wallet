@@ -1,1 +1,1 @@
-var mnemonic = "pen exchange syrup blame wage provide monkey about question cement fossil mystery";
+var mnemonic = "erase lamp bicycle army knock cliff quality cannon slide symptom foil sleep";

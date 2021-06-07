@@ -1,1 +1,1 @@
-var mnemonic = "unhappy praise forum injury cream merry toddler twist also mad anxiety change";
+var mnemonic = "weekend gauge frog unable payment rely puzzle snow round comfort immense dismiss";

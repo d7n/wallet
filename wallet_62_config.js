@@ -1,1 +1,1 @@
-var mnemonic = "proud gather snap venture build weasel barrel hockey forward clay session access";
+var mnemonic = "crumble frozen very magic lazy solid guard ribbon rhythm skin link keen";

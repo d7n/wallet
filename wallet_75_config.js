@@ -1,1 +1,1 @@
-var mnemonic = "mosquito prefer angle hire list input scatter mammal cat shoe armed upgrade";
+var mnemonic = "hospital stick tip curve arctic medal around vendor repair nice promote giraffe";

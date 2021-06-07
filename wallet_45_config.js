@@ -1,1 +1,1 @@
-var mnemonic = "prosper also twelve second glance novel heart clip manage visual december toilet";
+var mnemonic = "announce similar cool acquire off year desk absorb asset grief final play";

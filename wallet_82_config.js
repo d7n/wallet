@@ -1,1 +1,1 @@
-var mnemonic = "ginger noble tell concert duty into plunge obey champion fold bargain image";
+var mnemonic = "photo pact strong fold vintage fancy antenna desk blue blue input garment";

@@ -1,1 +1,1 @@
-var mnemonic = "two couch whisper nice card chase learn shrug vintage kit oppose spell";
+var mnemonic = "spring occur stomach adult hurry border medal treat mention toss snow adapt";

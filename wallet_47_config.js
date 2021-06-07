@@ -1,1 +1,1 @@
-var mnemonic = "burger lamp dirt accident term conduct disorder juice tiny fetch picnic stomach";
+var mnemonic = "solar boss wonder gorilla canvas spray story agent name ethics twist pink";

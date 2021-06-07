@@ -1,1 +1,1 @@
-var mnemonic = "build oil city frozen salt stove robot film day lonely memory wait";
+var mnemonic = "coral trophy task sock blanket iron help spoil sniff cousin hurdle pear";
