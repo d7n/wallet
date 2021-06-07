@@ -1,1 +1,1 @@
-var mnemonic = "simple square shield choose muscle noble earn cannon silver news awkward elbow";
+var mnemonic = "cable stable rail clap hockey increase clinic burst excess produce funny income";

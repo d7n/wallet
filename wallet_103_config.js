@@ -1,1 +1,1 @@
-var mnemonic = "need unfair used coin maximum relief silent soft menu bulk wisdom prize";
+var mnemonic = "off doctor category once vehicle fade usual inspire story letter observe air";

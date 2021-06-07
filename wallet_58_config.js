@@ -1,1 +1,1 @@
-var mnemonic = "clip test nuclear educate below ask attack vintage balcony junior three wealth";
+var mnemonic = "art lucky rescue cage hammer crunch crime mass frost kingdom volcano quality";

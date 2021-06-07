@@ -1,1 +1,1 @@
-var mnemonic = "nose boring aim pioneer city ice catalog anchor opinion coast apology fiber";
+var mnemonic = "tomorrow squeeze hello saddle neglect typical journey sustain damage swear recipe glove";

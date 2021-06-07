@@ -1,1 +1,1 @@
-var mnemonic = "catalog lava stone gasp runway famous total magic cake dish foil infant";
+var mnemonic = "nurse illness artwork whisper broccoli auction impact sunset attend clinic boring girl";

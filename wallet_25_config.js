@@ -1,1 +1,1 @@
-var mnemonic = "bulk rotate lend electric bid object like physical visa able escape arm";
+var mnemonic = "sail sort used horn alone rural phone rival adapt juice bleak guess";

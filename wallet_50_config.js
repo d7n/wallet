@@ -1,1 +1,1 @@
-var mnemonic = "another cliff admit furnace section exist soap leave pupil lava equip diet";
+var mnemonic = "cave spoon pill movie scatter cruise deputy atom umbrella milk echo output";

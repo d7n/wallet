@@ -1,1 +1,1 @@
-var mnemonic = "one orchard portion stick release casual evil volcano amount figure rare choose";
+var mnemonic = "ecology whisper bind tornado coconut adult stove civil ugly color shrimp ketchup";

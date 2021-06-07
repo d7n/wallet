@@ -1,1 +1,1 @@
-var mnemonic = "glide spider anchor trigger link trial lunch aisle finish exchange vague sustain";
+var mnemonic = "over sauce bitter now primary brain file master earn avoid retreat stable";

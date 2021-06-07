@@ -1,1 +1,1 @@
-var mnemonic = "tonight talk open rally all radar dog hungry path board force defy";
+var mnemonic = "toss shrimp wrist ice slice still marriage click actress speed notice panic";

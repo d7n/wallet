@@ -1,1 +1,1 @@
-var mnemonic = "crouch guilt liar juice capable cruise venue cruel hour wear quit east";
+var mnemonic = "diet movie physical small sudden above labor sudden current number script local";

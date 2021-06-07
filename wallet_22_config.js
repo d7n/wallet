@@ -1,1 +1,1 @@
-var mnemonic = "second page army behave apology attitude nature toast dog such inflict connect";
+var mnemonic = "ankle detect recycle behave sing fatigue carpet canoe seed between lawsuit bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "drop guess general cruise violin curious sweet carry face black stay tobacco";
+var mnemonic = "profit smoke aware gadget ugly latin keen credit smoke gospel tribe inherit";

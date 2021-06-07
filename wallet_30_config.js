@@ -1,1 +1,1 @@
-var mnemonic = "sausage pretty broccoli solar deliver drastic gadget tell cliff short picture dry";
+var mnemonic = "truth fly wage false cinnamon blossom original kangaroo fiber rescue injury tongue";

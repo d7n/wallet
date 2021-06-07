@@ -1,1 +1,1 @@
-var mnemonic = "foam leaf ozone hello omit ankle pulse acid number fork trophy kidney";
+var mnemonic = "aspect call speed differ chimney leopard leader chuckle casino cigar depend frozen";

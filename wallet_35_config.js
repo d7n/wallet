@@ -1,1 +1,1 @@
-var mnemonic = "grab victory regular below practice smile modify either misery thought minor become";
+var mnemonic = "orphan theme knee level owner castle smooth card skate mystery caught foot";

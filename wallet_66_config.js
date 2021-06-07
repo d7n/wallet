@@ -1,1 +1,1 @@
-var mnemonic = "congress repair bleak bicycle raw rather way swallow member dutch angry crane";
+var mnemonic = "taste clever fruit february shoe message dirt rather echo survey viable usual";

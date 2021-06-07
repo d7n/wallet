@@ -1,1 +1,1 @@
-var mnemonic = "fame usual ramp bounce topic office toe click observe hunt convince loan";
+var mnemonic = "absurd spoil silent stairs hard conduct prosper wage gauge floor govern pizza";

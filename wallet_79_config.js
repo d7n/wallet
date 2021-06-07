@@ -1,1 +1,1 @@
-var mnemonic = "march real enrich derive tree jump excuse miracle stock crazy curve head";
+var mnemonic = "bulb circle carpet never romance vague detect visual copper crane step march";

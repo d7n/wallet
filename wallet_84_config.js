@@ -1,1 +1,1 @@
-var mnemonic = "section summer arrange patch hedgehog cradle little test intact pony rose marriage";
+var mnemonic = "comfort hobby light hint witness genre worth behind tortoise inmate spray banana";

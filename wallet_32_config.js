@@ -1,1 +1,1 @@
-var mnemonic = "reward huge boring tattoo prosper urge scare caution vanish brother race favorite";
+var mnemonic = "sell scrap spider federal ahead bleak amount parrot model law helmet medal";

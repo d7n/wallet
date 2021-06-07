@@ -1,1 +1,1 @@
-var mnemonic = "dune loop milk orbit fortune borrow blast cash census expand shield student";
+var mnemonic = "grief coil flag ugly glass install orient dream shock dune beauty enforce";

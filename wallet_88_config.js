@@ -1,1 +1,1 @@
-var mnemonic = "trophy fiction gas file vacuum involve raccoon panic frown absent edit van";
+var mnemonic = "tank fitness gadget grunt april cover idea attitude enjoy frequent fire lemon";

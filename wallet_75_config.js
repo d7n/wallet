@@ -1,1 +1,1 @@
-var mnemonic = "sunny mountain program unfold feed month sample bacon filter tiny fetch measure";
+var mnemonic = "profit step drill shift license battle pipe dignity parade soup dumb uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "truly melody vicious proud mango disagree silly flavor cube notable eager come";
+var mnemonic = "roast cupboard merge senior woman property lizard crucial style adult amount model";

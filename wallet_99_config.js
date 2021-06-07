@@ -1,1 +1,1 @@
-var mnemonic = "popular skin dry maple cherry student casino obtain hunt waste use trigger";
+var mnemonic = "allow stand ecology sample portion food entry copy arrow poverty crystal wonder";

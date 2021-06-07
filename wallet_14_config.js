@@ -1,1 +1,1 @@
-var mnemonic = "endless grunt picnic motor struggle work arrest barrel often payment roof sphere";
+var mnemonic = "crouch mad icon enjoy old curtain dutch anxiety napkin task faculty fame";

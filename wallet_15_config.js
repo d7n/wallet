@@ -1,1 +1,1 @@
-var mnemonic = "ahead unhappy session curious level soda lunch enough swamp life coach huge";
+var mnemonic = "amazing rabbit glory clump enemy pepper purchase suspect upon job live settle";

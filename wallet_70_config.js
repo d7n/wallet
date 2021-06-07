@@ -1,1 +1,1 @@
-var mnemonic = "record reform science talent rail shine brother action human match magnet web";
+var mnemonic = "undo mixed ritual force struggle client green shoe tackle file return admit";

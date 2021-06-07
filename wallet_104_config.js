@@ -1,1 +1,1 @@
-var mnemonic = "have train kick rain oppose fantasy report client balance lion undo memory";
+var mnemonic = "maze wing ignore cinnamon light begin receive stage doctor empty pig garage";

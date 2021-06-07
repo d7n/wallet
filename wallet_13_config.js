@@ -1,1 +1,1 @@
-var mnemonic = "space divert spatial gauge stay rail magnet noble target control believe enough";
+var mnemonic = "stamp leaf source shrug pelican turkey ladder marine random jeans uniform spy";

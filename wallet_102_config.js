@@ -1,1 +1,1 @@
-var mnemonic = "witness south team allow attract vocal chat pass ice police sauce assault";
+var mnemonic = "purity mechanic vanish index glow spare relief end cereal angle artwork jazz";

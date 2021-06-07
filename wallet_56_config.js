@@ -1,1 +1,1 @@
-var mnemonic = "negative taste remain stay moon glow dismiss expire use leg carry again";
+var mnemonic = "stay verify crisp angle language frozen develop solid museum stock diamond mango";

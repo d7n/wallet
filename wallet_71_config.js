@@ -1,1 +1,1 @@
-var mnemonic = "attack midnight ride ancient range bottom armor lonely afraid breeze worth dismiss";
+var mnemonic = "mesh tuna derive kangaroo client baby position wise view flip amused soul";

@@ -1,1 +1,1 @@
-var mnemonic = "town scout belt traffic give essay proud dish there hire strike bundle";
+var mnemonic = "wise hurry addict guess cinnamon enable crush empty solution control spy toilet";

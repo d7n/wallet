@@ -1,1 +1,1 @@
-var mnemonic = "journey immune cash picture crunch sick wrap unit crouch prefer tide pear";
+var mnemonic = "unhappy slow super always ritual subject advance cliff soft icon slab auction";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd hammer rose symbol twenty frozen manage alert myth ignore swarm flight";
+var mnemonic = "fade hurt sail limit damage certain allow rose drastic sand whale caught";

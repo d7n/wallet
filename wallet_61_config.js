@@ -1,1 +1,1 @@
-var mnemonic = "legend erode furnace brief jacket season release arrow royal category drastic offer";
+var mnemonic = "duty print believe lake discover honey input betray barrel winter shine cargo";

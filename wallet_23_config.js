@@ -1,1 +1,1 @@
-var mnemonic = "aerobic dirt champion option shine gym spirit exotic pause sea speed theme";
+var mnemonic = "main scare mule vague doctor plunge hidden kingdom tail veteran bean situate";

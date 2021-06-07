@@ -1,1 +1,1 @@
-var mnemonic = "retire certain anchor emerge mule absurd hour put swim license usual seminar";
+var mnemonic = "agent pulse mountain exhibit lion escape clever goddess annual body stay gown";

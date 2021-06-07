@@ -1,1 +1,1 @@
-var mnemonic = "actor fragile goddess identify zone fault blast tower glow cradle network record";
+var mnemonic = "erosion acoustic identify punch plastic boost canyon napkin ripple course lock brush";

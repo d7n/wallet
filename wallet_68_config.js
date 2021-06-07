@@ -1,1 +1,1 @@
-var mnemonic = "certain rain thumb venture buzz august siege figure taxi door water either";
+var mnemonic = "shock dog vanish invest detect stable pyramid wrap select must candy crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado marriage sauce upgrade result diet census wealth river depart consider sunset";
+var mnemonic = "model erode pill matrix oil tree theme wreck broom wonder happy fruit";

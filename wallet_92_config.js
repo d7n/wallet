@@ -1,1 +1,1 @@
-var mnemonic = "scrap hair bird buyer segment side bless swift dream betray midnight fix";
+var mnemonic = "item describe survey lunar phone scale stereo popular return razor venue nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "robust laptop fruit orchard govern magnet waste message myth age holiday unveil";
+var mnemonic = "gesture twelve eagle usual silk view empower fresh entire list tired pudding";

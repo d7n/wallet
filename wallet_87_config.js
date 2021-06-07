@@ -1,1 +1,1 @@
-var mnemonic = "praise garment shuffle gold mountain stamp wolf swamp torch escape rifle edit";
+var mnemonic = "appear soup code move custom shiver bitter sponsor nest tell sure hub";

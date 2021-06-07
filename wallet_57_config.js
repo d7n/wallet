@@ -1,1 +1,1 @@
-var mnemonic = "liar suit actual ketchup fatal forum present coin middle public hill fitness";
+var mnemonic = "portion survey will aunt leader raise input situate autumn eternal onion milk";

@@ -1,1 +1,1 @@
-var mnemonic = "bench course brisk pool roof cannon rack wealth twin solve horror behave";
+var mnemonic = "spoon ten riot fluid cabin sponsor check festival faculty youth glimpse tonight";

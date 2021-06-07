@@ -1,1 +1,1 @@
-var mnemonic = "jealous ocean payment icon peasant region blossom bicycle fortune pull deal elegant";
+var mnemonic = "pause timber vibrant push spice object armed orient weasel answer pottery borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker come current category egg paddle that habit art border naive erupt";
+var mnemonic = "drip acoustic reform input merge chat device will clog practice amount alter";

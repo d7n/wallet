@@ -1,1 +1,1 @@
-var mnemonic = "rice place embark mimic hybrid aerobic height blush snap huge hedgehog hotel";
+var mnemonic = "drastic erode feature arrow pudding debate expire size bag lens clump stairs";

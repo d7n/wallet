@@ -1,1 +1,1 @@
-var mnemonic = "exhibit fee onion rely special purpose throw slush chief stereo note indicate";
+var mnemonic = "material window shine marble door decide dignity blossom carry purpose security deposit";

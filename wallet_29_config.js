@@ -1,1 +1,1 @@
-var mnemonic = "laundry cruise hotel receive spatial prosper welcome sheriff lazy frame laugh grief";
+var mnemonic = "transfer elevator fashion wolf alert fetch shed flavor quarter coin rifle panther";

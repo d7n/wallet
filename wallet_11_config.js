@@ -1,1 +1,1 @@
-var mnemonic = "crew genuine real marriage bird bless culture cluster able abstract slice case";
+var mnemonic = "file large detect unaware salad romance scrap sample project age matter need";

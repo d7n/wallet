@@ -1,1 +1,1 @@
-var mnemonic = "pig loyal interest horse save hand peace motor anxiety wreck beef lake";
+var mnemonic = "midnight select vacant piece key cricket pigeon adult uphold pipe inspire fresh";

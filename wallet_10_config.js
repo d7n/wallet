@@ -1,1 +1,1 @@
-var mnemonic = "radio agree moon fitness gentle vague moral depend mercy message economy own";
+var mnemonic = "slight blade ecology mirror duty any cook trick blame wheel volume custom";

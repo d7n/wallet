@@ -1,1 +1,1 @@
-var mnemonic = "juice tackle leaf recall screen detect step mechanic solid indicate south skin";
+var mnemonic = "insane december scatter cheese muscle biology brain capable gospel correct bench possible";

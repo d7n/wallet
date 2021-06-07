@@ -1,1 +1,1 @@
-var mnemonic = "sense mother battle spirit that hidden visit promote say tissue above bundle";
+var mnemonic = "supply false until tuition nasty stomach sausage leisure ridge cabin coyote man";

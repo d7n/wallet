@@ -1,1 +1,1 @@
-var mnemonic = "ghost poet early hold inmate series embark soldier mad pilot people oval";
+var mnemonic = "top festival potato salute same blur furnace diamond depth pull equal fog";

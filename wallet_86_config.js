@@ -1,1 +1,1 @@
-var mnemonic = "wonder hamster end walnut grant pink cement struggle focus wrong taste lady";
+var mnemonic = "mail bridge amazing winner guide health save impulse property envelope nurse flip";

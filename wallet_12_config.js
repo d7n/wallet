@@ -1,1 +1,1 @@
-var mnemonic = "review system royal scale unhappy spell unhappy coil party expect height local";
+var mnemonic = "used glue zone denial fitness able resemble point save tent unveil nest";

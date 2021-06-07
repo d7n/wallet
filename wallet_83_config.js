@@ -1,1 +1,1 @@
-var mnemonic = "stem awkward horse ring rescue tube stock fancy goat naive long stereo";
+var mnemonic = "base visual kidney history army seminar foster firm enhance gap critic fold";

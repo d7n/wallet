@@ -1,1 +1,1 @@
-var mnemonic = "actor much milk decorate must frost asthma maze slam general setup cube";
+var mnemonic = "rude world violin west say entry prosper robust habit stairs defense release";

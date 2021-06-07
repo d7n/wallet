@@ -1,1 +1,1 @@
-var mnemonic = "dawn unknown room bounce exclude account strategy code release ridge actual bracket";
+var mnemonic = "maximum talk lizard gas arm present injury another joy fish wagon cage";

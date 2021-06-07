@@ -1,1 +1,1 @@
-var mnemonic = "document canvas brief bitter noodle drastic move bleak skirt mango accident ankle";
+var mnemonic = "joy into noble scorpion ribbon similar man plate crack magic exercise head";

@@ -1,1 +1,1 @@
-var mnemonic = "twice enrich team truly roast history chief tiny seat toe goddess logic";
+var mnemonic = "off color ribbon whisper pelican doctor broccoli bargain proud enhance skin uphold";

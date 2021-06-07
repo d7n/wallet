@@ -1,1 +1,1 @@
-var mnemonic = "sort sausage champion balance farm lizard thing dragon escape charge boil panther";
+var mnemonic = "license inch between arm sock street similar fabric ivory between twenty roast";

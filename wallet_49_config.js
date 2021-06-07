@@ -1,1 +1,1 @@
-var mnemonic = "ghost motor reward easily belt describe ramp spirit matter letter fortune denial";
+var mnemonic = "thumb rapid olive update kitchen onion need sudden item hospital nature ankle";

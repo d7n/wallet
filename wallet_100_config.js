@@ -1,1 +1,1 @@
-var mnemonic = "time rent vote stable belt brother wear shrimp define alert law lunar";
+var mnemonic = "plug uncover tree steel electric lesson weather proud swift dad weather trip";

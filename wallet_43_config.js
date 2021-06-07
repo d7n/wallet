@@ -1,1 +1,1 @@
-var mnemonic = "sight rough crouch liberty visa good season village ribbon multiply nurse aisle";
+var mnemonic = "nurse base trash describe bundle fatal hover balance iron office price foam";

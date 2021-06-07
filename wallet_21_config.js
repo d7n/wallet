@@ -1,1 +1,1 @@
-var mnemonic = "horse sad stock pulp note galaxy more about crush large unknown primary";
+var mnemonic = "general jar wage scissors scrub want lonely timber virtual control sleep assault";

@@ -1,1 +1,1 @@
-var mnemonic = "denial join credit school spoil tomorrow there wrist arch payment economy cycle";
+var mnemonic = "civil deer tumble suggest final abuse that arrest doctor enemy patch antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal local depth fortune right firm sick motion suggest trade mandate consider";
+var mnemonic = "gun metal yellow setup habit medal warrior gasp garment average casino essay";

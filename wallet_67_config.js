@@ -1,1 +1,1 @@
-var mnemonic = "scale silly dentist that method urban finish tonight portion winner leg bamboo";
+var mnemonic = "tree festival digital radio shed steak genius vessel window wreck royal replace";

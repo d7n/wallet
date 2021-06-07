@@ -1,1 +1,1 @@
-var mnemonic = "swim hidden wrong vivid body web gravity giant again buddy cannon onion";
+var mnemonic = "upset learn river talk sausage skate praise ask chest flame seminar north";

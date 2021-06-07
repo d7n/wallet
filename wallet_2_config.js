@@ -1,1 +1,1 @@
-var mnemonic = "average solution exclude nation absorb mule noodle seed gospel shield wasp spell";
+var mnemonic = "situate gun amateur machine finger someone deal cat industry gun dilemma body";

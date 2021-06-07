@@ -1,1 +1,1 @@
-var mnemonic = "tag bubble border piano morning wheel gate mandate crop suit glimpse differ";
+var mnemonic = "question card extend word clinic leave supreme unhappy rent only tattoo water";

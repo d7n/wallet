@@ -1,1 +1,1 @@
-var mnemonic = "tattoo table elder aim cement lounge exile shell oil hand shield work";
+var mnemonic = "sight vessel during satoshi fall staff bless assume immune wealth require sunny";

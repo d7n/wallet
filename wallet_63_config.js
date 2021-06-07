@@ -1,1 +1,1 @@
-var mnemonic = "snap ginger antenna grape gym fiction wagon kick decide spoon chuckle truly";
+var mnemonic = "found spike output answer wire add seminar pyramid disagree orphan mind liberty";

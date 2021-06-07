@@ -1,1 +1,1 @@
-var mnemonic = "ketchup indicate dentist model never follow scene seven bridge genius wife sand";
+var mnemonic = "sign luggage circle item finger candy diagram unaware device island creek torch";

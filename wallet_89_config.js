@@ -1,1 +1,1 @@
-var mnemonic = "coil agree west obtain winter repair stove apple name border reveal drum";
+var mnemonic = "gentle wedding memory shine offer label stable life meat rocket embody token";

@@ -1,1 +1,1 @@
-var mnemonic = "husband camp tenant return glory cabin limit reject sing section wide case";
+var mnemonic = "pause warrior belt basket guide segment delay catch merge pride mouse craft";

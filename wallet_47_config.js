@@ -1,1 +1,1 @@
-var mnemonic = "dawn second morning deliver cargo okay sudden lecture turtle apology general expect";
+var mnemonic = "velvet access recall vapor oppose tape lock music arctic garden gap bar";

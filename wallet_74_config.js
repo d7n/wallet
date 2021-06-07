@@ -1,1 +1,1 @@
-var mnemonic = "girl target vintage practice bone cage fatigue perfect kingdom chaos trophy hungry";
+var mnemonic = "grit occur awful else shift clean exhibit inherit boss daughter finger miracle";

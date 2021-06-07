@@ -1,1 +1,1 @@
-var mnemonic = "chair seminar benefit license drop special person nerve consider tilt staff climb";
+var mnemonic = "resist patch own travel twin kingdom river erupt cloud ethics stadium govern";

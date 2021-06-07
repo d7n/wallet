@@ -1,1 +1,1 @@
-var mnemonic = "derive crop sorry slush empower heart horse kind coast erupt inspire lift";
+var mnemonic = "fork valve length bean melt journey next anxiety tortoise embrace leaf stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "awake oblige return just list front boy dash sphere napkin knock give";
+var mnemonic = "party gold cute often usage program indoor human door risk knee team";

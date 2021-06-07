@@ -1,1 +1,1 @@
-var mnemonic = "media vessel ladder deal arm circle brand vendor enable advance wave hip";
+var mnemonic = "lawn matter modify top room devote drama wing huge essence polar ahead";

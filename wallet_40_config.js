@@ -1,1 +1,1 @@
-var mnemonic = "easily all swear address work twenty grow admit annual genuine bullet explain";
+var mnemonic = "demand patrol stumble isolate document evoke ensure model shine toe clap spread";
