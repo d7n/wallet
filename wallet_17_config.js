@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo black economy clay blossom other huge bacon immune assist puppy safe";
+var mnemonic = "unique laugh alone swim dilemma want steak social awake media naive track";

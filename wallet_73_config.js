@@ -1,1 +1,1 @@
-var mnemonic = "suggest glow smart iron boy corn canoe lamp mom face cause shine";
+var mnemonic = "author faint avoid cave public fossil swift finish chaos misery mistake viable";

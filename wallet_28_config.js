@@ -1,1 +1,1 @@
-var mnemonic = "poverty detect siege before oblige note message vacant basic runway crucial tool";
+var mnemonic = "smoke calm kingdom oyster pass urban hybrid nation venue indoor borrow harvest";

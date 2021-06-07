@@ -1,1 +1,1 @@
-var mnemonic = "original frequent resource present grunt refuse method entire immune under hen zone";
+var mnemonic = "critic total vicious pen squirrel illness senior elbow junior rotate image express";

@@ -1,1 +1,1 @@
-var mnemonic = "hand payment olive example guard vague offer fossil conduct toe way minute";
+var mnemonic = "brain bulk name habit hammer vanish clump quit gravity marine spring ostrich";

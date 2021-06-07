@@ -1,1 +1,1 @@
-var mnemonic = "charge popular theory favorite dinosaur panda focus skull one switch gown confirm";
+var mnemonic = "sphere they uphold say tape tourist rapid festival switch clarify grant anxiety";

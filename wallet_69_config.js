@@ -1,1 +1,1 @@
-var mnemonic = "someone flock frog clinic arena judge garbage slight wet select minimum twice";
+var mnemonic = "evidence myth dune exhaust lady aerobic kite ostrich news whisper clump because";

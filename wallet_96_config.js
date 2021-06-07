@@ -1,1 +1,1 @@
-var mnemonic = "inner paddle rhythm idle bamboo square private move joy misery else chase";
+var mnemonic = "begin cannon easy abuse junior exhaust daughter candy witness october depth setup";

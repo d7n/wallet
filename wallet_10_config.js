@@ -1,1 +1,1 @@
-var mnemonic = "guitar demand outdoor upper hole quit false lesson royal decline myth hotel";
+var mnemonic = "cereal flat brave claw mutual corn cigar cannon payment couch list brave";

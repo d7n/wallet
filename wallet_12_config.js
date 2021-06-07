@@ -1,1 +1,1 @@
-var mnemonic = "mention steak tornado addict inhale math tribe aim math love text canal";
+var mnemonic = "jacket know polar away rather never loyal avocado skill share toddler run";

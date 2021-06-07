@@ -1,1 +1,1 @@
-var mnemonic = "thing renew chalk pizza aerobic decline auto quote toilet mass crime bomb";
+var mnemonic = "cloud brisk floor doll clump cube elite bulk foster lumber crowd goose";

@@ -1,1 +1,1 @@
-var mnemonic = "canal clump indicate enter spell mansion ability potato always clarify smile equip";
+var mnemonic = "rose lemon fall theme subject audit account aisle rug offer reject cradle";

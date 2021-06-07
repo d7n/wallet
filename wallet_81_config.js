@@ -1,1 +1,1 @@
-var mnemonic = "common beach clog avocado easy pulse surprise frost hint barely grace steak";
+var mnemonic = "seat scrap lens mesh output language journey crawl nation increase virtual embark";

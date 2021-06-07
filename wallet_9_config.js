@@ -1,1 +1,1 @@
-var mnemonic = "tree suggest amount know bleak erosion whale pigeon style auction fiction require";
+var mnemonic = "club math fold differ clap other loan grape dawn human sight year";

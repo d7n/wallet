@@ -1,1 +1,1 @@
-var mnemonic = "code maid provide before iron field bottom paper recall play wear person";
+var mnemonic = "man wonder pistol what inch place fiction city rely neglect rent lend";

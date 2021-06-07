@@ -1,1 +1,1 @@
-var mnemonic = "bag satisfy chronic tomato want bulk pumpkin autumn scare during element sea";
+var mnemonic = "fit silent smoke stomach mesh mystery tool tower demand stem oven iron";

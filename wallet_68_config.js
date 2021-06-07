@@ -1,1 +1,1 @@
-var mnemonic = "butter wear recall hour divorce junk like salon memory hollow eagle chest";
+var mnemonic = "cruise shoe tornado lab summer talent soon paddle absurd satoshi fluid intact";

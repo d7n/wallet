@@ -1,1 +1,1 @@
-var mnemonic = "practice account find force injury pilot unfold typical pitch breeze rich search";
+var mnemonic = "blur divide solar offer toward jacket soon source hello chaos day crater";

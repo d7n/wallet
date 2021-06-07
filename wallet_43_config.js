@@ -1,1 +1,1 @@
-var mnemonic = "mind economy aunt emotion deal advance flush grit forward valley wise estate";
+var mnemonic = "pass sight absent tell loud juice raven girl cricket major spoon crouch";

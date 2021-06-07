@@ -1,1 +1,1 @@
-var mnemonic = "knife educate royal wool coral dignity assault sword gift attack enact double";
+var mnemonic = "volcano excite lazy second drift grit common afraid voice pause miracle scrap";

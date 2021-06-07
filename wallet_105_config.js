@@ -1,1 +1,1 @@
-var mnemonic = "parent still need you squeeze learn during raw action bar flame street";
+var mnemonic = "daring fault certain cabin lyrics list planet buffalo hour toddler mind worth";

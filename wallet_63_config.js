@@ -1,1 +1,1 @@
-var mnemonic = "common joke thumb sport have chapter brother position control coyote shield demand";
+var mnemonic = "unusual inmate region love float category bubble desert wisdom tomato tone salad";

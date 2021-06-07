@@ -1,1 +1,1 @@
-var mnemonic = "embark forum diet turkey kiss renew enough scale rival inhale tiger stomach";
+var mnemonic = "hybrid hidden prison grow engage antenna dice wealth crucial vocal toy city";

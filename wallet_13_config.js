@@ -1,1 +1,1 @@
-var mnemonic = "gallery teach return spoil link chest position avocado option state ribbon health";
+var mnemonic = "patient mutual someone submit soccer pet city enjoy thank erupt open crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "spy soda sock fan prevent material lemon antenna dignity when nurse access";
+var mnemonic = "people promote own evil accident panda artist position pupil coin early cluster";

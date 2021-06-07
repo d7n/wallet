@@ -1,1 +1,1 @@
-var mnemonic = "artefact typical swamp lyrics employ urge waste zero same flush kitten supply";
+var mnemonic = "artefact recycle outdoor eager diamond inspire silent spend next toe rapid outside";

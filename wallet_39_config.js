@@ -1,1 +1,1 @@
-var mnemonic = "unknown proud fall spy tissue best garage crowd recall song zoo awkward";
+var mnemonic = "dwarf camp time borrow labor salute play electric jungle weird mutual soon";

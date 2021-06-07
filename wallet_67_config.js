@@ -1,1 +1,1 @@
-var mnemonic = "else road tragic text goat reject disorder elite sick brick sight choose";
+var mnemonic = "donkey planet banana black tornado south luggage volcano jeans near nerve regret";

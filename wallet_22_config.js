@@ -1,1 +1,1 @@
-var mnemonic = "legal amused flush awkward below hybrid galaxy sudden floor merit wealth output";
+var mnemonic = "brain diamond setup dirt then saddle disease tiger glory auto beach skate";

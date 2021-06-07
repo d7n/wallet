@@ -1,1 +1,1 @@
-var mnemonic = "drive drift win model shove goose manual drop identify fault pulse prevent";
+var mnemonic = "mixed visual illegal add author sunset point cement summer peanut industry another";

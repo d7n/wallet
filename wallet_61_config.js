@@ -1,1 +1,1 @@
-var mnemonic = "blast patrol glow door grow enact photo era abstract sort thumb dog";
+var mnemonic = "couple ensure kite tissue fish sustain clutch shop script congress escape inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "raven bright busy brick soldier churn because adult mammal oval brick together";
+var mnemonic = "august rude coyote afraid cigar dust collect kingdom excite excite left ginger";

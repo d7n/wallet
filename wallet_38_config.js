@@ -1,1 +1,1 @@
-var mnemonic = "unknown rigid tower announce market peace loyal fiscal sight emotion tip drill";
+var mnemonic = "useless jelly rough yard drastic spawn breeze wisdom nest satoshi another someone";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry congress domain supreme tool crystal cactus creek split monitor vacuum federal";
+var mnemonic = "gravity suit alien salon opera aunt woman razor mouse muscle slow pave";

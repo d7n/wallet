@@ -1,1 +1,1 @@
-var mnemonic = "ranch focus settle march toward emotion brand angle slam shoulder news fury";
+var mnemonic = "dune tribe achieve cricket option hawk globe defense tool promote rely goddess";

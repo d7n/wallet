@@ -1,1 +1,1 @@
-var mnemonic = "smile lawsuit welcome pitch impose high forum fashion edit public sample donor";
+var mnemonic = "shell bottom soda spice trap valid carbon south easy decide panda walnut";

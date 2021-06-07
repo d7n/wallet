@@ -1,1 +1,1 @@
-var mnemonic = "pet kit ethics tired item coast clarify avocado cost elite warrior twin";
+var mnemonic = "ecology odor forget chat face gaze custom ancient subway hello box settle";

@@ -1,1 +1,1 @@
-var mnemonic = "record stereo balance insect exotic blue group wing office guard outdoor gate";
+var mnemonic = "ask twelve kind stereo chimney dinosaur found off detect cupboard attract baby";

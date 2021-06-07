@@ -1,1 +1,1 @@
-var mnemonic = "negative celery space between path improve south father undo dumb pizza surface";
+var mnemonic = "elevator law nation mad file cave damp bless despair surprise trumpet ancient";

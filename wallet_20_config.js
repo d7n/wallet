@@ -1,1 +1,1 @@
-var mnemonic = "success sport filter square fiction imitate wrap arrow hello common unlock hip";
+var mnemonic = "opera december language usual hedgehog indoor shiver noodle arrest chair critic obtain";

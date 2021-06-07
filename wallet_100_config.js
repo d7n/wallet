@@ -1,1 +1,1 @@
-var mnemonic = "scout gloom wolf yellow welcome nurse method steel mosquito police anger inflict";
+var mnemonic = "frame tenant hero repeat tired asset pepper april moon change between analyst";

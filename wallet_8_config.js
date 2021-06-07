@@ -1,1 +1,1 @@
-var mnemonic = "blush banana shop unfold exhaust moral library forget route august notable purse";
+var mnemonic = "leaf pepper inner inspire mom remind kingdom dawn find swift ecology cream";

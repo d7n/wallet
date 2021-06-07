@@ -1,1 +1,1 @@
-var mnemonic = "what avoid gesture file trim poet truth below aspect lava behind limit";
+var mnemonic = "outdoor catalog region middle toss cat before whisper extra loan eyebrow already";

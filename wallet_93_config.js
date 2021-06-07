@@ -1,1 +1,1 @@
-var mnemonic = "explain chuckle caution require monkey hawk ball skull curious donor distance between";
+var mnemonic = "estate push assume balcony purchase quality raccoon sketch citizen crater female garment";

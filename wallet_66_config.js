@@ -1,1 +1,1 @@
-var mnemonic = "barely verify task settle tonight birth theme forest hen space pause replace";
+var mnemonic = "aisle achieve target extra kind aware tray engine pear entire panther wise";

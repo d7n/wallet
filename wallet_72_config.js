@@ -1,1 +1,1 @@
-var mnemonic = "expire tide bar flame equal enable inherit spy glory lift skill shallow";
+var mnemonic = "elephant oil hungry stable claw awake know raven debate day culture mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "regular cloth knock spoil awesome season legend install quarter vessel people ask";
+var mnemonic = "turn start ensure transfer clever eternal icon regret one century truck castle";

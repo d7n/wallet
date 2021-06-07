@@ -1,1 +1,1 @@
-var mnemonic = "divide accident same crew opera dynamic valid input chase giggle jump print";
+var mnemonic = "label clean device kid ugly annual slim pottery liar glove trick fiction";

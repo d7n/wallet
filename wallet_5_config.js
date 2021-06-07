@@ -1,1 +1,1 @@
-var mnemonic = "this luggage body soup reopen impact neutral case apology stable despair weather";
+var mnemonic = "dynamic pause tell film easy live turn elite notice coach analyst game";

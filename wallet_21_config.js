@@ -1,1 +1,1 @@
-var mnemonic = "radar claw mix deposit liquid topic rate girl inform crystal average tongue";
+var mnemonic = "credit mystery tape attend ketchup wear behind rally member foil cry away";

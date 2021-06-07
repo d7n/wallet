@@ -1,1 +1,1 @@
-var mnemonic = "glad ranch cook nest pitch pony embrace emotion sauce steel cheese census";
+var mnemonic = "version wife tide next tennis argue strong waste sentence regular apple dress";

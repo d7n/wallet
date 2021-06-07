@@ -1,1 +1,1 @@
-var mnemonic = "crystal add parade crash filter social pyramid limit picture poet illegal put";
+var mnemonic = "useful genuine seed devote uncle turkey era turkey clown prison badge boil";

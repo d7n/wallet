@@ -1,1 +1,1 @@
-var mnemonic = "nerve author vague globe language luxury pupil toe punch crane potato border";
+var mnemonic = "inquiry pond broom accident cart file zero excuse sea song swim judge";

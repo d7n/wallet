@@ -1,1 +1,1 @@
-var mnemonic = "mixed brother scorpion moral copy struggle toward wealth play truth faith hood";
+var mnemonic = "gadget recycle little bachelor manage pear enrich worry attract twist wedding pilot";

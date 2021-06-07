@@ -1,1 +1,1 @@
-var mnemonic = "ankle fall smile sphere midnight minute giggle miracle tribe donor ignore vapor";
+var mnemonic = "kite kiss brain host leave bounce aim vanish promote property next hurdle";

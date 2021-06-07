@@ -1,1 +1,1 @@
-var mnemonic = "fitness add skirt pioneer engage destroy note motor napkin velvet garlic tide";
+var mnemonic = "turkey size humble walk conduct tongue write flag stomach urban ladder jewel";

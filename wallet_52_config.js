@@ -1,1 +1,1 @@
-var mnemonic = "narrow airport hobby hood chapter yellow provide quiz evidence tell guilt medal";
+var mnemonic = "ring shaft that voice border frame refuse trash price story fee during";

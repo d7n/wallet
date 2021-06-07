@@ -1,1 +1,1 @@
-var mnemonic = "upon kangaroo actual hockey slice diagram milk copper twist door cup surround";
+var mnemonic = "equal access panic away loop soap riot easy wisdom air lab notice";

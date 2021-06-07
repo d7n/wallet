@@ -1,1 +1,1 @@
-var mnemonic = "exercise provide inform poverty turn case myself vapor only awesome jelly summer";
+var mnemonic = "soon weekend misery benefit weasel scorpion nurse inspire link mix window target";

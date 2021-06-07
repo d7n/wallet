@@ -1,1 +1,1 @@
-var mnemonic = "mail tag kitchen upset clog enough excite drift avoid rice wedding effort";
+var mnemonic = "normal rigid recall ocean best logic alert speak parent satisfy dwarf general";

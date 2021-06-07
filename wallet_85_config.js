@@ -1,1 +1,1 @@
-var mnemonic = "brown powder album cancel cousin range mind fancy resemble goat purse head";
+var mnemonic = "virus field culture myth south dose current olive muffin glow whisper cricket";

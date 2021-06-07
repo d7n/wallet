@@ -1,1 +1,1 @@
-var mnemonic = "dice weird cram cash quit error hole load amazing identify volcano age";
+var mnemonic = "absurd segment fossil april impulse dumb sniff fence paper veteran mansion wrap";

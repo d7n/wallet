@@ -1,1 +1,1 @@
-var mnemonic = "symptom gown divorce ankle hold people spend office energy cousin must rough";
+var mnemonic = "silent hair fall priority this ten wagon caution guilt grunt web action";

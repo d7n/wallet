@@ -1,1 +1,1 @@
-var mnemonic = "one valve almost story dad blossom brass wild domain science art stool";
+var mnemonic = "access general tiger desert case change hold occur accident media topple common";

@@ -1,1 +1,1 @@
-var mnemonic = "immense among recycle pistol scorpion certain benefit short pact pottery father flavor";
+var mnemonic = "thing orchard syrup maple detail broken absent hair smoke holiday diamond butter";

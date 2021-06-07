@@ -1,1 +1,1 @@
-var mnemonic = "mechanic moment million aerobic tunnel eager reduce visa tonight frown glad squeeze";
+var mnemonic = "change vehicle arrange refuse wave hill material man city mechanic walnut chief";

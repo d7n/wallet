@@ -1,1 +1,1 @@
-var mnemonic = "midnight kite churn dizzy fly source accident fade arrest render shadow energy";
+var mnemonic = "now worry swim yard ten sing scissors mesh island flavor lounge slide";

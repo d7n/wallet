@@ -1,1 +1,1 @@
-var mnemonic = "bachelor mask black correct bullet end negative domain junior imitate great youth";
+var mnemonic = "add abuse until oval plunge climb evoke install attend champion stuff ocean";

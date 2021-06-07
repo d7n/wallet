@@ -1,1 +1,1 @@
-var mnemonic = "letter believe destroy claim trim jazz public fury crystal space sight echo";
+var mnemonic = "enroll find desert blind vote twenty couch ghost hat ritual amount agree";

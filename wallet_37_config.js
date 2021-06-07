@@ -1,1 +1,1 @@
-var mnemonic = "summer change jaguar over explain kitten trophy fortune frequent spell position gym";
+var mnemonic = "company never benefit damp destroy glory chief badge upset indicate canvas sign";

@@ -1,1 +1,1 @@
-var mnemonic = "cover question sugar mimic camera fire bounce lumber wolf tiger fatigue nephew";
+var mnemonic = "illness anger inflict junior flavor forum hill banner picnic winner measure frozen";

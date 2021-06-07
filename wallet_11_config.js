@@ -1,1 +1,1 @@
-var mnemonic = "item damage gather galaxy blur fold ordinary ozone matter soda elephant festival";
+var mnemonic = "output gather label record awake interest return husband ill battle hair ozone";

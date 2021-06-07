@@ -1,1 +1,1 @@
-var mnemonic = "genuine gravity learn pen clarify brush pass short vast attract virus game";
+var mnemonic = "remain security manage oyster despair casual display test resist wild claim result";

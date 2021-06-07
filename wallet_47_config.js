@@ -1,1 +1,1 @@
-var mnemonic = "clap surge hour fix fantasy evidence puzzle orange grant all hint ill";
+var mnemonic = "fit unfair cargo wink hair dress switch solution unfair say item dove";

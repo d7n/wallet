@@ -1,1 +1,1 @@
-var mnemonic = "zebra popular similar floor canvas emerge upset jump say across army lecture";
+var mnemonic = "clog want menu tuna gentle faint catalog female coconut strike master rule";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle grid page fish provide vicious issue giggle erode stem wear grid";
+var mnemonic = "cheese whip burst ritual hero suffer delay thumb coconut ensure impact kiss";

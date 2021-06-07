@@ -1,1 +1,1 @@
-var mnemonic = "artefact gate permit wrist cook voice road tool soft recycle primary cute";
+var mnemonic = "stage giraffe destroy garbage magnet eyebrow unaware wife regular meadow piano pioneer";

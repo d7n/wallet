@@ -1,1 +1,1 @@
-var mnemonic = "lucky garment remember flight among december network rotate battle upset meat dawn";
+var mnemonic = "affair skin cabbage tag cradle general confirm quote honey inhale zone essay";

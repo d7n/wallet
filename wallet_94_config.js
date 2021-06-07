@@ -1,1 +1,1 @@
-var mnemonic = "talk room say frame local vote rapid under tell bargain system snack";
+var mnemonic = "august near tree crater input nasty good announce balcony jacket theme lens";

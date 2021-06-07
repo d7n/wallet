@@ -1,1 +1,1 @@
-var mnemonic = "genre organ spin chief girl shine ability shaft uphold twist guard shine";
+var mnemonic = "athlete relief slush mechanic auction broom example flip cup sound drill arrest";

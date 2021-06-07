@@ -1,1 +1,1 @@
-var mnemonic = "poem special bus source dwarf cereal winner hollow hungry garlic skill armor";
+var mnemonic = "stomach swamp shop funny mother element lab brush until common gas motion";

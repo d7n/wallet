@@ -1,1 +1,1 @@
-var mnemonic = "quality side castle impulse volcano labor correct plate slot canoe side token";
+var mnemonic = "rookie apple treat bubble walk aspect bar say long crush glory expire";

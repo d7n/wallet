@@ -1,1 +1,1 @@
-var mnemonic = "thunder member music drive weather result end cry game dice wish option";
+var mnemonic = "borrow cool grunt vacant crater year put assault palm core swing index";

@@ -1,1 +1,1 @@
-var mnemonic = "you green canal wood cart melody spider enforce super degree quality crumble";
+var mnemonic = "fix race screen vehicle dwarf senior manage visit kick favorite clay mad";

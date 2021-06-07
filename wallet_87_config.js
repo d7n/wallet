@@ -1,1 +1,1 @@
-var mnemonic = "audit either session gallery pitch make beauty boss shuffle model bar evolve";
+var mnemonic = "medal canoe chalk physical limb shrimp buzz gift gorilla zebra ten aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle syrup satoshi ordinary innocent south hurdle matrix peasant coffee athlete derive";
+var mnemonic = "athlete betray exit grape three panda picnic magnet favorite text debris birth";

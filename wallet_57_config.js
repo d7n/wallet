@@ -1,1 +1,1 @@
-var mnemonic = "minute chaos sphere case file tragic away another prosper electric click about";
+var mnemonic = "border butter over real green census couch legal key silly spider fringe";

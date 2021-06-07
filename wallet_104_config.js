@@ -1,1 +1,1 @@
-var mnemonic = "type profit art winner apart clarify stock sword main sun alone poem";
+var mnemonic = "badge tenant cereal canyon curious morning frost knock glass suffer chuckle cruise";

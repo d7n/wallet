@@ -1,1 +1,1 @@
-var mnemonic = "flock jaguar axis brave beach slender sick notice panda voyage heavy polar";
+var mnemonic = "spice park dismiss prevent robot wage furnace rifle gain destroy inhale inherit";

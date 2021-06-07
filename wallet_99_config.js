@@ -1,1 +1,1 @@
-var mnemonic = "piece sibling maid cry cream neutral rhythm purpose dish scrub stool exist";
+var mnemonic = "cup pipe leaf car head method fix square tunnel later border lunar";

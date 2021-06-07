@@ -1,1 +1,1 @@
-var mnemonic = "club coffee quick cover trumpet cattle tonight spice video conduct wild dial";
+var mnemonic = "survey april gown future drink tragic patrol final duck rain daughter timber";

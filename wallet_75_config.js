@@ -1,1 +1,1 @@
-var mnemonic = "lens diagram salon clip flash secret deputy symbol sustain ghost antenna trick";
+var mnemonic = "hello section gas knife exhaust kitten coral scissors bounce guitar keep shed";

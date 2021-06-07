@@ -1,1 +1,1 @@
-var mnemonic = "rigid battle sibling bitter blanket cage place approve open group review slam";
+var mnemonic = "legend enjoy index genuine young raven judge joke energy alert retire dismiss";

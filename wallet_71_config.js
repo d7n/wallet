@@ -1,1 +1,1 @@
-var mnemonic = "record stage diet wine beauty tennis wrist supreme rate width water capable";
+var mnemonic = "ticket burden castle cute nature depend excuse portion chicken frequent hedgehog peanut";
