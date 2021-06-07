@@ -1,1 +1,1 @@
-var mnemonic = "actual bonus twin ask faith secret media wage novel spirit device glimpse";
+var mnemonic = "property torch erode use half mosquito buffalo search enjoy number giant energy";

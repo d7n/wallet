@@ -1,1 +1,1 @@
-var mnemonic = "approve tattoo caught actress choose tomorrow dutch tired party quality shadow float";
+var mnemonic = "run post all hamster spice melt action express rich dilemma gentle guess";

@@ -1,1 +1,1 @@
-var mnemonic = "myself live remind rice foam bind bleak furnace fault turn creek blanket";
+var mnemonic = "wage pull butter often wedding relief clap clinic toast height furnace gate";

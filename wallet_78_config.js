@@ -1,1 +1,1 @@
-var mnemonic = "lawn timber program math uniform olive security violin junk moon inflict trust";
+var mnemonic = "maze wash confirm use capital art step surge post beauty sadness artwork";

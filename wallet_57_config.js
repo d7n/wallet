@@ -1,1 +1,1 @@
-var mnemonic = "sad surge tail climb enough invite column express garbage walk pepper orchard";
+var mnemonic = "sauce coconut chef rule powder mango quick edge owner hidden method machine";

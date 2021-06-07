@@ -1,1 +1,1 @@
-var mnemonic = "yellow tornado question public final element consider shadow drift item culture viable";
+var mnemonic = "reunion empty penalty topple scrap buffalo fiction laundry phrase execute point leader";

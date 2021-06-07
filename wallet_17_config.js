@@ -1,1 +1,1 @@
-var mnemonic = "orchard claw riot where century okay raise jeans spy shoulder fall medal";
+var mnemonic = "crisp canoe rely shy satoshi giant aerobic tent sudden goddess seat equal";

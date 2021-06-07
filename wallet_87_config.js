@@ -1,1 +1,1 @@
-var mnemonic = "day radar artist harvest practice nothing fetch lesson pudding open task cinnamon";
+var mnemonic = "illness glimpse kick chronic index hunt liar mad denial proof blanket knee";

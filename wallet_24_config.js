@@ -1,1 +1,1 @@
-var mnemonic = "crop choice afraid web unaware spawn level shrug three grow toe robust";
+var mnemonic = "witness leisure session valid notice wash amused swarm ecology must walk tobacco";

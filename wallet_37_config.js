@@ -1,1 +1,1 @@
-var mnemonic = "picnic excess subject crater host identify gown another easily client episode sentence";
+var mnemonic = "parent main tool arena popular draw rack object parade duty kite live";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas peace web foam view tribe swing lumber injury derive describe seed";
+var mnemonic = "depart trend smooth nature supply start armed shallow edit worry toast holiday";

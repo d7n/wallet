@@ -1,1 +1,1 @@
-var mnemonic = "great demand lady gold wall obvious upset spatial viable route biology engine";
+var mnemonic = "early sugar plate south burger panda identify ride toss prison like exotic";

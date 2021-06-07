@@ -1,1 +1,1 @@
-var mnemonic = "hour turn gap feel fork cinnamon convince panther celery math embody harsh";
+var mnemonic = "glimpse mystery pigeon swim gospel wave coffee fresh tank fortune bronze possible";

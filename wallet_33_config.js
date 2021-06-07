@@ -1,1 +1,1 @@
-var mnemonic = "spot letter payment excess couch pill enemy emotion tooth fire choose general";
+var mnemonic = "old relax anger okay barrel helmet smart ozone odor lottery case coyote";

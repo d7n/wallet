@@ -1,1 +1,1 @@
-var mnemonic = "sell humor custom fan tower garage budget tiger virus fall uncover index";
+var mnemonic = "number rack decade actor detect million food light relief solid antenna arch";

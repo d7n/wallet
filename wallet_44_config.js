@@ -1,1 +1,1 @@
-var mnemonic = "spray token bread orphan sweet mass blind congress phrase noodle joke tattoo";
+var mnemonic = "limb cheese process obey solve patrol gravity flame mixture sheriff clarify garbage";

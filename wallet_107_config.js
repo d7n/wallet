@@ -1,1 +1,1 @@
-var mnemonic = "host proof nice shaft version upper retreat funny member armor wage detect";
+var mnemonic = "museum garage cattle mobile recycle able until inspire coconut man proud install";

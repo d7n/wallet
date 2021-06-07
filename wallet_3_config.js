@@ -1,1 +1,1 @@
-var mnemonic = "disease carpet supreme junior maple cook holiday memory sadness front reduce fancy";
+var mnemonic = "abuse unfair fortune bulk sunset special begin whale talent tumble doctor dad";

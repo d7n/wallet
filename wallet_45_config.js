@@ -1,1 +1,1 @@
-var mnemonic = "physical inner planet grief evoke taste review agree sing ability company crime";
+var mnemonic = "first genre pretty bring hobby captain town barely timber drill syrup hollow";

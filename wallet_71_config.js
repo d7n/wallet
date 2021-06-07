@@ -1,1 +1,1 @@
-var mnemonic = "song stock sausage gain goat onion chapter remain animal around ignore spoil";
+var mnemonic = "skin tone gain chef immense report sketch tray better company dignity broken";

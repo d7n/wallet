@@ -1,1 +1,1 @@
-var mnemonic = "call ship family observe vintage attack grocery tribe child result lobster oyster";
+var mnemonic = "poem tag depart portion gasp jungle share trial bright apart combine avocado";

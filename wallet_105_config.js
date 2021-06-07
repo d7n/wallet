@@ -1,1 +1,1 @@
-var mnemonic = "tray ripple swear door assist gauge february state leisure assault tuna lunar";
+var mnemonic = "daughter depend cup knock save actual gossip book wash page penalty sudden";

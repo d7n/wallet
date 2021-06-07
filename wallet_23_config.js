@@ -1,1 +1,1 @@
-var mnemonic = "abuse piano cousin sail road frame bottom digital shiver common print host";
+var mnemonic = "purse shiver tank dice verb audit valve soap vicious shoulder script horn";

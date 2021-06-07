@@ -1,1 +1,1 @@
-var mnemonic = "mixed double dutch cage theory churn note liberty era alcohol heavy use";
+var mnemonic = "coffee saddle crop kidney voyage shoulder crumble combine trade include nasty fancy";

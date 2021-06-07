@@ -1,1 +1,1 @@
-var mnemonic = "similar category chief federal square flower clap sight lake flat arrive pole";
+var mnemonic = "fetch address hint drill submit gown patch word grow resist pencil pride";

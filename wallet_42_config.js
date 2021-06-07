@@ -1,1 +1,1 @@
-var mnemonic = "goat keep salute mammal race weekend height crash congress decrease garage autumn";
+var mnemonic = "flight path garment little census fly roof aim thumb fashion urge improve";

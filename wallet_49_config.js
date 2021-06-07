@@ -1,1 +1,1 @@
-var mnemonic = "glance patch fat badge derive antenna eight mosquito wife citizen food disorder";
+var mnemonic = "ride resemble better river tent drink spirit license bike aunt torch coffee";

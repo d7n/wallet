@@ -1,1 +1,1 @@
-var mnemonic = "drill alpha dolphin guide spot bird exclude discover awesome alone plastic emerge";
+var mnemonic = "sting output idea cause whip youth mammal slush reason moral amateur casino";

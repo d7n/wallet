@@ -1,1 +1,1 @@
-var mnemonic = "uncle senior sleep measure salmon radar episode wet tiger chase slush cup";
+var mnemonic = "crash calm peasant result business misery potato hurdle frame nature half shift";

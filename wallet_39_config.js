@@ -1,1 +1,1 @@
-var mnemonic = "unusual inhale area olive wall hold turkey isolate jump noodle honey come";
+var mnemonic = "alley awake have certain outside super always void boring grain mail tortoise";

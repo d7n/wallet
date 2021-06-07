@@ -1,1 +1,1 @@
-var mnemonic = "trade glance column labor coyote evoke reject utility legal peace dinosaur festival";
+var mnemonic = "neck clock general faint project educate almost margin region civil aisle custom";

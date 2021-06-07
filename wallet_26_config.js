@@ -1,1 +1,1 @@
-var mnemonic = "obey excuse orbit roast coil time dentist panel wrist wheat alien spider";
+var mnemonic = "blanket pact inhale kite riot flight face sugar blue silver cycle churn";

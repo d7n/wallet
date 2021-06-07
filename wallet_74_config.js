@@ -1,1 +1,1 @@
-var mnemonic = "team grocery planet city rifle decide flavor wrong dad come photo winter";
+var mnemonic = "diagram priority hollow carbon runway evolve trip draft magic donate crane just";

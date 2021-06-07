@@ -1,1 +1,1 @@
-var mnemonic = "uphold solar mom merry private wild dizzy vague noodle soft allow job";
+var mnemonic = "attract convince rail praise genius visa pepper spoon save trust leopard daughter";

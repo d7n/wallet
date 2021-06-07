@@ -1,1 +1,1 @@
-var mnemonic = "water hope stool visual since genre because trade consider develop wrist civil";
+var mnemonic = "bracket enlist dog tenant peanut stock axis tobacco tuition sunset outdoor correct";

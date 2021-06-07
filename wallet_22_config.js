@@ -1,1 +1,1 @@
-var mnemonic = "oven like useful useful sleep piano avocado border three street maple canyon";
+var mnemonic = "witness amazing velvet machine scare guide rib stadium cup energy zoo spray";

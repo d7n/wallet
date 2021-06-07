@@ -1,1 +1,1 @@
-var mnemonic = "bike tube short defy aunt clip collect output clock section depart elephant";
+var mnemonic = "hawk fabric army bubble awkward cook surprise cliff legend secret grape sustain";

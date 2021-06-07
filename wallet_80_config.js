@@ -1,1 +1,1 @@
-var mnemonic = "window twenty maid story steak judge ginger wisdom trick goat rhythm zone";
+var mnemonic = "setup injury divert bitter develop buyer leisure riot service clean success snake";

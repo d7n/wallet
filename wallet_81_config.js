@@ -1,1 +1,1 @@
-var mnemonic = "shadow beach canyon birth van peanut stereo prison finger say gap sentence";
+var mnemonic = "dry detect puzzle refuse toddler local trap mirror common axis winner topple";

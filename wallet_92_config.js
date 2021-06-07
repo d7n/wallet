@@ -1,1 +1,1 @@
-var mnemonic = "interest elder badge drop lobster when decorate mixture adult sponsor damage enroll";
+var mnemonic = "core lecture tongue dune inside world become observe deposit hour craft scout";

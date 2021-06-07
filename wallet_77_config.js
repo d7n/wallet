@@ -1,1 +1,1 @@
-var mnemonic = "cotton rose gain consider crash hamster ranch run appear feed discover quiz";
+var mnemonic = "ketchup divert mercy mention network shop evil barely crazy fuel client mammal";

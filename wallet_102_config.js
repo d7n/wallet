@@ -1,1 +1,1 @@
-var mnemonic = "file festival thought paddle uncover fiction panic crisp rally pond logic silk";
+var mnemonic = "document mixture hurdle vendor noble cigar rocket often avoid shine cricket trial";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow vendor kitten retreat spend pond shrug draw news interest slush dignity";
+var mnemonic = "size cry shrimp wrap romance valve device small truck furnace travel eye";

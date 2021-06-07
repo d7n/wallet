@@ -1,1 +1,1 @@
-var mnemonic = "motion obtain alcohol tilt like enlist crystal pledge silent mercy tomato champion";
+var mnemonic = "favorite auto entire culture spin develop inmate planet average awesome lawsuit input";

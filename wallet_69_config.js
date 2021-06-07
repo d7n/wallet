@@ -1,1 +1,1 @@
-var mnemonic = "slim cream dismiss ripple special butter trial mouse insect police mobile student";
+var mnemonic = "pluck inmate practice romance tunnel destroy author valid egg hurdle sibling hen";

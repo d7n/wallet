@@ -1,1 +1,1 @@
-var mnemonic = "mail clump remember exhibit cycle keep ecology side time material mosquito balance";
+var mnemonic = "north buffalo company speak voyage border smoke angry ramp banana chicken absorb";

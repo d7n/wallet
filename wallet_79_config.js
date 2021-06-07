@@ -1,1 +1,1 @@
-var mnemonic = "cook siren wedding subject figure torch choice fantasy minimum vacuum intact require";
+var mnemonic = "field fork device harvest wool shock possible cute wash change detect nose";

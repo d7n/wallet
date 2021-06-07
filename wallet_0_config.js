@@ -1,1 +1,1 @@
-var mnemonic = "cliff escape autumn update panda pencil always task scatter layer valid fatal";
+var mnemonic = "brown toy rug ticket athlete broccoli obey bleak bag involve half tattoo";

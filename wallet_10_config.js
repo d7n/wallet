@@ -1,1 +1,1 @@
-var mnemonic = "version brain push once twelve humor west blind tackle liquid fame welcome";
+var mnemonic = "start love exhibit clerk time erode wreck wet neutral unaware urban matter";

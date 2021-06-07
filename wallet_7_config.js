@@ -1,1 +1,1 @@
-var mnemonic = "more onion fit assault gauge health cigar monitor rubber shift secret camp";
+var mnemonic = "rally brush excess mirror burden exchange broom broom lazy bench idea blade";

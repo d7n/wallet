@@ -1,1 +1,1 @@
-var mnemonic = "acid push enroll mountain city virus donor afford have fish blame tone";
+var mnemonic = "gasp script lucky often sight main mirror tornado social crouch goat supply";

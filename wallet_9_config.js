@@ -1,1 +1,1 @@
-var mnemonic = "napkin fork obscure hold neither labor action hover shove code tuna avocado";
+var mnemonic = "scare balcony genuine busy shrimp later joke enjoy puppy dash budget local";

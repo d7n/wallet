@@ -1,1 +1,1 @@
-var mnemonic = "liar dance copper inhale student favorite task lab comic miss say leaf";
+var mnemonic = "soon radar wild bone diagram plate rigid lonely annual conduct title gorilla";

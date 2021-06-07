@@ -1,1 +1,1 @@
-var mnemonic = "potato drive magic range file million sort foil raven action enough drama";
+var mnemonic = "abuse point you mobile crumble deal two tobacco entry trend dry brand";

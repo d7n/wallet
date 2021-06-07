@@ -1,1 +1,1 @@
-var mnemonic = "bundle calm mouse lake thank frozen model rug resemble deal century emotion";
+var mnemonic = "speak mountain few laugh coffee board token bomb melody lion tennis tonight";

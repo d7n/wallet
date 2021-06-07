@@ -1,1 +1,1 @@
-var mnemonic = "cement only subway egg inspire stairs inherit caught hold pen cargo polar";
+var mnemonic = "sport surface fall tone faith distance hobby can aerobic cube project rice";

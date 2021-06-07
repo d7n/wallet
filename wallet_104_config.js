@@ -1,1 +1,1 @@
-var mnemonic = "online snack clinic deal deposit letter addict fantasy pupil age wash economy";
+var mnemonic = "flame swarm chunk horror mountain century any price bread purpose person coffee";

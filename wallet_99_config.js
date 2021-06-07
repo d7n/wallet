@@ -1,1 +1,1 @@
-var mnemonic = "repair exact monitor budget sun amount horror client race junk chaos satisfy";
+var mnemonic = "wool three eager grape miracle range hope harvest mass hour sell assume";

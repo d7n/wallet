@@ -1,1 +1,1 @@
-var mnemonic = "mushroom nothing merge grape current square stumble alien debate ecology pencil wheat";
+var mnemonic = "project much mix since fire elevator host hen long siren anchor deposit";

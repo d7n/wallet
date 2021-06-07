@@ -1,1 +1,1 @@
-var mnemonic = "limb rose twenty deposit among topple stay trick possible practice swamp creek";
+var mnemonic = "wealth company garment comfort green motion human switch craft rough great hunt";

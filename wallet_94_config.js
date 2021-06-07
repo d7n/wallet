@@ -1,1 +1,1 @@
-var mnemonic = "food grid upgrade still under garbage art give observe wreck truth any";
+var mnemonic = "source limit trigger ten hill blue illegal cereal frost claw gauge shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "sure explain type leader soldier distance board congress vehicle sign phone hotel";
+var mnemonic = "flame body avocado cook divert agent trim easy smooth doctor elder usage";

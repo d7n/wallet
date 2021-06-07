@@ -1,1 +1,1 @@
-var mnemonic = "olympic project orphan agent cave rail fiber risk luggage three raven blue";
+var mnemonic = "brand castle brisk doll ugly crawl arctic horror laundry cliff obvious charge";

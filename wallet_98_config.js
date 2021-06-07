@@ -1,1 +1,1 @@
-var mnemonic = "base comic sausage warm vintage brass profit between odor feel bench myself";
+var mnemonic = "series promote affair evil rally art code sell idle armed napkin critic";

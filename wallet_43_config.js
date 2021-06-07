@@ -1,1 +1,1 @@
-var mnemonic = "innocent catch bone quit blue rich talk advance smoke advice affair office";
+var mnemonic = "scare special arrive drink soap night unusual kiwi punch alien prosper genre";

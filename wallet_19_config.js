@@ -1,1 +1,1 @@
-var mnemonic = "pet poverty dignity orient enjoy bird plunge switch parade horn expand normal";
+var mnemonic = "metal chest hire forget work gift rocket tool gloom shoe kitchen rose";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry come element cargo paper match actress decade elbow act submit fall";
+var mnemonic = "property road curve muscle company figure inquiry recycle symbol auto wire gloom";

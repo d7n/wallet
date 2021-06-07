@@ -1,1 +1,1 @@
-var mnemonic = "brand close truck major wife phone claw birth eternal scrub grant estate";
+var mnemonic = "help onion target junk reopen biology toe flip repair bubble chaos adapt";

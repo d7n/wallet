@@ -1,1 +1,1 @@
-var mnemonic = "aunt snap second tenant zone burst slender swear boss size chuckle stereo";
+var mnemonic = "limit tongue muscle link fatigue crisp family okay lens orphan soccer illness";

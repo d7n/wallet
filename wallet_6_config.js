@@ -1,1 +1,1 @@
-var mnemonic = "exclude during fade oppose follow battle present quiz lazy enroll card accident";
+var mnemonic = "nerve interest south million shoulder win dwarf enemy clump cushion silly ticket";

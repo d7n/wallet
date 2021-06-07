@@ -1,1 +1,1 @@
-var mnemonic = "lobster bullet consider accident donate owner rack express fitness home system reform";
+var mnemonic = "grid economy connect much opinion whip weird machine draft moon cart nerve";

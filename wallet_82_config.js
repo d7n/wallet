@@ -1,1 +1,1 @@
-var mnemonic = "inmate indicate desert lounge cause input broccoli defy amused settle width nasty";
+var mnemonic = "ahead stick height swarm van close gospel use reflect famous cry inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "claw switch when post hundred reward remove chef bracket lock scare napkin";
+var mnemonic = "honey alien motor distance isolate coral cinnamon output rack region minute hamster";

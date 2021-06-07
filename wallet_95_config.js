@@ -1,1 +1,1 @@
-var mnemonic = "version large castle hundred color focus main make universe myself divide leisure";
+var mnemonic = "buddy prosper alter vessel ritual crystal deputy club learn supply cliff vast";

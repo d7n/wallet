@@ -1,1 +1,1 @@
-var mnemonic = "little manage they private nut goddess shock element boil barrel calm cram";
+var mnemonic = "ordinary letter meat hamster discover alley safe original miracle rice royal deposit";

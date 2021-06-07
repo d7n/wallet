@@ -1,1 +1,1 @@
-var mnemonic = "settle mesh gate pioneer trip liar cruise seek wrong task thought judge";
+var mnemonic = "flower unknown hungry cash humor leader brand below shine bird announce gesture";

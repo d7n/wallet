@@ -1,1 +1,1 @@
-var mnemonic = "cotton toilet void charge tip defy female public post wage ask awake";
+var mnemonic = "record fix eyebrow hand length elbow shoulder bulb sock exercise such prosper";

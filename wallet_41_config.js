@@ -1,1 +1,1 @@
-var mnemonic = "subway throw swarm quote young bike bar trick olive bacon brief balance";
+var mnemonic = "print brave leisure almost pepper confirm group ivory supreme wall keep fog";

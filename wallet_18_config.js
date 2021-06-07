@@ -1,1 +1,1 @@
-var mnemonic = "oyster rookie share fit grunt mind armor oxygen sorry section sauce honey";
+var mnemonic = "eagle busy autumn derive adjust million innocent answer shy common spawn someone";

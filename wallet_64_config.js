@@ -1,1 +1,1 @@
-var mnemonic = "wolf surge jazz father canyon nuclear enemy library urge fame surround wall";
+var mnemonic = "ritual boss rely under debate source guitar outer region close duty polar";

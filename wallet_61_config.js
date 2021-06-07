@@ -1,1 +1,1 @@
-var mnemonic = "about outdoor cruise use obvious script orbit tape horse connect offer husband";
+var mnemonic = "spike music corn mystery speed camera mask blur define version copy foil";

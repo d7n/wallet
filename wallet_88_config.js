@@ -1,1 +1,1 @@
-var mnemonic = "weather divert economy outside bike thank gossip suit ceiling width physical voyage";
+var mnemonic = "melody more knock beach hand exotic near fluid theory husband mirror year";

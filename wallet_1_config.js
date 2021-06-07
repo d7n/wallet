@@ -1,1 +1,1 @@
-var mnemonic = "ranch impact surround wet deposit reopen rival gift attitude tennis mass daughter";
+var mnemonic = "garage into voyage once surround maze frame invite zone giant margin army";

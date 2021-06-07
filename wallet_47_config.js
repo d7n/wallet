@@ -1,1 +1,1 @@
-var mnemonic = "catalog correct era beyond congress fix add twenty chaos husband edit confirm";
+var mnemonic = "carbon oyster aerobic unusual scatter husband any virus sand wall tuition bag";

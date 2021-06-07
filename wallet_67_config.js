@@ -1,1 +1,1 @@
-var mnemonic = "ahead fitness budget walk pupil pencil already surround soul fortune day utility";
+var mnemonic = "coast victory project melody jacket job debris logic van grow much boost";

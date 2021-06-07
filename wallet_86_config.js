@@ -1,1 +1,1 @@
-var mnemonic = "bind frozen illness ship way unhappy milk smart south exhaust captain vital";
+var mnemonic = "unlock warm maximum suit foster knife turkey kit hurt tortoise axis custom";

@@ -1,1 +1,1 @@
-var mnemonic = "huge unhappy enlist time crop option symptom robot museum pave always puzzle";
+var mnemonic = "rhythm certain jungle lawn paddle neither autumn banner special fade image ice";

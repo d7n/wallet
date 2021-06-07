@@ -1,1 +1,1 @@
-var mnemonic = "ethics air prosper twin poverty loan proof city velvet true lift feel";
+var mnemonic = "immense betray settle toward video lesson champion hammer hat blur twist kiss";

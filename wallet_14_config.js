@@ -1,1 +1,1 @@
-var mnemonic = "catalog harvest gold cause elder scheme head canoe damp stem tool post";
+var mnemonic = "fantasy sword demise waste purse tumble invite target praise roof junk clerk";

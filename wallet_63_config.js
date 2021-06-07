@@ -1,1 +1,1 @@
-var mnemonic = "celery large parade lock explain normal fish horn disease broccoli magnet catalog";
+var mnemonic = "silly frequent major shove shoot develop latin still mammal hurry acquire bring";

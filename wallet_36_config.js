@@ -1,1 +1,1 @@
-var mnemonic = "squeeze bulb day dry teach render all pill behave neutral canvas project";
+var mnemonic = "void reunion label magic require rally setup skirt honey spray budget pool";

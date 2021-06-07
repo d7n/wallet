@@ -1,1 +1,1 @@
-var mnemonic = "first note army borrow manage shove hazard point clerk iron connect cushion";
+var mnemonic = "novel brother produce tell index curve deer shove monitor fatal tape toy";

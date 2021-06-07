@@ -1,1 +1,1 @@
-var mnemonic = "air enter shallow prevent ski affair chase pitch afford into purse engage";
+var mnemonic = "token indicate venture valley hint absent whisper oak veteran donkey shuffle crisp";
