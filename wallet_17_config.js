@@ -1,1 +1,1 @@
-var mnemonic = "stadium almost artist execute ridge gallery entry squeeze mountain advance circle capable";
+var mnemonic = "equip holiday segment suffer way sorry elder rapid vessel salute danger dynamic";

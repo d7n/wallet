@@ -1,1 +1,1 @@
-var mnemonic = "radio blade between until gloom oval trip result alien document toast fortune";
+var mnemonic = "dynamic stone protect hour derive december taxi slight decorate wine battle crouch";

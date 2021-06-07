@@ -1,1 +1,1 @@
-var mnemonic = "inmate elbow harvest fantasy speed injury term tiger explain sauce smoke ginger";
+var mnemonic = "grow badge brush power maze solar someone open render axis spread short";

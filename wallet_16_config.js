@@ -1,1 +1,1 @@
-var mnemonic = "point dirt window easily usage style image basic crowd neither escape claim";
+var mnemonic = "impose say curve brand vanish grain now doctor cement clerk raw play";

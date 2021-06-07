@@ -1,1 +1,1 @@
-var mnemonic = "moral donate cupboard judge decline ridge boat imitate disorder actual denial letter";
+var mnemonic = "leaf forum upon gesture echo skate gap sleep knock oppose zebra dose";

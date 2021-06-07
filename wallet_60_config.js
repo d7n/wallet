@@ -1,1 +1,1 @@
-var mnemonic = "bone end awake slush enroll weekend erase interest gospel empower olympic monkey";
+var mnemonic = "chaos empower grow position drama replace frequent when keen correct trash action";

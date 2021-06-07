@@ -1,1 +1,1 @@
-var mnemonic = "smile grace bamboo pulp chief advance deposit garment kangaroo wisdom often lock";
+var mnemonic = "saddle later fiscal mirror admit theme ring another neck inner banana mix";

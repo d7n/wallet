@@ -1,1 +1,1 @@
-var mnemonic = "topic cluster pipe hand knock clinic elevator bonus olive ancient step swift";
+var mnemonic = "post plunge path current cactus around scrap fade pool palm mesh slender";

@@ -1,1 +1,1 @@
-var mnemonic = "impose drill case unveil group main extend flag hedgehog clinic fun issue";
+var mnemonic = "gun reason museum multiply apple elegant magnet destroy weapon rubber practice between";

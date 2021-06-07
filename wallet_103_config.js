@@ -1,1 +1,1 @@
-var mnemonic = "service type pottery uniform rhythm shoe cube very twenty infant poem express";
+var mnemonic = "skirt sport basket afford awful indicate forward balance harvest course intact diet";

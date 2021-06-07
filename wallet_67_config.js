@@ -1,1 +1,1 @@
-var mnemonic = "hollow visit expire push decrease trash useless list science speed weapon color";
+var mnemonic = "miss seek search prize ensure lake funny cereal journey minute puzzle hollow";

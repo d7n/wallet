@@ -1,1 +1,1 @@
-var mnemonic = "people crater endorse senior keep fitness pelican eagle lab coyote beyond fatigue";
+var mnemonic = "hen gift uniform critic cannon between track kit nut equal balance inform";

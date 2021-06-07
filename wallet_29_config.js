@@ -1,1 +1,1 @@
-var mnemonic = "lamp recall render pill exhaust mixture fitness embody vessel nut intact hospital";
+var mnemonic = "resemble wrestle must fortune orchard book leader convince series switch method luxury";

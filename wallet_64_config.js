@@ -1,1 +1,1 @@
-var mnemonic = "memory way wear deposit clutch body often mixed area black smooth crater";
+var mnemonic = "rotate claw volcano ensure teach art first vacuum wealth nasty expose world";

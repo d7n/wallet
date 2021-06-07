@@ -1,1 +1,1 @@
-var mnemonic = "mass imitate employ winner disagree uphold game execute amazing limit glimpse juice";
+var mnemonic = "ozone cherry bring cluster envelope bless small vacuum wrist spawn network eyebrow";

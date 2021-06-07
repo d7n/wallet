@@ -1,1 +1,1 @@
-var mnemonic = "loyal weasel duck below narrow mosquito sustain slight spray unknown wheat hill";
+var mnemonic = "benefit library walk room riot hello disagree ginger wine swap kind wait";

@@ -1,1 +1,1 @@
-var mnemonic = "member document great pave horror engage maze ginger mansion client odor grocery";
+var mnemonic = "kind kite near crush dune dwarf earth lumber velvet smooth eternal glory";

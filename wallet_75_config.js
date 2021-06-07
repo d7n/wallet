@@ -1,1 +1,1 @@
-var mnemonic = "cargo pudding side clip talk knock unlock math noble bar economy trumpet";
+var mnemonic = "wedding wink brand web spawn window permit squeeze destroy chest horror lake";

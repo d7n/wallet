@@ -1,1 +1,1 @@
-var mnemonic = "hamster riot truck guard sound guide summer together say produce lawsuit frame";
+var mnemonic = "balcony draft diary kangaroo echo then annual wall artist used motion estate";

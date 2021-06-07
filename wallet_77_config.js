@@ -1,1 +1,1 @@
-var mnemonic = "immune since sadness neck dinosaur top raven senior account warfare picnic balance";
+var mnemonic = "approve time ski remain shy property silk usage amount grain flame include";

@@ -1,1 +1,1 @@
-var mnemonic = "supply quick decrease demise turtle quiz harvest spice shed welcome special walnut";
+var mnemonic = "sick action quantum breeze sphere improve curious pride lion depend canal flip";

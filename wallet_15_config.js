@@ -1,1 +1,1 @@
-var mnemonic = "amazing dismiss spatial distance index tribe minute van know occur name thought";
+var mnemonic = "brand plastic dice mandate easy mule stereo cement clown drama cage diet";

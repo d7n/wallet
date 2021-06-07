@@ -1,1 +1,1 @@
-var mnemonic = "guide raven fade fly parrot tooth into valve about relax patrol admit";
+var mnemonic = "unveil garlic shiver toilet cross mushroom crazy disagree dawn there stock park";

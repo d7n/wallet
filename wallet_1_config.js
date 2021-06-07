@@ -1,1 +1,1 @@
-var mnemonic = "gain include left obey load adult kite second mean hollow bird bracket";
+var mnemonic = "pear begin crime minimum file grid wasp antique scorpion today moment city";

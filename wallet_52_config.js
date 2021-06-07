@@ -1,1 +1,1 @@
-var mnemonic = "egg concert clog render reason erode evolve awkward beef emerge cliff only";
+var mnemonic = "million pact danger hand insane scatter garage slow oyster tuition carpet original";

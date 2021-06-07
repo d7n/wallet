@@ -1,1 +1,1 @@
-var mnemonic = "chief hand tube pair smile tooth fantasy van bird uniform shadow silver";
+var mnemonic = "sample distance post album dinner have lend scatter novel elder relax start";

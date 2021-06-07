@@ -1,1 +1,1 @@
-var mnemonic = "damp twin aisle submit lumber submit sunny minimum arctic sign side knife";
+var mnemonic = "legend flash trade face creek scan glue slush owner wink diesel rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor accident burden suspect table level tooth enhance million verify breeze wave";
+var mnemonic = "people replace clever ready vicious enemy bone egg stone cargo kite helmet";

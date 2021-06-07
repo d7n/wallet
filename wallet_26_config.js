@@ -1,1 +1,1 @@
-var mnemonic = "label afraid carpet fuel fatal deal grow answer alert damp sudden track";
+var mnemonic = "shove blush version income theory aerobic turn century large wolf breeze nose";

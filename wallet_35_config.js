@@ -1,1 +1,1 @@
-var mnemonic = "skate merge win crash reward river wine wide cup file dial rate";
+var mnemonic = "inhale movie today saddle viable theme belt column wall neither wolf drift";

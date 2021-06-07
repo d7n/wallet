@@ -1,1 +1,1 @@
-var mnemonic = "develop orphan response kitten wreck cheese foster practice yard noble already chase";
+var mnemonic = "eight gold win enlist divorce express summer announce injury stem churn ostrich";

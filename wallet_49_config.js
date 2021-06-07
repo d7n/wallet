@@ -1,1 +1,1 @@
-var mnemonic = "goddess usage neither tag loan project limb body draft canoe draw picnic";
+var mnemonic = "rubber melt chair demand table about wine diamond lawn express correct moon";

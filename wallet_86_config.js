@@ -1,1 +1,1 @@
-var mnemonic = "sick bottom paper click feed view talent cargo pig behind decade journey";
+var mnemonic = "verb chat rookie mimic figure fatal name twice neither napkin palm pottery";

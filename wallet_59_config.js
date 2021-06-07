@@ -1,1 +1,1 @@
-var mnemonic = "smooth shock lens turtle consider picnic saddle polar else super torch pool";
+var mnemonic = "grit like record glove screen delay update tank around blade grid use";

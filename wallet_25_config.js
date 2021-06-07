@@ -1,1 +1,1 @@
-var mnemonic = "cactus fancy spoon credit ketchup repair business sentence voice gain dice open";
+var mnemonic = "zero fat buzz rocket easy hybrid forget metal plunge pioneer parent atom";

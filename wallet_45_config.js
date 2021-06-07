@@ -1,1 +1,1 @@
-var mnemonic = "pottery grain crystal assume height edge ecology mouse inject phrase bind farm";
+var mnemonic = "bonus exercise fault bulk dinosaur empower oppose refuse advice joy skull warrior";

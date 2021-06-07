@@ -1,1 +1,1 @@
-var mnemonic = "champion obvious denial mercy shell second fix exact admit congress carpet sniff";
+var mnemonic = "argue bleak ability milk all ethics reduce will auction young deputy broom";

@@ -1,1 +1,1 @@
-var mnemonic = "glory box barrel sugar spring away obscure chair lock oil you strategy";
+var mnemonic = "grass praise hunt inside same rough all bracket order depend call nut";

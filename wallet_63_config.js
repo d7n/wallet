@@ -1,1 +1,1 @@
-var mnemonic = "profit rally alien genius cheese congress sponsor express cruel another dragon swap";
+var mnemonic = "action illegal belt rich spray stool rough convince path flip pass place";

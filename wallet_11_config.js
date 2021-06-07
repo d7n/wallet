@@ -1,1 +1,1 @@
-var mnemonic = "field slow bless day auction milk impulse nurse bird punch coin strong";
+var mnemonic = "that eternal type onion collect type strike man document mistake distance dice";

@@ -1,1 +1,1 @@
-var mnemonic = "office train oil trap admit gas become point stadium grow digital census";
+var mnemonic = "poem squirrel taxi glare ribbon manual often usage winner movie tongue ignore";

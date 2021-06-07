@@ -1,1 +1,1 @@
-var mnemonic = "spray advance addict fox shaft rude surge impulse endorse fiscal toward return";
+var mnemonic = "topic trip peasant fossil state rug half use advance pupil swift violin";

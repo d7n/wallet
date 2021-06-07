@@ -1,1 +1,1 @@
-var mnemonic = "used science inner reflect dry way infant just limit rail sure admit";
+var mnemonic = "animal spoon grass pitch convince drip mail fun clap useless amateur carry";

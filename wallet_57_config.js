@@ -1,1 +1,1 @@
-var mnemonic = "honey sea rhythm little current million slogan lamp broom miracle immense atom";
+var mnemonic = "dumb drive glimpse permit unusual tuna shallow cabin kiss lecture aisle bless";

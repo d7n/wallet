@@ -1,1 +1,1 @@
-var mnemonic = "ramp today birth luxury cover devote joke obey mention disagree odor carpet";
+var mnemonic = "antique tongue city vehicle topic arrest law that kidney rent build federal";

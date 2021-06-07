@@ -1,1 +1,1 @@
-var mnemonic = "picnic royal elephant move weird museum suggest vacuum buzz strategy flag brief";
+var mnemonic = "job remind vicious discover tool enrich cloth shed change air glad gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "silent patient bike captain wash dial sponsor tourist credit column borrow tower";
+var mnemonic = "sense wall pig cover theme spice climb voice pond orbit hip dolphin";

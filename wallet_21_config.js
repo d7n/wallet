@@ -1,1 +1,1 @@
-var mnemonic = "pen dinosaur angry letter never near carbon north monkey tumble hedgehog liberty";
+var mnemonic = "novel guilt oyster giraffe act lucky catalog brush just pipe load tattoo";

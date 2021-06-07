@@ -1,1 +1,1 @@
-var mnemonic = "stomach baby garage gun bike accident shoulder crystal undo empower spike height";
+var mnemonic = "ignore recycle peanut drip quality can century sick since van alien spirit";

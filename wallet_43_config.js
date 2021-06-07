@@ -1,1 +1,1 @@
-var mnemonic = "kidney faint broom egg auto toss love title addict defense mistake verify";
+var mnemonic = "diamond kitchen pet garden juice type cube soup casual blind hazard labor";

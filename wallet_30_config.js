@@ -1,1 +1,1 @@
-var mnemonic = "manage trap shine buffalo taxi student habit wrist settle primary double pet";
+var mnemonic = "stand hollow family matter camp leaf team gaze deposit ring organ quarter";

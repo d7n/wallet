@@ -1,1 +1,1 @@
-var mnemonic = "render market onion lottery fiscal modify spy rack squeeze hat uncover smooth";
+var mnemonic = "viable slab sad trial release destroy fan mistake adult radio brand era";

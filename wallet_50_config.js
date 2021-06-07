@@ -1,1 +1,1 @@
-var mnemonic = "glue online nasty observe record myth gesture security breeze choice master hunt";
+var mnemonic = "mammal salt chimney humor stadium draw plug helmet success liar input label";

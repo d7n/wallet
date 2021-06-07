@@ -1,1 +1,1 @@
-var mnemonic = "because black harvest crater accuse sniff lemon mosquito sleep obtain social transfer";
+var mnemonic = "flavor million light attract quality miracle lady seminar bring hub bright hat";

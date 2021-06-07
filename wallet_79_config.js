@@ -1,1 +1,1 @@
-var mnemonic = "good omit coffee identify trend object kite illness device arena lizard theme";
+var mnemonic = "basic sound aspect secret toddler salt ring side rescue nose idea paddle";

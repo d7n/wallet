@@ -1,1 +1,1 @@
-var mnemonic = "seminar club verify hedgehog gospel winner dream trouble scrub permit accident copy";
+var mnemonic = "fold source bike clinic pear curve joke soon actual search cross chest";

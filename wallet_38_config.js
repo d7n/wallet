@@ -1,1 +1,1 @@
-var mnemonic = "allow marriage minor income waste habit skirt skull fog hospital maximum describe";
+var mnemonic = "reduce carbon van under purse taste seven split warrior slight idea until";

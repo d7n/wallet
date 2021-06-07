@@ -1,1 +1,1 @@
-var mnemonic = "trigger category refuse inject discover elephant mixture art obey category goat jealous";
+var mnemonic = "friend security slogan hammer impulse grow submit want devote blind use tobacco";

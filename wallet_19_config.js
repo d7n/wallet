@@ -1,1 +1,1 @@
-var mnemonic = "clean fantasy stem order sunny wife decide remind sure health clip minimum";
+var mnemonic = "unfair broom receive candy canyon poverty giant lock rural glory slab beef";

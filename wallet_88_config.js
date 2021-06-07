@@ -1,1 +1,1 @@
-var mnemonic = "float awful file coyote brick timber survey drop episode stage monster when";
+var mnemonic = "loop unfold fly bean cake biology remain van off deny step limit";

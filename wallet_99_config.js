@@ -1,1 +1,1 @@
-var mnemonic = "prepare jaguar orphan screen aware since curious develop below machine abandon strike";
+var mnemonic = "aisle level scatter stamp sick ketchup grief nerve heavy excite rally boost";

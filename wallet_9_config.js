@@ -1,1 +1,1 @@
-var mnemonic = "attract moral dry tumble trust gospel army rubber conduct cage wise squirrel";
+var mnemonic = "pair razor album pigeon physical summer asthma grow wild chase combine isolate";

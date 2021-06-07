@@ -1,1 +1,1 @@
-var mnemonic = "table tomato brief own law plate another area apology robust unit behind";
+var mnemonic = "zero blur panic destroy casino stool wood believe legal tornado winner time";

@@ -1,1 +1,1 @@
-var mnemonic = "provide master scatter clean toy rely glove section unable reunion boil category";
+var mnemonic = "wild noble immense slide race sample wasp write calm kangaroo number logic";

@@ -1,1 +1,1 @@
-var mnemonic = "month wool trophy muscle imitate diagram choice donor escape abstract board museum";
+var mnemonic = "brother sword father chat fresh flip divorce plastic gown clump glue peace";

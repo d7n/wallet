@@ -1,1 +1,1 @@
-var mnemonic = "guess drop jewel enemy skull amazing aunt audit skill isolate velvet insect";
+var mnemonic = "feed venue bracket practice rival letter bargain bulk summer enjoy sort repeat";

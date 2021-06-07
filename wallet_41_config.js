@@ -1,1 +1,1 @@
-var mnemonic = "deposit lend busy accident obtain among slim ramp this cram timber caution";
+var mnemonic = "replace regret exile practice father runway friend home crane mean lesson wild";

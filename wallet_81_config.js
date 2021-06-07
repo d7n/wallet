@@ -1,1 +1,1 @@
-var mnemonic = "crush upon shiver devote early cluster indoor impact stomach pizza fatal length";
+var mnemonic = "into achieve else jacket door warm mean nurse alone reunion circle opera";

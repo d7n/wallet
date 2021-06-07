@@ -1,1 +1,1 @@
-var mnemonic = "trumpet picnic utility best similar ridge scan burden employ creek stomach plunge";
+var mnemonic = "cram demise since neutral swing fiber globe suffer alien imitate today sniff";

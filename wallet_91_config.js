@@ -1,1 +1,1 @@
-var mnemonic = "steak add pink exotic box small genius denial furnace budget demise trouble";
+var mnemonic = "sausage story surge stick timber interest maid ozone wage stairs lava visa";

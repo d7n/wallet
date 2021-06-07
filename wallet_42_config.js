@@ -1,1 +1,1 @@
-var mnemonic = "sorry bargain sing stage above churn pill layer record dice phrase potato";
+var mnemonic = "weasel post because common length mirror unable stock twin moment aspect stadium";

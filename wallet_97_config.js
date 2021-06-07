@@ -1,1 +1,1 @@
-var mnemonic = "salon oyster capable armed priority island fire away black attract knife topple";
+var mnemonic = "picture tourist romance fruit bamboo humble scale culture rival canyon blood distance";

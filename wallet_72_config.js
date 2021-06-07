@@ -1,1 +1,1 @@
-var mnemonic = "win shield find make ocean talent property vintage charge credit kingdom cream";
+var mnemonic = "half grant orphan ahead harvest soul fox stand gadget pill benefit empower";

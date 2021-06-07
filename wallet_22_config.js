@@ -1,1 +1,1 @@
-var mnemonic = "wave battle gown inherit trim cactus panther entry sniff tiny echo hockey";
+var mnemonic = "reveal vicious much mouse inhale cheese unusual security suit explain buyer until";

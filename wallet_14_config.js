@@ -1,1 +1,1 @@
-var mnemonic = "minor swamp resource sort again surround about mix intact economy devote frog";
+var mnemonic = "toe hybrid forest soon category enroll time produce park rose clerk aerobic";

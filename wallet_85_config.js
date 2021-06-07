@@ -1,1 +1,1 @@
-var mnemonic = "relax transfer riot loan gallery canvas bulb sorry farm sausage resist battle";
+var mnemonic = "analyst dirt gospel vast napkin intact bonus giggle razor twist race element";

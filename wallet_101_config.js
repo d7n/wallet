@@ -1,1 +1,1 @@
-var mnemonic = "orient gauge ocean vague bicycle unveil item brief erode debate olive dwarf";
+var mnemonic = "manual jar grain enforce live drastic raccoon recipe ignore bitter type chunk";

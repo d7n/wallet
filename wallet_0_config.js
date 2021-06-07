@@ -1,1 +1,1 @@
-var mnemonic = "badge keep sail all fat cause impulse click inherit coil season across";
+var mnemonic = "sister catalog aware fiction edge pole lend wasp decrease vehicle captain cross";

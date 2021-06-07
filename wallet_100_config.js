@@ -1,1 +1,1 @@
-var mnemonic = "polar please mango hope february perfect tourist develop crucial antenna domain rug";
+var mnemonic = "crowd road neglect rug dutch exact gloom another cable future clever base";

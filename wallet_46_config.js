@@ -1,1 +1,1 @@
-var mnemonic = "romance shoot thunder venue lonely luggage space color happy home demand error";
+var mnemonic = "prosper solution observe awake salon easily retreat hour shell suspect junior congress";

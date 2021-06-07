@@ -1,1 +1,1 @@
-var mnemonic = "want fortune float pluck dash seat cool danger glue collect bind direct";
+var mnemonic = "universe embrace aware distance sausage milk eye sustain chaos soccer lazy gospel";

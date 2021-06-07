@@ -1,1 +1,1 @@
-var mnemonic = "oblige usual genre suffer flush hurdle random inform spell lumber grass report";
+var mnemonic = "what ensure topic taxi area still just tennis sauce rigid spatial enact";
