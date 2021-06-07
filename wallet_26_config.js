@@ -1,1 +1,1 @@
-var mnemonic = "catalog climb hotel dad film clip party size faint clerk minor exhibit";
+var mnemonic = "essay window myth fun invite sunset jewel rude purity more decrease piano";

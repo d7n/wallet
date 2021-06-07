@@ -1,1 +1,1 @@
-var mnemonic = "town actual one option bitter below harbor judge wonder flight guilt despair";
+var mnemonic = "suspect teach home adult viable owner stomach magic lunar engine clean report";

@@ -1,1 +1,1 @@
-var mnemonic = "caught young genius obey morning auto damage inner swamp border wreck opinion";
+var mnemonic = "denial morning permit century alert monkey start idle art garlic gas hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "town pact hidden river tag vibrant time rack member unable enjoy uniform";
+var mnemonic = "tattoo prison march shoulder stand budget chronic outdoor danger oil behave glance";

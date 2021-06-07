@@ -1,1 +1,1 @@
-var mnemonic = "witness bicycle cigar science liberty fan sad cram harvest steel evoke spread";
+var mnemonic = "lunch steel couple verb ribbon exchange always exit analyst month someone scene";

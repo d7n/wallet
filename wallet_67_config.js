@@ -1,1 +1,1 @@
-var mnemonic = "health funny final dog shrug identify liquid expect purpose pig poem venture";
+var mnemonic = "load screen seminar primary romance vivid actor relax unusual pepper roast drift";

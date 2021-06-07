@@ -1,1 +1,1 @@
-var mnemonic = "april fragile tank message annual tomorrow churn coffee helmet tip tank heart";
+var mnemonic = "fit ready sun omit misery rent spice clerk attack curve unfair reduce";

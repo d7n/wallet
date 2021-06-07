@@ -1,1 +1,1 @@
-var mnemonic = "destroy among end island hole inflict enjoy mansion frequent evil fury food";
+var mnemonic = "federal patch hidden main reason junk skull dial tuna virus liar muffin";

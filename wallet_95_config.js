@@ -1,1 +1,1 @@
-var mnemonic = "few lonely trust brisk daring argue punch supply poem holiday design door";
+var mnemonic = "diamond palace system already broken bone furnace scene alert amused surprise wall";

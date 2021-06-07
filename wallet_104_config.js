@@ -1,1 +1,1 @@
-var mnemonic = "annual spend shaft time pull luxury cigar enlist among there leisure merry";
+var mnemonic = "matter mom fluid upon case vicious adult earth then execute luxury squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie solution tip year dust damage canvas warm way dish marine wage";
+var mnemonic = "syrup concert guilt salt clerk bright shallow judge egg sentence wise warm";

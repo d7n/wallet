@@ -1,1 +1,1 @@
-var mnemonic = "will snack veteran include entry mix capital tiger ability frog grass brain";
+var mnemonic = "ceiling extra soccer ability alpha kiwi skirt release virtual cactus shield curtain";

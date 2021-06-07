@@ -1,1 +1,1 @@
-var mnemonic = "little camp fold churn art blast pill glove author oak smart draw";
+var mnemonic = "risk caught search timber glance stock amazing sort river ordinary satoshi material";

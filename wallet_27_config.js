@@ -1,1 +1,1 @@
-var mnemonic = "member holiday that match sun monkey uncover reform absorb frown balance actual";
+var mnemonic = "spirit panda exotic tent pepper square hidden hat case ladder bottom fiscal";

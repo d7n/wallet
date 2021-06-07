@@ -1,1 +1,1 @@
-var mnemonic = "wife vast music kitten upper tent strategy ramp vocal inflict insane pair";
+var mnemonic = "behind issue weird okay version oyster head useful connect dismiss wealth mass";

@@ -1,1 +1,1 @@
-var mnemonic = "any essence carpet rocket eager moon omit broom divert paper invite spider";
+var mnemonic = "nasty chuckle notable nurse firm mix observe fold couch alter design crop";

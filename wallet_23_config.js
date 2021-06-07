@@ -1,1 +1,1 @@
-var mnemonic = "crush resemble flower blue property rhythm monkey rude luggage ride endless nuclear";
+var mnemonic = "solar follow view size jeans laundry garden remind piece orange equal truly";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely badge month beef harbor cable shy time pioneer shed firm fiber";
+var mnemonic = "story sheriff shop govern donor loud floor aim crash force decline maze";

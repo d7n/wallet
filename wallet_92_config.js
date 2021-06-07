@@ -1,1 +1,1 @@
-var mnemonic = "holiday clarify memory famous cricket again hurt hope peasant there wasp above";
+var mnemonic = "appear hint ladder cradle fit copy taxi drop average jeans code bomb";

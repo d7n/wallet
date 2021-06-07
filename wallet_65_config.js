@@ -1,1 +1,1 @@
-var mnemonic = "vendor utility card lesson session useful bronze bag drum vivid surround empower";
+var mnemonic = "purity ethics start topic mirror track wood cruise crisp wait sand coil";

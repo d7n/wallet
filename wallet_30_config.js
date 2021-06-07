@@ -1,1 +1,1 @@
-var mnemonic = "piano execute pass outer stock audit rally volume announce source upgrade scorpion";
+var mnemonic = "leave open axis dwarf follow cactus orphan leg grant suffer local waste";

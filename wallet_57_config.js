@@ -1,1 +1,1 @@
-var mnemonic = "carry candy rail smile keen mansion joy shadow mirror media pill figure";
+var mnemonic = "banana calm coach auto funny sail judge lava intact steel hobby hurt";

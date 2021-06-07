@@ -1,1 +1,1 @@
-var mnemonic = "lion panther quality better hole world embody gorilla rotate fee indicate north";
+var mnemonic = "execute barrel school subject crawl deny alpha aware dizzy fish stay fire";

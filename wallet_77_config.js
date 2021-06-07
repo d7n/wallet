@@ -1,1 +1,1 @@
-var mnemonic = "juice inmate group spawn provide toward gospel long notice page save empty";
+var mnemonic = "cause enjoy wage autumn bomb mad april rebuild common busy river giraffe";

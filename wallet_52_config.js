@@ -1,1 +1,1 @@
-var mnemonic = "defense endless wheel member beyond isolate sail horn knife file bench fiscal";
+var mnemonic = "pink say plate orange there flight tail scrap glide disagree capital spend";

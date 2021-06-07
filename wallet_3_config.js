@@ -1,1 +1,1 @@
-var mnemonic = "discover elbow bike behind arrange giraffe replace wasp puzzle nominee file robust";
+var mnemonic = "feel moral segment need inflict sea uncle supreme brush beach process village";

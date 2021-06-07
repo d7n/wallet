@@ -1,1 +1,1 @@
-var mnemonic = "dolphin orphan regret slam grab target hybrid alter embark resource satisfy web";
+var mnemonic = "life habit bundle circle trap front fault gain school tiger shallow dial";

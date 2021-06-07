@@ -1,1 +1,1 @@
-var mnemonic = "symptom direct solution kingdom season imitate tonight lab thrive tuna half must";
+var mnemonic = "auction spider split road recycle fall debris bullet kick toddler diet hole";

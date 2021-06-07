@@ -1,1 +1,1 @@
-var mnemonic = "lobster buddy sentence paddle swear measure winner account lumber accuse stereo auto";
+var mnemonic = "crowd gadget copper receive sleep abuse few tiger coral shallow stamp despair";

@@ -1,1 +1,1 @@
-var mnemonic = "special special frozen disease suggest jacket hurt jacket process tortoise sad awake";
+var mnemonic = "they mimic surprise boil wash leopard obscure divorce horn debate together evil";

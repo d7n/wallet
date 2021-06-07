@@ -1,1 +1,1 @@
-var mnemonic = "mechanic taste gadget account garage upset pistol chunk fire sign scout toilet";
+var mnemonic = "peanut corn fame math ostrich canal foot tongue crazy impact pear promote";

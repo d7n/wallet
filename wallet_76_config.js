@@ -1,1 +1,1 @@
-var mnemonic = "marble popular jewel thought black alone resist seed ankle army wall flock";
+var mnemonic = "describe oxygen hello hover useful develop horror label link luxury boost impact";

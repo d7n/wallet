@@ -1,1 +1,1 @@
-var mnemonic = "wool pulp trade above dinosaur neglect wool flower siege picture spin boring";
+var mnemonic = "twenty gap recipe cement fuel claw flavor divorce call milk rather notice";

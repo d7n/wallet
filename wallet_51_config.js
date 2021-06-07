@@ -1,1 +1,1 @@
-var mnemonic = "before exit jump margin limb health brisk sun ketchup hand calm crumble";
+var mnemonic = "whisper offer fall enemy involve width exit gap trumpet timber kiss initial";

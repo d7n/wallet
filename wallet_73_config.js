@@ -1,1 +1,1 @@
-var mnemonic = "slide retreat fitness weasel feature code color spray pyramid short when nut";
+var mnemonic = "enable define dragon change tortoise lesson apology nurse family clinic foam pottery";

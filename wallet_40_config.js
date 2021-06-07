@@ -1,1 +1,1 @@
-var mnemonic = "potato arm gap vintage royal brass carbon citizen olive gravity pair elephant";
+var mnemonic = "uncover suggest negative puzzle path soon service cage asthma inside gas grain";

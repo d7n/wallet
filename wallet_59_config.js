@@ -1,1 +1,1 @@
-var mnemonic = "example garage twenty tennis dust excite hat increase slam lens income stage";
+var mnemonic = "color drama garden play art exercise argue dose forum wrist odor certain";

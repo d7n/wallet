@@ -1,1 +1,1 @@
-var mnemonic = "metal betray build biology pink raccoon cancel marine spider amused raven brown";
+var mnemonic = "aisle uncover donor pet vintage relax surprise motor fee huge victory valley";

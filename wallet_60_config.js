@@ -1,1 +1,1 @@
-var mnemonic = "doll salute spring north father aerobic cruise depend witness session kiwi cost";
+var mnemonic = "anchor business jaguar work include unusual tail secret steak sleep current same";

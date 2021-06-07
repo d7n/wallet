@@ -1,1 +1,1 @@
-var mnemonic = "walk shove history adapt raise address false obvious kind early board that";
+var mnemonic = "labor afford outdoor era today quarter acid cook scrap knife cabbage bubble";

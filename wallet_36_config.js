@@ -1,1 +1,1 @@
-var mnemonic = "stove account cause rain ketchup swift sea flag swim radar network warm";
+var mnemonic = "flash hobby code resist danger seat deal choose quote until protect unit";

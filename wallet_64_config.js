@@ -1,1 +1,1 @@
-var mnemonic = "scan purity physical leopard sniff drift hen clever extra cube february direct";
+var mnemonic = "tide uncle orange cupboard add royal finger seed ladder cross fun april";

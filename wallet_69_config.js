@@ -1,1 +1,1 @@
-var mnemonic = "arrange evidence fan fuel cotton catch praise gap stable evil senior essence";
+var mnemonic = "icon group airport elevator wealth frequent profit radar dune another bicycle artist";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon wet grab fly way combine pear baby ankle tired laptop float";
+var mnemonic = "deposit helmet entry harsh trend find venue favorite enable tiger rich denial";

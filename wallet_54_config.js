@@ -1,1 +1,1 @@
-var mnemonic = "way airport multiply predict satoshi clog duck space boil supreme remind repair";
+var mnemonic = "intact cattle deposit verify intact promote scatter shadow weapon resemble cushion iron";

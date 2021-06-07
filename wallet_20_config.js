@@ -1,1 +1,1 @@
-var mnemonic = "finish ivory zone chalk bag struggle only boy wood spatial tornado possible";
+var mnemonic = "fiscal either uniform demand anchor hockey aerobic crush pepper blouse casino online";

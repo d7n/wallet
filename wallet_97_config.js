@@ -1,1 +1,1 @@
-var mnemonic = "direct paper theory picnic proud wife hope aunt census artist nest ceiling";
+var mnemonic = "inquiry aspect point cart learn scissors manage village arrest wine capital donate";

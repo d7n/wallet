@@ -1,1 +1,1 @@
-var mnemonic = "social much number inflict arm outer yellow meat crawl sentence combine bench";
+var mnemonic = "quote essence install approve present mail figure congress toss cram exact enrich";

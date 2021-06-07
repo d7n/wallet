@@ -1,1 +1,1 @@
-var mnemonic = "meat notice this dog cup gap render sentence expire tuna tide tumble";
+var mnemonic = "praise remove bitter document shadow exercise simple market front mail once genuine";

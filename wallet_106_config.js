@@ -1,1 +1,1 @@
-var mnemonic = "when edit smooth minute coyote surge source size sausage frequent basic slogan";
+var mnemonic = "depth domain renew foot include glow easily length walk liberty minimum drive";

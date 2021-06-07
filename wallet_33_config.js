@@ -1,1 +1,1 @@
-var mnemonic = "desk give brisk room laptop flat aerobic across reason sibling convince submit";
+var mnemonic = "stool disorder slot put great cloud appear nephew wine battle intact hunt";

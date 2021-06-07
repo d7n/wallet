@@ -1,1 +1,1 @@
-var mnemonic = "depart worry muffin fragile fury stamp hour crunch crystal benefit elephant uniform";
+var mnemonic = "diagram time wink funny fee desk convince blue city boring loan quit";

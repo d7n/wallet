@@ -1,1 +1,1 @@
-var mnemonic = "segment one dance glance wasp soda cheese hundred push brother virtual buddy";
+var mnemonic = "wisdom record vivid victory game capital flash hollow afford duck case horror";

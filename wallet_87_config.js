@@ -1,1 +1,1 @@
-var mnemonic = "cabin find unknown cheap juice breeze soccer utility seven merge close broken";
+var mnemonic = "satisfy team enough sadness honey fix diesel stool midnight indicate glow drill";

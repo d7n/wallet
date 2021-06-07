@@ -1,1 +1,1 @@
-var mnemonic = "lamp calm almost position artwork course cute science just lava please exclude";
+var mnemonic = "bar north couple speak urban gate genre work sing logic hundred faith";

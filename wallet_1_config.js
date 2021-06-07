@@ -1,1 +1,1 @@
-var mnemonic = "menu muffin camera sound memory velvet shaft rival weasel hood need screen";
+var mnemonic = "crop flavor glad tank movie same romance nation canyon wrist endorse original";

@@ -1,1 +1,1 @@
-var mnemonic = "person depth capital viable sand require dash script spoil move title bring";
+var mnemonic = "damage emotion perfect approve glide layer choose window antique mansion misery normal";

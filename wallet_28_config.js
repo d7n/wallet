@@ -1,1 +1,1 @@
-var mnemonic = "lazy buyer fashion between tribe huge foster convince spoil page legend hurt";
+var mnemonic = "august increase ankle height advance hint police figure orange oppose uphold rookie";

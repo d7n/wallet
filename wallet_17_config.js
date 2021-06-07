@@ -1,1 +1,1 @@
-var mnemonic = "gun usage fence tilt where buyer alter short climb gravity project tortoise";
+var mnemonic = "develop leg assault cloth name busy obvious enough dynamic lecture census slender";

@@ -1,1 +1,1 @@
-var mnemonic = "source quiz satisfy walk bunker fit blue profit again runway little symptom";
+var mnemonic = "disagree lucky submit early crumble noodle enforce evolve wedding scout cave escape";

@@ -1,1 +1,1 @@
-var mnemonic = "human boring wash cheese depend process business spell blue erosion faint glass";
+var mnemonic = "forum bridge happy moment matrix salad brown sugar know cloth egg install";

@@ -1,1 +1,1 @@
-var mnemonic = "piece way bench pepper fan width cherry urban scrap wagon perfect column";
+var mnemonic = "kitchen always disease patch easily castle unlock cover grain surprise key wool";

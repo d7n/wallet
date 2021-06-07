@@ -1,1 +1,1 @@
-var mnemonic = "coral power rocket bicycle vote someone treat stairs three dust afraid yard";
+var mnemonic = "black weasel raw spare human juice damp screen elegant drink wool eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "object switch primary journey panther idle volume leisure orphan exhibit gorilla top";
+var mnemonic = "rely plastic salt morning write daring grunt universe cake echo chaos friend";

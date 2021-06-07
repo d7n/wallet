@@ -1,1 +1,1 @@
-var mnemonic = "liquid evil parade hammer season dish lab crunch beauty ivory cave unhappy";
+var mnemonic = "syrup need medal cart search target craft glow toe agent person great";

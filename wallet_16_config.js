@@ -1,1 +1,1 @@
-var mnemonic = "afraid ritual night woman win orient people robot photo come resist first";
+var mnemonic = "two negative abstract brain warrior garden weasel else armor fiscal interest fix";

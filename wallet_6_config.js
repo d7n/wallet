@@ -1,1 +1,1 @@
-var mnemonic = "power wheat only saddle order sudden ozone curve cinnamon glass area lend";
+var mnemonic = "blood lock kidney sword bunker pulse amused panther stock roof subway future";

@@ -1,1 +1,1 @@
-var mnemonic = "bar can possible private media void decrease hero couple two excuse invest";
+var mnemonic = "damp sting jump ceiling maximum planet scheme possible industry suffer duck tongue";

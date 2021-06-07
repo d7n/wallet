@@ -1,1 +1,1 @@
-var mnemonic = "wage spot stock impact grass man reduce wood thing discover hurdle drastic";
+var mnemonic = "doll odor steak copper swap into skull royal special kiss special they";

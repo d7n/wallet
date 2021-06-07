@@ -1,1 +1,1 @@
-var mnemonic = "spray desert tomorrow circle twenty timber system mail runway stock blast guitar";
+var mnemonic = "lobster group pave dream pause step danger cube canoe hello skull report";

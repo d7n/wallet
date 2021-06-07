@@ -1,1 +1,1 @@
-var mnemonic = "reform render source monitor dutch cabbage fiction example image mention twice enemy";
+var mnemonic = "night question junk issue stage soldier physical guess safe field solar need";

@@ -1,1 +1,1 @@
-var mnemonic = "permit ability grow bench certain tortoise inch that toy frame kangaroo half";
+var mnemonic = "waste load lounge cage derive educate subway captain fossil allow base remind";

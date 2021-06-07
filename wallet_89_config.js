@@ -1,1 +1,1 @@
-var mnemonic = "add damp avocado stairs caught envelope chicken patch detail lobster myself giggle";
+var mnemonic = "script lonely wave useless habit weird soap bag armed dawn citizen embark";

@@ -1,1 +1,1 @@
-var mnemonic = "opera corn decline appear hidden legal awful car bridge shiver pottery cactus";
+var mnemonic = "scene able scale shiver caution journey hero gift net pepper escape size";

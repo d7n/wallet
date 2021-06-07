@@ -1,1 +1,1 @@
-var mnemonic = "chair aunt avocado critic express dumb frequent physical push engage wasp same";
+var mnemonic = "distance yard protect excess ancient rate leaf glimpse slogan know tackle ridge";

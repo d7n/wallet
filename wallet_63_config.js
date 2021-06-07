@@ -1,1 +1,1 @@
-var mnemonic = "disease account eyebrow diary mom sure chicken tag situate explain mean modify";
+var mnemonic = "medal damage phrase strategy receive wire capital celery badge sick powder tiger";

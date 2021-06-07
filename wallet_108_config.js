@@ -1,1 +1,1 @@
-var mnemonic = "debris hole carbon liquid garlic wave day spread dignity canoe degree meat";
+var mnemonic = "pride grid order enter key puppy melody before turn power adjust bounce";

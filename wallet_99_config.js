@@ -1,1 +1,1 @@
-var mnemonic = "boring baby edit squirrel vintage quiz eager core desert innocent mushroom typical";
+var mnemonic = "harbor edit tackle behind afraid mandate club chicken pistol senior source clever";

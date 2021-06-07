@@ -1,1 +1,1 @@
-var mnemonic = "satoshi radio fence frame sudden dragon grit point shrimp reform category actor";
+var mnemonic = "moral ball across process floor dwarf child opinion horse note ice coral";

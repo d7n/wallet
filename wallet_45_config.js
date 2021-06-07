@@ -1,1 +1,1 @@
-var mnemonic = "rack split roof lunar metal arrow hour huge one drop raven cry";
+var mnemonic = "use card cube topic twenty improve castle grace put myth media easy";

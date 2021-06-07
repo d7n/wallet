@@ -1,1 +1,1 @@
-var mnemonic = "receive such area tape patient despair access pair expect scorpion mistake acid";
+var mnemonic = "safe grid deer bag spell diet scheme pink together cherry wrist approve";

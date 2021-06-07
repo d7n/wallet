@@ -1,1 +1,1 @@
-var mnemonic = "truck brand tooth benefit ask swim gown job habit canal frog aunt";
+var mnemonic = "brand grass foster wonder chest budget wire shine defy curtain civil match";

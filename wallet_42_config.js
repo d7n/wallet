@@ -1,1 +1,1 @@
-var mnemonic = "trouble melt nasty file corn symptom balance address again minimum main broccoli";
+var mnemonic = "tag glad corn other winner master pelican need direct click pitch film";

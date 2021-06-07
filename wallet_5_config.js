@@ -1,1 +1,1 @@
-var mnemonic = "trim rely bacon assist defy admit furnace reveal giggle tag depend giraffe";
+var mnemonic = "track exist kiwi gloom audit flavor topic sound devote news forget ceiling";

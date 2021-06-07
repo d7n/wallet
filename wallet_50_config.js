@@ -1,1 +1,1 @@
-var mnemonic = "false garbage pass wonder clever behind tank post teach weasel smoke position";
+var mnemonic = "talent space group fantasy bus bamboo atom multiply lucky mobile tumble else";

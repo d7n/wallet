@@ -1,1 +1,1 @@
-var mnemonic = "depart junior inject people cargo grab initial debate mention train dial flush";
+var mnemonic = "treat session ocean misery ticket frown early dragon fit verb among sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "calm exile network disease love bike alter joke choose actual want olive";
+var mnemonic = "long federal tone twelve neglect spare around document banner mass dinosaur next";

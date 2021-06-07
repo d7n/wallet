@@ -1,1 +1,1 @@
-var mnemonic = "increase vapor knee sign help crisp elegant despair silver capital egg glue";
+var mnemonic = "domain maid must amateur crime tennis trash vacant engine soldier gadget message";

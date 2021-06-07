@@ -1,1 +1,1 @@
-var mnemonic = "venture among split universe pull ordinary cliff vote soul family decide tent";
+var mnemonic = "member divorce correct say auction initial human file cool toy reopen appear";
