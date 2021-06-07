@@ -1,1 +1,1 @@
-var mnemonic = "casual unique weapon soul fantasy pole estate lawn movie slogan exile fetch";
+var mnemonic = "diesel bulb matrix security order uncover region wagon slush night will lend";

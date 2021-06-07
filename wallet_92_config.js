@@ -1,1 +1,1 @@
-var mnemonic = "skill reopen famous burst organ course someone add diet argue escape slim";
+var mnemonic = "throw wasp check task robust manual afford bridge convince guitar elephant print";

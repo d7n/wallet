@@ -1,1 +1,1 @@
-var mnemonic = "close observe joke love stock winner daughter bundle health enforce gap caught";
+var mnemonic = "firm magic road crack enforce remove useless success charge waste early pipe";

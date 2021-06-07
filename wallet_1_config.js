@@ -1,1 +1,1 @@
-var mnemonic = "dutch dutch impact artefact fun left black physical celery ten length narrow";
+var mnemonic = "home boy pear deny hint trim shuffle price mule teach betray frown";

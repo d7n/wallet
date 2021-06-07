@@ -1,1 +1,1 @@
-var mnemonic = "voice critic grain allow require risk spend vital clever club agree spray";
+var mnemonic = "side visual mix begin detect aspect hair garment glimpse equal twin mind";

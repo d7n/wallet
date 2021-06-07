@@ -1,1 +1,1 @@
-var mnemonic = "pretty brush engage woman surge jazz awkward raven odor level diary flag";
+var mnemonic = "blood alcohol museum suit bottom wet vague include soda slam razor help";

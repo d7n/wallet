@@ -1,1 +1,1 @@
-var mnemonic = "million resist cupboard bench syrup major detect legend swift essay budget identify";
+var mnemonic = "upon say crew dune liberty wasp tray risk fiber width alley antenna";

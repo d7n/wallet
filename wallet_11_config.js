@@ -1,1 +1,1 @@
-var mnemonic = "tray finish march foot talent garbage stay city noise gather bench wall";
+var mnemonic = "equip myth object web lecture govern pause stone service march miss luggage";

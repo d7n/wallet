@@ -1,1 +1,1 @@
-var mnemonic = "dune wool deal clean cloud mirror blush hamster acoustic galaxy spread toward";
+var mnemonic = "coconut shoulder degree tuition olympic fan key modify mass vehicle before twist";

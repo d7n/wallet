@@ -1,1 +1,1 @@
-var mnemonic = "toddler tube blind mom fall tooth basic choose monster enroll eight indicate";
+var mnemonic = "come volume traffic panther congress live busy point expose bottom patient imitate";

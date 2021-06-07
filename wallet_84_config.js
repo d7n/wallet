@@ -1,1 +1,1 @@
-var mnemonic = "cage style sort brave notable salon bachelor hazard escape tent online still";
+var mnemonic = "catch input smile wet caution suggest crystal nasty aware people bright exercise";

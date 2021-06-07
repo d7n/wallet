@@ -1,1 +1,1 @@
-var mnemonic = "foot only raccoon fossil feature climb feed useful design cruise army flag";
+var mnemonic = "possible meadow title bubble liquid middle shoe faith silver gym pioneer nation";

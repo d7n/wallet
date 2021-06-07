@@ -1,1 +1,1 @@
-var mnemonic = "draw one guess original food elevator wait salute tape insane critic fury";
+var mnemonic = "chronic winter skill december stage century stage execute orbit cricket regret daring";

@@ -1,1 +1,1 @@
-var mnemonic = "october divorce drift upper type sausage suffer height make exact cheese device";
+var mnemonic = "brick vapor lab shed total success olympic hip diamond charge arch fold";

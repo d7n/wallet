@@ -1,1 +1,1 @@
-var mnemonic = "paper margin feel slot discover upper page color cargo mass ugly expand";
+var mnemonic = "ankle awkward sister join pride outside horror eager virus hedgehog coyote birth";

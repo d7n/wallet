@@ -1,1 +1,1 @@
-var mnemonic = "slab taste spell account album target mixture apology logic settle fossil young";
+var mnemonic = "raise palm decade charge town skate strong grain upper melody output zoo";

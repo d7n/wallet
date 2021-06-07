@@ -1,1 +1,1 @@
-var mnemonic = "head nominee judge lady toddler wood arrange box auction hurdle vintage climb";
+var mnemonic = "border volcano pelican space speak near vacuum shy escape orange sunny anchor";

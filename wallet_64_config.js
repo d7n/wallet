@@ -1,1 +1,1 @@
-var mnemonic = "core sauce razor rebuild drill tuna item wrestle guess desk jelly soda";
+var mnemonic = "soul thrive give jealous truly attract gap timber salt luggage wrist require";

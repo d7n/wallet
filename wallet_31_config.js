@@ -1,1 +1,1 @@
-var mnemonic = "attack polar void song total river book marine abandon crash rescue gold";
+var mnemonic = "wise grunt patient beyond child tenant dune junior easily captain jelly film";

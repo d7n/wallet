@@ -1,1 +1,1 @@
-var mnemonic = "rich dinner bottom spy citizen keep curtain aisle ankle ice crush solar";
+var mnemonic = "easily total blanket convince protect saddle share auto disorder cat write tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "episode satisfy goat moral silk problem wrap joy trophy wrap nasty unique";
+var mnemonic = "rack mobile airport fiction explain vault common offer ice furnace tourist venture";

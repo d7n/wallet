@@ -1,1 +1,1 @@
-var mnemonic = "trick hover crash puppy cattle onion behave blue swallow fun avoid close";
+var mnemonic = "corn tornado animal share tongue identify veteran mutual border satisfy settle boring";

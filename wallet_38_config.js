@@ -1,1 +1,1 @@
-var mnemonic = "lend umbrella avocado robot bubble album feel answer critic cloth spawn wall";
+var mnemonic = "what rebel fringe goose learn wasp swallow drift napkin banana unveil media";

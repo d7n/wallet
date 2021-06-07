@@ -1,1 +1,1 @@
-var mnemonic = "mask shoe street biology use isolate gadget bright cute cake liar post";
+var mnemonic = "love hedgehog solution burger measure gain balcony present file buyer spawn dry";

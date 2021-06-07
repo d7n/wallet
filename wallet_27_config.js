@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin under rent session bachelor coyote fog trick insect shuffle eight avoid";
+var mnemonic = "catalog sorry alpha you fat domain staff size jealous upgrade change human";

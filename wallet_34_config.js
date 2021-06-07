@@ -1,1 +1,1 @@
-var mnemonic = "coin abuse antique slice garment museum legal flash mercy parade please sense";
+var mnemonic = "decorate cousin feel bright dawn silver stairs nasty wood yard fault citizen";

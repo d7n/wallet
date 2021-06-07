@@ -1,1 +1,1 @@
-var mnemonic = "require govern install captain receive sustain lady cram brand behind buffalo arm";
+var mnemonic = "exist note length jewel involve gorilla cash zone clip border fence beyond";

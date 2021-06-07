@@ -1,1 +1,1 @@
-var mnemonic = "main avocado chapter maximum day glance tragic employ march citizen rude tornado";
+var mnemonic = "camera family host glue under keen middle wear bacon fork output idle";

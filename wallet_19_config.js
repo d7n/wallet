@@ -1,1 +1,1 @@
-var mnemonic = "amazing brass member skirt business lumber quarter moon extend enlist edit food";
+var mnemonic = "motor clinic guard fruit virus fragile cash brass glow injury opera apple";

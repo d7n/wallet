@@ -1,1 +1,1 @@
-var mnemonic = "kidney tobacco luxury afraid apart normal rabbit giggle alpha obey border blood";
+var mnemonic = "drip swamp radio nothing praise suspect wide captain capable decline category enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "help sample indoor chest cheap valley diamond sea dwarf kitchen famous anger";
+var mnemonic = "impulse make room mom decorate sail solid online leave three run library";

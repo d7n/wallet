@@ -1,1 +1,1 @@
-var mnemonic = "physical toast exotic hockey jelly valve stairs devote twin angry grass pretty";
+var mnemonic = "van ocean scan name eye dawn excite exhibit broccoli burst remember jelly";

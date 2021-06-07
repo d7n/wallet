@@ -1,1 +1,1 @@
-var mnemonic = "proof rebel gas hazard gown rug invest snack artwork drastic thrive bench";
+var mnemonic = "ripple prosper display power innocent bulb brush light corn material august mixture";

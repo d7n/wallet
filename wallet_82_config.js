@@ -1,1 +1,1 @@
-var mnemonic = "horn section such sleep menu near enough daughter warfare useful hurry neck";
+var mnemonic = "tattoo apology expect type bulk limit current pull suit ring circle height";

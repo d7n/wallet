@@ -1,1 +1,1 @@
-var mnemonic = "foam pigeon ozone cram raw kid define promote fade injury dose truly";
+var mnemonic = "rabbit fence vanish six hold offer amused sock slide doll upset snake";

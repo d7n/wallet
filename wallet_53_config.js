@@ -1,1 +1,1 @@
-var mnemonic = "service soul impose meadow action fossil shuffle gas hen follow junior onion";
+var mnemonic = "supply comfort property flight vehicle ring exact track lake clarify whale vessel";

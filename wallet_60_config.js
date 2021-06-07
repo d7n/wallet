@@ -1,1 +1,1 @@
-var mnemonic = "promote hunt adjust tree feel act pioneer penalty tone caught spell betray";
+var mnemonic = "close crane burger garment connect try display axis pledge symptom news hip";

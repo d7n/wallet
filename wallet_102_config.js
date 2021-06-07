@@ -1,1 +1,1 @@
-var mnemonic = "seed drastic balance device step mammal column actress column holiday thought flavor";
+var mnemonic = "rate burden matter short brand garage width wish potato vehicle almost exist";

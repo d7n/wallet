@@ -1,1 +1,1 @@
-var mnemonic = "problem ahead rely emerge warm renew before float host keen twist range";
+var mnemonic = "advance cherry arch zero phrase smile wall exhaust legal million cross grit";

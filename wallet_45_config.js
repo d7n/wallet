@@ -1,1 +1,1 @@
-var mnemonic = "away swim raven title sugar derive slim earn fashion social island end";
+var mnemonic = "proof nation neck common twenty drip point choose pear ethics guide office";

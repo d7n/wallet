@@ -1,1 +1,1 @@
-var mnemonic = "spell stuff quick acid draw alien nature fantasy write badge essay develop";
+var mnemonic = "atom cruise sketch abuse pelican science flock bracket able crystal dance time";

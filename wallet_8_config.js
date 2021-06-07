@@ -1,1 +1,1 @@
-var mnemonic = "tide cause inhale dove repeat hello supreme snack hen scout diagram reduce";
+var mnemonic = "aisle yard admit chaos crawl monkey motor myself canvas grass enough fantasy";

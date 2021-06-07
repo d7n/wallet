@@ -1,1 +1,1 @@
-var mnemonic = "market team exit twenty peace awful hair lyrics pluck wolf crater nominee";
+var mnemonic = "green speak spoil rival ocean artwork sense shoulder decline alien immune decline";

@@ -1,1 +1,1 @@
-var mnemonic = "exit unit another hill muffin mask advance indicate tongue gravity honey slide";
+var mnemonic = "husband ribbon jealous chalk cake owner want garment distance video artwork avocado";

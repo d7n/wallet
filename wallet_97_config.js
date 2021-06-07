@@ -1,1 +1,1 @@
-var mnemonic = "toe uncle wheat sorry farm size spoil sun degree develop game axis";
+var mnemonic = "punch crack collect insane bargain cliff comfort poverty slot regular party banner";

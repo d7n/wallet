@@ -1,1 +1,1 @@
-var mnemonic = "provide curtain purity hour burst lamp slam option health curve enroll cattle";
+var mnemonic = "bright engage soft marine multiply salute upper table joke hat fresh essence";

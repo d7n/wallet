@@ -1,1 +1,1 @@
-var mnemonic = "galaxy method tuna chief east charge guess zoo thunder ancient seek elbow";
+var mnemonic = "clarify march fence bag crush furnace tortoise material valid broom target legend";

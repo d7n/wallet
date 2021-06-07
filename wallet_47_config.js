@@ -1,1 +1,1 @@
-var mnemonic = "decorate spawn donkey zero update open turkey audit approve humble maple concert";
+var mnemonic = "struggle burden cheap first van guess wet flag empower drink torch friend";

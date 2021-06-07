@@ -1,1 +1,1 @@
-var mnemonic = "find hospital pipe hockey case warrior mention stamp burden large family elder";
+var mnemonic = "lyrics install rack blossom term advice orient then before sort wealth hunt";

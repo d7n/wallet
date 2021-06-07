@@ -1,1 +1,1 @@
-var mnemonic = "define bring range uncover salmon cloth crucial bless deal brass decrease despair";
+var mnemonic = "roast day police since broccoli trick head notable job clap category sing";

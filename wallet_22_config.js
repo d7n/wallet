@@ -1,1 +1,1 @@
-var mnemonic = "win kick tongue isolate announce sand cover honey marble describe winter mushroom";
+var mnemonic = "marriage inform spider later cool lunch plunge rubber course trim mix valid";

@@ -1,1 +1,1 @@
-var mnemonic = "letter mobile glass exact good erosion legal palm property gorilla fortune deny";
+var mnemonic = "swift wide amused client feel grass hobby demise rebel range replace wood";

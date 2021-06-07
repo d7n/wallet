@@ -1,1 +1,1 @@
-var mnemonic = "private library region rocket impact poem rural never physical punch liar frog";
+var mnemonic = "neck girl decrease sick hope salmon antique brother rely infant pitch curve";

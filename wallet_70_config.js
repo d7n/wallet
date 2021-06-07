@@ -1,1 +1,1 @@
-var mnemonic = "kit annual pioneer measure pluck pass wine dust shield trap tuition vanish";
+var mnemonic = "company enter defense priority fortune mail visual sausage abandon weapon one smart";

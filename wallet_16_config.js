@@ -1,1 +1,1 @@
-var mnemonic = "grape web scan penalty nest suffer elevator accuse gaze leopard result appear";
+var mnemonic = "alley view crop vendor behave useful city trap excess ancient solve copper";

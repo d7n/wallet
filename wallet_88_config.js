@@ -1,1 +1,1 @@
-var mnemonic = "eye cotton upon priority truth gaze merry make once menu ice sun";
+var mnemonic = "puzzle dolphin gas razor loan problem walk aim little announce relief tiny";

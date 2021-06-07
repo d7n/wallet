@@ -1,1 +1,1 @@
-var mnemonic = "very matter bubble talent actress insect spawn danger truth claim obtain actual";
+var mnemonic = "game rely seat river wall gold resemble type sport throw bag blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "slam salute outer crime olympic useless fluid wear praise field nest camera";
+var mnemonic = "genre stuff caught excess state regret rule kit crop oval split liar";

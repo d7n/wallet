@@ -1,1 +1,1 @@
-var mnemonic = "when have surge upon topic alert elbow picture since regular episode exact";
+var mnemonic = "confirm fork dune mosquito vicious join sad void average buddy deny almost";

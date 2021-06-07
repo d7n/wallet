@@ -1,1 +1,1 @@
-var mnemonic = "typical unit water soul grace patch inmate must sister father tribe puppy";
+var mnemonic = "tunnel never atom robust cover now useful load door receive forest pattern";

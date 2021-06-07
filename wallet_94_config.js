@@ -1,1 +1,1 @@
-var mnemonic = "equal together race tube since young very place secret case salad domain";
+var mnemonic = "tobacco naive oak brush best carbon air flush disagree praise rail please";

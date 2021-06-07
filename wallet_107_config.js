@@ -1,1 +1,1 @@
-var mnemonic = "view sock husband curve owner broken dismiss gravity eye twist shiver junior";
+var mnemonic = "come twenty jump pink proud snow sustain whisper race music walk mom";

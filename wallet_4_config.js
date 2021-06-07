@@ -1,1 +1,1 @@
-var mnemonic = "change series seed select citizen essence album mask rely offer film sell";
+var mnemonic = "jungle crouch focus ticket keen tooth slogan fiction secret audit swing giant";

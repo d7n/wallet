@@ -1,1 +1,1 @@
-var mnemonic = "popular water skull cotton hand balcony then speak blast twin select series";
+var mnemonic = "can romance blanket arrange junk side outer mail drift gorilla palace leader";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest slide grab ozone split scout country benefit luggage health barely mushroom";
+var mnemonic = "exercise magnet enough sad sister weapon planet bracket next day pepper funny";

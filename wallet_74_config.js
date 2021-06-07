@@ -1,1 +1,1 @@
-var mnemonic = "west fancy dutch exotic alien write true defy century jealous sense meat";
+var mnemonic = "together spy coyote cave purse joy crisp wrong judge feed honey cloud";

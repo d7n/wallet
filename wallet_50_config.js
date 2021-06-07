@@ -1,1 +1,1 @@
-var mnemonic = "video media alien pretty mother dawn deputy feel author bunker beyond copy";
+var mnemonic = "cheese gossip jaguar hidden accuse dog urge ready love visa toilet hand";

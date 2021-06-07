@@ -1,1 +1,1 @@
-var mnemonic = "scan rhythm accuse average analyst wheel video sun under gesture quality bulk";
+var mnemonic = "issue cotton uncle prize correct sniff wisdom jungle soldier dawn moment always";

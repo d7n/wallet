@@ -1,1 +1,1 @@
-var mnemonic = "chat loan youth adult coin clever hub phrase duck exact shell rice";
+var mnemonic = "leg latin news book donor work music bicycle reform gloom arm october";

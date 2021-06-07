@@ -1,1 +1,1 @@
-var mnemonic = "like deny sting security program supreme unable walnut winner mixture coffee pelican";
+var mnemonic = "dumb off nominee shaft west crazy cash sight mistake volume twice fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "inform laugh parrot stay risk twenty oppose say artefact airport bottom mirror";
+var mnemonic = "evidence slice velvet canal cinnamon fresh unaware order lab cannon elite refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal lawn typical screen sauce soon resist ask ten rough protect virus";
+var mnemonic = "arctic faculty earth toward work mother among run either kangaroo omit jelly";

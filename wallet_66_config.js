@@ -1,1 +1,1 @@
-var mnemonic = "runway response castle fall shadow pull cigar come chapter region night recycle";
+var mnemonic = "ripple foot meat relief behind false ability away arch east rabbit sorry";

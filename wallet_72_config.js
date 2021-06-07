@@ -1,1 +1,1 @@
-var mnemonic = "region edge horse crush knock enforce script soon able flush wreck shift";
+var mnemonic = "arm clip slender certain roof include rescue work update drip hidden little";

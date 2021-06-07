@@ -1,1 +1,1 @@
-var mnemonic = "gown admit day enroll lemon toddler august either rely across naive motor";
+var mnemonic = "transfer okay gain zoo rival seat napkin more milk high quarter captain";

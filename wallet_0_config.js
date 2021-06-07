@@ -1,1 +1,1 @@
-var mnemonic = "circle anchor apple labor decrease space meat mesh joy bird example extend";
+var mnemonic = "surround rate talk rain gaze draw sunny little melt prosper curtain collect";

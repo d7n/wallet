@@ -1,1 +1,1 @@
-var mnemonic = "alarm relax happy cliff clever suit then curve mind echo punch sleep";
+var mnemonic = "derive sugar animal palm later blanket tired cushion cheese episode idea gesture";

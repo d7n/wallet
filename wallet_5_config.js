@@ -1,1 +1,1 @@
-var mnemonic = "october tonight hour tiger trap discover weird banana summer strike water display";
+var mnemonic = "unfold olympic detect craft slogan excite author blossom buyer follow garden any";

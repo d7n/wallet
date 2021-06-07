@@ -1,1 +1,1 @@
-var mnemonic = "evolve cover help delay seven insect elite between hockey power hill cruel";
+var mnemonic = "prevent excess alarm decline neutral peanut ribbon genius stereo wire venture matrix";

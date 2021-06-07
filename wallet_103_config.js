@@ -1,1 +1,1 @@
-var mnemonic = "celery morning armed guide object cloth usage moral profit float wear belt";
+var mnemonic = "nasty destroy magic boss afford siege diary melt merge motor route festival";

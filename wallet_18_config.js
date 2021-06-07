@@ -1,1 +1,1 @@
-var mnemonic = "theory lunar property upper level kiss blossom embark because guilt flat burden";
+var mnemonic = "retire globe similar expose very boy follow bean notable lecture twelve end";

@@ -1,1 +1,1 @@
-var mnemonic = "spike year snow remove punch disease indicate segment mammal range convince assist";
+var mnemonic = "jewel differ refuse glide fat nut chaos pet believe lounge print sample";

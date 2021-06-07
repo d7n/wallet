@@ -1,1 +1,1 @@
-var mnemonic = "wrist autumn clerk begin body staff joy correct mom logic dilemma luxury";
+var mnemonic = "cousin book march ceiling wish extend coyote swing margin tuition sheriff keen";

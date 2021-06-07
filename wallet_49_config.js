@@ -1,1 +1,1 @@
-var mnemonic = "box tag industry hurdle carpet onion various this awake sketch possible ancient";
+var mnemonic = "glove soldier shy junior educate parent novel giggle day wink lawsuit inside";

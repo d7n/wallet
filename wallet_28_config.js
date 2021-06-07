@@ -1,1 +1,1 @@
-var mnemonic = "evidence goddess kitchen direct hill tuition farm praise lunch silk employ blanket";
+var mnemonic = "regret worth horn chapter drastic empty kick bounce syrup reduce beef wagon";

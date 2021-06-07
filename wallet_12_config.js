@@ -1,1 +1,1 @@
-var mnemonic = "glove federal bounce junior potato slush finger half crowd light dentist onion";
+var mnemonic = "steak input myself galaxy arrow engage police hat ridge sun genuine interest";

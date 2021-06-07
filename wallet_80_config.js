@@ -1,1 +1,1 @@
-var mnemonic = "usage vague cherry cook solve wall duck moon stock enjoy employ rescue";
+var mnemonic = "hockey butter law shoot choice village cram next program engine elite riot";

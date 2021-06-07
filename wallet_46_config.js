@@ -1,1 +1,1 @@
-var mnemonic = "fragile grit basic lunar one visa tray unable notable lift naive inch";
+var mnemonic = "fiber myself cancel scene seek educate health attack typical stone impose sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "album giant tired wrist mad mother catalog company screen grace rebel tornado";
+var mnemonic = "earth parrot other gloom soft dolphin thought relief during ball estate night";

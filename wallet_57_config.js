@@ -1,1 +1,1 @@
-var mnemonic = "salute weekend final during kick material reduce that gossip annual raw video";
+var mnemonic = "lyrics know cross cousin observe space much curve main mansion goose change";
