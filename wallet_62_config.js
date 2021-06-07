@@ -1,1 +1,1 @@
-var mnemonic = "silly company seven major become peanut boss cluster decline today notable board";
+var mnemonic = "inherit indoor machine judge rapid guide clap cotton lava olive myth conduct";

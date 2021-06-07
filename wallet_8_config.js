@@ -1,1 +1,1 @@
-var mnemonic = "hover garden engage job gossip asthma element laundry length pause lend immune";
+var mnemonic = "tongue swear song moral remain baby arena educate make drop build hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "movie evidence essence cancel ordinary recall eagle frost pulp just surround ecology";
+var mnemonic = "together loyal west melody boy gesture purity box industry bulk cup swamp";

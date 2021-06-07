@@ -1,1 +1,1 @@
-var mnemonic = "reflect plate bracket add catalog chronic run transfer settle feel sheriff young";
+var mnemonic = "park canal square long illness soda response inquiry gold filter prepare deposit";

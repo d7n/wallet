@@ -1,1 +1,1 @@
-var mnemonic = "trim poet idea box rent staff noodle topple genre oval post iron";
+var mnemonic = "exhibit puzzle betray salmon kid game donor bleak giant struggle couple news";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery fluid often insect moral car husband melt average sausage hurry become";
+var mnemonic = "slender move credit catalog useless catalog escape power blind violin unfair thank";

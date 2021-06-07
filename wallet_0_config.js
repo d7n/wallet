@@ -1,1 +1,1 @@
-var mnemonic = "pigeon olympic nominee canal property rose burden cargo picnic mean bleak insect";
+var mnemonic = "master empty tone device inquiry repair elevator this axis mix banner elder";

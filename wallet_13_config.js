@@ -1,1 +1,1 @@
-var mnemonic = "obtain pudding unlock addict broccoli whisper impose season region local flee vital";
+var mnemonic = "chuckle six erase muscle struggle wear lazy faith drum actor clump post";

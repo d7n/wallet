@@ -1,1 +1,1 @@
-var mnemonic = "frown parade barrel energy hollow crucial barrel demand wet pill desk erase";
+var mnemonic = "fan reduce render since hurdle swallow faint loud bone review boil enrich";

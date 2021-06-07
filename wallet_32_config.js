@@ -1,1 +1,1 @@
-var mnemonic = "speed custom clever blanket stove public relief grid victory party solve tornado";
+var mnemonic = "fit seven indoor combine now truck cheese member question ginger tell float";

@@ -1,1 +1,1 @@
-var mnemonic = "flat cat clutch deny steel pistol brass stick average cereal copy lobster";
+var mnemonic = "foil artwork omit fetch guard behind area sketch attract add debris cigar";

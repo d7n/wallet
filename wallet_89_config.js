@@ -1,1 +1,1 @@
-var mnemonic = "taxi eternal fit duty circle dizzy success ordinary earn lava dog document";
+var mnemonic = "mean salt marble know orient chest upgrade manage draw blossom best wealth";

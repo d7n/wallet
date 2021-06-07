@@ -1,1 +1,1 @@
-var mnemonic = "fossil dice chief between about garden trial item actress hip picnic insane";
+var mnemonic = "someone limit lyrics velvet broom pause tired mind alpha olive image review";

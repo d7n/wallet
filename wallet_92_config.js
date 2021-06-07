@@ -1,1 +1,1 @@
-var mnemonic = "lucky enlist increase draft hire maximum siren color april yellow update endless";
+var mnemonic = "hungry desk language argue curve will just practice trophy cart decrease carbon";

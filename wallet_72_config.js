@@ -1,1 +1,1 @@
-var mnemonic = "behave blind yellow vapor stumble demise beauty artefact steak unknown fossil dove";
+var mnemonic = "you tip salad knife spring huge approve ride celery fence aware used";

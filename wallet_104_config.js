@@ -1,1 +1,1 @@
-var mnemonic = "mother seven hello produce endorse cave lava present ski concert rotate equal";
+var mnemonic = "lounge tomato loan mosquito tone gossip merry increase mechanic mouse taxi bachelor";

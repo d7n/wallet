@@ -1,1 +1,1 @@
-var mnemonic = "strategy bone civil slush west shuffle range pluck crunch inch yard rescue";
+var mnemonic = "code gesture doll paper spawn roof tobacco trip volume fog ship drip";

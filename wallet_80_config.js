@@ -1,1 +1,1 @@
-var mnemonic = "escape bike hurt wrist eternal guard lonely immune ability employ muffin when";
+var mnemonic = "lunar yellow little dwarf business together disease legal series slab quality labor";

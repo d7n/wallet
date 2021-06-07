@@ -1,1 +1,1 @@
-var mnemonic = "desert ski clip today sick state bulk wine until urban leg erupt";
+var mnemonic = "pelican umbrella pilot put radio jacket relax veteran predict flame reward sure";

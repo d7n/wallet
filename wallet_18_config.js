@@ -1,1 +1,1 @@
-var mnemonic = "above elite valve tackle shaft outer squeeze blossom gauge limb patient pitch";
+var mnemonic = "focus water very wreck ripple battle minor ritual rail walk tell door";

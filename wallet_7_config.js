@@ -1,1 +1,1 @@
-var mnemonic = "stamp super ask east danger ancient define uniform night fossil yard rain";
+var mnemonic = "remind able glad zone device document name stick shuffle tomato noise biology";

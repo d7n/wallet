@@ -1,1 +1,1 @@
-var mnemonic = "embody sibling curious rude ahead exact alien horse stem extra two glimpse";
+var mnemonic = "idle belt smooth thumb okay leader keen perfect menu also key lock";

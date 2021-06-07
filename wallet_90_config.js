@@ -1,1 +1,1 @@
-var mnemonic = "omit cliff machine core shallow bullet slim wheat detect water hello slim";
+var mnemonic = "figure extra maple stairs near nerve again describe decrease cup recall glad";

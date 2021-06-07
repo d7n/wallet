@@ -1,1 +1,1 @@
-var mnemonic = "advance already flavor famous civil aim moon cable happy village error symptom";
+var mnemonic = "infant potato foam window illness love cloud infant retire infant eye key";

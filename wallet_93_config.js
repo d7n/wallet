@@ -1,1 +1,1 @@
-var mnemonic = "hard later cruise build simple jacket safe stable review weapon involve minimum";
+var mnemonic = "tomorrow secret apple surface bid skull hover bird obscure pool call nest";

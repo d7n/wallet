@@ -1,1 +1,1 @@
-var mnemonic = "office car amateur smile entire airport fish apple crew because shield kiwi";
+var mnemonic = "consider drift awake define verify skin purse diagram horse useful enter hazard";

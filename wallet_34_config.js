@@ -1,1 +1,1 @@
-var mnemonic = "valid boy maid space bronze basket card engine element sweet mule gain";
+var mnemonic = "kingdom clog visa segment expect into pill response follow original file casino";

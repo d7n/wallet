@@ -1,1 +1,1 @@
-var mnemonic = "extra dynamic actual aisle churn alarm monster simple fall weather concert mouse";
+var mnemonic = "company maze float chest walk bird daughter rotate slogan endorse physical tattoo";

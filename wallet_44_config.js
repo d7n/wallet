@@ -1,1 +1,1 @@
-var mnemonic = "engage veteran develop surge reflect heart swear eye library coral shield size";
+var mnemonic = "impulse surface song net paddle canoe cram core great siren able require";

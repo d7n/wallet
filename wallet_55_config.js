@@ -1,1 +1,1 @@
-var mnemonic = "broccoli couch priority mansion guilt vehicle split ethics boring beyond easily symptom";
+var mnemonic = "spray example access humor voice rabbit sell hover front vivid leave foil";

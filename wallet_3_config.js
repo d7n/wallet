@@ -1,1 +1,1 @@
-var mnemonic = "cradle youth often system hedgehog crater evolve guess ticket wealth hedgehog stone";
+var mnemonic = "base police when sun process busy shove uncover flag vapor bicycle wonder";

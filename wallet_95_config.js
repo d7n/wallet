@@ -1,1 +1,1 @@
-var mnemonic = "spoon right spray motion guilt filter degree glove security run secret one";
+var mnemonic = "together category goose immune warrior moon senior jeans bonus ceiling luggage announce";

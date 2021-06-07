@@ -1,1 +1,1 @@
-var mnemonic = "action cinnamon off prize sauce beyond chronic exact birth hedgehog demand regular";
+var mnemonic = "install thumb fit term evoke educate aisle opera model into brass alien";

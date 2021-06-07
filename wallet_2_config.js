@@ -1,1 +1,1 @@
-var mnemonic = "cage alarm promote deny loud offer shock ability bacon endless heavy slight";
+var mnemonic = "twin floor bone govern beach audit print thunder cable town panda rigid";

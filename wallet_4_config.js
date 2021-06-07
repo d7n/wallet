@@ -1,1 +1,1 @@
-var mnemonic = "sister inspire define flag typical swing step kid charge drink primary surround";
+var mnemonic = "labor simple ritual before drastic injury rice surprise drill asset submit grain";

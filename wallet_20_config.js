@@ -1,1 +1,1 @@
-var mnemonic = "fresh miracle title art loan share acoustic magnet purse replace iron diary";
+var mnemonic = "vocal crowd daughter pelican play medal lamp crouch segment scatter portion kiwi";

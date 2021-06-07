@@ -1,1 +1,1 @@
-var mnemonic = "blossom comfort outer crouch vanish sign culture small almost army narrow harsh";
+var mnemonic = "rescue title gap pioneer clog pair ring sphere arm tenant mandate example";

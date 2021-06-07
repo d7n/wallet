@@ -1,1 +1,1 @@
-var mnemonic = "quick extra spawn lawn metal sense select rail glance pigeon erosion coin";
+var mnemonic = "security kit shine market dwarf chunk logic mouse shop faculty country bitter";

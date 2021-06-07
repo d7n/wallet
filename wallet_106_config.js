@@ -1,1 +1,1 @@
-var mnemonic = "soap off ahead iron deal give tumble man bounce hobby way satisfy";
+var mnemonic = "humor derive receive rug sound deposit other pride can deputy resource little";

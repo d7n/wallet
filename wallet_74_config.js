@@ -1,1 +1,1 @@
-var mnemonic = "trap expire busy relief diary action wish robot kind curtain book review";
+var mnemonic = "draft advance lobster leave suit lamp account input neutral good seat capable";

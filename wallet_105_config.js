@@ -1,1 +1,1 @@
-var mnemonic = "bounce unaware liberty garden average run robot puppy cotton section cream glance";
+var mnemonic = "income number album bread rent caught artefact neck ostrich record rookie carbon";

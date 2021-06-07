@@ -1,1 +1,1 @@
-var mnemonic = "ankle waste hockey night brand news pencil phrase sting wrist saddle shift";
+var mnemonic = "move number film type gesture transfer item depart cannon glimpse chalk festival";

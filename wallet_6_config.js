@@ -1,1 +1,1 @@
-var mnemonic = "mammal rebuild luxury shoe solution cool cube labor replace submit member boss";
+var mnemonic = "sweet business kitchen insect online fox garbage piano cake pen robot girl";

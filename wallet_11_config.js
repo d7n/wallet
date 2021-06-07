@@ -1,1 +1,1 @@
-var mnemonic = "quarter wood fancy quick antique excess adjust throw there scatter alpha frequent";
+var mnemonic = "response duty wisdom balance midnight dad clean symbol cargo denial melt planet";

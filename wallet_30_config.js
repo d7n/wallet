@@ -1,1 +1,1 @@
-var mnemonic = "air delay era off burst battle general gold return jeans magnet vendor";
+var mnemonic = "assist rebel goddess tube put knife buffalo update kingdom pear first duty";

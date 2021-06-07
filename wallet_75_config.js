@@ -1,1 +1,1 @@
-var mnemonic = "around mention duck oval fun awake appear piece unique stable program senior";
+var mnemonic = "float genre sort equal truly toss cram injury pattern pistol oblige run";

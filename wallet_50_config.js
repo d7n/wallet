@@ -1,1 +1,1 @@
-var mnemonic = "damp mountain culture mystery anchor desert pony rice govern divorce under estate";
+var mnemonic = "record answer deposit carry develop orbit that acquire chief laundry behave awesome";

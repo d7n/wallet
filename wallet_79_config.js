@@ -1,1 +1,1 @@
-var mnemonic = "purchase endless gallery shy owner wet husband crumble capable route crazy announce";
+var mnemonic = "turtle doctor message another age cancel flag grace useless butter fence orient";

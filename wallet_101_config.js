@@ -1,1 +1,1 @@
-var mnemonic = "spread prosper hundred bitter parrot defy once buyer hungry rifle flame utility";
+var mnemonic = "hand sniff embrace exist film shrimp pudding twelve various earn wish album";

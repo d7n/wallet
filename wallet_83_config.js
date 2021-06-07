@@ -1,1 +1,1 @@
-var mnemonic = "amazing nasty dad twice frog thunder route assist hole kid december dentist";
+var mnemonic = "dinosaur spin rely hope keep beauty coffee brick sound step gloom neglect";

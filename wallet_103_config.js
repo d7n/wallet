@@ -1,1 +1,1 @@
-var mnemonic = "debris rebel damage extend craft bridge elegant again capable curtain track twelve";
+var mnemonic = "infant idle mule bring sniff album hurdle clown sick mixed crew satisfy";

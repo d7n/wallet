@@ -1,1 +1,1 @@
-var mnemonic = "sibling much acoustic language write embark floor pupil arctic need economy kind";
+var mnemonic = "fox indicate follow actress vacant speak dog tooth kitten mirror nut bounce";

@@ -1,1 +1,1 @@
-var mnemonic = "legal hip law drop ship option chair bean later secret rain mean";
+var mnemonic = "junk fragile demand clip surface picture august smart churn fashion mass join";

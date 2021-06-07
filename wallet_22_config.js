@@ -1,1 +1,1 @@
-var mnemonic = "dad climb repair type novel sponsor bitter upgrade nurse learn achieve people";
+var mnemonic = "leader judge expand ostrich people waste virus clip phrase silent sample short";

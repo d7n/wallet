@@ -1,1 +1,1 @@
-var mnemonic = "edge verb omit member forum razor lab sudden suggest demise crack voyage";
+var mnemonic = "sleep spawn glass private poet worth rely step rose panel puzzle north";

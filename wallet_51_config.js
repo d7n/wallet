@@ -1,1 +1,1 @@
-var mnemonic = "picnic over sting van inhale talent oven stove fold desk legend foam";
+var mnemonic = "female key rack still tissue insect only symbol barely enter endless kid";

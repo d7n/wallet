@@ -1,1 +1,1 @@
-var mnemonic = "picture fix want material food file vague help stuff consider old human";
+var mnemonic = "chalk flag mad sail april conduct alcohol library entry empty bronze truck";

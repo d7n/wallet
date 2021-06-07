@@ -1,1 +1,1 @@
-var mnemonic = "dog sponsor problem forward enroll tooth dad oxygen sell soul endorse pull";
+var mnemonic = "tell metal bubble roof measure also charge moon piano unlock canal army";

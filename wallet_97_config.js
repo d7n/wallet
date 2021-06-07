@@ -1,1 +1,1 @@
-var mnemonic = "describe convince wait easily poem chair occur broccoli remain invite call mesh";
+var mnemonic = "fury mammal balance solid rookie gift add entire glide mixture advance present";

@@ -1,1 +1,1 @@
-var mnemonic = "fly real casual unhappy always eager bench fall jeans pitch emotion pretty";
+var mnemonic = "raccoon grow naive disorder adult alien pull ankle couch guide bachelor blue";

@@ -1,1 +1,1 @@
-var mnemonic = "because cage two suit card mention cabin humor diagram foil drip school";
+var mnemonic = "dress able soccer note ride execute hospital forward scrub voyage upon cute";

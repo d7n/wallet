@@ -1,1 +1,1 @@
-var mnemonic = "cousin organ diamond best state cube pledge museum sock base photo ketchup";
+var mnemonic = "veteran kitchen clump story pencil thought timber impulse cancel address tobacco nephew";

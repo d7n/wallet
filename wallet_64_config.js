@@ -1,1 +1,1 @@
-var mnemonic = "giggle teach nice kiwi chaos bring skin fiscal lock fetch topic impulse";
+var mnemonic = "bicycle object clog close keep rate ostrich axis globe need guide kiss";

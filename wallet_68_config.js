@@ -1,1 +1,1 @@
-var mnemonic = "shell comic egg laptop write van always palm fitness artwork want carbon";
+var mnemonic = "jeans future basket surface weasel chuckle secret defense slight obvious concert mother";

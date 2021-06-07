@@ -1,1 +1,1 @@
-var mnemonic = "process proof pause move gesture segment tool hint embrace spin slender buffalo";
+var mnemonic = "patrol mad alien woman simple admit basket manage tiger gasp survey boy";

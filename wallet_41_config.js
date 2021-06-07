@@ -1,1 +1,1 @@
-var mnemonic = "twice tiger amazing absorb fox flower arch rabbit opera soul hold quality";
+var mnemonic = "whisper stumble frog maximum salute swallow suit wash impulse essence goose claw";

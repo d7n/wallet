@@ -1,1 +1,1 @@
-var mnemonic = "ready flower surround gloom canyon weekend short north sea review trap surround";
+var mnemonic = "wheel jealous obscure theory custom question discover kitten fog mention leisure list";

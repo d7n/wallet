@@ -1,1 +1,1 @@
-var mnemonic = "private drop amazing buffalo citizen practice steel security aerobic pizza label excess";
+var mnemonic = "stem fork swallow cheese dash tattoo way mother fragile verify accuse caught";

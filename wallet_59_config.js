@@ -1,1 +1,1 @@
-var mnemonic = "suggest sunset girl twenty buffalo slice curve wheat force insect enough increase";
+var mnemonic = "inch bacon gentle fee develop pen fabric spider damp obtain survey gasp";

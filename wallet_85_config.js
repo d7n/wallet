@@ -1,1 +1,1 @@
-var mnemonic = "example hundred tobacco curious exclude insane pause speed mercy leaf cactus move";
+var mnemonic = "lottery endorse snap crawl rich gate virus thing affair aspect oak pact";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle hedgehog absorb domain tube title borrow milk repair garden twist stool";
+var mnemonic = "best near toast tunnel blue cigar yellow borrow very gravity wrist state";

@@ -1,1 +1,1 @@
-var mnemonic = "sand material hair tool strong canyon top home shoulder prosper pair gravity";
+var mnemonic = "risk shrimp buyer menu fork soldier walk swear portion bonus issue raccoon";

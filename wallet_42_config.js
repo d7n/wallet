@@ -1,1 +1,1 @@
-var mnemonic = "crush capital balcony glimpse walk inmate paper employ flush walk hover measure";
+var mnemonic = "disagree please copper nasty trim paddle satoshi bike ostrich gauge sustain raw";

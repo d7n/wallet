@@ -1,1 +1,1 @@
-var mnemonic = "fruit embark acoustic leisure forum duck follow mixed reflect almost fix addict";
+var mnemonic = "logic push various aerobic cabbage sustain plate symbol awesome endorse discover view";

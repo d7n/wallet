@@ -1,1 +1,1 @@
-var mnemonic = "marine already delay kick voice syrup anchor bleak news bronze chef apology";
+var mnemonic = "month enforce suit hawk february round summer brand enroll dial base hat";

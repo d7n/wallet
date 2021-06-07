@@ -1,1 +1,1 @@
-var mnemonic = "guide genius decline spin kit gym clay window manual milk shiver basket";
+var mnemonic = "resemble diesel dolphin drink monkey when promote valve core eight can traffic";

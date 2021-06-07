@@ -1,1 +1,1 @@
-var mnemonic = "october welcome human master frame fetch until know connect wall match sibling";
+var mnemonic = "walnut shield soccer erupt tape run display voice doll trumpet police loud";

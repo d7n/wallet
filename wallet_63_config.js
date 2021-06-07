@@ -1,1 +1,1 @@
-var mnemonic = "business fitness excess piano clog smart lock confirm erase fragile large hurt";
+var mnemonic = "primary symbol eye horn blur deer drum music virtual trim law fitness";

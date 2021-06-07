@@ -1,1 +1,1 @@
-var mnemonic = "coil resource actual heavy gesture pledge scale desert nominee crystal urge flee";
+var mnemonic = "appear fit wait easily energy gift fall ecology depend oval awesome anxiety";

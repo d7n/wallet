@@ -1,1 +1,1 @@
-var mnemonic = "true recycle ready gold wink pelican embrace moon damp learn dilemma gaze";
+var mnemonic = "raccoon always vault vivid canvas direct tower roast cherry input silent wait";

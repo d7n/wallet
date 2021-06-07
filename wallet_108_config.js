@@ -1,1 +1,1 @@
-var mnemonic = "curious twist spot supreme spike arrive empty coil gap devote junior draft";
+var mnemonic = "road fan urge better issue total fruit alert layer exile movie answer";

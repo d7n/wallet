@@ -1,1 +1,1 @@
-var mnemonic = "bright climb property vapor snap luxury effort fly identify client tip reflect";
+var mnemonic = "dog song deer olive chunk fetch sunny unusual unfair sorry custom pulse";

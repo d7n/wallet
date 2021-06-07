@@ -1,1 +1,1 @@
-var mnemonic = "satoshi youth annual diet enlist arctic empty pitch offer satoshi craft young";
+var mnemonic = "large party tell winter air joy estate abandon great token legal also";

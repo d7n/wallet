@@ -1,1 +1,1 @@
-var mnemonic = "please miracle toast alert mirror indicate elbow country blush indoor super tube";
+var mnemonic = "warfare exotic garage silly confirm impulse aerobic undo motor tell diesel smile";

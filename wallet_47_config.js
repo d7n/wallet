@@ -1,1 +1,1 @@
-var mnemonic = "raccoon scorpion truck carpet staff couple fuel mule double blouse elder warfare";
+var mnemonic = "weasel lend erupt margin abandon fog fault satisfy police outer shield furnace";

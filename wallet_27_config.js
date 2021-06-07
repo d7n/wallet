@@ -1,1 +1,1 @@
-var mnemonic = "prepare stay crunch essay trend salt talk mention escape wonder slow inquiry";
+var mnemonic = "pink pledge muscle blind guide story ask mandate album release fall key";

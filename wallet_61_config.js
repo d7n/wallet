@@ -1,1 +1,1 @@
-var mnemonic = "drift ten two elbow bean laugh quantum struggle matter leg total enemy";
+var mnemonic = "pistol cupboard dawn worth sign reward chief vanish inner recipe picnic patient";

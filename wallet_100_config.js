@@ -1,1 +1,1 @@
-var mnemonic = "giant culture message park lazy pioneer option muscle broom stock bulb thumb";
+var mnemonic = "vast alter wire online home barrel network umbrella purity spike venture glimpse";

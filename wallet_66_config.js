@@ -1,1 +1,1 @@
-var mnemonic = "insect day woman tuition unable slim grow birth recipe risk smooth differ";
+var mnemonic = "awkward bless special pond multiply pair save crop blind drop prefer copper";

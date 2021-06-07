@@ -1,1 +1,1 @@
-var mnemonic = "siege length right dance amazing torch rotate seven mirror vicious pond pudding";
+var mnemonic = "jealous shuffle hungry weird plug life disease chronic pull salmon drill perfect";
