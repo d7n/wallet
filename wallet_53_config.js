@@ -1,1 +1,1 @@
-var mnemonic = "lumber ugly waste extend hen alien pool olympic cotton wagon century innocent";
+var mnemonic = "input involve minute original supreme ahead purpose beef galaxy village vendor hour";

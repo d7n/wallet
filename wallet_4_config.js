@@ -1,1 +1,1 @@
-var mnemonic = "embrace hint sure remain gold brick bachelor word bless ceiling square around";
+var mnemonic = "about gun fashion floor lab hard easily scorpion vintage wing sword crush";

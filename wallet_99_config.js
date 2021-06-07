@@ -1,1 +1,1 @@
-var mnemonic = "glory mule march shallow slam rival snack danger flip clerk banana purity";
+var mnemonic = "wagon struggle bullet first drill east galaxy puzzle slim hair firm sad";

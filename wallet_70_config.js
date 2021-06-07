@@ -1,1 +1,1 @@
-var mnemonic = "fragile energy bar jacket dirt gospel mango skirt suffer parent wall gas";
+var mnemonic = "surface build tape fish exhibit prize move cute ranch conduct sight above";

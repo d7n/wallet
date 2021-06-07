@@ -1,1 +1,1 @@
-var mnemonic = "spawn hidden enroll shed cereal salon reveal unit wreck home pride marble";
+var mnemonic = "bomb use enact crack arctic insect bracket still throw hundred often giraffe";

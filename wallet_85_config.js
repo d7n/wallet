@@ -1,1 +1,1 @@
-var mnemonic = "rice depth peasant multiply antique calm away tail danger athlete state result";
+var mnemonic = "tornado outer claim tent birth blouse camera two face result tell token";

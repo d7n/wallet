@@ -1,1 +1,1 @@
-var mnemonic = "solid habit tray need logic clip trim display salute tattoo limb ice";
+var mnemonic = "apple wall drastic question topic dune wink own zero defy host snake";

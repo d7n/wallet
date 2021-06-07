@@ -1,1 +1,1 @@
-var mnemonic = "debris pluck rail color kid phone shed dune mountain home garbage subject";
+var mnemonic = "fan excess sense bitter claim fish armor also tongue solid lock creek";

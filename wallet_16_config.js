@@ -1,1 +1,1 @@
-var mnemonic = "ability scatter clever between engine snow hidden ladder afford pizza digital sport";
+var mnemonic = "fire fog say battle rescue erosion hospital ankle guess rely until strategy";

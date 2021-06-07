@@ -1,1 +1,1 @@
-var mnemonic = "velvet sniff scrap mobile leg build lottery man afford tank used script";
+var mnemonic = "settle response service dog flush box domain argue kangaroo push all approve";

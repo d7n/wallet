@@ -1,1 +1,1 @@
-var mnemonic = "artwork lyrics trick filter bike creek furnace message column mechanic aim foster";
+var mnemonic = "fat reject lonely mixture crystal scale transfer route label face cute praise";

@@ -1,1 +1,1 @@
-var mnemonic = "speak message bottom fall horse shuffle attitude inside limb naive pluck catch";
+var mnemonic = "bulk engage dove erase north educate noise rescue gun thing pilot unaware";

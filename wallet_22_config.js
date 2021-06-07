@@ -1,1 +1,1 @@
-var mnemonic = "hotel object crazy bronze timber prosper term traffic crunch rose chronic random";
+var mnemonic = "crucial elegant infant funny naive column patrol stone idle sorry head garbage";

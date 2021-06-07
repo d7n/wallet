@@ -1,1 +1,1 @@
-var mnemonic = "gorilla ivory pig target treat drum push nice live omit habit point";
+var mnemonic = "recycle veteran company cattle bridge guard story stamp session buzz lounge program";

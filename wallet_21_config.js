@@ -1,1 +1,1 @@
-var mnemonic = "laundry pyramid minor drastic soldier inquiry police sand smile conduct you expand";
+var mnemonic = "mistake sell cook sign name dismiss fruit deny blue filter enact roast";

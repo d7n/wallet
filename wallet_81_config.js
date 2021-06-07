@@ -1,1 +1,1 @@
-var mnemonic = "general bring mansion hope dose case remind skirt tragic master actress skin";
+var mnemonic = "stick multiply slim donor call fish nut cluster decorate dose visit brave";

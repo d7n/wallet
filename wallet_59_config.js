@@ -1,1 +1,1 @@
-var mnemonic = "green fault drip inform forward hamster sausage escape sister comfort race grain";
+var mnemonic = "denial cereal cup pulp toddler mechanic abandon maximum father detect decide chief";

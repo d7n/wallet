@@ -1,1 +1,1 @@
-var mnemonic = "pipe raven arctic worth slight goddess half upset cruel nest process range";
+var mnemonic = "crime normal sibling check wasp gorilla slam milk bicycle attitude female accuse";

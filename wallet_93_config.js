@@ -1,1 +1,1 @@
-var mnemonic = "save gauge shuffle basket august nut head jungle head return casino damage";
+var mnemonic = "filter honey park rose camp average credit dish ankle settle cricket shove";

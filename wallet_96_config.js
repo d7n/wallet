@@ -1,1 +1,1 @@
-var mnemonic = "level solution chief daring orient check sign viable soap law kingdom proud";
+var mnemonic = "fee task pipe damp tree decline travel foot steel umbrella breeze armor";

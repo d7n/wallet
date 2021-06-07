@@ -1,1 +1,1 @@
-var mnemonic = "very crane dog goddess group fiber step permit weasel program source trouble";
+var mnemonic = "narrow spy cash where tomato buzz duck belt hire object churn boil";

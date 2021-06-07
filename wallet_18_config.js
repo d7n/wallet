@@ -1,1 +1,1 @@
-var mnemonic = "style furnace labor senior series coconut upon battle unit hockey dove winter";
+var mnemonic = "brand indoor you brand crush analyst genuine friend pitch sing easy harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "history way lounge decade moon exact glass dawn kind typical behave capital";
+var mnemonic = "amused marine tunnel label lunch fruit allow surprise impose rookie learn change";

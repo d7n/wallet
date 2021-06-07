@@ -1,1 +1,1 @@
-var mnemonic = "creek dry rebel swift pretty feature uncover sting ready grass adjust patrol";
+var mnemonic = "concert swarm current apple program scrap trap session battle episode convince denial";

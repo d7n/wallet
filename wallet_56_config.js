@@ -1,1 +1,1 @@
-var mnemonic = "humor tonight mad injury table deliver dish glare rural hollow figure celery";
+var mnemonic = "lonely humble run agent nerve time bind boost bundle illness brief captain";

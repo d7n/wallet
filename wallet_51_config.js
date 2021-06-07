@@ -1,1 +1,1 @@
-var mnemonic = "assume butter screen armed omit pig shoe sight wide control royal snake";
+var mnemonic = "enrich layer struggle usage toy kidney upset angle banana erode cause assist";

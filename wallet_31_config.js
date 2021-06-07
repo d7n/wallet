@@ -1,1 +1,1 @@
-var mnemonic = "adjust lottery absurd flight angry acoustic tomorrow skate traffic brief safe extend";
+var mnemonic = "disease equip penalty civil soup tape theory army inject bullet guilt endorse";

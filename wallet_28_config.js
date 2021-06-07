@@ -1,1 +1,1 @@
-var mnemonic = "close just wrist annual blast portion hundred border alcohol unhappy reason crawl";
+var mnemonic = "edge window custom sniff ozone sword sniff wonder rookie comfort client stock";

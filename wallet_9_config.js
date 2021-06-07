@@ -1,1 +1,1 @@
-var mnemonic = "shoot winter attract clinic wrong peanut eight expire bracket panic walk fan";
+var mnemonic = "mimic turkey tide witness image gain manage public found trade bracket shrug";

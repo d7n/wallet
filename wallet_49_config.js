@@ -1,1 +1,1 @@
-var mnemonic = "such okay special surprise panel goat juice adult bicycle cabbage angry shine";
+var mnemonic = "dawn pink diet shrimp method glare harbor clinic image betray slide demand";

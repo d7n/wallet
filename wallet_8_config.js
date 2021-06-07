@@ -1,1 +1,1 @@
-var mnemonic = "mutual acid lizard opinion debris bamboo loan vessel shallow debris salmon switch";
+var mnemonic = "will submit amateur another expand cube endless earth delay weekend frozen liar";

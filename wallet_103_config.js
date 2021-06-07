@@ -1,1 +1,1 @@
-var mnemonic = "glow despair survey return brand blue aware curve essay cute town immune";
+var mnemonic = "crime buyer wasp budget lyrics arrow kit vanish clock urge chef onion";

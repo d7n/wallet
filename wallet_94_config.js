@@ -1,1 +1,1 @@
-var mnemonic = "gorilla swear coral safe remain ripple lens veteran man endless meadow twist";
+var mnemonic = "bulk glimpse employ frog modify plunge portion celery hood pizza palace message";

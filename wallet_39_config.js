@@ -1,1 +1,1 @@
-var mnemonic = "knee small bus entry spare east load devote viable swing crunch cloth";
+var mnemonic = "leg glory tribe snack country unaware miracle bachelor tooth cruise fall strong";

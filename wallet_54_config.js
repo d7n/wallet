@@ -1,1 +1,1 @@
-var mnemonic = "rely garment version pink genius they agree rough wash walnut require shiver";
+var mnemonic = "neglect unfold bone sail improve silver buffalo rice mom ride fall note";

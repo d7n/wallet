@@ -1,1 +1,1 @@
-var mnemonic = "maze spot area clinic bus place demise modify rally unfair strong focus";
+var mnemonic = "ramp actress luggage carbon journey exit maid soup hotel half post fashion";

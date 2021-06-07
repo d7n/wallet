@@ -1,1 +1,1 @@
-var mnemonic = "burst design stairs adapt travel library local license actress resemble unusual scrap";
+var mnemonic = "try garment volcano logic hurry know hover good sister faith bottom bar";

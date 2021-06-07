@@ -1,1 +1,1 @@
-var mnemonic = "unable cattle case hub replace wave cinnamon glide steel box deposit trip";
+var mnemonic = "trigger hair damage crunch rich quit canal beef disorder tuition electric below";

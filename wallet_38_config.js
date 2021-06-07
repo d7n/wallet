@@ -1,1 +1,1 @@
-var mnemonic = "price humor cave gauge harbor improve fluid sunset blush drink allow vital";
+var mnemonic = "thank network crew alien erosion kidney various visit tennis box hold auto";

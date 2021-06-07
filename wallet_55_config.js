@@ -1,1 +1,1 @@
-var mnemonic = "slam cool curious category impose balcony rapid dust income typical twelve crisp";
+var mnemonic = "eye photo shield twelve word roof reason harvest year enact ceiling deny";

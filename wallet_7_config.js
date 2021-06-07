@@ -1,1 +1,1 @@
-var mnemonic = "tourist endorse december click base syrup initial inhale record genuine exit permit";
+var mnemonic = "grit board hotel vivid merge unusual horse muscle village muscle one flock";

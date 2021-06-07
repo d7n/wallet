@@ -1,1 +1,1 @@
-var mnemonic = "jump unknown fence danger aisle frown mule normal mimic eternal day number";
+var mnemonic = "base quiz gain coast tell tail fine vocal join leg deputy donate";

@@ -1,1 +1,1 @@
-var mnemonic = "crime nature square vault avocado arctic bullet arrow where physical afraid impose";
+var mnemonic = "member number engine jaguar topple jelly treat close same attend orange shoot";

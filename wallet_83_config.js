@@ -1,1 +1,1 @@
-var mnemonic = "ocean street record hope reduce soon monster swarm garbage glad company vacant";
+var mnemonic = "stamp strategy pitch easy finish agent you onion sunny screen citizen grow";

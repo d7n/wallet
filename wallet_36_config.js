@@ -1,1 +1,1 @@
-var mnemonic = "cook husband ahead sound duck figure shadow feature melt crouch genre junior";
+var mnemonic = "rice smoke cradle claim ready bread naive tank need velvet piano empty";

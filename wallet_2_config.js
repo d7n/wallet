@@ -1,1 +1,1 @@
-var mnemonic = "diet rent smile apart trust ramp nice sibling public fabric acid immense";
+var mnemonic = "table issue bomb enhance beauty world speed route shed absorb trial repeat";

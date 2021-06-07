@@ -1,1 +1,1 @@
-var mnemonic = "feel oak decorate broccoli faith engine type label curious say cash cram";
+var mnemonic = "country riot genius half doctor party assume rocket thing job depend onion";

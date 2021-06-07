@@ -1,1 +1,1 @@
-var mnemonic = "mixture shiver patrol arrive soda dentist update gift bulb sight enlist clump";
+var mnemonic = "violin donor subway monitor thought august predict mango flavor orbit enter burger";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson relax casino tower tumble duck dolphin buzz dress invite stool ice";
+var mnemonic = "legal expose salt home manage exact dish post antique boring smile room";

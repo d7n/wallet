@@ -1,1 +1,1 @@
-var mnemonic = "simple motor hello program annual where lyrics beyond daring devote lawn proud";
+var mnemonic = "six scrub danger profit orange sudden expose cheap column swamp isolate believe";

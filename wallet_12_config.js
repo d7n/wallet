@@ -1,1 +1,1 @@
-var mnemonic = "inch panic mixture soup auction access unfold ribbon oblige parrot remember guitar";
+var mnemonic = "hospital shy gesture green glove coil draw physical fossil cactus busy garden";

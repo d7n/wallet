@@ -1,1 +1,1 @@
-var mnemonic = "poet rural guard nose empty citizen fog vanish marriage comic regular amateur";
+var mnemonic = "balcony patch away among bring exact early chunk voyage color involve chuckle";

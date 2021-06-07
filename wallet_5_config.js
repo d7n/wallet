@@ -1,1 +1,1 @@
-var mnemonic = "citizen front vast twist mixture ripple rubber transfer aisle prevent add flock";
+var mnemonic = "involve flee digital vocal monster flip action congress picture city furnace zone";

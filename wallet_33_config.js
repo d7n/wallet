@@ -1,1 +1,1 @@
-var mnemonic = "sure blue topple assault abstract duty noodle glue ribbon dragon random coast";
+var mnemonic = "actual spray program odor syrup already online labor model island march guitar";

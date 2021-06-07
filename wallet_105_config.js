@@ -1,1 +1,1 @@
-var mnemonic = "apple mass mixture resist flavor aunt orchard dragon float donor ecology ask";
+var mnemonic = "flock organ truck cushion merge birth disagree comic mean slush view bid";

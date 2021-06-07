@@ -1,1 +1,1 @@
-var mnemonic = "rotate escape rookie anchor muffin silent erode history spice sword glory middle";
+var mnemonic = "absurd door position grunt effort giant when split behave scrub brain sea";

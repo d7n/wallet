@@ -1,1 +1,1 @@
-var mnemonic = "acoustic spin fork will like young flip stage eyebrow coach drop casino";
+var mnemonic = "blame render degree mango merit main spread tide hard inform this crew";

@@ -1,1 +1,1 @@
-var mnemonic = "toward poem clinic tuition outer amused buzz toss whip inch kit moon";
+var mnemonic = "library panic song duck double fetch shift holiday civil bargain flight chalk";

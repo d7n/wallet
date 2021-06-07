@@ -1,1 +1,1 @@
-var mnemonic = "sock laptop goat unveil uniform rail hobby rough motion labor mistake mistake";
+var mnemonic = "board wink reflect notice outer minimum bronze thunder pumpkin ostrich shield height";

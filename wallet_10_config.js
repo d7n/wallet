@@ -1,1 +1,1 @@
-var mnemonic = "right actor daughter brain funny upon uncover siren melody cover into garage";
+var mnemonic = "guitar wide never high observe wire world witness twenty alcohol dry toy";

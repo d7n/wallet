@@ -1,1 +1,1 @@
-var mnemonic = "field retreat deal same museum security talk bag airport extend spin punch";
+var mnemonic = "alert lunch success mobile poet shaft turkey chaos worth city input hover";

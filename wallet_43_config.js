@@ -1,1 +1,1 @@
-var mnemonic = "raccoon suggest song define knife elbow foster type neutral twin mind derive";
+var mnemonic = "orbit dish pony stadium speak fan engage bullet little thumb wish solution";

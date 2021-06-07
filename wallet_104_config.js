@@ -1,1 +1,1 @@
-var mnemonic = "snack soul bunker spider garment hamster senior clay during carbon review steak";
+var mnemonic = "glue punch october deny clever type adult write oak traffic abstract exhaust";

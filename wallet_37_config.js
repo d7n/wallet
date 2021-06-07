@@ -1,1 +1,1 @@
-var mnemonic = "behind coral raw because garment stadium album over category indicate tank mixed";
+var mnemonic = "only print proud crunch good planet nasty mom comfort net mammal input";

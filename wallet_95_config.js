@@ -1,1 +1,1 @@
-var mnemonic = "trouble fuel begin episode quit march spoil physical delay sure half fashion";
+var mnemonic = "build enhance slush gold live width answer unique wide logic dirt horror";

@@ -1,1 +1,1 @@
-var mnemonic = "woman boy skate throw buffalo borrow plastic honey unusual lesson comfort wild";
+var mnemonic = "lizard mixed victory live announce hour waste hard hybrid bid trick core";

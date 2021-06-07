@@ -1,1 +1,1 @@
-var mnemonic = "hour curtain mutual perfect anxiety better mule attitude menu bread bleak alter";
+var mnemonic = "diary winter sauce media guard casino unfair cram match rival trigger distance";

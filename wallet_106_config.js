@@ -1,1 +1,1 @@
-var mnemonic = "alien cancel kiss fly link health damp spot bless know useful help";
+var mnemonic = "unaware battle cool envelope candy board open castle police yellow brave twelve";

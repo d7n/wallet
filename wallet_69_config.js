@@ -1,1 +1,1 @@
-var mnemonic = "swift celery asset pink brush dust want cake head nephew science model";
+var mnemonic = "limb shift slide portion napkin iron spider axis seek ill cause wait";

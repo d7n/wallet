@@ -1,1 +1,1 @@
-var mnemonic = "bomb citizen poverty demise slush jealous empty cigar extend cruel visa swap";
+var mnemonic = "rabbit bundle kick blind spirit volume oblige demise reveal vast govern bleak";

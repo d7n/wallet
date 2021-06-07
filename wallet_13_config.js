@@ -1,1 +1,1 @@
-var mnemonic = "almost dinosaur concert valve learn fiber candy weasel category link broccoli glance";
+var mnemonic = "update sustain voyage render neither vacuum credit citizen web erode advance they";

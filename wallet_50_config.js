@@ -1,1 +1,1 @@
-var mnemonic = "swamp slight name cluster vessel cute bacon sight eye train asset resist";
+var mnemonic = "pipe carbon author next horse collect valley random off forum paper silver";

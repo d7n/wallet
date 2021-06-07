@@ -1,1 +1,1 @@
-var mnemonic = "motion ivory pattern palace limit shy penalty scout dish amateur evil ranch";
+var mnemonic = "sibling swamp antique post brave manage stumble daughter common swap emotion day";

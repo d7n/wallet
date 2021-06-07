@@ -1,1 +1,1 @@
-var mnemonic = "code knife sting upon occur farm oyster oil label number useful embody";
+var mnemonic = "boy meat example wonder trophy blind fossil plunge talk whale solar bag";

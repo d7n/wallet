@@ -1,1 +1,1 @@
-var mnemonic = "muscle pair cruise whip nurse state decrease silver point bomb distance lumber";
+var mnemonic = "entire gate wealth cousin solid empty edge general predict guitar awake staff";

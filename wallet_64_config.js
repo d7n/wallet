@@ -1,1 +1,1 @@
-var mnemonic = "garden burst project swim thought deposit neck wheel picture usual capable aware";
+var mnemonic = "clock large relief say wild spot add fit problem relax rival outer";

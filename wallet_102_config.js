@@ -1,1 +1,1 @@
-var mnemonic = "interest shift antique dune topic hen core upon warfare country absorb horn";
+var mnemonic = "spirit pretty cigar tragic diamond page bamboo depend beyond canyon network bamboo";

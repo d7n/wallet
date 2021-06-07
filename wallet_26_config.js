@@ -1,1 +1,1 @@
-var mnemonic = "correct panda until hazard final palace prize promote august pluck punch mask";
+var mnemonic = "notable inspire bone glass alert torch vicious excuse acid print casino peanut";

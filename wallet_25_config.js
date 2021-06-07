@@ -1,1 +1,1 @@
-var mnemonic = "media city engage mansion arrive happy shock fluid scout asthma casino venture";
+var mnemonic = "peace opinion there coil main faith retreat critic average erode misery shadow";

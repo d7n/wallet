@@ -1,1 +1,1 @@
-var mnemonic = "average copper initial wine plunge blush monster glue gather path minor print";
+var mnemonic = "educate wash cinnamon verify noodle scrap work board scare excite bicycle horror";

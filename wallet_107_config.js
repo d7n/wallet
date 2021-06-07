@@ -1,1 +1,1 @@
-var mnemonic = "silly tennis feature that calm exist physical document evoke spoil conduct illegal";
+var mnemonic = "mixed level ordinary matrix promote arrest whisper proof pudding neglect permit clarify";

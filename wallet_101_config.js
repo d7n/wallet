@@ -1,1 +1,1 @@
-var mnemonic = "mule victory corn column lottery flavor raise visual speak dove desk alcohol";
+var mnemonic = "stove robot sun spend fluid sting blush dish rural cause paddle squirrel";

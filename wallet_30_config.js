@@ -1,1 +1,1 @@
-var mnemonic = "oppose negative bicycle knock axis odor trend enroll coral novel eye garage";
+var mnemonic = "stuff only prepare nest jar shock clump salute normal recipe flat weird";

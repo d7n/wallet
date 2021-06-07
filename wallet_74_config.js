@@ -1,1 +1,1 @@
-var mnemonic = "blast prison small glass salon torch problem convince cave mechanic mimic leaf";
+var mnemonic = "glow rather chunk hurdle shell awake cattle gossip round have light polar";

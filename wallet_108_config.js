@@ -1,1 +1,1 @@
-var mnemonic = "monitor junk icon aisle rent corn exhaust veteran ensure power furnace another";
+var mnemonic = "begin unaware dove coast next concert design kit kidney school sleep bomb";

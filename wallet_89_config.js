@@ -1,1 +1,1 @@
-var mnemonic = "moment burst army across blanket pact wasp federal trick fan venture cheese";
+var mnemonic = "face minimum achieve derive clap profit act picnic hat device boost ecology";

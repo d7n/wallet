@@ -1,1 +1,1 @@
-var mnemonic = "supply van cup bulb bubble moon library tortoise pencil blind head cool";
+var mnemonic = "pilot silent hat slot venture six club harbor race cry asthma ancient";

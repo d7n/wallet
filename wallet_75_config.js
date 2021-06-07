@@ -1,1 +1,1 @@
-var mnemonic = "paper charge need risk fine elevator fresh steel frozen immune victory base";
+var mnemonic = "loan gallery gown point humble lucky melody picture crucial color legend bitter";

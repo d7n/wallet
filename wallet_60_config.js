@@ -1,1 +1,1 @@
-var mnemonic = "stereo review egg ability sentence vanish deputy long arrest nerve electric toward";
+var mnemonic = "brass velvet comic shift stamp balance vapor topic marriage inmate worth obscure";

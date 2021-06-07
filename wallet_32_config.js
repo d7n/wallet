@@ -1,1 +1,1 @@
-var mnemonic = "midnight actor winter orphan huge theme east toilet waste clerk become solar";
+var mnemonic = "yellow much giant add hip coin rice intact region price seek apart";

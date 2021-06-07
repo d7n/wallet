@@ -1,1 +1,1 @@
-var mnemonic = "fever two churn ginger escape crew monster alarm hen tortoise acoustic duty";
+var mnemonic = "stuff eight before regular target vital sun educate credit equal cereal push";
