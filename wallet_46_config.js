@@ -1,1 +1,1 @@
-var mnemonic = "chronic toddler insect sample word lock imitate leave cinnamon person speak pilot";
+var mnemonic = "slim dumb auction giggle rhythm fee option father release harbor filter gasp";

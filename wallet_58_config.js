@@ -1,1 +1,1 @@
-var mnemonic = "horror stool fitness add anger minor good depth recipe pink core abuse";
+var mnemonic = "safe now cancel together birth age scan cancel vessel search snake acoustic";

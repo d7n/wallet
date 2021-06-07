@@ -1,1 +1,1 @@
-var mnemonic = "category ten another normal service average amateur federal access noise plastic biology";
+var mnemonic = "hospital reopen valve gather tennis frequent expose mango police apple useful tiny";

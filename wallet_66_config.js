@@ -1,1 +1,1 @@
-var mnemonic = "stuff swap cancel under legend law cool blouse salad spot mango holiday";
+var mnemonic = "frequent burger neglect vocal kind club purse spatial expand match fancy actual";

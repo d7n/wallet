@@ -1,1 +1,1 @@
-var mnemonic = "sail tattoo advice alter demand wasp team just rough lion nurse distance";
+var mnemonic = "whisper world carbon cargo moment smile thank thought agent endorse popular vapor";

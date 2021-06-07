@@ -1,1 +1,1 @@
-var mnemonic = "year wrist deny steel mom friend senior layer throw inhale census truck";
+var mnemonic = "fold senior opera they glory autumn anxiety oxygen idle salon envelope element";

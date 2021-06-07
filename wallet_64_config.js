@@ -1,1 +1,1 @@
-var mnemonic = "client miss please vague fatal unable dinner topple prosper response catch refuse";
+var mnemonic = "alert picture come panther domain pig enrich survey ripple father script hammer";

@@ -1,1 +1,1 @@
-var mnemonic = "ice come before three excuse metal primary capital settle diet normal still";
+var mnemonic = "submit capable cloud tray sweet hover midnight lava duty glide glide hint";

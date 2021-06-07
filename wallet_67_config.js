@@ -1,1 +1,1 @@
-var mnemonic = "post outdoor umbrella raise vessel fashion already struggle draft tragic climb scare";
+var mnemonic = "able beach rebuild can jaguar flip lottery begin minimum refuse endless rack";

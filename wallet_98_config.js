@@ -1,1 +1,1 @@
-var mnemonic = "dad wrist neither outer rotate zebra rival often cargo local square outer";
+var mnemonic = "scheme oak diamond voyage rebuild metal wagon exhaust olympic indicate soap survey";

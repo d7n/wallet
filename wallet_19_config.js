@@ -1,1 +1,1 @@
-var mnemonic = "trash float adapt chief any now deer cook puppy science suspect present";
+var mnemonic = "require deposit party audit find raccoon spoon gravity junior expect rookie assault";

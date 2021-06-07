@@ -1,1 +1,1 @@
-var mnemonic = "claw lounge noise slab crunch keen merit lady inner hour item raw";
+var mnemonic = "aspect clap smooth school certain gain say depend year apology real plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "bind season vivid defense essay pact asset pottery impose path long embrace";
+var mnemonic = "state next gate purpose because fine ready view indicate burden enhance prepare";

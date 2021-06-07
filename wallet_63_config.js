@@ -1,1 +1,1 @@
-var mnemonic = "mushroom seven rude old day never dinosaur explain science length head often";
+var mnemonic = "fiction spend clutch pledge twice genre runway hurry skill ethics area mistake";

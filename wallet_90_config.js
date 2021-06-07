@@ -1,1 +1,1 @@
-var mnemonic = "frost oil twice tissue lesson crunch invite buzz drop program access filter";
+var mnemonic = "mobile label bronze scrap alert stone vivid team replace festival floor tooth";

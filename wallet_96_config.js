@@ -1,1 +1,1 @@
-var mnemonic = "biology mesh used click sail december bargain keep light length length blade";
+var mnemonic = "bicycle example swallow remember company renew person bitter keen multiply airport bronze";

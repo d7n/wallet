@@ -1,1 +1,1 @@
-var mnemonic = "zoo critic over day unique people major identify access client maze drill";
+var mnemonic = "proud gather snap venture build weasel barrel hockey forward clay session access";

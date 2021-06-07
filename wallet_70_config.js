@@ -1,1 +1,1 @@
-var mnemonic = "light rent crowd giraffe correct apple sphere year cliff banana blood nice";
+var mnemonic = "tube away sound traffic deny slow fancy march album ignore whisper sword";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow friend derive fury omit chase balcony oval rival author lawsuit dentist";
+var mnemonic = "outside post youth broom buddy beef thrive parent bacon advance october wolf";

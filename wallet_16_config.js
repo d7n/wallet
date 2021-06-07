@@ -1,1 +1,1 @@
-var mnemonic = "empty donkey way demise city critic original beach grace flee educate undo";
+var mnemonic = "spring bronze dilemma injury face glass history muscle about bench warfare brain";

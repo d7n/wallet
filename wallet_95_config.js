@@ -1,1 +1,1 @@
-var mnemonic = "embrace picture resist phone hawk there host program original awake monitor body";
+var mnemonic = "indoor road bacon apart maid zebra kidney ramp giraffe neither unaware taxi";

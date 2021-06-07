@@ -1,1 +1,1 @@
-var mnemonic = "gate movie fox clutch apology funny foster theory whale tonight write kit";
+var mnemonic = "impose balance solve okay hundred coast tree asthma ball achieve decade attack";

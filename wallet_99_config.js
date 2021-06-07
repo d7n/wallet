@@ -1,1 +1,1 @@
-var mnemonic = "poverty cloud worth million bone measure corn age deputy region evil slender";
+var mnemonic = "black blame skirt estate response quit visit trend ankle modify width mountain";

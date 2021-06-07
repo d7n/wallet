@@ -1,1 +1,1 @@
-var mnemonic = "like enforce liquid else dad express actual return security swamp opera will";
+var mnemonic = "cereal hidden harsh general feed tired credit thing theory match eight buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "lab peace ski tenant notable faith pulse scrap stage opera donkey illegal";
+var mnemonic = "piano extra patch become gift jeans dignity unlock brain physical pluck fragile";

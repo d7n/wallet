@@ -1,1 +1,1 @@
-var mnemonic = "avoid neutral oxygen gossip neck attend tape town fruit faculty opera gap";
+var mnemonic = "strike awkward trick keep shell live radar fatal total put garment name";

@@ -1,1 +1,1 @@
-var mnemonic = "best salon square deer wear civil globe surprise talk noble helmet quit";
+var mnemonic = "ankle axis assist search eight during gym inmate shadow decide hello this";

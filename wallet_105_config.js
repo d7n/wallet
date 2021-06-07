@@ -1,1 +1,1 @@
-var mnemonic = "video jaguar panel bargain vague brief plunge awake lava sorry gown bid";
+var mnemonic = "wheat modify glory cup include mask put auction kingdom mountain curious divorce";

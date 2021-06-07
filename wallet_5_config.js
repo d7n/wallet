@@ -1,1 +1,1 @@
-var mnemonic = "divide end bean discover upon invest trick oppose behave own speed regret";
+var mnemonic = "flock violin again lava arctic hybrid embody logic boost fly brother earn";

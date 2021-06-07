@@ -1,1 +1,1 @@
-var mnemonic = "same tip spice tree few parrot athlete room ecology outside color carbon";
+var mnemonic = "discover escape hint river neither blouse pudding stool maze cancel wedding draw";

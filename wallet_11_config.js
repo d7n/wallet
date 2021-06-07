@@ -1,1 +1,1 @@
-var mnemonic = "give hurdle online script machine forward awake team soap girl check scheme";
+var mnemonic = "mass enact organ now country jewel illness shrug coin bike two artwork";

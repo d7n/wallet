@@ -1,1 +1,1 @@
-var mnemonic = "chronic dizzy hedgehog account safe horror solid cannon say spend infant swarm";
+var mnemonic = "mule flush club rate art praise nurse announce junior cabin satoshi famous";

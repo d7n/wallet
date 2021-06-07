@@ -1,1 +1,1 @@
-var mnemonic = "blood one void weapon arm tip seed recipe abandon avocado step unique";
+var mnemonic = "physical duck brother lunch reunion recipe hurdle motor kitchen degree lake ice";

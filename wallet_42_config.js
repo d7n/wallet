@@ -1,1 +1,1 @@
-var mnemonic = "menu favorite wine knee thank option plate crunch thunder coconut awesome piano";
+var mnemonic = "equal super merit smile win garbage annual plunge tiny gossip deputy canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "basket satoshi assist moment trumpet carpet fatal vessel elite slam column veteran";
+var mnemonic = "upper garbage soap matrix blood among forum crane expose either happy pelican";

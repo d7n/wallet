@@ -1,1 +1,1 @@
-var mnemonic = "talk sting earn skill brain purse total snow virus empty spray top";
+var mnemonic = "tumble ill example amused chalk inside crunch leg stuff invest illegal book";

@@ -1,1 +1,1 @@
-var mnemonic = "belt raven foil destroy live bachelor churn monster reunion hill session metal";
+var mnemonic = "crush rigid major mention industry cushion tortoise lab sick plunge innocent language";

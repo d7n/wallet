@@ -1,1 +1,1 @@
-var mnemonic = "jeans milk oxygen chief immense traffic float phrase latin item owner profit";
+var mnemonic = "meadow sand vehicle omit general donor shield crystal scissors purity art garden";

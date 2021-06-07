@@ -1,1 +1,1 @@
-var mnemonic = "entry fame have poet olive curious mother exotic female lounge profit issue";
+var mnemonic = "hawk mango brush option raise have ball frequent fame trouble zero devote";

@@ -1,1 +1,1 @@
-var mnemonic = "planet boil involve relax eight warfare bind frozen profit catch pair affair";
+var mnemonic = "error off parade scale federal inherit tunnel impact usual agent stamp perfect";

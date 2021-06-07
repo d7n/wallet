@@ -1,1 +1,1 @@
-var mnemonic = "royal claim strategy hazard debate armor woman lobster quick slow gentle circle";
+var mnemonic = "lecture noble edge silver version ocean square virus possible common broom wait";

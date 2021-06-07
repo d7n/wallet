@@ -1,1 +1,1 @@
-var mnemonic = "road ready damp february fox theme vault report proud layer that goddess";
+var mnemonic = "curtain party good hunt champion cereal work carry express citizen climb kid";

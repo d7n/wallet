@@ -1,1 +1,1 @@
-var mnemonic = "pair uncover tourist squeeze rose purpose unveil patch awkward adjust couch liquid";
+var mnemonic = "unit tower bench elevator gun dose afraid actual hour problem spell cargo";

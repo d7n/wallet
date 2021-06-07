@@ -1,1 +1,1 @@
-var mnemonic = "vocal gasp machine match drill sense similar demand flag remain palm cover";
+var mnemonic = "hand can rose desk divorce wagon bag sell cute artefact trouble unfold";

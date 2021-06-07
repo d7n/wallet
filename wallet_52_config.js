@@ -1,1 +1,1 @@
-var mnemonic = "bar tag lemon struggle cargo park wild claim soon message reject speed";
+var mnemonic = "radar edge bounce beef hawk stairs gasp april uncover crouch salmon genius";

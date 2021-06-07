@@ -1,1 +1,1 @@
-var mnemonic = "notable demise sphere eternal theory client imitate patch damp scale post stereo";
+var mnemonic = "mother bulk meat language mandate gravity coconut piano inject guide want where";

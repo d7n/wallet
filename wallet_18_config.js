@@ -1,1 +1,1 @@
-var mnemonic = "merit dose tool faint symbol soap bronze twenty hurt helmet corn fetch";
+var mnemonic = "stem just ladder leaf apology quote reject casual view barrel quarter goose";

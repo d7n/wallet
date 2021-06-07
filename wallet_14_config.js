@@ -1,1 +1,1 @@
-var mnemonic = "rabbit add pen nose average monkey neutral quarter rule pyramid crime range";
+var mnemonic = "method clinic ball crater move shop sand matrix apology daring ready provide";

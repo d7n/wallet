@@ -1,1 +1,1 @@
-var mnemonic = "broom achieve fortune panel subject boil maze extend twenty daring voice congress";
+var mnemonic = "ginger noble tell concert duty into plunge obey champion fold bargain image";

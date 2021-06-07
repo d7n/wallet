@@ -1,1 +1,1 @@
-var mnemonic = "lift same material great race thing enforce sport oval drip visit vault";
+var mnemonic = "country number melt seminar front life tube wheat demise civil switch eagle";

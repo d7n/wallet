@@ -1,1 +1,1 @@
-var mnemonic = "room frog gesture barrel sound banana bargain paddle globe fly setup word";
+var mnemonic = "pen exchange syrup blame wage provide monkey about question cement fossil mystery";

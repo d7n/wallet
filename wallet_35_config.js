@@ -1,1 +1,1 @@
-var mnemonic = "meadow world pill confirm hybrid people excess frozen gain safe bonus supreme";
+var mnemonic = "unhappy praise forum injury cream merry toddler twist also mad anxiety change";

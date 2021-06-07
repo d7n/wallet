@@ -1,1 +1,1 @@
-var mnemonic = "kidney exotic walk light knee copy device tape process breeze churn game";
+var mnemonic = "census humble key correct wrestle sphere update twist luxury frequent soup repair";

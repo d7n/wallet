@@ -1,1 +1,1 @@
-var mnemonic = "path neglect moral tobacco insane gas phone unlock equal wasp more edge";
+var mnemonic = "excess silly team diagram quiz captain idle ribbon top draw year kit";

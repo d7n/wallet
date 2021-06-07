@@ -1,1 +1,1 @@
-var mnemonic = "identify range vital tube prefer jacket media normal prefer tonight resource month";
+var mnemonic = "chest course control seek addict between taste robust life economy tone right";

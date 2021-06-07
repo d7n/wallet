@@ -1,1 +1,1 @@
-var mnemonic = "tragic veteran inner minimum tree arrange sleep idle gown net angry praise";
+var mnemonic = "victory yellow sugar extra surround ketchup drip brisk sound detect ketchup shed";

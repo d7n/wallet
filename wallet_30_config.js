@@ -1,1 +1,1 @@
-var mnemonic = "damp eternal trim keen repeat siren album couch industry wall observe message";
+var mnemonic = "trash minor quote cabbage crack tail guilt embark want buyer simple motion";

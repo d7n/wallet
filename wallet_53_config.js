@@ -1,1 +1,1 @@
-var mnemonic = "tortoise over treat tower napkin across enter episode bachelor oil chalk tired";
+var mnemonic = "curve divorce leave attack quick pipe kitchen error cause crime coast legend";

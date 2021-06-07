@@ -1,1 +1,1 @@
-var mnemonic = "race visual manual predict load search giggle hand next theme man gather";
+var mnemonic = "rookie bonus make pioneer pass safe lottery such float test party arch";

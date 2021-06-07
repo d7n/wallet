@@ -1,1 +1,1 @@
-var mnemonic = "joy agree avocado aware join hill mercy amused dumb sphere hybrid cliff";
+var mnemonic = "lady repeat credit churn tenant lens domain around supreme alone elevator february";

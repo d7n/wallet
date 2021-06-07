@@ -1,1 +1,1 @@
-var mnemonic = "swim stumble multiply pair swamp outside hockey arctic biology satoshi diary man";
+var mnemonic = "collect game deny wave ritual vapor travel walnut effort between tomato emotion";

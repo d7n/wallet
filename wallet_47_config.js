@@ -1,1 +1,1 @@
-var mnemonic = "crumble person capable direct brisk caught reduce supply extra story scene interest";
+var mnemonic = "burger lamp dirt accident term conduct disorder juice tiny fetch picnic stomach";

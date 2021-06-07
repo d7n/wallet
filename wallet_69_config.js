@@ -1,1 +1,1 @@
-var mnemonic = "virtual express sample oven orange fiscal wide duty unfair flame stairs shoot";
+var mnemonic = "scale asset eternal dream defense pipe decline proof left disorder oxygen fault";

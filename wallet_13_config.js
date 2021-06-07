@@ -1,1 +1,1 @@
-var mnemonic = "release gloom feed print equip replace derive caught solar present sunny chat";
+var mnemonic = "abandon thank approve what huge prefer cloth normal load hard solve rain";

@@ -1,1 +1,1 @@
-var mnemonic = "rare ozone anger below talent time library profit nice essence sorry lonely";
+var mnemonic = "unit alley bulb trust clarify sphere year blouse buffalo shop utility like";

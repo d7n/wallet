@@ -1,1 +1,1 @@
-var mnemonic = "crew minute brain educate famous badge purpose there intact wisdom cave tenant";
+var mnemonic = "please shy loyal tape match goddess session genre swear profit chunk impose";

@@ -1,1 +1,1 @@
-var mnemonic = "copy helmet cradle leisure patch have glide assume conduct unhappy certain grocery";
+var mnemonic = "endless file frown salad arm wave vendor talent friend because action abuse";

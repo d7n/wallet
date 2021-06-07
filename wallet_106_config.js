@@ -1,1 +1,1 @@
-var mnemonic = "genius unhappy belt job swarm reunion feel cycle crisp hole volume century";
+var mnemonic = "kangaroo dune funny taste tennis grass image gospel viable average pony yard";

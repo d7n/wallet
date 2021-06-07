@@ -1,1 +1,1 @@
-var mnemonic = "upper horse pizza stage uphold differ gift resource laptop prefer near depend";
+var mnemonic = "casual author drama brass plunge sort material minimum seat ghost never used";

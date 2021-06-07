@@ -1,1 +1,1 @@
-var mnemonic = "mesh notice cover admit leg any safe tissue benefit disagree front labor";
+var mnemonic = "amused void virtual come kite link spawn nothing crater practice finger custom";

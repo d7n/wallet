@@ -1,1 +1,1 @@
-var mnemonic = "hard mother merit axis course canyon fresh tuition merge combine faint tragic";
+var mnemonic = "learn fluid lounge monitor escape bone daring bamboo viable section payment morning";

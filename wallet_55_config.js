@@ -1,1 +1,1 @@
-var mnemonic = "lady connect oak label mix convince wave rib near busy lesson model";
+var mnemonic = "deal swarm weapon mom profit candy envelope mandate fence domain enroll coyote";

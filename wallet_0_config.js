@@ -1,1 +1,1 @@
-var mnemonic = "father solid rose inflict agree cradle drum scrap master stove goddess lunar";
+var mnemonic = "bring congress hint trip total help produce develop worry romance smooth width";

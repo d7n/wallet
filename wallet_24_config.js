@@ -1,1 +1,1 @@
-var mnemonic = "bomb soon gap industry ski hard decorate tornado solar teach bacon say";
+var mnemonic = "crack orbit record gallery travel head midnight member ripple cancel lesson dove";

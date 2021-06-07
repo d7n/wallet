@@ -1,1 +1,1 @@
-var mnemonic = "movie also eight island oven nose ridge inch intact repair detect eagle";
+var mnemonic = "legal smart city trumpet six weekend post please pride polar level clerk";

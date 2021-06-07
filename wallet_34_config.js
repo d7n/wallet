@@ -1,1 +1,1 @@
-var mnemonic = "gun drip ivory cabin ritual enlist ranch exit differ between spare whale";
+var mnemonic = "random style honey kiwi swamp payment used chat immune hurt harbor gorilla";

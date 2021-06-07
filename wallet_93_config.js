@@ -1,1 +1,1 @@
-var mnemonic = "bean quick foot swing version raccoon thumb upper kitchen diagram tool sponsor";
+var mnemonic = "lesson original lawsuit super empty dad tape quit garment borrow spell course";

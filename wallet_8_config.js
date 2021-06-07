@@ -1,1 +1,1 @@
-var mnemonic = "panic fortune domain spread undo comfort list rhythm flag dragon satoshi mule";
+var mnemonic = "build oil city frozen salt stove robot film day lonely memory wait";

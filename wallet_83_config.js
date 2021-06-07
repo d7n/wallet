@@ -1,1 +1,1 @@
-var mnemonic = "change virtual portion awake this kingdom hotel innocent fiber scissors master tuna";
+var mnemonic = "journey wife garden heart timber stomach quote hospital view setup adjust cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce print burst dwarf wrist black argue rice kitten broccoli road remind";
+var mnemonic = "sponsor front calm critic cart skill salmon wish stereo green reveal supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite hawk dinosaur clap fly spray panel stumble tooth just rather unfair";
+var mnemonic = "banner badge drift pulse later have romance foster moment craft clay grain";

@@ -1,1 +1,1 @@
-var mnemonic = "fit protect click monkey slab nuclear peasant adult vicious wreck vital vote";
+var mnemonic = "stool deliver gauge doll truly confirm worth lounge bicycle junk pull ordinary";

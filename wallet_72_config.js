@@ -1,1 +1,1 @@
-var mnemonic = "curtain tool grid kitten vibrant cute wife wonder lumber volume person black";
+var mnemonic = "oval sweet curve foster brother inmate rule bar reopen divorce sudden lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply replace garment eagle stool hammer artefact panther roof pencil blossom ill";
+var mnemonic = "ghost scale short indicate lend enough desert raw oak mean wife captain";

@@ -1,1 +1,1 @@
-var mnemonic = "kind man frog fade glue flight tourist quality crystal female expand shoulder";
+var mnemonic = "smoke follow mercy crowd evidence submit bacon anger unique struggle coyote dragon";

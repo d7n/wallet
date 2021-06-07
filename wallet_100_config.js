@@ -1,1 +1,1 @@
-var mnemonic = "uncover lesson purchase volcano energy wrap catalog ahead identify hurt cigar segment";
+var mnemonic = "vicious winner comfort now female crowd observe bomb assume into heavy escape";

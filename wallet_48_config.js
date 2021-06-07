@@ -1,1 +1,1 @@
-var mnemonic = "silver toy rescue aim sting dash donor supply nominee code useful cheap";
+var mnemonic = "buddy code mechanic mean detail fury worry nature consider valley bridge exact";

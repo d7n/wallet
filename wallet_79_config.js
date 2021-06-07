@@ -1,1 +1,1 @@
-var mnemonic = "radar muscle hand deer liberty web uncle picture valley illness atom current";
+var mnemonic = "letter inflict never range essence barrel soda client judge evidence kitchen day";

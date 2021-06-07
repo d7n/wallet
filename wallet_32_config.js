@@ -1,1 +1,1 @@
-var mnemonic = "transfer ostrich grocery other museum plunge fan enjoy else carpet cupboard hurt";
+var mnemonic = "pencil brass tiger language bright drop task fatal raccoon turkey found idle";
