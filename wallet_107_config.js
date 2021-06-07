@@ -1,1 +1,1 @@
-var mnemonic = "fiber kitten lawsuit accuse clarify ill bright glance uncover ignore mobile praise";
+var mnemonic = "atom company forget trial sick lion rigid blur away finger wheel fatal";

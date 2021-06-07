@@ -1,1 +1,1 @@
-var mnemonic = "antique discover fiction image grow unveil energy spoon evidence smoke chest claw";
+var mnemonic = "travel unable page cube husband light rifle lunar destroy veteran eyebrow sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "educate cross debate vehicle sword act deer scrap tiger eye body unaware";
+var mnemonic = "impact creek grow police key gold dirt bridge sure road course syrup";

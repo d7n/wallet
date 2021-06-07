@@ -1,1 +1,1 @@
-var mnemonic = "repeat blue divorce tube hamster episode save skin into clip tone monitor";
+var mnemonic = "brother chronic bench alarm ethics drive play cry chest welcome canal loop";

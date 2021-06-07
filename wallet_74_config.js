@@ -1,1 +1,1 @@
-var mnemonic = "pill sight lesson picnic fatal fix slice detect veteran teach baby plunge";
+var mnemonic = "flush lounge spatial air faculty length index draft virtual junk shoot ostrich";

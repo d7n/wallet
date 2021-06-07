@@ -1,1 +1,1 @@
-var mnemonic = "pencil profit flag law parade recipe urban candy fortune wall sport sudden";
+var mnemonic = "subject lift ability artist future midnight must boil weapon into shove donor";

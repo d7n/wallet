@@ -1,1 +1,1 @@
-var mnemonic = "traffic enlist noise document deer lunar club zero boost ocean search lady";
+var mnemonic = "load farm flush poverty pigeon champion town scan trophy method ramp mom";

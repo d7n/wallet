@@ -1,1 +1,1 @@
-var mnemonic = "pizza cradle involve concert robot blame wrap involve unknown permit swarm vacuum";
+var mnemonic = "nut glad barely turkey poem mandate dizzy volcano unveil erupt melt such";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch bunker okay spy thrive erosion endorse claw increase inmate version doll";
+var mnemonic = "erode visa loyal couple verify liquid dash smooth rocket palm refuse tank";

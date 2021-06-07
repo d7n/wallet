@@ -1,1 +1,1 @@
-var mnemonic = "quote wide coconut service owner fix rely answer escape cruise dose neglect";
+var mnemonic = "depart eyebrow retreat monitor cloth feature banner bench story upgrade light shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant random basic this come inquiry depart head sense amount item autumn";
+var mnemonic = "walk horn series fade cigar excuse firm hand already aunt wealth gun";

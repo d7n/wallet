@@ -1,1 +1,1 @@
-var mnemonic = "humble female donkey material seven cave upon drift erupt deer ozone affair";
+var mnemonic = "vehicle forest sausage dune acquire mimic foot element report diet clever access";

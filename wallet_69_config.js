@@ -1,1 +1,1 @@
-var mnemonic = "right lady nut very thrive occur planet drink away hint upgrade toe";
+var mnemonic = "hour song mention knock dilemma divorce happy habit okay nothing spice real";

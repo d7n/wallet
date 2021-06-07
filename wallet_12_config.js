@@ -1,1 +1,1 @@
-var mnemonic = "lion ordinary elevator drastic keen acid glue wonder boat grass one front";
+var mnemonic = "arctic follow actual lazy hawk bridge solid acquire frame nest option mad";

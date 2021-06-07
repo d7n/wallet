@@ -1,1 +1,1 @@
-var mnemonic = "maximum kiss donate picture staff wire post gorilla hair together code faint";
+var mnemonic = "harsh unknown estate release debate item conduct pride enter furnace injury intact";

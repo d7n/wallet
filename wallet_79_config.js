@@ -1,1 +1,1 @@
-var mnemonic = "toy actor zero language wool afraid midnight bomb arrive fence fruit hamster";
+var mnemonic = "supply vault faith flag crisp report biology bargain shell cry home elbow";

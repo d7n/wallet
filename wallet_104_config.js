@@ -1,1 +1,1 @@
-var mnemonic = "chimney blanket tree into squeeze gather surprise mother whisper reopen gold tornado";
+var mnemonic = "rain switch monkey heart wage vehicle doll fold uncover palace measure debate";

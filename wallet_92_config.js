@@ -1,1 +1,1 @@
-var mnemonic = "nut scale army wine item scrap wait monitor gift soul crumble obtain";
+var mnemonic = "area age exercise talent give top purpose bicycle behind match jungle wrong";

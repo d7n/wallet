@@ -1,1 +1,1 @@
-var mnemonic = "beef universe tube post need clown awkward narrow field grab wheel blur";
+var mnemonic = "visit luggage chimney october perfect page parade erosion urban mosquito tilt across";

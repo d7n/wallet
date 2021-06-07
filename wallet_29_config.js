@@ -1,1 +1,1 @@
-var mnemonic = "antique bind galaxy forum damage subway vocal silk input style subway wise";
+var mnemonic = "length hard girl mimic arena close vehicle index aerobic jaguar invite rural";

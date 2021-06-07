@@ -1,1 +1,1 @@
-var mnemonic = "will tube antique few settle exotic border will depend canal potato advice";
+var mnemonic = "enable typical begin cause dash steel green area ordinary scheme blouse crouch";

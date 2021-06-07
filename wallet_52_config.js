@@ -1,1 +1,1 @@
-var mnemonic = "voice sound short royal ceiling burst ladder festival rain climb couple prevent";
+var mnemonic = "clinic setup voice sibling attitude find bonus task couch useful service fame";

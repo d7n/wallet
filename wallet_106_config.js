@@ -1,1 +1,1 @@
-var mnemonic = "below sentence lion panther baby help jazz shine useful major exhaust canoe";
+var mnemonic = "amateur note system miss scissors bar van shaft hammer symbol question actor";

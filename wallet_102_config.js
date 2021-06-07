@@ -1,1 +1,1 @@
-var mnemonic = "dinner shield clever assault sound march seed labor own baby bright hedgehog";
+var mnemonic = "ice nice olympic execute odor heart empower alone crucial hint arctic jacket";

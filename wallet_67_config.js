@@ -1,1 +1,1 @@
-var mnemonic = "egg design differ hazard true era clock inner advice retreat glimpse typical";
+var mnemonic = "slight fringe ticket mother rule jewel mercy volcano rival moon unlock capital";

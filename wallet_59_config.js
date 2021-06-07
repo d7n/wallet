@@ -1,1 +1,1 @@
-var mnemonic = "attract accuse then yard pupil filter warm tube wood legend embrace chef";
+var mnemonic = "boat slow struggle rival street foam theme resist youth poet struggle law";

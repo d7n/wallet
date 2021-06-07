@@ -1,1 +1,1 @@
-var mnemonic = "artefact spice glove number bless genre keep census alcohol dice awful grace";
+var mnemonic = "smoke sorry genre youth acid box nerve coach smile hope crystal annual";

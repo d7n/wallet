@@ -1,1 +1,1 @@
-var mnemonic = "fruit input receive reflect message stereo habit burst economy undo zero citizen";
+var mnemonic = "parrot document wing hamster fade duck lava raccoon approve bulk detail fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "zone wheat copper mouse fever jelly rail panda stamp consider you field";
+var mnemonic = "fold grain issue legal away typical best embody purchase robust maze bread";

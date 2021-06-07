@@ -1,1 +1,1 @@
-var mnemonic = "under wild boring narrow access syrup duty curve sell sphere flush floor";
+var mnemonic = "slush demise frequent canoe cheap whale noodle volcano seat dolphin salt kidney";

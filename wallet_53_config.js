@@ -1,1 +1,1 @@
-var mnemonic = "vault decrease figure quality butter stumble enact identify direct hunt grow bleak";
+var mnemonic = "broken huge recall unusual genuine execute huge oblige zebra crane casino forum";

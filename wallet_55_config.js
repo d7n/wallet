@@ -1,1 +1,1 @@
-var mnemonic = "trade lucky bicycle profit recall faith wrestle repeat already plastic lens wink";
+var mnemonic = "fit alien dismiss brisk ignore hello disease require random recipe brand basic";

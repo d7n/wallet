@@ -1,1 +1,1 @@
-var mnemonic = "rug addict detect swarm layer broom output business ugly boil recall worth";
+var mnemonic = "hobby siren magnet market lyrics creek voice social motion spare young prosper";

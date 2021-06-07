@@ -1,1 +1,1 @@
-var mnemonic = "whip wolf avocado crawl car embody alpha kiss evidence equip lion degree";
+var mnemonic = "trouble town young spike just gospel sound come fork dentist pulse kiss";

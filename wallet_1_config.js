@@ -1,1 +1,1 @@
-var mnemonic = "bottom absent live tower vague drill language check ozone bottom blade debate";
+var mnemonic = "reward much mask face develop trouble puzzle achieve unfair sustain half improve";

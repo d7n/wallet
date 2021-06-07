@@ -1,1 +1,1 @@
-var mnemonic = "cushion like enrich cloud hidden dream purse cluster move diary want evoke";
+var mnemonic = "grace velvet kitten dial fame lumber silly amused grant runway upgrade exchange";

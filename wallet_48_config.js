@@ -1,1 +1,1 @@
-var mnemonic = "know pull cost shrimp evolve eight demise goose position circle tongue entry";
+var mnemonic = "social coral fragile damage science misery daughter coil industry column rigid cruel";

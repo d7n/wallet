@@ -1,1 +1,1 @@
-var mnemonic = "unveil say learn initial pulp print random odor rhythm feel disease guess";
+var mnemonic = "afford draft transfer arch verb minute alert accuse wolf beyond alien area";

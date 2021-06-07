@@ -1,1 +1,1 @@
-var mnemonic = "nasty celery trash wave waste uncle possible casino slab equip region verify";
+var mnemonic = "protect twenty embrace future shell accident bargain display sting power argue dish";

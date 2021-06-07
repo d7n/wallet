@@ -1,1 +1,1 @@
-var mnemonic = "high isolate solution shop solution drive tuition road exercise february witness car";
+var mnemonic = "broom day pottery method ketchup praise ocean food tobacco enable memory floor";

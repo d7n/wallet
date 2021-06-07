@@ -1,1 +1,1 @@
-var mnemonic = "funny sound coral pair skate gloom uniform hat father cable hurt camp";
+var mnemonic = "pattern spoil fresh head equip clock auto grace nasty method carry frost";

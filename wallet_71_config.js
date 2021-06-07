@@ -1,1 +1,1 @@
-var mnemonic = "pill unusual club cross bread follow draft base innocent episode intact pony";
+var mnemonic = "quantum clerk sense wait verb execute ghost raven flower ticket reform nest";

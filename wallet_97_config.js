@@ -1,1 +1,1 @@
-var mnemonic = "grain either multiply endorse asset twelve cave cushion hazard grace endorse mention";
+var mnemonic = "secret right together size title famous action news duck metal arrest feel";

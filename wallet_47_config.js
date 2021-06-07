@@ -1,1 +1,1 @@
-var mnemonic = "ice ahead square weather agree episode weapon situate speak embody include junk";
+var mnemonic = "spend height exist champion tribe quick win tube skin recycle bachelor sudden";

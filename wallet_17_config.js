@@ -1,1 +1,1 @@
-var mnemonic = "peace decline garage scout fence physical bitter tackle cook spend slush misery";
+var mnemonic = "pole choice stairs ghost bird profit arm unfold bulb woman tissue old";

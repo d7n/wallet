@@ -1,1 +1,1 @@
-var mnemonic = "frozen bounce exercise push asthma rose exchange gauge foil fold destroy derive";
+var mnemonic = "combine brick hero scissors post vapor sniff profit again jealous oyster caution";

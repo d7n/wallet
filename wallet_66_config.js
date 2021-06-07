@@ -1,1 +1,1 @@
-var mnemonic = "cup deposit want zone edge visit soccer purchase permit assume ranch lab";
+var mnemonic = "march upon menu sort salute kidney blush gym axis velvet april file";

@@ -1,1 +1,1 @@
-var mnemonic = "toe purity army device price light grunt tomato leader say void uncle";
+var mnemonic = "legend sadness asset scatter pool tired ramp mouse escape mansion half wisdom";

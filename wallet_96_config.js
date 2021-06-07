@@ -1,1 +1,1 @@
-var mnemonic = "express pig access truck fan drink document cry favorite tip quick retire";
+var mnemonic = "build waste warrior pond twice april mom roof angle parade foot indoor";

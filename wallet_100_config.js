@@ -1,1 +1,1 @@
-var mnemonic = "razor foot panic robot cupboard traffic family asthma nose patrol oppose love";
+var mnemonic = "exit supply beauty stumble output paper pill exact fossil mix clump print";

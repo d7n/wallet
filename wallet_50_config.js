@@ -1,1 +1,1 @@
-var mnemonic = "enter accuse loud bone private armed matter man owner program verb evoke";
+var mnemonic = "tent medal potato lift science apart risk victory mechanic possible lemon lyrics";

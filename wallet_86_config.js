@@ -1,1 +1,1 @@
-var mnemonic = "alien cross express record own fog nothing enjoy auction employ recycle bind";
+var mnemonic = "sample about rich leisure reward dirt oppose able tongue trophy believe couple";

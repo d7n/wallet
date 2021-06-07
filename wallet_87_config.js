@@ -1,1 +1,1 @@
-var mnemonic = "hamster blur shock become insect random odor salad tag supply leader animal";
+var mnemonic = "betray bonus add impact culture liquid oblige abstract private chase despair weapon";

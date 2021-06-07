@@ -1,1 +1,1 @@
-var mnemonic = "nest repeat throw someone gift piano enter approve link goat stock excess";
+var mnemonic = "bonus high maple blame assist kick divide gaze system portion hill cheese";

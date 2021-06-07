@@ -1,1 +1,1 @@
-var mnemonic = "visa trash mean spice reduce rice sport rubber spend organ poverty amazing";
+var mnemonic = "divorce aerobic please creek help tornado primary journey confirm twin scheme album";

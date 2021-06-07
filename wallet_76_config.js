@@ -1,1 +1,1 @@
-var mnemonic = "swim type tired display report erosion across marble liberty return napkin sniff";
+var mnemonic = "leisure hobby please dune before buyer announce floor evolve bacon blade violin";

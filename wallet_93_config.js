@@ -1,1 +1,1 @@
-var mnemonic = "acoustic oil skull thrive fat tiger afford mother grow pluck catch feed";
+var mnemonic = "about this select dove skate modify glory echo awkward ranch tool excess";

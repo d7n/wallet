@@ -1,1 +1,1 @@
-var mnemonic = "island before airport soldier alcohol public path people valid few address actor";
+var mnemonic = "robust hedgehog busy roof bacon invite month level better jacket found shrimp";

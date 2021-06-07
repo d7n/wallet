@@ -1,1 +1,1 @@
-var mnemonic = "monster uphold mirror just crater glance layer tower traffic bomb guess angry";
+var mnemonic = "crack average piece outdoor move blame exhaust decline dismiss empower sure lazy";

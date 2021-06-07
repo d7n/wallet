@@ -1,1 +1,1 @@
-var mnemonic = "infant cloud lucky cover axis foam carpet deny easily direct sample limb";
+var mnemonic = "enlist appear few eye cram box entire stamp window require valve thought";

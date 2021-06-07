@@ -1,1 +1,1 @@
-var mnemonic = "inside private quit pilot suffer monitor tribe valve pact swift swap feel";
+var mnemonic = "display remain arch expose flip despair suggest pony final forum maze tonight";

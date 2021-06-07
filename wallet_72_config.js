@@ -1,1 +1,1 @@
-var mnemonic = "sphere box huge figure decrease steel real cousin celery quick rose father";
+var mnemonic = "cereal tissue cabin when fault trophy describe fruit wide adult slice subway";

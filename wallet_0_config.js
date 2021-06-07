@@ -1,1 +1,1 @@
-var mnemonic = "boss casino local garden reward luggage chuckle concert lazy demand photo basket";
+var mnemonic = "mask fish agree stock donkey image slam potato fish inner uncle erupt";

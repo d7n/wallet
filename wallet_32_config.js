@@ -1,1 +1,1 @@
-var mnemonic = "route attack sea unfair enjoy stem apology argue all people expire oven";
+var mnemonic = "wool sun machine pact mystery place quick hire off essence busy soap";

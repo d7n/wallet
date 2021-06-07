@@ -1,1 +1,1 @@
-var mnemonic = "total tide myself easy page dismiss hurt mind melody squeeze now casino";
+var mnemonic = "truck slender walk duty market core matrix delay hawk diagram piece sustain";

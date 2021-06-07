@@ -1,1 +1,1 @@
-var mnemonic = "anxiety item thought fantasy river gesture remove file cause sustain burst duck";
+var mnemonic = "put olympic december abandon soft wash large lock ivory sort scissors dial";

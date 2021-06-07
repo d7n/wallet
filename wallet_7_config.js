@@ -1,1 +1,1 @@
-var mnemonic = "possible youth audit usage film quantum picnic kitchen catch other dry gentle";
+var mnemonic = "gospel collect what admit space stove avocado heavy negative tornado leg tonight";

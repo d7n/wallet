@@ -1,1 +1,1 @@
-var mnemonic = "expect lava question push nothing stumble effort smile cancel object chalk target";
+var mnemonic = "flash during season message loud refuse sweet citizen voyage praise spring couple";

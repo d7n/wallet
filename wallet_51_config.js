@@ -1,1 +1,1 @@
-var mnemonic = "question salt belt release wolf useful law first wrong humor lounge bacon";
+var mnemonic = "day tiny swap urban oxygen patrol romance rose net fix during feature";

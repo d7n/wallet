@@ -1,1 +1,1 @@
-var mnemonic = "snow wild olive alone carry exchange off trumpet place sphere law gossip";
+var mnemonic = "oxygen around check dinosaur hero cheese exist raise catalog uncle circle settle";

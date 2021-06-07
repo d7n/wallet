@@ -1,1 +1,1 @@
-var mnemonic = "ordinary cool vendor roof end kind prison provide excite cancel ecology vacuum";
+var mnemonic = "wire eagle remind glue blush sea escape obey random glare hold pull";

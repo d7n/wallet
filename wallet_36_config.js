@@ -1,1 +1,1 @@
-var mnemonic = "hurry robust lion churn page dinosaur used render abandon protect battle hour";
+var mnemonic = "fury affair match tuna bike love ten cool avoid board hungry buzz";

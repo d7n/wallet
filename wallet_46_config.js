@@ -1,1 +1,1 @@
-var mnemonic = "armor six deputy category rubber bean diary walnut alarm police side comfort";
+var mnemonic = "endorse brief wedding health width object valve release song hello embody bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "rib flight fluid deal wonder until couch excuse oyster flavor figure garden";
+var mnemonic = "view team else brother modify kitchen spirit planet blast fade pass dirt";

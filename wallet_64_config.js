@@ -1,1 +1,1 @@
-var mnemonic = "walk cloud ask mimic grain fold twelve craft ranch dinner cotton capable";
+var mnemonic = "orange adult maid have jelly combine fork benefit initial sunset news own";

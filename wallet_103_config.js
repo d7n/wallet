@@ -1,1 +1,1 @@
-var mnemonic = "isolate devote vocal bright catch drama grocery cruise toddler school bottom now";
+var mnemonic = "like ripple prepare student walk thumb human bitter fluid credit ball success";

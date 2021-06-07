@@ -1,1 +1,1 @@
-var mnemonic = "hope submit purpose tube ten vibrant sock wait pledge blouse exercise erase";
+var mnemonic = "glove lend laugh remove quantum nest false barely trick put evil relief";

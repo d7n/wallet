@@ -1,1 +1,1 @@
-var mnemonic = "grunt suspect pet grunt dice curtain zone hand provide leave hire exclude";
+var mnemonic = "wide pride planet dutch still profit express title find moral tourist velvet";

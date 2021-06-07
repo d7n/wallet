@@ -1,1 +1,1 @@
-var mnemonic = "maze scene pear clay valid bus cricket crouch federal pipe derive warm";
+var mnemonic = "elephant bracket attend erode damp nerve royal parent repeat wagon silver cart";

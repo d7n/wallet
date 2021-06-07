@@ -1,1 +1,1 @@
-var mnemonic = "seat hire calm adjust milk tongue phone wreck vacant control super tomorrow";
+var mnemonic = "purse tag illness derive paper elder auto drink prison word culture job";

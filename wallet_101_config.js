@@ -1,1 +1,1 @@
-var mnemonic = "legal reveal club prize planet radio seed need museum funny file sick";
+var mnemonic = "that box true chapter pudding venture author pottery evoke year tape sauce";

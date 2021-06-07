@@ -1,1 +1,1 @@
-var mnemonic = "still three broken twelve glove ankle pulp affair inner because fringe equip";
+var mnemonic = "aware useful salad arch cradle memory water route salute alarm crop engage";

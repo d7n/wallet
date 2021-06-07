@@ -1,1 +1,1 @@
-var mnemonic = "vintage giggle nose quit bike huge select pig result journey alcohol chef";
+var mnemonic = "bounce damage battle thank loyal public poem insane worry page cake banana";

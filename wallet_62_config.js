@@ -1,1 +1,1 @@
-var mnemonic = "agree tennis menu nut option defense green cabin calm deer sting elephant";
+var mnemonic = "air obey stove degree assist girl stereo throw hint board panther pride";

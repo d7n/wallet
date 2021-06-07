@@ -1,1 +1,1 @@
-var mnemonic = "shallow lumber parade morning trumpet they woman aim human bicycle seed miss";
+var mnemonic = "judge mistake outside fault gate narrow lottery spirit delay talent merge quote";

@@ -1,1 +1,1 @@
-var mnemonic = "time pen crisp mom bounce wine sunset cattle pair now zoo wrist";
+var mnemonic = "delay brisk night promote fiber wrap enact female flower slow brief october";

@@ -1,1 +1,1 @@
-var mnemonic = "pause immune giant dune kiss simple sting ecology banner birth glory shop";
+var mnemonic = "fit awesome globe wheel grab away enter inside soda engage soda poem";
