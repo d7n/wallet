@@ -1,1 +1,1 @@
-var mnemonic = "salmon innocent stable boil license rely scrap plate among verb improve office";
+var mnemonic = "harvest slide grab ozone split scout country benefit luggage health barely mushroom";

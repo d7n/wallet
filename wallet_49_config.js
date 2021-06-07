@@ -1,1 +1,1 @@
-var mnemonic = "shine buffalo best bonus timber frost meat position today runway ramp wear";
+var mnemonic = "box tag industry hurdle carpet onion various this awake sketch possible ancient";

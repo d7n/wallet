@@ -1,1 +1,1 @@
-var mnemonic = "length chronic crater volume island other cactus once frozen push tag armed";
+var mnemonic = "foot only raccoon fossil feature climb feed useful design cruise army flag";

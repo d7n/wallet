@@ -1,1 +1,1 @@
-var mnemonic = "mobile mimic purchase hidden bone entire leisure obey hundred owner wire castle";
+var mnemonic = "seed drastic balance device step mammal column actress column holiday thought flavor";

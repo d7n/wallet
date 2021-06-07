@@ -1,1 +1,1 @@
-var mnemonic = "song paddle venue tomato leave buyer page swallow scheme knee pumpkin hire";
+var mnemonic = "attack polar void song total river book marine abandon crash rescue gold";

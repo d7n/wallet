@@ -1,1 +1,1 @@
-var mnemonic = "away tribe skirt path tomorrow noise angle sweet easy dream hole ankle";
+var mnemonic = "dune wool deal clean cloud mirror blush hamster acoustic galaxy spread toward";

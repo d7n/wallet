@@ -1,1 +1,1 @@
-var mnemonic = "tell attack hollow tonight warrior wheat mango acoustic summer lunch machine venue";
+var mnemonic = "private library region rocket impact poem rural never physical punch liar frog";

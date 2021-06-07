@@ -1,1 +1,1 @@
-var mnemonic = "girl pony include dice find elder wool lake robust mask frown kid";
+var mnemonic = "evidence goddess kitchen direct hill tuition farm praise lunch silk employ blanket";

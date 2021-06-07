@@ -1,1 +1,1 @@
-var mnemonic = "rude pole shield trouble mind regret special scatter praise march motor often";
+var mnemonic = "slam salute outer crime olympic useless fluid wear praise field nest camera";

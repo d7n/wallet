@@ -1,1 +1,1 @@
-var mnemonic = "property jelly throw soup extra control fall level minor regular reason adult";
+var mnemonic = "horn section such sleep menu near enough daughter warfare useful hurry neck";

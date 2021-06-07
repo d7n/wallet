@@ -1,1 +1,1 @@
-var mnemonic = "kiss limb where credit gloom spy capable huge before toward shield filter";
+var mnemonic = "dutch dutch impact artefact fun left black physical celery ten length narrow";

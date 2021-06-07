@@ -1,1 +1,1 @@
-var mnemonic = "afford orphan reveal legal consider afford woman mom cloth review enforce payment";
+var mnemonic = "zoo sword divorce fog beyond flat rescue tent size impose canal frog";

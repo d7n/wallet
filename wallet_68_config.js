@@ -1,1 +1,1 @@
-var mnemonic = "urge obvious deliver fabric audit oblige parent coyote crunch defy sad solid";
+var mnemonic = "slab taste spell account album target mixture apology logic settle fossil young";

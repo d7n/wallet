@@ -1,1 +1,1 @@
-var mnemonic = "eternal dwarf lock grid taste design add honey book pumpkin diet appear";
+var mnemonic = "cage style sort brave notable salon bachelor hazard escape tent online still";

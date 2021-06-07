@@ -1,1 +1,1 @@
-var mnemonic = "enlist bridge body fat warrior grab faculty chase whip age quality vendor";
+var mnemonic = "toe uncle wheat sorry farm size spoil sun degree develop game axis";

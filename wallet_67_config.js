@@ -1,1 +1,1 @@
-var mnemonic = "dynamic cream easily street turkey girl endless fury unknown shallow flash symptom";
+var mnemonic = "very matter bubble talent actress insect spawn danger truth claim obtain actual";

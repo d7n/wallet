@@ -1,1 +1,1 @@
-var mnemonic = "repair rib enhance oval cheap retire winter report escape cousin wall chicken";
+var mnemonic = "draw one guess original food elevator wait salute tape insane critic fury";

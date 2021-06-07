@@ -1,1 +1,1 @@
-var mnemonic = "frequent isolate clay staff various wonder patch involve boring midnight rose merge";
+var mnemonic = "west fancy dutch exotic alien write true defy century jealous sense meat";

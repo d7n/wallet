@@ -1,1 +1,1 @@
-var mnemonic = "way enough develop rebel refuse nest soap keep street rapid grace aware";
+var mnemonic = "bike deer crawl vapor snow oyster tail pottery december help trophy rate";

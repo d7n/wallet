@@ -1,1 +1,1 @@
-var mnemonic = "lock clean occur polar inform hungry give ready sock buddy cube excite";
+var mnemonic = "help sample indoor chest cheap valley diamond sea dwarf kitchen famous anger";

@@ -1,1 +1,1 @@
-var mnemonic = "wine orphan parrot satoshi pyramid pumpkin body trouble helmet doctor raw reunion";
+var mnemonic = "grape web scan penalty nest suffer elevator accuse gaze leopard result appear";

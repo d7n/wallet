@@ -1,1 +1,1 @@
-var mnemonic = "recipe tilt liar run outdoor develop plastic ranch shrug agent hobby damp";
+var mnemonic = "skill reopen famous burst organ course someone add diet argue escape slim";

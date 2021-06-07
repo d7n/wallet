@@ -1,1 +1,1 @@
-var mnemonic = "story jacket once forward since cradle hat ridge draw syrup ability theory";
+var mnemonic = "inform laugh parrot stay risk twenty oppose say artefact airport bottom mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "will crisp peasant accident mango glue arctic range churn position risk girl";
+var mnemonic = "trick hover crash puppy cattle onion behave blue swallow fun avoid close";

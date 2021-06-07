@@ -1,1 +1,1 @@
-var mnemonic = "patrol motion cool risk dish arctic glass dose lyrics number wrist reflect";
+var mnemonic = "like deny sting security program supreme unable walnut winner mixture coffee pelican";

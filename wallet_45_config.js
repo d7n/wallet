@@ -1,1 +1,1 @@
-var mnemonic = "pull veteran prison erosion teach order paper robust soldier neglect tennis bone";
+var mnemonic = "away swim raven title sugar derive slim earn fashion social island end";

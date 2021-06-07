@@ -1,1 +1,1 @@
-var mnemonic = "come rice ramp youth arena then learn remember chimney lesson tank vessel";
+var mnemonic = "pretty brush engage woman surge jazz awkward raven odor level diary flag";

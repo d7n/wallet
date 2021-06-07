@@ -1,1 +1,1 @@
-var mnemonic = "own bundle science rebel genius collect fatal sure athlete carbon asset loyal";
+var mnemonic = "ignore erase turkey guitar exact inside clerk smart until picture play soccer";

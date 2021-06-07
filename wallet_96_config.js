@@ -1,1 +1,1 @@
-var mnemonic = "tooth message grace prize essay enhance turtle doll limit duty public legal";
+var mnemonic = "define bring range uncover salmon cloth crucial bless deal brass decrease despair";

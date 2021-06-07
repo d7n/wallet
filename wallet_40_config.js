@@ -1,1 +1,1 @@
-var mnemonic = "only blame priority rice unhappy catch image limit puzzle trash question clay";
+var mnemonic = "spike year snow remove punch disease indicate segment mammal range convince assist";

@@ -1,1 +1,1 @@
-var mnemonic = "arch luggage rent memory expose tunnel tumble credit purse clerk apple fashion";
+var mnemonic = "kidney tobacco luxury afraid apart normal rabbit giggle alpha obey border blood";

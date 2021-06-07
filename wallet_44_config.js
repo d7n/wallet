@@ -1,1 +1,1 @@
-var mnemonic = "beef electric below dinner chimney village tunnel shell coil shy appear more";
+var mnemonic = "toddler tube blind mom fall tooth basic choose monster enroll eight indicate";

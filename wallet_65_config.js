@@ -1,1 +1,1 @@
-var mnemonic = "web empty satoshi artist swallow fury detect film concert cushion nurse romance";
+var mnemonic = "alarm relax happy cliff clever suit then curve mind echo punch sleep";

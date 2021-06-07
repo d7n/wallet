@@ -1,1 +1,1 @@
-var mnemonic = "retreat canvas best best knife device adult lazy march toss obvious cliff";
+var mnemonic = "glove federal bounce junior potato slush finger half crowd light dentist onion";

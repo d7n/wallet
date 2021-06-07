@@ -1,1 +1,1 @@
-var mnemonic = "void olympic cross month sort isolate empty exotic stable exact north crystal";
+var mnemonic = "wall kind wear follow amateur silk cube vacant limb online risk faint";

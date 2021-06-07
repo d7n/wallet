@@ -1,1 +1,1 @@
-var mnemonic = "success oak bone increase identify guilt fade midnight answer slide dilemma join";
+var mnemonic = "tray finish march foot talent garbage stay city noise gather bench wall";

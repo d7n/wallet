@@ -1,1 +1,1 @@
-var mnemonic = "obvious solve bench sport tennis ignore same man recipe dirt opinion ritual";
+var mnemonic = "exit unit another hill muffin mask advance indicate tongue gravity honey slide";

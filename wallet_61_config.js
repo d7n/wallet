@@ -1,1 +1,1 @@
-var mnemonic = "nose rich wash memory stadium safe surprise trust sword observe supply wing";
+var mnemonic = "paper margin feel slot discover upper page color cargo mass ugly expand";

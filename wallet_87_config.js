@@ -1,1 +1,1 @@
-var mnemonic = "degree slide record naive market lady topple jump trash sport any achieve";
+var mnemonic = "vocal lawn typical screen sauce soon resist ask ten rough protect virus";

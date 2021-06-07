@@ -1,1 +1,1 @@
-var mnemonic = "remove matrix chicken input wrist man scout public double spray office bunker";
+var mnemonic = "purse submit sail donkey youth garage wasp physical dragon height improve culture";

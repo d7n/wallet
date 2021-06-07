@@ -1,1 +1,1 @@
-var mnemonic = "claim drop hospital social humor clever mouse practice dial rigid six display";
+var mnemonic = "scan rhythm accuse average analyst wheel video sun under gesture quality bulk";

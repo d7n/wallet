@@ -1,1 +1,1 @@
-var mnemonic = "exotic dial whale subway vocal connect monkey way donate habit hire want";
+var mnemonic = "eye cotton upon priority truth gaze merry make once menu ice sun";

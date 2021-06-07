@@ -1,1 +1,1 @@
-var mnemonic = "breeze grid paddle fresh lazy private social still board destroy race infant";
+var mnemonic = "enter stool gift bone describe correct album crew liberty pact upon lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "call image birth return gold city metal average try organ real daughter";
+var mnemonic = "spell stuff quick acid draw alien nature fantasy write badge essay develop";

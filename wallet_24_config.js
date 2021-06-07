@@ -1,1 +1,1 @@
-var mnemonic = "dog follow dice scheme match fix hip fat legal unhappy notable hockey";
+var mnemonic = "physical toast exotic hockey jelly valve stairs devote twin angry grass pretty";

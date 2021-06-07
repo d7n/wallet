@@ -1,1 +1,1 @@
-var mnemonic = "culture unit assault eager kite increase sketch myth bus dragon tell tree";
+var mnemonic = "promote hunt adjust tree feel act pioneer penalty tone caught spell betray";

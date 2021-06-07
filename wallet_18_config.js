@@ -1,1 +1,1 @@
-var mnemonic = "winner wide crush rally spirit vague world daughter ability little orange miss";
+var mnemonic = "theory lunar property upper level kiss blossom embark because guilt flat burden";

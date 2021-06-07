@@ -1,1 +1,1 @@
-var mnemonic = "buffalo fetch banner sorry inhale remind powder intact warfare often tent convince";
+var mnemonic = "usage vague cherry cook solve wall duck moon stock enjoy employ rescue";

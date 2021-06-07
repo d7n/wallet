@@ -1,1 +1,1 @@
-var mnemonic = "youth blush seek turn pave embark wrist viable purse room cost urge";
+var mnemonic = "provide curtain purity hour burst lamp slam option health curve enroll cattle";

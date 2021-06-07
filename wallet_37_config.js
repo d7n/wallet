@@ -1,1 +1,1 @@
-var mnemonic = "crime loan girl suffer feel code time miracle zoo wood dilemma harsh";
+var mnemonic = "episode satisfy goat moral silk problem wrap joy trophy wrap nasty unique";

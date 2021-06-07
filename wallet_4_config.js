@@ -1,1 +1,1 @@
-var mnemonic = "replace tiger amount bargain client swallow squirrel angry chuckle shoot town forum";
+var mnemonic = "change series seed select citizen essence album mask rely offer film sell";

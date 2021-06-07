@@ -1,1 +1,1 @@
-var mnemonic = "oxygen term goose easy dice potato useful ranch exercise brush lounge feel";
+var mnemonic = "main avocado chapter maximum day glance tragic employ march citizen rude tornado";

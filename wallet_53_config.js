@@ -1,1 +1,1 @@
-var mnemonic = "lemon online mobile number rescue filter green symbol outer maple inch dutch";
+var mnemonic = "service soul impose meadow action fossil shuffle gas hen follow junior onion";

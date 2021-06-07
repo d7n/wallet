@@ -1,1 +1,1 @@
-var mnemonic = "moment box comfort palace couch grid genius advice torch base follow rebel";
+var mnemonic = "letter mobile glass exact good erosion legal palm property gorilla fortune deny";

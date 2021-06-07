@@ -1,1 +1,1 @@
-var mnemonic = "guide collect muffin area bracket invest enemy can mansion seat river enroll";
+var mnemonic = "foam pigeon ozone cram raw kid define promote fade injury dose truly";

@@ -1,1 +1,1 @@
-var mnemonic = "section input scorpion unlock apology autumn view coach resemble produce tired wreck";
+var mnemonic = "circle anchor apple labor decrease space meat mesh joy bird example extend";

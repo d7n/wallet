@@ -1,1 +1,1 @@
-var mnemonic = "symbol thunder fashion crazy opera disagree enough nice wealth business grass city";
+var mnemonic = "evolve cover help delay seven insect elite between hockey power hill cruel";

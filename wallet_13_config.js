@@ -1,1 +1,1 @@
-var mnemonic = "wonder exhaust forget age puzzle close forest adult cricket coffee split renew";
+var mnemonic = "era leave staff bubble sign initial asset bean timber key make glare";

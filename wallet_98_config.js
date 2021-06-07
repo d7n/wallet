@@ -1,1 +1,1 @@
-var mnemonic = "mixture all army artwork until limit unfair lyrics lucky glow option ready";
+var mnemonic = "casual unique weapon soul fantasy pole estate lawn movie slogan exile fetch";

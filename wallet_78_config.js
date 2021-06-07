@@ -1,1 +1,1 @@
-var mnemonic = "unfair flash indicate ceiling farm adapt movie trophy suggest ketchup gap hero";
+var mnemonic = "wrist autumn clerk begin body staff joy correct mom logic dilemma luxury";

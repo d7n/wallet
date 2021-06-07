@@ -1,1 +1,1 @@
-var mnemonic = "case point special paper erosion ranch chalk bid fit joy catch trap";
+var mnemonic = "typical unit water soul grace patch inmate must sister father tribe puppy";

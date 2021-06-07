@@ -1,1 +1,1 @@
-var mnemonic = "biology forward keep rebel genuine letter kiss family large nose hurt scatter";
+var mnemonic = "when have surge upon topic alert elbow picture since regular episode exact";

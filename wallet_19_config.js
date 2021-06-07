@@ -1,1 +1,1 @@
-var mnemonic = "slim razor glass trick artwork eagle lonely ask object unusual trick label";
+var mnemonic = "amazing brass member skirt business lumber quarter moon extend enlist edit food";

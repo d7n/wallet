@@ -1,1 +1,1 @@
-var mnemonic = "upper canal scale scan violin pig scissors garbage clerk tribe leaf emotion";
+var mnemonic = "action like improve smart travel cupboard vocal dwarf humble village match all";

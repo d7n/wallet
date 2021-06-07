@@ -1,1 +1,1 @@
-var mnemonic = "gown sausage utility hockey proud miss rebuild sell other wrestle soul engage";
+var mnemonic = "tide cause inhale dove repeat hello supreme snack hen scout diagram reduce";

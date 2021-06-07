@@ -1,1 +1,1 @@
-var mnemonic = "axis frog wagon below problem journey keep balance column silk rely arctic";
+var mnemonic = "pumpkin under rent session bachelor coyote fog trick insect shuffle eight avoid";

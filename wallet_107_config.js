@@ -1,1 +1,1 @@
-var mnemonic = "jar knee copper sail derive nothing faint brush cream airport script leaf";
+var mnemonic = "view sock husband curve owner broken dismiss gravity eye twist shiver junior";

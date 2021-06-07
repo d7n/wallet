@@ -1,1 +1,1 @@
-var mnemonic = "swift domain stable day curtain soft oppose hover excess coast win labor";
+var mnemonic = "ostrich reason abandon hold cluster lake dragon emotion once access tape eager";

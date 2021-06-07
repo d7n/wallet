@@ -1,1 +1,1 @@
-var mnemonic = "rent best level black expire elbow math state give offer lyrics rural";
+var mnemonic = "proof rebel gas hazard gown rug invest snack artwork drastic thrive bench";

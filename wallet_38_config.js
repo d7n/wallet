@@ -1,1 +1,1 @@
-var mnemonic = "helmet scene warm chunk million wink survey fruit news margin ribbon switch";
+var mnemonic = "lend umbrella avocado robot bubble album feel answer critic cloth spawn wall";

@@ -1,1 +1,1 @@
-var mnemonic = "click six major bright north surge thought then rotate above evidence tonight";
+var mnemonic = "equal together race tube since young very place secret case salad domain";

@@ -1,1 +1,1 @@
-var mnemonic = "army slush news inflict hire cargo demise muscle strategy radio tone motor";
+var mnemonic = "october divorce drift upper type sausage suffer height make exact cheese device";

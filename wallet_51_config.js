@@ -1,1 +1,1 @@
-var mnemonic = "reason balance misery quit panic case oxygen idle smooth mandate lizard grass";
+var mnemonic = "rich dinner bottom spy citizen keep curtain aisle ankle ice crush solar";

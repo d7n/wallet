@@ -1,1 +1,1 @@
-var mnemonic = "field excuse sell page treat tourist enough emotion afford trash seed unaware";
+var mnemonic = "october tonight hour tiger trap discover weird banana summer strike water display";

@@ -1,1 +1,1 @@
-var mnemonic = "fit library exhibit wreck find dismiss puzzle dynamic glory stereo drink exile";
+var mnemonic = "core sauce razor rebuild drill tuna item wrestle guess desk jelly soda";

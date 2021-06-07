@@ -1,1 +1,1 @@
-var mnemonic = "dose social blush split current pencil assault vibrant describe voice deny warrior";
+var mnemonic = "win kick tongue isolate announce sand cover honey marble describe winter mushroom";

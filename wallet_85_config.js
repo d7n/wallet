@@ -1,1 +1,1 @@
-var mnemonic = "creek beef limb impulse thumb tone type main ethics panel reason crater";
+var mnemonic = "release live day relax unlock someone exotic invest swift seat bitter ski";

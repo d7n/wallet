@@ -1,1 +1,1 @@
-var mnemonic = "option crisp celery funny okay solid include excite twin label manage ginger";
+var mnemonic = "close observe joke love stock winner daughter bundle health enforce gap caught";

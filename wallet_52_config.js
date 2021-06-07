@@ -1,1 +1,1 @@
-var mnemonic = "indicate blur expect spoil female such brisk bubble record miracle frost rain";
+var mnemonic = "head nominee judge lady toddler wood arrange box auction hurdle vintage climb";

@@ -1,1 +1,1 @@
-var mnemonic = "ability useful expose increase kiwi assault video defense educate essence multiply below";
+var mnemonic = "runway response castle fall shadow pull cigar come chapter region night recycle";

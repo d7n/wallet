@@ -1,1 +1,1 @@
-var mnemonic = "collect protect very thumb involve excuse lottery allow program viable shine whisper";
+var mnemonic = "chat loan youth adult coin clever hub phrase duck exact shell rice";

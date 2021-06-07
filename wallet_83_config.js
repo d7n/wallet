@@ -1,1 +1,1 @@
-var mnemonic = "timber razor joke dutch liberty fish steak item share need void agent";
+var mnemonic = "popular water skull cotton hand balcony then speak blast twin select series";

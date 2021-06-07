@@ -1,1 +1,1 @@
-var mnemonic = "claim circle fury funny disagree retire west pepper identify bargain inside item";
+var mnemonic = "melt nothing buffalo slab elegant raccoon expose bunker notable other favorite pioneer";

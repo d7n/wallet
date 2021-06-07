@@ -1,1 +1,1 @@
-var mnemonic = "current educate garden razor escape symptom bike plug tortoise chase runway bracket";
+var mnemonic = "appear lunch toast comic valid usual unique group appear kite sword electric";
