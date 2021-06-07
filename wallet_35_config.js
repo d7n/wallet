@@ -1,1 +1,1 @@
-var mnemonic = "symptom confirm army fetch dinosaur sock casual table upper resource immune fall";
+var mnemonic = "alarm nerve sword public toss favorite corn demand nice settle weasel bind";

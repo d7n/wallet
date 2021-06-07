@@ -1,1 +1,1 @@
-var mnemonic = "entry hybrid salad direct enrich apart curve spray clean pledge weapon winter";
+var mnemonic = "access wheat pony shrug bronze sand sight swallow put city crater leaf";

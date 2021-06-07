@@ -1,1 +1,1 @@
-var mnemonic = "phone mail punch pulp reward coconut renew snow pelican use say neck";
+var mnemonic = "profit interest denial current state ranch awesome educate embody fence bird all";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep isolate wasp team bid such claim legend rifle orbit unable drop";
+var mnemonic = "fix price sock kick mouse wasp evolve teach amateur baby panda expire";

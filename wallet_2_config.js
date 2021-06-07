@@ -1,1 +1,1 @@
-var mnemonic = "push recycle trip swing crash harsh mammal like bronze venue speak gesture";
+var mnemonic = "reject void boost shuffle citizen mean wise alpha obvious hunt helmet atom";

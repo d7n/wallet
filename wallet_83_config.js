@@ -1,1 +1,1 @@
-var mnemonic = "rapid shock saddle pelican demise above alpha mixed alert panther reflect harvest";
+var mnemonic = "target report require unveil zero cloud jazz uniform tortoise impose race car";

@@ -1,1 +1,1 @@
-var mnemonic = "crash road dolphin sorry hard buddy media assault chapter monitor noble situate";
+var mnemonic = "wave dry empower invite dwarf scrub flush slogan knock half abuse fox";

@@ -1,1 +1,1 @@
-var mnemonic = "process drink label canoe topic gap fabric patrol dune hour usage upgrade";
+var mnemonic = "blur acquire chuckle assume decide cannon drip romance dish final away leader";

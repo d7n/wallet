@@ -1,1 +1,1 @@
-var mnemonic = "mansion useful organ trouble boost exercise spin zoo clown solution raven unable";
+var mnemonic = "hundred erosion tennis dilemma myself blue main lunch fossil pulp matrix curtain";

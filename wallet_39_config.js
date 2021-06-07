@@ -1,1 +1,1 @@
-var mnemonic = "observe october parrot range sunset decrease permit hat category surprise proof aware";
+var mnemonic = "conduct leaf leave crush fringe pretty eager proof permit pig sunny want";

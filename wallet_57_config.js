@@ -1,1 +1,1 @@
-var mnemonic = "staff cancel snake deliver luggage funny below defy edge kid emotion walnut";
+var mnemonic = "empty barrel open upper tongue coach snack near chair aspect sword story";

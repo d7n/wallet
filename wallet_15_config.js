@@ -1,1 +1,1 @@
-var mnemonic = "stereo refuse describe sheriff water dismiss camp exact fee divorce indoor planet";
+var mnemonic = "cushion absurd earn lobster style planet estate wise shrimp craft kite leader";

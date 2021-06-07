@@ -1,1 +1,1 @@
-var mnemonic = "palace say feed extend fork stumble kid fly fox magic perfect garage";
+var mnemonic = "history fine client recycle feature credit lemon bright galaxy found heart dynamic";

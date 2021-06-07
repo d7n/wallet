@@ -1,1 +1,1 @@
-var mnemonic = "lizard melody inmate kidney chat large pencil inspire congress hub smoke squirrel";
+var mnemonic = "rookie lamp salt pitch hawk what join tool hospital naive scatter toss";

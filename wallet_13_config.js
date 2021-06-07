@@ -1,1 +1,1 @@
-var mnemonic = "mix code ensure kite useless arm time chat rival gospel develop west";
+var mnemonic = "pave maid annual thumb text lottery wide nerve top rate hazard dolphin";

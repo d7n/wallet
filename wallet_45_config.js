@@ -1,1 +1,1 @@
-var mnemonic = "walnut draft chicken organ december swarm modify trick crane secret spider urge";
+var mnemonic = "limb area online jar obscure merry meat swing barely where artefact gym";

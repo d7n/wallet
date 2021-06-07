@@ -1,1 +1,1 @@
-var mnemonic = "witness length identify zero excess volume powder chunk tortoise bachelor skin diet";
+var mnemonic = "draw forget destroy demand ancient globe anxiety panic want ball twice future";

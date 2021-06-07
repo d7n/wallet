@@ -1,1 +1,1 @@
-var mnemonic = "miracle youth orchard home lady group wasp transfer grow trick remind two";
+var mnemonic = "blade hero outer novel top slow correct execute pen noise scare donor";

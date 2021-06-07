@@ -1,1 +1,1 @@
-var mnemonic = "choose tiger upper wing tag february holiday such swamp situate ordinary sport";
+var mnemonic = "cancel opera strike reflect shield country fun whale fox always viable thought";

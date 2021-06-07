@@ -1,1 +1,1 @@
-var mnemonic = "apple soda reopen cement lens cigar add chronic peanut appear direct please";
+var mnemonic = "next before grape fuel baby assist carpet adjust among liquid offer void";

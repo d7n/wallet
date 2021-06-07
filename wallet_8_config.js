@@ -1,1 +1,1 @@
-var mnemonic = "size word rail sort tomato grief tuna method solar patient fly globe";
+var mnemonic = "end rare message vocal decorate menu field paddle please need online guitar";

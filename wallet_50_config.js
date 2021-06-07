@@ -1,1 +1,1 @@
-var mnemonic = "purchase stick weapon switch staff woman stock silk enlist vessel shine file";
+var mnemonic = "can claim affair lecture sport arrange zero desert mom tank liquid resist";

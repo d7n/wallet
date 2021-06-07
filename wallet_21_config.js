@@ -1,1 +1,1 @@
-var mnemonic = "spawn copper north okay crack abandon throw oven style vicious fine oven";
+var mnemonic = "culture inspire spider team select seek transfer purchase essay morning camp silent";

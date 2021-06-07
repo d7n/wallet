@@ -1,1 +1,1 @@
-var mnemonic = "evolve inject champion swarm fuel nothing vicious knife sick anchor produce scrub";
+var mnemonic = "enjoy ordinary hedgehog snake erosion blush notice close flame scissors patrol neck";

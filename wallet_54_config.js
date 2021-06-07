@@ -1,1 +1,1 @@
-var mnemonic = "hospital piece bag club churn canoe tail lab front wing timber tenant";
+var mnemonic = "crucial unique canvas dance able what excite trend grace wash daring rotate";

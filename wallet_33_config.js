@@ -1,1 +1,1 @@
-var mnemonic = "panel problem van elite valve range purpose frog april across recycle carry";
+var mnemonic = "remain roof pull potato pony alarm ketchup allow tortoise sunny harvest second";

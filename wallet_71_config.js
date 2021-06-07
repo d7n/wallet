@@ -1,1 +1,1 @@
-var mnemonic = "file scrap question vicious distance session copy race maple vast hero exchange";
+var mnemonic = "object tomato crystal method airport pyramid note swift price tiger post fringe";

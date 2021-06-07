@@ -1,1 +1,1 @@
-var mnemonic = "vault alley alone grunt slim arrest media craft whale movie holiday royal";
+var mnemonic = "combine trophy sail adult flee auction today boy push torch ski rib";

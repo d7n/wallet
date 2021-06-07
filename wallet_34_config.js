@@ -1,1 +1,1 @@
-var mnemonic = "inquiry funny reward settle half almost spell crouch execute tattoo undo curtain";
+var mnemonic = "mango usage north town target wide write load ethics amount ritual question";

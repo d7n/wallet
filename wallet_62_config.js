@@ -1,1 +1,1 @@
-var mnemonic = "habit spell cup front author kite grocery beauty wife wreck token rent";
+var mnemonic = "medal coin piano pioneer civil slim stereo ball injury common pudding ethics";

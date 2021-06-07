@@ -1,1 +1,1 @@
-var mnemonic = "pave jeans sense usage abandon invite gap crawl silver agree master net";
+var mnemonic = "pottery any toe fault loyal chunk skin genius make length wrestle idea";

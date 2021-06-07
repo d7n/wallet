@@ -1,1 +1,1 @@
-var mnemonic = "enroll toddler razor vehicle pet pear corn biology egg faith disagree blood";
+var mnemonic = "december dream bomb resist frog bean ranch stumble skin hospital chunk frequent";

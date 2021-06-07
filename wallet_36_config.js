@@ -1,1 +1,1 @@
-var mnemonic = "chalk enroll cargo wreck host enter long adapt magnet prevent spread sword";
+var mnemonic = "poem draw wealth spend mask link extend must evil holiday inmate just";

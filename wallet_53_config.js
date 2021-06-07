@@ -1,1 +1,1 @@
-var mnemonic = "degree magnet shiver column grief monkey actress damage mixture lounge jacket insect";
+var mnemonic = "snake dignity road say hole vehicle runway quiz derive practice crunch code";

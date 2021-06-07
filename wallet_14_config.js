@@ -1,1 +1,1 @@
-var mnemonic = "nerve security royal road mass whisper reason spell cat absurd various sport";
+var mnemonic = "task aspect kiss entire shine lobster proof manual depend mix used someone";

@@ -1,1 +1,1 @@
-var mnemonic = "logic cube essence sister stable middle differ cloth drip option easy sing";
+var mnemonic = "mechanic sell sand horn ketchup avoid vessel panel utility repair settle bench";

@@ -1,1 +1,1 @@
-var mnemonic = "visit define lawsuit stumble holiday help acid step device carbon tissue collect";
+var mnemonic = "print roast another either liar draw crazy solution shoe split melody merit";

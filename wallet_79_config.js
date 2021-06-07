@@ -1,1 +1,1 @@
-var mnemonic = "demand rifle hazard dune tissue this safe diamond wood describe offer chronic";
+var mnemonic = "acid spray person business parrot aisle venture clarify fortune jungle main amateur";

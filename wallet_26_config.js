@@ -1,1 +1,1 @@
-var mnemonic = "ramp scout arm custom drift bike hedgehog put movie worry awesome want";
+var mnemonic = "super loyal glad wrong already artist between elder drum tank gold enroll";

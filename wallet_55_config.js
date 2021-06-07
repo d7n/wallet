@@ -1,1 +1,1 @@
-var mnemonic = "network liquid impact certain feed puzzle unit give clerk update primary load";
+var mnemonic = "drink person coconut kite sight please vehicle stomach betray mixed note similar";

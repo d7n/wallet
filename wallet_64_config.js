@@ -1,1 +1,1 @@
-var mnemonic = "frequent actress neutral enforce wife staff host section lake bronze flight protect";
+var mnemonic = "hammer merge move maximum clinic salmon liquid zebra nurse advice piece swarm";

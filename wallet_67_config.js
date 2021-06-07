@@ -1,1 +1,1 @@
-var mnemonic = "oppose hen hole truly panel cat nut hood romance garment melt bleak";
+var mnemonic = "cruise hello judge embark life garlic once sadness combine disorder fringe draw";

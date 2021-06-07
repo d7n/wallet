@@ -1,1 +1,1 @@
-var mnemonic = "action horn seminar enforce cupboard crowd dizzy scheme fuel brown around review";
+var mnemonic = "dawn mother tape loyal north gather cotton state unknown embark actual cupboard";

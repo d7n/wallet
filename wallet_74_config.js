@@ -1,1 +1,1 @@
-var mnemonic = "gate olympic ripple ancient pill balcony panther spell foam term razor start";
+var mnemonic = "entry prepare mesh maze risk raw cube train sentence scissors claim legal";

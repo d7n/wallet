@@ -1,1 +1,1 @@
-var mnemonic = "frame grocery genuine crowd leaf roof dizzy method hamster sand dish method";
+var mnemonic = "fall clay dilemma husband erase boost unique grief waste magnet hurdle unit";

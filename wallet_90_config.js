@@ -1,1 +1,1 @@
-var mnemonic = "among alarm index game neglect length setup stick hospital tent humble wife";
+var mnemonic = "discover high usage bag park chase year fringe nature caught toddler direct";

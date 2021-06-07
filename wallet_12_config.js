@@ -1,1 +1,1 @@
-var mnemonic = "foot cabbage resist venture note forum demand setup sudden actual glass fault";
+var mnemonic = "jealous kiss cross normal area shadow work arm hole bracket grain boil";

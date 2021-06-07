@@ -1,1 +1,1 @@
-var mnemonic = "dove theme bright display base few special pigeon maximum butter effort fresh";
+var mnemonic = "purchase yellow suspect evil sugar vacant tenant income want notable cousin upon";

@@ -1,1 +1,1 @@
-var mnemonic = "reform this guess purchase task hold sport fat embody sea dwarf attack";
+var mnemonic = "leaf record broccoli angle level found convince heavy army salute famous topic";

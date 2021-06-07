@@ -1,1 +1,1 @@
-var mnemonic = "awkward little half exclude dynamic bleak earn club stem crawl adjust gorilla";
+var mnemonic = "canal inner holiday box iron proof leaf ten clog yellow sing million";

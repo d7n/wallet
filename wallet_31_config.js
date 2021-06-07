@@ -1,1 +1,1 @@
-var mnemonic = "one brain caught laptop alone help buddy nation stairs hotel sense device";
+var mnemonic = "inflict gold exact sell swift little beauty steak combine fatal buyer random";

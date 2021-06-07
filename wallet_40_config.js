@@ -1,1 +1,1 @@
-var mnemonic = "girl crawl emerge comfort garage peasant depart various forget lion confirm bread";
+var mnemonic = "volume decade turn tumble orient humble supreme silk retire decade half scrub";

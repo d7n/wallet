@@ -1,1 +1,1 @@
-var mnemonic = "seven illness achieve twice canvas task sheriff private illness load aspect rhythm";
+var mnemonic = "column glad repair sponsor essay title deer scissors normal exile vocal leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra edge minute board where bike hungry render thumb senior eternal nominee";
+var mnemonic = "life item hamster put feel enter syrup rule asthma pigeon dragon hurry";

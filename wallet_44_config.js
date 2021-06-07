@@ -1,1 +1,1 @@
-var mnemonic = "correct interest lumber resource roast tongue room canvas initial will stick age";
+var mnemonic = "rail private reason solar pencil mimic much evidence nominee oblige asthma twenty";

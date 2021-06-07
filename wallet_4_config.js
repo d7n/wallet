@@ -1,1 +1,1 @@
-var mnemonic = "seminar cloth mix column try breeze dizzy dice matrix predict record six";
+var mnemonic = "then parent shop benefit resist picnic talk pumpkin crucial stock click grain";

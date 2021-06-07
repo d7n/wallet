@@ -1,1 +1,1 @@
-var mnemonic = "movie lens enough orphan include stable report degree bronze game spirit float";
+var mnemonic = "eager time kiss clip october badge lecture client lecture badge project lesson";

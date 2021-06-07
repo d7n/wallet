@@ -1,1 +1,1 @@
-var mnemonic = "slab arm siege demise crash lawsuit wave extra eternal finger genuine then";
+var mnemonic = "apology extra author true paper jacket when people blood hurry dune play";

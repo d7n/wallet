@@ -1,1 +1,1 @@
-var mnemonic = "involve spice sister play expire mad erosion gospel minor engage capital junior";
+var mnemonic = "alley candy crack neglect time capable minute hybrid venue lens shrimp sail";

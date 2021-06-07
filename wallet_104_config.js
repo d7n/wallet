@@ -1,1 +1,1 @@
-var mnemonic = "design distance coconut next weapon bullet scrap print shine involve dutch cool";
+var mnemonic = "drastic prize behave plunge hurt curtain pigeon genuine sad unknown version genuine";

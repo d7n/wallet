@@ -1,1 +1,1 @@
-var mnemonic = "wet march angry kiss elder move ripple certain marble era text royal";
+var mnemonic = "soup amused fade devote hill myth gasp table bundle quick frog arm";

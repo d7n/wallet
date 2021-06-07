@@ -1,1 +1,1 @@
-var mnemonic = "language drop rare habit employ poet tent acid attitude promote used almost";
+var mnemonic = "history dismiss april clerk spoil almost increase need basic subject better spell";

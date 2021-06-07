@@ -1,1 +1,1 @@
-var mnemonic = "web smart manage sense robust usual fan lamp draw satisfy unit second";
+var mnemonic = "exile famous raccoon book abandon valid radio alien make ski buzz seminar";

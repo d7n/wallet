@@ -1,1 +1,1 @@
-var mnemonic = "truly glove stadium panther eagle misery tennis drink planet chicken pledge glad";
+var mnemonic = "reunion chat satoshi pole record summer spice steak scout brave measure stamp";

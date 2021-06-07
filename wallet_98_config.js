@@ -1,1 +1,1 @@
-var mnemonic = "total pair example trash viable crack shy behind occur business pigeon glance";
+var mnemonic = "rack erosion first remain alley field inside avocado mule horse autumn vapor";

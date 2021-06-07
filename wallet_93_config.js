@@ -1,1 +1,1 @@
-var mnemonic = "noble galaxy shed flower wealth clip own globe intact scrub cheese liberty";
+var mnemonic = "celery unique churn know coffee sketch clinic paper below predict fiscal chest";

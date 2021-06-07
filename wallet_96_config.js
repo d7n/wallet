@@ -1,1 +1,1 @@
-var mnemonic = "achieve toss spend inflict stumble car budget mobile alone wink scheme second";
+var mnemonic = "core shoot recall mammal number battle desert license boss area way love";

@@ -1,1 +1,1 @@
-var mnemonic = "zone quantum love mention soon decade master story gate capable network slot";
+var mnemonic = "oyster amount capable grunt soda kind mean young seven cannon pyramid monkey";

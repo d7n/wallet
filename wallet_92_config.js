@@ -1,1 +1,1 @@
-var mnemonic = "clarify garbage inside thunder online cloud search cave rescue stairs panther crane";
+var mnemonic = "skull knife cherry satoshi feature tube marine bleak lunch joke lava help";

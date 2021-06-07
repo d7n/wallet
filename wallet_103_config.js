@@ -1,1 +1,1 @@
-var mnemonic = "success noodle before flip inject destroy habit mix share magnet motion they";
+var mnemonic = "crucial route harvest catch guard tree pig speak since old apology story";

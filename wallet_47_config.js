@@ -1,1 +1,1 @@
-var mnemonic = "iron security marriage betray mystery lounge rhythm coffee silk gravity hunt doll";
+var mnemonic = "have curve chief wait mad load faint cereal devote castle execute portion";

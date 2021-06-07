@@ -1,1 +1,1 @@
-var mnemonic = "present elevator giggle brush lesson polar proud basic congress rack curtain breeze";
+var mnemonic = "rose sea forward vintage tuna soap cook prize desert exchange payment wait";

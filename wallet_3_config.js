@@ -1,1 +1,1 @@
-var mnemonic = "above ancient tongue globe lumber property swap denial indoor patient friend assist";
+var mnemonic = "pulse secret stem hero thunder scrap grid check length great detect aerobic";

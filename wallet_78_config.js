@@ -1,1 +1,1 @@
-var mnemonic = "volcano garment blame theory pig gesture deputy senior borrow dumb tonight utility";
+var mnemonic = "brown raise morning dad online analyst connect swarm aisle ability next expire";

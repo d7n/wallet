@@ -1,1 +1,1 @@
-var mnemonic = "venture under kiss pen poem furnace bicycle border suffer couch degree world";
+var mnemonic = "pottery cloud planet please shoe sort situate sun embody find detail stomach";

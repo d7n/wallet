@@ -1,1 +1,1 @@
-var mnemonic = "once jewel tape exile base blossom parent vehicle bulk stamp taste pledge";
+var mnemonic = "repair peanut detail purse baby tackle egg asset gentle flee hobby simple";

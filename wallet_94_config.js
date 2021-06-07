@@ -1,1 +1,1 @@
-var mnemonic = "crowd cradle loud roast approve steak absent mask giraffe festival provide shell";
+var mnemonic = "sadness mechanic tonight violin narrow steak celery summer huge broccoli dice clarify";

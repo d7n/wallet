@@ -1,1 +1,1 @@
-var mnemonic = "crumble label swamp six toss rent topple bubble large avocado double jeans";
+var mnemonic = "rigid virtual fish genuine lunch crater finger that evil dawn curious gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact possible frame tragic december only select reflect save combine rare unable";
+var mnemonic = "shine matter fat lottery fit deer diet cinnamon hour merry flower ramp";

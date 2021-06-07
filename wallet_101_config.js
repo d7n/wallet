@@ -1,1 +1,1 @@
-var mnemonic = "fitness equal text provide fuel clutch carry post radar alarm pretty elegant";
+var mnemonic = "shop awkward digital love extra strategy evoke hundred surprise usual strong bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "drift live riot antique dilemma dry obey torch shiver addict twice woman";
+var mnemonic = "kitchen aim stay dose develop farm define order much holiday act cement";

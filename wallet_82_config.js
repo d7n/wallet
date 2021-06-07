@@ -1,1 +1,1 @@
-var mnemonic = "denial lucky flip onion addict coast render before loyal cry frost old";
+var mnemonic = "angle fiction much capable dad miracle flee false improve present always desk";

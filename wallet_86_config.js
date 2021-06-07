@@ -1,1 +1,1 @@
-var mnemonic = "barely shaft region vivid genius visual tide wonder try film multiply breeze";
+var mnemonic = "egg nuclear rebuild blood dune immense fatigue regular absurd wait lemon submit";

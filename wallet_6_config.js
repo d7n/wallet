@@ -1,1 +1,1 @@
-var mnemonic = "spoon together attack pupil supreme cover attack loyal upper soon round enhance";
+var mnemonic = "wrong flush install rebuild skirt artwork sketch once giraffe warfare detail mind";

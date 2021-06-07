@@ -1,1 +1,1 @@
-var mnemonic = "pave cry name stamp final lunar inch saddle apology visa bid obey";
+var mnemonic = "three metal shoe grid peace liquid shadow raw era attack lunar slice";

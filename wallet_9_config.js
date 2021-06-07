@@ -1,1 +1,1 @@
-var mnemonic = "run supreme purpose viable permit border tennis announce maple fiber foot shine";
+var mnemonic = "donate major grape caught relax release divert recycle vanish donate indoor absent";

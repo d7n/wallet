@@ -1,1 +1,1 @@
-var mnemonic = "thunder diamond kite fun ill glass advice renew tissue demise space live";
+var mnemonic = "country arm bean disagree lesson soup trial toward unaware monster range luxury";

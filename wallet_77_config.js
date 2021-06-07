@@ -1,1 +1,1 @@
-var mnemonic = "life rich install critic twenty cycle abuse tiny reunion connect merit utility";
+var mnemonic = "detect fun ship put ivory empower city rely into fantasy always trend";

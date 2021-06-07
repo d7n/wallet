@@ -1,1 +1,1 @@
-var mnemonic = "wise pupil kick vanish sadness edit solid enroll purity tip scissors urban";
+var mnemonic = "can dismiss gauge absent eternal upgrade arch ready soon office loan sniff";

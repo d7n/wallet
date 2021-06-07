@@ -1,1 +1,1 @@
-var mnemonic = "bounce bargain cake van maximum alter pottery essence blush crane fitness betray";
+var mnemonic = "wrong initial frog tilt lobster random logic boring broccoli steak lady episode";
