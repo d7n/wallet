@@ -1,1 +1,1 @@
-var mnemonic = "trouble churn winner useful decade special mass hard hand melt easily leave";
+var mnemonic = "sudden tilt act path tiger survey assist shuffle test wire now frog";

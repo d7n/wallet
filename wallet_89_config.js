@@ -1,1 +1,1 @@
-var mnemonic = "tongue clap social squirrel chat income emotion subway benefit scatter system blush";
+var mnemonic = "push copper wasp power flock such tortoise ancient creek social icon order";

@@ -1,1 +1,1 @@
-var mnemonic = "method glide kangaroo confirm solve jelly siege refuse police sphere village puppy";
+var mnemonic = "enroll index photo forest country planet uncover heart hub bread drastic strong";

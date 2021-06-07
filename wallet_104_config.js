@@ -1,1 +1,1 @@
-var mnemonic = "raise bridge address sword rent day dish blood horror fantasy property uncle";
+var mnemonic = "direct case exhibit grid symptom float program volume vendor plastic bag assume";

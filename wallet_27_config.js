@@ -1,1 +1,1 @@
-var mnemonic = "damage question whisper box perfect coil ensure ribbon school series between you";
+var mnemonic = "deliver suffer magic wear helmet verb flee uncover clock brown need outer";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug trip sad diet diet lunch december execute siege scrub autumn open";
+var mnemonic = "genre pig jungle early father supreme frequent congress equal fabric flash canyon";

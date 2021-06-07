@@ -1,1 +1,1 @@
-var mnemonic = "cruise clay topic scale stem addict festival marble inspire snake guitar drama";
+var mnemonic = "observe between crazy accident angry theme ball warrior cousin spatial excuse loop";

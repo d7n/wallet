@@ -1,1 +1,1 @@
-var mnemonic = "earth offer clever same fuel silver suit name move concert rare alley";
+var mnemonic = "please travel enlist youth melt clay debate rigid legal wing jaguar gun";

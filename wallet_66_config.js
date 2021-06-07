@@ -1,1 +1,1 @@
-var mnemonic = "slot miss chaos husband prison silk popular render juice pitch night parade";
+var mnemonic = "purpose luxury owner ribbon bracket refuse soldier error unit calm glove view";

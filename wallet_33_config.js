@@ -1,1 +1,1 @@
-var mnemonic = "hammer label winter stumble dream afraid around trash fatigue measure intact bless";
+var mnemonic = "dose govern critic color fluid author fan end oil sunny finish banner";

@@ -1,1 +1,1 @@
-var mnemonic = "tower journey cactus enlist cliff trumpet section home today amused recipe spy";
+var mnemonic = "nose moral two manual undo pen position music increase butter certain tumble";

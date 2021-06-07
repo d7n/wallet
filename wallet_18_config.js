@@ -1,1 +1,1 @@
-var mnemonic = "ill risk invest photo future embark music citizen garbage festival enforce cliff";
+var mnemonic = "brain ramp service movie phrase insane stumble fence trigger stock absorb cost";

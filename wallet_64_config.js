@@ -1,1 +1,1 @@
-var mnemonic = "basket manage runway sibling team bridge only basic unfair era diet situate";
+var mnemonic = "source crouch title outdoor nose quick wrist quiz alpha produce sing undo";

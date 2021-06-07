@@ -1,1 +1,1 @@
-var mnemonic = "club state tuition plunge know tone reward wait elegant garment rhythm floor";
+var mnemonic = "unaware tooth gravity bonus humor unaware taste foil silver clinic ripple actual";

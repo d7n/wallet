@@ -1,1 +1,1 @@
-var mnemonic = "muscle negative quote corn crime sweet acid today swift piece apple coconut";
+var mnemonic = "nasty repair system ostrich usage envelope portion source modify axis year hammer";

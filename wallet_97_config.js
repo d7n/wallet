@@ -1,1 +1,1 @@
-var mnemonic = "winter find special already gain side rescue stereo stage sauce column chat";
+var mnemonic = "subway discover gravity little else jewel corn network name organ nest drip";

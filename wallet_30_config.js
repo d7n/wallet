@@ -1,1 +1,1 @@
-var mnemonic = "flee oval cloth language input mountain injury lazy alone gather side enact";
+var mnemonic = "trade theory nation lesson mule festival patch where cannon animal glow violin";

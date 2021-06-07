@@ -1,1 +1,1 @@
-var mnemonic = "upgrade machine shock special night sunset fitness trash slim permit gym update";
+var mnemonic = "video play foster merge switch toss novel claw brief skull slogan labor";

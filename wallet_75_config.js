@@ -1,1 +1,1 @@
-var mnemonic = "insect immune wet pulse shuffle essence target cliff wool penalty bulk cloud";
+var mnemonic = "disease modify useless matrix area sense exchange must vintage tell glove arch";

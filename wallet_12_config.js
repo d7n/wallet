@@ -1,1 +1,1 @@
-var mnemonic = "sponsor medal decade survey ladder dumb muscle salt luxury morning urge perfect";
+var mnemonic = "load concert fantasy jump unlock paper cruel bless staff mosquito physical robot";

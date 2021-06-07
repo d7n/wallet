@@ -1,1 +1,1 @@
-var mnemonic = "awake abuse seek sting grocery cage hunt float type maid mechanic harbor";
+var mnemonic = "jungle trigger process jealous toward moment source basket monster grid pyramid lumber";

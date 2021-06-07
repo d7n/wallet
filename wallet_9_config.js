@@ -1,1 +1,1 @@
-var mnemonic = "dad mask wasp stuff interest battle area pepper surge speed result detect";
+var mnemonic = "member situate spoil twice cream hotel waste organ ankle meat bridge engage";

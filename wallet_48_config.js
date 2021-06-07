@@ -1,1 +1,1 @@
-var mnemonic = "juice move various real cave arm need joy govern victory concert exhibit";
+var mnemonic = "boost enlist gain bicycle draw diagram strike buddy speed fatigue tackle reunion";

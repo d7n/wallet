@@ -1,1 +1,1 @@
-var mnemonic = "happy raise bottom destroy ceiling purchase there choice fit wise arrive situate";
+var mnemonic = "envelope excite garment forest cluster mind speed pair will swallow duck paddle";

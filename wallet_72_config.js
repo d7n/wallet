@@ -1,1 +1,1 @@
-var mnemonic = "because magic endless renew spirit scatter kick wrong hedgehog nerve survey script";
+var mnemonic = "divorce category fluid state panther believe permit connect harvest drama gauge illness";

@@ -1,1 +1,1 @@
-var mnemonic = "pole gravity chronic coast gravity clerk length long feature maximum found neither";
+var mnemonic = "story monitor glad sail indicate insane feature broken observe frog wall duck";

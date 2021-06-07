@@ -1,1 +1,1 @@
-var mnemonic = "heavy lake later limb reward room wood amused keen right rain fiction";
+var mnemonic = "degree near chef state scan nerve section aisle when blast dawn loud";

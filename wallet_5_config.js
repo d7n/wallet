@@ -1,1 +1,1 @@
-var mnemonic = "illness sense afraid lottery sting grid spin sentence defense floor patch milk";
+var mnemonic = "danger snow cool embody float interest upgrade dash sphere bottom tank category";

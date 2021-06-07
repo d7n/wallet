@@ -1,1 +1,1 @@
-var mnemonic = "grass crowd exist rich okay old verify true nominee avoid inmate addict";
+var mnemonic = "fury black minimum february dutch must share output tired dumb airport pioneer";

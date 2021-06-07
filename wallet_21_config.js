@@ -1,1 +1,1 @@
-var mnemonic = "farm ancient detail category robust hill mind then panic leader cliff good";
+var mnemonic = "below chapter hurt tragic answer finger sport twice drastic office almost cousin";

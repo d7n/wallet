@@ -1,1 +1,1 @@
-var mnemonic = "shoulder decrease runway orbit fix tiger resemble brush bridge soap ankle erode";
+var mnemonic = "eight pole very dynamic inspire cruel tag winner surface skin gift resource";

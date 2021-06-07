@@ -1,1 +1,1 @@
-var mnemonic = "route elevator artwork soda orphan keen meat permit industry cereal impulse palm";
+var mnemonic = "all light insane noble sudden athlete hungry spoon distance used valve burden";

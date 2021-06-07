@@ -1,1 +1,1 @@
-var mnemonic = "assault hidden observe below cram squirrel giant panel junk sad gravity hair";
+var mnemonic = "ill suggest affair drill suffer hand category social session barrel decorate huge";

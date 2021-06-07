@@ -1,1 +1,1 @@
-var mnemonic = "near library pony blush robot dinner mom song insane movie silver fashion";
+var mnemonic = "another cluster maximum scatter please minimum anchor soul left crawl paper change";

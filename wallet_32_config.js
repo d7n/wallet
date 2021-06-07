@@ -1,1 +1,1 @@
-var mnemonic = "between pattern define general build maple time fury shove price enable foil";
+var mnemonic = "simple dirt number quit forest wall warrior morning smoke help response buyer";

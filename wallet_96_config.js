@@ -1,1 +1,1 @@
-var mnemonic = "doctor page region combine youth defense comic media tiger method nation recall";
+var mnemonic = "task head fade beach develop aunt roast rule hunt essay brain again";

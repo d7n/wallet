@@ -1,1 +1,1 @@
-var mnemonic = "worry poem thought north stereo icon abuse over couch orange enforce nation";
+var mnemonic = "vintage six tape limb attitude teach urban wheel grace town describe comfort";

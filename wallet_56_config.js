@@ -1,1 +1,1 @@
-var mnemonic = "plunge thank vivid online three toddler negative nominee snow fog illegal cancel";
+var mnemonic = "kind senior case opera typical tonight fiction museum bridge forward banana act";

@@ -1,1 +1,1 @@
-var mnemonic = "wine shaft raw bag ask mammal invest fade regular stage choice lawsuit";
+var mnemonic = "couple wild beach element blast wisdom special party daring habit debate wet";

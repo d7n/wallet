@@ -1,1 +1,1 @@
-var mnemonic = "oil earth act east desk taxi asset body torch engine perfect word";
+var mnemonic = "prefer surround sentence fluid mansion cave elevator glory hire curve uncle number";

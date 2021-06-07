@@ -1,1 +1,1 @@
-var mnemonic = "burst bar tag acquire labor damp crater valley surface easily antenna bridge";
+var mnemonic = "sister act spring cross tobacco image grape worry select donor alcohol mystery";

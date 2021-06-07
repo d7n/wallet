@@ -1,1 +1,1 @@
-var mnemonic = "flight airport refuse word oil life merge split talent tiny bacon destroy";
+var mnemonic = "brass boost rose surprise party bomb wet fragile trial high path rare";

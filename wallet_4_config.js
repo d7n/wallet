@@ -1,1 +1,1 @@
-var mnemonic = "stage alert seven loyal panda virus oblige repair sausage piano modify duty";
+var mnemonic = "quit nature conduct update father glow final imitate shaft tired vacuum butter";

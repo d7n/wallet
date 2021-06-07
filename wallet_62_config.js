@@ -1,1 +1,1 @@
-var mnemonic = "bounce pitch strong reduce chimney since shove gaze olive cross drip knife";
+var mnemonic = "pistol quantum turn scene sauce identify weird engine cable worth tunnel remember";

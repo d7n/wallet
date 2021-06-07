@@ -1,1 +1,1 @@
-var mnemonic = "okay absurd neither budget vessel sight company heart neutral detect pole any";
+var mnemonic = "orient funny morning shoe size organ mushroom method strike bullet approve run";

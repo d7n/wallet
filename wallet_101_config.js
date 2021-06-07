@@ -1,1 +1,1 @@
-var mnemonic = "main jump sentence author draw solid smoke certain often myself airport brown";
+var mnemonic = "install gas sunny eager spike pill pulse defense organ floor smoke lottery";

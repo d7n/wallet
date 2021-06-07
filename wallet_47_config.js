@@ -1,1 +1,1 @@
-var mnemonic = "spatial busy scan camp rhythm over slender doll swim reduce social shine";
+var mnemonic = "lobster expect happy fat fence maze inject dune idea maple breeze emerge";

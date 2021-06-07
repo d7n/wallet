@@ -1,1 +1,1 @@
-var mnemonic = "feed gain lamp discover shift alter harvest anxiety domain police absent since";
+var mnemonic = "equip project gym equip enjoy gloom siege entry toe benefit mango pet";

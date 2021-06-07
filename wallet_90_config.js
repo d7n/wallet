@@ -1,1 +1,1 @@
-var mnemonic = "grab girl vapor split box traffic eagle cluster cargo betray anchor detect";
+var mnemonic = "skirt glory bitter stock inside before sort glass crush acquire caution stomach";

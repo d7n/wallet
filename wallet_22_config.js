@@ -1,1 +1,1 @@
-var mnemonic = "fan lunar vapor bounce sight melody vacuum fuel marble book doctor door";
+var mnemonic = "gate undo people milk crunch urban mistake void holiday thank subject elite";

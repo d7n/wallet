@@ -1,1 +1,1 @@
-var mnemonic = "first melody garden radio one rich unknown hammer board float certain feed";
+var mnemonic = "differ decrease cram present race faint comfort dynamic exchange honey fly pony";

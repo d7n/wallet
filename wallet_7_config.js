@@ -1,1 +1,1 @@
-var mnemonic = "peasant feel adapt fork music debate umbrella uncle snap test limit soul";
+var mnemonic = "estate account erupt zero blanket comfort measure bundle hedgehog public unaware gym";

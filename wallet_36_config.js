@@ -1,1 +1,1 @@
-var mnemonic = "actor apple claim sheriff load detect mansion tilt hawk click biology female";
+var mnemonic = "dash hip motion phone fragile obvious escape relax mask jump grocery craft";

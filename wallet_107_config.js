@@ -1,1 +1,1 @@
-var mnemonic = "border skate network grid south awkward salmon month bench scrub depend bridge";
+var mnemonic = "chuckle mystery hawk coast nurse own hand fragile nest genre blame ocean";

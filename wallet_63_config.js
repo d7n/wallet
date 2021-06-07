@@ -1,1 +1,1 @@
-var mnemonic = "code inner ask core bench verify pig exclude rib hip salad punch";
+var mnemonic = "film jazz wedding town nerve design army stairs dove lady country divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "spy flag neglect online enough olive eight one myth spy satisfy raven";
+var mnemonic = "disease badge alien sustain since sorry wine crazy rug cabbage crucial term";

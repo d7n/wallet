@@ -1,1 +1,1 @@
-var mnemonic = "render sunset chat opera bright rely trick shock wrap rural early thrive";
+var mnemonic = "mesh moment below tiny stove arrest south polar grain treat hand globe";

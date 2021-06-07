@@ -1,1 +1,1 @@
-var mnemonic = "phone choose basket this hungry horror garage tape wrong curtain peanut cram";
+var mnemonic = "dignity index galaxy snake charge enable erase sword noise town alter shiver";

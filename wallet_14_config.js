@@ -1,1 +1,1 @@
-var mnemonic = "spy dinosaur team edge invest cotton negative fix copy dream mushroom salon";
+var mnemonic = "clutch couple smart logic antique dinosaur virus foster deer neck jealous pet";

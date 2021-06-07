@@ -1,1 +1,1 @@
-var mnemonic = "usage century squirrel forget domain source twelve yard battle nest deposit oven";
+var mnemonic = "problem elite journey myth negative tail reform mixed dwarf document piano ankle";

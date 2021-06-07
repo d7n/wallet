@@ -1,1 +1,1 @@
-var mnemonic = "exist same party mail elevator dash peanut type penalty escape midnight lens";
+var mnemonic = "major panther enable kangaroo leader wreck wagon doll shine adult slender hobby";

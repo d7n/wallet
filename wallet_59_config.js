@@ -1,1 +1,1 @@
-var mnemonic = "figure moment scene junk brief senior convince clog impose nothing beyond wrap";
+var mnemonic = "private normal pigeon blame enforce toward tobacco canoe nasty attitude secret into";

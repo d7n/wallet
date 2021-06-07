@@ -1,1 +1,1 @@
-var mnemonic = "deputy essence family left snow fatal public weather grunt spatial bright eternal";
+var mnemonic = "crazy piece scan infant urban hire sphere cotton mutual else more turtle";

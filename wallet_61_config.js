@@ -1,1 +1,1 @@
-var mnemonic = "ostrich jar jelly bleak early comfort captain news tent hazard funny subway";
+var mnemonic = "produce captain empower flavor room menu address apple wise near wage audit";

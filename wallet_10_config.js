@@ -1,1 +1,1 @@
-var mnemonic = "gym sudden long proof pact fun error news spider rice fine device";
+var mnemonic = "drastic section limb pave into local save imitate act car vast regret";

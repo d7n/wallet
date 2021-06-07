@@ -1,1 +1,1 @@
-var mnemonic = "umbrella outdoor color fault ticket nominee milk senior cattle power virus fringe";
+var mnemonic = "dutch ticket manage dinosaur sound actual scan enact border install fragile system";

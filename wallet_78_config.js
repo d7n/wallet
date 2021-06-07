@@ -1,1 +1,1 @@
-var mnemonic = "spike fog slam bar atom rather scan peace indoor effort lock attitude";
+var mnemonic = "ribbon surround trade bubble uncle useful frog leader west spoon awesome crystal";

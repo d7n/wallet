@@ -1,1 +1,1 @@
-var mnemonic = "almost language refuse ginger above sand destroy icon reveal capable hint exhaust";
+var mnemonic = "visa moon wise any loan want craft initial frown inside verify actress";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial wire keep napkin evil west jaguar barely kite cake size false";
+var mnemonic = "wife voice rebel tumble bamboo canoe twenty swear claim fame catch fog";

@@ -1,1 +1,1 @@
-var mnemonic = "focus crowd main blade chapter ribbon visa risk predict horse ready submit";
+var mnemonic = "rare moment reason retreat metal neck fashion disease define police category gentle";

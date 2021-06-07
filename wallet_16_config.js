@@ -1,1 +1,1 @@
-var mnemonic = "erode steak midnight immune note runway crumble service park fiction bread genre";
+var mnemonic = "member story useful drip catch lake uphold abuse riot caught jar second";

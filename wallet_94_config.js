@@ -1,1 +1,1 @@
-var mnemonic = "private wish hawk glow defense whale cotton plug wheat exclude reflect upon";
+var mnemonic = "crucial weird expand average bottom can jungle local stove coach bleak jazz";

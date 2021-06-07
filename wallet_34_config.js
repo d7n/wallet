@@ -1,1 +1,1 @@
-var mnemonic = "mule whip arm crystal brisk share forum brass boil spirit box sphere";
+var mnemonic = "lounge alley snow slab divide adapt fever interest ritual black speed drink";

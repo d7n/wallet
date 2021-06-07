@@ -1,1 +1,1 @@
-var mnemonic = "risk flash certain few royal hurdle warm immense current dream trend sing";
+var mnemonic = "essence record deer forward aim pave acquire tree creek hobby utility clerk";

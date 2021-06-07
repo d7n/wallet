@@ -1,1 +1,1 @@
-var mnemonic = "trigger universe open rapid fame illness pioneer brush emotion pitch brisk achieve";
+var mnemonic = "faint mansion finger pepper neck slam pause display share grape luggage friend";

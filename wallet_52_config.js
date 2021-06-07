@@ -1,1 +1,1 @@
-var mnemonic = "paper ecology note foil total cause focus orbit slice journey crash rather";
+var mnemonic = "spirit picture brother wise castle help seed blast tennis tiny segment upset";

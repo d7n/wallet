@@ -1,1 +1,1 @@
-var mnemonic = "alter lawsuit evoke appear step crumble reveal fresh purity era motor other";
+var mnemonic = "chaos clean nose style inhale autumn coast cherry fiber club awake news";

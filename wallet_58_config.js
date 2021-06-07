@@ -1,1 +1,1 @@
-var mnemonic = "under credit immense repair differ daring diamond entry provide acquire wonder fat";
+var mnemonic = "repeat hospital style never pact inflict victory cereal grain plug bitter sport";

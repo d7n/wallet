@@ -1,1 +1,1 @@
-var mnemonic = "monitor aspect boy burger flee monster wisdom open february scout gaze weapon";
+var mnemonic = "above legal gym laptop scatter birth list typical faculty hedgehog idea circle";

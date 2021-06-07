@@ -1,1 +1,1 @@
-var mnemonic = "kidney rather awesome where social fade velvet fiber road pluck goat rival";
+var mnemonic = "rude employ learn worth journey plastic bring fog pilot rely prosper strong";

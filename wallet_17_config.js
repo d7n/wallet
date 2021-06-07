@@ -1,1 +1,1 @@
-var mnemonic = "jealous rice hold position medal border labor flush hunt glove dignity capital";
+var mnemonic = "job proud rally where moment artefact word case multiply wise place endless";

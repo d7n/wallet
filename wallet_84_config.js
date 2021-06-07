@@ -1,1 +1,1 @@
-var mnemonic = "mom tool seat miracle divert record speed valid hidden crush what sorry";
+var mnemonic = "horn census actress resource way urge object antenna essay wink type matrix";

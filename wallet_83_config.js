@@ -1,1 +1,1 @@
-var mnemonic = "broccoli weather become focus almost weekend yellow gossip wide hamster jump strike";
+var mnemonic = "act release fruit price door spin start detail choice phone aspect enrich";
