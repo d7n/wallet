@@ -1,1 +1,1 @@
-var mnemonic = "matrix pilot oil sword general legal stable firm farm voyage extra brick";
+var mnemonic = "harsh section clock slot tube identify sock tuna peanut device burst hamster";

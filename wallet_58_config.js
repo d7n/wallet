@@ -1,1 +1,1 @@
-var mnemonic = "arrest harvest uniform advance edit elevator virus penalty asset above range waste";
+var mnemonic = "crumble smooth alter arch much doll congress above pen alone hand motor";

@@ -1,1 +1,1 @@
-var mnemonic = "vote year when practice index add robot easily castle engage service flip";
+var mnemonic = "aim public junior forward awesome display order south strike equal age blanket";

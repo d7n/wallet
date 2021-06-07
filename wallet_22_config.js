@@ -1,1 +1,1 @@
-var mnemonic = "timber team rain doll ticket goddess bargain sadness time art caution plate";
+var mnemonic = "language man license army donkey depth cable modify choice retire march forest";

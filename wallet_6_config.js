@@ -1,1 +1,1 @@
-var mnemonic = "where spend shine captain army recall follow endless alarm wrestle old camp";
+var mnemonic = "enroll swim rebuild devote half glad gesture box okay exercise law ride";

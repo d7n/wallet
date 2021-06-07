@@ -1,1 +1,1 @@
-var mnemonic = "animal cinnamon stock vibrant torch smooth disorder rather embark paper ladder history";
+var mnemonic = "shield slice cube depend exclude behind theme save move legend cherry river";

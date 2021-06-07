@@ -1,1 +1,1 @@
-var mnemonic = "please best question harbor gas capital rotate attract wild lake mesh have";
+var mnemonic = "erode license staff company scrub ability glory drill profit muscle olive angle";

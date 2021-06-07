@@ -1,1 +1,1 @@
-var mnemonic = "veteran motion artwork spare ankle flight buffalo legend core help inside scheme";
+var mnemonic = "calm page limit door black exit regular wagon actor pride spawn dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "crush flush pride layer owner system tomorrow snake sweet iron spawn seed";
+var mnemonic = "surge dentist banana blur whip example mechanic obvious day fossil gate behave";

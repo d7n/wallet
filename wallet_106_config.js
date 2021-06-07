@@ -1,1 +1,1 @@
-var mnemonic = "rebel mammal coast celery toddler flower tomato mystery suit shy interest blast";
+var mnemonic = "return stable smooth elephant enrich alley pig shiver copper spy chronic absent";

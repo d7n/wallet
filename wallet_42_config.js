@@ -1,1 +1,1 @@
-var mnemonic = "act boring gesture vital settle crazy elegant alpha gaze arch sun pulp";
+var mnemonic = "buffalo ginger drive slight cover shoulder victory usage doctor twin cargo train";

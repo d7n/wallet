@@ -1,1 +1,1 @@
-var mnemonic = "either digital laptop fire seminar butter strategy rigid laptop grain erosion person";
+var mnemonic = "dumb eye suffer alarm blast various cabin mechanic process bean topple print";

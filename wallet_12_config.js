@@ -1,1 +1,1 @@
-var mnemonic = "border balcony food inspire quantum jazz define inflict nurse slab picture corn";
+var mnemonic = "caution maid skate firm coin enrich spy talent knock away brass adapt";

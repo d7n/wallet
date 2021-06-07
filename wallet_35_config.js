@@ -1,1 +1,1 @@
-var mnemonic = "weekend gauge frog unable payment rely puzzle snow round comfort immense dismiss";
+var mnemonic = "stereo sting ritual include course sweet decorate among trust tank eagle chief";

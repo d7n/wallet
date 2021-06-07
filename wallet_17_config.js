@@ -1,1 +1,1 @@
-var mnemonic = "arctic rapid decade avoid drip high intact foam recipe solid rich much";
+var mnemonic = "bounce music wrestle echo theme process rookie belt slab record mixture corn";

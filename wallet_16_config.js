@@ -1,1 +1,1 @@
-var mnemonic = "typical thing honey neck illegal master heart eye stand leader breeze small";
+var mnemonic = "mansion dry rule farm shiver strategy cactus long approve polar inmate alone";

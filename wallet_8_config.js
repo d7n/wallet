@@ -1,1 +1,1 @@
-var mnemonic = "coral trophy task sock blanket iron help spoil sniff cousin hurdle pear";
+var mnemonic = "brisk report grid accuse bus dentist chalk donate unusual laundry ready shoe";

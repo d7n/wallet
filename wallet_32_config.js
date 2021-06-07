@@ -1,1 +1,1 @@
-var mnemonic = "absorb glare mutual clerk series camera same rare spare december three flip";
+var mnemonic = "vacuum silver first disease achieve awful suit shrug inmate tourist nation account";

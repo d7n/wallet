@@ -1,1 +1,1 @@
-var mnemonic = "near depart job when jelly screen wave master wage economy horn fiscal";
+var mnemonic = "inmate wreck chest sweet correct bargain sister room defy loyal trash pen";

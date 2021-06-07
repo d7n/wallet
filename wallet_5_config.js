@@ -1,1 +1,1 @@
-var mnemonic = "left tonight under ship weapon tank tag soldier camera citizen stomach conduct";
+var mnemonic = "struggle razor gorilla east hub throw ecology crystal disease brief dignity bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital stick tip curve arctic medal around vendor repair nice promote giraffe";
+var mnemonic = "purse exact swim spawn book level boy warm web situate reopen success";

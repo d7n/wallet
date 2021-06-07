@@ -1,1 +1,1 @@
-var mnemonic = "hen negative reduce initial equip garment catch uncle already either soup attack";
+var mnemonic = "rebel mansion base puzzle scout theme capital weather calm ozone depart burden";

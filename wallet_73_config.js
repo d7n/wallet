@@ -1,1 +1,1 @@
-var mnemonic = "type invest flee own image toy soap stadium job issue enlist dolphin";
+var mnemonic = "dose deer receive dilemma busy surge verify strike seven erase tube announce";

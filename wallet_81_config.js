@@ -1,1 +1,1 @@
-var mnemonic = "rice craft sock lion fly drastic clown gentle beach crop major fee";
+var mnemonic = "hat decade wait shop boil ketchup where tiger trend defense syrup gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "race bonus soul just lion token miss muscle little seminar crush adult";
+var mnemonic = "field spirit reopen wing win token sting sport victory describe novel manual";

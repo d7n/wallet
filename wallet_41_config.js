@@ -1,1 +1,1 @@
-var mnemonic = "tenant sentence chalk journey royal street elephant process blur ten rather amused";
+var mnemonic = "derive ankle cram scan flash carbon hospital bind they hub winner guess";

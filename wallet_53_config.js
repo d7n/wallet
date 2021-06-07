@@ -1,1 +1,1 @@
-var mnemonic = "rocket online asset tissue bamboo clip upon nephew govern coyote evil crop";
+var mnemonic = "sugar frame glide blast fiber essence scorpion input face embody giant army";

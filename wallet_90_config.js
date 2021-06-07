@@ -1,1 +1,1 @@
-var mnemonic = "furnace zero bonus meadow upon orbit miracle license quiz light magic tomato";
+var mnemonic = "august until supreme myself offer snack whip sponsor come example manual tackle";

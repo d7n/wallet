@@ -1,1 +1,1 @@
-var mnemonic = "sweet tragic valid eye celery timber pig belt reject comic style giant";
+var mnemonic = "ability cup congress riot shrimp bachelor job photo same refuse clip clump";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe ginger divorce ramp area evidence chalk mass pupil margin raven miss";
+var mnemonic = "either climb slot note boring useful cigar matter situate defense marble local";

@@ -1,1 +1,1 @@
-var mnemonic = "photo pact strong fold vintage fancy antenna desk blue blue input garment";
+var mnemonic = "nose hub consider net fancy social view spray annual survey spoil type";

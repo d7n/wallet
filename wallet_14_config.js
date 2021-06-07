@@ -1,1 +1,1 @@
-var mnemonic = "equip either limit transfer either illegal punch size twelve cricket arctic cage";
+var mnemonic = "cause pipe feel flower clutch ready ask twenty various marine acquire road";

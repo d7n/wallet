@@ -1,1 +1,1 @@
-var mnemonic = "fabric term quote castle blush census odor expose exercise clump jacket letter";
+var mnemonic = "fold spray winter immune artwork primary sorry razor iron spoil hockey flock";

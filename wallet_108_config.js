@@ -1,1 +1,1 @@
-var mnemonic = "useless dwarf spot country segment skull fantasy two keep panda tunnel detail";
+var mnemonic = "install turkey plug captain crack patient vapor enter this boy sound display";

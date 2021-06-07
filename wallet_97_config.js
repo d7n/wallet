@@ -1,1 +1,1 @@
-var mnemonic = "van market liberty canyon connect inquiry cupboard hawk shuffle help motor spring";
+var mnemonic = "battle then cherry token curious flag route wild credit help style salute";

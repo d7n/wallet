@@ -1,1 +1,1 @@
-var mnemonic = "window marine stone donate van marine story history turn sure captain various";
+var mnemonic = "boil frame tuition mountain purse more train giggle novel quote usual desert";

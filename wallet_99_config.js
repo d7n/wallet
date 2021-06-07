@@ -1,1 +1,1 @@
-var mnemonic = "mammal enroll danger divorce curious rule giraffe hint relief swap bundle decorate";
+var mnemonic = "bean glory focus scan knife horse target dignity coin grab scan volume";

@@ -1,1 +1,1 @@
-var mnemonic = "media spell know clutch truly alcohol symbol future ramp table miracle source";
+var mnemonic = "try tide bunker sleep diagram assist luggage inflict bind invest refuse ignore";

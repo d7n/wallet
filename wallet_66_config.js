@@ -1,1 +1,1 @@
-var mnemonic = "episode exact accuse width mixture obscure reduce swing aim sorry chronic layer";
+var mnemonic = "margin velvet aware crouch pill suggest express coral life elevator spice future";

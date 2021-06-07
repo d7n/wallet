@@ -1,1 +1,1 @@
-var mnemonic = "announce similar cool acquire off year desk absorb asset grief final play";
+var mnemonic = "figure account gravity another heart bar balcony assume obvious relax beauty series";

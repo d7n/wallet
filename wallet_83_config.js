@@ -1,1 +1,1 @@
-var mnemonic = "reform access soul daughter wash couple future interest crater approve fringe poet";
+var mnemonic = "net soon accident detect month waste more drop patrol toward example glory";

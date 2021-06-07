@@ -1,1 +1,1 @@
-var mnemonic = "hybrid amused media poet all alert grit draft hand typical insane shaft";
+var mnemonic = "abandon fiction wasp grief boat acquire lesson noise thumb oval horn satoshi";

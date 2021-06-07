@@ -1,1 +1,1 @@
-var mnemonic = "faith crunch recycle fox theme ill upgrade fame armed tenant name universe";
+var mnemonic = "fine audit include gallery enlist now grit divide broom ability sport draft";

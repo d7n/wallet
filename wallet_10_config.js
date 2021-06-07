@@ -1,1 +1,1 @@
-var mnemonic = "rate distance sight tell enrich indicate embrace loop lemon round treat extra";
+var mnemonic = "drift endless impact pudding sing clay leopard roof walnut squeeze october route";

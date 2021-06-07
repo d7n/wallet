@@ -1,1 +1,1 @@
-var mnemonic = "pave engine toast cable stadium nominee talk plug argue squeeze symptom tornado";
+var mnemonic = "charge mule dress peasant renew shine cruel object decorate illness cupboard spray";

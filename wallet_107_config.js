@@ -1,1 +1,1 @@
-var mnemonic = "mosquito fly banana reward smoke recall master decline tuition slogan stock method";
+var mnemonic = "voice erupt foot useful talk abstract simple surround hen memory slush gap";

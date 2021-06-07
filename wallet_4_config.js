@@ -1,1 +1,1 @@
-var mnemonic = "toddler select skirt purchase quit potato gun economy occur inside ghost print";
+var mnemonic = "dial antique staff target project cash copy peasant artefact come pause bread";

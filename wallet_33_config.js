@@ -1,1 +1,1 @@
-var mnemonic = "pole parent ivory prize flush frequent clutch half orphan reason twelve violin";
+var mnemonic = "indoor picture envelope parent grant curtain common demise shy razor name success";

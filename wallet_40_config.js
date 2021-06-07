@@ -1,1 +1,1 @@
-var mnemonic = "secret person amused catch tortoise mosquito retire prevent wash fresh round display";
+var mnemonic = "steak loan clever useless silver school manage tourist they globe pool tribe";

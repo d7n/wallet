@@ -1,1 +1,1 @@
-var mnemonic = "obtain relief plug sustain museum oxygen humor kind isolate crane dilemma february";
+var mnemonic = "actress drift just bicycle jaguar rigid brave craft grace video rotate cry";

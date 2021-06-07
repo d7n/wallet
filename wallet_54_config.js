@@ -1,1 +1,1 @@
-var mnemonic = "enjoy arena document system draft wine kick casual army vicious quiz unlock";
+var mnemonic = "measure palm family winter age seed project travel harbor hour include material";

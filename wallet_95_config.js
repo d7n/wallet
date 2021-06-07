@@ -1,1 +1,1 @@
-var mnemonic = "question loop ostrich steel arrest carpet begin snack family dinosaur forest orbit";
+var mnemonic = "lyrics swallow adjust humor spatial infant slogan large shrug body void lumber";

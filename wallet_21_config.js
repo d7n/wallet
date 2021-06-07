@@ -1,1 +1,1 @@
-var mnemonic = "legend comic marble valve energy give sauce crawl mule one ensure secret";
+var mnemonic = "festival defense page believe buyer critic cotton month swear dash olive endorse";

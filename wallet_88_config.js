@@ -1,1 +1,1 @@
-var mnemonic = "giraffe still orchard garlic junk spider logic fine clump gift fantasy drip";
+var mnemonic = "robot divorce wage mobile kingdom file chat crack legend mammal addict monster";

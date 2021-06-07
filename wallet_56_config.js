@@ -1,1 +1,1 @@
-var mnemonic = "also toy industry pepper page hat rally remember uniform sudden ozone dwarf";
+var mnemonic = "human alert decline sing elbow enact crunch script false mask tattoo balcony";

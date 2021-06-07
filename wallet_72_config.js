@@ -1,1 +1,1 @@
-var mnemonic = "wait face ten style fitness arrest leave island room flush mosquito crisp";
+var mnemonic = "rescue lecture summer fix whip settle judge armed mixture danger profit atom";

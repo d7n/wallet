@@ -1,1 +1,1 @@
-var mnemonic = "later coconut supply village liberty love deal always vacant nose notable people";
+var mnemonic = "girl drip wasp knife vacant dutch type inject liar tray outer gather";

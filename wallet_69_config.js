@@ -1,1 +1,1 @@
-var mnemonic = "treat beyond choice sound palace physical uncover purse cat appear orchard hello";
+var mnemonic = "alarm rigid price opinion devote alert sad pudding develop leader damp margin";

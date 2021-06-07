@@ -1,1 +1,1 @@
-var mnemonic = "eagle bamboo canal gravity person bleak sleep liar moment perfect boost couch";
+var mnemonic = "skin bench typical alley parade funny shell enough solar client spread victory";

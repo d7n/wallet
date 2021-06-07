@@ -1,1 +1,1 @@
-var mnemonic = "height pumpkin adult office clap library gift dog gain total merry jump";
+var mnemonic = "axis afraid banana fitness limit nuclear credit sick speed swim coin notable";

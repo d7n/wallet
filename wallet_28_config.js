@@ -1,1 +1,1 @@
-var mnemonic = "juice vivid mimic siege situate future key salad ivory error width impose";
+var mnemonic = "ranch frequent course uphold connect climb portion gallery note long horror lonely";

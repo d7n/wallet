@@ -1,1 +1,1 @@
-var mnemonic = "please cart can vibrant banana drift pause crop online wild dizzy immune";
+var mnemonic = "rely hedgehog inside fall sport balance crunch rice pencil movie patient topple";

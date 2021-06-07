@@ -1,1 +1,1 @@
-var mnemonic = "jeans pear film across pact scout rate flower scout swallow pill benefit";
+var mnemonic = "wire draw enrich alone friend lucky south design oil wonder give reunion";

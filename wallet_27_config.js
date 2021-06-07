@@ -1,1 +1,1 @@
-var mnemonic = "junior noble trumpet case fame vacant pair narrow walnut pull season length";
+var mnemonic = "bottom domain lumber slim short multiply marriage cave salt position edit lecture";

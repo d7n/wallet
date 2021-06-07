@@ -1,1 +1,1 @@
-var mnemonic = "say visit spoon rabbit slam junior blood asthma kit miracle index action";
+var mnemonic = "little sphere corn dream code august weekend suffer prepare pilot cloud degree";

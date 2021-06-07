@@ -1,1 +1,1 @@
-var mnemonic = "woman chicken universe butter inside hill umbrella wheat beef embody another sustain";
+var mnemonic = "visual promote still purse sport enough sunset rough aisle index credit tool";

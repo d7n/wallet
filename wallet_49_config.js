@@ -1,1 +1,1 @@
-var mnemonic = "surprise sadness merge input today assume tonight planet bid drip diesel marriage";
+var mnemonic = "lizard scare bar fresh early fruit again sort beach digital hand sort";

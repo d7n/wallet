@@ -1,1 +1,1 @@
-var mnemonic = "mad knock abandon fringe wolf elder alley grape vanish industry umbrella regret";
+var mnemonic = "dose dream path bullet decide rose woman method test volume garlic play";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon jump leaf short century woman bright all cruel alarm million vanish";
+var mnemonic = "frown circle about fork alcohol sick toss wear comfort idea rescue forget";

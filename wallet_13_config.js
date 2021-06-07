@@ -1,1 +1,1 @@
-var mnemonic = "word young birth ready fossil barely dwarf nurse frozen crystal faint fee";
+var mnemonic = "rare drastic nerve cricket ship crumble dream collect wedding swing various shy";

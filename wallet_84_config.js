@@ -1,1 +1,1 @@
-var mnemonic = "swallow void leave ill quote strategy stock boost resource card awesome cup";
+var mnemonic = "garment wolf document bag decide dynamic shoot random space input code sign";

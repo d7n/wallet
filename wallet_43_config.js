@@ -1,1 +1,1 @@
-var mnemonic = "usage sand labor assist name test sustain melt stock laundry crowd zoo";
+var mnemonic = "cattle naive frame evoke toast garment craft slab talk blame seat oxygen";

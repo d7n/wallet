@@ -1,1 +1,1 @@
-var mnemonic = "few trumpet zoo decrease stumble panda snack destroy measure home weather airport";
+var mnemonic = "shift twenty office garden sure input flip recall adjust term jaguar bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "fog grit speed arena civil damage glow grain fit blouse decade stage";
+var mnemonic = "maple phrase armor faith twist loan between word december enrich salute tonight";

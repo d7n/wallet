@@ -1,1 +1,1 @@
-var mnemonic = "spring occur stomach adult hurry border medal treat mention toss snow adapt";
+var mnemonic = "toy gentle brisk edge choice endless praise crowd myth theory borrow ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "solar boss wonder gorilla canvas spray story agent name ethics twist pink";
+var mnemonic = "crystal funny portion vendor flag miss kick length blur paper column spot";

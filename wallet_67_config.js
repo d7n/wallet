@@ -1,1 +1,1 @@
-var mnemonic = "subject maze basket include this uphold cruel vapor into horse bread hedgehog";
+var mnemonic = "box pact athlete glare twin raise veteran spirit balance hamster caution ten";

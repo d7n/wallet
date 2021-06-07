@@ -1,1 +1,1 @@
-var mnemonic = "luggage place enrich suffer genuine link position dynamic poem toddler game fluid";
+var mnemonic = "place brain video analyst immense minute fever depend trumpet year deer type";

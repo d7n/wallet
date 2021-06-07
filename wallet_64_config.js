@@ -1,1 +1,1 @@
-var mnemonic = "miss kingdom horror flavor panic chaos proof roof theme traffic huge brick";
+var mnemonic = "rose design enrich goose guard height small sibling peasant earn ribbon unique";

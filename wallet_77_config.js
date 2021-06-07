@@ -1,1 +1,1 @@
-var mnemonic = "typical detail delay pill quarter horse copy true iron remain you quit";
+var mnemonic = "just congress keen hint bar divorce orchard visual sport wool output century";

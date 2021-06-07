@@ -1,1 +1,1 @@
-var mnemonic = "search polar govern twice spray clinic dove shed magic film dream black";
+var mnemonic = "wet cotton donor already asthma ginger pluck assume tent small viable cube";

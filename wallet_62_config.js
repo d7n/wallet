@@ -1,1 +1,1 @@
-var mnemonic = "crumble frozen very magic lazy solid guard ribbon rhythm skin link keen";
+var mnemonic = "hip street magnet then battle drill seminar blade armed unfold multiply beach";

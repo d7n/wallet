@@ -1,1 +1,1 @@
-var mnemonic = "beef replace thought wing fault wealth elder wine estate because mystery asthma";
+var mnemonic = "vintage capital cousin detail voyage unable north emotion ensure shine toast fabric";

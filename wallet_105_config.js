@@ -1,1 +1,1 @@
-var mnemonic = "absurd ecology tooth brisk swarm figure phrase derive fault dream evidence maid";
+var mnemonic = "theory side comic exist hire trim remove horn adult accuse luxury cage";

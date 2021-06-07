@@ -1,1 +1,1 @@
-var mnemonic = "cover excite elegant stock alley cattle blame gadget budget end fog one";
+var mnemonic = "debris cup require air alert feed diamond skill husband pelican surface snake";

@@ -1,1 +1,1 @@
-var mnemonic = "trap neck two produce volume often better any veteran pilot ankle census";
+var mnemonic = "spawn drastic rail remove success wrong green aspect quiz lyrics open friend";

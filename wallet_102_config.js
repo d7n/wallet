@@ -1,1 +1,1 @@
-var mnemonic = "rice detail drill canyon soldier vacant youth ramp project zone mountain romance";
+var mnemonic = "crouch cricket surround embark fit amateur brass rocket rocket join soft sort";
