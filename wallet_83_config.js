@@ -1,1 +1,1 @@
-var mnemonic = "view team else brother modify kitchen spirit planet blast fade pass dirt";
+var mnemonic = "merry fury march weasel wagon lock snap robust kiss trumpet volume drink";

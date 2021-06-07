@@ -1,1 +1,1 @@
-var mnemonic = "endorse brief wedding health width object valve release song hello embody bitter";
+var mnemonic = "diet action drip youth myth museum broom desert mean congress cotton caution";

@@ -1,1 +1,1 @@
-var mnemonic = "priority brave shine beauty try noodle major jewel dust horn atom vital";
+var mnemonic = "fault gorilla vague mouse scrap alpha scatter dune flower record example grant";

@@ -1,1 +1,1 @@
-var mnemonic = "aware useful salad arch cradle memory water route salute alarm crop engage";
+var mnemonic = "humor lawn gasp insect submit typical ring group squeeze universe harvest stumble";

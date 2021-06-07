@@ -1,1 +1,1 @@
-var mnemonic = "artist reunion sketch guilt stairs imitate waste robust movie monster pride chunk";
+var mnemonic = "turtle essence dolphin hammer step someone kangaroo bless acquire sting unit hold";

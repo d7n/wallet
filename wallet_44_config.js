@@ -1,1 +1,1 @@
-var mnemonic = "beyond rookie vacant magnet mind author fruit north gym around above liberty";
+var mnemonic = "physical hurt garden volume leaf soon refuse copy flat sentence swamp fog";

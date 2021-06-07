@@ -1,1 +1,1 @@
-var mnemonic = "disagree bomb end donkey blame tissue jungle give habit offer fit orient";
+var mnemonic = "cotton avoid woman clump give tree rookie frame raise bread client creek";

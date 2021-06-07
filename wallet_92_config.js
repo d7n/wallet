@@ -1,1 +1,1 @@
-var mnemonic = "area age exercise talent give top purpose bicycle behind match jungle wrong";
+var mnemonic = "neck start bus library deal witness net project excess wrist random fury";

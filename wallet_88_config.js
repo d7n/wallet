@@ -1,1 +1,1 @@
-var mnemonic = "enlist appear few eye cram box entire stamp window require valve thought";
+var mnemonic = "rib arrow adult magic abstract shield trim round useless october mass skill";

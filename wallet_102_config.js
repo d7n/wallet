@@ -1,1 +1,1 @@
-var mnemonic = "ice nice olympic execute odor heart empower alone crucial hint arctic jacket";
+var mnemonic = "learn lounge avoid gallery fix globe express engine evoke network endless gun";

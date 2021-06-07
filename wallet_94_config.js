@@ -1,1 +1,1 @@
-var mnemonic = "slush demise frequent canoe cheap whale noodle volcano seat dolphin salt kidney";
+var mnemonic = "hunt dish slice trim valley tumble immense morning change hurdle bitter auction";

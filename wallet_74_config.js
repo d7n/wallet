@@ -1,1 +1,1 @@
-var mnemonic = "flush lounge spatial air faculty length index draft virtual junk shoot ostrich";
+var mnemonic = "solar agent join excite spoon couple bike crumble vessel pond tumble loan";

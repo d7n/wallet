@@ -1,1 +1,1 @@
-var mnemonic = "smoke sorry genre youth acid box nerve coach smile hope crystal annual";
+var mnemonic = "hat embrace comic summer oil kite trumpet kite canvas affair mother because";

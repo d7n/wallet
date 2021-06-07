@@ -1,1 +1,1 @@
-var mnemonic = "purse tag illness derive paper elder auto drink prison word culture job";
+var mnemonic = "wing situate goose detect depend country electric mercy once reason sample cool";

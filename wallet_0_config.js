@@ -1,1 +1,1 @@
-var mnemonic = "mask fish agree stock donkey image slam potato fish inner uncle erupt";
+var mnemonic = "wing clerk crystal code matter milk salon tone luggage give lift pattern";

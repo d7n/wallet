@@ -1,1 +1,1 @@
-var mnemonic = "protect twenty embrace future shell accident bargain display sting power argue dish";
+var mnemonic = "outdoor student town supreme shoot happy device ball floor security bleak section";

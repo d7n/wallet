@@ -1,1 +1,1 @@
-var mnemonic = "broken huge recall unusual genuine execute huge oblige zebra crane casino forum";
+var mnemonic = "raven acquire setup sort wedding glad ugly current spice muffin correct opera";

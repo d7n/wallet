@@ -1,1 +1,1 @@
-var mnemonic = "walk horn series fade cigar excuse firm hand already aunt wealth gun";
+var mnemonic = "carry caution arm monitor leave young pond acid minimum grace silver ski";

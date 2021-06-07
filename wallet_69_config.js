@@ -1,1 +1,1 @@
-var mnemonic = "hour song mention knock dilemma divorce happy habit okay nothing spice real";
+var mnemonic = "tape few glare scene immune bullet rack quote share aunt expose lawn";

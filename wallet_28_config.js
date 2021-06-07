@@ -1,1 +1,1 @@
-var mnemonic = "travel unable page cube husband light rifle lunar destroy veteran eyebrow sponsor";
+var mnemonic = "lab liberty banana dove crowd sport glimpse fold jealous victory often keep";

@@ -1,1 +1,1 @@
-var mnemonic = "orange adult maid have jelly combine fork benefit initial sunset news own";
+var mnemonic = "panic wash isolate misery aware clap dizzy quarter junk frog cigar soldier";

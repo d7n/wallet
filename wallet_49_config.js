@@ -1,1 +1,1 @@
-var mnemonic = "stable involve dress train shuffle elder history vacuum kingdom token also series";
+var mnemonic = "air bargain chicken flame exit liquid purity task unknown foam roast wreck";

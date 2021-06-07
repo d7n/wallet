@@ -1,1 +1,1 @@
-var mnemonic = "clinic setup voice sibling attitude find bonus task couch useful service fame";
+var mnemonic = "dose screen stumble tuna news illness baby punch position sadness camera bid";

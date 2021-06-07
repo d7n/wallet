@@ -1,1 +1,1 @@
-var mnemonic = "midnight dragon match gap pledge cushion moral clean senior text boring female";
+var mnemonic = "poem caution leg magnet end unaware beauty sea blossom adjust weapon phone";

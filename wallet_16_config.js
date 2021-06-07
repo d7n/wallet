@@ -1,1 +1,1 @@
-var mnemonic = "combine brick hero scissors post vapor sniff profit again jealous oyster caution";
+var mnemonic = "plate frown east tool cool injury letter addict ignore boil minute south";

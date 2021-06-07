@@ -1,1 +1,1 @@
-var mnemonic = "betray bonus add impact culture liquid oblige abstract private chase despair weapon";
+var mnemonic = "blast drill excess already teach report tomato nominee frequent clown purity business";

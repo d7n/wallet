@@ -1,1 +1,1 @@
-var mnemonic = "amateur note system miss scissors bar van shaft hammer symbol question actor";
+var mnemonic = "ramp tragic slice nominee panel link mule dust employ calm pencil squeeze";

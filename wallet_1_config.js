@@ -1,1 +1,1 @@
-var mnemonic = "reward much mask face develop trouble puzzle achieve unfair sustain half improve";
+var mnemonic = "twist master fiscal purchase option wish ice horse barrel twin safe setup";

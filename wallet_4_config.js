@@ -1,1 +1,1 @@
-var mnemonic = "flash during season message loud refuse sweet citizen voyage praise spring couple";
+var mnemonic = "project field polar point brave link wheat enroll wedding family oppose table";

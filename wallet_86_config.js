@@ -1,1 +1,1 @@
-var mnemonic = "sample about rich leisure reward dirt oppose able tongue trophy believe couple";
+var mnemonic = "limb tape pelican total wing advice husband creek tip vehicle height number";

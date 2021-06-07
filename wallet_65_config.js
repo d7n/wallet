@@ -1,1 +1,1 @@
-var mnemonic = "pattern spoil fresh head equip clock auto grace nasty method carry frost";
+var mnemonic = "reduce lady effort way biology marriage parent demand attack health opinion salt";

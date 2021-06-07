@@ -1,1 +1,1 @@
-var mnemonic = "boat slow struggle rival street foam theme resist youth poet struggle law";
+var mnemonic = "river fix often salmon dolphin rival decrease street trigger volume shift wall";

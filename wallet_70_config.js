@@ -1,1 +1,1 @@
-var mnemonic = "glove lend laugh remove quantum nest false barely trick put evil relief";
+var mnemonic = "tissue stool whale flee inject visual empower settle horror ghost trigger struggle";

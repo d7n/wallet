@@ -1,1 +1,1 @@
-var mnemonic = "visit luggage chimney october perfect page parade erosion urban mosquito tilt across";
+var mnemonic = "surprise mutual act child render fiscal teach foam net dismiss target flavor";

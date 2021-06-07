@@ -1,1 +1,1 @@
-var mnemonic = "build waste warrior pond twice april mom roof angle parade foot indoor";
+var mnemonic = "clean magnet club engine more buyer observe detect obtain social protect pupil";

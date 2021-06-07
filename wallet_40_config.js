@@ -1,1 +1,1 @@
-var mnemonic = "nut glad barely turkey poem mandate dizzy volcano unveil erupt melt such";
+var mnemonic = "account anxiety price story smooth state miracle filter best person escape flight";

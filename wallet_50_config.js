@@ -1,1 +1,1 @@
-var mnemonic = "tent medal potato lift science apart risk victory mechanic possible lemon lyrics";
+var mnemonic = "bicycle lazy endorse deputy collect medal guilt story beyond wait pilot since";

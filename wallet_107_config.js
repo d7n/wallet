@@ -1,1 +1,1 @@
-var mnemonic = "atom company forget trial sick lion rigid blur away finger wheel fatal";
+var mnemonic = "vintage strategy mutual ginger risk behave auction summer wreck obey hazard banana";

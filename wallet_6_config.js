@@ -1,1 +1,1 @@
-var mnemonic = "subject lift ability artist future midnight must boil weapon into shove donor";
+var mnemonic = "spawn poem daring guess gain leisure write fever reject boost wild bag";

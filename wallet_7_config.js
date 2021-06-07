@@ -1,1 +1,1 @@
-var mnemonic = "gospel collect what admit space stove avocado heavy negative tornado leg tonight";
+var mnemonic = "cattle tail coyote twist poverty craft boss lobster squeeze antique slide deer";

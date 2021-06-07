@@ -1,1 +1,1 @@
-var mnemonic = "elephant bracket attend erode damp nerve royal parent repeat wagon silver cart";
+var mnemonic = "ten win basket often loan maze hurry unfold quit kind moral already";

@@ -1,1 +1,1 @@
-var mnemonic = "erode visa loyal couple verify liquid dash smooth rocket palm refuse tank";
+var mnemonic = "hazard topple heavy phrase rocket learn digital dilemma position cushion vote movie";

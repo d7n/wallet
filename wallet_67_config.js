@@ -1,1 +1,1 @@
-var mnemonic = "slight fringe ticket mother rule jewel mercy volcano rival moon unlock capital";
+var mnemonic = "spare gift blue velvet fence screen toy scale prevent express have scheme";

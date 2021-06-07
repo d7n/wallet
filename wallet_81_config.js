@@ -1,1 +1,1 @@
-var mnemonic = "wide pride planet dutch still profit express title find moral tourist velvet";
+var mnemonic = "cable code kiss typical craft carpet mansion wife pyramid narrow group resource";

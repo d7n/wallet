@@ -1,1 +1,1 @@
-var mnemonic = "divorce aerobic please creek help tornado primary journey confirm twin scheme album";
+var mnemonic = "wisdom swap solve top oil surface stable wave large reopen swamp usage";

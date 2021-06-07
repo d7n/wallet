@@ -1,1 +1,1 @@
-var mnemonic = "grace velvet kitten dial fame lumber silly amused grant runway upgrade exchange";
+var mnemonic = "drum kidney stumble stable disorder cancel reject fragile sound that ranch century";

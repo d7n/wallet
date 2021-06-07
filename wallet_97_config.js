@@ -1,1 +1,1 @@
-var mnemonic = "secret right together size title famous action news duck metal arrest feel";
+var mnemonic = "census retreat square current damage icon basket swing marriage ticket slice twist";

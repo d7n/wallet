@@ -1,1 +1,1 @@
-var mnemonic = "second typical inhale depth fame kick hair trim polar connect stove broom";
+var mnemonic = "conduct exist correct hip man gold wild refuse lawsuit loyal toward educate";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby siren magnet market lyrics creek voice social motion spare young prosper";
+var mnemonic = "benefit parade keen monster anger display humble person smile human duty today";

@@ -1,1 +1,1 @@
-var mnemonic = "truck slender walk duty market core matrix delay hawk diagram piece sustain";
+var mnemonic = "auto home reduce this quit maple chest foil great cancel they gauge";

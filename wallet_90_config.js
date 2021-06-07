@@ -1,1 +1,1 @@
-var mnemonic = "fit awesome globe wheel grab away enter inside soda engage soda poem";
+var mnemonic = "search present lion citizen open control nurse transfer trap bounce speak eyebrow";

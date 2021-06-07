@@ -1,1 +1,1 @@
-var mnemonic = "delay brisk night promote fiber wrap enact female flower slow brief october";
+var mnemonic = "program vapor decorate knock fetch mail embrace fine person swarm indicate glance";

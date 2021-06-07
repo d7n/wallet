@@ -1,1 +1,1 @@
-var mnemonic = "display remain arch expose flip despair suggest pony final forum maze tonight";
+var mnemonic = "addict panther clock journey large summer quality general toddler south waste mimic";

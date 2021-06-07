@@ -1,1 +1,1 @@
-var mnemonic = "leisure hobby please dune before buyer announce floor evolve bacon blade violin";
+var mnemonic = "music glow frequent evolve whip humor mask put idea sentence lesson slim";

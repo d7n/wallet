@@ -1,1 +1,1 @@
-var mnemonic = "surface coil lesson rent floor result burger catch neither guard lab leisure";
+var mnemonic = "double broken clay canvas mix absurd popular feature sniff medal drum easily";

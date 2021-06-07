@@ -1,1 +1,1 @@
-var mnemonic = "depart eyebrow retreat monitor cloth feature banner bench story upgrade light shiver";
+var mnemonic = "happy method water short claim length insane trial knock coyote cousin cup";

@@ -1,1 +1,1 @@
-var mnemonic = "flip debate inform churn business dream quick leopard enhance horn market foster";
+var mnemonic = "custom train domain smoke nature north fuel repair range segment exist consider";

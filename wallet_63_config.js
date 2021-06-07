@@ -1,1 +1,1 @@
-var mnemonic = "enable typical begin cause dash steel green area ordinary scheme blouse crouch";
+var mnemonic = "nation burger ticket breeze firm label glove promote lab hungry define glory";

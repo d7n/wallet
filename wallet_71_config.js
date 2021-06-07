@@ -1,1 +1,1 @@
-var mnemonic = "quantum clerk sense wait verb execute ghost raven flower ticket reform nest";
+var mnemonic = "crisp celery mobile later toward dose reflect wife peasant stool average age";

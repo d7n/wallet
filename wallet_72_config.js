@@ -1,1 +1,1 @@
-var mnemonic = "cereal tissue cabin when fault trophy describe fruit wide adult slice subway";
+var mnemonic = "beach sniff power laundry cat ill inquiry faith orbit wedding better ceiling";

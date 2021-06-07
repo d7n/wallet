@@ -1,1 +1,1 @@
-var mnemonic = "oxygen around check dinosaur hero cheese exist raise catalog uncle circle settle";
+var mnemonic = "enjoy comic party syrup bleak leg immense decorate kiwi enact prison shiver";

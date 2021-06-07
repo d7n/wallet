@@ -1,1 +1,1 @@
-var mnemonic = "put olympic december abandon soft wash large lock ivory sort scissors dial";
+var mnemonic = "system finger keen have eight faculty room august exercise illness usual anxiety";

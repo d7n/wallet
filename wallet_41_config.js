@@ -1,1 +1,1 @@
-var mnemonic = "labor practice evidence spirit age risk ensure guess lizard old athlete excuse";
+var mnemonic = "say quality cupboard state flavor off life all light embody embody loop";

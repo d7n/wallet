@@ -1,1 +1,1 @@
-var mnemonic = "page fortune dune unfair forget tomorrow language rigid pudding cycle february follow";
+var mnemonic = "same live produce script end spare fork blossom that core shine window";

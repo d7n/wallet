@@ -1,1 +1,1 @@
-var mnemonic = "air obey stove degree assist girl stereo throw hint board panther pride";
+var mnemonic = "then tiger wave huge offer biology oval mutual history cabbage upset potato";

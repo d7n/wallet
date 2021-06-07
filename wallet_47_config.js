@@ -1,1 +1,1 @@
-var mnemonic = "spend height exist champion tribe quick win tube skin recycle bachelor sudden";
+var mnemonic = "reveal diet rug dawn grid twelve want blanket galaxy few since vintage";

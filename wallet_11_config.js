@@ -1,1 +1,1 @@
-var mnemonic = "gold fitness emotion nerve army radio giraffe satoshi crash stage account sail";
+var mnemonic = "ghost polar turn penalty mad gym cube index away vivid suit typical";

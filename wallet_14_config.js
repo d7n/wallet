@@ -1,1 +1,1 @@
-var mnemonic = "bounce damage battle thank loyal public poem insane worry page cake banana";
+var mnemonic = "visual auto pitch identify peasant vessel mutual accuse right ridge finger believe";

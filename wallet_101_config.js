@@ -1,1 +1,1 @@
-var mnemonic = "that box true chapter pudding venture author pottery evoke year tape sauce";
+var mnemonic = "goat swim decide impose melt inspire afraid clap puppy idle smart hungry";

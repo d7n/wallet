@@ -1,1 +1,1 @@
-var mnemonic = "timber boy attitude attract reopen fold man problem expire report stadium width";
+var mnemonic = "siege auto detect perfect notable steak trim thing pool rug token label";

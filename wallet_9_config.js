@@ -1,1 +1,1 @@
-var mnemonic = "harsh unknown estate release debate item conduct pride enter furnace injury intact";
+var mnemonic = "amused draft expose gasp morning involve blood catalog eyebrow cloud recipe brand";

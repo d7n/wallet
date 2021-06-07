@@ -1,1 +1,1 @@
-var mnemonic = "pole choice stairs ghost bird profit arm unfold bulb woman tissue old";
+var mnemonic = "invest title country oxygen flavor any oyster baby pumpkin casual left beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "wire eagle remind glue blush sea escape obey random glare hold pull";
+var mnemonic = "direct program jealous bike main rather warfare prepare blast parrot crane nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "afford draft transfer arch verb minute alert accuse wolf beyond alien area";
+var mnemonic = "wealth city light ready margin rather loop sadness attack upon notable captain";

@@ -1,1 +1,1 @@
-var mnemonic = "broom day pottery method ketchup praise ocean food tobacco enable memory floor";
+var mnemonic = "wealth child tobacco umbrella focus ranch crash reopen shadow artwork caught maximum";

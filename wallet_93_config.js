@@ -1,1 +1,1 @@
-var mnemonic = "about this select dove skate modify glory echo awkward ranch tool excess";
+var mnemonic = "shuffle hunt pistol wise fatal leopard glare office oil elevator major network";

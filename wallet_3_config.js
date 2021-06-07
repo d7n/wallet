@@ -1,1 +1,1 @@
-var mnemonic = "setup act aim source baby garlic sudden silk chalk job woman bag";
+var mnemonic = "idle coyote deer tribe corn million pilot cover pond tackle test gaze";

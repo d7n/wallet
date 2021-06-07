@@ -1,1 +1,1 @@
-var mnemonic = "impact creek grow police key gold dirt bridge sure road course syrup";
+var mnemonic = "pool evolve debris deer mom parade fatal fabric region smile dutch art";

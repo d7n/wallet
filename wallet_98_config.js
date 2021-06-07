@@ -1,1 +1,1 @@
-var mnemonic = "brother chronic bench alarm ethics drive play cry chest welcome canal loop";
+var mnemonic = "round snap enough affair middle genius grain page square result symptom wine";

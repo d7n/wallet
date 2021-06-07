@@ -1,1 +1,1 @@
-var mnemonic = "day tiny swap urban oxygen patrol romance rose net fix during feature";
+var mnemonic = "clarify pet stumble duty shadow sad flush image lizard deliver fiscal royal";

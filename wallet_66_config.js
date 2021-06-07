@@ -1,1 +1,1 @@
-var mnemonic = "march upon menu sort salute kidney blush gym axis velvet april file";
+var mnemonic = "toast unfair lawsuit napkin aunt reflect gun explain together use fashion enlist";

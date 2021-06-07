@@ -1,1 +1,1 @@
-var mnemonic = "social coral fragile damage science misery daughter coil industry column rigid cruel";
+var mnemonic = "insect trash survey dinosaur convince light meadow meadow unaware soul paddle awkward";

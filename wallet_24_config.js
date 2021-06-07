@@ -1,1 +1,1 @@
-var mnemonic = "parrot document wing hamster fade duck lava raccoon approve bulk detail fashion";
+var mnemonic = "long limb cause popular rifle supreme wide screen shop couch match dinner";

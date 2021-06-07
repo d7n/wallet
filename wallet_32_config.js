@@ -1,1 +1,1 @@
-var mnemonic = "wool sun machine pact mystery place quick hire off essence busy soap";
+var mnemonic = "pupil risk common allow jelly slender guard crucial retire wing sweet picture";

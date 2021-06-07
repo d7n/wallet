@@ -1,1 +1,1 @@
-var mnemonic = "fury affair match tuna bike love ten cool avoid board hungry buzz";
+var mnemonic = "obtain robot economy uphold duck dignity library siege adjust giraffe window choice";

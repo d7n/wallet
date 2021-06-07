@@ -1,1 +1,1 @@
-var mnemonic = "vehicle forest sausage dune acquire mimic foot element report diet clever access";
+var mnemonic = "worth hand treat hurt mountain awkward lunch hybrid flat state scan swarm";
