@@ -1,1 +1,1 @@
-var mnemonic = "fever word border credit first oil avocado clap question grant into innocent";
+var mnemonic = "insect ocean very pelican profit beef cheap govern camera filter color sort";

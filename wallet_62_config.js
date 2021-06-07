@@ -1,1 +1,1 @@
-var mnemonic = "sunset violin age pepper search lounge hybrid mesh danger uncle cute retire";
+var mnemonic = "juice autumn title fun pulse raccoon result pretty dream depart script typical";

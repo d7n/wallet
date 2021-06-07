@@ -1,1 +1,1 @@
-var mnemonic = "grit peanut stem expose then what express volcano gospel gift assault nut";
+var mnemonic = "boil vacuum easily bubble school exist assume secret choice air advance urban";

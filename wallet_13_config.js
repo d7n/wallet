@@ -1,1 +1,1 @@
-var mnemonic = "current suffer angry forget spoil announce swamp tent seven abandon nation stay";
+var mnemonic = "cheese hire dinosaur endorse attack smart aim slide survey garage soda resource";

@@ -1,1 +1,1 @@
-var mnemonic = "very example flower result gap survey blast brisk farm judge lottery twelve";
+var mnemonic = "seven route frequent mule sister blade elevator chest occur bid wink staff";

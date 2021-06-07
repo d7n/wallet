@@ -1,1 +1,1 @@
-var mnemonic = "wedding pull mom illness border model before program include fossil dizzy lecture";
+var mnemonic = "carbon crucial fame blouse erupt bounce orchard talent miss phone party hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon game mutual punch skill girl fringe bargain knock negative food such";
+var mnemonic = "bunker meadow gesture cart chuckle private later tortoise loan rose twin predict";

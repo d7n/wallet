@@ -1,1 +1,1 @@
-var mnemonic = "hungry interest dolphin tilt north pluck dolphin prepare chuckle balcony case tell";
+var mnemonic = "fatal glide slice book husband garden zone speed process enhance cable pole";

@@ -1,1 +1,1 @@
-var mnemonic = "enter beach treat athlete snack duck any claim orchard marine budget offer";
+var mnemonic = "version grief thank brown skirt cruel where fork inject spend organ eyebrow";

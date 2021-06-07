@@ -1,1 +1,1 @@
-var mnemonic = "cheap level demand win deposit service torch puppy fever mushroom shoe moral";
+var mnemonic = "artist upgrade pumpkin picnic rely crane output tornado shoot obvious quarter theory";

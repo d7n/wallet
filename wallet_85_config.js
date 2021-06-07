@@ -1,1 +1,1 @@
-var mnemonic = "grit term icon tuition ghost wrap rally angry prize rhythm world town";
+var mnemonic = "butter tennis uniform plastic extend absorb scene clinic pledge behind goat fork";

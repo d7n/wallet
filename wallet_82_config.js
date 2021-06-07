@@ -1,1 +1,1 @@
-var mnemonic = "innocent crisp nut tumble multiply piece service predict space afford fiscal ankle";
+var mnemonic = "quantum sustain viable fiscal canoe aunt earth aerobic acoustic hurt relief brown";

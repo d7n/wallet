@@ -1,1 +1,1 @@
-var mnemonic = "regular vibrant account ritual panel rally clerk awesome pistol nest obscure decline";
+var mnemonic = "mesh cheese olympic own yellow pepper step consider wealth art police river";

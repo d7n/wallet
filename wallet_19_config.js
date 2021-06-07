@@ -1,1 +1,1 @@
-var mnemonic = "river discover scale clown horror place divide media gaze color monster agent";
+var mnemonic = "list once short legal carry north laundry reopen repeat process arctic ball";

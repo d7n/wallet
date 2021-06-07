@@ -1,1 +1,1 @@
-var mnemonic = "switch below guitar stairs bulk friend innocent outer width square atom frame";
+var mnemonic = "alter worth maze patch ramp into bar heavy glare enact motion entire";

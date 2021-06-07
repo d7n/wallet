@@ -1,1 +1,1 @@
-var mnemonic = "distance door damp best poet result garage middle resemble grant isolate stumble";
+var mnemonic = "snow cradle category photo short smart sorry teach firm they breeze waste";

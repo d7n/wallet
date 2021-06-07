@@ -1,1 +1,1 @@
-var mnemonic = "camp wash master water tragic life soap wool clean sand wet cattle";
+var mnemonic = "horse fabric plug sentence drama shed artist coral torch brand primary festival";

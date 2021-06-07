@@ -1,1 +1,1 @@
-var mnemonic = "mouse fruit silver all name deputy scout member old ahead fantasy just";
+var mnemonic = "feature skirt spatial canyon project minute solution donor fury acid citizen repeat";

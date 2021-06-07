@@ -1,1 +1,1 @@
-var mnemonic = "armed teach hire unable income vibrant bridge gym opera state steel fitness";
+var mnemonic = "idea multiply gossip lucky slogan hint organ course mandate legal mom tenant";

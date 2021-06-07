@@ -1,1 +1,1 @@
-var mnemonic = "cereal frown fiber differ olive family raw nothing mobile net oxygen search";
+var mnemonic = "frost law ready smart sell master demand drill arrow history field cancel";

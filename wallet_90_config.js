@@ -1,1 +1,1 @@
-var mnemonic = "coast clay vacant collect wood alley outdoor link throw shove squeeze jewel";
+var mnemonic = "wheel aim spy shove giraffe index section rubber edge lesson tomato valley";

@@ -1,1 +1,1 @@
-var mnemonic = "bread depart bar beef globe weird test garment injury acoustic soon notice";
+var mnemonic = "anxiety chair reunion inflict cupboard portion pretty dolphin school bring ridge boss";

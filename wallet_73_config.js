@@ -1,1 +1,1 @@
-var mnemonic = "motor reform helmet emerge era street fine mention pig thunder stem just";
+var mnemonic = "valve shiver save exist priority couple utility pilot asthma gas stand donkey";

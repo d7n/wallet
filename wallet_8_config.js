@@ -1,1 +1,1 @@
-var mnemonic = "indicate run occur leave dad people that moment once anchor patrol lobster";
+var mnemonic = "inner dinner buffalo resemble nephew farm sniff fold time chimney frame better";

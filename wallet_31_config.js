@@ -1,1 +1,1 @@
-var mnemonic = "erase evil seed again game lottery tip desk uncover okay small tortoise";
+var mnemonic = "stereo fog aware surge market wealth absent umbrella palm lumber hint ski";

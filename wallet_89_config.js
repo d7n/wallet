@@ -1,1 +1,1 @@
-var mnemonic = "phrase surface legal system law cycle inquiry okay page picture skull pass";
+var mnemonic = "blame tuition relief finger fiber correct gadget dirt quote hood educate cycle";

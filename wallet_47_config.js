@@ -1,1 +1,1 @@
-var mnemonic = "easy sail whisper buffalo elbow nature gravity general tourist hungry square ask";
+var mnemonic = "fabric thunder awful dentist foil reject hundred foot ensure ritual note purchase";

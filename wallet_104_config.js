@@ -1,1 +1,1 @@
-var mnemonic = "fame color soon just gloom clever cube afford pulse furnace drip such";
+var mnemonic = "minor cliff file hold put vanish depth symptom exotic valid kingdom melt";

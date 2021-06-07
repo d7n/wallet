@@ -1,1 +1,1 @@
-var mnemonic = "cloth normal pet orchard bleak prison oppose robust dish heart laptop student";
+var mnemonic = "scan zoo blossom clever parade boring tribe together lake asset silk stool";

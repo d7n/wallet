@@ -1,1 +1,1 @@
-var mnemonic = "often swear occur reason injury maple minor rain boat floor apple tell";
+var mnemonic = "rally edge post trim attitude giant claim equip chaos track yellow super";

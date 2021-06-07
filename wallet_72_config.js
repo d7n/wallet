@@ -1,1 +1,1 @@
-var mnemonic = "antenna poet pair lyrics document person innocent dumb rotate trim shove ready";
+var mnemonic = "story measure cute exist bounce soap call employ wet better sister spoil";

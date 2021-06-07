@@ -1,1 +1,1 @@
-var mnemonic = "snap civil topic face swift final mango dish cost parrot pen punch";
+var mnemonic = "mystery gas juice embody grief alpha summer dawn scatter utility castle worry";

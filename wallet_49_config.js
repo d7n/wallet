@@ -1,1 +1,1 @@
-var mnemonic = "insect runway toilet belt tail eager equip pistol sort call kiwi rocket";
+var mnemonic = "beach absent lock rescue salon fiber draw usage run gain salute pioneer";

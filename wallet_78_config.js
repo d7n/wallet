@@ -1,1 +1,1 @@
-var mnemonic = "key beauty lab custom whisper feed economy garbage health ridge suffer bomb";
+var mnemonic = "dentist uphold vast edit walnut cabin mule diet chaos senior bunker cricket";

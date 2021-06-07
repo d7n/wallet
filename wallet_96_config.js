@@ -1,1 +1,1 @@
-var mnemonic = "flip cargo drop solve toss taxi brave crater later breeze weekend senior";
+var mnemonic = "pink mushroom weekend muffin mechanic enroll poem announce intact drop draw seven";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd search misery number twelve soccer clerk forget income model zoo thrive";
+var mnemonic = "hawk chest valid afford similar glad pistol enjoy north copper essay enter";

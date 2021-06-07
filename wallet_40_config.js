@@ -1,1 +1,1 @@
-var mnemonic = "detect parade episode skate mind nerve blind upset claim local holiday fever";
+var mnemonic = "general gain foot sentence equip dumb amount cloud desert chaos silly goddess";

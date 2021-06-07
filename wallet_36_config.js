@@ -1,1 +1,1 @@
-var mnemonic = "raw twin human raw waste olympic faculty divorce accident benefit insane usual";
+var mnemonic = "pride fitness mass unfold stadium heavy pair sport pupil silk yard fire";

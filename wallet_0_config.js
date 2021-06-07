@@ -1,1 +1,1 @@
-var mnemonic = "check fault oxygen indoor home vague dignity such view mushroom jazz pass";
+var mnemonic = "race loop ivory sudden garlic lock clinic cover cricket cart car conduct";

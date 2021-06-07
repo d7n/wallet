@@ -1,1 +1,1 @@
-var mnemonic = "approve universe glare produce witness curve city cruel group jewel raw rural";
+var mnemonic = "art imitate imitate apart border option bottom debate lift talent since episode";

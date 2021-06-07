@@ -1,1 +1,1 @@
-var mnemonic = "feature chest naive rebel wave surround spike security have predict above pair";
+var mnemonic = "horror tribe prepare tennis favorite jealous master cabin wife night apart nasty";

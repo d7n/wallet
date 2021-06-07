@@ -1,1 +1,1 @@
-var mnemonic = "pill funny visa brass error object much gun smart pulp private catch";
+var mnemonic = "few net recycle gauge craft desert swift attitude still honey critic dinner";

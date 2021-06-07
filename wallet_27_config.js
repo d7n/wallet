@@ -1,1 +1,1 @@
-var mnemonic = "endorse blind atom pattern super title clever basic manual galaxy spend above";
+var mnemonic = "demise thumb price leisure room pink cook seed scare radar hover chapter";

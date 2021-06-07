@@ -1,1 +1,1 @@
-var mnemonic = "soon hub casual safe already captain profit sorry rookie expose blur call";
+var mnemonic = "include hammer defense soccer clog pool friend very inner suit bless suggest";

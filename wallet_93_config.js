@@ -1,1 +1,1 @@
-var mnemonic = "super enlist shove fatigue chapter estate ten canvas sister craft proud friend";
+var mnemonic = "divert affair until animal art kiwi addict chef juice real advice wreck";

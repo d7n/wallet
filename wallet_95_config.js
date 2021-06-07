@@ -1,1 +1,1 @@
-var mnemonic = "salon dolphin over absent giant business frown identify flock hotel group chapter";
+var mnemonic = "wait jealous method acquire pumpkin mammal elephant party tomato olive elder seed";

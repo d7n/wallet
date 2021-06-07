@@ -1,1 +1,1 @@
-var mnemonic = "utility clown science pet erupt skate core inspire rely track rather relief";
+var mnemonic = "deal goose armed sheriff achieve obscure glass riot unfair network wage minute";

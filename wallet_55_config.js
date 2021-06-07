@@ -1,1 +1,1 @@
-var mnemonic = "curious mushroom panda rather bounce differ sock six candy language keen desert";
+var mnemonic = "fashion glass increase focus decline merit code still text check calm toward";

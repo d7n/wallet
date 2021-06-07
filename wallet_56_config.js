@@ -1,1 +1,1 @@
-var mnemonic = "coffee toilet able decide shoulder security meadow total unusual image increase electric";
+var mnemonic = "sign orient mad lesson creek mother call river bag narrow window genre";

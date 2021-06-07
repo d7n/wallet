@@ -1,1 +1,1 @@
-var mnemonic = "dignity wave beyond struggle fence post hundred exhibit wet sleep list giraffe";
+var mnemonic = "thrive relax ready between client entry office unusual remain crisp bamboo crack";

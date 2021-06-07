@@ -1,1 +1,1 @@
-var mnemonic = "salon ordinary atom avoid inch wedding hub unhappy grant virus couch present";
+var mnemonic = "slogan allow height bounce mandate amazing nut real loan cruise extra vacant";

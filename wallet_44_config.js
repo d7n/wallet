@@ -1,1 +1,1 @@
-var mnemonic = "steak advance damp holiday cart topic viable glove hen lens thunder assist";
+var mnemonic = "romance slender flip alcohol reform crane maximum skate vital pupil huge squeeze";

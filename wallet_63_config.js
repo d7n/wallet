@@ -1,1 +1,1 @@
-var mnemonic = "stereo man absurd circle body verify advice zone across more battle exact";
+var mnemonic = "belt cricket emotion page exact practice luggage casual tank shoe inherit park";

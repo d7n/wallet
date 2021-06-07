@@ -1,1 +1,1 @@
-var mnemonic = "uncle silk theme arena panic wrong gospel kiss wheel begin convince that";
+var mnemonic = "light urban inch unit sudden great people gain normal kind bunker wash";

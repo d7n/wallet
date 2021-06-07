@@ -1,1 +1,1 @@
-var mnemonic = "ride pass actress salad decorate rib gravity report blouse fossil pole hole";
+var mnemonic = "glimpse segment sunset bamboo fatal repeat bonus alien cat image gate bomb";

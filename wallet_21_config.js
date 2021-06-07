@@ -1,1 +1,1 @@
-var mnemonic = "crucial lift picture twelve mistake cigar assist exhibit broccoli rapid rich robust";
+var mnemonic = "bargain drop rough derive client client sing lunch muscle allow behind wink";

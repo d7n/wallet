@@ -1,1 +1,1 @@
-var mnemonic = "diesel pond relax stable next lend police into rough wait degree valley";
+var mnemonic = "client vendor excuse hollow group knock helmet dice north fossil where cost";

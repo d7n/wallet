@@ -1,1 +1,1 @@
-var mnemonic = "input turtle uniform combine annual math garbage zero scene decade trap add";
+var mnemonic = "define warm duck sort abuse oyster shock movie enact dune cook sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic permit account rigid salmon shell human catalog above smart identify crawl";
+var mnemonic = "gossip axis drip region siege original grid example dance dinosaur lady image";

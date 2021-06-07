@@ -1,1 +1,1 @@
-var mnemonic = "hammer mystery promote focus caution into vibrant boring relief tennis thought scare";
+var mnemonic = "lyrics practice cream flash estate analyst present foil display amount jump choice";

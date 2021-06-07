@@ -1,1 +1,1 @@
-var mnemonic = "there fox miracle tank robust dumb away town option gold kite decrease";
+var mnemonic = "suffer immune winter finish settle employ boil buyer awkward cushion shield payment";

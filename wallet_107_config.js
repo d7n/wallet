@@ -1,1 +1,1 @@
-var mnemonic = "double crouch avoid forward burden genre leaf chimney science repeat reduce taste";
+var mnemonic = "uniform cannon upper spoon prefer clock barrel inherit soldier ethics nature bright";

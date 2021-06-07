@@ -1,1 +1,1 @@
-var mnemonic = "morning kiwi inflict feature talent clock sword tongue glass below drink indoor";
+var mnemonic = "dove skill enroll option practice exercise safe destroy monitor segment muscle gossip";

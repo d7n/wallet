@@ -1,1 +1,1 @@
-var mnemonic = "tenant agent trick aware again brass display dragon grain cave repair web";
+var mnemonic = "street glance side lab scrap stuff hundred pupil kingdom alarm yellow civil";

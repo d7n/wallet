@@ -1,1 +1,1 @@
-var mnemonic = "shift stable exclude fiction velvet actress mountain find smart debris patient angry";
+var mnemonic = "infant travel neglect youth buyer mom friend quality motion vocal alert hidden";

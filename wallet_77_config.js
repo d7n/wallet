@@ -1,1 +1,1 @@
-var mnemonic = "undo juice chronic auction kitten february youth gloom head account buyer crucial";
+var mnemonic = "coyote multiply world antique rude about athlete work cat fluid anger toss";

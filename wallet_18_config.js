@@ -1,1 +1,1 @@
-var mnemonic = "bargain bean picnic rhythm fringe leisure pilot essay guitar turtle arrange panther";
+var mnemonic = "together pretty aspect believe always output bar inch capital execute bracket region";

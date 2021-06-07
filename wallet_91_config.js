@@ -1,1 +1,1 @@
-var mnemonic = "sail filter rice bless bring helmet hard engage diagram guess neither permit";
+var mnemonic = "brand cricket aunt sorry nice pear way firm obtain defy tired ill";

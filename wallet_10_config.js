@@ -1,1 +1,1 @@
-var mnemonic = "end spoon brown space token flip crowd uniform combine loop mushroom diamond";
+var mnemonic = "leg grid because miss lion resource suffer climb duty lend together device";

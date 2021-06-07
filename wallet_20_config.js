@@ -1,1 +1,1 @@
-var mnemonic = "surface rebel fee lamp level ladder large scout city verify dismiss glue";
+var mnemonic = "word alley truth panda weekend because below reason milk bring heart joy";

@@ -1,1 +1,1 @@
-var mnemonic = "empty quantum salon divide into legend veteran uphold find notable metal rubber";
+var mnemonic = "during fuel record cave layer limb gallery rifle finish receive illegal raise";

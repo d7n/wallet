@@ -1,1 +1,1 @@
-var mnemonic = "teach spare copper word try immense camp keep retire kingdom unusual arrive";
+var mnemonic = "pulp match typical law family force food because dutch help neutral mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "copy chalk country until sport ability kitchen shaft doctor survey kiss major";
+var mnemonic = "diagram exchange gravity mesh path item soap arrow tower bundle situate plate";

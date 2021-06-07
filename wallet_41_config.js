@@ -1,1 +1,1 @@
-var mnemonic = "hope piece pulp wife increase bring employ young dust perfect equip hawk";
+var mnemonic = "next split curtain lizard hip client avocado finish region blood panic local";

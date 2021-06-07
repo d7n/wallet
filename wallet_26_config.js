@@ -1,1 +1,1 @@
-var mnemonic = "myth present noise stool essence blur energy endless infant caught clog habit";
+var mnemonic = "diary dad horror hazard wife elevator walk keen amazing modify hamster cabin";

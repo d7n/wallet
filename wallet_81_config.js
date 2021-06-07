@@ -1,1 +1,1 @@
-var mnemonic = "lecture member tower city enhance filter input december gentle goat kangaroo educate";
+var mnemonic = "pause flat clarify account away harbor tree detail scorpion release hazard lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix census iron pear elevator multiply trip idea autumn this erode biology";
+var mnemonic = "sausage story achieve gas nominee young chair gown stamp panther obtain horn";

@@ -1,1 +1,1 @@
-var mnemonic = "behind pitch girl cabin genius agree floor aunt shrimp train amazing field";
+var mnemonic = "father brick casino glad urban name detect umbrella joke filter narrow weekend";

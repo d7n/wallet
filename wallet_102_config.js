@@ -1,1 +1,1 @@
-var mnemonic = "easily hint tank mirror jealous category way usual course retreat whale ten";
+var mnemonic = "hard net category light milk beach elevator heart theory step enlist profit";

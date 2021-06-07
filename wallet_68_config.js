@@ -1,1 +1,1 @@
-var mnemonic = "animal cat snap axis way clog spoil frown steak soon system crouch";
+var mnemonic = "flat gain song liquid sting aware sunny detect wall ripple unknown strike";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel exchange report chair forget quick title unit brief enlist photo express";
+var mnemonic = "razor buddy web film citizen album series kite sure artist image damage";

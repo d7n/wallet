@@ -1,1 +1,1 @@
-var mnemonic = "like velvet body civil stairs lawn candy enhance exhibit traffic dial tube";
+var mnemonic = "visual crazy broom term adult market fetch happy puzzle unaware current swear";

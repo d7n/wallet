@@ -1,1 +1,1 @@
-var mnemonic = "title ranch wedding bronze economy one eye casual now foam bubble vapor";
+var mnemonic = "neglect liberty riot great street zoo escape hazard knock slender dance today";

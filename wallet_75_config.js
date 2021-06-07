@@ -1,1 +1,1 @@
-var mnemonic = "theory panel night tongue notice parade honey turtle jump chuckle snack police";
+var mnemonic = "census luxury indoor cricket scale soup arena suffer toe else limit health";

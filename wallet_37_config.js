@@ -1,1 +1,1 @@
-var mnemonic = "item shuffle liquid grass awake try name fatal require tonight quantum leopard";
+var mnemonic = "remember bus wife ship rookie genre rookie almost summer dose boat degree";
