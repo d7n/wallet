@@ -1,1 +1,1 @@
-var mnemonic = "flash crack exile giggle shallow panther elevator link muffin laptop dentist happy";
+var mnemonic = "rather cry law awake festival hold fitness helmet danger lizard voice suit";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly scissors response wait day penalty hat zone stairs wool twelve broccoli";
+var mnemonic = "question language useful repair involve tiny deny cruel luggage ball undo swift";

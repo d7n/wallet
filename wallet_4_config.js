@@ -1,1 +1,1 @@
-var mnemonic = "olympic arrive family seven aspect viable wait uncle illness course frequent decade";
+var mnemonic = "minimum kidney globe disagree local jar giraffe gate fantasy luxury able fuel";

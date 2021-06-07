@@ -1,1 +1,1 @@
-var mnemonic = "fade wrist speak grass useless resist rough february giggle use identify south";
+var mnemonic = "grant omit disease season coconut lion involve alley immune laundry pull around";

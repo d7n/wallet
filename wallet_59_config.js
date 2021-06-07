@@ -1,1 +1,1 @@
-var mnemonic = "relax hollow owner broccoli foster lion mad become leisure push smart true";
+var mnemonic = "gown keep escape head limit loan retire modify almost silver key song";

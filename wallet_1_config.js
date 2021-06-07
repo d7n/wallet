@@ -1,1 +1,1 @@
-var mnemonic = "term wool clip skull unit surface glance price issue core enlist cigar";
+var mnemonic = "nuclear burden pudding copper spider bundle risk tomorrow alert blouse civil fringe";

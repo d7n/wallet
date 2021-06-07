@@ -1,1 +1,1 @@
-var mnemonic = "liberty apple address song tube noble broom width peanut ladder first script";
+var mnemonic = "mix fatigue salt rely kitten skill sick lonely rally sunset vintage scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan setup chat second bid ramp door diamond wink clinic badge into";
+var mnemonic = "dwarf icon minute banana pride afraid account order detect rural settle glance";

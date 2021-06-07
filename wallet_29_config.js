@@ -1,1 +1,1 @@
-var mnemonic = "grass endorse awake absurd trip essay alter oak lava science promote stay";
+var mnemonic = "square finger vivid cotton domain twelve surprise buzz among wheat hen elbow";

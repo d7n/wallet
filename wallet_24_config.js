@@ -1,1 +1,1 @@
-var mnemonic = "grief phone spider potato ask hazard horror original machine once flip joke";
+var mnemonic = "neglect soft purity nerve engage stumble bid subject pact uncle lend pool";

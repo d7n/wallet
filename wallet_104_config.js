@@ -1,1 +1,1 @@
-var mnemonic = "math bar common swamp orient collect maze hunt once steel matrix sudden";
+var mnemonic = "sock oven bind grief code predict border honey seek athlete husband game";

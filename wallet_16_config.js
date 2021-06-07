@@ -1,1 +1,1 @@
-var mnemonic = "grit ask rib three behave mail audit illegal route face impulse pen";
+var mnemonic = "sport wash pulse captain galaxy degree cry depart hammer glove ten ladder";

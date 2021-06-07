@@ -1,1 +1,1 @@
-var mnemonic = "void together jelly acoustic spirit indicate hungry cousin portion human best total";
+var mnemonic = "delay nerve above improve gauge clog scheme vapor ramp panic above snap";

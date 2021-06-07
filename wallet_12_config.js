@@ -1,1 +1,1 @@
-var mnemonic = "barely zebra palace actress game filter joke arch physical wool today course";
+var mnemonic = "inflict hill vacuum slow safe gentle trumpet oven asset palace crazy venue";

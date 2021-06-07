@@ -1,1 +1,1 @@
-var mnemonic = "length secret cross street banana half tide tuition tortoise bronze disease rich";
+var mnemonic = "dutch where social again twelve price borrow soup fall fish sentence hundred";

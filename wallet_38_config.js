@@ -1,1 +1,1 @@
-var mnemonic = "input muffin soldier only wait stand salon pioneer patient conduct unusual erode";
+var mnemonic = "steak season recipe planet moon payment rival vote dry double rice shell";

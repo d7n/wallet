@@ -1,1 +1,1 @@
-var mnemonic = "chaos join melt rural tribe trophy blame skull emotion brand pluck inhale";
+var mnemonic = "whisper neutral pig effort teach panda flee there huge sponsor sign transfer";

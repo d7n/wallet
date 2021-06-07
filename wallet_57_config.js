@@ -1,1 +1,1 @@
-var mnemonic = "column toward dove release theme creek say effort garden capable merit thrive";
+var mnemonic = "armed ready nothing amazing equip april outer select civil cat bitter entire";

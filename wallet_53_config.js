@@ -1,1 +1,1 @@
-var mnemonic = "wall divorce describe depend repeat critic evoke valid right volcano tent actual";
+var mnemonic = "hobby problem clean artwork six middle soon motion audit field what music";

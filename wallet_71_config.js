@@ -1,1 +1,1 @@
-var mnemonic = "sock crumble scrap never baby source fun vacant smart much rotate boy";
+var mnemonic = "ready wire coral bean coin canal lobster question grant wheat reopen feed";

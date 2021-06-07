@@ -1,1 +1,1 @@
-var mnemonic = "clutch minor fault spice enhance choose panda myth control insane budget fabric";
+var mnemonic = "course oval extend abandon spray dismiss purpose essay obvious purse harbor among";

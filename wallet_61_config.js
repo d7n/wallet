@@ -1,1 +1,1 @@
-var mnemonic = "faculty limit update train consider ozone actress crash fatal coffee rug hood";
+var mnemonic = "mail permit discover bullet attitude sibling scrub lumber battle swim bargain sister";

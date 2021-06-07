@@ -1,1 +1,1 @@
-var mnemonic = "dad plug smart nerve initial cabbage wonder fragile drill miracle orbit describe";
+var mnemonic = "team fabric short tissue organ melt divorce bulk resource advice nose oak";

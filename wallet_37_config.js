@@ -1,1 +1,1 @@
-var mnemonic = "enter later cherry track pear move poverty ripple panther loud axis hybrid";
+var mnemonic = "escape motor tourist rice setup pink grace burst distance assume bulk educate";

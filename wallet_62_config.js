@@ -1,1 +1,1 @@
-var mnemonic = "first bag smart peace left cream stumble habit banana eye eyebrow flip";
+var mnemonic = "lake inmate moral unusual measure measure term secret logic border snake deliver";

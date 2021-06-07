@@ -1,1 +1,1 @@
-var mnemonic = "lock soda alarm truck review argue until either elite auction benefit common";
+var mnemonic = "weapon someone buyer obtain credit youth flee snack bright swing electric vanish";

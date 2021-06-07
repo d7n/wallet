@@ -1,1 +1,1 @@
-var mnemonic = "rocket carbon video general diesel sponsor urban course view duty sign analyst";
+var mnemonic = "hurry food rescue badge crack fault cupboard menu arm autumn adult baby";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk increase rebel north muscle siren battle brain trick various future damp";
+var mnemonic = "lawsuit when rhythm grocery iron transfer sound web bring puzzle utility defense";

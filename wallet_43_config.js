@@ -1,1 +1,1 @@
-var mnemonic = "vibrant neutral truck hover clock stem march already shed this similar sick";
+var mnemonic = "cradle snow faith move iron mule action very cabin earth often ten";

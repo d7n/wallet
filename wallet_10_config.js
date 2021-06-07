@@ -1,1 +1,1 @@
-var mnemonic = "fresh loan lady end humble announce vintage time salon sport apology peanut";
+var mnemonic = "enforce plunge media grace fiction help shuffle true arrange search donkey color";

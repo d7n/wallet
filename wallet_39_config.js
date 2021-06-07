@@ -1,1 +1,1 @@
-var mnemonic = "spend grid will deny spike typical minimum shrug fortune civil shine between";
+var mnemonic = "pelican culture equip carpet cup bread soon release danger memory exotic fetch";

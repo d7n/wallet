@@ -1,1 +1,1 @@
-var mnemonic = "canal lamp snow switch will adapt magic close giraffe vague twelve length";
+var mnemonic = "repair stem garbage kit auction pistol flee opinion company oxygen exhibit monster";

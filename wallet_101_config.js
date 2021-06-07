@@ -1,1 +1,1 @@
-var mnemonic = "parrot stool goose spread gather acid heart fuel erase close damage collect";
+var mnemonic = "busy special alley surprise base return female security muffin mosquito debate child";

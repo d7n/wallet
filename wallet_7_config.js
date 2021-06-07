@@ -1,1 +1,1 @@
-var mnemonic = "mistake hunt kitten ordinary convince genius demand pitch fashion energy illness castle";
+var mnemonic = "day man plastic spice tissue produce faint bulb wolf maple bonus horror";

@@ -1,1 +1,1 @@
-var mnemonic = "casual chimney throw elite fade theme umbrella family bundle either jeans group";
+var mnemonic = "genre hole weird cigar indoor patch coin engine cheese stem over clay";

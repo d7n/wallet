@@ -1,1 +1,1 @@
-var mnemonic = "road orphan shift inject hill cousin slow debate soap leisure hidden scatter";
+var mnemonic = "enact culture knee differ emerge normal easy runway luxury apple reunion rocket";

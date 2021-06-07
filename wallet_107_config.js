@@ -1,1 +1,1 @@
-var mnemonic = "helmet flee universe pony pepper cargo divide enable govern curious only midnight";
+var mnemonic = "cotton trade bone gate basic brown cat taste narrow blossom great fault";

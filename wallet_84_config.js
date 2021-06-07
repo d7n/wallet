@@ -1,1 +1,1 @@
-var mnemonic = "morning city exclude way increase danger song project supreme traffic exchange ethics";
+var mnemonic = "timber exit prevent weather nerve tongue prepare language news globe ginger lab";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude coach inherit bus short once account canvas minimum milk twenty behave";
+var mnemonic = "firm pepper oyster town fox dirt stock post pluck absurd rare lamp";

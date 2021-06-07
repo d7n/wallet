@@ -1,1 +1,1 @@
-var mnemonic = "empower include august grab gallery search virus parrot bronze fresh figure dog";
+var mnemonic = "assault stone extend lend fringe teach entry crane jacket leg ticket suggest";

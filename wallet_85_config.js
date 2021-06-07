@@ -1,1 +1,1 @@
-var mnemonic = "more border party fluid live box quarter upper network funny unaware era";
+var mnemonic = "where praise fire index copper afford very loud evil clock mouse poet";

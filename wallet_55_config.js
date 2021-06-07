@@ -1,1 +1,1 @@
-var mnemonic = "old tortoise zero ticket hurt harvest discover rely powder mutual sword side";
+var mnemonic = "galaxy pigeon viable retire clever labor trap rebuild art ready sister oxygen";

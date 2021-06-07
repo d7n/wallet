@@ -1,1 +1,1 @@
-var mnemonic = "polar easy artwork turtle plastic legend quarter machine pepper fog day until";
+var mnemonic = "gesture traffic scare educate ice boil state okay plug harbor critic skin";

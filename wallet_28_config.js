@@ -1,1 +1,1 @@
-var mnemonic = "egg shrimp practice kingdom dog skin hidden lens wrong disease leisure sound";
+var mnemonic = "merry lobster hurry air merge hour rich you gadget nest draft yard";

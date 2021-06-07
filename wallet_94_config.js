@@ -1,1 +1,1 @@
-var mnemonic = "ripple force walnut annual margin abuse bus phone time satisfy weekend meat";
+var mnemonic = "flash assist join breeze prepare host network solution photo spoon process fox";

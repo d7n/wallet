@@ -1,1 +1,1 @@
-var mnemonic = "address catch minute hire six page forest spy cloud candy phone blossom";
+var mnemonic = "candy exhibit wise timber fan provide loud federal connect midnight paddle side";

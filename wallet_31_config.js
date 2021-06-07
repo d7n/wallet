@@ -1,1 +1,1 @@
-var mnemonic = "clean liar lucky service bleak staff dilemma useless retire letter cycle flavor";
+var mnemonic = "hip uphold you gravity manual extend pipe salute garment butter buyer father";

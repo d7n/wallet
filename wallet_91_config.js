@@ -1,1 +1,1 @@
-var mnemonic = "field infant feed session brass kitten stone nuclear during work obvious fiction";
+var mnemonic = "fitness thank school ketchup cherry melody library tired faculty awful dream hood";

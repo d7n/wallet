@@ -1,1 +1,1 @@
-var mnemonic = "cricket special fury finish hero punch receive nerve ski alien child effort";
+var mnemonic = "essay feature truly orbit harbor paddle vivid entry famous reduce climb truly";

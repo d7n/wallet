@@ -1,1 +1,1 @@
-var mnemonic = "total basket that vibrant other demand sail jar black ocean picnic dish";
+var mnemonic = "math coconut link label water ignore arrive radar business curve trophy matrix";

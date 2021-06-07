@@ -1,1 +1,1 @@
-var mnemonic = "keen popular nerve tonight license pink genre shuffle write oyster general able";
+var mnemonic = "spring keep cradle design trend nest crucial vacant cupboard century thumb solid";

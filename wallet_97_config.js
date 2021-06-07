@@ -1,1 +1,1 @@
-var mnemonic = "acoustic theme hamster bind only debris expose sausage camera alert modify tomorrow";
+var mnemonic = "cradle wagon hold alone home detail check expose around book section fame";

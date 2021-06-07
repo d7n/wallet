@@ -1,1 +1,1 @@
-var mnemonic = "evolve clever cube fortune barrel elegant bless color border eight slush night";
+var mnemonic = "leader labor coin wisdom fitness situate dry use ritual corn legend angry";

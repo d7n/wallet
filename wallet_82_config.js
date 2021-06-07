@@ -1,1 +1,1 @@
-var mnemonic = "dash strategy chunk weird found admit memory day reward wall moon direct";
+var mnemonic = "hold wire belt mountain dilemma they organ tiny piano advance work develop";

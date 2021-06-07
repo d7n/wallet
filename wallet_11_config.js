@@ -1,1 +1,1 @@
-var mnemonic = "avoid toddler upper alert render glide spy animal final canal girl vivid";
+var mnemonic = "rent funny citizen code angry drink range wild skate large empty grocery";

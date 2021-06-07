@@ -1,1 +1,1 @@
-var mnemonic = "twist cousin wolf tuna occur theme fortune merry gesture alter tone trend";
+var mnemonic = "scout tribe concert merge box birth avoid choice brass clump mind final";

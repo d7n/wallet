@@ -1,1 +1,1 @@
-var mnemonic = "text harbor yard royal marriage wing upset fever confirm filter solid curve";
+var mnemonic = "this oyster ahead loop build bottom galaxy dismiss truth voyage lumber rabbit";

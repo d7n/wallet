@@ -1,1 +1,1 @@
-var mnemonic = "rhythm impulse siege bullet mango glue salon edit frown indoor danger access";
+var mnemonic = "shoe mimic faith vivid boss mistake clerk congress gun immense deposit cotton";

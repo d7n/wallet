@@ -1,1 +1,1 @@
-var mnemonic = "situate crack eagle fiber ride wagon regular rigid vital notable myth bracket";
+var mnemonic = "absent fiscal chimney cost robot flight hurry bracket math layer race axis";

@@ -1,1 +1,1 @@
-var mnemonic = "maid voice dry sleep clerk february mule supply initial mention absent atom";
+var mnemonic = "olive misery ladder token pipe decline mother swing fiscal cattle actor claw";

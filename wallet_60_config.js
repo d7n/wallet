@@ -1,1 +1,1 @@
-var mnemonic = "dilemma now exile embark badge train detail mosquito rifle enable alley save";
+var mnemonic = "garbage rotate trophy two noble cigar logic mix polar fine aim frame";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent park adjust prize crawl right wait spray behave mail board gift";
+var mnemonic = "coil uniform medal blouse card palace alert exhaust include wait inspire fun";

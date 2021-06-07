@@ -1,1 +1,1 @@
-var mnemonic = "skin food chronic vendor urban expect thunder drastic custom minute equal flight";
+var mnemonic = "couple pyramid picture hour assist cliff solution subway order sand stage filter";

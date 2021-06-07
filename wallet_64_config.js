@@ -1,1 +1,1 @@
-var mnemonic = "solution height swift topic loop celery right become media board novel rapid";
+var mnemonic = "early decade depth actress rose devote issue dwarf siege vivid nut fun";

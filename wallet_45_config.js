@@ -1,1 +1,1 @@
-var mnemonic = "crucial vintage visit conduct novel hope spread away gentle repair slim deposit";
+var mnemonic = "social stuff mountain ripple wisdom trim reject pilot old any field brand";

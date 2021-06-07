@@ -1,1 +1,1 @@
-var mnemonic = "wet sheriff execute around picture gauge foster cover cause outside material census";
+var mnemonic = "rabbit talk invite blame sniff panther potato vanish cupboard boil monster fiber";

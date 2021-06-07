@@ -1,1 +1,1 @@
-var mnemonic = "loud entire help sketch grace parent deer silly member law ski purse";
+var mnemonic = "mass agree meat sunny flame novel horse stamp amount pink shock genuine";

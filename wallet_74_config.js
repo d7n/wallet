@@ -1,1 +1,1 @@
-var mnemonic = "derive dynamic fold load expire swift eight enact skirt addict dinner shift";
+var mnemonic = "attend lend dash umbrella magic coconut demise total strong start welcome pyramid";

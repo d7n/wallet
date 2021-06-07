@@ -1,1 +1,1 @@
-var mnemonic = "amazing can dynamic task yellow stamp save weapon manual harbor decline shed";
+var mnemonic = "bright life drama story champion quarter pet country salute female lucky reveal";

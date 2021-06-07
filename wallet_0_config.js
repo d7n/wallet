@@ -1,1 +1,1 @@
-var mnemonic = "pool series resemble detail panther thing situate post canoe position brand oxygen";
+var mnemonic = "menu fan sea horn horse mind estate online repair cup mango kiss";

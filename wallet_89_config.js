@@ -1,1 +1,1 @@
-var mnemonic = "multiply upset crawl unfold bone pioneer raise bachelor kind crucial gain donor";
+var mnemonic = "behave box void absurd dress bunker sudden spirit symptom bicycle split dice";

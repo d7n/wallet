@@ -1,1 +1,1 @@
-var mnemonic = "silver blush cream method unit bicycle logic tribe sing supreme way evidence";
+var mnemonic = "basic delay urban world chapter seminar orient soap seek great party season";

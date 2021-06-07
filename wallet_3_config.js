@@ -1,1 +1,1 @@
-var mnemonic = "learn limit dune capable retire fantasy glue cabbage ancient crop thank trim";
+var mnemonic = "ribbon junior galaxy license police impulse bomb victory void text rather core";

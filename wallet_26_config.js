@@ -1,1 +1,1 @@
-var mnemonic = "neck language world urban urban occur enemy sadness bracket calm quick digital";
+var mnemonic = "chair print hungry escape message bomb must home kiwi client solution noble";

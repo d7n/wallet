@@ -1,1 +1,1 @@
-var mnemonic = "digital zone increase unveil major keep width steel assume until quality gown";
+var mnemonic = "embrace glass still employ economy ecology delay kitten bitter crunch favorite wear";

@@ -1,1 +1,1 @@
-var mnemonic = "quick claim pepper soldier verify capable antique citizen spread joy region faint";
+var mnemonic = "jewel license wing install cave armed identify stage cheap economy planet ready";

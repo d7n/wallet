@@ -1,1 +1,1 @@
-var mnemonic = "eight analyst grief frame useless manage theme bamboo barely crunch jelly trip";
+var mnemonic = "target call online valid rural attitude inquiry tail van wagon member brother";

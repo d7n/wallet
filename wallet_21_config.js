@@ -1,1 +1,1 @@
-var mnemonic = "ball spread tide august mobile race march peasant similar fossil just auto";
+var mnemonic = "evil video pretty lunar season glimpse beyond party poem seed profit vague";

@@ -1,1 +1,1 @@
-var mnemonic = "company blur steel hurt december identify marine evoke lizard priority immense enemy";
+var mnemonic = "amazing message volcano select chat goose wagon hold priority pudding chest path";

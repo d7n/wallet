@@ -1,1 +1,1 @@
-var mnemonic = "advice good spoon era kidney attract build error tunnel process film pull";
+var mnemonic = "faint core jungle furnace rose transfer present lesson sunset rural rule advance";

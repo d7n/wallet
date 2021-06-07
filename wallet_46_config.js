@@ -1,1 +1,1 @@
-var mnemonic = "black regret mandate pistol boy humble burden sibling latin north company clock";
+var mnemonic = "evolve debris input magic tool cause van afford grocery inject insect begin";

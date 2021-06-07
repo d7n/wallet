@@ -1,1 +1,1 @@
-var mnemonic = "between able dragon hole hint pass again vibrant track session width mutual";
+var mnemonic = "two stamp pull wheat purpose kind wage pistol neck custom victory infant";

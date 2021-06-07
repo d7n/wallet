@@ -1,1 +1,1 @@
-var mnemonic = "poem blur yard split genuine square next stove method yard way angle";
+var mnemonic = "episode solar bamboo traffic library bitter razor regular knock wrist solve solar";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup ask lawn pistol over poverty what vendor jealous divide message remind";
+var mnemonic = "sad slender cement riot disagree link captain habit must legend enjoy cost";

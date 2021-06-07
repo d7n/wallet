@@ -1,1 +1,1 @@
-var mnemonic = "hundred hungry violin school unusual theme butter copy trash unaware stage slogan";
+var mnemonic = "mule warrior tribe soccer stock bread shiver reject current inherit bulk night";

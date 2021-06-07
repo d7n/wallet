@@ -1,1 +1,1 @@
-var mnemonic = "sell sense use december tape outdoor cabin police grace split original dragon";
+var mnemonic = "omit science meat napkin during wisdom toddler plastic usual nose daring bar";
