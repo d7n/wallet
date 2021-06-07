@@ -1,1 +1,1 @@
-var mnemonic = "stairs coral vapor weapon swap board still harbor faint voyage bike wide";
+var mnemonic = "spike fog slam bar atom rather scan peace indoor effort lock attitude";

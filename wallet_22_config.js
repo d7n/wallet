@@ -1,1 +1,1 @@
-var mnemonic = "flash catalog game endorse original stereo loan drastic detect reduce hazard mercy";
+var mnemonic = "fan lunar vapor bounce sight melody vacuum fuel marble book doctor door";

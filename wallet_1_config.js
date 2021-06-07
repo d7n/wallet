@@ -1,1 +1,1 @@
-var mnemonic = "walk then volume orient shuffle tunnel magic rich segment stool arrive spice";
+var mnemonic = "alter lawsuit evoke appear step crumble reveal fresh purity era motor other";

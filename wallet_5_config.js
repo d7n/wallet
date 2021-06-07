@@ -1,1 +1,1 @@
-var mnemonic = "damage rabbit mystery sphere sudden cube outside vocal wear grow boss vendor";
+var mnemonic = "illness sense afraid lottery sting grid spin sentence defense floor patch milk";

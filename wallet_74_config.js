@@ -1,1 +1,1 @@
-var mnemonic = "wing sunset armed clean awesome manage retreat member shallow barely neutral dance";
+var mnemonic = "umbrella outdoor color fault ticket nominee milk senior cattle power virus fringe";

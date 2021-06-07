@@ -1,1 +1,1 @@
-var mnemonic = "wise shy avocado spell dumb develop antenna excuse rabbit visual good eight";
+var mnemonic = "erode steak midnight immune note runway crumble service park fiction bread genre";

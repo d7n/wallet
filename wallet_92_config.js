@@ -1,1 +1,1 @@
-var mnemonic = "dose remain sister shrimp sunny connect response culture climb stadium avocado dose";
+var mnemonic = "focus crowd main blade chapter ribbon visa risk predict horse ready submit";

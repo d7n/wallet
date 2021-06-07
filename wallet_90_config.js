@@ -1,1 +1,1 @@
-var mnemonic = "camera rice fade source among quarter volume park hip return they harbor";
+var mnemonic = "grab girl vapor split box traffic eagle cluster cargo betray anchor detect";

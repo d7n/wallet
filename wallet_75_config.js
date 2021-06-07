@@ -1,1 +1,1 @@
-var mnemonic = "open flee uncle thrive pupil invite genuine bulk adapt vehicle prosper weapon";
+var mnemonic = "insect immune wet pulse shuffle essence target cliff wool penalty bulk cloud";

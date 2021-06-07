@@ -1,1 +1,1 @@
-var mnemonic = "unit zone wrestle genius curtain icon crack wine guess dose drift elegant";
+var mnemonic = "border skate network grid south awkward salmon month bench scrub depend bridge";

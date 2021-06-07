@@ -1,1 +1,1 @@
-var mnemonic = "river hood tiger snap pyramid guilt invest pupil sudden sorry attitude thought";
+var mnemonic = "flee oval cloth language input mountain injury lazy alone gather side enact";

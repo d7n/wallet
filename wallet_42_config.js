@@ -1,1 +1,1 @@
-var mnemonic = "tank hope urge lion jaguar copy obvious stereo exit animal boil wise";
+var mnemonic = "okay absurd neither budget vessel sight company heart neutral detect pole any";

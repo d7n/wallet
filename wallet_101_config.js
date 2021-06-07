@@ -1,1 +1,1 @@
-var mnemonic = "volcano such consider doctor enrich enhance leopard shrimp expect chat festival uniform";
+var mnemonic = "main jump sentence author draw solid smoke certain often myself airport brown";

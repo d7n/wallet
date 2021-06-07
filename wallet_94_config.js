@@ -1,1 +1,1 @@
-var mnemonic = "ecology liar grocery sustain clean route coach truth rookie response worth typical";
+var mnemonic = "private wish hawk glow defense whale cotton plug wheat exclude reflect upon";

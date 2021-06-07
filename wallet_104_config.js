@@ -1,1 +1,1 @@
-var mnemonic = "sheriff bus citizen depend gorilla still timber amount mad usual normal marriage";
+var mnemonic = "raise bridge address sword rent day dish blood horror fantasy property uncle";

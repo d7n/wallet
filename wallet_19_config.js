@@ -1,1 +1,1 @@
-var mnemonic = "surface armed asthma spawn joy near material hand verify wing flee unaware";
+var mnemonic = "nice party timber refuse sail mother obscure length same size document tongue";

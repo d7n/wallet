@@ -1,1 +1,1 @@
-var mnemonic = "melody shy cup hurt kangaroo fine suit impact purse school purse uncle";
+var mnemonic = "render sunset chat opera bright rely trick shock wrap rural early thrive";

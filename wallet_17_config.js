@@ -1,1 +1,1 @@
-var mnemonic = "scorpion equal try basic rural similar blue wire library member cruise edge";
+var mnemonic = "jealous rice hold position medal border labor flush hunt glove dignity capital";

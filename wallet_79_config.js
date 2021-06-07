@@ -1,1 +1,1 @@
-var mnemonic = "fiscal mirror space wage display pole license glove deer aunt upgrade anger";
+var mnemonic = "unusual mouse foot then flag legend drastic actress plate catalog slice wonder";

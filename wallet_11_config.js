@@ -1,1 +1,1 @@
-var mnemonic = "outer burden predict trumpet grab boss lunar energy review alert later poem";
+var mnemonic = "culture chicken retreat sniff inside uphold essence baby galaxy cloud tomato casino";

@@ -1,1 +1,1 @@
-var mnemonic = "account friend sound security verify century increase coconut card gate flush soul";
+var mnemonic = "under credit immense repair differ daring diamond entry provide acquire wonder fat";

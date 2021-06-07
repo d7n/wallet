@@ -1,1 +1,1 @@
-var mnemonic = "describe you client media process clarify bargain glare impulse master virtual upon";
+var mnemonic = "hammer label winter stumble dream afraid around trash fatigue measure intact bless";

@@ -1,1 +1,1 @@
-var mnemonic = "fence confirm useless alone sting spray frog yard goose settle piece dance";
+var mnemonic = "farm ancient detail category robust hill mind then panic leader cliff good";

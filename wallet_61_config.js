@@ -1,1 +1,1 @@
-var mnemonic = "dragon lonely grape hamster banner volume frozen unfair clinic stage lazy calm";
+var mnemonic = "ostrich jar jelly bleak early comfort captain news tent hazard funny subway";

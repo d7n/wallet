@@ -1,1 +1,1 @@
-var mnemonic = "idle unknown arrest decide accident loop reject boost prize wrap dish chunk";
+var mnemonic = "mule whip arm crystal brisk share forum brass boil spirit box sphere";

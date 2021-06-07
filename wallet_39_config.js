@@ -1,1 +1,1 @@
-var mnemonic = "hammer lens begin early act erupt junk silly clog machine wide art";
+var mnemonic = "usage century squirrel forget domain source twelve yard battle nest deposit oven";

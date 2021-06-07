@@ -1,1 +1,1 @@
-var mnemonic = "nation toy push arrange illegal endless lottery scorpion satoshi party arm valve";
+var mnemonic = "spring hour exercise capital purse stock horse rookie explain price accuse tower";

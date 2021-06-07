@@ -1,1 +1,1 @@
-var mnemonic = "shy about ski woman person genre jaguar brain unfair normal true depend";
+var mnemonic = "muscle negative quote corn crime sweet acid today swift piece apple coconut";

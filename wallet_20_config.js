@@ -1,1 +1,1 @@
-var mnemonic = "key region banana slot sell agree hockey script hazard frozen provide way";
+var mnemonic = "airport bind glare vault cheese run gold lottery bounce evoke tree slice";

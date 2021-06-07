@@ -1,1 +1,1 @@
-var mnemonic = "hub scatter auto forest output bulb flip apart item faint pyramid degree";
+var mnemonic = "wall north range lady involve doll hurt neglect bean august rule demand";

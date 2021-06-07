@@ -1,1 +1,1 @@
-var mnemonic = "leaf town save history resemble history dad lab outdoor usual isolate corn";
+var mnemonic = "deputy essence family left snow fatal public weather grunt spatial bright eternal";

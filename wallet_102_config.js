@@ -1,1 +1,1 @@
-var mnemonic = "attend ready vague slab brush leg measure foam lemon wrap tribe column";
+var mnemonic = "spy flag neglect online enough olive eight one myth spy satisfy raven";

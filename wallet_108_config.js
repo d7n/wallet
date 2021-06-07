@@ -1,1 +1,1 @@
-var mnemonic = "force weasel father aim uphold vehicle tragic stay screen remove please script";
+var mnemonic = "flight airport refuse word oil life merge split talent tiny bacon destroy";

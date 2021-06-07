@@ -1,1 +1,1 @@
-var mnemonic = "pioneer lottery cheap pretty mobile minimum bachelor kick advice wrist truck churn";
+var mnemonic = "worry poem thought north stereo icon abuse over couch orange enforce nation";

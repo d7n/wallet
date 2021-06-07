@@ -1,1 +1,1 @@
-var mnemonic = "bunker armor illness wool finish ignore enable rate misery add veteran absurd";
+var mnemonic = "tackle correct hollow gasp ride movie myself debris twice flavor castle excuse";

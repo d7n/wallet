@@ -1,1 +1,1 @@
-var mnemonic = "jungle blind hedgehog average egg tissue worry invest grunt master office hedgehog";
+var mnemonic = "hammer pizza canoe power eagle ready bird educate tiger sunny news injury";

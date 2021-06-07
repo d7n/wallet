@@ -1,1 +1,1 @@
-var mnemonic = "gossip focus loop pilot satisfy traffic link degree cost bundle race mirror";
+var mnemonic = "damage question whisper box perfect coil ensure ribbon school series between you";

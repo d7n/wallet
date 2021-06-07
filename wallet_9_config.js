@@ -1,1 +1,1 @@
-var mnemonic = "version hard wink hockey merit endless sea meat approve antenna damage talk";
+var mnemonic = "dad mask wasp stuff interest battle area pepper surge speed result detect";

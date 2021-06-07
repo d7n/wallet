@@ -1,1 +1,1 @@
-var mnemonic = "sketch sort aspect able capital boil velvet use either dream change crack";
+var mnemonic = "feed gain lamp discover shift alter harvest anxiety domain police absent since";

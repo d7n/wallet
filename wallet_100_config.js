@@ -1,1 +1,1 @@
-var mnemonic = "atom kangaroo define fragile host green ecology glad crumble problem abandon nominee";
+var mnemonic = "strike team start gauge youth mistake betray toilet improve card column creek";

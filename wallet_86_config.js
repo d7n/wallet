@@ -1,1 +1,1 @@
-var mnemonic = "conduct emerge already source garlic battle wall crack echo volcano strong elegant";
+var mnemonic = "trumpet armed proud mobile biology palace thought news cinnamon cactus amount cable";

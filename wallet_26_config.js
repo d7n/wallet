@@ -1,1 +1,1 @@
-var mnemonic = "cereal company spider cool mercy grass army solve noble library basket inspire";
+var mnemonic = "provide sound budget source dumb plunge field diary remember opinion industry option";

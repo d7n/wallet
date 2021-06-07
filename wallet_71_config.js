@@ -1,1 +1,1 @@
-var mnemonic = "enrich fence annual age illegal final mask walnut aware hub position goose";
+var mnemonic = "belt before next panic hundred tube meat response explain engage okay defy";

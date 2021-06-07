@@ -1,1 +1,1 @@
-var mnemonic = "parrot brother maid tape final benefit common enlist cram dizzy monitor danger";
+var mnemonic = "near library pony blush robot dinner mom song insane movie silver fashion";

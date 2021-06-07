@@ -1,1 +1,1 @@
-var mnemonic = "you funny ordinary need maid arrow approve fluid wrestle patrol mouse cliff";
+var mnemonic = "burst bar tag acquire labor damp crater valley surface easily antenna bridge";

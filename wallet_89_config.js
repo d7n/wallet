@@ -1,1 +1,1 @@
-var mnemonic = "mean sleep latin sheriff donate prison typical ramp intact noise jewel comic";
+var mnemonic = "tongue clap social squirrel chat income emotion subway benefit scatter system blush";

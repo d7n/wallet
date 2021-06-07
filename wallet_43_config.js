@@ -1,1 +1,1 @@
-var mnemonic = "trip effort loan frost sister tank latin guide brass rally blame truck";
+var mnemonic = "almost language refuse ginger above sand destroy icon reveal capable hint exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "craft woman upset adjust donate soldier case loan burden silk vehicle gentle";
+var mnemonic = "actor apple claim sheriff load detect mansion tilt hawk click biology female";

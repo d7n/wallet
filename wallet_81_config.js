@@ -1,1 +1,1 @@
-var mnemonic = "elevator quick boring require twenty ocean pill eye nephew undo walk daring";
+var mnemonic = "wine shaft raw bag ask mammal invest fade regular stage choice lawsuit";

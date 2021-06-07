@@ -1,1 +1,1 @@
-var mnemonic = "turn miss section trash grief amount piece recipe lesson raven ship glass";
+var mnemonic = "trouble churn winner useful decade special mass hard hand melt easily leave";

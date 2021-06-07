@@ -1,1 +1,1 @@
-var mnemonic = "off kite coil voice embrace verify laundry repair lake tornado ostrich cheap";
+var mnemonic = "doctor page region combine youth defense comic media tiger method nation recall";

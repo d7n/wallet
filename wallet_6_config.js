@@ -1,1 +1,1 @@
-var mnemonic = "cost north bounce cereal air nominee cause notable strategy walnut endless orange";
+var mnemonic = "talent galaxy amateur hub simple mushroom vital identify home whale prefer butter";

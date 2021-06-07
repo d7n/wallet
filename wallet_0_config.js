@@ -1,1 +1,1 @@
-var mnemonic = "garment verb seat great feed cushion weather manage tilt drill genre fantasy";
+var mnemonic = "trigger universe open rapid fame illness pioneer brush emotion pitch brisk achieve";

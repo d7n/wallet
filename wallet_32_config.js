@@ -1,1 +1,1 @@
-var mnemonic = "trap area easily ozone wide token squeeze over finger dance habit wrist";
+var mnemonic = "between pattern define general build maple time fury shove price enable foil";

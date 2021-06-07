@@ -1,1 +1,1 @@
-var mnemonic = "muffin omit diary smile economy leave rival jacket member civil prize code";
+var mnemonic = "evil stumble tail dilemma exact donate hen one movie squeeze copper pink";

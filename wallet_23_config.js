@@ -1,1 +1,1 @@
-var mnemonic = "shrimp garage cattle gravity opera robust super depend stamp uniform clog refuse";
+var mnemonic = "route elevator artwork soda orphan keen meat permit industry cereal impulse palm";

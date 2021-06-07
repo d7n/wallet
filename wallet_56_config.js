@@ -1,1 +1,1 @@
-var mnemonic = "violin lock shoulder extend economy month alter giraffe parent music despair lyrics";
+var mnemonic = "plunge thank vivid online three toddler negative nominee snow fog illegal cancel";

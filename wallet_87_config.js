@@ -1,1 +1,1 @@
-var mnemonic = "cannon urge tree tool claw merry charge champion find useful disagree parrot";
+var mnemonic = "club state tuition plunge know tone reward wait elegant garment rhythm floor";

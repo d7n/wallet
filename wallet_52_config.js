@@ -1,1 +1,1 @@
-var mnemonic = "volume soft enact artefact total stumble nasty three cute beyond general share";
+var mnemonic = "paper ecology note foil total cause focus orbit slice journey crash rather";

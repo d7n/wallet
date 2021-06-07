@@ -1,1 +1,1 @@
-var mnemonic = "hold strong must hurry destroy minute grape bicycle chat sheriff vicious sun";
+var mnemonic = "number used curve alone jaguar replace permit budget salad entry uncover elite";

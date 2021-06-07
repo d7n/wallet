@@ -1,1 +1,1 @@
-var mnemonic = "teach expire amateur flock motion remind avocado reopen teach heart tissue flee";
+var mnemonic = "phone choose basket this hungry horror garage tape wrong curtain peanut cram";

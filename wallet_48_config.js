@@ -1,1 +1,1 @@
-var mnemonic = "anger slim empty game wink fantasy meat cactus blind dawn poem weird";
+var mnemonic = "juice move various real cave arm need joy govern victory concert exhibit";

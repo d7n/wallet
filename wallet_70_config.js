@@ -1,1 +1,1 @@
-var mnemonic = "loud mirror path hat grow moral man action whisper first crush addict";
+var mnemonic = "debris enjoy point pulse wink crew kitten guitar enable attitude urban cycle";

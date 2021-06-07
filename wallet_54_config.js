@@ -1,1 +1,1 @@
-var mnemonic = "hamster sure combine scissors eye auto above purity obvious worth other month";
+var mnemonic = "shrug trip sad diet diet lunch december execute siege scrub autumn open";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth cash salute oblige labor broken mountain slim auction beef lawsuit echo";
+var mnemonic = "figure moment scene junk brief senior convince clog impose nothing beyond wrap";

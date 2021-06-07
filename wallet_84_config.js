@@ -1,1 +1,1 @@
-var mnemonic = "license when profit awkward dinosaur use stamp tail clarify path under become";
+var mnemonic = "mom tool seat miracle divert record speed valid hidden crush what sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "expect vital motion equip pigeon leg blade baby hole cat sphere toddler";
+var mnemonic = "kidney rather awesome where social fade velvet fiber road pluck goat rival";

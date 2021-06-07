@@ -1,1 +1,1 @@
-var mnemonic = "ocean lottery apart ozone chimney arctic ship rug figure mutual raw pulse";
+var mnemonic = "spatial wire keep napkin evil west jaguar barely kite cake size false";

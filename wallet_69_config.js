@@ -1,1 +1,1 @@
-var mnemonic = "breeze keen ahead sunny north kiwi true glue adult firm trouble obey";
+var mnemonic = "meat load armed tomorrow grief expand position foam used symbol edit curve";

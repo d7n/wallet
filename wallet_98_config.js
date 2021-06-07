@@ -1,1 +1,1 @@
-var mnemonic = "what nest bacon medal fetch style harbor clog feel either salute absorb";
+var mnemonic = "exist same party mail elevator dash peanut type penalty escape midnight lens";

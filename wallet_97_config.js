@@ -1,1 +1,1 @@
-var mnemonic = "future ridge gossip always wire pudding record erase special step maple conduct";
+var mnemonic = "winter find special already gain side rescue stereo stage sauce column chat";

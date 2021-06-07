@@ -1,1 +1,1 @@
-var mnemonic = "fix model nerve junk mask law just flock fatigue praise erode sustain";
+var mnemonic = "oil earth act east desk taxi asset body torch engine perfect word";

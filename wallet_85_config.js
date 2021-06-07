@@ -1,1 +1,1 @@
-var mnemonic = "language canoe section inmate blouse rebuild train super security silly often cheap";
+var mnemonic = "heavy lake later limb reward room wood amused keen right rain fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "slide steak trip whale jeans save ball exhibit mirror trust predict attack";
+var mnemonic = "upgrade machine shock special night sunset fitness trash slim permit gym update";

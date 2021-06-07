@@ -1,1 +1,1 @@
-var mnemonic = "ship arctic fish crash now balcony material matter mind slow hospital raw";
+var mnemonic = "neglect orchard decade critic luxury track juice reopen bone miss moral sea";

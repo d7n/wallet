@@ -1,1 +1,1 @@
-var mnemonic = "broken response wool arm normal bench amount bronze dance fortune twelve silly";
+var mnemonic = "sponsor medal decade survey ladder dumb muscle salt luxury morning urge perfect";

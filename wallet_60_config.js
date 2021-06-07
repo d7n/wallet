@@ -1,1 +1,1 @@
-var mnemonic = "hub tortoise whale whisper horror verify spare order consider already exist antique";
+var mnemonic = "first melody garden radio one rich unknown hammer board float certain feed";

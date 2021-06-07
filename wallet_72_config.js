@@ -1,1 +1,1 @@
-var mnemonic = "ten loop prosper only nuclear shuffle leg cute limb diet gate tomorrow";
+var mnemonic = "because magic endless renew spirit scatter kick wrong hedgehog nerve survey script";

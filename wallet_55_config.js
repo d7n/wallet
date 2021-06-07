@@ -1,1 +1,1 @@
-var mnemonic = "sentence stand whisper ramp food save transfer merge income poet relax tissue";
+var mnemonic = "risk flash certain few royal hurdle warm immense current dream trend sing";

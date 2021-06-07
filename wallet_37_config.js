@@ -1,1 +1,1 @@
-var mnemonic = "era business beach exotic access surface barrel hobby benefit turtle expand huge";
+var mnemonic = "lake grit hill scale cook smoke always million fatigue century math follow";

@@ -1,1 +1,1 @@
-var mnemonic = "worry neck august fabric pepper stand elephant open regular swift torch medal";
+var mnemonic = "spatial busy scan camp rhythm over slender doll swim reduce social shine";

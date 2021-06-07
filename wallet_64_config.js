@@ -1,1 +1,1 @@
-var mnemonic = "cover cliff quiz raven cradle elite thunder sail salad soda birth please";
+var mnemonic = "basket manage runway sibling team bridge only basic unfair era diet situate";

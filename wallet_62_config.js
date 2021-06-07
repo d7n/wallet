@@ -1,1 +1,1 @@
-var mnemonic = "chat gun regular soccer episode juice goose peanut erode shock piano sunset";
+var mnemonic = "bounce pitch strong reduce chimney since shove gaze olive cross drip knife";

@@ -1,1 +1,1 @@
-var mnemonic = "lens cloud shoot captain manual bike try favorite gloom round neglect grab";
+var mnemonic = "include vibrant state crime physical girl alien wagon sweet clump poverty gallery";

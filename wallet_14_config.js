@@ -1,1 +1,1 @@
-var mnemonic = "flash olive fade congress injury document super throw bring asthma bread bacon";
+var mnemonic = "spy dinosaur team edge invest cotton negative fix copy dream mushroom salon";

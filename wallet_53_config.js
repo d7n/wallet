@@ -1,1 +1,1 @@
-var mnemonic = "build scout cabbage mouse artist boss know spare cool hour area total";
+var mnemonic = "earth offer clever same fuel silver suit name move concert rare alley";
