@@ -1,1 +1,1 @@
-var mnemonic = "two agree club gorilla wet guide extend awful bomb popular account trash";
+var mnemonic = "spread prosper hundred bitter parrot defy once buyer hungry rifle flame utility";

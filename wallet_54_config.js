@@ -1,1 +1,1 @@
-var mnemonic = "strategy lottery episode mule explain entire town mandate discover click perfect major";
+var mnemonic = "offer glare depart destroy cup seven melody crouch heart rail dwarf deputy";

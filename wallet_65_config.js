@@ -1,1 +1,1 @@
-var mnemonic = "witness hand alone buyer razor design color often must bubble stand grit";
+var mnemonic = "ready flower surround gloom canyon weekend short north sea review trap surround";

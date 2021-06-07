@@ -1,1 +1,1 @@
-var mnemonic = "bean anger stereo whisper nephew ketchup clog excite orchard vehicle kitten crop";
+var mnemonic = "around mention duck oval fun awake appear piece unique stable program senior";

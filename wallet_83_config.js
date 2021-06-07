@@ -1,1 +1,1 @@
-var mnemonic = "catch taste assume swing bike remain vast glide mystery mix phone goat";
+var mnemonic = "amazing nasty dad twice frog thunder route assist hole kid december dentist";

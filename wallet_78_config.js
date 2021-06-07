@@ -1,1 +1,1 @@
-var mnemonic = "weasel clinic height undo lunch crowd merge away diagram chicken primary alert";
+var mnemonic = "jump kind garlic urban slice amused toss dash cannon medal produce duck";

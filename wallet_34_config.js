@@ -1,1 +1,1 @@
-var mnemonic = "fence polar science raccoon vivid scan equip poverty youth detect barrel spot";
+var mnemonic = "valid boy maid space bronze basket card engine element sweet mule gain";

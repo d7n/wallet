@@ -1,1 +1,1 @@
-var mnemonic = "park spare illness forum favorite expose extend equal nature acid rapid mansion";
+var mnemonic = "cage brown chief all treat trial salad toss carry warrior fringe below";

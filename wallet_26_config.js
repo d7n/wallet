@@ -1,1 +1,1 @@
-var mnemonic = "old okay safe chef fiber tide wise coast faith demand novel poverty";
+var mnemonic = "purpose today boil nothing globe misery inject story rotate metal craft student";

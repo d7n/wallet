@@ -1,1 +1,1 @@
-var mnemonic = "dynamic buddy analyst mimic where sell pond ball maze peanut custom twist";
+var mnemonic = "cradle youth often system hedgehog crater evolve guess ticket wealth hedgehog stone";

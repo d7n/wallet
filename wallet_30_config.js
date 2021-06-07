@@ -1,1 +1,1 @@
-var mnemonic = "insect wagon hire track story priority check dove shoe pelican romance refuse";
+var mnemonic = "air delay era off burst battle general gold return jeans magnet vendor";

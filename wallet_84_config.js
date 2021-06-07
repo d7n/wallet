@@ -1,1 +1,1 @@
-var mnemonic = "update hill okay admit bench hazard volcano current motor chat edge canvas";
+var mnemonic = "because cage two suit card mention cabin humor diagram foil drip school";

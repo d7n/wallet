@@ -1,1 +1,1 @@
-var mnemonic = "pig rich tomato motor few wink asthma waste can critic aunt frequent";
+var mnemonic = "quick extra spawn lawn metal sense select rail glance pigeon erosion coin";

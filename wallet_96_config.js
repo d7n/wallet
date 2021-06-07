@@ -1,1 +1,1 @@
-var mnemonic = "aim fancy total subject junk upper fringe easily island weather antique master";
+var mnemonic = "true recycle ready gold wink pelican embrace moon damp learn dilemma gaze";

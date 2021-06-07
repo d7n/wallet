@@ -1,1 +1,1 @@
-var mnemonic = "sound sad monkey donor sample sense round vital define shaft swim noise";
+var mnemonic = "private drop amazing buffalo citizen practice steel security aerobic pizza label excess";

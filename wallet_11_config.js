@@ -1,1 +1,1 @@
-var mnemonic = "hood oval release surface fault grunt bundle number alpha camera diary kite";
+var mnemonic = "quarter wood fancy quick antique excess adjust throw there scatter alpha frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "admit table visit canvas average mask zebra caution turn umbrella ask burst";
+var mnemonic = "fresh miracle title art loan share acoustic magnet purse replace iron diary";

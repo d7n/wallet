@@ -1,1 +1,1 @@
-var mnemonic = "route thrive matrix dawn bridge scheme health urge coil embody eternal use";
+var mnemonic = "dumb art hunt pole profit sheriff bunker lock divorce category invest service";

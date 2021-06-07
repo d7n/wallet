@@ -1,1 +1,1 @@
-var mnemonic = "uncover bind pulse beyond surge release virtual figure brisk unaware solid ankle";
+var mnemonic = "bless produce latin guard pelican beauty certain try school razor person boy";

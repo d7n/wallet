@@ -1,1 +1,1 @@
-var mnemonic = "floor sing nominee punch broom snack vast say farm gadget frown december";
+var mnemonic = "text they pill mixture utility awesome trip argue choose destroy calm twist";

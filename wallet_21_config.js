@@ -1,1 +1,1 @@
-var mnemonic = "reopen cliff minute near category giant violin bitter journey essay pluck glide";
+var mnemonic = "office car amateur smile entire airport fish apple crew because shield kiwi";

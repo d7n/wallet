@@ -1,1 +1,1 @@
-var mnemonic = "race jar valid buddy burger notable eyebrow oil purchase sauce tackle match";
+var mnemonic = "dad climb repair type novel sponsor bitter upgrade nurse learn achieve people";

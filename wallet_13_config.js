@@ -1,1 +1,1 @@
-var mnemonic = "increase fault pull unit parrot ensure page panda girl harvest crop border";
+var mnemonic = "obtain pudding unlock addict broccoli whisper impose season region local flee vital";

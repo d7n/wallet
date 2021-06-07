@@ -1,1 +1,1 @@
-var mnemonic = "wreck surface patient area egg board hold visa trim twenty club asthma";
+var mnemonic = "bounce unaware liberty garden average run robot puppy cotton section cream glance";

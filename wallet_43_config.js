@@ -1,1 +1,1 @@
-var mnemonic = "broom decrease bracket pattern share ski cave butter talk giraffe traffic skin";
+var mnemonic = "process proof pause move gesture segment tool hint embrace spin slender buffalo";

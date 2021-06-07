@@ -1,1 +1,1 @@
-var mnemonic = "master student rib worth decade orbit beauty nominee giggle tag primary chalk";
+var mnemonic = "action cinnamon off prize sauce beyond chronic exact birth hedgehog demand regular";

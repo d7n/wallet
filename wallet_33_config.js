@@ -1,1 +1,1 @@
-var mnemonic = "chapter arctic hire expose rain setup six wait injury cake soap sugar";
+var mnemonic = "more modify work nominee shuffle brain length real combine weapon feel broken";

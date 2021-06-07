@@ -1,1 +1,1 @@
-var mnemonic = "similar diary note degree stock balcony announce major liberty update hen depth";
+var mnemonic = "edge verb omit member forum razor lab sudden suggest demise crack voyage";

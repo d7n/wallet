@@ -1,1 +1,1 @@
-var mnemonic = "example morning bachelor effort trap goat total ketchup hat hope ski margin";
+var mnemonic = "soap off ahead iron deal give tumble man bounce hobby way satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "crime piece task party candy swarm observe security indoor butter elegant near";
+var mnemonic = "siege length right dance amazing torch rotate seven mirror vicious pond pudding";

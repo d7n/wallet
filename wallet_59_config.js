@@ -1,1 +1,1 @@
-var mnemonic = "acoustic clerk eight ceiling below spot toast sudden scrap rally letter across";
+var mnemonic = "suggest sunset girl twenty buffalo slice curve wheat force insect enough increase";

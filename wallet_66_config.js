@@ -1,1 +1,1 @@
-var mnemonic = "certain obtain angle upset jaguar trouble rely stairs liberty cargo chat sort";
+var mnemonic = "insect day woman tuition unable slim grow birth recipe risk smooth differ";

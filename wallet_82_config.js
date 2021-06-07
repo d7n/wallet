@@ -1,1 +1,1 @@
-var mnemonic = "river obtain thought home blame wise position evolve ivory humble fatal finish";
+var mnemonic = "around best shine album roof install benefit alien sadness capable wish obvious";

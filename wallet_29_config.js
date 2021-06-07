@@ -1,1 +1,1 @@
-var mnemonic = "proud south sad school elbow outdoor among coyote outside train mimic shock";
+var mnemonic = "analyst relax wagon chalk melody valid embark supply alien adjust sleep wrist";

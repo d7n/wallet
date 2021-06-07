@@ -1,1 +1,1 @@
-var mnemonic = "useful accident night share point nerve funny over chimney shell test crunch";
+var mnemonic = "damp mountain culture mystery anchor desert pony rice govern divorce under estate";

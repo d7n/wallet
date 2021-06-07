@@ -1,1 +1,1 @@
-var mnemonic = "volcano divide occur element give tobacco day mixture bundle diagram screen bonus";
+var mnemonic = "blossom comfort outer crouch vanish sign culture small almost army narrow harsh";

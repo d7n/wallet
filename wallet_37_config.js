@@ -1,1 +1,1 @@
-var mnemonic = "lens segment sugar horse wood oxygen equip wing electric south carbon divorce";
+var mnemonic = "cousin organ diamond best state cube pledge museum sock base photo ketchup";

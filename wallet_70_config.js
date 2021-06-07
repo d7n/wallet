@@ -1,1 +1,1 @@
-var mnemonic = "interest acquire local soccer tourist twelve blood height sustain palm evil humor";
+var mnemonic = "legal hip law drop ship option chair bean later secret rain mean";

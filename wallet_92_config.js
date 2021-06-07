@@ -1,1 +1,1 @@
-var mnemonic = "tobacco stage offer desert cannon blue alien move admit observe coil home";
+var mnemonic = "lucky enlist increase draft hire maximum siren color april yellow update endless";

@@ -1,1 +1,1 @@
-var mnemonic = "cross energy spot stereo crowd cage measure like double beyond mammal where";
+var mnemonic = "fossil dice chief between about garden trial item actress hip picnic insane";

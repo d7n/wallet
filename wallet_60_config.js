@@ -1,1 +1,1 @@
-var mnemonic = "course regret drift innocent claim ask mind shoulder either dish wonder quarter";
+var mnemonic = "trim poet idea box rent staff noodle topple genre oval post iron";

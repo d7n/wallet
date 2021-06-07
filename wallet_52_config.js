@@ -1,1 +1,1 @@
-var mnemonic = "true twice multiply defense canyon zebra young fiscal dust salmon enable humor";
+var mnemonic = "sibling much acoustic language write embark floor pupil arctic need economy kind";

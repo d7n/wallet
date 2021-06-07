@@ -1,1 +1,1 @@
-var mnemonic = "nest problem survey saddle apple stumble invest oil curious audit loud gate";
+var mnemonic = "extra dynamic actual aisle churn alarm monster simple fall weather concert mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse bomb reduce market rookie army honey theme reward special sugar tent";
+var mnemonic = "sand material hair tool strong canyon top home shoulder prosper pair gravity";

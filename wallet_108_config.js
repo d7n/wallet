@@ -1,1 +1,1 @@
-var mnemonic = "radar kitchen economy cricket panther novel issue face planet predict else civil";
+var mnemonic = "curious twist spot supreme spike arrive empty coil gap devote junior draft";

@@ -1,1 +1,1 @@
-var mnemonic = "nature recipe clinic vapor fiscal kangaroo price master verify donor orphan ranch";
+var mnemonic = "mother seven hello produce endorse cave lava present ski concert rotate equal";

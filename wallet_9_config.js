@@ -1,1 +1,1 @@
-var mnemonic = "phone daughter fault extra text fly setup average submit mask volcano bunker";
+var mnemonic = "marine already delay kick voice syrup anchor bleak news bronze chef apology";

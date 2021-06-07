@@ -1,1 +1,1 @@
-var mnemonic = "witness balance scare obtain hole denial need seat amused turtle carbon sand";
+var mnemonic = "bright climb property vapor snap luxury effort fly identify client tip reflect";

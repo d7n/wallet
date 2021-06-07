@@ -1,1 +1,1 @@
-var mnemonic = "deal trigger vocal hire erupt cover drive myth hen fossil quality proof";
+var mnemonic = "pigeon olympic nominee canal property rose burden cargo picnic mean bleak insect";

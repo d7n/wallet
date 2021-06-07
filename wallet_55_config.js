@@ -1,1 +1,1 @@
-var mnemonic = "pattern cigar net science require embrace beach street section baby inhale anger";
+var mnemonic = "broccoli couch priority mansion guilt vehicle split ethics boring beyond easily symptom";

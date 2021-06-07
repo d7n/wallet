@@ -1,1 +1,1 @@
-var mnemonic = "canvas uncle reunion ask predict across ridge property pull unfair frost quantum";
+var mnemonic = "reflect plate bracket add catalog chronic run transfer settle feel sheriff young";

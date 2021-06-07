@@ -1,1 +1,1 @@
-var mnemonic = "suggest setup dutch damp danger math keen urge tower donkey radio girl";
+var mnemonic = "burst end affair hard spell immense hill pitch acoustic siren waste east";

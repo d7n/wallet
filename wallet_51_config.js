@@ -1,1 +1,1 @@
-var mnemonic = "timber public obvious lonely olive again unfold timber talk proof moon custom";
+var mnemonic = "picnic over sting van inhale talent oven stove fold desk legend foam";

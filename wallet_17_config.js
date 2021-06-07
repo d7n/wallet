@@ -1,1 +1,1 @@
-var mnemonic = "notable frown material burger again abuse metal spatial later define duty tool";
+var mnemonic = "deliver school laugh marble inner fog when audit modify drink slush near";

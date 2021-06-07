@@ -1,1 +1,1 @@
-var mnemonic = "loyal company riot speed car fire eagle man monkey dog industry picture";
+var mnemonic = "dog sponsor problem forward enroll tooth dad oxygen sell soul endorse pull";

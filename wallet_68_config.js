@@ -1,1 +1,1 @@
-var mnemonic = "anxiety cave resemble table flash man disorder velvet rotate motion found elder";
+var mnemonic = "shell comic egg laptop write van always palm fitness artwork want carbon";

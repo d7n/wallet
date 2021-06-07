@@ -1,1 +1,1 @@
-var mnemonic = "end whisper search recall also zone meat dog eager throw clean promote";
+var mnemonic = "trap expire busy relief diary action wish robot kind curtain book review";

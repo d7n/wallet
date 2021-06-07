@@ -1,1 +1,1 @@
-var mnemonic = "run bread few course village argue move sound rookie group color unhappy";
+var mnemonic = "crop february desert resemble broccoli doll cheese second couple wet accident deny";

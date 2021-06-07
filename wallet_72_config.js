@@ -1,1 +1,1 @@
-var mnemonic = "ridge toss connect desk goddess chaos rely staff fire wrap coral veteran";
+var mnemonic = "behave blind yellow vapor stumble demise beauty artefact steak unknown fossil dove";

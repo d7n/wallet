@@ -1,1 +1,1 @@
-var mnemonic = "report dust angle execute property moment rib improve unhappy ride october uncover";
+var mnemonic = "giggle teach nice kiwi chaos bring skin fiscal lock fetch topic impulse";

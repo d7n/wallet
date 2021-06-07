@@ -1,1 +1,1 @@
-var mnemonic = "govern park sentence later crazy awkward squirrel long path anxiety bitter drink";
+var mnemonic = "embody sibling curious rude ahead exact alien horse stem extra two glimpse";

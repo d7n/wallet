@@ -1,1 +1,1 @@
-var mnemonic = "magnet emotion naive destroy flash else capital quiz social hotel name tank";
+var mnemonic = "satoshi youth annual diet enlist arctic empty pitch offer satoshi craft young";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble cereal foot ignore prosper awkward notable that position focus garbage negative";
+var mnemonic = "crush imitate place salt slim inject away tribe accident hen creek scheme";

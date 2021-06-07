@@ -1,1 +1,1 @@
-var mnemonic = "denial empower remove still note ramp dash clever between violin armor arm";
+var mnemonic = "coil resource actual heavy gesture pledge scale desert nominee crystal urge flee";

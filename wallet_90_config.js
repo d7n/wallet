@@ -1,1 +1,1 @@
-var mnemonic = "steel simple about void legal essay decline broken lunch present final unhappy";
+var mnemonic = "omit cliff machine core shallow bullet slim wheat detect water hello slim";

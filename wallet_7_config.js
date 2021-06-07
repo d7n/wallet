@@ -1,1 +1,1 @@
-var mnemonic = "day wine chicken shaft spoil update when goddess carpet drift during casino";
+var mnemonic = "stamp super ask east danger ancient define uniform night fossil yard rain";

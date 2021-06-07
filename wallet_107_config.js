@@ -1,1 +1,1 @@
-var mnemonic = "chuckle gloom mammal input donate admit fragile adjust quiz shell ceiling balance";
+var mnemonic = "fly real casual unhappy always eager bench fall jeans pitch emotion pretty";

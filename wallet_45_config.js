@@ -1,1 +1,1 @@
-var mnemonic = "fork shrimp hour dry dutch ramp scorpion ecology angry post habit elephant";
+var mnemonic = "child exclude east churn hole unknown rural remove normal surface screen bundle";

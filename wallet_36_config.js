@@ -1,1 +1,1 @@
-var mnemonic = "shed movie sausage ball maid inherit consider video host wood shrimp vendor";
+var mnemonic = "stomach panel idea omit hundred main industry wheat sweet fun feature pave";

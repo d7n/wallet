@@ -1,1 +1,1 @@
-var mnemonic = "upon mule digital frown name emerge current patrol cushion dog glue child";
+var mnemonic = "sister inspire define flag typical swing step kid charge drink primary surround";

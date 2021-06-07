@@ -1,1 +1,1 @@
-var mnemonic = "bread spatial person talent screen salad slim duck crane fan later plastic";
+var mnemonic = "twice tiger amazing absorb fox flower arch rabbit opera soul hold quality";

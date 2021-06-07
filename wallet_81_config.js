@@ -1,1 +1,1 @@
-var mnemonic = "extend noise birth quit point cause vicious people initial already guide april";
+var mnemonic = "desert ski clip today sick state bulk wine until urban leg erupt";

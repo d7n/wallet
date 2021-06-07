@@ -1,1 +1,1 @@
-var mnemonic = "palace start enable source female rebuild steel place couple innocent wolf lake";
+var mnemonic = "purchase endless gallery shy owner wet husband crumble capable route crazy announce";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist measure benefit display roof believe appear hospital problem record trade vehicle";
+var mnemonic = "debris rebel damage extend craft bridge elegant again capable curtain track twelve";

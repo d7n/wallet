@@ -1,1 +1,1 @@
-var mnemonic = "timber south inner medal lazy code cradle mercy excuse bone release news";
+var mnemonic = "advance already flavor famous civil aim moon cable happy village error symptom";

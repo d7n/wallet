@@ -1,1 +1,1 @@
-var mnemonic = "bunker foil rib pipe symbol usual among scout kind diary business ill";
+var mnemonic = "arena ancient seminar circle wear naive obtain foil reveal tide olympic success";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz require frozen dad pink say blush only shy fire click mushroom";
+var mnemonic = "escape bike hurt wrist eternal guard lonely immune ability employ muffin when";

@@ -1,1 +1,1 @@
-var mnemonic = "cat behave roof purchase solve device creek catch return march anchor home";
+var mnemonic = "ankle waste hockey night brand news pencil phrase sting wrist saddle shift";

@@ -1,1 +1,1 @@
-var mnemonic = "toward thumb busy depart sustain potato region spike neck day barely inhale";
+var mnemonic = "describe convince wait easily poem chair occur broccoli remain invite call mesh";

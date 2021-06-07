@@ -1,1 +1,1 @@
-var mnemonic = "unfair earth cart margin replace shrimp clown lab deal pitch chest arm";
+var mnemonic = "mango play attract parade heart pulse flat edge main fatigue custom roof";

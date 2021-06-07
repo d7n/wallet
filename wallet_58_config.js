@@ -1,1 +1,1 @@
-var mnemonic = "verb lyrics walnut caution settle genre assume jazz curtain resist citizen grain";
+var mnemonic = "movie evidence essence cancel ordinary recall eagle frost pulp just surround ecology";

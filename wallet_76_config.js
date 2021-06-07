@@ -1,1 +1,1 @@
-var mnemonic = "level differ effort divide sight random warrior dose arrest render baby alert";
+var mnemonic = "fruit embark acoustic leisure forum duck follow mixed reflect almost fix addict";

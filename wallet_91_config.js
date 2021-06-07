@@ -1,1 +1,1 @@
-var mnemonic = "wine limb process leg lamp visa love lake face dose unlock armor";
+var mnemonic = "please miracle toast alert mirror indicate elbow country blush indoor super tube";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon math wage punch garden model sell orphan daughter jacket length autumn";
+var mnemonic = "flat cat clutch deny steel pistol brass stick average cereal copy lobster";

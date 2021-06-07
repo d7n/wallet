@@ -1,1 +1,1 @@
-var mnemonic = "phone average august robot attack level metal garage boost atom hard kangaroo";
+var mnemonic = "speed custom clever blanket stove public relief grid victory party solve tornado";

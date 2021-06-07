@@ -1,1 +1,1 @@
-var mnemonic = "syrup border slim arrive hedgehog reopen track naive firm bottom lecture federal";
+var mnemonic = "spoon right spray motion guilt filter degree glove security run secret one";

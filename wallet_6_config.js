@@ -1,1 +1,1 @@
-var mnemonic = "indoor life occur possible genuine minor please ceiling refuse achieve cotton doll";
+var mnemonic = "mammal rebuild luxury shoe solution cool cube labor replace submit member boss";

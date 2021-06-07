@@ -1,1 +1,1 @@
-var mnemonic = "remain juice clerk game guess rice mechanic indicate drink life someone kitten";
+var mnemonic = "example hundred tobacco curious exclude insane pause speed mercy leaf cactus move";

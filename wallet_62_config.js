@@ -1,1 +1,1 @@
-var mnemonic = "million photo improve mosquito fortune vital attack style century member cluster leave";
+var mnemonic = "silly company seven major become peanut boss cluster decline today notable board";

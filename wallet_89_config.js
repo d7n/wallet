@@ -1,1 +1,1 @@
-var mnemonic = "diary funny logic early recipe adjust smile apart scorpion street decrease rookie";
+var mnemonic = "taxi eternal fit duty circle dizzy success ordinary earn lava dog document";

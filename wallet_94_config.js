@@ -1,1 +1,1 @@
-var mnemonic = "glare make ghost ketchup salmon amount fame decrease marine only thing water";
+var mnemonic = "picture fix want material food file vague help stuff consider old human";

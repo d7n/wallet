@@ -1,1 +1,1 @@
-var mnemonic = "goat aerobic skate clutch clog angle admit mammal impulse grain ride pilot";
+var mnemonic = "raw sight ensure unknown wild often crowd bottom provide urban clog cat";
