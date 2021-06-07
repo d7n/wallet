@@ -1,1 +1,1 @@
-var mnemonic = "brain bulk name habit hammer vanish clump quit gravity marine spring ostrich";
+var mnemonic = "hospital piece bag club churn canoe tail lab front wing timber tenant";

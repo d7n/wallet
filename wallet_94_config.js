@@ -1,1 +1,1 @@
-var mnemonic = "august near tree crater input nasty good announce balcony jacket theme lens";
+var mnemonic = "crowd cradle loud roast approve steak absent mask giraffe festival provide shell";

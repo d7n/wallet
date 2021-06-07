@@ -1,1 +1,1 @@
-var mnemonic = "equal access panic away loop soap riot easy wisdom air lab notice";
+var mnemonic = "ready bacon renew plug champion sting outdoor same ship accident border garbage";

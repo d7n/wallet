@@ -1,1 +1,1 @@
-var mnemonic = "ticket burden castle cute nature depend excuse portion chicken frequent hedgehog peanut";
+var mnemonic = "file scrap question vicious distance session copy race maple vast hero exchange";

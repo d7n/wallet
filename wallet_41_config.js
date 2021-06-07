@@ -1,1 +1,1 @@
-var mnemonic = "turkey size humble walk conduct tongue write flag stomach urban ladder jewel";
+var mnemonic = "process drink label canoe topic gap fabric patrol dune hour usage upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage escape matrix narrow square mix emerge door inside grow ocean dinner";
+var mnemonic = "volcano garment blame theory pig gesture deputy senior borrow dumb tonight utility";

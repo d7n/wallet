@@ -1,1 +1,1 @@
-var mnemonic = "sphere they uphold say tape tourist rapid festival switch clarify grant anxiety";
+var mnemonic = "web smart manage sense robust usual fan lamp draw satisfy unit second";

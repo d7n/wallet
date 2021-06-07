@@ -1,1 +1,1 @@
-var mnemonic = "useless jelly rough yard drastic spawn breeze wisdom nest satoshi another someone";
+var mnemonic = "pool draft cover hole fragile couple cry area fiber sleep rude absurd";

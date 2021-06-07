@@ -1,1 +1,1 @@
-var mnemonic = "unusual inmate region love float category bubble desert wisdom tomato tone salad";
+var mnemonic = "dove theme bright display base few special pigeon maximum butter effort fresh";

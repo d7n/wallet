@@ -1,1 +1,1 @@
-var mnemonic = "gadget recycle little bachelor manage pear enrich worry attract twist wedding pilot";
+var mnemonic = "taste connect truly parrot leg radio scheme grant sell shine prosper sail";

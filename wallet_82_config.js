@@ -1,1 +1,1 @@
-var mnemonic = "illness anger inflict junior flavor forum hill banner picnic winner measure frozen";
+var mnemonic = "denial lucky flip onion addict coast render before loyal cry frost old";

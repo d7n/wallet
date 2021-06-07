@@ -1,1 +1,1 @@
-var mnemonic = "clog want menu tuna gentle faint catalog female coconut strike master rule";
+var mnemonic = "frequent actress neutral enforce wife staff host section lake bronze flight protect";

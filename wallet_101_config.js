@@ -1,1 +1,1 @@
-var mnemonic = "avoid include buddy end dad plastic home usual toilet chat car toy";
+var mnemonic = "fitness equal text provide fuel clutch carry post radar alarm pretty elegant";

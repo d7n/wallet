@@ -1,1 +1,1 @@
-var mnemonic = "border butter over real green census couch legal key silly spider fringe";
+var mnemonic = "staff cancel snake deliver luggage funny below defy edge kid emotion walnut";

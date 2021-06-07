@@ -1,1 +1,1 @@
-var mnemonic = "author faint avoid cave public fossil swift finish chaos misery mistake viable";
+var mnemonic = "pave cry name stamp final lunar inch saddle apology visa bid obey";

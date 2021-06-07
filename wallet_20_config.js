@@ -1,1 +1,1 @@
-var mnemonic = "opera december language usual hedgehog indoor shiver noodle arrest chair critic obtain";
+var mnemonic = "zone quantum love mention soon decade master story gate capable network slot";

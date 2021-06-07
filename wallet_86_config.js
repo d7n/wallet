@@ -1,1 +1,1 @@
-var mnemonic = "affair skin cabbage tag cradle general confirm quote honey inhale zone essay";
+var mnemonic = "barely shaft region vivid genius visual tide wonder try film multiply breeze";

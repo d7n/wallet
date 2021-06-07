@@ -1,1 +1,1 @@
-var mnemonic = "stage giraffe destroy garbage magnet eyebrow unaware wife regular meadow piano pioneer";
+var mnemonic = "reform this guess purchase task hold sport fat embody sea dwarf attack";

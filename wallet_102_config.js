@@ -1,1 +1,1 @@
-var mnemonic = "rescue riot shield mix ignore essence sing couple sense empty open beach";
+var mnemonic = "thunder diamond kite fun ill glass advice renew tissue demise space live";

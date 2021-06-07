@@ -1,1 +1,1 @@
-var mnemonic = "artefact recycle outdoor eager diamond inspire silent spend next toe rapid outside";
+var mnemonic = "slab arm siege demise crash lawsuit wave extra eternal finger genuine then";

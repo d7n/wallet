@@ -1,1 +1,1 @@
-var mnemonic = "squirrel execute cook away fashion valve rebuild gun start nephew order mobile";
+var mnemonic = "network liquid impact certain feed puzzle unit give clerk update primary load";

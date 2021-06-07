@@ -1,1 +1,1 @@
-var mnemonic = "fit unfair cargo wink hair dress switch solution unfair say item dove";
+var mnemonic = "iron security marriage betray mystery lounge rhythm coffee silk gravity hunt doll";

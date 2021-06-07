@@ -1,1 +1,1 @@
-var mnemonic = "athlete relief slush mechanic auction broom example flip cup sound drill arrest";
+var mnemonic = "recipe still menu pave shuffle lamp ski oven subway blur material deposit";

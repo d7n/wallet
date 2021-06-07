@@ -1,1 +1,1 @@
-var mnemonic = "gravity suit alien salon opera aunt woman razor mouse muscle slow pave";
+var mnemonic = "lizard melody inmate kidney chat large pencil inspire congress hub smoke squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "turn start ensure transfer clever eternal icon regret one century truck castle";
+var mnemonic = "sleep isolate wasp team bid such claim legend rifle orbit unable drop";

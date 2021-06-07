@@ -1,1 +1,1 @@
-var mnemonic = "club math fold differ clap other loan grape dawn human sight year";
+var mnemonic = "run supreme purpose viable permit border tennis announce maple fiber foot shine";

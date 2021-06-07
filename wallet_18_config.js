@@ -1,1 +1,1 @@
-var mnemonic = "version wife tide next tennis argue strong waste sentence regular apple dress";
+var mnemonic = "present elevator giggle brush lesson polar proud basic congress rack curtain breeze";

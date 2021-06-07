@@ -1,1 +1,1 @@
-var mnemonic = "company never benefit damp destroy glory chief badge upset indicate canvas sign";
+var mnemonic = "apple soda reopen cement lens cigar add chronic peanut appear direct please";

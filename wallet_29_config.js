@@ -1,1 +1,1 @@
-var mnemonic = "ankle recall claim frog quick concert again expire smoke lamp fine unknown";
+var mnemonic = "witness length identify zero excess volume powder chunk tortoise bachelor skin diet";

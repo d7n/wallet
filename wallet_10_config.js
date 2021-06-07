@@ -1,1 +1,1 @@
-var mnemonic = "cereal flat brave claw mutual corn cigar cannon payment couch list brave";
+var mnemonic = "mansion useful organ trouble boost exercise spin zoo clown solution raven unable";

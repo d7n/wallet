@@ -1,1 +1,1 @@
-var mnemonic = "pass sight absent tell loud juice raven girl cricket major spoon crouch";
+var mnemonic = "once jewel tape exile base blossom parent vehicle bulk stamp taste pledge";

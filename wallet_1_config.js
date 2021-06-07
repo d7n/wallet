@@ -1,1 +1,1 @@
-var mnemonic = "thing orchard syrup maple detail broken absent hair smoke holiday diamond butter";
+var mnemonic = "involve spice sister play expire mad erosion gospel minor engage capital junior";

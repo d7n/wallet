@@ -1,1 +1,1 @@
-var mnemonic = "volcano excite lazy second drift grit common afraid voice pause miracle scrap";
+var mnemonic = "bounce bargain cake van maximum alter pottery essence blush crane fitness betray";

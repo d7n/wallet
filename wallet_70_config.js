@@ -1,1 +1,1 @@
-var mnemonic = "room know model polar cycle slot wasp tongue rug pepper cup drastic";
+var mnemonic = "phone mail punch pulp reward coconut renew snow pelican use say neck";

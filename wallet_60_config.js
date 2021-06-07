@@ -1,1 +1,1 @@
-var mnemonic = "fix race screen vehicle dwarf senior manage visit kick favorite clay mad";
+var mnemonic = "abandon piece initial rose helmet question decide deliver protect city acid language";

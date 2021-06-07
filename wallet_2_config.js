@@ -1,1 +1,1 @@
-var mnemonic = "athlete betray exit grape three panda picnic magnet favorite text debris birth";
+var mnemonic = "push recycle trip swing crash harsh mammal like bronze venue speak gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "credit mystery tape attend ketchup wear behind rally member foil cry away";
+var mnemonic = "spawn copper north okay crack abandon throw oven style vicious fine oven";

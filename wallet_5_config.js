@@ -1,1 +1,1 @@
-var mnemonic = "dynamic pause tell film easy live turn elite notice coach analyst game";
+var mnemonic = "science media vivid ticket wool valid echo wedding muffin police ozone time";

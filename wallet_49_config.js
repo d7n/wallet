@@ -1,1 +1,1 @@
-var mnemonic = "soon weekend misery benefit weasel scorpion nurse inspire link mix window target";
+var mnemonic = "vault alley alone grunt slim arrest media craft whale movie holiday royal";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator law nation mad file cave damp bless despair surprise trumpet ancient";
+var mnemonic = "spoon together attack pupil supreme cover attack loyal upper soon round enhance";

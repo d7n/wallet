@@ -1,1 +1,1 @@
-var mnemonic = "evidence myth dune exhaust lady aerobic kite ostrich news whisper clump because";
+var mnemonic = "year chronic one provide cool drip report muffin pet vibrant bone verb";

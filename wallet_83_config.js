@@ -1,1 +1,1 @@
-var mnemonic = "fit silent smoke stomach mesh mystery tool tower demand stem oven iron";
+var mnemonic = "rapid shock saddle pelican demise above alpha mixed alert panther reflect harvest";

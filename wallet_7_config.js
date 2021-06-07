@@ -1,1 +1,1 @@
-var mnemonic = "label clean device kid ugly annual slim pottery liar glove trick fiction";
+var mnemonic = "satisfy position unlock typical open neglect firm diary glow true friend desk";

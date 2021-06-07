@@ -1,1 +1,1 @@
-var mnemonic = "cheese whip burst ritual hero suffer delay thumb coconut ensure impact kiss";
+var mnemonic = "shoe icon diesel result soul master tilt seminar staff success moment swallow";

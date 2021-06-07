@@ -1,1 +1,1 @@
-var mnemonic = "enroll find desert blind vote twenty couch ghost hat ritual amount agree";
+var mnemonic = "miracle youth orchard home lady group wasp transfer grow trick remind two";

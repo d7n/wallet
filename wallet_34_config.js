@@ -1,1 +1,1 @@
-var mnemonic = "survey april gown future drink tragic patrol final duck rain daughter timber";
+var mnemonic = "inquiry funny reward settle half almost spell crouch execute tattoo undo curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow cool grunt vacant crater year put assault palm core swing index";
+var mnemonic = "pave jeans sense usage abandon invite gap crawl silver agree master net";

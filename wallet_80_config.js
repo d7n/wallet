@@ -1,1 +1,1 @@
-var mnemonic = "vendor laptop great expose subway mandate sheriff ask soccer educate version ecology";
+var mnemonic = "emerge they abstract raccoon silent this issue negative correct crash blast make";

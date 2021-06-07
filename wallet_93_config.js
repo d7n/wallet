@@ -1,1 +1,1 @@
-var mnemonic = "estate push assume balcony purchase quality raccoon sketch citizen crater female garment";
+var mnemonic = "noble galaxy shed flower wealth clip own globe intact scrub cheese liberty";

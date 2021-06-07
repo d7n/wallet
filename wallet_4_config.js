@@ -1,1 +1,1 @@
-var mnemonic = "critic total vicious pen squirrel illness senior elbow junior rotate image express";
+var mnemonic = "seminar cloth mix column try breeze dizzy dice matrix predict record six";

@@ -1,1 +1,1 @@
-var mnemonic = "august rude coyote afraid cigar dust collect kingdom excite excite left ginger";
+var mnemonic = "frame grocery genuine crowd leaf roof dizzy method hamster sand dish method";

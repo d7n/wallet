@@ -1,1 +1,1 @@
-var mnemonic = "remain security manage oyster despair casual display test resist wild claim result";
+var mnemonic = "entry hybrid salad direct enrich apart curve spray clean pledge weapon winter";

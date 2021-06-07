@@ -1,1 +1,1 @@
-var mnemonic = "aisle achieve target extra kind aware tray engine pear entire panther wise";
+var mnemonic = "artefact possible frame tragic december only select reflect save combine rare unable";

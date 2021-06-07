@@ -1,1 +1,1 @@
-var mnemonic = "legend enjoy index genuine young raven judge joke energy alert retire dismiss";
+var mnemonic = "degree magnet shiver column grief monkey actress damage mixture lounge jacket insect";

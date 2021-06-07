@@ -1,1 +1,1 @@
-var mnemonic = "upgrade news build symbol transfer gather lonely saddle retreat claw ghost produce";
+var mnemonic = "habit spell cup front author kite grocery beauty wife wreck token rent";

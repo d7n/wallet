@@ -1,1 +1,1 @@
-var mnemonic = "rose lemon fall theme subject audit account aisle rug offer reject cradle";
+var mnemonic = "walnut draft chicken organ december swarm modify trick crane secret spider urge";

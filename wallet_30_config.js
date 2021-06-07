@@ -1,1 +1,1 @@
-var mnemonic = "absurd segment fossil april impulse dumb sniff fence paper veteran mansion wrap";
+var mnemonic = "crash road dolphin sorry hard buddy media assault chapter monitor noble situate";

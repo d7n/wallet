@@ -1,1 +1,1 @@
-var mnemonic = "leaf laptop version topic control man target access check hurry image salon";
+var mnemonic = "girl crawl emerge comfort garage peasant depart various forget lion confirm bread";

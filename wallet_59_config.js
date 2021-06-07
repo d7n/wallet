@@ -1,1 +1,1 @@
-var mnemonic = "kite kiss brain host leave bounce aim vanish promote property next hurdle";
+var mnemonic = "wet march angry kiss elder move ripple certain marble era text royal";

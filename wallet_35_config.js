@@ -1,1 +1,1 @@
-var mnemonic = "people promote own evil accident panda artist position pupil coin early cluster";
+var mnemonic = "symptom confirm army fetch dinosaur sock casual table upper resource immune fall";

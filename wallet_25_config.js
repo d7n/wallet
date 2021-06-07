@@ -1,1 +1,1 @@
-var mnemonic = "vacant luxury island address profit hood clay end ahead ensure celery tray";
+var mnemonic = "drift live riot antique dilemma dry obey torch shiver addict twice woman";

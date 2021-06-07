@@ -1,1 +1,1 @@
-var mnemonic = "ask twelve kind stereo chimney dinosaur found off detect cupboard attract baby";
+var mnemonic = "language drop rare habit employ poet tent acid attitude promote used almost";

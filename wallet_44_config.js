@@ -1,1 +1,1 @@
-var mnemonic = "hybrid hidden prison grow engage antenna dice wealth crucial vocal toy city";
+var mnemonic = "correct interest lumber resource roast tongue room canvas initial will stick age";

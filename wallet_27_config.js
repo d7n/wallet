@@ -1,1 +1,1 @@
-var mnemonic = "mixed visual illegal add author sunset point cement summer peanut industry another";
+var mnemonic = "movie lens enough orphan include stable report degree bronze game spirit float";

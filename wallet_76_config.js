@@ -1,1 +1,1 @@
-var mnemonic = "blur divide solar offer toward jacket soon source hello chaos day crater";
+var mnemonic = "wise pupil kick vanish sadness edit solid enroll purity tip scissors urban";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise shoe tornado lab summer talent soon paddle absurd satoshi fluid intact";
+var mnemonic = "crumble label swamp six toss rent topple bubble large avocado double jeans";

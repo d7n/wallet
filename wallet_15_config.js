@@ -1,1 +1,1 @@
-var mnemonic = "man wonder pistol what inch place fiction city rely neglect rent lend";
+var mnemonic = "stereo refuse describe sheriff water dismiss camp exact fee divorce indoor planet";

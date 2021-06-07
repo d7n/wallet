@@ -1,1 +1,1 @@
-var mnemonic = "elephant oil hungry stable claw awake know raven debate day culture mountain";
+var mnemonic = "logic cube essence sister stable middle differ cloth drip option easy sing";

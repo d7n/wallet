@@ -1,1 +1,1 @@
-var mnemonic = "dwarf camp time borrow labor salute play electric jungle weird mutual soon";
+var mnemonic = "observe october parrot range sunset decrease permit hat category surprise proof aware";

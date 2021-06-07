@@ -1,1 +1,1 @@
-var mnemonic = "ring shaft that voice border frame refuse trash price story fee during";
+var mnemonic = "truly glove stadium panther eagle misery tennis drink planet chicken pledge glad";

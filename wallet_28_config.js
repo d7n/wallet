@@ -1,1 +1,1 @@
-var mnemonic = "smoke calm kingdom oyster pass urban hybrid nation venue indoor borrow harvest";
+var mnemonic = "floor ribbon razor later indoor engage damp kick rebel wave cover rude";

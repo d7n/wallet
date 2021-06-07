@@ -1,1 +1,1 @@
-var mnemonic = "vacuum matrix glow because warrior diary boil merry hold giraffe hurdle heart";
+var mnemonic = "one brain caught laptop alone help buddy nation stairs hotel sense device";

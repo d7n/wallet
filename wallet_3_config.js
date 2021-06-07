@@ -1,1 +1,1 @@
-var mnemonic = "hurt find craft spell install small update pond empty tornado excess armor";
+var mnemonic = "above ancient tongue globe lumber property swap denial indoor patient friend assist";

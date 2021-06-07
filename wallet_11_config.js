@@ -1,1 +1,1 @@
-var mnemonic = "output gather label record awake interest return husband ill battle hair ozone";
+var mnemonic = "enroll toddler razor vehicle pet pear corn biology egg faith disagree blood";

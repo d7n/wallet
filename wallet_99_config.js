@@ -1,1 +1,1 @@
-var mnemonic = "cup pipe leaf car head method fix square tunnel later border lunar";
+var mnemonic = "fantasy dinosaur soap elbow interest vocal manage custom stairs index allow giant";

@@ -1,1 +1,1 @@
-var mnemonic = "normal rigid recall ocean best logic alert speak parent satisfy dwarf general";
+var mnemonic = "mail hand industry employ sponsor tiger ask under armed blade nothing online";

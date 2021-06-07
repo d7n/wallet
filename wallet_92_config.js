@@ -1,1 +1,1 @@
-var mnemonic = "inquiry pond broom accident cart file zero excuse sea song swim judge";
+var mnemonic = "clarify garbage inside thunder online cloud search cave rescue stairs panther crane";

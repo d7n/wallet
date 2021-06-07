@@ -1,1 +1,1 @@
-var mnemonic = "mechanic vast wine board toilet journey track jewel genuine issue pluck act";
+var mnemonic = "nerve security royal road mass whisper reason spell cat absurd various sport";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud brisk floor doll clump cube elite bulk foster lumber crowd goose";
+var mnemonic = "among alarm index game neglect length setup stick hospital tent humble wife";

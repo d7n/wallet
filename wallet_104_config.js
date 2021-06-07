@@ -1,1 +1,1 @@
-var mnemonic = "badge tenant cereal canyon curious morning frost knock glass suffer chuckle cruise";
+var mnemonic = "design distance coconut next weapon bullet scrap print shine involve dutch cool";

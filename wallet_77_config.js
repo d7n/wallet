@@ -1,1 +1,1 @@
-var mnemonic = "rare omit across slogan catalog glance giggle kick end arrow congress ramp";
+var mnemonic = "life rich install critic twenty cycle abuse tiny reunion connect merit utility";

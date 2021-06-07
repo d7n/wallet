@@ -1,1 +1,1 @@
-var mnemonic = "hello section gas knife exhaust kitten coral scissors bounce guitar keep shed";
+var mnemonic = "make elevator impulse kitchen seed mix glue shoulder small system depend elephant";

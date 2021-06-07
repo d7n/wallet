@@ -1,1 +1,1 @@
-var mnemonic = "begin cannon easy abuse junior exhaust daughter candy witness october depth setup";
+var mnemonic = "achieve toss spend inflict stumble car budget mobile alone wink scheme second";

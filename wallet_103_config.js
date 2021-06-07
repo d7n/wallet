@@ -1,1 +1,1 @@
-var mnemonic = "rookie apple treat bubble walk aspect bar say long crush glory expire";
+var mnemonic = "success noodle before flip inject destroy habit mix share magnet motion they";

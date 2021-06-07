@@ -1,1 +1,1 @@
-var mnemonic = "silent hair fall priority this ten wagon caution guilt grunt web action";
+var mnemonic = "venture under kiss pen poem furnace bicycle border suffer couch degree world";

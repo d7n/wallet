@@ -1,1 +1,1 @@
-var mnemonic = "shell bottom soda spice trap valid carbon south easy decide panda walnut";
+var mnemonic = "kiss hole dignity brown exclude salt video heavy broom toss romance confirm";

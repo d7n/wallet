@@ -1,1 +1,1 @@
-var mnemonic = "access general tiger desert case change hold occur accident media topple common";
+var mnemonic = "room lottery skin slush obtain brass bulk ceiling radar actress cube across";

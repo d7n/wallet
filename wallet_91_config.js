@@ -1,1 +1,1 @@
-var mnemonic = "now worry swim yard ten sing scissors mesh island flavor lounge slide";
+var mnemonic = "action horn seminar enforce cupboard crowd dizzy scheme fuel brown around review";

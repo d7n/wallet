@@ -1,1 +1,1 @@
-var mnemonic = "dune tribe achieve cricket option hawk globe defense tool promote rely goddess";
+var mnemonic = "choose tiger upper wing tag february holiday such swamp situate ordinary sport";

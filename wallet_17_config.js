@@ -1,1 +1,1 @@
-var mnemonic = "unique laugh alone swim dilemma want steak social awake media naive track";
+var mnemonic = "visit define lawsuit stumble holiday help acid step device carbon tissue collect";

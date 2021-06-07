@@ -1,1 +1,1 @@
-var mnemonic = "change vehicle arrange refuse wave hill material man city mechanic walnut chief";
+var mnemonic = "seven illness achieve twice canvas task sheriff private illness load aspect rhythm";

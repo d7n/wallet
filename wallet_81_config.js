@@ -1,1 +1,1 @@
-var mnemonic = "seat scrap lens mesh output language journey crawl nation increase virtual embark";
+var mnemonic = "horror exile shy element pistol assist rate dry clerk melt sock pet";

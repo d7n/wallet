@@ -1,1 +1,1 @@
-var mnemonic = "stomach swamp shop funny mother element lab brush until common gas motion";
+var mnemonic = "gate olympic ripple ancient pill balcony panther spell foam term razor start";
