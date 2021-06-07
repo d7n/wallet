@@ -1,1 +1,1 @@
-var mnemonic = "host language gasp husband brave chat knee divide volcano wasp gentle west";
+var mnemonic = "escape ostrich banana wink pizza craft moment trophy excess stable poem shadow";

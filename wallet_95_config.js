@@ -1,1 +1,1 @@
-var mnemonic = "easy message laundry evil half degree payment desert tell broom desk glory";
+var mnemonic = "era business elevator belt deal parade hill trip reduce alcohol city recycle";

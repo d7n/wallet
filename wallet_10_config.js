@@ -1,1 +1,1 @@
-var mnemonic = "tooth stomach push huge method romance choose novel heavy slot save onion";
+var mnemonic = "usage similar object absorb ill squeeze eight find glove garbage allow car";

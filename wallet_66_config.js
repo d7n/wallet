@@ -1,1 +1,1 @@
-var mnemonic = "surge galaxy deal ball soup stem document guilt minute sniff faint punch";
+var mnemonic = "say stone gate charge fatigue all misery suit flower just achieve body";

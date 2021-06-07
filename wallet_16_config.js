@@ -1,1 +1,1 @@
-var mnemonic = "holiday whale outer fit hope swing cement taste swear patrol tackle cheap";
+var mnemonic = "glimpse slab round humble hour drive october pill weasel accuse draw ketchup";

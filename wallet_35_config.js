@@ -1,1 +1,1 @@
-var mnemonic = "meadow layer man dial rapid female cool surge escape evoke peasant round";
+var mnemonic = "wink bread copper mom title diamond sword stand found jar tongue illegal";

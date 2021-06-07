@@ -1,1 +1,1 @@
-var mnemonic = "mom unknown salute nice exact media regret age pudding truly logic dream";
+var mnemonic = "law join peasant access glimpse sense aspect keep plastic cross urban city";

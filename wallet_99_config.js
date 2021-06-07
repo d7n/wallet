@@ -1,1 +1,1 @@
-var mnemonic = "play welcome drive correct sadness acoustic midnight rotate raw orient phone grit";
+var mnemonic = "width dash twin broccoli broom attack quality daughter travel manual elbow protect";

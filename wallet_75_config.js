@@ -1,1 +1,1 @@
-var mnemonic = "garment side toward wrestle exile chair oil defense palm desert neutral simple";
+var mnemonic = "robust disorder fortune capable normal print shuffle neither age device trend bronze";

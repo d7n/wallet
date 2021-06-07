@@ -1,1 +1,1 @@
-var mnemonic = "autumn box inside shop key dose useless nose wasp inflict jar car";
+var mnemonic = "lucky already nation lion sausage spy power arm sketch awesome cute poet";

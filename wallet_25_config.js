@@ -1,1 +1,1 @@
-var mnemonic = "void seven best start object chronic truly problem stand device farm inject";
+var mnemonic = "acoustic ocean gadget dentist result curious holiday space cart around sight whale";

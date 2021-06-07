@@ -1,1 +1,1 @@
-var mnemonic = "fence cupboard piece country engage bulk excite flee power give tumble space";
+var mnemonic = "riot start grab sand twice party ill mango render recycle mosquito analyst";

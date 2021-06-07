@@ -1,1 +1,1 @@
-var mnemonic = "carry stereo truck valley left heart ticket range powder bike escape road";
+var mnemonic = "purpose conduct hedgehog check ceiling double cricket process guilt dune true history";

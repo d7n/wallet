@@ -1,1 +1,1 @@
-var mnemonic = "issue silent point curious scale thumb vault gauge offer music diagram rare";
+var mnemonic = "hat impact weird lens dragon olive monster crime motion garlic firm profit";

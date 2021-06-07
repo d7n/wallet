@@ -1,1 +1,1 @@
-var mnemonic = "prosper arm version surprise silly swamp cool imitate venture trumpet photo nature";
+var mnemonic = "blind wing boost wire trumpet action stumble lemon summer alpha black fault";

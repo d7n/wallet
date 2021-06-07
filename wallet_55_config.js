@@ -1,1 +1,1 @@
-var mnemonic = "now blood voice enlist radar junk clinic name pig main teach owner";
+var mnemonic = "bring blur simple sudden runway shadow top weird talk finish nation crew";

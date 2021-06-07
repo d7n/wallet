@@ -1,1 +1,1 @@
-var mnemonic = "pyramid local neglect birth ostrich then link water purity cute fabric income";
+var mnemonic = "alert waste ring glow law knee present decrease bamboo coin exist daughter";

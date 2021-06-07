@@ -1,1 +1,1 @@
-var mnemonic = "nut manage rocket heavy thrive orange fury physical steak client please beach";
+var mnemonic = "vehicle tunnel bike measure flight cushion crane dutch brain area march fan";

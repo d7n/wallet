@@ -1,1 +1,1 @@
-var mnemonic = "spatial drastic setup hamster grab vicious occur pole advance start give hair";
+var mnemonic = "shed drastic ball melody damp replace brave eagle brisk into minor rent";

@@ -1,1 +1,1 @@
-var mnemonic = "essence casino near pattern provide curve uniform drift wet plunge piece slam";
+var mnemonic = "banana happy pipe able bitter door must obvious escape piano monitor wealth";

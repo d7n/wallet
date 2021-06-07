@@ -1,1 +1,1 @@
-var mnemonic = "element real spray abstract enough fence depend bonus ball museum insane rent";
+var mnemonic = "luggage inflict walnut puppy olive evil best under milk feature hybrid reunion";

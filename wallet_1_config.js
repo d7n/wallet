@@ -1,1 +1,1 @@
-var mnemonic = "name drill destroy avocado endorse legal access permit mad own surround scan";
+var mnemonic = "identify torch crater weasel picture strong hello can game very head debris";

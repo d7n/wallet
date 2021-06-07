@@ -1,1 +1,1 @@
-var mnemonic = "dumb wish coral muffin gossip jump decorate market nature resource health panther";
+var mnemonic = "carbon deliver enough very bus badge chief tail slam slam buffalo head";

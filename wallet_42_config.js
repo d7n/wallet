@@ -1,1 +1,1 @@
-var mnemonic = "catch car mad liberty mom turn account post vehicle behind video maximum";
+var mnemonic = "nation lounge join novel canoe vacuum subject strategy memory vocal parrot patch";

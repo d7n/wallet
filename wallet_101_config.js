@@ -1,1 +1,1 @@
-var mnemonic = "pull attract nut laptop master must visit play differ scheme pill hill";
+var mnemonic = "morning replace kiwi direct forward pigeon left profit acoustic idle layer achieve";

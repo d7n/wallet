@@ -1,1 +1,1 @@
-var mnemonic = "giant coconut long rural own noble broken resemble culture gold sign gesture";
+var mnemonic = "system eagle immune lyrics snap donkey canvas doctor gadget milk lunar favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle exist organ grab build island lawn letter kit room way addict";
+var mnemonic = "vital famous fortune need oven surface mango copper alley review recycle such";

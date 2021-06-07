@@ -1,1 +1,1 @@
-var mnemonic = "knock almost rival legal anchor empty entire arch organ require gorilla muscle";
+var mnemonic = "junior blouse elite shed derive unique report increase habit pledge limb poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "echo help verb lake goddess whale garlic dwarf joke visit spike fitness";
+var mnemonic = "toss sick venture unique bottom cage crumble wrong argue deliver myself toss";

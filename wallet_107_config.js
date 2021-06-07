@@ -1,1 +1,1 @@
-var mnemonic = "myth multiply album helmet task gain federal begin atom snap daughter sauce";
+var mnemonic = "slice choose settle sponsor tooth chicken trash soon sting umbrella airport panel";

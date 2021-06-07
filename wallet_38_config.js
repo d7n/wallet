@@ -1,1 +1,1 @@
-var mnemonic = "adjust safe actual lonely february marble focus traffic foil blood element quit";
+var mnemonic = "confirm security age dumb suggest act charge then skate robust record sketch";

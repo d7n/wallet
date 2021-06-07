@@ -1,1 +1,1 @@
-var mnemonic = "lock check decade duck ship anxiety wise saddle orbit hurry woman elegant";
+var mnemonic = "monkey certain naive aware half hover asthma cinnamon future profit cinnamon maximum";

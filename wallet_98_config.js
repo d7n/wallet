@@ -1,1 +1,1 @@
-var mnemonic = "order idea betray beauty prosper blind armed thing abstract away airport vibrant";
+var mnemonic = "bomb amateur undo state ahead husband shrug machine upper seek apology rich";

@@ -1,1 +1,1 @@
-var mnemonic = "raise comfort token minor rural sleep author mechanic again expire dinner garage";
+var mnemonic = "motor high evil dance ranch smart bring perfect animal illness arena permit";

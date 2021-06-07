@@ -1,1 +1,1 @@
-var mnemonic = "office across sentence collect erupt giraffe token album usage join train popular";
+var mnemonic = "crack maximum clog elder ecology relief room all inside genre that evoke";

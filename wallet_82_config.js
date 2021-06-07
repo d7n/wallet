@@ -1,1 +1,1 @@
-var mnemonic = "glue time swift steak foam retreat caught faith renew december butter quit";
+var mnemonic = "about stock balance jeans story phone catalog speed volume melody hub quantum";

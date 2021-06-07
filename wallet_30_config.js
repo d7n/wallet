@@ -1,1 +1,1 @@
-var mnemonic = "talent ostrich gown peanut update before hawk few trial clump across load";
+var mnemonic = "upgrade rule caution hawk pudding scene alter explain diet fabric world envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure good rib join limb clap cook index ozone noble input tonight";
+var mnemonic = "spray sea clap level abuse wall lawn merit arrive fiber culture furnace";

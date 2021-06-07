@@ -1,1 +1,1 @@
-var mnemonic = "accuse radio shove toast already enable coach negative autumn best find wash";
+var mnemonic = "potato luxury plate curious give case clump disorder decide spell tunnel easily";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm capital romance liar connect monster lift pretty era physical ocean size";
+var mnemonic = "draw inch scorpion object correct achieve middle cash excite notable change slam";

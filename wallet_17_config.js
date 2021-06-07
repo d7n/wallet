@@ -1,1 +1,1 @@
-var mnemonic = "stadium ranch endless achieve category suffer wait seek omit bind casual drink";
+var mnemonic = "monster found swear submit hospital fossil embark bike board kid parrot cousin";

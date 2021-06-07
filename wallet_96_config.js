@@ -1,1 +1,1 @@
-var mnemonic = "crew defy over fat pill crash arrive crisp cruise company loud angle";
+var mnemonic = "devote drip clarify tail sell topple agree correct dune volume kiwi loan";

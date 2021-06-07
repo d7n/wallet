@@ -1,1 +1,1 @@
-var mnemonic = "panther melt stumble salmon method business pistol faith unknown boat father galaxy";
+var mnemonic = "bar wise view gravity matter tail please print bright walk feel room";

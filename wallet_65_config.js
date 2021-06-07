@@ -1,1 +1,1 @@
-var mnemonic = "swamp news march tiger term night expose measure orphan alter empower lesson";
+var mnemonic = "salon reopen input nasty welcome action slogan pulp clarify memory keen help";

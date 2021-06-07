@@ -1,1 +1,1 @@
-var mnemonic = "people bulk monitor loan frost private easy furnace praise ethics yard stereo";
+var mnemonic = "music strike exhibit sweet juice explain dismiss true weather lizard gaze venture";

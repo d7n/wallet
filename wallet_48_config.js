@@ -1,1 +1,1 @@
-var mnemonic = "engine this laptop garage panel magnet broom price stem add around high";
+var mnemonic = "special remove gown order luggage tackle fiber square differ lecture birth stock";

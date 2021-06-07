@@ -1,1 +1,1 @@
-var mnemonic = "fee emotion empty friend drift staff banner just harsh bomb climb resemble";
+var mnemonic = "sentence trigger monitor grief fire glass state unusual elegant stadium ability aspect";

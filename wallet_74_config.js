@@ -1,1 +1,1 @@
-var mnemonic = "increase health drill loop trade dismiss alarm mushroom village grit fog appear";
+var mnemonic = "until mirror fan mask robust boring smile foster shop shy victory arrive";

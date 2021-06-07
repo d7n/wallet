@@ -1,1 +1,1 @@
-var mnemonic = "health neither page moon half general vote miracle ugly daughter catch gospel";
+var mnemonic = "patient among bring predict peasant dose another pride position intact skin unfair";

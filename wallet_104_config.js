@@ -1,1 +1,1 @@
-var mnemonic = "review ivory pencil deal raccoon repeat follow feature rigid exhibit flight armed";
+var mnemonic = "maid film soup twenty keep fossil artwork wish apart advice they oxygen";

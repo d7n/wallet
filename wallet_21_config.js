@@ -1,1 +1,1 @@
-var mnemonic = "bamboo orange scrap sing want balance into proud vanish young relief album";
+var mnemonic = "cage pig dwarf time bring bid horror acquire border woman nurse blame";

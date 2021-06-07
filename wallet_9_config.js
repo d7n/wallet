@@ -1,1 +1,1 @@
-var mnemonic = "arm edit ship give dice report picture ensure dash mechanic october angry";
+var mnemonic = "virtual pipe region security junk street what wife sister monster hour meadow";

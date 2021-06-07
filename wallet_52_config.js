@@ -1,1 +1,1 @@
-var mnemonic = "buyer fringe thumb fever wink woman advice host pool regular curious chaos";
+var mnemonic = "exist fabric detail basket ocean couple urge venue medal cute quote tattoo";

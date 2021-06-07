@@ -1,1 +1,1 @@
-var mnemonic = "lab egg bubble habit strategy cherry rice nasty congress cattle poverty absorb";
+var mnemonic = "syrup leisure curtain seven angry pear bulb negative load valve crane habit";

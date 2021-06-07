@@ -1,1 +1,1 @@
-var mnemonic = "excuse wise dwarf sad extra acoustic actual remain like cousin process snap";
+var mnemonic = "fetch crane impact notable medal alley position found sauce ecology alert blanket";

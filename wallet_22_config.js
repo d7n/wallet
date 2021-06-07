@@ -1,1 +1,1 @@
-var mnemonic = "december siege dismiss promote window super off excuse expose cat donor job";
+var mnemonic = "vintage mango despair chase empower capable stomach gossip honey pig best afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee bench violin same disorder noise crucial law robust world type actual";
+var mnemonic = "grass sunset law inspire wisdom drastic fiscal gather wire blanket detail innocent";

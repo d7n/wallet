@@ -1,1 +1,1 @@
-var mnemonic = "fiber fury shy rebel find wrong anger below crop tiny senior ugly";
+var mnemonic = "people neither grief face say roof sail family kid spend avoid hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "cement later fox drift west alien equip burst air trade dilemma stadium";
+var mnemonic = "midnight plastic scale hungry achieve bacon road nerve improve trial web detect";

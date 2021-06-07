@@ -1,1 +1,1 @@
-var mnemonic = "file rifle income ugly brown describe inspire neutral sorry zebra teach rack";
+var mnemonic = "machine effort buzz circle blur volume rebel city couple there twice purpose";

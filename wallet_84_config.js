@@ -1,1 +1,1 @@
-var mnemonic = "appear apology table trip fatal fresh scatter unhappy network issue hover shell";
+var mnemonic = "awake absurd motion claw sausage mass lake myth amateur tomato margin youth";

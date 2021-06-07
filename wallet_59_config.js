@@ -1,1 +1,1 @@
-var mnemonic = "term rebuild danger select busy mass urge fancy aspect ecology retire invest";
+var mnemonic = "boss virus napkin gasp fruit abstract sponsor slow dizzy coil bulb actor";

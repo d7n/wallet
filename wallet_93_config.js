@@ -1,1 +1,1 @@
-var mnemonic = "know eye will poverty ostrich address mail ketchup rifle permit person only";
+var mnemonic = "tail quit usage slogan shed spray cancel gadget cushion interest swift diamond";

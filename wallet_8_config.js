@@ -1,1 +1,1 @@
-var mnemonic = "huge saddle roof evoke remain rally shrug initial spin affair neglect creek";
+var mnemonic = "essay virtual engage maximum slogan cushion ginger exist master useful news voyage";

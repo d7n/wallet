@@ -1,1 +1,1 @@
-var mnemonic = "empower rebel ability shrimp digital gloom ginger rally divide uniform rule sunset";
+var mnemonic = "fence random step soccer awful only disagree later coin panic cycle boat";

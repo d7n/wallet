@@ -1,1 +1,1 @@
-var mnemonic = "actress donate amazing idea between orient situate bless neglect palace unusual above";
+var mnemonic = "office wheat first flight effort tornado license option tooth choose observe arch";

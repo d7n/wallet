@@ -1,1 +1,1 @@
-var mnemonic = "acoustic picnic whisper bulk abstract predict harvest sponsor civil timber labor claw";
+var mnemonic = "issue detail stick fiction harbor scrap observe immune initial olive unaware essence";

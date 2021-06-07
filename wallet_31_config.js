@@ -1,1 +1,1 @@
-var mnemonic = "tooth joy vanish nerve pizza hammer manual item prize permit ship flip";
+var mnemonic = "kitten senior reduce valley noise famous assume forum table tattoo attend online";

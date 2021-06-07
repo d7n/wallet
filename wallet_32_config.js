@@ -1,1 +1,1 @@
-var mnemonic = "wink avoid nice buyer merry flag silly drink voice hurry brave waste";
+var mnemonic = "ability toss library sustain buyer army odor shed base enough holiday amount";

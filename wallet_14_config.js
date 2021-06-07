@@ -1,1 +1,1 @@
-var mnemonic = "enforce shy vicious ankle garbage detect sunset surge trumpet later because worry";
+var mnemonic = "ginger choose indicate adjust park asthma delay start word three sure beyond";

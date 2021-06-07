@@ -1,1 +1,1 @@
-var mnemonic = "layer devote soccer private surprise adjust wheat hedgehog cry master member chair";
+var mnemonic = "able camera edit prefer gentle angry save defense flame trip tent moon";

@@ -1,1 +1,1 @@
-var mnemonic = "situate habit repeat year city surround frozen seek cruel wild relief scene";
+var mnemonic = "diagram indicate other fault goose panther board imitate tragic dance tape pair";

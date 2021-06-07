@@ -1,1 +1,1 @@
-var mnemonic = "order swamp decrease sentence loud marble between relax observe cheese empower fiction";
+var mnemonic = "mail gorilla great lake border icon question chaos ancient then burst spawn";

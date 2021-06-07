@@ -1,1 +1,1 @@
-var mnemonic = "marble obtain student thank caught mesh exact arrow mesh ordinary grab swim";
+var mnemonic = "alpha allow gain bring shield company hint noise gentle outdoor service soul";

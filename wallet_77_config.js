@@ -1,1 +1,1 @@
-var mnemonic = "butter crawl rich regular crane forward giggle afford mandate dry direct bachelor";
+var mnemonic = "advice hire flock crime wire pyramid bean certain together people antique trial";

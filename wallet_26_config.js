@@ -1,1 +1,1 @@
-var mnemonic = "possible worry welcome region dose symptom region burger ship orchard chicken cry";
+var mnemonic = "great follow thank ride promote detail ketchup prison repeat involve caution slogan";

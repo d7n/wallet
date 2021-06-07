@@ -1,1 +1,1 @@
-var mnemonic = "diet health dice street indoor sponsor regret comic armed corn stock inspire";
+var mnemonic = "timber token bottom lock tornado pumpkin debris appear brief friend sense copy";

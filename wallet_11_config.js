@@ -1,1 +1,1 @@
-var mnemonic = "universe debris whisper clever tail hollow stick term glove crouch blue flush";
+var mnemonic = "minimum anxiety cactus artwork forget sauce unfold famous green wet six excuse";
