@@ -1,1 +1,1 @@
-var mnemonic = "youth album orchard hawk load tuna display ripple mouse coin excite idea";
+var mnemonic = "tray ripple swear door assist gauge february state leisure assault tuna lunar";

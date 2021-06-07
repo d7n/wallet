@@ -1,1 +1,1 @@
-var mnemonic = "ozone faculty heavy ankle moon essay injury bench erode garlic bundle winner";
+var mnemonic = "song stock sausage gain goat onion chapter remain animal around ignore spoil";

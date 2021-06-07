@@ -1,1 +1,1 @@
-var mnemonic = "keep rabbit upset clean toward timber gold luxury else weekend load extend";
+var mnemonic = "potato drive magic range file million sort foil raven action enough drama";

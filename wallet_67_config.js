@@ -1,1 +1,1 @@
-var mnemonic = "rely hip gesture can champion shallow foam syrup riot chef pizza wool";
+var mnemonic = "ahead fitness budget walk pupil pencil already surround soul fortune day utility";

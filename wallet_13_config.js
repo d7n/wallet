@@ -1,1 +1,1 @@
-var mnemonic = "eager retire witness slice rocket range poem panic speak cushion sausage brother";
+var mnemonic = "lobster bullet consider accident donate owner rack express fitness home system reform";

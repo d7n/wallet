@@ -1,1 +1,1 @@
-var mnemonic = "weasel lizard state very speak lamp infant lottery between vast lesson outdoor";
+var mnemonic = "time upper angle spread term toddler mean setup mansion picnic story together";

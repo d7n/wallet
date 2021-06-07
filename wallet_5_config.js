@@ -1,1 +1,1 @@
-var mnemonic = "pistol merry name correct energy clarify hire theory image weather check cram";
+var mnemonic = "warm vacuum burst hero input clerk kite chase peace inside pulp banner";

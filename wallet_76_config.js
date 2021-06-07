@@ -1,1 +1,1 @@
-var mnemonic = "abandon corn summer much hospital someone develop gasp local join bridge quote";
+var mnemonic = "bundle calm mouse lake thank frozen model rug resemble deal century emotion";

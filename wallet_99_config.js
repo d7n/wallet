@@ -1,1 +1,1 @@
-var mnemonic = "indicate wagon inject quick grain volume resist cup label future glue hamster";
+var mnemonic = "repair exact monitor budget sun amount horror client race junk chaos satisfy";

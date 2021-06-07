@@ -1,1 +1,1 @@
-var mnemonic = "happy wait artefact torch tattoo grunt leader denial sponsor recipe detail use";
+var mnemonic = "yellow tornado question public final element consider shadow drift item culture viable";

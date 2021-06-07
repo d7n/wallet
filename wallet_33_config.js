@@ -1,1 +1,1 @@
-var mnemonic = "fury right increase noble certain young pulp bonus script toast venue point";
+var mnemonic = "spot letter payment excess couch pill enemy emotion tooth fire choose general";

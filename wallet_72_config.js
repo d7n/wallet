@@ -1,1 +1,1 @@
-var mnemonic = "enemy doctor peace similar demise search arrest race anchor tip tag round";
+var mnemonic = "hungry come element cargo paper match actress decade elbow act submit fall";

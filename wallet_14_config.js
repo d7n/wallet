@@ -1,1 +1,1 @@
-var mnemonic = "crater nose gift dumb supply rough denial lift among put custom fancy";
+var mnemonic = "catalog harvest gold cause elder scheme head canoe damp stem tool post";

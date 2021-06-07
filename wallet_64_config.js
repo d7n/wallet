@@ -1,1 +1,1 @@
-var mnemonic = "cause parrot fall annual toilet rigid special flee diary empower mercy unusual";
+var mnemonic = "wolf surge jazz father canyon nuclear enemy library urge fame surround wall";

@@ -1,1 +1,1 @@
-var mnemonic = "topple load wagon cash honey casual cave verify deer scrap cabin panda";
+var mnemonic = "trade glance column labor coyote evoke reject utility legal peace dinosaur festival";

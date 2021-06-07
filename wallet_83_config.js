@@ -1,1 +1,1 @@
-var mnemonic = "frozen dinner again one mystery initial quarter conduct color warrior abandon stamp";
+var mnemonic = "great demand lady gold wall obvious upset spatial viable route biology engine";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle quality fatal shop guitar joy nose front thunder parent boring peanut";
+var mnemonic = "shove thing window never column warrior vacuum inner push special bring ignore";

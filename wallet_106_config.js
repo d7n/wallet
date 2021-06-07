@@ -1,1 +1,1 @@
-var mnemonic = "govern cheese music earth nose bunker detect program domain loop bottom voyage";
+var mnemonic = "bike tube short defy aunt clip collect output clock section depart elephant";

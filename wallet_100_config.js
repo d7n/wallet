@@ -1,1 +1,1 @@
-var mnemonic = "device curious dinner punch slender improve unaware divide situate blouse confirm vintage";
+var mnemonic = "human tennis educate trophy rotate pull access clog share income stable estate";

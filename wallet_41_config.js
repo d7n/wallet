@@ -1,1 +1,1 @@
-var mnemonic = "net blanket ankle oak awake barely silver salt vintage eye wage tomorrow";
+var mnemonic = "subway throw swarm quote young bike bar trick olive bacon brief balance";

@@ -1,1 +1,1 @@
-var mnemonic = "enact recycle tool surprise army away casual scorpion hello jewel nasty milk";
+var mnemonic = "cook siren wedding subject figure torch choice fantasy minimum vacuum intact require";

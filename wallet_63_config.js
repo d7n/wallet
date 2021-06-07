@@ -1,1 +1,1 @@
-var mnemonic = "trust domain reduce cry observe unknown stick raccoon badge arm attack destroy";
+var mnemonic = "celery large parade lock explain normal fish horn disease broccoli magnet catalog";

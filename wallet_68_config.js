@@ -1,1 +1,1 @@
-var mnemonic = "game vast desk inherit frog other lecture fade dawn harbor ship turkey";
+var mnemonic = "horror donate knee sell manual stool taste wolf weather client electric mad";

@@ -1,1 +1,1 @@
-var mnemonic = "name gain tenant enlist spy chunk path joy clay video air chaos";
+var mnemonic = "settle mesh gate pioneer trip liar cruise seek wrong task thought judge";

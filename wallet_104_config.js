@@ -1,1 +1,1 @@
-var mnemonic = "pave slush master above sea glare guess suit exotic better search word";
+var mnemonic = "online snack clinic deal deposit letter addict fantasy pupil age wash economy";

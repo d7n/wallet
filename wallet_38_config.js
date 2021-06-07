@@ -1,1 +1,1 @@
-var mnemonic = "machine shoulder hollow cover view question pear jazz auction bubble correct employ";
+var mnemonic = "uphold solar mom merry private wild dizzy vague noodle soft allow job";

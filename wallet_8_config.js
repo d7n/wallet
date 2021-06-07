@@ -1,1 +1,1 @@
-var mnemonic = "release sugar disease analyst squirrel tired garbage struggle expose retreat pause pool";
+var mnemonic = "motion obtain alcohol tilt like enlist crystal pledge silent mercy tomato champion";

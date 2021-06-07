@@ -1,1 +1,1 @@
-var mnemonic = "weird waste father month goat pizza crucial own day absorb buyer jeans";
+var mnemonic = "napkin fork obscure hold neither labor action hover shove code tuna avocado";

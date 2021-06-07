@@ -1,1 +1,1 @@
-var mnemonic = "setup happy elder chest rice decide royal child amateur detect chaos have";
+var mnemonic = "crop choice afraid web unaware spawn level shrug three grow toe robust";

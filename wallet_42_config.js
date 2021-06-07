@@ -1,1 +1,1 @@
-var mnemonic = "flip fuel midnight insane sniff aware vibrant crunch blame barrel remove into";
+var mnemonic = "goat keep salute mammal race weekend height crash congress decrease garage autumn";

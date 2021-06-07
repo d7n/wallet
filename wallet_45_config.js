@@ -1,1 +1,1 @@
-var mnemonic = "summer exile meadow acid reward learn alone glow original panda federal sell";
+var mnemonic = "physical inner planet grief evoke taste review agree sing ability company crime";

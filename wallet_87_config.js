@@ -1,1 +1,1 @@
-var mnemonic = "because local loan transfer decade cliff employ eight walk fish verb soft";
+var mnemonic = "day radar artist harvest practice nothing fetch lesson pudding open task cinnamon";

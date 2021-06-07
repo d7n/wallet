@@ -1,1 +1,1 @@
-var mnemonic = "earn lumber basket object render price sister tenant popular gate notice offer";
+var mnemonic = "mail clump remember exhibit cycle keep ecology side time material mosquito balance";

@@ -1,1 +1,1 @@
-var mnemonic = "before device rocket cigar easy horror kangaroo depart crucial carry verb quiz";
+var mnemonic = "mixed double dutch cage theory churn note liberty era alcohol heavy use";

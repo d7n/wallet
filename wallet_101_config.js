@@ -1,1 +1,1 @@
-var mnemonic = "eternal burden heart anchor slow whale panic seven eyebrow churn venue ice";
+var mnemonic = "limb rose twenty deposit among topple stay trick possible practice swamp creek";

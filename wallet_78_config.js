@@ -1,1 +1,1 @@
-var mnemonic = "kite follow blouse deer suspect soup clap wife bubble sight tree chunk";
+var mnemonic = "lawn timber program math uniform olive security violin junk moon inflict trust";

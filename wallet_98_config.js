@@ -1,1 +1,1 @@
-var mnemonic = "fresh next ridge assault knife actual drop moral ostrich speak detail live";
+var mnemonic = "base comic sausage warm vintage brass profit between odor feel bench myself";

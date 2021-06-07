@@ -1,1 +1,1 @@
-var mnemonic = "soap lend slight scrap entire trick walnut require pulp copper dragon cruel";
+var mnemonic = "pink grass end bubble people piece maximum drive behave antique quick side";

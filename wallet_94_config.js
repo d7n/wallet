@@ -1,1 +1,1 @@
-var mnemonic = "idle alcohol police march sock before either route tribe coach old fox";
+var mnemonic = "food grid upgrade still under garbage art give observe wreck truth any";

@@ -1,1 +1,1 @@
-var mnemonic = "weather juice knee future police early spell mystery manual rail diagram garlic";
+var mnemonic = "slim cream dismiss ripple special butter trial mouse insect police mobile student";

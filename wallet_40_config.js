@@ -1,1 +1,1 @@
-var mnemonic = "word tattoo month trick focus sight vintage average insect heart onion tennis";
+var mnemonic = "sure explain type leader soldier distance board congress vehicle sign phone hotel";

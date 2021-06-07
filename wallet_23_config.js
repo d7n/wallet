@@ -1,1 +1,1 @@
-var mnemonic = "cloth skill seed silly order provide torch genre hard suggest dust gold";
+var mnemonic = "abuse piano cousin sail road frame bottom digital shiver common print host";

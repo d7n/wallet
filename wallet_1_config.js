@@ -1,1 +1,1 @@
-var mnemonic = "small mutual ladder brick rival between wreck fly collect void human minor";
+var mnemonic = "ranch impact surround wet deposit reopen rival gift attitude tennis mass daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel height glass million tilt enjoy can purity length deputy subway day";
+var mnemonic = "brand close truck major wife phone claw birth eternal scrub grant estate";

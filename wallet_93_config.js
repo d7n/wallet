@@ -1,1 +1,1 @@
-var mnemonic = "crane garbage gain beauty solar scissors urge affair original wink secret involve";
+var mnemonic = "ethics air prosper twin poverty loan proof city velvet true lift feel";

@@ -1,1 +1,1 @@
-var mnemonic = "concert very hair earth fantasy try tackle future tortoise wealth mountain horn";
+var mnemonic = "call ship family observe vintage attack grocery tribe child result lobster oyster";

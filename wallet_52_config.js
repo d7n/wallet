@@ -1,1 +1,1 @@
-var mnemonic = "merge maze crash employ world anger doll husband need toward mushroom guide";
+var mnemonic = "canvas peace web foam view tribe swing lumber injury derive describe seed";

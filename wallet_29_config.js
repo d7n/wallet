@@ -1,1 +1,1 @@
-var mnemonic = "manual abstract tattoo surface torch venture bulk lunch similar imitate wage garlic";
+var mnemonic = "uncle senior sleep measure salmon radar episode wet tiger chase slush cup";

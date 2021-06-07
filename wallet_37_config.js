@@ -1,1 +1,1 @@
-var mnemonic = "rotate use priority hamster there glad cousin cross ill alert imitate decrease";
+var mnemonic = "picnic excess subject crater host identify gown another easily client episode sentence";

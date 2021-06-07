@@ -1,1 +1,1 @@
-var mnemonic = "hollow daring future ice soft hamster jump milk blade ask knock divorce";
+var mnemonic = "jelly purse drift garbage rain type mixed soon kiss bid foster young";

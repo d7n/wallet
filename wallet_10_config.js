@@ -1,1 +1,1 @@
-var mnemonic = "seed flash urge fine obscure breeze another portion wide amused doctor noise";
+var mnemonic = "version brain push once twelve humor west blind tackle liquid fame welcome";

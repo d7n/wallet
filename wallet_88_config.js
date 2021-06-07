@@ -1,1 +1,1 @@
-var mnemonic = "pistol rifle bag trap taxi menu swear yellow carpet arm jump vague";
+var mnemonic = "weather divert economy outside bike thank gossip suit ceiling width physical voyage";

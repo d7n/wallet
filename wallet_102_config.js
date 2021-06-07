@@ -1,1 +1,1 @@
-var mnemonic = "voice evil quit cotton powder giggle tornado charge raccoon purpose enable place";
+var mnemonic = "file festival thought paddle uncover fiction panic crisp rally pond logic silk";

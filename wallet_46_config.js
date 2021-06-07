@@ -1,1 +1,1 @@
-var mnemonic = "life priority bitter scrap tobacco eagle unknown fault father loud owner tornado";
+var mnemonic = "borrow vendor kitten retreat spend pond shrug draw news interest slush dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "expect figure coral flame hedgehog initial token club grant ostrich memory typical";
+var mnemonic = "unusual inhale area olive wall hold turkey isolate jump noodle honey come";

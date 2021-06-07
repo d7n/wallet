@@ -1,1 +1,1 @@
-var mnemonic = "action calm nurse target spoil same purse fragile bachelor bright just cruel";
+var mnemonic = "inmate indicate desert lounge cause input broccoli defy amused settle width nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "cross orient pig fantasy false thumb example ghost dumb year shift rotate";
+var mnemonic = "innocent catch bone quit blue rich talk advance smoke advice affair office";

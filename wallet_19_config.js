@@ -1,1 +1,1 @@
-var mnemonic = "husband cram near hungry maximum basket slogan noise among mansion wife hello";
+var mnemonic = "pet poverty dignity orient enjoy bird plunge switch parade horn expand normal";

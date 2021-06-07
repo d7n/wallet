@@ -1,1 +1,1 @@
-var mnemonic = "wall claw detect trip two cart employ lunch bamboo replace voyage impose";
+var mnemonic = "mushroom nothing merge grape current square stumble alien debate ecology pencil wheat";

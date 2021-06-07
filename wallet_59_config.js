@@ -1,1 +1,1 @@
-var mnemonic = "eternal bus voyage bridge avocado apology guard assist purpose chat enrich sibling";
+var mnemonic = "aunt snap second tenant zone burst slender swear boss size chuckle stereo";

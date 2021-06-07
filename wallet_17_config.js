@@ -1,1 +1,1 @@
-var mnemonic = "tilt crunch prefer bus final absurd cute winter endless also tone cake";
+var mnemonic = "orchard claw riot where century okay raise jeans spy shoulder fall medal";

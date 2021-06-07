@@ -1,1 +1,1 @@
-var mnemonic = "mansion book guilt finish miracle once identify volume idle index more invite";
+var mnemonic = "actual bonus twin ask faith secret media wage novel spirit device glimpse";

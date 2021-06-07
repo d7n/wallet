@@ -1,1 +1,1 @@
-var mnemonic = "empower illness soda wait orphan great blame put matter silver object curve";
+var mnemonic = "sell cancel brand lounge creek bullet emotion nation base venture can eagle";

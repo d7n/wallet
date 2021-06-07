@@ -1,1 +1,1 @@
-var mnemonic = "elevator gap apology marriage tilt dish choose father ladder mandate toddler shoe";
+var mnemonic = "fresh water ride pitch road lion valley welcome snack club rookie cushion";

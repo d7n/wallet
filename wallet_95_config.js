@@ -1,1 +1,1 @@
-var mnemonic = "oxygen poet fee host fuel pipe uncle leopard eight script rubber ivory";
+var mnemonic = "version large castle hundred color focus main make universe myself divide leisure";

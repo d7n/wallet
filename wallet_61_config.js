@@ -1,1 +1,1 @@
-var mnemonic = "awful depart upgrade measure venue usage tiger gesture useful define enter merit";
+var mnemonic = "about outdoor cruise use obvious script orbit tape horse connect offer husband";

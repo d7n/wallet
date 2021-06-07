@@ -1,1 +1,1 @@
-var mnemonic = "road key spike grain become device staff used magic notable pill enable";
+var mnemonic = "myself live remind rice foam bind bleak furnace fault turn creek blanket";

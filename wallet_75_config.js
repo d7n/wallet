@@ -1,1 +1,1 @@
-var mnemonic = "popular cart dry future sing axis bring message movie depart yard horror";
+var mnemonic = "fly slide engage announce tag kitchen negative tomato decade tent blame word";

@@ -1,1 +1,1 @@
-var mnemonic = "winner tragic lawsuit remember earth unfair vague butter cycle pelican midnight monkey";
+var mnemonic = "sell humor custom fan tower garage budget tiger virus fall uncover index";

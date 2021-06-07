@@ -1,1 +1,1 @@
-var mnemonic = "alone jungle chest over turn advance foot vague siren divide convince camp";
+var mnemonic = "similar category chief federal square flower clap sight lake flat arrive pole";

@@ -1,1 +1,1 @@
-var mnemonic = "void entire avocado rebuild truth cactus foil ceiling upset penalty deputy physical";
+var mnemonic = "cliff escape autumn update panda pencil always task scatter layer valid fatal";

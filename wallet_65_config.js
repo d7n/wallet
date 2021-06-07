@@ -1,1 +1,1 @@
-var mnemonic = "assist shell wish debris equip exhibit rescue word vault evolve move promote";
+var mnemonic = "owner alcohol minute edge puzzle shield orphan wash actor fatigue alert riot";

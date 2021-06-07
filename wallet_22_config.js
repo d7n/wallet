@@ -1,1 +1,1 @@
-var mnemonic = "old cost you erase sausage emerge dynamic supply hill appear fantasy clock";
+var mnemonic = "oven like useful useful sleep piano avocado border three street maple canyon";

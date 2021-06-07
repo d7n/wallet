@@ -1,1 +1,1 @@
-var mnemonic = "inquiry urban shell vanish lottery coffee unique please west village neither scare";
+var mnemonic = "liar dance copper inhale student favorite task lab comic miss say leaf";

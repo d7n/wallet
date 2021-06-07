@@ -1,1 +1,1 @@
-var mnemonic = "wide album resemble sick insect approve wine provide coconut staff team globe";
+var mnemonic = "oyster rookie share fit grunt mind armor oxygen sorry section sauce honey";

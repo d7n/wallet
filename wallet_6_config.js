@@ -1,1 +1,1 @@
-var mnemonic = "crime also work buzz pipe brand crane cube element figure web slogan";
+var mnemonic = "exclude during fade oppose follow battle present quiz lazy enroll card accident";

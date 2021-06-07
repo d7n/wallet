@@ -1,1 +1,1 @@
-var mnemonic = "trouble physical stem maze staff unveil feel include benefit execute bicycle caution";
+var mnemonic = "cement only subway egg inspire stairs inherit caught hold pen cargo polar";

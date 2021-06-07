@@ -1,1 +1,1 @@
-var mnemonic = "slush this affair word vendor shove helmet wish regret artist toast display";
+var mnemonic = "cruel someone sense victory neglect find ribbon upon canoe toddler hat question";

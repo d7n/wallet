@@ -1,1 +1,1 @@
-var mnemonic = "near gold uncle apart charge photo number cup pipe tag view census";
+var mnemonic = "disease carpet supreme junior maple cook holiday memory sadness front reduce fancy";

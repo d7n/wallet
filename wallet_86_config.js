@@ -1,1 +1,1 @@
-var mnemonic = "grab acid that fluid stamp craft october physical fade surprise discover parade";
+var mnemonic = "bind frozen illness ship way unhappy milk smart south exhaust captain vital";

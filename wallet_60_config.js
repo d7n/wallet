@@ -1,1 +1,1 @@
-var mnemonic = "library make beyond bottom little arm fragile vacuum law ensure unfair arrow";
+var mnemonic = "little manage they private nut goddess shock element boil barrel calm cram";

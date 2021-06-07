@@ -1,1 +1,1 @@
-var mnemonic = "price negative eight announce budget guide hunt any palace sun thank legend";
+var mnemonic = "first note army borrow manage shove hazard point clerk iron connect cushion";

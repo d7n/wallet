@@ -1,1 +1,1 @@
-var mnemonic = "gloom below calm tomorrow treat minor maximum color firm decline dust urge";
+var mnemonic = "cotton toilet void charge tip defy female public post wage ask awake";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate board skirt base jewel enroll fetch latin nature like shallow park";
+var mnemonic = "host proof nice shaft version upper retreat funny member armor wage detect";

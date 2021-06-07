@@ -1,1 +1,1 @@
-var mnemonic = "midnight kite strategy humor unique strike security cliff creek tower field royal";
+var mnemonic = "obey excuse orbit roast coil time dentist panel wrist wheat alien spider";

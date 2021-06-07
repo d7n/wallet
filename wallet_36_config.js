@@ -1,1 +1,1 @@
-var mnemonic = "pluck comic stand goat lizard reveal gentle since catalog custom excite rail";
+var mnemonic = "squeeze bulb day dry teach render all pill behave neutral canvas project";

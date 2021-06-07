@@ -1,1 +1,1 @@
-var mnemonic = "impact era order inject camera truth connect ankle boy canal armed health";
+var mnemonic = "acid push enroll mountain city virus donor afford have fish blame tone";

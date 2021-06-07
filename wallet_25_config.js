@@ -1,1 +1,1 @@
-var mnemonic = "cart similar fruit car first often achieve lemon lab hockey license host";
+var mnemonic = "hotel shuffle brown then bright alarm juice truth maid ribbon replace weasel";
