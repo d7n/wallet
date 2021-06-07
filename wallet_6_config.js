@@ -1,1 +1,1 @@
-var mnemonic = "false door walnut despair tilt judge attend oval segment park census advice";
+var mnemonic = "cloth normal pet orchard bleak prison oppose robust dish heart laptop student";

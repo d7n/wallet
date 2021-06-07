@@ -1,1 +1,1 @@
-var mnemonic = "elder feature food cake number pitch what judge prosper pen calm sword";
+var mnemonic = "crowd search misery number twelve soccer clerk forget income model zoo thrive";

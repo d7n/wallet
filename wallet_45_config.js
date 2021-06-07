@@ -1,1 +1,1 @@
-var mnemonic = "ladder educate arrest combine sniff error soccer awake sun sword mutual casual";
+var mnemonic = "body knock confirm wash journey clock detail hello feed invite repair wing";

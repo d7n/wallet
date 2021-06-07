@@ -1,1 +1,1 @@
-var mnemonic = "invest mercy february bullet shell ignore defy gate peasant piano blast shed";
+var mnemonic = "innocent crisp nut tumble multiply piece service predict space afford fiscal ankle";

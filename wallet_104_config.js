@@ -1,1 +1,1 @@
-var mnemonic = "before fury fog bring twin salad gap price tree pond close month";
+var mnemonic = "fame color soon just gloom clever cube afford pulse furnace drip such";

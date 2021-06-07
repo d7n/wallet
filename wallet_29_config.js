@@ -1,1 +1,1 @@
-var mnemonic = "artefact royal nest vacuum decide agent envelope trust fresh maid never fuel";
+var mnemonic = "swing shed law century fold silly improve crumble robust afraid solid inquiry";

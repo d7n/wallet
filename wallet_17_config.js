@@ -1,1 +1,1 @@
-var mnemonic = "talk fly also project fitness belt hospital cliff clap peasant staff chief";
+var mnemonic = "often swear occur reason injury maple minor rain boat floor apple tell";

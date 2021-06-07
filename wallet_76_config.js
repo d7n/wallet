@@ -1,1 +1,1 @@
-var mnemonic = "uncle inquiry oppose today amount insect sudden shop patient ensure razor chef";
+var mnemonic = "feature chest naive rebel wave surround spike security have predict above pair";

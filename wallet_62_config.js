@@ -1,1 +1,1 @@
-var mnemonic = "leaf sniff violin crumble rule rabbit base marble floor announce brand office";
+var mnemonic = "sunset violin age pepper search lounge hybrid mesh danger uncle cute retire";

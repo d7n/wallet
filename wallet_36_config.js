@@ -1,1 +1,1 @@
-var mnemonic = "genre use measure oak future merit chair filter cigar chimney volume secret";
+var mnemonic = "raw twin human raw waste olympic faculty divorce accident benefit insane usual";

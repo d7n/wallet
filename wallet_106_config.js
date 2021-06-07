@@ -1,1 +1,1 @@
-var mnemonic = "tumble glory loud uphold demand trip path sand virtual rare tumble search";
+var mnemonic = "utility clown science pet erupt skate core inspire rely track rather relief";

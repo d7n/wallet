@@ -1,1 +1,1 @@
-var mnemonic = "blind acid crush term student hood damage dose grass scrap cactus sand";
+var mnemonic = "empty quantum salon divide into legend veteran uphold find notable metal rubber";

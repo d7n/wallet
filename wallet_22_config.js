@@ -1,1 +1,1 @@
-var mnemonic = "sheriff dose wire two village regular summer gym jump bottom burden scheme";
+var mnemonic = "save dawn domain come flag source lyrics scout mosquito venue drastic very";

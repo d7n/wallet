@@ -1,1 +1,1 @@
-var mnemonic = "course tomorrow shrug iron swap cage train nasty vast erase sea proud";
+var mnemonic = "surface rebel fee lamp level ladder large scout city verify dismiss glue";

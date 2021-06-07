@@ -1,1 +1,1 @@
-var mnemonic = "scrap busy derive winner address edit venue arrest left party delay punch";
+var mnemonic = "rotate pencil arch beauty carpet parent spoon laptop neck welcome catch orphan";

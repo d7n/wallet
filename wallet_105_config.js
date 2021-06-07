@@ -1,1 +1,1 @@
-var mnemonic = "surge toward reunion local arrest immense private battle puppy derive egg churn";
+var mnemonic = "gospel exchange report chair forget quick title unit brief enlist photo express";

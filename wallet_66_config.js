@@ -1,1 +1,1 @@
-var mnemonic = "session fabric awesome pave bracket eye pelican gun little roof chat clarify";
+var mnemonic = "evil choose fan used marine adjust venue original moon vessel ring stand";

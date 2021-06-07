@@ -1,1 +1,1 @@
-var mnemonic = "discover ill lazy kiss any into recipe raw grunt already either delay";
+var mnemonic = "very example flower result gap survey blast brisk farm judge lottery twelve";

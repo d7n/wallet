@@ -1,1 +1,1 @@
-var mnemonic = "mix actor inform rotate employ better route cheese home awful accident shuffle";
+var mnemonic = "there fox miracle tank robust dumb away town option gold kite decrease";

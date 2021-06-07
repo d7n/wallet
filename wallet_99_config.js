@@ -1,1 +1,1 @@
-var mnemonic = "razor chat random crouch snack coach armed drive empty slot tip ugly";
+var mnemonic = "camp wash master water tragic life soap wool clean sand wet cattle";

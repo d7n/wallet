@@ -1,1 +1,1 @@
-var mnemonic = "siren planet wide later leisure rail peanut skull lawsuit canvas swarm member";
+var mnemonic = "dignity wave beyond struggle fence post hundred exhibit wet sleep list giraffe";

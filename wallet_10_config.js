@@ -1,1 +1,1 @@
-var mnemonic = "bomb town pond pledge tag bleak demand wool rocket blind detail know";
+var mnemonic = "end spoon brown space token flip crowd uniform combine loop mushroom diamond";

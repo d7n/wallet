@@ -1,1 +1,1 @@
-var mnemonic = "meadow argue fluid elevator island alcohol adapt cube erase hurdle select surround";
+var mnemonic = "lemon game mutual punch skill girl fringe bargain knock negative food such";

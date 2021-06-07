@@ -1,1 +1,1 @@
-var mnemonic = "stumble intact upgrade among sun boat buzz cost noodle bar club clarify";
+var mnemonic = "shift stable exclude fiction velvet actress mountain find smart debris patient angry";

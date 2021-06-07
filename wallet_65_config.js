@@ -1,1 +1,1 @@
-var mnemonic = "toddler head toilet wife glad fly volume echo dawn hobby royal brave";
+var mnemonic = "hurt excuse all meadow devote apart year visa final jealous deliver blanket";

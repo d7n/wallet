@@ -1,1 +1,1 @@
-var mnemonic = "buzz health survey tonight trust trend olympic boil drip agree average wall";
+var mnemonic = "crucial lift picture twelve mistake cigar assist exhibit broccoli rapid rich robust";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry hungry soon ten sort shove slush inside struggle fire theory satisfy";
+var mnemonic = "slab three pitch casino obey minimum empower movie pig cherry motion lounge";

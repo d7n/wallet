@@ -1,1 +1,1 @@
-var mnemonic = "equal private spell brain gas sun swamp ready follow glue move worry";
+var mnemonic = "check fault oxygen indoor home vague dignity such view mushroom jazz pass";

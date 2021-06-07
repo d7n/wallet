@@ -1,1 +1,1 @@
-var mnemonic = "palm select fence toward globe welcome leisure main potato aware panel chicken";
+var mnemonic = "current suffer angry forget spoil announce swamp tent seven abandon nation stay";

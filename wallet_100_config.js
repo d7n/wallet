@@ -1,1 +1,1 @@
-var mnemonic = "oblige circle denial hard inquiry blouse six praise give flush champion almost";
+var mnemonic = "charge habit curious phrase outdoor write before dawn soup depth net claim";

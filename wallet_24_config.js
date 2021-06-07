@@ -1,1 +1,1 @@
-var mnemonic = "income dust force bench cry crunch snow food tackle rule session motor";
+var mnemonic = "dismiss blush limit nice sugar rude inch sign fantasy tribe recycle target";

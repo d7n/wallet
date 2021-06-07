@@ -1,1 +1,1 @@
-var mnemonic = "put vapor pony wife verify calm over glare beef liberty mesh egg";
+var mnemonic = "easily hint tank mirror jealous category way usual course retreat whale ten";

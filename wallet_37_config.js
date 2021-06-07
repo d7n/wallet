@@ -1,1 +1,1 @@
-var mnemonic = "scale memory promote despair twist globe drama muffin between trip fetch spray";
+var mnemonic = "item shuffle liquid grass awake try name fatal require tonight quantum leopard";

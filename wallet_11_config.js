@@ -1,1 +1,1 @@
-var mnemonic = "narrow skate horn health warfare bounce fluid key icon spray dinosaur wool";
+var mnemonic = "forward viable destroy type photo raven pen heart produce cinnamon develop success";

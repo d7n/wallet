@@ -1,1 +1,1 @@
-var mnemonic = "yard palm giggle brisk desk appear note blanket object chalk ladder brown";
+var mnemonic = "matrix census iron pear elevator multiply trip idea autumn this erode biology";

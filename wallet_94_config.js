@@ -1,1 +1,1 @@
-var mnemonic = "ozone coral harbor hair render innocent choose more breeze staff yellow review";
+var mnemonic = "double fault dirt penalty jazz engage kit tip infant pizza identify tortoise";

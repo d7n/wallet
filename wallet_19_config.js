@@ -1,1 +1,1 @@
-var mnemonic = "amazing crisp surge merry memory bulb web require rigid student kitten skirt";
+var mnemonic = "river discover scale clown horror place divide media gaze color monster agent";

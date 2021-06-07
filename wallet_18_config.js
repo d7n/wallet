@@ -1,1 +1,1 @@
-var mnemonic = "repeat rack gate recall retire grunt victory rebuild mosquito wish hat alien";
+var mnemonic = "bargain bean picnic rhythm fringe leisure pilot essay guitar turtle arrange panther";

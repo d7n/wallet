@@ -1,1 +1,1 @@
-var mnemonic = "fringe convince glove drill pistol banner script clock wine verify catch mass";
+var mnemonic = "like velvet body civil stairs lawn candy enhance exhibit traffic dial tube";

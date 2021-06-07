@@ -1,1 +1,1 @@
-var mnemonic = "vacant provide venture nothing fiber inherit vibrant urge spawn face lunch sunset";
+var mnemonic = "leg clever bargain play possible genuine flavor imitate front canoe milk space";

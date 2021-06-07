@@ -1,1 +1,1 @@
-var mnemonic = "buddy shine maximum sheriff chase popular dog tell oxygen enroll inquiry middle";
+var mnemonic = "erase evil seed again game lottery tip desk uncover okay small tortoise";

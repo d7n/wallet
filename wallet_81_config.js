@@ -1,1 +1,1 @@
-var mnemonic = "recycle mesh rule noble magic over shoulder floor opinion athlete silk fine";
+var mnemonic = "lecture member tower city enhance filter input december gentle goat kangaroo educate";

@@ -1,1 +1,1 @@
-var mnemonic = "pond surround toilet syrup feature mask distance dose trouble merry shed combine";
+var mnemonic = "undo juice chronic auction kitten february youth gloom head account buyer crucial";

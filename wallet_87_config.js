@@ -1,1 +1,1 @@
-var mnemonic = "bus radio wrestle rebuild stereo shield split attend blush light mechanic dutch";
+var mnemonic = "wedding pull mom illness border model before program include fossil dizzy lecture";

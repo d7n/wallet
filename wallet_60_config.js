@@ -1,1 +1,1 @@
-var mnemonic = "stove total board stereo nest solve stomach update segment you iron ahead";
+var mnemonic = "peanut velvet gather fortune title again busy quarter volume more solution empower";

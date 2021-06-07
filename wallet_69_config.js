@@ -1,1 +1,1 @@
-var mnemonic = "embrace material cube push box veteran harvest glove chase sand gossip bind";
+var mnemonic = "aspect banner decide alter valve concert bar simple anxiety label judge input";

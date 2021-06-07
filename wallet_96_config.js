@@ -1,1 +1,1 @@
-var mnemonic = "fan fury gap chunk melody celery print puppy coyote account penalty also";
+var mnemonic = "flip cargo drop solve toss taxi brave crater later breeze weekend senior";

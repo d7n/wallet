@@ -1,1 +1,1 @@
-var mnemonic = "nurse pizza toward industry virus female depth garbage gun wide kick nephew";
+var mnemonic = "coast clay vacant collect wood alley outdoor link throw shove squeeze jewel";

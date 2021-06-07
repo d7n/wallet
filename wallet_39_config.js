@@ -1,1 +1,1 @@
-var mnemonic = "coconut cloth cat exercise achieve unable small glimpse roof alley divert engage";
+var mnemonic = "mouse fruit silver all name deputy scout member old ahead fantasy just";

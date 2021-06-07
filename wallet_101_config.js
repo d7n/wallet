@@ -1,1 +1,1 @@
-var mnemonic = "vessel appear rebuild theory cattle emotion churn grid kind century dial ramp";
+var mnemonic = "approve universe glare produce witness curve city cruel group jewel raw rural";

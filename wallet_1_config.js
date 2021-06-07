@@ -1,1 +1,1 @@
-var mnemonic = "gadget unusual penalty fork kind sport outside age pencil open zebra slush";
+var mnemonic = "bread depart bar beef globe weird test garment injury acoustic soon notice";

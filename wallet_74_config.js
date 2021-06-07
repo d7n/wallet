@@ -1,1 +1,1 @@
-var mnemonic = "engage maple hurdle later entry lemon curve shrug express stem hope remind";
+var mnemonic = "cheap level demand win deposit service torch puppy fever mushroom shoe moral";

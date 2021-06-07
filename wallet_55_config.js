@@ -1,1 +1,1 @@
-var mnemonic = "lens swim language canvas ranch skirt stay age mirror clerk camera blur";
+var mnemonic = "curious mushroom panda rather bounce differ sock six candy language keen desert";

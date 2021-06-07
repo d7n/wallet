@@ -1,1 +1,1 @@
-var mnemonic = "digital wheel tissue parent type reflect flat hen drive barely march reduce";
+var mnemonic = "key beauty lab custom whisper feed economy garbage health ridge suffer bomb";

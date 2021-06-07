@@ -1,1 +1,1 @@
-var mnemonic = "roast timber pitch view cattle option purchase crisp symbol trip surge february";
+var mnemonic = "antenna poet pair lyrics document person innocent dumb rotate trim shove ready";

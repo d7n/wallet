@@ -1,1 +1,1 @@
-var mnemonic = "quiz cactus puppy fog mushroom skirt finish expand buzz boost rain eight";
+var mnemonic = "myth present noise stool essence blur energy endless infant caught clog habit";

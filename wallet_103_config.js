@@ -1,1 +1,1 @@
-var mnemonic = "gaze decline sample fold certain wash debate discover valley neck vocal photo";
+var mnemonic = "hungry interest dolphin tilt north pluck dolphin prepare chuckle balcony case tell";

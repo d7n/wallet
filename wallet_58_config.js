@@ -1,1 +1,1 @@
-var mnemonic = "model rifle romance suspect mom point maze left resist hidden exchange depth";
+var mnemonic = "honey erase hat cement believe exhaust sort attend suggest live patrol person";

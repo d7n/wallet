@@ -1,1 +1,1 @@
-var mnemonic = "innocent caught they tray club reopen equal chef gate cart lion orbit";
+var mnemonic = "enter beach treat athlete snack duck any claim orchard marine budget offer";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet bridge case two elephant exit enough hotel minor vacuum scene soul";
+var mnemonic = "cigar clown blood stairs shock horse decorate old elder inquiry exist rifle";

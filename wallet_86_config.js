@@ -1,1 +1,1 @@
-var mnemonic = "wet ozone clog obscure tissue goose material actual suspect smart gym junk";
+var mnemonic = "hammer mystery promote focus caution into vibrant boring relief tennis thought scare";

@@ -1,1 +1,1 @@
-var mnemonic = "layer sheriff deposit mule toy because plastic bonus bulb fiction catalog digital";
+var mnemonic = "dynamic permit account rigid salmon shell human catalog above smart identify crawl";

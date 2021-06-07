@@ -1,1 +1,1 @@
-var mnemonic = "trumpet jungle liberty boat laundry that huge pencil return fly wisdom unable";
+var mnemonic = "chalk online west diesel alcohol logic pepper acoustic alarm pupil occur rich";

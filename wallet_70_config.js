@@ -1,1 +1,1 @@
-var mnemonic = "gold side ripple pistol stadium capable exile funny exercise similar pumpkin evolve";
+var mnemonic = "copy chalk country until sport ability kitchen shaft doctor survey kiss major";

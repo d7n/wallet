@@ -1,1 +1,1 @@
-var mnemonic = "grief pretty popular you rate round flee crisp pistol actual much idea";
+var mnemonic = "salon dolphin over absent giant business frown identify flock hotel group chapter";

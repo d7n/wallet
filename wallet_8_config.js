@@ -1,1 +1,1 @@
-var mnemonic = "aspect omit nest ribbon version good flat obvious coral decrease prepare cry";
+var mnemonic = "indicate run occur leave dad people that moment once anchor patrol lobster";

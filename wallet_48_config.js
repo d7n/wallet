@@ -1,1 +1,1 @@
-var mnemonic = "capital kangaroo paddle expand summer system garden humor dilemma destroy peace sense";
+var mnemonic = "cereal frown fiber differ olive family raw nothing mobile net oxygen search";

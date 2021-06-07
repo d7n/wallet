@@ -1,1 +1,1 @@
-var mnemonic = "wide occur mask sword oil travel script suspect meat welcome club spirit";
+var mnemonic = "uncle silk theme arena panic wrong gospel kiss wheel begin convince that";

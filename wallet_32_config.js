@@ -1,1 +1,1 @@
-var mnemonic = "grain gossip fix nothing drift system ten winner hold stable stuff island";
+var mnemonic = "diesel pond relax stable next lend police into rough wait degree valley";

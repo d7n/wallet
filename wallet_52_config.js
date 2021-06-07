@@ -1,1 +1,1 @@
-var mnemonic = "web theory main wave reward situate galaxy blue brush news wife rocket";
+var mnemonic = "ride pass actress salad decorate rib gravity report blouse fossil pole hole";

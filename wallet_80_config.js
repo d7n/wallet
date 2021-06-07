@@ -1,1 +1,1 @@
-var mnemonic = "short divide embark kick hope carbon two slab gold cabin occur business";
+var mnemonic = "prepare duck random region teach crystal guard year coach chuckle copper tonight";

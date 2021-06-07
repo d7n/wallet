@@ -1,1 +1,1 @@
-var mnemonic = "address snack hurdle catalog first crime believe ride answer monkey clutch stone";
+var mnemonic = "distance door damp best poet result garage middle resemble grant isolate stumble";

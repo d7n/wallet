@@ -1,1 +1,1 @@
-var mnemonic = "element analyst student few forest canal devote faith web battle time choose";
+var mnemonic = "foil enlist today mango rail grief space noodle original crowd degree nest";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict animal harsh update gasp about swallow vanish rare blue news glide";
+var mnemonic = "grit peanut stem expose then what express volcano gospel gift assault nut";

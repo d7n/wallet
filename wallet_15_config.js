@@ -1,1 +1,1 @@
-var mnemonic = "staff mistake road loyal push base slide wear gorilla menu network inquiry";
+var mnemonic = "tuna brave tomato spike quality problem dust forward useful urge stomach wolf";

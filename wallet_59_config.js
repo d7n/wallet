@@ -1,1 +1,1 @@
-var mnemonic = "suspect option raw spell drill impulse medal blue adjust combine balance acid";
+var mnemonic = "snap civil topic face swift final mango dish cost parrot pen punch";

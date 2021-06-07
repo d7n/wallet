@@ -1,1 +1,1 @@
-var mnemonic = "deal wild fat ritual mom usage pledge clean slight hill begin swap";
+var mnemonic = "grit term icon tuition ghost wrap rally angry prize rhythm world town";

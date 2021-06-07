@@ -1,1 +1,1 @@
-var mnemonic = "floor super evoke gift boost move off join repeat pride electric body";
+var mnemonic = "steak end prize luxury dinosaur since farm rice energy tail notable topic";

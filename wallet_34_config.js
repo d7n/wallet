@@ -1,1 +1,1 @@
-var mnemonic = "action urban artwork sea expect vacuum timber diesel casual flush stick anxiety";
+var mnemonic = "salon ordinary atom avoid inch wedding hub unhappy grant virus couch present";

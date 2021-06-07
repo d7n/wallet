@@ -1,1 +1,1 @@
-var mnemonic = "nominee robot rude novel amount admit shop video oblige field code deputy";
+var mnemonic = "hope piece pulp wife increase bring employ young dust perfect equip hawk";

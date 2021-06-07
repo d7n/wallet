@@ -1,1 +1,1 @@
-var mnemonic = "atom attend private survey hover erode drastic keen drive senior skull lady";
+var mnemonic = "thought true theory bench poet either ritual venture include table good pioneer";

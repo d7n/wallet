@@ -1,1 +1,1 @@
-var mnemonic = "federal hat believe worry shy virus bronze broom charge aware blue fabric";
+var mnemonic = "coffee toilet able decide shoulder security meadow total unusual image increase electric";

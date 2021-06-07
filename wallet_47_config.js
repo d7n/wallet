@@ -1,1 +1,1 @@
-var mnemonic = "casino jewel what august farm wish that attend order jeans develop chair";
+var mnemonic = "easy sail whisper buffalo elbow nature gravity general tourist hungry square ask";

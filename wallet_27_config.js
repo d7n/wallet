@@ -1,1 +1,1 @@
-var mnemonic = "fragile famous kit cancel payment amazing tortoise fault escape flee tourist siren";
+var mnemonic = "endorse blind atom pattern super title clever basic manual galaxy spend above";

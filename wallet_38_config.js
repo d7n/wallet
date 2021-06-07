@@ -1,1 +1,1 @@
-var mnemonic = "dial cash cook project coast museum setup august trim place ostrich success";
+var mnemonic = "noodle seat summer umbrella flee inhale infant fix matrix train spoil space";

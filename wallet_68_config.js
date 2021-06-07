@@ -1,1 +1,1 @@
-var mnemonic = "unhappy elephant mass knife junior bulb sheriff member pull uphold equal feed";
+var mnemonic = "animal cat snap axis way clog spoil frown steak soon system crouch";

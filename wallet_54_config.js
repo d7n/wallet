@@ -1,1 +1,1 @@
-var mnemonic = "toward victory inquiry ozone tube skill gym lyrics patrol lemon strategy cross";
+var mnemonic = "ritual loan salt winner virtual broccoli anger razor retire obvious giant choose";

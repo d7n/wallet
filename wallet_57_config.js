@@ -1,1 +1,1 @@
-var mnemonic = "rain indoor occur smoke busy mom wisdom grunt manage roast regret sense";
+var mnemonic = "switch below guitar stairs bulk friend innocent outer width square atom frame";

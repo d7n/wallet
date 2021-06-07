@@ -1,1 +1,1 @@
-var mnemonic = "protect love strong priority stay ride include apart benefit captain grid change";
+var mnemonic = "input turtle uniform combine annual math garbage zero scene decade trap add";

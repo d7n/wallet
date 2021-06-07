@@ -1,1 +1,1 @@
-var mnemonic = "payment derive laundry girl toe news proof clarify stay seed tomato chuckle";
+var mnemonic = "soon hub casual safe already captain profit sorry rookie expose blur call";

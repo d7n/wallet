@@ -1,1 +1,1 @@
-var mnemonic = "cruel citizen match earn advice awesome age entire glad picture cake tag";
+var mnemonic = "super enlist shove fatigue chapter estate ten canvas sister craft proud friend";

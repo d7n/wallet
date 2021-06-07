@@ -1,1 +1,1 @@
-var mnemonic = "trumpet snap kitchen seven verb vessel dance solar resource insane obscure senior";
+var mnemonic = "sail filter rice bless bring helmet hard engage diagram guess neither permit";

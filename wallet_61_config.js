@@ -1,1 +1,1 @@
-var mnemonic = "expire fiction health warrior predict feed biology normal duty cream cigar electric";
+var mnemonic = "morning kiwi inflict feature talent clock sword tongue glass below drink indoor";

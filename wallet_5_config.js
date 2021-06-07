@@ -1,1 +1,1 @@
-var mnemonic = "ride little chef jar humble swallow scatter grain now feed powder quote";
+var mnemonic = "tenant agent trick aware again brass display dragon grain cave repair web";

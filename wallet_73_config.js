@@ -1,1 +1,1 @@
-var mnemonic = "paddle found cream jazz receive empty zone labor radio accuse punch toast";
+var mnemonic = "motor reform helmet emerge era street fine mention pig thunder stem just";

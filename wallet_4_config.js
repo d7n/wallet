@@ -1,1 +1,1 @@
-var mnemonic = "head denial catalog kidney cheese base orphan buyer sell damp inner labor";
+var mnemonic = "teach spare copper word try immense camp keep retire kingdom unusual arrive";
