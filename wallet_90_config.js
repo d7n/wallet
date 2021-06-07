@@ -1,1 +1,1 @@
-var mnemonic = "denial prefer husband stone split duty submit culture hero immune trim chalk";
+var mnemonic = "lobster buddy sentence paddle swear measure winner account lumber accuse stereo auto";

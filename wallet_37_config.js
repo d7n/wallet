@@ -1,1 +1,1 @@
-var mnemonic = "twenty poverty critic mix deer runway marble clog wire idea talent busy";
+var mnemonic = "library flower glow ticket coyote power ceiling loyal border wreck reunion twelve";

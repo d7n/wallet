@@ -1,1 +1,1 @@
-var mnemonic = "wet dust device now prosper primary also again total nice dirt effort";
+var mnemonic = "lonely badge month beef harbor cable shy time pioneer shed firm fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil menu blur mutual abuse dizzy into opinion traffic exist office grab";
+var mnemonic = "honey hub popular deposit canvas lamp process expire soccer slide dragon gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber poem dog good opinion waste access raven vital lawn all clutch";
+var mnemonic = "drum polar sword rifle recall twice doctor witness lawn core stomach select";

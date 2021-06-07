@@ -1,1 +1,1 @@
-var mnemonic = "cabin enter olympic rack various kind dry define unhappy car small affair";
+var mnemonic = "meat notice this dog cup gap render sentence expire tuna tide tumble";

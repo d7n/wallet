@@ -1,1 +1,1 @@
-var mnemonic = "candy order pyramid sea panther wall only squeeze wire fluid emotion small";
+var mnemonic = "wife vast music kitten upper tent strategy ramp vocal inflict insane pair";

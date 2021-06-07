@@ -1,1 +1,1 @@
-var mnemonic = "oblige index section daughter bitter enable always learn mad another sauce cram";
+var mnemonic = "wool pulp trade above dinosaur neglect wool flower siege picture spin boring";

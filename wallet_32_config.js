@@ -1,1 +1,1 @@
-var mnemonic = "wide clip reform diary mobile title source indoor suffer axis elbow august";
+var mnemonic = "symptom direct solution kingdom season imitate tonight lab thrive tuna half must";

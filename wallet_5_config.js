@@ -1,1 +1,1 @@
-var mnemonic = "size old budget robot sight concert august squeeze circle battle time engage";
+var mnemonic = "trim rely bacon assist defy admit furnace reveal giggle tag depend giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "jump humor salt exhibit pledge luggage switch panic oppose practice nominee mushroom";
+var mnemonic = "rocket lyrics reopen music purchase celery noodle unfold neglect swing ritual uncover";

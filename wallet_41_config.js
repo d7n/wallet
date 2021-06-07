@@ -1,1 +1,1 @@
-var mnemonic = "dilemma soft owner maple syrup antenna salt usage echo hip patrol coach";
+var mnemonic = "increase vapor knee sign help crisp elegant despair silver capital egg glue";

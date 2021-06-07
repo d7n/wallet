@@ -1,1 +1,1 @@
-var mnemonic = "ocean jump guide victory bus fatal bean vicious expand damp aware runway";
+var mnemonic = "debris hole carbon liquid garlic wave day spread dignity canoe degree meat";

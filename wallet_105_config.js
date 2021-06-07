@@ -1,1 +1,1 @@
-var mnemonic = "raccoon liar arrest empty barrel frost door blind first blush relax submit";
+var mnemonic = "imitate enough avocado ketchup gather put steel scorpion below famous include surprise";

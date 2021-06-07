@@ -1,1 +1,1 @@
-var mnemonic = "hat green wagon jewel behind power tip endorse column ocean lake mystery";
+var mnemonic = "cabin find unknown cheap juice breeze soccer utility seven merge close broken";

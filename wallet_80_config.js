@@ -1,1 +1,1 @@
-var mnemonic = "rug pupil bar theory stock project dwarf pulp eight empower build nasty";
+var mnemonic = "depart worry muffin fragile fury stamp hour crunch crystal benefit elephant uniform";

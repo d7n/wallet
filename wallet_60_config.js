@@ -1,1 +1,1 @@
-var mnemonic = "vivid lonely project camera lion jelly bridge slow loan large flag armor";
+var mnemonic = "doll salute spring north father aerobic cruise depend witness session kiwi cost";

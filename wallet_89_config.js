@@ -1,1 +1,1 @@
-var mnemonic = "polar assault fluid glass grape carry brass logic awake fish again region";
+var mnemonic = "add damp avocado stairs caught envelope chicken patch detail lobster myself giggle";

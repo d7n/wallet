@@ -1,1 +1,1 @@
-var mnemonic = "garbage engage busy hope another spot about fee help grow best weapon";
+var mnemonic = "notable goddess ripple bone jewel vacant diagram rough whisper opera false voyage";

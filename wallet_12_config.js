@@ -1,1 +1,1 @@
-var mnemonic = "skate refuse bonus spring want sail ethics tank various narrow rail believe";
+var mnemonic = "spray desert tomorrow circle twenty timber system mail runway stock blast guitar";

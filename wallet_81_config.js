@@ -1,1 +1,1 @@
-var mnemonic = "odor sadness rug lounge version friend initial private chuckle toss appear dizzy";
+var mnemonic = "reform render source monitor dutch cabbage fiction example image mention twice enemy";

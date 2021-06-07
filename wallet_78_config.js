@@ -1,1 +1,1 @@
-var mnemonic = "cruel reason sample anger fatal okay furnace near boat welcome include middle";
+var mnemonic = "little camp fold churn art blast pill glove author oak smart draw";

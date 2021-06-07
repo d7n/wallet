@@ -1,1 +1,1 @@
-var mnemonic = "syrup carpet mesh truly limit hub deer early thrive salon clean correct";
+var mnemonic = "destroy among end island hole inflict enjoy mansion frequent evil fury food";

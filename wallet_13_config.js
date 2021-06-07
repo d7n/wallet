@@ -1,1 +1,1 @@
-var mnemonic = "tribe female ranch online sign protect own faint mesh bicycle reject federal";
+var mnemonic = "segment one dance glance wasp soda cheese hundred push brother virtual buddy";

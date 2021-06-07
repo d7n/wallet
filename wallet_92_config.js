@@ -1,1 +1,1 @@
-var mnemonic = "life second orbit outer canvas critic script stand senior punch goat pig";
+var mnemonic = "holiday clarify memory famous cricket again hurt hope peasant there wasp above";

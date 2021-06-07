@@ -1,1 +1,1 @@
-var mnemonic = "cruise vibrant balcony flee surprise account castle acid proud mixed sting humor";
+var mnemonic = "adult pride cricket slogan museum student enough catalog bachelor cable wrong happy";

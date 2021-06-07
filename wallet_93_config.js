@@ -1,1 +1,1 @@
-var mnemonic = "canvas man cause promote scare quit stomach amateur dumb very fortune bomb";
+var mnemonic = "mechanic taste gadget account garage upset pistol chunk fire sign scout toilet";

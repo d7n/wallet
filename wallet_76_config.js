@@ -1,1 +1,1 @@
-var mnemonic = "light shrimp grunt fish guitar atom spell mutual damp chimney desk income";
+var mnemonic = "marble popular jewel thought black alone resist seed ankle army wall flock";

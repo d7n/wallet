@@ -1,1 +1,1 @@
-var mnemonic = "mom man ordinary whale certain nation daughter demise catalog rebuild weasel possible";
+var mnemonic = "liquid evil parade hammer season dish lab crunch beauty ivory cave unhappy";

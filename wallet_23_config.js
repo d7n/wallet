@@ -1,1 +1,1 @@
-var mnemonic = "river globe note improve crazy boil salute often hair satisfy two taste";
+var mnemonic = "crush resemble flower blue property rhythm monkey rude luggage ride endless nuclear";

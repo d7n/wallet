@@ -1,1 +1,1 @@
-var mnemonic = "intact train pottery fatigue goat return toward guard visit knee tomorrow unlock";
+var mnemonic = "carry candy rail smile keen mansion joy shadow mirror media pill figure";

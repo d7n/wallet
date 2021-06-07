@@ -1,1 +1,1 @@
-var mnemonic = "twin raccoon melt vanish miss oppose social salon ceiling rescue tennis blame";
+var mnemonic = "opera corn decline appear hidden legal awful car bridge shiver pottery cactus";

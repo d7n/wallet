@@ -1,1 +1,1 @@
-var mnemonic = "crater obtain enroll addict leaf sustain uphold brief leave filter scene dumb";
+var mnemonic = "rookie solution tip year dust damage canvas warm way dish marine wage";

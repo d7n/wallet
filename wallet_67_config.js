@@ -1,1 +1,1 @@
-var mnemonic = "mother economy similar cable reform limb atom unable muscle title prison equal";
+var mnemonic = "health funny final dog shrug identify liquid expect purpose pig poem venture";

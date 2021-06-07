@@ -1,1 +1,1 @@
-var mnemonic = "craft piano employ right swamp arm problem slim busy energy cheese kingdom";
+var mnemonic = "town actual one option bitter below harbor judge wonder flight guilt despair";

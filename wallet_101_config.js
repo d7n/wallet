@@ -1,1 +1,1 @@
-var mnemonic = "glimpse coach echo latin error busy laptop summer faith network fun jaguar";
+var mnemonic = "caught young genius obey morning auto damage inner swamp border wreck opinion";

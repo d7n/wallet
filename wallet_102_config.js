@@ -1,1 +1,1 @@
-var mnemonic = "stay film live vintage fun dirt athlete welcome crawl easy innocent century";
+var mnemonic = "increase monitor firm victory better skin thrive jungle color merge satisfy tray";

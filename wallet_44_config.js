@@ -1,1 +1,1 @@
-var mnemonic = "reflect duty album drum much asset arrow acoustic pudding cotton bacon brother";
+var mnemonic = "elite diamond level nuclear laptop crane melt chuckle coconut force melody guard";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics pig comfort hood cup report denial powder spare goat tissue dizzy";
+var mnemonic = "calm exile network disease love bike alter joke choose actual want olive";

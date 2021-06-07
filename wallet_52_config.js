@@ -1,1 +1,1 @@
-var mnemonic = "peace year spot okay search retire essence reform typical chapter siren axis";
+var mnemonic = "defense endless wheel member beyond isolate sail horn knife file bench fiscal";

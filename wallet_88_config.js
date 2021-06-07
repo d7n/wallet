@@ -1,1 +1,1 @@
-var mnemonic = "carry unhappy lizard rate shallow crack rate earn organ series balcony choose";
+var mnemonic = "satoshi radio fence frame sudden dragon grit point shrimp reform category actor";

@@ -1,1 +1,1 @@
-var mnemonic = "decline state energy miracle turtle tortoise enough famous patrol live merge mix";
+var mnemonic = "will snack veteran include entry mix capital tiger ability frog grass brain";

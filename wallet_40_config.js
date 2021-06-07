@@ -1,1 +1,1 @@
-var mnemonic = "erase uncover yellow only inform draft absorb sugar blush naive final crime";
+var mnemonic = "potato arm gap vintage royal brass carbon citizen olive gravity pair elephant";

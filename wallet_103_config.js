@@ -1,1 +1,1 @@
-var mnemonic = "ski emotion stamp infant person grace judge wonder print choice pull behind";
+var mnemonic = "special special frozen disease suggest jacket hurt jacket process tortoise sad awake";

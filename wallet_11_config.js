@@ -1,1 +1,1 @@
-var mnemonic = "taste rigid grid refuse picture beach poet capable wheel whip fitness tube";
+var mnemonic = "taxi oak genre lazy cover silly sister dutch rice lady envelope donkey";

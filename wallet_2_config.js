@@ -1,1 +1,1 @@
-var mnemonic = "space access display person reason eager muffin list coil erosion spread mango";
+var mnemonic = "wheel apology awful another magnet lyrics lawn east rebuild slot spawn across";

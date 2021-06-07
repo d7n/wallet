@@ -1,1 +1,1 @@
-var mnemonic = "erase cat long target punch tag air hockey cloth prosper jeans stuff";
+var mnemonic = "dolphin orphan regret slam grab target hybrid alter embark resource satisfy web";

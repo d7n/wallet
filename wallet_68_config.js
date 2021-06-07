@@ -1,1 +1,1 @@
-var mnemonic = "minimum science banana badge frost topic ten load path pledge short juice";
+var mnemonic = "wage spot stock impact grass man reduce wood thing discover hurdle drastic";

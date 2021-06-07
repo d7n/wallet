@@ -1,1 +1,1 @@
-var mnemonic = "smart voyage flavor habit range network know toilet scan charge screen page";
+var mnemonic = "direct paper theory picnic proud wife hope aunt census artist nest ceiling";

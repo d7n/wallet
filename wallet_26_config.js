@@ -1,1 +1,1 @@
-var mnemonic = "always cradle valley invest lens cereal thumb mention rail pitch battle perfect";
+var mnemonic = "catalog climb hotel dad film clip party size faint clerk minor exhibit";

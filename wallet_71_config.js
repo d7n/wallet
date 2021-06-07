@@ -1,1 +1,1 @@
-var mnemonic = "venue ceiling glue travel exit culture demise trial width village suit human";
+var mnemonic = "receive such area tape patient despair access pair expect scorpion mistake acid";

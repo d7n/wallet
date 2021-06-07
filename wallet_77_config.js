@@ -1,1 +1,1 @@
-var mnemonic = "poet famous inherit develop level neck rare involve talk monster return dial";
+var mnemonic = "juice inmate group spawn provide toward gospel long notice page save empty";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt gorilla wheat tonight around that congress sort tool deposit dismiss edge";
+var mnemonic = "any essence carpet rocket eager moon omit broom divert paper invite spider";

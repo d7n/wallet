@@ -1,1 +1,1 @@
-var mnemonic = "pigeon banner fire return hat vault eagle sting jar else floor author";
+var mnemonic = "member holiday that match sun monkey uncover reform absorb frown balance actual";

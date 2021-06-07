@@ -1,1 +1,1 @@
-var mnemonic = "subject switch duty blur clutch pitch borrow typical local menu carbon seek";
+var mnemonic = "walk shove history adapt raise address false obvious kind early board that";

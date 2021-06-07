@@ -1,1 +1,1 @@
-var mnemonic = "filter bag van market urban screen soon athlete announce inspire connect select";
+var mnemonic = "source quiz satisfy walk bunker fit blue profit again runway little symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan boring doctor whisper glove acoustic game actor argue diet lamp square";
+var mnemonic = "slide retreat fitness weasel feature code color spray pyramid short when nut";

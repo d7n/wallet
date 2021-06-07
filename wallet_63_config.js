@@ -1,1 +1,1 @@
-var mnemonic = "always issue trust fitness damp swarm word pride nothing since stumble enemy";
+var mnemonic = "disease account eyebrow diary mom sure chicken tag situate explain mean modify";

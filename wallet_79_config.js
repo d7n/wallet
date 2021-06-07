@@ -1,1 +1,1 @@
-var mnemonic = "short message flag sadness used infant cram cage regular obtain tobacco proud";
+var mnemonic = "route sand about marble very quiz myth indoor mean camp biology discover";

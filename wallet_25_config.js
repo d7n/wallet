@@ -1,1 +1,1 @@
-var mnemonic = "drive snow settle knock stereo aware suggest receive design token floor shift";
+var mnemonic = "coral power rocket bicycle vote someone treat stairs three dust afraid yard";

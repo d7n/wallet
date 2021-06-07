@@ -1,1 +1,1 @@
-var mnemonic = "pistol fade black chuckle estate fork cute car oxygen apology candy naive";
+var mnemonic = "before exit jump margin limb health brisk sun ketchup hand calm crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "object long identify law crush awkward toss senior east until supply scan";
+var mnemonic = "afraid ritual night woman win orient people robot photo come resist first";

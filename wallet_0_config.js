@@ -1,1 +1,1 @@
-var mnemonic = "critic core solution crime subway close thunder destroy youth embrace auto witness";
+var mnemonic = "bar can possible private media void decrease hero couple two excuse invest";

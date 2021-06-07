@@ -1,1 +1,1 @@
-var mnemonic = "fork best test forum fade tired weasel all enhance frown possible club";
+var mnemonic = "gun usage fence tilt where buyer alter short climb gravity project tortoise";

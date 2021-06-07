@@ -1,1 +1,1 @@
-var mnemonic = "truly muffin hour plug polar claw wine stuff move topic spatial powder";
+var mnemonic = "menu muffin camera sound memory velvet shaft rival weasel hood need screen";

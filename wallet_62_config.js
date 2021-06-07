@@ -1,1 +1,1 @@
-var mnemonic = "rhythm fit palm episode senior inflict meat gossip accuse emerge raven off";
+var mnemonic = "person depth capital viable sand require dash script spoil move title bring";

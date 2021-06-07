@@ -1,1 +1,1 @@
-var mnemonic = "loop infant thank oval drip spot curve language crane catch unaware capable";
+var mnemonic = "example garage twenty tennis dust excite hat increase slam lens income stage";

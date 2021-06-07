@@ -1,1 +1,1 @@
-var mnemonic = "snack autumn eyebrow chunk wave toast fuel gasp measure wife echo hello";
+var mnemonic = "lazy buyer fashion between tribe huge foster convince spoil page legend hurt";

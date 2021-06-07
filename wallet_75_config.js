@@ -1,1 +1,1 @@
-var mnemonic = "upper shift exact predict scene ketchup ball frog reveal pyramid business observe";
+var mnemonic = "permit ability grow bench certain tortoise inch that toy frame kangaroo half";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend cinnamon blast buyer artist develop weasel wide fashion negative chicken shine";
+var mnemonic = "lion panther quality better hole world embody gorilla rotate fee indicate north";

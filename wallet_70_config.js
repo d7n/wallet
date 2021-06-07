@@ -1,1 +1,1 @@
-var mnemonic = "chapter ring cotton already quality pudding spring opera spirit olympic illegal cup";
+var mnemonic = "town pact hidden river tag vibrant time rack member unable enjoy uniform";

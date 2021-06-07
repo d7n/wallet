@@ -1,1 +1,1 @@
-var mnemonic = "believe drama can ugly current drink child fringe media model fashion resist";
+var mnemonic = "piece way bench pepper fan width cherry urban scrap wagon perfect column";

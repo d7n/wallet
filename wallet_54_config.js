@@ -1,1 +1,1 @@
-var mnemonic = "extend endorse chair squeeze rookie forget vocal hamster novel lemon runway damage";
+var mnemonic = "way airport multiply predict satoshi clog duck space boil supreme remind repair";

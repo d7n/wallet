@@ -1,1 +1,1 @@
-var mnemonic = "visit lyrics penalty swim cannon often embrace feed rug broken derive brick";
+var mnemonic = "social much number inflict arm outer yellow meat crawl sentence combine bench";

@@ -1,1 +1,1 @@
-var mnemonic = "lock middle resemble decade click narrow rent soldier utility place annual sorry";
+var mnemonic = "power wheat only saddle order sudden ozone curve cinnamon glass area lend";

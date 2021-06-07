@@ -1,1 +1,1 @@
-var mnemonic = "wear certain ritual country prosper winter occur oblige alert blush confirm deposit";
+var mnemonic = "desk give brisk room laptop flat aerobic across reason sibling convince submit";

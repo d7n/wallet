@@ -1,1 +1,1 @@
-var mnemonic = "install aim plug planet lazy fold faith artefact cancel select rent direct";
+var mnemonic = "traffic drill equal dentist what device advance deposit impose solar truly dish";

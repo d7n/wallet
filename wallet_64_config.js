@@ -1,1 +1,1 @@
-var mnemonic = "laundry parrot focus medal elevator double clump wisdom assist number strong six";
+var mnemonic = "scan purity physical leopard sniff drift hen clever extra cube february direct";

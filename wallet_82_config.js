@@ -1,1 +1,1 @@
-var mnemonic = "amateur door cup liberty ranch expand group accuse ignore purity hunt denial";
+var mnemonic = "venture among split universe pull ordinary cliff vote soul family decide tent";

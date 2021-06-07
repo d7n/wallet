@@ -1,1 +1,1 @@
-var mnemonic = "paper dragon stairs final scheme utility shell junior harvest shop orient rose";
+var mnemonic = "arrange evidence fan fuel cotton catch praise gap stable evil senior essence";

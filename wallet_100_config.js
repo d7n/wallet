@@ -1,1 +1,1 @@
-var mnemonic = "know aspect glass evoke expose body ghost script autumn theory during nephew";
+var mnemonic = "lunar below defy bean sausage dune predict hat science plate grunt summer";

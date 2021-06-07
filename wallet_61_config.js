@@ -1,1 +1,1 @@
-var mnemonic = "improve good either delay blind plate develop awkward neck verb drive chimney";
+var mnemonic = "gaze fade laptop spray flight dinosaur velvet frequent wood bubble drill dwarf";

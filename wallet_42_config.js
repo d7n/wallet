@@ -1,1 +1,1 @@
-var mnemonic = "butter legend skate purchase fee cross tribe erase rough shine tribe hold";
+var mnemonic = "trouble melt nasty file corn symptom balance address again minimum main broccoli";
