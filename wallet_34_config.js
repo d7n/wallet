@@ -1,1 +1,1 @@
-var mnemonic = "twenty broken immense denial ceiling forum input excuse faculty next win enhance";
+var mnemonic = "action urban artwork sea expect vacuum timber diesel casual flush stick anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll swim rebuild devote half glad gesture box okay exercise law ride";
+var mnemonic = "false door walnut despair tilt judge attend oval segment park census advice";

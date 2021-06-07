@@ -1,1 +1,1 @@
-var mnemonic = "mansion dry rule farm shiver strategy cactus long approve polar inmate alone";
+var mnemonic = "blind acid crush term student hood damage dose grass scrap cactus sand";

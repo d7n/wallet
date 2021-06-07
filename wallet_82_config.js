@@ -1,1 +1,1 @@
-var mnemonic = "nose hub consider net fancy social view spray annual survey spoil type";
+var mnemonic = "invest mercy february bullet shell ignore defy gate peasant piano blast shed";

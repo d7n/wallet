@@ -1,1 +1,1 @@
-var mnemonic = "either climb slot note boring useful cigar matter situate defense marble local";
+var mnemonic = "vessel appear rebuild theory cattle emotion churn grid kind century dial ramp";

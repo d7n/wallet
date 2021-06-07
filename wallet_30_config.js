@@ -1,1 +1,1 @@
-var mnemonic = "erode license staff company scrub ability glory drill profit muscle olive angle";
+var mnemonic = "scrap busy derive winner address edit venue arrest left party delay punch";

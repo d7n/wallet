@@ -1,1 +1,1 @@
-var mnemonic = "bean glory focus scan knife horse target dignity coin grab scan volume";
+var mnemonic = "razor chat random crouch snack coach armed drive empty slot tip ugly";

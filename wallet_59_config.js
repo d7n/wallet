@@ -1,1 +1,1 @@
-var mnemonic = "oxygen typical forward lizard draw divide where cube april capable tool simple";
+var mnemonic = "suspect option raw spell drill impulse medal blue adjust combine balance acid";

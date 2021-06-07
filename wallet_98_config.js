@@ -1,1 +1,1 @@
-var mnemonic = "abandon fiction wasp grief boat acquire lesson noise thumb oval horn satoshi";
+var mnemonic = "wide occur mask sword oil travel script suspect meat welcome club spirit";

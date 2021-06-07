@@ -1,1 +1,1 @@
-var mnemonic = "limb hand sure matter valve gasp dance pass lumber square ensure pudding";
+var mnemonic = "discover ill lazy kiss any into recipe raw grunt already either delay";

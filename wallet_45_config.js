@@ -1,1 +1,1 @@
-var mnemonic = "figure account gravity another heart bar balcony assume obvious relax beauty series";
+var mnemonic = "ladder educate arrest combine sniff error soccer awake sun sword mutual casual";

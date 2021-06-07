@@ -1,1 +1,1 @@
-var mnemonic = "rebel mansion base puzzle scout theme capital weather calm ozone depart burden";
+var mnemonic = "course tomorrow shrug iron swap cage train nasty vast erase sea proud";

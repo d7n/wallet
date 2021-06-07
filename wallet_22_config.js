@@ -1,1 +1,1 @@
-var mnemonic = "language man license army donkey depth cable modify choice retire march forest";
+var mnemonic = "sheriff dose wire two village regular summer gym jump bottom burden scheme";

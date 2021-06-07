@@ -1,1 +1,1 @@
-var mnemonic = "sing confirm drift among answer reform panic mixed thumb impact sting twice";
+var mnemonic = "before fury fog bring twin salad gap price tree pond close month";

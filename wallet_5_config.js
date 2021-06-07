@@ -1,1 +1,1 @@
-var mnemonic = "struggle razor gorilla east hub throw ecology crystal disease brief dignity bomb";
+var mnemonic = "ride little chef jar humble swallow scatter grain now feed powder quote";

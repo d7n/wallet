@@ -1,1 +1,1 @@
-var mnemonic = "vintage capital cousin detail voyage unable north emotion ensure shine toast fabric";
+var mnemonic = "flee bus tuition utility naive mouse skate drastic grab nothing matter brick";

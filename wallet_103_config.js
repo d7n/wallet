@@ -1,1 +1,1 @@
-var mnemonic = "girl drip wasp knife vacant dutch type inject liar tray outer gather";
+var mnemonic = "gaze decline sample fold certain wash debate discover valley neck vocal photo";

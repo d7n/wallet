@@ -1,1 +1,1 @@
-var mnemonic = "robot divorce wage mobile kingdom file chat crack legend mammal addict monster";
+var mnemonic = "vacant provide venture nothing fiber inherit vibrant urge spawn face lunch sunset";

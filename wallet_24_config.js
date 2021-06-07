@@ -1,1 +1,1 @@
-var mnemonic = "actress drift just bicycle jaguar rigid brave craft grace video rotate cry";
+var mnemonic = "income dust force bench cry crunch snow food tackle rule session motor";

@@ -1,1 +1,1 @@
-var mnemonic = "rare drastic nerve cricket ship crumble dream collect wedding swing various shy";
+var mnemonic = "palm select fence toward globe welcome leisure main potato aware panel chicken";

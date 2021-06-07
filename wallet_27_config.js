@@ -1,1 +1,1 @@
-var mnemonic = "bottom domain lumber slim short multiply marriage cave salt position edit lecture";
+var mnemonic = "fragile famous kit cancel payment amazing tortoise fault escape flee tourist siren";

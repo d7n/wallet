@@ -1,1 +1,1 @@
-var mnemonic = "insect reopen ugly buddy club recipe control cannon arrive lift man water";
+var mnemonic = "toddler head toilet wife glad fly volume echo dawn hobby royal brave";

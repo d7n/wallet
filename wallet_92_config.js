@@ -1,1 +1,1 @@
-var mnemonic = "legend logic glue agent problem enough dragon limb bulb enjoy music bless";
+var mnemonic = "floor super evoke gift boost move off join repeat pride electric body";

@@ -1,1 +1,1 @@
-var mnemonic = "derive ankle cram scan flash carbon hospital bind they hub winner guess";
+var mnemonic = "nominee robot rude novel amount admit shop video oblige field code deputy";

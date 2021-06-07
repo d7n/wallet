@@ -1,1 +1,1 @@
-var mnemonic = "aim public junior forward awesome display order south strike equal age blanket";
+var mnemonic = "fan fury gap chunk melody celery print puppy coyote account penalty also";

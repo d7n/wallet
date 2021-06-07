@@ -1,1 +1,1 @@
-var mnemonic = "steak loan clever useless silver school manage tourist they globe pool tribe";
+var mnemonic = "buzz bag common hill thunder master broom nasty picture inform click secret";

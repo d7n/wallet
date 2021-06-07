@@ -1,1 +1,1 @@
-var mnemonic = "crystal funny portion vendor flag miss kick length blur paper column spot";
+var mnemonic = "casino jewel what august farm wish that attend order jeans develop chair";

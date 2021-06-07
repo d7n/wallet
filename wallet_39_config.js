@@ -1,1 +1,1 @@
-var mnemonic = "wire draw enrich alone friend lucky south design oil wonder give reunion";
+var mnemonic = "coconut cloth cat exercise achieve unable small glimpse roof alley divert engage";

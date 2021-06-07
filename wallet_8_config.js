@@ -1,1 +1,1 @@
-var mnemonic = "brisk report grid accuse bus dentist chalk donate unusual laundry ready shoe";
+var mnemonic = "aspect omit nest ribbon version good flat obvious coral decrease prepare cry";

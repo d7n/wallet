@@ -1,1 +1,1 @@
-var mnemonic = "bar noodle galaxy enough ask flame weather angle analyst game file umbrella";
+var mnemonic = "capital kangaroo paddle expand summer system garden humor dilemma destroy peace sense";

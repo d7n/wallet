@@ -1,1 +1,1 @@
-var mnemonic = "boil frame tuition mountain purse more train giggle novel quote usual desert";
+var mnemonic = "depth always very genius trigger hamster club garment half avocado loop bar";

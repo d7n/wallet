@@ -1,1 +1,1 @@
-var mnemonic = "fold spray winter immune artwork primary sorry razor iron spoil hockey flock";
+var mnemonic = "digital wheel tissue parent type reflect flat hen drive barely march reduce";

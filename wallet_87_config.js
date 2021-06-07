@@ -1,1 +1,1 @@
-var mnemonic = "calm page limit door black exit regular wagon actor pride spawn dinner";
+var mnemonic = "bus radio wrestle rebuild stereo shield split attend blush light mechanic dutch";

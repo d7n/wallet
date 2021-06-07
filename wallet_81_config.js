@@ -1,1 +1,1 @@
-var mnemonic = "hat decade wait shop boil ketchup where tiger trend defense syrup gesture";
+var mnemonic = "recycle mesh rule noble magic over shoulder floor opinion athlete silk fine";

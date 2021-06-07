@@ -1,1 +1,1 @@
-var mnemonic = "visual promote still purse sport enough sunset rough aisle index credit tool";
+var mnemonic = "protect love strong priority stay ride include apart benefit captain grid change";

@@ -1,1 +1,1 @@
-var mnemonic = "margin velvet aware crouch pill suggest express coral life elevator spice future";
+var mnemonic = "session fabric awesome pave bracket eye pelican gun little roof chat clarify";

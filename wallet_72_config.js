@@ -1,1 +1,1 @@
-var mnemonic = "rescue lecture summer fix whip settle judge armed mixture danger profit atom";
+var mnemonic = "roast timber pitch view cattle option purchase crisp symbol trip surge february";

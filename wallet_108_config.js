@@ -1,1 +1,1 @@
-var mnemonic = "install turkey plug captain crack patient vapor enter this boy sound display";
+var mnemonic = "elder feature food cake number pitch what judge prosper pen calm sword";

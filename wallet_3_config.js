@@ -1,1 +1,1 @@
-var mnemonic = "inmate wreck chest sweet correct bargain sister room defy loyal trash pen";
+var mnemonic = "innocent caught they tray club reopen equal chef gate cart lion orbit";

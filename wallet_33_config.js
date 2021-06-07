@@ -1,1 +1,1 @@
-var mnemonic = "indoor picture envelope parent grant curtain common demise shy razor name success";
+var mnemonic = "meadow argue fluid elevator island alcohol adapt cube erase hurdle select surround";

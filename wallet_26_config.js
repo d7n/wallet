@@ -1,1 +1,1 @@
-var mnemonic = "ability cup congress riot shrimp bachelor job photo same refuse clip clump";
+var mnemonic = "quiz cactus puppy fog mushroom skirt finish expand buzz boost rain eight";

@@ -1,1 +1,1 @@
-var mnemonic = "over awful wall pelican sign pear gospel candy shine dad setup ramp";
+var mnemonic = "payment derive laundry girl toe news proof clarify stay seed tomato chuckle";

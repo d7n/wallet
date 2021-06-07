@@ -1,1 +1,1 @@
-var mnemonic = "stereo sting ritual include course sweet decorate among trust tank eagle chief";
+var mnemonic = "yard palm giggle brisk desk appear note blanket object chalk ladder brown";

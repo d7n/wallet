@@ -1,1 +1,1 @@
-var mnemonic = "harsh section clock slot tube identify sock tuna peanut device burst hamster";
+var mnemonic = "combine liberty term bomb million arch eagle job plastic bitter name give";

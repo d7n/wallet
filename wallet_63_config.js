@@ -1,1 +1,1 @@
-var mnemonic = "walk child shoulder rival october hub bid wall curious rescue long glue";
+var mnemonic = "tennis baby resist beauty pear still vague setup cheap pizza stumble tackle";

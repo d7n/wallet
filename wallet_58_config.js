@@ -1,1 +1,1 @@
-var mnemonic = "crumble smooth alter arch much doll congress above pen alone hand motor";
+var mnemonic = "model rifle romance suspect mom point maze left resist hidden exchange depth";

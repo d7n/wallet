@@ -1,1 +1,1 @@
-var mnemonic = "toy gentle brisk edge choice endless praise crowd myth theory borrow ancient";
+var mnemonic = "layer sheriff deposit mule toy because plastic bonus bulb fiction catalog digital";

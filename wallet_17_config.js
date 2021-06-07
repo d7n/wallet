@@ -1,1 +1,1 @@
-var mnemonic = "bounce music wrestle echo theme process rookie belt slab record mixture corn";
+var mnemonic = "talk fly also project fitness belt hospital cliff clap peasant staff chief";

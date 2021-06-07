@@ -1,1 +1,1 @@
-var mnemonic = "hip street magnet then battle drill seminar blade armed unfold multiply beach";
+var mnemonic = "leaf sniff violin crumble rule rabbit base marble floor announce brand office";

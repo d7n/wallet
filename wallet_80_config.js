@@ -1,1 +1,1 @@
-var mnemonic = "debris cup require air alert feed diamond skill husband pelican surface snake";
+var mnemonic = "short divide embark kick hope carbon two slab gold cabin occur business";

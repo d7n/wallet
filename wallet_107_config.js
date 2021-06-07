@@ -1,1 +1,1 @@
-var mnemonic = "voice erupt foot useful talk abstract simple surround hen memory slush gap";
+var mnemonic = "ready beyond real orchard anger input box plug cereal august work crystal";

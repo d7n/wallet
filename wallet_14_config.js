@@ -1,1 +1,1 @@
-var mnemonic = "cause pipe feel flower clutch ready ask twenty various marine acquire road";
+var mnemonic = "siren planet wide later leisure rail peanut skull lawsuit canvas swarm member";

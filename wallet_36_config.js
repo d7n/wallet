@@ -1,1 +1,1 @@
-var mnemonic = "try tide bunker sleep diagram assist luggage inflict bind invest refuse ignore";
+var mnemonic = "genre use measure oak future merit chair filter cigar chimney volume secret";

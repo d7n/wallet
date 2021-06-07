@@ -1,1 +1,1 @@
-var mnemonic = "wet cotton donor already asthma ginger pluck assume tent small viable cube";
+var mnemonic = "artefact royal nest vacuum decide agent envelope trust fresh maid never fuel";

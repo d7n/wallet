@@ -1,1 +1,1 @@
-var mnemonic = "ranch frequent course uphold connect climb portion gallery note long horror lonely";
+var mnemonic = "magnet bridge case two elephant exit enough hotel minor vacuum scene soul";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar frame glide blast fiber essence scorpion input face embody giant army";
+var mnemonic = "inflict animal harsh update gasp about swallow vanish rare blue news glide";

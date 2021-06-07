@@ -1,1 +1,1 @@
-var mnemonic = "dose dream path bullet decide rose woman method test volume garlic play";
+var mnemonic = "oblige circle denial hard inquiry blouse six praise give flush champion almost";

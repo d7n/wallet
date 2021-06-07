@@ -1,1 +1,1 @@
-var mnemonic = "box pact athlete glare twin raise veteran spirit balance hamster caution ten";
+var mnemonic = "inquiry hungry soon ten sort shove slush inside struggle fire theory satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "maple phrase armor faith twist loan between word december enrich salute tonight";
+var mnemonic = "rain indoor occur smoke busy mom wisdom grunt manage roast regret sense";

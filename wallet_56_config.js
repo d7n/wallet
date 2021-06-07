@@ -1,1 +1,1 @@
-var mnemonic = "human alert decline sing elbow enact crunch script false mask tattoo balcony";
+var mnemonic = "federal hat believe worry shy virus bronze broom charge aware blue fabric";

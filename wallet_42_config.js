@@ -1,1 +1,1 @@
-var mnemonic = "buffalo ginger drive slight cover shoulder victory usage doctor twin cargo train";
+var mnemonic = "element analyst student few forest canal devote faith web battle time choose";

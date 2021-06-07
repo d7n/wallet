@@ -1,1 +1,1 @@
-var mnemonic = "dose deer receive dilemma busy surge verify strike seven erase tube announce";
+var mnemonic = "paddle found cream jazz receive empty zone labor radio accuse punch toast";

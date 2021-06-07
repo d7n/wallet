@@ -1,1 +1,1 @@
-var mnemonic = "absorb project unusual song bring essay assume gas mask copper blade tag";
+var mnemonic = "stove total board stereo nest solve stomach update segment you iron ahead";

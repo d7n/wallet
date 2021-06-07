@@ -1,1 +1,1 @@
-var mnemonic = "motion ritual refuse planet weasel notice frown soul follow fresh figure scrap";
+var mnemonic = "expire fiction health warrior predict feed biology normal duty cream cigar electric";

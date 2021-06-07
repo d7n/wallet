@@ -1,1 +1,1 @@
-var mnemonic = "measure palm family winter age seed project travel harbor hour include material";
+var mnemonic = "toward victory inquiry ozone tube skill gym lyrics patrol lemon strategy cross";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest toilet avoid involve seed assist cube seminar mansion over glad supreme";
+var mnemonic = "finish december bounce film summer shoulder jungle liar first earn media cancel";

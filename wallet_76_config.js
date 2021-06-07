@@ -1,1 +1,1 @@
-var mnemonic = "sell three parent enable slush leisure wing topple bike tonight across rookie";
+var mnemonic = "uncle inquiry oppose today amount insect sudden shop patient ensure razor chef";

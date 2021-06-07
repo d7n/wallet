@@ -1,1 +1,1 @@
-var mnemonic = "place brain video analyst immense minute fever depend trumpet year deer type";
+var mnemonic = "cruel citizen match earn advice awesome age entire glad picture cake tag";

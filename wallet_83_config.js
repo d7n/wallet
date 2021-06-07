@@ -1,1 +1,1 @@
-var mnemonic = "net soon accident detect month waste more drop patrol toward example glory";
+var mnemonic = "toward path gallery yellow wasp crop decide awful recycle school script marble";

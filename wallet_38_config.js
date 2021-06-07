@@ -1,1 +1,1 @@
-var mnemonic = "fine audit include gallery enlist now grit divide broom ability sport draft";
+var mnemonic = "dial cash cook project coast museum setup august trim place ostrich success";

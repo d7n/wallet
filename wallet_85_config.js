@@ -1,1 +1,1 @@
-var mnemonic = "little sphere corn dream code august weekend suffer prepare pilot cloud degree";
+var mnemonic = "deal wild fat ritual mom usage pledge clean slight hill begin swap";

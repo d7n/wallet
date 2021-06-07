@@ -1,1 +1,1 @@
-var mnemonic = "dial antique staff target project cash copy peasant artefact come pause bread";
+var mnemonic = "head denial catalog kidney cheese base orphan buyer sell damp inner labor";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics swallow adjust humor spatial infant slogan large shrug body void lumber";
+var mnemonic = "grief pretty popular you rate round flee crisp pistol actual much idea";

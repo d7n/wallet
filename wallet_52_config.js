@@ -1,1 +1,1 @@
-var mnemonic = "use flower rotate birth release response theme transfer sunny blanket honey direct";
+var mnemonic = "web theory main wave reward situate galaxy blue brush news wife rocket";

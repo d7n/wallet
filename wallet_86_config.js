@@ -1,1 +1,1 @@
-var mnemonic = "square bar move color figure doll attack traffic lady avocado history opinion";
+var mnemonic = "wet ozone clog obscure tissue goose material actual suspect smart gym junk";

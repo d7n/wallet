@@ -1,1 +1,1 @@
-var mnemonic = "august until supreme myself offer snack whip sponsor come example manual tackle";
+var mnemonic = "nurse pizza toward industry virus female depth garbage gun wide kick nephew";

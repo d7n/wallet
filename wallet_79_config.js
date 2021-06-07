@@ -1,1 +1,1 @@
-var mnemonic = "dumb eye suffer alarm blast various cabin mechanic process bean topple print";
+var mnemonic = "stumble intact upgrade among sun boat buzz cost noodle bar club clarify";

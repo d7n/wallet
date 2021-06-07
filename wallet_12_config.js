@@ -1,1 +1,1 @@
-var mnemonic = "caution maid skate firm coin enrich spy talent knock away brass adapt";
+var mnemonic = "atom attend private survey hover erode drastic keen drive senior skull lady";

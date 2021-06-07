@@ -1,1 +1,1 @@
-var mnemonic = "spawn drastic rail remove success wrong green aspect quiz lyrics open friend";
+var mnemonic = "equal private spell brain gas sun swamp ready follow glue move worry";

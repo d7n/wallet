@@ -1,1 +1,1 @@
-var mnemonic = "drastic switch few purse grit assume vehicle human under moment fish quiz";
+var mnemonic = "amazing crisp surge merry memory bulb web require rigid student kitten skirt";
