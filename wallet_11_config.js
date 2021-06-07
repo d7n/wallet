@@ -1,1 +1,1 @@
-var mnemonic = "group actual midnight involve valve fall demise bronze dog actor violin tray";
+var mnemonic = "hood oval release surface fault grunt bundle number alpha camera diary kite";

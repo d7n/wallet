@@ -1,1 +1,1 @@
-var mnemonic = "antenna club danger body feed core toy allow ready over wheat razor";
+var mnemonic = "loyal company riot speed car fire eagle man monkey dog industry picture";

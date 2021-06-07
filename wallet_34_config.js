@@ -1,1 +1,1 @@
-var mnemonic = "unaware anchor pattern knife lobster page bitter warfare resource welcome lens scheme";
+var mnemonic = "fence polar science raccoon vivid scan equip poverty youth detect barrel spot";

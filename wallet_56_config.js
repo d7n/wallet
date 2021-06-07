@@ -1,1 +1,1 @@
-var mnemonic = "bundle galaxy short nature jelly satoshi sausage scan repeat board describe wrap";
+var mnemonic = "denial empower remove still note ramp dash clever between violin armor arm";

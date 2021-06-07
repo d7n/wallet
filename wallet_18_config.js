@@ -1,1 +1,1 @@
-var mnemonic = "mix slab sweet shuffle celery economy expire now spawn rescue frost whip";
+var mnemonic = "lion taxi sketch output giggle live city stuff trial lunch three client";

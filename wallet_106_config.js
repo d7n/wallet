@@ -1,1 +1,1 @@
-var mnemonic = "property crash poverty like area pear reject obscure claim parrot connect degree";
+var mnemonic = "example morning bachelor effort trap goat total ketchup hat hope ski margin";

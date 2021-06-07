@@ -1,1 +1,1 @@
-var mnemonic = "voice crucial unique nuclear banner afraid endorse light chimney record annual turtle";
+var mnemonic = "end whisper search recall also zone meat dog eager throw clean promote";

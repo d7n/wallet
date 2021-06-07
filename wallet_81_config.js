@@ -1,1 +1,1 @@
-var mnemonic = "whip large blouse junk forum flip lab method trouble blossom vote path";
+var mnemonic = "extend noise birth quit point cause vicious people initial already guide april";

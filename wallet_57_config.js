@@ -1,1 +1,1 @@
-var mnemonic = "twenty work spike legal hill among sleep dirt garden song quantum unfair";
+var mnemonic = "cross energy spot stereo crowd cage measure like double beyond mammal where";

@@ -1,1 +1,1 @@
-var mnemonic = "glare cushion path deputy present cool window snack between pigeon guard cloth";
+var mnemonic = "wagon math wage punch garden model sell orphan daughter jacket length autumn";

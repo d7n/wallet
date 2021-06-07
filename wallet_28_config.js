@@ -1,1 +1,1 @@
-var mnemonic = "inner ability myself twice ten sister glory chest cube concert ginger issue";
+var mnemonic = "goat aerobic skate clutch clog angle admit mammal impulse grain ride pilot";

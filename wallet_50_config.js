@@ -1,1 +1,1 @@
-var mnemonic = "under guard special goose room skill phrase hat bike test flat palace";
+var mnemonic = "useful accident night share point nerve funny over chimney shell test crunch";

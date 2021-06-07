@@ -1,1 +1,1 @@
-var mnemonic = "type velvet junk armor demand rate ceiling coin spoon drive artist lottery";
+var mnemonic = "pattern cigar net science require embrace beach street section baby inhale anger";

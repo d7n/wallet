@@ -1,1 +1,1 @@
-var mnemonic = "pottery busy salute gauge ecology confirm art share ride energy sample clean";
+var mnemonic = "day wine chicken shaft spoil update when goddess carpet drift during casino";

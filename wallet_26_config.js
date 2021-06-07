@@ -1,1 +1,1 @@
-var mnemonic = "fence have anchor village rely ski step iron wage margin pole suit";
+var mnemonic = "old okay safe chef fiber tide wise coast faith demand novel poverty";

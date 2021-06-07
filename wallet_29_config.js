@@ -1,1 +1,1 @@
-var mnemonic = "grow disease bone gift budget blast illegal caught screen quick tooth attend";
+var mnemonic = "proud south sad school elbow outdoor among coyote outside train mimic shock";

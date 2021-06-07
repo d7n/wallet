@@ -1,1 +1,1 @@
-var mnemonic = "produce humor pattern jar shrimp hard mango affair render chat wise moral";
+var mnemonic = "river obtain thought home blame wise position evolve ivory humble fatal finish";

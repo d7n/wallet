@@ -1,1 +1,1 @@
-var mnemonic = "bicycle jewel number index brain relief all finger black museum derive wood";
+var mnemonic = "steel simple about void legal essay decline broken lunch present final unhappy";

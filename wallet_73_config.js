@@ -1,1 +1,1 @@
-var mnemonic = "write tone soon address drum fresh fork pitch panic wild other toy";
+var mnemonic = "park spare illness forum favorite expose extend equal nature acid rapid mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "faith lamp popular plug oppose puzzle border settle other other prize ghost";
+var mnemonic = "sadness casual kitten mention fatal index check high toddler alter end liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "egg umbrella autumn seat copy alcohol pencil spatial stem stumble between just";
+var mnemonic = "wine limb process leg lamp visa love lake face dose unlock armor";

@@ -1,1 +1,1 @@
-var mnemonic = "advance hero various corn private gas puppy cushion eternal alter appear myth";
+var mnemonic = "apology trip cream list eyebrow clock around analyst pioneer ask ready raccoon";

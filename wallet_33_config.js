@@ -1,1 +1,1 @@
-var mnemonic = "weasel learn art visual foil talk share drastic circle video order ticket";
+var mnemonic = "chapter arctic hire expose rain setup six wait injury cake soap sugar";

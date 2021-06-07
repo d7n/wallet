@@ -1,1 +1,1 @@
-var mnemonic = "reduce unfold blame loan urban room school merry pipe excess addict love";
+var mnemonic = "aim fancy total subject junk upper fringe easily island weather antique master";

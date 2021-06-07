@@ -1,1 +1,1 @@
-var mnemonic = "tell target endorse inch kangaroo history donkey junior hockey filter obvious hour";
+var mnemonic = "race jar valid buddy burger notable eyebrow oil purchase sauce tackle match";

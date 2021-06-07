@@ -1,1 +1,1 @@
-var mnemonic = "twelve fuel head blue gym reduce salmon glare cushion around enemy shuffle";
+var mnemonic = "voyage motor cable drop plate club brush sadness slide crowd manual today";

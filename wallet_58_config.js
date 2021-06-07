@@ -1,1 +1,1 @@
-var mnemonic = "pattern wagon village assist van net soup injury imitate hybrid senior chair";
+var mnemonic = "verb lyrics walnut caution settle genre assume jazz curtain resist citizen grain";

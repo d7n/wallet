@@ -1,1 +1,1 @@
-var mnemonic = "smooth limb sight purpose ramp buzz age credit nuclear have car romance";
+var mnemonic = "plug bundle course trap text surround ginger buzz note match again kidney";

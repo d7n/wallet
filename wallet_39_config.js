@@ -1,1 +1,1 @@
-var mnemonic = "rebuild charge dinner ice clog field surface trend matrix curve vocal mutual";
+var mnemonic = "cat behave roof purchase solve device creek catch return march anchor home";

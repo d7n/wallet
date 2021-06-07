@@ -1,1 +1,1 @@
-var mnemonic = "calm main impulse void walk lemon bubble enter primary retire bleak toy";
+var mnemonic = "witness balance scare obtain hole denial need seat amused turtle carbon sand";

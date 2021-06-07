@@ -1,1 +1,1 @@
-var mnemonic = "market little cotton frown arena afraid happy unaware sound ill hurdle pencil";
+var mnemonic = "increase fault pull unit parrot ensure page panda girl harvest crop border";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract reflect embrace decorate fresh stay struggle quantum west west absent cereal";
+var mnemonic = "run bread few course village argue move sound rookie group color unhappy";

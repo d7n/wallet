@@ -1,1 +1,1 @@
-var mnemonic = "middle what year valley various oval melody donor artist dinosaur west bundle";
+var mnemonic = "acoustic clerk eight ceiling below spot toast sudden scrap rally letter across";

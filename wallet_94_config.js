@@ -1,1 +1,1 @@
-var mnemonic = "camera broom sentence fork shoe trouble alter pyramid advice strike reflect wild";
+var mnemonic = "glare make ghost ketchup salmon amount fame decrease marine only thing water";

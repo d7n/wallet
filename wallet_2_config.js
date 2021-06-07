@@ -1,1 +1,1 @@
-var mnemonic = "clinic heavy equal earn risk stool badge similar height found gasp flower";
+var mnemonic = "twice bubble cloud whale innocent diet maple joy vintage woman answer turkey";

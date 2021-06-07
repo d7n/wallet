@@ -1,1 +1,1 @@
-var mnemonic = "rail vessel still brand couple quit cable city crowd pretty elevator crunch";
+var mnemonic = "upon mule digital frown name emerge current patrol cushion dog glue child";

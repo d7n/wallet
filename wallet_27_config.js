@@ -1,1 +1,1 @@
-var mnemonic = "cover fence fish defy half solution debris walnut beauty forward begin opinion";
+var mnemonic = "cave scrub chest nest faculty allow abandon sense truly speak together blade";

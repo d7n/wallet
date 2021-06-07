@@ -1,1 +1,1 @@
-var mnemonic = "illness ordinary opera rather option father frequent example cherry dice birth unhappy";
+var mnemonic = "nest problem survey saddle apple stumble invest oil curious audit loud gate";

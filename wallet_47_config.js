@@ -1,1 +1,1 @@
-var mnemonic = "meadow combine work silk spring alien want record armed blade inside round";
+var mnemonic = "repeat couch vacant bind search hub near hat coyote twist clap bundle";

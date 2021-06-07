@@ -1,1 +1,1 @@
-var mnemonic = "diet depart animal answer eager impact modify choice deposit travel soap wool";
+var mnemonic = "nature recipe clinic vapor fiscal kangaroo price master verify donor orphan ranch";

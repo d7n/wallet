@@ -1,1 +1,1 @@
-var mnemonic = "unknown soccer tattoo giraffe foster woman amazing tower bright finish topic trial";
+var mnemonic = "resemble cereal foot ignore prosper awkward notable that position focus garbage negative";

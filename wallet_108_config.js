@@ -1,1 +1,1 @@
-var mnemonic = "intact hamster rain action spin wonder angry olive next imitate chicken raise";
+var mnemonic = "radar kitchen economy cricket panther novel issue face planet predict else civil";

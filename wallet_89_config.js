@@ -1,1 +1,1 @@
-var mnemonic = "employ ensure cake amount defense large never cram digital faculty gravity super";
+var mnemonic = "diary funny logic early recipe adjust smile apart scorpion street decrease rookie";

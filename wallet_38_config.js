@@ -1,1 +1,1 @@
-var mnemonic = "bamboo suspect height good mystery eyebrow pact toss upgrade faculty wonder great";
+var mnemonic = "crime piece task party candy swarm observe security indoor butter elegant near";

@@ -1,1 +1,1 @@
-var mnemonic = "limb borrow settle order spirit improve car invite razor cruel arrive juice";
+var mnemonic = "unfair earth cart margin replace shrimp clown lab deal pitch chest arm";

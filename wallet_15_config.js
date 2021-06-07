@@ -1,1 +1,1 @@
-var mnemonic = "glue bless bus staff earth pill system farm about drill whale naive";
+var mnemonic = "floor sing nominee punch broom snack vast say farm gadget frown december";

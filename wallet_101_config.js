@@ -1,1 +1,1 @@
-var mnemonic = "spell divert rebuild novel fun puppy empower control define crime orbit oblige";
+var mnemonic = "two agree club gorilla wet guide extend awful bomb popular account trash";

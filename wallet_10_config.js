@@ -1,1 +1,1 @@
-var mnemonic = "social gather magic alley erode nominee icon dose miss shock dismiss alter";
+var mnemonic = "siege disagree present pride narrow captain voice wish autumn evidence guide bag";

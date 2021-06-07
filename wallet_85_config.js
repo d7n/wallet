@@ -1,1 +1,1 @@
-var mnemonic = "banner cliff suffer brave monkey kiss physical cloud lonely street hazard mango";
+var mnemonic = "remain juice clerk game guess rice mechanic indicate drink life someone kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "roast cross friend song outdoor emerge alone neither second hello inject devote";
+var mnemonic = "timber south inner medal lazy code cradle mercy excuse bone release news";

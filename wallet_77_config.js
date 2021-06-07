@@ -1,1 +1,1 @@
-var mnemonic = "keen thrive version proud glad change recall gravity balance expand seminar boring";
+var mnemonic = "uncover bind pulse beyond surge release virtual figure brisk unaware solid ankle";

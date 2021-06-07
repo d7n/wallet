@@ -1,1 +1,1 @@
-var mnemonic = "response forget surprise consider coin pull kangaroo since leave net such provide";
+var mnemonic = "tobacco stage offer desert cannon blue alien move admit observe coil home";

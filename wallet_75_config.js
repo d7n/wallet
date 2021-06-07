@@ -1,1 +1,1 @@
-var mnemonic = "cigar lizard bundle water rural document later main decline service phone parade";
+var mnemonic = "bean anger stereo whisper nephew ketchup clog excite orchard vehicle kitten crop";

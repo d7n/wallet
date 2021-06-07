@@ -1,1 +1,1 @@
-var mnemonic = "grab also column word post turn copy gun husband spell dolphin title";
+var mnemonic = "chuckle gloom mammal input donate admit fragile adjust quiz shell ceiling balance";

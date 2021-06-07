@@ -1,1 +1,1 @@
-var mnemonic = "weather endorse milk stock defy august lazy priority green truck wear cotton";
+var mnemonic = "catch taste assume swing bike remain vast glide mystery mix phone goat";

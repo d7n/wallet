@@ -1,1 +1,1 @@
-var mnemonic = "rival humor ill slight later earn clarify range fault myself enough lesson";
+var mnemonic = "phone daughter fault extra text fly setup average submit mask volcano bunker";

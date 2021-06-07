@@ -1,1 +1,1 @@
-var mnemonic = "direct they ill tiny sad deputy coffee chimney brass blind actress either";
+var mnemonic = "volcano divide occur element give tobacco day mixture bundle diagram screen bonus";

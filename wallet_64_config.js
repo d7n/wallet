@@ -1,1 +1,1 @@
-var mnemonic = "iron coil hungry normal bird ability twist actor afraid bamboo barely slight";
+var mnemonic = "report dust angle execute property moment rib improve unhappy ride october uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger mercy pumpkin approve quick mystery job disagree company sniff planet squeeze";
+var mnemonic = "course regret drift innocent claim ask mind shoulder either dish wonder quarter";

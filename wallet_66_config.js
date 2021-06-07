@@ -1,1 +1,1 @@
-var mnemonic = "hold mixed rapid ordinary burst slim enroll cash train worth call zero";
+var mnemonic = "certain obtain angle upset jaguar trouble rely stairs liberty cargo chat sort";

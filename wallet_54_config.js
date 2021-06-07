@@ -1,1 +1,1 @@
-var mnemonic = "gap fashion crack camera high stay great custom grid nation soon jump";
+var mnemonic = "strategy lottery episode mule explain entire town mandate discover click perfect major";

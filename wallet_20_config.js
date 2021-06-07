@@ -1,1 +1,1 @@
-var mnemonic = "color tag life pitch pledge notable pluck someone alert control spy dry";
+var mnemonic = "admit table visit canvas average mask zebra caution turn umbrella ask burst";

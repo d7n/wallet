@@ -1,1 +1,1 @@
-var mnemonic = "neck indicate gold hawk card category sunny rescue zoo health picnic error";
+var mnemonic = "fork shrimp hour dry dutch ramp scorpion ecology angry post habit elephant";

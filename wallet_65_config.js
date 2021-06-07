@@ -1,1 +1,1 @@
-var mnemonic = "apology seat burger floor short angry shoe napkin short begin indoor hospital";
+var mnemonic = "witness hand alone buyer razor design color often must bubble stand grit";

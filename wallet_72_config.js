@@ -1,1 +1,1 @@
-var mnemonic = "spread blood candy duck slim dust bind topic anchor multiply kangaroo earn";
+var mnemonic = "ridge toss connect desk goddess chaos rely staff fire wrap coral veteran";

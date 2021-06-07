@@ -1,1 +1,1 @@
-var mnemonic = "ill later flock blossom slush planet tell noise film setup fresh thought";
+var mnemonic = "palace start enable source female rebuild steel place couple innocent wolf lake";

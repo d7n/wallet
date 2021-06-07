@@ -1,1 +1,1 @@
-var mnemonic = "promote wreck panther stand stamp front sister shallow total supply label provide";
+var mnemonic = "female pretty plug blood vote rural scene mirror will fine stairs search";

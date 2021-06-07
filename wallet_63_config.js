@@ -1,1 +1,1 @@
-var mnemonic = "clean print agent domain select battle rocket naive humble predict carry rough";
+var mnemonic = "proud harvest memory session east move alter talk security mom turkey author";

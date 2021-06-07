@@ -1,1 +1,1 @@
-var mnemonic = "road control eagle oval lunar detect regular foster surge onion desk frost";
+var mnemonic = "insect wagon hire track story priority check dove shoe pelican romance refuse";

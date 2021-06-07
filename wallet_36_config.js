@@ -1,1 +1,1 @@
-var mnemonic = "drastic theory economy island maximum cliff vibrant couple head comic dress caught";
+var mnemonic = "shed movie sausage ball maid inherit consider video host wood shrimp vendor";

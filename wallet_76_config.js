@@ -1,1 +1,1 @@
-var mnemonic = "beach glass inform deny badge month strong senior around cheap target similar";
+var mnemonic = "level differ effort divide sight random warrior dose arrest render baby alert";

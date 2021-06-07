@@ -1,1 +1,1 @@
-var mnemonic = "any sample six figure theory blood filter silent coral also dad crystal";
+var mnemonic = "phone average august robot attack level metal garage boost atom hard kangaroo";

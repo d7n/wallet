@@ -1,1 +1,1 @@
-var mnemonic = "fold goddess husband weird owner inside raccoon impulse crucial prepare airport nose";
+var mnemonic = "dynamic buddy analyst mimic where sell pond ball maze peanut custom twist";

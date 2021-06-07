@@ -1,1 +1,1 @@
-var mnemonic = "mass gauge aim pact snow grab collect cycle tissue resource address embrace";
+var mnemonic = "weasel clinic height undo lunch crowd merge away diagram chicken primary alert";

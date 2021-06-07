@@ -1,1 +1,1 @@
-var mnemonic = "finger elephant scare person outdoor settle pizza refuse promote delay bone attack";
+var mnemonic = "abuse bomb reduce market rookie army honey theme reward special sugar tent";

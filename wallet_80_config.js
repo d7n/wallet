@@ -1,1 +1,1 @@
-var mnemonic = "chapter ostrich reveal soup grief fresh jazz solid gauge demise canvas normal";
+var mnemonic = "jazz require frozen dad pink say blush only shy fire click mushroom";

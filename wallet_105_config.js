@@ -1,1 +1,1 @@
-var mnemonic = "cart globe gaze achieve pattern cost sheriff duty wink fragile talent tonight";
+var mnemonic = "wreck surface patient area egg board hold visa trim twenty club asthma";

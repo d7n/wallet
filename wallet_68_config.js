@@ -1,1 +1,1 @@
-var mnemonic = "light evidence blur verb acquire paddle damage tuna rescue project bundle truly";
+var mnemonic = "anxiety cave resemble table flash man disorder velvet rotate motion found elder";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow distance hour sight vendor trumpet easily near junior meadow flat boil";
+var mnemonic = "similar diary note degree stock balcony announce major liberty update hen depth";

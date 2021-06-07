@@ -1,1 +1,1 @@
-var mnemonic = "curve panther step various crush jazz rescue banner behind aunt olympic arrest";
+var mnemonic = "clutch install stereo trip area ride bitter electric height excess planet true";

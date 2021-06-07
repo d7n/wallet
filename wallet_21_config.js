@@ -1,1 +1,1 @@
-var mnemonic = "camp prosper text myself clerk village thank scene captain same patient math";
+var mnemonic = "reopen cliff minute near category giant violin bitter journey essay pluck glide";

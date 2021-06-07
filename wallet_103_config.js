@@ -1,1 +1,1 @@
-var mnemonic = "soldier retreat puzzle vintage nurse key indoor spare distance field private adult";
+var mnemonic = "dentist measure benefit display roof believe appear hospital problem record trade vehicle";

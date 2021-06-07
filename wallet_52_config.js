@@ -1,1 +1,1 @@
-var mnemonic = "fix sound neither peace high march travel staff pen angle disorder doll";
+var mnemonic = "true twice multiply defense canyon zebra young fiscal dust salmon enable humor";

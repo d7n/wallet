@@ -1,1 +1,1 @@
-var mnemonic = "vast sell stadium destroy unit unlock width address client slogan draw dutch";
+var mnemonic = "route thrive matrix dawn bridge scheme health urge coil embody eternal use";

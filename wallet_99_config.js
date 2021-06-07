@@ -1,1 +1,1 @@
-var mnemonic = "shock seminar pitch oyster frozen supreme weasel rough raw ticket amused lock";
+var mnemonic = "magnet emotion naive destroy flash else capital quiz social hotel name tank";

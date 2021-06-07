@@ -1,1 +1,1 @@
-var mnemonic = "expire balance twelve boost curious wolf solve hub input input chaos into";
+var mnemonic = "million photo improve mosquito fortune vital attack style century member cluster leave";

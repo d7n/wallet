@@ -1,1 +1,1 @@
-var mnemonic = "extend course human pyramid long fortune main weasel mobile improve mirror wish";
+var mnemonic = "interest acquire local soccer tourist twelve blood height sustain palm evil humor";

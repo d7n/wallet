@@ -1,1 +1,1 @@
-var mnemonic = "fringe push nurse buzz describe volcano arrow angry aerobic start genuine lobster";
+var mnemonic = "sound sad monkey donor sample sense round vital define shaft swim noise";

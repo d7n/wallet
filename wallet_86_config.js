@@ -1,1 +1,1 @@
-var mnemonic = "vast seed token clump prepare fence lion ancient combine man fall gain";
+var mnemonic = "spring define warrior anchor rare like wheat vanish child frozen anger tree";

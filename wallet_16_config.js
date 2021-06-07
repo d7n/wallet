@@ -1,1 +1,1 @@
-var mnemonic = "bubble worth control flame slide parade federal danger deal supply gauge able";
+var mnemonic = "feel check jelly typical festival actress virtual liar end code tumble vintage";

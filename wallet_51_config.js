@@ -1,1 +1,1 @@
-var mnemonic = "cheese mail leopard oval gauge coast dirt velvet pepper job purity tongue";
+var mnemonic = "timber public obvious lonely olive again unfold timber talk proof moon custom";

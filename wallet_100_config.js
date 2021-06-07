@@ -1,1 +1,1 @@
-var mnemonic = "tired want odor lunar height dad blame device art ill program ready";
+var mnemonic = "hospital able renew dance dinosaur era mad salt park place gift slush";

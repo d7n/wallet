@@ -1,1 +1,1 @@
-var mnemonic = "truly glue match vivid chest cover exotic another tomorrow false choice normal";
+var mnemonic = "suggest setup dutch damp danger math keen urge tower donkey radio girl";

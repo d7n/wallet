@@ -1,1 +1,1 @@
-var mnemonic = "response typical ski zebra hole boy monster oblige top live sponsor door";
+var mnemonic = "update hill okay admit bench hazard volcano current motor chat edge canvas";

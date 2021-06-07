@@ -1,1 +1,1 @@
-var mnemonic = "expire praise brave symptom proof meat castle into disease street sock attend";
+var mnemonic = "master student rib worth decade orbit beauty nominee giggle tag primary chalk";
