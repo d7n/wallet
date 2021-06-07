@@ -1,1 +1,1 @@
-var mnemonic = "balcony draft diary kangaroo echo then annual wall artist used motion estate";
+var mnemonic = "differ frequent twelve must speak awake mask goddess narrow slim grain frame";

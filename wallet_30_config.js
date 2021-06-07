@@ -1,1 +1,1 @@
-var mnemonic = "stand hollow family matter camp leaf team gaze deposit ring organ quarter";
+var mnemonic = "announce erase lawn raven estate dune perfect egg lemon frame below orange";

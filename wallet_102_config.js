@@ -1,1 +1,1 @@
-var mnemonic = "people replace clever ready vicious enemy bone egg stone cargo kite helmet";
+var mnemonic = "clock flash idea peasant acquire know aim fiction future radar follow derive";

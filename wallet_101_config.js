@@ -1,1 +1,1 @@
-var mnemonic = "manual jar grain enforce live drastic raccoon recipe ignore bitter type chunk";
+var mnemonic = "unfold correct pledge cactus unfold degree diesel account rain bless achieve reform";

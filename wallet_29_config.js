@@ -1,1 +1,1 @@
-var mnemonic = "resemble wrestle must fortune orchard book leader convince series switch method luxury";
+var mnemonic = "surprise board problem grief magic mystery reform similar mistake gentle soldier chunk";

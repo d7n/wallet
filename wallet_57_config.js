@@ -1,1 +1,1 @@
-var mnemonic = "dumb drive glimpse permit unusual tuna shallow cabin kiss lecture aisle bless";
+var mnemonic = "network still surround theme flower frozen fire pave dinosaur range veteran price";

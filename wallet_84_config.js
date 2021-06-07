@@ -1,1 +1,1 @@
-var mnemonic = "hold setup kingdom crystal defense review life clarify fabric kind casual squirrel";
+var mnemonic = "any belt wrestle cactus sail expect slim supreme broom box nest wolf";

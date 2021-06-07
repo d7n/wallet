@@ -1,1 +1,1 @@
-var mnemonic = "prosper client saddle antique champion list chicken festival december appear quantum unveil";
+var mnemonic = "brush rug supreme smooth loyal canoe engage genius icon erosion rhythm left";

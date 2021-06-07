@@ -1,1 +1,1 @@
-var mnemonic = "brand plastic dice mandate easy mule stereo cement clown drama cage diet";
+var mnemonic = "tissue oblige hollow fatal hope record glad crew sight dragon narrow tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "upset escape peanut blue ill trip harvest stick oval foster garment idea";
+var mnemonic = "green peasant arrow nut inherit empower movie winner okay airport mutual math";

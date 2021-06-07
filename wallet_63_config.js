@@ -1,1 +1,1 @@
-var mnemonic = "action illegal belt rich spray stool rough convince path flip pass place";
+var mnemonic = "hire absorb wet input taste domain abstract session reflect repeat vicious noodle";

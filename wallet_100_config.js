@@ -1,1 +1,1 @@
-var mnemonic = "crowd road neglect rug dutch exact gloom another cable future clever base";
+var mnemonic = "invite grain stereo ugly frost certain burst abstract wood acoustic tattoo board";

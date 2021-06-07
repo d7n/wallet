@@ -1,1 +1,1 @@
-var mnemonic = "grow badge brush power maze solar someone open render axis spread short";
+var mnemonic = "welcome orange neutral iron orphan mosquito say cabin crater horn job concert";

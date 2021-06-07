@@ -1,1 +1,1 @@
-var mnemonic = "weasel post because common length mirror unable stock twin moment aspect stadium";
+var mnemonic = "fix wood state caught model sword anchor shiver describe toy above coin";

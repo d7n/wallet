@@ -1,1 +1,1 @@
-var mnemonic = "mix subway canal vocal cotton bleak garlic pudding kick enhance two version";
+var mnemonic = "zoo bomb liquid glow girl emotion front rail nuclear giraffe corn glad";

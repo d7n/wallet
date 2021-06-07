@@ -1,1 +1,1 @@
-var mnemonic = "dynamic stone protect hour derive december taxi slight decorate wine battle crouch";
+var mnemonic = "attract celery tide sing online ethics gaze pattern upset worry tornado culture";

@@ -1,1 +1,1 @@
-var mnemonic = "picture tourist romance fruit bamboo humble scale culture rival canyon blood distance";
+var mnemonic = "dignity scatter tragic legal kid will memory sheriff comic doctor economy video";

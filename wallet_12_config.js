@@ -1,1 +1,1 @@
-var mnemonic = "phrase sadness custom endorse burst system slush affair person wrap eyebrow hope";
+var mnemonic = "skill often moment music report mixture normal story segment buyer visit roof";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber melt chair demand table about wine diamond lawn express correct moon";
+var mnemonic = "margin federal curve inhale party deer unique friend lawn laugh involve clever";

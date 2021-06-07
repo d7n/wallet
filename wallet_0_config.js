@@ -1,1 +1,1 @@
-var mnemonic = "sister catalog aware fiction edge pole lend wasp decrease vehicle captain cross";
+var mnemonic = "youth phone devote around shoot meadow canvas coyote mansion chat nation situate";

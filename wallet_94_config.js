@@ -1,1 +1,1 @@
-var mnemonic = "friend security slogan hammer impulse grow submit want devote blind use tobacco";
+var mnemonic = "hedgehog pumpkin hidden arrive oval decrease river sunset novel sound cost knock";

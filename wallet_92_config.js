@@ -1,1 +1,1 @@
-var mnemonic = "sample distance post album dinner have lend scatter novel elder relax start";
+var mnemonic = "acquire party fire this escape cushion chunk sand crop just finish medal";

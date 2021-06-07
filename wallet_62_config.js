@@ -1,1 +1,1 @@
-var mnemonic = "aunt nice happy joke exotic inflict opera knee error define army alley";
+var mnemonic = "mad amazing surprise never coconut journey network endless rather grow hub palm";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal vicious much mouse inhale cheese unusual security suit explain buyer until";
+var mnemonic = "write extend champion luxury tumble arrest steel gossip pen move walk neither";

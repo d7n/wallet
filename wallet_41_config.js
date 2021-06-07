@@ -1,1 +1,1 @@
-var mnemonic = "replace regret exile practice father runway friend home crane mean lesson wild";
+var mnemonic = "wish ozone pink hedgehog citizen mix mirror gauge exclude try also travel";

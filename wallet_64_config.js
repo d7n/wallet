@@ -1,1 +1,1 @@
-var mnemonic = "rotate claw volcano ensure teach art first vacuum wealth nasty expose world";
+var mnemonic = "close lazy bike enemy brush want favorite monitor antique win brown shift";

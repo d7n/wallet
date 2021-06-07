@@ -1,1 +1,1 @@
-var mnemonic = "million pact danger hand insane scatter garage slow oyster tuition carpet original";
+var mnemonic = "year letter odor cave cool toward once hobby lucky pact shiver feel";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst dirt gospel vast napkin intact bonus giggle razor twist race element";
+var mnemonic = "horn civil field false drift essence suit pigeon foil park exhaust rookie";

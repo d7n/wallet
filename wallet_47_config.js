@@ -1,1 +1,1 @@
-var mnemonic = "spy pudding pact glove monkey bench wide jewel frozen leisure impose judge";
+var mnemonic = "gravity wide color foster bamboo mystery entry faint tongue proud worry wrong";

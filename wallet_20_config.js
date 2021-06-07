@@ -1,1 +1,1 @@
-var mnemonic = "cram demise since neutral swing fiber globe suffer alien imitate today sniff";
+var mnemonic = "wait mother moment wealth drama ice climb drift modify deny burger silly";

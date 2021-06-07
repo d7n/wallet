@@ -1,1 +1,1 @@
-var mnemonic = "pair razor album pigeon physical summer asthma grow wild chase combine isolate";
+var mnemonic = "glue patient cup fault best borrow melt area avocado program involve sunset";

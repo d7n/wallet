@@ -1,1 +1,1 @@
-var mnemonic = "saddle later fiscal mirror admit theme ring another neck inner banana mix";
+var mnemonic = "online retire exchange evolve real impose disease annual merit girl grain envelope";

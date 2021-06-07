@@ -1,1 +1,1 @@
-var mnemonic = "basic sound aspect secret toddler salt ring side rescue nose idea paddle";
+var mnemonic = "annual ethics daring return original weird vendor clever lizard erase novel sad";

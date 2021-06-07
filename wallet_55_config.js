@@ -1,1 +1,1 @@
-var mnemonic = "job remind vicious discover tool enrich cloth shed change air glad gasp";
+var mnemonic = "fuel famous profit oval glory rough brother promote curious voice boss romance";

@@ -1,1 +1,1 @@
-var mnemonic = "hen gift uniform critic cannon between track kit nut equal balance inform";
+var mnemonic = "moment story attack insane humble label shoot major elevator boil post river";

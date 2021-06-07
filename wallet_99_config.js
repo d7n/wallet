@@ -1,1 +1,1 @@
-var mnemonic = "aisle level scatter stamp sick ketchup grief nerve heavy excite rally boost";
+var mnemonic = "able style afraid swarm steel oval click pond addict exhaust amazing enrich";

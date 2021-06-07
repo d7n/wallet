@@ -1,1 +1,1 @@
-var mnemonic = "topic trip peasant fossil state rug half use advance pupil swift violin";
+var mnemonic = "forest mix input stool off average great soap space click glove action";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair broom receive candy canyon poverty giant lock rural glory slab beef";
+var mnemonic = "consider amount slam setup drama leaf shy tomorrow mesh country analyst strong";

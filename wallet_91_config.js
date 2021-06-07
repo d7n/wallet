@@ -1,1 +1,1 @@
-var mnemonic = "sausage story surge stick timber interest maid ozone wage stairs lava visa";
+var mnemonic = "afford live nurse echo web lounge pencil put course health april orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "kind kite near crush dune dwarf earth lumber velvet smooth eternal glory";
+var mnemonic = "vacuum index stage female amateur siege dove apple entry mom bacon true";

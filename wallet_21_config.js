@@ -1,1 +1,1 @@
-var mnemonic = "novel guilt oyster giraffe act lucky catalog brush just pipe load tattoo";
+var mnemonic = "fat odor dignity work voyage dynamic decorate shoot cancel chase body right";

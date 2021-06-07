@@ -1,1 +1,1 @@
-var mnemonic = "enter bridge friend van party planet huge salute below orange predict amateur";
+var mnemonic = "income network clap claw base edit ginger peasant vocal mandate day maze";

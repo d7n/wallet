@@ -1,1 +1,1 @@
-var mnemonic = "zero fat buzz rocket easy hybrid forget metal plunge pioneer parent atom";
+var mnemonic = "river suspect athlete resource option canvas spike thrive unveil cause pill gain";

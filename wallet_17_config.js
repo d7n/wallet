@@ -1,1 +1,1 @@
-var mnemonic = "equip holiday segment suffer way sorry elder rapid vessel salute danger dynamic";
+var mnemonic = "sword flash sail manage tiny coconut edge valid empower asthma bullet april";

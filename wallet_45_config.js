@@ -1,1 +1,1 @@
-var mnemonic = "bonus exercise fault bulk dinosaur empower oppose refuse advice joy skull warrior";
+var mnemonic = "because critic super stomach diary salad blast crouch slogan expose rookie glue";

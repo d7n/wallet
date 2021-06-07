@@ -1,1 +1,1 @@
-var mnemonic = "what ensure topic taxi area still just tennis sauce rigid spatial enact";
+var mnemonic = "judge double grass pair disorder polar element laundry mail thumb truck noble";

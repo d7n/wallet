@@ -1,1 +1,1 @@
-var mnemonic = "prosper solution observe awake salon easily retreat hour shell suspect junior congress";
+var mnemonic = "unit soda mutual gorilla other blanket nephew gorilla vicious cabbage clinic stool";

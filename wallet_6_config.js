@@ -1,1 +1,1 @@
-var mnemonic = "box hip upper mansion uncle actress wild abandon leg travel orchard fine";
+var mnemonic = "surprise dignity retire own romance mango imitate crew primary reduce else honey";

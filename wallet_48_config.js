@@ -1,1 +1,1 @@
-var mnemonic = "post plunge path current cactus around scrap fade pool palm mesh slender";
+var mnemonic = "raccoon vintage adapt labor shoot figure educate invest calm bulk awful flush";

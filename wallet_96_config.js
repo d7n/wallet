@@ -1,1 +1,1 @@
-var mnemonic = "argue bleak ability milk all ethics reduce will auction young deputy broom";
+var mnemonic = "roast memory amazing flip town stuff fiber rack east purpose carpet menu";

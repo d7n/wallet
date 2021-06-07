@@ -1,1 +1,1 @@
-var mnemonic = "guess autumn wrong pig whisper prosper camp asthma hard planet rifle viable";
+var mnemonic = "simple tired kit region almost razor merit palm soon object slam pear";

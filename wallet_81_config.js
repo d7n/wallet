@@ -1,1 +1,1 @@
-var mnemonic = "into achieve else jacket door warm mean nurse alone reunion circle opera";
+var mnemonic = "weird cannon live spare observe angle exhibit broccoli hurt sketch dust slice";

@@ -1,1 +1,1 @@
-var mnemonic = "pear begin crime minimum file grid wasp antique scorpion today moment city";
+var mnemonic = "margin glad omit canyon valve response coffee gasp sad door unit orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition dog resemble finger ancient bubble fatigue sad fault genre very turkey";
+var mnemonic = "huge mountain wrestle foot father dad satoshi elbow green chuckle lonely evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran history tank silent forest language curious write solve rigid turkey wink";
+var mnemonic = "ten adjust car scatter choice project joke surge road van giant suit";

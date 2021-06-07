@@ -1,1 +1,1 @@
-var mnemonic = "approve time ski remain shy property silk usage amount grain flame include";
+var mnemonic = "mule quote embody soldier spot fine regular very execute fork stick enough";

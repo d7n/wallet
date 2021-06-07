@@ -1,1 +1,1 @@
-var mnemonic = "antique tongue city vehicle topic arrest law that kidney rent build federal";
+var mnemonic = "object normal text cross team decrease mutual diesel dwarf taxi delay much";

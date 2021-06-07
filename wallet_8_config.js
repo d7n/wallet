@@ -1,1 +1,1 @@
-var mnemonic = "gun reason museum multiply apple elegant magnet destroy weapon rubber practice between";
+var mnemonic = "radar pave layer evidence forest session virtual eight faculty blame april solar";

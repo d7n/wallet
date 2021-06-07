@@ -1,1 +1,1 @@
-var mnemonic = "exclude jump velvet enter defense present marriage accident bunker injury anchor spin";
+var mnemonic = "enough under grunt motor rifle wide essence repair cup vital dinner very";

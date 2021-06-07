@@ -1,1 +1,1 @@
-var mnemonic = "miss seek search prize ensure lake funny cereal journey minute puzzle hollow";
+var mnemonic = "siren margin net manual pony able poet hurdle parent ahead twelve come";

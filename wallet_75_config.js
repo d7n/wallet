@@ -1,1 +1,1 @@
-var mnemonic = "wedding wink brand web spawn window permit squeeze destroy chest horror lake";
+var mnemonic = "stamp cube loud gesture divide bleak monster element tiny sail depart oven";

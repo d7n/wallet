@@ -1,1 +1,1 @@
-var mnemonic = "inhale movie today saddle viable theme belt column wall neither wolf drift";
+var mnemonic = "sand mistake funny original save cushion alter check endless wedding group kitchen";

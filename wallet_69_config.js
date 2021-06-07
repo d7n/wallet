@@ -1,1 +1,1 @@
-var mnemonic = "leaf forum upon gesture echo skate gap sleep knock oppose zebra dose";
+var mnemonic = "goat ladder hedgehog old bulk walk voyage symptom glide couple fit swift";

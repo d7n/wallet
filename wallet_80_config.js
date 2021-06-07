@@ -1,1 +1,1 @@
-var mnemonic = "universe embrace aware distance sausage milk eye sustain chaos soccer lazy gospel";
+var mnemonic = "frozen gossip outer tennis sell enough achieve noodle route chest nose chimney";

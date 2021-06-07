@@ -1,1 +1,1 @@
-var mnemonic = "average coffee tackle drastic physical increase useless file can hotel aerobic youth";
+var mnemonic = "picture emerge hour smile accident ankle faculty kite modify royal nature piano";

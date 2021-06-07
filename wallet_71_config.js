@@ -1,1 +1,1 @@
-var mnemonic = "ripple security card bright again fan exhibit ghost uphold deny galaxy success";
+var mnemonic = "demand news pretty bracket romance adjust era crane okay bundle arena rocket";

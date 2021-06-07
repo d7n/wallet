@@ -1,1 +1,1 @@
-var mnemonic = "multiply mansion enemy slab sentence dust horror typical unknown conduct wreck raw";
+var mnemonic = "stock often subject please nuclear usual illegal retreat curve blur gym income";

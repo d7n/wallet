@@ -1,1 +1,1 @@
-var mnemonic = "six crumble oak leaf session another cave gym afraid horror canvas skin";
+var mnemonic = "potato palace cinnamon decorate foot oval spell face garden true dolphin tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "loop unfold fly bean cake biology remain van off deny step limit";
+var mnemonic = "common stamp cry surface bridge couple bind reduce police kiwi perfect dinosaur";

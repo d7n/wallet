@@ -1,1 +1,1 @@
-var mnemonic = "force around blouse excite runway effort crucial stock volume junior weird reward";
+var mnemonic = "attitude describe coast nation cross route define silent soft fiction wife knee";

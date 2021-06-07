@@ -1,1 +1,1 @@
-var mnemonic = "diamond kitchen pet garden juice type cube soup casual blind hazard labor";
+var mnemonic = "insane long hundred supreme hair surge critic enter abstract dad bullet junk";

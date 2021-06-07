@@ -1,1 +1,1 @@
-var mnemonic = "skirt sport basket afford awful indicate forward balance harvest course intact diet";
+var mnemonic = "little real obvious style repeat nephew simple vapor scorpion setup stamp pepper";

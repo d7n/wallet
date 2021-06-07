@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit sudden broccoli wine decline vehicle enforce shove grain trim dune crunch";
+var mnemonic = "dry chest violin more stable fetch rent letter buffalo logic cute hello";

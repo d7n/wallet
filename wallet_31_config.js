@@ -1,1 +1,1 @@
-var mnemonic = "animal spoon grass pitch convince drip mail fun clap useless amateur carry";
+var mnemonic = "science jaguar perfect satoshi stand benefit soul sea wire nation wolf crumble";

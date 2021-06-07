@@ -1,1 +1,1 @@
-var mnemonic = "legend flash trade face creek scan glue slush owner wink diesel rebel";
+var mnemonic = "able trade custom pistol ship invite dragon way method version twice valley";

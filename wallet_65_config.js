@@ -1,1 +1,1 @@
-var mnemonic = "zero blur panic destroy casino stool wood believe legal tornado winner time";
+var mnemonic = "boil where royal truck advice level divide false chapter crunch above asthma";

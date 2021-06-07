@@ -1,1 +1,1 @@
-var mnemonic = "verb chat rookie mimic figure fatal name twice neither napkin palm pottery";
+var mnemonic = "knock shell category turn crucial attend ivory purpose sniff layer video much";

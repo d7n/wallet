@@ -1,1 +1,1 @@
-var mnemonic = "cube sock gun humble female piano business kit stamp animal abuse essay";
+var mnemonic = "version fetch purity traffic swallow interest unit artefact secret nation kind whip";

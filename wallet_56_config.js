@@ -1,1 +1,1 @@
-var mnemonic = "eight gold win enlist divorce express summer announce injury stem churn ostrich";
+var mnemonic = "wolf bundle glove siege coast peasant prefer author hard jelly road arm";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor million light attract quality miracle lady seminar bring hub bright hat";
+var mnemonic = "ski abandon purse arctic about kiwi tonight timber vibrant hat hundred mystery";

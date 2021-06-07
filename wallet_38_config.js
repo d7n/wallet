@@ -1,1 +1,1 @@
-var mnemonic = "reduce carbon van under purse taste seven split warrior slight idea until";
+var mnemonic = "box economy skill enact filter advice teach expose hard cart pyramid nest";

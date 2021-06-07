@@ -1,1 +1,1 @@
-var mnemonic = "sense wall pig cover theme spice climb voice pond orbit hip dolphin";
+var mnemonic = "sponsor grain infant leaf enough next elegant window exhaust kick stairs trumpet";

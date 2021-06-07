@@ -1,1 +1,1 @@
-var mnemonic = "toe hybrid forest soon category enroll time produce park rose clerk aerobic";
+var mnemonic = "coconut emotion firm perfect recall warfare viable thing inflict sock weekend patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "viable slab sad trial release destroy fan mistake adult radio brand era";
+var mnemonic = "story warrior sentence old casual april between dry detail pioneer combine dignity";

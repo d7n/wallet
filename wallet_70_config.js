@@ -1,1 +1,1 @@
-var mnemonic = "benefit library walk room riot hello disagree ginger wine swap kind wait";
+var mnemonic = "aspect perfect issue scheme essay hen shiver faculty snack city flight decide";

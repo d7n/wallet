@@ -1,1 +1,1 @@
-var mnemonic = "poem squirrel taxi glare ribbon manual often usage winner movie tongue ignore";
+var mnemonic = "summer current mesh tenant hidden wagon payment deer ordinary glass cost margin";

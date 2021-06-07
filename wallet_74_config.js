@@ -1,1 +1,1 @@
-var mnemonic = "donkey satoshi absent eyebrow topple cliff change spot perfect okay animal admit";
+var mnemonic = "column alert nephew food hazard reject reward parade observe fault end rice";

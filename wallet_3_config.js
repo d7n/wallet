@@ -1,1 +1,1 @@
-var mnemonic = "fold source bike clinic pear curve joke soon actual search cross chest";
+var mnemonic = "toe kiwi base divorce duty fall crunch agent ride zoo ridge toe";

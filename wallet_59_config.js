@@ -1,1 +1,1 @@
-var mnemonic = "grit like record glove screen delay update tank around blade grid use";
+var mnemonic = "subject mystery crisp employ grunt connect pulp such give prison steel forum";

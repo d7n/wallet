@@ -1,1 +1,1 @@
-var mnemonic = "hint twenty nice essay ride click welcome tool wide marble ahead okay";
+var mnemonic = "bullet exclude stool student check gas render attitude local peanut route volume";

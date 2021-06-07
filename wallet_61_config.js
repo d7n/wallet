@@ -1,1 +1,1 @@
-var mnemonic = "measure alarm aisle load field income festival artist build girl garage fall";
+var mnemonic = "income hill spend odor sample real alien force shallow prize evidence keen";

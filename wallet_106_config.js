@@ -1,1 +1,1 @@
-var mnemonic = "wild noble immense slide race sample wasp write calm kangaroo number logic";
+var mnemonic = "fury empower taste alert nuclear blast chalk punch payment balcony pistol leader";

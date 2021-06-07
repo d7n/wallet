@@ -1,1 +1,1 @@
-var mnemonic = "sick action quantum breeze sphere improve curious pride lion depend canal flip";
+var mnemonic = "fresh chronic acoustic panel head visual bag hen peace hidden chapter immense";

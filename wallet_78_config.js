@@ -1,1 +1,1 @@
-var mnemonic = "ignore recycle peanut drip quality can century sick since van alien spirit";
+var mnemonic = "wish nurse attend idea leaf love slender merge shuffle anxiety next census";

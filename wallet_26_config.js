@@ -1,1 +1,1 @@
-var mnemonic = "shove blush version income theory aerobic turn century large wolf breeze nose";
+var mnemonic = "year typical hazard excess sauce beauty question useful join ring basket program";

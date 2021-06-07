@@ -1,1 +1,1 @@
-var mnemonic = "brother sword father chat fresh flip divorce plastic gown clump glue peace";
+var mnemonic = "wage celery tooth demand text electric once glue decline thank film session";

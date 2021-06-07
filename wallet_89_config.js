@@ -1,1 +1,1 @@
-var mnemonic = "feed venue bracket practice rival letter bargain bulk summer enjoy sort repeat";
+var mnemonic = "wise provide bitter weekend dragon harsh foam tell fragile seat then force";
