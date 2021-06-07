@@ -1,1 +1,1 @@
-var mnemonic = "goat ladder hedgehog old bulk walk voyage symptom glide couple fit swift";
+var mnemonic = "trust unhappy kitchen because height pigeon penalty puppy title credit hammer donor";

@@ -1,1 +1,1 @@
-var mnemonic = "picture emerge hour smile accident ankle faculty kite modify royal nature piano";
+var mnemonic = "crane soccer found multiply give machine camp tower film hybrid ensure deer";

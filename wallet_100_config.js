@@ -1,1 +1,1 @@
-var mnemonic = "invite grain stereo ugly frost certain burst abstract wood acoustic tattoo board";
+var mnemonic = "damp combine suspect type purpose recipe neck vote lawsuit spoon shell asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor grain infant leaf enough next elegant window exhaust kick stairs trumpet";
+var mnemonic = "critic path various melt defy carry poem because dad bundle include jump";

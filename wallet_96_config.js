@@ -1,1 +1,1 @@
-var mnemonic = "roast memory amazing flip town stuff fiber rack east purpose carpet menu";
+var mnemonic = "fit tribe federal merry connect develop scene already benefit vague brief enough";

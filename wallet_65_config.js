@@ -1,1 +1,1 @@
-var mnemonic = "boil where royal truck advice level divide false chapter crunch above asthma";
+var mnemonic = "power retreat keen frog change prepare expand ancient real dad wedding upper";

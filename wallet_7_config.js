@@ -1,1 +1,1 @@
-var mnemonic = "rough short ancient zoo harsh clip defy panel pyramid boss cup account";
+var mnemonic = "absurd inform recipe accident chief pizza winter fire olympic soup install total";

@@ -1,1 +1,1 @@
-var mnemonic = "story warrior sentence old casual april between dry detail pioneer combine dignity";
+var mnemonic = "country slow predict rescue void salt leaf parade father curve pudding cave";

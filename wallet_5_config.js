@@ -1,1 +1,1 @@
-var mnemonic = "moment story attack insane humble label shoot major elevator boil post river";
+var mnemonic = "impact grunt crunch assume weather proof sound volume person whip head device";

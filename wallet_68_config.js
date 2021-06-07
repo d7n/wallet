@@ -1,1 +1,1 @@
-var mnemonic = "wage celery tooth demand text electric once glue decline thank film session";
+var mnemonic = "flat gun plate produce little caution trigger this autumn long outside tumble";

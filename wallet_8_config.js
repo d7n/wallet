@@ -1,1 +1,1 @@
-var mnemonic = "radar pave layer evidence forest session virtual eight faculty blame april solar";
+var mnemonic = "must make federal moment sudden syrup shuffle diary cruel fancy call impulse";

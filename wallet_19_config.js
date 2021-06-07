@@ -1,1 +1,1 @@
-var mnemonic = "consider amount slam setup drama leaf shy tomorrow mesh country analyst strong";
+var mnemonic = "album once mixture toward brush few kiwi lobster entire absorb clock skill";

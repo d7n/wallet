@@ -1,1 +1,1 @@
-var mnemonic = "margin glad omit canyon valve response coffee gasp sad door unit orphan";
+var mnemonic = "inform inch tip all predict skirt long blossom across never found cement";

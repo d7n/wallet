@@ -1,1 +1,1 @@
-var mnemonic = "knock shell category turn crucial attend ivory purpose sniff layer video much";
+var mnemonic = "bring put pig tail wealth chef delay pair noble hint brush more";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo bomb liquid glow girl emotion front rail nuclear giraffe corn glad";
+var mnemonic = "course search enemy furnace peanut skull blue squirrel mountain two tone brother";

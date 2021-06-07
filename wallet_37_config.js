@@ -1,1 +1,1 @@
-var mnemonic = "huge mountain wrestle foot father dad satoshi elbow green chuckle lonely evolve";
+var mnemonic = "credit stool program slice soldier trash indicate chat shine second chase glad";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog pumpkin hidden arrive oval decrease river sunset novel sound cost knock";
+var mnemonic = "display bird mule return together unfold crawl armed exhaust head source copy";

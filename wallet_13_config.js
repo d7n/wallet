@@ -1,1 +1,1 @@
-var mnemonic = "online retire exchange evolve real impose disease annual merit girl grain envelope";
+var mnemonic = "paddle basket chronic private media input upper luggage easy half panel rug";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome orange neutral iron orphan mosquito say cabin crater horn job concert";
+var mnemonic = "swim wall toe guitar clean second rebel tribe school salon scorpion grass";

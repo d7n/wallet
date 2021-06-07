@@ -1,1 +1,1 @@
-var mnemonic = "bullet exclude stool student check gas render attitude local peanut route volume";
+var mnemonic = "friend input decade reform reject nominee night matrix heart very host trick";

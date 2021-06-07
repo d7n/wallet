@@ -1,1 +1,1 @@
-var mnemonic = "stock often subject please nuclear usual illegal retreat curve blur gym income";
+var mnemonic = "undo excite popular foil fat hen yard ivory rabbit stock essay enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon vintage adapt labor shoot figure educate invest calm bulk awful flush";
+var mnemonic = "sunny grant rifle arrive interest junk old culture glide protect true smooth";

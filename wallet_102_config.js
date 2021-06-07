@@ -1,1 +1,1 @@
-var mnemonic = "clock flash idea peasant acquire know aim fiction future radar follow derive";
+var mnemonic = "crisp exotic maple anchor output fatal fork safe sure regular exhaust tomorrow";

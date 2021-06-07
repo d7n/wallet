@@ -1,1 +1,1 @@
-var mnemonic = "diary text notice suspect item item knee salad cost thank gap canvas";
+var mnemonic = "option kind honey inspire gauge excite search print device remain couch place";

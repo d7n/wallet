@@ -1,1 +1,1 @@
-var mnemonic = "horn civil field false drift essence suit pigeon foil park exhaust rookie";
+var mnemonic = "fog shell amused grain poem tennis despair approve detail mansion certain quarter";

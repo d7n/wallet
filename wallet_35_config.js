@@ -1,1 +1,1 @@
-var mnemonic = "sand mistake funny original save cushion alter check endless wedding group kitchen";
+var mnemonic = "melody razor galaxy tortoise juice small metal siege tilt cat news atom";

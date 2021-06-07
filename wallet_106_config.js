@@ -1,1 +1,1 @@
-var mnemonic = "fury empower taste alert nuclear blast chalk punch payment balcony pistol leader";
+var mnemonic = "where narrow list rocket sort trouble fury assault common replace mass mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "organ sister early butter average fix calm system jacket jewel fine talent";
+var mnemonic = "cruise canyon axis faculty into express fine rude october art rebuild athlete";

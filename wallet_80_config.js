@@ -1,1 +1,1 @@
-var mnemonic = "frozen gossip outer tennis sell enough achieve noodle route chest nose chimney";
+var mnemonic = "calm cram spray team hat express season bench evidence pilot sleep foot";

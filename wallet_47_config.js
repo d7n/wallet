@@ -1,1 +1,1 @@
-var mnemonic = "gravity wide color foster bamboo mystery entry faint tongue proud worry wrong";
+var mnemonic = "cube plunge access venture barely often happy install problem blue chair six";

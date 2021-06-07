@@ -1,1 +1,1 @@
-var mnemonic = "common stamp cry surface bridge couple bind reduce police kiwi perfect dinosaur";
+var mnemonic = "turtle wool source toe ginger answer cool depend vague anchor spawn noble";

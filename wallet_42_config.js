@@ -1,1 +1,1 @@
-var mnemonic = "fix wood state caught model sword anchor shiver describe toy above coin";
+var mnemonic = "spoil make indicate vast make forum special source scare federal rack radar";

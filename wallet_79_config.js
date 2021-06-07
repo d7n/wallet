@@ -1,1 +1,1 @@
-var mnemonic = "annual ethics daring return original weird vendor clever lizard erase novel sad";
+var mnemonic = "rabbit seminar theory mandate tool narrow parent obscure cream now valid riot";

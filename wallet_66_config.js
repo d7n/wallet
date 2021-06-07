@@ -1,1 +1,1 @@
-var mnemonic = "vacuum index stage female amateur siege dove apple entry mom bacon true";
+var mnemonic = "fame gas shoulder usual color crater bulb ginger since hand lounge fatal";

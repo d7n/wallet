@@ -1,1 +1,1 @@
-var mnemonic = "science jaguar perfect satoshi stand benefit soul sea wire nation wolf crumble";
+var mnemonic = "spend camp gossip supply robot beef make history wall between brother today";

@@ -1,1 +1,1 @@
-var mnemonic = "able trade custom pistol ship invite dragon way method version twice valley";
+var mnemonic = "deposit expect jungle pupil series butter battle crouch dumb remember stadium shop";

@@ -1,1 +1,1 @@
-var mnemonic = "glue patient cup fault best borrow melt area avocado program involve sunset";
+var mnemonic = "fiber habit leisure seat visual odor myth reduce perfect salute crew game";

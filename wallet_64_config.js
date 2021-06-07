@@ -1,1 +1,1 @@
-var mnemonic = "close lazy bike enemy brush want favorite monitor antique win brown shift";
+var mnemonic = "novel acquire near man congress cave shove address kangaroo lonely turtle dad";

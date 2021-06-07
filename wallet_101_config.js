@@ -1,1 +1,1 @@
-var mnemonic = "unfold correct pledge cactus unfold degree diesel account rain bless achieve reform";
+var mnemonic = "wrestle amateur priority float idle ten weasel chef hole paddle celery vibrant";

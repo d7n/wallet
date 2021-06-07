@@ -1,1 +1,1 @@
-var mnemonic = "object normal text cross team decrease mutual diesel dwarf taxi delay much";
+var mnemonic = "tissue cry reveal ramp girl cage seat wave cluster regular math border";

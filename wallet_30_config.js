@@ -1,1 +1,1 @@
-var mnemonic = "announce erase lawn raven estate dune perfect egg lemon frame below orange";
+var mnemonic = "accident blanket mask sting current crisp citizen saddle salad increase cool air";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise dignity retire own romance mango imitate crew primary reduce else honey";
+var mnemonic = "bacon reflect harsh mind act transfer exhibit minor afraid rabbit traffic weird";

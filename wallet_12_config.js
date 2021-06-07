@@ -1,1 +1,1 @@
-var mnemonic = "skill often moment music report mixture normal story segment buyer visit roof";
+var mnemonic = "goddess glory kitten combine assume code dragon knife churn good lecture dolphin";

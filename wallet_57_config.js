@@ -1,1 +1,1 @@
-var mnemonic = "network still surround theme flower frozen fire pave dinosaur range veteran price";
+var mnemonic = "toe keen front camp twelve vivid suggest note tumble capital cute stone";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel joy scatter trash rude suspect canyon humor fall infant egg option";
+var mnemonic = "barely gloom donate device asthma creek rhythm property adult vacuum there winner";

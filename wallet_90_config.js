@@ -1,1 +1,1 @@
-var mnemonic = "green peasant arrow nut inherit empower movie winner okay airport mutual math";
+var mnemonic = "number dial fee fruit crazy provide tiny moon mandate address renew sword";

@@ -1,1 +1,1 @@
-var mnemonic = "little real obvious style repeat nephew simple vapor scorpion setup stamp pepper";
+var mnemonic = "certain ketchup funny toy sustain final entire worth match two talk grace";

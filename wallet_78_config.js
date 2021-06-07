@@ -1,1 +1,1 @@
-var mnemonic = "wish nurse attend idea leaf love slender merge shuffle anxiety next census";
+var mnemonic = "canyon fit meadow lens height voyage sight cost diary festival rifle feel";

@@ -1,1 +1,1 @@
-var mnemonic = "sword flash sail manage tiny coconut edge valid empower asthma bullet april";
+var mnemonic = "glimpse shine pig response loyal waste pulse travel unusual bounce swap code";

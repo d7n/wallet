@@ -1,1 +1,1 @@
-var mnemonic = "forest mix input stool off average great soap space click glove action";
+var mnemonic = "conduct brain wife waste atom good toward strategy leopard salute judge project";

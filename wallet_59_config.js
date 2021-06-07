@@ -1,1 +1,1 @@
-var mnemonic = "subject mystery crisp employ grunt connect pulp such give prison steel forum";
+var mnemonic = "simple soap million drill cinnamon trouble book hood label tray cram patient";

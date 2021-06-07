@@ -1,1 +1,1 @@
-var mnemonic = "attract celery tide sing online ethics gaze pattern upset worry tornado culture";
+var mnemonic = "common keep price member one fatigue wheel time thank sight mango rotate";

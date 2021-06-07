@@ -1,1 +1,1 @@
-var mnemonic = "coconut emotion firm perfect recall warfare viable thing inflict sock weekend patrol";
+var mnemonic = "inherit sunny aisle letter produce bag suggest offer benefit phrase boring enemy";

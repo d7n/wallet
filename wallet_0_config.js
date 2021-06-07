@@ -1,1 +1,1 @@
-var mnemonic = "youth phone devote around shoot meadow canvas coyote mansion chat nation situate";
+var mnemonic = "grab bronze setup sell marine sample opinion science comfort stay oak cannon";

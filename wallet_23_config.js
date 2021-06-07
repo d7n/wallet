@@ -1,1 +1,1 @@
-var mnemonic = "income network clap claw base edit ginger peasant vocal mandate day maze";
+var mnemonic = "curve drip champion churn satoshi tobacco tourist lazy program sail license track";

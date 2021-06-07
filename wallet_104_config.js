@@ -1,1 +1,1 @@
-var mnemonic = "potato palace cinnamon decorate foot oval spell face garden true dolphin tomorrow";
+var mnemonic = "august joke buyer seat inflict mixture select evolve exclude decorate online legend";

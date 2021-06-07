@@ -1,1 +1,1 @@
-var mnemonic = "wolf bundle glove siege coast peasant prefer author hard jelly road arm";
+var mnemonic = "vanish decrease film jazz flag parent leaf aerobic project renew retire cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue oblige hollow fatal hope record glad crew sight dragon narrow tennis";
+var mnemonic = "squeeze provide domain cotton exclude pattern attitude history burger fault brave glove";

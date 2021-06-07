@@ -1,1 +1,1 @@
-var mnemonic = "wish ozone pink hedgehog citizen mix mirror gauge exclude try also travel";
+var mnemonic = "trust access unfair ketchup shadow crater noise degree label seven region broom";

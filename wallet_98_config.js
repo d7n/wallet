@@ -1,1 +1,1 @@
-var mnemonic = "attitude describe coast nation cross route define silent soft fiction wife knee";
+var mnemonic = "soccer disorder fun fragile impose cushion winter aunt sorry that letter catch";

@@ -1,1 +1,1 @@
-var mnemonic = "nice never increase bone abuse world forum crew kick bacon dust ketchup";
+var mnemonic = "tired angle artist capital still length tissue mule wood youth fox plate";

@@ -1,1 +1,1 @@
-var mnemonic = "enough under grunt motor rifle wide essence repair cup vital dinner very";
+var mnemonic = "control toss symbol regret light cost shed run winter noble simple jaguar";

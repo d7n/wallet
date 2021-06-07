@@ -1,1 +1,1 @@
-var mnemonic = "aspect perfect issue scheme essay hen shiver faculty snack city flight decide";
+var mnemonic = "west actual south laundry toy all wolf client also system insect true";

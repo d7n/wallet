@@ -1,1 +1,1 @@
-var mnemonic = "any belt wrestle cactus sail expect slim supreme broom box nest wolf";
+var mnemonic = "rug scatter mistake six magic salute trick coil vintage morning fog empty";

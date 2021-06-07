@@ -1,1 +1,1 @@
-var mnemonic = "dignity scatter tragic legal kid will memory sheriff comic doctor economy video";
+var mnemonic = "cliff east trash access awake stuff process network bachelor brand point retreat";

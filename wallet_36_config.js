@@ -1,1 +1,1 @@
-var mnemonic = "summer current mesh tenant hidden wagon payment deer ordinary glass cost margin";
+var mnemonic = "flip exhaust view service onion million sphere fury fuel water young helmet";

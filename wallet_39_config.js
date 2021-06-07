@@ -1,1 +1,1 @@
-var mnemonic = "brush rug supreme smooth loyal canoe engage genius icon erosion rhythm left";
+var mnemonic = "panda media injury solid empower vague scorpion mother device brief dumb deliver";

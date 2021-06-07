@@ -1,1 +1,1 @@
-var mnemonic = "mule quote embody soldier spot fine regular very execute fork stick enough";
+var mnemonic = "warfare stadium dish federal walnut blur dutch brick neglect seed three plunge";

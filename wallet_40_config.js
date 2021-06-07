@@ -1,1 +1,1 @@
-var mnemonic = "dry chest violin more stable fetch rent letter buffalo logic cute hello";
+var mnemonic = "gold fresh tornado off law tank equip hospital project voyage cereal surge";

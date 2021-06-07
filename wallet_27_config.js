@@ -1,1 +1,1 @@
-var mnemonic = "ten adjust car scatter choice project joke surge road van giant suit";
+var mnemonic = "uncover believe assault ceiling kid craft fine oblige federal scan around acid";

@@ -1,1 +1,1 @@
-var mnemonic = "wait mother moment wealth drama ice climb drift modify deny burger silly";
+var mnemonic = "repeat come salt better wine wool sunny evidence clump alert layer toast";

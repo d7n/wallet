@@ -1,1 +1,1 @@
-var mnemonic = "ski abandon purse arctic about kiwi tonight timber vibrant hat hundred mystery";
+var mnemonic = "brother collect correct model digital jacket furnace tomorrow wood planet human rally";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden lock response spray episode awful glass give cruel trade toward team";
+var mnemonic = "furnace moon skill pill seek brown wave orbit mushroom salt salmon jeans";

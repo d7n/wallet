@@ -1,1 +1,1 @@
-var mnemonic = "wrap order melt summer doll onion kitchen solid bamboo angry solar woman";
+var mnemonic = "basket child maximum cushion version later push banner parade dice champion question";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight parade frog twist now entire flip peace involve melody know error";
+var mnemonic = "mammal bracket equal rebel latin tornado drill dizzy firm utility when expand";

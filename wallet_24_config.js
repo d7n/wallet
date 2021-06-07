@@ -1,1 +1,1 @@
-var mnemonic = "merge jeans vendor wonder wasp speed dance food story exotic present cushion";
+var mnemonic = "donkey civil cactus rail panda party funny travel route unit snack boss";

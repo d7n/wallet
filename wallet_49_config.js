@@ -1,1 +1,1 @@
-var mnemonic = "margin federal curve inhale party deer unique friend lawn laugh involve clever";
+var mnemonic = "excite half check market high clump dinner flip lottery episode manage soft";

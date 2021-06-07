@@ -1,1 +1,1 @@
-var mnemonic = "simple tired kit region almost razor merit palm soon object slam pear";
+var mnemonic = "nominee awake sell hint urban amount audit limit swap expand model witness";

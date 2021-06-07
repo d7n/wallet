@@ -1,1 +1,1 @@
-var mnemonic = "toe kiwi base divorce duty fall crunch agent ride zoo ridge toe";
+var mnemonic = "promote dove pull pudding absorb beach frog humble fossil worry thank jelly";

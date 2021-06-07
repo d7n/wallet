@@ -1,1 +1,1 @@
-var mnemonic = "mad amazing surprise never coconut journey network endless rather grow hub palm";
+var mnemonic = "plate shallow when clog bachelor shaft dilemma island average wedding purse private";

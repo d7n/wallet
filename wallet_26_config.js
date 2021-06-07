@@ -1,1 +1,1 @@
-var mnemonic = "year typical hazard excess sauce beauty question useful join ring basket program";
+var mnemonic = "scheme future box fish skin question able route damage uphold detect kiss";

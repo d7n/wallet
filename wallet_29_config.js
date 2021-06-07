@@ -1,1 +1,1 @@
-var mnemonic = "surprise board problem grief magic mystery reform similar mistake gentle soldier chunk";
+var mnemonic = "exist pottery immense dwarf pony comic trap abandon broccoli seek mosquito knee";

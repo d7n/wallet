@@ -1,1 +1,1 @@
-var mnemonic = "differ frequent twelve must speak awake mask goddess narrow slim grain frame";
+var mnemonic = "start begin bounce spoil ramp dog track neutral jelly resist begin sphere";

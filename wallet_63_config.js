@@ -1,1 +1,1 @@
-var mnemonic = "hire absorb wet input taste domain abstract session reflect repeat vicious noodle";
+var mnemonic = "slender drive bomb body unfair cost charge chimney despair infant strategy supply";

@@ -1,1 +1,1 @@
-var mnemonic = "write extend champion luxury tumble arrest steel gossip pen move walk neither";
+var mnemonic = "barely dose worry oblige state wrong velvet castle coyote parent chest breeze";

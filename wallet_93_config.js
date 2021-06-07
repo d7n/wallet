@@ -1,1 +1,1 @@
-var mnemonic = "fresh chronic acoustic panel head visual bag hen peace hidden chapter immense";
+var mnemonic = "auto faculty erupt sugar bike nothing result pulp opera toss combine rally";

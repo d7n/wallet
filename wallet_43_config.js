@@ -1,1 +1,1 @@
-var mnemonic = "insane long hundred supreme hair surge critic enter abstract dad bullet junk";
+var mnemonic = "exhaust unhappy nephew fog strong other wasp addict actual hunt dutch quarter";

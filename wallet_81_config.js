@@ -1,1 +1,1 @@
-var mnemonic = "weird cannon live spare observe angle exhibit broccoli hurt sketch dust slice";
+var mnemonic = "learn fitness frog explain fade primary topic cargo leaf process burst shrimp";

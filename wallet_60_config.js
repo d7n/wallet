@@ -1,1 +1,1 @@
-var mnemonic = "ignore version snow board panther usual muffin cave truly pledge student husband";
+var mnemonic = "attack bone charge wrong tragic pilot wrap mosquito attack clerk medal quality";

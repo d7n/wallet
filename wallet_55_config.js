@@ -1,1 +1,1 @@
-var mnemonic = "fuel famous profit oval glory rough brother promote curious voice boss romance";
+var mnemonic = "inspire task scrap regret future action lock tattoo furnace immune pig slice";

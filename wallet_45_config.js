@@ -1,1 +1,1 @@
-var mnemonic = "because critic super stomach diary salad blast crouch slogan expose rookie glue";
+var mnemonic = "mother distance blossom voice budget rate guide hand between idle term damage";

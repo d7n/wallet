@@ -1,1 +1,1 @@
-var mnemonic = "wrap apology finger face rule denial lawn gaze original already robust reopen";
+var mnemonic = "elegant truck reform seminar penalty possible owner twin betray beach half ignore";
