@@ -1,1 +1,1 @@
-var mnemonic = "neck clock general faint project educate almost margin region civil aisle custom";
+var mnemonic = "merit kid crime quick river yellow monkey orphan click spider setup moment";

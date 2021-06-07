@@ -1,1 +1,1 @@
-var mnemonic = "melody more knock beach hand exotic near fluid theory husband mirror year";
+var mnemonic = "total boat correct decide abandon uncle vivid disorder adapt youth drink doctor";

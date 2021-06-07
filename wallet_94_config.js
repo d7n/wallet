@@ -1,1 +1,1 @@
-var mnemonic = "source limit trigger ten hill blue illegal cereal frost claw gauge shoe";
+var mnemonic = "wife snake liar crack moment glory goose project gorilla yard large rubber";

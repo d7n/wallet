@@ -1,1 +1,1 @@
-var mnemonic = "ahead stick height swarm van close gospel use reflect famous cry inmate";
+var mnemonic = "peasant cage mountain guess dance multiply evidence base harbor give hawk dress";

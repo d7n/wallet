@@ -1,1 +1,1 @@
-var mnemonic = "parent main tool arena popular draw rack object parade duty kite live";
+var mnemonic = "awesome basket old fantasy genuine discover dust simple fan space athlete negative";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy prosper alter vessel ritual crystal deputy club learn supply cliff vast";
+var mnemonic = "winner benefit stool shadow surround century surprise razor artefact uniform shadow kind";

@@ -1,1 +1,1 @@
-var mnemonic = "crash calm peasant result business misery potato hurdle frame nature half shift";
+var mnemonic = "guilt claw announce ribbon praise zebra business taste write add south level";

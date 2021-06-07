@@ -1,1 +1,1 @@
-var mnemonic = "old relax anger okay barrel helmet smart ozone odor lottery case coyote";
+var mnemonic = "attitude power ladder wheel early involve insane emerge possible trade expand now";

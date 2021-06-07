@@ -1,1 +1,1 @@
-var mnemonic = "ride resemble better river tent drink spirit license bike aunt torch coffee";
+var mnemonic = "seminar amused exist photo interest desert polar scissors social fade traffic hotel";

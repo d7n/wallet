@@ -1,1 +1,1 @@
-var mnemonic = "crisp canoe rely shy satoshi giant aerobic tent sudden goddess seat equal";
+var mnemonic = "aunt utility idea jar option secret obey employ hard skull glove unaware";

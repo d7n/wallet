@@ -1,1 +1,1 @@
-var mnemonic = "ketchup divert mercy mention network shop evil barely crazy fuel client mammal";
+var mnemonic = "utility today space matrix duck enhance leader stick gaze accuse proof bag";

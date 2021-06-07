@@ -1,1 +1,1 @@
-var mnemonic = "start love exhibit clerk time erode wreck wet neutral unaware urban matter";
+var mnemonic = "picture reopen alter damp like chicken organ misery link card travel laptop";

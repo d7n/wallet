@@ -1,1 +1,1 @@
-var mnemonic = "token indicate venture valley hint absent whisper oak veteran donkey shuffle crisp";
+var mnemonic = "blame leaf purse biology night fury demise target velvet motion diet minute";

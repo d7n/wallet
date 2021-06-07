@@ -1,1 +1,1 @@
-var mnemonic = "flight path garment little census fly roof aim thumb fashion urge improve";
+var mnemonic = "danger account apart aware wing joy habit steel soon found monster mobile";

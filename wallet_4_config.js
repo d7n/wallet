@@ -1,1 +1,1 @@
-var mnemonic = "scheme left annual day relief resemble before mirror sauce select shell decide";
+var mnemonic = "identify edit soap wrap task act tackle divorce hover hen hollow chapter";

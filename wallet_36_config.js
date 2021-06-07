@@ -1,1 +1,1 @@
-var mnemonic = "void reunion label magic require rally setup skirt honey spray budget pool";
+var mnemonic = "nose veteran like nut horse hotel source dinner barrel lunch ocean talk";

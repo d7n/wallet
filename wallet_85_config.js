@@ -1,1 +1,1 @@
-var mnemonic = "soon radar wild bone diagram plate rigid lonely annual conduct title gorilla";
+var mnemonic = "place pulse nuclear clerk avoid sketch steak rural work detail young artist";

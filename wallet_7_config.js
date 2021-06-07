@@ -1,1 +1,1 @@
-var mnemonic = "rally brush excess mirror burden exchange broom broom lazy bench idea blade";
+var mnemonic = "narrow tuna keep whip civil elegant exact service blade awful stable mother";

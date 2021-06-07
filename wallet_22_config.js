@@ -1,1 +1,1 @@
-var mnemonic = "witness amazing velvet machine scare guide rib stadium cup energy zoo spray";
+var mnemonic = "suffer dinosaur carpet garment stairs fragile shoe snack start taste cup weapon";

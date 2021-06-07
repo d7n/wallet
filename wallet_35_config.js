@@ -1,1 +1,1 @@
-var mnemonic = "discover surprise route also call ladder choice cake enemy melody space cream";
+var mnemonic = "ketchup plunge comfort half planet practice unfold grain crane stomach into hello";

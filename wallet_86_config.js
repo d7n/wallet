@@ -1,1 +1,1 @@
-var mnemonic = "unlock warm maximum suit foster knife turkey kit hurt tortoise axis custom";
+var mnemonic = "lemon lab cream cotton vapor trick laugh save flip coral gold curtain";

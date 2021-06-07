@@ -1,1 +1,1 @@
-var mnemonic = "rhythm certain jungle lawn paddle neither autumn banner special fade image ice";
+var mnemonic = "clump gold radar merge office noise unknown satisfy harvest monster car beef";

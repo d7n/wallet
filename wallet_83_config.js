@@ -1,1 +1,1 @@
-var mnemonic = "early sugar plate south burger panda identify ride toss prison like exotic";
+var mnemonic = "potato front adjust joke photo bean mail music load scare price sun";

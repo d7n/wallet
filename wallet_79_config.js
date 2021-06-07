@@ -1,1 +1,1 @@
-var mnemonic = "field fork device harvest wool shock possible cute wash change detect nose";
+var mnemonic = "chef slice winter same memory exist photo skill grace rebuild shrimp expose";

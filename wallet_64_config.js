@@ -1,1 +1,1 @@
-var mnemonic = "ritual boss rely under debate source guitar outer region close duty polar";
+var mnemonic = "advance crucial hill verify deposit poverty music young cat laundry hole borrow";

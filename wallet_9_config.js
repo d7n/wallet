@@ -1,1 +1,1 @@
-var mnemonic = "scare balcony genuine busy shrimp later joke enjoy puppy dash budget local";
+var mnemonic = "flee enemy struggle local buffalo antique cruise danger axis federal bundle move";

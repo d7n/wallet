@@ -1,1 +1,1 @@
-var mnemonic = "fantasy sword demise waste purse tumble invite target praise roof junk clerk";
+var mnemonic = "book magnet typical suggest silly amazing tongue attack detect income admit speed";

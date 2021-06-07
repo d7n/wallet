@@ -1,1 +1,1 @@
-var mnemonic = "wreck horn mind tomorrow grocery waste seven pepper decade wool viable sustain";
+var mnemonic = "hood leg spare creek memory trap remain peanut race chronic debris easy";

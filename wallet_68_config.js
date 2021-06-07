@@ -1,1 +1,1 @@
-var mnemonic = "vacuum pill movie surge mixture valley crew north debate render pear antenna";
+var mnemonic = "news rookie stay fatigue long equip neither expire ranch off whip online";

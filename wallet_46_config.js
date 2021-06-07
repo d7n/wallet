@@ -1,1 +1,1 @@
-var mnemonic = "size cry shrimp wrap romance valve device small truck furnace travel eye";
+var mnemonic = "movie wait pet fork identify broccoli broken speak stool leaf dinosaur resist";

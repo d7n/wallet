@@ -1,1 +1,1 @@
-var mnemonic = "honey alien motor distance isolate coral cinnamon output rack region minute hamster";
+var mnemonic = "exact domain item biology decrease credit erosion session elbow once pencil three";

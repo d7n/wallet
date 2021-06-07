@@ -1,1 +1,1 @@
-var mnemonic = "museum garage cattle mobile recycle able until inspire coconut man proud install";
+var mnemonic = "identify whale olympic miss accident crunch photo valid ice script reduce shallow";

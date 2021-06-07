@@ -1,1 +1,1 @@
-var mnemonic = "document mixture hurdle vendor noble cigar rocket often avoid shine cricket trial";
+var mnemonic = "into stick moment opinion region bounce usual poet gospel virtual vote split";

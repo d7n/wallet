@@ -1,1 +1,1 @@
-var mnemonic = "spike music corn mystery speed camera mask blur define version copy foil";
+var mnemonic = "dutch wing name barely reveal orphan spider lend maid garden club mass";

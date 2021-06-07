@@ -1,1 +1,1 @@
-var mnemonic = "sting output idea cause whip youth mammal slush reason moral amateur casino";
+var mnemonic = "ostrich label dog almost uphold tomato rescue common boil price talk viable";

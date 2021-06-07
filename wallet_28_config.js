@@ -1,1 +1,1 @@
-var mnemonic = "help onion target junk reopen biology toe flip repair bubble chaos adapt";
+var mnemonic = "close people rug apple diesel city antenna balance flower forest local banana";

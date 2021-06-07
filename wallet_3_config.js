@@ -1,1 +1,1 @@
-var mnemonic = "abuse unfair fortune bulk sunset special begin whale talent tumble doctor dad";
+var mnemonic = "slight picture sort figure switch across meat wing young add puzzle pumpkin";

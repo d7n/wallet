@@ -1,1 +1,1 @@
-var mnemonic = "glare crater miss husband repair average depart luxury deer finger deputy scheme";
+var mnemonic = "melt alien magnet exchange time hurry filter naive rose fire sad orange";

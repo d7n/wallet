@@ -1,1 +1,1 @@
-var mnemonic = "feed fee opinion crumble shock middle hurry letter course undo path magic";
+var mnemonic = "video matrix balcony expose razor victory license punch ceiling work stairs hawk";

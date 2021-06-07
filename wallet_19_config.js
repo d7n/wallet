@@ -1,1 +1,1 @@
-var mnemonic = "metal chest hire forget work gift rocket tool gloom shoe kitchen rose";
+var mnemonic = "toss boss damage ozone satisfy honey anger moral just arctic hello column";

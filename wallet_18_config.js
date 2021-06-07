@@ -1,1 +1,1 @@
-var mnemonic = "eagle busy autumn derive adjust million innocent answer shy common spawn someone";
+var mnemonic = "lawn nothing lonely honey start dizzy finish figure shrug reduce tiny slow";

@@ -1,1 +1,1 @@
-var mnemonic = "stick clip cluster body flush say limb bright color wasp version pole";
+var mnemonic = "relax estate lift garden sunset observe mention comic absurd million popular panda";

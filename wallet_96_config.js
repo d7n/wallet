@@ -1,1 +1,1 @@
-var mnemonic = "poem tag depart portion gasp jungle share trial bright apart combine avocado";
+var mnemonic = "endless setup fortune fit connect fade average fat animal much cross tower";

@@ -1,1 +1,1 @@
-var mnemonic = "brown toy rug ticket athlete broccoli obey bleak bag involve half tattoo";
+var mnemonic = "delay budget remind pepper defy humble twelve depart husband grid unknown discover";

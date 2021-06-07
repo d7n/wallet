@@ -1,1 +1,1 @@
-var mnemonic = "glimpse mystery pigeon swim gospel wave coffee fresh tank fortune bronze possible";
+var mnemonic = "rent impact crazy wait spawn decide civil exercise moon account safe amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "run post all hamster spice melt action express rich dilemma gentle guess";
+var mnemonic = "merit armor warm flight rely useless humble erase adjust spider cinnamon possible";

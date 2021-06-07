@@ -1,1 +1,1 @@
-var mnemonic = "wool three eager grape miracle range hope harvest mass hour sell assume";
+var mnemonic = "craft possible coffee tuna gloom trophy cycle neutral practice once common ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "attract convince rail praise genius visa pepper spoon save trust leopard daughter";
+var mnemonic = "shoulder satoshi museum people pizza solid cannon test poverty use another family";

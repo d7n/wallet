@@ -1,1 +1,1 @@
-var mnemonic = "novel brother produce tell index curve deer shove monitor fatal tape toy";
+var mnemonic = "finish video dog cancel taste ancient lamp confirm muscle popular achieve gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "dry detect puzzle refuse toddler local trap mirror common axis winner topple";
+var mnemonic = "buddy disorder moon fun like ranch street city avoid alley gown card";

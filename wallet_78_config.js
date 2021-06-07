@@ -1,1 +1,1 @@
-var mnemonic = "maze wash confirm use capital art step surge post beauty sadness artwork";
+var mnemonic = "hawk prosper entry property hurt fine main page spirit frame gun stuff";

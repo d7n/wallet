@@ -1,1 +1,1 @@
-var mnemonic = "carbon oyster aerobic unusual scatter husband any virus sand wall tuition bag";
+var mnemonic = "stage foil trust silly remain course census can obtain whale option elevator";

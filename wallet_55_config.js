@@ -1,1 +1,1 @@
-var mnemonic = "fetch address hint drill submit gown patch word grow resist pencil pride";
+var mnemonic = "buzz walk mom surround exclude foam verb owner fault balance bean romance";

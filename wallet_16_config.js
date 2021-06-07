@@ -1,1 +1,1 @@
-var mnemonic = "abuse point you mobile crumble deal two tobacco entry trend dry brand";
+var mnemonic = "physical sense click guide food cliff village sheriff prevent day service title";

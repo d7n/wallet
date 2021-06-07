@@ -1,1 +1,1 @@
-var mnemonic = "result worth able retreat illegal bus sea erupt balance million jacket mercy";
+var mnemonic = "quarter hurdle nasty eagle thank trip inside burger fossil pyramid trim grant";

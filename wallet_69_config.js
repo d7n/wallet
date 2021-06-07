@@ -1,1 +1,1 @@
-var mnemonic = "pluck inmate practice romance tunnel destroy author valid egg hurdle sibling hen";
+var mnemonic = "ketchup code step gasp avocado blanket angry steak like improve citizen oblige";

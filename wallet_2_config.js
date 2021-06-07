@@ -1,1 +1,1 @@
-var mnemonic = "project much mix since fire elevator host hen long siren anchor deposit";
+var mnemonic = "hybrid know enhance salt fatal talk taste neck soft certain rude feed";

@@ -1,1 +1,1 @@
-var mnemonic = "property road curve muscle company figure inquiry recycle symbol auto wire gloom";
+var mnemonic = "design aspect staff blur firm stick narrow mechanic harsh cherry average genre";

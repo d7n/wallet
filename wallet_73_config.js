@@ -1,1 +1,1 @@
-var mnemonic = "wage pull butter often wedding relief clap clinic toast height furnace gate";
+var mnemonic = "neglect innocent hour range style rib earn owner faith measure hurdle super";

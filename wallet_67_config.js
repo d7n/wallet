@@ -1,1 +1,1 @@
-var mnemonic = "coast victory project melody jacket job debris logic van grow much boost";
+var mnemonic = "latin rain custom rely gospel season reveal amazing glow kidney repair void";

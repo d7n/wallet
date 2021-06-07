@@ -1,1 +1,1 @@
-var mnemonic = "property torch erode use half mosquito buffalo search enjoy number giant energy";
+var mnemonic = "burst exist wise practice boy critic crucial other robust main blue type";

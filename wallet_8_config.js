@@ -1,1 +1,1 @@
-var mnemonic = "favorite auto entire culture spin develop inmate planet average awesome lawsuit input";
+var mnemonic = "you quick ethics federal install middle warrior cricket stand ethics legal cube";

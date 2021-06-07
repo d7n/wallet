@@ -1,1 +1,1 @@
-var mnemonic = "bind matrix north urban black release police coyote poet arm alone blur";
+var mnemonic = "picture cable vast today expose teach swarm chair snow addict powder peace";

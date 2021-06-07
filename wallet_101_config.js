@@ -1,1 +1,1 @@
-var mnemonic = "wealth company garment comfort green motion human switch craft rough great hunt";
+var mnemonic = "flat gym load next exit level gossip trade daughter include coil kitten";

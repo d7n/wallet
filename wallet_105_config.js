@@ -1,1 +1,1 @@
-var mnemonic = "daughter depend cup knock save actual gossip book wash page penalty sudden";
+var mnemonic = "slice know skull rapid simple puzzle inherit speak hard cricket destroy very";

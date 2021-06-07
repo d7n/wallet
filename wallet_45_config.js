@@ -1,1 +1,1 @@
-var mnemonic = "first genre pretty bring hobby captain town barely timber drill syrup hollow";
+var mnemonic = "voyage clever feed south core equal copper yellow girl deer delay question";

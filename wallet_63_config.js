@@ -1,1 +1,1 @@
-var mnemonic = "silly frequent major shove shoot develop latin still mammal hurry acquire bring";
+var mnemonic = "crouch yard marriage sample lazy black goddess gossip rival soon insane sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram priority hollow carbon runway evolve trip draft magic donate crane just";
+var mnemonic = "this consider honey decrease initial sign unknown dry easily anchor more ripple";

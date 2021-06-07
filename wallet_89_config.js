@@ -1,1 +1,1 @@
-var mnemonic = "record fix eyebrow hand length elbow shoulder bulb sock exercise such prosper";
+var mnemonic = "hungry toe evoke royal thumb badge prison drift result below recipe cover";

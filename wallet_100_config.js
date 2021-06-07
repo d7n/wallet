@@ -1,1 +1,1 @@
-var mnemonic = "lottery eight disagree time young shield ball alien shiver kiwi razor surround";
+var mnemonic = "festival candy man nothing dial echo exclude sponsor cycle key broken shift";

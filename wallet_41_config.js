@@ -1,1 +1,1 @@
-var mnemonic = "print brave leisure almost pepper confirm group ivory supreme wall keep fog";
+var mnemonic = "grain outer vehicle decade vote clever arrange camera novel token quality voyage";

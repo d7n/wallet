@@ -1,1 +1,1 @@
-var mnemonic = "satoshi force unique nest nephew board game buddy beef mushroom pelican example";
+var mnemonic = "blanket front cake door nest grass build august spice ridge still state";

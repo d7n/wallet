@@ -1,1 +1,1 @@
-var mnemonic = "north buffalo company speak voyage border smoke angry ramp banana chicken absorb";
+var mnemonic = "fury novel bar evil expand prepare grow undo cage spatial obey alarm";

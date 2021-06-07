@@ -1,1 +1,1 @@
-var mnemonic = "nerve interest south million shoulder win dwarf enemy clump cushion silly ticket";
+var mnemonic = "bubble absurd embrace orbit toast fun dice syrup range alert lyrics pride";

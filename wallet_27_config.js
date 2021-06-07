@@ -1,1 +1,1 @@
-var mnemonic = "number rack decade actor detect million food light relief solid antenna arch";
+var mnemonic = "boil couch trophy radar tornado tonight escape tip fever plug report topple";

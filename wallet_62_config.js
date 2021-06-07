@@ -1,1 +1,1 @@
-var mnemonic = "laundry tag turn woman stool angry issue submit learn glad pretty day";
+var mnemonic = "option banana average position radio hire unknown service soft helmet excess way";

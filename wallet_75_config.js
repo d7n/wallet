@@ -1,1 +1,1 @@
-var mnemonic = "valve skin broken nasty forget trim pledge someone animal hollow gift range";
+var mnemonic = "clock claim used bronze brand solution betray urge local letter acquire unfair";

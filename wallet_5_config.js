@@ -1,1 +1,1 @@
-var mnemonic = "naive noodle orchard multiply primary fence wagon feel camera uphold duty move";
+var mnemonic = "ring mimic allow knock above behave innocent snack strategy warfare much what";

@@ -1,1 +1,1 @@
-var mnemonic = "flame swarm chunk horror mountain century any price bread purpose person coffee";
+var mnemonic = "horn submit over identify curve act voyage alone cover discover asthma patch";

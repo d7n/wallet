@@ -1,1 +1,1 @@
-var mnemonic = "speak mountain few laugh coffee board token bomb melody lion tennis tonight";
+var mnemonic = "one avocado ginger black figure scale shoulder law blood save area work";

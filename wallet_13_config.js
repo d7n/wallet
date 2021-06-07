@@ -1,1 +1,1 @@
-var mnemonic = "grid economy connect much opinion whip weird machine draft moon cart nerve";
+var mnemonic = "illegal jar actor inherit idea aware kick hurry banana mandate speed muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "series promote affair evil rally art code sell idle armed napkin critic";
+var mnemonic = "approve diamond brown plunge humble crop embody crunch make snap delay negative";

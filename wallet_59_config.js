@@ -1,1 +1,1 @@
-var mnemonic = "limit tongue muscle link fatigue crisp family okay lens orphan soccer illness";
+var mnemonic = "sting view lobster term trumpet celery item debris leader where subway embark";

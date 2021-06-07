@@ -1,1 +1,1 @@
-var mnemonic = "flame body avocado cook divert agent trim easy smooth doctor elder usage";
+var mnemonic = "spin goddess viable mouse giggle mystery emotion year jeans page sell estate";

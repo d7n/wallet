@@ -1,1 +1,1 @@
-var mnemonic = "brand castle brisk doll ugly crawl arctic horror laundry cliff obvious charge";
+var mnemonic = "asset lens solve impact amazing utility shoe sound plunge evil actor ill";

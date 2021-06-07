@@ -1,1 +1,1 @@
-var mnemonic = "awkward reject hero bronze where color snap board speak hammer gas basket";
+var mnemonic = "ill hurt frown roof addict mansion ozone saddle fresh ordinary fever gift";

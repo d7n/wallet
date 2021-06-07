@@ -1,1 +1,1 @@
-var mnemonic = "ordinary letter meat hamster discover alley safe original miracle rice royal deposit";
+var mnemonic = "join over knock outer marble sport fever hill nut castle chaos elite";

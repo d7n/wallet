@@ -1,1 +1,1 @@
-var mnemonic = "blanket pact inhale kite riot flight face sugar blue silver cycle churn";
+var mnemonic = "better fault view theory estate danger hobby about defy bind modify rug";

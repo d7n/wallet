@@ -1,1 +1,1 @@
-var mnemonic = "sport surface fall tone faith distance hobby can aerobic cube project rice";
+var mnemonic = "upper boost nation damage grace universe question code skull tongue sausage polar";

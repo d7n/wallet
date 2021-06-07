@@ -1,1 +1,1 @@
-var mnemonic = "sauce coconut chef rule powder mango quick edge owner hidden method machine";
+var mnemonic = "vital license dilemma toe unaware egg scan holiday embark cable chicken fade";

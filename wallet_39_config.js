@@ -1,1 +1,1 @@
-var mnemonic = "alley awake have certain outside super always void boring grain mail tortoise";
+var mnemonic = "cook actual sick pool mercy deliver update nature dad beyond crash want";
