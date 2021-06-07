@@ -1,1 +1,1 @@
-var mnemonic = "enable define dragon change tortoise lesson apology nurse family clinic foam pottery";
+var mnemonic = "fit protect click monkey slab nuclear peasant adult vicious wreck vital vote";

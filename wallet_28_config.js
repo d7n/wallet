@@ -1,1 +1,1 @@
-var mnemonic = "august increase ankle height advance hint police figure orange oppose uphold rookie";
+var mnemonic = "ice come before three excuse metal primary capital settle diet normal still";

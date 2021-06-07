@@ -1,1 +1,1 @@
-var mnemonic = "execute barrel school subject crawl deny alpha aware dizzy fish stay fire";
+var mnemonic = "category ten another normal service average amateur federal access noise plastic biology";

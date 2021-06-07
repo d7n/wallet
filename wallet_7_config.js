@@ -1,1 +1,1 @@
-var mnemonic = "forum bridge happy moment matrix salad brown sugar know cloth egg install";
+var mnemonic = "van any nature own resemble river bone time cluster trial cluster hockey";

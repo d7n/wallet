@@ -1,1 +1,1 @@
-var mnemonic = "solar follow view size jeans laundry garden remind piece orange equal truly";
+var mnemonic = "lumber rally curtain viable smooth rug deposit salon visit trigger habit charge";

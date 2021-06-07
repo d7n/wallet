@@ -1,1 +1,1 @@
-var mnemonic = "inquiry aspect point cart learn scissors manage village arrest wine capital donate";
+var mnemonic = "lab peace ski tenant notable faith pulse scrap stage opera donkey illegal";

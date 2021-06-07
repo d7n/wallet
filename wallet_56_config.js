@@ -1,1 +1,1 @@
-var mnemonic = "deposit helmet entry harsh trend find venue favorite enable tiger rich denial";
+var mnemonic = "joy agree avocado aware join hill mercy amused dumb sphere hybrid cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "night question junk issue stage soldier physical guess safe field solar need";
+var mnemonic = "rare ozone anger below talent time library profit nice essence sorry lonely";

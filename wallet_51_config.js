@@ -1,1 +1,1 @@
-var mnemonic = "whisper offer fall enemy involve width exit gap trumpet timber kiss initial";
+var mnemonic = "room frog gesture barrel sound banana bargain paddle globe fly setup word";

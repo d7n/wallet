@@ -1,1 +1,1 @@
-var mnemonic = "pride grid order enter key puppy melody before turn power adjust bounce";
+var mnemonic = "kidney exotic walk light knee copy device tape process breeze churn game";

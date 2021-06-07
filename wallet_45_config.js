@@ -1,1 +1,1 @@
-var mnemonic = "use card cube topic twenty improve castle grace put myth media easy";
+var mnemonic = "ten pause option fiber issue world theme distance either vanish hour alcohol";

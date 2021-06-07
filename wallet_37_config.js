@@ -1,1 +1,1 @@
-var mnemonic = "woman shell hill wrap surprise dizzy monster phrase blue series gloom dose";
+var mnemonic = "favorite hawk dinosaur clap fly spray panel stumble tooth just rather unfair";

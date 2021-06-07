@@ -1,1 +1,1 @@
-var mnemonic = "flash hobby code resist danger seat deal choose quote until protect unit";
+var mnemonic = "cluster unaware hat property climb exist eager battle inch forum glance panel";

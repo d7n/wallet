@@ -1,1 +1,1 @@
-var mnemonic = "syrup need medal cart search target craft glow toe agent person great";
+var mnemonic = "chronic toddler insect sample word lock imitate leave cinnamon person speak pilot";

@@ -1,1 +1,1 @@
-var mnemonic = "appear hint ladder cradle fit copy taxi drop average jeans code bomb";
+var mnemonic = "very multiply place replace valid pulse wreck friend banner orphan east tribe";

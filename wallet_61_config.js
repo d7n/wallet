@@ -1,1 +1,1 @@
-var mnemonic = "sponsor edit dust mask violin pattern genius profit choice print evidence anxiety";
+var mnemonic = "found replace toast page become conduct attitude phone innocent trim chief impact";

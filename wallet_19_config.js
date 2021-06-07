@@ -1,1 +1,1 @@
-var mnemonic = "kitchen always disease patch easily castle unlock cover grain surprise key wool";
+var mnemonic = "trash float adapt chief any now deer cook puppy science suspect present";

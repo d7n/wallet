@@ -1,1 +1,1 @@
-var mnemonic = "icon group airport elevator wealth frequent profit radar dune another bicycle artist";
+var mnemonic = "virtual express sample oven orange fiscal wide duty unfair flame stairs shoot";

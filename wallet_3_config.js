@@ -1,1 +1,1 @@
-var mnemonic = "feel moral segment need inflict sea uncle supreme brush beach process village";
+var mnemonic = "jeans milk oxygen chief immense traffic float phrase latin item owner profit";

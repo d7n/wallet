@@ -1,1 +1,1 @@
-var mnemonic = "diagram time wink funny fee desk convince blue city boring loan quit";
+var mnemonic = "race visual manual predict load search giggle hand next theme man gather";

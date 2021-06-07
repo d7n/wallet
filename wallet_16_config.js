@@ -1,1 +1,1 @@
-var mnemonic = "two negative abstract brain warrior garden weasel else armor fiscal interest fix";
+var mnemonic = "empty donkey way demise city critic original beach grace flee educate undo";

@@ -1,1 +1,1 @@
-var mnemonic = "denial morning permit century alert monkey start idle art garlic gas hurry";
+var mnemonic = "road ready damp february fox theme vault report proud layer that goddess";

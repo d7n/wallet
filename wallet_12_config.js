@@ -1,1 +1,1 @@
-var mnemonic = "lobster group pave dream pause step danger cube canoe hello skull report";
+var mnemonic = "multiply replace garment eagle stool hammer artefact panther roof pencil blossom ill";

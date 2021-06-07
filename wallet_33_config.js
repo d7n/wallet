@@ -1,1 +1,1 @@
-var mnemonic = "stool disorder slot put great cloud appear nephew wine battle intact hunt";
+var mnemonic = "maze plate turn sadness sell drive wrap shrug aspect ride paper clump";

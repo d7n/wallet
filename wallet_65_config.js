@@ -1,1 +1,1 @@
-var mnemonic = "purity ethics start topic mirror track wood cruise crisp wait sand coil";
+var mnemonic = "talk sting earn skill brain purse total snow virus empty spray top";

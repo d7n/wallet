@@ -1,1 +1,1 @@
-var mnemonic = "harbor edit tackle behind afraid mandate club chicken pistol senior source clever";
+var mnemonic = "poverty cloud worth million bone measure corn age deputy region evil slender";

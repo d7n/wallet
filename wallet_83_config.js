@@ -1,1 +1,1 @@
-var mnemonic = "labor afford outdoor era today quarter acid cook scrap knife cabbage bubble";
+var mnemonic = "change virtual portion awake this kingdom hotel innocent fiber scissors master tuna";

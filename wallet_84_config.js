@@ -1,1 +1,1 @@
-var mnemonic = "crumble current increase waste lemon wire useless cage proud until pond final";
+var mnemonic = "crew minute brain educate famous badge purpose there intact wisdom cave tenant";

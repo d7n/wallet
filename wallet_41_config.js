@@ -1,1 +1,1 @@
-var mnemonic = "domain maid must amateur crime tennis trash vacant engine soldier gadget message";
+var mnemonic = "chronic dizzy hedgehog account safe horror solid cannon say spend infant swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "brand grass foster wonder chest budget wire shine defy curtain civil match";
+var mnemonic = "sauce print burst dwarf wrist black argue rice kitten broccoli road remind";

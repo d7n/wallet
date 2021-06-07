@@ -1,1 +1,1 @@
-var mnemonic = "blood lock kidney sword bunker pulse amused panther stock roof subway future";
+var mnemonic = "slab display cannon eyebrow tray equal outer delay act clarify sibling response";

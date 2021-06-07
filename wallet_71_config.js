@@ -1,1 +1,1 @@
-var mnemonic = "safe grid deer bag spell diet scheme pink together cherry wrist approve";
+var mnemonic = "soap usual fabric spare seven around wrestle chaos tissue outdoor collect hat";

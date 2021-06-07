@@ -1,1 +1,1 @@
-var mnemonic = "intact cattle deposit verify intact promote scatter shadow weapon resemble cushion iron";
+var mnemonic = "pair uncover tourist squeeze rose purpose unveil patch awkward adjust couch liquid";

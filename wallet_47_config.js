@@ -1,1 +1,1 @@
-var mnemonic = "syrup concert guilt salt clerk bright shallow judge egg sentence wise warm";
+var mnemonic = "crumble person capable direct brisk caught reduce supply extra story scene interest";

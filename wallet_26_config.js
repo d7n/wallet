@@ -1,1 +1,1 @@
-var mnemonic = "essay window myth fun invite sunset jewel rude purity more decrease piano";
+var mnemonic = "nasty into peace load lumber permit theory include nephew fruit blood asset";

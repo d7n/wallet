@@ -1,1 +1,1 @@
-var mnemonic = "damage emotion perfect approve glide layer choose window antique mansion misery normal";
+var mnemonic = "zoo critic over day unique people major identify access client maze drill";

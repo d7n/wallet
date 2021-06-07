@@ -1,1 +1,1 @@
-var mnemonic = "black weasel raw spare human juice damp screen elegant drink wool eagle";
+var mnemonic = "swim stumble multiply pair swamp outside hockey arctic biology satoshi diary man";

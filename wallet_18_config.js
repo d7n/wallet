@@ -1,1 +1,1 @@
-var mnemonic = "nasty chuckle notable nurse firm mix observe fold couch alter design crop";
+var mnemonic = "merit dose tool faint symbol soap bronze twenty hurt helmet corn fetch";

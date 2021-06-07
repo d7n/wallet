@@ -1,1 +1,1 @@
-var mnemonic = "twenty gap recipe cement fuel claw flavor divorce call milk rather notice";
+var mnemonic = "lady connect oak label mix convince wave rib near busy lesson model";

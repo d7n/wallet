@@ -1,1 +1,1 @@
-var mnemonic = "they mimic surprise boil wash leopard obscure divorce horn debate together evil";
+var mnemonic = "best salon square deer wear civil globe surprise talk noble helmet quit";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom record vivid victory game capital flash hollow afford duck case horror";
+var mnemonic = "release gloom feed print equip replace derive caught solar present sunny chat";

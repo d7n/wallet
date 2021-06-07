@@ -1,1 +1,1 @@
-var mnemonic = "divorce daughter interest van echo rain coffee arrest hotel gather inflict tell";
+var mnemonic = "belt raven foil destroy live bachelor churn monster reunion hill session metal";

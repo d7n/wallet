@@ -1,1 +1,1 @@
-var mnemonic = "waste load lounge cage derive educate subway captain fossil allow base remind";
+var mnemonic = "switch couple sun cool castle tape gun tourist tunnel moon one forest";

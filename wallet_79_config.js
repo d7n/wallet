@@ -1,1 +1,1 @@
-var mnemonic = "ritual olive next success dawn worry noble matter gesture clip water canyon";
+var mnemonic = "radar muscle hand deer liberty web uncle picture valley illness atom current";

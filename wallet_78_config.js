@@ -1,1 +1,1 @@
-var mnemonic = "risk caught search timber glance stock amazing sort river ordinary satoshi material";
+var mnemonic = "sail tattoo advice alter demand wasp team just rough lion nurse distance";

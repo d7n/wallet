@@ -1,1 +1,1 @@
-var mnemonic = "tattoo prison march shoulder stand budget chronic outdoor danger oil behave glance";
+var mnemonic = "light rent crowd giraffe correct apple sphere year cliff banana blood nice";

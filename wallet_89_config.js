@@ -1,1 +1,1 @@
-var mnemonic = "script lonely wave useless habit weird soap bag armed dawn citizen embark";
+var mnemonic = "blood one void weapon arm tip seed recipe abandon avocado step unique";

@@ -1,1 +1,1 @@
-var mnemonic = "auction spider split road recycle fall debris bullet kick toddler diet hole";
+var mnemonic = "transfer ostrich grocery other museum plunge fan enjoy else carpet cupboard hurt";

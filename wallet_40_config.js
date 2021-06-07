@@ -1,1 +1,1 @@
-var mnemonic = "uncover suggest negative puzzle path soon service cage asthma inside gas grain";
+var mnemonic = "help eyebrow tourist initial lift pretty seek chapter bitter vast prevent boost";

@@ -1,1 +1,1 @@
-var mnemonic = "federal patch hidden main reason junk skull dial tuna virus liar muffin";
+var mnemonic = "upper horse pizza stage uphold differ gift resource laptop prefer near depend";

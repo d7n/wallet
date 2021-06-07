@@ -1,1 +1,1 @@
-var mnemonic = "rely plastic salt morning write daring grunt universe cake echo chaos friend";
+var mnemonic = "bind season vivid defense essay pact asset pottery impose path long embrace";

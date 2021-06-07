@@ -1,1 +1,1 @@
-var mnemonic = "disagree lucky submit early crumble noodle enforce evolve wedding scout cave escape";
+var mnemonic = "identify range vital tube prefer jacket media normal prefer tonight resource month";

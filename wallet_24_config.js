@@ -1,1 +1,1 @@
-var mnemonic = "ceiling extra soccer ability alpha kiwi skirt release virtual cactus shield curtain";
+var mnemonic = "bomb soon gap industry ski hard decorate tornado solar teach bacon say";

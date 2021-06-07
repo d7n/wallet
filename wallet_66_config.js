@@ -1,1 +1,1 @@
-var mnemonic = "reunion length auction peasant indicate melt abstract kit mule lunch rigid faint";
+var mnemonic = "stuff swap cancel under legend law cool blouse salad spot mango holiday";

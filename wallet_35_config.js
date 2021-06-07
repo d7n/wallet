@@ -1,1 +1,1 @@
-var mnemonic = "expire calm hat divert olympic also grape tuna lesson buddy script fitness";
+var mnemonic = "meadow world pill confirm hybrid people excess frozen gain safe bonus supreme";

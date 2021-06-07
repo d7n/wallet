@@ -1,1 +1,1 @@
-var mnemonic = "member divorce correct say auction initial human file cool toy reopen appear";
+var mnemonic = "broom achieve fortune panel subject boil maze extend twenty daring voice congress";

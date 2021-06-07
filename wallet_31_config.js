@@ -1,1 +1,1 @@
-var mnemonic = "quote essence install approve present mail figure congress toss cram exact enrich";
+var mnemonic = "kind man frog fade glue flight tourist quality crystal female expand shoulder";

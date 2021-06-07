@@ -1,1 +1,1 @@
-var mnemonic = "pool race accuse pottery scout relax entire nation disorder melody tourist exotic";
+var mnemonic = "silver toy rescue aim sting dash donor supply nominee code useful cheap";

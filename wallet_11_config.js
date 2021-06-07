@@ -1,1 +1,1 @@
-var mnemonic = "grief space hungry result unknown sentence permit slender congress neither scrub stay";
+var mnemonic = "give hurdle online script machine forward awake team soap girl check scheme";

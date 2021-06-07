@@ -1,1 +1,1 @@
-var mnemonic = "scene able scale shiver caution journey hero gift net pepper escape size";
+var mnemonic = "same tip spice tree few parrot athlete room ecology outside color carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "upon liar south travel opinion nest copy mouse suffer sail pill demise";
+var mnemonic = "gate movie fox clutch apology funny foster theory whale tonight write kit";

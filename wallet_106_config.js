@@ -1,1 +1,1 @@
-var mnemonic = "depth domain renew foot include glow easily length walk liberty minimum drive";
+var mnemonic = "genius unhappy belt job swarm reunion feel cycle crisp hole volume century";

@@ -1,1 +1,1 @@
-var mnemonic = "life habit bundle circle trap front fault gain school tiger shallow dial";
+var mnemonic = "cluster lady tilt degree core desk swift update letter tattoo place page";

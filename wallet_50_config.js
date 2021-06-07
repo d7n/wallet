@@ -1,1 +1,1 @@
-var mnemonic = "talent space group fantasy bus bamboo atom multiply lucky mobile tumble else";
+var mnemonic = "crucial express tomato false trim begin crunch abstract tortoise jump proud hole";

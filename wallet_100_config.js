@@ -1,1 +1,1 @@
-var mnemonic = "easy tomorrow hint museum peace diesel slight warfare large skill pass poverty";
+var mnemonic = "uncover lesson purchase volcano energy wrap catalog ahead identify hurt cigar segment";

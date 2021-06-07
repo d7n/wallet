@@ -1,1 +1,1 @@
-var mnemonic = "crop flavor glad tank movie same romance nation canyon wrist endorse original";
+var mnemonic = "notable demise sphere eternal theory client imitate patch damp scale post stereo";

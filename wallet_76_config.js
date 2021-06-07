@@ -1,1 +1,1 @@
-var mnemonic = "describe oxygen hello hover useful develop horror label link luxury boost impact";
+var mnemonic = "meat endorse hidden lobster project panel fiction isolate pig zone lab cruel";

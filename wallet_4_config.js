@@ -1,1 +1,1 @@
-var mnemonic = "off roof midnight badge play human subway rose maze slide region ancient";
+var mnemonic = "mesh notice cover admit leg any safe tissue benefit disagree front labor";

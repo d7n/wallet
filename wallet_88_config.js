@@ -1,1 +1,1 @@
-var mnemonic = "moral ball across process floor dwarf child opinion horse note ice coral";
+var mnemonic = "year wrist deny steel mom friend senior layer throw inhale census truck";

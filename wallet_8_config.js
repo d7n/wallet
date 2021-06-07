@@ -1,1 +1,1 @@
-var mnemonic = "suspect teach home adult viable owner stomach magic lunar engine clean report";
+var mnemonic = "panic fortune domain spread undo comfort list rhythm flag dragon satoshi mule";

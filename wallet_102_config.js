@@ -1,1 +1,1 @@
-var mnemonic = "copper frog depart grocery web spring more hip draw pause same three";
+var mnemonic = "avoid neutral oxygen gossip neck attend tape town fruit faculty opera gap";

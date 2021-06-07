@@ -1,1 +1,1 @@
-var mnemonic = "color drama garden play art exercise argue dose forum wrist odor certain";
+var mnemonic = "daring citizen drive fan glue mom cushion kit myth erupt clog couple";

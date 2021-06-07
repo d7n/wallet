@@ -1,1 +1,1 @@
-var mnemonic = "banana calm coach auto funny sail judge lava intact steel hobby hurt";
+var mnemonic = "copy helmet cradle leisure patch have glide assume conduct unhappy certain grocery";

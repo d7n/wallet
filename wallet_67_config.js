@@ -1,1 +1,1 @@
-var mnemonic = "load screen seminar primary romance vivid actor relax unusual pepper roast drift";
+var mnemonic = "post outdoor umbrella raise vessel fashion already struggle draft tragic climb scare";

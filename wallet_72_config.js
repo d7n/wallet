@@ -1,1 +1,1 @@
-var mnemonic = "behind issue weird okay version oyster head useful connect dismiss wealth mass";
+var mnemonic = "curtain tool grid kitten vibrant cute wife wonder lumber volume person black";

@@ -1,1 +1,1 @@
-var mnemonic = "silk boss never creek digital tissue figure burger force juice ladder sell";
+var mnemonic = "video jaguar panel bargain vague brief plunge awake lava sorry gown bid";

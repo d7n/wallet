@@ -1,1 +1,1 @@
-var mnemonic = "damp sting jump ceiling maximum planet scheme possible industry suffer duck tongue";
+var mnemonic = "father solid rose inflict agree cradle drum scrap master stove goddess lunar";

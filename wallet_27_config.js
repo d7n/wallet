@@ -1,1 +1,1 @@
-var mnemonic = "spirit panda exotic tent pepper square hidden hat case ladder bottom fiscal";
+var mnemonic = "lift same material great race thing enforce sport oval drip visit vault";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond palace system already broken bone furnace scene alert amused surprise wall";
+var mnemonic = "embrace picture resist phone hawk there host program original awake monitor body";

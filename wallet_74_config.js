@@ -1,1 +1,1 @@
-var mnemonic = "mesh inform couch arm anchor foster bacon lawn route snack come field";
+var mnemonic = "tragic veteran inner minimum tree arrange sleep idle gown net angry praise";

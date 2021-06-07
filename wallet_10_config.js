@@ -1,1 +1,1 @@
-var mnemonic = "fit ready sun omit misery rent spice clerk attack curve unfair reduce";
+var mnemonic = "swallow friend derive fury omit chase balcony oval rival author lawsuit dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "leave open axis dwarf follow cactus orphan leg grant suffer local waste";
+var mnemonic = "damp eternal trim keen repeat siren album couch industry wall observe message";
