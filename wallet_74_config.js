@@ -1,1 +1,1 @@
-var mnemonic = "chimney fit issue lazy chuckle refuse strong laptop elevator oak program wife";
+var mnemonic = "frequent isolate clay staff various wonder patch involve boring midnight rose merge";

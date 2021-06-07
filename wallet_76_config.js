@@ -1,1 +1,1 @@
-var mnemonic = "option kind honey inspire gauge excite search print device remain couch place";
+var mnemonic = "ocean that parrot gaze better acid liberty clutch meat minor clip pulp";

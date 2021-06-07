@@ -1,1 +1,1 @@
-var mnemonic = "bacon reflect harsh mind act transfer exhibit minor afraid rabbit traffic weird";
+var mnemonic = "salmon innocent stable boil license rely scrap plate among verb improve office";

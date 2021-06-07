@@ -1,1 +1,1 @@
-var mnemonic = "humor grocery knife address elephant zebra pattern novel swift hover artwork mimic";
+var mnemonic = "purity defense office title ice replace pool carpet pulse city link inner";

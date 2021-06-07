@@ -1,1 +1,1 @@
-var mnemonic = "curve drip champion churn satoshi tobacco tourist lazy program sail license track";
+var mnemonic = "equip lock tilt naive able inmate attend anchor smooth daughter witness bitter";

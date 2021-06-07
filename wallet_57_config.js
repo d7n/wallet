@@ -1,1 +1,1 @@
-var mnemonic = "toe keen front camp twelve vivid suggest note tumble capital cute stone";
+var mnemonic = "chronic vapor inject primary armed seven curtain west suggest cannon initial zero";

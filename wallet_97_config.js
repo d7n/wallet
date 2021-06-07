@@ -1,1 +1,1 @@
-var mnemonic = "cliff east trash access awake stuff process network bachelor brand point retreat";
+var mnemonic = "enlist bridge body fat warrior grab faculty chase whip age quality vendor";

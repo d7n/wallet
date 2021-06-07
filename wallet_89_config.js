@@ -1,1 +1,1 @@
-var mnemonic = "fox jaguar chest evil fame picture tiger warm cheap spy trial romance";
+var mnemonic = "symbol thunder fashion crazy opera disagree enough nice wealth business grass city";

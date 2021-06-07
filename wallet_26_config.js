@@ -1,1 +1,1 @@
-var mnemonic = "scheme future box fish skin question able route damage uphold detect kiss";
+var mnemonic = "option crisp celery funny okay solid include excite twin label manage ginger";

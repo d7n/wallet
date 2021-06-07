@@ -1,1 +1,1 @@
-var mnemonic = "control toss symbol regret light cost shed run winter noble simple jaguar";
+var mnemonic = "detail question size suspect soap axis original cheese license into rose share";

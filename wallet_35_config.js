@@ -1,1 +1,1 @@
-var mnemonic = "melody razor galaxy tortoise juice small metal siege tilt cat news atom";
+var mnemonic = "collect protect very thumb involve excuse lottery allow program viable shine whisper";

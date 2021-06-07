@@ -1,1 +1,1 @@
-var mnemonic = "cube plunge access venture barely often happy install problem blue chair six";
+var mnemonic = "clay alarm payment meadow target cup misery road dove rapid latin more";

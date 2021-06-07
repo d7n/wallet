@@ -1,1 +1,1 @@
-var mnemonic = "basket child maximum cushion version later push banner parade dice champion question";
+var mnemonic = "champion goose fatigue alone know canvas develop pig weird comic dizzy symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil make indicate vast make forum special source scare federal rack radar";
+var mnemonic = "arch luggage rent memory expose tunnel tumble credit purse clerk apple fashion";

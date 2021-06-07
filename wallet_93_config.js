@@ -1,1 +1,1 @@
-var mnemonic = "auto faculty erupt sugar bike nothing result pulp opera toss combine rally";
+var mnemonic = "breeze grid paddle fresh lazy private social still board destroy race infant";

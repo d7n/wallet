@@ -1,1 +1,1 @@
-var mnemonic = "spend camp gossip supply robot beef make history wall between brother today";
+var mnemonic = "song paddle venue tomato leave buyer page swallow scheme knee pumpkin hire";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle basket chronic private media input upper luggage easy half panel rug";
+var mnemonic = "wonder exhaust forget age puzzle close forest adult cricket coffee split renew";

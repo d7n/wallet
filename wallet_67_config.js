@@ -1,1 +1,1 @@
-var mnemonic = "elder sail ridge patient trip leg void cannon census affair random nothing";
+var mnemonic = "dynamic cream easily street turkey girl endless fury unknown shallow flash symptom";

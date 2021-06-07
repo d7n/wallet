@@ -1,1 +1,1 @@
-var mnemonic = "number dial fee fruit crazy provide tiny moon mandate address renew sword";
+var mnemonic = "repair rib enhance oval cheap retire winter report escape cousin wall chicken";

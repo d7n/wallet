@@ -1,1 +1,1 @@
-var mnemonic = "warfare stadium dish federal walnut blur dutch brick neglect seed three plunge";
+var mnemonic = "toilet risk bind debris viable jealous envelope cute viable utility glimpse chest";

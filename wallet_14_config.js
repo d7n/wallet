@@ -1,1 +1,1 @@
-var mnemonic = "inherit sunny aisle letter produce bag suggest offer benefit phrase boring enemy";
+var mnemonic = "away tribe skirt path tomorrow noise angle sweet easy dream hole ankle";

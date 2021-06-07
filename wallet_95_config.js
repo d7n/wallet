@@ -1,1 +1,1 @@
-var mnemonic = "brother collect correct model digital jacket furnace tomorrow wood planet human rally";
+var mnemonic = "guitar cruise since wish work mystery peasant found elder void liberty web";

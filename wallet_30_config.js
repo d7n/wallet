@@ -1,1 +1,1 @@
-var mnemonic = "accident blanket mask sting current crisp citizen saddle salad increase cool air";
+var mnemonic = "call image birth return gold city metal average try organ real daughter";

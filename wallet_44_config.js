@@ -1,1 +1,1 @@
-var mnemonic = "common keep price member one fatigue wheel time thank sight mango rotate";
+var mnemonic = "beef electric below dinner chimney village tunnel shell coil shy appear more";

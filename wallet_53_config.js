@@ -1,1 +1,1 @@
-var mnemonic = "lonely uncover item rude often chimney gun fog south hope gospel try";
+var mnemonic = "lemon online mobile number rescue filter green symbol outer maple inch dutch";

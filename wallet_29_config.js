@@ -1,1 +1,1 @@
-var mnemonic = "exist pottery immense dwarf pony comic trap abandon broccoli seek mosquito knee";
+var mnemonic = "army slush news inflict hire cargo demise muscle strategy radio tone motor";

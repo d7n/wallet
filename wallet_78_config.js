@@ -1,1 +1,1 @@
-var mnemonic = "canyon fit meadow lens height voyage sight cost diary festival rifle feel";
+var mnemonic = "unfair flash indicate ceiling farm adapt movie trophy suggest ketchup gap hero";

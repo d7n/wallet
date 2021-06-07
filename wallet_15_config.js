@@ -1,1 +1,1 @@
-var mnemonic = "squeeze provide domain cotton exclude pattern attitude history burger fault brave glove";
+var mnemonic = "remove matrix chicken input wrist man scout public double spray office bunker";

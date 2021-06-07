@@ -1,1 +1,1 @@
-var mnemonic = "album once mixture toward brush few kiwi lobster entire absorb clock skill";
+var mnemonic = "slim razor glass trick artwork eagle lonely ask object unusual trick label";

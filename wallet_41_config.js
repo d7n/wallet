@@ -1,1 +1,1 @@
-var mnemonic = "trust access unfair ketchup shadow crater noise degree label seven region broom";
+var mnemonic = "runway boss obey clutch profit buffalo column room hour donate gauge tiger";

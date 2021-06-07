@@ -1,1 +1,1 @@
-var mnemonic = "calm cram spray team hat express season bench evidence pilot sleep foot";
+var mnemonic = "buffalo fetch banner sorry inhale remind powder intact warfare often tent convince";

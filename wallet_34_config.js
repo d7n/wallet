@@ -1,1 +1,1 @@
-var mnemonic = "swim wall toe guitar clean second rebel tribe school salon scorpion grass";
+var mnemonic = "speed coral enact false inch build nut settle music elbow solar link";

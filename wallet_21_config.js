@@ -1,1 +1,1 @@
-var mnemonic = "main skin beach token soup glue sand film good change seven lab";
+var mnemonic = "universe immune bomb mirror rotate gaze pottery medal sting media spawn sheriff";

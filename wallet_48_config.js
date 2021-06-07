@@ -1,1 +1,1 @@
-var mnemonic = "sunny grant rifle arrive interest junk old culture glide protect true smooth";
+var mnemonic = "acid digital kiss engine desk lecture lesson marine matter salute utility mention";

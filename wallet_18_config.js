@@ -1,1 +1,1 @@
-var mnemonic = "undo excite popular foil fat hen yard ivory rabbit stock essay enjoy";
+var mnemonic = "winner wide crush rally spirit vague world daughter ability little orange miss";

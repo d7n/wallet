@@ -1,1 +1,1 @@
-var mnemonic = "friend input decade reform reject nominee night matrix heart very host trick";
+var mnemonic = "timber razor joke dutch liberty fish steak item share need void agent";

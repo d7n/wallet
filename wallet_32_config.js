@@ -1,1 +1,1 @@
-var mnemonic = "tissue cry reveal ramp girl cage seat wave cluster regular math border";
+var mnemonic = "current educate garden razor escape symptom bike plug tortoise chase runway bracket";

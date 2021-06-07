@@ -1,1 +1,1 @@
-var mnemonic = "barely dose worry oblige state wrong velvet castle coyote parent chest breeze";
+var mnemonic = "dose social blush split current pencil assault vibrant describe voice deny warrior";

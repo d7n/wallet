@@ -1,1 +1,1 @@
-var mnemonic = "simple soap million drill cinnamon trouble book hood label tray cram patient";
+var mnemonic = "come rice ramp youth arena then learn remember chimney lesson tank vessel";

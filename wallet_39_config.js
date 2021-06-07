@@ -1,1 +1,1 @@
-var mnemonic = "panda media injury solid empower vague scorpion mother device brief dumb deliver";
+var mnemonic = "swift domain stable day curtain soft oppose hover excess coast win labor";

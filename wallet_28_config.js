@@ -1,1 +1,1 @@
-var mnemonic = "country slow predict rescue void salt leaf parade father curve pudding cave";
+var mnemonic = "girl pony include dice find elder wool lake robust mask frown kid";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle amateur priority float idle ten weasel chef hole paddle celery vibrant";
+var mnemonic = "will crisp peasant accident mango glue arctic range churn position risk girl";

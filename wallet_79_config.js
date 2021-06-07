@@ -1,1 +1,1 @@
-var mnemonic = "rabbit seminar theory mandate tool narrow parent obscure cream now valid riot";
+var mnemonic = "patrol motion cool risk dish arctic glass dose lyrics number wrist reflect";

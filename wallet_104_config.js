@@ -1,1 +1,1 @@
-var mnemonic = "august joke buyer seat inflict mixture select evolve exclude decorate online legend";
+var mnemonic = "blast hazard burger engage cause milk code fit border mountain convince idle";

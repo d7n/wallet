@@ -1,1 +1,1 @@
-var mnemonic = "casual series whisper check media snow sleep unhappy rival glide fresh rely";
+var mnemonic = "recipe tilt liar run outdoor develop plastic ranch shrug agent hobby damp";

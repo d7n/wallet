@@ -1,1 +1,1 @@
-var mnemonic = "mammal bracket equal rebel latin tornado drill dizzy firm utility when expand";
+var mnemonic = "replace tiger amount bargain client swallow squirrel angry chuckle shoot town forum";

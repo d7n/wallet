@@ -1,1 +1,1 @@
-var mnemonic = "absurd inform recipe accident chief pizza winter fire olympic soup install total";
+var mnemonic = "ahead skate prosper analyst animal paddle all inherit bag chase shoot demand";

@@ -1,1 +1,1 @@
-var mnemonic = "mother distance blossom voice budget rate guide hand between idle term damage";
+var mnemonic = "pull veteran prison erosion teach order paper robust soldier neglect tennis bone";

@@ -1,1 +1,1 @@
-var mnemonic = "interest column decline swing width trial armed tool birth scheme clown approve";
+var mnemonic = "nose rich wash memory stadium safe surprise trust sword observe supply wing";

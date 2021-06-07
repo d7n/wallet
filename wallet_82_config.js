@@ -1,1 +1,1 @@
-var mnemonic = "critic path various melt defy carry poem because dad bundle include jump";
+var mnemonic = "property jelly throw soup extra control fall level minor regular reason adult";

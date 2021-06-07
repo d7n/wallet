@@ -1,1 +1,1 @@
-var mnemonic = "gold fresh tornado off law tank equip hospital project voyage cereal surge";
+var mnemonic = "only blame priority rice unhappy catch image limit puzzle trash question clay";

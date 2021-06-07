@@ -1,1 +1,1 @@
-var mnemonic = "conduct brain wife waste atom good toward strategy leopard salute judge project";
+var mnemonic = "obvious solve bench sport tennis ignore same man recipe dirt opinion ritual";

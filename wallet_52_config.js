@@ -1,1 +1,1 @@
-var mnemonic = "vocal this you arctic hedgehog tool chest van warm purpose monitor zebra";
+var mnemonic = "indicate blur expect spoil female such brisk bubble record miracle frost rain";

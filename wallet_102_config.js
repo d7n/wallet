@@ -1,1 +1,1 @@
-var mnemonic = "crisp exotic maple anchor output fatal fork safe sure regular exhaust tomorrow";
+var mnemonic = "mobile mimic purchase hidden bone entire leisure obey hundred owner wire castle";

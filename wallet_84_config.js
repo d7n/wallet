@@ -1,1 +1,1 @@
-var mnemonic = "rug scatter mistake six magic salute trick coil vintage morning fog empty";
+var mnemonic = "eternal dwarf lock grid taste design add honey book pumpkin diet appear";

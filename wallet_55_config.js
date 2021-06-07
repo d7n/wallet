@@ -1,1 +1,1 @@
-var mnemonic = "inspire task scrap regret future action lock tattoo furnace immune pig slice";
+var mnemonic = "bird flame more impact drift lucky couple mind plug neither north income";

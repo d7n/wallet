@@ -1,1 +1,1 @@
-var mnemonic = "fiber habit leisure seat visual odor myth reduce perfect salute crew game";
+var mnemonic = "way enough develop rebel refuse nest soap keep street rapid grace aware";

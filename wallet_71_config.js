@@ -1,1 +1,1 @@
-var mnemonic = "present plastic clip will size happy urge sudden property junk toilet galaxy";
+var mnemonic = "moment box comfort palace couch grid genius advice torch base follow rebel";

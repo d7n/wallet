@@ -1,1 +1,1 @@
-var mnemonic = "certain crumble pony genius off north transfer uncle salad bonus fiber ranch";
+var mnemonic = "quiz anger retire reward security girl dry birth jaguar frog lawn rotate";

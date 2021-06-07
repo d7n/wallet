@@ -1,1 +1,1 @@
-var mnemonic = "toddler chronic odor eyebrow tired absorb across turtle purchase rabbit soldier paper";
+var mnemonic = "biology forward keep rebel genuine letter kiss family large nose hurt scatter";

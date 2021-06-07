@@ -1,1 +1,1 @@
-var mnemonic = "promote dove pull pudding absorb beach frog humble fossil worry thank jelly";
+var mnemonic = "guide collect muffin area bracket invest enemy can mansion seat river enroll";

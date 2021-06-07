@@ -1,1 +1,1 @@
-var mnemonic = "must make federal moment sudden syrup shuffle diary cruel fancy call impulse";
+var mnemonic = "gown sausage utility hockey proud miss rebuild sell other wrestle soul engage";

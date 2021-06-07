@@ -1,1 +1,1 @@
-var mnemonic = "donkey civil cactus rail panda party funny travel route unit snack boss";
+var mnemonic = "dog follow dice scheme match fix hip fat legal unhappy notable hockey";

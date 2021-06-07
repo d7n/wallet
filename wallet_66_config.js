@@ -1,1 +1,1 @@
-var mnemonic = "fame gas shoulder usual color crater bulb ginger since hand lounge fatal";
+var mnemonic = "ability useful expose increase kiwi assault video defense educate essence multiply below";

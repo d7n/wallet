@@ -1,1 +1,1 @@
-var mnemonic = "damp combine suspect type purpose recipe neck vote lawsuit spoon shell asthma";
+var mnemonic = "claim drop hospital social humor clever mouse practice dial rigid six display";

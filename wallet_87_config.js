@@ -1,1 +1,1 @@
-var mnemonic = "crane soccer found multiply give machine camp tower film hybrid ensure deer";
+var mnemonic = "degree slide record naive market lady topple jump trash sport any achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise canyon axis faculty into express fine rude october art rebuild athlete";
+var mnemonic = "reason balance misery quit panic case oxygen idle smooth mandate lizard grass";

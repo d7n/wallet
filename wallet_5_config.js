@@ -1,1 +1,1 @@
-var mnemonic = "impact grunt crunch assume weather proof sound volume person whip head device";
+var mnemonic = "field excuse sell page treat tourist enough emotion afford trash seed unaware";

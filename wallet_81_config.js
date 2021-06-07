@@ -1,1 +1,1 @@
-var mnemonic = "learn fitness frog explain fade primary topic cargo leaf process burst shrimp";
+var mnemonic = "youth blush seek turn pave embark wrist viable purse room cost urge";

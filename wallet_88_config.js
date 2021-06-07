@@ -1,1 +1,1 @@
-var mnemonic = "turtle wool source toe ginger answer cool depend vague anchor spawn noble";
+var mnemonic = "exotic dial whale subway vocal connect monkey way donate habit hire want";

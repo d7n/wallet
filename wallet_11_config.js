@@ -1,1 +1,1 @@
-var mnemonic = "furnace moon skill pill seek brown wave orbit mushroom salt salmon jeans";
+var mnemonic = "success oak bone increase identify guilt fade midnight answer slide dilemma join";

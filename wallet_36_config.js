@@ -1,1 +1,1 @@
-var mnemonic = "flip exhaust view service onion million sphere fury fuel water young helmet";
+var mnemonic = "boost stock sketch dismiss bid section volcano food traffic street attend risk";

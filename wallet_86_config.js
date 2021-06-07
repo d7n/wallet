@@ -1,1 +1,1 @@
-var mnemonic = "bring put pig tail wealth chef delay pair noble hint brush more";
+var mnemonic = "story jacket once forward since cradle hat ridge draw syrup ability theory";

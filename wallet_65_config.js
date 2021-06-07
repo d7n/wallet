@@ -1,1 +1,1 @@
-var mnemonic = "power retreat keen frog change prepare expand ancient real dad wedding upper";
+var mnemonic = "web empty satoshi artist swallow fury detect film concert cushion nurse romance";

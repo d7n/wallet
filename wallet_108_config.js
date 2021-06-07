@@ -1,1 +1,1 @@
-var mnemonic = "opera debris benefit grace spoon spatial enter tree ladder miss myth dilemma";
+var mnemonic = "flight doctor lend jacket review dice galaxy disease ability develop mixture whisper";

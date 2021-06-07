@@ -1,1 +1,1 @@
-var mnemonic = "gloom road forest uniform average erode maple calm script earth rain rely";
+var mnemonic = "own bundle science rebel genius collect fatal sure athlete carbon asset loyal";

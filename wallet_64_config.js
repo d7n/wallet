@@ -1,1 +1,1 @@
-var mnemonic = "novel acquire near man congress cave shove address kangaroo lonely turtle dad";
+var mnemonic = "fit library exhibit wreck find dismiss puzzle dynamic glory stereo drink exile";

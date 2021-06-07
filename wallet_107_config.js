@@ -1,1 +1,1 @@
-var mnemonic = "deposit expect jungle pupil series butter battle crouch dumb remember stadium shop";
+var mnemonic = "jar knee copper sail derive nothing faint brush cream airport script leaf";

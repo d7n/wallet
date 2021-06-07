@@ -1,1 +1,1 @@
-var mnemonic = "plate shallow when clog bachelor shaft dilemma island average wedding purse private";
+var mnemonic = "afford orphan reveal legal consider afford woman mom cloth review enforce payment";

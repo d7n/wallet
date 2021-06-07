@@ -1,1 +1,1 @@
-var mnemonic = "where narrow list rocket sort trouble fury assault common replace mass mouse";
+var mnemonic = "youth case economy innocent enforce lizard report develop entire humble mango rose";

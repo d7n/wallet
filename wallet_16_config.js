@@ -1,1 +1,1 @@
-var mnemonic = "elegant truck reform seminar penalty possible owner twin betray beach half ignore";
+var mnemonic = "wine orphan parrot satoshi pyramid pumpkin body trouble helmet doctor raw reunion";

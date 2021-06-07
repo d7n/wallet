@@ -1,1 +1,1 @@
-var mnemonic = "grab bronze setup sell marine sample opinion science comfort stay oak cannon";
+var mnemonic = "section input scorpion unlock apology autumn view coach resemble produce tired wreck";

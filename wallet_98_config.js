@@ -1,1 +1,1 @@
-var mnemonic = "soccer disorder fun fragile impose cushion winter aunt sorry that letter catch";
+var mnemonic = "mixture all army artwork until limit unfair lyrics lucky glow option ready";

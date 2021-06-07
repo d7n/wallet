@@ -1,1 +1,1 @@
-var mnemonic = "slender drive bomb body unfair cost charge chimney despair infant strategy supply";
+var mnemonic = "rude pole shield trouble mind regret special scatter praise march motor often";

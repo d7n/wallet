@@ -1,1 +1,1 @@
-var mnemonic = "tired angle artist capital still length tissue mule wood youth fox plate";
+var mnemonic = "setup height casino cook hero pen quit normal trend review nothing problem";

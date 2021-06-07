@@ -1,1 +1,1 @@
-var mnemonic = "trust unhappy kitchen because height pigeon penalty puppy title credit hammer donor";
+var mnemonic = "beef garage forum seek kiss industry stay bacon hurt inflict noble hard";

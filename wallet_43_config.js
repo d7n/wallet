@@ -1,1 +1,1 @@
-var mnemonic = "exhaust unhappy nephew fog strong other wasp addict actual hunt dutch quarter";
+var mnemonic = "case point special paper erosion ranch chalk bid fit joy catch trap";

@@ -1,1 +1,1 @@
-var mnemonic = "flat gun plate produce little caution trigger this autumn long outside tumble";
+var mnemonic = "urge obvious deliver fabric audit oblige parent coyote crunch defy sad solid";

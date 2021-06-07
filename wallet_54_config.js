@@ -1,1 +1,1 @@
-var mnemonic = "nominee awake sell hint urban amount audit limit swap expand model witness";
+var mnemonic = "length chronic crater volume island other cactus once frozen push tag armed";

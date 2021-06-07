@@ -1,1 +1,1 @@
-var mnemonic = "display bird mule return together unfold crawl armed exhaust head source copy";
+var mnemonic = "click six major bright north surge thought then rotate above evidence tonight";

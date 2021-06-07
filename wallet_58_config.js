@@ -1,1 +1,1 @@
-var mnemonic = "course search enemy furnace peanut skull blue squirrel mountain two tone brother";
+var mnemonic = "recall boil million glue valley emotion cup suit donor strong empower various";

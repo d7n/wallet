@@ -1,1 +1,1 @@
-var mnemonic = "credit stool program slice soldier trash indicate chat shine second chase glad";
+var mnemonic = "crime loan girl suffer feel code time miracle zoo wood dilemma harsh";
