@@ -1,1 +1,1 @@
-var mnemonic = "plate grunt swamp grant ethics arrest admit skill amazing snake gesture alley";
+var mnemonic = "object long identify law crush awkward toss senior east until supply scan";

@@ -1,1 +1,1 @@
-var mnemonic = "chair labor beauty transfer claim battle better soccer security fence jelly denial";
+var mnemonic = "believe drama can ugly current drink child fringe media model fashion resist";

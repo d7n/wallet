@@ -1,1 +1,1 @@
-var mnemonic = "weather afraid virtual gentle solid lock rather pelican library toddler moon pluck";
+var mnemonic = "upper shift exact predict scene ketchup ball frog reveal pyramid business observe";

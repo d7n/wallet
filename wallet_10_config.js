@@ -1,1 +1,1 @@
-var mnemonic = "check learn orient void vapor silly device write forward dance taxi tourist";
+var mnemonic = "occur camp grass cross west around host eagle girl science relax cattle";

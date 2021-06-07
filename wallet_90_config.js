@@ -1,1 +1,1 @@
-var mnemonic = "cool work achieve fortune cargo crouch mimic bottom search amused unit raccoon";
+var mnemonic = "denial prefer husband stone split duty submit culture hero immune trim chalk";

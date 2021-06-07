@@ -1,1 +1,1 @@
-var mnemonic = "monster fetch clutch city vintage museum excuse slush use scan enrich change";
+var mnemonic = "rug pupil bar theory stock project dwarf pulp eight empower build nasty";

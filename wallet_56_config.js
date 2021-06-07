@@ -1,1 +1,1 @@
-var mnemonic = "share search mosquito usage divert person link eye check recall hotel more";
+var mnemonic = "marriage upgrade alcohol total stick false length lounge saddle bamboo inner tank";

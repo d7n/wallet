@@ -1,1 +1,1 @@
-var mnemonic = "slab deal orange aisle grunt example leader radar section sell enlist step";
+var mnemonic = "pistol fade black chuckle estate fork cute car oxygen apology candy naive";

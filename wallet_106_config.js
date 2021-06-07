@@ -1,1 +1,1 @@
-var mnemonic = "fatal crouch tape picnic rifle era charge leader because lock absurd hammer";
+var mnemonic = "clerk able unaware climb effort burst side jazz cat inmate piece twin";

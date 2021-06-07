@@ -1,1 +1,1 @@
-var mnemonic = "decline ribbon hungry wedding shuffle outside coffee chair measure give camera session";
+var mnemonic = "polar assault fluid glass grape carry brass logic awake fish again region";

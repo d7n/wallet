@@ -1,1 +1,1 @@
-var mnemonic = "fortune divert fluid scissors earn plate rose foot bracket bus rocket charge";
+var mnemonic = "chapter ring cotton already quality pudding spring opera spirit olympic illegal cup";

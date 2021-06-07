@@ -1,1 +1,1 @@
-var mnemonic = "congress access merit route atom cereal phone indicate enemy vivid all gun";
+var mnemonic = "visit lyrics penalty swim cannon often embrace feed rug broken derive brick";

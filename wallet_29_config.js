@@ -1,1 +1,1 @@
-var mnemonic = "board milk fuel game mobile equal ready possible lucky canyon rude moral";
+var mnemonic = "fiber poem dog good opinion waste access raven vital lawn all clutch";

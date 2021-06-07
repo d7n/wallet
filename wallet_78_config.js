@@ -1,1 +1,1 @@
-var mnemonic = "pepper viable usage oppose speak utility tail ceiling kingdom steak album aspect";
+var mnemonic = "cruel reason sample anger fatal okay furnace near boat welcome include middle";

@@ -1,1 +1,1 @@
-var mnemonic = "come aspect much talent wine because ecology worry kitchen pitch virus dance";
+var mnemonic = "wet dust device now prosper primary also again total nice dirt effort";

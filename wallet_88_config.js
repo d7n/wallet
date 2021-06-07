@@ -1,1 +1,1 @@
-var mnemonic = "toast guitar ten smoke power adapt stairs canyon above put suggest cradle";
+var mnemonic = "carry unhappy lizard rate shallow crack rate earn organ series balcony choose";

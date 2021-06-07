@@ -1,1 +1,1 @@
-var mnemonic = "page perfect dynamic horn seat bread ketchup pioneer file behind eternal design";
+var mnemonic = "ocean jump guide victory bus fatal bean vicious expand damp aware runway";

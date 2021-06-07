@@ -1,1 +1,1 @@
-var mnemonic = "afraid mandate filter alpha cheap glare antenna slice rate magic weather upon";
+var mnemonic = "order inform sound phrase wrist kite bamboo twice improve shock twelve coral";

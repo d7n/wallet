@@ -1,1 +1,1 @@
-var mnemonic = "venue leg version rail focus ghost cancel excess nothing squeeze trip sausage";
+var mnemonic = "space access display person reason eager muffin list coil erosion spread mango";

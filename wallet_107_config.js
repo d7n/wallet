@@ -1,1 +1,1 @@
-var mnemonic = "lock grocery autumn celery ripple apart rebuild vintage glue just inhale multiply";
+var mnemonic = "slide flame deny erode lend predict direct hollow noise guess acoustic into";

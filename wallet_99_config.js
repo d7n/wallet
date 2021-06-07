@@ -1,1 +1,1 @@
-var mnemonic = "vague assault magnet unfold bunker humor horn robot chalk exercise slam recall";
+var mnemonic = "mercy tide fabric cactus squeeze lottery arch allow stick monkey medal intact";

@@ -1,1 +1,1 @@
-var mnemonic = "hard document unknown wave erode moral bitter pistol worry enroll dentist noodle";
+var mnemonic = "ski emotion stamp infant person grace judge wonder print choice pull behind";

@@ -1,1 +1,1 @@
-var mnemonic = "just lend pet people film sorry build sight toe weekend ill clog";
+var mnemonic = "odor sadness rug lounge version friend initial private chuckle toss appear dizzy";

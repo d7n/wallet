@@ -1,1 +1,1 @@
-var mnemonic = "render destroy couch six summer excite tiny sunny harsh chronic spike jaguar";
+var mnemonic = "paper dragon stairs final scheme utility shell junior harvest shop orient rose";

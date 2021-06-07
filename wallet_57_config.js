@@ -1,1 +1,1 @@
-var mnemonic = "seven vapor slice tribe reveal scare space fresh ski elbow route weasel";
+var mnemonic = "intact train pottery fatigue goat return toward guard visit knee tomorrow unlock";

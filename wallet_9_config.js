@@ -1,1 +1,1 @@
-var mnemonic = "donor repeat symbol repair zebra green black dinner rubber hard blame sausage";
+var mnemonic = "park wish prevent neck simple correct large detail stereo bless rocket acoustic";

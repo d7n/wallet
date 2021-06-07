@@ -1,1 +1,1 @@
-var mnemonic = "half wheel below lounge moment twin simple virtual impact polar enemy square";
+var mnemonic = "stay film live vintage fun dirt athlete welcome crawl easy innocent century";

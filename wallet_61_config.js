@@ -1,1 +1,1 @@
-var mnemonic = "iron issue trophy pitch supreme celery tip board present bid lemon month";
+var mnemonic = "improve good either delay blind plate develop awkward neck verb drive chimney";

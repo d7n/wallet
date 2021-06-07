@@ -1,1 +1,1 @@
-var mnemonic = "renew section budget weather day crop express little faculty slogan sea wage";
+var mnemonic = "spoil menu blur mutual abuse dizzy into opinion traffic exist office grab";

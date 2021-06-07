@@ -1,1 +1,1 @@
-var mnemonic = "leader shove access price receive nest install detail salon damage enroll proof";
+var mnemonic = "venue ceiling glue travel exit culture demise trial width village suit human";

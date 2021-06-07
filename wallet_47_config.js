@@ -1,1 +1,1 @@
-var mnemonic = "divide note grace question mansion like drastic body glance mammal culture eternal";
+var mnemonic = "crater obtain enroll addict leaf sustain uphold brief leave filter scene dumb";

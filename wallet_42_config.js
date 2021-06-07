@@ -1,1 +1,1 @@
-var mnemonic = "anxiety bind final submit umbrella duck month weather maximum clarify board office";
+var mnemonic = "butter legend skate purchase fee cross tribe erase rough shine tribe hold";

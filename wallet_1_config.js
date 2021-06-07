@@ -1,1 +1,1 @@
-var mnemonic = "level actress ostrich animal sort fitness guess merit access profit rain vague";
+var mnemonic = "truly muffin hour plug polar claw wine stuff move topic spatial powder";

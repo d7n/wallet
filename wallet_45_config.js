@@ -1,1 +1,1 @@
-var mnemonic = "outside myself cousin card curious adjust screen shift since foam pave acquire";
+var mnemonic = "text radio jelly emerge young thrive spot town poem stumble spin paper";

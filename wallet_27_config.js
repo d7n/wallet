@@ -1,1 +1,1 @@
-var mnemonic = "mesh weasel mango act fee asthma tape latin cancel peace north artist";
+var mnemonic = "pigeon banner fire return hat vault eagle sting jar else floor author";

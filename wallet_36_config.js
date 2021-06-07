@@ -1,1 +1,1 @@
-var mnemonic = "glare super viable march plug give barely frown tonight oppose void into";
+var mnemonic = "case balcony promote robot grit april correct observe jewel dog item post";

@@ -1,1 +1,1 @@
-var mnemonic = "sting review humor balcony upper wink return stick hover disagree crane power";
+var mnemonic = "filter bag van market urban screen soon athlete announce inspire connect select";

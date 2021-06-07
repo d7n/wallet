@@ -1,1 +1,1 @@
-var mnemonic = "annual dance heavy walnut shiver nice must prison strike town random core";
+var mnemonic = "garbage engage busy hope another spot about fee help grow best weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition wise sustain coral noodle oblige focus path elbow trust truly ancient";
+var mnemonic = "know aspect glass evoke expose body ghost script autumn theory during nephew";

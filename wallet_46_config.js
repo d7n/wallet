@@ -1,1 +1,1 @@
-var mnemonic = "mad day cargo behind fee lake exotic off arctic hint today sea";
+var mnemonic = "mom man ordinary whale certain nation daughter demise catalog rebuild weasel possible";

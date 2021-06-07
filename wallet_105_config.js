@@ -1,1 +1,1 @@
-var mnemonic = "retreat convince run magnet minor curve phrase gauge tray winner cause donkey";
+var mnemonic = "raccoon liar arrest empty barrel frost door blind first blush relax submit";

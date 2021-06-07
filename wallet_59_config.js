@@ -1,1 +1,1 @@
-var mnemonic = "ancient neglect enact hospital vanish once sea aunt mail average canal arctic";
+var mnemonic = "loop infant thank oval drip spot curve language crane catch unaware capable";

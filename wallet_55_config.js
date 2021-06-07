@@ -1,1 +1,1 @@
-var mnemonic = "suggest neutral survey enable open fever manage taxi device person organ expire";
+var mnemonic = "oblige index section daughter bitter enable always learn mad another sauce cram";

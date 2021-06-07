@@ -1,1 +1,1 @@
-var mnemonic = "pluck fringe leg option motor benefit west suggest decline forest soon oppose";
+var mnemonic = "meadow quality pause phone work total mixture kid inside modify save tomorrow";

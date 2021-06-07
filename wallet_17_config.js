@@ -1,1 +1,1 @@
-var mnemonic = "toilet alpha stadium monkey vote hub chair excite middle slush sound arm";
+var mnemonic = "fork best test forum fade tired weasel all enhance frown possible club";

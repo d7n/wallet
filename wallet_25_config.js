@@ -1,1 +1,1 @@
-var mnemonic = "romance gold note polar version civil melt stand express orbit dish surge";
+var mnemonic = "drive snow settle knock stereo aware suggest receive design token floor shift";

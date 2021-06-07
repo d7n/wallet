@@ -1,1 +1,1 @@
-var mnemonic = "circle west soap cotton music pair stove usage crack layer film umbrella";
+var mnemonic = "wide clip reform diary mobile title source indoor suffer axis elbow august";

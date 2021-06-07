@@ -1,1 +1,1 @@
-var mnemonic = "turkey help wrap market eyebrow mosquito once noble salad steak illegal keen";
+var mnemonic = "attract gold impact search saddle umbrella sample hen twice bus opera extra";

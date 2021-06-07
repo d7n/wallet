@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow gallery soul bargain lend erupt crew subject cereal sibling image moon";
+var mnemonic = "weekend cinnamon blast buyer artist develop weasel wide fashion negative chicken shine";

@@ -1,1 +1,1 @@
-var mnemonic = "tone more pyramid glory hover primary toddler scheme dilemma mansion hen thing";
+var mnemonic = "always issue trust fitness damp swarm word pride nothing since stumble enemy";

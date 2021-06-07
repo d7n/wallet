@@ -1,1 +1,1 @@
-var mnemonic = "glide hockey spell conduct meadow submit turtle supreme popular harsh news assault";
+var mnemonic = "lock middle resemble decade click narrow rent soldier utility place annual sorry";

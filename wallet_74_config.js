@@ -1,1 +1,1 @@
-var mnemonic = "deputy axis fish youth amateur rival isolate where crystal scale caution input";
+var mnemonic = "tiger brush mean seat vibrant render solve flame shop boost amused priority";

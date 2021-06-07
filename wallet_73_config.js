@@ -1,1 +1,1 @@
-var mnemonic = "warfare major mistake figure goose real embody multiply lobster digital write fence";
+var mnemonic = "orphan boring doctor whisper glove acoustic game actor argue diet lamp square";

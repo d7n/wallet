@@ -1,1 +1,1 @@
-var mnemonic = "palace battle during elder sunset vessel body crazy deal nuclear arrest dirt";
+var mnemonic = "mother economy similar cable reform limb atom unable muscle title prison equal";

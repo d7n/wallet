@@ -1,1 +1,1 @@
-var mnemonic = "dinner lake infant diary fish stomach knife air oxygen pottery best chest";
+var mnemonic = "rhythm fit palm episode senior inflict meat gossip accuse emerge raven off";

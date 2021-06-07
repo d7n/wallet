@@ -1,1 +1,1 @@
-var mnemonic = "aunt keep cement question shoulder crane carry radio witness pact gap hip";
+var mnemonic = "quiz drift era grocery pizza wing depart vendor analyst domain supreme blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "screen mosquito smoke crime diary toe dawn hollow input carpet swallow dutch";
+var mnemonic = "vivid lonely project camera lion jelly bridge slow loan large flag armor";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel puppy giggle gaze accident still enjoy human orange exist yellow team";
+var mnemonic = "extend endorse chair squeeze rookie forget vocal hamster novel lemon runway damage";

@@ -1,1 +1,1 @@
-var mnemonic = "fox organ review moment share media team target there atom region also";
+var mnemonic = "wink arm diagram slab green vague stamp quarter finger climb attend surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "news crouch iron category dolphin find dice slam point mix cheap analyst";
+var mnemonic = "syrup carpet mesh truly limit hub deer early thrive salon clean correct";

@@ -1,1 +1,1 @@
-var mnemonic = "action antenna course dash hat squeeze enable obtain among cloud huge picture";
+var mnemonic = "force bring piano thrive speed pause reduce change roast salmon spread virus";

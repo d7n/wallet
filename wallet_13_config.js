@@ -1,1 +1,1 @@
-var mnemonic = "post humble candy ankle barrel foot slogan bid uphold brick time pudding";
+var mnemonic = "tribe female ranch online sign protect own faint mesh bicycle reject federal";

@@ -1,1 +1,1 @@
-var mnemonic = "topic unusual buddy crop torch nest blouse toy skirt injury inform alone";
+var mnemonic = "critic core solution crime subway close thunder destroy youth embrace auto witness";

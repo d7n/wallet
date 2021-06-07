@@ -1,1 +1,1 @@
-var mnemonic = "ranch prosper winner liberty outer scale art suggest antenna umbrella banana lunar";
+var mnemonic = "canvas man cause promote scare quit stomach amateur dumb very fortune bomb";

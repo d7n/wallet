@@ -1,1 +1,1 @@
-var mnemonic = "lizard ankle tumble position journey walk unknown family actress volume always keen";
+var mnemonic = "snack autumn eyebrow chunk wave toast fuel gasp measure wife echo hello";

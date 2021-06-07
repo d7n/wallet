@@ -1,1 +1,1 @@
-var mnemonic = "fury globe neutral social romance mango glass knee nature helmet night plunge";
+var mnemonic = "peace year spot okay search retire essence reform typical chapter siren axis";

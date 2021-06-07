@@ -1,1 +1,1 @@
-var mnemonic = "little lunch much ball hard oppose salt scheme ankle pattern know barrel";
+var mnemonic = "amateur door cup liberty ranch expand group accuse ignore purity hunt denial";

@@ -1,1 +1,1 @@
-var mnemonic = "kind appear spray since inhale husband purse script left total update agent";
+var mnemonic = "river globe note improve crazy boil salute often hair satisfy two taste";

@@ -1,1 +1,1 @@
-var mnemonic = "number want bar lemon series above rather flag video episode avoid marriage";
+var mnemonic = "twenty poverty critic mix deer runway marble clog wire idea talent busy";

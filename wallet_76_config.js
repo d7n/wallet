@@ -1,1 +1,1 @@
-var mnemonic = "file connect advance panther cheese evoke busy square question rely shrimp alone";
+var mnemonic = "light shrimp grunt fish guitar atom spell mutual damp chimney desk income";

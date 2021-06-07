@@ -1,1 +1,1 @@
-var mnemonic = "noise cream smoke enforce battle culture please peanut penalty dinner math fetch";
+var mnemonic = "life second orbit outer canvas critic script stand senior punch goat pig";

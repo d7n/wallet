@@ -1,1 +1,1 @@
-var mnemonic = "pole rookie slogan butter rhythm tuition pool category only divide dress cube";
+var mnemonic = "hat green wagon jewel behind power tip endorse column ocean lake mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn vendor twist wrestle survey attitude olive wedding license street pride hand";
+var mnemonic = "twin raccoon melt vanish miss oppose social salon ceiling rescue tennis blame";

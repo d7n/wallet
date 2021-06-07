@@ -1,1 +1,1 @@
-var mnemonic = "move traffic fine aspect load code mercy neglect seek define route shrimp";
+var mnemonic = "size old budget robot sight concert august squeeze circle battle time engage";

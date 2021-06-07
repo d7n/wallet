@@ -1,1 +1,1 @@
-var mnemonic = "language excuse raven vintage utility body knee image pencil tattoo spike alcohol";
+var mnemonic = "cabin enter olympic rack various kind dry define unhappy car small affair";

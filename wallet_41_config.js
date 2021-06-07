@@ -1,1 +1,1 @@
-var mnemonic = "sea brand lounge virtual group indoor scan wrap ivory sorry response will";
+var mnemonic = "dilemma soft owner maple syrup antenna salt usage echo hip patrol coach";

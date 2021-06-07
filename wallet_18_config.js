@@ -1,1 +1,1 @@
-var mnemonic = "display drastic pizza group siren hat still extend leopard clay snap mass";
+var mnemonic = "tilt gorilla wheat tonight around that congress sort tool deposit dismiss edge";

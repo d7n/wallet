@@ -1,1 +1,1 @@
-var mnemonic = "such canvas sight bubble second derive enrich gown emerge avoid much loan";
+var mnemonic = "cruise vibrant balcony flee surprise account castle acid proud mixed sting humor";

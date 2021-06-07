@@ -1,1 +1,1 @@
-var mnemonic = "screen real media differ face cruise steak dinosaur trouble buddy eagle choice";
+var mnemonic = "poet famous inherit develop level neck rare involve talk monster return dial";

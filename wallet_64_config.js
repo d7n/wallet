@@ -1,1 +1,1 @@
-var mnemonic = "code improve such stem nothing coil network earth fork icon head buffalo";
+var mnemonic = "laundry parrot focus medal elevator double clump wisdom assist number strong six";

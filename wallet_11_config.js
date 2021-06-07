@@ -1,1 +1,1 @@
-var mnemonic = "embrace river cup play swamp head upset sadness surround hover frog sense";
+var mnemonic = "taste rigid grid refuse picture beach poet capable wheel whip fitness tube";

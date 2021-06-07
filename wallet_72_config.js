@@ -1,1 +1,1 @@
-var mnemonic = "pigeon season pill ski card radar whip bonus emotion benefit again excuse";
+var mnemonic = "candy order pyramid sea panther wall only squeeze wire fluid emotion small";

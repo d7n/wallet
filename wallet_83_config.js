@@ -1,1 +1,1 @@
-var mnemonic = "float dignity love chief dumb furnace outer chest win artwork noise prefer";
+var mnemonic = "subject switch duty blur clutch pitch borrow typical local menu carbon seek";

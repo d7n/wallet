@@ -1,1 +1,1 @@
-var mnemonic = "because grow lottery actual stadium charge earth purchase sustain theme fashion will";
+var mnemonic = "always cradle valley invest lens cereal thumb mention rail pitch battle perfect";

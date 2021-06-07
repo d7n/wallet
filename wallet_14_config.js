@@ -1,1 +1,1 @@
-var mnemonic = "auto slot mobile head impact wreck move calm prison clown village grape";
+var mnemonic = "jump humor salt exhibit pledge luggage switch panic oppose practice nominee mushroom";

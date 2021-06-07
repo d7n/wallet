@@ -1,1 +1,1 @@
-var mnemonic = "plastic eight dizzy flag ceiling image daughter aunt mimic office live grass";
+var mnemonic = "rule hole fence spatial banana chapter theory cactus actress bleak mom clog";

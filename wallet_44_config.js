@@ -1,1 +1,1 @@
-var mnemonic = "ethics arrest target update luggage energy change they scatter prison decorate speak";
+var mnemonic = "reflect duty album drum much asset arrow acoustic pudding cotton bacon brother";

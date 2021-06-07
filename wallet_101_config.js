@@ -1,1 +1,1 @@
-var mnemonic = "anxiety grocery man illegal legend torch spice girl gas liberty patient panda";
+var mnemonic = "glimpse coach echo latin error busy laptop summer faith network fun jaguar";

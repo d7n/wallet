@@ -1,1 +1,1 @@
-var mnemonic = "steel satisfy raccoon guide sun monster upper seminar female tourist clog undo";
+var mnemonic = "short message flag sadness used infant cram cage regular obtain tobacco proud";

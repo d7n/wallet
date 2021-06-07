@@ -1,1 +1,1 @@
-var mnemonic = "scheme smart chef waste floor hero comic farm brain express ankle proof";
+var mnemonic = "minimum science banana badge frost topic ten load path pledge short juice";
