@@ -1,1 +1,1 @@
-var mnemonic = "glass explain fault travel then hundred spawn faculty small decide lonely dress";
+var mnemonic = "math bar common swamp orient collect maze hunt once steel matrix sudden";

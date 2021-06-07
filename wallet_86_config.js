@@ -1,1 +1,1 @@
-var mnemonic = "pluck salute either thank pride step fiction dinner spin brick void display";
+var mnemonic = "lock soda alarm truck review argue until either elite auction benefit common";

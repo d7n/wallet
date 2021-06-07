@@ -1,1 +1,1 @@
-var mnemonic = "explain palm fan dry brain pigeon solar color brother float jaguar idle";
+var mnemonic = "rocket carbon video general diesel sponsor urban course view duty sign analyst";

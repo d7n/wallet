@@ -1,1 +1,1 @@
-var mnemonic = "odor jungle cinnamon rigid ahead opera abandon catch beyond chair amount wage";
+var mnemonic = "text harbor yard royal marriage wing upset fever confirm filter solid curve";

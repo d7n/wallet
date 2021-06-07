@@ -1,1 +1,1 @@
-var mnemonic = "melt save alarm cheese innocent lottery roof soup hub globe jelly gift";
+var mnemonic = "grief phone spider potato ask hazard horror original machine once flip joke";

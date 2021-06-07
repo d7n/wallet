@@ -1,1 +1,1 @@
-var mnemonic = "charge cinnamon code ribbon host enjoy bar whale rotate spin sun return";
+var mnemonic = "three author fall object setup mind world tattoo come cactus fee sleep";

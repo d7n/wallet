@@ -1,1 +1,1 @@
-var mnemonic = "helmet avoid such patient spring develop spray certain fancy try ostrich cram";
+var mnemonic = "carry gospel beauty creek inhale explain slush phrase sorry fix husband certain";

@@ -1,1 +1,1 @@
-var mnemonic = "mean street raw member divide border weasel urban sea rate step damp";
+var mnemonic = "eight analyst grief frame useless manage theme bamboo barely crunch jelly trip";

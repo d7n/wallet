@@ -1,1 +1,1 @@
-var mnemonic = "refuse betray naive city still cute high grab color work around embrace";
+var mnemonic = "twist cousin wolf tuna occur theme fortune merry gesture alter tone trend";

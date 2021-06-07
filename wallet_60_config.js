@@ -1,1 +1,1 @@
-var mnemonic = "quantum kind gather major chunk fragile smoke warrior trade trust satisfy subject";
+var mnemonic = "dilemma now exile embark badge train detail mosquito rifle enable alley save";

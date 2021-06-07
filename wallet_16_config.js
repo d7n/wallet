@@ -1,1 +1,1 @@
-var mnemonic = "venture alone second dinner exhaust regret comic easy depend dragon account round";
+var mnemonic = "grit ask rib three behave mail audit illegal route face impulse pen";

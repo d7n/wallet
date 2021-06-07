@@ -1,1 +1,1 @@
-var mnemonic = "gym swamp rent baby business clerk fiscal jewel trophy harvest shop duck";
+var mnemonic = "digital zone increase unveil major keep width steel assume until quality gown";

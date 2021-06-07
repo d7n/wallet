@@ -1,1 +1,1 @@
-var mnemonic = "endorse jealous decline vendor repair ecology vessel cause castle job arm inquiry";
+var mnemonic = "exchange embrace caught have assault unfold output setup pig crazy promote razor";

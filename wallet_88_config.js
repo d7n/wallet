@@ -1,1 +1,1 @@
-var mnemonic = "mixture member local inside welcome spoon lunar clever settle exit fever reflect";
+var mnemonic = "amazing can dynamic task yellow stamp save weapon manual harbor decline shed";

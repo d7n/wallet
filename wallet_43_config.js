@@ -1,1 +1,1 @@
-var mnemonic = "increase dismiss flower plug gate tree pelican patient settle pigeon goose myself";
+var mnemonic = "vibrant neutral truck hover clock stem march already shed this similar sick";

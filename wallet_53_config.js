@@ -1,1 +1,1 @@
-var mnemonic = "sphere addict fall retreat hockey shift install elegant essay rail stumble kid";
+var mnemonic = "wall divorce describe depend repeat critic evoke valid right volcano tent actual";

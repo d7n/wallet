@@ -1,1 +1,1 @@
-var mnemonic = "chronic alley hour army trust noise ocean biology repair close produce soup";
+var mnemonic = "crash entry toilet illness mandate top pen error mystery memory simple cram";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage chase valve rug neutral build school mimic alcohol huge quit clever";
+var mnemonic = "first bag smart peace left cream stumble habit banana eye eyebrow flip";

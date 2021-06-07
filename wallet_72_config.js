@@ -1,1 +1,1 @@
-var mnemonic = "own dog add embark say silk increase hill artefact target race help";
+var mnemonic = "maid voice dry sleep clerk february mule supply initial mention absent atom";

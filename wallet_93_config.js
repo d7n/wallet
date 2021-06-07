@@ -1,1 +1,1 @@
-var mnemonic = "dice cruel someone castle rapid away grant remember anxiety jacket army soda";
+var mnemonic = "road orphan shift inject hill cousin slow debate soap leisure hidden scatter";

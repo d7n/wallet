@@ -1,1 +1,1 @@
-var mnemonic = "salmon box plastic knife cup police buzz street bless odor census shield";
+var mnemonic = "vehicle census used sheriff panther face success track follow ranch flavor toilet";

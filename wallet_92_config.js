@@ -1,1 +1,1 @@
-var mnemonic = "will champion major before client motor bamboo airport ancient banner wet truth";
+var mnemonic = "permit enjoy extend arrest diary frost focus repair used enroll elder supply";

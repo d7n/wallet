@@ -1,1 +1,1 @@
-var mnemonic = "effort mother rain effort glory satoshi devote must pumpkin case cross trumpet";
+var mnemonic = "barely zebra palace actress game filter joke arch physical wool today course";

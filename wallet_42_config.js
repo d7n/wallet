@@ -1,1 +1,1 @@
-var mnemonic = "frequent satisfy inside measure patient hour coach cream label frame earth coyote";
+var mnemonic = "home feature engine other steak hope glow key gain brush canoe never";

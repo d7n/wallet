@@ -1,1 +1,1 @@
-var mnemonic = "reunion fringe initial hedgehog tank language faith artefact change robot execute misery";
+var mnemonic = "avoid wage predict next erase catalog peace guide wealth razor plunge meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "globe total illegal tray actual banana category federal goat gauge unlock rather";
+var mnemonic = "degree morning butter maze discover faculty casual car grab woman enforce offer";

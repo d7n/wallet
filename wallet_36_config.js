@@ -1,1 +1,1 @@
-var mnemonic = "window very case rib begin copper useful latin match parrot fit feed";
+var mnemonic = "error crumble swear clump error sibling cool submit peace decorate poem cute";

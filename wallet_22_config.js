@@ -1,1 +1,1 @@
-var mnemonic = "brain depend child rifle reflect sausage bar opera cement flower avocado border";
+var mnemonic = "address catch minute hire six page forest spy cloud candy phone blossom";

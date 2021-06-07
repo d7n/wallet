@@ -1,1 +1,1 @@
-var mnemonic = "arctic dish monster slice dash moral wagon voyage green erode category seminar";
+var mnemonic = "skin food chronic vendor urban expect thunder drastic custom minute equal flight";

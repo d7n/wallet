@@ -1,1 +1,1 @@
-var mnemonic = "shiver crash lawn share define stairs walnut run vehicle state merge culture";
+var mnemonic = "rhythm impulse siege bullet mango glue salon edit frown indoor danger access";

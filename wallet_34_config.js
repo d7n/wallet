@@ -1,1 +1,1 @@
-var mnemonic = "purity rookie actress mimic shine daughter claw afford coffee praise view cute";
+var mnemonic = "chaos join melt rural tribe trophy blame skull emotion brand pluck inhale";

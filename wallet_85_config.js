@@ -1,1 +1,1 @@
-var mnemonic = "nothing knee mad auto purchase used keen develop print response sand dream";
+var mnemonic = "more border party fluid live box quarter upper network funny unaware era";

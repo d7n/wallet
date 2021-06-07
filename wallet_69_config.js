@@ -1,1 +1,1 @@
-var mnemonic = "crunch work salmon measure reduce guard goddess month siren chalk quick estate";
+var mnemonic = "moral turtle globe glue soldier various reject trap gloom crazy income salon";

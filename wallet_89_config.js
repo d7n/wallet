@@ -1,1 +1,1 @@
-var mnemonic = "goat refuse close will pulse hello involve section garden kiwi tiger dress";
+var mnemonic = "multiply upset crawl unfold bone pioneer raise bachelor kind crucial gain donor";

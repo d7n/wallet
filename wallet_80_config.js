@@ -1,1 +1,1 @@
-var mnemonic = "cheap skate pass worry garbage lounge flavor bargain time phrase mask tiger";
+var mnemonic = "void together jelly acoustic spirit indicate hungry cousin portion human best total";

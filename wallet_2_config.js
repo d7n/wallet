@@ -1,1 +1,1 @@
-var mnemonic = "can tennis cluster mirror language industry mother recycle chase soccer summer segment";
+var mnemonic = "onion sock mosquito abandon captain act express mail rigid able rent ghost";

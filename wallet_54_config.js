@@ -1,1 +1,1 @@
-var mnemonic = "among dice verb model rate crane goddess valley hungry rigid try alone";
+var mnemonic = "situate crack eagle fiber ride wagon regular rigid vital notable myth bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon primary turtle weather shoulder evidence metal boat off mouse welcome head";
+var mnemonic = "advice good spoon era kidney attract build error tunnel process film pull";

@@ -1,1 +1,1 @@
-var mnemonic = "rain demise picture clutch pencil evil answer system shop vast bullet search";
+var mnemonic = "derive dynamic fold load expire swift eight enact skirt addict dinner shift";

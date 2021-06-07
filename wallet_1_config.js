@@ -1,1 +1,1 @@
-var mnemonic = "toast stock print flush able innocent dragon fit off mention truth midnight";
+var mnemonic = "term wool clip skull unit surface glance price issue core enlist cigar";

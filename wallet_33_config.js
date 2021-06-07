@@ -1,1 +1,1 @@
-var mnemonic = "smart enact second soda high wild funny city license wise live identify";
+var mnemonic = "fade wrist speak grass useless resist rough february giggle use identify south";

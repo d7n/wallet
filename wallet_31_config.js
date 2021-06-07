@@ -1,1 +1,1 @@
-var mnemonic = "estate chuckle promote solid vacant bean candy local dose argue evil faculty";
+var mnemonic = "clean liar lucky service bleak staff dilemma useless retire letter cycle flavor";

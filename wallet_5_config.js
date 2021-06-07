@@ -1,1 +1,1 @@
-var mnemonic = "update wish category clown alpha vintage reform valid pole weekend crane gasp";
+var mnemonic = "hundred hungry violin school unusual theme butter copy trash unaware stage slogan";

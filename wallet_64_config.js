@@ -1,1 +1,1 @@
-var mnemonic = "return garage warm situate sand diary vivid scare logic present extra ready";
+var mnemonic = "solution height swift topic loop celery right become media board novel rapid";

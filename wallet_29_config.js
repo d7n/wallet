@@ -1,1 +1,1 @@
-var mnemonic = "make ostrich wide comfort hair mule quiz round spider hover burger together";
+var mnemonic = "grass endorse awake absurd trip essay alter oak lava science promote stay";

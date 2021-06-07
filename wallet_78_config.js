@@ -1,1 +1,1 @@
-var mnemonic = "whale wine absent later oak ignore survey very riot suggest future invite";
+var mnemonic = "loud entire help sketch grace parent deer silly member law ski purse";

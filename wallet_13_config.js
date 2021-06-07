@@ -1,1 +1,1 @@
-var mnemonic = "asthma dolphin sentence hard bring ride sudden maximum gap cancel survey chronic";
+var mnemonic = "company blur steel hurt december identify marine evoke lizard priority immense enemy";

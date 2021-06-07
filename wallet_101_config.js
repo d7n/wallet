@@ -1,1 +1,1 @@
-var mnemonic = "also sick gasp square outdoor wait trouble donkey humor pull basic dial";
+var mnemonic = "parrot stool goose spread gather acid heart fuel erase close damage collect";

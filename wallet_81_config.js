@@ -1,1 +1,1 @@
-var mnemonic = "blind mixed chase love bridge embrace journey range blush silk case arrow";
+var mnemonic = "casual chimney throw elite fade theme umbrella family bundle either jeans group";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant truck admit pet season grocery purchase wreck dial magic over there";
+var mnemonic = "learn limit dune capable retire fantasy glue cabbage ancient crop thank trim";

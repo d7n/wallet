@@ -1,1 +1,1 @@
-var mnemonic = "arm lady mimic pact hammer page solution path alpha black scatter coast";
+var mnemonic = "sell sense use december tape outdoor cabin police grace split original dragon";

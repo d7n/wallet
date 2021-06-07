@@ -1,1 +1,1 @@
-var mnemonic = "eternal aunt muffin gold absent daring mandate lonely unique act pass laptop";
+var mnemonic = "stereo vocal enable mother cancel chalk lounge erode chaos choose flat refuse";

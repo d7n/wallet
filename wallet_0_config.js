@@ -1,1 +1,1 @@
-var mnemonic = "apart alley pulse point elder social sorry tongue major suspect web dumb";
+var mnemonic = "pool series resemble detail panther thing situate post canoe position brand oxygen";

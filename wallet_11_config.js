@@ -1,1 +1,1 @@
-var mnemonic = "vital badge approve enlist eternal main rival law episode leaf vocal ripple";
+var mnemonic = "avoid toddler upper alert render glide spy animal final canal girl vivid";

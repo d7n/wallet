@@ -1,1 +1,1 @@
-var mnemonic = "already misery path van battle immense include distance salon raven abandon muffin";
+var mnemonic = "ketchup ask lawn pistol over poverty what vendor jealous divide message remind";

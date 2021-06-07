@@ -1,1 +1,1 @@
-var mnemonic = "rough advance pill ivory weasel bitter cloth option frozen favorite minor grocery";
+var mnemonic = "clutch minor fault spice enhance choose panda myth control insane budget fabric";

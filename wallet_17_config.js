@@ -1,1 +1,1 @@
-var mnemonic = "film isolate coffee region ribbon explain aspect leisure room cargo ozone upon";
+var mnemonic = "poem blur yard split genuine square next stove method yard way angle";

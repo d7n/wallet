@@ -1,1 +1,1 @@
-var mnemonic = "daring between occur input hawk gasp seek praise jewel gym car swallow";
+var mnemonic = "flash crack exile giggle shallow panther elevator link muffin laptop dentist happy";

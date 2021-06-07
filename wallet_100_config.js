@@ -1,1 +1,1 @@
-var mnemonic = "start jar nasty tent visa forum pride company diagram island brand job";
+var mnemonic = "involve snow frost stove erupt start organ debris beauty toy depend that";

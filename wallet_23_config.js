@@ -1,1 +1,1 @@
-var mnemonic = "remain donkey matrix awake owner response scorpion plate decline twenty rent minute";
+var mnemonic = "dad plug smart nerve initial cabbage wonder fragile drill miracle orbit describe";

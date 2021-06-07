@@ -1,1 +1,1 @@
-var mnemonic = "return brief awful boat lyrics lounge mushroom quick royal notice mass bunker";
+var mnemonic = "bacon wheat pioneer certain liar tennis guard giraffe section opera meat disagree";

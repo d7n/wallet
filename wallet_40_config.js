@@ -1,1 +1,1 @@
-var mnemonic = "steel glory clever illness estate sick patch report uncle sport fatal crash";
+var mnemonic = "total basket that vibrant other demand sail jar black ocean picnic dish";

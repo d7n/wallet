@@ -1,1 +1,1 @@
-var mnemonic = "arrive lesson fiction layer fresh rhythm electric oval lock skill viable ahead";
+var mnemonic = "quick claim pepper soldier verify capable antique citizen spread joy region faint";

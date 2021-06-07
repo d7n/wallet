@@ -1,1 +1,1 @@
-var mnemonic = "escape acoustic lawsuit aware focus quote spoil twin panda student worry arena";
+var mnemonic = "dash strategy chunk weird found admit memory day reward wall moon direct";

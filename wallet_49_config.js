@@ -1,1 +1,1 @@
-var mnemonic = "bleak inflict fly slight alone swift grace sugar purity intact note clean";
+var mnemonic = "review exact desert lady spot collect purpose resist breeze siren scrub dog";

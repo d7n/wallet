@@ -1,1 +1,1 @@
-var mnemonic = "wheat chat helmet fade raise erupt rotate private wage twice blouse raise";
+var mnemonic = "slogan setup chat second bid ramp door diamond wink clinic badge into";

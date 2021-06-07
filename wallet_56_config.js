@@ -1,1 +1,1 @@
-var mnemonic = "desert finger wreck deliver language enroll execute identify cute cover couch lumber";
+var mnemonic = "exclude coach inherit bus short once account canvas minimum milk twenty behave";

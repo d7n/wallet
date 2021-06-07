@@ -1,1 +1,1 @@
-var mnemonic = "rough east rapid hard praise help remove need recipe feel avoid habit";
+var mnemonic = "acoustic theme hamster bind only debris expose sausage camera alert modify tomorrow";

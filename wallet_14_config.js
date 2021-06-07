@@ -1,1 +1,1 @@
-var mnemonic = "early mask ball wasp fever weekend image tourist chuckle theory bridge aunt";
+var mnemonic = "inflict meadow earn coffee dinner jealous degree want ridge valid wrap afford";

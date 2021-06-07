@@ -1,1 +1,1 @@
-var mnemonic = "axis duck gain crack tent define elephant slice recipe misery wealth slender";
+var mnemonic = "olympic arrive family seven aspect viable wait uncle illness course frequent decade";

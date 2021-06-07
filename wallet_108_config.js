@@ -1,1 +1,1 @@
-var mnemonic = "little example bitter blue enforce clutch hold erosion quit hungry candy gadget";
+var mnemonic = "innocent park adjust prize crawl right wait spray behave mail board gift";

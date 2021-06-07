@@ -1,1 +1,1 @@
-var mnemonic = "grain roof bottom cool fault leg spoon crane urban element beef doll";
+var mnemonic = "old tortoise zero ticket hurt harvest discover rely powder mutual sword side";

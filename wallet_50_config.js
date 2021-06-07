@@ -1,1 +1,1 @@
-var mnemonic = "benefit kingdom senior cram achieve vehicle copy torch chat pulp auction slush";
+var mnemonic = "garden fortune hurt stereo swear carry announce spatial hungry gym shock position";

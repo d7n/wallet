@@ -1,1 +1,1 @@
-var mnemonic = "mammal enough pulp despair cry quick slight recycle club exhaust drill hour";
+var mnemonic = "length secret cross street banana half tide tuition tortoise bronze disease rich";

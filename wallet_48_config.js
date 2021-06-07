@@ -1,1 +1,1 @@
-var mnemonic = "armor wear always story capital crouch ritual weasel canoe exchange stuff beauty";
+var mnemonic = "old near silk orphan scissors fee chase embark skin oak allow flock";

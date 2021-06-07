@@ -1,1 +1,1 @@
-var mnemonic = "must orange post biology parent lumber similar wonder deal plate goose pet";
+var mnemonic = "empower include august grab gallery search virus parrot bronze fresh figure dog";

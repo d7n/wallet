@@ -1,1 +1,1 @@
-var mnemonic = "ranch glue finish resemble grow judge price hint follow remove income discover";
+var mnemonic = "ripple force walnut annual margin abuse bus phone time satisfy weekend meat";

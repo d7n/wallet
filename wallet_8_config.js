@@ -1,1 +1,1 @@
-var mnemonic = "company just attract obtain box flee olympic awful slogan dad filter immense";
+var mnemonic = "cricket special fury finish hero punch receive nerve ski alien child effort";

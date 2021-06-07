@@ -1,1 +1,1 @@
-var mnemonic = "zone match bottom moment train make powder afford twenty glide mesh obtain";
+var mnemonic = "polar easy artwork turtle plastic legend quarter machine pepper fog day until";

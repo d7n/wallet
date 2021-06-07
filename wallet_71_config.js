@@ -1,1 +1,1 @@
-var mnemonic = "olive arena leisure secret yellow position begin join cloud raven beef identify";
+var mnemonic = "sock crumble scrap never baby source fun vacant smart much rotate boy";

@@ -1,1 +1,1 @@
-var mnemonic = "brick announce smart mad seat also obvious blame render tuition riot battle";
+var mnemonic = "column toward dove release theme creek say effort garden capable merit thrive";

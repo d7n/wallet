@@ -1,1 +1,1 @@
-var mnemonic = "connect dinosaur drip latin ignore mystery bless vault cat sting blood pipe";
+var mnemonic = "fresh loan lady end humble announce vintage time salon sport apology peanut";

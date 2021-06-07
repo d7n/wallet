@@ -1,1 +1,1 @@
-var mnemonic = "phone october code project try asthma shed cook stem craft attack labor";
+var mnemonic = "canal lamp snow switch will adapt magic close giraffe vague twelve length";

@@ -1,1 +1,1 @@
-var mnemonic = "empower response chapter used pave olive love pepper quote scatter avocado narrow";
+var mnemonic = "grant merit sand orbit board liquid romance blame cram inspire olympic open";

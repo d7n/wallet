@@ -1,1 +1,1 @@
-var mnemonic = "service elevator senior shrug canvas produce network opinion fine flip dry swap";
+var mnemonic = "ugly scissors response wait day penalty hat zone stairs wool twelve broccoli";

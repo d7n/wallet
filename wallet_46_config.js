@@ -1,1 +1,1 @@
-var mnemonic = "robust draw south expose explain whip anger cake unable guess poverty knife";
+var mnemonic = "black regret mandate pistol boy humble burden sibling latin north company clock";

@@ -1,1 +1,1 @@
-var mnemonic = "two nothing hunt menu more comic awake tail river display ride fish";
+var mnemonic = "crucial vintage visit conduct novel hope spread away gentle repair slim deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "trash city aspect start brand kitchen bargain cover rich lottery sign one";
+var mnemonic = "ball spread tide august mobile race march peasant similar fossil just auto";

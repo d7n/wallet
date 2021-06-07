@@ -1,1 +1,1 @@
-var mnemonic = "mom surface valve stuff explain sadness wage advance violin expect city agree";
+var mnemonic = "wet sheriff execute around picture gauge foster cover cause outside material census";

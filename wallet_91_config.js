@@ -1,1 +1,1 @@
-var mnemonic = "shiver screen color cram actress ability nation open regret balcony door polar";
+var mnemonic = "field infant feed session brass kitten stone nuclear during work obvious fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "husband cool foot join north ketchup eagle brand cheap remind kite sword";
+var mnemonic = "name human chest solid sort dish chase rate ridge circle zone cart";
