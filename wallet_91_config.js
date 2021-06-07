@@ -1,1 +1,1 @@
-var mnemonic = "update travel lucky crime describe jealous fuel injury silly write sadness script";
+var mnemonic = "muscle pair cruise whip nurse state decrease silver point bomb distance lumber";

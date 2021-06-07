@@ -1,1 +1,1 @@
-var mnemonic = "brick vapor lab shed total success olympic hip diamond charge arch fold";
+var mnemonic = "supply van cup bulb bubble moon library tortoise pencil blind head cool";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage inform spider later cool lunch plunge rubber course trim mix valid";
+var mnemonic = "hotel object crazy bronze timber prosper term traffic crunch rose chronic random";

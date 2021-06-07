@@ -1,1 +1,1 @@
-var mnemonic = "simple law love shed garbage squirrel aisle bless image noodle cinnamon dwarf";
+var mnemonic = "save gauge shuffle basket august nut head jungle head return casino damage";

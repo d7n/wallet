@@ -1,1 +1,1 @@
-var mnemonic = "exercise magnet enough sad sister weapon planet bracket next day pepper funny";
+var mnemonic = "maze spot area clinic bus place demise modify rally unfair strong focus";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo apology expect type bulk limit current pull suit ring circle height";
+var mnemonic = "shallow stage hint buddy knock sign east accident cream punch joke promote";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual ripple sing disagree sausage reject law reveal clog planet uncle over";
+var mnemonic = "knee small bus entry spare east load devote viable swing crunch cloth";

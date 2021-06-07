@@ -1,1 +1,1 @@
-var mnemonic = "equip myth object web lecture govern pause stone service march miss luggage";
+var mnemonic = "rotate escape rookie anchor muffin silent erode history spice sword glory middle";

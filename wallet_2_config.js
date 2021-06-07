@@ -1,1 +1,1 @@
-var mnemonic = "neck girl decrease sick hope salmon antique brother rely infant pitch curve";
+var mnemonic = "diet rent smile apart trust ramp nice sibling public fabric acid immense";

@@ -1,1 +1,1 @@
-var mnemonic = "genre stuff caught excess state regret rule kit crop oval split liar";
+var mnemonic = "winter balcony dizzy satisfy there chalk foam mixture extra tooth slow vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence slice velvet canal cinnamon fresh unaware order lab cannon elite refuse";
+var mnemonic = "tobacco crazy strategy cross seed task rack invest disorder defense oppose weather";

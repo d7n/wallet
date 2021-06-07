@@ -1,1 +1,1 @@
-var mnemonic = "jewel differ refuse glide fat nut chaos pet believe lounge print sample";
+var mnemonic = "panther shallow you opinion easy possible nephew jewel thumb powder stuff gesture";

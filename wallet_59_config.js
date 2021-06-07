@@ -1,1 +1,1 @@
-var mnemonic = "blood alcohol museum suit bottom wet vague include soda slam razor help";
+var mnemonic = "green fault drip inform forward hamster sausage escape sister comfort race grain";

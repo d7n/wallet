@@ -1,1 +1,1 @@
-var mnemonic = "disease egg unique position hour mean anger runway cliff chaos leopard approve";
+var mnemonic = "swift celery asset pink brush dust want cake head nephew science model";

@@ -1,1 +1,1 @@
-var mnemonic = "derive sugar animal palm later blanket tired cushion cheese episode idea gesture";
+var mnemonic = "field retreat deal same museum security talk bag airport extend spin punch";

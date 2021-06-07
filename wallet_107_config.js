@@ -1,1 +1,1 @@
-var mnemonic = "come twenty jump pink proud snow sustain whisper race music walk mom";
+var mnemonic = "silly tennis feature that calm exist physical document evoke spoil conduct illegal";

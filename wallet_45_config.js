@@ -1,1 +1,1 @@
-var mnemonic = "proof nation neck common twenty drip point choose pear ethics guide office";
+var mnemonic = "code knife sting upon occur farm oyster oil label number useful embody";

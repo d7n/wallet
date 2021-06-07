@@ -1,1 +1,1 @@
-var mnemonic = "retire globe similar expose very boy follow bean notable lecture twelve end";
+var mnemonic = "style furnace labor senior series coconut upon battle unit hockey dove winter";

@@ -1,1 +1,1 @@
-var mnemonic = "corn tornado animal share tongue identify veteran mutual border satisfy settle boring";
+var mnemonic = "mule victory corn column lottery flavor raise visual speak dove desk alcohol";

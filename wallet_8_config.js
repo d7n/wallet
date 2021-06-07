@@ -1,1 +1,1 @@
-var mnemonic = "aisle yard admit chaos crawl monkey motor myself canvas grass enough fantasy";
+var mnemonic = "mutual acid lizard opinion debris bamboo loan vessel shallow debris salmon switch";

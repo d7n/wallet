@@ -1,1 +1,1 @@
-var mnemonic = "catalog sorry alpha you fat domain staff size jealous upgrade change human";
+var mnemonic = "spawn hidden enroll shed cereal salon reveal unit wreck home pride marble";

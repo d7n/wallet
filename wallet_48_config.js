@@ -1,1 +1,1 @@
-var mnemonic = "green speak spoil rival ocean artwork sense shoulder decline alien immune decline";
+var mnemonic = "velvet sniff scrap mobile leg build lottery man afford tank used script";

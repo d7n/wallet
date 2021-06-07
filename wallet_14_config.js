@@ -1,1 +1,1 @@
-var mnemonic = "coconut shoulder degree tuition olympic fan key modify mass vehicle before twist";
+var mnemonic = "pipe raven arctic worth slight goddess half upset cruel nest process range";

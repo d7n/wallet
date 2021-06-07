@@ -1,1 +1,1 @@
-var mnemonic = "atom cream venue snap doll enhance safe hospital gallery select ensure left";
+var mnemonic = "almost dinosaur concert valve learn fiber candy weasel category link broccoli glance";

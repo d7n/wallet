@@ -1,1 +1,1 @@
-var mnemonic = "close crane burger garment connect try display axis pledge symptom news hip";
+var mnemonic = "stereo review egg ability sentence vanish deputy long arrest nerve electric toward";

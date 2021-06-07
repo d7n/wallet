@@ -1,1 +1,1 @@
-var mnemonic = "account arrange caught dress throw eager anger helmet worth curious stumble use";
+var mnemonic = "right actor daughter brain funny upon uncover siren melody cover into garage";

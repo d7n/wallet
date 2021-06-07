@@ -1,1 +1,1 @@
-var mnemonic = "advance cherry arch zero phrase smile wall exhaust legal million cross grit";
+var mnemonic = "head solve this oyster mistake rigid trade invite glad clerk supreme lab";

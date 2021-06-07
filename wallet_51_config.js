@@ -1,1 +1,1 @@
-var mnemonic = "easily total blanket convince protect saddle share auto disorder cat write tooth";
+var mnemonic = "assume butter screen armed omit pig shoe sight wide control royal snake";

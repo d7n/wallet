@@ -1,1 +1,1 @@
-var mnemonic = "cheese gossip jaguar hidden accuse dog urge ready love visa toilet hand";
+var mnemonic = "swamp slight name cluster vessel cute bacon sight eye train asset resist";

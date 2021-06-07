@@ -1,1 +1,1 @@
-var mnemonic = "grant victory hollow surround witness paper immense book south mesh patch scrap";
+var mnemonic = "media city engage mansion arrive happy shock fluid scout asthma casino venture";

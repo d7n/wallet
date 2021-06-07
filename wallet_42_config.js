@@ -1,1 +1,1 @@
-var mnemonic = "drip swamp radio nothing praise suspect wide captain capable decline category enlist";
+var mnemonic = "average copper initial wine plunge blush monster glue gather path minor print";

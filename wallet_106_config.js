@@ -1,1 +1,1 @@
-var mnemonic = "exist note length jewel involve gorilla cash zone clip border fence beyond";
+var mnemonic = "alien cancel kiss fly link health damp spot bless know useful help";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber myself cancel scene seek educate health attack typical stone impose sponsor";
+var mnemonic = "vault fossil abandon force token gentle maid dial dwarf option obvious earn";

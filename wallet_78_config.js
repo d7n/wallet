@@ -1,1 +1,1 @@
-var mnemonic = "cousin book march ceiling wish extend coyote swing margin tuition sheriff keen";
+var mnemonic = "jungle gallery loop owner strong industry street grace rifle glad guard comfort";

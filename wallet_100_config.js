@@ -1,1 +1,1 @@
-var mnemonic = "issue cotton uncle prize correct sniff wisdom jungle soldier dawn moment always";
+var mnemonic = "woman boy skate throw buffalo borrow plastic honey unusual lesson comfort wild";

@@ -1,1 +1,1 @@
-var mnemonic = "roast day police since broccoli trick head notable job clap category sing";
+var mnemonic = "level solution chief daring orient check sign viable soap law kingdom proud";

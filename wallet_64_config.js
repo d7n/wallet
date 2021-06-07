@@ -1,1 +1,1 @@
-var mnemonic = "soul thrive give jealous truly attract gap timber salt luggage wrist require";
+var mnemonic = "garden burst project swim thought deposit neck wheel picture usual capable aware";

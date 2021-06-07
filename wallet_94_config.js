@@ -1,1 +1,1 @@
-var mnemonic = "tobacco naive oak brush best carbon air flush disagree praise rail please";
+var mnemonic = "gorilla swear coral safe remain ripple lens veteran man endless meadow twist";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb off nominee shaft west crazy cash sight mistake volume twice fluid";
+var mnemonic = "fever two churn ginger escape crew monster alarm hen tortoise acoustic duty";

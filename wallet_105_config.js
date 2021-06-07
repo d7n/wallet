@@ -1,1 +1,1 @@
-var mnemonic = "typical clinic talent steel rotate race run limb kitten vessel shaft coast";
+var mnemonic = "apple mass mixture resist flavor aunt orchard dragon float donor ecology ask";

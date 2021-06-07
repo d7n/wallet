@@ -1,1 +1,1 @@
-var mnemonic = "home boy pear deny hint trim shuffle price mule teach betray frown";
+var mnemonic = "speak message bottom fall horse shuffle attitude inside limb naive pluck catch";

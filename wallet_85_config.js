@@ -1,1 +1,1 @@
-var mnemonic = "ramp edit together tourist supreme snack shield certain never erupt olive wonder";
+var mnemonic = "rice depth peasant multiply antique calm away tail danger athlete state result";

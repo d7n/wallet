@@ -1,1 +1,1 @@
-var mnemonic = "what rebel fringe goose learn wasp swallow drift napkin banana unveil media";
+var mnemonic = "price humor cave gauge harbor improve fluid sunset blush drink allow vital";

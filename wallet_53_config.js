@@ -1,1 +1,1 @@
-var mnemonic = "supply comfort property flight vehicle ring exact track lake clarify whale vessel";
+var mnemonic = "lumber ugly waste extend hen alien pool olympic cotton wagon century innocent";

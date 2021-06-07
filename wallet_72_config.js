@@ -1,1 +1,1 @@
-var mnemonic = "arm clip slender certain roof include rescue work update drip hidden little";
+var mnemonic = "gorilla ivory pig target treat drum push nice live omit habit point";

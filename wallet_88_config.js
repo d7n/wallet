@@ -1,1 +1,1 @@
-var mnemonic = "puzzle dolphin gas razor loan problem walk aim little announce relief tiny";
+var mnemonic = "solid habit tray need logic clip trim display salute tattoo limb ice";

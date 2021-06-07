@@ -1,1 +1,1 @@
-var mnemonic = "husband ribbon jealous chalk cake owner want garment distance video artwork avocado";
+var mnemonic = "artwork lyrics trick filter bike creek furnace message column mechanic aim foster";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple foot meat relief behind false ability away arch east rabbit sorry";
+var mnemonic = "explain sauce gate cross subject squeeze direct mom picnic duck sudden canvas";

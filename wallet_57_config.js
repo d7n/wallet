@@ -1,1 +1,1 @@
-var mnemonic = "lyrics know cross cousin observe space much curve main mansion goose change";
+var mnemonic = "history way lounge decade moon exact glass dawn kind typical behave capital";

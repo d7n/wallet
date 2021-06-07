@@ -1,1 +1,1 @@
-var mnemonic = "rack mobile airport fiction explain vault common offer ice furnace tourist venture";
+var mnemonic = "behind coral raw because garment stadium album over category indicate tank mixed";

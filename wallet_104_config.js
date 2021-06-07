@@ -1,1 +1,1 @@
-var mnemonic = "snow fluid credit opinion century lobster donkey broccoli machine call hero clean";
+var mnemonic = "snack soul bunker spider garment hamster senior clay during carbon review steak";

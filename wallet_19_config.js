@@ -1,1 +1,1 @@
-var mnemonic = "motor clinic guard fruit virus fragile cash brass glow injury opera apple";
+var mnemonic = "armed aim thank undo income confirm fortune strike derive soap disease arctic";

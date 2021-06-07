@@ -1,1 +1,1 @@
-var mnemonic = "unfold olympic detect craft slogan excite author blossom buyer follow garden any";
+var mnemonic = "citizen front vast twist mixture ripple rubber transfer aisle prevent add flock";

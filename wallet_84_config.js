@@ -1,1 +1,1 @@
-var mnemonic = "catch input smile wet caution suggest crystal nasty aware people bright exercise";
+var mnemonic = "hour curtain mutual perfect anxiety better mule attitude menu bread bleak alter";

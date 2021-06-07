@@ -1,1 +1,1 @@
-var mnemonic = "jungle crouch focus ticket keen tooth slogan fiction secret audit swing giant";
+var mnemonic = "embrace hint sure remain gold brick bachelor word bless ceiling square around";

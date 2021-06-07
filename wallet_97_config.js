@@ -1,1 +1,1 @@
-var mnemonic = "punch crack collect insane bargain cliff comfort poverty slot regular party banner";
+var mnemonic = "jump unknown fence danger aisle frown mule normal mimic eternal day number";

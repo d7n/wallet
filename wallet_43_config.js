@@ -1,1 +1,1 @@
-var mnemonic = "tunnel never atom robust cover now useful load door receive forest pattern";
+var mnemonic = "raccoon suggest song define knife elbow foster type neutral twin mind derive";

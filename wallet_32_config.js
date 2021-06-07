@@ -1,1 +1,1 @@
-var mnemonic = "trade timber angry either ozone saddle guess island border over price verify";
+var mnemonic = "midnight actor winter orphan huge theme east toilet waste clerk become solar";

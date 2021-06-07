@@ -1,1 +1,1 @@
-var mnemonic = "struggle burden cheap first van guess wet flag empower drink torch friend";
+var mnemonic = "motion diamond usual advice proof rule situate silver order today chalk crater";

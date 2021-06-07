@@ -1,1 +1,1 @@
-var mnemonic = "company enter defense priority fortune mail visual sausage abandon weapon one smart";
+var mnemonic = "fragile energy bar jacket dirt gospel mango skirt suffer parent wall gas";

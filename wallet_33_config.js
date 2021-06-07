@@ -1,1 +1,1 @@
-var mnemonic = "confirm fork dune mosquito vicious join sad void average buddy deny almost";
+var mnemonic = "sure blue topple assault abstract duty noodle glue ribbon dragon random coast";

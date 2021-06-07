@@ -1,1 +1,1 @@
-var mnemonic = "van ocean scan name eye dawn excite exhibit broccoli burst remember jelly";
+var mnemonic = "toward poem clinic tuition outer amused buzz toss whip inch kit moon";

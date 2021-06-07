@@ -1,1 +1,1 @@
-var mnemonic = "lyrics install rack blossom term advice orient then before sort wealth hunt";
+var mnemonic = "cook husband ahead sound duck figure shadow feature melt crouch genre junior";

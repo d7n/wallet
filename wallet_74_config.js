@@ -1,1 +1,1 @@
-var mnemonic = "together spy coyote cave purse joy crisp wrong judge feed honey cloud";
+var mnemonic = "blast prison small glass salon torch problem convince cave mechanic mimic leaf";

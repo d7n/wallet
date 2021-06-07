@@ -1,1 +1,1 @@
-var mnemonic = "screen bunker curtain vicious powder link basic word claim maple tortoise toilet";
+var mnemonic = "glory mule march shallow slam rival snack danger flip clerk banana purity";

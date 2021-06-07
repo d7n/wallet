@@ -1,1 +1,1 @@
-var mnemonic = "arctic faculty earth toward work mother among run either kangaroo omit jelly";
+var mnemonic = "crime nature square vault avocado arctic bullet arrow where physical afraid impose";

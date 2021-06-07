@@ -1,1 +1,1 @@
-var mnemonic = "leg latin news book donor work music bicycle reform gloom arm october";
+var mnemonic = "feel oak decorate broccoli faith engine type label curious say cash cram";

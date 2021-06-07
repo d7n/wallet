@@ -1,1 +1,1 @@
-var mnemonic = "alley view crop vendor behave useful city trap excess ancient solve copper";
+var mnemonic = "ability scatter clever between engine snow hidden ladder afford pizza digital sport";

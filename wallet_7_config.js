@@ -1,1 +1,1 @@
-var mnemonic = "magnet actor planet genuine put private equal audit ill fatal idea violin";
+var mnemonic = "tourist endorse december click base syrup initial inhale record genuine exit permit";

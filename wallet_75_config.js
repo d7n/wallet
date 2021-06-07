@@ -1,1 +1,1 @@
-var mnemonic = "pen timber interest turkey vault dragon one history prevent axis ankle usual";
+var mnemonic = "paper charge need risk fine elevator fresh steel frozen immune victory base";

@@ -1,1 +1,1 @@
-var mnemonic = "come volume traffic panther congress live busy point expose bottom patient imitate";
+var mnemonic = "coach palm dish enable dragon address kiwi tone tube machine movie series";

@@ -1,1 +1,1 @@
-var mnemonic = "humble stamp child atom baby blossom genius vibrant slam suggest grab battle";
+var mnemonic = "slam cool curious category impose balcony rapid dust income typical twelve crisp";

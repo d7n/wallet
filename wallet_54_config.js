@@ -1,1 +1,1 @@
-var mnemonic = "possible meadow title bubble liquid middle shoe faith silver gym pioneer nation";
+var mnemonic = "rely garment version pink genius they agree rough wash walnut require shiver";

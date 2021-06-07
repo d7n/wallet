@@ -1,1 +1,1 @@
-var mnemonic = "steak input myself galaxy arrow engage police hat ridge sun genuine interest";
+var mnemonic = "inch panic mixture soup auction access unfold ribbon oblige parrot remember guitar";

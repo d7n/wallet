@@ -1,1 +1,1 @@
-var mnemonic = "glove soldier shy junior educate parent novel giggle day wink lawsuit inside";
+var mnemonic = "such okay special surprise panel goat juice adult bicycle cabbage angry shine";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate cousin feel bright dawn silver stairs nasty wood yard fault citizen";
+var mnemonic = "creek dry rebel swift pretty feature uncover sting ready grass adjust patrol";

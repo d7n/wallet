@@ -1,1 +1,1 @@
-var mnemonic = "chronic winter skill december stage century stage execute orbit cricket regret daring";
+var mnemonic = "tongue cradle trade swamp lizard tired door snack trophy word comic slide";

@@ -1,1 +1,1 @@
-var mnemonic = "throw wasp check task robust manual afford bridge convince guitar elephant print";
+var mnemonic = "pause captain plug drink cry sample duck voice crawl evidence summer water";

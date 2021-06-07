@@ -1,1 +1,1 @@
-var mnemonic = "prevent excess alarm decline neutral peanut ribbon genius stereo wire venture matrix";
+var mnemonic = "moment burst army across blanket pact wasp federal trick fan venture cheese";

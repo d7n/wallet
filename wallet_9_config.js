@@ -1,1 +1,1 @@
-var mnemonic = "fog market strike defense fly swift fantasy color joy resource fox any";
+var mnemonic = "shoot winter attract clinic wrong peanut eight expire bracket panic walk fan";

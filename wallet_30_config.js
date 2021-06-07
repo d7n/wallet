@@ -1,1 +1,1 @@
-var mnemonic = "atom cruise sketch abuse pelican science flock bracket able crystal dance time";
+var mnemonic = "oppose negative bicycle knock axis odor trend enroll coral novel eye garage";

@@ -1,1 +1,1 @@
-var mnemonic = "rate burden matter short brand garage width wish potato vehicle almost exist";
+var mnemonic = "interest shift antique dune topic hen core upon warfare country absorb horn";

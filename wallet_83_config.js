@@ -1,1 +1,1 @@
-var mnemonic = "can romance blanket arrange junk side outer mail drift gorilla palace leader";
+var mnemonic = "ocean street record hope reduce soon monster swarm garbage glad company vacant";

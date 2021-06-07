@@ -1,1 +1,1 @@
-var mnemonic = "rabbit fence vanish six hold offer amused sock slide doll upset snake";
+var mnemonic = "lesson relax casino tower tumble duck dolphin buzz dress invite stool ice";

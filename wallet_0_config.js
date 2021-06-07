@@ -1,1 +1,1 @@
-var mnemonic = "surround rate talk rain gaze draw sunny little melt prosper curtain collect";
+var mnemonic = "very crane dog goddess group fiber step permit weasel program source trouble";

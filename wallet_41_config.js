@@ -1,1 +1,1 @@
-var mnemonic = "love hedgehog solution burger measure gain balcony present file buyer spawn dry";
+var mnemonic = "motion ivory pattern palace limit shy penalty scout dish amateur evil ranch";

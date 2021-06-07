@@ -1,1 +1,1 @@
-var mnemonic = "bright engage soft marine multiply salute upper table joke hat fresh essence";
+var mnemonic = "general bring mansion hope dose case remind skirt tragic master actress skin";

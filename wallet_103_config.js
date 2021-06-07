@@ -1,1 +1,1 @@
-var mnemonic = "nasty destroy magic boss afford siege diary melt merge motor route festival";
+var mnemonic = "glow despair survey return brand blue aware curve essay cute town immune";

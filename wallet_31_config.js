@@ -1,1 +1,1 @@
-var mnemonic = "wise grunt patient beyond child tenant dune junior easily captain jelly film";
+var mnemonic = "adjust lottery absurd flight angry acoustic tomorrow skate traffic brief safe extend";

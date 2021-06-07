@@ -1,1 +1,1 @@
-var mnemonic = "transfer okay gain zoo rival seat napkin more milk high quarter captain";
+var mnemonic = "debris pluck rail color kid phone shed dune mountain home garbage subject";
