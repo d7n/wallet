@@ -1,1 +1,1 @@
-var mnemonic = "glow rather chunk hurdle shell awake cattle gossip round have light polar";
+var mnemonic = "increase health drill loop trade dismiss alarm mushroom village grit fog appear";

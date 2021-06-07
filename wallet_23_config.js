@@ -1,1 +1,1 @@
-var mnemonic = "balcony patch away among bring exact early chunk voyage color involve chuckle";
+var mnemonic = "admit suit path earn chat scrub present pony blossom another unfair extend";

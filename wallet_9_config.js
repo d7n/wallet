@@ -1,1 +1,1 @@
-var mnemonic = "mimic turkey tide witness image gain manage public found trade bracket shrug";
+var mnemonic = "arm edit ship give dice report picture ensure dash mechanic october angry";

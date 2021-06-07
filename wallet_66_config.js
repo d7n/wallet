@@ -1,1 +1,1 @@
-var mnemonic = "antenna notable eye fat talent tilt pizza void tone coffee object innocent";
+var mnemonic = "surge galaxy deal ball soup stem document guilt minute sniff faint punch";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital shy gesture green glove coil draw physical fossil cactus busy garden";
+var mnemonic = "left cinnamon large script cross culture business jump trim merit economy mother";

@@ -1,1 +1,1 @@
-var mnemonic = "build enhance slush gold live width answer unique wide logic dirt horror";
+var mnemonic = "easy message laundry evil half degree payment desert tell broom desk glory";

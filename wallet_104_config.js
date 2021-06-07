@@ -1,1 +1,1 @@
-var mnemonic = "glue punch october deny clever type adult write oak traffic abstract exhaust";
+var mnemonic = "review ivory pencil deal raccoon repeat follow feature rigid exhibit flight armed";

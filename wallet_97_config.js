@@ -1,1 +1,1 @@
-var mnemonic = "base quiz gain coast tell tail fine vocal join leg deputy donate";
+var mnemonic = "nurse moral truly one derive steel safe solution parent peace sample gain";

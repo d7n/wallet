@@ -1,1 +1,1 @@
-var mnemonic = "grid force chaos wagon practice omit front original material twist cat noodle";
+var mnemonic = "nominee oval weapon earn warfare much digital private curtain eager smart artwork";

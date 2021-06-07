@@ -1,1 +1,1 @@
-var mnemonic = "rigid stem also annual case cloud mistake illness novel curve mixture valid";
+var mnemonic = "lab egg bubble habit strategy cherry rice nasty congress cattle poverty absorb";

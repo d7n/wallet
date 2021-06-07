@@ -1,1 +1,1 @@
-var mnemonic = "orbit dish pony stadium speak fan engage bullet little thumb wish solution";
+var mnemonic = "health neither page moon half general vote miracle ugly daughter catch gospel";

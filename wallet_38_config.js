@@ -1,1 +1,1 @@
-var mnemonic = "thank network crew alien erosion kidney various visit tennis box hold auto";
+var mnemonic = "adjust safe actual lonely february marble focus traffic foil blood element quit";

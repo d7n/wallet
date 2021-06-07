@@ -1,1 +1,1 @@
-var mnemonic = "mixed level ordinary matrix promote arrest whisper proof pudding neglect permit clarify";
+var mnemonic = "myth multiply album helmet task gain federal begin atom snap daughter sauce";

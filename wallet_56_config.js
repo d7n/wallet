@@ -1,1 +1,1 @@
-var mnemonic = "lonely humble run agent nerve time bind boost bundle illness brief captain";
+var mnemonic = "nut manage rocket heavy thrive orange fury physical steak client please beach";

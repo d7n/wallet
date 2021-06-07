@@ -1,1 +1,1 @@
-var mnemonic = "begin unaware dove coast next concert design kit kidney school sleep bomb";
+var mnemonic = "fee emotion empty friend drift staff banner just harsh bomb climb resemble";

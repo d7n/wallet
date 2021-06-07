@@ -1,1 +1,1 @@
-var mnemonic = "legal expose salt home manage exact dish post antique boring smile room";
+var mnemonic = "grass angry admit forward town soon beef bike nominee reduce rather ostrich";

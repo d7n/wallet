@@ -1,1 +1,1 @@
-var mnemonic = "trigger hair damage crunch rich quit canal beef disorder tuition electric below";
+var mnemonic = "practice choose swim opinion another leg weapon ring abstract any quantum stand";

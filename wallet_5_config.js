@@ -1,1 +1,1 @@
-var mnemonic = "involve flee digital vocal monster flip action congress picture city furnace zone";
+var mnemonic = "math upset box hungry goddess shoulder dog subject suspect airport buddy fog";

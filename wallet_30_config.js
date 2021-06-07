@@ -1,1 +1,1 @@
-var mnemonic = "stuff only prepare nest jar shock clump salute normal recipe flat weird";
+var mnemonic = "talent ostrich gown peanut update before hawk few trial clump across load";

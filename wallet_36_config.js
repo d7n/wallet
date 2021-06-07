@@ -1,1 +1,1 @@
-var mnemonic = "rice smoke cradle claim ready bread naive tank need velvet piano empty";
+var mnemonic = "situate habit repeat year city surround frozen seek cruel wild relief scene";

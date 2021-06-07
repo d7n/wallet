@@ -1,1 +1,1 @@
-var mnemonic = "lizard mixed victory live announce hour waste hard hybrid bid trick core";
+var mnemonic = "ride refuse vast lift quick pave flee injury clay normal vacuum enter";

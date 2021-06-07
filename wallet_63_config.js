@@ -1,1 +1,1 @@
-var mnemonic = "clerk tone improve much endless boost congress miss culture pact unlock enrich";
+var mnemonic = "echo catalog test settle input arctic detect theory seek captain valley two";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit pretty cigar tragic diamond page bamboo depend beyond canyon network bamboo";
+var mnemonic = "empower rebel ability shrimp digital gloom ginger rally divide uniform rule sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "country riot genius half doctor party assume rocket thing job depend onion";
+var mnemonic = "meadow layer man dial rapid female cool surge escape evoke peasant round";

@@ -1,1 +1,1 @@
-var mnemonic = "stove robot sun spend fluid sting blush dish rural cause paddle squirrel";
+var mnemonic = "pull attract nut laptop master must visit play differ scheme pill hill";

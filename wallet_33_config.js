@@ -1,1 +1,1 @@
-var mnemonic = "actual spray program odor syrup already online labor model island march guitar";
+var mnemonic = "moon cage twenty relax outer ring drill scatter old agent release wagon";

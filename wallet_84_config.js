@@ -1,1 +1,1 @@
-var mnemonic = "diary winter sauce media guard casino unfair cram match rival trigger distance";
+var mnemonic = "appear apology table trip fatal fresh scatter unhappy network issue hover shell";

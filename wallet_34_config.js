@@ -1,1 +1,1 @@
-var mnemonic = "concert swarm current apple program scrap trap session battle episode convince denial";
+var mnemonic = "kitchen until tribe polar because same opera rail segment notice festival deer";

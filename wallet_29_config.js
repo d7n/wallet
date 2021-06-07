@@ -1,1 +1,1 @@
-var mnemonic = "pilot silent hat slot venture six club harbor race cry asthma ancient";
+var mnemonic = "fence cupboard piece country engage bulk excite flee power give tumble space";

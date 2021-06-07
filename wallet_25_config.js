@@ -1,1 +1,1 @@
-var mnemonic = "peace opinion there coil main faith retreat critic average erode misery shadow";
+var mnemonic = "void seven best start object chronic truly problem stand device farm inject";

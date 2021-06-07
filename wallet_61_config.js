@@ -1,1 +1,1 @@
-var mnemonic = "cannon entry essence tragic produce gown blue reduce garden task gym seed";
+var mnemonic = "excuse wise dwarf sad extra acoustic actual remain like cousin process snap";

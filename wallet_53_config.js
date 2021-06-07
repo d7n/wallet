@@ -1,1 +1,1 @@
-var mnemonic = "input involve minute original supreme ahead purpose beef galaxy village vendor hour";
+var mnemonic = "fiber fury shy rebel find wrong anger below crop tiny senior ugly";

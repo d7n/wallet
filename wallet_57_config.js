@@ -1,1 +1,1 @@
-var mnemonic = "amused marine tunnel label lunch fruit allow surprise impose rookie learn change";
+var mnemonic = "lock check decade duck ship anxiety wise saddle orbit hurry woman elegant";

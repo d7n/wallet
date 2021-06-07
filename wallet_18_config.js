@@ -1,1 +1,1 @@
-var mnemonic = "brand indoor you brand crush analyst genuine friend pitch sing easy harvest";
+var mnemonic = "easy bird wide glass wrong quote good say poet loop fun ready";

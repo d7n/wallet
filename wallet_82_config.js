@@ -1,1 +1,1 @@
-var mnemonic = "word route grit black zoo say north lonely echo feed deer hire";
+var mnemonic = "glue time swift steak foam retreat caught faith renew december butter quit";

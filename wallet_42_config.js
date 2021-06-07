@@ -1,1 +1,1 @@
-var mnemonic = "educate wash cinnamon verify noodle scrap work board scare excite bicycle horror";
+var mnemonic = "catch car mad liberty mom turn account post vehicle behind video maximum";

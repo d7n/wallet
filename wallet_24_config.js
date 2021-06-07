@@ -1,1 +1,1 @@
-var mnemonic = "library panic song duck double fetch shift holiday civil bargain flight chalk";
+var mnemonic = "evolve oak zebra air frog manual into know ranch proof purchase rocket";

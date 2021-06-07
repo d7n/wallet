@@ -1,1 +1,1 @@
-var mnemonic = "cool olympic scatter pond flag supreme skate donkey crystal adapt reason health";
+var mnemonic = "stadium ranch endless achieve category suffer wait seek omit bind casual drink";

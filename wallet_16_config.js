@@ -1,1 +1,1 @@
-var mnemonic = "fire fog say battle rescue erosion hospital ankle guess rely until strategy";
+var mnemonic = "holiday whale outer fit hope swing cement taste swear patrol tackle cheap";

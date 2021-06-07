@@ -1,1 +1,1 @@
-var mnemonic = "alert lunch success mobile poet shaft turkey chaos worth city input hover";
+var mnemonic = "swamp news march tiger term night expose measure orphan alter empower lesson";

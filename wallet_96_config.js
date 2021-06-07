@@ -1,1 +1,1 @@
-var mnemonic = "fee task pipe damp tree decline travel foot steel umbrella breeze armor";
+var mnemonic = "crew defy over fat pill crash arrive crisp cruise company loud angle";

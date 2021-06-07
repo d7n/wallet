@@ -1,1 +1,1 @@
-var mnemonic = "leg glory tribe snack country unaware miracle bachelor tooth cruise fall strong";
+var mnemonic = "coyote daughter clay receive matrix choice once later banana summer ankle december";

@@ -1,1 +1,1 @@
-var mnemonic = "try garment volcano logic hurry know hover good sister faith bottom bar";
+var mnemonic = "recycle exist organ grab build island lawn letter kit room way addict";

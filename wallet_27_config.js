@@ -1,1 +1,1 @@
-var mnemonic = "bomb use enact crack arctic insect bracket still throw hundred often giraffe";
+var mnemonic = "wing net pistol waste food unique trouble axis exchange lucky museum will";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn pink diet shrimp method glare harbor clinic image betray slide demand";
+var mnemonic = "spatial drastic setup hamster grab vicious occur pole advance start give hair";

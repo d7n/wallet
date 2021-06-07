@@ -1,1 +1,1 @@
-var mnemonic = "cradle liberty tail bracket favorite creek duty carpet since lake govern tooth";
+var mnemonic = "ghost key crew isolate crew struggle physical crawl turn dentist impose dune";

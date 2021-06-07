@@ -1,1 +1,1 @@
-var mnemonic = "stick multiply slim donor call fish nut cluster decorate dose visit brave";
+var mnemonic = "cloth sunny split entry mesh detect satoshi twist smooth believe ancient quantum";

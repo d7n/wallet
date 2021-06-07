@@ -1,1 +1,1 @@
-var mnemonic = "planet limb slush angry prison patrol cart hole actress jelly dinner monster";
+var mnemonic = "buyer fringe thumb fever wink woman advice host pool regular curious chaos";

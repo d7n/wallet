@@ -1,1 +1,1 @@
-var mnemonic = "six scrub danger profit orange sudden expose cheap column swamp isolate believe";
+var mnemonic = "drop dolphin hawk sibling cube glad entire almost neutral light price obey";

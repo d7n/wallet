@@ -1,1 +1,1 @@
-var mnemonic = "crime buyer wasp budget lyrics arrow kit vanish clock urge chef onion";
+var mnemonic = "file rifle income ugly brown describe inspire neutral sorry zebra teach rack";

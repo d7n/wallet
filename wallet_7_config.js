@@ -1,1 +1,1 @@
-var mnemonic = "grit board hotel vivid merge unusual horse muscle village muscle one flock";
+var mnemonic = "dumb wish coral muffin gossip jump decorate market nature resource health panther";

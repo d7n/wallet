@@ -1,1 +1,1 @@
-var mnemonic = "surface build tape fish exhibit prize move cute ranch conduct sight above";
+var mnemonic = "order swamp decrease sentence loud marble between relax observe cheese empower fiction";

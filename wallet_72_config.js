@@ -1,1 +1,1 @@
-var mnemonic = "recycle veteran company cattle bridge guard story stamp session buzz lounge program";
+var mnemonic = "people bulk monitor loan frost private easy furnace praise ethics yard stereo";

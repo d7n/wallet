@@ -1,1 +1,1 @@
-var mnemonic = "blame render degree mango merit main spread tide hard inform this crew";
+var mnemonic = "office across sentence collect erupt giraffe token album usage join train popular";

@@ -1,1 +1,1 @@
-var mnemonic = "about gun fashion floor lab hard easily scorpion vintage wing sword crush";
+var mnemonic = "layer devote soccer private surprise adjust wheat hedgehog cry master member chair";

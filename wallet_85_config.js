@@ -1,1 +1,1 @@
-var mnemonic = "tornado outer claim tent birth blouse camera two face result tell token";
+var mnemonic = "visa october sing predict slam tourist other define strong struggle soup toward";

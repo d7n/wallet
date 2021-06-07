@@ -1,1 +1,1 @@
-var mnemonic = "mistake sell cook sign name dismiss fruit deny blue filter enact roast";
+var mnemonic = "bamboo orange scrap sing want balance into proud vanish young relief album";

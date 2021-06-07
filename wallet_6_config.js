@@ -1,1 +1,1 @@
-var mnemonic = "ramp actress luggage carbon journey exit maid soup hotel half post fashion";
+var mnemonic = "enlist absorb earn appear clever license rival either cousin track dust saddle";

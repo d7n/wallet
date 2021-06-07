@@ -1,1 +1,1 @@
-var mnemonic = "more damage artwork claw theme boost basket coach maximum rib pool little";
+var mnemonic = "echo help verb lake goddess whale garlic dwarf joke visit spike fitness";

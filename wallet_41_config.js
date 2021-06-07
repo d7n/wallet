@@ -1,1 +1,1 @@
-var mnemonic = "sibling swamp antique post brave manage stumble daughter common swap emotion day";
+var mnemonic = "diet health dice street indoor sponsor regret comic armed corn stock inspire";

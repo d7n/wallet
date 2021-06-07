@@ -1,1 +1,1 @@
-var mnemonic = "notable inspire bone glass alert torch vicious excuse acid print casino peanut";
+var mnemonic = "possible worry welcome region dose symptom region burger ship orchard chicken cry";

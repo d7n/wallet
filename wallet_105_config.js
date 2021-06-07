@@ -1,1 +1,1 @@
-var mnemonic = "flock organ truck cushion merge birth disagree comic mean slush view bid";
+var mnemonic = "carry stereo truck valley left heart ticket range powder bike escape road";

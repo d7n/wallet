@@ -1,1 +1,1 @@
-var mnemonic = "will submit amateur another expand cube endless earth delay weekend frozen liar";
+var mnemonic = "huge saddle roof evoke remain rally shrug initial spin affair neglect creek";

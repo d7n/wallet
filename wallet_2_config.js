@@ -1,1 +1,1 @@
-var mnemonic = "table issue bomb enhance beauty world speed route shed absorb trial repeat";
+var mnemonic = "host language gasp husband brave chat knee divide volcano wasp gentle west";

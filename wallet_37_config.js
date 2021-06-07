@@ -1,1 +1,1 @@
-var mnemonic = "only print proud crunch good planet nasty mom comfort net mammal input";
+var mnemonic = "panther melt stumble salmon method business pistol faith unknown boat father galaxy";

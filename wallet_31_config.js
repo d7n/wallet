@@ -1,1 +1,1 @@
-var mnemonic = "disease equip penalty civil soup tape theory army inject bullet guilt endorse";
+var mnemonic = "tooth joy vanish nerve pizza hammer manual item prize permit ship flip";

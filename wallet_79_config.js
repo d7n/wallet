@@ -1,1 +1,1 @@
-var mnemonic = "stuff eight before regular target vital sun educate credit equal cereal push";
+var mnemonic = "cement later fox drift west alien equip burst air trade dilemma stadium";

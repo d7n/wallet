@@ -1,1 +1,1 @@
-var mnemonic = "member number engine jaguar topple jelly treat close same attend orange shoot";
+var mnemonic = "autumn box inside shop key dose useless nose wasp inflict jar car";

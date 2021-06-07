@@ -1,1 +1,1 @@
-var mnemonic = "yellow much giant add hip coin rice intact region price seek apart";
+var mnemonic = "wink avoid nice buyer merry flag silly drink voice hurry brave waste";

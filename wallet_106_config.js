@@ -1,1 +1,1 @@
-var mnemonic = "unaware battle cool envelope candy board open castle police yellow brave twelve";
+var mnemonic = "coffee bench violin same disorder noise crucial law robust world type actual";

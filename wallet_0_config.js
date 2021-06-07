@@ -1,1 +1,1 @@
-var mnemonic = "narrow spy cash where tomato buzz duck belt hire object churn boil";
+var mnemonic = "mom unknown salute nice exact media regret age pudding truly logic dream";

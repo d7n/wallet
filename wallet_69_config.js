@@ -1,1 +1,1 @@
-var mnemonic = "limb shift slide portion napkin iron spider axis seek ill cause wait";
+var mnemonic = "primary physical fatigue fan eight admit notice kite decide unit subway ankle";

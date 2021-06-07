@@ -1,1 +1,1 @@
-var mnemonic = "crime normal sibling check wasp gorilla slam milk bicycle attitude female accuse";
+var mnemonic = "enforce shy vicious ankle garbage detect sunset surge trumpet later because worry";

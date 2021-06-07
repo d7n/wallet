@@ -1,1 +1,1 @@
-var mnemonic = "rabbit bundle kick blind spirit volume oblige demise reveal vast govern bleak";
+var mnemonic = "actress donate amazing idea between orient situate bless neglect palace unusual above";

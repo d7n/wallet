@@ -1,1 +1,1 @@
-var mnemonic = "update sustain voyage render neither vacuum credit citizen web erode advance they";
+var mnemonic = "issue silent point curious scale thumb vault gauge offer music diagram rare";

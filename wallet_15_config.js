@@ -1,1 +1,1 @@
-var mnemonic = "violin donor subway monitor thought august predict mango flavor orbit enter burger";
+var mnemonic = "accident bright license moon order thing squirrel fetch trash pond van alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "fat reject lonely mixture crystal scale transfer route label face cute praise";
+var mnemonic = "turkey olympic black place choose bag oil sketch task visit taste version";

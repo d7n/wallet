@@ -1,1 +1,1 @@
-var mnemonic = "guitar wide never high observe wire world witness twenty alcohol dry toy";
+var mnemonic = "tooth stomach push huge method romance choose novel heavy slot save onion";

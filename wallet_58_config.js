@@ -1,1 +1,1 @@
-var mnemonic = "pink addict endorse vacant benefit mean cube skirt stand else spawn session";
+var mnemonic = "element real spray abstract enough fence depend bonus ball museum insane rent";

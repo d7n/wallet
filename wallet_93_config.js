@@ -1,1 +1,1 @@
-var mnemonic = "filter honey park rose camp average credit dish ankle settle cricket shove";
+var mnemonic = "know eye will poverty ostrich address mail ketchup rifle permit person only";

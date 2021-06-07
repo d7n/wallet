@@ -1,1 +1,1 @@
-var mnemonic = "enrich layer struggle usage toy kidney upset angle banana erode cause assist";
+var mnemonic = "marble obtain student thank caught mesh exact arrow mesh ordinary grab swim";

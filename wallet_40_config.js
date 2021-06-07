@@ -1,1 +1,1 @@
-var mnemonic = "swing quality public true ugly vicious already swim march guess reason arena";
+var mnemonic = "salon crash express tomorrow main attack dragon method impact tongue leopard mad";

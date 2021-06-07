@@ -1,1 +1,1 @@
-var mnemonic = "settle response service dog flush box domain argue kangaroo push all approve";
+var mnemonic = "engine this laptop garage panel magnet broom price stem add around high";

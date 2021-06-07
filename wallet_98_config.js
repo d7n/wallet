@@ -1,1 +1,1 @@
-var mnemonic = "board wink reflect notice outer minimum bronze thunder pumpkin ostrich shield height";
+var mnemonic = "order idea betray beauty prosper blind armed thing abstract away airport vibrant";

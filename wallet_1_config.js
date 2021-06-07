@@ -1,1 +1,1 @@
-var mnemonic = "bulk engage dove erase north educate noise rescue gun thing pilot unaware";
+var mnemonic = "name drill destroy avocado endorse legal access permit mad own surround scan";
