@@ -1,1 +1,1 @@
-var mnemonic = "undo mixed ritual force struggle client green shoe tackle file return admit";
+var mnemonic = "slice rocket refuse learn wink country convince just grief pen course ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp leaf source shrug pelican turkey ladder marine random jeans uniform spy";
+var mnemonic = "gallery teach return spoil link chest position avocado option state ribbon health";

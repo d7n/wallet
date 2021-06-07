@@ -1,1 +1,1 @@
-var mnemonic = "general jar wage scissors scrub want lonely timber virtual control sleep assault";
+var mnemonic = "radar claw mix deposit liquid topic rate girl inform crystal average tongue";

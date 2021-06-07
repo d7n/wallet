@@ -1,1 +1,1 @@
-var mnemonic = "crouch mad icon enjoy old curtain dutch anxiety napkin task faculty fame";
+var mnemonic = "comfort shield violin duty rebel fetch camp element liar volcano frost heart";

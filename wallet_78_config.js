@@ -1,1 +1,1 @@
-var mnemonic = "party gold cute often usage program indoor human door risk knee team";
+var mnemonic = "purpose time physical unlock gesture earth candy catalog audit smooth fly obscure";

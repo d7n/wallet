@@ -1,1 +1,1 @@
-var mnemonic = "lawn matter modify top room devote drama wing huge essence polar ahead";
+var mnemonic = "blur radio leopard amateur taste denial luxury pet genre cream jungle wide";

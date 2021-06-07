@@ -1,1 +1,1 @@
-var mnemonic = "civil deer tumble suggest final abuse that arrest doctor enemy patch antenna";
+var mnemonic = "hand payment olive example guard vague offer fossil conduct toe way minute";

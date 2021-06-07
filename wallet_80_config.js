@@ -1,1 +1,1 @@
-var mnemonic = "resist patch own travel twin kingdom river erupt cloud ethics stadium govern";
+var mnemonic = "meat wide list dance code mammal skin typical giraffe kid turn govern";

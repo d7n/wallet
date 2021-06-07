@@ -1,1 +1,1 @@
-var mnemonic = "stay verify crisp angle language frozen develop solid museum stock diamond mango";
+var mnemonic = "ranch focus settle march toward emotion brand angle slam shoulder news fury";

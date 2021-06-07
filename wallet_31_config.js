@@ -1,1 +1,1 @@
-var mnemonic = "bunker neglect tube real color later tiny lake transfer captain collect artist";
+var mnemonic = "example gentle quote tool metal come unveil autumn clerk ice silent modify";

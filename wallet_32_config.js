@@ -1,1 +1,1 @@
-var mnemonic = "sell scrap spider federal ahead bleak amount parrot model law helmet medal";
+var mnemonic = "mechanic moment million aerobic tunnel eager reduce visa tonight frown glad squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "material window shine marble door decide dignity blossom carry purpose security deposit";
+var mnemonic = "unknown rigid tower announce market peace loyal fiscal sight emotion tip drill";

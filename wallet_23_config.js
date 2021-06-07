@@ -1,1 +1,1 @@
-var mnemonic = "main scare mule vague doctor plunge hidden kingdom tail veteran bean situate";
+var mnemonic = "record stereo balance insect exotic blue group wing office guard outdoor gate";

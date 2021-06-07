@@ -1,1 +1,1 @@
-var mnemonic = "used glue zone denial fitness able resemble point save tent unveil nest";
+var mnemonic = "mention steak tornado addict inhale math tribe aim math love text canal";

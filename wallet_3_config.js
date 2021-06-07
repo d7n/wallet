@@ -1,1 +1,1 @@
-var mnemonic = "soda burden owner usual record someone traffic castle invest glue helmet orange";
+var mnemonic = "hybrid casual original thought jealous stand canyon brass oblige arm strategy west";

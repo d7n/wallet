@@ -1,1 +1,1 @@
-var mnemonic = "ankle detect recycle behave sing fatigue carpet canoe seed between lawsuit bachelor";
+var mnemonic = "legal amused flush awkward below hybrid galaxy sudden floor merit wealth output";

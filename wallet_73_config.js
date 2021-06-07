@@ -1,1 +1,1 @@
-var mnemonic = "shine universe account volcano mother rookie soup actual attract snow sponsor tilt";
+var mnemonic = "suggest glow smart iron boy corn canoe lamp mom face cause shine";

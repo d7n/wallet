@@ -1,1 +1,1 @@
-var mnemonic = "symbol woman toilet crime opinion rebel cluster client lonely belt celery mammal";
+var mnemonic = "you green canal wood cart melody spider enforce super degree quality crumble";

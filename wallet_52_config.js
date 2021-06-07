@@ -1,1 +1,1 @@
-var mnemonic = "upset learn river talk sausage skate praise ask chest flame seminar north";
+var mnemonic = "narrow airport hobby hood chapter yellow provide quiz evidence tell guilt medal";

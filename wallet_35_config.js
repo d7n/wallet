@@ -1,1 +1,1 @@
-var mnemonic = "orphan theme knee level owner castle smooth card skate mystery caught foot";
+var mnemonic = "spy soda sock fan prevent material lemon antenna dignity when nurse access";

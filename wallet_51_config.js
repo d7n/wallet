@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow squeeze hello saddle neglect typical journey sustain damage swear recipe glove";
+var mnemonic = "regular cloth knock spoil awesome season legend install quarter vessel people ask";

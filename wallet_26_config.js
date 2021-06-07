@@ -1,1 +1,1 @@
-var mnemonic = "barrel puzzle half struggle oak now mandate film favorite embrace bullet lens";
+var mnemonic = "bachelor mask black correct bullet end negative domain junior imitate great youth";

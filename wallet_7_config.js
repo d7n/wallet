@@ -1,1 +1,1 @@
-var mnemonic = "fork valve length bean melt journey next anxiety tortoise embrace leaf stereo";
+var mnemonic = "divide accident same crew opera dynamic valid input chase giggle jump print";

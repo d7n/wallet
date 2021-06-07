@@ -1,1 +1,1 @@
-var mnemonic = "off doctor category once vehicle fade usual inspire story letter observe air";
+var mnemonic = "quality side castle impulse volcano labor correct plate slot canoe side token";

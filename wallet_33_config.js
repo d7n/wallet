@@ -1,1 +1,1 @@
-var mnemonic = "ecology whisper bind tornado coconut adult stove civil ugly color shrimp ketchup";
+var mnemonic = "crystal add parade crash filter social pyramid limit picture poet illegal put";

@@ -1,1 +1,1 @@
-var mnemonic = "average addict envelope garden water employ cram rifle letter hint student kite";
+var mnemonic = "explain chuckle caution require monkey hawk ball skull curious donor distance between";

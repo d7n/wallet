@@ -1,1 +1,1 @@
-var mnemonic = "supply false until tuition nasty stomach sausage leisure ridge cabin coyote man";
+var mnemonic = "knife educate royal wool coral dignity assault sword gift attack enact double";

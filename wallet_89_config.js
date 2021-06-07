@@ -1,1 +1,1 @@
-var mnemonic = "gentle wedding memory shine offer label stable life meat rocket embody token";
+var mnemonic = "symptom gown divorce ankle hold people spend office energy cousin must rough";

@@ -1,1 +1,1 @@
-var mnemonic = "plug uncover tree steel electric lesson weather proud swift dad weather trip";
+var mnemonic = "scout gloom wolf yellow welcome nurse method steel mosquito police anger inflict";

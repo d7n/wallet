@@ -1,1 +1,1 @@
-var mnemonic = "allow stand ecology sample portion food entry copy arrow poverty crystal wonder";
+var mnemonic = "piece sibling maid cry cream neutral rhythm purpose dish scrub stool exist";

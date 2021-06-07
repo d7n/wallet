@@ -1,1 +1,1 @@
-var mnemonic = "sight vessel during satoshi fall staff bless assume immune wealth require sunny";
+var mnemonic = "expire tide bar flame equal enable inherit spy glory lift skill shallow";

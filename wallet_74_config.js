@@ -1,1 +1,1 @@
-var mnemonic = "grit occur awful else shift clean exhibit inherit boss daughter finger miracle";
+var mnemonic = "poem special bus source dwarf cereal winner hollow hungry garlic skill armor";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture twelve eagle usual silk view empower fresh entire list tired pudding";
+var mnemonic = "fitness add skirt pioneer engage destroy note motor napkin velvet garlic tide";

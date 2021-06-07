@@ -1,1 +1,1 @@
-var mnemonic = "file large detect unaware salad romance scrap sample project age matter need";
+var mnemonic = "item damage gather galaxy blur fold ordinary ozone matter soda elephant festival";

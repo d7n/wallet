@@ -1,1 +1,1 @@
-var mnemonic = "profit step drill shift license battle pipe dignity parade soup dumb uncover";
+var mnemonic = "lens diagram salon clip flash secret deputy symbol sustain ghost antenna trick";

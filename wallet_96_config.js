@@ -1,1 +1,1 @@
-var mnemonic = "spoon ten riot fluid cabin sponsor check festival faculty youth glimpse tonight";
+var mnemonic = "inner paddle rhythm idle bamboo square private move joy misery else chase";

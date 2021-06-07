@@ -1,1 +1,1 @@
-var mnemonic = "wonder talent float aim poem motor bottom popular tennis meadow drip random";
+var mnemonic = "record amateur response box sad wrestle poverty cradle exile proud barely disease";

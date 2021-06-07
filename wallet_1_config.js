@@ -1,1 +1,1 @@
-var mnemonic = "model erode pill matrix oil tree theme wreck broom wonder happy fruit";
+var mnemonic = "immense among recycle pistol scorpion certain benefit short pact pottery father flavor";

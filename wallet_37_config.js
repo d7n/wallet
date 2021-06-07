@@ -1,1 +1,1 @@
-var mnemonic = "toss shrimp wrist ice slice still marriage click actress speed notice panic";
+var mnemonic = "summer change jaguar over explain kitten trophy fortune frequent spell position gym";

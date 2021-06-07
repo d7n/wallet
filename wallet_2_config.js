@@ -1,1 +1,1 @@
-var mnemonic = "situate gun amateur machine finger someone deal cat industry gun dilemma body";
+var mnemonic = "wrestle syrup satoshi ordinary innocent south hurdle matrix peasant coffee athlete derive";

@@ -1,1 +1,1 @@
-var mnemonic = "item describe survey lunar phone scale stereo popular return razor venue nuclear";
+var mnemonic = "nerve author vague globe language luxury pupil toe punch crane potato border";

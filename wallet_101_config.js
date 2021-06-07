@@ -1,1 +1,1 @@
-var mnemonic = "aspect call speed differ chimney leopard leader chuckle casino cigar depend frozen";
+var mnemonic = "hammer sleep mango drama lesson unhappy claim advice rely risk spirit onion";

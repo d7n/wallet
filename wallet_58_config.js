@@ -1,1 +1,1 @@
-var mnemonic = "art lucky rescue cage hammer crunch crime mass frost kingdom volcano quality";
+var mnemonic = "smile lawsuit welcome pitch impose high forum fashion edit public sample donor";

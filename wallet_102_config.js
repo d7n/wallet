@@ -1,1 +1,1 @@
-var mnemonic = "purity mechanic vanish index glow spare relief end cereal angle artwork jazz";
+var mnemonic = "dirt champion explain clutch true tape exist olive episode sense mass case";

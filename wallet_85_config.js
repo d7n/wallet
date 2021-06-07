@@ -1,1 +1,1 @@
-var mnemonic = "rude world violin west say entry prosper robust habit stairs defense release";
+var mnemonic = "brown powder album cancel cousin range mind fancy resemble goat purse head";

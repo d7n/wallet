@@ -1,1 +1,1 @@
-var mnemonic = "profit smoke aware gadget ugly latin keen credit smoke gospel tribe inherit";
+var mnemonic = "rigid battle sibling bitter blanket cage place approve open group review slam";

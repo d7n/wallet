@@ -1,1 +1,1 @@
-var mnemonic = "midnight select vacant piece key cricket pigeon adult uphold pipe inspire fresh";
+var mnemonic = "what avoid gesture file trim poet truth below aspect lava behind limit";

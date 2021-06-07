@@ -1,1 +1,1 @@
-var mnemonic = "license inch between arm sock street similar fabric ivory between twenty roast";
+var mnemonic = "negative celery space between path improve south father undo dumb pizza surface";

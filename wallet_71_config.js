@@ -1,1 +1,1 @@
-var mnemonic = "mesh tuna derive kangaroo client baby position wise view flip amused soul";
+var mnemonic = "record stage diet wine beauty tennis wrist supreme rate width water capable";

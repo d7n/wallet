@@ -1,1 +1,1 @@
-var mnemonic = "sign luggage circle item finger candy diagram unaware device island creek torch";
+var mnemonic = "original frequent resource present grunt refuse method entire immune under hen zone";

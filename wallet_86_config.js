@@ -1,1 +1,1 @@
-var mnemonic = "mail bridge amazing winner guide health save impulse property envelope nurse flip";
+var mnemonic = "lucky garment remember flight among december network rotate battle upset meat dawn";

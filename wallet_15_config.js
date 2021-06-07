@@ -1,1 +1,1 @@
-var mnemonic = "amazing rabbit glory clump enemy pepper purchase suspect upon job live settle";
+var mnemonic = "code maid provide before iron field bottom paper recall play wear person";

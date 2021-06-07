@@ -1,1 +1,1 @@
-var mnemonic = "base visual kidney history army seminar foster firm enhance gap critic fold";
+var mnemonic = "bag satisfy chronic tomato want bulk pumpkin autumn scare during element sea";

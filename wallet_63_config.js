@@ -1,1 +1,1 @@
-var mnemonic = "found spike output answer wire add seminar pyramid disagree orphan mind liberty";
+var mnemonic = "common joke thumb sport have chapter brother position control coyote shield demand";

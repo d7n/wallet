@@ -1,1 +1,1 @@
-var mnemonic = "tree festival digital radio shed steak genius vessel window wreck royal replace";
+var mnemonic = "else road tragic text goat reject disorder elite sick brick sight choose";

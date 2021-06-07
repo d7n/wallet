@@ -1,1 +1,1 @@
-var mnemonic = "grid clump cupboard custom news trick burger across inmate clap spider struggle";
+var mnemonic = "one valve almost story dad blossom brass wild domain science art stool";

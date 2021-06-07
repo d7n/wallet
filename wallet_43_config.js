@@ -1,1 +1,1 @@
-var mnemonic = "nurse base trash describe bundle fatal hover balance iron office price foam";
+var mnemonic = "mind economy aunt emotion deal advance flush grit forward valley wise estate";

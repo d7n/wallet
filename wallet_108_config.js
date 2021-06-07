@@ -1,1 +1,1 @@
-var mnemonic = "maximum talk lizard gas arm present injury another joy fish wagon cage";
+var mnemonic = "genuine gravity learn pen clarify brush pass short vast attract virus game";

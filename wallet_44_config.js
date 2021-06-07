@@ -1,1 +1,1 @@
-var mnemonic = "drastic erode feature arrow pudding debate expire size bag lens clump stairs";
+var mnemonic = "embark forum diet turkey kiss renew enough scale rival inhale tiger stomach";

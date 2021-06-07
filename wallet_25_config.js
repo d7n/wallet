@@ -1,1 +1,1 @@
-var mnemonic = "sail sort used horn alone rural phone rival adapt juice bleak guess";
+var mnemonic = "card lunch satoshi name trigger cinnamon lumber crew protect sense nice winter";

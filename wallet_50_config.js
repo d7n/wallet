@@ -1,1 +1,1 @@
-var mnemonic = "cave spoon pill movie scatter cruise deputy atom umbrella milk echo output";
+var mnemonic = "pet kit ethics tired item coast clarify avocado cost elite warrior twin";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade soft siren sound diamond pass category inside about zebra drop certain";
+var mnemonic = "cover question sugar mimic camera fire bounce lumber wolf tiger fatigue nephew";

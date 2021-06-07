@@ -1,1 +1,1 @@
-var mnemonic = "absurd spoil silent stairs hard conduct prosper wage gauge floor govern pizza";
+var mnemonic = "ankle fall smile sphere midnight minute giggle miracle tribe donor ignore vapor";

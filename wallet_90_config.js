@@ -1,1 +1,1 @@
-var mnemonic = "world giant pond visual cherry protect element pink tower object clump advice";
+var mnemonic = "thing renew chalk pizza aerobic decline auto quote toilet mass crime bomb";

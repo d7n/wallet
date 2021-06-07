@@ -1,1 +1,1 @@
-var mnemonic = "unhappy slow super always ritual subject advance cliff soft icon slab auction";
+var mnemonic = "midnight kite churn dizzy fly source accident fade arrest render shadow energy";

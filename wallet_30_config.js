@@ -1,1 +1,1 @@
-var mnemonic = "truth fly wage false cinnamon blossom original kangaroo fiber rescue injury tongue";
+var mnemonic = "dice weird cram cash quit error hole load amazing identify volcano age";

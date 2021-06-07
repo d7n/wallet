@@ -1,1 +1,1 @@
-var mnemonic = "wrong science stool sustain pen love adapt perfect salute february front involve";
+var mnemonic = "raven bright busy brick soldier churn because adult mammal oval brick together";

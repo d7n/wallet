@@ -1,1 +1,1 @@
-var mnemonic = "thumb rapid olive update kitchen onion need sudden item hospital nature ankle";
+var mnemonic = "exercise provide inform poverty turn case myself vapor only awesome jelly summer";

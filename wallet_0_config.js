@@ -1,1 +1,1 @@
-var mnemonic = "nurse illness artwork whisper broccoli auction impact sunset attend clinic boring girl";
+var mnemonic = "mail tag kitchen upset clog enough excite drift avoid rice wedding effort";

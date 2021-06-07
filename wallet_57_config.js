@@ -1,1 +1,1 @@
-var mnemonic = "portion survey will aunt leader raise input situate autumn eternal onion milk";
+var mnemonic = "minute chaos sphere case file tragic away another prosper electric click about";

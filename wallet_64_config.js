@@ -1,1 +1,1 @@
-var mnemonic = "nephew fossil bright cigar fork intact lunch hawk volcano thank pitch correct";
+var mnemonic = "zebra popular similar floor canvas emerge upset jump say across army lecture";

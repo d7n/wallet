@@ -1,1 +1,1 @@
-var mnemonic = "maze wing ignore cinnamon light begin receive stage doctor empty pig garage";
+var mnemonic = "type profit art winner apart clarify stock sword main sun alone poem";

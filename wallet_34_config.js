@@ -1,1 +1,1 @@
-var mnemonic = "second craft stem guess fun similar biology express ill cliff saddle fantasy";
+var mnemonic = "club coffee quick cover trumpet cattle tonight spice video conduct wild dial";

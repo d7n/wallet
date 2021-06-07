@@ -1,1 +1,1 @@
-var mnemonic = "roast cupboard merge senior woman property lizard crucial style adult amount model";
+var mnemonic = "deliver tennis lobster grape magnet treat pact spatial off number primary add";

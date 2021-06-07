@@ -1,1 +1,1 @@
-var mnemonic = "erosion acoustic identify punch plastic boost canyon napkin ripple course lock brush";
+var mnemonic = "practice account find force injury pilot unfold typical pitch breeze rich search";

@@ -1,1 +1,1 @@
-var mnemonic = "insane december scatter cheese muscle biology brain capable gospel correct bench possible";
+var mnemonic = "success sport filter square fiction imitate wrap arrow hello common unlock hip";

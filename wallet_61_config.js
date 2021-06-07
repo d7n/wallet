@@ -1,1 +1,1 @@
-var mnemonic = "duty print believe lake discover honey input betray barrel winter shine cargo";
+var mnemonic = "blast patrol glow door grow enact photo era abstract sort thumb dog";

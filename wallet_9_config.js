@@ -1,1 +1,1 @@
-var mnemonic = "drip acoustic reform input merge chat device will clog practice amount alter";
+var mnemonic = "tree suggest amount know bleak erosion whale pigeon style auction fiction require";

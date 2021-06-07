@@ -1,1 +1,1 @@
-var mnemonic = "transfer elevator fashion wolf alert fetch shed flavor quarter coin rifle panther";
+var mnemonic = "foot hunt clay advance ripple ribbon glance common guilt evolve ribbon engage";

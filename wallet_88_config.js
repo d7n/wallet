@@ -1,1 +1,1 @@
-var mnemonic = "tank fitness gadget grunt april cover idea attitude enjoy frequent fire lemon";
+var mnemonic = "thunder member music drive weather result end cry game dice wish option";

@@ -1,1 +1,1 @@
-var mnemonic = "diet movie physical small sudden above labor sudden current number script local";
+var mnemonic = "artefact typical swamp lyrics employ urge waste zero same flush kitten supply";

@@ -1,1 +1,1 @@
-var mnemonic = "web enable antenna ahead vital loyal cattle cloud truly cheese crane chicken";
+var mnemonic = "this luggage body soup reopen impact neutral case apology stable despair weather";

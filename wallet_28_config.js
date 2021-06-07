@@ -1,1 +1,1 @@
-var mnemonic = "off color ribbon whisper pelican doctor broccoli bargain proud enhance skin uphold";
+var mnemonic = "poverty detect siege before oblige note message vacant basic runway crucial tool";

@@ -1,1 +1,1 @@
-var mnemonic = "dream surge shy cupboard age offer shoe ghost that vacuum cheese term";
+var mnemonic = "eagle grid page fish provide vicious issue giggle erode stem wear grid";

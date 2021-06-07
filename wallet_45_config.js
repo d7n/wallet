@@ -1,1 +1,1 @@
-var mnemonic = "gun metal yellow setup habit medal warrior gasp garment average casino essay";
+var mnemonic = "canal clump indicate enter spell mansion ability potato always clarify smile equip";

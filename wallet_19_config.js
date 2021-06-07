@@ -1,1 +1,1 @@
-var mnemonic = "over sauce bitter now primary brain file master earn avoid retreat stable";
+var mnemonic = "laundry congress domain supreme tool crystal cactus creek split monitor vacuum federal";

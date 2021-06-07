@@ -1,1 +1,1 @@
-var mnemonic = "wise hurry addict guess cinnamon enable crush empty solution control spy toilet";
+var mnemonic = "blush banana shop unfold exhaust moral library forget route august notable purse";

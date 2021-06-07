@@ -1,1 +1,1 @@
-var mnemonic = "taste clever fruit february shoe message dirt rather echo survey viable usual";
+var mnemonic = "barely verify task settle tonight birth theme forest hen space pause replace";

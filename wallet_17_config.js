@@ -1,1 +1,1 @@
-var mnemonic = "tumble slight pink cloud multiply else yellow random inherit traffic catalog penalty";
+var mnemonic = "kangaroo black economy clay blossom other huge bacon immune assist puppy safe";

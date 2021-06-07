@@ -1,1 +1,1 @@
-var mnemonic = "pause timber vibrant push spice object armed orient weasel answer pottery borrow";
+var mnemonic = "drive drift win model shove goose manual drop identify fault pulse prevent";

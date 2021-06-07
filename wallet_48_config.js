@@ -1,1 +1,1 @@
-var mnemonic = "raise student expire maximum proof mom butter focus wolf creek indicate charge";
+var mnemonic = "upon kangaroo actual hockey slice diagram milk copper twist door cup surround";

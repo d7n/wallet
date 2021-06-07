@@ -1,1 +1,1 @@
-var mnemonic = "slight blade ecology mirror duty any cook trick blame wheel volume custom";
+var mnemonic = "guitar demand outdoor upper hole quit false lesson royal decline myth hotel";
