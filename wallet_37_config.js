@@ -1,1 +1,1 @@
-var mnemonic = "sword rather sing auto normal like front reveal assist harsh light maid";
+var mnemonic = "beef universe tube post need clown awkward narrow field grab wheel blur";

@@ -1,1 +1,1 @@
-var mnemonic = "receive acid canyon chair useful noodle wine scorpion repair defy earn path";
+var mnemonic = "rib flight fluid deal wonder until couch excuse oyster flavor figure garden";

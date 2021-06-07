@@ -1,1 +1,1 @@
-var mnemonic = "trick tilt hole arrange trophy loan nothing silk salon replace rural dry";
+var mnemonic = "enter accuse loud bone private armed matter man owner program verb evoke";

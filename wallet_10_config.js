@@ -1,1 +1,1 @@
-var mnemonic = "swarm spider buddy symptom drip decline jaguar humble lawsuit arch image window";
+var mnemonic = "island before airport soldier alcohol public path people valid few address actor";

@@ -1,1 +1,1 @@
-var mnemonic = "blade notice hint prosper bottom various enlist any gather either item fury";
+var mnemonic = "shallow lumber parade morning trumpet they woman aim human bicycle seed miss";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi road desert very dawn glad consider injury lock detect prosper husband";
+var mnemonic = "razor foot panic robot cupboard traffic family asthma nose patrol oppose love";

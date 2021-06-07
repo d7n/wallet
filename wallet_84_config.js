@@ -1,1 +1,1 @@
-var mnemonic = "fitness smoke object uncle plate nurse option pelican cargo loan arctic bid";
+var mnemonic = "canyon ask task shaft clown bicycle image always position horse social tortoise";

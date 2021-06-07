@@ -1,1 +1,1 @@
-var mnemonic = "mind drum plate olympic endorse beef vanish prevent order poem warrior give";
+var mnemonic = "total tide myself easy page dismiss hurt mind melody squeeze now casino";

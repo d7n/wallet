@@ -1,1 +1,1 @@
-var mnemonic = "eternal current embody cotton valve park shop scatter upset length kid public";
+var mnemonic = "brother write cat link barrel ability mixed olympic fever any embody busy";

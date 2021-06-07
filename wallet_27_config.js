@@ -1,1 +1,1 @@
-var mnemonic = "pudding define belt solution federal mouse cart athlete frequent casino dilemma match";
+var mnemonic = "snow wild olive alone carry exchange off trumpet place sphere law gossip";

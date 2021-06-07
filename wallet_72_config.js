@@ -1,1 +1,1 @@
-var mnemonic = "gaze next gossip unaware broccoli grape analyst slush infant metal paddle hurt";
+var mnemonic = "sphere box huge figure decrease steel real cousin celery quick rose father";

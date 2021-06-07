@@ -1,1 +1,1 @@
-var mnemonic = "solve physical alley canal report thunder rubber chest butter moment memory bus";
+var mnemonic = "frozen bounce exercise push asthma rose exchange gauge foil fold destroy derive";

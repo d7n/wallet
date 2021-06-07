@@ -1,1 +1,1 @@
-var mnemonic = "robust paper blue test stay recycle budget permit dawn actor town body";
+var mnemonic = "antique bind galaxy forum damage subway vocal silk input style subway wise";

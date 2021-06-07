@@ -1,1 +1,1 @@
-var mnemonic = "chuckle ignore black mountain manage spray fiscal guard suggest gym now fog";
+var mnemonic = "quote wide coconut service owner fix rely answer escape cruise dose neglect";

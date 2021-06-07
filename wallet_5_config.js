@@ -1,1 +1,1 @@
-var mnemonic = "fold purpose pond client keen woman economy fine coast object dwarf throw";
+var mnemonic = "whip wolf avocado crawl car embody alpha kiss evidence equip lion degree";

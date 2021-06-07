@@ -1,1 +1,1 @@
-var mnemonic = "broom submit group rural column fruit fat lake motion chief witness exist";
+var mnemonic = "humble female donkey material seven cave upon drift erupt deer ozone affair";

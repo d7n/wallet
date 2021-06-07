@@ -1,1 +1,1 @@
-var mnemonic = "goat oxygen tongue fatigue earth ride little renew burst burst fashion enough";
+var mnemonic = "traffic enlist noise document deer lunar club zero boost ocean search lady";

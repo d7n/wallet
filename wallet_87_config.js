@@ -1,1 +1,1 @@
-var mnemonic = "glue jump twice meat rebel honey envelope apart grass source main book";
+var mnemonic = "hamster blur shock become insect random odor salad tag supply leader animal";

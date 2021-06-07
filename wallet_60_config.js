@@ -1,1 +1,1 @@
-var mnemonic = "hobby method spatial small sand rough much decade pet benefit assume idle";
+var mnemonic = "time pen crisp mom bounce wine sunset cattle pair now zoo wrist";

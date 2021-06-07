@@ -1,1 +1,1 @@
-var mnemonic = "ketchup verb flat vehicle rapid resist trade width toddler forum strategy lamp";
+var mnemonic = "express pig access truck fan drink document cry favorite tip quick retire";

@@ -1,1 +1,1 @@
-var mnemonic = "erode mirror denial mansion blouse kangaroo stone dirt devote catalog word bubble";
+var mnemonic = "trade lucky bicycle profit recall faith wrestle repeat already plastic lens wink";

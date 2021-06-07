@@ -1,1 +1,1 @@
-var mnemonic = "patrol half tissue cage canvas melody rotate escape hello prize hint glass";
+var mnemonic = "pause immune giant dune kiss simple sting ecology banner birth glory shop";

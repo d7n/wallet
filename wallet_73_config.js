@@ -1,1 +1,1 @@
-var mnemonic = "blossom unable art credit invest result blood arena duty legal hen horn";
+var mnemonic = "wine buzz lumber provide rescue insane nuclear mimic toward force eagle path";

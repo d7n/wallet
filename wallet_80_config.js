@@ -1,1 +1,1 @@
-var mnemonic = "power nephew check pride oven believe today silent destroy gadget salad buffalo";
+var mnemonic = "zone wheat copper mouse fever jelly rail panda stamp consider you field";

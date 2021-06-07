@@ -1,1 +1,1 @@
-var mnemonic = "fix carbon believe ostrich raw umbrella gold flower bring hockey tomato hello";
+var mnemonic = "lottery lobster sell click dinner sample solution math trigger enemy belt spend";

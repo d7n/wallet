@@ -1,1 +1,1 @@
-var mnemonic = "tiny mistake edit book jacket filter subject define panda multiply apart nasty";
+var mnemonic = "pill sight lesson picnic fatal fix slice detect veteran teach baby plunge";

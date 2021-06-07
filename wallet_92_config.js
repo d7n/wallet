@@ -1,1 +1,1 @@
-var mnemonic = "save orange horse crouch flee ceiling mixed crater observe humor ability tag";
+var mnemonic = "nut scale army wine item scrap wait monitor gift soul crumble obtain";

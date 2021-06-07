@@ -1,1 +1,1 @@
-var mnemonic = "economy theory regret march interest issue cook push scene renew market disagree";
+var mnemonic = "question salt belt release wolf useful law first wrong humor lounge bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "rude solid float tooth entry decrease dry raven toilet twist crunch decide";
+var mnemonic = "bunker flight drive forward also cancel nothing measure lift flat wild issue";

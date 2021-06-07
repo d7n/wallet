@@ -1,1 +1,1 @@
-var mnemonic = "monitor hand pluck crowd fitness toilet salad educate rigid muscle trumpet cube";
+var mnemonic = "possible youth audit usage film quantum picnic kitchen catch other dry gentle";

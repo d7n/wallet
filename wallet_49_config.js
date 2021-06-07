@@ -1,1 +1,1 @@
-var mnemonic = "tide acquire tackle wrist bus capital method lamp satoshi neglect solar finish";
+var mnemonic = "ginger subject universe animal awful multiply neither dog drive hold jelly swift";

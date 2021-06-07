@@ -1,1 +1,1 @@
-var mnemonic = "face zero middle sorry adapt object marriage deposit gauge ride truly fortune";
+var mnemonic = "powder energy execute lady mesh forget athlete base tent solve basket stomach";

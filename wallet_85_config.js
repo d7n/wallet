@@ -1,1 +1,1 @@
-var mnemonic = "section guitar palace organ couple elegant salt radar umbrella vacant victory post";
+var mnemonic = "village soon umbrella nation outer left ramp silly chuckle exhibit coast order";

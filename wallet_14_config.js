@@ -1,1 +1,1 @@
-var mnemonic = "ceiling tower humble crop sponsor pause shock ignore wheat hungry scrub service";
+var mnemonic = "vintage giggle nose quit bike huge select pig result journey alcohol chef";

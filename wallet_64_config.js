@@ -1,1 +1,1 @@
-var mnemonic = "start broccoli swim message liquid bright aware main vivid minor force rent";
+var mnemonic = "walk cloud ask mimic grain fold twelve craft ranch dinner cotton capable";

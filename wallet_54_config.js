@@ -1,1 +1,1 @@
-var mnemonic = "steel found drop portion scout chef punch forward tell smooth left danger";
+var mnemonic = "artefact spice glove number bless genre keep census alcohol dice awful grace";

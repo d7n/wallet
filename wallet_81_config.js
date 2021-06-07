@@ -1,1 +1,1 @@
-var mnemonic = "pepper disagree artwork enlist topic vast can gaze this clock hold cruise";
+var mnemonic = "grunt suspect pet grunt dice curtain zone hand provide leave hire exclude";

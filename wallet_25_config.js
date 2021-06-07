@@ -1,1 +1,1 @@
-var mnemonic = "noise merge half over betray admit pole test teach over deer bottom";
+var mnemonic = "high isolate solution shop solution drive tuition road exercise february witness car";

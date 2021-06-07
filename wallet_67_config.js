@@ -1,1 +1,1 @@
-var mnemonic = "life enroll protect depart erupt stable blood energy else tip enter reason";
+var mnemonic = "egg design differ hazard true era clock inner advice retreat glimpse typical";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi helmet lake base meadow castle tone cattle sunny squirrel snack suspect";
+var mnemonic = "inside private quit pilot suffer monitor tribe valve pact swift swap feel";

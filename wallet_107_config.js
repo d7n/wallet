@@ -1,1 +1,1 @@
-var mnemonic = "okay entry silk coffee dawn inside novel gap fresh pelican palace crush";
+var mnemonic = "fiber kitten lawsuit accuse clarify ill bright glance uncover ignore mobile praise";

@@ -1,1 +1,1 @@
-var mnemonic = "festival diesel shock parrot off height turtle clever print cover south crop";
+var mnemonic = "funny sound coral pair skate gloom uniform hat father cable hurt camp";

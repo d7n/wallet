@@ -1,1 +1,1 @@
-var mnemonic = "spawn ski tumble lady goose quit curtain will chimney please suit gentle";
+var mnemonic = "unveil say learn initial pulp print random odor rhythm feel disease guess";

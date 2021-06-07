@@ -1,1 +1,1 @@
-var mnemonic = "awful victory giggle scan amused charge observe head height tail monkey spell";
+var mnemonic = "elegant random basic this come inquiry depart head sense amount item autumn";

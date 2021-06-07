@@ -1,1 +1,1 @@
-var mnemonic = "view conduct arrive gentle outer wood slow bacon fiction live bus endorse";
+var mnemonic = "isolate devote vocal bright catch drama grocery cruise toddler school bottom now";

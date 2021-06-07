@@ -1,1 +1,1 @@
-var mnemonic = "gift fashion rally uncle reflect observe horn settle rescue response general pulp";
+var mnemonic = "seat hire calm adjust milk tongue phone wreck vacant control super tomorrow";

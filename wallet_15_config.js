@@ -1,1 +1,1 @@
-var mnemonic = "drill habit tilt title resist bullet above mountain price enemy voyage cycle";
+var mnemonic = "napkin answer trap inmate castle promote change candy cancel escape embrace wrestle";

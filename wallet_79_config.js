@@ -1,1 +1,1 @@
-var mnemonic = "supply cover hole expire knee process borrow near sick dizzy unique now";
+var mnemonic = "toy actor zero language wool afraid midnight bomb arrive fence fruit hamster";

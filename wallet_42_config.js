@@ -1,1 +1,1 @@
-var mnemonic = "angry sister warm dose pet delay dash armed slab jump word merge";
+var mnemonic = "anxiety item thought fantasy river gesture remove file cause sustain burst duck";

@@ -1,1 +1,1 @@
-var mnemonic = "icon glove dentist cart garment coin goat spike deal bread dawn wage";
+var mnemonic = "boss casino local garden reward luggage chuckle concert lazy demand photo basket";

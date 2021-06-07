@@ -1,1 +1,1 @@
-var mnemonic = "error valid hungry debate chest hammer image place now permit bomb alert";
+var mnemonic = "lunch bunker okay spy thrive erosion endorse claw increase inmate version doll";

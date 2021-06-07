@@ -1,1 +1,1 @@
-var mnemonic = "shock lonely exhibit crazy welcome silver zone beach addict tiny dish tent";
+var mnemonic = "bottom absent live tower vague drill language check ozone bottom blade debate";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety confirm garden logic lens syrup simple punch thing conduct dance point";
+var mnemonic = "ordinary cool vendor roof end kind prison provide excite cancel ecology vacuum";

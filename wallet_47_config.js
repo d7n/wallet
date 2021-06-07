@@ -1,1 +1,1 @@
-var mnemonic = "vendor cactus main length afraid audit limit steel whale clump library pink";
+var mnemonic = "ice ahead square weather agree episode weapon situate speak embody include junk";

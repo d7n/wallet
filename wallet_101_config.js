@@ -1,1 +1,1 @@
-var mnemonic = "quality animal vault twelve beauty code survey legal index blouse soon spare";
+var mnemonic = "legal reveal club prize planet radio seed need museum funny file sick";

@@ -1,1 +1,1 @@
-var mnemonic = "sword curve mass crumble knee angry garment recycle sketch amount simple ritual";
+var mnemonic = "know pull cost shrimp evolve eight demise goose position circle tongue entry";

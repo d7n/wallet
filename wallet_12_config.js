@@ -1,1 +1,1 @@
-var mnemonic = "fatigue raw hire math chase marriage rug arena prefer person filter moment";
+var mnemonic = "lion ordinary elevator drastic keen acid glue wonder boat grass one front";

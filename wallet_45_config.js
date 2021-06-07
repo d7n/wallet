@@ -1,1 +1,1 @@
-var mnemonic = "depth claw bargain final glide reunion scheme pear heavy dove wreck crisp";
+var mnemonic = "cushion like enrich cloud hidden dream purse cluster move diary want evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic panic vacant olympic artist federal ghost produce evolve alien harvest breeze";
+var mnemonic = "demand ankle awful used grape giant noise parade mask cargo ecology suspect";

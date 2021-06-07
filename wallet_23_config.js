@@ -1,1 +1,1 @@
-var mnemonic = "town autumn joy purse mango cradle cherry burden disagree orient toss gesture";
+var mnemonic = "credit flat animal wink physical method reflect proof year account alone task";

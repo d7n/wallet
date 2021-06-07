@@ -1,1 +1,1 @@
-var mnemonic = "aim trip meat slam jealous pistol ball act mistake slab jewel yard";
+var mnemonic = "under wild boring narrow access syrup duty curve sell sphere flush floor";

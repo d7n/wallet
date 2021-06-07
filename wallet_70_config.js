@@ -1,1 +1,1 @@
-var mnemonic = "song mesh park run spread side plunge child meat grain axis final";
+var mnemonic = "hope submit purpose tube ten vibrant sock wait pledge blouse exercise erase";

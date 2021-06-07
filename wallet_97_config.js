@@ -1,1 +1,1 @@
-var mnemonic = "coast hope explain vital orient remind input energy pipe endorse fury knock";
+var mnemonic = "grain either multiply endorse asset twelve cave cushion hazard grace endorse mention";

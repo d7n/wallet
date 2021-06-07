@@ -1,1 +1,1 @@
-var mnemonic = "frown beach much surge select list mansion tattoo language universe task lucky";
+var mnemonic = "right lady nut very thrive occur planet drink away hint upgrade toe";

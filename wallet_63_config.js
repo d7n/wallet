@@ -1,1 +1,1 @@
-var mnemonic = "video tonight grace identify bitter crucial bunker approve move polar waste tent";
+var mnemonic = "will tube antique few settle exotic border will depend canal potato advice";

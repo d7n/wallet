@@ -1,1 +1,1 @@
-var mnemonic = "trumpet thunder endorse dance destroy siege hungry order track exercise comfort light";
+var mnemonic = "voice sound short royal ceiling burst ladder festival rain climb couple prevent";

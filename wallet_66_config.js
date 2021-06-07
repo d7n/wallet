@@ -1,1 +1,1 @@
-var mnemonic = "slab canoe bright during path mom rotate result joy labor brass way";
+var mnemonic = "cup deposit want zone edge visit soccer purchase permit assume ranch lab";

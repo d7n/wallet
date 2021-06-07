@@ -1,1 +1,1 @@
-var mnemonic = "damp liar unlock love govern lounge banner present snap weather large clinic";
+var mnemonic = "route attack sea unfair enjoy stem apology argue all people expire oven";

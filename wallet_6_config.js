@@ -1,1 +1,1 @@
-var mnemonic = "nephew expire door journey bottom advice soda between midnight chief bundle enhance";
+var mnemonic = "pencil profit flag law parade recipe urban candy fortune wall sport sudden";

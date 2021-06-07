@@ -1,1 +1,1 @@
-var mnemonic = "copper maximum depend best rescue comic cigar call usage retreat error travel";
+var mnemonic = "maximum kiss donate picture staff wire post gorilla hair together code faint";

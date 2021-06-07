@@ -1,1 +1,1 @@
-var mnemonic = "pond tree donkey rare enact toddler net fat unfair violin rabbit marriage";
+var mnemonic = "swim type tired display report erosion across marble liberty return napkin sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "night increase chapter calm east dry ostrich omit miracle rough silver pass";
+var mnemonic = "visa trash mean spice reduce rice sport rubber spend organ poverty amazing";

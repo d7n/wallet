@@ -1,1 +1,1 @@
-var mnemonic = "legal episode wish dial basic mammal fantasy space room robust idea right";
+var mnemonic = "rug addict detect swarm layer broom output business ugly boil recall worth";

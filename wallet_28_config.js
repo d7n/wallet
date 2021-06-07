@@ -1,1 +1,1 @@
-var mnemonic = "buffalo harsh service drift enjoy laptop various angry disagree update claw teach";
+var mnemonic = "antique discover fiction image grow unveil energy spoon evidence smoke chest claw";

@@ -1,1 +1,1 @@
-var mnemonic = "funny weasel speed auction mutual bind copy vast water guess boring brush";
+var mnemonic = "toe purity army device price light grunt tomato leader say void uncle";

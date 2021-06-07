@@ -1,1 +1,1 @@
-var mnemonic = "mask they reopen concert enrich laugh atom section inside catalog ensure engage";
+var mnemonic = "alien cross express record own fog nothing enjoy auction employ recycle bind";

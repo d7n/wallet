@@ -1,1 +1,1 @@
-var mnemonic = "noodle seek dynamic fix shock below vivid admit debris mountain candy sniff";
+var mnemonic = "attract accuse then yard pupil filter warm tube wood legend embrace chef";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog skull garbage reform rigid figure feature trigger believe hotel casino unfold";
+var mnemonic = "nest repeat throw someone gift piano enter approve link goat stock excess";

@@ -1,1 +1,1 @@
-var mnemonic = "garment swap inspire universe neutral trumpet wrist salt minimum chalk case range";
+var mnemonic = "often museum first squeeze year top skin female moral wage civil stage";

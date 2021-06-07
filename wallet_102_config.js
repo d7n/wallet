@@ -1,1 +1,1 @@
-var mnemonic = "able result only mistake anger index satisfy ice height congress pledge dance";
+var mnemonic = "dinner shield clever assault sound march seed labor own baby bright hedgehog";

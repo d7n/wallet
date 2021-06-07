@@ -1,1 +1,1 @@
-var mnemonic = "force symptom stairs grow fish spoon novel elegant guitar spring assault burden";
+var mnemonic = "canoe toward ivory screen small entry excite picnic document hire gate jealous";

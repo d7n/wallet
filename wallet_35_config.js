@@ -1,1 +1,1 @@
-var mnemonic = "have scene item three oyster cross deer year sense theme icon review";
+var mnemonic = "april tube salad success consider marriage tray cage heart paper error pave";

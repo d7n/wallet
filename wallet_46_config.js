@@ -1,1 +1,1 @@
-var mnemonic = "leave spike economy door sadness bundle must main motion process course text";
+var mnemonic = "armor six deputy category rubber bean diary walnut alarm police side comfort";

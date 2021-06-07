@@ -1,1 +1,1 @@
-var mnemonic = "useful purchase win slice absent enter crane human safe siren amazing bubble";
+var mnemonic = "nerve advice noodle stool rebuild success vital case jungle soccer usual wage";

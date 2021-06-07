@@ -1,1 +1,1 @@
-var mnemonic = "unusual peasant rain expire path crop tomorrow swarm orient entire corn all";
+var mnemonic = "photo budget cycle clean reward era off deliver hard caution enable special";

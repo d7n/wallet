@@ -1,1 +1,1 @@
-var mnemonic = "pyramid treat diary victory opinion mercy breeze luggage blur piano frozen boil";
+var mnemonic = "infant cloud lucky cover axis foam carpet deny easily direct sample limb";
