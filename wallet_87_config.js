@@ -1,1 +1,1 @@
-var mnemonic = "embrace glass still employ economy ecology delay kitten bitter crunch favorite wear";
+var mnemonic = "cannon urge tree tool claw merry charge champion find useful disagree parrot";

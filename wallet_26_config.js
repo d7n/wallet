@@ -1,1 +1,1 @@
-var mnemonic = "chair print hungry escape message bomb must home kiwi client solution noble";
+var mnemonic = "cereal company spider cool mercy grass army solve noble library basket inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "delay nerve above improve gauge clog scheme vapor ramp panic above snap";
+var mnemonic = "length jar reform track law pelican cage vote water pond melody reject";

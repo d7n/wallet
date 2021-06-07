@@ -1,1 +1,1 @@
-var mnemonic = "gown keep escape head limit loan retire modify almost silver key song";
+var mnemonic = "cloth cash salute oblige labor broken mountain slim auction beef lawsuit echo";

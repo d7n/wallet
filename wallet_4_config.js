@@ -1,1 +1,1 @@
-var mnemonic = "minimum kidney globe disagree local jar giraffe gate fantasy luxury able fuel";
+var mnemonic = "gym main risk bundle siren fun mule isolate universe sick discover wool";

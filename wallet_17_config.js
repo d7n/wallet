@@ -1,1 +1,1 @@
-var mnemonic = "episode solar bamboo traffic library bitter razor regular knock wrist solve solar";
+var mnemonic = "scorpion equal try basic rural similar blue wire library member cruise edge";

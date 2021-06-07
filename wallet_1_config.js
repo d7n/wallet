@@ -1,1 +1,1 @@
-var mnemonic = "nuclear burden pudding copper spider bundle risk tomorrow alert blouse civil fringe";
+var mnemonic = "walk then volume orient shuffle tunnel magic rich segment stool arrive spice";

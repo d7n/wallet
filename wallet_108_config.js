@@ -1,1 +1,1 @@
-var mnemonic = "coil uniform medal blouse card palace alert exhaust include wait inspire fun";
+var mnemonic = "force weasel father aim uphold vehicle tragic stay screen remove please script";

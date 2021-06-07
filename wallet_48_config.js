@@ -1,1 +1,1 @@
-var mnemonic = "job stuff brush wrong visit surprise tennis list pull honey ability recipe";
+var mnemonic = "anger slim empty game wink fantasy meat cactus blind dawn poem weird";

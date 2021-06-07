@@ -1,1 +1,1 @@
-var mnemonic = "menu fan sea horn horse mind estate online repair cup mango kiss";
+var mnemonic = "garment verb seat great feed cushion weather manage tilt drill genre fantasy";

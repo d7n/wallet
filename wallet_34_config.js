@@ -1,1 +1,1 @@
-var mnemonic = "whisper neutral pig effort teach panda flee there huge sponsor sign transfer";
+var mnemonic = "idle unknown arrest decide accident loop reject boost prize wrap dish chunk";

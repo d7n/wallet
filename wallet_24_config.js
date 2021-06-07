@@ -1,1 +1,1 @@
-var mnemonic = "neglect soft purity nerve engage stumble bid subject pact uncle lend pool";
+var mnemonic = "teach expire amateur flock motion remind avocado reopen teach heart tissue flee";

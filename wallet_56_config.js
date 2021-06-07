@@ -1,1 +1,1 @@
-var mnemonic = "firm pepper oyster town fox dirt stock post pluck absurd rare lamp";
+var mnemonic = "violin lock shoulder extend economy month alter giraffe parent music despair lyrics";

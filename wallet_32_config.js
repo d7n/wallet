@@ -1,1 +1,1 @@
-var mnemonic = "target call online valid rural attitude inquiry tail van wagon member brother";
+var mnemonic = "trap area easily ozone wide token squeeze over finger dance habit wrist";

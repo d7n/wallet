@@ -1,1 +1,1 @@
-var mnemonic = "math coconut link label water ignore arrive radar business curve trophy matrix";
+var mnemonic = "pioneer lottery cheap pretty mobile minimum bachelor kick advice wrist truck churn";

@@ -1,1 +1,1 @@
-var mnemonic = "team fabric short tissue organ melt divorce bulk resource advice nose oak";
+var mnemonic = "shrimp garage cattle gravity opera robust super depend stamp uniform clog refuse";

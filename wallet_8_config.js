@@ -1,1 +1,1 @@
-var mnemonic = "essay feature truly orbit harbor paddle vivid entry famous reduce climb truly";
+var mnemonic = "you funny ordinary need maid arrow approve fluid wrestle patrol mouse cliff";

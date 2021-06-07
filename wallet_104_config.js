@@ -1,1 +1,1 @@
-var mnemonic = "sock oven bind grief code predict border honey seek athlete husband game";
+var mnemonic = "sheriff bus citizen depend gorilla still timber amount mad usual normal marriage";

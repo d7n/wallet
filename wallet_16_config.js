@@ -1,1 +1,1 @@
-var mnemonic = "sport wash pulse captain galaxy degree cry depart hammer glove ten ladder";
+var mnemonic = "wise shy avocado spell dumb develop antenna excuse rabbit visual good eight";

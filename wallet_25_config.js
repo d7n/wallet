@@ -1,1 +1,1 @@
-var mnemonic = "faint core jungle furnace rose transfer present lesson sunset rural rule advance";
+var mnemonic = "drink tobacco bundle nose suggest rough brand cook cereal subway enforce margin";

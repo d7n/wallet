@@ -1,1 +1,1 @@
-var mnemonic = "galaxy pigeon viable retire clever labor trap rebuild art ready sister oxygen";
+var mnemonic = "sentence stand whisper ramp food save transfer merge income poet relax tissue";

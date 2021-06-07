@@ -1,1 +1,1 @@
-var mnemonic = "pelican culture equip carpet cup bread soon release danger memory exotic fetch";
+var mnemonic = "hammer lens begin early act erupt junk silly clog machine wide art";

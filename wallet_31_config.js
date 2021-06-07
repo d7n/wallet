@@ -1,1 +1,1 @@
-var mnemonic = "hip uphold you gravity manual extend pipe salute garment butter buyer father";
+var mnemonic = "flip flip stage lunch avoid differ visa second balance mind evidence beyond";

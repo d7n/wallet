@@ -1,1 +1,1 @@
-var mnemonic = "basic random visual original invite safe west naive force elite business example";
+var mnemonic = "melody shy cup hurt kangaroo fine suit impact purse school purse uncle";

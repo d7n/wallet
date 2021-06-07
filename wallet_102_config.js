@@ -1,1 +1,1 @@
-var mnemonic = "crime summer unveil gesture joke grid place quiz intact smile wreck gym";
+var mnemonic = "attend ready vague slab brush leg measure foam lemon wrap tribe column";

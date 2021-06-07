@@ -1,1 +1,1 @@
-var mnemonic = "merry lobster hurry air merge hour rich you gadget nest draft yard";
+var mnemonic = "ocean lottery apart ozone chimney arctic ship rug figure mutual raw pulse";

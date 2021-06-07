@@ -1,1 +1,1 @@
-var mnemonic = "direct control shield convince join era cabin screen inquiry dad urge utility";
+var mnemonic = "hub scatter auto forest output bulb flip apart item faint pyramid degree";

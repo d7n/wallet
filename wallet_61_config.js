@@ -1,1 +1,1 @@
-var mnemonic = "mail permit discover bullet attitude sibling scrub lumber battle swim bargain sister";
+var mnemonic = "dragon lonely grape hamster banner volume frozen unfair clinic stage lazy calm";

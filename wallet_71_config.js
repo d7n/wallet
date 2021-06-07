@@ -1,1 +1,1 @@
-var mnemonic = "ready wire coral bean coin canal lobster question grant wheat reopen feed";
+var mnemonic = "enrich fence annual age illegal final mask walnut aware hub position goose";

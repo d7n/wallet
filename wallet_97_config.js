@@ -1,1 +1,1 @@
-var mnemonic = "cradle wagon hold alone home detail check expose around book section fame";
+var mnemonic = "future ridge gossip always wire pudding record erase special step maple conduct";

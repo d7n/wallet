@@ -1,1 +1,1 @@
-var mnemonic = "hurry food rescue badge crack fault cupboard menu arm autumn adult baby";
+var mnemonic = "worry neck august fabric pepper stand elephant open regular swift torch medal";

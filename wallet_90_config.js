@@ -1,1 +1,1 @@
-var mnemonic = "basic delay urban world chapter seminar orient soap seek great party season";
+var mnemonic = "camera rice fade source among quarter volume park hip return they harbor";

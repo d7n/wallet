@@ -1,1 +1,1 @@
-var mnemonic = "mix fatigue salt rely kitten skill sick lonely rally sunset vintage scrap";
+var mnemonic = "parrot brother maid tape final benefit common enlist cram dizzy monitor danger";

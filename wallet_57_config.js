@@ -1,1 +1,1 @@
-var mnemonic = "armed ready nothing amazing equip april outer select civil cat bitter entire";
+var mnemonic = "jungle blind hedgehog average egg tissue worry invest grunt master office hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil donate useless valley beyond truly kidney trip blush regret alcohol leopard";
+var mnemonic = "flash olive fade congress injury document super throw bring asthma bread bacon";

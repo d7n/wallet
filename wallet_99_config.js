@@ -1,1 +1,1 @@
-var mnemonic = "dish match test army metal treat century tiny great rigid father manual";
+var mnemonic = "shy about ski woman person genre jaguar brain unfair normal true depend";

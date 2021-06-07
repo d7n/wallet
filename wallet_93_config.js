@@ -1,1 +1,1 @@
-var mnemonic = "enact culture knee differ emerge normal easy runway luxury apple reunion rocket";
+var mnemonic = "clerk curious leave tomorrow drill cabbage labor later fiction acoustic style winner";

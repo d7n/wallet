@@ -1,1 +1,1 @@
-var mnemonic = "shoe mimic faith vivid boss mistake clerk congress gun immense deposit cotton";
+var mnemonic = "gossip focus loop pilot satisfy traffic link degree cost bundle race mirror";

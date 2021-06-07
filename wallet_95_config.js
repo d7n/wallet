@@ -1,1 +1,1 @@
-var mnemonic = "recipe cabbage ancient taste boost gauge weasel rain else defy seed lake";
+var mnemonic = "muffin omit diary smile economy leave rival jacket member civil prize code";

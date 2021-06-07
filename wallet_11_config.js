@@ -1,1 +1,1 @@
-var mnemonic = "rent funny citizen code angry drink range wild skate large empty grocery";
+var mnemonic = "outer burden predict trumpet grab boss lunar energy review alert later poem";

@@ -1,1 +1,1 @@
-var mnemonic = "candy exhibit wise timber fan provide loud federal connect midnight paddle side";
+var mnemonic = "flash catalog game endorse original stereo loan drastic detect reduce hazard mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "social stuff mountain ripple wisdom trim reject pilot old any field brand";
+var mnemonic = "hold strong must hurry destroy minute grape bicycle chat sheriff vicious sun";

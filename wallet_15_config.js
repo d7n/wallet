@@ -1,1 +1,1 @@
-var mnemonic = "couple pyramid picture hour assist cliff solution subway order sand stage filter";
+var mnemonic = "street normal upset tell tobacco swift tortoise check act search kangaroo spin";

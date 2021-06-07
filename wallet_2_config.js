@@ -1,1 +1,1 @@
-var mnemonic = "prefer joy admit addict long program car awake rain boil easily car";
+var mnemonic = "ship arctic fish crash now balcony material matter mind slow hospital raw";

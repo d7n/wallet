@@ -1,1 +1,1 @@
-var mnemonic = "question language useful repair involve tiny deny cruel luggage ball undo swift";
+var mnemonic = "off kite coil voice embrace verify laundry repair lake tornado ostrich cheap";

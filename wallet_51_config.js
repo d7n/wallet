@@ -1,1 +1,1 @@
-var mnemonic = "rather cry law awake festival hold fitness helmet danger lizard voice suit";
+var mnemonic = "fix model nerve junk mask law just flock fatigue praise erode sustain";

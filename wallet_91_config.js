@@ -1,1 +1,1 @@
-var mnemonic = "fitness thank school ketchup cherry melody library tired faculty awful dream hood";
+var mnemonic = "expect vital motion equip pigeon leg blade baby hole cat sphere toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "this oyster ahead loop build bottom galaxy dismiss truth voyage lumber rabbit";
+var mnemonic = "volume soft enact artefact total stumble nasty three cute beyond general share";

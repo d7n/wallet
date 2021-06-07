@@ -1,1 +1,1 @@
-var mnemonic = "early decade depth actress rose devote issue dwarf siege vivid nut fun";
+var mnemonic = "cover cliff quiz raven cradle elite thunder sail salad soda birth please";

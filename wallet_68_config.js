@@ -1,1 +1,1 @@
-var mnemonic = "sad slender cement riot disagree link captain habit must legend enjoy cost";
+var mnemonic = "nation toy push arrange illegal endless lottery scorpion satoshi party arm valve";

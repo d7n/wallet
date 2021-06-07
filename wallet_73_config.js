@@ -1,1 +1,1 @@
-var mnemonic = "check ship first dumb bounce mesh duck symbol sell defense opinion forget";
+var mnemonic = "capable host reunion indoor canoe pepper moral behave finger prize chair upper";

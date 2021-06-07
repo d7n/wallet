@@ -1,1 +1,1 @@
-var mnemonic = "absent fiscal chimney cost robot flight hurry bracket math layer race axis";
+var mnemonic = "hamster sure combine scissors eye auto above purity obvious worth other month";

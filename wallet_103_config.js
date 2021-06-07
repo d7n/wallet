@@ -1,1 +1,1 @@
-var mnemonic = "dwarf icon minute banana pride afraid account order detect rural settle glance";
+var mnemonic = "sketch sort aspect able capital boil velvet use either dream change crack";

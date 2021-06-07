@@ -1,1 +1,1 @@
-var mnemonic = "gesture traffic scare educate ice boil state okay plug harbor critic skin";
+var mnemonic = "what nest bacon medal fetch style harbor clog feel either salute absorb";

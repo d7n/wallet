@@ -1,1 +1,1 @@
-var mnemonic = "jewel license wing install cave armed identify stage cheap economy planet ready";
+var mnemonic = "account friend sound security verify century increase coconut card gate flush soul";

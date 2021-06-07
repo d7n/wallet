@@ -1,1 +1,1 @@
-var mnemonic = "steak season recipe planet moon payment rival vote dry double rice shell";
+var mnemonic = "turn miss section trash grief amount piece recipe lesson raven ship glass";

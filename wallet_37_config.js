@@ -1,1 +1,1 @@
-var mnemonic = "escape motor tourist rice setup pink grace burst distance assume bulk educate";
+var mnemonic = "era business beach exotic access surface barrel hobby benefit turtle expand huge";

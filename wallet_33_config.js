@@ -1,1 +1,1 @@
-var mnemonic = "grant omit disease season coconut lion involve alley immune laundry pull around";
+var mnemonic = "describe you client media process clarify bargain glare impulse master virtual upon";

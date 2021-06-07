@@ -1,1 +1,1 @@
-var mnemonic = "fortune license shadow coral phone hen bone expand sick render convince acquire";
+var mnemonic = "charge insane enhance list carry lens spike alien bitter flag creek symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon someone buyer obtain credit youth flee snack bright swing electric vanish";
+var mnemonic = "conduct emerge already source garlic battle wall crack echo volcano strong elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "wire fiction unfold actor sheriff student run mosquito usage stamp glue section";
+var mnemonic = "key region banana slot sell agree hockey script hazard frozen provide way";

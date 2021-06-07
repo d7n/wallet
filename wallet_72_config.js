@@ -1,1 +1,1 @@
-var mnemonic = "olive misery ladder token pipe decline mother swing fiscal cattle actor claw";
+var mnemonic = "ten loop prosper only nuclear shuffle leg cute limb diet gate tomorrow";

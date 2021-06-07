@@ -1,1 +1,1 @@
-var mnemonic = "course oval extend abandon spray dismiss purpose essay obvious purse harbor among";
+var mnemonic = "follow matrix hat diary grunt embody grant enforce either truly rather youth";

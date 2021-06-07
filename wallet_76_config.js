@@ -1,1 +1,1 @@
-var mnemonic = "hen evoke lab embrace vocal movie item often phrase immune object audit";
+var mnemonic = "leaf town save history resemble history dad lab outdoor usual isolate corn";

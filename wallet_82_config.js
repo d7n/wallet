@@ -1,1 +1,1 @@
-var mnemonic = "hold wire belt mountain dilemma they organ tiny piano advance work develop";
+var mnemonic = "bunker armor illness wool finish ignore enable rate misery add veteran absurd";

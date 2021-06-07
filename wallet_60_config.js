@@ -1,1 +1,1 @@
-var mnemonic = "garbage rotate trophy two noble cigar logic mix polar fine aim frame";
+var mnemonic = "hub tortoise whale whisper horror verify spare order consider already exist antique";

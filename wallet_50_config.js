@@ -1,1 +1,1 @@
-var mnemonic = "demand there visual erosion olympic spread issue gate play include panda race";
+var mnemonic = "slide steak trip whale jeans save ball exhibit mirror trust predict attack";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve debris input magic tool cause van afford grocery inject insect begin";
+var mnemonic = "legend month energy awful express hobby trust normal program corn lock nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "mule warrior tribe soccer stock bread shiver reject current inherit bulk night";
+var mnemonic = "damage rabbit mystery sphere sudden cube outside vocal wear grow boss vendor";

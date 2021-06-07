@@ -1,1 +1,1 @@
-var mnemonic = "repair stem garbage kit auction pistol flee opinion company oxygen exhibit monster";
+var mnemonic = "swing life music home major person tide resemble tree swallow raven little";

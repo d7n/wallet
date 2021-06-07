@@ -1,1 +1,1 @@
-var mnemonic = "above domain hidden dove coil attract lens police stuff air stuff panic";
+var mnemonic = "dose remain sister shrimp sunny connect response culture climb stadium avocado dose";

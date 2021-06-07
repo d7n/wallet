@@ -1,1 +1,1 @@
-var mnemonic = "evil video pretty lunar season glimpse beyond party poem seed profit vague";
+var mnemonic = "fence confirm useless alone sting spray frog yard goose settle piece dance";

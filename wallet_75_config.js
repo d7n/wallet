@@ -1,1 +1,1 @@
-var mnemonic = "outdoor globe grit air text rose icon pony scatter danger climb there";
+var mnemonic = "open flee uncle thrive pupil invite genuine bulk adapt vehicle prosper weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "siren potato anxiety conduct live conduct include educate enhance wire still donate";
+var mnemonic = "version hard wink hockey merit endless sea meat approve antenna damage talk";

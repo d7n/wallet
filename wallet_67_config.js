@@ -1,1 +1,1 @@
-var mnemonic = "badge catch young junk kind safe tired steak caught during address jazz";
+var mnemonic = "print weasel army convince exile diamond early vibrant entire soft word economy";

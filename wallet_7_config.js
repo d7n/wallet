@@ -1,1 +1,1 @@
-var mnemonic = "day man plastic spice tissue produce faint bulb wolf maple bonus horror";
+var mnemonic = "popular cool slice speed spy need obtain toast hole owner video sibling";

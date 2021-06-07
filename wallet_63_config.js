@@ -1,1 +1,1 @@
-var mnemonic = "company captain action blossom gift shrimp share mountain injury giggle cabin public";
+var mnemonic = "cloud verb imitate person powder buddy gadget kangaroo impulse abandon mass issue";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict hill vacuum slow safe gentle trumpet oven asset palace crazy venue";
+var mnemonic = "broken response wool arm normal bench amount bronze dance fortune twelve silly";

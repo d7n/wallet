@@ -1,1 +1,1 @@
-var mnemonic = "behave box void absurd dress bunker sudden spirit symptom bicycle split dice";
+var mnemonic = "mean sleep latin sheriff donate prison typical ramp intact noise jewel comic";

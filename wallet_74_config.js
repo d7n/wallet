@@ -1,1 +1,1 @@
-var mnemonic = "attend lend dash umbrella magic coconut demise total strong start welcome pyramid";
+var mnemonic = "wing sunset armed clean awesome manage retreat member shallow barely neutral dance";

@@ -1,1 +1,1 @@
-var mnemonic = "lake inmate moral unusual measure measure term secret logic border snake deliver";
+var mnemonic = "chat gun regular soccer episode juice goose peanut erode shock piano sunset";

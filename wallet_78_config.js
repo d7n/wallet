@@ -1,1 +1,1 @@
-var mnemonic = "mass agree meat sunny flame novel horse stamp amount pink shock genuine";
+var mnemonic = "stairs coral vapor weapon swap board still harbor faint voyage bike wide";

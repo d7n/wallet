@@ -1,1 +1,1 @@
-var mnemonic = "scout tribe concert merge box birth avoid choice brass clump mind final";
+var mnemonic = "river hood tiger snap pyramid guilt invest pupil sudden sorry attitude thought";

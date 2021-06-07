@@ -1,1 +1,1 @@
-var mnemonic = "emotion soup fiber erase mansion human senior logic dinner disorder scale naive";
+var mnemonic = "craft woman upset adjust donate soldier case loan burden silk vehicle gentle";

@@ -1,1 +1,1 @@
-var mnemonic = "attack asset error vague pink horror unfold brush brown denial try vague";
+var mnemonic = "breeze keen ahead sunny north kiwi true glue adult firm trouble obey";

@@ -1,1 +1,1 @@
-var mnemonic = "where praise fire index copper afford very loud evil clock mouse poet";
+var mnemonic = "language canoe section inmate blouse rebuild train super security silly often cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "genre hole weird cigar indoor patch coin engine cheese stem over clay";
+var mnemonic = "elevator quick boring require twenty ocean pill eye nephew undo walk daring";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain wonder update delay swim release merit major material love index fade";
+var mnemonic = "atom kangaroo define fragile host green ecology glad crumble problem abandon nominee";

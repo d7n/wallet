@@ -1,1 +1,1 @@
-var mnemonic = "two stamp pull wheat purpose kind wage pistol neck custom victory infant";
+var mnemonic = "service error turkey cook web desert insane save poet merit stove pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce plunge media grace fiction help shuffle true arrange search donkey color";
+var mnemonic = "toy fiction coin morning brick rotate tent recall best garbage pride push";

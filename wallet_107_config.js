@@ -1,1 +1,1 @@
-var mnemonic = "cotton trade bone gate basic brown cat taste narrow blossom great fault";
+var mnemonic = "unit zone wrestle genius curtain icon crack wine guess dose drift elegant";
