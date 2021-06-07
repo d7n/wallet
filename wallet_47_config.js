@@ -1,1 +1,1 @@
-var mnemonic = "system eagle immune lyrics snap donkey canvas doctor gadget milk lunar favorite";
+var mnemonic = "share reflect lunch anxiety camera juice cabbage wolf team bomb sauce century";

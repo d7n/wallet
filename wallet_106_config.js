@@ -1,1 +1,1 @@
-var mnemonic = "grass sunset law inspire wisdom drastic fiscal gather wire blanket detail innocent";
+var mnemonic = "govern cheese music earth nose bunker detect program domain loop bottom voyage";

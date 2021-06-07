@@ -1,1 +1,1 @@
-var mnemonic = "corn orphan lunch main sort paper crop pave split fortune help welcome";
+var mnemonic = "road key spike grain become device staff used magic notable pill enable";

@@ -1,1 +1,1 @@
-var mnemonic = "timber token bottom lock tornado pumpkin debris appear brief friend sense copy";
+var mnemonic = "net blanket ankle oak awake barely silver salt vintage eye wage tomorrow";

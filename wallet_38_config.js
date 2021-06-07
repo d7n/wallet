@@ -1,1 +1,1 @@
-var mnemonic = "confirm security age dumb suggest act charge then skate robust record sketch";
+var mnemonic = "machine shoulder hollow cover view question pear jazz auction bubble correct employ";

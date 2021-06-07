@@ -1,1 +1,1 @@
-var mnemonic = "maid film soup twenty keep fossil artwork wish apart advice they oxygen";
+var mnemonic = "pave slush master above sea glare guess suit exotic better search word";

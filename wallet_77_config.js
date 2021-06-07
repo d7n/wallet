@@ -1,1 +1,1 @@
-var mnemonic = "advice hire flock crime wire pyramid bean certain together people antique trial";
+var mnemonic = "direct battle real duty arctic warm toast shrug uphold fox verify innocent";

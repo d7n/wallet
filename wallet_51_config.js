@@ -1,1 +1,1 @@
-var mnemonic = "alpha allow gain bring shield company hint noise gentle outdoor service soul";
+var mnemonic = "weasel lizard state very speak lamp infant lottery between vast lesson outdoor";

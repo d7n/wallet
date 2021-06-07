@@ -1,1 +1,1 @@
-var mnemonic = "crack maximum clog elder ecology relief room all inside genre that evoke";
+var mnemonic = "rely hip gesture can champion shallow foam syrup riot chef pizza wool";

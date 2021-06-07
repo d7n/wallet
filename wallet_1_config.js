@@ -1,1 +1,1 @@
-var mnemonic = "identify torch crater weasel picture strong hello can game very head debris";
+var mnemonic = "small mutual ladder brick rival between wreck fly collect void human minor";

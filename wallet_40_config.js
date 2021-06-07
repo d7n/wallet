@@ -1,1 +1,1 @@
-var mnemonic = "baby stem hockey creek disagree rough veteran staff lazy expand dry buzz";
+var mnemonic = "word tattoo month trick focus sight vintage average insect heart onion tennis";

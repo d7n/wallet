@@ -1,1 +1,1 @@
-var mnemonic = "potato luxury plate curious give case clump disorder decide spell tunnel easily";
+var mnemonic = "notable fan sketch skin minor idea thumb now answer trip aspect trip";

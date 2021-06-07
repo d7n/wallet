@@ -1,1 +1,1 @@
-var mnemonic = "issue detail stick fiction harbor scrap observe immune initial olive unaware essence";
+var mnemonic = "library make beyond bottom little arm fragile vacuum law ensure unfair arrow";

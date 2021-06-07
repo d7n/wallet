@@ -1,1 +1,1 @@
-var mnemonic = "monster found swear submit hospital fossil embark bike board kid parrot cousin";
+var mnemonic = "tilt crunch prefer bus final absurd cute winter endless also tone cake";

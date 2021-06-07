@@ -1,1 +1,1 @@
-var mnemonic = "upgrade rule caution hawk pudding scene alter explain diet fabric world envelope";
+var mnemonic = "elevator gap apology marriage tilt dish choose father ladder mandate toddler shoe";

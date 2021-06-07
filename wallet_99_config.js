@@ -1,1 +1,1 @@
-var mnemonic = "width dash twin broccoli broom attack quality daughter travel manual elbow protect";
+var mnemonic = "indicate wagon inject quick grain volume resist cup label future glue hamster";

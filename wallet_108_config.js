@@ -1,1 +1,1 @@
-var mnemonic = "sentence trigger monitor grief fire glass state unusual elegant stadium ability aspect";
+var mnemonic = "will desert pilot life grow spread traffic royal junior hole cry guard";

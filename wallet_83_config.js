@@ -1,1 +1,1 @@
-var mnemonic = "draw inch scorpion object correct achieve middle cash excite notable change slam";
+var mnemonic = "frozen dinner again one mystery initial quarter conduct color warrior abandon stamp";

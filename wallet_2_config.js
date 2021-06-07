@@ -1,1 +1,1 @@
-var mnemonic = "escape ostrich banana wink pizza craft moment trophy excess stable poem shadow";
+var mnemonic = "wall claw detect trip two cart employ lunch bamboo replace voyage impose";

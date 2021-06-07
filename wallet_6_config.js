@@ -1,1 +1,1 @@
-var mnemonic = "connect cause clerk diary jewel universe chapter inside tuition speak evil sell";
+var mnemonic = "crime also work buzz pipe brand crane cube element figure web slogan";

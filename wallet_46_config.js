@@ -1,1 +1,1 @@
-var mnemonic = "alert waste ring glow law knee present decrease bamboo coin exist daughter";
+var mnemonic = "life priority bitter scrap tobacco eagle unknown fault father loud owner tornado";

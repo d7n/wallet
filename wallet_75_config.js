@@ -1,1 +1,1 @@
-var mnemonic = "robust disorder fortune capable normal print shuffle neither age device trend bronze";
+var mnemonic = "popular cart dry future sing axis bring message movie depart yard horror";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse slab round humble hour drive october pill weasel accuse draw ketchup";
+var mnemonic = "keep rabbit upset clean toward timber gold luxury else weekend load extend";

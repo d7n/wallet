@@ -1,1 +1,1 @@
-var mnemonic = "hat impact weird lens dragon olive monster crime motion garlic firm profit";
+var mnemonic = "eager retire witness slice rocket range poem panic speak cushion sausage brother";

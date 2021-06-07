@@ -1,1 +1,1 @@
-var mnemonic = "diagram indicate other fault goose panther board imitate tragic dance tape pair";
+var mnemonic = "pluck comic stand goat lizard reveal gentle since catalog custom excite rail";

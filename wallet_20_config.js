@@ -1,1 +1,1 @@
-var mnemonic = "tobacco talent shadow erode paper rocket dish pass height young kingdom provide";
+var mnemonic = "noodle quality fatal shop guitar joy nose front thunder parent boring peanut";

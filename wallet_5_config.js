@@ -1,1 +1,1 @@
-var mnemonic = "lend thing clown field convince burst clarify blue define labor leopard chapter";
+var mnemonic = "pistol merry name correct energy clarify hire theory image weather check cram";

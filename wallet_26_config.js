@@ -1,1 +1,1 @@
-var mnemonic = "great follow thank ride promote detail ketchup prison repeat involve caution slogan";
+var mnemonic = "midnight kite strategy humor unique strike security cliff creek tower field royal";

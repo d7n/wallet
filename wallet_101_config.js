@@ -1,1 +1,1 @@
-var mnemonic = "morning replace kiwi direct forward pigeon left profit acoustic idle layer achieve";
+var mnemonic = "eternal burden heart anchor slow whale panic seven eyebrow churn venue ice";

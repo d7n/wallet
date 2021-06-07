@@ -1,1 +1,1 @@
-var mnemonic = "syrup leisure curtain seven angry pear bulb negative load valve crane habit";
+var mnemonic = "ozone faculty heavy ankle moon essay injury bench erode garlic bundle winner";

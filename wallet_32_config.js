@@ -1,1 +1,1 @@
-var mnemonic = "ability toss library sustain buyer army odor shed base enough holiday amount";
+var mnemonic = "weekend lemon area quarter frost focus under cable art ill decade omit";

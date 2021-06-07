@@ -1,1 +1,1 @@
-var mnemonic = "music strike exhibit sweet juice explain dismiss true weather lizard gaze venture";
+var mnemonic = "enemy doctor peace similar demise search arrest race anchor tip tag round";

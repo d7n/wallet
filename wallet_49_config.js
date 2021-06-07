@@ -1,1 +1,1 @@
-var mnemonic = "shed drastic ball melody damp replace brave eagle brisk into minor rent";
+var mnemonic = "hurt mimic crater arch tag defense license gas witness throw agent regular";

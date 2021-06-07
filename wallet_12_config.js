@@ -1,1 +1,1 @@
-var mnemonic = "rookie boil verify always fatal capable decrease rather rug design kidney resist";
+var mnemonic = "impact era order inject camera truth connect ankle boy canal armed health";

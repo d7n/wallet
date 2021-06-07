@@ -1,1 +1,1 @@
-var mnemonic = "devote drip clarify tail sell topple agree correct dune volume kiwi loan";
+var mnemonic = "concert very hair earth fantasy try tackle future tortoise wealth mountain horn";

@@ -1,1 +1,1 @@
-var mnemonic = "vital famous fortune need oven surface mango copper alley review recycle such";
+var mnemonic = "game vast desk inherit frog other lecture fade dawn harbor ship turkey";

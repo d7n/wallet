@@ -1,1 +1,1 @@
-var mnemonic = "lucky already nation lion sausage spy power arm sketch awesome cute poet";
+var mnemonic = "because local loan transfer decade cliff employ eight walk fish verb soft";

@@ -1,1 +1,1 @@
-var mnemonic = "usage similar object absorb ill squeeze eight find glove garbage allow car";
+var mnemonic = "seed flash urge fine obscure breeze another portion wide amused doctor noise";

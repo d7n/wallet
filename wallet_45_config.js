@@ -1,1 +1,1 @@
-var mnemonic = "motor high evil dance ranch smart bring perfect animal illness arena permit";
+var mnemonic = "summer exile meadow acid reward learn alone glow original panda federal sell";

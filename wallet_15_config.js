@@ -1,1 +1,1 @@
-var mnemonic = "venue age afraid path call gentle sight hood ripple sleep witness rich";
+var mnemonic = "soap lend slight scrap entire trick walnut require pulp copper dragon cruel";

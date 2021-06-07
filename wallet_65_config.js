@@ -1,1 +1,1 @@
-var mnemonic = "salon reopen input nasty welcome action slogan pulp clarify memory keen help";
+var mnemonic = "assist shell wish debris equip exhibit rescue word vault evolve move promote";

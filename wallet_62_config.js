@@ -1,1 +1,1 @@
-var mnemonic = "office wheat first flight effort tornado license option tooth choose observe arch";
+var mnemonic = "empower illness soda wait orphan great blame put matter silver object curve";

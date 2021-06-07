@@ -1,1 +1,1 @@
-var mnemonic = "cage pig dwarf time bring bid horror acquire border woman nurse blame";
+var mnemonic = "child furnace parade cream valley public moon demise lend impose curve virus";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle tunnel bike measure flight cushion crane dutch brain area march fan";
+var mnemonic = "price negative eight announce budget guide hunt any palace sun thank legend";

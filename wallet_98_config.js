@@ -1,1 +1,1 @@
-var mnemonic = "bomb amateur undo state ahead husband shrug machine upper seek apology rich";
+var mnemonic = "fresh next ridge assault knife actual drop moral ostrich speak detail live";

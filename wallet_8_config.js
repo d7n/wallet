@@ -1,1 +1,1 @@
-var mnemonic = "essay virtual engage maximum slogan cushion ginger exist master useful news voyage";
+var mnemonic = "release sugar disease analyst squirrel tired garbage struggle expose retreat pause pool";

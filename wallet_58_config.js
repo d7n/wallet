@@ -1,1 +1,1 @@
-var mnemonic = "luggage inflict walnut puppy olive evil best under milk feature hybrid reunion";
+var mnemonic = "choose stick obey now metal grocery tuition palace floor enable mean panel";

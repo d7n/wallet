@@ -1,1 +1,1 @@
-var mnemonic = "minimum anxiety cactus artwork forget sauce unfold famous green wet six excuse";
+var mnemonic = "trouble physical stem maze staff unveil feel include benefit execute bicycle caution";

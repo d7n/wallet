@@ -1,1 +1,1 @@
-var mnemonic = "junior blouse elite shed derive unique report increase habit pledge limb poverty";
+var mnemonic = "pistol rifle bag trap taxi menu swear yellow carpet arm jump vague";

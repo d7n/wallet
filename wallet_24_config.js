@@ -1,1 +1,1 @@
-var mnemonic = "inject swift fancy rate file capable aisle coyote loan immune popular shop";
+var mnemonic = "setup happy elder chest rice decide royal child amateur detect chaos have";

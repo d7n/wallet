@@ -1,1 +1,1 @@
-var mnemonic = "bus chat critic approve alpha exotic three tone crouch post turtle jump";
+var mnemonic = "topple load wagon cash honey casual cave verify deer scrap cabin panda";

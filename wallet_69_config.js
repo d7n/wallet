@@ -1,1 +1,1 @@
-var mnemonic = "dawn void inherit daring say buyer message receive wink forum vacant fuel";
+var mnemonic = "weather juice knee future police early spell mystery manual rail diagram garlic";

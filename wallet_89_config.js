@@ -1,1 +1,1 @@
-var mnemonic = "expand rapid drink sphere tiny owner hole oak insect sound onion fork";
+var mnemonic = "gloom below calm tomorrow treat minor maximum color firm decline dust urge";

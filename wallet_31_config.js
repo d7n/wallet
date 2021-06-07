@@ -1,1 +1,1 @@
-var mnemonic = "kitten senior reduce valley noise famous assume forum table tattoo attend online";
+var mnemonic = "happy wait artefact torch tattoo grunt leader denial sponsor recipe detail use";

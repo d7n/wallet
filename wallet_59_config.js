@@ -1,1 +1,1 @@
-var mnemonic = "boss virus napkin gasp fruit abstract sponsor slow dizzy coil bulb actor";
+var mnemonic = "eternal bus voyage bridge avocado apology guard assist purpose chat enrich sibling";

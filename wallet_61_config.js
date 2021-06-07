@@ -1,1 +1,1 @@
-var mnemonic = "fetch crane impact notable medal alley position found sauce ecology alert blanket";
+var mnemonic = "awful depart upgrade measure venue usage tiger gesture useful define enter merit";

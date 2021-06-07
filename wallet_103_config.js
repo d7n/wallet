@@ -1,1 +1,1 @@
-var mnemonic = "machine effort buzz circle blur volume rebel city couple there twice purpose";
+var mnemonic = "build enable core appear pass gun napkin method canal street check junk";

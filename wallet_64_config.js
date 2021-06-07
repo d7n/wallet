@@ -1,1 +1,1 @@
-var mnemonic = "genius chapter survey end crowd three outer grocery thank nation drop cart";
+var mnemonic = "cause parrot fall annual toilet rigid special flee diary empower mercy unusual";

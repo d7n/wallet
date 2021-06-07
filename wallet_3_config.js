@@ -1,1 +1,1 @@
-var mnemonic = "play sing fantasy spend inspire assume roof transfer praise sting smart appear";
+var mnemonic = "near gold uncle apart charge photo number cup pipe tag view census";

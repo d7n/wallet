@@ -1,1 +1,1 @@
-var mnemonic = "about stock balance jeans story phone catalog speed volume melody hub quantum";
+var mnemonic = "action calm nurse target spoil same purse fragile bachelor bright just cruel";

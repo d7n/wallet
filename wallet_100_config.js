@@ -1,1 +1,1 @@
-var mnemonic = "orphan ridge output embrace umbrella spring alert torch helmet finger place wrist";
+var mnemonic = "device curious dinner punch slender improve unaware divide situate blouse confirm vintage";

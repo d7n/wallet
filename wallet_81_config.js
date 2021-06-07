@@ -1,1 +1,1 @@
-var mnemonic = "select lonely lonely jealous lonely cube news universe ill borrow blame purse";
+var mnemonic = "they defy certain slab pipe model couch ridge flock armed artwork chimney";

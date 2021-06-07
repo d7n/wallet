@@ -1,1 +1,1 @@
-var mnemonic = "midnight plastic scale hungry achieve bacon road nerve improve trial web detect";
+var mnemonic = "enact recycle tool surprise army away casual scorpion hello jewel nasty milk";

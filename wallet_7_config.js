@@ -1,1 +1,1 @@
-var mnemonic = "carbon deliver enough very bus badge chief tail slam slam buffalo head";
+var mnemonic = "you modify twist advance pencil cup pretty camera ahead enroll swift develop";

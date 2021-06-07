@@ -1,1 +1,1 @@
-var mnemonic = "banana happy pipe able bitter door must obvious escape piano monitor wealth";
+var mnemonic = "name gain tenant enlist spy chunk path joy clay video air chaos";

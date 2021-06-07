@@ -1,1 +1,1 @@
-var mnemonic = "awake absurd motion claw sausage mass lake myth amateur tomato margin youth";
+var mnemonic = "spring humble random bread series proof crystal change armed cactus rent whale";

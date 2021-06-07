@@ -1,1 +1,1 @@
-var mnemonic = "able camera edit prefer gentle angry save defense flame trip tent moon";
+var mnemonic = "slush this affair word vendor shove helmet wish regret artist toast display";

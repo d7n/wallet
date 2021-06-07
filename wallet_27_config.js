@@ -1,1 +1,1 @@
-var mnemonic = "anxiety ski cart praise analyst unusual neck oven acid pluck creek team";
+var mnemonic = "winner tragic lawsuit remember earth unfair vague butter cycle pelican midnight monkey";

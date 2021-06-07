@@ -1,1 +1,1 @@
-var mnemonic = "special remove gown order luggage tackle fiber square differ lecture birth stock";
+var mnemonic = "mansion book guilt finish miracle once identify volume idle index more invite";

@@ -1,1 +1,1 @@
-var mnemonic = "toss sick venture unique bottom cage crumble wrong argue deliver myself toss";
+var mnemonic = "husband cram near hungry maximum basket slogan noise among mansion wife hello";

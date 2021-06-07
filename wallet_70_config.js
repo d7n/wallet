@@ -1,1 +1,1 @@
-var mnemonic = "mail gorilla great lake border icon question chaos ancient then burst spawn";
+var mnemonic = "boost smart bronze assault aspect rebuild rival perfect best bus shiver feel";

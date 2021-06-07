@@ -1,1 +1,1 @@
-var mnemonic = "riot start grab sand twice party ill mango render recycle mosquito analyst";
+var mnemonic = "manual abstract tattoo surface torch venture bulk lunch similar imitate wage garlic";

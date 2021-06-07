@@ -1,1 +1,1 @@
-var mnemonic = "bar wise view gravity matter tail please print bright walk feel room";
+var mnemonic = "rotate use priority hamster there glad cousin cross ill alert imitate decrease";

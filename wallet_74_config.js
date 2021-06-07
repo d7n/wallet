@@ -1,1 +1,1 @@
-var mnemonic = "until mirror fan mask robust boring smile foster shop shy victory arrive";
+var mnemonic = "draw aerobic quiz gym nephew judge rail erosion regret enter armor guard";

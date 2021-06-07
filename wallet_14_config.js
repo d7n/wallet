@@ -1,1 +1,1 @@
-var mnemonic = "ginger choose indicate adjust park asthma delay start word three sure beyond";
+var mnemonic = "crater nose gift dumb supply rough denial lift among put custom fancy";

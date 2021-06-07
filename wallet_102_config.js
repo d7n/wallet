@@ -1,1 +1,1 @@
-var mnemonic = "fence random step soccer awful only disagree later coin panic cycle boat";
+var mnemonic = "voice evil quit cotton powder giggle tornado charge raccoon purpose enable place";

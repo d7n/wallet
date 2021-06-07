@@ -1,1 +1,1 @@
-var mnemonic = "purpose conduct hedgehog check ceiling double cricket process guilt dune true history";
+var mnemonic = "youth album orchard hawk load tuna display ripple mouse coin excite idea";

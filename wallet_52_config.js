@@ -1,1 +1,1 @@
-var mnemonic = "exist fabric detail basket ocean couple urge venue medal cute quote tattoo";
+var mnemonic = "merge maze crash employ world anger doll husband need toward mushroom guide";

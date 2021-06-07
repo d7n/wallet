@@ -1,1 +1,1 @@
-var mnemonic = "patient among bring predict peasant dose another pride position intact skin unfair";
+var mnemonic = "cross orient pig fantasy false thumb example ghost dumb year shift rotate";

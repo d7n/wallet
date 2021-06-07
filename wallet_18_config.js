@@ -1,1 +1,1 @@
-var mnemonic = "feature demise blade extra thought unveil pilot hover ready sugar desert bench";
+var mnemonic = "wide album resemble sick insect approve wine provide coconut staff team globe";

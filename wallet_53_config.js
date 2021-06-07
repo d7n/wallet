@@ -1,1 +1,1 @@
-var mnemonic = "people neither grief face say roof sail family kid spend avoid hospital";
+var mnemonic = "switch umbrella party phone inspire resource talk worry jump glare two brief";

@@ -1,1 +1,1 @@
-var mnemonic = "sail coyote all adult rack luxury shed minimum miss know tent trick";
+var mnemonic = "inquiry urban shell vanish lottery coffee unique please west village neither scare";

@@ -1,1 +1,1 @@
-var mnemonic = "false anger volcano course level ceiling grow together unusual moment gas enemy";
+var mnemonic = "deny purchase circle torch tattoo disorder mother shrimp win alley bottom dinosaur";

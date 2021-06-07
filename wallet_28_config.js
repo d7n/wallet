@@ -1,1 +1,1 @@
-var mnemonic = "blind wing boost wire trumpet action stumble lemon summer alpha black fault";
+var mnemonic = "cancel height glass million tilt enjoy can purity length deputy subway day";

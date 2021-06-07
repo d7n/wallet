@@ -1,1 +1,1 @@
-var mnemonic = "virtual pipe region security junk street what wife sister monster hour meadow";
+var mnemonic = "weird waste father month goat pizza crucial own day absorb buyer jeans";

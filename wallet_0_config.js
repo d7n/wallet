@@ -1,1 +1,1 @@
-var mnemonic = "law join peasant access glimpse sense aspect keep plastic cross urban city";
+var mnemonic = "void entire avocado rebuild truth cactus foil ceiling upset penalty deputy physical";

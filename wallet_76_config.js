@@ -1,1 +1,1 @@
-var mnemonic = "toy pact long twelve april end pledge beauty giraffe width chest boss";
+var mnemonic = "abandon corn summer much hospital someone develop gasp local join bridge quote";

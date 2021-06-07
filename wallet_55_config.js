@@ -1,1 +1,1 @@
-var mnemonic = "bring blur simple sudden runway shadow top weird talk finish nation crew";
+var mnemonic = "alone jungle chest over turn advance foot vague siren divide convince camp";

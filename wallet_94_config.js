@@ -1,1 +1,1 @@
-var mnemonic = "harsh echo major loud doctor wrist pizza program ethics toe tribe empower";
+var mnemonic = "idle alcohol police march sock before either route tribe coach old fox";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown lonely door express fuel own pledge suit network just anchor six";
+var mnemonic = "trust domain reduce cry observe unknown stick raccoon badge arm attack destroy";

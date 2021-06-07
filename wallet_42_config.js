@@ -1,1 +1,1 @@
-var mnemonic = "nation lounge join novel canoe vacuum subject strategy memory vocal parrot patch";
+var mnemonic = "flip fuel midnight insane sniff aware vibrant crunch blame barrel remove into";

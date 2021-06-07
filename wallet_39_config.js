@@ -1,1 +1,1 @@
-var mnemonic = "impulse script inner jelly veteran interest slice turkey follow blush sun awake";
+var mnemonic = "expect figure coral flame hedgehog initial token club grant ostrich memory typical";
