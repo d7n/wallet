@@ -1,1 +1,1 @@
-var mnemonic = "leisure infant cool crawl purpose awesome talk chef blur refuse mechanic ticket";
+var mnemonic = "power nephew check pride oven believe today silent destroy gadget salad buffalo";

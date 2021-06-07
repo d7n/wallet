@@ -1,1 +1,1 @@
-var mnemonic = "load concert fantasy jump unlock paper cruel bless staff mosquito physical robot";
+var mnemonic = "fatigue raw hire math chase marriage rug arena prefer person filter moment";

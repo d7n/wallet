@@ -1,1 +1,1 @@
-var mnemonic = "subway discover gravity little else jewel corn network name organ nest drip";
+var mnemonic = "coast hope explain vital orient remind input energy pipe endorse fury knock";

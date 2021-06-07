@@ -1,1 +1,1 @@
-var mnemonic = "all light insane noble sudden athlete hungry spoon distance used valve burden";
+var mnemonic = "town autumn joy purse mango cradle cherry burden disagree orient toss gesture";

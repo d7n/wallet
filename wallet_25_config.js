@@ -1,1 +1,1 @@
-var mnemonic = "fortune huge gas maximum minute holiday duck regret eager danger genuine helmet";
+var mnemonic = "noise merge half over betray admit pole test teach over deer bottom";

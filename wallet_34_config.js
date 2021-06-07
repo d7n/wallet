@@ -1,1 +1,1 @@
-var mnemonic = "lounge alley snow slab divide adapt fever interest ritual black speed drink";
+var mnemonic = "mind drum plate olympic endorse beef vanish prevent order poem warrior give";

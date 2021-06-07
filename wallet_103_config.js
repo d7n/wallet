@@ -1,1 +1,1 @@
-var mnemonic = "equip project gym equip enjoy gloom siege entry toe benefit mango pet";
+var mnemonic = "view conduct arrive gentle outer wood slow bacon fiction live bus endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy civil demand pumpkin spoon sudden topple segment program cheese vintage jump";
+var mnemonic = "make exist agree smart later advice slush romance egg loud moment cruel";

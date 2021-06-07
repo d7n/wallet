@@ -1,1 +1,1 @@
-var mnemonic = "brass boost rose surprise party bomb wet fragile trial high path rare";
+var mnemonic = "gift fashion rally uncle reflect observe horn settle rescue response general pulp";

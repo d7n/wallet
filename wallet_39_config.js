@@ -1,1 +1,1 @@
-var mnemonic = "problem elite journey myth negative tail reform mixed dwarf document piano ankle";
+var mnemonic = "trip float nephew hello nothing fiber cereal enable better anxiety grain layer";

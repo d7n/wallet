@@ -1,1 +1,1 @@
-var mnemonic = "push copper wasp power flock such tortoise ancient creek social icon order";
+var mnemonic = "force symptom stairs grow fish spoon novel elegant guitar spring assault burden";

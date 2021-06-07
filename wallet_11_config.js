@@ -1,1 +1,1 @@
-var mnemonic = "narrow idea smooth short cram churn box guard matter trigger decide essay";
+var mnemonic = "fix carbon believe ostrich raw umbrella gold flower bring hockey tomato hello";

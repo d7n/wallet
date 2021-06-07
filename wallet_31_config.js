@@ -1,1 +1,1 @@
-var mnemonic = "ill suggest affair drill suffer hand category social session barrel decorate huge";
+var mnemonic = "blade notice hint prosper bottom various enlist any gather either item fury";

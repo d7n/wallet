@@ -1,1 +1,1 @@
-var mnemonic = "vintage six tape limb attitude teach urban wheel grace town describe comfort";
+var mnemonic = "fame glance deal envelope cream pelican position news physical broken another acid";

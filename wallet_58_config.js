@@ -1,1 +1,1 @@
-var mnemonic = "repeat hospital style never pact inflict victory cereal grain plug bitter sport";
+var mnemonic = "acoustic panic vacant olympic artist federal ghost produce evolve alien harvest breeze";

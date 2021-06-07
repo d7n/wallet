@@ -1,1 +1,1 @@
-var mnemonic = "casual retire twelve wait picnic latin country chair bright volcano brisk bread";
+var mnemonic = "night increase chapter calm east dry ostrich omit miracle rough silver pass";

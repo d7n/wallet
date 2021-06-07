@@ -1,1 +1,1 @@
-var mnemonic = "source crouch title outdoor nose quick wrist quiz alpha produce sing undo";
+var mnemonic = "start broccoli swim message liquid bright aware main vivid minor force rent";

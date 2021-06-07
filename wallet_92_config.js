@@ -1,1 +1,1 @@
-var mnemonic = "rare moment reason retreat metal neck fashion disease define police category gentle";
+var mnemonic = "save orange horse crouch flee ceiling mixed crater observe humor ability tag";

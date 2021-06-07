@@ -1,1 +1,1 @@
-var mnemonic = "enroll index photo forest country planet uncover heart hub bread drastic strong";
+var mnemonic = "festival diesel shock parrot off height turtle clever print cover south crop";

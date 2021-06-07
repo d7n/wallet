@@ -1,1 +1,1 @@
-var mnemonic = "sudden tilt act path tiger survey assist shuffle test wire now frog";
+var mnemonic = "anxiety confirm garden logic lens syrup simple punch thing conduct dance point";

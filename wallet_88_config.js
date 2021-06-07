@@ -1,1 +1,1 @@
-var mnemonic = "nose moral two manual undo pen position music increase butter certain tumble";
+var mnemonic = "pyramid treat diary victory opinion mercy breeze luggage blur piano frozen boil";

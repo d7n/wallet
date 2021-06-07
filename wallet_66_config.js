@@ -1,1 +1,1 @@
-var mnemonic = "purpose luxury owner ribbon bracket refuse soldier error unit calm glove view";
+var mnemonic = "slab canoe bright during path mom rotate result joy labor brass way";

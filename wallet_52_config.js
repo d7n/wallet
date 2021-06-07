@@ -1,1 +1,1 @@
-var mnemonic = "spirit picture brother wise castle help seed blast tennis tiny segment upset";
+var mnemonic = "trumpet thunder endorse dance destroy siege hungry order track exercise comfort light";

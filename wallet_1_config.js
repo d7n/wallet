@@ -1,1 +1,1 @@
-var mnemonic = "chaos clean nose style inhale autumn coast cherry fiber club awake news";
+var mnemonic = "shock lonely exhibit crazy welcome silver zone beach addict tiny dish tent";

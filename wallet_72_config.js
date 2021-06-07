@@ -1,1 +1,1 @@
-var mnemonic = "divorce category fluid state panther believe permit connect harvest drama gauge illness";
+var mnemonic = "gaze next gossip unaware broccoli grape analyst slush infant metal paddle hurt";

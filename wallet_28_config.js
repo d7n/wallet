@@ -1,1 +1,1 @@
-var mnemonic = "wife voice rebel tumble bamboo canoe twenty swear claim fame catch fog";
+var mnemonic = "buffalo harsh service drift enjoy laptop various angry disagree update claw teach";

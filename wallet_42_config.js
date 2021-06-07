@@ -1,1 +1,1 @@
-var mnemonic = "orient funny morning shoe size organ mushroom method strike bullet approve run";
+var mnemonic = "angry sister warm dose pet delay dash armed slab jump word merge";

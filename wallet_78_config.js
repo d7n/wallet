@@ -1,1 +1,1 @@
-var mnemonic = "ribbon surround trade bubble uncle useful frog leader west spoon awesome crystal";
+var mnemonic = "lizard sheriff name endorse hour member horror club bounce swap gospel display";

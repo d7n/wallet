@@ -1,1 +1,1 @@
-var mnemonic = "reflect extend elder illness toward allow mind weather crater find orphan science";
+var mnemonic = "frown beach much surge select list mansion tattoo language universe task lucky";

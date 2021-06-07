@@ -1,1 +1,1 @@
-var mnemonic = "industry fat faith thing fan one fit bunker among actress cattle cram";
+var mnemonic = "rude solid float tooth entry decrease dry raven toilet twist crunch decide";

@@ -1,1 +1,1 @@
-var mnemonic = "useful crouch aunt master awful tent image pass lunar hard top canoe";
+var mnemonic = "robust paper blue test stay recycle budget permit dawn actor town body";

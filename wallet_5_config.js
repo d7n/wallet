@@ -1,1 +1,1 @@
-var mnemonic = "danger snow cool embody float interest upgrade dash sphere bottom tank category";
+var mnemonic = "fold purpose pond client keen woman economy fine coast object dwarf throw";

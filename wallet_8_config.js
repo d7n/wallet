@@ -1,1 +1,1 @@
-var mnemonic = "sister act spring cross tobacco image grape worry select donor alcohol mystery";
+var mnemonic = "supreme beef stable regret between sunset must dignity expect auto arctic sad";

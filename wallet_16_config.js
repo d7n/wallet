@@ -1,1 +1,1 @@
-var mnemonic = "member story useful drip catch lake uphold abuse riot caught jar second";
+var mnemonic = "solve physical alley canal report thunder rubber chest butter moment memory bus";

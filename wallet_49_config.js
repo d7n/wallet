@@ -1,1 +1,1 @@
-var mnemonic = "mesh moment below tiny stove arrest south polar grain treat hand globe";
+var mnemonic = "tide acquire tackle wrist bus capital method lamp satoshi neglect solar finish";

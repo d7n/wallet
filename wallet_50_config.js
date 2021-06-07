@@ -1,1 +1,1 @@
-var mnemonic = "video play foster merge switch toss novel claw brief skull slogan labor";
+var mnemonic = "trick tilt hole arrange trophy loan nothing silk salon replace rural dry";

@@ -1,1 +1,1 @@
-var mnemonic = "observe between crazy accident angry theme ball warrior cousin spatial excuse loop";
+var mnemonic = "bless month reflect street tragic wave stool nothing cluster bird side term";

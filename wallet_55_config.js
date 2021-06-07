@@ -1,1 +1,1 @@
-var mnemonic = "essence record deer forward aim pave acquire tree creek hobby utility clerk";
+var mnemonic = "erode mirror denial mansion blouse kangaroo stone dirt devote catalog word bubble";

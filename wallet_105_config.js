@@ -1,1 +1,1 @@
-var mnemonic = "waste lesson truck wolf evolve gold drop license harsh price horror sphere";
+var mnemonic = "token section video flag answer core mystery order runway label aspect knife";

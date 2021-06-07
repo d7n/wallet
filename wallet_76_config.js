@@ -1,1 +1,1 @@
-var mnemonic = "crazy piece scan infant urban hire sphere cotton mutual else more turtle";
+var mnemonic = "pond tree donkey rare enact toddler net fat unfair violin rabbit marriage";

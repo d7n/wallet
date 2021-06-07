@@ -1,1 +1,1 @@
-var mnemonic = "jungle trigger process jealous toward moment source basket monster grid pyramid lumber";
+var mnemonic = "life enroll protect depart erupt stable blood energy else tip enter reason";

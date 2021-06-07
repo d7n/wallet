@@ -1,1 +1,1 @@
-var mnemonic = "differ decrease cram present race faint comfort dynamic exchange honey fly pony";
+var mnemonic = "hobby method spatial small sand rough much decade pet benefit assume idle";

@@ -1,1 +1,1 @@
-var mnemonic = "please travel enlist youth melt clay debate rigid legal wing jaguar gun";
+var mnemonic = "decorate amazing trophy switch budget social mistake usual nation pelican joy agree";

@@ -1,1 +1,1 @@
-var mnemonic = "estate account erupt zero blanket comfort measure bundle hedgehog public unaware gym";
+var mnemonic = "monitor hand pluck crowd fitness toilet salad educate rigid muscle trumpet cube";

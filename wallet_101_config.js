@@ -1,1 +1,1 @@
-var mnemonic = "install gas sunny eager spike pill pulse defense organ floor smoke lottery";
+var mnemonic = "quality animal vault twelve beauty code survey legal index blouse soon spare";

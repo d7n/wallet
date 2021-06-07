@@ -1,1 +1,1 @@
-var mnemonic = "dash hip motion phone fragile obvious escape relax mask jump grocery craft";
+var mnemonic = "noise honey tragic primary fork slide eyebrow shaft object become ready vivid";

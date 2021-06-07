@@ -1,1 +1,1 @@
-var mnemonic = "above legal gym laptop scatter birth list typical faculty hedgehog idea circle";
+var mnemonic = "satoshi helmet lake base meadow castle tone cattle sunny squirrel snack suspect";

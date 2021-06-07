@@ -1,1 +1,1 @@
-var mnemonic = "couple wild beach element blast wisdom special party daring habit debate wet";
+var mnemonic = "pepper disagree artwork enlist topic vast can gaze this clock hold cruise";

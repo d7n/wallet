@@ -1,1 +1,1 @@
-var mnemonic = "deliver suffer magic wear helmet verb flee uncover clock brown need outer";
+var mnemonic = "pudding define belt solution federal mouse cart athlete frequent casino dilemma match";

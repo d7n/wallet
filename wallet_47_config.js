@@ -1,1 +1,1 @@
-var mnemonic = "lobster expect happy fat fence maze inject dune idea maple breeze emerge";
+var mnemonic = "vendor cactus main length afraid audit limit steel whale clump library pink";

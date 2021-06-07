@@ -1,1 +1,1 @@
-var mnemonic = "occur swamp prepare myself dawn lyrics stick action firm license oyster year";
+var mnemonic = "face zero middle sorry adapt object marriage deposit gauge ride truly fortune";

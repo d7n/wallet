@@ -1,1 +1,1 @@
-var mnemonic = "member situate spoil twice cream hotel waste organ ankle meat bridge engage";
+var mnemonic = "copper maximum depend best rescue comic cigar call usage retreat error travel";

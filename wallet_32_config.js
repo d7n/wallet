@@ -1,1 +1,1 @@
-var mnemonic = "simple dirt number quit forest wall warrior morning smoke help response buyer";
+var mnemonic = "damp liar unlock love govern lounge banner present snap weather large clinic";

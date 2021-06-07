@@ -1,1 +1,1 @@
-var mnemonic = "panda tongue senior fish economy charge number trend bridge tiger loud link";
+var mnemonic = "chuckle ignore black mountain manage spray fiscal guard suggest gym now fog";

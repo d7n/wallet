@@ -1,1 +1,1 @@
-var mnemonic = "skirt glory bitter stock inside before sort glass crush acquire caution stomach";
+var mnemonic = "patrol half tissue cage canvas melody rotate escape hello prize hint glass";

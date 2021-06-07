@@ -1,1 +1,1 @@
-var mnemonic = "pistol quantum turn scene sauce identify weird engine cable worth tunnel remember";
+var mnemonic = "clap agent phone result orange orphan concert prize recipe afraid put verify";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch couple smart logic antique dinosaur virus foster deer neck jealous pet";
+var mnemonic = "ceiling tower humble crop sponsor pause shock ignore wheat hungry scrub service";

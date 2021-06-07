@@ -1,1 +1,1 @@
-var mnemonic = "job proud rally where moment artefact word case multiply wise place endless";
+var mnemonic = "inch october hood tongue drama luxury situate rather potato saddle vicious oppose";

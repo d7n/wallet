@@ -1,1 +1,1 @@
-var mnemonic = "prefer surround sentence fluid mansion cave elevator glory hire curve uncle number";
+var mnemonic = "economy theory regret march interest issue cook push scene renew market disagree";

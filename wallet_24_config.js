@@ -1,1 +1,1 @@
-var mnemonic = "dignity index galaxy snake charge enable erase sword noise town alter shiver";
+var mnemonic = "few since believe cradle pole album phone fat march urban robot behind";

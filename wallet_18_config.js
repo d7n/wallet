@@ -1,1 +1,1 @@
-var mnemonic = "brain ramp service movie phrase insane stumble fence trigger stock absorb cost";
+var mnemonic = "error valid hungry debate chest hammer image place now permit bomb alert";

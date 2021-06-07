@@ -1,1 +1,1 @@
-var mnemonic = "flame tonight acquire caught nerve leader obey transfer ability bachelor aerobic turn";
+var mnemonic = "note fat museum silk lonely exotic fee claw easy same family sister";

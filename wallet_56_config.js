@@ -1,1 +1,1 @@
-var mnemonic = "kind senior case opera typical tonight fiction museum bridge forward banana act";
+var mnemonic = "awful victory giggle scan amused charge observe head height tail monkey spell";

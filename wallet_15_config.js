@@ -1,1 +1,1 @@
-var mnemonic = "unaware huge odor price village judge awful swallow buffalo cherry biology amateur";
+var mnemonic = "drill habit tilt title resist bullet above mountain price enemy voyage cycle";

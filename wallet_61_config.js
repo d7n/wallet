@@ -1,1 +1,1 @@
-var mnemonic = "produce captain empower flavor room menu address apple wise near wage audit";
+var mnemonic = "off birth tissue hurt prefer abstract betray define feed engine lion ancient";

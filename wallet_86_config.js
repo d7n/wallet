@@ -1,1 +1,1 @@
-var mnemonic = "habit bullet hunt magnet tone craft bubble ice vehicle curve protect receive";
+var mnemonic = "mask they reopen concert enrich laugh atom section inside catalog ensure engage";

@@ -1,1 +1,1 @@
-var mnemonic = "below chapter hurt tragic answer finger sport twice drastic office almost cousin";
+var mnemonic = "boring pulp print select ankle squirrel inmate country beach balance word sudden";

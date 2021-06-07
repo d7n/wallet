@@ -1,1 +1,1 @@
-var mnemonic = "crucial weird expand average bottom can jungle local stove coach bleak jazz";
+var mnemonic = "aim trip meat slam jealous pistol ball act mistake slab jewel yard";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder business raccoon fiscal where oblige dilemma group damage later until envelope";
+var mnemonic = "eternal current embody cotton valve park shop scatter upset length kid public";

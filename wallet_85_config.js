@@ -1,1 +1,1 @@
-var mnemonic = "degree near chef state scan nerve section aisle when blast dawn loud";
+var mnemonic = "section guitar palace organ couple elegant salt radar umbrella vacant victory post";

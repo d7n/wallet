@@ -1,1 +1,1 @@
-var mnemonic = "gate undo people milk crunch urban mistake void holiday thank subject elite";
+var mnemonic = "multiply huge shift final bone tool awake avoid review maximum tribe cargo";

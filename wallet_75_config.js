@@ -1,1 +1,1 @@
-var mnemonic = "disease modify useless matrix area sense exchange must vintage tell glove arch";
+var mnemonic = "funny weasel speed auction mutual bind copy vast water guess boring brush";

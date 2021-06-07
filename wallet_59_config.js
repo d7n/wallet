@@ -1,1 +1,1 @@
-var mnemonic = "private normal pigeon blame enforce toward tobacco canoe nasty attitude secret into";
+var mnemonic = "noodle seek dynamic fix shock below vivid admit debris mountain candy sniff";

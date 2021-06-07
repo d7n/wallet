@@ -1,1 +1,1 @@
-var mnemonic = "envelope excite garment forest cluster mind speed pair will swallow duck paddle";
+var mnemonic = "unusual peasant rain expire path crop tomorrow swarm orient entire corn all";

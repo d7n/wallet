@@ -1,1 +1,1 @@
-var mnemonic = "film jazz wedding town nerve design army stairs dove lady country divorce";
+var mnemonic = "video tonight grace identify bitter crucial bunker approve move polar waste tent";

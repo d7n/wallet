@@ -1,1 +1,1 @@
-var mnemonic = "estate noble wood adapt swap indicate powder shiver balcony sword glimpse hobby";
+var mnemonic = "useful purchase win slice absent enter crane human safe siren amazing bubble";

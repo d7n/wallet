@@ -1,1 +1,1 @@
-var mnemonic = "artwork affair palm world suffer best repeat fence stand they process soul";
+var mnemonic = "kiwi road desert very dawn glad consider injury lock detect prosper husband";

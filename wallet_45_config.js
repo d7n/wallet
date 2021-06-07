@@ -1,1 +1,1 @@
-var mnemonic = "useful weather meat inquiry napkin feel apart pudding secret voice card attract";
+var mnemonic = "depth claw bargain final glide reunion scheme pear heavy dove wreck crisp";

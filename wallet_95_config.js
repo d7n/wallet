@@ -1,1 +1,1 @@
-var mnemonic = "ring receive anger unaware town trigger blue loop tone ancient breeze amount";
+var mnemonic = "hedgehog skull garbage reform rigid figure feature trigger believe hotel casino unfold";

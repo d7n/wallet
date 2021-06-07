@@ -1,1 +1,1 @@
-var mnemonic = "task head fade beach develop aunt roast rule hunt essay brain again";
+var mnemonic = "ketchup verb flat vehicle rapid resist trade width toddler forum strategy lamp";

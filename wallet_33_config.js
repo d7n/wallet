@@ -1,1 +1,1 @@
-var mnemonic = "dose govern critic color fluid author fan end oil sunny finish banner";
+var mnemonic = "goat oxygen tongue fatigue earth ride little renew burst burst fashion enough";

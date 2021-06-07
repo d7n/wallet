@@ -1,1 +1,1 @@
-var mnemonic = "faint mansion finger pepper neck slam pause display share grape luggage friend";
+var mnemonic = "icon glove dentist cart garment coin goat spike deal bread dawn wage";

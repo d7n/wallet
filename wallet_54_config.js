@@ -1,1 +1,1 @@
-var mnemonic = "genre pig jungle early father supreme frequent congress equal fabric flash canyon";
+var mnemonic = "steel found drop portion scout chef punch forward tell smooth left danger";

@@ -1,1 +1,1 @@
-var mnemonic = "disease badge alien sustain since sorry wine crazy rug cabbage crucial term";
+var mnemonic = "able result only mistake anger index satisfy ice height congress pledge dance";

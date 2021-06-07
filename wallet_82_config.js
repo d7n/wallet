@@ -1,1 +1,1 @@
-var mnemonic = "error differ sudden stock about sugar sustain snake weather undo boring child";
+var mnemonic = "legal episode wish dial basic mammal fantasy space room robust idea right";

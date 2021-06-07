@@ -1,1 +1,1 @@
-var mnemonic = "major panther enable kangaroo leader wreck wagon doll shine adult slender hobby";
+var mnemonic = "swim citizen choose actor timber affair type moment slush trim genuine assist";

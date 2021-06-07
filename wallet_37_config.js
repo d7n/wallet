@@ -1,1 +1,1 @@
-var mnemonic = "quality bamboo orange miss segment flower method credit culture tell resource usage";
+var mnemonic = "sword rather sing auto normal like front reveal assist harsh light maid";

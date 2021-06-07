@@ -1,1 +1,1 @@
-var mnemonic = "another cluster maximum scatter please minimum anchor soul left crawl paper change";
+var mnemonic = "have scene item three oyster cross deer year sense theme icon review";

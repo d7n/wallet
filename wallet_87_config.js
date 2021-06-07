@@ -1,1 +1,1 @@
-var mnemonic = "unaware tooth gravity bonus humor unaware taste foil silver clinic ripple actual";
+var mnemonic = "glue jump twice meat rebel honey envelope apart grass source main book";

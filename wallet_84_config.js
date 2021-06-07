@@ -1,1 +1,1 @@
-var mnemonic = "horn census actress resource way urge object antenna essay wink type matrix";
+var mnemonic = "fitness smoke object uncle plate nurse option pelican cargo loan arctic bid";

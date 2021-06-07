@@ -1,1 +1,1 @@
-var mnemonic = "drastic section limb pave into local save imitate act car vast regret";
+var mnemonic = "swarm spider buddy symptom drip decline jaguar humble lawsuit arch image window";

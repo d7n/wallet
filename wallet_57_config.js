@@ -1,1 +1,1 @@
-var mnemonic = "success plug industry saddle because include neck useful hard suit blood museum";
+var mnemonic = "garment swap inspire universe neutral trumpet wrist salt minimum chalk case range";
