@@ -1,1 +1,1 @@
-var mnemonic = "oval tissue wing federal tomorrow dust leisure vague author width horse gold";
+var mnemonic = "amazing dismiss spatial distance index tribe minute van know occur name thought";

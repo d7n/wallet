@@ -1,1 +1,1 @@
-var mnemonic = "convince refuse clog piece multiply sugar travel wild floor record tower dinner";
+var mnemonic = "three virtual pencil follow organ sugar unveil paper present approve echo path";

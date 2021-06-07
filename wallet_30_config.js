@@ -1,1 +1,1 @@
-var mnemonic = "palace guide mule cute tonight shadow insect alpha ranch enemy rug lazy";
+var mnemonic = "manage trap shine buffalo taxi student habit wrist settle primary double pet";

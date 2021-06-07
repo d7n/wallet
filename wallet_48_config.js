@@ -1,1 +1,1 @@
-var mnemonic = "enhance help exact tree mix invite crucial lonely three eagle remind bundle";
+var mnemonic = "topic cluster pipe hand knock clinic elevator bonus olive ancient step swift";

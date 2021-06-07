@@ -1,1 +1,1 @@
-var mnemonic = "away garage sell tiny harsh young escape cinnamon evolve bounce winner coral";
+var mnemonic = "cactus fancy spoon credit ketchup repair business sentence voice gain dice open";

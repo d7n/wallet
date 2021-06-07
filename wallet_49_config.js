@@ -1,1 +1,1 @@
-var mnemonic = "tent tape van digital remove unknown plastic assault scout army find there";
+var mnemonic = "goddess usage neither tag loan project limb body draft canoe draw picnic";

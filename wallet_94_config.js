@@ -1,1 +1,1 @@
-var mnemonic = "year vacuum steel rely chicken afraid model spell educate tenant arrive audit";
+var mnemonic = "trigger category refuse inject discover elephant mixture art obey category goat jealous";

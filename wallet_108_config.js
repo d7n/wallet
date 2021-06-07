@@ -1,1 +1,1 @@
-var mnemonic = "now save mention east ladder debate ability immune catch frost culture harvest";
+var mnemonic = "divert rifle vessel nominee diesel cost nation subway approve strategy innocent estate";

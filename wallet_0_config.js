@@ -1,1 +1,1 @@
-var mnemonic = "primary bitter rely robust burger control rescue syrup deputy salt motion music";
+var mnemonic = "badge keep sail all fat cause impulse click inherit coil season across";

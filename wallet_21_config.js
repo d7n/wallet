@@ -1,1 +1,1 @@
-var mnemonic = "suspect unfold swamp source noodle dinner tragic cushion wage field fitness entry";
+var mnemonic = "pen dinosaur angry letter never near carbon north monkey tumble hedgehog liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan attend club absorb card pause various combine pipe critic nephew seminar";
+var mnemonic = "romance shoot thunder venue lonely luggage space color happy home demand error";

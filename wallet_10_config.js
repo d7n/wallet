@@ -1,1 +1,1 @@
-var mnemonic = "occur win west ordinary eager stone luxury pool mix brick whip where";
+var mnemonic = "pig expect hold valid page record corn sea slam mouse hat add";

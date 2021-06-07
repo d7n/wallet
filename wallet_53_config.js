@@ -1,1 +1,1 @@
-var mnemonic = "trumpet blossom profit parent pig ocean shove betray maximum decorate come outer";
+var mnemonic = "oblige usual genre suffer flush hurdle random inform spell lumber grass report";

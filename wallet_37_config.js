@@ -1,1 +1,1 @@
-var mnemonic = "gloom aware appear grid crisp next wrong spatial increase double consider chef";
+var mnemonic = "bronze weird royal desert doll mirror ridge seven apology cheese sorry hundred";

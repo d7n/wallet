@@ -1,1 +1,1 @@
-var mnemonic = "lobster stumble language repeat favorite oppose venture rural clever chuckle fold because";
+var mnemonic = "gain include left obey load adult kite second mean hollow bird bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "still rally spring breeze injury spoil sauce decline boat frown spoon machine";
+var mnemonic = "stomach baby garage gun bike accident shoulder crystal undo empower spike height";

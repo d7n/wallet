@@ -1,1 +1,1 @@
-var mnemonic = "bone exotic rural increase arctic velvet ladder biology bright sample media wife";
+var mnemonic = "provide master scatter clean toy rely glove section unable reunion boil category";

@@ -1,1 +1,1 @@
-var mnemonic = "vital orient bundle evidence zero inject elder insect lecture ghost sail insane";
+var mnemonic = "office train oil trap admit gas become point stadium grow digital census";

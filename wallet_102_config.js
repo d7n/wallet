@@ -1,1 +1,1 @@
-var mnemonic = "photo water never absurd infant pioneer iron glue grief adult situate insect";
+var mnemonic = "harbor accident burden suspect table level tooth enhance million verify breeze wave";

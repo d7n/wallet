@@ -1,1 +1,1 @@
-var mnemonic = "stamp sword typical onion crop poverty boost merry theme lab view vibrant";
+var mnemonic = "faint lawsuit tell rabbit tell provide crew kiwi stereo uncle taxi gap";

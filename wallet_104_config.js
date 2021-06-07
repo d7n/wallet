@@ -1,1 +1,1 @@
-var mnemonic = "crash exclude weather dentist february nasty grant edit alert fetch dust uncover";
+var mnemonic = "enjoy trick soldier arrow erode crouch element tank fix narrow pave always";

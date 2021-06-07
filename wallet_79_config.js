@@ -1,1 +1,1 @@
-var mnemonic = "fabric injury hello any planet walk stable curve treat today rebuild drip";
+var mnemonic = "good omit coffee identify trend object kite illness device arena lizard theme";

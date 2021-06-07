@@ -1,1 +1,1 @@
-var mnemonic = "vendor satoshi board turn mixture approve mail shell top volume dash into";
+var mnemonic = "glory box barrel sugar spring away obscure chair lock oil you strategy";

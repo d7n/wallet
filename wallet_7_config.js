@@ -1,1 +1,1 @@
-var mnemonic = "zebra sort device cook private patrol stomach double unfold current century before";
+var mnemonic = "mass document erupt identify impact twist mail print what wrist keep canyon";

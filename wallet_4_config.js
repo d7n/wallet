@@ -1,1 +1,1 @@
-var mnemonic = "blossom short library trigger hurry battle push trophy hard kiss bird oppose";
+var mnemonic = "mirror suggest birth affair enhance hazard inherit mandate winner mountain wagon curious";

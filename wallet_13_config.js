@@ -1,1 +1,1 @@
-var mnemonic = "source welcome argue approve make book citizen response balance govern pipe urge";
+var mnemonic = "smile grace bamboo pulp chief advance deposit garment kangaroo wisdom often lock";

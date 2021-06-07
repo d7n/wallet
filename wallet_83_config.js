@@ -1,1 +1,1 @@
-var mnemonic = "popular scene cost gather fetch tag eyebrow resemble swift blind dog dance";
+var mnemonic = "broken guide nasty rifle very arrow robust gain protect nuclear bicycle field";

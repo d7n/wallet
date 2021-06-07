@@ -1,1 +1,1 @@
-var mnemonic = "you rely cement sibling toast ready height moral fabric apart brick clever";
+var mnemonic = "trumpet picnic utility best similar ridge scan burden employ creek stomach plunge";

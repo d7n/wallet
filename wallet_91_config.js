@@ -1,1 +1,1 @@
-var mnemonic = "barrel canyon bulk employ trap risk employ antique mind purity urban bring";
+var mnemonic = "steak add pink exotic box small genius denial furnace budget demise trouble";

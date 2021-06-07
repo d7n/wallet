@@ -1,1 +1,1 @@
-var mnemonic = "awkward best crucial neutral common feature burden piece chapter top faith tiger";
+var mnemonic = "edge before trick mixed crumble duck excess cat equip allow agree donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "delay giraffe stay grief deal color genuine spot loop coffee admit rebel";
+var mnemonic = "inmate elbow harvest fantasy speed injury term tiger explain sauce smoke ginger";

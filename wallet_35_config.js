@@ -1,1 +1,1 @@
-var mnemonic = "marriage project media spare deliver deputy offer tortoise talk menu ski fan";
+var mnemonic = "skate merge win crash reward river wine wide cup file dial rate";

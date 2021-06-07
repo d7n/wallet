@@ -1,1 +1,1 @@
-var mnemonic = "order famous settle hammer flip average penalty sand walnut victory settle dumb";
+var mnemonic = "moral donate cupboard judge decline ridge boat imitate disorder actual denial letter";

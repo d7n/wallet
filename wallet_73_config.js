@@ -1,1 +1,1 @@
-var mnemonic = "floor destroy armed oval giraffe image gravity relax denial bind daughter upgrade";
+var mnemonic = "spray advance addict fox shaft rude surge impulse endorse fiscal toward return";

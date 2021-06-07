@@ -1,1 +1,1 @@
-var mnemonic = "rain knife wheel company holiday father turkey door acquire skill witness phone";
+var mnemonic = "seminar club verify hedgehog gospel winner dream trouble scrub permit accident copy";

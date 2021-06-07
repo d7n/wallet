@@ -1,1 +1,1 @@
-var mnemonic = "worry fluid chunk guilt need sphere pull write mixed thumb giggle until";
+var mnemonic = "subject cake mouse lizard stock tissue business universe theory bright quantum skin";

@@ -1,1 +1,1 @@
-var mnemonic = "fun only this floor review prevent zone duty deposit three learn economy";
+var mnemonic = "ramp today birth luxury cover devote joke obey mention disagree odor carpet";

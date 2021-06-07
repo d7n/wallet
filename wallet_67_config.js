@@ -1,1 +1,1 @@
-var mnemonic = "ready jaguar trust afraid indoor ring tape sausage boat option poem idea";
+var mnemonic = "hollow visit expire push decrease trash useless list science speed weapon color";

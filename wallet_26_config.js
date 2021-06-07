@@ -1,1 +1,1 @@
-var mnemonic = "swarm swear jump book believe roast rule peace wool verb animal opinion";
+var mnemonic = "label afraid carpet fuel fatal deal grow answer alert damp sudden track";

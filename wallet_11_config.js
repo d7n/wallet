@@ -1,1 +1,1 @@
-var mnemonic = "disease want name umbrella comfort hybrid pigeon boat camera frown car daring";
+var mnemonic = "field slow bless day auction milk impulse nurse bird punch coin strong";

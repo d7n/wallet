@@ -1,1 +1,1 @@
-var mnemonic = "north zebra talk maid quit cushion result result task movie canyon near";
+var mnemonic = "month wool trophy muscle imitate diagram choice donor escape abstract board museum";

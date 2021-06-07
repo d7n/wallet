@@ -1,1 +1,1 @@
-var mnemonic = "together aim venue shine caution slogan sponsor range rifle sample west captain";
+var mnemonic = "duck minimum quick hedgehog pen cluster execute pizza pond puzzle october trick";

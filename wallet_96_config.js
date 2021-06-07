@@ -1,1 +1,1 @@
-var mnemonic = "horn expect solar confirm orient viable crime sadness gloom unaware robot jar";
+var mnemonic = "champion obvious denial mercy shell second fix exact admit congress carpet sniff";

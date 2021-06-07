@@ -1,1 +1,1 @@
-var mnemonic = "candy stage hard huge private sweet monitor friend movie matter advance execute";
+var mnemonic = "clean fantasy stem order sunny wife decide remind sure health clip minimum";

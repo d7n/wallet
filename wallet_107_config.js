@@ -1,1 +1,1 @@
-var mnemonic = "joy loan art clay ladder meat waste wait animal sustain damage during";
+var mnemonic = "damp twin aisle submit lumber submit sunny minimum arctic sign side knife";

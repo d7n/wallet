@@ -1,1 +1,1 @@
-var mnemonic = "update fresh purity iron shove firm evoke lemon remember speak ankle cool";
+var mnemonic = "wave battle gown inherit trim cactus panther entry sniff tiny echo hockey";

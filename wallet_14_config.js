@@ -1,1 +1,1 @@
-var mnemonic = "network vibrant stuff between speak toilet garbage harbor clutch rescue guitar dad";
+var mnemonic = "minor swamp resource sort again surround about mix intact economy devote frog";

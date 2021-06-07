@@ -1,1 +1,1 @@
-var mnemonic = "own illegal merry circle option mean shove message orphan pig what reject";
+var mnemonic = "point dirt window easily usage style image basic crowd neither escape claim";

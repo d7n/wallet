@@ -1,1 +1,1 @@
-var mnemonic = "slam damage priority cabin rebel bench supreme mirror skirt split emerge tonight";
+var mnemonic = "fish fat attack acid fat cabbage before unfold orphan have vocal relief";

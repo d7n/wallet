@@ -1,1 +1,1 @@
-var mnemonic = "mushroom cluster tower exist visit process curtain surprise stomach wagon people skill";
+var mnemonic = "picnic royal elephant move weird museum suggest vacuum buzz strategy flag brief";

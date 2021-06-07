@@ -1,1 +1,1 @@
-var mnemonic = "advance consider educate double foster vapor feature meat word hard grit end";
+var mnemonic = "guide raven fade fly parrot tooth into valve about relax patrol admit";

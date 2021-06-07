@@ -1,1 +1,1 @@
-var mnemonic = "frame nature sadness brick finish swim pelican suspect human focus toss source";
+var mnemonic = "polar please mango hope february perfect tourist develop crucial antenna domain rug";

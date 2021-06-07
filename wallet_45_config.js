@@ -1,1 +1,1 @@
-var mnemonic = "permit rail first acquire trash hurry dawn rather diet cannon blur convince";
+var mnemonic = "pottery grain crystal assume height edge ecology mouse inject phrase bind farm";

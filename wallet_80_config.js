@@ -1,1 +1,1 @@
-var mnemonic = "hundred rural together onion toddler just produce impose water grocery fish task";
+var mnemonic = "want fortune float pluck dash seat cool danger glue collect bind direct";

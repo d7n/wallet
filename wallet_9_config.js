@@ -1,1 +1,1 @@
-var mnemonic = "want dog target desert wire course burger clip bind zone asset purity";
+var mnemonic = "attract moral dry tumble trust gospel army rubber conduct cage wise squirrel";

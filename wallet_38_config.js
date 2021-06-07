@@ -1,1 +1,1 @@
-var mnemonic = "bless dirt edge special amused cloth same piece style bring doll angry";
+var mnemonic = "allow marriage minor income waste habit skirt skull fog hospital maximum describe";

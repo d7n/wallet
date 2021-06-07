@@ -1,1 +1,1 @@
-var mnemonic = "file prosper heart critic wink right penalty member tunnel crystal shadow success";
+var mnemonic = "immune since sadness neck dinosaur top raven senior account warfare picnic balance";

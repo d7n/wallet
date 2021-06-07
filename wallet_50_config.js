@@ -1,1 +1,1 @@
-var mnemonic = "faculty large cruel unaware divorce morning inject inquiry thumb theme romance timber";
+var mnemonic = "glue online nasty observe record myth gesture security breeze choice master hunt";

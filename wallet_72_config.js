@@ -1,1 +1,1 @@
-var mnemonic = "invite obtain wise myself hotel perfect exercise scrap slush minimum menu hedgehog";
+var mnemonic = "win shield find make ocean talent property vintage charge credit kingdom cream";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic own produce caught foil course easily question drastic inform version law";
+var mnemonic = "render market onion lottery fiscal modify spy rack squeeze hat uncover smooth";

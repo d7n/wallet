@@ -1,1 +1,1 @@
-var mnemonic = "expire divide stone census idle run alert fragile mushroom point carpet want";
+var mnemonic = "impose drill case unveil group main extend flag hedgehog clinic fun issue";

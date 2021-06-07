@@ -1,1 +1,1 @@
-var mnemonic = "clinic discover bomb salon shallow mechanic sponsor merry glove chapter wave able";
+var mnemonic = "kidney faint broom egg auto toss love title addict defense mistake verify";

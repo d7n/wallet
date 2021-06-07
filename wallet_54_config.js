@@ -1,1 +1,1 @@
-var mnemonic = "team fatal depend athlete street couch act wolf help broken panic galaxy";
+var mnemonic = "culture knife sentence excuse royal crop bulb shop uncle resource picnic bottom";

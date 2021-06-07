@@ -1,1 +1,1 @@
-var mnemonic = "steel town rookie fancy waste future provide awesome marble lamp wreck debris";
+var mnemonic = "excite electric weapon fan airport mountain brown drink tattoo pride alien error";

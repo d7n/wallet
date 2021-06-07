@@ -1,1 +1,1 @@
-var mnemonic = "agent service amount alarm void mind spray tooth renew train unaware illegal";
+var mnemonic = "radio blade between until gloom oval trip result alien document toast fortune";

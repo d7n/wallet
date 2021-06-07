@@ -1,1 +1,1 @@
-var mnemonic = "merit bachelor once gadget bunker mountain play enroll security island want hamster";
+var mnemonic = "cargo pudding side clip talk knock unlock math noble bar economy trumpet";

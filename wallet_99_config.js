@@ -1,1 +1,1 @@
-var mnemonic = "argue crash window scene fine lesson include exist satoshi there where income";
+var mnemonic = "prepare jaguar orphan screen aware since curious develop below machine abandon strike";

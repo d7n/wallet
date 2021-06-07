@@ -1,1 +1,1 @@
-var mnemonic = "twin one click smart cushion quote genuine vehicle trophy crumble effort flavor";
+var mnemonic = "sorry bargain sing stage above churn pill layer record dice phrase potato";

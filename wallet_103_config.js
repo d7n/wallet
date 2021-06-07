@@ -1,1 +1,1 @@
-var mnemonic = "normal save cluster crane thing upper option shock vacuum distance grace drop";
+var mnemonic = "service type pottery uniform rhythm shoe cube very twenty infant poem express";

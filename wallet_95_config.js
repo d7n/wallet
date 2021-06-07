@@ -1,1 +1,1 @@
-var mnemonic = "ship puzzle fringe sphere empower fiber pyramid energy face churn plunge crunch";
+var mnemonic = "because black harvest crater accuse sniff lemon mosquito sleep obtain social transfer";

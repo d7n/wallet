@@ -1,1 +1,1 @@
-var mnemonic = "wall vintage spy daughter identify blush expect head wonder captain course remain";
+var mnemonic = "stadium almost artist execute ridge gallery entry squeeze mountain advance circle capable";

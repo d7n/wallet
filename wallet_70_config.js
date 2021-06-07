@@ -1,1 +1,1 @@
-var mnemonic = "fluid health album hazard true emotion dream obey bulb demise confirm salute";
+var mnemonic = "loyal weasel duck below narrow mosquito sustain slight spray unknown wheat hill";

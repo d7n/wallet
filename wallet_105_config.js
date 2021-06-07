@@ -1,1 +1,1 @@
-var mnemonic = "success right pretty impulse buddy faint equip example vicious praise echo smooth";
+var mnemonic = "nut aware defy draft chaos apology group wagon tip census economy feed";

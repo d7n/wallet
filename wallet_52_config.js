@@ -1,1 +1,1 @@
-var mnemonic = "east attend human other awful tent isolate nasty check delay giant shoot";
+var mnemonic = "egg concert clog render reason erode evolve awkward beef emerge cliff only";

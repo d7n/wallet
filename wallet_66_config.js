@@ -1,1 +1,1 @@
-var mnemonic = "spy frame noodle monitor brother canoe box discover measure reduce buffalo enjoy";
+var mnemonic = "member document great pave horror engage maze ginger mansion client odor grocery";

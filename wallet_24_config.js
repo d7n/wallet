@@ -1,1 +1,1 @@
-var mnemonic = "matrix spoon repeat adapt media east music clerk pave degree snack junk";
+var mnemonic = "divert provide method steak pear elite cook spot party reveal zero doctor";

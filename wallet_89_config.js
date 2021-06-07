@@ -1,1 +1,1 @@
-var mnemonic = "labor crucial project thumb delay giraffe order fall remind risk orphan subway";
+var mnemonic = "guess drop jewel enemy skull amazing aunt audit skill isolate velvet insect";

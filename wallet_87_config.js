@@ -1,1 +1,1 @@
-var mnemonic = "robot jungle where treat oxygen nuclear jacket order shine grass fault peasant";
+var mnemonic = "wonder salmon minimum crowd apart derive voyage hurdle odor concert caution glad";

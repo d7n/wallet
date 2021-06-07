@@ -1,1 +1,1 @@
-var mnemonic = "charge fancy mistake rib home craft digital frame virus damage penalty wage";
+var mnemonic = "deposit lend busy accident obtain among slim ramp this cram timber caution";

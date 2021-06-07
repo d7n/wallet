@@ -1,1 +1,1 @@
-var mnemonic = "slot stuff pledge pudding empty apart hobby pipe security pulp outer sponsor";
+var mnemonic = "memory way wear deposit clutch body often mixed area black smooth crater";

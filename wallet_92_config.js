@@ -1,1 +1,1 @@
-var mnemonic = "enrich meadow learn island hotel bus rate travel siege grab assume engine";
+var mnemonic = "chief hand tube pair smile tooth fantasy van bird uniform shadow silver";

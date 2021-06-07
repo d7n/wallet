@@ -1,1 +1,1 @@
-var mnemonic = "vanish image doll obscure hotel story enlist maid mistake pumpkin perfect exhibit";
+var mnemonic = "honey sea rhythm little current million slogan lamp broom miracle immense atom";

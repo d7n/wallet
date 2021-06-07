@@ -1,1 +1,1 @@
-var mnemonic = "lizard device address deny message add broccoli peasant empty jacket ordinary crisp";
+var mnemonic = "profit rally alien genius cheese congress sponsor express cruel another dragon swap";

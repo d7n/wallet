@@ -1,1 +1,1 @@
-var mnemonic = "swift pretty retire process tiger super absorb square shuffle income limit report";
+var mnemonic = "develop orphan response kitten wreck cheese foster practice yard noble already chase";

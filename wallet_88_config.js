@@ -1,1 +1,1 @@
-var mnemonic = "taxi corn oyster hill gesture genius drastic elevator stick quote timber neither";
+var mnemonic = "float awful file coyote brick timber survey drop episode stage monster when";

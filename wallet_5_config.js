@@ -1,1 +1,1 @@
-var mnemonic = "faculty toast toy pizza solution truly script black amount oblige frozen alley";
+var mnemonic = "people crater endorse senior keep fitness pelican eagle lab coyote beyond fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "approve double lens hotel bus spot blur surface scale sick cigar junior";
+var mnemonic = "orient gauge ocean vague bicycle unveil item brief erode debate olive dwarf";

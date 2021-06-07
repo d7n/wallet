@@ -1,1 +1,1 @@
-var mnemonic = "forum fog tortoise focus educate slight cycle virtual indoor check matter urge";
+var mnemonic = "supply quick decrease demise turtle quiz harvest spice shed welcome special walnut";

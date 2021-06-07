@@ -1,1 +1,1 @@
-var mnemonic = "one tiny myth cherry legal point danger danger say deputy avoid chunk";
+var mnemonic = "figure blood park dish elegant blue permit series weapon camera bridge replace";

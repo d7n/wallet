@@ -1,1 +1,1 @@
-var mnemonic = "ivory job potato swift type crime right quiz want song much match";
+var mnemonic = "jelly security what addict jealous witness nothing ready drive ski canal aspect";

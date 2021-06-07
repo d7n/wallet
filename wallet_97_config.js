@@ -1,1 +1,1 @@
-var mnemonic = "grain random hub order slab swift boss purity yard crumble seek fragile";
+var mnemonic = "salon oyster capable armed priority island fire away black attract knife topple";

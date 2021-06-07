@@ -1,1 +1,1 @@
-var mnemonic = "range size fish ginger wolf choice chef bulb behave autumn banana table";
+var mnemonic = "hamster riot truck guard sound guide summer together say produce lawsuit frame";
