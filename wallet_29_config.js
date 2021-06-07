@@ -1,1 +1,1 @@
-var mnemonic = "review balcony observe foot utility already stem stairs public crumble cute noise";
+var mnemonic = "grow disease bone gift budget blast illegal caught screen quick tooth attend";

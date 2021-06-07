@@ -1,1 +1,1 @@
-var mnemonic = "child decline fix amateur render asthma pride bunker hill bomb syrup enter";
+var mnemonic = "fix sound neither peace high march travel staff pen angle disorder doll";

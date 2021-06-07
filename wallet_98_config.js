@@ -1,1 +1,1 @@
-var mnemonic = "hammer amateur cushion board idle napkin idea fish box nest core link";
+var mnemonic = "faith lamp popular plug oppose puzzle border settle other other prize ghost";

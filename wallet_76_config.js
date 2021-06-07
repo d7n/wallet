@@ -1,1 +1,1 @@
-var mnemonic = "ritual weasel limit lend work join sugar grab usual beach relief era";
+var mnemonic = "beach glass inform deny badge month strong senior around cheap target similar";

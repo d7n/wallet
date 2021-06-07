@@ -1,1 +1,1 @@
-var mnemonic = "hello other beauty come become river churn spike secret mushroom arch into";
+var mnemonic = "intact hamster rain action spin wonder angry olive next imitate chicken raise";

@@ -1,1 +1,1 @@
-var mnemonic = "tube million bubble chapter exist praise gap group kiss parrot ridge carry";
+var mnemonic = "employ ensure cake amount defense large never cram digital faculty gravity super";

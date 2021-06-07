@@ -1,1 +1,1 @@
-var mnemonic = "unique response guilt explain chair basic soul edit later cloud cloth pulse";
+var mnemonic = "truly glue match vivid chest cover exotic another tomorrow false choice normal";

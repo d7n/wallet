@@ -1,1 +1,1 @@
-var mnemonic = "throw will floor crater major rotate device high code knock crater nest";
+var mnemonic = "market little cotton frown arena afraid happy unaware sound ill hurdle pencil";

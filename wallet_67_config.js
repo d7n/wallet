@@ -1,1 +1,1 @@
-var mnemonic = "music power addict conduct used raise boss bronze law oval joy fiscal";
+var mnemonic = "limb borrow settle order spirit improve car invite razor cruel arrive juice";

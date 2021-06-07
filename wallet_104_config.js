@@ -1,1 +1,1 @@
-var mnemonic = "father govern cereal blue define prison dune letter melt estate tank word";
+var mnemonic = "diet depart animal answer eager impact modify choice deposit travel soap wool";

@@ -1,1 +1,1 @@
-var mnemonic = "similar test citizen ladder congress midnight wood muscle middle move hat diamond";
+var mnemonic = "illness ordinary opera rather option father frequent example cherry dice birth unhappy";

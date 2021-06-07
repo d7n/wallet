@@ -1,1 +1,1 @@
-var mnemonic = "someone menu caution permit tongue fine help begin broccoli balcony auction voyage";
+var mnemonic = "write tone soon address drum fresh fork pitch panic wild other toy";

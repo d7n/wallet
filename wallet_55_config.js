@@ -1,1 +1,1 @@
-var mnemonic = "donate creek leisure elegant glow buzz morning subway leisure office few subject";
+var mnemonic = "type velvet junk armor demand rate ceiling coin spoon drive artist lottery";

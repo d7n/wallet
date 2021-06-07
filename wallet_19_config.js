@@ -1,1 +1,1 @@
-var mnemonic = "hair biology fuel slab zebra pattern artwork knife comic follow distance actual";
+var mnemonic = "glare cushion path deputy present cool window snack between pigeon guard cloth";

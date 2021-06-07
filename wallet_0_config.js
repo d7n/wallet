@@ -1,1 +1,1 @@
-var mnemonic = "negative famous wing gravity actor good reunion replace search bag holiday prevent";
+var mnemonic = "sweet cost waste sentence humor sure receive sense creek disease media similar";

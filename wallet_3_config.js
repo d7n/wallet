@@ -1,1 +1,1 @@
-var mnemonic = "drastic can oxygen similar believe train surface civil giraffe crew claim certain";
+var mnemonic = "fold goddess husband weird owner inside raccoon impulse crucial prepare airport nose";

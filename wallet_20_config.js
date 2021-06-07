@@ -1,1 +1,1 @@
-var mnemonic = "where source renew blouse three hurry pioneer exit main physical virtual camera";
+var mnemonic = "color tag life pitch pledge notable pluck someone alert control spy dry";

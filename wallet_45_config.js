@@ -1,1 +1,1 @@
-var mnemonic = "obtain soup practice poet spread shield true negative fire inmate supply screen";
+var mnemonic = "neck indicate gold hawk card category sunny rescue zoo health picnic error";

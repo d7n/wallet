@@ -1,1 +1,1 @@
-var mnemonic = "draw van bleak bid tattoo supreme cross mass rib catch front luggage";
+var mnemonic = "tell target endorse inch kangaroo history donkey junior hockey filter obvious hour";

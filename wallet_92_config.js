@@ -1,1 +1,1 @@
-var mnemonic = "weekend wave order equip scare govern today sun second unaware clinic spoon";
+var mnemonic = "response forget surprise consider coin pull kangaroo since leave net such provide";

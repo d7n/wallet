@@ -1,1 +1,1 @@
-var mnemonic = "check silver hurt spring snake urge almost jaguar donate advice monitor left";
+var mnemonic = "mix slab sweet shuffle celery economy expire now spawn rescue frost whip";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz wisdom check addict stand admit fog absent human scan drip extend";
+var mnemonic = "reduce unfold blame loan urban room school merry pipe excess addict love";

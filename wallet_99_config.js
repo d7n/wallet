@@ -1,1 +1,1 @@
-var mnemonic = "vacant bronze endless erase eagle climb mass ladder dumb bamboo unusual slab";
+var mnemonic = "shock seminar pitch oyster frozen supreme weasel rough raw ticket amused lock";

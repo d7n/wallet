@@ -1,1 +1,1 @@
-var mnemonic = "pet core giant sport panel giggle shaft upper vocal delay grape fire";
+var mnemonic = "keen thrive version proud glad change recall gravity balance expand seminar boring";

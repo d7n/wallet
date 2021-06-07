@@ -1,1 +1,1 @@
-var mnemonic = "scare point uncover turtle piece judge expand scale entire road merge muffin";
+var mnemonic = "rebuild charge dinner ice clog field surface trend matrix curve vocal mutual";

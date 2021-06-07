@@ -1,1 +1,1 @@
-var mnemonic = "damp cat trumpet control high brief merge mad still liar six shed";
+var mnemonic = "immune adult blush zone round under hill banner surprise rival surround bracket";

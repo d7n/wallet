@@ -1,1 +1,1 @@
-var mnemonic = "intact source flush alcohol guitar fun urge liquid neck steak indoor bridge";
+var mnemonic = "spell divert rebuild novel fun puppy empower control define crime orbit oblige";

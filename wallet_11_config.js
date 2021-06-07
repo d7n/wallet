@@ -1,1 +1,1 @@
-var mnemonic = "frown cream output essence agree wild obvious side dish window oil agree";
+var mnemonic = "group actual midnight involve valve fall demise bronze dog actor violin tray";

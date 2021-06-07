@@ -1,1 +1,1 @@
-var mnemonic = "favorite hover coyote zone print flag pupil hotel impulse sand foil amount";
+var mnemonic = "between today rent injury skill like grain make capital sketch spot cave";

@@ -1,1 +1,1 @@
-var mnemonic = "track syrup praise father disagree asset search coconut awkward advance save cake";
+var mnemonic = "soldier retreat puzzle vintage nurse key indoor spare distance field private adult";

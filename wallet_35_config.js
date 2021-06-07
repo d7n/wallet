@@ -1,1 +1,1 @@
-var mnemonic = "fine rich review bid jealous adapt open sick jealous another negative clown";
+var mnemonic = "curve apology buffalo practice coffee mobile machine autumn excite warm rocket glad";

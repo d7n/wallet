@@ -1,1 +1,1 @@
-var mnemonic = "first under combine gown thumb meat network angry equip twenty shove toe";
+var mnemonic = "voice crucial unique nuclear banner afraid endorse light chimney record annual turtle";

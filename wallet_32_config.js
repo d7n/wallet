@@ -1,1 +1,1 @@
-var mnemonic = "mixed fluid unaware coffee flight art hamster soul bicycle between resist movie";
+var mnemonic = "any sample six figure theory blood filter silent coral also dad crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight bomb erosion blush robot prefer heart easily leisure ordinary yellow snow";
+var mnemonic = "property crash poverty like area pear reject obscure claim parrot connect degree";

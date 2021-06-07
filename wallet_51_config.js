@@ -1,1 +1,1 @@
-var mnemonic = "dynamic victory account balance polar east gas return peanut patient depend unaware";
+var mnemonic = "cheese mail leopard oval gauge coast dirt velvet pepper job purity tongue";

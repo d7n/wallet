@@ -1,1 +1,1 @@
-var mnemonic = "captain dinner lens camp buddy poem local clog elder ahead describe exotic";
+var mnemonic = "ill later flock blossom slush planet tell noise film setup fresh thought";

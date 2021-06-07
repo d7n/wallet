@@ -1,1 +1,1 @@
-var mnemonic = "thumb only wool rent jazz seed divide slender until voice strike dash";
+var mnemonic = "calm main impulse void walk lemon bubble enter primary retire bleak toy";

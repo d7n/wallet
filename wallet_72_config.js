@@ -1,1 +1,1 @@
-var mnemonic = "surge drop decorate cart extend jeans shell kiwi blade risk tray ugly";
+var mnemonic = "spread blood candy duck slim dust bind topic anchor multiply kangaroo earn";

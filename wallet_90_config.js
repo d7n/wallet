@@ -1,1 +1,1 @@
-var mnemonic = "pencil peasant kingdom corn express issue scout river frozen dilemma cigar income";
+var mnemonic = "bicycle jewel number index brain relief all finger black museum derive wood";

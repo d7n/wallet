@@ -1,1 +1,1 @@
-var mnemonic = "aim good ripple tent thank baby release lab add grant bitter cannon";
+var mnemonic = "mass gauge aim pact snow grab collect cycle tissue resource address embrace";

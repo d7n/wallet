@@ -1,1 +1,1 @@
-var mnemonic = "cost zone mention morning film pulp shallow omit cancel supply powder wrist";
+var mnemonic = "egg umbrella autumn seat copy alcohol pencil spatial stem stumble between just";

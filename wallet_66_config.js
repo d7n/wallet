@@ -1,1 +1,1 @@
-var mnemonic = "peanut erode clinic tree lizard sponsor waste prepare two short laundry space";
+var mnemonic = "hold mixed rapid ordinary burst slim enroll cash train worth call zero";

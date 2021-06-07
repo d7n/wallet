@@ -1,1 +1,1 @@
-var mnemonic = "bring milk tilt raccoon loop lawn deny cinnamon civil acid desert oak";
+var mnemonic = "drastic theory economy island maximum cliff vibrant couple head comic dress caught";

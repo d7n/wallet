@@ -1,1 +1,1 @@
-var mnemonic = "identify snow document ginger similar repeat fossil scatter museum that stable sell";
+var mnemonic = "vast seed token clump prepare fence lion ancient combine man fall gain";

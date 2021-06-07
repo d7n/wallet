@@ -1,1 +1,1 @@
-var mnemonic = "diagram orange april organ wall net mother vanish ethics urge expand small";
+var mnemonic = "inner ability myself twice ten sister glory chest cube concert ginger issue";

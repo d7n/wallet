@@ -1,1 +1,1 @@
-var mnemonic = "rare hour fashion uniform gallery island drink harsh table hollow bean reject";
+var mnemonic = "extend course human pyramid long fortune main weasel mobile improve mirror wish";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew gospel force toy together web noise chair physical raccoon icon lab";
+var mnemonic = "tired follow cool south feel excite recall romance end woman palm science";

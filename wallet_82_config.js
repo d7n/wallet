@@ -1,1 +1,1 @@
-var mnemonic = "bounce enable true custom city apology forward impact trim nothing whisper place";
+var mnemonic = "produce humor pattern jar shrimp hard mango affair render chat wise moral";

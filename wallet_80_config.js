@@ -1,1 +1,1 @@
-var mnemonic = "orange funny sail odor fatal riot retreat unable change topic sing front";
+var mnemonic = "chapter ostrich reveal soup grief fresh jazz solid gauge demise canvas normal";

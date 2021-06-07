@@ -1,1 +1,1 @@
-var mnemonic = "diet fetch chalk shaft time cave junior blind fitness notice father envelope";
+var mnemonic = "curve panther step various crush jazz rescue banner behind aunt olympic arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "spot ignore bronze stereo require chair faculty tree outdoor tail dolphin nature";
+var mnemonic = "road control eagle oval lunar detect regular foster surge onion desk frost";

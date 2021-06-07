@@ -1,1 +1,1 @@
-var mnemonic = "receive wild veteran party inhale praise help eyebrow control ivory kid spring";
+var mnemonic = "burst cricket drop food type brother response seek speed bag neutral season";

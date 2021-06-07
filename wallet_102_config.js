@@ -1,1 +1,1 @@
-var mnemonic = "wink property uncle manual name major monster when this face boy strategy";
+var mnemonic = "direct they ill tiny sad deputy coffee chimney brass blind actress either";

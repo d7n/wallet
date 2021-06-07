@@ -1,1 +1,1 @@
-var mnemonic = "control beauty rare whisper rhythm tide private shrimp history define job broccoli";
+var mnemonic = "meadow combine work silk spring alien want record armed blade inside round";

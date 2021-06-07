@@ -1,1 +1,1 @@
-var mnemonic = "error barely figure country phone true treat chat soldier man magic fade";
+var mnemonic = "light evidence blur verb acquire paddle damage tuna rescue project bundle truly";

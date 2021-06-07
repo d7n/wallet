@@ -1,1 +1,1 @@
-var mnemonic = "pottery aware claim high health aerobic food tooth puppy furnace blanket penalty";
+var mnemonic = "expire praise brave symptom proof meat castle into disease street sock attend";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle second lawn goddess matrix water alter system olive since chunk note";
+var mnemonic = "warfare vital cloth judge rocket three wire world tip claw crisp hawk";

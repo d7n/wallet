@@ -1,1 +1,1 @@
-var mnemonic = "renew honey trend egg poet knee life nose vague taxi old furnace";
+var mnemonic = "expire balance twelve boost curious wolf solve hub input input chaos into";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess arrow penalty beach supply voice capital mandate frown weasel keep bench";
+var mnemonic = "elevator angle ensure orbit tent pole matter young payment sword bamboo neutral";

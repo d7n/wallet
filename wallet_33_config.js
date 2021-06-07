@@ -1,1 +1,1 @@
-var mnemonic = "hello owner drive require toe excite total punch clock drill girl hunt";
+var mnemonic = "weasel learn art visual foil talk share drastic circle video order ticket";

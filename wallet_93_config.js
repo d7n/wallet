@@ -1,1 +1,1 @@
-var mnemonic = "hour slab round region dentist else manual income garden mobile tunnel exist";
+var mnemonic = "smooth limb sight purpose ramp buzz age credit nuclear have car romance";

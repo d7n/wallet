@@ -1,1 +1,1 @@
-var mnemonic = "fossil exotic trust enter vacuum drop decrease plate knee stove lawn ugly";
+var mnemonic = "weather endorse milk stock defy august lazy priority green truck wear cotton";

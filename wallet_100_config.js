@@ -1,1 +1,1 @@
-var mnemonic = "oyster annual inside bamboo pupil pottery kingdom solution define saddle ripple pumpkin";
+var mnemonic = "tired want odor lunar height dad blame device art ill program ready";

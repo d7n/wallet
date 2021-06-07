@@ -1,1 +1,1 @@
-var mnemonic = "cushion sponsor skull into fault enjoy verb nephew canyon sphere frown elder";
+var mnemonic = "social gather magic alley erode nominee icon dose miss shock dismiss alter";

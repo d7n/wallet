@@ -1,1 +1,1 @@
-var mnemonic = "awful hamster mule song clip salt clever flight federal ride olive brass";
+var mnemonic = "shadow distance hour sight vendor trumpet easily near junior meadow flat boil";

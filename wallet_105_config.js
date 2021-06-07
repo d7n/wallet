@@ -1,1 +1,1 @@
-var mnemonic = "island luxury develop view hobby bright horse render river pretty upon penalty";
+var mnemonic = "cart globe gaze achieve pattern cost sheriff duty wink fragile talent tonight";

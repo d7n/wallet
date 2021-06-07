@@ -1,1 +1,1 @@
-var mnemonic = "idle rebel catalog mammal loud excess estate orphan prepare cannon educate assist";
+var mnemonic = "finger elephant scare person outdoor settle pizza refuse promote delay bone attack";

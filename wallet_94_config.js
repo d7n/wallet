@@ -1,1 +1,1 @@
-var mnemonic = "economy siege rare maximum slot thumb kiwi dial basket finger absent phone";
+var mnemonic = "camera broom sentence fork shoe trouble alter pyramid advice strike reflect wild";

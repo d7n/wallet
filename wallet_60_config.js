@@ -1,1 +1,1 @@
-var mnemonic = "front monkey exist filter elite number giant sell latin employ cancel verb";
+var mnemonic = "tiger mercy pumpkin approve quick mystery job disagree company sniff planet squeeze";

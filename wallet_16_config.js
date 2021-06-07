@@ -1,1 +1,1 @@
-var mnemonic = "loud install violin camp master faith steak similar delay casual assume bread";
+var mnemonic = "bubble worth control flame slide parade federal danger deal supply gauge able";

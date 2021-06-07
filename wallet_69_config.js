@@ -1,1 +1,1 @@
-var mnemonic = "move shift valley riot promote giggle promote antique jazz mention search inch";
+var mnemonic = "antenna club danger body feed core toy allow ready over wheat razor";

@@ -1,1 +1,1 @@
-var mnemonic = "pond correct target horse notable honey shift again demise mix infant deposit";
+var mnemonic = "whip large blouse junk forum flip lab method trouble blossom vote path";

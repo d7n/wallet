@@ -1,1 +1,1 @@
-var mnemonic = "park coast spy evidence banana lamp image domain situate excess credit menu";
+var mnemonic = "clinic heavy equal earn risk stool badge similar height found gasp flower";

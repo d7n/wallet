@@ -1,1 +1,1 @@
-var mnemonic = "solid gym accident cancel cat example kitten orient jungle media scale horse";
+var mnemonic = "picture aunt mix piece lobster empower innocent pledge drift sausage decline act";

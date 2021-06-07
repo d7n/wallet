@@ -1,1 +1,1 @@
-var mnemonic = "frown crawl accuse trumpet unveil beauty upgrade auction educate erosion country enroll";
+var mnemonic = "gap fashion crack camera high stay great custom grid nation soon jump";

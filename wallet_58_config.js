@@ -1,1 +1,1 @@
-var mnemonic = "hollow stool garbage grain ginger cloud crazy retire banner fatal inmate robot";
+var mnemonic = "pattern wagon village assist van net soup injury imitate hybrid senior chair";

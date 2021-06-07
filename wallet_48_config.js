@@ -1,1 +1,1 @@
-var mnemonic = "boring escape palm elegant wage gold december achieve shine amount wine solve";
+var mnemonic = "roast cross friend song outdoor emerge alone neither second hello inject devote";

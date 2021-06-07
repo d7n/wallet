@@ -1,1 +1,1 @@
-var mnemonic = "poet artefact general abandon gate choice holiday protect rocket syrup harbor under";
+var mnemonic = "fringe push nurse buzz describe volcano arrow angry aerobic start genuine lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "predict aisle catalog advance coral enrich tortoise trigger inside session uphold recall";
+var mnemonic = "response typical ski zebra hole boy monster oblige top live sponsor door";

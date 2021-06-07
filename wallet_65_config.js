@@ -1,1 +1,1 @@
-var mnemonic = "outer barely muscle inside receive skate awesome today act tourist frog often";
+var mnemonic = "apology seat burger floor short angry shoe napkin short begin indoor hospital";

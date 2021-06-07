@@ -1,1 +1,1 @@
-var mnemonic = "awesome symbol razor media benefit pumpkin inquiry sure rhythm elephant genius capital";
+var mnemonic = "unknown soccer tattoo giraffe foster woman amazing tower bright finish topic trial";

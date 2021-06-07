@@ -1,1 +1,1 @@
-var mnemonic = "seven broom car carbon super ethics impact caught sport media ask welcome";
+var mnemonic = "eternal base cart inhale siege above way claw pencil gossip pyramid twelve";

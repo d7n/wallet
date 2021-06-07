@@ -1,1 +1,1 @@
-var mnemonic = "door bamboo umbrella equip marriage filter gauge body merry cable beyond report";
+var mnemonic = "grab also column word post turn copy gun husband spell dolphin title";
