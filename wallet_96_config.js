@@ -1,1 +1,1 @@
-var mnemonic = "evidence into mango tunnel alpha donor poverty jazz there merry raw install";
+var mnemonic = "feature harvest because diary result duck pole auto tired magnet nuclear stem";

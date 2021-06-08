@@ -1,1 +1,1 @@
-var mnemonic = "item brown horror dance company tourist pair arrest neutral job subway fabric";
+var mnemonic = "belt supply situate brass large change angry print vast jazz coach coin";

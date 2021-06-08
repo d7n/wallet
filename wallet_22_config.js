@@ -1,1 +1,1 @@
-var mnemonic = "angle limit crush force lizard student catalog treat sad basic convince advance";
+var mnemonic = "you shaft stage build then chief genre thunder gold main output galaxy";

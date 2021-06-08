@@ -1,1 +1,1 @@
-var mnemonic = "proof embody youth danger meat outdoor duck camera source retire gossip pistol";
+var mnemonic = "sail cook develop jazz smoke choose merit language boil cloud young morning";

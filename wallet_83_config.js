@@ -1,1 +1,1 @@
-var mnemonic = "connect coral corn express canyon treat vessel gentle canyon inflict city minute";
+var mnemonic = "twice lock cover echo angle multiply spring acid soap security laugh spot";

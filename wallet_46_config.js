@@ -1,1 +1,1 @@
-var mnemonic = "junk unaware nature raccoon uniform talent notable today dilemma lake tree fix";
+var mnemonic = "orient favorite cry wreck neither dilemma truly burden reject cabin jacket olive";

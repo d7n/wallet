@@ -1,1 +1,1 @@
-var mnemonic = "shoulder limb advice slight page half nation page gift blade ranch surface";
+var mnemonic = "truth gap blade all tilt vacuum three must gospel segment coil stamp";

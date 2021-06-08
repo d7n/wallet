@@ -1,1 +1,1 @@
-var mnemonic = "inform lesson effort kidney spread game crisp unveil involve hair mass eagle";
+var mnemonic = "jewel ancient expire soccer creek youth mouse build hour hurt wide jar";

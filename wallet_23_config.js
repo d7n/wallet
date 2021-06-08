@@ -1,1 +1,1 @@
-var mnemonic = "bulb can route error rib gaze fetch diary symptom expire frown cat";
+var mnemonic = "screen stand suffer language unlock solve glad weekend mammal sick robot liberty";

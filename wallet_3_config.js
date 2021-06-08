@@ -1,1 +1,1 @@
-var mnemonic = "belt range choose stove crack hospital spike deer kite subway jungle pretty";
+var mnemonic = "remain nominee ordinary choose original cover chest advice century potato duty suggest";

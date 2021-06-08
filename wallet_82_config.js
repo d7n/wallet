@@ -1,1 +1,1 @@
-var mnemonic = "before harbor behave pipe shoe undo target boost insect adapt slush volcano";
+var mnemonic = "seminar baby calm leg meadow law negative jealous fashion tree rely merge";

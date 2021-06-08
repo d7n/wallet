@@ -1,1 +1,1 @@
-var mnemonic = "donate diet vintage unhappy pumpkin genuine fork tag brush absurd mask web";
+var mnemonic = "above culture strong catalog shove auto master delay elegant infant mandate proof";

@@ -1,1 +1,1 @@
-var mnemonic = "razor wire stereo special normal royal wild runway elephant front poverty gas";
+var mnemonic = "wall rigid video error still romance celery glare empower execute fantasy pretty";

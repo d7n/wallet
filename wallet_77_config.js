@@ -1,1 +1,1 @@
-var mnemonic = "design only salon double salute antique erupt flat festival faculty birth enter";
+var mnemonic = "buddy lounge bitter season garden win shield elbow garden goose dish mass";

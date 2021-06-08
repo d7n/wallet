@@ -1,1 +1,1 @@
-var mnemonic = "poverty plate skin trouble undo buyer close museum resemble material razor supply";
+var mnemonic = "cupboard misery cable minor exhibit crater essay reopen ordinary exact ankle truth";

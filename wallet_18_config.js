@@ -1,1 +1,1 @@
-var mnemonic = "surround visa salon special force truck tourist velvet globe lens perfect column";
+var mnemonic = "beauty actor unhappy unit void inject mention knock suggest stamp behave outer";

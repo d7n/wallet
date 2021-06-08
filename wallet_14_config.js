@@ -1,1 +1,1 @@
-var mnemonic = "assume verb jazz float trophy maximum measure bench school security denial hobby";
+var mnemonic = "pupil feed sadness hat dinosaur reject midnight anchor shrimp give flavor clean";

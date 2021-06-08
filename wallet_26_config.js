@@ -1,1 +1,1 @@
-var mnemonic = "wash harbor notable pudding grab person swallow limb build clerk assault world";
+var mnemonic = "erupt neutral view loop bitter grief badge desk text step crouch right";

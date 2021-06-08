@@ -1,1 +1,1 @@
-var mnemonic = "toast hedgehog profit cycle slogan become gravity satoshi accident aisle game paddle";
+var mnemonic = "track neglect maze skate trash staff stool bounce skill grace cake lion";

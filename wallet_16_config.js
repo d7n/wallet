@@ -1,1 +1,1 @@
-var mnemonic = "welcome venture genius awful congress concert antique gospel awesome spray wolf slam";
+var mnemonic = "whip host demand erupt vintage rather rough upon uniform rate strike caution";

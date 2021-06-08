@@ -1,1 +1,1 @@
-var mnemonic = "food symptom armed cram profit nerve olive tray pioneer pass video believe";
+var mnemonic = "bonus render curtain fit enroll pigeon range mercy magnet critic best employ";

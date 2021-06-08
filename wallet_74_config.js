@@ -1,1 +1,1 @@
-var mnemonic = "topic stick shift plunge credit toy filter zone health more rebuild van";
+var mnemonic = "that solution invite hybrid pole puzzle detect warm raccoon supply base gold";

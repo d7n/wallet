@@ -1,1 +1,1 @@
-var mnemonic = "imitate trust cloud endless inmate logic switch ride call bronze produce minute";
+var mnemonic = "soda soft weapon tuna damage into cluster gaze flame mountain excess hazard";

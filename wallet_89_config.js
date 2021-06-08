@@ -1,1 +1,1 @@
-var mnemonic = "gauge oblige disagree diagram lawn oven setup narrow ticket call hero concert";
+var mnemonic = "venture they false obtain vacant enhance desk vessel object urge ripple casual";

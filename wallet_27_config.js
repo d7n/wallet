@@ -1,1 +1,1 @@
-var mnemonic = "defense oval loan outdoor payment estate barely sport act glance happy stool";
+var mnemonic = "spy spirit supreme aim hip brave carbon circle before pulse endless rude";

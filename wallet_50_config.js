@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon alpha curve parade release crucial cluster treat shove nasty voyage wealth";
+var mnemonic = "enhance end today basic alarm refuse odor chalk diet neck gospel always";

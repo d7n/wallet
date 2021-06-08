@@ -1,1 +1,1 @@
-var mnemonic = "bright bleak tackle weapon trumpet inspire only royal run actor until fossil";
+var mnemonic = "mechanic venue push ocean logic expire fork clog edge gas diamond wave";

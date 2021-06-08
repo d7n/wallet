@@ -1,1 +1,1 @@
-var mnemonic = "obscure better monster observe flip frequent iron wheat payment tenant unlock flee";
+var mnemonic = "aim dentist entry work allow bar move control prevent bulk useless stairs";

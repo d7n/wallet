@@ -1,1 +1,1 @@
-var mnemonic = "local dinosaur thrive skull fan festival fiber helmet assault tackle intact prepare";
+var mnemonic = "supply either agree spot fancy evil surface federal person senior web swear";

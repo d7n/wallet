@@ -1,1 +1,1 @@
-var mnemonic = "crack kiss mirror essay tape edit invest trap another stock odor range";
+var mnemonic = "citizen vocal business bubble one snap chest garlic globe satoshi dentist more";

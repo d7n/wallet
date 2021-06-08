@@ -1,1 +1,1 @@
-var mnemonic = "filter region galaxy sing solid found much flight seat collect wrist daring";
+var mnemonic = "ceiling bench movie discover accuse remain milk join view monitor anger real";

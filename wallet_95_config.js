@@ -1,1 +1,1 @@
-var mnemonic = "tornado parade clap cake staff seed below magnet blur copper then basic";
+var mnemonic = "step armor panda phrase civil copper wool able toast ceiling cinnamon again";

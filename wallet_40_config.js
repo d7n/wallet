@@ -1,1 +1,1 @@
-var mnemonic = "fiction year leave apology number tag place twenty punch dismiss rally tired";
+var mnemonic = "feel travel brush broccoli trip hockey vessel acid aspect survey present muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "novel before want pony fiber title glide whale about joke vanish tag";
+var mnemonic = "ill degree globe output burst blind tunnel improve manage embody retreat budget";

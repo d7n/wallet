@@ -1,1 +1,1 @@
-var mnemonic = "ensure tomato grief pupil bachelor auto aunt pitch any violin matter anchor";
+var mnemonic = "broom object assume also behind uniform umbrella direct strong believe addict hood";

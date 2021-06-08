@@ -1,1 +1,1 @@
-var mnemonic = "hip notable prize organ prefer urge nephew know dawn defense night true";
+var mnemonic = "wrong seat usual minimum usage pattern tool run cream pair cute narrow";

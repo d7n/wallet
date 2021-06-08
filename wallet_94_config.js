@@ -1,1 +1,1 @@
-var mnemonic = "april profit excuse wheat ecology thumb decade scissors silver obtain modify useless";
+var mnemonic = "friend prefer machine timber machine number square recycle dinner gauge hockey industry";

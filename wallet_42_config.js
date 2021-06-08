@@ -1,1 +1,1 @@
-var mnemonic = "please doctor multiply path cactus burst pole input umbrella plunge wrist paddle";
+var mnemonic = "dwarf benefit excite original smoke stumble retire destroy bus tip submit ridge";

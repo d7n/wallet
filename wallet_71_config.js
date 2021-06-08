@@ -1,1 +1,1 @@
-var mnemonic = "essence account sibling about blade legend gather dirt limit tennis very image";
+var mnemonic = "anxiety decline order language minor panel else rocket fiction teach truth output";

@@ -1,1 +1,1 @@
-var mnemonic = "maze debris key churn circle observe roof season junior chief gloom again";
+var mnemonic = "month nest middle vanish great kangaroo earth crawl hour wonder drill special";

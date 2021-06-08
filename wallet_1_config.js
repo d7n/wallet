@@ -1,1 +1,1 @@
-var mnemonic = "mean evoke fiscal tunnel harsh mix panel define lake since portion daughter";
+var mnemonic = "end margin skate casino help orphan hire misery salad brass okay minimum";

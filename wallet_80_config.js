@@ -1,1 +1,1 @@
-var mnemonic = "park indoor harvest donor census keen neglect ostrich select grid profit point";
+var mnemonic = "tiny message tomorrow avoid develop plastic grow mushroom photo deposit can gown";

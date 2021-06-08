@@ -1,1 +1,1 @@
-var mnemonic = "combine awesome garage much ripple harvest drop creek input confirm client disorder";
+var mnemonic = "panic entry bicycle cattle script dance chalk case silk shock police harvest";

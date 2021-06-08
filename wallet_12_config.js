@@ -1,1 +1,1 @@
-var mnemonic = "loyal bronze slot faith pet onion crane jump panther auction school street";
+var mnemonic = "web sleep sheriff orchard chunk dove path force trade attitude youth jaguar";

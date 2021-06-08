@@ -1,1 +1,1 @@
-var mnemonic = "sunset chalk laundry nurse buffalo brief timber volume lunch steel basic imitate";
+var mnemonic = "wool second deal gain muffin force energy celery genuine try boring oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor zero sing fresh final feel blanket cinnamon sweet despair decade camera";
+var mnemonic = "pole easy raw intact pool sentence debate stadium judge seat abuse top";

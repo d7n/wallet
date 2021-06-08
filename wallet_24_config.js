@@ -1,1 +1,1 @@
-var mnemonic = "film lady letter donkey range tortoise dentist small famous weather width shift";
+var mnemonic = "again science peasant book pass able potato melt juice trust common happy";

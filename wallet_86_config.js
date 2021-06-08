@@ -1,1 +1,1 @@
-var mnemonic = "spatial carpet worry select young guitar card run burger margin scale dwarf";
+var mnemonic = "find shoot put gadget future report insect trash mixture festival test menu";

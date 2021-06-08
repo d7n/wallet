@@ -1,1 +1,1 @@
-var mnemonic = "abstract jealous aim pride rib dawn pudding destroy future soon raise half";
+var mnemonic = "soccer hundred dilemma annual immense clerk certain exercise deer rebel slender defense";

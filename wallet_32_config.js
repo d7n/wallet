@@ -1,1 +1,1 @@
-var mnemonic = "marriage animal vault antenna turn found firm jungle lens cabin sea corn";
+var mnemonic = "race shadow rib market purpose symbol avocado calm anchor hungry grunt foam";

@@ -1,1 +1,1 @@
-var mnemonic = "cake toilet bread soul elbow giraffe window boring you replace walnut maze";
+var mnemonic = "tornado rally girl night kid bless crater easy rural collect cruise wing";

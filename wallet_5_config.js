@@ -1,1 +1,1 @@
-var mnemonic = "drama sister behave coach attend neck hub peace awake payment tuition glue";
+var mnemonic = "visual immense gold legend claw promote letter scale wreck when pulp advice";

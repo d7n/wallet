@@ -1,1 +1,1 @@
-var mnemonic = "claw trend wood minimum wrist buyer measure later news empty fiscal boost";
+var mnemonic = "slot parent cabbage also gloom divorce obvious cake round release fancy combine";

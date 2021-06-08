@@ -1,1 +1,1 @@
-var mnemonic = "wish kiss charge tuition coil bind race sunset saddle zebra snake glory";
+var mnemonic = "april shaft gloom gold piano poet person sauce ankle fatal tornado cattle";

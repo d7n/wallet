@@ -1,1 +1,1 @@
-var mnemonic = "rose despair zoo spider hospital near crawl weasel alert blanket attack usage";
+var mnemonic = "practice today chimney welcome noble mechanic health minor water cute two cluster";

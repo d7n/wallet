@@ -1,1 +1,1 @@
-var mnemonic = "tiger dawn protect marine journey peasant gate doll gather mandate absent client";
+var mnemonic = "unit foster stamp knee token flavor exit few tail tray donate mutual";

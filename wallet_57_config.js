@@ -1,1 +1,1 @@
-var mnemonic = "leaf case envelope worth matrix napkin early swarm offer hill half gloom";
+var mnemonic = "text denial real govern later rib oyster kick charge easy cheap eye";

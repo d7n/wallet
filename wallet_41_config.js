@@ -1,1 +1,1 @@
-var mnemonic = "main pause police salon unaware entry pair lava grape mechanic general confirm";
+var mnemonic = "oyster embody code stem afford scare found able repeat eagle palm dirt";

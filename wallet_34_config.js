@@ -1,1 +1,1 @@
-var mnemonic = "wasp dignity title ready bargain symbol such river congress solar term weather";
+var mnemonic = "abuse circle effort once goat tiger capital magic cost what also bitter";

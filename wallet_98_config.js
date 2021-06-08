@@ -1,1 +1,1 @@
-var mnemonic = "school danger garden bitter clever runway measure type guard mirror shift amateur";
+var mnemonic = "balcony human jump urge thrive era car fall pledge switch hamster dawn";

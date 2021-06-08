@@ -1,1 +1,1 @@
-var mnemonic = "major render answer rescue cross demand awful dash actor punch stand hold";
+var mnemonic = "affair wrap feature inflict multiply castle vault rose web fit mother tourist";

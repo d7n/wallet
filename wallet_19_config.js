@@ -1,1 +1,1 @@
-var mnemonic = "cup middle wire swallow reward apart filter shuffle crane soldier market funny";
+var mnemonic = "path thumb upper remain typical talent achieve matter grow nurse illegal replace";

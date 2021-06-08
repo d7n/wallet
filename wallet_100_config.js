@@ -1,1 +1,1 @@
-var mnemonic = "virtual sphere wagon humble cheese want bright alter hard citizen ensure room";
+var mnemonic = "soldier school spin aspect rug urge solution lumber tone cabin cry vendor";

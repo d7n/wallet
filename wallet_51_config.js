@@ -1,1 +1,1 @@
-var mnemonic = "aerobic twin sight harvest member reflect problem ceiling idle oil cage twenty";
+var mnemonic = "vast borrow pudding onion visa evoke rotate sail divorce shop announce before";

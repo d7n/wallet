@@ -1,1 +1,1 @@
-var mnemonic = "force position impulse cart settle save oven lion ensure decorate rain vessel";
+var mnemonic = "pistol render devote volume genius post swim farm patch ocean swim gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse kind peanut day paper scatter life upset element this device pupil";
+var mnemonic = "silk slim abuse onion parrot ridge avoid analyst emerge human surge scheme";

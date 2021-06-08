@@ -1,1 +1,1 @@
-var mnemonic = "congress balance second convince blanket enable tiny wedding riot wrist cheap fall";
+var mnemonic = "net shoulder unlock industry galaxy topple enforce media fiction extra oven library";

@@ -1,1 +1,1 @@
-var mnemonic = "include hello search jealous brush sauce volume foil stairs knee good upon";
+var mnemonic = "enrich fashion police trust ticket describe hip stadium whale tape guilt inform";

@@ -1,1 +1,1 @@
-var mnemonic = "retire theory teach gentle hedgehog relax sense labor hollow used dust yellow";
+var mnemonic = "kid glad tomato fetch bean conduct dream outer amused intact flush weapon";

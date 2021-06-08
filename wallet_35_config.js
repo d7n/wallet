@@ -1,1 +1,1 @@
-var mnemonic = "legend belt worth quick demand prefer cycle dragon win wrong pioneer video";
+var mnemonic = "frown indicate vanish abandon wing uncle cattle dwarf just diet super invite";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics cliff nut person evidence case odor legend hero mail typical whip";
+var mnemonic = "outdoor neck harsh today lift stairs ripple turtle dignity curve hard market";

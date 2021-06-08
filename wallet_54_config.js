@@ -1,1 +1,1 @@
-var mnemonic = "vibrant board slow narrow seat enjoy apology team aim put explain gun";
+var mnemonic = "donor dance ecology remember skirt office buzz result dry clay symbol pill";

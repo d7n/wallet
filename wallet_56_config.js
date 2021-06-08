@@ -1,1 +1,1 @@
-var mnemonic = "own venue laptop coast panda outer bone coach relax fluid recall wide";
+var mnemonic = "sell electric wheat vicious where auto casino priority assume soda other aunt";

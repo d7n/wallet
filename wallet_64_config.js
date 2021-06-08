@@ -1,1 +1,1 @@
-var mnemonic = "private champion lonely item world top exotic announce code layer gym catalog";
+var mnemonic = "cool jacket glass oval stuff erode stomach trip grab chef update risk";

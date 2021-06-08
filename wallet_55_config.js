@@ -1,1 +1,1 @@
-var mnemonic = "lecture bread dose lobster asset vapor allow change steak tired team now";
+var mnemonic = "brave fresh poverty economy moon glad client frost point album old effort";

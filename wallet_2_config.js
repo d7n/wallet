@@ -1,1 +1,1 @@
-var mnemonic = "guilt disagree ramp monitor unfold outside field cover because ancient oppose industry";
+var mnemonic = "purchase rather style material hotel favorite usual water enrich submit success write";

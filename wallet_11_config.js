@@ -1,1 +1,1 @@
-var mnemonic = "chimney fat leisure unveil fabric use artwork denial era civil fox tent";
+var mnemonic = "item depth edge fox ketchup album enforce fly link execute image episode";

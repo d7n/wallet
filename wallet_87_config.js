@@ -1,1 +1,1 @@
-var mnemonic = "eight echo label liberty audit sniff pepper scout shallow series dawn measure";
+var mnemonic = "half together phone high buzz exercise clerk slender anchor latin sport ahead";

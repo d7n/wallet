@@ -1,1 +1,1 @@
-var mnemonic = "bubble what scheme wrist tell alien avocado ankle reduce scheme pen fence";
+var mnemonic = "chunk despair lock crawl magic direct ostrich six behind script innocent oak";

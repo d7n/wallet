@@ -1,1 +1,1 @@
-var mnemonic = "cigar ostrich prize boy cement cheese excite ginger copy vivid robust cream";
+var mnemonic = "volcano oppose cruel drum response near current hold cake monkey find reduce";

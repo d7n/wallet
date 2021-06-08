@@ -1,1 +1,1 @@
-var mnemonic = "choice crash narrow kind pepper toilet strike smooth tongue enlist glory pudding";
+var mnemonic = "busy impulse soap metal correct print kit behind chief spin slender bone";

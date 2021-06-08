@@ -1,1 +1,1 @@
-var mnemonic = "remain profit cousin oval shield wrist cabbage fancy also observe inner artefact";
+var mnemonic = "helmet similar first remember ticket relax garlic demand hand near mass glimpse";

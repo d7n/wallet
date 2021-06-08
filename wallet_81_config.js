@@ -1,1 +1,1 @@
-var mnemonic = "harbor dolphin person income tobacco keen daring scissors snake account such know";
+var mnemonic = "arch flock clinic wheel divert invest price marble identify train setup above";

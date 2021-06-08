@@ -1,1 +1,1 @@
-var mnemonic = "cage output note twin spread shy fetch throw size brother oven benefit";
+var mnemonic = "jaguar bundle autumn unit shed armed whip stool endorse panda exchange walk";

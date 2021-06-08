@@ -1,1 +1,1 @@
-var mnemonic = "garbage cliff large inject attend survey gaze buyer speak rich flat best";
+var mnemonic = "fly alley ritual volcano awake unhappy blush route desert file trial limit";

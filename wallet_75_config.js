@@ -1,1 +1,1 @@
-var mnemonic = "draw diet emotion use warrior valid common panic muffin attitude advice sting";
+var mnemonic = "whip clump review alter tower warrior human car employ enjoy essence aunt";

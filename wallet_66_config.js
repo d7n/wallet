@@ -1,1 +1,1 @@
-var mnemonic = "steel thank require image kitchen gain scrap elder push clean mixture raven";
+var mnemonic = "tide purse recipe between chase public antenna address property mouse celery jar";

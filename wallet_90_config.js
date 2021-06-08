@@ -1,1 +1,1 @@
-var mnemonic = "spot local almost piano bronze loan project broom aunt wheat icon lizard";
+var mnemonic = "subject galaxy edit marriage anger foam material hobby satoshi diagram wave dog";

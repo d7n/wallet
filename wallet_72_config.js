@@ -1,1 +1,1 @@
-var mnemonic = "embody steel fortune receive visit tail leisure wage swallow girl hurdle theory";
+var mnemonic = "erupt jewel volume diagram observe disease step manual celery forest penalty scorpion";

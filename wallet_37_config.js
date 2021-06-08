@@ -1,1 +1,1 @@
-var mnemonic = "mention woman twin uniform grunt speak material alert leopard jungle host syrup";
+var mnemonic = "suggest famous quote dress adapt mistake tomorrow police trophy crop hundred clown";

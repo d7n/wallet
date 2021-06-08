@@ -1,1 +1,1 @@
-var mnemonic = "inside fantasy night hawk universe infant bus soccer faculty slender people upon";
+var mnemonic = "dog assist arm noodle violin vital trip split grab rich excite alter";

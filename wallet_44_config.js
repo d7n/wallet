@@ -1,1 +1,1 @@
-var mnemonic = "trumpet faculty ordinary cool explain sign wage color body random exclude dream";
+var mnemonic = "ask crazy slam scan manage donkey move border image language reveal flag";
