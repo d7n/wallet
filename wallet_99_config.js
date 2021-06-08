@@ -1,1 +1,1 @@
-var mnemonic = "lumber tuition senior ensure work service blush alarm major address later unusual";
+var mnemonic = "bird tomato weird fiction recall lecture ramp congress govern lemon clean type";

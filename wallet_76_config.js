@@ -1,1 +1,1 @@
-var mnemonic = "wool height develop define solution ranch tiger refuse forward bottom trumpet gentle";
+var mnemonic = "high width remind build shell uphold lazy build museum vendor text since";

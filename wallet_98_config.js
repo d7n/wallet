@@ -1,1 +1,1 @@
-var mnemonic = "tower ugly radar tennis height walnut future buyer old exclude number farm";
+var mnemonic = "jump weird sniff modify claw ball immune rescue round off police certain";

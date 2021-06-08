@@ -1,1 +1,1 @@
-var mnemonic = "note excuse mail desk reason sunny milk pride fragile thank east arena";
+var mnemonic = "public health core save unit cliff one apology strike tomorrow excess discover";

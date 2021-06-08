@@ -1,1 +1,1 @@
-var mnemonic = "emotion slam ring fatigue case solar blame dumb trigger quantum laundry wealth";
+var mnemonic = "layer three foot target scan universe hire tragic kiss adapt electric immune";

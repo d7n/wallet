@@ -1,1 +1,1 @@
-var mnemonic = "recycle deal into book rhythm resource voyage brass face company receive neutral";
+var mnemonic = "school define maid move remind piano amateur apart empty code network dash";

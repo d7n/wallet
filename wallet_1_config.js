@@ -1,1 +1,1 @@
-var mnemonic = "cram problem hood city laundry ski type myth size toddler journey spoon";
+var mnemonic = "account east unfold south wreck gas put scorpion music bind raw bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel awful east asthma spray display option border fruit just bless lawn";
+var mnemonic = "turkey oyster bracket minor endorse planet fresh giggle actress casino cactus quality";

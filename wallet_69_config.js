@@ -1,1 +1,1 @@
-var mnemonic = "broken deliver accuse child congress uncle apart write dice polar caught suspect";
+var mnemonic = "suspect voice embrace absent sign link owner concert secret mobile zone scissors";

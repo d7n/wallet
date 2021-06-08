@@ -1,1 +1,1 @@
-var mnemonic = "easily oyster job hidden dutch genuine soap sausage estate path switch decade";
+var mnemonic = "because wink boat rent video garage abandon case develop flock raise inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "night cave daughter conduct tunnel motor rival project save tobacco insane hamster";
+var mnemonic = "capable text deposit fish vicious special dress talk before picnic sound miss";

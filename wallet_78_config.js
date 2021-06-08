@@ -1,1 +1,1 @@
-var mnemonic = "art spy twin coin bike dash sun sugar steel river when caught";
+var mnemonic = "obvious stock example soap patient speed interest unveil beauty age fan guitar";

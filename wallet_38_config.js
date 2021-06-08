@@ -1,1 +1,1 @@
-var mnemonic = "local replace wait place matter course hawk blame rough victory maximum slush";
+var mnemonic = "shadow cement butter teach popular traffic rebuild city system brass giggle weapon";

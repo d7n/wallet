@@ -1,1 +1,1 @@
-var mnemonic = "when original vacant health install hero clip drill jeans reduce spawn shrug";
+var mnemonic = "country future frame mean love later shine bargain gossip palace enable burst";

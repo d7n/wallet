@@ -1,1 +1,1 @@
-var mnemonic = "south endless achieve quit nation unique vehicle identify marble air load silly";
+var mnemonic = "shoulder payment between topple reform impulse proof flame exit asset pulse pond";

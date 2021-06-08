@@ -1,1 +1,1 @@
-var mnemonic = "scrap auction spy video skirt feature produce goose cinnamon goose repeat mother";
+var mnemonic = "price six boy replace rely panic machine despair sell goddess squeeze announce";

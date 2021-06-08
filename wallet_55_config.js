@@ -1,1 +1,1 @@
-var mnemonic = "copper unlock awful weird security turn eight hundred hole salmon harbor engage";
+var mnemonic = "wild neither satisfy barely typical afford lunar lady pave engage develop hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp omit couple fade question twenty exact hello across force unknown egg";
+var mnemonic = "left uncover seed virtual group exclude twenty slight expand abandon phone ripple";

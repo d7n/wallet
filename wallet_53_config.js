@@ -1,1 +1,1 @@
-var mnemonic = "beef number above spider help memory entry desk soap eager example duty";
+var mnemonic = "famous crystal prize joke mix possible six whale culture buzz same deny";

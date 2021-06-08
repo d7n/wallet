@@ -1,1 +1,1 @@
-var mnemonic = "manual pull replace excite fence depart sweet umbrella labor false castle velvet";
+var mnemonic = "chapter used sing main trim trigger nurse whip spirit album furnace buffalo";

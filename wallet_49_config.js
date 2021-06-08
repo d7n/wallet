@@ -1,1 +1,1 @@
-var mnemonic = "mechanic ship cup wine bounce nominee crawl fun rate finish better science";
+var mnemonic = "weather try level kiwi open loud pear soul upper come radio excuse";

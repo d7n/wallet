@@ -1,1 +1,1 @@
-var mnemonic = "foster burger achieve essay lumber song panther winner curtain faith track person";
+var mnemonic = "exit cheap chapter tide hotel fiction monkey behind table desk hat open";

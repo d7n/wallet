@@ -1,1 +1,1 @@
-var mnemonic = "cannon check slab mansion again twelve fragile document aware husband farm library";
+var mnemonic = "cup whisper myth idea lecture spray problem cook snap tomorrow spawn soul";

@@ -1,1 +1,1 @@
-var mnemonic = "belt develop fragile pool never dignity habit text sugar bleak have bacon";
+var mnemonic = "spawn wreck thunder mutual transfer day heart affair private kid nuclear beauty";

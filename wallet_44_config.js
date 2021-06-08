@@ -1,1 +1,1 @@
-var mnemonic = "dwarf confirm audit cliff oven secret design quick welcome hybrid friend allow";
+var mnemonic = "museum liar kit grit pass page filter picnic finger club pitch flush";

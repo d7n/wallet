@@ -1,1 +1,1 @@
-var mnemonic = "design property viable nurse pudding useful jump mass tuition actor mutual unhappy";
+var mnemonic = "junior phone dignity stuff love analyst access labor vast economy citizen spy";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster vapor hedgehog hazard defy bounce brave tooth girl hospital resource discover";
+var mnemonic = "right swarm meadow pig motor acquire choice sketch mosquito load grocery pill";

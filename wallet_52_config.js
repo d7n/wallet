@@ -1,1 +1,1 @@
-var mnemonic = "wagon congress federal equip mechanic logic image quote candy repair giant tell";
+var mnemonic = "royal clarify punch brush flag pluck diamond forget situate guilt cram amateur";

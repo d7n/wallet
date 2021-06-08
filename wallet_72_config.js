@@ -1,1 +1,1 @@
-var mnemonic = "always unable idea miracle dinosaur air into black wild pioneer decline master";
+var mnemonic = "van plunge help future offer crawl shadow reunion angry end gallery follow";

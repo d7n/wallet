@@ -1,1 +1,1 @@
-var mnemonic = "settle tourist double arrow depth own glow kingdom proof merit apart stuff";
+var mnemonic = "twenty sport audit sport rail struggle enemy east recipe marriage cage update";

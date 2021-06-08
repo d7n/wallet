@@ -1,1 +1,1 @@
-var mnemonic = "blue shift rally order soup twist enemy chest power modify guess hollow";
+var mnemonic = "blind jealous cannon sort first donkey arm turkey hip math unique ranch";

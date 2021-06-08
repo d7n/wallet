@@ -1,1 +1,1 @@
-var mnemonic = "young barely champion believe aunt pigeon captain fashion sound treat unfold jar";
+var mnemonic = "perfect retire choose industry wagon news exile indoor media demise because lion";

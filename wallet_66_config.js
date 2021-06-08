@@ -1,1 +1,1 @@
-var mnemonic = "believe spoil song charge domain food entry subway roof mistake piano rally";
+var mnemonic = "open lazy retire wrestle add medal liar engage rifle flat sail smooth";

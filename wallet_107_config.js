@@ -1,1 +1,1 @@
-var mnemonic = "advance replace bulb onion old raven pyramid maid employ brief flight grit";
+var mnemonic = "taste diesel kiss name rely train kiss ridge exact cost sister tattoo";

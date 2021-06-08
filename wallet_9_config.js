@@ -1,1 +1,1 @@
-var mnemonic = "vivid jelly dream coral because chat broccoli topple arrest eyebrow hello slight";
+var mnemonic = "initial that access siren foam pull donor omit manage shop matrix stable";

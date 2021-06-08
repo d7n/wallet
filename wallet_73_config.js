@@ -1,1 +1,1 @@
-var mnemonic = "assume medal anchor square lunch promote gift bracket nest praise notable clip";
+var mnemonic = "elite gown pumpkin picture rough weasel fan armed motion install faint kitten";

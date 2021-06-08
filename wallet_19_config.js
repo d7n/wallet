@@ -1,1 +1,1 @@
-var mnemonic = "zone loan acoustic cinnamon worry tourist bulk wife olive plastic powder bid";
+var mnemonic = "runway secret remain warm because lumber dream paper reason struggle yard square";

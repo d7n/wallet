@@ -1,1 +1,1 @@
-var mnemonic = "service list letter engage thunder pigeon minute truck bacon piece scale cruise";
+var mnemonic = "perfect eyebrow lobster protect mistake infant physical debris cute dumb pyramid oval";

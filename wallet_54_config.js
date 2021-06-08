@@ -1,1 +1,1 @@
-var mnemonic = "crouch phone myth adjust empower venue initial remain range shock there pact";
+var mnemonic = "blanket stock false pulse garlic certain learn gain resemble scheme general middle";

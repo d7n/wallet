@@ -1,1 +1,1 @@
-var mnemonic = "aware ride aware enrich adult opinion raccoon also riot half silent sound";
+var mnemonic = "crucial mosquito jeans elite valve aspect afford mean project popular govern require";

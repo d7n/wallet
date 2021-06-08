@@ -1,1 +1,1 @@
-var mnemonic = "cruise fault crane expand arctic engine snake total equip elder little manage";
+var mnemonic = "unit judge infant gallery make frost merit subject marble happy volume blame";

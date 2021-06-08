@@ -1,1 +1,1 @@
-var mnemonic = "square siege muffin chronic pitch eyebrow hundred valve height safe bunker design";
+var mnemonic = "tongue exact you egg bargain dizzy flock rival foil mix helmet rent";

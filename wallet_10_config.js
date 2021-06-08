@@ -1,1 +1,1 @@
-var mnemonic = "stadium silver duck apple father doll unknown hill dentist memory frozen surge";
+var mnemonic = "slush library mention thumb assume lemon nation tent valley image steel copper";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead business luggage robust nation romance tell old lion reopen ethics charge";
+var mnemonic = "license mandate brother ugly boil crush battle pitch embody lunar nose west";

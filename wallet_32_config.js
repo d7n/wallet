@@ -1,1 +1,1 @@
-var mnemonic = "long chair stand tired hair subject mistake cricket wealth journey destroy snap";
+var mnemonic = "harvest sweet impact muscle cruise awake bird cabbage abuse maid sting menu";

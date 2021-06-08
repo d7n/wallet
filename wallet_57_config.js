@@ -1,1 +1,1 @@
-var mnemonic = "turtle idea topic castle require dove spirit web valve escape snack stage";
+var mnemonic = "game split venue place uphold exhibit plate pool update appear educate split";

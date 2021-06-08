@@ -1,1 +1,1 @@
-var mnemonic = "mansion outer hope sport treat pretty auto seven chat clinic glass immune";
+var mnemonic = "erosion gaze brisk copper guilt poem erupt roast return orange cricket rain";

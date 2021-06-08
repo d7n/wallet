@@ -1,1 +1,1 @@
-var mnemonic = "best initial dentist half cause issue island blush copy cave access govern";
+var mnemonic = "lion document wild source clown busy fragile vital humor visit primary sight";

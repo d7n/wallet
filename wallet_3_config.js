@@ -1,1 +1,1 @@
-var mnemonic = "sure normal weird dad bind pet code stay delay often aisle spot";
+var mnemonic = "alcohol envelope follow news kite offer assault ask chapter suit attack baby";

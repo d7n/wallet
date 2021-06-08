@@ -1,1 +1,1 @@
-var mnemonic = "dance book clock supreme involve purpose open seven lion foil moment taste";
+var mnemonic = "ignore infant remove maze one raw cricket pet decrease decade buzz fortune";

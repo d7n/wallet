@@ -1,1 +1,1 @@
-var mnemonic = "deal right search proof rail tide bus skill hold sure claim crowd";
+var mnemonic = "day you glide settle autumn service one repeat destroy mixed congress easy";

@@ -1,1 +1,1 @@
-var mnemonic = "proud dawn broken leave mobile blur field luggage couple motion raven blood";
+var mnemonic = "junk sketch nothing twist board deputy stumble absorb police snack dwarf shine";

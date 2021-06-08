@@ -1,1 +1,1 @@
-var mnemonic = "pudding match change twelve badge evolve table pilot dress pink cereal walnut";
+var mnemonic = "shy surprise pear student reflect tank team vote rhythm toe luxury habit";

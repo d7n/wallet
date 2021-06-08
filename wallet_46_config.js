@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo imitate vehicle client can tooth crater stamp soccer stone autumn social";
+var mnemonic = "bamboo sausage speed ancient giraffe north theme since public rail ball quantum";

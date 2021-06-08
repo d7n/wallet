@@ -1,1 +1,1 @@
-var mnemonic = "cliff twist cart mechanic portion blanket vast easily melody sort helmet viable";
+var mnemonic = "hen ceiling another indoor biology click final luggage top clock gasp tuition";

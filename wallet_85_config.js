@@ -1,1 +1,1 @@
-var mnemonic = "helmet avocado upon leopard remember weasel undo volcano draft frown lobster salon";
+var mnemonic = "sheriff buzz average wedding leaf genre improve august worth reveal sail guilt";

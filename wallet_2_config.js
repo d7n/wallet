@@ -1,1 +1,1 @@
-var mnemonic = "good tide problem slow memory iron theme wife spell wisdom mind riot";
+var mnemonic = "frog hard impact cancel table neck trial dragon dutch velvet truly enemy";

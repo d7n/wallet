@@ -1,1 +1,1 @@
-var mnemonic = "hurdle inherit disagree capable return van final roast river airport useless win";
+var mnemonic = "cattle minor expire swing follow idle buzz airport salad regret push multiply";

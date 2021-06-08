@@ -1,1 +1,1 @@
-var mnemonic = "inherit female fitness stairs text knee negative sausage antique truck novel clown";
+var mnemonic = "involve useless business hollow abandon thank another survey tumble teach burst cruel";

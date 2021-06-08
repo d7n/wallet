@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog buyer noise weird always cause color defy still artwork flower gentle";
+var mnemonic = "gaze board cupboard hill barely impulse call embrace tornado smile favorite lawn";

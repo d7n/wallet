@@ -1,1 +1,1 @@
-var mnemonic = "throw drama universe claim ticket kid inspire syrup subject place muffin someone";
+var mnemonic = "sadness impulse camera leaf bunker flame liquid remain skin trick yellow milk";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel that poverty forward rescue photo stamp liar always useful huge sound";
+var mnemonic = "window loud total ceiling jazz silly title office junior coach saddle double";

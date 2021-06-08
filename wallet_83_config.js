@@ -1,1 +1,1 @@
-var mnemonic = "faint jump tape sausage blossom immune corn mixture slim pair medal sun";
+var mnemonic = "hurry easily glide nation behave avocado swarm accident coral balcony mixture begin";

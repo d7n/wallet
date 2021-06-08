@@ -1,1 +1,1 @@
-var mnemonic = "input ask artefact normal birth barrel acoustic gap disorder egg wire typical";
+var mnemonic = "wood cash senior earth asset earth panda album size educate lab family";

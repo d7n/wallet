@@ -1,1 +1,1 @@
-var mnemonic = "budget blouse wedding deny key wish chuckle magic eager virus jacket vicious";
+var mnemonic = "velvet dawn half people double wet mom art wise spend bleak wide";

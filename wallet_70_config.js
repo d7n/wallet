@@ -1,1 +1,1 @@
-var mnemonic = "whip asthma power ecology oyster breeze zero divert winner tongue oblige message";
+var mnemonic = "price man suffer crop advance plate language snack topic forget forget scorpion";

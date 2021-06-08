@@ -1,1 +1,1 @@
-var mnemonic = "conduct gospel moral guide rebuild tip hat smoke inflict ostrich before labor";
+var mnemonic = "tourist snake adapt leave jaguar vague act they pet off promote inherit";

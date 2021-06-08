@@ -1,1 +1,1 @@
-var mnemonic = "owner mail witness pink ice rescue eyebrow lesson moral report subway great";
+var mnemonic = "picnic nasty hill monkey solid tail actual spend vapor genre crumble barrel";

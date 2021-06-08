@@ -1,1 +1,1 @@
-var mnemonic = "traffic credit mobile monitor income law thing smart east all defense luxury";
+var mnemonic = "floor drive client improve hood bitter author keen crew deer enjoy lion";

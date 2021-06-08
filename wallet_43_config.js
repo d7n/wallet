@@ -1,1 +1,1 @@
-var mnemonic = "believe junk labor skate unique reunion crush grow egg plate foil atom";
+var mnemonic = "foam power dumb open network awake flat idle reopen skate sugar room";

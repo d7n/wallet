@@ -1,1 +1,1 @@
-var mnemonic = "cradle wolf blast cruel oyster square congress sun often claw midnight become";
+var mnemonic = "divide harsh slender airport cram unknown close below fee spread canvas topic";

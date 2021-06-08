@@ -1,1 +1,1 @@
-var mnemonic = "enter frog canyon salt consider runway tobacco cover surprise maid close noble";
+var mnemonic = "tobacco profit fragile enable matrix pond tired zone senior seat nut old";

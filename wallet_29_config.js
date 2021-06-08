@@ -1,1 +1,1 @@
-var mnemonic = "carpet jaguar cousin clinic budget patrol box tennis plate polar topic wife";
+var mnemonic = "coin sense stairs gun favorite crash fluid noise know arena egg cotton";

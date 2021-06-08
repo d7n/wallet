@@ -1,1 +1,1 @@
-var mnemonic = "fury later robust alien wrestle nature undo tank hurry gloom sure custom";
+var mnemonic = "recycle dawn account search fluid champion advice feature child switch saddle welcome";

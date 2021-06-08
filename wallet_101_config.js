@@ -1,1 +1,1 @@
-var mnemonic = "any barrel cereal category armed duck help coyote excite crack cluster praise";
+var mnemonic = "frown genius elder evil armed violin casual select salon crazy blouse salute";

@@ -1,1 +1,1 @@
-var mnemonic = "law purity chapter family mass satoshi rather gaze come garbage cinnamon tooth";
+var mnemonic = "photo quick there trigger magic write junior pottery cable illegal smoke enter";

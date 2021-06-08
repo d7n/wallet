@@ -1,1 +1,1 @@
-var mnemonic = "hour post hedgehog same laugh essence luxury hurt toast dilemma blue street";
+var mnemonic = "enough unable neglect decorate affair tool library develop bike room fan box";

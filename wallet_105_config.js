@@ -1,1 +1,1 @@
-var mnemonic = "need economy vicious say reform ignore smile edit amateur lucky blood print";
+var mnemonic = "height attack negative legend ranch end noble artefact matter final defense husband";

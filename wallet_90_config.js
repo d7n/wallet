@@ -1,1 +1,1 @@
-var mnemonic = "boost olive regret city gather cousin buffalo badge sweet destroy fat unit";
+var mnemonic = "cluster phone gate six tribe liquid liberty boss olive border grab notable";

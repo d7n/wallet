@@ -1,1 +1,1 @@
-var mnemonic = "convince begin kiss toe couple impose club execute surprise erosion ordinary peace";
+var mnemonic = "version endorse sport hire protect real fold hint curtain people swamp slender";

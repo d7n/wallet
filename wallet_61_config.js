@@ -1,1 +1,1 @@
-var mnemonic = "surface rare else alley present entire famous arrow gloom message carbon scare";
+var mnemonic = "smart coin ticket throw thought matter enjoy other render lounge slush yellow";

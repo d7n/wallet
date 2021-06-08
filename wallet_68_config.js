@@ -1,1 +1,1 @@
-var mnemonic = "hunt soon loop dirt board keen alpha evoke avoid evil frequent police";
+var mnemonic = "mushroom paddle demand sail mandate awesome arm agree cheese gown friend aspect";

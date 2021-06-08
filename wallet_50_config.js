@@ -1,1 +1,1 @@
-var mnemonic = "skill journey nice use decade access program flight mind divorce ethics mule";
+var mnemonic = "infant cluster rare pulp bright lyrics smoke museum unit sunny bone distance";

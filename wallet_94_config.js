@@ -1,1 +1,1 @@
-var mnemonic = "hero oppose hero moment zone blast romance morning melt fiber used error";
+var mnemonic = "midnight what perfect joy hair torch excuse history slam core stand order";

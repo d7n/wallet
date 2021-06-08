@@ -1,1 +1,1 @@
-var mnemonic = "push lonely romance true poet city garment profit cricket supply second random";
+var mnemonic = "peace tornado layer inmate whale rate mansion dress motion battle say hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "water ball kitchen above planet scheme fabric witness music parade slight blame";
+var mnemonic = "magic rescue index raven pilot sponsor minute exile find gasp observe warm";

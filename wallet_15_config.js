@@ -1,1 +1,1 @@
-var mnemonic = "trigger supreme shield rail drill stay general thing access element one canvas";
+var mnemonic = "stairs lumber social service base solid neglect infant donate chuckle regular age";

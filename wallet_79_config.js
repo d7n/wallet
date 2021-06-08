@@ -1,1 +1,1 @@
-var mnemonic = "siege shell sunny bread swarm disagree type east strike movie lamp inform";
+var mnemonic = "nasty angle river sugar scrap rug suffer load mask stomach hole grant";

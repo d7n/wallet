@@ -1,1 +1,1 @@
-var mnemonic = "version address mobile pony hedgehog retire slide imitate wasp summer obey fire";
+var mnemonic = "blade movie caution kiss embark million kit about income raw dinner sponsor";

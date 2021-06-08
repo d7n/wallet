@@ -1,1 +1,1 @@
-var mnemonic = "build impact gap swarm tornado impact hundred inform apart oven craft trophy";
+var mnemonic = "horn battle tower direct retreat casual divert genre rebel face need scare";

@@ -1,1 +1,1 @@
-var mnemonic = "winter home program load pause unhappy soup exhaust heart laptop long fire";
+var mnemonic = "jungle raven anger own hazard wish resist congress blast tourist option drink";

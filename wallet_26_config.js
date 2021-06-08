@@ -1,1 +1,1 @@
-var mnemonic = "happy hurt timber woman require stem hip powder distance scorpion arrow renew";
+var mnemonic = "need repeat inspire dutch purpose photo kidney flag goat maid fix firm";

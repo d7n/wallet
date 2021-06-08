@@ -1,1 +1,1 @@
-var mnemonic = "release lab fuel model honey bacon because observe coast used market alley";
+var mnemonic = "pill victory impose dog visual retire edge usual debate moon badge recycle";
