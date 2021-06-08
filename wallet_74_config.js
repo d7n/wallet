@@ -1,1 +1,1 @@
-var mnemonic = "voyage upper rib shaft above hour worry section record medal burger afford";
+var mnemonic = "brand blue lemon beyond climb best effort clump autumn rich sauce used";

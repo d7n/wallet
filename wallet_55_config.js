@@ -1,1 +1,1 @@
-var mnemonic = "lecture wet gentle interest weekend dignity fire plate uncover swamp afraid glove";
+var mnemonic = "genuine abstract egg drip cactus cash brass endorse salmon door differ gift";

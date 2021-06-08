@@ -1,1 +1,1 @@
-var mnemonic = "rally mass title brave antique round honey post ozone draft brass indicate";
+var mnemonic = "during topic tooth upon person alarm add lonely change knock dinner cloud";

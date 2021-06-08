@@ -1,1 +1,1 @@
-var mnemonic = "lab bomb labor trend return flight dish old report day dream return";
+var mnemonic = "hurt lemon abstract erase true staff actress sort purity sock rude actress";

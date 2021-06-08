@@ -1,1 +1,1 @@
-var mnemonic = "note physical math laugh color limb venture bridge card common turkey anxiety";
+var mnemonic = "youth tank oppose boring suspect carpet mail dolphin guess buzz era calm";

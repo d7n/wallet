@@ -1,1 +1,1 @@
-var mnemonic = "large alert garage thought winter sustain pass crash style velvet chunk shift";
+var mnemonic = "can venture hard quantum guard service flame reopen allow scrub leader save";

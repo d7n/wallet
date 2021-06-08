@@ -1,1 +1,1 @@
-var mnemonic = "blush town real wait know receive demise panther neither crane story cheap";
+var mnemonic = "excess truly fence fantasy doctor voyage truth stone surface program smooth earth";

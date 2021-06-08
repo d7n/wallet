@@ -1,1 +1,1 @@
-var mnemonic = "keep lazy neither swamp snack bulb coconut sweet level give melody garment";
+var mnemonic = "differ topic yellow mystery zero valve collect wash offer sadness license remain";

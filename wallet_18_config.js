@@ -1,1 +1,1 @@
-var mnemonic = "ketchup park indoor detect injury pen body address betray sell album step";
+var mnemonic = "trust chef abuse toy mutual arctic lion armor oppose absent sense soul";

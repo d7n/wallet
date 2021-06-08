@@ -1,1 +1,1 @@
-var mnemonic = "bulk truth fun cube member urge orange admit net chest toddler daughter";
+var mnemonic = "limb ridge deputy admit inflict method autumn phrase arena ship find vehicle";

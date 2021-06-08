@@ -1,1 +1,1 @@
-var mnemonic = "leave inhale odor square hurdle electric punch cherry toilet abuse tide upgrade";
+var mnemonic = "axis wrong relief force siren crunch carry party abuse speak wild rate";

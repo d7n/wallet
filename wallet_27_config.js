@@ -1,1 +1,1 @@
-var mnemonic = "relax gasp thing embody crack pig plate repair setup game clutch tomorrow";
+var mnemonic = "climb fat hedgehog roast pear wing dismiss nominee zero muffin surge budget";

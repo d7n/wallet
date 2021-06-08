@@ -1,1 +1,1 @@
-var mnemonic = "old bright seat rotate nasty until effort shrimp february devote garlic bracket";
+var mnemonic = "crater wisdom embrace life regular height they zero cable glove alien mix";

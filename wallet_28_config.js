@@ -1,1 +1,1 @@
-var mnemonic = "unknown cave cool runway ugly company fetch knife boy sadness grocery inherit";
+var mnemonic = "extend fiscal ceiling legal famous tuna sleep interest salad scorpion talent bottom";

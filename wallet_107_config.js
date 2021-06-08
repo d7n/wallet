@@ -1,1 +1,1 @@
-var mnemonic = "divert often blame normal orchard open couch husband exile cable spawn party";
+var mnemonic = "lake slab device dream drama math truck bulk action argue peace throw";

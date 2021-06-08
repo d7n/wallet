@@ -1,1 +1,1 @@
-var mnemonic = "average final include fall empower skill airport circle hurdle nurse abstract ripple";
+var mnemonic = "biology toy elbow entry muffin proof tennis coach achieve mountain fire print";

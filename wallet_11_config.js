@@ -1,1 +1,1 @@
-var mnemonic = "cargo runway plug arrange letter menu portion pistol girl type brush toilet";
+var mnemonic = "height truck over yard bundle erode leave cannon pretty spatial spice steak";

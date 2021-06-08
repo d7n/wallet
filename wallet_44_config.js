@@ -1,1 +1,1 @@
-var mnemonic = "lens duty essay tent season hockey away jealous skin adjust pilot primary";
+var mnemonic = "kid there syrup roast spy double other south fold outer avocado horror";

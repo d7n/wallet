@@ -1,1 +1,1 @@
-var mnemonic = "chuckle holiday master target tortoise under domain boy mask absurd garden mask";
+var mnemonic = "ball clock practice slab nuclear scheme forest episode polar dwarf work cannon";

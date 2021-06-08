@@ -1,1 +1,1 @@
-var mnemonic = "fame chalk acquire boss van young arch total glory shell spy visit";
+var mnemonic = "income play elephant fame outdoor finger debate company evil drink this someone";

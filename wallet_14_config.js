@@ -1,1 +1,1 @@
-var mnemonic = "near bag bullet empower join nuclear assist thought problem web dwarf race";
+var mnemonic = "magnet tomato slab hero noodle speak coin slice level best beef people";

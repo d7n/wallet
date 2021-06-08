@@ -1,1 +1,1 @@
-var mnemonic = "obvious size swallow initial warfare deputy snow mango cram already license solve";
+var mnemonic = "hero flash borrow range cigar dash myself inherit public copper inhale phrase";

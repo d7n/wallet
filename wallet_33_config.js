@@ -1,1 +1,1 @@
-var mnemonic = "surge sentence way today chat tribe submit hard coin hat winner embody";
+var mnemonic = "special avoid wide fragile dust survey estate advice venture acquire wild nerve";

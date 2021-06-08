@@ -1,1 +1,1 @@
-var mnemonic = "talk crew retreat east armor hurry salon reason unveil ankle pen horror";
+var mnemonic = "patrol verb hundred winter able ugly beauty find couch issue shallow left";

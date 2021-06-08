@@ -1,1 +1,1 @@
-var mnemonic = "execute dolphin benefit poet jeans skin dust track reward economy toilet document";
+var mnemonic = "gap swallow elder weapon rhythm silver grit bicycle ship chimney error unfold";

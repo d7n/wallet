@@ -1,1 +1,1 @@
-var mnemonic = "whale beach picture express fruit monitor history mountain fiction uphold intact game";
+var mnemonic = "logic vanish napkin table choose hair now useless base swamp toe route";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage pelican pitch deer pyramid behind awesome erosion damage enter all harvest";
+var mnemonic = "female group grit live sibling child opera kite junior woman citizen okay";

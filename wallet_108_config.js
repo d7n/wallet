@@ -1,1 +1,1 @@
-var mnemonic = "heavy device attend vibrant bean deliver price struggle flock way better quantum";
+var mnemonic = "unusual purse small say art invest crack cabbage exotic verify radio virtual";

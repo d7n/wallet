@@ -1,1 +1,1 @@
-var mnemonic = "resemble receive example transfer loan idle galaxy average choice label cupboard govern";
+var mnemonic = "umbrella peasant zone upper unhappy side buddy squeeze tennis repeat crew beach";

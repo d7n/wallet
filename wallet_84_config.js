@@ -1,1 +1,1 @@
-var mnemonic = "bread bind select twice matrix immense tattoo ocean element shift avoid focus";
+var mnemonic = "warm any heart search fatigue depend usual junior twin coast ocean series";

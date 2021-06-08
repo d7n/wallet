@@ -1,1 +1,1 @@
-var mnemonic = "camera filter theory fabric festival orange volcano put snow sunset phrase slice";
+var mnemonic = "space six twist angle return any bullet area luggage jaguar sunset mechanic";

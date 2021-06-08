@@ -1,1 +1,1 @@
-var mnemonic = "broccoli develop drift viable plate nature adjust game drift federal public view";
+var mnemonic = "update stereo elegant muscle denial room casino name blur year glow expect";

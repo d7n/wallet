@@ -1,1 +1,1 @@
-var mnemonic = "same fancy female knock match climb damage weapon maze pioneer involve gap";
+var mnemonic = "enact forum moment manage bike surprise front traffic sketch key exit fade";

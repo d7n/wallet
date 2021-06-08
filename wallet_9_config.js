@@ -1,1 +1,1 @@
-var mnemonic = "cause snap long mention method addict fly brief cargo puppy try soccer";
+var mnemonic = "truly time panel surprise faculty copper decade fitness duck say correct loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "priority useless corn solve fun february bus sun need mosquito board over";
+var mnemonic = "fashion charge bird borrow favorite basket lawn cruel art minimum angry genre";

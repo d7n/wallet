@@ -1,1 +1,1 @@
-var mnemonic = "split success floor tower emotion swap melody vapor permit test add venue";
+var mnemonic = "venue soap bundle real liberty problem corn make roast try between figure";

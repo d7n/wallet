@@ -1,1 +1,1 @@
-var mnemonic = "inquiry lamp marriage tired morning draw jewel comfort wear owner daughter cigar";
+var mnemonic = "give dry ankle fun hole east master large soccer comfort gas skill";

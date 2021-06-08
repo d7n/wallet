@@ -1,1 +1,1 @@
-var mnemonic = "invest leaf bag mule reveal cupboard cargo awake chapter disorder ribbon collect";
+var mnemonic = "flock goose symbol coconut spoon oil unaware label candy lava all father";

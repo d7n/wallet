@@ -1,1 +1,1 @@
-var mnemonic = "solve alter goat pride pioneer alter provide world mechanic suggest derive among";
+var mnemonic = "clever liberty whale crouch witness cereal enhance winner lottery attack immense exact";

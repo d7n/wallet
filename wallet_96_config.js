@@ -1,1 +1,1 @@
-var mnemonic = "neutral ramp rebel coconut torch boil alien assist lounge question fiber critic";
+var mnemonic = "later sport borrow perfect gold scatter humble dice feed easy employ pelican";

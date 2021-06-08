@@ -1,1 +1,1 @@
-var mnemonic = "example toe grid swap bargain honey fade absorb melt motion push escape";
+var mnemonic = "spy edit hello blue page author define possible they until crane mammal";

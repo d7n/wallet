@@ -1,1 +1,1 @@
-var mnemonic = "blame peasant spoon peanut bunker rain season soul arrive trick puppy adult";
+var mnemonic = "human load swallow deer laptop cash soda leg rose spirit cancel ramp";

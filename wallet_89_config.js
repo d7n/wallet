@@ -1,1 +1,1 @@
-var mnemonic = "garbage exhaust school fitness energy crowd peanut clerk school curious title bleak";
+var mnemonic = "deny cattle reason clip inherit pride glory enact night mansion ritual fringe";

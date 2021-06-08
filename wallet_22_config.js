@@ -1,1 +1,1 @@
-var mnemonic = "chase gown rotate swarm myth maple inquiry tiger leopard wolf island silent";
+var mnemonic = "ramp balance swarm gossip tissue vehicle cluster hedgehog fever blade exercise bamboo";

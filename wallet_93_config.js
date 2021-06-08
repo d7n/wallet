@@ -1,1 +1,1 @@
-var mnemonic = "cousin check fun physical minor submit party join few relief reduce shaft";
+var mnemonic = "lion brave taste kingdom arrange pigeon frame often link saddle they cute";

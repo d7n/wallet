@@ -1,1 +1,1 @@
-var mnemonic = "click autumn alcohol vibrant street inhale rival income chimney argue stuff office";
+var mnemonic = "bless fit argue stone poem system acquire critic project manual gown choice";

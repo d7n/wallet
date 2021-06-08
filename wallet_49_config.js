@@ -1,1 +1,1 @@
-var mnemonic = "prepare frame turkey ritual add fancy asthma move physical human green trap";
+var mnemonic = "lesson jar beyond dash photo entire capital lawsuit devote domain patient equal";

@@ -1,1 +1,1 @@
-var mnemonic = "drama capital topple joke relax husband opera friend daughter hand test grid";
+var mnemonic = "panic genre blur tank capital hour cannon sorry oppose scale orchard strategy";

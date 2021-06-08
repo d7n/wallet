@@ -1,1 +1,1 @@
-var mnemonic = "kiss okay fly design tunnel correct vast guess glow fog title mixture";
+var mnemonic = "shoulder broken amazing talk radar until flock negative toast source just surprise";

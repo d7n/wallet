@@ -1,1 +1,1 @@
-var mnemonic = "yellow display gap proud off boost pair deputy fluid bubble cycle laptop";
+var mnemonic = "mountain income school addict local team under shove flat where cover machine";

@@ -1,1 +1,1 @@
-var mnemonic = "robust soul turkey spell glide fade surprise hire seven august oil rain";
+var mnemonic = "palm flight liquid viable bamboo marble plastic hero sea crop spring royal";

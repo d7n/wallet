@@ -1,1 +1,1 @@
-var mnemonic = "jar drink flame business language predict dizzy ill salmon diet always echo";
+var mnemonic = "quick gesture monkey orphan leisure soap path eyebrow focus endless tribe leave";

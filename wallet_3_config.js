@@ -1,1 +1,1 @@
-var mnemonic = "choose outside cereal brass fog jungle spike bicycle eagle dismiss weasel normal";
+var mnemonic = "skull eager area manage close degree shield cart pond race fun differ";

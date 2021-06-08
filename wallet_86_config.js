@@ -1,1 +1,1 @@
-var mnemonic = "alter transfer damage bridge bean tortoise cruise board tenant truth monkey loud";
+var mnemonic = "favorite deputy timber business toe say limit attitude scan bid mushroom fiscal";

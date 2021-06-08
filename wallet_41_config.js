@@ -1,1 +1,1 @@
-var mnemonic = "patrol wonder allow derive right sentence pool nation infant quarter upset diet";
+var mnemonic = "arctic trend scout surface yard youth deputy total narrow bench virtual orient";

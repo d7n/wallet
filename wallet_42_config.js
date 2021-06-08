@@ -1,1 +1,1 @@
-var mnemonic = "collect grid boat track satisfy chapter predict lawsuit cycle smooth someone wolf";
+var mnemonic = "bronze session since outside dragon garment basic spatial picnic trick dad wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "will daring sun rival cave melt bean soldier radar earn slush income";
+var mnemonic = "globe warfare question wait online cross captain nature witness base believe buyer";

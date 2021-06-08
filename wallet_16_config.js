@@ -1,1 +1,1 @@
-var mnemonic = "street strike brain robust certain faculty gloom tomato account govern glide kiwi";
+var mnemonic = "segment iron silent save open range trouble ride burst laptop south bronze";

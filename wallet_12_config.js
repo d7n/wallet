@@ -1,1 +1,1 @@
-var mnemonic = "swamp fold worth cry heart transfer type miss blame parrot smile oxygen";
+var mnemonic = "mercy lamp genius confirm father tiny love media fluid turkey hunt bring";

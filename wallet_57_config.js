@@ -1,1 +1,1 @@
-var mnemonic = "hamster snack universe wear grain evil person wink flush gain muscle apart";
+var mnemonic = "crunch parent crater mansion same track nut glide fiber add faith fix";

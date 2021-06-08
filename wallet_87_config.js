@@ -1,1 +1,1 @@
-var mnemonic = "equip better robust crouch luggage trash execute grid crack quick author afford";
+var mnemonic = "point alone romance safe maze coral sorry cattle intact much vocal stereo";

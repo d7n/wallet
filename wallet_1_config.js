@@ -1,1 +1,1 @@
-var mnemonic = "much simple skill stomach assist script lemon coyote person lake task own";
+var mnemonic = "clever dash spoil spoil ask wheat balcony cat add trumpet okay trend";

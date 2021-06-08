@@ -1,1 +1,1 @@
-var mnemonic = "river flower detail violin giggle derive ring attack vanish cake interest action";
+var mnemonic = "topple pelican wrestle fatigue behind equal admit damage tooth invite volume mad";

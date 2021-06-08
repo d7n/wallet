@@ -1,1 +1,1 @@
-var mnemonic = "air marine return report juice increase first broccoli caught slice life course";
+var mnemonic = "bonus screen model thank unusual dust garbage chalk leopard digital exercise attend";

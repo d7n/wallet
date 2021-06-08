@@ -1,1 +1,1 @@
-var mnemonic = "uncle boss dentist enter polar bachelor stand usual cook wash inch tiny";
+var mnemonic = "snack scheme regret claim cheese woman choice tunnel bullet fiber toy danger";

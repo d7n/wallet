@@ -1,1 +1,1 @@
-var mnemonic = "carry walnut canvas morning vocal original twin donor pitch thank when industry";
+var mnemonic = "puzzle album fix random payment story valley comfort roast review author suffer";

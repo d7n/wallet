@@ -1,1 +1,1 @@
-var mnemonic = "volume tiger away estate chaos measure toast sunny genre govern disease story";
+var mnemonic = "term lawsuit theme oxygen produce flee rough odor ancient wrap enroll blue";

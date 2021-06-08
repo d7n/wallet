@@ -1,1 +1,1 @@
-var mnemonic = "under monitor assume victory acid gorilla winner ridge trigger trip depth dress";
+var mnemonic = "lawn physical brain eager diagram picture alarm donkey depend salmon shoe rare";

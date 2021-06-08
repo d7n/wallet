@@ -1,1 +1,1 @@
-var mnemonic = "faith calm purse fog affair clean audit blind joke agent degree trash";
+var mnemonic = "ability task song flower move degree excess input foster jazz speed amused";

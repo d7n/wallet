@@ -1,1 +1,1 @@
-var mnemonic = "concert situate obscure gloom head close have economy uphold knee number picnic";
+var mnemonic = "armed side rescue zoo law weather top resource ostrich bronze dress cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "fold brown priority box song exhaust impulse wink offer blood monkey dolphin";
+var mnemonic = "island bright mimic sauce between genius top light fortune rocket debate object";

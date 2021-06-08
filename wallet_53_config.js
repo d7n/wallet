@@ -1,1 +1,1 @@
-var mnemonic = "random combine pave loop job truth rabbit energy toilet fringe abandon gold";
+var mnemonic = "certain vast sea maid fatigue patrol reason visual anger enlist flush price";

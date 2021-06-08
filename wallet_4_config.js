@@ -1,1 +1,1 @@
-var mnemonic = "boring heavy guilt better dwarf produce sting smooth stairs term leader jelly";
+var mnemonic = "wedding improve direct nuclear use before purchase margin elite venture weekend anger";

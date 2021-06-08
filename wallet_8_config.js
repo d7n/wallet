@@ -1,1 +1,1 @@
-var mnemonic = "indicate coral expose bitter fox undo tell key sail always mercy sunny";
+var mnemonic = "town retreat crucial jeans hockey finish act absurd industry mix chalk student";

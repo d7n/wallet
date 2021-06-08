@@ -1,1 +1,1 @@
-var mnemonic = "interest mimic job basket supply sausage lens ball skin trap pizza mirror";
+var mnemonic = "sniff blossom want fix stone wood device pigeon latin reduce sniff album";

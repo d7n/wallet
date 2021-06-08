@@ -1,1 +1,1 @@
-var mnemonic = "mutual smoke melody yellow chimney other nasty ozone pulp airport limb afford";
+var mnemonic = "decide agree basket mercy beauty festival mosquito session crater sand hunt best";

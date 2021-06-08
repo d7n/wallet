@@ -1,1 +1,1 @@
-var mnemonic = "autumn ugly weapon crater message leaf prison manage fee decade horse strategy";
+var mnemonic = "upper that churn shrimp sweet pen rule ahead abstract silver find ostrich";

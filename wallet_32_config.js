@@ -1,1 +1,1 @@
-var mnemonic = "rival ribbon equal tunnel area area frame field city ignore narrow fetch";
+var mnemonic = "upon wild uniform symbol slow fish index luxury problem slam odor recycle";

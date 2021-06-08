@@ -1,1 +1,1 @@
-var mnemonic = "latin radar pencil flag second machine garden air shrimp spice doctor ring";
+var mnemonic = "mountain involve various barely prefer direct secret flock bottom manual husband parent";

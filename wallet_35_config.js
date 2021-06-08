@@ -1,1 +1,1 @@
-var mnemonic = "thumb coral evoke immense choice spoil attack cream invest school bunker faith";
+var mnemonic = "cabbage plastic opinion various analyst vehicle account marriage there trigger zero friend";

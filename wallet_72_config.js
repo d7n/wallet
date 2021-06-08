@@ -1,1 +1,1 @@
-var mnemonic = "wagon stem common thunder entry grace region endless yard ask put supply";
+var mnemonic = "that napkin hub candy girl vivid twelve pelican soul range spatial silly";

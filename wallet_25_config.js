@@ -1,1 +1,1 @@
-var mnemonic = "garlic craft fox cat mercy pair dynamic market human bullet word forest";
+var mnemonic = "team sauce plunge hurt tent piece guilt nothing outdoor palm margin trophy";

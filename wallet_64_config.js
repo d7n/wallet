@@ -1,1 +1,1 @@
-var mnemonic = "cactus regular fold toward risk craft rebel blanket creek tiny recall awkward";
+var mnemonic = "subject sphere couch hold luggage flush fog run project choice trouble wall";

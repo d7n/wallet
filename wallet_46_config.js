@@ -1,1 +1,1 @@
-var mnemonic = "twin brave tuna repair floor catalog story embrace crash client flower truth";
+var mnemonic = "name thank danger veteran bargain swap choose erode frame one arrow female";

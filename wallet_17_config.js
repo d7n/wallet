@@ -1,1 +1,1 @@
-var mnemonic = "base hollow various torch lady destroy fame pony salmon roof hobby rather";
+var mnemonic = "mad bounce harvest swallow surround purity issue daughter view nice plug youth";

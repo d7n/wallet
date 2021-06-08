@@ -1,1 +1,1 @@
-var mnemonic = "guilt creek spike village ladder oven click memory match curve unaware unique";
+var mnemonic = "okay garlic transfer punch popular zoo okay wheat news neck enact feed";

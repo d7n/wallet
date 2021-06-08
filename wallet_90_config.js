@@ -1,1 +1,1 @@
-var mnemonic = "hobby ramp provide shy dove void laugh vivid basic swallow pond idea";
+var mnemonic = "tip odor twice toe faint pelican parrot sound amateur milk broken key";

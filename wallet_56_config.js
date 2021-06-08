@@ -1,1 +1,1 @@
-var mnemonic = "hundred city merge sphere tornado involve behave radio recipe author group bracket";
+var mnemonic = "fiction link tobacco garden eight whale detect lake sun twelve end lecture";

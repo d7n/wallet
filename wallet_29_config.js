@@ -1,1 +1,1 @@
-var mnemonic = "believe renew capable sand fluid toast bonus armor wealth cigar gallery address";
+var mnemonic = "ankle certain path myself club engine glance spray acoustic ensure warfare priority";

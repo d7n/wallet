@@ -1,1 +1,1 @@
-var mnemonic = "common race blood wheel crash priority wagon throw peanut adapt anxiety steel";
+var mnemonic = "permit tiger trophy hurry setup field hip resemble pill hello walk limb";
