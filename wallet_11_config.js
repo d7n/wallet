@@ -1,1 +1,1 @@
-var mnemonic = "consider exchange toilet flavor eagle sight balance bleak judge defy bike alley";
+var mnemonic = "chicken follow fortune middle help response century pitch scrub major panic liberty";

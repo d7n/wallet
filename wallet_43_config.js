@@ -1,1 +1,1 @@
-var mnemonic = "sister virus skill garage any derive pull boil negative memory hill since";
+var mnemonic = "clip endless cruise ketchup piano vault skull zebra dentist begin angry input";

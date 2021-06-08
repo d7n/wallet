@@ -1,1 +1,1 @@
-var mnemonic = "lonely sound impose grant humble glide island model canyon simple near enforce";
+var mnemonic = "surround first ranch trend wine trial parent trip disagree stool since dash";

@@ -1,1 +1,1 @@
-var mnemonic = "reason drive fat govern float net valley seat corn camera drill scan";
+var mnemonic = "menu fault credit meadow squirrel science fantasy office visa wild beef life";

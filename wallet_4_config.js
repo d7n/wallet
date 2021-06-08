@@ -1,1 +1,1 @@
-var mnemonic = "april muffin pave sorry erase awesome sunset join game seven doctor topic";
+var mnemonic = "biology mutual belt resist animal autumn rubber easy affair tone wing upset";

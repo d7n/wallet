@@ -1,1 +1,1 @@
-var mnemonic = "animal total visit response session opinion turn age object cannon fortune also";
+var mnemonic = "age upset rack silk innocent bid talk uphold abuse miracle balance curious";

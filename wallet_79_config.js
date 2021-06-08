@@ -1,1 +1,1 @@
-var mnemonic = "border save shine glow grass match museum antenna organ jaguar orphan cousin";
+var mnemonic = "cushion imitate city hazard expose nuclear benefit bitter select kiwi valve ramp";

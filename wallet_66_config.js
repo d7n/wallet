@@ -1,1 +1,1 @@
-var mnemonic = "chimney exchange energy exhaust state bamboo husband answer harvest squeeze paddle certain";
+var mnemonic = "hover unhappy blood sing biology obtain piano avoid option napkin region nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor grass leader observe output buffalo venture settle method behave acoustic rookie";
+var mnemonic = "shell power wine urge sure globe exhaust portion enact inflict crowd pride";

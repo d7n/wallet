@@ -1,1 +1,1 @@
-var mnemonic = "birth fee funny arrive rubber raven cloud exhaust search detail blouse sound";
+var mnemonic = "castle blade student melt race can suffer glare edit suggest paper saddle";

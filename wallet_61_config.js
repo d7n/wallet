@@ -1,1 +1,1 @@
-var mnemonic = "six vehicle drastic quiz exclude nest young fish siege write foam bamboo";
+var mnemonic = "close skate rent clinic dutch name special avoid anchor own critic draw";

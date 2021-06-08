@@ -1,1 +1,1 @@
-var mnemonic = "leader evoke eye off finger height pottery vanish talk token then enjoy";
+var mnemonic = "puppy lunch lumber acoustic bleak ski recycle easily season ordinary destroy rug";

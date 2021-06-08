@@ -1,1 +1,1 @@
-var mnemonic = "style aspect hobby open rhythm chunk achieve remove broken dream own length";
+var mnemonic = "rice liar raise rent small social focus boost gospel essay time differ";

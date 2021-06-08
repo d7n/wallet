@@ -1,1 +1,1 @@
-var mnemonic = "hamster giggle fetch junior nuclear pink leg junior rug bitter awful original";
+var mnemonic = "kiwi below zoo tonight whip obvious response source swear seed silent boring";

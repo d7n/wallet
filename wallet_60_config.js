@@ -1,1 +1,1 @@
-var mnemonic = "bike afraid van couple today will crowd sock soldier father magic tilt";
+var mnemonic = "flame knee load proud copy window engine soccer donor comfort menu cable";

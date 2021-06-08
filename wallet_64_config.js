@@ -1,1 +1,1 @@
-var mnemonic = "muffin innocent gain essence basic slim foam deputy entry decrease walk twice";
+var mnemonic = "genius glimpse enough online faculty useless reform orchard fatigue brother hat pet";

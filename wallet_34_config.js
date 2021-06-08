@@ -1,1 +1,1 @@
-var mnemonic = "nest put caution country similar cattle bless march spray buyer clip jealous";
+var mnemonic = "scatter matter stone atom hope height half family frame begin head device";

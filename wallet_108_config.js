@@ -1,1 +1,1 @@
-var mnemonic = "debate alien blade globe mutual ritual game fall antique include sock enlist";
+var mnemonic = "pave tell witness input wisdom narrow hundred grass dog toast sunset educate";

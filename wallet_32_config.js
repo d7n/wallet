@@ -1,1 +1,1 @@
-var mnemonic = "drastic web journey rib any early antenna region feature lesson naive sail";
+var mnemonic = "warfare gallery grunt toddler slot custom speed mystery snack replace carry faculty";

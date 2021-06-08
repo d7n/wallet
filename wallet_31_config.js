@@ -1,1 +1,1 @@
-var mnemonic = "fade bunker damage fade affair fog swing ocean nature draw bunker apple";
+var mnemonic = "stool ranch velvet illegal assault despair north coach very hurdle swear mountain";

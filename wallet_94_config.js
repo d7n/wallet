@@ -1,1 +1,1 @@
-var mnemonic = "razor core cannon vanish identify oval trap expire surprise eight pattern special";
+var mnemonic = "jelly simple essence camp only else stick wood puzzle expect puppy palace";

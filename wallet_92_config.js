@@ -1,1 +1,1 @@
-var mnemonic = "fault supreme inch copy sign aspect suit foster shift gallery muscle choose";
+var mnemonic = "atom ready elegant juice front antique walnut now resist twin party festival";

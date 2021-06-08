@@ -1,1 +1,1 @@
-var mnemonic = "away wish raccoon final blame income peace push spell goose similar win";
+var mnemonic = "camp food supreme physical inmate beach shrug seek blossom beyond main car";

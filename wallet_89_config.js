@@ -1,1 +1,1 @@
-var mnemonic = "vanish kidney depend reject guess resource steel castle verify dragon veteran battle";
+var mnemonic = "clock state monkey cushion arrow chuckle weather theme stick address about hip";

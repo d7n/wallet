@@ -1,1 +1,1 @@
-var mnemonic = "camp leave nasty quality razor evidence elite old alcohol abstract purpose base";
+var mnemonic = "argue slide imitate razor edit extra half doll spy yard cheese portion";

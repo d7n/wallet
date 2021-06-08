@@ -1,1 +1,1 @@
-var mnemonic = "local jewel pepper patient earth life noise switch struggle snake accident quarter";
+var mnemonic = "truck rely swallow bright insect judge any share exact install pyramid wonder";

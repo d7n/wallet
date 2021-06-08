@@ -1,1 +1,1 @@
-var mnemonic = "book trash enough outer logic plug meadow grit search mobile model priority";
+var mnemonic = "camp issue dad glove tourist cash teach play urge allow lift mechanic";

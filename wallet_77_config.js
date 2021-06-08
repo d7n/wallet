@@ -1,1 +1,1 @@
-var mnemonic = "fame pear echo wing bundle chef rain dragon burger year wild purchase";
+var mnemonic = "news symbol focus connect have glad hamster fix goose camera pupil glide";

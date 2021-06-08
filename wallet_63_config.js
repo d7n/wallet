@@ -1,1 +1,1 @@
-var mnemonic = "pig pepper alien joke slim occur have estate neutral humor episode project";
+var mnemonic = "lift tray craft weapon robust okay diesel setup exhaust chair mushroom oak";

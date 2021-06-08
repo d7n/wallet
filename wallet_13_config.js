@@ -1,1 +1,1 @@
-var mnemonic = "daughter much tree erupt abuse pigeon industry finger change shop ladder jewel";
+var mnemonic = "clean detect conduct evil ahead submit shoulder visual dizzy bachelor stone voyage";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot leave ring invest south wisdom caught service hammer edit edge apart";
+var mnemonic = "wheel tomato knock tobacco damp still tennis true acid solve panther circle";

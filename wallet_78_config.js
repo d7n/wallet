@@ -1,1 +1,1 @@
-var mnemonic = "void curtain tongue obscure moon off plunge near wild toe chimney brass";
+var mnemonic = "miracle sure task stairs buzz charge august candy answer judge weather suspect";

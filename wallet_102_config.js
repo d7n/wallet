@@ -1,1 +1,1 @@
-var mnemonic = "sock discover exclude average remain remind evidence simple series there wave height";
+var mnemonic = "enforce horror gain search stairs zone noodle grab enter present run assault";

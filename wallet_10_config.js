@@ -1,1 +1,1 @@
-var mnemonic = "abandon grant finish camp suit observe acid exercise wagon noodle motion able";
+var mnemonic = "drastic chaos sign flip accuse hidden miracle stem core deny despair better";

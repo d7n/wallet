@@ -1,1 +1,1 @@
-var mnemonic = "develop category during flight chest reduce retreat test general lend amount erupt";
+var mnemonic = "cage welcome sleep chair notice juice orphan barely cereal question spike pizza";

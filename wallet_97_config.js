@@ -1,1 +1,1 @@
-var mnemonic = "brush winter harvest busy notice curtain cloud bread grit festival drill post";
+var mnemonic = "cluster auto misery acquire reward tumble client hunt zoo corn noodle security";

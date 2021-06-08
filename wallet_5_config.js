@@ -1,1 +1,1 @@
-var mnemonic = "cake fix cruise general again plunge lounge seed unit attitude despair portion";
+var mnemonic = "sail plastic lumber anxiety kitten visit book once inch addict skirt rate";

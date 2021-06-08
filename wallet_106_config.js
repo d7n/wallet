@@ -1,1 +1,1 @@
-var mnemonic = "bag split warm pistol love advance battle clay middle below entry decline";
+var mnemonic = "wild guess glory movie sell motion silent drive satoshi regular tennis silent";

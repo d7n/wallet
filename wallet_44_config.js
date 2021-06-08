@@ -1,1 +1,1 @@
-var mnemonic = "radar ticket gadget coast dizzy glare tip material inside truth carbon drop";
+var mnemonic = "fossil ecology ready friend then present maximum nephew replace plug paper inner";

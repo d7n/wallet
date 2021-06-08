@@ -1,1 +1,1 @@
-var mnemonic = "spell recall distance body boss piece drip tone label meadow income magic";
+var mnemonic = "universe lawn face horn cement sense slab maid comfort trick river apology";

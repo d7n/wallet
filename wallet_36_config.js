@@ -1,1 +1,1 @@
-var mnemonic = "wait morning fuel corn false citizen stick crunch spice east august length";
+var mnemonic = "season bullet rail sting twelve seek submit outside bounce object sphere one";

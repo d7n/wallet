@@ -1,1 +1,1 @@
-var mnemonic = "stereo dynamic hard sail velvet round correct measure comfort twist earn garlic";
+var mnemonic = "permit nephew gun evidence again cousin earn crystal high used face bench";

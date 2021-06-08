@@ -1,1 +1,1 @@
-var mnemonic = "pause crumble gown east jaguar human segment exist upgrade omit minor inject";
+var mnemonic = "tumble total brisk vendor issue cousin slim now mobile gentle morning cable";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos twelve now region cup punch artwork congress vivid proud forum blur";
+var mnemonic = "load tent frost drama drift hammer explain emotion confirm sibling raise boil";

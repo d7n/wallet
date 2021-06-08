@@ -1,1 +1,1 @@
-var mnemonic = "push wreck mammal puppy board screen sorry certain mass tribe good frame";
+var mnemonic = "soon believe absurd force february body economy breeze win minor adult ice";

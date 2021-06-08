@@ -1,1 +1,1 @@
-var mnemonic = "build parade common frame column nephew atom fantasy equal pride tower pitch";
+var mnemonic = "foam mail parrot delay later ecology champion fix cram empty flip copper";

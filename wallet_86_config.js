@@ -1,1 +1,1 @@
-var mnemonic = "chaos cat nominee diet gauge stadium track roof wheat key cotton oil";
+var mnemonic = "fix increase outer garage cube reward amazing recycle coach space feel spot";

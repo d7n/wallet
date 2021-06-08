@@ -1,1 +1,1 @@
-var mnemonic = "ribbon butter body forward special absorb glance ready throw trap rent radio";
+var mnemonic = "alarm enjoy about minute slot fog huge sight charge desk soft surface";

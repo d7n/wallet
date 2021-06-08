@@ -1,1 +1,1 @@
-var mnemonic = "member poem soft squirrel gas toward purchase company conduct joy submit bring";
+var mnemonic = "host happy team tongue lounge trigger primary security click curve stem drift";

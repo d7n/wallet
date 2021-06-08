@@ -1,1 +1,1 @@
-var mnemonic = "garden all such eager master harbor damp tiger hen comfort social utility";
+var mnemonic = "wrestle another fruit pattern desert desert depth cost bid hidden burden during";

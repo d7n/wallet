@@ -1,1 +1,1 @@
-var mnemonic = "consider elegant illness help forest old miracle cereal bar jelly hint inhale";
+var mnemonic = "mixture essay combine crawl trend virtual melody knife outside suggest online anger";

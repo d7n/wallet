@@ -1,1 +1,1 @@
-var mnemonic = "crunch canyon couch wash ten scrub dream wave digital arrow ostrich brain";
+var mnemonic = "gas twice certain gas cart scout must flag auto wise company bargain";

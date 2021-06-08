@@ -1,1 +1,1 @@
-var mnemonic = "empower cage sugar dress grief one copy wonder path agent admit auction";
+var mnemonic = "shove master differ climb erosion rough hospital side distance ordinary wing region";

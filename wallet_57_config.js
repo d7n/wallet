@@ -1,1 +1,1 @@
-var mnemonic = "stairs crumble crack spawn dice luggage cool empty forum ghost response injury";
+var mnemonic = "oblige secret fetch trial derive test sausage sorry puppy jacket junk impact";

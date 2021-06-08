@@ -1,1 +1,1 @@
-var mnemonic = "illness loyal can crew rookie marine laundry enhance name flip wrestle escape";
+var mnemonic = "unlock spawn gospel fox employ attitude neglect barely noise trumpet donor garment";

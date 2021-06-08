@@ -1,1 +1,1 @@
-var mnemonic = "drama crush pink ankle flag will able truck aspect hotel destroy draw";
+var mnemonic = "blood gospel proof scatter tape alien engage staff print symptom pave analyst";

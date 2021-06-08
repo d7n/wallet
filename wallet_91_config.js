@@ -1,1 +1,1 @@
-var mnemonic = "small choose alter lava cancel convince sweet caution depart word furnace utility";
+var mnemonic = "train egg huge punch garlic name mad coast surround warm assist alley";

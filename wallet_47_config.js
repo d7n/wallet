@@ -1,1 +1,1 @@
-var mnemonic = "logic quarter laugh ill know exist mixed reject execute purse actor load";
+var mnemonic = "vague clown way very term doctor bachelor alcohol monster pride evoke occur";

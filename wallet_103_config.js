@@ -1,1 +1,1 @@
-var mnemonic = "soul mandate news zero river can sleep object rail liberty rely across";
+var mnemonic = "sea side film nothing dignity always light when chief fossil cry egg";

@@ -1,1 +1,1 @@
-var mnemonic = "amused battle exit trick task minute earth emerge method timber video spin";
+var mnemonic = "hand cannon combine bike pigeon wool flee walk census sad topple sand";

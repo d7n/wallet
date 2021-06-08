@@ -1,1 +1,1 @@
-var mnemonic = "tunnel luggage tower van reflect inflict lumber recycle tissue humor crystal aisle";
+var mnemonic = "rack drum only permit excess exact bone ticket march brother idea chaos";

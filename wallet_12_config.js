@@ -1,1 +1,1 @@
-var mnemonic = "razor fire episode debate seat music oil slide hen setup cry actor";
+var mnemonic = "gap duck auto know plug island around enjoy congress draft holiday harsh";

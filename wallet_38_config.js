@@ -1,1 +1,1 @@
-var mnemonic = "virus move fly enough elegant same suit exile people child capable seminar";
+var mnemonic = "boil please impact harsh play kick type shoe affair axis easily rabbit";

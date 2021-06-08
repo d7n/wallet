@@ -1,1 +1,1 @@
-var mnemonic = "action umbrella fox toy forget number sight width congress ask garden panic";
+var mnemonic = "marine radio camp idea mosquito swing cram bullet say car uncover turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "hen draft mosquito bomb network eye energy slide wide diesel once race";
+var mnemonic = "mercy basket erase special brain vicious focus prison balcony rival angle cat";

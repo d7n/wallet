@@ -1,1 +1,1 @@
-var mnemonic = "zoo wire tornado strong peasant canvas thought pepper escape maze chair key";
+var mnemonic = "resource alpha student useless scan excuse angry praise tree asset hover reopen";

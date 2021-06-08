@@ -1,1 +1,1 @@
-var mnemonic = "absorb afford extra zoo hammer enhance jewel face next lens ten life";
+var mnemonic = "torch ritual flower swallow visa address three sugar nerve toddler novel onion";

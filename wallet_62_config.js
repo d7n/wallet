@@ -1,1 +1,1 @@
-var mnemonic = "promote body knock hour grape trade undo certain maple home brick remind";
+var mnemonic = "stem visit leisure metal repeat pride hunt spatial tag essence grape include";

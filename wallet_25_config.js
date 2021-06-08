@@ -1,1 +1,1 @@
-var mnemonic = "sun remember wild finish clap pond cradle swamp glide foster stumble treat";
+var mnemonic = "monster enough cricket fancy crazy catalog pond village slice glance audit ketchup";

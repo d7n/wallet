@@ -1,1 +1,1 @@
-var mnemonic = "wolf drip olive target staff sentence canal bridge warm knee drink drama";
+var mnemonic = "slender final slush clerk doctor hospital safe urban churn fine spike final";

@@ -1,1 +1,1 @@
-var mnemonic = "any case swear space daughter monster edit giggle payment east under tomato";
+var mnemonic = "ski develop advice before effort next distance robust devote copper roast chief";

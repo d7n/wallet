@@ -1,1 +1,1 @@
-var mnemonic = "news option mass garlic duck guitar during design symbol public such differ";
+var mnemonic = "keen blossom where sea message burden veteran super loud glance blade olive";

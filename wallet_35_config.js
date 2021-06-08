@@ -1,1 +1,1 @@
-var mnemonic = "beach surface stable scene accident morning flavor valve reflect blind fit open";
+var mnemonic = "stone because armed door limit surface syrup drop twenty wood rocket kid";

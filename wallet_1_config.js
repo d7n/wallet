@@ -1,1 +1,1 @@
-var mnemonic = "wrestle scout detail decorate actual hawk anger cave ozone raccoon city category";
+var mnemonic = "rigid behind grocery spoil pole vibrant faith ribbon magic when forest rude";

@@ -1,1 +1,1 @@
-var mnemonic = "virus diet spirit regular own donor vendor recycle stumble venue weather shoot";
+var mnemonic = "melt blanket monster proud detail current fiscal live maid material entire olympic";

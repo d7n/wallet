@@ -1,1 +1,1 @@
-var mnemonic = "pitch bacon economy observe carpet friend choose quality oxygen noble whale end";
+var mnemonic = "knee aerobic position fatigue night awkward episode shaft current remember industry west";

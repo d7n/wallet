@@ -1,1 +1,1 @@
-var mnemonic = "remove parrot emerge limit east ignore purse page text abandon pottery pigeon";
+var mnemonic = "joy street clarify afford over slogan sting mosquito awkward crush royal scrap";

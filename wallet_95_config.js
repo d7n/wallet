@@ -1,1 +1,1 @@
-var mnemonic = "fever frozen very find explain toward range sense bus session lion offer";
+var mnemonic = "section miss boy urban situate video love pizza ahead clarify leader exact";

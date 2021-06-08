@@ -1,1 +1,1 @@
-var mnemonic = "flock edge badge enable dad bonus orchard nice tiger foot party destroy";
+var mnemonic = "item frown expect onion attitude stamp kidney person genre casual update army";

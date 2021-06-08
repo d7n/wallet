@@ -1,1 +1,1 @@
-var mnemonic = "canoe expect left rabbit appear tired lift flag effort strong correct sting";
+var mnemonic = "shoe shine prefer ozone insect head master birth cart jaguar noodle grief";

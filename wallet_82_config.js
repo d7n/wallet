@@ -1,1 +1,1 @@
-var mnemonic = "spike sport struggle cloud output head video diamond security clock veteran any";
+var mnemonic = "cruel effort useless salad figure enact keep flame brown timber genuine ocean";

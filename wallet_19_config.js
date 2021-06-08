@@ -1,1 +1,1 @@
-var mnemonic = "elite then toast sun insane trigger wine you wise lonely predict choose";
+var mnemonic = "beach olympic twice write team multiply diamond universe broccoli exclude monster state";

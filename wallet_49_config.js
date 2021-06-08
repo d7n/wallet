@@ -1,1 +1,1 @@
-var mnemonic = "couple major zoo car flash helmet hybrid measure joy begin shy put";
+var mnemonic = "slim obvious kiss lounge trash soft tilt shock brother process deal wise";

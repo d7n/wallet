@@ -1,1 +1,1 @@
-var mnemonic = "stone surface hurt lucky secret claim toast rubber rally market aware source";
+var mnemonic = "usage claim wool sister swamp capable kite define equip panther first net";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh black meadow believe uncle maid cloth attitude april inject wrestle calm";
+var mnemonic = "position resource cricket aerobic chief goose lesson rent achieve vivid seed cage";

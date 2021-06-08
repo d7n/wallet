@@ -1,1 +1,1 @@
-var mnemonic = "mad gasp black problem battle habit device coil next novel champion eagle";
+var mnemonic = "addict trash shove have review cotton idea arch case grape floor improve";

@@ -1,1 +1,1 @@
-var mnemonic = "valve clip join pistol display width barrel annual oven scale fitness tree";
+var mnemonic = "rough still section stock consider dawn sphere lend industry detail badge wedding";

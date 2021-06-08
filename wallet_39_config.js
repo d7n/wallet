@@ -1,1 +1,1 @@
-var mnemonic = "fantasy reduce finish ceiling approve fiction humor improve exchange lonely jump brave";
+var mnemonic = "same history cricket fog scheme collect this gain dumb despair cool bamboo";

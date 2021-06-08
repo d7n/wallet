@@ -1,1 +1,1 @@
-var mnemonic = "material egg honey banana save timber alert whip wear swamp method chair";
+var mnemonic = "lemon club bulb person among cram soap choice scout remove stage napkin";
