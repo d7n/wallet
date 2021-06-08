@@ -1,1 +1,1 @@
-var mnemonic = "school define maid move remind piano amateur apart empty code network dash";
+var mnemonic = "empty candy hover visa write stage winner jazz cluster typical illegal sister";

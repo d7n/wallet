@@ -1,1 +1,1 @@
-var mnemonic = "planet ice bean return mixed exile unhappy box replace library bitter solution";
+var mnemonic = "sword toss marble pluck absent begin grid remove flee fan torch give";

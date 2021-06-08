@@ -1,1 +1,1 @@
-var mnemonic = "open lazy retire wrestle add medal liar engage rifle flat sail smooth";
+var mnemonic = "because copy they cash slim sphere screen theme river pilot group release";

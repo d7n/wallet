@@ -1,1 +1,1 @@
-var mnemonic = "perfect eyebrow lobster protect mistake infant physical debris cute dumb pyramid oval";
+var mnemonic = "banner post window remember dragon stable raven flee mad now crunch scrap";

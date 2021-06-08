@@ -1,1 +1,1 @@
-var mnemonic = "exit cheap chapter tide hotel fiction monkey behind table desk hat open";
+var mnemonic = "shrimp debris glass left pistol dilemma female odor column wish muffin magnet";

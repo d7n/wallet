@@ -1,1 +1,1 @@
-var mnemonic = "shoulder payment between topple reform impulse proof flame exit asset pulse pond";
+var mnemonic = "gather long riot antique food crowd shadow brisk gate glad chuckle craft";

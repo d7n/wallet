@@ -1,1 +1,1 @@
-var mnemonic = "velvet dawn half people double wet mom art wise spend bleak wide";
+var mnemonic = "oppose desk misery jump model enjoy vessel core derive cinnamon used scare";

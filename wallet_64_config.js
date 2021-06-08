@@ -1,1 +1,1 @@
-var mnemonic = "shy surprise pear student reflect tank team vote rhythm toe luxury habit";
+var mnemonic = "start brick wash lecture cliff face sweet slow stumble dismiss extend clip";

@@ -1,1 +1,1 @@
-var mnemonic = "blade movie caution kiss embark million kit about income raw dinner sponsor";
+var mnemonic = "nuclear aunt mixture rookie define cruise monitor senior venue amazing avoid animal";

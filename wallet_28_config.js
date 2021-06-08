@@ -1,1 +1,1 @@
-var mnemonic = "tourist snake adapt leave jaguar vague act they pet off promote inherit";
+var mnemonic = "lesson leave chaos brisk asthma inherit agent laugh demise gospel ecology wave";

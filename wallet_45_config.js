@@ -1,1 +1,1 @@
-var mnemonic = "because wink boat rent video garage abandon case develop flock raise inherit";
+var mnemonic = "seminar analyst ginger scissors grab under regret grass gown train inside walnut";

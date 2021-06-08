@@ -1,1 +1,1 @@
-var mnemonic = "hen ceiling another indoor biology click final luggage top clock gasp tuition";
+var mnemonic = "shallow bar night weather gospel hungry wagon adult okay fog fiscal unique";

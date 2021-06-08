@@ -1,1 +1,1 @@
-var mnemonic = "van plunge help future offer crawl shadow reunion angry end gallery follow";
+var mnemonic = "tent explain essay dove space also crystal few stage salon banner bounce";

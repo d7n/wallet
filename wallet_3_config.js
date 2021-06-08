@@ -1,1 +1,1 @@
-var mnemonic = "alcohol envelope follow news kite offer assault ask chapter suit attack baby";
+var mnemonic = "fitness measure puzzle local vapor fine pen monkey hotel legend grit spray";

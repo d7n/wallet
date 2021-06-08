@@ -1,1 +1,1 @@
-var mnemonic = "right swarm meadow pig motor acquire choice sketch mosquito load grocery pill";
+var mnemonic = "make anger tube chuckle pitch grant lizard lemon cushion middle possible arm";

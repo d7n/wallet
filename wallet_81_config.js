@@ -1,1 +1,1 @@
-var mnemonic = "enough unable neglect decorate affair tool library develop bike room fan box";
+var mnemonic = "coil oppose already bulk oppose position balance sign peace bag brand glide";

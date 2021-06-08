@@ -1,1 +1,1 @@
-var mnemonic = "initial that access siren foam pull donor omit manage shop matrix stable";
+var mnemonic = "auction inform myth often ginger garden any final affair cereal human nominee";

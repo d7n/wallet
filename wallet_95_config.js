@@ -1,1 +1,1 @@
-var mnemonic = "photo quick there trigger magic write junior pottery cable illegal smoke enter";
+var mnemonic = "apple public public will sample shiver hobby road bracket opera nose mango";

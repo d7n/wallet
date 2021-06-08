@@ -1,1 +1,1 @@
-var mnemonic = "mushroom paddle demand sail mandate awesome arm agree cheese gown friend aspect";
+var mnemonic = "benefit thought stadium glare ask blur item hawk fly wheat mom layer";

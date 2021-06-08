@@ -1,1 +1,1 @@
-var mnemonic = "picnic nasty hill monkey solid tail actual spend vapor genre crumble barrel";
+var mnemonic = "artwork silk index decrease dynamic quiz detail human odor tunnel code service";

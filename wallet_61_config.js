@@ -1,1 +1,1 @@
-var mnemonic = "smart coin ticket throw thought matter enjoy other render lounge slush yellow";
+var mnemonic = "famous muffin used lens improve timber love custom gate mansion that face";

@@ -1,1 +1,1 @@
-var mnemonic = "museum liar kit grit pass page filter picnic finger club pitch flush";
+var mnemonic = "bicycle leaf garlic label guitar diamond code doll path student rabbit mandate";

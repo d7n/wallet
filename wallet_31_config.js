@@ -1,1 +1,1 @@
-var mnemonic = "gaze board cupboard hill barely impulse call embrace tornado smile favorite lawn";
+var mnemonic = "misery real picnic wink fatal purpose market advice quarter knock pilot minute";

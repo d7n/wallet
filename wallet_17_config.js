@@ -1,1 +1,1 @@
-var mnemonic = "country future frame mean love later shine bargain gossip palace enable burst";
+var mnemonic = "infant smooth maximum phone shy muscle diary uncover practice air paper erase";

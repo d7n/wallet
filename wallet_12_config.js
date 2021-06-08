@@ -1,1 +1,1 @@
-var mnemonic = "ignore infant remove maze one raw cricket pet decrease decade buzz fortune";
+var mnemonic = "reject define amused symptom plug mention awkward tail grape transfer find target";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff buzz average wedding leaf genre improve august worth reveal sail guilt";
+var mnemonic = "citizen pelican vessel view boat wink giant match bright impose globe swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight what perfect joy hair torch excuse history slam core stand order";
+var mnemonic = "bargain soup chaos recycle spy gauge draft firm mirror unknown script elegant";

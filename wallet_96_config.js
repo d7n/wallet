@@ -1,1 +1,1 @@
-var mnemonic = "erosion gaze brisk copper guilt poem erupt roast return orange cricket rain";
+var mnemonic = "pear evoke canvas inmate jealous slice fit process faint carpet woman tell";

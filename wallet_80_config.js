@@ -1,1 +1,1 @@
-var mnemonic = "across cradle keep anchor bench attitude local pudding invest glide category tonight";
+var mnemonic = "clap vendor orbit hip accuse wedding music hand dentist melt purity help";

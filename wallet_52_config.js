@@ -1,1 +1,1 @@
-var mnemonic = "royal clarify punch brush flag pluck diamond forget situate guilt cram amateur";
+var mnemonic = "dash sample outer sense volcano evolve federal call series popular orphan able";

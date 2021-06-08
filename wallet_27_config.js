@@ -1,1 +1,1 @@
-var mnemonic = "bike pyramid attract just february already task symptom eye upon index action";
+var mnemonic = "misery treat wave position bonus sponsor roof flash whip kid december tired";

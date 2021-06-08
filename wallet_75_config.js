@@ -1,1 +1,1 @@
-var mnemonic = "blind jealous cannon sort first donkey arm turkey hip math unique ranch";
+var mnemonic = "auto thank ability tent cushion maximum board noble tag torch amused blast";

@@ -1,1 +1,1 @@
-var mnemonic = "license mandate brother ugly boil crush battle pitch embody lunar nose west";
+var mnemonic = "desert swear write charge finish suit office pet motor oyster pass panda";

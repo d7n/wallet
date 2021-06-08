@@ -1,1 +1,1 @@
-var mnemonic = "match able debate kitten purse illness vapor assist belt salute amazing lamp";
+var mnemonic = "special neglect source reunion target claw favorite toe among world goddess push";

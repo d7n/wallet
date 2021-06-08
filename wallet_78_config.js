@@ -1,1 +1,1 @@
-var mnemonic = "obvious stock example soap patient speed interest unveil beauty age fan guitar";
+var mnemonic = "seek cabin ignore measure decide jealous plate script toward mushroom old copper";

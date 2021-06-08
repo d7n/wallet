@@ -1,1 +1,1 @@
-var mnemonic = "layer three foot target scan universe hire tragic kiss adapt electric immune";
+var mnemonic = "pair citizen melt employ organ conduct nice night frost uphold butter lounge";

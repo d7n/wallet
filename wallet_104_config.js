@@ -1,1 +1,1 @@
-var mnemonic = "version endorse sport hire protect real fold hint curtain people swamp slender";
+var mnemonic = "cruel brick nothing lesson wage trade connect rotate van mouse bone remember";

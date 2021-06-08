@@ -1,1 +1,1 @@
-var mnemonic = "need repeat inspire dutch purpose photo kidney flag goat maid fix firm";
+var mnemonic = "expand similar problem sniff beach will shock swing brass erase excite cool";

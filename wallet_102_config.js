@@ -1,1 +1,1 @@
-var mnemonic = "lion document wild source clown busy fragile vital humor visit primary sight";
+var mnemonic = "skill hawk tail museum sad flower grunt scatter puppy keen theory green";

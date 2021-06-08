@@ -1,1 +1,1 @@
-var mnemonic = "frown genius elder evil armed violin casual select salon crazy blouse salute";
+var mnemonic = "valley silent curve keen face potato legend warm joy asthma useful fragile";

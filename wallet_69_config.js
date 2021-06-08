@@ -1,1 +1,1 @@
-var mnemonic = "suspect voice embrace absent sign link owner concert secret mobile zone scissors";
+var mnemonic = "crawl grab cake one swap picnic feel breeze fragile paddle gauge lunch";

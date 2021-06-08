@@ -1,1 +1,1 @@
-var mnemonic = "slush library mention thumb assume lemon nation tent valley image steel copper";
+var mnemonic = "kit reopen ask boring device armor wheat runway burger question climb people";

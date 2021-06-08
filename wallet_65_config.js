@@ -1,1 +1,1 @@
-var mnemonic = "perfect retire choose industry wagon news exile indoor media demise because lion";
+var mnemonic = "void coin emerge shell cancel trade fury stone shaft child awesome rug";

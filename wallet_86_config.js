@@ -1,1 +1,1 @@
-var mnemonic = "chapter used sing main trim trigger nurse whip spirit album furnace buffalo";
+var mnemonic = "neither someone glow tobacco drill mosquito prepare pride other exhibit clown chest";

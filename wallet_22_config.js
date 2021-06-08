@@ -1,1 +1,1 @@
-var mnemonic = "day you glide settle autumn service one repeat destroy mixed congress easy";
+var mnemonic = "trend panel carbon deny gorilla era assist enact angry grow cycle minimum";

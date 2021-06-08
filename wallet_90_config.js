@@ -1,1 +1,1 @@
-var mnemonic = "cluster phone gate six tribe liquid liberty boss olive border grab notable";
+var mnemonic = "silver also tonight review system remember humble tribe undo misery world eager";

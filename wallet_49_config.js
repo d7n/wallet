@@ -1,1 +1,1 @@
-var mnemonic = "weather try level kiwi open loud pear soul upper come radio excuse";
+var mnemonic = "oyster liar galaxy provide venture ability midnight mixture one chef survey carpet";

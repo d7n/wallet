@@ -1,1 +1,1 @@
-var mnemonic = "turkey oyster bracket minor endorse planet fresh giggle actress casino cactus quality";
+var mnemonic = "eternal atom else air script hotel miracle surround repair hover error category";

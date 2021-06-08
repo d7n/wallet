@@ -1,1 +1,1 @@
-var mnemonic = "price six boy replace rely panic machine despair sell goddess squeeze announce";
+var mnemonic = "advice vast arrange assist issue sauce bus bunker witness small lesson artist";

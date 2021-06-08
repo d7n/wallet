@@ -1,1 +1,1 @@
-var mnemonic = "tongue exact you egg bargain dizzy flock rival foil mix helmet rent";
+var mnemonic = "giant wood unusual vacuum level stomach original glad never fall upon priority";

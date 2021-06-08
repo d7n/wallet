@@ -1,1 +1,1 @@
-var mnemonic = "inner invite kit volcano scissors beauty zebra long sheriff convince gesture boss";
+var mnemonic = "pepper mesh always giraffe fly bring hood exchange sponsor panic luggage science";

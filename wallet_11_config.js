@@ -1,1 +1,1 @@
-var mnemonic = "provide wagon miracle visa armor okay federal blind front pear ugly gown";
+var mnemonic = "ridge file athlete crash seed praise april dizzy sustain suggest birth review";

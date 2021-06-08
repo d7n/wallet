@@ -1,1 +1,1 @@
-var mnemonic = "victory relief major battle miracle rich entire expect funny crash heavy aware";
+var mnemonic = "rate asset account rack pull beef world push safe immune laugh armor";

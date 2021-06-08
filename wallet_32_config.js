@@ -1,1 +1,1 @@
-var mnemonic = "harvest sweet impact muscle cruise awake bird cabbage abuse maid sting menu";
+var mnemonic = "father ready history search feed degree law gym gate indoor upgrade gravity";

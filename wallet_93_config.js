@@ -1,1 +1,1 @@
-var mnemonic = "unit judge infant gallery make frost merit subject marble happy volume blame";
+var mnemonic = "ivory flight pumpkin birth inmate butter always diet dinner weapon material pet";

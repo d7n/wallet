@@ -1,1 +1,1 @@
-var mnemonic = "taste diesel kiss name rely train kiss ridge exact cost sister tattoo";
+var mnemonic = "drama pear monitor quote any garlic two owner city goddess pet system";

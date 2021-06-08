@@ -1,1 +1,1 @@
-var mnemonic = "high width remind build shell uphold lazy build museum vendor text since";
+var mnemonic = "grit twist path deposit north grant dumb bracket remember steak antique weasel";

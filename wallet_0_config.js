@@ -1,1 +1,1 @@
-var mnemonic = "logic pulse square reflect code mouse tip voyage monster slender extra chief";
+var mnemonic = "sweet knock net nation hole chaos bamboo cook talent dish stone kingdom";

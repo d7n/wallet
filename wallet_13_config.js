@@ -1,1 +1,1 @@
-var mnemonic = "sadness impulse camera leaf bunker flame liquid remain skin trick yellow milk";
+var mnemonic = "twist supply hollow jeans surge fee purchase proof october planet famous ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "involve useless business hollow abandon thank another survey tumble teach burst cruel";
+var mnemonic = "basket antique stairs spatial spend start gentle must echo year confirm roast";

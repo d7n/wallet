@@ -1,1 +1,1 @@
-var mnemonic = "junior phone dignity stuff love analyst access labor vast economy citizen spy";
+var mnemonic = "crane club memory result mechanic prosper second brisk boost coffee south mistake";

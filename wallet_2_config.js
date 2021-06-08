@@ -1,1 +1,1 @@
-var mnemonic = "frog hard impact cancel table neck trial dragon dutch velvet truly enemy";
+var mnemonic = "mutual uncle chimney fee snake robust safe soldier wreck cram usual over";

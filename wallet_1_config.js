@@ -1,1 +1,1 @@
-var mnemonic = "account east unfold south wreck gas put scorpion music bind raw bundle";
+var mnemonic = "degree paddle wild dawn until broken public distance awkward silk sword notice";

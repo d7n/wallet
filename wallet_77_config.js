@@ -1,1 +1,1 @@
-var mnemonic = "cattle minor expire swing follow idle buzz airport salad regret push multiply";
+var mnemonic = "print roof crack display this select bench filter upon glimpse invest divorce";

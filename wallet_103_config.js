@@ -1,1 +1,1 @@
-var mnemonic = "tobacco profit fragile enable matrix pond tired zone senior seat nut old";
+var mnemonic = "humble social bulk journey sample firm suffer potato pizza kiss wolf kind";

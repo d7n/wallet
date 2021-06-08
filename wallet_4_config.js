@@ -1,1 +1,1 @@
-var mnemonic = "magic rescue index raven pilot sponsor minute exile find gasp observe warm";
+var mnemonic = "lazy shaft supply fame renew bracket abstract tumble wall item leaf scrap";

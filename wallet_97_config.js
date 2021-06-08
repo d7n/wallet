@@ -1,1 +1,1 @@
-var mnemonic = "wood cash senior earth asset earth panda album size educate lab family";
+var mnemonic = "release boost engage cactus flame meat six tonight frog oak ridge bonus";

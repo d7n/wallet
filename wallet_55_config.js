@@ -1,1 +1,1 @@
-var mnemonic = "wild neither satisfy barely typical afford lunar lady pave engage develop hamster";
+var mnemonic = "behave leader notable wasp sing define lawn help accuse curious treat gun";

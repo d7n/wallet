@@ -1,1 +1,1 @@
-var mnemonic = "infant cluster rare pulp bright lyrics smoke museum unit sunny bone distance";
+var mnemonic = "album senior recall write grape idea indicate magic prison seed issue cause";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty sport audit sport rail struggle enemy east recipe marriage cage update";
+var mnemonic = "merge village capable donor swear since bracket spy mass hospital disagree scheme";

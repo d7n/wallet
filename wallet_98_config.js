@@ -1,1 +1,1 @@
-var mnemonic = "jump weird sniff modify claw ball immune rescue round off police certain";
+var mnemonic = "place faint disease leisure weapon wall begin seminar solid office melody carry";

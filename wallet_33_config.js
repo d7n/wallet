@@ -1,1 +1,1 @@
-var mnemonic = "recycle dawn account search fluid champion advice feature child switch saddle welcome";
+var mnemonic = "mutual later very disagree empower social extra ramp speak common clap comic";

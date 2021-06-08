@@ -1,1 +1,1 @@
-var mnemonic = "capable text deposit fish vicious special dress talk before picnic sound miss";
+var mnemonic = "method inject actress brain female kick wire journey anger balcony month toss";

@@ -1,1 +1,1 @@
-var mnemonic = "public health core save unit cliff one apology strike tomorrow excess discover";
+var mnemonic = "cube body buyer ready patch just true waste stumble syrup arch marine";

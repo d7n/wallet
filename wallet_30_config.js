@@ -1,1 +1,1 @@
-var mnemonic = "cup whisper myth idea lecture spray problem cook snap tomorrow spawn soul";
+var mnemonic = "admit scrap brain quantum gown club agent endorse rug illegal access dignity";

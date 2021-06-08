@@ -1,1 +1,1 @@
-var mnemonic = "stairs lumber social service base solid neglect infant donate chuckle regular age";
+var mnemonic = "position mango proud shop verb impose alert grain tragic mix winner toe";

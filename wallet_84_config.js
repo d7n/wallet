@@ -1,1 +1,1 @@
-var mnemonic = "crucial mosquito jeans elite valve aspect afford mean project popular govern require";
+var mnemonic = "couple moment abstract wrestle chronic mesh maid wage federal assist stuff icon";

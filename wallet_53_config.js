@@ -1,1 +1,1 @@
-var mnemonic = "famous crystal prize joke mix possible six whale culture buzz same deny";
+var mnemonic = "design laptop output also cricket key wealth burst capital invest season burger";

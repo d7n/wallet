@@ -1,1 +1,1 @@
-var mnemonic = "height attack negative legend ranch end noble artefact matter final defense husband";
+var mnemonic = "reduce dune repeat fun human movie inner slow adult capable settle ask";

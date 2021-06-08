@@ -1,1 +1,1 @@
-var mnemonic = "peace tornado layer inmate whale rate mansion dress motion battle say hollow";
+var mnemonic = "wool between second chronic lazy bridge danger index useful turn science mass";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow cement butter teach popular traffic rebuild city system brass giggle weapon";
+var mnemonic = "veteran suggest simple zoo welcome prepare write step sign frost rare rookie";
