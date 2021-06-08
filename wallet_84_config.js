@@ -1,1 +1,1 @@
-var mnemonic = "believe theory sort crazy pilot humble guilt skate recycle science useful force";
+var mnemonic = "void unveil warm tonight slim car spend achieve orient slam wink offer";

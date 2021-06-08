@@ -1,1 +1,1 @@
-var mnemonic = "keen february brain rude grit coconut fault security buffalo lecture ancient unveil";
+var mnemonic = "electric spatial segment glory addict same oven galaxy acquire debris pupil chicken";

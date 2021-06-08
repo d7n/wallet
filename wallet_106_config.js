@@ -1,1 +1,1 @@
-var mnemonic = "caution clip exclude winner coach climb clown pause little bridge ski estate";
+var mnemonic = "leg struggle wasp kiss theme talent clock just control team stock erosion";

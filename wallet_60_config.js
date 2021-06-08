@@ -1,1 +1,1 @@
-var mnemonic = "clever uncover educate void order over stairs image oak gym syrup fit";
+var mnemonic = "broom idea advice tilt wolf screen system ripple flip wild fault finish";

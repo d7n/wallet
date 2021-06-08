@@ -1,1 +1,1 @@
-var mnemonic = "scatter calm disease raw record earth impact chair seminar custom advance culture";
+var mnemonic = "humble school diary purpose card sauce lounge bag index surprise citizen climb";

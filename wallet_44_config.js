@@ -1,1 +1,1 @@
-var mnemonic = "analyst mule zero dismiss tray impact memory happy citizen lottery clinic eyebrow";
+var mnemonic = "pledge air oven lion shield beef hurdle play stadium deer select soup";

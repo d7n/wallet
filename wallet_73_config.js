@@ -1,1 +1,1 @@
-var mnemonic = "close crazy relax hamster universe round police try injury surround alcohol enhance";
+var mnemonic = "welcome supreme crush inflict blanket mistake crew model girl rib push always";

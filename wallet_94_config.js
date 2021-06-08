@@ -1,1 +1,1 @@
-var mnemonic = "horse end drip ready custom bottom usual unit guard safe armor pyramid";
+var mnemonic = "cattle twelve consider valve wing gift wealth hybrid fashion hen cement wire";

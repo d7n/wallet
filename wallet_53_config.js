@@ -1,1 +1,1 @@
-var mnemonic = "tumble depart guilt online margin shock brand tiger twelve camera fiber peasant";
+var mnemonic = "blame usual believe current write skirt capital focus yard clarify arrive swallow";

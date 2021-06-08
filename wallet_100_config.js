@@ -1,1 +1,1 @@
-var mnemonic = "leisure worry advice nature leg owner sleep proof inform stomach card organ";
+var mnemonic = "world diary impact joke derive behind lock find empower bring immune force";

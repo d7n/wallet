@@ -1,1 +1,1 @@
-var mnemonic = "expose carbon pond toe cost fresh clump dizzy ankle relax cover subject";
+var mnemonic = "phrase velvet snack ritual quit public still gown because educate panther crime";

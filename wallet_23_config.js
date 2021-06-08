@@ -1,1 +1,1 @@
-var mnemonic = "vendor home truth bulb banana suit reduce hen neutral fly myself civil";
+var mnemonic = "fan useful vivid example benefit will involve clap flat habit scout hover";

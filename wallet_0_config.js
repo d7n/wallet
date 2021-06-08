@@ -1,1 +1,1 @@
-var mnemonic = "fringe major solve around odor attract neutral diesel next lion bean aspect";
+var mnemonic = "second forum action invite grow card mandate unknown glory soda finish sock";

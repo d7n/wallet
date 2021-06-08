@@ -1,1 +1,1 @@
-var mnemonic = "country cancel tank trim impulse essence jaguar beef way stay author material";
+var mnemonic = "climb margin physical symptom system report list motion purchase meat quit famous";

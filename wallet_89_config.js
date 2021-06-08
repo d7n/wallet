@@ -1,1 +1,1 @@
-var mnemonic = "differ want curve cradle deliver sheriff dawn enlist glance bitter alarm green";
+var mnemonic = "olympic wave tired dentist error sample foot faculty entire coil panda model";

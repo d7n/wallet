@@ -1,1 +1,1 @@
-var mnemonic = "print indoor quarter host purse jelly surge glare scare mixed hat love";
+var mnemonic = "prize system sock lobster book today truth curious cabbage soda rail company";

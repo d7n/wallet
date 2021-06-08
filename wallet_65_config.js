@@ -1,1 +1,1 @@
-var mnemonic = "switch feel victory also stumble genius visa pepper news report sorry evoke";
+var mnemonic = "panda present melt where purpose cube chimney frost toy elbow jazz parent";

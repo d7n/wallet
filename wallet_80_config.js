@@ -1,1 +1,1 @@
-var mnemonic = "wheat equal clinic pass obtain trip mother buzz inside pass identify sheriff";
+var mnemonic = "kid awful champion kiss science lawsuit oil slice mouse van wisdom dust";

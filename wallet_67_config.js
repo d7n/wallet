@@ -1,1 +1,1 @@
-var mnemonic = "cover position clock combine snap ethics crisp congress base twist rough gallery";
+var mnemonic = "sudden slow flame fatal universe aim olive tape green captain few oil";

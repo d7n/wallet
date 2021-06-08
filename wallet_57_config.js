@@ -1,1 +1,1 @@
-var mnemonic = "language vote excuse moral cross scout squeeze hill garage orchard raven belt";
+var mnemonic = "vehicle bracket exact cloud agree roof fine trick winter owner luggage wealth";

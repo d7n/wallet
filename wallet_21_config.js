@@ -1,1 +1,1 @@
-var mnemonic = "travel winter immune thunder blue visual decrease order urban scale patrol add";
+var mnemonic = "front novel hockey promote actor favorite cloth swift unit viable toss prison";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence thought tuna jeans achieve tag royal worth spatial relax refuse pull";
+var mnemonic = "switch scheme bless cloth solve senior pioneer adapt sketch rhythm secret airport";

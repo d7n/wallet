@@ -1,1 +1,1 @@
-var mnemonic = "focus public portion issue post now educate agree until enact behind paddle";
+var mnemonic = "submit tree gallery never gentle air float cradle valley demise palace unveil";

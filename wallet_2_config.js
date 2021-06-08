@@ -1,1 +1,1 @@
-var mnemonic = "day thumb still portion ship essay make please vehicle gate drama alter";
+var mnemonic = "maid field when focus hood throw wonder initial mouse wisdom tuition pact";

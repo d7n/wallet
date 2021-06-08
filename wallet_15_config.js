@@ -1,1 +1,1 @@
-var mnemonic = "improve speed siege brief mule silent copper wait bind roast strategy air";
+var mnemonic = "engage obtain ritual roast laptop swim excuse lend patch dial decline soft";

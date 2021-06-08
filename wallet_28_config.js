@@ -1,1 +1,1 @@
-var mnemonic = "since quit rent phone scare ostrich short goose wing cable warm actress";
+var mnemonic = "truck vocal diamond actress first minimum garage raven dizzy tomorrow undo truly";

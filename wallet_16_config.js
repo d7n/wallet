@@ -1,1 +1,1 @@
-var mnemonic = "object cabbage army electric edit notable squirrel misery brown remain business sample";
+var mnemonic = "want helmet outside theme essence review tackle awesome comfort knee maple grunt";

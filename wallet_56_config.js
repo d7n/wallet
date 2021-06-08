@@ -1,1 +1,1 @@
-var mnemonic = "later parrot round author float chalk puzzle hat budget coral silver column";
+var mnemonic = "online clap maximum pear decrease glass member sword city simple tuition choice";

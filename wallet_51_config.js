@@ -1,1 +1,1 @@
-var mnemonic = "weather fortune cannon upper weird badge grab two pair misery belt scout";
+var mnemonic = "liquid mutual wise begin tide glare this baby silver price kitchen link";

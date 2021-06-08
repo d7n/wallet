@@ -1,1 +1,1 @@
-var mnemonic = "tiger autumn chef absorb parade extra virus suggest cream confirm lunch affair";
+var mnemonic = "oval chronic cage dream soup settle expect other vivid worry garment miracle";

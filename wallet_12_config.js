@@ -1,1 +1,1 @@
-var mnemonic = "odor nest report fine horn rescue cement stamp trigger portion erode amused";
+var mnemonic = "mom acid plate street rebel update gain fetch vault renew crouch canvas";

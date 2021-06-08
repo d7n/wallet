@@ -1,1 +1,1 @@
-var mnemonic = "scissors canyon keep swear update message reflect pair rubber people what submit";
+var mnemonic = "cry embrace transfer correct leopard vintage group quote eternal crunch office yard";

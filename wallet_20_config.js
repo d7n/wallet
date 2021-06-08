@@ -1,1 +1,1 @@
-var mnemonic = "blue soft expose once right search swear nerve weekend helmet code usage";
+var mnemonic = "slender cloth together island prevent august gap spray crush maze attitude parade";

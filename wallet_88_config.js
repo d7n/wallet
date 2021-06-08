@@ -1,1 +1,1 @@
-var mnemonic = "morning text thank dwarf upon hurt stick gallery federal dad melt fossil";
+var mnemonic = "supreme spend fade purchase garment endless cigar night tube alley token announce";

@@ -1,1 +1,1 @@
-var mnemonic = "near kid rib clown hospital faint course say injury gravity bundle regret";
+var mnemonic = "early extend priority hybrid false huge scrub alpha metal tool one plastic";

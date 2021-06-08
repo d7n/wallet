@@ -1,1 +1,1 @@
-var mnemonic = "example original piece wonder oval bring reason doctor census empower ahead glove";
+var mnemonic = "birth giraffe nose shift float olympic frozen rebuild jungle miracle person return";

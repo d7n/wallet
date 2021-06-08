@@ -1,1 +1,1 @@
-var mnemonic = "cross clog target present arrange end parrot similar ghost busy lucky jacket";
+var mnemonic = "weapon awake female device sleep awake receive atom make obvious aspect gossip";

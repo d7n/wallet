@@ -1,1 +1,1 @@
-var mnemonic = "palm share resource arm lemon avoid novel salad hobby mandate file bike";
+var mnemonic = "divide trap fluid fork train style erosion bacon chuckle table hunt egg";

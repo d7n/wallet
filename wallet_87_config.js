@@ -1,1 +1,1 @@
-var mnemonic = "believe face electric squeeze siege much ice elegant super hamster ski phrase";
+var mnemonic = "type drink lucky invite night lock double viable female velvet harvest ask";

@@ -1,1 +1,1 @@
-var mnemonic = "document foot sponsor need panther nest pole flash since view immense polar";
+var mnemonic = "success disorder phone explain next foil pretty saddle fault pear estate gospel";

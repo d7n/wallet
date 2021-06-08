@@ -1,1 +1,1 @@
-var mnemonic = "unaware dismiss shallow nut bless letter faint dismiss hurdle next oak pudding";
+var mnemonic = "border muscle affair stairs certain ability awake leave lamp news fee rocket";

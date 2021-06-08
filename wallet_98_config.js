@@ -1,1 +1,1 @@
-var mnemonic = "erase glove enroll emerge roast dream cute symbol lottery nice fragile already";
+var mnemonic = "occur inhale local hammer suffer prefer toe tape unable idle jaguar hint";

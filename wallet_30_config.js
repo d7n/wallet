@@ -1,1 +1,1 @@
-var mnemonic = "country shiver warrior sweet glory unknown expand sort honey safe where shy";
+var mnemonic = "glass just present garage leg budget blouse foil gate grass north soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew echo benefit sorry crash life spatial face evil tape matrix order";
+var mnemonic = "bomb tiger rate forum adjust flash purpose bless donkey bulk funny equip";

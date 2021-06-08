@@ -1,1 +1,1 @@
-var mnemonic = "dream ready three rapid goose engine orchard welcome save increase trick van";
+var mnemonic = "popular few have donkey onion palace drip argue rail drum exclude judge";

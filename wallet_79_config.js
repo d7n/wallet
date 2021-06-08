@@ -1,1 +1,1 @@
-var mnemonic = "doll twist beyond piano song ensure recall egg enjoy unlock work device";
+var mnemonic = "victory universe oyster stomach cactus marine bomb also occur labor face island";

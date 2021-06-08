@@ -1,1 +1,1 @@
-var mnemonic = "wife suspect buddy debate fee property artwork solid mother bid mercy lecture";
+var mnemonic = "winter eye thumb maze next piece forest polar swing exist walk consider";

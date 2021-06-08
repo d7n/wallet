@@ -1,1 +1,1 @@
-var mnemonic = "canvas frame response burger cattle awesome assist solid heavy differ unhappy kitten";
+var mnemonic = "unaware copper invest river eye chimney aerobic exotic economy acoustic carbon hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk sample photo grain monkey you juice steel fiction tortoise library carbon";
+var mnemonic = "anchor hood extra axis female human fancy tattoo upset mistake capable merry";

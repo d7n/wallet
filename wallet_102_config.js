@@ -1,1 +1,1 @@
-var mnemonic = "miss real disagree female tide perfect market alter forum hurdle help aerobic";
+var mnemonic = "recall prosper rude naive lock sleep gallery amateur series busy clump struggle";

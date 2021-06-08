@@ -1,1 +1,1 @@
-var mnemonic = "illness rubber exercise wait beach mule brisk roast spider normal unknown shoulder";
+var mnemonic = "fiber library record spatial mimic toy major obvious entry math salt egg";

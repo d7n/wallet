@@ -1,1 +1,1 @@
-var mnemonic = "music clock village afford enroll cheap gate insane then true rural expand";
+var mnemonic = "laundry city season have answer taste cube jazz rubber goddess weather charge";

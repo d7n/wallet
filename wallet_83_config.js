@@ -1,1 +1,1 @@
-var mnemonic = "spirit board wing shrug option mountain dash letter robust popular live corn";
+var mnemonic = "course sudden layer artefact program diamond post anger south expose hero critic";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion word purchase avocado possible fox virus slush cinnamon planet crop inch";
+var mnemonic = "void all ten general woman field tomorrow fetch dream banana tongue aware";

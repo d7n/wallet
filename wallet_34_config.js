@@ -1,1 +1,1 @@
-var mnemonic = "orient meadow hole alley about morning affair clap ill breeze couch quarter";
+var mnemonic = "apple tank come nephew silly arch report left source elevator search glide";

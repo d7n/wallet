@@ -1,1 +1,1 @@
-var mnemonic = "inhale venture snap draft bicycle error portion true zone treat mother gun";
+var mnemonic = "deny voyage mass deposit yellow sponsor offer voice choice media cable short";

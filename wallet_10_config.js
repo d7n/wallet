@@ -1,1 +1,1 @@
-var mnemonic = "father income boss tribe teach bomb jaguar enable blush royal remember iron";
+var mnemonic = "affair protect mass mercy indoor neither forum runway oppose account exact gasp";

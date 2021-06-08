@@ -1,1 +1,1 @@
-var mnemonic = "hundred group afraid gorilla stamp coast degree thought kite top tunnel taste";
+var mnemonic = "develop gaze sister buyer close cupboard roof boring spatial stamp basket denial";

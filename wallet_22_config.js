@@ -1,1 +1,1 @@
-var mnemonic = "source display sausage episode churn found crawl lizard frog simple noble normal";
+var mnemonic = "bullet neutral holiday comic pulse attend inject census pet bright identify occur";

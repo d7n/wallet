@@ -1,1 +1,1 @@
-var mnemonic = "excite scrap convince dust sun monkey project team admit math anchor label";
+var mnemonic = "rose wide coil staff secret speed radio liquid manual finger ramp salt";

@@ -1,1 +1,1 @@
-var mnemonic = "verb possible habit crack giraffe turkey mask label rule wing absurd enforce";
+var mnemonic = "shine submit north notable wine minute cage matter sting hen chest math";

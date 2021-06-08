@@ -1,1 +1,1 @@
-var mnemonic = "inch danger announce lift knock evil tag coconut total pupil poem tonight";
+var mnemonic = "mix duck steak face coral liar horror horse jelly fix awful benefit";

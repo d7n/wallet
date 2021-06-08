@@ -1,1 +1,1 @@
-var mnemonic = "census color couple cart owner hotel school model lens floor talk marble";
+var mnemonic = "cycle approve banner include beef gravity swap rose illegal siren modify bottom";

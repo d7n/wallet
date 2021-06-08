@@ -1,1 +1,1 @@
-var mnemonic = "suspect kangaroo brass glue canyon view tower vacant cover isolate mail clog";
+var mnemonic = "essay enough warfare margin kitten word able praise sell distance cabin burst";

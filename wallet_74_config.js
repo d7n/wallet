@@ -1,1 +1,1 @@
-var mnemonic = "tongue nasty amateur shallow call demise hammer lumber hole avoid hat color";
+var mnemonic = "harvest earth woman test nature boost school elephant dice flight elder funny";

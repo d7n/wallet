@@ -1,1 +1,1 @@
-var mnemonic = "wash rubber author chaos census come will sheriff quality now able fiction";
+var mnemonic = "erupt spread lunar ritual machine idea carry trumpet arch kitchen emerge gap";

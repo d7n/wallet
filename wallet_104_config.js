@@ -1,1 +1,1 @@
-var mnemonic = "company square choose trend learn artefact ancient seek mail banner all tail";
+var mnemonic = "agent fabric limit purchase goddess copper reason wasp neck wisdom used between";

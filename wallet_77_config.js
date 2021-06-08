@@ -1,1 +1,1 @@
-var mnemonic = "omit deposit polar guide churn image balcony denial amazing saddle west peace";
+var mnemonic = "goddess mechanic dream page unusual battle champion rural palm luxury demise dice";

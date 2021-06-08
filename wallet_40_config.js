@@ -1,1 +1,1 @@
-var mnemonic = "lazy return venue emerge walnut muscle raven point dog zoo corn gas";
+var mnemonic = "sponsor swift father barrel camp link purse brick found mutual report sure";

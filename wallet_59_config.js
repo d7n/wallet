@@ -1,1 +1,1 @@
-var mnemonic = "oven retreat unaware rhythm century rubber tube confirm light summer gun strike";
+var mnemonic = "verify wing erode slight egg praise hat sister owner credit unaware pause";

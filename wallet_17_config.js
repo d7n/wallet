@@ -1,1 +1,1 @@
-var mnemonic = "plunge bag sort still device tank mansion spend aspect panic table eight";
+var mnemonic = "entry topple special comfort life canoe dream garage uniform grief report upon";

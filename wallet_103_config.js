@@ -1,1 +1,1 @@
-var mnemonic = "receive comfort aspect name quality help lens eternal acoustic fit canal poem";
+var mnemonic = "develop embrace desert blind slice peace social approve alley clinic cook enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge accuse crater chef nominee steak moral category excuse run satisfy member";
+var mnemonic = "number column taxi vital enjoy more grocery wear noble enroll scrap notice";

@@ -1,1 +1,1 @@
-var mnemonic = "size reject polar abstract quick matrix mixed plunge during fun remove luxury";
+var mnemonic = "process observe say barely stone human dragon pride close net quarter magnet";

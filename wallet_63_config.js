@@ -1,1 +1,1 @@
-var mnemonic = "busy million type misery post exercise soup solution august exhaust sheriff sunset";
+var mnemonic = "salt upset movie dinosaur achieve denial admit motion grid biology siege protect";

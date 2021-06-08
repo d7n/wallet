@@ -1,1 +1,1 @@
-var mnemonic = "voice patch consider hammer salute boy swamp theme few giant craft pass";
+var mnemonic = "fabric rate pattern skull ritual lawsuit company salad report leaf demand else";

@@ -1,1 +1,1 @@
-var mnemonic = "wall join remove aisle patch inner hand quick ice blossom uncle obtain";
+var mnemonic = "butter weird pistol wine unaware cause visit relax large crowd neglect surround";

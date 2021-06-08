@@ -1,1 +1,1 @@
-var mnemonic = "dad away clip amateur piano armed museum various boring design admit mobile";
+var mnemonic = "wreck tortoise evil hope fatal tiny reveal zero consider drive chronic stone";

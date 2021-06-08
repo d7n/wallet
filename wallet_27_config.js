@@ -1,1 +1,1 @@
-var mnemonic = "dance cargo aspect coconut scene choice exact gift allow enrich expand card";
+var mnemonic = "floor mistake mosquito uncle amazing brush water concert boring way ball two";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn honey car source number volcano purse hub exist original identify subway";
+var mnemonic = "kingdom muscle spoon cram purpose visa draw bind pond express monitor coffee";

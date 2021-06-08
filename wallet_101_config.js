@@ -1,1 +1,1 @@
-var mnemonic = "fold scale armor collect alien pact thumb six play what club roof";
+var mnemonic = "bean film dose verb spot angry idle snack fetch mother inflict crime";

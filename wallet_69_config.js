@@ -1,1 +1,1 @@
-var mnemonic = "want oxygen silent cup relax fan spare fan possible lecture old filter";
+var mnemonic = "amazing orbit own iron spoil omit seven mention jungle fold crisp note";

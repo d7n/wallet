@@ -1,1 +1,1 @@
-var mnemonic = "replace castle quiz name blue museum camp clerk spend hockey bind basket";
+var mnemonic = "pony rack pave lyrics wire smart reason giraffe street above spy use";

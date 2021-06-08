@@ -1,1 +1,1 @@
-var mnemonic = "this play security upon draw hockey view dignity foster buzz dove error";
+var mnemonic = "hidden onion mirror ceiling way pull athlete acquire park mercy cigar mixture";

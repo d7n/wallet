@@ -1,1 +1,1 @@
-var mnemonic = "license human net symptom attack churn sugar desert fiction joke despair fiction";
+var mnemonic = "dawn perfect muffin couch shrimp echo valid extend vote casual north idea";

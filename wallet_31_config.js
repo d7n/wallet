@@ -1,1 +1,1 @@
-var mnemonic = "useless flash very loop they siren refuse toe dutch try term blade";
+var mnemonic = "casual glide goat attitude visual avocado circle wrap legend marine heart fix";

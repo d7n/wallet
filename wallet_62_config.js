@@ -1,1 +1,1 @@
-var mnemonic = "daughter message water organ century carry act cash traffic decline trouble craft";
+var mnemonic = "image bundle eager pupil convince say update talk alcohol hybrid vibrant glove";

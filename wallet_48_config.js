@@ -1,1 +1,1 @@
-var mnemonic = "side original scrap romance wall popular ankle tip early menu jacket fog";
+var mnemonic = "winner spice high earn trouble sand dad dream glass erode impose brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "better monster avocado blind define task dog female rice fiction evolve pair";
+var mnemonic = "invite wheel update panther bless bundle nephew tone pottery dog oven moral";

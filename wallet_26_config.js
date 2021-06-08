@@ -1,1 +1,1 @@
-var mnemonic = "dose isolate gloom ten blouse desert abuse snack family orbit inch produce";
+var mnemonic = "arena waste goddess thrive race valley point total airport season exclude stem";

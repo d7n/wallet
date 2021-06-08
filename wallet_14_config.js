@@ -1,1 +1,1 @@
-var mnemonic = "comfort coast flower isolate slot involve awesome swim oppose upper promote enforce";
+var mnemonic = "amused regret shy balcony trophy squirrel buyer rhythm radar despair silly dinner";

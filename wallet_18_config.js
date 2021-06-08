@@ -1,1 +1,1 @@
-var mnemonic = "glimpse dose fox crucial neglect science bronze cup similar annual merry country";
+var mnemonic = "knee allow rigid year useless useful toilet mirror certain render hen unit";

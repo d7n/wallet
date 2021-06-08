@@ -1,1 +1,1 @@
-var mnemonic = "system decrease end dirt enforce giggle media describe soda spray jazz april";
+var mnemonic = "horse omit already merry december spike balance grant mutual carpet garden goose";
