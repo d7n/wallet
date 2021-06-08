@@ -1,1 +1,1 @@
-var mnemonic = "glad aisle february genuine family immense return next web energy fox decade";
+var mnemonic = "napkin stone pattern cash dress page during derive summer flame country crop";

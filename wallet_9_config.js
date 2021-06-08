@@ -1,1 +1,1 @@
-var mnemonic = "opera shadow loop fancy lounge term globe trouble firm hollow bid august";
+var mnemonic = "mask target ridge small accident faculty antique aim hospital service private amazing";

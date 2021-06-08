@@ -1,1 +1,1 @@
-var mnemonic = "effort spice hour draft trade finger hospital picture certain broccoli cupboard snack";
+var mnemonic = "easily blanket power wild bamboo trouble almost plate strategy zero cattle inside";

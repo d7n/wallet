@@ -1,1 +1,1 @@
-var mnemonic = "payment pipe you gold tag eager club drink milk glance guitar vibrant";
+var mnemonic = "prize offer rural lawsuit wave vote base setup shine sphere unhappy debris";

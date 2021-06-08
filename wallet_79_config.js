@@ -1,1 +1,1 @@
-var mnemonic = "liberty north moment vessel fatigue board admit pear potato reunion oyster finish";
+var mnemonic = "traffic assume collect flee slab crowd urban belt turtle result also plastic";

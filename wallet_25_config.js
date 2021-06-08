@@ -1,1 +1,1 @@
-var mnemonic = "arena diesel honey garbage symptom ignore crop dynamic report night olive energy";
+var mnemonic = "jump defy flock slam animal gravity nose elbow figure sport there increase";

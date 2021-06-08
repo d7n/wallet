@@ -1,1 +1,1 @@
-var mnemonic = "alcohol ramp disorder distance culture arena void eye sand slush ship rival";
+var mnemonic = "adult wagon bench skin awesome together final shy taxi guide mix ghost";

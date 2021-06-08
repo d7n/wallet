@@ -1,1 +1,1 @@
-var mnemonic = "grab code pass wave spoon punch admit census trial curve ensure limb";
+var mnemonic = "pause school stool quiz milk kite leader bid express actual tide cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion endorse health buzz stable soda depth palace cry light before runway";
+var mnemonic = "glue armed envelope fine legend divorce lava tribe shaft tape favorite scout";

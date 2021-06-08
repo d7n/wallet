@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit surround rack dream verify river mule regular margin slender witness hotel";
+var mnemonic = "click rhythm test nuclear mule owner nasty hundred gasp mobile boil risk";

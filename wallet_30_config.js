@@ -1,1 +1,1 @@
-var mnemonic = "sand cave fashion wine build fun nuclear effort lesson wool embark next";
+var mnemonic = "today type badge stereo junior blanket village limit over tilt van churn";

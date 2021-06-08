@@ -1,1 +1,1 @@
-var mnemonic = "shield debris police faculty cotton dizzy bless vacant blind soccer decline category";
+var mnemonic = "stand forest culture traffic cousin bonus gift erase rent survey exile siege";

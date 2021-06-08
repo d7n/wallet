@@ -1,1 +1,1 @@
-var mnemonic = "essence account ship fuel forward observe range purpose receive heavy consider can";
+var mnemonic = "clarify wasp flock despair version cover image wage design foam hospital siren";

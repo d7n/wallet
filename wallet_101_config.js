@@ -1,1 +1,1 @@
-var mnemonic = "dial hero innocent rain inhale betray avoid able drift cabbage melody stage";
+var mnemonic = "merge cause junior test govern embrace physical tuna veteran enemy trumpet sort";

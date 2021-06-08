@@ -1,1 +1,1 @@
-var mnemonic = "dad prosper decrease coral loan merit cradle yellow soldier comfort wealth wheel";
+var mnemonic = "supreme club tissue rabbit habit vivid isolate across salad length genuine dial";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos attack fiscal one beef series mango item pluck mystery click rebuild";
+var mnemonic = "clinic reduce ivory release museum focus hard sudden winner hidden husband praise";

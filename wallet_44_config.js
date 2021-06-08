@@ -1,1 +1,1 @@
-var mnemonic = "dawn twist diamond fatal grit work joy dress audit fault member bag";
+var mnemonic = "chef height ivory general swamp era charge rain vibrant range treat prevent";

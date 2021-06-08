@@ -1,1 +1,1 @@
-var mnemonic = "defense summer peasant clog lunar balcony praise lend express thumb void behave";
+var mnemonic = "spread can slow anxiety divide destroy foot humble practice hospital stand piece";

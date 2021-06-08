@@ -1,1 +1,1 @@
-var mnemonic = "friend anger awesome useful joke host cross excess cram sport keen minimum";
+var mnemonic = "bridge glare fix flag public bachelor boss salon glass rubber cube amazing";

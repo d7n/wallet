@@ -1,1 +1,1 @@
-var mnemonic = "friend buyer coil embody post media host sport hour olympic bunker funny";
+var mnemonic = "sunny credit trend glue hurt loan brain theme replace job cruel matter";

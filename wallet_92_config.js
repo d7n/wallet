@@ -1,1 +1,1 @@
-var mnemonic = "slight cherry curtain village horn tree news glad reunion weapon fresh enable";
+var mnemonic = "blossom position clock entire safe galaxy harvest link strategy charge quote avocado";

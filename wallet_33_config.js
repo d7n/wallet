@@ -1,1 +1,1 @@
-var mnemonic = "fabric spy ethics job carpet myself wrap tip february subway lift sheriff";
+var mnemonic = "same deliver settle clap bachelor auction emerge sand together ice blind tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder like seminar frown timber brass camera screen display spin faculty box";
+var mnemonic = "indoor attitude engage often blast junk rebel air increase dinosaur favorite table";

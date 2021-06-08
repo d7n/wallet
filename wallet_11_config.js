@@ -1,1 +1,1 @@
-var mnemonic = "swift trumpet angry civil mobile target search erosion remind pistol situate share";
+var mnemonic = "detect access below cool shiver pen copper modify melt easy start material";

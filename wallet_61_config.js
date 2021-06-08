@@ -1,1 +1,1 @@
-var mnemonic = "employ lion unknown permit dwarf style entire range silent travel ball essence";
+var mnemonic = "guide assist melody nut tomorrow dynamic tongue candy pipe whale busy hurry";

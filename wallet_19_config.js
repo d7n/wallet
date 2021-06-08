@@ -1,1 +1,1 @@
-var mnemonic = "chief supreme mandate demise thing sign rotate two spawn asthma south news";
+var mnemonic = "arrange cage page expire board measure pool cupboard warrior cactus dragon movie";

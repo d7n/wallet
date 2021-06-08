@@ -1,1 +1,1 @@
-var mnemonic = "intact cook talent coyote inch valve couch kingdom canyon measure donor solution";
+var mnemonic = "alone vehicle time gun glory holiday author always ripple year celery unknown";

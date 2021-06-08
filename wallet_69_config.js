@@ -1,1 +1,1 @@
-var mnemonic = "vendor portion general glad rely cotton anger walk miss bomb chuckle trouble";
+var mnemonic = "flock beauty metal squeeze much matter gauge jacket jeans virus frog debate";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy trade blind number north shoe wild share scissors also total surge";
+var mnemonic = "coil carpet turtle return unfold hazard junk wife kitchen tell food warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel cabbage become fade equip wing decline syrup traffic wisdom coffee science";
+var mnemonic = "sugar rifle dilemma away regular twenty amateur clutch bean amount kitchen where";

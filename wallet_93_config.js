@@ -1,1 +1,1 @@
-var mnemonic = "sauce rose evidence imitate similar brand kit cattle any unusual alter only";
+var mnemonic = "coach verify way six eight embrace afraid hero blouse leader female mass";

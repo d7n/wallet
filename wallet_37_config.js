@@ -1,1 +1,1 @@
-var mnemonic = "repeat feel label typical mountain crop prison expand moon siren error funny";
+var mnemonic = "drift laundry shrug exotic dry mass rice song exist verb clock fog";

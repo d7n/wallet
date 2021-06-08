@@ -1,1 +1,1 @@
-var mnemonic = "sail design evidence purchase apology toddler magic hello hundred album proud beach";
+var mnemonic = "autumn sense weekend kitchen matter swap major gown fork faculty erode caution";

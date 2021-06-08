@@ -1,1 +1,1 @@
-var mnemonic = "edit gift tiger world horn imitate trade army observe similar fluid prize";
+var mnemonic = "arrest cover pumpkin wasp try predict edit coin blue copy jaguar hand";

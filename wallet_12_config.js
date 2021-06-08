@@ -1,1 +1,1 @@
-var mnemonic = "whisper chalk legend talk record unfold orange dwarf hedgehog fringe buffalo capital";
+var mnemonic = "milk warrior economy around crime inject bulb voice enhance survey front celery";

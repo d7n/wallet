@@ -1,1 +1,1 @@
-var mnemonic = "aerobic hen jacket service cake drink theme differ keen want differ soon";
+var mnemonic = "response hazard slice repair double dress certain common shell unfair comic task";

@@ -1,1 +1,1 @@
-var mnemonic = "all sun yard lonely exhibit desk sing wagon truth wish parrot drift";
+var mnemonic = "hole already hint mother trim wrap orient junior salt forward radar illness";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth mercy useful cattle habit thrive novel behind suspect choose random goddess";
+var mnemonic = "demand corn two indoor swing shoot market peanut amount fossil genuine box";

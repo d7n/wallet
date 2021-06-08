@@ -1,1 +1,1 @@
-var mnemonic = "witness empty recipe proof smoke census tunnel sick include grit fabric satoshi";
+var mnemonic = "ketchup divide pattern spy chalk mail hobby critic balance spare belt cause";

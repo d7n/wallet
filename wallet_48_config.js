@@ -1,1 +1,1 @@
-var mnemonic = "treat pact regular visit isolate pioneer brother trip carpet panda stuff merry";
+var mnemonic = "spare smoke taste pluck ride romance earth other genre code wood twice";

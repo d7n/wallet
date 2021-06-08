@@ -1,1 +1,1 @@
-var mnemonic = "nose artefact ridge side congress swing honey depend horse thank economy loud";
+var mnemonic = "sorry phrase innocent fox kangaroo number obvious matrix process critic define treat";

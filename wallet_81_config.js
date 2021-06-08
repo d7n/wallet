@@ -1,1 +1,1 @@
-var mnemonic = "divide ocean wisdom snack cluster detail twenty simple echo ethics ridge party";
+var mnemonic = "scorpion salt piano million fresh together solution blood warrior gloom vessel glove";

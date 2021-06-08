@@ -1,1 +1,1 @@
-var mnemonic = "hurry issue stock stay rail method book furnace youth project title feel";
+var mnemonic = "crisp consider breeze champion quiz essay park glimpse asthma real account wife";

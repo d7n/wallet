@@ -1,1 +1,1 @@
-var mnemonic = "good chunk moon tank royal family club science ensure liberty blossom mimic";
+var mnemonic = "pistol speed worth stuff shaft sheriff cause cricket seat horn sorry design";

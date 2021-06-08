@@ -1,1 +1,1 @@
-var mnemonic = "feel fatal monkey hollow verify acquire salt orphan material salmon mansion movie";
+var mnemonic = "vendor copper pet grant voice lecture grit pigeon twist casual photo cement";

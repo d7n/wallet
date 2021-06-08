@@ -1,1 +1,1 @@
-var mnemonic = "room inflict misery exile pattern upon tuition item tape truly dune ignore";
+var mnemonic = "hard hub cluster primary crumble pact true envelope grid album syrup sea";

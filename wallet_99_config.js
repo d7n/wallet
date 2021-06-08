@@ -1,1 +1,1 @@
-var mnemonic = "music soda sustain diesel country muffin smart fresh acoustic bleak rebuild yellow";
+var mnemonic = "dust lady degree rocket topic art void blade term junk top tape";

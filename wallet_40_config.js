@@ -1,1 +1,1 @@
-var mnemonic = "dust tonight void reject crucial simple body fitness shoulder modify vanish brave";
+var mnemonic = "supply pass road teach travel swear celery mesh title heavy feed middle";

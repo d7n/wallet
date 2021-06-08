@@ -1,1 +1,1 @@
-var mnemonic = "embrace coyote oak pottery acid frog scrub whip uphold void rotate chimney";
+var mnemonic = "trap vocal cause prefer asset remind siege forum number anxiety hammer bunker";

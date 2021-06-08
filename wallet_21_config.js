@@ -1,1 +1,1 @@
-var mnemonic = "cactus record alone gather top tourist cook blur develop film elbow parade";
+var mnemonic = "youth paper tray hire must hurt peasant pave badge category supreme gas";

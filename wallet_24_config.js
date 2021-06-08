@@ -1,1 +1,1 @@
-var mnemonic = "aerobic hello blame supply hole maid cancel era pistol window sniff practice";
+var mnemonic = "hat fat wire soda rose fee enforce mention purity holiday ordinary practice";

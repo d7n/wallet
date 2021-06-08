@@ -1,1 +1,1 @@
-var mnemonic = "access write abuse garment husband merry harvest creek wash cheap key social";
+var mnemonic = "payment quit jacket garment person sound gap fiscal have iron universe typical";

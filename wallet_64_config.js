@@ -1,1 +1,1 @@
-var mnemonic = "quality genre food slush run lift morning ethics slice defy success enjoy";
+var mnemonic = "music cause subject behind clown say fall double student music agree shell";

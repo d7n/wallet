@@ -1,1 +1,1 @@
-var mnemonic = "picnic this motion team update sadness inner banner pool forward art limit";
+var mnemonic = "airport aisle item symptom fat area hotel lyrics enact punch hope unique";

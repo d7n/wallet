@@ -1,1 +1,1 @@
-var mnemonic = "favorite switch notable enhance uncle merge video proud length live make pitch";
+var mnemonic = "process physical expire train photo fancy couple knock target zero fiction sell";

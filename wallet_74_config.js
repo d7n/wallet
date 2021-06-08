@@ -1,1 +1,1 @@
-var mnemonic = "scene educate typical property nest wave fatal coffee artist border boat whale";
+var mnemonic = "wage mask ostrich giraffe double scene copy cat output vehicle cabin coast";

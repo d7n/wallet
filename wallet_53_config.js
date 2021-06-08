@@ -1,1 +1,1 @@
-var mnemonic = "oppose flee popular august enlist that copy peace blood main pool across";
+var mnemonic = "fault boost economy evoke pair domain open police visual inspire special allow";

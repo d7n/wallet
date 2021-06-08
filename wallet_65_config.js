@@ -1,1 +1,1 @@
-var mnemonic = "spoil ecology zebra onion middle cruel illness start leaf action forget label";
+var mnemonic = "shy keep connect oblige author history bus february owner quantum river detect";

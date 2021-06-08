@@ -1,1 +1,1 @@
-var mnemonic = "weather reopen spell young rent month giggle basic estate float topic six";
+var mnemonic = "half curtain season century elite flame lawn breeze above text enter estate";

@@ -1,1 +1,1 @@
-var mnemonic = "cute ritual like picture excuse rifle transfer fuel float exhibit drastic weapon";
+var mnemonic = "help erosion stereo husband barrel bacon elder exit blur earth globe fence";

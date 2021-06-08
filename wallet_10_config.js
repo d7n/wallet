@@ -1,1 +1,1 @@
-var mnemonic = "music hospital early put loyal heavy smart churn typical vibrant few affair";
+var mnemonic = "page razor circle tube garment jeans spend wheel whisper proud machine unfair";

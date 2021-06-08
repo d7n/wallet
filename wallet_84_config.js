@@ -1,1 +1,1 @@
-var mnemonic = "across debris obscure nature almost rug aunt anchor amazing boost camera analyst";
+var mnemonic = "feel sorry cotton noodle ketchup total syrup crop try square attack speed";

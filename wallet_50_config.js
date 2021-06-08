@@ -1,1 +1,1 @@
-var mnemonic = "history claw auction token lunch renew hour fury hungry critic feed noble";
+var mnemonic = "bag crazy adapt student giggle hip trigger comfort inhale trip quarter round";

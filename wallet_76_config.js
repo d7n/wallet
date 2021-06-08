@@ -1,1 +1,1 @@
-var mnemonic = "affair copper grant antique kingdom whale excite entire bulk vibrant trouble fortune";
+var mnemonic = "business topic popular panda plate dismiss tent upgrade ribbon steak interest possible";

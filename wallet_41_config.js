@@ -1,1 +1,1 @@
-var mnemonic = "renew innocent guess episode toy group have foster rotate knee noble vital";
+var mnemonic = "step couple gadget galaxy hip base oval cruise chicken account era sign";

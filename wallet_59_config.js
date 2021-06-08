@@ -1,1 +1,1 @@
-var mnemonic = "miss answer chicken property burden comic they thunder shoot duty adult close";
+var mnemonic = "city start face tackle essence shop tide evidence pair movie dose guitar";

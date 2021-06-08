@@ -1,1 +1,1 @@
-var mnemonic = "still pizza enrich ahead spice aware siren girl drop stay blossom draft";
+var mnemonic = "exist test silver then fall place pledge suffer other moral scrub answer";

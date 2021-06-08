@@ -1,1 +1,1 @@
-var mnemonic = "soul base print wave together royal over run cube resource dignity rather";
+var mnemonic = "wasp satoshi laundry legal trick mango when forget decade dial arrange dial";

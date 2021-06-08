@@ -1,1 +1,1 @@
-var mnemonic = "enrich genuine stand matter loud profit knee hammer camp library hat observe";
+var mnemonic = "frost open job table render alone lunch main spray couple green spare";

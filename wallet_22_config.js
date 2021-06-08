@@ -1,1 +1,1 @@
-var mnemonic = "fly few walnut hidden tuition swallow spring loyal dish usage label plug";
+var mnemonic = "salt labor metal indicate forest answer mosquito gold cute scare student trend";

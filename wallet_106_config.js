@@ -1,1 +1,1 @@
-var mnemonic = "quality family slow mountain nuclear used drop present install loop mother boat";
+var mnemonic = "naive cart almost token salon twice village cargo render island because time";

@@ -1,1 +1,1 @@
-var mnemonic = "bag require inner seminar inspire person ankle fury dolphin punch turkey method";
+var mnemonic = "dial sausage monster foster patch enough payment ivory tiny peace wool sock";

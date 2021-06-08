@@ -1,1 +1,1 @@
-var mnemonic = "way flee forward element truck old pink staff sample verb limit derive";
+var mnemonic = "carbon again century exhibit situate repeat noise genre mixed unaware cannon decade";

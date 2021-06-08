@@ -1,1 +1,1 @@
-var mnemonic = "assist reform idea enter shock essence cabbage either sing boss kitchen pudding";
+var mnemonic = "right muscle hood taxi race iron eternal rather meat draft drastic spread";

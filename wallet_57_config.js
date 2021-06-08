@@ -1,1 +1,1 @@
-var mnemonic = "various donor holiday young truck soda junk renew timber fluid abstract below";
+var mnemonic = "fancy fringe appear glance snake situate whisper maid service arrow hard vocal";

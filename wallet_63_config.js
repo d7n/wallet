@@ -1,1 +1,1 @@
-var mnemonic = "reunion sun normal nature merry runway install that over walk salad chalk";
+var mnemonic = "tackle comfort hotel vanish camp portion flame canvas chaos afford hawk before";

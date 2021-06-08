@@ -1,1 +1,1 @@
-var mnemonic = "poet possible laugh ranch quick layer lake cash obey prepare grain venture";
+var mnemonic = "distance attack birth wrestle relax undo goose brown ill valley left wife";

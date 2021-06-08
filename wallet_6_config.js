@@ -1,1 +1,1 @@
-var mnemonic = "moment cry absent elegant foot youth purpose domain danger lawsuit agree hint";
+var mnemonic = "rough excess oak mom ability abuse auction viable sample local royal change";

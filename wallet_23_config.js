@@ -1,1 +1,1 @@
-var mnemonic = "rural install antique leaf rude fold sort retreat enter mad book honey";
+var mnemonic = "hybrid practice armor just diamond brave stable remind hospital pair sign kitten";

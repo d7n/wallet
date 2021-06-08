@@ -1,1 +1,1 @@
-var mnemonic = "nest slim wet basic force labor before wise rotate broken twin shaft";
+var mnemonic = "adjust duck fork exchange pole away impulse label custom gadget exercise spring";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze frozen trouble scale rent radio vital essence feature deliver furnace hawk";
+var mnemonic = "arch gloom together collect peace sausage human raw drastic diet odor dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "key lawsuit tuition right verb gym dismiss any rally domain special curious";
+var mnemonic = "valid found kind voyage repeat barrel bottom future misery together sick throw";

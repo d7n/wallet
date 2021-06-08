@@ -1,1 +1,1 @@
-var mnemonic = "educate media air rather virus risk inform void lobster travel prevent labor";
+var mnemonic = "height flame hamster infant donor section benefit profit tunnel pass benefit speak";

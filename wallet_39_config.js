@@ -1,1 +1,1 @@
-var mnemonic = "robust circle female stool clock equip repeat glad metal upgrade bring brand";
+var mnemonic = "matter mushroom kiwi lawsuit embark kitchen trip victory motor blur garden cart";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito danger identify else adjust obscure save congress abandon canoe smoke add";
+var mnemonic = "random erode dawn awake actress penalty margin wolf supply have more know";

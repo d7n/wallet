@@ -1,1 +1,1 @@
-var mnemonic = "pluck feed early cabin observe sorry hire thrive end shoulder stable excite";
+var mnemonic = "tennis brief entire two item true effort side fatal connect rich cruel";
