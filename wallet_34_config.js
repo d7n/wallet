@@ -1,1 +1,1 @@
-var mnemonic = "leopard galaxy army answer leopard river ceiling pill journey dial trust rate";
+var mnemonic = "vehicle snow crack cement use urge oak plunge talk shadow easy jazz";

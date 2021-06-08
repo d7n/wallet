@@ -1,1 +1,1 @@
-var mnemonic = "educate enable better romance inmate tomato wedding diamond pet trial riot second";
+var mnemonic = "image loop pluck issue parrot dust during myth ten foam make oblige";

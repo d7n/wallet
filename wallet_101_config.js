@@ -1,1 +1,1 @@
-var mnemonic = "picture oval math embody pear cereal today delay wrong accuse sand lottery";
+var mnemonic = "wage toilet sorry upon dust angry salon belt sauce absorb side juice";

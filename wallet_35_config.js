@@ -1,1 +1,1 @@
-var mnemonic = "exchange panda tomato suggest decline will dragon swarm evolve spike replace option";
+var mnemonic = "embark whisper front level rhythm someone false risk immense problem joy journey";

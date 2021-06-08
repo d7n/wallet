@@ -1,1 +1,1 @@
-var mnemonic = "simple float nominee fresh woman rather magnet track fault sell shoulder blast";
+var mnemonic = "more mushroom blur pony major vanish sustain weather what legal enemy weather";

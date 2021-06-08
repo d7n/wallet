@@ -1,1 +1,1 @@
-var mnemonic = "casino anchor bind cable intact velvet miracle steak purchase jar hour pluck";
+var mnemonic = "message fire truly clinic false razor suit angle across olive life today";

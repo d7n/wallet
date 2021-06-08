@@ -1,1 +1,1 @@
-var mnemonic = "abstract fancy media reject device kick trash spice fiction certain grab degree";
+var mnemonic = "hockey problem figure crack middle nothing badge brush save job refuse sail";

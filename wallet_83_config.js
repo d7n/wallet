@@ -1,1 +1,1 @@
-var mnemonic = "tent claim cook alarm rhythm dynamic hope tired sunset dutch decorate sister";
+var mnemonic = "rural skull vintage owner tired dress toy poverty beauty logic lumber game";

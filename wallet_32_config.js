@@ -1,1 +1,1 @@
-var mnemonic = "surge green girl gold one pair head library mistake toast siege notable";
+var mnemonic = "asset common wisdom alone earn priority law tell march lava repair devote";

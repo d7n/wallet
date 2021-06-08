@@ -1,1 +1,1 @@
-var mnemonic = "silent moment finger slender ripple cricket upon gas album denial couple ski";
+var mnemonic = "office math mechanic fade era coast warfare garbage goose sauce auction guard";

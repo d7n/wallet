@@ -1,1 +1,1 @@
-var mnemonic = "blush antique step attitude toy mutual good call nice blouse turtle magic";
+var mnemonic = "tray glare filter lonely royal smart dawn unlock width detect world convince";

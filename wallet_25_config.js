@@ -1,1 +1,1 @@
-var mnemonic = "reunion broom letter unit search brand sadness evidence betray project media panel";
+var mnemonic = "metal near garbage travel occur idea idea fork move forum hybrid win";

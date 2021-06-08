@@ -1,1 +1,1 @@
-var mnemonic = "junior evoke twist move actress device brown pupil staff midnight garden original";
+var mnemonic = "race dance north cherry remind brain talk sustain drip pudding ice memory";

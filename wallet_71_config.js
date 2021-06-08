@@ -1,1 +1,1 @@
-var mnemonic = "beef stable plug agent dizzy repair train bubble festival upper surface man";
+var mnemonic = "power noise angry organ sure ripple duck top voice frame stereo grape";

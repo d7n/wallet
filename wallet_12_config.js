@@ -1,1 +1,1 @@
-var mnemonic = "blast dentist foil office appear finger later ice ceiling often twelve kiss";
+var mnemonic = "jazz still else question cruel type breeze radar mechanic soon speak boy";

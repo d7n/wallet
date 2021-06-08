@@ -1,1 +1,1 @@
-var mnemonic = "able wild mail stamp citizen elder moral during insect endorse turn hamster";
+var mnemonic = "symbol recycle rail glide slight old fun story slush wine fit hunt";

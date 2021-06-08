@@ -1,1 +1,1 @@
-var mnemonic = "deer scheme robust razor spell priority viable grief train flag gravity stereo";
+var mnemonic = "welcome ivory economy fox entire crumble voice mix problem poet network trash";

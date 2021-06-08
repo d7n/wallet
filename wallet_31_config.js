@@ -1,1 +1,1 @@
-var mnemonic = "patient afford material uncover theme decorate trap again pizza net connect okay";
+var mnemonic = "priority smooth news fun cactus come symptom fiscal curious student tomato bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "metal fly work relax silent taxi media original modify maze rent acoustic";
+var mnemonic = "royal common become rocket mango gadget cover inform elbow approve allow seven";

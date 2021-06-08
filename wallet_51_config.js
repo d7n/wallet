@@ -1,1 +1,1 @@
-var mnemonic = "display online dumb resemble broken mask misery cargo happy hedgehog fog aerobic";
+var mnemonic = "ivory web claim robust churn universe pigeon old memory door boy reflect";

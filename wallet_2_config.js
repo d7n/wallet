@@ -1,1 +1,1 @@
-var mnemonic = "quiz churn ramp ginger position gasp observe make move citizen build absorb";
+var mnemonic = "silly leisure village link true tonight kiss grace job rice cactus gauge";

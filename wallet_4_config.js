@@ -1,1 +1,1 @@
-var mnemonic = "ability van destroy stumble canoe minimum immune broken echo strong fragile pulp";
+var mnemonic = "pear race enter citizen rubber able endless raise foster web version april";

@@ -1,1 +1,1 @@
-var mnemonic = "parade glow shy layer plunge access sentence autumn force canal scrap scrub";
+var mnemonic = "few basket apart seven defense elbow once coral crucial rebuild junk combine";

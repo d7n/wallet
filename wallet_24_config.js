@@ -1,1 +1,1 @@
-var mnemonic = "dizzy depart captain delay large retreat laundry throw emerge trial color antenna";
+var mnemonic = "summer royal ball during relax subject curve legal oak radar capable tray";

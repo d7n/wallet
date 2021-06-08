@@ -1,1 +1,1 @@
-var mnemonic = "gesture moral shine tribe copper stairs cup junk wing junior chat gain";
+var mnemonic = "warm gain glory edge hill disease radio divide breeze enhance life neutral";

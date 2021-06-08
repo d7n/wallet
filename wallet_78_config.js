@@ -1,1 +1,1 @@
-var mnemonic = "crucial daring draw soon opera symbol start brick limb ankle physical pretty";
+var mnemonic = "enough suggest spell farm hedgehog provide sunny turkey barrel laundry credit dinosaur";

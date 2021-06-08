@@ -1,1 +1,1 @@
-var mnemonic = "theory interest still blue frown draw fever sample answer close code process";
+var mnemonic = "drive pipe pencil meat curve master brass armed believe hawk motor join";

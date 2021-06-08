@@ -1,1 +1,1 @@
-var mnemonic = "wide vast property deny razor risk phone type below struggle okay doll";
+var mnemonic = "recall click bench similar glimpse height mosquito misery stick tribe dragon magic";

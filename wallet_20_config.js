@@ -1,1 +1,1 @@
-var mnemonic = "deposit loop sand sibling carbon robust library key cake wish alley hotel";
+var mnemonic = "detect wing direct view mouse renew affair repeat trip club flight garment";

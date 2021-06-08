@@ -1,1 +1,1 @@
-var mnemonic = "dad frequent blade shoot hen trap decrease silent swift game settle flavor";
+var mnemonic = "pull afraid gift cat fabric mercy afford hip attract same attitude easily";

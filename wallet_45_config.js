@@ -1,1 +1,1 @@
-var mnemonic = "assume narrow jealous upset obey glove soft truth thumb degree future ripple";
+var mnemonic = "breeze lottery calm pretty plunge brave monkey outer menu devote swap start";

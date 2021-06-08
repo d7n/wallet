@@ -1,1 +1,1 @@
-var mnemonic = "derive income poem muscle usual pipe rival group crash victory laugh bright";
+var mnemonic = "bacon bean page relax crisp swim two draw stereo scare toilet seed";

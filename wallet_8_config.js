@@ -1,1 +1,1 @@
-var mnemonic = "mechanic essay carry juice because furnace churn juice awful bundle limb clutch";
+var mnemonic = "ball speed shaft rocket trap future outside denial level drama chicken there";

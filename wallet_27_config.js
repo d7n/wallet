@@ -1,1 +1,1 @@
-var mnemonic = "wisdom task dragon must bid define pelican clean baby noodle home crumble";
+var mnemonic = "sea night guess welcome turtle orbit mammal sort logic cash manual insane";

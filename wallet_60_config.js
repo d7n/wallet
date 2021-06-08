@@ -1,1 +1,1 @@
-var mnemonic = "midnight anxiety lecture bounce spawn draft frog country short nuclear cabin bike";
+var mnemonic = "dose other glass unfair exhaust reflect target sorry shine tribe throw borrow";

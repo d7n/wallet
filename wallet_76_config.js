@@ -1,1 +1,1 @@
-var mnemonic = "surge black earn stick mixture icon record tobacco file source join festival";
+var mnemonic = "kingdom firm drastic apple reflect elbow peanut upgrade napkin edge cave over";

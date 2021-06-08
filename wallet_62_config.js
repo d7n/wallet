@@ -1,1 +1,1 @@
-var mnemonic = "donor nut venue lens journey chest cousin discover home grace stage media";
+var mnemonic = "news click eyebrow jelly maze like advance spring duty fatigue speak icon";

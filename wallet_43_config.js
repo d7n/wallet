@@ -1,1 +1,1 @@
-var mnemonic = "kit weekend time sort actress scale couch denial riot sort shrug hollow";
+var mnemonic = "wear scout total cluster kite donate pulp broom lounge twenty wide satoshi";

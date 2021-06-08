@@ -1,1 +1,1 @@
-var mnemonic = "curtain quantum gap whale resource glad tree enroll omit sun address sister";
+var mnemonic = "energy entry subject unfold maid congress own slim inmate visual nasty wife";

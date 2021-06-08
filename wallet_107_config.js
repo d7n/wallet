@@ -1,1 +1,1 @@
-var mnemonic = "smart sell logic normal tip end cover display path bachelor agree frame";
+var mnemonic = "vivid sound remain liquid gaze speak crash basic mask change curtain west";

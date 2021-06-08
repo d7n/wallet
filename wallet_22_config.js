@@ -1,1 +1,1 @@
-var mnemonic = "enroll disagree seed case target lend where army happy judge review escape";
+var mnemonic = "odor october survey boat thing consider off ostrich brave kind order rude";

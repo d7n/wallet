@@ -1,1 +1,1 @@
-var mnemonic = "harbor praise beach phrase crane begin become twelve west rude oak capital";
+var mnemonic = "cargo test inside toward route swap fancy february stage marble spot orchard";

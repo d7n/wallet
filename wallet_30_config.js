@@ -1,1 +1,1 @@
-var mnemonic = "fresh absurd where there twenty expose oyster cash heart curtain sphere turtle";
+var mnemonic = "rich learn forward brother during mimic promote ill liberty short size plunge";

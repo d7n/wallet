@@ -1,1 +1,1 @@
-var mnemonic = "pistol craft noodle cupboard album snap type ten chase goddess dose fault";
+var mnemonic = "suffer allow grain copy innocent swim senior rigid pen shield human random";

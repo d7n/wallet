@@ -1,1 +1,1 @@
-var mnemonic = "merit deputy doctor sheriff pave matrix seven parrot fever bus motion front";
+var mnemonic = "kangaroo credit cloud suspect confirm leaf make retire eternal fossil obtain quarter";

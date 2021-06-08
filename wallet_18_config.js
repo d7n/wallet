@@ -1,1 +1,1 @@
-var mnemonic = "quiz prepare link food insect select talk onion pottery morning frost tilt";
+var mnemonic = "catalog minimum pipe crowd scissors steak exile doctor mercy enemy pitch gentle";

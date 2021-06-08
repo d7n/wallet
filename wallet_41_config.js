@@ -1,1 +1,1 @@
-var mnemonic = "then pony traffic milk small interest museum hope nuclear open square plate";
+var mnemonic = "wing mouse island keep later napkin strategy uphold sound area large critic";

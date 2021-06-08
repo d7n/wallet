@@ -1,1 +1,1 @@
-var mnemonic = "fetch enhance pony timber account slush genius review appear pepper survey attack";
+var mnemonic = "repair ripple behind ritual steel uniform year empty acoustic suit case deposit";

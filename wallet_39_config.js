@@ -1,1 +1,1 @@
-var mnemonic = "actor auction kangaroo sunset loud boring tooth crumble napkin friend holiday repeat";
+var mnemonic = "digital turtle congress code mind bundle obvious next soap guilt shuffle impose";

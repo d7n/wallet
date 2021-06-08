@@ -1,1 +1,1 @@
-var mnemonic = "slab hire perfect silly glare stairs pipe elder arrow vessel forum toast";
+var mnemonic = "bag enforce emerge speed style list grain sand fringe treat cat eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen improve reform such expire forest aisle panel cake version author hobby";
+var mnemonic = "warfare tumble defense dash universe profit canoe shoulder among network dice walk";

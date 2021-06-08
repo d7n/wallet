@@ -1,1 +1,1 @@
-var mnemonic = "bottom more boat jewel search rude collect crumble enhance awesome brick swing";
+var mnemonic = "toddler flight convince skin better foster include author task layer fly hazard";

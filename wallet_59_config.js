@@ -1,1 +1,1 @@
-var mnemonic = "square high social bread author tomorrow faith duty resist tobacco brave flight";
+var mnemonic = "canoe skill young clump grace shoe vivid pencil tube dolphin trash duck";

@@ -1,1 +1,1 @@
-var mnemonic = "hair nasty final sweet virtual sponsor pear various window motion power permit";
+var mnemonic = "ahead about grain mind answer saddle have hedgehog ahead muffin win more";

@@ -1,1 +1,1 @@
-var mnemonic = "since canoe use tooth still enroll burst taste dry alert language mandate";
+var mnemonic = "vibrant monkey erode firm intact couch carry transfer steak swarm aware arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer magic pelican skin today now adapt gorilla subject afraid able hen";
+var mnemonic = "grass board tomato undo view sport squeeze common option foam rabbit kitten";

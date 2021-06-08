@@ -1,1 +1,1 @@
-var mnemonic = "great nasty will wrestle report turkey bone empower portion want gospel current";
+var mnemonic = "bronze fame actress demise bind alcohol gossip dune limb glare essay bonus";

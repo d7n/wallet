@@ -1,1 +1,1 @@
-var mnemonic = "bone load wrong ship during omit gesture cannon spend stove original still";
+var mnemonic = "online impulse divide rail anxiety grace tattoo hockey river pattern pipe column";

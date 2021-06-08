@@ -1,1 +1,1 @@
-var mnemonic = "nothing loyal rival version fox evidence head unlock forum attract taste fold";
+var mnemonic = "immense cruise vintage escape want host episode audit april skate wool reduce";

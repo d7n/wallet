@@ -1,1 +1,1 @@
-var mnemonic = "drive turn fire route desk immense arrange two hire dynamic furnace leopard";
+var mnemonic = "modify profit lion dinosaur carbon trend tape gloom husband maximum arrow record";

@@ -1,1 +1,1 @@
-var mnemonic = "era rack hero job garage conduct science duck aisle video lizard trouble";
+var mnemonic = "lobster fix describe soul purity dentist april timber enforce width company wool";

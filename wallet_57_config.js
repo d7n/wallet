@@ -1,1 +1,1 @@
-var mnemonic = "close rather physical infant female giant sand light lunar foot service license";
+var mnemonic = "crystal agent fiber glue guide cage opinion clip camera twice song robot";

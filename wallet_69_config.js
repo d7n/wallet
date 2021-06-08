@@ -1,1 +1,1 @@
-var mnemonic = "mechanic bounce pioneer crater plate supply gaze detect wealth wheel range advance";
+var mnemonic = "cactus shine account snake sight pact spread evidence differ witness dry run";

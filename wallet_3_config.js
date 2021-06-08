@@ -1,1 +1,1 @@
-var mnemonic = "car marble party scale tone time burger lucky private portion visual keep";
+var mnemonic = "awake mobile miss cheese spring roast entire leisure ice pass barely capable";

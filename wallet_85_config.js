@@ -1,1 +1,1 @@
-var mnemonic = "iron icon crane extra disease sausage danger nest ordinary flip flavor kiss";
+var mnemonic = "winner sport smooth disorder distance find tag destroy panther rich reward helmet";

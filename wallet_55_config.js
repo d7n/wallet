@@ -1,1 +1,1 @@
-var mnemonic = "picture write pudding fit sure advance cinnamon narrow office wagon chapter now";
+var mnemonic = "cupboard trouble butter gown scrap neutral select open regret smooth word issue";

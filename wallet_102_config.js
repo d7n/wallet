@@ -1,1 +1,1 @@
-var mnemonic = "minimum maze cheap subway crew basic oppose still flag road unfair funny";
+var mnemonic = "lesson evolve captain easy large robot recall cat poet bleak blue hollow";

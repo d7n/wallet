@@ -1,1 +1,1 @@
-var mnemonic = "open hurry process omit memory plate yellow cool dial naive gadget endorse";
+var mnemonic = "dish comfort embark parent remove cage coast garment trade window despair demand";

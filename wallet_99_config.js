@@ -1,1 +1,1 @@
-var mnemonic = "purse muffin drift add company drive dinner renew nurse someone parade picture";
+var mnemonic = "flee question quarter retire valid food vague camp stairs relax adult early";

@@ -1,1 +1,1 @@
-var mnemonic = "math cricket recall rude brave april acid retire sustain worry winner blur";
+var mnemonic = "filter empower term culture winter ridge view dwarf layer easy dolphin quit";

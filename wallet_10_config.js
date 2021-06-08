@@ -1,1 +1,1 @@
-var mnemonic = "boy glide about century immense sleep charge jacket bitter little glide strong";
+var mnemonic = "fame crew pink powder mountain fade artist primary nothing toilet slight mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "shock length industry document wood retreat number limit gesture radar valve company";
+var mnemonic = "horror move alcohol maximum face purpose nice fault wealth exclude client shop";

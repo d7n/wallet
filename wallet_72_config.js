@@ -1,1 +1,1 @@
-var mnemonic = "pair happy pepper clutch forward radio place soul busy combine pool innocent";
+var mnemonic = "credit swap purse combine cross rail skate balance pond emotion lecture enhance";

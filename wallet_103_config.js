@@ -1,1 +1,1 @@
-var mnemonic = "genre decrease utility coconut permit midnight garden thrive enter joy pole van";
+var mnemonic = "lock entire bird horror filter minute build veteran gift fit scan affair";

@@ -1,1 +1,1 @@
-var mnemonic = "system bubble room silly enrich identify truly bullet smart maid honey equip";
+var mnemonic = "credit token sibling mechanic jazz because cushion come mix health adjust birth";

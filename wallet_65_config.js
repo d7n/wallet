@@ -1,1 +1,1 @@
-var mnemonic = "broccoli seek choice denial mimic zero design essay fault update crumble hole";
+var mnemonic = "refuse eight bamboo decorate only shadow approve health leader melody wealth recycle";

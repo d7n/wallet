@@ -1,1 +1,1 @@
-var mnemonic = "poverty path young reunion aspect admit erase picnic sport sustain nurse shell";
+var mnemonic = "cigar dinner chicken addict video click soup shove cushion panic crop afraid";

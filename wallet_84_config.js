@@ -1,1 +1,1 @@
-var mnemonic = "fringe toy hip girl carry silent credit gate jazz tortoise poet thought";
+var mnemonic = "various toss burden post beyond hurry leave reopen solar ozone system blouse";

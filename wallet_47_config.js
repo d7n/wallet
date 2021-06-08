@@ -1,1 +1,1 @@
-var mnemonic = "sample bulb parrot switch pottery match husband exact sail shoe cupboard frame";
+var mnemonic = "iron rifle smart prison iron life physical vacuum famous wage afford useful";

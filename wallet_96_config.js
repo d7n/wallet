@@ -1,1 +1,1 @@
-var mnemonic = "season bulk year ozone certain cluster judge spatial frog power adapt all";
+var mnemonic = "manual warm carbon measure resource crunch mother better image velvet initial rare";

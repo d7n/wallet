@@ -1,1 +1,1 @@
-var mnemonic = "pave patch leader crew green chronic adapt fossil scale jazz maple into";
+var mnemonic = "near idea tuna math cactus lend lens risk business tuition embark hold";

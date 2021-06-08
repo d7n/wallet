@@ -1,1 +1,1 @@
-var mnemonic = "struggle person iron effort ramp damage hollow strategy same conduct climb slender";
+var mnemonic = "turtle target mad tag army climb brief purpose category diagram enable cushion";

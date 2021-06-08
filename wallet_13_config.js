@@ -1,1 +1,1 @@
-var mnemonic = "dog define broken draft oak symbol glow car pitch pull motion grief";
+var mnemonic = "flavor angry culture nominee symptom anger shuffle tourist pigeon ill cook silly";

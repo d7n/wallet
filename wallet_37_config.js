@@ -1,1 +1,1 @@
-var mnemonic = "lion expand dust expand clap defense this crush potato hole gauge damp";
+var mnemonic = "kiwi vehicle winter hour valve brain witness amused trick web clock core";

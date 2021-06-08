@@ -1,1 +1,1 @@
-var mnemonic = "step ticket access rifle pepper check arch token blast mesh employ cherry";
+var mnemonic = "rebuild bulb quantum ramp dolphin drastic diamond jealous chicken level lazy address";
