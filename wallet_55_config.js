@@ -1,1 +1,1 @@
-var mnemonic = "brave fresh poverty economy moon glad client frost point album old effort";
+var mnemonic = "chase super worth opera dial wheat abandon eternal globe clock crane ethics";

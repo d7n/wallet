@@ -1,1 +1,1 @@
-var mnemonic = "net shoulder unlock industry galaxy topple enforce media fiction extra oven library";
+var mnemonic = "always market rather change entire boring entire lounge hurt grunt nation spring";

@@ -1,1 +1,1 @@
-var mnemonic = "feature harvest because diary result duck pole auto tired magnet nuclear stem";
+var mnemonic = "walnut cargo fish fat type nose asthma all lend tomorrow trust creek";

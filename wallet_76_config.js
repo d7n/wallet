@@ -1,1 +1,1 @@
-var mnemonic = "jaguar bundle autumn unit shed armed whip stool endorse panda exchange walk";
+var mnemonic = "cheese butter forget fault rural cost dance skate rookie chicken amazing ski";

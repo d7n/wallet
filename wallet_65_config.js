@@ -1,1 +1,1 @@
-var mnemonic = "enrich fashion police trust ticket describe hip stadium whale tape guilt inform";
+var mnemonic = "stand insane universe inherit layer border rocket bitter pass struggle square satisfy";

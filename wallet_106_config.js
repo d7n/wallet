@@ -1,1 +1,1 @@
-var mnemonic = "cupboard misery cable minor exhibit crater essay reopen ordinary exact ankle truth";
+var mnemonic = "phone arrow science oak palm gate clay render leg shoot unknown ramp";

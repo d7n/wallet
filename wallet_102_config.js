@@ -1,1 +1,1 @@
-var mnemonic = "ill degree globe output burst blind tunnel improve manage embody retreat budget";
+var mnemonic = "route paddle defy early guard excuse acoustic photo bar donate educate problem";

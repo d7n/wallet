@@ -1,1 +1,1 @@
-var mnemonic = "that solution invite hybrid pole puzzle detect warm raccoon supply base gold";
+var mnemonic = "virus position street have lucky fence suggest magic adapt churn frown accident";

@@ -1,1 +1,1 @@
-var mnemonic = "wall rigid video error still romance celery glare empower execute fantasy pretty";
+var mnemonic = "alter gift lunch permit girl cup offer post father hawk spoil rude";

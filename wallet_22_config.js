@@ -1,1 +1,1 @@
-var mnemonic = "you shaft stage build then chief genre thunder gold main output galaxy";
+var mnemonic = "sustain response hungry explain little tent pole trumpet fancy capable hen assist";

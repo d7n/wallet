@@ -1,1 +1,1 @@
-var mnemonic = "above culture strong catalog shove auto master delay elegant infant mandate proof";
+var mnemonic = "brick bid laundry someone give maximum unfair creek advance inflict good soon";

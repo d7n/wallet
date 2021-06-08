@@ -1,1 +1,1 @@
-var mnemonic = "busy impulse soap metal correct print kit behind chief spin slender bone";
+var mnemonic = "fix essay improve unable isolate stereo possible used never pond practice luggage";

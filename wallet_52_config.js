@@ -1,1 +1,1 @@
-var mnemonic = "slot parent cabbage also gloom divorce obvious cake round release fancy combine";
+var mnemonic = "tennis valve color daring fade inside chapter element foam sunset school marble";

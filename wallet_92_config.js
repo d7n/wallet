@@ -1,1 +1,1 @@
-var mnemonic = "truth gap blade all tilt vacuum three must gospel segment coil stamp";
+var mnemonic = "shoe dice lock beach expand fence bulk element endless tunnel crop rough";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony human jump urge thrive era car fall pledge switch hamster dawn";
+var mnemonic = "finish amateur sketch hover wear jar brisk clerk horn grit rain journey";

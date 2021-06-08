@@ -1,1 +1,1 @@
-var mnemonic = "find shoot put gadget future report insect trash mixture festival test menu";
+var mnemonic = "luxury treat airport sleep gain injury click piano artefact patrol beyond sibling";

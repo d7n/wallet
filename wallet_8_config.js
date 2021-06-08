@@ -1,1 +1,1 @@
-var mnemonic = "chunk despair lock crawl magic direct ostrich six behind script innocent oak";
+var mnemonic = "orient demise soldier tragic liquid what black next extra rifle office endless";

@@ -1,1 +1,1 @@
-var mnemonic = "silk slim abuse onion parrot ridge avoid analyst emerge human surge scheme";
+var mnemonic = "stuff outer ranch inquiry museum biology visual renew lock isolate wall sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "ask crazy slam scan manage donkey move border image language reveal flag";
+var mnemonic = "light question safe tissue orbit brass near vital census kit attack multiply";

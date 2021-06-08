@@ -1,1 +1,1 @@
-var mnemonic = "weasel syrup drip behave enough fold theory hundred again start pepper certain";
+var mnemonic = "valid reflect blush life library choose evolve rubber garage file enlist rookie";

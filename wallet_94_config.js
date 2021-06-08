@@ -1,1 +1,1 @@
-var mnemonic = "friend prefer machine timber machine number square recycle dinner gauge hockey industry";
+var mnemonic = "clown home spider border invite wrist version tuna guide velvet average remind";

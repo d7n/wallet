@@ -1,1 +1,1 @@
-var mnemonic = "seminar baby calm leg meadow law negative jealous fashion tree rely merge";
+var mnemonic = "speak basket tunnel problem wave ceiling crumble hill explain banner scout silent";

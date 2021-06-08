@@ -1,1 +1,1 @@
-var mnemonic = "suggest famous quote dress adapt mistake tomorrow police trophy crop hundred clown";
+var mnemonic = "hazard cry axis donate season second army day worth summer hidden fall";

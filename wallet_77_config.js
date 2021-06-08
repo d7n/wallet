@@ -1,1 +1,1 @@
-var mnemonic = "buddy lounge bitter season garden win shield elbow garden goose dish mass";
+var mnemonic = "belt cradle lottery regret script expect naive congress table oppose absurd melt";

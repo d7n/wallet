@@ -1,1 +1,1 @@
-var mnemonic = "outdoor neck harsh today lift stairs ripple turtle dignity curve hard market";
+var mnemonic = "core celery mansion grass purity cream always action poverty rack gown state";

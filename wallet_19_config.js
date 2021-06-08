@@ -1,1 +1,1 @@
-var mnemonic = "path thumb upper remain typical talent achieve matter grow nurse illegal replace";
+var mnemonic = "shoulder minor clever cluster ill swap slogan decade album budget barrel front";

@@ -1,1 +1,1 @@
-var mnemonic = "month nest middle vanish great kangaroo earth crawl hour wonder drill special";
+var mnemonic = "dial cabin reform flame mimic parade twist shoot broccoli negative become mother";

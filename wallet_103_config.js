@@ -1,1 +1,1 @@
-var mnemonic = "bargain flag dance pass drink walnut glass slow mention design coast deal";
+var mnemonic = "nasty absurd brick seek crazy finger seven girl select bid into eye";

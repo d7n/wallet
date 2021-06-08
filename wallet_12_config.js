@@ -1,1 +1,1 @@
-var mnemonic = "web sleep sheriff orchard chunk dove path force trade attitude youth jaguar";
+var mnemonic = "side settle agree can express valve connect appear visit raccoon smile fantasy";

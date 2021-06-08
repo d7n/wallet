@@ -1,1 +1,1 @@
-var mnemonic = "end margin skate casino help orphan hire misery salad brass okay minimum";
+var mnemonic = "direct crunch enhance slogan boost hand apple ensure mechanic tobacco attend pill";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty actor unhappy unit void inject mention knock suggest stamp behave outer";
+var mnemonic = "six surround easily music mutual dog ridge protect potato zebra shy face";

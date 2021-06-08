@@ -1,1 +1,1 @@
-var mnemonic = "pole easy raw intact pool sentence debate stadium judge seat abuse top";
+var mnemonic = "sugar rate fine record essay law cave black symbol kite spoil achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "remain nominee ordinary choose original cover chest advice century potato duty suggest";
+var mnemonic = "april arch bus bind enter traffic access edit insane sea shop style";

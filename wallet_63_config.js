@@ -1,1 +1,1 @@
-var mnemonic = "citizen vocal business bubble one snap chest garlic globe satoshi dentist more";
+var mnemonic = "jazz fall fancy vessel month dismiss ten science ginger dry salon cage";

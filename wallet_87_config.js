@@ -1,1 +1,1 @@
-var mnemonic = "half together phone high buzz exercise clerk slender anchor latin sport ahead";
+var mnemonic = "antenna theme impulse sort kite shed silent elephant sample journey brick salute";

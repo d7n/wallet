@@ -1,1 +1,1 @@
-var mnemonic = "oyster embody code stem afford scare found able repeat eagle palm dirt";
+var mnemonic = "device refuse enough retreat eye exercise expand try leave jar arena excess";

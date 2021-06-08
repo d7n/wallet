@@ -1,1 +1,1 @@
-var mnemonic = "abuse circle effort once goat tiger capital magic cost what also bitter";
+var mnemonic = "avocado appear budget supreme vehicle iron bread valid thought write mutual speed";

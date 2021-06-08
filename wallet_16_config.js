@@ -1,1 +1,1 @@
-var mnemonic = "whip host demand erupt vintage rather rough upon uniform rate strike caution";
+var mnemonic = "surround bamboo step link type visit divorce swarm sun exact derive few";

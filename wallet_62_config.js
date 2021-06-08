@@ -1,1 +1,1 @@
-var mnemonic = "van until couple hour swap rate vendor pluck range excess around royal";
+var mnemonic = "pistol grape alter ring scissors moon invest term adapt modify section buddy";

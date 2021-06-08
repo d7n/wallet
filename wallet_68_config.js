@@ -1,1 +1,1 @@
-var mnemonic = "spread broom disagree father fit chunk defense steak adjust thing slight midnight";
+var mnemonic = "taxi tower enjoy later fresh fresh evoke rely horror lake hour better";

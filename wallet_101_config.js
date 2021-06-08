@@ -1,1 +1,1 @@
-var mnemonic = "practice today chimney welcome noble mechanic health minor water cute two cluster";
+var mnemonic = "cannon push cactus february you odor wage intact advice comfort drift disorder";

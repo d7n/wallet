@@ -1,1 +1,1 @@
-var mnemonic = "affair wrap feature inflict multiply castle vault rose web fit mother tourist";
+var mnemonic = "actual wedding helmet labor whale bounce record lizard kiwi decide chair cactus";

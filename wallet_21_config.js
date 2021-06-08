@@ -1,1 +1,1 @@
-var mnemonic = "ceiling bench movie discover accuse remain milk join view monitor anger real";
+var mnemonic = "royal neither claim earn either guilt duty ship hunt hospital push cable";

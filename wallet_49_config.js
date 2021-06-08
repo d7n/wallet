@@ -1,1 +1,1 @@
-var mnemonic = "mechanic venue push ocean logic expire fork clog edge gas diamond wave";
+var mnemonic = "elite flash hybrid reflect bird hub pet artefact pony zero picnic raccoon";

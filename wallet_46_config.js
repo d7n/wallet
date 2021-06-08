@@ -1,1 +1,1 @@
-var mnemonic = "orient favorite cry wreck neither dilemma truly burden reject cabin jacket olive";
+var mnemonic = "dismiss task analyst lens mango lamp prize caution trap fitness below museum";

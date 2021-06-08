@@ -1,1 +1,1 @@
-var mnemonic = "artist foster one coach luggage across feed curious innocent hedgehog guess easy";
+var mnemonic = "debate throw result toy return system tray aerobic rather assist accident fame";

@@ -1,1 +1,1 @@
-var mnemonic = "track neglect maze skate trash staff stool bounce skill grace cake lion";
+var mnemonic = "squeeze gentle pair indoor coffee island treat achieve fabric awful clerk medal";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus render curtain fit enroll pigeon range mercy magnet critic best employ";
+var mnemonic = "idea device unlock together range uniform casual ski flight item tide alien";

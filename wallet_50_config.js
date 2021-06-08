@@ -1,1 +1,1 @@
-var mnemonic = "enhance end today basic alarm refuse odor chalk diet neck gospel always";
+var mnemonic = "soon glue casual example stairs pencil oblige toe rocket wealth balance cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "unit foster stamp knee token flavor exit few tail tray donate mutual";
+var mnemonic = "label ramp vacuum alcohol achieve luggage bulb woman sound snake flat wrap";

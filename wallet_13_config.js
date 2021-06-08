@@ -1,1 +1,1 @@
-var mnemonic = "supply either agree spot fancy evil surface federal person senior web swear";
+var mnemonic = "bullet agent web pave cereal crash neutral advice split rose topic radar";

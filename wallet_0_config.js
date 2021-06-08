@@ -1,1 +1,1 @@
-var mnemonic = "fun fiscal squirrel gym immense prison answer shell famous produce panther maple";
+var mnemonic = "crane task disorder main chief apple anchor alpha series inch swift gauge";

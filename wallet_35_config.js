@@ -1,1 +1,1 @@
-var mnemonic = "frown indicate vanish abandon wing uncle cattle dwarf just diet super invite";
+var mnemonic = "behind jelly siren base cat perfect survey smart moon lumber harsh marriage";

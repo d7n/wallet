@@ -1,1 +1,1 @@
-var mnemonic = "kid glad tomato fetch bean conduct dream outer amused intact flush weapon";
+var mnemonic = "runway wink stuff test print guard million wink history raw cabbage divide";

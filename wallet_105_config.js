@@ -1,1 +1,1 @@
-var mnemonic = "wrong seat usual minimum usage pattern tool run cream pair cute narrow";
+var mnemonic = "side letter habit rack survey thumb vintage remind mass subway region gorilla";

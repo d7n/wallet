@@ -1,1 +1,1 @@
-var mnemonic = "wool second deal gain muffin force energy celery genuine try boring oxygen";
+var mnemonic = "very spawn predict cover vast physical away useless web december palace ripple";

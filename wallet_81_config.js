@@ -1,1 +1,1 @@
-var mnemonic = "arch flock clinic wheel divert invest price marble identify train setup above";
+var mnemonic = "lyrics ethics mixed follow prize family private foot obtain mobile kiss cupboard";

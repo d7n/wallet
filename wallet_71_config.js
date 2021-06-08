@@ -1,1 +1,1 @@
-var mnemonic = "anxiety decline order language minor panel else rocket fiction teach truth output";
+var mnemonic = "scrub man car online normal excuse phone aspect bronze surround clutch ridge";

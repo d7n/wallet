@@ -1,1 +1,1 @@
-var mnemonic = "donor dance ecology remember skirt office buzz result dry clay symbol pill";
+var mnemonic = "unhappy squeeze daughter film coach chest mango quarter stand hint quit verb";

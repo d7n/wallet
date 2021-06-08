@@ -1,1 +1,1 @@
-var mnemonic = "belt supply situate brass large change angry print vast jazz coach coin";
+var mnemonic = "rack room neutral modify home phrase floor gain giraffe dish foster aerobic";

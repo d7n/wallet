@@ -1,1 +1,1 @@
-var mnemonic = "step armor panda phrase civil copper wool able toast ceiling cinnamon again";
+var mnemonic = "tumble firm fold page render mistake toward more cute sadness voice bike";

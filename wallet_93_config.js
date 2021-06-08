@@ -1,1 +1,1 @@
-var mnemonic = "helmet similar first remember ticket relax garlic demand hand near mass glimpse";
+var mnemonic = "raccoon harbor hungry edge clip blossom anxiety mimic uncle alley race deliver";

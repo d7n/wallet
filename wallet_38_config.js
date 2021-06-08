@@ -1,1 +1,1 @@
-var mnemonic = "hollow turtle bamboo kiwi album base circle bench muscle front remind else";
+var mnemonic = "hover series place radio myself spell shift search matter ready neck uncle";

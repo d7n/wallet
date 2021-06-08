@@ -1,1 +1,1 @@
-var mnemonic = "venture they false obtain vacant enhance desk vessel object urge ripple casual";
+var mnemonic = "drive giraffe found track melody access essay unique enlist retreat dog orient";

@@ -1,1 +1,1 @@
-var mnemonic = "sail cook develop jazz smoke choose merit language boil cloud young morning";
+var mnemonic = "ridge sentence shallow cannon claw cousin small shield become swear bomb indoor";

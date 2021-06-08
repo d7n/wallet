@@ -1,1 +1,1 @@
-var mnemonic = "erupt jewel volume diagram observe disease step manual celery forest penalty scorpion";
+var mnemonic = "prize clarify limit grow puppy verb noodle candy erupt seek extra camera";

@@ -1,1 +1,1 @@
-var mnemonic = "cool jacket glass oval stuff erode stomach trip grab chef update risk";
+var mnemonic = "neutral mercy deputy cheese crouch poverty employ adult crouch nerve laugh aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid mad fat rail alter size protect abuse liberty neutral planet agree";
+var mnemonic = "title logic useful okay brain guitar aunt earth soup year history tooth";

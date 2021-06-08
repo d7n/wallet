@@ -1,1 +1,1 @@
-var mnemonic = "screen stand suffer language unlock solve glad weekend mammal sick robot liberty";
+var mnemonic = "left tiny ribbon acoustic virus guilt ozone animal outside luxury sponsor chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil feed sadness hat dinosaur reject midnight anchor shrimp give flavor clean";
+var mnemonic = "aisle average harsh grid forum fiscal shop mechanic thought health daughter execute";

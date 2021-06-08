@@ -1,1 +1,1 @@
-var mnemonic = "text denial real govern later rib oyster kick charge easy cheap eye";
+var mnemonic = "chest mirror shop novel icon discover pistol inherit despair ugly include game";

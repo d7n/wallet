@@ -1,1 +1,1 @@
-var mnemonic = "volcano oppose cruel drum response near current hold cake monkey find reduce";
+var mnemonic = "beach carpet elevator grant guide village hundred anchor enemy throw reason donate";

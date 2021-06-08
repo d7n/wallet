@@ -1,1 +1,1 @@
-var mnemonic = "tornado rally girl night kid bless crater easy rural collect cruise wing";
+var mnemonic = "deny tree suit pigeon pipe drip soul idea swap because saddle more";

@@ -1,1 +1,1 @@
-var mnemonic = "runway click elegant lab moral uphold attract pause victory fiscal wood knife";
+var mnemonic = "predict age side fringe aspect trash magnet history alcohol wheel mass math";

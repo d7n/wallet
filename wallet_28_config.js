@@ -1,1 +1,1 @@
-var mnemonic = "panic entry bicycle cattle script dance chalk case silk shock police harvest";
+var mnemonic = "client spoon cable volcano tennis bone menu proud seminar away brush sorry";

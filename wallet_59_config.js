@@ -1,1 +1,1 @@
-var mnemonic = "outside rival spider easily school tide market surround powder boy rib bus";
+var mnemonic = "moral random riot wasp flavor juice timber episode upon harbor impact february";

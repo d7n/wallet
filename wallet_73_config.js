@@ -1,1 +1,1 @@
-var mnemonic = "someone slot length patch destroy income toward quote globe twin keen lion";
+var mnemonic = "depth basket angle sure carry life know reject latin south spell require";

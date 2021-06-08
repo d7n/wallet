@@ -1,1 +1,1 @@
-var mnemonic = "dog assist arm noodle violin vital trip split grab rich excite alter";
+var mnemonic = "valve increase clutch fortune injury crunch illness depart lamp east wait own";

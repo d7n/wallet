@@ -1,1 +1,1 @@
-var mnemonic = "soldier school spin aspect rug urge solution lumber tone cabin cry vendor";
+var mnemonic = "diamond infant brave retreat weather trade brass shiver metal lamp inform burden";

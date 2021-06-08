@@ -1,1 +1,1 @@
-var mnemonic = "egg catalog stem model fire poverty rotate work crumble broken route profit";
+var mnemonic = "degree sustain kite private either among script slow tissue maximum neither west";

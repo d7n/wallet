@@ -1,1 +1,1 @@
-var mnemonic = "fly alley ritual volcano awake unhappy blush route desert file trial limit";
+var mnemonic = "jelly crowd attitude mansion man birth that one income ticket media shrimp";

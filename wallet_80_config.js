@@ -1,1 +1,1 @@
-var mnemonic = "tiny message tomorrow avoid develop plastic grow mushroom photo deposit can gown";
+var mnemonic = "first flat sound midnight shift upon spawn cluster first exit obscure swarm";

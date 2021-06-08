@@ -1,1 +1,1 @@
-var mnemonic = "purchase rather style material hotel favorite usual water enrich submit success write";
+var mnemonic = "trap festival fix climb aware toward festival ride enemy maple method lion";

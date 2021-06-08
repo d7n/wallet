@@ -1,1 +1,1 @@
-var mnemonic = "twice lock cover echo angle multiply spring acid soap security laugh spot";
+var mnemonic = "bitter aunt fuel grocery list label daughter mechanic clip aware hand recall";
