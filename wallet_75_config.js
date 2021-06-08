@@ -1,1 +1,1 @@
-var mnemonic = "patrol verb hundred winter able ugly beauty find couch issue shallow left";
+var mnemonic = "frost seek chuckle vocal floor around share fever hello arrive unknown useful";

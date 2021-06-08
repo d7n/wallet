@@ -1,1 +1,1 @@
-var mnemonic = "update stereo elegant muscle denial room casino name blur year glow expect";
+var mnemonic = "reunion sun normal nature merry runway install that over walk salad chalk";

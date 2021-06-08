@@ -1,1 +1,1 @@
-var mnemonic = "arctic trend scout surface yard youth deputy total narrow bench virtual orient";
+var mnemonic = "renew innocent guess episode toy group have foster rotate knee noble vital";

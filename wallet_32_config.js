@@ -1,1 +1,1 @@
-var mnemonic = "upon wild uniform symbol slow fish index luxury problem slam odor recycle";
+var mnemonic = "across thunder bronze tobacco vibrant police copper fuel seminar salon isolate scene";

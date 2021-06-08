@@ -1,1 +1,1 @@
-var mnemonic = "youth tank oppose boring suspect carpet mail dolphin guess buzz era calm";
+var mnemonic = "divide ocean wisdom snack cluster detail twenty simple echo ethics ridge party";

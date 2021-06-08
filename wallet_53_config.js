@@ -1,1 +1,1 @@
-var mnemonic = "certain vast sea maid fatigue patrol reason visual anger enlist flush price";
+var mnemonic = "oppose flee popular august enlist that copy peace blood main pool across";

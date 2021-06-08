@@ -1,1 +1,1 @@
-var mnemonic = "flock goose symbol coconut spoon oil unaware label candy lava all father";
+var mnemonic = "window history depart shadow hood interest oxygen dance trial adapt vibrant vault";

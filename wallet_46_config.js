@@ -1,1 +1,1 @@
-var mnemonic = "name thank danger veteran bargain swap choose erode frame one arrow female";
+var mnemonic = "wear silk injury hobby pave release sniff echo input property syrup visual";

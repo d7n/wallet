@@ -1,1 +1,1 @@
-var mnemonic = "ball clock practice slab nuclear scheme forest episode polar dwarf work cannon";
+var mnemonic = "squeeze frozen trouble scale rent radio vital essence feature deliver furnace hawk";

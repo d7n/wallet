@@ -1,1 +1,1 @@
-var mnemonic = "topple pelican wrestle fatigue behind equal admit damage tooth invite volume mad";
+var mnemonic = "slight cherry curtain village horn tree news glad reunion weapon fresh enable";

@@ -1,1 +1,1 @@
-var mnemonic = "okay garlic transfer punch popular zoo okay wheat news neck enact feed";
+var mnemonic = "please shine spirit cushion grain chest burger armor noble wink unit surface";

@@ -1,1 +1,1 @@
-var mnemonic = "later sport borrow perfect gold scatter humble dice feed easy employ pelican";
+var mnemonic = "enforce found divorce reject sail pizza person monkey hope heart birth ill";

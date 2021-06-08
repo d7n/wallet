@@ -1,1 +1,1 @@
-var mnemonic = "life scare spring pony armed august patient fly law shock report win";
+var mnemonic = "spoil ecology zebra onion middle cruel illness start leaf action forget label";

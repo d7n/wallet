@@ -1,1 +1,1 @@
-var mnemonic = "genuine abstract egg drip cactus cash brass endorse salmon door differ gift";
+var mnemonic = "alcohol ramp disorder distance culture arena void eye sand slush ship rival";

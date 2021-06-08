@@ -1,1 +1,1 @@
-var mnemonic = "clever liberty whale crouch witness cereal enhance winner lottery attack immense exact";
+var mnemonic = "favorite switch notable enhance uncle merge video proud length live make pitch";

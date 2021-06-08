@@ -1,1 +1,1 @@
-var mnemonic = "subject sphere couch hold luggage flush fog run project choice trouble wall";
+var mnemonic = "quality genre food slush run lift morning ethics slice defy success enjoy";

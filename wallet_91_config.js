@@ -1,1 +1,1 @@
-var mnemonic = "daughter venture wash barely movie material weapon mushroom book world exchange oil";
+var mnemonic = "room inflict misery exile pattern upon tuition item tape truly dune ignore";

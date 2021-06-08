@@ -1,1 +1,1 @@
-var mnemonic = "limb ridge deputy admit inflict method autumn phrase arena ship find vehicle";
+var mnemonic = "liberty north moment vessel fatigue board admit pear potato reunion oyster finish";

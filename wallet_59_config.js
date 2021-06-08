@@ -1,1 +1,1 @@
-var mnemonic = "render mix sword iron sell power trust deputy swarm witness unfair quick";
+var mnemonic = "miss answer chicken property burden comic they thunder shoot duty adult close";

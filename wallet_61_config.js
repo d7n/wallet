@@ -1,1 +1,1 @@
-var mnemonic = "decide agree basket mercy beauty festival mosquito session crater sand hunt best";
+var mnemonic = "employ lion unknown permit dwarf style entire range silent travel ball essence";

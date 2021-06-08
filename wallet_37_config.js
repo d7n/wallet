@@ -1,1 +1,1 @@
-var mnemonic = "female group grit live sibling child opera kite junior woman citizen okay";
+var mnemonic = "repeat feel label typical mountain crop prison expand moon siren error funny";

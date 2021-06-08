@@ -1,1 +1,1 @@
-var mnemonic = "skull eager area manage close degree shield cart pond race fun differ";
+var mnemonic = "soul base print wave together royal over run cube resource dignity rather";

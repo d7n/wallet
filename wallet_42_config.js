@@ -1,1 +1,1 @@
-var mnemonic = "bronze session since outside dragon garment basic spatial picnic trick dad wasp";
+var mnemonic = "nose artefact ridge side congress swing honey depend horse thank economy loud";

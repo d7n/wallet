@@ -1,1 +1,1 @@
-var mnemonic = "that napkin hub candy girl vivid twelve pelican soul range spatial silly";
+var mnemonic = "wasp horror language pride soap curtain left obscure team library trend whale";

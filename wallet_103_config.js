@@ -1,1 +1,1 @@
-var mnemonic = "armed side rescue zoo law weather top resource ostrich bronze dress cloth";
+var mnemonic = "smooth mercy useful cattle habit thrive novel behind suspect choose random goddess";

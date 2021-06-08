@@ -1,1 +1,1 @@
-var mnemonic = "copy real sponsor elder dash aware proud jeans front laugh ship orient";
+var mnemonic = "grace sustain dinner family uncover another chuckle uncle rally hand foot shine";

@@ -1,1 +1,1 @@
-var mnemonic = "give dry ankle fun hole east master large soccer comfort gas skill";
+var mnemonic = "music soda sustain diesel country muffin smart fresh acoustic bleak rebuild yellow";

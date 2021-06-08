@@ -1,1 +1,1 @@
-var mnemonic = "umbrella peasant zone upper unhappy side buddy squeeze tennis repeat crew beach";
+var mnemonic = "table item grief ketchup zoo pizza pulp love defense grit best cement";

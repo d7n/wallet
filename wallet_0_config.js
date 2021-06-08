@@ -1,1 +1,1 @@
-var mnemonic = "hero flash borrow range cigar dash myself inherit public copper inhale phrase";
+var mnemonic = "witness empty recipe proof smoke census tunnel sick include grit fabric satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "permit tiger trophy hurry setup field hip resemble pill hello walk limb";
+var mnemonic = "sand cave fashion wine build fun nuclear effort lesson wool embark next";

@@ -1,1 +1,1 @@
-var mnemonic = "team sauce plunge hurt tent piece guilt nothing outdoor palm margin trophy";
+var mnemonic = "arena diesel honey garbage symptom ignore crop dynamic report night olive energy";

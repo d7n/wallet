@@ -1,1 +1,1 @@
-var mnemonic = "clever dash spoil spoil ask wheat balcony cat add trumpet okay trend";
+var mnemonic = "way flee forward element truck old pink staff sample verb limit derive";

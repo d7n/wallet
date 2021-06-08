@@ -1,1 +1,1 @@
-var mnemonic = "sniff blossom want fix stone wood device pigeon latin reduce sniff album";
+var mnemonic = "fatigue walk host property lazy echo embrace welcome census robot federal clap";

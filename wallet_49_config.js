@@ -1,1 +1,1 @@
-var mnemonic = "lesson jar beyond dash photo entire capital lawsuit devote domain patient equal";
+var mnemonic = "wonder like seminar frown timber brass camera screen display spin faculty box";

@@ -1,1 +1,1 @@
-var mnemonic = "patient sudden ten dentist often era maximum chase away hurdle various swing";
+var mnemonic = "mosquito danger identify else adjust obscure save congress abandon canoe smoke add";

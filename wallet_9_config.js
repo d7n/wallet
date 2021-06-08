@@ -1,1 +1,1 @@
-var mnemonic = "truly time panel surprise faculty copper decade fitness duck say correct loyal";
+var mnemonic = "opera shadow loop fancy lounge term globe trouble firm hollow bid august";

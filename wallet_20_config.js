@@ -1,1 +1,1 @@
-var mnemonic = "betray exercise film raven silent common circle snap split problem add fabric";
+var mnemonic = "chaos attack fiscal one beef series mango item pluck mystery click rebuild";

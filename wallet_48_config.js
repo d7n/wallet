@@ -1,1 +1,1 @@
-var mnemonic = "casual dress sugar elegant solid render cloth strong public uncle dumb plug";
+var mnemonic = "treat pact regular visit isolate pioneer brother trip carpet panda stuff merry";

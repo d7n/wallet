@@ -1,1 +1,1 @@
-var mnemonic = "cycle sorry super crew about goat scale hybrid ticket puzzle baby trim";
+var mnemonic = "dust tonight void reject crucial simple body fitness shoulder modify vanish brave";

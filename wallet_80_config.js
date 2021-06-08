@@ -1,1 +1,1 @@
-var mnemonic = "palm flight liquid viable bamboo marble plastic hero sea crop spring royal";
+var mnemonic = "mansion endorse health buzz stable soda depth palace cry light before runway";

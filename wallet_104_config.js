@@ -1,1 +1,1 @@
-var mnemonic = "excess truly fence fantasy doctor voyage truth stone surface program smooth earth";
+var mnemonic = "banana grid tomato magic process snack hold general manage design man zebra";

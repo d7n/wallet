@@ -1,1 +1,1 @@
-var mnemonic = "favorite deputy timber business toe say limit attitude scan bid mushroom fiscal";
+var mnemonic = "design snack coconut fuel flock inch skate priority valid woman connect staff";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely travel add venue citizen shadow deny people hold bid bargain sample";
+var mnemonic = "quality family slow mountain nuclear used drop present install loop mother boat";

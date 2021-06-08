@@ -1,1 +1,1 @@
-var mnemonic = "height truck over yard bundle erode leave cannon pretty spatial spice steak";
+var mnemonic = "swift trumpet angry civil mobile target search erosion remind pistol situate share";

@@ -1,1 +1,1 @@
-var mnemonic = "space six twist angle return any bullet area luggage jaguar sunset mechanic";
+var mnemonic = "music hospital early put loyal heavy smart churn typical vibrant few affair";

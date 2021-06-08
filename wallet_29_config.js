@@ -1,1 +1,1 @@
-var mnemonic = "ankle certain path myself club engine glance spray acoustic ensure warfare priority";
+var mnemonic = "essence account ship fuel forward observe range purpose receive heavy consider can";

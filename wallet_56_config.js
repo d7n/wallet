@@ -1,1 +1,1 @@
-var mnemonic = "fiction link tobacco garden eight whale detect lake sun twelve end lecture";
+var mnemonic = "glad aisle february genuine family immense return next web energy fox decade";

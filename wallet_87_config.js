@@ -1,1 +1,1 @@
-var mnemonic = "point alone romance safe maze coral sorry cattle intact much vocal stereo";
+var mnemonic = "poet possible laugh ranch quick layer lake cash obey prepare grain venture";

@@ -1,1 +1,1 @@
-var mnemonic = "crater wisdom embrace life regular height they zero cable glove alien mix";
+var mnemonic = "cactus record alone gather top tourist cook blur develop film elbow parade";

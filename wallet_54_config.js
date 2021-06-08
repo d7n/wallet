@@ -1,1 +1,1 @@
-var mnemonic = "differ topic yellow mystery zero valve collect wash offer sadness license remain";
+var mnemonic = "oak cat eye tunnel amused pact cash crumble girl amateur reunion ready";

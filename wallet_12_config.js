@@ -1,1 +1,1 @@
-var mnemonic = "mercy lamp genius confirm father tiny love media fluid turkey hunt bring";
+var mnemonic = "whisper chalk legend talk record unfold orange dwarf hedgehog fringe buffalo capital";

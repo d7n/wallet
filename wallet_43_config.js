@@ -1,1 +1,1 @@
-var mnemonic = "income play elephant fame outdoor finger debate company evil drink this someone";
+var mnemonic = "element virtual north fine output reunion dirt glory reject deposit motion code";

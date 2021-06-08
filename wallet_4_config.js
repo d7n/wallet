@@ -1,1 +1,1 @@
-var mnemonic = "wedding improve direct nuclear use before purchase margin elite venture weekend anger";
+var mnemonic = "rural fix sibling subject taste relax consider over deny width space layer";

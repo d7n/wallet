@@ -1,1 +1,1 @@
-var mnemonic = "cabbage plastic opinion various analyst vehicle account marriage there trigger zero friend";
+var mnemonic = "grab code pass wave spoon punch admit census trial curve ensure limb";

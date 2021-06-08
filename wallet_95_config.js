@@ -1,1 +1,1 @@
-var mnemonic = "logic vanish napkin table choose hair now useless base swamp toe route";
+var mnemonic = "cable smoke brick much rose pumpkin second answer lazy mountain satisfy fee";

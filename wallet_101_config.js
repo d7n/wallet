@@ -1,1 +1,1 @@
-var mnemonic = "feed answer news future onion occur city visual capital smile mimic either";
+var mnemonic = "dial hero innocent rain inhale betray avoid able drift cabbage melody stage";

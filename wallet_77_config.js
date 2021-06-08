@@ -1,1 +1,1 @@
-var mnemonic = "ability task song flower move degree excess input foster jazz speed amused";
+var mnemonic = "friend anger awesome useful joke host cross excess cram sport keen minimum";

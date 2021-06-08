@@ -1,1 +1,1 @@
-var mnemonic = "lake slab device dream drama math truck bulk action argue peace throw";
+var mnemonic = "picnic this motion team update sadness inner banner pool forward art limit";

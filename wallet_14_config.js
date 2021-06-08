@@ -1,1 +1,1 @@
-var mnemonic = "magnet tomato slab hero noodle speak coin slice level best beef people";
+var mnemonic = "pluck feed early cabin observe sorry hire thrive end shoulder stable excite";

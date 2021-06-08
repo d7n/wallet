@@ -1,1 +1,1 @@
-var mnemonic = "deny cattle reason clip inherit pride glory enact night mansion ritual fringe";
+var mnemonic = "lawsuit surround rack dream verify river mule regular margin slender witness hotel";

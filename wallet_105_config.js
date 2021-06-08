@@ -1,1 +1,1 @@
-var mnemonic = "easily hawk alien bulk sample claw tank print loan clerk patch gift";
+var mnemonic = "educate media air rather virus risk inform void lobster travel prevent labor";

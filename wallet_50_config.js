@@ -1,1 +1,1 @@
-var mnemonic = "swarm illegal fever grain proof cross actual box crop woman index rookie";
+var mnemonic = "history claw auction token lunch renew hour fury hungry critic feed noble";

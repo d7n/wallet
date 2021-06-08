@@ -1,1 +1,1 @@
-var mnemonic = "inhale wrist tired hand cost purse exclude amateur slow century tiger insect";
+var mnemonic = "desert reject radar pact trim deliver coach someone bread ugly label wasp";

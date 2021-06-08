@@ -1,1 +1,1 @@
-var mnemonic = "term lawsuit theme oxygen produce flee rough odor ancient wrap enroll blue";
+var mnemonic = "edit gift tiger world horn imitate trade army observe similar fluid prize";

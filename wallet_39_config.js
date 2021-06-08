@@ -1,1 +1,1 @@
-var mnemonic = "lawn physical brain eager diagram picture alarm donkey depend salmon shoe rare";
+var mnemonic = "robust circle female stool clock equip repeat glad metal upgrade bring brand";

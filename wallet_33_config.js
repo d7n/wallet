@@ -1,1 +1,1 @@
-var mnemonic = "special avoid wide fragile dust survey estate advice venture acquire wild nerve";
+var mnemonic = "fabric spy ethics job carpet myself wrap tip february subway lift sheriff";

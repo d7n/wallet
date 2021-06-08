@@ -1,1 +1,1 @@
-var mnemonic = "biology toy elbow entry muffin proof tennis coach achieve mountain fire print";
+var mnemonic = "slim want isolate smart raise recall strong vibrant spoon disagree runway tongue";

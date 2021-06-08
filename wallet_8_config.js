@@ -1,1 +1,1 @@
-var mnemonic = "town retreat crucial jeans hockey finish act absurd industry mix chalk student";
+var mnemonic = "access write abuse garment husband merry harvest creek wash cheap key social";

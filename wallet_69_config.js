@@ -1,1 +1,1 @@
-var mnemonic = "can venture hard quantum guard service flame reopen allow scrub leader save";
+var mnemonic = "vendor portion general glad rely cotton anger walk miss bomb chuckle trouble";

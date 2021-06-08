@@ -1,1 +1,1 @@
-var mnemonic = "upper that churn shrimp sweet pen rule ahead abstract silver find ostrich";
+var mnemonic = "rural install antique leaf rude fold sort retreat enter mad book honey";

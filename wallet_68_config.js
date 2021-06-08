@@ -1,1 +1,1 @@
-var mnemonic = "spy edit hello blue page author define possible they until crane mammal";
+var mnemonic = "crazy gospel garden cream season tomorrow mother garage click jaguar know illness";

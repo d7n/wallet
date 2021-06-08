@@ -1,1 +1,1 @@
-var mnemonic = "puzzle album fix random payment story valley comfort roast review author suffer";
+var mnemonic = "feel fatal monkey hollow verify acquire salt orphan material salmon mansion movie";

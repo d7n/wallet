@@ -1,1 +1,1 @@
-var mnemonic = "kid there syrup roast spy double other south fold outer avocado horror";
+var mnemonic = "dawn twist diamond fatal grit work joy dress audit fault member bag";

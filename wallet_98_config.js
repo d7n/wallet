@@ -1,1 +1,1 @@
-var mnemonic = "hurt lemon abstract erase true staff actress sort purity sock rude actress";
+var mnemonic = "defense summer peasant clog lunar balcony praise lend express thumb void behave";

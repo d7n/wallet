@@ -1,1 +1,1 @@
-var mnemonic = "hole bachelor often lounge practice large rifle recall program machine arrest chair";
+var mnemonic = "all sun yard lonely exhibit desk sing wagon truth wish parrot drift";

@@ -1,1 +1,1 @@
-var mnemonic = "segment iron silent save open range trouble ride burst laptop south bronze";
+var mnemonic = "satisfy trade blind number north shoe wild share scissors also total surge";

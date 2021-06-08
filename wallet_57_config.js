@@ -1,1 +1,1 @@
-var mnemonic = "crunch parent crater mansion same track nut glide fiber add faith fix";
+var mnemonic = "various donor holiday young truck soda junk renew timber fluid abstract below";

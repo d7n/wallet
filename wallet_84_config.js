@@ -1,1 +1,1 @@
-var mnemonic = "warm any heart search fatigue depend usual junior twin coast ocean series";
+var mnemonic = "across debris obscure nature almost rug aunt anchor amazing boost camera analyst";

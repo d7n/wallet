@@ -1,1 +1,1 @@
-var mnemonic = "tip odor twice toe faint pelican parrot sound amateur milk broken key";
+var mnemonic = "bag require inner seminar inspire person ankle fury dolphin punch turkey method";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer voyage detect tongue planet rubber govern grab carbon hint eyebrow glue";
+var mnemonic = "payment pipe you gold tag eager club drink milk glance guitar vibrant";

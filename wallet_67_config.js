@@ -1,1 +1,1 @@
-var mnemonic = "quick gesture monkey orphan leisure soap path eyebrow focus endless tribe leave";
+var mnemonic = "dad prosper decrease coral loan merit cradle yellow soldier comfort wealth wheel";

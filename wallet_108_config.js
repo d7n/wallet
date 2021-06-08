@@ -1,1 +1,1 @@
-var mnemonic = "unusual purse small say art invest crack cabbage exotic verify radio virtual";
+var mnemonic = "public electric surge normal ice buyer valve miss live omit guard arrest";

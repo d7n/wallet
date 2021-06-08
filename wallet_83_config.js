@@ -1,1 +1,1 @@
-var mnemonic = "drift avocado divide scene finish damage spoon logic position skirt still cactus";
+var mnemonic = "hurry issue stock stay rail method book furnace youth project title feel";

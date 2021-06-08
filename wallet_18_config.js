@@ -1,1 +1,1 @@
-var mnemonic = "trust chef abuse toy mutual arctic lion armor oppose absent sense soul";
+var mnemonic = "swallow satisfy name peasant proof example clap animal garbage cabbage regular device";

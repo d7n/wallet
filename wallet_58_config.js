@@ -1,1 +1,1 @@
-var mnemonic = "bonus screen model thank unusual dust garbage chalk leopard digital exercise attend";
+var mnemonic = "wheel cabbage become fade equip wing decline syrup traffic wisdom coffee science";

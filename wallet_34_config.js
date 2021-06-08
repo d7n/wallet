@@ -1,1 +1,1 @@
-var mnemonic = "axis wrong relief force siren crunch carry party abuse speak wild rate";
+var mnemonic = "weather reopen spell young rent month giggle basic estate float topic six";

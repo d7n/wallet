@@ -1,1 +1,1 @@
-var mnemonic = "ramp balance swarm gossip tissue vehicle cluster hedgehog fever blade exercise bamboo";
+var mnemonic = "fly few walnut hidden tuition swallow spring loyal dish usage label plug";

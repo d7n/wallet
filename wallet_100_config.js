@@ -1,1 +1,1 @@
-var mnemonic = "scene keen fog abuse jazz tornado option ride dial surround hunt lesson";
+var mnemonic = "cute ritual like picture excuse rifle transfer fuel float exhibit drastic weapon";

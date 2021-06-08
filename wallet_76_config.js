@@ -1,1 +1,1 @@
-var mnemonic = "human load swallow deer laptop cash soda leg rose spirit cancel ramp";
+var mnemonic = "affair copper grant antique kingdom whale excite entire bulk vibrant trouble fortune";

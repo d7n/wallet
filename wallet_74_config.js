@@ -1,1 +1,1 @@
-var mnemonic = "brand blue lemon beyond climb best effort clump autumn rich sauce used";
+var mnemonic = "scene educate typical property nest wave fatal coffee artist border boat whale";
