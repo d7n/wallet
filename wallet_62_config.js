@@ -1,1 +1,1 @@
-var mnemonic = "property copy concert staff inner logic cluster push coffee tree tip achieve";
+var mnemonic = "response must planet anxiety crater grant gown expire hybrid pact embody mad";

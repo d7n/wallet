@@ -1,1 +1,1 @@
-var mnemonic = "recycle boy trumpet truth inherit before heavy better habit decline impulse vote";
+var mnemonic = "view satisfy erase unhappy claim problem symbol clever advance inch mother ski";

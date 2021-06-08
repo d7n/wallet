@@ -1,1 +1,1 @@
-var mnemonic = "isolate always north turkey gospel body hope pottery camera family pen among";
+var mnemonic = "luxury swallow alpha amazing enforce essence level judge tilt sleep letter elephant";

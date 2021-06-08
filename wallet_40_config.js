@@ -1,1 +1,1 @@
-var mnemonic = "sweet film aim make bus stadium foil outdoor theme best price eternal";
+var mnemonic = "nasty library ripple hole number approve pupil fatigue cat divert cement buyer";

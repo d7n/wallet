@@ -1,1 +1,1 @@
-var mnemonic = "dragon drastic stock fix window pill room occur stool doll young radar";
+var mnemonic = "heavy neutral stable know squirrel crash decide fossil giggle rude laundry crystal";

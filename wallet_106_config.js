@@ -1,1 +1,1 @@
-var mnemonic = "before fence enemy boy weekend flame parade couch stick angle once type";
+var mnemonic = "ring update pretty march utility frog iron lift park goose strike entire";

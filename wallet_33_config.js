@@ -1,1 +1,1 @@
-var mnemonic = "ugly step labor pluck broccoli flag depth label blur cruel make stove";
+var mnemonic = "burst action area color frequent speak bid armed claw hospital fiction dinosaur";

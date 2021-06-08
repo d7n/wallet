@@ -1,1 +1,1 @@
-var mnemonic = "oil hybrid repeat general custom domain fox goose anchor find meadow glide";
+var mnemonic = "exotic unveil furnace purity random another total price occur satoshi start leave";

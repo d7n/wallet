@@ -1,1 +1,1 @@
-var mnemonic = "void shallow hair clinic wreck chest ramp buyer decorate miss merge mushroom";
+var mnemonic = "ready journey spice aunt van fruit harvest wrong give nation north below";

@@ -1,1 +1,1 @@
-var mnemonic = "main blind sport omit glad wet month turkey symptom play recipe swap";
+var mnemonic = "alley cancel humble dynamic couch current recall polar goat extend endless member";

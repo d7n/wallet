@@ -1,1 +1,1 @@
-var mnemonic = "tennis peasant awesome slot jacket chest pigeon blossom end float various dial";
+var mnemonic = "help simple drastic list stereo wage wise kingdom wise into lounge six";

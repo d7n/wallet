@@ -1,1 +1,1 @@
-var mnemonic = "measure bomb suggest field warfare rural hospital boring recipe predict force brief";
+var mnemonic = "plunge action elite effort trick offer wedding emerge domain observe twenty valid";

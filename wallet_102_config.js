@@ -1,1 +1,1 @@
-var mnemonic = "lonely budget pause busy other delay scare crush clean nephew behave people";
+var mnemonic = "crawl science announce myself medal allow nut duck suggest blame walnut negative";

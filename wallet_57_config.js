@@ -1,1 +1,1 @@
-var mnemonic = "cute bitter govern thunder fit trash slender home circle random verify humor";
+var mnemonic = "violin purse vintage ice lady eye ostrich almost trap actual liar copy";

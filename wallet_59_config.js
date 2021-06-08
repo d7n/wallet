@@ -1,1 +1,1 @@
-var mnemonic = "ask round member iron globe pretty lumber whisper palace grunt tree believe";
+var mnemonic = "supply clump glow swallow wear require opera sample sheriff happy segment dial";

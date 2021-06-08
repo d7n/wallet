@@ -1,1 +1,1 @@
-var mnemonic = "misery problem ramp party mechanic path nasty tip taxi final lens estate";
+var mnemonic = "boss feature dry control income cost anxiety fetch enforce almost bamboo eternal";

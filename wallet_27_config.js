@@ -1,1 +1,1 @@
-var mnemonic = "water novel merit corn weekend father crunch weasel desk actual switch goat";
+var mnemonic = "slam become enact canyon kind rival frog ask walnut silly hen impact";

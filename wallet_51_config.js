@@ -1,1 +1,1 @@
-var mnemonic = "impulse chronic arctic jealous jump omit boy foot gravity truck survey silver";
+var mnemonic = "behind manage primary math derive thought area antenna find claim hotel situate";

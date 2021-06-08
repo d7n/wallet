@@ -1,1 +1,1 @@
-var mnemonic = "rival curve author action orchard smile vital kiwi dignity gun media marine";
+var mnemonic = "guide zebra prefer legend ride snake bamboo predict action steel walnut scrub";

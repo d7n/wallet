@@ -1,1 +1,1 @@
-var mnemonic = "churn demise stick amount venue struggle gospel put enact harvest road fresh";
+var mnemonic = "twist taste also target trend enter grocery square trial fantasy laundry clever";

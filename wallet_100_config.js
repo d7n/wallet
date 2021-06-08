@@ -1,1 +1,1 @@
-var mnemonic = "over recipe category latin series hair topic vivid garment snack ski quote";
+var mnemonic = "picnic swear life frog canoe hospital return eternal leopard wear ticket cabin";

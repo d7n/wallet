@@ -1,1 +1,1 @@
-var mnemonic = "dance arrest camp machine odor between cherry staff monitor bubble suggest spirit";
+var mnemonic = "neck rely dry shadow loyal orbit dynamic alcohol relief mosquito emerge crawl";

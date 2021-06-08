@@ -1,1 +1,1 @@
-var mnemonic = "crater chest aspect young apple include phrase critic rich image range crumble";
+var mnemonic = "wolf citizen video fiscal sibling car horse snow eyebrow payment wise divorce";

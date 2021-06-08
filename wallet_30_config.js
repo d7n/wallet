@@ -1,1 +1,1 @@
-var mnemonic = "faculty track trick element question secret desk ring soccer current mirror assault";
+var mnemonic = "picnic shallow chaos valid clever giraffe field grow fork regular pencil repair";

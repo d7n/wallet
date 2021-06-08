@@ -1,1 +1,1 @@
-var mnemonic = "will load have vicious ability copper hospital mind case normal crater sample";
+var mnemonic = "month song stomach sketch luggage pill labor feed degree law merry wage";

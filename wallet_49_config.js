@@ -1,1 +1,1 @@
-var mnemonic = "silent federal audit foil error twelve hamster attract sign remove cloth buzz";
+var mnemonic = "lumber protect define isolate change million sudden erupt coil once rapid year";

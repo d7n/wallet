@@ -1,1 +1,1 @@
-var mnemonic = "year athlete student lottery hold scout pig enforce neglect ice apart shift";
+var mnemonic = "obvious rare avoid skull poverty field fire describe enough unlock apple cruel";

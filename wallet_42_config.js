@@ -1,1 +1,1 @@
-var mnemonic = "ribbon inject curve danger dove patrol run quit slight angry blue kangaroo";
+var mnemonic = "develop salt series cry bamboo cross jump upper property badge chaos course";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy erode bracket penalty soda point budget upon beach parrot unhappy plate";
+var mnemonic = "add reflect answer long mean entry edit matrix chapter aerobic try insane";

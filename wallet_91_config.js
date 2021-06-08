@@ -1,1 +1,1 @@
-var mnemonic = "truck general ice seat loyal drum friend waste rebel grunt fashion robot";
+var mnemonic = "exotic beauty acid blouse mix rail year fan else pulp stuff winner";

@@ -1,1 +1,1 @@
-var mnemonic = "demise champion element junk modify argue swamp brick tank pink merry thing";
+var mnemonic = "walnut toss bind work field uncover million hole put rule slam emerge";

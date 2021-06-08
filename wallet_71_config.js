@@ -1,1 +1,1 @@
-var mnemonic = "maple few lawsuit ostrich grace history defy veteran puzzle flavor bleak brown";
+var mnemonic = "topple also gaze shine cricket jewel twelve huge dog door nest inform";

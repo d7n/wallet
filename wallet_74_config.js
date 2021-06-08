@@ -1,1 +1,1 @@
-var mnemonic = "female enable swear easily cube world differ escape proof day bullet cage";
+var mnemonic = "stamp chronic whisper below pen bar teach stairs quit jeans pattern eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology uniform valve tongue energy universe balance deputy torch name nose library";
+var mnemonic = "giggle impose initial pulse what wolf index topic grace ostrich diesel citizen";

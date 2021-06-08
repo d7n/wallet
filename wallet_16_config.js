@@ -1,1 +1,1 @@
-var mnemonic = "jelly chest sphere polar final almost success ride post attitude unlock glare";
+var mnemonic = "like armed owner judge vibrant leaf muscle tell future page network magic";

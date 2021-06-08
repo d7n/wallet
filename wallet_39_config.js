@@ -1,1 +1,1 @@
-var mnemonic = "powder hold moral siege earth eye trouble frozen never eye explain slice";
+var mnemonic = "umbrella key puzzle runway extra shiver gravity pen bring inch endorse eternal";

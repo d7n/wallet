@@ -1,1 +1,1 @@
-var mnemonic = "light mountain open know peasant wonder game weekend online box cigar benefit";
+var mnemonic = "situate apart tennis remember quality butter float blush smooth finish insane hope";

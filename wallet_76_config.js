@@ -1,1 +1,1 @@
-var mnemonic = "ship escape tattoo slam gown dune knee fix slam coconut slice hungry";
+var mnemonic = "mad truck convince code young auction bind grant core axis sketch segment";

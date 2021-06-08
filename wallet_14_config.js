@@ -1,1 +1,1 @@
-var mnemonic = "use warfare jungle firm juice mesh two unfair basic middle turkey trend";
+var mnemonic = "learn gesture describe unfair lock hamster tape arena joke glory wrap convince";

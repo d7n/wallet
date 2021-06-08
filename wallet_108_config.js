@@ -1,1 +1,1 @@
-var mnemonic = "dash give negative glove sudden embody lady often husband equip foil aim";
+var mnemonic = "result seminar leave put sphere suggest wave seed asset demise orange only";

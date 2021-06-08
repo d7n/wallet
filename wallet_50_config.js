@@ -1,1 +1,1 @@
-var mnemonic = "kind file rare baby cliff remember moment slow position click album boost";
+var mnemonic = "baby good era beyond rotate disorder destroy horror fuel ask also mobile";

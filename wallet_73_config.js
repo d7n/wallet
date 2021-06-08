@@ -1,1 +1,1 @@
-var mnemonic = "lock flush select click moon first embody rely security beyond rich vehicle";
+var mnemonic = "same gain inch lock ticket real safe frequent oppose stumble wealth strong";

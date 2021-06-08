@@ -1,1 +1,1 @@
-var mnemonic = "smart joke royal between eight buffalo inner shock pattern popular thrive any";
+var mnemonic = "manage baby cash high autumn among seat drift lizard pitch apple among";

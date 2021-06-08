@@ -1,1 +1,1 @@
-var mnemonic = "fiction clip demand practice upon surface next opinion turtle deliver acid just";
+var mnemonic = "appear found fame tape mirror modify mimic abuse perfect meadow state shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "elder rural real duty enact index infant smile segment sentence theme rate";
+var mnemonic = "alcohol seed air talent share matter lens cheap barely original glow tube";

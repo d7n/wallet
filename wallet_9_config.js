@@ -1,1 +1,1 @@
-var mnemonic = "flee weekend snow shrug derive before trade dose gauge aspect grunt coyote";
+var mnemonic = "witness negative capable ozone notice crack later game craft fresh mobile injury";

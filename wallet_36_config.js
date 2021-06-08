@@ -1,1 +1,1 @@
-var mnemonic = "high reopen enjoy crumble police bird actual body helmet chef ball pudding";
+var mnemonic = "cigar innocent that bike saddle educate meadow must resemble grit crouch typical";

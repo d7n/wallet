@@ -1,1 +1,1 @@
-var mnemonic = "arrest spin connect smooth match hidden use staff border report total parent";
+var mnemonic = "private learn friend heavy canyon april assist lumber undo ostrich shallow twin";

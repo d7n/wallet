@@ -1,1 +1,1 @@
-var mnemonic = "crunch ritual path bunker swift proof help play elephant pioneer joke early";
+var mnemonic = "knife dish tone lottery reduce purpose scan little thumb scrub fuel diagram";

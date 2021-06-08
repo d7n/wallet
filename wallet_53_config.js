@@ -1,1 +1,1 @@
-var mnemonic = "recycle spike razor session salute able sauce custom climb climb bamboo sea";
+var mnemonic = "field carry jungle night bird brief diet bird antenna lens sunset video";

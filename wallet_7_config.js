@@ -1,1 +1,1 @@
-var mnemonic = "cloud message expose topic toe result guard enhance skate mistake limb master";
+var mnemonic = "fiction skirt guilt drill prosper mix month elbow letter flush vessel situate";

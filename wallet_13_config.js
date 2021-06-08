@@ -1,1 +1,1 @@
-var mnemonic = "van unique steak enemy inch already young coconut accuse session film cruise";
+var mnemonic = "truck offer sibling door anger pledge math express foil wide space normal";

@@ -1,1 +1,1 @@
-var mnemonic = "food scene mean rocket oppose better owner jelly valve leopard hour example";
+var mnemonic = "click spin ignore provide false produce start market artist dinner tuna foster";

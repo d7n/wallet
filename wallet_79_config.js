@@ -1,1 +1,1 @@
-var mnemonic = "search treat lawsuit process choose swim oxygen method hill young naive funny";
+var mnemonic = "flash moment just liberty video tooth sheriff shop waste over what glow";

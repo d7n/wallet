@@ -1,1 +1,1 @@
-var mnemonic = "give shuffle come visual couch blush february evidence praise village rent vote";
+var mnemonic = "acid same day hollow audit heart prefer asset envelope fiscal young piano";

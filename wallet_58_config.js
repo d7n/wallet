@@ -1,1 +1,1 @@
-var mnemonic = "corn magic fever damp tell nest retire pioneer only elephant season type";
+var mnemonic = "this riot comic rural brand grocery merit pill any example reward tooth";

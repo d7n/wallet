@@ -1,1 +1,1 @@
-var mnemonic = "torch metal fitness loyal wagon mail craft smooth critic vacuum exist shock";
+var mnemonic = "regret fiction marine extend anchor apart apple fold head find attitude west";

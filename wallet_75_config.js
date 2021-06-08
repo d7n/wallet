@@ -1,1 +1,1 @@
-var mnemonic = "half portion aunt puppy fog dice rescue miracle aware basic vessel knee";
+var mnemonic = "find tribe trip gasp wrist under habit news brass panel trip maid";

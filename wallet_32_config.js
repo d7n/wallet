@@ -1,1 +1,1 @@
-var mnemonic = "employ rifle strike exchange chalk express open depart cricket planet thumb soul";
+var mnemonic = "dress duck spider clay castle success zebra east system join match evil";

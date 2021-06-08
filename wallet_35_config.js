@@ -1,1 +1,1 @@
-var mnemonic = "approve taste various cinnamon find coffee obtain right caution wire need youth";
+var mnemonic = "chapter six travel above scrub father pilot address father legal glare ahead";

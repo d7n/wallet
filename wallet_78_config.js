@@ -1,1 +1,1 @@
-var mnemonic = "marine current parrot style maid pig cube parrot bunker relief only like";
+var mnemonic = "fashion curtain bracket switch pony day young shield torch smart pepper inflict";

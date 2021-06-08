@@ -1,1 +1,1 @@
-var mnemonic = "pretty season mad resource grit coffee rebuild expire senior genre door carbon";
+var mnemonic = "soon polar mountain olympic nation extend mean poet certain dance live scatter";

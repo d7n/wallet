@@ -1,1 +1,1 @@
-var mnemonic = "path sword dish ready pear task depth shy detect absorb picture chalk";
+var mnemonic = "when math abandon guess can nominee bracket ramp equip beef bullet review";

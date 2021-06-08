@@ -1,1 +1,1 @@
-var mnemonic = "useless gasp despair axis patrol culture door until chef indicate shop sock";
+var mnemonic = "advance regular click fever awesome armor material squirrel course result lab absurd";

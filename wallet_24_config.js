@@ -1,1 +1,1 @@
-var mnemonic = "shed grace sock guilt drum riot lion sound clean side nephew credit";
+var mnemonic = "usual soda inject vapor find metal regular hire jelly comfort video term";

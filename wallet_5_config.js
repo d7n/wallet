@@ -1,1 +1,1 @@
-var mnemonic = "wrist shield space remember piano valid job nerve isolate all item fever";
+var mnemonic = "injury vital notice robot sad boat noise genuine tail pottery rural biology";

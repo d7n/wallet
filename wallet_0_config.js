@@ -1,1 +1,1 @@
-var mnemonic = "virus arrange devote leg cup ignore reopen spend purity used style animal";
+var mnemonic = "head stock gauge club lens pioneer offer suggest screen retreat cabin volume";

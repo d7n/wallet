@@ -1,1 +1,1 @@
-var mnemonic = "tackle normal lobster spider place boat electric cake envelope marriage question demand";
+var mnemonic = "utility better crash jeans pupil skill switch comfort elegant reveal museum forest";

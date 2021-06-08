@@ -1,1 +1,1 @@
-var mnemonic = "zero shadow purse expect media outdoor combine tube elite quarter scare fault";
+var mnemonic = "blossom middle exhibit dragon labor sail struggle annual patient insect case verify";

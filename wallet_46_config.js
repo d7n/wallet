@@ -1,1 +1,1 @@
-var mnemonic = "copper black knee screen voice auction mail floor type casual radio pilot";
+var mnemonic = "hollow cool powder vivid fix rotate spend mail spin weather canyon neither";

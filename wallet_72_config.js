@@ -1,1 +1,1 @@
-var mnemonic = "palm sunny rich slight nerve orchard riot fruit drama win carpet charge";
+var mnemonic = "quality cream salt turtle pink oxygen wrong jelly strong tackle clinic blue";

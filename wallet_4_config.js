@@ -1,1 +1,1 @@
-var mnemonic = "slow fire success pool town cat canyon mother program broken vocal border";
+var mnemonic = "embark alley game grief river ski leopard arrest burden local chicken salt";

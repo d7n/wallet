@@ -1,1 +1,1 @@
-var mnemonic = "wrong record vocal print genius ostrich bullet hen any force lucky add";
+var mnemonic = "wealth path remember dawn midnight defy afford job loud stage cradle orbit";

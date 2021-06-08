@@ -1,1 +1,1 @@
-var mnemonic = "weasel mouse jewel weapon lesson want segment offer order actor path vacuum";
+var mnemonic = "security bring traffic aisle shield clerk wire baby umbrella scan clump system";

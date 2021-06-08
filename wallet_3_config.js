@@ -1,1 +1,1 @@
-var mnemonic = "gentle since trumpet paddle orphan history dismiss hen piece truck security series";
+var mnemonic = "length almost regular put skin burden actual panda little lift help fine";

@@ -1,1 +1,1 @@
-var mnemonic = "electric scene believe demand salute fence clay task hobby become shuffle spirit";
+var mnemonic = "bright number column sword hold lava proof skull wheat absurd foster wife";

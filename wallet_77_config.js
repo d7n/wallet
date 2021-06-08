@@ -1,1 +1,1 @@
-var mnemonic = "head paddle nut disorder steel absent crouch ranch claw marble citizen vehicle";
+var mnemonic = "six blush spread insect upper wool hurry flip retreat depart lens where";

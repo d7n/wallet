@@ -1,1 +1,1 @@
-var mnemonic = "solar donate steel salon april bonus cruise dignity firm physical fish caught";
+var mnemonic = "churn canal recipe rally gallery wreck rigid track once nation scheme child";

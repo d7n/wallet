@@ -1,1 +1,1 @@
-var mnemonic = "know oxygen return kit anger find despair athlete follow gadget silk age";
+var mnemonic = "neglect unusual blast anxiety monkey funny slam belt sweet card narrow often";

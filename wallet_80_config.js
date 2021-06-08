@@ -1,1 +1,1 @@
-var mnemonic = "salute pudding friend select session refuse rabbit price motor clinic extend scrub";
+var mnemonic = "monster fresh harvest phone multiply tumble mistake trigger vault admit smooth salmon";

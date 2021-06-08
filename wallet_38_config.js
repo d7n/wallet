@@ -1,1 +1,1 @@
-var mnemonic = "will describe eager thumb uphold atom reunion rabbit rocket harvest exercise below";
+var mnemonic = "elite stand design crisp sword manage unusual alien body rain swap evolve";

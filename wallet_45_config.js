@@ -1,1 +1,1 @@
-var mnemonic = "bounce verify math stem mixture fix journey awesome level wheat please cross";
+var mnemonic = "issue shoulder winter timber ceiling maximum slim sentence toward churn grass faith";

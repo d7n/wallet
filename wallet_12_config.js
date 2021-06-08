@@ -1,1 +1,1 @@
-var mnemonic = "record merry hill hurdle meadow attitude praise business often swim tired pretty";
+var mnemonic = "borrow waste permit radar situate skate half tuition tail twenty mammal benefit";

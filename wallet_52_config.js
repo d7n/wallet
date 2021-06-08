@@ -1,1 +1,1 @@
-var mnemonic = "catch crane border mule mistake banner movie exhaust broccoli media dream weekend";
+var mnemonic = "pipe normal sell twenty garage over wreck pioneer ivory fan concert tornado";

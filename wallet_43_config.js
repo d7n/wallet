@@ -1,1 +1,1 @@
-var mnemonic = "method initial south pig warfare fluid cherry expose flush pink royal shadow";
+var mnemonic = "diary device obvious rubber race million vendor fetch decide movie pool skill";

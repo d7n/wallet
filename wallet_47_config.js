@@ -1,1 +1,1 @@
-var mnemonic = "abuse ensure yellow raw cabbage sting spray paper snack desk craft essay";
+var mnemonic = "absent mouse want pretty strategy guilt cash snow add attend gauge tourist";

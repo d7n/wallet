@@ -1,1 +1,1 @@
-var mnemonic = "earn sponsor merit detail cactus theory clip use draw siren enter achieve";
+var mnemonic = "business cloth disorder treat much dad hero admit ugly walk second cube";

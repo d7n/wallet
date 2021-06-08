@@ -1,1 +1,1 @@
-var mnemonic = "cloud kangaroo essay stable exchange once dismiss imitate wheel patrol setup stove";
+var mnemonic = "frequent desert carry initial seat seek home embark final have basket step";

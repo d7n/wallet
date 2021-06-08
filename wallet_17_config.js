@@ -1,1 +1,1 @@
-var mnemonic = "chief know illegal minute filter twin april blue gadget spirit mammal clarify";
+var mnemonic = "fruit help convince tone roast party core scare cloth type away menu";

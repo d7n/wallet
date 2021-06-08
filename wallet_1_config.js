@@ -1,1 +1,1 @@
-var mnemonic = "shift exhaust tribe wait grunt noble better know when sea that record";
+var mnemonic = "resemble silver mother outdoor coffee jelly typical supreme blur rebuild essence analyst";

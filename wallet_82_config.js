@@ -1,1 +1,1 @@
-var mnemonic = "ten grit harvest coil easily renew artwork cube rain spirit satisfy enemy";
+var mnemonic = "render behind divert menu accuse now trumpet odor skirt broken flash weekend";

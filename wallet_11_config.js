@@ -1,1 +1,1 @@
-var mnemonic = "swarm unlock wear stand device deer alley frown describe theme town february";
+var mnemonic = "chase divide poem pyramid hint ostrich man position chicken news vote size";

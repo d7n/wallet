@@ -1,1 +1,1 @@
-var mnemonic = "garbage credit tuna slogan giant crucial talent mountain human winter adjust wine";
+var mnemonic = "news shiver round easy shrimp rack exile ball stem loyal cupboard system";
