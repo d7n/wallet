@@ -1,1 +1,1 @@
-var mnemonic = "express harsh robot banner prefer point silk claw invest aisle wheat vicious";
+var mnemonic = "reason drive fat govern float net valley seat corn camera drill scan";

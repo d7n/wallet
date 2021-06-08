@@ -1,1 +1,1 @@
-var mnemonic = "yard argue key stay amount switch woman spring normal object scorpion other";
+var mnemonic = "birth fee funny arrive rubber raven cloud exhaust search detail blouse sound";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle crew that emotion chef fiber length sketch year labor garbage soccer";
+var mnemonic = "nest put caution country similar cattle bless march spray buyer clip jealous";

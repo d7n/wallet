@@ -1,1 +1,1 @@
-var mnemonic = "bubble train pencil spin distance surface segment unfair depend absorb sheriff sample";
+var mnemonic = "virus move fly enough elegant same suit exile people child capable seminar";

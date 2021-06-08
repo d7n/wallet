@@ -1,1 +1,1 @@
-var mnemonic = "tuition canal time spell toy stereo recall hip busy swamp search pole";
+var mnemonic = "country rude like creek speak script pig industry neutral topple diary critic";

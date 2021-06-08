@@ -1,1 +1,1 @@
-var mnemonic = "gift when drip corn salt chaos athlete poem party salmon depth negative";
+var mnemonic = "ribbon butter body forward special absorb glance ready throw trap rent radio";

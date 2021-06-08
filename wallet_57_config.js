@@ -1,1 +1,1 @@
-var mnemonic = "eternal dress tortoise check print badge nominee risk erupt ball fun have";
+var mnemonic = "stairs crumble crack spawn dice luggage cool empty forum ghost response injury";

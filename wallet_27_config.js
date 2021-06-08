@@ -1,1 +1,1 @@
-var mnemonic = "cake sphere truck setup arena resemble wrist hole dolphin input catch harsh";
+var mnemonic = "flock edge badge enable dad bonus orchard nice tiger foot party destroy";

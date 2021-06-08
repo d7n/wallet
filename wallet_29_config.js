@@ -1,1 +1,1 @@
-var mnemonic = "tenant rib dose genius clump trophy another rookie opera skull pencil mobile";
+var mnemonic = "pitch bacon economy observe carpet friend choose quality oxygen noble whale end";

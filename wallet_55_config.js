@@ -1,1 +1,1 @@
-var mnemonic = "immense face rather dwarf evolve cricket atom neck physical topic net swim";
+var mnemonic = "build parade common frame column nephew atom fantasy equal pride tower pitch";

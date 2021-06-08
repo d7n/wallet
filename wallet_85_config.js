@@ -1,1 +1,1 @@
-var mnemonic = "build child harvest dinner sad yellow hint shaft corn skull merry empower";
+var mnemonic = "relief deputy song violin plunge physical veteran dance virus patch black clog";

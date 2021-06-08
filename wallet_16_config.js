@@ -1,1 +1,1 @@
-var mnemonic = "steel subject rescue clean decade nerve flight gasp chief great term marriage";
+var mnemonic = "crunch canyon couch wash ten scrub dream wave digital arrow ostrich brain";

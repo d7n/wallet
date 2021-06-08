@@ -1,1 +1,1 @@
-var mnemonic = "rural oxygen hospital jump slender alley anchor symbol plunge couple put doctor";
+var mnemonic = "cake fix cruise general again plunge lounge seed unit attitude despair portion";

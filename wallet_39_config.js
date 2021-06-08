@@ -1,1 +1,1 @@
-var mnemonic = "enact midnight glow miss utility magnet obscure busy spider business elegant rent";
+var mnemonic = "fantasy reduce finish ceiling approve fiction humor improve exchange lonely jump brave";

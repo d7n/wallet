@@ -1,1 +1,1 @@
-var mnemonic = "climb gorilla save boy scale large burst tip dream later tent box";
+var mnemonic = "level way steel wing hospital session camera wide crime mercy tunnel snap";

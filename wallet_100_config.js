@@ -1,1 +1,1 @@
-var mnemonic = "cart virtual tape decorate arrow shove swing recycle immense barrel immense robot";
+var mnemonic = "action umbrella fox toy forget number sight width congress ask garden panic";

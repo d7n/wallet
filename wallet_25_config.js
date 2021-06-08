@@ -1,1 +1,1 @@
-var mnemonic = "pitch figure price loyal language client huge divert bunker remove toilet illegal";
+var mnemonic = "sun remember wild finish clap pond cradle swamp glide foster stumble treat";

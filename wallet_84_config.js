@@ -1,1 +1,1 @@
-var mnemonic = "bird slush tackle prepare beauty panel never possible boring cricket rough logic";
+var mnemonic = "repair wrestle eye stock toy portion outside thank gun water happy liberty";

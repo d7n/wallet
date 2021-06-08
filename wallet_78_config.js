@@ -1,1 +1,1 @@
-var mnemonic = "horse dust news height delay access floor hunt raven relax thing organ";
+var mnemonic = "void curtain tongue obscure moon off plunge near wild toe chimney brass";

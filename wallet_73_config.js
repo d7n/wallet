@@ -1,1 +1,1 @@
-var mnemonic = "assist food clump easily cloud staff detail patch silly cost stay service";
+var mnemonic = "zoo wire tornado strong peasant canvas thought pepper escape maze chair key";

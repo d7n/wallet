@@ -1,1 +1,1 @@
-var mnemonic = "unveil border culture alien elder task write rural planet pig object near";
+var mnemonic = "cupboard best lens jazz desk slab wheat endless ahead broom mule stable";

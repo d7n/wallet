@@ -1,1 +1,1 @@
-var mnemonic = "rate common just together typical chase bridge mirror check canoe erupt negative";
+var mnemonic = "hobby awkward pact budget peanut there enable tackle dynamic wet uncle enact";

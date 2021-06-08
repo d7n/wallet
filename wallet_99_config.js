@@ -1,1 +1,1 @@
-var mnemonic = "olympic capable style morning recycle arrest fiber isolate select hint steel clinic";
+var mnemonic = "any case swear space daughter monster edit giggle payment east under tomato";

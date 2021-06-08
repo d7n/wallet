@@ -1,1 +1,1 @@
-var mnemonic = "marine aisle crop dentist baby two buddy noodle swarm summer robot special";
+var mnemonic = "despair symptom sad taxi clever strong update glare impulse mesh surprise innocent";

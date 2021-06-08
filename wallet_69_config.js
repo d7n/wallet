@@ -1,1 +1,1 @@
-var mnemonic = "route battle volcano around chimney copy develop rather best call plunge bunker";
+var mnemonic = "chaos twelve now region cup punch artwork congress vivid proud forum blur";

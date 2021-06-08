@@ -1,1 +1,1 @@
-var mnemonic = "sight exercise coast cry engine worth rocket such setup inherit short figure";
+var mnemonic = "wait morning fuel corn false citizen stick crunch spice east august length";

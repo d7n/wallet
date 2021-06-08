@@ -1,1 +1,1 @@
-var mnemonic = "auction replace tape vote heart flame very rude object hard upgrade attitude";
+var mnemonic = "hamster giggle fetch junior nuclear pink leg junior rug bitter awful original";

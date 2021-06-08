@@ -1,1 +1,1 @@
-var mnemonic = "siege please sugar kidney judge area dawn history diagram globe early large";
+var mnemonic = "april muffin pave sorry erase awesome sunset join game seven doctor topic";

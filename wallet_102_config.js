@@ -1,1 +1,1 @@
-var mnemonic = "uniform soap explain laptop wheat census material keen favorite ribbon crime lizard";
+var mnemonic = "sock discover exclude average remain remind evidence simple series there wave height";

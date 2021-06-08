@@ -1,1 +1,1 @@
-var mnemonic = "neutral alpha erode display erase woman title world enhance muscle baby promote";
+var mnemonic = "spike sport struggle cloud output head video diamond security clock veteran any";

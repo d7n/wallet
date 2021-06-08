@@ -1,1 +1,1 @@
-var mnemonic = "theory donor still tool evolve super venture hybrid march leader carry mom";
+var mnemonic = "small choose alter lava cancel convince sweet caution depart word furnace utility";

@@ -1,1 +1,1 @@
-var mnemonic = "track kangaroo tenant lawn repeat aunt mango enjoy regret problem coyote exclude";
+var mnemonic = "sister virus skill garage any derive pull boil negative memory hill since";

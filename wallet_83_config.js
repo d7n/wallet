@@ -1,1 +1,1 @@
-var mnemonic = "secret tuna scorpion glass rubber crime churn paddle street gun police trouble";
+var mnemonic = "empower cage sugar dress grief one copy wonder path agent admit auction";

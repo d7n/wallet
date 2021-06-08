@@ -1,1 +1,1 @@
-var mnemonic = "truly ritual advice silly hover blur later dance march space tone unusual";
+var mnemonic = "six vehicle drastic quiz exclude nest young fish siege write foam bamboo";

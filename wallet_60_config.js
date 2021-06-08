@@ -1,1 +1,1 @@
-var mnemonic = "evolve midnight armed segment cup toast trick same grit crop equip carry";
+var mnemonic = "bike afraid van couple today will crowd sock soldier father magic tilt";

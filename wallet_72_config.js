@@ -1,1 +1,1 @@
-var mnemonic = "capital pluck abandon raven receive aware seat mercy park convince axis engine";
+var mnemonic = "book trash enough outer logic plug meadow grit search mobile model priority";

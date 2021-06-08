@@ -1,1 +1,1 @@
-var mnemonic = "claw noble bright cluster shiver grass jump sustain first market scrub solution";
+var mnemonic = "lonely sound impose grant humble glide island model canyon simple near enforce";

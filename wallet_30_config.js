@@ -1,1 +1,1 @@
-var mnemonic = "auction again cost torch happy surprise garment friend awesome tiny mail desk";
+var mnemonic = "stone surface hurt lucky secret claim toast rubber rally market aware source";

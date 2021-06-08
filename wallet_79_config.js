@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo spare leaf upon edit final parent age anxiety note spatial inject";
+var mnemonic = "border save shine glow grass match museum antenna organ jaguar orphan cousin";

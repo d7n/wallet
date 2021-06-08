@@ -1,1 +1,1 @@
-var mnemonic = "hill fade weasel skull lift pupil happy mushroom theme oyster bonus deer";
+var mnemonic = "style aspect hobby open rhythm chunk achieve remove broken dream own length";

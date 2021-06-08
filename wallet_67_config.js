@@ -1,1 +1,1 @@
-var mnemonic = "hold duck stable mammal canyon coast original green slam lava section father";
+var mnemonic = "push wreck mammal puppy board screen sorry certain mass tribe good frame";

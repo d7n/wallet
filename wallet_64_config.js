@@ -1,1 +1,1 @@
-var mnemonic = "unfair inquiry country fog three fine uncover fee stick cloth copy beef";
+var mnemonic = "muffin innocent gain essence basic slim foam deputy entry decrease walk twice";

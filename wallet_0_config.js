@@ -1,1 +1,1 @@
-var mnemonic = "diet cattle tree soft tower live ridge ride solution frost cheese oyster";
+var mnemonic = "spell recall distance body boss piece drip tone label meadow income magic";

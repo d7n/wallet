@@ -1,1 +1,1 @@
-var mnemonic = "reward invest park album ripple wild spin hedgehog jump hawk board position";
+var mnemonic = "news option mass garlic duck guitar during design symbol public such differ";

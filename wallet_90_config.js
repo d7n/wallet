@@ -1,1 +1,1 @@
-var mnemonic = "divorce way moon camp song fluid parade various sentence fiber december panther";
+var mnemonic = "mad gasp black problem battle habit device coil next novel champion eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol foam sense country crumble hedgehog door list roof limit relax loan";
+var mnemonic = "hen draft mosquito bomb network eye energy slide wide diesel once race";

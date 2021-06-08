@@ -1,1 +1,1 @@
-var mnemonic = "smooth lady hip casino crystal next fashion rhythm away barrel crisp leopard";
+var mnemonic = "animal total visit response session opinion turn age object cannon fortune also";

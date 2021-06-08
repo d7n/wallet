@@ -1,1 +1,1 @@
-var mnemonic = "rifle real assist rough entry gap expire arm holiday frost swarm benefit";
+var mnemonic = "laugh black meadow believe uncle maid cloth attitude april inject wrestle calm";

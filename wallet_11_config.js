@@ -1,1 +1,1 @@
-var mnemonic = "true high tomorrow glad silver device forest junior melody lecture goddess flush";
+var mnemonic = "consider exchange toilet flavor eagle sight balance bleak judge defy bike alley";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial build august rather useful champion proof wing border ribbon win rule";
+var mnemonic = "chunk misery color business phrase load glad cereal post vague salute claw";

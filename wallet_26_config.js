@@ -1,1 +1,1 @@
-var mnemonic = "wish south cricket wrestle excess butter urban drop link fork enrich regular";
+var mnemonic = "virus diet spirit regular own donor vendor recycle stumble venue weather shoot";

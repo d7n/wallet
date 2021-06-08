@@ -1,1 +1,1 @@
-var mnemonic = "mesh amused tunnel science lesson tongue egg flavor comfort horror hamster tennis";
+var mnemonic = "pig pepper alien joke slim occur have estate neutral humor episode project";

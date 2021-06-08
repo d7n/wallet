@@ -1,1 +1,1 @@
-var mnemonic = "corn bus boil actress sister upgrade west quote crop holiday spread switch";
+var mnemonic = "flame snake kind correct sheriff upgrade soap already tonight goat cry rocket";

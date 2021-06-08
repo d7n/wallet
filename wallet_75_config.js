@@ -1,1 +1,1 @@
-var mnemonic = "rival card whisper sock rebel announce vote detect canal produce enrich pause";
+var mnemonic = "garden all such eager master harbor damp tiger hen comfort social utility";

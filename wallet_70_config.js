@@ -1,1 +1,1 @@
-var mnemonic = "proof ride gym ticket tourist dawn team basket man deal text abuse";
+var mnemonic = "away wish raccoon final blame income peace push spell goose similar win";

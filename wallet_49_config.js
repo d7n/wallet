@@ -1,1 +1,1 @@
-var mnemonic = "inspire wealth impose sausage describe half congress invest tree hire bomb vacuum";
+var mnemonic = "couple major zoo car flash helmet hybrid measure joy begin shy put";

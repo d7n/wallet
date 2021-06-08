@@ -1,1 +1,1 @@
-var mnemonic = "act neutral lesson excuse excess false thumb cube powder escape exclude lonely";
+var mnemonic = "razor core cannon vanish identify oval trap expire surprise eight pattern special";

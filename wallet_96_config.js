@@ -1,1 +1,1 @@
-var mnemonic = "glue alter poem coast east forest wolf mirror cherry shield local eager";
+var mnemonic = "consider elegant illness help forest old miracle cereal bar jelly hint inhale";

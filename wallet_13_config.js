@@ -1,1 +1,1 @@
-var mnemonic = "produce cover basket say practice valley rubber black pumpkin space dinner hotel";
+var mnemonic = "daughter much tree erupt abuse pigeon industry finger change shop ladder jewel";

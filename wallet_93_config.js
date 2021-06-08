@@ -1,1 +1,1 @@
-var mnemonic = "almost quarter shuffle color stereo armor normal trend private lobster minor eye";
+var mnemonic = "material egg honey banana save timber alert whip wear swamp method chair";

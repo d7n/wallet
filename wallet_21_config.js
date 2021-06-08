@@ -1,1 +1,1 @@
-var mnemonic = "three middle daring modify plunge team vacuum join meadow forest harsh arrest";
+var mnemonic = "illness loyal can crew rookie marine laundry enhance name flip wrestle escape";

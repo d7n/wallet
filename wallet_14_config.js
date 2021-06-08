@@ -1,1 +1,1 @@
-var mnemonic = "dust stock aisle arena alien track mutual find such radio leaf follow";
+var mnemonic = "stereo dynamic hard sail velvet round correct measure comfort twist earn garlic";

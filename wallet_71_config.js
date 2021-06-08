@@ -1,1 +1,1 @@
-var mnemonic = "rug display fiscal angle silly job fog radio hobby humble exchange firm";
+var mnemonic = "news enforce use point success broccoli rude key glass sibling horn maid";

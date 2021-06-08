@@ -1,1 +1,1 @@
-var mnemonic = "pistol wing make elder duck visa effort spin easy fault lunar mountain";
+var mnemonic = "high lucky fluid provide sustain street attack length sort face erode combine";

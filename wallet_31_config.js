@@ -1,1 +1,1 @@
-var mnemonic = "violin moment saddle fit dutch sad search voyage metal habit beauty puzzle";
+var mnemonic = "fade bunker damage fade affair fog swing ocean nature draw bunker apple";

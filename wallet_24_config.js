@@ -1,1 +1,1 @@
-var mnemonic = "test reform salon leisure wreck ride joke afford weather exist sustain recall";
+var mnemonic = "misery shell inquiry prefer polar fog six room vacant mercy ostrich same";

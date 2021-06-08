@@ -1,1 +1,1 @@
-var mnemonic = "crisp this grass car north crush observe april bomb please daring income";
+var mnemonic = "vanish kidney depend reject guess resource steel castle verify dragon veteran battle";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar curve merge ill behave sphere design alter rookie clutch outside nominee";
+var mnemonic = "debate alien blade globe mutual ritual game fall antique include sock enlist";

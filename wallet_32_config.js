@@ -1,1 +1,1 @@
-var mnemonic = "frequent this license chaos grit usual machine nothing moment drill exclude artwork";
+var mnemonic = "drastic web journey rib any early antenna region feature lesson naive sail";

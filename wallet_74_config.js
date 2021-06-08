@@ -1,1 +1,1 @@
-var mnemonic = "feel nasty april chat sick physical airport sea tail forest shiver multiply";
+var mnemonic = "leader evoke eye off finger height pottery vanish talk token then enjoy";

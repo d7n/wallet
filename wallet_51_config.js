@@ -1,1 +1,1 @@
-var mnemonic = "remind kick exact predict erupt spirit clean brush summer carbon milk limb";
+var mnemonic = "average elite puzzle gossip garden shop length embark silent chef dust barrel";

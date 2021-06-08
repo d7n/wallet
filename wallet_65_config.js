@@ -1,1 +1,1 @@
-var mnemonic = "host cover flush marble trophy draw duck humble imitate suit demand shield";
+var mnemonic = "grief force tent zebra fiction spy novel master glare mean dawn vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse phone accuse actual canvas spell orphan sword anchor lesson confirm hobby";
+var mnemonic = "absorb afford extra zoo hammer enhance jewel face next lens ten life";

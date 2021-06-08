@@ -1,1 +1,1 @@
-var mnemonic = "best exist wolf private alcohol breeze satisfy palace world stamp dance sea";
+var mnemonic = "divide camera owner canyon armor salad mercy erupt awesome wheat trigger only";

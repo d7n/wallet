@@ -1,1 +1,1 @@
-var mnemonic = "praise wage close proof derive history help detect turtle expand usual hobby";
+var mnemonic = "elite then toast sun insane trigger wine you wise lonely predict choose";

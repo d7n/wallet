@@ -1,1 +1,1 @@
-var mnemonic = "thing brush brown prosper symbol element just test second sniff shield zebra";
+var mnemonic = "army sugar right tissue steak saddle employ whisper admit mom they impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "fish husband brisk absorb first judge chronic live harbor elder hotel gain";
+var mnemonic = "drama crush pink ankle flag will able truck aspect hotel destroy draw";

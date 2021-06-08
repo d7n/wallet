@@ -1,1 +1,1 @@
-var mnemonic = "own ramp nominee cabbage common symptom pull lazy enrich draw clever gossip";
+var mnemonic = "canoe expect left rabbit appear tired lift flag effort strong correct sting";

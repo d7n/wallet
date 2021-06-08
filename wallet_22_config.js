@@ -1,1 +1,1 @@
-var mnemonic = "reform have item shy arrest mechanic behave gown can great orange park";
+var mnemonic = "bunker double remind deal shift muscle reduce display census magnet whale canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "much yellow bronze silent pool grab account online script gadget entry please";
+var mnemonic = "remove parrot emerge limit east ignore purse page text abandon pottery pigeon";

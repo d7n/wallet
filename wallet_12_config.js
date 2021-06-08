@@ -1,1 +1,1 @@
-var mnemonic = "journey captain evoke crucial brass day orbit raise ready steel sadness strong";
+var mnemonic = "razor fire episode debate seat music oil slide hen setup cry actor";

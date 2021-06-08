@@ -1,1 +1,1 @@
-var mnemonic = "paper portion confirm project attitude because option cluster alpha horror domain festival";
+var mnemonic = "wolf drip olive target staff sentence canal bridge warm knee drink drama";

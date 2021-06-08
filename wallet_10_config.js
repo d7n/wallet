@@ -1,1 +1,1 @@
-var mnemonic = "team devote blame speed mercy odor connect rotate run magnet pattern pudding";
+var mnemonic = "abandon grant finish camp suit observe acid exercise wagon noodle motion able";

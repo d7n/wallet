@@ -1,1 +1,1 @@
-var mnemonic = "album hat real gospel square impose donor drop fuel bachelor escape purpose";
+var mnemonic = "local jewel pepper patient earth life noise switch struggle snake accident quarter";

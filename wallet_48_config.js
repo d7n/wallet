@@ -1,1 +1,1 @@
-var mnemonic = "urge lock situate yard model climb blouse caught harvest valley idle paper";
+var mnemonic = "member poem soft squirrel gas toward purchase company conduct joy submit bring";

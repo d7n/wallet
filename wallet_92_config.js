@@ -1,1 +1,1 @@
-var mnemonic = "flip tragic art screen furnace raccoon company market hard bulk wire satoshi";
+var mnemonic = "fault supreme inch copy sign aspect suit foster shift gallery muscle choose";

@@ -1,1 +1,1 @@
-var mnemonic = "skin glow airport gold bar ripple father cliff click bulk comfort desk";
+var mnemonic = "bachelor grass leader observe output buffalo venture settle method behave acoustic rookie";

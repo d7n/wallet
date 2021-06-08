@@ -1,1 +1,1 @@
-var mnemonic = "hub pencil gorilla liar almost myth lion path cotton afraid coach prison";
+var mnemonic = "bag split warm pistol love advance battle clay middle below entry decline";

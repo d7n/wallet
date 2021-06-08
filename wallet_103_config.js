@@ -1,1 +1,1 @@
-var mnemonic = "toilet merge nephew fatigue camp topple major urban write half strong blouse";
+var mnemonic = "soul mandate news zero river can sleep object rail liberty rely across";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital move bring uphold hotel corn column today now error left cliff";
+var mnemonic = "brush winter harvest busy notice curtain cloud bread grit festival drill post";

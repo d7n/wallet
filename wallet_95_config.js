@@ -1,1 +1,1 @@
-var mnemonic = "truly sail rotate address imitate vendor toward depth movie typical labor long";
+var mnemonic = "fever frozen very find explain toward range sense bus session lion offer";

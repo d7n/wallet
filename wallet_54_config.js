@@ -1,1 +1,1 @@
-var mnemonic = "lounge empower slab tray welcome museum recipe brand item scrap daring arrive";
+var mnemonic = "addict life prosper dragon nature nut april liberty predict submit toy yellow";
