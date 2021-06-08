@@ -1,1 +1,1 @@
-var mnemonic = "trick eye soap ten stock image kit grace guide monitor say flush";
+var mnemonic = "barely diary weekend film tunnel faith pair mistake grape team tower panel";

@@ -1,1 +1,1 @@
-var mnemonic = "poet brother spell length sport chef never fatigue child bundle resist absent";
+var mnemonic = "enhance height gallery uncle brush soccer culture tuna vintage purchase angle stand";

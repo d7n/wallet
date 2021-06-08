@@ -1,1 +1,1 @@
-var mnemonic = "cave winter innocent pencil orient honey wrestle clerk snack pink like resource";
+var mnemonic = "summer forget solid office hour fix affair sound path upgrade capital essence";

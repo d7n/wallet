@@ -1,1 +1,1 @@
-var mnemonic = "tank throw crisp quality unaware pass ramp obey vote spice leaf dad";
+var mnemonic = "system sugar fever invest collect fresh odor blood tree prison idea promote";

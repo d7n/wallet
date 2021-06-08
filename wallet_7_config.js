@@ -1,1 +1,1 @@
-var mnemonic = "traffic purse account double quick spend torch antenna silk tuition front once";
+var mnemonic = "surface craft box sword nasty illegal bar supply sad trim about thunder";

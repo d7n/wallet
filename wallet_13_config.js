@@ -1,1 +1,1 @@
-var mnemonic = "wall enough turkey pipe train artist excess text royal fold when better";
+var mnemonic = "casino same follow girl clay cloth hat online remind fork brush pave";

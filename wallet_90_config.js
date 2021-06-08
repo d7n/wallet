@@ -1,1 +1,1 @@
-var mnemonic = "spy ivory ketchup foot cake little artefact cook diary grape machine actual";
+var mnemonic = "silly prison embark battle bottom kick culture shoot supply enjoy glue heart";

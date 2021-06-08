@@ -1,1 +1,1 @@
-var mnemonic = "innocent sunny maid liar depend trim yellow paddle north clay truck collect";
+var mnemonic = "drama august gadget goddess afford april stadium index velvet economy joke owner";

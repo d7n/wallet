@@ -1,1 +1,1 @@
-var mnemonic = "suspect truly frog assist company monster gift genre script avocado garlic degree";
+var mnemonic = "duck recall upon expire catalog next become security bicycle hobby plate essence";

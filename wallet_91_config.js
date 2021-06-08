@@ -1,1 +1,1 @@
-var mnemonic = "brown indoor ride gentle fiction describe amazing lens hurt major pyramid clinic";
+var mnemonic = "lumber imitate during horn usage divert vivid void jump coyote pond desert";

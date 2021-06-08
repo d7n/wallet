@@ -1,1 +1,1 @@
-var mnemonic = "absorb puppy private piano guitar ship thought pottery brush swim party climb";
+var mnemonic = "flag beach pitch feed avoid mechanic use woman enact domain tribe prize";

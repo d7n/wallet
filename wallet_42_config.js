@@ -1,1 +1,1 @@
-var mnemonic = "leave scrub ethics relief toddler box egg fashion general attend squeeze oven";
+var mnemonic = "present buddy lift found basic brick fabric mandate glass deposit ripple grief";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle assume cloth robot cat omit science dwarf web author width arrest";
+var mnemonic = "usage suffer sphere ready heart genre trumpet clarify dentist return guard cinnamon";

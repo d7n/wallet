@@ -1,1 +1,1 @@
-var mnemonic = "chicken caution donate eager seven quit desk language stomach connect glow sphere";
+var mnemonic = "learn card diary spare neglect enemy muscle vapor kite saddle outdoor amused";

@@ -1,1 +1,1 @@
-var mnemonic = "excite sorry snake earn firm small maid farm blur child until north";
+var mnemonic = "before angry friend judge liar fog hollow empty strike viable wine foot";

@@ -1,1 +1,1 @@
-var mnemonic = "verify certain popular cotton stick anger just firm screen august primary runway";
+var mnemonic = "tornado require coconut ranch pistol turn electric endless buzz pool endorse open";

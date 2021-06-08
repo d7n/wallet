@@ -1,1 +1,1 @@
-var mnemonic = "belt tissue task rail police budget build stamp tomato arena bid slow";
+var mnemonic = "knee sight spawn spend win chimney response sphere nurse opinion flag slogan";

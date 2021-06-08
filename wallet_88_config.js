@@ -1,1 +1,1 @@
-var mnemonic = "check task enter author metal affair next problem crash silver fetch clump";
+var mnemonic = "peasant pretty rain method humor lecture outdoor army name good pupil reveal";

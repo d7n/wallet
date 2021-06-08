@@ -1,1 +1,1 @@
-var mnemonic = "fee crime alert myth mosquito large uphold remain biology decrease prefer order";
+var mnemonic = "fringe mistake vanish width own scissors rebuild thing hurry soldier apology item";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt surround welcome feel action try frame catalog sister salute piano wear";
+var mnemonic = "almost narrow kid skull machine derive unveil solid spirit trash potato autumn";

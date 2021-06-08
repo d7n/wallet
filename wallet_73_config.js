@@ -1,1 +1,1 @@
-var mnemonic = "sad spare crunch file echo velvet jeans clip wish purse love know";
+var mnemonic = "example catalog slight middle announce tuition buyer spare village invest blanket damage";

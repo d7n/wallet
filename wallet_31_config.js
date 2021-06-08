@@ -1,1 +1,1 @@
-var mnemonic = "truth shoot barely force crane ride diary olive always mention tenant shoe";
+var mnemonic = "finish pool earn decline camp advice earth beyond cover youth thumb congress";

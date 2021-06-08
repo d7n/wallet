@@ -1,1 +1,1 @@
-var mnemonic = "decrease clean ivory lounge tortoise dawn mom prosper peasant clever steel beauty";
+var mnemonic = "blue cinnamon wide urge lottery festival join crisp fork soup kidney water";

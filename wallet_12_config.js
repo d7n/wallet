@@ -1,1 +1,1 @@
-var mnemonic = "better clerk talent peasant exact girl penalty close sport floor float run";
+var mnemonic = "ketchup sunset then will across skirt detect beauty unable winter own quote";

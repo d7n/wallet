@@ -1,1 +1,1 @@
-var mnemonic = "hat federal bacon find buyer candy enjoy pretty violin stool dad iron";
+var mnemonic = "invite fitness survey rule cost tail sun feature clump toward indoor inmate";

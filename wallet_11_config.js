@@ -1,1 +1,1 @@
-var mnemonic = "fossil harbor friend bring dawn goddess shed plastic duck report crime asset";
+var mnemonic = "luggage fitness similar clay nurse layer eager federal grocery pause nothing quarter";

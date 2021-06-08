@@ -1,1 +1,1 @@
-var mnemonic = "dirt clown wolf crime head prepare rescue crop flag enact manual diamond";
+var mnemonic = "puppy mountain senior firm robust imitate board media deposit approve trial steak";

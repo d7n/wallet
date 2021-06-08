@@ -1,1 +1,1 @@
-var mnemonic = "slight raven master embark act wear moment staff region sugar exist kitten";
+var mnemonic = "figure width average cloth flee cart sure attend quantum metal rural island";

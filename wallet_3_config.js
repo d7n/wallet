@@ -1,1 +1,1 @@
-var mnemonic = "bounce blur client affair pluck smile raw vague hundred awake service scorpion";
+var mnemonic = "drop describe panel student fame mistake raise bachelor atom vault rug alert";

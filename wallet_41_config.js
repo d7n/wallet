@@ -1,1 +1,1 @@
-var mnemonic = "crew math cross inspire useful around effort arrive gospel stuff follow amazing";
+var mnemonic = "chunk dilemma spin warrior announce inform used group write rely ball split";

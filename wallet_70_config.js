@@ -1,1 +1,1 @@
-var mnemonic = "siege blast carpet method donkey scissors hungry theory device boost brand jelly";
+var mnemonic = "senior loop artefact learn reason raven drive olive orchard theme toe cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel clay dust large awesome guilt educate please brief decade fiscal garage";
+var mnemonic = "mobile honey tornado erode shield reunion embody melt amount bean clean donkey";

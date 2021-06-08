@@ -1,1 +1,1 @@
-var mnemonic = "luggage manage similar annual prize video thunder master thunder vacuum speed reward";
+var mnemonic = "idea minor field spatial cluster furnace two outdoor behind extend jar analyst";

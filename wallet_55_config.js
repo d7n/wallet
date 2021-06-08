@@ -1,1 +1,1 @@
-var mnemonic = "shoulder chuckle correct frog expect stem cave audit general exit bid bless";
+var mnemonic = "purchase lemon symptom size diagram eternal goddess tornado blame flavor select arm";

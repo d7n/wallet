@@ -1,1 +1,1 @@
-var mnemonic = "globe veteran creek test local timber mean dragon fat scrap tooth patient";
+var mnemonic = "favorite shoulder educate cat garlic prefer romance renew anxiety enough reduce infant";

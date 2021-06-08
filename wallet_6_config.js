@@ -1,1 +1,1 @@
-var mnemonic = "hire ketchup walnut treat joke faculty duck victory lift idle romance hedgehog";
+var mnemonic = "hour believe surface risk endorse select sudden chase banner stay hospital pulp";

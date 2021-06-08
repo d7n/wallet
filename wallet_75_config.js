@@ -1,1 +1,1 @@
-var mnemonic = "reopen broom despair private mule milk state armor attend buzz evidence banana";
+var mnemonic = "word puppy onion claw orbit pledge puzzle stem dignity toward domain uphold";

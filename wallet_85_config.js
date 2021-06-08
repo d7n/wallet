@@ -1,1 +1,1 @@
-var mnemonic = "swap tenant jar saddle stamp stool crawl horror indicate start daughter draft";
+var mnemonic = "permit silver glad pyramid left tell staff window claim business ozone field";

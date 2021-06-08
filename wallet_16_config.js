@@ -1,1 +1,1 @@
-var mnemonic = "obtain globe funny omit jump come fish way possible chalk swim hour";
+var mnemonic = "immense property polar habit heart apple enrich lucky theme waste slot dawn";

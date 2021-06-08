@@ -1,1 +1,1 @@
-var mnemonic = "skirt black pipe gym market true burst guide spice skill mansion symbol";
+var mnemonic = "light mirror thunder civil viable giggle blossom step start camera crisp thought";

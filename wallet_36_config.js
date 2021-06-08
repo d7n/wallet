@@ -1,1 +1,1 @@
-var mnemonic = "first tilt avocado foil urban insect pretty future reflect dwarf grace bicycle";
+var mnemonic = "gloom favorite boost half thank outside bundle cream expect vibrant park coil";

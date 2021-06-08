@@ -1,1 +1,1 @@
-var mnemonic = "various bacon foam napkin neutral pen change impact poem ocean access sail";
+var mnemonic = "angry convince wasp argue annual middle boring wine stool wall forum city";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge energy sentence volume wave direct blind truck rely cousin horn case";
+var mnemonic = "barely remain fruit near theme profit craft tiger decorate review journey dilemma";

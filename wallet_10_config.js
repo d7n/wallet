@@ -1,1 +1,1 @@
-var mnemonic = "mention canoe trick cross noise silly have parrot phrase shift retreat milk";
+var mnemonic = "warfare shine siege deposit cage budget atom cloud sight connect chaos tree";

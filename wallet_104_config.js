@@ -1,1 +1,1 @@
-var mnemonic = "kind smile venture style eagle spirit hope shift jaguar subway spawn danger";
+var mnemonic = "chunk improve side large swift vocal account grab tag senior float outdoor";

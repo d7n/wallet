@@ -1,1 +1,1 @@
-var mnemonic = "old spin brand market fox solution broccoli bless couch couple panther staff";
+var mnemonic = "other nice pelican nation run ankle picnic notice strong pair point beauty";

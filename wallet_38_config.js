@@ -1,1 +1,1 @@
-var mnemonic = "capable clap tell mule rebuild truth supply veteran brother ritual renew happy";
+var mnemonic = "mercy treat assist portion food eagle snow what impose tail amused coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "urge brass million hero monster culture case pulp helmet flame harbor effort";
+var mnemonic = "arrive cable vast twist rotate gesture squeeze jar cross beef mouse harsh";

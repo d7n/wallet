@@ -1,1 +1,1 @@
-var mnemonic = "latin ice amazing tone blush leader surface motor nerve december swallow siren";
+var mnemonic = "balance slice post ivory squirrel chronic high young knock damage pupil wisdom";

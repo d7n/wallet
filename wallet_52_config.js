@@ -1,1 +1,1 @@
-var mnemonic = "deputy danger furnace rain myself daughter width common pass cross core slot";
+var mnemonic = "shed album switch expand robot elbow page prosper east measure give punch";

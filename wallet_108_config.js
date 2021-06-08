@@ -1,1 +1,1 @@
-var mnemonic = "output speed pipe suit improve depth flame wide boil almost egg utility";
+var mnemonic = "grid supply video index master pilot gown biology off vendor shoot cloud";

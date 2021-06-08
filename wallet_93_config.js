@@ -1,1 +1,1 @@
-var mnemonic = "lab estate tongue quality glory finger north analyst laugh member gain shadow";
+var mnemonic = "produce burden tackle inhale outside link rare globe say shop tennis violin";

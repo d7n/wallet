@@ -1,1 +1,1 @@
-var mnemonic = "faint file puppy believe silk width crane dilemma document flee lonely remove";
+var mnemonic = "fiscal unaware rapid rice atom stairs group dizzy caught side vintage sustain";

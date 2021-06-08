@@ -1,1 +1,1 @@
-var mnemonic = "pink misery sketch attitude side swear series fragile permit faculty together velvet";
+var mnemonic = "salute magic tip bottom coach pretty gorilla kitten they retire excess quantum";

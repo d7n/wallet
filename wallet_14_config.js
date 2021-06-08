@@ -1,1 +1,1 @@
-var mnemonic = "hip famous tattoo scale auction lucky blood slogan razor super october raccoon";
+var mnemonic = "deliver start endless travel arena very shadow couch adjust universe rain affair";

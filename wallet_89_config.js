@@ -1,1 +1,1 @@
-var mnemonic = "crowd tumble outdoor dismiss chicken squirrel comfort beach scissors proof soda skirt";
+var mnemonic = "cable trade copper review camera carpet clock warrior clever length firm tuna";

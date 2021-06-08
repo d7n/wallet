@@ -1,1 +1,1 @@
-var mnemonic = "tooth teach toilet nation call belt glue sting bullet basic tree seat";
+var mnemonic = "walk then concert victory crowd screen phone lizard stool evoke farm business";

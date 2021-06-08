@@ -1,1 +1,1 @@
-var mnemonic = "empower execute paper weather girl during dismiss entire unfair scatter later fix";
+var mnemonic = "chaos nest ivory use lava wide parrot auction mix clean liberty cancel";

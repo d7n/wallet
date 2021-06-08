@@ -1,1 +1,1 @@
-var mnemonic = "loud tomato field dish drift viable food endless buyer office palace drink";
+var mnemonic = "butter fog material afraid raccoon hundred nerve grab once top critic decorate";

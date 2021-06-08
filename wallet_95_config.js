@@ -1,1 +1,1 @@
-var mnemonic = "hurt aware cushion end crazy animal wise supreme energy cotton winner element";
+var mnemonic = "acid task system night common demise tone phrase black gauge assume mule";

@@ -1,1 +1,1 @@
-var mnemonic = "category chalk prefer fold wood adult immense anger illegal menu measure strike";
+var mnemonic = "subway rival unknown divorce nice laptop balcony help throw absent flower limit";

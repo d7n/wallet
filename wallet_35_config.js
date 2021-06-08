@@ -1,1 +1,1 @@
-var mnemonic = "antique adult notice river soccer film actor swift town town analyst awake";
+var mnemonic = "dizzy stable embody agree cry decade pact science meadow notable yellow salad";

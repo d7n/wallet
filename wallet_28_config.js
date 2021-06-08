@@ -1,1 +1,1 @@
-var mnemonic = "token fan arch cycle foam crystal area west practice dose denial index";
+var mnemonic = "explain lunar team insane casual flavor journey vacant trumpet glove pig sister";

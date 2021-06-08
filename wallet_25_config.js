@@ -1,1 +1,1 @@
-var mnemonic = "sun connect atom want wagon scrap burden end truth divert wash nominee";
+var mnemonic = "bulb lucky when design hub wrist run gun student ozone inform forum";

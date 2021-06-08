@@ -1,1 +1,1 @@
-var mnemonic = "concert average laugh industry impact plastic cricket cluster find scale lyrics glare";
+var mnemonic = "despair gravity monster drift coconut hundred mixed enjoy tooth repeat flavor whip";

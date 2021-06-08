@@ -1,1 +1,1 @@
-var mnemonic = "fix neck enact fluid tattoo top picnic business maximum stadium sound private";
+var mnemonic = "enlist glove match match permit time change solution silent dress base chat";

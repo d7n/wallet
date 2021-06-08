@@ -1,1 +1,1 @@
-var mnemonic = "demise guide gadget alcohol pitch sudden claim fantasy absurd split glare lab";
+var mnemonic = "can business course abuse waste fabric leisure shallow street castle exercise symptom";

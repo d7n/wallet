@@ -1,1 +1,1 @@
-var mnemonic = "rifle aerobic trap enhance kidney can fury cereal bronze float cross pelican";
+var mnemonic = "fortune term property inject enrich record people drive sauce enlist afford shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "visual ability crouch egg million bounce stock close galaxy doctor rifle predict";
+var mnemonic = "canal legal submit chase celery media peace aim raven salt nose leaf";

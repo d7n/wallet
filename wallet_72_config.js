@@ -1,1 +1,1 @@
-var mnemonic = "cat crop icon license mercy vast unusual concert outside object special awesome";
+var mnemonic = "cabbage right crater bright angry curve kind cushion stay vacant brisk wisdom";

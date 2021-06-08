@@ -1,1 +1,1 @@
-var mnemonic = "sight clown skate board orphan blame notice city stadium safe current token";
+var mnemonic = "pencil figure glance genuine easy mix blue trial burst kingdom parade plate";

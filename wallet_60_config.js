@@ -1,1 +1,1 @@
-var mnemonic = "wild online plunge shoulder panic shuffle cram actual small banana clap canoe";
+var mnemonic = "cook pelican pilot seek wife swarm survey ten empower letter small scorpion";

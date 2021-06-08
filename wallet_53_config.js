@@ -1,1 +1,1 @@
-var mnemonic = "muscle pilot title safe scheme scatter ceiling runway budget carpet grant near";
+var mnemonic = "rifle such pink fix glove weather about floor grape lawn clay uncover";

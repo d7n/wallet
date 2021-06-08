@@ -1,1 +1,1 @@
-var mnemonic = "divide uphold item leader when another tuna ticket car safe special mandate";
+var mnemonic = "side inflict shoe easily cash hawk immune slush fly special flock obey";

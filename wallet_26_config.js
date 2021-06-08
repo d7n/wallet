@@ -1,1 +1,1 @@
-var mnemonic = "hurdle title word banner option indicate govern canal scan level erosion topic";
+var mnemonic = "total night dial grab document auto few lady involve spot key fog";

@@ -1,1 +1,1 @@
-var mnemonic = "green warrior hero shuffle chalk patrol miss walk two beef list garage";
+var mnemonic = "fish ostrich roof puzzle pipe ecology off second two alien blame clarify";

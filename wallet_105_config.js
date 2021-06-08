@@ -1,1 +1,1 @@
-var mnemonic = "already light clever pair punch report provide traffic eagle inspire install dad";
+var mnemonic = "month skin stick animal blame cancel broccoli foster spray cage health purity";

@@ -1,1 +1,1 @@
-var mnemonic = "front sugar uncle prison gun impose keen lumber attract walnut grocery keep";
+var mnemonic = "rebel rotate nature mistake canyon they text obtain only huge resemble bronze";

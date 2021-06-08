@@ -1,1 +1,1 @@
-var mnemonic = "sense setup shaft bright diesel dance soft slush west agent mixture wire";
+var mnemonic = "soap tuition unknown project rose mistake speed crop taxi sauce pool poet";

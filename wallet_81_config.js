@@ -1,1 +1,1 @@
-var mnemonic = "reward quote salmon impose youth play view source baby clerk junior cabbage";
+var mnemonic = "air sail pool bind ankle faith enact penalty baby build humble never";

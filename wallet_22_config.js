@@ -1,1 +1,1 @@
-var mnemonic = "piece goose glow clerk stand hard off symptom eight cattle enforce together";
+var mnemonic = "truck million arch secret prosper bunker feel addict enter little minute input";

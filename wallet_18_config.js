@@ -1,1 +1,1 @@
-var mnemonic = "debate section dust mass stereo guess puzzle flee sound fork ability quote";
+var mnemonic = "together virus flush jealous when snow hero banner demise leaf dirt mixed";

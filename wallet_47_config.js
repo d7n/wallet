@@ -1,1 +1,1 @@
-var mnemonic = "lion stadium ice cage myth seminar sustain material suspect roast sugar champion";
+var mnemonic = "mystery today faith purchase rabbit illegal oak path art silk cram catch";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect pole perfect airport shift inch best conduct immense bean dragon success";
+var mnemonic = "various endless milk alien basket lounge trial sphere frost trust company decline";

@@ -1,1 +1,1 @@
-var mnemonic = "spring perfect vacant three woman only enroll chaos spoil better zoo extend";
+var mnemonic = "parrot tank strategy one breeze unhappy soft safe body soon struggle corn";

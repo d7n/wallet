@@ -1,1 +1,1 @@
-var mnemonic = "brief build winner agent future impulse identify suit tube inhale metal leisure";
+var mnemonic = "face shaft scissors toe mushroom nuclear roof minimum clinic path short jar";

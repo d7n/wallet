@@ -1,1 +1,1 @@
-var mnemonic = "rate property web vessel inch radio shoe love cluster man hair divorce";
+var mnemonic = "uncle tomato miss carpet biology below season frog collect nut jump coast";

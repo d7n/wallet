@@ -1,1 +1,1 @@
-var mnemonic = "donkey render census item travel foster second family move random spice insane";
+var mnemonic = "update fatal exile still wave focus best report cover drum weird danger";

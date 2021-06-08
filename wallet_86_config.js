@@ -1,1 +1,1 @@
-var mnemonic = "sport name sadness leg lonely fitness worry shoulder pen trophy sock kite";
+var mnemonic = "intact use weapon result rude attract mouse kick ceiling expire current holiday";

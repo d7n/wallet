@@ -1,1 +1,1 @@
-var mnemonic = "talent share pill suspect urban grocery police tooth ask divide angle predict";
+var mnemonic = "hurt lunch repeat purchase master error muffin limit airport casual silent fresh";

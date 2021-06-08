@@ -1,1 +1,1 @@
-var mnemonic = "monitor believe beauty february define organ radio crazy empower exchange certain oak";
+var mnemonic = "motor enjoy hover onion vendor section gift rebel rack choice there diagram";
