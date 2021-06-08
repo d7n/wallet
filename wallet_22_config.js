@@ -1,1 +1,1 @@
-var mnemonic = "disorder giraffe meat hammer spin athlete screen sentence able reopen suit defy";
+var mnemonic = "creek pole slush crisp arena impact roast apart peace urban rebel lunch";

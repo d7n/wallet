@@ -1,1 +1,1 @@
-var mnemonic = "canoe general pulp vital beyond bargain tray track elbow voyage squirrel symbol";
+var mnemonic = "emotion word sketch found sing famous salute surge swarm noise depth guard";

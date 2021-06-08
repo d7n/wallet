@@ -1,1 +1,1 @@
-var mnemonic = "typical ask lumber poverty knife equip doctor discover bundle script cat hurdle";
+var mnemonic = "domain announce beyond light wash neutral idle noise wasp mail yard grant";

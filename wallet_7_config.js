@@ -1,1 +1,1 @@
-var mnemonic = "disagree dice lounge coach mutual thrive often marine small detail muscle second";
+var mnemonic = "shaft conduct liquid divorce split umbrella captain phone grid indicate horror install";

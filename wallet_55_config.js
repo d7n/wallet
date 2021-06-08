@@ -1,1 +1,1 @@
-var mnemonic = "present smoke siren fury vivid mix amount morning radio world finger include";
+var mnemonic = "hand now letter liar pulse dinner audit recycle sheriff distance kitchen abandon";

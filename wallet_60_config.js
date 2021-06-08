@@ -1,1 +1,1 @@
-var mnemonic = "video fashion brick huge motion impact discover boring minor uniform always middle";
+var mnemonic = "define gasp patch focus ugly target domain table fly slow iron reopen";

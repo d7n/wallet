@@ -1,1 +1,1 @@
-var mnemonic = "cake can ski hint leg impose limit father easily flower remember squeeze";
+var mnemonic = "concert width window cactus body correct model photo soon salt what stable";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow still aware erosion sure awake sheriff rare husband deal dinner deposit";
+var mnemonic = "lend never gesture retreat derive glare core abuse depth surprise ecology reveal";

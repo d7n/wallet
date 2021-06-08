@@ -1,1 +1,1 @@
-var mnemonic = "name region equip monitor travel cabin bacon equal blood grant sick car";
+var mnemonic = "wrestle poem cover before brand olive small bargain purchase spy wool typical";

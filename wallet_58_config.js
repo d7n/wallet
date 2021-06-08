@@ -1,1 +1,1 @@
-var mnemonic = "never rare enter south rhythm crucial edge flag myth domain tooth hotel";
+var mnemonic = "engine area weird hello arena tilt dose coyote deliver fold manage recall";

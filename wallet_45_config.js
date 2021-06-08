@@ -1,1 +1,1 @@
-var mnemonic = "laugh cook require coil essence walk valve huge science draw neutral broom";
+var mnemonic = "scan endless air fragile street defense misery point acquire void enforce knee";

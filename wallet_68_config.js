@@ -1,1 +1,1 @@
-var mnemonic = "stairs belt rebuild sound coral wide solar push magnet merit thing blanket";
+var mnemonic = "repair region violin indicate clump stock addict sleep snack divide metal rude";

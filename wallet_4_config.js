@@ -1,1 +1,1 @@
-var mnemonic = "mail pole trip foot bench morning episode few pretty fever install general";
+var mnemonic = "kingdom turkey negative curtain clap grant juice solar country october tomorrow draft";

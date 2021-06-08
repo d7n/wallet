@@ -1,1 +1,1 @@
-var mnemonic = "usual hole equip motion result cool choose lake tired buffalo cool crazy";
+var mnemonic = "sight toe tragic strong gravity beach leave silver trip among grant middle";

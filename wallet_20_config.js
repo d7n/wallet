@@ -1,1 +1,1 @@
-var mnemonic = "soda army scout pudding buyer mechanic nice ribbon island join water bitter";
+var mnemonic = "talent inform velvet night seminar slim clerk distance illness atom general artefact";

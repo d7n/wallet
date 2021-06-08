@@ -1,1 +1,1 @@
-var mnemonic = "output connect sport silly nuclear negative alpha donor medal struggle now modify";
+var mnemonic = "dentist dish spare pretty vivid cheap hint cook bamboo myth rifle brain";

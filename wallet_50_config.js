@@ -1,1 +1,1 @@
-var mnemonic = "glad amateur decrease enact refuse scout poem bench make shoulder series stand";
+var mnemonic = "purity motion smoke depart hollow cable shuffle lend omit fall flame custom";

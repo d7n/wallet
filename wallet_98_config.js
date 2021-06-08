@@ -1,1 +1,1 @@
-var mnemonic = "blur spot tuition soda finger unit oil route love dial knife library";
+var mnemonic = "pact element simple captain world there trial farm risk chimney aware toddler";

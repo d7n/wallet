@@ -1,1 +1,1 @@
-var mnemonic = "long tape fade offer guilt panel royal alert symptom topic fall dish";
+var mnemonic = "pluck option away position beef rigid time acquire priority service course another";

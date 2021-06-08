@@ -1,1 +1,1 @@
-var mnemonic = "law traffic acoustic develop pink stairs notable hub paddle hard zoo age";
+var mnemonic = "supply remain thumb family skirt sausage addict cigar behave cinnamon misery major";

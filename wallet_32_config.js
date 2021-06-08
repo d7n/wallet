@@ -1,1 +1,1 @@
-var mnemonic = "shrug return salon soccer chronic confirm dizzy crush isolate filter sea educate";
+var mnemonic = "slide gentle exist evil gaze blame dawn actual mobile tomorrow discover surround";

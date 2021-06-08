@@ -1,1 +1,1 @@
-var mnemonic = "artwork picture person agree host helmet churn baby enemy push blue solid";
+var mnemonic = "solve drift obey lunch sniff three night online report hold daughter deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "limit hamster clutch tube cover mushroom limb task minimum plate awkward assume";
+var mnemonic = "airport increase liberty ball render agent series monster reopen hotel script apology";

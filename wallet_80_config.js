@@ -1,1 +1,1 @@
-var mnemonic = "market that return bunker core dawn small bean debris because supply behind";
+var mnemonic = "antique subject pretty breeze talk protect robot belt bless produce volume seed";

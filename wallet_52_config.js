@@ -1,1 +1,1 @@
-var mnemonic = "girl dog game reason turkey all among famous little divert venture output";
+var mnemonic = "follow empty suffer soldier rifle huge horror expire remind civil cloud dune";

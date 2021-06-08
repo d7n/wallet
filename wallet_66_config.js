@@ -1,1 +1,1 @@
-var mnemonic = "version zero column bring summer burger finger sword eager travel winner hybrid";
+var mnemonic = "cool hockey piano abandon govern ivory ankle boil shift gather nominee marine";

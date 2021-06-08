@@ -1,1 +1,1 @@
-var mnemonic = "globe because oblige enroll utility punch team follow insane reunion bread tribe";
+var mnemonic = "bench ship heart call street major nose rude garment curtain electric dish";

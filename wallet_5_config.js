@@ -1,1 +1,1 @@
-var mnemonic = "three execute traffic enlist gap silver sheriff tenant exhibit person number six";
+var mnemonic = "seat enlist veteran price dish three nice screen fork transfer capable kangaroo";

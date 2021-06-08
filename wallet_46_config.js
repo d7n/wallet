@@ -1,1 +1,1 @@
-var mnemonic = "method main final evolve waste humor tribe surge renew magnet just clarify";
+var mnemonic = "ritual erosion exotic write lecture basic tip sheriff discover exit chief vessel";

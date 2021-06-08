@@ -1,1 +1,1 @@
-var mnemonic = "now obscure help board item airport life prefer escape welcome neglect stock";
+var mnemonic = "play slot dizzy trap gaze flee large fine van nephew inquiry share";

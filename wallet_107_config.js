@@ -1,1 +1,1 @@
-var mnemonic = "famous tongue faith unable ready cabbage company garlic noodle like basic range";
+var mnemonic = "tribe envelope razor blade degree injury kidney caught desert hundred luggage usage";

@@ -1,1 +1,1 @@
-var mnemonic = "differ jeans frog arrow avocado ecology property identify text focus coin diet";
+var mnemonic = "unique define entry volcano praise cream couch tragic execute choose together narrow";

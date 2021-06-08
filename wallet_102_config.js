@@ -1,1 +1,1 @@
-var mnemonic = "clog perfect pride shed short wage globe mistake vendor advice fall gorilla";
+var mnemonic = "tiger need tornado worry tattoo fall already another bunker become choice direct";

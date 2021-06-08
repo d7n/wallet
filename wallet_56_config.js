@@ -1,1 +1,1 @@
-var mnemonic = "pulse maze disagree soda frost snack muscle theory immense noble just clever";
+var mnemonic = "cattle artefact swap elder village cupboard assume muffin festival unlock will silver";

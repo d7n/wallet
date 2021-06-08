@@ -1,1 +1,1 @@
-var mnemonic = "next patient mandate book cradle depend paddle chuckle attend spider talk insect";
+var mnemonic = "wide cotton fuel awesome relief town arrest teach bomb pluck rack field";

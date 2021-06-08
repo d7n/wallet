@@ -1,1 +1,1 @@
-var mnemonic = "ask original october spare explain grain lesson clip motor budget gravity bar";
+var mnemonic = "visual prefer virtual arrange foot carpet dwarf fancy sunny result aerobic valley";

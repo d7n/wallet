@@ -1,1 +1,1 @@
-var mnemonic = "bargain hire dumb jewel alarm cattle sun sample proof kitchen cigar only";
+var mnemonic = "dinosaur style clinic army impulse cause equip category crew awkward weather garment";

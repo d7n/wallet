@@ -1,1 +1,1 @@
-var mnemonic = "elite robot punch across main mushroom bacon inherit account ceiling crawl reunion";
+var mnemonic = "explain globe convince gesture service defy add silly design habit farm alien";

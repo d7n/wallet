@@ -1,1 +1,1 @@
-var mnemonic = "balance hub ensure jar excuse pen trap safe ski teach club seek";
+var mnemonic = "pioneer put lamp phone disease staff panda woman mention solid bid uncle";

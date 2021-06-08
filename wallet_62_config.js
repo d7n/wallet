@@ -1,1 +1,1 @@
-var mnemonic = "breeze ship club drink like entry dragon skirt clay tongue habit announce";
+var mnemonic = "until breeze pass various below grief basket run bargain any paper seat";

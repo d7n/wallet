@@ -1,1 +1,1 @@
-var mnemonic = "just helmet fiscal trumpet seven gallery another judge rent stone eight mansion";
+var mnemonic = "document tennis corn envelope circle lava chalk pull dish dilemma that fruit";

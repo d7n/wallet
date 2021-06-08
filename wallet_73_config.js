@@ -1,1 +1,1 @@
-var mnemonic = "menu guide erosion laugh marine brave fashion hole term student also crash";
+var mnemonic = "critic artwork basic joke cry merge envelope explain narrow search finger exhibit";

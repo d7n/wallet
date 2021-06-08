@@ -1,1 +1,1 @@
-var mnemonic = "once ocean drill dynamic heart legal custom van ready turkey ethics glow";
+var mnemonic = "fiction bullet pattern define first dizzy toward icon neutral memory warm wreck";

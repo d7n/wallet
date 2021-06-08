@@ -1,1 +1,1 @@
-var mnemonic = "sight bone oblige gap hero people deal program plug image loud lecture";
+var mnemonic = "betray travel state spatial frown doctor because fresh profit twelve logic dignity";

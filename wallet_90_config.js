@@ -1,1 +1,1 @@
-var mnemonic = "blur pulp chicken hover strong stick slender seek manual hour useful move";
+var mnemonic = "carry number fatigue fun carpet spawn april pudding poet permit cherry glad";

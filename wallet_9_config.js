@@ -1,1 +1,1 @@
-var mnemonic = "price such step strike collect tragic fame smile grocery ritual room injury";
+var mnemonic = "just weekend kite unable mom wide noodle system risk fee inch critic";

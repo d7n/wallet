@@ -1,1 +1,1 @@
-var mnemonic = "fiction hobby impose cigar valve poem gentle awake frown arena jeans rough";
+var mnemonic = "endless worth wagon smart shrimp claw provide print grit spin else evolve";

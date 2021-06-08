@@ -1,1 +1,1 @@
-var mnemonic = "catalog empower distance impact suspect nose space wait behind tongue position limb";
+var mnemonic = "gun assume lemon cotton estate soldier east image raw drum give able";

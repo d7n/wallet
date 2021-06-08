@@ -1,1 +1,1 @@
-var mnemonic = "muscle rebuild popular artwork idea series agree prevent hire hen right brick";
+var mnemonic = "kiwi arrow piece dismiss drama rent brief debris farm broken weather globe";

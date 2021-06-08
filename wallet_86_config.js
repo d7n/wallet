@@ -1,1 +1,1 @@
-var mnemonic = "elevator coral december feed buyer fashion robust cargo portion shine size lend";
+var mnemonic = "final scout amused below ahead tumble miracle coil blind pizza crop spider";

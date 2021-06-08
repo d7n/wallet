@@ -1,1 +1,1 @@
-var mnemonic = "color clever avoid palm law avoid gaze dilemma believe vote lens core";
+var mnemonic = "laugh paddle vote job gaze tackle time dog barrel eight area emerge";

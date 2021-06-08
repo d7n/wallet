@@ -1,1 +1,1 @@
-var mnemonic = "angry melt win approve decline ritual armor fence genre guard tank love";
+var mnemonic = "swift laptop couch chase chair rocket lamp sample answer cake endless law";

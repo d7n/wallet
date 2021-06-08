@@ -1,1 +1,1 @@
-var mnemonic = "lesson slab unfair pumpkin whip leisure security rival convince suspect friend pond";
+var mnemonic = "invest can organ castle hour salon sibling reduce attract amateur size exist";

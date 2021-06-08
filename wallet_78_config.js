@@ -1,1 +1,1 @@
-var mnemonic = "allow shove thing refuse basket version nurse online return feel blame purity";
+var mnemonic = "foster soldier salon install cinnamon pioneer member unique clutch firm unfold bacon";

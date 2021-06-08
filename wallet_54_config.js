@@ -1,1 +1,1 @@
-var mnemonic = "album sea forward mirror gap minimum size color chicken soon estate identify";
+var mnemonic = "offer whip wire monkey make woman multiply emerge practice mother avoid hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "evil claw web autumn drum own range evil wheel relief short unusual";
+var mnemonic = "hello enter level enough across duty example length culture type view small";

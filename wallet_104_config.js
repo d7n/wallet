@@ -1,1 +1,1 @@
-var mnemonic = "truth marriage ring feature virtual rigid collect repair crush agree inner thumb";
+var mnemonic = "shoulder obey hammer trim during large before impact behave thank grace stereo";

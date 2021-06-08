@@ -1,1 +1,1 @@
-var mnemonic = "rubber theory nephew cigar month recall vintage cabbage scare remain fence ridge";
+var mnemonic = "cricket armor code regular garment hospital silly deal please fold frost trade";

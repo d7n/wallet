@@ -1,1 +1,1 @@
-var mnemonic = "sentence noble civil edit bird tiger rookie negative dial addict rebuild crunch";
+var mnemonic = "large wolf finish add artist can aware pepper loan spot vacant face";

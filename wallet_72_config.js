@@ -1,1 +1,1 @@
-var mnemonic = "word bike wide auto sample okay camera shrimp planet snap middle sleep";
+var mnemonic = "combine motor usage riot circle any dizzy bachelor frequent reduce attract acquire";

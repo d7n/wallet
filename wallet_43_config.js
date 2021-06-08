@@ -1,1 +1,1 @@
-var mnemonic = "capital world rib agent leisure fine flock gate feed mobile famous jazz";
+var mnemonic = "learn elevator meat black breeze spawn orange feel fiction inner minute scene";

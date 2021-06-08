@@ -1,1 +1,1 @@
-var mnemonic = "violin news mammal modify wrong sleep sauce oyster draw debris nephew good";
+var mnemonic = "jacket best tobacco garden card behind great laundry permit couch nut pumpkin";

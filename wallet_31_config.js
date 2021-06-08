@@ -1,1 +1,1 @@
-var mnemonic = "that diamond insane future pelican boat dirt eager core service gospel raw";
+var mnemonic = "proud immense base copy priority sock another inch marriage culture ready pulp";

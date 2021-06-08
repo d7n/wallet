@@ -1,1 +1,1 @@
-var mnemonic = "now start suit alarm network boat marble lend enable behind minimum access";
+var mnemonic = "enter enrich glass clump concert word derive embark receive boss mule dust";

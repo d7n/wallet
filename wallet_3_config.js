@@ -1,1 +1,1 @@
-var mnemonic = "describe congress media excess spoon empty interest scene salute ceiling wire fatal";
+var mnemonic = "fall promote risk eternal gather web exhaust save swap own reason can";

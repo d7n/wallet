@@ -1,1 +1,1 @@
-var mnemonic = "fox fine chapter tackle holiday nature swallow diesel excite spread match actor";
+var mnemonic = "edit market correct wrong cluster warm culture slogan coast slim wave spin";

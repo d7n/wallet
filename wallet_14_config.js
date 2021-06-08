@@ -1,1 +1,1 @@
-var mnemonic = "crime craft patch net alarm oak six puppy gift dash acquire pencil";
+var mnemonic = "globe grace pepper rabbit soap dream output input region teach primary normal";

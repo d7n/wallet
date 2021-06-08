@@ -1,1 +1,1 @@
-var mnemonic = "sunset whisper galaxy payment pepper ginger april face human pluck paddle physical";
+var mnemonic = "tower series delay impulse donate mushroom despair screen inside blanket taxi hard";

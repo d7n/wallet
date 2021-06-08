@@ -1,1 +1,1 @@
-var mnemonic = "negative taxi height dream shell kiwi average series diamond antique chest kit";
+var mnemonic = "book vanish wait obvious chapter wrong appear vibrant security vanish sense fork";

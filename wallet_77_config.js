@@ -1,1 +1,1 @@
-var mnemonic = "rug fat between hour razor cart mesh opinion awful surround since trigger";
+var mnemonic = "drink ceiling tourist buyer found float position raccoon sphere toy capable educate";

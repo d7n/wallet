@@ -1,1 +1,1 @@
-var mnemonic = "team inject prevent wrestle two agree viable exclude shoulder address chaos display";
+var mnemonic = "today swim choose useless focus cement thrive put apology zone organ common";

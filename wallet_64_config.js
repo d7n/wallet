@@ -1,1 +1,1 @@
-var mnemonic = "flame crop unit diamond finish ceiling member broccoli grain dumb major stay";
+var mnemonic = "simple lumber moral dinner wage clever glow build matrix oblige final favorite";

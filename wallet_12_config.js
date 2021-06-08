@@ -1,1 +1,1 @@
-var mnemonic = "bullet flee gentle noble lottery figure flame concert friend quick time base";
+var mnemonic = "define ocean frame carbon grass concert save grass spin cousin dolphin impose";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant cereal sell seven renew property carry recipe cabbage mercy enjoy alone";
+var mnemonic = "become example burden first decrease sniff pact quick engage clip bring addict";

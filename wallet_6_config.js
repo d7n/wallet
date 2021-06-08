@@ -1,1 +1,1 @@
-var mnemonic = "badge renew cave soon antique over divide find viable gauge strike owner";
+var mnemonic = "load recycle predict brown canal trust gallery fantasy ladder trophy type fury";

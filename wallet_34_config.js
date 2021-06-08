@@ -1,1 +1,1 @@
-var mnemonic = "struggle leopard pony drift cargo certain mail caught afraid ocean check donor";
+var mnemonic = "cool sort trick pull oak business mirror range glare tree palm repair";

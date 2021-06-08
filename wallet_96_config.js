@@ -1,1 +1,1 @@
-var mnemonic = "shiver master lyrics margin sustain coach cactus panic gentle soon shoot promote";
+var mnemonic = "violin toilet inspire earn sudden senior snap select pave chief legend juice";

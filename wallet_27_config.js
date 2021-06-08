@@ -1,1 +1,1 @@
-var mnemonic = "goose edge search safe angle bunker federal clean donkey popular maximum almost";
+var mnemonic = "layer balcony birth ramp wonder build disorder portion van fan wage nominee";

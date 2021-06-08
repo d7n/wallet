@@ -1,1 +1,1 @@
-var mnemonic = "crane whisper cricket cave cloud boat marine mushroom famous tiger trash broken";
+var mnemonic = "slim hospital poem photo talent rookie dove solar typical gloom give iron";

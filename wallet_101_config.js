@@ -1,1 +1,1 @@
-var mnemonic = "dose town know reveal spell moon rather bracket dad month silly faint";
+var mnemonic = "urban nest toilet island popular foster great twenty obscure yellow yard favorite";

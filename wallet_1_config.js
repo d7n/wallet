@@ -1,1 +1,1 @@
-var mnemonic = "point oyster tiny gather boss volcano exit age mass educate menu history";
+var mnemonic = "intact lift tag soda assume space tank walk front beauty shuffle photo";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness divorce monkey holiday abandon drink camera seek oblige fee suspect outer";
+var mnemonic = "aerobic attack upper survey able ostrich pistol canoe hand flame series shrimp";

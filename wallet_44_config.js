@@ -1,1 +1,1 @@
-var mnemonic = "anger wink defense boring priority choice pause near security mammal ridge wear";
+var mnemonic = "when raven cabin raise initial job tired tragic input heavy bring hurry";

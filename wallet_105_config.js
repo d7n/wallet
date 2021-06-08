@@ -1,1 +1,1 @@
-var mnemonic = "aware merge black useless fiscal wrist bubble empty slim duty design upon";
+var mnemonic = "diamond lazy balance industry cloth control tackle screen mobile pattern dilemma position";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus drill noble relax sunny trade shoot ketchup suffer fluid index coffee";
+var mnemonic = "myself cable worry runway winter mother butter airport rely panda venue discover";

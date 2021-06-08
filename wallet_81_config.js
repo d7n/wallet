@@ -1,1 +1,1 @@
-var mnemonic = "electric vast velvet river eager arena six obvious ahead spider kind tattoo";
+var mnemonic = "goat cousin stuff twenty toss reopen plastic chuckle return donor asthma during";

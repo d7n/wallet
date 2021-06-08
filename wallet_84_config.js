@@ -1,1 +1,1 @@
-var mnemonic = "sight differ fetch action subject ritual august tattoo moon episode glove random";
+var mnemonic = "humble pink because route job glory must shallow bright bag garbage silver";

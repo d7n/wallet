@@ -1,1 +1,1 @@
-var mnemonic = "begin farm oblige jeans safe civil prefer liberty ginger dinner name enjoy";
+var mnemonic = "bomb disagree trade tuition fitness this quality artefact fan mandate circle speed";

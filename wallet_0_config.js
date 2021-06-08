@@ -1,1 +1,1 @@
-var mnemonic = "midnight deny junior apple urban treat erase shoot city artist online mandate";
+var mnemonic = "snake urban air vapor more cancel slot boring filter fold day obvious";

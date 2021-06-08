@@ -1,1 +1,1 @@
-var mnemonic = "opinion switch history appear job warm electric pond oxygen devote plug whale";
+var mnemonic = "need biology paddle prosper prosper prize learn play south act enact aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot aspect sing van shop notable social away tragic relief tooth foam";
+var mnemonic = "innocent boost stadium because become practice vessel grocery sound long vendor diamond";

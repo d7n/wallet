@@ -1,1 +1,1 @@
-var mnemonic = "cool web vital inspire control gauge thunder brother nurse jeans gold behave";
+var mnemonic = "spirit story ordinary federal broken slam pretty matrix make slim slush rapid";

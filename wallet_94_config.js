@@ -1,1 +1,1 @@
-var mnemonic = "bronze physical urge pill wait wear rely main auction position shell venue";
+var mnemonic = "ready length scout nuclear aisle arena orchard online engage street hammer clock";

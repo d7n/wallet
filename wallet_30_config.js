@@ -1,1 +1,1 @@
-var mnemonic = "museum angry gate unaware admit bone potato hungry promote rigid sad response";
+var mnemonic = "elephant one night usage diary truly better million stadium orchard stumble drop";

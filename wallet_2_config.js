@@ -1,1 +1,1 @@
-var mnemonic = "come web sunset ask pear decorate forum laptop student mind observe absorb";
+var mnemonic = "hair fury cross radio convince maximum chair office truck female oval silk";

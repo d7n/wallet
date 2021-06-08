@@ -1,1 +1,1 @@
-var mnemonic = "travel patient where food doctor anchor twenty history mule embody coyote sister";
+var mnemonic = "mouse coffee now source current mercy admit source render wrong pumpkin flash";
