@@ -1,1 +1,1 @@
-var mnemonic = "repair century lawn left describe tail hidden box orphan plunge provide never";
+var mnemonic = "sock cotton neglect nation case liar photo eight host search alone become";

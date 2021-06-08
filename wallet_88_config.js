@@ -1,1 +1,1 @@
-var mnemonic = "rice turtle shoulder faculty also team eternal rack own rely join young";
+var mnemonic = "certain tumble merit fresh already morning indicate mirror sure dwarf carbon joy";

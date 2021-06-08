@@ -1,1 +1,1 @@
-var mnemonic = "program input muffin science detect young tenant budget client exotic kidney boring";
+var mnemonic = "lobster bundle relax imitate remember cause embark shove female input trial lemon";

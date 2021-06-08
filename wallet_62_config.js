@@ -1,1 +1,1 @@
-var mnemonic = "erase asset please high sponsor knee what winter hotel one scene quiz";
+var mnemonic = "milk siege fee clog boil resist under hidden daring carpet truth harbor";

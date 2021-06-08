@@ -1,1 +1,1 @@
-var mnemonic = "snake wait subject stand session perfect alter wood enter script limb divorce";
+var mnemonic = "cloth decade excess stay creek suffer romance save strong wreck drill direct";

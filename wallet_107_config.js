@@ -1,1 +1,1 @@
-var mnemonic = "turtle grass visual output load stage guitar army trend under suggest artist";
+var mnemonic = "alter glow paddle advice vocal sponsor high winter laptop cart hint wagon";

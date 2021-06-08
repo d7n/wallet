@@ -1,1 +1,1 @@
-var mnemonic = "juice sport leave swallow hurt chief main fuel tragic ancient inquiry employ";
+var mnemonic = "secret fan upon cube need violin vivid favorite little cheap impulse project";

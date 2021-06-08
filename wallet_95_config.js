@@ -1,1 +1,1 @@
-var mnemonic = "course trial common use okay bridge host detect clock torch penalty put";
+var mnemonic = "voyage slot spy more erosion camp track bacon peace chest supply various";

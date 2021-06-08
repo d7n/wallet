@@ -1,1 +1,1 @@
-var mnemonic = "feed boring home project jelly resemble enforce ramp steak wolf rich easily";
+var mnemonic = "work sheriff bronze soup offer target comfort say about leave labor erode";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic link hybrid fuel enroll limit afraid holiday true resist march skin";
+var mnemonic = "unlock tomato rookie feature double juice leg abstract pill chalk dinosaur twelve";

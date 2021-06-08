@@ -1,1 +1,1 @@
-var mnemonic = "body vast surface online snap urge edge extra action young bread movie";
+var mnemonic = "cement pond stone wise effort rail fringe economy elegant tooth option recall";

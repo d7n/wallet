@@ -1,1 +1,1 @@
-var mnemonic = "frown lazy bomb sad speak silk wolf expand february pass broccoli ceiling";
+var mnemonic = "blanket agree filter easy found woman twin icon danger later salmon olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry conduct outdoor text artefact army sibling still clock festival much grow";
+var mnemonic = "turn force clump sock furnace subway merit pass dove salon small quantum";

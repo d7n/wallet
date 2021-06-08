@@ -1,1 +1,1 @@
-var mnemonic = "metal spirit work drip talent faculty test slush raw much hazard actress";
+var mnemonic = "apology chimney salon fault trouble awful quality airport idea recycle glass vintage";

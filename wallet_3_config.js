@@ -1,1 +1,1 @@
-var mnemonic = "gesture coil seminar sting bundle crisp vault dance decade vital injury polar";
+var mnemonic = "team debate evil stomach awesome column region valve trash water stereo recipe";

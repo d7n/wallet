@@ -1,1 +1,1 @@
-var mnemonic = "rhythm tent disagree combine confirm outer luxury drink jeans cruel fit foot";
+var mnemonic = "random cabbage bread exhibit six road spray betray nurse venture draw cook";

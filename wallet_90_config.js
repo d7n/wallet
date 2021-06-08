@@ -1,1 +1,1 @@
-var mnemonic = "column beyond radar heavy push early expand rather enable team involve message";
+var mnemonic = "chronic echo deliver ranch bone broom equal trust harvest ivory hole link";

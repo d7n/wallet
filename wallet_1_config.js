@@ -1,1 +1,1 @@
-var mnemonic = "measure round near robot bag million doctor edit zebra circle vanish verb";
+var mnemonic = "husband crunch idea moment exhibit entire uniform found wealth moment pride foam";

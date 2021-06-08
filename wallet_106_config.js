@@ -1,1 +1,1 @@
-var mnemonic = "eye crumble mention render meadow clever depart heart salon leisure toilet miss";
+var mnemonic = "weird avoid dentist network town much piece economy caught near gadget erode";

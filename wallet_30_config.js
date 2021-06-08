@@ -1,1 +1,1 @@
-var mnemonic = "tooth rapid donkey huge explain pony behind laptop drop curious day video";
+var mnemonic = "list wish thought vague bless poem reunion pause airport vacant check eternal";

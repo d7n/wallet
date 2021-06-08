@@ -1,1 +1,1 @@
-var mnemonic = "urge six monitor number evidence already jacket journey author craft garden ill";
+var mnemonic = "force mountain bottom rough heavy emotion image crunch bulb fish cook all";

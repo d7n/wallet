@@ -1,1 +1,1 @@
-var mnemonic = "unit else desk crisp together axis matrix flower ketchup earth prepare spoon";
+var mnemonic = "federal fossil size corn wisdom sausage repeat immune evidence amount crater fatal";

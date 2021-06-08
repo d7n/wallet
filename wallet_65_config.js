@@ -1,1 +1,1 @@
-var mnemonic = "salad motor wing explain fly panther color fiscal raccoon misery dry write";
+var mnemonic = "thank off remind shop physical banana vessel record object arm cherry minimum";

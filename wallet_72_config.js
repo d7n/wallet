@@ -1,1 +1,1 @@
-var mnemonic = "artist good solar peasant ignore panda wild betray visual slot history top";
+var mnemonic = "found capable input thumb detail quote quality joy mosquito ski garden gossip";

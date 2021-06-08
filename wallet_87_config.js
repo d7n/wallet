@@ -1,1 +1,1 @@
-var mnemonic = "void abstract hungry man grant into actress purchase strike clinic electric canvas";
+var mnemonic = "nice milk parrot smile source surprise broken lunar exhibit alone sing split";

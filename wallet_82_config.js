@@ -1,1 +1,1 @@
-var mnemonic = "hat option possible album cabbage resemble hair hurdle orient put bean rule";
+var mnemonic = "bracket scrap element rose broom dry modify pull ski fit soldier change";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar enable angry income jacket motion spend east nephew neglect defense pipe";
+var mnemonic = "point critic tissue motor victory long tackle range victory early chat victory";

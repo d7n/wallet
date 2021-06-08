@@ -1,1 +1,1 @@
-var mnemonic = "gallery permit unveil route change panel grit dilemma peanut high grass opinion";
+var mnemonic = "hurdle hollow puppy subway have weapon jeans divide atom soon extra receive";

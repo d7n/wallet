@@ -1,1 +1,1 @@
-var mnemonic = "grape accuse fame group shift mosquito allow help tiny below spread work";
+var mnemonic = "helmet tell cost news hundred way cancel phrase cream case educate kitten";

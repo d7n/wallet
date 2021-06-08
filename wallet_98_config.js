@@ -1,1 +1,1 @@
-var mnemonic = "oak cup height pigeon trim plastic still enrich sadness caught west throw";
+var mnemonic = "assume warrior bring where mistake gown lava unknown beauty poem key crucial";

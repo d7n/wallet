@@ -1,1 +1,1 @@
-var mnemonic = "fade ostrich wall jewel gesture bubble clip sleep delay rug nature frog";
+var mnemonic = "ten icon bar share child such aerobic drama because cause black monitor";

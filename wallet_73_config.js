@@ -1,1 +1,1 @@
-var mnemonic = "reform year gap must eight budget develop enrich much body coral tomato";
+var mnemonic = "lumber hollow blossom cool leisure betray small disorder scale promote bring tide";

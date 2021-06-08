@@ -1,1 +1,1 @@
-var mnemonic = "manage father visa top sentence angle angle clever clap sick payment wood";
+var mnemonic = "fat cover corn grass badge corn quality front put cliff order home";

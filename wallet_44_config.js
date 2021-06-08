@@ -1,1 +1,1 @@
-var mnemonic = "old muffin exhibit prevent beauty manage subway announce museum payment degree credit";
+var mnemonic = "quote reunion draw mesh direct panel pole pole retire language cigar process";

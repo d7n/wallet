@@ -1,1 +1,1 @@
-var mnemonic = "prize swim keep excess laugh abandon proud denial outer vacant trim luxury";
+var mnemonic = "spray setup twist rabbit hidden curve flat leader hand soda element vessel";

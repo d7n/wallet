@@ -1,1 +1,1 @@
-var mnemonic = "run answer casino brick rookie orient fork bonus scatter recipe season debate";
+var mnemonic = "kiss gallery then adjust caution mixture drop obtain gather balcony force pottery";

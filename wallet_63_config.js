@@ -1,1 +1,1 @@
-var mnemonic = "seminar trend weasel recycle steak tell genius dad program play course arena";
+var mnemonic = "fossil empower rain chimney dove syrup mammal spoil else volume north powder";

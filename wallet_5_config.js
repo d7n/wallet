@@ -1,1 +1,1 @@
-var mnemonic = "exclude base aim summer finger shy begin cactus wife phrase sunset degree";
+var mnemonic = "leopard alley wine shrug tiger snake trend beauty auto just flavor lady";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace limb disorder load chair gossip disease menu voice wrist raise roof";
+var mnemonic = "cute mom awake picture husband bread shrimp label truth dust behave siren";

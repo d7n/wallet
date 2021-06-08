@@ -1,1 +1,1 @@
-var mnemonic = "sign rose beyond boat execute become donor black faint view endorse apple";
+var mnemonic = "gas vanish mutual rug ignore laugh absent miss carbon initial vacant carpet";

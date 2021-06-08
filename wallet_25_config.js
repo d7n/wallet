@@ -1,1 +1,1 @@
-var mnemonic = "receive toast excuse boy crime champion grace comfort festival level bamboo current";
+var mnemonic = "output evidence yellow attract inform forum saddle grocery desert equal convince lounge";

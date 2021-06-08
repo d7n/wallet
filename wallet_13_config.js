@@ -1,1 +1,1 @@
-var mnemonic = "fossil gap upper dish vanish rookie wonder keep earth wealth excuse group";
+var mnemonic = "review easily practice prosper hidden word feel small cigar music oppose argue";

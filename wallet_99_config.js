@@ -1,1 +1,1 @@
-var mnemonic = "cradle elephant where multiply face shrug satoshi give cry blood basic inflict";
+var mnemonic = "pattern cup win twin isolate butter family radar pulp tooth breeze clock";

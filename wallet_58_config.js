@@ -1,1 +1,1 @@
-var mnemonic = "hawk fox void harsh feel rebuild gown high famous unfold rib innocent";
+var mnemonic = "tomorrow squirrel sorry pumpkin chef member find panda canal rather over female";

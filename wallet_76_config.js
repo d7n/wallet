@@ -1,1 +1,1 @@
-var mnemonic = "abuse tobacco service rabbit plunge west prepare gauge spike number harbor crouch";
+var mnemonic = "grid kid chunk cupboard often result fault effort rocket like hidden sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant merit change elevator survey define stove satisfy tired kind network network";
+var mnemonic = "angle cram wall thrive obvious scorpion crucial slight remain angle next dial";

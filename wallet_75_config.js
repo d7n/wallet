@@ -1,1 +1,1 @@
-var mnemonic = "someone lunar wisdom sauce open enable swim slight rug baby jacket roast";
+var mnemonic = "beach enemy video girl settle there cream rate inspire sad report carbon";

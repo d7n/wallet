@@ -1,1 +1,1 @@
-var mnemonic = "merge muscle machine better remain glare elder expire erase remain yard list";
+var mnemonic = "require action resource humor raw local brief raven piano moral cool sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "sign floor damp toe leopard snack typical false mountain void master rare";
+var mnemonic = "give coral hope submit pride license dice device spend galaxy neck rule";

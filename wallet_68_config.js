@@ -1,1 +1,1 @@
-var mnemonic = "margin flower breeze old future spray swear label thought quality syrup error";
+var mnemonic = "fatigue food task learn tell palm vacant nominee illness income unaware virus";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup gap hurt build canal tape silly recipe uniform rare inform smart";
+var mnemonic = "nephew twenty trick cinnamon spin seed uphold option fossil fence replace change";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak embark cake bring midnight viable quick exit food foot agent candy";
+var mnemonic = "setup work victory rebuild swim march later weekend vapor length draw royal";

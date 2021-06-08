@@ -1,1 +1,1 @@
-var mnemonic = "shaft hover still south shadow elegant blind artefact myth hover tooth fortune";
+var mnemonic = "drip leisure jelly gas tower morning phrase crawl inch device upgrade alter";

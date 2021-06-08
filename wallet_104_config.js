@@ -1,1 +1,1 @@
-var mnemonic = "argue cover orient pistol adjust best gift prize kidney alter gauge wall";
+var mnemonic = "cave brass lizard submit section legend always verify float resource swallow abstract";

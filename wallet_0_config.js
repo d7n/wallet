@@ -1,1 +1,1 @@
-var mnemonic = "attend retire visa razor rifle wing fury olive under pyramid liquid enemy";
+var mnemonic = "pool increase napkin stool web solar gesture street frog sample dismiss search";

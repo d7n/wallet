@@ -1,1 +1,1 @@
-var mnemonic = "emerge crucial congress update item drink cube tackle welcome trophy spirit icon";
+var mnemonic = "squeeze hybrid library drum nephew error unveil all glove margin reason bubble";

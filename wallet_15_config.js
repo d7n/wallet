@@ -1,1 +1,1 @@
-var mnemonic = "silent bind drum use museum assume tent motor brand twelve clump invite";
+var mnemonic = "nature front rough bargain struggle parent century effort artwork attend horn tongue";

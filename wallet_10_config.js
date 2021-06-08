@@ -1,1 +1,1 @@
-var mnemonic = "disorder okay rate right prepare manual great general fall remember spider frown";
+var mnemonic = "object mutual pretty oven share frozen busy long acoustic add opinion crouch";

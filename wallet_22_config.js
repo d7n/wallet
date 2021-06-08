@@ -1,1 +1,1 @@
-var mnemonic = "december junk foam fatal crater ticket great salute grass snake crunch blossom";
+var mnemonic = "floor unusual member laptop sibling family oppose method air series bike custom";

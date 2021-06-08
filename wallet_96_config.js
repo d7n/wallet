@@ -1,1 +1,1 @@
-var mnemonic = "two keep easily fog rapid element aerobic become portion slot tomato cross";
+var mnemonic = "arrange deer noodle twelve random maple target liquid doctor track hawk mystery";

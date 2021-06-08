@@ -1,1 +1,1 @@
-var mnemonic = "primary remove bridge now civil verify subway trial divide warfare employ brave";
+var mnemonic = "broken giraffe lunch concert tip beyond doll prepare fever arena require flash";

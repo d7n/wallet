@@ -1,1 +1,1 @@
-var mnemonic = "sing lecture category cradle rough huge unfair need trumpet enhance jewel trade";
+var mnemonic = "opera timber matter obtain curious melt must safe sure brain wild crazy";

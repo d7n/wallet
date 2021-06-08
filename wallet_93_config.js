@@ -1,1 +1,1 @@
-var mnemonic = "genuine drink tourist vast amateur expect pill buyer twin soap volume oppose";
+var mnemonic = "now october patient digital all drum easily gloom afraid grape reject federal";

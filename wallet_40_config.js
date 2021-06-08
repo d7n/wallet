@@ -1,1 +1,1 @@
-var mnemonic = "coast open happy picture execute inherit scissors burden ahead extra panda assume";
+var mnemonic = "beach cook exist dad route march hero message vicious square urge address";

@@ -1,1 +1,1 @@
-var mnemonic = "frost outer blur edge loyal borrow bottom credit carpet forward mule pelican";
+var mnemonic = "setup excuse twist capital brand resource reason retreat make saddle color tennis";

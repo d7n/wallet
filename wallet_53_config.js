@@ -1,1 +1,1 @@
-var mnemonic = "document frozen hold kite green asset token urban dove host double festival";
+var mnemonic = "rude doctor wall donkey legend concert ivory demise ready climb genius ramp";

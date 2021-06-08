@@ -1,1 +1,1 @@
-var mnemonic = "option usual magic resemble before junior nerve erupt census merit silk relief";
+var mnemonic = "true diary coach tool shrimp memory shiver engine beach viable return warrior";

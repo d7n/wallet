@@ -1,1 +1,1 @@
-var mnemonic = "during satoshi winner habit company acquire seven game fatigue cloth analyst thrive";
+var mnemonic = "solid note gravity lift very drama cream elephant theory advice client veteran";

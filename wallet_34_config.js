@@ -1,1 +1,1 @@
-var mnemonic = "tree patrol siege monster coach horror grocery service across because claim reason";
+var mnemonic = "spot setup frame suffer roast broom fever imitate seat scout secret clip";

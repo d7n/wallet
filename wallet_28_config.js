@@ -1,1 +1,1 @@
-var mnemonic = "accident joke dinner decide carpet february iron clinic night stereo palm margin";
+var mnemonic = "oxygen produce visa anger security hood disagree make couple slight celery outdoor";

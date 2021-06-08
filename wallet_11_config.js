@@ -1,1 +1,1 @@
-var mnemonic = "toe lady guitar fetch common curve lava scorpion art choice turtle risk";
+var mnemonic = "glide crawl cinnamon entry bunker turtle frame dish rookie oxygen aspect special";

@@ -1,1 +1,1 @@
-var mnemonic = "mule collect fork obtain call cart prison whip gauge zoo above slow";
+var mnemonic = "shock lunch habit blood giant acid odor erupt buzz crawl vanish embrace";

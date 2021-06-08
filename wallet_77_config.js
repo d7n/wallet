@@ -1,1 +1,1 @@
-var mnemonic = "eternal split predict forward solve resemble outside cabin moment major glad help";
+var mnemonic = "another legend top device village conduct swift special fish day ripple arm";

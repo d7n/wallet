@@ -1,1 +1,1 @@
-var mnemonic = "width judge trash grant bachelor tilt float between pepper check dignity concert";
+var mnemonic = "joke double bitter soft innocent aisle quit occur use spoon soft owner";

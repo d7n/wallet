@@ -1,1 +1,1 @@
-var mnemonic = "toy cycle blossom apology monitor end good exhaust brick special rigid diary";
+var mnemonic = "message square true trophy night chest gaze genuine cage cereal portion false";

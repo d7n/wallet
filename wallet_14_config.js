@@ -1,1 +1,1 @@
-var mnemonic = "artist radar leaf injury write drip stadium group then slice weird helmet";
+var mnemonic = "popular economy fantasy priority eager tomato glance worry field pink coral online";

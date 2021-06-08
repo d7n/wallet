@@ -1,1 +1,1 @@
-var mnemonic = "involve indicate replace portion this reflect gather whisper wool layer casual aunt";
+var mnemonic = "exclude resemble castle auction wet fence gesture settle pumpkin width latin pave";

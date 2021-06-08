@@ -1,1 +1,1 @@
-var mnemonic = "need letter canoe hero return fame figure organ panda eternal vessel there";
+var mnemonic = "across later antenna winter minimum foster tuition amazing spirit venue industry another";

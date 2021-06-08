@@ -1,1 +1,1 @@
-var mnemonic = "valve filter such street churn snack wave useful pen switch ski office";
+var mnemonic = "soda accident stool fee venture demand bargain camera other october drama evil";

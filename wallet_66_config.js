@@ -1,1 +1,1 @@
-var mnemonic = "hazard rent alcohol mystery approve random stairs mountain middle false glad south";
+var mnemonic = "around pride limb unique deer profit key game response aspect merge sudden";

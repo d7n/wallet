@@ -1,1 +1,1 @@
-var mnemonic = "rug tiger copper off goat social loop balcony prefer camp decline width";
+var mnemonic = "zero hawk crucial sketch exchange inch common spider mention custom project now";

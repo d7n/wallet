@@ -1,1 +1,1 @@
-var mnemonic = "sudden diamond fragile boy element reunion public scissors tourist budget arrest security";
+var mnemonic = "logic mail balcony gym earth cloth provide dizzy zone hammer cycle jungle";

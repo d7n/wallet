@@ -1,1 +1,1 @@
-var mnemonic = "wheel century cannon family jacket arrange spray skate dragon window rifle one";
+var mnemonic = "valve sentence tomorrow soccer loan curious loud differ essay hockey cash wrong";

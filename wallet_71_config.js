@@ -1,1 +1,1 @@
-var mnemonic = "process aunt quantum sting text satisfy moon place dismiss method hungry double";
+var mnemonic = "hospital spirit strong marriage indoor chunk daring decorate orbit salute brand narrow";

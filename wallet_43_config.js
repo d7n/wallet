@@ -1,1 +1,1 @@
-var mnemonic = "special crater hat escape vintage mind fossil february view fan dinosaur oval";
+var mnemonic = "tip absent cigar answer plate junk celery glue chair have speak man";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar social talk grow detail solution thought subject harsh visa feel tourist";
+var mnemonic = "choose vocal service burst sort village all trade play wage floor inject";

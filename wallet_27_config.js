@@ -1,1 +1,1 @@
-var mnemonic = "pool gather face desk strong seek hollow ask purity curve addict shop";
+var mnemonic = "kitchen clip pink trigger intact horse sting demand shed athlete deny exit";
