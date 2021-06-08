@@ -1,1 +1,1 @@
-var mnemonic = "unaware copper invest river eye chimney aerobic exotic economy acoustic carbon hidden";
+var mnemonic = "pet volume flower match crouch maple echo orbit rich air cricket front";

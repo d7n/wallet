@@ -1,1 +1,1 @@
-var mnemonic = "pledge air oven lion shield beef hurdle play stadium deer select soup";
+var mnemonic = "double cost census basket alley ketchup anxiety youth primary change fish october";

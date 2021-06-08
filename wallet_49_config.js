@@ -1,1 +1,1 @@
-var mnemonic = "deny voyage mass deposit yellow sponsor offer voice choice media cable short";
+var mnemonic = "grace moral teach exercise kite input drip awkward army over nation fork";

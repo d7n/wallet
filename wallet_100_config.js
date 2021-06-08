@@ -1,1 +1,1 @@
-var mnemonic = "world diary impact joke derive behind lock find empower bring immune force";
+var mnemonic = "reunion egg lobster gesture such lounge make carry swarm slab despair sure";

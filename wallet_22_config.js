@@ -1,1 +1,1 @@
-var mnemonic = "bullet neutral holiday comic pulse attend inject census pet bright identify occur";
+var mnemonic = "own juice wire trim staff cradle fault caution return syrup deliver palace";

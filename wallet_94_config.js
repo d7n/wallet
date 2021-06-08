@@ -1,1 +1,1 @@
-var mnemonic = "cattle twelve consider valve wing gift wealth hybrid fashion hen cement wire";
+var mnemonic = "drink unveil replace gaze surge carbon engage quit climb squeeze habit hub";

@@ -1,1 +1,1 @@
-var mnemonic = "south rose code repair peasant claw move acid gift purse tortoise away";
+var mnemonic = "special better educate short lyrics mixed traffic lift month vintage arm door";

@@ -1,1 +1,1 @@
-var mnemonic = "kid awful champion kiss science lawsuit oil slice mouse van wisdom dust";
+var mnemonic = "helmet this pipe ball cart same coconut use bamboo sister hobby border";

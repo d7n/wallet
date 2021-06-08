@@ -1,1 +1,1 @@
-var mnemonic = "patrol blame blade heart way palm like search flat clock brisk jealous";
+var mnemonic = "off item sing net pretty keen patch trigger amount broken among dove";

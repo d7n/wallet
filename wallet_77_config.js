@@ -1,1 +1,1 @@
-var mnemonic = "goddess mechanic dream page unusual battle champion rural palm luxury demise dice";
+var mnemonic = "feel neither marine shoe desert uphold high digital all slender slow nut";

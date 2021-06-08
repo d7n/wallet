@@ -1,1 +1,1 @@
-var mnemonic = "course sudden layer artefact program diamond post anger south expose hero critic";
+var mnemonic = "nut rude outside welcome tone potato frog zebra voyage circle capable marriage";

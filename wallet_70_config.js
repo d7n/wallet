@@ -1,1 +1,1 @@
-var mnemonic = "minute differ illness soda welcome stand follow misery trophy luggage oil february";
+var mnemonic = "visa under adapt grant surface wife middle chief click glare draw brain";

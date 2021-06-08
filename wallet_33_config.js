@@ -1,1 +1,1 @@
-var mnemonic = "cycle approve banner include beef gravity swap rose illegal siren modify bottom";
+var mnemonic = "actress essence civil snow stool plate suspect rough turn oak sheriff vote";

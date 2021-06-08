@@ -1,1 +1,1 @@
-var mnemonic = "winner spice high earn trouble sand dad dream glass erode impose brisk";
+var mnemonic = "poet neck awesome write mixed ready dog emerge guilt blur purse like";

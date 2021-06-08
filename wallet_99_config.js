@@ -1,1 +1,1 @@
-var mnemonic = "humble school diary purpose card sauce lounge bag index surprise citizen climb";
+var mnemonic = "filter swift true report chronic help prefer venue engage bone acid kangaroo";

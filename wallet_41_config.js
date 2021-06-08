@@ -1,1 +1,1 @@
-var mnemonic = "horse omit already merry december spike balance grant mutual carpet garden goose";
+var mnemonic = "dial inner rent adult essay range velvet pattern million abstract panic manual";

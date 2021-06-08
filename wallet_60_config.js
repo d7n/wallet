@@ -1,1 +1,1 @@
-var mnemonic = "broom idea advice tilt wolf screen system ripple flip wild fault finish";
+var mnemonic = "hope behind fit recipe toward buddy denial expand proud transfer season have";

@@ -1,1 +1,1 @@
-var mnemonic = "shine submit north notable wine minute cage matter sting hen chest math";
+var mnemonic = "check baby desk abuse keen initial point theme change gentle anxiety orbit";

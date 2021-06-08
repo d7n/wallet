@@ -1,1 +1,1 @@
-var mnemonic = "develop gaze sister buyer close cupboard roof boring spatial stamp basket denial";
+var mnemonic = "tape aspect detail tonight thrive evil subject rebuild someone bullet cinnamon dry";

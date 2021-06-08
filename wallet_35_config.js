@@ -1,1 +1,1 @@
-var mnemonic = "submit tree gallery never gentle air float cradle valley demise palace unveil";
+var mnemonic = "ankle curtain seminar essence collect promote great hen brick dust method liquid";

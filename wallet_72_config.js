@@ -1,1 +1,1 @@
-var mnemonic = "trick nose unique surge fun weekend lonely envelope brush slab screen slab";
+var mnemonic = "patrol wage mix limit clutch remove grass junk brand quantum provide party";

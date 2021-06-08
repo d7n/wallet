@@ -1,1 +1,1 @@
-var mnemonic = "online clap maximum pear decrease glass member sword city simple tuition choice";
+var mnemonic = "labor harsh weapon pattern rely truly sock clerk only reopen asthma wheat";

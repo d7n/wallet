@@ -1,1 +1,1 @@
-var mnemonic = "phrase velvet snack ritual quit public still gown because educate panther crime";
+var mnemonic = "blush unit before escape amount light anchor glass list paper copy sing";

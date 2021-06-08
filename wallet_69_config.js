@@ -1,1 +1,1 @@
-var mnemonic = "amazing orbit own iron spoil omit seven mention jungle fold crisp note";
+var mnemonic = "theme blouse auto culture void nuclear check blouse harsh equip ill soccer";

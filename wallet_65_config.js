@@ -1,1 +1,1 @@
-var mnemonic = "panda present melt where purpose cube chimney frost toy elbow jazz parent";
+var mnemonic = "worth ecology little exercise casual antenna talent tornado lawn lab ask donkey";

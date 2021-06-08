@@ -1,1 +1,1 @@
-var mnemonic = "popular few have donkey onion palace drip argue rail drum exclude judge";
+var mnemonic = "top wait mass belt photo van dinner cinnamon lobster glow myth wood";

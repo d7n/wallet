@@ -1,1 +1,1 @@
-var mnemonic = "occur else stumble describe menu chronic wide enact original across lonely divide";
+var mnemonic = "coyote trial cigar margin any marriage share secret hour want magnet any";

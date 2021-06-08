@@ -1,1 +1,1 @@
-var mnemonic = "front novel hockey promote actor favorite cloth swift unit viable toss prison";
+var mnemonic = "gym motor display coil surge ready chat midnight special robust pistol luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "number column taxi vital enjoy more grocery wear noble enroll scrap notice";
+var mnemonic = "capable museum night angle gate erode slender marine clown clap envelope model";

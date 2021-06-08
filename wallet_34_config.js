@@ -1,1 +1,1 @@
-var mnemonic = "apple tank come nephew silly arch report left source elevator search glide";
+var mnemonic = "person sand rifle ancient rival purity blouse unable camera gravity junk panic";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt spread lunar ritual machine idea carry trumpet arch kitchen emerge gap";
+var mnemonic = "island estate pill wine paddle renew hill extend improve yard various wear";

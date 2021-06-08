@@ -1,1 +1,1 @@
-var mnemonic = "type drink lucky invite night lock double viable female velvet harvest ask";
+var mnemonic = "waste screen trial depend patient concert draft betray usage blanket ladder hundred";

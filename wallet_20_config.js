@@ -1,1 +1,1 @@
-var mnemonic = "slender cloth together island prevent august gap spray crush maze attitude parade";
+var mnemonic = "device project satoshi valley salon world just slim price knee light fury";

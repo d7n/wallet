@@ -1,1 +1,1 @@
-var mnemonic = "hidden onion mirror ceiling way pull athlete acquire park mercy cigar mixture";
+var mnemonic = "teach fire chief antenna render hammer brain arena feel wise grab upset";

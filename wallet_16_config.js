@@ -1,1 +1,1 @@
-var mnemonic = "want helmet outside theme essence review tackle awesome comfort knee maple grunt";
+var mnemonic = "endless grant that fever holiday easily neither prefer doctor explain icon west";

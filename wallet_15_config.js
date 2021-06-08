@@ -1,1 +1,1 @@
-var mnemonic = "engage obtain ritual roast laptop swim excuse lend patch dial decline soft";
+var mnemonic = "width target elegant supply victory submit media hurt lyrics mad ill vacuum";

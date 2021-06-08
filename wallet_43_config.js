@@ -1,1 +1,1 @@
-var mnemonic = "quit brave area nasty culture tissue moral guard what payment evolve shove";
+var mnemonic = "fruit detail mammal space siege hill prepare okay diesel icon uncover else";

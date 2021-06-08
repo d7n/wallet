@@ -1,1 +1,1 @@
-var mnemonic = "liquid mutual wise begin tide glare this baby silver price kitchen link";
+var mnemonic = "uniform frost table impulse rescue quote utility target box wedding property flavor";

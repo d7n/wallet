@@ -1,1 +1,1 @@
-var mnemonic = "rose wide coil staff secret speed radio liquid manual finger ramp salt";
+var mnemonic = "medal coffee use emotion three problem shoot chimney chief best razor stay";

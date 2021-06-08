@@ -1,1 +1,1 @@
-var mnemonic = "victory universe oyster stomach cactus marine bomb also occur labor face island";
+var mnemonic = "donkey rival art obvious immense sweet deliver govern budget bus rude obtain";

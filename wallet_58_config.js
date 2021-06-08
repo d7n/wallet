@@ -1,1 +1,1 @@
-var mnemonic = "laundry city season have answer taste cube jazz rubber goddess weather charge";
+var mnemonic = "liar priority knife valve actual garment artefact fortune morning illness box muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "account mistake keen sustain fiction symptom stomach oval cover merit bleak jelly";
+var mnemonic = "celery idea safe infant afraid syrup install circle will student come snap";

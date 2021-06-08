@@ -1,1 +1,1 @@
-var mnemonic = "harvest earth woman test nature boost school elephant dice flight elder funny";
+var mnemonic = "radar boring middle occur find list never remember mirror kid deer sunset";

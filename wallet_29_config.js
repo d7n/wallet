@@ -1,1 +1,1 @@
-var mnemonic = "midnight ugly neutral miss frog virus floor tobacco wine thing fit argue";
+var mnemonic = "sea word boat heavy bonus order once venue trial lava saddle ivory";

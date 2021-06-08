@@ -1,1 +1,1 @@
-var mnemonic = "floor mistake mosquito uncle amazing brush water concert boring way ball two";
+var mnemonic = "mandate excite equal gravity focus book faith middle film old extend industry";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic wave tired dentist error sample foot faculty entire coil panda model";
+var mnemonic = "sweet trade style island suspect puppy choice meat reveal thunder baby lizard";

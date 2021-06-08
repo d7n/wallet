@@ -1,1 +1,1 @@
-var mnemonic = "affair protect mass mercy indoor neither forum runway oppose account exact gasp";
+var mnemonic = "tuna common evil bright above trumpet rice modify chapter income horse loan";

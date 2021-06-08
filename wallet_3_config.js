@@ -1,1 +1,1 @@
-var mnemonic = "kingdom muscle spoon cram purpose visa draw bind pond express monitor coffee";
+var mnemonic = "leaf consider price cattle badge taste drip trend clap property want ski";

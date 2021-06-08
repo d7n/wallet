@@ -1,1 +1,1 @@
-var mnemonic = "electric spatial segment glory addict same oven galaxy acquire debris pupil chicken";
+var mnemonic = "inch also arrange mass abandon fabric jelly run clinic give around toward";

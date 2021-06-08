@@ -1,1 +1,1 @@
-var mnemonic = "success disorder phone explain next foil pretty saddle fault pear estate gospel";
+var mnemonic = "song wave party asset seminar explain raw lumber combine grain buyer shuffle";

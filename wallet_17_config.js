@@ -1,1 +1,1 @@
-var mnemonic = "entry topple special comfort life canoe dream garage uniform grief report upon";
+var mnemonic = "frozen vault project fall reward round weapon topic risk frost offer apart";

@@ -1,1 +1,1 @@
-var mnemonic = "occur inhale local hammer suffer prefer toe tape unable idle jaguar hint";
+var mnemonic = "skin broccoli salt collect gossip volcano velvet outdoor thrive jelly nothing collect";

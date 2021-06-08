@@ -1,1 +1,1 @@
-var mnemonic = "winter eye thumb maze next piece forest polar swing exist walk consider";
+var mnemonic = "educate apart sustain liquid protect fatigue bright next knife floor satisfy fever";

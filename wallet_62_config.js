@@ -1,1 +1,1 @@
-var mnemonic = "image bundle eager pupil convince say update talk alcohol hybrid vibrant glove";
+var mnemonic = "inmate crunch unfair improve tobacco gather south vital crowd upon gaze nose";

@@ -1,1 +1,1 @@
-var mnemonic = "oval chronic cage dream soup settle expect other vivid worry garment miracle";
+var mnemonic = "fashion guitar hip great patrol give honey prevent half service strategy expect";

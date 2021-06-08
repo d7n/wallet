@@ -1,1 +1,1 @@
-var mnemonic = "climb margin physical symptom system report list motion purchase meat quit famous";
+var mnemonic = "grace news pause hair task fan diagram dragon clock lady ridge leave";

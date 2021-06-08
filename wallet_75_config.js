@@ -1,1 +1,1 @@
-var mnemonic = "essay enough warfare margin kitten word able praise sell distance cabin burst";
+var mnemonic = "maximum taste velvet consider unfair panda lawsuit barrel chief border sun spray";

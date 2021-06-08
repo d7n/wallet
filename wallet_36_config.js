@@ -1,1 +1,1 @@
-var mnemonic = "merry exile pencil lock viable leisure board robot never first pair loud";
+var mnemonic = "tongue hub year general escape regret fiber real wage spirit inhale amateur";

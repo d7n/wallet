@@ -1,1 +1,1 @@
-var mnemonic = "border muscle affair stairs certain ability awake leave lamp news fee rocket";
+var mnemonic = "coffee magnet nut mistake unable such table harvest barely repair artefact artwork";

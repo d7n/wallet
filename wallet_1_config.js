@@ -1,1 +1,1 @@
-var mnemonic = "void all ten general woman field tomorrow fetch dream banana tongue aware";
+var mnemonic = "coin slight enforce fun light oxygen uncle sphere portion circle electric ankle";

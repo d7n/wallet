@@ -1,1 +1,1 @@
-var mnemonic = "mask bless giant mean swap library agent resource weird weird perfect you";
+var mnemonic = "lab fruit apology choice width hybrid turkey must record account bracket reopen";

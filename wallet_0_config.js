@@ -1,1 +1,1 @@
-var mnemonic = "second forum action invite grow card mandate unknown glory soda finish sock";
+var mnemonic = "describe problem first shoulder husband rubber symptom material finish weekend mango buzz";

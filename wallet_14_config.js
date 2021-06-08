@@ -1,1 +1,1 @@
-var mnemonic = "amused regret shy balcony trophy squirrel buyer rhythm radar despair silly dinner";
+var mnemonic = "dash glove segment buyer script blue about ill crime balance avoid zebra";

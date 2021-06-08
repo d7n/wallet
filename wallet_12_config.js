@@ -1,1 +1,1 @@
-var mnemonic = "mom acid plate street rebel update gain fetch vault renew crouch canvas";
+var mnemonic = "soccer pause waste survey notable nest below fine begin elder comfort destroy";

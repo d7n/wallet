@@ -1,1 +1,1 @@
-var mnemonic = "void unveil warm tonight slim car spend achieve orient slam wink offer";
+var mnemonic = "virus hope stomach foam lend habit agree female movie like betray dignity";

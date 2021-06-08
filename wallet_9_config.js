@@ -1,1 +1,1 @@
-var mnemonic = "anchor hood extra axis female human fancy tattoo upset mistake capable merry";
+var mnemonic = "worth turkey empty butter thought tray pact across slush minimum isolate party";

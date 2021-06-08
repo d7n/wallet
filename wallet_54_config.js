@@ -1,1 +1,1 @@
-var mnemonic = "weapon awake female device sleep awake receive atom make obvious aspect gossip";
+var mnemonic = "immune car goddess gentle outdoor royal slice circle garment disagree tonight silk";

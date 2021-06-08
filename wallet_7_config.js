@@ -1,1 +1,1 @@
-var mnemonic = "dawn perfect muffin couch shrimp echo valid extend vote casual north idea";
+var mnemonic = "crumble quarter lazy manage scissors demise brush uncle stand giant paper garage";

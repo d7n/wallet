@@ -1,1 +1,1 @@
-var mnemonic = "blame usual believe current write skirt capital focus yard clarify arrive swallow";
+var mnemonic = "warm alter begin miracle category agree egg nut ship clown avoid festival";

@@ -1,1 +1,1 @@
-var mnemonic = "filter hamster remove voice room icon human often link budget champion patient";
+var mnemonic = "spice inflict muffin argue blame rebuild animal grid surge express oyster lobster";

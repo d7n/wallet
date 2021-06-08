@@ -1,1 +1,1 @@
-var mnemonic = "fiber library record spatial mimic toy major obvious entry math salt egg";
+var mnemonic = "pizza original gain pattern whip liar ceiling weasel torch woman memory entry";

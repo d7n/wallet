@@ -1,1 +1,1 @@
-var mnemonic = "birth giraffe nose shift float olympic frozen rebuild jungle miracle person return";
+var mnemonic = "ghost cool dance popular awful runway public enable rocket suspect dash civil";

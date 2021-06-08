@@ -1,1 +1,1 @@
-var mnemonic = "verify wing erode slight egg praise hat sister owner credit unaware pause";
+var mnemonic = "weapon kangaroo smooth blush hundred guess lumber furnace maple found health romance";

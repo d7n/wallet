@@ -1,1 +1,1 @@
-var mnemonic = "leg struggle wasp kiss theme talent clock just control team stock erosion";
+var mnemonic = "virtual aunt like version surprise vague dumb drive review clever wash harvest";

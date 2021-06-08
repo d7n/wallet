@@ -1,1 +1,1 @@
-var mnemonic = "process observe say barely stone human dragon pride close net quarter magnet";
+var mnemonic = "grief arrange trust recipe daring federal pride roast know sheriff kingdom diamond";

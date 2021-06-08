@@ -1,1 +1,1 @@
-var mnemonic = "supreme spend fade purchase garment endless cigar night tube alley token announce";
+var mnemonic = "trade voyage robust skirt check sniff smart abandon venture fiber shuffle tennis";

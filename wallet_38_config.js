@@ -1,1 +1,1 @@
-var mnemonic = "switch scheme bless cloth solve senior pioneer adapt sketch rhythm secret airport";
+var mnemonic = "tail sell pride sort able wave decorate life brief east bridge derive";

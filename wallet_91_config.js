@@ -1,1 +1,1 @@
-var mnemonic = "divide trap fluid fork train style erosion bacon chuckle table hunt egg";
+var mnemonic = "false salon bubble become project defy lock wasp label defy future park";

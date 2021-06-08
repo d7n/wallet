@@ -1,1 +1,1 @@
-var mnemonic = "truck vocal diamond actress first minimum garage raven dizzy tomorrow undo truly";
+var mnemonic = "exhibit blood keep smile sniff butter behave convince deny column spare easy";

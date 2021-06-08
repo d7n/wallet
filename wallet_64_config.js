@@ -1,1 +1,1 @@
-var mnemonic = "bomb tiger rate forum adjust flash purpose bless donkey bulk funny equip";
+var mnemonic = "helmet corn govern correct rival river plastic various identify wear ladder birth";

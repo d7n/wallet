@@ -1,1 +1,1 @@
-var mnemonic = "bean film dose verb spot angry idle snack fetch mother inflict crime";
+var mnemonic = "imitate apology alcohol toast expand original below swear shop claw setup soup";

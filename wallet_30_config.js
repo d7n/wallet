@@ -1,1 +1,1 @@
-var mnemonic = "glass just present garage leg budget blouse foil gate grass north soccer";
+var mnemonic = "soon dutch wreck better burden few you hand order nut ketchup like";

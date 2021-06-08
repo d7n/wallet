@@ -1,1 +1,1 @@
-var mnemonic = "fortune surround erode illness announce filter viable pepper badge hawk woman power";
+var mnemonic = "meat artist matrix scan joy sausage club caught cook coffee rhythm blast";

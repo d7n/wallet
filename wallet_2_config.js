@@ -1,1 +1,1 @@
-var mnemonic = "maid field when focus hood throw wonder initial mouse wisdom tuition pact";
+var mnemonic = "tip cute purchase oblige follow profit fluid measure horror bitter close journey";

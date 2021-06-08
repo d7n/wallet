@@ -1,1 +1,1 @@
-var mnemonic = "early extend priority hybrid false huge scrub alpha metal tool one plastic";
+var mnemonic = "piece genre vacant green radar slide drip input define strike million equal";

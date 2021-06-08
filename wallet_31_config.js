@@ -1,1 +1,1 @@
-var mnemonic = "casual glide goat attitude visual avocado circle wrap legend marine heart fix";
+var mnemonic = "token border grain pony deer betray silly fitness follow forward trick pulp";

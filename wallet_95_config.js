@@ -1,1 +1,1 @@
-var mnemonic = "invite wheel update panther bless bundle nephew tone pottery dog oven moral";
+var mnemonic = "apple room wire social scout hazard power blur rent milk find exhaust";

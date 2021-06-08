@@ -1,1 +1,1 @@
-var mnemonic = "knee allow rigid year useless useful toilet mirror certain render hen unit";
+var mnemonic = "limit vehicle garden route obscure pet pigeon fit early describe notice medal";

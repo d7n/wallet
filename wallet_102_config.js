@@ -1,1 +1,1 @@
-var mnemonic = "recall prosper rude naive lock sleep gallery amateur series busy clump struggle";
+var mnemonic = "squeeze twelve student detect observe goat correct pair undo vague hockey truly";

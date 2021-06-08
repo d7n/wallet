@@ -1,1 +1,1 @@
-var mnemonic = "butter weird pistol wine unaware cause visit relax large crowd neglect surround";
+var mnemonic = "erode error gown enlist bomb deer pencil strike scrub guide hold bracket";

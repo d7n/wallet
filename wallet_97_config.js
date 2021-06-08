@@ -1,1 +1,1 @@
-var mnemonic = "absent endorse cute machine shift rebel tree primary coral employ tonight column";
+var mnemonic = "danger fiber outer athlete yard march injury behind joke endorse devote giggle";

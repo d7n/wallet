@@ -1,1 +1,1 @@
-var mnemonic = "vehicle bracket exact cloud agree roof fine trick winter owner luggage wealth";
+var mnemonic = "stool able identify field trophy brush tongue gain suit neglect wire arm";

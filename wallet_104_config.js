@@ -1,1 +1,1 @@
-var mnemonic = "agent fabric limit purchase goddess copper reason wasp neck wisdom used between";
+var mnemonic = "visit hope away goat wet trade undo describe swing crystal occur damage";
