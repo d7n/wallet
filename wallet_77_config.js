@@ -1,1 +1,1 @@
-var mnemonic = "salute magic tip bottom coach pretty gorilla kitten they retire excess quantum";
+var mnemonic = "faith calm purse fog affair clean audit blind joke agent degree trash";

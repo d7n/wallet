@@ -1,1 +1,1 @@
-var mnemonic = "can business course abuse waste fabric leisure shallow street castle exercise symptom";
+var mnemonic = "guilt creek spike village ladder oven click memory match curve unaware unique";

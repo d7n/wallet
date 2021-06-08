@@ -1,1 +1,1 @@
-var mnemonic = "cook pelican pilot seek wife swarm survey ten empower letter small scorpion";
+var mnemonic = "split success floor tower emotion swap melody vapor permit test add venue";

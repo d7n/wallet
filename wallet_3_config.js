@@ -1,1 +1,1 @@
-var mnemonic = "drop describe panel student fame mistake raise bachelor atom vault rug alert";
+var mnemonic = "choose outside cereal brass fog jungle spike bicycle eagle dismiss weasel normal";

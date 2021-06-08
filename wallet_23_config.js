@@ -1,1 +1,1 @@
-var mnemonic = "fish ostrich roof puzzle pipe ecology off second two alien blame clarify";
+var mnemonic = "autumn ugly weapon crater message leaf prison manage fee decade horse strategy";

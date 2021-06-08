@@ -1,1 +1,1 @@
-var mnemonic = "two vault bid major pilot merge already element aspect excuse learn found";
+var mnemonic = "tongue glue feed electric regret zebra trip gaze track animal maximum bamboo";

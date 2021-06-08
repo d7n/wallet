@@ -1,1 +1,1 @@
-var mnemonic = "mobile honey tornado erode shield reunion embody melt amount bean clean donkey";
+var mnemonic = "ketchup merry ankle choice someone daring achieve basket add planet loud lunar";

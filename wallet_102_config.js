@@ -1,1 +1,1 @@
-var mnemonic = "enlist glove match match permit time change solution silent dress base chat";
+var mnemonic = "solve alter goat pride pioneer alter provide world mechanic suggest derive among";

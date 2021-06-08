@@ -1,1 +1,1 @@
-var mnemonic = "fringe mistake vanish width own scissors rebuild thing hurry soldier apology item";
+var mnemonic = "prepare frame turkey ritual add fancy asthma move physical human green trap";

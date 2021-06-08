@@ -1,1 +1,1 @@
-var mnemonic = "cross shoe search length city multiply biology captain shadow pelican session snake";
+var mnemonic = "inquiry lamp marriage tired morning draw jewel comfort wear owner daughter cigar";

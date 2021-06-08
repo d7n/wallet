@@ -1,1 +1,1 @@
-var mnemonic = "deliver start endless travel arena very shadow couch adjust universe rain affair";
+var mnemonic = "near bag bullet empower join nuclear assist thought problem web dwarf race";

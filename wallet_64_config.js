@@ -1,1 +1,1 @@
-var mnemonic = "side inflict shoe easily cash hawk immune slush fly special flock obey";
+var mnemonic = "cactus regular fold toward risk craft rebel blanket creek tiny recall awkward";

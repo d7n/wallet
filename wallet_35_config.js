@@ -1,1 +1,1 @@
-var mnemonic = "dizzy stable embody agree cry decade pact science meadow notable yellow salad";
+var mnemonic = "thumb coral evoke immense choice spoil attack cream invest school bunker faith";

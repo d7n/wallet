@@ -1,1 +1,1 @@
-var mnemonic = "blue cinnamon wide urge lottery festival join crisp fork soup kidney water";
+var mnemonic = "broccoli develop drift viable plate nature adjust game drift federal public view";

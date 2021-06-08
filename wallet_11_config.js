@@ -1,1 +1,1 @@
-var mnemonic = "luggage fitness similar clay nurse layer eager federal grocery pause nothing quarter";
+var mnemonic = "cargo runway plug arrange letter menu portion pistol girl type brush toilet";

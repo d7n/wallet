@@ -1,1 +1,1 @@
-var mnemonic = "soft captain burger glare corn limit close sleep neglect payment onion twin";
+var mnemonic = "lens duty essay tent season hockey away jealous skin adjust pilot primary";

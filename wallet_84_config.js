@@ -1,1 +1,1 @@
-var mnemonic = "holiday force cram miss hip library cherry still gasp option brief holiday";
+var mnemonic = "bread bind select twice matrix immense tattoo ocean element shift avoid focus";

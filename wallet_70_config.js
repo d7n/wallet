@@ -1,1 +1,1 @@
-var mnemonic = "senior loop artefact learn reason raven drive olive orchard theme toe cigar";
+var mnemonic = "resemble receive example transfer loan idle galaxy average choice label cupboard govern";

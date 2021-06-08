@@ -1,1 +1,1 @@
-var mnemonic = "loan gravity boost flee seat deposit sample foil delay ball tornado suggest";
+var mnemonic = "clay name lesson keep despair sad wall position weird alter mom garlic";

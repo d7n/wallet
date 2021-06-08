@@ -1,1 +1,1 @@
-var mnemonic = "cabbage right crater bright angry curve kind cushion stay vacant brisk wisdom";
+var mnemonic = "wagon stem common thunder entry grace region endless yard ask put supply";

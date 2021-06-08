@@ -1,1 +1,1 @@
-var mnemonic = "soap tuition unknown project rose mistake speed crop taxi sauce pool poet";
+var mnemonic = "volume tiger away estate chaos measure toast sunny genre govern disease story";

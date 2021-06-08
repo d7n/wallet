@@ -1,1 +1,1 @@
-var mnemonic = "uncle tomato miss carpet biology below season frog collect nut jump coast";
+var mnemonic = "lab bomb labor trend return flight dish old report day dream return";

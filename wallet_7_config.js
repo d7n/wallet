@@ -1,1 +1,1 @@
-var mnemonic = "surface craft box sword nasty illegal bar supply sad trim about thunder";
+var mnemonic = "carry walnut canvas morning vocal original twin donor pitch thank when industry";

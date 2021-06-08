@@ -1,1 +1,1 @@
-var mnemonic = "figure width average cloth flee cart sure attend quantum metal rural island";
+var mnemonic = "always below rather clay addict group bundle panel morning liar diesel amount";

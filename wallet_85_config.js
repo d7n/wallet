@@ -1,1 +1,1 @@
-var mnemonic = "permit silver glad pyramid left tell staff window claim business ozone field";
+var mnemonic = "ankle flock nominee theory cluster produce age upon swing pulp club dance";

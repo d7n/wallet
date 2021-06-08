@@ -1,1 +1,1 @@
-var mnemonic = "cable trade copper review camera carpet clock warrior clever length firm tuna";
+var mnemonic = "garbage exhaust school fitness energy crowd peanut clerk school curious title bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle such pink fix glove weather about floor grape lawn clay uncover";
+var mnemonic = "random combine pave loop job truth rabbit energy toilet fringe abandon gold";

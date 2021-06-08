@@ -1,1 +1,1 @@
-var mnemonic = "produce burden tackle inhale outside link rare globe say shop tennis violin";
+var mnemonic = "cousin check fun physical minor submit party join few relief reduce shaft";

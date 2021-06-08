@@ -1,1 +1,1 @@
-var mnemonic = "total night dial grab document auto few lady involve spot key fog";
+var mnemonic = "service warfare gentle banner vendor cabbage junior million core inherit team monitor";

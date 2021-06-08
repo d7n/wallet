@@ -1,1 +1,1 @@
-var mnemonic = "word puppy onion claw orbit pledge puzzle stem dignity toward domain uphold";
+var mnemonic = "talk crew retreat east armor hurry salon reason unveil ankle pen horror";

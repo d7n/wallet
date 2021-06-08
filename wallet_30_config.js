@@ -1,1 +1,1 @@
-var mnemonic = "walk then concert victory crowd screen phone lizard stool evoke farm business";
+var mnemonic = "common race blood wheel crash priority wagon throw peanut adapt anxiety steel";

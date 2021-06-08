@@ -1,1 +1,1 @@
-var mnemonic = "chaos nest ivory use lava wide parrot auction mix clean liberty cancel";
+var mnemonic = "average final include fall empower skill airport circle hurdle nurse abstract ripple";

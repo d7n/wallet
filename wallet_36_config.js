@@ -1,1 +1,1 @@
-var mnemonic = "gloom favorite boost half thank outside bundle cream expect vibrant park coil";
+var mnemonic = "yellow display gap proud off boost pair deputy fluid bubble cycle laptop";

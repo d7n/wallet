@@ -1,1 +1,1 @@
-var mnemonic = "various endless milk alien basket lounge trial sphere frost trust company decline";
+var mnemonic = "uncle skate fury treat horror drastic room price mobile dentist link sign";

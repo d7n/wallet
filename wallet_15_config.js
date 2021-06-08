@@ -1,1 +1,1 @@
-var mnemonic = "head profit eternal poet table deputy august lesson dragon birth wealth bamboo";
+var mnemonic = "execute dolphin benefit poet jeans skin dust track reward economy toilet document";

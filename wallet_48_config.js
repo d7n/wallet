@@ -1,1 +1,1 @@
-var mnemonic = "rebel rotate nature mistake canyon they text obtain only huge resemble bronze";
+var mnemonic = "bag banana sting like flush buyer nation motor donkey differ glad plate";

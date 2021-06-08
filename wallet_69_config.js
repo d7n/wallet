@@ -1,1 +1,1 @@
-var mnemonic = "system sugar fever invest collect fresh odor blood tree prison idea promote";
+var mnemonic = "large alert garage thought winter sustain pass crash style velvet chunk shift";

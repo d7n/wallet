@@ -1,1 +1,1 @@
-var mnemonic = "acid task system night common demise tone phrase black gauge assume mule";
+var mnemonic = "whale beach picture express fruit monitor history mountain fiction uphold intact game";

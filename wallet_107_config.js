@@ -1,1 +1,1 @@
-var mnemonic = "fiscal unaware rapid rice atom stairs group dizzy caught side vintage sustain";
+var mnemonic = "divert often blame normal orchard open couch husband exile cable spawn party";

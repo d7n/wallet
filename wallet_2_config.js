@@ -1,1 +1,1 @@
-var mnemonic = "drama august gadget goddess afford april stadium index velvet economy joke owner";
+var mnemonic = "kiss okay fly design tunnel correct vast guess glow fog title mixture";

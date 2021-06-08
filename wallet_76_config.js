@@ -1,1 +1,1 @@
-var mnemonic = "usage suffer sphere ready heart genre trumpet clarify dentist return guard cinnamon";
+var mnemonic = "blame peasant spoon peanut bunker rain season soul arrive trick puppy adult";

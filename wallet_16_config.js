@@ -1,1 +1,1 @@
-var mnemonic = "immense property polar habit heart apple enrich lucky theme waste slot dawn";
+var mnemonic = "street strike brain robust certain faculty gloom tomato account govern glide kiwi";

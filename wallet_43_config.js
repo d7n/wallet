@@ -1,1 +1,1 @@
-var mnemonic = "balance slice post ivory squirrel chronic high young knock damage pupil wisdom";
+var mnemonic = "fame chalk acquire boss van young arch total glory shell spy visit";

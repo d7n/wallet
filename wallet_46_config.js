@@ -1,1 +1,1 @@
-var mnemonic = "excuse runway pudding tenant inform purity exercise mix frost swarm napkin hurry";
+var mnemonic = "twin brave tuna repair floor catalog story embrace crash client flower truth";

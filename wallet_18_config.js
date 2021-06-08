@@ -1,1 +1,1 @@
-var mnemonic = "together virus flush jealous when snow hero banner demise leaf dirt mixed";
+var mnemonic = "ketchup park indoor detect injury pen body address betray sell album step";

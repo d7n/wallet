@@ -1,1 +1,1 @@
-var mnemonic = "purchase lemon symptom size diagram eternal goddess tornado blame flavor select arm";
+var mnemonic = "lecture wet gentle interest weekend dignity fire plate uncover swamp afraid glove";

@@ -1,1 +1,1 @@
-var mnemonic = "silly prison embark battle bottom kick culture shoot supply enjoy glue heart";
+var mnemonic = "hobby ramp provide shy dove void laugh vivid basic swallow pond idea";

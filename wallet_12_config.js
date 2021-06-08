@@ -1,1 +1,1 @@
-var mnemonic = "ketchup sunset then will across skirt detect beauty unable winter own quote";
+var mnemonic = "swamp fold worth cry heart transfer type miss blame parrot smile oxygen";

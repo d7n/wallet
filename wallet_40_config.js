@@ -1,1 +1,1 @@
-var mnemonic = "puppy mountain senior firm robust imitate board media deposit approve trial steak";
+var mnemonic = "property air follow now exile observe scene media flip casino artwork asset";

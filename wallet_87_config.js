@@ -1,1 +1,1 @@
-var mnemonic = "fortune term property inject enrich record people drive sauce enlist afford shoe";
+var mnemonic = "equip better robust crouch luggage trash execute grid crack quick author afford";

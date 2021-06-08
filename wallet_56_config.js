@@ -1,1 +1,1 @@
-var mnemonic = "barely diary weekend film tunnel faith pair mistake grape team tower panel";
+var mnemonic = "hundred city merge sphere tornado involve behave radio recipe author group bracket";

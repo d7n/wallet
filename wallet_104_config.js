@@ -1,1 +1,1 @@
-var mnemonic = "chunk improve side large swift vocal account grab tag senior float outdoor";
+var mnemonic = "blush town real wait know receive demise panther neither crane story cheap";

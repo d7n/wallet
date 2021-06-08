@@ -1,1 +1,1 @@
-var mnemonic = "release dynamic butter profit afraid current move route skill extend shock coach";
+var mnemonic = "concert situate obscure gloom head close have economy uphold knee number picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "please width raw piano wage frog arena grunt poet reduce target pill";
+var mnemonic = "gain resist script spell clip source seminar cradle series nuclear wire reopen";

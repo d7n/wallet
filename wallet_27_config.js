@@ -1,1 +1,1 @@
-var mnemonic = "despair gravity monster drift coconut hundred mixed enjoy tooth repeat flavor whip";
+var mnemonic = "relax gasp thing embody crack pig plate repair setup game clutch tomorrow";

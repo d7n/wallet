@@ -1,1 +1,1 @@
-var mnemonic = "grid supply video index master pilot gown biology off vendor shoot cloud";
+var mnemonic = "heavy device attend vibrant bean deliver price struggle flock way better quantum";

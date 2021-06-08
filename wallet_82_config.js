@@ -1,1 +1,1 @@
-var mnemonic = "fine night baby feature foot ethics carbon outer soup journey topic gown";
+var mnemonic = "robust suggest hawk album file churn armor human measure duck journey hand";

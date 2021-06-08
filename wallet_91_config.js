@@ -1,1 +1,1 @@
-var mnemonic = "lumber imitate during horn usage divert vivid void jump coyote pond desert";
+var mnemonic = "degree stool neutral hedgehog nerve farm actual rib merge harvest tonight local";

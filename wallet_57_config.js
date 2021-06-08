@@ -1,1 +1,1 @@
-var mnemonic = "canal legal submit chase celery media peace aim raven salt nose leaf";
+var mnemonic = "hamster snack universe wear grain evil person wink flush gain muscle apart";

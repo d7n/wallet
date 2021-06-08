@@ -1,1 +1,1 @@
-var mnemonic = "motor enjoy hover onion vendor section gift rebel rack choice there diagram";
+var mnemonic = "mutual smoke melody yellow chimney other nasty ozone pulp airport limb afford";

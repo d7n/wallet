@@ -1,1 +1,1 @@
-var mnemonic = "chunk dilemma spin warrior announce inform used group write rely ball split";
+var mnemonic = "patrol wonder allow derive right sentence pool nation infant quarter upset diet";

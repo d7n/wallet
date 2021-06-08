@@ -1,1 +1,1 @@
-var mnemonic = "example catalog slight middle announce tuition buyer spare village invest blanket damage";
+var mnemonic = "divorce valid extend cruel move traffic alley begin club arrange winner hole";

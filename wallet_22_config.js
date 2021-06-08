@@ -1,1 +1,1 @@
-var mnemonic = "truck million arch secret prosper bunker feel addict enter little minute input";
+var mnemonic = "chase gown rotate swarm myth maple inquiry tiger leopard wolf island silent";

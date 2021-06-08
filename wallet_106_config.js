@@ -1,1 +1,1 @@
-var mnemonic = "light mirror thunder civil viable giggle blossom step start camera crisp thought";
+var mnemonic = "income clump sport dumb firm once wire gun bless collect cage meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "summer forget solid office hour fix affair sound path upgrade capital essence";
+var mnemonic = "marriage pelican pitch deer pyramid behind awesome erosion damage enter all harvest";

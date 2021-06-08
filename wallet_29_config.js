@@ -1,1 +1,1 @@
-var mnemonic = "almost narrow kid skull machine derive unveil solid spirit trash potato autumn";
+var mnemonic = "believe renew capable sand fluid toast bonus armor wealth cigar gallery address";

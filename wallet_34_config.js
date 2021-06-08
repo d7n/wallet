@@ -1,1 +1,1 @@
-var mnemonic = "pencil figure glance genuine easy mix blue trial burst kingdom parade plate";
+var mnemonic = "leave inhale odor square hurdle electric punch cherry toilet abuse tide upgrade";

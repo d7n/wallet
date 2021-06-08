@@ -1,1 +1,1 @@
-var mnemonic = "bundle witness unhappy trim summer deposit syrup stage table tree faith cinnamon";
+var mnemonic = "rival ribbon equal tunnel area area frame field city ignore narrow fetch";

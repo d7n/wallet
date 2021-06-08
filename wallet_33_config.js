@@ -1,1 +1,1 @@
-var mnemonic = "torch eager entire clutch double door mouse ankle early nominee swap car";
+var mnemonic = "surge sentence way today chat tribe submit hard coin hat winner embody";

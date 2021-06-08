@@ -1,1 +1,1 @@
-var mnemonic = "surface farm lesson trumpet rent battle egg tunnel tissue glimpse more long";
+var mnemonic = "air marine return report juice increase first broccoli caught slice life course";

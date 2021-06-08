@@ -1,1 +1,1 @@
-var mnemonic = "mercy treat assist portion food eagle snow what impose tail amused coffee";
+var mnemonic = "remember sing tomorrow unique clay paper blade inside gallery excite random ticket";

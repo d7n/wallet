@@ -1,1 +1,1 @@
-var mnemonic = "favorite shoulder educate cat garlic prefer romance renew anxiety enough reduce infant";
+var mnemonic = "voyage upper rib shaft above hour worry section record medal burger afford";

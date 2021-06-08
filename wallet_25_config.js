@@ -1,1 +1,1 @@
-var mnemonic = "bulb lucky when design hub wrist run gun student ozone inform forum";
+var mnemonic = "garlic craft fox cat mercy pair dynamic market human bullet word forest";

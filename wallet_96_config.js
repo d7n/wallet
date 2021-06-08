@@ -1,1 +1,1 @@
-var mnemonic = "flag beach pitch feed avoid mechanic use woman enact domain tribe prize";
+var mnemonic = "neutral ramp rebel coconut torch boil alien assist lounge question fiber critic";

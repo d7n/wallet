@@ -1,1 +1,1 @@
-var mnemonic = "hour believe surface risk endorse select sudden chase banner stay hospital pulp";
+var mnemonic = "rally mass title brave antique round honey post ozone draft brass indicate";

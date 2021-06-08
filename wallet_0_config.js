@@ -1,1 +1,1 @@
-var mnemonic = "sudden first amateur sand puppy leader payment senior music guide wasp gaze";
+var mnemonic = "obvious size swallow initial warfare deputy snow mango cram already license solve";

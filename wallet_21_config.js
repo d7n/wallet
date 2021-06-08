@@ -1,1 +1,1 @@
-var mnemonic = "face shaft scissors toe mushroom nuclear roof minimum clinic path short jar";
+var mnemonic = "old bright seat rotate nasty until effort shrimp february devote garlic bracket";

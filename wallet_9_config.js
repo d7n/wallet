@@ -1,1 +1,1 @@
-var mnemonic = "knee sight spawn spend win chimney response sphere nurse opinion flag slogan";
+var mnemonic = "cause snap long mention method addict fly brief cargo puppy try soccer";

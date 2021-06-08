@@ -1,1 +1,1 @@
-var mnemonic = "shed album switch expand robot elbow page prosper east measure give punch";
+var mnemonic = "latin radar pencil flag second machine garden air shrimp spice doctor ring";

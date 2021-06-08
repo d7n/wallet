@@ -1,1 +1,1 @@
-var mnemonic = "enhance height gallery uncle brush soccer culture tuna vintage purchase angle stand";
+var mnemonic = "base hollow various torch lady destroy fame pony salmon roof hobby rather";

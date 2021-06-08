@@ -1,1 +1,1 @@
-var mnemonic = "explain lunar team insane casual flavor journey vacant trumpet glove pig sister";
+var mnemonic = "unknown cave cool runway ugly company fetch knife boy sadness grocery inherit";

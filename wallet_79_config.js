@@ -1,1 +1,1 @@
-var mnemonic = "parrot bag exit adult balcony walk autumn country disorder blue wild neither";
+var mnemonic = "bulk truth fun cube member urge orange admit net chest toddler daughter";

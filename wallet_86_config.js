@@ -1,1 +1,1 @@
-var mnemonic = "intact use weapon result rude attract mouse kick ceiling expire current holiday";
+var mnemonic = "alter transfer damage bridge bean tortoise cruise board tenant truth monkey loud";

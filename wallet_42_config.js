@@ -1,1 +1,1 @@
-var mnemonic = "present buddy lift found basic brick fabric mandate glass deposit ripple grief";
+var mnemonic = "collect grid boat track satisfy chapter predict lawsuit cycle smooth someone wolf";

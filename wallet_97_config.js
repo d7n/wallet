@@ -1,1 +1,1 @@
-var mnemonic = "idea minor field spatial cluster furnace two outdoor behind extend jar analyst";
+var mnemonic = "chuckle holiday master target tortoise under domain boy mask absurd garden mask";

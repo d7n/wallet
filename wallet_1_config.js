@@ -1,1 +1,1 @@
-var mnemonic = "arrive cable vast twist rotate gesture squeeze jar cross beef mouse harsh";
+var mnemonic = "much simple skill stomach assist script lemon coyote person lake task own";

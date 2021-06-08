@@ -1,1 +1,1 @@
-var mnemonic = "tornado require coconut ranch pistol turn electric endless buzz pool endorse open";
+var mnemonic = "interest mimic job basket supply sausage lens ball skin trap pizza mirror";

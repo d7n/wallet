@@ -1,1 +1,1 @@
-var mnemonic = "update fatal exile still wave focus best report cover drum weird danger";
+var mnemonic = "jar drink flame business language predict dizzy ill salmon diet always echo";

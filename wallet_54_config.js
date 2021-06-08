@@ -1,1 +1,1 @@
-var mnemonic = "parrot tank strategy one breeze unhappy soft safe body soon struggle corn";
+var mnemonic = "keep lazy neither swamp snack bulb coconut sweet level give melody garment";

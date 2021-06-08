@@ -1,1 +1,1 @@
-var mnemonic = "invite fitness survey rule cost tail sun feature clump toward indoor inmate";
+var mnemonic = "fold brown priority box song exhaust impulse wink offer blood monkey dolphin";

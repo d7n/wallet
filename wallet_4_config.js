@@ -1,1 +1,1 @@
-var mnemonic = "learn card diary spare neglect enemy muscle vapor kite saddle outdoor amused";
+var mnemonic = "boring heavy guilt better dwarf produce sting smooth stairs term leader jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "other nice pelican nation run ankle picnic notice strong pair point beauty";
+var mnemonic = "robust soul turkey spell glide fade surprise hire seven august oil rain";

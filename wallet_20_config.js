@@ -1,1 +1,1 @@
-var mnemonic = "ball entire anchor movie spring badge sponsor nest tumble type peanut evolve";
+var mnemonic = "alien leg genius train country pistol wild push brave raw cabbage exhibit";

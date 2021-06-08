@@ -1,1 +1,1 @@
-var mnemonic = "casino same follow girl clay cloth hat online remind fork brush pave";
+var mnemonic = "will daring sun rival cave melt bean soldier radar earn slush income";
