@@ -1,1 +1,1 @@
-var mnemonic = "sock cotton neglect nation case liar photo eight host search alone become";
+var mnemonic = "jungle gate violin napkin deny wrestle mammal popular garage prefer museum dragon";

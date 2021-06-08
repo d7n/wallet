@@ -1,1 +1,1 @@
-var mnemonic = "blanket agree filter easy found woman twin icon danger later salmon olympic";
+var mnemonic = "sunny rather report inner task major warm salt play dice occur near";

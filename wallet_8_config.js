@@ -1,1 +1,1 @@
-var mnemonic = "gas vanish mutual rug ignore laugh absent miss carbon initial vacant carpet";
+var mnemonic = "stereo peanut gesture render script chicken olympic broom envelope joke gather tribe";

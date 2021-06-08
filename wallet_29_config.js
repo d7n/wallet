@@ -1,1 +1,1 @@
-var mnemonic = "cement pond stone wise effort rail fringe economy elegant tooth option recall";
+var mnemonic = "egg pair snack thumb develop topple science tiny lyrics deal loyal shuffle";

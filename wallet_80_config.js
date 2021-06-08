@@ -1,1 +1,1 @@
-var mnemonic = "ring sense imitate bless whale wall ensure more blur author slam air";
+var mnemonic = "crush announce thumb gospel garden category window fancy update predict vivid solution";

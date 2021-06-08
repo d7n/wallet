@@ -1,1 +1,1 @@
-var mnemonic = "across later antenna winter minimum foster tuition amazing spirit venue industry another";
+var mnemonic = "tennis bar craft assault marine require conduct anger borrow select ask affair";

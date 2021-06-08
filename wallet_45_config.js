@@ -1,1 +1,1 @@
-var mnemonic = "kiss gallery then adjust caution mixture drop obtain gather balcony force pottery";
+var mnemonic = "solar before sight income dirt thank brain velvet skin shuffle ball ugly";

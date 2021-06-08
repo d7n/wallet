@@ -1,1 +1,1 @@
-var mnemonic = "glide crawl cinnamon entry bunker turtle frame dish rookie oxygen aspect special";
+var mnemonic = "mirror foil voice metal inform expand wife artefact main want enjoy client";

@@ -1,1 +1,1 @@
-var mnemonic = "gather spot oven beef juice reopen usage immense buzz safe romance ribbon";
+var mnemonic = "twelve obtain ostrich maximum position state cluster huge chicken palace liquid skirt";

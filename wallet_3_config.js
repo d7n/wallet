@@ -1,1 +1,1 @@
-var mnemonic = "team debate evil stomach awesome column region valve trash water stereo recipe";
+var mnemonic = "lizard thank control creek ill tape situate super valley depend utility submit";

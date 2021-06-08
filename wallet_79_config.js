@@ -1,1 +1,1 @@
-var mnemonic = "cute mom awake picture husband bread shrimp label truth dust behave siren";
+var mnemonic = "friend subway senior donate token mango great volcano resource sing siege bird";

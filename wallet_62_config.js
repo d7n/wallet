@@ -1,1 +1,1 @@
-var mnemonic = "milk siege fee clog boil resist under hidden daring carpet truth harbor";
+var mnemonic = "combine sample left sick stool lab hammer dinosaur country decrease boring annual";

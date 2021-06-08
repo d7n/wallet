@@ -1,1 +1,1 @@
-var mnemonic = "spray setup twist rabbit hidden curve flat leader hand soda element vessel";
+var mnemonic = "nest bulb announce give cup alley bar frame scale later kind retreat";

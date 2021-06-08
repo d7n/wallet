@@ -1,1 +1,1 @@
-var mnemonic = "nice milk parrot smile source surprise broken lunar exhibit alone sing split";
+var mnemonic = "orient better income core seat evil grocery pumpkin pulp oven elephant soda";

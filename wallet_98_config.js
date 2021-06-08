@@ -1,1 +1,1 @@
-var mnemonic = "assume warrior bring where mistake gown lava unknown beauty poem key crucial";
+var mnemonic = "engage joy actress top addict tennis cram secret cry bubble impact hair";

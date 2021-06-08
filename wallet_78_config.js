@@ -1,1 +1,1 @@
-var mnemonic = "family frozen hub puppy never initial usual warrior arrange fence erase still";
+var mnemonic = "core glance letter talent bottom praise normal tobacco cart seat lab century";

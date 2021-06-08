@@ -1,1 +1,1 @@
-var mnemonic = "student wide scheme rack donate borrow unknown match enforce demise squirrel allow";
+var mnemonic = "guess rack unlock stock enact immune powder cute december favorite pulp lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "random cabbage bread exhibit six road spray betray nurse venture draw cook";
+var mnemonic = "mistake gown guess sample skirt liberty alcohol diesel direct layer runway banner";

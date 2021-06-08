@@ -1,1 +1,1 @@
-var mnemonic = "setup excuse twist capital brand resource reason retreat make saddle color tennis";
+var mnemonic = "coyote custom marriage early square census share process actual dad electric core";

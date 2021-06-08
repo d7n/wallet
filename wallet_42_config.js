@@ -1,1 +1,1 @@
-var mnemonic = "grief column only tail essay orbit final meat horn soap length laugh";
+var mnemonic = "kangaroo body amused deputy margin example cotton fall author tissue decrease autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "pool increase napkin stool web solar gesture street frog sample dismiss search";
+var mnemonic = "place beef chunk month spray shock extend lecture cactus crunch satoshi wrestle";

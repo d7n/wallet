@@ -1,1 +1,1 @@
-var mnemonic = "theory breeze screen impulse resemble pottery affair film space shop marble insane";
+var mnemonic = "episode topic salad spice produce sad clock ritual camp edit clump ice";

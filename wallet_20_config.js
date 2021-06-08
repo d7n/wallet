@@ -1,1 +1,1 @@
-var mnemonic = "force mountain bottom rough heavy emotion image crunch bulb fish cook all";
+var mnemonic = "aunt bridge tower height deal tent miss census truth garlic during tiger";

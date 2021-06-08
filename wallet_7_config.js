@@ -1,1 +1,1 @@
-var mnemonic = "fire unlock movie earth direct shoe zero gap blush cricket cabbage garlic";
+var mnemonic = "state ugly physical pencil buyer dance raven choose chuckle chase rescue wisdom";

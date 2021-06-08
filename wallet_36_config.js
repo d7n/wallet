@@ -1,1 +1,1 @@
-var mnemonic = "federal fossil size corn wisdom sausage repeat immune evidence amount crater fatal";
+var mnemonic = "record awake rent praise tray original museum ethics resemble list wedding lend";

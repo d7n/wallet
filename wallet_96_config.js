@@ -1,1 +1,1 @@
-var mnemonic = "arrange deer noodle twelve random maple target liquid doctor track hawk mystery";
+var mnemonic = "minute rural there usage turn garment swing flavor mention tongue cargo evidence";

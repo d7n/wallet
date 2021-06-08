@@ -1,1 +1,1 @@
-var mnemonic = "leader castle plastic problem amazing section scare upgrade razor cave paddle chief";
+var mnemonic = "script wrist napkin hip round elephant picnic exile solve help minor scheme";

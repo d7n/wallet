@@ -1,1 +1,1 @@
-var mnemonic = "point critic tissue motor victory long tackle range victory early chat victory";
+var mnemonic = "goose bronze negative juice aspect general foster nice leisure magnet hill dance";

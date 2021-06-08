@@ -1,1 +1,1 @@
-var mnemonic = "welcome trade cliff name joy spider pelican capital legend milk enough chief";
+var mnemonic = "auction clip boy couple entire lift target scrap dutch ship mention label";

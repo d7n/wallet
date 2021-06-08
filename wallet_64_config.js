@@ -1,1 +1,1 @@
-var mnemonic = "strike air nurse correct draft draft slice practice victory sick vanish bunker";
+var mnemonic = "pelican arrange nominee roof trouble cabin wrist donor budget remember december atom";

@@ -1,1 +1,1 @@
-var mnemonic = "joke double bitter soft innocent aisle quit occur use spoon soft owner";
+var mnemonic = "public shine need deputy message lawn various umbrella point spring vacant gallery";

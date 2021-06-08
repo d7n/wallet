@@ -1,1 +1,1 @@
-var mnemonic = "rude doctor wall donkey legend concert ivory demise ready climb genius ramp";
+var mnemonic = "exit pole planet whip accuse solid pipe family keep hunt torch crew";

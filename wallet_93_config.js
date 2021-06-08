@@ -1,1 +1,1 @@
-var mnemonic = "now october patient digital all drum easily gloom afraid grape reject federal";
+var mnemonic = "cave play eye exercise allow pen various erosion total unfold chest age";

@@ -1,1 +1,1 @@
-var mnemonic = "object mutual pretty oven share frozen busy long acoustic add opinion crouch";
+var mnemonic = "gorilla essence grit rice exclude annual gown load tuna fantasy slogan wedding";

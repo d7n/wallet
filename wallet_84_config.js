@@ -1,1 +1,1 @@
-var mnemonic = "call infant fitness feed beauty excess deputy candy sort tool pass about";
+var mnemonic = "such setup divide nest sadness guitar error leisure onion galaxy chase attack";

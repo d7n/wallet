@@ -1,1 +1,1 @@
-var mnemonic = "angle cram wall thrive obvious scorpion crucial slight remain angle next dial";
+var mnemonic = "place pause dwarf muffin oak invite blur destroy source switch thrive title";

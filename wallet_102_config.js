@@ -1,1 +1,1 @@
-var mnemonic = "shock lunch habit blood giant acid odor erupt buzz crawl vanish embrace";
+var mnemonic = "put link south genre remember summer wet tomorrow manual upon duck town";

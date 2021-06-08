@@ -1,1 +1,1 @@
-var mnemonic = "ten icon bar share child such aerobic drama because cause black monitor";
+var mnemonic = "health guitar wool property youth liberty three such drift give path scrap";

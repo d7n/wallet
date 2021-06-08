@@ -1,1 +1,1 @@
-var mnemonic = "fatigue food task learn tell palm vacant nominee illness income unaware virus";
+var mnemonic = "learn swallow wasp unable ship cake hotel swing fever shove only also";

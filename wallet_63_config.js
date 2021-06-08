@@ -1,1 +1,1 @@
-var mnemonic = "fossil empower rain chimney dove syrup mammal spoil else volume north powder";
+var mnemonic = "tail input drip broken hard vivid deal ball lion eight lunch stand";

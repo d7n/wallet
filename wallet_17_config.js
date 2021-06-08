@@ -1,1 +1,1 @@
-var mnemonic = "exclude resemble castle auction wet fence gesture settle pumpkin width latin pave";
+var mnemonic = "treat slow wheel soccer crowd pledge peasant reason hurdle artist mention neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "drip leisure jelly gas tower morning phrase crawl inch device upgrade alter";
+var mnemonic = "dice deliver garden small source ten shock retreat space merit lunar essay";

@@ -1,1 +1,1 @@
-var mnemonic = "found capable input thumb detail quote quality joy mosquito ski garden gossip";
+var mnemonic = "intact arrow door mind market early lecture practice gasp forward load caught";

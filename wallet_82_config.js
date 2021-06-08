@@ -1,1 +1,1 @@
-var mnemonic = "bracket scrap element rose broom dry modify pull ski fit soldier change";
+var mnemonic = "liar permit keep cheap desert diagram birth album shuffle similar urban ability";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy quote much venture cube favorite tool orient clean social oak radar";
+var mnemonic = "unfair box enough screen oval hospital random sibling gentle liberty initial crack";

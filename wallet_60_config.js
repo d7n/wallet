@@ -1,1 +1,1 @@
-var mnemonic = "field provide acid luggage thrive link tube guilt stage diamond cloud syrup";
+var mnemonic = "buyer remove author success win indicate machine tumble magic trim imitate chair";

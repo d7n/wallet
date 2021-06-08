@@ -1,1 +1,1 @@
-var mnemonic = "valve sentence tomorrow soccer loan curious loud differ essay hockey cash wrong";
+var mnemonic = "faint swallow plunge enroll extra jeans wash chest market green steak honey";

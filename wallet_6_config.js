@@ -1,1 +1,1 @@
-var mnemonic = "squeeze hybrid library drum nephew error unveil all glove margin reason bubble";
+var mnemonic = "gloom entry chalk person cattle reveal bless loan open jeans stumble profit";

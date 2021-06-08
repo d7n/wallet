@@ -1,1 +1,1 @@
-var mnemonic = "popular economy fantasy priority eager tomato glance worry field pink coral online";
+var mnemonic = "focus almost someone matrix payment sign say peace jaguar cloud leisure radar";

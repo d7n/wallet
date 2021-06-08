@@ -1,1 +1,1 @@
-var mnemonic = "chronic echo deliver ranch bone broom equal trust harvest ivory hole link";
+var mnemonic = "again flight salad human chef diamond birth danger foil rally square snake";

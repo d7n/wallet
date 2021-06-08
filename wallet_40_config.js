@@ -1,1 +1,1 @@
-var mnemonic = "beach cook exist dad route march hero message vicious square urge address";
+var mnemonic = "sad prepare syrup castle middle leave guard taxi impose bamboo sea hobby";

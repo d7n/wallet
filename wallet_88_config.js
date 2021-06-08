@@ -1,1 +1,1 @@
-var mnemonic = "certain tumble merit fresh already morning indicate mirror sure dwarf carbon joy";
+var mnemonic = "cigar speak chase episode decline approve woman exercise episode purchase gossip disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern cup win twin isolate butter family radar pulp tooth breeze clock";
+var mnemonic = "strong evolve pipe style gesture obscure candy wreck royal enroll steak play";

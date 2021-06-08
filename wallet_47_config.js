@@ -1,1 +1,1 @@
-var mnemonic = "solid note gravity lift very drama cream elephant theory advice client veteran";
+var mnemonic = "ocean chair prevent retreat door foot crew brown aerobic squirrel slush simple";

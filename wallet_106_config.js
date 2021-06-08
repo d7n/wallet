@@ -1,1 +1,1 @@
-var mnemonic = "weird avoid dentist network town much piece economy caught near gadget erode";
+var mnemonic = "early duty grain loop boss buffalo morning flee like world actress gauge";

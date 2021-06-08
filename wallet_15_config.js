@@ -1,1 +1,1 @@
-var mnemonic = "nature front rough bargain struggle parent century effort artwork attend horn tongue";
+var mnemonic = "frozen dose clown champion manage thunder call window category attack virus that";

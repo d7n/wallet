@@ -1,1 +1,1 @@
-var mnemonic = "tip absent cigar answer plate junk celery glue chair have speak man";
+var mnemonic = "donate shy panic rubber uncover pond welcome jazz away unfair nerve woman";

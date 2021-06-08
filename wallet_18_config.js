@@ -1,1 +1,1 @@
-var mnemonic = "cloth decade excess stay creek suffer romance save strong wreck drill direct";
+var mnemonic = "debris soda alert win debris pull hybrid gorilla just sketch foil despair";

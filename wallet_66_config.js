@@ -1,1 +1,1 @@
-var mnemonic = "around pride limb unique deer profit key game response aspect merge sudden";
+var mnemonic = "egg road flower grain rose evidence run sudden nephew matter turn thank";

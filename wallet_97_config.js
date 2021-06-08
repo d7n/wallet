@@ -1,1 +1,1 @@
-var mnemonic = "choose vocal service burst sort village all trade play wage floor inject";
+var mnemonic = "scare fire hedgehog misery force series ticket rail float will black common";

@@ -1,1 +1,1 @@
-var mnemonic = "home wedding explain venue success clip motion lyrics ecology marriage ancient winner";
+var mnemonic = "climb subway tuna hollow oil team hello valid indicate must depart bacon";

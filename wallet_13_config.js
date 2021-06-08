@@ -1,1 +1,1 @@
-var mnemonic = "review easily practice prosper hidden word feel small cigar music oppose argue";
+var mnemonic = "stumble giraffe inherit aunt sense casino essay sea inspire thunder dinner that";

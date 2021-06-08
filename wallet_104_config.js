@@ -1,1 +1,1 @@
-var mnemonic = "cave brass lizard submit section legend always verify float resource swallow abstract";
+var mnemonic = "second retreat already another exclude cactus hundred globe person twenty glide afford";

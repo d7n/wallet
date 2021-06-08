@@ -1,1 +1,1 @@
-var mnemonic = "turn force clump sock furnace subway merit pass dove salon small quantum";
+var mnemonic = "sail field husband fit educate citizen casino adapt process lawsuit advice process";

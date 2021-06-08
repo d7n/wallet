@@ -1,1 +1,1 @@
-var mnemonic = "secret fan upon cube need violin vivid favorite little cheap impulse project";
+var mnemonic = "bulk engage master same matrix admit fun sunny casual admit despair divorce";

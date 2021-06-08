@@ -1,1 +1,1 @@
-var mnemonic = "alter glow paddle advice vocal sponsor high winter laptop cart hint wagon";
+var mnemonic = "tomato depend battle birth army same medal balance fox blossom junior flock";

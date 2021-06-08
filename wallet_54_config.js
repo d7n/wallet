@@ -1,1 +1,1 @@
-var mnemonic = "void keep shop turn cannon all found figure method assume dilemma company";
+var mnemonic = "wing ready plunge maid lunch find holiday door wolf charge about shed";

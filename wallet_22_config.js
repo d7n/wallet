@@ -1,1 +1,1 @@
-var mnemonic = "floor unusual member laptop sibling family oppose method air series bike custom";
+var mnemonic = "media cave coil insane inner afford remove eight novel basket summer void";

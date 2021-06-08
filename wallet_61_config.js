@@ -1,1 +1,1 @@
-var mnemonic = "setup work victory rebuild swim march later weekend vapor length draw royal";
+var mnemonic = "cry tuna estate ticket bundle direct zero clump camp agent lend excite";

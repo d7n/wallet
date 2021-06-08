@@ -1,1 +1,1 @@
-var mnemonic = "spot setup frame suffer roast broom fever imitate seat scout secret clip";
+var mnemonic = "vague vacuum fish saddle summer angle board flip found rival lab blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "zero hawk crucial sketch exchange inch common spider mention custom project now";
+var mnemonic = "thank book vendor this monster pond virtual awake index unique flight shoot";

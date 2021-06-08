@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow squirrel sorry pumpkin chef member find panda canal rather over female";
+var mnemonic = "keep devote print trigger diet impose quarter gasp slow all weekend nice";

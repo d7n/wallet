@@ -1,1 +1,1 @@
-var mnemonic = "soda accident stool fee venture demand bargain camera other october drama evil";
+var mnemonic = "key rotate high carpet neglect script old daughter effort rare solve trend";

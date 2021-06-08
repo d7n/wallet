@@ -1,1 +1,1 @@
-var mnemonic = "list wish thought vague bless poem reunion pause airport vacant check eternal";
+var mnemonic = "anchor spring rent turn luxury basic core flush nasty tooth quarter robot";

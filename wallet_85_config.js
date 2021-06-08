@@ -1,1 +1,1 @@
-var mnemonic = "light talent crash gas boil right drastic vicious radio industry produce great";
+var mnemonic = "sample cross disorder laugh agree earn debate useless use problem chapter begin";

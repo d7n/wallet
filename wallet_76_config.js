@@ -1,1 +1,1 @@
-var mnemonic = "grid kid chunk cupboard often result fault effort rocket like hidden sketch";
+var mnemonic = "actress define panther fence resource skin solution easy road reunion mushroom kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "opera timber matter obtain curious melt must safe sure brain wild crazy";
+var mnemonic = "joke armed sting company sadness rubber push flush word affair sponsor agent";

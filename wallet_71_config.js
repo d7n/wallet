@@ -1,1 +1,1 @@
-var mnemonic = "hospital spirit strong marriage indoor chunk daring decorate orbit salute brand narrow";
+var mnemonic = "horn brother discover suggest ritual scrub ridge napkin cricket crowd spin tornado";

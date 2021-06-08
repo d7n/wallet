@@ -1,1 +1,1 @@
-var mnemonic = "thank off remind shop physical banana vessel record object arm cherry minimum";
+var mnemonic = "volume brave humor medal wreck split slow nation siege actual parade inspire";

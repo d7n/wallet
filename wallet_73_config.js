@@ -1,1 +1,1 @@
-var mnemonic = "lumber hollow blossom cool leisure betray small disorder scale promote bring tide";
+var mnemonic = "describe stove dizzy head wonder shop club spoil season sadness little climb";

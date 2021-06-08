@@ -1,1 +1,1 @@
-var mnemonic = "true diary coach tool shrimp memory shiver engine beach viable return warrior";
+var mnemonic = "metal clap pole tumble peasant sad shine east spoil flee solution fatal";

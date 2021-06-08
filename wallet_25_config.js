@@ -1,1 +1,1 @@
-var mnemonic = "output evidence yellow attract inform forum saddle grocery desert equal convince lounge";
+var mnemonic = "trust gift roof vessel accuse very dilemma rubber shove access help unit";

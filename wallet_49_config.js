@@ -1,1 +1,1 @@
-var mnemonic = "lobster bundle relax imitate remember cause embark shove female input trial lemon";
+var mnemonic = "burst glow real live robot fortune shield depth federal gravity joke zebra";

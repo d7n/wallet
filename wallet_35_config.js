@@ -1,1 +1,1 @@
-var mnemonic = "work sheriff bronze soup offer target comfort say about leave labor erode";
+var mnemonic = "dog pool now emerge behave crane quiz physical squeeze aunt people frog";

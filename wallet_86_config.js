@@ -1,1 +1,1 @@
-var mnemonic = "logic mail balcony gym earth cloth provide dizzy zone hammer cycle jungle";
+var mnemonic = "puzzle cinnamon gasp debate rain have siren shell put fold blame march";
