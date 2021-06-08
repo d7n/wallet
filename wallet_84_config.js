@@ -1,1 +1,1 @@
-var mnemonic = "release cattle million kiss remove balance all beach churn grain episode horn";
+var mnemonic = "solar donate steel salon april bonus cruise dignity firm physical fish caught";

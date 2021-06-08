@@ -1,1 +1,1 @@
-var mnemonic = "jealous satisfy artwork camera leopard cheap offer effort social release nation search";
+var mnemonic = "dumb agree aim someone script cousin height work tourist nature bird praise";

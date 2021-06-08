@@ -1,1 +1,1 @@
-var mnemonic = "favorite language pride enforce front sentence marine only supreme print juice alert";
+var mnemonic = "churn demise stick amount venue struggle gospel put enact harvest road fresh";

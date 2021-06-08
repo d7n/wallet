@@ -1,1 +1,1 @@
-var mnemonic = "poverty clip require giggle abandon dice calm canvas profit mechanic betray remain";
+var mnemonic = "earn sponsor merit detail cactus theory clip use draw siren enter achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "young exact robot can spring jealous copy hockey ranch mimic bright object";
+var mnemonic = "slow fire success pool town cat canyon mother program broken vocal border";

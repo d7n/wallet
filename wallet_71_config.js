@@ -1,1 +1,1 @@
-var mnemonic = "cash disorder virus indoor below merge hero smoke country health palace charge";
+var mnemonic = "maple few lawsuit ostrich grace history defy veteran puzzle flavor bleak brown";

@@ -1,1 +1,1 @@
-var mnemonic = "chef annual capital right smoke mango climb open roast witness local frequent";
+var mnemonic = "demise champion element junk modify argue swamp brick tank pink merry thing";

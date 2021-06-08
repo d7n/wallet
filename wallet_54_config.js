@@ -1,1 +1,1 @@
-var mnemonic = "usual ten insect dwarf clinic tongue romance deny arm off practice snake";
+var mnemonic = "light mountain open know peasant wonder game weekend online box cigar benefit";

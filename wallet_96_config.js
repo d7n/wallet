@@ -1,1 +1,1 @@
-var mnemonic = "economy below group catch mixture sound capital mimic pretty wheat drill section";
+var mnemonic = "tackle normal lobster spider place boat electric cake envelope marriage question demand";

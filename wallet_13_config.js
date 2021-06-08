@@ -1,1 +1,1 @@
-var mnemonic = "purse profit lava silver harbor razor garage review kit hockey robust basic";
+var mnemonic = "van unique steak enemy inch already young coconut accuse session film cruise";

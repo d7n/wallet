@@ -1,1 +1,1 @@
-var mnemonic = "vanish quit battle raccoon joke electric delay walk put mask print opinion";
+var mnemonic = "water novel merit corn weekend father crunch weasel desk actual switch goat";

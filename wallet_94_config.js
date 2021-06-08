@@ -1,1 +1,1 @@
-var mnemonic = "lens penalty ice other marine sell brief upon stairs wood potato vendor";
+var mnemonic = "wrong record vocal print genius ostrich bullet hen any force lucky add";

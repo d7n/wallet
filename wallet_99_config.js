@@ -1,1 +1,1 @@
-var mnemonic = "cement excite edit mandate august village whale grace mad drop census chalk";
+var mnemonic = "void shallow hair clinic wreck chest ramp buyer decorate miss merge mushroom";

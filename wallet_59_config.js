@@ -1,1 +1,1 @@
-var mnemonic = "motor eternal manage famous walk nephew design desert motion deposit fade frequent";
+var mnemonic = "ask round member iron globe pretty lumber whisper palace grunt tree believe";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum isolate crowd seven scorpion verb assault solve knee spy crisp country";
+var mnemonic = "garbage credit tuna slogan giant crucial talent mountain human winter adjust wine";

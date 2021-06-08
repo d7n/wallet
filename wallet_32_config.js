@@ -1,1 +1,1 @@
-var mnemonic = "minimum tuition find nothing brief endorse convince frown ability flush card found";
+var mnemonic = "employ rifle strike exchange chalk express open depart cricket planet thumb soul";

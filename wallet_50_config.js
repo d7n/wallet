@@ -1,1 +1,1 @@
-var mnemonic = "exotic rail embark tide suspect inhale brave satisfy month typical pig resist";
+var mnemonic = "kind file rare baby cliff remember moment slow position click album boost";

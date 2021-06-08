@@ -1,1 +1,1 @@
-var mnemonic = "guard despair hint million buzz click patch jelly library lemon unfold next";
+var mnemonic = "shove advice suffer hybrid note corn rug diagram notable help manual tiger";

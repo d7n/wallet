@@ -1,1 +1,1 @@
-var mnemonic = "lamp lottery exhaust clown proof pottery steel item air banner chimney double";
+var mnemonic = "cloud kangaroo essay stable exchange once dismiss imitate wheel patrol setup stove";

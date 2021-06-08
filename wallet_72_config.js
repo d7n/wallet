@@ -1,1 +1,1 @@
-var mnemonic = "goat load spike wish head shield art manage arrow jeans soda toe";
+var mnemonic = "palm sunny rich slight nerve orchard riot fruit drama win carpet charge";

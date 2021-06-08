@@ -1,1 +1,1 @@
-var mnemonic = "federal ridge sadness ribbon carry release slide unfold kite memory feed fox";
+var mnemonic = "ship escape tattoo slam gown dune knee fix slam coconut slice hungry";

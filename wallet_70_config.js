@@ -1,1 +1,1 @@
-var mnemonic = "deputy since member cruel example cattle ugly wisdom find foster dentist tongue";
+var mnemonic = "isolate always north turkey gospel body hope pottery camera family pen among";

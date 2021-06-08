@@ -1,1 +1,1 @@
-var mnemonic = "artwork tornado demand inflict illness credit pledge horse derive another soup thought";
+var mnemonic = "oil hybrid repeat general custom domain fox goose anchor find meadow glide";

@@ -1,1 +1,1 @@
-var mnemonic = "mule swim mix output drill sword buffalo empty umbrella please margin also";
+var mnemonic = "know oxygen return kit anger find despair athlete follow gadget silk age";

@@ -1,1 +1,1 @@
-var mnemonic = "desert way sure link baby sock note match shield tattoo velvet front";
+var mnemonic = "tennis peasant awesome slot jacket chest pigeon blossom end float various dial";

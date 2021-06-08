@@ -1,1 +1,1 @@
-var mnemonic = "estate snake gym quit muffin desert luggage moral machine broccoli dice move";
+var mnemonic = "record merry hill hurdle meadow attitude praise business often swim tired pretty";

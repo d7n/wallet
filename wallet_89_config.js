@@ -1,1 +1,1 @@
-var mnemonic = "task fluid setup salad allow chapter away meat decide breeze kick morning";
+var mnemonic = "hotel search salad vehicle couple crush sand disease dad violin beauty mechanic";

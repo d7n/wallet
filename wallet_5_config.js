@@ -1,1 +1,1 @@
-var mnemonic = "sting garbage cash cloth empty debris course click marble joy long woman";
+var mnemonic = "wrist shield space remember piano valid job nerve isolate all item fever";

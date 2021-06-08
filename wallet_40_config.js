@@ -1,1 +1,1 @@
-var mnemonic = "tiny easy tourist snap lake puppy solution damage save pipe wedding shield";
+var mnemonic = "sweet film aim make bus stadium foil outdoor theme best price eternal";

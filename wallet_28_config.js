@@ -1,1 +1,1 @@
-var mnemonic = "vibrant viable license until proof era soul library oil deal toward student";
+var mnemonic = "shove suffer harvest jelly vapor photo cattle clog veteran fame example pole";

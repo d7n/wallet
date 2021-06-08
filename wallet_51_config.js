@@ -1,1 +1,1 @@
-var mnemonic = "wasp hold mercy pretty heart silver tissue soccer shell race retreat gorilla";
+var mnemonic = "impulse chronic arctic jealous jump omit boy foot gravity truck survey silver";

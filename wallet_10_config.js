@@ -1,1 +1,1 @@
-var mnemonic = "rose cloth coast picture blade armed blind oppose bitter venture tenant salad";
+var mnemonic = "food scene mean rocket oppose better owner jelly valve leopard hour example";

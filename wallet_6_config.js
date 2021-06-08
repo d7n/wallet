@@ -1,1 +1,1 @@
-var mnemonic = "wisdom talent noodle garment denial face note inmate lab throw recipe tonight";
+var mnemonic = "useless gasp despair axis patrol culture door until chef indicate shop sock";

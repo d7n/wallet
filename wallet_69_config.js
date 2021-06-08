@@ -1,1 +1,1 @@
-var mnemonic = "cloud true output push angle raven street celery vintage nose foil script";
+var mnemonic = "carpet innocent again opinion life much peanut cat high hundred person brass";

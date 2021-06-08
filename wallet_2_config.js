@@ -1,1 +1,1 @@
-var mnemonic = "lumber idle sketch member disagree inmate suspect easy twist twin ensure host";
+var mnemonic = "smart joke royal between eight buffalo inner shock pattern popular thrive any";

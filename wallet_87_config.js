@@ -1,1 +1,1 @@
-var mnemonic = "fix shoulder chimney plug strike hover legal train detect sea picture inside";
+var mnemonic = "crater chest aspect young apple include phrase critic rich image range crumble";

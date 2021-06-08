@@ -1,1 +1,1 @@
-var mnemonic = "cave angry resemble party wink cool universe bonus note urban lunch toast";
+var mnemonic = "sight sort square grass strike rain fury fun catalog denial sell hand";

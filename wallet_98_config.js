@@ -1,1 +1,1 @@
-var mnemonic = "seed extend rhythm fabric item express speak lake ghost stable matter eagle";
+var mnemonic = "will load have vicious ability copper hospital mind case normal crater sample";

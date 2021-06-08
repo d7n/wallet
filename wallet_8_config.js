@@ -1,1 +1,1 @@
-var mnemonic = "evil picnic peanut arch dress swift wedding genuine fox shrimp snake someone";
+var mnemonic = "year athlete student lottery hold scout pig enforce neglect ice apart shift";

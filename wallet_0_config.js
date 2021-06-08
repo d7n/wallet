@@ -1,1 +1,1 @@
-var mnemonic = "twin syrup valley plate thrive rib rich sudden proud december chronic suit";
+var mnemonic = "virus arrange devote leg cup ignore reopen spend purity used style animal";

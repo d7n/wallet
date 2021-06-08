@@ -1,1 +1,1 @@
-var mnemonic = "smart scene shine follow honey carbon ill vacuum birth mean surge deny";
+var mnemonic = "zero shadow purse expect media outdoor combine tube elite quarter scare fault";

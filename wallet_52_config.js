@@ -1,1 +1,1 @@
-var mnemonic = "hole uncover task stamp draw image impact melody uniform material inquiry shuffle";
+var mnemonic = "catch crane border mule mistake banner movie exhaust broccoli media dream weekend";

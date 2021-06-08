@@ -1,1 +1,1 @@
-var mnemonic = "inquiry certain mixture much hungry dish cover choose today liar sad donate";
+var mnemonic = "half portion aunt puppy fog dice rescue miracle aware basic vessel knee";

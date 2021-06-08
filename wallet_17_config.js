@@ -1,1 +1,1 @@
-var mnemonic = "hard spoil lecture crystal clean blame secret good damage way decade front";
+var mnemonic = "chief know illegal minute filter twin april blue gadget spirit mammal clarify";

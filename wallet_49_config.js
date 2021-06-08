@@ -1,1 +1,1 @@
-var mnemonic = "assault increase embark slide rate phrase coast click state scrub urge tomato";
+var mnemonic = "silent federal audit foil error twelve hamster attract sign remove cloth buzz";

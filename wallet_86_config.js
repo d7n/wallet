@@ -1,1 +1,1 @@
-var mnemonic = "wonder border buffalo patrol foster section hero spy empower wrong unable basket";
+var mnemonic = "main blind sport omit glad wet month turkey symptom play recipe swap";

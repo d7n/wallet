@@ -1,1 +1,1 @@
-var mnemonic = "initial custom tissue circle maple piano oak happy length day unhappy purchase";
+var mnemonic = "throw demise gun crash case north simple carbon inhale shiver velvet rice";

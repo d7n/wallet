@@ -1,1 +1,1 @@
-var mnemonic = "glimpse burger cube response someone scissors nothing fashion rich describe rival bid";
+var mnemonic = "faculty track trick element question secret desk ring soccer current mirror assault";

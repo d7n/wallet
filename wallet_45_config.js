@@ -1,1 +1,1 @@
-var mnemonic = "begin hand early dirt outer list discover tornado burden pole muffin erase";
+var mnemonic = "bounce verify math stem mixture fix journey awesome level wheat please cross";

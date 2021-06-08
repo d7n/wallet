@@ -1,1 +1,1 @@
-var mnemonic = "night pipe camera dune code lizard modify ostrich struggle thought element around";
+var mnemonic = "flee weekend snow shrug derive before trade dose gauge aspect grunt coyote";

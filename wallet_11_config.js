@@ -1,1 +1,1 @@
-var mnemonic = "antenna fall stamp rebel list autumn item casual undo beef air float";
+var mnemonic = "swarm unlock wear stand device deer alley frown describe theme town february";

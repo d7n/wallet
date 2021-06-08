@@ -1,1 +1,1 @@
-var mnemonic = "route thing jacket recall invest leisure subject excess brush token column era";
+var mnemonic = "pretty season mad resource grit coffee rebuild expire senior genre door carbon";

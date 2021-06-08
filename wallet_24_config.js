@@ -1,1 +1,1 @@
-var mnemonic = "budget duck sniff sweet once alone salmon outer bounce super great tuna";
+var mnemonic = "shed grace sock guilt drum riot lion sound clean side nephew credit";

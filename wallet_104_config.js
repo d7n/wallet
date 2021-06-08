@@ -1,1 +1,1 @@
-var mnemonic = "series carry hero wool fee clay citizen access canyon noodle coast involve";
+var mnemonic = "recycle boy trumpet truth inherit before heavy better habit decline impulse vote";

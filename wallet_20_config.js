@@ -1,1 +1,1 @@
-var mnemonic = "puzzle pistol hungry stock because torch deer soft minute lava chase fence";
+var mnemonic = "more rocket sport penalty warrior market novel omit category curtain coast coach";

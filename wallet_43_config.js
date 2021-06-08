@@ -1,1 +1,1 @@
-var mnemonic = "steak biology ignore roast quiz jeans scheme soda stairs pioneer link game";
+var mnemonic = "method initial south pig warfare fluid cherry expose flush pink royal shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "version legend bone laundry saddle zoo human taste squirrel token into size";
+var mnemonic = "ribbon inject curve danger dove patrol run quit slight angry blue kangaroo";

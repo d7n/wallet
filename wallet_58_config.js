@@ -1,1 +1,1 @@
-var mnemonic = "neglect idea before able ride switch plug judge lumber anchor omit good";
+var mnemonic = "corn magic fever damp tell nest retire pioneer only elephant season type";

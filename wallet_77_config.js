@@ -1,1 +1,1 @@
-var mnemonic = "grace drastic arrow size panda injury outside exhibit skill master firm update";
+var mnemonic = "head paddle nut disorder steel absent crouch ranch claw marble citizen vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "ship mad urban stool excite need gym actual noble require dentist inmate";
+var mnemonic = "over recipe category latin series hair topic vivid garment snack ski quote";

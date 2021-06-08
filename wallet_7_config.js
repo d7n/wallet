@@ -1,1 +1,1 @@
-var mnemonic = "double tomato rescue drop bulk exact argue milk tilt across replace venue";
+var mnemonic = "cloud message expose topic toe result guard enhance skate mistake limb master";

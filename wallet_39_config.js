@@ -1,1 +1,1 @@
-var mnemonic = "head hand cash fish banner sheriff away giraffe amateur detect cream sad";
+var mnemonic = "powder hold moral siege earth eye trouble frozen never eye explain slice";

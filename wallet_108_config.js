@@ -1,1 +1,1 @@
-var mnemonic = "host patient joke mountain undo ankle label shock gas wash process teach";
+var mnemonic = "dash give negative glove sudden embody lady often husband equip foil aim";

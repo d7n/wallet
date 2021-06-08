@@ -1,1 +1,1 @@
-var mnemonic = "bread monitor dust grit list eye acquire banner slice surface breeze short";
+var mnemonic = "salute pudding friend select session refuse rabbit price motor clinic extend scrub";

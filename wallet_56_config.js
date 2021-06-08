@@ -1,1 +1,1 @@
-var mnemonic = "memory ghost despair oak boost hedgehog area practice hockey clarify tree ethics";
+var mnemonic = "measure bomb suggest field warfare rural hospital boring recipe predict force brief";

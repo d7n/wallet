@@ -1,1 +1,1 @@
-var mnemonic = "park harvest acquire gadget add february blush lock effort eternal mercy swarm";
+var mnemonic = "ten grit harvest coil easily renew artwork cube rain spirit satisfy enemy";

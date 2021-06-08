@@ -1,1 +1,1 @@
-var mnemonic = "useless syrup order labor pause venture connect okay reduce cabbage brisk ostrich";
+var mnemonic = "stay trap grace lady sport fly mad poet soccer abuse mirror flower";

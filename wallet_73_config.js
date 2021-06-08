@@ -1,1 +1,1 @@
-var mnemonic = "gun over crunch action shoe stable struggle ordinary host garage bike puzzle";
+var mnemonic = "lock flush select click moon first embody rely security beyond rich vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal insect race quit amazing nasty drop raw moon deal cherry order";
+var mnemonic = "muffin draft near rely lounge puppy tumble aspect frequent innocent august ankle";

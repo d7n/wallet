@@ -1,1 +1,1 @@
-var mnemonic = "mystery alert physical way claw ritual where gun news ticket change despair";
+var mnemonic = "ecology uniform valve tongue energy universe balance deputy torch name nose library";

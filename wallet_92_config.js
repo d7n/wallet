@@ -1,1 +1,1 @@
-var mnemonic = "lunar great lawsuit rain idea clutch apology marine toss delay student develop";
+var mnemonic = "reform reveal document under rabbit trip voice utility left debris cage slender";

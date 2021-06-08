@@ -1,1 +1,1 @@
-var mnemonic = "frequent final equip drink spell dad course host comfort accuse rescue raven";
+var mnemonic = "give shuffle come visual couch blush february evidence praise village rent vote";

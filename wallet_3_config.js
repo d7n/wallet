@@ -1,1 +1,1 @@
-var mnemonic = "person caution used chat roast core curious country follow minute case deny";
+var mnemonic = "gentle since trumpet paddle orphan history dismiss hen piece truck security series";

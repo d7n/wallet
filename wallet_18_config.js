@@ -1,1 +1,1 @@
-var mnemonic = "casino enlist direct million mixed old ostrich tattoo banana duck face memory";
+var mnemonic = "twin pool duck today pretty enroll core catch enact simple produce odor";

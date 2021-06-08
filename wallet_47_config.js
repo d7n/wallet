@@ -1,1 +1,1 @@
-var mnemonic = "girl flock keen define tip ensure refuse fossil faith patch strong leader";
+var mnemonic = "abuse ensure yellow raw cabbage sting spray paper snack desk craft essay";

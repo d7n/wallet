@@ -1,1 +1,1 @@
-var mnemonic = "rain true live fragile click position blame palace display list trim bitter";
+var mnemonic = "cute bitter govern thunder fit trash slender home circle random verify humor";

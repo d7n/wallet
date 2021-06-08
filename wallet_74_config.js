@@ -1,1 +1,1 @@
-var mnemonic = "appear pave room female love actor swear clay idle media burst gallery";
+var mnemonic = "female enable swear easily cube world differ escape proof day bullet cage";

@@ -1,1 +1,1 @@
-var mnemonic = "give pepper enact cost miracle tool another ability first sausage sniff song";
+var mnemonic = "weasel mouse jewel weapon lesson want segment offer order actor path vacuum";

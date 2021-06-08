@@ -1,1 +1,1 @@
-var mnemonic = "exhaust liberty mule situate wine merry vanish retreat mean stock clock knock";
+var mnemonic = "high reopen enjoy crumble police bird actual body helmet chef ball pudding";

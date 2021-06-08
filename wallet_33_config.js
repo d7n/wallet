@@ -1,1 +1,1 @@
-var mnemonic = "invest drop street number toy skill style addict toddler timber scorpion talk";
+var mnemonic = "ugly step labor pluck broccoli flag depth label blur cruel make stove";

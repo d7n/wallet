@@ -1,1 +1,1 @@
-var mnemonic = "scrub claw also chicken border pony bracket need dragon sign picture rare";
+var mnemonic = "copper black knee screen voice auction mail floor type casual radio pilot";

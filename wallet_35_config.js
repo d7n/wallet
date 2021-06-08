@@ -1,1 +1,1 @@
-var mnemonic = "craft spread defy case injury vast wrestle wealth sport muffin wrist sponsor";
+var mnemonic = "approve taste various cinnamon find coffee obtain right caution wire need youth";

@@ -1,1 +1,1 @@
-var mnemonic = "similar nothing border gown flight confirm hat air lyrics coral east give";
+var mnemonic = "crop finger nasty bomb penalty field belt maid canyon barely riot quit";

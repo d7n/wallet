@@ -1,1 +1,1 @@
-var mnemonic = "among come fish ride property debate enhance drill forward stable book loop";
+var mnemonic = "electric scene believe demand salute fence clay task hobby become shuffle spirit";

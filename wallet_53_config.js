@@ -1,1 +1,1 @@
-var mnemonic = "ripple panel depth west bracket dignity suspect derive model giggle purpose spoil";
+var mnemonic = "recycle spike razor session salute able sauce custom climb climb bamboo sea";

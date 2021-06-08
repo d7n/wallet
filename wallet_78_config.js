@@ -1,1 +1,1 @@
-var mnemonic = "rib treat grain image minute relief husband attack symbol annual provide mystery";
+var mnemonic = "marine current parrot style maid pig cube parrot bunker relief only like";
