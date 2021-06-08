@@ -1,1 +1,1 @@
-var mnemonic = "cup dynamic holiday extend diary slide wing initial abstract strategy easy climb";
+var mnemonic = "rain heavy donate divide bundle magnet over damp clarify noble print phrase";

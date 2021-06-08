@@ -1,1 +1,1 @@
-var mnemonic = "state kite label flag history noise vessel tired voyage board super develop";
+var mnemonic = "intact discover ribbon receive marriage record entry main donkey heart future monkey";

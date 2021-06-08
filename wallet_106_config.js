@@ -1,1 +1,1 @@
-var mnemonic = "hammer minute clog bread practice monitor enact notice jelly vacuum media rotate";
+var mnemonic = "produce tower silent pause kick armor moment soda great couple bounce mandate";

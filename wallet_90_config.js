@@ -1,1 +1,1 @@
-var mnemonic = "oxygen ramp pull abandon must almost danger consider blouse lounge buffalo renew";
+var mnemonic = "vehicle index hobby spoon actual season iron screen cup foster blame census";

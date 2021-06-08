@@ -1,1 +1,1 @@
-var mnemonic = "crazy manual march iron bridge taxi economy benefit hub winner feed hint";
+var mnemonic = "page jazz knife adapt ethics mom ocean group aunt torch sight find";

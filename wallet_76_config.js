@@ -1,1 +1,1 @@
-var mnemonic = "loan donkey liquid cause illegal laugh icon iron rival expand zero cigar";
+var mnemonic = "start twist lyrics grunt figure misery web fortune slogan trip coil tray";

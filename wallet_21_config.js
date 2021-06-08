@@ -1,1 +1,1 @@
-var mnemonic = "offer nut noodle salmon insane cute sort label chronic elder floor hello";
+var mnemonic = "snake leave broccoli tuna walk next law smooth general honey twice coast";

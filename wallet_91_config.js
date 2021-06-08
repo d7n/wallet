@@ -1,1 +1,1 @@
-var mnemonic = "enter alien spice venue rule ripple scorpion shuffle pudding night anchor soul";
+var mnemonic = "october popular stuff athlete despair call error crush palm grape involve crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "essence annual vital hammer ethics opera range olive hazard video arena address";
+var mnemonic = "sword wife wedding magic agree gown obtain another siege again confirm parade";

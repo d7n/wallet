@@ -1,1 +1,1 @@
-var mnemonic = "access slice fault upon goddess mutual meadow loyal raccoon swamp vehicle item";
+var mnemonic = "below dry industry robot height hard unhappy stable tooth slam quarter kitten";

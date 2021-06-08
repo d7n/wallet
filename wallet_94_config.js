@@ -1,1 +1,1 @@
-var mnemonic = "collect dinosaur gap quiz stumble surface mandate crawl volcano version escape sleep";
+var mnemonic = "violin canoe image spoil labor disorder reopen acoustic round endless equip small";

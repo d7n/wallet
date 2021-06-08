@@ -1,1 +1,1 @@
-var mnemonic = "destroy copy ankle all female coral vital visual chef memory denial glide";
+var mnemonic = "inject risk letter turtle trigger trash acid come cherry bubble order offer";

@@ -1,1 +1,1 @@
-var mnemonic = "army envelope call estate brisk ritual mountain approve bind control buddy east";
+var mnemonic = "pilot fall also anchor kidney oil they grow dress alpha reject throw";

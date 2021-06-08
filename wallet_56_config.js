@@ -1,1 +1,1 @@
-var mnemonic = "climb casino second tongue mercy tobacco satoshi sister glove addict crew danger";
+var mnemonic = "plunge slide armor useful scale rice elbow faint people gospel follow rack";

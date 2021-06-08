@@ -1,1 +1,1 @@
-var mnemonic = "shuffle hello relax exact require muscle knife salt inquiry grit another liquid";
+var mnemonic = "stick vibrant kiwi judge gospel basket oil story supply cute neglect faith";

@@ -1,1 +1,1 @@
-var mnemonic = "angle panther outer chaos tag play left result nothing foil roast royal";
+var mnemonic = "athlete wagon damp rapid dial oblige invite heart wonder enable promote document";

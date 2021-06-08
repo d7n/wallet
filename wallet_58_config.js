@@ -1,1 +1,1 @@
-var mnemonic = "weasel universe time please crater rotate diamond volcano else ocean job airport";
+var mnemonic = "canal fade dove suggest paper enjoy envelope suffer bid will strong someone";

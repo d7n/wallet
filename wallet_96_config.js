@@ -1,1 +1,1 @@
-var mnemonic = "print mechanic audit erase frozen poet suspect question enroll client elder machine";
+var mnemonic = "wire stick abandon damage pole ginger tent amount cereal hammer patient crime";

@@ -1,1 +1,1 @@
-var mnemonic = "carry normal text control half property habit gap runway quit alley hobby";
+var mnemonic = "vivid scale husband sibling nation finish tank exist evidence autumn one napkin";

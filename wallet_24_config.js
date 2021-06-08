@@ -1,1 +1,1 @@
-var mnemonic = "relax manual suspect kiss portion catalog scrap walnut casino reject planet banner";
+var mnemonic = "burst kingdom pattern romance equal involve citizen crater exclude buzz rack shrug";

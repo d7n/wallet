@@ -1,1 +1,1 @@
-var mnemonic = "seven fold image about bridge action stuff search view chalk wide awkward";
+var mnemonic = "indicate wisdom thunder coconut artefact mansion razor proof gaze embark video panic";

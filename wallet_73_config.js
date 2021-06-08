@@ -1,1 +1,1 @@
-var mnemonic = "dragon raccoon razor eagle motor huge mandate layer purchase rare learn grant";
+var mnemonic = "hollow tourist love bus metal birth supply monkey tape speak body staff";

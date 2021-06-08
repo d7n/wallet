@@ -1,1 +1,1 @@
-var mnemonic = "junk base unit turn swarm either elephant wrong expand hurt input legal";
+var mnemonic = "method reward toward pattern battle cinnamon scan scissors dice try human economy";

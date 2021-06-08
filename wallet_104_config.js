@@ -1,1 +1,1 @@
-var mnemonic = "common canvas wealth member adult join style hole curve supreme letter friend";
+var mnemonic = "flavor balance prison true letter doctor inmate riot despair genius door skate";

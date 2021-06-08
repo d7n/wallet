@@ -1,1 +1,1 @@
-var mnemonic = "popular patch cupboard edit license pair camera stick catch smoke banner copy";
+var mnemonic = "trade wear never whisper gesture trap voyage wear night advance satisfy resource";

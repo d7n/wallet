@@ -1,1 +1,1 @@
-var mnemonic = "pact hub mystery noble school ten swallow level fee right empower expect";
+var mnemonic = "ritual bunker genre frequent wine picture credit season lava teach fee income";

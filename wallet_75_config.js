@@ -1,1 +1,1 @@
-var mnemonic = "camera proud farm walk isolate stool when emotion gloom social reopen inner";
+var mnemonic = "country awesome laptop mask talent sound evil squeeze pig chunk comic behave";

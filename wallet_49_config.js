@@ -1,1 +1,1 @@
-var mnemonic = "salmon smoke rescue clay neutral kitten blanket hedgehog gold company cup tape";
+var mnemonic = "street agree churn flip amazing draw bracket online battle glide hammer release";

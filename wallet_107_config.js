@@ -1,1 +1,1 @@
-var mnemonic = "art valve cake child baby keep clean brave month baby pistol planet";
+var mnemonic = "dawn cross march magic worth mimic aim fringe mango hurt stick course";

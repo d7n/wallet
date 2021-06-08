@@ -1,1 +1,1 @@
-var mnemonic = "price dog drum possible truly pluck cash advance dad carbon sound kiss";
+var mnemonic = "taste wood repeat jewel model crisp tank fantasy minute talk like climb";

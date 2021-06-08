@@ -1,1 +1,1 @@
-var mnemonic = "safe undo obvious poverty crumble dinner undo copper crazy govern kangaroo inherit";
+var mnemonic = "other main comfort rotate credit soul width wise crop pill love electric";

@@ -1,1 +1,1 @@
-var mnemonic = "stage sell matter rack snake demand hollow home belt story dolphin favorite";
+var mnemonic = "travel border margin swear wrestle timber monkey insane erase lend exercise verify";

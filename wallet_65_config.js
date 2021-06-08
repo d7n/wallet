@@ -1,1 +1,1 @@
-var mnemonic = "dance afford busy short talent essay beauty hair wealth exact fork unfold";
+var mnemonic = "caught accuse body please trophy say swamp beach divorce finish twice april";

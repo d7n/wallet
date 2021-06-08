@@ -1,1 +1,1 @@
-var mnemonic = "clever expose case trip dice tray token member jar gaze eye egg";
+var mnemonic = "father cheap cargo few auto train cabin prepare asthma price elephant magic";

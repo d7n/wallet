@@ -1,1 +1,1 @@
-var mnemonic = "feature dawn liberty force bless clinic merit wage cradle draft chief perfect";
+var mnemonic = "cabbage high select weapon book clown lounge reward sock pitch start fall";

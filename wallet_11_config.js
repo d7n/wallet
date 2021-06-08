@@ -1,1 +1,1 @@
-var mnemonic = "awake rifle usage syrup cushion kangaroo awesome jar gospel inch hurt gaze";
+var mnemonic = "banana quote spider scheme female vacant mail glory aisle vital outer into";

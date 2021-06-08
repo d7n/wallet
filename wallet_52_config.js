@@ -1,1 +1,1 @@
-var mnemonic = "teach shuffle hint spell century rather goddess ensure sponsor name nation forum";
+var mnemonic = "food argue galaxy blue fade discover cool panther drip minute peasant friend";

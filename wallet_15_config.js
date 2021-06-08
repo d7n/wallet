@@ -1,1 +1,1 @@
-var mnemonic = "yellow trial swift admit galaxy then rug couch nice ceiling fly lemon";
+var mnemonic = "black lesson echo chimney pause disorder junior layer ride must gentle winter";

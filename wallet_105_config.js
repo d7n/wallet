@@ -1,1 +1,1 @@
-var mnemonic = "neutral surprise lion jacket list metal rocket achieve idle model survey skin";
+var mnemonic = "lobster attitude social final cat sing focus spike cloth enjoy save rally";

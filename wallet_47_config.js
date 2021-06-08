@@ -1,1 +1,1 @@
-var mnemonic = "fat venue aisle area universe wage about slogan rally guilt habit fringe";
+var mnemonic = "rescue rubber flight popular twin action topple topic champion night cigar door";

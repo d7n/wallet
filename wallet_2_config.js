@@ -1,1 +1,1 @@
-var mnemonic = "goat near modify vague between good marine float bubble mango rifle prison";
+var mnemonic = "reward lend ankle path champion they cream ball team afford kiss train";

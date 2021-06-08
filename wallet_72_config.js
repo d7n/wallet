@@ -1,1 +1,1 @@
-var mnemonic = "this common execute one crawl off electric wing sad slot nut carry";
+var mnemonic = "ritual there upset grape ill exercise rural lizard blood surge patrol simple";

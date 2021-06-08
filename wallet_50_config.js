@@ -1,1 +1,1 @@
-var mnemonic = "surround hat mutual cupboard cable album flat ancient develop off gentle ball";
+var mnemonic = "soft prefer square catalog quarter recycle now birth tattoo derive require garden";

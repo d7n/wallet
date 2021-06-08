@@ -1,1 +1,1 @@
-var mnemonic = "north artwork unfair notice near pottery blossom eye local possible reveal curtain";
+var mnemonic = "seat vault rib remove warm marble copper robot minor same ankle margin";

@@ -1,1 +1,1 @@
-var mnemonic = "unable left donor blood sunset sample office host boost glance unhappy orphan";
+var mnemonic = "aisle arrive off disagree medal sell father sort involve such puzzle power";

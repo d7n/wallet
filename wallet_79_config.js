@@ -1,1 +1,1 @@
-var mnemonic = "gospel favorite middle place put ethics domain suspect hunt wisdom lawsuit letter";
+var mnemonic = "unit sphere witness ordinary sunny team nasty pizza drill monster media club";

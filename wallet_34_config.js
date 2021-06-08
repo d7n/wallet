@@ -1,1 +1,1 @@
-var mnemonic = "wire wine garlic bulb brother syrup cat artwork alcohol unfair jaguar child";
+var mnemonic = "spin coral throw law advance car kitchen apart early payment unable fresh";

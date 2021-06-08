@@ -1,1 +1,1 @@
-var mnemonic = "three mixed renew myth beauty foster zoo strategy say pluck anxiety flip";
+var mnemonic = "switch coast digital pave crane cousin east math west daughter allow front";

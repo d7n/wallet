@@ -1,1 +1,1 @@
-var mnemonic = "symbol length silk input appear blouse ivory potato entire magic breeze maple";
+var mnemonic = "potato alien album hood mail old tunnel still record oval mango jewel";

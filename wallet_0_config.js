@@ -1,1 +1,1 @@
-var mnemonic = "style garlic allow reform express dinner license maid sorry mix tomorrow frog";
+var mnemonic = "fox joy plate mix surface green credit early tongue siren asset nurse";

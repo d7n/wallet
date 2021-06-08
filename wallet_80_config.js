@@ -1,1 +1,1 @@
-var mnemonic = "power either false allow athlete once panda reject frog trophy remain room";
+var mnemonic = "bean frame solid man way layer frost bamboo wealth sausage tell adapt";

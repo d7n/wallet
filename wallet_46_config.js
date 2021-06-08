@@ -1,1 +1,1 @@
-var mnemonic = "pony document east sleep primary lucky monkey luxury camera brother paddle holiday";
+var mnemonic = "excite ceiling pudding measure mule year option unaware able world consider soap";

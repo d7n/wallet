@@ -1,1 +1,1 @@
-var mnemonic = "bless mouse mistake whisper capable throw salmon seek razor six bag shadow";
+var mnemonic = "olympic finish cram dog fabric tent fresh room utility refuse east device";

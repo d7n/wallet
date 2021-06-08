@@ -1,1 +1,1 @@
-var mnemonic = "rug sock cousin clean loan feel genre taxi anchor session notable slight";
+var mnemonic = "sweet stock rifle dynamic taste trust shield cream pepper arm lesson express";

@@ -1,1 +1,1 @@
-var mnemonic = "better border chalk trap bone monkey address expand health shrug inmate when";
+var mnemonic = "frozen mom custom wagon uncle rely barely glow science train pool party";

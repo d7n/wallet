@@ -1,1 +1,1 @@
-var mnemonic = "benefit tell ask concert hope harvest brand scatter frame airport pretty casual";
+var mnemonic = "margin float pen behind double build winner private seven cloud salon sphere";

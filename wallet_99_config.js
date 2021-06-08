@@ -1,1 +1,1 @@
-var mnemonic = "farm garment heavy spell edit borrow exit reunion lizard best minute debate";
+var mnemonic = "bar trade auto middle fury pet home heavy curve warrior stomach nasty";

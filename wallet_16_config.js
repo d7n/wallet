@@ -1,1 +1,1 @@
-var mnemonic = "input toe auto despair helmet half segment museum lake series media urban";
+var mnemonic = "surprise consider banner oil panda inspire say mesh differ razor burst team";

@@ -1,1 +1,1 @@
-var mnemonic = "other produce myself shaft cross various betray swap sing group fat top";
+var mnemonic = "dilemma major disease pause sponsor attack six laundry tool peace promote imitate";

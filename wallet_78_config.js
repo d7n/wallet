@@ -1,1 +1,1 @@
-var mnemonic = "modify brave then giggle regret six diary attract thumb forget all youth";
+var mnemonic = "slam essay scan member volume uncle wrong shrug toddler reveal north team";

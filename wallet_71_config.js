@@ -1,1 +1,1 @@
-var mnemonic = "pistol worry stadium caught extra belt inject radio thumb roast winner slice";
+var mnemonic = "fluid jewel primary paddle bind expire letter prepare crunch dirt hybrid layer";

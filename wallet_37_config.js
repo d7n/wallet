@@ -1,1 +1,1 @@
-var mnemonic = "affair nerve body evolve blanket powder hold obvious clinic elegant giant raccoon";
+var mnemonic = "keen prepare fat cloud minimum carry inside rocket decorate convince write elephant";

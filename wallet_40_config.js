@@ -1,1 +1,1 @@
-var mnemonic = "undo era retire ribbon foster sleep slot bulb aware cattle kite shove";
+var mnemonic = "cream need amateur lemon obvious brisk kitten surface account decorate fever orphan";

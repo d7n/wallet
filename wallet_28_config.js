@@ -1,1 +1,1 @@
-var mnemonic = "outdoor picnic swallow nest casual speak consider keep shadow garment another place";
+var mnemonic = "void couple gap job crumble silver hole night much science coffee design";

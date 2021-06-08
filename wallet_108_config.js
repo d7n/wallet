@@ -1,1 +1,1 @@
-var mnemonic = "pipe bottom vendor use armed soda opinion alcohol buzz beef gown panel";
+var mnemonic = "execute model smile level snap distance sea erode alcohol digital adapt neck";

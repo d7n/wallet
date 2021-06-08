@@ -1,1 +1,1 @@
-var mnemonic = "meat vibrant gather document empower tongue simple ticket outer confirm rib century";
+var mnemonic = "today corn merry episode bacon try oven assault ivory bounce drastic van";

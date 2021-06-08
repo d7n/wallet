@@ -1,1 +1,1 @@
-var mnemonic = "piece verb pudding holiday pitch citizen town axis model globe rural pledge";
+var mnemonic = "display provide shoe ripple vacuum involve finish physical crush fuel viable wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "frame tide warfare power bargain canyon pudding verify champion library chest wink";
+var mnemonic = "clock craft hammer winner swarm cinnamon sign real knife give include online";

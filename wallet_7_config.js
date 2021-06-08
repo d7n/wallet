@@ -1,1 +1,1 @@
-var mnemonic = "mule satoshi liberty abandon bunker sight renew wealth net merry ready false";
+var mnemonic = "jump acquire erase enact sure insect frame minimum pony tiger lawsuit violin";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise dirt quit snap math section illness senior sustain mother tone cloud";
+var mnemonic = "crew dolphin pretty grape say win summer salmon neutral aerobic victory tiger";

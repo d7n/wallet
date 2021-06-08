@@ -1,1 +1,1 @@
-var mnemonic = "vivid bunker leader celery buddy tuna crash damage plunge empty undo process";
+var mnemonic = "divert nothing balance gaze sauce valley timber video range kit miss seed";

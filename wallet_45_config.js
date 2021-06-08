@@ -1,1 +1,1 @@
-var mnemonic = "advice carpet globe upgrade club lunch online twenty yard mesh insect must";
+var mnemonic = "route farm can comfort amazing series current response suggest bring script close";

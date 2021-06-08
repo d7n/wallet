@@ -1,1 +1,1 @@
-var mnemonic = "ripple blossom tortoise dolphin more solve resemble romance wonder vapor boss off";
+var mnemonic = "salad survey awesome they glove awkward grocery venture dream category census stay";

@@ -1,1 +1,1 @@
-var mnemonic = "leave churn roast agree opera connect six lunch grape security final flag";
+var mnemonic = "menu weapon diary happy april hand erupt glow echo chat menu history";

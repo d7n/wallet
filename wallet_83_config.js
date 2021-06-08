@@ -1,1 +1,1 @@
-var mnemonic = "bottom army degree rose side snap shock raccoon text rescue million access";
+var mnemonic = "diet connect swing another fringe quarter erode stay useful curious claw athlete";

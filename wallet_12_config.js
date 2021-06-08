@@ -1,1 +1,1 @@
-var mnemonic = "dizzy abstract course this symbol neutral ripple palm path december oval maple";
+var mnemonic = "citizen lecture sort warm never radar siren lounge item wall draft between";

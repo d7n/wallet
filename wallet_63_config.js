@@ -1,1 +1,1 @@
-var mnemonic = "survey glove brass jungle indoor memory differ screen century drink genius salad";
+var mnemonic = "smoke nature lucky dinosaur lyrics rigid lottery cube coral globe ripple canvas";

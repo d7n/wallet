@@ -1,1 +1,1 @@
-var mnemonic = "demand carry hamster ill pioneer priority junior economy cycle cube grape wire";
+var mnemonic = "summer rough clown liquid property song purchase nuclear borrow regret volume walnut";

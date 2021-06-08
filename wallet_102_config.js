@@ -1,1 +1,1 @@
-var mnemonic = "cheap jeans heart add total usual inflict pond window poet reopen orchard";
+var mnemonic = "bargain attitude recipe liberty surprise silk frost off busy myself climb scorpion";

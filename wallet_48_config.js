@@ -1,1 +1,1 @@
-var mnemonic = "route movie slide pass abstract put embark bunker health corn kangaroo sheriff";
+var mnemonic = "wise east half step swing omit mistake chest loud end cool rural";

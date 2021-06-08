@@ -1,1 +1,1 @@
-var mnemonic = "faculty hotel long zoo quantum allow venture chuckle carbon gospel moral dismiss";
+var mnemonic = "issue wife inflict coyote chef spoon trick excite law payment movie version";

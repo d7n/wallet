@@ -1,1 +1,1 @@
-var mnemonic = "album dumb loop blade best all grocery often curious fringe deputy manage";
+var mnemonic = "carry burden face craft question dwarf table tiger naive evidence reopen bird";

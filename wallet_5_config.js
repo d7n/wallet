@@ -1,1 +1,1 @@
-var mnemonic = "cage effort toss author bring tackle glory beef analyst sign original lazy";
+var mnemonic = "certain total super trigger timber entry affair castle other pill cannon that";

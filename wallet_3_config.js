@@ -1,1 +1,1 @@
-var mnemonic = "license power custom harbor addict fix decide decorate wheat voice tilt adult";
+var mnemonic = "science oppose pause dignity remain tide amount bounce inside whisper crawl welcome";

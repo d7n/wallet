@@ -1,1 +1,1 @@
-var mnemonic = "recycle sibling kiwi build tone space dignity song funny reunion various topple";
+var mnemonic = "that museum setup brand era bind faculty provide ring cute scrap eyebrow";

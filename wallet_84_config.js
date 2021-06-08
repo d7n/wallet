@@ -1,1 +1,1 @@
-var mnemonic = "trial mule gossip myself flight glue exchange below beyond awkward candy labor";
+var mnemonic = "surround flag card mimic gas merge course fault system flip seat face";

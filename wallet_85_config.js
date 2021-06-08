@@ -1,1 +1,1 @@
-var mnemonic = "extend item marine supreme census room shrug budget inquiry cover hint orange";
+var mnemonic = "eternal ancient list zone giant sure embody short parade love leisure quote";
