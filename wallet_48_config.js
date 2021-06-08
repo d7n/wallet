@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog moon total angry same morning tragic address utility smoke time bright";
+var mnemonic = "depth latin boat frown update bean theme stage hen under spoil desert";

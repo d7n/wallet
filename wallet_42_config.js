@@ -1,1 +1,1 @@
-var mnemonic = "crazy pumpkin tomato purity lounge hungry kiwi fish ready fuel frozen admit";
+var mnemonic = "health response betray rabbit renew surface file salon say legend nerve immense";

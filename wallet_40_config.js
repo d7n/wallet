@@ -1,1 +1,1 @@
-var mnemonic = "number doctor car chunk abstract cube goat blush mansion stereo rough resource";
+var mnemonic = "hat hidden jazz document fat mesh trigger evil coin artist dance verify";

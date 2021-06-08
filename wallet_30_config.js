@@ -1,1 +1,1 @@
-var mnemonic = "history surround airport drift matter gym jungle engine symbol own couple surface";
+var mnemonic = "sick member urge razor cement vintage picnic talk exotic chase outside powder";

@@ -1,1 +1,1 @@
-var mnemonic = "ten breeze machine cradle faculty life crumble coin clap pencil illness census";
+var mnemonic = "couch atom quantum wife merit feature pulse soul resist dynamic rough circle";

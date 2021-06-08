@@ -1,1 +1,1 @@
-var mnemonic = "easily cause jealous ensure swear wasp ignore hint embody ask jewel admit";
+var mnemonic = "torch garlic wide solve essence echo belt burden link peasant peanut scare";

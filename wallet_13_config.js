@@ -1,1 +1,1 @@
-var mnemonic = "call cactus slow slide confirm over urban into ripple town shy screen";
+var mnemonic = "brown change million wink script local noise escape pulp add steak interest";

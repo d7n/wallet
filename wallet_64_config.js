@@ -1,1 +1,1 @@
-var mnemonic = "arena notice repeat drink foster hidden language draw razor urge harvest hold";
+var mnemonic = "garage first security laptop damage tourist mad easily antenna melt scatter delay";

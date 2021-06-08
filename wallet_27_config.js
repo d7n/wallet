@@ -1,1 +1,1 @@
-var mnemonic = "dumb drift poverty atom chicken arch lottery baby virus brain present nut";
+var mnemonic = "gallery agree over that drink dynamic flag sense license isolate wood cave";

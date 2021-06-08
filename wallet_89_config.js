@@ -1,1 +1,1 @@
-var mnemonic = "permit price occur fix refuse cricket burden mutual live mosquito busy barely";
+var mnemonic = "baby cargo route moment talk west social energy unusual scrub crush wrestle";

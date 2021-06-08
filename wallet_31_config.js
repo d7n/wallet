@@ -1,1 +1,1 @@
-var mnemonic = "loan test raccoon dance cheese razor priority girl enlist merry mistake sight";
+var mnemonic = "voyage acoustic amount sound insane sting dash predict cliff normal document divide";

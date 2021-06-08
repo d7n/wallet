@@ -1,1 +1,1 @@
-var mnemonic = "frost oval hawk trial train talent boss birth artefact manage favorite dawn";
+var mnemonic = "ozone slot snack plastic grape benefit best spot marriage over fancy rabbit";

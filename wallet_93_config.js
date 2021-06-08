@@ -1,1 +1,1 @@
-var mnemonic = "post broom clinic horror flight more task long wet flip stage current";
+var mnemonic = "glove major tonight rain junior magnet want slight point ripple tobacco hurt";

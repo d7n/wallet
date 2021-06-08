@@ -1,1 +1,1 @@
-var mnemonic = "artwork fancy spread sport plunge repair motor bulb beauty proud enable paddle";
+var mnemonic = "rubber depart often hybrid gate lumber guess clap tonight nasty dune tribe";

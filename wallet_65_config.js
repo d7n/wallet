@@ -1,1 +1,1 @@
-var mnemonic = "liberty iron worry edit session law saddle awful cute novel parrot buffalo";
+var mnemonic = "mail mutual enrich hammer pilot produce mask spoil student air shield rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "employ fiscal recycle decorate aerobic gather add blast seven soccer outside february";
+var mnemonic = "build kiss capital way cube now certain point fiscal cross train negative";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry there cage unhappy cram hammer off noodle scheme chat liar smile";
+var mnemonic = "approve ankle era wine source weather calm setup galaxy ankle lens spell";

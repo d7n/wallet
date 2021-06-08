@@ -1,1 +1,1 @@
-var mnemonic = "fetch dog abstract connect metal twist leg trigger width sadness ribbon shine";
+var mnemonic = "april actual episode film census aware slogan slender federal absent midnight type";

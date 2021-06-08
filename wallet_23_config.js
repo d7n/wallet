@@ -1,1 +1,1 @@
-var mnemonic = "stock accident culture rebel museum gaze goose smoke electric melt portion walk";
+var mnemonic = "depth pet about share mechanic subway trick elite fence business fiscal search";

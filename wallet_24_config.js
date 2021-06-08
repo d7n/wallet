@@ -1,1 +1,1 @@
-var mnemonic = "filter shaft earn hour stereo tennis gauge secret south burger endless ticket";
+var mnemonic = "aspect scrap know calm jeans jewel quarter cause moon media fall future";

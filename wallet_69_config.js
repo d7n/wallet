@@ -1,1 +1,1 @@
-var mnemonic = "february pepper bargain slow fortune wrong inhale key sell hover pole magic";
+var mnemonic = "move trumpet hand jealous weather else prefer update bulk educate outer reform";

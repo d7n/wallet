@@ -1,1 +1,1 @@
-var mnemonic = "child hollow orbit zero apple snack practice ship scout decade that object";
+var mnemonic = "universe wash throw stay ugly hire labor sort relief mom buyer inflict";

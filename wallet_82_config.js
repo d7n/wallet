@@ -1,1 +1,1 @@
-var mnemonic = "capable fall exclude ketchup spend cover void marriage remove group artefact comfort";
+var mnemonic = "dream cactus empower scene knee region egg keep lake fine test decrease";

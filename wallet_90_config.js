@@ -1,1 +1,1 @@
-var mnemonic = "snap math bird speed dress track journey umbrella custom need result night";
+var mnemonic = "fade cause devote soon mom word material extend excite point lemon start";

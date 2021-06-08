@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur wink pumpkin essay unhappy sudden ethics uncle coffee apple display wisdom";
+var mnemonic = "fiction size crew hockey flight cross trip gate similar token medal permit";

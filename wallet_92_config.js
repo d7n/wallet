@@ -1,1 +1,1 @@
-var mnemonic = "jump this glass satoshi season vapor ahead swamp hawk egg situate repeat";
+var mnemonic = "destroy south grow horn onion flush two remain brief inspire can wasp";

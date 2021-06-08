@@ -1,1 +1,1 @@
-var mnemonic = "horror impose voyage first wolf patient dismiss pilot blind absurd plug maid";
+var mnemonic = "invite define enlist fee beyond slice edge have divert address demise grace";

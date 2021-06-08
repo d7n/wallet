@@ -1,1 +1,1 @@
-var mnemonic = "search drift roast bid badge canyon wrong tag improve jelly inhale cave";
+var mnemonic = "remain poet cream shoe select witness cake undo hub shoulder address real";

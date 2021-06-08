@@ -1,1 +1,1 @@
-var mnemonic = "below deal often field memory ring art speak lens seek attitude label";
+var mnemonic = "salt wing owner artwork ice pink final mean dust agent just layer";

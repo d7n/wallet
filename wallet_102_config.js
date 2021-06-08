@@ -1,1 +1,1 @@
-var mnemonic = "cram lunch neglect drastic canyon festival flush bright bamboo bubble inform title";
+var mnemonic = "ahead enable raccoon curious annual unable bundle humor total enrich thumb blur";

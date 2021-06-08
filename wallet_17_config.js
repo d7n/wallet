@@ -1,1 +1,1 @@
-var mnemonic = "cherry access hundred industry apology keen avoid fringe soccer autumn sun torch";
+var mnemonic = "once hood merit high climb vendor keen base wisdom gym section inner";

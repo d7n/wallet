@@ -1,1 +1,1 @@
-var mnemonic = "master you month rose civil school lock oblige atom ordinary stay sheriff";
+var mnemonic = "pencil foil clip online motion orchard minor together stick session put head";

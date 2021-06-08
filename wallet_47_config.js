@@ -1,1 +1,1 @@
-var mnemonic = "canvas floor gas ethics enemy fever report arrow dirt direct acid apple";
+var mnemonic = "sea tilt sphere ticket exercise guide wrestle enforce roof remind extra alley";

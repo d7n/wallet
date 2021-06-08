@@ -1,1 +1,1 @@
-var mnemonic = "copy wood harsh repair miss easily clip same relax fork turkey immune";
+var mnemonic = "pride laundry chef grit notable public isolate notice dream inquiry black prevent";

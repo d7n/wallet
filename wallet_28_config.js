@@ -1,1 +1,1 @@
-var mnemonic = "fetch narrow endorse cherry piece river sheriff lamp bomb bargain segment stairs";
+var mnemonic = "wide amount change female idea whisper hamster copper harsh select stick bar";

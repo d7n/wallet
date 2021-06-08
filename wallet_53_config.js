@@ -1,1 +1,1 @@
-var mnemonic = "remove rabbit second crime hip crane reveal evil badge lake zoo shadow";
+var mnemonic = "ensure topple obscure canvas promote endless relief canoe garbage neither tail rookie";

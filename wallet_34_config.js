@@ -1,1 +1,1 @@
-var mnemonic = "mother chalk cute lend speak address piano crucial gown praise front history";
+var mnemonic = "purchase early horror original cost swarm syrup tooth run rival excess park";

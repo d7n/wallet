@@ -1,1 +1,1 @@
-var mnemonic = "stuff inherit cool six license boy unfold like hood stock hazard absurd";
+var mnemonic = "faculty excuse affair add snack embark toe solution exact tiger hockey apart";

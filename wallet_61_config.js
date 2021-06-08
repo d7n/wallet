@@ -1,1 +1,1 @@
-var mnemonic = "mushroom airport pioneer tray credit dynamic offer salad exercise legend liberty drama";
+var mnemonic = "spatial food weather bird lend weapon economy history prize lift fee often";

@@ -1,1 +1,1 @@
-var mnemonic = "insect often trouble beyond order civil home high soda note coach hidden";
+var mnemonic = "sauce shiver food horror century puzzle blur entry time dentist danger toss";

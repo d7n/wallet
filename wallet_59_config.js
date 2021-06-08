@@ -1,1 +1,1 @@
-var mnemonic = "sentence circle accident rib trumpet mirror mercy witness island dream cabin verb";
+var mnemonic = "dinner connect harbor behave arrow fatal erase unaware army fancy vanish sword";

@@ -1,1 +1,1 @@
-var mnemonic = "affair bless endless awake cabbage cactus stuff shell submit small harsh tone";
+var mnemonic = "boy lumber beyond taxi belt quiz elevator match jelly frost various position";

@@ -1,1 +1,1 @@
-var mnemonic = "there abstract add mail certain mobile retreat earn sketch dad cheese spend";
+var mnemonic = "loop engage grab series pupil chunk rich trophy ski save panther refuse";

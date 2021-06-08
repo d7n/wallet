@@ -1,1 +1,1 @@
-var mnemonic = "mixed slide better glue gravity oak box helmet garbage hockey defense toss";
+var mnemonic = "cake dinosaur festival solution harsh cake smile pond maze lava weather dress";

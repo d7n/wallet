@@ -1,1 +1,1 @@
-var mnemonic = "bar can occur anger moon blouse hard planet young process give joy";
+var mnemonic = "produce earth hood sniff finger spare need document tissue stove zebra bind";

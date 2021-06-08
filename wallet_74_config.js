@@ -1,1 +1,1 @@
-var mnemonic = "guard novel eight breeze another rather student cactus bitter moral organ dragon";
+var mnemonic = "motor teach minimum debris pupil sock stock diet brain swap rally can";

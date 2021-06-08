@@ -1,1 +1,1 @@
-var mnemonic = "good plate range light hurt hand pact wall night frog dumb top";
+var mnemonic = "insect tornado amazing point clap video wisdom process coin ability below term";

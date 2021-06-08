@@ -1,1 +1,1 @@
-var mnemonic = "fever night emotion dirt minimum tone birth monitor unit please arrest awkward";
+var mnemonic = "tone fish opera seek fiscal bar ginger they basic enlist mesh cotton";

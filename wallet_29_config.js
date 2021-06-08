@@ -1,1 +1,1 @@
-var mnemonic = "balcony auction drop swarm cushion crowd blossom year steel priority diesel salad";
+var mnemonic = "mom major mechanic grid now just feed depart clever slot elbow gossip";

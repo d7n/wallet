@@ -1,1 +1,1 @@
-var mnemonic = "tower news extra shoulder lumber toilet know parade right omit reduce lake";
+var mnemonic = "shoe style defense must response distance moment solar choose artefact magnet mutual";

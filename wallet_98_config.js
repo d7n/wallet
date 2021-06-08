@@ -1,1 +1,1 @@
-var mnemonic = "rice scale weekend fish soul horror uncle hybrid top arm element radar";
+var mnemonic = "scene cruel valid wool idea insane devote tongue tape future fruit grape";

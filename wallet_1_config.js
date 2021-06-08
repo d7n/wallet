@@ -1,1 +1,1 @@
-var mnemonic = "capital champion dentist toy peasant rely cave kid argue turn tortoise ceiling";
+var mnemonic = "comic minute option review alien multiply skull autumn fade guide civil north";

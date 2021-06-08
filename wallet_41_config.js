@@ -1,1 +1,1 @@
-var mnemonic = "door shell radio roof planet erosion vacant message field leave license hen";
+var mnemonic = "voice special pair canoe scheme balance camp core reason dentist soap random";

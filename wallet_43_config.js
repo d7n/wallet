@@ -1,1 +1,1 @@
-var mnemonic = "ripple surge blast lemon rotate day scorpion hold very nuclear remove vendor";
+var mnemonic = "wrist quote runway achieve panic snow liar oil peanut alarm penalty chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "large aerobic ghost ride frame topple abstract critic that upon dash disorder";
+var mnemonic = "demand master midnight pottery normal write drip caution kiwi play vicious desk";

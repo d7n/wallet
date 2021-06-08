@@ -1,1 +1,1 @@
-var mnemonic = "master pitch install ethics slot judge else armed pilot sugar census verb";
+var mnemonic = "oak hello shoot fish donor rough ugly morning salute badge common trophy";

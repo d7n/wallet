@@ -1,1 +1,1 @@
-var mnemonic = "melt scout over cupboard when tube quality vocal work sock law dance";
+var mnemonic = "employ innocent erode fever soup liar cigar frog glide able whisper shine";

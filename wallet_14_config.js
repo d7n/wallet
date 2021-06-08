@@ -1,1 +1,1 @@
-var mnemonic = "admit kind topic patient salmon stable runway tourist impose together erase toss";
+var mnemonic = "machine spare pill vote collect used scout buyer boy lend random bridge";

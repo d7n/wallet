@@ -1,1 +1,1 @@
-var mnemonic = "element poverty sudden ostrich chunk choose swap wine project danger cupboard chalk";
+var mnemonic = "grunt real gain trust absent glide total ancient snack crazy asset hair";

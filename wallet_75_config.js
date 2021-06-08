@@ -1,1 +1,1 @@
-var mnemonic = "giraffe ladder long certain shield allow keen ecology inject shy then hire";
+var mnemonic = "material tired actress bag toilet misery fetch first metal risk unit point";

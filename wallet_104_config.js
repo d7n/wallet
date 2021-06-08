@@ -1,1 +1,1 @@
-var mnemonic = "stumble switch mesh shoulder cushion wrestle hurt acoustic flip wrist dish lady";
+var mnemonic = "medal urge drive hybrid width produce domain eye weasel spread valley spin";

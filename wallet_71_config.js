@@ -1,1 +1,1 @@
-var mnemonic = "hazard spare deliver slice addict address fortune begin buzz service east grief";
+var mnemonic = "civil razor popular whisper coconut floor service put ripple peasant rescue valve";

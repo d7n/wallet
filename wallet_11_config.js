@@ -1,1 +1,1 @@
-var mnemonic = "wood number donor vessel shuffle help floor embark noise ketchup clap always";
+var mnemonic = "success recycle advice pony napkin speak bread artefact glide dog wedding family";

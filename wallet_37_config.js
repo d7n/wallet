@@ -1,1 +1,1 @@
-var mnemonic = "flat decade neglect ethics key allow load pattern shoulder knock odor pretty";
+var mnemonic = "rack disease purpose squeeze cycle edit inside hold oyster sadness female hint";

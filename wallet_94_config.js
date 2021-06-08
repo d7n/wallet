@@ -1,1 +1,1 @@
-var mnemonic = "bulk close volcano favorite first kiwi green rug jungle trophy fork matter";
+var mnemonic = "slam edge deny jungle nose fox opinion poverty minor castle win eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "gym logic cinnamon equip car example drink final marine cement feed joy";
+var mnemonic = "unusual math impact frown online idle another split voice cheap novel add";

@@ -1,1 +1,1 @@
-var mnemonic = "capable amount business equip december wealth gentle south effort urban canyon detect";
+var mnemonic = "wagon rhythm inform afford dynamic shell spin south fluid crew result gift";

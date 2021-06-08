@@ -1,1 +1,1 @@
-var mnemonic = "smile bicycle enforce guard water midnight olympic between jar clever age join";
+var mnemonic = "click pill odor ignore call license announce license floor prize once now";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire crew catch arena trend deer minute lamp clutch beyond evolve scout";
+var mnemonic = "pilot exile assault frozen pass game unusual kitten enforce drop group spell";

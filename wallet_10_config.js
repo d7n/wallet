@@ -1,1 +1,1 @@
-var mnemonic = "wrong pulp afford spy few genius only swift step apart caught wisdom";
+var mnemonic = "saddle seed amount pipe rail coach verify federal airport piece sheriff debris";

@@ -1,1 +1,1 @@
-var mnemonic = "post skill panther spike delay brand garlic crouch rack announce fit chuckle";
+var mnemonic = "mansion unable roast royal tool embody involve head trial south rent rookie";

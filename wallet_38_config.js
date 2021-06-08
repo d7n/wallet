@@ -1,1 +1,1 @@
-var mnemonic = "panic elder canal pact vote kit scan negative arrange caught sunny nasty";
+var mnemonic = "crane brain injury twelve alien can win ghost chuckle trouble arrest detect";

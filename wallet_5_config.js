@@ -1,1 +1,1 @@
-var mnemonic = "move wild garment hospital cash panther river tissue peanut lecture dolphin search";
+var mnemonic = "faith shy illness alone devote six minimum slam pledge public novel scrap";

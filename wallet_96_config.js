@@ -1,1 +1,1 @@
-var mnemonic = "north shiver seed suit differ unlock trigger range hood poem sing exhibit";
+var mnemonic = "island layer ramp weasel armor orchard phrase define carry wet accident borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "insect quality concert ginger brown noble gap art ceiling mechanic can under";
+var mnemonic = "jazz knife hybrid exhaust tomorrow before robust debris window deposit olive cage";

@@ -1,1 +1,1 @@
-var mnemonic = "live settle arctic shaft teach dog assume snack bonus crisp twelve suffer";
+var mnemonic = "confirm syrup wife rescue medal wealth federal wet only dynamic dismiss unique";

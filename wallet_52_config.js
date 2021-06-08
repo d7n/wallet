@@ -1,1 +1,1 @@
-var mnemonic = "much text salute relax clever network stool senior talent fever method charge";
+var mnemonic = "hero fit witness gadget pilot clap copy brass twelve any online evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "lens mystery arctic pupil stamp own arm legend bring casual suspect uncover";
+var mnemonic = "throw above hotel time mercy conduct sibling deer upper bulb orchard manage";

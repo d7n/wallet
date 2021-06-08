@@ -1,1 +1,1 @@
-var mnemonic = "antique tell squeeze piano exhibit shoot blush huge piano album burden bread";
+var mnemonic = "refuse hurt such dress force survey blossom issue fitness strategy boost illegal";

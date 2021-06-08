@@ -1,1 +1,1 @@
-var mnemonic = "goat assault lizard tumble interest happy anxiety speed bachelor usual become pigeon";
+var mnemonic = "style above okay harsh mule frog dolphin client cradle there genuine tattoo";

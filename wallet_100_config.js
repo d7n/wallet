@@ -1,1 +1,1 @@
-var mnemonic = "fog lizard empower wheat island nice chest gossip finger cycle sugar walk";
+var mnemonic = "behave private more pigeon elder trap top kite horror tattoo poem thing";

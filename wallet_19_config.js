@@ -1,1 +1,1 @@
-var mnemonic = "place chicken coconut deal crew fine off expect taste near mimic scout";
+var mnemonic = "opinion renew return rib label tourist mom million swear concert later picture";

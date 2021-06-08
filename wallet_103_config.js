@@ -1,1 +1,1 @@
-var mnemonic = "crucial bar leisure carpet cigar girl collect sibling abstract sail cricket level";
+var mnemonic = "relief wisdom smile cancel bullet fringe palace before opinion woman seven also";

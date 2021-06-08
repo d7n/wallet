@@ -1,1 +1,1 @@
-var mnemonic = "leader bind bitter trouble hurry guilt there apple actual glory under extend";
+var mnemonic = "letter general panda village truck kingdom gospel brand vendor fence gift dilemma";

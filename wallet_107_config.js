@@ -1,1 +1,1 @@
-var mnemonic = "tunnel kite nut turn service shine bronze first ocean piece sibling six";
+var mnemonic = "mutual forward monster cannon shoot broom noodle truck screen antenna siren warrior";

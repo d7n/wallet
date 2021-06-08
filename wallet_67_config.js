@@ -1,1 +1,1 @@
-var mnemonic = "spoil timber champion smile grape upgrade choose question try horse soup express";
+var mnemonic = "tunnel color wisdom glory fine brass easy find ancient purity crawl seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "category custom team fly frown occur crumble deputy auto involve vessel elephant";
+var mnemonic = "scrap kite effort echo hole bacon source jump glad pumpkin pen super";

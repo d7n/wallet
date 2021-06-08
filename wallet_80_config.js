@@ -1,1 +1,1 @@
-var mnemonic = "resist try agent vessel morning tooth indoor bacon around disorder sword devote";
+var mnemonic = "axis panther reopen mass daughter often regret gloom gun defy horn enhance";

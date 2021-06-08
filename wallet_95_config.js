@@ -1,1 +1,1 @@
-var mnemonic = "explain morning seminar away slogan annual soldier trouble pumpkin eye wine million";
+var mnemonic = "veteran chapter armed cart tiger maze panic lunar neck scan blood twenty";
