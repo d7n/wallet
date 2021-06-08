@@ -1,1 +1,1 @@
-var mnemonic = "clever inquiry diamond use dragon enemy zebra upgrade season pet total draft";
+var mnemonic = "hammer utility divorce grass path ice tip come language disease puppy alley";

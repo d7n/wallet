@@ -1,1 +1,1 @@
-var mnemonic = "nuclear aunt mixture rookie define cruise monitor senior venue amazing avoid animal";
+var mnemonic = "heavy code denial sleep fury harbor lyrics aware total deputy auction load";

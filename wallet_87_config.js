@@ -1,1 +1,1 @@
-var mnemonic = "region enrich grit learn fresh olive rapid cute drink gap stereo income";
+var mnemonic = "tube dance top genuine course egg worry humble onion bubble wreck cry";

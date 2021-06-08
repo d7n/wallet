@@ -1,1 +1,1 @@
-var mnemonic = "humble social bulk journey sample firm suffer potato pizza kiss wolf kind";
+var mnemonic = "vehicle market slow tilt mandate forget material wisdom inside cook foil magnet";

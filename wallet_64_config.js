@@ -1,1 +1,1 @@
-var mnemonic = "start brick wash lecture cliff face sweet slow stumble dismiss extend clip";
+var mnemonic = "year oval sponsor casino pelican oval thing trouble strike between tornado trip";

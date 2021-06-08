@@ -1,1 +1,1 @@
-var mnemonic = "cruel brick nothing lesson wage trade connect rotate van mouse bone remember";
+var mnemonic = "remember galaxy tent scare tool element burst various doctor animal multiply stock";

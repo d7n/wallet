@@ -1,1 +1,1 @@
-var mnemonic = "reduce dune repeat fun human movie inner slow adult capable settle ask";
+var mnemonic = "mixed crisp error define town foil gain beach surround observe impulse parrot";

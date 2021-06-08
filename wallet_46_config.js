@@ -1,1 +1,1 @@
-var mnemonic = "flower survey access prison bridge middle tourist warfare pudding entry they mind";
+var mnemonic = "trash junior embody term traffic distance ivory mimic kidney conduct crash upper";

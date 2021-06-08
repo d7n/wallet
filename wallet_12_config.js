@@ -1,1 +1,1 @@
-var mnemonic = "reject define amused symptom plug mention awkward tail grape transfer find target";
+var mnemonic = "already faculty tree remind glimpse fortune flavor subject foot frame matrix hub";

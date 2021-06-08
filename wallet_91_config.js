@@ -1,1 +1,1 @@
-var mnemonic = "lab inflict spread decide calm cigar say wonder prepare wheel super photo";
+var mnemonic = "custom explain labor purpose siren tornado risk excite boring theory garbage business";

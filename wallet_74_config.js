@@ -1,1 +1,1 @@
-var mnemonic = "brass nephew tell about pen butter direct bring mushroom pizza rural shine";
+var mnemonic = "right nominee glory recall crawl time alley cupboard sword symptom tattoo grief";

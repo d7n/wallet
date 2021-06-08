@@ -1,1 +1,1 @@
-var mnemonic = "artwork silk index decrease dynamic quiz detail human odor tunnel code service";
+var mnemonic = "uniform snap side loop choose razor calm purse ocean december clever rebuild";

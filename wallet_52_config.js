@@ -1,1 +1,1 @@
-var mnemonic = "dash sample outer sense volcano evolve federal call series popular orphan able";
+var mnemonic = "loan hospital addict purchase interest mystery vanish expand floor capable team reveal";

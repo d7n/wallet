@@ -1,1 +1,1 @@
-var mnemonic = "lazy shaft supply fame renew bracket abstract tumble wall item leaf scrap";
+var mnemonic = "sense inside neglect east minor chase where olympic isolate garment flavor latin";

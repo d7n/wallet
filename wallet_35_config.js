@@ -1,1 +1,1 @@
-var mnemonic = "basket antique stairs spatial spend start gentle must echo year confirm roast";
+var mnemonic = "dry common build toy mad spoon harbor borrow cover poverty amateur vicious";

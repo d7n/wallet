@@ -1,1 +1,1 @@
-var mnemonic = "sweet knock net nation hole chaos bamboo cook talent dish stone kingdom";
+var mnemonic = "magic radar cheap pelican dish report feed jump angry quiz knife learn";

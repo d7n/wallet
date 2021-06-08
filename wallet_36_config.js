@@ -1,1 +1,1 @@
-var mnemonic = "fold flash festival juice entire video flat joy lucky cancel weird ensure";
+var mnemonic = "garage talk cup torch right property mistake prison ridge foam input fine";

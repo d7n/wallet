@@ -1,1 +1,1 @@
-var mnemonic = "design laptop output also cricket key wealth burst capital invest season burger";
+var mnemonic = "document nice pepper wire alien aware top endless light faint giggle margin";

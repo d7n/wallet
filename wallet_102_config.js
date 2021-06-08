@@ -1,1 +1,1 @@
-var mnemonic = "skill hawk tail museum sad flower grunt scatter puppy keen theory green";
+var mnemonic = "uphold float accident defy frown olive extend expand enough say toddler spot";

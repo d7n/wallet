@@ -1,1 +1,1 @@
-var mnemonic = "expand similar problem sniff beach will shock swing brass erase excite cool";
+var mnemonic = "tuition message glide paddle outer prosper april album tragic heavy valve core";

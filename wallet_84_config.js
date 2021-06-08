@@ -1,1 +1,1 @@
-var mnemonic = "couple moment abstract wrestle chronic mesh maid wage federal assist stuff icon";
+var mnemonic = "tribe capital unveil salt coral neutral sun squirrel about where visa gasp";

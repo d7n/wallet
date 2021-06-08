@@ -1,1 +1,1 @@
-var mnemonic = "jungle jaguar praise motion kitchen crime airport cook device maple alcohol mask";
+var mnemonic = "trust sadness sea genuine grape welcome general exercise attract asthma renew fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar analyst ginger scissors grab under regret grass gown train inside walnut";
+var mnemonic = "purse into wasp charge lab assume slogan protect butter donate brick jealous";

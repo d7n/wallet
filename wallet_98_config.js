@@ -1,1 +1,1 @@
-var mnemonic = "place faint disease leisure weapon wall begin seminar solid office melody carry";
+var mnemonic = "cross cream couple someone price fault mystery draft test congress gown clutch";

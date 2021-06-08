@@ -1,1 +1,1 @@
-var mnemonic = "degree paddle wild dawn until broken public distance awkward silk sword notice";
+var mnemonic = "ladder damage violin inside provide stick calm uncover bag glass zebra laugh";

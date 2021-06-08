@@ -1,1 +1,1 @@
-var mnemonic = "warrior myself enemy fly bar fatal print cloud love differ category ladder";
+var mnemonic = "glass alley lady bubble crisp omit captain feed heavy stove farm damp";

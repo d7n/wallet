@@ -1,1 +1,1 @@
-var mnemonic = "crawl grab cake one swap picnic feel breeze fragile paddle gauge lunch";
+var mnemonic = "monkey tongue legend dentist hotel garage check recipe near hamster custom cushion";

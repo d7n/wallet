@@ -1,1 +1,1 @@
-var mnemonic = "lend learn theory master wrestle sell just hold cruel enhance seminar portion";
+var mnemonic = "relief trust write pudding chaos acid ramp hawk cupboard hard river motion";

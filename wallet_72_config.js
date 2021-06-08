@@ -1,1 +1,1 @@
-var mnemonic = "tent explain essay dove space also crystal few stage salon banner bounce";
+var mnemonic = "stick remember antenna choice kidney clump very maid omit amused three tree";

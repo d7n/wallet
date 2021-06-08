@@ -1,1 +1,1 @@
-var mnemonic = "void coin emerge shell cancel trade fury stone shaft child awesome rug";
+var mnemonic = "network cactus sleep fly number security sea provide alarm shine recipe belt";

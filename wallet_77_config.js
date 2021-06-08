@@ -1,1 +1,1 @@
-var mnemonic = "print roof crack display this select bench filter upon glimpse invest divorce";
+var mnemonic = "soda spin poverty stove drill width sustain pole trumpet margin hunt husband";

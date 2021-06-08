@@ -1,1 +1,1 @@
-var mnemonic = "because copy they cash slim sphere screen theme river pilot group release";
+var mnemonic = "enhance spike loop shallow belt oppose rebuild virtual mean lizard achieve drastic";

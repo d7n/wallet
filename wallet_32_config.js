@@ -1,1 +1,1 @@
-var mnemonic = "father ready history search feed degree law gym gate indoor upgrade gravity";
+var mnemonic = "urban merge program valley all bleak stay element useful dust cushion defense";

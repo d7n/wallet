@@ -1,1 +1,1 @@
-var mnemonic = "picnic diet day gallery version film hover kitten slush foot wire elephant";
+var mnemonic = "mad act huge plate huge feel width pond quiz toast history copy";

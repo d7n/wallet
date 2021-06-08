@@ -1,1 +1,1 @@
-var mnemonic = "ivory flight pumpkin birth inmate butter always diet dinner weapon material pet";
+var mnemonic = "interest code offer weekend place way point ketchup eagle car alien cost";

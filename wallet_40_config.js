@@ -1,1 +1,1 @@
-var mnemonic = "giant wood unusual vacuum level stomach original glad never fall upon priority";
+var mnemonic = "stuff trend auction armor grocery music despair banner buddy exact crime rally";

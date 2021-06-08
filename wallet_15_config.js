@@ -1,1 +1,1 @@
-var mnemonic = "position mango proud shop verb impose alert grain tragic mix winner toe";
+var mnemonic = "mandate prepare trouble total ramp science summer mother soul fit move two";

@@ -1,1 +1,1 @@
-var mnemonic = "crane club memory result mechanic prosper second brisk boost coffee south mistake";
+var mnemonic = "episode theory modify upgrade museum blame few trouble eternal peace slide neck";

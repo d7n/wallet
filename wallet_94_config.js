@@ -1,1 +1,1 @@
-var mnemonic = "bargain soup chaos recycle spy gauge draft firm mirror unknown script elegant";
+var mnemonic = "require trust move mango despair limb mammal wet roof slush connect laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "drama pear monitor quote any garlic two owner city goddess pet system";
+var mnemonic = "amazing tongue pear cup sniff thrive own very pipe leave finish cat";

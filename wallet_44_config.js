@@ -1,1 +1,1 @@
-var mnemonic = "bicycle leaf garlic label guitar diamond code doll path student rabbit mandate";
+var mnemonic = "genuine pipe praise flight snack bounce nut fragile good diagram bulk deputy";

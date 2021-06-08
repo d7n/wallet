@@ -1,1 +1,1 @@
-var mnemonic = "organ pink vast solve twenty few twin arrest series fix sort toast";
+var mnemonic = "dismiss moment grunt fortune ostrich swamp wet child shrug card mercy camp";

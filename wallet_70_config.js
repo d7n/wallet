@@ -1,1 +1,1 @@
-var mnemonic = "economy dolphin beyond document apple shoe series saddle minor fly measure miracle";
+var mnemonic = "distance slow flash client danger fade erode merge cruel normal gravity erupt";

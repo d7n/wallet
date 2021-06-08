@@ -1,1 +1,1 @@
-var mnemonic = "afraid review ill noodle actor tissue okay such resist display kitten code";
+var mnemonic = "exit surround control draft abstract tenant put expand curtain deal impose young";

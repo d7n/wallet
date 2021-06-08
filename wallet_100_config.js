@@ -1,1 +1,1 @@
-var mnemonic = "method inject actress brain female kick wire journey anger balcony month toss";
+var mnemonic = "forum sell envelope mountain awake same explain join assault race tumble spray";

@@ -1,1 +1,1 @@
-var mnemonic = "gather long riot antique food crowd shadow brisk gate glad chuckle craft";
+var mnemonic = "curve brass grant gaze verify oak attitude bronze happy work inside sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "walk large base base sword assault glide keen medal silver drum fire";
+var mnemonic = "end bring express tone manual fish purity legal icon hello topple bridge";

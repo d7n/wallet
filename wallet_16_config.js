@@ -1,1 +1,1 @@
-var mnemonic = "you quit will wheat purity cheap version enlist head shadow inquiry subject";
+var mnemonic = "certain husband salt aerobic setup paper mixture warm guard laugh chimney tree";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge file athlete crash seed praise april dizzy sustain suggest birth review";
+var mnemonic = "balance away violin wash mirror tiger start depth myth reunion empower dolphin";

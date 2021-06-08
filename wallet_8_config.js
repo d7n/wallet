@@ -1,1 +1,1 @@
-var mnemonic = "there common duck among fragile build educate oyster dash burger access spoon";
+var mnemonic = "glance update ceiling render element laptop latin belt want second prefer gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "pear evoke canvas inmate jealous slice fit process faint carpet woman tell";
+var mnemonic = "plastic solar crime over audit torch rookie elegant clever notable decide fever";

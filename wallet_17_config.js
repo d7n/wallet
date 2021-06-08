@@ -1,1 +1,1 @@
-var mnemonic = "infant smooth maximum phone shy muscle diary uncover practice air paper erase";
+var mnemonic = "midnight excess morning bottom proof business awkward spring access pipe dinosaur daughter";

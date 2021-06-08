@@ -1,1 +1,1 @@
-var mnemonic = "fitness measure puzzle local vapor fine pen monkey hotel legend grit spray";
+var mnemonic = "twist fruit open chase stool envelope marble must exhaust loyal repair execute";

@@ -1,1 +1,1 @@
-var mnemonic = "rate asset account rack pull beef world push safe immune laugh armor";
+var mnemonic = "emerge milk during south silver program thing fan misery airport silly labor";

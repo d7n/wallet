@@ -1,1 +1,1 @@
-var mnemonic = "system sister deputy physical witness silly bus giant volume people antenna believe";
+var mnemonic = "forward soup edit squirrel this tornado merge ice gossip spy satisfy solar";

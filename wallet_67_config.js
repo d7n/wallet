@@ -1,1 +1,1 @@
-var mnemonic = "wool between second chronic lazy bridge danger index useful turn science mass";
+var mnemonic = "upper genuine salon legend ride bitter insect copper satoshi will village city";

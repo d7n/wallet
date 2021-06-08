@@ -1,1 +1,1 @@
-var mnemonic = "blossom allow improve thunder labor canyon quantum summer huge verb this chief";
+var mnemonic = "rib volume phrase author shy satoshi aim hedgehog ritual coast aisle strategy";

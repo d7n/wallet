@@ -1,1 +1,1 @@
-var mnemonic = "citizen pelican vessel view boat wink giant match bright impose globe swallow";
+var mnemonic = "oxygen runway increase copper parrot rhythm flower garden possible key start trim";

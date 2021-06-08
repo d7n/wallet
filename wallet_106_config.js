@@ -1,1 +1,1 @@
-var mnemonic = "shrimp debris glass left pistol dilemma female odor column wish muffin magnet";
+var mnemonic = "winter punch proud wasp cry visit stumble tourist tragic eight economy indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "misery real picnic wink fatal purpose market advice quarter knock pilot minute";
+var mnemonic = "sponsor taxi jewel machine project type language story settle mandate sphere scan";

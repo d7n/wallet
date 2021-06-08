@@ -1,1 +1,1 @@
-var mnemonic = "advice vast arrange assist issue sauce bus bunker witness small lesson artist";
+var mnemonic = "stuff captain about brisk volume recipe use shove blur loan discover stadium";

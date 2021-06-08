@@ -1,1 +1,1 @@
-var mnemonic = "banner post window remember dragon stable raven flee mad now crunch scrap";
+var mnemonic = "online scatter bean genius phrase addict random outdoor analyst jump nasty dragon";

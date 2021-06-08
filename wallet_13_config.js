@@ -1,1 +1,1 @@
-var mnemonic = "twist supply hollow jeans surge fee purchase proof october planet famous ridge";
+var mnemonic = "awkward panel holiday inhale pretty jar cube right deal father olive inhale";

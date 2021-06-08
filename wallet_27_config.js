@@ -1,1 +1,1 @@
-var mnemonic = "misery treat wave position bonus sponsor roof flash whip kid december tired";
+var mnemonic = "shallow brisk verb patch problem shop simple taste permit polar flavor two";

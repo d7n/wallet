@@ -1,1 +1,1 @@
-var mnemonic = "clap vendor orbit hip accuse wedding music hand dentist melt purity help";
+var mnemonic = "safe confirm tunnel narrow deer crush wing monster bag estate bullet staff";

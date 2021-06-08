@@ -1,1 +1,1 @@
-var mnemonic = "neither someone glow tobacco drill mosquito prepare pride other exhibit clown chest";
+var mnemonic = "upon bulk dismiss lesson double reduce alpha swear must tunnel shuffle solve";

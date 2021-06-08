@@ -1,1 +1,1 @@
-var mnemonic = "indicate often theme sustain text quality ignore square butter noise inherit method";
+var mnemonic = "often fence spawn accuse blouse liquid useful happy super tourist era bacon";

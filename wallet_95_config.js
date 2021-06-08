@@ -1,1 +1,1 @@
-var mnemonic = "apple public public will sample shiver hobby road bracket opera nose mango";
+var mnemonic = "move group casino system seven elevator rain typical round donor cross luxury";

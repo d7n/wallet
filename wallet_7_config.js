@@ -1,1 +1,1 @@
-var mnemonic = "oppose desk misery jump model enjoy vessel core derive cinnamon used scare";
+var mnemonic = "mix clutch hotel zone leave crucial wrist urban jazz neutral wide bicycle";

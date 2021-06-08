@@ -1,1 +1,1 @@
-var mnemonic = "correct panel venture upper steak adapt master daring point frozen profit mix";
+var mnemonic = "usual violin credit extra used month coffee learn unable swim transfer wrestle";

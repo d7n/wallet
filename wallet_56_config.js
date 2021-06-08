@@ -1,1 +1,1 @@
-var mnemonic = "pepper mesh always giraffe fly bring hood exchange sponsor panic luggage science";
+var mnemonic = "fit strategy idle sail peanut excess novel border tooth velvet enter firm";

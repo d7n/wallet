@@ -1,1 +1,1 @@
-var mnemonic = "make anger tube chuckle pitch grant lizard lemon cushion middle possible arm";
+var mnemonic = "flower stick glad broom salon frost begin extend pyramid all lizard prison";

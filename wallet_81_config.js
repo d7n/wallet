@@ -1,1 +1,1 @@
-var mnemonic = "coil oppose already bulk oppose position balance sign peace bag brand glide";
+var mnemonic = "pair senior label project random rubber wrist arch parent toy behave unfair";

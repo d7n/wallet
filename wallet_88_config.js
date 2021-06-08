@@ -1,1 +1,1 @@
-var mnemonic = "empty candy hover visa write stage winner jazz cluster typical illegal sister";
+var mnemonic = "caution letter fruit satoshi mountain chase silver end diesel slim unknown faith";

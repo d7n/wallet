@@ -1,1 +1,1 @@
-var mnemonic = "silver also tonight review system remember humble tribe undo misery world eager";
+var mnemonic = "frozen dolphin shrug wish camera never kiwi raven walnut enemy annual six";

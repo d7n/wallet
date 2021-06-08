@@ -1,1 +1,1 @@
-var mnemonic = "shallow bar night weather gospel hungry wagon adult okay fog fiscal unique";
+var mnemonic = "surface verify safe humble defy soul timber fiber frown ridge violin ill";

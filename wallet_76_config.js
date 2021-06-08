@@ -1,1 +1,1 @@
-var mnemonic = "grit twist path deposit north grant dumb bracket remember steak antique weasel";
+var mnemonic = "globe bottom street consider chunk impulse trophy undo toast town action wave";

@@ -1,1 +1,1 @@
-var mnemonic = "desert swear write charge finish suit office pet motor oyster pass panda";
+var mnemonic = "trick confirm end nation blossom around chunk fringe injury praise actress symptom";

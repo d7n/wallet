@@ -1,1 +1,1 @@
-var mnemonic = "benefit thought stadium glare ask blur item hawk fly wheat mom layer";
+var mnemonic = "animal predict goose fancy trim blossom risk tennis shove mechanic stone sugar";

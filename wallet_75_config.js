@@ -1,1 +1,1 @@
-var mnemonic = "auto thank ability tent cushion maximum board noble tag torch amused blast";
+var mnemonic = "copper oyster clean market weekend figure wheat weather orbit today huge oppose";

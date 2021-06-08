@@ -1,1 +1,1 @@
-var mnemonic = "cube body buyer ready patch just true waste stumble syrup arch marine";
+var mnemonic = "lonely plastic typical sunset cry design wedding stick throw gas monitor lyrics";

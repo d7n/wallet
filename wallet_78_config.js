@@ -1,1 +1,1 @@
-var mnemonic = "seek cabin ignore measure decide jealous plate script toward mushroom old copper";
+var mnemonic = "rude employ iron ski movie slab dynamic menu asset drama notable butter";

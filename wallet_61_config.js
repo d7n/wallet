@@ -1,1 +1,1 @@
-var mnemonic = "famous muffin used lens improve timber love custom gate mansion that face";
+var mnemonic = "hundred bamboo move sweet bitter promote crazy badge brain step stock harbor";

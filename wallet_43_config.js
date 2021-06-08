@@ -1,1 +1,1 @@
-var mnemonic = "suggest autumn dose circle joy route deputy hybrid stool steak pizza enemy";
+var mnemonic = "submit present pledge slogan cycle figure pool sphere tongue song pact useless";

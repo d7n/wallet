@@ -1,1 +1,1 @@
-var mnemonic = "special neglect source reunion target claw favorite toe among world goddess push";
+var mnemonic = "region quit three tooth item nuclear city inspire anchor woman electric era";
