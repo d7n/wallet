@@ -1,1 +1,1 @@
-var mnemonic = "across elbow enable obey dignity live joke earth trumpet series fiber surface";
+var mnemonic = "lion expand dust expand clap defense this crush potato hole gauge damp";

@@ -1,1 +1,1 @@
-var mnemonic = "major leave subject ostrich lens chase lizard worry hip magic pottery flat";
+var mnemonic = "quiz prepare link food insect select talk onion pottery morning frost tilt";

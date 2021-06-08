@@ -1,1 +1,1 @@
-var mnemonic = "banana typical live submit marble shove welcome minute critic deputy horn time";
+var mnemonic = "surge black earn stick mixture icon record tobacco file source join festival";

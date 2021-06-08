@@ -1,1 +1,1 @@
-var mnemonic = "such meadow great pet vague scene orient throw first argue innocent slab";
+var mnemonic = "charge kidney border sugar exhaust change name leaf biology ranch position neck";

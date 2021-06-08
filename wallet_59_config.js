@@ -1,1 +1,1 @@
-var mnemonic = "uncle husband smile used pony uniform casino lonely supply cabin state vivid";
+var mnemonic = "square high social bread author tomorrow faith duty resist tobacco brave flight";

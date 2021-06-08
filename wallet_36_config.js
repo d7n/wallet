@@ -1,1 +1,1 @@
-var mnemonic = "hub pelican trouble idle better address mom drastic ranch vessel planet addict";
+var mnemonic = "exchange liberty grid inner knee knee reveal glue purse dial spawn party";

@@ -1,1 +1,1 @@
-var mnemonic = "charge reform repeat midnight purity inner ship junior smoke fly spoon remember";
+var mnemonic = "pupil churn moon image still wisdom renew diet naive garbage wine awkward";

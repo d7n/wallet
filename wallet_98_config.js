@@ -1,1 +1,1 @@
-var mnemonic = "seven beach bitter sad outer task husband require message certain visit bargain";
+var mnemonic = "patient pony royal slam noble model shiver chunk cancel wife chat nation";

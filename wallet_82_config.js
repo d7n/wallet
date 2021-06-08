@@ -1,1 +1,1 @@
-var mnemonic = "jazz swift heavy baby author kidney head jelly resource attract hero share";
+var mnemonic = "casino spend silver ask dry blouse window produce flock shift second upper";

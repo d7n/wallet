@@ -1,1 +1,1 @@
-var mnemonic = "anxiety trip foster switch mixture happy program immune cost lemon whale repair";
+var mnemonic = "picture oval math embody pear cereal today delay wrong accuse sand lottery";

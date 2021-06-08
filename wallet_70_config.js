@@ -1,1 +1,1 @@
-var mnemonic = "excuse rotate delay road idea thrive swallow name vacant wheat limb reveal";
+var mnemonic = "drive turn fire route desk immense arrange two hire dynamic furnace leopard";

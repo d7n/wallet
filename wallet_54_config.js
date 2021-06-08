@@ -1,1 +1,1 @@
-var mnemonic = "weather sick carbon silly retire general bike town hello timber hollow cheese";
+var mnemonic = "metal fly work relax silent taxi media original modify maze rent acoustic";

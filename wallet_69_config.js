@@ -1,1 +1,1 @@
-var mnemonic = "search gospel fame obey win carry throw cannon innocent save monkey blanket";
+var mnemonic = "mechanic bounce pioneer crater plate supply gaze detect wealth wheel range advance";

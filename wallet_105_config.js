@@ -1,1 +1,1 @@
-var mnemonic = "test pottery suspect word peasant radar chunk company spell drum cradle enter";
+var mnemonic = "educate enable better romance inmate tomato wedding diamond pet trial riot second";

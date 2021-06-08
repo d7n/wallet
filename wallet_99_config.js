@@ -1,1 +1,1 @@
-var mnemonic = "excuse shy carbon noodle swear chest enough cruise puzzle bunker muscle fancy";
+var mnemonic = "purse muffin drift add company drive dinner renew nurse someone parade picture";

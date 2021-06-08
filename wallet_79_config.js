@@ -1,1 +1,1 @@
-var mnemonic = "bicycle series buddy talk pole bubble figure differ almost old gift number";
+var mnemonic = "math cricket recall rude brave april acid retire sustain worry winner blur";

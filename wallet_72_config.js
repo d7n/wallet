@@ -1,1 +1,1 @@
-var mnemonic = "motor luggage vicious novel warrior reduce breeze knock glad chicken copper chuckle";
+var mnemonic = "pair happy pepper clutch forward radio place soul busy combine pool innocent";

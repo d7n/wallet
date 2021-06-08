@@ -1,1 +1,1 @@
-var mnemonic = "popular rotate yellow faith civil melody daring iron narrow post capital intact";
+var mnemonic = "soccer magic pelican skin today now adapt gorilla subject afraid able hen";

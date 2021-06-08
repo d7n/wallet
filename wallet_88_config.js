@@ -1,1 +1,1 @@
-var mnemonic = "pencil art host endorse drift collect best east sleep repair enact such";
+var mnemonic = "lumber tank coconut grunt crazy tumble surface entire senior soft come legend";

@@ -1,1 +1,1 @@
-var mnemonic = "almost action off mouse penalty mass armor stand clerk goose wide primary";
+var mnemonic = "slab hire perfect silly glare stairs pipe elder arrow vessel forum toast";

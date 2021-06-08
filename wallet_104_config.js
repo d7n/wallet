@@ -1,1 +1,1 @@
-var mnemonic = "there sing salt deputy stock bike cousin often eagle square crisp erosion";
+var mnemonic = "pet whisper tree swing leaf they soup valley chair smoke depart liquid";

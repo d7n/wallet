@@ -1,1 +1,1 @@
-var mnemonic = "oak smoke voice crystal observe trade jacket menu foster pact arrange option";
+var mnemonic = "wisdom task dragon must bid define pelican clean baby noodle home crumble";

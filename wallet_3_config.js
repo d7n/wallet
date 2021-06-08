@@ -1,1 +1,1 @@
-var mnemonic = "issue man desert cycle key mixture like year problem across stomach range";
+var mnemonic = "car marble party scale tone time burger lucky private portion visual keep";

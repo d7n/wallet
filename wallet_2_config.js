@@ -1,1 +1,1 @@
-var mnemonic = "tourist rebuild armor random renew first favorite ring detail coral stem enroll";
+var mnemonic = "quiz churn ramp ginger position gasp observe make move citizen build absorb";

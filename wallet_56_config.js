@@ -1,1 +1,1 @@
-var mnemonic = "hollow push trip odor fortune basic nasty depend protect spawn hip plastic";
+var mnemonic = "bottom more boat jewel search rude collect crumble enhance awesome brick swing";

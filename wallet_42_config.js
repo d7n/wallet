@@ -1,1 +1,1 @@
-var mnemonic = "leaf nasty soup fossil punch friend enlist club ramp rely eight chair";
+var mnemonic = "lonely indicate review car chunk escape enough baby copper toe prosper divorce";

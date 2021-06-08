@@ -1,1 +1,1 @@
-var mnemonic = "toy crane order victory globe cinnamon special patrol rough smooth leaf foil";
+var mnemonic = "dizzy depart captain delay large retreat laundry throw emerge trial color antenna";

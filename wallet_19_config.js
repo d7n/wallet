@@ -1,1 +1,1 @@
-var mnemonic = "trigger festival head wolf great board taxi cat whale plunge edit clean";
+var mnemonic = "object eagle baby boat burger useless medal improve penalty camp tobacco ribbon";

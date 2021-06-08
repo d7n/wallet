@@ -1,1 +1,1 @@
-var mnemonic = "suffer amazing clay draw arrive name produce cry lens traffic coast evoke";
+var mnemonic = "average donor desert rate can accident vocal resemble six rug teach exact";

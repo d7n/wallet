@@ -1,1 +1,1 @@
-var mnemonic = "curtain panda disease drama toy economy uniform pupil firm caution real chapter";
+var mnemonic = "gesture moral shine tribe copper stairs cup junk wing junior chat gain";

@@ -1,1 +1,1 @@
-var mnemonic = "solid hair sell pear found panel eagle reason pen version resemble knife";
+var mnemonic = "harvest onion pen endless science answer right mandate type clay canvas carry";

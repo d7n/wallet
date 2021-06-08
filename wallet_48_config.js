@@ -1,1 +1,1 @@
-var mnemonic = "uniform glove ski law capital current century retire nut corn kind author";
+var mnemonic = "budget purse endless refuse buyer maze never artist nice awful key also";

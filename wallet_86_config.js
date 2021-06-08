@@ -1,1 +1,1 @@
-var mnemonic = "early bike clock rabbit useless bike bundle meadow caution antique famous bubble";
+var mnemonic = "theory interest still blue frown draw fever sample answer close code process";

@@ -1,1 +1,1 @@
-var mnemonic = "world quantum gallery lend hard cash slot eager salt shine left spot";
+var mnemonic = "silent moment finger slender ripple cricket upon gas album denial couple ski";

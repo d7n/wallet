@@ -1,1 +1,1 @@
-var mnemonic = "shuffle farm obtain punch creek total they buddy walk hood team machine";
+var mnemonic = "fetch enhance pony timber account slush genius review appear pepper survey attack";

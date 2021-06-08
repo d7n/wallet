@@ -1,1 +1,1 @@
-var mnemonic = "horse employ leg major enter season senior van resist beach fuel pet";
+var mnemonic = "boy glide about century immense sleep charge jacket bitter little glide strong";

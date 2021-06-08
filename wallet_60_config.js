@@ -1,1 +1,1 @@
-var mnemonic = "radio catalog cycle decrease giraffe refuse better hard rural sponsor issue few";
+var mnemonic = "midnight anxiety lecture bounce spawn draft frog country short nuclear cabin bike";

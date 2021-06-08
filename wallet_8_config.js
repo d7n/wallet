@@ -1,1 +1,1 @@
-var mnemonic = "rude liar exhibit heavy include expose hire decide undo chair aim fever";
+var mnemonic = "mechanic essay carry juice because furnace churn juice awful bundle limb clutch";

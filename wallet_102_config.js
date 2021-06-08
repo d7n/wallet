@@ -1,1 +1,1 @@
-var mnemonic = "discover dismiss photo uphold country unit rubber try viable burst bind twelve";
+var mnemonic = "minimum maze cheap subway crew basic oppose still flag road unfair funny";

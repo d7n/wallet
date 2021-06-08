@@ -1,1 +1,1 @@
-var mnemonic = "length rival bubble make reveal giant charge bitter evidence fury ill toe";
+var mnemonic = "smart sell logic normal tip end cover display path bachelor agree frame";

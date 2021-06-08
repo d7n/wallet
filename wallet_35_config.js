@@ -1,1 +1,1 @@
-var mnemonic = "discover breeze purse jaguar dismiss marriage maze foam crew broccoli plunge female";
+var mnemonic = "exchange panda tomato suggest decline will dragon swarm evolve spike replace option";

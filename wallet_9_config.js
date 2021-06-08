@@ -1,1 +1,1 @@
-var mnemonic = "allow cargo regular civil concert clock segment medal roof series describe clean";
+var mnemonic = "able wild mail stamp citizen elder moral during insect endorse turn hamster";

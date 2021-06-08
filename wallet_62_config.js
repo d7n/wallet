@@ -1,1 +1,1 @@
-var mnemonic = "film dash brass maple weird copper lecture tone also that series aim";
+var mnemonic = "donor nut venue lens journey chest cousin discover home grace stage media";

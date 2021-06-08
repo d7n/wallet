@@ -1,1 +1,1 @@
-var mnemonic = "powder end bag monster pig black fame gasp insect cheese lobster bulb";
+var mnemonic = "merit deputy doctor sheriff pave matrix seven parrot fever bus motion front";

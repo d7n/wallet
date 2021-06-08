@@ -1,1 +1,1 @@
-var mnemonic = "outer sphere climb nurse opinion caution initial still advance carpet rude hair";
+var mnemonic = "kitchen improve reform such expire forest aisle panel cake version author hobby";

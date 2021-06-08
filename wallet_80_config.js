@@ -1,1 +1,1 @@
-var mnemonic = "exist sense alley leave door camp choose mean choice large leisure tissue";
+var mnemonic = "since canoe use tooth still enroll burst taste dry alert language mandate";

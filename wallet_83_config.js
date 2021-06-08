@@ -1,1 +1,1 @@
-var mnemonic = "matter anxiety moral family purchase detail gown crumble guitar approve erode forum";
+var mnemonic = "tent claim cook alarm rhythm dynamic hope tired sunset dutch decorate sister";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear cost raven fun able sight mad pioneer squeeze suspect stone sting";
+var mnemonic = "sample bulb parrot switch pottery match husband exact sail shoe cupboard frame";

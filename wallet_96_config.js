@@ -1,1 +1,1 @@
-var mnemonic = "tone cushion sponsor chat control pink picnic venue leg cake path spider";
+var mnemonic = "season bulk year ozone certain cluster judge spatial frog power adapt all";

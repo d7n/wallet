@@ -1,1 +1,1 @@
-var mnemonic = "spatial sorry only love special ecology then bid hurt school bridge push";
+var mnemonic = "actor auction kangaroo sunset loud boring tooth crumble napkin friend holiday repeat";

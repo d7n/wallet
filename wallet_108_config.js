@@ -1,1 +1,1 @@
-var mnemonic = "trap eager purpose burden title abstract category ladder yard upset protect injury";
+var mnemonic = "curtain quantum gap whale resource glad tree enroll omit sun address sister";

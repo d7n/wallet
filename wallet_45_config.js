@@ -1,1 +1,1 @@
-var mnemonic = "stem erode believe hurry angry bird obtain cause depend chronic harvest submit";
+var mnemonic = "assume narrow jealous upset obey glove soft truth thumb degree future ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "noise excess pact century seat trophy scrub over letter dial output ghost";
+var mnemonic = "enroll disagree seed case target lend where army happy judge review escape";

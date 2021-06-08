@@ -1,1 +1,1 @@
-var mnemonic = "middle wash close start address drift ghost sweet match labor off act";
+var mnemonic = "rose pudding inject taxi holiday scorpion exclude possible volume forward crush wood";

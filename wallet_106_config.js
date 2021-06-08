@@ -1,1 +1,1 @@
-var mnemonic = "lens dawn lawn trial claw solve dilemma easily reunion possible wet provide";
+var mnemonic = "tuna sick twelve invest spell keen cram lake addict evoke wife december";

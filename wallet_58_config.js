@@ -1,1 +1,1 @@
-var mnemonic = "anchor exchange wish absent very humor subway snake now foil magnet season";
+var mnemonic = "derive income poem muscle usual pipe rival group crash victory laugh bright";

@@ -1,1 +1,1 @@
-var mnemonic = "license rhythm enroll genre border reopen orange bleak transfer coil bind have";
+var mnemonic = "dog define broken draft oak symbol glow car pitch pull motion grief";

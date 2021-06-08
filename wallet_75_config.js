@@ -1,1 +1,1 @@
-var mnemonic = "omit quantum palm upon planet snap give bunker option walk rather valley";
+var mnemonic = "simple float nominee fresh woman rather magnet track fault sell shoulder blast";

@@ -1,1 +1,1 @@
-var mnemonic = "define latin uniform remember foster gun pair bundle denial cattle dad icon";
+var mnemonic = "pistol craft noodle cupboard album snap type ten chase goddess dose fault";

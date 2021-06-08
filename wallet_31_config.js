@@ -1,1 +1,1 @@
-var mnemonic = "jungle walnut rib fluid alert chest park imitate medal jump lava fashion";
+var mnemonic = "patient afford material uncover theme decorate trap again pizza net connect okay";

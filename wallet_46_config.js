@@ -1,1 +1,1 @@
-var mnemonic = "club scorpion hurry machine bike drift liquid spend caught shrug pistol luggage";
+var mnemonic = "system bubble room silly enrich identify truly bullet smart maid honey equip";

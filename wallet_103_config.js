@@ -1,1 +1,1 @@
-var mnemonic = "nest merry dove stadium leader avoid peace pledge must public circle require";
+var mnemonic = "genre decrease utility coconut permit midnight garden thrive enter joy pole van";

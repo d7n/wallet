@@ -1,1 +1,1 @@
-var mnemonic = "youth memory civil cream hurry transfer spice scare fabric kidney all wrist";
+var mnemonic = "thought congress mechanic range genius label drum plate captain tornado fox idle";

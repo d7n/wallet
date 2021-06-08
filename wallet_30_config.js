@@ -1,1 +1,1 @@
-var mnemonic = "hill oblige leg coral another benefit view output father initial object spirit";
+var mnemonic = "fresh absurd where there twenty expose oyster cash heart curtain sphere turtle";

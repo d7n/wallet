@@ -1,1 +1,1 @@
-var mnemonic = "industry warm mimic brass print crater merge impose siren box jar brick";
+var mnemonic = "then pony traffic milk small interest museum hope nuclear open square plate";

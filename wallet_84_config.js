@@ -1,1 +1,1 @@
-var mnemonic = "earn dragon learn rug slice hair since total home fashion dust again";
+var mnemonic = "fringe toy hip girl carry silent credit gate jazz tortoise poet thought";

@@ -1,1 +1,1 @@
-var mnemonic = "gift sniff around broom lumber sauce observe enter cotton click spatial tube";
+var mnemonic = "blast dentist foil office appear finger later ice ceiling often twelve kiss";

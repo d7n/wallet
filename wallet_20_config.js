@@ -1,1 +1,1 @@
-var mnemonic = "boring coast fossil like visual evidence canyon path today lift stand private";
+var mnemonic = "deposit loop sand sibling carbon robust library key cake wish alley hotel";

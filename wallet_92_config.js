@@ -1,1 +1,1 @@
-var mnemonic = "tape east annual wild identify lock assume view tennis soda broken donkey";
+var mnemonic = "wide vast property deny razor risk phone type below struggle okay doll";

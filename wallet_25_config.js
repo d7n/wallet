@@ -1,1 +1,1 @@
-var mnemonic = "square milk horror planet cement ethics stool sadness stage gossip robot winter";
+var mnemonic = "reunion broom letter unit search brand sadness evidence betray project media panel";

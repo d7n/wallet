@@ -1,1 +1,1 @@
-var mnemonic = "sign retreat slot sea oxygen custom that short tuition another explain surround";
+var mnemonic = "great nasty will wrestle report turkey bone empower portion want gospel current";

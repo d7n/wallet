@@ -1,1 +1,1 @@
-var mnemonic = "board visa space patch safe clown stairs marble fence steak acoustic ankle";
+var mnemonic = "broccoli seek choice denial mimic zero design essay fault update crumble hole";

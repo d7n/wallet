@@ -1,1 +1,1 @@
-var mnemonic = "palace estate wink demise order heavy rough unfair honey judge round skull";
+var mnemonic = "step ticket access rifle pepper check arch token blast mesh employ cherry";

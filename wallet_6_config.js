@@ -1,1 +1,1 @@
-var mnemonic = "card mango learn drift midnight siege phone fabric seed play reward hand";
+var mnemonic = "struggle person iron effort ramp damage hollow strategy same conduct climb slender";

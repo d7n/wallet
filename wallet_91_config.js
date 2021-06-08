@@ -1,1 +1,1 @@
-var mnemonic = "lizard tired window inherit remember hint youth decade round stadium vague name";
+var mnemonic = "abstract fancy media reject device kick trash spice fiction certain grab degree";

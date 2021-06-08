@@ -1,1 +1,1 @@
-var mnemonic = "network borrow vast spirit hire blossom music glide method charge minimum law";
+var mnemonic = "unique diamond erupt toy pole effort shrug sunny frog amazing resemble cinnamon";

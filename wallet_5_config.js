@@ -1,1 +1,1 @@
-var mnemonic = "chase outside buyer blame banner garlic hollow wedding cabbage language pass come";
+var mnemonic = "useless always vibrant alien arm logic velvet sock between maze walk shop";

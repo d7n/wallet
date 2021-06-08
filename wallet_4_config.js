@@ -1,1 +1,1 @@
-var mnemonic = "biology midnight ethics alpha expose employ video demand inmate ignore luggage large";
+var mnemonic = "ability van destroy stumble canoe minimum immune broken echo strong fragile pulp";

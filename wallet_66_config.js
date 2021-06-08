@@ -1,1 +1,1 @@
-var mnemonic = "good hire whip very athlete disease abuse excite orchard pony equip senior";
+var mnemonic = "nothing loyal rival version fox evidence head unlock forum attract taste fold";

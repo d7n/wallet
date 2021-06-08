@@ -1,1 +1,1 @@
-var mnemonic = "host cry address bubble wheat transfer zone fitness trade flavor rescue ensure";
+var mnemonic = "kit weekend time sort actress scale couch denial riot sort shrug hollow";

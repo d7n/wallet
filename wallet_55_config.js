@@ -1,1 +1,1 @@
-var mnemonic = "once crumble foam blossom shock build want tail sugar smile metal humor";
+var mnemonic = "picture write pudding fit sure advance cinnamon narrow office wagon chapter now";

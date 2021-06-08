@@ -1,1 +1,1 @@
-var mnemonic = "insane human start wink inform trim family barely purchase normal master there";
+var mnemonic = "common okay reduce silent solar child fuel mirror earth remain siege damage";

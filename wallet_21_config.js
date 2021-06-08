@@ -1,1 +1,1 @@
-var mnemonic = "cement dismiss divert pluck affair tape sort illegal business owner furnace resource";
+var mnemonic = "parade glow shy layer plunge access sentence autumn force canal scrap scrub";

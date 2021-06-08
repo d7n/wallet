@@ -1,1 +1,1 @@
-var mnemonic = "large grit learn spend able snake announce engine exhaust valley rail satoshi";
+var mnemonic = "beef stable plug agent dizzy repair train bubble festival upper surface man";

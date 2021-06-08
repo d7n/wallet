@@ -1,1 +1,1 @@
-var mnemonic = "middle special dry lion task fruit rookie sort appear marriage ten gap";
+var mnemonic = "say disorder divorce room theme alarm boil chunk flag staff boat arctic";

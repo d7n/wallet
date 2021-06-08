@@ -1,1 +1,1 @@
-var mnemonic = "fine price connect casino change inherit belt swallow robot mad glance airport";
+var mnemonic = "display online dumb resemble broken mask misery cargo happy hedgehog fog aerobic";
