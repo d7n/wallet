@@ -1,1 +1,1 @@
-var mnemonic = "because alter roof gasp world split nature leader sting smile culture catch";
+var mnemonic = "token fan arch cycle foam crystal area west practice dose denial index";

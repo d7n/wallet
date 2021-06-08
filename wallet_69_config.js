@@ -1,1 +1,1 @@
-var mnemonic = "monkey tongue legend dentist hotel garage check recipe near hamster custom cushion";
+var mnemonic = "tank throw crisp quality unaware pass ramp obey vote spice leaf dad";

@@ -1,1 +1,1 @@
-var mnemonic = "curve brass grant gaze verify oak attitude bronze happy work inside sausage";
+var mnemonic = "debate section dust mass stereo guess puzzle flee sound fork ability quote";

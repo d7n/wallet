@@ -1,1 +1,1 @@
-var mnemonic = "vehicle market slow tilt mandate forget material wisdom inside cook foil magnet";
+var mnemonic = "achieve mountain earn adult name since message elite remember spare shaft test";

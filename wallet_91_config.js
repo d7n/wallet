@@ -1,1 +1,1 @@
-var mnemonic = "custom explain labor purpose siren tornado risk excite boring theory garbage business";
+var mnemonic = "brown indoor ride gentle fiction describe amazing lens hurt major pyramid clinic";

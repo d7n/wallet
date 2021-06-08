@@ -1,1 +1,1 @@
-var mnemonic = "require trust move mango despair limb mammal wet roof slush connect laundry";
+var mnemonic = "verify certain popular cotton stick anger just firm screen august primary runway";

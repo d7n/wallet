@@ -1,1 +1,1 @@
-var mnemonic = "stuff trend auction armor grocery music despair banner buddy exact crime rally";
+var mnemonic = "dirt clown wolf crime head prepare rescue crop flag enact manual diamond";

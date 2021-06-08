@@ -1,1 +1,1 @@
-var mnemonic = "region quit three tooth item nuclear city inspire anchor woman electric era";
+var mnemonic = "lion stadium ice cage myth seminar sustain material suspect roast sugar champion";

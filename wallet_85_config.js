@@ -1,1 +1,1 @@
-var mnemonic = "oxygen runway increase copper parrot rhythm flower garden possible key start trim";
+var mnemonic = "swap tenant jar saddle stamp stool crawl horror indicate start daughter draft";

@@ -1,1 +1,1 @@
-var mnemonic = "wine essence please situate issue panic wash loan universe river drift execute";
+var mnemonic = "major venue elevator energy wing joy survey goddess sort farm dish caution";

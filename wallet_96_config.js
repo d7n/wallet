@@ -1,1 +1,1 @@
-var mnemonic = "plastic solar crime over audit torch rookie elegant clever notable decide fever";
+var mnemonic = "absorb puppy private piano guitar ship thought pottery brush swim party climb";

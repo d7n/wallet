@@ -1,1 +1,1 @@
-var mnemonic = "garage talk cup torch right property mistake prison ridge foam input fine";
+var mnemonic = "first tilt avocado foil urban insect pretty future reflect dwarf grace bicycle";

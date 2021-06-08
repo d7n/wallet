@@ -1,1 +1,1 @@
-var mnemonic = "voice chimney garden defy market share myself unveil develop human mechanic review";
+var mnemonic = "tooth teach toilet nation call belt glue sting bullet basic tree seat";

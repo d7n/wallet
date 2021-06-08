@@ -1,1 +1,1 @@
-var mnemonic = "dismiss moment grunt fortune ostrich swamp wet child shrug card mercy camp";
+var mnemonic = "spring perfect vacant three woman only enroll chaos spoil better zoo extend";

@@ -1,1 +1,1 @@
-var mnemonic = "mad act huge plate huge feel width pond quiz toast history copy";
+var mnemonic = "maximum cinnamon stone use cup wave daring obey science blush weasel pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "upon bulk dismiss lesson double reduce alpha swear must tunnel shuffle solve";
+var mnemonic = "sport name sadness leg lonely fitness worry shoulder pen trophy sock kite";

@@ -1,1 +1,1 @@
-var mnemonic = "fit strategy idle sail peanut excess novel border tooth velvet enter firm";
+var mnemonic = "trick eye soap ten stock image kit grace guide monitor say flush";

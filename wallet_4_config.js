@@ -1,1 +1,1 @@
-var mnemonic = "sense inside neglect east minor chase where olympic isolate garment flavor latin";
+var mnemonic = "chicken caution donate eager seven quit desk language stomach connect glow sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "soda spin poverty stove drill width sustain pole trumpet margin hunt husband";
+var mnemonic = "pink misery sketch attitude side swear series fragile permit faculty together velvet";

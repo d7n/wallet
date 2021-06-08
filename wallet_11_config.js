@@ -1,1 +1,1 @@
-var mnemonic = "balance away violin wash mirror tiger start depth myth reunion empower dolphin";
+var mnemonic = "fossil harbor friend bring dawn goddess shed plastic duck report crime asset";

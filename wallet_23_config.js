@@ -1,1 +1,1 @@
-var mnemonic = "snow strategy twist april sword tissue empty vibrant trash unique shadow cross";
+var mnemonic = "green warrior hero shuffle chalk patrol miss walk two beef list garage";

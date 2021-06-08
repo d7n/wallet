@@ -1,1 +1,1 @@
-var mnemonic = "rib volume phrase author shy satoshi aim hedgehog ritual coast aisle strategy";
+var mnemonic = "sight clown skate board orphan blame notice city stadium safe current token";

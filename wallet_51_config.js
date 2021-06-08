@@ -1,1 +1,1 @@
-var mnemonic = "stuff captain about brisk volume recipe use shove blur loan discover stadium";
+var mnemonic = "empower execute paper weather girl during dismiss entire unfair scatter later fix";

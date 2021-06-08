@@ -1,1 +1,1 @@
-var mnemonic = "usual violin credit extra used month coffee learn unable swim transfer wrestle";
+var mnemonic = "slight raven master embark act wear moment staff region sugar exist kitten";

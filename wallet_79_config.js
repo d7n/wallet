@@ -1,1 +1,1 @@
-var mnemonic = "relax chaos security example relief enhance wagon kind put other eye involve";
+var mnemonic = "volcano summer garlic senior pilot razor breeze lady sugar april south forward";

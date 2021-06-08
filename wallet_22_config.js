@@ -1,1 +1,1 @@
-var mnemonic = "evoke gym march garage uniform friend achieve suffer suggest globe slight deal";
+var mnemonic = "piece goose glow clerk stand hard off symptom eight cattle enforce together";

@@ -1,1 +1,1 @@
-var mnemonic = "hundred bamboo move sweet bitter promote crazy badge brain step stock harbor";
+var mnemonic = "monitor believe beauty february define organ radio crazy empower exchange certain oak";

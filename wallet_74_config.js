@@ -1,1 +1,1 @@
-var mnemonic = "right nominee glory recall crawl time alley cupboard sword symptom tattoo grief";
+var mnemonic = "globe veteran creek test local timber mean dragon fat scrap tooth patient";

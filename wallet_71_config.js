@@ -1,1 +1,1 @@
-var mnemonic = "exit surround control draft abstract tenant put expand curtain deal impose young";
+var mnemonic = "sense setup shaft bright diesel dance soft slush west agent mixture wire";

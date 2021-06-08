@@ -1,1 +1,1 @@
-var mnemonic = "interest code offer weekend place way point ketchup eagle car alien cost";
+var mnemonic = "lab estate tongue quality glory finger north analyst laugh member gain shadow";

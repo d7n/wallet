@@ -1,1 +1,1 @@
-var mnemonic = "already faculty tree remind glimpse fortune flavor subject foot frame matrix hub";
+var mnemonic = "better clerk talent peasant exact girl penalty close sport floor float run";

@@ -1,1 +1,1 @@
-var mnemonic = "loan hospital addict purchase interest mystery vanish expand floor capable team reveal";
+var mnemonic = "deputy danger furnace rain myself daughter width common pass cross core slot";

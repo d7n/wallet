@@ -1,1 +1,1 @@
-var mnemonic = "magic radar cheap pelican dish report feed jump angry quiz knife learn";
+var mnemonic = "pelican confirm globe glare rather liar client metal tower beyond fan reject";

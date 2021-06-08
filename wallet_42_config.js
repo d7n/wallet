@@ -1,1 +1,1 @@
-var mnemonic = "vacuum arrest hole scout cinnamon rabbit letter rally curtain double warm core";
+var mnemonic = "leave scrub ethics relief toddler box egg fashion general attend squeeze oven";

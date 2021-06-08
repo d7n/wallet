@@ -1,1 +1,1 @@
-var mnemonic = "mandate prepare trouble total ramp science summer mother soul fit move two";
+var mnemonic = "scan type keen wine divorce sport you snap oblige produce kitten lumber";

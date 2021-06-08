@@ -1,1 +1,1 @@
-var mnemonic = "poverty apology throw scare rule expect camp genius pilot cattle mercy lesson";
+var mnemonic = "cave winter innocent pencil orient honey wrestle clerk snack pink like resource";

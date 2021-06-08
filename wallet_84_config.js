@@ -1,1 +1,1 @@
-var mnemonic = "tribe capital unveil salt coral neutral sun squirrel about where visa gasp";
+var mnemonic = "stage exotic jealous museum squirrel airport episode never aspect license rare circle";

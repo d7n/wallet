@@ -1,1 +1,1 @@
-var mnemonic = "end bring express tone manual fish purity legal icon hello topple bridge";
+var mnemonic = "loud tomato field dish drift viable food endless buyer office palace drink";

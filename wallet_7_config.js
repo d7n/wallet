@@ -1,1 +1,1 @@
-var mnemonic = "mix clutch hotel zone leave crucial wrist urban jazz neutral wide bicycle";
+var mnemonic = "traffic purse account double quick spend torch antenna silk tuition front once";

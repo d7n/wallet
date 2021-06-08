@@ -1,1 +1,1 @@
-var mnemonic = "rescue vast valley blue valve title daughter settle month basic flag debate";
+var mnemonic = "brief build winner agent future impulse identify suit tube inhale metal leisure";

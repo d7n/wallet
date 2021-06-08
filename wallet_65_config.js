@@ -1,1 +1,1 @@
-var mnemonic = "network cactus sleep fly number security sea provide alarm shine recipe belt";
+var mnemonic = "approve exercise holiday govern release vacuum document spread width gorilla modify bottom";

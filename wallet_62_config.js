@@ -1,1 +1,1 @@
-var mnemonic = "episode theory modify upgrade museum blame few trouble eternal peace slide neck";
+var mnemonic = "demise guide gadget alcohol pitch sudden claim fantasy absurd split glare lab";

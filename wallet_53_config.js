@@ -1,1 +1,1 @@
-var mnemonic = "document nice pepper wire alien aware top endless light faint giggle margin";
+var mnemonic = "muscle pilot title safe scheme scatter ceiling runway budget carpet grant near";

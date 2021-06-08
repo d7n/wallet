@@ -1,1 +1,1 @@
-var mnemonic = "curious couch swarm swing label license length height gospel spot champion nature";
+var mnemonic = "quit asset tower inch giant club stuff special jazz quality planet gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "certain husband salt aerobic setup paper mixture warm guard laugh chimney tree";
+var mnemonic = "obtain globe funny omit jump come fish way possible chalk swim hour";

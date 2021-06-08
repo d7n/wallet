@@ -1,1 +1,1 @@
-var mnemonic = "tube dance top genuine course egg worry humble onion bubble wreck cry";
+var mnemonic = "rifle aerobic trap enhance kidney can fury cereal bronze float cross pelican";

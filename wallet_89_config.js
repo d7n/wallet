@@ -1,1 +1,1 @@
-var mnemonic = "lonely plastic typical sunset cry design wedding stick throw gas monitor lyrics";
+var mnemonic = "crowd tumble outdoor dismiss chicken squirrel comfort beach scissors proof soda skirt";

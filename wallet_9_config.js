@@ -1,1 +1,1 @@
-var mnemonic = "actress soft budget decrease pass immune spatial dial apple thrive scissors pulse";
+var mnemonic = "belt tissue task rail police budget build stamp tomato arena bid slow";

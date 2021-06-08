@@ -1,1 +1,1 @@
-var mnemonic = "remember galaxy tent scare tool element burst various doctor animal multiply stock";
+var mnemonic = "kind smile venture style eagle spirit hope shift jaguar subway spawn danger";

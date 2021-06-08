@@ -1,1 +1,1 @@
-var mnemonic = "forward soup edit squirrel this tornado merge ice gossip spy satisfy solar";
+var mnemonic = "tilt surround welcome feel action try frame catalog sister salute piano wear";

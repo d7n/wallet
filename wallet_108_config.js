@@ -1,1 +1,1 @@
-var mnemonic = "often fence spawn accuse blouse liquid useful happy super tourist era bacon";
+var mnemonic = "output speed pipe suit improve depth flame wide boil almost egg utility";

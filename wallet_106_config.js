@@ -1,1 +1,1 @@
-var mnemonic = "winter punch proud wasp cry visit stumble tourist tragic eight economy indoor";
+var mnemonic = "skirt black pipe gym market true burst guide spice skill mansion symbol";

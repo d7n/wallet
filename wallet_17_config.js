@@ -1,1 +1,1 @@
-var mnemonic = "midnight excess morning bottom proof business awkward spring access pipe dinosaur daughter";
+var mnemonic = "poet brother spell length sport chef never fatigue child bundle resist absent";

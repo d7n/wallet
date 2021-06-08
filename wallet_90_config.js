@@ -1,1 +1,1 @@
-var mnemonic = "frozen dolphin shrug wish camera never kiwi raven walnut enemy annual six";
+var mnemonic = "spy ivory ketchup foot cake little artefact cook diary grape machine actual";

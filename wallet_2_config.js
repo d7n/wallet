@@ -1,1 +1,1 @@
-var mnemonic = "roof sleep point blush pause fruit comfort like brief neglect stay captain";
+var mnemonic = "innocent sunny maid liar depend trim yellow paddle north clay truck collect";

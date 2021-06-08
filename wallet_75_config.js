@@ -1,1 +1,1 @@
-var mnemonic = "copper oyster clean market weekend figure wheat weather orbit today huge oppose";
+var mnemonic = "reopen broom despair private mule milk state armor attend buzz evidence banana";

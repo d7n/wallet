@@ -1,1 +1,1 @@
-var mnemonic = "rural fruit month aunt tattoo loud payment raise kitten elite lunar october";
+var mnemonic = "luggage manage similar annual prize video thunder master thunder vacuum speed reward";

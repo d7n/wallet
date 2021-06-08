@@ -1,1 +1,1 @@
-var mnemonic = "globe bottom street consider chunk impulse trophy undo toast town action wave";
+var mnemonic = "cattle assume cloth robot cat omit science dwarf web author width arrest";

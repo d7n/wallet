@@ -1,1 +1,1 @@
-var mnemonic = "awkward panel holiday inhale pretty jar cube right deal father olive inhale";
+var mnemonic = "wall enough turkey pipe train artist excess text royal fold when better";

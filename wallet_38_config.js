@@ -1,1 +1,1 @@
-var mnemonic = "farm swift violin federal joy lunar leader kingdom donor lonely cake enough";
+var mnemonic = "capable clap tell mule rebuild truth supply veteran brother ritual renew happy";

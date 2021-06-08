@@ -1,1 +1,1 @@
-var mnemonic = "shallow brisk verb patch problem shop simple taste permit polar flavor two";
+var mnemonic = "concert average laugh industry impact plastic cricket cluster find scale lyrics glare";

@@ -1,1 +1,1 @@
-var mnemonic = "impact icon describe account picture course depth dynamic media demand shaft anxiety";
+var mnemonic = "mention canoe trick cross noise silly have parrot phrase shift retreat milk";

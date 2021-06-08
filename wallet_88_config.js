@@ -1,1 +1,1 @@
-var mnemonic = "caution letter fruit satoshi mountain chase silver end diesel slim unknown faith";
+var mnemonic = "check task enter author metal affair next problem crash silver fetch clump";

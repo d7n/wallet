@@ -1,1 +1,1 @@
-var mnemonic = "pioneer turkey spider virtual clean cool man hour mango color river utility";
+var mnemonic = "shoulder chuckle correct frog expect stem cave audit general exit bid bless";

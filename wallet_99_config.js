@@ -1,1 +1,1 @@
-var mnemonic = "relief trust write pudding chaos acid ramp hawk cupboard hard river motion";
+var mnemonic = "outer float duck father rescue burden absurd hen animal valve mix syrup";

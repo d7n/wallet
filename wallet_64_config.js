@@ -1,1 +1,1 @@
-var mnemonic = "year oval sponsor casino pelican oval thing trouble strike between tornado trip";
+var mnemonic = "divide uphold item leader when another tuna ticket car safe special mandate";

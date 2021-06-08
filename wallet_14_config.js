@@ -1,1 +1,1 @@
-var mnemonic = "heavy code denial sleep fury harbor lyrics aware total deputy auction load";
+var mnemonic = "hip famous tattoo scale auction lucky blood slogan razor super october raccoon";

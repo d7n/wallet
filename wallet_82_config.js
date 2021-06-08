@@ -1,1 +1,1 @@
-var mnemonic = "spike prefer notice light brave bean ball dinosaur crazy crawl road leg";
+var mnemonic = "mansion clarify before insane cement caution leaf adjust moral near crew emotion";

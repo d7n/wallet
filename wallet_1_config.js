@@ -1,1 +1,1 @@
-var mnemonic = "ladder damage violin inside provide stick calm uncover bag glass zebra laugh";
+var mnemonic = "urge brass million hero monster culture case pulp helmet flame harbor effort";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition message glide paddle outer prosper april album tragic heavy valve core";
+var mnemonic = "hurdle title word banner option indicate govern canal scan level erosion topic";

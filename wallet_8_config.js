@@ -1,1 +1,1 @@
-var mnemonic = "glance update ceiling render element laptop latin belt want second prefer gauge";
+var mnemonic = "pledge energy sentence volume wave direct blind truck rely cousin horn case";

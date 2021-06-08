@@ -1,1 +1,1 @@
-var mnemonic = "uphold float accident defy frown olive extend expand enough say toddler spot";
+var mnemonic = "fix neck enact fluid tattoo top picnic business maximum stadium sound private";

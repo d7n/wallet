@@ -1,1 +1,1 @@
-var mnemonic = "distance slow flash client danger fade erode merge cruel normal gravity erupt";
+var mnemonic = "siege blast carpet method donkey scissors hungry theory device boost brand jelly";

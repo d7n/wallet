@@ -1,1 +1,1 @@
-var mnemonic = "goddess hello boil soccer nephew lava debate slim beef juice okay stamp";
+var mnemonic = "crew math cross inspire useful around effort arrive gospel stuff follow amazing";

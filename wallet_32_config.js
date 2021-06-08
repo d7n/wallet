@@ -1,1 +1,1 @@
-var mnemonic = "urban merge program valley all bleak stay element useful dust cushion defense";
+var mnemonic = "habit invest ball unit post stem oxygen opinion snap analyst code over";

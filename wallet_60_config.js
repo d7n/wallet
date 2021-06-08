@@ -1,1 +1,1 @@
-var mnemonic = "surface verify safe humble defy soul timber fiber frown ridge violin ill";
+var mnemonic = "wild online plunge shoulder panic shuffle cram actual small banana clap canoe";

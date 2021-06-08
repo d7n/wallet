@@ -1,1 +1,1 @@
-var mnemonic = "scrub fish child winner ice super immune casino measure skill hurdle absent";
+var mnemonic = "sun connect atom want wagon scrap burden end truth divert wash nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "safe confirm tunnel narrow deer crush wing monster bag estate bullet staff";
+var mnemonic = "old spin brand market fox solution broccoli bless couch couple panther staff";

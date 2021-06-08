@@ -1,1 +1,1 @@
-var mnemonic = "trust sadness sea genuine grape welcome general exercise attract asthma renew fitness";
+var mnemonic = "sad spare crunch file echo velvet jeans clip wish purse love know";

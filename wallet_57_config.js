@@ -1,1 +1,1 @@
-var mnemonic = "hammer utility divorce grass path ice tip come language disease puppy alley";
+var mnemonic = "visual ability crouch egg million bounce stock close galaxy doctor rifle predict";

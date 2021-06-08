@@ -1,1 +1,1 @@
-var mnemonic = "quiz filter use live tongue vehicle popular seat stone tip student unlock";
+var mnemonic = "mom coach task hover fit rally bunker chef orange flame dad shadow";

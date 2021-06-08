@@ -1,1 +1,1 @@
-var mnemonic = "mixed crisp error define town foil gain beach surround observe impulse parrot";
+var mnemonic = "already light clever pair punch report provide traffic eagle inspire install dad";

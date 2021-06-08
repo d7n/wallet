@@ -1,1 +1,1 @@
-var mnemonic = "forum sell envelope mountain awake same explain join assault race tumble spray";
+var mnemonic = "control ignore secret chaos example wheat benefit senior axis team upgrade broccoli";

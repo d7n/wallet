@@ -1,1 +1,1 @@
-var mnemonic = "genuine pipe praise flight snack bounce nut fragile good diagram bulk deputy";
+var mnemonic = "mimic crunch correct snow release mosquito bar flag record tomato myth oblige";

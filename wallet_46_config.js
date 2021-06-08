@@ -1,1 +1,1 @@
-var mnemonic = "trash junior embody term traffic distance ivory mimic kidney conduct crash upper";
+var mnemonic = "cage sketch genuine swim menu divorce depth embrace tree tunnel sweet limit";

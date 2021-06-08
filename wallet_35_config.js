@@ -1,1 +1,1 @@
-var mnemonic = "dry common build toy mad spoon harbor borrow cover poverty amateur vicious";
+var mnemonic = "antique adult notice river soccer film actor swift town town analyst awake";

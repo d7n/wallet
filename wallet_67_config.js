@@ -1,1 +1,1 @@
-var mnemonic = "upper genuine salon legend ride bitter insect copper satoshi will village city";
+var mnemonic = "donkey render census item travel foster second family move random spice insane";

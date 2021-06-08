@@ -1,1 +1,1 @@
-var mnemonic = "animal predict goose fancy trim blossom risk tennis shove mechanic stone sugar";
+var mnemonic = "talent share pill suspect urban grocery police tooth ask divide angle predict";

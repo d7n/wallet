@@ -1,1 +1,1 @@
-var mnemonic = "online scatter bean genius phrase addict random outdoor analyst jump nasty dragon";
+var mnemonic = "front sugar uncle prison gun impose keen lumber attract walnut grocery keep";

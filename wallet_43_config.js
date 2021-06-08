@@ -1,1 +1,1 @@
-var mnemonic = "submit present pledge slogan cycle figure pool sphere tongue song pact useless";
+var mnemonic = "latin ice amazing tone blush leader surface motor nerve december swallow siren";

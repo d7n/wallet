@@ -1,1 +1,1 @@
-var mnemonic = "amazing tongue pear cup sniff thrive own very pipe leave finish cat";
+var mnemonic = "faint file puppy believe silk width crane dilemma document flee lonely remove";

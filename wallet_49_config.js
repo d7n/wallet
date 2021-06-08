@@ -1,1 +1,1 @@
-var mnemonic = "sport day favorite pink valve sail purse absent roof spell harsh sight";
+var mnemonic = "fee crime alert myth mosquito large uphold remain biology decrease prefer order";
