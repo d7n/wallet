@@ -1,1 +1,1 @@
-var mnemonic = "saddle answer smoke cancel stadium resemble crowd wagon bring learn foster deal";
+var mnemonic = "used tortoise network volume tuna exist play topic throw issue glow market";

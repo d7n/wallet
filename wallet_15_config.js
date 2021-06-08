@@ -1,1 +1,1 @@
-var mnemonic = "leisure budget ivory behave valve picnic return winner noodle omit oak tray";
+var mnemonic = "program unfair employ rely custom side person amused collect shoot thumb steak";

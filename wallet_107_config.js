@@ -1,1 +1,1 @@
-var mnemonic = "weather domain giant rose just once debate inflict heart tenant divert siege";
+var mnemonic = "tissue pilot sponsor grab shrug rough repeat album solid love trade mushroom";

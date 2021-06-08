@@ -1,1 +1,1 @@
-var mnemonic = "boring true flush human author ramp about two timber shaft tumble omit";
+var mnemonic = "hero unhappy sugar faith thought rug venture resist morning index burger since";

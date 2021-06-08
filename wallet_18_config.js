@@ -1,1 +1,1 @@
-var mnemonic = "risk corn fetch detect chalk miracle kitten genre spider glide endorse split";
+var mnemonic = "since beef foil olympic toss gift sorry split other horse hockey spike";

@@ -1,1 +1,1 @@
-var mnemonic = "student sight glad treat bus lounge ordinary attitude comic thought regular mimic";
+var mnemonic = "style father amused upper skate struggle federal empty leg agree chief acoustic";

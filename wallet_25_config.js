@@ -1,1 +1,1 @@
-var mnemonic = "venue gun neither scare nothing method quality strategy address relief illness mass";
+var mnemonic = "voice write drive decline drip belt desert wasp noble mix keen dress";

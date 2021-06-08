@@ -1,1 +1,1 @@
-var mnemonic = "area maple famous divert interest mountain cave door surge mass bring shy";
+var mnemonic = "spray rhythm usage comfort doll squirrel place scout wide width census broom";

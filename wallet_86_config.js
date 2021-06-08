@@ -1,1 +1,1 @@
-var mnemonic = "forget hello just infant erode same script bird achieve exchange text mechanic";
+var mnemonic = "hire hover live flush foster airport spring mutual reform knock antique profit";

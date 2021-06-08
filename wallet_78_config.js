@@ -1,1 +1,1 @@
-var mnemonic = "cable wing gallery dumb broken island ring govern two suffer envelope frame";
+var mnemonic = "filter high sponsor skate diary trial pulse poet erupt pulse six relax";

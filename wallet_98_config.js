@@ -1,1 +1,1 @@
-var mnemonic = "rapid drip hour february liberty high police they response satoshi sea congress";
+var mnemonic = "salt tooth achieve lesson poem grass pilot build inside pride tilt accuse";

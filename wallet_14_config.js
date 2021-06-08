@@ -1,1 +1,1 @@
-var mnemonic = "strong east ready bulk pitch upon crop peace recall choose shallow symbol";
+var mnemonic = "unfold initial win frown giant again zoo indoor raise edge tortoise doctor";

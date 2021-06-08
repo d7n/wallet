@@ -1,1 +1,1 @@
-var mnemonic = "often point dumb shell devote slight grow scrub day level saddle youth";
+var mnemonic = "collect grow oblige jacket spider sense sick glue offer fury grow warrior";

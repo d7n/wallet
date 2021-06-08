@@ -1,1 +1,1 @@
-var mnemonic = "cart van sort pledge must team curve kitchen wing nose gloom perfect";
+var mnemonic = "path enter bargain wine pudding gown replace fringe cement true garden design";

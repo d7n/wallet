@@ -1,1 +1,1 @@
-var mnemonic = "essence calm coyote eye state drop route glue arena toward confirm security";
+var mnemonic = "unfold run salmon absent agree lift bulk radio unfold parrot excuse acquire";

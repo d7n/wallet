@@ -1,1 +1,1 @@
-var mnemonic = "mercy bounce harsh purchase round pizza home basket switch distance again face";
+var mnemonic = "gold decrease gown used siege potato upper drama rare dutch gold ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "find mountain bronze forum trip crater squirrel person link beef soul obvious";
+var mnemonic = "limb human canoe mesh donor sand alcohol elevator shoe scene mistake recipe";

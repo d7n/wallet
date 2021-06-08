@@ -1,1 +1,1 @@
-var mnemonic = "truly vendor bounce blush merge confirm thank behind blast provide surround sort";
+var mnemonic = "space entry wood hamster glory more during awake head way cave save";

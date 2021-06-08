@@ -1,1 +1,1 @@
-var mnemonic = "target popular heart hip point ripple plate autumn write cook drive text";
+var mnemonic = "mean raven demise youth drastic emerge foster nerve impact gorilla begin false";

@@ -1,1 +1,1 @@
-var mnemonic = "initial dumb profit glow labor face else zoo comic issue giggle survey";
+var mnemonic = "either hollow follow forward glad feature arrow robot access pluck velvet wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "admit elite reunion horn meadow inspire immune yard west laundry poverty receive";
+var mnemonic = "ski inform giggle lazy arrive edit author icon unable surface artefact glance";

@@ -1,1 +1,1 @@
-var mnemonic = "dad tube orange unhappy lawn hurry idea rail subway brand salmon afford";
+var mnemonic = "blue crush glide rude mule meat acquire pulse yard trouble lunar canyon";

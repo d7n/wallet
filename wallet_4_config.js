@@ -1,1 +1,1 @@
-var mnemonic = "runway word old crazy front spot destroy love then chat plunge review";
+var mnemonic = "lawsuit ostrich impact evolve alert album hurt bronze affair neither rhythm material";

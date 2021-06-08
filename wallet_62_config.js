@@ -1,1 +1,1 @@
-var mnemonic = "thunder purity apart similar solid hidden exercise sadness give clay random stool";
+var mnemonic = "essence jacket trophy dress fiscal only wolf napkin general truth shove talent";

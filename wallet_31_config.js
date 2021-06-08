@@ -1,1 +1,1 @@
-var mnemonic = "edge regular tumble smart energy correct certain rapid success immense layer crane";
+var mnemonic = "negative unique pact level security fan author crazy spell diesel mandate guilt";

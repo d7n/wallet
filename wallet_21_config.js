@@ -1,1 +1,1 @@
-var mnemonic = "property reunion eternal bridge unit mad tackle loan ten upper square special";
+var mnemonic = "other reflect copper flight bulk toilet reduce fiscal dry also require tip";

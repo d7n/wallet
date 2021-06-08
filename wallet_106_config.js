@@ -1,1 +1,1 @@
-var mnemonic = "winner border essay parent brain disorder cluster cinnamon silver deposit loud angry";
+var mnemonic = "sustain deposit suffer occur tide aunt surround warm act electric inch blood";

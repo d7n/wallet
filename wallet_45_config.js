@@ -1,1 +1,1 @@
-var mnemonic = "shuffle moon flat pilot dinner desk media voice area bone wear tattoo";
+var mnemonic = "genius gate reunion oak joke yard exchange embrace inch strategy frost venue";

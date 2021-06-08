@@ -1,1 +1,1 @@
-var mnemonic = "type aware differ ranch harsh frog cover consider nothing strategy dog prosper";
+var mnemonic = "antenna mail then mail stairs urge crop advance gaze broccoli virtual umbrella";

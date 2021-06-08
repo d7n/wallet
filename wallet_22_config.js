@@ -1,1 +1,1 @@
-var mnemonic = "legend gaze mansion pepper sauce young category speak ecology awake blur gift";
+var mnemonic = "seek speak almost only lumber box nose notice clap clip deliver cupboard";

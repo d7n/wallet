@@ -1,1 +1,1 @@
-var mnemonic = "soup retire action garlic talk trip depart win table attend student merge";
+var mnemonic = "return margin client wall message differ cinnamon snow bomb pilot gift aerobic";

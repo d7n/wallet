@@ -1,1 +1,1 @@
-var mnemonic = "warfare uniform abandon hollow lava copper chapter nominee mistake draft wrestle goose";
+var mnemonic = "eternal token guilt guard injury wait dad tail report shed setup erosion";

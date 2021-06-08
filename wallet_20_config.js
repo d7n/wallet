@@ -1,1 +1,1 @@
-var mnemonic = "wagon that camp gather sauce bitter spray kind grant border what tattoo";
+var mnemonic = "swamp pulp rigid wonder gallery blind chalk invite essay top melody cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "spend erode hockey grow fetch swift song bus notable final print finish";
+var mnemonic = "select panic usual under result error relief bridge hand erase thing actress";

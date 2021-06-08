@@ -1,1 +1,1 @@
-var mnemonic = "knee cotton review swap short give oak shiver valid rescue today police";
+var mnemonic = "tired biology click divorce box doctor behind fringe robot black arrange spot";

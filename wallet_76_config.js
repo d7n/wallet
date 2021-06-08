@@ -1,1 +1,1 @@
-var mnemonic = "suffer cheap sight deputy soul swing hood worth tiger prevent amused toddler";
+var mnemonic = "else mix shop travel desk example birth exchange dish buffalo song praise";

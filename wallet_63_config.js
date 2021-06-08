@@ -1,1 +1,1 @@
-var mnemonic = "wild glory unhappy worry move loyal furnace group act near acid enemy";
+var mnemonic = "pole egg crucial result warfare museum airport exclude repeat industry youth lonely";

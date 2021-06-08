@@ -1,1 +1,1 @@
-var mnemonic = "lizard physical say glove useful couch social wife clean heart chest ketchup";
+var mnemonic = "tumble brother more chalk slab slam eye idle film myth horse audit";

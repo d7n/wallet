@@ -1,1 +1,1 @@
-var mnemonic = "burst witness fluid work strong script prosper sand identify chat summer lemon";
+var mnemonic = "track spy tank leisure danger buffalo antenna embark asthma bench doll letter";

@@ -1,1 +1,1 @@
-var mnemonic = "direct man stomach gravity embark skate joke popular almost jealous corn plastic";
+var mnemonic = "erode shy medal soccer champion leopard knife visit equip ecology crumble bottom";

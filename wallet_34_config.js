@@ -1,1 +1,1 @@
-var mnemonic = "original cradle wide lemon easily amateur sail arctic drive pattern pistol benefit";
+var mnemonic = "cement boy bright deer equip soul horn deer icon age stadium limit";

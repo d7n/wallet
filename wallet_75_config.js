@@ -1,1 +1,1 @@
-var mnemonic = "dawn exchange bulk bring soccer square angle alpha denial belt quick trade";
+var mnemonic = "swamp blur bundle comfort burst exchange ethics net transfer crew small vapor";

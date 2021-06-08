@@ -1,1 +1,1 @@
-var mnemonic = "alley team jeans desert actress tiny net shadow favorite silk void hidden";
+var mnemonic = "frost insect occur resemble click clarify destroy fiber multiply seminar zone worth";

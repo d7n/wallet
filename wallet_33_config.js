@@ -1,1 +1,1 @@
-var mnemonic = "bulb horror chief logic vapor disagree north knife little bright mixture figure";
+var mnemonic = "off tube slow fat desert evil gadget stone offer battle drift horn";

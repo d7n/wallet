@@ -1,1 +1,1 @@
-var mnemonic = "opera feel bomb maze marine panda economy ticket marble obey melt rely";
+var mnemonic = "actor vocal fog credit female fatal road museum sure summer gravity fox";

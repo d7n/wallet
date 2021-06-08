@@ -1,1 +1,1 @@
-var mnemonic = "leg blade tip list destroy neither century then lucky must lucky couch";
+var mnemonic = "together old manual myself fault clutch vocal vault excess become object stairs";

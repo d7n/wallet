@@ -1,1 +1,1 @@
-var mnemonic = "iron enhance dish tower marine crash harvest lawsuit sorry busy purchase frame";
+var mnemonic = "slab legal recycle bright hamster milk picture pride surge cargo horse punch";

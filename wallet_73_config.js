@@ -1,1 +1,1 @@
-var mnemonic = "pilot prize south nature science artwork claim female equip lecture total student";
+var mnemonic = "trophy dismiss group master pupil cigar tattoo sustain fortune middle injury math";

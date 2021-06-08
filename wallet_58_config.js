@@ -1,1 +1,1 @@
-var mnemonic = "reason yard tomorrow father recycle album toss hour table banner amazing pear";
+var mnemonic = "volcano earth motion error pattern video quote cry false call issue unfair";

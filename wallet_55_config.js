@@ -1,1 +1,1 @@
-var mnemonic = "cover damage stumble fox hazard august drill holiday wish slide oppose brand";
+var mnemonic = "congress lake they draw box negative home earn basic rude change match";

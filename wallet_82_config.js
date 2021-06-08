@@ -1,1 +1,1 @@
-var mnemonic = "session move filter critic spray shy forest tobacco duty brother wife embrace";
+var mnemonic = "cricket roof cinnamon keen theory slot report vacuum cloth endorse lesson evoke";

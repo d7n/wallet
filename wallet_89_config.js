@@ -1,1 +1,1 @@
-var mnemonic = "diamond path polar mind man aspect swift thunder moon weasel camp slogan";
+var mnemonic = "neglect math surface bread demise cruel garden open improve someone hire sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "city silk document verify page rocket oyster play tornado enhance spell practice";
+var mnemonic = "prosper boil glimpse sight laundry check general august attack suit raise scatter";

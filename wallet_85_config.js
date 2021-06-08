@@ -1,1 +1,1 @@
-var mnemonic = "orbit mushroom ankle essence gaze wink choose torch bomb equip idle laugh";
+var mnemonic = "pigeon wonder only loop follow deputy draft object suggest slice mosquito public";

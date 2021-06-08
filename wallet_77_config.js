@@ -1,1 +1,1 @@
-var mnemonic = "material moment stem exclude cigar treat game dress update chest double verify";
+var mnemonic = "bus eight barrel disease senior dune scout luxury catch flip rookie report";

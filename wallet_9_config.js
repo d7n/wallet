@@ -1,1 +1,1 @@
-var mnemonic = "service license another slim glide era try moral gallery govern identify caught";
+var mnemonic = "orange palace clay replace hurt trip arctic assume genre become elite buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture invite card vote powder dial forward life capital nominee gentle laptop";
+var mnemonic = "deputy intact episode enact crime estate now prize guilt adapt road robot";

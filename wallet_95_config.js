@@ -1,1 +1,1 @@
-var mnemonic = "thing reopen gravity young slim either whale approve silly diamond shrimp adjust";
+var mnemonic = "laugh bike secret infant room bread lend quick dance alarm steel song";

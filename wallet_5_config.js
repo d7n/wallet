@@ -1,1 +1,1 @@
-var mnemonic = "enroll enforce fragile deputy exist crystal verb video apology curtain between donate";
+var mnemonic = "hour muffin choice unfold despair fault absurd pause act misery egg learn";

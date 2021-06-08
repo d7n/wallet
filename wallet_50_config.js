@@ -1,1 +1,1 @@
-var mnemonic = "inform daring oven robust alley initial rail member flat select verify bind";
+var mnemonic = "pond cross auction kitten climb grant capable leg please tattoo empty mesh";

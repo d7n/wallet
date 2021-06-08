@@ -1,1 +1,1 @@
-var mnemonic = "believe cinnamon arena shiver valve enlist magic code congress unfair present penalty";
+var mnemonic = "patient devote veteran segment ranch ugly organ gauge festival bridge siren way";

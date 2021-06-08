@@ -1,1 +1,1 @@
-var mnemonic = "orphan payment throw entire expose phone dizzy film demise scorpion arch birth";
+var mnemonic = "jungle web camp labor tennis relief slight arctic jealous own shaft wire";

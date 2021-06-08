@@ -1,1 +1,1 @@
-var mnemonic = "flat earth arena toward pull deny stock science airport middle case symptom";
+var mnemonic = "execute disease coral clutch blossom leopard cause stadium emerge profit usage obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "air combine rigid mobile pottery mosquito dwarf deposit outer credit crouch unfold";
+var mnemonic = "unable section charge ready gorilla dentist snake mercy anger tornado antenna own";

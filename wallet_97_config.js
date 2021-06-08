@@ -1,1 +1,1 @@
-var mnemonic = "document anxiety rather night fuel biology predict example lazy lift panic spy";
+var mnemonic = "enroll peasant apple viable evil sting extra crunch shop twelve aim disorder";

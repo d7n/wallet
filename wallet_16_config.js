@@ -1,1 +1,1 @@
-var mnemonic = "perfect tide arrow reduce square impact magic swap ask tag alert outside";
+var mnemonic = "brave seat vast soldier garage crop top flight blue emerge dance coach";

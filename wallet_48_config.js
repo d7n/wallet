@@ -1,1 +1,1 @@
-var mnemonic = "frozen idea gallery scout okay garden snake clip brand wagon analyst drip";
+var mnemonic = "axis bronze right economy pizza joy region exile erupt hurdle champion marble";

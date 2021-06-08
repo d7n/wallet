@@ -1,1 +1,1 @@
-var mnemonic = "edge planet anxiety river toilet maze aim column palace parrot parrot glory";
+var mnemonic = "dice rib group moral case version iron siege skate walk end cover";

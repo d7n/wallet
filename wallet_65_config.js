@@ -1,1 +1,1 @@
-var mnemonic = "feed stage now chair verb pencil verb penalty pepper dream pupil milk";
+var mnemonic = "wagon spider offer laugh civil issue race elevator autumn aerobic seat taste";

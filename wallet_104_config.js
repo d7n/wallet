@@ -1,1 +1,1 @@
-var mnemonic = "wash response consider half giant meat promote disagree quantum garment tenant pair";
+var mnemonic = "weekend alien weekend narrow great attend search prevent spoil betray wait tip";

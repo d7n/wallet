@@ -1,1 +1,1 @@
-var mnemonic = "dismiss hundred mixture rail sail hold veteran guard poet any bus treat";
+var mnemonic = "brass orange grocery suffer there sense alcohol seven inmate hobby hero aspect";

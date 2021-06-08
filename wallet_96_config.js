@@ -1,1 +1,1 @@
-var mnemonic = "ready repair tower nice knife crash ugly twist run cruel electric real";
+var mnemonic = "name slow manual genuine spell double solid chunk extend learn nephew ghost";

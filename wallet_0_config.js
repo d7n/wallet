@@ -1,1 +1,1 @@
-var mnemonic = "web borrow price oil cycle frown birth snow lesson fever city cloth";
+var mnemonic = "ribbon divorce around century usage chaos maze bachelor fault hour board blush";

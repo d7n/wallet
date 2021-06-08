@@ -1,1 +1,1 @@
-var mnemonic = "gas dutch flavor pull job another melt depart kitten tag usual catch";
+var mnemonic = "bubble smart symptom raw subject cabin pepper carry renew luxury bunker drink";

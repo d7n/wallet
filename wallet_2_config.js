@@ -1,1 +1,1 @@
-var mnemonic = "ring traffic penalty monster magic regular social hour renew urge curious subject";
+var mnemonic = "blame damage happy polar mistake badge squirrel venue poet grape trouble equal";

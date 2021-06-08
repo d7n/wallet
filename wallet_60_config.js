@@ -1,1 +1,1 @@
-var mnemonic = "crumble damp culture own pink merge olympic vessel angle such soon rely";
+var mnemonic = "mesh private parrot diagram strike great way soul toe stomach pumpkin erase";

@@ -1,1 +1,1 @@
-var mnemonic = "kid cradle cube sleep source neither slow notice wish ready detect idle";
+var mnemonic = "myth orchard stereo worry addict industry moment coach joke clinic artist journey";

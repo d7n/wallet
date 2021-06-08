@@ -1,1 +1,1 @@
-var mnemonic = "march drift garden aisle repair early suffer usage utility garden dinner jealous";
+var mnemonic = "lady puzzle moon never myth old soap federal junior place treat fruit";

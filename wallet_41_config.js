@@ -1,1 +1,1 @@
-var mnemonic = "elephant used robot sudden excite common stamp mammal duty night carbon theme";
+var mnemonic = "car soda hand shadow reflect mixture just food helmet agree bike another";

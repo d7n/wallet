@@ -1,1 +1,1 @@
-var mnemonic = "history spider youth orbit typical void cry income depart sudden spin decide";
+var mnemonic = "anxiety between rail bag card auto field among unlock waste lyrics blouse";

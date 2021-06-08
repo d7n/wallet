@@ -1,1 +1,1 @@
-var mnemonic = "gadget album embark pottery that sadness gather anxiety hint leaf zero grace";
+var mnemonic = "sleep sunny prepare cheese notable charge gap crunch stool prison long castle";

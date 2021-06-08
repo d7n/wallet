@@ -1,1 +1,1 @@
-var mnemonic = "upset orbit glue acoustic smoke review mimic episode earn raccoon decade reunion";
+var mnemonic = "bike universe bronze yard involve decrease endless region about result record false";

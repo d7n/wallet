@@ -1,1 +1,1 @@
-var mnemonic = "awesome say lady disorder aspect cage barely slab distance second best sunset";
+var mnemonic = "pitch soda various action next taxi churn vicious question floor say blood";

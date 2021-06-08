@@ -1,1 +1,1 @@
-var mnemonic = "element over shop hover warfare end detect service phone duty present any";
+var mnemonic = "mimic odor walk clog comic clip ocean predict false move neutral joy";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair project shed modify warrior crowd inspire banner orange rescue plate hover";
+var mnemonic = "foot sugar fatigue peanut chronic robot chicken enter cry inquiry enable bubble";

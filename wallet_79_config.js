@@ -1,1 +1,1 @@
-var mnemonic = "draw glare faint tribe ladder spoil nothing behave bird chunk shoot drum";
+var mnemonic = "coil turkey detail surface flock enable satoshi jelly math tag arrange winner";

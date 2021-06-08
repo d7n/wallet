@@ -1,1 +1,1 @@
-var mnemonic = "pelican prosper box elephant thumb myself fresh high tone dinner relief blur";
+var mnemonic = "oil account menu wrist aware print year twist address endorse rose plastic";

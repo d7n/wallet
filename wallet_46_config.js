@@ -1,1 +1,1 @@
-var mnemonic = "long secret hole under enjoy news spin black lonely olympic present blood";
+var mnemonic = "believe flame arrange latin venture digital reduce apple biology write frozen icon";

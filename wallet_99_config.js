@@ -1,1 +1,1 @@
-var mnemonic = "margin item room dash cloud keen behind tank rain bus skull shrimp";
+var mnemonic = "panther electric child castle silly rhythm music credit mail oil donor sample";
