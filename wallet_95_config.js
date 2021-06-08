@@ -1,1 +1,1 @@
-var mnemonic = "album clap message theory grief salad blush disagree atom void sick tree";
+var mnemonic = "explain morning seminar away slogan annual soldier trouble pumpkin eye wine million";

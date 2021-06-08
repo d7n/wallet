@@ -1,1 +1,1 @@
-var mnemonic = "blast label jungle toe above ankle that office settle south issue barrel";
+var mnemonic = "remove rabbit second crime hip crane reveal evil badge lake zoo shadow";

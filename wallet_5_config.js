@@ -1,1 +1,1 @@
-var mnemonic = "second dutch cheap genuine luggage ski tragic ask thing option science explain";
+var mnemonic = "move wild garment hospital cash panther river tissue peanut lecture dolphin search";

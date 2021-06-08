@@ -1,1 +1,1 @@
-var mnemonic = "bomb ask cabin butter truly hunt magic cradle zone gown large transfer";
+var mnemonic = "hazard spare deliver slice addict address fortune begin buzz service east grief";

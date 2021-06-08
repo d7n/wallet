@@ -1,1 +1,1 @@
-var mnemonic = "bulk inherit bone dutch woman sheriff cigar reject cushion fan lucky have";
+var mnemonic = "innocent surface twice grain age genuine rib fossil another illegal card ribbon";

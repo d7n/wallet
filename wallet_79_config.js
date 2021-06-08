@@ -1,1 +1,1 @@
-var mnemonic = "recall extra panic suffer biology bike next tip rapid enable become vacant";
+var mnemonic = "trouble oppose display oxygen upset clean tobacco cycle chimney robust prosper photo";

@@ -1,1 +1,1 @@
-var mnemonic = "push boss letter glide identify husband verify absurd weekend announce veteran paddle";
+var mnemonic = "live settle arctic shaft teach dog assume snack bonus crisp twelve suffer";

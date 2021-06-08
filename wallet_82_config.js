@@ -1,1 +1,1 @@
-var mnemonic = "review hazard summer come pyramid royal fiber flavor blouse antenna emerge potato";
+var mnemonic = "capable fall exclude ketchup spend cover void marriage remove group artefact comfort";

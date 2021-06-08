@@ -1,1 +1,1 @@
-var mnemonic = "rigid swim same lobster panda normal century fluid square exile intact tray";
+var mnemonic = "stumble switch mesh shoulder cushion wrestle hurt acoustic flip wrist dish lady";

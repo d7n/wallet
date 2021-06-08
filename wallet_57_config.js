@@ -1,1 +1,1 @@
-var mnemonic = "tiny design panther force easy gain tonight slow pelican indoor mystery pond";
+var mnemonic = "material afford machine once remain month local gaze crucial fly cinnamon mask";

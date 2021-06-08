@@ -1,1 +1,1 @@
-var mnemonic = "spell luxury physical skull concert abuse say wife early river light avocado";
+var mnemonic = "capital champion dentist toy peasant rely cave kid argue turn tortoise ceiling";

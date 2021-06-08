@@ -1,1 +1,1 @@
-var mnemonic = "census worry escape meat alert lend juice scrap track expire solid equal";
+var mnemonic = "door shell radio roof planet erosion vacant message field leave license hen";

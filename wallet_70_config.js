@@ -1,1 +1,1 @@
-var mnemonic = "early grit comfort movie silk entire trap round version film admit govern";
+var mnemonic = "illegal join ask tourist message pill trophy forum course arm public into";

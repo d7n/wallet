@@ -1,1 +1,1 @@
-var mnemonic = "discover wasp clip student anger stereo enter liquid scare ice wood humor";
+var mnemonic = "cherry access hundred industry apology keen avoid fringe soccer autumn sun torch";

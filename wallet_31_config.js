@@ -1,1 +1,1 @@
-var mnemonic = "silk laptop frown drama pumpkin wash cycle traffic leave afraid virtual invite";
+var mnemonic = "loan test raccoon dance cheese razor priority girl enlist merry mistake sight";

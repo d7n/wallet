@@ -1,1 +1,1 @@
-var mnemonic = "captain jeans rescue invite whisper social lend one estate magnet open dentist";
+var mnemonic = "acquire crew catch arena trend deer minute lamp clutch beyond evolve scout";

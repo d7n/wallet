@@ -1,1 +1,1 @@
-var mnemonic = "route page eight history frequent apart elephant congress cry toy goat crane";
+var mnemonic = "fog lizard empower wheat island nice chest gossip finger cycle sugar walk";

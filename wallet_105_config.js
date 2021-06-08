@@ -1,1 +1,1 @@
-var mnemonic = "tilt welcome depart vapor nuclear vault rubber inspire venture drip train notable";
+var mnemonic = "oppose parade fork finger monitor loan denial identify april bonus dragon wood";

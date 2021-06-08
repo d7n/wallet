@@ -1,1 +1,1 @@
-var mnemonic = "canvas laugh explain shuffle similar sudden catalog dilemma bunker amazing truth kitchen";
+var mnemonic = "post skill panther spike delay brand garlic crouch rack announce fit chuckle";

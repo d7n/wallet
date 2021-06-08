@@ -1,1 +1,1 @@
-var mnemonic = "vibrant frost enemy invest churn impose volume pyramid shock immune memory below";
+var mnemonic = "fetch dog abstract connect metal twist leg trigger width sadness ribbon shine";

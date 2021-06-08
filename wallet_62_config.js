@@ -1,1 +1,1 @@
-var mnemonic = "diesel jar mandate run fit empty exotic concert nice giant horror twelve";
+var mnemonic = "easily cause jealous ensure swear wasp ignore hint embody ask jewel admit";

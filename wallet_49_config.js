@@ -1,1 +1,1 @@
-var mnemonic = "little upon autumn wheel produce celery page border shaft supply tackle liberty";
+var mnemonic = "frost oval hawk trial train talent boss birth artefact manage favorite dawn";

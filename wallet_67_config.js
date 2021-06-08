@@ -1,1 +1,1 @@
-var mnemonic = "forget soft iron segment lawsuit race pool fancy depart object profit cotton";
+var mnemonic = "spoil timber champion smile grape upgrade choose question try horse soup express";

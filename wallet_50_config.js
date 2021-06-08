@@ -1,1 +1,1 @@
-var mnemonic = "capable draft leaf stuff remove cruel maze clock tomorrow total pluck earn";
+var mnemonic = "tower news extra shoulder lumber toilet know parade right omit reduce lake";

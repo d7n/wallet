@@ -1,1 +1,1 @@
-var mnemonic = "exhibit they journey baby digital this uncle weapon say scrub they annual";
+var mnemonic = "much text salute relax clever network stool senior talent fever method charge";

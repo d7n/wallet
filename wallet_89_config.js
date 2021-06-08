@@ -1,1 +1,1 @@
-var mnemonic = "acid song identify punch tobacco damage bracket grid trap bike case present";
+var mnemonic = "permit price occur fix refuse cricket burden mutual live mosquito busy barely";

@@ -1,1 +1,1 @@
-var mnemonic = "paper pause grace manual thing about glow payment first bargain sword flush";
+var mnemonic = "admit kind topic patient salmon stable runway tourist impose together erase toss";

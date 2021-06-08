@@ -1,1 +1,1 @@
-var mnemonic = "century frog wife step chunk style industry grain poem major multiply twin";
+var mnemonic = "shock canal prepare exile fragile frozen leopard alert dentist display shoot promote";

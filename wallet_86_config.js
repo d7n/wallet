@@ -1,1 +1,1 @@
-var mnemonic = "flight funny rent craft material subject urban inform potato chief ecology success";
+var mnemonic = "pole canal method metal brief canvas fuel weapon mechanic mean butter twin";

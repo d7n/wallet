@@ -1,1 +1,1 @@
-var mnemonic = "powder cage trim lady acoustic weasel world else divorce animal hospital arm";
+var mnemonic = "number doctor car chunk abstract cube goat blush mansion stereo rough resource";

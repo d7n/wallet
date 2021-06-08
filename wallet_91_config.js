@@ -1,1 +1,1 @@
-var mnemonic = "priority garment meadow vault option man quarter nature crack bachelor safe nasty";
+var mnemonic = "bind denial window share spike turtle submit never senior suit sand tag";

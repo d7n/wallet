@@ -1,1 +1,1 @@
-var mnemonic = "example suspect panther slot stick puzzle focus mountain style blouse shy echo";
+var mnemonic = "jump this glass satoshi season vapor ahead swamp hawk egg situate repeat";

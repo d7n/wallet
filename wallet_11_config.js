@@ -1,1 +1,1 @@
-var mnemonic = "choose toast lobster barrel below miss chaos click away spoon fragile trade";
+var mnemonic = "wood number donor vessel shuffle help floor embark noise ketchup clap always";

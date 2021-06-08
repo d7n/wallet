@@ -1,1 +1,1 @@
-var mnemonic = "dial social stage high permit chaos stuff annual cliff hospital model radar";
+var mnemonic = "below deal often field memory ring art speak lens seek attitude label";

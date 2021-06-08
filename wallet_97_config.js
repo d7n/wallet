@@ -1,1 +1,1 @@
-var mnemonic = "couch thrive voice scrub problem accident business inch army uncle slow short";
+var mnemonic = "element poverty sudden ostrich chunk choose swap wine project danger cupboard chalk";

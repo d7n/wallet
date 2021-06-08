@@ -1,1 +1,1 @@
-var mnemonic = "paper romance sniff detail width path album prefer puzzle shoulder close grief";
+var mnemonic = "artwork fancy spread sport plunge repair motor bulb beauty proud enable paddle";

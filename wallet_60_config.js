@@ -1,1 +1,1 @@
-var mnemonic = "right tobacco enable order nut stadium risk injury bomb happy village motion";
+var mnemonic = "search drift roast bid badge canyon wrong tag improve jelly inhale cave";

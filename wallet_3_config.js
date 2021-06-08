@@ -1,1 +1,1 @@
-var mnemonic = "surround wrong fruit abuse auto segment skirt similar idea midnight sibling oak";
+var mnemonic = "employ fiscal recycle decorate aerobic gather add blast seven soccer outside february";

@@ -1,1 +1,1 @@
-var mnemonic = "sense future grit infant tissue clown torch anchor door orchard hedgehog humor";
+var mnemonic = "affair bless endless awake cabbage cactus stuff shell submit small harsh tone";

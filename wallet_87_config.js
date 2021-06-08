@@ -1,1 +1,1 @@
-var mnemonic = "art legal acid setup lion hour neither road traffic raise clutch zone";
+var mnemonic = "melt scout over cupboard when tube quality vocal work sock law dance";

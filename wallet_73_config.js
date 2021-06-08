@@ -1,1 +1,1 @@
-var mnemonic = "morning cereal blind over share around wine curious bulk gold heart bonus";
+var mnemonic = "capable amount business equip december wealth gentle south effort urban canyon detect";

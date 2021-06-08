@@ -1,1 +1,1 @@
-var mnemonic = "crash dawn army divorce taste clinic spike sting green lock actual violin";
+var mnemonic = "mother chalk cute lend speak address piano crucial gown praise front history";

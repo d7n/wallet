@@ -1,1 +1,1 @@
-var mnemonic = "cargo dad measure age spy shift toy shove cry clog modify banana";
+var mnemonic = "tunnel kite nut turn service shine bronze first ocean piece sibling six";

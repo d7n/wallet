@@ -1,1 +1,1 @@
-var mnemonic = "midnight ride screen ability devote betray common concert cereal expose super swear";
+var mnemonic = "gym logic cinnamon equip car example drink final marine cement feed joy";

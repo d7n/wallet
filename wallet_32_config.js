@@ -1,1 +1,1 @@
-var mnemonic = "modify minimum milk dose feature steak comic skin bleak piece purpose face";
+var mnemonic = "insect quality concert ginger brown noble gap art ceiling mechanic can under";

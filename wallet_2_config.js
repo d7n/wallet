@@ -1,1 +1,1 @@
-var mnemonic = "bomb infant sell vapor riot transfer unaware analyst hen cannon scheme dilemma";
+var mnemonic = "rose mesh grocery table vicious twice report pioneer account tent scrap grit";

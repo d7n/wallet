@@ -1,1 +1,1 @@
-var mnemonic = "deal crisp mirror say ecology govern fire veteran enable wonder skull donkey";
+var mnemonic = "host hockey seed south judge orient squirrel prize paddle when basic social";

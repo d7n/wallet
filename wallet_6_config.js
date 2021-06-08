@@ -1,1 +1,1 @@
-var mnemonic = "bird success worth ready supply wear silk chair kick coast early federal";
+var mnemonic = "antique tell squeeze piano exhibit shoot blush huge piano album burden bread";

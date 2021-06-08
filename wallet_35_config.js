@@ -1,1 +1,1 @@
-var mnemonic = "benefit coach plug calm april face grunt real battle camera need hair";
+var mnemonic = "lounge crowd economy labor there disease cart fly come vehicle round kit";

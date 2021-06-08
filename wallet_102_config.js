@@ -1,1 +1,1 @@
-var mnemonic = "velvet quit art night require proof bar nothing juice then celery lady";
+var mnemonic = "cram lunch neglect drastic canyon festival flush bright bamboo bubble inform title";

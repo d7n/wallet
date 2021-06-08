@@ -1,1 +1,1 @@
-var mnemonic = "trust impulse entire frown guilt foam live inject hurt scale city hard";
+var mnemonic = "north shiver seed suit differ unlock trigger range hood poem sing exhibit";

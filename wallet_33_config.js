@@ -1,1 +1,1 @@
-var mnemonic = "cry lizard gesture solar chief coast ranch bachelor boss thought tenant run";
+var mnemonic = "fever night emotion dirt minimum tone birth monitor unit please arrest awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp genius erase elevator remain toe wink mimic manual leopard wonder custom";
+var mnemonic = "master pitch install ethics slot judge else armed pilot sugar census verb";

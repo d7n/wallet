@@ -1,1 +1,1 @@
-var mnemonic = "spell thumb alarm federal aware twin already story between hair guitar roast";
+var mnemonic = "response make deliver process abstract bacon attend bridge such tiny source urban";

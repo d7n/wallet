@@ -1,1 +1,1 @@
-var mnemonic = "speak avocado subway project radio yard submit mail afraid mechanic walk cover";
+var mnemonic = "balcony auction drop swarm cushion crowd blossom year steel priority diesel salad";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage inner disagree slush carry flush diagram join stairs loyal cook curtain";
+var mnemonic = "good plate range light hurt hand pact wall night frog dumb top";

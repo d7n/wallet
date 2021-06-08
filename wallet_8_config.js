@@ -1,1 +1,1 @@
-var mnemonic = "brick sheriff renew aspect purse into fox vast negative draw shine allow";
+var mnemonic = "ability tank still sentence wide alcohol student fee blue always know assume";

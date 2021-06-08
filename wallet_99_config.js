@@ -1,1 +1,1 @@
-var mnemonic = "prevent rebuild salt cable sign can fossil excite can oven fall limb";
+var mnemonic = "lens mystery arctic pupil stamp own arm legend bring casual suspect uncover";

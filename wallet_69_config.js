@@ -1,1 +1,1 @@
-var mnemonic = "carpet critic ski deliver scan table giggle nephew timber any rhythm hood";
+var mnemonic = "february pepper bargain slow fortune wrong inhale key sell hover pole magic";

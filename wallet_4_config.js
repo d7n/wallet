@@ -1,1 +1,1 @@
-var mnemonic = "sail parade mask another fold shadow census cannon inhale travel night grant";
+var mnemonic = "there abstract add mail certain mobile retreat earn sketch dad cheese spend";

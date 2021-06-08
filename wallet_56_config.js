@@ -1,1 +1,1 @@
-var mnemonic = "they weasel young depth uncover void token slender garment scrap update bar";
+var mnemonic = "dinosaur wink pumpkin essay unhappy sudden ethics uncle coffee apple display wisdom";

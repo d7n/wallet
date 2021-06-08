@@ -1,1 +1,1 @@
-var mnemonic = "broom radar burst neither occur wrong grace culture actual enjoy cheese say";
+var mnemonic = "sorry there cage unhappy cram hammer off noodle scheme chat liar smile";

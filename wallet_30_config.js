@@ -1,1 +1,1 @@
-var mnemonic = "shove ready online walnut gallery later notable inject tourist scheme salt usual";
+var mnemonic = "history surround airport drift matter gym jungle engine symbol own couple surface";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge awesome tuna deny maid correct gadget idle such flip drive town";
+var mnemonic = "rice scale weekend fish soul horror uncle hybrid top arm element radar";

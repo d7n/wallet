@@ -1,1 +1,1 @@
-var mnemonic = "image naive ankle decline original cactus debris elephant series yellow soon salmon";
+var mnemonic = "master you month rose civil school lock oblige atom ordinary stay sheriff";

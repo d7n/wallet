@@ -1,1 +1,1 @@
-var mnemonic = "photo sponsor sphere project pass goose antique wedding olympic black gaze oven";
+var mnemonic = "ripple surge blast lemon rotate day scorpion hold very nuclear remove vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant section icon model churn monkey fire quarter junior enemy million desert";
+var mnemonic = "insect often trouble beyond order civil home high soda note coach hidden";

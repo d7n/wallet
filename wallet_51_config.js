@@ -1,1 +1,1 @@
-var mnemonic = "fiction legend gate drop train fever about whip useless attract pool tornado";
+var mnemonic = "click replace tomorrow border love private victory zero sketch limit trash tissue";

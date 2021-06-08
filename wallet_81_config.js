@@ -1,1 +1,1 @@
-var mnemonic = "glare hidden neither jar ceiling pact system broom target popular uncover rent";
+var mnemonic = "category custom team fly frown occur crumble deputy auto involve vessel elephant";

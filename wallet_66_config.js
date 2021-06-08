@@ -1,1 +1,1 @@
-var mnemonic = "hybrid fresh goddess reunion rabbit endorse glow face ankle body youth labor";
+var mnemonic = "leader bind bitter trouble hurry guilt there apple actual glory under extend";

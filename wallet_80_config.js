@@ -1,1 +1,1 @@
-var mnemonic = "crouch attract engage kitten hint crisp canvas term creek fork book since";
+var mnemonic = "resist try agent vessel morning tooth indoor bacon around disorder sword devote";

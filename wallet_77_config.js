@@ -1,1 +1,1 @@
-var mnemonic = "horror gossip whisper napkin pond bubble kingdom bean gorilla true assist ladder";
+var mnemonic = "puzzle become mix dust confirm glove evolve solve jeans melt nose river";

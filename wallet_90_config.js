@@ -1,1 +1,1 @@
-var mnemonic = "element unfair sample profit congress feel crucial very uniform cloth mix wrestle";
+var mnemonic = "snap math bird speed dress track journey umbrella custom need result night";

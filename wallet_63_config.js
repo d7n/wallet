@@ -1,1 +1,1 @@
-var mnemonic = "clown system fluid dinner happy impact lounge video mix mother blood filter";
+var mnemonic = "mixed slide better glue gravity oak box helmet garbage hockey defense toss";

@@ -1,1 +1,1 @@
-var mnemonic = "private trick detail only oven diesel border bamboo laundry cluster chest couch";
+var mnemonic = "goat assault lizard tumble interest happy anxiety speed bachelor usual become pigeon";

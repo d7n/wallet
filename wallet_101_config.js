@@ -1,1 +1,1 @@
-var mnemonic = "fluid away renew wine work future barely number fault six harvest genuine";
+var mnemonic = "ten breeze machine cradle faculty life crumble coin clap pencil illness census";

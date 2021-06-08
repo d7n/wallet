@@ -1,1 +1,1 @@
-var mnemonic = "parade pyramid short caught inch hat bulk laugh auto jewel pen trophy";
+var mnemonic = "post broom clinic horror flight more task long wet flip stage current";

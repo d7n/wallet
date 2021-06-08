@@ -1,1 +1,1 @@
-var mnemonic = "entire decrease toe enter rent embody raven bounce boil hero gesture gasp";
+var mnemonic = "hedgehog moon total angry same morning tragic address utility smoke time bright";

@@ -1,1 +1,1 @@
-var mnemonic = "sample reveal trade half move print label sadness dizzy kite base settle";
+var mnemonic = "large aerobic ghost ride frame topple abstract critic that upon dash disorder";

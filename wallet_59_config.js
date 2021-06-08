@@ -1,1 +1,1 @@
-var mnemonic = "rose inspire knock town enact spend call cause dial stuff type hope";
+var mnemonic = "sentence circle accident rib trumpet mirror mercy witness island dream cabin verb";

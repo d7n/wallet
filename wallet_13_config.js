@@ -1,1 +1,1 @@
-var mnemonic = "water coach snap apple slot engine since buyer fringe alter moon advice";
+var mnemonic = "call cactus slow slide confirm over urban into ripple town shy screen";

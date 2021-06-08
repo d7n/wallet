@@ -1,1 +1,1 @@
-var mnemonic = "talent stock owner outer worth floor observe snake vapor split moment able";
+var mnemonic = "giraffe ladder long certain shield allow keen ecology inject shy then hire";

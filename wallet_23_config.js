@@ -1,1 +1,1 @@
-var mnemonic = "heavy width damage rule foot scale crime wheel rotate valve update bean";
+var mnemonic = "stock accident culture rebel museum gaze goose smoke electric melt portion walk";

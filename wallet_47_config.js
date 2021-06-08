@@ -1,1 +1,1 @@
-var mnemonic = "stable oak broom cherry initial canal type access genuine swarm poet very";
+var mnemonic = "canvas floor gas ethics enemy fever report arrow dirt direct acid apple";

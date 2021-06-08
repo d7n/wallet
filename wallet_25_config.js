@@ -1,1 +1,1 @@
-var mnemonic = "cat arrow process matter enhance identify embark flavor cradle badge depend voyage";
+var mnemonic = "stuff inherit cool six license boy unfold like hood stock hazard absurd";
