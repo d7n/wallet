@@ -1,1 +1,1 @@
-var mnemonic = "drift laundry shrug exotic dry mass rice song exist verb clock fog";
+var mnemonic = "mesh settle loop engine uncle exchange flash capable vague vicious inflict stay";

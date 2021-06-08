@@ -1,1 +1,1 @@
-var mnemonic = "brass orphan load okay harvest wing comfort decorate unusual aisle name escape";
+var mnemonic = "sail bless flush flag acoustic pride industry quote heart globe fury robust";

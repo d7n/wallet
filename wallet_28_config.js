@@ -1,1 +1,1 @@
-var mnemonic = "sunny credit trend glue hurt loan brain theme replace job cruel matter";
+var mnemonic = "ecology stuff fan sudden robot devote fresh cereal meat cactus cloud diamond";

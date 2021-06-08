@@ -1,1 +1,1 @@
-var mnemonic = "mask target ridge small accident faculty antique aim hospital service private amazing";
+var mnemonic = "cake blanket artist include pair depth this amount fire convince rack pulp";

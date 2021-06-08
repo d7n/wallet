@@ -1,1 +1,1 @@
-var mnemonic = "arrest cover pumpkin wasp try predict edit coin blue copy jaguar hand";
+var mnemonic = "joke dignity athlete eight brief cause member any response drum boring grain";

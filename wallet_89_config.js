@@ -1,1 +1,1 @@
-var mnemonic = "click rhythm test nuclear mule owner nasty hundred gasp mobile boil risk";
+var mnemonic = "fantasy thumb mosquito differ double vague ocean frame ticket mind axis express";

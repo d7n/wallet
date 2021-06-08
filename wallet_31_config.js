@@ -1,1 +1,1 @@
-var mnemonic = "right muscle hood taxi race iron eternal rather meat draft drastic spread";
+var mnemonic = "mirror glide addict mixture distance garment tent attack dove deal bean boring";

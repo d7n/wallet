@@ -1,1 +1,1 @@
-var mnemonic = "autumn sense weekend kitchen matter swap major gown fork faculty erode caution";
+var mnemonic = "struggle three frozen crane suggest coach mammal autumn orbit segment sheriff coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "jump defy flock slam animal gravity nose elbow figure sport there increase";
+var mnemonic = "place exclude song curve insane test regret lock claw just notice fall";

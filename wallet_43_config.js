@@ -1,1 +1,1 @@
-var mnemonic = "large hybrid anger luxury before bonus chicken foot misery cause final foster";
+var mnemonic = "muscle liquid what number genuine ability voice naive uncle ethics snake cup";

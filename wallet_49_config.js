@@ -1,1 +1,1 @@
-var mnemonic = "indoor attitude engage often blast junk rebel air increase dinosaur favorite table";
+var mnemonic = "rhythm raccoon patient erupt sudden horse suit style goose gun hero item";

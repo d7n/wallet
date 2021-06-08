@@ -1,1 +1,1 @@
-var mnemonic = "pause school stool quiz milk kite leader bid express actual tide cupboard";
+var mnemonic = "under hedgehog prison parrot prize right gossip double cricket youth amount tattoo";

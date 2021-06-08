@@ -1,1 +1,1 @@
-var mnemonic = "page razor circle tube garment jeans spend wheel whisper proud machine unfair";
+var mnemonic = "spawn input direct virtual blue undo million lemon cable leg goose toward";

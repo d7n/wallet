@@ -1,1 +1,1 @@
-var mnemonic = "trap vocal cause prefer asset remind siege forum number anxiety hammer bunker";
+var mnemonic = "problem demise elephant badge soul turkey issue empty hello vanish pass oil";

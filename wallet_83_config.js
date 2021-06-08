@@ -1,1 +1,1 @@
-var mnemonic = "crisp consider breeze champion quiz essay park glimpse asthma real account wife";
+var mnemonic = "mad social next catch toy merit arrange second roof exit favorite magic";

@@ -1,1 +1,1 @@
-var mnemonic = "guide assist melody nut tomorrow dynamic tongue candy pipe whale busy hurry";
+var mnemonic = "eye club carbon nature picnic element tail system anchor target involve panther";

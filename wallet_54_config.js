@@ -1,1 +1,1 @@
-var mnemonic = "essence trade reunion file delay myself online glory say medal ring brand";
+var mnemonic = "cause asthma effort ask desert alone hub fuel mushroom employ chaos ripple";

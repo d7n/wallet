@@ -1,1 +1,1 @@
-var mnemonic = "chef height ivory general swamp era charge rain vibrant range treat prevent";
+var mnemonic = "bronze honey dinosaur dragon chuckle rice task bamboo rather future answer obscure";

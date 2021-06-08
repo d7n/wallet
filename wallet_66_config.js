@@ -1,1 +1,1 @@
-var mnemonic = "easily blanket power wild bamboo trouble almost plate strategy zero cattle inside";
+var mnemonic = "force cable oyster believe maze trade asset book attract travel sound honey";

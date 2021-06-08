@@ -1,1 +1,1 @@
-var mnemonic = "adjust duck fork exchange pole away impulse label custom gadget exercise spring";
+var mnemonic = "manage theme dizzy hammer tongue vessel blood saddle invest birth coach barely";

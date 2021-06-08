@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon valve kid indicate ozone duty night naive begin skate code joy";
+var mnemonic = "afford use crumble roast entry host force humble pill awake help sphere";

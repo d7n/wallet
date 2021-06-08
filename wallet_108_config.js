@@ -1,1 +1,1 @@
-var mnemonic = "spread spider want vendor equal cement boil upgrade news smooth practice derive";
+var mnemonic = "radio wreck peasant swallow glance coast cereal eyebrow village fox budget ocean";

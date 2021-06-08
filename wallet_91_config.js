@@ -1,1 +1,1 @@
-var mnemonic = "hard hub cluster primary crumble pact true envelope grid album syrup sea";
+var mnemonic = "habit quote harsh away never much sauce autumn spawn girl room alpha";

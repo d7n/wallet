@@ -1,1 +1,1 @@
-var mnemonic = "business topic popular panda plate dismiss tent upgrade ribbon steak interest possible";
+var mnemonic = "aunt magnet muscle merit clip come burden rice subway truth switch cram";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar silk before decrease amazing marble exact shop engage vote jungle dinosaur";
+var mnemonic = "wink manual youth play design island luxury group next ethics code faint";

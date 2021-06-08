@@ -1,1 +1,1 @@
-var mnemonic = "pistol speed worth stuff shaft sheriff cause cricket seat horn sorry design";
+var mnemonic = "piano vendor twenty regular isolate sunset ginger axis employ small kitchen victory";

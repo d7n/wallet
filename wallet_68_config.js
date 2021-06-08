@@ -1,1 +1,1 @@
-var mnemonic = "teach mean educate bottom hover define same keep outdoor call merit elegant";
+var mnemonic = "book come close sheriff gap animal radar material ill erode provide merit";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade guitar visual hotel raw license vanish onion twin when angry abandon";
+var mnemonic = "nut deny patch box mix birth indicate humor gesture derive suggest swift";

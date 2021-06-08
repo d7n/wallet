@@ -1,1 +1,1 @@
-var mnemonic = "kingdom secret nothing lawsuit search begin gesture galaxy hello stone author clap";
+var mnemonic = "rotate canal feature disease vivid disease fantasy trigger perfect army kit mention";

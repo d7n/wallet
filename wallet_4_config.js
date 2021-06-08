@@ -1,1 +1,1 @@
-var mnemonic = "decline visit obtain guitar hub noise horror faculty wear exotic draw citizen";
+var mnemonic = "steak minute shadow wall worry check road can drift key imitate lady";

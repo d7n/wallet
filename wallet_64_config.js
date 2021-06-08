@@ -1,1 +1,1 @@
-var mnemonic = "music cause subject behind clown say fall double student music agree shell";
+var mnemonic = "maple gate recall point select perfect bitter timber input crater wheel amused";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme club tissue rabbit habit vivid isolate across salad length genuine dial";
+var mnemonic = "inner pluck escape aware practice clown baby quiz universe sort alone divide";

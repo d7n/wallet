@@ -1,1 +1,1 @@
-var mnemonic = "spread can slow anxiety divide destroy foot humble practice hospital stand piece";
+var mnemonic = "chapter sunny elder obey grace play topple belt raccoon radio course public";

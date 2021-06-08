@@ -1,1 +1,1 @@
-var mnemonic = "milk warrior economy around crime inject bulb voice enhance survey front celery";
+var mnemonic = "caution absorb clean table extend fame board candy fly swing brush mistake";

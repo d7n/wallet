@@ -1,1 +1,1 @@
-var mnemonic = "arrange cage page expire board measure pool cupboard warrior cactus dragon movie";
+var mnemonic = "cousin health detail course lift blade embody install fat teach bunker stick";

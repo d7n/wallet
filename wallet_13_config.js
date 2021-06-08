@@ -1,1 +1,1 @@
-var mnemonic = "response hazard slice repair double dress certain common shell unfair comic task";
+var mnemonic = "muscle off symbol guide apology direct notice basic liar machine fluid reunion";

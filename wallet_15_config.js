@@ -1,1 +1,1 @@
-var mnemonic = "alone vehicle time gun glory holiday author always ripple year celery unknown";
+var mnemonic = "around labor mutual address circle slush next program brush arctic inmate universe";

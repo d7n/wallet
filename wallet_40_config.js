@@ -1,1 +1,1 @@
-var mnemonic = "supply pass road teach travel swear celery mesh title heavy feed middle";
+var mnemonic = "song sauce agree crucial caution sadness dose leopard universe alcohol donkey simple";

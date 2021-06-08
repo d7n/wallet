@@ -1,1 +1,1 @@
-var mnemonic = "adult wagon bench skin awesome together final shy taxi guide mix ghost";
+var mnemonic = "frown must material rule fit tragic muscle dash napkin velvet enact mule";

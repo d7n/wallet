@@ -1,1 +1,1 @@
-var mnemonic = "bag always spy major cradle window arrange often country sure kitten stage";
+var mnemonic = "orphan shift woman expose aspect expect surface base pair diet seek method";

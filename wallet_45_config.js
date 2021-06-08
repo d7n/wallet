@@ -1,1 +1,1 @@
-var mnemonic = "frost open job table render alone lunch main spray couple green spare";
+var mnemonic = "bulb need miss cook script umbrella exit cake soccer defense chest cause";

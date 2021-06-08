@@ -1,1 +1,1 @@
-var mnemonic = "city start face tackle essence shop tide evidence pair movie dose guitar";
+var mnemonic = "donate walk client over tool forward hover list almost miracle view vanish";

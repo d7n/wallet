@@ -1,1 +1,1 @@
-var mnemonic = "detect access below cool shiver pen copper modify melt easy start material";
+var mnemonic = "improve know market fat assist often drill hidden bunker round walk magnet";

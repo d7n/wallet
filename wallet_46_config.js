@@ -1,1 +1,1 @@
-var mnemonic = "hair blood canal solar own enact patrol boat diamond fall tag soft";
+var mnemonic = "version metal violin inject radar version develop fiscal wreck pistol creek bitter";

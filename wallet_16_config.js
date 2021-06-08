@@ -1,1 +1,1 @@
-var mnemonic = "coil carpet turtle return unfold hazard junk wife kitchen tell food warfare";
+var mnemonic = "choice stand twelve glow like exhaust tilt rug home hope jaguar find";

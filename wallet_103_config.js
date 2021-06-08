@@ -1,1 +1,1 @@
-var mnemonic = "demand corn two indoor swing shoot market peanut amount fossil genuine box";
+var mnemonic = "pink extend ugly blue humor helmet moment nothing gesture task spell click";

@@ -1,1 +1,1 @@
-var mnemonic = "exist test silver then fall place pledge suffer other moral scrub answer";
+var mnemonic = "gaze order time olympic place find segment yard search trick picnic bamboo";

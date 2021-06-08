@@ -1,1 +1,1 @@
-var mnemonic = "poem address concert purchase open couple rebel glide armor one copy excess";
+var mnemonic = "scatter reduce invite problem gorilla swap farm universe icon attack curve helmet";

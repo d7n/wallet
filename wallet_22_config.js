@@ -1,1 +1,1 @@
-var mnemonic = "salt labor metal indicate forest answer mosquito gold cute scare student trend";
+var mnemonic = "pigeon denial practice exotic dune cute welcome sport olympic always actual team";

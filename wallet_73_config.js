@@ -1,1 +1,1 @@
-var mnemonic = "police ship raise present visit order nose crazy right photo key wrist";
+var mnemonic = "problem bounce garment avoid quality where scrap renew devote convince table squeeze";

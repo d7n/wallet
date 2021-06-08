@@ -1,1 +1,1 @@
-var mnemonic = "approve tide topic check detect news reason blossom cupboard double dune bamboo";
+var mnemonic = "collect artist shaft extend retire final ice observe pole safe ship organ";

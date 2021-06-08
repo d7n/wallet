@@ -1,1 +1,1 @@
-var mnemonic = "cable deny wrestle they price badge chalk piano future fringe space unfold";
+var mnemonic = "gauge educate wealth foot cat dutch urban just planet remind inhale must";

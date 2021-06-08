@@ -1,1 +1,1 @@
-var mnemonic = "step couple gadget galaxy hip base oval cruise chicken account era sign";
+var mnemonic = "clump arch title feature soon cost oppose lesson yard force decade cost";

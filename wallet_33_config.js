@@ -1,1 +1,1 @@
-var mnemonic = "same deliver settle clap bachelor auction emerge sand together ice blind tiny";
+var mnemonic = "dial decide catalog clog safe update luxury tilt dry maple upon picture";

@@ -1,1 +1,1 @@
-var mnemonic = "coach verify way six eight embrace afraid hero blouse leader female mass";
+var mnemonic = "marriage quantum farm draft satisfy lawn slender upon swamp surge clump glimpse";

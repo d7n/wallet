@@ -1,1 +1,1 @@
-var mnemonic = "balcony another menu clean strong idea spend brisk stem custom firm draw";
+var mnemonic = "fresh prison worry permit world omit cinnamon bargain unusual rabbit hip crumble";

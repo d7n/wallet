@@ -1,1 +1,1 @@
-var mnemonic = "distance attack birth wrestle relax undo goose brown ill valley left wife";
+var mnemonic = "viable torch bacon galaxy suspect short crumble march ask welcome floor mask";

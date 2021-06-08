@@ -1,1 +1,1 @@
-var mnemonic = "lawn manual gown very gasp ceiling teach reject shallow boil wild situate";
+var mnemonic = "tape ethics avoid earn clock adjust judge student toward say skin moon";

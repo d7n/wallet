@@ -1,1 +1,1 @@
-var mnemonic = "bag crazy adapt student giggle hip trigger comfort inhale trip quarter round";
+var mnemonic = "chief boat rice follow unfair regret force problem subway injury disagree reason";

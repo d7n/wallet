@@ -1,1 +1,1 @@
-var mnemonic = "ketchup divide pattern spy chalk mail hobby critic balance spare belt cause";
+var mnemonic = "lamp urban super garage divert pattern syrup course tip rival sister fresh";

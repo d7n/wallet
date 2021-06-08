@@ -1,1 +1,1 @@
-var mnemonic = "payment quit jacket garment person sound gap fiscal have iron universe typical";
+var mnemonic = "outer travel daughter head inch emerge decide nice royal dentist gossip length";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic reduce ivory release museum focus hard sudden winner hidden husband praise";
+var mnemonic = "cherry trash fantasy curious flavor curious argue hour veteran filter transfer define";

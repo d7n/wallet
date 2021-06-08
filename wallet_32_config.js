@@ -1,1 +1,1 @@
-var mnemonic = "gas child bind stage unhappy flash city pyramid surge smooth budget inmate";
+var mnemonic = "potato fantasy maple myth hip license father twin famous sudden insane begin";

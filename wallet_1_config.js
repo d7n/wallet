@@ -1,1 +1,1 @@
-var mnemonic = "carbon again century exhibit situate repeat noise genre mixed unaware cannon decade";
+var mnemonic = "dolphin bonus other direct mind evil forum invite essence fiscal engage mechanic";

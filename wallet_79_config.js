@@ -1,1 +1,1 @@
-var mnemonic = "traffic assume collect flee slab crowd urban belt turtle result also plastic";
+var mnemonic = "salad jelly toilet major bachelor offer survey item dentist strong impact puzzle";

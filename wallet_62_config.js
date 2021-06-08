@@ -1,1 +1,1 @@
-var mnemonic = "laundry grab bacon pill news craft envelope tissue clip spare inch fortune";
+var mnemonic = "budget kitchen vendor champion nephew tuna group start juice duty neutral pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "glue armed envelope fine legend divorce lava tribe shaft tape favorite scout";
+var mnemonic = "beef sound normal grow leopard vivid mixture vast dance walk clown budget";

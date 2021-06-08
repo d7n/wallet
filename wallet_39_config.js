@@ -1,1 +1,1 @@
-var mnemonic = "matter mushroom kiwi lawsuit embark kitchen trip victory motor blur garden cart";
+var mnemonic = "apology tonight waste hub hybrid false uniform tent truly first pigeon area";

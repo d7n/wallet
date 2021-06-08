@@ -1,1 +1,1 @@
-var mnemonic = "butter frost citizen right artwork penalty evil trap certain over lyrics fetch";
+var mnemonic = "flee exile lyrics talent embrace quiz spread service fury punch gospel infant";

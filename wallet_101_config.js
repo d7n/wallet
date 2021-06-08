@@ -1,1 +1,1 @@
-var mnemonic = "merge cause junior test govern embrace physical tuna veteran enemy trumpet sort";
+var mnemonic = "dutch owner brisk fortune around enroll walk bargain tape cotton ready forest";

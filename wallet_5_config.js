@@ -1,1 +1,1 @@
-var mnemonic = "prize offer rural lawsuit wave vote base setup shine sphere unhappy debris";
+var mnemonic = "vessel jungle sell monster season hero spend hurdle monster tuition love basic";

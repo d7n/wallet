@@ -1,1 +1,1 @@
-var mnemonic = "height flame hamster infant donor section benefit profit tunnel pass benefit speak";
+var mnemonic = "display sentence twist kidney trouble nut kit push gaze float viable team";

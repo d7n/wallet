@@ -1,1 +1,1 @@
-var mnemonic = "arch gloom together collect peace sausage human raw drastic diet odor dilemma";
+var mnemonic = "item neither divert mistake fault holiday click rich accuse erase swallow bronze";

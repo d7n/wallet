@@ -1,1 +1,1 @@
-var mnemonic = "stand forest culture traffic cousin bonus gift erase rent survey exile siege";
+var mnemonic = "name knock gap phrase board bus endless vital strong rubber labor belt";

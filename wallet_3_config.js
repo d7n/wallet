@@ -1,1 +1,1 @@
-var mnemonic = "wasp satoshi laundry legal trick mango when forget decade dial arrange dial";
+var mnemonic = "boy vivid color federal badge stuff course random perfect wild army romance";

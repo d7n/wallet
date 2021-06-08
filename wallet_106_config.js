@@ -1,1 +1,1 @@
-var mnemonic = "naive cart almost token salon twice village cargo render island because time";
+var mnemonic = "abstract seat slam theory palace yellow sweet immune fit lumber portion river";

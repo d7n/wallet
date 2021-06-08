@@ -1,1 +1,1 @@
-var mnemonic = "tennis brief entire two item true effort side fatal connect rich cruel";
+var mnemonic = "fault galaxy field cake muffin regular roof bottom material cruel column rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin stone pattern cash dress page during derive summer flame country crop";
+var mnemonic = "sense hobby cover similar fuel cliff asthma educate file normal deputy forum";

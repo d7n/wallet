@@ -1,1 +1,1 @@
-var mnemonic = "airport aisle item symptom fat area hotel lyrics enact punch hope unique";
+var mnemonic = "garlic fetch visa february scene pond marriage weekend public clutch cross attend";

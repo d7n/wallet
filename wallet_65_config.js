@@ -1,1 +1,1 @@
-var mnemonic = "shy keep connect oblige author history bus february owner quantum river detect";
+var mnemonic = "add stomach peace alter drum dice purse census snow drink basic invite";

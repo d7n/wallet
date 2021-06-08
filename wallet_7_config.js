@@ -1,1 +1,1 @@
-var mnemonic = "vendor copper pet grant voice lecture grit pigeon twist casual photo cement";
+var mnemonic = "forest size gospel skin agent rent giant spell produce little vehicle puppy";

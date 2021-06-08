@@ -1,1 +1,1 @@
-var mnemonic = "today type badge stereo junior blanket village limit over tilt van churn";
+var mnemonic = "peace border uniform oval equal word exact into pet follow useful maple";

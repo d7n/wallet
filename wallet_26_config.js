@@ -1,1 +1,1 @@
-var mnemonic = "random erode dawn awake actress penalty margin wolf supply have more know";
+var mnemonic = "slice mimic screen work gown often double know warfare shove cube buddy";

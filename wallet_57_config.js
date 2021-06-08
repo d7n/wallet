@@ -1,1 +1,1 @@
-var mnemonic = "fancy fringe appear glance snake situate whisper maid service arrow hard vocal";
+var mnemonic = "round aspect salon maximum blade glory taste prevent three video sail illness";

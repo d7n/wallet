@@ -1,1 +1,1 @@
-var mnemonic = "youth paper tray hire must hurt peasant pave badge category supreme gas";
+var mnemonic = "circle charge turtle brother business couch just sauce dove throw bone mechanic";

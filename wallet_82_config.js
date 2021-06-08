@@ -1,1 +1,1 @@
-var mnemonic = "hole already hint mother trim wrap orient junior salt forward radar illness";
+var mnemonic = "stand reason supply census tip exact stable vast dawn leg drastic tip";

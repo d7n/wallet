@@ -1,1 +1,1 @@
-var mnemonic = "help erosion stereo husband barrel bacon elder exit blur earth globe fence";
+var mnemonic = "motor since economy gospel slot robust crisp sort seek rule noodle age";

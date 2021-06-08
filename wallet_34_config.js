@@ -1,1 +1,1 @@
-var mnemonic = "half curtain season century elite flame lawn breeze above text enter estate";
+var mnemonic = "ostrich maple empower service december favorite swear steel arrange industry negative youth";

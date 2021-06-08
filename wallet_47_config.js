@@ -1,1 +1,1 @@
-var mnemonic = "entry job seek awake dragon amount sure basic purity project wear point";
+var mnemonic = "fluid camp ensure royal drip vivid culture push banana runway inspire rate";

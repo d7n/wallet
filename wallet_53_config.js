@@ -1,1 +1,1 @@
-var mnemonic = "fault boost economy evoke pair domain open police visual inspire special allow";
+var mnemonic = "loyal butter panel humble hood insect vast gospel protect system record youth";

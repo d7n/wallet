@@ -1,1 +1,1 @@
-var mnemonic = "wage mask ostrich giraffe double scene copy cat output vehicle cabin coast";
+var mnemonic = "pull car receive assist air upgrade bright charge effort trophy syrup increase";

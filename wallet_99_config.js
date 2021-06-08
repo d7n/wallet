@@ -1,1 +1,1 @@
-var mnemonic = "dust lady degree rocket topic art void blade term junk top tape";
+var mnemonic = "damage auto dolphin measure more move beauty sweet image receive river end";

@@ -1,1 +1,1 @@
-var mnemonic = "dial sausage monster foster patch enough payment ivory tiny peace wool sock";
+var mnemonic = "outer turn gallery hover honey assume mountain disorder layer hurry business trouble";

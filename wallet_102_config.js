@@ -1,1 +1,1 @@
-var mnemonic = "process physical expire train photo fancy couple knock target zero fiction sell";
+var mnemonic = "peanut minor twenty one race clerk december clap kitchen artwork rigid myth";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion salt piano million fresh together solution blood warrior gloom vessel glove";
+var mnemonic = "project drive join you debris mother normal clutch faint proof word capital";

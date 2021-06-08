@@ -1,1 +1,1 @@
-var mnemonic = "clarify wasp flock despair version cover image wage design foam hospital siren";
+var mnemonic = "title gauge point gossip hollow defy ghost brisk yard cricket please kiss";

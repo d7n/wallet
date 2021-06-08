@@ -1,1 +1,1 @@
-var mnemonic = "tackle comfort hotel vanish camp portion flame canvas chaos afford hawk before";
+var mnemonic = "fancy affair wage solve luggage index baby viable vapor jazz buzz submit";

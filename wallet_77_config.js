@@ -1,1 +1,1 @@
-var mnemonic = "bridge glare fix flag public bachelor boss salon glass rubber cube amazing";
+var mnemonic = "island horse kit river tray suspect refuse mention cat desk gloom circle";

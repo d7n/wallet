@@ -1,1 +1,1 @@
-var mnemonic = "flock beauty metal squeeze much matter gauge jacket jeans virus frog debate";
+var mnemonic = "super puppy episode diagram usage genius aim achieve major sudden absurd despair";
