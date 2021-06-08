@@ -1,1 +1,1 @@
-var mnemonic = "glove term sausage simple thumb wise shaft often aisle unknown change feature";
+var mnemonic = "just party insect crunch rescue accident canyon badge find airport capital hero";

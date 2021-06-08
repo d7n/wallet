@@ -1,1 +1,1 @@
-var mnemonic = "toast town business host join enjoy mechanic cute police ready deer slot";
+var mnemonic = "squirrel kidney south person family manual predict local dentist armed demise industry";

@@ -1,1 +1,1 @@
-var mnemonic = "office chest forward olive pave arch hub moral base night glory other";
+var mnemonic = "season easily exit kick seven slim panic invite utility pet trial fiber";

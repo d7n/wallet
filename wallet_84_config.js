@@ -1,1 +1,1 @@
-var mnemonic = "survey clip sell rain divide habit ball habit unusual occur desert weasel";
+var mnemonic = "lava beauty device view error shy pony entry adjust rival wealth wolf";

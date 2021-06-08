@@ -1,1 +1,1 @@
-var mnemonic = "open author exercise meadow earth topple rhythm recipe crop glove transfer nose";
+var mnemonic = "fuel faint welcome key ship mobile cheese visit ask shiver enlist forum";

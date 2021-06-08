@@ -1,1 +1,1 @@
-var mnemonic = "earth motion toast galaxy initial gun night adapt inject imitate scrap dynamic";
+var mnemonic = "surge run december okay soap bitter flee stool mad trial various ripple";

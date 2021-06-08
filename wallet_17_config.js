@@ -1,1 +1,1 @@
-var mnemonic = "evil since coast creek century rescue dove sugar fury fresh decade mind";
+var mnemonic = "rookie license fox miracle chronic small someone notice lens spice electric flavor";

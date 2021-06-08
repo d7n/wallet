@@ -1,1 +1,1 @@
-var mnemonic = "broccoli income shed net section bomb nature tell panther popular peace walk";
+var mnemonic = "knife drum suffer tell scrap pretty arm above library shine reject supply";

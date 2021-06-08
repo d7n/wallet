@@ -1,1 +1,1 @@
-var mnemonic = "image middle merit spatial chat earth royal grab kangaroo fan spirit wing";
+var mnemonic = "paddle camp clock napkin leopard edit float tackle jungle butter car outdoor";

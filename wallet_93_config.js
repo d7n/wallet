@@ -1,1 +1,1 @@
-var mnemonic = "favorite century window amused post room please employ prize design floor later";
+var mnemonic = "interest jar bottom gun balcony first loan symbol treat indoor talent judge";

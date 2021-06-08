@@ -1,1 +1,1 @@
-var mnemonic = "absorb strike fence torch embark tackle come license sport tattoo mask hour";
+var mnemonic = "minute rug aware circle cash forget arctic tomorrow day cattle element legal";

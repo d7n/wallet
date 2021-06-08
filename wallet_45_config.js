@@ -1,1 +1,1 @@
-var mnemonic = "vessel cigar afford credit mean shine tube dinner scrap humor original swing";
+var mnemonic = "edit soldier unable glad insect arena hill screen behind nasty track first";

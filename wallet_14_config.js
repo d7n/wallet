@@ -1,1 +1,1 @@
-var mnemonic = "book primary tumble dirt expect hover tomorrow require such salt over exit";
+var mnemonic = "anger random room habit ritual result want pipe drip ill play lecture";

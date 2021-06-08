@@ -1,1 +1,1 @@
-var mnemonic = "truly panther benefit ramp congress salon suggest achieve sport devote attitude rain";
+var mnemonic = "doctor wagon wonder flush pigeon hobby proud element tuition spin van layer";

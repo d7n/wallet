@@ -1,1 +1,1 @@
-var mnemonic = "same replace alone pave attract guilt coyote father liquid soon clay convince";
+var mnemonic = "today spell rookie embrace clap repair absorb border maze depart grace time";

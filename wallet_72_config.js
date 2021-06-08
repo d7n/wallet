@@ -1,1 +1,1 @@
-var mnemonic = "become phrase pepper vault phrase hub movie lobster embrace phrase trigger joke";
+var mnemonic = "reunion enough scrub south average can pass brain company series drift sword";

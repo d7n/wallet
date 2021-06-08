@@ -1,1 +1,1 @@
-var mnemonic = "family huge long cereal tortoise gas measure buffalo crazy flock enroll orange";
+var mnemonic = "hip budget universe stage damage solid twenty combine tent error scout similar";

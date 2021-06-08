@@ -1,1 +1,1 @@
-var mnemonic = "repeat merit feel almost toss position seek south capital citizen melt bundle";
+var mnemonic = "alien order wave recycle bicycle shell month chuckle stadium spell price enroll";

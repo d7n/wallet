@@ -1,1 +1,1 @@
-var mnemonic = "connect repeat beauty before artist divide sunset dose shoulder decline daughter nose";
+var mnemonic = "crane purse flee six actor approve claim pill vast police level sting";

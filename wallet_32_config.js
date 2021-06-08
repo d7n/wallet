@@ -1,1 +1,1 @@
-var mnemonic = "habit wash grow sibling chimney polar toilet cup term one soon recipe";
+var mnemonic = "desert vivid evolve quote slogan kick admit between enroll casual rhythm lesson";

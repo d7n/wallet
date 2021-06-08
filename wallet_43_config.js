@@ -1,1 +1,1 @@
-var mnemonic = "forward salt section clown manage humor nephew bonus crime mixed six pride";
+var mnemonic = "brisk fade liquid promote plate answer hedgehog country net point shiver face";

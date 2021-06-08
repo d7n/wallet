@@ -1,1 +1,1 @@
-var mnemonic = "swim gap ring suspect flower there consider liquid when resemble legend junk";
+var mnemonic = "reveal topic panic electric total dose sword artist noise desk sudden brand";

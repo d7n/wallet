@@ -1,1 +1,1 @@
-var mnemonic = "cable board cliff shift dice coil bread point ski when ethics rich";
+var mnemonic = "reason purity flame hover paper truth what method live unknown plug victory";

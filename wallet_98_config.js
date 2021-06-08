@@ -1,1 +1,1 @@
-var mnemonic = "oxygen add leave rack hamster cloth diary give toddler hope print black";
+var mnemonic = "gospel leader tell crystal talk smooth decline lady planet occur keen cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "engage bubble shell modify pencil lobster jelly cattle input return scheme person";
+var mnemonic = "transfer cram length banana indoor cattle together kite movie alone belt library";

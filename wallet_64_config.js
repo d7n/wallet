@@ -1,1 +1,1 @@
-var mnemonic = "primary civil shiver letter wall potato wage focus hand fresh approve follow";
+var mnemonic = "sting romance weasel vendor sense slice assault solve kitchen merge coach argue";

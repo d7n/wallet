@@ -1,1 +1,1 @@
-var mnemonic = "pair setup chair cancel denial zone ostrich hen glory prosper dice market";
+var mnemonic = "penalty vessel find net seek put tribe hungry save lucky gravity unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "dune once burst then opinion gorilla correct robot split tonight hockey chimney";
+var mnemonic = "artwork require cross rival blast health walk game fruit season help tragic";

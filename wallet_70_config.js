@@ -1,1 +1,1 @@
-var mnemonic = "mention amount hill profit purpose spike reopen shy ethics liquid sell inform";
+var mnemonic = "crisp green replace add waste skin fancy correct around market hospital cheap";

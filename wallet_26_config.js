@@ -1,1 +1,1 @@
-var mnemonic = "atom alley sting wasp mule vague pistol say burger estate hint measure";
+var mnemonic = "involve wedding exile sketch engine palace season sound sign price aunt castle";

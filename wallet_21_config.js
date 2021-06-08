@@ -1,1 +1,1 @@
-var mnemonic = "cost another dwarf tomorrow achieve cover give season funny host tunnel reflect";
+var mnemonic = "weekend true hint narrow kitchen normal lens glow fatal beauty finish false";

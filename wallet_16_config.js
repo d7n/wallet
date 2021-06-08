@@ -1,1 +1,1 @@
-var mnemonic = "define cigar action cherry visual lottery front verb expand scout distance diagram";
+var mnemonic = "critic direct yard route industry vehicle umbrella light barrel grace zone deposit";

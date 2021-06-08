@@ -1,1 +1,1 @@
-var mnemonic = "together sign general forward junk blossom illness royal harbor fold spice candy";
+var mnemonic = "stomach boss vivid shoe range occur team unveil survey cliff deal public";

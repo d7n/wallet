@@ -1,1 +1,1 @@
-var mnemonic = "library visual weather arch convince marble undo win insane crawl boy sock";
+var mnemonic = "icon strike tenant section equal rabbit music cat leopard always zebra mention";

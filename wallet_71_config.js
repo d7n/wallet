@@ -1,1 +1,1 @@
-var mnemonic = "tank grunt mimic slam cluster easy culture kitchen brave item absent abstract";
+var mnemonic = "fold kiss indicate obvious allow useful average box soap crunch gauge life";

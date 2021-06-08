@@ -1,1 +1,1 @@
-var mnemonic = "remember walk address muscle tuition isolate omit antenna cupboard assault eight feel";
+var mnemonic = "play broom city swarm word gasp atom conduct autumn ritual able primary";

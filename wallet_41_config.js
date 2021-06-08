@@ -1,1 +1,1 @@
-var mnemonic = "category hundred dawn mass tissue join limit attend high devote link penalty";
+var mnemonic = "elegant pipe fortune apple random twice marriage blanket doctor dish stamp giant";

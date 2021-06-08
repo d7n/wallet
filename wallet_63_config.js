@@ -1,1 +1,1 @@
-var mnemonic = "twice weather gallery acoustic casino monkey dutch ancient mix toy tiger squirrel";
+var mnemonic = "casino cruise crater tenant aunt glare polar river inflict ghost chair pottery";

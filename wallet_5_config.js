@@ -1,1 +1,1 @@
-var mnemonic = "gun effort poverty vital flock turtle clip chronic follow erupt hen love";
+var mnemonic = "nephew pupil always merit uncle iron walnut stadium clog usage sheriff burden";

@@ -1,1 +1,1 @@
-var mnemonic = "craft kiwi accuse close garment fix fox deputy summer team tomorrow kid";
+var mnemonic = "unaware stock valid tennis plate add desk okay breeze above indicate coin";

@@ -1,1 +1,1 @@
-var mnemonic = "box wave expect observe nation peanut sunny era spot upset donkey kidney";
+var mnemonic = "disorder know upper salute define heart outdoor sun jungle all damage valid";

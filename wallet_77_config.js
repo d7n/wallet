@@ -1,1 +1,1 @@
-var mnemonic = "find oxygen level turkey mushroom cabbage farm drip surprise chase route ridge";
+var mnemonic = "retreat pyramid space lazy confirm soft connect oven orient quiz spawn safe";

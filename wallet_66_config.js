@@ -1,1 +1,1 @@
-var mnemonic = "lava scatter syrup nurse throw crawl apart attend title puzzle mammal inflict";
+var mnemonic = "talk then large similar token unique earth this pet sign goose field";

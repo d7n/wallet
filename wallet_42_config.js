@@ -1,1 +1,1 @@
-var mnemonic = "danger liberty issue victory ozone grass dentist present disagree symptom wall sure";
+var mnemonic = "snake awesome wire hood someone miss sad large problem visit remember excess";

@@ -1,1 +1,1 @@
-var mnemonic = "moon there fluid hello race enhance mail property cheese fence great lottery";
+var mnemonic = "water screen gesture neutral measure dog coffee merry humble picture vacant butter";

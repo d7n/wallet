@@ -1,1 +1,1 @@
-var mnemonic = "mother vehicle decline business surround stuff gentle ride balance ignore put civil";
+var mnemonic = "camera improve deposit either sunset oyster lens poet drill major country teach";

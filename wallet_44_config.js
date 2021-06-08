@@ -1,1 +1,1 @@
-var mnemonic = "fatigue seven carry churn learn ritual clip target wheel impact decrease snack";
+var mnemonic = "sample image medal journey access arrow surround spice spoil enroll panther gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "october core strike true swamp business abstract dirt broom target empower limb";
+var mnemonic = "rocket furnace margin figure clutch reveal antenna test sand twenty same library";

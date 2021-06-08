@@ -1,1 +1,1 @@
-var mnemonic = "regular music torch firm foster canoe scout tobacco gas tonight grape sadness";
+var mnemonic = "yard mass peace husband cage sock husband initial world axis guitar gospel";

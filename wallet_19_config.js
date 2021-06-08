@@ -1,1 +1,1 @@
-var mnemonic = "ocean miracle total arrive talent obtain never fiber office twice pride idea";
+var mnemonic = "maximum mystery collect code labor awkward slush floor critic favorite accuse say";

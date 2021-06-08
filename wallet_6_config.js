@@ -1,1 +1,1 @@
-var mnemonic = "saddle crunch gloom lounge trust column bird evil thumb toddler unknown brief";
+var mnemonic = "increase increase road ten cream flame rifle pull autumn involve now army";

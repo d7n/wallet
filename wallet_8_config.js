@@ -1,1 +1,1 @@
-var mnemonic = "coil vacant sense any act episode start around potato dumb crisp ahead";
+var mnemonic = "bamboo hurdle october craft other craft fancy install choice bus sense believe";

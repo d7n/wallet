@@ -1,1 +1,1 @@
-var mnemonic = "awkward acid term october trim music later age box purchase avoid little";
+var mnemonic = "trumpet yard erupt okay cheese cushion crush paper curious height table upper";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny below student slice eye uniform lazy broom below skull vacant music";
+var mnemonic = "drastic quick case hungry erupt approve indoor surround update issue swap breeze";

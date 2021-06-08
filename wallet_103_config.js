@@ -1,1 +1,1 @@
-var mnemonic = "tennis decline tired tennis warfare camera taste taste solar error shed cube";
+var mnemonic = "rubber honey bleak ivory fantasy veteran celery rain grunt friend address motor";

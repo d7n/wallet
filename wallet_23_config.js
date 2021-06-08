@@ -1,1 +1,1 @@
-var mnemonic = "slot soon arm ivory fruit call artist bar when weasel sea carpet";
+var mnemonic = "immense fire erase alley merry orange gym coach check erode destroy stock";

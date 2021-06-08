@@ -1,1 +1,1 @@
-var mnemonic = "whisper unhappy dinosaur lunar roast point barrel say innocent glide cement truth";
+var mnemonic = "bike wheel clutch draw toddler amused below rib run jar gown spend";

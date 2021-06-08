@@ -1,1 +1,1 @@
-var mnemonic = "north team pluck achieve cousin mother december stem warrior govern side chat";
+var mnemonic = "burden slide vehicle depth help forward strong sound raven cruel clog science";

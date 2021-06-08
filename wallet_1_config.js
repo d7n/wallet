@@ -1,1 +1,1 @@
-var mnemonic = "ancient shine rice element sausage push torch become kiwi extend foil ridge";
+var mnemonic = "spot ankle rain drip tail leave gasp april put gym dirt asthma";

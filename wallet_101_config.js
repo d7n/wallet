@@ -1,1 +1,1 @@
-var mnemonic = "tumble gun order balcony tent better spatial blood calm margin hurdle hub";
+var mnemonic = "daring crush wife fiction gate degree priority reopen comic hip corn dinosaur";

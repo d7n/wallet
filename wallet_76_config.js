@@ -1,1 +1,1 @@
-var mnemonic = "because shift steel fit magic journey rain weekend walk suffer oblige elevator";
+var mnemonic = "film rifle pulse report click patient behave dice carbon young pencil mushroom";

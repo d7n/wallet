@@ -1,1 +1,1 @@
-var mnemonic = "judge hazard permit pride merit polar course fatigue hand skill taxi asthma";
+var mnemonic = "donkey spy parrot end crew sea time open depend depart soccer sell";

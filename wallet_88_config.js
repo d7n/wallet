@@ -1,1 +1,1 @@
-var mnemonic = "exotic daughter finger observe scene glass survey finger spot matrix brush thrive";
+var mnemonic = "crazy host injury combine urban entire wealth input elder hybrid rebel pioneer";

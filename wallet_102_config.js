@@ -1,1 +1,1 @@
-var mnemonic = "cargo good brick sunset advance prize curious often dream romance inch mirror";
+var mnemonic = "spoil code mistake buzz main jewel novel post obscure adapt chest wasp";

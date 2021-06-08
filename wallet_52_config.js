@@ -1,1 +1,1 @@
-var mnemonic = "lunch census flag display paddle square verify oven black cup furnace define";
+var mnemonic = "lesson topple poet roast renew size around furnace flush worth oppose decorate";

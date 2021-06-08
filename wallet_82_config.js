@@ -1,1 +1,1 @@
-var mnemonic = "end friend cricket range basic write proof always call patient note seat";
+var mnemonic = "funny child wash drive sponsor pulse culture shy obscure canal joke fall";

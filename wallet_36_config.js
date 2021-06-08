@@ -1,1 +1,1 @@
-var mnemonic = "enable family hidden iron describe business giggle flight miss test cluster shrimp";
+var mnemonic = "dune control message reason frog supply picnic heavy siren work situate verify";

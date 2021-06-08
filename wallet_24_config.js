@@ -1,1 +1,1 @@
-var mnemonic = "march document month exclude swim fit rain city seed tooth now belt";
+var mnemonic = "brain decline surprise field puppy shop adapt neutral worth increase supreme amused";

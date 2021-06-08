@@ -1,1 +1,1 @@
-var mnemonic = "judge corn local ahead denial drive endless asthma hollow rabbit soon solid";
+var mnemonic = "oyster decide kiwi dash develop typical aisle easy trigger across between begin";

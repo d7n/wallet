@@ -1,1 +1,1 @@
-var mnemonic = "pony gravity orange situate garden say bubble lemon ask actress egg liberty";
+var mnemonic = "wait left alcohol mammal convince they gym powder swamp oblige evidence portion";

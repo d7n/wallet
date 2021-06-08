@@ -1,1 +1,1 @@
-var mnemonic = "run distance depend major box strategy banner token pole horse fossil dwarf";
+var mnemonic = "piano upper veteran exhaust near front cancel point circle derive pond cannon";

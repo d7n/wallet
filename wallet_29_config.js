@@ -1,1 +1,1 @@
-var mnemonic = "black south matrix symptom settle merry cupboard spare giggle mountain pepper absorb";
+var mnemonic = "island unveil rookie hour polar account mobile blind army until exist stage";

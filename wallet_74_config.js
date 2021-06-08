@@ -1,1 +1,1 @@
-var mnemonic = "define manage glue tortoise fancy latin proof arrow radio ill soul climb";
+var mnemonic = "wish trust juice state rather dolphin essay issue orange start delay eye";

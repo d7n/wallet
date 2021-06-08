@@ -1,1 +1,1 @@
-var mnemonic = "flame total awful grab victory pink avoid access marriage special myth left";
+var mnemonic = "ocean ozone antenna start book response vicious shy ivory bulk solar grape";

@@ -1,1 +1,1 @@
-var mnemonic = "eight below silk craft index vendor science broken cushion energy gather spring";
+var mnemonic = "maple earn unable economy glance legal coil craft series teach blood uncle";

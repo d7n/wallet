@@ -1,1 +1,1 @@
-var mnemonic = "annual license know bargain snow gauge swarm song walnut kangaroo crumble employ";
+var mnemonic = "typical peasant beef shadow rebel write dragon banner stock laptop panic tobacco";

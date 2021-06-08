@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon omit lion brown defense alter beyond trouble balcony fresh apology that";
+var mnemonic = "across creek ability cement endless arena inform cage blast multiply prosper left";

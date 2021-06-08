@@ -1,1 +1,1 @@
-var mnemonic = "maid unique giggle delay ozone quick online hurt gravity dignity toy bronze";
+var mnemonic = "blouse hello kingdom stamp tail logic endorse olive office drum squeeze return";

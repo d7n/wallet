@@ -1,1 +1,1 @@
-var mnemonic = "coil month captain mail cabbage dose kitten when moral pen crouch ask";
+var mnemonic = "meat object mango spy brush knee hard top census wash magnet ghost";

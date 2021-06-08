@@ -1,1 +1,1 @@
-var mnemonic = "author rigid food answer shallow gadget beauty advice actor loop beyond notable";
+var mnemonic = "opera bachelor source polar dentist loud siren worth clown cat faith veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "there net coconut patch perfect deer stomach fun exhaust swear capital decade";
+var mnemonic = "bread camp excite cost swap measure glare youth pair amount demise circle";

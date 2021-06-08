@@ -1,1 +1,1 @@
-var mnemonic = "life crystal prosper gap cannon alarm board gesture hammer critic smart wedding";
+var mnemonic = "bubble entry swap abandon record thing worry erupt negative afford later private";

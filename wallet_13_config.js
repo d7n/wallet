@@ -1,1 +1,1 @@
-var mnemonic = "metal era shiver soft coral soup urban tenant spoon theory affair there";
+var mnemonic = "mobile rocket brother punch until badge weasel sword tooth arrest sock strike";

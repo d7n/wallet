@@ -1,1 +1,1 @@
-var mnemonic = "spawn hammer truck salon mushroom core stage cage gain clean drink dish";
+var mnemonic = "salad mask profit excite casino shy mirror elder bacon pudding heart wool";

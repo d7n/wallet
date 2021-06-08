@@ -1,1 +1,1 @@
-var mnemonic = "truth exhaust girl diary robust retreat help curve divide plunge broken ostrich";
+var mnemonic = "never sniff hello toy pizza vacant must actress enhance price enhance liquid";

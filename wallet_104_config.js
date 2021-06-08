@@ -1,1 +1,1 @@
-var mnemonic = "try that donkey spider obscure kangaroo effort pizza sausage fall floor eternal";
+var mnemonic = "patient trip west cube donate gadget giant embark nominee opera come illegal";
