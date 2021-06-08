@@ -1,1 +1,1 @@
-var mnemonic = "zebra party item voyage corn snow choice cook route siren skate frog";
+var mnemonic = "verb possible habit crack giraffe turkey mask label rule wing absurd enforce";

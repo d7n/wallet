@@ -1,1 +1,1 @@
-var mnemonic = "remain phrase rent lend ribbon lesson update order trust giant twelve tonight";
+var mnemonic = "illness rubber exercise wait beach mule brisk roast spider normal unknown shoulder";

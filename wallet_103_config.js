@@ -1,1 +1,1 @@
-var mnemonic = "position resist annual clap build forum carry choice metal sort payment economy";
+var mnemonic = "receive comfort aspect name quality help lens eternal acoustic fit canal poem";

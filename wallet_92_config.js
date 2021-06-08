@@ -1,1 +1,1 @@
-var mnemonic = "warrior diamond erupt lion story plunge base couple desert dirt gravity busy";
+var mnemonic = "glare staff cave faculty purchase eagle vicious mask source oil cheese cactus";

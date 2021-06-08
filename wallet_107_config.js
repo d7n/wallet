@@ -1,1 +1,1 @@
-var mnemonic = "matrix tiger toy client ginger lyrics junior coach inside elevator job spice";
+var mnemonic = "term degree shell movie raven endless album habit pave glass episode flag";

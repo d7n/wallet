@@ -1,1 +1,1 @@
-var mnemonic = "rebuild dizzy amount coast engage girl walk gesture hero peasant wheat pepper";
+var mnemonic = "dad away clip amateur piano armed museum various boring design admit mobile";

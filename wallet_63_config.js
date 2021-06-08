@@ -1,1 +1,1 @@
-var mnemonic = "dash snake fluid elder cat mind hard bean scatter half puzzle blue";
+var mnemonic = "busy million type misery post exercise soup solution august exhaust sheriff sunset";

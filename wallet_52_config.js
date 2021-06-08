@@ -1,1 +1,1 @@
-var mnemonic = "absent coach raw blast bean ten first unfair cereal forum menu peace";
+var mnemonic = "wife suspect buddy debate fee property artwork solid mother bid mercy lecture";

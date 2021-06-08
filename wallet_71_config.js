@@ -1,1 +1,1 @@
-var mnemonic = "glance worth luggage wage twelve album easy clean spice frozen replace country";
+var mnemonic = "print indoor quarter host purse jelly surge glare scare mixed hat love";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry whip exotic galaxy winner maze ladder thing tool muffin ignore denial";
+var mnemonic = "doll twist beyond piano song ensure recall egg enjoy unlock work device";

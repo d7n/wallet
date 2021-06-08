@@ -1,1 +1,1 @@
-var mnemonic = "until matter patrol dumb canyon ill food lottery tell focus focus fire";
+var mnemonic = "near kid rib clown hospital faint course say injury gravity bundle regret";

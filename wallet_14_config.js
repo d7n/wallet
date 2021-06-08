@@ -1,1 +1,1 @@
-var mnemonic = "creek fault spike apology prison kingdom damage biology sing identify various suit";
+var mnemonic = "comfort coast flower isolate slot involve awesome swim oppose upper promote enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "token legal defense drink autumn debate wage top orbit elephant attract sure";
+var mnemonic = "size reject polar abstract quick matrix mixed plunge during fun remove luxury";

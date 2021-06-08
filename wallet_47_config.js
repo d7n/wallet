@@ -1,1 +1,1 @@
-var mnemonic = "hurdle all process fabric face unusual bird aspect hidden tunnel reunion syrup";
+var mnemonic = "expose carbon pond toe cost fresh clump dizzy ankle relax cover subject";

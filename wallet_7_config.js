@@ -1,1 +1,1 @@
-var mnemonic = "scan knee topple clean convince clarify hair cash vacuum found erase derive";
+var mnemonic = "license human net symptom attack churn sugar desert fiction joke despair fiction";

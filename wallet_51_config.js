@@ -1,1 +1,1 @@
-var mnemonic = "sugar phrase elite inner swing eye know advance cost sketch couple lion";
+var mnemonic = "weather fortune cannon upper weird badge grab two pair misery belt scout";

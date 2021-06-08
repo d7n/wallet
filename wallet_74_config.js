@@ -1,1 +1,1 @@
-var mnemonic = "finger glow math ready fitness arena spice tiger expose danger pill never";
+var mnemonic = "tongue nasty amateur shallow call demise hammer lumber hole avoid hat color";

@@ -1,1 +1,1 @@
-var mnemonic = "moral used science thing desert scorpion ship engine subway bone pair music";
+var mnemonic = "oven retreat unaware rhythm century rubber tube confirm light summer gun strike";

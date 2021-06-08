@@ -1,1 +1,1 @@
-var mnemonic = "nation chest meadow shadow amazing pilot cruise biology noble flush embrace bargain";
+var mnemonic = "emerge accuse crater chef nominee steak moral category excuse run satisfy member";

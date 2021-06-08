@@ -1,1 +1,1 @@
-var mnemonic = "answer soon cereal blame party search tuna library help pig erase blur";
+var mnemonic = "tiger autumn chef absorb parade extra virus suggest cream confirm lunch affair";

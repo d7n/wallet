@@ -1,1 +1,1 @@
-var mnemonic = "album bike speak ski piece knife dizzy include bring tragic engage reopen";
+var mnemonic = "spirit board wing shrug option mountain dash letter robust popular live corn";

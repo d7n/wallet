@@ -1,1 +1,1 @@
-var mnemonic = "walnut bread piece crunch barely feed copper chapter prosper canoe side cloud";
+var mnemonic = "vendor home truth bulb banana suit reduce hen neutral fly myself civil";

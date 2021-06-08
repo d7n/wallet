@@ -1,1 +1,1 @@
-var mnemonic = "angle mountain seek night okay someone select spirit brush alley squeeze occur";
+var mnemonic = "dance cargo aspect coconut scene choice exact gift allow enrich expand card";

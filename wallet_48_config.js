@@ -1,1 +1,1 @@
-var mnemonic = "alter dutch consider ritual leisure skin excuse weather wine patient lemon chicken";
+var mnemonic = "side original scrap romance wall popular ankle tip early menu jacket fog";

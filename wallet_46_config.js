@@ -1,1 +1,1 @@
-var mnemonic = "morning frost myself account sugar category crack dash priority old subway twin";
+var mnemonic = "paddle ensure doctor fitness plunge settle require onion swift unaware matter unknown";

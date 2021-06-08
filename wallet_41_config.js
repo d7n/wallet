@@ -1,1 +1,1 @@
-var mnemonic = "bean punch life lesson grace churn fit surprise grief math hobby cheese";
+var mnemonic = "system decrease end dirt enforce giggle media describe soda spray jazz april";

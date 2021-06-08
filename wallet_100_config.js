@@ -1,1 +1,1 @@
-var mnemonic = "boss jelly provide neglect trigger rotate clap boss logic case end spell";
+var mnemonic = "leisure worry advice nature leg owner sleep proof inform stomach card organ";

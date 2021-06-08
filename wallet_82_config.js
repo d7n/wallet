@@ -1,1 +1,1 @@
-var mnemonic = "dwarf hedgehog hamster obey velvet behind involve devote stone margin toy soup";
+var mnemonic = "voice patch consider hammer salute boy swamp theme few giant craft pass";

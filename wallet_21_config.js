@@ -1,1 +1,1 @@
-var mnemonic = "seven buyer wine peace upper item gain arctic canvas flame lottery stage";
+var mnemonic = "travel winter immune thunder blue visual decrease order urban scale patrol add";

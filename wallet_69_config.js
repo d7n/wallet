@@ -1,1 +1,1 @@
-var mnemonic = "helmet struggle cluster loyal matrix useless armed chase desk vehicle lyrics dignity";
+var mnemonic = "want oxygen silent cup relax fan spare fan possible lecture old filter";

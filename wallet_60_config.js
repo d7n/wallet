@@ -1,1 +1,1 @@
-var mnemonic = "hotel doll acoustic chat yellow tank awake flight mosquito pistol fan essence";
+var mnemonic = "clever uncover educate void order over stairs image oak gym syrup fit";

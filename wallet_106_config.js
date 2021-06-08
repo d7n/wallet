@@ -1,1 +1,1 @@
-var mnemonic = "tiny egg above slow beach seminar melody deputy pottery clean blouse civil";
+var mnemonic = "caution clip exclude winner coach climb clown pause little bridge ski estate";

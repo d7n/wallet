@@ -1,1 +1,1 @@
-var mnemonic = "feel fog expand match bounce junior celery index girl grow sibling fossil";
+var mnemonic = "later parrot round author float chalk puzzle hat budget coral silver column";

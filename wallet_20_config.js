@@ -1,1 +1,1 @@
-var mnemonic = "double boss crew close satoshi finger net bean shine joke pumpkin try";
+var mnemonic = "blue soft expose once right search swear nerve weekend helmet code usage";

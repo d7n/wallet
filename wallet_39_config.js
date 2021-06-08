@@ -1,1 +1,1 @@
-var mnemonic = "depth coral sunny depart memory inform picture govern scatter forest differ rich";
+var mnemonic = "canvas frame response burger cattle awesome assist solid heavy differ unhappy kitten";

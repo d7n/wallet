@@ -1,1 +1,1 @@
-var mnemonic = "clerk meadow drum this cabbage polar strike also civil tag story inch";
+var mnemonic = "object cabbage army electric edit notable squirrel misery brown remain business sample";

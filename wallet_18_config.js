@@ -1,1 +1,1 @@
-var mnemonic = "neutral border water dentist seek mean estate unlock case blanket grant green";
+var mnemonic = "glimpse dose fox crucial neglect science bronze cup similar annual merry country";

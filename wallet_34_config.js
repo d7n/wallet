@@ -1,1 +1,1 @@
-var mnemonic = "ethics claim viable sentence coconut casino orphan fiber budget inform hotel top";
+var mnemonic = "orient meadow hole alley about morning affair clap ill breeze couch quarter";

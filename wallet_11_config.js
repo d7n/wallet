@@ -1,1 +1,1 @@
-var mnemonic = "peasant clutch world swarm smile dumb rough lobster average employ weird topple";
+var mnemonic = "warrior talk shaft offer pluck insane dish fire apple tape dice deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "siege champion planet void island will provide rare cross reform toy category";
+var mnemonic = "glare meadow furnace wisdom you fruit tape burst engine camp ginger struggle";

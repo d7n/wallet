@@ -1,1 +1,1 @@
-var mnemonic = "nothing marine two raven soon story nothing noise goat kit pattern year";
+var mnemonic = "floor cancel debris diesel wasp exact connect naive friend wish trap document";

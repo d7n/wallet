@@ -1,1 +1,1 @@
-var mnemonic = "decorate merit benefit belt dinner cabbage camera pool review boost universe unfold";
+var mnemonic = "sentence thought tuna jeans achieve tag royal worth spatial relax refuse pull";

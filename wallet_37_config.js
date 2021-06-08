@@ -1,1 +1,1 @@
-var mnemonic = "direct muscle main exact casino large glove cup female patch game update";
+var mnemonic = "artwork rhythm leg remove stereo coyote gospel taxi critic idle fork glue";

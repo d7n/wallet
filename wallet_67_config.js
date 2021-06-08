@@ -1,1 +1,1 @@
-var mnemonic = "fence glimpse desert manage zebra popular spike park around market garment equal";
+var mnemonic = "cover position clock combine snap ethics crisp congress base twist rough gallery";

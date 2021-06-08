@@ -1,1 +1,1 @@
-var mnemonic = "decade razor planet alien review change during ivory wrong able short image";
+var mnemonic = "crane solution agent anger siege student involve parrot trade boost vanish love";

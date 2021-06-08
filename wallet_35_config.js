@@ -1,1 +1,1 @@
-var mnemonic = "game rabbit display force harbor carbon goose main reward merry card wisdom";
+var mnemonic = "focus public portion issue post now educate agree until enact behind paddle";

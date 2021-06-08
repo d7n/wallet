@@ -1,1 +1,1 @@
-var mnemonic = "salute region assume relief cause destroy vapor smooth fruit person pepper staff";
+var mnemonic = "wall join remove aisle patch inner hand quick ice blossom uncle obtain";

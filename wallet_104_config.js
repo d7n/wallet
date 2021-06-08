@@ -1,1 +1,1 @@
-var mnemonic = "miss citizen iron bean city senior fresh advice copy clay math gold";
+var mnemonic = "company square choose trend learn artefact ancient seek mail banner all tail";

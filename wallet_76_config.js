@@ -1,1 +1,1 @@
-var mnemonic = "window glimpse section later swing asset antenna diamond horror scrap next project";
+var mnemonic = "excite scrap convince dust sun monkey project team admit math anchor label";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke arena parrot local zoo dice smile author movie skin seminar play";
+var mnemonic = "this play security upon draw hockey view dignity foster buzz dove error";

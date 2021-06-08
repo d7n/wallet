@@ -1,1 +1,1 @@
-var mnemonic = "farm exist ridge feel fiction resemble little uncover possible soon reveal powder";
+var mnemonic = "dream ready three rapid goose engine orchard welcome save increase trick van";

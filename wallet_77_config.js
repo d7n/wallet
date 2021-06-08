@@ -1,1 +1,1 @@
-var mnemonic = "enable champion concert gaze report code crew forward anchor village latin prepare";
+var mnemonic = "omit deposit polar guide churn image balcony denial amazing saddle west peace";

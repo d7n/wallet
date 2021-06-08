@@ -1,1 +1,1 @@
-var mnemonic = "debris mosquito field garden border you can kiss dirt cigar effort obscure";
+var mnemonic = "lazy return venue emerge walnut muscle raven point dog zoo corn gas";

@@ -1,1 +1,1 @@
-var mnemonic = "check crisp leisure tuna tray siren cherry swing gift key phrase crush";
+var mnemonic = "odor nest report fine horn rescue cement stamp trigger portion erode amused";

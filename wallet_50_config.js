@@ -1,1 +1,1 @@
-var mnemonic = "edge foster lift scale expand traffic thank crater volume focus bundle source";
+var mnemonic = "seat brave rival quit detect tackle soda clock palace maid agent lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum glance bag mobile source subway firm lonely capable fat flip sing";
+var mnemonic = "fold scale armor collect alien pact thumb six play what club roof";

@@ -1,1 +1,1 @@
-var mnemonic = "miss bid sad unhappy age clarify alter juice muffin sword project term";
+var mnemonic = "father income boss tribe teach bomb jaguar enable blush royal remember iron";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract post stereo wall decide bargain income oak melody lunar winter skin";
+var mnemonic = "nephew echo benefit sorry crash life spatial face evil tape matrix order";

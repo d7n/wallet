@@ -1,1 +1,1 @@
-var mnemonic = "unusual panic meat just advance sail identify bright gesture expand impulse cigar";
+var mnemonic = "buzz bachelor vacant save feature edit broken reward result liquid brush pear";

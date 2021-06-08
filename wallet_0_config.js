@@ -1,1 +1,1 @@
-var mnemonic = "civil repeat round person swarm profit saddle library daughter lab scare lunch";
+var mnemonic = "fringe major solve around odor attract neutral diesel next lion bean aspect";

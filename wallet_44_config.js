@@ -1,1 +1,1 @@
-var mnemonic = "wool impact use hotel put cook someone curious danger mandate romance token";
+var mnemonic = "analyst mule zero dismiss tray impact memory happy citizen lottery clinic eyebrow";

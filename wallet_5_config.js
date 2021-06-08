@@ -1,1 +1,1 @@
-var mnemonic = "spawn hire chief apology animal spider safe knife ill inherit mom smoke";
+var mnemonic = "hundred group afraid gorilla stamp coast degree thought kite top tunnel taste";

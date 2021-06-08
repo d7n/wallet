@@ -1,1 +1,1 @@
-var mnemonic = "toe spike crouch pact error metal walk mansion solar tilt flight praise";
+var mnemonic = "example original piece wonder oval bring reason doctor census empower ahead glove";

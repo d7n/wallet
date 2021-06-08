@@ -1,1 +1,1 @@
-var mnemonic = "miss buddy practice enrich social hurry because target art club shy fence";
+var mnemonic = "keen february brain rude grit coconut fault security buffalo lecture ancient unveil";

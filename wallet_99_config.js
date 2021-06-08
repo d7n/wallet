@@ -1,1 +1,1 @@
-var mnemonic = "weapon subject buzz clay merge leave need fine vicious copper used brand";
+var mnemonic = "scatter calm disease raw record earth impact chair seminar custom advance culture";

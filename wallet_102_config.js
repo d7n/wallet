@@ -1,1 +1,1 @@
-var mnemonic = "also stomach lesson oyster warrior sad help magnet aunt salon exercise uniform";
+var mnemonic = "miss real disagree female tide perfect market alter forum hurdle help aerobic";

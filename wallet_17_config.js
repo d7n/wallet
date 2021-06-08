@@ -1,1 +1,1 @@
-var mnemonic = "shed female clump farm forum frozen eagle oval cabin meadow owner enough";
+var mnemonic = "plunge bag sort still device tank mansion spend aspect panic table eight";

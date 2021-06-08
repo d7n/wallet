@@ -1,1 +1,1 @@
-var mnemonic = "popular lunch ivory identify sight survey swear poet gas illness rhythm burger";
+var mnemonic = "palm share resource arm lemon avoid novel salad hobby mandate file bike";

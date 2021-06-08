@@ -1,1 +1,1 @@
-var mnemonic = "vendor team fly flag powder mandate present proud deposit album time damage";
+var mnemonic = "country cancel tank trim impulse essence jaguar beef way stay author material";

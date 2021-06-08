@@ -1,1 +1,1 @@
-var mnemonic = "body crop surprise mask base pitch enable crater edge nice short universe";
+var mnemonic = "useless flash very loop they siren refuse toe dutch try term blade";

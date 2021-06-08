@@ -1,1 +1,1 @@
-var mnemonic = "choose runway patient aisle hello garbage bonus vicious exclude wet genius dog";
+var mnemonic = "erase glove enroll emerge roast dream cute symbol lottery nice fragile already";

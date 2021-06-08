@@ -1,1 +1,1 @@
-var mnemonic = "fury garment slice bid return write client spider goat alone grant snake";
+var mnemonic = "tumble depart guilt online margin shock brand tiger twelve camera fiber peasant";

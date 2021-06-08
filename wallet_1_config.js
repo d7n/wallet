@@ -1,1 +1,1 @@
-var mnemonic = "near final october parent pluck extend relief pave poem guide ginger wire";
+var mnemonic = "cushion word purchase avocado possible fox virus slush cinnamon planet crop inch";

@@ -1,1 +1,1 @@
-var mnemonic = "together tooth retire monitor ensure left add endless figure limb tomorrow address";
+var mnemonic = "morning text thank dwarf upon hurt stick gallery federal dad melt fossil";

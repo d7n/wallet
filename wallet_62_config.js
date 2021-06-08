@@ -1,1 +1,1 @@
-var mnemonic = "enter physical cousin blade neck either canal device inflict isolate tenant sniff";
+var mnemonic = "daughter message water organ century carry act cash traffic decline trouble craft";

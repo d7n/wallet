@@ -1,1 +1,1 @@
-var mnemonic = "check thrive identify lucky hazard aerobic strong era flight subject kite blind";
+var mnemonic = "venue buyer transfer yellow goat end inquiry twenty photo sea run welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty blue citizen host stem reason kangaroo economy later arrive toss cook";
+var mnemonic = "bulk sample photo grain monkey you juice steel fiction tortoise library carbon";

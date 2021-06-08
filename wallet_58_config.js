@@ -1,1 +1,1 @@
-var mnemonic = "start baby apart involve myth saddle forward guilt sea elephant truck accuse";
+var mnemonic = "music clock village afford enroll cheap gate insane then true rural expand";

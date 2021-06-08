@@ -1,1 +1,1 @@
-var mnemonic = "consider shield fringe equip face hockey word lucky ocean elite decrease music";
+var mnemonic = "improve speed siege brief mule silent copper wait bind roast strategy air";

@@ -1,1 +1,1 @@
-var mnemonic = "fever audit again kangaroo over suffer dumb wealth consider possible about material";
+var mnemonic = "replace castle quiz name blue museum camp clerk spend hockey bind basket";

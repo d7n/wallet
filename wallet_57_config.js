@@ -1,1 +1,1 @@
-var mnemonic = "kiwi green insect company mesh universe satoshi pig pilot despair wash task";
+var mnemonic = "language vote excuse moral cross scout squeeze hill garage orchard raven belt";

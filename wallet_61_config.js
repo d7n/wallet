@@ -1,1 +1,1 @@
-var mnemonic = "provide fork popular witness use agree will ball hover vehicle emotion over";
+var mnemonic = "scissors canyon keep swear update message reflect pair rubber people what submit";

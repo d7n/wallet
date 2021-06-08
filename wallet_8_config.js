@@ -1,1 +1,1 @@
-var mnemonic = "rate glance party turn sheriff lava defy nurse fiction describe wine battle";
+var mnemonic = "inch danger announce lift knock evil tag coconut total pupil poem tonight";

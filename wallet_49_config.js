@@ -1,1 +1,1 @@
-var mnemonic = "major gym square ticket punch supreme layer devote merry sock jungle shop";
+var mnemonic = "inhale venture snap draft bicycle error portion true zone treat mother gun";

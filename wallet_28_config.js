@@ -1,1 +1,1 @@
-var mnemonic = "move indicate duty nature giant oyster skin try fade bitter onion thought";
+var mnemonic = "since quit rent phone scare ostrich short goose wing cable warm actress";

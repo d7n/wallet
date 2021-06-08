@@ -1,1 +1,1 @@
-var mnemonic = "purchase sorry final copy cable genius alter ride door uncover mule nation";
+var mnemonic = "believe face electric squeeze siege much ice elegant super hamster ski phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "bless brush eagle minimum buzz lounge route kiwi quick sniff vibrant brother";
+var mnemonic = "hidden empower wild adjust agree lion invest regular meadow host crack innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige robust wagon penalty melt comfort finger catalog physical enemy advance sign";
+var mnemonic = "camera pave pencil force unknown frame drum rough general enter fancy able";

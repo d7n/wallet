@@ -1,1 +1,1 @@
-var mnemonic = "river fit enable slice day attack spin erupt goddess mansion humble creek";
+var mnemonic = "document foot sponsor need panther nest pole flash since view immense polar";

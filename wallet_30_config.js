@@ -1,1 +1,1 @@
-var mnemonic = "emerge torch chat detail share they snap muffin female pause arctic mad";
+var mnemonic = "country shiver warrior sweet glory unknown expand sort honey safe where shy";
