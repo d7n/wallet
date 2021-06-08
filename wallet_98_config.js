@@ -1,1 +1,1 @@
-var mnemonic = "gospel leader tell crystal talk smooth decline lady planet occur keen cabbage";
+var mnemonic = "cart hat rate erase venture super federal cave add stove senior lucky";

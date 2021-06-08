@@ -1,1 +1,1 @@
-var mnemonic = "ostrich nerve mercy earth turn sibling vocal wire horn soon balance extend";
+var mnemonic = "oval kidney lend trick subway banner borrow stadium horror canal student almost";

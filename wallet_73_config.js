@@ -1,1 +1,1 @@
-var mnemonic = "hip budget universe stage damage solid twenty combine tent error scout similar";
+var mnemonic = "ostrich cabbage legal mammal feed autumn hundred toe little once oval capable";

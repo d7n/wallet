@@ -1,1 +1,1 @@
-var mnemonic = "camera improve deposit either sunset oyster lens poet drill major country teach";
+var mnemonic = "melody bird letter design measure gain cook board taxi father draft corn";

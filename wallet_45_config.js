@@ -1,1 +1,1 @@
-var mnemonic = "edit soldier unable glad insect arena hill screen behind nasty track first";
+var mnemonic = "demand soap sting again interest picture bicycle story seed oval execute office";

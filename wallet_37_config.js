@@ -1,1 +1,1 @@
-var mnemonic = "bread camp excite cost swap measure glare youth pair amount demise circle";
+var mnemonic = "age shiver lady dignity busy script once kiwi inhale tail ring hollow";

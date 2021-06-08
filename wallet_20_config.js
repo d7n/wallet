@@ -1,1 +1,1 @@
-var mnemonic = "verb comic aunt quote bicycle mystery brass hurt trick garment donor close";
+var mnemonic = "error extra sweet impose input life matrix bird settle oppose film spawn";

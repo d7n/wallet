@@ -1,1 +1,1 @@
-var mnemonic = "crisp green replace add waste skin fancy correct around market hospital cheap";
+var mnemonic = "call junior impulse only symbol degree depend general virtual sugar cheese oblige";

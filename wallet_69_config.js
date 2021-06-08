@@ -1,1 +1,1 @@
-var mnemonic = "penalty vessel find net seek put tribe hungry save lucky gravity unlock";
+var mnemonic = "empty dream battle glow aerobic paper cliff reject roast charge session state";

@@ -1,1 +1,1 @@
-var mnemonic = "reason purity flame hover paper truth what method live unknown plug victory";
+var mnemonic = "olympic slice surprise topple return issue cool guitar mean noodle absent athlete";

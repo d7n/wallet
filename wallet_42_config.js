@@ -1,1 +1,1 @@
-var mnemonic = "snake awesome wire hood someone miss sad large problem visit remember excess";
+var mnemonic = "meat jacket step junk crucial blame thing sell front learn rabbit knife";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil code mistake buzz main jewel novel post obscure adapt chest wasp";
+var mnemonic = "food satoshi group piano ask proud review canoe negative black witness corn";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy guess relief mention put skate planet opinion circle just culture lion";
+var mnemonic = "tomorrow bench person curve project mean aware old exist crime tackle middle";

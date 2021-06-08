@@ -1,1 +1,1 @@
-var mnemonic = "rocket furnace margin figure clutch reveal antenna test sand twenty same library";
+var mnemonic = "energy myself special piano vintage task hybrid pony lemon abuse utility hawk";

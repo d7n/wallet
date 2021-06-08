@@ -1,1 +1,1 @@
-var mnemonic = "daring crush wife fiction gate degree priority reopen comic hip corn dinosaur";
+var mnemonic = "have orient patient tenant advance belt comic cattle junior little unknown victory";

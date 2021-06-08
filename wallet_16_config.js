@@ -1,1 +1,1 @@
-var mnemonic = "critic direct yard route industry vehicle umbrella light barrel grace zone deposit";
+var mnemonic = "soda master minor monitor have twice vague path cigar tell unlock oil";

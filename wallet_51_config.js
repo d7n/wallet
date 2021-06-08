@@ -1,1 +1,1 @@
-var mnemonic = "squirrel kidney south person family manual predict local dentist armed demise industry";
+var mnemonic = "trust life side chuckle chimney audit analyst love butter fruit uncle fabric";

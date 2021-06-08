@@ -1,1 +1,1 @@
-var mnemonic = "panther always acoustic enjoy leave comic decade oak lucky consider carpet renew";
+var mnemonic = "pill tobacco topple cross toss avocado spare plate bacon nation eagle tail";

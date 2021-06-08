@@ -1,1 +1,1 @@
-var mnemonic = "retreat pyramid space lazy confirm soft connect oven orient quiz spawn safe";
+var mnemonic = "balance cover grace all swallow size rose desk angry shoulder chicken neutral";

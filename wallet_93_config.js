@@ -1,1 +1,1 @@
-var mnemonic = "interest jar bottom gun balcony first loan symbol treat indoor talent judge";
+var mnemonic = "waste shoot begin chalk denial misery ride escape inmate amateur vintage patrol";

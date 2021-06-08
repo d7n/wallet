@@ -1,1 +1,1 @@
-var mnemonic = "burden slide vehicle depth help forward strong sound raven cruel clog science";
+var mnemonic = "again possible sheriff humor village delay naive shuffle shield toss pottery unhappy";

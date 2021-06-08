@@ -1,1 +1,1 @@
-var mnemonic = "artwork require cross rival blast health walk game fruit season help tragic";
+var mnemonic = "cabin barrel glove leaf brown forum fat join explain tree law ability";

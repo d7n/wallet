@@ -1,1 +1,1 @@
-var mnemonic = "spot ankle rain drip tail leave gasp april put gym dirt asthma";
+var mnemonic = "page script snow replace action seed dial fitness steel theory brush grant";

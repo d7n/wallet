@@ -1,1 +1,1 @@
-var mnemonic = "gesture pride tag alarm elbow equip morning parent window rich armor square";
+var mnemonic = "sugar garment reject debris tent bid lawn wasp cycle panel invite lend";

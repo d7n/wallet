@@ -1,1 +1,1 @@
-var mnemonic = "fold kiss indicate obvious allow useful average box soap crunch gauge life";
+var mnemonic = "drive palace another icon stage project universe age aerobic casino hurry furnace";

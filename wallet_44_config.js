@@ -1,1 +1,1 @@
-var mnemonic = "sample image medal journey access arrow surround spice spoil enroll panther gesture";
+var mnemonic = "theme again ivory adjust mixed gift bundle under easily envelope taxi solution";

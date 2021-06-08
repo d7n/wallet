@@ -1,1 +1,1 @@
-var mnemonic = "relief off behave soap laundry intact blossom leg room slide hunt ketchup";
+var mnemonic = "target group absent figure vivid canoe sound wine then useful razor often";

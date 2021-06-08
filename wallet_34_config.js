@@ -1,1 +1,1 @@
-var mnemonic = "ritual judge reopen betray candy grid stool stove final endless wide come";
+var mnemonic = "orchard glad parent energy frost neutral describe gaze useful dose top foster";

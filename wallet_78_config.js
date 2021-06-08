@@ -1,1 +1,1 @@
-var mnemonic = "just party insect crunch rescue accident canyon badge find airport capital hero";
+var mnemonic = "draft output trial exit elbow lens again then person pelican suit above";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster decide kiwi dash develop typical aisle easy trigger across between begin";
+var mnemonic = "cram picture winner accuse shrimp annual truly pelican uniform tattoo talk region";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum mystery collect code labor awkward slush floor critic favorite accuse say";
+var mnemonic = "tree admit mean useless satoshi appear sibling random delay impact decade coyote";

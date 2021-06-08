@@ -1,1 +1,1 @@
-var mnemonic = "wish trust juice state rather dolphin essay issue orange start delay eye";
+var mnemonic = "neither grant zero mutual believe assume ocean wink clean valve never turtle";

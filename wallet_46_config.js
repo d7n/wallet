@@ -1,1 +1,1 @@
-var mnemonic = "piano upper veteran exhaust near front cancel point circle derive pond cannon";
+var mnemonic = "invest razor join monitor trap liquid medal energy runway busy bench trouble";

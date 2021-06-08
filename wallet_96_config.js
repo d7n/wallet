@@ -1,1 +1,1 @@
-var mnemonic = "stomach boss vivid shoe range occur team unveil survey cliff deal public";
+var mnemonic = "skin sleep cook grain scare aspect ball vague dragon verify hazard situate";

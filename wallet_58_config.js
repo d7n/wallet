@@ -1,1 +1,1 @@
-var mnemonic = "wealth key napkin exotic submit eagle december example secret ring ability mom";
+var mnemonic = "common sniff toast patch orchard doll rigid call catalog lava evil inner";

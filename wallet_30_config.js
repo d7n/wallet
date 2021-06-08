@@ -1,1 +1,1 @@
-var mnemonic = "donkey spy parrot end crew sea time open depend depart soccer sell";
+var mnemonic = "almost busy ring lobster divert cricket same load bench rebuild cattle green";

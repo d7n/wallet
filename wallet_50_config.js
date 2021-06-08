@@ -1,1 +1,1 @@
-var mnemonic = "fuel faint welcome key ship mobile cheese visit ask shiver enlist forum";
+var mnemonic = "tobacco spike behave express nothing wish report voyage insect wood economy fame";

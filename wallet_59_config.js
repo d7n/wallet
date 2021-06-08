@@ -1,1 +1,1 @@
-var mnemonic = "today spell rookie embrace clap repair absorb border maze depart grace time";
+var mnemonic = "track squirrel sausage walk expose bus mixture bundle sound museum mountain flee";

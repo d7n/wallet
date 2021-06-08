@@ -1,1 +1,1 @@
-var mnemonic = "never sniff hello toy pizza vacant must actress enhance price enhance liquid";
+var mnemonic = "index electric note scrub rib pill will large member actor nerve rescue";

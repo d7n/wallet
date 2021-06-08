@@ -1,1 +1,1 @@
-var mnemonic = "lava beauty device view error shy pony entry adjust rival wealth wolf";
+var mnemonic = "gloom episode quality culture road hint ranch few acid voyage tenant scatter";

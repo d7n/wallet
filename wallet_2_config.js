@@ -1,1 +1,1 @@
-var mnemonic = "ocean ozone antenna start book response vicious shy ivory bulk solar grape";
+var mnemonic = "fiscal music element around focus nurse gaze fluid rhythm kiwi humble peanut";

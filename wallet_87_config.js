@@ -1,1 +1,1 @@
-var mnemonic = "yard mass peace husband cage sock husband initial world axis guitar gospel";
+var mnemonic = "basket hamster gate logic pig crumble rice basic guilt disease quote toward";

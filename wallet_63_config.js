@@ -1,1 +1,1 @@
-var mnemonic = "casino cruise crater tenant aunt glare polar river inflict ghost chair pottery";
+var mnemonic = "pulp define develop accuse oyster canal student manage load empty congress project";

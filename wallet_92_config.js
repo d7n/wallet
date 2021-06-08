@@ -1,1 +1,1 @@
-var mnemonic = "cute amount matrix control year side beef replace assume tag fork wool";
+var mnemonic = "evidence door brown luxury summer paddle pluck alter weekend gloom obey play";

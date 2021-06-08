@@ -1,1 +1,1 @@
-var mnemonic = "involve wedding exile sketch engine palace season sound sign price aunt castle";
+var mnemonic = "enter report draft symbol mask address lucky mandate office fix audit risk";

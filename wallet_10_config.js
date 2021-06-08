@@ -1,1 +1,1 @@
-var mnemonic = "secret hunt receive cruel obtain rice leopard entire round primary limit slim";
+var mnemonic = "hip reward swallow atom fruit mail army must history mammal neither shoe";

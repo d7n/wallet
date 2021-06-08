@@ -1,1 +1,1 @@
-var mnemonic = "nephew pupil always merit uncle iron walnut stadium clog usage sheriff burden";
+var mnemonic = "imitate smooth human casual anchor weasel joke meat review dance such century";

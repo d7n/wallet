@@ -1,1 +1,1 @@
-var mnemonic = "brisk fade liquid promote plate answer hedgehog country net point shiver face";
+var mnemonic = "fade accident genius seminar brick wing whisper hospital boring rural initial arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "funny child wash drive sponsor pulse culture shy obscure canal joke fall";
+var mnemonic = "gospel bench song job quit used float party tragic stumble bid target";

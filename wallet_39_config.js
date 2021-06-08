@@ -1,1 +1,1 @@
-var mnemonic = "select tribe kit fresh case autumn potato crowd price buddy veteran neck";
+var mnemonic = "process monkey version music wide trust guard coach job unfold imitate outer";

@@ -1,1 +1,1 @@
-var mnemonic = "typical peasant beef shadow rebel write dragon banner stock laptop panic tobacco";
+var mnemonic = "summer place night buyer upper point smile grab way outside adjust car";

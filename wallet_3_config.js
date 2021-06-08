@@ -1,1 +1,1 @@
-var mnemonic = "minute rug aware circle cash forget arctic tomorrow day cattle element legal";
+var mnemonic = "invest rifle silly system drum supply barrel combine above bachelor train great";

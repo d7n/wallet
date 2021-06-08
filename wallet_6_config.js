@@ -1,1 +1,1 @@
-var mnemonic = "increase increase road ten cream flame rifle pull autumn involve now army";
+var mnemonic = "pear relief arrive forget ivory cargo hockey comic glad happy profit recipe";

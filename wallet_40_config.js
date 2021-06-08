@@ -1,1 +1,1 @@
-var mnemonic = "wait left alcohol mammal convince they gym powder swamp oblige evidence portion";
+var mnemonic = "right room alpha view lizard true pass reform verb rally fly arena";

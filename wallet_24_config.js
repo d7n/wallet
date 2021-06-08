@@ -1,1 +1,1 @@
-var mnemonic = "brain decline surprise field puppy shop adapt neutral worth increase supreme amused";
+var mnemonic = "crack wink brain can base fringe exhaust zebra section august opinion tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson topple poet roast renew size around furnace flush worth oppose decorate";
+var mnemonic = "salmon physical remind mule document typical ankle dad length invite relax material";

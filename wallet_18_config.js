@@ -1,1 +1,1 @@
-var mnemonic = "evidence example certain secret effort chief lazy horror soft detect host close";
+var mnemonic = "promote that cheese museum close copper situate satisfy reopen hurt debris kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "bike wheel clutch draw toddler amused below rib run jar gown spend";
+var mnemonic = "paper indoor claw bridge drastic crew lesson busy dinosaur offer oven alpha";

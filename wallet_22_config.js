@@ -1,1 +1,1 @@
-var mnemonic = "crane purse flee six actor approve claim pill vast police level sting";
+var mnemonic = "carry fame cheap mind club island remind eagle year burst cherry aspect";

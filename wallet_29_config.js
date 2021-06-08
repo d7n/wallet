@@ -1,1 +1,1 @@
-var mnemonic = "island unveil rookie hour polar account mobile blind army until exist stage";
+var mnemonic = "faint boy matrix alcohol magnet hybrid fade hockey riot enlist trend inflict";

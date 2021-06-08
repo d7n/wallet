@@ -1,1 +1,1 @@
-var mnemonic = "immense fire erase alley merry orange gym coach check erode destroy stock";
+var mnemonic = "lift harvest bunker unusual immune asset sniff give joke holiday setup sand";

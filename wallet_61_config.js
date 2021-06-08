@@ -1,1 +1,1 @@
-var mnemonic = "across creek ability cement endless arena inform cage blast multiply prosper left";
+var mnemonic = "stomach length select raven home ignore grain print uncle west trade space";

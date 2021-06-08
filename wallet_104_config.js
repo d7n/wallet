@@ -1,1 +1,1 @@
-var mnemonic = "patient trip west cube donate gadget giant embark nominee opera come illegal";
+var mnemonic = "usual device thing dust clown pink nice quiz sight gaze average eyebrow";

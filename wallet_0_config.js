@@ -1,1 +1,1 @@
-var mnemonic = "drastic quick case hungry erupt approve indoor surround update issue swap breeze";
+var mnemonic = "lamp peace coffee napkin crew silent smooth present supreme secret excess fix";

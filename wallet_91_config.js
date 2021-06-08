@@ -1,1 +1,1 @@
-var mnemonic = "paddle camp clock napkin leopard edit float tackle jungle butter car outdoor";
+var mnemonic = "illness water gallery case train awkward bracket genius tube benefit volcano seed";

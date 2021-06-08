@@ -1,1 +1,1 @@
-var mnemonic = "doctor wagon wonder flush pigeon hobby proud element tuition spin van layer";
+var mnemonic = "climb pelican mad kitchen hollow apart catch meat abuse zebra where power";

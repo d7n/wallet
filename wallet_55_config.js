@@ -1,1 +1,1 @@
-var mnemonic = "reveal topic panic electric total dose sword artist noise desk sudden brand";
+var mnemonic = "cruel vintage mandate grief caught wheel add interest debate piece fence annual";

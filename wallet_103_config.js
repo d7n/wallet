@@ -1,1 +1,1 @@
-var mnemonic = "rubber honey bleak ivory fantasy veteran celery rain grunt friend address motor";
+var mnemonic = "raven retire soup aerobic lion resemble blast eyebrow width circle lecture pelican";

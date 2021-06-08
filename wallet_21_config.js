@@ -1,1 +1,1 @@
-var mnemonic = "weekend true hint narrow kitchen normal lens glow fatal beauty finish false";
+var mnemonic = "music defy runway mandate shell kite upset jealous frown ring frost identify";

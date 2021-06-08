@@ -1,1 +1,1 @@
-var mnemonic = "dragon slice remember abstract kiss patient grab pink actual rally rude cancel";
+var mnemonic = "side slam fashion slam inform suspect cream armor summer finger throw crumble";

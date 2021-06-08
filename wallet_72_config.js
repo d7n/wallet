@@ -1,1 +1,1 @@
-var mnemonic = "reunion enough scrub south average can pass brain company series drift sword";
+var mnemonic = "betray skate edge easily able vintage enact jacket satoshi better include trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "grit alarm clump staff absorb fold mail mammal bulb pill steak dad";
+var mnemonic = "cluster often spell amazing nuclear food panther license clutch menu cushion pink";

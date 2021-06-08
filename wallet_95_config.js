@@ -1,1 +1,1 @@
-var mnemonic = "ketchup bounce crowd solar happy truly coffee wise artwork race use noise";
+var mnemonic = "lucky around spirit bachelor ride design truth broom tornado bunker nominee photo";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware stock valid tennis plate add desk okay breeze above indicate coin";
+var mnemonic = "seek fee feed behave depth crash crouch rifle olympic tone glance permit";

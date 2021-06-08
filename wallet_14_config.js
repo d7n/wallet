@@ -1,1 +1,1 @@
-var mnemonic = "anger random room habit ritual result want pipe drip ill play lecture";
+var mnemonic = "era barrel game beyond march siren crisp arrest electric print volcano urge";

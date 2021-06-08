@@ -1,1 +1,1 @@
-var mnemonic = "autumn decorate three aunt october butter tone make chef merit wisdom capital";
+var mnemonic = "spy armor street soon donkey wreck palace steel assault cruel negative cricket";

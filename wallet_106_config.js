@@ -1,1 +1,1 @@
-var mnemonic = "model answer accident sense denial isolate reward useful mask monster actress today";
+var mnemonic = "slight enter vocal eternal street foot mask cash edge scan potato height";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo hurdle october craft other craft fancy install choice bus sense believe";
+var mnemonic = "special cover canyon snap final discover exile cruel door pave odor pass";

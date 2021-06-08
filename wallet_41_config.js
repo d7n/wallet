@@ -1,1 +1,1 @@
-var mnemonic = "elegant pipe fortune apple random twice marriage blanket doctor dish stamp giant";
+var mnemonic = "lake stumble hurt orange relax kiss kiss kit fly another husband chair";

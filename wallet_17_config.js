@@ -1,1 +1,1 @@
-var mnemonic = "rookie license fox miracle chronic small someone notice lens spice electric flavor";
+var mnemonic = "chair park fix much sudden video skill skull grief attack remind steel";

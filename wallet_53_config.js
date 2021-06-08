@@ -1,1 +1,1 @@
-var mnemonic = "disorder know upper salute define heart outdoor sun jungle all damage valid";
+var mnemonic = "actor valley mail village hello defense style mushroom leader present buzz mixture";

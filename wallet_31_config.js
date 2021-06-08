@@ -1,1 +1,1 @@
-var mnemonic = "soon bronze tuna sing buffalo physical venture skin radar wagon spot famous";
+var mnemonic = "donor mean world hotel critic wrestle slice primary miss casual brain best";

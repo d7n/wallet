@@ -1,1 +1,1 @@
-var mnemonic = "umbrella purse text belt payment pause cinnamon luggage rule mammal cinnamon remind";
+var mnemonic = "upgrade love multiply puppy family garment act segment laugh burst erupt own";

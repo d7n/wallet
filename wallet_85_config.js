@@ -1,1 +1,1 @@
-var mnemonic = "blouse hello kingdom stamp tail logic endorse olive office drum squeeze return";
+var mnemonic = "tooth stick salon shadow virtual tobacco drift fly gallery learn neither segment";

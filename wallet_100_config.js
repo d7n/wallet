@@ -1,1 +1,1 @@
-var mnemonic = "salad mask profit excite casino shy mirror elder bacon pudding heart wool";
+var mnemonic = "violin syrup current opera nothing luggage derive excess neutral twice fetch middle";

@@ -1,1 +1,1 @@
-var mnemonic = "sting romance weasel vendor sense slice assault solve kitchen merge coach argue";
+var mnemonic = "radar exhaust crisp vessel miracle merry crack member original miracle final sound";

@@ -1,1 +1,1 @@
-var mnemonic = "surge run december okay soap bitter flee stool mad trial various ripple";
+var mnemonic = "attitude beauty sail approve wage door exclude brand fancy all kit display";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer cram length banana indoor cattle together kite movie alone belt library";
+var mnemonic = "divorce elite fade eagle myth poet donkey response pluck grain tuition master";

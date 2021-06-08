@@ -1,1 +1,1 @@
-var mnemonic = "water screen gesture neutral measure dog coffee merry humble picture vacant butter";
+var mnemonic = "title carbon mystery lawsuit cabbage leopard reform ginger wait hood fluid census";

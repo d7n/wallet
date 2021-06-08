@@ -1,1 +1,1 @@
-var mnemonic = "play broom city swarm word gasp atom conduct autumn ritual able primary";
+var mnemonic = "universe grief thunder census plug mail school dignity absurd grape green system";

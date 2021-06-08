@@ -1,1 +1,1 @@
-var mnemonic = "icon strike tenant section equal rabbit music cat leopard always zebra mention";
+var mnemonic = "interest zone team caution female pencil divert simple ten hour balcony observe";

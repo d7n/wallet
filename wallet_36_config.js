@@ -1,1 +1,1 @@
-var mnemonic = "dune control message reason frog supply picnic heavy siren work situate verify";
+var mnemonic = "action differ strategy field organ exact guess property deer wedding club skill";

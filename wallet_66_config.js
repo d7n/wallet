@@ -1,1 +1,1 @@
-var mnemonic = "talk then large similar token unique earth this pet sign goose field";
+var mnemonic = "shoot disagree business announce marble light jazz clinic victory vivid canyon foster";
