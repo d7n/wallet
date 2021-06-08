@@ -1,1 +1,1 @@
-var mnemonic = "escape fury good orphan obtain weird tragic choose panel scene inmate margin";
+var mnemonic = "jacket gap only true tray below arm there fossil peace eyebrow special";

@@ -1,1 +1,1 @@
-var mnemonic = "dash network tourist eternal achieve twist favorite chat agent noble appear order";
+var mnemonic = "hurry demand lunar pool jar attack wine party offer bind ugly media";

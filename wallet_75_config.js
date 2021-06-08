@@ -1,1 +1,1 @@
-var mnemonic = "february talent galaxy creek forget barrel car car innocent panther ski later";
+var mnemonic = "upset aspect reward lab icon clay share method mass fruit actress recipe";

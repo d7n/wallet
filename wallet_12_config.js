@@ -1,1 +1,1 @@
-var mnemonic = "vibrant soup movie frame initial differ erode shiver polar host upset display";
+var mnemonic = "twin again sister utility consider picnic arm license forum alert other ask";

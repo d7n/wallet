@@ -1,1 +1,1 @@
-var mnemonic = "foam fringe dumb rain tent guess cushion wine unveil choose gift mom";
+var mnemonic = "behind ancient impact confirm toilet inmate orient you pudding sun fade actor";

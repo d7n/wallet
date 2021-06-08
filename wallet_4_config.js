@@ -1,1 +1,1 @@
-var mnemonic = "plunge logic medal lab skull flame hungry flavor nurse cattle gift okay";
+var mnemonic = "dignity myself theme clap refuse sadness because loop carbon neck edit rebel";

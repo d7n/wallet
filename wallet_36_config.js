@@ -1,1 +1,1 @@
-var mnemonic = "bread spare forward adapt beef rapid advice urban random blind glass panther";
+var mnemonic = "snake case follow oak multiply job impulse orphan brother comic prevent key";

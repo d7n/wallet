@@ -1,1 +1,1 @@
-var mnemonic = "machine return salmon congress empower ahead nice castle pull three pond valve";
+var mnemonic = "tooth hawk galaxy place dolphin maid sport drum stay worry myself shed";

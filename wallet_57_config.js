@@ -1,1 +1,1 @@
-var mnemonic = "around region abandon will bridge load mirror image shop net first leopard";
+var mnemonic = "have add muscle fit prosper acid change fossil bulb crime person unique";

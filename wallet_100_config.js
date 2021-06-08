@@ -1,1 +1,1 @@
-var mnemonic = "story plunge argue vital win disorder recycle glue indicate urban mammal often";
+var mnemonic = "sister hire crouch spatial shield earth eager point color open runway twice";

@@ -1,1 +1,1 @@
-var mnemonic = "universe cloud night robust economy comfort volcano time push fame ahead income";
+var mnemonic = "early note estate vibrant bamboo element leader next month demise lucky wonder";

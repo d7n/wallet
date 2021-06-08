@@ -1,1 +1,1 @@
-var mnemonic = "gown midnight vault napkin trophy price office tornado near fancy then grunt";
+var mnemonic = "choice carry guitar brass tunnel verify sword walnut school cycle mail what";

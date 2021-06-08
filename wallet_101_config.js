@@ -1,1 +1,1 @@
-var mnemonic = "echo candy game phrase holiday amateur apology face minor moment smooth stereo";
+var mnemonic = "repair end hill music hire setup cook vehicle online mail language hint";

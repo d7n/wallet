@@ -1,1 +1,1 @@
-var mnemonic = "black note pole spike news utility peasant essence crazy mistake peanut garden";
+var mnemonic = "diamond orange maximum grocery foam already cave wife announce sustain thunder midnight";

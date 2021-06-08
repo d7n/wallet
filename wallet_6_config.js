@@ -1,1 +1,1 @@
-var mnemonic = "miracle foam poverty barely stomach kind three chaos ill solar noble east";
+var mnemonic = "heart rate wing gossip cinnamon ribbon scissors dream dish height problem across";

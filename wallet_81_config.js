@@ -1,1 +1,1 @@
-var mnemonic = "fiscal dish tragic barely napkin food present just twin check royal eager";
+var mnemonic = "vehicle problem timber easily wide mad alert people add milk marble gentle";

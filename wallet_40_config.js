@@ -1,1 +1,1 @@
-var mnemonic = "price disorder infant breeze market brand follow afford fly breeze divert leisure";
+var mnemonic = "arrive pelican chat noodle half bomb between body possible rival boring combine";

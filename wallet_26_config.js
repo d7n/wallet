@@ -1,1 +1,1 @@
-var mnemonic = "sail cause hobby fog object praise broom jacket spring stable early scout";
+var mnemonic = "stumble vanish aware cannon modify clog viable mandate crunch avoid loan cause";

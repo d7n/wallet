@@ -1,1 +1,1 @@
-var mnemonic = "oxygen popular merge normal vacant kid unhappy glide flee notice mistake black";
+var mnemonic = "hobby canoe monkey original cradle beyond visit east primary series table tiger";

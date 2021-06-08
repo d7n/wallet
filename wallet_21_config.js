@@ -1,1 +1,1 @@
-var mnemonic = "rail depend essay correct below journey tank since urge tonight carpet prison";
+var mnemonic = "auction joy vital web deal immune ghost task daring alien surface coil";

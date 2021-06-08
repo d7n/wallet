@@ -1,1 +1,1 @@
-var mnemonic = "couple bone drastic trap hint act federal crucial scheme focus radar seat";
+var mnemonic = "vehicle video scan cupboard source fit display shoe siege body spike plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist blind caught loan stock mean world verify avocado satisfy couple humor";
+var mnemonic = "panther explain train jelly magnet bridge hope guard then muscle hospital actor";

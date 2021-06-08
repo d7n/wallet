@@ -1,1 +1,1 @@
-var mnemonic = "school slogan local illegal access security submit artist toward diet transfer answer";
+var mnemonic = "slide tank under kick virus empower meat dial truck local front skate";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo intact winner reveal neglect merit nerve regular cook carpet nurse change";
+var mnemonic = "virus file sniff night sustain must market hub adapt emerge organ wait";

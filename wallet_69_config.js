@@ -1,1 +1,1 @@
-var mnemonic = "alley bunker voyage web muffin offer vast usage soft profit opera salon";
+var mnemonic = "enter practice shallow snake pencil drastic silent mind relax sound shop element";

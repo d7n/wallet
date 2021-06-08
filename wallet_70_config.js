@@ -1,1 +1,1 @@
-var mnemonic = "tip urban drum cute age despair extra oppose voice occur power cute";
+var mnemonic = "early student space window night sugar exercise thank donor slogan fix link";

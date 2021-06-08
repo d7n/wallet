@@ -1,1 +1,1 @@
-var mnemonic = "myth minor pole recipe correct snow lobster tomato vote spider equip victory";
+var mnemonic = "enter fragile dumb icon first tilt rib pen settle credit silly undo";

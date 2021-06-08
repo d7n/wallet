@@ -1,1 +1,1 @@
-var mnemonic = "furnace depend oxygen poverty fresh service know gym april bless peasant leave";
+var mnemonic = "wrestle tip excuse tunnel mimic purse virtual dilemma walk enforce stool shoulder";

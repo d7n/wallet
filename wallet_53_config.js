@@ -1,1 +1,1 @@
-var mnemonic = "rubber stadium ordinary crumble inner famous dignity school before rigid basket spell";
+var mnemonic = "margin firm pluck aware axis torch winner squirrel dinner fold mammal lobster";

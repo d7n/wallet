@@ -1,1 +1,1 @@
-var mnemonic = "custom emerge exclude theory shine task gospel pattern unveil social guilt claim";
+var mnemonic = "exchange dove carbon glory when march dizzy meat general slogan chief hub";

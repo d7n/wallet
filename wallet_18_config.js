@@ -1,1 +1,1 @@
-var mnemonic = "buzz couple embrace mother fence solar click throw parade west asset depth";
+var mnemonic = "session finish digital eager bundle pitch monster pelican jelly wing age marble";

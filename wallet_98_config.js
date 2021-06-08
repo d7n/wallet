@@ -1,1 +1,1 @@
-var mnemonic = "satisfy diesel few trick rail hidden cup put adult sick leopard shoulder";
+var mnemonic = "blind angle double such life grant bamboo sail stuff trap web rotate";

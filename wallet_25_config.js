@@ -1,1 +1,1 @@
-var mnemonic = "decline turn slim possible head impact twin smile silent together army crew";
+var mnemonic = "carry slush north paper element replace copy angry wall gather winter width";

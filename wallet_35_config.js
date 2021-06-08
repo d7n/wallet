@@ -1,1 +1,1 @@
-var mnemonic = "car nest board truly country salad glory measure direct quick prepare high";
+var mnemonic = "mimic evil service program solar exhibit service six wash urban year damage";

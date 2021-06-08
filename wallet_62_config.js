@@ -1,1 +1,1 @@
-var mnemonic = "flip excess little example pepper tissue age pledge moment proud awful patient";
+var mnemonic = "shine cool match farm join easy also good foot focus hurt food";

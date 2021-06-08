@@ -1,1 +1,1 @@
-var mnemonic = "vote lake kind rice kiss index dizzy law pyramid element body unable";
+var mnemonic = "multiply what soap empty note obvious damp wet brain hurt holiday carry";

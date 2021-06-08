@@ -1,1 +1,1 @@
-var mnemonic = "athlete lazy bamboo relax wine task vessel win siren thank host grass";
+var mnemonic = "digital kind obey crane latin midnight submit leg shrug actual scissors relief";

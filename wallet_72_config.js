@@ -1,1 +1,1 @@
-var mnemonic = "female glass walk nature cherry badge island defense skirt churn chimney ritual";
+var mnemonic = "between spread word question walnut wisdom stable dizzy else dinosaur wagon crush";

@@ -1,1 +1,1 @@
-var mnemonic = "slush team session upgrade toilet farm develop crumble lawn coffee iron peace";
+var mnemonic = "brother raw curious excess wealth leopard panda deer fiber cube shy beyond";

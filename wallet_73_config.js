@@ -1,1 +1,1 @@
-var mnemonic = "parade outside ivory soap general you virus only pizza canoe muffin rate";
+var mnemonic = "doctor problem rural ability brass garlic acoustic easily skill memory endless wrist";

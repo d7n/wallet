@@ -1,1 +1,1 @@
-var mnemonic = "stadium method festival abuse start echo purpose furnace cinnamon fetch accident ridge";
+var mnemonic = "morning mass resource sniff either replace soft crystal thunder mixed erosion margin";

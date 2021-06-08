@@ -1,1 +1,1 @@
-var mnemonic = "chief engine siren hip unit glad mad garden around unaware slender tissue";
+var mnemonic = "cook alert knife wing valley urban mention polar indicate metal trophy resist";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze simple certain pistol twenty unhappy social leg crunch adjust sock cereal";
+var mnemonic = "moment flush crunch course month laundry awkward circle hero violin large stem";

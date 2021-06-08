@@ -1,1 +1,1 @@
-var mnemonic = "pepper olive shuffle dose nuclear hill divert educate satoshi crisp sample shed";
+var mnemonic = "canvas bind video joy mutual tornado song favorite over mobile duck cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "common forget seven industry mutual cool action yard abandon rotate neck dawn";
+var mnemonic = "cradle embrace scare sauce company recycle stock lunch economy unique discover ancient";

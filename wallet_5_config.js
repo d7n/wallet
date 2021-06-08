@@ -1,1 +1,1 @@
-var mnemonic = "lunar meadow session pave include clump fiber wire lonely visa wolf energy";
+var mnemonic = "eagle hollow cheese okay loyal clutch measure supreme divert goat aisle another";

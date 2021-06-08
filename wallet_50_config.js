@@ -1,1 +1,1 @@
-var mnemonic = "retire oblige forest park pyramid luxury coyote sadness ramp display sphere glide";
+var mnemonic = "real degree zebra junior start wait girl alpha wealth ahead field rally";

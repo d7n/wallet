@@ -1,1 +1,1 @@
-var mnemonic = "modify click sadness emotion jelly piano bulk hero pill reduce luxury muscle";
+var mnemonic = "medal vintage advance crystal gaze siege tree cute potato throw frog brick";

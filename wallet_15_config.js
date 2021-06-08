@@ -1,1 +1,1 @@
-var mnemonic = "choice height tackle bachelor glory royal hint orange square practice kid message";
+var mnemonic = "bamboo display hint wise mad allow camera tuna milk isolate grain media";

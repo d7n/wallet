@@ -1,1 +1,1 @@
-var mnemonic = "oven exact blanket muscle element expose siren sure debate goat bread identify";
+var mnemonic = "sand wash taste wonder lawn practice real explain yard chat cricket speed";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze crazy bulb essence fall method cost moon arch select lucky speak";
+var mnemonic = "expect differ label jealous island genuine diary gospel kitchen entire royal click";

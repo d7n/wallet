@@ -1,1 +1,1 @@
-var mnemonic = "student surround useless aisle creek zero position athlete raven exercise lift name";
+var mnemonic = "wave canoe around off snake orange history know kit world sorry tumble";

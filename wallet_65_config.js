@@ -1,1 +1,1 @@
-var mnemonic = "gate bar want model peanut kick trouble clown corn beyond bind wild";
+var mnemonic = "item curtain tail father bench kick farm fence search eight bounce egg";

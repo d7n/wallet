@@ -1,1 +1,1 @@
-var mnemonic = "camp lyrics crush pride during inquiry hire south boost planet winter plastic";
+var mnemonic = "device mammal path warm aerobic indoor road under flame color mutual earn";

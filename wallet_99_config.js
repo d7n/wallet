@@ -1,1 +1,1 @@
-var mnemonic = "acquire thing first remember village train renew question screen engine yellow connect";
+var mnemonic = "dial obscure someone decorate asset urban wage promote iron pattern spatial coffee";

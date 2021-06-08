@@ -1,1 +1,1 @@
-var mnemonic = "trade fringe survey marine pudding unveil crew year common cabbage doctor sunset";
+var mnemonic = "leisure damp exit hard fiber segment fiscal rule blast rule invest wrist";

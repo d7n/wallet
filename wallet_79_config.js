@@ -1,1 +1,1 @@
-var mnemonic = "unaware mixture response leisure drop era eight box poet repair muscle weasel";
+var mnemonic = "brick alone cactus medal clean august attack coffee gown churn attend repair";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost tattoo trend title stock fiscal turn galaxy action dignity fiber genius";
+var mnemonic = "multiply web upset erupt toast mercy youth leisure frequent casual powder divorce";

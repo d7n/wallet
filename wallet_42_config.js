@@ -1,1 +1,1 @@
-var mnemonic = "ivory sight mechanic crouch spray buffalo punch diet ugly shy similar amount";
+var mnemonic = "gauge session mom slogan lock wife winner glass noise need muscle differ";

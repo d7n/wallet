@@ -1,1 +1,1 @@
-var mnemonic = "wisdom tennis blue various jaguar nephew appear retreat flush divorce long fire";
+var mnemonic = "jump radar allow install image lens choose add develop fade mountain party";

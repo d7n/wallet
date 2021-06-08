@@ -1,1 +1,1 @@
-var mnemonic = "dash night eye midnight smart road canal cereal you truth faith reduce";
+var mnemonic = "heavy head skull grace index dilemma mad across coral staff chuckle beef";

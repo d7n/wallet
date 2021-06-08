@@ -1,1 +1,1 @@
-var mnemonic = "laugh brother trumpet claim fire whisper train obvious turtle demise news assault";
+var mnemonic = "behind engage siren funny aunt render cabbage nest dynamic tackle clerk desk";

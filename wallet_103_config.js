@@ -1,1 +1,1 @@
-var mnemonic = "liquid toilet hurt bike matter ten snap year wait honey unit oval";
+var mnemonic = "control thrive way wonder current amount clarify winter genre fine ski card";

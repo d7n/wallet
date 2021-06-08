@@ -1,1 +1,1 @@
-var mnemonic = "pride member scorpion crane motor one board mean spatial winter galaxy grief";
+var mnemonic = "melt magnet fancy blur peanut aisle quote repeat left like shoulder wedding";

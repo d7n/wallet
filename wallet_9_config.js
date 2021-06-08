@@ -1,1 +1,1 @@
-var mnemonic = "mammal castle misery couple picture toddler hair affair lady motor shift hurdle";
+var mnemonic = "idea sock lesson pudding century there fringe gym fitness nuclear twin memory";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy dry chunk plunge shoe rocket detect history icon session can praise";
+var mnemonic = "fold chalk pluck mechanic sniff erode possible orphan fish curious work mutual";

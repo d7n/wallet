@@ -1,1 +1,1 @@
-var mnemonic = "fiscal expect vote benefit fragile certain learn federal echo camp suit pull";
+var mnemonic = "skull copy evolve electric next dilemma turn track ensure sister hybrid hungry";

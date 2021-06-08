@@ -1,1 +1,1 @@
-var mnemonic = "broom trick skin okay outside scene elevator use stove rail mad flip";
+var mnemonic = "athlete obey vanish despair regret obtain ranch coil gain fashion setup boy";

@@ -1,1 +1,1 @@
-var mnemonic = "health defense usage flock acoustic strategy pyramid panda soul ghost canal session";
+var mnemonic = "print drill nuclear horn blind suffer whisper poem world note mountain replace";

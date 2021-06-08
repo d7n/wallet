@@ -1,1 +1,1 @@
-var mnemonic = "right fly happy all during purchase topple brick fringe sentence recipe pistol";
+var mnemonic = "stem report assault banana weather portion pluck powder cement immense thrive immune";

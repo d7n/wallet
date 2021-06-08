@@ -1,1 +1,1 @@
-var mnemonic = "beauty scrub length castle spirit horror woman tiny beach industry outside census";
+var mnemonic = "purpose manual alter boss dismiss certain ship pattern sail lemon pudding chronic";

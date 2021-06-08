@@ -1,1 +1,1 @@
-var mnemonic = "lunch lion success horse option mother local hidden laugh rubber produce crash";
+var mnemonic = "vast jeans traffic wing pony minimum exile similar water horror catalog dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "when dynamic joke winner hunt syrup act ivory security tide hill evidence";
+var mnemonic = "woman width reopen crew mirror belt upset current security across tail undo";

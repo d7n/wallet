@@ -1,1 +1,1 @@
-var mnemonic = "poverty peace grunt tool layer actress wide segment expose october region cherry";
+var mnemonic = "excess box october caught frozen morning grunt miss glance group observe romance";

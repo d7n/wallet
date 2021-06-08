@@ -1,1 +1,1 @@
-var mnemonic = "lady purchase frozen august rough half faith salad multiply auction minor critic";
+var mnemonic = "dentist attract ticket output december school write job mind phone river uncle";

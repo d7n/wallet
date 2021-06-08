@@ -1,1 +1,1 @@
-var mnemonic = "range upper satoshi fancy stadium mistake refuse world monster sister property bunker";
+var mnemonic = "urban pole there must science empower weasel school lesson rib change risk";

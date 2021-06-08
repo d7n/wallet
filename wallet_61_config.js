@@ -1,1 +1,1 @@
-var mnemonic = "reduce network chair color airport say grace ten jungle theory today unique";
+var mnemonic = "confirm wage two rebuild name kidney symptom portion squirrel royal element viable";

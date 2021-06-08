@@ -1,1 +1,1 @@
-var mnemonic = "dose gossip add begin reflect acquire cousin lava guess track tortoise develop";
+var mnemonic = "affair hybrid outer before forward favorite blur deposit peasant airport keen undo";

@@ -1,1 +1,1 @@
-var mnemonic = "win wheat damp galaxy false flag now increase either tortoise noise gift";
+var mnemonic = "tortoise emotion promote person lazy carbon orphan section retire tumble calm grid";

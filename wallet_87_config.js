@@ -1,1 +1,1 @@
-var mnemonic = "case impact easily expect winter nasty credit crystal lawsuit major mistake special";
+var mnemonic = "assist relax differ model sing link source inspire hat mutual noodle wall";

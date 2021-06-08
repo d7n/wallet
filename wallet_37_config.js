@@ -1,1 +1,1 @@
-var mnemonic = "mom defy maximum comfort stairs front nuclear mimic phone valley actress word";
+var mnemonic = "arm hundred sense weapon august bird quarter element wonder nasty size depend";

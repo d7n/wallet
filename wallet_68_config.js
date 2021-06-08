@@ -1,1 +1,1 @@
-var mnemonic = "humor pipe table medal document receive hungry prefer tube napkin side hire";
+var mnemonic = "roof pioneer fan reopen chair lock reveal ride fitness code rapid goat";

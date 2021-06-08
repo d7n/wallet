@@ -1,1 +1,1 @@
-var mnemonic = "quit where faint ticket hint tribe unit barrel alter dream negative situate";
+var mnemonic = "blue bounce open year quick leader coconut cook produce split online evolve";

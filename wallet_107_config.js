@@ -1,1 +1,1 @@
-var mnemonic = "marble convince ripple spice exact crumble slush exercise tell forest bring page";
+var mnemonic = "wage seek violin duck exile hidden glow zero fork medal merit leisure";

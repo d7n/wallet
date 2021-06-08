@@ -1,1 +1,1 @@
-var mnemonic = "air lawsuit cabin illegal teach bid minor obtain mask salad smile alpha";
+var mnemonic = "behind primary club obscure notable fragile love staff ranch twin oil donate";

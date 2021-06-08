@@ -1,1 +1,1 @@
-var mnemonic = "marble logic siege erase miss strong shuffle cross ginger silk style helmet";
+var mnemonic = "liquid mimic paper uncover risk expect ice topic margin obvious harvest add";

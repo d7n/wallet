@@ -1,1 +1,1 @@
-var mnemonic = "situate still cage door curve outside guess child buddy praise regular canoe";
+var mnemonic = "steak circle lyrics machine because antique weather owner can upper process domain";
