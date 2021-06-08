@@ -1,1 +1,1 @@
-var mnemonic = "either hollow follow forward glad feature arrow robot access pluck velvet wrestle";
+var mnemonic = "license power custom harbor addict fix decide decorate wheat voice tilt adult";

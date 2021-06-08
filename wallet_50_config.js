@@ -1,1 +1,1 @@
-var mnemonic = "pond cross auction kitten climb grant capable leg please tattoo empty mesh";
+var mnemonic = "surround hat mutual cupboard cable album flat ancient develop off gentle ball";

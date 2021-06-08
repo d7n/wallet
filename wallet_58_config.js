@@ -1,1 +1,1 @@
-var mnemonic = "volcano earth motion error pattern video quote cry false call issue unfair";
+var mnemonic = "weasel universe time please crater rotate diamond volcano else ocean job airport";

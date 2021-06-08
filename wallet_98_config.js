@@ -1,1 +1,1 @@
-var mnemonic = "salt tooth achieve lesson poem grass pilot build inside pride tilt accuse";
+var mnemonic = "remove during elite large uphold fragile hollow verify donkey fluid orchard purchase";

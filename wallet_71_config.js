@@ -1,1 +1,1 @@
-var mnemonic = "prosper boil glimpse sight laundry check general august attack suit raise scatter";
+var mnemonic = "pistol worry stadium caught extra belt inject radio thumb roast winner slice";

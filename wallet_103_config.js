@@ -1,1 +1,1 @@
-var mnemonic = "deputy intact episode enact crime estate now prize guilt adapt road robot";
+var mnemonic = "surprise dirt quit snap math section illness senior sustain mother tone cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "essence jacket trophy dress fiscal only wolf napkin general truth shove talent";
+var mnemonic = "bless mouse mistake whisper capable throw salmon seek razor six bag shadow";

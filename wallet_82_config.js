@@ -1,1 +1,1 @@
-var mnemonic = "cricket roof cinnamon keen theory slot report vacuum cloth endorse lesson evoke";
+var mnemonic = "feature dawn liberty force bless clinic merit wage cradle draft chief perfect";

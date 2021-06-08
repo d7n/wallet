@@ -1,1 +1,1 @@
-var mnemonic = "other reflect copper flight bulk toilet reduce fiscal dry also require tip";
+var mnemonic = "offer nut noodle salmon insane cute sort label chronic elder floor hello";

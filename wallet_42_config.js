@@ -1,1 +1,1 @@
-var mnemonic = "myth orchard stereo worry addict industry moment coach joke clinic artist journey";
+var mnemonic = "access slice fault upon goddess mutual meadow loyal raccoon swamp vehicle item";

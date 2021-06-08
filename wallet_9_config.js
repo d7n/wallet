@@ -1,1 +1,1 @@
-var mnemonic = "orange palace clay replace hurt trip arctic assume genre become elite buddy";
+var mnemonic = "army envelope call estate brisk ritual mountain approve bind control buddy east";

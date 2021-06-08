@@ -1,1 +1,1 @@
-var mnemonic = "car soda hand shadow reflect mixture just food helmet agree bike another";
+var mnemonic = "cotton local bind piece attack lion lawn glue spy sail detect eye";

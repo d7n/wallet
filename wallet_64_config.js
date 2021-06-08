@@ -1,1 +1,1 @@
-var mnemonic = "seat during merit seek trap doctor wood shy again clean under gallery";
+var mnemonic = "beef silver history stove armed range school liquid spend capital bubble yellow";

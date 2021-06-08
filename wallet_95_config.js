@@ -1,1 +1,1 @@
-var mnemonic = "laugh bike secret infant room bread lend quick dance alarm steel song";
+var mnemonic = "avocado usual tunnel scout echo drift prevent grape myth tree clump relax";

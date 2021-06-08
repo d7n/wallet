@@ -1,1 +1,1 @@
-var mnemonic = "bike universe bronze yard involve decrease endless region about result record false";
+var mnemonic = "torch october eagle chicken hunt blouse mention add couch account ritual brother";

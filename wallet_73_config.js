@@ -1,1 +1,1 @@
-var mnemonic = "trophy dismiss group master pupil cigar tattoo sustain fortune middle injury math";
+var mnemonic = "dragon raccoon razor eagle motor huge mandate layer purchase rare learn grant";

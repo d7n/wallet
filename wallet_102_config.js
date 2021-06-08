@@ -1,1 +1,1 @@
-var mnemonic = "foot sugar fatigue peanut chronic robot chicken enter cry inquiry enable bubble";
+var mnemonic = "cheap jeans heart add total usual inflict pond window poet reopen orchard";

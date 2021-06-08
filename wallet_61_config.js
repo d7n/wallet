@@ -1,1 +1,1 @@
-var mnemonic = "smile library curious metal portion guess differ evil tooth antenna arch fence";
+var mnemonic = "nut flush smile rain property where idle around aim habit gaze hawk";

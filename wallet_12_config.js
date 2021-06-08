@@ -1,1 +1,1 @@
-var mnemonic = "rookie interest thunder south trumpet space error school stool icon father guess";
+var mnemonic = "dizzy abstract course this symbol neutral ripple palm path december oval maple";

@@ -1,1 +1,1 @@
-var mnemonic = "ice ahead lady design case mimic elbow frame solve onion program wrestle";
+var mnemonic = "bonus leg rough fine drum prison casino eye expire save spare drop";

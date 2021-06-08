@@ -1,1 +1,1 @@
-var mnemonic = "unfold initial win frown giant again zoo indoor raise edge tortoise doctor";
+var mnemonic = "meat vibrant gather document empower tongue simple ticket outer confirm rib century";

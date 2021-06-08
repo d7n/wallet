@@ -1,1 +1,1 @@
-var mnemonic = "collect grow oblige jacket spider sense sick glue offer fury grow warrior";
+var mnemonic = "minor ready mechanic ten shrug skull glance secret warrior provide weird cheese";

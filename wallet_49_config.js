@@ -1,1 +1,1 @@
-var mnemonic = "slab legal recycle bright hamster milk picture pride surge cargo horse punch";
+var mnemonic = "salmon smoke rescue clay neutral kitten blanket hedgehog gold company cup tape";

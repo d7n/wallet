@@ -1,1 +1,1 @@
-var mnemonic = "return margin client wall message differ cinnamon snow bomb pilot gift aerobic";
+var mnemonic = "benefit tell ask concert hope harvest brand scatter frame airport pretty casual";

@@ -1,1 +1,1 @@
-var mnemonic = "space entry wood hamster glory more during awake head way cave save";
+var mnemonic = "pipe bottom vendor use armed soda opinion alcohol buzz beef gown panel";

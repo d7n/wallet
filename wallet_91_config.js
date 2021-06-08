@@ -1,1 +1,1 @@
-var mnemonic = "dice rib group moral case version iron siege skate walk end cover";
+var mnemonic = "enter alien spice venue rule ripple scorpion shuffle pudding night anchor soul";

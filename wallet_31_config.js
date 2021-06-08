@@ -1,1 +1,1 @@
-var mnemonic = "negative unique pact level security fan author crazy spell diesel mandate guilt";
+var mnemonic = "ripple blossom tortoise dolphin more solve resemble romance wonder vapor boss off";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch bread blouse forward question close total donate top fun pretty echo";
+var mnemonic = "neutral surprise lion jacket list metal rocket achieve idle model survey skin";

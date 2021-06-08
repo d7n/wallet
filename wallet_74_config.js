@@ -1,1 +1,1 @@
-var mnemonic = "state slot traffic damage liquid fan junk tongue smoke fade trumpet black";
+var mnemonic = "state kite label flag history noise vessel tired voyage board super develop";

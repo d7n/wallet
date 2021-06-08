@@ -1,1 +1,1 @@
-var mnemonic = "since beef foil olympic toss gift sorry split other horse hockey spike";
+var mnemonic = "until actor betray oil action zone fame acquire subway sea shop nominee";

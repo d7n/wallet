@@ -1,1 +1,1 @@
-var mnemonic = "together old manual myself fault clutch vocal vault excess become object stairs";
+var mnemonic = "stage sell matter rack snake demand hollow home belt story dolphin favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp blur bundle comfort burst exchange ethics net transfer crew small vapor";
+var mnemonic = "camera proud farm walk isolate stool when emotion gloom social reopen inner";

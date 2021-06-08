@@ -1,1 +1,1 @@
-var mnemonic = "execute disease coral clutch blossom leopard cause stadium emerge profit usage obtain";
+var mnemonic = "bottom army degree rose side snap shock raccoon text rescue million access";

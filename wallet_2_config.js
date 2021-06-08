@@ -1,1 +1,1 @@
-var mnemonic = "blame damage happy polar mistake badge squirrel venue poet grape trouble equal";
+var mnemonic = "goat near modify vague between good marine float bubble mango rifle prison";

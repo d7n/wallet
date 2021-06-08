@@ -1,1 +1,1 @@
-var mnemonic = "sound segment follow build stomach pull flee screen chicken cycle armed elbow";
+var mnemonic = "clever expose case trip dice tray token member jar gaze eye egg";

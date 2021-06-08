@@ -1,1 +1,1 @@
-var mnemonic = "track spy tank leisure danger buffalo antenna embark asthma bench doll letter";
+var mnemonic = "better border chalk trap bone monkey address expand health shrug inmate when";

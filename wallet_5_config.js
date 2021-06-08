@@ -1,1 +1,1 @@
-var mnemonic = "hour muffin choice unfold despair fault absurd pause act misery egg learn";
+var mnemonic = "cage effort toss author bring tackle glory beef analyst sign original lazy";

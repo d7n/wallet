@@ -1,1 +1,1 @@
-var mnemonic = "tissue pilot sponsor grab shrug rough repeat album solid love trade mushroom";
+var mnemonic = "art valve cake child baby keep clean brave month baby pistol planet";

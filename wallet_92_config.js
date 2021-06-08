@@ -1,1 +1,1 @@
-var mnemonic = "lecture piano bounce surround limb among video man sign ridge isolate shove";
+var mnemonic = "demand carry hamster ill pioneer priority junior economy cycle cube grape wire";

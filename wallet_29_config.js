@@ -1,1 +1,1 @@
-var mnemonic = "pitch soda various action next taxi churn vicious question floor say blood";
+var mnemonic = "crazy manual march iron bridge taxi economy benefit hub winner feed hint";

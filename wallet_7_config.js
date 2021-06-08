@@ -1,1 +1,1 @@
-var mnemonic = "brass orange grocery suffer there sense alcohol seven inmate hobby hero aspect";
+var mnemonic = "mule satoshi liberty abandon bunker sight renew wealth net merry ready false";

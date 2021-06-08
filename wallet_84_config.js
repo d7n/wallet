@@ -1,1 +1,1 @@
-var mnemonic = "eternal token guilt guard injury wait dad tail report shed setup erosion";
+var mnemonic = "trial mule gossip myself flight glue exchange below beyond awkward candy labor";

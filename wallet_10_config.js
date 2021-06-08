@@ -1,1 +1,1 @@
-var mnemonic = "style father amused upper skate struggle federal empty leg agree chief acoustic";
+var mnemonic = "rookie jaguar tired upper twenty aware scheme agent absurd still turtle buddy";

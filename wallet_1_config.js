@@ -1,1 +1,1 @@
-var mnemonic = "off ice miracle toilet matrix large illness issue normal ordinary celery lend";
+var mnemonic = "unable left donor blood sunset sample office host boost glance unhappy orphan";

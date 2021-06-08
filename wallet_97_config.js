@@ -1,1 +1,1 @@
-var mnemonic = "enroll peasant apple viable evil sting extra crunch shop twelve aim disorder";
+var mnemonic = "void mixture card stuff hand amused come army fiscal cancel rhythm ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "coil turkey detail surface flock enable satoshi jelly math tag arrange winner";
+var mnemonic = "gospel favorite middle place put ethics domain suspect hunt wisdom lawsuit letter";

@@ -1,1 +1,1 @@
-var mnemonic = "panther electric child castle silly rhythm music credit mail oil donor sample";
+var mnemonic = "farm garment heavy spell edit borrow exit reunion lizard best minute debate";

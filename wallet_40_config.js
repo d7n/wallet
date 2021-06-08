@@ -1,1 +1,1 @@
-var mnemonic = "oil follow business arena soap west collect fortune exchange age foster hair";
+var mnemonic = "undo era retire ribbon foster sleep slot bulb aware cattle kite shove";

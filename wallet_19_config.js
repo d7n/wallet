@@ -1,1 +1,1 @@
-var mnemonic = "used tortoise network volume tuna exist play topic throw issue glow market";
+var mnemonic = "north artwork unfair notice near pottery blossom eye local possible reveal curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "else mix shop travel desk example birth exchange dish buffalo song praise";
+var mnemonic = "loan donkey liquid cause illegal laugh icon iron rival expand zero cigar";

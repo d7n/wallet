@@ -1,1 +1,1 @@
-var mnemonic = "eager there neutral total swift town fox movie neither obscure hat quit";
+var mnemonic = "stock dial enjoy prepare spawn banana topic similar cheese window degree horror";

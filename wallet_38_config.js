@@ -1,1 +1,1 @@
-var mnemonic = "unable section charge ready gorilla dentist snake mercy anger tornado antenna own";
+var mnemonic = "office stable skirt order attract common rigid picture custom since just game";

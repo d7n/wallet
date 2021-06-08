@@ -1,1 +1,1 @@
-var mnemonic = "select panic usual under result error relief bridge hand erase thing actress";
+var mnemonic = "odor nasty stadium sound satisfy brand mention betray dad brass deposit pupil";

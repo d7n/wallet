@@ -1,1 +1,1 @@
-var mnemonic = "wagon spider offer laugh civil issue race elevator autumn aerobic seat taste";
+var mnemonic = "dance afford busy short talent essay beauty hair wealth exact fork unfold";

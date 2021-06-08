@@ -1,1 +1,1 @@
-var mnemonic = "lady puzzle moon never myth old soap federal junior place treat fruit";
+var mnemonic = "symbol length silk input appear blouse ivory potato entire magic breeze maple";

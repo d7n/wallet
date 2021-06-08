@@ -1,1 +1,1 @@
-var mnemonic = "program unfair employ rely custom side person amused collect shoot thumb steak";
+var mnemonic = "yellow trial swift admit galaxy then rug couch nice ceiling fly lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "path enter bargain wine pudding gown replace fringe cement true garden design";
+var mnemonic = "vivid bunker leader celery buddy tuna crash damage plunge empty undo process";

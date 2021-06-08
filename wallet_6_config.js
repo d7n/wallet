@@ -1,1 +1,1 @@
-var mnemonic = "rail miracle strike cricket evidence cigar used void vicious chef used defy";
+var mnemonic = "cup dynamic holiday extend diary slide wing initial abstract strategy easy climb";

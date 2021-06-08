@@ -1,1 +1,1 @@
-var mnemonic = "tumble brother more chalk slab slam eye idle film myth horse audit";
+var mnemonic = "collect dinosaur gap quiz stumble surface mandate crawl volcano version escape sleep";

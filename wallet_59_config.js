@@ -1,1 +1,1 @@
-var mnemonic = "blue crush glide rude mule meat acquire pulse yard trouble lunar canyon";
+var mnemonic = "leave churn roast agree opera connect six lunch grape security final flag";

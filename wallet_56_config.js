@@ -1,1 +1,1 @@
-var mnemonic = "actor vocal fog credit female fatal road museum sure summer gravity fox";
+var mnemonic = "climb casino second tongue mercy tobacco satoshi sister glove addict crew danger";

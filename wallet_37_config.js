@@ -1,1 +1,1 @@
-var mnemonic = "gold decrease gown used siege potato upper drama rare dutch gold ivory";
+var mnemonic = "affair nerve body evolve blanket powder hold obvious clinic elegant giant raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "name slow manual genuine spell double solid chunk extend learn nephew ghost";
+var mnemonic = "print mechanic audit erase frozen poet suspect question enroll client elder machine";

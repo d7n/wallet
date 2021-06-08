@@ -1,1 +1,1 @@
-var mnemonic = "trend note inhale churn top convince reason squeeze gentle peanut replace tiny";
+var mnemonic = "three mixed renew myth beauty foster zoo strategy say pluck anxiety flip";

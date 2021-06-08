@@ -1,1 +1,1 @@
-var mnemonic = "mesh private parrot diagram strike great way soul toe stomach pumpkin erase";
+var mnemonic = "angle panther outer chaos tag play left result nothing foil roast royal";

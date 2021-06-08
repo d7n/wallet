@@ -1,1 +1,1 @@
-var mnemonic = "off tube slow fat desert evil gadget stone offer battle drift horn";
+var mnemonic = "rug sock cousin clean loan feel genre taxi anchor session notable slight";

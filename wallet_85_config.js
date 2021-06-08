@@ -1,1 +1,1 @@
-var mnemonic = "pigeon wonder only loop follow deputy draft object suggest slice mosquito public";
+var mnemonic = "extend item marine supreme census room shrug budget inquiry cover hint orange";

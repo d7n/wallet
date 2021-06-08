@@ -1,1 +1,1 @@
-var mnemonic = "mimic odor walk clog comic clip ocean predict false move neutral joy";
+var mnemonic = "price dog drum possible truly pluck cash advance dad carbon sound kiss";

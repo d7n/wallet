@@ -1,1 +1,1 @@
-var mnemonic = "pole egg crucial result warfare museum airport exclude repeat industry youth lonely";
+var mnemonic = "survey glove brass jungle indoor memory differ screen century drink genius salad";

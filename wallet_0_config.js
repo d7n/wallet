@@ -1,1 +1,1 @@
-var mnemonic = "ribbon divorce around century usage chaos maze bachelor fault hour board blush";
+var mnemonic = "style garlic allow reform express dinner license maid sorry mix tomorrow frog";

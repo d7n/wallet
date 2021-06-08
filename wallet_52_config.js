@@ -1,1 +1,1 @@
-var mnemonic = "limb human canoe mesh donor sand alcohol elevator shoe scene mistake recipe";
+var mnemonic = "teach shuffle hint spell century rather goddess ensure sponsor name nation forum";

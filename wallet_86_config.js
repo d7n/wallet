@@ -1,1 +1,1 @@
-var mnemonic = "hire hover live flush foster airport spring mutual reform knock antique profit";
+var mnemonic = "junk base unit turn swarm either elephant wrong expand hurt input legal";

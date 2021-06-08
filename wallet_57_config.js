@@ -1,1 +1,1 @@
-var mnemonic = "silk cart together brother layer math void flag used cycle tomato author";
+var mnemonic = "shuffle hello relax exact require muscle knife salt inquiry grit another liquid";

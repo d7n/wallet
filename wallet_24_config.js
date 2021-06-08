@@ -1,1 +1,1 @@
-var mnemonic = "erode shy medal soccer champion leopard knife visit equip ecology crumble bottom";
+var mnemonic = "relax manual suspect kiss portion catalog scrap walnut casino reject planet banner";

@@ -1,1 +1,1 @@
-var mnemonic = "frost insect occur resemble click clarify destroy fiber multiply seminar zone worth";
+var mnemonic = "horror chimney slim mean drive hurt advance life accident found need error";

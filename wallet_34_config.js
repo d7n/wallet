@@ -1,1 +1,1 @@
-var mnemonic = "cement boy bright deer equip soul horn deer icon age stadium limit";
+var mnemonic = "wire wine garlic bulb brother syrup cat artwork alcohol unfair jaguar child";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep sunny prepare cheese notable charge gap crunch stool prison long castle";
+var mnemonic = "awake rifle usage syrup cushion kangaroo awesome jar gospel inch hurt gaze";

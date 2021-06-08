@@ -1,1 +1,1 @@
-var mnemonic = "unfold run salmon absent agree lift bulk radio unfold parrot excuse acquire";
+var mnemonic = "gym fee road joke void flock domain gauge kit anxiety firm address";

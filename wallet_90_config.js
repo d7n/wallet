@@ -1,1 +1,1 @@
-var mnemonic = "antenna mail then mail stairs urge crop advance gaze broccoli virtual umbrella";
+var mnemonic = "oxygen ramp pull abandon must almost danger consider blouse lounge buffalo renew";

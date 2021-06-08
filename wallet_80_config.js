@@ -1,1 +1,1 @@
-var mnemonic = "tired biology click divorce box doctor behind fringe robot black arrange spot";
+var mnemonic = "power either false allow athlete once panda reject frog trophy remain room";

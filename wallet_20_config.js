@@ -1,1 +1,1 @@
-var mnemonic = "swamp pulp rigid wonder gallery blind chalk invite essay top melody cancel";
+var mnemonic = "destroy copy ankle all female coral vital visual chef memory denial glide";

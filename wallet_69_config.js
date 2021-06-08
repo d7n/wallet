@@ -1,1 +1,1 @@
-var mnemonic = "picnic flight fantasy win magnet bless reveal access family humble bubble innocent";
+var mnemonic = "safe undo obvious poverty crumble dinner undo copper crazy govern kangaroo inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "mean raven demise youth drastic emerge foster nerve impact gorilla begin false";
+var mnemonic = "frame tide warfare power bargain canyon pudding verify champion library chest wink";

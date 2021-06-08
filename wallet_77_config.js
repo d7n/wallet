@@ -1,1 +1,1 @@
-var mnemonic = "bus eight barrel disease senior dune scout luxury catch flip rookie report";
+var mnemonic = "recycle sibling kiwi build tone space dignity song funny reunion various topple";

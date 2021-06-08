@@ -1,1 +1,1 @@
-var mnemonic = "voice write drive decline drip belt desert wasp noble mix keen dress";
+var mnemonic = "coral swallow lounge shrimp sister space field hover ski family ankle draw";

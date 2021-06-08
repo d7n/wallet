@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit ostrich impact evolve alert album hurt bronze affair neither rhythm material";
+var mnemonic = "carry normal text control half property habit gap runway quit alley hobby";

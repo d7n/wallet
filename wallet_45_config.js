@@ -1,1 +1,1 @@
-var mnemonic = "genius gate reunion oak joke yard exchange embrace inch strategy frost venue";
+var mnemonic = "advice carpet globe upgrade club lunch online twenty yard mesh insect must";

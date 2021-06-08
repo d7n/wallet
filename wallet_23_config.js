@@ -1,1 +1,1 @@
-var mnemonic = "bubble smart symptom raw subject cabin pepper carry renew luxury bunker drink";
+var mnemonic = "popular sleep symptom table curious option alone trust educate chicken funny solid";

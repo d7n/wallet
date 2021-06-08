@@ -1,1 +1,1 @@
-var mnemonic = "filter high sponsor skate diary trial pulse poet erupt pulse six relax";
+var mnemonic = "modify brave then giggle regret six diary attract thumb forget all youth";

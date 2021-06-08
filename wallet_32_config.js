@@ -1,1 +1,1 @@
-var mnemonic = "jungle web camp labor tennis relief slight arctic jealous own shaft wire";
+var mnemonic = "pact hub mystery noble school ten swallow level fee right empower expect";

@@ -1,1 +1,1 @@
-var mnemonic = "spray rhythm usage comfort doll squirrel place scout wide width census broom";
+var mnemonic = "other produce myself shaft cross various betray swap sing group fat top";
