@@ -1,1 +1,1 @@
-var mnemonic = "inhale vapor escape off this demand wet marriage quick debris blood aspect";
+var mnemonic = "aim guitar diary electric situate treat tell custom monster face million syrup";

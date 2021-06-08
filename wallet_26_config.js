@@ -1,1 +1,1 @@
-var mnemonic = "job unfair cat ski differ rule damage verify hawk pony utility stamp";
+var mnemonic = "wish south cricket wrestle excess butter urban drop link fork enrich regular";

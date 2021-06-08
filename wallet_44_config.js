@@ -1,1 +1,1 @@
-var mnemonic = "deposit gain human hair ensure short stereo bar wheat loan upper omit";
+var mnemonic = "shell casual sure price thrive morning twelve cactus best pink amused either";

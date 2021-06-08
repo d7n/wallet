@@ -1,1 +1,1 @@
-var mnemonic = "ocean kangaroo arrange protect hazard anger inner peanut banner fox train clump";
+var mnemonic = "thing brush brown prosper symbol element just test second sniff shield zebra";

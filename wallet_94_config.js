@@ -1,1 +1,1 @@
-var mnemonic = "exist cruel bone allow brave clap trigger protect orchard bright actual identify";
+var mnemonic = "act neutral lesson excuse excess false thumb cube powder escape exclude lonely";

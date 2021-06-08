@@ -1,1 +1,1 @@
-var mnemonic = "relax flip social depth cactus craft roast crop armed artefact execute home";
+var mnemonic = "violin moment saddle fit dutch sad search voyage metal habit beauty puzzle";

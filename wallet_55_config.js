@@ -1,1 +1,1 @@
-var mnemonic = "inspire submit road canyon quarter decorate case destroy turtle dirt fade divert";
+var mnemonic = "immense face rather dwarf evolve cricket atom neck physical topic net swim";

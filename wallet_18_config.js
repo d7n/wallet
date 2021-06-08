@@ -1,1 +1,1 @@
-var mnemonic = "giraffe people parrot vibrant cargo tooth quality cactus pudding manual rough grow";
+var mnemonic = "pistol foam sense country crumble hedgehog door list roof limit relax loan";

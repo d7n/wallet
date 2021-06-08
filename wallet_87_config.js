@@ -1,1 +1,1 @@
-var mnemonic = "harbor helmet dilemma photo choice liberty mistake alcohol wedding kit razor gift";
+var mnemonic = "album hat real gospel square impose donor drop fuel bachelor escape purpose";

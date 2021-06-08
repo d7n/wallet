@@ -1,1 +1,1 @@
-var mnemonic = "wide there patch crisp distance tank smile logic exhaust hammer load fold";
+var mnemonic = "avoid leg approve oxygen initial sort spring soccer pave jacket tennis rude";

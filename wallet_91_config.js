@@ -1,1 +1,1 @@
-var mnemonic = "decrease describe step never job loud scrap survey farm buzz diamond country";
+var mnemonic = "theory donor still tool evolve super venture hybrid march leader carry mom";

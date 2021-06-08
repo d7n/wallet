@@ -1,1 +1,1 @@
-var mnemonic = "friend win tuition clerk source gospel young into hybrid bus tape gaze";
+var mnemonic = "truly sail rotate address imitate vendor toward depth movie typical labor long";

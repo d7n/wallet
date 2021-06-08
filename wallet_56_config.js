@@ -1,1 +1,1 @@
-var mnemonic = "elegant pluck creek enjoy view mystery cover odor ramp shiver yellow ivory";
+var mnemonic = "yard argue key stay amount switch woman spring normal object scorpion other";

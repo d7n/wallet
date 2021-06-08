@@ -1,1 +1,1 @@
-var mnemonic = "portion exact sign home race marble satoshi enrich wheat flower rotate devote";
+var mnemonic = "reform have item shy arrest mechanic behave gown can great orange park";

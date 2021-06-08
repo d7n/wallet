@@ -1,1 +1,1 @@
-var mnemonic = "size devote pear tray energy scene gold success sample tragic salon rug";
+var mnemonic = "steel subject rescue clean decade nerve flight gasp chief great term marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "attack silver indicate radar close belt eye cover museum fiber cup forward";
+var mnemonic = "marine aisle crop dentist baby two buddy noodle swarm summer robot special";

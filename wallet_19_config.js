@@ -1,1 +1,1 @@
-var mnemonic = "accident estate volcano electric express accident lyrics honey stage nephew outdoor lottery";
+var mnemonic = "praise wage close proof derive history help detect turtle expand usual hobby";

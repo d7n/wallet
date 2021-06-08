@@ -1,1 +1,1 @@
-var mnemonic = "organ cinnamon wage code scheme dawn unfair similar lunch brush annual muscle";
+var mnemonic = "diet cattle tree soft tower live ridge ride solution frost cheese oyster";

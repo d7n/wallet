@@ -1,1 +1,1 @@
-var mnemonic = "become prize typical brisk vibrant loan strike nuclear dog walk install cheese";
+var mnemonic = "rate common just together typical chase bridge mirror check canoe erupt negative";

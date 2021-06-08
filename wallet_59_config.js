@@ -1,1 +1,1 @@
-var mnemonic = "double coffee twist consider purpose yellow depend fitness olympic fitness found innocent";
+var mnemonic = "fish husband brisk absorb first judge chronic live harbor elder hotel gain";

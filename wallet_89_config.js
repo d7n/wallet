@@ -1,1 +1,1 @@
-var mnemonic = "stick hold trust clown garden jewel tourist enact omit coffee vapor liquid";
+var mnemonic = "crisp this grass car north crush observe april bomb please daring income";

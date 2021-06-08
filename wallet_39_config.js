@@ -1,1 +1,1 @@
-var mnemonic = "evil hollow patrol element tiny will gossip spring math toast tissue correct";
+var mnemonic = "enact midnight glow miss utility magnet obscure busy spider business elegant rent";

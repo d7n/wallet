@@ -1,1 +1,1 @@
-var mnemonic = "screen slender sleep loan holiday whip cereal pretty olive blush mutual engage";
+var mnemonic = "smooth lady hip casino crystal next fashion rhythm away barrel crisp leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "essence chunk seek panel acquire similar slam forest aware measure frozen blush";
+var mnemonic = "hill fade weasel skull lift pupil happy mushroom theme oyster bonus deer";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch sea mean human demise enforce vault art rice illegal soul artwork";
+var mnemonic = "begin defy tobacco milk dinosaur relief come wagon size material nice cake";

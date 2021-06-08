@@ -1,1 +1,1 @@
-var mnemonic = "copy work shove prosper crew arm plate then emotion copy outer innocent";
+var mnemonic = "proof ride gym ticket tourist dawn team basket man deal text abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "roast blush bright salon bike exhibit skill search hungry term crucial insane";
+var mnemonic = "credit during hazard recall guess left hobby type jacket pool enhance wheel";

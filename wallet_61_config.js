@@ -1,1 +1,1 @@
-var mnemonic = "base toy arch useless tomorrow flee oyster trouble inject undo pattern volume";
+var mnemonic = "truly ritual advice silly hover blur later dance march space tone unusual";

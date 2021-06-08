@@ -1,1 +1,1 @@
-var mnemonic = "dog harsh decline carry actress ranch end borrow hand field motion public";
+var mnemonic = "feel nasty april chat sick physical airport sea tail forest shiver multiply";

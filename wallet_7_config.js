@@ -1,1 +1,1 @@
-var mnemonic = "wing grain lyrics rigid lunar material flee evidence tiny boy monkey give";
+var mnemonic = "skin glow airport gold bar ripple father cliff click bulk comfort desk";

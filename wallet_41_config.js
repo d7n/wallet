@@ -1,1 +1,1 @@
-var mnemonic = "damp noodle practice frown denial seek lift have misery festival must artist";
+var mnemonic = "paper portion confirm project attitude because option cluster alpha horror domain festival";

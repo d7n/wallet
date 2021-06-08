@@ -1,1 +1,1 @@
-var mnemonic = "fade matrix carry winter choose need bounce life unique stamp hungry science";
+var mnemonic = "almost quarter shuffle color stereo armor normal trend private lobster minor eye";

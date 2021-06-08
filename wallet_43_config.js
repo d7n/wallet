@@ -1,1 +1,1 @@
-var mnemonic = "endless basic regular soldier perfect autumn great two spend shuffle damage plunge";
+var mnemonic = "track kangaroo tenant lawn repeat aunt mango enjoy regret problem coyote exclude";

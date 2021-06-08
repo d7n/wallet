@@ -1,1 +1,1 @@
-var mnemonic = "orphan pride sunny common swim man inch woman health drip tunnel wait";
+var mnemonic = "cake parrot please regular bean scan loan alert because hour style gate";

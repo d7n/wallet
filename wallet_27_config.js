@@ -1,1 +1,1 @@
-var mnemonic = "ensure hover resource huge okay message gallery film zebra rice wheat fringe";
+var mnemonic = "cake sphere truck setup arena resemble wrist hole dolphin input catch harsh";

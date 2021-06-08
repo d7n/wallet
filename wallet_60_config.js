@@ -1,1 +1,1 @@
-var mnemonic = "fantasy visit conduct trouble same wage pulse bind tobacco radio dizzy bike";
+var mnemonic = "evolve midnight armed segment cup toast trick same grit crop equip carry";

@@ -1,1 +1,1 @@
-var mnemonic = "argue ring powder divert parade amount build there derive treat goddess liar";
+var mnemonic = "dust stock aisle arena alien track mutual find such radio leaf follow";

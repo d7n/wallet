@@ -1,1 +1,1 @@
-var mnemonic = "rival impose bargain box attitude parade empower ecology spend boat love behave";
+var mnemonic = "claim super sure garden raccoon broom panel power negative boss love great";

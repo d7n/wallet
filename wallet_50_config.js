@@ -1,1 +1,1 @@
-var mnemonic = "remain ketchup blade describe aware okay raven fashion digital trophy orbit claim";
+var mnemonic = "scissors security weasel biology notice casual cover vibrant spot garage math version";

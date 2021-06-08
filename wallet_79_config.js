@@ -1,1 +1,1 @@
-var mnemonic = "situate game amateur intact leader seed reopen vocal asset crowd mom exhibit";
+var mnemonic = "kangaroo spare leaf upon edit final parent age anxiety note spatial inject";

@@ -1,1 +1,1 @@
-var mnemonic = "three wait wood raw myself blue already twist simple scorpion ensure wool";
+var mnemonic = "sight exercise coast cry engine worth rocket such setup inherit short figure";

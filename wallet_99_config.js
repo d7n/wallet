@@ -1,1 +1,1 @@
-var mnemonic = "glove cause jealous december snake lunar diet job property thrive august equip";
+var mnemonic = "olympic capable style morning recycle arrest fiber isolate select hint steel clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant comic journey broccoli start upon donor crater security gentle hold purity";
+var mnemonic = "auction replace tape vote heart flame very rude object hard upgrade attitude";

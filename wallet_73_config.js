@@ -1,1 +1,1 @@
-var mnemonic = "wheel alpha devote script shoe portion cat rabbit cook father portion seek";
+var mnemonic = "assist food clump easily cloud staff detail patch silly cost stay service";

@@ -1,1 +1,1 @@
-var mnemonic = "install caught alcohol safe shoulder domain destroy title family water banana surface";
+var mnemonic = "secret tuna scorpion glass rubber crime churn paddle street gun police trouble";

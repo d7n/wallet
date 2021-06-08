@@ -1,1 +1,1 @@
-var mnemonic = "kingdom pull ready tool fruit culture best check plastic congress crop rule";
+var mnemonic = "team devote blame speed mercy odor connect rotate run magnet pattern pudding";

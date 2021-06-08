@@ -1,1 +1,1 @@
-var mnemonic = "chronic jungle another wood traffic west dune enrich cereal long tail airport";
+var mnemonic = "reward invest park album ripple wild spin hedgehog jump hawk board position";

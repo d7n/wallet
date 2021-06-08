@@ -1,1 +1,1 @@
-var mnemonic = "army deny diary satoshi bronze style opera unaware give tape bench glass";
+var mnemonic = "true high tomorrow glad silver device forest junior melody lecture goddess flush";

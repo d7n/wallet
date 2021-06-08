@@ -1,1 +1,1 @@
-var mnemonic = "enter novel video rose large habit flame crumble fever tent awful where";
+var mnemonic = "dress grass vehicle knife wheat holiday gloom cash oyster frame reflect menu";

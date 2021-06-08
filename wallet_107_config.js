@@ -1,1 +1,1 @@
-var mnemonic = "cotton menu palace diet index yellow peace race swarm blanket erode shop";
+var mnemonic = "best exist wolf private alcohol breeze satisfy palace world stamp dance sea";

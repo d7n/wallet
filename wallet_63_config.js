@@ -1,1 +1,1 @@
-var mnemonic = "two news piano rain romance sure photo file twelve vital phrase wrestle";
+var mnemonic = "mesh amused tunnel science lesson tongue egg flavor comfort horror hamster tennis";

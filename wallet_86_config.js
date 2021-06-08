@@ -1,1 +1,1 @@
-var mnemonic = "boring push beauty dynamic arrow assume virus defense music lumber inch calm";
+var mnemonic = "obtain disagree job pelican merit feature shiver alcohol best avocado fabric mention";

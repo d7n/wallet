@@ -1,1 +1,1 @@
-var mnemonic = "crouch dignity please nest ill debate breeze what impulse pride coast comic";
+var mnemonic = "horse dust news height delay access floor hunt raven relax thing organ";

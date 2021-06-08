@@ -1,1 +1,1 @@
-var mnemonic = "ivory found rich focus adapt witness casino apart often danger grace insane";
+var mnemonic = "build child harvest dinner sad yellow hint shaft corn skull merry empower";

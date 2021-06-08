@@ -1,1 +1,1 @@
-var mnemonic = "soda text split enemy unfair kiwi green couple museum hamster coconut mountain";
+var mnemonic = "unveil border culture alien elder task write rural planet pig object near";

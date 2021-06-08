@@ -1,1 +1,1 @@
-var mnemonic = "clock alone million gold wild aerobic question parrot river baby toast milk";
+var mnemonic = "estate image scrap student siege step pattern foam field confirm breeze chapter";

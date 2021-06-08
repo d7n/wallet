@@ -1,1 +1,1 @@
-var mnemonic = "later dog finger scrub barely firm evil online theory doll child course";
+var mnemonic = "clock result maid clown chaos firm tuna tourist stuff marine dentist husband";

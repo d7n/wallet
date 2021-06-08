@@ -1,1 +1,1 @@
-var mnemonic = "later hurry double area notice food law win panther dose anxiety worth";
+var mnemonic = "answer sketch choice demand vibrant inherit grocery meadow stool dish camera vapor";

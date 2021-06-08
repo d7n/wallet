@@ -1,1 +1,1 @@
-var mnemonic = "section garbage hour cook neck fever tone comic invite next canvas quit";
+var mnemonic = "unfair inquiry country fog three fine uncover fee stick cloth copy beef";

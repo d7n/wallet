@@ -1,1 +1,1 @@
-var mnemonic = "run area circle move notice extend prosper certain cook fly wheel enter";
+var mnemonic = "remind kick exact predict erupt spirit clean brush summer carbon milk limb";

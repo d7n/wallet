@@ -1,1 +1,1 @@
-var mnemonic = "curtain tomorrow priority busy misery divide produce garlic core ankle tomorrow buyer";
+var mnemonic = "toilet merge nephew fatigue camp topple major urban write half strong blouse";

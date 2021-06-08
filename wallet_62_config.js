@@ -1,1 +1,1 @@
-var mnemonic = "sample fancy kick response oil swamp still desk local survey coin fault";
+var mnemonic = "miracle ahead clip exist protect relief occur egg love gate bulb transfer";

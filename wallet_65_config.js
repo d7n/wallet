@@ -1,1 +1,1 @@
-var mnemonic = "bounce alien rude employ earth usage dream van cart thrive bright brother";
+var mnemonic = "host cover flush marble trophy draw duck humble imitate suit demand shield";

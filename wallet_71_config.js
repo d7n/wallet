@@ -1,1 +1,1 @@
-var mnemonic = "dove high route tray cancel poet around mercy client sick fox taste";
+var mnemonic = "rug display fiscal angle silly job fog radio hobby humble exchange firm";

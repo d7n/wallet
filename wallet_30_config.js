@@ -1,1 +1,1 @@
-var mnemonic = "master flavor barely snap orphan hurt bitter choice memory spike laptop protect";
+var mnemonic = "auction again cost torch happy surprise garment friend awesome tiny mail desk";

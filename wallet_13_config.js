@@ -1,1 +1,1 @@
-var mnemonic = "decade inside virus share canyon mix crunch rubber boil cotton vault interest";
+var mnemonic = "produce cover basket say practice valley rubber black pumpkin space dinner hotel";

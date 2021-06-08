@@ -1,1 +1,1 @@
-var mnemonic = "neither imitate elephant stadium rail upgrade sun tomorrow affair method picnic disagree";
+var mnemonic = "express harsh robot banner prefer point silk claw invest aisle wheat vicious";

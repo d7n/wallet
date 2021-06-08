@@ -1,1 +1,1 @@
-var mnemonic = "praise common dust zone guide interest slogan grow endorse forward genre pair";
+var mnemonic = "paddle crew that emotion chef fiber length sketch year labor garbage soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "mother around onion pony calm exact attract siren column nut spray beach";
+var mnemonic = "rival card whisper sock rebel announce vote detect canal produce enrich pause";

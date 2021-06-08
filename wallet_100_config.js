@@ -1,1 +1,1 @@
-var mnemonic = "diary hawk pave material hard marine organ this eager slam toy analyst";
+var mnemonic = "cart virtual tape decorate arrow shove swing recycle immense barrel immense robot";

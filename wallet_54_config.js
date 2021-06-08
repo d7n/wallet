@@ -1,1 +1,1 @@
-var mnemonic = "abstract panel base stable normal fiction scale valid turkey coil fuel airport";
+var mnemonic = "lounge empower slab tray welcome museum recipe brand item scrap daring arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "decide permit bargain walnut wreck police now acquire olympic barely mandate crash";
+var mnemonic = "bird slush tackle prepare beauty panel never possible boring cricket rough logic";

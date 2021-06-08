@@ -1,1 +1,1 @@
-var mnemonic = "return immense chair explain include settle coyote rigid produce bar culture acquire";
+var mnemonic = "much yellow bronze silent pool grab account online script gadget entry please";

@@ -1,1 +1,1 @@
-var mnemonic = "century paper about loyal ensure flag hard index pioneer cheese normal unhappy";
+var mnemonic = "still sort wrestle involve sentence rate subway brain analyst foil delay amateur";

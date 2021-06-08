@@ -1,1 +1,1 @@
-var mnemonic = "bulk recipe mushroom path describe engine goat arm library attitude crowd guard";
+var mnemonic = "test reform salon leisure wreck ride joke afford weather exist sustain recall";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch shine shoulder creek child prosper grass image hurt inherit lecture measure";
+var mnemonic = "urge lock situate yard model climb blouse caught harvest valley idle paper";

@@ -1,1 +1,1 @@
-var mnemonic = "erode bring elevator mix loop faint antenna robot you public tree report";
+var mnemonic = "pistol wing make elder duck visa effort spin easy fault lunar mountain";

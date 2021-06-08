@@ -1,1 +1,1 @@
-var mnemonic = "slight donor pulse erupt window expand artefact under waste student brand depart";
+var mnemonic = "route battle volcano around chimney copy develop rather best call plunge bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy blood left promote candy wreck caught oak razor dose express prepare";
+var mnemonic = "own ramp nominee cabbage common symptom pull lazy enrich draw clever gossip";

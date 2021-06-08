@@ -1,1 +1,1 @@
-var mnemonic = "despair into assist hockey high stumble whip insane enjoy gadget arrange alter";
+var mnemonic = "hub pencil gorilla liar almost myth lion path cotton afraid coach prison";

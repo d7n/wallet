@@ -1,1 +1,1 @@
-var mnemonic = "occur robot custom palm cause universe coral disagree step hole toward layer";
+var mnemonic = "flip tragic art screen furnace raccoon company market hard bulk wire satoshi";

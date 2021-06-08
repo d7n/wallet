@@ -1,1 +1,1 @@
-var mnemonic = "sleep eternal clown abandon hotel toilet cycle hidden resource scout industry rice";
+var mnemonic = "glimpse phone accuse actual canvas spell orphan sword anchor lesson confirm hobby";

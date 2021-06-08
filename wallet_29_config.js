@@ -1,1 +1,1 @@
-var mnemonic = "mango depart recycle frozen there stone rigid cargo wide amused hold violin";
+var mnemonic = "tenant rib dose genius clump trophy another rookie opera skull pencil mobile";

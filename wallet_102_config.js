@@ -1,1 +1,1 @@
-var mnemonic = "key claim inch regret elegant eight ask giant master gold access lottery";
+var mnemonic = "uniform soap explain laptop wheat census material keen favorite ribbon crime lizard";

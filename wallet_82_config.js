@@ -1,1 +1,1 @@
-var mnemonic = "corn maid frozen ankle example session vacuum pigeon sure night father admit";
+var mnemonic = "neutral alpha erode display erase woman title world enhance muscle baby promote";

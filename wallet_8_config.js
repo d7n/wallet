@@ -1,1 +1,1 @@
-var mnemonic = "series diagram follow warm vote narrow joy drink fluid cement nasty grape";
+var mnemonic = "climb gorilla save boy scale large burst tip dream later tent box";

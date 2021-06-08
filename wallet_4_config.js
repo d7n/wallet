@@ -1,1 +1,1 @@
-var mnemonic = "civil glow gown half peace science lady author brave mixed keen age";
+var mnemonic = "siege please sugar kidney judge area dawn history diagram globe early large";

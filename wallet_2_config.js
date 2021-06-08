@@ -1,1 +1,1 @@
-var mnemonic = "session awful poverty wing rural dragon noodle clerk violin lock change excite";
+var mnemonic = "ivory suffer uniform future task trim flower output client action human ready";

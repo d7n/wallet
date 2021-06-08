@@ -1,1 +1,1 @@
-var mnemonic = "web dry toy right dizzy exhibit dynamic cause tell easily fantasy parent";
+var mnemonic = "journey captain evoke crucial brass day orbit raise ready steel sadness strong";

@@ -1,1 +1,1 @@
-var mnemonic = "select tonight truck like road crucial slight biology cart venue sudden noodle";
+var mnemonic = "crucial build august rather useful champion proof wing border ribbon win rule";

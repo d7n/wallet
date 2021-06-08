@@ -1,1 +1,1 @@
-var mnemonic = "caught theme inform soda major fresh collect split gown library perfect document";
+var mnemonic = "glue alter poem coast east forest wolf mirror cherry shield local eager";

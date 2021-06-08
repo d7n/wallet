@@ -1,1 +1,1 @@
-var mnemonic = "hint cactus tissue denial inherit barrel position wedding deny make suspect disagree";
+var mnemonic = "tuition canal time spell toy stereo recall hip busy swamp search pole";

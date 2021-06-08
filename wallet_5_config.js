@@ -1,1 +1,1 @@
-var mnemonic = "earth mention abstract later report able polar traffic merry scan illegal doctor";
+var mnemonic = "rural oxygen hospital jump slender alley anchor symbol plunge couple put doctor";

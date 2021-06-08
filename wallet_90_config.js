@@ -1,1 +1,1 @@
-var mnemonic = "music typical dial asthma choice blur property loan panel already virus inmate";
+var mnemonic = "divorce way moon camp song fluid parade various sentence fiber december panther";
