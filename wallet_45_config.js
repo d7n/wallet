@@ -1,1 +1,1 @@
-var mnemonic = "scan endless air fragile street defense misery point acquire void enforce knee";
+var mnemonic = "beauty scrub length castle spirit horror woman tiny beach industry outside census";

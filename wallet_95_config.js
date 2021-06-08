@@ -1,1 +1,1 @@
-var mnemonic = "abandon unaware accident tomorrow bacon bench work nephew arctic machine enlist silent";
+var mnemonic = "pepper olive shuffle dose nuclear hill divert educate satoshi crisp sample shed";

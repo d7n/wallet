@@ -1,1 +1,1 @@
-var mnemonic = "innocent boost stadium because become practice vessel grocery sound long vendor diamond";
+var mnemonic = "student surround useless aisle creek zero position athlete raven exercise lift name";

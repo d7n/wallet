@@ -1,1 +1,1 @@
-var mnemonic = "thank cement air pistol alley gossip chest alley guess reflect submit core";
+var mnemonic = "tip urban drum cute age despair extra oppose voice occur power cute";

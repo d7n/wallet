@@ -1,1 +1,1 @@
-var mnemonic = "solve drift obey lunch sniff three night online report hold daughter deliver";
+var mnemonic = "case impact easily expect winter nasty credit crystal lawsuit major mistake special";

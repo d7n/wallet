@@ -1,1 +1,1 @@
-var mnemonic = "cattle artefact swap elder village cupboard assume muffin festival unlock will silver";
+var mnemonic = "chief engine siren hip unit glad mad garden around unaware slender tissue";

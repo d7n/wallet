@@ -1,1 +1,1 @@
-var mnemonic = "endless worth wagon smart shrimp claw provide print grit spin else evolve";
+var mnemonic = "price disorder infant breeze market brand follow afford fly breeze divert leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "load recycle predict brown canal trust gallery fantasy ladder trophy type fury";
+var mnemonic = "miracle foam poverty barely stomach kind three chaos ill solar noble east";

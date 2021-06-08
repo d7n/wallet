@@ -1,1 +1,1 @@
-var mnemonic = "layer balcony birth ramp wonder build disorder portion van fan wage nominee";
+var mnemonic = "machine return salmon congress empower ahead nice castle pull three pond valve";

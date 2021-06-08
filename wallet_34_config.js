@@ -1,1 +1,1 @@
-var mnemonic = "cool sort trick pull oak business mirror range glare tree palm repair";
+var mnemonic = "marble logic siege erase miss strong shuffle cross ginger silk style helmet";

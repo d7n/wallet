@@ -1,1 +1,1 @@
-var mnemonic = "domain announce beyond light wash neutral idle noise wasp mail yard grant";
+var mnemonic = "bronze simple certain pistol twenty unhappy social leg crunch adjust sock cereal";

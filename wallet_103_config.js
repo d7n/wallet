@@ -1,1 +1,1 @@
-var mnemonic = "wrestle poem cover before brand olive small bargain purchase spy wool typical";
+var mnemonic = "liquid toilet hurt bike matter ten snap year wait honey unit oval";

@@ -1,1 +1,1 @@
-var mnemonic = "hair fury cross radio convince maximum chair office truck female oval silk";
+var mnemonic = "silly vintage boil mule annual salon reason control february wall provide habit";

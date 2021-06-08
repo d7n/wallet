@@ -1,1 +1,1 @@
-var mnemonic = "enter enrich glass clump concert word derive embark receive boss mule dust";
+var mnemonic = "unhappy audit forest salute loan empty panic desk skull injury identify scale";

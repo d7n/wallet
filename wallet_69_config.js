@@ -1,1 +1,1 @@
-var mnemonic = "emotion word sketch found sing famous salute surge swarm noise depth guard";
+var mnemonic = "alley bunker voyage web muffin offer vast usage soft profit opera salon";

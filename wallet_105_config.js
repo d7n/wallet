@@ -1,1 +1,1 @@
-var mnemonic = "diamond lazy balance industry cloth control tackle screen mobile pattern dilemma position";
+var mnemonic = "farm swift loan cycle sudden maid olive protect glue hood clip rib";

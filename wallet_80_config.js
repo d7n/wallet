@@ -1,1 +1,1 @@
-var mnemonic = "antique subject pretty breeze talk protect robot belt bless produce volume seed";
+var mnemonic = "bronze crazy bulb essence fall method cost moon arch select lucky speak";

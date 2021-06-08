@@ -1,1 +1,1 @@
-var mnemonic = "pluck option away position beef rigid time acquire priority service course another";
+var mnemonic = "unaware mixture response leisure drop era eight box poet repair muscle weasel";

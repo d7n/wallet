@@ -1,1 +1,1 @@
-var mnemonic = "supply remain thumb family skirt sausage addict cigar behave cinnamon misery major";
+var mnemonic = "oxygen popular merge normal vacant kid unhappy glide flee notice mistake black";

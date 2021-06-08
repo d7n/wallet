@@ -1,1 +1,1 @@
-var mnemonic = "globe grace pepper rabbit soap dream output input region teach primary normal";
+var mnemonic = "ghost tattoo trend title stock fiscal turn galaxy action dignity fiber genius";

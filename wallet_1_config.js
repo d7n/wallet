@@ -1,1 +1,1 @@
-var mnemonic = "intact lift tag soda assume space tank walk front beauty shuffle photo";
+var mnemonic = "black note pole spike news utility peasant essence crazy mistake peanut garden";

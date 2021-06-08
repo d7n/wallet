@@ -1,1 +1,1 @@
-var mnemonic = "sight toe tragic strong gravity beach leave silver trip among grant middle";
+var mnemonic = "right fly happy all during purchase topple brick fringe sentence recipe pistol";

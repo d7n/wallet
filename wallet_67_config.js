@@ -1,1 +1,1 @@
-var mnemonic = "edit market correct wrong cluster warm culture slogan coast slim wave spin";
+var mnemonic = "gown midnight vault napkin trophy price office tornado near fancy then grunt";

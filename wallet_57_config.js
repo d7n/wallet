@@ -1,1 +1,1 @@
-var mnemonic = "visual prefer virtual arrange foot carpet dwarf fancy sunny result aerobic valley";
+var mnemonic = "around region abandon will bridge load mirror image shop net first leopard";

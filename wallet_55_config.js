@@ -1,1 +1,1 @@
-var mnemonic = "hand now letter liar pulse dinner audit recycle sheriff distance kitchen abandon";
+var mnemonic = "dash network tourist eternal achieve twist favorite chat agent noble appear order";

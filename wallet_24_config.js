@@ -1,1 +1,1 @@
-var mnemonic = "brick baby buyer essay fiber scrub virus street smoke obtain load abandon";
+var mnemonic = "cat globe pulse illegal meat machine gain order sword join reason tree";

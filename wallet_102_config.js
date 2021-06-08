@@ -1,1 +1,1 @@
-var mnemonic = "tiger need tornado worry tattoo fall already another bunker become choice direct";
+var mnemonic = "poverty peace grunt tool layer actress wide segment expose october region cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic attack upper survey able ostrich pistol canoe hand flame series shrimp";
+var mnemonic = "lucky measure seminar laugh fuel cost tooth depth similar choose garbage radio";

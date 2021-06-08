@@ -1,1 +1,1 @@
-var mnemonic = "until breeze pass various below grief basket run bargain any paper seat";
+var mnemonic = "flip excess little example pepper tissue age pledge moment proud awful patient";

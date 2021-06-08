@@ -1,1 +1,1 @@
-var mnemonic = "creek pole slush crisp arena impact roast apart peace urban rebel lunch";
+var mnemonic = "galaxy dry chunk plunge shoe rocket detect history icon session can praise";

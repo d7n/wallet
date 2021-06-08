@@ -1,1 +1,1 @@
-var mnemonic = "snake urban air vapor more cancel slot boring filter fold day obvious";
+var mnemonic = "ranch spin delay lift mosquito item sure damp caution lamp universe cereal";

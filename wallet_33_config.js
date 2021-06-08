@@ -1,1 +1,1 @@
-var mnemonic = "laugh paddle vote job gaze tackle time dog barrel eight area emerge";
+var mnemonic = "health defense usage flock acoustic strategy pyramid panda soul ghost canal session";

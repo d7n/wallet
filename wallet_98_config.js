@@ -1,1 +1,1 @@
-var mnemonic = "pact element simple captain world there trial farm risk chimney aware toddler";
+var mnemonic = "satisfy diesel few trick rail hidden cup put adult sick leopard shoulder";

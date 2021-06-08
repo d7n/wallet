@@ -1,1 +1,1 @@
-var mnemonic = "document tennis corn envelope circle lava chalk pull dish dilemma that fruit";
+var mnemonic = "camp lyrics crush pride during inquiry hire south boost planet winter plastic";

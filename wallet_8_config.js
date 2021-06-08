@@ -1,1 +1,1 @@
-var mnemonic = "become example burden first decrease sniff pact quick engage clip bring addict";
+var mnemonic = "common forget seven industry mutual cool action yard abandon rotate neck dawn";

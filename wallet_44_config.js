@@ -1,1 +1,1 @@
-var mnemonic = "when raven cabin raise initial job tired tragic input heavy bring hurry";
+var mnemonic = "dish tooth reflect chase auction crisp cabin frequent hobby vicious three merit";

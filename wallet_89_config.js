@@ -1,1 +1,1 @@
-var mnemonic = "bench ship heart call street major nose rude garment curtain electric dish";
+var mnemonic = "dash night eye midnight smart road canal cereal you truth faith reduce";

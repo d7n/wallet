@@ -1,1 +1,1 @@
-var mnemonic = "ready length scout nuclear aisle arena orchard online engage street hammer clock";
+var mnemonic = "stay hospital inmate clip sing lecture glance truth lucky wink lunch raw";

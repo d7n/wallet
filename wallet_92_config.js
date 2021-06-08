@@ -1,1 +1,1 @@
-var mnemonic = "unique define entry volcano praise cream couch tragic execute choose together narrow";
+var mnemonic = "myth minor pole recipe correct snow lobster tomato vote spider equip victory";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain latin annual more outdoor gather buzz quantum toe figure tide forum";
+var mnemonic = "choice window control forum valid twelve exist people digital valley repair news";

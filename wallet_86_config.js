@@ -1,1 +1,1 @@
-var mnemonic = "final scout amused below ahead tumble miracle coil blind pizza crop spider";
+var mnemonic = "laugh brother trumpet claim fire whisper train obvious turtle demise news assault";

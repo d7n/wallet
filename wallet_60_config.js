@@ -1,1 +1,1 @@
-var mnemonic = "define gasp patch focus ugly target domain table fly slow iron reopen";
+var mnemonic = "lady purchase frozen august rough half faith salad multiply auction minor critic";

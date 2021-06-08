@@ -1,1 +1,1 @@
-var mnemonic = "fiction bullet pattern define first dizzy toward icon neutral memory warm wreck";
+var mnemonic = "furnace depend oxygen poverty fresh service know gym april bless peasant leave";

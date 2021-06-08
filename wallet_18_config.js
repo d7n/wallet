@@ -1,1 +1,1 @@
-var mnemonic = "bomb disagree trade tuition fitness this quality artefact fan mandate circle speed";
+var mnemonic = "buzz couple embrace mother fence solar click throw parade west asset depth";

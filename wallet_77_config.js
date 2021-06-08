@@ -1,1 +1,1 @@
-var mnemonic = "drink ceiling tourist buyer found float position raccoon sphere toy capable educate";
+var mnemonic = "air lawsuit cabin illegal teach bid minor obtain mask salad smile alpha";

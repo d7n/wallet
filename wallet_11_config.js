@@ -1,1 +1,1 @@
-var mnemonic = "concert width window cactus body correct model photo soon salt what stable";
+var mnemonic = "stadium method festival abuse start echo purpose furnace cinnamon fetch accident ridge";

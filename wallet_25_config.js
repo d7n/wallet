@@ -1,1 +1,1 @@
-var mnemonic = "swift laptop couch chase chair rocket lamp sample answer cake endless law";
+var mnemonic = "decline turn slim possible head impact twin smile silent together army crew";

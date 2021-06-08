@@ -1,1 +1,1 @@
-var mnemonic = "play slot dizzy trap gaze flee large fine van nephew inquiry share";
+var mnemonic = "choice height tackle bachelor glory royal hint orange square practice kid message";

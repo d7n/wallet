@@ -1,1 +1,1 @@
-var mnemonic = "gun assume lemon cotton estate soldier east image raw drum give able";
+var mnemonic = "school slogan local illegal access security submit artist toward diet transfer answer";

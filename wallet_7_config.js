@@ -1,1 +1,1 @@
-var mnemonic = "shaft conduct liquid divorce split umbrella captain phone grid indicate horror install";
+var mnemonic = "rack blast gospel rib soap code discover series tiger toilet hybrid winner";

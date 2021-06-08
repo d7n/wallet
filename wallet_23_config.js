@@ -1,1 +1,1 @@
-var mnemonic = "voyage bread disease alter diet antique outer lock busy test want tattoo";
+var mnemonic = "pride member scorpion crane motor one board mean spatial winter galaxy grief";

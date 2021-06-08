@@ -1,1 +1,1 @@
-var mnemonic = "mouse coffee now source current mercy admit source render wrong pumpkin flash";
+var mnemonic = "car grid siege trophy rose angle cram method sing canoe math street";

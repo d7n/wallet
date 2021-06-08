@@ -1,1 +1,1 @@
-var mnemonic = "kiwi arrow piece dismiss drama rent brief debris farm broken weather globe";
+var mnemonic = "broom trick skin okay outside scene elevator use stove rail mad flip";

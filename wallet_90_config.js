@@ -1,1 +1,1 @@
-var mnemonic = "carry number fatigue fun carpet spawn april pudding poet permit cherry glad";
+var mnemonic = "foam fringe dumb rain tent guess cushion wine unveil choose gift mom";

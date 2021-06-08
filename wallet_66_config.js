@@ -1,1 +1,1 @@
-var mnemonic = "cool hockey piano abandon govern ivory ankle boil shift gather nominee marine";
+var mnemonic = "slush team session upgrade toilet farm develop crumble lawn coffee iron peace";

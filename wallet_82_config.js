@@ -1,1 +1,1 @@
-var mnemonic = "wide cotton fuel awesome relief town arrest teach bomb pluck rack field";
+var mnemonic = "junk today property void path avocado time syrup fossil color cupboard flush";

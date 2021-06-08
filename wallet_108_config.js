@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur style clinic army impulse cause equip category crew awkward weather garment";
+var mnemonic = "win wheat damp galaxy false flag now increase either tortoise noise gift";

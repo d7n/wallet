@@ -1,1 +1,1 @@
-var mnemonic = "just weekend kite unable mom wide noodle system risk fee inch critic";
+var mnemonic = "mammal castle misery couple picture toddler hair affair lady motor shift hurdle";

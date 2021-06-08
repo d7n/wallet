@@ -1,1 +1,1 @@
-var mnemonic = "humble pink because route job glory must shallow bright bag garbage silver";
+var mnemonic = "escape fury good orphan obtain weird tragic choose panel scene inmate margin";

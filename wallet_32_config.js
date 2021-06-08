@@ -1,1 +1,1 @@
-var mnemonic = "slide gentle exist evil gaze blame dawn actual mobile tomorrow discover surround";
+var mnemonic = "fiscal expect vote benefit fragile certain learn federal echo camp suit pull";

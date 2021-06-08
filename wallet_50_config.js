@@ -1,1 +1,1 @@
-var mnemonic = "purity motion smoke depart hollow cable shuffle lend omit fall flame custom";
+var mnemonic = "retire oblige forest park pyramid luxury coyote sadness ramp display sphere glide";

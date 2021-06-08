@@ -1,1 +1,1 @@
-var mnemonic = "critic artwork basic joke cry merge envelope explain narrow search finger exhibit";
+var mnemonic = "parade outside ivory soap general you virus only pizza canoe muffin rate";

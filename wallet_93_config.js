@@ -1,1 +1,1 @@
-var mnemonic = "hello enter level enough across duty example length culture type view small";
+var mnemonic = "sea midnight indoor aunt attitude valid gun supreme goose tunnel senior vacuum";

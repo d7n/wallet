@@ -1,1 +1,1 @@
-var mnemonic = "airport increase liberty ball render agent series monster reopen hotel script apology";
+var mnemonic = "rubber stadium ordinary crumble inner famous dignity school before rigid basket spell";

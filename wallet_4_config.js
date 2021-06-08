@@ -1,1 +1,1 @@
-var mnemonic = "kingdom turkey negative curtain clap grant juice solar country october tomorrow draft";
+var mnemonic = "plunge logic medal lab skull flame hungry flavor nurse cattle gift okay";

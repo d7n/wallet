@@ -1,1 +1,1 @@
-var mnemonic = "kitchen early outer nurse tilt shy purpose army require siege fabric spice";
+var mnemonic = "reduce network chair color airport say grace ten jungle theory today unique";

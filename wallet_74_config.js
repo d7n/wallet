@@ -1,1 +1,1 @@
-var mnemonic = "myself cable worry runway winter mother butter airport rely panda venue discover";
+var mnemonic = "finger ordinary tape relax develop mixture off deliver student current boss audit";

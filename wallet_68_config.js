@@ -1,1 +1,1 @@
-var mnemonic = "repair region violin indicate clump stock addict sleep snack divide metal rude";
+var mnemonic = "humor pipe table medal document receive hungry prefer tube napkin side hire";

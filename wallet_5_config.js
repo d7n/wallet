@@ -1,1 +1,1 @@
-var mnemonic = "seat enlist veteran price dish three nice screen fork transfer capable kangaroo";
+var mnemonic = "lunar meadow session pave include clump fiber wire lonely visa wolf energy";

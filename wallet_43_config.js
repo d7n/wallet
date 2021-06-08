@@ -1,1 +1,1 @@
-var mnemonic = "learn elevator meat black breeze spawn orange feel fiction inner minute scene";
+var mnemonic = "lunch lion success horse option mother local hidden laugh rubber produce crash";

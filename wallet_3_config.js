@@ -1,1 +1,1 @@
-var mnemonic = "fall promote risk eternal gather web exhaust save swap own reason can";
+var mnemonic = "blur crucial subject vanish give soup cabbage spare quick trumpet minute bag";

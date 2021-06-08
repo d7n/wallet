@@ -1,1 +1,1 @@
-var mnemonic = "urban nest toilet island popular foster great twenty obscure yellow yard favorite";
+var mnemonic = "echo candy game phrase holiday amateur apology face minor moment smooth stereo";

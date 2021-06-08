@@ -1,1 +1,1 @@
-var mnemonic = "wedding survey admit clean intact toe pizza admit car treat pencil limb";
+var mnemonic = "february talent galaxy creek forget barrel car car innocent panther ski later";

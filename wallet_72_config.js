@@ -1,1 +1,1 @@
-var mnemonic = "combine motor usage riot circle any dizzy bachelor frequent reduce attract acquire";
+var mnemonic = "female glass walk nature cherry badge island defense skirt churn chimney ritual";

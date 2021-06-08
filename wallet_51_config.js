@@ -1,1 +1,1 @@
-var mnemonic = "slim hospital poem photo talent rookie dove solar typical gloom give iron";
+var mnemonic = "universe cloud night robust economy comfort volcano time push fame ahead income";

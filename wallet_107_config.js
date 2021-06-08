@@ -1,1 +1,1 @@
-var mnemonic = "tribe envelope razor blade degree injury kidney caught desert hundred luggage usage";
+var mnemonic = "marble convince ripple spice exact crumble slush exercise tell forest bring page";

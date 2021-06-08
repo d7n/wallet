@@ -1,1 +1,1 @@
-var mnemonic = "shoulder obey hammer trim during large before impact behave thank grace stereo";
+var mnemonic = "athlete lazy bamboo relax wine task vessel win siren thank host grass";

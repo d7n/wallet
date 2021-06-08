@@ -1,1 +1,1 @@
-var mnemonic = "large wolf finish add artist can aware pepper loan spot vacant face";
+var mnemonic = "mom defy maximum comfort stairs front nuclear mimic phone valley actress word";

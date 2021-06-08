@@ -1,1 +1,1 @@
-var mnemonic = "explain globe convince gesture service defy add silly design habit farm alien";
+var mnemonic = "lizard grain armed wasp idle glue fuel spoon visual differ hood cushion";

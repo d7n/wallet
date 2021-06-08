@@ -1,1 +1,1 @@
-var mnemonic = "book vanish wait obvious chapter wrong appear vibrant security vanish sense fork";
+var mnemonic = "quit where faint ticket hint tribe unit barrel alter dream negative situate";

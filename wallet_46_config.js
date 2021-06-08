@@ -1,1 +1,1 @@
-var mnemonic = "ritual erosion exotic write lecture basic tip sheriff discover exit chief vessel";
+var mnemonic = "prison rebuild family cover sunset february nut bulb there describe table neutral";

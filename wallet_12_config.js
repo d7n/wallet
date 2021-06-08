@@ -1,1 +1,1 @@
-var mnemonic = "define ocean frame carbon grass concert save grass spin cousin dolphin impose";
+var mnemonic = "vibrant soup movie frame initial differ erode shiver polar host upset display";

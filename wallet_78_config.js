@@ -1,1 +1,1 @@
-var mnemonic = "foster soldier salon install cinnamon pioneer member unique clutch firm unfold bacon";
+var mnemonic = "bamboo intact winner reveal neglect merit nerve regular cook carpet nurse change";

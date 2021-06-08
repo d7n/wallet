@@ -1,1 +1,1 @@
-var mnemonic = "jacket best tobacco garden card behind great laundry permit couch nut pumpkin";
+var mnemonic = "when dynamic joke winner hunt syrup act ivory security tide hill evidence";

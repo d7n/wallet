@@ -1,1 +1,1 @@
-var mnemonic = "simple lumber moral dinner wage clever glow build matrix oblige final favorite";
+var mnemonic = "basic later trigger like coconut bicycle employ argue must render knock spoon";

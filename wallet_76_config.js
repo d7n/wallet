@@ -1,1 +1,1 @@
-var mnemonic = "size genre retire diet door party first filter cactus rely hole connect";
+var mnemonic = "drink guess alpha doctor catalog scissors dial eight trash silk rose nature";

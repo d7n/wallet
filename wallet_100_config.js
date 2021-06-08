@@ -1,1 +1,1 @@
-var mnemonic = "adjust grain truth wild tobacco scissors thought soap corn noise expand tool";
+var mnemonic = "story plunge argue vital win disorder recycle glue indicate urban mammal often";

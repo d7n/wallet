@@ -1,1 +1,1 @@
-var mnemonic = "armed sail blanket thrive steel urge peanut antique rare wisdom scheme ring";
+var mnemonic = "embrace lamp bracket sting pair sound hover proof unveil garden true busy";
