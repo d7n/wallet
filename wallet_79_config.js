@@ -1,1 +1,1 @@
-var mnemonic = "orbit recall liquid goat thumb erode clown flash better lab lawn funny";
+var mnemonic = "furnace limb disorder load chair gossip disease menu voice wrist raise roof";

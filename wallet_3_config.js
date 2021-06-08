@@ -1,1 +1,1 @@
-var mnemonic = "build kiss capital way cube now certain point fiscal cross train negative";
+var mnemonic = "gesture coil seminar sting bundle crisp vault dance decade vital injury polar";

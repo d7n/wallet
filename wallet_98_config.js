@@ -1,1 +1,1 @@
-var mnemonic = "scene cruel valid wool idea insane devote tongue tape future fruit grape";
+var mnemonic = "oak cup height pigeon trim plastic still enrich sadness caught west throw";

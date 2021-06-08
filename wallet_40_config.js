@@ -1,1 +1,1 @@
-var mnemonic = "hat hidden jazz document fat mesh trigger evil coin artist dance verify";
+var mnemonic = "coast open happy picture execute inherit scissors burden ahead extra panda assume";

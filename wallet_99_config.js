@@ -1,1 +1,1 @@
-var mnemonic = "throw above hotel time mercy conduct sibling deer upper bulb orchard manage";
+var mnemonic = "cradle elephant where multiply face shrug satoshi give cry blood basic inflict";

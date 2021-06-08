@@ -1,1 +1,1 @@
-var mnemonic = "mutual forward monster cannon shoot broom noodle truck screen antenna siren warrior";
+var mnemonic = "turtle grass visual output load stage guitar army trend under suggest artist";

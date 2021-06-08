@@ -1,1 +1,1 @@
-var mnemonic = "machine spare pill vote collect used scout buyer boy lend random bridge";
+var mnemonic = "artist radar leaf injury write drip stadium group then slice weird helmet";

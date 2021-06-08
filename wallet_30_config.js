@@ -1,1 +1,1 @@
-var mnemonic = "sick member urge razor cement vintage picnic talk exotic chase outside powder";
+var mnemonic = "tooth rapid donkey huge explain pony behind laptop drop curious day video";

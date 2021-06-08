@@ -1,1 +1,1 @@
-var mnemonic = "crane brain injury twelve alien can win ghost chuckle trouble arrest detect";
+var mnemonic = "fade ostrich wall jewel gesture bubble clip sleep delay rug nature frog";

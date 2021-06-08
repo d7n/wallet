@@ -1,1 +1,1 @@
-var mnemonic = "produce earth hood sniff finger spare need document tissue stove zebra bind";
+var mnemonic = "quality ask run nothing about supreme arena parent pink balance key test";

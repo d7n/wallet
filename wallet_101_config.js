@@ -1,1 +1,1 @@
-var mnemonic = "couch atom quantum wife merit feature pulse soul resist dynamic rough circle";
+var mnemonic = "juice sport leave swallow hurt chief main fuel tragic ancient inquiry employ";

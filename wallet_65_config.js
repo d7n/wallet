@@ -1,1 +1,1 @@
-var mnemonic = "mail mutual enrich hammer pilot produce mask spoil student air shield rigid";
+var mnemonic = "salad motor wing explain fly panther color fiscal raccoon misery dry write";

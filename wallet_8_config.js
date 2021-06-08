@@ -1,1 +1,1 @@
-var mnemonic = "empty giant truck lucky bike click tomato rapid alert gather civil rhythm";
+var mnemonic = "sign rose beyond boat execute become donor black faint view endorse apple";

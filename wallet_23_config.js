@@ -1,1 +1,1 @@
-var mnemonic = "depth pet about share mechanic subway trick elite fence business fiscal search";
+var mnemonic = "ranch wide baby require desk movie actual lumber town grow okay front";

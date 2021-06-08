@@ -1,1 +1,1 @@
-var mnemonic = "approve ankle era wine source weather calm setup galaxy ankle lens spell";
+var mnemonic = "attend retire visa razor rifle wing fury olive under pyramid liquid enemy";

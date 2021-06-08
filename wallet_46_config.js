@@ -1,1 +1,1 @@
-var mnemonic = "confirm syrup wife rescue medal wealth federal wet only dynamic dismiss unique";
+var mnemonic = "valve filter such street churn snack wave useful pen switch ski office";

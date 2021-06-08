@@ -1,1 +1,1 @@
-var mnemonic = "ensure topple obscure canvas promote endless relief canoe garbage neither tail rookie";
+var mnemonic = "document frozen hold kite green asset token urban dove host double festival";

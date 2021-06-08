@@ -1,1 +1,1 @@
-var mnemonic = "boy lumber beyond taxi belt quiz elevator match jelly frost various position";
+var mnemonic = "vocal reform robot husband loyal quarter cotton draw saddle initial drip divorce";

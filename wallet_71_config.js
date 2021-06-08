@@ -1,1 +1,1 @@
-var mnemonic = "civil razor popular whisper coconut floor service put ripple peasant rescue valve";
+var mnemonic = "process aunt quantum sting text satisfy moon place dismiss method hungry double";

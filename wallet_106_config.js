@@ -1,1 +1,1 @@
-var mnemonic = "group lava weapon process child van garbage slice magic punch corn march";
+var mnemonic = "eye crumble mention render meadow clever depart heart salon leisure toilet miss";

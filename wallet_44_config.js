@@ -1,1 +1,1 @@
-var mnemonic = "girl height panic exchange hill repair favorite phrase sand stable clown high";
+var mnemonic = "old muffin exhibit prevent beauty manage subway announce museum payment degree credit";

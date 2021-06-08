@@ -1,1 +1,1 @@
-var mnemonic = "jazz knife hybrid exhaust tomorrow before robust debris window deposit olive cage";
+var mnemonic = "stumble south essence uncover beauty praise load hedgehog crazy maze omit universe";

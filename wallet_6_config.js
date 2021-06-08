@@ -1,1 +1,1 @@
-var mnemonic = "refuse hurt such dress force survey blossom issue fitness strategy boost illegal";
+var mnemonic = "emerge crucial congress update item drink cube tackle welcome trophy spirit icon";

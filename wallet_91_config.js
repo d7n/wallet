@@ -1,1 +1,1 @@
-var mnemonic = "panic donor harbor fire humor word disorder rate cushion film dog napkin";
+var mnemonic = "ketchup gap hurt build canal tape silly recipe uniform rare inform smart";

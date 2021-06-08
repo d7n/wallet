@@ -1,1 +1,1 @@
-var mnemonic = "shoe style defense must response distance moment solar choose artefact magnet mutual";
+var mnemonic = "february multiply market arm milk gift embody prepare mango wrong demand bleak";

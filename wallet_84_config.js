@@ -1,1 +1,1 @@
-var mnemonic = "style above okay harsh mule frog dolphin client cradle there genuine tattoo";
+var mnemonic = "skate outside slogan woman frog flavor destroy animal lazy tourist panda gauge";

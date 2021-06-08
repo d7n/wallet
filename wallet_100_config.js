@@ -1,1 +1,1 @@
-var mnemonic = "behave private more pigeon elder trap top kite horror tattoo poem thing";
+var mnemonic = "sugar enable angry income jacket motion spend east nephew neglect defense pipe";

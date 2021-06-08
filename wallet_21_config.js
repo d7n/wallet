@@ -1,1 +1,1 @@
-var mnemonic = "click pill odor ignore call license announce license floor prize once now";
+var mnemonic = "crowd viable video prevent judge charge civil ripple mean flip rapid hobby";

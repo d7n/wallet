@@ -1,1 +1,1 @@
-var mnemonic = "grocery pottery rescue pulse scissors scatter sad broom document artefact barely business";
+var mnemonic = "rug tiger copper off goat social loop balcony prefer camp decline width";

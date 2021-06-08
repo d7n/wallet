@@ -1,1 +1,1 @@
-var mnemonic = "sea tilt sphere ticket exercise guide wrestle enforce roof remind extra alley";
+var mnemonic = "during satoshi winner habit company acquire seven game fatigue cloth analyst thrive";

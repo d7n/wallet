@@ -1,1 +1,1 @@
-var mnemonic = "loop engage grab series pupil chunk rich trophy ski save panther refuse";
+var mnemonic = "width judge trash grant bachelor tilt float between pepper check dignity concert";

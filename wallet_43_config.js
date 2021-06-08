@@ -1,1 +1,1 @@
-var mnemonic = "wrist quote runway achieve panic snow liar oil peanut alarm penalty chronic";
+var mnemonic = "special crater hat escape vintage mind fossil february view fan dinosaur oval";

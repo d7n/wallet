@@ -1,1 +1,1 @@
-var mnemonic = "invite define enlist fee beyond slice edge have divert address demise grace";
+var mnemonic = "urge six monitor number evidence already jacket journey author craft garden ill";

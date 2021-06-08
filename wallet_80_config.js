@@ -1,1 +1,1 @@
-var mnemonic = "axis panther reopen mass daughter often regret gloom gun defy horn enhance";
+var mnemonic = "reopen quality pulse answer cushion seed happy always decorate palm zebra begin";

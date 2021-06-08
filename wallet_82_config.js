@@ -1,1 +1,1 @@
-var mnemonic = "dream cactus empower scene knee region egg keep lake fine test decrease";
+var mnemonic = "hat option possible album cabbage resemble hair hurdle orient put bean rule";

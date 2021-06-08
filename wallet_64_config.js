@@ -1,1 +1,1 @@
-var mnemonic = "garage first security laptop damage tourist mad easily antenna melt scatter delay";
+var mnemonic = "people resource game off boring ramp borrow push poem loop health slice";

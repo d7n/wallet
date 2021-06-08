@@ -1,1 +1,1 @@
-var mnemonic = "pride laundry chef grit notable public isolate notice dream inquiry black prevent";
+var mnemonic = "run answer casino brick rookie orient fork bonus scatter recipe season debate";

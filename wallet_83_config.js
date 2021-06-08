@@ -1,1 +1,1 @@
-var mnemonic = "mom start vast seed achieve patch solar between plate example certain protect";
+var mnemonic = "repair century lawn left describe tail hidden box orphan plunge provide never";

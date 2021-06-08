@@ -1,1 +1,1 @@
-var mnemonic = "island layer ramp weasel armor orchard phrase define carry wet accident borrow";
+var mnemonic = "two keep easily fog rapid element aerobic become portion slot tomato cross";

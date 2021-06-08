@@ -1,1 +1,1 @@
-var mnemonic = "voice special pair canoe scheme balance camp core reason dentist soap random";
+var mnemonic = "manage father visa top sentence angle angle clever clap sick payment wood";

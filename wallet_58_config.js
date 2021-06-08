@@ -1,1 +1,1 @@
-var mnemonic = "mansion unable roast royal tool embody involve head trial south rent rookie";
+var mnemonic = "hawk fox void harsh feel rebuild gown high famous unfold rib innocent";

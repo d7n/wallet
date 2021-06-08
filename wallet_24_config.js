@@ -1,1 +1,1 @@
-var mnemonic = "aspect scrap know calm jeans jewel quarter cause moon media fall future";
+var mnemonic = "wheel century cannon family jacket arrange spray skate dragon window rifle one";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial food weather bird lend weapon economy history prize lift fee often";
+var mnemonic = "bleak embark cake bring midnight viable quick exit food foot agent candy";

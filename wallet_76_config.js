@@ -1,1 +1,1 @@
-var mnemonic = "blur monitor pioneer charge total forum whale wall myself jelly unfold load";
+var mnemonic = "abuse tobacco service rabbit plunge west prepare gauge spike number harbor crouch";

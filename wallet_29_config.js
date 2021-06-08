@@ -1,1 +1,1 @@
-var mnemonic = "mom major mechanic grid now just feed depart clever slot elbow gossip";
+var mnemonic = "body vast surface online snap urge edge extra action young bread movie";

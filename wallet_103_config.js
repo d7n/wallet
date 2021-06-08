@@ -1,1 +1,1 @@
-var mnemonic = "relief wisdom smile cancel bullet fringe palace before opinion woman seven also";
+var mnemonic = "prize swim keep excess laugh abandon proud denial outer vacant trim luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery agree over that drink dynamic flag sense license isolate wood cave";
+var mnemonic = "pool gather face desk strong seek hollow ask purity curve addict shop";

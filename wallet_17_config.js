@@ -1,1 +1,1 @@
-var mnemonic = "once hood merit high climb vendor keen base wisdom gym section inner";
+var mnemonic = "involve indicate replace portion this reflect gather whisper wool layer casual aunt";

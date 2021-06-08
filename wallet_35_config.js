@@ -1,1 +1,1 @@
-var mnemonic = "diesel boil present inspire wet solid inhale mobile supreme destroy ring liar";
+var mnemonic = "feed boring home project jelly resemble enforce ramp steak wolf rich easily";

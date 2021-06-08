@@ -1,1 +1,1 @@
-var mnemonic = "ozone slot snack plastic grape benefit best spot marriage over fancy rabbit";
+var mnemonic = "program input muffin science detect young tenant budget client exotic kidney boring";

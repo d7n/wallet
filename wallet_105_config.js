@@ -1,1 +1,1 @@
-var mnemonic = "happy chicken imitate jump camp unaware age reward grape lucky series chimney";
+var mnemonic = "toy cycle blossom apology monitor end good exhaust brick special rigid diary";

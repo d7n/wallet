@@ -1,1 +1,1 @@
-var mnemonic = "voyage acoustic amount sound insane sting dash predict cliff normal document divide";
+var mnemonic = "sing lecture category cradle rough huge unfair need trumpet enhance jewel trade";

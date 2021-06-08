@@ -1,1 +1,1 @@
-var mnemonic = "salt wing owner artwork ice pink final mean dust agent just layer";
+var mnemonic = "shoulder airport print cliff typical ready shoulder arm divorce cheap egg embark";

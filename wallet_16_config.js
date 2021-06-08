@@ -1,1 +1,1 @@
-var mnemonic = "pilot exile assault frozen pass game unusual kitten enforce drop group spell";
+var mnemonic = "shaft hover still south shadow elegant blind artefact myth hover tooth fortune";

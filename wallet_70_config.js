@@ -1,1 +1,1 @@
-var mnemonic = "will tilt exit option wife style dizzy aware display decline decorate split";
+var mnemonic = "need letter canoe hero return fame figure organ panda eternal vessel there";

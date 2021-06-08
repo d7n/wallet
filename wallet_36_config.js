@@ -1,1 +1,1 @@
-var mnemonic = "demand master midnight pottery normal write drip caution kiwi play vicious desk";
+var mnemonic = "unit else desk crisp together axis matrix flower ketchup earth prepare spoon";

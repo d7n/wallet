@@ -1,1 +1,1 @@
-var mnemonic = "sauce shiver food horror century puzzle blur entry time dentist danger toss";
+var mnemonic = "artist good solar peasant ignore panda wild betray visual slot history top";

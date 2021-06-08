@@ -1,1 +1,1 @@
-var mnemonic = "health response betray rabbit renew surface file salon say legend nerve immense";
+var mnemonic = "calm lonely face load soldier enroll tail spoil snack artist tornado clever";

@@ -1,1 +1,1 @@
-var mnemonic = "move trumpet hand jealous weather else prefer update bulk educate outer reform";
+var mnemonic = "metal spirit work drip talent faculty test slush raw much hazard actress";

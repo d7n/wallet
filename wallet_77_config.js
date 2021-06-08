@@ -1,1 +1,1 @@
-var mnemonic = "giraffe hope rabbit ship spice stuff snap mistake enjoy nation unveil behind";
+var mnemonic = "eternal split predict forward solve resemble outside cabin moment major glad help";

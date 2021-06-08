@@ -1,1 +1,1 @@
-var mnemonic = "hero fit witness gadget pilot clap copy brass twelve any online evoke";
+var mnemonic = "rhythm tent disagree combine confirm outer luxury drink jeans cruel fit foot";

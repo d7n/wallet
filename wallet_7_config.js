@@ -1,1 +1,1 @@
-var mnemonic = "rubber depart often hybrid gate lumber guess clap tonight nasty dune tribe";
+var mnemonic = "provide add stick million farm kit mail donor bacon eye famous saddle";

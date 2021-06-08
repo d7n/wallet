@@ -1,1 +1,1 @@
-var mnemonic = "tunnel color wisdom glory fine brass easy find ancient purity crawl seminar";
+var mnemonic = "hungry conduct outdoor text artefact army sibling still clock festival much grow";

@@ -1,1 +1,1 @@
-var mnemonic = "play infant soul spirit first tent solar report cliff enact despair equal";
+var mnemonic = "sudden diamond fragile boy element reunion public scissors tourist budget arrest security";

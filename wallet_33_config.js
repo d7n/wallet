@@ -1,1 +1,1 @@
-var mnemonic = "tone fish opera seek fiscal bar ginger they basic enlist mesh cotton";
+var mnemonic = "sign floor damp toe leopard snack typical false mountain void master rare";

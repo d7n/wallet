@@ -1,1 +1,1 @@
-var mnemonic = "unusual math impact frown online idle another split voice cheap novel add";
+var mnemonic = "rice turtle shoulder faculty also team eternal rack own rely join young";

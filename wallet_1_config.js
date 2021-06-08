@@ -1,1 +1,1 @@
-var mnemonic = "comic minute option review alien multiply skull autumn fade guide civil north";
+var mnemonic = "measure round near robot bag million doctor edit zebra circle vanish verb";

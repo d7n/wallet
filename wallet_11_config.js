@@ -1,1 +1,1 @@
-var mnemonic = "success recycle advice pony napkin speak bread artefact glide dog wedding family";
+var mnemonic = "toe lady guitar fetch common curve lava scorpion art choice turtle risk";

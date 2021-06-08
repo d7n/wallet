@@ -1,1 +1,1 @@
-var mnemonic = "baby cargo route moment talk west social energy unusual scrub crush wrestle";
+var mnemonic = "elegant merit change elevator survey define stove satisfy tired kind network network";

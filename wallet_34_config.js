@@ -1,1 +1,1 @@
-var mnemonic = "purchase early horror original cost swarm syrup tooth run rival excess park";
+var mnemonic = "tree patrol siege monster coach horror grocery service across because claim reason";

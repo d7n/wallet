@@ -1,1 +1,1 @@
-var mnemonic = "faith shy illness alone devote six minimum slam pledge public novel scrap";
+var mnemonic = "exclude base aim summer finger shy begin cactus wife phrase sunset degree";

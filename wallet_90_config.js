@@ -1,1 +1,1 @@
-var mnemonic = "fade cause devote soon mom word material extend excite point lemon start";
+var mnemonic = "column beyond radar heavy push early expand rather enable team involve message";

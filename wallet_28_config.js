@@ -1,1 +1,1 @@
-var mnemonic = "wide amount change female idea whisper hamster copper harsh select stick bar";
+var mnemonic = "accident joke dinner decide carpet february iron clinic night stereo palm margin";

@@ -1,1 +1,1 @@
-var mnemonic = "bind trouble ranch aerobic mean still develop battle dress tooth today else";
+var mnemonic = "snake wait subject stand session perfect alter wood enter script limb divorce";

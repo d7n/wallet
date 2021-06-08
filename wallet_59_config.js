@@ -1,1 +1,1 @@
-var mnemonic = "dinner connect harbor behave arrow fatal erase unaware army fancy vanish sword";
+var mnemonic = "gallery permit unveil route change panel grit dilemma peanut high grass opinion";

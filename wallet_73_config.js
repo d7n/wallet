@@ -1,1 +1,1 @@
-var mnemonic = "wagon rhythm inform afford dynamic shell spin south fluid crew result gift";
+var mnemonic = "reform year gap must eight budget develop enrich much body coral tomato";

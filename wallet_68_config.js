@@ -1,1 +1,1 @@
-var mnemonic = "april actual episode film census aware slogan slender federal absent midnight type";
+var mnemonic = "margin flower breeze old future spray swear label thought quality syrup error";

@@ -1,1 +1,1 @@
-var mnemonic = "brown change million wink script local noise escape pulp add steak interest";
+var mnemonic = "fossil gap upper dish vanish rookie wonder keep earth wealth excuse group";

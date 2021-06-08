@@ -1,1 +1,1 @@
-var mnemonic = "cake dinosaur festival solution harsh cake smile pond maze lava weather dress";
+var mnemonic = "seminar trend weasel recycle steak tell genius dad program play course arena";

@@ -1,1 +1,1 @@
-var mnemonic = "letter general panda village truck kingdom gospel brand vendor fence gift dilemma";
+var mnemonic = "hazard rent alcohol mystery approve random stairs mountain middle false glad south";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty excuse affair add snack embark toe solution exact tiger hockey apart";
+var mnemonic = "receive toast excuse boy crime champion grace comfort festival level bamboo current";

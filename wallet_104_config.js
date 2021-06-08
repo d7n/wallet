@@ -1,1 +1,1 @@
-var mnemonic = "medal urge drive hybrid width produce domain eye weasel spread valley spin";
+var mnemonic = "argue cover orient pistol adjust best gift prize kidney alter gauge wall";

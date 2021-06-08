@@ -1,1 +1,1 @@
-var mnemonic = "employ innocent erode fever soup liar cigar frog glide able whisper shine";
+var mnemonic = "void abstract hungry man grant into actress purchase strike clinic electric canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "remain poet cream shoe select witness cake undo hub shoulder address real";
+var mnemonic = "upon fox please joke urban salute puppy brief yellow kidney true pelican";

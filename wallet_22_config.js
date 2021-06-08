@@ -1,1 +1,1 @@
-var mnemonic = "type secret stock afraid now recall curious napkin column pass exchange thumb";
+var mnemonic = "december junk foam fatal crater ticket great salute grass snake crunch blossom";
