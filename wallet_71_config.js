@@ -1,1 +1,1 @@
-var mnemonic = "fluid jewel primary paddle bind expire letter prepare crunch dirt hybrid layer";
+var mnemonic = "dove high route tray cancel poet around mercy client sick fox taste";

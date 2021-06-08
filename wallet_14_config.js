@@ -1,1 +1,1 @@
-var mnemonic = "today corn merry episode bacon try oven assault ivory bounce drastic van";
+var mnemonic = "argue ring powder divert parade amount build there derive treat goddess liar";

@@ -1,1 +1,1 @@
-var mnemonic = "vivid scale husband sibling nation finish tank exist evidence autumn one napkin";
+var mnemonic = "civil glow gown half peace science lady author brave mixed keen age";

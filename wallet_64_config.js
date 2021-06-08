@@ -1,1 +1,1 @@
-var mnemonic = "have aunt key tongue honey become powder stick rely trial job whale";
+var mnemonic = "section garbage hour cook neck fever tone comic invite next canvas quit";

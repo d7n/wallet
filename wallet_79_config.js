@@ -1,1 +1,1 @@
-var mnemonic = "unit sphere witness ordinary sunny team nasty pizza drill monster media club";
+var mnemonic = "situate game amateur intact leader seed reopen vocal asset crowd mom exhibit";

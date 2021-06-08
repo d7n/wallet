@@ -1,1 +1,1 @@
-var mnemonic = "execute model smile level snap distance sea erode alcohol digital adapt neck";
+var mnemonic = "bulk evoke curtain crisp camera mixture benefit quantum modify garage cancel hire";

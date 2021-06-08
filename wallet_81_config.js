@@ -1,1 +1,1 @@
-var mnemonic = "able oven ask congress wear tone trick update great problem rib disease";
+var mnemonic = "ocean kangaroo arrange protect hazard anger inner peanut banner fox train clump";

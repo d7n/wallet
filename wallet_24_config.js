@@ -1,1 +1,1 @@
-var mnemonic = "burst kingdom pattern romance equal involve citizen crater exclude buzz rack shrug";
+var mnemonic = "bulk recipe mushroom path describe engine goat arm library attitude crowd guard";

@@ -1,1 +1,1 @@
-var mnemonic = "stick vibrant kiwi judge gospel basket oil story supply cute neglect faith";
+var mnemonic = "giraffe morning potato endless organ helmet solar carry noodle moment beach rule";

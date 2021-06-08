@@ -1,1 +1,1 @@
-var mnemonic = "intact discover ribbon receive marriage record entry main donkey heart future monkey";
+var mnemonic = "dog harsh decline carry actress ranch end borrow hand field motion public";

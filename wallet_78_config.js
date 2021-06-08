@@ -1,1 +1,1 @@
-var mnemonic = "slam essay scan member volume uncle wrong shrug toddler reveal north team";
+var mnemonic = "crouch dignity please nest ill debate breeze what impulse pride coast comic";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor balance prison true letter doctor inmate riot despair genius door skate";
+var mnemonic = "unhappy blood left promote candy wreck caught oak razor dose express prepare";

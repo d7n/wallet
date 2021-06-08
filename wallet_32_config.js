@@ -1,1 +1,1 @@
-var mnemonic = "ritual bunker genre frequent wine picture credit season lava teach fee income";
+var mnemonic = "trumpet middle rookie shift sure flower sport parrot village dove merge radio";

@@ -1,1 +1,1 @@
-var mnemonic = "other main comfort rotate credit soul width wise crop pill love electric";
+var mnemonic = "slight donor pulse erupt window expand artefact under waste student brand depart";

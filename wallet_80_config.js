@@ -1,1 +1,1 @@
-var mnemonic = "bean frame solid man way layer frost bamboo wealth sausage tell adapt";
+var mnemonic = "wide there patch crisp distance tank smile logic exhaust hammer load fold";

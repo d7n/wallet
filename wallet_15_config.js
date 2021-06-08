@@ -1,1 +1,1 @@
-var mnemonic = "black lesson echo chimney pause disorder junior layer ride must gentle winter";
+var mnemonic = "inform emotion segment stem theme filter lion suffer fame ceiling chief vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "excite ceiling pudding measure mule year option unaware able world consider soap";
+var mnemonic = "ivory airport fantasy tube lock arch raise rookie sport focus between syrup";

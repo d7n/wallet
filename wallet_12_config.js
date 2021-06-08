@@ -1,1 +1,1 @@
-var mnemonic = "citizen lecture sort warm never radar siren lounge item wall draft between";
+var mnemonic = "web dry toy right dizzy exhibit dynamic cause tell easily fantasy parent";

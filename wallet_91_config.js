@@ -1,1 +1,1 @@
-var mnemonic = "october popular stuff athlete despair call error crush palm grape involve crazy";
+var mnemonic = "decrease describe step never job loud scrap survey farm buzz diamond country";

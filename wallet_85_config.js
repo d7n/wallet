@@ -1,1 +1,1 @@
-var mnemonic = "eternal ancient list zone giant sure embody short parade love leisure quote";
+var mnemonic = "ivory found rich focus adapt witness casino apart often danger grace insane";

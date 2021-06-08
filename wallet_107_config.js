@@ -1,1 +1,1 @@
-var mnemonic = "dawn cross march magic worth mimic aim fringe mango hurt stick course";
+var mnemonic = "cotton menu palace diet index yellow peace race swarm blanket erode shop";

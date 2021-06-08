@@ -1,1 +1,1 @@
-var mnemonic = "only expand paper blind present rescue bar word gentle museum nuclear pony";
+var mnemonic = "soda text split enemy unfair kiwi green couple museum hamster coconut mountain";

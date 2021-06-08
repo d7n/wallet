@@ -1,1 +1,1 @@
-var mnemonic = "taste wood repeat jewel model crisp tank fantasy minute talk like climb";
+var mnemonic = "job unfair cat ski differ rule damage verify hawk pony utility stamp";

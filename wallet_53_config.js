@@ -1,1 +1,1 @@
-var mnemonic = "divert nothing balance gaze sauce valley timber video range kit miss seed";
+var mnemonic = "later dog finger scrub barely firm evil online theory doll child course";

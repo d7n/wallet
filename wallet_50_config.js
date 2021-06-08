@@ -1,1 +1,1 @@
-var mnemonic = "soft prefer square catalog quarter recycle now birth tattoo derive require garden";
+var mnemonic = "remain ketchup blade describe aware okay raven fashion digital trophy orbit claim";

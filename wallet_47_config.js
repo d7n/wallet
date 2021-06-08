@@ -1,1 +1,1 @@
-var mnemonic = "rescue rubber flight popular twin action topple topic champion night cigar door";
+var mnemonic = "orphan pride sunny common swim man inch woman health drip tunnel wait";

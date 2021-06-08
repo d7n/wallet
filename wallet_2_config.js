@@ -1,1 +1,1 @@
-var mnemonic = "reward lend ankle path champion they cream ball team afford kiss train";
+var mnemonic = "session awful poverty wing rural dragon noodle clerk violin lock change excite";

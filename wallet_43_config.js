@@ -1,1 +1,1 @@
-var mnemonic = "carry burden face craft question dwarf table tiger naive evidence reopen bird";
+var mnemonic = "endless basic regular soldier perfect autumn great two spend shuffle damage plunge";

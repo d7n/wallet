@@ -1,1 +1,1 @@
-var mnemonic = "method reward toward pattern battle cinnamon scan scissors dice try human economy";
+var mnemonic = "boring push beauty dynamic arrow assume virus defense music lumber inch calm";

@@ -1,1 +1,1 @@
-var mnemonic = "margin float pen behind double build winner private seven cloud salon sphere";
+var mnemonic = "three wait wood raw myself blue already twist simple scorpion ensure wool";

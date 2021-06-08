@@ -1,1 +1,1 @@
-var mnemonic = "summer rough clown liquid property song purchase nuclear borrow regret volume walnut";
+var mnemonic = "occur robot custom palm cause universe coral disagree step hole toward layer";

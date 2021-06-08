@@ -1,1 +1,1 @@
-var mnemonic = "wire stick abandon damage pole ginger tent amount cereal hammer patient crime";
+var mnemonic = "caught theme inform soda major fresh collect split gown library perfect document";

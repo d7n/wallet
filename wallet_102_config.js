@@ -1,1 +1,1 @@
-var mnemonic = "bargain attitude recipe liberty surprise silk frost off busy myself climb scorpion";
+var mnemonic = "key claim inch regret elegant eight ask giant master gold access lottery";

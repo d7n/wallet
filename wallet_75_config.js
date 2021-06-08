@@ -1,1 +1,1 @@
-var mnemonic = "country awesome laptop mask talent sound evil squeeze pig chunk comic behave";
+var mnemonic = "mother around onion pony calm exact attract siren column nut spray beach";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge slide armor useful scale rice elbow faint people gospel follow rack";
+var mnemonic = "elegant pluck creek enjoy view mystery cover odor ramp shiver yellow ivory";

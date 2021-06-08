@@ -1,1 +1,1 @@
-var mnemonic = "wing shine wife blanket theme process lonely rather fit immense hold economy";
+var mnemonic = "base toy arch useless tomorrow flee oyster trouble inject undo pattern volume";

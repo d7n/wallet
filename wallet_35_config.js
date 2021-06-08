@@ -1,1 +1,1 @@
-var mnemonic = "travel border margin swear wrestle timber monkey insane erase lend exercise verify";
+var mnemonic = "inhale vapor escape off this demand wet marriage quick debris blood aspect";

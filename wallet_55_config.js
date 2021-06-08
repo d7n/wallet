@@ -1,1 +1,1 @@
-var mnemonic = "super taste fuel resemble initial giraffe dirt quarter gesture scatter garment fine";
+var mnemonic = "inspire submit road canyon quarter decorate case destroy turtle dirt fade divert";

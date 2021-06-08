@@ -1,1 +1,1 @@
-var mnemonic = "lobster attitude social final cat sing focus spike cloth enjoy save rally";
+var mnemonic = "century paper about loyal ensure flag hard index pioneer cheese normal unhappy";

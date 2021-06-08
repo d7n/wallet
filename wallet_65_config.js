@@ -1,1 +1,1 @@
-var mnemonic = "caught accuse body please trophy say swamp beach divorce finish twice april";
+var mnemonic = "bounce alien rude employ earth usage dream van cart thrive bright brother";

@@ -1,1 +1,1 @@
-var mnemonic = "identify width vault network dwarf letter talent chief rescue slender trumpet disease";
+var mnemonic = "run area circle move notice extend prosper certain cook fly wheel enter";

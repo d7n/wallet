@@ -1,1 +1,1 @@
-var mnemonic = "vehicle index hobby spoon actual season iron screen cup foster blame census";
+var mnemonic = "music typical dial asthma choice blur property loan panel already virus inmate";

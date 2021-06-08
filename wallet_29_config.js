@@ -1,1 +1,1 @@
-var mnemonic = "page jazz knife adapt ethics mom ocean group aunt torch sight find";
+var mnemonic = "mango depart recycle frozen there stone rigid cargo wide amused hold violin";

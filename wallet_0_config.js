@@ -1,1 +1,1 @@
-var mnemonic = "fox joy plate mix surface green credit early tongue siren asset nurse";
+var mnemonic = "organ cinnamon wage code scheme dawn unfair similar lunch brush annual muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "bar trade auto middle fury pet home heavy curve warrior stomach nasty";
+var mnemonic = "glove cause jealous december snake lunar diet job property thrive august equip";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow tourist love bus metal birth supply monkey tape speak body staff";
+var mnemonic = "wheel alpha devote script shoe portion cat rabbit cook father portion seek";

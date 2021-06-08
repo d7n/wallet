@@ -1,1 +1,1 @@
-var mnemonic = "indicate wisdom thunder coconut artefact mansion razor proof gaze embark video panic";
+var mnemonic = "harbor helmet dilemma photo choice liberty mistake alcohol wedding kit razor gift";

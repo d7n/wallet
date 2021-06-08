@@ -1,1 +1,1 @@
-var mnemonic = "rib skin affair host purchase insect digital plastic hospital sing march stool";
+var mnemonic = "damp noodle practice frown denial seek lift have misery festival must artist";

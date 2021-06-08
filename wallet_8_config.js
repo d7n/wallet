@@ -1,1 +1,1 @@
-var mnemonic = "dilemma major disease pause sponsor attack six laundry tool peace promote imitate";
+var mnemonic = "series diagram follow warm vote narrow joy drink fluid cement nasty grape";

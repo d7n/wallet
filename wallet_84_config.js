@@ -1,1 +1,1 @@
-var mnemonic = "surround flag card mimic gas merge course fault system flip seat face";
+var mnemonic = "decide permit bargain walnut wreck police now acquire olympic barely mandate crash";

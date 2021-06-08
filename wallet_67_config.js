@@ -1,1 +1,1 @@
-var mnemonic = "clock craft hammer winner swarm cinnamon sign real knife give include online";
+var mnemonic = "expose curtain harsh list eye stick prepare fun rude question myself bar";

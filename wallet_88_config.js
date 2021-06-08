@@ -1,1 +1,1 @@
-var mnemonic = "stairs woman main mechanic focus hub floor ivory together obey print rabbit";
+var mnemonic = "neither imitate elephant stadium rail upgrade sun tomorrow affair method picnic disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "charge blanket father rigid scrap kangaroo convince hen garbage gas tuna vital";
+var mnemonic = "fade matrix carry winter choose need bounce life unique stamp hungry science";

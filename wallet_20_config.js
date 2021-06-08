@@ -1,1 +1,1 @@
-var mnemonic = "inject risk letter turtle trigger trash acid come cherry bubble order offer";
+var mnemonic = "ankle have alcohol purchase rule pill borrow fence dance public bacon exit";

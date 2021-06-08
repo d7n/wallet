@@ -1,1 +1,1 @@
-var mnemonic = "display provide shoe ripple vacuum involve finish physical crush fuel viable wedding";
+var mnemonic = "deposit gain human hair ensure short stereo bar wheat loan upper omit";

@@ -1,1 +1,1 @@
-var mnemonic = "street agree churn flip amazing draw bracket online battle glide hammer release";
+var mnemonic = "screen mule lizard lake cube film broken face loop filter aware cereal";

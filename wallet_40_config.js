@@ -1,1 +1,1 @@
-var mnemonic = "cream need amateur lemon obvious brisk kitten surface account decorate fever orphan";
+var mnemonic = "hint cactus tissue denial inherit barrel position wedding deny make suspect disagree";

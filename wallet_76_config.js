@@ -1,1 +1,1 @@
-var mnemonic = "start twist lyrics grunt figure misery web fortune slogan trip coil tray";
+var mnemonic = "erode bring elevator mix loop faint antenna robot you public tree report";

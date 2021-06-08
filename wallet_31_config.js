@@ -1,1 +1,1 @@
-var mnemonic = "salad survey awesome they glove awkward grocery venture dream category census stay";
+var mnemonic = "relax flip social depth cactus craft roast crop armed artefact execute home";

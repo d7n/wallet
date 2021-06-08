@@ -1,1 +1,1 @@
-var mnemonic = "crew dolphin pretty grape say win summer salmon neutral aerobic victory tiger";
+var mnemonic = "curtain tomorrow priority busy misery divide produce garlic core ankle tomorrow buyer";

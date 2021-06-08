@@ -1,1 +1,1 @@
-var mnemonic = "father cheap cargo few auto train cabin prepare asthma price elephant magic";
+var mnemonic = "copy work shove prosper crew arm plate then emotion copy outer innocent";

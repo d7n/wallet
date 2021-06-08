@@ -1,1 +1,1 @@
-var mnemonic = "route farm can comfort amazing series current response suggest bring script close";
+var mnemonic = "tenant comic journey broccoli start upon donor crater security gentle hold purity";

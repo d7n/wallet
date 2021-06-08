@@ -1,1 +1,1 @@
-var mnemonic = "void couple gap job crumble silver hole night much science coffee design";
+var mnemonic = "ranch sea mean human demise enforce vault art rice illegal soul artwork";

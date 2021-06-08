@@ -1,1 +1,1 @@
-var mnemonic = "snake leave broccoli tuna walk next law smooth general honey twice coast";
+var mnemonic = "climb reveal juice make stock inflict notable intact resist obscure solution stadium";

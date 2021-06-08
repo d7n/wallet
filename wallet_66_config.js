@@ -1,1 +1,1 @@
-var mnemonic = "glove portion bar excite breeze multiply brief rifle treat educate check erupt";
+var mnemonic = "rival impose bargain box attitude parade empower ecology spend boat love behave";

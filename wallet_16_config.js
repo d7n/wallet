@@ -1,1 +1,1 @@
-var mnemonic = "surprise consider banner oil panda inspire say mesh differ razor burst team";
+var mnemonic = "size devote pear tray energy scene gold success sample tragic salon rug";

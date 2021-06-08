@@ -1,1 +1,1 @@
-var mnemonic = "potato alien album hood mail old tunnel still record oval mango jewel";
+var mnemonic = "decade inside virus share canyon mix crunch rubber boil cotton vault interest";

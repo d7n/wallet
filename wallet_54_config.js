@@ -1,1 +1,1 @@
-var mnemonic = "milk delay edit erosion cotton public address survey knee hover corn blood";
+var mnemonic = "abstract panel base stable normal fiction scale valid turkey coil fuel airport";

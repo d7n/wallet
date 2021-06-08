@@ -1,1 +1,1 @@
-var mnemonic = "evoke denial music meat abuse six small lava have net display erode";
+var mnemonic = "lucky together make paddle six clap misery victory fluid quality exile vote";

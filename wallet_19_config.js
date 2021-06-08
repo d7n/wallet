@@ -1,1 +1,1 @@
-var mnemonic = "seat vault rib remove warm marble copper robot minor same ankle margin";
+var mnemonic = "accident estate volcano electric express accident lyrics honey stage nephew outdoor lottery";

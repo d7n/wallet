@@ -1,1 +1,1 @@
-var mnemonic = "throw finish fiber cherry dice acid destroy layer miss hundred fiscal tunnel";
+var mnemonic = "diary hawk pave material hard marine organ this eager slam toy analyst";

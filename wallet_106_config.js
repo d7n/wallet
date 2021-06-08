@@ -1,1 +1,1 @@
-var mnemonic = "produce tower silent pause kick armor moment soda great couple bounce mandate";
+var mnemonic = "despair into assist hockey high stumble whip insane enjoy gadget arrange alter";

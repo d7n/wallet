@@ -1,1 +1,1 @@
-var mnemonic = "estate tide random recycle job plastic gas kitten tuition save infant ozone";
+var mnemonic = "giraffe people parrot vibrant cargo tooth quality cactus pudding manual rough grow";

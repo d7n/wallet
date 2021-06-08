@@ -1,1 +1,1 @@
-var mnemonic = "jump acquire erase enact sure insect frame minimum pony tiger lawsuit violin";
+var mnemonic = "wing grain lyrics rigid lunar material flee evidence tiny boy monkey give";

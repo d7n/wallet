@@ -1,1 +1,1 @@
-var mnemonic = "below dry industry robot height hard unhappy stable tooth slam quarter kitten";
+var mnemonic = "attack silver indicate radar close belt eye cover museum fiber cup forward";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage high select weapon book clown lounge reward sock pitch start fall";
+var mnemonic = "corn maid frozen ankle example session vacuum pigeon sure night father admit";

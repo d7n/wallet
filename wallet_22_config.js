@@ -1,1 +1,1 @@
-var mnemonic = "trade wear never whisper gesture trap voyage wear night advance satisfy resource";
+var mnemonic = "portion exact sign home race marble satoshi enrich wheat flower rotate devote";

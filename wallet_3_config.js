@@ -1,1 +1,1 @@
-var mnemonic = "science oppose pause dignity remain tide amount bounce inside whisper crawl welcome";
+var mnemonic = "clock alone million gold wild aerobic question parrot river baby toast milk";

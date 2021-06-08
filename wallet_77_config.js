@@ -1,1 +1,1 @@
-var mnemonic = "that museum setup brand era bind faculty provide ring cute scrap eyebrow";
+var mnemonic = "roast blush bright salon bike exhibit skill search hungry term crucial insane";

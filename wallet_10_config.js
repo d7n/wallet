@@ -1,1 +1,1 @@
-var mnemonic = "fan bread script roast warfare door undo stone author lab sniff rely";
+var mnemonic = "kingdom pull ready tool fruit culture best check plastic congress crop rule";

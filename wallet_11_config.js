@@ -1,1 +1,1 @@
-var mnemonic = "banana quote spider scheme female vacant mail glory aisle vital outer into";
+var mnemonic = "army deny diary satoshi bronze style opera unaware give tape bench glass";

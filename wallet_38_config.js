@@ -1,1 +1,1 @@
-var mnemonic = "enemy crowd legend best crystal bus trash cigar trust prison come ostrich";
+var mnemonic = "unfair snow roof crazy resource write edit spy switch correct amount cram";

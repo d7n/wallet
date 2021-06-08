@@ -1,1 +1,1 @@
-var mnemonic = "switch coast digital pave crane cousin east math west daughter allow front";
+var mnemonic = "master flavor barely snap orphan hurt bitter choice memory spike laptop protect";

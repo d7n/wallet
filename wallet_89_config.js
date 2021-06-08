@@ -1,1 +1,1 @@
-var mnemonic = "sword wife wedding magic agree gown obtain another siege again confirm parade";
+var mnemonic = "stick hold trust clown garden jewel tourist enact omit coffee vapor liquid";

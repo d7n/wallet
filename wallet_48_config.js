@@ -1,1 +1,1 @@
-var mnemonic = "wise east half step swing omit mistake chest loud end cool rural";
+var mnemonic = "sketch shine shoulder creek child prosper grass image hurt inherit lecture measure";

@@ -1,1 +1,1 @@
-var mnemonic = "spin coral throw law advance car kitchen apart early payment unable fresh";
+var mnemonic = "praise common dust zone guide interest slogan grow endorse forward genre pair";

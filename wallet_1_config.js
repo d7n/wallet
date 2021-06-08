@@ -1,1 +1,1 @@
-var mnemonic = "aisle arrive off disagree medal sell father sort involve such puzzle power";
+var mnemonic = "enter novel video rose large habit flame crumble fever tent awful where";
