@@ -1,1 +1,1 @@
-var mnemonic = "budget brick best employ bundle cereal weird uniform camp unfair annual equip";
+var mnemonic = "thing reopen gravity young slim either whale approve silly diamond shrimp adjust";

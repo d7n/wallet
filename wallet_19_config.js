@@ -1,1 +1,1 @@
-var mnemonic = "legal stay saddle general cry chunk hunt letter story clean napkin today";
+var mnemonic = "saddle answer smoke cancel stadium resemble crowd wagon bring learn foster deal";

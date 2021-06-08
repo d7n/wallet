@@ -1,1 +1,1 @@
-var mnemonic = "strategy exhaust lesson brain lounge indicate scan buddy unaware suit course bachelor";
+var mnemonic = "they shadow mask envelope measure alert tennis enhance cheap spring close riot";

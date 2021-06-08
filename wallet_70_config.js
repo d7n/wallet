@@ -1,1 +1,1 @@
-var mnemonic = "apart can remove myself feature frame chunk engage net often blur book";
+var mnemonic = "false access tennis defense know chat invite tonight spawn sign melody april";

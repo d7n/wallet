@@ -1,1 +1,1 @@
-var mnemonic = "canoe symptom round motor brain rough emotion pass master useful trim alter";
+var mnemonic = "cool expire truck position alter sell slogan praise photo laugh cute clap";

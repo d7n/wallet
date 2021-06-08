@@ -1,1 +1,1 @@
-var mnemonic = "scout opinion boat garage misery domain chief garbage erase proof time fortune";
+var mnemonic = "feed stage now chair verb pencil verb penalty pepper dream pupil milk";

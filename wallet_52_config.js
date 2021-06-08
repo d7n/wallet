@@ -1,1 +1,1 @@
-var mnemonic = "kid desert mail cloth embrace east electric embody explain aisle tobacco shove";
+var mnemonic = "find mountain bronze forum trip crater squirrel person link beef soul obvious";

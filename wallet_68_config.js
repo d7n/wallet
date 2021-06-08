@@ -1,1 +1,1 @@
-var mnemonic = "noise foster cactus before credit style orient moment wait sweet curious clump";
+var mnemonic = "admit elite reunion horn meadow inspire immune yard west laundry poverty receive";

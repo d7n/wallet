@@ -1,1 +1,1 @@
-var mnemonic = "slice pact silly poem walnut year goat crunch goat blouse media celery";
+var mnemonic = "ready repair tower nice knife crash ugly twist run cruel electric real";

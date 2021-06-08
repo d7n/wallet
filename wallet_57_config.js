@@ -1,1 +1,1 @@
-var mnemonic = "blush grab midnight general pony tent artist nominee cage empty spare hand";
+var mnemonic = "diet sun load biology siege outer market pill squirrel wait bullet inherit";

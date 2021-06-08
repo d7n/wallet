@@ -1,1 +1,1 @@
-var mnemonic = "alien weapon sorry orphan crystal pattern prize chief school fury result raise";
+var mnemonic = "awesome say lady disorder aspect cage barely slab distance second best sunset";

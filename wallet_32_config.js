@@ -1,1 +1,1 @@
-var mnemonic = "stool peanut warm brave anger prefer pioneer genre brown key hero spoon";
+var mnemonic = "orphan payment throw entire expose phone dizzy film demise scorpion arch birth";

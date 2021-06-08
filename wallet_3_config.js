@@ -1,1 +1,1 @@
-var mnemonic = "flat recall sugar easily coil upper museum gift focus cable solve property";
+var mnemonic = "initial dumb profit glow labor face else zoo comic issue giggle survey";

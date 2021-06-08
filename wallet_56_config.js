@@ -1,1 +1,1 @@
-var mnemonic = "key stick opera safe gesture ride must pull increase sentence garden dash";
+var mnemonic = "opera feel bomb maze marine panda economy ticket marble obey melt rely";

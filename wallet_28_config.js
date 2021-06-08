@@ -1,1 +1,1 @@
-var mnemonic = "boil birth dwarf harvest ready twelve soup wool try anger tip beach";
+var mnemonic = "rigid repair diamond spirit giraffe word this cage height narrow early chuckle";

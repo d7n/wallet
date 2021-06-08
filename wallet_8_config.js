@@ -1,1 +1,1 @@
-var mnemonic = "roast mango rent laundry book mistake page detail scale scrub banana tell";
+var mnemonic = "area maple famous divert interest mountain cave door surge mass bring shy";

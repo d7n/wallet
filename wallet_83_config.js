@@ -1,1 +1,1 @@
-var mnemonic = "pink place employ simple subway misery enjoy tomorrow rely web food animal";
+var mnemonic = "flat earth arena toward pull deny stock science airport middle case symptom";

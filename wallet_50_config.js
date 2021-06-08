@@ -1,1 +1,1 @@
-var mnemonic = "lounge pledge race wealth also slide grass fence table ranch cool piano";
+var mnemonic = "inform daring oven robust alley initial rail member flat select verify bind";

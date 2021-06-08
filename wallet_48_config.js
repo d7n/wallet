@@ -1,1 +1,1 @@
-var mnemonic = "margin win chef umbrella until yellow club clip force carry suffer toss";
+var mnemonic = "frozen idea gallery scout okay garden snake clip brand wagon analyst drip";

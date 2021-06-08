@@ -1,1 +1,1 @@
-var mnemonic = "tourist deer leopard payment hungry above theme trip option fatigue toy decide";
+var mnemonic = "dad tube orange unhappy lawn hurry idea rail subway brand salmon afford";

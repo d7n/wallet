@@ -1,1 +1,1 @@
-var mnemonic = "labor achieve hazard move someone during own dice crawl amazing waste thought";
+var mnemonic = "leisure budget ivory behave valve picnic return winner noodle omit oak tray";

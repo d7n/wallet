@@ -1,1 +1,1 @@
-var mnemonic = "punch rent hero practice dizzy off melody picture hour interest educate bread";
+var mnemonic = "crowd already hold alarm industry enemy hedgehog father usual local plunge mosquito";

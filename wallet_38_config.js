@@ -1,1 +1,1 @@
-var mnemonic = "foot arrest into solve broccoli episode trick scorpion vehicle cheap wool warrior";
+var mnemonic = "air combine rigid mobile pottery mosquito dwarf deposit outer credit crouch unfold";

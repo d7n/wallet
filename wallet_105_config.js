@@ -1,1 +1,1 @@
-var mnemonic = "multiply surface festival axis pattern ramp exist sausage general mansion glory adult";
+var mnemonic = "spoon guilt call paddle suggest vote shoulder tourist slot hope rare flag";

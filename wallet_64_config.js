@@ -1,1 +1,1 @@
-var mnemonic = "drama fossil model retreat rail need alter slide know dutch donor dolphin";
+var mnemonic = "royal glimpse carpet warfare affair toilet close rebel open flavor pigeon sphere";

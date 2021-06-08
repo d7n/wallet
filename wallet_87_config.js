@@ -1,1 +1,1 @@
-var mnemonic = "reveal rose tribe upon army seat stable black fiscal debate dignity paddle";
+var mnemonic = "pelican prosper box elephant thumb myself fresh high tone dinner relief blur";

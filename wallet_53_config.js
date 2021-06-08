@@ -1,1 +1,1 @@
-var mnemonic = "talk suit inspire priority odor drill already aunt test tiny kit leisure";
+var mnemonic = "cart van sort pledge must team curve kitchen wing nose gloom perfect";

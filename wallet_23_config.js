@@ -1,1 +1,1 @@
-var mnemonic = "toy horse chimney prefer dinner lift rigid net course nut stick exhibit";
+var mnemonic = "gas dutch flavor pull job another melt depart kitten tag usual catch";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen mosquito old nose polar vanish educate fog again measure pipe expand";
+var mnemonic = "bulb horror chief logic vapor disagree north knife little bright mixture figure";

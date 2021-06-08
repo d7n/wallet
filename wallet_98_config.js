@@ -1,1 +1,1 @@
-var mnemonic = "multiply chaos window sail dance cargo nuclear zebra bulk banana resemble repair";
+var mnemonic = "rapid drip hour february liberty high police they response satoshi sea congress";

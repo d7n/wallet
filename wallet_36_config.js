@@ -1,1 +1,1 @@
-var mnemonic = "arrest gift dolphin cigar social solar slight lobster exile shrimp autumn curtain";
+var mnemonic = "soup retire action garlic talk trip depart win table attend student merge";

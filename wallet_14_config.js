@@ -1,1 +1,1 @@
-var mnemonic = "pioneer chimney wide tower firm debris lucky tomato track awkward what luggage";
+var mnemonic = "strong east ready bulk pitch upon crop peace recall choose shallow symbol";

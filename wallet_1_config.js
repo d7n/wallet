@@ -1,1 +1,1 @@
-var mnemonic = "place spot symbol where subject final rifle silent coil outside dilemma spot";
+var mnemonic = "wise shrug sell force pattern script resist just address clap coyote doll";

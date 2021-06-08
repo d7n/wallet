@@ -1,1 +1,1 @@
-var mnemonic = "boat ride offer spirit mad damp fine give occur roast dune sadness";
+var mnemonic = "type aware differ ranch harsh frog cover consider nothing strategy dog prosper";

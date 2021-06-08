@@ -1,1 +1,1 @@
-var mnemonic = "custom involve use athlete expose mesh flavor find faith noise brain pact";
+var mnemonic = "city silk document verify page rocket oyster play tornado enhance spell practice";

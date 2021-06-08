@@ -1,1 +1,1 @@
-var mnemonic = "surge pottery target protect first seminar pig frost guilt expect margin click";
+var mnemonic = "runway word old crazy front spot destroy love then chat plunge review";

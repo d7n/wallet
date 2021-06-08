@@ -1,1 +1,1 @@
-var mnemonic = "cannon poem erosion mother produce explain fiction purity team car cry profit";
+var mnemonic = "session move filter critic spray shy forest tobacco duty brother wife embrace";

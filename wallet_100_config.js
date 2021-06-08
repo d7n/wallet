@@ -1,1 +1,1 @@
-var mnemonic = "cannon spoil game habit super noodle insane absent theory curve leisure click";
+var mnemonic = "jump measure despair now funny book become thunder shine elephant clerk cube";

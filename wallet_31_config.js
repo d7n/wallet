@@ -1,1 +1,1 @@
-var mnemonic = "ancient satoshi must alley conduct raw vessel fan behind voyage whale glove";
+var mnemonic = "edge regular tumble smart energy correct certain rapid success immense layer crane";

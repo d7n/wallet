@@ -1,1 +1,1 @@
-var mnemonic = "smooth album such blind grow hover basket blouse usage cushion oyster flip";
+var mnemonic = "long secret hole under enjoy news spin black lonely olympic present blood";

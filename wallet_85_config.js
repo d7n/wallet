@@ -1,1 +1,1 @@
-var mnemonic = "valid token surge core skin mask across machine slush hotel twelve memory";
+var mnemonic = "orbit mushroom ankle essence gaze wink choose torch bomb equip idle laugh";

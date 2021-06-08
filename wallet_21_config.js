@@ -1,1 +1,1 @@
-var mnemonic = "gallery credit soft page urban time payment panther obey delay you weekend";
+var mnemonic = "property reunion eternal bridge unit mad tackle loan ten upper square special";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis lesson oven prefer despair rough certain south noodle cover stereo south";
+var mnemonic = "margin item room dash cloud keen behind tank rain bus skull shrimp";

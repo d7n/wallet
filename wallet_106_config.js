@@ -1,1 +1,1 @@
-var mnemonic = "legend creek kit rose indicate warm cheap theme theory bring ugly actual";
+var mnemonic = "winner border essay parent brain disorder cluster cinnamon silver deposit loud angry";

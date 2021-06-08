@@ -1,1 +1,1 @@
-var mnemonic = "super vibrant finger smooth front tackle ghost silk kidney typical nation decide";
+var mnemonic = "shuffle moon flat pilot dinner desk media voice area bone wear tattoo";

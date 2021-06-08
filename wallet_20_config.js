@@ -1,1 +1,1 @@
-var mnemonic = "all license dirt isolate busy orient file victory empower patrol immune what";
+var mnemonic = "wagon that camp gather sauce bitter spray kind grant border what tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon venture glare awful scatter fee note prize possible soul snake mixed";
+var mnemonic = "tuition hood donor saddle write nest wall original image domain reopen skull";

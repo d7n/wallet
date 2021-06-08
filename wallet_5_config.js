@@ -1,1 +1,1 @@
-var mnemonic = "nuclear kiwi pioneer spell concert current wisdom fancy hollow between drift clarify";
+var mnemonic = "enroll enforce fragile deputy exist crystal verb video apology curtain between donate";

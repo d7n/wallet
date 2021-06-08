@@ -1,1 +1,1 @@
-var mnemonic = "smile invest winter patch invite someone want capital black icon clean crazy";
+var mnemonic = "alley team jeans desert actress tiny net shadow favorite silk void hidden";

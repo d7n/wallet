@@ -1,1 +1,1 @@
-var mnemonic = "wash seed creek arrange lyrics diagram angle point repeat canoe quantum distance";
+var mnemonic = "diamond path polar mind man aspect swift thunder moon weasel camp slogan";

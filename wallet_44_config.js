@@ -1,1 +1,1 @@
-var mnemonic = "clog smooth build cluster junk false audit legal genuine gap make box";
+var mnemonic = "click aim notable angle suffer else december brand age feel siege stand";

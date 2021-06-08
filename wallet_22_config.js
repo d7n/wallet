@@ -1,1 +1,1 @@
-var mnemonic = "flush excess purchase reward fuel shadow gate custom walk initial shoot panda";
+var mnemonic = "legend gaze mansion pepper sauce young category speak ecology awake blur gift";

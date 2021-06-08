@@ -1,1 +1,1 @@
-var mnemonic = "donkey inspire involve day sister assist want jazz ivory grit regular obtain";
+var mnemonic = "forget hello just infant erode same script bird achieve exchange text mechanic";

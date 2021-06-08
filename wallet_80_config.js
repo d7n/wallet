@@ -1,1 +1,1 @@
-var mnemonic = "health soccer suggest divorce oak foster crystal stay busy harbor minute spatial";
+var mnemonic = "knee cotton review swap short give oak shiver valid rescue today police";

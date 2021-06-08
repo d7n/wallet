@@ -1,1 +1,1 @@
-var mnemonic = "ethics pilot domain pond early initial gallery image picnic oval news elbow";
+var mnemonic = "cable wing gallery dumb broken island ring govern two suffer envelope frame";

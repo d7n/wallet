@@ -1,1 +1,1 @@
-var mnemonic = "small once vicious fame discover autumn hat script elevator hard scale humble";
+var mnemonic = "wash response consider half giant meat promote disagree quantum garment tenant pair";

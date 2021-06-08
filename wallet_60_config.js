@@ -1,1 +1,1 @@
-var mnemonic = "snap drink nasty happy apple inmate guide pottery parent code doll cigar";
+var mnemonic = "crumble damp culture own pink merge olympic vessel angle such soon rely";

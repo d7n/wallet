@@ -1,1 +1,1 @@
-var mnemonic = "circle major chef entire electric hello grunt tiny arena spice cement range";
+var mnemonic = "venue gun neither scare nothing method quality strategy address relief illness mass";

@@ -1,1 +1,1 @@
-var mnemonic = "scale stove victory spread march marriage high shaft rigid goose purse educate";
+var mnemonic = "weather domain giant rose just once debate inflict heart tenant divert siege";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney gasp empty december banner loan essence core struggle rough two drift";
+var mnemonic = "pyramid hurt loan seat portion kite hammer frozen kiwi aunt dove guess";

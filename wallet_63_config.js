@@ -1,1 +1,1 @@
-var mnemonic = "toward hello vault cover cage unknown wait pill border fit weird bone";
+var mnemonic = "wild glory unhappy worry move loyal furnace group act near acid enemy";

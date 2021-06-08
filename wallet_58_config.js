@@ -1,1 +1,1 @@
-var mnemonic = "turtle service tired loud metal spider cinnamon space rally among throw math";
+var mnemonic = "reason yard tomorrow father recycle album toss hour table banner amazing pear";

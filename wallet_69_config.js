@@ -1,1 +1,1 @@
-var mnemonic = "tunnel afraid spawn enroll screen burst frozen only denial farm attend hello";
+var mnemonic = "rude promote find beef code segment blade tired antique swing bitter correct";

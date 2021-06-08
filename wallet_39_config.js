@@ -1,1 +1,1 @@
-var mnemonic = "eagle tomorrow spell analyst stamp sorry few return wide diet define stairs";
+var mnemonic = "spend erode hockey grow fetch swift song bus notable final print finish";

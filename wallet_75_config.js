@@ -1,1 +1,1 @@
-var mnemonic = "picture glory enough mother moral fever tomorrow forward trust birth history hobby";
+var mnemonic = "dawn exchange bulk bring soccer square angle alpha denial belt quick trade";

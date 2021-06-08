@@ -1,1 +1,1 @@
-var mnemonic = "gas melt elite tree grit thunder found century volume unfair angle donkey";
+var mnemonic = "credit fog access wait acquire length dinner stamp kit doll ostrich pet";

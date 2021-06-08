@@ -1,1 +1,1 @@
-var mnemonic = "congress kiss owner marine model dawn sugar method now above kid consider";
+var mnemonic = "document anxiety rather night fuel biology predict example lazy lift panic spy";

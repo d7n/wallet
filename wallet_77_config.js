@@ -1,1 +1,1 @@
-var mnemonic = "bubble promote city toast devote anchor river boost water accident age alarm";
+var mnemonic = "material moment stem exclude cigar treat game dress update chest double verify";

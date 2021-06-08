@@ -1,1 +1,1 @@
-var mnemonic = "bulk glad finish witness loan name quiz purchase ski solid achieve inform";
+var mnemonic = "fix surround album wrestle flight labor cigar march wrestle lens color load";

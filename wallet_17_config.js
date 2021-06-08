@@ -1,1 +1,1 @@
-var mnemonic = "autumn spice lecture milk used avoid attitude filter few black try coil";
+var mnemonic = "burst witness fluid work strong script prosper sand identify chat summer lemon";

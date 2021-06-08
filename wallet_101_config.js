@@ -1,1 +1,1 @@
-var mnemonic = "across explain online leg pupil senior alien trust lobster travel rival text";
+var mnemonic = "often point dumb shell devote slight grow scrub day level saddle youth";

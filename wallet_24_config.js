@@ -1,1 +1,1 @@
-var mnemonic = "oblige update math stem priority absent glide negative excite mechanic cherry vibrant";
+var mnemonic = "direct man stomach gravity embark skate joke popular almost jealous corn plastic";

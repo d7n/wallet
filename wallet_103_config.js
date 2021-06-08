@@ -1,1 +1,1 @@
-var mnemonic = "riot walnut work throw abandon cheese alley reduce flight novel rich image";
+var mnemonic = "mixture invite card vote powder dial forward life capital nominee gentle laptop";

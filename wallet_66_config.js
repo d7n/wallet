@@ -1,1 +1,1 @@
-var mnemonic = "record accuse sight light walk drama fly brick master cannon that movie";
+var mnemonic = "essence calm coyote eye state drop route glue arena toward confirm security";

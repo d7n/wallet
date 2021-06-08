@@ -1,1 +1,1 @@
-var mnemonic = "attend waste lawn boy ride color tuna desert cup moment sick boring";
+var mnemonic = "upset orbit glue acoustic smoke review mimic episode earn raccoon decade reunion";

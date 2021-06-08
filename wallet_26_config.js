@@ -1,1 +1,1 @@
-var mnemonic = "axis diet airport ginger budget text canyon silly tackle head dove analyst";
+var mnemonic = "element over shop hover warfare end detect service phone duty present any";

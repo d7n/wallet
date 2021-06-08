@@ -1,1 +1,1 @@
-var mnemonic = "mobile energy machine across run pass rough loop work problem seminar tourist";
+var mnemonic = "draw glare faint tribe ladder spoil nothing behave bird chunk shoot drum";

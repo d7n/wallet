@@ -1,1 +1,1 @@
-var mnemonic = "board canyon deposit umbrella sentence crew soup hungry liar arm gather audit";
+var mnemonic = "dismiss hundred mixture rail sail hold veteran guard poet any bus treat";

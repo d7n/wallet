@@ -1,1 +1,1 @@
-var mnemonic = "grain purity tumble sleep vast relief act liquid keep derive weapon hawk";
+var mnemonic = "warfare uniform abandon hollow lava copper chapter nominee mistake draft wrestle goose";

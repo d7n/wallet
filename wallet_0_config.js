@@ -1,1 +1,1 @@
-var mnemonic = "clog critic car reject kiwi lumber harvest couch child coach suggest bachelor";
+var mnemonic = "web borrow price oil cycle frown birth snow lesson fever city cloth";

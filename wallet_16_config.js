@@ -1,1 +1,1 @@
-var mnemonic = "wonder frozen awake settle toddler split gadget kid narrow fame program fine";
+var mnemonic = "perfect tide arrow reduce square impact magic swap ask tag alert outside";

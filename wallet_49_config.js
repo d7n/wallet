@@ -1,1 +1,1 @@
-var mnemonic = "boat leaf hard auto apology another sorry envelope mammal stadium make glimpse";
+var mnemonic = "iron enhance dish tower marine crash harvest lawsuit sorry busy purchase frame";

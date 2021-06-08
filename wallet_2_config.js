@@ -1,1 +1,1 @@
-var mnemonic = "meat spike carpet square reason exact adult balcony crisp rebel safe census";
+var mnemonic = "ring traffic penalty monster magic regular social hour renew urge curious subject";

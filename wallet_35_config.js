@@ -1,1 +1,1 @@
-var mnemonic = "garden torch tobacco ice merge argue train slender market garlic riot modify";
+var mnemonic = "leg blade tip list destroy neither century then lucky must lucky couch";

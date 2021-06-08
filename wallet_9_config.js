@@ -1,1 +1,1 @@
-var mnemonic = "start diamond flag enemy deal dignity hope similar mimic skill ready medal";
+var mnemonic = "service license another slim glide era try moral gallery govern identify caught";
