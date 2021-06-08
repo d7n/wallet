@@ -1,1 +1,1 @@
-var mnemonic = "foam mail parrot delay later ecology champion fix cram empty flip copper";
+var mnemonic = "farm exist ridge feel fiction resemble little uncover possible soon reveal powder";

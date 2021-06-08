@@ -1,1 +1,1 @@
-var mnemonic = "history fork deputy wine ordinary unlock inhale holiday smoke spot hint tissue";
+var mnemonic = "rate glance party turn sheriff lava defy nurse fiction describe wine battle";

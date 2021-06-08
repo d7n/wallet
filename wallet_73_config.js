@@ -1,1 +1,1 @@
-var mnemonic = "resource alpha student useless scan excuse angry praise tree asset hover reopen";
+var mnemonic = "discover damage tool swim amount scene venue summer sock pair curious sign";

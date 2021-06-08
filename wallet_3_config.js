@@ -1,1 +1,1 @@
-var mnemonic = "armed squirrel rice course shine banner nerve fix owner video indoor color";
+var mnemonic = "benefit tortoise name art another extra group song lawn pond envelope alcohol";

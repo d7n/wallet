@@ -1,1 +1,1 @@
-var mnemonic = "veteran place able warfare garment fame salute rural hawk toy south combine";
+var mnemonic = "dove hurry aunt enable asthma famous raw rebuild quit midnight minor hole";

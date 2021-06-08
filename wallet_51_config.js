@@ -1,1 +1,1 @@
-var mnemonic = "repeat vapor above timber feel tumble meadow cloth only thing cargo merry";
+var mnemonic = "sugar phrase elite inner swing eye know advance cost sketch couple lion";

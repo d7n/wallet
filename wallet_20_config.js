@@ -1,1 +1,1 @@
-var mnemonic = "position resource cricket aerobic chief goose lesson rent achieve vivid seed cage";
+var mnemonic = "double boss crew close satoshi finger net bean shine joke pumpkin try";

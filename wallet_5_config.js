@@ -1,1 +1,1 @@
-var mnemonic = "sail plastic lumber anxiety kitten visit book once inch addict skirt rate";
+var mnemonic = "spawn hire chief apology animal spider safe knife ill inherit mom smoke";

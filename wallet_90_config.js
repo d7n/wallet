@@ -1,1 +1,1 @@
-var mnemonic = "addict trash shove have review cotton idea arch case grape floor improve";
+var mnemonic = "remain phrase rent lend ribbon lesson update order trust giant twelve tonight";

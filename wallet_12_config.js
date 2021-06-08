@@ -1,1 +1,1 @@
-var mnemonic = "gap duck auto know plug island around enjoy congress draft holiday harsh";
+var mnemonic = "check crisp leisure tuna tray siren cherry swing gift key phrase crush";

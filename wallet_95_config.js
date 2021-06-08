@@ -1,1 +1,1 @@
-var mnemonic = "section miss boy urban situate video love pizza ahead clarify leader exact";
+var mnemonic = "maximum east area echo fee funny media river place wrestle oil elder";

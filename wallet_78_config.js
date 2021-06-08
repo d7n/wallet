@@ -1,1 +1,1 @@
-var mnemonic = "miracle sure task stairs buzz charge august candy answer judge weather suspect";
+var mnemonic = "rebuild dizzy amount coast engage girl walk gesture hero peasant wheat pepper";

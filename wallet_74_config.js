@@ -1,1 +1,1 @@
-var mnemonic = "puppy lunch lumber acoustic bleak ski recycle easily season ordinary destroy rug";
+var mnemonic = "finger glow math ready fitness arena spice tiger expose danger pill never";

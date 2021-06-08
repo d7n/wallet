@@ -1,1 +1,1 @@
-var mnemonic = "drastic chaos sign flip accuse hidden miracle stem core deny despair better";
+var mnemonic = "miss bid sad unhappy age clarify alter juice muffin sword project term";

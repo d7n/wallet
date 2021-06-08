@@ -1,1 +1,1 @@
-var mnemonic = "kiwi below zoo tonight whip obvious response source swear seed silent boring";
+var mnemonic = "check thrive identify lucky hazard aerobic strong era flight subject kite blind";

@@ -1,1 +1,1 @@
-var mnemonic = "rice liar raise rent small social focus boost gospel essay time differ";
+var mnemonic = "absent coach raw blast bean ten first unfair cereal forum menu peace";

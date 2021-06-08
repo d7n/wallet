@@ -1,1 +1,1 @@
-var mnemonic = "lift tray craft weapon robust okay diesel setup exhaust chair mushroom oak";
+var mnemonic = "dash snake fluid elder cat mind hard bean scatter half puzzle blue";

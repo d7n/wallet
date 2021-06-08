@@ -1,1 +1,1 @@
-var mnemonic = "universe lawn face horn cement sense slab maid comfort trick river apology";
+var mnemonic = "civil repeat round person swarm profit saddle library daughter lab scare lunch";

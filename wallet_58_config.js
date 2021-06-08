@@ -1,1 +1,1 @@
-var mnemonic = "glory spread obvious settle ethics shy dismiss screen turn utility shallow debris";
+var mnemonic = "start baby apart involve myth saddle forward guilt sea elephant truck accuse";

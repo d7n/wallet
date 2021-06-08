@@ -1,1 +1,1 @@
-var mnemonic = "stool ranch velvet illegal assault despair north coach very hurdle swear mountain";
+var mnemonic = "body crop surprise mask base pitch enable crater edge nice short universe";

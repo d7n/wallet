@@ -1,1 +1,1 @@
-var mnemonic = "cement airport term order mutual image bottom vehicle strategy goose live old";
+var mnemonic = "morning frost myself account sugar category crack dash priority old subway twin";

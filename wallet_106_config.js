@@ -1,1 +1,1 @@
-var mnemonic = "wild guess glory movie sell motion silent drive satoshi regular tennis silent";
+var mnemonic = "tiny egg above slow beach seminar melody deputy pottery clean blouse civil";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce horror gain search stairs zone noodle grab enter present run assault";
+var mnemonic = "also stomach lesson oyster warrior sad help magnet aunt salon exercise uniform";

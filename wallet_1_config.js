@@ -1,1 +1,1 @@
-var mnemonic = "rigid behind grocery spoil pole vibrant faith ribbon magic when forest rude";
+var mnemonic = "near final october parent pluck extend relief pave poem guide ginger wire";

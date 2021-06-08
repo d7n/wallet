@@ -1,1 +1,1 @@
-var mnemonic = "maid thank parrot behind cook negative smooth dice advice park gas carry";
+var mnemonic = "toe spike crouch pact error metal walk mansion solar tilt flight praise";

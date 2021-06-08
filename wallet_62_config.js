@@ -1,1 +1,1 @@
-var mnemonic = "stem visit leisure metal repeat pride hunt spatial tag essence grape include";
+var mnemonic = "enter physical cousin blade neck either canal device inflict isolate tenant sniff";

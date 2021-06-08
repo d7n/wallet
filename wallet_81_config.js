@@ -1,1 +1,1 @@
-var mnemonic = "black valve pipe kitchen recycle tilt luggage enter panel edge peace error";
+var mnemonic = "until matter patrol dumb canyon ill food lottery tell focus focus fire";

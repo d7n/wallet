@@ -1,1 +1,1 @@
-var mnemonic = "shove master differ climb erosion rough hospital side distance ordinary wing region";
+var mnemonic = "album bike speak ski piece knife dizzy include bring tragic engage reopen";

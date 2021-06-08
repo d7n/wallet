@@ -1,1 +1,1 @@
-var mnemonic = "ski develop advice before effort next distance robust devote copper roast chief";
+var mnemonic = "weapon subject buzz clay merge leave need fine vicious copper used brand";

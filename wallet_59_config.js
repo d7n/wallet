@@ -1,1 +1,1 @@
-var mnemonic = "blood gospel proof scatter tape alien engage staff print symptom pave analyst";
+var mnemonic = "moral used science thing desert scorpion ship engine subway bone pair music";

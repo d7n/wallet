@@ -1,1 +1,1 @@
-var mnemonic = "surround first ranch trend wine trial parent trip disagree stool since dash";
+var mnemonic = "choose runway patient aisle hello garbage bonus vicious exclude wet genius dog";

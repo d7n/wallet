@@ -1,1 +1,1 @@
-var mnemonic = "sea side film nothing dignity always light when chief fossil cry egg";
+var mnemonic = "position resist annual clap build forum carry choice metal sort payment economy";

@@ -1,1 +1,1 @@
-var mnemonic = "boil please impact harsh play kick type shoe affair axis easily rabbit";
+var mnemonic = "decorate merit benefit belt dinner cabbage camera pool review boost universe unfold";

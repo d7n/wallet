@@ -1,1 +1,1 @@
-var mnemonic = "convince unveil equip cloth cool fog summer chunk alien coyote forward spirit";
+var mnemonic = "token legal defense drink autumn debate wage top orbit elephant attract sure";

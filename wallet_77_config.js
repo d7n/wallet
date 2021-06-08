@@ -1,1 +1,1 @@
-var mnemonic = "news symbol focus connect have glad hamster fix goose camera pupil glide";
+var mnemonic = "enable champion concert gaze report code crew forward anchor village latin prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "shell power wine urge sure globe exhaust portion enact inflict crowd pride";
+var mnemonic = "scan knee topple clean convince clarify hair cash vacuum found erase derive";

@@ -1,1 +1,1 @@
-var mnemonic = "resist idle dash woman panic response soft obey rent twist car public";
+var mnemonic = "window glimpse section later swing asset antenna diamond horror scrap next project";

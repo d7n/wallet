@@ -1,1 +1,1 @@
-var mnemonic = "close skate rent clinic dutch name special avoid anchor own critic draw";
+var mnemonic = "provide fork popular witness use agree will ball hover vehicle emotion over";

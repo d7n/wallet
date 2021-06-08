@@ -1,1 +1,1 @@
-var mnemonic = "wheel tomato knock tobacco damp still tennis true acid solve panther circle";
+var mnemonic = "comic deputy table sphere ring air riot bomb sheriff body rifle dish";

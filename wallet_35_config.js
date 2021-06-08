@@ -1,1 +1,1 @@
-var mnemonic = "stone because armed door limit surface syrup drop twenty wood rocket kid";
+var mnemonic = "game rabbit display force harbor carbon goose main reward merry card wisdom";

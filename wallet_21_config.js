@@ -1,1 +1,1 @@
-var mnemonic = "unlock spawn gospel fox employ attitude neglect barely noise trumpet donor garment";
+var mnemonic = "seven buyer wine peace upper item gain arctic canvas flame lottery stage";

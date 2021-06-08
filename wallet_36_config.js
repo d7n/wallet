@@ -1,1 +1,1 @@
-var mnemonic = "season bullet rail sting twelve seek submit outside bounce object sphere one";
+var mnemonic = "decade razor planet alien review change during ivory wrong able short image";

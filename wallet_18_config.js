@@ -1,1 +1,1 @@
-var mnemonic = "mercy basket erase special brain vicious focus prison balcony rival angle cat";
+var mnemonic = "neutral border water dentist seek mean estate unlock case blanket grant green";

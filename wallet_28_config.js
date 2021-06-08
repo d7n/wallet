@@ -1,1 +1,1 @@
-var mnemonic = "argue slide imitate razor edit extra half doll spy yard cheese portion";
+var mnemonic = "move indicate duty nature giant oyster skin try fade bitter onion thought";

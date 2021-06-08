@@ -1,1 +1,1 @@
-var mnemonic = "clerk joy enemy theme noble bid sniff save advance lend neglect foam";
+var mnemonic = "nation chest meadow shadow amazing pilot cruise biology noble flush embrace bargain";

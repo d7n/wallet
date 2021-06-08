@@ -1,1 +1,1 @@
-var mnemonic = "hover unhappy blood sing biology obtain piano avoid option napkin region nominee";
+var mnemonic = "miss buddy practice enrich social hurry because target art club shy fence";

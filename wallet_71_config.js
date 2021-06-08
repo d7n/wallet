@@ -1,1 +1,1 @@
-var mnemonic = "immune plug cat essence sand plug tide board embody humble hockey tennis";
+var mnemonic = "glance worth luggage wage twelve album easy clean spice frozen replace country";

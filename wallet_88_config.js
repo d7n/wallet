@@ -1,1 +1,1 @@
-var mnemonic = "menu fault credit meadow squirrel science fantasy office visa wild beef life";
+var mnemonic = "together tooth retire monitor ensure left add endless figure limb tomorrow address";

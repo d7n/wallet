@@ -1,1 +1,1 @@
-var mnemonic = "pave tell witness input wisdom narrow hundred grass dog toast sunset educate";
+var mnemonic = "river fit enable slice day attack spin erupt goddess mansion humble creek";

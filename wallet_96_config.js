@@ -1,1 +1,1 @@
-var mnemonic = "mixture essay combine crawl trend virtual melody knife outside suggest online anger";
+var mnemonic = "fantasy asthma detail merge convince alter risk cave excite wash check visit";

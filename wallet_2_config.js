@@ -1,1 +1,1 @@
-var mnemonic = "rack drum only permit excess exact bone ticket march brother idea chaos";
+var mnemonic = "chicken rib volume region loyal flip start search device antique kiwi orphan";

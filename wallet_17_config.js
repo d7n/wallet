@@ -1,1 +1,1 @@
-var mnemonic = "torch ritual flower swallow visa address three sugar nerve toddler novel onion";
+var mnemonic = "shed female clump farm forum frozen eagle oval cabin meadow owner enough";

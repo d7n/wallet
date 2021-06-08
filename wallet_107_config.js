@@ -1,1 +1,1 @@
-var mnemonic = "palm acoustic error hill dune approve boil lizard harvest burden mixed nice";
+var mnemonic = "matrix tiger toy client ginger lyrics junior coach inside elevator job spice";

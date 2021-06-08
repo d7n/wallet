@@ -1,1 +1,1 @@
-var mnemonic = "clip endless cruise ketchup piano vault skull zebra dentist begin angry input";
+var mnemonic = "siege champion planet void island will provide rare cross reform toy category";

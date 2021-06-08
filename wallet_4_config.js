@@ -1,1 +1,1 @@
-var mnemonic = "biology mutual belt resist animal autumn rubber easy affair tone wing upset";
+var mnemonic = "answer soon cereal blame party search tuna library help pig erase blur";

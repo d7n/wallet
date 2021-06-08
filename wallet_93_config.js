@@ -1,1 +1,1 @@
-var mnemonic = "lemon club bulb person among cram soap choice scout remove stage napkin";
+var mnemonic = "oblige robust wagon penalty melt comfort finger catalog physical enemy advance sign";

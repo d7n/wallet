@@ -1,1 +1,1 @@
-var mnemonic = "slim obvious kiss lounge trash soft tilt shock brother process deal wise";
+var mnemonic = "major gym square ticket punch supreme layer devote merry sock jungle shop";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel effort useless salad figure enact keep flame brown timber genuine ocean";
+var mnemonic = "dwarf hedgehog hamster obey velvet behind involve devote stone margin toy soup";

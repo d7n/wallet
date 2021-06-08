@@ -1,1 +1,1 @@
-var mnemonic = "permit nephew gun evidence again cousin earn crystal high used face bench";
+var mnemonic = "creek fault spike apology prison kingdom damage biology sing identify various suit";

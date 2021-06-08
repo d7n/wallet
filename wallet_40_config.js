@@ -1,1 +1,1 @@
-var mnemonic = "novel scrub enemy asset faith install salad fetch demand arrive race right";
+var mnemonic = "debris mosquito field garden border you can kiss dirt cigar effort obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "age upset rack silk innocent bid talk uphold abuse miracle balance curious";
+var mnemonic = "vacuum glance bag mobile source subway firm lonely capable fat flip sing";

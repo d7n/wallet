@@ -1,1 +1,1 @@
-var mnemonic = "host happy team tongue lounge trigger primary security click curve stem drift";
+var mnemonic = "alter dutch consider ritual leisure skin excuse weather wine patient lemon chicken";

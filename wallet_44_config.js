@@ -1,1 +1,1 @@
-var mnemonic = "fossil ecology ready friend then present maximum nephew replace plug paper inner";
+var mnemonic = "wool impact use hotel put cook someone curious danger mandate romance token";

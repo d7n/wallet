@@ -1,1 +1,1 @@
-var mnemonic = "beach olympic twice write team multiply diamond universe broccoli exclude monster state";
+var mnemonic = "vendor team fly flag powder mandate present proud deposit album time damage";

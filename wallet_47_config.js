@@ -1,1 +1,1 @@
-var mnemonic = "vague clown way very term doctor bachelor alcohol monster pride evoke occur";
+var mnemonic = "hurdle all process fabric face unusual bird aspect hidden tunnel reunion syrup";

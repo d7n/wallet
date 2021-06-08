@@ -1,1 +1,1 @@
-var mnemonic = "tumble total brisk vendor issue cousin slim now mobile gentle morning cable";
+var mnemonic = "vintage oxygen force arrange vote already spirit must embody crumble abandon off";

@@ -1,1 +1,1 @@
-var mnemonic = "melt blanket monster proud detail current fiscal live maid material entire olympic";
+var mnemonic = "budget decide transfer office thank desk quality actual napkin wet mammal order";

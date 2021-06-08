@@ -1,1 +1,1 @@
-var mnemonic = "wrestle another fruit pattern desert desert depth cost bid hidden burden during";
+var mnemonic = "hospital two absent visa duck pipe impose giant expose noise correct apology";

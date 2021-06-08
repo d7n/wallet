@@ -1,1 +1,1 @@
-var mnemonic = "cluster auto misery acquire reward tumble client hunt zoo corn noodle security";
+var mnemonic = "bless brush eagle minimum buzz lounge route kiwi quick sniff vibrant brother";

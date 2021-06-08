@@ -1,1 +1,1 @@
-var mnemonic = "hand cannon combine bike pigeon wool flee walk census sad topple sand";
+var mnemonic = "walnut bread piece crunch barely feed copper chapter prosper canoe side cloud";

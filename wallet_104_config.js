@@ -1,1 +1,1 @@
-var mnemonic = "shoe shine prefer ozone insect head master birth cart jaguar noodle grief";
+var mnemonic = "miss citizen iron bean city senior fresh advice copy clay math gold";

@@ -1,1 +1,1 @@
-var mnemonic = "atom ready elegant juice front antique walnut now resist twin party festival";
+var mnemonic = "warrior diamond erupt lion story plunge base couple desert dirt gravity busy";

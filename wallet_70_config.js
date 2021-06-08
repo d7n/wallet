@@ -1,1 +1,1 @@
-var mnemonic = "camp food supreme physical inmate beach shrug seek blossom beyond main car";
+var mnemonic = "organ then impact rookie staff monitor illness private shuffle bunker book equal";

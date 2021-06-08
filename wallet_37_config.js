@@ -1,1 +1,1 @@
-var mnemonic = "alarm enjoy about minute slot fog huge sight charge desk soft surface";
+var mnemonic = "direct muscle main exact casino large glove cup female patch game update";

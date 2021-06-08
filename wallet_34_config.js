@@ -1,1 +1,1 @@
-var mnemonic = "scatter matter stone atom hope height half family frame begin head device";
+var mnemonic = "ethics claim viable sentence coconut casino orphan fiber budget inform hotel top";

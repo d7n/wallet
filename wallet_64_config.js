@@ -1,1 +1,1 @@
-var mnemonic = "genius glimpse enough online faculty useless reform orchard fatigue brother hat pet";
+var mnemonic = "abstract post stereo wall decide bargain income oak melody lunar winter skin";

@@ -1,1 +1,1 @@
-var mnemonic = "joy street clarify afford over slogan sting mosquito awkward crush royal scrap";
+var mnemonic = "twenty blue citizen host stem reason kangaroo economy later arrive toss cook";

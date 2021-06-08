@@ -1,1 +1,1 @@
-var mnemonic = "load tent frost drama drift hammer explain emotion confirm sibling raise boil";
+var mnemonic = "helmet struggle cluster loyal matrix useless armed chase desk vehicle lyrics dignity";

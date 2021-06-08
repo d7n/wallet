@@ -1,1 +1,1 @@
-var mnemonic = "marine radio camp idea mosquito swing cram bullet say car uncover turkey";
+var mnemonic = "boss jelly provide neglect trigger rotate clap boss logic case end spell";

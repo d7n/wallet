@@ -1,1 +1,1 @@
-var mnemonic = "gas twice certain gas cart scout must flag auto wise company bargain";
+var mnemonic = "clerk meadow drum this cabbage polar strike also civil tag story inch";

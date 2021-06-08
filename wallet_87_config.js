@@ -1,1 +1,1 @@
-var mnemonic = "truck rely swallow bright insect judge any share exact install pyramid wonder";
+var mnemonic = "purchase sorry final copy cable genius alter ride door uncover mule nation";

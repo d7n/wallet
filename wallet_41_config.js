@@ -1,1 +1,1 @@
-var mnemonic = "slender final slush clerk doctor hospital safe urban churn fine spike final";
+var mnemonic = "bean punch life lesson grace churn fit surprise grief math hobby cheese";

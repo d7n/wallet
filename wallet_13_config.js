@@ -1,1 +1,1 @@
-var mnemonic = "clean detect conduct evil ahead submit shoulder visual dizzy bachelor stone voyage";
+var mnemonic = "zebra party item voyage corn snow choice cook route siren skate frog";

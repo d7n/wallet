@@ -1,1 +1,1 @@
-var mnemonic = "flame knee load proud copy window engine soccer donor comfort menu cable";
+var mnemonic = "hotel doll acoustic chat yellow tank awake flight mosquito pistol fan essence";

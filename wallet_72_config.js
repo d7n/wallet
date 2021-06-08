@@ -1,1 +1,1 @@
-var mnemonic = "camp issue dad glove tourist cash teach play urge allow lift mechanic";
+var mnemonic = "lock kiwi novel crouch grit avoid cabbage major demand motor hollow cargo";

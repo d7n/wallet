@@ -1,1 +1,1 @@
-var mnemonic = "warfare gallery grunt toddler slot custom speed mystery snack replace carry faculty";
+var mnemonic = "quit power patient bridge reveal moon neck author dose bunker wedding chest";

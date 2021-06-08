@@ -1,1 +1,1 @@
-var mnemonic = "speed lady merry near october pioneer frost improve ball kick item aspect";
+var mnemonic = "dance multiply neck price major layer document latin wide replace use drift";

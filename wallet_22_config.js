@@ -1,1 +1,1 @@
-var mnemonic = "evolve hobby cargo rotate parade model fat bulb swift blood infant myth";
+var mnemonic = "advance tired section plunge virtual torch expect exile month wing series hockey";

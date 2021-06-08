@@ -1,1 +1,1 @@
-var mnemonic = "seed build few engine among large pumpkin winter idle awful table ankle";
+var mnemonic = "fury garment slice bid return write client spider goat alone grant snake";

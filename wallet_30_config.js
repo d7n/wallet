@@ -1,1 +1,1 @@
-var mnemonic = "usage claim wool sister swamp capable kite define equip panther first net";
+var mnemonic = "emerge torch chat detail share they snap muffin female pause arctic mad";
