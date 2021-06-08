@@ -1,1 +1,1 @@
-var mnemonic = "brother raw curious excess wealth leopard panda deer fiber cube shy beyond";
+var mnemonic = "good hire whip very athlete disease abuse excite orchard pony equip senior";

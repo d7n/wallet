@@ -1,1 +1,1 @@
-var mnemonic = "cupboard kiss raise entire oval crawl hammer desk disorder movie rough rich";
+var mnemonic = "industry warm mimic brass print crater merge impose siren box jar brick";

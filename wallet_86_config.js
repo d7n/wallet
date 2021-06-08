@@ -1,1 +1,1 @@
-var mnemonic = "behind engage siren funny aunt render cabbage nest dynamic tackle clerk desk";
+var mnemonic = "early bike clock rabbit useless bike bundle meadow caution antique famous bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "session finish digital eager bundle pitch monster pelican jelly wing age marble";
+var mnemonic = "major leave subject ostrich lens chase lizard worry hip magic pottery flat";

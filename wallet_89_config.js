@@ -1,1 +1,1 @@
-var mnemonic = "heavy head skull grace index dilemma mad across coral staff chuckle beef";
+var mnemonic = "solid hair sell pear found panel eagle reason pen version resemble knife";

@@ -1,1 +1,1 @@
-var mnemonic = "time write mercy recycle goose major chat slight magnet wife pride image";
+var mnemonic = "nuclear cost raven fun able sight mad pioneer squeeze suspect stone sting";

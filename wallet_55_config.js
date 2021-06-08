@@ -1,1 +1,1 @@
-var mnemonic = "hurry demand lunar pool jar attack wine party offer bind ugly media";
+var mnemonic = "once crumble foam blossom shock build want tail sugar smile metal humor";

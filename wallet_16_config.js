@@ -1,1 +1,1 @@
-var mnemonic = "hobby canoe monkey original cradle beyond visit east primary series table tiger";
+var mnemonic = "update quit reduce hospital action over style earn strategy buzz average robot";

@@ -1,1 +1,1 @@
-var mnemonic = "sister hire crouch spatial shield earth eager point color open runway twice";
+var mnemonic = "curtain panda disease drama toy economy uniform pupil firm caution real chapter";

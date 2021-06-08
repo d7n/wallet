@@ -1,1 +1,1 @@
-var mnemonic = "stem report assault banana weather portion pluck powder cement immense thrive immune";
+var mnemonic = "uniform glove ski law capital current century retire nut corn kind author";

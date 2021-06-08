@@ -1,1 +1,1 @@
-var mnemonic = "link rack liar error trend bird rebuild fat album dose sudden fresh";
+var mnemonic = "welcome diary valley arrive hundred twist weekend gain size height spoil animal";

@@ -1,1 +1,1 @@
-var mnemonic = "enter fragile dumb icon first tilt rib pen settle credit silly undo";
+var mnemonic = "tape east annual wild identify lock assume view tennis soda broken donkey";

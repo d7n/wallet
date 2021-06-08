@@ -1,1 +1,1 @@
-var mnemonic = "item curtain tail father bench kick farm fence search eight bounce egg";
+var mnemonic = "board visa space patch safe clown stairs marble fence steak acoustic ankle";

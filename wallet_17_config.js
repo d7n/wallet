@@ -1,1 +1,1 @@
-var mnemonic = "float battle roast trend front attend exotic awesome main immense field frown";
+var mnemonic = "youth memory civil cream hurry transfer spice scare fabric kidney all wrist";

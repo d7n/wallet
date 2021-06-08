@@ -1,1 +1,1 @@
-var mnemonic = "sphere runway mix enjoy domain share twenty depend ankle jaguar bunker silly";
+var mnemonic = "pencil art host endorse drift collect best east sleep repair enact such";

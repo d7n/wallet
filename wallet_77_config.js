@@ -1,1 +1,1 @@
-var mnemonic = "behind primary club obscure notable fragile love staff ranch twin oil donate";
+var mnemonic = "museum bomb mass online poet end predict crazy veteran bachelor rabbit emerge";

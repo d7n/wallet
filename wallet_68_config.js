@@ -1,1 +1,1 @@
-var mnemonic = "roof pioneer fan reopen chair lock reveal ride fitness code rapid goat";
+var mnemonic = "announce math dream steak person decide hold attack seek resist enlist galaxy";

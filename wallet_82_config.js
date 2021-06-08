@@ -1,1 +1,1 @@
-var mnemonic = "arrow fitness crawl art boss spike couch prize camp trend damage thought";
+var mnemonic = "jazz swift heavy baby author kidney head jelly resource attract hero share";

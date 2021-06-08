@@ -1,1 +1,1 @@
-var mnemonic = "purpose manual alter boss dismiss certain ship pattern sail lemon pudding chronic";
+var mnemonic = "stem erode believe hurry angry bird obtain cause depend chronic harvest submit";

@@ -1,1 +1,1 @@
-var mnemonic = "entire border creek orbit deny tumble tail whip fame dice holiday sound";
+var mnemonic = "expand siren rate hand receive globe stool collect mimic solid online gun";

@@ -1,1 +1,1 @@
-var mnemonic = "slide onion seek air match betray cargo forward two insane lion panther";
+var mnemonic = "toy crane order victory globe cinnamon special patrol rough smooth leaf foil";

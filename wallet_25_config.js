@@ -1,1 +1,1 @@
-var mnemonic = "carry slush north paper element replace copy angry wall gather winter width";
+var mnemonic = "square milk horror planet cement ethics stool sadness stage gossip robot winter";

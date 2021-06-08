@@ -1,1 +1,1 @@
-var mnemonic = "bus behave unveil already void client chase able outer client battle timber";
+var mnemonic = "define latin uniform remember foster gun pair bundle denial cattle dad icon";

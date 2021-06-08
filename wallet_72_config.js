@@ -1,1 +1,1 @@
-var mnemonic = "between spread word question walnut wisdom stable dizzy else dinosaur wagon crush";
+var mnemonic = "motor luggage vicious novel warrior reduce breeze knock glad chicken copper chuckle";

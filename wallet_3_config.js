@@ -1,1 +1,1 @@
-var mnemonic = "stick marriage dial gown fringe zero medal flight draw scale hollow find";
+var mnemonic = "issue man desert cycle key mixture like year problem across stomach range";

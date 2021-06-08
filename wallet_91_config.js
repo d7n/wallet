@@ -1,1 +1,1 @@
-var mnemonic = "sand wash taste wonder lawn practice real explain yard chat cricket speed";
+var mnemonic = "lizard tired window inherit remember hint youth decade round stadium vague name";

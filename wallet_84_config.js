@@ -1,1 +1,1 @@
-var mnemonic = "jacket gap only true tray below arm there fossil peace eyebrow special";
+var mnemonic = "earn dragon learn rug slice hair since total home fashion dust again";

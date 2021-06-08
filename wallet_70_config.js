@@ -1,1 +1,1 @@
-var mnemonic = "early student space window night sugar exercise thank donor slogan fix link";
+var mnemonic = "excuse rotate delay road idea thrive swallow name vacant wheat limb reveal";

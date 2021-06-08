@@ -1,1 +1,1 @@
-var mnemonic = "upset aspect reward lab icon clay share method mass fruit actress recipe";
+var mnemonic = "omit quantum palm upon planet snap give bunker option walk rather valley";

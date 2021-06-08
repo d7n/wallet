@@ -1,1 +1,1 @@
-var mnemonic = "tortoise emotion promote person lazy carbon orphan section retire tumble calm grid";
+var mnemonic = "trap eager purpose burden title abstract category ladder yard upset protect injury";

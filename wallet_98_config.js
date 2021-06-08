@@ -1,1 +1,1 @@
-var mnemonic = "blind angle double such life grant bamboo sail stuff trap web rotate";
+var mnemonic = "seven beach bitter sad outer task husband require message certain visit bargain";

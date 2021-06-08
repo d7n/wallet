@@ -1,1 +1,1 @@
-var mnemonic = "wrestle tip excuse tunnel mimic purse virtual dilemma walk enforce stool shoulder";
+var mnemonic = "license rhythm enroll genre border reopen orange bleak transfer coil bind have";

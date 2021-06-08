@@ -1,1 +1,1 @@
-var mnemonic = "brick alone cactus medal clean august attack coffee gown churn attend repair";
+var mnemonic = "bicycle series buddy talk pole bubble figure differ almost old gift number";

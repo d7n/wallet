@@ -1,1 +1,1 @@
-var mnemonic = "early note estate vibrant bamboo element leader next month demise lucky wonder";
+var mnemonic = "fine price connect casino change inherit belt swallow robot mad glance airport";

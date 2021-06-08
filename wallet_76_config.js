@@ -1,1 +1,1 @@
-var mnemonic = "next wheel envelope thrive later pill unique dune roof deliver trick second";
+var mnemonic = "banana typical live submit marble shove welcome minute critic deputy horn time";

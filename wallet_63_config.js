@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow benefit rough erosion hole horse wisdom cool budget legal usual sword";
+var mnemonic = "network borrow vast spirit hire blossom music glide method charge minimum law";

@@ -1,1 +1,1 @@
-var mnemonic = "blue bounce open year quick leader coconut cook produce split online evolve";
+var mnemonic = "horse employ leg major enter season senior van resist beach fuel pet";

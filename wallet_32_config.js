@@ -1,1 +1,1 @@
-var mnemonic = "skull copy evolve electric next dilemma turn track ensure sister hybrid hungry";
+var mnemonic = "below dumb soap demand trim drive ring anchor stay square jaguar upon";

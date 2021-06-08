@@ -1,1 +1,1 @@
-var mnemonic = "slide tank under kick virus empower meat dial truck local front skate";
+var mnemonic = "spatial sorry only love special ecology then bid hurt school bridge push";

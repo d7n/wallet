@@ -1,1 +1,1 @@
-var mnemonic = "diamond orange maximum grocery foam already cave wife announce sustain thunder midnight";
+var mnemonic = "tunnel noise about diagram join runway disease tide term tonight deposit wrong";

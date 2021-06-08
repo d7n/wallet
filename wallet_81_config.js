@@ -1,1 +1,1 @@
-var mnemonic = "vehicle problem timber easily wide mad alert people add milk marble gentle";
+var mnemonic = "charge reform repeat midnight purity inner ship junior smoke fly spoon remember";

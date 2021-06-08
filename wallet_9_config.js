@@ -1,1 +1,1 @@
-var mnemonic = "idea sock lesson pudding century there fringe gym fitness nuclear twin memory";
+var mnemonic = "allow cargo regular civil concert clock segment medal roof series describe clean";

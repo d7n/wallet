@@ -1,1 +1,1 @@
-var mnemonic = "wage seek violin duck exile hidden glow zero fork medal merit leisure";
+var mnemonic = "length rival bubble make reveal giant charge bitter evidence fury ill toe";

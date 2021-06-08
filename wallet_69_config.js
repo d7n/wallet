@@ -1,1 +1,1 @@
-var mnemonic = "enter practice shallow snake pencil drastic silent mind relax sound shop element";
+var mnemonic = "search gospel fame obey win carry throw cannon innocent save monkey blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive pelican chat noodle half bomb between body possible rival boring combine";
+var mnemonic = "world banana wagon gauge outdoor involve beach random regret moment mesh offer";

@@ -1,1 +1,1 @@
-var mnemonic = "expect differ label jealous island genuine diary gospel kitchen entire royal click";
+var mnemonic = "exist sense alley leave door camp choose mean choice large leisure tissue";

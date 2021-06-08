@@ -1,1 +1,1 @@
-var mnemonic = "flush better arena grief squirrel coil city edge merry thunder slim before";
+var mnemonic = "answer manage ribbon coffee confirm nerve neutral muffin tool target moral among";

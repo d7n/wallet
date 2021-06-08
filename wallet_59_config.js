@@ -1,1 +1,1 @@
-var mnemonic = "athlete obey vanish despair regret obtain ranch coil gain fashion setup boy";
+var mnemonic = "uncle husband smile used pony uniform casino lonely supply cabin state vivid";

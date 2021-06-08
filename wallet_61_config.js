@@ -1,1 +1,1 @@
-var mnemonic = "confirm wage two rebuild name kidney symptom portion squirrel royal element viable";
+var mnemonic = "almost action off mouse penalty mass armor stand clerk goose wide primary";

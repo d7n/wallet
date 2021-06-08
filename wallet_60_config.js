@@ -1,1 +1,1 @@
-var mnemonic = "dentist attract ticket output december school write job mind phone river uncle";
+var mnemonic = "radio catalog cycle decrease giraffe refuse better hard rural sponsor issue few";

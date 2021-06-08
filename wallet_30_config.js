@@ -1,1 +1,1 @@
-var mnemonic = "urban pole there must science empower weasel school lesson rib change risk";
+var mnemonic = "hill oblige leg coral another benefit view output father initial object spirit";

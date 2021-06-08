@@ -1,1 +1,1 @@
-var mnemonic = "virus file sniff night sustain must market hub adapt emerge organ wait";
+var mnemonic = "black main crush weasel any canvas wheel rough news despair boat airport";

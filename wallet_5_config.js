@@ -1,1 +1,1 @@
-var mnemonic = "eagle hollow cheese okay loyal clutch measure supreme divert goat aisle another";
+var mnemonic = "chase outside buyer blame banner garlic hollow wedding cabbage language pass come";

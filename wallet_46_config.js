@@ -1,1 +1,1 @@
-var mnemonic = "border soap barely bounce pencil flag reform setup hammer august word hand";
+var mnemonic = "club scorpion hurry machine bike drift liquid spend caught shrug pistol luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "choice carry guitar brass tunnel verify sword walnut school cycle mail what";
+var mnemonic = "donor burden announce enhance version wear patch dentist dynamic tree civil route";

@@ -1,1 +1,1 @@
-var mnemonic = "moment flush crunch course month laundry awkward circle hero violin large stem";
+var mnemonic = "matter anxiety moral family purchase detail gown crumble guitar approve erode forum";

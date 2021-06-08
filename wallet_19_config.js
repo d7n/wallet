@@ -1,1 +1,1 @@
-var mnemonic = "wave canoe around off snake orange history know kit world sorry tumble";
+var mnemonic = "trigger festival head wolf great board taxi cat whale plunge edit clean";

@@ -1,1 +1,1 @@
-var mnemonic = "assist relax differ model sing link source inspire hat mutual noodle wall";
+var mnemonic = "shuffle farm obtain punch creek total they buddy walk hood team machine";

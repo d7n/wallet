@@ -1,1 +1,1 @@
-var mnemonic = "leisure damp exit hard fiber segment fiscal rule blast rule invest wrist";
+var mnemonic = "weather sick carbon silly retire general bike town hello timber hollow cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "panther explain train jelly magnet bridge hope guard then muscle hospital actor";
+var mnemonic = "avoid bounce shaft begin stock base moral boost whisper dose digital chat";

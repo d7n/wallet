@@ -1,1 +1,1 @@
-var mnemonic = "woman width reopen crew mirror belt upset current security across tail undo";
+var mnemonic = "insane human start wink inform trim family barely purchase normal master there";

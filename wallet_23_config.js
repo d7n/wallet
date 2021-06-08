@@ -1,1 +1,1 @@
-var mnemonic = "melt magnet fancy blur peanut aisle quote repeat left like shoulder wedding";
+var mnemonic = "timber lemon replace stomach present glide educate hybrid pluck mother any tent";

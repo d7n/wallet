@@ -1,1 +1,1 @@
-var mnemonic = "stumble vanish aware cannon modify clog viable mandate crunch avoid loan cause";
+var mnemonic = "horror limit tongue deputy chair ocean install demise brief brisk learn pride";

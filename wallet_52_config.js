@@ -1,1 +1,1 @@
-var mnemonic = "cube wisdom whale gorilla worth switch embrace gloom field denial quiz eternal";
+var mnemonic = "child argue develop select engage era muscle worth girl tree flavor hazard";

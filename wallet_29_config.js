@@ -1,1 +1,1 @@
-var mnemonic = "exchange dove carbon glory when march dizzy meat general slogan chief hub";
+var mnemonic = "middle special dry lion task fruit rookie sort appear marriage ten gap";

@@ -1,1 +1,1 @@
-var mnemonic = "medal vintage advance crystal gaze siege tree cute potato throw frog brick";
+var mnemonic = "large grit learn spend able snake announce engine exhaust valley rail satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep net eagle sudden blind goat metal tube borrow shop cycle canal";
+var mnemonic = "key snap heavy waste inner turtle inch tape category plug trim split";

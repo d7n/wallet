@@ -1,1 +1,1 @@
-var mnemonic = "liquid mimic paper uncover risk expect ice topic margin obvious harvest add";
+var mnemonic = "focus calm place setup radio excite notable daughter extra enjoy grant choose";

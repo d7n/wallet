@@ -1,1 +1,1 @@
-var mnemonic = "multiply web upset erupt toast mercy youth leisure frequent casual powder divorce";
+var mnemonic = "world quantum gallery lend hard cash slot eager salt shine left spot";

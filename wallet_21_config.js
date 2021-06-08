@@ -1,1 +1,1 @@
-var mnemonic = "auction joy vital web deal immune ghost task daring alien surface coil";
+var mnemonic = "cement dismiss divert pluck affair tape sort illegal business owner furnace resource";

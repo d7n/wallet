@@ -1,1 +1,1 @@
-var mnemonic = "snake case follow oak multiply job impulse orphan brother comic prevent key";
+var mnemonic = "hub pelican trouble idle better address mom drastic ranch vessel planet addict";

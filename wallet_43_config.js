@@ -1,1 +1,1 @@
-var mnemonic = "vast jeans traffic wing pony minimum exile similar water horror catalog dragon";
+var mnemonic = "host cry address bubble wheat transfer zone fitness trade flavor rescue ensure";

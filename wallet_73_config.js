@@ -1,1 +1,1 @@
-var mnemonic = "doctor problem rural ability brass garlic acoustic easily skill memory endless wrist";
+var mnemonic = "palace estate wink demise order heavy rough unfair honey judge round skull";

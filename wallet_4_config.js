@@ -1,1 +1,1 @@
-var mnemonic = "dignity myself theme clap refuse sadness because loop carbon neck edit rebel";
+var mnemonic = "biology midnight ethics alpha expose employ video demand inmate ignore luggage large";

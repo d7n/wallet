@@ -1,1 +1,1 @@
-var mnemonic = "fold chalk pluck mechanic sniff erode possible orphan fish curious work mutual";
+var mnemonic = "noise excess pact century seat trophy scrub over letter dial output ghost";

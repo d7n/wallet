@@ -1,1 +1,1 @@
-var mnemonic = "sail general snow burger soap soldier coin east faith valid valley orchard";
+var mnemonic = "sign retreat slot sea oxygen custom that short tuition another explain surround";

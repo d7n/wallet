@@ -1,1 +1,1 @@
-var mnemonic = "heart rate wing gossip cinnamon ribbon scissors dream dish height problem across";
+var mnemonic = "card mango learn drift midnight siege phone fabric seed play reward hand";

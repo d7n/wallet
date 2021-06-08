@@ -1,1 +1,1 @@
-var mnemonic = "affair hybrid outer before forward favorite blur deposit peasant airport keen undo";
+var mnemonic = "anchor exchange wish absent very humor subway snake now foil magnet season";

@@ -1,1 +1,1 @@
-var mnemonic = "repair end hill music hire setup cook vehicle online mail language hint";
+var mnemonic = "anxiety trip foster switch mixture happy program immune cost lemon whale repair";

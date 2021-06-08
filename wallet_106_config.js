@@ -1,1 +1,1 @@
-var mnemonic = "device mammal path warm aerobic indoor road under flame color mutual earn";
+var mnemonic = "lens dawn lawn trial claw solve dilemma easily reunion possible wet provide";

@@ -1,1 +1,1 @@
-var mnemonic = "twin again sister utility consider picnic arm license forum alert other ask";
+var mnemonic = "gift sniff around broom lumber sauce observe enter cotton click spatial tube";

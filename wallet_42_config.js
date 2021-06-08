@@ -1,1 +1,1 @@
-var mnemonic = "gauge session mom slogan lock wife winner glass noise need muscle differ";
+var mnemonic = "leaf nasty soup fossil punch friend enlist club ramp rely eight chair";

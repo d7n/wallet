@@ -1,1 +1,1 @@
-var mnemonic = "have add muscle fit prosper acid change fossil bulb crime person unique";
+var mnemonic = "master wheat universe cactus genuine remain habit carbon faculty spawn sword decrease";

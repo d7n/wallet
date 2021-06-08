@@ -1,1 +1,1 @@
-var mnemonic = "morning mass resource sniff either replace soft crystal thunder mixed erosion margin";
+var mnemonic = "such meadow great pet vague scene orient throw first argue innocent slab";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic evil service program solar exhibit service six wash urban year damage";
+var mnemonic = "discover breeze purse jaguar dismiss marriage maze foam crew broccoli plunge female";

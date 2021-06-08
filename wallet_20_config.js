@@ -1,1 +1,1 @@
-var mnemonic = "multiply what soap empty note obvious damp wet brain hurt holiday carry";
+var mnemonic = "boring coast fossil like visual evidence canyon path today lift stand private";

@@ -1,1 +1,1 @@
-var mnemonic = "control thrive way wonder current amount clarify winter genre fine ski card";
+var mnemonic = "nest merry dove stadium leader avoid peace pledge must public circle require";

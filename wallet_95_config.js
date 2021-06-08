@@ -1,1 +1,1 @@
-var mnemonic = "canvas bind video joy mutual tornado song favorite over mobile duck cupboard";
+var mnemonic = "middle wash close start address drift ghost sweet match labor off act";

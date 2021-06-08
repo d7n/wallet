@@ -1,1 +1,1 @@
-var mnemonic = "behind ancient impact confirm toilet inmate orient you pudding sun fade actor";
+var mnemonic = "magnet tortoise smooth hold solve visa list learn buzz bitter egg foil";

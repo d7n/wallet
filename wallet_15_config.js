@@ -1,1 +1,1 @@
-var mnemonic = "bamboo display hint wise mad allow camera tuna milk isolate grain media";
+var mnemonic = "popular rotate yellow faith civil melody daring iron narrow post capital intact";
