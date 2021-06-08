@@ -1,1 +1,1 @@
-var mnemonic = "dutch owner brisk fortune around enroll walk bargain tape cotton ready forest";
+var mnemonic = "desert way sure link baby sock note match shield tattoo velvet front";

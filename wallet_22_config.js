@@ -1,1 +1,1 @@
-var mnemonic = "pigeon denial practice exotic dune cute welcome sport olympic always actual team";
+var mnemonic = "cave angry resemble party wink cool universe bonus note urban lunch toast";

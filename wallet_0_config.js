@@ -1,1 +1,1 @@
-var mnemonic = "lamp urban super garage divert pattern syrup course tip rival sister fresh";
+var mnemonic = "twin syrup valley plate thrive rib rich sudden proud december chronic suit";

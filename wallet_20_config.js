@@ -1,1 +1,1 @@
-var mnemonic = "cherry trash fantasy curious flavor curious argue hour veteran filter transfer define";
+var mnemonic = "puzzle pistol hungry stock because torch deer soft minute lava chase fence";

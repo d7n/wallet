@@ -1,1 +1,1 @@
-var mnemonic = "fluid camp ensure royal drip vivid culture push banana runway inspire rate";
+var mnemonic = "girl flock keen define tip ensure refuse fossil faith patch strong leader";

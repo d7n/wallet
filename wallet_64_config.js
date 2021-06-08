@@ -1,1 +1,1 @@
-var mnemonic = "maple gate recall point select perfect bitter timber input crater wheel amused";
+var mnemonic = "arrive become okay inherit galaxy trust flock legal thank hobby exclude hole";

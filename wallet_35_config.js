@@ -1,1 +1,1 @@
-var mnemonic = "under hedgehog prison parrot prize right gossip double cricket youth amount tattoo";
+var mnemonic = "craft spread defy case injury vast wrestle wealth sport muffin wrist sponsor";

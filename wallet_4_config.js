@@ -1,1 +1,1 @@
-var mnemonic = "steak minute shadow wall worry check road can drift key imitate lady";
+var mnemonic = "young exact robot can spring jealous copy hockey ranch mimic bright object";

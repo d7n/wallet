@@ -1,1 +1,1 @@
-var mnemonic = "ecology stuff fan sudden robot devote fresh cereal meat cactus cloud diamond";
+var mnemonic = "vibrant viable license until proof era soul library oil deal toward student";

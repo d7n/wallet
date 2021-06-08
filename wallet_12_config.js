@@ -1,1 +1,1 @@
-var mnemonic = "caution absorb clean table extend fame board candy fly swing brush mistake";
+var mnemonic = "estate snake gym quit muffin desert luggage moral machine broccoli dice move";

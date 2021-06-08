@@ -1,1 +1,1 @@
-var mnemonic = "beef sound normal grow leopard vivid mixture vast dance walk clown budget";
+var mnemonic = "bread monitor dust grit list eye acquire banner slice surface breeze short";

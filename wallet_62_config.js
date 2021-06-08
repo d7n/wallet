@@ -1,1 +1,1 @@
-var mnemonic = "budget kitchen vendor champion nephew tuna group start juice duty neutral pulse";
+var mnemonic = "bracket tiny razor hub alpha pet twenty proof genius actress weird modify";

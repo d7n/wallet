@@ -1,1 +1,1 @@
-var mnemonic = "force cable oyster believe maze trade asset book attract travel sound honey";
+var mnemonic = "smart scene shine follow honey carbon ill vacuum birth mean surge deny";

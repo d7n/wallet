@@ -1,1 +1,1 @@
-var mnemonic = "place exclude song curve insane test regret lock claw just notice fall";
+var mnemonic = "truck cabin salute scare iron attack loop someone foster width remind wool";

@@ -1,1 +1,1 @@
-var mnemonic = "joke dignity athlete eight brief cause member any response drum boring grain";
+var mnemonic = "cash disorder virus indoor below merge hero smoke country health palace charge";

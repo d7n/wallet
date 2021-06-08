@@ -1,1 +1,1 @@
-var mnemonic = "problem demise elephant badge soul turkey issue empty hello vanish pass oil";
+var mnemonic = "exhaust liberty mule situate wine merry vanish retreat mean stock clock knock";

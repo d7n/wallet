@@ -1,1 +1,1 @@
-var mnemonic = "tip vital orbit guess wall method slab become foil actor sunny loyal";
+var mnemonic = "mule swim mix output drill sword buffalo empty umbrella please margin also";

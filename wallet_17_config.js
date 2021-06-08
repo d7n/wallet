@@ -1,1 +1,1 @@
-var mnemonic = "piano vendor twenty regular isolate sunset ginger axis employ small kitchen victory";
+var mnemonic = "hard spoil lecture crystal clean blame secret good damage way decade front";

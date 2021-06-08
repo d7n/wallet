@@ -1,1 +1,1 @@
-var mnemonic = "radio wreck peasant swallow glance coast cereal eyebrow village fox budget ocean";
+var mnemonic = "host patient joke mountain undo ankle label shock gas wash process teach";

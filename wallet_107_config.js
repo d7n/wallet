@@ -1,1 +1,1 @@
-var mnemonic = "garlic fetch visa february scene pond marriage weekend public clutch cross attend";
+var mnemonic = "job portion avocado nominee high egg sure muscle bench vital bread blouse";

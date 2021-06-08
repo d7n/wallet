@@ -1,1 +1,1 @@
-var mnemonic = "book come close sheriff gap animal radar material ill erode provide merit";
+var mnemonic = "guard despair hint million buzz click patch jelly library lemon unfold next";

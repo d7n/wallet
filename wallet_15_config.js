@@ -1,1 +1,1 @@
-var mnemonic = "around labor mutual address circle slush next program brush arctic inmate universe";
+var mnemonic = "lamp lottery exhaust clown proof pottery steel item air banner chimney double";

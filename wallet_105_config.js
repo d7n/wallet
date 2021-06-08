@@ -1,1 +1,1 @@
-var mnemonic = "display sentence twist kidney trouble nut kit push gaze float viable team";
+var mnemonic = "divide surprise firm maple floor swamp knife estate fancy october rotate net";

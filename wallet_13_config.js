@@ -1,1 +1,1 @@
-var mnemonic = "muscle off symbol guide apology direct notice basic liar machine fluid reunion";
+var mnemonic = "purse profit lava silver harbor razor garage review kit hockey robust basic";

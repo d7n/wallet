@@ -1,1 +1,1 @@
-var mnemonic = "version metal violin inject radar version develop fiscal wreck pistol creek bitter";
+var mnemonic = "scrub claw also chicken border pony bracket need dragon sign picture rare";

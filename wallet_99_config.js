@@ -1,1 +1,1 @@
-var mnemonic = "damage auto dolphin measure more move beauty sweet image receive river end";
+var mnemonic = "cement excite edit mandate august village whale grace mad drop census chalk";

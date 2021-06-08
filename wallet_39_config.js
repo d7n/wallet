@@ -1,1 +1,1 @@
-var mnemonic = "apology tonight waste hub hybrid false uniform tent truly first pigeon area";
+var mnemonic = "head hand cash fish banner sheriff away giraffe amateur detect cream sad";

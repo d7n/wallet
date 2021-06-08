@@ -1,1 +1,1 @@
-var mnemonic = "sail bless flush flag acoustic pride industry quote heart globe fury robust";
+var mnemonic = "series carry hero wool fee clay citizen access canyon noodle coast involve";

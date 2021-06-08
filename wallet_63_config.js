@@ -1,1 +1,1 @@
-var mnemonic = "fancy affair wage solve luggage index baby viable vapor jazz buzz submit";
+var mnemonic = "minimum isolate crowd seven scorpion verb assault solve knee spy crisp country";

@@ -1,1 +1,1 @@
-var mnemonic = "wink manual youth play design island luxury group next ethics code faint";
+var mnemonic = "lumber idle sketch member disagree inmate suspect easy twist twin ensure host";

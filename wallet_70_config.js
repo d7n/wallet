@@ -1,1 +1,1 @@
-var mnemonic = "collect artist shaft extend retire final ice observe pole safe ship organ";
+var mnemonic = "deputy since member cruel example cattle ugly wisdom find foster dentist tongue";

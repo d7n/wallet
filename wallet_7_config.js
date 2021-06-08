@@ -1,1 +1,1 @@
-var mnemonic = "forest size gospel skin agent rent giant spell produce little vehicle puppy";
+var mnemonic = "double tomato rescue drop bulk exact argue milk tilt across replace venue";

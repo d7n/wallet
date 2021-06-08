@@ -1,1 +1,1 @@
-var mnemonic = "project drive join you debris mother normal clutch faint proof word capital";
+var mnemonic = "artwork tornado demand inflict illness credit pledge horse derive another soup thought";

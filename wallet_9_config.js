@@ -1,1 +1,1 @@
-var mnemonic = "cake blanket artist include pair depth this amount fire convince rack pulp";
+var mnemonic = "night pipe camera dune code lizard modify ostrich struggle thought element around";

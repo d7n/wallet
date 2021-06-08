@@ -1,1 +1,1 @@
-var mnemonic = "clump arch title feature soon cost oppose lesson yard force decade cost";
+var mnemonic = "injury notice exit canyon heavy exit phone verify cream key tonight still";

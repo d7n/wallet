@@ -1,1 +1,1 @@
-var mnemonic = "busy mansion trend course table palm hurry ocean spirit dash rhythm pony";
+var mnemonic = "neglect idea before able ride switch plug judge lumber anchor omit good";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh prison worry permit world omit cinnamon bargain unusual rabbit hip crumble";
+var mnemonic = "wonder border buffalo patrol foster section hero spy empower wrong unable basket";

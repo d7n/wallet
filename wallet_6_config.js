@@ -1,1 +1,1 @@
-var mnemonic = "mixture melody blanket grit caution where seminar cash alarm chief stereo fit";
+var mnemonic = "wisdom talent noodle garment denial face note inmate lab throw recipe tonight";

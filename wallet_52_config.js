@@ -1,1 +1,1 @@
-var mnemonic = "name knock gap phrase board bus endless vital strong rubber labor belt";
+var mnemonic = "hole uncover task stamp draw image impact melody uniform material inquiry shuffle";

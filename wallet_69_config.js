@@ -1,1 +1,1 @@
-var mnemonic = "super puppy episode diagram usage genius aim achieve major sudden absurd despair";
+var mnemonic = "cloud true output push angle raven street celery vintage nose foil script";

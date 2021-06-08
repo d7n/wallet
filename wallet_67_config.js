@@ -1,1 +1,1 @@
-var mnemonic = "inner pluck escape aware practice clown baby quiz universe sort alone divide";
+var mnemonic = "jealous satisfy artwork camera leopard cheap offer effort social release nation search";

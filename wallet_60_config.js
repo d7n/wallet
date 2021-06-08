@@ -1,1 +1,1 @@
-var mnemonic = "setup spawn gravity knee crumble trip huge frequent latin afford way major";
+var mnemonic = "mystery alert physical way claw ritual where gun news ticket change despair";

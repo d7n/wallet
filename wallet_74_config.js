@@ -1,1 +1,1 @@
-var mnemonic = "pull car receive assist air upgrade bright charge effort trophy syrup increase";
+var mnemonic = "appear pave room female love actor swear clay idle media burst gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "potato fantasy maple myth hip license father twin famous sudden insane begin";
+var mnemonic = "minimum tuition find nothing brief endorse convince frown ability flush card found";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin bonus other direct mind evil forum invite essence fiscal engage mechanic";
+var mnemonic = "tissue firm alpha scheme muffin season fog tent arm nation rally cash";

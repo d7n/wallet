@@ -1,1 +1,1 @@
-var mnemonic = "frown must material rule fit tragic muscle dash napkin velvet enact mule";
+var mnemonic = "poverty clip require giggle abandon dice calm canvas profit mechanic betray remain";

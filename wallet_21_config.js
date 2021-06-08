@@ -1,1 +1,1 @@
-var mnemonic = "circle charge turtle brother business couch just sauce dove throw bone mechanic";
+var mnemonic = "match foam owner high rely bid ask guitar lava decorate addict consider";

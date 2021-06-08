@@ -1,1 +1,1 @@
-var mnemonic = "loyal butter panel humble hood insect vast gospel protect system record youth";
+var mnemonic = "ripple panel depth west bracket dignity suspect derive model giggle purpose spoil";

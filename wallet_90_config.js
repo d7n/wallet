@@ -1,1 +1,1 @@
-var mnemonic = "outer turn gallery hover honey assume mountain disorder layer hurry business trouble";
+var mnemonic = "among come fish ride property debate enhance drill forward stable book loop";

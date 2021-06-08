@@ -1,1 +1,1 @@
-var mnemonic = "cause asthma effort ask desert alone hub fuel mushroom employ chaos ripple";
+var mnemonic = "usual ten insect dwarf clinic tongue romance deny arm off practice snake";

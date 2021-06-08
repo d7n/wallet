@@ -1,1 +1,1 @@
-var mnemonic = "motor since economy gospel slot robust crisp sort seek rule noodle age";
+var mnemonic = "ship mad urban stool excite need gym actual noble require dentist inmate";

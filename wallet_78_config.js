@@ -1,1 +1,1 @@
-var mnemonic = "gauge educate wealth foot cat dutch urban just planet remind inhale must";
+var mnemonic = "rib treat grain image minute relief husband attack symbol annual provide mystery";

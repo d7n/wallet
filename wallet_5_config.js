@@ -1,1 +1,1 @@
-var mnemonic = "vessel jungle sell monster season hero spend hurdle monster tuition love basic";
+var mnemonic = "sting garbage cash cloth empty debris course click marble joy long woman";

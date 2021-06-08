@@ -1,1 +1,1 @@
-var mnemonic = "mechanic erase dinosaur bunker review female market evoke witness sadness bitter detail";
+var mnemonic = "version legend bone laundry saddle zoo human taste squirrel token into size";

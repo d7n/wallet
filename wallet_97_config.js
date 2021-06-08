@@ -1,1 +1,1 @@
-var mnemonic = "item neither divert mistake fault holiday click rich accuse erase swallow bronze";
+var mnemonic = "useless syrup order labor pause venture connect okay reduce cabbage brisk ostrich";

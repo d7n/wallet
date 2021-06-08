@@ -1,1 +1,1 @@
-var mnemonic = "song sauce agree crucial caution sadness dose leopard universe alcohol donkey simple";
+var mnemonic = "tiny easy tourist snap lake puppy solution damage save pipe wedding shield";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle boy inform sick traffic glue rule tape uncover involve silly surface";
+var mnemonic = "budget duck sniff sweet once alone salmon outer bounce super great tuna";

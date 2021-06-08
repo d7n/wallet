@@ -1,1 +1,1 @@
-var mnemonic = "island horse kit river tray suspect refuse mention cat desk gloom circle";
+var mnemonic = "grace drastic arrow size panda injury outside exhibit skill master firm update";

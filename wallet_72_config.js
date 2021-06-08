@@ -1,1 +1,1 @@
-var mnemonic = "tape ethics avoid earn clock adjust judge student toward say skin moon";
+var mnemonic = "goat load spike wish head shield art manage arrow jeans soda toe";

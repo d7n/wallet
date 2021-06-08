@@ -1,1 +1,1 @@
-var mnemonic = "case fever pulse animal sing income course employ rocket indoor fit tattoo";
+var mnemonic = "release cattle million kiss remove balance all beach churn grain episode horn";

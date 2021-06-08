@@ -1,1 +1,1 @@
-var mnemonic = "improve know market fat assist often drill hidden bunker round walk magnet";
+var mnemonic = "antenna fall stamp rebel list autumn item casual undo beef air float";

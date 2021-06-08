@@ -1,1 +1,1 @@
-var mnemonic = "mad social next catch toy merit arrange second roof exit favorite magic";
+var mnemonic = "loyal insect race quit amazing nasty drop raw moon deal cherry order";

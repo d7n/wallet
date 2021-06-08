@@ -1,1 +1,1 @@
-var mnemonic = "pink extend ugly blue humor helmet moment nothing gesture task spell click";
+var mnemonic = "student obey job impact clap solid type frozen improve permit crop recycle";

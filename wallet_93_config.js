@@ -1,1 +1,1 @@
-var mnemonic = "marriage quantum farm draft satisfy lawn slender upon swamp surge clump glimpse";
+var mnemonic = "congress blue dance frequent social skin clap average word someone dice giant";

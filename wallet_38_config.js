@@ -1,1 +1,1 @@
-var mnemonic = "scatter reduce invite problem gorilla swap farm universe icon attack curve helmet";
+var mnemonic = "laugh rocket muffin subway salute pretty now bonus brick market area lottery";

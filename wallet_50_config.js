@@ -1,1 +1,1 @@
-var mnemonic = "chief boat rice follow unfair regret force problem subway injury disagree reason";
+var mnemonic = "exotic rail embark tide suspect inhale brave satisfy month typical pig resist";

@@ -1,1 +1,1 @@
-var mnemonic = "peace border uniform oval equal word exact into pet follow useful maple";
+var mnemonic = "glimpse burger cube response someone scissors nothing fashion rich describe rival bid";

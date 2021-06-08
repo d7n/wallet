@@ -1,1 +1,1 @@
-var mnemonic = "put minor idea panther useful zoo photo rabbit fabric keen clay cabbage";
+var mnemonic = "lunar great lawsuit rain idea clutch apology marine toss delay student develop";

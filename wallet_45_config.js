@@ -1,1 +1,1 @@
-var mnemonic = "bulb need miss cook script umbrella exit cake soccer defense chest cause";
+var mnemonic = "begin hand early dirt outer list discover tornado burden pole muffin erase";

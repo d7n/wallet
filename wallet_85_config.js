@@ -1,1 +1,1 @@
-var mnemonic = "gaze order time olympic place find segment yard search trick picnic bamboo";
+var mnemonic = "give pepper enact cost miracle tool another ability first sausage sniff song";

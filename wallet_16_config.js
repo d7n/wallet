@@ -1,1 +1,1 @@
-var mnemonic = "choice stand twelve glow like exhaust tilt rug home hope jaguar find";
+var mnemonic = "vacuum monitor type item thank tissue speed lab salt banner acquire local";

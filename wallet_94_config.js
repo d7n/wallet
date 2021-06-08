@@ -1,1 +1,1 @@
-var mnemonic = "calm silly owner shuffle grief aerobic team vault brush foot actor sentence";
+var mnemonic = "lens penalty ice other marine sell brief upon stairs wood potato vendor";

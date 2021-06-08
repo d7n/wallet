@@ -1,1 +1,1 @@
-var mnemonic = "peanut minor twenty one race clerk december clap kitchen artwork rigid myth";
+var mnemonic = "mass knife bulk butter endless estate fame crop minor earn absent diamond";

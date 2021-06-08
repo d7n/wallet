@@ -1,1 +1,1 @@
-var mnemonic = "salad jelly toilet major bachelor offer survey item dentist strong impact puzzle";
+var mnemonic = "convince day panel knife clinic now lazy violin loyal autumn mutual ladder";

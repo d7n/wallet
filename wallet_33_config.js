@@ -1,1 +1,1 @@
-var mnemonic = "dial decide catalog clog safe update luxury tilt dry maple upon picture";
+var mnemonic = "invest drop street number toy skill style addict toddler timber scorpion talk";

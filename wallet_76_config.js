@@ -1,1 +1,1 @@
-var mnemonic = "aunt magnet muscle merit clip come burden rice subway truth switch cram";
+var mnemonic = "federal ridge sadness ribbon carry release slide unfold kite memory feed fox";

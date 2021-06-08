@@ -1,1 +1,1 @@
-var mnemonic = "abstract seat slam theory palace yellow sweet immune fit lumber portion river";
+var mnemonic = "road ceiling bulk meat crisp design soap betray cluster used outside lecture";

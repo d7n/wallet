@@ -1,1 +1,1 @@
-var mnemonic = "cousin health detail course lift blade embody install fat teach bunker stick";
+var mnemonic = "stool alpha struggle portion elbow silver cruise pudding voice cream abuse range";

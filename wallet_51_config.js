@@ -1,1 +1,1 @@
-var mnemonic = "orphan shift woman expose aspect expect surface base pair diet seek method";
+var mnemonic = "wasp hold mercy pretty heart silver tissue soccer shell race retreat gorilla";

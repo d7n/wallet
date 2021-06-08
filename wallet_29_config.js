@@ -1,1 +1,1 @@
-var mnemonic = "title gauge point gossip hollow defy ghost brisk yard cricket please kiss";
+var mnemonic = "favorite language pride enforce front sentence marine only supreme print juice alert";

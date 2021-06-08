@@ -1,1 +1,1 @@
-var mnemonic = "outer travel daughter head inch emerge decide nice royal dentist gossip length";
+var mnemonic = "evil picnic peanut arch dress swift wedding genuine fox shrimp snake someone";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm raccoon patient erupt sudden horse suit style goose gun hero item";
+var mnemonic = "assault increase embark slide rate phrase coast click state scrub urge tomato";

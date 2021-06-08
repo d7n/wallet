@@ -1,1 +1,1 @@
-var mnemonic = "viable torch bacon galaxy suspect short crumble march ask welcome floor mask";
+var mnemonic = "fix shoulder chimney plug strike hover legal train detect sea picture inside";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle three frozen crane suggest coach mammal autumn orbit segment sheriff coyote";
+var mnemonic = "similar nothing border gown flight confirm hat air lyrics coral east give";

@@ -1,1 +1,1 @@
-var mnemonic = "add stomach peace alter drum dice purse census snow drink basic invite";
+var mnemonic = "frequent final equip drink spell dad course host comfort accuse rescue raven";

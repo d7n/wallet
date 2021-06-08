@@ -1,1 +1,1 @@
-var mnemonic = "chapter sunny elder obey grace play topple belt raccoon radio course public";
+var mnemonic = "seed extend rhythm fabric item express speak lake ghost stable matter eagle";

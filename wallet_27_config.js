@@ -1,1 +1,1 @@
-var mnemonic = "manage theme dizzy hammer tongue vessel blood saddle invest birth coach barely";
+var mnemonic = "vanish quit battle raccoon joke electric delay walk put mask print opinion";

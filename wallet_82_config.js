@@ -1,1 +1,1 @@
-var mnemonic = "stand reason supply census tip exact stable vast dawn leg drastic tip";
+var mnemonic = "park harvest acquire gadget add february blush lock effort eternal mercy swarm";

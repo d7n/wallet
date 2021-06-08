@@ -1,1 +1,1 @@
-var mnemonic = "sense hobby cover similar fuel cliff asthma educate file normal deputy forum";
+var mnemonic = "memory ghost despair oak boost hedgehog area practice hockey clarify tree ethics";

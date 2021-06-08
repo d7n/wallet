@@ -1,1 +1,1 @@
-var mnemonic = "problem bounce garment avoid quality where scrap renew devote convince table squeeze";
+var mnemonic = "gun over crunch action shoe stable struggle ordinary host garage bike puzzle";

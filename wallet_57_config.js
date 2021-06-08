@@ -1,1 +1,1 @@
-var mnemonic = "round aspect salon maximum blade glory taste prevent three video sail illness";
+var mnemonic = "rain true live fragile click position blame palace display list trim bitter";

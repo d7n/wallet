@@ -1,1 +1,1 @@
-var mnemonic = "spawn input direct virtual blue undo million lemon cable leg goose toward";
+var mnemonic = "rose cloth coast picture blade armed blind oppose bitter venture tenant salad";

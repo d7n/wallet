@@ -1,1 +1,1 @@
-var mnemonic = "slice mimic screen work gown often double know warfare shove cube buddy";
+var mnemonic = "route thing jacket recall invest leisure subject excess brush token column era";

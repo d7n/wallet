@@ -1,1 +1,1 @@
-var mnemonic = "habit quote harsh away never much sauce autumn spawn girl room alpha";
+var mnemonic = "awful mystery start tool latin battle box elder drink wish require film";
