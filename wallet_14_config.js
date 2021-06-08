@@ -1,1 +1,1 @@
-var mnemonic = "aisle average harsh grid forum fiscal shop mechanic thought health daughter execute";
+var mnemonic = "angry disagree plug snap fever crime return farm hazard alley wire toward";

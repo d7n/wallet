@@ -1,1 +1,1 @@
-var mnemonic = "october cradle artefact cushion feed zero spray achieve toss social cabbage surprise";
+var mnemonic = "belt any endless wise pact cage parent drip dentist wave thank fat";

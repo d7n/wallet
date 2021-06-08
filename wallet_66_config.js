@@ -1,1 +1,1 @@
-var mnemonic = "tuna else blossom piece predict change damp hill abstract candy cup ask";
+var mnemonic = "twenty fix excite pledge board siren say impose dignity spatial strike jar";

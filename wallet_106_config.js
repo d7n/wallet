@@ -1,1 +1,1 @@
-var mnemonic = "phone arrow science oak palm gate clay render leg shoot unknown ramp";
+var mnemonic = "nose gravity delay coil tomorrow shock glad snap never word anxiety absurd";

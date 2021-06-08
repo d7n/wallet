@@ -1,1 +1,1 @@
-var mnemonic = "sugar rate fine record essay law cave black symbol kite spoil achieve";
+var mnemonic = "strong card puzzle update slender obtain route venture what discover afraid analyst";

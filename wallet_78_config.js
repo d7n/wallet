@@ -1,1 +1,1 @@
-var mnemonic = "napkin snap sure palm diary limit horror finger mistake wolf latin cup";
+var mnemonic = "black avoid mobile unique rotate digital cousin tape deal ride aspect square";

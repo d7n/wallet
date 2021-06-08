@@ -1,1 +1,1 @@
-var mnemonic = "side settle agree can express valve connect appear visit raccoon smile fantasy";
+var mnemonic = "soldier cover require tone smart cake immune crater phrase kiss sibling camp";

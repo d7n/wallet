@@ -1,1 +1,1 @@
-var mnemonic = "speak basket tunnel problem wave ceiling crumble hill explain banner scout silent";
+var mnemonic = "dentist captain brass canal animal depth fortune pool toy item trim release";

@@ -1,1 +1,1 @@
-var mnemonic = "market fan tent high valid tribe urge sing puzzle leaf pet hole";
+var mnemonic = "good have diesel age slide leisure shed scout hole appear hurdle escape";

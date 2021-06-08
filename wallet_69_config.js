@@ -1,1 +1,1 @@
-var mnemonic = "dial cabin reform flame mimic parade twist shoot broccoli negative become mother";
+var mnemonic = "summer enroll door credit setup autumn now order increase usage panic fiscal";

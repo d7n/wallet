@@ -1,1 +1,1 @@
-var mnemonic = "jazz fall fancy vessel month dismiss ten science ginger dry salon cage";
+var mnemonic = "gravity fluid awful segment more blame practice rug day employ flee diamond";

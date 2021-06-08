@@ -1,1 +1,1 @@
-var mnemonic = "stand insane universe inherit layer border rocket bitter pass struggle square satisfy";
+var mnemonic = "sock butter convince harsh always clarify level unit cruise knock annual device";

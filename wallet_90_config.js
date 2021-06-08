@@ -1,1 +1,1 @@
-var mnemonic = "trigger rookie avocado chest torch spread melody method silver zero father eye";
+var mnemonic = "club deer arrive wrestle index army deliver debate broken raccoon since cave";

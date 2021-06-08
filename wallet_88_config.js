@@ -1,1 +1,1 @@
-var mnemonic = "wink stove accuse inch there shift million surface judge series loyal curious";
+var mnemonic = "dry reunion way tragic apple term bag reunion kingdom gym crisp bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "depth basket angle sure carry life know reject latin south spell require";
+var mnemonic = "source turtle patrol peasant case valley one tiger forest demand stay canal";

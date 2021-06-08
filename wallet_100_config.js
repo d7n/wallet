@@ -1,1 +1,1 @@
-var mnemonic = "diamond infant brave retreat weather trade brass shiver metal lamp inform burden";
+var mnemonic = "speed coyote senior repair venture ritual tent culture another egg cat awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "deny tree suit pigeon pipe drip soul idea swap because saddle more";
+var mnemonic = "pony essence squirrel brown sight actual patch engine raise when solar drama";

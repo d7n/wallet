@@ -1,1 +1,1 @@
-var mnemonic = "arch slogan crop crop high syrup swear scene chicken source practice deliver";
+var mnemonic = "material loop review message discover melody urge replace fruit gap prepare grid";

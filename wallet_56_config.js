@@ -1,1 +1,1 @@
-var mnemonic = "initial number cloth leg warfare seat kite adapt visit alien easily push";
+var mnemonic = "distance private deliver leave liquid genuine boat later taxi struggle divorce electric";

@@ -1,1 +1,1 @@
-var mnemonic = "runway wink stuff test print guard million wink history raw cabbage divide";
+var mnemonic = "enlist student ivory must media mixture anchor crack three stuff fame cement";

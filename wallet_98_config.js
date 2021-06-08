@@ -1,1 +1,1 @@
-var mnemonic = "finish amateur sketch hover wear jar brisk clerk horn grit rain journey";
+var mnemonic = "stay addict cereal better note siren drop offer orphan tag draw moral";

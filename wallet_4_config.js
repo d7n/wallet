@@ -1,1 +1,1 @@
-var mnemonic = "glass type broken grow measure fatal rotate attract fade soap myth round";
+var mnemonic = "scrap lunar because chaos fold chase strategy athlete mean rough code flash";

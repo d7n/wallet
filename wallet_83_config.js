@@ -1,1 +1,1 @@
-var mnemonic = "bitter aunt fuel grocery list label daughter mechanic clip aware hand recall";
+var mnemonic = "battle faith vanish honey faint subway mercy proud subway order mind quit";

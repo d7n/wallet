@@ -1,1 +1,1 @@
-var mnemonic = "moral random riot wasp flavor juice timber episode upon harbor impact february";
+var mnemonic = "idea entire puppy find wide unit slogan silent lyrics pretty cover attend";

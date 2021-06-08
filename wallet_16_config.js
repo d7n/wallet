@@ -1,1 +1,1 @@
-var mnemonic = "surround bamboo step link type visit divorce swarm sun exact derive few";
+var mnemonic = "fetch frozen real duck retire talk keep price clump jazz tragic extra";

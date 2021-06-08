@@ -1,1 +1,1 @@
-var mnemonic = "debate throw result toy return system tray aerobic rather assist accident fame";
+var mnemonic = "lunch vote usual youth angry gate remember when plunge vehicle present parent";

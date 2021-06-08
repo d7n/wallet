@@ -1,1 +1,1 @@
-var mnemonic = "behind jelly siren base cat perfect survey smart moon lumber harsh marriage";
+var mnemonic = "lion alone address replace squirrel noodle adapt under trophy middle right pond";

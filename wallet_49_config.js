@@ -1,1 +1,1 @@
-var mnemonic = "elite flash hybrid reflect bird hub pet artefact pony zero picnic raccoon";
+var mnemonic = "success absorb what volume derive tip fitness anger frog guess income agent";

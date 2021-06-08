@@ -1,1 +1,1 @@
-var mnemonic = "boy permit mix animal video circle shove manual brown wood wait bullet";
+var mnemonic = "pave sibling arrest crane hood doctor similar swift amazing ask museum similar";

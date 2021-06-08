@@ -1,1 +1,1 @@
-var mnemonic = "knife acquire light clock file gauge orphan naive suffer shiver noise paddle";
+var mnemonic = "grid cart concert title trust donor found gain swear dream faith opinion";

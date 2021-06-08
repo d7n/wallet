@@ -1,1 +1,1 @@
-var mnemonic = "crane task disorder main chief apple anchor alpha series inch swift gauge";
+var mnemonic = "imitate scale derive banner humor route fox hold depth void napkin caught";

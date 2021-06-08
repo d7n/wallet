@@ -1,1 +1,1 @@
-var mnemonic = "cheese butter forget fault rural cost dance skate rookie chicken amazing ski";
+var mnemonic = "analyst tuna pet ankle still spray mixture ability social what action want";

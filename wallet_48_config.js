@@ -1,1 +1,1 @@
-var mnemonic = "uphold category fee wool identify loan key puzzle pitch mention special abuse";
+var mnemonic = "conduct assault lock favorite hurry tribe play federal market clown clog girl";

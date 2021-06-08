@@ -1,1 +1,1 @@
-var mnemonic = "brick bid laundry someone give maximum unfair creek advance inflict good soon";
+var mnemonic = "pair dilemma hope book boring thank honey just venue execute feel range";

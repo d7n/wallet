@@ -1,1 +1,1 @@
-var mnemonic = "tired arena mixture ecology joke nest eight brush install trap earth wild";
+var mnemonic = "mammal potato earn system battle plate enlist timber display stumble enter assume";

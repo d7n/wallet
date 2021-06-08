@@ -1,1 +1,1 @@
-var mnemonic = "luxury treat airport sleep gain injury click piano artefact patrol beyond sibling";
+var mnemonic = "stay room chef kingdom cancel utility movie heavy two ignore scatter direct";

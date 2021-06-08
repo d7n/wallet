@@ -1,1 +1,1 @@
-var mnemonic = "scrub man car online normal excuse phone aspect bronze surround clutch ridge";
+var mnemonic = "toast angry slide infant kit into man owner near omit people country";

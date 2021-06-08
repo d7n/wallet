@@ -1,1 +1,1 @@
-var mnemonic = "idea device unlock together range uniform casual ski flight item tide alien";
+var mnemonic = "input erode gas child question table general trophy confirm sock chimney multiply";

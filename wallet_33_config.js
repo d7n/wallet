@@ -1,1 +1,1 @@
-var mnemonic = "ridge sentence shallow cannon claw cousin small shield become swear bomb indoor";
+var mnemonic = "sure extend screen design where typical focus network ice legend unable sure";

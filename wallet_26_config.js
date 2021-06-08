@@ -1,1 +1,1 @@
-var mnemonic = "wet grape observe shock gadget angle catch shiver armor monkey scatter combine";
+var mnemonic = "curve hold mandate screen allow budget critic usage pigeon extra joy combine";

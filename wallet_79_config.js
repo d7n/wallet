@@ -1,1 +1,1 @@
-var mnemonic = "valid reflect blush life library choose evolve rubber garage file enlist rookie";
+var mnemonic = "quarter rebuild long wear merit alpha lawsuit trophy vacant two bamboo tail";

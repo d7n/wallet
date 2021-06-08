@@ -1,1 +1,1 @@
-var mnemonic = "drive giraffe found track melody access essay unique enlist retreat dog orient";
+var mnemonic = "dove casino urban junior disease blood approve hazard frog focus trial judge";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage middle this run mutual exact above valve feed wet art wait";
+var mnemonic = "pulp ugly increase coral any price debate expect order enable devote deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain response hungry explain little tent pole trumpet fancy capable hen assist";
+var mnemonic = "crouch museum valve wage skate local weather cram decide unhappy rough coral";

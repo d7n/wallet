@@ -1,1 +1,1 @@
-var mnemonic = "route paddle defy early guard excuse acoustic photo bar donate educate problem";
+var mnemonic = "knife bean uncle jungle second lawn mandate aim renew trash soul frame";

@@ -1,1 +1,1 @@
-var mnemonic = "device refuse enough retreat eye exercise expand try leave jar arena excess";
+var mnemonic = "daughter test urban plastic reason actor push spare media bike bargain perfect";

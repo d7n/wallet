@@ -1,1 +1,1 @@
-var mnemonic = "orient demise soldier tragic liquid what black next extra rifle office endless";
+var mnemonic = "follow alpha lend adjust display giraffe river cruise prize deposit solution tiger";

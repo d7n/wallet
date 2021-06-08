@@ -1,1 +1,1 @@
-var mnemonic = "april arch bus bind enter traffic access edit insane sea shop style";
+var mnemonic = "vendor dumb few demand hire stick strike exact link ugly cook letter";

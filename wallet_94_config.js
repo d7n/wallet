@@ -1,1 +1,1 @@
-var mnemonic = "clown home spider border invite wrist version tuna guide velvet average remind";
+var mnemonic = "kid doll banana fix pet useless brand barrel ship unique oven orbit";

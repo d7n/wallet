@@ -1,1 +1,1 @@
-var mnemonic = "extra over biology order earn fence clump add ability heavy jar any";
+var mnemonic = "oyster old project catch raise split pigeon hero million century ridge absent";

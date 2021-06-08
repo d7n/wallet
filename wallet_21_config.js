@@ -1,1 +1,1 @@
-var mnemonic = "royal neither claim earn either guilt duty ship hunt hospital push cable";
+var mnemonic = "remind abuse when parade imitate over upper beef garden dignity salute basic";

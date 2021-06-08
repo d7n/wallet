@@ -1,1 +1,1 @@
-var mnemonic = "direct crunch enhance slogan boost hand apple ensure mechanic tobacco attend pill";
+var mnemonic = "jar bird garden naive offer cereal great robust chronic dose flower dinosaur";

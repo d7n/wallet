@@ -1,1 +1,1 @@
-var mnemonic = "always market rather change entire boring entire lounge hurt grunt nation spring";
+var mnemonic = "divert valve water happy slot scout eagle six vapor kite vault zero";

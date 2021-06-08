@@ -1,1 +1,1 @@
-var mnemonic = "jelly crowd attitude mansion man birth that one income ticket media shrimp";
+var mnemonic = "dry grid aim rebel meat loan cart remember this conduct document punch";

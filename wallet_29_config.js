@@ -1,1 +1,1 @@
-var mnemonic = "valve increase clutch fortune injury crunch illness depart lamp east wait own";
+var mnemonic = "spoil smart neutral occur sentence wonder install swap ribbon hollow pigeon wheat";

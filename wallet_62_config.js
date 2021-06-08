@@ -1,1 +1,1 @@
-var mnemonic = "pistol grape alter ring scissors moon invest term adapt modify section buddy";
+var mnemonic = "farm celery allow drop pilot case parent fox round tube economy maple";

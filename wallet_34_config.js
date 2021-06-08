@@ -1,1 +1,1 @@
-var mnemonic = "avocado appear budget supreme vehicle iron bread valid thought write mutual speed";
+var mnemonic = "hour jump humor magic release early early old truly liquid flush eye";

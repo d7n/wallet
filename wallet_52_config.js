@@ -1,1 +1,1 @@
-var mnemonic = "tennis valve color daring fade inside chapter element foam sunset school marble";
+var mnemonic = "atom diagram liquid page symbol brother flag inflict nest moon drum mechanic";

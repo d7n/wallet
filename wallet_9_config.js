@@ -1,1 +1,1 @@
-var mnemonic = "degree sustain kite private either among script slow tissue maximum neither west";
+var mnemonic = "salon novel tool plate eagle warm festival vessel embody fly range laundry";

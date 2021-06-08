@@ -1,1 +1,1 @@
-var mnemonic = "shoulder minor clever cluster ill swap slogan decade album budget barrel front";
+var mnemonic = "jungle ask remove absorb vote goddess group nation cabin drift mandate pledge";

@@ -1,1 +1,1 @@
-var mnemonic = "trap festival fix climb aware toward festival ride enemy maple method lion";
+var mnemonic = "vacant sunny intact giraffe short regular purity practice alert tunnel cave chronic";

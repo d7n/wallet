@@ -1,1 +1,1 @@
-var mnemonic = "raccoon harbor hungry edge clip blossom anxiety mimic uncle alley race deliver";
+var mnemonic = "degree have float noodle seed valve season hope sign confirm blur champion";

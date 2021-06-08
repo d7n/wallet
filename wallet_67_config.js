@@ -1,1 +1,1 @@
-var mnemonic = "core celery mansion grass purity cream always action poverty rack gown state";
+var mnemonic = "assault scissors dry harvest marine van viable feature journey tell essence inquiry";

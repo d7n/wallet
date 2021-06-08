@@ -1,1 +1,1 @@
-var mnemonic = "nasty absurd brick seek crazy finger seven girl select bid into eye";
+var mnemonic = "wonder blade bench road file matter know total shrimp excite champion wing";

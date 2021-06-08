@@ -1,1 +1,1 @@
-var mnemonic = "neutral mercy deputy cheese crouch poverty employ adult crouch nerve laugh aspect";
+var mnemonic = "memory friend film spell lottery worry sell crane jeans sunny salon mutual";

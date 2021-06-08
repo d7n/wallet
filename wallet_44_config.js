@@ -1,1 +1,1 @@
-var mnemonic = "light question safe tissue orbit brass near vital census kit attack multiply";
+var mnemonic = "vibrant orange wage stay coconut come steak digital sorry wrap side fury";

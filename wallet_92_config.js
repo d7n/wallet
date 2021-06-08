@@ -1,1 +1,1 @@
-var mnemonic = "shoe dice lock beach expand fence bulk element endless tunnel crop rough";
+var mnemonic = "tail text monkey shop exchange escape phone proof toilet husband theme rotate";

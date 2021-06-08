@@ -1,1 +1,1 @@
-var mnemonic = "erase frog royal below neither garlic tube winner flee awful mandate sea";
+var mnemonic = "soda young inner rack they happy shop blanket gym bar polar amazing";

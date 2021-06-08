@@ -1,1 +1,1 @@
-var mnemonic = "cannon push cactus february you odor wage intact advice comfort drift disorder";
+var mnemonic = "bamboo elbow unfold spy castle chunk lottery apology hammer fever walnut pool";

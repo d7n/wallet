@@ -1,1 +1,1 @@
-var mnemonic = "virus position street have lucky fence suggest magic adapt churn frown accident";
+var mnemonic = "cake invest lens prevent album width tree mechanic junk pond rich eight";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard cry axis donate season second army day worth summer hidden fall";
+var mnemonic = "nose enroll adapt benefit diary usage torch local ostrich guard orange chapter";

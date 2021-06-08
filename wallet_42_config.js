@@ -1,1 +1,1 @@
-var mnemonic = "screen such tip naive plate result bronze guitar broken melt item bomb";
+var mnemonic = "combine couple wet chimney badge gun mechanic vehicle oven weekend rabbit cat";

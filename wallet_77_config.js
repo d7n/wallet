@@ -1,1 +1,1 @@
-var mnemonic = "belt cradle lottery regret script expect naive congress table oppose absurd melt";
+var mnemonic = "rhythm nut exotic this crumble false two excuse mushroom isolate noble loan";

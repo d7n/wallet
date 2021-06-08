@@ -1,1 +1,1 @@
-var mnemonic = "bullet agent web pave cereal crash neutral advice split rose topic radar";
+var mnemonic = "all cushion wisdom coil magic metal blouse treat actress tide govern name";

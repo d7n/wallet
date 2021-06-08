@@ -1,1 +1,1 @@
-var mnemonic = "soon glue casual example stairs pencil oblige toe rocket wealth balance cheap";
+var mnemonic = "cost supreme present trial bind enemy step kiwi game fancy spare entire";

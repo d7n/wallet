@@ -1,1 +1,1 @@
-var mnemonic = "tumble firm fold page render mistake toward more cute sadness voice bike";
+var mnemonic = "fresh entry moral cradle shadow trap arena airport program vapor suggest river";

@@ -1,1 +1,1 @@
-var mnemonic = "oval improve snake lend canvas blade couple silver rotate joy divide coral";
+var mnemonic = "kangaroo cushion seek absurd rely frozen tourist purpose ready april topic risk";

@@ -1,1 +1,1 @@
-var mnemonic = "fix essay improve unable isolate stereo possible used never pond practice luggage";
+var mnemonic = "hurt reason tongue random already spider issue business silver cruise crystal ski";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics ethics mixed follow prize family private foot obtain mobile kiss cupboard";
+var mnemonic = "maple web response quote sheriff labor object today comfort defy draw describe";

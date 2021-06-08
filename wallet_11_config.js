@@ -1,1 +1,1 @@
-var mnemonic = "ordinary car strong hotel shoe misery indoor eternal tool cash main genius";
+var mnemonic = "powder flat club stamp sorry federal grow world begin oven purchase buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "beach carpet elevator grant guide village hundred anchor enemy throw reason donate";
+var mnemonic = "double decide spawn eyebrow finger scrap act spirit infant relief fence canoe";

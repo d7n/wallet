@@ -1,1 +1,1 @@
-var mnemonic = "chest mirror shop novel icon discover pistol inherit despair ugly include game";
+var mnemonic = "culture action lazy label raw patient walk hood you profit horse bar";

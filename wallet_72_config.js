@@ -1,1 +1,1 @@
-var mnemonic = "prize clarify limit grow puppy verb noodle candy erupt seek extra camera";
+var mnemonic = "milk toward during outer daring remove retreat utility raccoon vibrant october super";

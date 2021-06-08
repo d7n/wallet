@@ -1,1 +1,1 @@
-var mnemonic = "antenna theme impulse sort kite shed silent elephant sample journey brick salute";
+var mnemonic = "immune hour ship person flame cloud sunset lift shine connect smart captain";

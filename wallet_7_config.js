@@ -1,1 +1,1 @@
-var mnemonic = "stuff outer ranch inquiry museum biology visual renew lock isolate wall sheriff";
+var mnemonic = "veteran attitude focus silly lucky click flee stove window level budget now";

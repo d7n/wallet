@@ -1,1 +1,1 @@
-var mnemonic = "unhappy squeeze daughter film coach chest mango quarter stand hint quit verb";
+var mnemonic = "rack scrap mountain animal whale cattle write mushroom vendor inherit maximum electric";

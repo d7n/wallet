@@ -1,1 +1,1 @@
-var mnemonic = "predict age side fringe aspect trash magnet history alcohol wheel mass math";
+var mnemonic = "situate giraffe page violin addict kiwi mercy harvest guilt size vicious satoshi";

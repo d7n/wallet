@@ -1,1 +1,1 @@
-var mnemonic = "glide animal easily rotate depart senior slush abstract orange artefact sibling add";
+var mnemonic = "index rebuild lady upper episode goat bright harbor crumble garden family base";

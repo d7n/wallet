@@ -1,1 +1,1 @@
-var mnemonic = "squeeze gentle pair indoor coffee island treat achieve fabric awful clerk medal";
+var mnemonic = "shiver math blade depend eye goose daring before maid other snow matter";

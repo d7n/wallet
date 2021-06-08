@@ -1,1 +1,1 @@
-var mnemonic = "side letter habit rack survey thumb vintage remind mass subway region gorilla";
+var mnemonic = "error cry mosquito turtle interest toss puppy conduct taxi slender rent usage";

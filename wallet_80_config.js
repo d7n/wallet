@@ -1,1 +1,1 @@
-var mnemonic = "first flat sound midnight shift upon spawn cluster first exit obscure swarm";
+var mnemonic = "harbor stool random upon inner trust joke pepper hello slice raven young";

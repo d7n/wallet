@@ -1,1 +1,1 @@
-var mnemonic = "alter gift lunch permit girl cup offer post father hawk spoil rude";
+var mnemonic = "rescue damp crater lecture tray mobile clarify twist cat change hen appear";

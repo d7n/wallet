@@ -1,1 +1,1 @@
-var mnemonic = "label ramp vacuum alcohol achieve luggage bulb woman sound snake flat wrap";
+var mnemonic = "genuine knife image inherit people spike modify vapor fever visual seminar eight";

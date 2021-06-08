@@ -1,1 +1,1 @@
-var mnemonic = "walnut cargo fish fat type nose asthma all lend tomorrow trust creek";
+var mnemonic = "dutch despair response ancient cute cement betray weasel air gorilla filter family";

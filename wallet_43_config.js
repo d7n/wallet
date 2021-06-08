@@ -1,1 +1,1 @@
-var mnemonic = "rack room neutral modify home phrase floor gain giraffe dish foster aerobic";
+var mnemonic = "skin tribe sound shoot common vital air nurse cross few ill library";
