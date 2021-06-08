@@ -1,1 +1,1 @@
-var mnemonic = "empty dream battle glow aerobic paper cliff reject roast charge session state";
+var mnemonic = "carpet critic ski deliver scan table giggle nephew timber any rhythm hood";

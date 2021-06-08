@@ -1,1 +1,1 @@
-var mnemonic = "special cover canyon snap final discover exile cruel door pave odor pass";
+var mnemonic = "brick sheriff renew aspect purse into fox vast negative draw shine allow";

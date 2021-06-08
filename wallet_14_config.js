@@ -1,1 +1,1 @@
-var mnemonic = "era barrel game beyond march siren crisp arrest electric print volcano urge";
+var mnemonic = "paper pause grace manual thing about glow payment first bargain sword flush";

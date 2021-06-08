@@ -1,1 +1,1 @@
-var mnemonic = "cabin barrel glove leaf brown forum fat join explain tree law ability";
+var mnemonic = "forget soft iron segment lawsuit race pool fancy depart object profit cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "skin sleep cook grain scare aspect ball vague dragon verify hazard situate";
+var mnemonic = "trust impulse entire frown guilt foam live inject hurt scale city hard";

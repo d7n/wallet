@@ -1,1 +1,1 @@
-var mnemonic = "tree admit mean useless satoshi appear sibling random delay impact decade coyote";
+var mnemonic = "judge scale hire cradle paddle flag this sell film margin text secret";

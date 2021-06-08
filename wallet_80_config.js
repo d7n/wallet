@@ -1,1 +1,1 @@
-var mnemonic = "cluster often spell amazing nuclear food panther license clutch menu cushion pink";
+var mnemonic = "crouch attract engage kitten hint crisp canvas term creek fork book since";

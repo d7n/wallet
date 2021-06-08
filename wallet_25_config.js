@@ -1,1 +1,1 @@
-var mnemonic = "universe grief thunder census plug mail school dignity absurd grape green system";
+var mnemonic = "cat arrow process matter enhance identify embark flavor cradle badge depend voyage";

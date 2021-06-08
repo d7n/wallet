@@ -1,1 +1,1 @@
-var mnemonic = "actor valley mail village hello defense style mushroom leader present buzz mixture";
+var mnemonic = "blast label jungle toe above ankle that office settle south issue barrel";

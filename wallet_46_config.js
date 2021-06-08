@@ -1,1 +1,1 @@
-var mnemonic = "invest razor join monitor trap liquid medal energy runway busy bench trouble";
+var mnemonic = "push boss letter glide identify husband verify absurd weekend announce veteran paddle";

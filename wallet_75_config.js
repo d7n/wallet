@@ -1,1 +1,1 @@
-var mnemonic = "machine pelican vast bench must trophy episode art present cotton expire busy";
+var mnemonic = "talent stock owner outer worth floor observe snake vapor split moment able";

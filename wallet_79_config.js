@@ -1,1 +1,1 @@
-var mnemonic = "cram picture winner accuse shrimp annual truly pelican uniform tattoo talk region";
+var mnemonic = "recall extra panic suffer biology bike next tip rapid enable become vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "paper indoor claw bridge drastic crew lesson busy dinosaur offer oven alpha";
+var mnemonic = "little upon autumn wheel produce celery page border shaft supply tackle liberty";

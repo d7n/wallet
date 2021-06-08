@@ -1,1 +1,1 @@
-var mnemonic = "salmon physical remind mule document typical ankle dad length invite relax material";
+var mnemonic = "exhibit they journey baby digital this uncle weapon say scrub they annual";

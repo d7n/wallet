@@ -1,1 +1,1 @@
-var mnemonic = "olympic slice surprise topple return issue cool guitar mean noodle absent athlete";
+var mnemonic = "entire decrease toe enter rent embody raven bounce boil hero gesture gasp";

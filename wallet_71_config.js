@@ -1,1 +1,1 @@
-var mnemonic = "drive palace another icon stage project universe age aerobic casino hurry furnace";
+var mnemonic = "bomb ask cabin butter truly hunt magic cradle zone gown large transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "common sniff toast patch orchard doll rigid call catalog lava evil inner";
+var mnemonic = "canvas laugh explain shuffle similar sudden catalog dilemma bunker amazing truth kitchen";

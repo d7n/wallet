@@ -1,1 +1,1 @@
-var mnemonic = "lucky around spirit bachelor ride design truth broom tornado bunker nominee photo";
+var mnemonic = "album clap message theory grief salad blush disagree atom void sick tree";

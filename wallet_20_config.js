@@ -1,1 +1,1 @@
-var mnemonic = "error extra sweet impose input life matrix bird settle oppose film spawn";
+var mnemonic = "biology wheel acid target garlic stomach boring armed betray gaze flight seek";

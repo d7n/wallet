@@ -1,1 +1,1 @@
-var mnemonic = "draft output trial exit elbow lens again then person pelican suit above";
+var mnemonic = "mule pluck mango asset crew borrow casual soccer update retire useless clarify";

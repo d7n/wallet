@@ -1,1 +1,1 @@
-var mnemonic = "ice author way circle return venture require canoe small way right session";
+var mnemonic = "shrimp genius erase elevator remain toe wink mimic manual leopard wonder custom";

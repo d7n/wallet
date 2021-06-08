@@ -1,1 +1,1 @@
-var mnemonic = "shoot disagree business announce marble light jazz clinic victory vivid canyon foster";
+var mnemonic = "hybrid fresh goddess reunion rabbit endorse glow face ankle body youth labor";

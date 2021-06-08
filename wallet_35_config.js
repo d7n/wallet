@@ -1,1 +1,1 @@
-var mnemonic = "divorce elite fade eagle myth poet donkey response pluck grain tuition master";
+var mnemonic = "benefit coach plug calm april face grunt real battle camera need hair";

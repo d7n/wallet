@@ -1,1 +1,1 @@
-var mnemonic = "again possible sheriff humor village delay naive shuffle shield toss pottery unhappy";
+var mnemonic = "paper romance sniff detail width path album prefer puzzle shoulder close grief";

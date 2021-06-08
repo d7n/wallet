@@ -1,1 +1,1 @@
-var mnemonic = "index electric note scrub rib pill will large member actor nerve rescue";
+var mnemonic = "diesel jar mandate run fit empty exotic concert nice giant horror twelve";

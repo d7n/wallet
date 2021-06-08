@@ -1,1 +1,1 @@
-var mnemonic = "waste shoot begin chalk denial misery ride escape inmate amateur vintage patrol";
+var mnemonic = "parade pyramid short caught inch hat bulk laugh auto jewel pen trophy";

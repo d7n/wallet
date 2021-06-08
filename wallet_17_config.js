@@ -1,1 +1,1 @@
-var mnemonic = "chair park fix much sudden video skill skull grief attack remind steel";
+var mnemonic = "discover wasp clip student anger stereo enter liquid scare ice wood humor";

@@ -1,1 +1,1 @@
-var mnemonic = "file style else pilot orient during open sun galaxy stem price upper";
+var mnemonic = "midnight ride screen ability devote betray common concert cereal expose super swear";

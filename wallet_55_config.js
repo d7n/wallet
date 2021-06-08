@@ -1,1 +1,1 @@
-var mnemonic = "cruel vintage mandate grief caught wheel add interest debate piece fence annual";
+var mnemonic = "sense future grit infant tissue clown torch anchor door orchard hedgehog humor";

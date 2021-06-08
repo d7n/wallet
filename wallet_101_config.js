@@ -1,1 +1,1 @@
-var mnemonic = "have orient patient tenant advance belt comic cattle junior little unknown victory";
+var mnemonic = "fluid away renew wine work future barely number fault six harvest genuine";

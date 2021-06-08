@@ -1,1 +1,1 @@
-var mnemonic = "cart hat rate erase venture super federal cave add stove senior lucky";
+var mnemonic = "pledge awesome tuna deny maid correct gadget idle such flip drive town";

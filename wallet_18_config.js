@@ -1,1 +1,1 @@
-var mnemonic = "promote that cheese museum close copper situate satisfy reopen hurt debris kitten";
+var mnemonic = "century frog wife step chunk style industry grain poem major multiply twin";

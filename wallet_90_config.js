@@ -1,1 +1,1 @@
-var mnemonic = "oval kidney lend trick subway banner borrow stadium horror canal student almost";
+var mnemonic = "element unfair sample profit congress feel crucial very uniform cloth mix wrestle";

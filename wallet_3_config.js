@@ -1,1 +1,1 @@
-var mnemonic = "invest rifle silly system drum supply barrel combine above bachelor train great";
+var mnemonic = "surround wrong fruit abuse auto segment skirt similar idea midnight sibling oak";

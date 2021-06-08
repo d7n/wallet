@@ -1,1 +1,1 @@
-var mnemonic = "sugar garment reject debris tent bid lawn wasp cycle panel invite lend";
+var mnemonic = "tilt welcome depart vapor nuclear vault rubber inspire venture drip train notable";

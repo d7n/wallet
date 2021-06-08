@@ -1,1 +1,1 @@
-var mnemonic = "dwarf depth tree knock dignity pave current vicious first field jump coyote";
+var mnemonic = "stadium clock miss swim various exist must offer boss energy grow obvious";

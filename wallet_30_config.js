@@ -1,1 +1,1 @@
-var mnemonic = "almost busy ring lobster divert cricket same load bench rebuild cattle green";
+var mnemonic = "shove ready online walnut gallery later notable inject tourist scheme salt usual";

@@ -1,1 +1,1 @@
-var mnemonic = "soda master minor monitor have twice vague path cigar tell unlock oil";
+var mnemonic = "captain jeans rescue invite whisper social lend one estate magnet open dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow bench person curve project mean aware old exist crime tackle middle";
+var mnemonic = "merry student curious dream repair fan artefact action film into comic print";

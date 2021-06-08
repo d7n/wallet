@@ -1,1 +1,1 @@
-var mnemonic = "junk opera mercy yard live fat ready present media trial ritual true";
+var mnemonic = "cargo dad measure age spy shift toy shove cry clog modify banana";

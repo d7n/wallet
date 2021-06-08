@@ -1,1 +1,1 @@
-var mnemonic = "side slam fashion slam inform suspect cream armor summer finger throw crumble";
+var mnemonic = "piece pencil blood ozone feel tip casino toward own march palace wagon";

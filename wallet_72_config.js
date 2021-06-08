@@ -1,1 +1,1 @@
-var mnemonic = "betray skate edge easily able vintage enact jacket satoshi better include trophy";
+var mnemonic = "vibrant section icon model churn monkey fire quarter junior enemy million desert";

@@ -1,1 +1,1 @@
-var mnemonic = "hip reward swallow atom fruit mail army must history mammal neither shoe";
+var mnemonic = "combine forest work shoulder goddess voice reject stove tone skirt bind flight";

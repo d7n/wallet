@@ -1,1 +1,1 @@
-var mnemonic = "faint boy matrix alcohol magnet hybrid fade hockey riot enlist trend inflict";
+var mnemonic = "speak avocado subway project radio yard submit mail afraid mechanic walk cover";

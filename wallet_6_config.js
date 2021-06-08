@@ -1,1 +1,1 @@
-var mnemonic = "pear relief arrive forget ivory cargo hockey comic glad happy profit recipe";
+var mnemonic = "bird success worth ready supply wear silk chair kick coast early federal";

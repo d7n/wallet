@@ -1,1 +1,1 @@
-var mnemonic = "demand soap sting again interest picture bicycle story seed oval execute office";
+var mnemonic = "pelican action utility input wear staff soccer annual salon sauce grunt valve";

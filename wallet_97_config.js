@@ -1,1 +1,1 @@
-var mnemonic = "spy armor street soon donkey wreck palace steel assault cruel negative cricket";
+var mnemonic = "couch thrive voice scrub problem accident business inch army uncle slow short";

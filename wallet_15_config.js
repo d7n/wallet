@@ -1,1 +1,1 @@
-var mnemonic = "attitude beauty sail approve wage door exclude brand fancy all kit display";
+var mnemonic = "marriage inner disagree slush carry flush diagram join stairs loyal cook curtain";

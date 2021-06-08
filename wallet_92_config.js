@@ -1,1 +1,1 @@
-var mnemonic = "evidence door brown luxury summer paddle pluck alter weekend gloom obey play";
+var mnemonic = "example suspect panther slot stick puzzle focus mountain style blouse shy echo";

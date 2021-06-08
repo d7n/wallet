@@ -1,1 +1,1 @@
-var mnemonic = "process monkey version music wide trust guard coach job unfold imitate outer";
+var mnemonic = "image naive ankle decline original cactus debris elephant series yellow soon salmon";

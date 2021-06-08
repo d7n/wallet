@@ -1,1 +1,1 @@
-var mnemonic = "lake stumble hurt orange relax kiss kiss kit fly another husband chair";
+var mnemonic = "census worry escape meat alert lend juice scrap track expire solid equal";

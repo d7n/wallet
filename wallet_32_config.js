@@ -1,1 +1,1 @@
-var mnemonic = "denial claim milk bottom prosper foil police climb filter fluid train gorilla";
+var mnemonic = "modify minimum milk dose feature steak comic skin bleak piece purpose face";

@@ -1,1 +1,1 @@
-var mnemonic = "call junior impulse only symbol degree depend general virtual sugar cheese oblige";
+var mnemonic = "early grit comfort movie silk entire trap round version film admit govern";

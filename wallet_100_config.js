@@ -1,1 +1,1 @@
-var mnemonic = "violin syrup current opera nothing luggage derive excess neutral twice fetch middle";
+var mnemonic = "route page eight history frequent apart elephant congress cry toy goat crane";

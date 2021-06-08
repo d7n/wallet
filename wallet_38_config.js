@@ -1,1 +1,1 @@
-var mnemonic = "figure wasp camp inner crystal conduct arctic evoke benefit critic apology hint";
+var mnemonic = "runway sauce buddy stumble net drum moon example give unhappy isolate sure";

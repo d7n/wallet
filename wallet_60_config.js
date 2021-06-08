@@ -1,1 +1,1 @@
-var mnemonic = "energy myself special piano vintage task hybrid pony lemon abuse utility hawk";
+var mnemonic = "right tobacco enable order nut stadium risk injury bomb happy village motion";

@@ -1,1 +1,1 @@
-var mnemonic = "seek fee feed behave depth crash crouch rifle olympic tone glance permit";
+var mnemonic = "vibrant frost enemy invest churn impose volume pyramid shock immune memory below";

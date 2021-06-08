@@ -1,1 +1,1 @@
-var mnemonic = "imitate smooth human casual anchor weasel joke meat review dance such century";
+var mnemonic = "second dutch cheap genuine luggage ski tragic ask thing option science explain";

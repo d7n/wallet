@@ -1,1 +1,1 @@
-var mnemonic = "celery say sun woman slush elder elevator indicate ghost fog hundred present";
+var mnemonic = "garbage gas stick people copper december artefact cycle skirt blame answer vendor";

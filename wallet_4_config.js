@@ -1,1 +1,1 @@
-var mnemonic = "unusual update draft surround change cup immune topic viable sort portion online";
+var mnemonic = "sail parade mask another fold shadow census cannon inhale travel night grant";

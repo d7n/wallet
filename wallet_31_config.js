@@ -1,1 +1,1 @@
-var mnemonic = "donor mean world hotel critic wrestle slice primary miss casual brain best";
+var mnemonic = "silk laptop frown drama pumpkin wash cycle traffic leave afraid virtual invite";

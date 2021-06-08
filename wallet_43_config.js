@@ -1,1 +1,1 @@
-var mnemonic = "fade accident genius seminar brick wing whisper hospital boring rural initial arrange";
+var mnemonic = "photo sponsor sphere project pass goose antique wedding olympic black gaze oven";

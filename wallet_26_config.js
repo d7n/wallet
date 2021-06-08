@@ -1,1 +1,1 @@
-var mnemonic = "enter report draft symbol mask address lucky mandate office fix audit risk";
+var mnemonic = "dial social stage high permit chaos stuff annual cliff hospital model radar";

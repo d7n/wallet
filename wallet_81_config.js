@@ -1,1 +1,1 @@
-var mnemonic = "upgrade love multiply puppy family garment act segment laugh burst erupt own";
+var mnemonic = "glare hidden neither jar ceiling pact system broom target popular uncover rent";

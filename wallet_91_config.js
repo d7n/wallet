@@ -1,1 +1,1 @@
-var mnemonic = "illness water gallery case train awkward bracket genius tube benefit volcano seed";
+var mnemonic = "priority garment meadow vault option man quarter nature crack bachelor safe nasty";

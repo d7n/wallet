@@ -1,1 +1,1 @@
-var mnemonic = "aisle update visual unknown image eternal wet budget grow prison bottom unusual";
+var mnemonic = "choose toast lobster barrel below miss chaos click away spoon fragile trade";

@@ -1,1 +1,1 @@
-var mnemonic = "track squirrel sausage walk expose bus mixture bundle sound museum mountain flee";
+var mnemonic = "rose inspire knock town enact spend call cause dial stuff type hope";

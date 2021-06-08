@@ -1,1 +1,1 @@
-var mnemonic = "balance cover grace all swallow size rose desk angry shoulder chicken neutral";
+var mnemonic = "horror gossip whisper napkin pond bubble kingdom bean gorilla true assist ladder";

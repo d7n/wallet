@@ -1,1 +1,1 @@
-var mnemonic = "lamp peace coffee napkin crew silent smooth present supreme secret excess fix";
+var mnemonic = "broom radar burst neither occur wrong grace culture actual enjoy cheese say";

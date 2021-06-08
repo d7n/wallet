@@ -1,1 +1,1 @@
-var mnemonic = "title carbon mystery lawsuit cabbage leopard reform ginger wait hood fluid census";
+var mnemonic = "dawn burden twenty furnace debate pitch fame power name illness depth mail";

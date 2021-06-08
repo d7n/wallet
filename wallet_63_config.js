@@ -1,1 +1,1 @@
-var mnemonic = "pulp define develop accuse oyster canal student manage load empty congress project";
+var mnemonic = "clown system fluid dinner happy impact lounge video mix mother blood filter";

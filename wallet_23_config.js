@@ -1,1 +1,1 @@
-var mnemonic = "lift harvest bunker unusual immune asset sniff give joke holiday setup sand";
+var mnemonic = "heavy width damage rule foot scale crime wheel rotate valve update bean";

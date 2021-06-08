@@ -1,1 +1,1 @@
-var mnemonic = "climb pelican mad kitchen hollow apart catch meat abuse zebra where power";
+var mnemonic = "tiny design panther force easy gain tonight slow pelican indoor mystery pond";

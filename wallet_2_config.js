@@ -1,1 +1,1 @@
-var mnemonic = "fiscal music element around focus nurse gaze fluid rhythm kiwi humble peanut";
+var mnemonic = "bomb infant sell vapor riot transfer unaware analyst hen cannon scheme dilemma";

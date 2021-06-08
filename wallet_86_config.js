@@ -1,1 +1,1 @@
-var mnemonic = "deposit gloom enroll secret vicious betray screen decorate antique either sniff rate";
+var mnemonic = "flight funny rent craft material subject urban inform potato chief ecology success";

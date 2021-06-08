@@ -1,1 +1,1 @@
-var mnemonic = "usual device thing dust clown pink nice quiz sight gaze average eyebrow";
+var mnemonic = "rigid swim same lobster panda normal century fluid square exile intact tray";

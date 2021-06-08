@@ -1,1 +1,1 @@
-var mnemonic = "gospel bench song job quit used float party tragic stumble bid target";
+var mnemonic = "review hazard summer come pyramid royal fiber flavor blouse antenna emerge potato";

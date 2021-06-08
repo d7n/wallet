@@ -1,1 +1,1 @@
-var mnemonic = "ostrich cabbage legal mammal feed autumn hundred toe little once oval capable";
+var mnemonic = "morning cereal blind over share around wine curious bulk gold heart bonus";

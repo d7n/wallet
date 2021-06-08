@@ -1,1 +1,1 @@
-var mnemonic = "orchard glad parent energy frost neutral describe gaze useful dose top foster";
+var mnemonic = "crash dawn army divorce taste clinic spike sting green lock actual violin";

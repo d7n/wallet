@@ -1,1 +1,1 @@
-var mnemonic = "summer place night buyer upper point smile grab way outside adjust car";
+var mnemonic = "they weasel young depth uncover void token slender garment scrap update bar";

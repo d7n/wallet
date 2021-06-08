@@ -1,1 +1,1 @@
-var mnemonic = "can lava ice piano miss frozen street dry famous order trick ice";
+var mnemonic = "stable oak broom cherry initial canal type access genuine swarm poet very";

@@ -1,1 +1,1 @@
-var mnemonic = "neither grant zero mutual believe assume ocean wink clean valve never turtle";
+var mnemonic = "venue surround please alert pattern liquid element monkey fish lemon pear sword";

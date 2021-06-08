@@ -1,1 +1,1 @@
-var mnemonic = "right room alpha view lizard true pass reform verb rally fly arena";
+var mnemonic = "powder cage trim lady acoustic weasel world else divorce animal hospital arm";

@@ -1,1 +1,1 @@
-var mnemonic = "melody bird letter design measure gain cook board taxi father draft corn";
+var mnemonic = "cry lizard gesture solar chief coast ranch bachelor boss thought tenant run";

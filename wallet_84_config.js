@@ -1,1 +1,1 @@
-var mnemonic = "gloom episode quality culture road hint ranch few acid voyage tenant scatter";
+var mnemonic = "private trick detail only oven diesel border bamboo laundry cluster chest couch";

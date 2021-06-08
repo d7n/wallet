@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit morning clock observe switch emotion online kiss primary art usage balance";
+var mnemonic = "water coach snap apple slot engine since buyer fringe alter moon advice";

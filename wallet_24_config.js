@@ -1,1 +1,1 @@
-var mnemonic = "crack wink brain can base fringe exhaust zebra section august opinion tourist";
+var mnemonic = "arch slush above crush spare uncle umbrella upgrade field quick vacuum club";
