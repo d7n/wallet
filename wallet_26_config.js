@@ -1,1 +1,1 @@
-var mnemonic = "guess rack unlock stock enact immune powder cute december favorite pulp lizard";
+var mnemonic = "happy hurt timber woman require stem hip powder distance scorpion arrow renew";

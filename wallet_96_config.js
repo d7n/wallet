@@ -1,1 +1,1 @@
-var mnemonic = "minute rural there usage turn garment swing flavor mention tongue cargo evidence";
+var mnemonic = "mansion outer hope sport treat pretty auto seven chat clinic glass immune";

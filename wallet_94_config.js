@@ -1,1 +1,1 @@
-var mnemonic = "metal clap pole tumble peasant sad shine east spoil flee solution fatal";
+var mnemonic = "hero oppose hero moment zone blast romance morning melt fiber used error";

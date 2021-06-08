@@ -1,1 +1,1 @@
-var mnemonic = "egg pair snack thumb develop topple science tiny lyrics deal loyal shuffle";
+var mnemonic = "carpet jaguar cousin clinic budget patrol box tennis plate polar topic wife";

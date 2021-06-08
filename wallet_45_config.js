@@ -1,1 +1,1 @@
-var mnemonic = "solar before sight income dirt thank brain velvet skin shuffle ball ugly";
+var mnemonic = "easily oyster job hidden dutch genuine soap sausage estate path switch decade";

@@ -1,1 +1,1 @@
-var mnemonic = "climb subway tuna hollow oil team hello valid indicate must depart bacon";
+var mnemonic = "pulp omit couple fade question twenty exact hello across force unknown egg";

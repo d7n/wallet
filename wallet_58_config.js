@@ -1,1 +1,1 @@
-var mnemonic = "keep devote print trigger diet impose quarter gasp slow all weekend nice";
+var mnemonic = "ranch expect youth camera thrive pepper neglect rigid recycle meadow nest unveil";

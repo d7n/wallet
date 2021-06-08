@@ -1,1 +1,1 @@
-var mnemonic = "thank book vendor this monster pond virtual awake index unique flight shoot";
+var mnemonic = "turtle idea topic castle require dove spirit web valve escape snack stage";

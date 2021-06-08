@@ -1,1 +1,1 @@
-var mnemonic = "goose bronze negative juice aspect general foster nice leisure magnet hill dance";
+var mnemonic = "night cave daughter conduct tunnel motor rival project save tobacco insane hamster";

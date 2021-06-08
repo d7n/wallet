@@ -1,1 +1,1 @@
-var mnemonic = "slam now essence manage concert rate ramp tomorrow elder inch hurt put";
+var mnemonic = "cram problem hood city laundry ski type myth size toddler journey spoon";

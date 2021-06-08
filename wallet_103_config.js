@@ -1,1 +1,1 @@
-var mnemonic = "nest bulb announce give cup alley bar frame scale later kind retreat";
+var mnemonic = "enter frog canyon salt consider runway tobacco cover surprise maid close noble";

@@ -1,1 +1,1 @@
-var mnemonic = "update unknown note motion youth select cactus elevator youth rigid cereal first";
+var mnemonic = "round cruel force sock merit opinion solar shed toe wash discover damp";

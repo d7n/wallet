@@ -1,1 +1,1 @@
-var mnemonic = "second retreat already another exclude cactus hundred globe person twenty glide afford";
+var mnemonic = "convince begin kiss toe couple impose club execute surprise erosion ordinary peace";

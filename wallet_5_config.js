@@ -1,1 +1,1 @@
-var mnemonic = "blanket robot return ghost crop toddler fat length quality response heart beyond";
+var mnemonic = "owner mail witness pink ice rescue eyebrow lesson moral report subway great";

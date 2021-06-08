@@ -1,1 +1,1 @@
-var mnemonic = "donate shy panic rubber uncover pond welcome jazz away unfair nerve woman";
+var mnemonic = "believe junk labor skate unique reunion crush grow egg plate foil atom";

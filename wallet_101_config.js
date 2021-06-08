@@ -1,1 +1,1 @@
-var mnemonic = "bulk engage master same matrix admit fun sunny casual admit despair divorce";
+var mnemonic = "any barrel cereal category armed duck help coyote excite crack cluster praise";

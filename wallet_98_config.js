@@ -1,1 +1,1 @@
-var mnemonic = "engage joy actress top addict tennis cram secret cry bubble impact hair";
+var mnemonic = "tower ugly radar tennis height walnut future buyer old exclude number farm";

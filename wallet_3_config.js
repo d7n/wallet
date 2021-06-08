@@ -1,1 +1,1 @@
-var mnemonic = "lizard thank control creek ill tape situate super valley depend utility submit";
+var mnemonic = "sure normal weird dad bind pet code stay delay often aisle spot";

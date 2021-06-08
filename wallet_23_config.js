@@ -1,1 +1,1 @@
-var mnemonic = "pig section brand absorb isolate fork panther roof scout innocent air relief";
+var mnemonic = "traffic credit mobile monitor income law thing smart east all defense luxury";

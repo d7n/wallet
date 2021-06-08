@@ -1,1 +1,1 @@
-var mnemonic = "aunt bridge tower height deal tent miss census truth garlic during tiger";
+var mnemonic = "oyster vapor hedgehog hazard defy bounce brave tooth girl hospital resource discover";

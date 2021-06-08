@@ -1,1 +1,1 @@
-var mnemonic = "sad prepare syrup castle middle leave guard taxi impose bamboo sea hobby";
+var mnemonic = "square siege muffin chronic pitch eyebrow hundred valve height safe bunker design";

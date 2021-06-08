@@ -1,1 +1,1 @@
-var mnemonic = "gorilla essence grit rice exclude annual gown load tuna fantasy slogan wedding";
+var mnemonic = "stadium silver duck apple father doll unknown hill dentist memory frozen surge";

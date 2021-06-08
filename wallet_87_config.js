@@ -1,1 +1,1 @@
-var mnemonic = "orient better income core seat evil grocery pumpkin pulp oven elephant soda";
+var mnemonic = "build impact gap swarm tornado impact hundred inform apart oven craft trophy";

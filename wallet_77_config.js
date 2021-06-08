@@ -1,1 +1,1 @@
-var mnemonic = "injury eyebrow hunt race toast sound truck dune left rabbit public interest";
+var mnemonic = "hurdle inherit disagree capable return van final roast river airport useless win";

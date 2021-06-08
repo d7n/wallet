@@ -1,1 +1,1 @@
-var mnemonic = "frozen dose clown champion manage thunder call window category attack virus that";
+var mnemonic = "trigger supreme shield rail drill stay general thing access element one canvas";

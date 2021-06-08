@@ -1,1 +1,1 @@
-var mnemonic = "key rotate high carpet neglect script old daughter effort rare solve trend";
+var mnemonic = "kangaroo imitate vehicle client can tooth crater stamp soccer stone autumn social";

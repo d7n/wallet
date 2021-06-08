@@ -1,1 +1,1 @@
-var mnemonic = "coyote custom marriage early square census share process actual dad electric core";
+var mnemonic = "immune melody parade shove history lamp sea write glue vast steak armed";

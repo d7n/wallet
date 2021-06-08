@@ -1,1 +1,1 @@
-var mnemonic = "mirror foil voice metal inform expand wife artefact main want enjoy client";
+var mnemonic = "project prize salute pattern margin range timber guitar genius fetch toddler arm";

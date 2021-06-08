@@ -1,1 +1,1 @@
-var mnemonic = "gain ticket tower occur neglect flush upper forum govern ramp knock leg";
+var mnemonic = "scrap auction spy video skirt feature produce goose cinnamon goose repeat mother";

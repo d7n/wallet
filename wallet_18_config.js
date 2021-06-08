@@ -1,1 +1,1 @@
-var mnemonic = "debris soda alert win debris pull hybrid gorilla just sketch foil despair";
+var mnemonic = "south endless achieve quit nation unique vehicle identify marble air load silly";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor spring rent turn luxury basic core flush nasty tooth quarter robot";
+var mnemonic = "cannon check slab mansion again twelve fragile document aware husband farm library";

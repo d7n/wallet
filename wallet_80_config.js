@@ -1,1 +1,1 @@
-var mnemonic = "crush announce thumb gospel garden category window fancy update predict vivid solution";
+var mnemonic = "artist foster skill corn bracket next end pink remain upper address range";

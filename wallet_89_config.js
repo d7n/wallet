@@ -1,1 +1,1 @@
-var mnemonic = "place pause dwarf muffin oak invite blur destroy source switch thrive title";
+var mnemonic = "note excuse mail desk reason sunny milk pride fragile thank east arena";

@@ -1,1 +1,1 @@
-var mnemonic = "tail input drip broken hard vivid deal ball lion eight lunch stand";
+var mnemonic = "apple chair hammer clock hole burst mixed depart fly decide file pause";

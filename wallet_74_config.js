@@ -1,1 +1,1 @@
-var mnemonic = "bottom unusual paddle already morning luxury helmet horn flight puzzle long tray";
+var mnemonic = "release lab fuel model honey bacon because observe coast used market alley";

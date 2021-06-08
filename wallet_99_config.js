@@ -1,1 +1,1 @@
-var mnemonic = "strong evolve pipe style gesture obscure candy wreck royal enroll steak play";
+var mnemonic = "lumber tuition senior ensure work service blush alarm major address later unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve obtain ostrich maximum position state cluster huge chicken palace liquid skirt";
+var mnemonic = "good tide problem slow memory iron theme wife spell wisdom mind riot";

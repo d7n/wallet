@@ -1,1 +1,1 @@
-var mnemonic = "vague vacuum fish saddle summer angle board flip found rival lab blanket";
+var mnemonic = "winter home program load pause unhappy soup exhaust heart laptop long fire";

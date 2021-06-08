@@ -1,1 +1,1 @@
-var mnemonic = "sunny rather report inner task major warm salt play dice occur near";
+var mnemonic = "proud dawn broken leave mobile blur field luggage couple motion raven blood";

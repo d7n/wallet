@@ -1,1 +1,1 @@
-var mnemonic = "beef april tourist hub business kitchen prosper awesome search prevent donor police";
+var mnemonic = "zone loan acoustic cinnamon worry tourist bulk wife olive plastic powder bid";

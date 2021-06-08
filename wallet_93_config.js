@@ -1,1 +1,1 @@
-var mnemonic = "cave play eye exercise allow pen various erosion total unfold chest age";
+var mnemonic = "cruise fault crane expand arctic engine snake total equip elder little manage";

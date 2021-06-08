@@ -1,1 +1,1 @@
-var mnemonic = "cry tuna estate ticket bundle direct zero clump camp agent lend excite";
+var mnemonic = "surface rare else alley present entire famous arrow gloom message carbon scare";

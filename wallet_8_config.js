@@ -1,1 +1,1 @@
-var mnemonic = "stereo peanut gesture render script chicken olympic broom envelope joke gather tribe";
+var mnemonic = "post attitude input zoo fame tattoo liberty call social brain scheme shoot";

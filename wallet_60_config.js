@@ -1,1 +1,1 @@
-var mnemonic = "buyer remove author success win indicate machine tumble magic trim imitate chair";
+var mnemonic = "cliff twist cart mechanic portion blanket vast easily melody sort helmet viable";

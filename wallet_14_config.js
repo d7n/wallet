@@ -1,1 +1,1 @@
-var mnemonic = "focus almost someone matrix payment sign say peace jaguar cloud leisure radar";
+var mnemonic = "version address mobile pony hedgehog retire slide imitate wasp summer obey fire";

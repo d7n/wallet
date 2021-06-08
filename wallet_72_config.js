@@ -1,1 +1,1 @@
-var mnemonic = "intact arrow door mind market early lecture practice gasp forward load caught";
+var mnemonic = "always unable idea miracle dinosaur air into black wild pioneer decline master";

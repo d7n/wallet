@@ -1,1 +1,1 @@
-var mnemonic = "dog pool now emerge behave crane quiz physical squeeze aunt people frog";
+var mnemonic = "inherit female fitness stairs text knee negative sausage antique truck novel clown";

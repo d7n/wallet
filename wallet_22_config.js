@@ -1,1 +1,1 @@
-var mnemonic = "media cave coil insane inner afford remove eight novel basket summer void";
+var mnemonic = "deal right search proof rail tide bus skill hold sure claim crowd";

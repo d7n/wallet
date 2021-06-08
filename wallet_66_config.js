@@ -1,1 +1,1 @@
-var mnemonic = "egg road flower grain rose evidence run sudden nephew matter turn thank";
+var mnemonic = "believe spoil song charge domain food entry subway roof mistake piano rally";

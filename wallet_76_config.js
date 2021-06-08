@@ -1,1 +1,1 @@
-var mnemonic = "actress define panther fence resource skin solution easy road reunion mushroom kidney";
+var mnemonic = "wool height develop define solution ranch tiger refuse forward bottom trumpet gentle";

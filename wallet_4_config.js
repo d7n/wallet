@@ -1,1 +1,1 @@
-var mnemonic = "public shine need deputy message lawn various umbrella point spring vacant gallery";
+var mnemonic = "water ball kitchen above planet scheme fabric witness music parade slight blame";

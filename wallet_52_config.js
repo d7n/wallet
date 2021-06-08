@@ -1,1 +1,1 @@
-var mnemonic = "mistake gown guess sample skirt liberty alcohol diesel direct layer runway banner";
+var mnemonic = "wagon congress federal equip mechanic logic image quote candy repair giant tell";

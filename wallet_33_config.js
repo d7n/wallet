@@ -1,1 +1,1 @@
-var mnemonic = "light suspect casual demise aim mind barrel husband summer loud churn dust";
+var mnemonic = "fury later robust alien wrestle nature undo tank hurry gloom sure custom";

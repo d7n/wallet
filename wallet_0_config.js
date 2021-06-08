@@ -1,1 +1,1 @@
-var mnemonic = "place beef chunk month spray shock extend lecture cactus crunch satoshi wrestle";
+var mnemonic = "daughter lonely harsh forest deposit flash final void stay sting fix wrist";

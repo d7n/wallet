@@ -1,1 +1,1 @@
-var mnemonic = "metal remind very exhaust avoid lyrics jungle worth half super gain connect";
+var mnemonic = "cradle wolf blast cruel oyster square congress sun often claw midnight become";

@@ -1,1 +1,1 @@
-var mnemonic = "horn brother discover suggest ritual scrub ridge napkin cricket crowd spin tornado";
+var mnemonic = "behind armor film horn degree author annual cube enhance vibrant silk plug";

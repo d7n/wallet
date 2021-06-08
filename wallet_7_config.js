@@ -1,1 +1,1 @@
-var mnemonic = "state ugly physical pencil buyer dance raven choose chuckle chase rescue wisdom";
+var mnemonic = "budget blouse wedding deny key wish chuckle magic eager virus jacket vicious";

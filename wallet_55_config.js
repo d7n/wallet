@@ -1,1 +1,1 @@
-var mnemonic = "auction clip boy couple entire lift target scrap dutch ship mention label";
+var mnemonic = "copper unlock awful weird security turn eight hundred hole salmon harbor engage";

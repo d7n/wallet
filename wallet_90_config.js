@@ -1,1 +1,1 @@
-var mnemonic = "again flight salad human chef diamond birth danger foil rally square snake";
+var mnemonic = "boost olive regret city gather cousin buffalo badge sweet destroy fat unit";

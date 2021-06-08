@@ -1,1 +1,1 @@
-var mnemonic = "put link south genre remember summer wet tomorrow manual upon duck town";
+var mnemonic = "best initial dentist half cause issue island blush copy cave access govern";

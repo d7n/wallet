@@ -1,1 +1,1 @@
-var mnemonic = "degree certain blue excess clay robot energy spring verify fine easily love";
+var mnemonic = "dwarf confirm audit cliff oven secret design quick welcome hybrid friend allow";

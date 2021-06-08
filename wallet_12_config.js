@@ -1,1 +1,1 @@
-var mnemonic = "riot tumble width bridge favorite obey suffer melody obtain kangaroo garden write";
+var mnemonic = "dance book clock supreme involve purpose open seven lion foil moment taste";

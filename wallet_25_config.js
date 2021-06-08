@@ -1,1 +1,1 @@
-var mnemonic = "trust gift roof vessel accuse very dilemma rubber shove access help unit";
+var mnemonic = "gospel awful east asthma spray display option border fruit just bless lawn";

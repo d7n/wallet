@@ -1,1 +1,1 @@
-var mnemonic = "ice search token theme wave cycle matrix indoor silent space oval bonus";
+var mnemonic = "easily scatter imitate tank recall erupt code ticket impose sugar slow noodle";

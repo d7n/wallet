@@ -1,1 +1,1 @@
-var mnemonic = "width message own garbage enemy minute survey solution clay hope script filter";
+var mnemonic = "law purity chapter family mass satoshi rather gaze come garbage cinnamon tooth";

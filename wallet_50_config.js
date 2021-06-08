@@ -1,1 +1,1 @@
-var mnemonic = "unfair box enough screen oval hospital random sibling gentle liberty initial crack";
+var mnemonic = "skill journey nice use decade access program flight mind divorce ethics mule";

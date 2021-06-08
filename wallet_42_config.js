@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo body amused deputy margin example cotton fall author tissue decrease autumn";
+var mnemonic = "ankle moon dial shop satisfy early three pudding enrich trap also label";

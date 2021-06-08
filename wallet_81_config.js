@@ -1,1 +1,1 @@
-var mnemonic = "win royal urge grid broken pizza index toe garage long sense must";
+var mnemonic = "hour post hedgehog same laugh essence luxury hurt toast dilemma blue street";

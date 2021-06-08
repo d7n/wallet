@@ -1,1 +1,1 @@
-var mnemonic = "ocean chair prevent retreat door foot crew brown aerobic squirrel slush simple";
+var mnemonic = "proof scout normal delay bless else crisp behave extra mercy wrist labor";

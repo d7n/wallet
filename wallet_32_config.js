@@ -1,1 +1,1 @@
-var mnemonic = "virtual alley service mule pass guess field topple skin teach print short";
+var mnemonic = "long chair stand tired hair subject mistake cricket wealth journey destroy snap";

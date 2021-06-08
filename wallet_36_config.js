@@ -1,1 +1,1 @@
-var mnemonic = "record awake rent praise tray original museum ethics resemble list wedding lend";
+var mnemonic = "rebel that poverty forward rescue photo stamp liar always useful huge sound";

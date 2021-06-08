@@ -1,1 +1,1 @@
-var mnemonic = "early duty grain loop boss buffalo morning flee like world actress gauge";
+var mnemonic = "foster burger achieve essay lumber song panther winner curtain faith track person";

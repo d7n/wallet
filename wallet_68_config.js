@@ -1,1 +1,1 @@
-var mnemonic = "learn swallow wasp unable ship cake hotel swing fever shove only also";
+var mnemonic = "hunt soon loop dirt board keen alpha evoke avoid evil frequent police";

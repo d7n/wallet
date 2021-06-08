@@ -1,1 +1,1 @@
-var mnemonic = "faint swallow plunge enroll extra jeans wash chest market green steak honey";
+var mnemonic = "garden taste educate soap panda differ dilemma also combine state cat hamster";

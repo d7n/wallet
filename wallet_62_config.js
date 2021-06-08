@@ -1,1 +1,1 @@
-var mnemonic = "combine sample left sick stool lab hammer dinosaur country decrease boring annual";
+var mnemonic = "design property viable nurse pudding useful jump mass tuition actor mutual unhappy";

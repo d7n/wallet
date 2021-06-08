@@ -1,1 +1,1 @@
-var mnemonic = "joke armed sting company sadness rubber push flush word affair sponsor agent";
+var mnemonic = "hedgehog buyer noise weird always cause color defy still artwork flower gentle";

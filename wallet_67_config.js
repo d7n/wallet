@@ -1,1 +1,1 @@
-var mnemonic = "sail field husband fit educate citizen casino adapt process lawsuit advice process";
+var mnemonic = "push lonely romance true poet city garment profit cricket supply second random";

@@ -1,1 +1,1 @@
-var mnemonic = "treat slow wheel soccer crowd pledge peasant reason hurdle artist mention neglect";
+var mnemonic = "when original vacant health install hero clip drill jeans reduce spawn shrug";

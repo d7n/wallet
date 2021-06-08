@@ -1,1 +1,1 @@
-var mnemonic = "liar permit keep cheap desert diagram birth album shuffle similar urban ability";
+var mnemonic = "emotion slam ring fatigue case solar blame dumb trigger quantum laundry wealth";

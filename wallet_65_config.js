@@ -1,1 +1,1 @@
-var mnemonic = "volume brave humor medal wreck split slow nation siege actual parade inspire";
+var mnemonic = "young barely champion believe aunt pigeon captain fashion sound treat unfold jar";

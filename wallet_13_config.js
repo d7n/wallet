@@ -1,1 +1,1 @@
-var mnemonic = "stumble giraffe inherit aunt sense casino essay sea inspire thunder dinner that";
+var mnemonic = "throw drama universe claim ticket kid inspire syrup subject place muffin someone";

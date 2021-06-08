@@ -1,1 +1,1 @@
-var mnemonic = "cigar speak chase episode decline approve woman exercise episode purchase gossip disagree";
+var mnemonic = "recycle deal into book rhythm resource voyage brass face company receive neutral";

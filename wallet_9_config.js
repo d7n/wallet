@@ -1,1 +1,1 @@
-var mnemonic = "ability mobile public oppose advance thing put unknown dirt bring lend fuel";
+var mnemonic = "vivid jelly dream coral because chat broccoli topple arrest eyebrow hello slight";

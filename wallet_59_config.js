@@ -1,1 +1,1 @@
-var mnemonic = "speak account act hawk normal enrich assume say empower vault arena evoke";
+var mnemonic = "belt develop fragile pool never dignity habit text sugar bleak have bacon";

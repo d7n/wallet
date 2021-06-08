@@ -1,1 +1,1 @@
-var mnemonic = "scare fire hedgehog misery force series ticket rail float will black common";
+var mnemonic = "input ask artefact normal birth barrel acoustic gap disorder egg wire typical";

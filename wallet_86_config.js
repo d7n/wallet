@@ -1,1 +1,1 @@
-var mnemonic = "puzzle cinnamon gasp debate rain have siren shell put fold blame march";
+var mnemonic = "manual pull replace excite fence depart sweet umbrella labor false castle velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "craft hole leopard mansion gesture crunch unlock outside rail dynamic inspire switch";
+var mnemonic = "service list letter engage thunder pigeon minute truck bacon piece scale cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "friend wedding unhappy benefit quote possible whip coyote refuse gun just belt";
+var mnemonic = "broken deliver accuse child congress uncle apart write dice polar caught suspect";

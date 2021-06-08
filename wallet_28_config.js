@@ -1,1 +1,1 @@
-var mnemonic = "chef great trumpet swift rail shift token cargo spray attract prefer figure";
+var mnemonic = "conduct gospel moral guide rebuild tip hat smoke inflict ostrich before labor";

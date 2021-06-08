@@ -1,1 +1,1 @@
-var mnemonic = "burst glow real live robot fortune shield depth federal gravity joke zebra";
+var mnemonic = "mechanic ship cup wine bounce nominee crawl fun rate finish better science";

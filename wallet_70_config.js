@@ -1,1 +1,1 @@
-var mnemonic = "tennis bar craft assault marine require conduct anger borrow select ask affair";
+var mnemonic = "whip asthma power ecology oyster breeze zero divert winner tongue oblige message";

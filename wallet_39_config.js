@@ -1,1 +1,1 @@
-var mnemonic = "script wrist napkin hip round elephant picnic exile solve help minor scheme";
+var mnemonic = "oppose air goddess wise path twelve need round spider victory door load";

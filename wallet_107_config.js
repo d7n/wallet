@@ -1,1 +1,1 @@
-var mnemonic = "tomato depend battle birth army same medal balance fox blossom junior flock";
+var mnemonic = "advance replace bulb onion old raven pyramid maid employ brief flight grit";

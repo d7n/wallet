@@ -1,1 +1,1 @@
-var mnemonic = "pelican arrange nominee roof trouble cabin wrist donor budget remember december atom";
+var mnemonic = "pudding match change twelve badge evolve table pilot dress pink cereal walnut";

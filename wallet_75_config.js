@@ -1,1 +1,1 @@
-var mnemonic = "true price syrup naive bar comic impulse brick amateur glory improve water";
+var mnemonic = "blue shift rally order soup twist enemy chest power modify guess hollow";

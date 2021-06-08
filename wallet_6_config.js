@@ -1,1 +1,1 @@
-var mnemonic = "gloom entry chalk person cattle reveal bless loan open jeans stumble profit";
+var mnemonic = "ahead business luggage robust nation romance tell old lion reopen ethics charge";

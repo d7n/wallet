@@ -1,1 +1,1 @@
-var mnemonic = "core glance letter talent bottom praise normal tobacco cart seat lab century";
+var mnemonic = "art spy twin coin bike dash sun sugar steel river when caught";
