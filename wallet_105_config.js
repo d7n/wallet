@@ -1,1 +1,1 @@
-var mnemonic = "foam century gloom leaf faculty piece base cement viable maid flock shallow";
+var mnemonic = "multiply surface festival axis pattern ramp exist sausage general mansion glory adult";

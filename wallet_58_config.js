@@ -1,1 +1,1 @@
-var mnemonic = "bracket stay hurry swallow system lunar local cook vehicle during trick logic";
+var mnemonic = "turtle service tired loud metal spider cinnamon space rally among throw math";

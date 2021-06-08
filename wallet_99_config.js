@@ -1,1 +1,1 @@
-var mnemonic = "mechanic ghost favorite fun bundle gain lab visual pulp security comic monster";
+var mnemonic = "tennis lesson oven prefer despair rough certain south noodle cover stereo south";

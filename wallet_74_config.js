@@ -1,1 +1,1 @@
-var mnemonic = "visa nice bread kind wrestle hill desk high zone debris start tennis";
+var mnemonic = "bulk glad finish witness loan name quiz purchase ski solid achieve inform";

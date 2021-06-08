@@ -1,1 +1,1 @@
-var mnemonic = "defense hand lobster web island spend zoo globe fame banana clay tornado";
+var mnemonic = "lounge pledge race wealth also slide grass fence table ranch cool piano";

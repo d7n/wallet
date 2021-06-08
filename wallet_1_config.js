@@ -1,1 +1,1 @@
-var mnemonic = "trial design shell token dynamic nasty matter vintage actress oyster genuine neck";
+var mnemonic = "place spot symbol where subject final rifle silent coil outside dilemma spot";

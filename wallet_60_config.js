@@ -1,1 +1,1 @@
-var mnemonic = "seed caught special double enter stage rack frozen voyage reason notable midnight";
+var mnemonic = "snap drink nasty happy apple inmate guide pottery parent code doll cigar";

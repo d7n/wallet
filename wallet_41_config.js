@@ -1,1 +1,1 @@
-var mnemonic = "clever motor dove fade fine game donkey elder welcome then twelve borrow";
+var mnemonic = "system pink name champion fatal raw file illness funny cousin expire seven";

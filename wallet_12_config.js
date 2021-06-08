@@ -1,1 +1,1 @@
-var mnemonic = "surprise conduct anger skin great vendor excite raccoon direct hen blouse lens";
+var mnemonic = "camera banana bean slam blame spot start bounce twist inject weapon grace";

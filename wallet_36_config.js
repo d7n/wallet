@@ -1,1 +1,1 @@
-var mnemonic = "protect account display patient come anchor roast jewel indoor evoke error clip";
+var mnemonic = "arrest gift dolphin cigar social solar slight lobster exile shrimp autumn curtain";

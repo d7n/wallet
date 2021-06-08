@@ -1,1 +1,1 @@
-var mnemonic = "link curious brush fat leisure lemon bright blue stable tortoise monkey rude";
+var mnemonic = "athlete grief discover bubble over pink iron expire steak van test damp";

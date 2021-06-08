@@ -1,1 +1,1 @@
-var mnemonic = "level face flame over fit drift farm prosper feel path above magic";
+var mnemonic = "captain jazz party family cotton salon silk because develop knife thought sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "please chest marine fan uncover better core lawn asset buzz able orbit";
+var mnemonic = "bubble promote city toast devote anchor river boost water accident age alarm";

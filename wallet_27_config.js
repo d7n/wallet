@@ -1,1 +1,1 @@
-var mnemonic = "yellow surface oxygen stay outside rather initial team thought spike like top";
+var mnemonic = "cheap hurdle illness number teach guess safe donkey gossip rural boring apple";

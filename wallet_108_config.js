@@ -1,1 +1,1 @@
-var mnemonic = "absurd weekend ahead mushroom slight news sugar dragon teach vault price pave";
+var mnemonic = "merry crop cry they broom burden dirt lemon infant oak movie topple";

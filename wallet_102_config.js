@@ -1,1 +1,1 @@
-var mnemonic = "canal social arrive country will life test egg abuse any clutch ugly";
+var mnemonic = "prize high forest room spice reflect angle gravity payment bind plastic crime";

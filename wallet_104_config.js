@@ -1,1 +1,1 @@
-var mnemonic = "parrot demise shed matter live mirror wheat language cattle tape concert cause";
+var mnemonic = "small once vicious fame discover autumn hat script elevator hard scale humble";

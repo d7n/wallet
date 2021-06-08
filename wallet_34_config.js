@@ -1,1 +1,1 @@
-var mnemonic = "capable matter olympic fuel rural cook silent hub snack field dice work";
+var mnemonic = "cream high young hello gloom exhibit recipe topple visit bitter copper mention";

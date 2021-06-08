@@ -1,1 +1,1 @@
-var mnemonic = "duck coach normal setup ridge sleep hour submit sibling wet tell raw";
+var mnemonic = "foot arrest into solve broccoli episode trick scorpion vehicle cheap wool warrior";

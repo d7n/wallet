@@ -1,1 +1,1 @@
-var mnemonic = "deal enable napkin alien ostrich segment chunk awkward illegal surface scare immune";
+var mnemonic = "meat spike carpet square reason exact adult balcony crisp rebel safe census";

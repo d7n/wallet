@@ -1,1 +1,1 @@
-var mnemonic = "antenna video rude artist pyramid fury fence december author else scissors furnace";
+var mnemonic = "pioneer chimney wide tower firm debris lucky tomato track awkward what luggage";

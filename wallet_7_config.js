@@ -1,1 +1,1 @@
-var mnemonic = "guard gap connect note place dial village rent time vote fitness always";
+var mnemonic = "board canyon deposit umbrella sentence crew soup hungry liar arm gather audit";

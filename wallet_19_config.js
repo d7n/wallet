@@ -1,1 +1,1 @@
-var mnemonic = "shallow window lumber orange empower salad input lonely across notice shine loyal";
+var mnemonic = "legal stay saddle general cry chunk hunt letter story clean napkin today";

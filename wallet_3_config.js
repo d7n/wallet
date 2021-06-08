@@ -1,1 +1,1 @@
-var mnemonic = "crawl bicycle play repair sign thing sausage during wealth olive group shoulder";
+var mnemonic = "flat recall sugar easily coil upper museum gift focus cable solve property";

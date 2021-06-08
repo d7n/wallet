@@ -1,1 +1,1 @@
-var mnemonic = "clever awesome clog can lend spell vehicle bubble energy arrange number awkward";
+var mnemonic = "wonder frozen awake settle toddler split gadget kid narrow fame program fine";

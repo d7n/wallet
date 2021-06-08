@@ -1,1 +1,1 @@
-var mnemonic = "solid jealous galaxy elegant away route entry tomato check exhaust party portion";
+var mnemonic = "custom involve use athlete expose mesh flavor find faith noise brain pact";

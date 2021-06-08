@@ -1,1 +1,1 @@
-var mnemonic = "broccoli report mixture remind timber wide catch price sure enlist this connect";
+var mnemonic = "toward hello vault cover cage unknown wait pill border fit weird bone";

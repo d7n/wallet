@@ -1,1 +1,1 @@
-var mnemonic = "mango lyrics ill beyond kid crack choose void atom sustain hole task";
+var mnemonic = "train gossip hungry science pigeon meadow system ketchup proof shrimp bulk van";

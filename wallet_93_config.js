@@ -1,1 +1,1 @@
-var mnemonic = "good win churn chimney junior since mass remove chalk bright refuse correct";
+var mnemonic = "drift initial sort race salute decrease mask unhappy owner wolf unknown cook";

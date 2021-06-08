@@ -1,1 +1,1 @@
-var mnemonic = "riot intact park giraffe blood couple bitter crane essence elevator enlist cousin";
+var mnemonic = "gravity mention resemble rough eight absurd bonus make capable first patrol tank";

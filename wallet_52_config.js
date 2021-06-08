@@ -1,1 +1,1 @@
-var mnemonic = "nose echo fix muffin farm cloth accident seat organ glove rather acid";
+var mnemonic = "kid desert mail cloth embrace east electric embody explain aisle tobacco shove";

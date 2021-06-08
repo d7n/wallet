@@ -1,1 +1,1 @@
-var mnemonic = "light comfort seven select essence blue mesh risk life dignity apple trash";
+var mnemonic = "oblige update math stem priority absent glide negative excite mechanic cherry vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "month shift husband pair obtain isolate ghost zebra welcome wave picnic shock";
+var mnemonic = "punch rent hero practice dizzy off melody picture hour interest educate bread";

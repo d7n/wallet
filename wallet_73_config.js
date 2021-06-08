@@ -1,1 +1,1 @@
-var mnemonic = "buzz north bus final diagram expose gallery shiver exile shoe dial crowd";
+var mnemonic = "ugly olympic notice birth fox divorce chimney where erosion swarm cry isolate";

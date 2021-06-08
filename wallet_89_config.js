@@ -1,1 +1,1 @@
-var mnemonic = "elder dignity wood harbor second bird rhythm scissors this valve wink senior";
+var mnemonic = "wash seed creek arrange lyrics diagram angle point repeat canoe quantum distance";

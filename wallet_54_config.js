@@ -1,1 +1,1 @@
-var mnemonic = "lecture innocent whale razor flock boss melt junior essence company theory demise";
+var mnemonic = "blind interest dumb slab second demise famous tank vessel palm version heart";

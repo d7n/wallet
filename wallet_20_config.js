@@ -1,1 +1,1 @@
-var mnemonic = "also wonder dignity slender random similar jacket scrub guitar abstract famous affair";
+var mnemonic = "all license dirt isolate busy orient file victory empower patrol immune what";

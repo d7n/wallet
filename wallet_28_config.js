@@ -1,1 +1,1 @@
-var mnemonic = "mushroom mystery this course group check crisp episode tool salute bracket stem";
+var mnemonic = "boil birth dwarf harvest ready twelve soup wool try anger tip beach";

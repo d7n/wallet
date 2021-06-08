@@ -1,1 +1,1 @@
-var mnemonic = "young strategy pitch arctic jaguar put purchase display easily ensure fee menu";
+var mnemonic = "start diamond flag enemy deal dignity hope similar mimic skill ready medal";

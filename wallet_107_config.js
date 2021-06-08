@@ -1,1 +1,1 @@
-var mnemonic = "shoot curve input solid chalk pigeon help discover uncle view shiver essay";
+var mnemonic = "scale stove victory spread march marriage high shaft rigid goose purse educate";

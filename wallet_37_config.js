@@ -1,1 +1,1 @@
-var mnemonic = "nest few cereal roast tip search neutral fatal symbol degree penalty recall";
+var mnemonic = "husband wrong uncle galaxy gorilla other scrub effort garbage draw run prevent";

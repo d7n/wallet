@@ -1,1 +1,1 @@
-var mnemonic = "journey anger bind under half frame trophy float clay tree unfold toy";
+var mnemonic = "super vibrant finger smooth front tackle ghost silk kidney typical nation decide";

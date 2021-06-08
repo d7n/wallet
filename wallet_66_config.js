@@ -1,1 +1,1 @@
-var mnemonic = "size dust push allow nose test thing desert holiday myth legend mandate";
+var mnemonic = "record accuse sight light walk drama fly brick master cannon that movie";

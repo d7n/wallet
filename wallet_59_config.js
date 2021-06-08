@@ -1,1 +1,1 @@
-var mnemonic = "siege panther august imitate bronze yellow liberty vacant draft poem night tuna";
+var mnemonic = "tourist deer leopard payment hungry above theme trip option fatigue toy decide";

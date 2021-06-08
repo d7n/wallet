@@ -1,1 +1,1 @@
-var mnemonic = "clutch royal future mother sister clean field session pudding art sustain punch";
+var mnemonic = "roast mango rent laundry book mistake page detail scale scrub banana tell";

@@ -1,1 +1,1 @@
-var mnemonic = "save major mistake spare supply awkward assault razor beach okay isolate thing";
+var mnemonic = "wheel wear stomach quarter always adapt female admit antenna satisfy evoke also";

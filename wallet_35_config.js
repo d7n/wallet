@@ -1,1 +1,1 @@
-var mnemonic = "inject relax there direct social cover range fitness stand project blind coin";
+var mnemonic = "garden torch tobacco ice merge argue train slender market garlic riot modify";

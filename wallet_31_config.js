@@ -1,1 +1,1 @@
-var mnemonic = "theory deny trophy measure movie cake glow churn you margin honey gadget";
+var mnemonic = "ancient satoshi must alley conduct raw vessel fan behind voyage whale glove";

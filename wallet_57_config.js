@@ -1,1 +1,1 @@
-var mnemonic = "adapt minor output trend pumpkin fade ribbon divert hip offer potato cable";
+var mnemonic = "blush grab midnight general pony tent artist nominee cage empty spare hand";

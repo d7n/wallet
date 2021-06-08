@@ -1,1 +1,1 @@
-var mnemonic = "woman pond rough hello surprise useful small gaze spike hunt long warrior";
+var mnemonic = "tunnel afraid spawn enroll screen burst frozen only denial farm attend hello";

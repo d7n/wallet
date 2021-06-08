@@ -1,1 +1,1 @@
-var mnemonic = "flush disease earn second digital step reject blood collect chunk empower blood";
+var mnemonic = "slice pact silly poem walnut year goat crunch goat blouse media celery";

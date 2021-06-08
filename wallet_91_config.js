@@ -1,1 +1,1 @@
-var mnemonic = "evoke boring edit own put test curious vivid truth raw food cat";
+var mnemonic = "charge cook toss frame bid ghost season shove spell travel duck legend";

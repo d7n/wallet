@@ -1,1 +1,1 @@
-var mnemonic = "outside shaft glue fit success price bird panic rail offer cabbage solar";
+var mnemonic = "radar toddler latin bless sphere size prize result century ethics cave unique";

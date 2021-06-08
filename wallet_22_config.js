@@ -1,1 +1,1 @@
-var mnemonic = "duty taxi inject rib jaguar forum side walnut bullet fluid multiply ability";
+var mnemonic = "flush excess purchase reward fuel shadow gate custom walk initial shoot panda";

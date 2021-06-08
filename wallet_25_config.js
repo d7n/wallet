@@ -1,1 +1,1 @@
-var mnemonic = "setup quality nut avoid before weird ship thought film twelve delay sauce";
+var mnemonic = "circle major chef entire electric hello grunt tiny arena spice cement range";

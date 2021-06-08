@@ -1,1 +1,1 @@
-var mnemonic = "glue ensure awake meadow adjust universe useless any alpha shock vacuum movie";
+var mnemonic = "labor achieve hazard move someone during own dice crawl amazing waste thought";

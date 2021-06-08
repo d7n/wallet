@@ -1,1 +1,1 @@
-var mnemonic = "arctic domain vital twin anchor today extra practice forest afford exile almost";
+var mnemonic = "axis diet airport ginger budget text canyon silly tackle head dove analyst";

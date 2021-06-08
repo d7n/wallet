@@ -1,1 +1,1 @@
-var mnemonic = "trim cabin lazy dilemma prefer lottery rally fresh library sleep twin obvious";
+var mnemonic = "legend creek kit rose indicate warm cheap theme theory bring ugly actual";

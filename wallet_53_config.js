@@ -1,1 +1,1 @@
-var mnemonic = "couch oil wealth phone worth market argue body gate surprise solar apart";
+var mnemonic = "talk suit inspire priority odor drill already aunt test tiny kit leisure";

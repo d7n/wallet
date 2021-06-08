@@ -1,1 +1,1 @@
-var mnemonic = "reason gossip nice manual impact tenant gloom play sure ridge fruit there";
+var mnemonic = "reopen mosquito old nose polar vanish educate fog again measure pipe expand";

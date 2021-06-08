@@ -1,1 +1,1 @@
-var mnemonic = "stable sure wave sand puzzle stool grab catalog suggest wild urge shoe";
+var mnemonic = "multiply chaos window sail dance cargo nuclear zebra bulk banana resemble repair";

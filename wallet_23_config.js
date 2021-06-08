@@ -1,1 +1,1 @@
-var mnemonic = "spell neutral off kitten pair proof used belt swing mystery shove often";
+var mnemonic = "toy horse chimney prefer dinner lift rigid net course nut stick exhibit";

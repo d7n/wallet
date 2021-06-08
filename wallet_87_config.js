@@ -1,1 +1,1 @@
-var mnemonic = "potato airport wise smoke entire kind panda stove return salute life cousin";
+var mnemonic = "reveal rose tribe upon army seat stable black fiscal debate dignity paddle";

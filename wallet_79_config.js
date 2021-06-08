@@ -1,1 +1,1 @@
-var mnemonic = "pear step delay olympic spatial oblige digital large vital initial runway network";
+var mnemonic = "mobile energy machine across run pass rough loop work problem seminar tourist";

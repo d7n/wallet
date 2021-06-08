@@ -1,1 +1,1 @@
-var mnemonic = "physical neck napkin text system local cruel hurry large rigid usage palace";
+var mnemonic = "smile invest winter patch invite someone want capital black icon clean crazy";

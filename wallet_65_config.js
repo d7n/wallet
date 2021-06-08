@@ -1,1 +1,1 @@
-var mnemonic = "pride virtual multiply time enlist squeeze actual table hen modify rice fit";
+var mnemonic = "scout opinion boat garage misery domain chief garbage erase proof time fortune";

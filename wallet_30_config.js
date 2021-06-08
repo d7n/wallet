@@ -1,1 +1,1 @@
-var mnemonic = "hobby reopen naive error rate rather math reform float license labor pool";
+var mnemonic = "canoe symptom round motor brain rough emotion pass master useful trim alter";

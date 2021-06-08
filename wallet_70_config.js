@@ -1,1 +1,1 @@
-var mnemonic = "swamp range age weapon round major food air eager feel oxygen panic";
+var mnemonic = "apart can remove myself feature frame chunk engage net often blur book";

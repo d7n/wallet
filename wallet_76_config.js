@@ -1,1 +1,1 @@
-var mnemonic = "boss dawn offer play fence soccer physical enemy conduct arrive pear notice";
+var mnemonic = "royal rely beach actress denial refuse height round mirror focus army frequent";

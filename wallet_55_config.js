@@ -1,1 +1,1 @@
-var mnemonic = "walnut bamboo drive fence zebra panther ranch once various rocket rail suggest";
+var mnemonic = "thunder border fee strike rose because rebel whale diet fee civil love";

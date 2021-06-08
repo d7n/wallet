@@ -1,1 +1,1 @@
-var mnemonic = "grain sphere crew resource hair cruise company nest trash verify hen distance";
+var mnemonic = "soap unfold balance orchard cheap wink toy diary ridge tired grit seed";

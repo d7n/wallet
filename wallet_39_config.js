@@ -1,1 +1,1 @@
-var mnemonic = "depth off fat clump dizzy wing memory bar patch cotton cotton uniform";
+var mnemonic = "eagle tomorrow spell analyst stamp sorry few return wide diet define stairs";

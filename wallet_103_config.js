@@ -1,1 +1,1 @@
-var mnemonic = "zero mesh divide garlic never ticket ginger jump clay auto filter dinosaur";
+var mnemonic = "riot walnut work throw abandon cheese alley reduce flight novel rich image";

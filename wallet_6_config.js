@@ -1,1 +1,1 @@
-var mnemonic = "initial grape giraffe rival tag shrug language exotic record draw spoon recall";
+var mnemonic = "salmon venture glare awful scatter fee note prize possible soul snake mixed";

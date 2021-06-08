@@ -1,1 +1,1 @@
-var mnemonic = "vehicle oyster visual armor vivid few attract valve exchange provide creek awkward";
+var mnemonic = "picture glory enough mother moral fever tomorrow forward trust birth history hobby";

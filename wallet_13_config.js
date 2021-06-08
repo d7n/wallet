@@ -1,1 +1,1 @@
-var mnemonic = "behind atom culture ugly bargain subway sleep produce soldier speak weather arena";
+var mnemonic = "claim door envelope firm cattle moment beyond object caution that slight memory";

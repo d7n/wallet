@@ -1,1 +1,1 @@
-var mnemonic = "flee helmet layer discover siege pudding blame bracket sick creek cheese hobby";
+var mnemonic = "boat leaf hard auto apology another sorry envelope mammal stadium make glimpse";

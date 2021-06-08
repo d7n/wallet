@@ -1,1 +1,1 @@
-var mnemonic = "chimney illness little diet galaxy improve dragon session army property secret distance";
+var mnemonic = "clog smooth build cluster junk false audit legal genuine gap make box";

@@ -1,1 +1,1 @@
-var mnemonic = "frown jazz left race among hamster execute alone reject husband smooth increase";
+var mnemonic = "key stick opera safe gesture ride must pull increase sentence garden dash";

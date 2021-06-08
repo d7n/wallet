@@ -1,1 +1,1 @@
-var mnemonic = "lamp discover buddy alley error vapor hill diet neither speak maid leave";
+var mnemonic = "noise foster cactus before credit style orient moment wait sweet curious clump";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit keen pool cook deputy shiver vicious plate coral tube budget valley";
+var mnemonic = "smooth album such blind grow hover basket blouse usage cushion oyster flip";
