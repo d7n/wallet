@@ -1,1 +1,1 @@
-var mnemonic = "false salon bubble become project defy lock wasp label defy future park";
+var mnemonic = "level spider that damage milk educate now update upper sunset fiction debris";

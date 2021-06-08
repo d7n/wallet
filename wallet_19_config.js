@@ -1,1 +1,1 @@
-var mnemonic = "grace news pause hair task fan diagram dragon clock lady ridge leave";
+var mnemonic = "trigger phone among quantum family ghost slogan more consider explain loop erosion";

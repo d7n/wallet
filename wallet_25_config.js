@@ -1,1 +1,1 @@
-var mnemonic = "fame badge steak table expect double stuff paper cost suspect ski pair";
+var mnemonic = "chat bonus feed warm cake fluid size crack region huge deny filter";

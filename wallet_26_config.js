@@ -1,1 +1,1 @@
-var mnemonic = "onion bleak immense clerk roast cabbage pencil accident dinner daughter hat disorder";
+var mnemonic = "correct emerge approve trap decide sure various radar random mesh super car";

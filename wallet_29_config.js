@@ -1,1 +1,1 @@
-var mnemonic = "sea word boat heavy bonus order once venue trial lava saddle ivory";
+var mnemonic = "effort bleak orphan chair mass outside height beef edge rose post pulp";

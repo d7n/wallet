@@ -1,1 +1,1 @@
-var mnemonic = "spice inflict muffin argue blame rebuild animal grid surge express oyster lobster";
+var mnemonic = "index wreck fiber chapter lawsuit logic poverty horror burst any lady venue";

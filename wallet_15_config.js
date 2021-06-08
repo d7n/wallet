@@ -1,1 +1,1 @@
-var mnemonic = "width target elegant supply victory submit media hurt lyrics mad ill vacuum";
+var mnemonic = "ritual order owner oyster height buffalo final code inch disorder album muffin";

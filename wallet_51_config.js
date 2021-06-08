@@ -1,1 +1,1 @@
-var mnemonic = "uniform frost table impulse rescue quote utility target box wedding property flavor";
+var mnemonic = "angle matter powder syrup picnic fabric hurry gift surprise erode bless online";

@@ -1,1 +1,1 @@
-var mnemonic = "erode error gown enlist bomb deer pencil strike scrub guide hold bracket";
+var mnemonic = "patrol turkey trumpet hospital problem year paddle fox august embark demand shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "song wave party asset seminar explain raw lumber combine grain buyer shuffle";
+var mnemonic = "endorse spoon execute finger brush dust scan fashion eight rose toss priority";

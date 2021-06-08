@@ -1,1 +1,1 @@
-var mnemonic = "radar boring middle occur find list never remember mirror kid deer sunset";
+var mnemonic = "goose female sport forget mule erosion rubber double hockey above clap oval";

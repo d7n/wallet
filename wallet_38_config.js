@@ -1,1 +1,1 @@
-var mnemonic = "tail sell pride sort able wave decorate life brief east bridge derive";
+var mnemonic = "brief mind pool vague aim erase abandon size surprise document vote patch";

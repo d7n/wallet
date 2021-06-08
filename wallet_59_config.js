@@ -1,1 +1,1 @@
-var mnemonic = "weapon kangaroo smooth blush hundred guess lumber furnace maple found health romance";
+var mnemonic = "depth matter token finish exhaust tooth grief number burst hotel absurd exhaust";

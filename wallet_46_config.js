@@ -1,1 +1,1 @@
-var mnemonic = "celery idea safe infant afraid syrup install circle will student come snap";
+var mnemonic = "jelly ask finish since dress pumpkin limb poet turtle fun nice crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet trade style island suspect puppy choice meat reveal thunder baby lizard";
+var mnemonic = "liberty solve paper roof cause badge sense grain limit spy ring maximum";

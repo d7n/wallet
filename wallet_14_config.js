@@ -1,1 +1,1 @@
-var mnemonic = "dash glove segment buyer script blue about ill crime balance avoid zebra";
+var mnemonic = "knock number tourist index nest eagle cost tuition obscure phone divert tornado";

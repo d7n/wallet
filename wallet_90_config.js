@@ -1,1 +1,1 @@
-var mnemonic = "pizza original gain pattern whip liar ceiling weasel torch woman memory entry";
+var mnemonic = "fat shrug iron gauge extra setup urban deer suffer grocery post board";

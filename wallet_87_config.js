@@ -1,1 +1,1 @@
-var mnemonic = "waste screen trial depend patient concert draft betray usage blanket ladder hundred";
+var mnemonic = "tongue violin include wall outside cloth warrior program joke innocent coin jar";

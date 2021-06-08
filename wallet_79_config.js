@@ -1,1 +1,1 @@
-var mnemonic = "donkey rival art obvious immense sweet deliver govern budget bus rude obtain";
+var mnemonic = "runway stand pistol bomb update agent laugh sight destroy force noodle sponsor";

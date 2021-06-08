@@ -1,1 +1,1 @@
-var mnemonic = "canoe slush hurry foster fish typical must frost fee emerge casual target";
+var mnemonic = "fat volcano library doll question add rule evil vote coffee fetch scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle curtain seminar essence collect promote great hen brick dust method liquid";
+var mnemonic = "vintage then flag hybrid deputy suggest world three swing airport erase suggest";

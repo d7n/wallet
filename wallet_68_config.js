@@ -1,1 +1,1 @@
-var mnemonic = "ghost cool dance popular awful runway public enable rocket suspect dash civil";
+var mnemonic = "salon height patient repair width brown virtual shield gate hybrid trick bind";

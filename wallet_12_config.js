@@ -1,1 +1,1 @@
-var mnemonic = "soccer pause waste survey notable nest below fine begin elder comfort destroy";
+var mnemonic = "board tail increase more alter client initial pattern payment guide good sketch";

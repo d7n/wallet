@@ -1,1 +1,1 @@
-var mnemonic = "double cost census basket alley ketchup anxiety youth primary change fish october";
+var mnemonic = "buyer grit grape oxygen laundry rail rude drip barely vacuum obscure immense";

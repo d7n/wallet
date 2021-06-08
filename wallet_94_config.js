@@ -1,1 +1,1 @@
-var mnemonic = "drink unveil replace gaze surge carbon engage quit climb squeeze habit hub";
+var mnemonic = "rifle spin rebel steel amazing captain match deposit cave resemble rabbit prize";

@@ -1,1 +1,1 @@
-var mnemonic = "attend giraffe oblige return auction slogan ostrich ozone ski radar food front";
+var mnemonic = "service ship reward employ radio beach laugh drink note cart stadium kite";

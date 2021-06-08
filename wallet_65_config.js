@@ -1,1 +1,1 @@
-var mnemonic = "worth ecology little exercise casual antenna talent tornado lawn lab ask donkey";
+var mnemonic = "honey toe swear old sand reduce art lend gift denial budget smooth";

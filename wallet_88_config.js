@@ -1,1 +1,1 @@
-var mnemonic = "trade voyage robust skirt check sniff smart abandon venture fiber shuffle tennis";
+var mnemonic = "used faith language enable arctic matter fade hire dinner defy session veteran";

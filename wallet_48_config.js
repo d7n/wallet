@@ -1,1 +1,1 @@
-var mnemonic = "poet neck awesome write mixed ready dog emerge guilt blur purse like";
+var mnemonic = "alcohol fish ordinary casino hope since ethics chicken grow air pole put";

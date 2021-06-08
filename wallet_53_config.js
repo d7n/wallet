@@ -1,1 +1,1 @@
-var mnemonic = "warm alter begin miracle category agree egg nut ship clown avoid festival";
+var mnemonic = "lemon hamster test chicken urge vocal chapter olympic scale wife leopard maple";

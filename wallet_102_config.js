@@ -1,1 +1,1 @@
-var mnemonic = "squeeze twelve student detect observe goat correct pair undo vague hockey truly";
+var mnemonic = "uphold general travel night salon legal trial item habit park arrest proud";

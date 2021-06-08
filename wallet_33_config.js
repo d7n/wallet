@@ -1,1 +1,1 @@
-var mnemonic = "actress essence civil snow stool plate suspect rough turn oak sheriff vote";
+var mnemonic = "excess cook fashion stumble family wheel grape matrix table tuna history pet";

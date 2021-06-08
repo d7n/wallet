@@ -1,1 +1,1 @@
-var mnemonic = "skin broccoli salt collect gossip volcano velvet outdoor thrive jelly nothing collect";
+var mnemonic = "aerobic genius empower rabbit picture blame patient genius crime aspect worth case";

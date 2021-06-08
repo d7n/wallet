@@ -1,1 +1,1 @@
-var mnemonic = "machine unfair actress ten boy charge task clutch borrow language glass mango";
+var mnemonic = "stereo bundle manage indicate simple lawn spider smile satoshi gentle leader day";

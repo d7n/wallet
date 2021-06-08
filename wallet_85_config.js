@@ -1,1 +1,1 @@
-var mnemonic = "grief arrange trust recipe daring federal pride roast know sheriff kingdom diamond";
+var mnemonic = "green always strategy witness tribe satoshi token monster title sea warm health";

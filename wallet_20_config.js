@@ -1,1 +1,1 @@
-var mnemonic = "device project satoshi valley salon world just slim price knee light fury";
+var mnemonic = "aisle steak detect daughter differ polar lemon fame swallow smile forum stone";

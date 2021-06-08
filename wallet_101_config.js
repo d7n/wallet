@@ -1,1 +1,1 @@
-var mnemonic = "imitate apology alcohol toast expand original below swear shop claw setup soup";
+var mnemonic = "cup dress ritual potato cancel green stable behind mesh warfare stumble immense";

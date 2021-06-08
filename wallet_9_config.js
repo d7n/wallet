@@ -1,1 +1,1 @@
-var mnemonic = "worth turkey empty butter thought tray pact across slush minimum isolate party";
+var mnemonic = "member metal advance mix maze chronic decade tuition faint memory destroy gain";

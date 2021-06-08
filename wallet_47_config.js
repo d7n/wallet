@@ -1,1 +1,1 @@
-var mnemonic = "blush unit before escape amount light anchor glass list paper copy sing";
+var mnemonic = "since innocent million sure taste pride flush usage monitor square canoe blast";

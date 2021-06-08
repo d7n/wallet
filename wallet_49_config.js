@@ -1,1 +1,1 @@
-var mnemonic = "grace moral teach exercise kite input drip awkward army over nation fork";
+var mnemonic = "thank side custom uncover budget blade glue valley kind loyal destroy image";

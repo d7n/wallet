@@ -1,1 +1,1 @@
-var mnemonic = "tape aspect detail tonight thrive evil subject rebuild someone bullet cinnamon dry";
+var mnemonic = "marble donkey marble fetch maid warm pull soup exist flip denial kangaroo";

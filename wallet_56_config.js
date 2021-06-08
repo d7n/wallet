@@ -1,1 +1,1 @@
-var mnemonic = "labor harsh weapon pattern rely truly sock clerk only reopen asthma wheat";
+var mnemonic = "amateur jar airport again wool purity fit vast volume pistol brick hill";

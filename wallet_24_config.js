@@ -1,1 +1,1 @@
-var mnemonic = "capable museum night angle gate erode slender marine clown clap envelope model";
+var mnemonic = "nurse file nuclear town brave ensure tornado legend lecture real rule fault";

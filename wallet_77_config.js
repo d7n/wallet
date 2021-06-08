@@ -1,1 +1,1 @@
-var mnemonic = "feel neither marine shoe desert uphold high digital all slender slow nut";
+var mnemonic = "taste allow scissors cliff figure uniform together silly shaft scare chase remind";

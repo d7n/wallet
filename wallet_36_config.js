@@ -1,1 +1,1 @@
-var mnemonic = "tongue hub year general escape regret fiber real wage spirit inhale amateur";
+var mnemonic = "awful purity find stay happy turn bundle key below fancy scare term";

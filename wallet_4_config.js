@@ -1,1 +1,1 @@
-var mnemonic = "fashion guitar hip great patrol give honey prevent half service strategy expect";
+var mnemonic = "close useful asset grit banana trip rotate brisk poverty cycle cake apart";

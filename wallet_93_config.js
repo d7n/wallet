@@ -1,1 +1,1 @@
-var mnemonic = "meat artist matrix scan joy sausage club caught cook coffee rhythm blast";
+var mnemonic = "much adjust diet when traffic virtual garbage drum museum torch snake hunt";

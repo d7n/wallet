@@ -1,1 +1,1 @@
-var mnemonic = "fruit detail mammal space siege hill prepare okay diesel icon uncover else";
+var mnemonic = "stomach void zebra tourist salt disease decorate desert write trap parrot raw";

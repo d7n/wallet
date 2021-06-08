@@ -1,1 +1,1 @@
-var mnemonic = "virtual aunt like version surprise vague dumb drive review clever wash harvest";
+var mnemonic = "crowd person escape friend way laptop earn air siren auto eyebrow minute";

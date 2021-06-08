@@ -1,1 +1,1 @@
-var mnemonic = "tree reflect whip police sell develop beef clock idle safe bundle culture";
+var mnemonic = "play dwarf advice party reopen cousin crane rain sport grass blush rib";

@@ -1,1 +1,1 @@
-var mnemonic = "island estate pill wine paddle renew hill extend improve yard various wear";
+var mnemonic = "awesome problem manage vicious recipe light obtain short detail tackle velvet keen";

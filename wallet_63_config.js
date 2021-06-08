@@ -1,1 +1,1 @@
-var mnemonic = "family sail you govern royal cross income rhythm wave east skull budget";
+var mnemonic = "run thunder normal lock wine license ranch media vote connect twice diet";

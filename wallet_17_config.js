@@ -1,1 +1,1 @@
-var mnemonic = "frozen vault project fall reward round weapon topic risk frost offer apart";
+var mnemonic = "scare pupil neither scout life embody drum debate flat loud planet include";

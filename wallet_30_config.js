@@ -1,1 +1,1 @@
-var mnemonic = "soon dutch wreck better burden few you hand order nut ketchup like";
+var mnemonic = "volcano throw sentence citizen click mask soup visa repeat stool unlock foot";

@@ -1,1 +1,1 @@
-var mnemonic = "describe problem first shoulder husband rubber symptom material finish weekend mango buzz";
+var mnemonic = "eager current script clutch butter bundle music damp comfort pig speak brave";

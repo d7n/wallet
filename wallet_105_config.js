@@ -1,1 +1,1 @@
-var mnemonic = "coffee magnet nut mistake unable such table harvest barely repair artefact artwork";
+var mnemonic = "slow clerk travel glove early kiss remove online voice edge squirrel session";

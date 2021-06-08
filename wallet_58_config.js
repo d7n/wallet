@@ -1,1 +1,1 @@
-var mnemonic = "liar priority knife valve actual garment artefact fortune morning illness box muffin";
+var mnemonic = "elevator correct young fun female follow false walnut knife certain misery acoustic";

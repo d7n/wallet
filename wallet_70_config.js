@@ -1,1 +1,1 @@
-var mnemonic = "visa under adapt grant surface wife middle chief click glare draw brain";
+var mnemonic = "orange damp few wedding tell square limit cereal script lion screen usual";

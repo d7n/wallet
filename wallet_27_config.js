@@ -1,1 +1,1 @@
-var mnemonic = "mandate excite equal gravity focus book faith middle film old extend industry";
+var mnemonic = "jungle penalty cactus dad tide shy actual you boring agent shield hover";

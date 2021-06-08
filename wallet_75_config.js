@@ -1,1 +1,1 @@
-var mnemonic = "maximum taste velvet consider unfair panda lawsuit barrel chief border sun spray";
+var mnemonic = "hill push fault athlete hurdle settle swear round fever shed route happy";

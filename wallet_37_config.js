@@ -1,1 +1,1 @@
-var mnemonic = "coyote trial cigar margin any marriage share secret hour want magnet any";
+var mnemonic = "glare addict only upgrade beef century magnet duck exotic pigeon orchard involve";

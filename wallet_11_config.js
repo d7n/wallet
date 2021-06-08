@@ -1,1 +1,1 @@
-var mnemonic = "special better educate short lyrics mixed traffic lift month vintage arm door";
+var mnemonic = "abstract december zone flavor win option horror update toilet message ski mother";

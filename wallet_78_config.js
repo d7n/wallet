@@ -1,1 +1,1 @@
-var mnemonic = "trash boring layer dumb uncover reason walnut relief fog average pulse rotate";
+var mnemonic = "impulse list allow pink tunnel film dutch innocent twin night fiscal diamond";

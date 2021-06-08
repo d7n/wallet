@@ -1,1 +1,1 @@
-var mnemonic = "degree apple school soccer guess alone silver state toe quantum dumb daring";
+var mnemonic = "purchase quantum scrap hour turtle impact toe poem runway oxygen snake medal";

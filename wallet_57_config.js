@@ -1,1 +1,1 @@
-var mnemonic = "stool able identify field trophy brush tongue gain suit neglect wire arm";
+var mnemonic = "kidney employ choice style consider arrest rabbit behind raven cabin pen ski";

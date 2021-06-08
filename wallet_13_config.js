@@ -1,1 +1,1 @@
-var mnemonic = "check baby desk abuse keen initial point theme change gentle anxiety orbit";
+var mnemonic = "affair ritual ripple clutch height seven fix online unveil volume rain index";

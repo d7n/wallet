@@ -1,1 +1,1 @@
-var mnemonic = "top wait mass belt photo van dinner cinnamon lobster glow myth wood";
+var mnemonic = "mask black toast cradle cash brief athlete drift final card friend gown";

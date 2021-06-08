@@ -1,1 +1,1 @@
-var mnemonic = "helmet corn govern correct rival river plastic various identify wear ladder birth";
+var mnemonic = "suspect rent romance code winter dolphin print across faith journey kiwi source";

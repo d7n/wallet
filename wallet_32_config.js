@@ -1,1 +1,1 @@
-var mnemonic = "snack onion empower retreat dwarf vault kidney boy fever skill weird rapid";
+var mnemonic = "swift original stool future afraid keep destroy organ sample alley warrior index";

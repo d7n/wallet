@@ -1,1 +1,1 @@
-var mnemonic = "crack cherry kit crystal addict coach sock ranch pill snack magnet decorate";
+var mnemonic = "aim snow luggage crater grace blur goat riot captain fall smoke inch";

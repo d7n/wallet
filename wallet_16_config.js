@@ -1,1 +1,1 @@
-var mnemonic = "endless grant that fever holiday easily neither prefer doctor explain icon west";
+var mnemonic = "aspect expose nose pulse pink multiply lonely plunge turn alcohol reject word";

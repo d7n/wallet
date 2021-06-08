@@ -1,1 +1,1 @@
-var mnemonic = "theme blouse auto culture void nuclear check blouse harsh equip ill soccer";
+var mnemonic = "kidney exact flame october describe vanish common bomb person blind mesh eyebrow";

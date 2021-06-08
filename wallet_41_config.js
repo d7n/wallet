@@ -1,1 +1,1 @@
-var mnemonic = "dial inner rent adult essay range velvet pattern million abstract panic manual";
+var mnemonic = "wreck tennis praise fashion toy act snap scale vapor tooth multiply chronic";

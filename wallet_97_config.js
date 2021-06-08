@@ -1,1 +1,1 @@
-var mnemonic = "danger fiber outer athlete yard march injury behind joke endorse devote giggle";
+var mnemonic = "satoshi social frown dwarf love kidney lobster cheap inform need harsh kind";

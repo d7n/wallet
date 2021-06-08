@@ -1,1 +1,1 @@
-var mnemonic = "gym motor display coil surge ready chat midnight special robust pistol luggage";
+var mnemonic = "credit found behind swamp fashion number punch mistake lounge original fatal pattern";

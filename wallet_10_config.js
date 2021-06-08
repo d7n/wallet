@@ -1,1 +1,1 @@
-var mnemonic = "tuna common evil bright above trumpet rice modify chapter income horse loan";
+var mnemonic = "prison base keep rabbit settle still risk clutch neck drift impulse evil";

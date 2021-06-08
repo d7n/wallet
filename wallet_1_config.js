@@ -1,1 +1,1 @@
-var mnemonic = "coin slight enforce fun light oxygen uncle sphere portion circle electric ankle";
+var mnemonic = "jealous orange happy impose call great slush dolphin luggage marine dad olympic";

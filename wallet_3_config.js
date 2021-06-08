@@ -1,1 +1,1 @@
-var mnemonic = "leaf consider price cattle badge taste drip trend clap property want ski";
+var mnemonic = "report story mystery tide surface open adapt clip buyer october local goose";

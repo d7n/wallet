@@ -1,1 +1,1 @@
-var mnemonic = "limit vehicle garden route obscure pet pigeon fit early describe notice medal";
+var mnemonic = "rally width guide bless pear scan battle vacuum grant refuse evidence grit";

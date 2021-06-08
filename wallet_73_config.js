@@ -1,1 +1,1 @@
-var mnemonic = "jacket battle toddler steel shove garden mention ritual best that ostrich amused";
+var mnemonic = "divert model monitor mimic hair enact napkin alpha notice bind jeans pride";

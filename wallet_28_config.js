@@ -1,1 +1,1 @@
-var mnemonic = "exhibit blood keep smile sniff butter behave convince deny column spare easy";
+var mnemonic = "push dirt that sense ball sorry chat run place soap bike pet";

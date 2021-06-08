@@ -1,1 +1,1 @@
-var mnemonic = "person sand rifle ancient rival purity blouse unable camera gravity junk panic";
+var mnemonic = "speak august settle chicken punch mouse master win rib wealth wall noble";

@@ -1,1 +1,1 @@
-var mnemonic = "grace jungle clarify melody toss mistake chuckle flight goose risk calm portion";
+var mnemonic = "steak rent ignore sausage swift young nurse fabric entire else argue gorilla";

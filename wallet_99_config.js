@@ -1,1 +1,1 @@
-var mnemonic = "filter swift true report chronic help prefer venue engage bone acid kangaroo";
+var mnemonic = "random gentle owner wage protect wedding blame demise force genuine disorder left";

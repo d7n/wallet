@@ -1,1 +1,1 @@
-var mnemonic = "immune car goddess gentle outdoor royal slice circle garment disagree tonight silk";
+var mnemonic = "urge language surprise need green develop tooth devote steel skull small change";

@@ -1,1 +1,1 @@
-var mnemonic = "pet volume flower match crouch maple echo orbit rich air cricket front";
+var mnemonic = "tenant budget slender earth clock panda link scout share luxury remind consider";

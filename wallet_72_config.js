@@ -1,1 +1,1 @@
-var mnemonic = "patrol wage mix limit clutch remove grass junk brand quantum provide party";
+var mnemonic = "deputy mean civil hill fatigue peanut sauce month image suffer like spread";

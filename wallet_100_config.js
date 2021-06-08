@@ -1,1 +1,1 @@
-var mnemonic = "reunion egg lobster gesture such lounge make carry swarm slab despair sure";
+var mnemonic = "meat smile trick solution notable casino own join autumn genuine theory bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate crunch unfair improve tobacco gather south vital crowd upon gaze nose";
+var mnemonic = "universe dynamic assault cycle actual tattoo hero swift prison transfer bullet humble";

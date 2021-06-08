@@ -1,1 +1,1 @@
-var mnemonic = "helmet this pipe ball cart same coconut use bamboo sister hobby border";
+var mnemonic = "endorse industry february drift plastic effort inject hood neglect forget walk seed";

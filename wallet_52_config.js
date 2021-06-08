@@ -1,1 +1,1 @@
-var mnemonic = "educate apart sustain liquid protect fatigue bright next knife floor satisfy fever";
+var mnemonic = "naive bronze rose pencil rapid bar mixture project column sea swear glue";
