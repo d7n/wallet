@@ -1,1 +1,1 @@
-var mnemonic = "endless blade oyster matter execute clarify grid away check region fresh wisdom";
+var mnemonic = "excuse kind peanut day paper scatter life upset element this device pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "detect wing direct view mouse renew affair repeat trip club flight garment";
+var mnemonic = "inform lesson effort kidney spread game crisp unveil involve hair mass eagle";

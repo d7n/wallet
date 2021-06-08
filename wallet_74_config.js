@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo credit cloud suspect confirm leaf make retire eternal fossil obtain quarter";
+var mnemonic = "topic stick shift plunge credit toy filter zone health more rebuild van";

@@ -1,1 +1,1 @@
-var mnemonic = "asset common wisdom alone earn priority law tell march lava repair devote";
+var mnemonic = "marriage animal vault antenna turn found firm jungle lens cabin sea corn";

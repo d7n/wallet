@@ -1,1 +1,1 @@
-var mnemonic = "breeze lottery calm pretty plunge brave monkey outer menu devote swap start";
+var mnemonic = "vapor zero sing fresh final feel blanket cinnamon sweet despair decade camera";

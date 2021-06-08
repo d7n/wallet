@@ -1,1 +1,1 @@
-var mnemonic = "know future dose ready cat castle barely zoo suggest cruel correct chuckle";
+var mnemonic = "desert bargain leg math decline lumber evoke banana hard abandon poem abandon";

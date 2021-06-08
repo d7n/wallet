@@ -1,1 +1,1 @@
-var mnemonic = "rich learn forward brother during mimic promote ill liberty short size plunge";
+var mnemonic = "choice crash narrow kind pepper toilet strike smooth tongue enlist glory pudding";

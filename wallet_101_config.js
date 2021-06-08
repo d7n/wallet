@@ -1,1 +1,1 @@
-var mnemonic = "wage toilet sorry upon dust angry salon belt sauce absorb side juice";
+var mnemonic = "rose despair zoo spider hospital near crawl weasel alert blanket attack usage";

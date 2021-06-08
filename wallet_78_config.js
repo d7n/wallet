@@ -1,1 +1,1 @@
-var mnemonic = "enough suggest spell farm hedgehog provide sunny turkey barrel laundry credit dinosaur";
+var mnemonic = "scorpion true clump visual tank wave file various weird vessel govern awkward";

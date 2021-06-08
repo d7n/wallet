@@ -1,1 +1,1 @@
-var mnemonic = "lion pond siren ticket ivory kind congress pony tunnel fog hollow medal";
+var mnemonic = "wish kiss charge tuition coil bind race sunset saddle zebra snake glory";

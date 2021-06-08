@@ -1,1 +1,1 @@
-var mnemonic = "lesson evolve captain easy large robot recall cat poet bleak blue hollow";
+var mnemonic = "novel before want pony fiber title glide whale about joke vanish tag";

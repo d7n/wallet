@@ -1,1 +1,1 @@
-var mnemonic = "wing mouse island keep later napkin strategy uphold sound area large critic";
+var mnemonic = "main pause police salon unaware entry pair lava grape mechanic general confirm";

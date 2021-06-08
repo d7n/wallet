@@ -1,1 +1,1 @@
-var mnemonic = "jazz still else question cruel type breeze radar mechanic soon speak boy";
+var mnemonic = "loyal bronze slot faith pet onion crane jump panther auction school street";

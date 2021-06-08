@@ -1,1 +1,1 @@
-var mnemonic = "warfare tumble defense dash universe profit canoe shoulder among network dice walk";
+var mnemonic = "combine awesome garage much ripple harvest drop creek input confirm client disorder";

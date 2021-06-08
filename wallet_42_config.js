@@ -1,1 +1,1 @@
-var mnemonic = "lounge quote depend basic truth century awful gesture trouble spice oxygen dignity";
+var mnemonic = "please doctor multiply path cactus burst pole input umbrella plunge wrist paddle";

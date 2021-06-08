@@ -1,1 +1,1 @@
-var mnemonic = "betray deny crouch shrimp palace sad tag task reward script coyote stool";
+var mnemonic = "proof embody youth danger meat outdoor duck camera source retire gossip pistol";

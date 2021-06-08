@@ -1,1 +1,1 @@
-var mnemonic = "welcome ivory economy fox entire crumble voice mix problem poet network trash";
+var mnemonic = "hedgehog jaguar impact soda science coast peanut wave enemy push immense puzzle";

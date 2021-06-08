@@ -1,1 +1,1 @@
-var mnemonic = "kingdom firm drastic apple reflect elbow peanut upgrade napkin edge cave over";
+var mnemonic = "cage output note twin spread shy fetch throw size brother oven benefit";

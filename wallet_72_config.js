@@ -1,1 +1,1 @@
-var mnemonic = "credit swap purse combine cross rail skate balance pond emotion lecture enhance";
+var mnemonic = "embody steel fortune receive visit tail leisure wage swallow girl hurdle theory";

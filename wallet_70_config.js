@@ -1,1 +1,1 @@
-var mnemonic = "modify profit lion dinosaur carbon trend tape gloom husband maximum arrow record";
+var mnemonic = "cake toilet bread soul elbow giraffe window boring you replace walnut maze";

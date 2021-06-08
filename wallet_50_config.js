@@ -1,1 +1,1 @@
-var mnemonic = "ahead about grain mind answer saddle have hedgehog ahead muffin win more";
+var mnemonic = "cinnamon alpha curve parade release crucial cluster treat shove nasty voyage wealth";

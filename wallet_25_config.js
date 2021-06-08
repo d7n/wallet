@@ -1,1 +1,1 @@
-var mnemonic = "metal near garbage travel occur idea idea fork move forum hybrid win";
+var mnemonic = "garbage cliff large inject attend survey gaze buyer speak rich flat best";

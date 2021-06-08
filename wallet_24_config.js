@@ -1,1 +1,1 @@
-var mnemonic = "summer royal ball during relax subject curve legal oak radar capable tray";
+var mnemonic = "film lady letter donkey range tortoise dentist small famous weather width shift";

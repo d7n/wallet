@@ -1,1 +1,1 @@
-var mnemonic = "awake mobile miss cheese spring roast entire leisure ice pass barely capable";
+var mnemonic = "belt range choose stove crack hospital spike deer kite subway jungle pretty";

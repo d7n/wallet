@@ -1,1 +1,1 @@
-var mnemonic = "recall click bench similar glimpse height mosquito misery stick tribe dragon magic";
+var mnemonic = "shoulder limb advice slight page half nation page gift blade ranch surface";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler flight convince skin better foster include author task layer fly hazard";
+var mnemonic = "own venue laptop coast panda outer bone coach relax fluid recall wide";

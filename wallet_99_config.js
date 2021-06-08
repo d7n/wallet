@@ -1,1 +1,1 @@
-var mnemonic = "flee question quarter retire valid food vague camp stairs relax adult early";
+var mnemonic = "retire theory teach gentle hedgehog relax sense labor hollow used dust yellow";

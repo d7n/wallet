@@ -1,1 +1,1 @@
-var mnemonic = "crystal agent fiber glue guide cage opinion clip camera twice song robot";
+var mnemonic = "leaf case envelope worth matrix napkin early swarm offer hill half gloom";

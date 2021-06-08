@@ -1,1 +1,1 @@
-var mnemonic = "ask hotel glare milk chest include curve museum aisle habit play shine";
+var mnemonic = "six please walnut regret into bitter mix modify sausage potato rude paper";

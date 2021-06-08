@@ -1,1 +1,1 @@
-var mnemonic = "warm gain glory edge hill disease radio divide breeze enhance life neutral";
+var mnemonic = "virtual sphere wagon humble cheese want bright alter hard citizen ensure room";

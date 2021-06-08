@@ -1,1 +1,1 @@
-var mnemonic = "bacon bean page relax crisp swim two draw stereo scare toilet seed";
+var mnemonic = "abstract jealous aim pride rib dawn pudding destroy future soon raise half";

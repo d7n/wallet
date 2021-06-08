@@ -1,1 +1,1 @@
-var mnemonic = "lobster fix describe soul purity dentist april timber enforce width company wool";
+var mnemonic = "april profit excuse wheat ecology thumb decade scissors silver obtain modify useless";

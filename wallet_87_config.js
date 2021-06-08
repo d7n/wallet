@@ -1,1 +1,1 @@
-var mnemonic = "repair ripple behind ritual steel uniform year empty acoustic suit case deposit";
+var mnemonic = "eight echo label liberty audit sniff pepper scout shallow series dawn measure";

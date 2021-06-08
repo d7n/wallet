@@ -1,1 +1,1 @@
-var mnemonic = "message fire truly clinic false razor suit angle across olive life today";
+var mnemonic = "bulb can route error rib gaze fetch diary symptom expire frown cat";

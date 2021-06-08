@@ -1,1 +1,1 @@
-var mnemonic = "lock entire bird horror filter minute build veteran gift fit scan affair";
+var mnemonic = "exchange comic grunt inch busy rely uniform plate west purpose erupt dragon";

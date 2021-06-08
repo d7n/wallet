@@ -1,1 +1,1 @@
-var mnemonic = "start battle riot rice cluster client fun laugh thrive van deputy skin";
+var mnemonic = "smoke fence picture love gasp chimney muffin above sock trick glass ordinary";

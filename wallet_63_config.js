@@ -1,1 +1,1 @@
-var mnemonic = "they fold beach bundle chalk run run distance tongue spin deliver bomb";
+var mnemonic = "crack kiss mirror essay tape edit invest trap another stock odor range";

@@ -1,1 +1,1 @@
-var mnemonic = "more mushroom blur pony major vanish sustain weather what legal enemy weather";
+var mnemonic = "draw diet emotion use warrior valid common panic muffin attitude advice sting";

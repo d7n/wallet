@@ -1,1 +1,1 @@
-var mnemonic = "vehicle snow crack cement use urge oak plunge talk shadow easy jazz";
+var mnemonic = "wasp dignity title ready bargain symbol such river congress solar term weather";

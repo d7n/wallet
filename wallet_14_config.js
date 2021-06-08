@@ -1,1 +1,1 @@
-var mnemonic = "office math mechanic fade era coast warfare garbage goose sauce auction guard";
+var mnemonic = "assume verb jazz float trophy maximum measure bench school security denial hobby";

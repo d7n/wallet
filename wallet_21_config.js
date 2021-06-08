@@ -1,1 +1,1 @@
-var mnemonic = "few basket apart seven defense elbow once coral crucial rebuild junk combine";
+var mnemonic = "filter region galaxy sing solid found much flight seat collect wrist daring";

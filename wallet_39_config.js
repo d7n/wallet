@@ -1,1 +1,1 @@
-var mnemonic = "digital turtle congress code mind bundle obvious next soap guilt shuffle impose";
+var mnemonic = "knee model turkey inch suit super fault expire owner put current bubble";

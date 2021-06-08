@@ -1,1 +1,1 @@
-var mnemonic = "owner episode shrimp sample glare reflect vital spike sustain before web misery";
+var mnemonic = "tornado parade clap cake staff seed below magnet blur copper then basic";

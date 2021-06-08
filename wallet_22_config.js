@@ -1,1 +1,1 @@
-var mnemonic = "odor october survey boat thing consider off ostrich brave kind order rude";
+var mnemonic = "angle limit crush force lizard student catalog treat sad basic convince advance";

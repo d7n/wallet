@@ -1,1 +1,1 @@
-var mnemonic = "winner sport smooth disorder distance find tag destroy panther rich reward helmet";
+var mnemonic = "sunset chalk laundry nurse buffalo brief timber volume lunch steel basic imitate";

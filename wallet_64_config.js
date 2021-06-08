@@ -1,1 +1,1 @@
-var mnemonic = "cigar dinner chicken addict video click soup shove cushion panic crop afraid";
+var mnemonic = "private champion lonely item world top exotic announce code layer gym catalog";

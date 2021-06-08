@@ -1,1 +1,1 @@
-var mnemonic = "manual warm carbon measure resource crunch mother better image velvet initial rare";
+var mnemonic = "evidence into mango tunnel alpha donor poverty jazz there merry raw install";

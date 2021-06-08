@@ -1,1 +1,1 @@
-var mnemonic = "filter empower term culture winter ridge view dwarf layer easy dolphin quit";
+var mnemonic = "column scene mirror open knock project round inmate rebel sound object pigeon";

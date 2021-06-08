@@ -1,1 +1,1 @@
-var mnemonic = "refuse eight bamboo decorate only shadow approve health leader melody wealth recycle";
+var mnemonic = "include hello search jealous brush sauce volume foil stairs knee good upon";

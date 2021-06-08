@@ -1,1 +1,1 @@
-var mnemonic = "silly leisure village link true tonight kiss grace job rice cactus gauge";
+var mnemonic = "guilt disagree ramp monitor unfold outside field cover because ancient oppose industry";

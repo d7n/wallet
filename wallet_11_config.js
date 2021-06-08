@@ -1,1 +1,1 @@
-var mnemonic = "twist near sausage sheriff scout ask region slide error base rare bomb";
+var mnemonic = "chimney fat leisure unveil fabric use artwork denial era civil fox tent";

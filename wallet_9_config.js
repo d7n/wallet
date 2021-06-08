@@ -1,1 +1,1 @@
-var mnemonic = "symbol recycle rail glide slight old fun story slush wine fit hunt";
+var mnemonic = "replace swift shift high galaxy inflict nature toy panel absurd owner floor";

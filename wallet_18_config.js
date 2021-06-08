@@ -1,1 +1,1 @@
-var mnemonic = "catalog minimum pipe crowd scissors steak exile doctor mercy enemy pitch gentle";
+var mnemonic = "surround visa salon special force truck tourist velvet globe lens perfect column";

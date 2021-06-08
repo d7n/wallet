@@ -1,1 +1,1 @@
-var mnemonic = "genre aim party jaguar adjust famous scan sword hard lonely steel point";
+var mnemonic = "fiction year leave apology number tag place twenty punch dismiss rally tired";

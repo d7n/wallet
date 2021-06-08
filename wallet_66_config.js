@@ -1,1 +1,1 @@
-var mnemonic = "immense cruise vintage escape want host episode audit april skate wool reduce";
+var mnemonic = "steel thank require image kitchen gain scrap elder push clean mixture raven";

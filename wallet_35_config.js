@@ -1,1 +1,1 @@
-var mnemonic = "embark whisper front level rhythm someone false risk immense problem joy journey";
+var mnemonic = "legend belt worth quick demand prefer cycle dragon win wrong pioneer video";

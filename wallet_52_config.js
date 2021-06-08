@@ -1,1 +1,1 @@
-var mnemonic = "affair advance crime spice marble high clinic admit scene milk leg modify";
+var mnemonic = "claw trend wood minimum wrist buyer measure later news empty fiscal boost";

@@ -1,1 +1,1 @@
-var mnemonic = "pull afraid gift cat fabric mercy afford hip attract same attitude easily";
+var mnemonic = "mean evoke fiscal tunnel harsh mix panel define lake since portion daughter";

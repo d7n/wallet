@@ -1,1 +1,1 @@
-var mnemonic = "ivory web claim robust churn universe pigeon old memory door boy reflect";
+var mnemonic = "aerobic twin sight harvest member reflect problem ceiling idle oil cage twenty";

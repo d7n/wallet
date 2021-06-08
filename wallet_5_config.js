@@ -1,1 +1,1 @@
-var mnemonic = "tourist harsh galaxy rescue scout acoustic valve busy wrap youth bachelor bean";
+var mnemonic = "drama sister behave coach attend neck hub peace awake payment tuition glue";

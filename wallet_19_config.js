@@ -1,1 +1,1 @@
-var mnemonic = "avocado luggage zero whip half note office gold pupil corn enhance pottery";
+var mnemonic = "cup middle wire swallow reward apart filter shuffle crane soldier market funny";

@@ -1,1 +1,1 @@
-var mnemonic = "image loop pluck issue parrot dust during myth ten foam make oblige";
+var mnemonic = "hip notable prize organ prefer urge nephew know dawn defense night true";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious paper arrow duck tuition under that leg bleak tray pink host";
+var mnemonic = "gauge oblige disagree diagram lawn oven setup narrow ticket call hero concert";

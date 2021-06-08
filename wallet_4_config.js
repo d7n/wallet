@@ -1,1 +1,1 @@
-var mnemonic = "pear race enter citizen rubber able endless raise foster web version april";
+var mnemonic = "fossil this devote burden piece feature industry waste fog virtual deposit west";

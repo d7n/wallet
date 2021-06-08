@@ -1,1 +1,1 @@
-var mnemonic = "hockey problem figure crack middle nothing badge brush save job refuse sail";
+var mnemonic = "toast hedgehog profit cycle slogan become gravity satoshi accident aisle game paddle";

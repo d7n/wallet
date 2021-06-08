@@ -1,1 +1,1 @@
-var mnemonic = "cactus shine account snake sight pact spread evidence differ witness dry run";
+var mnemonic = "maze debris key churn circle observe roof season junior chief gloom again";

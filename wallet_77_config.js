@@ -1,1 +1,1 @@
-var mnemonic = "mean truck transfer boil pause hamster palace airport blush force exile faith";
+var mnemonic = "design only salon double salute antique erupt flat festival faculty birth enter";

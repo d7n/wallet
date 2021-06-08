@@ -1,1 +1,1 @@
-var mnemonic = "canoe skill young clump grace shoe vivid pencil tube dolphin trash duck";
+var mnemonic = "spatial seven give noodle appear frown cute speak denial bottom reason danger";

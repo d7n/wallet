@@ -1,1 +1,1 @@
-var mnemonic = "ball speed shaft rocket trap future outside denial level drama chicken there";
+var mnemonic = "bubble what scheme wrist tell alien avocado ankle reduce scheme pen fence";

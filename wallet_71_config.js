@@ -1,1 +1,1 @@
-var mnemonic = "power noise angry organ sure ripple duck top voice frame stereo grape";
+var mnemonic = "essence account sibling about blade legend gather dirt limit tennis very image";

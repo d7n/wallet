@@ -1,1 +1,1 @@
-var mnemonic = "flee midnight mistake mimic slow level moon blur state indicate flower drive";
+var mnemonic = "donate diet vintage unhappy pumpkin genuine fork tag brush absurd mask web";

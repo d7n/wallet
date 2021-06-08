@@ -1,1 +1,1 @@
-var mnemonic = "news click eyebrow jelly maze like advance spring duty fatigue speak icon";
+var mnemonic = "visual aware sell fish female armor speed curtain balance mass practice ankle";

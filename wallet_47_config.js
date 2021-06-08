@@ -1,1 +1,1 @@
-var mnemonic = "iron rifle smart prison iron life physical vacuum famous wage afford useful";
+var mnemonic = "ensure tomato grief pupil bachelor auto aunt pitch any violin matter anchor";

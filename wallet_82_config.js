@@ -1,1 +1,1 @@
-var mnemonic = "stairs lend term feature summer enjoy odor sorry tilt upset eternal save";
+var mnemonic = "before harbor behave pipe shoe undo target boost insect adapt slush volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "race dance north cherry remind brain talk sustain drip pudding ice memory";
+var mnemonic = "trumpet faculty ordinary cool explain sign wage color body random exclude dream";

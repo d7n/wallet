@@ -1,1 +1,1 @@
-var mnemonic = "turtle target mad tag army climb brief purpose category diagram enable cushion";
+var mnemonic = "imitate trust cloud endless inmate logic switch ride call bronze produce minute";

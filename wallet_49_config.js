@@ -1,1 +1,1 @@
-var mnemonic = "online impulse divide rail anxiety grace tattoo hockey river pattern pipe column";
+var mnemonic = "bright bleak tackle weapon trumpet inspire only royal run actor until fossil";

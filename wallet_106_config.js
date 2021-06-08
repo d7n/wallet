@@ -1,1 +1,1 @@
-var mnemonic = "cable walk absent gallery retreat champion book know ski neither firm tent";
+var mnemonic = "poverty plate skin trouble undo buyer close museum resemble material razor supply";

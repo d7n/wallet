@@ -1,1 +1,1 @@
-var mnemonic = "wear scout total cluster kite donate pulp broom lounge twenty wide satoshi";
+var mnemonic = "item brown horror dance company tourist pair arrest neutral job subway fabric";

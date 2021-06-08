@@ -1,1 +1,1 @@
-var mnemonic = "energy entry subject unfold maid congress own slim inmate visual nasty wife";
+var mnemonic = "snow chest drastic arena sign taste enforce warrior slam infant about climb";

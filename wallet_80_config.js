@@ -1,1 +1,1 @@
-var mnemonic = "vibrant monkey erode firm intact couch carry transfer steak swarm aware arrange";
+var mnemonic = "park indoor harvest donor census keen neglect ostrich select grid profit point";

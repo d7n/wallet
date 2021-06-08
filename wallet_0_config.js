@@ -1,1 +1,1 @@
-var mnemonic = "cargo test inside toward route swap fancy february stage marble spot orchard";
+var mnemonic = "boost agree marble lesson nut cream letter couple decorate gain screen awesome";

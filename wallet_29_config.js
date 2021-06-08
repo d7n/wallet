@@ -1,1 +1,1 @@
-var mnemonic = "screen front genre spy pause transfer warrior street siren state turn napkin";
+var mnemonic = "inside fantasy night hawk universe infant bus soccer faculty slender people upon";

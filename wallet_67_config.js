@@ -1,1 +1,1 @@
-var mnemonic = "tray glare filter lonely royal smart dawn unlock width detect world convince";
+var mnemonic = "lyrics cliff nut person evidence case odor legend hero mail typical whip";

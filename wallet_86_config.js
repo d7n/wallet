@@ -1,1 +1,1 @@
-var mnemonic = "drive pipe pencil meat curve master brass armed believe hawk motor join";
+var mnemonic = "spatial carpet worry select young guitar card run burger margin scale dwarf";

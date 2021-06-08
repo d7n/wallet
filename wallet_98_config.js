@@ -1,1 +1,1 @@
-var mnemonic = "goat risk economy arrow because mass tilt monkey drop hungry enhance lawsuit";
+var mnemonic = "school danger garden bitter clever runway measure type guard mirror shift amateur";
