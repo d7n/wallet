@@ -1,1 +1,1 @@
-var mnemonic = "sure extend screen design where typical focus network ice legend unable sure";
+var mnemonic = "mother vehicle decline business surround stuff gentle ride balance ignore put civil";

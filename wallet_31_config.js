@@ -1,1 +1,1 @@
-var mnemonic = "rhythm card arctic either medal charge bomb penalty distance zoo error obvious";
+var mnemonic = "parrot actor bundle rural truly hurdle donate clinic marine derive tornado alien";

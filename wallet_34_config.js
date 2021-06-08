@@ -1,1 +1,1 @@
-var mnemonic = "hour jump humor magic release early early old truly liquid flush eye";
+var mnemonic = "thunder reopen supply side milk seat bonus wear alpha parrot jump drop";

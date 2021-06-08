@@ -1,1 +1,1 @@
-var mnemonic = "imitate scale derive banner humor route fox hold depth void napkin caught";
+var mnemonic = "tiny below student slice eye uniform lazy broom below skull vacant music";

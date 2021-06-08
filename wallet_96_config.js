@@ -1,1 +1,1 @@
-var mnemonic = "dutch despair response ancient cute cement betray weasel air gorilla filter family";
+var mnemonic = "together sign general forward junk blossom illness royal harbor fold spice candy";

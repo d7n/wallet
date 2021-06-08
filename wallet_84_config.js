@@ -1,1 +1,1 @@
-var mnemonic = "best glad fantasy armed spin point inner about sign next ankle cactus";
+var mnemonic = "survey clip sell rain divide habit ball habit unusual occur desert weasel";

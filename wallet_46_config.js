@@ -1,1 +1,1 @@
-var mnemonic = "catalog artefact salt advance lyrics patrol employ gun cram sketch sick marble";
+var mnemonic = "run distance depend major box strategy banner token pole horse fossil dwarf";

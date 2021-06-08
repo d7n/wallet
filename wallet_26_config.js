@@ -1,1 +1,1 @@
-var mnemonic = "curve hold mandate screen allow budget critic usage pigeon extra joy combine";
+var mnemonic = "atom alley sting wasp mule vague pistol say burger estate hint measure";

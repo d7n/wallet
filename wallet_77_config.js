@@ -1,1 +1,1 @@
-var mnemonic = "rhythm nut exotic this crumble false two excuse mushroom isolate noble loan";
+var mnemonic = "find oxygen level turkey mushroom cabbage farm drip surprise chase route ridge";

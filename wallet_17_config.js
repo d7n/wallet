@@ -1,1 +1,1 @@
-var mnemonic = "pair dilemma hope book boring thank honey just venue execute feel range";
+var mnemonic = "evil since coast creek century rescue dove sugar fury fresh decade mind";

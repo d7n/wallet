@@ -1,1 +1,1 @@
-var mnemonic = "hurt reason tongue random already spider issue business silver cruise crystal ski";
+var mnemonic = "judge hazard permit pride merit polar course fatigue hand skill taxi asthma";

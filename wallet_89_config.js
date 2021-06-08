@@ -1,1 +1,1 @@
-var mnemonic = "dove casino urban junior disease blood approve hazard frog focus trial judge";
+var mnemonic = "lion size child primary about hip attitude edge mixed motion soap paddle";

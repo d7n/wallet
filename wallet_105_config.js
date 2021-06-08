@@ -1,1 +1,1 @@
-var mnemonic = "error cry mosquito turtle interest toss puppy conduct taxi slender rent usage";
+var mnemonic = "machine ripple trouble gate execute accuse repeat dial peanut ceiling sister average";

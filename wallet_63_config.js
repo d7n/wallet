@@ -1,1 +1,1 @@
-var mnemonic = "gravity fluid awful segment more blame practice rug day employ flee diamond";
+var mnemonic = "twice weather gallery acoustic casino monkey dutch ancient mix toy tiger squirrel";

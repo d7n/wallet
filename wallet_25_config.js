@@ -1,1 +1,1 @@
-var mnemonic = "dry grid aim rebel meat loan cart remember this conduct document punch";
+var mnemonic = "remember walk address muscle tuition isolate omit antenna cupboard assault eight feel";

@@ -1,1 +1,1 @@
-var mnemonic = "strong card puzzle update slender obtain route venture what discover afraid analyst";
+var mnemonic = "vessel cigar afford credit mean shine tube dinner scrap humor original swing";

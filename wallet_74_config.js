@@ -1,1 +1,1 @@
-var mnemonic = "cake invest lens prevent album width tree mechanic junk pond rich eight";
+var mnemonic = "define manage glue tortoise fancy latin proof arrow radio ill soul climb";

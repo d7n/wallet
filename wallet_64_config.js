@@ -1,1 +1,1 @@
-var mnemonic = "memory friend film spell lottery worry sell crane jeans sunny salon mutual";
+var mnemonic = "primary civil shiver letter wall potato wage focus hand fresh approve follow";

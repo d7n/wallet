@@ -1,1 +1,1 @@
-var mnemonic = "shiver math blade depend eye goose daring before maid other snow matter";
+var mnemonic = "image middle merit spatial chat earth royal grab kangaroo fan spirit wing";

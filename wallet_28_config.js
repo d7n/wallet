@@ -1,1 +1,1 @@
-var mnemonic = "index army december input sunset video notable own illness mean prison wide";
+var mnemonic = "moon there fluid hello race enhance mail property cheese fence great lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "stay room chef kingdom cancel utility movie heavy two ignore scatter direct";
+var mnemonic = "staff tray address body half keep huge custom field endless news pigeon";

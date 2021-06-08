@@ -1,1 +1,1 @@
-var mnemonic = "mammal potato earn system battle plate enlist timber display stumble enter assume";
+var mnemonic = "pony gravity orange situate garden say bubble lemon ask actress egg liberty";

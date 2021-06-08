@@ -1,1 +1,1 @@
-var mnemonic = "pave sibling arrest crane hood doctor similar swift amazing ask museum similar";
+var mnemonic = "repeat merit feel almost toss position seek south capital citizen melt bundle";

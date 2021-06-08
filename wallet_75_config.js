@@ -1,1 +1,1 @@
-var mnemonic = "grid cart concert title trust donor found gain swear dream faith opinion";
+var mnemonic = "life crystal prosper gap cannon alarm board gesture hammer critic smart wedding";

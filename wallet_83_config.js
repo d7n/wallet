@@ -1,1 +1,1 @@
-var mnemonic = "battle faith vanish honey faint subway mercy proud subway order mind quit";
+var mnemonic = "ice sketch boost risk view tenant entire aerobic genre rapid organ park";

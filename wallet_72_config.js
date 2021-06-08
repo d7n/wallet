@@ -1,1 +1,1 @@
-var mnemonic = "milk toward during outer daring remove retreat utility raccoon vibrant october super";
+var mnemonic = "become phrase pepper vault phrase hub movie lobster embrace phrase trigger joke";

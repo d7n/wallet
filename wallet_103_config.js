@@ -1,1 +1,1 @@
-var mnemonic = "wonder blade bench road file matter know total shrimp excite champion wing";
+var mnemonic = "tennis decline tired tennis warfare camera taste taste solar error shed cube";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor dumb few demand hire stick strike exact link ugly cook letter";
+var mnemonic = "absorb strike fence torch embark tackle come license sport tattoo mask hour";

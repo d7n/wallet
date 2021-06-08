@@ -1,1 +1,1 @@
-var mnemonic = "source turtle patrol peasant case valley one tiger forest demand stay canal";
+var mnemonic = "family huge long cereal tortoise gas measure buffalo crazy flock enroll orange";

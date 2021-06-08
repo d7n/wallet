@@ -1,1 +1,1 @@
-var mnemonic = "scrap lunar because chaos fold chase strategy athlete mean rough code flash";
+var mnemonic = "author rigid food answer shallow gadget beauty advice actor loop beyond notable";

@@ -1,1 +1,1 @@
-var mnemonic = "distance private deliver leave liquid genuine boat later taxi struggle divorce electric";
+var mnemonic = "annual license know bargain snow gauge swarm song walnut kangaroo crumble employ";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh entry moral cradle shadow trap arena airport program vapor suggest river";
+var mnemonic = "drip orange general bacon say rotate rotate search boring avoid prevent silk";

@@ -1,1 +1,1 @@
-var mnemonic = "success absorb what volume derive tip fitness anger frog guess income agent";
+var mnemonic = "whisper unhappy dinosaur lunar roast point barrel say innocent glide cement truth";

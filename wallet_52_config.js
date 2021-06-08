@@ -1,1 +1,1 @@
-var mnemonic = "atom diagram liquid page symbol brother flag inflict nest moon drum mechanic";
+var mnemonic = "lunch census flag display paddle square verify oven black cup furnace define";

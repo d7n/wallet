@@ -1,1 +1,1 @@
-var mnemonic = "universe soccer spoon nasty obvious galaxy luxury just photo chest must language";
+var mnemonic = "habit wash grow sibling chimney polar toilet cup term one soon recipe";

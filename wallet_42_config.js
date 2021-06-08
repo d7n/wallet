@@ -1,1 +1,1 @@
-var mnemonic = "combine couple wet chimney badge gun mechanic vehicle oven weekend rabbit cat";
+var mnemonic = "danger liberty issue victory ozone grass dentist present disagree symptom wall sure";

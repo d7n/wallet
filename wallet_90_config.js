@@ -1,1 +1,1 @@
-var mnemonic = "club deer arrive wrestle index army deliver debate broken raccoon since cave";
+var mnemonic = "choice hill inform echo census spin swim muscle spider unusual ten opera";

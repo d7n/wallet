@@ -1,1 +1,1 @@
-var mnemonic = "rack scrap mountain animal whale cattle write mushroom vendor inherit maximum electric";
+var mnemonic = "desert human squeeze culture unlock cousin because invest flag reward small response";

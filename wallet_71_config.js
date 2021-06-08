@@ -1,1 +1,1 @@
-var mnemonic = "toast angry slide infant kit into man owner near omit people country";
+var mnemonic = "tank grunt mimic slam cluster easy culture kitchen brave item absent abstract";

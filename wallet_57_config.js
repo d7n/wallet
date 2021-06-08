@@ -1,1 +1,1 @@
-var mnemonic = "culture action lazy label raw patient walk hood you profit horse bar";
+var mnemonic = "truly panther benefit ramp congress salon suggest achieve sport devote attitude rain";

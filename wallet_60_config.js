@@ -1,1 +1,1 @@
-var mnemonic = "sense world ketchup evidence brick follow tired antique wise jewel stereo army";
+var mnemonic = "october core strike true swamp business abstract dirt broom target empower limb";

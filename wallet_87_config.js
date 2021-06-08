@@ -1,1 +1,1 @@
-var mnemonic = "immune hour ship person flame cloud sunset lift shine connect smart captain";
+var mnemonic = "regular music torch firm foster canoe scout tobacco gas tonight grape sadness";

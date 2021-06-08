@@ -1,1 +1,1 @@
-var mnemonic = "speed coyote senior repair venture ritual tent culture another egg cat awkward";
+var mnemonic = "spawn hammer truck salon mushroom core stage cage gain clean drink dish";

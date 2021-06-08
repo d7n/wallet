@@ -1,1 +1,1 @@
-var mnemonic = "all cushion wisdom coil magic metal blouse treat actress tide govern name";
+var mnemonic = "metal era shiver soft coral soup urban tenant spoon theory affair there";

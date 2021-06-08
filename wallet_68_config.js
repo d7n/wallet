@@ -1,1 +1,1 @@
-var mnemonic = "tower stumble private mixture renew coil panic consider visa prosper festival regular";
+var mnemonic = "craft kiwi accuse close garment fix fox deputy summer team tomorrow kid";

@@ -1,1 +1,1 @@
-var mnemonic = "dry reunion way tragic apple term bag reunion kingdom gym crisp bulk";
+var mnemonic = "exotic daughter finger observe scene glass survey finger spot matrix brush thrive";

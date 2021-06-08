@@ -1,1 +1,1 @@
-var mnemonic = "sock butter convince harsh always clarify level unit cruise knock annual device";
+var mnemonic = "toward coral universe miss address gate near nurse alley genre magnet explain";

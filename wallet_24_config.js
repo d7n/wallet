@@ -1,1 +1,1 @@
-var mnemonic = "good have diesel age slide leisure shed scout hole appear hurdle escape";
+var mnemonic = "march document month exclude swim fit rain city seed tooth now belt";

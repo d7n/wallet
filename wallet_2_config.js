@@ -1,1 +1,1 @@
-var mnemonic = "vacant sunny intact giraffe short regular purity practice alert tunnel cave chronic";
+var mnemonic = "flame total awful grab victory pink avoid access marriage special myth left";

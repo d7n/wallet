@@ -1,1 +1,1 @@
-var mnemonic = "quarter rebuild long wear merit alpha lawsuit trophy vacant two bamboo tail";
+var mnemonic = "judge corn local ahead denial drive endless asthma hollow rabbit soon solid";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty fix excite pledge board siren say impose dignity spatial strike jar";
+var mnemonic = "lava scatter syrup nurse throw crawl apart attend title puzzle mammal inflict";

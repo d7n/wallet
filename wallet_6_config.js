@@ -1,1 +1,1 @@
-var mnemonic = "belt any endless wise pact cage parent drip dentist wave thank fat";
+var mnemonic = "saddle crunch gloom lounge trust column bird evil thumb toddler unknown brief";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst tuna pet ankle still spray mixture ability social what action want";
+var mnemonic = "because shift steel fit magic journey rain weekend walk suffer oblige elevator";

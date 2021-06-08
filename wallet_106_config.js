@@ -1,1 +1,1 @@
-var mnemonic = "nose gravity delay coil tomorrow shock glad snap never word anxiety absurd";
+var mnemonic = "outside tomato nation claw hill fine very ancient burger rough egg harvest";

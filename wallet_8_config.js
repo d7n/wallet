@@ -1,1 +1,1 @@
-var mnemonic = "follow alpha lend adjust display giraffe river cruise prize deposit solution tiger";
+var mnemonic = "coil vacant sense any act episode start around potato dumb crisp ahead";

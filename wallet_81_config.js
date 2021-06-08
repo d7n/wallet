@@ -1,1 +1,1 @@
-var mnemonic = "maple web response quote sheriff labor object today comfort defy draw describe";
+var mnemonic = "talk spike swim around dial detect inquiry found moment achieve solution umbrella";

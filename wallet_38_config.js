@@ -1,1 +1,1 @@
-var mnemonic = "online creek bread police suggest owner emerge code grape ripple across swing";
+var mnemonic = "broccoli income shed net section bomb nature tell panther popular peace walk";

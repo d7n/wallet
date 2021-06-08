@@ -1,1 +1,1 @@
-var mnemonic = "skin tribe sound shoot common vital air nurse cross few ill library";
+var mnemonic = "forward salt section clown manage humor nephew bonus crime mixed six pride";

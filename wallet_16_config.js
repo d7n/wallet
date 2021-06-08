@@ -1,1 +1,1 @@
-var mnemonic = "fetch frozen real duck retire talk keep price clump jazz tragic extra";
+var mnemonic = "define cigar action cherry visual lottery front verb expand scout distance diagram";

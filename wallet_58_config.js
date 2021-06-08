@@ -1,1 +1,1 @@
-var mnemonic = "material loop review message discover melody urge replace fruit gap prepare grid";
+var mnemonic = "submit enemy pact index strong pear injury sound actress embark chase fall";

@@ -1,1 +1,1 @@
-var mnemonic = "black avoid mobile unique rotate digital cousin tape deal ride aspect square";
+var mnemonic = "glove term sausage simple thumb wise shaft often aisle unknown change feature";

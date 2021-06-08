@@ -1,1 +1,1 @@
-var mnemonic = "daughter test urban plastic reason actor push spare media bike bargain perfect";
+var mnemonic = "category hundred dawn mass tissue join limit attend high devote link penalty";

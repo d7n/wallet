@@ -1,1 +1,1 @@
-var mnemonic = "degree have float noodle seed valve season hope sign confirm blur champion";
+var mnemonic = "favorite century window amused post room please employ prize design floor later";

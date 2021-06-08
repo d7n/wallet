@@ -1,1 +1,1 @@
-var mnemonic = "farm celery allow drop pilot case parent fox round tube economy maple";
+var mnemonic = "truth exhaust girl diary robust retreat help curve divide plunge broken ostrich";

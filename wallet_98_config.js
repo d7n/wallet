@@ -1,1 +1,1 @@
-var mnemonic = "stay addict cereal better note siren drop offer orphan tag draw moral";
+var mnemonic = "oxygen add leave rack hamster cloth diary give toddler hope print black";

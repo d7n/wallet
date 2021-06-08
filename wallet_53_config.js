@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo cushion seek absurd rely frozen tourist purpose ready april topic risk";
+var mnemonic = "box wave expect observe nation peanut sunny era spot upset donkey kidney";

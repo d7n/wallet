@@ -1,1 +1,1 @@
-var mnemonic = "lion alone address replace squirrel noodle adapt under trophy middle right pond";
+var mnemonic = "engage bubble shell modify pencil lobster jelly cattle input return scheme person";

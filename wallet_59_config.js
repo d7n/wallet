@@ -1,1 +1,1 @@
-var mnemonic = "idea entire puppy find wide unit slogan silent lyrics pretty cover attend";
+var mnemonic = "same replace alone pave attract guilt coyote father liquid soon clay convince";

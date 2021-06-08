@@ -1,1 +1,1 @@
-var mnemonic = "conduct assault lock favorite hurry tribe play federal market clown clog girl";
+var mnemonic = "cable board cliff shift dice coil bread point ski when ethics rich";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran attitude focus silly lucky click flee stove window level budget now";
+var mnemonic = "north team pluck achieve cousin mother december stem warrior govern side chat";

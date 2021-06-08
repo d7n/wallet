@@ -1,1 +1,1 @@
-var mnemonic = "crouch museum valve wage skate local weather cram decide unhappy rough coral";
+var mnemonic = "connect repeat beauty before artist divide sunset dose shoulder decline daughter nose";

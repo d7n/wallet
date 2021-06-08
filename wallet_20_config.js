@@ -1,1 +1,1 @@
-var mnemonic = "index rebuild lady upper episode goat bright harbor crumble garden family base";
+var mnemonic = "weapon legend dog appear soup always fee clown winner stadium accident flame";

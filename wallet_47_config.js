@@ -1,1 +1,1 @@
-var mnemonic = "oyster old project catch raise split pigeon hero million century ridge absent";
+var mnemonic = "coil month captain mail cabbage dose kitten when moral pen crouch ask";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist student ivory must media mixture anchor crack three stuff fame cement";
+var mnemonic = "side fury seven trim multiply ramp blur cruise connect congress tornado blur";

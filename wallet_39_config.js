@@ -1,1 +1,1 @@
-var mnemonic = "lunch vote usual youth angry gate remember when plunge vehicle present parent";
+var mnemonic = "ancient index vote cram attitude link poet misery blast income pepper baby";

@@ -1,1 +1,1 @@
-var mnemonic = "double decide spawn eyebrow finger scrap act spirit infant relief fence canoe";
+var mnemonic = "enable family hidden iron describe business giggle flight miss test cluster shrimp";

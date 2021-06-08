@@ -1,1 +1,1 @@
-var mnemonic = "knife bean uncle jungle second lawn mandate aim renew trash soul frame";
+var mnemonic = "cargo good brick sunset advance prize curious often dream romance inch mirror";

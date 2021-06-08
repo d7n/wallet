@@ -1,1 +1,1 @@
-var mnemonic = "harbor stool random upon inner trust joke pepper hello slice raven young";
+var mnemonic = "assume cake salon nut gravity impulse true garment old master wife crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "cost supreme present trial bind enemy step kiwi game fancy spare entire";
+var mnemonic = "open author exercise meadow earth topple rhythm recipe crop glove transfer nose";

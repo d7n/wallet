@@ -1,1 +1,1 @@
-var mnemonic = "summer enroll door credit setup autumn now order increase usage panic fiscal";
+var mnemonic = "pair setup chair cancel denial zone ostrich hen glory prosper dice market";

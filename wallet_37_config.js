@@ -1,1 +1,1 @@
-var mnemonic = "nose enroll adapt benefit diary usage torch local ostrich guard orange chapter";
+var mnemonic = "there net coconut patch perfect deer stomach fun exhaust swear capital decade";

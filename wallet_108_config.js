@@ -1,1 +1,1 @@
-var mnemonic = "soda young inner rack they happy shop blanket gym bar polar amazing";
+var mnemonic = "quick century topic turkey car escape foil noise eager gift possible very";

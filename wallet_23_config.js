@@ -1,1 +1,1 @@
-var mnemonic = "pepper foil wall hip rely where kiwi net media coach trumpet close";
+var mnemonic = "slot soon arm ivory fruit call artist bar when weasel sea carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "tail text monkey shop exchange escape phone proof toilet husband theme rotate";
+var mnemonic = "demise also notable pig observe mistake bone olive tornado cousin dry dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle ask remove absorb vote goddess group nation cabin drift mandate pledge";
+var mnemonic = "ocean miracle total arrive talent obtain never fiber office twice pride idea";

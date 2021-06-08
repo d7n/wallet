@@ -1,1 +1,1 @@
-var mnemonic = "soldier cover require tone smart cake immune crater phrase kiss sibling camp";
+var mnemonic = "library visual weather arch convince marble undo win insane crawl boy sock";

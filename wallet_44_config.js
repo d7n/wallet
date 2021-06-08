@@ -1,1 +1,1 @@
-var mnemonic = "vibrant orange wage stay coconut come steak digital sorry wrap side fury";
+var mnemonic = "fatigue seven carry churn learn ritual clip target wheel impact decrease snack";

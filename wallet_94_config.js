@@ -1,1 +1,1 @@
-var mnemonic = "kid doll banana fix pet useless brand barrel ship unique oven orbit";
+var mnemonic = "awkward acid term october trim music later age box purchase avoid little";

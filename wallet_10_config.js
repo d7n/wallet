@@ -1,1 +1,1 @@
-var mnemonic = "genuine knife image inherit people spike modify vapor fever visual seminar eight";
+var mnemonic = "dutch strategy uniform solve myth behave exercise fire rebuild tenant movie dream";

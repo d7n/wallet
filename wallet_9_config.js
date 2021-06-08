@@ -1,1 +1,1 @@
-var mnemonic = "salon novel tool plate eagle warm festival vessel embody fly range laundry";
+var mnemonic = "payment garden trash scene candy find document board notice turtle rigid notable";
