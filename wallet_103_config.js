@@ -1,1 +1,1 @@
-var mnemonic = "aim snow luggage crater grace blur goat riot captain fall smoke inch";
+var mnemonic = "name region equip monitor travel cabin bacon equal blood grant sick car";

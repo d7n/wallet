@@ -1,1 +1,1 @@
-var mnemonic = "uphold general travel night salon legal trial item habit park arrest proud";
+var mnemonic = "clog perfect pride shed short wage globe mistake vendor advice fall gorilla";

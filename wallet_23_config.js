@@ -1,1 +1,1 @@
-var mnemonic = "purchase quantum scrap hour turtle impact toe poem runway oxygen snake medal";
+var mnemonic = "useless type local device captain race output under slender man duck degree";

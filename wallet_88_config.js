@@ -1,1 +1,1 @@
-var mnemonic = "used faith language enable arctic matter fade hire dinner defy session veteran";
+var mnemonic = "trap yellow hidden want juice man produce express cover deny wisdom six";

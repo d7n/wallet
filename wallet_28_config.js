@@ -1,1 +1,1 @@
-var mnemonic = "push dirt that sense ball sorry chat run place soap bike pet";
+var mnemonic = "rubber theory nephew cigar month recall vintage cabbage scare remain fence ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "speak august settle chicken punch mouse master win rib wealth wall noble";
+var mnemonic = "struggle leopard pony drift cargo certain mail caught afraid ocean check donor";

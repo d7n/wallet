@@ -1,1 +1,1 @@
-var mnemonic = "tenant budget slender earth clock panda link scout share luxury remind consider";
+var mnemonic = "catalog empower distance impact suspect nose space wait behind tongue position limb";

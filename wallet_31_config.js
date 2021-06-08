@@ -1,1 +1,1 @@
-var mnemonic = "nothing next ghost night embrace roast visual unfold blanket member blood denial";
+var mnemonic = "that diamond insane future pelican boat dirt eager core service gospel raw";

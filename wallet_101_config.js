@@ -1,1 +1,1 @@
-var mnemonic = "cup dress ritual potato cancel green stable behind mesh warfare stumble immense";
+var mnemonic = "dose town know reveal spell moon rather bracket dad month silly faint";

@@ -1,1 +1,1 @@
-var mnemonic = "detect destroy ready elbow review maple thought dignity meat much volcano basic";
+var mnemonic = "disagree dice lounge coach mutual thrive often marine small detail muscle second";

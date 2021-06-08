@@ -1,1 +1,1 @@
-var mnemonic = "abstract december zone flavor win option horror update toilet message ski mother";
+var mnemonic = "cake can ski hint leg impose limit father easily flower remember squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "medal peace fiscal gentle crush cost fashion coach month eagle pigeon finish";
+var mnemonic = "edit play high spoon spawn narrow pretty solar cycle cart announce fix";

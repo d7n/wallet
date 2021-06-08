@@ -1,1 +1,1 @@
-var mnemonic = "honey toe swear old sand reduce art lend gift denial budget smooth";
+var mnemonic = "team inject prevent wrestle two agree viable exclude shoulder address chaos display";

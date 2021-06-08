@@ -1,1 +1,1 @@
-var mnemonic = "run thunder normal lock wine license ranch media vote connect twice diet";
+var mnemonic = "travel patient where food doctor anchor twenty history mule embody coyote sister";

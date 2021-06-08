@@ -1,1 +1,1 @@
-var mnemonic = "urge language surprise need green develop tooth devote steel skull small change";
+var mnemonic = "album sea forward mirror gap minimum size color chicken soon estate identify";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse industry february drift plastic effort inject hood neglect forget walk seed";
+var mnemonic = "market that return bunker core dawn small bean debris because supply behind";

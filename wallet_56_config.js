@@ -1,1 +1,1 @@
-var mnemonic = "amateur jar airport again wool purity fit vast volume pistol brick hill";
+var mnemonic = "pulse maze disagree soda frost snack muscle theory immense noble just clever";

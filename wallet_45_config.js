@@ -1,1 +1,1 @@
-var mnemonic = "service ship reward employ radio beach laugh drink note cart stadium kite";
+var mnemonic = "laugh cook require coil essence walk valve huge science draw neutral broom";

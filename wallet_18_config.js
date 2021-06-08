@@ -1,1 +1,1 @@
-var mnemonic = "rally width guide bless pear scan battle vacuum grant refuse evidence grit";
+var mnemonic = "begin farm oblige jeans safe civil prefer liberty ginger dinner name enjoy";

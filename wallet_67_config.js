@@ -1,1 +1,1 @@
-var mnemonic = "stereo bundle manage indicate simple lawn spider smile satoshi gentle leader day";
+var mnemonic = "fox fine chapter tackle holiday nature swallow diesel excite spread match actor";

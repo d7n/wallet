@@ -1,1 +1,1 @@
-var mnemonic = "rifle spin rebel steel amazing captain match deposit cave resemble rabbit prize";
+var mnemonic = "bronze physical urge pill wait wear rely main auction position shell venue";

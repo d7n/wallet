@@ -1,1 +1,1 @@
-var mnemonic = "member metal advance mix maze chronic decade tuition faint memory destroy gain";
+var mnemonic = "price such step strike collect tragic fame smile grocery ritual room injury";

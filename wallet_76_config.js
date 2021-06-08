@@ -1,1 +1,1 @@
-var mnemonic = "stage merge asthma absorb before swift author clock option deputy parrot prepare";
+var mnemonic = "pumpkin brown timber mother anxiety gloom exotic seek catch tomato solid educate";

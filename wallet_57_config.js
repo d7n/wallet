@@ -1,1 +1,1 @@
-var mnemonic = "kidney employ choice style consider arrest rabbit behind raven cabin pen ski";
+var mnemonic = "ask original october spare explain grain lesson clip motor budget gravity bar";

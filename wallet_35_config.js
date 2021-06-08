@@ -1,1 +1,1 @@
-var mnemonic = "vintage then flag hybrid deputy suggest world three swing airport erase suggest";
+var mnemonic = "ketchup suspect warm essence famous dragon kiss dutch hour flame stable flush";

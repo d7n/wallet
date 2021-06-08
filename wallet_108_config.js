@@ -1,1 +1,1 @@
-var mnemonic = "endorse spoon execute finger brush dust scan fashion eight rose toss priority";
+var mnemonic = "bargain hire dumb jewel alarm cattle sun sample proof kitchen cigar only";

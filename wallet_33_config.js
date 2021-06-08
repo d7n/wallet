@@ -1,1 +1,1 @@
-var mnemonic = "excess cook fashion stumble family wheel grape matrix table tuna history pet";
+var mnemonic = "color clever avoid palm law avoid gaze dilemma believe vote lens core";

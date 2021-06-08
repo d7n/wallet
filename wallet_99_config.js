@@ -1,1 +1,1 @@
-var mnemonic = "random gentle owner wage protect wedding blame demise force genuine disorder left";
+var mnemonic = "purity vote scene crater forest pledge regret snake upper sleep antique trust";

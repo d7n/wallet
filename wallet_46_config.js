@@ -1,1 +1,1 @@
-var mnemonic = "jelly ask finish since dress pumpkin limb poet turtle fun nice crawl";
+var mnemonic = "method main final evolve waste humor tribe surge renew magnet just clarify";

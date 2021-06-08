@@ -1,1 +1,1 @@
-var mnemonic = "live clap banana film slide history denial fan mandate mercy grief that";
+var mnemonic = "glad amateur decrease enact refuse scout poem bench make shoulder series stand";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck tennis praise fashion toy act snap scale vapor tooth multiply chronic";
+var mnemonic = "elite robot punch across main mushroom bacon inherit account ceiling crawl reunion";

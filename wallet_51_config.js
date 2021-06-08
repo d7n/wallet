@@ -1,1 +1,1 @@
-var mnemonic = "angle matter powder syrup picnic fabric hurry gift surprise erode bless online";
+var mnemonic = "crane whisper cricket cave cloud boat marine mushroom famous tiger trash broken";

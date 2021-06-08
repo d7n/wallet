@@ -1,1 +1,1 @@
-var mnemonic = "patrol turkey trumpet hospital problem year paddle fox august embark demand shuffle";
+var mnemonic = "badge renew cave soon antique over divide find viable gauge strike owner";

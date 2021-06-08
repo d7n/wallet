@@ -1,1 +1,1 @@
-var mnemonic = "marble donkey marble fetch maid warm pull soup exist flip denial kangaroo";
+var mnemonic = "three execute traffic enlist gap silver sheriff tenant exhibit person number six";

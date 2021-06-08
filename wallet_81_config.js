@@ -1,1 +1,1 @@
-var mnemonic = "jump swamp link cruise exotic agree shoot ketchup vanish exit balcony whale";
+var mnemonic = "electric vast velvet river eager arena six obvious ahead spider kind tattoo";

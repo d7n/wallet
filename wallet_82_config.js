@@ -1,1 +1,1 @@
-var mnemonic = "fat volcano library doll question add rule evil vote coffee fetch scissors";
+var mnemonic = "next patient mandate book cradle depend paddle chuckle attend spider talk insect";

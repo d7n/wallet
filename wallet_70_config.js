@@ -1,1 +1,1 @@
-var mnemonic = "orange damp few wedding tell square limit cereal script lion screen usual";
+var mnemonic = "shy huge office episode window stomach regret fire return later anger bacon";

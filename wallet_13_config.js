@@ -1,1 +1,1 @@
-var mnemonic = "affair ritual ripple clutch height seven fix online unveil volume rain index";
+var mnemonic = "once ocean drill dynamic heart legal custom van ready turkey ethics glow";

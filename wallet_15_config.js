@@ -1,1 +1,1 @@
-var mnemonic = "ritual order owner oyster height buffalo final code inch disorder album muffin";
+var mnemonic = "now obscure help board item airport life prefer escape welcome neglect stock";

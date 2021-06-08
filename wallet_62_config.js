@@ -1,1 +1,1 @@
-var mnemonic = "universe dynamic assault cycle actual tattoo hero swift prison transfer bullet humble";
+var mnemonic = "breeze ship club drink like entry dragon skirt clay tongue habit announce";

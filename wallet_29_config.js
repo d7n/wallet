@@ -1,1 +1,1 @@
-var mnemonic = "effort bleak orphan chair mass outside height beef edge rose post pulp";
+var mnemonic = "balance hub ensure jar excuse pen trap safe ski teach club seek";

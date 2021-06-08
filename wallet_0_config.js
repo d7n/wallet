@@ -1,1 +1,1 @@
-var mnemonic = "eager current script clutch butter bundle music damp comfort pig speak brave";
+var mnemonic = "midnight deny junior apple urban treat erase shoot city artist online mandate";

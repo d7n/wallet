@@ -1,1 +1,1 @@
-var mnemonic = "glare addict only upgrade beef century magnet duck exotic pigeon orchard involve";
+var mnemonic = "sentence noble civil edit bird tiger rookie negative dial addict rebuild crunch";

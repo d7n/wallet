@@ -1,1 +1,1 @@
-var mnemonic = "taste allow scissors cliff figure uniform together silly shaft scare chase remind";
+var mnemonic = "rug fat between hour razor cart mesh opinion awful surround since trigger";

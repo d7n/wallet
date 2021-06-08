@@ -1,1 +1,1 @@
-var mnemonic = "health shine pupil crane protect surprise voyage link festival always spike flower";
+var mnemonic = "version zero column bring summer burger finger sword eager travel winner hybrid";

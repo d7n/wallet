@@ -1,1 +1,1 @@
-var mnemonic = "liberty solve paper roof cause badge sense grain limit spy ring maximum";
+var mnemonic = "globe because oblige enroll utility punch team follow insane reunion bread tribe";

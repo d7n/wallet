@@ -1,1 +1,1 @@
-var mnemonic = "demand plug rug snap ginger brown apology crawl asthma myself forget catalog";
+var mnemonic = "sight differ fetch action subject ritual august tattoo moon episode glove random";

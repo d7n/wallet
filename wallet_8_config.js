@@ -1,1 +1,1 @@
-var mnemonic = "sunset gather bronze kit lobster idea message defense draw ivory then jar";
+var mnemonic = "tenant cereal sell seven renew property carry recipe cabbage mercy enjoy alone";

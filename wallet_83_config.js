@@ -1,1 +1,1 @@
-var mnemonic = "open bulk poet swim anxiety lens hidden praise forget account glow permit";
+var mnemonic = "typical ask lumber poverty knife equip doctor discover bundle script cat hurdle";

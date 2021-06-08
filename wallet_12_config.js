@@ -1,1 +1,1 @@
-var mnemonic = "board tail increase more alter client initial pattern payment guide good sketch";
+var mnemonic = "bullet flee gentle noble lottery figure flame concert friend quick time base";

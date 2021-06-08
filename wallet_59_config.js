@@ -1,1 +1,1 @@
-var mnemonic = "depth matter token finish exhaust tooth grief number burst hotel absurd exhaust";
+var mnemonic = "muscle rebuild popular artwork idea series agree prevent hire hen right brick";

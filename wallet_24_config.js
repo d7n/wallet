@@ -1,1 +1,1 @@
-var mnemonic = "nurse file nuclear town brave ensure tornado legend lecture real rule fault";
+var mnemonic = "miss tomorrow basket moon start current sort zone fruit plastic away key";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum marriage outer please trap side deposit mule orchard glow joy arrow";
+var mnemonic = "sunset whisper galaxy payment pepper ginger april face human pluck paddle physical";

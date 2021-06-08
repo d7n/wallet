@@ -1,1 +1,1 @@
-var mnemonic = "jungle penalty cactus dad tide shy actual you boring agent shield hover";
+var mnemonic = "goose edge search safe angle bunker federal clean donkey popular maximum almost";

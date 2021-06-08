@@ -1,1 +1,1 @@
-var mnemonic = "knock number tourist index nest eagle cost tuition obscure phone divert tornado";
+var mnemonic = "crime craft patch net alarm oak six puppy gift dash acquire pencil";

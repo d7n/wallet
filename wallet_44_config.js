@@ -1,1 +1,1 @@
-var mnemonic = "buyer grit grape oxygen laundry rail rude drip barely vacuum obscure immense";
+var mnemonic = "anger wink defense boring priority choice pause near security mammal ridge wear";

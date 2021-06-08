@@ -1,1 +1,1 @@
-var mnemonic = "stomach void zebra tourist salt disease decorate desert write trap parrot raw";
+var mnemonic = "capital world rib agent leisure fine flock gate feed mobile famous jazz";

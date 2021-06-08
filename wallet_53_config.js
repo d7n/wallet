@@ -1,1 +1,1 @@
-var mnemonic = "lemon hamster test chicken urge vocal chapter olympic scale wife leopard maple";
+var mnemonic = "limit hamster clutch tube cover mushroom limb task minimum plate awkward assume";

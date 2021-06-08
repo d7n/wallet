@@ -1,1 +1,1 @@
-var mnemonic = "divert model monitor mimic hair enact napkin alpha notice bind jeans pride";
+var mnemonic = "menu guide erosion laugh marine brave fashion hole term student also crash";

@@ -1,1 +1,1 @@
-var mnemonic = "prison base keep rabbit settle still risk clutch neck drift impulse evil";
+var mnemonic = "negative taxi height dream shell kiwi average series diamond antique chest kit";

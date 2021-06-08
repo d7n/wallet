@@ -1,1 +1,1 @@
-var mnemonic = "awesome problem manage vicious recipe light obtain short detail tackle velvet keen";
+var mnemonic = "shiver master lyrics margin sustain coach cactus panic gentle soon shoot promote";

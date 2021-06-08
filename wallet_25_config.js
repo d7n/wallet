@@ -1,1 +1,1 @@
-var mnemonic = "chat bonus feed warm cake fluid size crack region huge deny filter";
+var mnemonic = "angry melt win approve decline ritual armor fence genre guard tank love";

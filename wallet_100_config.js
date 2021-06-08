@@ -1,1 +1,1 @@
-var mnemonic = "meat smile trick solution notable casino own join autumn genuine theory bundle";
+var mnemonic = "auto cricket garbage armed ladder endless reform retreat blast economy shrug gown";

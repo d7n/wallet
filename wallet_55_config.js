@@ -1,1 +1,1 @@
-var mnemonic = "mask black toast cradle cash brief athlete drift final card friend gown";
+var mnemonic = "present smoke siren fury vivid mix amount morning radio world finger include";

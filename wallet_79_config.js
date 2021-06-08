@@ -1,1 +1,1 @@
-var mnemonic = "runway stand pistol bomb update agent laugh sight destroy force noodle sponsor";
+var mnemonic = "long tape fade offer guilt panel royal alert symptom topic fall dish";

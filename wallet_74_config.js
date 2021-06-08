@@ -1,1 +1,1 @@
-var mnemonic = "goose female sport forget mule erosion rubber double hockey above clap oval";
+var mnemonic = "cactus drill noble relax sunny trade shoot ketchup suffer fluid index coffee";

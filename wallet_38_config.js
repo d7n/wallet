@@ -1,1 +1,1 @@
-var mnemonic = "brief mind pool vague aim erase abandon size surprise document vote patch";
+var mnemonic = "violin news mammal modify wrong sleep sauce oyster draw debris nephew good";

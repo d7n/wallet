@@ -1,1 +1,1 @@
-var mnemonic = "scare pupil neither scout life embody drum debate flat loud planet include";
+var mnemonic = "shallow still aware erosion sure awake sheriff rare husband deal dinner deposit";

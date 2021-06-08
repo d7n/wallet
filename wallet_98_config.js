@@ -1,1 +1,1 @@
-var mnemonic = "aerobic genius empower rabbit picture blame patient genius crime aspect worth case";
+var mnemonic = "blur spot tuition soda finger unit oil route love dial knife library";

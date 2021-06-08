@@ -1,1 +1,1 @@
-var mnemonic = "fat shrug iron gauge extra setup urban deer suffer grocery post board";
+var mnemonic = "blur pulp chicken hover strong stick slender seek manual hour useful move";

@@ -1,1 +1,1 @@
-var mnemonic = "salon height patient repair width brown virtual shield gate hybrid trick bind";
+var mnemonic = "stairs belt rebuild sound coral wide solar push magnet merit thing blanket";

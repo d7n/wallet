@@ -1,1 +1,1 @@
-var mnemonic = "awful purity find stay happy turn bundle key below fancy scare term";
+var mnemonic = "output connect sport silly nuclear negative alpha donor medal struggle now modify";

@@ -1,1 +1,1 @@
-var mnemonic = "level spider that damage milk educate now update upper sunset fiction debris";
+var mnemonic = "sight bone oblige gap hero people deal program plug image loud lecture";

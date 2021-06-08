@@ -1,1 +1,1 @@
-var mnemonic = "correct emerge approve trap decide sure various radar random mesh super car";
+var mnemonic = "magic involve coral gaze aunt boss prosper strike arch motor merit assault";

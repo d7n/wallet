@@ -1,1 +1,1 @@
-var mnemonic = "naive bronze rose pencil rapid bar mixture project column sea swear glue";
+var mnemonic = "girl dog game reason turkey all among famous little divert venture output";

@@ -1,1 +1,1 @@
-var mnemonic = "close useful asset grit banana trip rotate brisk poverty cycle cake apart";
+var mnemonic = "mail pole trip foot bench morning episode few pretty fever install general";

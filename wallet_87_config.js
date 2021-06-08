@@ -1,1 +1,1 @@
-var mnemonic = "tongue violin include wall outside cloth warrior program joke innocent coin jar";
+var mnemonic = "artwork picture person agree host helmet churn baby enemy push blue solid";

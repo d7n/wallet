@@ -1,1 +1,1 @@
-var mnemonic = "hill push fault athlete hurdle settle swear round fever shed route happy";
+var mnemonic = "swap mimic charge invest palace speed hill version tunnel adjust awkward often";

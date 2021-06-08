@@ -1,1 +1,1 @@
-var mnemonic = "human profit foam noble lucky huge quality crouch arctic job six fiber";
+var mnemonic = "truth marriage ring feature virtual rigid collect repair crush agree inner thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano throw sentence citizen click mask soup visa repeat stool unlock foot";
+var mnemonic = "museum angry gate unaware admit bone potato hungry promote rigid sad response";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle steak detect daughter differ polar lemon fame swallow smile forum stone";
+var mnemonic = "soda army scout pudding buyer mechanic nice ribbon island join water bitter";

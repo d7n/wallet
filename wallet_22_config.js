@@ -1,1 +1,1 @@
-var mnemonic = "picnic guide neck tilt echo huge time organ egg rate spring spin";
+var mnemonic = "disorder giraffe meat hammer spin athlete screen sentence able reopen suit defy";

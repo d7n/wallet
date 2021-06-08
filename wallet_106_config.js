@@ -1,1 +1,1 @@
-var mnemonic = "crowd person escape friend way laptop earn air siren auto eyebrow minute";
+var mnemonic = "just helmet fiscal trumpet seven gallery another judge rent stone eight mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy mean civil hill fatigue peanut sauce month image suffer like spread";
+var mnemonic = "word bike wide auto sample okay camera shrimp planet snap middle sleep";

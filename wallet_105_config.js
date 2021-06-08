@@ -1,1 +1,1 @@
-var mnemonic = "slow clerk travel glove early kiss remove online voice edge squirrel session";
+var mnemonic = "aware merge black useless fiscal wrist bubble empty slim duty design upon";

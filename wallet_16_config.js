@@ -1,1 +1,1 @@
-var mnemonic = "aspect expose nose pulse pink multiply lonely plunge turn alcohol reject word";
+var mnemonic = "law traffic acoustic develop pink stairs notable hub paddle hard zoo age";

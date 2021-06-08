@@ -1,1 +1,1 @@
-var mnemonic = "satoshi social frown dwarf love kidney lobster cheap inform need harsh kind";
+var mnemonic = "now start suit alarm network boat marble lend enable behind minimum access";

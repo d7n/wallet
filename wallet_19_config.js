@@ -1,1 +1,1 @@
-var mnemonic = "trigger phone among quantum family ghost slogan more consider explain loop erosion";
+var mnemonic = "parrot aspect sing van shop notable social away tragic relief tooth foam";

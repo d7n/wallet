@@ -1,1 +1,1 @@
-var mnemonic = "banana alert derive humble shrug enrich thunder sound anxiety industry ancient universe";
+var mnemonic = "opinion switch history appear job warm electric pond oxygen devote plug whale";

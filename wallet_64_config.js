@@ -1,1 +1,1 @@
-var mnemonic = "suspect rent romance code winter dolphin print across faith journey kiwi source";
+var mnemonic = "flame crop unit diamond finish ceiling member broccoli grain dumb major stay";
