@@ -1,1 +1,1 @@
-var mnemonic = "dinner forget wolf toast lion embody whale thing ancient diary staff lab";
+var mnemonic = "dad topple elegant blanket middle energy expire daughter tent record loan latin";

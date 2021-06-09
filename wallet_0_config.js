@@ -1,1 +1,1 @@
-var mnemonic = "isolate maximum delay bread camp margin core bus rookie swift night monitor";
+var mnemonic = "harvest fox ancient feed vanish cave card gown nephew notice visual seminar";

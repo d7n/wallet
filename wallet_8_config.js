@@ -1,1 +1,1 @@
-var mnemonic = "unknown dentist have swift powder august bread drink faith negative hello crash";
+var mnemonic = "sense favorite layer beach else august arctic lab extra foil fat endless";

@@ -1,1 +1,1 @@
-var mnemonic = "valve vast fossil weather danger suffer traffic dad minute minimum tragic bike";
+var mnemonic = "stock scatter enforce seed someone marble roast onion original mercy furnace theme";

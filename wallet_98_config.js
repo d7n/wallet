@@ -1,1 +1,1 @@
-var mnemonic = "echo skill bean clog world beach pumpkin easily mixture scissors dash unveil";
+var mnemonic = "bicycle certain draft wealth anger awesome march glue duck brown mixed bullet";

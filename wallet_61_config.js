@@ -1,1 +1,1 @@
-var mnemonic = "sea regular stadium gasp penalty race ship wrist loop actor medal tumble";
+var mnemonic = "enjoy anger chef law sniff barely crystal alpha rocket quit banana hope";

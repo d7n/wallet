@@ -1,1 +1,1 @@
-var mnemonic = "sunset crunch buyer dwarf attack float step mandate impact panic panda uphold";
+var mnemonic = "dragon dirt turtle system gospel cliff raw drill danger forest enforce struggle";

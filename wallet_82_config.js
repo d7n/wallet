@@ -1,1 +1,1 @@
-var mnemonic = "squeeze during oven vivid olive maple despair language comfort author slush option";
+var mnemonic = "gain net palm shrimp smile ignore fiction stable because labor fashion cool";

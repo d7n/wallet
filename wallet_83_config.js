@@ -1,1 +1,1 @@
-var mnemonic = "feel arrive napkin sadness same emotion miss seek wedding vehicle supply supreme";
+var mnemonic = "wheel helmet canal erase small stick loyal version field abstract group govern";

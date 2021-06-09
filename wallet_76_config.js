@@ -1,1 +1,1 @@
-var mnemonic = "silk mango endorse kidney laugh catalog undo guard dial betray zoo maple";
+var mnemonic = "neck float sentence toast key art toe juice marble street neglect pencil";

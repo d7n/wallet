@@ -1,1 +1,1 @@
-var mnemonic = "into faint purse energy hockey beyond eye mask hero judge wheel beyond";
+var mnemonic = "twelve army turn vital lottery escape style detail void believe parade badge";

@@ -1,1 +1,1 @@
-var mnemonic = "idle weapon universe ignore bag music hub stomach enemy clean panic push";
+var mnemonic = "engage diet people young dad shine tenant risk jungle guitar regret mad";

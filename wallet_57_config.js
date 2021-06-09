@@ -1,1 +1,1 @@
-var mnemonic = "inner aisle loyal sad winner radar valid garlic crazy frequent dial alert";
+var mnemonic = "army flower double year trash inside fox utility ginger wing oxygen awake";

@@ -1,1 +1,1 @@
-var mnemonic = "result common source they dynamic eager arrest few ring violin oyster town";
+var mnemonic = "antique day under puppy swing people prefer column business drive tool give";

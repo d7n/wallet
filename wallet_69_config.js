@@ -1,1 +1,1 @@
-var mnemonic = "hazard tourist alpha one divide twice million violin nature pipe neck floor";
+var mnemonic = "age detect breeze diesel meadow proof glue soccer quarter sniff drill vague";

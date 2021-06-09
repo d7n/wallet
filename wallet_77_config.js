@@ -1,1 +1,1 @@
-var mnemonic = "acoustic name skill rare snake usage correct coach repeat gauge employ pond";
+var mnemonic = "dentist path glad prize doctor path obtain tragic sign scout flip device";

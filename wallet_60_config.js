@@ -1,1 +1,1 @@
-var mnemonic = "afraid friend uncover hurry duty evolve viable select jar region force cliff";
+var mnemonic = "pretty supply loan bench smile worry stomach height method upgrade during flip";

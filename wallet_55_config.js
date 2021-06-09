@@ -1,1 +1,1 @@
-var mnemonic = "brick train ribbon keen myself merit lady salute noise alert volume frown";
+var mnemonic = "rich obvious rather myself sweet acoustic habit harbor fame unable grief return";

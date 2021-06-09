@@ -1,1 +1,1 @@
-var mnemonic = "mule magic code call leaf replace shuffle expose clever punch cave galaxy";
+var mnemonic = "atom flight dinner rural actual ritual face decide march aspect grace convince";

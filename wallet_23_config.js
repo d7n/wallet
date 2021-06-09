@@ -1,1 +1,1 @@
-var mnemonic = "idea feature wolf bitter dose cause else ginger work charge raise stereo";
+var mnemonic = "theory solid weekend electric trumpet shop angry sudden gift race ostrich dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak match jeans offer allow decrease cruel advance slow audit smoke cannon";
+var mnemonic = "chase shuffle alcohol fancy problem valve ritual dilemma fossil drill video adjust";

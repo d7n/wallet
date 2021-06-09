@@ -1,1 +1,1 @@
-var mnemonic = "approve master hill able fashion road dry fortune again this culture awful";
+var mnemonic = "wasp number involve monster issue raven market festival gesture very light phone";

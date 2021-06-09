@@ -1,1 +1,1 @@
-var mnemonic = "tower rabbit cry review junk resist plastic satisfy crisp meadow sad when";
+var mnemonic = "exhibit route zero bicycle fuel spider april olive work surround proud enemy";

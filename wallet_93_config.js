@@ -1,1 +1,1 @@
-var mnemonic = "flat cactus initial relax feature bamboo replace science street core spare lock";
+var mnemonic = "curtain pizza history spare dash almost cook train dwarf group garment slogan";

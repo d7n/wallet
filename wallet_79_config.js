@@ -1,1 +1,1 @@
-var mnemonic = "nephew guard planet immense path clean lizard coral dwarf start library fork";
+var mnemonic = "region useless have film calm chair face diesel vessel annual film nice";

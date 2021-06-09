@@ -1,1 +1,1 @@
-var mnemonic = "because vivid verb recycle hover own misery divorce jump gather pill project";
+var mnemonic = "first quality uncover dove inhale problem wheat budget diamond armed because wrestle";

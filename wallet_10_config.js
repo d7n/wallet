@@ -1,1 +1,1 @@
-var mnemonic = "pride hero siren resemble cigar capital amateur barrel yard inherit raw client";
+var mnemonic = "admit vault enjoy evil round squirrel brave order original oven cruise roast";

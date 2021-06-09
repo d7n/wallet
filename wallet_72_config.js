@@ -1,1 +1,1 @@
-var mnemonic = "dial permit excite unhappy tongue dash seek ozone knock alien trip reopen";
+var mnemonic = "fetch cereal strong render gadget swallow pelican ball current tag creek despair";

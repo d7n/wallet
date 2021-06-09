@@ -1,1 +1,1 @@
-var mnemonic = "edit message jacket patrol drip sock code roast sight drip physical rocket";
+var mnemonic = "feel comfort vintage garment grain tired clump problem question ill visual organ";

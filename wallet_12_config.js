@@ -1,1 +1,1 @@
-var mnemonic = "invite forward bulb trigger blush quick luggage one enhance fix melt update";
+var mnemonic = "volcano melt actual hello control improve gossip slogan approve cruise chunk boost";

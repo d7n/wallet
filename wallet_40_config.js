@@ -1,1 +1,1 @@
-var mnemonic = "behind rule dentist duck airport hair random grab notice goddess proof cruise";
+var mnemonic = "since piano antique buddy east bonus undo credit cup shove ranch canvas";

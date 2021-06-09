@@ -1,1 +1,1 @@
-var mnemonic = "color excess dice battle salad viable dove betray prepare must wild foster";
+var mnemonic = "close hurdle duty figure slot box insect shove expand bonus random forum";

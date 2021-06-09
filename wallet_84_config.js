@@ -1,1 +1,1 @@
-var mnemonic = "flush student document evoke distance print soft check bicycle number warfare reopen";
+var mnemonic = "bulb term outside water they clean tiger card claw chicken enact summer";

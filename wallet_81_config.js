@@ -1,1 +1,1 @@
-var mnemonic = "april uniform choice pepper skill mobile abuse fossil cage pottery burden tourist";
+var mnemonic = "hand pattern silly bid item domain remind high mixture panther crater produce";

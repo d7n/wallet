@@ -1,1 +1,1 @@
-var mnemonic = "circle peace dash boss ghost inner liberty fiscal lend more become bonus";
+var mnemonic = "retire that biology trade wisdom fade ridge labor motion stage never awkward";

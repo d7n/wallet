@@ -1,1 +1,1 @@
-var mnemonic = "immune first retire drum regular secret betray shuffle rich endorse clever hat";
+var mnemonic = "label tobacco canyon wasp metal lumber acid shift purity market vacant title";

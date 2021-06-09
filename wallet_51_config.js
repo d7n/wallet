@@ -1,1 +1,1 @@
-var mnemonic = "fence tongue fluid certain dial wolf nerve dentist horn business volume grab";
+var mnemonic = "kite flag predict ask question view rotate horror hospital around visit pause";

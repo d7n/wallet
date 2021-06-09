@@ -1,1 +1,1 @@
-var mnemonic = "coil actress dad spy same problem story goat baby crystal salad census";
+var mnemonic = "jump fancy borrow adult gate trash fame merit milk flee unusual maze";

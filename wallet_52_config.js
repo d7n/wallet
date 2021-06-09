@@ -1,1 +1,1 @@
-var mnemonic = "entire matter comic garment ocean say long wealth key diesel object near";
+var mnemonic = "shoulder link deposit gloom already apple unusual slush badge present gloom social";

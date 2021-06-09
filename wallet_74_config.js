@@ -1,1 +1,1 @@
-var mnemonic = "transfer left soccer fatal flush latin usage offer chunk weasel shrug giant";
+var mnemonic = "action silk grab draw canoe hedgehog jewel evil enemy final cruel leave";

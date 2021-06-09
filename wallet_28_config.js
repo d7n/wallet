@@ -1,1 +1,1 @@
-var mnemonic = "index demise organ rare drink check adapt once swing mail program satisfy";
+var mnemonic = "evil label ostrich among model wonder bundle estate retire advice puppy sing";

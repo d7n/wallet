@@ -1,1 +1,1 @@
-var mnemonic = "day hen man ensure season patch ordinary forum inject antenna know grass";
+var mnemonic = "enact nerve kangaroo tent symptom evidence shiver hood myth escape loyal duck";

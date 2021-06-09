@@ -1,1 +1,1 @@
-var mnemonic = "because defy artist fun obtain cherry admit green hidden flower cry coin";
+var mnemonic = "squeeze surround swing eight inspire web join arm cupboard depth also tornado";

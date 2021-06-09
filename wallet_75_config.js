@@ -1,1 +1,1 @@
-var mnemonic = "vital pill issue enhance series morning message token rule drill display correct";
+var mnemonic = "coyote angle royal century cluster normal explain chaos dawn ribbon angle destroy";

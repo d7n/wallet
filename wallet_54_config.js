@@ -1,1 +1,1 @@
-var mnemonic = "sleep message mule arch chef frost same clump tag soft spoon vote";
+var mnemonic = "void unusual afraid dwarf spell bounce inform borrow despair relief noodle moral";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy shift body start idle spell consider secret when hungry cruel radio";
+var mnemonic = "amused room team alert month motor hover tip reunion end goat hazard";

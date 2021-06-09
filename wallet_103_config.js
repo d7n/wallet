@@ -1,1 +1,1 @@
-var mnemonic = "dizzy nation hard portion whip garment peanut shoulder lottery simple inquiry divide";
+var mnemonic = "supply duck rib lens exhibit keep learn fatal jungle topic frame measure";

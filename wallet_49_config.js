@@ -1,1 +1,1 @@
-var mnemonic = "claim short simple allow blush strike either champion hedgehog shock echo syrup";
+var mnemonic = "upper about come budget stadium local unaware pill disagree guitar leaf gesture";

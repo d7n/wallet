@@ -1,1 +1,1 @@
-var mnemonic = "regular puzzle slice celery empty tree situate peace road fence copy angle";
+var mnemonic = "cliff expire share limb quarter ball fetch coyote shift border fire album";

@@ -1,1 +1,1 @@
-var mnemonic = "tent churn survey uphold riot betray super gym rifle away toss area";
+var mnemonic = "this beef salute differ art identify stamp royal family spot language dilemma";

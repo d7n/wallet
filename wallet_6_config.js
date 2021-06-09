@@ -1,1 +1,1 @@
-var mnemonic = "planet connect bounce system tragic bless spend main result doctor miss link";
+var mnemonic = "broken rough muscle page leave output box script boy foam shift parrot";

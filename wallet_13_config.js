@@ -1,1 +1,1 @@
-var mnemonic = "physical wrap thank arm host risk coffee alley ankle harsh welcome slender";
+var mnemonic = "stomach capital claw kid search frost army slab evoke champion layer female";

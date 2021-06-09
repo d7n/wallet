@@ -1,1 +1,1 @@
-var mnemonic = "ask curve clerk riot clarify box enlist parrot bus surface donor rough";
+var mnemonic = "practice bind abuse shoot place brain ankle chest hip achieve bring soup";

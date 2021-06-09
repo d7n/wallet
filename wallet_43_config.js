@@ -1,1 +1,1 @@
-var mnemonic = "bench silk achieve obey rough solar cart recall please garment extra assist";
+var mnemonic = "guide throw present denial chicken thumb humble announce brown ahead purse history";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare predict kid empower arrange old egg doctor maximum shiver coyote hair";
+var mnemonic = "stuff cute volcano bicycle trophy exclude social canyon snack cheese into around";

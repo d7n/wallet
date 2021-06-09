@@ -1,1 +1,1 @@
-var mnemonic = "payment hire mimic tunnel maximum stay oyster wide shine pelican problem chuckle";
+var mnemonic = "hurt orphan gift joy jelly shy jaguar plastic paper area shove night";

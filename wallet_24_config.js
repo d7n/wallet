@@ -1,1 +1,1 @@
-var mnemonic = "bulk glory taste mind dish rubber this example motion march puzzle ethics";
+var mnemonic = "piano warfare own bench kitten hammer learn first lady cement text flush";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty canvas sister guide scissors net zebra vendor blue rescue rebuild matrix";
+var mnemonic = "achieve auto vanish cluster genre corn mix oxygen stereo atom win search";

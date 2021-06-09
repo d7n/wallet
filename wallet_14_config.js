@@ -1,1 +1,1 @@
-var mnemonic = "digital bike village salon february mouse rapid one mystery slogan foster open";
+var mnemonic = "unit jazz rural chapter scale floor resemble elegant bean crunch jump inmate";

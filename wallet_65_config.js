@@ -1,1 +1,1 @@
-var mnemonic = "dice phone have member regret junior stomach pencil time panda dilemma intact";
+var mnemonic = "skirt merit spirit program junior profit want benefit believe riot royal foot";

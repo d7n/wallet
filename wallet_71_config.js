@@ -1,1 +1,1 @@
-var mnemonic = "put divert simple noodle napkin moment vast goddess way lake sister melt";
+var mnemonic = "phone stable social best normal flock midnight crew jealous truck science flash";

@@ -1,1 +1,1 @@
-var mnemonic = "vague joke announce pistol diesel foam crime soldier angry opinion trigger repeat";
+var mnemonic = "throw gift roof file hybrid mechanic elite intact regular hole olive chronic";

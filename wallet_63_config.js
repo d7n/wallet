@@ -1,1 +1,1 @@
-var mnemonic = "ritual universe farm daring call cabin gain swamp indoor monkey flame dial";
+var mnemonic = "train main traffic keen old pull mountain october aisle mistake athlete curious";

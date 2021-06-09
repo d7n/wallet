@@ -1,1 +1,1 @@
-var mnemonic = "immense guess improve system network bracket month bitter vague stumble march ugly";
+var mnemonic = "label width minute endless subject web diamond arrange entire crush model labor";

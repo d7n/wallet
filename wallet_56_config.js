@@ -1,1 +1,1 @@
-var mnemonic = "seed record resemble nature remind disease camp nature shiver shoulder brand panda";
+var mnemonic = "jazz term curtain appear dial example belt maximum quick glue dust jungle";

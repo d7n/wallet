@@ -1,1 +1,1 @@
-var mnemonic = "apple fetch giggle rather denial switch toss shed ghost text focus brick";
+var mnemonic = "scare isolate noodle glide camp width coil border either three drip believe";

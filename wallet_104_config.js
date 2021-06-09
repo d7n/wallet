@@ -1,1 +1,1 @@
-var mnemonic = "define loud artefact tip female live blossom fiction camp giggle text enact";
+var mnemonic = "pear deer logic inhale carpet long before find wash mind visual super";

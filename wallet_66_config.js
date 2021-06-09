@@ -1,1 +1,1 @@
-var mnemonic = "strategy mad clip sunset client cook uncle please fuel urban trade boil";
+var mnemonic = "abuse order manual save embrace must family sunny host crouch ceiling tomorrow";

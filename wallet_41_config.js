@@ -1,1 +1,1 @@
-var mnemonic = "great dice master arrest family polar silly coach panther fury farm ignore";
+var mnemonic = "chaos waste van depart rabbit whale fresh element into token giraffe all";

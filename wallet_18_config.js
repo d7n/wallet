@@ -1,1 +1,1 @@
-var mnemonic = "dignity under door connect confirm runway pony reopen rural infant save bright";
+var mnemonic = "trumpet robot adjust range very dry refuse jelly want seed volume napkin";

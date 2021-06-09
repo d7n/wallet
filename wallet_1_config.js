@@ -1,1 +1,1 @@
-var mnemonic = "matrix industry crash provide play debris taxi wrap mixture divide airport scissors";
+var mnemonic = "wonder service wide twice hamster kingdom space slim hurt junior base domain";

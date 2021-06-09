@@ -1,1 +1,1 @@
-var mnemonic = "nest blast panic creek crouch abstract rebel bulk way bargain anxiety vessel";
+var mnemonic = "access job mutual token famous return sudden invite family august diamond wave";

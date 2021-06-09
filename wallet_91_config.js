@@ -1,1 +1,1 @@
-var mnemonic = "marine zoo maximum wine trade whip record sing call rescue consider rail";
+var mnemonic = "wire utility shell differ daughter fringe inflict april seek phone coffee unable";

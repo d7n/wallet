@@ -1,1 +1,1 @@
-var mnemonic = "theme brown universe hobby nice blast denial sense luxury style repeat grocery";
+var mnemonic = "step afraid trial impact arm detail wheat tail abstract glove acoustic alarm";

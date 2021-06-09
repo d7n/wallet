@@ -1,1 +1,1 @@
-var mnemonic = "sheriff hotel stereo you gift viable thunder silent kid tired mountain pool";
+var mnemonic = "vicious love embark dutch gun ask recall portion discover index coyote steel";

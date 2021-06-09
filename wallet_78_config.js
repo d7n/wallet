@@ -1,1 +1,1 @@
-var mnemonic = "auction slot correct absent alter page yard finger wrestle squirrel apple toss";
+var mnemonic = "method few family dance destroy endless exist dynamic junk forward adjust monitor";

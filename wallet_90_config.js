@@ -1,1 +1,1 @@
-var mnemonic = "frost document main mushroom craft orchard license decrease indoor detail bamboo eyebrow";
+var mnemonic = "blood tilt hurt pet thrive vital riot throw bread tape saddle smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "catch quality aware vast armor truly modify fold metal cable bottom narrow";
+var mnemonic = "lawsuit entry rigid wine orient whisper put wide garbage detect youth ready";

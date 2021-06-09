@@ -1,1 +1,1 @@
-var mnemonic = "club rebel arena glide ignore spawn vacant cable south visit dad enrich";
+var mnemonic = "unique ignore news uniform hero pill explain leaf step sight aerobic chaos";

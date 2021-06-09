@@ -1,1 +1,1 @@
-var mnemonic = "baby deliver fat diet price dolphin spawn dune engine wasp purpose verb";
+var mnemonic = "wheel benefit unfold betray table milk dizzy ancient sauce oil bacon manual";

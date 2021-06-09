@@ -1,1 +1,1 @@
-var mnemonic = "inhale gym seek time much artist evoke flower embrace crystal final citizen";
+var mnemonic = "nest robust fit position summer attend gift grain entry faith unique clap";

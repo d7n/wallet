@@ -1,1 +1,1 @@
-var mnemonic = "marriage bid utility strong antique wrong pony rigid chef middle voyage member";
+var mnemonic = "legal tumble gold water profit found derive sport theory walnut address grunt";

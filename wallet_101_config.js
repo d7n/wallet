@@ -1,1 +1,1 @@
-var mnemonic = "valley sing wet lunch cross lonely stove convince usual purse elephant penalty";
+var mnemonic = "venture undo thing move ahead figure potato report below impulse insane best";

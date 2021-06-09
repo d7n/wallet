@@ -1,1 +1,1 @@
-var mnemonic = "cream robust innocent baby symptom eye lazy local decade crazy bulk fit";
+var mnemonic = "asthma diamond transfer guide field clap elite can symbol pair jazz goat";

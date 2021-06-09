@@ -1,1 +1,1 @@
-var mnemonic = "blood limb sad practice allow fire sustain elbow window candy dash switch";
+var mnemonic = "coyote midnight extend rabbit swamp pair picture cloud hard aunt dune bus";

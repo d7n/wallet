@@ -1,1 +1,1 @@
-var mnemonic = "legend spread blood prison close doctor machine best suspect blame shrug gossip";
+var mnemonic = "mixed region dial walnut immune jazz carpet truly chair elbow raven victory";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet tip shadow nut frog any auto pizza antique shrug hockey moral";
+var mnemonic = "parade wait reason raw kitten drink piece undo wheat orange wing spray";

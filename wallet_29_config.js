@@ -1,1 +1,1 @@
-var mnemonic = "reflect plate sad genuine pyramid mushroom quote certain crazy ill claim barely";
+var mnemonic = "iron gentle often exit rally response typical girl fragile cable goat breeze";
