@@ -1,1 +1,1 @@
-var mnemonic = "teach public card dog head feel vault cause come puzzle enlist remove";
+var mnemonic = "giggle awkward april column runway conduct guess inquiry faculty outer omit real";

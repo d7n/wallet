@@ -1,1 +1,1 @@
-var mnemonic = "assist faculty message hungry share setup trigger express lock peace trend column";
+var mnemonic = "vintage notable dilemma mango north bachelor pass stay destroy claim average trick";

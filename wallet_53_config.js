@@ -1,1 +1,1 @@
-var mnemonic = "book faculty icon mirror surface industry actual noise space topic term economy";
+var mnemonic = "egg cupboard open market point river sunset case helmet save boring idea";

@@ -1,1 +1,1 @@
-var mnemonic = "hip coin jar romance art grape flat action false plunge pull route";
+var mnemonic = "skill name diet shiver shallow wet oyster riot acoustic party trap enter";

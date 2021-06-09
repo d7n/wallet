@@ -1,1 +1,1 @@
-var mnemonic = "flock august slice shine decline betray typical chapter suit merry erupt beach";
+var mnemonic = "glue entry access party inject under present much hollow web club plate";

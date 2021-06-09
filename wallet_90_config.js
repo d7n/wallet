@@ -1,1 +1,1 @@
-var mnemonic = "cactus tent pulp goose fit try replace jacket aunt buddy write gate";
+var mnemonic = "process ecology hamster nothing slight lawn bright small peanut earn pulp hat";

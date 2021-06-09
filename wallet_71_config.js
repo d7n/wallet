@@ -1,1 +1,1 @@
-var mnemonic = "horse fox today sand carpet blast sauce taxi grief language replace flag";
+var mnemonic = "drill little popular about useful problem bitter ready seek label clutch load";

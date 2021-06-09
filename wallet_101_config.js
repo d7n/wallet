@@ -1,1 +1,1 @@
-var mnemonic = "mention close library fog sustain upgrade repeat tomorrow around antenna category topic";
+var mnemonic = "tornado what century program planet battle loan trigger level toss bunker cool";

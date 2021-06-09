@@ -1,1 +1,1 @@
-var mnemonic = "true canyon boring story army wrong season bubble essay entire galaxy muscle";
+var mnemonic = "hello oppose original second category item expand spoon clap april planet region";

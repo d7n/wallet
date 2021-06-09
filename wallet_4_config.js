@@ -1,1 +1,1 @@
-var mnemonic = "glance nature protect artefact pass major high occur certain clock spoon nut";
+var mnemonic = "trumpet bright forum come hunt hybrid attack general pencil action topple rude";

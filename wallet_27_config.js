@@ -1,1 +1,1 @@
-var mnemonic = "move harsh junk potato wrestle reward neutral move release slide dizzy noble";
+var mnemonic = "desert bonus seat pass squeeze design obtain maze expand portion filter chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion hedgehog cement category cart split history damage embrace misery rebel hedgehog";
+var mnemonic = "erupt garlic top shoe memory famous large client amateur hybrid rose frown";

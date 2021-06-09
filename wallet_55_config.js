@@ -1,1 +1,1 @@
-var mnemonic = "school dizzy van lamp problem robot join silly monkey weather parent poet";
+var mnemonic = "ten unusual change wool shoot fix image harvest sell inmate lab math";

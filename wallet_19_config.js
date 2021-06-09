@@ -1,1 +1,1 @@
-var mnemonic = "clock merit tribe find crawl soul hollow tilt drama novel thunder sorry";
+var mnemonic = "oval rain curious fall area jump rare rally asthma tomato desert wine";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch seed chef easy jeans liberty alarm regular cherry people build write";
+var mnemonic = "hard anchor clock rich denial wool drip identify issue art correct inner";

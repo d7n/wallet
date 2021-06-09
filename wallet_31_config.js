@@ -1,1 +1,1 @@
-var mnemonic = "someone mixture fluid polar taste blast reveal inherit clap federal crew always";
+var mnemonic = "toilet ticket hard total brain state large laptop alarm various song pass";

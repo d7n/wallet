@@ -1,1 +1,1 @@
-var mnemonic = "raise organ unfair interest float share bone proud foil rib legend dismiss";
+var mnemonic = "tomato yard cinnamon voyage yard symbol impact juice body december unable mom";

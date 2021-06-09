@@ -1,1 +1,1 @@
-var mnemonic = "arena village female elbow enact shadow thought tone involve erode shoot axis";
+var mnemonic = "select spider board sauce one height symbol piece rate robot lamp fuel";

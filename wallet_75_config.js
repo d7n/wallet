@@ -1,1 +1,1 @@
-var mnemonic = "add brisk rain path mesh wheat great kind pumpkin muffin game snap";
+var mnemonic = "practice sleep lava owner noodle hover fresh all middle victory acquire analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "project want dash start expect seven fan alter peanut fade state flush";
+var mnemonic = "slam blood hawk gift better fringe enhance uphold chase sister knock grab";

@@ -1,1 +1,1 @@
-var mnemonic = "crop demand yellow bag faith fork harvest seminar menu announce vapor bring";
+var mnemonic = "enrich submit analyst stage input wall flag rib hurdle lion struggle august";

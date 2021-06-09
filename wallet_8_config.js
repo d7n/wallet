@@ -1,1 +1,1 @@
-var mnemonic = "either spell math rare camp reject first lunch life cable hollow crater";
+var mnemonic = "message kangaroo capital switch juice winner say mobile begin frame income jacket";

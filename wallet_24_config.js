@@ -1,1 +1,1 @@
-var mnemonic = "castle forget text census trumpet eagle prepare asset north moment phone eye";
+var mnemonic = "eight hamster income silk cart auction flock fluid coyote cluster film turtle";

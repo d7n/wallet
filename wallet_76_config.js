@@ -1,1 +1,1 @@
-var mnemonic = "chalk vessel strike cotton juice lyrics away sand right panel mom narrow";
+var mnemonic = "debris host cute garlic hover space equal warrior music habit pilot record";

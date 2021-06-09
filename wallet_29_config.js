@@ -1,1 +1,1 @@
-var mnemonic = "tired rent argue control square prefer moral payment position breeze injury zero";
+var mnemonic = "wild gaze grow trap monster dragon degree elegant search ranch sunset artist";

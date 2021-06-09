@@ -1,1 +1,1 @@
-var mnemonic = "patrol company roof mother lava usual window alley lyrics huge faith share";
+var mnemonic = "since advice leopard window pond consider pause marble police glide void token";

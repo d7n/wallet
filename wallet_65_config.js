@@ -1,1 +1,1 @@
-var mnemonic = "gather icon spell like glue butter theory any crawl desk crowd ball";
+var mnemonic = "weather cluster curtain all physical seek bring slogan warm stomach brother setup";

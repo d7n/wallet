@@ -1,1 +1,1 @@
-var mnemonic = "ozone lottery punch solid honey fancy post submit raise safe practice south";
+var mnemonic = "cup debate excess giraffe trim frequent bring reveal obscure drill viable submit";

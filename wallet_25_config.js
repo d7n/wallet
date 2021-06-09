@@ -1,1 +1,1 @@
-var mnemonic = "usual level occur coyote recycle large current news velvet girl recipe farm";
+var mnemonic = "floor invite hand mad organ bar grace giggle imitate off accuse hill";

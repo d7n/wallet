@@ -1,1 +1,1 @@
-var mnemonic = "repeat nature glow stick logic hello merit poverty matrix menu spoon early";
+var mnemonic = "success mule warrior pulse weasel remind mother satisfy wash account gloom ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire actual kingdom rack airport august oblige kiwi lawsuit myth december vicious";
+var mnemonic = "saddle toss grace ribbon parent expose funny copper laptop another taste bone";

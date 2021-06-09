@@ -1,1 +1,1 @@
-var mnemonic = "ritual above palace prefer task cook laugh entire few library reason forum";
+var mnemonic = "bonus size casino cage sadness curve flavor gym announce eye bargain hood";

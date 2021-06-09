@@ -1,1 +1,1 @@
-var mnemonic = "buffalo ordinary canvas breeze hire engine brain ozone man team picnic duty";
+var mnemonic = "chase noise arrive road coach unable few exact master dawn ginger vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "worry naive save misery income twice employ tool media mercy thought crunch";
+var mnemonic = "act almost become success alter critic caught output method traffic kitchen problem";

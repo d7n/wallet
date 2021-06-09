@@ -1,1 +1,1 @@
-var mnemonic = "jelly below tongue multiply banana else manage hospital explain arch release twin";
+var mnemonic = "case elevator sponsor stuff above scare strong unfold together around lava next";

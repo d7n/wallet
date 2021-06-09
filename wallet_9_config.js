@@ -1,1 +1,1 @@
-var mnemonic = "frog morning sting coin color able best example nice romance innocent ozone";
+var mnemonic = "volume mean response receive pistol draft forum ridge process carry crane mirror";

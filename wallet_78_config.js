@@ -1,1 +1,1 @@
-var mnemonic = "analyst steak base stand force supply erosion crystal race fever fever asthma";
+var mnemonic = "desk indicate fiber horn garment cute shuffle sauce popular art gorilla tired";

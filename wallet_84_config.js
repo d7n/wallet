@@ -1,1 +1,1 @@
-var mnemonic = "recycle remind easy raw click exotic bless loan skate wisdom object about";
+var mnemonic = "romance nuclear until purchase amused tree summer rule invest sadness fury fox";

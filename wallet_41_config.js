@@ -1,1 +1,1 @@
-var mnemonic = "jelly unit song myth evoke congress cousin repeat romance list bundle divorce";
+var mnemonic = "sand asset sustain term vivid trim security neck soda pet climb spot";

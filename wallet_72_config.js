@@ -1,1 +1,1 @@
-var mnemonic = "tag dilemma vacant giant debate token lava hurry resource erase push soap";
+var mnemonic = "mix combine infant dry bottom near flip century notable basket century zebra";

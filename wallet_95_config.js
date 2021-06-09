@@ -1,1 +1,1 @@
-var mnemonic = "there coil soda abuse pink birth brick ketchup weather domain live dish";
+var mnemonic = "shift bracket throw captain hire embark tourist whale absurd destroy firm luxury";

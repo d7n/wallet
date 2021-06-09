@@ -1,1 +1,1 @@
-var mnemonic = "slight lawn card fossil idle supply fruit address nothing three cliff false";
+var mnemonic = "fortune flower control fossil attend behave inject chief column detect between cheese";

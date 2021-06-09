@@ -1,1 +1,1 @@
-var mnemonic = "hawk state season famous board panda uncle tone foot bar ready fancy";
+var mnemonic = "goddess other decorate release victory torch sweet patch nominee service bundle unhappy";

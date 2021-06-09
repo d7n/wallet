@@ -1,1 +1,1 @@
-var mnemonic = "dynamic supply human gym comfort rib away luxury unusual reopen sustain vacant";
+var mnemonic = "plunge summer problem sustain humble wing topple edit journey man have few";

@@ -1,1 +1,1 @@
-var mnemonic = "document monkey confirm trash nation client hold enough push hero disorder home";
+var mnemonic = "sign output reunion badge lounge state trumpet quiz toss index moral current";

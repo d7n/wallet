@@ -1,1 +1,1 @@
-var mnemonic = "staff royal isolate month peanut lounge random luggage floor glue ride raise";
+var mnemonic = "arena crew wash awesome strong large scout weekend path tenant mule mention";

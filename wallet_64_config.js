@@ -1,1 +1,1 @@
-var mnemonic = "work fever occur brass horror unfold insane nurse fire board lion alcohol";
+var mnemonic = "drift expand runway patient social agent wave piano buzz crane bracket organ";

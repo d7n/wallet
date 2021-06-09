@@ -1,1 +1,1 @@
-var mnemonic = "excite cook visit relief flag joy renew sing extend any thing beauty";
+var mnemonic = "exotic leg profit pelican bubble entire buddy license foster thrive lion aim";

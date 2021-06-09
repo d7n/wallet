@@ -1,1 +1,1 @@
-var mnemonic = "fiber birth digital girl total system code current swing vague solve pride";
+var mnemonic = "wife quiz roof keen achieve setup twist swift dice pig slender olympic";

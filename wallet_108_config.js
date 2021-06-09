@@ -1,1 +1,1 @@
-var mnemonic = "army direct exercise inherit mix great artefact limb pipe cousin nurse convince";
+var mnemonic = "blossom mix weapon edit mandate parrot final person cheese chief jealous frown";

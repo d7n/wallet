@@ -1,1 +1,1 @@
-var mnemonic = "aim rug town obey glow ride prefer school tray mosquito december idle";
+var mnemonic = "flee scorpion eager timber worth square brain okay digital apology riot expose";

@@ -1,1 +1,1 @@
-var mnemonic = "retire private horror together lava fold sunset dwarf basic audit soon author";
+var mnemonic = "basic decorate myself prefer bread radar arrest social guard enhance idea olive";

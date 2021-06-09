@@ -1,1 +1,1 @@
-var mnemonic = "endorse ribbon juice client cement catalog fiber eternal crunch fan vague kitchen";
+var mnemonic = "coral alcohol cloth surround moon input apart suspect act rely negative absent";

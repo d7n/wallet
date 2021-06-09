@@ -1,1 +1,1 @@
-var mnemonic = "pull mercy aerobic one plug else entry comic cluster crystal dentist outer";
+var mnemonic = "cream copy elevator army claw sleep squirrel panel fog permit divide economy";

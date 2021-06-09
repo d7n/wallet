@@ -1,1 +1,1 @@
-var mnemonic = "ring club volcano retire end cover wonder gossip render van whisper country";
+var mnemonic = "document expand swap saddle major water endorse dilemma business twice horse invite";

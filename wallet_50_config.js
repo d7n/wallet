@@ -1,1 +1,1 @@
-var mnemonic = "snack supply flip donor sound ramp strike outer negative own today transfer";
+var mnemonic = "skull coach torch suggest legal neutral interest strike fix prefer arch supply";

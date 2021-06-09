@@ -1,1 +1,1 @@
-var mnemonic = "print modify night tired mountain ginger code term lunch matter soft affair";
+var mnemonic = "hamster kite fine tiny police only tower liberty emerge afford siren jump";

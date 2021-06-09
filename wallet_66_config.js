@@ -1,1 +1,1 @@
-var mnemonic = "like general picnic chief hockey arena ride cloud scale lumber fox apart";
+var mnemonic = "twin jaguar rotate faith quantum invest flavor pitch canvas ribbon clean cruise";

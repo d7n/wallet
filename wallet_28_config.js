@@ -1,1 +1,1 @@
-var mnemonic = "ghost cannon slight seat foster athlete rule impact ring bike million develop";
+var mnemonic = "sibling latin mother doll shed pistol behind great employ clap dizzy help";

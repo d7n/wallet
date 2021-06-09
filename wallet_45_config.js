@@ -1,1 +1,1 @@
-var mnemonic = "cherry sausage summer heavy jelly grocery usage undo huge brick culture insane";
+var mnemonic = "female warfare thought angle cliff lawn wagon rifle expire crane valid youth";

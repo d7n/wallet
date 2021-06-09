@@ -1,1 +1,1 @@
-var mnemonic = "joke inch mass asthma earn excuse devote close good garage amused wait";
+var mnemonic = "develop motion raven trend suffer duck shop great panel poet bring keep";

@@ -1,1 +1,1 @@
-var mnemonic = "flush explain success couple glue parrot diamond jar light enforce decrease edge";
+var mnemonic = "battle moral water novel fabric thing first sound bleak tiger bonus stamp";

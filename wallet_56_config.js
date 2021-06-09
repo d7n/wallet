@@ -1,1 +1,1 @@
-var mnemonic = "lottery casino belt diesel credit cloud explain puppy poverty wear ozone marriage";
+var mnemonic = "elephant basket off sport boring tobacco mind dirt portion pepper pipe video";

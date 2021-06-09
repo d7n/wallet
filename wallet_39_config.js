@@ -1,1 +1,1 @@
-var mnemonic = "shop insect address ball rice broom logic top link vivid term milk";
+var mnemonic = "hollow impose matter parrot define learn hospital sample spirit infant latin junk";

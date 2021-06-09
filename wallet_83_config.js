@@ -1,1 +1,1 @@
-var mnemonic = "thought prefer wine surprise wonder neutral bubble eternal half kick noodle legend";
+var mnemonic = "seed cheese off grief season patch pepper burden panic neutral stage weasel";

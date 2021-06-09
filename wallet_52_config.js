@@ -1,1 +1,1 @@
-var mnemonic = "twenty top uphold debate pipe symptom trim neglect champion illness guard winter";
+var mnemonic = "job risk spawn mom whisper staff crack two rug ladder forum legend";

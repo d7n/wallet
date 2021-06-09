@@ -1,1 +1,1 @@
-var mnemonic = "mansion subject cloud dwarf climb evoke shadow boost margin ask health day";
+var mnemonic = "amazing bind reward rent toe abstract inmate merit grid dash month economy";

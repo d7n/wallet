@@ -1,1 +1,1 @@
-var mnemonic = "erupt juice old garbage drama hint bind gadget fee brief useless improve";
+var mnemonic = "notice village enhance click enable rotate scout melt equal pencil side nasty";

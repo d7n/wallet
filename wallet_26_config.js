@@ -1,1 +1,1 @@
-var mnemonic = "scatter pass planet roast crush into fragile grief inflict balance fuel hamster";
+var mnemonic = "alone taxi wolf assist mushroom lion retreat script cool diary audit monkey";

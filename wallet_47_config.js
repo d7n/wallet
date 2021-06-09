@@ -1,1 +1,1 @@
-var mnemonic = "improve push flight egg please right outdoor often quality stamp engage tired";
+var mnemonic = "fine steak actor dream thumb outer reason multiply first february cheap cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "rice blame half angle reduce limb spoon ceiling supreme allow engine deal";
+var mnemonic = "easily portion license anger virus point cloud swarm gloom flock diamond matter";

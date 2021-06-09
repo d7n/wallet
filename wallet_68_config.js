@@ -1,1 +1,1 @@
-var mnemonic = "message soul bless west better permit edit over express onion argue tackle";
+var mnemonic = "palace degree between syrup uphold faint quarter renew zoo school crawl crucial";

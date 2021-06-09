@@ -1,1 +1,1 @@
-var mnemonic = "bird quarter habit ginger ice assault service fashion mushroom demand fade over";
+var mnemonic = "suffer swing original ribbon worth another quit tank panel nominee rude scatter";

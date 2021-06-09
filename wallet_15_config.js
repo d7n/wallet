@@ -1,1 +1,1 @@
-var mnemonic = "sea barely veteran enjoy forward promote idle flush sing depend order flip";
+var mnemonic = "awake hybrid tribe zebra kiss explain gorilla thank barrel achieve tribe master";

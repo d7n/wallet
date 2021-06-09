@@ -1,1 +1,1 @@
-var mnemonic = "fade amused young old village churn trust immense entire vocal head jacket";
+var mnemonic = "rather sudden truck episode student drip inner dynamic unhappy then gadget sorry";

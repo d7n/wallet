@@ -1,1 +1,1 @@
-var mnemonic = "robust layer slide domain hero sail tuition carry grit drum whip boy";
+var mnemonic = "age segment child link raven elbow say giant zero brand seek chief";

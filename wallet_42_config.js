@@ -1,1 +1,1 @@
-var mnemonic = "skin enemy include polar world blood twice naive marble noise capable cherry";
+var mnemonic = "sand air drift law icon clog royal repeat razor abuse universe cat";

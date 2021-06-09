@@ -1,1 +1,1 @@
-var mnemonic = "enforce mouse meadow secret document ethics parade entire ramp mule vicious emotion";
+var mnemonic = "lock tobacco media when embark glass smooth dry calm ketchup either bind";

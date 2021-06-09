@@ -1,1 +1,1 @@
-var mnemonic = "drill ready famous aim away friend click cradle gentle stay index once";
+var mnemonic = "wife crucial base stuff help shiver cheese lamp reflect melt term fancy";

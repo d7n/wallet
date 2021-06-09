@@ -1,1 +1,1 @@
-var mnemonic = "gym advice truth soldier abuse regret cake humor season brave anxiety spirit";
+var mnemonic = "machine amused buffalo inherit mandate language ugly lady brisk brush diet soul";

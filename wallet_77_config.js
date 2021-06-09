@@ -1,1 +1,1 @@
-var mnemonic = "skate video ivory release priority common width salmon diary hurt tragic case";
+var mnemonic = "nasty hip series they save garbage tape donate since morning valve rich";

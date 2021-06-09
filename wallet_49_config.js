@@ -1,1 +1,1 @@
-var mnemonic = "situate practice seed chalk never abstract traffic again major wrong someone lock";
+var mnemonic = "seat atom bicycle coast purity fee survey disorder lava nest call guilt";

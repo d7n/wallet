@@ -1,1 +1,1 @@
-var mnemonic = "any zone cattle total announce flush exhibit federal process mushroom drama later";
+var mnemonic = "drip absent identify maid zone attend version doll aisle yard siren average";

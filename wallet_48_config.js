@@ -1,1 +1,1 @@
-var mnemonic = "visa chronic address dry wealth uphold try they during switch oppose jungle";
+var mnemonic = "discover echo harsh pet three tiny wisdom stool adult learn cheap blanket";

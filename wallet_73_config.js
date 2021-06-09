@@ -1,1 +1,1 @@
-var mnemonic = "blur harvest test allow agree brick vacant recycle develop shove trip solve";
+var mnemonic = "cute open smoke wine immense unlock vital replace fatal infant squeeze half";

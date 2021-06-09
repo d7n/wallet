@@ -1,1 +1,1 @@
-var mnemonic = "daughter boil rain industry wool rate fortune wealth twice alcohol captain mind";
+var mnemonic = "order thrive typical novel pink property dinosaur slab theme liberty desk travel";

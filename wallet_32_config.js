@@ -1,1 +1,1 @@
-var mnemonic = "defy globe welcome wedding aerobic lawsuit victory gadget enjoy common govern kiwi";
+var mnemonic = "ship matrix play fiscal pool rent grief drill athlete alert peace normal";

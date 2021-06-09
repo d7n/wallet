@@ -1,1 +1,1 @@
-var mnemonic = "glue weekend zoo height wise stone sorry final solution spider culture hollow";
+var mnemonic = "junior birth normal sunny bundle merit tell attend garbage call iron lucky";

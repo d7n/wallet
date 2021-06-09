@@ -1,1 +1,1 @@
-var mnemonic = "flight better mystery enrich slot pioneer note file erupt capital danger cinnamon";
+var mnemonic = "inmate man snow south side forum rug large suggest leisure mother woman";

@@ -1,1 +1,1 @@
-var mnemonic = "urge coil session ordinary increase female road chest sphere someone autumn junk";
+var mnemonic = "say sister clap gym produce gain rapid invite riot quit blade metal";
