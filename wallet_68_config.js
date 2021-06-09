@@ -1,1 +1,1 @@
-var mnemonic = "laundry taste anxiety luxury churn year december dash autumn rural sort pottery";
+var mnemonic = "ready insane robot speed trust way wing army marine pass best undo";

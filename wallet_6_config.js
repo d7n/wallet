@@ -1,1 +1,1 @@
-var mnemonic = "run carry love soda matrix peasant veteran recall film couch chalk mix";
+var mnemonic = "ceiling rate repair flush label palace orbit mule kitten grass daughter raccoon";

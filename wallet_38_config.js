@@ -1,1 +1,1 @@
-var mnemonic = "actual arena pretty canvas rate peasant soft trick owner color lab service";
+var mnemonic = "allow motor include sunset inside reunion fiscal census payment prison just open";

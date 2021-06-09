@@ -1,1 +1,1 @@
-var mnemonic = "prefer hip cruise rack diagram arm gown city milk someone lazy harsh";
+var mnemonic = "wild acquire april stadium odor gold such either release mosquito license fatigue";

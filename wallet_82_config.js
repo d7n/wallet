@@ -1,1 +1,1 @@
-var mnemonic = "meadow relax arrange hospital myself wealth spread mimic market second draw foot";
+var mnemonic = "goose upgrade pitch market exclude connect embody sustain frost fire shock peanut";

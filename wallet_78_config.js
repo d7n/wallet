@@ -1,1 +1,1 @@
-var mnemonic = "economy badge want neither garden degree narrow wolf volcano infant inhale curious";
+var mnemonic = "news pottery dust forward girl that radio reject insane muffin prevent advance";

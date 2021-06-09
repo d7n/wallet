@@ -1,1 +1,1 @@
-var mnemonic = "suffer ticket lawn survey victory delay nest concert arrest basket language comic";
+var mnemonic = "chimney chicken gown popular shoot ramp pet cheap autumn health clip valid";

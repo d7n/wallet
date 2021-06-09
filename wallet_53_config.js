@@ -1,1 +1,1 @@
-var mnemonic = "never april repair web charge inflict arm forget dilemma food pulp scissors";
+var mnemonic = "almost remain beach original spoon eyebrow enact this comfort border gossip logic";

@@ -1,1 +1,1 @@
-var mnemonic = "area burst addict alert flight sight dry idea short first limit monitor";
+var mnemonic = "flame diary head trade area like ball never saddle basket space market";

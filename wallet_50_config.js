@@ -1,1 +1,1 @@
-var mnemonic = "govern regret void little acoustic post infant present lava world unhappy federal";
+var mnemonic = "cycle harvest orchard brush cable noodle radar cupboard wrong pistol foil asthma";

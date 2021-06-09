@@ -1,1 +1,1 @@
-var mnemonic = "muffin example vocal wide kingdom muffin fashion fortune stand excite jaguar grow";
+var mnemonic = "remain orange ribbon agree cup element match reveal witness two pull license";

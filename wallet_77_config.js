@@ -1,1 +1,1 @@
-var mnemonic = "grab ocean desert service cook flight spy team common practice polar fashion";
+var mnemonic = "author scorpion sheriff modify gauge horse foam judge proud spy pitch piece";

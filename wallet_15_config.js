@@ -1,1 +1,1 @@
-var mnemonic = "offer can service fabric bulk suit frozen mansion merit shadow filter carpet";
+var mnemonic = "tooth final secret lady quality regular rug true stumble differ police purse";

@@ -1,1 +1,1 @@
-var mnemonic = "size gaze human wrap inherit feel electric knock trigger exact ivory destroy";
+var mnemonic = "bitter mule wagon alter puppy either thing river pear night protect call";

@@ -1,1 +1,1 @@
-var mnemonic = "cement vicious film asset insect essay chief jewel scheme artist educate huge";
+var mnemonic = "wide into luxury age when digital giggle panther north trade session clarify";

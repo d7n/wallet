@@ -1,1 +1,1 @@
-var mnemonic = "extend length sunny diamond runway blind broom outer proud vital gentle summer";
+var mnemonic = "buzz balcony series kick insane track renew torch fly shop web muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "salon wrestle apple exit mercy urge message stove hole split liquid olive";
+var mnemonic = "lecture skull trigger access lawn survey rain prosper salt sing disagree ship";

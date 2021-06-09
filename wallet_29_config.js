@@ -1,1 +1,1 @@
-var mnemonic = "credit economy shop edit bachelor entry worry dose air brush brick name";
+var mnemonic = "notable local farm wide wash possible menu humor innocent poem kick since";

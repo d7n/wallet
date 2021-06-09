@@ -1,1 +1,1 @@
-var mnemonic = "rice asthma notable embody utility disagree awful canyon gesture ocean hard rely";
+var mnemonic = "focus miracle ensure about smart shallow only bottom gesture impulse faith unable";

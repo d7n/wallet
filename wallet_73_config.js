@@ -1,1 +1,1 @@
-var mnemonic = "sight magnet nose globe defy photo brown puppy gather firm harbor miss";
+var mnemonic = "coyote amount message shadow unaware head month cake door sister depend awful";

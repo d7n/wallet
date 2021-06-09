@@ -1,1 +1,1 @@
-var mnemonic = "crucial smile quote sugar master jewel parent three under coyote yard tongue";
+var mnemonic = "chase dad shell danger fantasy wasp cool reflect illegal stamp genre immense";

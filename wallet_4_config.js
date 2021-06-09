@@ -1,1 +1,1 @@
-var mnemonic = "position hawk setup vote debris also vacuum frog excuse name cactus repeat";
+var mnemonic = "private walk reopen school auction save knock include require pitch sad turtle";

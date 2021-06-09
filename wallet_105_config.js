@@ -1,1 +1,1 @@
-var mnemonic = "supreme unique pull fantasy run fiber tiger globe oyster inhale utility false";
+var mnemonic = "brisk vacant kidney able isolate march illness force imitate eye daring modify";

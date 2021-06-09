@@ -1,1 +1,1 @@
-var mnemonic = "mad oxygen episode method toddler lady fiscal palm century era young sorry";
+var mnemonic = "unveil walnut era sorry royal inflict teach smooth there primary vacant run";

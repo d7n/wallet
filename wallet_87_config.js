@@ -1,1 +1,1 @@
-var mnemonic = "roast cart vanish tattoo hollow valve display under pottery term hover weapon";
+var mnemonic = "soon grunt absorb call enact basket column weird nuclear lecture loud obvious";

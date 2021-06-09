@@ -1,1 +1,1 @@
-var mnemonic = "build afford spy champion begin vacuum abstract air bitter era dog uncle";
+var mnemonic = "village dove negative wink scout hobby detail scrap message clever float liar";

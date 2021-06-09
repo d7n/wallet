@@ -1,1 +1,1 @@
-var mnemonic = "neck route example vast shy menu hurt stable rubber hub gold grit";
+var mnemonic = "wear original quote lucky same consider pattern gospel miracle ready black network";

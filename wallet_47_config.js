@@ -1,1 +1,1 @@
-var mnemonic = "tower stamp survey dragon risk movie pizza mountain engage uphold woman sunset";
+var mnemonic = "legal love company raw parade limit shrimp mistake find comfort top make";

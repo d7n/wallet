@@ -1,1 +1,1 @@
-var mnemonic = "essay fan real near torch cargo sing rare energy perfect piano undo";
+var mnemonic = "palace oil output cotton idle clog deputy predict noodle risk pony hazard";

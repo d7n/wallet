@@ -1,1 +1,1 @@
-var mnemonic = "place giant robust link wing upgrade tower private used congress season hammer";
+var mnemonic = "margin fantasy ritual hurdle thank subject kitten rural whip habit scan round";

@@ -1,1 +1,1 @@
-var mnemonic = "lock retreat giant gadget ankle refuse message sister wire what hurdle typical";
+var mnemonic = "firm hospital mom tip grow sight coconut speak height absorb disease scan";

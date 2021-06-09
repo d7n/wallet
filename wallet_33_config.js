@@ -1,1 +1,1 @@
-var mnemonic = "seven prosper page sausage distance mirror whip elbow enroll physical wish fruit";
+var mnemonic = "dog lens crowd conduct prepare street liquid attack cream chunk tribe loyal";

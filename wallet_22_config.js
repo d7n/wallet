@@ -1,1 +1,1 @@
-var mnemonic = "ocean situate filter humor remember vanish beyond body enforce also sweet drill";
+var mnemonic = "dice inform grain peace dismiss bicycle rotate oyster town earth trim blast";

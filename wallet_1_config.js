@@ -1,1 +1,1 @@
-var mnemonic = "already flee office gadget exist similar two economy conduct shoe bulb excite";
+var mnemonic = "hello forward hockey cushion hood group session prepare neither champion dwarf vacant";

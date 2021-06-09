@@ -1,1 +1,1 @@
-var mnemonic = "void dance artist endless slice pair exchange small minimum evolve enhance lyrics";
+var mnemonic = "toss course melody return brief raven quote resist debate laptop place rich";

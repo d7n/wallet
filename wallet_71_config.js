@@ -1,1 +1,1 @@
-var mnemonic = "swim twelve marble sorry crucial okay luggage possible pizza depend day step";
+var mnemonic = "typical hen system because adjust humor omit carpet assist dune demand chronic";

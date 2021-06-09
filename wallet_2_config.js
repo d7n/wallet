@@ -1,1 +1,1 @@
-var mnemonic = "crumble busy chair outside rapid tooth decorate evidence bright matrix provide armor";
+var mnemonic = "aware gap potato fat answer solar canyon toss among brown lava volume";

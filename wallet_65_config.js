@@ -1,1 +1,1 @@
-var mnemonic = "penalty false mango grit wrist test survey clock mail opera term key";
+var mnemonic = "embrace quantum laptop annual hello box same icon govern miss drift crisp";

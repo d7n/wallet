@@ -1,1 +1,1 @@
-var mnemonic = "change primary matter dumb apology dragon lobster angle warrior home hen mystery";
+var mnemonic = "decorate breeze cigar crazy swamp funny tuna whale panel host tomato flower";

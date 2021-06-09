@@ -1,1 +1,1 @@
-var mnemonic = "frame able laptop deal uncover fork walk lesson suit balcony catalog capital";
+var mnemonic = "calm sight need mirror add soon ice regret best scrap reduce fog";

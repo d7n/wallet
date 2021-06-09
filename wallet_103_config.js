@@ -1,1 +1,1 @@
-var mnemonic = "risk gain between auto pretty parent above render tissue garlic person slogan";
+var mnemonic = "cube little host label toddler surge galaxy noodle pistol punch useful prison";

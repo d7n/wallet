@@ -1,1 +1,1 @@
-var mnemonic = "summer vacuum early civil grit relief pen dose camera wine frown bacon";
+var mnemonic = "weapon night security such goat ghost wing follow true vapor provide skull";

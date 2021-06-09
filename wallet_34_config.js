@@ -1,1 +1,1 @@
-var mnemonic = "target now curtain save minor learn patient amazing guitar hope fury crush";
+var mnemonic = "orbit yellow rival gym warfare fury report weekend wash venue reform game";

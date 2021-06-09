@@ -1,1 +1,1 @@
-var mnemonic = "minor episode region secret possible oblige tribe gravity zero post trophy blast";
+var mnemonic = "sure pond unable crumble marble gentle expire size system train more fuel";

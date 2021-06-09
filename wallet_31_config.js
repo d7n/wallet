@@ -1,1 +1,1 @@
-var mnemonic = "pretty scan action argue employ theme drill melt junk bind swamp empower";
+var mnemonic = "crucial recycle road charge era wealth under kangaroo coil stem space average";

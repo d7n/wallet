@@ -1,1 +1,1 @@
-var mnemonic = "click unlock salon very smart rug joy series found december ankle hair";
+var mnemonic = "boy bean clerk solution pen melt lend hair memory truck vicious usual";

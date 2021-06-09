@@ -1,1 +1,1 @@
-var mnemonic = "blouse rude catalog squirrel upset toilet behind banner expect ecology hen train";
+var mnemonic = "ill onion element own open tooth urban aim write spatial pioneer demise";

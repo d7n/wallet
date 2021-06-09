@@ -1,1 +1,1 @@
-var mnemonic = "rail picture people boring kite credit bunker chuckle void snake update few";
+var mnemonic = "dignity february fortune glove genius wing have blur private film unable okay";

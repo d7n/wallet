@@ -1,1 +1,1 @@
-var mnemonic = "three lake pull hybrid crouch idle you easily audit correct quick exercise";
+var mnemonic = "elder audit salad intact gesture quiz tackle provide exhaust million energy deal";

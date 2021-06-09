@@ -1,1 +1,1 @@
-var mnemonic = "convince amount escape pilot legend style cherry oak couple cube transfer question";
+var mnemonic = "timber dawn boost viable piece tiny west old naive wide loud churn";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace muffin buzz olympic best slide flavor retire stand fossil evolve gasp";
+var mnemonic = "harsh hockey marriage either emotion dad escape attitude sorry dream such lazy";

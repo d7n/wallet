@@ -1,1 +1,1 @@
-var mnemonic = "banana raw unit hint boy category tragic eyebrow unknown horror shell involve";
+var mnemonic = "raw bounce spatial utility crisp east ordinary piano trigger dismiss leaf describe";

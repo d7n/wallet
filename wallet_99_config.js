@@ -1,1 +1,1 @@
-var mnemonic = "boss gym loan eager harvest voyage unusual rescue load legend wild badge";
+var mnemonic = "cage law garage bicycle friend gadget valid brand spy remain winner universe";

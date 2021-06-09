@@ -1,1 +1,1 @@
-var mnemonic = "cancel property measure catch dune toddler melody aim garment funny penalty unaware";
+var mnemonic = "upon invite blossom afraid setup vacuum tissue equip celery admit fee before";

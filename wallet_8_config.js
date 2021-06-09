@@ -1,1 +1,1 @@
-var mnemonic = "enlist wear sport ankle boil sing response elephant course trade mask prepare";
+var mnemonic = "fog goddess because genuine gospel file later favorite random dawn range better";

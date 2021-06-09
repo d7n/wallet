@@ -1,1 +1,1 @@
-var mnemonic = "tomato perfect harsh pigeon wood company spider spatial advance luggage fault dial";
+var mnemonic = "volume saddle chief price control over tattoo section slab express century index";

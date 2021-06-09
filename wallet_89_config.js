@@ -1,1 +1,1 @@
-var mnemonic = "teach check misery happy machine identify start year grid reveal index brass";
+var mnemonic = "tuition actual six rack refuse arrange soldier sorry draw dress object public";

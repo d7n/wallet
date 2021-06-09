@@ -1,1 +1,1 @@
-var mnemonic = "find aim odor betray disorder mutual okay excite scorpion galaxy lift viable";
+var mnemonic = "banner client short jungle eagle lonely room document language material mobile fade";

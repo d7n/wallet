@@ -1,1 +1,1 @@
-var mnemonic = "brand shuffle awake field blouse educate jar echo pear share someone retreat";
+var mnemonic = "guess salute clarify april warm include reason scrap found senior pupil heavy";

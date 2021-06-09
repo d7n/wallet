@@ -1,1 +1,1 @@
-var mnemonic = "unfold struggle link donate jungle charge woman skin iron attitude sun insect";
+var mnemonic = "dignity toss sadness club member siege border clump alcohol occur close physical";

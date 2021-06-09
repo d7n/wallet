@@ -1,1 +1,1 @@
-var mnemonic = "jacket trial fork gown unfold narrow iron common robot river flee device";
+var mnemonic = "fit myself stuff sport uncle breeze upon huge pepper weasel step clerk";

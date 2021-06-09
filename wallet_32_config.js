@@ -1,1 +1,1 @@
-var mnemonic = "unable climb bind kid title veteran version coach next visa detail square";
+var mnemonic = "copy home debate start coyote fat aerobic live surge smoke require doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "maid glue syrup drip comfort minute issue nothing oblige summer rice include";
+var mnemonic = "biology early viable marble already double desk water erosion property very amount";

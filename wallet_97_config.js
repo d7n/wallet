@@ -1,1 +1,1 @@
-var mnemonic = "bicycle tourist keep tattoo shift network tide replace bean rich butter orphan";
+var mnemonic = "matrix obscure obtain august tortoise unique wagon slight pill salad suit search";

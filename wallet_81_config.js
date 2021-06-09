@@ -1,1 +1,1 @@
-var mnemonic = "arm joke leisure happy target ecology budget fox young observe mean over";
+var mnemonic = "business together mixed blind excuse early supreme myth biology tunnel raven album";

@@ -1,1 +1,1 @@
-var mnemonic = "regret indoor bronze remain doll cake canvas price march hobby pigeon body";
+var mnemonic = "ritual harvest transfer damp digital iron school slot short jealous wine chat";

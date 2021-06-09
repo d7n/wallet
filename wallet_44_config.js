@@ -1,1 +1,1 @@
-var mnemonic = "work sample fuel decade off myth prize setup treat near dose opinion";
+var mnemonic = "path unhappy artwork boil argue cruel false wait polar typical acid paddle";

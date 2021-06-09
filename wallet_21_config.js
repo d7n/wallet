@@ -1,1 +1,1 @@
-var mnemonic = "lesson brother cry endless hazard proud outside pave grain network daughter fatal";
+var mnemonic = "glimpse fever sense now busy hurry genuine correct model race best exhibit";

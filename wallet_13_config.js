@@ -1,1 +1,1 @@
-var mnemonic = "drill stumble shock wild weird scorpion vacuum dial filter crane very knock";
+var mnemonic = "strategy buffalo alarm warfare turtle index trigger lake display wonder exhibit deputy";

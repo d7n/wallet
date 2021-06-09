@@ -1,1 +1,1 @@
-var mnemonic = "nut floor cross opinion can champion slab magnet run service absurd feature";
+var mnemonic = "clean weather fold panic fatal wild robust menu nest page below combine";

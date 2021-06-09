@@ -1,1 +1,1 @@
-var mnemonic = "army satisfy argue nest coffee accident open imitate embody foam double stool";
+var mnemonic = "stay shine mouse wisdom arrange true flip conduct imitate chunk marine vague";

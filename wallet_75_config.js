@@ -1,1 +1,1 @@
-var mnemonic = "monkey meadow often virus display either annual sadness injury gather giraffe pink";
+var mnemonic = "comic soccer illegal wink raise rebel range confirm idle torch mix detect";

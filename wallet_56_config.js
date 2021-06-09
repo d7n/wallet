@@ -1,1 +1,1 @@
-var mnemonic = "scout program range giggle margin energy high govern afford sniff august potato";
+var mnemonic = "broken memory attack choose brave also cool keen try whale pride nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "time change carpet moment south bright vicious shoe idle fat common question";
+var mnemonic = "era quality scatter point bottom jar come boat damp coach champion jazz";

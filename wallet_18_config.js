@@ -1,1 +1,1 @@
-var mnemonic = "slab ridge amount cushion almost armed spring puzzle donate plunge quality position";
+var mnemonic = "gloom rose runway fury approve erosion door bag umbrella ensure clerk combine";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle imitate define destroy debris avoid rare project ranch like drop trend";
+var mnemonic = "reward come grit magnet sugar drip warm wrap pilot mosquito destroy local";

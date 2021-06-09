@@ -1,1 +1,1 @@
-var mnemonic = "amateur rude stool mule next zoo mushroom father advance unveil arrive lift";
+var mnemonic = "steak foam metal rally example aspect smooth three drama clog swift isolate";

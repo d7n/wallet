@@ -1,1 +1,1 @@
-var mnemonic = "confirm sure kite surprise wear motor margin tag bus canal odor dinosaur";
+var mnemonic = "myth ocean twin noodle food ill abuse laptop blouse yellow current bleak";

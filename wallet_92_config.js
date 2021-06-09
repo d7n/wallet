@@ -1,1 +1,1 @@
-var mnemonic = "december action problem crime mirror hedgehog often fabric cabbage recycle steak inspire";
+var mnemonic = "galaxy awkward among sustain parent jelly put conduct forward thought route cave";

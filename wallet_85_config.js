@@ -1,1 +1,1 @@
-var mnemonic = "green deny depart sad leopard joke skin team trick unveil dove exchange";
+var mnemonic = "whip coyote vapor payment object heart country recipe convince arm half speak";

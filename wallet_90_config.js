@@ -1,1 +1,1 @@
-var mnemonic = "cause leopard trial chef park same nature easy tongue walk disagree smile";
+var mnemonic = "frame nasty lamp wrestle unique grid aerobic pulse pond eternal rebel dragon";

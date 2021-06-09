@@ -1,1 +1,1 @@
-var mnemonic = "winter evidence believe tired cabin gesture hand install cannon gown garment impose";
+var mnemonic = "when dry injury chest axis ethics erase balance party merit nuclear pudding";

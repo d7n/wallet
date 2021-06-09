@@ -1,1 +1,1 @@
-var mnemonic = "couple heavy course until patrol tuition blood absurd proud tragic battle exist";
+var mnemonic = "jaguar come mechanic gather cover fortune grit talent hammer barrel pilot save";

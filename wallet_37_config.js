@@ -1,1 +1,1 @@
-var mnemonic = "judge fever social riot expire caught remind speak quote top post finger";
+var mnemonic = "quarter oak loan wonder waste still opinion syrup powder ordinary convince explain";

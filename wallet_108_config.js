@@ -1,1 +1,1 @@
-var mnemonic = "act above weird attitude bicycle veteran erase neutral loud announce flavor lunch";
+var mnemonic = "party win design faculty feel card asthma better frame tree helmet reunion";

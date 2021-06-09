@@ -1,1 +1,1 @@
-var mnemonic = "manual oyster idle filter crisp odor patient curtain hidden color inspire once";
+var mnemonic = "sport submit grid prevent chuckle mirror kick forest help silk bird toy";

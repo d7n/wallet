@@ -1,1 +1,1 @@
-var mnemonic = "punch junk relief metal lend hour book kangaroo retreat distance theory seminar";
+var mnemonic = "knock dizzy mean flower ready sail sister oil solve stable conduct army";

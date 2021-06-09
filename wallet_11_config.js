@@ -1,1 +1,1 @@
-var mnemonic = "escape return woman box cruel private plastic access ridge life region note";
+var mnemonic = "slam young summer text floor ladder leader attitude push relief focus tired";

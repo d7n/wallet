@@ -1,1 +1,1 @@
-var mnemonic = "catalog shiver shoulder describe hope toe pen cupboard eager monitor protect knife";
+var mnemonic = "tent obey among parrot shell equal chicken luxury general segment area light";

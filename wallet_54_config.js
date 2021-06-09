@@ -1,1 +1,1 @@
-var mnemonic = "goat margin rely season away front struggle need oxygen media swallow ball";
+var mnemonic = "own shove live movie amateur client embody almost stove bleak hurdle begin";

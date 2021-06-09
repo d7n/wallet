@@ -1,1 +1,1 @@
-var mnemonic = "sketch furnace village lumber uphold wave machine ribbon notice phone legend desert";
+var mnemonic = "short slide april stock glow filter reveal fan sing side renew carbon";

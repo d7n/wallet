@@ -1,1 +1,1 @@
-var mnemonic = "shield twist deputy slot canal argue mass network stage prosper off myself";
+var mnemonic = "stove bulk blush lesson stem occur rug milk tongue logic draw kangaroo";

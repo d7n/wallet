@@ -1,1 +1,1 @@
-var mnemonic = "coral rebuild reopen kid resource paper nice artwork tank source transfer vibrant";
+var mnemonic = "cream gorilla rare river minor symbol able devote gift urban prosper donate";
