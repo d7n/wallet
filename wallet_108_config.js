@@ -1,1 +1,1 @@
-var mnemonic = "jaguar mix hold album yellow iron resist gain talent goat length aisle";
+var mnemonic = "false hair switch evil regret winter address census spirit doll film upper";

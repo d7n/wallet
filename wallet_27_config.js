@@ -1,1 +1,1 @@
-var mnemonic = "catalog supply sell blanket move false coast bench close jump above dentist";
+var mnemonic = "art island myth peace museum version float runway ethics return rail aim";

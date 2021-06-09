@@ -1,1 +1,1 @@
-var mnemonic = "world minute start cotton announce primary feed slam famous rug seat jacket";
+var mnemonic = "outdoor obey swallow cake verb million daughter melt snack clog glory energy";

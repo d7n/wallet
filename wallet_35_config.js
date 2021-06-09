@@ -1,1 +1,1 @@
-var mnemonic = "shy mesh borrow swarm frog amused million parrot turtle option wagon hockey";
+var mnemonic = "victory hospital rude quiz tower cage priority secret change report tent negative";

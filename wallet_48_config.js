@@ -1,1 +1,1 @@
-var mnemonic = "purse potato panther appear cloth security shiver agree quantum cram dream bronze";
+var mnemonic = "doll boat swift cradle finish spin secret group vault short bargain force";

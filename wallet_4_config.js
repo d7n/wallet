@@ -1,1 +1,1 @@
-var mnemonic = "excuse shift capital brief spirit segment lounge alien rural tunnel jungle border";
+var mnemonic = "virtual cluster sudden chunk tube fragile damage goat hospital radar excuse must";

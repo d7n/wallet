@@ -1,1 +1,1 @@
-var mnemonic = "flag finger cup foil pyramid salad august stock donor trumpet loyal mail";
+var mnemonic = "theme whale solution mammal burden item air render midnight axis cable physical";

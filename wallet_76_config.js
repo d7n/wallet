@@ -1,1 +1,1 @@
-var mnemonic = "invest vital rebel remove rude solution march tell process feature matrix trumpet";
+var mnemonic = "decade address sauce destroy dad width east cactus beyond slow purity cradle";

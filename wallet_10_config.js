@@ -1,1 +1,1 @@
-var mnemonic = "twin warfare poem robot door olympic swear problem suit woman trial denial";
+var mnemonic = "virtual sphere base tornado kitchen blind cabin gauge woman aerobic concert impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "invest umbrella input similar three foot honey yellow fragile grow crush plug";
+var mnemonic = "soon grocery poem swap climb shadow hat essence assist trouble furnace vintage";

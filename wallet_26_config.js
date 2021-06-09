@@ -1,1 +1,1 @@
-var mnemonic = "spring local proof team permit shield brown glide future gospel useful cactus";
+var mnemonic = "coral produce shield ozone list glide valley forward around glare purse couch";

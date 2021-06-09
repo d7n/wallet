@@ -1,1 +1,1 @@
-var mnemonic = "island stay inch valve wool border learn record swim two ranch weekend";
+var mnemonic = "second dumb dice camp fabric clerk cinnamon drip mouse flat attend brush";

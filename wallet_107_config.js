@@ -1,1 +1,1 @@
-var mnemonic = "minor carbon brown wheat pluck jump online curtain toward click another warrior";
+var mnemonic = "orbit black domain autumn taxi subway obey soda orange train grunt also";

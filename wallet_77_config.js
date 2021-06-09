@@ -1,1 +1,1 @@
-var mnemonic = "dance pilot moral else mind undo turn police fat produce pitch twist";
+var mnemonic = "begin foster patient mouse remember taxi copper analyst mention dial also alert";

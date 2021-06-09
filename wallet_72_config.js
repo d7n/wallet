@@ -1,1 +1,1 @@
-var mnemonic = "jeans kite comic speak useful sponsor crouch arrest cage whip service dawn";
+var mnemonic = "aim helmet scheme bind dynamic twice distance joy virtual child random fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "juice climb retire layer rhythm comic flip rib absurd marine bean birth";
+var mnemonic = "rent van crane symbol young jeans mind material rug clump rival betray";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus organ toe spawn curtain target decorate roast beef film input spring";
+var mnemonic = "tragic hint scrub inspire celery away march repair siren stereo middle journey";

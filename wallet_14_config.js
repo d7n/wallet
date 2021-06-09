@@ -1,1 +1,1 @@
-var mnemonic = "orbit notable mushroom horror merry bullet charge supply pen interest bubble soft";
+var mnemonic = "oppose shell company bronze small immense final outdoor member fuel slim wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "armor notice arrow cream beach easy pizza impose truly install cry bubble";
+var mnemonic = "civil omit random crowd champion melody someone wage often vast banner broom";

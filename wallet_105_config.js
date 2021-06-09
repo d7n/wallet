@@ -1,1 +1,1 @@
-var mnemonic = "cruise say pair arch right split alley spatial sound tunnel nature chimney";
+var mnemonic = "blanket maze armor rigid large birth sweet student rose dust boss found";

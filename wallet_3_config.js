@@ -1,1 +1,1 @@
-var mnemonic = "solve pair vague tonight wheat hip alert torch guess library network slide";
+var mnemonic = "wisdom mesh hour affair all swap sorry cattle sound core cinnamon hole";

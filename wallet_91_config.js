@@ -1,1 +1,1 @@
-var mnemonic = "orange bone dragon because maximum strategy fiscal glue shrimp allow planet choose";
+var mnemonic = "float key boy tuna sleep praise vital ceiling buzz shoulder once tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "love buyer axis alien hedgehog dad cruise follow shed horn rotate trumpet";
+var mnemonic = "coin pair average garden submit fancy approve urban people relax bitter bright";

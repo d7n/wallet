@@ -1,1 +1,1 @@
-var mnemonic = "index mistake survey cattle meat jealous original delay dizzy life mixed shock";
+var mnemonic = "about arch sunset element enjoy oak hill pretty kidney expect exercise mind";

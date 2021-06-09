@@ -1,1 +1,1 @@
-var mnemonic = "amused average oppose cattle antique shine join extra program attack ugly topple";
+var mnemonic = "assume volcano already salmon struggle above fold payment exchange pen earn fold";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap cave purpose retire flash wine explain report cigar magic room movie";
+var mnemonic = "rally edge flush about road amazing benefit achieve struggle brain trend ticket";

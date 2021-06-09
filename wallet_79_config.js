@@ -1,1 +1,1 @@
-var mnemonic = "patch key half junior noble dance theory light mad razor start crystal";
+var mnemonic = "purchase swarm oyster churn stomach sister humble auction ticket relax exhibit beyond";

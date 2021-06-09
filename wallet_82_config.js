@@ -1,1 +1,1 @@
-var mnemonic = "meadow task barrel tide local museum top settle border domain transfer fun";
+var mnemonic = "setup short slab collect until remind confirm scout problem during shrug film";

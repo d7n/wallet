@@ -1,1 +1,1 @@
-var mnemonic = "cave famous coin cabin nurse seat width document arrow entry whisper current";
+var mnemonic = "odor answer above also moral smart ship pill stand blast kidney depth";

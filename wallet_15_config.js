@@ -1,1 +1,1 @@
-var mnemonic = "actor dose acid coffee swear rural crawl patrol spell soup scrap sample";
+var mnemonic = "problem coach athlete slice domain crumble because vessel maximum second change benefit";

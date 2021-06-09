@@ -1,1 +1,1 @@
-var mnemonic = "battle tonight couple wash certain diary this glass chunk twenty vague horror";
+var mnemonic = "razor pattern demise review burden solution surge lamp length they subject holiday";

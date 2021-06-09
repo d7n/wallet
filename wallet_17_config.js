@@ -1,1 +1,1 @@
-var mnemonic = "proud window layer little design another fault hip left leopard shadow obscure";
+var mnemonic = "fly oblige track file ill guitar argue lounge green ankle athlete visual";

@@ -1,1 +1,1 @@
-var mnemonic = "blush measure vacant exclude believe ghost cost asthma scrub expire kitten congress";
+var mnemonic = "worth radio dune since priority curtain when often wagon hold panda potato";

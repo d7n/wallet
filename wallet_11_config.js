@@ -1,1 +1,1 @@
-var mnemonic = "street crop draft boss angle rifle soldier rookie joke basket law puzzle";
+var mnemonic = "near breeze smoke forum assume govern exclude sponsor ensure bring edit obey";

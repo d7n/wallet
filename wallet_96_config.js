@@ -1,1 +1,1 @@
-var mnemonic = "wish grocery modify chair note begin rice acid hobby sell smile pink";
+var mnemonic = "base toilet language member pledge asthma pattern smoke obvious farm virus crew";

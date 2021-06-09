@@ -1,1 +1,1 @@
-var mnemonic = "top matter limit marine autumn color account egg club educate patient special";
+var mnemonic = "wealth major speak coral banana window census vapor monitor wedding board return";

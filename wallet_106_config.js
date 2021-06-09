@@ -1,1 +1,1 @@
-var mnemonic = "segment warrior memory wool mimic finger town capital bone coil comic crumble";
+var mnemonic = "pupil autumn cross social parent eyebrow mystery aisle kidney pact since bus";

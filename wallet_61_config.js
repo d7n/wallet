@@ -1,1 +1,1 @@
-var mnemonic = "yard pizza club path life century quick gather tank predict absent vast";
+var mnemonic = "source sausage merge trigger clump file siren youth scout crew engage cream";

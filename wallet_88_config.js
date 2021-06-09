@@ -1,1 +1,1 @@
-var mnemonic = "grid wonder since witness similar brain punch funny rely act top exit";
+var mnemonic = "genuine ride ski odor fresh carbon purpose whale cheese dress stamp pilot";

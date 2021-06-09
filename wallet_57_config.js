@@ -1,1 +1,1 @@
-var mnemonic = "symptom neck develop jacket sort absurd trigger scissors cry shadow ostrich present";
+var mnemonic = "basket gap nuclear rough shield claim area code silk enact satisfy craft";

@@ -1,1 +1,1 @@
-var mnemonic = "fee coffee basket exclude robust inspire cry release hero veteran husband ill";
+var mnemonic = "source great cause absorb suffer arch unusual catalog clown robust depend mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "detect half august spray grit street fox slush animal strike cluster agent";
+var mnemonic = "excite scrub battle cherry balcony again lock sponsor bubble mass tissue tower";

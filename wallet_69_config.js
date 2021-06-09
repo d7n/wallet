@@ -1,1 +1,1 @@
-var mnemonic = "kitten girl fee soccer spare impose photo switch online clog slab bonus";
+var mnemonic = "loyal amateur pencil tennis chunk fold noise hurt attend embrace truck reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel deputy jump crater paper shed consider utility shy labor pottery pepper";
+var mnemonic = "action century cloth wise viable always slight basket polar rhythm endorse demise";

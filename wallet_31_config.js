@@ -1,1 +1,1 @@
-var mnemonic = "now health either hat foot bounce country rebuild firm state around winter";
+var mnemonic = "hawk vacuum alarm height shadow tortoise unit junior hobby worth bird laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "must fox friend into undo mad amateur scene plate stadium person friend";
+var mnemonic = "chef title swift window method know aware desert autumn brief eight width";

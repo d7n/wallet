@@ -1,1 +1,1 @@
-var mnemonic = "market harvest thrive make shove coral moment multiply eternal mercy focus agree";
+var mnemonic = "street culture name soft material enact input indoor oval library reason come";

@@ -1,1 +1,1 @@
-var mnemonic = "wood sketch shoulder file leaf airport will entire bar ankle awful open";
+var mnemonic = "dog deer dumb empty napkin hover tape village off notice tonight cradle";

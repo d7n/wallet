@@ -1,1 +1,1 @@
-var mnemonic = "nasty home bone practice insect mutual amazing ozone napkin slim cinnamon tent";
+var mnemonic = "among race gauge crater during visual grief typical extra raw clock deliver";

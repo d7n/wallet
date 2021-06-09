@@ -1,1 +1,1 @@
-var mnemonic = "deposit brush frog face chair oxygen dolphin expand payment wolf cost space";
+var mnemonic = "renew idea reform safe brief heart pink mind swap theory talent judge";

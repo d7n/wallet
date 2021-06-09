@@ -1,1 +1,1 @@
-var mnemonic = "coyote solve what all organ trap deny peace alley cage rate bike";
+var mnemonic = "slender shell zoo high october avoid core exhibit turn fuel ceiling limb";

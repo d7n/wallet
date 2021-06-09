@@ -1,1 +1,1 @@
-var mnemonic = "solution slow problem sock race someone sleep liquid mystery scare jealous angry";
+var mnemonic = "credit sun media jump harsh business initial merge coil photo address alarm";

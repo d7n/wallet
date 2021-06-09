@@ -1,1 +1,1 @@
-var mnemonic = "destroy apart device gesture chase surge plastic off ensure truly prevent retire";
+var mnemonic = "unknown vanish virus say renew kitchen toddler birth mass edge goat song";

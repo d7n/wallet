@@ -1,1 +1,1 @@
-var mnemonic = "bid airport thing indoor door rice riot grunt exist drink winter network";
+var mnemonic = "cart medal security trigger half million text hotel spike history negative version";

@@ -1,1 +1,1 @@
-var mnemonic = "security present diesel jar top enjoy soup slogan guide gravity prison pepper";
+var mnemonic = "leopard cousin cattle flush tank strategy inmate orphan radar lemon twist when";

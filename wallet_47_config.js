@@ -1,1 +1,1 @@
-var mnemonic = "tragic craft venue convince rude twin decorate struggle pudding popular depend clerk";
+var mnemonic = "slogan math radio antique will hip possible major during bench quote media";

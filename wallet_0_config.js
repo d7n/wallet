@@ -1,1 +1,1 @@
-var mnemonic = "interest spend corn push angle wheel ticket ramp theme script olympic initial";
+var mnemonic = "cycle simple poem prefer lounge unlock science palace record bar mixture text";

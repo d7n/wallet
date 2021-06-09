@@ -1,1 +1,1 @@
-var mnemonic = "tennis antenna next win boat organ pink certain stomach enhance reveal onion";
+var mnemonic = "river angle bleak fork tunnel analyst food left balance recall fitness earth";

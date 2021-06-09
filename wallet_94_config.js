@@ -1,1 +1,1 @@
-var mnemonic = "found merge proof faint width fever fade nature join quality photo husband";
+var mnemonic = "skate there wagon adult bridge choice plate release shock chunk sorry foot";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble forest escape october cat song clean review glimpse cover entry bag";
+var mnemonic = "deputy wash setup obvious humor omit limit cherry toilet host rubber good";

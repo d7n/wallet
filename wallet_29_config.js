@@ -1,1 +1,1 @@
-var mnemonic = "weapon this gaze promote deal sausage picture load enable atom sketch reward";
+var mnemonic = "upgrade rubber help upon knife person digital danger dish coconut wing genius";

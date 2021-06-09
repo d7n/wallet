@@ -1,1 +1,1 @@
-var mnemonic = "pig vessel assume matrix nephew embody hip unveil priority tenant dry puppy";
+var mnemonic = "social artefact exotic slight snack issue close fox wash place thrive subject";

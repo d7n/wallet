@@ -1,1 +1,1 @@
-var mnemonic = "eternal skate hawk pave nurse sister usage loan flip good kitchen assume";
+var mnemonic = "climb view collect diary behave print pledge fresh vintage street bright cluster";

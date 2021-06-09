@@ -1,1 +1,1 @@
-var mnemonic = "right spell vapor radio crack amount level anger cradle spend twice scare";
+var mnemonic = "drink bleak carry fame video silent carpet time check race loyal another";

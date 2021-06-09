@@ -1,1 +1,1 @@
-var mnemonic = "quantum stick reopen zero drift track dust resemble receive initial peasant entire";
+var mnemonic = "cushion lock lion hurt subway merry twice motion define scout guilt property";

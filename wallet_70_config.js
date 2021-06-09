@@ -1,1 +1,1 @@
-var mnemonic = "clean inspire balance alley essay silk fiscal vessel illegal calm sleep crunch";
+var mnemonic = "song crunch trip conduct tiger genuine foot today deliver blind purity tape";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect direct cotton brass card school arena palace wild pottery soft skill";
+var mnemonic = "captain erode shrug frost sport topple vapor relax renew exercise good sphere";

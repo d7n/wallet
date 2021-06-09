@@ -1,1 +1,1 @@
-var mnemonic = "ordinary turkey wrong echo mandate soul donkey trust luxury garment absorb swim";
+var mnemonic = "disorder area mail swap raccoon recycle seed increase shift dilemma biology random";

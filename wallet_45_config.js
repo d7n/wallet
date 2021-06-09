@@ -1,1 +1,1 @@
-var mnemonic = "this pact broccoli insect theme random fluid elephant glad pear almost endorse";
+var mnemonic = "boil dove quality pencil relief script favorite start obtain talent siren tank";

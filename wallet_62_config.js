@@ -1,1 +1,1 @@
-var mnemonic = "pupil arrange end garden logic alley enable target raven mandate ceiling embrace";
+var mnemonic = "hurry tone discover emotion online steel urge top dinner dutch fiscal sphere";

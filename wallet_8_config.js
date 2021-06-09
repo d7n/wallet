@@ -1,1 +1,1 @@
-var mnemonic = "immense margin future style lemon hamster upset frost actor strategy rocket sport";
+var mnemonic = "deputy demand tray brush uncover faint hospital illness pencil light put resist";

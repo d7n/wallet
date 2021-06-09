@@ -1,1 +1,1 @@
-var mnemonic = "motor baby remove plunge vacant comfort laugh brain expire ceiling release cross";
+var mnemonic = "secret auction betray energy flavor giraffe human tube suit easy despair nominee";

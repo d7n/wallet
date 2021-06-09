@@ -1,1 +1,1 @@
-var mnemonic = "kite process agent super possible evidence hollow install public crouch book enough";
+var mnemonic = "trial gasp tortoise medal cruise slender cabbage category unfold hill else able";

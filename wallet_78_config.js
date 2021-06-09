@@ -1,1 +1,1 @@
-var mnemonic = "install start sweet rival message truck couch decide provide tourist decade humor";
+var mnemonic = "own swap town time agent defense equal feed finger diary vault three";

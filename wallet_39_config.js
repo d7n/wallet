@@ -1,1 +1,1 @@
-var mnemonic = "window this hero midnight width leisure jar slush quality chimney column phrase";
+var mnemonic = "labor tip hospital oppose chat law top fever heavy child noise toy";

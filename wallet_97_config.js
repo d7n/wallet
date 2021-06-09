@@ -1,1 +1,1 @@
-var mnemonic = "narrow mandate clip since apology review resist title tourist fatigue pony peace";
+var mnemonic = "inner country tragic crucial essay flame bracket segment shallow wife risk govern";

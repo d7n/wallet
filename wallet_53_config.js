@@ -1,1 +1,1 @@
-var mnemonic = "cat mask thank face slab just reduce cement scan street embody scissors";
+var mnemonic = "dad grab siren return invest wrap regular brush ability weapon wire lesson";

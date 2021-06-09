@@ -1,1 +1,1 @@
-var mnemonic = "matrix valid boost satoshi also funny cash inform slender reveal demise stuff";
+var mnemonic = "melt smart shield struggle subject seven fashion degree rug pulp assault february";

@@ -1,1 +1,1 @@
-var mnemonic = "year neck crush enhance replace reward beach year cousin fetch flash whale";
+var mnemonic = "dust have wedding pear audit evil better notable deer unusual trick program";

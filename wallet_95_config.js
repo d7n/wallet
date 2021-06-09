@@ -1,1 +1,1 @@
-var mnemonic = "enlist image parade caught decade recycle punch curtain dish initial mom melody";
+var mnemonic = "lecture must nest board air destroy amount pledge august claw submit office";

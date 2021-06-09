@@ -1,1 +1,1 @@
-var mnemonic = "search find capital wheat erosion estate vessel hundred strike urban april option";
+var mnemonic = "lock buffalo angry left wear stem antique innocent green remain bar shell";

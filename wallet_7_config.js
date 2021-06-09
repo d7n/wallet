@@ -1,1 +1,1 @@
-var mnemonic = "entry deny kind boss body catalog fine expire path reopen fault dove";
+var mnemonic = "skin avocado grit west animal autumn live wool kitchen hurdle bunker quick";

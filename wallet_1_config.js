@@ -1,1 +1,1 @@
-var mnemonic = "leg nominee ribbon monkey pet suffer forum brick plastic draft hand laptop";
+var mnemonic = "super green man reduce magnet news timber other dismiss risk payment accident";

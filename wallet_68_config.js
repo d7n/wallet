@@ -1,1 +1,1 @@
-var mnemonic = "rely ceiling crumble model blanket agent fame weekend strategy muscle twin behind";
+var mnemonic = "element gloom isolate silly exhibit airport surround arrive other there duck table";

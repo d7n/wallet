@@ -1,1 +1,1 @@
-var mnemonic = "luxury stay coral goose junk damp gap other peasant devote lava ocean";
+var mnemonic = "donate top sauce shine coin only circle drum extend legal midnight month";

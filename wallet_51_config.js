@@ -1,1 +1,1 @@
-var mnemonic = "teach shift skin cabbage mansion eyebrow bag round mammal prefer rifle there";
+var mnemonic = "film property true observe fiber economy bomb youth portion video follow pass";

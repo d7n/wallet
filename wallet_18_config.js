@@ -1,1 +1,1 @@
-var mnemonic = "print upgrade link drill smile same toddler attend trumpet forum giggle sunset";
+var mnemonic = "analyst settle shift hole long tonight enroll depart aspect apology train heavy";

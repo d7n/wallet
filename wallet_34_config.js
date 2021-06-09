@@ -1,1 +1,1 @@
-var mnemonic = "turkey jelly motion surface snack safe day corn nerve satoshi invest dismiss";
+var mnemonic = "subway stadium butter spell state onion into raccoon evil note couple tiny";

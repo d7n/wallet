@@ -1,1 +1,1 @@
-var mnemonic = "opinion light floor author dolphin citizen weapon stem shoulder elbow baby chaos";
+var mnemonic = "reject woman loan increase people donkey teach curtain ladder priority useless end";

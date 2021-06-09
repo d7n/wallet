@@ -1,1 +1,1 @@
-var mnemonic = "slush panic water bind ribbon junk vendor marine winner shove weapon cabbage";
+var mnemonic = "protect atom knock shuffle grid simple wisdom yellow number bean steel insane";
