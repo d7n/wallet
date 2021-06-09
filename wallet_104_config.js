@@ -1,1 +1,1 @@
-var mnemonic = "maple truly axis inflict awesome inherit tell rare rubber simple october alien";
+var mnemonic = "vital inherit short fossil foam before chicken portion lounge weird cheese sausage";

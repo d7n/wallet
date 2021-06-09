@@ -1,1 +1,1 @@
-var mnemonic = "drink olive sweet thing ladder doll armor mammal obscure dwarf north shy";
+var mnemonic = "nation vast turtle tackle fence puzzle favorite pepper forest sorry obvious upgrade";

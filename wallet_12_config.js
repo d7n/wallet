@@ -1,1 +1,1 @@
-var mnemonic = "very neglect appear reunion crime penalty female mechanic pet valve slow patient";
+var mnemonic = "spin scare person position inhale globe vital pattern crucial save owner scheme";

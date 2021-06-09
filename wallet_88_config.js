@@ -1,1 +1,1 @@
-var mnemonic = "kick drip hour cave edge elevator film vote purpose state art method";
+var mnemonic = "myself live service spot million burst recipe people sport miracle picture north";

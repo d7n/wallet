@@ -1,1 +1,1 @@
-var mnemonic = "proud flip critic rookie garden poet misery city crack noise leisure chef";
+var mnemonic = "wood vanish verb mango dove whip multiply cereal toast file tobacco balcony";

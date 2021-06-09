@@ -1,1 +1,1 @@
-var mnemonic = "nasty elite spring modify kiwi nation light member chalk panel glory smart";
+var mnemonic = "drive huge audit east manage end frost know lion false alarm force";

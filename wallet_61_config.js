@@ -1,1 +1,1 @@
-var mnemonic = "shoulder insane snack ignore science doll enroll holiday federal clump identify quality";
+var mnemonic = "celery collect address boil wrong trick true jar beyond unique once theme";

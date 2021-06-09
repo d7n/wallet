@@ -1,1 +1,1 @@
-var mnemonic = "anger second road stem sort early quit sleep canvas cart seven grunt";
+var mnemonic = "size venue entire return aerobic observe alcohol exit chapter push hard pottery";

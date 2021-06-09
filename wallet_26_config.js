@@ -1,1 +1,1 @@
-var mnemonic = "tent correct illegal scatter bind member crane ranch media cup can decline";
+var mnemonic = "water ethics manual slab plunge pen first outdoor human raccoon garage wrist";

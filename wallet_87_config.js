@@ -1,1 +1,1 @@
-var mnemonic = "fun width universe coyote fix tomorrow canvas episode stomach soccer oven inmate";
+var mnemonic = "spin cricket sample input witness solar change wool ability gun vacant prepare";

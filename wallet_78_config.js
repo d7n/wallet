@@ -1,1 +1,1 @@
-var mnemonic = "glad patch run double diesel shift dial twice oak title whip heart";
+var mnemonic = "found scatter sketch hunt rally victory regret final erosion carpet gown retreat";

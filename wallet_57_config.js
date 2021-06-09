@@ -1,1 +1,1 @@
-var mnemonic = "mesh snack task regular side brush lawn either only chief lucky average";
+var mnemonic = "relief armor evidence pet camera fury picture elbow lens have earn float";

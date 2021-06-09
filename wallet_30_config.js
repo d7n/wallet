@@ -1,1 +1,1 @@
-var mnemonic = "team muffin supreme scheme render chaos hole fat confirm lava forward cram";
+var mnemonic = "jacket mad lazy wood correct gravity envelope illegal receive hamster calm shallow";

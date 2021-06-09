@@ -1,1 +1,1 @@
-var mnemonic = "nest say jeans nominee find limb network dog drum narrow mansion property";
+var mnemonic = "vivid logic collect defense indicate master rail mobile news apology gaze guilt";

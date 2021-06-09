@@ -1,1 +1,1 @@
-var mnemonic = "ability minute brain tiger neglect loan toe omit zoo indicate wear outside";
+var mnemonic = "repair quote skull cereal deal trouble bread sausage indoor submit scrap entry";

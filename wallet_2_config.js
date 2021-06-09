@@ -1,1 +1,1 @@
-var mnemonic = "inspire cereal because galaxy glue nation rice novel truth joke huge small";
+var mnemonic = "inside soccer card goddess green else muffin kingdom satisfy live venture divide";

@@ -1,1 +1,1 @@
-var mnemonic = "race enroll summer creek mind frame police improve current detect bench force";
+var mnemonic = "enough theme vibrant sea return mix valley plastic faint cherry egg slam";

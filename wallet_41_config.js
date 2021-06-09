@@ -1,1 +1,1 @@
-var mnemonic = "expire high polar inflict antenna adapt infant company mammal ancient naive find";
+var mnemonic = "such phrase enhance attitude drastic trap picnic slush breeze because depend devote";

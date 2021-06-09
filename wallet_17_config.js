@@ -1,1 +1,1 @@
-var mnemonic = "bless evoke cram biology urge fruit renew concert tool approve mule swallow";
+var mnemonic = "lobster cat stove margin equip alley they sell coach faith will rotate";

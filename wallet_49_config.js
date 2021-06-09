@@ -1,1 +1,1 @@
-var mnemonic = "maximum key exist ability panel embody swear emerge try father steel under";
+var mnemonic = "dizzy air clip shop upon banana dash coffee insane stairs wrestle marine";

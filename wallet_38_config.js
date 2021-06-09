@@ -1,1 +1,1 @@
-var mnemonic = "bike sing reward puzzle scatter clap absurd emotion flavor annual romance surge";
+var mnemonic = "sustain license stick three rely heart explain odor neutral way smile aerobic";

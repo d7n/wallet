@@ -1,1 +1,1 @@
-var mnemonic = "range bleak satisfy day impact theory flower mechanic carpet defense parent universe";
+var mnemonic = "large promote cash city journey picnic yard giggle cube lonely whale tunnel";

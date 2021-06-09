@@ -1,1 +1,1 @@
-var mnemonic = "vast volume year palace vicious end door crumble popular clerk grain penalty";
+var mnemonic = "afraid fox toss core liar canoe zoo link spy valley fantasy spider";

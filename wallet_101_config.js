@@ -1,1 +1,1 @@
-var mnemonic = "staff spare supply tenant timber orchard provide garbage cover photo ozone abstract";
+var mnemonic = "state laptop nation rookie catalog payment pull age saddle weather broken sibling";

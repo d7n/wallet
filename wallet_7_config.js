@@ -1,1 +1,1 @@
-var mnemonic = "security camera blast trumpet imitate tobacco ability barrel great cruel genius exit";
+var mnemonic = "mandate awesome mother glory muscle more orient moment space drastic mass goddess";

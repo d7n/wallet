@@ -1,1 +1,1 @@
-var mnemonic = "innocent discover nerve tongue mango pass unknown copy reward hotel front coil";
+var mnemonic = "hospital mass patient action slab chicken believe family federal equal bag senior";

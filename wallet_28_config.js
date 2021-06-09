@@ -1,1 +1,1 @@
-var mnemonic = "blush more primary giraffe busy dream force head trigger treat secret program";
+var mnemonic = "seed gold pair enact hotel off army infant guide view reason frame";

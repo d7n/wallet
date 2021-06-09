@@ -1,1 +1,1 @@
-var mnemonic = "else join rain net issue maze logic budget symbol escape vessel success";
+var mnemonic = "flat weird manual worth weasel tilt settle blue useless skin erase patrol";

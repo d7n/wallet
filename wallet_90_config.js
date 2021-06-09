@@ -1,1 +1,1 @@
-var mnemonic = "million device exact enlist usage trim upgrade stay east rib balcony bus";
+var mnemonic = "faint rail lounge shy sunny army glare purchase hybrid grab stereo announce";

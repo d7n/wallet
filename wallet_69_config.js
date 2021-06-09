@@ -1,1 +1,1 @@
-var mnemonic = "payment inherit slush zero blanket absent depend message donate turkey sudden clerk";
+var mnemonic = "three enjoy engage west bamboo gaze decrease quote finger brain oak trial";

@@ -1,1 +1,1 @@
-var mnemonic = "phone element life wire slender sorry fatal cat best helmet inject actress";
+var mnemonic = "hope invest sword caught hurt furnace alley essay head pull pipe tumble";

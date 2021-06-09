@@ -1,1 +1,1 @@
-var mnemonic = "cash sail luxury tattoo board material weird ancient dismiss index ready doctor";
+var mnemonic = "symbol tonight onion pretty budget bitter sail never evoke initial unaware patrol";

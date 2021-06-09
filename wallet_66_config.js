@@ -1,1 +1,1 @@
-var mnemonic = "lottery pulp fragile mansion hurt pumpkin extend drastic erosion select best bulb";
+var mnemonic = "tone ask uniform rich apology regular found song second tuna pig useful";

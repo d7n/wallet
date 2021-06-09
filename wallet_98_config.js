@@ -1,1 +1,1 @@
-var mnemonic = "roof boy explain bread chase paddle history few lend village piece near";
+var mnemonic = "slot chimney chaos borrow road meat become solid pulp noble hint december";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit pond adult antenna firm expire ski favorite horse curtain marble cream";
+var mnemonic = "blame bacon inherit warrior scale swarm flash holiday memory barely moral used";

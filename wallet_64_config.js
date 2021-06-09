@@ -1,1 +1,1 @@
-var mnemonic = "jazz iron minor heavy praise caution urban name story loyal outer fox";
+var mnemonic = "essence debate pilot indoor divorce parent boss hover rug minimum fat swallow";

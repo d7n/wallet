@@ -1,1 +1,1 @@
-var mnemonic = "vendor purse airport limit index banana invite embrace awesome music session cattle";
+var mnemonic = "amused security high morning friend cruel misery assist essay inquiry drill float";

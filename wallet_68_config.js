@@ -1,1 +1,1 @@
-var mnemonic = "pear either caught nerve annual dirt car excite fringe wool match accident";
+var mnemonic = "approve story hidden yellow trust human end fetch satisfy bachelor tomorrow fine";

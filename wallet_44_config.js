@@ -1,1 +1,1 @@
-var mnemonic = "lonely grant help detect flip during hotel wing inflict afford tuna erupt";
+var mnemonic = "spin track park describe animal grocery galaxy dad tongue normal sunny motion";

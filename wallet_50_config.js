@@ -1,1 +1,1 @@
-var mnemonic = "canvas salmon wife toe morning fish depart subway husband infant make rookie";
+var mnemonic = "north zone empower room file crystal nest income eye glance thrive canoe";

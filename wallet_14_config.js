@@ -1,1 +1,1 @@
-var mnemonic = "drop master wonder inherit library palace heart success east learn void negative";
+var mnemonic = "valve please script april reduce lucky top sick juice panther just always";

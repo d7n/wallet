@@ -1,1 +1,1 @@
-var mnemonic = "attract family stumble wait visit omit oak fall help spray chat urban";
+var mnemonic = "horn range era shove remain wrestle dragon release scissors patch army glow";

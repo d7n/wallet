@@ -1,1 +1,1 @@
-var mnemonic = "poem symptom mother pretty differ half cream trip clean leaf gain afford";
+var mnemonic = "keen sheriff during pudding flavor rescue basket coffee athlete attract shove cricket";

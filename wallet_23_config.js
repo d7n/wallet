@@ -1,1 +1,1 @@
-var mnemonic = "settle lumber receive bid window cement indicate version skate eagle stool fog";
+var mnemonic = "increase shallow story violin cattle abstract cave proud inner total wreck alarm";

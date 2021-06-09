@@ -1,1 +1,1 @@
-var mnemonic = "record dentist cook false sea enroll bag vault meadow evoke tonight keep";
+var mnemonic = "print south immense what gold must tower stool deputy little grid lesson";

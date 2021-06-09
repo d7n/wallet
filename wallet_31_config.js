@@ -1,1 +1,1 @@
-var mnemonic = "caution number onion noodle slight decrease atom yard very twice mountain genius";
+var mnemonic = "retire valve error match museum input sea science shy found settle mosquito";

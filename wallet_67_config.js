@@ -1,1 +1,1 @@
-var mnemonic = "voice seek guess silk scale relief miracle beyond uphold glory tonight dwarf";
+var mnemonic = "category leopard wheel regret bitter busy attack cup goat orphan cram vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "audit accuse tunnel angry match tuition auction awake wave spot inmate multiply";
+var mnemonic = "drink follow broom sail kiwi satisfy code defense cool minimum divert sauce";

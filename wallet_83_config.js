@@ -1,1 +1,1 @@
-var mnemonic = "include box luxury venture hover victory pen know strategy decade tide hen";
+var mnemonic = "fun forget corn sorry amateur upset shock ancient argue vapor year across";

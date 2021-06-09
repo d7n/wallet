@@ -1,1 +1,1 @@
-var mnemonic = "crucial super inform river soda acid sketch trouble perfect happy laugh dawn";
+var mnemonic = "robust pigeon rural problem demand pelican more cram foil document bullet release";

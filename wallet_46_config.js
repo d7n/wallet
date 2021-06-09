@@ -1,1 +1,1 @@
-var mnemonic = "core water convince false vital welcome cave thrive crazy good whip armor";
+var mnemonic = "slice hazard stadium nest copper cotton own bus next electric story define";

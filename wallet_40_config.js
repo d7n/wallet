@@ -1,1 +1,1 @@
-var mnemonic = "season friend thing middle marine faith wire teach garden mountain find prosper";
+var mnemonic = "own senior before swear bracket alley toy copper record sleep three sister";

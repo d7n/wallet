@@ -1,1 +1,1 @@
-var mnemonic = "produce suggest dream brush joke embrace cargo tomato brisk artwork gentle medal";
+var mnemonic = "push liberty paddle rare bundle shadow air swallow cannon senior supply napkin";

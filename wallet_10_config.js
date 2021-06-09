@@ -1,1 +1,1 @@
-var mnemonic = "moon tomato manage float faith camp mouse receive kite click comfort month";
+var mnemonic = "art silver moon sea flag practice animal width pretty eye across congress";

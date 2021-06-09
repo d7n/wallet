@@ -1,1 +1,1 @@
-var mnemonic = "because shoot cloth pill habit shiver smooth melt author good dice cupboard";
+var mnemonic = "cube prison brick apple across roast adapt clay jewel pill hen echo";

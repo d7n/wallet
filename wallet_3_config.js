@@ -1,1 +1,1 @@
-var mnemonic = "another gold pistol face mountain bomb fantasy old wing food pattern minor";
+var mnemonic = "virtual elite eyebrow snow puzzle bottom fantasy unique repair gym junior focus";

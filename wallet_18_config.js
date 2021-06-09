@@ -1,1 +1,1 @@
-var mnemonic = "wage naive raw wink original age much nice believe ridge gorilla baby";
+var mnemonic = "subway phrase turn hamster favorite problem easy call escape wool buddy silly";

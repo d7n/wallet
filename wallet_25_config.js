@@ -1,1 +1,1 @@
-var mnemonic = "horror rigid usual away toy mention thumb vast luxury green section brisk";
+var mnemonic = "eternal float call dawn flat degree tank mule hollow trophy box business";

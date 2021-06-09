@@ -1,1 +1,1 @@
-var mnemonic = "strategy behind own tired december kitten lecture lobster fog dilemma hungry shoe";
+var mnemonic = "invest interest prefer dad link hard erupt cake special opera girl slide";

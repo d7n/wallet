@@ -1,1 +1,1 @@
-var mnemonic = "quit venture ask collect mountain pause page math diamond theory raw behave";
+var mnemonic = "song exclude second fold demise oyster online crumble involve clip setup chest";

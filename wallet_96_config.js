@@ -1,1 +1,1 @@
-var mnemonic = "hurt talent timber auto man correct boat hidden loyal lyrics virtual picnic";
+var mnemonic = "pupil urge ride symbol weird miracle health invite decorate just imitate ceiling";

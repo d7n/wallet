@@ -1,1 +1,1 @@
-var mnemonic = "area work jewel crime lecture thrive track bench light age frozen winner";
+var mnemonic = "option cattle tomorrow gauge clump buffalo guess cluster erosion imitate very goddess";

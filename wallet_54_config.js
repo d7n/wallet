@@ -1,1 +1,1 @@
-var mnemonic = "clock deposit sauce equip eight gesture praise genuine heavy annual topic cook";
+var mnemonic = "park virus parade plunge trouble planet green shield pull found leg rebel";

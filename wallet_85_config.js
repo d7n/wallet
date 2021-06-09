@@ -1,1 +1,1 @@
-var mnemonic = "escape route large switch old bag guilt jaguar police tissue hair there";
+var mnemonic = "satisfy onion stuff clinic drip flat truth surround century shaft wolf select";

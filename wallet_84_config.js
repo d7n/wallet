@@ -1,1 +1,1 @@
-var mnemonic = "couch wagon slight near place marble depart vacuum sponsor chimney file carpet";
+var mnemonic = "plunge tip method sting middle patch citizen install inflict tomato differ cruel";

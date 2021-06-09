@@ -1,1 +1,1 @@
-var mnemonic = "stumble aerobic hill hurry draw more elephant funny forest fitness skill man";
+var mnemonic = "save frequent ancient right pool champion bargain enforce setup duck pioneer usage";

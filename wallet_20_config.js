@@ -1,1 +1,1 @@
-var mnemonic = "already shine scissors depth staff harbor ring they else lottery able wrestle";
+var mnemonic = "artist share leader join regular casual school easy lyrics smoke tell human";

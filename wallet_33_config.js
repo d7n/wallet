@@ -1,1 +1,1 @@
-var mnemonic = "glance innocent smart wasp female couch monster source farm ginger fury scatter";
+var mnemonic = "pattern velvet document trade fog cotton cake cactus fish rival report sheriff";

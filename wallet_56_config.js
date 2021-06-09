@@ -1,1 +1,1 @@
-var mnemonic = "owner smooth squirrel enjoy maid arctic maze urban edit universe animal eagle";
+var mnemonic = "mosquito deer coil seek boring pottery truth promote evoke silly spy label";

@@ -1,1 +1,1 @@
-var mnemonic = "remain suit giant employ faith cruise pride gadget swap siren lens awesome";
+var mnemonic = "inmate mammal foster onion choose miss hotel consider surprise drastic found broccoli";

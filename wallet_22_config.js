@@ -1,1 +1,1 @@
-var mnemonic = "try cat crash action color dawn time arm meat brush intact about";
+var mnemonic = "recycle knee cover split melt over hurt pig dust gown master sudden";

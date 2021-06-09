@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo shiver peace decline expand bottom pair shine sea never junior scorpion";
+var mnemonic = "fury stadium doll trim inject pact leader dry begin case pretty earth";

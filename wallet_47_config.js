@@ -1,1 +1,1 @@
-var mnemonic = "level powder dish city finish bullet fetch wonder balance deny hat pitch";
+var mnemonic = "chaos crumble vague ostrich aware stand trim year wink flash cushion cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage thought waste illness chief wave defense beef often bean cancel chimney";
+var mnemonic = "appear stand eyebrow teach air answer radar affair quantum inherit scissors dance";

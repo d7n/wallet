@@ -1,1 +1,1 @@
-var mnemonic = "mandate stomach donor mystery country day cabin toe behind rocket pudding demand";
+var mnemonic = "tone turtle opinion welcome sense rifle outside share inject snap session spirit";

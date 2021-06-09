@@ -1,1 +1,1 @@
-var mnemonic = "atom stereo owner rescue punch key trust lucky sunset neutral bonus sea";
+var mnemonic = "erode drastic inflict hen vital roast doctor walnut increase gesture town grow";

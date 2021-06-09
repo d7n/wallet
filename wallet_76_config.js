@@ -1,1 +1,1 @@
-var mnemonic = "dial denial town street vault citizen series spawn laugh fun deer logic";
+var mnemonic = "appear bronze leave roof nest document volcano marine funny debris resource coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "left ostrich office chat palm grab sing warfare skin witness reopen bid";
+var mnemonic = "symptom start gallery social sad planet few horror belt empower conduct metal";

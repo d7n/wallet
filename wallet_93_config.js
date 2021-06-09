@@ -1,1 +1,1 @@
-var mnemonic = "hen retreat seed admit evidence obscure sting sentence enact chalk extend onion";
+var mnemonic = "focus crack frog south crop target zoo now nasty blanket false chalk";

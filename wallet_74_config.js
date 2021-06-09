@@ -1,1 +1,1 @@
-var mnemonic = "outside park air giant atom project awesome rural exhaust minor task mechanic";
+var mnemonic = "zoo essence acquire claim country venue differ wild become dream scorpion recall";

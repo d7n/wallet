@@ -1,1 +1,1 @@
-var mnemonic = "fiscal fix record dress between habit trade choose empower panther hint fan";
+var mnemonic = "enough sample vicious include must foam bracket act noodle father alley salon";

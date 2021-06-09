@@ -1,1 +1,1 @@
-var mnemonic = "paddle kid floor vicious quantum coil robust teach fetch cream retreat boat";
+var mnemonic = "field solid animal resist fossil shiver stairs tonight cricket enjoy harsh try";

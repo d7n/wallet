@@ -1,1 +1,1 @@
-var mnemonic = "stage boost capital include answer monster noise atom ability banana verb sleep";
+var mnemonic = "someone pipe song report trumpet wrap valid equal town garbage slim birth";

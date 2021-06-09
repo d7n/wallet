@@ -1,1 +1,1 @@
-var mnemonic = "shove side minor spirit rain crew parent bar wear lesson into nerve";
+var mnemonic = "pear popular puzzle address detect quote era blue problem cheese palm cloud";

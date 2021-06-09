@@ -1,1 +1,1 @@
-var mnemonic = "fan frown cake case annual vital theme dash protect donor jump bicycle";
+var mnemonic = "razor afford glow modify announce fame smart shy disagree grocery bar cargo";

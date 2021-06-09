@@ -1,1 +1,1 @@
-var mnemonic = "aim addict opera bless quarter eight hood error hill hollow rain witness";
+var mnemonic = "floor victory search rib voice summer shrug smooth detail prison estate elbow";

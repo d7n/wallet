@@ -1,1 +1,1 @@
-var mnemonic = "farm analyst key fog magnet eagle tattoo settle unhappy arrange ghost entire";
+var mnemonic = "skull mixed call wash render oblige unfold wife jaguar wild siren project";
