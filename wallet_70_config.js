@@ -1,1 +1,1 @@
-var mnemonic = "trap tribe lounge aunt broken used puppy spawn raw theory sorry grunt";
+var mnemonic = "wise opinion flower cruise raven tornado cake shoulder bomb flat raise ghost";

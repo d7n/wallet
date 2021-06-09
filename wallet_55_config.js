@@ -1,1 +1,1 @@
-var mnemonic = "ten unusual change wool shoot fix image harvest sell inmate lab math";
+var mnemonic = "fiber possible next rare wisdom jeans improve goose gasp army direct question";

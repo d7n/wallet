@@ -1,1 +1,1 @@
-var mnemonic = "cute open smoke wine immense unlock vital replace fatal infant squeeze half";
+var mnemonic = "jungle proof melt equal income enroll exile mass liberty stock calm celery";

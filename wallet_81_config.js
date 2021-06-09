@@ -1,1 +1,1 @@
-var mnemonic = "slush ecology gown extend wise setup gorilla doll noodle steel tent element";
+var mnemonic = "traffic season viable glue pupil legend cat lawsuit tuition absent undo trumpet";

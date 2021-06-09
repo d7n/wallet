@@ -1,1 +1,1 @@
-var mnemonic = "skill name diet shiver shallow wet oyster riot acoustic party trap enter";
+var mnemonic = "island edge thrive job plug omit armor odor monster grab myth sort";

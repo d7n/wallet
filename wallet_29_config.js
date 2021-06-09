@@ -1,1 +1,1 @@
-var mnemonic = "wild gaze grow trap monster dragon degree elegant search ranch sunset artist";
+var mnemonic = "decade razor galaxy injury spatial bronze inhale reason length blossom tower scatter";

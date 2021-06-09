@@ -1,1 +1,1 @@
-var mnemonic = "scissors gown cash bind hammer swamp mad science three answer collect try";
+var mnemonic = "armor corn main jaguar net pencil pitch illegal debris dynamic hub tired";

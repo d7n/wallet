@@ -1,1 +1,1 @@
-var mnemonic = "hello oppose original second category item expand spoon clap april planet region";
+var mnemonic = "cousin law memory crucial bachelor grass initial limb taxi start dinner twice";

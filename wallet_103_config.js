@@ -1,1 +1,1 @@
-var mnemonic = "hamster kite fine tiny police only tower liberty emerge afford siren jump";
+var mnemonic = "ostrich team machine bulb squirrel pitch salt volume cousin decrease spray gym";

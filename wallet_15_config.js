@@ -1,1 +1,1 @@
-var mnemonic = "awake hybrid tribe zebra kiss explain gorilla thank barrel achieve tribe master";
+var mnemonic = "sponsor one unfair depend build glance purchase exotic quote mobile reduce margin";

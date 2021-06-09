@@ -1,1 +1,1 @@
-var mnemonic = "blossom mix weapon edit mandate parrot final person cheese chief jealous frown";
+var mnemonic = "wish salt symbol stand skill cactus west eight deny dentist virtual spider";

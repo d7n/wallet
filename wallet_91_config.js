@@ -1,1 +1,1 @@
-var mnemonic = "basic decorate myself prefer bread radar arrest social guard enhance idea olive";
+var mnemonic = "comfort left travel renew cigar wet holiday candy agent vanish strike space";

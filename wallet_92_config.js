@@ -1,1 +1,1 @@
-var mnemonic = "develop motion raven trend suffer duck shop great panel poet bring keep";
+var mnemonic = "cousin candy mosquito mimic rail lonely fix panda robot venue hover begin";

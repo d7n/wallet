@@ -1,1 +1,1 @@
-var mnemonic = "drip absent identify maid zone attend version doll aisle yard siren average";
+var mnemonic = "timber vivid grief protect mean bar reveal vendor lazy leader hawk session";

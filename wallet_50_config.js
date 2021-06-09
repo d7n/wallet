@@ -1,1 +1,1 @@
-var mnemonic = "skull coach torch suggest legal neutral interest strike fix prefer arch supply";
+var mnemonic = "harsh tag tail recipe behave off area peanut lunar pudding behave update";

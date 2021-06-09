@@ -1,1 +1,1 @@
-var mnemonic = "attract stay tent orchard fatigue bamboo luxury right excite horror deny issue";
+var mnemonic = "honey grunt impose head stem pitch legend violin capital cheese please problem";

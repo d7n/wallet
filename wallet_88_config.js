@@ -1,1 +1,1 @@
-var mnemonic = "suffer swing original ribbon worth another quit tank panel nominee rude scatter";
+var mnemonic = "narrow razor heavy husband mass explain wool nominee strategy offer myself lift";

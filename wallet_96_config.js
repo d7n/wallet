@@ -1,1 +1,1 @@
-var mnemonic = "cream copy elevator army claw sleep squirrel panel fog permit divide economy";
+var mnemonic = "mass update anxiety run where paper pipe demand book cruel fruit main";

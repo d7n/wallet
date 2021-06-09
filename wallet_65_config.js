@@ -1,1 +1,1 @@
-var mnemonic = "weather cluster curtain all physical seek bring slogan warm stomach brother setup";
+var mnemonic = "ethics pepper observe loyal movie trim visit axis inch size series still";

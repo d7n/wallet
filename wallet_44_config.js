@@ -1,1 +1,1 @@
-var mnemonic = "age segment child link raven elbow say giant zero brand seek chief";
+var mnemonic = "dumb clip zero hat super kitten utility same patch shallow oven nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "palace degree between syrup uphold faint quarter renew zoo school crawl crucial";
+var mnemonic = "tuna turn antenna young egg better tongue autumn slice limit forum love";

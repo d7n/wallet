@@ -1,1 +1,1 @@
-var mnemonic = "broken quiz turkey demand bomb atom short day payment protect accident extra";
+var mnemonic = "true salmon lottery burden canvas exhaust report course remind segment pact creek";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet ticket hard total brain state large laptop alarm various song pass";
+var mnemonic = "fantasy harvest orphan boost select detect measure grape chair foam army review";

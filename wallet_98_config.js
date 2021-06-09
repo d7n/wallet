@@ -1,1 +1,1 @@
-var mnemonic = "giggle awkward april column runway conduct guess inquiry faculty outer omit real";
+var mnemonic = "dry traffic mirror sign fire mystery then reduce protect hurt fame case";

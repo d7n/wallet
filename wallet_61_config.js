@@ -1,1 +1,1 @@
-var mnemonic = "host magic impulse brave jacket inform pen divorce asset aim gain whip";
+var mnemonic = "barely cloth sure link genre talent replace advance music tooth dirt dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle toss grace ribbon parent expose funny copper laptop another taste bone";
+var mnemonic = "broccoli shine smart result crowd camp cluster today lonely hidden churn salad";

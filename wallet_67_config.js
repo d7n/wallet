@@ -1,1 +1,1 @@
-var mnemonic = "vintage notable dilemma mango north bachelor pass stay destroy claim average trick";
+var mnemonic = "elder wild hip retreat tent sound just limit screen arm egg cool";

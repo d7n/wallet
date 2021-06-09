@@ -1,1 +1,1 @@
-var mnemonic = "discover echo harsh pet three tiny wisdom stool adult learn cheap blanket";
+var mnemonic = "example choice torch filter feel kite noise shine entire climb roast rabbit";

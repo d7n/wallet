@@ -1,1 +1,1 @@
-var mnemonic = "seat atom bicycle coast purity fee survey disorder lava nest call guilt";
+var mnemonic = "beef demand reveal grunt barely phone toss gold silent iron dentist poverty";

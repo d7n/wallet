@@ -1,1 +1,1 @@
-var mnemonic = "arena crew wash awesome strong large scout weekend path tenant mule mention";
+var mnemonic = "atom orchard stock machine autumn replace letter cube avocado excite term cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic key unable spell verb trophy column marine amount midnight license identify";
+var mnemonic = "point weird rapid element sick sphere dress pattern either problem security warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "desk indicate fiber horn garment cute shuffle sauce popular art gorilla tired";
+var mnemonic = "maximum live mystery test leaf firm private become nice aspect clerk mixed";

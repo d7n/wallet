@@ -1,1 +1,1 @@
-var mnemonic = "desert bonus seat pass squeeze design obtain maze expand portion filter chunk";
+var mnemonic = "year step water fury picnic ankle book father gravity print pulp mind";

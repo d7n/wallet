@@ -1,1 +1,1 @@
-var mnemonic = "since advice leopard window pond consider pause marble police glide void token";
+var mnemonic = "supply car trophy only treat claw young jump badge win that critic";

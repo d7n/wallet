@@ -1,1 +1,1 @@
-var mnemonic = "sand asset sustain term vivid trim security neck soda pet climb spot";
+var mnemonic = "deposit motor trumpet zero comfort jealous auto law kite rescue rifle increase";

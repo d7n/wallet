@@ -1,1 +1,1 @@
-var mnemonic = "tomato yard cinnamon voyage yard symbol impact juice body december unable mom";
+var mnemonic = "analyst one slot neither whip visual pill chimney apology athlete arrow muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "eight hamster income silk cart auction flock fluid coyote cluster film turtle";
+var mnemonic = "orient vault slam child disagree void interest inform crucial gorilla stem fence";

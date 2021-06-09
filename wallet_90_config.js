@@ -1,1 +1,1 @@
-var mnemonic = "process ecology hamster nothing slight lawn bright small peanut earn pulp hat";
+var mnemonic = "arctic pole review blast october average loud view excite evolve magic catch";

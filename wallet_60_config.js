@@ -1,1 +1,1 @@
-var mnemonic = "decorate remain pulp life visual impose lemon comic maze table beef anxiety";
+var mnemonic = "plug manual border unit over hole faith bulk winner congress rebel deliver";

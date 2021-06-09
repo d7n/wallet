@@ -1,1 +1,1 @@
-var mnemonic = "battle moral water novel fabric thing first sound bleak tiger bonus stamp";
+var mnemonic = "inquiry cloth sound movie since essay bachelor broccoli imitate roof disease home";

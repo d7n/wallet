@@ -1,1 +1,1 @@
-var mnemonic = "message kangaroo capital switch juice winner say mobile begin frame income jacket";
+var mnemonic = "attack execute federal host deposit cup armed useless clutch right amount opinion";

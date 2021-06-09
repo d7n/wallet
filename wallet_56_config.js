@@ -1,1 +1,1 @@
-var mnemonic = "elephant basket off sport boring tobacco mind dirt portion pepper pipe video";
+var mnemonic = "skate category column jewel income excite accuse slush actor auction universe satisfy";

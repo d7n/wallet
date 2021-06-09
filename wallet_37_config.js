@@ -1,1 +1,1 @@
-var mnemonic = "term put success hobby describe cattle park delay perfect joy gown option";
+var mnemonic = "online bag odor dress ranch endorse weather cram inch burden filter soul";

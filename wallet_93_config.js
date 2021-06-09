@@ -1,1 +1,1 @@
-var mnemonic = "gauge engage sense oven original dentist hood exchange skate tiny believe amused";
+var mnemonic = "rather letter live outer option average simple safe girl mouse buffalo caution";

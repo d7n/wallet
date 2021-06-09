@@ -1,1 +1,1 @@
-var mnemonic = "floor invite hand mad organ bar grace giggle imitate off accuse hill";
+var mnemonic = "kit hunt verb surround gentle lend buzz picnic table brand motor sphere";

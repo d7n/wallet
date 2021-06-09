@@ -1,1 +1,1 @@
-var mnemonic = "act almost become success alter critic caught output method traffic kitchen problem";
+var mnemonic = "broom stem spawn eye essay happy swallow high trust treat useless donkey";

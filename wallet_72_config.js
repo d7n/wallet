@@ -1,1 +1,1 @@
-var mnemonic = "mix combine infant dry bottom near flip century notable basket century zebra";
+var mnemonic = "gun spirit perfect pyramid plunge segment purchase text curtain grow marble reason";

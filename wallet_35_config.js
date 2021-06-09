@@ -1,1 +1,1 @@
-var mnemonic = "erupt garlic top shoe memory famous large client amateur hybrid rose frown";
+var mnemonic = "mesh develop modify pen goat exile series mail average armor fiber melody";

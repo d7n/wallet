@@ -1,1 +1,1 @@
-var mnemonic = "judge together hazard scale ladder share latin only child dynamic rack anger";
+var mnemonic = "require weather endless illness blanket lens volcano skate ribbon myth earn damp";

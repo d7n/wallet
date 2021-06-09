@@ -1,1 +1,1 @@
-var mnemonic = "bonus size casino cage sadness curve flavor gym announce eye bargain hood";
+var mnemonic = "arrange earn pig odor suffer two zoo timber enter police address slogan";

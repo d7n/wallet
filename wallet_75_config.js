@@ -1,1 +1,1 @@
-var mnemonic = "practice sleep lava owner noodle hover fresh all middle victory acquire analyst";
+var mnemonic = "lottery light gold scene obvious vast among return unfair hamster twice traffic";

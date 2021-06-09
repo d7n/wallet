@@ -1,1 +1,1 @@
-var mnemonic = "amazing bind reward rent toe abstract inmate merit grid dash month economy";
+var mnemonic = "review tooth analyst exotic learn actress hungry arrow resource interest early lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "rule improve noise double gown danger produce fresh object damage broken initial";
+var mnemonic = "purchase today submit mirror prepare injury setup uniform step useful text trip";

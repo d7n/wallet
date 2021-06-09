@@ -1,1 +1,1 @@
-var mnemonic = "drill little popular about useful problem bitter ready seek label clutch load";
+var mnemonic = "opera royal avoid wait odor cram shadow decide destroy ride remain poem";

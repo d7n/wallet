@@ -1,1 +1,1 @@
-var mnemonic = "debris host cute garlic hover space equal warrior music habit pilot record";
+var mnemonic = "fiber region anchor option orient detect correct away anchor expect word faint";

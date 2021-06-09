@@ -1,1 +1,1 @@
-var mnemonic = "twin jaguar rotate faith quantum invest flavor pitch canvas ribbon clean cruise";
+var mnemonic = "achieve voice annual stamp mesh gallery pigeon digital change gym world promote";

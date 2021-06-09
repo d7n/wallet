@@ -1,1 +1,1 @@
-var mnemonic = "fine steak actor dream thumb outer reason multiply first february cheap cigar";
+var mnemonic = "destroy wheel visual attack police benefit shiver luggage left simple smart venture";

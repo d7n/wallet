@@ -1,1 +1,1 @@
-var mnemonic = "notice village enhance click enable rotate scout melt equal pencil side nasty";
+var mnemonic = "term zero pass vibrant stand chronic mesh fire unveil universe dirt harbor";

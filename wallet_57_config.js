@@ -1,1 +1,1 @@
-var mnemonic = "rather sudden truck episode student drip inner dynamic unhappy then gadget sorry";
+var mnemonic = "nation above steel device detect skill tobacco essence impulse youth sauce wing";

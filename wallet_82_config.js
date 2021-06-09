@@ -1,1 +1,1 @@
-var mnemonic = "slam blood hawk gift better fringe enhance uphold chase sister knock grab";
+var mnemonic = "science limit burst salad pistol reform dress faculty enable mountain rib island";

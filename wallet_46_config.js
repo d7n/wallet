@@ -1,1 +1,1 @@
-var mnemonic = "success mule warrior pulse weasel remind mother satisfy wash account gloom ghost";
+var mnemonic = "famous tag aerobic peace valley purse unusual sting exclude manual ski code";

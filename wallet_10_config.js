@@ -1,1 +1,1 @@
-var mnemonic = "select spider board sauce one height symbol piece rate robot lamp fuel";
+var mnemonic = "dash bubble october car oak effort rival topic museum either puzzle club";

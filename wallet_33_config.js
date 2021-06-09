@@ -1,1 +1,1 @@
-var mnemonic = "analyst rule dog object drink engage youth symptom buzz lab happy play";
+var mnemonic = "tide fall among stool prefer venue boss inmate trade route small flight";

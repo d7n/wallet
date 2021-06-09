@@ -1,1 +1,1 @@
-var mnemonic = "seed cheese off grief season patch pepper burden panic neutral stage weasel";
+var mnemonic = "knife brief paper oyster process frost desk pumpkin vast uncover stumble seminar";

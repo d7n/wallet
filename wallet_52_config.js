@@ -1,1 +1,1 @@
-var mnemonic = "job risk spawn mom whisper staff crack two rug ladder forum legend";
+var mnemonic = "diagram write fancy sibling step gym machine black robot jungle scene tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge summer problem sustain humble wing topple edit journey man have few";
+var mnemonic = "draft warrior educate roof shine spread knee afraid climb drop input lab";

@@ -1,1 +1,1 @@
-var mnemonic = "order thrive typical novel pink property dinosaur slab theme liberty desk travel";
+var mnemonic = "dish merge abstract special sound walnut pull trap drill disagree idle flavor";

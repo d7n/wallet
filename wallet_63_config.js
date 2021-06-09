@@ -1,1 +1,1 @@
-var mnemonic = "lock tobacco media when embark glass smooth dry calm ketchup either bind";
+var mnemonic = "cabbage era champion oxygen deny borrow palace labor artefact kiwi comfort gift";

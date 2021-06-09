@@ -1,1 +1,1 @@
-var mnemonic = "volume mean response receive pistol draft forum ridge process carry crane mirror";
+var mnemonic = "solar tomato survey clown wash carpet author describe reason first reflect payment";

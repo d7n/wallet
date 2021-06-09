@@ -1,1 +1,1 @@
-var mnemonic = "lady craft surprise render bubble clever action blue odor vault grab allow";
+var mnemonic = "until denial busy parade code trash risk orient wealth useful topple toy";

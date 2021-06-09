@@ -1,1 +1,1 @@
-var mnemonic = "cup debate excess giraffe trim frequent bring reveal obscure drill viable submit";
+var mnemonic = "phone dog ritual romance camp photo spoon ask raise town fix cactus";

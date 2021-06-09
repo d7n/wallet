@@ -1,1 +1,1 @@
-var mnemonic = "shift bracket throw captain hire embark tourist whale absurd destroy firm luxury";
+var mnemonic = "office peasant burst yard virtual thank oxygen gap clown false believe lizard";

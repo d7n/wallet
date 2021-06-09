@@ -1,1 +1,1 @@
-var mnemonic = "trumpet bright forum come hunt hybrid attack general pencil action topple rude";
+var mnemonic = "drip talk harbor leg illegal fox avoid theory long crack dove desert";

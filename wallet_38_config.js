@@ -1,1 +1,1 @@
-var mnemonic = "hard anchor clock rich denial wool drip identify issue art correct inner";
+var mnemonic = "slow tornado raise movie home still scan high medal dice base hill";

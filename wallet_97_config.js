@@ -1,1 +1,1 @@
-var mnemonic = "fortune flower control fossil attend behave inject chief column detect between cheese";
+var mnemonic = "entire pear convince knock creek milk ivory burden hollow dose weasel click";

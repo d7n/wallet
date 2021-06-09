@@ -1,1 +1,1 @@
-var mnemonic = "enrich submit analyst stage input wall flag rib hurdle lion struggle august";
+var mnemonic = "brave alter arrange security immune entry problem grid brass bulk struggle shift";

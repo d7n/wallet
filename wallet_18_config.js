@@ -1,1 +1,1 @@
-var mnemonic = "chase noise arrive road coach unable few exact master dawn ginger vacant";
+var mnemonic = "long seat science true deal say rural ranch eager remember wedding bicycle";

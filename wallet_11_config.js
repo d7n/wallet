@@ -1,1 +1,1 @@
-var mnemonic = "case elevator sponsor stuff above scare strong unfold together around lava next";
+var mnemonic = "volcano crash acquire access manage prison mouse ginger rose excuse hip sniff";

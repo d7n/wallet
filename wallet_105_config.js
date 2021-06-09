@@ -1,1 +1,1 @@
-var mnemonic = "glue entry access party inject under present much hollow web club plate";
+var mnemonic = "kite heavy social endless raise bargain town hope review creek oak pistol";

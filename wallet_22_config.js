@@ -1,1 +1,1 @@
-var mnemonic = "machine amused buffalo inherit mandate language ugly lady brisk brush diet soul";
+var mnemonic = "shuffle pumpkin certain item giraffe search leaf paddle enter wine episode machine";

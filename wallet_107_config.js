@@ -1,1 +1,1 @@
-var mnemonic = "inmate man snow south side forum rug large suggest leisure mother woman";
+var mnemonic = "sauce stable allow duck item leg find close reflect rare leaf payment";

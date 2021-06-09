@@ -1,1 +1,1 @@
-var mnemonic = "wife quiz roof keen achieve setup twist swift dice pig slender olympic";
+var mnemonic = "slender eternal during jealous during marriage weapon flag vital output version swap";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare canyon rebuild modify world arrow cruise use dwarf area obvious poverty";
+var mnemonic = "nurse tortoise manage banana hill century blush green author copper gossip expose";

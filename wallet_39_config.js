@@ -1,1 +1,1 @@
-var mnemonic = "hollow impose matter parrot define learn hospital sample spirit infant latin junk";
+var mnemonic = "hand uncle torch tiny enhance fever slush method impose bone surge grow";

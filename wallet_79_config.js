@@ -1,1 +1,1 @@
-var mnemonic = "easily portion license anger virus point cloud swarm gloom flock diamond matter";
+var mnemonic = "helmet give ride bitter song cave share icon live garment dice vanish";
