@@ -1,1 +1,1 @@
-var mnemonic = "drip talk harbor leg illegal fox avoid theory long crack dove desert";
+var mnemonic = "quote oval tag cotton moral skull range hello insane middle orange ketchup";

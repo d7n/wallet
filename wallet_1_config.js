@@ -1,1 +1,1 @@
-var mnemonic = "supply car trophy only treat claw young jump badge win that critic";
+var mnemonic = "security habit bicycle brick anchor hard grace ankle layer travel give clock";

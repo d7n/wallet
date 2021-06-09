@@ -1,1 +1,1 @@
-var mnemonic = "multiply rich client mail common tuna ginger argue zebra approve spare ozone";
+var mnemonic = "immense moment belt silk inner reject tonight wage hazard state license glory";

@@ -1,1 +1,1 @@
-var mnemonic = "atom orchard stock machine autumn replace letter cube avocado excite term cruel";
+var mnemonic = "exhibit visit copy jacket wet motor offer verb orange cloth output basket";

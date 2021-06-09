@@ -1,1 +1,1 @@
-var mnemonic = "gun spirit perfect pyramid plunge segment purchase text curtain grow marble reason";
+var mnemonic = "amazing snow speak picnic rotate erupt chuckle drip area fork hedgehog fork";

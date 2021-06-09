@@ -1,1 +1,1 @@
-var mnemonic = "maximum live mystery test leaf firm private become nice aspect clerk mixed";
+var mnemonic = "whale science pave crouch staff page whip reason guide decide envelope lucky";

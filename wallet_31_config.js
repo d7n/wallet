@@ -1,1 +1,1 @@
-var mnemonic = "fantasy harvest orphan boost select detect measure grape chair foam army review";
+var mnemonic = "hood roof color novel keen mercy another hood goat second identify spare";

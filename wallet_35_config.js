@@ -1,1 +1,1 @@
-var mnemonic = "mesh develop modify pen goat exile series mail average armor fiber melody";
+var mnemonic = "refuse upper intact mansion erupt patch dwarf license dog coast elephant jaguar";

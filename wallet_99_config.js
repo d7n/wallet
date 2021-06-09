@@ -1,1 +1,1 @@
-var mnemonic = "slender eternal during jealous during marriage weapon flag vital output version swap";
+var mnemonic = "health chat scout road exact power crop flash essence able misery inhale";

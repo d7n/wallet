@@ -1,1 +1,1 @@
-var mnemonic = "slow tornado raise movie home still scan high medal dice base hill";
+var mnemonic = "grab husband key discover finish divide bottom pudding victory goat level range";

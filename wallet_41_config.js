@@ -1,1 +1,1 @@
-var mnemonic = "deposit motor trumpet zero comfort jealous auto law kite rescue rifle increase";
+var mnemonic = "matrix combine vote ketchup impulse grain inspire deny gain time arrive day";

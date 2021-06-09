@@ -1,1 +1,1 @@
-var mnemonic = "destroy wheel visual attack police benefit shiver luggage left simple smart venture";
+var mnemonic = "cabin concert unit finish helmet opinion repeat asset lonely trophy save energy";

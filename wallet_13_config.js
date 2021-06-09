@@ -1,1 +1,1 @@
-var mnemonic = "punch proof sleep size wise gorilla second worth nose essence shield flip";
+var mnemonic = "buddy sorry foster arena box hunt icon virtual wool promote update divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber region anchor option orient detect correct away anchor expect word faint";
+var mnemonic = "turtle gossip poverty chaos uphold pupil gauge item normal path term decide";

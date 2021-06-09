@@ -1,1 +1,1 @@
-var mnemonic = "discover must visa wink huge athlete about pupil maze blanket vicious fatigue";
+var mnemonic = "shallow shrug photo morning drive material extra antenna peanut surface grunt clinic";

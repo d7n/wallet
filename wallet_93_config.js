@@ -1,1 +1,1 @@
-var mnemonic = "rather letter live outer option average simple safe girl mouse buffalo caution";
+var mnemonic = "wait canoe hint melody coin story resist two predict tell bullet dinosaur";

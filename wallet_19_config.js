@@ -1,1 +1,1 @@
-var mnemonic = "garden ethics fish leader series media catalog service dignity neck scatter amount";
+var mnemonic = "phrase old amazing prefer distance stumble rate eager move anchor captain drill";

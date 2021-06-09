@@ -1,1 +1,1 @@
-var mnemonic = "judge raven bind slender dutch miss husband timber robot target bracket laugh";
+var mnemonic = "negative surround old ticket start leg still before first spoon curtain future";

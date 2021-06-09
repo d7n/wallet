@@ -1,1 +1,1 @@
-var mnemonic = "comfort left travel renew cigar wet holiday candy agent vanish strike space";
+var mnemonic = "giggle prefer salon matrix success ten fish taste worry cash across kid";

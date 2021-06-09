@@ -1,1 +1,1 @@
-var mnemonic = "hand uncle torch tiny enhance fever slush method impose bone surge grow";
+var mnemonic = "input labor upon muscle one ride air end cannon achieve physical wreck";

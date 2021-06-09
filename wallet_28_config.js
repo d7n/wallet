@@ -1,1 +1,1 @@
-var mnemonic = "zone better false memory program phrase orient mixture purse decline guard gain";
+var mnemonic = "tuna marble pony report grocery solar chicken analyst pattern crater regular brother";

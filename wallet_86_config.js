@@ -1,1 +1,1 @@
-var mnemonic = "nurse tortoise manage banana hill century blush green author copper gossip expose";
+var mnemonic = "worth title crater dignity poverty west grocery panel woman solve undo hospital";

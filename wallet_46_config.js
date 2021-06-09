@@ -1,1 +1,1 @@
-var mnemonic = "famous tag aerobic peace valley purse unusual sting exclude manual ski code";
+var mnemonic = "around cover earn expand chalk blossom wrestle trade mind ankle cradle unfold";

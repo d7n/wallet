@@ -1,1 +1,1 @@
-var mnemonic = "beef demand reveal grunt barely phone toss gold silent iron dentist poverty";
+var mnemonic = "cloud parrot eye hold cricket video earn syrup double fiscal glow force";

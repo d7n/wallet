@@ -1,1 +1,1 @@
-var mnemonic = "dish merge abstract special sound walnut pull trap drill disagree idle flavor";
+var mnemonic = "hire grape owner quick pretty whisper once keen rotate fluid depend work";

@@ -1,1 +1,1 @@
-var mnemonic = "opera royal avoid wait odor cram shadow decide destroy ride remain poem";
+var mnemonic = "pulp level other equal food between sunset acoustic rely differ tortoise sugar";

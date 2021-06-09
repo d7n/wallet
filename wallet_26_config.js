@@ -1,1 +1,1 @@
-var mnemonic = "response profit guitar key frozen oyster fiction cereal person example artwork arrange";
+var mnemonic = "subway hidden pull bus canal bachelor brass ten chicken clever uniform army";

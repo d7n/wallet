@@ -1,1 +1,1 @@
-var mnemonic = "attack execute federal host deposit cup armed useless clutch right amount opinion";
+var mnemonic = "charge fit invite discover ladder spatial wedding chef tape fish evidence kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "tide fall among stool prefer venue boss inmate trade route small flight";
+var mnemonic = "hand public couple effort diet doll luxury history travel rare chimney cotton";

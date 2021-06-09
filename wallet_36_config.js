@@ -1,1 +1,1 @@
-var mnemonic = "point weird rapid element sick sphere dress pattern either problem security warrior";
+var mnemonic = "wisdom basic pelican open mixture flower snake lamp palace brave vote coast";

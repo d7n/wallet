@@ -1,1 +1,1 @@
-var mnemonic = "skate category column jewel income excite accuse slush actor auction universe satisfy";
+var mnemonic = "oppose expand despair unit diary zoo doctor tip prefer song solar involve";

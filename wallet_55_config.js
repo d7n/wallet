@@ -1,1 +1,1 @@
-var mnemonic = "fiber possible next rare wisdom jeans improve goose gasp army direct question";
+var mnemonic = "mad payment monster boat cricket mother diary slush nominee volume teach live";

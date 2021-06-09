@@ -1,1 +1,1 @@
-var mnemonic = "ostrich team machine bulb squirrel pitch salt volume cousin decrease spray gym";
+var mnemonic = "lady local apology pencil rally curtain lyrics ticket shine boss cabin myself";

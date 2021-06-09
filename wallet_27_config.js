@@ -1,1 +1,1 @@
-var mnemonic = "year step water fury picnic ankle book father gravity print pulp mind";
+var mnemonic = "output treat use absurd day nothing screen retire shove reveal decline tail";

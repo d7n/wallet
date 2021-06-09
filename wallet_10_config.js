@@ -1,1 +1,1 @@
-var mnemonic = "dash bubble october car oak effort rival topic museum either puzzle club";
+var mnemonic = "much ivory flush earn piece comfort way pudding climb inquiry valley blur";

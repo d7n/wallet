@@ -1,1 +1,1 @@
-var mnemonic = "plug manual border unit over hole faith bulk winner congress rebel deliver";
+var mnemonic = "possible village beauty exercise movie word almost bench resemble power trumpet eight";

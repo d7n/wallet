@@ -1,1 +1,1 @@
-var mnemonic = "market student polar inherit drop amount fresh fiscal come neither section dragon";
+var mnemonic = "embody book gauge skill sugar fluid earth say abuse hen idle element";

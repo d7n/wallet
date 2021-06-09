@@ -1,1 +1,1 @@
-var mnemonic = "ethics pepper observe loyal movie trim visit axis inch size series still";
+var mnemonic = "engine aunt tilt sing weather flip paddle various spring time copper jacket";

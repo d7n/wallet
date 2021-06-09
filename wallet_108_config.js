@@ -1,1 +1,1 @@
-var mnemonic = "wish salt symbol stand skill cactus west eight deny dentist virtual spider";
+var mnemonic = "melody senior orchard brown wait abstract vapor valve bind source empower install";

@@ -1,1 +1,1 @@
-var mnemonic = "solar tomato survey clown wash carpet author describe reason first reflect payment";
+var mnemonic = "race behind grunt cash search cash repeat crisp float latin exit cloud";

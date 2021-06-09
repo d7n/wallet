@@ -1,1 +1,1 @@
-var mnemonic = "arrange earn pig odor suffer two zoo timber enter police address slogan";
+var mnemonic = "disorder toe salute spatial random enroll august audit service praise kidney cave";

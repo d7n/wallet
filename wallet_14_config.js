@@ -1,1 +1,1 @@
-var mnemonic = "draft warrior educate roof shine spread knee afraid climb drop input lab";
+var mnemonic = "vocal angle stomach rocket liquid entire media bomb eternal recall raise rookie";

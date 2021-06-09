@@ -1,1 +1,1 @@
-var mnemonic = "term zero pass vibrant stand chronic mesh fire unveil universe dirt harbor";
+var mnemonic = "lady odor profit flame office engage task tomato trend grit matrix subway";

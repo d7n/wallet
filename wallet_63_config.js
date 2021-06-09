@@ -1,1 +1,1 @@
-var mnemonic = "cabbage era champion oxygen deny borrow palace labor artefact kiwi comfort gift";
+var mnemonic = "maximum sustain curious muscle ticket logic hat recall place culture correct mixed";

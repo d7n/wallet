@@ -1,1 +1,1 @@
-var mnemonic = "helmet give ride bitter song cave share icon live garment dice vanish";
+var mnemonic = "debris fox company pride royal tonight case despair piece rhythm movie catch";

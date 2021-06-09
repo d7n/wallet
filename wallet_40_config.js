@@ -1,1 +1,1 @@
-var mnemonic = "cousin law memory crucial bachelor grass initial limb taxi start dinner twice";
+var mnemonic = "wisdom undo prevent sense reflect risk install tape correct erupt present journey";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle proof melt equal income enroll exile mass liberty stock calm celery";
+var mnemonic = "keep weather fiber rely response code nuclear relax diamond unfold cup unfold";

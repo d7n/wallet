@@ -1,1 +1,1 @@
-var mnemonic = "wise opinion flower cruise raven tornado cake shoulder bomb flat raise ghost";
+var mnemonic = "drastic cup soft lava first giant insect slogan weather drive feel bleak";

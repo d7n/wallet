@@ -1,1 +1,1 @@
-var mnemonic = "sauce stable allow duck item leg find close reflect rare leaf payment";
+var mnemonic = "general ankle blur better tongue wild people black cheese artist clip under";

@@ -1,1 +1,1 @@
-var mnemonic = "elder wild hip retreat tent sound just limit screen arm egg cool";
+var mnemonic = "short speak scheme valve youth where credit slim camera game circle doll";

@@ -1,1 +1,1 @@
-var mnemonic = "island edge thrive job plug omit armor odor monster grab myth sort";
+var mnemonic = "myth cluster shoot offer motion file destroy grocery picture drama artist save";

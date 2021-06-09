@@ -1,1 +1,1 @@
-var mnemonic = "dumb clip zero hat super kitten utility same patch shallow oven nuclear";
+var mnemonic = "adapt melody onion blossom toast grass comfort torch wool vacant grain tag";

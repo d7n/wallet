@@ -1,1 +1,1 @@
-var mnemonic = "narrow razor heavy husband mass explain wool nominee strategy offer myself lift";
+var mnemonic = "clean fetch ability prepare immense rack puzzle flame crunch salmon snap museum";

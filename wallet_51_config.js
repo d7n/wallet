@@ -1,1 +1,1 @@
-var mnemonic = "rose hub artwork tissue trumpet dash load flush tornado huge since become";
+var mnemonic = "pool gun anger clog work slam income fish minute depth sorry violin";

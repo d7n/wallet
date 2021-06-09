@@ -1,1 +1,1 @@
-var mnemonic = "shuffle pumpkin certain item giraffe search leaf paddle enter wine episode machine";
+var mnemonic = "oblige veteran ceiling aisle flush maximum track stadium basket plug abuse ramp";

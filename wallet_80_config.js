@@ -1,1 +1,1 @@
-var mnemonic = "timber vivid grief protect mean bar reveal vendor lazy leader hawk session";
+var mnemonic = "swap wear kick grace text choice approve wine guitar roast way much";

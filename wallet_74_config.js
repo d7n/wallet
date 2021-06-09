@@ -1,1 +1,1 @@
-var mnemonic = "analyst one slot neither whip visual pill chimney apology athlete arrow muscle";
+var mnemonic = "siren curious quiz nerve borrow rather wheel correct stumble exile eye appear";

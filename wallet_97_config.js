@@ -1,1 +1,1 @@
-var mnemonic = "entire pear convince knock creek milk ivory burden hollow dose weasel click";
+var mnemonic = "describe talent impact airport float merge ugly design item merry normal hand";

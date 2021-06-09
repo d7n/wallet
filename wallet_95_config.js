@@ -1,1 +1,1 @@
-var mnemonic = "office peasant burst yard virtual thank oxygen gap clown false believe lizard";
+var mnemonic = "slice rookie spy raven track guess dad inside together legend few pipe";

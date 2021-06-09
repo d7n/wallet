@@ -1,1 +1,1 @@
-var mnemonic = "online bag odor dress ranch endorse weather cram inch burden filter soul";
+var mnemonic = "raccoon ticket paddle addict million various flock lizard exit social hood dune";

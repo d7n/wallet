@@ -1,1 +1,1 @@
-var mnemonic = "cousin candy mosquito mimic rail lonely fix panda robot venue hover begin";
+var mnemonic = "ripple ski social own race pyramid pear father pool marriage shoulder ankle";

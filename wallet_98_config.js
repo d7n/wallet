@@ -1,1 +1,1 @@
-var mnemonic = "dry traffic mirror sign fire mystery then reduce protect hurt fame case";
+var mnemonic = "poet toe benefit paper shove reopen eager license mad tornado betray bottom";

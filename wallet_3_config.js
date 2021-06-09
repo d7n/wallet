@@ -1,1 +1,1 @@
-var mnemonic = "review tooth analyst exotic learn actress hungry arrow resource interest early lazy";
+var mnemonic = "save hybrid embody melt daring special castle anchor barrel lesson play love";

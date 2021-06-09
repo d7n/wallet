@@ -1,1 +1,1 @@
-var mnemonic = "inquiry cloth sound movie since essay bachelor broccoli imitate roof disease home";
+var mnemonic = "crazy ahead mixed core resist subject onion lunar effort stumble include puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm receive reward change quantum cannon dance orange camp arrive kidney color";
+var mnemonic = "memory eternal bottom sunny olympic holiday dirt nation crowd trophy filter goose";

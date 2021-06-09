@@ -1,1 +1,1 @@
-var mnemonic = "broccoli shine smart result crowd camp cluster today lonely hidden churn salad";
+var mnemonic = "act trip diet thing used cycle stool maximum critic salute purpose question";

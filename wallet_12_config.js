@@ -1,1 +1,1 @@
-var mnemonic = "armor corn main jaguar net pencil pitch illegal debris dynamic hub tired";
+var mnemonic = "pigeon apology rail pill roof loan valley leave bid cancel segment success";

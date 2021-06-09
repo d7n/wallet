@@ -1,1 +1,1 @@
-var mnemonic = "mass update anxiety run where paper pipe demand book cruel fruit main";
+var mnemonic = "engine fade trap wing embark arrest knee example moral tent depend eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh tag tail recipe behave off area peanut lunar pudding behave update";
+var mnemonic = "weather bright verify proud catalog tennis orange auction maple lake lion kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna turn antenna young egg better tongue autumn slice limit forum love";
+var mnemonic = "liquid sweet depth program web purpose dust style filter snap interest wide";

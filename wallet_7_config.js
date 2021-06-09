@@ -1,1 +1,1 @@
-var mnemonic = "quit planet meat weird health emerge uphold owner spike fringe fluid art";
+var mnemonic = "gossip enemy bread october umbrella interest plunge addict minimum feel size column";

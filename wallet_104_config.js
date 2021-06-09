@@ -1,1 +1,1 @@
-var mnemonic = "true salmon lottery burden canvas exhaust report course remind segment pact creek";
+var mnemonic = "purchase script blind corn dumb guilt sense charge twenty pride apology van";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve voice annual stamp mesh gallery pigeon digital change gym world promote";
+var mnemonic = "soup close payment music exercise rigid acquire arrive useful soup stick direct";

@@ -1,1 +1,1 @@
-var mnemonic = "phone dog ritual romance camp photo spoon ask raise town fix cactus";
+var mnemonic = "satisfy leisure town tell real mansion wife world minimum mansion that portion";

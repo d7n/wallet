@@ -1,1 +1,1 @@
-var mnemonic = "music region menu super girl salute gaze reason shy lazy rubber trick";
+var mnemonic = "common stay page palace state hero middle web page device bracket head";

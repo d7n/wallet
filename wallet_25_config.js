@@ -1,1 +1,1 @@
-var mnemonic = "kit hunt verb surround gentle lend buzz picnic table brand motor sphere";
+var mnemonic = "episode innocent hammer kingdom ketchup rib course position movie glass comfort soccer";

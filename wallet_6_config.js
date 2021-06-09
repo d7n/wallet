@@ -1,1 +1,1 @@
-var mnemonic = "enrich analyst world morning cave earth other thrive category rude usage gain";
+var mnemonic = "donate rate predict tenant forest celery area city dose reduce fog adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "orient vault slam child disagree void interest inform crucial gorilla stem fence";
+var mnemonic = "anger over crush direct refuse trend ivory crystal useful head remember warrior";

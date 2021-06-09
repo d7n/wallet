@@ -1,1 +1,1 @@
-var mnemonic = "crater ordinary pistol magic front blast insect act tuition coyote endorse bubble";
+var mnemonic = "define magic face talent cargo slow wealth season property eager tornado occur";

@@ -1,1 +1,1 @@
-var mnemonic = "science limit burst salad pistol reform dress faculty enable mountain rib island";
+var mnemonic = "stomach because crouch claim blast sun ten noodle crowd maid swing seek";

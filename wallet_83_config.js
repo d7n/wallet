@@ -1,1 +1,1 @@
-var mnemonic = "knife brief paper oyster process frost desk pumpkin vast uncover stumble seminar";
+var mnemonic = "patient come sadness season force orient elegant snake move spot edit source";

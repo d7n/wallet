@@ -1,1 +1,1 @@
-var mnemonic = "sponsor one unfair depend build glance purchase exotic quote mobile reduce margin";
+var mnemonic = "quarter switch half display shoot output material shine photo pencil light super";

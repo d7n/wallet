@@ -1,1 +1,1 @@
-var mnemonic = "program alien beyond popular afford carry grow cluster fancy similar romance width";
+var mnemonic = "milk pen myself burst predict deposit crop decide tunnel defense patch draft";

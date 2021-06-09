@@ -1,1 +1,1 @@
-var mnemonic = "kite heavy social endless raise bargain town hope review creek oak pistol";
+var mnemonic = "cruise wheat ready leisure sad grain mask potato tattoo puzzle surface clever";

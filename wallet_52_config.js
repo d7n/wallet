@@ -1,1 +1,1 @@
-var mnemonic = "diagram write fancy sibling step gym machine black robot jungle scene tobacco";
+var mnemonic = "scrub dizzy coach envelope consider venture captain right ready foot agree solar";

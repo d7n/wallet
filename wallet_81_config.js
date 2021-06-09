@@ -1,1 +1,1 @@
-var mnemonic = "traffic season viable glue pupil legend cat lawsuit tuition absent undo trumpet";
+var mnemonic = "mutual caution route awkward truly sugar figure evoke until armed recipe music";

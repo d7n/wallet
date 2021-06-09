@@ -1,1 +1,1 @@
-var mnemonic = "long seat science true deal say rural ranch eager remember wedding bicycle";
+var mnemonic = "concert broccoli meadow neglect chest rail attack round license debris cheap moment";

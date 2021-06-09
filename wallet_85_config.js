@@ -1,1 +1,1 @@
-var mnemonic = "tiger reopen film iron insane convince almost ice destroy west rabbit wedding";
+var mnemonic = "assume ostrich enter dinner olympic lemon gun artefact lake insane dance duck";

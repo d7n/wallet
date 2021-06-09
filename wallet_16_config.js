@@ -1,1 +1,1 @@
-var mnemonic = "until denial busy parade code trash risk orient wealth useful topple toy";
+var mnemonic = "cube kangaroo ceiling label chunk guitar today glide illegal flame debate fatigue";
