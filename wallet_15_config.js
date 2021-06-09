@@ -1,1 +1,1 @@
-var mnemonic = "invest interest prefer dad link hard erupt cake special opera girl slide";
+var mnemonic = "fortune bunker core second garlic change crash exact purchase throw energy verb";

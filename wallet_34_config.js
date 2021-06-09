@@ -1,1 +1,1 @@
-var mnemonic = "push liberty paddle rare bundle shadow air swallow cannon senior supply napkin";
+var mnemonic = "burst spoil increase flower hard improve across net direct metal help surface";

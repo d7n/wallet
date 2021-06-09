@@ -1,1 +1,1 @@
-var mnemonic = "bulk shop now cat upset luxury express section install own frozen what";
+var mnemonic = "idle found dog increase ghost dash horror sphere royal build detect harbor";

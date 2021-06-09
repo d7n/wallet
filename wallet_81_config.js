@@ -1,1 +1,1 @@
-var mnemonic = "hospital mass patient action slab chicken believe family federal equal bag senior";
+var mnemonic = "ocean audit clap next steel future gospel impact degree gun column acid";

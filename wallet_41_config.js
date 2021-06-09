@@ -1,1 +1,1 @@
-var mnemonic = "such phrase enhance attitude drastic trap picnic slush breeze because depend devote";
+var mnemonic = "indicate derive year coral trial faculty attitude organ crack wish sting twist";

@@ -1,1 +1,1 @@
-var mnemonic = "relief armor evidence pet camera fury picture elbow lens have earn float";
+var mnemonic = "jump chest bronze notice amateur parade first second allow purchase lizard engine";

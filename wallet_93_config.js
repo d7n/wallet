@@ -1,1 +1,1 @@
-var mnemonic = "focus crack frog south crop target zoo now nasty blanket false chalk";
+var mnemonic = "shock mammal minor expand general stock pulse brave asthma special magic foot";

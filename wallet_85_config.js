@@ -1,1 +1,1 @@
-var mnemonic = "satisfy onion stuff clinic drip flat truth surround century shaft wolf select";
+var mnemonic = "direct vital siren avoid prevent benefit loud promote meat bitter glad remove";

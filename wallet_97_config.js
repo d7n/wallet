@@ -1,1 +1,1 @@
-var mnemonic = "tone turtle opinion welcome sense rifle outside share inject snap session spirit";
+var mnemonic = "misery debate patch age ill comfort neck crane purpose top client hungry";

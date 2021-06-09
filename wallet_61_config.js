@@ -1,1 +1,1 @@
-var mnemonic = "celery collect address boil wrong trick true jar beyond unique once theme";
+var mnemonic = "siren valid stay pair alpha jump scrub rebuild canal rally gift version";

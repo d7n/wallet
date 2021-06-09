@@ -1,1 +1,1 @@
-var mnemonic = "huge admit rather genuine cactus meat roast pudding follow ecology essence select";
+var mnemonic = "sphere local biology nut only during member sugar giant swarm actual green";

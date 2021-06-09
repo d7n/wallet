@@ -1,1 +1,1 @@
-var mnemonic = "razor afford glow modify announce fame smart shy disagree grocery bar cargo";
+var mnemonic = "bird warfare act trial wisdom column shine such hospital page faculty airport";

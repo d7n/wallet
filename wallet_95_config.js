@@ -1,1 +1,1 @@
-var mnemonic = "drink follow broom sail kiwi satisfy code defense cool minimum divert sauce";
+var mnemonic = "two luggage thrive way regular spin grass canyon fog festival hen fat";

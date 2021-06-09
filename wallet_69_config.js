@@ -1,1 +1,1 @@
-var mnemonic = "three enjoy engage west bamboo gaze decrease quote finger brain oak trial";
+var mnemonic = "maximum rent frog clean uphold parade february mad cousin top ocean kitten";

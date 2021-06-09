@@ -1,1 +1,1 @@
-var mnemonic = "adjust chalk merry bid across total milk truly neck tuition burden into";
+var mnemonic = "basic mom child degree super amount above child tired marble almost amused";

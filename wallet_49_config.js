@@ -1,1 +1,1 @@
-var mnemonic = "dizzy air clip shop upon banana dash coffee insane stairs wrestle marine";
+var mnemonic = "siege stereo close glare patch strong deal thumb wall option security release";

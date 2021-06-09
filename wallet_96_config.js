@@ -1,1 +1,1 @@
-var mnemonic = "pupil urge ride symbol weird miracle health invite decorate just imitate ceiling";
+var mnemonic = "hidden hire skin purchase release fall fine leopard pepper sock claim funny";

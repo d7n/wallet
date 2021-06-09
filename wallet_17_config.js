@@ -1,1 +1,1 @@
-var mnemonic = "lobster cat stove margin equip alley they sell coach faith will rotate";
+var mnemonic = "medal fortune meadow gap whip harsh main buzz august flee unveil below";

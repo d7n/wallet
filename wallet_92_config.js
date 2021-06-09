@@ -1,1 +1,1 @@
-var mnemonic = "nation vast turtle tackle fence puzzle favorite pepper forest sorry obvious upgrade";
+var mnemonic = "round harvest step erosion snake vacant enable goose blast tired bronze wealth";

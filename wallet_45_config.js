@@ -1,1 +1,1 @@
-var mnemonic = "monster fame pen rapid cloth night ancient fringe tourist hawk coil warfare";
+var mnemonic = "movie bicycle invite chief limb cram game poem solar hurdle essence pen";

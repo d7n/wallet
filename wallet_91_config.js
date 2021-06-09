@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit liquid basic ankle bargain danger gaze prepare impulse spring fancy choice";
+var mnemonic = "motion seven film shoulder web ready silent luggage anxiety swarm already address";

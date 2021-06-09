@@ -1,1 +1,1 @@
-var mnemonic = "wood vanish verb mango dove whip multiply cereal toast file tobacco balcony";
+var mnemonic = "radio enroll buyer assist solid motor between goose harsh bundle maid garbage";

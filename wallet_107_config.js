@@ -1,1 +1,1 @@
-var mnemonic = "amused security high morning friend cruel misery assist essay inquiry drill float";
+var mnemonic = "wife foam medal lift bamboo paper rude garage search submit guitar panther";

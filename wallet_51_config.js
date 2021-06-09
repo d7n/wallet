@@ -1,1 +1,1 @@
-var mnemonic = "field solid animal resist fossil shiver stairs tonight cricket enjoy harsh try";
+var mnemonic = "powder try dizzy mosquito abandon topple walnut rotate boost phone payment reward";

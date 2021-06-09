@@ -1,1 +1,1 @@
-var mnemonic = "size venue entire return aerobic observe alcohol exit chapter push hard pottery";
+var mnemonic = "fall gown talent enable caught change elevator rough clinic victory bracket naive";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle knee cover split melt over hurt pig dust gown master sudden";
+var mnemonic = "exercise material boss injury pride equip seed device blue firm nice usage";

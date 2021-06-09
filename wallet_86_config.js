@@ -1,1 +1,1 @@
-var mnemonic = "brown similar cause approve fancy stadium model keep parrot lend inspire alert";
+var mnemonic = "vapor once popular plug flavor begin whip grief symptom recipe detect fashion";

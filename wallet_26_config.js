@@ -1,1 +1,1 @@
-var mnemonic = "water ethics manual slab plunge pen first outdoor human raccoon garage wrist";
+var mnemonic = "swing tackle fit sustain novel amateur adjust accident sick frog snap trumpet";

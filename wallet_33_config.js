@@ -1,1 +1,1 @@
-var mnemonic = "pattern velvet document trade fog cotton cake cactus fish rival report sheriff";
+var mnemonic = "strategy scrub banana system machine elephant strong catalog spawn abstract expect truck";

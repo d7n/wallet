@@ -1,1 +1,1 @@
-var mnemonic = "blame bacon inherit warrior scale swarm flash holiday memory barely moral used";
+var mnemonic = "lend cigar liquid mechanic sun push bottom proof vital mule census length";

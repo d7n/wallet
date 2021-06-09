@@ -1,1 +1,1 @@
-var mnemonic = "retire valve error match museum input sea science shy found settle mosquito";
+var mnemonic = "also legend service page act stick amazing salute muscle gas seminar eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate mammal foster onion choose miss hotel consider surprise drastic found broccoli";
+var mnemonic = "obey account brave claw churn find strike feature estate allow hidden foot";

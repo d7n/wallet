@@ -1,1 +1,1 @@
-var mnemonic = "hope invest sword caught hurt furnace alley essay head pull pipe tumble";
+var mnemonic = "assume road weather gospel edge mass snap chaos oak shoulder scare together";

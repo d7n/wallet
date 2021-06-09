@@ -1,1 +1,1 @@
-var mnemonic = "eternal float call dawn flat degree tank mule hollow trophy box business";
+var mnemonic = "apple print young sniff truly attack enact just bounce novel fiscal hope";

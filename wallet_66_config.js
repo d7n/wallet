@@ -1,1 +1,1 @@
-var mnemonic = "tone ask uniform rich apology regular found song second tuna pig useful";
+var mnemonic = "grief solar ivory cabin exotic entry potato gather twenty service metal common";

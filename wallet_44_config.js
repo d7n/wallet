@@ -1,1 +1,1 @@
-var mnemonic = "spin track park describe animal grocery galaxy dad tongue normal sunny motion";
+var mnemonic = "thing donate feed menu zebra fruit essay answer joke another peace wonder";

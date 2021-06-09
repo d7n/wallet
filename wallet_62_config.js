@@ -1,1 +1,1 @@
-var mnemonic = "enough sample vicious include must foam bracket act noodle father alley salon";
+var mnemonic = "blossom meadow vehicle prepare mammal churn various sniff tower plastic object useless";

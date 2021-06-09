@@ -1,1 +1,1 @@
-var mnemonic = "cereal nut spend rib hunt sand bulk twist chapter prevent rival siren";
+var mnemonic = "medal rely half sadness improve fabric gospel illness venture plastic company camp";

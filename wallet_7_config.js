@@ -1,1 +1,1 @@
-var mnemonic = "mandate awesome mother glory muscle more orient moment space drastic mass goddess";
+var mnemonic = "bone mobile nerve panic wild eternal cover exhaust orient off minute warrior";

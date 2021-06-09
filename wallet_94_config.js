@@ -1,1 +1,1 @@
-var mnemonic = "appear stand eyebrow teach air answer radar affair quantum inherit scissors dance";
+var mnemonic = "whale other toy daughter wasp team rebel prevent rice menu fat enter";

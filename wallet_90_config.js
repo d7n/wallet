@@ -1,1 +1,1 @@
-var mnemonic = "faint rail lounge shy sunny army glare purchase hybrid grab stereo announce";
+var mnemonic = "success cement embark galaxy tennis start orient warm cat sugar april mercy";

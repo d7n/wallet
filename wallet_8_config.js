@@ -1,1 +1,1 @@
-var mnemonic = "hour robust skirt exit casual blouse off hour slim mouse belt north";
+var mnemonic = "horn liberty neglect twist movie suspect friend hole craft melody safe lawsuit";

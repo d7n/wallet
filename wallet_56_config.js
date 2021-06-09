@@ -1,1 +1,1 @@
-var mnemonic = "mosquito deer coil seek boring pottery truth promote evoke silly spy label";
+var mnemonic = "tomato satisfy term off depend leaf neutral token decide equal level raccoon";

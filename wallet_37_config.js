@@ -1,1 +1,1 @@
-var mnemonic = "combine remain casino project cargo budget express pottery cheap job pupil estate";
+var mnemonic = "desk square coil place survey sense hour spatial service feature birth loan";

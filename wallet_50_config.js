@@ -1,1 +1,1 @@
-var mnemonic = "north zone empower room file crystal nest income eye glance thrive canoe";
+var mnemonic = "have youth lizard cause napkin pencil outer student direct pudding gloom domain";

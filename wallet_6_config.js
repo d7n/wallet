@@ -1,1 +1,1 @@
-var mnemonic = "skull mixed call wash render oblige unfold wife jaguar wild siren project";
+var mnemonic = "duck supreme gospel burden artefact tuna gesture field since banner fix offer";

@@ -1,1 +1,1 @@
-var mnemonic = "flat weird manual worth weasel tilt settle blue useless skin erase patrol";
+var mnemonic = "cram expire group lonely doll bronze wage mule marriage gym print want";

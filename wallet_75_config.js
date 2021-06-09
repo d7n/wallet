@@ -1,1 +1,1 @@
-var mnemonic = "mammal squirrel rice discover fog bird pill lava clay wrap visa way";
+var mnemonic = "hybrid economy crane edge square soccer milk off rose evolve seven nice";

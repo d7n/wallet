@@ -1,1 +1,1 @@
-var mnemonic = "fury stadium doll trim inject pact leader dry begin case pretty earth";
+var mnemonic = "sell bread boss live palace disease art earth seat surge smart glad";

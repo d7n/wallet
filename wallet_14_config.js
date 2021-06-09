@@ -1,1 +1,1 @@
-var mnemonic = "valve please script april reduce lucky top sick juice panther just always";
+var mnemonic = "invite faculty regular caution crisp guilt price open dumb add expand regret";

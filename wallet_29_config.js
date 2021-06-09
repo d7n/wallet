@@ -1,1 +1,1 @@
-var mnemonic = "symbol tonight onion pretty budget bitter sail never evoke initial unaware patrol";
+var mnemonic = "romance acid used sunny drama drink camp space develop pill matrix pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo essence acquire claim country venue differ wild become dream scorpion recall";
+var mnemonic = "riot angle latin pluck capable reflect gold rabbit screen survey drop chief";

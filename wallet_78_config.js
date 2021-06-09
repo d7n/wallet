@@ -1,1 +1,1 @@
-var mnemonic = "found scatter sketch hunt rally victory regret final erosion carpet gown retreat";
+var mnemonic = "nature cover nerve small crawl pumpkin bless employ pair visual night bird";

@@ -1,1 +1,1 @@
-var mnemonic = "increase shallow story violin cattle abstract cave proud inner total wreck alarm";
+var mnemonic = "brand brick glow mutual length flower next above cup critic eyebrow know";

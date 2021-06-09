@@ -1,1 +1,1 @@
-var mnemonic = "large promote cash city journey picnic yard giggle cube lonely whale tunnel";
+var mnemonic = "veteran repeat toward mansion swap forest liberty swim crazy oxygen draw color";

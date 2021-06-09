@@ -1,1 +1,1 @@
-var mnemonic = "inside soccer card goddess green else muffin kingdom satisfy live venture divide";
+var mnemonic = "tilt grass era nice pottery island crane coil patch aware bone start";

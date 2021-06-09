@@ -1,1 +1,1 @@
-var mnemonic = "cube prison brick apple across roast adapt clay jewel pill hen echo";
+var mnemonic = "video sail science sorry radar occur achieve course forum gift recipe install";

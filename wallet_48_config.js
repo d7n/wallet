@@ -1,1 +1,1 @@
-var mnemonic = "next source measure drift sea hold kite ginger weapon future trash admit";
+var mnemonic = "hire depend scale avoid afford squeeze injury visit ancient citizen chair absorb";

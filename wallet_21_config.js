@@ -1,1 +1,1 @@
-var mnemonic = "brown kick find wash shiver tennis fix deer this cliff enforce invest";
+var mnemonic = "actor hurry display journey sunset alcohol behind crowd rich audit extend wealth";

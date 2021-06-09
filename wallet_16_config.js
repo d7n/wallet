@@ -1,1 +1,1 @@
-var mnemonic = "pear popular puzzle address detect quote era blue problem cheese palm cloud";
+var mnemonic = "chicken soldier carbon transfer near category record drum decrease never organ pass";

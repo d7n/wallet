@@ -1,1 +1,1 @@
-var mnemonic = "option cattle tomorrow gauge clump buffalo guess cluster erosion imitate very goddess";
+var mnemonic = "stove slender airport spoil smoke coyote under audit payment derive divert inmate";

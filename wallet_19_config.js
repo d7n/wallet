@@ -1,1 +1,1 @@
-var mnemonic = "save frequent ancient right pool champion bargain enforce setup duck pioneer usage";
+var mnemonic = "census obscure glass advice taste save lion dust choose ranch fury nominee";

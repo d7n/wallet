@@ -1,1 +1,1 @@
-var mnemonic = "seed gold pair enact hotel off army infant guide view reason frame";
+var mnemonic = "melt finger evil cushion duck come only furnace breeze suspect total arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "artist share leader join regular casual school easy lyrics smoke tell human";
+var mnemonic = "list summer father purse ski erosion danger dice nominee neither park member";

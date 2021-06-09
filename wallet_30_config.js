@@ -1,1 +1,1 @@
-var mnemonic = "jacket mad lazy wood correct gravity envelope illegal receive hamster calm shallow";
+var mnemonic = "amateur person legal bonus unveil winner utility winner brush social normal usual";

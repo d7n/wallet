@@ -1,1 +1,1 @@
-var mnemonic = "essence debate pilot indoor divorce parent boss hover rug minimum fat swallow";
+var mnemonic = "layer minute volume oak urban poet pilot airport marine sugar ankle title";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp romance chunk nation yellow defense vast under sibling rural supply ginger";
+var mnemonic = "endless gym behave trip void resist luggage payment owner morning glad various";

@@ -1,1 +1,1 @@
-var mnemonic = "floor victory search rib voice summer shrug smooth detail prison estate elbow";
+var mnemonic = "return poem company cinnamon board amount large try echo soup erase arrive";

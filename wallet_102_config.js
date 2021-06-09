@@ -1,1 +1,1 @@
-var mnemonic = "glance clean crash mistake cave insane better return physical omit lecture very";
+var mnemonic = "pave pudding belt oblige camera glow possible flash wrap observe curtain cloud";

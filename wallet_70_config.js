@@ -1,1 +1,1 @@
-var mnemonic = "someone pipe song report trumpet wrap valid equal town garbage slim birth";
+var mnemonic = "unknown deal fork trim veteran engage orange loyal spice rhythm renew cabin";

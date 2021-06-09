@@ -1,1 +1,1 @@
-var mnemonic = "song exclude second fold demise oyster online crumble involve clip setup chest";
+var mnemonic = "ski dismiss charge shine risk emotion state where tomorrow permit check crater";

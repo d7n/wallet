@@ -1,1 +1,1 @@
-var mnemonic = "fun forget corn sorry amateur upset shock ancient argue vapor year across";
+var mnemonic = "deer salmon celery surprise cancel supreme bread beauty power palace discover width";

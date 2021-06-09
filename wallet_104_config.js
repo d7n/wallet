@@ -1,1 +1,1 @@
-var mnemonic = "vital inherit short fossil foam before chicken portion lounge weird cheese sausage";
+var mnemonic = "involve slogan dice someone pretty bicycle lawsuit already service beach dust news";

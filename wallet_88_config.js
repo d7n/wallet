@@ -1,1 +1,1 @@
-var mnemonic = "myself live service spot million burst recipe people sport miracle picture north";
+var mnemonic = "start gate rigid brand run spy sick wash hollow decrease obscure word";

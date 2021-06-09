@@ -1,1 +1,1 @@
-var mnemonic = "robust pigeon rural problem demand pelican more cram foil document bullet release";
+var mnemonic = "dismiss foam this treat anchor broken nominee face rebel day write myth";

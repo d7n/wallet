@@ -1,1 +1,1 @@
-var mnemonic = "virtual elite eyebrow snow puzzle bottom fantasy unique repair gym junior focus";
+var mnemonic = "submit effort census scorpion balance purpose gospel syrup better release anchor easily";

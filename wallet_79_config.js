@@ -1,1 +1,1 @@
-var mnemonic = "burst claw tragic gym inherit rate dizzy embark seed survey mosquito wish";
+var mnemonic = "awesome slim enable faculty enjoy moment asset tornado plastic where obvious slogan";

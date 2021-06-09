@@ -1,1 +1,1 @@
-var mnemonic = "appear bronze leave roof nest document volcano marine funny debris resource coconut";
+var mnemonic = "decline clap abstract love mass cupboard brand actor term reopen grow describe";

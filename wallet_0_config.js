@@ -1,1 +1,1 @@
-var mnemonic = "vivid logic collect defense indicate master rail mobile news apology gaze guilt";
+var mnemonic = "country library lumber laugh inhale length effort hand diary about private winter";

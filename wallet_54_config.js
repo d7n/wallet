@@ -1,1 +1,1 @@
-var mnemonic = "park virus parade plunge trouble planet green shield pull found leg rebel";
+var mnemonic = "joke ethics material virus moment tide tumble soda december web account device";

@@ -1,1 +1,1 @@
-var mnemonic = "enough theme vibrant sea return mix valley plastic faint cherry egg slam";
+var mnemonic = "nephew brown manage chalk general note hand fatal true guilt ball congress";

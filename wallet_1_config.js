@@ -1,1 +1,1 @@
-var mnemonic = "repair quote skull cereal deal trouble bread sausage indoor submit scrap entry";
+var mnemonic = "source retreat potato mom ritual dish mind alert globe pink lake repair";

@@ -1,1 +1,1 @@
-var mnemonic = "slot chimney chaos borrow road meat become solid pulp noble hint december";
+var mnemonic = "long car ocean student miracle burden sibling time they spot machine tower";

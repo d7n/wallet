@@ -1,1 +1,1 @@
-var mnemonic = "horn range era shove remain wrestle dragon release scissors patch army glow";
+var mnemonic = "drift brand cry buyer prison bullet social index inspire myth poet mercy";

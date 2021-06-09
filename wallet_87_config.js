@@ -1,1 +1,1 @@
-var mnemonic = "spin cricket sample input witness solar change wool ability gun vacant prepare";
+var mnemonic = "hood junk maid puzzle wedding group struggle release rubber play print double";

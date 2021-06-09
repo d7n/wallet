@@ -1,1 +1,1 @@
-var mnemonic = "cream grace mountain unique will spray require detail fiber rather soap direct";
+var mnemonic = "aisle ride scatter enable solar income trust mom junior good first oxygen";

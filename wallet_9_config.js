@@ -1,1 +1,1 @@
-var mnemonic = "erode drastic inflict hen vital roast doctor walnut increase gesture town grow";
+var mnemonic = "wrist bomb secret member usage frozen wire monster world around recipe hurry";

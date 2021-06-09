@@ -1,1 +1,1 @@
-var mnemonic = "chapter broken master mango episode pioneer business sketch soldier fix someone dragon";
+var mnemonic = "opinion illness ring bridge reflect denial toast model album chief earn float";

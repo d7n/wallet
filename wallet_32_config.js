@@ -1,1 +1,1 @@
-var mnemonic = "keen sheriff during pudding flavor rescue basket coffee athlete attract shove cricket";
+var mnemonic = "ugly music truth nut they unknown aim help unknown estate asthma begin";

@@ -1,1 +1,1 @@
-var mnemonic = "state laptop nation rookie catalog payment pull age saddle weather broken sibling";
+var mnemonic = "volcano alert reveal fiction treat danger ladder comic design knee worth witness";

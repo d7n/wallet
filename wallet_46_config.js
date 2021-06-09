@@ -1,1 +1,1 @@
-var mnemonic = "slice hazard stadium nest copper cotton own bus next electric story define";
+var mnemonic = "ozone enhance enter slogan split infant reopen tool traffic acoustic chair tired";
