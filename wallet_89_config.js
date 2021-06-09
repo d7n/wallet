@@ -1,1 +1,1 @@
-var mnemonic = "family connect chunk orbit chalk flush limb place entire ankle decade butter";
+var mnemonic = "amused gauge blind grocery vintage unaware animal double cliff provide achieve trust";

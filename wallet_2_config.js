@@ -1,1 +1,1 @@
-var mnemonic = "blame stove pill hammer mobile guitar edge order mean amount seat mass";
+var mnemonic = "grid cream announce cake battle inherit clerk burden unfold hat shallow total";

@@ -1,1 +1,1 @@
-var mnemonic = "fly extra easily struggle little fury bridge capital muffin boring permit coffee";
+var mnemonic = "spend poverty warfare camera swift actress fat student illegal upper ugly settle";

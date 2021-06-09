@@ -1,1 +1,1 @@
-var mnemonic = "uncle notice oak prison habit lesson detect negative session tilt bamboo crisp";
+var mnemonic = "organ impulse bike rapid session consider medal cruise subway weapon million spray";

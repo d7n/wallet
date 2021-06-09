@@ -1,1 +1,1 @@
-var mnemonic = "hungry attract life proud diary matrix crawl work faculty dutch another physical";
+var mnemonic = "lottery illegal obtain lucky quarter opera inject weapon kite account dismiss electric";

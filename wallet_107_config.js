@@ -1,1 +1,1 @@
-var mnemonic = "fee intact wool drip dinosaur faculty cross face bomb end float cabin";
+var mnemonic = "erase quick appear attract direct flat random exotic suffer cup gallery uphold";

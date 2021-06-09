@@ -1,1 +1,1 @@
-var mnemonic = "dose twelve write hover truth long mountain private siege chuckle focus wrist";
+var mnemonic = "again liberty dish loud garbage charge until target follow soul offer order";

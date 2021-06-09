@@ -1,1 +1,1 @@
-var mnemonic = "mango gather bonus easy between brass fat impulse help label faith humor";
+var mnemonic = "leisure wool gadget ghost tribe section cattle evolve asthma churn dirt arrange";

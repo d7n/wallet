@@ -1,1 +1,1 @@
-var mnemonic = "crime great safe rifle rude pen ball visual analyst tree night movie";
+var mnemonic = "disagree mosquito chuckle marriage impose lake camp zoo thunder tray expose meat";

@@ -1,1 +1,1 @@
-var mnemonic = "word turkey move treat approve field staff wealth happy dry plate soccer";
+var mnemonic = "blast swift mouse exact tattoo curve inmate problem glove tortoise assist fatal";

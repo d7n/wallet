@@ -1,1 +1,1 @@
-var mnemonic = "abandon visa attend health catch moon fabric refuse kangaroo urge knee reform";
+var mnemonic = "small card brother arch remind remind employ faith iron discover supply bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "sock able sport gloom know marine palm dinosaur jaguar jump pretty hen";
+var mnemonic = "attend tip hedgehog position choose nation acoustic artist tool only skin book";

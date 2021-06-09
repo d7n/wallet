@@ -1,1 +1,1 @@
-var mnemonic = "vivid private collect pudding puzzle faculty dismiss black proof blouse lake genre";
+var mnemonic = "bleak auto argue ski hurt muffin waste coyote unfair title flame industry";

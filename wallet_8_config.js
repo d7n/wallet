@@ -1,1 +1,1 @@
-var mnemonic = "taxi tape supply proud negative sheriff lake zone rude filter lion reward";
+var mnemonic = "innocent antique seek shrimp thunder cricket ship fire omit keen grape critic";

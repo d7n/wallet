@@ -1,1 +1,1 @@
-var mnemonic = "segment survey still fine cheap walk turkey hotel spirit return fog frost";
+var mnemonic = "upset twist unveil food skin disease bright orbit electric person mosquito front";

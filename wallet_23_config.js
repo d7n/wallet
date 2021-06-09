@@ -1,1 +1,1 @@
-var mnemonic = "beauty jazz weasel version faculty render cherry video sure rely toss treat";
+var mnemonic = "example lion result mistake uniform use found guide afraid cause prize shop";

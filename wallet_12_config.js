@@ -1,1 +1,1 @@
-var mnemonic = "elbow knife gap dream pear frame boat only female prefer resemble fantasy";
+var mnemonic = "stadium proof toe garment rain inject tide pen warm stable permit token";

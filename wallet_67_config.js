@@ -1,1 +1,1 @@
-var mnemonic = "caught beyond van cover away tunnel ecology fashion dinner resemble option satoshi";
+var mnemonic = "portion problem range essay essence control begin toss nuclear wagon divorce tomorrow";

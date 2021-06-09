@@ -1,1 +1,1 @@
-var mnemonic = "fold runway imitate sudden unfair spot myself interest medal amateur now pyramid";
+var mnemonic = "manage conduct floor element modify puppy tent correct brush lyrics urban gravity";

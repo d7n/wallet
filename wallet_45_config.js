@@ -1,1 +1,1 @@
-var mnemonic = "opinion grit enemy easily frame eight end legend goose tag gown ill";
+var mnemonic = "drift vendor dutch kite void lyrics globe vault vault nerve fabric later";

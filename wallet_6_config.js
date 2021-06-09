@@ -1,1 +1,1 @@
-var mnemonic = "pool vessel uniform raise vibrant ceiling air doll remove simple comfort average";
+var mnemonic = "hazard admit tragic differ emerge apart stove leaf capital holiday radio quit";

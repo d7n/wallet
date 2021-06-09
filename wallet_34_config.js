@@ -1,1 +1,1 @@
-var mnemonic = "better miss human rich neck loyal daring trip latin radar pass surround";
+var mnemonic = "very modify advice detail dune army shoot rigid bracket minimum twenty mirror";

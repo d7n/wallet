@@ -1,1 +1,1 @@
-var mnemonic = "woman soda receive roof call pudding clinic echo occur student find disease";
+var mnemonic = "sick kitten celery cruise resource bird clutch calm entry arctic prize mail";

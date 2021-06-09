@@ -1,1 +1,1 @@
-var mnemonic = "fog grab lawn base bicycle rain pair wedding version popular acquire body";
+var mnemonic = "evoke until verify march manage will spring garbage forward harbor arrive luxury";

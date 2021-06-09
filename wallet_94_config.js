@@ -1,1 +1,1 @@
-var mnemonic = "neglect victory dentist lyrics matrix lizard curve skull nut siren obtain suffer";
+var mnemonic = "swarm survey victory blossom celery replace ladder afford casino inner echo friend";

@@ -1,1 +1,1 @@
-var mnemonic = "away young float cry ensure woman meadow void chef adapt involve olympic";
+var mnemonic = "deer clean husband meat silver limb charge eight guitar wheel elder relief";

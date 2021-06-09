@@ -1,1 +1,1 @@
-var mnemonic = "bottom neck negative assume radio peanut please example hedgehog travel civil estate";
+var mnemonic = "box organ few title piece quarter love dolphin much truly fade demand";

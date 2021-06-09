@@ -1,1 +1,1 @@
-var mnemonic = "what print unhappy clerk old cruise sting genre half flush trust mouse";
+var mnemonic = "topic cat broken palm winter canal celery drink thought negative glow rug";

@@ -1,1 +1,1 @@
-var mnemonic = "fit empower extend lobster stay steel fashion spin muscle load engine ten";
+var mnemonic = "element icon short brother civil fatigue verb give busy foil dutch cricket";

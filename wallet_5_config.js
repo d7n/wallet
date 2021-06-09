@@ -1,1 +1,1 @@
-var mnemonic = "clog race giraffe alpha hole length jar flight liberty want reform bronze";
+var mnemonic = "chair vibrant typical method ready refuse inside exact oil end bless voyage";

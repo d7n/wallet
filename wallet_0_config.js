@@ -1,1 +1,1 @@
-var mnemonic = "year exile afford side repeat illness normal police goat chat offer renew";
+var mnemonic = "turkey card network large hospital figure melt law finish swift distance deposit";

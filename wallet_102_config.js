@@ -1,1 +1,1 @@
-var mnemonic = "trap awkward bulk mandate point cliff farm stuff car olive lemon grape";
+var mnemonic = "breeze ketchup trend almost around fame acquire donor hundred story memory grow";

@@ -1,1 +1,1 @@
-var mnemonic = "potato brass inmate gift width renew reason swear beyond sail purity return";
+var mnemonic = "glimpse arch foil abuse bronze letter nose nominee hospital paddle hobby elbow";

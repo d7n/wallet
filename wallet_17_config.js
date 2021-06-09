@@ -1,1 +1,1 @@
-var mnemonic = "farm embark involve garage fine twelve toilet curious praise spare sample ugly";
+var mnemonic = "mass attack crouch wise gasp cheap pudding initial reward accident cloud travel";

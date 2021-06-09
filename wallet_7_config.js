@@ -1,1 +1,1 @@
-var mnemonic = "ready main radio name write cry return utility sunny shoe radar sadness";
+var mnemonic = "fire kangaroo cash sample gallery brain multiply order civil public crew mention";

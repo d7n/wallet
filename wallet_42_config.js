@@ -1,1 +1,1 @@
-var mnemonic = "soldier heart spawn kangaroo just impulse defy engage donor physical axis tower";
+var mnemonic = "truth skin predict strong sting happy exist soda miracle like suspect marine";

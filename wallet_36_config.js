@@ -1,1 +1,1 @@
-var mnemonic = "slam venture wish bus carbon purity clutch destroy latin park arch health";
+var mnemonic = "struggle unaware clay badge gaze nation annual merit diagram camera defense copy";

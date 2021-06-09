@@ -1,1 +1,1 @@
-var mnemonic = "upgrade hood prefer edit poem grape wheat able border move flock illness";
+var mnemonic = "discover nuclear salon cart chef nut pistol fashion quarter civil oyster tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "sample jealous clap survey inform misery swim century negative bench catalog chunk";
+var mnemonic = "clown rocket there doctor avoid body slow depth erosion inform expose lesson";

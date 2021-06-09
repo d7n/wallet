@@ -1,1 +1,1 @@
-var mnemonic = "autumn garage thank forward first cheap magic lunch teach action obscure frog";
+var mnemonic = "oil scale size future sound diesel thunder cancel valve aim castle submit";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe rally river affair void satoshi two clump special wagon fancy comfort";
+var mnemonic = "connect ethics garbage allow lamp movie aunt smile proof cry very soft";

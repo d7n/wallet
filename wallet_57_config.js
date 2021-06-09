@@ -1,1 +1,1 @@
-var mnemonic = "pottery adapt liquid caution sand wasp maze escape measure exhaust seed buddy";
+var mnemonic = "ozone claw final good pledge hold business oppose effort various gym stumble";

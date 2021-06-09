@@ -1,1 +1,1 @@
-var mnemonic = "crack solid fantasy crisp angry cotton swallow dad harsh rocket gallery hold";
+var mnemonic = "rug curious hip mouse valley lunch elder gallery scan matter tackle bright";

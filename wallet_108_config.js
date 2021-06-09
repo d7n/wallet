@@ -1,1 +1,1 @@
-var mnemonic = "breeze hair stock predict announce popular nest ginger soda box tiger nuclear";
+var mnemonic = "human stuff frozen shine hint combine force maze client antique hammer help";

@@ -1,1 +1,1 @@
-var mnemonic = "switch shoe lawn private evolve segment much fence venue sort frequent gesture";
+var mnemonic = "air cradle fluid fiber ribbon demise hazard doctor cube avoid category favorite";

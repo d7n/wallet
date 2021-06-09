@@ -1,1 +1,1 @@
-var mnemonic = "sure sand then brave valley dolphin bulb legal true amazing village august";
+var mnemonic = "ocean teach flag top glide yellow arena sustain pigeon green network clip";

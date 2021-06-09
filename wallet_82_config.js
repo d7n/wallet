@@ -1,1 +1,1 @@
-var mnemonic = "crater elevator spend jungle spray magic flee dial unknown all special music";
+var mnemonic = "jacket party nest similar gossip innocent reform desert office black master recipe";

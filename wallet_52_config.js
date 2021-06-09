@@ -1,1 +1,1 @@
-var mnemonic = "alone fork nose off follow better city improve defense proof drop rescue";
+var mnemonic = "faint control worry swap hundred cannon able uphold cube art result jump";

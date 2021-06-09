@@ -1,1 +1,1 @@
-var mnemonic = "diagram churn clown federal coyote range organ attitude book bottom item cliff";
+var mnemonic = "talent clap supreme plug decorate arena talk city science educate that jealous";

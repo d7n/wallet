@@ -1,1 +1,1 @@
-var mnemonic = "bottom rabbit sand advance gaze sound fan december gold tomorrow inmate guess";
+var mnemonic = "merge fault economy slush ribbon snow chimney orange season food price march";

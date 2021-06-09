@@ -1,1 +1,1 @@
-var mnemonic = "glad motion hint alien bonus tower aunt funny pepper ski eye habit";
+var mnemonic = "column regret master foot rookie image adjust machine scrub syrup climb snack";

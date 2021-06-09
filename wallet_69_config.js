@@ -1,1 +1,1 @@
-var mnemonic = "shop laundry family ridge cave sunset you congress mean gentle guard comic";
+var mnemonic = "panda blast ride like main turn dove chaos ship idea spawn lift";

@@ -1,1 +1,1 @@
-var mnemonic = "fever loud belt anchor horn road virus salad power human boil blossom";
+var mnemonic = "quit wood tribe upon lunch evolve ride spatial attack talent harsh hour";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch garbage brown suit outside captain enter lion silent dinosaur comic payment";
+var mnemonic = "pause attract call language attitude cable silent faith fiction venue bulk vendor";

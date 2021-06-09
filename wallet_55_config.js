@@ -1,1 +1,1 @@
-var mnemonic = "upon agent census penalty stick matrix fork music scout grunt shed notice";
+var mnemonic = "shoe rule feed robot outer lift kangaroo shallow office dwarf piece half";

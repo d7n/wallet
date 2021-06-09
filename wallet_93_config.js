@@ -1,1 +1,1 @@
-var mnemonic = "steel fog elevator earn attend click illegal uniform grit unique test decade";
+var mnemonic = "still glimpse matter nice jealous swap despair bind borrow luxury ready wife";

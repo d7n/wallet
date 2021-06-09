@@ -1,1 +1,1 @@
-var mnemonic = "swing grow essay width consider present sniff entry daring change plunge submit";
+var mnemonic = "clerk fury lunch knee question senior iron funny tuna ankle used hand";

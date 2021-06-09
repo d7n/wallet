@@ -1,1 +1,1 @@
-var mnemonic = "bicycle fade crack benefit pass tower size wise romance clerk secret romance";
+var mnemonic = "brown betray vendor gym wing prosper arch flavor arena frog dwarf rival";

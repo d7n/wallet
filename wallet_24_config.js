@@ -1,1 +1,1 @@
-var mnemonic = "program verify inhale material sell alter use identify hire chalk damp just";
+var mnemonic = "isolate neck hawk mushroom rescue timber indoor menu awful rule blush gallery";

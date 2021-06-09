@@ -1,1 +1,1 @@
-var mnemonic = "lecture stone chest wife crew access family meat mule tilt wild bacon";
+var mnemonic = "parrot occur foster crush flush furnace stick carpet cost blossom loop hedgehog";

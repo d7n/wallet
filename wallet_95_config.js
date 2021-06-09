@@ -1,1 +1,1 @@
-var mnemonic = "great sport boss erode win company slim true critic book mimic hurry";
+var mnemonic = "wolf address control vicious empty pilot sister depth later ostrich neck alcohol";

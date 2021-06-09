@@ -1,1 +1,1 @@
-var mnemonic = "asthma brown close speed steel ancient odor kite egg ugly few jazz";
+var mnemonic = "juice reopen giggle apology milk wasp crisp blame enhance strong pottery neutral";

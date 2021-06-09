@@ -1,1 +1,1 @@
-var mnemonic = "knife grab tooth goose scene donkey decade gadget canyon genius undo sample";
+var mnemonic = "sniff fade sustain predict shield strike gloom sudden witness differ file afford";

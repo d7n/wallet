@@ -1,1 +1,1 @@
-var mnemonic = "afraid lake sponsor cinnamon outdoor return truth cabbage patch omit matrix open";
+var mnemonic = "puzzle puzzle smile peasant also expect bomb mule praise jump shoulder avocado";

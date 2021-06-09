@@ -1,1 +1,1 @@
-var mnemonic = "fetch lumber asset open member twelve congress honey bronze south defy issue";
+var mnemonic = "badge frog visual fatal gaze motion soup vacuum spot sunset such recall";

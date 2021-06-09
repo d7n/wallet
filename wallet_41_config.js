@@ -1,1 +1,1 @@
-var mnemonic = "powder mom uncover barely story reform oyster unaware field erase dragon height";
+var mnemonic = "ship month light appear pattern vehicle human hazard magic clay snake author";

@@ -1,1 +1,1 @@
-var mnemonic = "humble visit cloud father antenna civil gorilla flee fatal cinnamon smart odor";
+var mnemonic = "evolve outer sword copy drill someone loyal trip child pool fruit soldier";

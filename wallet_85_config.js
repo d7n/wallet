@@ -1,1 +1,1 @@
-var mnemonic = "office shift raven private alert random struggle garage wool antenna dignity clerk";
+var mnemonic = "unlock flush walk club dry pink swallow dash drama fragile rescue april";

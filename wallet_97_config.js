@@ -1,1 +1,1 @@
-var mnemonic = "view pond boring turtle merge rhythm old dawn hobby click upper below";
+var mnemonic = "success rigid loyal identify vintage mistake whisper stairs day budget figure define";

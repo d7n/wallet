@@ -1,1 +1,1 @@
-var mnemonic = "dentist bonus govern aisle scheme oblige license shiver long short multiply crawl";
+var mnemonic = "uncle brass embrace hard drift maximum quit indoor guard cancel language floor";

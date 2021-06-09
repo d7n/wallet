@@ -1,1 +1,1 @@
-var mnemonic = "mouse orchard cigar sauce candy agree trial cradle flavor stadium world load";
+var mnemonic = "train raccoon emotion nuclear pencil unveil daughter mountain attract tornado unaware addict";

@@ -1,1 +1,1 @@
-var mnemonic = "sick wisdom soap divide raise decorate surface hazard exchange naive welcome swear";
+var mnemonic = "ostrich parrot matrix auction very puzzle south federal tuna kiwi adapt spray";

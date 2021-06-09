@@ -1,1 +1,1 @@
-var mnemonic = "acoustic what guard news tag end blur exotic delay print wage coconut";
+var mnemonic = "net citizen boat impulse push scrub erupt quarter earn speed keep brave";

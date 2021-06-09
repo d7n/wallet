@@ -1,1 +1,1 @@
-var mnemonic = "column dust orbit ostrich ensure three like final logic gold team salad";
+var mnemonic = "oil surface sketch develop bone tone opinion benefit fade genre forest suspect";

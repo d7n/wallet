@@ -1,1 +1,1 @@
-var mnemonic = "clock salute rule rare rack combine evil spring clay claw age cheap";
+var mnemonic = "buffalo fix mobile typical strike soccer clip bag sugar lab mobile fringe";

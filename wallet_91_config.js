@@ -1,1 +1,1 @@
-var mnemonic = "possible donor prefer key leg fabric culture assault cat medal voice decline";
+var mnemonic = "lucky valley survey reduce clay organ goddess undo lemon chat blast hidden";

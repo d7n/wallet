@@ -1,1 +1,1 @@
-var mnemonic = "danger punch bridge almost empty bonus into used width exhibit hero core";
+var mnemonic = "swear zero rent differ volume moral sure avocado morning rely certain believe";

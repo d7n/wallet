@@ -1,1 +1,1 @@
-var mnemonic = "city copper team bright spirit shoulder glow spin sun climb citizen obscure";
+var mnemonic = "useful siege fitness derive weasel kit behave strategy food earn end evil";

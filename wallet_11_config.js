@@ -1,1 +1,1 @@
-var mnemonic = "clay raccoon deliver concert song gift beef method dwarf pulse way excite";
+var mnemonic = "bicycle album fire box banana army crunch input drill erase panic cruise";

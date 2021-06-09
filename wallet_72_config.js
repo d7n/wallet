@@ -1,1 +1,1 @@
-var mnemonic = "letter kingdom scare report lady curious conduct excess across clerk brain catch";
+var mnemonic = "narrow mail turtle lake hen fly cycle hire alien baby inch tattoo";

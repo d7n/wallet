@@ -1,1 +1,1 @@
-var mnemonic = "charge awful weekend despair asthma conduct beach teach ride address follow depend";
+var mnemonic = "naive future magnet blush vintage actor huge rapid soup proof sting plastic";

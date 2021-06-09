@@ -1,1 +1,1 @@
-var mnemonic = "spawn retreat lunch lucky tell ship guess dice slide area company clown";
+var mnemonic = "east truck sail phone oil person melody sting replace scare already level";

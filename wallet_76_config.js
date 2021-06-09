@@ -1,1 +1,1 @@
-var mnemonic = "network salute rent change trophy artwork shock multiply struggle guide quiz lazy";
+var mnemonic = "worth dog ill loop prefer tobacco potato climb later ring conduct stairs";

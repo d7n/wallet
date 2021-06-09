@@ -1,1 +1,1 @@
-var mnemonic = "dilemma trust hero embody crowd brand use october appear great combine teach";
+var mnemonic = "sadness drive basket easy tree raven tuna emerge civil curtain angle skate";

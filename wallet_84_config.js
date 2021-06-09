@@ -1,1 +1,1 @@
-var mnemonic = "key sing enter venue hospital scare luggage anger hurdle canal motion tribe";
+var mnemonic = "ranch tuna fever wreck size upper burger degree alcohol rose tunnel cushion";

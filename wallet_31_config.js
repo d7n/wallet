@@ -1,1 +1,1 @@
-var mnemonic = "melody pottery soul cage clever garden border clump again huge earth obscure";
+var mnemonic = "power quote tumble reason horse mind man unlock library hollow guess top";

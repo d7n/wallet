@@ -1,1 +1,1 @@
-var mnemonic = "capital memory cotton pink opera arrest crane immune jar select model logic";
+var mnemonic = "program unique wear large access tortoise result now excuse clutch angry problem";

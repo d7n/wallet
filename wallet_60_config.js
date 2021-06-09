@@ -1,1 +1,1 @@
-var mnemonic = "patch shiver journey board domain one reflect hero tail bread story borrow";
+var mnemonic = "bubble define seminar wife enable left dash ocean seed volume snow frequent";

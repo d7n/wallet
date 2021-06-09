@@ -1,1 +1,1 @@
-var mnemonic = "sail coyote author this hub fetch special scale choose want puppy eternal";
+var mnemonic = "floor divorce wasp escape mouse gown funny smoke rate urban kitchen man";

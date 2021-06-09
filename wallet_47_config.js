@@ -1,1 +1,1 @@
-var mnemonic = "divert spike brave coyote book soldier admit thunder someone sunset sail win";
+var mnemonic = "arrange agree grace chef grab evil use menu jump razor scrap south";

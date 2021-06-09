@@ -1,1 +1,1 @@
-var mnemonic = "unfold supreme circle elbow attack width neglect elevator six upper uncover frost";
+var mnemonic = "shrimp seek naive rural valve correct stove fault predict lawn cheese hero";

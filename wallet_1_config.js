@@ -1,1 +1,1 @@
-var mnemonic = "step dial diet blind flock size coral hammer crane sock sponsor hill";
+var mnemonic = "title noodle swift come budget guilt physical arch torch pledge drill mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "dream pelican grape sound person burst rate during naive route attitude already";
+var mnemonic = "enable turkey orbit borrow scissors dry powder zebra title sting ocean member";
