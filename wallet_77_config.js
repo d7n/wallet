@@ -1,1 +1,1 @@
-var mnemonic = "quote rent basic middle include slot tired judge burden indicate pitch jeans";
+var mnemonic = "skirt mandate weasel weather shoot upon exchange certain ready catalog human armed";

@@ -1,1 +1,1 @@
-var mnemonic = "detect diary digital lens beauty coyote wait pipe imitate year spring angry";
+var mnemonic = "legal pumpkin hero toe urge shed grace erase trip follow toy space";

@@ -1,1 +1,1 @@
-var mnemonic = "burden rebel leave chronic cream penalty seminar crash regular girl law census";
+var mnemonic = "hand accident wine swallow refuse jealous multiply tonight hair vacuum mosquito history";

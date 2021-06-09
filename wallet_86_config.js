@@ -1,1 +1,1 @@
-var mnemonic = "tail document alien sausage raccoon text perfect near appear comic cycle regular";
+var mnemonic = "decrease stock abstract common garment coyote marine hello struggle tired humor naive";

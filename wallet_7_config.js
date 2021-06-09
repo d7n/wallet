@@ -1,1 +1,1 @@
-var mnemonic = "ticket maple impose cloth gown trophy grab acoustic produce amateur craft ripple";
+var mnemonic = "where pact toward beauty repair forward edit soccer galaxy ahead boost weather";

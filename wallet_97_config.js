@@ -1,1 +1,1 @@
-var mnemonic = "image dumb noodle possible boost concert sausage talk inch chaos whip piano";
+var mnemonic = "budget clean absorb gain nut one crowd piano venture ask culture hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "fall spot rather caution sibling dwarf scrub virus boost opinion muffin only";
+var mnemonic = "denial diamond visual mandate film more grab injury desert reject baby use";

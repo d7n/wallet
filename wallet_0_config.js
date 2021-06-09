@@ -1,1 +1,1 @@
-var mnemonic = "better pelican hospital split gauge company labor blood proud victory scrub sing";
+var mnemonic = "seven settle desk require drama silly often search cinnamon vocal steak robust";

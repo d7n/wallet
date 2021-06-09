@@ -1,1 +1,1 @@
-var mnemonic = "omit solar mention floor better glad picture thrive gossip jungle usual good";
+var mnemonic = "core future elevator essence stumble jump home gasp code wrestle window announce";

@@ -1,1 +1,1 @@
-var mnemonic = "rug token salute honey price rice crumble legal skill jazz slide carbon";
+var mnemonic = "response marble laptop donate phrase wide lawsuit cheap asset fringe nature jaguar";

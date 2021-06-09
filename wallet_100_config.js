@@ -1,1 +1,1 @@
-var mnemonic = "spirit tennis notable sword reveal agree debate receive pupil sign satoshi defense";
+var mnemonic = "renew loan boss address solar truly cliff grass test hotel private position";

@@ -1,1 +1,1 @@
-var mnemonic = "urban height hurt office lake engine churn axis domain correct another error";
+var mnemonic = "crater enrich use mango cigar wrong jazz animal client young piece spin";

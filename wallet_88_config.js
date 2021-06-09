@@ -1,1 +1,1 @@
-var mnemonic = "case duck year rally jungle vast pill nuclear purse tunnel impulse festival";
+var mnemonic = "garden dismiss decorate doctor grab carry resource goddess leave vague zone steel";

@@ -1,1 +1,1 @@
-var mnemonic = "frown brand cat high wolf cabbage dentist rate broken again marriage question";
+var mnemonic = "question gospel uniform render edit comic yard wise force valid tiny divert";

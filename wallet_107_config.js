@@ -1,1 +1,1 @@
-var mnemonic = "wrap must idle math absent soccer family pave tower assist this maze";
+var mnemonic = "slab submit aim always call hen mixed latin pudding course elevator suspect";

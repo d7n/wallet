@@ -1,1 +1,1 @@
-var mnemonic = "great gun veteran author essence laugh together mean around weapon wide spend";
+var mnemonic = "place another voice betray silent volume mushroom annual fee summer diesel cave";

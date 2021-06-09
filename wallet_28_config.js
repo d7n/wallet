@@ -1,1 +1,1 @@
-var mnemonic = "gloom heavy cannon board orphan group evoke disagree swear dance horror share";
+var mnemonic = "drill volume lemon furnace style decade slot wish elite install ugly curtain";

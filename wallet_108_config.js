@@ -1,1 +1,1 @@
-var mnemonic = "south globe acquire problem parade flavor clean obey predict sister casino sun";
+var mnemonic = "fame crash expose letter body traffic monster survey morning surge clinic amount";

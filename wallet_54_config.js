@@ -1,1 +1,1 @@
-var mnemonic = "opinion happy fork valve together life balance will undo run exotic approve";
+var mnemonic = "logic odor sure fitness shock snow across shield crouch fine salad kite";

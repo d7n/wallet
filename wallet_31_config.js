@@ -1,1 +1,1 @@
-var mnemonic = "churn tuition stock flight flag caution alarm match front gown minor case";
+var mnemonic = "bicycle man cross carpet enlist despair net useful habit crazy laptop know";

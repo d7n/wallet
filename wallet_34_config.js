@@ -1,1 +1,1 @@
-var mnemonic = "inspire analyst winter balcony fault rookie nephew dinosaur same enough lab mechanic";
+var mnemonic = "common frog lava dizzy gym disease hood excite argue sphere produce deputy";

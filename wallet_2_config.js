@@ -1,1 +1,1 @@
-var mnemonic = "joke nominee chief loan among clinic movie sustain shine tenant joy speed";
+var mnemonic = "ordinary notice ordinary hello tattoo taxi trumpet bread plastic six daughter apple";

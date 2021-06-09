@@ -1,1 +1,1 @@
-var mnemonic = "awful forward jelly model deal cute best idle attack measure chief object";
+var mnemonic = "grunt organ hockey supreme rescue destroy tail word notice crumble math clog";

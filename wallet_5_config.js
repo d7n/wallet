@@ -1,1 +1,1 @@
-var mnemonic = "fabric tortoise beauty change bus basket juice clinic error fire task warfare";
+var mnemonic = "reveal because jealous sniff recall promote way leave rent velvet flavor mixed";

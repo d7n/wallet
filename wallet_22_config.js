@@ -1,1 +1,1 @@
-var mnemonic = "ten uphold spirit cost shy ankle what result appear piece buddy edge";
+var mnemonic = "that infant sauce cabbage sample toddler bread turkey drum end release any";

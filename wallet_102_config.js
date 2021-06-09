@@ -1,1 +1,1 @@
-var mnemonic = "myth luxury merry actor chunk fat demand loyal sunset tennis month arrive";
+var mnemonic = "black trumpet review clever capable fix utility engage force manage when move";

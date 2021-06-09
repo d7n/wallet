@@ -1,1 +1,1 @@
-var mnemonic = "rural wreck undo abandon pudding another rude parade pattern wise pride leave";
+var mnemonic = "then ketchup install fish lounge hood session marble dutch hunt suit twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "olive corn asset such world expire grow journey discover shy bleak vague";
+var mnemonic = "display token crystal goose lab system flush provide shrug hello guitar ice";

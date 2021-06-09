@@ -1,1 +1,1 @@
-var mnemonic = "armed deposit bacon foil verify pilot leader purity urge aerobic skirt myth";
+var mnemonic = "hammer innocent hole case author girl craft hole will skull library tuna";

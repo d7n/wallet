@@ -1,1 +1,1 @@
-var mnemonic = "gown palace illness knee scissors theme nothing hockey stone maple shaft junior";
+var mnemonic = "captain easy mutual buzz raven slow knee noble spice love junk dumb";

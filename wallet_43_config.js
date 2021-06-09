@@ -1,1 +1,1 @@
-var mnemonic = "typical fresh trend bar retire card trumpet cherry health wide bronze venue";
+var mnemonic = "follow garment rotate office ten tennis scout paper virus marine stumble team";

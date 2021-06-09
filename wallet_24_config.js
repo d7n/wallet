@@ -1,1 +1,1 @@
-var mnemonic = "kick wreck key cute chunk home endless giant toss bachelor cereal roof";
+var mnemonic = "alone battle foster tomorrow world doctor arrange item balcony divorce style benefit";

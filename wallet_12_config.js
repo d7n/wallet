@@ -1,1 +1,1 @@
-var mnemonic = "merge reject trap sting suit guilt evil dynamic churn test senior clip";
+var mnemonic = "crane salute tortoise spin keep onion avoid will craft legal output resist";

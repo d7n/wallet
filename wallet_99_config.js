@@ -1,1 +1,1 @@
-var mnemonic = "hidden sniff pill energy tooth sponsor erase board loop cinnamon lion belt";
+var mnemonic = "alley circle endless tennis winner awful hole together sketch click spend domain";

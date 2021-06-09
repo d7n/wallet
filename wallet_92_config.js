@@ -1,1 +1,1 @@
-var mnemonic = "august number august pole beyond october absent window forward either mule capable";
+var mnemonic = "figure surge square expire sail tomato logic face post kiss entry myself";

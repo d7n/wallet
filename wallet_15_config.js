@@ -1,1 +1,1 @@
-var mnemonic = "leg health verb west indicate welcome witness black toy hub lawsuit stomach";
+var mnemonic = "cinnamon eager soldier creek elevator clip horror apart essence pilot exist wise";

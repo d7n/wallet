@@ -1,1 +1,1 @@
-var mnemonic = "food flower library immune clay satisfy ceiling avoid ill glance tired march";
+var mnemonic = "tunnel jeans scale rough draft dose yard wood guilt method merge silly";

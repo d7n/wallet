@@ -1,1 +1,1 @@
-var mnemonic = "steak laptop soccer amateur sibling accuse already damp network ugly impulse trigger";
+var mnemonic = "cry subway tomorrow market history laundry prefer autumn dignity kit flock family";

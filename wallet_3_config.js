@@ -1,1 +1,1 @@
-var mnemonic = "diary wheat agree noble ozone bacon tent balance urban tree bargain radar";
+var mnemonic = "silk alter theme tissue will vicious vivid rebuild pride mimic prefer news";

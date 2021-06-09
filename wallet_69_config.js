@@ -1,1 +1,1 @@
-var mnemonic = "carbon minute caught toast ancient shaft crunch hire deny spread stomach notice";
+var mnemonic = "mixture unknown style harbor shift sure wisdom skate world cloud door crystal";

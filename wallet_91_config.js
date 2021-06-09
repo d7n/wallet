@@ -1,1 +1,1 @@
-var mnemonic = "panel orchard match scatter primary wreck camera observe endless barely gospel provide";
+var mnemonic = "upon prison figure hamster sweet master vital result lake blush magnet local";

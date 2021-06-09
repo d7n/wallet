@@ -1,1 +1,1 @@
-var mnemonic = "magnet bubble sure wide glue cupboard sudden quantum theory weird twice reunion";
+var mnemonic = "fatal man dream frost push cushion upon video frost page shrimp still";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster region fee slot season rabbit pledge little snake boat gallery turn";
+var mnemonic = "guitar toward couple short daughter vague hat chair region trigger tornado brisk";

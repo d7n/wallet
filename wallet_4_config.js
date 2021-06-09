@@ -1,1 +1,1 @@
-var mnemonic = "dash orchard oak enforce sponsor fantasy donor already glass gold gym language";
+var mnemonic = "sail magnet install hamster creek weather impose roof unfold odor east else";

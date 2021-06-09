@@ -1,1 +1,1 @@
-var mnemonic = "apart grain resist duck rally drum orchard raven subject left pencil confirm";
+var mnemonic = "turn famous matter great hope sibling vote foam ability want frozen reduce";

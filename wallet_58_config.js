@@ -1,1 +1,1 @@
-var mnemonic = "sustain use roof select indicate maple hockey they pudding matter accident rather";
+var mnemonic = "salt because please chest inspire pen program name load zebra flock relax";

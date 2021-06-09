@@ -1,1 +1,1 @@
-var mnemonic = "diary office friend rough link attract axis chapter style argue core curve";
+var mnemonic = "you art use poet truly vocal boring loyal spell betray brief photo";

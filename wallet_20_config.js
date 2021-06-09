@@ -1,1 +1,1 @@
-var mnemonic = "oak course select assist gospel boost treat fun wheat rain model name";
+var mnemonic = "slot hundred solid already logic drink notable cupboard describe daughter mouse blast";

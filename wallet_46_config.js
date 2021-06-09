@@ -1,1 +1,1 @@
-var mnemonic = "infant digital wrong ostrich pencil kiwi tank assist mimic escape march dose";
+var mnemonic = "reopen you brother notable cube turkey crew debris urge depth avocado scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "argue between sun dust happy model brave enroll shed spend find mouse";
+var mnemonic = "property pen steak theme shop stand exchange attract black twist season model";

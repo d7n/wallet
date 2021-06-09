@@ -1,1 +1,1 @@
-var mnemonic = "taste neglect dragon puzzle push easily rifle naive blade alter snow water";
+var mnemonic = "shell visit clump spice impact favorite host capital public repair beauty language";

@@ -1,1 +1,1 @@
-var mnemonic = "spring piano nut shoot shield rhythm paper human reward work april chuckle";
+var mnemonic = "blame noodle aunt indicate cotton teach interest forward replace employ unveil lawsuit";

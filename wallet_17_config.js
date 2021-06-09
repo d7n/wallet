@@ -1,1 +1,1 @@
-var mnemonic = "solar wrong mango oppose canoe celery immune accuse repair mention correct ensure";
+var mnemonic = "baby borrow civil swarm reject reveal announce second act tilt educate merit";

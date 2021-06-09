@@ -1,1 +1,1 @@
-var mnemonic = "dream reopen clap impact pride act maximum crane pottery salt wild carbon";
+var mnemonic = "change rich curtain various roof plug shuffle leg run hospital forward kind";

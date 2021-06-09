@@ -1,1 +1,1 @@
-var mnemonic = "prize subway field alarm inner usual remove sound rigid funny ugly inhale";
+var mnemonic = "industry license minute way wine army direct giant double wood army cook";

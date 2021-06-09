@@ -1,1 +1,1 @@
-var mnemonic = "air guide youth gate tag rich park cave muscle slush water today";
+var mnemonic = "pink captain method habit gain worry eye oblige simple donor secret network";

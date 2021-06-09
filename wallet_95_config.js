@@ -1,1 +1,1 @@
-var mnemonic = "arrive abstract throw pipe gravity book snack grass hint pilot tone task";
+var mnemonic = "cloud relax uncover casual toddler brass return off depart buffalo fashion thumb";

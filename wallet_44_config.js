@@ -1,1 +1,1 @@
-var mnemonic = "photo deposit virus dynamic wedding picnic fix beef dentist mosquito ahead slow";
+var mnemonic = "certain egg grape radio renew senior cargo real install prepare fog bounce";

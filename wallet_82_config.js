@@ -1,1 +1,1 @@
-var mnemonic = "injury worry radio off symptom bar donate then ride hold recall duty";
+var mnemonic = "cigar dose stamp flat goddess laugh scout trust nature animal carpet pull";

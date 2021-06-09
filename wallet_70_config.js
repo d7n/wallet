@@ -1,1 +1,1 @@
-var mnemonic = "dress differ sunny silly manage object bag sort foil dilemma taste wave";
+var mnemonic = "maid elegant satoshi repeat iron square napkin bundle lounge garage dose stock";

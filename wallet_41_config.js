@@ -1,1 +1,1 @@
-var mnemonic = "design glove swim home foam pact legend glare uncover seat stick wool";
+var mnemonic = "laptop theme increase engine thought evolve slender early foil daughter strategy slab";

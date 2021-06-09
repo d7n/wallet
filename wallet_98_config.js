@@ -1,1 +1,1 @@
-var mnemonic = "shy view clip normal such stand empower swim muscle basket blue firm";
+var mnemonic = "man test shield sock coil arena web route board sleep cupboard disagree";

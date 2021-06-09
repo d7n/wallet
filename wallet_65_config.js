@@ -1,1 +1,1 @@
-var mnemonic = "conduct grass soap vote shoot dry cinnamon runway social sun blade mountain";
+var mnemonic = "bean vote dolphin usual hurt duck scheme candy column legend sunset morning";

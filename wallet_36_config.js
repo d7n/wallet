@@ -1,1 +1,1 @@
-var mnemonic = "oval enable lens note involve cancel amused omit involve beef outside gravity";
+var mnemonic = "until patch crack click father frog region hurdle verb million original wear";

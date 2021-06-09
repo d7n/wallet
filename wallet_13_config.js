@@ -1,1 +1,1 @@
-var mnemonic = "try sudden sheriff sun crash clump neither appear run tuition ocean range";
+var mnemonic = "boil sleep chronic element still stereo axis anchor fade license bubble alarm";

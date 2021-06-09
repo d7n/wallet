@@ -1,1 +1,1 @@
-var mnemonic = "wisdom connect faith rough umbrella moon galaxy spy armor weird copper west";
+var mnemonic = "pig maid fat pencil effort local sail rib own race common plug";

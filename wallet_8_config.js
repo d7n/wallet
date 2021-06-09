@@ -1,1 +1,1 @@
-var mnemonic = "vicious key model confirm voyage page anchor else boss easy myth sad";
+var mnemonic = "help weekend mercy scorpion pass captain drive spare sweet goat artefact rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "useful trade stumble actual erode crash service brief vocal plug impulse screen";
+var mnemonic = "leader glance brand all bike path deer same urge orient antique uncover";

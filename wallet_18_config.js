@@ -1,1 +1,1 @@
-var mnemonic = "innocent tomato limit utility coral used stand soft join asset stand mountain";
+var mnemonic = "roast crater tourist anxiety success elevator lucky shiver payment orient barrel cram";

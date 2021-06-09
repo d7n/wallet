@@ -1,1 +1,1 @@
-var mnemonic = "select code air very curtain cute control repair axis door bachelor estate";
+var mnemonic = "teach chronic brain verb try extend column soup multiply excite sustain private";

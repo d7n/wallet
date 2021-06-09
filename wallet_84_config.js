@@ -1,1 +1,1 @@
-var mnemonic = "thing hover sense scrap involve pudding velvet axis satisfy loud mountain hungry";
+var mnemonic = "diagram daughter differ liar outdoor chair lyrics track tube cactus size antenna";

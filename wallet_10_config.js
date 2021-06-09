@@ -1,1 +1,1 @@
-var mnemonic = "universe replace pioneer talent inner credit penalty deny antique multiply wasp glare";
+var mnemonic = "brain assist buyer weekend paddle teach dynamic erode original track prosper gloom";

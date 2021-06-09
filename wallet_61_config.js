@@ -1,1 +1,1 @@
-var mnemonic = "maze shock fatigue butter floor light soldier cable electric knee patient tent";
+var mnemonic = "disease immune flush inflict soccer guess off estate forget lion involve kite";

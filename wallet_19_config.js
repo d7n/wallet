@@ -1,1 +1,1 @@
-var mnemonic = "daring file smart universe prison lazy develop era pen will arrange spot";
+var mnemonic = "asthma amazing hurry orient unlock neutral cream airport copper course trend embrace";

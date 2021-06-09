@@ -1,1 +1,1 @@
-var mnemonic = "egg federal carbon humor fiscal duck then human spider album twenty match";
+var mnemonic = "close basket solid liquid ramp gadget pond lizard unaware miracle toast fall";

@@ -1,1 +1,1 @@
-var mnemonic = "night hint dove rival strike feature vessel bundle burst hip glass skull";
+var mnemonic = "control stamp hurry girl excite curve enroll kitten orange barely release spare";

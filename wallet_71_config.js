@@ -1,1 +1,1 @@
-var mnemonic = "scan scheme naive acoustic tree foot vessel egg ensure initial elegant must";
+var mnemonic = "where lumber frost river chief steel welcome pledge gasp cause inch manage";

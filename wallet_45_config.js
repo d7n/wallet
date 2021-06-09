@@ -1,1 +1,1 @@
-var mnemonic = "call doll slide found submit crime invite stock inspire into intact pepper";
+var mnemonic = "silly style armor beef neutral inside forest kick dignity puzzle boring rent";

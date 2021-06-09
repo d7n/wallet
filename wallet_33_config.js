@@ -1,1 +1,1 @@
-var mnemonic = "indoor discover fantasy column lend antenna vacant various plate resource clutch occur";
+var mnemonic = "together weekend green cruel fly lumber damp marine this elegant nest riot";

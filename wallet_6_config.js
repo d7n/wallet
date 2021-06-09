@@ -1,1 +1,1 @@
-var mnemonic = "firm ski pitch village chief rude various glance rug motor husband walnut";
+var mnemonic = "border loyal champion frown step lonely camera misery accuse clap ring pull";

@@ -1,1 +1,1 @@
-var mnemonic = "slam million choice amused share enter width barrel glory police physical harvest";
+var mnemonic = "slow course park walnut devote fabric galaxy sustain poet token lend local";

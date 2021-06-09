@@ -1,1 +1,1 @@
-var mnemonic = "monitor close title edit pull zone harvest awake crystal reject fitness canyon";
+var mnemonic = "confirm airport talk fit mammal effort demise puzzle resist plug dolphin scout";

@@ -1,1 +1,1 @@
-var mnemonic = "black hip witness screen awesome devote tragic top organ athlete blast shoe";
+var mnemonic = "few awesome pipe heavy betray ill village picnic collect comfort crew vessel";

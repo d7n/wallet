@@ -1,1 +1,1 @@
-var mnemonic = "profit farm undo bacon capital oyster female matrix trust polar snap this";
+var mnemonic = "dwarf appear suggest again walk lift glow august frozen tornado provide seven";

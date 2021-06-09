@@ -1,1 +1,1 @@
-var mnemonic = "foil sibling pair oppose clever shove tribe because tail draw canal squirrel";
+var mnemonic = "upper symbol fresh nose purse festival all bird universe flavor bar vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise brass treat orphan wrestle candy modify child window start nice away";
+var mnemonic = "giraffe rail purity clarify acid output merit artist seed now web embark";

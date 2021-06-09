@@ -1,1 +1,1 @@
-var mnemonic = "pistol crucial jaguar mom guitar attitude buzz rack scatter icon gun help";
+var mnemonic = "cluster wrestle fever switch chuckle arm birth veteran fury believe portion alien";

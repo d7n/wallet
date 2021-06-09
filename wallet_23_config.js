@@ -1,1 +1,1 @@
-var mnemonic = "letter adapt glass lemon fetch team version pelican music work future neutral";
+var mnemonic = "broccoli state antique lady ten crunch portion menu mom owner solid meat";
