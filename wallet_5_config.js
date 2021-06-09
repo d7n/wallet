@@ -1,1 +1,1 @@
-var mnemonic = "zoo lady hub olympic eagle spin punch slim proof total depend decrease";
+var mnemonic = "purpose raven actor pupil idea visit fantasy fringe cupboard random dawn scout";

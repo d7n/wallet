@@ -1,1 +1,1 @@
-var mnemonic = "spatial chunk shed silk skirt tourist stuff toilet weapon toe panel evolve";
+var mnemonic = "spoil impose decide monster leopard color lion slogan sister okay fit girl";

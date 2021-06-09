@@ -1,1 +1,1 @@
-var mnemonic = "kiwi subject roof club wear spin appear bleak insect icon recycle habit";
+var mnemonic = "two loop vault bulb input fork surround swear dawn fish donor abstract";

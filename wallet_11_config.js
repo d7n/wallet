@@ -1,1 +1,1 @@
-var mnemonic = "this convince analyst also bright joke ship process then annual noise tent";
+var mnemonic = "lyrics provide large course truck immense series agent black general twelve buyer";

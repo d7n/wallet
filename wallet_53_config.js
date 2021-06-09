@@ -1,1 +1,1 @@
-var mnemonic = "fluid beef crash hub eyebrow interest public chunk crouch secret target increase";
+var mnemonic = "start art grid deer interest high gospel tent fury double agree shuffle";

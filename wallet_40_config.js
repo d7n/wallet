@@ -1,1 +1,1 @@
-var mnemonic = "own water crowd access quarter poet eye follow suggest glide voice belt";
+var mnemonic = "search never toe gentle embody above attitude need cancel swift have practice";

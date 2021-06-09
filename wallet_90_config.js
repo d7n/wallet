@@ -1,1 +1,1 @@
-var mnemonic = "advice rally hospital course embrace parade witness sight few mobile helmet jelly";
+var mnemonic = "license swim pride retire early august click jelly weird under useless vehicle";

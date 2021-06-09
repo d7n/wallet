@@ -1,1 +1,1 @@
-var mnemonic = "wrestle lift grape mango witness sock umbrella noodle magic elder impose elevator";
+var mnemonic = "quick siege rent mean patch ethics crop poverty wire visit list more";

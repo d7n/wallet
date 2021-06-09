@@ -1,1 +1,1 @@
-var mnemonic = "duck evil bacon trust empty make inch simple prosper shrimp torch flat";
+var mnemonic = "kiss addict useless rug govern gate square before give bomb soap manual";

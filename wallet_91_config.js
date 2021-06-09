@@ -1,1 +1,1 @@
-var mnemonic = "violin battle domain borrow rug harvest drink pattern balcony hamster reward athlete";
+var mnemonic = "avoid essay embark credit misery near web among manual razor erupt scene";

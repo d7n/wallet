@@ -1,1 +1,1 @@
-var mnemonic = "lizard moon later escape prosper autumn layer control surge vacant finish blur";
+var mnemonic = "will inspire roof dragon fruit valve piece mother rural badge opinion royal";

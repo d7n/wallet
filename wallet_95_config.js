@@ -1,1 +1,1 @@
-var mnemonic = "jungle found fly yellow cry february road pond casual jump romance impact";
+var mnemonic = "snack bounce output scatter settle orbit sort bright salad debris ski vast";

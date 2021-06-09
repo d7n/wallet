@@ -1,1 +1,1 @@
-var mnemonic = "kitten erosion coyote wasp jewel rescue purse pig subject ribbon sleep green";
+var mnemonic = "ski tooth giggle august adjust famous sorry stamp speed scorpion mom amazing";

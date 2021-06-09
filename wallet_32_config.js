@@ -1,1 +1,1 @@
-var mnemonic = "source print train love solution lion bracket opera mercy impulse scrub bread";
+var mnemonic = "tonight awkward arm adult major unfold century bullet assume payment lemon sting";

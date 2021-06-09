@@ -1,1 +1,1 @@
-var mnemonic = "satisfy goddess disagree risk naive dwarf solar receive menu apple digital price";
+var mnemonic = "fossil slice maze trade tribe body moment much master solid hen mechanic";

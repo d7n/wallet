@@ -1,1 +1,1 @@
-var mnemonic = "sustain cost crumble surround capital lady vessel what hurt boy budget exit";
+var mnemonic = "success govern water retreat erode screen animal subway system kitchen wrist option";

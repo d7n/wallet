@@ -1,1 +1,1 @@
-var mnemonic = "olive jacket goat news sing sock remind achieve seminar choice truth absent";
+var mnemonic = "holiday multiply ethics salon resemble loyal rate stone flag retreat rare short";

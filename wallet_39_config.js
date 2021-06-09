@@ -1,1 +1,1 @@
-var mnemonic = "excess share cushion crop game dream lake push mule winner cause zebra";
+var mnemonic = "wood improve walk rigid knee dirt hen deposit few one answer school";

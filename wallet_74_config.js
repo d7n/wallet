@@ -1,1 +1,1 @@
-var mnemonic = "myself knock tuition idle attack initial shadow title chest wait case chaos";
+var mnemonic = "fade upon spatial twist soon join fantasy decline crunch abuse sand cruel";

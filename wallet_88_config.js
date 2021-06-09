@@ -1,1 +1,1 @@
-var mnemonic = "vicious cherry snake invite join tuition credit bar reduce grab finger embody";
+var mnemonic = "since expose satisfy tuna gift orchard shove couch summer food evolve ceiling";

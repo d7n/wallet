@@ -1,1 +1,1 @@
-var mnemonic = "short sleep distance erosion shallow burger enter toss flip estate laptop betray";
+var mnemonic = "lab absent notable wine resource success pudding joke rail galaxy spread cause";

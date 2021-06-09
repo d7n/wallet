@@ -1,1 +1,1 @@
-var mnemonic = "crew exhaust donate sketch exhibit royal caution ten face picture quick coconut";
+var mnemonic = "ozone yard develop spin gaze cycle exchange confirm muscle brand evolve neither";

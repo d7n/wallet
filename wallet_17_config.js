@@ -1,1 +1,1 @@
-var mnemonic = "crumble brush cage leg observe crack supreme armed february escape girl emotion";
+var mnemonic = "pipe night exit unique loop artefact nest fabric device crazy luxury nuclear";

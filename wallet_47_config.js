@@ -1,1 +1,1 @@
-var mnemonic = "cupboard near farm material raven state curve brush minute crop erosion pledge";
+var mnemonic = "desk enhance hedgehog dizzy enact rely pink hawk soup cabin ahead knife";

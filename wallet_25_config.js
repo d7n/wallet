@@ -1,1 +1,1 @@
-var mnemonic = "glass replace wink believe front foster mesh near tribe alter noise mercy";
+var mnemonic = "drive wire casino cherry then enrich soccer wave worth enhance admit carbon";

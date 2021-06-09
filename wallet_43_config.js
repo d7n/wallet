@@ -1,1 +1,1 @@
-var mnemonic = "jungle crush rural model fit inmate inject juice broccoli slush high trade";
+var mnemonic = "coast guess excuse fly clerk rare cost beauty powder off melody unknown";

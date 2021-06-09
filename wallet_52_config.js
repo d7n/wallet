@@ -1,1 +1,1 @@
-var mnemonic = "dance emerge nominee lesson pig age blur round coast voice scrub alpha";
+var mnemonic = "senior transfer mix garage flash bar satisfy tuition magic silly cliff boat";

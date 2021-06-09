@@ -1,1 +1,1 @@
-var mnemonic = "jeans burger dice pigeon exist tilt desert slight help cloud witness illegal";
+var mnemonic = "three pair then abstract sad future potato broken choose phrase chat twin";

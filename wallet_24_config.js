@@ -1,1 +1,1 @@
-var mnemonic = "faculty sight drink together work shrug sweet pyramid reduce agent game oblige";
+var mnemonic = "image attend nothing car fork pitch elevator pink stereo guess furnace senior";

@@ -1,1 +1,1 @@
-var mnemonic = "arm stove what endorse amount magnet turtle zebra jeans laugh raccoon glow";
+var mnemonic = "width lecture local flame bone snack giggle burst lamp immense cupboard connect";

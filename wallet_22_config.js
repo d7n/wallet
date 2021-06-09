@@ -1,1 +1,1 @@
-var mnemonic = "noise amateur shield casino unlock opera deputy discover document beef spend refuse";
+var mnemonic = "trick better chair inquiry mix mean rocket blast climb park devote swap";

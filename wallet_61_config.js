@@ -1,1 +1,1 @@
-var mnemonic = "possible buddy vote today possible diesel quiz more special wrist client worth";
+var mnemonic = "pioneer cigar universe own chapter puppy dragon boat melody junk kangaroo liquid";

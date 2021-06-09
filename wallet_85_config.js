@@ -1,1 +1,1 @@
-var mnemonic = "game organ typical approve merry observe frog cost enact bind conduct tape";
+var mnemonic = "extend news spice valid elbow region inmate reflect panda split found kitten";

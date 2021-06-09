@@ -1,1 +1,1 @@
-var mnemonic = "arrange evoke sting boost luggage craft simple foster divide absorb dilemma snake";
+var mnemonic = "multiply skirt clown spare maximum recall industry appear relief perfect agree isolate";

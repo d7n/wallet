@@ -1,1 +1,1 @@
-var mnemonic = "fury hospital improve slow strategy wonder gadget lamp champion half shock artefact";
+var mnemonic = "special version year lawn bike harvest tilt until sketch view turn dog";

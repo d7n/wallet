@@ -1,1 +1,1 @@
-var mnemonic = "imitate before release cousin cabbage joy harvest extra sword oxygen burst brisk";
+var mnemonic = "tell burger label flush repair truly damp victory mushroom walk please gossip";

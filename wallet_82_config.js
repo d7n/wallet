@@ -1,1 +1,1 @@
-var mnemonic = "whisper lava smart spider ability render paper segment cancel guide sadness bomb";
+var mnemonic = "review piece lemon output enrich cube news moon language spot orange labor";

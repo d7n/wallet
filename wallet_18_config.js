@@ -1,1 +1,1 @@
-var mnemonic = "kidney visual dwarf cattle ability fire bundle milk label argue punch survey";
+var mnemonic = "fatigue false faith parrot chunk strong must camera client toilet book leave";

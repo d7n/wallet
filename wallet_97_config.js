@@ -1,1 +1,1 @@
-var mnemonic = "bid cup fiction milk equip rifle grid trial defense cliff fiscal risk";
+var mnemonic = "forward clutch super phrase auction next genius like orient fruit you monkey";

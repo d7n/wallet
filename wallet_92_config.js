@@ -1,1 +1,1 @@
-var mnemonic = "same secret idle later donkey supply sting swallow avoid range grunt fit";
+var mnemonic = "spy waste wild light sleep mystery fatigue tuition busy clap consider boring";

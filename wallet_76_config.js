@@ -1,1 +1,1 @@
-var mnemonic = "gift virtual else raise flee favorite quick mystery spell afford dash damp";
+var mnemonic = "cash evolve decline bike march fashion oxygen resist grace shadow afraid crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "federal spy slogan suit crime happy fall envelope ocean safe glory motion";
+var mnemonic = "mesh fault sheriff alpha rain life guide cash oblige eagle curtain manual";

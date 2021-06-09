@@ -1,1 +1,1 @@
-var mnemonic = "cousin mirror skin raccoon infant unfold inner cargo quarter round they guide";
+var mnemonic = "march unfair question execute candy pitch earth bike noble move furnace rude";

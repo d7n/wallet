@@ -1,1 +1,1 @@
-var mnemonic = "burger project style narrow swear eagle hawk steel auto very employ unusual";
+var mnemonic = "east school menu camp such replace network strong hazard multiply attack title";

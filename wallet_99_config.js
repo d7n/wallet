@@ -1,1 +1,1 @@
-var mnemonic = "biology tissue shrug breeze valley human light dinosaur vacant sing liar coyote";
+var mnemonic = "device silent play genre fish steak cash inject venture avoid educate vacuum";

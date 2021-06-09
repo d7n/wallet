@@ -1,1 +1,1 @@
-var mnemonic = "zero hard night urban easily kiss stand voyage actual garage arrest involve";
+var mnemonic = "whisper tank biology cereal noodle whale tuition faint quit bone lobster sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "frost nephew captain awake vicious monster keen absorb awesome merry tiger fatigue";
+var mnemonic = "cabin apology field opera position grief action sniff cry ancient when resource";

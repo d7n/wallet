@@ -1,1 +1,1 @@
-var mnemonic = "item cover effort table august group alarm secret usage gravity sister teach";
+var mnemonic = "magic theory laugh achieve submit list rally clap garment scene apple flip";

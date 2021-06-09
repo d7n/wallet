@@ -1,1 +1,1 @@
-var mnemonic = "observe message cause remember quantum visit sport surprise proud leaf print loud";
+var mnemonic = "sing beyond grunt enroll clean heart vanish cluster lobster kitchen vivid target";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty flock extra truth grass raven brown they make comic fatigue worry";
+var mnemonic = "zebra bubble bag large brave atom nominee hurdle true olympic prepare people";

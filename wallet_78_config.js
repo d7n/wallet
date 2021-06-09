@@ -1,1 +1,1 @@
-var mnemonic = "audit wide manual gravity over snap seminar sketch blouse little lonely dice";
+var mnemonic = "fortune calm two furnace february face bench impulse blame display cupboard table";

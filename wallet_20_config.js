@@ -1,1 +1,1 @@
-var mnemonic = "royal auction home aspect twice lunch blood beauty urban resist elbow unaware";
+var mnemonic = "sorry shock popular dove wisdom refuse share shuffle priority milk enroll snap";

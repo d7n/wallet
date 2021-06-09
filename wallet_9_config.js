@@ -1,1 +1,1 @@
-var mnemonic = "kingdom whip nice comic almost truck theme rail machine stand purse large";
+var mnemonic = "easy hen dice abuse boost butter shift alien torch task icon drastic";

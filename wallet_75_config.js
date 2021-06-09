@@ -1,1 +1,1 @@
-var mnemonic = "velvet morning enroll upset merry gap sing mistake script foam wolf person";
+var mnemonic = "bottom author reveal oak wet seminar midnight velvet online happy slender toward";

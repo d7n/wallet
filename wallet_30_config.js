@@ -1,1 +1,1 @@
-var mnemonic = "supreme noble make squeeze brown kangaroo waste tool accident electric hint bone";
+var mnemonic = "nest member excuse legend tray detect draw stone logic excuse answer jump";

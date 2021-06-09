@@ -1,1 +1,1 @@
-var mnemonic = "oak sorry sign toe reveal shove bitter river duty toast crucial jungle";
+var mnemonic = "humor admit viable believe ski enact famous crucial settle collect vivid token";

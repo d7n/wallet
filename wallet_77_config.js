@@ -1,1 +1,1 @@
-var mnemonic = "one lamp patrol bird abuse three color trumpet awful carbon green lava";
+var mnemonic = "movie fossil avocado siege hand mandate foam amount aspect aware castle loop";

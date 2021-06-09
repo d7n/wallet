@@ -1,1 +1,1 @@
-var mnemonic = "pear narrow detail seek range inner athlete cost typical idle shadow eagle";
+var mnemonic = "matrix produce leader eight huge omit infant capable baby lunar peace canvas";

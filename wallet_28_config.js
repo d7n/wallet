@@ -1,1 +1,1 @@
-var mnemonic = "glow inner glove artefact student glide quiz gauge claw goat warfare arch";
+var mnemonic = "depend forward theory ceiling crater ensure sauce start toe rally exact volume";

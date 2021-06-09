@@ -1,1 +1,1 @@
-var mnemonic = "bring paper social assault good purse leopard cry deal return strategy topic";
+var mnemonic = "reduce castle cruise breeze zoo alter awful soap bird olive upon boy";

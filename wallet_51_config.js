@@ -1,1 +1,1 @@
-var mnemonic = "claim slam around office weasel deny portion misery fish birth access original";
+var mnemonic = "fantasy normal wing stool mansion wall banner spray wire post shadow sweet";

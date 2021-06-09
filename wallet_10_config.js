@@ -1,1 +1,1 @@
-var mnemonic = "armed student favorite wife law organ orange okay mandate ensure note practice";
+var mnemonic = "tuition copy winter rich pledge nose notable round artist immense around obvious";

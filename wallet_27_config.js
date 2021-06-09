@@ -1,1 +1,1 @@
-var mnemonic = "joke cave book sure hawk gasp regular clinic layer blood trap photo";
+var mnemonic = "apple dream lake era duty parade theory present fat hover regret legal";

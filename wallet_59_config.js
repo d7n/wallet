@@ -1,1 +1,1 @@
-var mnemonic = "powder habit human play drink coral feature client capital pluck alley retire";
+var mnemonic = "custom useful tiny ability cinnamon lucky leader agent embrace fan menu slogan";

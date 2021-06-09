@@ -1,1 +1,1 @@
-var mnemonic = "vast attack attack humble enrich accident honey behave wreck left expect side";
+var mnemonic = "sure bracket amount toilet vacuum detail cabin behind audit junk debris person";

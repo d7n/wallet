@@ -1,1 +1,1 @@
-var mnemonic = "motor fancy evoke polar fever portion science inquiry trash clap radar old";
+var mnemonic = "palm visa mass receive confirm clown resemble laugh ethics park hunt hair";

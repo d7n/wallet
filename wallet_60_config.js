@@ -1,1 +1,1 @@
-var mnemonic = "spirit mercy range critic blossom final armed vessel cry cereal mention soup";
+var mnemonic = "another whisper length define scorpion disagree genius record actual mention suggest lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe luggage start can leopard other pottery inside domain asset village airport";
+var mnemonic = "strategy label seminar awesome tumble omit leopard pudding muscle witness goose dice";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf engage torch grief talent recycle silver trap flag salt calm slight";
+var mnemonic = "pilot wolf parrot monitor differ car excite say toss great purpose saddle";

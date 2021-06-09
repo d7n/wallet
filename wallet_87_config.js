@@ -1,1 +1,1 @@
-var mnemonic = "seek smart mutual must forum idea arrow history hero cargo junior dish";
+var mnemonic = "orange exclude vacant march patch toast ordinary kiss memory raven violin split";

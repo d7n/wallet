@@ -1,1 +1,1 @@
-var mnemonic = "senior piece man shrimp actual curve vault stand surprise sun boy devote";
+var mnemonic = "aunt wear web system whale antenna win snow enact reform reveal spatial";

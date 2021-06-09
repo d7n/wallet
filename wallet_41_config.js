@@ -1,1 +1,1 @@
-var mnemonic = "armed love shaft awkward color blood broom pyramid duck drop tenant conduct";
+var mnemonic = "correct online enforce plastic feed brain cabin fatigue kitten grocery wheat page";

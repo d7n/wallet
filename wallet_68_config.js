@@ -1,1 +1,1 @@
-var mnemonic = "ivory trip left build course august repeat valid stand crazy object quality";
+var mnemonic = "debris mandate path essay between staff pupil gossip ordinary cat giggle weapon";

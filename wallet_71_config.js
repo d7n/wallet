@@ -1,1 +1,1 @@
-var mnemonic = "coyote first injury coral drama case recall tired amateur base luxury upon";
+var mnemonic = "garment wish borrow fragile push cruel region bus army woman affair genre";

@@ -1,1 +1,1 @@
-var mnemonic = "sure toddler render mix recall segment annual maximum eagle little plug venture";
+var mnemonic = "project quarter time dentist govern present super gown check stumble leaf link";

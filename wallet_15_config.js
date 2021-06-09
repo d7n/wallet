@@ -1,1 +1,1 @@
-var mnemonic = "enough track people emerge young novel movie kitchen shift protect ghost donkey";
+var mnemonic = "verify illness lion devote flat famous raw ethics lonely cram alien alcohol";

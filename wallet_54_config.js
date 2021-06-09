@@ -1,1 +1,1 @@
-var mnemonic = "maple skill demise pear prosper frame talent sleep record melody bread under";
+var mnemonic = "shoot tiger exhaust settle library mom method paper artist canyon rabbit horse";

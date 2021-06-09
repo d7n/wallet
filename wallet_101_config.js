@@ -1,1 +1,1 @@
-var mnemonic = "party fragile tattoo shock stable code favorite draw hair tunnel calm cream";
+var mnemonic = "broken seek width diet ancient calm fatigue someone ecology camera exotic discover";

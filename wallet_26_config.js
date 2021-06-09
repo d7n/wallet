@@ -1,1 +1,1 @@
-var mnemonic = "royal income school nuclear between pole autumn damage wool divorce senior panic";
+var mnemonic = "climb engage cry clump where planet document nothing student police sketch tag";

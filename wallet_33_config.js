@@ -1,1 +1,1 @@
-var mnemonic = "lava gospel into question mad mouse cereal cheap lizard tank emotion grain";
+var mnemonic = "burst onion wall silent push average robust pattern trust type involve conduct";

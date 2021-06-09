@@ -1,1 +1,1 @@
-var mnemonic = "sniff jump dune drastic scan twice party fancy empty clerk brisk goat";
+var mnemonic = "fringe trip stairs witness cannon melody primary knee knee finish machine doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse like problem uphold slam bubble summer build easily tip gift matter";
+var mnemonic = "quit verb enter milk nothing odor carpet juice report thunder skate document";

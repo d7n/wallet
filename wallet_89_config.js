@@ -1,1 +1,1 @@
-var mnemonic = "achieve ozone benefit man food shell snake input high number prosper sight";
+var mnemonic = "reflect apple gravity beyond praise priority radar coyote buddy erupt bamboo valley";

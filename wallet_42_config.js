@@ -1,1 +1,1 @@
-var mnemonic = "replace custom laugh social riot mouse patient topple neglect crack valid buzz";
+var mnemonic = "moment medal march bubble robust plunge sketch tenant hand visit twelve venture";

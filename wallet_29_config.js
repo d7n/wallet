@@ -1,1 +1,1 @@
-var mnemonic = "dune code permit eagle dinosaur stick course patrol bleak strong excuse ridge";
+var mnemonic = "grace fog pottery arch design cruise vibrant bundle retire steel beauty dash";

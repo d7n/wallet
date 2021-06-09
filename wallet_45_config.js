@@ -1,1 +1,1 @@
-var mnemonic = "mail jump echo scorpion note dice street holiday silver invest fade cave";
+var mnemonic = "nest pride shell divorce attend library effort blanket salute track unfair citizen";

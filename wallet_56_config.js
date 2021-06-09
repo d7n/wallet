@@ -1,1 +1,1 @@
-var mnemonic = "giraffe brush wisdom tilt shallow wagon sing tip city chronic sentence guitar";
+var mnemonic = "cave climb naive hope robot borrow resource great position satoshi bar setup";

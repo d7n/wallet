@@ -1,1 +1,1 @@
-var mnemonic = "test unique enhance fabric satoshi crystal enrich apology account owner assist rate";
+var mnemonic = "basket sweet weekend indicate comic length goat armed leisure prevent pill plastic";
