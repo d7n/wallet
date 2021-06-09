@@ -1,1 +1,1 @@
-var mnemonic = "weasel model dawn snow trash rebuild excess half artist waste grit trick";
+var mnemonic = "unique sunny drift ride correct lamp boil whip sugar hungry travel skirt";

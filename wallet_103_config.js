@@ -1,1 +1,1 @@
-var mnemonic = "swap chase later section solve doll where try walk calm team woman";
+var mnemonic = "force novel cabin utility cart remove such slush forest cable skate ketchup";

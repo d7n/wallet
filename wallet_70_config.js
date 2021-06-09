@@ -1,1 +1,1 @@
-var mnemonic = "squirrel engine brown pluck miracle approve scale jazz permit pass fat rhythm";
+var mnemonic = "inherit harbor return struggle derive fiber picture inspire palace roof under law";

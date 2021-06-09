@@ -1,1 +1,1 @@
-var mnemonic = "normal cross please tragic push mass possible main forum pretty robot board";
+var mnemonic = "sheriff hospital enlist slice gown antique coral loop caution marble mystery travel";

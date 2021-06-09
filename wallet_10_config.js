@@ -1,1 +1,1 @@
-var mnemonic = "author physical increase outdoor prize crush fox stem chimney blast outside advance";
+var mnemonic = "park issue document above athlete inflict version advance body style chat inside";

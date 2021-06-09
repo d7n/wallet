@@ -1,1 +1,1 @@
-var mnemonic = "spoil tornado play alcohol more work squirrel pledge sense various east guard";
+var mnemonic = "faith sting spin eternal since area initial tackle position social beauty happy";

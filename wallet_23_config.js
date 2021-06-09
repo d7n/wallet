@@ -1,1 +1,1 @@
-var mnemonic = "black narrow detect rebuild era child achieve laugh above eight early cheap";
+var mnemonic = "until payment moment execute crater ceiling logic easy tube extra license palace";

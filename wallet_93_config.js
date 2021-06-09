@@ -1,1 +1,1 @@
-var mnemonic = "table speak across enrich protect puzzle exit dream ethics road other reduce";
+var mnemonic = "wink hill you oxygen arrest stereo display little climb media frequent breeze";

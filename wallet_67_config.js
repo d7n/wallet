@@ -1,1 +1,1 @@
-var mnemonic = "slow addict curious click repeat siege balcony lumber gasp raw slow harvest";
+var mnemonic = "deny wolf lemon cruel wrong scrap idle march country disagree poet width";

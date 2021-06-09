@@ -1,1 +1,1 @@
-var mnemonic = "version anger woman inject decrease hello panther saddle wagon three job club";
+var mnemonic = "scare prefer acid maid gadget pond wedding primary frozen indoor level short";

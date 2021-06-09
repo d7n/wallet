@@ -1,1 +1,1 @@
-var mnemonic = "thank crouch school come diagram cabin awake atom write narrow cliff magic";
+var mnemonic = "february stereo soldier april join spot sibling flavor skate plug blush bleak";

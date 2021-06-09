@@ -1,1 +1,1 @@
-var mnemonic = "dentist warm similar nature riot modify black cabbage uniform accuse elephant such";
+var mnemonic = "food thank example situate lyrics step unfold lab track brisk anchor addict";

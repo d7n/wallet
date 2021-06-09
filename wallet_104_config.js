@@ -1,1 +1,1 @@
-var mnemonic = "ill stay shaft escape palace lake blue warm monitor turkey still movie";
+var mnemonic = "rain grab health forget symbol bargain evil stuff venture legal will quantum";

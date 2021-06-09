@@ -1,1 +1,1 @@
-var mnemonic = "slogan fork brick bar circle tree filter cement mango vacuum grab fly";
+var mnemonic = "marble couple leisure mesh engage name hamster mesh horn setup ordinary twin";

@@ -1,1 +1,1 @@
-var mnemonic = "success abstract enemy virtual doll route uphold city clip scout identify unaware";
+var mnemonic = "risk beyond blur educate series again trouble talk silent suggest course angry";

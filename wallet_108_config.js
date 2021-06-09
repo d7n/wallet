@@ -1,1 +1,1 @@
-var mnemonic = "matrix foam allow snake palm party fever print major tunnel scout actual";
+var mnemonic = "steel slot route lift artwork globe undo topic answer unknown proof goat";

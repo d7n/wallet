@@ -1,1 +1,1 @@
-var mnemonic = "another napkin ocean mule waste confirm scorpion autumn fragile oppose borrow reflect";
+var mnemonic = "lumber mammal rocket feature raven chef betray flame super mixture rail caught";

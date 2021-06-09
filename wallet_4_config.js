@@ -1,1 +1,1 @@
-var mnemonic = "midnight increase owner witness wet elder grit because cheese cover drum zoo";
+var mnemonic = "juice eagle sting sauce nuclear this clap delay exact rotate north execute";

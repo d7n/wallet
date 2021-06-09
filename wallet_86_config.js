@@ -1,1 +1,1 @@
-var mnemonic = "give slam cheap asset trigger tribe tilt trash ice argue goddess vote";
+var mnemonic = "inmate blood speed service resist cactus coconut copy myself mosquito inch emerge";

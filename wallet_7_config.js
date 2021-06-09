@@ -1,1 +1,1 @@
-var mnemonic = "soda illness hat spoon arm quarter inside hundred blue autumn element feature";
+var mnemonic = "discover help almost swear buyer phrase credit bamboo liberty sound unveil mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "upper merry waste grid mask such rabbit hint spin cupboard sibling clever";
+var mnemonic = "topple junk object unhappy solve write eternal thumb dove suit defy junk";

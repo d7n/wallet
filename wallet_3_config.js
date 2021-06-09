@@ -1,1 +1,1 @@
-var mnemonic = "delay party twin badge dance soldier salmon useless affair leisure bunker toe";
+var mnemonic = "affair drastic trash real finish exercise pave orbit retire bullet patch earth";

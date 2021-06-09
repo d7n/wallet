@@ -1,1 +1,1 @@
-var mnemonic = "area ripple board rotate insect square fossil earth sponsor two stomach much";
+var mnemonic = "height nation build price solar room forward grunt round tip cabin interest";

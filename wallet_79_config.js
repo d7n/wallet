@@ -1,1 +1,1 @@
-var mnemonic = "fever pass link else cluster relief slide please forward ozone elite rabbit";
+var mnemonic = "combine flame bundle lamp service guilt seat neglect swift train raven alter";

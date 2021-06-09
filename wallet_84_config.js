@@ -1,1 +1,1 @@
-var mnemonic = "parade soul famous green expand science rose clerk tornado guess reform cancel";
+var mnemonic = "ski knee library oppose plastic opinion stumble inject air pink change force";

@@ -1,1 +1,1 @@
-var mnemonic = "party use need artwork define suit trust smart awesome trim shrug prepare";
+var mnemonic = "crystal present forget remain argue zone swift toss series smoke floor slot";

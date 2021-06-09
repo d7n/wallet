@@ -1,1 +1,1 @@
-var mnemonic = "rug grab focus document dolphin spot famous author square arrest ability hidden";
+var mnemonic = "valve proof food depend digital dwarf labor clarify code fine mask borrow";

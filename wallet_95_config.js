@@ -1,1 +1,1 @@
-var mnemonic = "riot disease car pole vocal middle near appear snow stage expose rubber";
+var mnemonic = "face tomorrow promote grain shadow clay treat require glow simple floor notice";

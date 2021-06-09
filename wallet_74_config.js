@@ -1,1 +1,1 @@
-var mnemonic = "knock stamp vapor method match legend oven margin mobile market oblige ostrich";
+var mnemonic = "chuckle fossil ride climb army omit chaos switch bamboo army ordinary hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "knife purpose impose boy verb attitude luggage scrap pill network moment matrix";
+var mnemonic = "kite squeeze equal vehicle during hurdle home over dress sing call inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "guess employ midnight hurt angry kid ugly desk glory budget laundry brand";
+var mnemonic = "manage prepare sort solar boil upon crop expire program decrease collect ocean";

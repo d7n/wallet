@@ -1,1 +1,1 @@
-var mnemonic = "script rookie tomato enrich tape load actress estate obey grass credit call";
+var mnemonic = "lake another kid eyebrow inside motion stick snap wreck obey hazard father";

@@ -1,1 +1,1 @@
-var mnemonic = "balance upgrade balcony during sister very crunch very sausage snake void shaft";
+var mnemonic = "globe aisle slogan magic issue ginger promote drop limb remember then snap";

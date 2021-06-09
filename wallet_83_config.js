@@ -1,1 +1,1 @@
-var mnemonic = "equip expire ice search scrap library want junk brisk any angry lottery";
+var mnemonic = "sniff fly scissors advance insect tobacco evolve express dust between army course";

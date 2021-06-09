@@ -1,1 +1,1 @@
-var mnemonic = "flock ice sail dune human romance bird wrestle ask lake focus slim";
+var mnemonic = "picnic invest entry option between suit soap step lady echo paper ripple";

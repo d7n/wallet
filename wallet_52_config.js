@@ -1,1 +1,1 @@
-var mnemonic = "love cute indoor unhappy craft nice shock oblige silk rifle render dog";
+var mnemonic = "tattoo typical coil door consider edge black adjust rug charge tool festival";

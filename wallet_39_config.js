@@ -1,1 +1,1 @@
-var mnemonic = "guitar detect fragile hotel wrong come trigger tired magnet above twenty chest";
+var mnemonic = "drink clarify best design nasty mouse pelican adult struggle next device claim";

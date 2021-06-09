@@ -1,1 +1,1 @@
-var mnemonic = "salon brief minute pioneer address current target day cargo remember envelope grass";
+var mnemonic = "gasp flat lunch mind brass market horn number repair sail normal need";

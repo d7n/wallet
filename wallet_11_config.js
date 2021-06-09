@@ -1,1 +1,1 @@
-var mnemonic = "proof science champion rule margin title region thing escape program flip version";
+var mnemonic = "object master source ocean before guilt subject flag initial card space symptom";

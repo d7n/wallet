@@ -1,1 +1,1 @@
-var mnemonic = "token soap kick payment useful adjust peace laptop weather equip trigger few";
+var mnemonic = "animal limit nephew riot shallow elegant gate change when rely pulse turn";

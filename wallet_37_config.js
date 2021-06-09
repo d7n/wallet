@@ -1,1 +1,1 @@
-var mnemonic = "monkey retire build humor general theme begin pitch tube pass soap onion";
+var mnemonic = "receive bid hill never often damp desert dirt assault zero lumber enrich";

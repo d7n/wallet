@@ -1,1 +1,1 @@
-var mnemonic = "hidden idle vessel happy tiny double weasel come raven rich primary title";
+var mnemonic = "aisle design belt detail light mouse faint level coffee border grab warm";

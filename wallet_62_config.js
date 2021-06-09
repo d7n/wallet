@@ -1,1 +1,1 @@
-var mnemonic = "pledge rifle net state casino gesture machine hunt cactus exile angle audit";
+var mnemonic = "toilet bag bag connect record curve soul exercise detail leopard onion gesture";

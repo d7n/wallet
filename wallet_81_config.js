@@ -1,1 +1,1 @@
-var mnemonic = "spin van sustain pond borrow arrange include taxi transfer tackle math lunch";
+var mnemonic = "twelve kick once just cluster jelly ignore remind deliver like flip leaf";

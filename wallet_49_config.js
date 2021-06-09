@@ -1,1 +1,1 @@
-var mnemonic = "flavor behind select unfair luggage leg science erode affair inquiry garbage flavor";
+var mnemonic = "warrior cram pretty jar finger shallow boost upset law joy mimic hockey";

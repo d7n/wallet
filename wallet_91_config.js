@@ -1,1 +1,1 @@
-var mnemonic = "circle tourist potato also uniform forward peanut chunk dash ugly come lesson";
+var mnemonic = "shell embark antique human excuse earn visual mushroom feel umbrella fever beef";

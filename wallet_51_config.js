@@ -1,1 +1,1 @@
-var mnemonic = "olympic swap club detail fat eye note member pair vicious photo filter";
+var mnemonic = "ridge subway assault pulp ostrich doctor muscle again various text slim seven";

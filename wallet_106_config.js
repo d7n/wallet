@@ -1,1 +1,1 @@
-var mnemonic = "green neither throw forward century pizza cart dice anger cute grant trial";
+var mnemonic = "agree evidence throw park surge roof couch exotic exclude manage record reduce";

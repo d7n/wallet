@@ -1,1 +1,1 @@
-var mnemonic = "switch coil morning deputy pelican cereal soccer gospel phone shy alone milk";
+var mnemonic = "clay zone minor local secret game elder gaze airport coral inherit skull";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator copy oyster balance vibrant expire ensure task hazard raven tiger panther";
+var mnemonic = "fade luggage catalog sport mercy harvest tooth announce dash alarm pipe combine";

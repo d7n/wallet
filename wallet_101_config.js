@@ -1,1 +1,1 @@
-var mnemonic = "possible damage mercy parent paddle space diet key because accident eyebrow state";
+var mnemonic = "spot game patch peanut avoid suspect scale sustain meadow spray loyal valve";

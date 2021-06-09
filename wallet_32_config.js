@@ -1,1 +1,1 @@
-var mnemonic = "rigid gasp idea ivory retire tragic relax flee all program salt warrior";
+var mnemonic = "chat soup galaxy helmet aerobic enhance silly depth change desert local absorb";

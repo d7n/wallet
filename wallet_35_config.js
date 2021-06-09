@@ -1,1 +1,1 @@
-var mnemonic = "brave matrix voice crop fade dress main sea much initial oak useful";
+var mnemonic = "boil pelican chef elbow glow inquiry fence demise gentle wolf marine buyer";

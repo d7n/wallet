@@ -1,1 +1,1 @@
-var mnemonic = "dad tornado check tower siren child ripple husband brand spell link observe";
+var mnemonic = "eagle october effort best real buzz come wolf mechanic modify absent walnut";

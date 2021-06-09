@@ -1,1 +1,1 @@
-var mnemonic = "glimpse grass heavy nature review notable cement spend tissue link fold shove";
+var mnemonic = "note clay mind boost swarm lizard april copper across zoo lend road";

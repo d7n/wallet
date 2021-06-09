@@ -1,1 +1,1 @@
-var mnemonic = "industry behave access business orchard choose apple pattern tonight slide clap over";
+var mnemonic = "derive quarter hover neither figure click moral universe eyebrow patch whale eight";

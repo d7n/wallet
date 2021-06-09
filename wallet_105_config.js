@@ -1,1 +1,1 @@
-var mnemonic = "vivid metal limit gas pass account buzz skill video trick switch borrow";
+var mnemonic = "fragile peasant dash water table mushroom song slice hen silly victory motion";

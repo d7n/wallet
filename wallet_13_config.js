@@ -1,1 +1,1 @@
-var mnemonic = "check script elegant topic bonus end square struggle tumble mystery effort utility";
+var mnemonic = "pupil blouse axis unit law wealth tornado expose trumpet later layer toy";

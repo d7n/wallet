@@ -1,1 +1,1 @@
-var mnemonic = "unusual wire creek dice soft giggle interest ranch rose toilet point range";
+var mnemonic = "fence truth amount envelope woman nice cancel hybrid group hole acoustic humor";

@@ -1,1 +1,1 @@
-var mnemonic = "meat correct together bullet into situate mystery crunch panther loop rocket lonely";
+var mnemonic = "brain deny swear field oval latin secret obtain mercy walnut sausage duck";

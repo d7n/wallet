@@ -1,1 +1,1 @@
-var mnemonic = "impact print harvest quit answer mix honey solution skate trouble half achieve";
+var mnemonic = "average mouse staff inquiry gorilla crumble online time audit peace screen stone";

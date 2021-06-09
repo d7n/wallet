@@ -1,1 +1,1 @@
-var mnemonic = "purity potato decorate rotate person various filter sound unit stumble hill cheap";
+var mnemonic = "option alone drip shoot blanket light toe menu alter tackle road elder";

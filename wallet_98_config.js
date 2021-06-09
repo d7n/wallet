@@ -1,1 +1,1 @@
-var mnemonic = "carpet exit bless office hurdle roof hire mule risk repeat fault hill";
+var mnemonic = "satisfy upper host ticket this betray all return frequent squirrel protect muffin";

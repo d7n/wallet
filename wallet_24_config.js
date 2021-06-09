@@ -1,1 +1,1 @@
-var mnemonic = "push morning ramp will essence own inspire extra deputy goddess occur olive";
+var mnemonic = "hen sunny stairs disease nasty peasant diet kit feed achieve avocado oak";

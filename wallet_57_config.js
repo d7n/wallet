@@ -1,1 +1,1 @@
-var mnemonic = "prefer document child flame stone struggle wolf choose okay suggest ketchup blade";
+var mnemonic = "rude limit such fall style rule upon pulp idle myself field bulk";

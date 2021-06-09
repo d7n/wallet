@@ -1,1 +1,1 @@
-var mnemonic = "upgrade diesel ready smart remove one have purchase sponsor copy air foil";
+var mnemonic = "exact medal prize net negative debris office hammer inmate desert disagree poverty";

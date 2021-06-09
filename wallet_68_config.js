@@ -1,1 +1,1 @@
-var mnemonic = "address find notice tissue sunset group opinion middle sketch planet already impulse";
+var mnemonic = "kit rigid mesh average divert duty charge remove pigeon ten siege art";

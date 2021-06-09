@@ -1,1 +1,1 @@
-var mnemonic = "deliver violin shadow draft panel manage usage turtle fitness sample segment rebel";
+var mnemonic = "believe obvious priority gallery hospital deny avoid steel someone unusual sniff oxygen";

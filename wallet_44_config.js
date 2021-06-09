@@ -1,1 +1,1 @@
-var mnemonic = "surge hotel when dawn super artefact access sense border secret orphan busy";
+var mnemonic = "gauge cage jar library feed steel keen effort immense feel transfer close";

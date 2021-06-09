@@ -1,1 +1,1 @@
-var mnemonic = "true crop wheat rebel rather peasant text person injury pole mimic pig";
+var mnemonic = "depend what win nature skin spread act until owner awake diesel this";

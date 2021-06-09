@@ -1,1 +1,1 @@
-var mnemonic = "path motor method royal crime around bag leader south gap absurd sound";
+var mnemonic = "salute mountain fix east approve caution empower hawk tongue walnut praise idea";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse clown latin ridge faith learn afford open chat muffin derive cave";
+var mnemonic = "marine panda remember poem moment horror yellow nephew warm debris harbor ball";

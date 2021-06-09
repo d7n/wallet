@@ -1,1 +1,1 @@
-var mnemonic = "waste inch daughter excess session awake hand annual ankle edit extend affair";
+var mnemonic = "level noodle salmon inspire much copper fiction case sock clog arrive battle";

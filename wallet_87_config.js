@@ -1,1 +1,1 @@
-var mnemonic = "capable mystery rail iron water clown found benefit strategy oblige genius stereo";
+var mnemonic = "olympic enough impose market flat conduct feel divert bronze buffalo guide asset";

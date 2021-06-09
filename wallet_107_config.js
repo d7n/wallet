@@ -1,1 +1,1 @@
-var mnemonic = "address fluid example clip mutual hard correct travel sound mule gym unfair";
+var mnemonic = "need eight trouble almost report frame fiber primary type brain hurt gift";

@@ -1,1 +1,1 @@
-var mnemonic = "firm illness disorder rain busy tooth father shrimp this any boring glue";
+var mnemonic = "art trouble guilt tent observe horse nest blind amateur alter rotate pledge";

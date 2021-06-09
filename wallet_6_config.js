@@ -1,1 +1,1 @@
-var mnemonic = "chronic stick uphold couple tongue stool below history guide floor gesture cloth";
+var mnemonic = "rate ring crime video digital essence kitchen bulb survey angry marriage expose";

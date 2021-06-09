@@ -1,1 +1,1 @@
-var mnemonic = "execute glue alert outer pig hidden unique ladder uncover crisp forward very";
+var mnemonic = "razor day fabric fiber error lecture will tornado improve figure error crystal";

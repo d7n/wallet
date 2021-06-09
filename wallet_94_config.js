@@ -1,1 +1,1 @@
-var mnemonic = "consider pottery cradle proud vehicle spice plunge depth rally perfect ladder shadow";
+var mnemonic = "afford border vapor humble emerge garage deposit stamp naive coin deal dune";

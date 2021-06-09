@@ -1,1 +1,1 @@
-var mnemonic = "icon season gas galaxy usual strike next enable deposit ghost unknown embody";
+var mnemonic = "grass volume decade staff mystery magic property excess razor nothing dirt urge";

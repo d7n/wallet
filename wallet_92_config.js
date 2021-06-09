@@ -1,1 +1,1 @@
-var mnemonic = "lazy iron exact legal trim phone leisure rhythm visa spider stereo kite";
+var mnemonic = "junior hello educate farm night issue like balance click aspect peanut element";
