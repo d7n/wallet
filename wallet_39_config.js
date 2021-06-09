@@ -1,1 +1,1 @@
-var mnemonic = "turn best destroy surround iron monster manage odor elevator lottery excite link";
+var mnemonic = "coconut detect air jar shoot rebel bargain hole voyage enter honey frown";

@@ -1,1 +1,1 @@
-var mnemonic = "fire expect again extra bag slice century novel enroll hint spin author";
+var mnemonic = "wolf arm neutral tank you aware web step acid hire outdoor material";

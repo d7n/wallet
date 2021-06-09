@@ -1,1 +1,1 @@
-var mnemonic = "belt common poem tip walnut blanket insane guard mean biology risk sheriff";
+var mnemonic = "addict vacant behave corn intact night trust mother toddler field device noodle";

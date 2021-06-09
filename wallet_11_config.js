@@ -1,1 +1,1 @@
-var mnemonic = "cloud husband apology seven coral drama faith kind lawsuit pool winner guess";
+var mnemonic = "apology fever stick honey layer assault heavy goat answer vanish icon hour";

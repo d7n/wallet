@@ -1,1 +1,1 @@
-var mnemonic = "tank cool trigger excess obey large corn awkward body alarm brick prosper";
+var mnemonic = "record maximum music clarify problem lobster echo because worth guitar royal discover";

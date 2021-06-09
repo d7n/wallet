@@ -1,1 +1,1 @@
-var mnemonic = "section water pig fiction thing soup exact canvas fix govern fly pilot";
+var mnemonic = "dilemma pull setup blue pelican surge legend grid antenna beach whale horror";

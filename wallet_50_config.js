@@ -1,1 +1,1 @@
-var mnemonic = "fiber album switch bring village venture erode indicate swallow chaos tragic piece";
+var mnemonic = "split much polar panda question cabin video ask myself diagram consider virus";

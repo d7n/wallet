@@ -1,1 +1,1 @@
-var mnemonic = "canal bus summer zebra canyon come wrestle only cube gloom deposit sphere";
+var mnemonic = "scout chef rabbit dolphin local win enrich dance oblige witness emerge toast";

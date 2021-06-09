@@ -1,1 +1,1 @@
-var mnemonic = "bench pulse travel initial axis burden hat stand daughter garden main jazz";
+var mnemonic = "enable win embrace roast actor theory cook chunk earn such couple net";

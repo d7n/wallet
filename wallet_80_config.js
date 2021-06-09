@@ -1,1 +1,1 @@
-var mnemonic = "idea donor little horn involve educate mule prison proof idea crystal gravity";
+var mnemonic = "ask copy shop belt play insane gaze faculty solid annual indoor swarm";

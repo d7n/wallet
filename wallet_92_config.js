@@ -1,1 +1,1 @@
-var mnemonic = "narrow chuckle grid glow couch special wait message innocent leave feature wild";
+var mnemonic = "brain jeans flat party shrug awake shine dose virus always right slam";

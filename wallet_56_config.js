@@ -1,1 +1,1 @@
-var mnemonic = "model hint annual scheme basket chapter upgrade stock tuna sibling wrap recipe";
+var mnemonic = "glare birth aisle typical chase farm scare mammal tree initial ring flush";

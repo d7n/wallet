@@ -1,1 +1,1 @@
-var mnemonic = "pony lonely slim label dawn base target van ignore palace once awake";
+var mnemonic = "sudden digital always fire boy stand laptop stairs rubber federal urge lizard";

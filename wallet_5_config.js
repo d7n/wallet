@@ -1,1 +1,1 @@
-var mnemonic = "latin exact analyst orchard entire label leaf pill virus stumble party ordinary";
+var mnemonic = "pull gasp blade cart sick peace season speak blade piece offer twist";

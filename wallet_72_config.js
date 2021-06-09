@@ -1,1 +1,1 @@
-var mnemonic = "impact enact tragic danger outer book warrior evoke dune upgrade force reveal";
+var mnemonic = "head auto august present exile blame siege leisure climb palace combine ribbon";

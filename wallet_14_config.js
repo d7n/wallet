@@ -1,1 +1,1 @@
-var mnemonic = "ankle truth sibling enter flip add toddler allow combine spring dish print";
+var mnemonic = "spatial sock ugly panda bid snap have sea labor tower scatter coach";

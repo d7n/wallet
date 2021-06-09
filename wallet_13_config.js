@@ -1,1 +1,1 @@
-var mnemonic = "timber monitor scorpion treat hire ready lady hill casual enforce antique stem";
+var mnemonic = "same vocal sausage gorilla tag noodle harsh boy spoon shrimp fun mixture";

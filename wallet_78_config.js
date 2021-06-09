@@ -1,1 +1,1 @@
-var mnemonic = "muscle bracket fee east planet because know trophy relief monster crack inside";
+var mnemonic = "bag battle demise tobacco famous sunset forum include fiction damp bone drink";

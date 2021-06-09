@@ -1,1 +1,1 @@
-var mnemonic = "chicken glory vessel track jar insect pen head edge camera auto shove";
+var mnemonic = "ocean seat bottom exact title beef figure slab sail rude crucial feel";

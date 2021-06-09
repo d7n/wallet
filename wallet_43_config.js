@@ -1,1 +1,1 @@
-var mnemonic = "old boil kiwi coin hurt often digital remove vendor strategy casual arrange";
+var mnemonic = "wasp wage box gather toy reunion control divorce sense sock phone original";

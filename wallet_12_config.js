@@ -1,1 +1,1 @@
-var mnemonic = "isolate obvious drive relax round theory drive artist august bulb cruel point";
+var mnemonic = "echo divide corn help retreat dice ceiling onion pride subject renew deer";

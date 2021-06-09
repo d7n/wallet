@@ -1,1 +1,1 @@
-var mnemonic = "roof hidden wheel write energy hill retreat dawn sure quote illness clever";
+var mnemonic = "panther float chest kind maximum glance drop island orbit trip ketchup agent";

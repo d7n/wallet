@@ -1,1 +1,1 @@
-var mnemonic = "gown wolf color coin table benefit divorce clown access client border elephant";
+var mnemonic = "ancient husband loud catalog follow frog impulse slide never tonight bottom tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "inject march pink follow citizen castle wisdom junk decade bitter alone symptom";
+var mnemonic = "engine jump regret elegant elite bracket drill script float weasel run law";

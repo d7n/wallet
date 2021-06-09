@@ -1,1 +1,1 @@
-var mnemonic = "renew expand symptom text crystal daughter load whip today candy food loud";
+var mnemonic = "chronic again crouch pact outer drift jump abstract correct split orbit poem";

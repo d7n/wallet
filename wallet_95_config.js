@@ -1,1 +1,1 @@
-var mnemonic = "swarm budget duck dream language eyebrow around fresh pumpkin annual purchase wear";
+var mnemonic = "boil among already electric magnet cat suspect envelope learn crime detail slogan";

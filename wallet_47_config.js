@@ -1,1 +1,1 @@
-var mnemonic = "pistol alley curious ignore web arrest turtle path tomato circle tenant nasty";
+var mnemonic = "army mixture truly harbor romance cart bar clip nature permit repeat faint";

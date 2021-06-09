@@ -1,1 +1,1 @@
-var mnemonic = "runway noise jump iron canal rebuild recall census legal diet plastic label";
+var mnemonic = "cattle rebuild trap route used way pass long elephant moral potato cereal";

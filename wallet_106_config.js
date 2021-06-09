@@ -1,1 +1,1 @@
-var mnemonic = "adapt hole begin great upon wrist grace wife industry bind fall soup";
+var mnemonic = "road more unaware cover table insect donor million eight artwork find airport";

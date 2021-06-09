@@ -1,1 +1,1 @@
-var mnemonic = "drive vibrant cake survey today lizard trust female south age boat mixture";
+var mnemonic = "casino early usual erase tube siege deputy taxi seed second egg gym";

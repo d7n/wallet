@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow wild special tag acquire hold surround lonely boil popular decorate zebra";
+var mnemonic = "conduct auto only depth glimpse rate truth wealth wine already faculty snap";

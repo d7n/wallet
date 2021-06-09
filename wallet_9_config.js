@@ -1,1 +1,1 @@
-var mnemonic = "direct shoe mass bubble neglect machine knife curve jungle defy add post";
+var mnemonic = "symbol obvious purity casual wagon swim pencil hobby top broken reward slogan";

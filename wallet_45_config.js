@@ -1,1 +1,1 @@
-var mnemonic = "canyon nominee drastic hat upgrade abandon answer invest poverty upgrade entry sign";
+var mnemonic = "saddle female urge knock perfect effort rose promote elbow common slide afraid";

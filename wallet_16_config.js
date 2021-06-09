@@ -1,1 +1,1 @@
-var mnemonic = "flag yard convince limit rare feed tumble state limit beyond inner result";
+var mnemonic = "strategy loop ball dose salt around inform habit barely drama smoke trap";

@@ -1,1 +1,1 @@
-var mnemonic = "exist cage heart clarify pencil pioneer upper since inmate field trust naive";
+var mnemonic = "wage blood child toss dust reject before north awkward define fit carpet";

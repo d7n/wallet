@@ -1,1 +1,1 @@
-var mnemonic = "reduce inner cabbage verify erosion asset quality concert model fiscal chicken cage";
+var mnemonic = "sting firm chat truly afford stereo check behave rate capital shadow blouse";

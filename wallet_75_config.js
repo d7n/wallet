@@ -1,1 +1,1 @@
-var mnemonic = "shallow lamp that until quit rookie above discover announce first caution occur";
+var mnemonic = "barrel pet excuse immune piece garlic bring foil wrong action conduct coffee";

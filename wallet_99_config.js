@@ -1,1 +1,1 @@
-var mnemonic = "robot sphere boy nominee wire injury hunt scare boost stable worth upset";
+var mnemonic = "ten notable remain foam depend fiction inside unusual syrup rail habit grass";

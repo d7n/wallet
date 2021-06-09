@@ -1,1 +1,1 @@
-var mnemonic = "error monster hazard suspect eager seed furnace ugly clinic suit fly winner";
+var mnemonic = "invest endorse canyon train fuel tilt bundle soda foot cave denial advice";

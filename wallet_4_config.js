@@ -1,1 +1,1 @@
-var mnemonic = "ask cheese infant fabric reflect galaxy ritual satoshi universe body embody remain";
+var mnemonic = "album uncle timber monster diagram inhale pilot merry approve bonus such roast";

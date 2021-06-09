@@ -1,1 +1,1 @@
-var mnemonic = "garden upon laundry mesh debris flip birth siren indoor ecology sell any";
+var mnemonic = "guilt shell thing shallow shrug plunge arm finish hole stand sausage put";

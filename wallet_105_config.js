@@ -1,1 +1,1 @@
-var mnemonic = "grow system carry leaf choice frame thank fabric arena anchor price wife";
+var mnemonic = "father town wink apology dinner elbow clutch pepper topple reason thank rack";

@@ -1,1 +1,1 @@
-var mnemonic = "empty clinic universe view enrich glad asthma fragile praise firm hazard nature";
+var mnemonic = "olive dad melt payment concert river enact sample midnight run nature proof";

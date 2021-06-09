@@ -1,1 +1,1 @@
-var mnemonic = "enforce blur frame blind control ignore arm general purchase three hope survey";
+var mnemonic = "change stomach tomato wisdom midnight swallow patch crucial swear kitten future worry";

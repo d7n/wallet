@@ -1,1 +1,1 @@
-var mnemonic = "worry equip motion journey inflict cheese grunt liberty over learn silk oppose";
+var mnemonic = "legal okay slight behave decrease blast sword column move brand sheriff borrow";

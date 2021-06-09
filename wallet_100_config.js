@@ -1,1 +1,1 @@
-var mnemonic = "wire aisle kitchen round lunar pipe hidden gasp menu aspect hour cover";
+var mnemonic = "icon valley metal meadow punch ask smile lizard truly wasp local maple";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding clog test anger same merit village forest admit chat vanish impulse";
+var mnemonic = "title this slogan suggest violin feature small mystery ordinary proud knock tomorrow";

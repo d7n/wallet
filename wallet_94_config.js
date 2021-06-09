@@ -1,1 +1,1 @@
-var mnemonic = "lamp claw develop obtain student chunk note just settle actor prison before";
+var mnemonic = "toss sick wrap pole sock weapon winner include occur direct fox inflict";

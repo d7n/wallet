@@ -1,1 +1,1 @@
-var mnemonic = "route dad physical rubber agree level sick kiwi hazard water dance ring";
+var mnemonic = "outside blanket lady wrong prosper obtain bus curtain large index brother antique";

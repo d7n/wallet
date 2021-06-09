@@ -1,1 +1,1 @@
-var mnemonic = "scout item spell citizen left staff fashion satoshi train peace choose stove";
+var mnemonic = "tired uphold ability slow adjust cute seek enroll shaft option dune home";

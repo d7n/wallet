@@ -1,1 +1,1 @@
-var mnemonic = "panther hotel shoe auto over ramp divorce indicate view matter black open";
+var mnemonic = "coconut local buyer crumble zone crane metal fury where you holiday volcano";

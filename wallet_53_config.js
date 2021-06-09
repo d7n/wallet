@@ -1,1 +1,1 @@
-var mnemonic = "custom marble chapter system sausage popular illness health horn nasty below energy";
+var mnemonic = "girl situate pool nephew history arctic raise awkward kangaroo prepare inch inch";

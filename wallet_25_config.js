@@ -1,1 +1,1 @@
-var mnemonic = "net enter retreat slab crazy mushroom slush wisdom video nurse monkey draft";
+var mnemonic = "example clap sword alpha wasp library nation material garbage damp phone glow";

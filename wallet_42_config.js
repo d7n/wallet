@@ -1,1 +1,1 @@
-var mnemonic = "day right fall board echo laptop coil inmate such torch flag gate";
+var mnemonic = "focus word debate nurse kitchen day praise arrange excess divert nut people";

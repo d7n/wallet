@@ -1,1 +1,1 @@
-var mnemonic = "stable secret tank solar cradle license amused achieve seat surface parrot bless";
+var mnemonic = "myself must mechanic wing deer post market media monkey denial hollow cute";

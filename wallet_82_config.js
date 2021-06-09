@@ -1,1 +1,1 @@
-var mnemonic = "recycle coil cable wrist response cannon feel knee night federal answer patient";
+var mnemonic = "million supreme album blush high include eternal stay defy brass eight purse";

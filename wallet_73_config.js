@@ -1,1 +1,1 @@
-var mnemonic = "correct crawl pluck ugly mandate vocal nothing cool fox speak catalog program";
+var mnemonic = "few mobile range option soda mesh bag must random scrub upgrade renew";

@@ -1,1 +1,1 @@
-var mnemonic = "trap combine round write mass goose sheriff kick leave gate seek permit";
+var mnemonic = "spin pyramid twist panic eternal volcano galaxy eight scrub alone force patrol";

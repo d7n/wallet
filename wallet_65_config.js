@@ -1,1 +1,1 @@
-var mnemonic = "clean box industry genuine sheriff basic syrup edit dune emotion dream curve";
+var mnemonic = "news symbol trophy earth render dinner obscure fancy industry lamp brain slot";

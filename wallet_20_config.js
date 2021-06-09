@@ -1,1 +1,1 @@
-var mnemonic = "orbit arrive there height purpose glue index slam dust travel among emotion";
+var mnemonic = "vendor grab impose twice impact fit behind average mix south crowd donate";

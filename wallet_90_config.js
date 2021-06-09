@@ -1,1 +1,1 @@
-var mnemonic = "sail bulb plastic refuse notable rail transfer toward payment dirt gravity fame";
+var mnemonic = "emotion little width border early vivid jacket office since pencil divorce guilt";

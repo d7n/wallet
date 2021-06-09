@@ -1,1 +1,1 @@
-var mnemonic = "blossom warfare label rhythm title tornado bean symbol heart loyal extend erupt";
+var mnemonic = "detect conduct digital opera raise seven eight mixed impact foot abuse vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "glance slim social divert baby summer tool artwork speak layer vicious capable";
+var mnemonic = "siege foam truth suffer whisper jelly exact perfect age tree glory huge";

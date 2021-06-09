@@ -1,1 +1,1 @@
-var mnemonic = "hood quote pony income empty edit card process parent deal limit surround";
+var mnemonic = "equip method bounce foot coyote bubble parent cigar fiscal sentence kitchen physical";

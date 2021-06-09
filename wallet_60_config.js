@@ -1,1 +1,1 @@
-var mnemonic = "yard pond innocent salon lava pave card demand unfold joy music check";
+var mnemonic = "situate host issue spread tired cactus puzzle cabin measure turn three emerge";

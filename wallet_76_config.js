@@ -1,1 +1,1 @@
-var mnemonic = "begin need lawn mixture hold dwarf engage polar develop horse embrace code";
+var mnemonic = "core stuff raise ball era menu gym draw creek conduct original like";

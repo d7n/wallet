@@ -1,1 +1,1 @@
-var mnemonic = "identify pool smile same brave issue where cost laugh abstract chunk noise";
+var mnemonic = "cereal host inform rather erase front smoke search admit essence glove kit";

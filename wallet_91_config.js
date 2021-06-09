@@ -1,1 +1,1 @@
-var mnemonic = "sleep seek hamster inner image neglect smoke awkward jeans plunge bright scare";
+var mnemonic = "palace notice fiction now aunt border chunk glass top use hip crack";

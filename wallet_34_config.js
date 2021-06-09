@@ -1,1 +1,1 @@
-var mnemonic = "hospital street memory man unfold motor educate exchange isolate sweet spike scan";
+var mnemonic = "coconut fit raw ball judge story tenant imitate copper gate ritual review";

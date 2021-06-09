@@ -1,1 +1,1 @@
-var mnemonic = "hat eyebrow envelope friend arena fluid morning tenant child often athlete armed";
+var mnemonic = "wire empty tissue special purse quarter summer absent discover nest trigger shoe";

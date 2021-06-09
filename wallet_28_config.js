@@ -1,1 +1,1 @@
-var mnemonic = "human floor shuffle three coconut tilt hobby deal stage diagram pill state";
+var mnemonic = "butter junk snow film woman upper fence ensure patient main million orphan";

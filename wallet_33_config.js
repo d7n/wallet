@@ -1,1 +1,1 @@
-var mnemonic = "album chronic duck upgrade sausage rent sand movie mention fan deliver live";
+var mnemonic = "blue connect chief use fatigue require walk deal game broom symbol whisper";

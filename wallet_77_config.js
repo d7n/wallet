@@ -1,1 +1,1 @@
-var mnemonic = "guard melt deposit pyramid poem gasp canvas sweet theory obey carpet deposit";
+var mnemonic = "find quarter material begin harvest arrest loyal throw fire seminar trigger element";

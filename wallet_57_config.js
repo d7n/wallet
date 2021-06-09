@@ -1,1 +1,1 @@
-var mnemonic = "quantum huge border ribbon erupt lucky limb olympic hold welcome deal vessel";
+var mnemonic = "smooth grid zoo profit cross life hundred donor detect reject appear guitar";

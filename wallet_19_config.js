@@ -1,1 +1,1 @@
-var mnemonic = "stage only offer crumble someone vibrant furnace exit bind expire afraid engine";
+var mnemonic = "vehicle dwarf main volume chef dragon nominee shy hat video lady limb";

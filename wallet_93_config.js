@@ -1,1 +1,1 @@
-var mnemonic = "salad lamp actual open spring spy absent cry shy menu question success";
+var mnemonic = "large useless method cry obey clown essay final weather promote soap impulse";

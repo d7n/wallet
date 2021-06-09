@@ -1,1 +1,1 @@
-var mnemonic = "fashion apart situate idea armor uphold spoon knock spawn scrap scan bronze";
+var mnemonic = "join naive pretty since menu stove chef detect crash view right congress";

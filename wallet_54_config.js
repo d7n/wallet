@@ -1,1 +1,1 @@
-var mnemonic = "cycle render hub carry drip sister paper make awesome beef garbage ask";
+var mnemonic = "night exchange awake parrot action word push two hair forest figure moon";

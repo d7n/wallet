@@ -1,1 +1,1 @@
-var mnemonic = "found accuse goat require pitch island sibling match execute soft initial fiscal";
+var mnemonic = "exhibit nominee banner lumber horn sense imitate pitch enact dose base marine";

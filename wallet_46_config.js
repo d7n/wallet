@@ -1,1 +1,1 @@
-var mnemonic = "used refuse owner relax region slim bean believe move response true other";
+var mnemonic = "vintage enhance warfare snap soul coast ahead bone shrimp hint light orient";

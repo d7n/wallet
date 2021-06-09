@@ -1,1 +1,1 @@
-var mnemonic = "drop prepare reward suffer assume much step scrap virtual vacuum rail road";
+var mnemonic = "oyster kick beyond situate spy pelican grass sustain receive weapon ugly fortune";

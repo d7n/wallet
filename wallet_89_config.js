@@ -1,1 +1,1 @@
-var mnemonic = "home negative jealous iron control sand attract quote priority acoustic episode blossom";
+var mnemonic = "echo fashion seven tourist vicious invite frost man core common settle price";

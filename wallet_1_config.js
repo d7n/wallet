@@ -1,1 +1,1 @@
-var mnemonic = "mixed bike debris mammal snap breeze meadow spell disorder charge title balcony";
+var mnemonic = "camera man film onion mosquito brass pyramid snap bonus scare ancient peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "empty rose latin stove fragile brand lucky kitten tennis wheat unhappy water";
+var mnemonic = "jacket usual popular ticket caught puzzle cycle column defense sick orchard symbol";

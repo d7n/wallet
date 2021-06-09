@@ -1,1 +1,1 @@
-var mnemonic = "relief lecture moral wish second ski glide bulk budget expand dress split";
+var mnemonic = "crew kick skirt fitness select shoot reduce bid gauge food secret cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "suit burden pizza lamp trend faint bitter hammer glare height bind elder";
+var mnemonic = "goddess shrug ripple upgrade pledge alter volume future casino slight skull tornado";

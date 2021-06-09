@@ -1,1 +1,1 @@
-var mnemonic = "prevent address library purchase differ size cat heart area cement tone object";
+var mnemonic = "inject digital globe blind vessel magic brown lawn bring glance harvest cannon";

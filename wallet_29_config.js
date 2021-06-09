@@ -1,1 +1,1 @@
-var mnemonic = "strong latin minute aerobic session desk true plug enjoy need warrior boy";
+var mnemonic = "luggage rude general bundle spin spoil cycle silver regret unhappy engage female";

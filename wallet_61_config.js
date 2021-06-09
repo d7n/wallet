@@ -1,1 +1,1 @@
-var mnemonic = "squeeze seminar bus slow effort okay uphold isolate evidence galaxy miss weasel";
+var mnemonic = "drink purchase umbrella trim output lend virtual dress skill coach depth swap";
