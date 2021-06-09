@@ -1,1 +1,1 @@
-var mnemonic = "fix bleak poet kitchen total merry diet slim embark hollow joy permit";
+var mnemonic = "dash orchard oak enforce sponsor fantasy donor already glass gold gym language";

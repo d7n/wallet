@@ -1,1 +1,1 @@
-var mnemonic = "urban spin gravity jaguar mass pool huge flush mechanic forget combine parade";
+var mnemonic = "oval enable lens note involve cancel amused omit involve beef outside gravity";

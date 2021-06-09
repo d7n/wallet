@@ -1,1 +1,1 @@
-var mnemonic = "rug decrease stadium boil seek weasel close oppose animal beef scan position";
+var mnemonic = "proud strategy ranch grape pigeon leg humor obey enable parent congress brave";

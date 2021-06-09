@@ -1,1 +1,1 @@
-var mnemonic = "town book shadow mouse satoshi remain jealous unfold dash portion empty drama";
+var mnemonic = "gown palace illness knee scissors theme nothing hockey stone maple shaft junior";

@@ -1,1 +1,1 @@
-var mnemonic = "grace wonder august shuffle glimpse educate stereo super loop swim wall because";
+var mnemonic = "wisdom connect faith rough umbrella moon galaxy spy armor weird copper west";

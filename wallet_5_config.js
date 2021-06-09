@@ -1,1 +1,1 @@
-var mnemonic = "spirit soap mammal enlist message board purse frost elevator mushroom whisper dune";
+var mnemonic = "fabric tortoise beauty change bus basket juice clinic error fire task warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal rough recall grunt praise vicious acoustic negative burst among start original";
+var mnemonic = "noise meadow brother palm fun volume veteran derive wool collect acid sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal allow pistol search talent bacon emotion stuff drum leave chicken benefit";
+var mnemonic = "magnet bubble sure wide glue cupboard sudden quantum theory weird twice reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "animal shove fury deer era gadget umbrella horn acid truth employ danger";
+var mnemonic = "kick wreck key cute chunk home endless giant toss bachelor cereal roof";

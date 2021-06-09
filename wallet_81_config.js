@@ -1,1 +1,1 @@
-var mnemonic = "sure filter mule punch indoor certain prosper anchor laundry update era can";
+var mnemonic = "urban height hurt office lake engine churn axis domain correct another error";

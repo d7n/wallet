@@ -1,1 +1,1 @@
-var mnemonic = "thunder high acoustic quick mimic holiday kidney direct roof amused lobster spirit";
+var mnemonic = "denial quality curtain alien hockey fresh much burden sort olympic lunch when";

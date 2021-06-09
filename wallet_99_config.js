@@ -1,1 +1,1 @@
-var mnemonic = "choose force early couple chimney awkward drop lava inject inherit coach sleep";
+var mnemonic = "hidden sniff pill energy tooth sponsor erase board loop cinnamon lion belt";

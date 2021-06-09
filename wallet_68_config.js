@@ -1,1 +1,1 @@
-var mnemonic = "neutral transfer void outside session business decrease cruise husband reflect grant subject";
+var mnemonic = "never own income size crop barely inherit inner trick add brand evoke";

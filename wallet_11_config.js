@@ -1,1 +1,1 @@
-var mnemonic = "swamp eyebrow juice collect ceiling army cannon cross rather quote decade guess";
+var mnemonic = "armed deposit bacon foil verify pilot leader purity urge aerobic skirt myth";

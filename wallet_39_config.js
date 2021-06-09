@@ -1,1 +1,1 @@
-var mnemonic = "century verb pupil movie donkey actress chase have addict lava trend awake";
+var mnemonic = "fold spawn main tooth know lava clinic play circle jeans shaft toy";

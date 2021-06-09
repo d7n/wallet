@@ -1,1 +1,1 @@
-var mnemonic = "saddle refuse denial need fork price around cry concert peasant mix hill";
+var mnemonic = "gloom heavy cannon board orphan group evoke disagree swear dance horror share";

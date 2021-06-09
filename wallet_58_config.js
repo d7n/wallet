@@ -1,1 +1,1 @@
-var mnemonic = "scheme parent fantasy save sibling pipe confirm chat middle over develop planet";
+var mnemonic = "sustain use roof select indicate maple hockey they pudding matter accident rather";

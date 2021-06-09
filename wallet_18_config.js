@@ -1,1 +1,1 @@
-var mnemonic = "hole habit chest winter loyal royal seminar tip twin green faculty abstract";
+var mnemonic = "innocent tomato limit utility coral used stand soft join asset stand mountain";

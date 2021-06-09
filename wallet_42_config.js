@@ -1,1 +1,1 @@
-var mnemonic = "multiply birth save tell plate shoe pass oven spot unique action siege";
+var mnemonic = "monitor close title edit pull zone harvest awake crystal reject fitness canyon";

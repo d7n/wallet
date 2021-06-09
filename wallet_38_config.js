@@ -1,1 +1,1 @@
-var mnemonic = "suggest sign keen oblige session leopard song increase across dawn grow olive";
+var mnemonic = "steak laptop soccer amateur sibling accuse already damp network ugly impulse trigger";

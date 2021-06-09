@@ -1,1 +1,1 @@
-var mnemonic = "topic remove weasel hip injury scout praise false bridge fee orchard dinosaur";
+var mnemonic = "churn tuition stock flight flag caution alarm match front gown minor case";

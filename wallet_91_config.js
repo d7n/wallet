@@ -1,1 +1,1 @@
-var mnemonic = "rose entire ring snack account husband suspect method six daughter absurd employ";
+var mnemonic = "panel orchard match scatter primary wreck camera observe endless barely gospel provide";

@@ -1,1 +1,1 @@
-var mnemonic = "people brass about digital easily army supply angry divide sorry legend huge";
+var mnemonic = "infant digital wrong ostrich pencil kiwi tank assist mimic escape march dose";

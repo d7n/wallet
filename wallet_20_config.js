@@ -1,1 +1,1 @@
-var mnemonic = "syrup cherry science fatal visa abuse help coffee candy adapt topple equip";
+var mnemonic = "oak course select assist gospel boost treat fun wheat rain model name";

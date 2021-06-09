@@ -1,1 +1,1 @@
-var mnemonic = "into nephew expand cabin betray smoke service write dentist poet hurdle crater";
+var mnemonic = "traffic latin twin decorate pigeon outer balance neck repeat combine dune flower";

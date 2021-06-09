@@ -1,1 +1,1 @@
-var mnemonic = "endorse brother beauty pitch absent never vivid prize bundle coffee plug rug";
+var mnemonic = "great gun veteran author essence laugh together mean around weapon wide spend";

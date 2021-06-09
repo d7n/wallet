@@ -1,1 +1,1 @@
-var mnemonic = "news album taxi inner police canal fluid legal profit filter jacket charge";
+var mnemonic = "egg federal carbon humor fiscal duck then human spider album twenty match";

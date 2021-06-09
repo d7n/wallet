@@ -1,1 +1,1 @@
-var mnemonic = "island message fame olive impose city indicate video worry above sudden solid";
+var mnemonic = "photo deposit virus dynamic wedding picnic fix beef dentist mosquito ahead slow";

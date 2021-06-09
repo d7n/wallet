@@ -1,1 +1,1 @@
-var mnemonic = "satisfy tag quality hint project yard slab sample blossom bitter pear alley";
+var mnemonic = "try sudden sheriff sun crash clump neither appear run tuition ocean range";

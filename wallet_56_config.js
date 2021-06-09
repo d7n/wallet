@@ -1,1 +1,1 @@
-var mnemonic = "practice crumble initial unhappy maple asset find soft wise nation goddess oxygen";
+var mnemonic = "taste neglect dragon puzzle push easily rifle naive blade alter snow water";

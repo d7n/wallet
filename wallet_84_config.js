@@ -1,1 +1,1 @@
-var mnemonic = "young thank meadow market bracket ignore action parrot before force silent tuna";
+var mnemonic = "thing hover sense scrap involve pudding velvet axis satisfy loud mountain hungry";

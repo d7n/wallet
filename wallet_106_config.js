@@ -1,1 +1,1 @@
-var mnemonic = "response chest enroll disagree omit display hobby inch capital travel curtain rail";
+var mnemonic = "select code air very curtain cute control repair axis door bachelor estate";

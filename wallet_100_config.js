@@ -1,1 +1,1 @@
-var mnemonic = "fitness valid plastic atom nominee aim aspect cabbage yard present breeze primary";
+var mnemonic = "spirit tennis notable sword reveal agree debate receive pupil sign satoshi defense";

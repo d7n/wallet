@@ -1,1 +1,1 @@
-var mnemonic = "evolve slice budget circle maid find shuffle current about saddle stool desk";
+var mnemonic = "delay display bunker crater volume below oppose dice spawn barely stomach addict";

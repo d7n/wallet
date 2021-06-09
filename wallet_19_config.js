@@ -1,1 +1,1 @@
-var mnemonic = "lesson wing health supply tell enough tell dwarf board during lend essence";
+var mnemonic = "daring file smart universe prison lazy develop era pen will arrange spot";

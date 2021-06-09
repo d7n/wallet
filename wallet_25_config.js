@@ -1,1 +1,1 @@
-var mnemonic = "long scorpion seven glimpse appear unfold six wrap check glare vicious stove";
+var mnemonic = "detect diary digital lens beauty coyote wait pipe imitate year spring angry";

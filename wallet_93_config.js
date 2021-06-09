@@ -1,1 +1,1 @@
-var mnemonic = "valid parrot ill random thing fog enter boy nation install accuse roast";
+var mnemonic = "lab kitten safe swallow narrow inhale cart antenna entry town fence keen";

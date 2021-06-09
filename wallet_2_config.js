@@ -1,1 +1,1 @@
-var mnemonic = "van sponsor faint crucial main decorate symbol find edge small destroy trophy";
+var mnemonic = "joke nominee chief loan among clinic movie sustain shine tenant joy speed";

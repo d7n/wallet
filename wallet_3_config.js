@@ -1,1 +1,1 @@
-var mnemonic = "height employ culture suffer lake decrease borrow thunder easy mother eagle type";
+var mnemonic = "diary wheat agree noble ozone bacon tent balance urban tree bargain radar";

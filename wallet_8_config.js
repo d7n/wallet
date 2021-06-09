@@ -1,1 +1,1 @@
-var mnemonic = "oil crouch laptop sign unhappy hold carbon few profit real scout cherry";
+var mnemonic = "vicious key model confirm voyage page anchor else boss easy myth sad";

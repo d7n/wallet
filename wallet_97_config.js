@@ -1,1 +1,1 @@
-var mnemonic = "keen tragic pistol little rule have release merge avocado silly tuition artwork";
+var mnemonic = "image dumb noodle possible boost concert sausage talk inch chaos whip piano";

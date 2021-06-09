@@ -1,1 +1,1 @@
-var mnemonic = "pipe gym crack obvious pink prefer bottom dawn divide choose buddy embrace";
+var mnemonic = "member battle country mesh gadget clerk describe regret vacant ethics pride fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "card retreat scorpion say excess cart work phrase seat diamond delay pass";
+var mnemonic = "carbon minute caught toast ancient shaft crunch hire deny spread stomach notice";

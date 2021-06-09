@@ -1,1 +1,1 @@
-var mnemonic = "olive thought beauty sister easy never surprise soldier bronze minute cactus chalk";
+var mnemonic = "cluster region fee slot season rabbit pledge little snake boat gallery turn";

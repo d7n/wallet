@@ -1,1 +1,1 @@
-var mnemonic = "ranch wedding math consider foil cheese rotate sock neither gaze finish debris";
+var mnemonic = "blind token drop tray lonely arch rocket grunt trophy goose rate calm";

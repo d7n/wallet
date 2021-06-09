@@ -1,1 +1,1 @@
-var mnemonic = "spend sponsor verb filter hospital pen crop add jaguar laugh bind glass";
+var mnemonic = "cost strike fashion rib myth poet give obtain okay chef oven heart";

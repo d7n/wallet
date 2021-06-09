@@ -1,1 +1,1 @@
-var mnemonic = "please cross foam near unit grant ribbon hazard day grant horn employ";
+var mnemonic = "firm ski pitch village chief rude various glance rug motor husband walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "vault submit drip diagram kitten palm ahead escape survey immune swift stand";
+var mnemonic = "shy view clip normal such stand empower swim muscle basket blue firm";

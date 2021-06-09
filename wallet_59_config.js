@@ -1,1 +1,1 @@
-var mnemonic = "whale real salt flavor hawk script scheme obvious evoke regular skill intact";
+var mnemonic = "royal grow jump ugly jump latin egg captain between wash trial ivory";

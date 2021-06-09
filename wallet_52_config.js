@@ -1,1 +1,1 @@
-var mnemonic = "initial bless lamp marriage cook net leopard annual slush daring object cook";
+var mnemonic = "black hip witness screen awesome devote tragic top organ athlete blast shoe";

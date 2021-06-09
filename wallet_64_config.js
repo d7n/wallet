@@ -1,1 +1,1 @@
-var mnemonic = "fee elephant acid road security net oven bundle elite win build argue";
+var mnemonic = "exercise brass treat orphan wrestle candy modify child window start nice away";

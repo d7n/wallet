@@ -1,1 +1,1 @@
-var mnemonic = "net rose always burger rail elevator acoustic trade picture long unhappy taste";
+var mnemonic = "rug token salute honey price rice crumble legal skill jazz slide carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "primary put student verb transfer siege maximum corn tag much kingdom frown";
+var mnemonic = "better pelican hospital split gauge company labor blood proud victory scrub sing";

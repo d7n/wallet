@@ -1,1 +1,1 @@
-var mnemonic = "cash lonely orient forward body sun park egg end able surface bubble";
+var mnemonic = "wrap must idle math absent soccer family pave tower assist this maze";

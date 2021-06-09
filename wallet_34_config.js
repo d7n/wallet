@@ -1,1 +1,1 @@
-var mnemonic = "hole foot little demise silk cereal tree observe bacon benefit hope fiction";
+var mnemonic = "inspire analyst winter balcony fault rookie nephew dinosaur same enough lab mechanic";

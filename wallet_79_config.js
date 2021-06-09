@@ -1,1 +1,1 @@
-var mnemonic = "attitude oven around ten reduce hybrid question eyebrow reason damp liar slim";
+var mnemonic = "cattle humble service poem crush ring sleep spend sustain ball basic boat";

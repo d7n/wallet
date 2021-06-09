@@ -1,1 +1,1 @@
-var mnemonic = "almost captain render winner lumber right renew stem chunk cry mind stand";
+var mnemonic = "leg health verb west indicate welcome witness black toy hub lawsuit stomach";

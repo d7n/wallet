@@ -1,1 +1,1 @@
-var mnemonic = "kick finger elephant hat total can absurd inherit foil front guide huge";
+var mnemonic = "maze shock fatigue butter floor light soldier cable electric knee patient tent";

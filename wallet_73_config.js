@@ -1,1 +1,1 @@
-var mnemonic = "alpha subject arrest castle present syrup expand laptop wrong enough coach hybrid";
+var mnemonic = "false display modify forum survey seat pig vapor require claw misery biology";

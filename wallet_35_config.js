@@ -1,1 +1,1 @@
-var mnemonic = "inherit arch razor vacant congress duty section once brush flag husband tomorrow";
+var mnemonic = "profit farm undo bacon capital oyster female matrix trust polar snap this";

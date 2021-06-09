@@ -1,1 +1,1 @@
-var mnemonic = "replace hen luxury dinosaur egg word bamboo plunge hire palace liquid save";
+var mnemonic = "scan scheme naive acoustic tree foot vessel egg ensure initial elegant must";

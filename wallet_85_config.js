@@ -1,1 +1,1 @@
-var mnemonic = "luxury little illegal provide cloth return mandate panic shield cradle grab garment";
+var mnemonic = "fall spot rather caution sibling dwarf scrub virus boost opinion muffin only";

@@ -1,1 +1,1 @@
-var mnemonic = "layer example human flush host giant diagram onion stamp number delay stairs";
+var mnemonic = "merge reject trap sting suit guilt evil dynamic churn test senior clip";

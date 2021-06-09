@@ -1,1 +1,1 @@
-var mnemonic = "mushroom term hen all occur before entire object surround author armed copy";
+var mnemonic = "call doll slide found submit crime invite stock inspire into intact pepper";

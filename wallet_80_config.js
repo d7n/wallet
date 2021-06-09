@@ -1,1 +1,1 @@
-var mnemonic = "loop vital zone inherit antenna glare miracle oxygen normal bitter canoe vintage";
+var mnemonic = "burden rebel leave chronic cream penalty seminar crash regular girl law census";

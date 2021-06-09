@@ -1,1 +1,1 @@
-var mnemonic = "crystal taste brass obvious digital reason crane nose march episode coconut increase";
+var mnemonic = "quote rent basic middle include slot tired judge burden indicate pitch jeans";

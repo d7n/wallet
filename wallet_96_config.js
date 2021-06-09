@@ -1,1 +1,1 @@
-var mnemonic = "eagle valve link motor spin illegal clarify domain solar reopen swing lazy";
+var mnemonic = "omit solar mention floor better glad picture thrive gossip jungle usual good";

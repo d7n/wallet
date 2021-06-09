@@ -1,1 +1,1 @@
-var mnemonic = "pet tuna uncover wash bless ensure diet perfect right detect violin video";
+var mnemonic = "letter adapt glass lemon fetch team version pelican music work future neutral";

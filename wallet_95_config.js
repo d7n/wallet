@@ -1,1 +1,1 @@
-var mnemonic = "fame shaft material reflect spot lock soccer error off pulp corn horror";
+var mnemonic = "arrive abstract throw pipe gravity book snack grass hint pilot tone task";

@@ -1,1 +1,1 @@
-var mnemonic = "elder abuse flat misery slogan pet fruit race inform pact escape depart";
+var mnemonic = "foil sibling pair oppose clever shove tribe because tail draw canal squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "steel announce patch rich lunch air truth evolve remember scissors hidden salon";
+var mnemonic = "slam million choice amused share enter width barrel glory police physical harvest";

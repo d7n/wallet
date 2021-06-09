@@ -1,1 +1,1 @@
-var mnemonic = "useless faculty guide bus recipe grocery result prevent close midnight adapt cup";
+var mnemonic = "opinion happy fork valve together life balance will undo run exotic approve";

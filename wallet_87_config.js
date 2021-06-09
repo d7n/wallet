@@ -1,1 +1,1 @@
-var mnemonic = "used above vicious impose dinner zebra match answer pitch aim romance nominee";
+var mnemonic = "apart grain resist duck rally drum orchard raven subject left pencil confirm";

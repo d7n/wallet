@@ -1,1 +1,1 @@
-var mnemonic = "panic unknown cage canoe ceiling blur notice door into blouse talent evolve";
+var mnemonic = "design glove swim home foam pact legend glare uncover seat stick wool";

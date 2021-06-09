@@ -1,1 +1,1 @@
-var mnemonic = "clinic popular trip various motor chief culture vault vacuum stem beauty more";
+var mnemonic = "august number august pole beyond october absent window forward either mule capable";

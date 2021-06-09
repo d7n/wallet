@@ -1,1 +1,1 @@
-var mnemonic = "sort moon bicycle company give primary object front bench write impulse plastic";
+var mnemonic = "food flower library immune clay satisfy ceiling avoid ill glance tired march";

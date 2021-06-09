@@ -1,1 +1,1 @@
-var mnemonic = "then return recipe circle ancient stick butter wage equip leave bunker derive";
+var mnemonic = "typical fresh trend bar retire card trumpet cherry health wide bronze venue";

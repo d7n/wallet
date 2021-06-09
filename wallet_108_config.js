@@ -1,1 +1,1 @@
-var mnemonic = "baby always vivid garbage clerk disease satisfy win title act gather cool";
+var mnemonic = "south globe acquire problem parade flavor clean obey predict sister casino sun";

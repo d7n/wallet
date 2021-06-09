@@ -1,1 +1,1 @@
-var mnemonic = "harsh battle bitter kiwi often student crop exhaust silver hard special aunt";
+var mnemonic = "prize subway field alarm inner usual remove sound rigid funny ugly inhale";

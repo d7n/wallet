@@ -1,1 +1,1 @@
-var mnemonic = "gaze rate fiber device thumb cushion dust put sport obscure taxi pear";
+var mnemonic = "myth luxury merry actor chunk fat demand loyal sunset tennis month arrive";

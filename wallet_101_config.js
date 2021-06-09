@@ -1,1 +1,1 @@
-var mnemonic = "world music draft display reduce biology police cabbage always shock ensure destroy";
+var mnemonic = "night hint dove rival strike feature vessel bundle burst hip glass skull";

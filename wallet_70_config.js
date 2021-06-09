@@ -1,1 +1,1 @@
-var mnemonic = "scale wall strong brush hen year license heavy olive swamp village sort";
+var mnemonic = "dress differ sunny silly manage object bag sort foil dilemma taste wave";

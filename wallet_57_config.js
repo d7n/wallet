@@ -1,1 +1,1 @@
-var mnemonic = "garden angry middle laundry copy demand army slogan wealth melt visit laundry";
+var mnemonic = "argue between sun dust happy model brave enroll shed spend find mouse";

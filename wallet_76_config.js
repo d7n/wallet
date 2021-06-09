@@ -1,1 +1,1 @@
-var mnemonic = "arctic object century dog giraffe clip prison focus matter puzzle swim latin";
+var mnemonic = "pistol crucial jaguar mom guitar attitude buzz rack scatter icon gun help";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual garlic pizza daring harbor crime render observe smooth symbol canal habit";
+var mnemonic = "pattern eight rail sick script member topple silk season ask name better";

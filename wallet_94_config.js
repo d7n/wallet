@@ -1,1 +1,1 @@
-var mnemonic = "medal cargo blood drastic core flight elder actor age tongue utility output";
+var mnemonic = "rural wreck undo abandon pudding another rude parade pattern wise pride leave";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd hurry test shuffle tail quick frog right tilt lift harbor machine";
+var mnemonic = "frown brand cat high wolf cabbage dentist rate broken again marriage question";

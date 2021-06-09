@@ -1,1 +1,1 @@
-var mnemonic = "put lock cruel hobby lend cheap turkey ghost giggle club blame juice";
+var mnemonic = "conduct grass soap vote shoot dry cinnamon runway social sun blade mountain";

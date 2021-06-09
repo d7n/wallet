@@ -1,1 +1,1 @@
-var mnemonic = "bacon scan clown grab reduce ball sting decorate salon woman illegal achieve";
+var mnemonic = "indoor discover fantasy column lend antenna vacant various plate resource clutch occur";
