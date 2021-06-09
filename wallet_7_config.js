@@ -1,1 +1,1 @@
-var mnemonic = "vehicle burden satoshi praise panic siren bacon key lunch yellow retreat since";
+var mnemonic = "ramp mind phone adjust diet dial sentence grid liberty large robot alarm";

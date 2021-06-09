@@ -1,1 +1,1 @@
-var mnemonic = "talk punch fitness language still type public nerve permit spatial energy skull";
+var mnemonic = "senior piece man shrimp actual curve vault stand surprise sun boy devote";

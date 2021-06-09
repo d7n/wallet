@@ -1,1 +1,1 @@
-var mnemonic = "garden coil upset cable merry rely cake crew split dry caution daughter";
+var mnemonic = "toilet coast online satisfy empty welcome upper leopard ahead piece peace express";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit sweet shy bridge warm display worth riot garlic unlock borrow fringe";
+var mnemonic = "short sleep distance erosion shallow burger enter toss flip estate laptop betray";

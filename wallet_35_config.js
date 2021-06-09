@@ -1,1 +1,1 @@
-var mnemonic = "urban vivid setup puppy sustain gravity snake asset wealth bag skull aspect";
+var mnemonic = "jar gesture enable manage index empower vintage prosper equal topple shell smoke";

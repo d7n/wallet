@@ -1,1 +1,1 @@
-var mnemonic = "cigar gloom whip whisper heavy length giraffe peasant symbol purity spatial claim";
+var mnemonic = "royal auction home aspect twice lunch blood beauty urban resist elbow unaware";

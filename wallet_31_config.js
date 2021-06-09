@@ -1,1 +1,1 @@
-var mnemonic = "spring wait dizzy actor weekend approve enroll quit deal frog siege regular";
+var mnemonic = "cousin mirror skin raccoon infant unfold inner cargo quarter round they guide";

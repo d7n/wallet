@@ -1,1 +1,1 @@
-var mnemonic = "loud wave left blood cheese dirt off tattoo amount spoon cool purse";
+var mnemonic = "powder habit human play drink coral feature client capital pluck alley retire";

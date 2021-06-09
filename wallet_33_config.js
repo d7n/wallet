@@ -1,1 +1,1 @@
-var mnemonic = "list worth aim escape loyal clever approve valley gaze eternal near wise";
+var mnemonic = "lava gospel into question mad mouse cereal cheap lizard tank emotion grain";

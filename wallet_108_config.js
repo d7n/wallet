@@ -1,1 +1,1 @@
-var mnemonic = "arctic exchange clay busy popular hazard donate onion expose short immense box";
+var mnemonic = "talk swallow wagon flock lens earth woman razor liberty frog save develop";

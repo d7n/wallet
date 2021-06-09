@@ -1,1 +1,1 @@
-var mnemonic = "tongue inhale govern project enrich wheat wait peasant cloud inspire this syrup";
+var mnemonic = "cupboard near farm material raven state curve brush minute crop erosion pledge";

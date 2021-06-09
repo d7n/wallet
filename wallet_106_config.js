@@ -1,1 +1,1 @@
-var mnemonic = "loop client flash ginger glow unable egg buffalo potato gap tackle wear";
+var mnemonic = "motor fancy evoke polar fever portion science inquiry trash clap radar old";

@@ -1,1 +1,1 @@
-var mnemonic = "axis kingdom child oppose bone easy unfair gaze flat stumble more state";
+var mnemonic = "seek smart mutual must forum idea arrow history hero cargo junior dish";

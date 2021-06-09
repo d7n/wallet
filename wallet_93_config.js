@@ -1,1 +1,1 @@
-var mnemonic = "walnut oven drip wealth sight banner scan coffee garlic work funny clever";
+var mnemonic = "crew exhaust donate sketch exhibit royal caution ten face picture quick coconut";

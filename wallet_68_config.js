@@ -1,1 +1,1 @@
-var mnemonic = "wet celery boost slide friend brush say popular industry blind milk asthma";
+var mnemonic = "ivory trip left build course august repeat valid stand crazy object quality";

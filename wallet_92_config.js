@@ -1,1 +1,1 @@
-var mnemonic = "arrange nature captain body detect claim iron bird credit invest wink sadness";
+var mnemonic = "same secret idle later donkey supply sting swallow avoid range grunt fit";

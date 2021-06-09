@@ -1,1 +1,1 @@
-var mnemonic = "web mixture depend burden goddess leisure avocado satisfy push frozen depart donate";
+var mnemonic = "game organ typical approve merry observe frog cost enact bind conduct tape";

@@ -1,1 +1,1 @@
-var mnemonic = "shop chef ship shop novel crew stage gloom duty fruit slice manage";
+var mnemonic = "garment purchase crowd wait hazard satoshi party cotton vivid exclude diesel obtain";

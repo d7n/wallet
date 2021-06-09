@@ -1,1 +1,1 @@
-var mnemonic = "copper length unfold poet tank half craft admit wrestle undo daring result";
+var mnemonic = "audit wide manual gravity over snap seminar sketch blouse little lonely dice";

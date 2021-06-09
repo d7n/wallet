@@ -1,1 +1,1 @@
-var mnemonic = "yard bleak panic alter circle color normal across erosion net useful actress";
+var mnemonic = "fluid beef crash hub eyebrow interest public chunk crouch secret target increase";

@@ -1,1 +1,1 @@
-var mnemonic = "fade ability point mixture thrive reform tenant prize confirm fossil denial gas";
+var mnemonic = "dawn ride garlic during capital remind exact castle tongue assist mobile employ";

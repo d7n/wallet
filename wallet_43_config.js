@@ -1,1 +1,1 @@
-var mnemonic = "upgrade foil pear fade confirm razor shuffle tip copper language skin avocado";
+var mnemonic = "jungle crush rural model fit inmate inject juice broccoli slush high trade";

@@ -1,1 +1,1 @@
-var mnemonic = "code reveal neglect believe extra damage scatter gate flash jungle quantum private";
+var mnemonic = "source print train love solution lion bracket opera mercy impulse scrub bread";

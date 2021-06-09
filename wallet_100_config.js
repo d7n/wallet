@@ -1,1 +1,1 @@
-var mnemonic = "pattern shock twice pen embark fish tooth swallow scene sort vibrant pattern";
+var mnemonic = "cloth purity tilt farm length sight smart wing stove bean avocado know";

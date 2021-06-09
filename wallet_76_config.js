@@ -1,1 +1,1 @@
-var mnemonic = "employ object about punch stage bone gentle dust fashion light shop mountain";
+var mnemonic = "gift virtual else raise flee favorite quick mystery spell afford dash damp";

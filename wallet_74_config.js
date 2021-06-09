@@ -1,1 +1,1 @@
-var mnemonic = "rival retreat maple rapid search boost high course letter forget rhythm amused";
+var mnemonic = "myself knock tuition idle attack initial shadow title chest wait case chaos";

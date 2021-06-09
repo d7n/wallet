@@ -1,1 +1,1 @@
-var mnemonic = "boil artwork spring trash box flat cricket slush escape phrase outdoor repair";
+var mnemonic = "royal income school nuclear between pole autumn damage wool divorce senior panic";

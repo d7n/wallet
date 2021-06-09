@@ -1,1 +1,1 @@
-var mnemonic = "rally orange tip bag visa image actor fit keen ghost tide life";
+var mnemonic = "squeeze matter question skate dinner stereo evil wheel soccer play human inject";

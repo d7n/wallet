@@ -1,1 +1,1 @@
-var mnemonic = "pole august bid simple spell speak upper sure glimpse elegant average spread";
+var mnemonic = "sniff jump dune drastic scan twice party fancy empty clerk brisk goat";

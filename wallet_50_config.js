@@ -1,1 +1,1 @@
-var mnemonic = "will amount lazy pupil fluid slender rare pumpkin february dog hint blind";
+var mnemonic = "frost nephew captain awake vicious monster keen absorb awesome merry tiger fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "try acoustic leave speak myth warfare egg level baby there flag number";
+var mnemonic = "noise amateur shield casino unlock opera deputy discover document beef spend refuse";

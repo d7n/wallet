@@ -1,1 +1,1 @@
-var mnemonic = "lunch border biology leave holiday steak tomorrow crush poverty awful nation estate";
+var mnemonic = "liberty flock extra truth grass raven brown they make comic fatigue worry";

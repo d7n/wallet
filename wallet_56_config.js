@@ -1,1 +1,1 @@
-var mnemonic = "start bunker jump cement primary swear sadness fragile inmate reunion early mixed";
+var mnemonic = "giraffe brush wisdom tilt shallow wagon sing tip city chronic sentence guitar";

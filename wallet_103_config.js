@@ -1,1 +1,1 @@
-var mnemonic = "tattoo session parent plug empower later chef already reveal fence sound defy";
+var mnemonic = "burger project style narrow swear eagle hawk steel auto very employ unusual";

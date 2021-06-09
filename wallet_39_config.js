@@ -1,1 +1,1 @@
-var mnemonic = "wool target live submit couple uncle lava what talent dial spy fancy";
+var mnemonic = "excess share cushion crop game dream lake push mule winner cause zebra";

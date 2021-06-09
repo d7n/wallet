@@ -1,1 +1,1 @@
-var mnemonic = "party rail never road fence fan obvious brand dish napkin more farm";
+var mnemonic = "lizard moon later escape prosper autumn layer control surge vacant finish blur";

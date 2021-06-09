@@ -1,1 +1,1 @@
-var mnemonic = "rescue lamp problem jazz hawk detail accuse inmate apart fox silver valve";
+var mnemonic = "crumble brush cage leg observe crack supreme armed february escape girl emotion";

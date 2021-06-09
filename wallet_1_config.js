@@ -1,1 +1,1 @@
-var mnemonic = "pole embark save tooth work above season ask tribe man stamp banana";
+var mnemonic = "age awake release derive sugar trick lonely resist floor gather sniff attend";

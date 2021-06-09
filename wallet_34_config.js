@@ -1,1 +1,1 @@
-var mnemonic = "eight argue federal daughter sweet bargain orange sudden hidden matrix script bright";
+var mnemonic = "sure toddler render mix recall segment annual maximum eagle little plug venture";

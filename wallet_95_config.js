@@ -1,1 +1,1 @@
-var mnemonic = "episode lobster exhibit cause word maximum engage remove near salt wrap sand";
+var mnemonic = "jungle found fly yellow cry february road pond casual jump romance impact";

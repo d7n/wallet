@@ -1,1 +1,1 @@
-var mnemonic = "twin potato marriage innocent rally good mesh path diesel talent illness tourist";
+var mnemonic = "crew unable salt kitten romance motion taxi slab foam juice much vessel";

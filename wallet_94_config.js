@@ -1,1 +1,1 @@
-var mnemonic = "stumble stamp fish smooth floor pioneer memory cliff hello excuse amused left";
+var mnemonic = "wrestle lift grape mango witness sock umbrella noodle magic elder impose elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "delay coconut orbit squirrel cruise duty room account tiger crater cattle artefact";
+var mnemonic = "spirit mercy range critic blossom final armed vessel cry cereal mention soup";

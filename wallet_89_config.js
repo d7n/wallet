@@ -1,1 +1,1 @@
-var mnemonic = "will sea column print fiscal shiver machine odor lift spike stomach course";
+var mnemonic = "achieve ozone benefit man food shell snake input high number prosper sight";

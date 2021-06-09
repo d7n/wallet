@@ -1,1 +1,1 @@
-var mnemonic = "mule faint exclude tide jaguar spin tissue pepper argue emotion luggage laundry";
+var mnemonic = "item cover effort table august group alarm secret usage gravity sister teach";

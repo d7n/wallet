@@ -1,1 +1,1 @@
-var mnemonic = "insane suggest either ankle tool cup over near typical spike gesture demand";
+var mnemonic = "duck evil bacon trust empty make inch simple prosper shrimp torch flat";

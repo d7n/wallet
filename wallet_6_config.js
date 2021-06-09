@@ -1,1 +1,1 @@
-var mnemonic = "modify rebel between huge fan embrace crew beauty salad embark season bunker";
+var mnemonic = "impulse like problem uphold slam bubble summer build easily tip gift matter";

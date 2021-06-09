@@ -1,1 +1,1 @@
-var mnemonic = "work learn tag patient behind knife inspire episode proof across service damp";
+var mnemonic = "enough track people emerge young novel movie kitchen shift protect ghost donkey";

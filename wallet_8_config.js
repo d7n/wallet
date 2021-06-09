@@ -1,1 +1,1 @@
-var mnemonic = "ostrich start build library zoo guard access anchor year leg immense interest";
+var mnemonic = "satisfy goddess disagree risk naive dwarf solar receive menu apple digital price";

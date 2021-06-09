@@ -1,1 +1,1 @@
-var mnemonic = "elbow federal notice rotate judge hover crush boil denial ring mimic unit";
+var mnemonic = "joke cave book sure hawk gasp regular clinic layer blood trap photo";

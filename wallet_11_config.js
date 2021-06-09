@@ -1,1 +1,1 @@
-var mnemonic = "absurd aware glass loop cram neutral exclude dizzy visit provide convince ocean";
+var mnemonic = "this convince analyst also bright joke ship process then annual noise tent";

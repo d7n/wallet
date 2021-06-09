@@ -1,1 +1,1 @@
-var mnemonic = "symptom share voyage text dismiss narrow palm swim lava scan rabbit captain";
+var mnemonic = "kingdom whip nice comic almost truck theme rail machine stand purse large";

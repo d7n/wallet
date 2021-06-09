@@ -1,1 +1,1 @@
-var mnemonic = "glass search boat payment output music south clarify sugar tide spread runway";
+var mnemonic = "glass replace wink believe front foster mesh near tribe alter noise mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "wool gift nephew rib reject party throw proud evil penalty accident marriage";
+var mnemonic = "supreme noble make squeeze brown kangaroo waste tool accident electric hint bone";

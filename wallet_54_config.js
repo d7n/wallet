@@ -1,1 +1,1 @@
-var mnemonic = "forget three act unfair dove poem index find ugly shuffle donate pig";
+var mnemonic = "maple skill demise pear prosper frame talent sleep record melody bread under";

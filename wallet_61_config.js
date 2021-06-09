@@ -1,1 +1,1 @@
-var mnemonic = "call front mail unveil final armed boss flash lock float song sunset";
+var mnemonic = "possible buddy vote today possible diesel quiz more special wrist client worth";

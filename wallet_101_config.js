@@ -1,1 +1,1 @@
-var mnemonic = "winner wash solid drift jewel syrup bean train birth angry atom spin";
+var mnemonic = "party fragile tattoo shock stable code favorite draw hair tunnel calm cream";

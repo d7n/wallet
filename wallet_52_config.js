@@ -1,1 +1,1 @@
-var mnemonic = "avoid tomato dry neutral rally olive border awesome sign another spike media";
+var mnemonic = "dance emerge nominee lesson pig age blur round coast voice scrub alpha";

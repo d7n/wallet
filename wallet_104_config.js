@@ -1,1 +1,1 @@
-var mnemonic = "replace gloom grass topple duck marine feel tiger success purchase air mushroom";
+var mnemonic = "token pond topple tennis daughter elbow below glove burst veteran matter liar";

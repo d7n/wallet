@@ -1,1 +1,1 @@
-var mnemonic = "trigger frost maze poet marble boat north royal soldier index pink physical";
+var mnemonic = "explain turn sure minimum one rather supreme fame apple measure blade relax";

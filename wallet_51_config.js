@@ -1,1 +1,1 @@
-var mnemonic = "fly ill habit drip cup enlist lecture orbit camp floor country ring";
+var mnemonic = "claim slam around office weasel deny portion misery fish birth access original";

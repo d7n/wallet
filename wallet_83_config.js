@@ -1,1 +1,1 @@
-var mnemonic = "canvas priority twenty achieve luggage camera suffer saddle step bike system drive";
+var mnemonic = "riot turtle mango truth renew attend invite clean crush echo injury tank";

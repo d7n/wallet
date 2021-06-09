@@ -1,1 +1,1 @@
-var mnemonic = "poem mushroom chair name regret explain citizen country hint olive join measure";
+var mnemonic = "kitten erosion coyote wasp jewel rescue purse pig subject ribbon sleep green";

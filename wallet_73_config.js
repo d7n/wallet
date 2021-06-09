@@ -1,1 +1,1 @@
-var mnemonic = "polar picnic breeze wheel top ski pull inherit pact pool dial drift";
+var mnemonic = "oak sorry sign toe reveal shove bitter river duty toast crucial jungle";

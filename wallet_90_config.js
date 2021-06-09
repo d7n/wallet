@@ -1,1 +1,1 @@
-var mnemonic = "immense pioneer purpose dune conduct illegal among average spoil local file finish";
+var mnemonic = "advice rally hospital course embrace parade witness sight few mobile helmet jelly";

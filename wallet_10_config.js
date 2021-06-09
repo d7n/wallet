@@ -1,1 +1,1 @@
-var mnemonic = "lava island turn hair water method dumb benefit client oval film time";
+var mnemonic = "armed student favorite wife law organ orange okay mandate ensure note practice";

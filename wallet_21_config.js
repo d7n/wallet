@@ -1,1 +1,1 @@
-var mnemonic = "speed atom reunion young sick win pole angle flush great olive gloom";
+var mnemonic = "trophy blood fuel either minor animal truly spoil affair virtual tragic disease";

@@ -1,1 +1,1 @@
-var mnemonic = "mention detect trap ritual gate near wild board butter write critic kid";
+var mnemonic = "zero hard night urban easily kiss stand voyage actual garage arrest involve";

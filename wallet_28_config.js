@@ -1,1 +1,1 @@
-var mnemonic = "weird renew eternal arrive humor park gain occur script sibling chicken goat";
+var mnemonic = "glow inner glove artefact student glide quiz gauge claw goat warfare arch";

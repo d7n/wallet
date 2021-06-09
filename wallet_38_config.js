@@ -1,1 +1,1 @@
-var mnemonic = "amused problem grid key good select item offer debris dynamic mule glare";
+var mnemonic = "vast attack attack humble enrich accident honey behave wreck left expect side";

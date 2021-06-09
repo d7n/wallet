@@ -1,1 +1,1 @@
-var mnemonic = "mention recipe slush lottery mandate derive situate oxygen margin civil pill nuclear";
+var mnemonic = "bid cup fiction milk equip rifle grid trial defense cliff fiscal risk";

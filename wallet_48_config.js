@@ -1,1 +1,1 @@
-var mnemonic = "quick mansion speak hub ride north survey board cream minute gather cost";
+var mnemonic = "olive jacket goat news sing sock remind achieve seminar choice truth absent";

@@ -1,1 +1,1 @@
-var mnemonic = "section second net census able turn keep evidence attack doll author cherry";
+var mnemonic = "mail jump echo scorpion note dice street holiday silver invest fade cave";

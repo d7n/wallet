@@ -1,1 +1,1 @@
-var mnemonic = "boy behave young radar cargo tone prison brother spy butter quit proud";
+var mnemonic = "dwarf engage torch grief talent recycle silver trap flag salt calm slight";

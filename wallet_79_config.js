@@ -1,1 +1,1 @@
-var mnemonic = "hotel pole wet grunt beach question alcohol axis field patrol praise rack";
+var mnemonic = "imitate before release cousin cabbage joy harvest extra sword oxygen burst brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "slam edge joke term pudding gain staff citizen scissors bracket cradle obtain";
+var mnemonic = "coyote first injury coral drama case recall tired amateur base luxury upon";

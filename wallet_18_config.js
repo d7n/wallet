@@ -1,1 +1,1 @@
-var mnemonic = "whisper toss pony problem crew risk joy exercise strategy current cargo play";
+var mnemonic = "kidney visual dwarf cattle ability fire bundle milk label argue punch survey";

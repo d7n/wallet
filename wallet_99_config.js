@@ -1,1 +1,1 @@
-var mnemonic = "skill nephew exclude hockey add dutch industry enable tape never direct soda";
+var mnemonic = "biology tissue shrug breeze valley human light dinosaur vacant sing liar coyote";

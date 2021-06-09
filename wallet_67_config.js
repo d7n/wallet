@@ -1,1 +1,1 @@
-var mnemonic = "chronic upgrade era girl usage manual slim occur text suspect try coral";
+var mnemonic = "federal spy slogan suit crime happy fall envelope ocean safe glory motion";

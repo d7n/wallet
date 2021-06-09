@@ -1,1 +1,1 @@
-var mnemonic = "noodle tornado again phone pepper truly practice razor gas grocery spare hotel";
+var mnemonic = "bronze inquiry final number clown sample shine spoon moon media pigeon proud";

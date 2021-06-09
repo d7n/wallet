@@ -1,1 +1,1 @@
-var mnemonic = "under post neck parade child aware tuna ahead vehicle canvas general flip";
+var mnemonic = "dune code permit eagle dinosaur stick course patrol bleak strong excuse ridge";

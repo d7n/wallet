@@ -1,1 +1,1 @@
-var mnemonic = "soft you useless october slight entry behave dwarf puzzle test despair defense";
+var mnemonic = "bring paper social assault good purse leopard cry deal return strategy topic";

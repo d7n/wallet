@@ -1,1 +1,1 @@
-var mnemonic = "wedding hip capable marble eager blood old shed unfair program rent fortune";
+var mnemonic = "velvet morning enroll upset merry gap sing mistake script foam wolf person";

@@ -1,1 +1,1 @@
-var mnemonic = "jump arrest unit easy elbow jewel fish ranch wagon dad fantasy service";
+var mnemonic = "pipe luggage start can leopard other pottery inside domain asset village airport";

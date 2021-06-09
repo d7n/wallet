@@ -1,1 +1,1 @@
-var mnemonic = "upset reflect ahead item settle extend develop valley drink neutral print dry";
+var mnemonic = "zoo lady hub olympic eagle spin punch slim proof total depend decrease";
