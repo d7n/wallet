@@ -1,1 +1,1 @@
-var mnemonic = "clip before gauge pitch project arrange claw tag regret suit affair fit";
+var mnemonic = "toward poem desert seek now sauce slim funny benefit client expose exact";

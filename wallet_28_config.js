@@ -1,1 +1,1 @@
-var mnemonic = "grocery pyramid tag deny define provide suffer inner alien rich belt bird";
+var mnemonic = "siege hedgehog soldier promote panda addict enlist guide ask gospel diamond yard";

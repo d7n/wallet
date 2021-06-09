@@ -1,1 +1,1 @@
-var mnemonic = "demise obvious journey gorilla bid produce bomb boost step island chat cycle";
+var mnemonic = "quick crash silk afraid cricket tiny hold any barrel tide teach replace";

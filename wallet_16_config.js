@@ -1,1 +1,1 @@
-var mnemonic = "wine predict toilet entire wonder copy repeat load abstract final ski audit";
+var mnemonic = "lobster outer unveil flee museum rib moral relief jealous pipe dial myth";

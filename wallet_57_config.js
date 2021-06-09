@@ -1,1 +1,1 @@
-var mnemonic = "smooth text thumb stool length edit chapter eager undo raven earth tape";
+var mnemonic = "illegal leader elder bind gravity effort trial okay blast vital typical lock";

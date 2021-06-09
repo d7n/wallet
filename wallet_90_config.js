@@ -1,1 +1,1 @@
-var mnemonic = "brush select right orient visit hockey start debris coyote marble limb drama";
+var mnemonic = "scrub visit enact decide record milk defense crunch remove swap include between";

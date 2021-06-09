@@ -1,1 +1,1 @@
-var mnemonic = "repeat bottom market system midnight face bottom account spoil achieve speak baby";
+var mnemonic = "desk pen visual icon weather busy frequent kitten drama bitter valve pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket zebra oblige blade cream where mule lamp lunch fit shrimp ramp";
+var mnemonic = "spy movie keep kit shiver hidden hunt what maximum riot increase skill";

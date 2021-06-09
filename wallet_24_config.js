@@ -1,1 +1,1 @@
-var mnemonic = "judge evolve penalty blush puzzle cram morning ball marriage sock apology panic";
+var mnemonic = "act eternal angry margin lobster bid raven dwarf appear slab burden grace";

@@ -1,1 +1,1 @@
-var mnemonic = "expire lava island century wasp hobby sentence alley turn spin toy mention";
+var mnemonic = "soft carbon thought claim people kingdom menu dry guilt tomato torch fatigue";

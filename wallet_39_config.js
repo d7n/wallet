@@ -1,1 +1,1 @@
-var mnemonic = "broom luxury approve social clarify match black shy busy control cause weekend";
+var mnemonic = "annual october runway timber toy cake dance fault slice digital uniform select";

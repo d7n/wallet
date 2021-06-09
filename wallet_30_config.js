@@ -1,1 +1,1 @@
-var mnemonic = "monster disorder fold upon lyrics spoon tape major pride swallow stage miss";
+var mnemonic = "genius gift auto velvet expose voyage rescue present twice sunny barrel avoid";

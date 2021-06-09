@@ -1,1 +1,1 @@
-var mnemonic = "able business skill license girl image praise tackle water move brave concert";
+var mnemonic = "ethics shell disorder settle pool muffin clip bike math october path range";

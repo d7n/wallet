@@ -1,1 +1,1 @@
-var mnemonic = "task suspect lunar either fly pole hair decorate party bubble ribbon belt";
+var mnemonic = "simple produce casual leg sunny fresh vehicle kitten arrow reward world patch";

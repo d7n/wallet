@@ -1,1 +1,1 @@
-var mnemonic = "dignity neck resist chalk desert disagree library attack snack squirrel lawsuit turkey";
+var mnemonic = "crack kind absent ten among video world master parent curve code limit";

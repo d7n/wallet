@@ -1,1 +1,1 @@
-var mnemonic = "sand woman stadium quality engine zero capable lady circle ridge staff treat";
+var mnemonic = "essence motor jar vehicle drama bench unit virtual fortune model arctic alley";

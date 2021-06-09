@@ -1,1 +1,1 @@
-var mnemonic = "virus label smile news need slide gift exhaust prize duck equal only";
+var mnemonic = "panda social giraffe woman bacon vivid faint involve clever door float accuse";

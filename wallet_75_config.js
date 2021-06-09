@@ -1,1 +1,1 @@
-var mnemonic = "sample danger roast also sword mass feed captain expose glide there inspire";
+var mnemonic = "friend sniff fee globe crack repair high security become repeat scale home";

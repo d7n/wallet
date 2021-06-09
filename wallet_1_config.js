@@ -1,1 +1,1 @@
-var mnemonic = "movie pioneer giraffe original lobster slide resemble glory imitate feed foam disagree";
+var mnemonic = "clog laugh saddle accident that rescue skull energy awkward note kit famous";

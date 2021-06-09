@@ -1,1 +1,1 @@
-var mnemonic = "burger until alpha gather select strategy stick gorilla script owner laugh attract";
+var mnemonic = "reflect attitude shaft sleep safe slide piano embark extend float situate foil";

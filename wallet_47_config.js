@@ -1,1 +1,1 @@
-var mnemonic = "review valve brave drill reopen piano only orphan genius olive exotic omit";
+var mnemonic = "object real fun west leave depth pond shaft swap island vapor patient";

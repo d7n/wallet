@@ -1,1 +1,1 @@
-var mnemonic = "honey knee slight half torch creek stay logic swear obey galaxy obey";
+var mnemonic = "grit off badge wish paper hockey invite range liquid adjust wrestle bird";

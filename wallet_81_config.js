@@ -1,1 +1,1 @@
-var mnemonic = "sound profit vast level biology story file ketchup rhythm online mountain candy";
+var mnemonic = "turkey project wool tiger debate weasel online rescue tip solution click bonus";

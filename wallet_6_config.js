@@ -1,1 +1,1 @@
-var mnemonic = "robust chuckle chat section planet today twenty print junk vague lonely organ";
+var mnemonic = "brown floor entry brisk gym light economy valve humble model random shed";

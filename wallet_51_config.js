@@ -1,1 +1,1 @@
-var mnemonic = "remain force critic february toilet brief bounce kiwi betray hungry tube spray";
+var mnemonic = "lucky trust bone drill spatial cart acid jaguar noble flip detail loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain indicate stick galaxy unknown desert fence demand gentle accident season armed";
+var mnemonic = "idea sample connect coconut mouse desert donate enable baby violin drastic danger";

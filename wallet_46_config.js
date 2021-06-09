@@ -1,1 +1,1 @@
-var mnemonic = "inflict enrich enact grant tragic also gown mystery split forest scan arena";
+var mnemonic = "pattern face bar eye nothing arrest jump spray soap hole suspect tourist";

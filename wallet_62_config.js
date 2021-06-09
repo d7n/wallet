@@ -1,1 +1,1 @@
-var mnemonic = "argue during lift shoot crisp gravity silver neglect october capital acquire happy";
+var mnemonic = "theme about police heavy skull upgrade echo annual movie myself squeeze turkey";

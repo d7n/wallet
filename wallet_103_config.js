@@ -1,1 +1,1 @@
-var mnemonic = "decide belt eager faculty subway tool iron chicken range gun famous actor";
+var mnemonic = "axis tiger display blouse boat badge cigar brick year dolphin ignore slow";

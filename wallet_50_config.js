@@ -1,1 +1,1 @@
-var mnemonic = "blast nothing core welcome element act miss aware siege exist clerk busy";
+var mnemonic = "saddle hard horse table industry coffee buyer select cool damp sense chapter";

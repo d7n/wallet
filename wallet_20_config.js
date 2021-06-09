@@ -1,1 +1,1 @@
-var mnemonic = "outside april move flight pole stem company tide blind fiber hill turn";
+var mnemonic = "orchard hill tiger room rescue wood rather april secret crumble elephant slender";

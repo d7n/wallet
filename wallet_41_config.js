@@ -1,1 +1,1 @@
-var mnemonic = "book sustain furnace ostrich duty amount tide sister educate shop skate heavy";
+var mnemonic = "echo eager educate acid box still spoil render ahead finish youth custom";

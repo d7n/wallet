@@ -1,1 +1,1 @@
-var mnemonic = "lamp daring road soul regret tissue absurd grass middle hair potato improve";
+var mnemonic = "polar hollow wait until whisper delay garment bar job sell endless unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen give peasant shed trip inflict symptom envelope lift whip pupil notice";
+var mnemonic = "tonight marble cannon usual run spawn river chair crawl subway spread gauge";

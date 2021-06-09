@@ -1,1 +1,1 @@
-var mnemonic = "draw tell type bag track science have tissue place horse silk sibling";
+var mnemonic = "double path sausage online brisk pattern pride egg seven picnic ceiling minute";

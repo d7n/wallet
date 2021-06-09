@@ -1,1 +1,1 @@
-var mnemonic = "cycle load feature know neck rebuild toward gaze manage lawn spider fabric";
+var mnemonic = "lamp buddy manual horse borrow view basic ship season lumber vocal equip";

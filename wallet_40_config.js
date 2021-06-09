@@ -1,1 +1,1 @@
-var mnemonic = "debris idea right festival shrug giant until latin labor hint spin replace";
+var mnemonic = "enrich measure morning pact feature question olive two depend error hollow comic";

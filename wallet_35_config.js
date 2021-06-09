@@ -1,1 +1,1 @@
-var mnemonic = "say annual you also reform side robust piece auto outside reform potato";
+var mnemonic = "ivory vacant father taste turtle double cube swamp add chat kit toy";

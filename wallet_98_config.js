@@ -1,1 +1,1 @@
-var mnemonic = "script hospital orchard marriage switch color cover used jaguar pill wealth fashion";
+var mnemonic = "base engine host force bean ski bacon report diet fiber impose magic";

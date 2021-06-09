@@ -1,1 +1,1 @@
-var mnemonic = "hobby tower snack avocado true category federal scorpion firm castle left captain";
+var mnemonic = "useless rigid wrap arch special west rather misery device siren plunge fence";

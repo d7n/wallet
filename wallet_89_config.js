@@ -1,1 +1,1 @@
-var mnemonic = "rebuild ten jump final alter dragon weekend pen fun try pulse dawn";
+var mnemonic = "goddess regular omit debate cream broccoli post fresh woman boat cushion empty";

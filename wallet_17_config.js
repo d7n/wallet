@@ -1,1 +1,1 @@
-var mnemonic = "north menu conduct camera waste depth slice invite scrap proud huge hat";
+var mnemonic = "sting opinion lazy face latin siege pistol slice control sudden bar decrease";

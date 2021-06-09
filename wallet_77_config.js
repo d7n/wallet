@@ -1,1 +1,1 @@
-var mnemonic = "render casual tribe hope riot cake boil toss wide caught length choice";
+var mnemonic = "size husband manual rival onion main slight letter depth certain december accident";

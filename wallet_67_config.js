@@ -1,1 +1,1 @@
-var mnemonic = "service height blue spare garden oyster soap mother harsh canoe rural assist";
+var mnemonic = "domain pelican maid version hockey tomorrow tube insane video swift uniform jungle";

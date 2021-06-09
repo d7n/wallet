@@ -1,1 +1,1 @@
-var mnemonic = "excite develop mind cattle grain claim often surprise effort second frog differ";
+var mnemonic = "crime dinosaur film drill group climb knife potato endorse young waste butter";

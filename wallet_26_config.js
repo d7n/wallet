@@ -1,1 +1,1 @@
-var mnemonic = "happy deer cushion garage crack pledge glory awake feed because autumn chunk";
+var mnemonic = "junk success page mercy window mushroom piece helmet lady wrap empower dolphin";

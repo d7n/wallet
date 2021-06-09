@@ -1,1 +1,1 @@
-var mnemonic = "juice second square rain riot buzz sock person damp brain blossom zebra";
+var mnemonic = "select chalk front ocean peasant dumb snake state crush disease siren alarm";

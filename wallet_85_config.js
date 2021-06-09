@@ -1,1 +1,1 @@
-var mnemonic = "decrease marble public knife close garbage denial danger brass ten matrix tenant";
+var mnemonic = "buffalo clip wait submit human piano demand opinion heavy hockey kite detail";

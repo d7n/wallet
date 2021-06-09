@@ -1,1 +1,1 @@
-var mnemonic = "sail evolve ritual dinner frown youth lady long mechanic absent enrich fix";
+var mnemonic = "supply across wonder claw receive this teach ahead sure lumber cost insect";

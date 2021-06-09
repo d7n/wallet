@@ -1,1 +1,1 @@
-var mnemonic = "lecture canyon leaf monitor crisp smooth cage limb brisk uphold model scheme";
+var mnemonic = "city dilemma situate reunion road drama scrub swap legal jazz dinner dust";

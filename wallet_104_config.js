@@ -1,1 +1,1 @@
-var mnemonic = "believe unusual puzzle pole crowd close match scorpion circle book chase wine";
+var mnemonic = "giant remind evidence report shy panel journey valid circle oven one reflect";

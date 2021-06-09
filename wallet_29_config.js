@@ -1,1 +1,1 @@
-var mnemonic = "hill cradle match gossip snake afraid party powder room loud annual clog";
+var mnemonic = "nation thought manage kick famous often submit atom glad hobby pill shuffle";

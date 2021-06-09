@@ -1,1 +1,1 @@
-var mnemonic = "cover follow echo dignity hammer tumble desk oven detail twenty ribbon vapor";
+var mnemonic = "treat jungle glass senior inherit argue fluid foot street repeat inherit vacant";

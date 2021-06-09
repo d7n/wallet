@@ -1,1 +1,1 @@
-var mnemonic = "glance vital volcano nominee all wedding return juice flame minimum model feature";
+var mnemonic = "give lounge require survey demise table bind struggle fringe soul loan all";

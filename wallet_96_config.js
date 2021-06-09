@@ -1,1 +1,1 @@
-var mnemonic = "parrot common quarter ability reveal leisure piece code radio carbon jar merge";
+var mnemonic = "shrug left caught absorb swallow discover resource wave abandon jeans shy divide";

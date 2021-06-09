@@ -1,1 +1,1 @@
-var mnemonic = "donate vast deer use place cheese train poet glue arrange sing body";
+var mnemonic = "tennis wine ketchup lottery model major journey verify misery planet parade dentist";

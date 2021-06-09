@@ -1,1 +1,1 @@
-var mnemonic = "final page kiwi border fork upgrade task muffin zebra dial ill surround";
+var mnemonic = "hold athlete various develop cement curve fit spell pull march sunset ankle";

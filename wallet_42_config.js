@@ -1,1 +1,1 @@
-var mnemonic = "beef either pulp best badge boss child river people science screen field";
+var mnemonic = "health menu caught draw trap argue rival host sustain crucial globe coach";

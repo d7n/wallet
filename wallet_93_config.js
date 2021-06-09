@@ -1,1 +1,1 @@
-var mnemonic = "exist sword vessel melody boss plug census prevent margin few argue vintage";
+var mnemonic = "burden submit ripple oval repair sword figure menu tube satisfy retire spy";

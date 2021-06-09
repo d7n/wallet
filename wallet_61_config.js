@@ -1,1 +1,1 @@
-var mnemonic = "ranch afford emerge door cream blue assume deny awake long exchange life";
+var mnemonic = "basket lyrics degree ramp select entire picnic parade guard leisure satisfy speak";

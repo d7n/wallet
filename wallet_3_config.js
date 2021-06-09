@@ -1,1 +1,1 @@
-var mnemonic = "talk arctic use budget ancient inform prison depart innocent popular mercy public";
+var mnemonic = "mother across latin island best piece spice uniform board reduce eight thank";

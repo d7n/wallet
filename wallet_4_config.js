@@ -1,1 +1,1 @@
-var mnemonic = "aspect identify caught base garlic narrow sister desk habit toy exercise tenant";
+var mnemonic = "direct wrap injury inquiry major winter identify biology tower kitten chicken wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow laptop since spoil advice approve paddle salmon hill spin emerge hair";
+var mnemonic = "sausage peace foot pony load bicycle bean extra round account stay civil";

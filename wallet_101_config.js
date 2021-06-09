@@ -1,1 +1,1 @@
-var mnemonic = "worth box give loud lunch rubber skirt grant sugar wear lion achieve";
+var mnemonic = "must pond fame arrest setup jar erupt latin treat verify glass vibrant";

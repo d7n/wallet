@@ -1,1 +1,1 @@
-var mnemonic = "clock fame toy humor oval require awesome absent force ocean world decade";
+var mnemonic = "viable absurd act warrior swallow drill garden bone fossil define skate swing";

@@ -1,1 +1,1 @@
-var mnemonic = "often wrong pole ready search floor culture choice stand curve arena uncle";
+var mnemonic = "lottery oven glide secret output umbrella rely birth furnace priority economy oxygen";

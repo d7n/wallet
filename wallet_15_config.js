@@ -1,1 +1,1 @@
-var mnemonic = "slender cancel leisure rely february expect gravity baby entry twelve amazing evolve";
+var mnemonic = "draft pattern evidence chicken parrot fine icon minor three analyst trouble onion";

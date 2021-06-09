@@ -1,1 +1,1 @@
-var mnemonic = "two vanish toast law ship tree online future spare virus erase recycle";
+var mnemonic = "humor embody tent weapon suggest owner nest faculty flash siren biology dumb";

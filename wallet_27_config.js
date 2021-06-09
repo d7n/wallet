@@ -1,1 +1,1 @@
-var mnemonic = "high candy close poet sunset excess false whale keen spatial honey eager";
+var mnemonic = "another sea dress supreme parent onion viable endorse wait help chicken furnace";

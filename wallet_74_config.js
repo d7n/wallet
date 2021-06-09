@@ -1,1 +1,1 @@
-var mnemonic = "diesel idle hire unique alley detail arrange grain usual sausage hazard blood";
+var mnemonic = "tone crouch similar bonus cage flag muffin job mansion biology chat rapid";

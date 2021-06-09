@@ -1,1 +1,1 @@
-var mnemonic = "panel hedgehog keen laundry just ignore captain random conduct barely phrase song";
+var mnemonic = "spike stereo melody ensure sand void title scissors imitate victory glance bridge";

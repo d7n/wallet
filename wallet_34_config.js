@@ -1,1 +1,1 @@
-var mnemonic = "absorb evoke aunt galaxy tilt grant stick habit level caught aunt potato";
+var mnemonic = "describe draft slot tonight mask space fringe item face bird find music";

@@ -1,1 +1,1 @@
-var mnemonic = "brother canyon morning select night balcony tackle card faculty typical benefit visa";
+var mnemonic = "online muscle clock fade weekend typical siren skin stock slot clerk butter";

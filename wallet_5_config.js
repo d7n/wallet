@@ -1,1 +1,1 @@
-var mnemonic = "frequent wet assist volcano strike quiz mistake patrol obvious library wear cake";
+var mnemonic = "ski road inspire wide crack uniform modify index motion monitor thunder upset";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter large tilt margin caution coin essence slush inherit execute invite talk";
+var mnemonic = "patient parent shaft web left fiber can split like weird first tomato";

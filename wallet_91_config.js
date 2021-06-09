@@ -1,1 +1,1 @@
-var mnemonic = "small state mistake satoshi will maid verb purchase imitate brief best castle";
+var mnemonic = "cloud loop random family extend bubble apart cook gasp opinion ship mix";

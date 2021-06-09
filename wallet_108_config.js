@@ -1,1 +1,1 @@
-var mnemonic = "kick toy rally various sheriff give hand bulb awkward wagon word hard";
+var mnemonic = "trend radio cherry phone attract quantum agree opera vehicle wolf animal couple";

@@ -1,1 +1,1 @@
-var mnemonic = "discover argue earth glove member spell have valve cute summer hundred merry";
+var mnemonic = "luxury adult badge capital butter struggle round tobacco pretty accuse glimpse connect";

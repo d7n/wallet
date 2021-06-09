@@ -1,1 +1,1 @@
-var mnemonic = "topic office beef monitor metal bright jazz goose this pigeon gold smile";
+var mnemonic = "observe bird idle captain toddler uncover guide office jaguar friend lazy order";

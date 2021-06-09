@@ -1,1 +1,1 @@
-var mnemonic = "asset asthma grow reduce vault track owner tattoo faith maximum analyst mandate";
+var mnemonic = "thank fork gas divorce easily coyote payment cheese engine now achieve enemy";

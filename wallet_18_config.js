@@ -1,1 +1,1 @@
-var mnemonic = "gap acoustic gallery subway blind enter festival slogan myself pattern mobile void";
+var mnemonic = "struggle slide park burden recall indoor keen lonely shell scrub donate toward";

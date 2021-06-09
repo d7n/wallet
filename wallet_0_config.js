@@ -1,1 +1,1 @@
-var mnemonic = "wheat inner security over destroy service merit wild warrior physical all call";
+var mnemonic = "erode assault junior defy gun rhythm blouse rival link industry dignity dove";

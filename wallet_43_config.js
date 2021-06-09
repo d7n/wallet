@@ -1,1 +1,1 @@
-var mnemonic = "menu soap waste muffin outer faith raise alpha clean remain curtain rack";
+var mnemonic = "tissue child oblige across legal until isolate process eight zoo belt measure";

@@ -1,1 +1,1 @@
-var mnemonic = "render boil middle author slot robust charge comic chaos diet bargain broom";
+var mnemonic = "motion over feature fence clever anchor six ship chronic enlist caught language";

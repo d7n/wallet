@@ -1,1 +1,1 @@
-var mnemonic = "sure narrow ski sister chest neck obvious december gym uniform ancient student";
+var mnemonic = "true worth trust title believe make valve sick spin derive crack pulse";

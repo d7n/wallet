@@ -1,1 +1,1 @@
-var mnemonic = "write quote ritual ramp pigeon nose grow aunt friend impose damage card";
+var mnemonic = "scissors gaze say buyer effort satisfy club slush retire spread alley series";

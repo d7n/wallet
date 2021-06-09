@@ -1,1 +1,1 @@
-var mnemonic = "foot endorse nominee lyrics slide confirm marriage soldier agree tag decorate prepare";
+var mnemonic = "federal toe guess jump region maze test dry wisdom control clip nut";

@@ -1,1 +1,1 @@
-var mnemonic = "butter nose fence young smile property labor toy entire act artefact calm";
+var mnemonic = "lab theory sun garment panic left error debate modify genius vibrant solution";

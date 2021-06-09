@@ -1,1 +1,1 @@
-var mnemonic = "antique opinion audit dawn pretty eagle movie trade gauge spot onion filter";
+var mnemonic = "hint apple shield foil deny similar easily ankle note claw gap useless";

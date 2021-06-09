@@ -1,1 +1,1 @@
-var mnemonic = "quick impulse feature flush mammal sniff chest taxi barely outside quote destroy";
+var mnemonic = "gain artwork lake excess notice armed absurd sudden stumble enlist obtain danger";

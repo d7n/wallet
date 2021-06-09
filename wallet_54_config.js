@@ -1,1 +1,1 @@
-var mnemonic = "educate subway lake chief month refuse sleep radar illegal chair labor remain";
+var mnemonic = "sugar possible magic cry candy dwarf blanket siege chaos garment lonely flat";

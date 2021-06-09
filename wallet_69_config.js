@@ -1,1 +1,1 @@
-var mnemonic = "question photo episode meadow inherit blanket own urban intact gesture narrow force";
+var mnemonic = "ripple tourist amount tongue correct gentle frame meadow strike busy expand label";

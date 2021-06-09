@@ -1,1 +1,1 @@
-var mnemonic = "labor three fork label symbol veteran concert demise update trim thumb exclude";
+var mnemonic = "saddle pitch female midnight mosquito timber truck envelope sad credit reward setup";

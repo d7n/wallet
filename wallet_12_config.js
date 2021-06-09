@@ -1,1 +1,1 @@
-var mnemonic = "comic reform fresh behind lawn sugar age crawl melt escape tent illegal";
+var mnemonic = "broccoli attend ahead attend food harvest resemble wheat next want label device";
