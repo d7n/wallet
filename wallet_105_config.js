@@ -1,1 +1,1 @@
-var mnemonic = "pilot wolf parrot monitor differ car excite say toss great purpose saddle";
+var mnemonic = "cruise say pair arch right split alley spatial sound tunnel nature chimney";

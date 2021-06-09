@@ -1,1 +1,1 @@
-var mnemonic = "lab absent notable wine resource success pudding joke rail galaxy spread cause";
+var mnemonic = "detect half august spray grit street fox slush animal strike cluster agent";

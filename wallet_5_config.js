@@ -1,1 +1,1 @@
-var mnemonic = "purpose raven actor pupil idea visit fantasy fringe cupboard random dawn scout";
+var mnemonic = "palm secret illness educate seven empty hobby lawsuit hollow eyebrow border between";

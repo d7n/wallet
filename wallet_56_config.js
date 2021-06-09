@@ -1,1 +1,1 @@
-var mnemonic = "cave climb naive hope robot borrow resource great position satoshi bar setup";
+var mnemonic = "custom ball clip sport text busy custom satoshi select aisle adapt cinnamon";

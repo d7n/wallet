@@ -1,1 +1,1 @@
-var mnemonic = "bottom author reveal oak wet seminar midnight velvet online happy slender toward";
+var mnemonic = "bid airport thing indoor door rice riot grunt exist drink winter network";

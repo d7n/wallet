@@ -1,1 +1,1 @@
-var mnemonic = "easy hen dice abuse boost butter shift alien torch task icon drastic";
+var mnemonic = "pelican various quote abandon unlock insect tenant risk friend relief vintage trap";

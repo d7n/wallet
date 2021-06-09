@@ -1,1 +1,1 @@
-var mnemonic = "moment medal march bubble robust plunge sketch tenant hand visit twelve venture";
+var mnemonic = "hotel deputy jump crater paper shed consider utility shy labor pottery pepper";

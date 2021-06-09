@@ -1,1 +1,1 @@
-var mnemonic = "task arrange ripple orient fortune drift hobby moon aisle cost scout slim";
+var mnemonic = "solve pair vague tonight wheat hip alert torch guess library network slide";

@@ -1,1 +1,1 @@
-var mnemonic = "another whisper length define scorpion disagree genius record actual mention suggest lamp";
+var mnemonic = "luxury stay coral goose junk damp gap other peasant devote lava ocean";

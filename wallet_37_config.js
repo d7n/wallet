@@ -1,1 +1,1 @@
-var mnemonic = "reduce castle cruise breeze zoo alter awful soap bird olive upon boy";
+var mnemonic = "security present diesel jar top enjoy soup slogan guide gravity prison pepper";

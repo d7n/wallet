@@ -1,1 +1,1 @@
-var mnemonic = "image attend nothing car fork pitch elevator pink stereo guess furnace senior";
+var mnemonic = "amused average oppose cattle antique shine join extra program attack ugly topple";

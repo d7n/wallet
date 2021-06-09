@@ -1,1 +1,1 @@
-var mnemonic = "fade upon spatial twist soon join fantasy decline crunch abuse sand cruel";
+var mnemonic = "juice climb retire layer rhythm comic flip rib absurd marine bean birth";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid essay embark credit misery near web among manual razor erupt scene";
+var mnemonic = "orange bone dragon because maximum strategy fiscal glue shrimp allow planet choose";

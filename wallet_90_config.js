@@ -1,1 +1,1 @@
-var mnemonic = "license swim pride retire early august click jelly weird under useless vehicle";
+var mnemonic = "right spell vapor radio crack amount level anger cradle spend twice scare";

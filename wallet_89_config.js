@@ -1,1 +1,1 @@
-var mnemonic = "reflect apple gravity beyond praise priority radar coyote buddy erupt bamboo valley";
+var mnemonic = "cave famous coin cabin nurse seat width document arrow entry whisper current";

@@ -1,1 +1,1 @@
-var mnemonic = "basket sweet weekend indicate comic length goat armed leisure prevent pill plastic";
+var mnemonic = "pupil arrange end garden logic alley enable target raven mandate ceiling embrace";

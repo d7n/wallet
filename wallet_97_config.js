@@ -1,1 +1,1 @@
-var mnemonic = "forward clutch super phrase auction next genius like orient fruit you monkey";
+var mnemonic = "narrow mandate clip since apology review resist title tourist fatigue pony peace";

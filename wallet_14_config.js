@@ -1,1 +1,1 @@
-var mnemonic = "whisper tank biology cereal noodle whale tuition faint quit bone lobster sphere";
+var mnemonic = "orbit notable mushroom horror merry bullet charge supply pen interest bubble soft";

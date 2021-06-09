@@ -1,1 +1,1 @@
-var mnemonic = "zebra bubble bag large brave atom nominee hurdle true olympic prepare people";
+var mnemonic = "grace guitar cupboard shrimp bamboo join rule trade crew elegant display arena";

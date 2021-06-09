@@ -1,1 +1,1 @@
-var mnemonic = "broken seek width diet ancient calm fatigue someone ecology camera exotic discover";
+var mnemonic = "slush panic water bind ribbon junk vendor marine winner shove weapon cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone yard develop spin gaze cycle exchange confirm muscle brand evolve neither";
+var mnemonic = "resemble forest escape october cat song clean review glimpse cover entry bag";

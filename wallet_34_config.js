@@ -1,1 +1,1 @@
-var mnemonic = "project quarter time dentist govern present super gown check stumble leaf link";
+var mnemonic = "turkey jelly motion surface snack safe day corn nerve satoshi invest dismiss";

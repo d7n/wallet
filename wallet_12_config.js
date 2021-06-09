@@ -1,1 +1,1 @@
-var mnemonic = "enter dilemma chapter differ print trigger lawsuit position film anger penalty retreat";
+var mnemonic = "destroy apart device gesture chase surge plastic off ensure truly prevent retire";

@@ -1,1 +1,1 @@
-var mnemonic = "start art grid deer interest high gospel tent fury double agree shuffle";
+var mnemonic = "cat mask thank face slab just reduce cement scan street embody scissors";

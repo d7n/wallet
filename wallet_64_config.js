@@ -1,1 +1,1 @@
-var mnemonic = "embrace bean toe spot device need arrest thunder segment discover diamond practice";
+var mnemonic = "year neck crush enhance replace reward beach year cousin fetch flash whale";

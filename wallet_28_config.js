@@ -1,1 +1,1 @@
-var mnemonic = "depend forward theory ceiling crater ensure sauce start toe rally exact volume";
+var mnemonic = "world minute start cotton announce primary feed slam famous rug seat jacket";

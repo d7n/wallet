@@ -1,1 +1,1 @@
-var mnemonic = "custom useful tiny ability cinnamon lucky leader agent embrace fan menu slogan";
+var mnemonic = "kite process agent super possible evidence hollow install public crouch book enough";

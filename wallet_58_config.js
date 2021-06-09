@@ -1,1 +1,1 @@
-var mnemonic = "will inspire roof dragon fruit valve piece mother rural badge opinion royal";
+var mnemonic = "blush measure vacant exclude believe ghost cost asthma scrub expire kitten congress";

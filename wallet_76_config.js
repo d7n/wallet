@@ -1,1 +1,1 @@
-var mnemonic = "cash evolve decline bike march fashion oxygen resist grace shadow afraid crowd";
+var mnemonic = "invest vital rebel remove rude solution march tell process feature matrix trumpet";

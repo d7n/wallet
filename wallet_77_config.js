@@ -1,1 +1,1 @@
-var mnemonic = "movie fossil avocado siege hand mandate foam amount aspect aware castle loop";
+var mnemonic = "dance pilot moral else mind undo turn police fat produce pitch twist";

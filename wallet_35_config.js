@@ -1,1 +1,1 @@
-var mnemonic = "earth hub girl slogan chief tourist pottery excuse since describe absurd good";
+var mnemonic = "shy mesh borrow swarm frog amused million parrot turtle option wagon hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune calm two furnace february face bench impulse blame display cupboard table";
+var mnemonic = "install start sweet rival message truck couch decide provide tourist decade humor";

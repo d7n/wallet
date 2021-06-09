@@ -1,1 +1,1 @@
-var mnemonic = "extend news spice valid elbow region inmate reflect panda split found kitten";
+var mnemonic = "solution slow problem sock race someone sleep liquid mystery scare jealous angry";

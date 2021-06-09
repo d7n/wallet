@@ -1,1 +1,1 @@
-var mnemonic = "tell burger label flush repair truly damp victory mushroom walk please gossip";
+var mnemonic = "patch key half junior noble dance theory light mad razor start crystal";

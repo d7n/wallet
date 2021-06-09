@@ -1,1 +1,1 @@
-var mnemonic = "fossil slice maze trade tribe body moment much master solid hen mechanic";
+var mnemonic = "immense margin future style lemon hamster upset frost actor strategy rocket sport";

@@ -1,1 +1,1 @@
-var mnemonic = "success govern water retreat erode screen animal subway system kitchen wrist option";
+var mnemonic = "scrap cave purpose retire flash wine explain report cigar magic room movie";

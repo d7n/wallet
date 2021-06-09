@@ -1,1 +1,1 @@
-var mnemonic = "inhale fat eager cattle peace fossil fiber advice sphere police solid cost";
+var mnemonic = "remain inject push can install chicken flee tonight final pet win balcony";

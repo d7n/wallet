@@ -1,1 +1,1 @@
-var mnemonic = "climb engage cry clump where planet document nothing student police sketch tag";
+var mnemonic = "spring local proof team permit shield brown glide future gospel useful cactus";

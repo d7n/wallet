@@ -1,1 +1,1 @@
-var mnemonic = "review piece lemon output enrich cube news moon language spot orange labor";
+var mnemonic = "meadow task barrel tide local museum top settle border domain transfer fun";

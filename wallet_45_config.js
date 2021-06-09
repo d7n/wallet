@@ -1,1 +1,1 @@
-var mnemonic = "nest pride shell divorce attend library effort blanket salute track unfair citizen";
+var mnemonic = "this pact broccoli insect theme random fluid elephant glad pear almost endorse";

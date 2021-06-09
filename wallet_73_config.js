@@ -1,1 +1,1 @@
-var mnemonic = "humor admit viable believe ski enact famous crucial settle collect vivid token";
+var mnemonic = "nasty home bone practice insect mutual amazing ozone napkin slim cinnamon tent";

@@ -1,1 +1,1 @@
-var mnemonic = "search never toe gentle embody above attitude need cancel swift have practice";
+var mnemonic = "eternal skate hawk pave nurse sister usage loan flip good kitchen assume";

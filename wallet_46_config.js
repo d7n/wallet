@@ -1,1 +1,1 @@
-var mnemonic = "ski tooth giggle august adjust famous sorry stamp speed scorpion mom amazing";
+var mnemonic = "wood sketch shoulder file leaf airport will entire bar ankle awful open";

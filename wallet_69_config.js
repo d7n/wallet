@@ -1,1 +1,1 @@
-var mnemonic = "acoustic digital owner ribbon icon seed boost scout title stem elevator jealous";
+var mnemonic = "kitten girl fee soccer spare impose photo switch online clog slab bonus";

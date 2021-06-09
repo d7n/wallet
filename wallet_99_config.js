@@ -1,1 +1,1 @@
-var mnemonic = "device silent play genre fish steak cash inject venture avoid educate vacuum";
+var mnemonic = "quantum stick reopen zero drift track dust resemble receive initial peasant entire";

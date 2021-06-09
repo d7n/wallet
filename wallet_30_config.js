@@ -1,1 +1,1 @@
-var mnemonic = "nest member excuse legend tray detect draw stone logic excuse answer jump";
+var mnemonic = "search find capital wheat erosion estate vessel hundred strike urban april option";

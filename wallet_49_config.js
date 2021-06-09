@@ -1,1 +1,1 @@
-var mnemonic = "three pair then abstract sad future potato broken choose phrase chat twin";
+var mnemonic = "coyote solve what all organ trap deny peace alley cage rate bike";

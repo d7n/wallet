@@ -1,1 +1,1 @@
-var mnemonic = "since expose satisfy tuna gift orchard shove couch summer food evolve ceiling";
+var mnemonic = "grid wonder since witness similar brain punch funny rely act top exit";

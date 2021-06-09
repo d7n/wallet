@@ -1,1 +1,1 @@
-var mnemonic = "senior transfer mix garage flash bar satisfy tuition magic silly cliff boat";
+var mnemonic = "motor baby remove plunge vacant comfort laugh brain expire ceiling release cross";

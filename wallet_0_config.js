@@ -1,1 +1,1 @@
-var mnemonic = "rate provide deal industry armor glad price gather original vague happy romance";
+var mnemonic = "interest spend corn push angle wheel ticket ramp theme script olympic initial";

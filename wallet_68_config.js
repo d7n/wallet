@@ -1,1 +1,1 @@
-var mnemonic = "debris mandate path essay between staff pupil gossip ordinary cat giggle weapon";
+var mnemonic = "rely ceiling crumble model blanket agent fame weekend strategy muscle twin behind";

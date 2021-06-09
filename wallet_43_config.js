@@ -1,1 +1,1 @@
-var mnemonic = "coast guess excuse fly clerk rare cost beauty powder off melody unknown";
+var mnemonic = "love buyer axis alien hedgehog dad cruise follow shed horn rotate trumpet";

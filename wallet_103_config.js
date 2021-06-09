@@ -1,1 +1,1 @@
-var mnemonic = "east school menu camp such replace network strong hazard multiply attack title";
+var mnemonic = "island stay inch valve wool border learn record swim two ranch weekend";

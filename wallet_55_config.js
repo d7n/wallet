@@ -1,1 +1,1 @@
-var mnemonic = "aunt wear web system whale antenna win snow enact reform reveal spatial";
+var mnemonic = "disorder warfare matrix sunset strategy fluid insane trust toe speak castle cluster";

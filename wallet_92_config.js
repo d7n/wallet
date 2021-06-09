@@ -1,1 +1,1 @@
-var mnemonic = "spy waste wild light sleep mystery fatigue tuition busy clap consider boring";
+var mnemonic = "deposit brush frog face chair oxygen dolphin expand payment wolf cost space";

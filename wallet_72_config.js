@@ -1,1 +1,1 @@
-var mnemonic = "spoil impose decide monster leopard color lion slogan sister okay fit girl";
+var mnemonic = "jeans kite comic speak useful sponsor crouch arrest cage whip service dawn";

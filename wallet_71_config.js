@@ -1,1 +1,1 @@
-var mnemonic = "garment wish borrow fragile push cruel region bus army woman affair genre";
+var mnemonic = "reflect direct cotton brass card school arena palace wild pottery soft skill";

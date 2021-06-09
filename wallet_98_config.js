@@ -1,1 +1,1 @@
-var mnemonic = "already frozen base income first cupboard quiz label tree faint edge knife";
+var mnemonic = "index mistake survey cattle meat jealous original delay dizzy life mixed shock";

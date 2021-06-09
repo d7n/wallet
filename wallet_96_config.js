@@ -1,1 +1,1 @@
-var mnemonic = "series build apart fog team minimum wealth penalty bean quiz once recycle";
+var mnemonic = "wish grocery modify chair note begin rice acid hobby sell smile pink";

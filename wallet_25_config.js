@@ -1,1 +1,1 @@
-var mnemonic = "drive wire casino cherry then enrich soccer wave worth enhance admit carbon";
+var mnemonic = "spread actor exist purchase stone leisure unveil arrive grain shove convince clay";

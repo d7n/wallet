@@ -1,1 +1,1 @@
-var mnemonic = "sing beyond grunt enroll clean heart vanish cluster lobster kitchen vivid target";
+var mnemonic = "pig vessel assume matrix nephew embody hip unveil priority tenant dry puppy";

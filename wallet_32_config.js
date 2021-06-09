@@ -1,1 +1,1 @@
-var mnemonic = "tonight awkward arm adult major unfold century bullet assume payment lemon sting";
+var mnemonic = "armor notice arrow cream beach easy pizza impose truly install cry bubble";

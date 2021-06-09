@@ -1,1 +1,1 @@
-var mnemonic = "wagon fatigue hobby sea moment label mountain scale lab token image camp";
+var mnemonic = "clean inspire balance alley essay silk fiscal vessel illegal calm sleep crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "burst onion wall silent push average robust pattern trust type involve conduct";
+var mnemonic = "supply struggle merge wise seed bleak jungle famous vacuum bracket verb rough";

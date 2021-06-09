@@ -1,1 +1,1 @@
-var mnemonic = "sorry shock popular dove wisdom refuse share shuffle priority milk enroll snap";
+var mnemonic = "tennis antenna next win boat organ pink certain stomach enhance reveal onion";

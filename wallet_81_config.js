@@ -1,1 +1,1 @@
-var mnemonic = "matrix produce leader eight huge omit infant capable baby lunar peace canvas";
+var mnemonic = "market harvest thrive make shove coral moment multiply eternal mercy focus agree";

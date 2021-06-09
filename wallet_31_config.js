@@ -1,1 +1,1 @@
-var mnemonic = "march unfair question execute candy pitch earth bike noble move furnace rude";
+var mnemonic = "now health either hat foot bounce country rebuild firm state around winter";

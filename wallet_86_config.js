@@ -1,1 +1,1 @@
-var mnemonic = "two loop vault bulb input fork surround swear dawn fish donor abstract";
+var mnemonic = "flag finger cup foil pyramid salad august stock donor trumpet loyal mail";

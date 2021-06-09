@@ -1,1 +1,1 @@
-var mnemonic = "shoot tiger exhaust settle library mom method paper artist canyon rabbit horse";
+var mnemonic = "battle tonight couple wash certain diary this glass chunk twenty vague horror";

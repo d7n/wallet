@@ -1,1 +1,1 @@
-var mnemonic = "apple dream lake era duty parade theory present fat hover regret legal";
+var mnemonic = "catalog supply sell blanket move false coast bench close jump above dentist";

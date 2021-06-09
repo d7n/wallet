@@ -1,1 +1,1 @@
-var mnemonic = "desk enhance hedgehog dizzy enact rely pink hawk soup cabin ahead knife";
+var mnemonic = "tragic craft venue convince rude twin decorate struggle pudding popular depend clerk";

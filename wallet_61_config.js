@@ -1,1 +1,1 @@
-var mnemonic = "pioneer cigar universe own chapter puppy dragon boat melody junk kangaroo liquid";
+var mnemonic = "yard pizza club path life century quick gather tank predict absent vast";

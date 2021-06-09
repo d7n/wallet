@@ -1,1 +1,1 @@
-var mnemonic = "useful engage swarm square panther forget soul walk crouch message width hole";
+var mnemonic = "scorpion learn patch super blur carpet use spare sand short cotton creek";

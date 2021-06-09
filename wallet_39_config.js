@@ -1,1 +1,1 @@
-var mnemonic = "wood improve walk rigid knee dirt hen deposit few one answer school";
+var mnemonic = "window this hero midnight width leisure jar slush quality chimney column phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "palm visa mass receive confirm clown resemble laugh ethics park hunt hair";
+var mnemonic = "segment warrior memory wool mimic finger town capital bone coil comic crumble";

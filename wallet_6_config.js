@@ -1,1 +1,1 @@
-var mnemonic = "quit verb enter milk nothing odor carpet juice report thunder skate document";
+var mnemonic = "ordinary turkey wrong echo mandate soul donkey trust luxury garment absorb swim";

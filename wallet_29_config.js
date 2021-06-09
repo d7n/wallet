@@ -1,1 +1,1 @@
-var mnemonic = "grace fog pottery arch design cruise vibrant bundle retire steel beauty dash";
+var mnemonic = "weapon this gaze promote deal sausage picture load enable atom sketch reward";

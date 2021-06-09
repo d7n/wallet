@@ -1,1 +1,1 @@
-var mnemonic = "verify illness lion devote flat famous raw ethics lonely cram alien alcohol";
+var mnemonic = "actor dose acid coffee swear rural crawl patrol spell soup scrap sample";

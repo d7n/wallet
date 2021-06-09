@@ -1,1 +1,1 @@
-var mnemonic = "magic theory laugh achieve submit list rally clap garment scene apple flip";
+var mnemonic = "harvest desk direct arch require define fire undo dentist brief sing card";

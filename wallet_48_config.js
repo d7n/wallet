@@ -1,1 +1,1 @@
-var mnemonic = "holiday multiply ethics salon resemble loyal rate stone flag retreat rare short";
+var mnemonic = "purse potato panther appear cloth security shiver agree quantum cram dream bronze";

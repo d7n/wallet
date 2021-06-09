@@ -1,1 +1,1 @@
-var mnemonic = "tuition copy winter rich pledge nose notable round artist immense around obvious";
+var mnemonic = "twin warfare poem robot door olympic swear problem suit woman trial denial";

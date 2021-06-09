@@ -1,1 +1,1 @@
-var mnemonic = "version adapt stem dad unusual fever hire sibling ribbon clock afraid outdoor";
+var mnemonic = "scare quick capable rebuild lounge slam lamp sort picnic jungle utility midnight";

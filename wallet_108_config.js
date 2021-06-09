@@ -1,1 +1,1 @@
-var mnemonic = "mad athlete click title angle add still trigger beauty reject manage slush";
+var mnemonic = "jaguar mix hold album yellow iron resist gain talent goat length aisle";

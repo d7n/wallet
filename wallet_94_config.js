@@ -1,1 +1,1 @@
-var mnemonic = "quick siege rent mean patch ethics crop poverty wire visit list more";
+var mnemonic = "found merge proof faint width fever fade nature join quality photo husband";

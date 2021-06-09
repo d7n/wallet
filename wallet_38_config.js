@@ -1,1 +1,1 @@
-var mnemonic = "sure bracket amount toilet vacuum detail cabin behind audit junk debris person";
+var mnemonic = "amazing spot spike drama dove wild raccoon toy link august sausage benefit";

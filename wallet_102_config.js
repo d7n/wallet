@@ -1,1 +1,1 @@
-var mnemonic = "fetch share direct tornado exclude chief main lend image bike material naive";
+var mnemonic = "demand excuse example remove hat degree pledge mobile indoor food shed cross";

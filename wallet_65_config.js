@@ -1,1 +1,1 @@
-var mnemonic = "width lecture local flame bone snack giggle burst lamp immense cupboard connect";
+var mnemonic = "fee coffee basket exclude robust inspire cry release hero veteran husband ill";

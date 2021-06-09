@@ -1,1 +1,1 @@
-var mnemonic = "cabin apology field opera position grief action sniff cry ancient when resource";
+var mnemonic = "must fox friend into undo mad amateur scene plate stadium person friend";

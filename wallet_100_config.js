@@ -1,1 +1,1 @@
-var mnemonic = "guitar wasp fiber awful reason grab chapter mad retreat found taste oak";
+var mnemonic = "matrix valid boost satoshi also funny cash inform slender reveal demise stuff";

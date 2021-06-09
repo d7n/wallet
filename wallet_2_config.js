@@ -1,1 +1,1 @@
-var mnemonic = "multiply skirt clown spare maximum recall industry appear relief perfect agree isolate";
+var mnemonic = "opinion light floor author dolphin citizen weapon stem shoulder elbow baby chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy label seminar awesome tumble omit leopard pudding muscle witness goose dice";
+var mnemonic = "sponsor delay top narrow ecology coffee tip acquire guitar scorpion one olive";
