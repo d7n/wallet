@@ -1,1 +1,1 @@
-var mnemonic = "wreck wing display object agree forum across expire betray zebra galaxy kite";
+var mnemonic = "olympic champion limb film tattoo emotion apology initial invite use inhale helmet";

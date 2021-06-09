@@ -1,1 +1,1 @@
-var mnemonic = "text right tourist sing piano opera olive mandate teach honey lock analyst";
+var mnemonic = "upgrade hood prefer edit poem grape wheat able border move flock illness";

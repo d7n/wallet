@@ -1,1 +1,1 @@
-var mnemonic = "case craft camp seek replace wide recall because friend glass check witness";
+var mnemonic = "pumpkin museum exercise fantasy page artefact floor possible yellow fine prevent rail";

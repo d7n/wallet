@@ -1,1 +1,1 @@
-var mnemonic = "memory rubber dizzy segment toss swallow wonder insane belt dial ivory avoid";
+var mnemonic = "attitude excite traffic kiwi diet task good symbol fine fault solid exile";

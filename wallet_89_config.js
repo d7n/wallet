@@ -1,1 +1,1 @@
-var mnemonic = "idea monster profit hawk profit volume enlist arrest spider element away couple";
+var mnemonic = "family connect chunk orbit chalk flush limb place entire ankle decade butter";

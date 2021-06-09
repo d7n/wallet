@@ -1,1 +1,1 @@
-var mnemonic = "heart file uncover claw lyrics muscle estate surge scheme version ankle zero";
+var mnemonic = "clog race giraffe alpha hole length jar flight liberty want reform bronze";

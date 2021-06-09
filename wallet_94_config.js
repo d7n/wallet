@@ -1,1 +1,1 @@
-var mnemonic = "reform comfort trigger bamboo envelope laundry exercise talent skirt upper math fiber";
+var mnemonic = "neglect victory dentist lyrics matrix lizard curve skull nut siren obtain suffer";

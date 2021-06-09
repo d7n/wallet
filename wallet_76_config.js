@@ -1,1 +1,1 @@
-var mnemonic = "mean love alarm target claw maze wine flip stand young welcome input";
+var mnemonic = "network salute rent change trophy artwork shock multiply struggle guide quiz lazy";

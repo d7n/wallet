@@ -1,1 +1,1 @@
-var mnemonic = "garden salmon elephant clerk romance egg arch crash sample easy outside clever";
+var mnemonic = "lecture stone chest wife crew access family meat mule tilt wild bacon";

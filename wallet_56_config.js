@@ -1,1 +1,1 @@
-var mnemonic = "walk waste relief inflict saddle prize section first scout blur galaxy ripple";
+var mnemonic = "fly extra easily struggle little fury bridge capital muffin boring permit coffee";

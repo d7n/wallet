@@ -1,1 +1,1 @@
-var mnemonic = "avocado curve scan neck road entire long inquiry ranch nation comfort top";
+var mnemonic = "damp cancel student exclude shield captain plug bounce unit dumb cage use";

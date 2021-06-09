@@ -1,1 +1,1 @@
-var mnemonic = "bamboo erode asthma issue grace away retire recall finger sea inmate shaft";
+var mnemonic = "acoustic what guard news tag end blur exotic delay print wage coconut";

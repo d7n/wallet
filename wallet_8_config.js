@@ -1,1 +1,1 @@
-var mnemonic = "ready woman strike stem improve pact jar bicycle enough confirm cactus half";
+var mnemonic = "taxi tape supply proud negative sheriff lake zone rude filter lion reward";

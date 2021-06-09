@@ -1,1 +1,1 @@
-var mnemonic = "anger aware drive scrub sentence key tiger can confirm industry damp thrive";
+var mnemonic = "sure sand then brave valley dolphin bulb legal true amazing village august";

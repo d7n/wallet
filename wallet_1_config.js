@@ -1,1 +1,1 @@
-var mnemonic = "mandate there maple capital bachelor spoon gallery major equip bridge diet boss";
+var mnemonic = "step dial diet blind flock size coral hammer crane sock sponsor hill";

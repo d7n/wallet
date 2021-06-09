@@ -1,1 +1,1 @@
-var mnemonic = "amount pole word drift decide pyramid million artefact venue rubber hair industry";
+var mnemonic = "charge awful weekend despair asthma conduct beach teach ride address follow depend";

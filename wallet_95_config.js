@@ -1,1 +1,1 @@
-var mnemonic = "again copper snow erosion guard among taxi unfair inch wine matter detect";
+var mnemonic = "great sport boss erode win company slim true critic book mimic hurry";

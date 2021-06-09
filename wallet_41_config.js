@@ -1,1 +1,1 @@
-var mnemonic = "permit wave similar poem baby garment jungle leaf human earth pave exact";
+var mnemonic = "powder mom uncover barely story reform oyster unaware field erase dragon height";

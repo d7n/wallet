@@ -1,1 +1,1 @@
-var mnemonic = "near stomach reunion genuine music damage tissue age live bridge quality door";
+var mnemonic = "armor arch rookie worry margin coral celery until idea rural ripple hold";

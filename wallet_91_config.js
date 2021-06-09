@@ -1,1 +1,1 @@
-var mnemonic = "fuel dignity real knife glove orchard climb cause diary void fashion negative";
+var mnemonic = "possible donor prefer key leg fabric culture assault cat medal voice decline";

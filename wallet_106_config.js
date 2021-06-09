@@ -1,1 +1,1 @@
-var mnemonic = "now retire rally rent explain model decorate famous file physical coyote feed";
+var mnemonic = "away young float cry ensure woman meadow void chef adapt involve olympic";

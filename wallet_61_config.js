@@ -1,1 +1,1 @@
-var mnemonic = "bleak adapt impose dynamic hidden grab whip pole cause under hill eyebrow";
+var mnemonic = "glad motion hint alien bonus tower aunt funny pepper ski eye habit";

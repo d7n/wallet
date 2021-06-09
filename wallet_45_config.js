@@ -1,1 +1,1 @@
-var mnemonic = "twenty duck sweet siren bind ridge blast oven quote color mixture good";
+var mnemonic = "opinion grit enemy easily frame eight end legend goose tag gown ill";

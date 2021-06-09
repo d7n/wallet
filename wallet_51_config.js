@@ -1,1 +1,1 @@
-var mnemonic = "recall acid gentle blush ticket shaft still doll nose brand mansion forward";
+var mnemonic = "sail coyote author this hub fetch special scale choose want puppy eternal";

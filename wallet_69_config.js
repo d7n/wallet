@@ -1,1 +1,1 @@
-var mnemonic = "wear leader grain shell sword accident device faith disorder shop demand glad";
+var mnemonic = "shop laundry family ridge cave sunset you congress mean gentle guard comic";

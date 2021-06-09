@@ -1,1 +1,1 @@
-var mnemonic = "black paddle garment hurt door goose cigar until second hint general slot";
+var mnemonic = "fold runway imitate sudden unfair spot myself interest medal amateur now pyramid";

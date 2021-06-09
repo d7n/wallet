@@ -1,1 +1,1 @@
-var mnemonic = "angle camp abuse remove dog usual flash hurry anchor couch vote puppy";
+var mnemonic = "vivid private collect pudding puzzle faculty dismiss black proof blouse lake genre";

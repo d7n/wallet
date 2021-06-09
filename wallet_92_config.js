@@ -1,1 +1,1 @@
-var mnemonic = "exhibit panther save bracket bird dwarf twenty ethics monster involve sunset wheat";
+var mnemonic = "unfold supreme circle elbow attack width neglect elevator six upper uncover frost";

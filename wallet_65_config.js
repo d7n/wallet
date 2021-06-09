@@ -1,1 +1,1 @@
-var mnemonic = "dust glow code still blue pause sock syrup fog above soon core";
+var mnemonic = "column dust orbit ostrich ensure three like final logic gold team salad";

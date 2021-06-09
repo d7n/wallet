@@ -1,1 +1,1 @@
-var mnemonic = "dumb reward injury prevent accuse label drift ostrich skate render neck expect";
+var mnemonic = "better miss human rich neck loyal daring trip latin radar pass surround";

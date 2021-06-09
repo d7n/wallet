@@ -1,1 +1,1 @@
-var mnemonic = "sight wheat puppy visit account buzz account foil sheriff bicycle slide fly";
+var mnemonic = "property type sleep wedding private before damage step orange quote ethics fatal";

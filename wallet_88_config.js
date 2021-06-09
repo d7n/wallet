@@ -1,1 +1,1 @@
-var mnemonic = "alpha health social sketch play visa fantasy flat spirit cement myth pistol";
+var mnemonic = "uncle notice oak prison habit lesson detect negative session tilt bamboo crisp";

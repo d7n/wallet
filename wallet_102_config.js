@@ -1,1 +1,1 @@
-var mnemonic = "blast clock main merit define lawn million nothing jealous chef drum trust";
+var mnemonic = "trap awkward bulk mandate point cliff farm stuff car olive lemon grape";

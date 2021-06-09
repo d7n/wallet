@@ -1,1 +1,1 @@
-var mnemonic = "hungry car unhappy uniform myth balcony mother round diagram jaguar spawn erode";
+var mnemonic = "sample jealous clap survey inform misery swim century negative bench catalog chunk";

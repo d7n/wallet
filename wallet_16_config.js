@@ -1,1 +1,1 @@
-var mnemonic = "catch able dignity guess west decorate hurt govern nut road chaos just";
+var mnemonic = "clock salute rule rare rack combine evil spring clay claw age cheap";

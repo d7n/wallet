@@ -1,1 +1,1 @@
-var mnemonic = "wash mountain already load bulk physical laugh bubble attend grab behave grow";
+var mnemonic = "left wise lecture fade wrap quiz diary hurdle brisk draw sick gas";

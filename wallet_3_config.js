@@ -1,1 +1,1 @@
-var mnemonic = "narrow save hand need snow detail pledge exit cart amount dolphin caution";
+var mnemonic = "surround brave edge eye gun delay few firm liberty warrior fiber discover";

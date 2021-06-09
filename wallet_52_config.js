@@ -1,1 +1,1 @@
-var mnemonic = "observe mask bleak spray manual chair adjust galaxy common dinosaur mushroom love";
+var mnemonic = "alone fork nose off follow better city improve defense proof drop rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "blame point obey snap reflect text mom excess mimic wing girl diet";
+var mnemonic = "humble visit cloud father antenna civil gorilla flee fatal cinnamon smart odor";

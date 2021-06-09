@@ -1,1 +1,1 @@
-var mnemonic = "code veteran better pelican kingdom submit earth elegant give swim flash copy";
+var mnemonic = "breeze hair stock predict announce popular nest ginger soda box tiger nuclear";

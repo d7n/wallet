@@ -1,1 +1,1 @@
-var mnemonic = "enrich replace crucial fashion balcony robot scheme swing expect talk legend direct";
+var mnemonic = "melody pottery soul cage clever garden border clump again huge earth obscure";

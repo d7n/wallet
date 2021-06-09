@@ -1,1 +1,1 @@
-var mnemonic = "squirrel hero repeat coyote major lucky alarm dash genius hand six seat";
+var mnemonic = "tourist fragile burden upset cousin print frown daring cotton large school glide";

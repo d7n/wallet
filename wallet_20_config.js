@@ -1,1 +1,1 @@
-var mnemonic = "orbit better occur meadow carbon impact sun meat night prize impulse profit";
+var mnemonic = "sick wisdom soap divide raise decorate surface hazard exchange naive welcome swear";

@@ -1,1 +1,1 @@
-var mnemonic = "toward firm join brush noise universe coach fury dwarf curve kiss teach";
+var mnemonic = "goat execute barely average error garden resist grief fox forest damage own";

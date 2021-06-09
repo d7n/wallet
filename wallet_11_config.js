@@ -1,1 +1,1 @@
-var mnemonic = "drive process turkey naive unfold island morning tomorrow coast miss expand happy";
+var mnemonic = "clay raccoon deliver concert song gift beef method dwarf pulse way excite";

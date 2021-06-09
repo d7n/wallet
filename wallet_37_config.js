@@ -1,1 +1,1 @@
-var mnemonic = "guide tornado direct wool hour gasp ocean whip void logic divorce that";
+var mnemonic = "hungry attract life proud diary matrix crawl work faculty dutch another physical";

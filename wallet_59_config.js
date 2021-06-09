@@ -1,1 +1,1 @@
-var mnemonic = "hood among abuse buffalo guide immune evil tongue combine axis impose wash";
+var mnemonic = "woman soda receive roof call pudding clinic echo occur student find disease";

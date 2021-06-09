@@ -1,1 +1,1 @@
-var mnemonic = "wage discover ship position vanish shrug volume animal foot category dash resource";
+var mnemonic = "bicycle fade crack benefit pass tower size wise romance clerk secret romance";

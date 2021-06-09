@@ -1,1 +1,1 @@
-var mnemonic = "inquiry devote scout gadget bright notice spray west relief thank public recipe";
+var mnemonic = "sketch garbage brown suit outside captain enter lion silent dinosaur comic payment";

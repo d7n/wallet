@@ -1,1 +1,1 @@
-var mnemonic = "bitter submit wrist bullet knife chimney lady steak exact network chat squeeze";
+var mnemonic = "abandon visa attend health catch moon fabric refuse kangaroo urge knee reform";

@@ -1,1 +1,1 @@
-var mnemonic = "two gift calm team moon now tilt change shock industry barely spy";
+var mnemonic = "dose twelve write hover truth long mountain private siege chuckle focus wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "vague canvas behave near giant rough unique anchor almost strong wrong timber";
+var mnemonic = "sock able sport gloom know marine palm dinosaur jaguar jump pretty hen";

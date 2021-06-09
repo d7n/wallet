@@ -1,1 +1,1 @@
-var mnemonic = "problem anxiety miss scheme horn fruit leaf quantum task culture walk arrest";
+var mnemonic = "dream pelican grape sound person burst rate during naive route attitude already";

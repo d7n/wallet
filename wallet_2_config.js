@@ -1,1 +1,1 @@
-var mnemonic = "slow emerge silver reject fiction unit minute card grow skull over engage";
+var mnemonic = "blame stove pill hammer mobile guitar edge order mean amount seat mass";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb suit pipe fish fish absent street dismiss hamster plate crew forest";
+var mnemonic = "pool vessel uniform raise vibrant ceiling air doll remove simple comfort average";

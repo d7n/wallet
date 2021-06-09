@@ -1,1 +1,1 @@
-var mnemonic = "giant conduct kind dish heart blast denial plug upper suffer garden seed";
+var mnemonic = "program verify inhale material sell alter use identify hire chalk damp just";

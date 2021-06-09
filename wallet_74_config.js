@@ -1,1 +1,1 @@
-var mnemonic = "stick life frown earn laundry lesson live seven client able save extra";
+var mnemonic = "word turkey move treat approve field staff wealth happy dry plate soccer";

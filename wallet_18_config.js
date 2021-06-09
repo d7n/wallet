@@ -1,1 +1,1 @@
-var mnemonic = "vote country lend issue consider material monster ceiling series odor marriage news";
+var mnemonic = "city copper team bright spirit shoulder glow spin sun climb citizen obscure";

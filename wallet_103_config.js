@@ -1,1 +1,1 @@
-var mnemonic = "system canoe slice palm social glare reduce bullet cheap invite wheel ginger";
+var mnemonic = "fever loud belt anchor horn road virus salad power human boil blossom";

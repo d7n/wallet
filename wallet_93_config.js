@@ -1,1 +1,1 @@
-var mnemonic = "cube penalty spin topic retire lunch wage main drop essence burst quit";
+var mnemonic = "steel fog elevator earn attend click illegal uniform grit unique test decade";

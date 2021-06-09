@@ -1,1 +1,1 @@
-var mnemonic = "coyote heart live arrive pen spike disagree arena glass nut woman work";
+var mnemonic = "danger punch bridge almost empty bonus into used width exhibit hero core";

@@ -1,1 +1,1 @@
-var mnemonic = "when person hold window absent afraid armed absorb river stay extend license";
+var mnemonic = "view pond boring turtle merge rhythm old dawn hobby click upper below";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty like submit ski govern very cross flame catch mandate melody answer";
+var mnemonic = "knife grab tooth goose scene donkey decade gadget canyon genius undo sample";

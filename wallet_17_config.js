@@ -1,1 +1,1 @@
-var mnemonic = "curious team pass glad sunset quantum captain neutral punch coin loyal smooth";
+var mnemonic = "farm embark involve garage fine twelve toilet curious praise spare sample ugly";

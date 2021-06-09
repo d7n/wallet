@@ -1,1 +1,1 @@
-var mnemonic = "ribbon physical twelve nominee strong virtual camera napkin soccer exotic bean visit";
+var mnemonic = "title where economy dad diesel stem narrow bright worth else coconut evolve";

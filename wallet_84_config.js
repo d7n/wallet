@@ -1,1 +1,1 @@
-var mnemonic = "patch unveil usual ask dog fat mention urban flush cheese adapt recipe";
+var mnemonic = "key sing enter venue hospital scare luggage anger hurdle canal motion tribe";

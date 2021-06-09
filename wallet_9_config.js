@@ -1,1 +1,1 @@
-var mnemonic = "panel feel manage once noodle expose capable web betray drum fault follow";
+var mnemonic = "canoe rally river affair void satoshi two clump special wagon fancy comfort";

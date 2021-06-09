@@ -1,1 +1,1 @@
-var mnemonic = "blade will office milk claim little airport path cage couple organ jar";
+var mnemonic = "elbow knife gap dream pear frame boat only female prefer resemble fantasy";

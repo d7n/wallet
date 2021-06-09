@@ -1,1 +1,1 @@
-var mnemonic = "refuse orphan eternal pencil liar caution wide project firm element whip flame";
+var mnemonic = "capital memory cotton pink opera arrest crane immune jar select model logic";

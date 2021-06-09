@@ -1,1 +1,1 @@
-var mnemonic = "calm world rural fun fringe carbon garden music inquiry off thank world";
+var mnemonic = "slam venture wish bus carbon purity clutch destroy latin park arch health";

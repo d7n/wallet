@@ -1,1 +1,1 @@
-var mnemonic = "ecology plate gold mosquito jeans gaze lecture any bar brand reform nature";
+var mnemonic = "what print unhappy clerk old cruise sting genre half flush trust mouse";

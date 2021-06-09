@@ -1,1 +1,1 @@
-var mnemonic = "visual surface educate update west shadow margin chaos focus tray cargo pact";
+var mnemonic = "fog grab lawn base bicycle rain pair wedding version popular acquire body";

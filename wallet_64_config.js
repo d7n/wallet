@@ -1,1 +1,1 @@
-var mnemonic = "point clock absent shock awake tiny wish mimic square midnight flavor fatal";
+var mnemonic = "dentist bonus govern aisle scheme oblige license shiver long short multiply crawl";

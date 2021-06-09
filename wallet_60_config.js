@@ -1,1 +1,1 @@
-var mnemonic = "cost word wife cover flavor club axis various trumpet maid crack quantum";
+var mnemonic = "patch shiver journey board domain one reflect hero tail bread story borrow";

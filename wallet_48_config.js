@@ -1,1 +1,1 @@
-var mnemonic = "panda monster february portion meadow vibrant deputy antique false lawsuit secret enact";
+var mnemonic = "asthma brown close speed steel ancient odor kite egg ugly few jazz";

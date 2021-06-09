@@ -1,1 +1,1 @@
-var mnemonic = "recipe exotic mention idle silent review fashion boat guilt charge soul meat";
+var mnemonic = "beauty jazz weasel version faculty render cherry video sure rely toss treat";

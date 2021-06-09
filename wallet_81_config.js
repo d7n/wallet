@@ -1,1 +1,1 @@
-var mnemonic = "reveal narrow afraid more mirror safe people pencil outside deer drive hidden";
+var mnemonic = "dilemma trust hero embody crowd brand use october appear great combine teach";

@@ -1,1 +1,1 @@
-var mnemonic = "field meadow oak govern network lock breeze pull pattern dutch lyrics vehicle";
+var mnemonic = "office shift raven private alert random struggle garage wool antenna dignity clerk";

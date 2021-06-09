@@ -1,1 +1,1 @@
-var mnemonic = "harvest scatter eye inch green manage solid funny benefit valid miss ranch";
+var mnemonic = "segment survey still fine cheap walk turkey hotel spirit return fog frost";

@@ -1,1 +1,1 @@
-var mnemonic = "side run gather cotton drastic execute fan expand conduct expect leisure strategy";
+var mnemonic = "crime great safe rifle rude pen ball visual analyst tree night movie";

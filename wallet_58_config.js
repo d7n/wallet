@@ -1,1 +1,1 @@
-var mnemonic = "uncle good problem receive account fatigue pet orphan much page leopard hobby";
+var mnemonic = "earn gloom sustain image blast gym donkey edge conduct grunt cancel era";

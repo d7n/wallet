@@ -1,1 +1,1 @@
-var mnemonic = "strategy will sport mimic arrive under dust stamp evil decorate curve diagram";
+var mnemonic = "despair engine fine mirror earn choose merit setup box idea weasel focus";

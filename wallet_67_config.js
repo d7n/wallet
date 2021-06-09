@@ -1,1 +1,1 @@
-var mnemonic = "inherit volcano flame what remain owner holiday culture faint drive talent person";
+var mnemonic = "caught beyond van cover away tunnel ecology fashion dinner resemble option satoshi";

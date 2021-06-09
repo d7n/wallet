@@ -1,1 +1,1 @@
-var mnemonic = "nephew margin fruit nasty chair say monkey print fancy you cry south";
+var mnemonic = "upon agent census penalty stick matrix fork music scout grunt shed notice";

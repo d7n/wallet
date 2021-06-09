@@ -1,1 +1,1 @@
-var mnemonic = "trial mobile ramp unfair unable stone crater fringe oppose flame stable rule";
+var mnemonic = "crack solid fantasy crisp angry cotton swallow dad harsh rocket gallery hold";

@@ -1,1 +1,1 @@
-var mnemonic = "regret labor bulb memory waste tunnel reason catalog open glory evidence indicate";
+var mnemonic = "year exile afford side repeat illness normal police goat chat offer renew";

@@ -1,1 +1,1 @@
-var mnemonic = "subject length cause surface unfair also father pelican security silly sword embrace";
+var mnemonic = "crater elevator spend jungle spray magic flee dial unknown all special music";

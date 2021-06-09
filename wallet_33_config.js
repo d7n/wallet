@@ -1,1 +1,1 @@
-var mnemonic = "acoustic seminar sibling slab earth apart more clay face cycle identify liquid";
+var mnemonic = "potato brass inmate gift width renew reason swear beyond sail purity return";

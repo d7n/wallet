@@ -1,1 +1,1 @@
-var mnemonic = "orient bulb biology ramp laugh sweet forward clog hurt wasp capital give";
+var mnemonic = "swing grow essay width consider present sniff entry daring change plunge submit";

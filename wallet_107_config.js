@@ -1,1 +1,1 @@
-var mnemonic = "type nice consider lunar paper melody message stool enact major spice tip";
+var mnemonic = "fee intact wool drip dinosaur faculty cross face bomb end float cabin";

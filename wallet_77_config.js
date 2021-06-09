@@ -1,1 +1,1 @@
-var mnemonic = "apart expect crouch emerge shadow episode sadness carpet essence act friend inner";
+var mnemonic = "diagram churn clown federal coyote range organ attitude book bottom item cliff";

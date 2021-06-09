@@ -1,1 +1,1 @@
-var mnemonic = "fancy color curious stable anxiety salon one win ranch arch first will";
+var mnemonic = "wolf black custom december beach belt solid clean melody custom leg syrup";

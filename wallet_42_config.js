@@ -1,1 +1,1 @@
-var mnemonic = "tray audit beyond major orbit roast cable around admit mosquito space draft";
+var mnemonic = "soldier heart spawn kangaroo just impulse defy engage donor physical axis tower";
