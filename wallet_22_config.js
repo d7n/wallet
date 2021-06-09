@@ -1,1 +1,1 @@
-var mnemonic = "adult logic idea middle wonder destroy green night strong crowd wrong under";
+var mnemonic = "boy minor proof dismiss today much keen system swamp bag topple point";

@@ -1,1 +1,1 @@
-var mnemonic = "market lawsuit wing nasty more mutual debate cave almost hamster addict perfect";
+var mnemonic = "pipe gym crack obvious pink prefer bottom dawn divide choose buddy embrace";

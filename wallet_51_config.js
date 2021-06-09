@@ -1,1 +1,1 @@
-var mnemonic = "green gospel stereo brave quantum garbage feed science success medal barely aisle";
+var mnemonic = "frame toast atom obtain scan ecology echo fish ability green fossil balcony";

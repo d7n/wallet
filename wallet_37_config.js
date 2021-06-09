@@ -1,1 +1,1 @@
-var mnemonic = "bridge heavy spot stone load wise search pottery bread keen renew west";
+var mnemonic = "ritual garlic pizza daring harbor crime render observe smooth symbol canal habit";

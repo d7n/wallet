@@ -1,1 +1,1 @@
-var mnemonic = "arrow auto moon wrestle distance three upon chief pause mad sadness mom";
+var mnemonic = "owner dish meat lottery since custom still disease supreme absurd giggle fine";

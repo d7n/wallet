@@ -1,1 +1,1 @@
-var mnemonic = "debris limb churn spend remove situate jewel universe gate want desk route";
+var mnemonic = "rubber kidney balcony zero royal person armor ritual iron case language arrow";

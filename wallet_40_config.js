@@ -1,1 +1,1 @@
-var mnemonic = "wood search session road screen pilot document horror process negative assault acid";
+var mnemonic = "symbol recipe trumpet heart veteran shy picnic theory sleep cotton banner network";

@@ -1,1 +1,1 @@
-var mnemonic = "void grain volcano walnut example echo then volcano avoid upset jacket sentence";
+var mnemonic = "satisfy tag quality hint project yard slab sample blossom bitter pear alley";

@@ -1,1 +1,1 @@
-var mnemonic = "cross solar dwarf tattoo entire kidney naive author one cousin weird crash";
+var mnemonic = "hole foot little demise silk cereal tree observe bacon benefit hope fiction";

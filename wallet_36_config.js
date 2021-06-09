@@ -1,1 +1,1 @@
-var mnemonic = "size beauty turtle bachelor inside angry sausage narrow bright beyond stock work";
+var mnemonic = "urban spin gravity jaguar mass pool huge flush mechanic forget combine parade";

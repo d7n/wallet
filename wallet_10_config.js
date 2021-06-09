@@ -1,1 +1,1 @@
-var mnemonic = "viable hub glue spy oyster ostrich coin wrist daring because flash dust";
+var mnemonic = "face athlete nest extend burden rabbit engine order erode group spare game";

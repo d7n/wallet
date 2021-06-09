@@ -1,1 +1,1 @@
-var mnemonic = "tenant leisure gasp ostrich switch bicycle type dolphin wedding lens attract wisdom";
+var mnemonic = "town book shadow mouse satoshi remain jealous unfold dash portion empty drama";

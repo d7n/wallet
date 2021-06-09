@@ -1,1 +1,1 @@
-var mnemonic = "wine poem bean awake upon melt grunt valve invite receive arm right";
+var mnemonic = "neutral transfer void outside session business decrease cruise husband reflect grant subject";

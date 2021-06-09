@@ -1,1 +1,1 @@
-var mnemonic = "allow ocean opera school home glass light club elegant dove carbon dream";
+var mnemonic = "sure filter mule punch indoor certain prosper anchor laundry update era can";

@@ -1,1 +1,1 @@
-var mnemonic = "fever muscle age leg family shoe nothing drip kiss city whale camera";
+var mnemonic = "sort moon bicycle company give primary object front bench write impulse plastic";

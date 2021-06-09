@@ -1,1 +1,1 @@
-var mnemonic = "coin picture culture mother round magic chair gun time easily spider loan";
+var mnemonic = "multiply birth save tell plate shoe pass oven spot unique action siege";

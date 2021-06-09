@@ -1,1 +1,1 @@
-var mnemonic = "slim question boat doll type market attitude rookie hair boss lend sleep";
+var mnemonic = "fitness valid plastic atom nominee aim aspect cabbage yard present breeze primary";

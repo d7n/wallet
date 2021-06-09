@@ -1,1 +1,1 @@
-var mnemonic = "stable prison vocal panel banana sorry speak other cover intact elevator apple";
+var mnemonic = "kick finger elephant hat total can absurd inherit foil front guide huge";

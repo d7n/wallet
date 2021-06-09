@@ -1,1 +1,1 @@
-var mnemonic = "marine leg dose hover cannon throw surround sentence repeat wrist flip intact";
+var mnemonic = "medal cargo blood drastic core flight elder actor age tongue utility output";

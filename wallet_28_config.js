@@ -1,1 +1,1 @@
-var mnemonic = "rude eternal dish major illegal enter small spread home combine special legal";
+var mnemonic = "saddle refuse denial need fork price around cry concert peasant mix hill";

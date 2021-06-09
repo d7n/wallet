@@ -1,1 +1,1 @@
-var mnemonic = "task method cereal seek wrap credit chest merit evolve purity door first";
+var mnemonic = "syrup cherry science fatal visa abuse help coffee candy adapt topple equip";

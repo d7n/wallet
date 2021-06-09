@@ -1,1 +1,1 @@
-var mnemonic = "smoke author magnet side symbol wedding example this hero post cross situate";
+var mnemonic = "eagle valve link motor spin illegal clarify domain solar reopen swing lazy";

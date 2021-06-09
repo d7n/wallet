@@ -1,1 +1,1 @@
-var mnemonic = "ordinary isolate library help arrange loyal spirit upon mimic alpha crane post";
+var mnemonic = "purse gossip traffic label maximum amused wink deputy language struggle destroy right";

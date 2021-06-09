@@ -1,1 +1,1 @@
-var mnemonic = "major chicken resource aerobic run almost correct correct shadow interest autumn total";
+var mnemonic = "cash lonely orient forward body sun park egg end able surface bubble";

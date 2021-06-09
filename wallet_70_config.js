@@ -1,1 +1,1 @@
-var mnemonic = "citizen tragic net census claw brown case day pill meadow medal wonder";
+var mnemonic = "scale wall strong brush hen year license heavy olive swamp village sort";

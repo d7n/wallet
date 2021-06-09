@@ -1,1 +1,1 @@
-var mnemonic = "coral flat dragon inspire tray price bean diary install forest stage legend";
+var mnemonic = "inherit arch razor vacant congress duty section once brush flag husband tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "tube hood joy peasant cube scrub guitar gallery dry sign business melt";
+var mnemonic = "tunnel cube local diagram symptom addict island answer prosper wide life soup";

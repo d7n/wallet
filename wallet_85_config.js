@@ -1,1 +1,1 @@
-var mnemonic = "venue charge breeze become guard kingdom arrest typical space nephew torch worry";
+var mnemonic = "luxury little illegal provide cloth return mandate panic shield cradle grab garment";

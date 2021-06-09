@@ -1,1 +1,1 @@
-var mnemonic = "inquiry pact enlist group kid split obvious spoon winter conduct cloth outside";
+var mnemonic = "animal shove fury deer era gadget umbrella horn acid truth employ danger";

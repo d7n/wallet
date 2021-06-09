@@ -1,1 +1,1 @@
-var mnemonic = "trash into cloud first knife grocery miss above spend adult junior reunion";
+var mnemonic = "suggest sign keen oblige session leopard song increase across dawn grow olive";

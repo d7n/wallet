@@ -1,1 +1,1 @@
-var mnemonic = "escape gasp caution assault essence salmon such exotic nurse topple dilemma stay";
+var mnemonic = "aim foam wet scale turkey silent scout quit avocado slice horse egg";

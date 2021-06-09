@@ -1,1 +1,1 @@
-var mnemonic = "law gesture april few minimum orient reject rack broken scheme deputy gauge";
+var mnemonic = "net rose always burger rail elevator acoustic trade picture long unhappy taste";

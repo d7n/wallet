@@ -1,1 +1,1 @@
-var mnemonic = "odor emerge item smooth swift off zone funny wave ice play elevator";
+var mnemonic = "oil crouch laptop sign unhappy hold carbon few profit real scout cherry";

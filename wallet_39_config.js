@@ -1,1 +1,1 @@
-var mnemonic = "legal crazy stem eager disease fan friend normal exchange image funny supply";
+var mnemonic = "century verb pupil movie donkey actress chase have addict lava trend awake";

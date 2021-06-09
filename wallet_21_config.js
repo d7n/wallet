@@ -1,1 +1,1 @@
-var mnemonic = "before bench skin course virus tube royal enhance wrestle rather dune victory";
+var mnemonic = "rapid ocean blue segment chunk feature gain toast grass birth tomato cherry";

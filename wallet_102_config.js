@@ -1,1 +1,1 @@
-var mnemonic = "patient wet relief soon bag hurdle powder fetch cave scrap cable air";
+var mnemonic = "gaze rate fiber device thumb cushion dust put sport obscure taxi pear";

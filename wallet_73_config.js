@@ -1,1 +1,1 @@
-var mnemonic = "ecology excite flip dream level bullet figure reform glow poverty morning cycle";
+var mnemonic = "alpha subject arrest castle present syrup expand laptop wrong enough coach hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "measure agent retire crawl resist charge produce they smile juice dry found";
+var mnemonic = "primary put student verb transfer siege maximum corn tag much kingdom frown";

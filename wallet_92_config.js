@@ -1,1 +1,1 @@
-var mnemonic = "finish elevator mutual wrestle poet same anxiety trim ensure village two huge";
+var mnemonic = "clinic popular trip various motor chief culture vault vacuum stem beauty more";

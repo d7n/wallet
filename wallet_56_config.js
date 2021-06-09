@@ -1,1 +1,1 @@
-var mnemonic = "delay wise elbow jump evolve defense close option ghost coast away unaware";
+var mnemonic = "practice crumble initial unhappy maple asset find soft wise nation goddess oxygen";

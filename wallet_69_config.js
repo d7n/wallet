@@ -1,1 +1,1 @@
-var mnemonic = "spray mouse stadium adjust pill teach hover smooth behind crash arch zero";
+var mnemonic = "card retreat scorpion say excess cart work phrase seat diamond delay pass";

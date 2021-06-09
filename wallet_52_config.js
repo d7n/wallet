@@ -1,1 +1,1 @@
-var mnemonic = "adult august tell claim legal opera sugar feel hope ceiling chimney garage";
+var mnemonic = "initial bless lamp marriage cook net leopard annual slush daring object cook";

@@ -1,1 +1,1 @@
-var mnemonic = "gain demand mind bronze escape destroy picture sign always story brass town";
+var mnemonic = "news album taxi inner police canal fluid legal profit filter jacket charge";

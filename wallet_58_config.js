@@ -1,1 +1,1 @@
-var mnemonic = "weird pull same annual struggle slush unknown purchase solar abstract degree feature";
+var mnemonic = "scheme parent fantasy save sibling pipe confirm chat middle over develop planet";

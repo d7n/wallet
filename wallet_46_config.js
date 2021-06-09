@@ -1,1 +1,1 @@
-var mnemonic = "duck ordinary taste rude favorite rich mammal number renew square topple check";
+var mnemonic = "people brass about digital easily army supply angry divide sorry legend huge";

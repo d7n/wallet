@@ -1,1 +1,1 @@
-var mnemonic = "later holiday bridge wool card warfare enlist worry opera depth honey crucial";
+var mnemonic = "height employ culture suffer lake decrease borrow thunder easy mother eagle type";

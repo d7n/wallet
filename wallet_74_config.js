@@ -1,1 +1,1 @@
-var mnemonic = "tool long urban sad purity neutral stadium slender bag permit welcome dry";
+var mnemonic = "vast toilet onion helmet erosion toward popular stool clean lab unaware there";

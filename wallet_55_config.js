@@ -1,1 +1,1 @@
-var mnemonic = "program engine lamp zoo priority smooth tool wheel mandate chef shed park";
+var mnemonic = "thunder high acoustic quick mimic holiday kidney direct roof amused lobster spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare sadness narrow traffic strong control canoe infant panic poet cube tide";
+var mnemonic = "van sponsor faint crucial main decorate symbol find edge small destroy trophy";

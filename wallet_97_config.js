@@ -1,1 +1,1 @@
-var mnemonic = "tattoo sugar price cup camp debris jump hundred hat permit point inmate";
+var mnemonic = "keen tragic pistol little rule have release merge avocado silly tuition artwork";

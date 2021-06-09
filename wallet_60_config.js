@@ -1,1 +1,1 @@
-var mnemonic = "wealth cake wood shaft photo lizard grunt thrive guess damp supply miss";
+var mnemonic = "eternal rough recall grunt praise vicious acoustic negative burst among start original";

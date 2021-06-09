@@ -1,1 +1,1 @@
-var mnemonic = "cricket addict patrol snack pottery mobile arrive useful hire ability thing glad";
+var mnemonic = "junk evidence addict inject find addict tilt survey random cross census anxiety";

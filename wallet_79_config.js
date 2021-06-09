@@ -1,1 +1,1 @@
-var mnemonic = "blade kiwi next mass action fog panther despair confirm trade rocket place";
+var mnemonic = "attitude oven around ten reduce hybrid question eyebrow reason damp liar slim";

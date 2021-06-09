@@ -1,1 +1,1 @@
-var mnemonic = "define syrup joy end panel luggage seek craft favorite napkin river silly";
+var mnemonic = "wool strong impose cook glad kangaroo carbon flavor deal lucky unfold hockey";

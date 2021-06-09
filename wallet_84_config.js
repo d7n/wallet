@@ -1,1 +1,1 @@
-var mnemonic = "roast bubble cheese powder describe domain walnut farm wagon cute basic risk";
+var mnemonic = "young thank meadow market bracket ignore action parrot before force silent tuna";

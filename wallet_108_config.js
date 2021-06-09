@@ -1,1 +1,1 @@
-var mnemonic = "around ball noodle pen easy wool tide bright they lawsuit where hotel";
+var mnemonic = "baby always vivid garbage clerk disease satisfy win title act gather cool";

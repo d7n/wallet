@@ -1,1 +1,1 @@
-var mnemonic = "inquiry act life tunnel valley rabbit shoe book language service embrace spatial";
+var mnemonic = "patient large give tide leopard wear pitch cousin pride kidney uniform hazard";

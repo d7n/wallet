@@ -1,1 +1,1 @@
-var mnemonic = "foam leopard memory patient dune tray addict enlist waste mercy sudden common";
+var mnemonic = "pet tuna uncover wash bless ensure diet perfect right detect violin video";

@@ -1,1 +1,1 @@
-var mnemonic = "limb town roast drift people craft shrimp window whale duck unfold ranch";
+var mnemonic = "topic remove weasel hip injury scout praise false bridge fee orchard dinosaur";

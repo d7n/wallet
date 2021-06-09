@@ -1,1 +1,1 @@
-var mnemonic = "twist illegal warfare ice cash will patrol mad merit small stable eyebrow";
+var mnemonic = "fee elephant acid road security net oven bundle elite win build argue";

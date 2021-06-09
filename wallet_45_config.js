@@ -1,1 +1,1 @@
-var mnemonic = "glimpse give travel frequent virus fire grid boy repeat section issue cruise";
+var mnemonic = "mushroom term hen all occur before entire object surround author armed copy";

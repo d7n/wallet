@@ -1,1 +1,1 @@
-var mnemonic = "actress stereo detect govern vocal perfect text exact game warrior sausage law";
+var mnemonic = "burst cheese brass hold magic wife bonus force stereo guard rebel wide";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli fence gravity poem they bamboo direct pluck timber arrow quarter island";
+var mnemonic = "into nephew expand cabin betray smoke service write dentist poet hurdle crater";

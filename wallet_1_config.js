@@ -1,1 +1,1 @@
-var mnemonic = "random broccoli antenna opinion category pet episode plunge injury load task leisure";
+var mnemonic = "ranch wedding math consider foil cheese rotate sock neither gaze finish debris";

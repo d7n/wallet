@@ -1,1 +1,1 @@
-var mnemonic = "control upon gallery mouse east brand movie oven exclude only assist demand";
+var mnemonic = "garden angry middle laundry copy demand army slogan wealth melt visit laundry";

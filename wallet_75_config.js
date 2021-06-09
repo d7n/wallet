@@ -1,1 +1,1 @@
-var mnemonic = "such royal open nation craft indicate afraid melody quality disagree purity eager";
+var mnemonic = "fatal allow pistol search talent bacon emotion stuff drum leave chicken benefit";

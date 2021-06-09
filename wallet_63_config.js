@@ -1,1 +1,1 @@
-var mnemonic = "annual harbor arctic spirit version fitness pet spy night green ask stock";
+var mnemonic = "steel announce patch rich lunch air truth evolve remember scissors hidden salon";

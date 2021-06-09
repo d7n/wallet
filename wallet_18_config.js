@@ -1,1 +1,1 @@
-var mnemonic = "carbon barrel relief abuse salon lens cube dry topple park near all";
+var mnemonic = "hole habit chest winter loyal royal seminar tip twin green faculty abstract";

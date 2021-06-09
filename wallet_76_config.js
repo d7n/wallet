@@ -1,1 +1,1 @@
-var mnemonic = "magnet game nation audit mobile ability idea agree conduct charge hungry notable";
+var mnemonic = "arctic object century dog giraffe clip prison focus matter puzzle swim latin";

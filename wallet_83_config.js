@@ -1,1 +1,1 @@
-var mnemonic = "omit define account dawn beach category trade drastic stand echo science erode";
+var mnemonic = "rug decrease stadium boil seek weasel close oppose animal beef scan position";

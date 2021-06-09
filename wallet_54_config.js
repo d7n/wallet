@@ -1,1 +1,1 @@
-var mnemonic = "hip decorate exact spring hub vanish deer sad yard people wine uncle";
+var mnemonic = "useless faculty guide bus recipe grocery result prevent close midnight adapt cup";

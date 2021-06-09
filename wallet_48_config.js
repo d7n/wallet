@@ -1,1 +1,1 @@
-var mnemonic = "casino feed guitar giggle mimic craft coconut cousin assume chronic thrive worry";
+var mnemonic = "endorse brother beauty pitch absent never vivid prize bundle coffee plug rug";

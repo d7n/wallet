@@ -1,1 +1,1 @@
-var mnemonic = "boost dwarf oil squeeze worry cross tape fade pistol mirror social desert";
+var mnemonic = "lesson wing health supply tell enough tell dwarf board during lend essence";

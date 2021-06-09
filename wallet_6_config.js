@@ -1,1 +1,1 @@
-var mnemonic = "fame uniform rebel slam mixed episode cabbage gallery sorry traffic rate pulse";
+var mnemonic = "please cross foam near unit grant ribbon hazard day grant horn employ";

@@ -1,1 +1,1 @@
-var mnemonic = "myth input senior inform setup spring demise course bottom success forward soft";
+var mnemonic = "world music draft display reduce biology police cabbage always shock ensure destroy";

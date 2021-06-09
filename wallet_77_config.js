@@ -1,1 +1,1 @@
-var mnemonic = "bamboo ability seek year merge vacant east night below picnic priority dinner";
+var mnemonic = "crystal taste brass obvious digital reason crane nose march episode coconut increase";

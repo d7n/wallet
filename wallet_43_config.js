@@ -1,1 +1,1 @@
-var mnemonic = "crowd tongue blanket inquiry agent virus hunt include tone defy ridge ahead";
+var mnemonic = "then return recipe circle ancient stick butter wage equip leave bunker derive";

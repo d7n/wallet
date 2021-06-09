@@ -1,1 +1,1 @@
-var mnemonic = "salmon hybrid front cluster foil reveal joke patch save media layer distance";
+var mnemonic = "used above vicious impose dinner zebra match answer pitch aim romance nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha attack post ship web mass code collect summer regret doctor cool";
+var mnemonic = "spirit soap mammal enlist message board purse frost elevator mushroom whisper dune";

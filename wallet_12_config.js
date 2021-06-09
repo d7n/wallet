@@ -1,1 +1,1 @@
-var mnemonic = "trash brush anger picnic train state depth snack sing galaxy voice sing";
+var mnemonic = "layer example human flush host giant diagram onion stamp number delay stairs";

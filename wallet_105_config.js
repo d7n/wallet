@@ -1,1 +1,1 @@
-var mnemonic = "alcohol danger captain puppy guess satoshi dignity hunt poet injury vessel brisk";
+var mnemonic = "spend sponsor verb filter hospital pen crop add jaguar laugh bind glass";

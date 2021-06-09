@@ -1,1 +1,1 @@
-var mnemonic = "bring radio appear eight wrap cheese term burger monitor umbrella matrix clump";
+var mnemonic = "rose entire ring snack account husband suspect method six daughter absurd employ";

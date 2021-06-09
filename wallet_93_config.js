@@ -1,1 +1,1 @@
-var mnemonic = "film dice gown card story rent hard actual tattoo session gorilla place";
+var mnemonic = "valid parrot ill random thing fog enter boy nation install accuse roast";

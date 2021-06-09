@@ -1,1 +1,1 @@
-var mnemonic = "bitter social divert ketchup digital album skin husband essence forget green mango";
+var mnemonic = "panic unknown cage canoe ceiling blur notice door into blouse talent evolve";

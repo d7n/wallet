@@ -1,1 +1,1 @@
-var mnemonic = "year indicate believe elevator target miss tail way social decide outdoor caution";
+var mnemonic = "island message fame olive impose city indicate video worry above sudden solid";

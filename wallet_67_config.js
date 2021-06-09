@@ -1,1 +1,1 @@
-var mnemonic = "enrich weapon avoid crawl table avocado sight disorder any level beef yellow";
+var mnemonic = "hope enact parent sick dress flame advance weird belt stay bottom jealous";

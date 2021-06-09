@@ -1,1 +1,1 @@
-var mnemonic = "magic choose method arch common grape snap captain dumb cabbage blade demand";
+var mnemonic = "almost captain render winner lumber right renew stem chunk cry mind stand";

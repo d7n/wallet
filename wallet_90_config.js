@@ -1,1 +1,1 @@
-var mnemonic = "tourist reward mechanic dentist master inquiry you final program guard payment crush";
+var mnemonic = "anger expect exile enable dirt point shy robot arena rural decade infant";

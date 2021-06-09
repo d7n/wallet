@@ -1,1 +1,1 @@
-var mnemonic = "maid movie mind angry exchange habit scene stock camera smart whip sock";
+var mnemonic = "crowd hurry test shuffle tail quick frog right tilt lift harbor machine";

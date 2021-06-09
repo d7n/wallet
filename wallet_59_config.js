@@ -1,1 +1,1 @@
-var mnemonic = "penalty adjust employ such unique beach fantasy kind urban explain angle blur";
+var mnemonic = "whale real salt flavor hawk script scheme obvious evoke regular skill intact";

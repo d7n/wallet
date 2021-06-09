@@ -1,1 +1,1 @@
-var mnemonic = "foil moon mystery pulp topic couple trim opera ahead dumb envelope confirm";
+var mnemonic = "elder abuse flat misery slogan pet fruit race inform pact escape depart";

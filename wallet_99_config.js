@@ -1,1 +1,1 @@
-var mnemonic = "blur print focus wall dish bicycle crime cheap violin rib fossil air";
+var mnemonic = "choose force early couple chimney awkward drop lava inject inherit coach sleep";
