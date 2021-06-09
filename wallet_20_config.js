@@ -1,1 +1,1 @@
-var mnemonic = "slot hundred solid already logic drink notable cupboard describe daughter mouse blast";
+var mnemonic = "imitate bronze tray cost tattoo decide rain spread series grocery bind tenant";

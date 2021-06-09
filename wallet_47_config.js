@@ -1,1 +1,1 @@
-var mnemonic = "forest life beach legal black mirror sweet erase gym volume hamster assume";
+var mnemonic = "quit latin boss wasp mixed nose nice brand assist oxygen enroll obey";

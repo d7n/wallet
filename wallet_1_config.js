@@ -1,1 +1,1 @@
-var mnemonic = "valve coil spice lake charge tunnel stereo biology share maid hockey cube";
+var mnemonic = "scare apart kind puppy pear salmon bounce grant damp multiply stamp umbrella";

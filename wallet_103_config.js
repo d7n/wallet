@@ -1,1 +1,1 @@
-var mnemonic = "response marble laptop donate phrase wide lawsuit cheap asset fringe nature jaguar";
+var mnemonic = "either puppy mountain early ripple execute bunker duck team domain lamp buddy";

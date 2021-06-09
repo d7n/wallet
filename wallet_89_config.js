@@ -1,1 +1,1 @@
-var mnemonic = "grunt organ hockey supreme rescue destroy tail word notice crumble math clog";
+var mnemonic = "skate hurry gadget gold panda staff wish female develop goose load morning";

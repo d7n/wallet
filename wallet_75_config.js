@@ -1,1 +1,1 @@
-var mnemonic = "fatal man dream frost push cushion upon video frost page shrimp still";
+var mnemonic = "quality organ crucial vicious ugly ostrich dad mimic stone bulb reject alarm";

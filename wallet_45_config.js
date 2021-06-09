@@ -1,1 +1,1 @@
-var mnemonic = "silly style armor beef neutral inside forest kick dignity puzzle boring rent";
+var mnemonic = "habit carbon soda grocery enhance bargain volcano fault sponsor flight voyage interest";

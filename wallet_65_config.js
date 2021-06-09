@@ -1,1 +1,1 @@
-var mnemonic = "bean vote dolphin usual hurt duck scheme candy column legend sunset morning";
+var mnemonic = "faculty present movie depart retreat slogan vacuum potato bleak retreat coast section";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf appear suggest again walk lift glow august frozen tornado provide seven";
+var mnemonic = "arena leisure act project output dolphin spot sunset web agent win school";

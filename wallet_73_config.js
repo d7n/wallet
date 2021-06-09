@@ -1,1 +1,1 @@
-var mnemonic = "rookie poem exact solar blast crowd join disease sudden have mixture city";
+var mnemonic = "advance vintage spike again pizza aware brisk hover warfare grace trumpet conduct";

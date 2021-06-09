@@ -1,1 +1,1 @@
-var mnemonic = "shell visit clump spice impact favorite host capital public repair beauty language";
+var mnemonic = "primary control where crowd raise despair resemble amount luggage room venture video";

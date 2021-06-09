@@ -1,1 +1,1 @@
-var mnemonic = "ghost lunar thumb lizard exit budget govern anxiety bundle ordinary draw during";
+var mnemonic = "above antenna coffee genius hidden emotion explain canoe local sniff combine plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster wrestle fever switch chuckle arm birth veteran fury believe portion alien";
+var mnemonic = "skull avocado admit another frame whale fault mandate embrace achieve rocket awful";

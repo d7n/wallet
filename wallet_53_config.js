@@ -1,1 +1,1 @@
-var mnemonic = "ability snake garment top boring flock adapt length now remind swift cross";
+var mnemonic = "ritual marriage over wisdom inherit like evidence video route peasant filter liberty";

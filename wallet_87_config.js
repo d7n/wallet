@@ -1,1 +1,1 @@
-var mnemonic = "turn famous matter great hope sibling vote foam ability want frozen reduce";
+var mnemonic = "couple rent stage taste write glide spell method fire slide fat easy";

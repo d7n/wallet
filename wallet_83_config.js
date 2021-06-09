@@ -1,1 +1,1 @@
-var mnemonic = "weird accuse rent pigeon absent bread can seven barely arm until lemon";
+var mnemonic = "radio spread move enlist venue whale sword walk shoot sudden silk hotel";

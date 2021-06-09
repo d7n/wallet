@@ -1,1 +1,1 @@
-var mnemonic = "upon prison figure hamster sweet master vital result lake blush magnet local";
+var mnemonic = "mobile already fatigue area bean umbrella flock artist also holiday impact way";

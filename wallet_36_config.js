@@ -1,1 +1,1 @@
-var mnemonic = "until patch crack click father frog region hurdle verb million original wear";
+var mnemonic = "fire witness before evil dignity sketch comic brief rate banana mandate speed";

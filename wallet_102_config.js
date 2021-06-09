@@ -1,1 +1,1 @@
-var mnemonic = "black trumpet review clever capable fix utility engage force manage when move";
+var mnemonic = "owner scheme next globe test physical wash fee coin success turkey grain";

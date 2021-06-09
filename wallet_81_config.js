@@ -1,1 +1,1 @@
-var mnemonic = "crater enrich use mango cigar wrong jazz animal client young piece spin";
+var mnemonic = "visual bacon middle atom fatigue betray cabin include grace double journey enact";

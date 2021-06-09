@@ -1,1 +1,1 @@
-var mnemonic = "hammer innocent hole case author girl craft hole will skull library tuna";
+var mnemonic = "into beauty foil note pole crumble whip fix session whisper arrange cram";

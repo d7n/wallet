@@ -1,1 +1,1 @@
-var mnemonic = "skirt mandate weasel weather shoot upon exchange certain ready catalog human armed";
+var mnemonic = "venue salon across equal orchard peace toss mercy humor trend ribbon biology";

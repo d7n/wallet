@@ -1,1 +1,1 @@
-var mnemonic = "alone battle foster tomorrow world doctor arrange item balcony divorce style benefit";
+var mnemonic = "area excess segment runway erase laundry erosion toast drill harsh win biology";

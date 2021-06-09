@@ -1,1 +1,1 @@
-var mnemonic = "change rich curtain various roof plug shuffle leg run hospital forward kind";
+var mnemonic = "addict village corn among faculty account tenant help borrow very exchange nothing";

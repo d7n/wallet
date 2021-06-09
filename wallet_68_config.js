@@ -1,1 +1,1 @@
-var mnemonic = "autumn solve safe civil twice zero extend clap pretty hover object goose";
+var mnemonic = "diagram horror drift fuel moon because elegant napkin purity decrease arena chef";

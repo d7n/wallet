@@ -1,1 +1,1 @@
-var mnemonic = "mirror excuse virtual split laptop large learn exchange dignity blade resist into";
+var mnemonic = "bird clump salmon pulse drill since tent crouch toast attitude season canal";

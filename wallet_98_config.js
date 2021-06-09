@@ -1,1 +1,1 @@
-var mnemonic = "man test shield sock coil arena web route board sleep cupboard disagree";
+var mnemonic = "glory banana ancient direct woman voyage hope verify object brown capital reveal";

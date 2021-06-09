@@ -1,1 +1,1 @@
-var mnemonic = "help weekend mercy scorpion pass captain drive spare sweet goat artefact rabbit";
+var mnemonic = "swear quit fatal adapt demand aim slender neutral miracle nurse harsh strong";

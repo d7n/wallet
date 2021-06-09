@@ -1,1 +1,1 @@
-var mnemonic = "common frog lava dizzy gym disease hood excite argue sphere produce deputy";
+var mnemonic = "ribbon hair engine baby cluster common stereo nasty ankle course ahead vintage";

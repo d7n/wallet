@@ -1,1 +1,1 @@
-var mnemonic = "border loyal champion frown step lonely camera misery accuse clap ring pull";
+var mnemonic = "february code tower payment once crop kiwi deny penalty basic huge appear";

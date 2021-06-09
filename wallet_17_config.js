@@ -1,1 +1,1 @@
-var mnemonic = "baby borrow civil swarm reject reveal announce second act tilt educate merit";
+var mnemonic = "dolphin clarify cool robot crawl venue sausage soft seminar snap purpose dumb";

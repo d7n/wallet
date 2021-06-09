@@ -1,1 +1,1 @@
-var mnemonic = "neutral three betray language high nation intact cute discover domain reason curious";
+var mnemonic = "core enforce pulp truly profit clever drill fault tuna beauty bundle fluid";

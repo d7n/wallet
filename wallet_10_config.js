@@ -1,1 +1,1 @@
-var mnemonic = "brain assist buyer weekend paddle teach dynamic erode original track prosper gloom";
+var mnemonic = "public legend object evoke transfer symptom attack section clutch they system whale";

@@ -1,1 +1,1 @@
-var mnemonic = "place another voice betray silent volume mushroom annual fee summer diesel cave";
+var mnemonic = "genre debris simple nice basket canvas jazz trial final field mad ask";

@@ -1,1 +1,1 @@
-var mnemonic = "boil sleep chronic element still stereo axis anchor fade license bubble alarm";
+var mnemonic = "tribe basket guide doll host genuine power six run barrel water tube";

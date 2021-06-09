@@ -1,1 +1,1 @@
-var mnemonic = "asthma amazing hurry orient unlock neutral cream airport copper course trend embrace";
+var mnemonic = "mandate talk possible provide answer health liar butter clarify brass city liar";

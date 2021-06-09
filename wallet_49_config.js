@@ -1,1 +1,1 @@
-var mnemonic = "upper symbol fresh nose purse festival all bird universe flavor bar vapor";
+var mnemonic = "carpet cook dog orchard wage oblige neither bullet average cable gold spatial";

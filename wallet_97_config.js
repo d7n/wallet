@@ -1,1 +1,1 @@
-var mnemonic = "budget clean absorb gain nut one crowd piano venture ask culture hospital";
+var mnemonic = "spoon antenna spring shield scorpion copy avoid history luxury slim minor flush";

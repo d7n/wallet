@@ -1,1 +1,1 @@
-var mnemonic = "employ version warm cushion response mushroom thrive reject husband affair current invest";
+var mnemonic = "soon library egg trade glass hub net bring hawk casual office defy";

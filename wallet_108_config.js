@@ -1,1 +1,1 @@
-var mnemonic = "fame crash expose letter body traffic monster survey morning surge clinic amount";
+var mnemonic = "clerk load human eight various hollow smooth pistol legend submit soda spawn";

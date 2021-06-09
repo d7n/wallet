@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow lake column collect material person tortoise crouch increase myth curtain chimney";
+var mnemonic = "appear rate car airport demand fetch tennis world drift wear language head";

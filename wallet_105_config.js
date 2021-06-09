@@ -1,1 +1,1 @@
-var mnemonic = "list dragon cargo machine this phone width gas soon divide push duty";
+var mnemonic = "donkey next over submit surface dust shoulder post tornado mean fabric oblige";

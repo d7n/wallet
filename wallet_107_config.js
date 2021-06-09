@@ -1,1 +1,1 @@
-var mnemonic = "slab submit aim always call hen mixed latin pudding course elevator suspect";
+var mnemonic = "valley cannon actual fee fatigue cable pull utility novel just neck faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "question gospel uniform render edit comic yard wise force valid tiny divert";
+var mnemonic = "rent venture perfect add thrive seven dry diesel smile false radio later";

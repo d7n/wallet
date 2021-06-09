@@ -1,1 +1,1 @@
-var mnemonic = "maid elegant satoshi repeat iron square napkin bundle lounge garage dose stock";
+var mnemonic = "enemy trouble lazy story dismiss hundred struggle rug extend foam real shaft";

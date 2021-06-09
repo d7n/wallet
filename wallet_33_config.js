@@ -1,1 +1,1 @@
-var mnemonic = "together weekend green cruel fly lumber damp marine this elegant nest riot";
+var mnemonic = "tube easy kind clump ability blade approve glory energy barrel surge palm";

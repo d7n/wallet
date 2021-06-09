@@ -1,1 +1,1 @@
-var mnemonic = "mixture unknown style harbor shift sure wisdom skate world cloud door crystal";
+var mnemonic = "cloth multiply simple flat drama lottery spatial skill rail believe oven visa";

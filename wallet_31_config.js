@@ -1,1 +1,1 @@
-var mnemonic = "bicycle man cross carpet enlist despair net useful habit crazy laptop know";
+var mnemonic = "express easy reveal recycle solar riot cable impose proof sight ginger already";

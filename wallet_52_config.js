@@ -1,1 +1,1 @@
-var mnemonic = "few awesome pipe heavy betray ill village picnic collect comfort crew vessel";
+var mnemonic = "depth viable edit divide spread announce end buzz cradle spirit list sock";

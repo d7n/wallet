@@ -1,1 +1,1 @@
-var mnemonic = "update wing culture speak nephew deny rather drill type pretty portion lawsuit";
+var mnemonic = "dry office impact abuse pulse ability bar earth crunch divert wage outside";

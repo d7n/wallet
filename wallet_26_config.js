@@ -1,1 +1,1 @@
-var mnemonic = "pig maid fat pencil effort local sail rib own race common plug";
+var mnemonic = "banner game cancel have sleep sentence sudden derive drive mail hurt coach";

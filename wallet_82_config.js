@@ -1,1 +1,1 @@
-var mnemonic = "cigar dose stamp flat goddess laugh scout trust nature animal carpet pull";
+var mnemonic = "unknown remind velvet accident wrap globe useful excuse dolphin crack thumb brief";

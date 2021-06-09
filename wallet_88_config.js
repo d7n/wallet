@@ -1,1 +1,1 @@
-var mnemonic = "garden dismiss decorate doctor grab carry resource goddess leave vague zone steel";
+var mnemonic = "glow cup tooth oppose tennis post stereo era energy catalog vast nation";

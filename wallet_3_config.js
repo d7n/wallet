@@ -1,1 +1,1 @@
-var mnemonic = "silk alter theme tissue will vicious vivid rebuild pride mimic prefer news";
+var mnemonic = "lounge stable alley bridge govern board finger little rocket bounce cancel kangaroo";

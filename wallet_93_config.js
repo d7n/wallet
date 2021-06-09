@@ -1,1 +1,1 @@
-var mnemonic = "pave parent focus tube wing modify sausage rotate praise affair educate cousin";
+var mnemonic = "empty vivid supreme grunt bullet radar update result grain topic magnet uncle";

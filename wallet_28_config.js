@@ -1,1 +1,1 @@
-var mnemonic = "drill volume lemon furnace style decade slot wish elite install ugly curtain";
+var mnemonic = "nation situate point aunt patient mammal soap shuffle planet series uncle post";

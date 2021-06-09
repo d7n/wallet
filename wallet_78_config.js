@@ -1,1 +1,1 @@
-var mnemonic = "tunnel jeans scale rough draft dose yard wood guilt method merge silly";
+var mnemonic = "sibling once alone whisper help clarify expect barrel sibling lonely fall fatal";

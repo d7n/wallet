@@ -1,1 +1,1 @@
-var mnemonic = "legal pumpkin hero toe urge shed grace erase trip follow toy space";
+var mnemonic = "border hen yellow cash wash media outdoor hole audit vibrant action rain";

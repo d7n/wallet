@@ -1,1 +1,1 @@
-var mnemonic = "you art use poet truly vocal boring loyal spell betray brief photo";
+var mnemonic = "boring join another caution child alert unique special bean dream calm pull";

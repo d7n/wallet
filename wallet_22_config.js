@@ -1,1 +1,1 @@
-var mnemonic = "that infant sauce cabbage sample toddler bread turkey drum end release any";
+var mnemonic = "peace pumpkin hire luxury noble code bread connect shift guide idea pear";

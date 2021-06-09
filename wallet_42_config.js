@@ -1,1 +1,1 @@
-var mnemonic = "confirm airport talk fit mammal effort demise puzzle resist plug dolphin scout";
+var mnemonic = "payment enlist process state home kick upon shrug hair elite season toss";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud relax uncover casual toddler brass return off depart buffalo fashion thumb";
+var mnemonic = "recipe quote foot owner click bind infant mail direct permit curious nature";

@@ -1,1 +1,1 @@
-var mnemonic = "august elegant pen vicious famous aware protect fault stairs world virus alter";
+var mnemonic = "small cave poet demise erupt song cargo library thrive suffer valley donor";

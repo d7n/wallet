@@ -1,1 +1,1 @@
-var mnemonic = "where lumber frost river chief steel welcome pledge gasp cause inch manage";
+var mnemonic = "cruel junior upgrade fancy bounce dizzy become alien tuna various forum will";

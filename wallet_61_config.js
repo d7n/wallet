@@ -1,1 +1,1 @@
-var mnemonic = "disease immune flush inflict soccer guess off estate forget lion involve kite";
+var mnemonic = "electric arrange reunion sniff maid pumpkin canyon gather grit fire climb matrix";

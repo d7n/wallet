@@ -1,1 +1,1 @@
-var mnemonic = "cry subway tomorrow market history laundry prefer autumn dignity kit flock family";
+var mnemonic = "device range lottery credit frequent speed excuse web will woman surge letter";

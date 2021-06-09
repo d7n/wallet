@@ -1,1 +1,1 @@
-var mnemonic = "seven settle desk require drama silly often search cinnamon vocal steak robust";
+var mnemonic = "game sea coach curve attract vacuum tower eyebrow day genre approve fitness";

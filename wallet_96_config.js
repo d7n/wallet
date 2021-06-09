@@ -1,1 +1,1 @@
-var mnemonic = "core future elevator essence stumble jump home gasp code wrestle window announce";
+var mnemonic = "reject enter potato toss best sphere merry taste harsh industry afraid vibrant";

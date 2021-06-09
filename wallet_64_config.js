@@ -1,1 +1,1 @@
-var mnemonic = "giraffe rail purity clarify acid output merit artist seed now web embark";
+var mnemonic = "girl near upper smart scheme awkward ready census autumn sing fortune roast";

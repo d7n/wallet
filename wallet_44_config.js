@@ -1,1 +1,1 @@
-var mnemonic = "certain egg grape radio renew senior cargo real install prepare fog bounce";
+var mnemonic = "carpet speak one empty raw public traffic address medal better fork eager";

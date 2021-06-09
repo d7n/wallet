@@ -1,1 +1,1 @@
-var mnemonic = "machine outer major gym total amount educate core liberty dawn observe work";
+var mnemonic = "illness fresh hunt remind prison dolphin piano argue finger shock high photo";

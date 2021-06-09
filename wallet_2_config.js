@@ -1,1 +1,1 @@
-var mnemonic = "ordinary notice ordinary hello tattoo taxi trumpet bread plastic six daughter apple";
+var mnemonic = "visual soccer broom roast explain pet purity oval ghost also edge raw";

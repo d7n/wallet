@@ -1,1 +1,1 @@
-var mnemonic = "captain easy mutual buzz raven slow knee noble spice love junk dumb";
+var mnemonic = "attack limb pride arrange type depend arm violin filter sauce tennis simple";

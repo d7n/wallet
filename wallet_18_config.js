@@ -1,1 +1,1 @@
-var mnemonic = "roast crater tourist anxiety success elevator lucky shiver payment orient barrel cram";
+var mnemonic = "result inherit express apple dinosaur able initial animal cricket sauce assist foster";

@@ -1,1 +1,1 @@
-var mnemonic = "crane salute tortoise spin keep onion avoid will craft legal output resist";
+var mnemonic = "cushion candy thunder portion fancy trim embrace system ladder say comfort metal";

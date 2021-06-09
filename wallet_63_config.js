@@ -1,1 +1,1 @@
-var mnemonic = "slow course park walnut devote fabric galaxy sustain poet token lend local";
+var mnemonic = "wealth orange fiscal sunny cliff chaos sunset crumble country crash fat fragile";

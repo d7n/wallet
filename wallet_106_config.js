@@ -1,1 +1,1 @@
-var mnemonic = "teach chronic brain verb try extend column soup multiply excite sustain private";
+var mnemonic = "three swarm quality leader must excite harsh mystery ridge total evoke fluid";

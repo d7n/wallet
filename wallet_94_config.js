@@ -1,1 +1,1 @@
-var mnemonic = "then ketchup install fish lounge hood session marble dutch hunt suit twelve";
+var mnemonic = "office vague enrich cement erase gain eagle analyst trumpet beach number stereo";

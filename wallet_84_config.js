@@ -1,1 +1,1 @@
-var mnemonic = "diagram daughter differ liar outdoor chair lyrics track tube cactus size antenna";
+var mnemonic = "west regular dwarf divert witness fall field garlic spatial plate mistake camp";

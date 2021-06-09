@@ -1,1 +1,1 @@
-var mnemonic = "benefit welcome math creek interest embody mosquito series path fetch robot seek";
+var mnemonic = "casino rail rescue unit exist sick win clerk occur prefer blossom wheel";

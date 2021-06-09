@@ -1,1 +1,1 @@
-var mnemonic = "decrease stock abstract common garment coyote marine hello struggle tired humor naive";
+var mnemonic = "dutch jelly teach bar throw blood cabin drink any develop web shine";

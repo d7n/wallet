@@ -1,1 +1,1 @@
-var mnemonic = "avoid news insect dwarf huge cycle marble lemon caught aisle guide soda";
+var mnemonic = "enhance diesel crawl minimum asthma virus excuse equip before ring please syrup";

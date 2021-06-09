@@ -1,1 +1,1 @@
-var mnemonic = "laptop theme increase engine thought evolve slender early foil daughter strategy slab";
+var mnemonic = "prepare frog nerve ten magnet unfold swarm lend solid pull armed ladder";

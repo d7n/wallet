@@ -1,1 +1,1 @@
-var mnemonic = "industry license minute way wine army direct giant double wood army cook";
+var mnemonic = "chronic device labor medal yard flat remind theory time frost doctor similar";

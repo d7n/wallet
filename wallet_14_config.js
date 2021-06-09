@@ -1,1 +1,1 @@
-var mnemonic = "close basket solid liquid ramp gadget pond lizard unaware miracle toast fall";
+var mnemonic = "student come become resource woman flag judge roast dilemma burger garment slow";

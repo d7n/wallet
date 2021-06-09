@@ -1,1 +1,1 @@
-var mnemonic = "property pen steak theme shop stand exchange attract black twist season model";
+var mnemonic = "insect unit dust tide pigeon coach useless short open job unique purchase";

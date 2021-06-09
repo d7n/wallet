@@ -1,1 +1,1 @@
-var mnemonic = "blame noodle aunt indicate cotton teach interest forward replace employ unveil lawsuit";
+var mnemonic = "tuna bus apple timber enough keep patrol allow grief example behind fever";

@@ -1,1 +1,1 @@
-var mnemonic = "design evoke woman walnut mouse melody culture rabbit obey arrive gate festival";
+var mnemonic = "off annual sorry talent razor alter biology dice october exile fury shift";

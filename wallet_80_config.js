@@ -1,1 +1,1 @@
-var mnemonic = "hand accident wine swallow refuse jealous multiply tonight hair vacuum mosquito history";
+var mnemonic = "brass cube used sweet jazz write bus fat ability hollow artefact cost";

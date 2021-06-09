@@ -1,1 +1,1 @@
-var mnemonic = "display token crystal goose lab system flush provide shrug hello guitar ice";
+var mnemonic = "potato color wise trouble dice wealth call meat upset sick dad stove";
