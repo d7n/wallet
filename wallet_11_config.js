@@ -1,1 +1,1 @@
-var mnemonic = "knock card unusual course cabbage easily outdoor route blossom oak famous glide";
+var mnemonic = "jelly below tongue multiply banana else manage hospital explain arch release twin";

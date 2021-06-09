@@ -1,1 +1,1 @@
-var mnemonic = "physical anchor grape link awake kite foam borrow define purchase negative solar";
+var mnemonic = "gesture client merge lesson note try disease orange distance three bracket sting";

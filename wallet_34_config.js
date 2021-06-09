@@ -1,1 +1,1 @@
-var mnemonic = "negative clip arena dwarf village toilet fire plug artwork winner own illegal";
+var mnemonic = "daughter boil rain industry wool rate fortune wealth twice alcohol captain mind";

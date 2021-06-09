@@ -1,1 +1,1 @@
-var mnemonic = "level height rack horse rather ugly dune senior joy small over cook";
+var mnemonic = "project want dash start expect seven fan alter peanut fade state flush";

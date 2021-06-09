@@ -1,1 +1,1 @@
-var mnemonic = "divorce hurry artist case ancient clinic uniform coach tuna achieve rib enable";
+var mnemonic = "arena village female elbow enact shadow thought tone involve erode shoot axis";

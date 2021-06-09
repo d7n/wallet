@@ -1,1 +1,1 @@
-var mnemonic = "surround mesh float box civil there sense sick final member ignore dog";
+var mnemonic = "pull mercy aerobic one plug else entry comic cluster crystal dentist outer";

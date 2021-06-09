@@ -1,1 +1,1 @@
-var mnemonic = "return prosper spoil drum shop junk rent hope super outer erupt isolate";
+var mnemonic = "recycle remind easy raw click exotic bless loan skate wisdom object about";

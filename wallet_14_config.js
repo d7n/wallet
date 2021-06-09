@@ -1,1 +1,1 @@
-var mnemonic = "fall front warm tool opinion never cousin surround there shaft judge spot";
+var mnemonic = "dynamic supply human gym comfort rib away luxury unusual reopen sustain vacant";

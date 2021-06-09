@@ -1,1 +1,1 @@
-var mnemonic = "rate blossom dirt join essay cost category there train cash heart praise";
+var mnemonic = "joke inch mass asthma earn excuse devote close good garage amused wait";

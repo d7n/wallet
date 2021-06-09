@@ -1,1 +1,1 @@
-var mnemonic = "foam want marriage allow easy comic abstract dose eager unusual end foam";
+var mnemonic = "thought prefer wine surprise wonder neutral bubble eternal half kick noodle legend";

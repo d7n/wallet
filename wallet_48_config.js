@@ -1,1 +1,1 @@
-var mnemonic = "morning robot employ more decade flame head gun one near cool gun";
+var mnemonic = "visa chronic address dry wealth uphold try they during switch oppose jungle";

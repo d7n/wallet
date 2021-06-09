@@ -1,1 +1,1 @@
-var mnemonic = "possible give found entire heart bone badge april fee poverty verify neutral";
+var mnemonic = "print modify night tired mountain ginger code term lunch matter soft affair";

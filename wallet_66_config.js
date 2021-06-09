@@ -1,1 +1,1 @@
-var mnemonic = "absent elbow wrist tragic song identify cancel garbage move extend enemy around";
+var mnemonic = "like general picnic chief hockey arena ride cloud scale lumber fox apart";

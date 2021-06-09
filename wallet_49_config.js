@@ -1,1 +1,1 @@
-var mnemonic = "boss size fragile guard drum humble parade uncover electric give grunt odor";
+var mnemonic = "situate practice seed chalk never abstract traffic again major wrong someone lock";

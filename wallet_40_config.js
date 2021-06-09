@@ -1,1 +1,1 @@
-var mnemonic = "cave smart defense offer vacant scale mail inmate hello lab brother cloth";
+var mnemonic = "true canyon boring story army wrong season bubble essay entire galaxy muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "occur cause print audit sausage cliff soldier picnic judge annual stick step";
+var mnemonic = "retire private horror together lava fold sunset dwarf basic audit soon author";

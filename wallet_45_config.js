@@ -1,1 +1,1 @@
-var mnemonic = "metal boss purity bomb foam play wrong south daring elite correct arrange";
+var mnemonic = "cherry sausage summer heavy jelly grocery usage undo huge brick culture insane";

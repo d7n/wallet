@@ -1,1 +1,1 @@
-var mnemonic = "crop vendor best game corn renew lens scan great pear dial hen";
+var mnemonic = "ritual above palace prefer task cook laugh entire few library reason forum";

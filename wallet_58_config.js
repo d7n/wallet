@@ -1,1 +1,1 @@
-var mnemonic = "west claim fault laugh emotion culture monkey veteran sheriff arch train toe";
+var mnemonic = "excite cook visit relief flag joy renew sing extend any thing beauty";

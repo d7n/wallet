@@ -1,1 +1,1 @@
-var mnemonic = "nature define feed next alone senior mountain style hour worth boring middle";
+var mnemonic = "sibling phrase world kiss arrow media tornado embrace shock prepare rely silk";

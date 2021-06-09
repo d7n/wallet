@@ -1,1 +1,1 @@
-var mnemonic = "approve aisle stumble bring crunch match style defense clock turkey glory because";
+var mnemonic = "current salute snake tilt shrug buddy air ignore diary useless truck member";

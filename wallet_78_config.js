@@ -1,1 +1,1 @@
-var mnemonic = "near swear spoil coin nuclear dust portion sugar orient strategy promote deny";
+var mnemonic = "analyst steak base stand force supply erosion crystal race fever fever asthma";

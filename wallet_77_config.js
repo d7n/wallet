@@ -1,1 +1,1 @@
-var mnemonic = "tube slam view easy notice drive ride buyer buzz bean dance supreme";
+var mnemonic = "skate video ivory release priority common width salmon diary hurt tragic case";

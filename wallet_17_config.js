@@ -1,1 +1,1 @@
-var mnemonic = "derive insect reunion require snack mercy account camp crop record alcohol decline";
+var mnemonic = "forget trophy drastic blood decide interest truth security gold life angry dilemma";

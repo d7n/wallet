@@ -1,1 +1,1 @@
-var mnemonic = "faculty grow waste expose mango cream science science wheel robot green steak";
+var mnemonic = "jelly unit song myth evoke congress cousin repeat romance list bundle divorce";

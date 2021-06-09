@@ -1,1 +1,1 @@
-var mnemonic = "ivory expose confirm eyebrow ship dove busy coil father salad myself inherit";
+var mnemonic = "easily impulse laugh boy during city rich problem erosion donkey february stuff";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling clip knee style correct major produce rescue satoshi across gravity duck";
+var mnemonic = "broccoli year dolphin kind enough crystal bird umbrella glass frown wealth cinnamon";

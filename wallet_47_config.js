@@ -1,1 +1,1 @@
-var mnemonic = "reunion leader cinnamon juice exit flat write shallow street code forget cube";
+var mnemonic = "improve push flight egg please right outdoor often quality stamp engage tired";

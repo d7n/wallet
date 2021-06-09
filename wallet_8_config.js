@@ -1,1 +1,1 @@
-var mnemonic = "foster female must differ myth same flat grant capital guide bench domain";
+var mnemonic = "either spell math rare camp reject first lunch life cable hollow crater";

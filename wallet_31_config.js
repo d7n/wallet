@@ -1,1 +1,1 @@
-var mnemonic = "marine found rate much behave master unfair dry child wheat weekend coconut";
+var mnemonic = "someone mixture fluid polar taste blast reveal inherit clap federal crew always";

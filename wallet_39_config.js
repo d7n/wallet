@@ -1,1 +1,1 @@
-var mnemonic = "doll similar brain coil need festival festival mosquito story bullet seven casual";
+var mnemonic = "shop insect address ball rice broom logic top link vivid term milk";

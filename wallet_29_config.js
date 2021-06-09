@@ -1,1 +1,1 @@
-var mnemonic = "tunnel slice staff trophy squeeze reduce remain gesture stamp donate weather wonder";
+var mnemonic = "tired rent argue control square prefer moral payment position breeze injury zero";

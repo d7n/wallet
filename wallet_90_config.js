@@ -1,1 +1,1 @@
-var mnemonic = "dilemma spy into renew wear luggage habit kind mimic town cargo edit";
+var mnemonic = "cactus tent pulp goose fit try replace jacket aunt buddy write gate";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey awake federal rotate adjust image park receive enroll edge enforce unique";
+var mnemonic = "cart exhibit multiply sketch person iron hip drastic dizzy month bitter honey";

@@ -1,1 +1,1 @@
-var mnemonic = "collect people omit dry cube random cancel cry science lunar slice grocery";
+var mnemonic = "flock august slice shine decline betray typical chapter suit merry erupt beach";

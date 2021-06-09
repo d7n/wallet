@@ -1,1 +1,1 @@
-var mnemonic = "zero puppy outdoor media absurd praise explain ring slow hat harvest inform";
+var mnemonic = "ranch scrap spatial cloth oyster believe rotate giggle trouble anchor fly tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid worry unlock crazy open snake light mountain moral call ten clarify";
+var mnemonic = "raise organ unfair interest float share bone proud foil rib legend dismiss";

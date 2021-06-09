@@ -1,1 +1,1 @@
-var mnemonic = "number mother hurdle tape congress behind orbit wrestle mule worth settle rare";
+var mnemonic = "buffalo ordinary canvas breeze hire engine brain ozone man team picnic duty";

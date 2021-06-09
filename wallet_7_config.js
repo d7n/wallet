@@ -1,1 +1,1 @@
-var mnemonic = "school hold awful guide dove tooth large dice kite lock other advance";
+var mnemonic = "urge coil session ordinary increase female road chest sphere someone autumn junk";

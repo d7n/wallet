@@ -1,1 +1,1 @@
-var mnemonic = "split animal breeze sting case smart damp uncover ocean one journey crawl";
+var mnemonic = "move harsh junk potato wrestle reward neutral move release slide dizzy noble";

@@ -1,1 +1,1 @@
-var mnemonic = "apology lesson evoke good erode spatial mixed crowd fence frog guard embody";
+var mnemonic = "rice blame half angle reduce limb spoon ceiling supreme allow engine deal";

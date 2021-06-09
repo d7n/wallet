@@ -1,1 +1,1 @@
-var mnemonic = "vocal response someone veteran behind confirm idle deputy enforce charge salad rescue";
+var mnemonic = "erupt juice old garbage drama hint bind gadget fee brief useless improve";

@@ -1,1 +1,1 @@
-var mnemonic = "hold crush banana stereo stool walk mechanic fancy dentist basket twelve ethics";
+var mnemonic = "twenty top uphold debate pipe symptom trim neglect champion illness guard winter";

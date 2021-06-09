@@ -1,1 +1,1 @@
-var mnemonic = "adapt flight dove space noise item barrel liar tube ship tank spy";
+var mnemonic = "any zone cattle total announce flush exhibit federal process mushroom drama later";

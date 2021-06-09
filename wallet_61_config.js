@@ -1,1 +1,1 @@
-var mnemonic = "tower broken slender shoulder rifle allow element stick aspect ability window young";
+var mnemonic = "hood member ugly sphere thunder parent height dust lottery image solar drum";

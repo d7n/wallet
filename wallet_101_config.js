@@ -1,1 +1,1 @@
-var mnemonic = "track gown truth report ranch mother virus innocent hunt install blast giant";
+var mnemonic = "mention close library fog sustain upgrade repeat tomorrow around antenna category topic";

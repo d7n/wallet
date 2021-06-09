@@ -1,1 +1,1 @@
-var mnemonic = "diagram affair pencil soap ginger robust crane offer chase grace blade absurd";
+var mnemonic = "horse fox today sand carpet blast sauce taxi grief language replace flag";

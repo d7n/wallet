@@ -1,1 +1,1 @@
-var mnemonic = "dutch human hope spell rebel idea game camp theme nominee name useful";
+var mnemonic = "baby black mobile slam alter pilot ready garage purity gain reject salmon";

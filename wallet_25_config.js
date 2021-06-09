@@ -1,1 +1,1 @@
-var mnemonic = "battle venue donate make program monster ring noble chuckle culture tennis horn";
+var mnemonic = "usual level occur coyote recycle large current news velvet girl recipe farm";

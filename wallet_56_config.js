@@ -1,1 +1,1 @@
-var mnemonic = "trick immense scale taxi stomach wife dizzy truck derive milk unable donkey";
+var mnemonic = "lottery casino belt diesel credit cloud explain puppy poverty wear ozone marriage";

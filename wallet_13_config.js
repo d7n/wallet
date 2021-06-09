@@ -1,1 +1,1 @@
-var mnemonic = "answer industry obvious scale whale easy neck lady double hybrid private noodle";
+var mnemonic = "drill ready famous aim away friend click cradle gentle stay index once";

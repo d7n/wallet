@@ -1,1 +1,1 @@
-var mnemonic = "high flush october surround area rigid air next evil actor north garden";
+var mnemonic = "robust layer slide domain hero sail tuition carry grit drum whip boy";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge inquiry cradle mosquito name puppy wave foot series usual acquire tail";
+var mnemonic = "patrol company roof mother lava usual window alley lyrics huge faith share";

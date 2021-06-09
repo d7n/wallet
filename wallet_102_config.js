@@ -1,1 +1,1 @@
-var mnemonic = "winner crack wrist crash innocent near ostrich route spoil silly awful wasp";
+var mnemonic = "ozone lottery punch solid honey fancy post submit raise safe practice south";

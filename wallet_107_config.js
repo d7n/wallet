@@ -1,1 +1,1 @@
-var mnemonic = "sadness shallow river occur discover start lady bargain option cost boil click";
+var mnemonic = "flight better mystery enrich slot pioneer note file erupt capital danger cinnamon";

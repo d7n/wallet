@@ -1,1 +1,1 @@
-var mnemonic = "total initial toilet use rescue afraid gift obtain soon page survey tube";
+var mnemonic = "book faculty icon mirror surface industry actual noise space topic term economy";

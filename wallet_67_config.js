@@ -1,1 +1,1 @@
-var mnemonic = "awesome science version cereal panda glance baby scheme woman blade electric frequent";
+var mnemonic = "assist faculty message hungry share setup trigger express lock peace trend column";

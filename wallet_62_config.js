@@ -1,1 +1,1 @@
-var mnemonic = "kiwi shaft jazz tribe build level enough anchor satoshi search surprise promote";
+var mnemonic = "worry naive save misery income twice employ tool media mercy thought crunch";

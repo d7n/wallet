@@ -1,1 +1,1 @@
-var mnemonic = "jeans sting riot column tower behave number produce all science quantum pistol";
+var mnemonic = "gather icon spell like glue butter theory any crawl desk crowd ball";

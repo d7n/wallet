@@ -1,1 +1,1 @@
-var mnemonic = "bench seminar joy hour drop much potato define patient eagle rule cover";
+var mnemonic = "castle forget text census trumpet eagle prepare asset north moment phone eye";

@@ -1,1 +1,1 @@
-var mnemonic = "search paper ancient priority antique mountain merry culture alarm logic drink metal";
+var mnemonic = "bomb vibrant cruel voice theme swear early climb example era paper spell";

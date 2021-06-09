@@ -1,1 +1,1 @@
-var mnemonic = "twin journey ability asthma rate obvious fatigue similar cube unveil giant thrive";
+var mnemonic = "void problem exhibit trim best key genuine sample gorilla fabric base chef";

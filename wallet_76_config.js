@@ -1,1 +1,1 @@
-var mnemonic = "panther profit gun toward alien lizard twice grocery never rent enact knife";
+var mnemonic = "chalk vessel strike cotton juice lyrics away sand right panel mom narrow";

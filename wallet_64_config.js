@@ -1,1 +1,1 @@
-var mnemonic = "coast addict crisp claim arctic coffee jar unaware shoe swamp lemon message";
+var mnemonic = "work fever occur brass horror unfold insane nurse fire board lion alcohol";

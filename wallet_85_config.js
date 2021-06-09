@@ -1,1 +1,1 @@
-var mnemonic = "sentence perfect fashion toast job violin celery hurt border fall system sad";
+var mnemonic = "aim rug town obey glow ride prefer school tray mosquito december idle";

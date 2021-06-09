@@ -1,1 +1,1 @@
-var mnemonic = "industry dirt receive gather armor knee shoot fall spawn infant turkey rigid";
+var mnemonic = "hawk state season famous board panda uncle tone foot bar ready fancy";

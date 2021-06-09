@@ -1,1 +1,1 @@
-var mnemonic = "hungry priority galaxy shallow disagree gym output frown coconut rotate step there";
+var mnemonic = "fade amused young old village churn trust immense entire vocal head jacket";

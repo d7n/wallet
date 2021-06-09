@@ -1,1 +1,1 @@
-var mnemonic = "nominee orbit earn vast habit drift wise onion know hole acid foil";
+var mnemonic = "hip coin jar romance art grape flat action false plunge pull route";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic magic outdoor scan harsh silk solution effort urge mind design behave";
+var mnemonic = "wisdom addict quality mango infant stem thought pole dial tongue gather close";

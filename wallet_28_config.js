@@ -1,1 +1,1 @@
-var mnemonic = "area thank guide clump coil expose urban poet spatial stem ritual skin";
+var mnemonic = "ghost cannon slight seat foster athlete rule impact ring bike million develop";

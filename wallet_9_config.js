@@ -1,1 +1,1 @@
-var mnemonic = "march unaware fee tag alarm rib critic client next surprise minute slogan";
+var mnemonic = "frog morning sting coin color able best example nice romance innocent ozone";

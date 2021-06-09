@@ -1,1 +1,1 @@
-var mnemonic = "news dance detail various blur skull finger coyote price ostrich diesel creek";
+var mnemonic = "wild genuine child case trash slab piano danger small spy fine advance";

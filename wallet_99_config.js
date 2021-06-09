@@ -1,1 +1,1 @@
-var mnemonic = "buyer water grace unhappy globe guide banana amateur wide album boat there";
+var mnemonic = "fiber birth digital girl total system code current swing vague solve pride";

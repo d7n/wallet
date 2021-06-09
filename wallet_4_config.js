@@ -1,1 +1,1 @@
-var mnemonic = "exotic era used rebel check ketchup version palm napkin fortune tray shield";
+var mnemonic = "glance nature protect artefact pass major high occur certain clock spoon nut";

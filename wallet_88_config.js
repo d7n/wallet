@@ -1,1 +1,1 @@
-var mnemonic = "point recall virtual flower ski mobile response bar left tourist curtain vivid";
+var mnemonic = "bird quarter habit ginger ice assault service fashion mushroom demand fade over";

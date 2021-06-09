@@ -1,1 +1,1 @@
-var mnemonic = "issue correct merit skill damage because river physical two sadness derive dry";
+var mnemonic = "skin enemy include polar world blood twice naive marble noise capable cherry";

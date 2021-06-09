@@ -1,1 +1,1 @@
-var mnemonic = "ripple fog muscle acoustic spot motor almost soup shield solution neutral antique";
+var mnemonic = "blur harvest test allow agree brick vacant recycle develop shove trip solve";

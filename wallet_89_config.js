@@ -1,1 +1,1 @@
-var mnemonic = "dove barrel front chalk soldier drink deputy magic jealous exotic worry cattle";
+var mnemonic = "crop demand yellow bag faith fork harvest seminar menu announce vapor bring";

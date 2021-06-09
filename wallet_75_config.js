@@ -1,1 +1,1 @@
-var mnemonic = "service sister claim fluid clock snake hip impose letter throw coach mistake";
+var mnemonic = "add brisk rain path mesh wheat great kind pumpkin muffin game snap";

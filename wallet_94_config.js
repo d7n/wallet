@@ -1,1 +1,1 @@
-var mnemonic = "cheap pave reward fruit sweet armor recycle inform mutual box discover game";
+var mnemonic = "ring club volcano retire end cover wonder gossip render van whisper country";

@@ -1,1 +1,1 @@
-var mnemonic = "vast dance emotion nice gesture enough become current scout lizard era hood";
+var mnemonic = "snack supply flip donor sound ramp strike outer negative own today transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "night walnut oxygen stadium icon fame desk solve forward awful funny airport";
+var mnemonic = "mansion subject cloud dwarf climb evoke shadow boost margin ask health day";

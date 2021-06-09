@@ -1,1 +1,1 @@
-var mnemonic = "decorate donate grief brush tooth basic friend ability tube side spend label";
+var mnemonic = "teach public card dog head feel vault cause come puzzle enlist remove";

@@ -1,1 +1,1 @@
-var mnemonic = "blast crunch raccoon whale pepper merit mosquito emerge shield tongue master raise";
+var mnemonic = "play element bless situate arrange lake visit job tank height time despair";

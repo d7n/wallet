@@ -1,1 +1,1 @@
-var mnemonic = "attract extend august slam symptom saddle scissors link real can all butter";
+var mnemonic = "school dizzy van lamp problem robot join silly monkey weather parent poet";

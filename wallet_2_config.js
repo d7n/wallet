@@ -1,1 +1,1 @@
-var mnemonic = "describe cash essay prevent gain deal knock ball slow vague sudden master";
+var mnemonic = "acquire actual kingdom rack airport august oblige kiwi lawsuit myth december vicious";

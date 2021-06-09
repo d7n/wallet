@@ -1,1 +1,1 @@
-var mnemonic = "arrow foam naive excite exact sting addict gap daring pencil crowd item";
+var mnemonic = "slight lawn card fossil idle supply fruit address nothing three cliff false";

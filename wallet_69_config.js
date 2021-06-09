@@ -1,1 +1,1 @@
-var mnemonic = "crash soap satisfy target rib keep embody best mutual mention clap shed";
+var mnemonic = "staff royal isolate month peanut lounge random luggage floor glue ride raise";

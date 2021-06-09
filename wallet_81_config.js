@@ -1,1 +1,1 @@
-var mnemonic = "display brave fame awesome cliff wrap sail reflect help spray brave donate";
+var mnemonic = "mixture edge deposit follow arm setup breeze urban radar awful jelly ride";

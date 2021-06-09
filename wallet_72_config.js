@@ -1,1 +1,1 @@
-var mnemonic = "claw dentist kite critic stem coral box twin draw acoustic divert exist";
+var mnemonic = "tag dilemma vacant giant debate token lava hurry resource erase push soap";
