@@ -1,1 +1,1 @@
-var mnemonic = "gown atom solution abandon busy much calm attitude chair brass hobby obscure";
+var mnemonic = "size plate syrup rain sleep treat orient vessel fame adjust bunker fall";

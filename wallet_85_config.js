@@ -1,1 +1,1 @@
-var mnemonic = "enrich toward rescue alert someone nasty casual hidden project abstract coach walnut";
+var mnemonic = "farm nation play install fantasy brass creek artefact design climb scan palace";

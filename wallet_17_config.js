@@ -1,1 +1,1 @@
-var mnemonic = "creek fish female cost zone conduct cup into fortune fade artist fetch";
+var mnemonic = "turkey library inflict version key fork tower food action assume surround filter";

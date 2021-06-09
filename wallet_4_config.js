@@ -1,1 +1,1 @@
-var mnemonic = "avocado mask vivid drastic few smile brain maze patch motor nominee system";
+var mnemonic = "brush provide plate normal analyst dance lawn tip woman neck retire metal";

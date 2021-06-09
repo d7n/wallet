@@ -1,1 +1,1 @@
-var mnemonic = "weekend laundry correct shock slush wreck bless image swing subject service grace";
+var mnemonic = "exotic action wheel urban modify glory expose north tourist dog biology asthma";

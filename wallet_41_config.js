@@ -1,1 +1,1 @@
-var mnemonic = "midnight student other comfort unique circle whisper discover breeze idea uncover produce";
+var mnemonic = "more pyramid entire lock thrive focus tuna luxury goat humor stick language";

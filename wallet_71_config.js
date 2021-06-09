@@ -1,1 +1,1 @@
-var mnemonic = "tent hungry axis thrive resist shell shine movie return ethics bean ball";
+var mnemonic = "token possible alarm daughter arena salad birth tiger bike polar reveal useful";

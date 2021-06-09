@@ -1,1 +1,1 @@
-var mnemonic = "dawn suspect evoke news shift sauce slight sketch clog kid loyal vehicle";
+var mnemonic = "tape dilemma rally table fine oyster correct grain load swap supreme orange";

@@ -1,1 +1,1 @@
-var mnemonic = "skin organ penalty organ refuse ecology network walnut movie stumble anchor lawsuit";
+var mnemonic = "slice eagle skill wood mean great marine enable potato clown kite vast";

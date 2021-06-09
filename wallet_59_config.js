@@ -1,1 +1,1 @@
-var mnemonic = "connect wonder wrist novel cricket robust innocent sibling hand quantum discover swift";
+var mnemonic = "remember solve write odor laptop loop slam actress muffin legal air grocery";

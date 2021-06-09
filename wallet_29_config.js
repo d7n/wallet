@@ -1,1 +1,1 @@
-var mnemonic = "coast tobacco taxi burden question small table divorce achieve toast salad hurry";
+var mnemonic = "behave erode garment monster cabin language fever rain foot month project nasty";

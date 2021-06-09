@@ -1,1 +1,1 @@
-var mnemonic = "hammer private acquire fee wife actor junk reopen clump effort frequent bicycle";
+var mnemonic = "erupt black slow bean industry melt jewel oak tag actor exit scan";

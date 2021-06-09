@@ -1,1 +1,1 @@
-var mnemonic = "exist race access chronic siren switch wasp hold sleep modify hospital impulse";
+var mnemonic = "divide prevent impose space artwork opinion knock bunker apple text spoil manage";

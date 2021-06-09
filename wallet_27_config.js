@@ -1,1 +1,1 @@
-var mnemonic = "art echo finger shoot travel buddy country forest hen wave traffic maze";
+var mnemonic = "dinosaur lyrics warfare valley age nuclear wagon beef biology craft area aunt";

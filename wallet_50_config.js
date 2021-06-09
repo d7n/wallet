@@ -1,1 +1,1 @@
-var mnemonic = "fiscal child school strike index champion one repeat evoke bacon oven canvas";
+var mnemonic = "reason desk solar weather crime wave sweet goddess test list forget awesome";

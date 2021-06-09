@@ -1,1 +1,1 @@
-var mnemonic = "grain glare comic cry midnight shift bonus stairs include solar credit tail";
+var mnemonic = "ticket hurry wife apology liquid audit lyrics head energy notable cute bleak";

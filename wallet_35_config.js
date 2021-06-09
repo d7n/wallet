@@ -1,1 +1,1 @@
-var mnemonic = "obscure traffic robust nominee dinosaur gap recipe kitten spot carbon wire pigeon";
+var mnemonic = "waste brass morning critic suggest execute excite quarter drop pizza skill knock";

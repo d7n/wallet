@@ -1,1 +1,1 @@
-var mnemonic = "spread flat calm bounce pencil spring alarm want problem outdoor blush vote";
+var mnemonic = "cancel talk climb bar dolphin major bar main gaze ice element run";

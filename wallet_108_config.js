@@ -1,1 +1,1 @@
-var mnemonic = "food manual gasp silver celery session goddess sibling snake turn engine remain";
+var mnemonic = "weird liquid clog garden device outside foil impact parade delay anchor drastic";

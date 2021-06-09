@@ -1,1 +1,1 @@
-var mnemonic = "siren screen road distance fiction chronic exchange energy lumber news vendor left";
+var mnemonic = "slab awake mansion medal frost shed doctor space lunar make virus check";

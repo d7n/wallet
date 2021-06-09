@@ -1,1 +1,1 @@
-var mnemonic = "ghost require mass piano vault list april job forward earn system theory";
+var mnemonic = "icon cube doctor cool chicken follow receive excuse mercy pull elevator dutch";

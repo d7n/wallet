@@ -1,1 +1,1 @@
-var mnemonic = "often metal swarm forum nice purchase muffin thank normal sight critic circle";
+var mnemonic = "tobacco drama bird spoon soap risk canal fluid maze tiny grace delay";

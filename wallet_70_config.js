@@ -1,1 +1,1 @@
-var mnemonic = "trap toilet service stand dove slab away tribe rate area sort ahead";
+var mnemonic = "film scout cabbage fuel capital toy kit diagram pattern rally valley track";

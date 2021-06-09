@@ -1,1 +1,1 @@
-var mnemonic = "habit pelican drama sudden riot exile light machine few flag room biology";
+var mnemonic = "blood minor iron frog shop harbor vote blur parrot anchor surround noise";

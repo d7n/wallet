@@ -1,1 +1,1 @@
-var mnemonic = "diagram bind sea half hundred thrive coconut trouble liberty connect ability twelve";
+var mnemonic = "gauge olive exercise globe coast warfare path miracle lecture insect unknown loop";

@@ -1,1 +1,1 @@
-var mnemonic = "alter member load drastic symptom valid air wheel relax air jeans gate";
+var mnemonic = "cram often door prize snake setup divide fever anger post split satisfy";

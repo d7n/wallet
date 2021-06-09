@@ -1,1 +1,1 @@
-var mnemonic = "myself pole midnight select enhance report link amused blood decorate afraid blush";
+var mnemonic = "obvious estate gap usage deer umbrella uniform wait speed wrong canal labor";

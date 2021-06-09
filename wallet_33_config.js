@@ -1,1 +1,1 @@
-var mnemonic = "search pool shoe fluid tank long deliver slow blossom antenna loyal monkey";
+var mnemonic = "monster elegant slim top dirt hundred arch jelly aspect prevent daughter nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "flag ripple unfair average mix wheel fault memory sign chicken sick fury";
+var mnemonic = "brother unveil sentence distance obey cave tooth crew jewel sick subject captain";

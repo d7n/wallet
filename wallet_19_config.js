@@ -1,1 +1,1 @@
-var mnemonic = "broom will arrow weekend blue laptop lock tip balcony spike eagle crack";
+var mnemonic = "ramp online spatial like critic junk minute gate answer crazy phrase couch";

@@ -1,1 +1,1 @@
-var mnemonic = "tent embrace soft lamp ring three acoustic uphold utility pattern payment language";
+var mnemonic = "crack gasp harbor dumb remain exchange pass immense tiger holiday industry tuna";

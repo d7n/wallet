@@ -1,1 +1,1 @@
-var mnemonic = "express pause owner denial photo tomorrow tower board middle mistake auction secret";
+var mnemonic = "sauce whale equal elevator mutual obtain grief sustain park safe resist gadget";

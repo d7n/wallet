@@ -1,1 +1,1 @@
-var mnemonic = "evil wave avocado remind coin place flip draft sea trick champion market";
+var mnemonic = "combine staff stem evidence maze surprise exist admit milk peasant shove sauce";

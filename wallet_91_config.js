@@ -1,1 +1,1 @@
-var mnemonic = "awake essence nasty trade vast palm salt mass plastic stereo come party";
+var mnemonic = "problem ability invest online town okay avocado rib leader quiz final cupboard";

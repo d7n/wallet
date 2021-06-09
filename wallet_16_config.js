@@ -1,1 +1,1 @@
-var mnemonic = "farm tomato below joy suffer ski keep abandon arrive avocado more silk";
+var mnemonic = "where rain file involve such deputy police credit depend size agent trap";

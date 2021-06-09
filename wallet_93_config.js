@@ -1,1 +1,1 @@
-var mnemonic = "labor radio gloom there elbow process delay sponsor payment tell indicate observe";
+var mnemonic = "legal name evolve decline live diagram blanket income ring mule shrug enough";

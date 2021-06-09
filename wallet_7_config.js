@@ -1,1 +1,1 @@
-var mnemonic = "chef oak scout street must behave auction object anxiety neutral unknown seed";
+var mnemonic = "reject thank toss exotic lawsuit give diagram grow cook weekend feed scatter";

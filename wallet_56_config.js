@@ -1,1 +1,1 @@
-var mnemonic = "pony blossom this garbage cradle skirt off accuse matter poem judge early";
+var mnemonic = "shrug suggest member ask distance enjoy coast auction arrange yellow extend recall";

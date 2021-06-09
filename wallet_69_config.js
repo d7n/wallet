@@ -1,1 +1,1 @@
-var mnemonic = "limit lumber slide panda put runway dutch erupt health flag autumn false";
+var mnemonic = "outdoor lobster begin suit scan truth leopard select never village music return";

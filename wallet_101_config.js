@@ -1,1 +1,1 @@
-var mnemonic = "swing entire outdoor elite predict spin inflict peanut frequent actual link reflect";
+var mnemonic = "hour soccer victory credit judge swarm egg mandate egg clutch mouse state";

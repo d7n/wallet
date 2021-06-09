@@ -1,1 +1,1 @@
-var mnemonic = "betray fun shadow trim scorpion blush fiber round comfort improve cricket denial";
+var mnemonic = "lesson wasp donate summer puzzle talk silk student circle unit allow flavor";

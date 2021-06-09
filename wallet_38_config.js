@@ -1,1 +1,1 @@
-var mnemonic = "flee draft picture liar grab toward despair waste lamp payment differ drink";
+var mnemonic = "pipe social cargo minimum banana invite ostrich before always else aisle hazard";

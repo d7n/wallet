@@ -1,1 +1,1 @@
-var mnemonic = "ecology thing crumble shop fame grow degree swear pigeon motion solid acoustic";
+var mnemonic = "circle post atom garden umbrella nation dynamic also high rifle message upset";

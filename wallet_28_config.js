@@ -1,1 +1,1 @@
-var mnemonic = "defy erosion chief resource elbow parrot truck amused range mistake menu more";
+var mnemonic = "actor stool ask dismiss bargain jaguar depart reform parade cram science canvas";

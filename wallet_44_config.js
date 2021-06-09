@@ -1,1 +1,1 @@
-var mnemonic = "swap require month crater strike subway island brick lazy you crowd card";
+var mnemonic = "remind paper zone cable usual shiver make forum host electric habit they";

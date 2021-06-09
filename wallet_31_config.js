@@ -1,1 +1,1 @@
-var mnemonic = "rapid patient spy dawn harvest oxygen plunge gloom remove super shadow frequent";
+var mnemonic = "sniff machine develop proud child scrub invest nation method satoshi pledge sell";

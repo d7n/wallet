@@ -1,1 +1,1 @@
-var mnemonic = "sniff ill awful clinic gym dentist student sing cheap lecture demand custom";
+var mnemonic = "chunk bright merry fog juice enroll garlic list august clever collect genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "build nut stay submit okay praise reflect feel flower metal pretty multiply";
+var mnemonic = "seek slice wide turtle kiwi hamster crater cliff prize pyramid small arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "draft tuition pole grass net view stamp edge victory frown real verify";
+var mnemonic = "discover choice camera device great furnace solar between brown old siren later";

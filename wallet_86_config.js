@@ -1,1 +1,1 @@
-var mnemonic = "valve nerve coffee stumble oven foster toss connect cliff exhaust fame naive";
+var mnemonic = "injury exhaust tell upgrade life indoor curtain defy rice beach nature fine";

@@ -1,1 +1,1 @@
-var mnemonic = "answer immune head cliff sleep winner leopard web verify learn burden annual";
+var mnemonic = "urge act purse sheriff dizzy general arm barrel come vocal describe chef";

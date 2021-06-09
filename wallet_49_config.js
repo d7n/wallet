@@ -1,1 +1,1 @@
-var mnemonic = "local false direct apple disorder cruel sausage average govern engage feed caught";
+var mnemonic = "either rain keep gentle leaf skull admit dish fish allow march jump";

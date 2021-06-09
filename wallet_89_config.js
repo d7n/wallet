@@ -1,1 +1,1 @@
-var mnemonic = "weapon wide unfold produce measure census open tissue inmate stadium uniform surprise";
+var mnemonic = "inside wisdom traffic area lunar waste funny practice skate arrow gallery remain";

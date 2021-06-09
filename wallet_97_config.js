@@ -1,1 +1,1 @@
-var mnemonic = "road can that never novel oblige stool shove screen immune okay device";
+var mnemonic = "online track vivid label useful fly south phone tip horn runway favorite";

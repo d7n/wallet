@@ -1,1 +1,1 @@
-var mnemonic = "canyon benefit desert similar asset inner sauce pizza master badge fog want";
+var mnemonic = "category scissors crisp grief second wear hawk enrich auction erosion flip common";

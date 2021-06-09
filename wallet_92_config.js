@@ -1,1 +1,1 @@
-var mnemonic = "width coral film vendor faculty tattoo melt runway false release domain broccoli";
+var mnemonic = "elbow exchange swift castle tube curious village seed topple pepper master alter";

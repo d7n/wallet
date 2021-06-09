@@ -1,1 +1,1 @@
-var mnemonic = "demise half comic negative remove check pave innocent rain poem famous credit";
+var mnemonic = "trophy repair food knock speak raise entire syrup art tooth frame front";

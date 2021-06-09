@@ -1,1 +1,1 @@
-var mnemonic = "kingdom safe sea congress transfer tray uphold embrace hurt magic mansion shine";
+var mnemonic = "clinic cost topic hair mobile odor wall gentle episode shaft wink total";

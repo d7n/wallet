@@ -1,1 +1,1 @@
-var mnemonic = "obvious more myth wedding zebra device divert awesome upgrade deposit robust put";
+var mnemonic = "sunny town conduct step plate loop pulp bridge toss hire game thrive";

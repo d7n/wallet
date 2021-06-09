@@ -1,1 +1,1 @@
-var mnemonic = "thank attract tattoo science wreck target pelican width vague mixture uncle version";
+var mnemonic = "penalty canyon radio swamp cream job over car since excuse cake grain";

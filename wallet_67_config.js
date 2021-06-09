@@ -1,1 +1,1 @@
-var mnemonic = "wine toe polar strategy bag romance bulk stem express smoke brief boring";
+var mnemonic = "token view stomach pair wonder gorilla strategy entry comic portion coyote inherit";

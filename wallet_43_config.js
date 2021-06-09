@@ -1,1 +1,1 @@
-var mnemonic = "tiger connect exile true net horse output help culture cancel drive satoshi";
+var mnemonic = "december tip fever finish carbon stem fiscal jacket ancient point ski distance";

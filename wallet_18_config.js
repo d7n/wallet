@@ -1,1 +1,1 @@
-var mnemonic = "strong crush kiss sentence foil board broom mule cigar garbage scatter volume";
+var mnemonic = "purpose nephew goose fit ten movie magic matrix seat foil young home";

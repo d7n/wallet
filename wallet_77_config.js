@@ -1,1 +1,1 @@
-var mnemonic = "page reform viable weekend observe average napkin idea capital bike agree talent";
+var mnemonic = "know hungry hold found focus around frown divorce runway home disorder mammal";

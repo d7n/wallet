@@ -1,1 +1,1 @@
-var mnemonic = "notice orbit opinion acid essay also drift proud dawn art question spider";
+var mnemonic = "choose slow body athlete bulk process matter fly coil acid small wagon";

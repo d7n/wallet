@@ -1,1 +1,1 @@
-var mnemonic = "control fame walnut slow monster blast tourist arch fame over canal girl";
+var mnemonic = "icon later street toss lounge rifle quit gym verb buffalo term point";

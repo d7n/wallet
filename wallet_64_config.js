@@ -1,1 +1,1 @@
-var mnemonic = "abandon suit office spot million never attack title into sponsor area hedgehog";
+var mnemonic = "pepper filter hazard ugly edge acoustic keep select trend green amateur exhaust";

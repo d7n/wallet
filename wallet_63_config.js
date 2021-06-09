@@ -1,1 +1,1 @@
-var mnemonic = "first boss arrest wall whisper also blue wild rail banner fault swallow";
+var mnemonic = "impact climb work joke crystal flight grape clay purpose cloth spread attend";

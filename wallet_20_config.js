@@ -1,1 +1,1 @@
-var mnemonic = "defy write license exile display federal place brother session salon stadium toe";
+var mnemonic = "live certain bracket equip enable near off luxury decade struggle sweet swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "column cherry real injury tape tiger disease tragic raven pause strike case";
+var mnemonic = "describe maid will pattern neither bean marriage blanket claim shield frequent funny";

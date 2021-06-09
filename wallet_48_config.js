@@ -1,1 +1,1 @@
-var mnemonic = "conduct eagle museum reason marine occur sustain address slice shy motion galaxy";
+var mnemonic = "thought pumpkin century robust merit force visual bench please estate promote ankle";

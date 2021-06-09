@@ -1,1 +1,1 @@
-var mnemonic = "bracket suspect grant share cause shop slide ice phone keen lab deliver";
+var mnemonic = "embrace control rug claim meadow baby leisure tiger credit space canal able";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke broom lounge address wait beef wrap govern front guess truth exhibit";
+var mnemonic = "bachelor intact giraffe flower onion hole service distance system illegal foil february";

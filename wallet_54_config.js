@@ -1,1 +1,1 @@
-var mnemonic = "wonder parrot column art cupboard differ quarter eager error defy fence van";
+var mnemonic = "shine office opinion welcome notice already food elevator rubber dentist collect bench";

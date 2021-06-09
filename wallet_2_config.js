@@ -1,1 +1,1 @@
-var mnemonic = "weather cram sunset broccoli open car choose inherit blush maple volcano dune";
+var mnemonic = "lonely receive few mention meadow actor include daughter final impulse staff gas";

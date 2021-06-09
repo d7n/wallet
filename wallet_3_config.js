@@ -1,1 +1,1 @@
-var mnemonic = "pottery history sad bag exchange scrub science member dust gaze pride bundle";
+var mnemonic = "toe wasp fee mistake velvet soul poem any edit stumble calm rose";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk cheese clerk stock soda spell caution truth main affair cash second";
+var mnemonic = "eagle slush wash erupt nasty oyster learn cycle desk flat galaxy consider";

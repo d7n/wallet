@@ -1,1 +1,1 @@
-var mnemonic = "illegal ability noise polar must fortune rug income charge banner join cigar";
+var mnemonic = "donate fossil attack lion body top current bid crop confirm similar royal";

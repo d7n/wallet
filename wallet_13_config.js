@@ -1,1 +1,1 @@
-var mnemonic = "leg crop unaware suffer glance arrest wall iron must harvest forum marine";
+var mnemonic = "recall mixture wolf diet panther category cradle wisdom grass click abstract diagram";

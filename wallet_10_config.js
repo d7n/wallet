@@ -1,1 +1,1 @@
-var mnemonic = "soup luggage immense dignity tip guilt clip sport collect rule accuse plate";
+var mnemonic = "room album glance taste assist puppy bundle math force inspire lonely typical";

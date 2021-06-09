@@ -1,1 +1,1 @@
-var mnemonic = "plate absent regular carbon pink beyond tonight supreme mass program violin sorry";
+var mnemonic = "hill twice tourist dismiss major rich payment prepare love whale salad first";

@@ -1,1 +1,1 @@
-var mnemonic = "escape defense drop exit crisp gauge income travel idle service trade chicken";
+var mnemonic = "auto goddess divert metal fix sadness crack poem dentist delay vehicle camera";

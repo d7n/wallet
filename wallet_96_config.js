@@ -1,1 +1,1 @@
-var mnemonic = "manual mimic awkward mass fall fly apart flag antique make crunch pattern";
+var mnemonic = "undo doctor text news quit audit ranch sample skate image funny beach";

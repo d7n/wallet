@@ -1,1 +1,1 @@
-var mnemonic = "company road west venture attract any benefit rebel muffin earth coil asthma";
+var mnemonic = "doctor sister exact current oak shed fatal brush fix ring bachelor student";

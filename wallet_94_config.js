@@ -1,1 +1,1 @@
-var mnemonic = "cube hidden engage wheel shift surround suspect wolf stool critic shaft section";
+var mnemonic = "hope tuition mean test glory essence female kiss impact fiber brick address";

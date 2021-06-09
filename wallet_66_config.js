@@ -1,1 +1,1 @@
-var mnemonic = "fiction recipe tunnel mule floor caught attract curtain market asset notice lend";
+var mnemonic = "vital wave lion minor tortoise rival fix poet rubber empower kitchen misery";

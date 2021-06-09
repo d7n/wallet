@@ -1,1 +1,1 @@
-var mnemonic = "there lion marble slender nuclear core mention vanish earn foot diesel net";
+var mnemonic = "wood convince pair sleep find adult oppose evolve merry nominee neutral infant";

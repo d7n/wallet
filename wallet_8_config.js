@@ -1,1 +1,1 @@
-var mnemonic = "vast spoil chef lizard post minute table caution avoid correct mean bone";
+var mnemonic = "rally athlete sister fresh attitude silly hunt debris off crucial option push";

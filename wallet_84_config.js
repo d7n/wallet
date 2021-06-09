@@ -1,1 +1,1 @@
-var mnemonic = "arrive design theory stereo dismiss anchor cool inspire steak admit erupt original";
+var mnemonic = "version orient choose demise uphold cancel load dune nice worry memory erode";

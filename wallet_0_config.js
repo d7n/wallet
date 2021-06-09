@@ -1,1 +1,1 @@
-var mnemonic = "ten brief goose suspect absorb drastic kid awesome slab lab laugh expire";
+var mnemonic = "poem seek orient real survey toy bird speed token maximum dial salmon";
