@@ -1,1 +1,1 @@
-var mnemonic = "tape dilemma rally table fine oyster correct grain load swap supreme orange";
+var mnemonic = "lift harvest canvas roast crumble punch provide finger bunker mesh kangaroo danger";

@@ -1,1 +1,1 @@
-var mnemonic = "undo doctor text news quit audit ranch sample skate image funny beach";
+var mnemonic = "muffin add similar rain vendor hill distance neutral this know immense camera";

@@ -1,1 +1,1 @@
-var mnemonic = "weird liquid clog garden device outside foil impact parade delay anchor drastic";
+var mnemonic = "voice dish gossip object empower upper tissue angle turtle pact trick horror";

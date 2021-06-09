@@ -1,1 +1,1 @@
-var mnemonic = "erupt black slow bean industry melt jewel oak tag actor exit scan";
+var mnemonic = "they shed abandon myself squirrel move inner sight eternal curtain announce habit";

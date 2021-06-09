@@ -1,1 +1,1 @@
-var mnemonic = "pipe social cargo minimum banana invite ostrich before always else aisle hazard";
+var mnemonic = "network skate usual disease nation observe regular save aisle taste million donate";

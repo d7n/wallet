@@ -1,1 +1,1 @@
-var mnemonic = "elbow exchange swift castle tube curious village seed topple pepper master alter";
+var mnemonic = "section response curious please diesel acid sudden chaos page paper wink rebuild";

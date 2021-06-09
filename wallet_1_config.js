@@ -1,1 +1,1 @@
-var mnemonic = "pigeon chronic fashion fashion friend pulp error entry junior outside lock year";
+var mnemonic = "brother chunk accuse boil inflict olive close crack later network flower disease";

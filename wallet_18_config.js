@@ -1,1 +1,1 @@
-var mnemonic = "purpose nephew goose fit ten movie magic matrix seat foil young home";
+var mnemonic = "okay captain soldier world bench pulp eagle page clever soft satoshi million";

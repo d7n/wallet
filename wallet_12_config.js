@@ -1,1 +1,1 @@
-var mnemonic = "slice eagle skill wood mean great marine enable potato clown kite vast";
+var mnemonic = "slogan choose liberty endless blossom mule age again major staff blade enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic cost topic hair mobile odor wall gentle episode shaft wink total";
+var mnemonic = "hundred giant cigar parrot service vendor nothing capable faculty derive flight pizza";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy repair food knock speak raise entire syrup art tooth frame front";
+var mnemonic = "solve cliff inform woman dish choice setup silk entry oyster mango reflect";

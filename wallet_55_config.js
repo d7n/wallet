@@ -1,1 +1,1 @@
-var mnemonic = "oppose bone never bridge powder anchor limit blossom omit prepare solid girl";
+var mnemonic = "wedding rich biology still lava diary maximum kiss crunch gossip floor sheriff";

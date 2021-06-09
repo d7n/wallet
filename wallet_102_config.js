@@ -1,1 +1,1 @@
-var mnemonic = "embrace control rug claim meadow baby leisure tiger credit space canal able";
+var mnemonic = "scatter amused resist sure echo jelly drill remain avoid since spy cattle";

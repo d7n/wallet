@@ -1,1 +1,1 @@
-var mnemonic = "combine staff stem evidence maze surprise exist admit milk peasant shove sauce";
+var mnemonic = "wide jelly mammal gasp main pulp mask warm wink insect mirror romance";

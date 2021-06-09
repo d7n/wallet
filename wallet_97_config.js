@@ -1,1 +1,1 @@
-var mnemonic = "online track vivid label useful fly south phone tip horn runway favorite";
+var mnemonic = "grunt duck tragic consider reduce unfold teach final student inch vital pen";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper filter hazard ugly edge acoustic keep select trend green amateur exhaust";
+var mnemonic = "rain digital south crawl imitate dune crisp hour fit flower steak culture";

@@ -1,1 +1,1 @@
-var mnemonic = "hope tuition mean test glory essence female kiss impact fiber brick address";
+var mnemonic = "inflict merry mind ostrich budget soap dog idea tail basket wood frost";

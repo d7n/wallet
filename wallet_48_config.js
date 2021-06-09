@@ -1,1 +1,1 @@
-var mnemonic = "thought pumpkin century robust merit force visual bench please estate promote ankle";
+var mnemonic = "addict crush fatigue kiss ill noise early meadow clever pig hip execute";

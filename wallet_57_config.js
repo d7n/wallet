@@ -1,1 +1,1 @@
-var mnemonic = "discover choice camera device great furnace solar between brown old siren later";
+var mnemonic = "skin penalty kitchen flame deputy fabric street borrow forward unusual stay emerge";

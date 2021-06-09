@@ -1,1 +1,1 @@
-var mnemonic = "recall mixture wolf diet panther category cradle wisdom grass click abstract diagram";
+var mnemonic = "security brush accuse unable clean play cover diagram latin short point lawn";

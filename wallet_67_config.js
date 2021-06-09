@@ -1,1 +1,1 @@
-var mnemonic = "token view stomach pair wonder gorilla strategy entry comic portion coyote inherit";
+var mnemonic = "giggle box toilet palace curtain bus hamster bind begin night dice club";

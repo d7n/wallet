@@ -1,1 +1,1 @@
-var mnemonic = "shine office opinion welcome notice already food elevator rubber dentist collect bench";
+var mnemonic = "disease kit busy cute under enrich absorb acid amazing fluid jump typical";

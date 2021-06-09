@@ -1,1 +1,1 @@
-var mnemonic = "envelope intact crowd invest crowd assault subway appear theory burst athlete crush";
+var mnemonic = "unable right idle actual dignity harsh core remember bench wide hand canal";

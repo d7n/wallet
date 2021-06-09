@@ -1,1 +1,1 @@
-var mnemonic = "wood convince pair sleep find adult oppose evolve merry nominee neutral infant";
+var mnemonic = "feed pig cabin clock chunk possible river twist cheap sugar subway math";

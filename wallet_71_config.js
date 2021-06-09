@@ -1,1 +1,1 @@
-var mnemonic = "token possible alarm daughter arena salad birth tiger bike polar reveal useful";
+var mnemonic = "grid fence glimpse work item mutual weather add mad riot spot together";

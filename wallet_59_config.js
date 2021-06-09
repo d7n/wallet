@@ -1,1 +1,1 @@
-var mnemonic = "remember solve write odor laptop loop slam actress muffin legal air grocery";
+var mnemonic = "boss mass unique river mother retire mad hobby apology hold left net";

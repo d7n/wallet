@@ -1,1 +1,1 @@
-var mnemonic = "blood minor iron frog shop harbor vote blur parrot anchor surround noise";
+var mnemonic = "discover magic inside ladder unique decrease brisk siren always various aisle split";

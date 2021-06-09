@@ -1,1 +1,1 @@
-var mnemonic = "poem seek orient real survey toy bird speed token maximum dial salmon";
+var mnemonic = "aunt add shoe oil engage amateur dinner cycle easy open prefer exit";

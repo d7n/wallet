@@ -1,1 +1,1 @@
-var mnemonic = "version orient choose demise uphold cancel load dune nice worry memory erode";
+var mnemonic = "weekend taxi diagram order drip air oyster quantum drive describe theme hurry";

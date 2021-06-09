@@ -1,1 +1,1 @@
-var mnemonic = "film scout cabbage fuel capital toy kit diagram pattern rally valley track";
+var mnemonic = "smooth almost fiction purpose brush palace dwarf swift hedgehog mixed amused invest";

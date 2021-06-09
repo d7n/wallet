@@ -1,1 +1,1 @@
-var mnemonic = "turkey library inflict version key fork tower food action assume surround filter";
+var mnemonic = "wage aim napkin screen neck sudden subject exit chalk citizen miracle know";

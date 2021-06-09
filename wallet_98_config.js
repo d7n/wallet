@@ -1,1 +1,1 @@
-var mnemonic = "palm silver limit industry rather axis blind isolate vendor cram bracket alley";
+var mnemonic = "survey mechanic erode merry flower begin diamond spend canyon major wire feature";

@@ -1,1 +1,1 @@
-var mnemonic = "brother unveil sentence distance obey cave tooth crew jewel sick subject captain";
+var mnemonic = "kick trade poem track age choose shrug fancy echo able dolphin pause";

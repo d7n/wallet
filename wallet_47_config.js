@@ -1,1 +1,1 @@
-var mnemonic = "worry hedgehog aim film duck fabric rubber unit sketch remind edit switch";
+var mnemonic = "hollow educate feel puzzle seat insect chief tube jelly assault outer alter";

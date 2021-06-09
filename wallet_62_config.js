@@ -1,1 +1,1 @@
-var mnemonic = "donate fossil attack lion body top current bid crop confirm similar royal";
+var mnemonic = "december essay extra true feature pride fabric hat describe quit uncover oak";

@@ -1,1 +1,1 @@
-var mnemonic = "slab awake mansion medal frost shed doctor space lunar make virus check";
+var mnemonic = "walk blouse problem mother race comfort sun spoon insect resist ice casual";

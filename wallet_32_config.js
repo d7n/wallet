@@ -1,1 +1,1 @@
-var mnemonic = "sauce whale equal elevator mutual obtain grief sustain park safe resist gadget";
+var mnemonic = "cinnamon olympic hammer will frost secret diesel excite switch caution hotel foil";

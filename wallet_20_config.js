@@ -1,1 +1,1 @@
-var mnemonic = "live certain bracket equip enable near off luxury decade struggle sweet swallow";
+var mnemonic = "leave dial share guard trade history identify assault derive south company legend";

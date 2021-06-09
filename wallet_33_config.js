@@ -1,1 +1,1 @@
-var mnemonic = "monster elegant slim top dirt hundred arch jelly aspect prevent daughter nephew";
+var mnemonic = "siren twice inner replace tennis violin soul clerk must light drama bottom";

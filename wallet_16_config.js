@@ -1,1 +1,1 @@
-var mnemonic = "where rain file involve such deputy police credit depend size agent trap";
+var mnemonic = "mixture ocean mass virus lens interest wisdom report fashion escape present innocent";

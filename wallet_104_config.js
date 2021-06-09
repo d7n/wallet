@@ -1,1 +1,1 @@
-var mnemonic = "sick battle boss riot vapor gravity small only agent address shallow cover";
+var mnemonic = "recall error universe weird lamp music leisure fury wrist address arrest ozone";

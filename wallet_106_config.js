@@ -1,1 +1,1 @@
-var mnemonic = "veteran cabbage curve verify stadium peace believe analyst maid vault elbow fragile";
+var mnemonic = "recipe camp leopard jar mass file clip rude fetch welcome screen type";

@@ -1,1 +1,1 @@
-var mnemonic = "behave erode garment monster cabin language fever rain foot month project nasty";
+var mnemonic = "ugly puppy heart lemon cart file burger potato already connect wall salon";

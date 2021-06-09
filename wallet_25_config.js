@@ -1,1 +1,1 @@
-var mnemonic = "what radio barrel say theory scare mesh impulse check curve range orchard";
+var mnemonic = "calm goat squirrel company network jeans oppose congress sick pulse fever sing";

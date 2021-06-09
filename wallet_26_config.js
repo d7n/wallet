@@ -1,1 +1,1 @@
-var mnemonic = "size plate syrup rain sleep treat orient vessel fame adjust bunker fall";
+var mnemonic = "rose road adjust senior pond immense rent wide juice dance baby virtual";

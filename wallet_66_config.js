@@ -1,1 +1,1 @@
-var mnemonic = "vital wave lion minor tortoise rival fix poet rubber empower kitchen misery";
+var mnemonic = "multiply eager museum insane kangaroo photo paddle address certain critic great lobster";

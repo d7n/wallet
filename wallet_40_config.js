@@ -1,1 +1,1 @@
-var mnemonic = "ticket hurry wife apology liquid audit lyrics head energy notable cute bleak";
+var mnemonic = "employ love edge lake radio embrace sad maple disease wire silent habit";

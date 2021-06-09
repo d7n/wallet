@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur lyrics warfare valley age nuclear wagon beef biology craft area aunt";
+var mnemonic = "pact hospital aunt athlete reason pupil feed inquiry furnace wage liberty original";

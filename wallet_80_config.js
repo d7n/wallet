@@ -1,1 +1,1 @@
-var mnemonic = "chunk bright merry fog juice enroll garlic list august clever collect genuine";
+var mnemonic = "age choose dumb fun term phone great click check boost aunt bomb";

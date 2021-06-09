@@ -1,1 +1,1 @@
-var mnemonic = "hour soccer victory credit judge swarm egg mandate egg clutch mouse state";
+var mnemonic = "portion flight salt public hospital yard mobile little run few afraid large";

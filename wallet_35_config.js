@@ -1,1 +1,1 @@
-var mnemonic = "waste brass morning critic suggest execute excite quarter drop pizza skill knock";
+var mnemonic = "easy picnic smile visa lion trip spice punch sick text ahead pull";

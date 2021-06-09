@@ -1,1 +1,1 @@
-var mnemonic = "more pyramid entire lock thrive focus tuna luxury goat humor stick language";
+var mnemonic = "edge profit impact mean mosquito city hat scout unlock drastic carry punch";

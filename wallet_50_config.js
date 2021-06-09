@@ -1,1 +1,1 @@
-var mnemonic = "reason desk solar weather crime wave sweet goddess test list forget awesome";
+var mnemonic = "fresh twelve moment solution advice hedgehog soon carpet produce fancy abuse tuition";

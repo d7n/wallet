@@ -1,1 +1,1 @@
-var mnemonic = "impact climb work joke crystal flight grape clay purpose cloth spread attend";
+var mnemonic = "wedding critic school pulse phone salute kite pact unique shed armor surface";

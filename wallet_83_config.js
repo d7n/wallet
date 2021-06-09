@@ -1,1 +1,1 @@
-var mnemonic = "panther month current twist absent mass forest fame assist infant someone dragon";
+var mnemonic = "pipe plunge since canyon toe funny alcohol grow life equip loyal reveal";

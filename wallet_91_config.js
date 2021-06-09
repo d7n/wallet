@@ -1,1 +1,1 @@
-var mnemonic = "problem ability invest online town okay avocado rib leader quiz final cupboard";
+var mnemonic = "title agent language diamond all bag sudden speak fat hundred decide blame";

@@ -1,1 +1,1 @@
-var mnemonic = "know hungry hold found focus around frown divorce runway home disorder mammal";
+var mnemonic = "raw unfold velvet answer garlic patient word purchase yard limb over father";

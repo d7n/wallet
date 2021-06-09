@@ -1,1 +1,1 @@
-var mnemonic = "cancel talk climb bar dolphin major bar main gaze ice element run";
+var mnemonic = "broom hat silver surprise frown bargain portion april print this panda horn";

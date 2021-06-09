@@ -1,1 +1,1 @@
-var mnemonic = "lonely receive few mention meadow actor include daughter final impulse staff gas";
+var mnemonic = "drama soap pole borrow purity volcano happy shaft universe defy grape own";

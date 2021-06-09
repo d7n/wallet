@@ -1,1 +1,1 @@
-var mnemonic = "choose slow body athlete bulk process matter fly coil acid small wagon";
+var mnemonic = "whale awkward follow allow aware kangaroo cotton crouch bicycle what tribe prosper";

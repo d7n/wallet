@@ -1,1 +1,1 @@
-var mnemonic = "remind paper zone cable usual shiver make forum host electric habit they";
+var mnemonic = "history ketchup client gentle cheese they pencil army vintage news cube elbow";

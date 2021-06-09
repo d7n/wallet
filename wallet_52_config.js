@@ -1,1 +1,1 @@
-var mnemonic = "bachelor intact giraffe flower onion hole service distance system illegal foil february";
+var mnemonic = "poverty fish spy razor couch craft shift lottery pitch caught rain alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "either rain keep gentle leaf skull admit dish fish allow march jump";
+var mnemonic = "pass intact airport bitter favorite category ankle face helmet secret blood army";

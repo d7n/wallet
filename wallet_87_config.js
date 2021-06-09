@@ -1,1 +1,1 @@
-var mnemonic = "tobacco drama bird spoon soap risk canal fluid maze tiny grace delay";
+var mnemonic = "disease spice warfare velvet finger busy sand luggage orphan buzz disease enforce";

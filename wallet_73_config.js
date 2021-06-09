@@ -1,1 +1,1 @@
-var mnemonic = "urge act purse sheriff dizzy general arm barrel come vocal describe chef";
+var mnemonic = "soft high access timber fun tonight join rebuild edge high lift cable";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor sister exact current oak shed fatal brush fix ring bachelor student";
+var mnemonic = "salute ball depth gauge public surge lonely still frown goat tower door";

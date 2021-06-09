@@ -1,1 +1,1 @@
-var mnemonic = "penalty canyon radio swamp cream job over car since excuse cake grain";
+var mnemonic = "peace table obey fall brave file define runway coast comfort office stamp";

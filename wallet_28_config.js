@@ -1,1 +1,1 @@
-var mnemonic = "actor stool ask dismiss bargain jaguar depart reform parade cram science canvas";
+var mnemonic = "betray warfare elder make scout dial movie exile melody gallery thought spy";

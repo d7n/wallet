@@ -1,1 +1,1 @@
-var mnemonic = "lesson wasp donate summer puzzle talk silk student circle unit allow flavor";
+var mnemonic = "rural love explain neglect student one increase save text daughter immune frame";

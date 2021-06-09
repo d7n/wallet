@@ -1,1 +1,1 @@
-var mnemonic = "icon cube doctor cool chicken follow receive excuse mercy pull elevator dutch";
+var mnemonic = "broom badge syrup wage report shoe blanket hurt write moment run sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "divide prevent impose space artwork opinion knock bunker apple text spoil manage";
+var mnemonic = "unusual lazy claim miss final april upon news distance excess glory fun";

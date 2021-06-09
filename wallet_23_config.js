@@ -1,1 +1,1 @@
-var mnemonic = "lecture ecology wasp upset crowd raw legend lottery coil damage rose essay";
+var mnemonic = "crawl wire milk prosper update detect argue typical furnace antique tone steel";

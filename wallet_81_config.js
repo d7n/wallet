@@ -1,1 +1,1 @@
-var mnemonic = "crack gasp harbor dumb remain exchange pass immense tiger holiday industry tuna";
+var mnemonic = "post shadow vapor soft boat enhance theme vessel knife chef door match";

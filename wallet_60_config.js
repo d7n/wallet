@@ -1,1 +1,1 @@
-var mnemonic = "eagle slush wash erupt nasty oyster learn cycle desk flat galaxy consider";
+var mnemonic = "earn history burden seek poverty session paper only agent ordinary install total";

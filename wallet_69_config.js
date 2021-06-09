@@ -1,1 +1,1 @@
-var mnemonic = "outdoor lobster begin suit scan truth leopard select never village music return";
+var mnemonic = "famous stool grief cannon piece upon pave build lemon toward cruel immense";

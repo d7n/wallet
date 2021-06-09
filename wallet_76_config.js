@@ -1,1 +1,1 @@
-var mnemonic = "cram often door prize snake setup divide fever anger post split satisfy";
+var mnemonic = "gather reflect fox holiday donate slot aware scrap entire detail bench comic";

@@ -1,1 +1,1 @@
-var mnemonic = "organ green measure universe price scheme couch ignore dragon shadow spare alley";
+var mnemonic = "enter million address glance goddess focus chat term put cluster curious noodle";

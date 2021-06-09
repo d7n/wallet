@@ -1,1 +1,1 @@
-var mnemonic = "icon later street toss lounge rifle quit gym verb buffalo term point";
+var mnemonic = "senior tobacco shy conduct alert answer skill art robust park twist float";

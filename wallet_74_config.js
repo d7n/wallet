@@ -1,1 +1,1 @@
-var mnemonic = "cool develop spatial tumble filter venue insect card peanut middle mimic cherry";
+var mnemonic = "ostrich slender uphold scan route clay drama stay fuel grid dune fantasy";

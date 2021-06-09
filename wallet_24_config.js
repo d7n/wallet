@@ -1,1 +1,1 @@
-var mnemonic = "vivid put radar business ball dawn since since leisure club glow please";
+var mnemonic = "useful easy path potato choose despair bless convince come slice knee cream";

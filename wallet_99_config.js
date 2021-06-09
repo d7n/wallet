@@ -1,1 +1,1 @@
-var mnemonic = "train sing capable cook behave arch design spice damage pass height truly";
+var mnemonic = "movie tomorrow latin anxiety mean doll mutual prosper analyst erosion able plastic";

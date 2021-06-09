@@ -1,1 +1,1 @@
-var mnemonic = "toe wasp fee mistake velvet soul poem any edit stumble calm rose";
+var mnemonic = "upper genius jeans pledge distance flower spell knee main reason luxury still";

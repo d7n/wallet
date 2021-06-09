@@ -1,1 +1,1 @@
-var mnemonic = "december tip fever finish carbon stem fiscal jacket ancient point ski distance";
+var mnemonic = "shrug pretty goddess hidden display canvas innocent engage step margin estate tackle";

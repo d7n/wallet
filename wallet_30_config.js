@@ -1,1 +1,1 @@
-var mnemonic = "seek slice wide turtle kiwi hamster crater cliff prize pyramid small arrest";
+var mnemonic = "copper simple prevent off alcohol simple any vacuum injury junior boy weekend";

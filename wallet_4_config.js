@@ -1,1 +1,1 @@
-var mnemonic = "brush provide plate normal analyst dance lawn tip woman neck retire metal";
+var mnemonic = "aspect control wealth one achieve point equip case evil version crunch display";

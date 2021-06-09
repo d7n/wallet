@@ -1,1 +1,1 @@
-var mnemonic = "exotic action wheel urban modify glory expose north tourist dog biology asthma";
+var mnemonic = "teach exact day bundle real fever rifle pause loan camp disagree reopen";

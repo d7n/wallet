@@ -1,1 +1,1 @@
-var mnemonic = "sunny town conduct step plate loop pulp bridge toss hire game thrive";
+var mnemonic = "refuse hollow music sustain retire clip act nest torch churn nephew screen";

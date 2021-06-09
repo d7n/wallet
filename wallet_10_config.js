@@ -1,1 +1,1 @@
-var mnemonic = "room album glance taste assist puppy bundle math force inspire lonely typical";
+var mnemonic = "sound goat neck gentle goddess settle field waste cactus govern twelve mad";

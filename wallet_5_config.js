@@ -1,1 +1,1 @@
-var mnemonic = "describe maid will pattern neither bean marriage blanket claim shield frequent funny";
+var mnemonic = "elephant sponsor much life matrix chase barrel west nest wise pact dutch";

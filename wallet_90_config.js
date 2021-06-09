@@ -1,1 +1,1 @@
-var mnemonic = "category scissors crisp grief second wear hawk enrich auction erosion flip common";
+var mnemonic = "picture laugh educate conduct nut worry figure soft sunset sand artwork cannon";
