@@ -1,1 +1,1 @@
-var mnemonic = "stumble arrest butter series town figure lottery quantum grief control sense private";
+var mnemonic = "tent health toss amateur peace rocket know lazy file bridge wire damage";

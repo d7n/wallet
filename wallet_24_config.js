@@ -1,1 +1,1 @@
-var mnemonic = "glare ensure smart boil biology lizard sing exact orphan party banana pupil";
+var mnemonic = "avocado fee result assault cloud off family census oval radar chef scan";

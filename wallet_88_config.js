@@ -1,1 +1,1 @@
-var mnemonic = "anxiety rhythm enact project vendor gap script carpet raise ship pottery book";
+var mnemonic = "monitor plug deer nothing much swear demand fall midnight deny scan trouble";

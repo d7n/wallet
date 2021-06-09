@@ -1,1 +1,1 @@
-var mnemonic = "door long token glass obey cupboard daring firm must bless buyer bacon";
+var mnemonic = "pretty object vivid document this switch pull unveil foster cry devote message";

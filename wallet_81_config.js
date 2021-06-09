@@ -1,1 +1,1 @@
-var mnemonic = "genre gravity ill seed shuffle cash pact wasp latin deer twenty jewel";
+var mnemonic = "spring cycle zero broom safe cushion afraid picnic fork summer erase idea";

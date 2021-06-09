@@ -1,1 +1,1 @@
-var mnemonic = "outside scrap laptop family taste chair picnic tilt harbor live plug connect";
+var mnemonic = "situate thing educate orient observe orbit choose number short wheat nation slim";

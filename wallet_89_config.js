@@ -1,1 +1,1 @@
-var mnemonic = "coyote truth myth shock offer tool surround mesh analyst absent initial tape";
+var mnemonic = "fork main void arch actual clog invest pigeon traffic eagle diet ozone";

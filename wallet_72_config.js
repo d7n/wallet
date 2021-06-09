@@ -1,1 +1,1 @@
-var mnemonic = "trigger bracket front night actor violin betray legend wife year cement update";
+var mnemonic = "betray old twin bike cave text panda female west tag hotel young";

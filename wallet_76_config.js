@@ -1,1 +1,1 @@
-var mnemonic = "raven history panda smile orbit prefer slam flight barely clip pony screen";
+var mnemonic = "frozen paper inhale hand gallery suspect grace human imitate current bamboo wrong";

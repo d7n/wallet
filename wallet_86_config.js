@@ -1,1 +1,1 @@
-var mnemonic = "used tent library marine memory spring peanut video position cream auto slogan";
+var mnemonic = "display bid circle excess owner game valley borrow mirror combine cliff subway";

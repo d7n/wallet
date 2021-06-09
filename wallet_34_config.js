@@ -1,1 +1,1 @@
-var mnemonic = "sleep build mean ability choose slim minor predict expose match aim hour";
+var mnemonic = "wire layer collect strong civil royal prepare old circle october issue wool";

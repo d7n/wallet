@@ -1,1 +1,1 @@
-var mnemonic = "fit engine window flee drink jungle guilt any voyage toast marriage clay";
+var mnemonic = "artist mule dial key chest oppose worth logic immense gravity donor glove";

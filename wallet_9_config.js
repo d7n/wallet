@@ -1,1 +1,1 @@
-var mnemonic = "void square slogan become ankle dash favorite rubber speed duck when jar";
+var mnemonic = "spice click note bargain tool build wish copy knee gauge sketch decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "damp atom wage inhale install burden snap foot device omit useful involve";
+var mnemonic = "lamp math perfect couch erase key near midnight retire blade pottery access";

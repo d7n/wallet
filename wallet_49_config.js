@@ -1,1 +1,1 @@
-var mnemonic = "bleak enroll sunny glass globe immune february few spirit coast grab gun";
+var mnemonic = "pill bright insect employ pizza rookie year heavy moral type peace dress";

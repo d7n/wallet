@@ -1,1 +1,1 @@
-var mnemonic = "lyrics comic define myth immense flush pledge essence blast video motion traffic";
+var mnemonic = "detail diamond shy section sugar exchange october invest crowd again submit miss";

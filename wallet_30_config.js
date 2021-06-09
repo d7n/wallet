@@ -1,1 +1,1 @@
-var mnemonic = "kidney salmon stone flower disagree comfort dwarf deny staff quote kiwi hour";
+var mnemonic = "combine require position wish boss hill pause high oil husband segment begin";

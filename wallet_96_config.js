@@ -1,1 +1,1 @@
-var mnemonic = "piano outdoor bag neck strike praise biology robot scatter quality genuine joke";
+var mnemonic = "foster fog drink check lunch erase antique pilot drive alone guide unique";

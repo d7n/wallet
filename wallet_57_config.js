@@ -1,1 +1,1 @@
-var mnemonic = "mouse hold game average rice park badge float power mango shiver property";
+var mnemonic = "supply garment disease kitten evidence educate enter spray behind obey orphan throw";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon peanut captain buffalo table ramp want disorder bunker awesome mechanic medal";
+var mnemonic = "often arrange sand song assault report learn position side unhappy evidence balcony";

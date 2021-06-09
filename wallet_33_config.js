@@ -1,1 +1,1 @@
-var mnemonic = "child bunker noble reveal that taste humor dynamic core cargo agent fragile";
+var mnemonic = "pledge lyrics embark luxury casino success mistake mask admit dice near ritual";

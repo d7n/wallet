@@ -1,1 +1,1 @@
-var mnemonic = "glory cry box pig industry decline pool sport dad dutch beach keen";
+var mnemonic = "truck grain copy aisle copper panda achieve law supreme warm town turkey";

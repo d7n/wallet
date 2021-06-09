@@ -1,1 +1,1 @@
-var mnemonic = "asset apology explain size chase pool climb decide ivory sister ice prosper";
+var mnemonic = "razor satoshi horse barrel engage romance crisp stone emotion absurd stone turn";

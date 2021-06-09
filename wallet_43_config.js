@@ -1,1 +1,1 @@
-var mnemonic = "village genuine rescue decline short gospel unhappy join two monitor apology brush";
+var mnemonic = "click warm spatial velvet hour essay cave truly vote ceiling eternal rotate";

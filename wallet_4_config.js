@@ -1,1 +1,1 @@
-var mnemonic = "life crack hello tip fatal cigar small wet jump style impulse march";
+var mnemonic = "bus tenant cheese suit example load caution minute kidney boring zoo connect";

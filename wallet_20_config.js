@@ -1,1 +1,1 @@
-var mnemonic = "hungry leader planet drill picture car soul cute month parent dirt arctic";
+var mnemonic = "worth popular buyer live roof coil sun funny exhibit luggage image quantum";

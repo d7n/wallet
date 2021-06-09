@@ -1,1 +1,1 @@
-var mnemonic = "solve velvet decade opinion century trend muffin basic initial fever demand maid";
+var mnemonic = "giraffe august napkin shine spike usage worth jealous brass key camera frame";

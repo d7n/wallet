@@ -1,1 +1,1 @@
-var mnemonic = "silent include best glimpse oppose cash gauge spell tower when benefit memory";
+var mnemonic = "trial peasant sound peasant adapt inform pepper slim snake upset ostrich copy";

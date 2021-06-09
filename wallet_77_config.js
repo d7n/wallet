@@ -1,1 +1,1 @@
-var mnemonic = "vivid number sign ring profit scan absurd reject basic pear chair youth";
+var mnemonic = "negative daring soul enemy jeans weekend object lion peasant film tilt fancy";

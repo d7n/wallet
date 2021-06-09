@@ -1,1 +1,1 @@
-var mnemonic = "stock math wheel humble belt limit spatial social romance quarter coconut glory";
+var mnemonic = "vacuum sick make finish inherit tennis artwork hint emerge panel high essay";

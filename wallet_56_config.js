@@ -1,1 +1,1 @@
-var mnemonic = "check exist beef recipe throw sponsor embody food devote word clarify lend";
+var mnemonic = "settle stock text fun grape job can wrong pool unable boss pen";

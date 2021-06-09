@@ -1,1 +1,1 @@
-var mnemonic = "hammer course dutch road stuff puzzle whip mad catch analyst wet they";
+var mnemonic = "promote pencil betray model multiply sauce scheme rice laugh sight drive local";

@@ -1,1 +1,1 @@
-var mnemonic = "rare observe naive force vessel strategy glide state primary mansion adult brain";
+var mnemonic = "gauge settle club crumble lucky dish decorate toddler shine stock wink plug";

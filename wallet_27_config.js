@@ -1,1 +1,1 @@
-var mnemonic = "truly gap rigid mother stool garbage drum pet cute celery witness quantum";
+var mnemonic = "dirt powder start crew maximum trap palm rigid dinner cushion busy denial";

@@ -1,1 +1,1 @@
-var mnemonic = "essence patch message nose return volume enrich genius distance traffic local recipe";
+var mnemonic = "gap seek wealth acoustic radio tent travel lesson network hobby library pride";

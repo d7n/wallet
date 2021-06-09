@@ -1,1 +1,1 @@
-var mnemonic = "shield rabbit subway praise afford wreck nest man small middle keep birth";
+var mnemonic = "walnut stamp claw lyrics wish wise symbol smart fiction quality accident brief";

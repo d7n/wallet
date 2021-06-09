@@ -1,1 +1,1 @@
-var mnemonic = "federal sphere have gallery kick type month diamond sense ginger poet lobster";
+var mnemonic = "happy topic zebra critic stereo walnut damage online note few sorry early";

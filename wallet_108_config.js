@@ -1,1 +1,1 @@
-var mnemonic = "letter select true canvas seven company gun gym prevent spawn timber assume";
+var mnemonic = "repair hazard eager plunge rifle oxygen resemble easy rare light ivory absurd";

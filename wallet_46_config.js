@@ -1,1 +1,1 @@
-var mnemonic = "donate genre garden skirt regret kite elite inhale fan wonder trophy exact";
+var mnemonic = "ride choice fit drop actor toward offer summer century height agent pelican";

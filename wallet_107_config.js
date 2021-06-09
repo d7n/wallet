@@ -1,1 +1,1 @@
-var mnemonic = "file gather squirrel coral lonely require galaxy observe enact member travel own";
+var mnemonic = "liquid fiscal paddle twice behave rose fuel resemble come picnic sense fruit";

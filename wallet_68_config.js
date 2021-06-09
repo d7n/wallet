@@ -1,1 +1,1 @@
-var mnemonic = "circle plastic knee novel diet palace reason various cart inner noise pony";
+var mnemonic = "note walk cabin hire load uncle minor time inmate budget claw sunny";

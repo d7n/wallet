@@ -1,1 +1,1 @@
-var mnemonic = "syrup settle island napkin public puppy giant speak arrange right social flight";
+var mnemonic = "maze wagon usage near desert wear cave hungry vessel mask leisure icon";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle boring misery mad chuckle unknown pact dilemma pumpkin outdoor trim deny";
+var mnemonic = "urban enter control invite leopard vendor display right surge lunch analyst tourist";

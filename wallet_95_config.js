@@ -1,1 +1,1 @@
-var mnemonic = "stool owner frog general chief foster mention upset captain crawl rose cheap";
+var mnemonic = "riot provide eagle rabbit front hurry loan all fat cake dumb silly";

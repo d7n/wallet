@@ -1,1 +1,1 @@
-var mnemonic = "join drill lobster clarify gaze obey smart cave promote supreme ship act";
+var mnemonic = "inhale egg decrease gesture amazing butter muscle castle deer fever oak tuition";

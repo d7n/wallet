@@ -1,1 +1,1 @@
-var mnemonic = "debate stock suspect frame pioneer hair humble slide chronic bar world broom";
+var mnemonic = "wear bridge update bacon library wonder enact wagon sting tennis gauge cancel";

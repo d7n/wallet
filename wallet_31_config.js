@@ -1,1 +1,1 @@
-var mnemonic = "accuse saddle witness upon pill clock chat congress blast citizen tissue outer";
+var mnemonic = "pledge radar select else antenna symbol because legal wedding ivory lounge live";

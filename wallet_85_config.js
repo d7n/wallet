@@ -1,1 +1,1 @@
-var mnemonic = "shop earn scissors heavy pond order auto conduct hungry vapor speed claw";
+var mnemonic = "federal setup fresh good shift elbow time reward episode piece alert project";

@@ -1,1 +1,1 @@
-var mnemonic = "flag multiply cheese wrap shaft apart better jungle spare resemble cushion expose";
+var mnemonic = "tribe holiday upset face typical crash arena chunk story develop embrace track";

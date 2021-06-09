@@ -1,1 +1,1 @@
-var mnemonic = "juice east local corn giggle width shaft cart celery bench wave snack";
+var mnemonic = "maximum retire robot surprise suggest boy coil admit another dwarf cream tourist";

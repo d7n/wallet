@@ -1,1 +1,1 @@
-var mnemonic = "theme entry lab ordinary cost anchor exclude remember pet body head else";
+var mnemonic = "census once similar panic satisfy suggest learn sand noble layer learn garlic";

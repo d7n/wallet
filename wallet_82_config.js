@@ -1,1 +1,1 @@
-var mnemonic = "betray fossil lock film upset seven practice behave talent bid sting mandate";
+var mnemonic = "trim tenant weekend label plastic earth nose local comic island lazy lazy";

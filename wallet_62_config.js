@@ -1,1 +1,1 @@
-var mnemonic = "clock first clinic myth price plug hour adapt smart size ten danger";
+var mnemonic = "pave clarify mask sponsor mom arctic spare blame original harsh unhappy today";

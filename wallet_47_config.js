@@ -1,1 +1,1 @@
-var mnemonic = "flock between drip rack found just wasp vapor similar minimum success height";
+var mnemonic = "nothing deny circle vintage address include state stairs tourist panic among birth";

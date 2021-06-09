@@ -1,1 +1,1 @@
-var mnemonic = "onion fee lounge hint point voice exotic correct document give bachelor mixed";
+var mnemonic = "wage iron victory art color tenant cage host tilt room goose world";

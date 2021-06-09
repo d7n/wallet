@@ -1,1 +1,1 @@
-var mnemonic = "stumble wire chef document cloud supreme number eager achieve found atom foam";
+var mnemonic = "arena trim learn trophy mystery arch injury trade top proof horse wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock organ penalty account pledge floor rug upon very select improve pond";
+var mnemonic = "small bundle certain inch between fabric olympic six gasp width require cannon";

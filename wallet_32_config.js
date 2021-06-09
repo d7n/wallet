@@ -1,1 +1,1 @@
-var mnemonic = "sister lamp wall depart typical silent burst lion window desert stage spare";
+var mnemonic = "borrow draw wisdom learn chat way void pencil grace attend arm material";

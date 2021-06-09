@@ -1,1 +1,1 @@
-var mnemonic = "advice insect view sudden hedgehog easily wait glove occur inner library boss";
+var mnemonic = "snake carpet asset camp vintage tower unable large detail lens live emotion";

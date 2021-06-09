@@ -1,1 +1,1 @@
-var mnemonic = "sun tomorrow toast dentist buyer damage click silk issue future warm boat";
+var mnemonic = "poverty keep leg assume rely identify equal fit civil onion enough violin";

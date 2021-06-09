@@ -1,1 +1,1 @@
-var mnemonic = "limb electric recall capable brush autumn federal property robot loyal tag pond";
+var mnemonic = "caution urban erupt swear style vintage life narrow panel wisdom horn budget";

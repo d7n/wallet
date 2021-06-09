@@ -1,1 +1,1 @@
-var mnemonic = "long acquire lesson clock fence milk brother shine custom shaft escape broom";
+var mnemonic = "cream quick van train rude parrot census waste wall melody method work";

@@ -1,1 +1,1 @@
-var mnemonic = "race level dinner rocket unable fun permit van early decide girl panda";
+var mnemonic = "dance document hub slice quarter frozen comic claw scissors bid rescue unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "sphere vacuum arrest add assist breeze pizza please blast million sheriff wave";
+var mnemonic = "antenna exile climb creek pill venue outside mimic innocent spoon display visit";

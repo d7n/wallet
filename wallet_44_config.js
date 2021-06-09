@@ -1,1 +1,1 @@
-var mnemonic = "enter feed model bag charge lemon milk torch soup diet soup safe";
+var mnemonic = "kiwi index able impact into few canoe venture melody proof settle start";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest icon matrix renew toast zoo mind inch gas bring agree duty";
+var mnemonic = "vendor tiny obscure sketch response lawn regret pact sport mouse release bread";

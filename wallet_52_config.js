@@ -1,1 +1,1 @@
-var mnemonic = "tube satisfy black oven connect whip blast tube toe relax trap bridge";
+var mnemonic = "atom barely ripple virtual agent maple hammer exit bracket ski donkey sibling";

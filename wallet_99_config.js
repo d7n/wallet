@@ -1,1 +1,1 @@
-var mnemonic = "certain inherit organ thumb idea addict great boss canoe brass drastic side";
+var mnemonic = "spell desk box nose forward senior verify element side cram wolf gorilla";

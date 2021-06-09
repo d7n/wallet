@@ -1,1 +1,1 @@
-var mnemonic = "kite tackle point turn cook shell oyster laundry pistol vague verify home";
+var mnemonic = "bronze endorse prosper grunt decline silly obscure hard reopen cross powder cricket";

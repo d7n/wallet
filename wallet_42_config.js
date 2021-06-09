@@ -1,1 +1,1 @@
-var mnemonic = "fun habit because spirit settle season pause cereal sheriff gate bonus atom";
+var mnemonic = "swear sight dial spend rotate target genius first actual razor blast leaf";

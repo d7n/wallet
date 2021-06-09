@@ -1,1 +1,1 @@
-var mnemonic = "nominee reward afford tomato universe then come hidden kitchen wide fire fury";
+var mnemonic = "gaze wet actual corn goose spray choose trend swift already cherry glad";

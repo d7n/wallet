@@ -1,1 +1,1 @@
-var mnemonic = "put stomach talk because quantum hood stadium lady sure iron expect piano";
+var mnemonic = "couch loop later inhale jealous crucial stem lawn rule subject royal spot";

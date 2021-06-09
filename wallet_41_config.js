@@ -1,1 +1,1 @@
-var mnemonic = "legal patch crane library pelican need lawsuit entire write fame basket clay";
+var mnemonic = "across senior cactus ticket close zebra title work exchange breeze tunnel risk";

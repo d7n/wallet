@@ -1,1 +1,1 @@
-var mnemonic = "hurry tide license finish panel dove armor skate tiger midnight wonder oblige";
+var mnemonic = "brave globe zone cigar wash pizza dial crucial bunker bomb breeze sibling";

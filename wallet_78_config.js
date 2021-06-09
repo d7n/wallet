@@ -1,1 +1,1 @@
-var mnemonic = "wool parent acid divide heart lion later syrup silent steak bitter law";
+var mnemonic = "moral rescue inside void satisfy robust audit luxury zone view imitate other";

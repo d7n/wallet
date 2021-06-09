@@ -1,1 +1,1 @@
-var mnemonic = "raise helmet carry sail south title diagram gasp window two kit shock";
+var mnemonic = "organ simple flower response divide try distance stage soup find pig among";

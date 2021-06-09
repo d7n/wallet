@@ -1,1 +1,1 @@
-var mnemonic = "mesh grid despair atom auto ahead old marriage scan advance organ assist";
+var mnemonic = "merge coffee brand dust dust deal ocean forward curious pitch bridge indoor";

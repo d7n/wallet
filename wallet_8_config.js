@@ -1,1 +1,1 @@
-var mnemonic = "invest proof science share afraid solid someone ramp say main opera hungry";
+var mnemonic = "keep summer height describe erode click text torch absurd tip metal carbon";

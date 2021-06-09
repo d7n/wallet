@@ -1,1 +1,1 @@
-var mnemonic = "sugar smile violin luggage damage antenna chest enable sunset curious tip sorry";
+var mnemonic = "you lounge car tuna hurdle brand happy fossil rug civil transfer brother";

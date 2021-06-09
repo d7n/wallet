@@ -1,1 +1,1 @@
-var mnemonic = "rabbit fit figure auto enlist kitchen message inspire language stumble pilot owner";
+var mnemonic = "slight toddler giraffe unveil ribbon burden subject game apart stairs moral short";

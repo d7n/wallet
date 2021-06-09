@@ -1,1 +1,1 @@
-var mnemonic = "lecture tube blouse august buzz truth insane black reward bid stand kit";
+var mnemonic = "win round melody post iron type universe coast slim luggage essay truth";

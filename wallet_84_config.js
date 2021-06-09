@@ -1,1 +1,1 @@
-var mnemonic = "slot tobacco normal either pact oven tiger blossom suspect gap west clump";
+var mnemonic = "jacket void ticket chair deny want index laundry excuse good pigeon occur";

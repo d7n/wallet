@@ -1,1 +1,1 @@
-var mnemonic = "wash tray there struggle dolphin festival hood photo elegant same athlete luggage";
+var mnemonic = "fever govern now second globe near merry prosper essay angle jelly public";

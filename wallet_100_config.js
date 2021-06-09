@@ -1,1 +1,1 @@
-var mnemonic = "bundle outside stadium verify skirt glimpse basic pink account runway build meat";
+var mnemonic = "clip rug found hen cliff rain rack there baby raw belt sort";

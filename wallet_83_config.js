@@ -1,1 +1,1 @@
-var mnemonic = "vacuum uniform rail year sell baby thumb blush vote must bundle skin";
+var mnemonic = "young team miracle diamond despair kick sell mixed quote claw venue high";

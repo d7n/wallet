@@ -1,1 +1,1 @@
-var mnemonic = "apology adult rally picnic fresh world into fabric indoor hero slice inflict";
+var mnemonic = "author sponsor stick pigeon mesh empower multiply catch used gaze normal auto";

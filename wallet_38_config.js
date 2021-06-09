@@ -1,1 +1,1 @@
-var mnemonic = "leave cotton junior bargain profit obtain kiwi remain try neck bike sock";
+var mnemonic = "energy report sting mistake tornado income trust original castle drum useful gauge";

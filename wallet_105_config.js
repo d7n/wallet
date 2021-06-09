@@ -1,1 +1,1 @@
-var mnemonic = "claim fabric review super shy talent inner settle deer hire divert hammer";
+var mnemonic = "squeeze satisfy salute gaze invite legend book nut wine prepare chef eight";
