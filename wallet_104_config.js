@@ -1,1 +1,1 @@
-var mnemonic = "air afraid venture start any myth behind attack sign wrong poem fog";
+var mnemonic = "replace gloom grass topple duck marine feel tiger success purchase air mushroom";

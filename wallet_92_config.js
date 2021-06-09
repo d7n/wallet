@@ -1,1 +1,1 @@
-var mnemonic = "fury burger rose tongue valve endorse hover olive sugar base hazard capable";
+var mnemonic = "arrange nature captain body detect claim iron bird credit invest wink sadness";

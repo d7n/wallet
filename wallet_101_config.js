@@ -1,1 +1,1 @@
-var mnemonic = "virtual tell gas burden proud tongue quote design first economy tent march";
+var mnemonic = "winner wash solid drift jewel syrup bean train birth angry atom spin";

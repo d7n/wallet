@@ -1,1 +1,1 @@
-var mnemonic = "fame jaguar resemble twist bracket trust peace cement pen dismiss boat practice";
+var mnemonic = "forget three act unfair dove poem index find ugly shuffle donate pig";

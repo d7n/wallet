@@ -1,1 +1,1 @@
-var mnemonic = "ceiling between physical coast perfect clean maple bitter tissue demise meat copy";
+var mnemonic = "list worth aim escape loyal clever approve valley gaze eternal near wise";

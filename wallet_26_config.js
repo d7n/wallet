@@ -1,1 +1,1 @@
-var mnemonic = "narrow crime wage super unlock estate fetch unit tackle noise cup glad";
+var mnemonic = "boil artwork spring trash box flat cricket slush escape phrase outdoor repair";

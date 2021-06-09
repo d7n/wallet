@@ -1,1 +1,1 @@
-var mnemonic = "process danger slot neck upset minute tragic bring earn speed scrap erupt";
+var mnemonic = "speed atom reunion young sick win pole angle flush great olive gloom";

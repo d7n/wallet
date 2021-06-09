@@ -1,1 +1,1 @@
-var mnemonic = "similar domain evolve any teach ability beauty defy north jungle visual popular";
+var mnemonic = "code reveal neglect believe extra damage scatter gate flash jungle quantum private";

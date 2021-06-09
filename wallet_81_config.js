@@ -1,1 +1,1 @@
-var mnemonic = "hire ecology spread spot panther zebra ride bulk party wide hobby cousin";
+var mnemonic = "balance hockey glimpse doctor solve direct neutral among apart cart purity absorb";

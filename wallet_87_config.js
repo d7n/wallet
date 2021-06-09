@@ -1,1 +1,1 @@
-var mnemonic = "judge horror tunnel they predict occur summer rookie later rigid zero ice";
+var mnemonic = "axis kingdom child oppose bone easy unfair gaze flat stumble more state";

@@ -1,1 +1,1 @@
-var mnemonic = "wink pitch over banana knife random detect torch domain hockey drink protect";
+var mnemonic = "attitude dice weasel bacon frog pen cinnamon unit hole hip riot foot";

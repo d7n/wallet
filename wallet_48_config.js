@@ -1,1 +1,1 @@
-var mnemonic = "orphan dutch child ghost cinnamon install draw face almost flip permit embody";
+var mnemonic = "quick mansion speak hub ride north survey board cream minute gather cost";

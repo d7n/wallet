@@ -1,1 +1,1 @@
-var mnemonic = "wild chef shoot tired whisper hold expect cattle lava invest east chair";
+var mnemonic = "dinner orchard mom build vacant poet certain pony conduct rotate vocal weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "payment engine embrace episode evolve long sample coach ghost rain crew reform";
+var mnemonic = "copper length unfold poet tank half craft admit wrestle undo daring result";

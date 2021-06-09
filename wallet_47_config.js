@@ -1,1 +1,1 @@
-var mnemonic = "village normal link material color spread lab such copy position refuse trophy";
+var mnemonic = "tongue inhale govern project enrich wheat wait peasant cloud inspire this syrup";

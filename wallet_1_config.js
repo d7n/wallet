@@ -1,1 +1,1 @@
-var mnemonic = "ranch autumn group then hole pass story tell rival kit play reason";
+var mnemonic = "pole embark save tooth work above season ask tribe man stamp banana";

@@ -1,1 +1,1 @@
-var mnemonic = "crash useless purity oyster crisp glimpse female spin upgrade doctor deputy office";
+var mnemonic = "pole august bid simple spell speak upper sure glimpse elegant average spread";

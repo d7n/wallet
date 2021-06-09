@@ -1,1 +1,1 @@
-var mnemonic = "animal nasty media bench tuna cruise copy punch elder despair paddle six";
+var mnemonic = "call front mail unveil final armed boss flash lock float song sunset";

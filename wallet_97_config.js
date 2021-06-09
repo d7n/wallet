@@ -1,1 +1,1 @@
-var mnemonic = "ship jeans accuse find oxygen spread genius hawk task fiction share accident";
+var mnemonic = "mention recipe slush lottery mandate derive situate oxygen margin civil pill nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "arena gallery oyster color business town can fault enrich erupt play behave";
+var mnemonic = "soft you useless october slight entry behave dwarf puzzle test despair defense";

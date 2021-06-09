@@ -1,1 +1,1 @@
-var mnemonic = "mix great valley blood convince better slide dog drip start convince decline";
+var mnemonic = "delay coconut orbit squirrel cruise duty room account tiger crater cattle artefact";

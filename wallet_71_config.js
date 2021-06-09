@@ -1,1 +1,1 @@
-var mnemonic = "car anger load resource apart lizard aisle rapid expand chicken check eye";
+var mnemonic = "slam edge joke term pudding gain staff citizen scissors bracket cradle obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory uncover warfare pause example trial limb execute web youth shuffle business";
+var mnemonic = "siren layer butter bless negative someone acid aunt dial donate cricket gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "agree ask what stairs urban divert nation also profit drama artist swing";
+var mnemonic = "urban vivid setup puppy sustain gravity snake asset wealth bag skull aspect";

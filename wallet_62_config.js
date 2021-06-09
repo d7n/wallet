@@ -1,1 +1,1 @@
-var mnemonic = "intact super grocery dance decline cart assault guess all fame weapon fan";
+var mnemonic = "fat critic forward target seven slide real effort hire hat hole youth";

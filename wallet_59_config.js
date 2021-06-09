@@ -1,1 +1,1 @@
-var mnemonic = "athlete icon ritual right weapon frost congress intact agree maple fat chuckle";
+var mnemonic = "loud wave left blood cheese dirt off tattoo amount spoon cool purse";

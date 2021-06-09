@@ -1,1 +1,1 @@
-var mnemonic = "enrich rapid flee assault crazy hero romance gym grid car arrive talk";
+var mnemonic = "twin potato marriage innocent rally good mesh path diesel talent illness tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "reform wing fire fix knee word excess pretty frequent access right genuine";
+var mnemonic = "upset reflect ahead item settle extend develop valley drink neutral print dry";

@@ -1,1 +1,1 @@
-var mnemonic = "curious hover assault blanket quality shoulder liquid unveil sponsor search cloud tornado";
+var mnemonic = "fruit sweet shy bridge warm display worth riot garlic unlock borrow fringe";

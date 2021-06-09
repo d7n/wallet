@@ -1,1 +1,1 @@
-var mnemonic = "inspire squirrel ancient leisure unknown else food make spray farm pigeon pencil";
+var mnemonic = "milk sock delay rocket keep kitten there rebel because cliff minor chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "year ridge fat accident amateur average hope fee region process modify usage";
+var mnemonic = "talk grab borrow business melody mad cupboard insane observe siege viable sure";

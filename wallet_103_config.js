@@ -1,1 +1,1 @@
-var mnemonic = "canvas fly ill gorilla ball blast lizard salon hero ribbon crucial hedgehog";
+var mnemonic = "tattoo session parent plug empower later chef already reveal fence sound defy";

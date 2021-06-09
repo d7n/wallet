@@ -1,1 +1,1 @@
-var mnemonic = "swing west cake subway kingdom near diesel teach discover book loud grow";
+var mnemonic = "immense pioneer purpose dune conduct illegal among average spoil local file finish";

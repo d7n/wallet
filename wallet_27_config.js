@@ -1,1 +1,1 @@
-var mnemonic = "lonely involve bitter spoon health century nice load hybrid despair immune angry";
+var mnemonic = "elbow federal notice rotate judge hover crush boil denial ring mimic unit";

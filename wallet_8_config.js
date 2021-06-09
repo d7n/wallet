@@ -1,1 +1,1 @@
-var mnemonic = "connect impulse sustain nothing ginger edge time canyon lava staff segment rescue";
+var mnemonic = "ostrich start build library zoo guard access anchor year leg immense interest";

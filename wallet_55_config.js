@@ -1,1 +1,1 @@
-var mnemonic = "carpet diary clutch clown deputy nice remain legal weird torch half fever";
+var mnemonic = "talk punch fitness language still type public nerve permit spatial energy skull";

@@ -1,1 +1,1 @@
-var mnemonic = "badge achieve kiss jaguar addict zone crush front razor believe curtain during";
+var mnemonic = "bench retire flush faint trigger famous opera squeeze mushroom option salute october";

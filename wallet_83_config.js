@@ -1,1 +1,1 @@
-var mnemonic = "dolphin despair firm chronic pledge gather panic capital faculty market busy venture";
+var mnemonic = "canvas priority twenty achieve luggage camera suffer saddle step bike system drive";

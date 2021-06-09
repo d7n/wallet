@@ -1,1 +1,1 @@
-var mnemonic = "nose motion kit airport medal dragon east blast decrease below all neutral";
+var mnemonic = "lava island turn hair water method dumb benefit client oval film time";

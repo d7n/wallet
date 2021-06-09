@@ -1,1 +1,1 @@
-var mnemonic = "slim type zebra coconut proud chapter actor train team dream vacant powder";
+var mnemonic = "fade ability point mixture thrive reform tenant prize confirm fossil denial gas";

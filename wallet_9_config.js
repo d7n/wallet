@@ -1,1 +1,1 @@
-var mnemonic = "wire donate harsh opinion match own youth ring joke next manual ghost";
+var mnemonic = "symptom share voyage text dismiss narrow palm swim lava scan rabbit captain";

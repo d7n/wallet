@@ -1,1 +1,1 @@
-var mnemonic = "scale wife sustain lyrics eight rough donkey tuition lion water prison together";
+var mnemonic = "poem mushroom chair name regret explain citizen country hint olive join measure";

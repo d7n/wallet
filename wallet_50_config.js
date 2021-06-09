@@ -1,1 +1,1 @@
-var mnemonic = "unveil cannon fee earn wear shadow enlist common wink happy accuse glass";
+var mnemonic = "will amount lazy pupil fluid slender rare pumpkin february dog hint blind";

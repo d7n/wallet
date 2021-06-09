@@ -1,1 +1,1 @@
-var mnemonic = "appear trap region dress upper pudding great pizza song exotic area stairs";
+var mnemonic = "rice leaf joke aware front glide round ship logic raise write debris";

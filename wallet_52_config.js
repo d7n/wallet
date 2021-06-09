@@ -1,1 +1,1 @@
-var mnemonic = "usual collect drum shift flip correct avocado salute roof spread mom announce";
+var mnemonic = "avoid tomato dry neutral rally olive border awesome sign another spike media";

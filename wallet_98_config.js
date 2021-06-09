@@ -1,1 +1,1 @@
-var mnemonic = "over laptop top barrel dog avoid father seek pistol make gap kit";
+var mnemonic = "meat alpha extend boat mercy parent mosquito arrow legal health wheel tail";

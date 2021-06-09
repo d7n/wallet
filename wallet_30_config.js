@@ -1,1 +1,1 @@
-var mnemonic = "enact path empty reject above beyond satisfy glimpse ribbon famous balcony feel";
+var mnemonic = "wool gift nephew rib reject party throw proud evil penalty accident marriage";

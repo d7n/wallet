@@ -1,1 +1,1 @@
-var mnemonic = "nasty neck skirt dizzy wealth foot chat purpose emotion disagree ball height";
+var mnemonic = "sausage bar erode curious trick pink foster galaxy end resource flight stool";

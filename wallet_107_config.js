@@ -1,1 +1,1 @@
-var mnemonic = "coast captain catalog grit mansion bacon industry million mystery company cargo guilt";
+var mnemonic = "insane suggest either ankle tool cup over near typical spike gesture demand";

@@ -1,1 +1,1 @@
-var mnemonic = "arch custom pen myself private accident tired exotic stable can power ethics";
+var mnemonic = "crime pudding install glad attract toddler govern critic leopard stuff expect general";

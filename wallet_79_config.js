@@ -1,1 +1,1 @@
-var mnemonic = "ring wild release slight arch fit minute exit broccoli foil announce volcano";
+var mnemonic = "hotel pole wet grunt beach question alcohol axis field patrol praise rack";

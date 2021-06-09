@@ -1,1 +1,1 @@
-var mnemonic = "hand clump idea around tissue hub retreat curve knee prison surge phrase";
+var mnemonic = "cigar gloom whip whisper heavy length giraffe peasant symbol purity spatial claim";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt job mad reason slim middle power daring volcano envelope retire weather";
+var mnemonic = "start bunker jump cement primary swear sadness fragile inmate reunion early mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom neither crouch rule meat disorder soccer excess actor you equip yellow";
+var mnemonic = "caution idle beach man belt case sentence accident gift wonder insane soft";

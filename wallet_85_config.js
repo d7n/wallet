@@ -1,1 +1,1 @@
-var mnemonic = "scrap firm apart wage alter sign minimum indoor phrase certain prison myth";
+var mnemonic = "web mixture depend burden goddess leisure avocado satisfy push frozen depart donate";

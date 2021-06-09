@@ -1,1 +1,1 @@
-var mnemonic = "repair cinnamon arrow now horn ship rice wink reason before confirm defy";
+var mnemonic = "pattern shock twice pen embark fish tooth swallow scene sort vibrant pattern";

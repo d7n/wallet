@@ -1,1 +1,1 @@
-var mnemonic = "member parent away sketch buddy unlock grace design clerk release vendor knife";
+var mnemonic = "party rail never road fence fan obvious brand dish napkin more farm";

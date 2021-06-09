@@ -1,1 +1,1 @@
-var mnemonic = "similar recipe actress convince core bird bid advance train assist near clinic";
+var mnemonic = "modify rebel between huge fan embrace crew beauty salad embark season bunker";

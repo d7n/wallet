@@ -1,1 +1,1 @@
-var mnemonic = "raise metal grow armed review arrest half rival glove warm path copy";
+var mnemonic = "yard bleak panic alter circle color normal across erosion net useful actress";

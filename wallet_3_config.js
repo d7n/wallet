@@ -1,1 +1,1 @@
-var mnemonic = "fortune soap wealth novel broken across similar dentist coconut flat engage winner";
+var mnemonic = "rally orange tip bag visa image actor fit keen ghost tide life";

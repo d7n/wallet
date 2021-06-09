@@ -1,1 +1,1 @@
-var mnemonic = "apart dog reject syrup clever cigar sketch vibrant sign animal face toward";
+var mnemonic = "lunch border biology leave holiday steak tomorrow crush poverty awful nation estate";

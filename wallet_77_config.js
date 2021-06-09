@@ -1,1 +1,1 @@
-var mnemonic = "until wrestle oxygen guard medal unfair side celery blossom fashion away drastic";
+var mnemonic = "decline decade search stool pink bundle track industry utility squeeze soon physical";

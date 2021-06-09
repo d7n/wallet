@@ -1,1 +1,1 @@
-var mnemonic = "aim easy urge host concert repair talk occur foot shrug sweet spawn";
+var mnemonic = "rival retreat maple rapid search boost high course letter forget rhythm amused";

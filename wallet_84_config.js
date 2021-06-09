@@ -1,1 +1,1 @@
-var mnemonic = "camp train roast visa upgrade digital cruise catch endorse diesel bargain such";
+var mnemonic = "jump arrest unit easy elbow jewel fish ranch wagon dad fantasy service";

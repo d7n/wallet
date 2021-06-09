@@ -1,1 +1,1 @@
-var mnemonic = "answer speed diet early hotel desert april devote million climb despair disease";
+var mnemonic = "vehicle burden satoshi praise panic siren bacon key lunch yellow retreat since";

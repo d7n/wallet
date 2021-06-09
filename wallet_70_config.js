@@ -1,1 +1,1 @@
-var mnemonic = "gentle volcano direct heart defense faint winner lesson scale shy wall dust";
+var mnemonic = "garden coil upset cable merry rely cake crew split dry caution daughter";

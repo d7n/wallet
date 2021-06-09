@@ -1,1 +1,1 @@
-var mnemonic = "inspire more season pudding float feel chalk cricket fitness teach coconut habit";
+var mnemonic = "palm sad capable feel ethics grief around lecture moral bar refuse estate";

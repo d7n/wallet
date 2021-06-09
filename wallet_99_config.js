@@ -1,1 +1,1 @@
-var mnemonic = "cool captain power car text grit bubble confirm loop fall tell question";
+var mnemonic = "skill nephew exclude hockey add dutch industry enable tape never direct soda";

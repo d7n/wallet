@@ -1,1 +1,1 @@
-var mnemonic = "damage cargo all dwarf home dad melt clay wise boy benefit fashion";
+var mnemonic = "beach effort already better snake shy blast blade level velvet strike fatigue";

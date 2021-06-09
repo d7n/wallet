@@ -1,1 +1,1 @@
-var mnemonic = "marine item crush fashion holiday process fiction wonder artwork square notable number";
+var mnemonic = "brief snack symbol toward lottery trial silly melt rural clown flight process";

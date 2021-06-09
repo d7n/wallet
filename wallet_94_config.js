@@ -1,1 +1,1 @@
-var mnemonic = "call history media hedgehog acid cage swear will length write example pond";
+var mnemonic = "stumble stamp fish smooth floor pioneer memory cliff hello excuse amused left";

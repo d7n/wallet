@@ -1,1 +1,1 @@
-var mnemonic = "dinner hotel tenant tragic peasant unable project zone trophy critic aerobic enforce";
+var mnemonic = "wet celery boost slide friend brush say popular industry blind milk asthma";

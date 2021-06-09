@@ -1,1 +1,1 @@
-var mnemonic = "brush black ahead point lock olive anger canal confirm inherit science company";
+var mnemonic = "glass search boat payment output music south clarify sugar tide spread runway";

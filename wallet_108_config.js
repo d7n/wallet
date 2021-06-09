@@ -1,1 +1,1 @@
-var mnemonic = "casino skirt humor pilot about hole sponsor shrimp label champion source release";
+var mnemonic = "arctic exchange clay busy popular hazard donate onion expose short immense box";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus length pet raccoon render strong trumpet mechanic lunar canal patient innocent";
+var mnemonic = "employ object about punch stage bone gentle dust fashion light shop mountain";

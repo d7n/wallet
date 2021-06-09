@@ -1,1 +1,1 @@
-var mnemonic = "wrestle crop latin portion cash parent glue visa crouch way admit primary";
+var mnemonic = "noodle tornado again phone pepper truly practice razor gas grocery spare hotel";

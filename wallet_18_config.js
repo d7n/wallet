@@ -1,1 +1,1 @@
-var mnemonic = "blame engage document kitchen express solve enough vote plunge swarm rain pizza";
+var mnemonic = "whisper toss pony problem crew risk joy exercise strategy current cargo play";

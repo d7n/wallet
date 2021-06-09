@@ -1,1 +1,1 @@
-var mnemonic = "word vicious jewel anxiety emerge benefit girl order planet siege food pear";
+var mnemonic = "absurd aware glass loop cram neutral exclude dizzy visit provide convince ocean";

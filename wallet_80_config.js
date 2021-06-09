@@ -1,1 +1,1 @@
-var mnemonic = "plunge title flag soon frown bronze news share seek beauty detect scale";
+var mnemonic = "gauge spatial large fix spot enable egg impose bicycle enlist bench gospel";

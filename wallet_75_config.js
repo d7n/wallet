@@ -1,1 +1,1 @@
-var mnemonic = "script stereo remove chef organ shed siren example pumpkin pizza scan half";
+var mnemonic = "wedding hip capable marble eager blood old shed unfair program rent fortune";

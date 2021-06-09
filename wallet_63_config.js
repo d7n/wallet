@@ -1,1 +1,1 @@
-var mnemonic = "pretty fire ball return used jazz amount rabbit mimic version awesome job";
+var mnemonic = "primary oval cinnamon faith stereo aware candy improve antique jelly arrive over";

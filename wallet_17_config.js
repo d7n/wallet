@@ -1,1 +1,1 @@
-var mnemonic = "salmon front together swarm critic double surprise random obtain inherit need finger";
+var mnemonic = "rescue lamp problem jazz hawk detail accuse inmate apart fox silver valve";

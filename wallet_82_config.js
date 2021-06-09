@@ -1,1 +1,1 @@
-var mnemonic = "settle wear world foster budget night cactus letter slender grief usage leader";
+var mnemonic = "gossip spray income torch pilot wealth cream guess sock inch town monkey";

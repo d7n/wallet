@@ -1,1 +1,1 @@
-var mnemonic = "token favorite any index pipe junior sense news option issue talent walk";
+var mnemonic = "fly ill habit drip cup enlist lecture orbit camp floor country ring";
