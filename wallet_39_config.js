@@ -1,1 +1,1 @@
-var mnemonic = "can correct canyon theory fossil park spider include shaft faint angry bicycle";
+var mnemonic = "divide already conduct cave key gentle pride weather guilt safe mixed east";

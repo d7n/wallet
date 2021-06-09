@@ -1,1 +1,1 @@
-var mnemonic = "will aerobic tuition flower employ prepare source blade monitor base nose cost";
+var mnemonic = "peasant toilet ship grow general torch seek nest noble shell tail harvest";

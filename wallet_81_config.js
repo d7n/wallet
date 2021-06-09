@@ -1,1 +1,1 @@
-var mnemonic = "fish private ill vibrant hat describe crunch involve dream mistake soft gadget";
+var mnemonic = "hotel history basket sample almost glare sample violin all sock twin scale";

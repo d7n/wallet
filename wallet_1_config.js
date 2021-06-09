@@ -1,1 +1,1 @@
-var mnemonic = "fly panic doctor nerve desert satoshi promote polar crystal noble knock replace";
+var mnemonic = "order between blood custom carbon ankle twice vanish culture maximum stuff please";

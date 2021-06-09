@@ -1,1 +1,1 @@
-var mnemonic = "fury inflict object only century dizzy regret box sudden concert click timber";
+var mnemonic = "miss source diary finger mimic friend balcony shock funny switch bonus unable";

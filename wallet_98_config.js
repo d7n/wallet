@@ -1,1 +1,1 @@
-var mnemonic = "cost cross cruel horror left lunar aspect sell swarm diagram crush raven";
+var mnemonic = "elite supreme budget wrestle test foam survey broken right license sphere liquid";

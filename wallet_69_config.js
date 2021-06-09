@@ -1,1 +1,1 @@
-var mnemonic = "amateur volcano boring dutch expand wear spoon sign exchange memory fuel address";
+var mnemonic = "arrange pole time kitchen stuff abstract marriage card duck moon zoo tank";

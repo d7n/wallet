@@ -1,1 +1,1 @@
-var mnemonic = "luggage until smart margin tissue brief shaft wage tower circle usual until";
+var mnemonic = "box vessel seek grace element weird loan baby arena mechanic casual figure";

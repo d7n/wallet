@@ -1,1 +1,1 @@
-var mnemonic = "know pizza odor renew you order jewel market asset grab lake squirrel";
+var mnemonic = "eight soup river layer huge divert furnace stock furnace hair dilemma talent";

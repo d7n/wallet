@@ -1,1 +1,1 @@
-var mnemonic = "skin diary patch blanket assist kind shell audit essay merge lazy yard";
+var mnemonic = "agent beach veteran laptop mixture jump need ball spot bleak stem security";

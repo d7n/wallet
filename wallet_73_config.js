@@ -1,1 +1,1 @@
-var mnemonic = "drastic toss wheat limb coyote jump hungry hill harbor heart habit code";
+var mnemonic = "ethics core flame roof drama morning ugly flash minute moon private home";

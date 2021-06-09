@@ -1,1 +1,1 @@
-var mnemonic = "organ brother glimpse bus arrive always slush annual baby family tooth gentle";
+var mnemonic = "basic visa ten wisdom sausage fabric heavy wrestle noodle swamp tiny script";

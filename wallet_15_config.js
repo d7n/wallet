@@ -1,1 +1,1 @@
-var mnemonic = "buddy autumn body join elevator list stomach vote cart claw obvious kiwi";
+var mnemonic = "setup fly solar knife audit actress humble volume sort vivid bicycle shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "merit search parent all nephew position horror abstract clip muscle tuition swim";
+var mnemonic = "entire aware anchor sunset math parent tennis great liquid slide record fragile";

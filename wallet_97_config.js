@@ -1,1 +1,1 @@
-var mnemonic = "merge copy airport banana jewel noise million intact glimpse six animal smoke";
+var mnemonic = "prepare initial regular link churn drum supply flower decline rely patch involve";

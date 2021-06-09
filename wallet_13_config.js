@@ -1,1 +1,1 @@
-var mnemonic = "unhappy index upgrade obvious history remember clever erode weather belt sense seat";
+var mnemonic = "alien scorpion left list away choice gun another will rude strategy humble";

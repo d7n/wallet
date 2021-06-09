@@ -1,1 +1,1 @@
-var mnemonic = "critic broccoli wool grape salmon rice novel reflect degree result track goat";
+var mnemonic = "pumpkin bargain exchange now hammer math level dream cat race era renew";

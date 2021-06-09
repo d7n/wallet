@@ -1,1 +1,1 @@
-var mnemonic = "edit speed menu valve spoil diamond lottery unlock sweet quiz silver rotate";
+var mnemonic = "waste anxiety divert happy alarm depend attack ketchup plastic seek risk soup";

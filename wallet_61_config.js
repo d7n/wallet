@@ -1,1 +1,1 @@
-var mnemonic = "horror coyote perfect hope spread snow cigar jacket scout light release dial";
+var mnemonic = "chapter medal gadget reveal denial offer squeeze shoe parrot clip myth express";

@@ -1,1 +1,1 @@
-var mnemonic = "strong chunk birth vivid girl embark brand green frost derive hip various";
+var mnemonic = "hungry junk miracle club issue drink program dizzy sauce coffee brother obtain";

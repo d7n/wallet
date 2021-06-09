@@ -1,1 +1,1 @@
-var mnemonic = "observe okay file any super skin name program present poem awake viable";
+var mnemonic = "glass rack radar magic enemy grass swap february cotton time inhale satisfy";

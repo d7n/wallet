@@ -1,1 +1,1 @@
-var mnemonic = "length soon dolphin time shoe faculty kiwi fantasy around honey memory upon";
+var mnemonic = "soul analyst muscle wrap sustain reunion fan slot fatal lens plate unlock";

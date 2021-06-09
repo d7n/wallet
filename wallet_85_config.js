@@ -1,1 +1,1 @@
-var mnemonic = "call grab dwarf morning void dress kiss gadget metal end foot debris";
+var mnemonic = "deposit risk genre will test armed borrow bundle myself unhappy blush woman";

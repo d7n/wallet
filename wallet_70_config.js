@@ -1,1 +1,1 @@
-var mnemonic = "view volcano clip deposit cargo copper select crash state cousin cover visa";
+var mnemonic = "magnet raw sausage ahead early actual answer purse train merry goat verb";

@@ -1,1 +1,1 @@
-var mnemonic = "police carbon help globe column chaos visa ranch sentence crash whisper sudden";
+var mnemonic = "ill napkin ecology ladder tired cheap already enough chief memory punch boy";

@@ -1,1 +1,1 @@
-var mnemonic = "spend scale believe dawn awake year mix submit waste army harbor fall";
+var mnemonic = "leaf soldier ring pledge jacket lemon sound pyramid stock ten figure mobile";

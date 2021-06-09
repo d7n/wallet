@@ -1,1 +1,1 @@
-var mnemonic = "sell divert renew bomb present either sock debris shift menu elevator taxi";
+var mnemonic = "inch cluster canyon urban autumn carpet glide deposit service leopard planet consider";

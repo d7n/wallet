@@ -1,1 +1,1 @@
-var mnemonic = "vault grow hat blue grace praise brown online dry unusual weapon sadness";
+var mnemonic = "eagle over awesome enact dragon satisfy swap cloud patch equal daughter peasant";

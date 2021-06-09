@@ -1,1 +1,1 @@
-var mnemonic = "lend leave second puzzle road staff oyster entire collect apart budget donate";
+var mnemonic = "million rhythm able burger flash stool vessel cheap dragon family end remove";

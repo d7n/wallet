@@ -1,1 +1,1 @@
-var mnemonic = "custom agent hood alcohol scout naive ceiling sheriff expect brother good model";
+var mnemonic = "cereal fringe vital net alone wheel rose feature direct deputy lake galaxy";

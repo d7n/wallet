@@ -1,1 +1,1 @@
-var mnemonic = "gaze rather orange wet toy soccer amazing fuel either brown glare special";
+var mnemonic = "ranch erosion patient rug better love infant pioneer glad bird give slender";

@@ -1,1 +1,1 @@
-var mnemonic = "fever slot gasp crumble clump market judge ice aunt broom raise faculty";
+var mnemonic = "abuse jar grid planet fatigue list rare insane provide valley prosper quantum";

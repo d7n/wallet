@@ -1,1 +1,1 @@
-var mnemonic = "chef salmon audit lake post good merge oval athlete lecture oak meat";
+var mnemonic = "guitar marine height coil rug about outdoor tackle pink sort eyebrow observe";

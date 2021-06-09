@@ -1,1 +1,1 @@
-var mnemonic = "total small zone feel cheese draft mix circle position object cheap gather";
+var mnemonic = "lift win food welcome actor arm draw present congress alpha strong manual";

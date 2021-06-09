@@ -1,1 +1,1 @@
-var mnemonic = "option drive lens surface canyon insane fantasy else basket tongue donate east";
+var mnemonic = "exact moral problem replace wash coral desert shrug minute ancient trial grunt";

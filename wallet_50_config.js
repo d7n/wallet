@@ -1,1 +1,1 @@
-var mnemonic = "force chapter image muffin exile tone dish essay typical identify draft fog";
+var mnemonic = "tip found system spoon more flee edge sponsor fluid dress music boat";

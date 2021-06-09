@@ -1,1 +1,1 @@
-var mnemonic = "soon warfare middle oxygen minimum imitate away wise vapor marriage video vault";
+var mnemonic = "random solar basic fashion onion tortoise remain endless enforce slice enemy test";

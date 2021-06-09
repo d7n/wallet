@@ -1,1 +1,1 @@
-var mnemonic = "ecology patient unveil pen valley bind there special knee finish fantasy average";
+var mnemonic = "gold angry about junior mom forum lock member impulse profit hobby sight";

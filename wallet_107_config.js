@@ -1,1 +1,1 @@
-var mnemonic = "theme friend employ cloud unveil indoor sweet bacon draw drift wild seat";
+var mnemonic = "raw bubble pink angry way park define fat toy chief rose multiply";

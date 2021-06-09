@@ -1,1 +1,1 @@
-var mnemonic = "girl real blame response crack stock road file veteran ceiling bench shoulder";
+var mnemonic = "habit cart wash viable grow token input repair general hybrid cross region";

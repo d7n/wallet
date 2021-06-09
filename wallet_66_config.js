@@ -1,1 +1,1 @@
-var mnemonic = "dream palm cup scale kick bachelor orchard someone version design acquire shop";
+var mnemonic = "cycle muscle material rifle aisle myself circle sense ready skull glory forward";

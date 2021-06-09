@@ -1,1 +1,1 @@
-var mnemonic = "early derive census receive empower equip wait gauge private shock grant type";
+var mnemonic = "title umbrella angry trouble crystal eyebrow lift gravity during boost decrease narrow";

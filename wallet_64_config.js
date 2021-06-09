@@ -1,1 +1,1 @@
-var mnemonic = "depth upset invite cattle good baby sure scrap need extra ribbon brisk";
+var mnemonic = "success wreck hunt symptom token protect impose bronze say hurry tag retreat";

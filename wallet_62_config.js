@@ -1,1 +1,1 @@
-var mnemonic = "palace problem sport mouse convince want own physical brother museum payment problem";
+var mnemonic = "version dizzy success small jeans odor congress defy fitness reward fit harsh";

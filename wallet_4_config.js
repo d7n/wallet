@@ -1,1 +1,1 @@
-var mnemonic = "safe force side sport chronic ticket endorse announce ugly measure glare tissue";
+var mnemonic = "pen trophy tomato ring road hint ginger special bundle input quality sadness";

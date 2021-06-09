@@ -1,1 +1,1 @@
-var mnemonic = "raise inmate diagram account noise require girl jar social actual skin slogan";
+var mnemonic = "dwarf pistol surprise gate want wreck face region foil leisure smart meat";

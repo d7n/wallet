@@ -1,1 +1,1 @@
-var mnemonic = "devote credit fork maple banana almost simple bind quarter alarm tray cable";
+var mnemonic = "north imitate humor tribe myself omit call audit street print stairs much";

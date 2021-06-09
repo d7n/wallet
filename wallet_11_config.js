@@ -1,1 +1,1 @@
-var mnemonic = "oppose spy simple decorate position relax slam copper enable honey museum upon";
+var mnemonic = "music cart afford choose verify actress eagle odor hover pond mule skate";

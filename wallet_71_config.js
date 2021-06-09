@@ -1,1 +1,1 @@
-var mnemonic = "powder point luggage quit uncle token goat napkin library junior jump have";
+var mnemonic = "casual long olive tattoo device team wine circle urban convince waste dentist";

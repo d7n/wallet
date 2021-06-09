@@ -1,1 +1,1 @@
-var mnemonic = "champion scout duty bridge debris unveil nephew ritual label coin dash tell";
+var mnemonic = "name little welcome steak birth dawn dish erupt settle scrap enact wedding";

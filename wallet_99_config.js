@@ -1,1 +1,1 @@
-var mnemonic = "kitten blouse easily phone like burst fat suit gold chaos depth inhale";
+var mnemonic = "legal vast arm okay differ happy march issue vague toddler evolve high";

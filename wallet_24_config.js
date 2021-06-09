@@ -1,1 +1,1 @@
-var mnemonic = "cruel assume under border multiply edit globe pelican rail young innocent average";
+var mnemonic = "bomb shallow tail sugar hedgehog confirm beef sock meat okay surge only";

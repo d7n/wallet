@@ -1,1 +1,1 @@
-var mnemonic = "fold fury large evidence brand wild question mix asthma nation primary seek";
+var mnemonic = "erode noodle desk cement expire better drama easy treat old soft orbit";

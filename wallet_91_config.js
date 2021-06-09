@@ -1,1 +1,1 @@
-var mnemonic = "invest ocean dad alpha hold until pool core print prison lizard output";
+var mnemonic = "attitude weapon permit other document engine spatial rescue charge trim suspect often";

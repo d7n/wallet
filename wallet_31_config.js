@@ -1,1 +1,1 @@
-var mnemonic = "base weather mixed winner rice another cube idea hold choice seminar venture";
+var mnemonic = "crater mind husband hover super cattle since surface uniform floor mango tone";

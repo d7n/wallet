@@ -1,1 +1,1 @@
-var mnemonic = "advice stumble toilet online toe receive crawl flee harsh pact combine nephew";
+var mnemonic = "potato region cause choose woman rare dilemma drop good sausage badge rate";

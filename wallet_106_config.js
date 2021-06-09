@@ -1,1 +1,1 @@
-var mnemonic = "address dentist cement remove lab banana glad glow bike muffin jump knock";
+var mnemonic = "aisle finish slide bench black world royal fade step economy random era";

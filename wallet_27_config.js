@@ -1,1 +1,1 @@
-var mnemonic = "nuclear army vague chicken beach festival street farm deputy join flight beyond";
+var mnemonic = "swap party rebuild clog junior enter crumble lunar sea curtain trust urge";

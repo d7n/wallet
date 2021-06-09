@@ -1,1 +1,1 @@
-var mnemonic = "dog fly swamp laptop vivid walnut diamond cook nephew catch dial cup";
+var mnemonic = "either smooth trick jacket list private host praise regular nerve title dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "load rotate arch transfer nerve volcano about post city kiwi afford judge";
+var mnemonic = "depth veteran venue iron ranch bring caution crystal kiwi security spin sick";

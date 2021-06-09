@@ -1,1 +1,1 @@
-var mnemonic = "armed rubber average rubber kitchen million gospel giggle pear ghost leave zoo";
+var mnemonic = "trigger image ten hobby damp mosquito tortoise lobster collect begin trophy nasty";

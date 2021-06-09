@@ -1,1 +1,1 @@
-var mnemonic = "comfort eyebrow anger satisfy wine congress believe account wool match harvest hospital";
+var mnemonic = "yellow repeat kite twist fitness draft version potato decorate faith mail rubber";

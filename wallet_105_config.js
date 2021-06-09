@@ -1,1 +1,1 @@
-var mnemonic = "ivory power brisk cannon approve verb alley forest december pulp code sphere";
+var mnemonic = "desert novel inquiry sock crater airport rapid black brick sting cabin casual";

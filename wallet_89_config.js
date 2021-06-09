@@ -1,1 +1,1 @@
-var mnemonic = "theory boost unit hollow boost bicycle crawl indicate other slide digital great";
+var mnemonic = "defy version wrestle rug vibrant record diagram science time wide tiger route";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase problem hurt miracle cycle royal turn pen panda step note ring";
+var mnemonic = "join route chimney rude equal lucky sunset luxury kiwi usual cactus hamster";

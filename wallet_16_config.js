@@ -1,1 +1,1 @@
-var mnemonic = "nasty garden north pyramid frame ethics tomato receive earn job charge amazing";
+var mnemonic = "stomach midnight daughter tennis tired elephant only drum side magic that turkey";

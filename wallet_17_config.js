@@ -1,1 +1,1 @@
-var mnemonic = "drive rubber grab caught fresh bounce deny win anger library night bounce";
+var mnemonic = "sand blanket comic eight lift rain orbit wage side artist movie punch";

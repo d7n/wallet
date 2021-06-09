@@ -1,1 +1,1 @@
-var mnemonic = "address option wedding shine script together twin brief thank donor message squeeze";
+var mnemonic = "soldier energy walk cabbage program exit harbor lonely liquid globe forest devote";

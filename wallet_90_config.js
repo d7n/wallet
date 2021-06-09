@@ -1,1 +1,1 @@
-var mnemonic = "tell attitude cat over chimney arrive finger asthma sugar repeat apple vivid";
+var mnemonic = "robust also fever catch happy protect space valid service find track office";

@@ -1,1 +1,1 @@
-var mnemonic = "jar girl side boss frost shove hover section raw absurd credit crumble";
+var mnemonic = "provide point govern pave thought call coyote sugar buddy admit pull anger";

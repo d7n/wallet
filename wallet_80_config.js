@@ -1,1 +1,1 @@
-var mnemonic = "secret thunder funny orient dish defense debate minimum alone menu negative advice";
+var mnemonic = "public husband dish payment acid donkey town close hungry violin husband normal";

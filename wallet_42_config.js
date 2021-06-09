@@ -1,1 +1,1 @@
-var mnemonic = "galaxy weapon again abstract hover civil pigeon know trick gaze chicken swing";
+var mnemonic = "vehicle usual file absent tray noodle axis vicious author dismiss window thumb";

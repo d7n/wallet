@@ -1,1 +1,1 @@
-var mnemonic = "bless sibling rather hamster drip crazy still increase refuse woman pole trade";
+var mnemonic = "rural lecture flower sugar service adult crystal shuffle know powder inflict chuckle";

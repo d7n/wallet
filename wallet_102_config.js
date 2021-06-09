@@ -1,1 +1,1 @@
-var mnemonic = "depend remove portion extend kitchen soap result zero expire rural lucky seek";
+var mnemonic = "crystal spider dish wrestle general want panda possible multiply frost kid art";

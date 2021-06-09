@@ -1,1 +1,1 @@
-var mnemonic = "still anxiety tent grow enable manage fall wreck winter list riot layer";
+var mnemonic = "prefer another wear weird cake expose place man abstract skirt invest seven";

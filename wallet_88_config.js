@@ -1,1 +1,1 @@
-var mnemonic = "wash sphere effort game layer permit cry verify machine grunt august mix";
+var mnemonic = "private need artwork hill brass mean card promote salad west symbol habit";

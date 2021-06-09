@@ -1,1 +1,1 @@
-var mnemonic = "dragon turn marble problem you puppy hire young cement language december thing";
+var mnemonic = "business hat snake picture frequent enroll beauty hen person minor volcano strong";

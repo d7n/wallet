@@ -1,1 +1,1 @@
-var mnemonic = "hand frog ghost skin stone wolf forum enact stereo alley dance edge";
+var mnemonic = "problem library honey mystery audit ugly diary put height potato office spawn";

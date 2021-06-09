@@ -1,1 +1,1 @@
-var mnemonic = "secret oxygen route practice capital learn auction vast air sign labor design";
+var mnemonic = "unfair silent winner program cargo space correct insane comic wrestle fancy miss";

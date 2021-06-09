@@ -1,1 +1,1 @@
-var mnemonic = "toe stuff lend owner poverty analyst trial owner neglect setup cattle brave";
+var mnemonic = "believe kid dial suit view trim guard tunnel decide fiction prevent because";

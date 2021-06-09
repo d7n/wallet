@@ -1,1 +1,1 @@
-var mnemonic = "expire affair neck cactus employ deal van talk trust demise target spot";
+var mnemonic = "void pass expect aware reopen approve oblige brain salad grit poem wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "change example chalk royal loan private surge assume eager caution broccoli venture";
+var mnemonic = "emotion attack dismiss mimic success dumb project guard inquiry diary tiger main";

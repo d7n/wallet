@@ -1,1 +1,1 @@
-var mnemonic = "project rail improve review tell evidence purity oak cricket leisure material can";
+var mnemonic = "learn teach fix legal slight surface nice battle index pride march match";

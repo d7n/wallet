@@ -1,1 +1,1 @@
-var mnemonic = "coil swallow push broccoli purity limb option expect young draw school test";
+var mnemonic = "pelican life earn require spring embody yard behave link picture corn caution";
