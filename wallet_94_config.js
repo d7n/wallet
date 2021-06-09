@@ -1,1 +1,1 @@
-var mnemonic = "blush wasp approve follow water decade survey major artwork fold imitate actual";
+var mnemonic = "plastic earth soft sausage erode snack group length tissue unfair biology myth";

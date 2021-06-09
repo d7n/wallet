@@ -1,1 +1,1 @@
-var mnemonic = "quick absurd merge between utility circle become surface modify tiger sketch twenty";
+var mnemonic = "roof ignore dry mansion friend dismiss capable radio rotate flash orange ladder";

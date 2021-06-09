@@ -1,1 +1,1 @@
-var mnemonic = "funny enjoy caught frog hazard ketchup perfect wasp tackle economy glow finger";
+var mnemonic = "rapid recycle exclude equal one apart friend maple glow distance movie occur";

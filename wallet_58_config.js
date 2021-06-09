@@ -1,1 +1,1 @@
-var mnemonic = "one offer daughter shock trend frequent result certain follow brief execute pass";
+var mnemonic = "club point place result torch adapt sleep endorse flame hammer wedding together";

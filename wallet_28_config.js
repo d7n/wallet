@@ -1,1 +1,1 @@
-var mnemonic = "muffin metal lawn galaxy document rich village stadium relief suspect split confirm";
+var mnemonic = "where harvest element mouse pupil pilot nominee allow light decade census come";

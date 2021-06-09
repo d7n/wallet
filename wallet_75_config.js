@@ -1,1 +1,1 @@
-var mnemonic = "result struggle denial patrol novel permit shallow supply short squirrel estate jacket";
+var mnemonic = "edge shrug develop behave slot bamboo globe captain afraid tooth two actor";

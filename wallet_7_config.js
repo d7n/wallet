@@ -1,1 +1,1 @@
-var mnemonic = "slush monster leg news jelly flip strategy actor wisdom boost cargo lion";
+var mnemonic = "sell used fix glow tip unhappy improve sand memory scale dolphin grief";

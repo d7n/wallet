@@ -1,1 +1,1 @@
-var mnemonic = "float switch cannon pitch throw youth valley skirt three rose prize truck";
+var mnemonic = "vacant palace same conduct battle enact run lecture oven unveil marine hundred";

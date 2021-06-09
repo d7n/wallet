@@ -1,1 +1,1 @@
-var mnemonic = "vapor field obvious time peace quit venue reform donkey remain dynamic auto";
+var mnemonic = "bar fossil spot unaware level blade chimney actress execute exchange say jungle";

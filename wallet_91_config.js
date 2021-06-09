@@ -1,1 +1,1 @@
-var mnemonic = "account move celery text friend school supply jacket sport address garage able";
+var mnemonic = "seminar village address evoke hour saddle soccer range quit behave apple indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "library fetch dune equip engage system confirm plate pull memory burger feature";
+var mnemonic = "coral repair girl nephew pair common seed praise predict small balcony limit";

@@ -1,1 +1,1 @@
-var mnemonic = "west exclude verify parrot they unique warrior eight title donate february extra";
+var mnemonic = "deputy name verb grid cluster curious reveal cereal solid define critic found";

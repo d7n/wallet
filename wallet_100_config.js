@@ -1,1 +1,1 @@
-var mnemonic = "fan hobby couple lottery fly actor discover print vital control coach fiction";
+var mnemonic = "erupt armed forest author earth urban later sport clap purse indicate anxiety";

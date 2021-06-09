@@ -1,1 +1,1 @@
-var mnemonic = "verify grant domain armor perfect slice reunion reveal limit copy only witness";
+var mnemonic = "drive scheme mistake drive staff aim unveil hollow second gas review weekend";

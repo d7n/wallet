@@ -1,1 +1,1 @@
-var mnemonic = "danger place add jungle pluck trip lyrics ensure dilemma undo fun night";
+var mnemonic = "price ship result pair film float submit regular nose bench month fantasy";

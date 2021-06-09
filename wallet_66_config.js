@@ -1,1 +1,1 @@
-var mnemonic = "horse cost check admit cricket intact ketchup special equal first ginger elevator";
+var mnemonic = "leopard shrug ribbon input pony stove office chunk brand express sure credit";

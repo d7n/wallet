@@ -1,1 +1,1 @@
-var mnemonic = "foil segment wink cat panther cream forget ready rice remember coil faculty";
+var mnemonic = "word enroll stuff renew awful member rent during consider magic once lake";

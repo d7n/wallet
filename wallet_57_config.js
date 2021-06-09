@@ -1,1 +1,1 @@
-var mnemonic = "away income can salon sauce vehicle enough sentence violin liberty number drink";
+var mnemonic = "exhibit party soldier burst sadness top honey domain ivory diagram cousin boil";

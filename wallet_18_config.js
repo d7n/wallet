@@ -1,1 +1,1 @@
-var mnemonic = "version order humble unable speed machine laptop coconut unknown fragile olympic prepare";
+var mnemonic = "across speak taste someone olympic bless stool protect globe six arm swift";

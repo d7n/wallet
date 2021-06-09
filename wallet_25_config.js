@@ -1,1 +1,1 @@
-var mnemonic = "van invite brisk wrong twelve announce ribbon farm drill cattle soft thought";
+var mnemonic = "ozone family busy retire offer topple sibling pulp electric pass amateur forum";

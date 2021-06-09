@@ -1,1 +1,1 @@
-var mnemonic = "sail maple shoe moon deputy midnight flash useless fatal fitness gold minimum";
+var mnemonic = "vocal decide couple clap purchase argue entire champion valid harbor mushroom practice";

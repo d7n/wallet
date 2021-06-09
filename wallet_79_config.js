@@ -1,1 +1,1 @@
-var mnemonic = "runway include scorpion output bitter virtual ecology fish hybrid helmet naive erosion";
+var mnemonic = "rural found energy goddess broken foam canoe mean ticket foil danger tooth";

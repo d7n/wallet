@@ -1,1 +1,1 @@
-var mnemonic = "dolphin excuse priority sponsor figure image trust hover enable action enrich able";
+var mnemonic = "nose kidney enable rib medal slight master impulse must assault famous pair";

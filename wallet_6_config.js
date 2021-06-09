@@ -1,1 +1,1 @@
-var mnemonic = "toast divide stand cake want card coast clump ill farm update route";
+var mnemonic = "energy blast stairs gold empty inmate divert student stem dizzy coach boring";

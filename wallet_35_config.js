@@ -1,1 +1,1 @@
-var mnemonic = "sell census stamp tired hand chat pupil hotel vacant juice food volcano";
+var mnemonic = "auction argue alley add version region brisk crystal wheat length gas hobby";

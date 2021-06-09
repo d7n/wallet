@@ -1,1 +1,1 @@
-var mnemonic = "labor captain trip action annual forward monster song grid advance account token";
+var mnemonic = "gasp salon coyote arena romance love kick beauty spare mixed jacket accuse";

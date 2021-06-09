@@ -1,1 +1,1 @@
-var mnemonic = "useless birth hedgehog venture domain shrug drink swing weather dish dwarf horse";
+var mnemonic = "silent join what choose author fiscal afraid town honey fee another over";

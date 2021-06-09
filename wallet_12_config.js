@@ -1,1 +1,1 @@
-var mnemonic = "lock praise best tribe memory awake mother spell clip element stove fiction";
+var mnemonic = "action walnut fish describe flower chalk source wall fish cabin orchard august";

@@ -1,1 +1,1 @@
-var mnemonic = "urban glide warfare legal material lumber grape trip shoulder style exact news";
+var mnemonic = "symptom acid naive vivid dynamic math vacant erosion elder impulse avocado execute";

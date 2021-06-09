@@ -1,1 +1,1 @@
-var mnemonic = "wealth cool mimic junior second alien rice patrol column wrong neutral draft";
+var mnemonic = "wise kiwi sibling cushion thought lecture winter very plug eternal swing tube";

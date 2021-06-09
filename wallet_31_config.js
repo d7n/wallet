@@ -1,1 +1,1 @@
-var mnemonic = "memory have slim organ refuse gospel clock exclude online choice jacket reflect";
+var mnemonic = "noise escape west inner enhance gasp celery exhibit rent neither saddle siege";

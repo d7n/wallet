@@ -1,1 +1,1 @@
-var mnemonic = "glow range stock write often merit small mad match decline walk carry";
+var mnemonic = "token remove robot squeeze universe fortune cricket below point cloth memory exist";

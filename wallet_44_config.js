@@ -1,1 +1,1 @@
-var mnemonic = "october salt now cause arrow flavor perfect cheap police hawk rapid search";
+var mnemonic = "wall imitate monkey opera impact pride slender below fee bag height someone";

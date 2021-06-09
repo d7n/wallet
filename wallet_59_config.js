@@ -1,1 +1,1 @@
-var mnemonic = "once attract artefact denial snake cigar upper remind trust wrong pink earth";
+var mnemonic = "crisp trash brush bleak journey awful seat dog coil stuff slush name";

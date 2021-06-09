@@ -1,1 +1,1 @@
-var mnemonic = "senior whip addict field fade monkey venture harvest same hill castle fiscal";
+var mnemonic = "tonight absorb trip make regret fringe kitten paper piece depend option stadium";

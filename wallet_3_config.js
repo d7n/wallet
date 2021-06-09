@@ -1,1 +1,1 @@
-var mnemonic = "hotel popular sing census employ assist ginger sample naive fancy patient issue";
+var mnemonic = "crumble strong arm radar better error lobster obtain pull fortune air truck";

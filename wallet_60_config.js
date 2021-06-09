@@ -1,1 +1,1 @@
-var mnemonic = "maid brass blame arrive puzzle enable bridge famous bunker interest gloom rug";
+var mnemonic = "wise ginger amused proud cart diesel pluck fiscal retreat bamboo corn enrich";

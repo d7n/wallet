@@ -1,1 +1,1 @@
-var mnemonic = "sudden yard clean urban scan wall mammal city time protect hen season";
+var mnemonic = "dinosaur crawl trouble rocket tooth mutual all crunch appear sorry okay version";

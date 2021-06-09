@@ -1,1 +1,1 @@
-var mnemonic = "evoke zero modify survey domain model anchor ability seven dash process pupil";
+var mnemonic = "grid endorse library wink vintage layer diagram current beyond town amused barely";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy couch coach lawn they pass give vicious broom inner voyage orchard";
+var mnemonic = "truth nephew clog grass lobster welcome matter task dumb marriage sunset girl";

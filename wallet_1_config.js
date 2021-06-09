@@ -1,1 +1,1 @@
-var mnemonic = "poverty rally spoil ignore lonely firm abuse hill that enemy sample misery";
+var mnemonic = "print verb can soda sun solid tilt punch race stadium also squirrel";

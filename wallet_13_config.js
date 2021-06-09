@@ -1,1 +1,1 @@
-var mnemonic = "hamster amused duck eye snow supreme peanut olive coffee smooth radar fortune";
+var mnemonic = "citizen upset gallery gap material weather bench toast uncover cable ask worth";

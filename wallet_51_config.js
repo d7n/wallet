@@ -1,1 +1,1 @@
-var mnemonic = "galaxy actress ancient jeans caught swim stage category leader gloom hub order";
+var mnemonic = "brave avoid vehicle cabbage balcony silly enemy tomato struggle expand piano surround";

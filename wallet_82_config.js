@@ -1,1 +1,1 @@
-var mnemonic = "liar pigeon paper absurd charge turn detail desk chicken famous blast close";
+var mnemonic = "amazing empower figure allow secret long spare fluid sausage history remain online";

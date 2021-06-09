@@ -1,1 +1,1 @@
-var mnemonic = "region sun next web awesome chicken faith fun curve market design artwork";
+var mnemonic = "piece whisper type street light lab praise truth arrest wash defense joy";

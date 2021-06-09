@@ -1,1 +1,1 @@
-var mnemonic = "search laugh erode west certain hazard junior theme exist school swallow letter";
+var mnemonic = "evoke gym setup country blame soap few scrap found novel globe wisdom";

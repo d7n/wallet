@@ -1,1 +1,1 @@
-var mnemonic = "pony tilt bulk toward trap pear robust clever state amused month young";
+var mnemonic = "dilemma business rigid argue dream slab educate track solar leopard gift behind";

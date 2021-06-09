@@ -1,1 +1,1 @@
-var mnemonic = "common simple tooth metal saddle volume what extra pencil regular gospel plug";
+var mnemonic = "snake degree rough lake expect laundry narrow ethics limb awful average donor";

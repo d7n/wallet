@@ -1,1 +1,1 @@
-var mnemonic = "gap meat maze turkey dignity powder recipe protect menu bonus volume speed";
+var mnemonic = "random category surround course limb buddy debate lawsuit person shoe again cable";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe erupt frog waste imitate stool snap stool gorilla holiday certain grocery";
+var mnemonic = "annual consider youth trophy spend height canal select away pencil pretty oblige";

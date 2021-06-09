@@ -1,1 +1,1 @@
-var mnemonic = "history inhale orphan daring direct purpose club select wonder drill allow candy";
+var mnemonic = "hero hotel plunge great core load priority ten giggle lazy top client";

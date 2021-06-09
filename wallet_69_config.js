@@ -1,1 +1,1 @@
-var mnemonic = "judge radio hub skate door bean solution bulb digital song quality tonight";
+var mnemonic = "acid gift ethics guide between under mistake sail sound rough drum display";

@@ -1,1 +1,1 @@
-var mnemonic = "allow loop doctor slice modify breeze engine soft impulse praise ridge breeze";
+var mnemonic = "vintage during regular usual caution route roast together gym size input security";

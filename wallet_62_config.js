@@ -1,1 +1,1 @@
-var mnemonic = "canal token wood brown puppy process memory milk flag auction misery push";
+var mnemonic = "wheel behave basic rule sing royal iron curve large used bargain upset";

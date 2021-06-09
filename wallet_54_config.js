@@ -1,1 +1,1 @@
-var mnemonic = "charge trip air ocean trim patient shy wool either now confirm make";
+var mnemonic = "labor select champion opera nest hour seminar feed side village bomb flee";

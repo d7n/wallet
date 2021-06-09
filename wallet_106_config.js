@@ -1,1 +1,1 @@
-var mnemonic = "paper news face demise increase snake jungle guard amateur ranch yellow broken";
+var mnemonic = "please frog sea universe desert isolate kiwi record phrase east final royal";

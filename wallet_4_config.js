@@ -1,1 +1,1 @@
-var mnemonic = "word stock repair episode orient list chuckle deposit match junior sauce seek";
+var mnemonic = "pledge vault holiday general fall idle blame joke honey black trap autumn";

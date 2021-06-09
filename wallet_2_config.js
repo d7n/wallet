@@ -1,1 +1,1 @@
-var mnemonic = "brick swing fantasy match usual pill luggage isolate meat borrow pony small";
+var mnemonic = "guide valid peasant until figure shoot elite fashion grid warm illness typical";

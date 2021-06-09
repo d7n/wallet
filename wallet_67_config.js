@@ -1,1 +1,1 @@
-var mnemonic = "energy plate canal track spend staff only eight just impulse tuna twenty";
+var mnemonic = "horse nurse shrimp profit pistol beyond citizen reveal one small garment cricket";

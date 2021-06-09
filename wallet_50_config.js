@@ -1,1 +1,1 @@
-var mnemonic = "clog innocent present bicycle ensure ring pyramid age noodle slogan possible convince";
+var mnemonic = "travel coffee tree improve arctic narrow erase tooth saddle brush dial brown";

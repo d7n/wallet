@@ -1,1 +1,1 @@
-var mnemonic = "shine ostrich blush false shadow flee unfair digital opera seed need size";
+var mnemonic = "hurt faith episode pull develop mass disagree goat artwork shine salute solid";

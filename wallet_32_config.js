@@ -1,1 +1,1 @@
-var mnemonic = "canvas limit board slice frame couple pottery tongue road law shoulder biology";
+var mnemonic = "hawk vehicle culture genre math village fever various worry sort advice recall";

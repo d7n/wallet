@@ -1,1 +1,1 @@
-var mnemonic = "talent lemon jealous stadium rich strategy sadness save wrong there custom detail";
+var mnemonic = "phrase mountain execute verb orphan scrap sniff below expire scout brand pupil";

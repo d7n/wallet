@@ -1,1 +1,1 @@
-var mnemonic = "glimpse vehicle select reform alcohol clay prefer interest funny easy engine analyst";
+var mnemonic = "tiger rubber worth pond wheel sock gate endless stairs steak bid portion";

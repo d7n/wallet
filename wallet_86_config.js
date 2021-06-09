@@ -1,1 +1,1 @@
-var mnemonic = "daughter boil indicate phone sphere tent loyal scare giraffe domain upset spell";
+var mnemonic = "degree myth fade leopard utility correct slight lawsuit print general unknown help";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb festival husband height torch history armed scan ecology math lake cluster";
+var mnemonic = "simple camp soap pair various way sample round expand carpet side empty";

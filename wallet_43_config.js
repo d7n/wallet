@@ -1,1 +1,1 @@
-var mnemonic = "first bid wage episode invest quality business uncle fault unusual average winner";
+var mnemonic = "dinosaur honey coin unable gap input guitar exact shed pyramid wet festival";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture resemble prosper spell rug material poet inside deliver roast gadget fame";
+var mnemonic = "notable have absurd abuse prison table again soon dash warm detect skate";

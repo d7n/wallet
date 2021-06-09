@@ -1,1 +1,1 @@
-var mnemonic = "caught couch fold detect ensure peanut slogan smart action wish fan under";
+var mnemonic = "endless radio vicious noise tuition idea extra soda junior crush identify salute";

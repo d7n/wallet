@@ -1,1 +1,1 @@
-var mnemonic = "junior nuclear inquiry runway song route good frown alien result shaft bundle";
+var mnemonic = "crucial knee solve legal room effort virus glory earn obscure dumb spoil";

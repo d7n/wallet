@@ -1,1 +1,1 @@
-var mnemonic = "inject pear cruise diesel charge green bind purpose sting pond fruit critic";
+var mnemonic = "fame pause vault access child opera ladder clown smooth whip control shrimp";

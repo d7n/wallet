@@ -1,1 +1,1 @@
-var mnemonic = "alien gate globe average nominee decade cute element ostrich struggle unknown rate";
+var mnemonic = "weekend route twice warfare joke simple opinion family comfort lobster lottery mixed";

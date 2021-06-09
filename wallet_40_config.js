@@ -1,1 +1,1 @@
-var mnemonic = "stamp lobster matter busy alone when choice walnut treat crater lens flower";
+var mnemonic = "pride grunt main knife anchor guard curve cactus mistake dial grief brush";

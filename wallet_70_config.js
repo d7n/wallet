@@ -1,1 +1,1 @@
-var mnemonic = "math claw phrase impulse exact cover state throw predict stem lyrics pill";
+var mnemonic = "knee dog vanish polar oven trick film actual art trend draft museum";

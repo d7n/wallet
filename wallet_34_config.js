@@ -1,1 +1,1 @@
-var mnemonic = "mention pet order language excite cruise nest cheap anxiety theory always dish";
+var mnemonic = "stereo put toast course critic struggle spoil code kiwi plug soup trap";

@@ -1,1 +1,1 @@
-var mnemonic = "usual dirt own transfer input panther other label exotic submit view again";
+var mnemonic = "victory unfold reward child holiday cause test decrease obvious juice suggest obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate pool velvet sting thunder weekend april empower reopen foot improve favorite";
+var mnemonic = "glue dutch episode worry grant isolate federal banner confirm else novel modify";

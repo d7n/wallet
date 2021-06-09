@@ -1,1 +1,1 @@
-var mnemonic = "jazz attend local lucky cream blue climb frozen obtain exhibit distance involve";
+var mnemonic = "trap crystal law fault ribbon slow beach ski peace crisp advice echo";

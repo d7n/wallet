@@ -1,1 +1,1 @@
-var mnemonic = "term lawsuit various attract impose benefit salmon guard word chicken differ zebra";
+var mnemonic = "amused live acquire brief spice cereal basket soft conduct crouch album slice";

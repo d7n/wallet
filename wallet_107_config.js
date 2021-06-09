@@ -1,1 +1,1 @@
-var mnemonic = "fancy dad play minor viable dad swing burger virus virtual ready cause";
+var mnemonic = "runway breeze crystal left area early interest buffalo entry bomb carpet swarm";

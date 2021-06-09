@@ -1,1 +1,1 @@
-var mnemonic = "fit top umbrella palm hover arch dad stairs angle awake nominee phrase";
+var mnemonic = "regret kit nothing trick fine tonight staff cloud atom coffee property poverty";

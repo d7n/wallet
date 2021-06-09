@@ -1,1 +1,1 @@
-var mnemonic = "squeeze novel sponsor inspire sting shove cycle collect gloom collect green method";
+var mnemonic = "puzzle famous auction install involve side student brown fog flat much approve";

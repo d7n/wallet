@@ -1,1 +1,1 @@
-var mnemonic = "grit armed diamond radio immune journey twelve move work actual grab cruel";
+var mnemonic = "elbow stumble pledge course video holiday egg airport more ugly chimney salt";

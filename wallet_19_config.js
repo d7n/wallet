@@ -1,1 +1,1 @@
-var mnemonic = "unknown bean angry diet behave bring evil emerge plug crucial road photo";
+var mnemonic = "forum begin dutch settle possible honey blur clinic before napkin wage spare";
