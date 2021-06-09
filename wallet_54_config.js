@@ -1,1 +1,1 @@
-var mnemonic = "sadness wrong tooth mandate math grape dust crack side where fatigue arm";
+var mnemonic = "blast crunch raccoon whale pepper merit mosquito emerge shield tongue master raise";

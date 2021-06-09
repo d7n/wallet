@@ -1,1 +1,1 @@
-var mnemonic = "ozone family ethics marble wisdom aim bar enrich doll patch rabbit pattern";
+var mnemonic = "winner crack wrist crash innocent near ostrich route spoil silly awful wasp";

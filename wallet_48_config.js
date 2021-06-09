@@ -1,1 +1,1 @@
-var mnemonic = "wrestle course trap brick april act screen captain peace position immense embrace";
+var mnemonic = "morning robot employ more decade flame head gun one near cool gun";

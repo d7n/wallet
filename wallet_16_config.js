@@ -1,1 +1,1 @@
-var mnemonic = "language doll picnic burst voice cricket exclude pig popular venture unhappy actual";
+var mnemonic = "donkey awake federal rotate adjust image park receive enroll edge enforce unique";

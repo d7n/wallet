@@ -1,1 +1,1 @@
-var mnemonic = "claw exist injury save peanut miss tower slab daring glance dwarf victory";
+var mnemonic = "track gown truth report ranch mother virus innocent hunt install blast giant";

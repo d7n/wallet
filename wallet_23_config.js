@@ -1,1 +1,1 @@
-var mnemonic = "frame monitor inquiry vocal erosion tool alien peanut ribbon certain fiscal essay";
+var mnemonic = "vocal response someone veteran behind confirm idle deputy enforce charge salad rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "income unable caught elevator potato large army oil perfect cute quick favorite";
+var mnemonic = "hungry priority galaxy shallow disagree gym output frown coconut rotate step there";

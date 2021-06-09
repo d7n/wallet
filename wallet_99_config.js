@@ -1,1 +1,1 @@
-var mnemonic = "art student current door undo tortoise citizen north donor dignity receive dinosaur";
+var mnemonic = "buyer water grace unhappy globe guide banana amateur wide album boat there";

@@ -1,1 +1,1 @@
-var mnemonic = "female equal rebuild ostrich agent coffee pipe install raven word mean multiply";
+var mnemonic = "dilemma spy into renew wear luggage habit kind mimic town cargo edit";

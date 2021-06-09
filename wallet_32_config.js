@@ -1,1 +1,1 @@
-var mnemonic = "combine crane repeat rough actor rubber maple betray obey forget gallery nice";
+var mnemonic = "scout region lend behave climb diesel angry scan junior act aerobic almost";

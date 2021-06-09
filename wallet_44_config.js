@@ -1,1 +1,1 @@
-var mnemonic = "erosion unlock drip enable universe congress rough about abuse harvest top foam";
+var mnemonic = "high flush october surround area rigid air next evil actor north garden";

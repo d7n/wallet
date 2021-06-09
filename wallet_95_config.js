@@ -1,1 +1,1 @@
-var mnemonic = "burst jazz define blossom loop sentence move favorite element equip creek bulk";
+var mnemonic = "chef all ready lemon empower uphold song burst brisk road garment attract";

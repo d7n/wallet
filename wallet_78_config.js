@@ -1,1 +1,1 @@
-var mnemonic = "never pottery load impulse inhale vapor genuine sight wreck private asset fine";
+var mnemonic = "near swear spoil coin nuclear dust portion sugar orient strategy promote deny";

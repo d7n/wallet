@@ -1,1 +1,1 @@
-var mnemonic = "cradle such rescue happy weasel apple tomorrow paper flower dynamic excess connect";
+var mnemonic = "divorce hurry artist case ancient clinic uniform coach tuna achieve rib enable";

@@ -1,1 +1,1 @@
-var mnemonic = "legal danger bomb boss tool angry general museum admit kingdom animal spray";
+var mnemonic = "knock card unusual course cabbage easily outdoor route blossom oak famous glide";

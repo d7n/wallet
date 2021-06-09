@@ -1,1 +1,1 @@
-var mnemonic = "risk sunset minute social park cup pledge royal wash sand oil horn";
+var mnemonic = "nature define feed next alone senior mountain style hour worth boring middle";

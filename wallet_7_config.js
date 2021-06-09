@@ -1,1 +1,1 @@
-var mnemonic = "shiver metal trouble accident river moral wait deer bring reopen boil until";
+var mnemonic = "school hold awful guide dove tooth large dice kite lock other advance";

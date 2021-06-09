@@ -1,1 +1,1 @@
-var mnemonic = "venture dad lake project permit similar bronze escape web solve gas creek";
+var mnemonic = "split animal breeze sting case smart damp uncover ocean one journey crawl";

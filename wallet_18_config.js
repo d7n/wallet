@@ -1,1 +1,1 @@
-var mnemonic = "spike gas problem vapor else arrive cricket bonus cram patrol snake tennis";
+var mnemonic = "number mother hurdle tape congress behind orbit wrestle mule worth settle rare";

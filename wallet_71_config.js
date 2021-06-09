@@ -1,1 +1,1 @@
-var mnemonic = "bike clerk cousin february unhappy early fork cute require utility faculty alert";
+var mnemonic = "diagram affair pencil soap ginger robust crane offer chase grace blade absurd";

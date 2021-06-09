@@ -1,1 +1,1 @@
-var mnemonic = "wide energy chair gloom tell phone thunder exhibit over dutch normal crawl";
+var mnemonic = "describe cash essay prevent gain deal knock ball slow vague sudden master";

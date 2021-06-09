@@ -1,1 +1,1 @@
-var mnemonic = "inject double wood easily olympic buffalo expect simple oppose addict able top";
+var mnemonic = "nominee orbit earn vast habit drift wise onion know hole acid foil";

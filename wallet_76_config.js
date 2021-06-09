@@ -1,1 +1,1 @@
-var mnemonic = "install keep lady kind clerk surprise aware census avoid master elephant hurdle";
+var mnemonic = "panther profit gun toward alien lizard twice grocery never rent enact knife";

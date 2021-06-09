@@ -1,1 +1,1 @@
-var mnemonic = "potato pencil deal frequent inherit oval gold check catalog ice test salmon";
+var mnemonic = "reunion leader cinnamon juice exit flat write shallow street code forget cube";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum car pistol used table any sniff expose issue napkin oppose lunch";
+var mnemonic = "tunnel slice staff trophy squeeze reduce remain gesture stamp donate weather wonder";

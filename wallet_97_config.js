@@ -1,1 +1,1 @@
-var mnemonic = "jealous midnight bronze bunker occur noodle rug grass account uncle success salt";
+var mnemonic = "arrow foam naive excite exact sting addict gap daring pencil crowd item";

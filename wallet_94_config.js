@@ -1,1 +1,1 @@
-var mnemonic = "apart industry problem gorilla oblige venture neither bachelor village grain question bullet";
+var mnemonic = "cheap pave reward fruit sweet armor recycle inform mutual box discover game";

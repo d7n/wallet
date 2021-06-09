@@ -1,1 +1,1 @@
-var mnemonic = "rather enable divorce candy deliver rescue staff lens desert super monkey upgrade";
+var mnemonic = "doll similar brain coil need festival festival mosquito story bullet seven casual";

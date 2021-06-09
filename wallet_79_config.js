@@ -1,1 +1,1 @@
-var mnemonic = "rookie cliff arm steel urban obey piano half absorb poet obtain poverty";
+var mnemonic = "apology lesson evoke good erode spatial mixed crowd fence frog guard embody";

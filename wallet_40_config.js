@@ -1,1 +1,1 @@
-var mnemonic = "weather outer super begin online visit surface hard exclude gallery twelve author";
+var mnemonic = "cave smart defense offer vacant scale mail inmate hello lab brother cloth";

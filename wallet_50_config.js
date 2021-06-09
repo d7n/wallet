@@ -1,1 +1,1 @@
-var mnemonic = "absorb guide circle rug fortune reform marble fortune cloth leave belt grid";
+var mnemonic = "vast dance emotion nice gesture enough become current scout lizard era hood";

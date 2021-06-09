@@ -1,1 +1,1 @@
-var mnemonic = "easily intact vicious perfect romance hurdle you palace pigeon aware motor aware";
+var mnemonic = "physical anchor grape link awake kite foam borrow define purchase negative solar";

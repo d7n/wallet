@@ -1,1 +1,1 @@
-var mnemonic = "exhibit erupt beauty purpose parrot blast destroy among idea isolate remain nerve";
+var mnemonic = "crop vendor best game corn renew lens scan great pear dial hen";

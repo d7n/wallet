@@ -1,1 +1,1 @@
-var mnemonic = "wreck chalk puppy when mango manual forest mandate say ranch affair banner";
+var mnemonic = "foam want marriage allow easy comic abstract dose eager unusual end foam";

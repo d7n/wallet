@@ -1,1 +1,1 @@
-var mnemonic = "interest patrol stay lunar borrow injury medal unique retire short air exhaust";
+var mnemonic = "hold crush banana stereo stool walk mechanic fancy dentist basket twelve ethics";

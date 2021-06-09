@@ -1,1 +1,1 @@
-var mnemonic = "isolate power lizard stem consider kingdom verb praise snap wide pottery work";
+var mnemonic = "level height rack horse rather ugly dune senior joy small over cook";

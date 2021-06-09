@@ -1,1 +1,1 @@
-var mnemonic = "fine gasp fit girl slab cruise ridge early betray must correct wire";
+var mnemonic = "fetch unusual assault just extend benefit shift awkward finger execute say level";

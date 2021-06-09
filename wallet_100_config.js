@@ -1,1 +1,1 @@
-var mnemonic = "depart boring nerve congress enemy phrase enforce term inspire win congress thank";
+var mnemonic = "umbrella emerge weird bus sting meadow bench olive circle absurd when process";

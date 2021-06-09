@@ -1,1 +1,1 @@
-var mnemonic = "proof roof feel economy train helmet amused load enable truly horn island";
+var mnemonic = "jeans sting riot column tower behave number produce all science quantum pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "example rookie slogan poet field apple melody predict fix clever slot build";
+var mnemonic = "sentence perfect fashion toast job violin celery hurt border fall system sad";

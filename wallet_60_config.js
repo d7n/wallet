@@ -1,1 +1,1 @@
-var mnemonic = "quit sphere law mountain black owner foster arrange pink ketchup expose sun";
+var mnemonic = "ivory expose confirm eyebrow ship dove busy coil father salad myself inherit";

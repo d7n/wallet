@@ -1,1 +1,1 @@
-var mnemonic = "below pulse tower width ticket second jealous acquire sketch click frog donor";
+var mnemonic = "absorb improve carry dream glance bulb cliff course put angle champion chalk";

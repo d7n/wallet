@@ -1,1 +1,1 @@
-var mnemonic = "glimpse add click coach become depart lazy slide balance expose local process";
+var mnemonic = "mystery loop kiwi position element demise stick rapid victory auction slush artefact";

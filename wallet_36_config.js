@@ -1,1 +1,1 @@
-var mnemonic = "learn west cake utility consider finish sniff inmate drink vacuum alert click";
+var mnemonic = "chronic magic outdoor scan harsh silk solution effort urge mind design behave";

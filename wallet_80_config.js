@@ -1,1 +1,1 @@
-var mnemonic = "organ wedding toddler manual ozone tuition print dry merge else gather lawsuit";
+var mnemonic = "adapt flight dove space noise item barrel liar tube ship tank spy";

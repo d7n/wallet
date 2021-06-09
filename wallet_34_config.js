@@ -1,1 +1,1 @@
-var mnemonic = "myself siege insane view gate bachelor behind narrow crystal around eight wear";
+var mnemonic = "negative clip arena dwarf village toilet fire plug artwork winner own illegal";

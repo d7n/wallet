@@ -1,1 +1,1 @@
-var mnemonic = "because weird violin napkin burst road machine shoulder hover maple picture decline";
+var mnemonic = "battle venue donate make program monster ring noble chuckle culture tennis horn";

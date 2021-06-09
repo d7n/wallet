@@ -1,1 +1,1 @@
-var mnemonic = "bicycle mixed soldier elite clean bus benefit erosion expand wrong supply confirm";
+var mnemonic = "gym make beauty return exclude husband friend bean original trade blade stuff";

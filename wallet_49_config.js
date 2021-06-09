@@ -1,1 +1,1 @@
-var mnemonic = "blame castle indicate poem trumpet secret canyon night rate broom year scrub";
+var mnemonic = "boss size fragile guard drum humble parade uncover electric give grunt odor";

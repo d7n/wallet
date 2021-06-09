@@ -1,1 +1,1 @@
-var mnemonic = "fragile current enroll roast nurse shove exercise twelve match drop apology robust";
+var mnemonic = "absent elbow wrist tragic song identify cancel garbage move extend enemy around";

@@ -1,1 +1,1 @@
-var mnemonic = "glare light uncle capable gauge tornado scout soldier balcony design meadow ladder";
+var mnemonic = "loud device skin when power tilt baby mail sibling forum hurry local";

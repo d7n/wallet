@@ -1,1 +1,1 @@
-var mnemonic = "fee beef layer divorce ignore move shy edit orient arrange nerve arctic";
+var mnemonic = "fall front warm tool opinion never cousin surround there shaft judge spot";

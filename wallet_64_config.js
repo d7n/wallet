@@ -1,1 +1,1 @@
-var mnemonic = "knock hub once soft result admit bulk undo twelve baby segment ill";
+var mnemonic = "coast addict crisp claim arctic coffee jar unaware shoe swamp lemon message";

@@ -1,1 +1,1 @@
-var mnemonic = "sister gentle meadow legal fashion refuse mansion refuse verb liberty best valid";
+var mnemonic = "night walnut oxygen stadium icon fame desk solve forward awful funny airport";

@@ -1,1 +1,1 @@
-var mnemonic = "badge regret very busy tone dumb brush permit onion north kingdom romance";
+var mnemonic = "surround mesh float box civil there sense sick final member ignore dog";

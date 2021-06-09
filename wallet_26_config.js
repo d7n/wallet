@@ -1,1 +1,1 @@
-var mnemonic = "people comfort daring outdoor chat bless impact shock visual ticket acquire typical";
+var mnemonic = "smile enforce subject clutch firm rocket lady edit useful night oven avocado";

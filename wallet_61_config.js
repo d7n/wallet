@@ -1,1 +1,1 @@
-var mnemonic = "open wagon shed gravity morning absurd more metal become miss brand parent";
+var mnemonic = "tower broken slender shoulder rifle allow element stick aspect ability window young";

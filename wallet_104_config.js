@@ -1,1 +1,1 @@
-var mnemonic = "exotic fringe scene runway win scout hidden crater utility bubble tide eagle";
+var mnemonic = "dutch human hope spell rebel idea game camp theme nominee name useful";

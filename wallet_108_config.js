@@ -1,1 +1,1 @@
-var mnemonic = "trim shield obscure ski finish letter fashion stage valve path sad next";
+var mnemonic = "smile ocean sponsor edit phrase exhaust isolate surge warfare model number sea";

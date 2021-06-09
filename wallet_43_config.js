@@ -1,1 +1,1 @@
-var mnemonic = "fluid truck midnight sword scatter field garage hazard initial magnet convince shrug";
+var mnemonic = "zero puppy outdoor media absurd praise explain ring slow hat harvest inform";

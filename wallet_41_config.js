@@ -1,1 +1,1 @@
-var mnemonic = "ecology quantum arctic provide wave person census trap inject frame broom anxiety";
+var mnemonic = "faculty grow waste expose mango cream science science wheel robot green steak";

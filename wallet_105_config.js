@@ -1,1 +1,1 @@
-var mnemonic = "proof donkey adapt quiz cargo supply multiply major second tunnel sustain glance";
+var mnemonic = "collect people omit dry cube random cancel cry science lunar slice grocery";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn escape enter kingdom rely wrong business ankle attend build flame cliff";
+var mnemonic = "oyster beach symptom coyote chicken pizza cargo wing obvious once frame family";

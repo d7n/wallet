@@ -1,1 +1,1 @@
-var mnemonic = "also spell comfort they oxygen crisp merge near omit truly evoke motion";
+var mnemonic = "foster female must differ myth same flat grant capital guide bench domain";

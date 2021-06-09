@@ -1,1 +1,1 @@
-var mnemonic = "know dumb sport involve argue roof trap peanut slam impact truth cherry";
+var mnemonic = "occur cause print audit sausage cliff soldier picnic judge annual stick step";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram furnace auto soon grow man sound original midnight vital arrow venue";
+var mnemonic = "metal boss purity bomb foam play wrong south daring elite correct arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "subject forum destroy lake library artwork switch alley trend elegant zoo maximum";
+var mnemonic = "point recall virtual flower ski mobile response bar left tourist curtain vivid";

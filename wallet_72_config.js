@@ -1,1 +1,1 @@
-var mnemonic = "check slam vanish curtain person theme couple fatigue eight bleak skull leg";
+var mnemonic = "claw dentist kite critic stem coral box twin draw acoustic divert exist";

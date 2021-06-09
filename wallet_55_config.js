@@ -1,1 +1,1 @@
-var mnemonic = "much month neutral scissors alter unknown require figure gift desk raven unit";
+var mnemonic = "attract extend august slam symptom saddle scissors link real can all butter";

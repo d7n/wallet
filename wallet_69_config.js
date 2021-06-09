@@ -1,1 +1,1 @@
-var mnemonic = "upgrade antenna boring guard spatial together wreck fury expect price vibrant whale";
+var mnemonic = "crash soap satisfy target rib keep embody best mutual mention clap shed";

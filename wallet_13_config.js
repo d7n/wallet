@@ -1,1 +1,1 @@
-var mnemonic = "evoke because awake stay perfect proud return diagram hat essay top depart";
+var mnemonic = "answer industry obvious scale whale easy neck lady double hybrid private noodle";

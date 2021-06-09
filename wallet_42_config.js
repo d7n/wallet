@@ -1,1 +1,1 @@
-var mnemonic = "second area alley lucky defense laptop punch cricket board learn velvet gravity";
+var mnemonic = "issue correct merit skill damage because river physical two sadness derive dry";

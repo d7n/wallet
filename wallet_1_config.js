@@ -1,1 +1,1 @@
-var mnemonic = "spatial north impose enhance senior captain siren dash stove gauge talk volume";
+var mnemonic = "bridge inquiry cradle mosquito name puppy wave foot series usual acquire tail";

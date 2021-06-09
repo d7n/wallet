@@ -1,1 +1,1 @@
-var mnemonic = "limb bacon pet south father mother visa maximum soap monster foam artwork";
+var mnemonic = "gallery elbow proof shrimp run basket size tenant lounge delay struggle window";

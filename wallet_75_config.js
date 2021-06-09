@@ -1,1 +1,1 @@
-var mnemonic = "balcony race office provide ready argue monster vibrant hair grief bag inch";
+var mnemonic = "service sister claim fluid clock snake hip impose letter throw coach mistake";

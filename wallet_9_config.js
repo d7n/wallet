@@ -1,1 +1,1 @@
-var mnemonic = "term crime sibling best nation gold capital buzz service expect midnight sorry";
+var mnemonic = "march unaware fee tag alarm rib critic client next surprise minute slogan";

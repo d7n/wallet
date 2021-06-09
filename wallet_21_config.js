@@ -1,1 +1,1 @@
-var mnemonic = "render crane earth fancy glide glass connect swallow apple spin stage summer";
+var mnemonic = "sound isolate orchard anger blame fury sample transfer apology twin drum urge";

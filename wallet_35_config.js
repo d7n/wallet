@@ -1,1 +1,1 @@
-var mnemonic = "lobster illness inmate utility faith meat twelve travel garlic region donkey shy";
+var mnemonic = "impact slim motion nasty slot unaware rib fatal deposit ivory reason diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic brief truck paper couple announce frog bench exhibit girl answer evolve";
+var mnemonic = "hope ill satoshi deliver armed switch fiscal burst impulse aim alley honey";

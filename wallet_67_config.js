@@ -1,1 +1,1 @@
-var mnemonic = "paddle twelve harvest material install flight dial gentle lunch surprise rotate bean";
+var mnemonic = "awesome science version cereal panda glance baby scheme woman blade electric frequent";

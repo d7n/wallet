@@ -1,1 +1,1 @@
-var mnemonic = "umbrella foam raw note sense mad escape diagram among concert moment crop";
+var mnemonic = "derive insect reunion require snack mercy account camp crop record alcohol decline";

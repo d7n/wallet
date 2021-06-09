@@ -1,1 +1,1 @@
-var mnemonic = "unknown oil aunt arch gentle deputy modify canyon health kid critic coconut";
+var mnemonic = "bench seminar joy hour drop much potato define patient eagle rule cover";

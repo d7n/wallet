@@ -1,1 +1,1 @@
-var mnemonic = "lady metal settle garment reflect keep auction artwork neck salmon suffer summer";
+var mnemonic = "upset wild surround almost slender solar acid myth believe when desk inflict";

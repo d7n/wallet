@@ -1,1 +1,1 @@
-var mnemonic = "ready must purse vocal drive utility sure table misery web portion clean";
+var mnemonic = "display brave fame awesome cliff wrap sail reflect help spray brave donate";

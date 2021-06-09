@@ -1,1 +1,1 @@
-var mnemonic = "arrest unlock ordinary alien rebuild runway gauge sponsor fashion nuclear expect sand";
+var mnemonic = "skate charge casino recycle tourist knife wool frequent write lawsuit cushion acid";

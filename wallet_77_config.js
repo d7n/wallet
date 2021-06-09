@@ -1,1 +1,1 @@
-var mnemonic = "music squeeze recall buyer bless glow sponsor verb question pumpkin choose secret";
+var mnemonic = "tube slam view easy notice drive ride buyer buzz bean dance supreme";
