@@ -1,1 +1,1 @@
-var mnemonic = "saddle hard horse table industry coffee buyer select cool damp sense chapter";
+var mnemonic = "govern regret void little acoustic post infant present lava world unhappy federal";

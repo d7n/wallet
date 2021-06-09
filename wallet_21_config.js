@@ -1,1 +1,1 @@
-var mnemonic = "double path sausage online brisk pattern pride egg seven picnic ceiling minute";
+var mnemonic = "lesson brother cry endless hazard proud outside pave grain network daughter fatal";

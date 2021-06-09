@@ -1,1 +1,1 @@
-var mnemonic = "genius gift auto velvet expose voyage rescue present twice sunny barrel avoid";
+var mnemonic = "maid glue syrup drip comfort minute issue nothing oblige summer rice include";

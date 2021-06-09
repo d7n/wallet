@@ -1,1 +1,1 @@
-var mnemonic = "object real fun west leave depth pond shaft swap island vapor patient";
+var mnemonic = "tower stamp survey dragon risk movie pizza mountain engage uphold woman sunset";

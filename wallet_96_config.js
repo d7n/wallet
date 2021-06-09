@@ -1,1 +1,1 @@
-var mnemonic = "shrug left caught absorb swallow discover resource wave abandon jeans shy divide";
+var mnemonic = "blouse rude catalog squirrel upset toilet behind banner expect ecology hen train";

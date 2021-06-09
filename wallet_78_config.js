@@ -1,1 +1,1 @@
-var mnemonic = "viable absurd act warrior swallow drill garden bone fossil define skate swing";
+var mnemonic = "economy badge want neither garden degree narrow wolf volcano infant inhale curious";

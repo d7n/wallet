@@ -1,1 +1,1 @@
-var mnemonic = "broccoli attend ahead attend food harvest resemble wheat next want label device";
+var mnemonic = "rail picture people boring kite credit bunker chuckle void snake update few";

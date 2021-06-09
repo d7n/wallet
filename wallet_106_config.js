@@ -1,1 +1,1 @@
-var mnemonic = "crack kind absent ten among video world master parent curve code limit";
+var mnemonic = "couple heavy course until patrol tuition blood absurd proud tragic battle exist";

@@ -1,1 +1,1 @@
-var mnemonic = "frame solar gift number mixed crime essay oven text jaguar donkey learn";
+var mnemonic = "meadow relax arrange hospital myself wealth spread mimic market second draw foot";

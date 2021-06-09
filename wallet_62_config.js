@@ -1,1 +1,1 @@
-var mnemonic = "theme about police heavy skull upgrade echo annual movie myself squeeze turkey";
+var mnemonic = "prefer hip cruise rack diagram arm gown city milk someone lazy harsh";

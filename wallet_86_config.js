@@ -1,1 +1,1 @@
-var mnemonic = "grit off badge wish paper hockey invite range liquid adjust wrestle bird";
+var mnemonic = "spike casual remember kiss major history twice stereo logic action fan cancel";

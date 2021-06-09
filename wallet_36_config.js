@@ -1,1 +1,1 @@
-var mnemonic = "reflect attitude shaft sleep safe slide piano embark extend float situate foil";
+var mnemonic = "area burst addict alert flight sight dry idea short first limit monitor";

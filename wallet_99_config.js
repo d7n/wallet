@@ -1,1 +1,1 @@
-var mnemonic = "soft carbon thought claim people kingdom menu dry guilt tomato torch fatigue";
+var mnemonic = "boss gym loan eager harvest voyage unusual rescue load legend wild badge";

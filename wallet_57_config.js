@@ -1,1 +1,1 @@
-var mnemonic = "illegal leader elder bind gravity effort trial okay blast vital typical lock";
+var mnemonic = "rice asthma notable embody utility disagree awful canyon gesture ocean hard rely";

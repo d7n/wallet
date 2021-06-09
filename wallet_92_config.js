@@ -1,1 +1,1 @@
-var mnemonic = "tiny library nurse work sleep avocado mix youth book include nation balance";
+var mnemonic = "december action problem crime mirror hedgehog often fabric cabbage recycle steak inspire";

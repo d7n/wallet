@@ -1,1 +1,1 @@
-var mnemonic = "ripple tourist amount tongue correct gentle frame meadow strike busy expand label";
+var mnemonic = "work rebuild celery success give expire cat electric then basket quick error";

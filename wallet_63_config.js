@@ -1,1 +1,1 @@
-var mnemonic = "treat jungle glass senior inherit argue fluid foot street repeat inherit vacant";
+var mnemonic = "kitten wrestle frown wrestle danger hobby vivid capable critic educate because patrol";

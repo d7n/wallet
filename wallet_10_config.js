@@ -1,1 +1,1 @@
-var mnemonic = "thank fork gas divorce easily coyote payment cheese engine now achieve enemy";
+var mnemonic = "place giant robust link wing upgrade tower private used congress season hammer";

@@ -1,1 +1,1 @@
-var mnemonic = "essence motor jar vehicle drama bench unit virtual fortune model arctic alley";
+var mnemonic = "army satisfy argue nest coffee accident open imitate embody foam double stool";

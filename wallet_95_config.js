@@ -1,1 +1,1 @@
-var mnemonic = "online muscle clock fade weekend typical siren skin stock slot clerk butter";
+var mnemonic = "time change carpet moment south bright vicious shoe idle fat common question";

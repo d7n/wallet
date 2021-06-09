@@ -1,1 +1,1 @@
-var mnemonic = "hint apple shield foil deny similar easily ankle note claw gap useless";
+var mnemonic = "nut floor cross opinion can champion slab magnet run service absurd feature";

@@ -1,1 +1,1 @@
-var mnemonic = "patient parent shaft web left fiber can split like weird first tomato";
+var mnemonic = "build afford spy champion begin vacuum abstract air bitter era dog uncle";

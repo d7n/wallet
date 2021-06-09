@@ -1,1 +1,1 @@
-var mnemonic = "hold athlete various develop cement curve fit spell pull march sunset ankle";
+var mnemonic = "judge fever social riot expire caught remind speak quote top post finger";

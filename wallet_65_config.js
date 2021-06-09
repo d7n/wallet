@@ -1,1 +1,1 @@
-var mnemonic = "good donkey fan all dice volcano spray ripple emotion stool quit fault";
+var mnemonic = "penalty false mango grit wrist test survey clock mail opera term key";

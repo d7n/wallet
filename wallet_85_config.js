@@ -1,1 +1,1 @@
-var mnemonic = "buffalo clip wait submit human piano demand opinion heavy hockey kite detail";
+var mnemonic = "green deny depart sad leopard joke skin team trick unveil dove exchange";

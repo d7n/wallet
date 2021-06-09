@@ -1,1 +1,1 @@
-var mnemonic = "ski road inspire wide crack uniform modify index motion monitor thunder upset";
+var mnemonic = "click unlock salon very smart rug joy series found december ankle hair";

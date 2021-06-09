@@ -1,1 +1,1 @@
-var mnemonic = "simple produce casual leg sunny fresh vehicle kitten arrow reward world patch";
+var mnemonic = "crumble busy chair outside rapid tooth decorate evidence bright matrix provide armor";

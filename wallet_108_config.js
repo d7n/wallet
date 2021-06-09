@@ -1,1 +1,1 @@
-var mnemonic = "trend radio cherry phone attract quantum agree opera vehicle wolf animal couple";
+var mnemonic = "act above weird attitude bicycle veteran erase neutral loud announce flavor lunch";

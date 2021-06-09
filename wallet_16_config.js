@@ -1,1 +1,1 @@
-var mnemonic = "lobster outer unveil flee museum rib moral relief jealous pipe dial myth";
+var mnemonic = "box dish reform sister index heart crash few fatal clinic obvious obtain";

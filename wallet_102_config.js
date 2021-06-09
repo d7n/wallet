@@ -1,1 +1,1 @@
-var mnemonic = "tonight marble cannon usual run spawn river chair crawl subway spread gauge";
+var mnemonic = "shield twist deputy slot canal argue mass network stage prosper off myself";

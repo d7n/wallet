@@ -1,1 +1,1 @@
-var mnemonic = "giant remind evidence report shy panel journey valid circle oven one reflect";
+var mnemonic = "change primary matter dumb apology dragon lobster angle warrior home hen mystery";

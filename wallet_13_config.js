@@ -1,1 +1,1 @@
-var mnemonic = "lonely fall favorite lend pupil spray hold mind ensure treat repeat hurdle";
+var mnemonic = "drill stumble shock wild weird scorpion vacuum dial filter crane very knock";

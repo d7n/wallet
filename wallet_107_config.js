@@ -1,1 +1,1 @@
-var mnemonic = "panda social giraffe woman bacon vivid faint involve clever door float accuse";
+var mnemonic = "essay fan real near torch cargo sing rare energy perfect piano undo";

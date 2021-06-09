@@ -1,1 +1,1 @@
-var mnemonic = "lottery oven glide secret output umbrella rely birth furnace priority economy oxygen";
+var mnemonic = "priority size march ozone puzzle hip gap just tail ordinary boring biology";

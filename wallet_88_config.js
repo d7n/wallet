@@ -1,1 +1,1 @@
-var mnemonic = "give lounge require survey demise table bind struggle fringe soul loan all";
+var mnemonic = "brand scorpion mouse spirit blur sad casino sunny pilot exercise disease curve";

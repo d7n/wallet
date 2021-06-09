@@ -1,1 +1,1 @@
-var mnemonic = "struggle slide park burden recall indoor keen lonely shell scrub donate toward";
+var mnemonic = "slab ridge amount cushion almost armed spring puzzle donate plunge quality position";

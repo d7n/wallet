@@ -1,1 +1,1 @@
-var mnemonic = "gain artwork lake excess notice armed absurd sudden stumble enlist obtain danger";
+var mnemonic = "enlist wear sport ankle boil sing response elephant course trade mask prepare";

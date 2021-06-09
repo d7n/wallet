@@ -1,1 +1,1 @@
-var mnemonic = "spike stereo melody ensure sand void title scissors imitate victory glance bridge";
+var mnemonic = "laundry taste anxiety luxury churn year december dash autumn rural sort pottery";

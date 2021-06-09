@@ -1,1 +1,1 @@
-var mnemonic = "observe bird idle captain toddler uncover guide office jaguar friend lazy order";
+var mnemonic = "extend length sunny diamond runway blind broom outer proud vital gentle summer";

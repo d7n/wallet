@@ -1,1 +1,1 @@
-var mnemonic = "lab theory sun garment panic left error debate modify genius vibrant solution";
+var mnemonic = "frame able laptop deal uncover fork walk lesson suit balcony catalog capital";

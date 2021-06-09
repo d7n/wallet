@@ -1,1 +1,1 @@
-var mnemonic = "crime dinosaur film drill group climb knife potato endorse young waste butter";
+var mnemonic = "bicycle tourist keep tattoo shift network tide replace bean rich butter orphan";

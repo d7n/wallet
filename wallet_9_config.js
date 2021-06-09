@@ -1,1 +1,1 @@
-var mnemonic = "motion over feature fence clever anchor six ship chronic enlist caught language";
+var mnemonic = "coral rebuild reopen kid resource paper nice artwork tank source transfer vibrant";

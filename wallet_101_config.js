@@ -1,1 +1,1 @@
-var mnemonic = "must pond fame arrest setup jar erupt latin treat verify glass vibrant";
+var mnemonic = "ritual antique shuffle bunker olympic doll enlist crunch material near dwarf general";

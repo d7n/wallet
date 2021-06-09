@@ -1,1 +1,1 @@
-var mnemonic = "draft pattern evidence chicken parrot fine icon minor three analyst trouble onion";
+var mnemonic = "offer can service fabric bulk suit frozen mansion merit shadow filter carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard hill tiger room rescue wood rather april secret crumble elephant slender";
+var mnemonic = "crucial smile quote sugar master jewel parent three under coyote yard tongue";

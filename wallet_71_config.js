@@ -1,1 +1,1 @@
-var mnemonic = "ethics shell disorder settle pool muffin clip bike math october path range";
+var mnemonic = "swim twelve marble sorry crucial okay luggage possible pizza depend day step";

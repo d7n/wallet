@@ -1,1 +1,1 @@
-var mnemonic = "brown floor entry brisk gym light economy valve humble model random shed";
+var mnemonic = "run carry love soda matrix peasant veteran recall film couch chalk mix";

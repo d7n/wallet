@@ -1,1 +1,1 @@
-var mnemonic = "pattern face bar eye nothing arrest jump spray soap hole suspect tourist";
+var mnemonic = "brand shuffle awake field blouse educate jar echo pear share someone retreat";

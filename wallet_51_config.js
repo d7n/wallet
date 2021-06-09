@@ -1,1 +1,1 @@
-var mnemonic = "lucky trust bone drill spatial cart acid jaguar noble flip detail loyal";
+var mnemonic = "summer vacuum early civil grit relief pen dose camera wine frown bacon";

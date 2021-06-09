@@ -1,1 +1,1 @@
-var mnemonic = "saddle pitch female midnight mosquito timber truck envelope sad credit reward setup";
+var mnemonic = "actual arena pretty canvas rate peasant soft trick owner color lab service";

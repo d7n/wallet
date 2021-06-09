@@ -1,1 +1,1 @@
-var mnemonic = "city dilemma situate reunion road drama scrub swap legal jazz dinner dust";
+var mnemonic = "banana raw unit hint boy category tragic eyebrow unknown horror shell involve";

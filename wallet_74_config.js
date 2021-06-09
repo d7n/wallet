@@ -1,1 +1,1 @@
-var mnemonic = "tone crouch similar bonus cage flag muffin job mansion biology chat rapid";
+var mnemonic = "find aim odor betray disorder mutual okay excite scorpion galaxy lift viable";

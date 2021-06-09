@@ -1,1 +1,1 @@
-var mnemonic = "basket lyrics degree ramp select entire picnic parade guard leisure satisfy speak";
+var mnemonic = "muffin example vocal wide kingdom muffin fashion fortune stand excite jaguar grow";

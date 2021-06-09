@@ -1,1 +1,1 @@
-var mnemonic = "size husband manual rival onion main slight letter depth certain december accident";
+var mnemonic = "grab ocean desert service cook flight spy team common practice polar fashion";

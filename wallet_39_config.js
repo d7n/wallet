@@ -1,1 +1,1 @@
-var mnemonic = "annual october runway timber toy cake dance fault slice digital uniform select";
+var mnemonic = "regret indoor bronze remain doll cake canvas price march hobby pigeon body";

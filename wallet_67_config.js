@@ -1,1 +1,1 @@
-var mnemonic = "domain pelican maid version hockey tomorrow tube insane video swift uniform jungle";
+var mnemonic = "punch junk relief metal lend hour book kangaroo retreat distance theory seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "select chalk front ocean peasant dumb snake state crush disease siren alarm";
+var mnemonic = "size gaze human wrap inherit feel electric knock trigger exact ivory destroy";

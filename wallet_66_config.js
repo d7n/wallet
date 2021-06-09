@@ -1,1 +1,1 @@
-var mnemonic = "fall develop ethics left bubble outer crawl blood increase pact puzzle man";
+var mnemonic = "suffer ticket lawn survey victory delay nest concert arrest basket language comic";

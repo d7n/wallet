@@ -1,1 +1,1 @@
-var mnemonic = "keen raccoon spray laugh clip more token balance silver obtain people light";
+var mnemonic = "unable climb bind kid title veteran version coach next visa detail square";

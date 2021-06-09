@@ -1,1 +1,1 @@
-var mnemonic = "useless rigid wrap arch special west rather misery device siren plunge fence";
+var mnemonic = "seven prosper page sausage distance mirror whip elbow enroll physical wish fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "axis tiger display blouse boat badge cigar brick year dolphin ignore slow";
+var mnemonic = "risk gain between auto pretty parent above render tissue garlic person slogan";

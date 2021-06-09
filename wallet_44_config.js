@@ -1,1 +1,1 @@
-var mnemonic = "humor embody tent weapon suggest owner nest faculty flash siren biology dumb";
+var mnemonic = "work sample fuel decade off myth prize setup treat near dose opinion";

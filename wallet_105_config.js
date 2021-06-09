@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo weapon end snow goddess lawsuit dose young option poem dinner bean";
+var mnemonic = "supreme unique pull fantasy run fiber tiger globe oyster inhale utility false";

@@ -1,1 +1,1 @@
-var mnemonic = "junk success page mercy window mushroom piece helmet lady wrap empower dolphin";
+var mnemonic = "three lake pull hybrid crouch idle you easily audit correct quick exercise";

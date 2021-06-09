@@ -1,1 +1,1 @@
-var mnemonic = "desk pen visual icon weather busy frequent kitten drama bitter valve pluck";
+var mnemonic = "jacket trial fork gown unfold narrow iron common robot river flee device";

@@ -1,1 +1,1 @@
-var mnemonic = "cool sample fish useless nominee alpha call oil sock paper ramp middle";
+var mnemonic = "pretty scan action argue employ theme drill melt junk bind swamp empower";

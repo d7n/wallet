@@ -1,1 +1,1 @@
-var mnemonic = "concert voyage expose meat idea minimum close invest donate notice harsh tornado";
+var mnemonic = "mix sweet toilet bundle column firm museum vacant chest sleep usual produce";

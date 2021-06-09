@@ -1,1 +1,1 @@
-var mnemonic = "describe draft slot tonight mask space fringe item face bird find music";
+var mnemonic = "target now curtain save minor learn patient amazing guitar hope fury crush";

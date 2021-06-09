@@ -1,1 +1,1 @@
-var mnemonic = "sausage peace foot pony load bicycle bean extra round account stay civil";
+var mnemonic = "burden develop wave magic price frame payment dawn noise noodle ozone cement";

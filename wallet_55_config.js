@@ -1,1 +1,1 @@
-var mnemonic = "news supreme crime life control curious grocery eternal cause split coyote route";
+var mnemonic = "amateur rude stool mule next zoo mushroom father advance unveil arrive lift";

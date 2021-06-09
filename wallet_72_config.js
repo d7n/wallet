@@ -1,1 +1,1 @@
-var mnemonic = "true worth trust title believe make valve sick spin derive crack pulse";
+var mnemonic = "confirm sure kite surprise wear motor margin tag bus canal odor dinosaur";

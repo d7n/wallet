@@ -1,1 +1,1 @@
-var mnemonic = "scissors gaze say buyer effort satisfy club slush retire spread alley series";
+var mnemonic = "scout program range giggle margin energy high govern afford sniff august potato";

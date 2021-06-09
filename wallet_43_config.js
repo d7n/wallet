@@ -1,1 +1,1 @@
-var mnemonic = "tissue child oblige across legal until isolate process eight zoo belt measure";
+var mnemonic = "fish ice ecology remain energy double develop oppose invest act usage lecture";

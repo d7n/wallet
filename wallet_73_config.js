@@ -1,1 +1,1 @@
-var mnemonic = "search empty online sugar lobster post target humble curve pig rail point";
+var mnemonic = "sight magnet nose globe defy photo brown puppy gather firm harbor miss";

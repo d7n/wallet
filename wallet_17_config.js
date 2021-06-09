@@ -1,1 +1,1 @@
-var mnemonic = "sting opinion lazy face latin siege pistol slice control sudden bar decrease";
+var mnemonic = "manual oyster idle filter crisp odor patient curtain hidden color inspire once";

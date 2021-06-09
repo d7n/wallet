@@ -1,1 +1,1 @@
-var mnemonic = "supply across wonder claw receive this teach ahead sure lumber cost insect";
+var mnemonic = "convince amount escape pilot legend style cherry oak couple cube transfer question";

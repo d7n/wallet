@@ -1,1 +1,1 @@
-var mnemonic = "scrub visit enact decide record milk defense crunch remove swap include between";
+var mnemonic = "cause leopard trial chef park same nature easy tongue walk disagree smile";

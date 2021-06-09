@@ -1,1 +1,1 @@
-var mnemonic = "bid toe bind size play vault forward parrot address embrace soft gesture";
+var mnemonic = "roast cart vanish tattoo hollow valve display under pottery term hover weapon";

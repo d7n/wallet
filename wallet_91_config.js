@@ -1,1 +1,1 @@
-var mnemonic = "cloud loop random family extend bubble apart cook gasp opinion ship mix";
+var mnemonic = "minor episode region secret possible oblige tribe gravity zero post trophy blast";

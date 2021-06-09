@@ -1,1 +1,1 @@
-var mnemonic = "goddess regular omit debate cream broccoli post fresh woman boat cushion empty";
+var mnemonic = "teach check misery happy machine identify start year grid reveal index brass";

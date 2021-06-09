@@ -1,1 +1,1 @@
-var mnemonic = "erode assault junior defy gun rhythm blouse rival link industry dignity dove";
+var mnemonic = "mad oxygen episode method toddler lady fiscal palm century era young sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "toward poem desert seek now sauce slim funny benefit client expose exact";
+var mnemonic = "neck route example vast shy menu hurt stable rubber hub gold grit";

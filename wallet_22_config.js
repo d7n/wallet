@@ -1,1 +1,1 @@
-var mnemonic = "polar hollow wait until whisper delay garment bar job sell endless unusual";
+var mnemonic = "ocean situate filter humor remember vanish beyond body enforce also sweet drill";

@@ -1,1 +1,1 @@
-var mnemonic = "quick crash silk afraid cricket tiny hold any barrel tide teach replace";
+var mnemonic = "embrace muffin buzz olympic best slide flavor retire stand fossil evolve gasp";

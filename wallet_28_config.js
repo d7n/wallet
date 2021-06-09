@@ -1,1 +1,1 @@
-var mnemonic = "siege hedgehog soldier promote panda addict enlist guide ask gospel diamond yard";
+var mnemonic = "recycle imitate define destroy debris avoid rare project ranch like drop trend";

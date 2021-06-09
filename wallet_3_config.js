@@ -1,1 +1,1 @@
-var mnemonic = "mother across latin island best piece spice uniform board reduce eight thank";
+var mnemonic = "bomb genuine escape stamp disorder pottery random boss spike uniform width plug";

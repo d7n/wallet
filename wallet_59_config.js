@@ -1,1 +1,1 @@
-var mnemonic = "federal toe guess jump region maze test dry wisdom control clip nut";
+var mnemonic = "chair pass sample nest people enough exit trouble tennis behind hole master";

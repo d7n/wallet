@@ -1,1 +1,1 @@
-var mnemonic = "luxury adult badge capital butter struggle round tobacco pretty accuse glimpse connect";
+var mnemonic = "cement vicious film asset insect essay chief jewel scheme artist educate huge";

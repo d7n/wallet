@@ -1,1 +1,1 @@
-var mnemonic = "stand fee token museum exist unhappy abstract erupt input universe code wrong";
+var mnemonic = "catalog shiver shoulder describe hope toe pen cupboard eager monitor protect knife";

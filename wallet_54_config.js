@@ -1,1 +1,1 @@
-var mnemonic = "sugar possible magic cry candy dwarf blanket siege chaos garment lonely flat";
+var mnemonic = "goat margin rely season away front struggle need oxygen media swallow ball";

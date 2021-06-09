@@ -1,1 +1,1 @@
-var mnemonic = "spy movie keep kit shiver hidden hunt what maximum riot increase skill";
+var mnemonic = "tomato perfect harsh pigeon wood company spider spatial advance luggage fault dial";

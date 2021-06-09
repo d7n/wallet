@@ -1,1 +1,1 @@
-var mnemonic = "ivory vacant father taste turtle double cube swamp add chat kit toy";
+var mnemonic = "cancel property measure catch dune toddler melody aim garment funny penalty unaware";

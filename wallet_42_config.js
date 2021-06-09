@@ -1,1 +1,1 @@
-var mnemonic = "health menu caught draw trap argue rival host sustain crucial globe coach";
+var mnemonic = "unfold struggle link donate jungle charge woman skin iron attitude sun insect";
