@@ -1,1 +1,1 @@
-var mnemonic = "guide zebra prefer legend ride snake bamboo predict action steel walnut scrub";
+var mnemonic = "ethics catch corn increase average wagon maple found culture soap stadium drive";

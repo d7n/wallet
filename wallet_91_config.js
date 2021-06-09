@@ -1,1 +1,1 @@
-var mnemonic = "exotic beauty acid blouse mix rail year fan else pulp stuff winner";
+var mnemonic = "awake essence nasty trade vast palm salt mass plastic stereo come party";

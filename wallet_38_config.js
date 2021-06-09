@@ -1,1 +1,1 @@
-var mnemonic = "elite stand design crisp sword manage unusual alien body rain swap evolve";
+var mnemonic = "flee draft picture liar grab toward despair waste lamp payment differ drink";

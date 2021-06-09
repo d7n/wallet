@@ -1,1 +1,1 @@
-var mnemonic = "violin purse vintage ice lady eye ostrich almost trap actual liar copy";
+var mnemonic = "draft tuition pole grass net view stamp edge victory frown real verify";

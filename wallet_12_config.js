@@ -1,1 +1,1 @@
-var mnemonic = "borrow waste permit radar situate skate half tuition tail twenty mammal benefit";
+var mnemonic = "skin organ penalty organ refuse ecology network walnut movie stumble anchor lawsuit";

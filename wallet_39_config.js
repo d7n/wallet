@@ -1,1 +1,1 @@
-var mnemonic = "umbrella key puzzle runway extra shiver gravity pen bring inch endorse eternal";
+var mnemonic = "betray fun shadow trim scorpion blush fiber round comfort improve cricket denial";

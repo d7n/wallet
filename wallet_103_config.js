@@ -1,1 +1,1 @@
-var mnemonic = "tag sail angle clever envelope leopard combine essence lemon clock decide wreck";
+var mnemonic = "evil wave avocado remind coin place flip draft sea trick champion market";

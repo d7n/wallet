@@ -1,1 +1,1 @@
-var mnemonic = "pipe act skill water melt present august wrestle assume evoke round sentence";
+var mnemonic = "conduct eagle museum reason marine occur sustain address slice shy motion galaxy";

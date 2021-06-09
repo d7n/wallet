@@ -1,1 +1,1 @@
-var mnemonic = "view satisfy erase unhappy claim problem symbol clever advance inch mother ski";
+var mnemonic = "ozone select zone muffin trust table deposit space wear chat cloud thank";

@@ -1,1 +1,1 @@
-var mnemonic = "appear found fame tape mirror modify mimic abuse perfect meadow state shadow";
+var mnemonic = "obvious more myth wedding zebra device divert awesome upgrade deposit robust put";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope goddess company sudden dance secret brain message moral garage glide doll";
+var mnemonic = "limit lumber slide panda put runway dutch erupt health flag autumn false";

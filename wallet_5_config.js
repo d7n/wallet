@@ -1,1 +1,1 @@
-var mnemonic = "injury vital notice robot sad boat noise genuine tail pottery rural biology";
+var mnemonic = "column cherry real injury tape tiger disease tragic raven pause strike case";

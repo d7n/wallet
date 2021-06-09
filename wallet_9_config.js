@@ -1,1 +1,1 @@
-var mnemonic = "witness negative capable ozone notice crack later game craft fresh mobile injury";
+var mnemonic = "balance science undo husband lady brain alter stable catch almost walk either";

@@ -1,1 +1,1 @@
-var mnemonic = "craft enable general buzz drift update moment tiny december mean noise blossom";
+var mnemonic = "notice orbit opinion acid essay also drift proud dawn art question spider";

@@ -1,1 +1,1 @@
-var mnemonic = "security bring traffic aisle shield clerk wire baby umbrella scan clump system";
+var mnemonic = "enrich toward rescue alert someone nasty casual hidden project abstract coach walnut";

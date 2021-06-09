@@ -1,1 +1,1 @@
-var mnemonic = "usual soda inject vapor find metal regular hire jelly comfort video term";
+var mnemonic = "memory artist space reject joy useless into bitter identify bag tail whale";

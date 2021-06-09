@@ -1,1 +1,1 @@
-var mnemonic = "boss feature dry control income cost anxiety fetch enforce almost bamboo eternal";
+var mnemonic = "ecology thing crumble shop fame grow degree swear pigeon motion solid acoustic";

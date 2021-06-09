@@ -1,1 +1,1 @@
-var mnemonic = "luxury swallow alpha amazing enforce essence level judge tilt sleep letter elephant";
+var mnemonic = "trap toilet service stand dove slab away tribe rate area sort ahead";

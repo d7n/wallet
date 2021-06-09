@@ -1,1 +1,1 @@
-var mnemonic = "lumber protect define isolate change million sudden erupt coil once rapid year";
+var mnemonic = "local false direct apple disorder cruel sausage average govern engage feed caught";

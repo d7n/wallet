@@ -1,1 +1,1 @@
-var mnemonic = "regret fiction marine extend anchor apart apple fold head find attitude west";
+var mnemonic = "acquire bundle festival meat boost skin upset split lonely travel toss cry";

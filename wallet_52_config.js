@@ -1,1 +1,1 @@
-var mnemonic = "pipe normal sell twenty garage over wreck pioneer ivory fan concert tornado";
+var mnemonic = "evoke broom lounge address wait beef wrap govern front guess truth exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "fat confirm pig phrase garage legal electric gloom ancient violin quick cruel";
+var mnemonic = "swap require month crater strike subway island brick lazy you crowd card";

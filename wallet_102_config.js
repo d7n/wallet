@@ -1,1 +1,1 @@
-var mnemonic = "crawl science announce myself medal allow nut duck suggest blame walnut negative";
+var mnemonic = "bracket suspect grant share cause shop slide ice phone keen lab deliver";

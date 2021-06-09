@@ -1,1 +1,1 @@
-var mnemonic = "vapor eyebrow decade chef joke enter input limit fun road reason train";
+var mnemonic = "wine toe polar strategy bag romance bulk stem express smoke brief boring";

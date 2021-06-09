@@ -1,1 +1,1 @@
-var mnemonic = "utility better crash jeans pupil skill switch comfort elegant reveal museum forest";
+var mnemonic = "manual mimic awkward mass fall fly apart flag antique make crunch pattern";

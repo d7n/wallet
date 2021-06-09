@@ -1,1 +1,1 @@
-var mnemonic = "this riot comic rural brand grocery merit pill any example reward tooth";
+var mnemonic = "plate absent regular carbon pink beyond tonight supreme mass program violin sorry";

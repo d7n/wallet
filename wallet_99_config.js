@@ -1,1 +1,1 @@
-var mnemonic = "ready journey spice aunt van fruit harvest wrong give nation north below";
+var mnemonic = "width festival calm fame mother play beef inner wink trumpet pen combine";

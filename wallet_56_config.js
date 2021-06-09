@@ -1,1 +1,1 @@
-var mnemonic = "plunge action elite effort trick offer wedding emerge domain observe twenty valid";
+var mnemonic = "pony blossom this garbage cradle skirt off accuse matter poem judge early";

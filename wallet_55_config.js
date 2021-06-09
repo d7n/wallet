@@ -1,1 +1,1 @@
-var mnemonic = "business cloth disorder treat much dad hero admit ugly walk second cube";
+var mnemonic = "alpha floor lucky wet hospital grass stamp climb level relief modify harvest";

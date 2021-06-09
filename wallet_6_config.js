@@ -1,1 +1,1 @@
-var mnemonic = "advance regular click fever awesome armor material squirrel course result lab absurd";
+var mnemonic = "escape defense drop exit crisp gauge income travel idle service trade chicken";

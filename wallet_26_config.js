@@ -1,1 +1,1 @@
-var mnemonic = "soon polar mountain olympic nation extend mean poet certain dance live scatter";
+var mnemonic = "gown atom solution abandon busy much calm attitude chair brass hobby obscure";

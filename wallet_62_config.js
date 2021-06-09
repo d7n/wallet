@@ -1,1 +1,1 @@
-var mnemonic = "response must planet anxiety crater grant gown expire hybrid pact embody mad";
+var mnemonic = "illegal ability noise polar must fortune rug income charge banner join cigar";

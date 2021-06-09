@@ -1,1 +1,1 @@
-var mnemonic = "cigar innocent that bike saddle educate meadow must resemble grit crouch typical";
+var mnemonic = "flag ripple unfair average mix wheel fault memory sign chicken sick fury";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter six travel above scrub father pilot address father legal glare ahead";
+var mnemonic = "obscure traffic robust nominee dinosaur gap recipe kitten spot carbon wire pigeon";

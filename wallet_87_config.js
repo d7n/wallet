@@ -1,1 +1,1 @@
-var mnemonic = "wolf citizen video fiscal sibling car horse snow eyebrow payment wise divorce";
+var mnemonic = "often metal swarm forum nice purchase muffin thank normal sight critic circle";

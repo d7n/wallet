@@ -1,1 +1,1 @@
-var mnemonic = "head stock gauge club lens pioneer offer suggest screen retreat cabin volume";
+var mnemonic = "ten brief goose suspect absorb drastic kid awesome slab lab laugh expire";

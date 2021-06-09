@@ -1,1 +1,1 @@
-var mnemonic = "knife dish tone lottery reduce purpose scan little thumb scrub fuel diagram";
+var mnemonic = "weekend laundry correct shock slush wreck bless image swing subject service grace";

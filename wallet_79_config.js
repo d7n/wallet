@@ -1,1 +1,1 @@
-var mnemonic = "flash moment just liberty video tooth sheriff shop waste over what glow";
+var mnemonic = "there lion marble slender nuclear core mention vanish earn foot diesel net";

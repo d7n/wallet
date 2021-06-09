@@ -1,1 +1,1 @@
-var mnemonic = "giggle impose initial pulse what wolf index topic grace ostrich diesel citizen";
+var mnemonic = "brisk cheese clerk stock soda spell caution truth main affair cash second";

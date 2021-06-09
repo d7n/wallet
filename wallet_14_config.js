@@ -1,1 +1,1 @@
-var mnemonic = "learn gesture describe unfair lock hamster tape arena joke glory wrap convince";
+var mnemonic = "spread flat calm bounce pencil spring alarm want problem outdoor blush vote";

@@ -1,1 +1,1 @@
-var mnemonic = "tool carbon quote multiply resemble gesture anxiety script flag black sand suffer";
+var mnemonic = "good bring someone gravity grain noise viable side river love twist seminar";

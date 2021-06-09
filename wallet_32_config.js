@@ -1,1 +1,1 @@
-var mnemonic = "dress duck spider clay castle success zebra east system join match evil";
+var mnemonic = "express pause owner denial photo tomorrow tower board middle mistake auction secret";

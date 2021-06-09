@@ -1,1 +1,1 @@
-var mnemonic = "blush valley grace push soft acquire please expect cherry young mirror edit";
+var mnemonic = "strong crush kiss sentence foil board broom mule cigar garbage scatter volume";

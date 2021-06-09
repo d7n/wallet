@@ -1,1 +1,1 @@
-var mnemonic = "find tribe trip gasp wrist under habit news brass panel trip maid";
+var mnemonic = "exist race access chronic siren switch wasp hold sleep modify hospital impulse";

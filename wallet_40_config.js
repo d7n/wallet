@@ -1,1 +1,1 @@
-var mnemonic = "nasty library ripple hole number approve pupil fatigue cat divert cement buyer";
+var mnemonic = "grain glare comic cry midnight shift bonus stairs include solar credit tail";

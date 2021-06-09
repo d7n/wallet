@@ -1,1 +1,1 @@
-var mnemonic = "bright number column sword hold lava proof skull wheat absurd foster wife";
+var mnemonic = "canyon benefit desert similar asset inner sauce pizza master badge fog want";

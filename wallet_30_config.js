@@ -1,1 +1,1 @@
-var mnemonic = "picnic shallow chaos valid clever giraffe field grow fork regular pencil repair";
+var mnemonic = "build nut stay submit okay praise reflect feel flower metal pretty multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "cram random solve security find vacant chunk capable action help napkin inquiry";
+var mnemonic = "window end focus cart when latin pioneer dutch share black limit image";

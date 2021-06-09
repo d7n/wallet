@@ -1,1 +1,1 @@
-var mnemonic = "fruit help convince tone roast party core scare cloth type away menu";
+var mnemonic = "creek fish female cost zone conduct cup into fortune fade artist fetch";

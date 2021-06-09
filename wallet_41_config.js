@@ -1,1 +1,1 @@
-var mnemonic = "sense rifle abuse nasty deposit joke smoke spider nuclear auto student moon";
+var mnemonic = "midnight student other comfort unique circle whisper discover breeze idea uncover produce";

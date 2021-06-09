@@ -1,1 +1,1 @@
-var mnemonic = "baby good era beyond rotate disorder destroy horror fuel ask also mobile";
+var mnemonic = "fiscal child school strike index champion one repeat evoke bacon oven canvas";

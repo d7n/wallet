@@ -1,1 +1,1 @@
-var mnemonic = "blossom middle exhibit dragon labor sail struggle annual patient insect case verify";
+var mnemonic = "fiction recipe tunnel mule floor caught attract curtain market asset notice lend";

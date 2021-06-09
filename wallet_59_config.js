@@ -1,1 +1,1 @@
-var mnemonic = "supply clump glow swallow wear require opera sample sheriff happy segment dial";
+var mnemonic = "connect wonder wrist novel cricket robust innocent sibling hand quantum discover swift";

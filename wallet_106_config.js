@@ -1,1 +1,1 @@
-var mnemonic = "ring update pretty march utility frog iron lift park goose strike entire";
+var mnemonic = "phrase foil sun silk include hospital blouse fall endless brand universe dress";

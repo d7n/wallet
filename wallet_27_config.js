@@ -1,1 +1,1 @@
-var mnemonic = "slam become enact canyon kind rival frog ask walnut silly hen impact";
+var mnemonic = "art echo finger shoot travel buddy country forest hen wave traffic maze";

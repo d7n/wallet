@@ -1,1 +1,1 @@
-var mnemonic = "alcohol seed air talent share matter lens cheap barely original glow tube";
+var mnemonic = "rapid patient spy dawn harvest oxygen plunge gloom remove super shadow frequent";

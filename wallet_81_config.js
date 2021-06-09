@@ -1,1 +1,1 @@
-var mnemonic = "exotic unveil furnace purity random another total price occur satoshi start leave";
+var mnemonic = "tent embrace soft lamp ring three acoustic uphold utility pattern payment language";

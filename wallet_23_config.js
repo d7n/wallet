@@ -1,1 +1,1 @@
-var mnemonic = "neglect unusual blast anxiety monkey funny slam belt sweet card narrow often";
+var mnemonic = "pear dragon basic alter chuckle argue rebel trust tone pudding report ribbon";

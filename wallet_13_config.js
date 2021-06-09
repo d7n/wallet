@@ -1,1 +1,1 @@
-var mnemonic = "truck offer sibling door anger pledge math express foil wide space normal";
+var mnemonic = "leg crop unaware suffer glance arrest wall iron must harvest forum marine";

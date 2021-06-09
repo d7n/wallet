@@ -1,1 +1,1 @@
-var mnemonic = "maple rotate vapor above absent combine victory young huge another fine lunar";
+var mnemonic = "road can that never novel oblige stool shove screen immune okay device";

@@ -1,1 +1,1 @@
-var mnemonic = "length almost regular put skin burden actual panda little lift help fine";
+var mnemonic = "pottery history sad bag exchange scrub science member dust gaze pride bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "twist taste also target trend enter grocery square trial fantasy laundry clever";
+var mnemonic = "coast tobacco taxi burden question small table divorce achieve toast salad hurry";

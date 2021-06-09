@@ -1,1 +1,1 @@
-var mnemonic = "same gain inch lock ticket real safe frequent oppose stumble wealth strong";
+var mnemonic = "answer immune head cliff sleep winner leopard web verify learn burden annual";

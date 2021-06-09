@@ -1,1 +1,1 @@
-var mnemonic = "alley cancel humble dynamic couch current recall polar goat extend endless member";
+var mnemonic = "valve nerve coffee stumble oven foster toss connect cliff exhaust fame naive";

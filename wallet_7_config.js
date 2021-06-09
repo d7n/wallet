@@ -1,1 +1,1 @@
-var mnemonic = "fiction skirt guilt drill prosper mix month elbow letter flush vessel situate";
+var mnemonic = "chef oak scout street must behave auction object anxiety neutral unknown seed";

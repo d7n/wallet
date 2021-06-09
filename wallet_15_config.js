@@ -1,1 +1,1 @@
-var mnemonic = "frequent desert carry initial seat seek home embark final have basket step";
+var mnemonic = "okay all pledge sign valley animal bring pink budget sentence aunt bean";

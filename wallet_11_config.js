@@ -1,1 +1,1 @@
-var mnemonic = "chase divide poem pyramid hint ostrich man position chicken news vote size";
+var mnemonic = "habit pelican drama sudden riot exile light machine few flag room biology";

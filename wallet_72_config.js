@@ -1,1 +1,1 @@
-var mnemonic = "quality cream salt turtle pink oxygen wrong jelly strong tackle clinic blue";
+var mnemonic = "myself pole midnight select enhance report link amused blood decorate afraid blush";

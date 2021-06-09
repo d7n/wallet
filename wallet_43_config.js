@@ -1,1 +1,1 @@
-var mnemonic = "diary device obvious rubber race million vendor fetch decide movie pool skill";
+var mnemonic = "tiger connect exile true net horse output help culture cancel drive satoshi";

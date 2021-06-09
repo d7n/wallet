@@ -1,1 +1,1 @@
-var mnemonic = "churn canal recipe rally gallery wreck rigid track once nation scheme child";
+var mnemonic = "arrive design theory stereo dismiss anchor cool inspire steak admit erupt original";

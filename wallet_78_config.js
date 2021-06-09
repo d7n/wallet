@@ -1,1 +1,1 @@
-var mnemonic = "fashion curtain bracket switch pony day young shield torch smart pepper inflict";
+var mnemonic = "control fame walnut slow monster blast tourist arch fame over canal girl";

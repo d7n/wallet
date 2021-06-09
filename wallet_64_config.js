@@ -1,1 +1,1 @@
-var mnemonic = "when math abandon guess can nominee bracket ramp equip beef bullet review";
+var mnemonic = "abandon suit office spot million never attack title into sponsor area hedgehog";

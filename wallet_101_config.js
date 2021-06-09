@@ -1,1 +1,1 @@
-var mnemonic = "help simple drastic list stereo wage wise kingdom wise into lounge six";
+var mnemonic = "swing entire outdoor elite predict spin inflict peanut frequent actual link reflect";

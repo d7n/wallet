@@ -1,1 +1,1 @@
-var mnemonic = "add reflect answer long mean entry edit matrix chapter aerobic try insane";
+var mnemonic = "hammer private acquire fee wife actor junk reopen clump effort frequent bicycle";

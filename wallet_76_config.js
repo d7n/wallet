@@ -1,1 +1,1 @@
-var mnemonic = "mad truck convince code young auction bind grant core axis sketch segment";
+var mnemonic = "alter member load drastic symptom valid air wheel relax air jeans gate";

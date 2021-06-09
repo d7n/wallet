@@ -1,1 +1,1 @@
-var mnemonic = "absent mouse want pretty strategy guilt cash snow add attend gauge tourist";
+var mnemonic = "path coyote rug dress wink sound discover replace swallow nose invest income";

@@ -1,1 +1,1 @@
-var mnemonic = "manage baby cash high autumn among seat drift lizard pitch apple among";
+var mnemonic = "weather cram sunset broccoli open car choose inherit blush maple volcano dune";

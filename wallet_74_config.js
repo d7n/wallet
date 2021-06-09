@@ -1,1 +1,1 @@
-var mnemonic = "stamp chronic whisper below pen bar teach stairs quit jeans pattern eyebrow";
+var mnemonic = "wreck salad hat clock fee midnight improve seat legal degree athlete siege";

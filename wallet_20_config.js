@@ -1,1 +1,1 @@
-var mnemonic = "cycle fiscal inflict treat surge hill tell boost cereal spend thing hen";
+var mnemonic = "defy write license exile display federal place brother session salon stadium toe";

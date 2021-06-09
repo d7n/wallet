@@ -1,1 +1,1 @@
-var mnemonic = "click spin ignore provide false produce start market artist dinner tuna foster";
+var mnemonic = "soup luggage immense dignity tip guilt clip sport collect rule accuse plate";

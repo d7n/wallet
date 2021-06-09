@@ -1,1 +1,1 @@
-var mnemonic = "monster fresh harvest phone multiply tumble mistake trigger vault admit smooth salmon";
+var mnemonic = "sniff ill awful clinic gym dentist student sing cheap lecture demand custom";

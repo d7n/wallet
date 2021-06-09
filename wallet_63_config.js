@@ -1,1 +1,1 @@
-var mnemonic = "news shiver round easy shrimp rack exile ball stem loyal cupboard system";
+var mnemonic = "first boss arrest wall whisper also blue wild rail banner fault swallow";

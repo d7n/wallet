@@ -1,1 +1,1 @@
-var mnemonic = "like armed owner judge vibrant leaf muscle tell future page network magic";
+var mnemonic = "farm tomato below joy suffer ski keep abandon arrive avocado more silk";

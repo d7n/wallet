@@ -1,1 +1,1 @@
-var mnemonic = "wealth path remember dawn midnight defy afford job loud stage cradle orbit";
+var mnemonic = "cube hidden engage wheel shift surround suspect wolf stool critic shaft section";

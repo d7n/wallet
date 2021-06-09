@@ -1,1 +1,1 @@
-var mnemonic = "obvious rare avoid skull poverty field fire describe enough unlock apple cruel";
+var mnemonic = "vast spoil chef lizard post minute table caution avoid correct mean bone";

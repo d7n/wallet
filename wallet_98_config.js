@@ -1,1 +1,1 @@
-var mnemonic = "month song stomach sketch luggage pill labor feed degree law merry wage";
+var mnemonic = "vendor soup eight arrange urban guilt bubble giggle object pioneer loud egg";

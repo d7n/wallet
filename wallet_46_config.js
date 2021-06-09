@@ -1,1 +1,1 @@
-var mnemonic = "hollow cool powder vivid fix rotate spend mail spin weather canyon neither";
+var mnemonic = "kingdom safe sea congress transfer tray uphold embrace hurt magic mansion shine";
