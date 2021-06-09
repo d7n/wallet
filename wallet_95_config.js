@@ -1,1 +1,1 @@
-var mnemonic = "random solar basic fashion onion tortoise remain endless enforce slice enemy test";
+var mnemonic = "poet february dance script repair pledge void jealous fetch tiger consider enough";

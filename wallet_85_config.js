@@ -1,1 +1,1 @@
-var mnemonic = "deposit risk genre will test armed borrow bundle myself unhappy blush woman";
+var mnemonic = "feature topic auto garage clay weapon inch park slogan gorilla approve minor";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle finish slide bench black world royal fade step economy random era";
+var mnemonic = "boat device unfold broccoli media smile injury stick silent orange human coil";

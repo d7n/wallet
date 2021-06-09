@@ -1,1 +1,1 @@
-var mnemonic = "order between blood custom carbon ankle twice vanish culture maximum stuff please";
+var mnemonic = "twin ceiling leg artefact much grace upon donor inject salmon dose capital";

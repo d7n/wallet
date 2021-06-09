@@ -1,1 +1,1 @@
-var mnemonic = "leaf soldier ring pledge jacket lemon sound pyramid stock ten figure mobile";
+var mnemonic = "child vanish cart fan tomorrow seed zoo police pole crash gun walk";

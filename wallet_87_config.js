@@ -1,1 +1,1 @@
-var mnemonic = "employ law collect fall fan symbol physical twist original toast long grocery";
+var mnemonic = "main blush naive sun venue jewel system supply behind neither alley lesson";

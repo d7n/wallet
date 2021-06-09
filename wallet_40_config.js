@@ -1,1 +1,1 @@
-var mnemonic = "unfair silent winner program cargo space correct insane comic wrestle fancy miss";
+var mnemonic = "fit sunny nice swing paper pool exhibit galaxy cabin hunt smile move";

@@ -1,1 +1,1 @@
-var mnemonic = "believe kid dial suit view trim guard tunnel decide fiction prevent because";
+var mnemonic = "lunch example cable diet initial poem goddess exit basic help course mad";

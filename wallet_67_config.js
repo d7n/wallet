@@ -1,1 +1,1 @@
-var mnemonic = "oven reopen swamp holiday warfare bag ticket ignore idle put image jar";
+var mnemonic = "farm coconut cliff eternal naive expose shiver zebra problem conduct busy admit";

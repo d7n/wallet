@@ -1,1 +1,1 @@
-var mnemonic = "online vote squirrel auction ankle icon capital worry magnet tone lens scissors";
+var mnemonic = "muffin art call jeans brave prize smoke reopen chapter gain ahead soup";

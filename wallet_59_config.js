@@ -1,1 +1,1 @@
-var mnemonic = "inch cluster canyon urban autumn carpet glide deposit service leopard planet consider";
+var mnemonic = "close secret hip good sunny forest gloom glad safe once sunset subject";

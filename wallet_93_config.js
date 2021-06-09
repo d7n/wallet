@@ -1,1 +1,1 @@
-var mnemonic = "whisper lounge sunny grab sleep lens mask cart sleep empty sustain jaguar";
+var mnemonic = "visual escape bind damp drive sudden pill satisfy praise lottery huge accident";

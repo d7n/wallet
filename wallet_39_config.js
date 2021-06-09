@@ -1,1 +1,1 @@
-var mnemonic = "divide already conduct cave key gentle pride weather guilt safe mixed east";
+var mnemonic = "submit hood aware visit misery asset arrive mechanic become bicycle lobster maximum";

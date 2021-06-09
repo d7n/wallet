@@ -1,1 +1,1 @@
-var mnemonic = "private need artwork hill brass mean card promote salad west symbol habit";
+var mnemonic = "agree release convince catch wink rug armor large cool glance stuff neutral";

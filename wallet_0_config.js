@@ -1,1 +1,1 @@
-var mnemonic = "initial between hidden wisdom omit year scorpion glue warrior tiny fruit fantasy";
+var mnemonic = "shiver cheap brain right stable warfare language worth steak fame coach erase";

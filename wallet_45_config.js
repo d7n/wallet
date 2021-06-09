@@ -1,1 +1,1 @@
-var mnemonic = "above valid disease nasty soldier timber pen circle token soldier often shoot";
+var mnemonic = "kangaroo bean confirm else easy uncle sponsor churn clean engage journey smile";

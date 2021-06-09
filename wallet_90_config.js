@@ -1,1 +1,1 @@
-var mnemonic = "robust also fever catch happy protect space valid service find track office";
+var mnemonic = "help blood barely such proud make forget guess later supply between next";

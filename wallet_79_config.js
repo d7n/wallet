@@ -1,1 +1,1 @@
-var mnemonic = "soldier energy walk cabbage program exit harbor lonely liquid globe forest devote";
+var mnemonic = "senior wave umbrella label garlic virtual local music detect design loop black";

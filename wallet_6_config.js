@@ -1,1 +1,1 @@
-var mnemonic = "prefer another wear weird cake expose place man abstract skirt invest seven";
+var mnemonic = "mouse decorate potato gallery minimum decrease coyote miss chase clinic harvest message";

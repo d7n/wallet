@@ -1,1 +1,1 @@
-var mnemonic = "public husband dish payment acid donkey town close hungry violin husband normal";
+var mnemonic = "fog area merry scissors tag pull glimpse bubble hello saddle cactus provide";

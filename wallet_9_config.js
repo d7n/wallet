@@ -1,1 +1,1 @@
-var mnemonic = "eagle over awesome enact dragon satisfy swap cloud patch equal daughter peasant";
+var mnemonic = "dynamic swarm addict faith lizard pig sick used robot worry despair off";

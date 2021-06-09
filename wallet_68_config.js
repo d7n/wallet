@@ -1,1 +1,1 @@
-var mnemonic = "million rhythm able burger flash stool vessel cheap dragon family end remove";
+var mnemonic = "globe word patch useful artwork echo elder blur robot woman industry select";

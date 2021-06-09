@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin bargain exchange now hammer math level dream cat race era renew";
+var mnemonic = "theme follow bullet fold little culture gadget woman will pistol grief champion";

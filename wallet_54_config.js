@@ -1,1 +1,1 @@
-var mnemonic = "habit cart wash viable grow token input repair general hybrid cross region";
+var mnemonic = "guess cloud fog brand claim electric access bicycle supreme essay armed under";

@@ -1,1 +1,1 @@
-var mnemonic = "agent beach veteran laptop mixture jump need ball spot bleak stem security";
+var mnemonic = "basket myself illness expire diet glow favorite flame finish feed enroll card";

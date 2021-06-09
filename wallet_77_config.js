@@ -1,1 +1,1 @@
-var mnemonic = "title umbrella angry trouble crystal eyebrow lift gravity during boost decrease narrow";
+var mnemonic = "raise balcony shallow husband month witness tag perfect route tragic robust estate";

@@ -1,1 +1,1 @@
-var mnemonic = "depth veteran venue iron ranch bring caution crystal kiwi security spin sick";
+var mnemonic = "copy tuition image ordinary crucial helmet first tortoise open abstract topple december";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare initial regular link churn drum supply flower decline rely patch involve";
+var mnemonic = "case lazy fun design cliff slot spy radio bench amateur oval clerk";

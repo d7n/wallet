@@ -1,1 +1,1 @@
-var mnemonic = "either smooth trick jacket list private host praise regular nerve title dentist";
+var mnemonic = "bone property index illegal cave uniform december pull race fame cheap surface";

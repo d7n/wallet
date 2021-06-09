@@ -1,1 +1,1 @@
-var mnemonic = "music cart afford choose verify actress eagle odor hover pond mule skate";
+var mnemonic = "false recall bracket decide comfort spring impose bar laundry drama nurse cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "normal dish equal raccoon tumble layer affair cruise smart bomb diet over";
+var mnemonic = "fragile captain room around tiger avocado young reward three hello portion avocado";

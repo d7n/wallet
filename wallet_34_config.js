@@ -1,1 +1,1 @@
-var mnemonic = "erode noodle desk cement expire better drama easy treat old soft orbit";
+var mnemonic = "donate divert twenty choice kiss report violin artist awake method consider consider";

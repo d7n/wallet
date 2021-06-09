@@ -1,1 +1,1 @@
-var mnemonic = "setup fly solar knife audit actress humble volume sort vivid bicycle shaft";
+var mnemonic = "chunk visual buddy common fat divert walnut crane vault gallery supreme such";

@@ -1,1 +1,1 @@
-var mnemonic = "marble mad timber hover horn pottery universe worth concert output conduct chicken";
+var mnemonic = "office broken divert steak decade moon result thing float ill cute frequent";

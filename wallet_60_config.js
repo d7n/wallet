@@ -1,1 +1,1 @@
-var mnemonic = "tobacco turtle topple crunch split fiber aunt tornado veteran lyrics state clutch";
+var mnemonic = "sail tenant unaware awesome juice sponsor museum table viable connect omit legal";

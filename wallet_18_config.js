@@ -1,1 +1,1 @@
-var mnemonic = "ranch erosion patient rug better love infant pioneer glad bird give slender";
+var mnemonic = "cinnamon board monkey rapid example slab mercy dream lion arctic robust busy";

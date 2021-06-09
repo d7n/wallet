@@ -1,1 +1,1 @@
-var mnemonic = "grid volcano fade manage march federal sting muffin mouse fork sail verb";
+var mnemonic = "return lumber manual claim father husband cry diesel inject ridge fork impact";

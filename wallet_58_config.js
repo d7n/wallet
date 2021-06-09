@@ -1,1 +1,1 @@
-var mnemonic = "entire aware anchor sunset math parent tennis great liquid slide record fragile";
+var mnemonic = "lemon infant stereo bless spend among flavor rebuild man ginger estate wild";

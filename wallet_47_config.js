@@ -1,1 +1,1 @@
-var mnemonic = "name little welcome steak birth dawn dish erupt settle scrap enact wedding";
+var mnemonic = "dial stone laundry castle term fragile anchor abstract mail fiber brief position";

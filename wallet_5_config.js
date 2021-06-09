@@ -1,1 +1,1 @@
-var mnemonic = "clown level property enter achieve crisp scan network story damage rich bone";
+var mnemonic = "stumble pudding penalty casino dry excuse response phone raw hire onion club";

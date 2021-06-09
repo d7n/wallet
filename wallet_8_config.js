@@ -1,1 +1,1 @@
-var mnemonic = "yellow repeat kite twist fitness draft version potato decorate faith mail rubber";
+var mnemonic = "suffer sea lucky arena sadness discover fault mind volcano virtual today such";

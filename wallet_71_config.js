@@ -1,1 +1,1 @@
-var mnemonic = "casual long olive tattoo device team wine circle urban convince waste dentist";
+var mnemonic = "where make noodle polar prize panther creek home burger exclude frozen mobile";

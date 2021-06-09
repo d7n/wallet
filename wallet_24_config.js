@@ -1,1 +1,1 @@
-var mnemonic = "bomb shallow tail sugar hedgehog confirm beef sock meat okay surge only";
+var mnemonic = "same figure blush oval danger run moon captain monster ten smoke brass";

@@ -1,1 +1,1 @@
-var mnemonic = "glass rack radar magic enemy grass swap february cotton time inhale satisfy";
+var mnemonic = "arrange mirror lamp seat begin wool carbon blast crop push display settle";

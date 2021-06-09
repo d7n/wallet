@@ -1,1 +1,1 @@
-var mnemonic = "waste anxiety divert happy alarm depend attack ketchup plastic seek risk soup";
+var mnemonic = "hazard leg abandon stem sad guide much hair salon april buddy win";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican life earn require spring embody yard behave link picture corn caution";
+var mnemonic = "latin clap link month wish east burden author intact quiz angle life";

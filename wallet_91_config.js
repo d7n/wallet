@@ -1,1 +1,1 @@
-var mnemonic = "attitude weapon permit other document engine spatial rescue charge trim suspect often";
+var mnemonic = "index virtual flock black boil unlock alert lecture similar wonder electric festival";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter medal gadget reveal denial offer squeeze shoe parrot clip myth express";
+var mnemonic = "pole high shield input eagle galaxy gospel car weird endorse goddess rotate";

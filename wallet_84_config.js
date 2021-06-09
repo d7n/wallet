@@ -1,1 +1,1 @@
-var mnemonic = "void pass expect aware reopen approve oblige brain salad grit poem wagon";
+var mnemonic = "yard awkward empower special cloth junior forward great weapon fork child wasp";

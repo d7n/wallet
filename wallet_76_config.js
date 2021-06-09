@@ -1,1 +1,1 @@
-var mnemonic = "emotion attack dismiss mimic success dumb project guard inquiry diary tiger main";
+var mnemonic = "axis warrior bench rib flush play crystal kangaroo squirrel sail hip tiger";

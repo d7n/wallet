@@ -1,1 +1,1 @@
-var mnemonic = "cycle muscle material rifle aisle myself circle sense ready skull glory forward";
+var mnemonic = "sentence cargo history arrange search fruit depend orchard cute digital author orphan";

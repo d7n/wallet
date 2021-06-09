@@ -1,1 +1,1 @@
-var mnemonic = "language evidence deputy episode wear shock level design under easy normal song";
+var mnemonic = "evil stove beyond method broom enemy tuition donate oak symbol group run";

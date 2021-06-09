@@ -1,1 +1,1 @@
-var mnemonic = "guitar marine height coil rug about outdoor tackle pink sort eyebrow observe";
+var mnemonic = "include obvious good food bleak rib blind struggle problem arch sock assume";

@@ -1,1 +1,1 @@
-var mnemonic = "cute student ladder hunt meat claw sight card wine father assume stuff";
+var mnemonic = "topple spoon fever melt curtain chat include hard enter sell issue stumble";

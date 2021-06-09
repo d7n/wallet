@@ -1,1 +1,1 @@
-var mnemonic = "join route chimney rude equal lucky sunset luxury kiwi usual cactus hamster";
+var mnemonic = "mouse mean parrot defense annual achieve connect trade hair earn angry cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "swap party rebuild clog junior enter crumble lunar sea curtain trust urge";
+var mnemonic = "enhance giggle smooth burden thank rude face drive parade syrup accident script";

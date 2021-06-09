@@ -1,1 +1,1 @@
-var mnemonic = "stomach midnight daughter tennis tired elephant only drum side magic that turkey";
+var mnemonic = "unfold film ceiling jump industry must humble salute win speed asthma surprise";

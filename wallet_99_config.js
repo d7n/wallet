@@ -1,1 +1,1 @@
-var mnemonic = "legal vast arm okay differ happy march issue vague toddler evolve high";
+var mnemonic = "atom marine addict axis gym hobby shiver sketch old accuse grid decide";

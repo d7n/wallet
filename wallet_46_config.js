@@ -1,1 +1,1 @@
-var mnemonic = "cereal fringe vital net alone wheel rose feature direct deputy lake galaxy";
+var mnemonic = "renew develop photo flag february alert cradle length music season correct junk";

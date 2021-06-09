@@ -1,1 +1,1 @@
-var mnemonic = "vehicle usual file absent tray noodle axis vicious author dismiss window thumb";
+var mnemonic = "fiber gun gorilla stable dial priority column virtual chase tumble two horror";

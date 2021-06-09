@@ -1,1 +1,1 @@
-var mnemonic = "magnet raw sausage ahead early actual answer purse train merry goat verb";
+var mnemonic = "agree grape tilt laugh harvest border arena narrow music life quiz borrow";

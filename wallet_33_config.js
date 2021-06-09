@@ -1,1 +1,1 @@
-var mnemonic = "box vessel seek grace element weird loan baby arena mechanic casual figure";
+var mnemonic = "market hamster magic surface crime believe cement screen man youth yard remove";

@@ -1,1 +1,1 @@
-var mnemonic = "basic visa ten wisdom sausage fabric heavy wrestle noodle swamp tiny script";
+var mnemonic = "fancy wave visit rack act fantasy duck magnet focus trigger board cement";

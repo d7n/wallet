@@ -1,1 +1,1 @@
-var mnemonic = "exact moral problem replace wash coral desert shrug minute ancient trial grunt";
+var mnemonic = "only host shaft vacuum pencil lemon bottom lens false envelope cube home";

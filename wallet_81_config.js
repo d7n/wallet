@@ -1,1 +1,1 @@
-var mnemonic = "hotel history basket sample almost glare sample violin all sock twin scale";
+var mnemonic = "farm urban predict seminar aerobic text rare ill purity door road rebel";

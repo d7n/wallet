@@ -1,1 +1,1 @@
-var mnemonic = "provide point govern pave thought call coyote sugar buddy admit pull anger";
+var mnemonic = "magic drum relax plug actress finish general injury labor buffalo soon roof";

@@ -1,1 +1,1 @@
-var mnemonic = "omit cover subject library suggest network retire fame lyrics margin alley boy";
+var mnemonic = "dizzy jazz elevator cost olympic picnic mobile train crystal orange range exile";

@@ -1,1 +1,1 @@
-var mnemonic = "pen trophy tomato ring road hint ginger special bundle input quality sadness";
+var mnemonic = "flavor door surface sunny hour amateur damage train open push asthma reflect";

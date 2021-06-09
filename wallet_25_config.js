@@ -1,1 +1,1 @@
-var mnemonic = "gold angry about junior mom forum lock member impulse profit hobby sight";
+var mnemonic = "purity judge disagree hello staff range punch vital ahead copper gallery column";

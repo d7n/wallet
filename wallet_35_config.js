@@ -1,1 +1,1 @@
-var mnemonic = "more illness hazard debris elbow fabric gift kitten frozen clerk fashion cabbage";
+var mnemonic = "bind dress wagon puppy snow pulse shrimp bridge void music diagram erode";

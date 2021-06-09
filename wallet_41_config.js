@@ -1,1 +1,1 @@
-var mnemonic = "ill napkin ecology ladder tired cheap already enough chief memory punch boy";
+var mnemonic = "virus morning dose boat dream hub erase double please tent vicious grain";

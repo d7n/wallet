@@ -1,1 +1,1 @@
-var mnemonic = "miss source diary finger mimic friend balcony shock funny switch bonus unable";
+var mnemonic = "artefact broom meat cream paddle health switch grain crater great dinosaur bounce";

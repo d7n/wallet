@@ -1,1 +1,1 @@
-var mnemonic = "eight soup river layer huge divert furnace stock furnace hair dilemma talent";
+var mnemonic = "buddy address develop pig useless metal physical various aunt hawk juice layer";

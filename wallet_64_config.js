@@ -1,1 +1,1 @@
-var mnemonic = "success wreck hunt symptom token protect impose bronze say hurry tag retreat";
+var mnemonic = "chicken harbor file scare diet hybrid ivory pen small safe few sense";

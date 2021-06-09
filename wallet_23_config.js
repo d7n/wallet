@@ -1,1 +1,1 @@
-var mnemonic = "problem library honey mystery audit ugly diary put height potato office spawn";
+var mnemonic = "rate sign scrap exhaust pelican later ready few rookie satisfy crater today";

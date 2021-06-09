@@ -1,1 +1,1 @@
-var mnemonic = "business hat snake picture frequent enroll beauty hen person minor volcano strong";
+var mnemonic = "lucky measure surround leave test useless dizzy tube top music mix bag";

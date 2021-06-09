@@ -1,1 +1,1 @@
-var mnemonic = "replace sunset music super deposit puppy attend news ozone index dove slot";
+var mnemonic = "devote imitate radio planet aim fold chase truth bag hobby annual broom";

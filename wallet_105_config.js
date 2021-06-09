@@ -1,1 +1,1 @@
-var mnemonic = "desert novel inquiry sock crater airport rapid black brick sting cabin casual";
+var mnemonic = "pride slender begin detail cancel blanket squeeze physical promote inspire page canoe";

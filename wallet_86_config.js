@@ -1,1 +1,1 @@
-var mnemonic = "ten hello two laptop home guilt virtual tiger injury cinnamon cactus index";
+var mnemonic = "crucial refuse wire rough merry oil carpet result adjust better razor large";

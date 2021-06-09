@@ -1,1 +1,1 @@
-var mnemonic = "hungry junk miracle club issue drink program dizzy sauce coffee brother obtain";
+var mnemonic = "oven sort clean great buffalo race detail require mixture abandon envelope used";

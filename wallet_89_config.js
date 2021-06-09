@@ -1,1 +1,1 @@
-var mnemonic = "defy version wrestle rug vibrant record diagram science time wide tiger route";
+var mnemonic = "title loyal differ walnut regret shy crunch fitness attitude notable pizza base";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange pole time kitchen stuff abstract marriage card duck moon zoo tank";
+var mnemonic = "apart dad grass wave hobby squeeze credit episode cat buffalo orange auto";

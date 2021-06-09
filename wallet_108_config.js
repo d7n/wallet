@@ -1,1 +1,1 @@
-var mnemonic = "potato region cause choose woman rare dilemma drop good sausage badge rate";
+var mnemonic = "pepper marriage gate parent intact toast burger lonely better naive top movie";

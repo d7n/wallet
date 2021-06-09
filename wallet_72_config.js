@@ -1,1 +1,1 @@
-var mnemonic = "rural lecture flower sugar service adult crystal shuffle know powder inflict chuckle";
+var mnemonic = "scan people glue tag bulb invite remind coin north salad appear height";

@@ -1,1 +1,1 @@
-var mnemonic = "crater mind husband hover super cattle since surface uniform floor mango tone";
+var mnemonic = "actual slide verify point field party say device enter master debris spice";

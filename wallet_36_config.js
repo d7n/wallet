@@ -1,1 +1,1 @@
-var mnemonic = "north imitate humor tribe myself omit call audit street print stairs much";
+var mnemonic = "virtual ketchup slow endorse bright believe punch jump clutch cram almost shrimp";

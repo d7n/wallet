@@ -1,1 +1,1 @@
-var mnemonic = "cart away oyster fog blue knife grain buzz describe budget curious credit";
+var mnemonic = "exclude glory summer bread summer marriage unveil target raise health fruit axis";
