@@ -1,1 +1,1 @@
-var mnemonic = "truth skin predict strong sting happy exist soda miracle like suspect marine";
+var mnemonic = "upgrade trumpet lemon purse hero picnic truck exit spare shiver private seat";

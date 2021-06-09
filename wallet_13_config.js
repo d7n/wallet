@@ -1,1 +1,1 @@
-var mnemonic = "net citizen boat impulse push scrub erupt quarter earn speed keep brave";
+var mnemonic = "physical wrap thank arm host risk coffee alley ankle harsh welcome slender";

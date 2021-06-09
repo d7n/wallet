@@ -1,1 +1,1 @@
-var mnemonic = "unlock flush walk club dry pink swallow dash drama fragile rescue april";
+var mnemonic = "vague joke announce pistol diesel foam crime soldier angry opinion trigger repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "deer clean husband meat silver limb charge eight guitar wheel elder relief";
+var mnemonic = "marriage bid utility strong antique wrong pony rigid chef middle voyage member";

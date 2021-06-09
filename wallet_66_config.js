@@ -1,1 +1,1 @@
-var mnemonic = "naive future magnet blush vintage actor huge rapid soup proof sting plastic";
+var mnemonic = "strategy mad clip sunset client cook uncle please fuel urban trade boil";

@@ -1,1 +1,1 @@
-var mnemonic = "sick kitten celery cruise resource bird clutch calm entry arctic prize mail";
+var mnemonic = "raw uncover rhythm dose enforce dizzy decide country cook congress wife trip";

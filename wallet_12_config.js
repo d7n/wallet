@@ -1,1 +1,1 @@
-var mnemonic = "stadium proof toe garment rain inject tide pen warm stable permit token";
+var mnemonic = "invite forward bulb trigger blush quick luggage one enhance fix melt update";

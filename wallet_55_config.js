@@ -1,1 +1,1 @@
-var mnemonic = "shoe rule feed robot outer lift kangaroo shallow office dwarf piece half";
+var mnemonic = "brick train ribbon keen myself merit lady salute noise alert volume frown";

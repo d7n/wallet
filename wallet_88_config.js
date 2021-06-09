@@ -1,1 +1,1 @@
-var mnemonic = "organ impulse bike rapid session consider medal cruise subway weapon million spray";
+var mnemonic = "coil actress dad spy same problem story goat baby crystal salad census";

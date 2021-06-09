@@ -1,1 +1,1 @@
-var mnemonic = "innocent antique seek shrimp thunder cricket ship fire omit keen grape critic";
+var mnemonic = "unknown dentist have swift powder august bread drink faith negative hello crash";

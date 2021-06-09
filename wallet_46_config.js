@@ -1,1 +1,1 @@
-var mnemonic = "mammal stereo index often arrange rate trap flock manual poem tongue exile";
+var mnemonic = "piano attack famous explain oblige response poet law target advance mango toy";

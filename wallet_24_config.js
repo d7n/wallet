@@ -1,1 +1,1 @@
-var mnemonic = "isolate neck hawk mushroom rescue timber indoor menu awful rule blush gallery";
+var mnemonic = "bulk glory taste mind dish rubber this example motion march puzzle ethics";

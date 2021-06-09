@@ -1,1 +1,1 @@
-var mnemonic = "example lion result mistake uniform use found guide afraid cause prize shop";
+var mnemonic = "idea feature wolf bitter dose cause else ginger work charge raise stereo";

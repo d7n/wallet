@@ -1,1 +1,1 @@
-var mnemonic = "clown rocket there doctor avoid body slow depth erosion inform expose lesson";
+var mnemonic = "edit message jacket patrol drip sock code roast sight drip physical rocket";

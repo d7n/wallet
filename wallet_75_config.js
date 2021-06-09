@@ -1,1 +1,1 @@
-var mnemonic = "manage conduct floor element modify puppy tent correct brush lyrics urban gravity";
+var mnemonic = "vital pill issue enhance series morning message token rule drill display correct";

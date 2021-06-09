@@ -1,1 +1,1 @@
-var mnemonic = "quit wood tribe upon lunch evolve ride spatial attack talent harsh hour";
+var mnemonic = "dizzy nation hard portion whip garment peanut shoulder lottery simple inquiry divide";

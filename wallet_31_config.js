@@ -1,1 +1,1 @@
-var mnemonic = "power quote tumble reason horse mind man unlock library hollow guess top";
+var mnemonic = "payment hire mimic tunnel maximum stay oyster wide shine pelican problem chuckle";

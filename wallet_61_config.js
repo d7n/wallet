@@ -1,1 +1,1 @@
-var mnemonic = "column regret master foot rookie image adjust machine scrub syrup climb snack";
+var mnemonic = "sea regular stadium gasp penalty race ship wrist loop actor medal tumble";

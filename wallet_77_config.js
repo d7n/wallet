@@ -1,1 +1,1 @@
-var mnemonic = "talent clap supreme plug decorate arena talk city science educate that jealous";
+var mnemonic = "acoustic name skill rare snake usage correct coach repeat gauge employ pond";

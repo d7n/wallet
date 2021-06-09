@@ -1,1 +1,1 @@
-var mnemonic = "faint control worry swap hundred cannon able uphold cube art result jump";
+var mnemonic = "entire matter comic garment ocean say long wealth key diesel object near";

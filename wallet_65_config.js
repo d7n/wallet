@@ -1,1 +1,1 @@
-var mnemonic = "oil surface sketch develop bone tone opinion benefit fade genre forest suspect";
+var mnemonic = "dice phone have member regret junior stomach pencil time panda dilemma intact";

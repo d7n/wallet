@@ -1,1 +1,1 @@
-var mnemonic = "portion problem range essay essence control begin toss nuclear wagon divorce tomorrow";
+var mnemonic = "lawsuit first ribbon total era winter truly lady explain topple chalk oval";

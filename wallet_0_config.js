@@ -1,1 +1,1 @@
-var mnemonic = "turkey card network large hospital figure melt law finish swift distance deposit";
+var mnemonic = "isolate maximum delay bread camp margin core bus rookie swift night monitor";

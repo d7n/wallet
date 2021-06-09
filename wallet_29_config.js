@@ -1,1 +1,1 @@
-var mnemonic = "parrot occur foster crush flush furnace stick carpet cost blossom loop hedgehog";
+var mnemonic = "reflect plate sad genuine pyramid mushroom quote certain crazy ill claim barely";

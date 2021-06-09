@@ -1,1 +1,1 @@
-var mnemonic = "people cage twice satoshi wasp crop example cotton green fringe gospel best";
+var mnemonic = "catch quality aware vast armor truly modify fold metal cable bottom narrow";

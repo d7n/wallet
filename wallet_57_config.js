@@ -1,1 +1,1 @@
-var mnemonic = "ozone claw final good pledge hold business oppose effort various gym stumble";
+var mnemonic = "inner aisle loyal sad winner radar valid garlic crazy frequent dial alert";

@@ -1,1 +1,1 @@
-var mnemonic = "nature shoe pink harbor siren axis plate pattern struggle energy move language";
+var mnemonic = "sheriff hotel stereo you gift viable thunder silent kid tired mountain pool";

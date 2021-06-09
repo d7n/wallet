@@ -1,1 +1,1 @@
-var mnemonic = "ivory science trim pistol fossil cousin moon high define biology wheat hockey";
+var mnemonic = "because vivid verb recycle hover own misery divorce jump gather pill project";

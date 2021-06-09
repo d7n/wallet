@@ -1,1 +1,1 @@
-var mnemonic = "wolf address control vicious empty pilot sister depth later ostrich neck alcohol";
+var mnemonic = "carpet tip shadow nut frog any auto pizza antique shrug hockey moral";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse among party blood october peace pact ten smile skull insane select";
+var mnemonic = "behind rule dentist duck airport hair random grab notice goddess proof cruise";

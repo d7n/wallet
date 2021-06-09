@@ -1,1 +1,1 @@
-var mnemonic = "discover nuclear salon cart chef nut pistol fashion quarter civil oyster tuition";
+var mnemonic = "define loud artefact tip female live blossom fiction camp giggle text enact";

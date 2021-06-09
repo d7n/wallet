@@ -1,1 +1,1 @@
-var mnemonic = "hazard admit tragic differ emerge apart stove leaf capital holiday radio quit";
+var mnemonic = "planet connect bounce system tragic bless spend main result doctor miss link";

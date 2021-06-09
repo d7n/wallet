@@ -1,1 +1,1 @@
-var mnemonic = "swarm survey victory blossom celery replace ladder afford casino inner echo friend";
+var mnemonic = "apple fetch giggle rather denial switch toss shed ghost text focus brick";

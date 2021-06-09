@@ -1,1 +1,1 @@
-var mnemonic = "attend tip hedgehog position choose nation acoustic artist tool only skin book";
+var mnemonic = "dinner forget wolf toast lion embody whale thing ancient diary staff lab";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse arch foil abuse bronze letter nose nominee hospital paddle hobby elbow";
+var mnemonic = "puppy maximum manual smart marine subject parade scene tortoise viable clinic gain";

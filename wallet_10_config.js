@@ -1,1 +1,1 @@
-var mnemonic = "evolve outer sword copy drill someone loyal trip child pool fruit soldier";
+var mnemonic = "pride hero siren resemble cigar capital amateur barrel yard inherit raw client";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke until verify march manage will spring garbage forward harbor arrive luxury";
+var mnemonic = "frost document main mushroom craft orchard license decrease indoor detail bamboo eyebrow";

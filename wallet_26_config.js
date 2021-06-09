@@ -1,1 +1,1 @@
-var mnemonic = "brown betray vendor gym wing prosper arch flavor arena frog dwarf rival";
+var mnemonic = "cereal example strike venue swallow depart brother warrior frost route sand pride";

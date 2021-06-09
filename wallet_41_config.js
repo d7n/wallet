@@ -1,1 +1,1 @@
-var mnemonic = "ship month light appear pattern vehicle human hazard magic clay snake author";
+var mnemonic = "great dice master arrest family polar silly coach panther fury farm ignore";

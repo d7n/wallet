@@ -1,1 +1,1 @@
-var mnemonic = "lottery illegal obtain lucky quarter opera inject weapon kite account dismiss electric";
+var mnemonic = "mule magic code call leaf replace shuffle expose clever punch cave galaxy";

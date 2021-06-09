@@ -1,1 +1,1 @@
-var mnemonic = "useful siege fitness derive weasel kit behave strategy food earn end evil";
+var mnemonic = "dignity under door connect confirm runway pony reopen rural infant save bright";

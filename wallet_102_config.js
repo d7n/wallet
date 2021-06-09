@@ -1,1 +1,1 @@
-var mnemonic = "breeze ketchup trend almost around fame acquire donor hundred story memory grow";
+var mnemonic = "color excess dice battle salad viable dove betray prepare must wild foster";

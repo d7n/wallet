@@ -1,1 +1,1 @@
-var mnemonic = "air cradle fluid fiber ribbon demise hazard doctor cube avoid category favorite";
+var mnemonic = "auction slot correct absent alter page yard finger wrestle squirrel apple toss";

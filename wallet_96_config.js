@@ -1,1 +1,1 @@
-var mnemonic = "monkey giraffe oppose guitar fence route release rookie scatter champion rug twice";
+var mnemonic = "penalty canvas sister guide scissors net zebra vendor blue rescue rebuild matrix";

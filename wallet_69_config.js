@@ -1,1 +1,1 @@
-var mnemonic = "panda blast ride like main turn dove chaos ship idea spawn lift";
+var mnemonic = "hazard tourist alpha one divide twice million violin nature pipe neck floor";

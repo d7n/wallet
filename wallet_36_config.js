@@ -1,1 +1,1 @@
-var mnemonic = "struggle unaware clay badge gaze nation annual merit diagram camera defense copy";
+var mnemonic = "cream robust innocent baby symptom eye lazy local decade crazy bulk fit";

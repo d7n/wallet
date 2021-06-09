@@ -1,1 +1,1 @@
-var mnemonic = "bicycle album fire box banana army crunch input drill erase panic cruise";
+var mnemonic = "barrel private wire surprise future cricket account denial injury inmate inhale length";

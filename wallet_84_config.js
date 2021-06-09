@@ -1,1 +1,1 @@
-var mnemonic = "ranch tuna fever wreck size upper burger degree alcohol rose tunnel cushion";
+var mnemonic = "flush student document evoke distance print soft check bicycle number warfare reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "office grow hurt morning firm lesson world crazy intact magnet favorite banana";
+var mnemonic = "tent churn survey uphold riot betray super gym rifle away toss area";

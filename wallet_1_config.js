@@ -1,1 +1,1 @@
-var mnemonic = "title noodle swift come budget guilt physical arch torch pledge drill mansion";
+var mnemonic = "matrix industry crash provide play debris taxi wrap mixture divide airport scissors";

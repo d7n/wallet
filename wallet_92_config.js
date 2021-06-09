@@ -1,1 +1,1 @@
-var mnemonic = "shrimp seek naive rural valve correct stove fault predict lawn cheese hero";
+var mnemonic = "immune first retire drum regular secret betray shuffle rich endorse clever hat";

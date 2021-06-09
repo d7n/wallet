@@ -1,1 +1,1 @@
-var mnemonic = "manual salmon damp around exit path use police accuse private ivory people";
+var mnemonic = "idle weapon universe ignore bag music hub stomach enemy clean panic push";

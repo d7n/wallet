@@ -1,1 +1,1 @@
-var mnemonic = "oil scale size future sound diesel thunder cancel valve aim castle submit";
+var mnemonic = "aim crazy spell atom ride van merry option arrow meat ancient feature";

@@ -1,1 +1,1 @@
-var mnemonic = "east truck sail phone oil person melody sting replace scare already level";
+var mnemonic = "index demise organ rare drink check adapt once swing mail program satisfy";

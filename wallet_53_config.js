@@ -1,1 +1,1 @@
-var mnemonic = "hawk cheese gate barely slow pencil symptom vibrant rocket ivory sadness ill";
+var mnemonic = "bleak match jeans offer allow decrease cruel advance slow audit smoke cannon";

@@ -1,1 +1,1 @@
-var mnemonic = "rug curious hip mouse valley lunch elder gallery scan matter tackle bright";
+var mnemonic = "result common source they dynamic eager arrest few ring violin oyster town";

@@ -1,1 +1,1 @@
-var mnemonic = "merge fault economy slush ribbon snow chimney orange season food price march";
+var mnemonic = "cruel swallow dinner recipe armor witness slush melody prepare vicious lab museum";

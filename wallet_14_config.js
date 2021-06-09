@@ -1,1 +1,1 @@
-var mnemonic = "train raccoon emotion nuclear pencil unveil daughter mountain attract tornado unaware addict";
+var mnemonic = "digital bike village salon february mouse rapid one mystery slogan foster open";

@@ -1,1 +1,1 @@
-var mnemonic = "sniff fade sustain predict shield strike gloom sudden witness differ file afford";
+var mnemonic = "club rebel arena glide ignore spawn vacant cable south visit dad enrich";

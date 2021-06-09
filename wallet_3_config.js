@@ -1,1 +1,1 @@
-var mnemonic = "distance calm fortune glass metal rigid shoot early danger seminar fluid shop";
+var mnemonic = "prepare predict kid empower arrange old egg doctor maximum shiver coyote hair";

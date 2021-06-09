@@ -1,1 +1,1 @@
-var mnemonic = "box organ few title piece quarter love dolphin much truly fade demand";
+var mnemonic = "feel arrive napkin sadness same emotion miss seek wedding vehicle supply supreme";

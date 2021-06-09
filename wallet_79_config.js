@@ -1,1 +1,1 @@
-var mnemonic = "debate rival upper slow arm shift document run machine cousin emotion ivory";
+var mnemonic = "nephew guard planet immense path clean lizard coral dwarf start library fork";

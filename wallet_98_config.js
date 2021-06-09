@@ -1,1 +1,1 @@
-var mnemonic = "puzzle puzzle smile peasant also expect bomb mule praise jump shoulder avocado";
+var mnemonic = "echo skill bean clog world beach pumpkin easily mixture scissors dash unveil";

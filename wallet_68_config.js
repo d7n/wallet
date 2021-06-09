@@ -1,1 +1,1 @@
-var mnemonic = "decrease tube alpha trust source aim giraffe sad mistake picture clown eager";
+var mnemonic = "baby deliver fat diet price dolphin spawn dune engine wasp purpose verb";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk fury lunch knee question senior iron funny tuna ankle used hand";
+var mnemonic = "regular puzzle slice celery empty tree situate peace road fence copy angle";

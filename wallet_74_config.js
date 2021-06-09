@@ -1,1 +1,1 @@
-var mnemonic = "blast swift mouse exact tattoo curve inmate problem glove tortoise assist fatal";
+var mnemonic = "transfer left soccer fatal flush latin usage offer chunk weasel shrug giant";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow mail turtle lake hen fly cycle hire alien baby inch tattoo";
+var mnemonic = "dial permit excite unhappy tongue dash seek ozone knock alien trip reopen";

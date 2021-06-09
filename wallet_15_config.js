@@ -1,1 +1,1 @@
-var mnemonic = "badge frog visual fatal gaze motion soup vacuum spot sunset such recall";
+var mnemonic = "inhale gym seek time much artist evoke flower embrace crystal final citizen";

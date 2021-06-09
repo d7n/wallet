@@ -1,1 +1,1 @@
-var mnemonic = "ostrich parrot matrix auction very puzzle south federal tuna kiwi adapt spray";
+var mnemonic = "fancy shift body start idle spell consider secret when hungry cruel radio";

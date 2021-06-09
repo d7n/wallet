@@ -1,1 +1,1 @@
-var mnemonic = "human stuff frozen shine hint combine force maze client antique hammer help";
+var mnemonic = "tuna fashion surprise trumpet crane protect aunt switch peace enough tape level";

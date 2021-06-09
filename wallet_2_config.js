@@ -1,1 +1,1 @@
-var mnemonic = "grid cream announce cake battle inherit clerk burden unfold hat shallow total";
+var mnemonic = "divert oxygen menu this crew old just lemon change effort unique evil";

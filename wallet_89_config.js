@@ -1,1 +1,1 @@
-var mnemonic = "amused gauge blind grocery vintage unaware animal double cliff provide achieve trust";
+var mnemonic = "approve master hill able fashion road dry fortune again this culture awful";

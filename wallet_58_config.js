@@ -1,1 +1,1 @@
-var mnemonic = "dentist rather machine edit supreme swallow naive observe affair apple frog novel";
+var mnemonic = "ask curve clerk riot clarify box enlist parrot bus surface donor rough";

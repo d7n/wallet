@@ -1,1 +1,1 @@
-var mnemonic = "pause attract call language attitude cable silent faith fiction venue bulk vendor";
+var mnemonic = "theme brown universe hobby nice blast denial sense luxury style repeat grocery";

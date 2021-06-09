@@ -1,1 +1,1 @@
-var mnemonic = "leisure wool gadget ghost tribe section cattle evolve asthma churn dirt arrange";
+var mnemonic = "claim short simple allow blush strike either champion hedgehog shock echo syrup";

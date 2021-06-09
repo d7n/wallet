@@ -1,1 +1,1 @@
-var mnemonic = "topic cat broken palm winter canal celery drink thought negative glow rug";
+var mnemonic = "legend spread blood prison close doctor machine best suspect blame shrug gossip";

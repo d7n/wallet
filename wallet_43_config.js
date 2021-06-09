@@ -1,1 +1,1 @@
-var mnemonic = "element icon short brother civil fatigue verb give busy foil dutch cricket";
+var mnemonic = "bench silk achieve obey rough solar cart recall please garment extra assist";

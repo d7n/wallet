@@ -1,1 +1,1 @@
-var mnemonic = "eight hover apology race scout change favorite people slush trouble kangaroo direct";
+var mnemonic = "lawn split claw belt skill drastic bonus quarter bone illness marble strike";

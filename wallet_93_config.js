@@ -1,1 +1,1 @@
-var mnemonic = "still glimpse matter nice jealous swap despair bind borrow luxury ready wife";
+var mnemonic = "flat cactus initial relax feature bamboo replace science street core spare lock";

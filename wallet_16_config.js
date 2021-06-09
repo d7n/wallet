@@ -1,1 +1,1 @@
-var mnemonic = "buffalo fix mobile typical strike soccer clip bag sugar lab mobile fringe";
+var mnemonic = "teach evoke elephant all art describe occur helmet advice release cable fury";

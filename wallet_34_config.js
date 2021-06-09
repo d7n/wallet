@@ -1,1 +1,1 @@
-var mnemonic = "very modify advice detail dune army shoot rigid bracket minimum twenty mirror";
+var mnemonic = "into faint purse energy hockey beyond eye mask hero judge wheel beyond";

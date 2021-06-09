@@ -1,1 +1,1 @@
-var mnemonic = "erase quick appear attract direct flat random exotic suffer cup gallery uphold";
+var mnemonic = "subject culture dish fit glance phrase where kitchen wagon any water mango";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean teach flag top glide yellow arena sustain pigeon green network clip";
+var mnemonic = "ritual universe farm daring call cabin gain swamp indoor monkey flame dial";

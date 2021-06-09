@@ -1,1 +1,1 @@
-var mnemonic = "upset twist unveil food skin disease bright orbit electric person mosquito front";
+var mnemonic = "sleep message mule arch chef frost same clump tag soft spoon vote";

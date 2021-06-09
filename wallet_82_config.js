@@ -1,1 +1,1 @@
-var mnemonic = "jacket party nest similar gossip innocent reform desert office black master recipe";
+var mnemonic = "squeeze during oven vivid olive maple despair language comfort author slush option";

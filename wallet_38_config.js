@@ -1,1 +1,1 @@
-var mnemonic = "bleak auto argue ski hurt muffin waste coyote unfair title flame industry";
+var mnemonic = "circle peace dash boss ghost inner liberty fiscal lend more become bonus";

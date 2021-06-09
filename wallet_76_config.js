@@ -1,1 +1,1 @@
-var mnemonic = "worth dog ill loop prefer tobacco potato climb later ring conduct stairs";
+var mnemonic = "silk mango endorse kidney laugh catalog undo guard dial betray zoo maple";

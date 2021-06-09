@@ -1,1 +1,1 @@
-var mnemonic = "swear zero rent differ volume moral sure avocado morning rely certain believe";
+var mnemonic = "valley sing wet lunch cross lonely stove convince usual purse elephant penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "mass attack crouch wise gasp cheap pudding initial reward accident cloud travel";
+var mnemonic = "blood limb sad practice allow fire sustain elbow window candy dash switch";

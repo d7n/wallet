@@ -1,1 +1,1 @@
-var mnemonic = "success rigid loyal identify vintage mistake whisper stairs day budget figure define";
+var mnemonic = "foot top require reason royal bring search basic level meadow hundred hint";
