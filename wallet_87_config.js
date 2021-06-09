@@ -1,1 +1,1 @@
-var mnemonic = "spice fortune brother south people ugly session original fragile scrap art before";
+var mnemonic = "salmon hybrid front cluster foil reveal joke patch save media layer distance";

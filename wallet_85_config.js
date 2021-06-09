@@ -1,1 +1,1 @@
-var mnemonic = "assume ostrich enter dinner olympic lemon gun artefact lake insane dance duck";
+var mnemonic = "venue charge breeze become guard kingdom arrest typical space nephew torch worry";

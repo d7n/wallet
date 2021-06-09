@@ -1,1 +1,1 @@
-var mnemonic = "engine aunt tilt sing weather flip paddle various spring time copper jacket";
+var mnemonic = "hood regret message any admit tool seek involve letter luxury setup glare";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase old amazing prefer distance stumble rate eager move anchor captain drill";
+var mnemonic = "boost dwarf oil squeeze worry cross tape fade pistol mirror social desert";

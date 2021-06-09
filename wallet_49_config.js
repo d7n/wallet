@@ -1,1 +1,1 @@
-var mnemonic = "cloud parrot eye hold cricket video earn syrup double fiscal glow force";
+var mnemonic = "foil moon mystery pulp topic couple trim opera ahead dumb envelope confirm";

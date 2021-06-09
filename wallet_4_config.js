@@ -1,1 +1,1 @@
-var mnemonic = "quote oval tag cotton moral skull range hello insane middle orange ketchup";
+var mnemonic = "gasp traffic clarify fluid horse arm industry palace dizzy airport calm dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "lady odor profit flame office engage task tomato trend grit matrix subway";
+var mnemonic = "foam leopard memory patient dune tray addict enlist waste mercy sudden common";

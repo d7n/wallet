@@ -1,1 +1,1 @@
-var mnemonic = "blind emerge fiction room outdoor switch opinion kiss nature pipe rocket blue";
+var mnemonic = "crowd tongue blanket inquiry agent virus hunt include tone defy ridge ahead";

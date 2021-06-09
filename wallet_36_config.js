@@ -1,1 +1,1 @@
-var mnemonic = "wisdom basic pelican open mixture flower snake lamp palace brave vote coast";
+var mnemonic = "size beauty turtle bachelor inside angry sausage narrow bright beyond stock work";

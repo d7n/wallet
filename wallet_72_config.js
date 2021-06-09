@@ -1,1 +1,1 @@
-var mnemonic = "amazing snow speak picnic rotate erupt chuckle drip area fork hedgehog fork";
+var mnemonic = "ordinary isolate library help arrange loyal spirit upon mimic alpha crane post";

@@ -1,1 +1,1 @@
-var mnemonic = "weather bright verify proud catalog tennis orange auction maple lake lion kidney";
+var mnemonic = "knife chronic vibrant birth gather hat cloth protect acquire affair visual suffer";

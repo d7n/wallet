@@ -1,1 +1,1 @@
-var mnemonic = "worth title crater dignity poverty west grocery panel woman solve undo hospital";
+var mnemonic = "escape gasp caution assault essence salmon such exotic nurse topple dilemma stay";

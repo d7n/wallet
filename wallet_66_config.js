@@ -1,1 +1,1 @@
-var mnemonic = "soup close payment music exercise rigid acquire arrive useful soup stick direct";
+var mnemonic = "market lawsuit wing nasty more mutual debate cave almost hamster addict perfect";

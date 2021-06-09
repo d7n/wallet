@@ -1,1 +1,1 @@
-var mnemonic = "upset brick gain student tomorrow pool afford defy repeat audit fetch congress";
+var mnemonic = "roast bubble cheese powder describe domain walnut farm wagon cute basic risk";

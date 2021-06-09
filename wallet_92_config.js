@@ -1,1 +1,1 @@
-var mnemonic = "ripple ski social own race pyramid pear father pool marriage shoulder ankle";
+var mnemonic = "finish elevator mutual wrestle poet same anxiety trim ensure village two huge";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle gossip poverty chaos uphold pupil gauge item normal path term decide";
+var mnemonic = "magnet game nation audit mobile ability idea agree conduct charge hungry notable";

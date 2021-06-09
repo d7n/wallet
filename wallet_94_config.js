@@ -1,1 +1,1 @@
-var mnemonic = "shallow shrug photo morning drive material extra antenna peanut surface grunt clinic";
+var mnemonic = "marine leg dose hover cannon throw surround sentence repeat wrist flip intact";

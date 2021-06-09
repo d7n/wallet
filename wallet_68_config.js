@@ -1,1 +1,1 @@
-var mnemonic = "liquid sweet depth program web purpose dust style filter snap interest wide";
+var mnemonic = "wine poem bean awake upon melt grunt valve invite receive arm right";

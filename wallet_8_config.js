@@ -1,1 +1,1 @@
-var mnemonic = "charge fit invite discover ladder spatial wedding chef tape fish evidence kiwi";
+var mnemonic = "odor emerge item smooth swift off zone funny wave ice play elevator";

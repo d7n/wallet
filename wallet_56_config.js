@@ -1,1 +1,1 @@
-var mnemonic = "oppose expand despair unit diary zoo doctor tip prefer song solar involve";
+var mnemonic = "delay wise elbow jump evolve defense close option ghost coast away unaware";

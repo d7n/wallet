@@ -1,1 +1,1 @@
-var mnemonic = "health chat scout road exact power crop flash essence able misery inhale";
+var mnemonic = "blur print focus wall dish bicycle crime cheap violin rib fossil air";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp level other equal food between sunset acoustic rely differ tortoise sugar";
+var mnemonic = "cake student pair animal target essence divert enough reveal fantasy defy fiscal";

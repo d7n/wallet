@@ -1,1 +1,1 @@
-var mnemonic = "debris fox company pride royal tonight case despair piece rhythm movie catch";
+var mnemonic = "blade kiwi next mass action fog panther despair confirm trade rocket place";

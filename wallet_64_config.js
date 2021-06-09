@@ -1,1 +1,1 @@
-var mnemonic = "chest token enter make rubber between champion famous provide question joke govern";
+var mnemonic = "twist illegal warfare ice cash will patrol mad merit small stable eyebrow";

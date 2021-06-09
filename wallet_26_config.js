@@ -1,1 +1,1 @@
-var mnemonic = "subway hidden pull bus canal bachelor brass ten chicken clever uniform army";
+var mnemonic = "song boil suffer ugly civil chapter visa shield genuine slim undo boat";

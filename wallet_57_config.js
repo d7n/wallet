@@ -1,1 +1,1 @@
-var mnemonic = "junior feed state once rookie police manage license length they economy more";
+var mnemonic = "control upon gallery mouse east brand movie oven exclude only assist demand";

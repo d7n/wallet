@@ -1,1 +1,1 @@
-var mnemonic = "oblige veteran ceiling aisle flush maximum track stadium basket plug abuse ramp";
+var mnemonic = "adult logic idea middle wonder destroy green night strong crowd wrong under";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum sustain curious muscle ticket logic hat recall place culture correct mixed";
+var mnemonic = "annual harbor arctic spirit version fitness pet spy night green ask stock";

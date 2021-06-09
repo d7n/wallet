@@ -1,1 +1,1 @@
-var mnemonic = "wait canoe hint melody coin story resist two predict tell bullet dinosaur";
+var mnemonic = "film dice gown card story rent hard actual tattoo session gorilla place";

@@ -1,1 +1,1 @@
-var mnemonic = "melody senior orchard brown wait abstract vapor valve bind source empower install";
+var mnemonic = "around ball noodle pen easy wool tide bright they lawsuit where hotel";

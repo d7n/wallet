@@ -1,1 +1,1 @@
-var mnemonic = "clean fetch ability prepare immense rack puzzle flame crunch salmon snap museum";
+var mnemonic = "inquiry act life tunnel valley rabbit shoe book language service embrace spatial";

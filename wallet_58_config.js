@@ -1,1 +1,1 @@
-var mnemonic = "love similar deliver seat casual friend amazing lonely patient provide liar drip";
+var mnemonic = "weird pull same annual struggle slush unknown purchase solar abstract degree feature";

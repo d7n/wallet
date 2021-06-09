@@ -1,1 +1,1 @@
-var mnemonic = "cube kangaroo ceiling label chunk guitar today glide illegal flame debate fatigue";
+var mnemonic = "arrow auto moon wrestle distance three upon chief pause mad sadness mom";

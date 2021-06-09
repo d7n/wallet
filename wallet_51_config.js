@@ -1,1 +1,1 @@
-var mnemonic = "pool gun anger clog work slam income fish minute depth sorry violin";
+var mnemonic = "green gospel stereo brave quantum garbage feed science success medal barely aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch hard prosper eternal title high pistol you hedgehog glance fat winter";
+var mnemonic = "casino feed guitar giggle mimic craft coconut cousin assume chronic thrive worry";

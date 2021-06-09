@@ -1,1 +1,1 @@
-var mnemonic = "gift robot napkin breeze athlete over anchor summer exercise will unveil tackle";
+var mnemonic = "tube hood joy peasant cube scrub guitar gallery dry sign business melt";

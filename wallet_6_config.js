@@ -1,1 +1,1 @@
-var mnemonic = "donate rate predict tenant forest celery area city dose reduce fog adapt";
+var mnemonic = "fame uniform rebel slam mixed episode cabbage gallery sorry traffic rate pulse";

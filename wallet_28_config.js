@@ -1,1 +1,1 @@
-var mnemonic = "tuna marble pony report grocery solar chicken analyst pattern crater regular brother";
+var mnemonic = "rude eternal dish major illegal enter small spread home combine special legal";

@@ -1,1 +1,1 @@
-var mnemonic = "much ivory flush earn piece comfort way pudding climb inquiry valley blur";
+var mnemonic = "viable hub glue spy oyster ostrich coin wrist daring because flash dust";

@@ -1,1 +1,1 @@
-var mnemonic = "broken math morning adult web wheel pill pink various again train section";
+var mnemonic = "bamboo ability seek year merge vacant east night below picnic priority dinner";

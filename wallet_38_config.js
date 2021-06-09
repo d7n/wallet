@@ -1,1 +1,1 @@
-var mnemonic = "grab husband key discover finish divide bottom pudding victory goat level range";
+var mnemonic = "trash into cloud first knife grocery miss above spend adult junior reunion";

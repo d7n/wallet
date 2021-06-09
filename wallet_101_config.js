@@ -1,1 +1,1 @@
-var mnemonic = "list view more essay limb then axis start trade divorce abstract use";
+var mnemonic = "myth input senior inform setup spring demise course bottom success forward soft";

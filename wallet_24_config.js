@@ -1,1 +1,1 @@
-var mnemonic = "anger over crush direct refuse trend ivory crystal useful head remember warrior";
+var mnemonic = "inquiry pact enlist group kid split obvious spoon winter conduct cloth outside";

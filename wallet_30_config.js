@@ -1,1 +1,1 @@
-var mnemonic = "myth cluster shoot offer motion file destroy grocery picture drama artist save";
+var mnemonic = "keep drama bullet exercise loop drip awake nerve secret bundle clap tired";

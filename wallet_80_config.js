@@ -1,1 +1,1 @@
-var mnemonic = "swap wear kick grace text choice approve wine guitar roast way much";
+var mnemonic = "lens castle robot ribbon manage nothing umbrella place immense shove naive stadium";

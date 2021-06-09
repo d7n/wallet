@@ -1,1 +1,1 @@
-var mnemonic = "memory eternal bottom sunny olympic holiday dirt nation crowd trophy filter goose";
+var mnemonic = "glimpse give travel frequent virus fire grid boy repeat section issue cruise";

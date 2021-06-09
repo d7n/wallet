@@ -1,1 +1,1 @@
-var mnemonic = "shaft hazard reopen seven evolve hill people there clever dumb save grant";
+var mnemonic = "remember card kite depend version fetch simple depend dress tank shock portion";

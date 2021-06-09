@@ -1,1 +1,1 @@
-var mnemonic = "vocal angle stomach rocket liquid entire media bomb eternal recall raise rookie";
+var mnemonic = "gain demand mind bronze escape destroy picture sign always story brass town";

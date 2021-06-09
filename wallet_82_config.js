@@ -1,1 +1,1 @@
-var mnemonic = "stomach because crouch claim blast sun ten noodle crowd maid swing seek";
+var mnemonic = "owner kangaroo pyramid ocean giraffe pyramid journey swarm luxury duck mountain planet";

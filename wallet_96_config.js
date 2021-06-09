@@ -1,1 +1,1 @@
-var mnemonic = "engine fade trap wing embark arrest knee example moral tent depend eternal";
+var mnemonic = "smoke author magnet side symbol wedding example this hero post cross situate";

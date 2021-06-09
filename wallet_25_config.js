@@ -1,1 +1,1 @@
-var mnemonic = "episode innocent hammer kingdom ketchup rib course position movie glass comfort soccer";
+var mnemonic = "brief ecology gossip spy model curve note scan mix genuine season owner";

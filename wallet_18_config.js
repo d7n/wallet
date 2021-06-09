@@ -1,1 +1,1 @@
-var mnemonic = "concert broccoli meadow neglect chest rail attack round license debris cheap moment";
+var mnemonic = "carbon barrel relief abuse salon lens cube dry topple park near all";

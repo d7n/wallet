@@ -1,1 +1,1 @@
-var mnemonic = "hire zone document tag private outdoor kind foster bonus sustain awake fine";
+var mnemonic = "hip decorate exact spring hub vanish deer sad yard people wine uncle";

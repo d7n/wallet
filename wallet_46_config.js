@@ -1,1 +1,1 @@
-var mnemonic = "around cover earn expand chalk blossom wrestle trade mind ankle cradle unfold";
+var mnemonic = "duck ordinary taste rude favorite rich mammal number renew square topple check";

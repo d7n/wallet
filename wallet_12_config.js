@@ -1,1 +1,1 @@
-var mnemonic = "pigeon apology rail pill roof loan valley leave bid cancel segment success";
+var mnemonic = "trash brush anger picnic train state depth snack sing galaxy voice sing";

@@ -1,1 +1,1 @@
-var mnemonic = "save hybrid embody melt daring special castle anchor barrel lesson play love";
+var mnemonic = "later holiday bridge wool card warfare enlist worry opera depth honey crucial";

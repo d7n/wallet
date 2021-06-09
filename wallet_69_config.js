@@ -1,1 +1,1 @@
-var mnemonic = "exhibit visit copy jacket wet motor offer verb orange cloth output basket";
+var mnemonic = "spray mouse stadium adjust pill teach hover smooth behind crash arch zero";

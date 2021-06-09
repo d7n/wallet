@@ -1,1 +1,1 @@
-var mnemonic = "immense moment belt silk inner reject tonight wage hazard state license glory";
+var mnemonic = "penalty adjust employ such unique beach fantasy kind urban explain angle blur";

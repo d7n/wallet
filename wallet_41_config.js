@@ -1,1 +1,1 @@
-var mnemonic = "matrix combine vote ketchup impulse grain inspire deny gain time arrive day";
+var mnemonic = "bitter social divert ketchup digital album skin husband essence forget green mango";

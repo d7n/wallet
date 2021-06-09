@@ -1,1 +1,1 @@
-var mnemonic = "race behind grunt cash search cash repeat crisp float latin exit cloud";
+var mnemonic = "actress stereo detect govern vocal perfect text exact game warrior sausage law";

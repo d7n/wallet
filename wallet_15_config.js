@@ -1,1 +1,1 @@
-var mnemonic = "quarter switch half display shoot output material shine photo pencil light super";
+var mnemonic = "magic choose method arch common grape snap captain dumb cabbage blade demand";

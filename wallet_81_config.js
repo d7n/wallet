@@ -1,1 +1,1 @@
-var mnemonic = "mutual caution route awkward truly sugar figure evoke until armed recipe music";
+var mnemonic = "allow ocean opera school home glass light club elegant dove carbon dream";

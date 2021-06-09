@@ -1,1 +1,1 @@
-var mnemonic = "wisdom undo prevent sense reflect risk install tape correct erupt present journey";
+var mnemonic = "wood search session road screen pilot document horror process negative assault acid";

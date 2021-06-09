@@ -1,1 +1,1 @@
-var mnemonic = "negative surround old ticket start leg still before first spoon curtain future";
+var mnemonic = "measure agent retire crawl resist charge produce they smile juice dry found";

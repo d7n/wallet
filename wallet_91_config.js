@@ -1,1 +1,1 @@
-var mnemonic = "giggle prefer salon matrix success ten fish taste worry cash across kid";
+var mnemonic = "bring radio appear eight wrap cheese term burger monitor umbrella matrix clump";

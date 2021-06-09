@@ -1,1 +1,1 @@
-var mnemonic = "act trip diet thing used cycle stool maximum critic salute purpose question";
+var mnemonic = "warfare sadness narrow traffic strong control canoe infant panic poet cube tide";

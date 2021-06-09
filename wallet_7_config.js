@@ -1,1 +1,1 @@
-var mnemonic = "gossip enemy bread october umbrella interest plunge addict minimum feel size column";
+var mnemonic = "cricket addict patrol snack pottery mobile arrive useful hire ability thing glad";

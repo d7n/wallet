@@ -1,1 +1,1 @@
-var mnemonic = "soda fame captain settle addict job law raven match cram humble poverty";
+var mnemonic = "tourist reward mechanic dentist master inquiry you final program guard payment crush";

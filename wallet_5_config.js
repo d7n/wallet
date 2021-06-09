@@ -1,1 +1,1 @@
-var mnemonic = "disorder toe salute spatial random enroll august audit service praise kidney cave";
+var mnemonic = "alpha attack post ship web mass code collect summer regret doctor cool";

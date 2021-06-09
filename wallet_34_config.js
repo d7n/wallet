@@ -1,1 +1,1 @@
-var mnemonic = "hire grape owner quick pretty whisper once keen rotate fluid depend work";
+var mnemonic = "cross solar dwarf tattoo entire kidney naive author one cousin weird crash";

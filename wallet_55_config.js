@@ -1,1 +1,1 @@
-var mnemonic = "mad payment monster boat cricket mother diary slush nominee volume teach live";
+var mnemonic = "program engine lamp zoo priority smooth tool wheel mandate chef shed park";

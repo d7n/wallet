@@ -1,1 +1,1 @@
-var mnemonic = "city film slender comfort account symbol photo will century crowd record disagree";
+var mnemonic = "such royal open nation craft indicate afraid melody quality disagree purity eager";

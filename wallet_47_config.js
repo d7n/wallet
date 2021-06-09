@@ -1,1 +1,1 @@
-var mnemonic = "cabin concert unit finish helmet opinion repeat asset lonely trophy save energy";
+var mnemonic = "around dragon soda stay hip praise toy creek pupil live extra square";

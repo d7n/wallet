@@ -1,1 +1,1 @@
-var mnemonic = "opera mind grit garden ceiling setup remain nose erase loud memory solve";
+var mnemonic = "tenant leisure gasp ostrich switch bicycle type dolphin wedding lens attract wisdom";

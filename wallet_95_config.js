@@ -1,1 +1,1 @@
-var mnemonic = "slice rookie spy raven track guess dad inside together legend few pipe";
+var mnemonic = "kid setup smoke skin disorder secret lottery zoo fan health crack sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "output treat use absurd day nothing screen retire shove reveal decline tail";
+var mnemonic = "debris limb churn spend remove situate jewel universe gate want desk route";

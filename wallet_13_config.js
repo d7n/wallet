@@ -1,1 +1,1 @@
-var mnemonic = "buddy sorry foster arena box hunt icon virtual wool promote update divorce";
+var mnemonic = "void grain volcano walnut example echo then volcano avoid upset jacket sentence";

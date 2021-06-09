@@ -1,1 +1,1 @@
-var mnemonic = "poet toe benefit paper shove reopen eager license mad tornado betray bottom";
+var mnemonic = "balcony fitness tide kiwi afraid cliff opinion confirm bonus lend index fiscal";

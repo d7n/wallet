@@ -1,1 +1,1 @@
-var mnemonic = "describe talent impact airport float merge ugly design item merry normal hand";
+var mnemonic = "tattoo sugar price cup camp debris jump hundred hat permit point inmate";

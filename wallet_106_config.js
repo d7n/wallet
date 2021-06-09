@@ -1,1 +1,1 @@
-var mnemonic = "common stay page palace state hero middle web page device bracket head";
+var mnemonic = "elephant noodle popular expire ask atom loan box slam right supply gossip";

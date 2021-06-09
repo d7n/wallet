@@ -1,1 +1,1 @@
-var mnemonic = "embody book gauge skill sugar fluid earth say abuse hen idle element";
+var mnemonic = "coin picture culture mother round magic chair gun time easily spider loan";

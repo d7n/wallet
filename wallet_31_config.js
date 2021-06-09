@@ -1,1 +1,1 @@
-var mnemonic = "hood roof color novel keen mercy another hood goat second identify spare";
+var mnemonic = "limb town roast drift people craft shrimp window whale duck unfold ranch";

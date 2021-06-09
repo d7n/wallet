@@ -1,1 +1,1 @@
-var mnemonic = "adapt melody onion blossom toast grass comfort torch wool vacant grain tag";
+var mnemonic = "year indicate believe elevator target miss tail way social decide outdoor caution";

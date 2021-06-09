@@ -1,1 +1,1 @@
-var mnemonic = "crazy cricket thumb urge girl chat absurd estate horn faculty catalog prize";
+var mnemonic = "mobile glass vessel quick lucky sibling census lyrics drum wide scan put";

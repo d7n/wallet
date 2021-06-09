@@ -1,1 +1,1 @@
-var mnemonic = "refuse upper intact mansion erupt patch dwarf license dog coast elephant jaguar";
+var mnemonic = "coral flat dragon inspire tray price bean diary install forest stage legend";

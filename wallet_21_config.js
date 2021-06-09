@@ -1,1 +1,1 @@
-var mnemonic = "crazy ahead mixed core resist subject onion lunar effort stumble include puzzle";
+var mnemonic = "before bench skin course virus tube royal enhance wrestle rather dune victory";

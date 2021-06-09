@@ -1,1 +1,1 @@
-var mnemonic = "whale science pave crouch staff page whip reason guide decide envelope lucky";
+var mnemonic = "fever muscle age leg family shoe nothing drip kiss city whale camera";

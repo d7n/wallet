@@ -1,1 +1,1 @@
-var mnemonic = "raccoon ticket paddle addict million various flock lizard exit social hood dune";
+var mnemonic = "bridge heavy spot stone load wise search pottery bread keen renew west";
