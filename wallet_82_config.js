@@ -1,1 +1,1 @@
-var mnemonic = "trim tenant weekend label plastic earth nose local comic island lazy lazy";
+var mnemonic = "recycle coil cable wrist response cannon feel knee night federal answer patient";

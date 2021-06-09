@@ -1,1 +1,1 @@
-var mnemonic = "make champion toast boat exist dance lesson castle bicycle lens stomach firm";
+var mnemonic = "bench pulse travel initial axis burden hat stand daughter garden main jazz";

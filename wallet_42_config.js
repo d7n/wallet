@@ -1,1 +1,1 @@
-var mnemonic = "swear sight dial spend rotate target genius first actual razor blast leaf";
+var mnemonic = "day right fall board echo laptop coil inmate such torch flag gate";

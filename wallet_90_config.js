@@ -1,1 +1,1 @@
-var mnemonic = "gap seek wealth acoustic radio tent travel lesson network hobby library pride";
+var mnemonic = "sail bulb plastic refuse notable rail transfer toward payment dirt gravity fame";

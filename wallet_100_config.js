@@ -1,1 +1,1 @@
-var mnemonic = "clip rug found hen cliff rain rack there baby raw belt sort";
+var mnemonic = "wire aisle kitchen round lunar pipe hidden gasp menu aspect hour cover";

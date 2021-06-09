@@ -1,1 +1,1 @@
-var mnemonic = "inhale egg decrease gesture amazing butter muscle castle deer fever oak tuition";
+var mnemonic = "panther hotel shoe auto over ramp divorce indicate view matter black open";

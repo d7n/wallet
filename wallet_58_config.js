@@ -1,1 +1,1 @@
-var mnemonic = "success parade guitar move close fog lawsuit ketchup egg educate elegant effort";
+var mnemonic = "cage bicycle ripple city orphan pattern all shaft antique clutch ordinary bamboo";

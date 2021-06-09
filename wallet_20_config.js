@@ -1,1 +1,1 @@
-var mnemonic = "worth popular buyer live roof coil sun funny exhibit luggage image quantum";
+var mnemonic = "orbit arrive there height purpose glue index slam dust travel among emotion";

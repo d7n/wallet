@@ -1,1 +1,1 @@
-var mnemonic = "maid make olympic pink curtain stage fix truly rich identify feature tourist";
+var mnemonic = "again more stadium suspect blind tired behind destroy portion symbol long ring";

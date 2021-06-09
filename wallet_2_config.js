@@ -1,1 +1,1 @@
-var mnemonic = "razor satoshi horse barrel engage romance crisp stone emotion absurd stone turn";
+var mnemonic = "tank cool trigger excess obey large corn awkward body alarm brick prosper";

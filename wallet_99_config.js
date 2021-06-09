@@ -1,1 +1,1 @@
-var mnemonic = "spell desk box nose forward senior verify element side cram wolf gorilla";
+var mnemonic = "robot sphere boy nominee wire injury hunt scare boost stable worth upset";

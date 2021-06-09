@@ -1,1 +1,1 @@
-var mnemonic = "repair hazard eager plunge rifle oxygen resemble easy rare light ivory absurd";
+var mnemonic = "pony lonely slim label dawn base target van ignore palace once awake";

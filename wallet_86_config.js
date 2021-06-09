@@ -1,1 +1,1 @@
-var mnemonic = "display bid circle excess owner game valley borrow mirror combine cliff subway";
+var mnemonic = "fashion apart situate idea armor uphold spoon knock spawn scrap scan bronze";

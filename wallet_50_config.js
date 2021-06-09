@@ -1,1 +1,1 @@
-var mnemonic = "snake carpet asset camp vintage tower unable large detail lens live emotion";
+var mnemonic = "fiber album switch bring village venture erode indicate swallow chaos tragic piece";

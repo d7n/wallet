@@ -1,1 +1,1 @@
-var mnemonic = "shove usual donkey used bamboo turkey trouble nurse runway alone fee ripple";
+var mnemonic = "idea donor little horn involve educate mule prison proof idea crystal gravity";

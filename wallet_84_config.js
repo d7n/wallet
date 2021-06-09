@@ -1,1 +1,1 @@
-var mnemonic = "jacket void ticket chair deny want index laundry excuse good pigeon occur";
+var mnemonic = "bundle drill mystery promote business shoot lake town cruel glass spawn elder";

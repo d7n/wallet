@@ -1,1 +1,1 @@
-var mnemonic = "pill bright insect employ pizza rookie year heavy moral type peace dress";
+var mnemonic = "relief lecture moral wish second ski glide bulk budget expand dress split";

@@ -1,1 +1,1 @@
-var mnemonic = "note walk cabin hire load uncle minor time inmate budget claw sunny";
+var mnemonic = "witness pluck become must donor have fly ocean grant limit impulse chief";

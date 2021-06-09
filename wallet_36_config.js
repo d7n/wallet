@@ -1,1 +1,1 @@
-var mnemonic = "couch loop later inhale jealous crucial stem lawn rule subject royal spot";
+var mnemonic = "glance slim social divert baby summer tool artwork speak layer vicious capable";

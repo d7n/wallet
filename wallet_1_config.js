@@ -1,1 +1,1 @@
-var mnemonic = "pretty object vivid document this switch pull unveil foster cry devote message";
+var mnemonic = "mixed bike debris mammal snap breeze meadow spell disorder charge title balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "wire layer collect strong civil royal prepare old circle october issue wool";
+var mnemonic = "hospital street memory man unfold motor educate exchange isolate sweet spike scan";

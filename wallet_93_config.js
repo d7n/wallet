@@ -1,1 +1,1 @@
-var mnemonic = "fever govern now second globe near merry prosper essay angle jelly public";
+var mnemonic = "salad lamp actual open spring spy absent cry shy menu question success";

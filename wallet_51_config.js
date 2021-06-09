@@ -1,1 +1,1 @@
-var mnemonic = "bronze endorse prosper grunt decline silly obscure hard reopen cross powder cricket";
+var mnemonic = "runway noise jump iron canal rebuild recall census legal diet plastic label";

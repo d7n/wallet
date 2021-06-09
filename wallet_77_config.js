@@ -1,1 +1,1 @@
-var mnemonic = "negative daring soul enemy jeans weekend object lion peasant film tilt fancy";
+var mnemonic = "guard melt deposit pyramid poem gasp canvas sweet theory obey carpet deposit";

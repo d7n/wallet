@@ -1,1 +1,1 @@
-var mnemonic = "tribe holiday upset face typical crash arena chunk story develop embrace track";
+var mnemonic = "drive vibrant cake survey today lizard trust female south age boat mixture";

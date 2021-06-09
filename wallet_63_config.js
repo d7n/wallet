@@ -1,1 +1,1 @@
-var mnemonic = "giraffe august napkin shine spike usage worth jealous brass key camera frame";
+var mnemonic = "eyebrow wild special tag acquire hold surround lonely boil popular decorate zebra";

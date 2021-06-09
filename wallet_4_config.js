@@ -1,1 +1,1 @@
-var mnemonic = "bus tenant cheese suit example load caution minute kidney boring zoo connect";
+var mnemonic = "ask cheese infant fabric reflect galaxy ritual satoshi universe body embody remain";

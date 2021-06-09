@@ -1,1 +1,1 @@
-var mnemonic = "organ simple flower response divide try distance stage soup find pig among";
+var mnemonic = "identify pool smile same brave issue where cost laugh abstract chunk noise";

@@ -1,1 +1,1 @@
-var mnemonic = "betray old twin bike cave text panda female west tag hotel young";
+var mnemonic = "impact enact tragic danger outer book warrior evoke dune upgrade force reveal";

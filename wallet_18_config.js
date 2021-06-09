@@ -1,1 +1,1 @@
-var mnemonic = "artist mule dial key chest oppose worth logic immense gravity donor glove";
+var mnemonic = "reduce inner cabbage verify erosion asset quality concert model fiscal chicken cage";

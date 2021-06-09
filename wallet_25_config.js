@@ -1,1 +1,1 @@
-var mnemonic = "antenna exile climb creek pill venue outside mimic innocent spoon display visit";
+var mnemonic = "net enter retreat slab crazy mushroom slush wisdom video nurse monkey draft";

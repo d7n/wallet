@@ -1,1 +1,1 @@
-var mnemonic = "lamp math perfect couch erase key near midnight retire blade pottery access";
+var mnemonic = "yard pond innocent salon lava pave card demand unfold joy music check";

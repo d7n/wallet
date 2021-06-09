@@ -1,1 +1,1 @@
-var mnemonic = "quiz company brother music border pepper indicate first sweet monitor turkey resemble";
+var mnemonic = "chicken glory vessel track jar insect pen head edge camera auto shove";

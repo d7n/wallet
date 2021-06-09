@@ -1,1 +1,1 @@
-var mnemonic = "gauge settle club crumble lucky dish decorate toddler shine stock wink plug";
+var mnemonic = "stage only offer crumble someone vibrant furnace exit bind expire afraid engine";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze lamp side work defense buyer you fuel scale tunnel giraffe attract";
+var mnemonic = "scout item spell citizen left staff fashion satoshi train peace choose stove";

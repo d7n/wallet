@@ -1,1 +1,1 @@
-var mnemonic = "cream quick van train rude parrot census waste wall melody method work";
+var mnemonic = "squeeze seminar bus slow effort okay uphold isolate evidence galaxy miss weasel";

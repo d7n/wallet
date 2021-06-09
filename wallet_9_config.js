@@ -1,1 +1,1 @@
-var mnemonic = "spice click note bargain tool build wish copy knee gauge sketch decrease";
+var mnemonic = "direct shoe mass bubble neglect machine knife curve jungle defy add post";

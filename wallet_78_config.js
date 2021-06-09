@@ -1,1 +1,1 @@
-var mnemonic = "moral rescue inside void satisfy robust audit luxury zone view imitate other";
+var mnemonic = "muscle bracket fee east planet because know trophy relief monster crack inside";

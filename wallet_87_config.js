@@ -1,1 +1,1 @@
-var mnemonic = "often arrange sand song assault report learn position side unhappy evidence balcony";
+var mnemonic = "patient wet surround topic cactus better drink rack innocent high essence length";

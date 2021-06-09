@@ -1,1 +1,1 @@
-var mnemonic = "win round melody post iron type universe coast slim luggage essay truth";
+var mnemonic = "canyon nominee drastic hat upgrade abandon answer invest poverty upgrade entry sign";

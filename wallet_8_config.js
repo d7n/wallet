@@ -1,1 +1,1 @@
-var mnemonic = "keep summer height describe erode click text torch absurd tip metal carbon";
+var mnemonic = "garden upon laundry mesh debris flip birth siren indoor ecology sell any";

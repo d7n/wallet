@@ -1,1 +1,1 @@
-var mnemonic = "federal setup fresh good shift elbow time reward episode piece alert project";
+var mnemonic = "hood quote pony income empty edit card process parent deal limit surround";

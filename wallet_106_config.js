@@ -1,1 +1,1 @@
-var mnemonic = "trial peasant sound peasant adapt inform pepper slim snake upset ostrich copy";
+var mnemonic = "adapt hole begin great upon wrist grace wife industry bind fall soup";

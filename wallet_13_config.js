@@ -1,1 +1,1 @@
-var mnemonic = "brave globe zone cigar wash pizza dial crucial bunker bomb breeze sibling";
+var mnemonic = "timber monitor scorpion treat hire ready lady hill casual enforce antique stem";

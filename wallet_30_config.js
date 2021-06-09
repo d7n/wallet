@@ -1,1 +1,1 @@
-var mnemonic = "combine require position wish boss hill pause high oil husband segment begin";
+var mnemonic = "prevent address library purchase differ size cat heart area cement tone object";

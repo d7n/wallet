@@ -1,1 +1,1 @@
-var mnemonic = "click warm spatial velvet hour essay cave truly vote ceiling eternal rotate";
+var mnemonic = "old boil kiwi coin hurt often digital remove vendor strategy casual arrange";

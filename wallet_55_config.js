@@ -1,1 +1,1 @@
-var mnemonic = "brush hat current remove horse female own fetch maze fatal drill female";
+var mnemonic = "renew expand symptom text crystal daughter load whip today candy food loud";

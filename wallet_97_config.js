@@ -1,1 +1,1 @@
-var mnemonic = "rally adult isolate fresh assume evolve between false office elbow hood leopard";
+var mnemonic = "broom swallow flight globe evil label verify salon bacon narrow glance light";

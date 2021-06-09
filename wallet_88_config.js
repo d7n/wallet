@@ -1,1 +1,1 @@
-var mnemonic = "monitor plug deer nothing much swear demand fall midnight deny scan trouble";
+var mnemonic = "found accuse goat require pitch island sibling match execute soft initial fiscal";

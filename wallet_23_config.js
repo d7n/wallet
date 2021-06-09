@@ -1,1 +1,1 @@
-var mnemonic = "author sponsor stick pigeon mesh empower multiply catch used gaze normal auto";
+var mnemonic = "rabbit payment gas ask insane clock treat tuna foot goose genre field";

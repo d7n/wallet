@@ -1,1 +1,1 @@
-var mnemonic = "detail diamond shy section sugar exchange october invest crowd again submit miss";
+var mnemonic = "hat eyebrow envelope friend arena fluid morning tenant child often athlete armed";

@@ -1,1 +1,1 @@
-var mnemonic = "atom barely ripple virtual agent maple hammer exit bracket ski donkey sibling";
+var mnemonic = "canal bus summer zebra canyon come wrestle only cube gloom deposit sphere";

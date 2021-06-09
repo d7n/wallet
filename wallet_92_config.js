@@ -1,1 +1,1 @@
-var mnemonic = "wear bridge update bacon library wonder enact wagon sting tennis gauge cancel";
+var mnemonic = "narrow chuckle grid glow couch special wait message innocent leave feature wild";

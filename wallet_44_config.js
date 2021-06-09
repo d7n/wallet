@@ -1,1 +1,1 @@
-var mnemonic = "kiwi index able impact into few canoe venture melody proof settle start";
+var mnemonic = "blossom warfare label rhythm title tornado bean symbol heart loyal extend erupt";

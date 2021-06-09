@@ -1,1 +1,1 @@
-var mnemonic = "tent health toss amateur peace rocket know lazy file bridge wire damage";
+var mnemonic = "shallow lamp that until quit rookie above discover announce first caution occur";

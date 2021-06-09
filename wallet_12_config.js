@@ -1,1 +1,1 @@
-var mnemonic = "situate thing educate orient observe orbit choose number short wheat nation slim";
+var mnemonic = "isolate obvious drive relax round theory drive artist august bulb cruel point";

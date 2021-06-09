@@ -1,1 +1,1 @@
-var mnemonic = "maze wagon usage near desert wear cave hungry vessel mask leisure icon";
+var mnemonic = "couple argue evolve foil switch bus fish basic acquire always aisle wing";

@@ -1,1 +1,1 @@
-var mnemonic = "riot provide eagle rabbit front hurry loan all fat cake dumb silly";
+var mnemonic = "swarm budget duck dream language eyebrow around fresh pumpkin annual purchase wear";

@@ -1,1 +1,1 @@
-var mnemonic = "caution urban erupt swear style vintage life narrow panel wisdom horn budget";
+var mnemonic = "enforce blur frame blind control ignore arm general purchase three hope survey";

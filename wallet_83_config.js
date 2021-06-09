@@ -1,1 +1,1 @@
-var mnemonic = "young team miracle diamond despair kick sell mixed quote claw venue high";
+var mnemonic = "grain envelope copper cook split market humble slide describe giggle crowd lobster";

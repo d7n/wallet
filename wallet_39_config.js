@@ -1,1 +1,1 @@
-var mnemonic = "poverty keep leg assume rely identify equal fit civil onion enough violin";
+var mnemonic = "turn best destroy surround iron monster manage odor elevator lottery excite link";

@@ -1,1 +1,1 @@
-var mnemonic = "slight toddler giraffe unveil ribbon burden subject game apart stairs moral short";
+var mnemonic = "rocket erode evoke female harvest jacket dwarf venue target stool leave pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt powder start crew maximum trap palm rigid dinner cushion busy denial";
+var mnemonic = "agent drive embrace ivory life shop captain drastic abuse vote leaf sight";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen paper inhale hand gallery suspect grace human imitate current bamboo wrong";
+var mnemonic = "begin need lawn mixture hold dwarf engage polar develop horse embrace code";

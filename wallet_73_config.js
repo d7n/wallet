@@ -1,1 +1,1 @@
-var mnemonic = "impulse bench find dumb ridge caution inquiry shiver pole occur six decline";
+var mnemonic = "correct crawl pluck ugly mandate vocal nothing cool fox speak catalog program";

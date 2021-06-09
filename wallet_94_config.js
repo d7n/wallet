@@ -1,1 +1,1 @@
-var mnemonic = "walnut stamp claw lyrics wish wise symbol smart fiction quality accident brief";
+var mnemonic = "lamp claw develop obtain student chunk note just settle actor prison before";

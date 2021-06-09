@@ -1,1 +1,1 @@
-var mnemonic = "foster fog drink check lunch erase antique pilot drive alone guide unique";
+var mnemonic = "exist cage heart clarify pencil pioneer upper since inmate field trust naive";

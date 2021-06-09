@@ -1,1 +1,1 @@
-var mnemonic = "nothing deny circle vintage address include state stairs tourist panic among birth";
+var mnemonic = "pistol alley curious ignore web arrest turtle path tomato circle tenant nasty";

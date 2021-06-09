@@ -1,1 +1,1 @@
-var mnemonic = "ride choice fit drop actor toward offer summer century height agent pelican";
+var mnemonic = "used refuse owner relax region slim bean believe move response true other";

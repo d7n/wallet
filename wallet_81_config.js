@@ -1,1 +1,1 @@
-var mnemonic = "spring cycle zero broom safe cushion afraid picnic fork summer erase idea";
+var mnemonic = "fire expect again extra bag slice century novel enroll hint spin author";

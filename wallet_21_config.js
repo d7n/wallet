@@ -1,1 +1,1 @@
-var mnemonic = "gaze wet actual corn goose spray choose trend swift already cherry glad";
+var mnemonic = "achieve sadness rebel pool inflict rapid price rural grab lonely milk key";

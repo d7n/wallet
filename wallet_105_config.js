@@ -1,1 +1,1 @@
-var mnemonic = "squeeze satisfy salute gaze invite legend book nut wine prepare chef eight";
+var mnemonic = "grow system carry leaf choice frame thank fabric arena anchor price wife";

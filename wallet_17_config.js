@@ -1,1 +1,1 @@
-var mnemonic = "happy topic zebra critic stereo walnut damage online note few sorry early";
+var mnemonic = "caught physical account salad crash aunt dumb dolphin absorb axis shrug utility";

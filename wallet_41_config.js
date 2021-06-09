@@ -1,1 +1,1 @@
-var mnemonic = "across senior cactus ticket close zebra title work exchange breeze tunnel risk";
+var mnemonic = "roof hidden wheel write energy hill retreat dawn sure quote illness clever";

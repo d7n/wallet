@@ -1,1 +1,1 @@
-var mnemonic = "pledge lyrics embark luxury casino success mistake mask admit dice near ritual";
+var mnemonic = "album chronic duck upgrade sausage rent sand movie mention fan deliver live";

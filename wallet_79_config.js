@@ -1,1 +1,1 @@
-var mnemonic = "wage iron victory art color tenant cage host tilt room goose world";
+var mnemonic = "captain diet science pet ocean drastic inform burst frequent gap project response";

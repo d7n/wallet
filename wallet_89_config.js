@@ -1,1 +1,1 @@
-var mnemonic = "fork main void arch actual clog invest pigeon traffic eagle diet ozone";
+var mnemonic = "home negative jealous iron control sand attract quote priority acoustic episode blossom";

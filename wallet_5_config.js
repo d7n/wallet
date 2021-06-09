@@ -1,1 +1,1 @@
-var mnemonic = "pyramid learn goat strike festival exclude battle movie symbol master document track";
+var mnemonic = "latin exact analyst orchard entire label leaf pill virus stumble party ordinary";

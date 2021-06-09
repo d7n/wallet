@@ -1,1 +1,1 @@
-var mnemonic = "truck grain copy aisle copper panda achieve law supreme warm town turkey";
+var mnemonic = "human floor shuffle three coconut tilt hobby deal stage diagram pill state";

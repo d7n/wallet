@@ -1,1 +1,1 @@
-var mnemonic = "arena trim learn trophy mystery arch injury trade top proof horse wrist";
+var mnemonic = "route dad physical rubber agree level sick kiwi hazard water dance ring";

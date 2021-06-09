@@ -1,1 +1,1 @@
-var mnemonic = "avocado fee result assault cloud off family census oval radar chef scan";
+var mnemonic = "suit burden pizza lamp trend faint bitter hammer glare height bind elder";

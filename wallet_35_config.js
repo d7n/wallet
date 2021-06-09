@@ -1,1 +1,1 @@
-var mnemonic = "attitude inflict blind dirt subway pupil trophy elder secret region poem dinosaur";
+var mnemonic = "error monster hazard suspect eager seed furnace ugly clinic suit fly winner";

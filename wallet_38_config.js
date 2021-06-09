@@ -1,1 +1,1 @@
-var mnemonic = "energy report sting mistake tornado income trust original castle drum useful gauge";
+var mnemonic = "wedding clog test anger same merit village forest admit chat vanish impulse";

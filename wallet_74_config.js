@@ -1,1 +1,1 @@
-var mnemonic = "vendor tiny obscure sketch response lawn regret pact sport mouse release bread";
+var mnemonic = "belt common poem tip walnut blanket insane guard mean biology risk sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "major balance midnight flip doll donkey rifle target husband present display seminar";
+var mnemonic = "sleep seek hamster inner image neglect smoke awkward jeans plunge bright scare";

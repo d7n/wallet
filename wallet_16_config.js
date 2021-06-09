@@ -1,1 +1,1 @@
-var mnemonic = "blood unique inhale alien prepare toilet quiz pair easily rocket cute ostrich";
+var mnemonic = "flag yard convince limit rare feed tumble state limit beyond inner result";

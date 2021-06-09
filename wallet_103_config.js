@@ -1,1 +1,1 @@
-var mnemonic = "vacuum sick make finish inherit tennis artwork hint emerge panel high essay";
+var mnemonic = "empty rose latin stove fragile brand lucky kitten tennis wheat unhappy water";

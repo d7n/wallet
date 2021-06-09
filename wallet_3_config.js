@@ -1,1 +1,1 @@
-var mnemonic = "under train border custom embark table insane author jealous lizard actor mammal";
+var mnemonic = "ball beyond waste ceiling weather draw dance myth image danger easy arch";

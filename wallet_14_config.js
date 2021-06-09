@@ -1,1 +1,1 @@
-var mnemonic = "trial foot crystal three organ pair dutch exile scale tattoo try unknown";
+var mnemonic = "ankle truth sibling enter flip add toddler allow combine spring dish print";

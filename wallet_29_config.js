@@ -1,1 +1,1 @@
-var mnemonic = "ill huge reduce long dash regret desk submit jar soul scissors soft";
+var mnemonic = "strong latin minute aerobic session desk true plug enjoy need warrior boy";
