@@ -1,1 +1,1 @@
-var mnemonic = "practice bind abuse shoot place brain ankle chest hip achieve bring soup";
+var mnemonic = "symbol rebuild sure depart scare exist load either advance curious fiction great";

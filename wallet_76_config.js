@@ -1,1 +1,1 @@
-var mnemonic = "neck float sentence toast key art toe juice marble street neglect pencil";
+var mnemonic = "gym spatial try suspect drift original certain ankle stairs resist waste coconut";

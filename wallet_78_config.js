@@ -1,1 +1,1 @@
-var mnemonic = "method few family dance destroy endless exist dynamic junk forward adjust monitor";
+var mnemonic = "trumpet argue tell blast kid candy charge whisper worry jewel idea arctic";

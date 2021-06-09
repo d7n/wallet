@@ -1,1 +1,1 @@
-var mnemonic = "collect spread blame oblige rare boring orient include orphan boy dose rural";
+var mnemonic = "trumpet leopard portion old rely survey toss rose meat now desert sort";

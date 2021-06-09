@@ -1,1 +1,1 @@
-var mnemonic = "volcano melt actual hello control improve gossip slogan approve cruise chunk boost";
+var mnemonic = "flip ball bench grace argue select wrist angle pupil cupboard pink dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "broken rough muscle page leave output box script boy foam shift parrot";
+var mnemonic = "dash fade effort slogan trend roof nice discover exclude stay apology avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic cage blame fuel jaguar pull jelly dignity spirit dust antique hard";
+var mnemonic = "spider vessel night expire smile glance decrease artist torch kid stove heart";

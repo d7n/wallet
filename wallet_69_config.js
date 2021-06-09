@@ -1,1 +1,1 @@
-var mnemonic = "age detect breeze diesel meadow proof glue soccer quarter sniff drill vague";
+var mnemonic = "diary more ankle swift famous wait runway maximum insect brush define write";

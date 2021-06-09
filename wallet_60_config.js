@@ -1,1 +1,1 @@
-var mnemonic = "pretty supply loan bench smile worry stomach height method upgrade during flip";
+var mnemonic = "eye rare law kid turkey hold expand frog episode solar giant tumble";

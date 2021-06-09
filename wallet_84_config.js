@@ -1,1 +1,1 @@
-var mnemonic = "bulb term outside water they clean tiger card claw chicken enact summer";
+var mnemonic = "river crime twelve promote thought prevent one bench exact matter clean visit";

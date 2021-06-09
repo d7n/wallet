@@ -1,1 +1,1 @@
-var mnemonic = "piano warfare own bench kitten hammer learn first lady cement text flush";
+var mnemonic = "zoo gold arm orange among orchard happy cart chunk gossip drink gloom";

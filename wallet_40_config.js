@@ -1,1 +1,1 @@
-var mnemonic = "since piano antique buddy east bonus undo credit cup shove ranch canvas";
+var mnemonic = "exclude bamboo civil despair bicycle text hand camera spike man account sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "access job mutual token famous return sudden invite family august diamond wave";
+var mnemonic = "gift into useless decrease city vacuum grass next stuff solve produce heart";

@@ -1,1 +1,1 @@
-var mnemonic = "menu call label found flip order panic hurt debate alpha first tag";
+var mnemonic = "cage earn weird vicious shiver fortune bless satisfy doll wing cabbage voice";

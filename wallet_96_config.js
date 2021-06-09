@@ -1,1 +1,1 @@
-var mnemonic = "achieve auto vanish cluster genre corn mix oxygen stereo atom win search";
+var mnemonic = "exercise token shift milk fade figure bullet famous saddle senior vacuum hurt";

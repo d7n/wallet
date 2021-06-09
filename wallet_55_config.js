@@ -1,1 +1,1 @@
-var mnemonic = "rich obvious rather myself sweet acoustic habit harbor fame unable grief return";
+var mnemonic = "example husband badge guitar scheme lizard team crouch firm innocent barrel shrug";

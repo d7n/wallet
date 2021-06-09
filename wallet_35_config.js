@@ -1,1 +1,1 @@
-var mnemonic = "razor zero crystal spawn mad monitor child tilt script kangaroo matter expose";
+var mnemonic = "pupil ridge loop prepare beach excess token correct write attract brother kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "pear deer logic inhale carpet long before find wash mind visual super";
+var mnemonic = "garlic protect fury embody fruit code ramp connect people dad jar invest";

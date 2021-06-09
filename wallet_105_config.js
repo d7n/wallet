@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit entry rigid wine orient whisper put wide garbage detect youth ready";
+var mnemonic = "lady cart effort call bright chair edge subway bus essay broccoli dog";

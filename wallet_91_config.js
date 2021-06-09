@@ -1,1 +1,1 @@
-var mnemonic = "wire utility shell differ daughter fringe inflict april seek phone coffee unable";
+var mnemonic = "ring unusual fee correct uncle little obscure twenty usual south rough inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "train main traffic keen old pull mountain october aisle mistake athlete curious";
+var mnemonic = "alcohol remove kiss table sister merry fork creek slot write spy fiscal";

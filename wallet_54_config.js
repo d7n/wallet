@@ -1,1 +1,1 @@
-var mnemonic = "void unusual afraid dwarf spell bounce inform borrow despair relief noodle moral";
+var mnemonic = "public thrive tail desk side loud juice lyrics illness camera road month";

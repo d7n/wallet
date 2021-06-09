@@ -1,1 +1,1 @@
-var mnemonic = "abuse order manual save embrace must family sunny host crouch ceiling tomorrow";
+var mnemonic = "turn rifle outside slogan betray sibling museum amused ski combine color story";

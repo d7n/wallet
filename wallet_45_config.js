@@ -1,1 +1,1 @@
-var mnemonic = "position fine admit gate fix gentle yard coral area win detect improve";
+var mnemonic = "disease market situate injury find note spike cry jelly assist custom shrimp";

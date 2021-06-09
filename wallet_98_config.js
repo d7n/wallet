@@ -1,1 +1,1 @@
-var mnemonic = "bicycle certain draft wealth anger awesome march glue duck brown mixed bullet";
+var mnemonic = "wreck bone vote since universe diamond angle market loan zero remain retreat";

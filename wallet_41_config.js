@@ -1,1 +1,1 @@
-var mnemonic = "chaos waste van depart rabbit whale fresh element into token giraffe all";
+var mnemonic = "impose pattern crop below episode desert joke attend plunge pepper ski reunion";

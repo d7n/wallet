@@ -1,1 +1,1 @@
-var mnemonic = "exhibit route zero bicycle fuel spider april olive work surround proud enemy";
+var mnemonic = "announce thing bargain leg chicken damage animal skate edit fury pioneer net";

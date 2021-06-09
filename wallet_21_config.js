@@ -1,1 +1,1 @@
-var mnemonic = "cliff expire share limb quarter ball fetch coyote shift border fire album";
+var mnemonic = "ugly alien vehicle donor radio genius capable real appear wagon analyst chicken";

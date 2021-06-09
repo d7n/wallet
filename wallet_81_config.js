@@ -1,1 +1,1 @@
-var mnemonic = "hand pattern silly bid item domain remind high mixture panther crater produce";
+var mnemonic = "address legend diagram make prison edit whale ordinary cry quote shove unable";

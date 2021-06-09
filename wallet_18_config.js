@@ -1,1 +1,1 @@
-var mnemonic = "trumpet robot adjust range very dry refuse jelly want seed volume napkin";
+var mnemonic = "medal olive leave detect win author salt soul census slender eager crazy";

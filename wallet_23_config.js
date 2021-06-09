@@ -1,1 +1,1 @@
-var mnemonic = "theory solid weekend electric trumpet shop angry sudden gift race ostrich dentist";
+var mnemonic = "nominee dune glimpse peace illness concert drum dumb sweet sad find zoo";

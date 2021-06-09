@@ -1,1 +1,1 @@
-var mnemonic = "surge law ugly salmon inside advance size cluster ridge excuse away brush";
+var mnemonic = "survey seed sort weapon endless crucial bid fork move bamboo tuition celery";

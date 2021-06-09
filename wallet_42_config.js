@@ -1,1 +1,1 @@
-var mnemonic = "vapor dolphin still shop exit envelope away basic powder jealous wing minute";
+var mnemonic = "remain where stand north dignity disorder buzz hood device afraid expect where";

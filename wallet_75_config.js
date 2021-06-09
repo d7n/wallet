@@ -1,1 +1,1 @@
-var mnemonic = "coyote angle royal century cluster normal explain chaos dawn ribbon angle destroy";
+var mnemonic = "network give debate setup meat tape fluid mad collect insane cover draft";

@@ -1,1 +1,1 @@
-var mnemonic = "figure muscle wise chase then marble bamboo extend letter true indoor recipe";
+var mnemonic = "draft spread primary uniform apart tobacco confirm athlete magnet canal stove science";

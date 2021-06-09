@@ -1,1 +1,1 @@
-var mnemonic = "wheel helmet canal erase small stick loyal version field abstract group govern";
+var mnemonic = "nose chaos execute enrich face chronic sugar course athlete present aunt puzzle";

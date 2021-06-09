@@ -1,1 +1,1 @@
-var mnemonic = "label tobacco canyon wasp metal lumber acid shift purity market vacant title";
+var mnemonic = "gloom around term message appear blouse path isolate toy vivid brother echo";

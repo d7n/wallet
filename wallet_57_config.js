@@ -1,1 +1,1 @@
-var mnemonic = "army flower double year trash inside fox utility ginger wing oxygen awake";
+var mnemonic = "explain federal lazy amazing subject convince video way style scare bid spot";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze surround swing eight inspire web join arm cupboard depth also tornado";
+var mnemonic = "anxiety pipe chaos skill leaf catalog luxury diagram chef bomb swap rabbit";

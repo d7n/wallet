@@ -1,1 +1,1 @@
-var mnemonic = "curtain pizza history spare dash almost cook train dwarf group garment slogan";
+var mnemonic = "grab soul scout august hat essay whale bright upset veteran suit reason";

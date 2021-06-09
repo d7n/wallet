@@ -1,1 +1,1 @@
-var mnemonic = "foam edge spice snack curious normal animal ribbon quick define slender morning";
+var mnemonic = "engine lonely cover differ sadness floor mistake cool gold mix firm matrix";

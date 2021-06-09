@@ -1,1 +1,1 @@
-var mnemonic = "this beef salute differ art identify stamp royal family spot language dilemma";
+var mnemonic = "detail rich half ugly base casino index car absorb lunar symbol fan";

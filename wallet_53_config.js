@@ -1,1 +1,1 @@
-var mnemonic = "chase shuffle alcohol fancy problem valve ritual dilemma fossil drill video adjust";
+var mnemonic = "stone whale estate taxi together scheme expect impulse ankle federal aisle task";

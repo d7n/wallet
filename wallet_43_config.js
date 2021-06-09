@@ -1,1 +1,1 @@
-var mnemonic = "guide throw present denial chicken thumb humble announce brown ahead purse history";
+var mnemonic = "gain never empty artwork magnet know traffic trash rubber april unfold hero";

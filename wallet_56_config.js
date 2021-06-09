@@ -1,1 +1,1 @@
-var mnemonic = "jazz term curtain appear dial example belt maximum quick glue dust jungle";
+var mnemonic = "stadium humble sun error flush easily talk rent clerk ocean toe own";

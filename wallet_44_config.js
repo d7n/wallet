@@ -1,1 +1,1 @@
-var mnemonic = "dragon dirt turtle system gospel cliff raw drill danger forest enforce struggle";
+var mnemonic = "equal frequent budget funny silent absent illegal legend load tenant arrange want";

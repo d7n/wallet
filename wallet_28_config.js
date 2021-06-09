@@ -1,1 +1,1 @@
-var mnemonic = "evil label ostrich among model wonder bundle estate retire advice puppy sing";
+var mnemonic = "guard neither add staff panel possible mobile gauge siren option oil boss";

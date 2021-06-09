@@ -1,1 +1,1 @@
-var mnemonic = "venture undo thing move ahead figure potato report below impulse insane best";
+var mnemonic = "mean tuition sword correct company acquire clown know alter grocery can divorce";

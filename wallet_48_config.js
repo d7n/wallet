@@ -1,1 +1,1 @@
-var mnemonic = "genuine horror talent twin trade share because cherry spend range payment soda";
+var mnemonic = "ring thing inspire calm receive rather transfer blanket airport crash raw know";

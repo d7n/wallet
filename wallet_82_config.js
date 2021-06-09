@@ -1,1 +1,1 @@
-var mnemonic = "gain net palm shrimp smile ignore fiction stable because labor fashion cool";
+var mnemonic = "sausage circle hill road work dirt cliff myth asset firm race version";

@@ -1,1 +1,1 @@
-var mnemonic = "party clean whip lucky trial bright siren bind cannon deal dice chronic";
+var mnemonic = "person coil extra depend glance busy jelly amazing debris lamp enhance cloud";

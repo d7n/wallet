@@ -1,1 +1,1 @@
-var mnemonic = "stomach capital claw kid search frost army slab evoke champion layer female";
+var mnemonic = "envelope expect salad tape wild unveil purchase rely kiss wealth stomach spatial";

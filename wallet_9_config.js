@@ -1,1 +1,1 @@
-var mnemonic = "stock scatter enforce seed someone marble roast onion original mercy furnace theme";
+var mnemonic = "word useless magic defy other resource universe ride seat casino daughter actor";

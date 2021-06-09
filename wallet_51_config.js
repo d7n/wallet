@@ -1,1 +1,1 @@
-var mnemonic = "kite flag predict ask question view rotate horror hospital around visit pause";
+var mnemonic = "situate season garment mutual cycle rib sunset ribbon teach page chest finger";

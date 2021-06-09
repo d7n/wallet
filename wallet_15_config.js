@@ -1,1 +1,1 @@
-var mnemonic = "nest robust fit position summer attend gift grain entry faith unique clap";
+var mnemonic = "endorse crime into hammer obvious brief license next slim kiss adapt wedding";

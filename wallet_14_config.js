@@ -1,1 +1,1 @@
-var mnemonic = "unit jazz rural chapter scale floor resemble elegant bean crunch jump inmate";
+var mnemonic = "ceiling advance blame diamond symbol negative spell snake poem soda private stable";

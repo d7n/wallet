@@ -1,1 +1,1 @@
-var mnemonic = "scare isolate noodle glide camp width coil border either three drip believe";
+var mnemonic = "swim gravity daring rule solution garage father friend antique magic screen loan";

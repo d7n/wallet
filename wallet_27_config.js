@@ -1,1 +1,1 @@
-var mnemonic = "slab onion very hurdle jacket provide tissue bundle blade sentence gas oil";
+var mnemonic = "know diary spy cannon click sound orphan boil enforce breeze best reject";

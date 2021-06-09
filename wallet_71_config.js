@@ -1,1 +1,1 @@
-var mnemonic = "phone stable social best normal flock midnight crew jealous truck science flash";
+var mnemonic = "tunnel focus piece trumpet sauce mixed tube million maze punch whip organ";

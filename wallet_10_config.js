@@ -1,1 +1,1 @@
-var mnemonic = "admit vault enjoy evil round squirrel brave order original oven cruise roast";
+var mnemonic = "rebel recall name cupboard ship unique cement slight menu success bulb wool";

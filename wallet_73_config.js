@@ -1,1 +1,1 @@
-var mnemonic = "mixed region dial walnut immune jazz carpet truly chair elbow raven victory";
+var mnemonic = "smoke spy raw pulse annual deal window sad slush obtain image mosquito";

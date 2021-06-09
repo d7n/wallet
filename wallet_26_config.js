@@ -1,1 +1,1 @@
-var mnemonic = "network merge faculty banana destroy kiwi chase enroll holiday language estate feel";
+var mnemonic = "check time space spoon flag pond quit distance ask uniform release hold";

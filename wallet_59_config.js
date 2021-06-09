@@ -1,1 +1,1 @@
-var mnemonic = "review giggle live party wreck endless hotel track virus jelly gorilla school";
+var mnemonic = "boost frozen outdoor fog order situate author trap install cattle deposit uncover";

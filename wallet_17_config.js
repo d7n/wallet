@@ -1,1 +1,1 @@
-var mnemonic = "coyote midnight extend rabbit swamp pair picture cloud hard aunt dune bus";
+var mnemonic = "make soul laugh hero market shine eagle stick era garbage dish sunny";

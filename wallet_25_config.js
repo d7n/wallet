@@ -1,1 +1,1 @@
-var mnemonic = "dad topple elegant blanket middle energy expire daughter tent record loan latin";
+var mnemonic = "kiss obtain attack hat fan give fiscal fame walk seek return around";

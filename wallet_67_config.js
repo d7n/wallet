@@ -1,1 +1,1 @@
-var mnemonic = "slim dizzy pave prison grass erosion media rain health atom organ rely";
+var mnemonic = "salad enjoy divorce prevent match diet live will monkey foil voice snack";

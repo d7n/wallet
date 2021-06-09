@@ -1,1 +1,1 @@
-var mnemonic = "skirt merit spirit program junior profit want benefit believe riot royal foot";
+var mnemonic = "click palm ginger autumn bind scrub act crop gallery water bundle laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "atom flight dinner rural actual ritual face decide march aspect grace convince";
+var mnemonic = "nominee voyage dynamic slender alter prevent powder citizen color sheriff work file";

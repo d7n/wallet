@@ -1,1 +1,1 @@
-var mnemonic = "admit excess mail scale decide plug rhythm boy ten idle input forget";
+var mnemonic = "utility cruel slice convince system follow unit initial orchard client bottom forward";

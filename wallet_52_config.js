@@ -1,1 +1,1 @@
-var mnemonic = "shoulder link deposit gloom already apple unusual slush badge present gloom social";
+var mnemonic = "illegal bullet wait episode ripple drum crowd trim spider symbol melt school";

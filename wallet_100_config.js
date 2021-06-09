@@ -1,1 +1,1 @@
-var mnemonic = "antique day under puppy swing people prefer column business drive tool give";
+var mnemonic = "sadness oil diesel harbor real ignore fun frog gauge outside isolate link";

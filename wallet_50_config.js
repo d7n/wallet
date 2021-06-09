@@ -1,1 +1,1 @@
-var mnemonic = "enact nerve kangaroo tent symptom evidence shiver hood myth escape loyal duck";
+var mnemonic = "voyage twist cash brand increase antenna heart grab outdoor salute fabric scatter";

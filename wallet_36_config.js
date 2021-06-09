@@ -1,1 +1,1 @@
-var mnemonic = "asthma diamond transfer guide field clap elite can symbol pair jazz goat";
+var mnemonic = "organ wire cover camp vacuum garlic square cluster shop boss front denial";

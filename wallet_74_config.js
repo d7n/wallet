@@ -1,1 +1,1 @@
-var mnemonic = "action silk grab draw canoe hedgehog jewel evil enemy final cruel leave";
+var mnemonic = "peasant squeeze false ten eyebrow tank very bubble weapon injury great coast";

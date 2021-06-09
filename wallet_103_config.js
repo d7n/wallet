@@ -1,1 +1,1 @@
-var mnemonic = "supply duck rib lens exhibit keep learn fatal jungle topic frame measure";
+var mnemonic = "mouse office obtain obey assist proud pulp swift husband drill grass cover";

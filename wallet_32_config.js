@@ -1,1 +1,1 @@
-var mnemonic = "clutch deny fury medal phrase frown draft rice brass health advance episode";
+var mnemonic = "tower rival machine venue smart industry census distance raise repeat combine piece";

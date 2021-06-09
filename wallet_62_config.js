@@ -1,1 +1,1 @@
-var mnemonic = "first quality uncover dove inhale problem wheat budget diamond armed because wrestle";
+var mnemonic = "draft false parade reduce pig physical among mansion jump mirror sense real";

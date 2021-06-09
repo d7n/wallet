@@ -1,1 +1,1 @@
-var mnemonic = "stuff cute volcano bicycle trophy exclude social canyon snack cheese into around";
+var mnemonic = "chronic update image sleep ghost confirm bridge enrich provide this intact sample";

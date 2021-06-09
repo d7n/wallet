@@ -1,1 +1,1 @@
-var mnemonic = "amused room team alert month motor hover tip reunion end goat hazard";
+var mnemonic = "guard friend spread photo print pizza cup normal just bind shift provide";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt orphan gift joy jelly shy jaguar plastic paper area shove night";
+var mnemonic = "general scorpion true art view bike chalk recipe chase trend round ticket";

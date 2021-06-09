@@ -1,1 +1,1 @@
-var mnemonic = "feel comfort vintage garment grain tired clump problem question ill visual organ";
+var mnemonic = "color quit grit swarm brick under powder box work toward wide strong";

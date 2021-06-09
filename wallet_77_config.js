@@ -1,1 +1,1 @@
-var mnemonic = "dentist path glad prize doctor path obtain tragic sign scout flip device";
+var mnemonic = "split canyon invite horse bamboo add town country pottery wrist bargain multiply";

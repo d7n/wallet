@@ -1,1 +1,1 @@
-var mnemonic = "frozen bonus jealous blind fetch reform social occur define solar web weapon";
+var mnemonic = "special soldier trend cancel diet another sister rival genius hope gate anxiety";

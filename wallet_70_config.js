@@ -1,1 +1,1 @@
-var mnemonic = "unique ignore news uniform hero pill explain leaf step sight aerobic chaos";
+var mnemonic = "fetch dinner resource eagle baby tape scrap decorate top gauge decade retreat";

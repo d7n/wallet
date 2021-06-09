@@ -1,1 +1,1 @@
-var mnemonic = "vicious love embark dutch gun ask recall portion discover index coyote steel";
+var mnemonic = "then water thought abuse wonder census tide adapt police hope oppose weasel";

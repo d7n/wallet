@@ -1,1 +1,1 @@
-var mnemonic = "gesture steak tobacco clarify square candy water near dentist again ancient vessel";
+var mnemonic = "abuse unlock siege sock together amazing squirrel faculty poem shiver manual vendor";

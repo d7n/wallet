@@ -1,1 +1,1 @@
-var mnemonic = "dress push series chef page lounge audit pioneer memory voyage vault stable";
+var mnemonic = "melody mistake skull sure lawsuit dignity elevator accuse hen local will save";

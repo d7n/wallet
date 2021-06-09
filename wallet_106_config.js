@@ -1,1 +1,1 @@
-var mnemonic = "legal tumble gold water profit found derive sport theory walnut address grunt";
+var mnemonic = "battle monster early unusual recipe school process pull fun network glue whale";

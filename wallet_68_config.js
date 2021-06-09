@@ -1,1 +1,1 @@
-var mnemonic = "wheel benefit unfold betray table milk dizzy ancient sauce oil bacon manual";
+var mnemonic = "bench pride capital laugh cube spawn tobacco seat garage original text adapt";
