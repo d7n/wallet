@@ -1,1 +1,1 @@
-var mnemonic = "luggage rude general bundle spin spoil cycle silver regret unhappy engage female";
+var mnemonic = "suit bubble number flush more glory either indoor drift laugh course pride";

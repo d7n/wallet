@@ -1,1 +1,1 @@
-var mnemonic = "butter junk snow film woman upper fence ensure patient main million orphan";
+var mnemonic = "muffin metal lawn galaxy document rich village stadium relief suspect split confirm";

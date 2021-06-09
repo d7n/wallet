@@ -1,1 +1,1 @@
-var mnemonic = "camera man film onion mosquito brass pyramid snap bonus scare ancient peanut";
+var mnemonic = "poverty rally spoil ignore lonely firm abuse hill that enemy sample misery";

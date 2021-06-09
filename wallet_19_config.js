@@ -1,1 +1,1 @@
-var mnemonic = "vehicle dwarf main volume chef dragon nominee shy hat video lady limb";
+var mnemonic = "unknown bean angry diet behave bring evil emerge plug crucial road photo";

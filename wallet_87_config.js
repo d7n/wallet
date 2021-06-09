@@ -1,1 +1,1 @@
-var mnemonic = "end process across canal own guilt slight voice lizard area twin neck";
+var mnemonic = "shine ostrich blush false shadow flee unfair digital opera seed need size";

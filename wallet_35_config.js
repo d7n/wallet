@@ -1,1 +1,1 @@
-var mnemonic = "invest endorse canyon train fuel tilt bundle soda foot cave denial advice";
+var mnemonic = "sell census stamp tired hand chat pupil hotel vacant juice food volcano";

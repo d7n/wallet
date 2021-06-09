@@ -1,1 +1,1 @@
-var mnemonic = "head auto august present exile blame siege leisure climb palace combine ribbon";
+var mnemonic = "dolphin excuse priority sponsor figure image trust hover enable action enrich able";

@@ -1,1 +1,1 @@
-var mnemonic = "record maximum music clarify problem lobster echo because worth guitar royal discover";
+var mnemonic = "brick swing fantasy match usual pill luggage isolate meat borrow pony small";

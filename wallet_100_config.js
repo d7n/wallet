@@ -1,1 +1,1 @@
-var mnemonic = "icon valley metal meadow punch ask smile lizard truly wasp local maple";
+var mnemonic = "fan hobby couple lottery fly actor discover print vital control coach fiction";

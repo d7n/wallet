@@ -1,1 +1,1 @@
-var mnemonic = "girl situate pool nephew history arctic raise awkward kangaroo prepare inch inch";
+var mnemonic = "senior whip addict field fade monkey venture harvest same hill castle fiscal";

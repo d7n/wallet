@@ -1,1 +1,1 @@
-var mnemonic = "december hat era nation cool canal canyon smoke include snow despair pistol";
+var mnemonic = "canvas limit board slice frame couple pottery tongue road law shoulder biology";

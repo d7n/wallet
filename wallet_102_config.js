@@ -1,1 +1,1 @@
-var mnemonic = "dilemma pull setup blue pelican surge legend grid antenna beach whale horror";
+var mnemonic = "long industry wage iron park vivid bind luggage access field fan soon";

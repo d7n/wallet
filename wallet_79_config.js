@@ -1,1 +1,1 @@
-var mnemonic = "sunset slight hybrid pull gym mix stem lottery enough hero news hazard";
+var mnemonic = "runway include scorpion output bitter virtual ecology fish hybrid helmet naive erosion";

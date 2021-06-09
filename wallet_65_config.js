@@ -1,1 +1,1 @@
-var mnemonic = "news symbol trophy earth render dinner obscure fancy industry lamp brain slot";
+var mnemonic = "skull lounge brown inch armed picture moment author topple bless pond robot";

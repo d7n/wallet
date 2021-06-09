@@ -1,1 +1,1 @@
-var mnemonic = "spatial sock ugly panda bid snap have sea labor tower scatter coach";
+var mnemonic = "panda glad aware biology scheme lazy margin bulk stone bring deer copy";

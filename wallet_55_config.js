@@ -1,1 +1,1 @@
-var mnemonic = "chronic again crouch pact outer drift jump abstract correct split orbit poem";
+var mnemonic = "clay scorpion permit odor plug fog limit parade clarify worth exercise deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "find quarter material begin harvest arrest loyal throw fire seminar trigger element";
+var mnemonic = "gap meat maze turkey dignity powder recipe protect menu bonus volume speed";

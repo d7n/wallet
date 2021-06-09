@@ -1,1 +1,1 @@
-var mnemonic = "brain jeans flat party shrug awake shine dose virus always right slam";
+var mnemonic = "nephew circle ordinary lounge phone file blue notice scrap wood pool domain";

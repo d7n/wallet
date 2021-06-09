@@ -1,1 +1,1 @@
-var mnemonic = "goddess shrug ripple upgrade pledge alter volume future casino slight skull tornado";
+var mnemonic = "talent lemon jealous stadium rich strategy sadness save wrong there custom detail";

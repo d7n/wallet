@@ -1,1 +1,1 @@
-var mnemonic = "blue connect chief use fatigue require walk deal game broom symbol whisper";
+var mnemonic = "just east harvest topic wink little barely pass old enlist banner sting";

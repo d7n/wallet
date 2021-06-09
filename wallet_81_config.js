@@ -1,1 +1,1 @@
-var mnemonic = "wolf arm neutral tank you aware web step acid hire outdoor material";
+var mnemonic = "jazz attend local lucky cream blue climb frozen obtain exhibit distance involve";

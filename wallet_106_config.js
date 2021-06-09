@@ -1,1 +1,1 @@
-var mnemonic = "road more unaware cover table insect donor million eight artwork find airport";
+var mnemonic = "paper news face demise increase snake jungle guard amateur ranch yellow broken";

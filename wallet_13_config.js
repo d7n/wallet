@@ -1,1 +1,1 @@
-var mnemonic = "same vocal sausage gorilla tag noodle harsh boy spoon shrimp fun mixture";
+var mnemonic = "hamster amused duck eye snow supreme peanut olive coffee smooth radar fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt shell thing shallow shrug plunge arm finish hole stand sausage put";
+var mnemonic = "caught couch fold detect ensure peanut slogan smart action wish fan under";

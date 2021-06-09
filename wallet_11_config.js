@@ -1,1 +1,1 @@
-var mnemonic = "apology fever stick honey layer assault heavy goat answer vanish icon hour";
+var mnemonic = "allow loop doctor slice modify breeze engine soft impulse praise ridge breeze";

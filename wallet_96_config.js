@@ -1,1 +1,1 @@
-var mnemonic = "wage blood child toss dust reject before north awkward define fit carpet";
+var mnemonic = "grit armed diamond radio immune journey twelve move work actual grab cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean seat bottom exact title beef figure slab sail rude crucial feel";
+var mnemonic = "sudden yard clean urban scan wall mammal city time protect hen season";

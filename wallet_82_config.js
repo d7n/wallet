@@ -1,1 +1,1 @@
-var mnemonic = "million supreme album blush high include eternal stay defy brass eight purse";
+var mnemonic = "liar pigeon paper absurd charge turn detail desk chicken famous blast close";

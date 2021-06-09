@@ -1,1 +1,1 @@
-var mnemonic = "legal okay slight behave decrease blast sword column move brand sheriff borrow";
+var mnemonic = "squeeze novel sponsor inspire sting shove cycle collect gloom collect green method";

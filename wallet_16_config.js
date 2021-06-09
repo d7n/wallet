@@ -1,1 +1,1 @@
-var mnemonic = "strategy loop ball dose salt around inform habit barely drama smoke trap";
+var mnemonic = "knee planet curtain lamp flavor shrug lend manual release shield crew unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "bag battle demise tobacco famous sunset forum include fiction damp bone drink";
+var mnemonic = "evoke zero modify survey domain model anchor ability seven dash process pupil";

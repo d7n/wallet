@@ -1,1 +1,1 @@
-var mnemonic = "spin pyramid twist panic eternal volcano galaxy eight scrub alone force patrol";
+var mnemonic = "ripple warfare reform current slogan trap pulp pumpkin champion garment skin mixed";

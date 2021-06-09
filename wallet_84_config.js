@@ -1,1 +1,1 @@
-var mnemonic = "prosper fresh adult august pencil merry whale online utility size cover refuse";
+var mnemonic = "term lawsuit various attract impose benefit salmon guard word chicken differ zebra";

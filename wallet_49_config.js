@@ -1,1 +1,1 @@
-var mnemonic = "crew kick skirt fitness select shoot reduce bid gauge food secret cotton";
+var mnemonic = "dice denial abstract zebra ice tonight club high tree champion rally armor";

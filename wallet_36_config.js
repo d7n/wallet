@@ -1,1 +1,1 @@
-var mnemonic = "siege foam truth suffer whisper jelly exact perfect age tree glory huge";
+var mnemonic = "pony tilt bulk toward trap pear robust clever state amused month young";

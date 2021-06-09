@@ -1,1 +1,1 @@
-var mnemonic = "cattle rebuild trap route used way pass long elephant moral potato cereal";
+var mnemonic = "galaxy actress ancient jeans caught swim stage category leader gloom hub order";

@@ -1,1 +1,1 @@
-var mnemonic = "palace notice fiction now aunt border chunk glass top use hip crack";
+var mnemonic = "account move celery text friend school supply jacket sport address garage able";

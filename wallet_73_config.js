@@ -1,1 +1,1 @@
-var mnemonic = "few mobile range option soda mesh bag must random scrub upgrade renew";
+var mnemonic = "danger place add jungle pluck trip lyrics ensure dilemma undo fun night";

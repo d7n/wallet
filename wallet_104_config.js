@@ -1,1 +1,1 @@
-var mnemonic = "change stomach tomato wisdom midnight swallow patch crucial swear kitten future worry";
+var mnemonic = "own early pact open until ramp portion maid grant blast labor melt";

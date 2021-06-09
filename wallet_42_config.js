@@ -1,1 +1,1 @@
-var mnemonic = "focus word debate nurse kitchen day praise arrange excess divert nut people";
+var mnemonic = "broken viable neck lake forward ride side galaxy mass author smooth bottom";

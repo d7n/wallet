@@ -1,1 +1,1 @@
-var mnemonic = "night exchange awake parrot action word push two hair forest figure moon";
+var mnemonic = "charge trip air ocean trim patient shy wool either now confirm make";

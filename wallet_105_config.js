@@ -1,1 +1,1 @@
-var mnemonic = "father town wink apology dinner elbow clutch pepper topple reason thank rack";
+var mnemonic = "kit topic visual cram spoil genuine easy matter service eight strike finger";

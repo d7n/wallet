@@ -1,1 +1,1 @@
-var mnemonic = "ancient husband loud catalog follow frog impulse slide never tonight bottom tourist";
+var mnemonic = "energy plate canal track spend staff only eight just impulse tuna twenty";

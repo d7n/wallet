@@ -1,1 +1,1 @@
-var mnemonic = "movie term fat machine machine liberty sort almost achieve offer bundle road";
+var mnemonic = "memory have slim organ refuse gospel clock exclude online choice jacket reflect";

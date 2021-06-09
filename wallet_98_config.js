@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit section path hub fork section crumble limb local pretty vacuum middle";
+var mnemonic = "scrap wisdom connect elder damp since slot gate odor brush rail useless";

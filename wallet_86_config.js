@@ -1,1 +1,1 @@
-var mnemonic = "join naive pretty since menu stove chef detect crash view right congress";
+var mnemonic = "daughter boil indicate phone sphere tent loyal scare giraffe domain upset spell";

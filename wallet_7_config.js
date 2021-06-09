@@ -1,1 +1,1 @@
-var mnemonic = "coconut local buyer crumble zone crane metal fury where you holiday volcano";
+var mnemonic = "slush monster leg news jelly flip strategy actor wisdom boost cargo lion";

@@ -1,1 +1,1 @@
-var mnemonic = "myself must mechanic wing deer post market media monkey denial hollow cute";
+var mnemonic = "quick absurd merge between utility circle become surface modify tiger sketch twenty";

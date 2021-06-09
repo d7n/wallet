@@ -1,1 +1,1 @@
-var mnemonic = "lunch stamp way become thank carbon grow lesson ceiling tail october snake";
+var mnemonic = "toast divide stand cake want card coast clump ill farm update route";

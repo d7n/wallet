@@ -1,1 +1,1 @@
-var mnemonic = "exhibit nominee banner lumber horn sense imitate pitch enact dose base marine";
+var mnemonic = "mixture resemble prosper spell rug material poet inside deliver roast gadget fame";

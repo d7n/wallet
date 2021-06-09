@@ -1,1 +1,1 @@
-var mnemonic = "mixture melody vehicle window industry layer night another logic danger permit topple";
+var mnemonic = "one offer daughter shock trend frequent result certain follow brief execute pass";

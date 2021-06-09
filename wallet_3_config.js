@@ -1,1 +1,1 @@
-var mnemonic = "chest unfold nut drift author total health scatter swear renew relax loud";
+var mnemonic = "hotel popular sing census employ assist ginger sample naive fancy patient issue";

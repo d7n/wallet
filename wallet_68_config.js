@@ -1,1 +1,1 @@
-var mnemonic = "fossil gas river entry mass embark screen dune wine profit record lecture";
+var mnemonic = "urban glide warfare legal material lumber grape trip shoulder style exact news";

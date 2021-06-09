@@ -1,1 +1,1 @@
-var mnemonic = "detect conduct digital opera raise seven eight mixed impact foot abuse vendor";
+var mnemonic = "october salt now cause arrow flavor perfect cheap police hawk rapid search";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor grab impose twice impact fit behind average mix south crowd donate";
+var mnemonic = "dumb festival husband height torch history armed scan ecology math lake cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude health lonely tourist wall scatter direct erosion tool drop wolf fat";
+var mnemonic = "fancy dad play minor viable dad swing burger virus virtual ready cause";

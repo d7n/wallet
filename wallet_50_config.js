@@ -1,1 +1,1 @@
-var mnemonic = "split much polar panda question cabin video ask myself diagram consider virus";
+var mnemonic = "clog innocent present bicycle ensure ring pyramid age noodle slogan possible convince";

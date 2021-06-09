@@ -1,1 +1,1 @@
-var mnemonic = "cake produce visit dice vote rebel fix gun brother neglect agree huge";
+var mnemonic = "funny enjoy caught frog hazard ketchup perfect wasp tackle economy glow finger";

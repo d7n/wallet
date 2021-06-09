@@ -1,1 +1,1 @@
-var mnemonic = "vintage enhance warfare snap soul coast ahead bone shrimp hint light orient";
+var mnemonic = "cash supply then giggle tuition salute luggage goddess amateur trick nominee winter";

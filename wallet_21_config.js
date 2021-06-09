@@ -1,1 +1,1 @@
-var mnemonic = "impulse audit drip output upgrade loan expect around pool squirrel sport occur";
+var mnemonic = "wealth cool mimic junior second alien rice patrol column wrong neutral draft";

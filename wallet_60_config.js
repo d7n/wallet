@@ -1,1 +1,1 @@
-var mnemonic = "situate host issue spread tired cactus puzzle cabin measure turn three emerge";
+var mnemonic = "maid brass blame arrive puzzle enable bridge famous bunker interest gloom rug";

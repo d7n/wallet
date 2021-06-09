@@ -1,1 +1,1 @@
-var mnemonic = "boil among already electric magnet cat suspect envelope learn crime detail slogan";
+var mnemonic = "junior nuclear inquiry runway song route good frown alien result shaft bundle";

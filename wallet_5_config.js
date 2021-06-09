@@ -1,1 +1,1 @@
-var mnemonic = "pull gasp blade cart sick peace season speak blade piece offer twist";
+var mnemonic = "capital slide travel walk inspire language gorilla chimney submit wish float size";

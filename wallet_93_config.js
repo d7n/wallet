@@ -1,1 +1,1 @@
-var mnemonic = "large useless method cry obey clown essay final weather promote soap impulse";
+var mnemonic = "search laugh erode west certain hazard junior theme exist school swallow letter";

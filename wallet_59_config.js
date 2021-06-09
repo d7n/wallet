@@ -1,1 +1,1 @@
-var mnemonic = "enable win embrace roast actor theory cook chunk earn such couple net";
+var mnemonic = "once attract artefact denial snake cigar upper remind trust wrong pink earth";

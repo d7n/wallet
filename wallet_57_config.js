@@ -1,1 +1,1 @@
-var mnemonic = "smooth grid zoo profit cross life hundred donor detect reject appear guitar";
+var mnemonic = "away income can salon sauce vehicle enough sentence violin liberty number drink";

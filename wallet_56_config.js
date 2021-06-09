@@ -1,1 +1,1 @@
-var mnemonic = "glare birth aisle typical chase farm scare mammal tree initial ring flush";
+var mnemonic = "sail maple shoe moon deputy midnight flash useless fatal fitness gold minimum";

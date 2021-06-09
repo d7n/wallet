@@ -1,1 +1,1 @@
-var mnemonic = "casino early usual erase tube siege deputy taxi seed second egg gym";
+var mnemonic = "upset mistake lucky delay deal right regret suffer dawn song split until";

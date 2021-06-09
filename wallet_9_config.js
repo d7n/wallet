@@ -1,1 +1,1 @@
-var mnemonic = "symbol obvious purity casual wagon swim pencil hobby top broken reward slogan";
+var mnemonic = "enemy couch coach lawn they pass give vicious broom inner voyage orchard";

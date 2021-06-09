@@ -1,1 +1,1 @@
-var mnemonic = "finger carpet silk hamster black undo admit dignity lamp turn drop flash";
+var mnemonic = "glow range stock write often merit small mad match decline walk carry";

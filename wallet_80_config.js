@@ -1,1 +1,1 @@
-var mnemonic = "ask copy shop belt play insane gaze faculty solid annual indoor swarm";
+var mnemonic = "puzzle episode spare various rough crime parent meadow nature over unfold pink";

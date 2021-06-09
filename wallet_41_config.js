@@ -1,1 +1,1 @@
-var mnemonic = "panther float chest kind maximum glance drop island orbit trip ketchup agent";
+var mnemonic = "west exclude verify parrot they unique warrior eight title donate february extra";

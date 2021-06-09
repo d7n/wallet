@@ -1,1 +1,1 @@
-var mnemonic = "cereal host inform rather erase front smoke search admit essence glove kit";
+var mnemonic = "shrug opera bid blood fluid abstract strategy aim wrap mask interest wasp";

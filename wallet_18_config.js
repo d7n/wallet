@@ -1,1 +1,1 @@
-var mnemonic = "sting firm chat truly afford stereo check behave rate capital shadow blouse";
+var mnemonic = "version order humble unable speed machine laptop coconut unknown fragile olympic prepare";

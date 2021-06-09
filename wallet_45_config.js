@@ -1,1 +1,1 @@
-var mnemonic = "saddle female urge knock perfect effort rose promote elbow common slide afraid";
+var mnemonic = "spawn humble blast draft cherry junior response hour riot afraid employ jelly";

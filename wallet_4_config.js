@@ -1,1 +1,1 @@
-var mnemonic = "album uncle timber monster diagram inhale pilot merry approve bonus such roast";
+var mnemonic = "word stock repair episode orient list chuckle deposit match junior sauce seek";

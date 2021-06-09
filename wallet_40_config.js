@@ -1,1 +1,1 @@
-var mnemonic = "olive dad melt payment concert river enact sample midnight run nature proof";
+var mnemonic = "stamp lobster matter busy alone when choice walnut treat crater lens flower";

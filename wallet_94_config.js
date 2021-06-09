@@ -1,1 +1,1 @@
-var mnemonic = "toss sick wrap pole sock weapon winner include occur direct fox inflict";
+var mnemonic = "blush wasp approve follow water decade survey major artwork fold imitate actual";

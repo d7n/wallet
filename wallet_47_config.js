@@ -1,1 +1,1 @@
-var mnemonic = "army mixture truly harbor romance cart bar clip nature permit repeat faint";
+var mnemonic = "common simple tooth metal saddle volume what extra pencil regular gospel plug";

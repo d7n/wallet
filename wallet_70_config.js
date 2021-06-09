@@ -1,1 +1,1 @@
-var mnemonic = "engine jump regret elegant elite bracket drill script float weasel run law";
+var mnemonic = "math claw phrase impulse exact cover state throw predict stem lyrics pill";

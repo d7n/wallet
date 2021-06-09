@@ -1,1 +1,1 @@
-var mnemonic = "barrel pet excuse immune piece garlic bring foil wrong action conduct coffee";
+var mnemonic = "result struggle denial patrol novel permit shallow supply short squirrel estate jacket";

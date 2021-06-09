@@ -1,1 +1,1 @@
-var mnemonic = "live vehicle keep brave solve divorce mean transfer weapon disorder luggage toss";
+var mnemonic = "vapor field obvious time peace quit venue reform donkey remain dynamic auto";

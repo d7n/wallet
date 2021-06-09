@@ -1,1 +1,1 @@
-var mnemonic = "title this slogan suggest violin feature small mystery ordinary proud knock tomorrow";
+var mnemonic = "alien gate globe average nominee decade cute element ostrich struggle unknown rate";

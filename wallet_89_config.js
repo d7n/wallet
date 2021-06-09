@@ -1,1 +1,1 @@
-var mnemonic = "echo fashion seven tourist vicious invite frost man core common settle price";
+var mnemonic = "bleak upset craft worry canvas input measure coach concert scheme night stock";

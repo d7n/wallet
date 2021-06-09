@@ -1,1 +1,1 @@
-var mnemonic = "outside blanket lady wrong prosper obtain bus curtain large index brother antique";
+var mnemonic = "wealth cry unusual degree virtual mutual digital loud wet funny winter indoor";

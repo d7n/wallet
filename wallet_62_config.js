@@ -1,1 +1,1 @@
-var mnemonic = "oyster kick beyond situate spy pelican grass sustain receive weapon ugly fortune";
+var mnemonic = "canal token wood brown puppy process memory milk flag auction misery push";

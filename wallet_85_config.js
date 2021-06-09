@@ -1,1 +1,1 @@
-var mnemonic = "equip method bounce foot coyote bubble parent cigar fiscal sentence kitchen physical";
+var mnemonic = "recipe erupt frog waste imitate stool snap stool gorilla holiday certain grocery";
