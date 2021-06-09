@@ -1,1 +1,1 @@
-var mnemonic = "elephant sponsor much life matrix chase barrel west nest wise pact dutch";
+var mnemonic = "tag total digital donkey frown present please pipe sure lady double mystery";

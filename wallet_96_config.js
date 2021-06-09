@@ -1,1 +1,1 @@
-var mnemonic = "muffin add similar rain vendor hill distance neutral this know immense camera";
+var mnemonic = "pony uncle cage include aisle dial breeze tree bounce assault situate attract";

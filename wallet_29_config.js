@@ -1,1 +1,1 @@
-var mnemonic = "ugly puppy heart lemon cart file burger potato already connect wall salon";
+var mnemonic = "brown grace width dentist brisk carry good emotion roof dolphin gaze catch";

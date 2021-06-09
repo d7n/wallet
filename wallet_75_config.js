@@ -1,1 +1,1 @@
-var mnemonic = "unusual lazy claim miss final april upon news distance excess glory fun";
+var mnemonic = "boost attend assault check source pluck account vehicle process inspire burden lamp";

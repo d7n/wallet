@@ -1,1 +1,1 @@
-var mnemonic = "wedding critic school pulse phone salute kite pact unique shed armor surface";
+var mnemonic = "dwarf later dilemma wash impact clutch athlete card club little hollow push";

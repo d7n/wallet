@@ -1,1 +1,1 @@
-var mnemonic = "salute ball depth gauge public surge lonely still frown goat tower door";
+var mnemonic = "valve swap sort sing engage eyebrow hurry release tumble phone wink legend";

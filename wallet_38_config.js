@@ -1,1 +1,1 @@
-var mnemonic = "network skate usual disease nation observe regular save aisle taste million donate";
+var mnemonic = "stage absurd wheel image illegal ecology come sick confirm dwarf opinion cargo";

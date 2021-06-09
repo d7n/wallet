@@ -1,1 +1,1 @@
-var mnemonic = "property tail vacuum minor space float disagree police follow refuse field glove";
+var mnemonic = "spoil wrap anxiety runway kind dynamic ensure surround manage joke zone put";

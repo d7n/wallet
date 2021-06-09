@@ -1,1 +1,1 @@
-var mnemonic = "sound goat neck gentle goddess settle field waste cactus govern twelve mad";
+var mnemonic = "range memory rapid human toe bulb secret traffic book supply hurt very";

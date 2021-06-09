@@ -1,1 +1,1 @@
-var mnemonic = "age choose dumb fun term phone great click check boost aunt bomb";
+var mnemonic = "orange skull rubber dinosaur lizard cross window possible alter kitchen material wealth";

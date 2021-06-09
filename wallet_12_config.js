@@ -1,1 +1,1 @@
-var mnemonic = "slogan choose liberty endless blossom mule age again major staff blade enforce";
+var mnemonic = "miracle sleep box fetch witness eyebrow reveal subject hammer sausage buyer tackle";

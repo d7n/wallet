@@ -1,1 +1,1 @@
-var mnemonic = "skin penalty kitchen flame deputy fabric street borrow forward unusual stay emerge";
+var mnemonic = "hold royal either rose unaware curve sphere brief nominee broom fruit good";

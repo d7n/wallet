@@ -1,1 +1,1 @@
-var mnemonic = "pact hospital aunt athlete reason pupil feed inquiry furnace wage liberty original";
+var mnemonic = "spatial train risk modify adapt mushroom sea lunar rubber flag rally resource";

@@ -1,1 +1,1 @@
-var mnemonic = "edge profit impact mean mosquito city hat scout unlock drastic carry punch";
+var mnemonic = "ketchup chat task rule grace soft curtain riot sugar olympic balcony place";

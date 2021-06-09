@@ -1,1 +1,1 @@
-var mnemonic = "rose road adjust senior pond immense rent wide juice dance baby virtual";
+var mnemonic = "december choice bone famous recall guide measure quote canal staff vivid harsh";

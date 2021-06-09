@@ -1,1 +1,1 @@
-var mnemonic = "pass intact airport bitter favorite category ankle face helmet secret blood army";
+var mnemonic = "sleep awake domain huge equip kite fire frame barely peanut senior gossip";

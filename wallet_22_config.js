@@ -1,1 +1,1 @@
-var mnemonic = "whale awkward follow allow aware kangaroo cotton crouch bicycle what tribe prosper";
+var mnemonic = "gasp hurry rebel gather glide first owner script soon stem vault height";

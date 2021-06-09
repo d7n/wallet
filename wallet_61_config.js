@@ -1,1 +1,1 @@
-var mnemonic = "cube hockey mystery orient width latin twist repeat valley joke obtain include";
+var mnemonic = "cattle survey dish entire inflict recipe tissue coast unlock furnace aerobic advice";

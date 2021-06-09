@@ -1,1 +1,1 @@
-var mnemonic = "drastic nerve obtain frog daughter cement crouch pave acid cat ostrich build";
+var mnemonic = "below sea chief shrimp copper sense immune lawn maple cry cushion solid";

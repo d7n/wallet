@@ -1,1 +1,1 @@
-var mnemonic = "poverty fish spy razor couch craft shift lottery pitch caught rain alarm";
+var mnemonic = "empty cupboard remember creek raven castle outside vehicle useless never office electric";

@@ -1,1 +1,1 @@
-var mnemonic = "boss mass unique river mother retire mad hobby apology hold left net";
+var mnemonic = "coral old cushion more federal recycle unit dish develop ball image betray";

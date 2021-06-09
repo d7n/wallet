@@ -1,1 +1,1 @@
-var mnemonic = "atom behave physical hat zero profit mad analyst portion run favorite kangaroo";
+var mnemonic = "only suspect rubber student olive find feed vapor axis magic claw gain";

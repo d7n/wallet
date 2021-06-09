@@ -1,1 +1,1 @@
-var mnemonic = "leave dial share guard trade history identify assault derive south company legend";
+var mnemonic = "diet goddess develop certain pole catch element stock decline pole patch code";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt duck tragic consider reduce unfold teach final student inch vital pen";
+var mnemonic = "receive cement letter nurse stem frost range way angry faint donkey hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply eager museum insane kangaroo photo paddle address certain critic great lobster";
+var mnemonic = "trophy dinner lift gym index whisper sound all uncover bean behind digital";

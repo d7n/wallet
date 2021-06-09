@@ -1,1 +1,1 @@
-var mnemonic = "smooth almost fiction purpose brush palace dwarf swift hedgehog mixed amused invest";
+var mnemonic = "only leave second bomb debris govern maximum leopard stem tomato good obtain";

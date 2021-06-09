@@ -1,1 +1,1 @@
-var mnemonic = "broom badge syrup wage report shoe blanket hurt write moment run sibling";
+var mnemonic = "fine hold brown rebel winter actor history minute fresh grunt vocal picture";

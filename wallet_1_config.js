@@ -1,1 +1,1 @@
-var mnemonic = "brother chunk accuse boil inflict olive close crack later network flower disease";
+var mnemonic = "mule unknown april wool cricket screen order tilt aim screen tone venue";

@@ -1,1 +1,1 @@
-var mnemonic = "soft high access timber fun tonight join rebuild edge high lift cable";
+var mnemonic = "bullet craft cradle upper expect thumb three detect slab immense deny great";

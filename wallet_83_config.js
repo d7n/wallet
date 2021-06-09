@@ -1,1 +1,1 @@
-var mnemonic = "pipe plunge since canyon toe funny alcohol grow life equip loyal reveal";
+var mnemonic = "shop verify denial wealth keen harsh simple donate gesture cloud around surface";

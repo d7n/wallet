@@ -1,1 +1,1 @@
-var mnemonic = "mixture ocean mass virus lens interest wisdom report fashion escape present innocent";
+var mnemonic = "social refuse canvas wisdom crunch miss cotton absurd mind major raw mail";

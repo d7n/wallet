@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon olympic hammer will frost secret diesel excite switch caution hotel foil";
+var mnemonic = "gasp napkin minimum bracket jacket drum traffic rib chase oblige setup solid";

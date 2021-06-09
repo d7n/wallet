@@ -1,1 +1,1 @@
-var mnemonic = "senior tobacco shy conduct alert answer skill art robust park twist float";
+var mnemonic = "resist fetch busy stone similar bonus attack work lucky brush royal fat";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence answer diamond book abuse diagram midnight wasp year hobby scatter demise";
+var mnemonic = "believe glad extra gesture alarm analyst normal sun regular lottery couple sleep";

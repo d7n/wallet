@@ -1,1 +1,1 @@
-var mnemonic = "rural love explain neglect student one increase save text daughter immune frame";
+var mnemonic = "produce order try wait orchard eye dial magic picture palace drip hazard";

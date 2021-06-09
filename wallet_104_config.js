@@ -1,1 +1,1 @@
-var mnemonic = "recall error universe weird lamp music leisure fury wrist address arrest ozone";
+var mnemonic = "grief chaos warm increase acoustic mechanic walk uniform return twin roast obtain";

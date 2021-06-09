@@ -1,1 +1,1 @@
-var mnemonic = "crawl wire milk prosper update detect argue typical furnace antique tone steel";
+var mnemonic = "over hole plunge age cover donate amazing wheat market artwork defense flush";

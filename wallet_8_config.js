@@ -1,1 +1,1 @@
-var mnemonic = "guard walnut surround certain slim guard reform awesome surprise walk ignore zone";
+var mnemonic = "patient frozen major grocery impact claim host speed focus chronic bamboo moral";

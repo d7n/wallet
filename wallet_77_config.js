@@ -1,1 +1,1 @@
-var mnemonic = "raw unfold velvet answer garlic patient word purchase yard limb over father";
+var mnemonic = "trumpet before undo kidney helmet exchange embark buddy drastic journey donate crucial";

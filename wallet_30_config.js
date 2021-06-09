@@ -1,1 +1,1 @@
-var mnemonic = "copper simple prevent off alcohol simple any vacuum injury junior boy weekend";
+var mnemonic = "invite resource boil shy grace course garden donkey interest lecture napkin unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "portion flight salt public hospital yard mobile little run few afraid large";
+var mnemonic = "material street robust tourist session fold humor clinic kangaroo orient ordinary soldier";

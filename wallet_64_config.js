@@ -1,1 +1,1 @@
-var mnemonic = "rain digital south crawl imitate dune crisp hour fit flower steak culture";
+var mnemonic = "swift swap second all tag hope enlist maple shoot weird cause sauce";

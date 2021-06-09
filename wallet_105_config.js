@@ -1,1 +1,1 @@
-var mnemonic = "decline predict appear excite tray guard hip aerobic melt check bottom loan";
+var mnemonic = "rich flavor giant antique traffic craft silk liar oval borrow curve blossom";

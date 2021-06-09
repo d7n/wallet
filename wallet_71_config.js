@@ -1,1 +1,1 @@
-var mnemonic = "grid fence glimpse work item mutual weather add mad riot spot together";
+var mnemonic = "switch cushion wash sad unit kind exit calm museum maid catch catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate apology rain intact trend paddle finish learn sock picnic glue square";
+var mnemonic = "candy level section notable rough inner wood surge shift boy cricket ethics";

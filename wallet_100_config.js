@@ -1,1 +1,1 @@
-var mnemonic = "walk blouse problem mother race comfort sun spoon insect resist ice casual";
+var mnemonic = "hunt artefact pattern spare caught hire vague chimney wrist eight birth symbol";

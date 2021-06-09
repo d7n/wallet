@@ -1,1 +1,1 @@
-var mnemonic = "dress alarm judge fat tube library isolate duty couch choose vacant stomach";
+var mnemonic = "museum plug trigger guide step upset artist wood labor trick hero then";

@@ -1,1 +1,1 @@
-var mnemonic = "calm goat squirrel company network jeans oppose congress sick pulse fever sing";
+var mnemonic = "blame alone upper doctor cactus concert cream neglect couch spawn pulp start";

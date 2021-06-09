@@ -1,1 +1,1 @@
-var mnemonic = "shrug pretty goddess hidden display canvas innocent engage step margin estate tackle";
+var mnemonic = "ten blame midnight talk alarm used ritual puzzle attend story vault void";

@@ -1,1 +1,1 @@
-var mnemonic = "gather reflect fox holiday donate slot aware scrap entire detail bench comic";
+var mnemonic = "spot pilot domain bubble pledge flush camera firm blame corn plate cross";

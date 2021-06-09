@@ -1,1 +1,1 @@
-var mnemonic = "teach exact day bundle real fever rifle pause loan camp disagree reopen";
+var mnemonic = "suit fade lake work six often scene august sudden also inside volcano";

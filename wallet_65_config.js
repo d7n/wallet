@@ -1,1 +1,1 @@
-var mnemonic = "unable right idle actual dignity harsh core remember bench wide hand canal";
+var mnemonic = "memory glance educate rail over useful stool donkey sniff radar talent rifle";

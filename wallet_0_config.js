@@ -1,1 +1,1 @@
-var mnemonic = "aunt add shoe oil engage amateur dinner cycle easy open prefer exit";
+var mnemonic = "adult wish leader motion bring elbow middle tone balance foil museum space";

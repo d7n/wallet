@@ -1,1 +1,1 @@
-var mnemonic = "okay captain soldier world bench pulp eagle page clever soft satoshi million";
+var mnemonic = "fold library fame position shoulder gorilla raven they flower smooth endless shine";

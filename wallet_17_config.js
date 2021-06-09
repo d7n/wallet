@@ -1,1 +1,1 @@
-var mnemonic = "wage aim napkin screen neck sudden subject exit chalk citizen miracle know";
+var mnemonic = "cute eight culture garbage warfare jar elbow loan tourist harvest dwarf hundred";

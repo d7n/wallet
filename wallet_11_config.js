@@ -1,1 +1,1 @@
-var mnemonic = "discover magic inside ladder unique decrease brisk siren always various aisle split";
+var mnemonic = "educate rally ask muscle mistake tourist frozen symbol split jump video tent";

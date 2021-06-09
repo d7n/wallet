@@ -1,1 +1,1 @@
-var mnemonic = "giggle box toilet palace curtain bus hamster bind begin night dice club";
+var mnemonic = "noble twice original detect alley alert rate false cook harvest sibling scrub";

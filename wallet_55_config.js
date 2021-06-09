@@ -1,1 +1,1 @@
-var mnemonic = "wedding rich biology still lava diary maximum kiss crunch gossip floor sheriff";
+var mnemonic = "describe bike palace boring logic wall shrug labor prison since toy memory";

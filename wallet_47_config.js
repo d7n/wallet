@@ -1,1 +1,1 @@
-var mnemonic = "hollow educate feel puzzle seat insect chief tube jelly assault outer alter";
+var mnemonic = "decide whisper merry hotel sheriff share rare claim fish hope hospital address";

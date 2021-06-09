@@ -1,1 +1,1 @@
-var mnemonic = "employ love edge lake radio embrace sad maple disease wire silent habit";
+var mnemonic = "grid hidden hold custom all hint sponsor athlete quote style sample hybrid";

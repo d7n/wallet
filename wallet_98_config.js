@@ -1,1 +1,1 @@
-var mnemonic = "survey mechanic erode merry flower begin diamond spend canyon major wire feature";
+var mnemonic = "tell correct begin frost possible orbit produce only bottom vapor produce fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "famous stool grief cannon piece upon pave build lemon toward cruel immense";
+var mnemonic = "kangaroo lazy alter meadow senior absent bread fiscal crush cable attitude relief";

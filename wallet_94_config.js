@@ -1,1 +1,1 @@
-var mnemonic = "inflict merry mind ostrich budget soap dog idea tail basket wood frost";
+var mnemonic = "supply virus syrup nature rose increase argue search switch anger use usual";

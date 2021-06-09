@@ -1,1 +1,1 @@
-var mnemonic = "lift harvest canvas roast crumble punch provide finger bunker mesh kangaroo danger";
+var mnemonic = "inherit fury adult net inform finger large garlic grow large embark mouse";

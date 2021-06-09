@@ -1,1 +1,1 @@
-var mnemonic = "history ketchup client gentle cheese they pencil army vintage news cube elbow";
+var mnemonic = "creek obey abstract exotic pelican face nature universe nephew aim random bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "addict crush fatigue kiss ill noise early meadow clever pig hip execute";
+var mnemonic = "meadow ozone secret discover snap barrel exit boss reform tiger vehicle turn";

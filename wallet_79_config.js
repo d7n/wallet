@@ -1,1 +1,1 @@
-var mnemonic = "feed pig cabin clock chunk possible river twist cheap sugar subway math";
+var mnemonic = "blush safe wreck define finish crazy venue oxygen boat gadget fuel lounge";

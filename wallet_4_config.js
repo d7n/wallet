@@ -1,1 +1,1 @@
-var mnemonic = "aspect control wealth one achieve point equip case evil version crunch display";
+var mnemonic = "height crack spin earn page midnight auction food avocado judge pigeon flock";

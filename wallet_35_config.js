@@ -1,1 +1,1 @@
-var mnemonic = "easy picnic smile visa lion trip spice punch sick text ahead pull";
+var mnemonic = "skull nose trick ghost message explain festival faith library fence mean opera";

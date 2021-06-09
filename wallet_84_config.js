@@ -1,1 +1,1 @@
-var mnemonic = "weekend taxi diagram order drip air oyster quantum drive describe theme hurry";
+var mnemonic = "spin now pottery mutual daring legend ancient orbit rely figure chuckle host";

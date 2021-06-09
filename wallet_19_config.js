@@ -1,1 +1,1 @@
-var mnemonic = "corn meat sheriff camp vote conduct ivory unusual note advance myth section";
+var mnemonic = "fun flip buffalo tuition sheriff main salute net clay pass wood midnight";

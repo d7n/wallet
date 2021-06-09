@@ -1,1 +1,1 @@
-var mnemonic = "curtain knife unusual thank system genius snap just provide goddess amused warm";
+var mnemonic = "loop interest tide panel husband celery power mind language desk change output";

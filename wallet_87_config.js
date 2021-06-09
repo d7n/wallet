@@ -1,1 +1,1 @@
-var mnemonic = "disease spice warfare velvet finger busy sand luggage orphan buzz disease enforce";
+var mnemonic = "orbit rent cream leader electric symbol rare scorpion sad magic squirrel jazz";

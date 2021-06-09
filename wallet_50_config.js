@@ -1,1 +1,1 @@
-var mnemonic = "fresh twelve moment solution advice hedgehog soon carpet produce fancy abuse tuition";
+var mnemonic = "grocery enough must pen before sign simple motion degree deal alone provide";

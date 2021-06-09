@@ -1,1 +1,1 @@
-var mnemonic = "peace table obey fall brave file define runway coast comfort office stamp";
+var mnemonic = "history submit awesome power inmate announce crash crane dune fold alarm input";

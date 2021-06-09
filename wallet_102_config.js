@@ -1,1 +1,1 @@
-var mnemonic = "scatter amused resist sure echo jelly drill remain avoid since spy cattle";
+var mnemonic = "admit ostrich panel february vanish retire boss aware health pact shift pause";

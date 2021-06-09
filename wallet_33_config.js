@@ -1,1 +1,1 @@
-var mnemonic = "siren twice inner replace tennis violin soul clerk must light drama bottom";
+var mnemonic = "special skirt beauty tiger enact undo pig energy check category measure motion";

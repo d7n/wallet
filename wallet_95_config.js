@@ -1,1 +1,1 @@
-var mnemonic = "solve cliff inform woman dish choice setup silk entry oyster mango reflect";
+var mnemonic = "airport marriage seven used sniff hockey joke visual curve color perfect century";

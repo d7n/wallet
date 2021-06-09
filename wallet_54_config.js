@@ -1,1 +1,1 @@
-var mnemonic = "disease kit busy cute under enrich absorb acid amazing fluid jump typical";
+var mnemonic = "enter away change abandon debate napkin adjust broom ketchup tuna whip crater";

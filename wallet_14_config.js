@@ -1,1 +1,1 @@
-var mnemonic = "broom hat silver surprise frown bargain portion april print this panda horn";
+var mnemonic = "middle theory shell vote nose country surprise stable night price destroy clay";

@@ -1,1 +1,1 @@
-var mnemonic = "voice dish gossip object empower upper tissue angle turtle pact trick horror";
+var mnemonic = "current tell admit occur device smoke property room grape express concert skirt";

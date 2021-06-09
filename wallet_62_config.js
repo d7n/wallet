@@ -1,1 +1,1 @@
-var mnemonic = "december essay extra true feature pride fabric hat describe quit uncover oak";
+var mnemonic = "exist night faith coral home nurse diesel scale try sport speak combine";

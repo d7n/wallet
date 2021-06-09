@@ -1,1 +1,1 @@
-var mnemonic = "recipe camp leopard jar mass file clip rude fetch welcome screen type";
+var mnemonic = "basket gadget skin panel silk mandate modify mimic museum ask mention reduce";

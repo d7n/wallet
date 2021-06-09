@@ -1,1 +1,1 @@
-var mnemonic = "rural title daughter drip tortoise flip topple hurt robust frown shaft shed";
+var mnemonic = "plate usage resource shoe empower like antenna beef gate remind ten bench";
