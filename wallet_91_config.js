@@ -1,1 +1,1 @@
-var mnemonic = "seminar village address evoke hour saddle soccer range quit behave apple indicate";
+var mnemonic = "circle tourist potato also uniform forward peanut chunk dash ugly come lesson";

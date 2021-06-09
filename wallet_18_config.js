@@ -1,1 +1,1 @@
-var mnemonic = "across speak taste someone olympic bless stool protect globe six arm swift";
+var mnemonic = "another napkin ocean mule waste confirm scorpion autumn fragile oppose borrow reflect";

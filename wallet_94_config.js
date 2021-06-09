@@ -1,1 +1,1 @@
-var mnemonic = "plastic earth soft sausage erode snack group length tissue unfair biology myth";
+var mnemonic = "consider pottery cradle proud vehicle spice plunge depth rally perfect ladder shadow";

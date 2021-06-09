@@ -1,1 +1,1 @@
-var mnemonic = "vocal decide couple clap purchase argue entire champion valid harbor mushroom practice";
+var mnemonic = "knife purpose impose boy verb attitude luggage scrap pill network moment matrix";

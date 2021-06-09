@@ -1,1 +1,1 @@
-var mnemonic = "sell used fix glow tip unhappy improve sand memory scale dolphin grief";
+var mnemonic = "soda illness hat spoon arm quarter inside hundred blue autumn element feature";

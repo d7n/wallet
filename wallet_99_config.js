@@ -1,1 +1,1 @@
-var mnemonic = "tiger rubber worth pond wheel sock gate endless stairs steak bid portion";
+var mnemonic = "absent camp program neutral knee naive toy hire vacuum beach famous tobacco";

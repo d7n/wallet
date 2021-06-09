@@ -1,1 +1,1 @@
-var mnemonic = "victory unfold reward child holiday cause test decrease obvious juice suggest obtain";
+var mnemonic = "swap chase later section solve doll where try walk calm team woman";

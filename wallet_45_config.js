@@ -1,1 +1,1 @@
-var mnemonic = "reveal ghost father lawn minimum merge century confirm curious drift leg sound";
+var mnemonic = "unusual wire creek dice soft giggle interest ranch rose toilet point range";

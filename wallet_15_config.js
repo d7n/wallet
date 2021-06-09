@@ -1,1 +1,1 @@
-var mnemonic = "wood ranch close country debris peace tumble youth victory black note agent";
+var mnemonic = "path motor method royal crime around bag leader south gap absurd sound";

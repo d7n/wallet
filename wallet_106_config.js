@@ -1,1 +1,1 @@
-var mnemonic = "please frog sea universe desert isolate kiwi record phrase east final royal";
+var mnemonic = "green neither throw forward century pizza cart dice anger cute grant trial";

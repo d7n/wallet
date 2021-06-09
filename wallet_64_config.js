@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur crawl trouble rocket tooth mutual all crunch appear sorry okay version";
+var mnemonic = "bar aunt hat bus kiss spatial door wonder isolate light volume old";

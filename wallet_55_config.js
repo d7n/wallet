@@ -1,1 +1,1 @@
-var mnemonic = "draw clean skate often crisp reason industry guide secret weird trial youth";
+var mnemonic = "true crop wheat rebel rather peasant text person injury pole mimic pig";

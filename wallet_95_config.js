@@ -1,1 +1,1 @@
-var mnemonic = "crucial knee solve legal room effort virus glory earn obscure dumb spoil";
+var mnemonic = "riot disease car pole vocal middle near appear snow stage expose rubber";

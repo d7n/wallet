@@ -1,1 +1,1 @@
-var mnemonic = "vintage during regular usual caution route roast together gym size input security";
+var mnemonic = "proof science champion rule margin title region thing escape program flip version";

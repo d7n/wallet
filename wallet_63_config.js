@@ -1,1 +1,1 @@
-var mnemonic = "health jealous child habit ghost chalk layer all photo blade response room";
+var mnemonic = "party use need artwork define suit trust smart awesome trim shrug prepare";

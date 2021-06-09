@@ -1,1 +1,1 @@
-var mnemonic = "deputy name verb grid cluster curious reveal cereal solid define critic found";
+var mnemonic = "flock ice sail dune human romance bird wrestle ask lake focus slim";

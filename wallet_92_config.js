@@ -1,1 +1,1 @@
-var mnemonic = "cry upset attend solution lock spirit fury narrow winner rare world private";
+var mnemonic = "lazy iron exact legal trim phone leisure rhythm visa spider stereo kite";

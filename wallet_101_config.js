@@ -1,1 +1,1 @@
-var mnemonic = "fog little eye near medal parade depth off office kick blast path";
+var mnemonic = "possible damage mercy parent paddle space diet key because accident eyebrow state";

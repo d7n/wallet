@@ -1,1 +1,1 @@
-var mnemonic = "phrase mountain execute verb orphan scrap sniff below expire scout brand pupil";
+var mnemonic = "push morning ramp will essence own inspire extra deputy goddess occur olive";

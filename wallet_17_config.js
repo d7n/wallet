@@ -1,1 +1,1 @@
-var mnemonic = "token remove robot squeeze universe fortune cricket below point cloth memory exist";
+var mnemonic = "token soap kick payment useful adjust peace laptop weather equip trigger few";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt faith episode pull develop mass disagree goat artwork shine salute solid";
+var mnemonic = "capable mystery rail iron water clown found benefit strategy oblige genius stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt armed forest author earth urban later sport clap purse indicate anxiety";
+var mnemonic = "wise lock tobacco flat inspire result mixed paper news mammal deer rough";

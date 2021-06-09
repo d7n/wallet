@@ -1,1 +1,1 @@
-var mnemonic = "wheel behave basic rule sing royal iron curve large used bargain upset";
+var mnemonic = "pledge rifle net state casino gesture machine hunt cactus exile angle audit";

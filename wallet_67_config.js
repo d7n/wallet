@@ -1,1 +1,1 @@
-var mnemonic = "horse nurse shrimp profit pistol beyond citizen reveal one small garment cricket";
+var mnemonic = "slow addict curious click repeat siege balcony lumber gasp raw slow harvest";

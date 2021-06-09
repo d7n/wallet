@@ -1,1 +1,1 @@
-var mnemonic = "vacant palace same conduct battle enact run lecture oven unveil marine hundred";
+var mnemonic = "love cute indoor unhappy craft nice shock oblige silk rifle render dog";

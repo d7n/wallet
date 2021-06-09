@@ -1,1 +1,1 @@
-var mnemonic = "symptom acid naive vivid dynamic math vacant erosion elder impulse avocado execute";
+var mnemonic = "address find notice tissue sunset group opinion middle sketch planet already impulse";

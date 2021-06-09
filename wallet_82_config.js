@@ -1,1 +1,1 @@
-var mnemonic = "amazing empower figure allow secret long spare fluid sausage history remain online";
+var mnemonic = "impact print harvest quit answer mix honey solution skate trouble half achieve";

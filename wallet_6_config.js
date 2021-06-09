@@ -1,1 +1,1 @@
-var mnemonic = "energy blast stairs gold empty inmate divert student stem dizzy coach boring";
+var mnemonic = "chronic stick uphold couple tongue stool below history guide floor gesture cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "random category surround course limb buddy debate lawsuit person shoe again cable";
+var mnemonic = "trend phrase soap culture cushion range fabric tourist silent polar rent oven";

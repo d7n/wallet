@@ -1,1 +1,1 @@
-var mnemonic = "coral repair girl nephew pair common seed praise predict small balcony limit";
+var mnemonic = "guitar detect fragile hotel wrong come trigger tired magnet above twenty chest";

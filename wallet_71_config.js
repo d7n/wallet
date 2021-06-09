@@ -1,1 +1,1 @@
-var mnemonic = "roof ignore dry mansion friend dismiss capable radio rotate flash orange ladder";
+var mnemonic = "spoil tornado play alcohol more work squirrel pledge sense various east guard";

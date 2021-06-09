@@ -1,1 +1,1 @@
-var mnemonic = "notable have absurd abuse prison table again soon dash warm detect skate";
+var mnemonic = "mango need guitar interest pudding pottery electric erupt foster odor invest life";

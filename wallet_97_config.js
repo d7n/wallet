@@ -1,1 +1,1 @@
-var mnemonic = "glue dutch episode worry grant isolate federal banner confirm else novel modify";
+var mnemonic = "icon season gas galaxy usual strike next enable deposit ghost unknown embody";

@@ -1,1 +1,1 @@
-var mnemonic = "image intact submit bargain matter exist plunge survey tonight input relief record";
+var mnemonic = "success abstract enemy virtual doll route uphold city clip scout identify unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "piece whisper type street light lab praise truth arrest wash defense joy";
+var mnemonic = "monkey retire build humor general theme begin pitch tube pass soap onion";

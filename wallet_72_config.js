@@ -1,1 +1,1 @@
-var mnemonic = "nose kidney enable rib medal slight master impulse must assault famous pair";
+var mnemonic = "flee clever witness pistol extend relax include chest drum deal item inhale";

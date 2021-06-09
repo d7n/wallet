@@ -1,1 +1,1 @@
-var mnemonic = "acid gift ethics guide between under mistake sail sound rough drum display";
+var mnemonic = "creek dose cushion ghost atom winner hybrid elevator audit bundle defy crop";

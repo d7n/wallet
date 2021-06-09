@@ -1,1 +1,1 @@
-var mnemonic = "evoke gym setup country blame soap few scrap found novel globe wisdom";
+var mnemonic = "table speak across enrich protect puzzle exit dream ethics road other reduce";

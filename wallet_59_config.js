@@ -1,1 +1,1 @@
-var mnemonic = "crisp trash brush bleak journey awful seat dog coil stuff slush name";
+var mnemonic = "version anger woman inject decrease hello panther saddle wagon three job club";

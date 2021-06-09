@@ -1,1 +1,1 @@
-var mnemonic = "snake degree rough lake expect laundry narrow ethics limb awful average donor";
+var mnemonic = "execute glue alert outer pig hidden unique ladder uncover crisp forward very";

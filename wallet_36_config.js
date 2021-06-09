@@ -1,1 +1,1 @@
-var mnemonic = "dilemma business rigid argue dream slab educate track solar leopard gift behind";
+var mnemonic = "net enemy budget jacket toilet federal among anxiety student galaxy airport fine";

@@ -1,1 +1,1 @@
-var mnemonic = "action walnut fish describe flower chalk source wall fish cabin orchard august";
+var mnemonic = "pudding second decade swear tag element frequent wear glue strong exile bus";

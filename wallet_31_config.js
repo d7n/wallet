@@ -1,1 +1,1 @@
-var mnemonic = "noise escape west inner enhance gasp celery exhibit rent neither saddle siege";
+var mnemonic = "balance upgrade balcony during sister very crunch very sausage snake void shaft";

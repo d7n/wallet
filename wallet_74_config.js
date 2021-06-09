@@ -1,1 +1,1 @@
-var mnemonic = "fame pause vault access child opera ladder clown smooth whip control shrimp";
+var mnemonic = "knock stamp vapor method match legend oven margin mobile market oblige ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "degree myth fade leopard utility correct slight lawsuit print general unknown help";
+var mnemonic = "give slam cheap asset trigger tribe tilt trash ice argue goddess vote";

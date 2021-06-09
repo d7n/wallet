@@ -1,1 +1,1 @@
-var mnemonic = "estate dial sun legal crucial dilemma obvious worry dawn walnut marble excess";
+var mnemonic = "ill stay shaft escape palace lake blue warm monitor turkey still movie";

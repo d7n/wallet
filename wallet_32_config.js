@@ -1,1 +1,1 @@
-var mnemonic = "hawk vehicle culture genre math village fever various worry sort advice recall";
+var mnemonic = "rigid gasp idea ivory retire tragic relax flee all program salt warrior";

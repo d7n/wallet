@@ -1,1 +1,1 @@
-var mnemonic = "where harvest element mouse pupil pilot nominee allow light decade census come";
+var mnemonic = "vague confirm tenant add nasty comic focus equal color around play autumn";

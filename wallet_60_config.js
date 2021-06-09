@@ -1,1 +1,1 @@
-var mnemonic = "wise ginger amused proud cart diesel pluck fiscal retreat bamboo corn enrich";
+var mnemonic = "purity potato decorate rotate person various filter sound unit stumble hill cheap";

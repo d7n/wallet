@@ -1,1 +1,1 @@
-var mnemonic = "item armor junk ghost frost industry pen melt picture easily silly rate";
+var mnemonic = "vivid metal limit gas pass account buzz skill video trick switch borrow";

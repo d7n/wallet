@@ -1,1 +1,1 @@
-var mnemonic = "guide valid peasant until figure shoot elite fashion grid warm illness typical";
+var mnemonic = "bag frequent violin now inform midnight end grape side surge gift enough";

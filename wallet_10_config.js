@@ -1,1 +1,1 @@
-var mnemonic = "drive scheme mistake drive staff aim unveil hollow second gas review weekend";
+var mnemonic = "author physical increase outdoor prize crush fox stem chimney blast outside advance";

@@ -1,1 +1,1 @@
-var mnemonic = "priority rhythm axis couple large antique heart gauge fiction gate zero become";
+var mnemonic = "brass music school grab pulp wish pulp rhythm canoe laugh hope pair";

@@ -1,1 +1,1 @@
-var mnemonic = "trap crystal law fault ribbon slow beach ski peace crisp advice echo";
+var mnemonic = "spin van sustain pond borrow arrange include taxi transfer tackle math lunch";

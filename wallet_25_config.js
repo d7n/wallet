@@ -1,1 +1,1 @@
-var mnemonic = "ozone family busy retire offer topple sibling pulp electric pass amateur forum";
+var mnemonic = "adapt science note will put trash cat split floor drip network health";

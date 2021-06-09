@@ -1,1 +1,1 @@
-var mnemonic = "baby thank east theory august media pen memory hour brother enforce leaf";
+var mnemonic = "carpet exit bless office hurdle roof hire mule risk repeat fault hill";

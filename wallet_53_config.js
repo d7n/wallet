@@ -1,1 +1,1 @@
-var mnemonic = "tonight absorb trip make regret fringe kitten paper piece depend option stadium";
+var mnemonic = "glimpse grass heavy nature review notable cement spend tissue link fold shove";

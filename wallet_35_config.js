@@ -1,1 +1,1 @@
-var mnemonic = "auction argue alley add version region brisk crystal wheat length gas hobby";
+var mnemonic = "brave matrix voice crop fade dress main sea much initial oak useful";

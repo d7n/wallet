@@ -1,1 +1,1 @@
-var mnemonic = "pride grunt main knife anchor guard curve cactus mistake dial grief brush";
+var mnemonic = "hidden idle vessel happy tiny double weasel come raven rich primary title";

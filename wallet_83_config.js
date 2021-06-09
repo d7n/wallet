@@ -1,1 +1,1 @@
-var mnemonic = "rapid recycle exclude equal one apart friend maple glow distance movie occur";
+var mnemonic = "equip expire ice search scrap library want junk brisk any angry lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle famous auction install involve side student brown fog flat much approve";
+var mnemonic = "area ripple board rotate insect square fossil earth sponsor two stomach much";

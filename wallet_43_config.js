@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur honey coin unable gap input guitar exact shed pyramid wet festival";
+var mnemonic = "setup crawl own solution dawn brand cargo visa apology knife chuckle session";

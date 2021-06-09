@@ -1,1 +1,1 @@
-var mnemonic = "forum album bulb moon chief stomach polar voyage fence solution pottery during";
+var mnemonic = "black narrow detect rebuild era child achieve laugh above eight early cheap";

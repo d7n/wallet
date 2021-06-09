@@ -1,1 +1,1 @@
-var mnemonic = "weekend route twice warfare joke simple opinion family comfort lobster lottery mixed";
+var mnemonic = "waste inch daughter excess session awake hand annual ankle edit extend affair";

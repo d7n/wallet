@@ -1,1 +1,1 @@
-var mnemonic = "leopard shrug ribbon input pony stove office chunk brand express sure credit";
+var mnemonic = "upgrade diesel ready smart remove one have purchase sponsor copy air foil";

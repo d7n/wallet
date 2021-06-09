@@ -1,1 +1,1 @@
-var mnemonic = "simple camp soap pair various way sample round expand carpet side empty";
+var mnemonic = "rival thrive best frown truck verify correct zero child parade flock side";

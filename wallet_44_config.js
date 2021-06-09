@@ -1,1 +1,1 @@
-var mnemonic = "wall imitate monkey opera impact pride slender below fee bag height someone";
+var mnemonic = "surge hotel when dawn super artefact access sense border secret orphan busy";

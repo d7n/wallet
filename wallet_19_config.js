@@ -1,1 +1,1 @@
-var mnemonic = "forum begin dutch settle possible honey blur clinic before napkin wage spare";
+var mnemonic = "upper merry waste grid mask such rabbit hint spin cupboard sibling clever";

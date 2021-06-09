@@ -1,1 +1,1 @@
-var mnemonic = "inside wagon address fine oak empower program limb chimney grit lens combine";
+var mnemonic = "script rookie tomato enrich tape load actress estate obey grass credit call";

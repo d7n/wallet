@@ -1,1 +1,1 @@
-var mnemonic = "crumble strong arm radar better error lobster obtain pull fortune air truck";
+var mnemonic = "delay party twin badge dance soldier salmon useless affair leisure bunker toe";

@@ -1,1 +1,1 @@
-var mnemonic = "labor select champion opera nest hour seminar feed side village bomb flee";
+var mnemonic = "salon brief minute pioneer address current target day cargo remember envelope grass";

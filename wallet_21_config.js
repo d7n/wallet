@@ -1,1 +1,1 @@
-var mnemonic = "wise kiwi sibling cushion thought lecture winter very plug eternal swing tube";
+var mnemonic = "oblige grit alley awesome coast flight critic describe labor chicken column capable";

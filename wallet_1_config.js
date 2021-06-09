@@ -1,1 +1,1 @@
-var mnemonic = "print verb can soda sun solid tilt punch race stadium also squirrel";
+var mnemonic = "slogan fork brick bar circle tree filter cement mango vacuum grab fly";

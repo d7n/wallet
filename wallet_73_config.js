@@ -1,1 +1,1 @@
-var mnemonic = "price ship result pair film float submit regular nose bench month fantasy";
+var mnemonic = "nurse clown latin ridge faith learn afford open chat muffin derive cave";

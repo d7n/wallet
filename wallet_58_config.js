@@ -1,1 +1,1 @@
-var mnemonic = "club point place result torch adapt sleep endorse flame hammer wedding together";
+var mnemonic = "morning imitate wood arm spring clip repair boil inquiry lawn gossip practice";

@@ -1,1 +1,1 @@
-var mnemonic = "place pitch armed crouch crater sample leg nothing human bulb matrix comfort";
+var mnemonic = "flavor behind select unfair luggage leg science erode affair inquiry garbage flavor";

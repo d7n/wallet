@@ -1,1 +1,1 @@
-var mnemonic = "edge shrug develop behave slot bamboo globe captain afraid tooth two actor";
+var mnemonic = "task almost artefact stamp actor dish satisfy afraid antenna gaze estate soda";

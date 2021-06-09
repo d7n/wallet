@@ -1,1 +1,1 @@
-var mnemonic = "word enroll stuff renew awful member rent during consider magic once lake";
+var mnemonic = "bulk island barely credit gorilla scissors follow family junior laptop slow learn";

@@ -1,1 +1,1 @@
-var mnemonic = "inside milk execute midnight garment clog glow sugar focus proof patch inner";
+var mnemonic = "tuna bleak egg impact doctor setup buddy sketch adjust adapt wagon flame";

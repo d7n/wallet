@@ -1,1 +1,1 @@
-var mnemonic = "knee dog vanish polar oven trick film actual art trend draft museum";
+var mnemonic = "squirrel engine brown pluck miracle approve scale jazz permit pass fat rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "upset sheriff minute tunnel federal outdoor pudding solid crucial about tenant tourist";
+var mnemonic = "industry behave access business orchard choose apple pattern tonight slide clap over";

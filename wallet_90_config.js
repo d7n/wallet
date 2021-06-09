@@ -1,1 +1,1 @@
-var mnemonic = "gasp salon coyote arena romance love kick beauty spare mixed jacket accuse";
+var mnemonic = "elevator copy oyster balance vibrant expire ensure task hazard raven tiger panther";

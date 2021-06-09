@@ -1,1 +1,1 @@
-var mnemonic = "bar fossil spot unaware level blade chimney actress execute exchange say jungle";
+var mnemonic = "lava disease bus subject series interest cross nurse course dinner track coast";

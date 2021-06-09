@@ -1,1 +1,1 @@
-var mnemonic = "obvious wine agent over identify spice renew wild accident chimney bulb snap";
+var mnemonic = "favorite kit glide permit derive off upper smoke jump lady vintage aisle";

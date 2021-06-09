@@ -1,1 +1,1 @@
-var mnemonic = "mad ticket cream monitor mass upset place leisure vocal wrist laptop sport";
+var mnemonic = "friend tongue risk join monkey amount midnight assault need way note rabbit";

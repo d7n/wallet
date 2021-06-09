@@ -1,1 +1,1 @@
-var mnemonic = "hero hotel plunge great core load priority ten giggle lazy top client";
+var mnemonic = "switch coil morning deputy pelican cereal soccer gospel phone shy alone milk";
