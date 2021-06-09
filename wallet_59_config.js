@@ -1,1 +1,1 @@
-var mnemonic = "tennis blame citizen penalty high ability finish jar cover dentist normal distance";
+var mnemonic = "athlete icon ritual right weapon frost congress intact agree maple fat chuckle";

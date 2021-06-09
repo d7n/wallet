@@ -1,1 +1,1 @@
-var mnemonic = "frame nasty lamp wrestle unique grid aerobic pulse pond eternal rebel dragon";
+var mnemonic = "swing west cake subway kingdom near diesel teach discover book loud grow";

@@ -1,1 +1,1 @@
-var mnemonic = "ill onion element own open tooth urban aim write spatial pioneer demise";
+var mnemonic = "bottom neither crouch rule meat disorder soccer excess actor you equip yellow";

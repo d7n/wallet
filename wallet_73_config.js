@@ -1,1 +1,1 @@
-var mnemonic = "coyote amount message shadow unaware head month cake door sister depend awful";
+var mnemonic = "curious language animal tube pitch nuclear bronze liar mercy grain flock sunny";

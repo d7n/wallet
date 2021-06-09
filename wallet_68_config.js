@@ -1,1 +1,1 @@
-var mnemonic = "ready insane robot speed trust way wing army marine pass best undo";
+var mnemonic = "dinner hotel tenant tragic peasant unable project zone trophy critic aerobic enforce";

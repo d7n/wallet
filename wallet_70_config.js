@@ -1,1 +1,1 @@
-var mnemonic = "volume saddle chief price control over tattoo section slab express century index";
+var mnemonic = "gentle volcano direct heart defense faint winner lesson scale shy wall dust";

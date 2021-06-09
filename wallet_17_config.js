@@ -1,1 +1,1 @@
-var mnemonic = "sport submit grid prevent chuckle mirror kick forest help silk bird toy";
+var mnemonic = "salmon front together swarm critic double surprise random obtain inherit need finger";

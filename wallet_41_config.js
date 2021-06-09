@@ -1,1 +1,1 @@
-var mnemonic = "genre allow party pool hotel become layer sheriff expire keep pyramid super";
+var mnemonic = "inspire squirrel ancient leisure unknown else food make spray farm pigeon pencil";

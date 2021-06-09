@@ -1,1 +1,1 @@
-var mnemonic = "soon grunt absorb call enact basket column weird nuclear lecture loud obvious";
+var mnemonic = "judge horror tunnel they predict occur summer rookie later rigid zero ice";

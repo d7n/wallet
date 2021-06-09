@@ -1,1 +1,1 @@
-var mnemonic = "erosion ready club victory network cluster betray prefer toilet net sort lawn";
+var mnemonic = "again jazz crucial path short please identify garage second patrol capable vintage";

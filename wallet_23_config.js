@@ -1,1 +1,1 @@
-var mnemonic = "buzz balcony series kick insane track renew torch fly shop web muscle";
+var mnemonic = "apart dog reject syrup clever cigar sketch vibrant sign animal face toward";

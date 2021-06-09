@@ -1,1 +1,1 @@
-var mnemonic = "short slide april stock glow filter reveal fan sing side renew carbon";
+var mnemonic = "lonely involve bitter spoon health century nice load hybrid despair immune angry";

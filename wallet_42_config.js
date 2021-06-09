@@ -1,1 +1,1 @@
-var mnemonic = "dignity toss sadness club member siege border clump alcohol occur close physical";
+var mnemonic = "wild chef shoot tired whisper hold expect cattle lava invest east chair";

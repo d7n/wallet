@@ -1,1 +1,1 @@
-var mnemonic = "flame diary head trade area like ball never saddle basket space market";
+var mnemonic = "curious hover assault blanket quality shoulder liquid unveil sponsor search cloud tornado";

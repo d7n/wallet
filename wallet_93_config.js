@@ -1,1 +1,1 @@
-var mnemonic = "lecture skull trigger access lawn survey rain prosper salt sing disagree ship";
+var mnemonic = "bar mammal upgrade cheap weird gallery other festival sketch oxygen knife sock";

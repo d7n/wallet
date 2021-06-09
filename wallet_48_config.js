@@ -1,1 +1,1 @@
-var mnemonic = "stay shine mouse wisdom arrange true flip conduct imitate chunk marine vague";
+var mnemonic = "orphan dutch child ghost cinnamon install draw face almost flip permit embody";

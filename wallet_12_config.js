@@ -1,1 +1,1 @@
-var mnemonic = "dignity february fortune glove genius wing have blur private film unable okay";
+var mnemonic = "wrestle crop latin portion cash parent glue visa crouch way admit primary";

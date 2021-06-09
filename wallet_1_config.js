@@ -1,1 +1,1 @@
-var mnemonic = "hello forward hockey cushion hood group session prepare neither champion dwarf vacant";
+var mnemonic = "ranch autumn group then hole pass story tell rival kit play reason";

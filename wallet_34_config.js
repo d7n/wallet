@@ -1,1 +1,1 @@
-var mnemonic = "orbit yellow rival gym warfare fury report weekend wash venue reform game";
+var mnemonic = "cancel nation iron patient vehicle old summer stadium route great nothing fame";

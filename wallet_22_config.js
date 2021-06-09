@@ -1,1 +1,1 @@
-var mnemonic = "dice inform grain peace dismiss bicycle rotate oyster town earth trim blast";
+var mnemonic = "pill popular snack retreat trial permit exhibit either crystal middle example buzz";

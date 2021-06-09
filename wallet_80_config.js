@@ -1,1 +1,1 @@
-var mnemonic = "neglect soup crawl say adjust dice illegal excite cycle fuel tonight secret";
+var mnemonic = "plunge title flag soon frown bronze news share seek beauty detect scale";

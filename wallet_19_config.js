@@ -1,1 +1,1 @@
-var mnemonic = "village dove negative wink scout hobby detail scrap message clever float liar";
+var mnemonic = "crash useless purity oyster crisp glimpse female spin upgrade doctor deputy office";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy buffalo alarm warfare turtle index trigger lake display wonder exhibit deputy";
+var mnemonic = "repair surround price broom arrest speak capital shadow arrive draw taste mix";

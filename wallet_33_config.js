@@ -1,1 +1,1 @@
-var mnemonic = "dog lens crowd conduct prepare street liquid attack cream chunk tribe loyal";
+var mnemonic = "ceiling between physical coast perfect clean maple bitter tissue demise meat copy";

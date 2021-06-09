@@ -1,1 +1,1 @@
-var mnemonic = "tent obey among parrot shell equal chicken luxury general segment area light";
+var mnemonic = "ring wild release slight arch fit minute exit broccoli foil announce volcano";

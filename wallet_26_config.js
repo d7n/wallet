@@ -1,1 +1,1 @@
-var mnemonic = "elder audit salad intact gesture quiz tackle provide exhaust million energy deal";
+var mnemonic = "narrow crime wage super unlock estate fetch unit tackle noise cup glad";

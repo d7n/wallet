@@ -1,1 +1,1 @@
-var mnemonic = "bitter mule wagon alter puppy either thing river pear night protect call";
+var mnemonic = "dolphin despair firm chronic pledge gather panic capital faculty market busy venture";

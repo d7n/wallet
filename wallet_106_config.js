@@ -1,1 +1,1 @@
-var mnemonic = "jaguar come mechanic gather cover fortune grit talent hammer barrel pilot save";
+var mnemonic = "cactus discover love vehicle amazing until boring south guess brother gun verify";

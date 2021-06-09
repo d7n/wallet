@@ -1,1 +1,1 @@
-var mnemonic = "cream gorilla rare river minor symbol able devote gift urban prosper donate";
+var mnemonic = "wire donate harsh opinion match own youth ring joke next manual ghost";

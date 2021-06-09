@@ -1,1 +1,1 @@
-var mnemonic = "monitor open quote venue kangaroo menu shock april nice amateur require notable";
+var mnemonic = "virtual tell gas burden proud tongue quote design first economy tent march";

@@ -1,1 +1,1 @@
-var mnemonic = "aware gap potato fat answer solar canyon toss among brown lava volume";
+var mnemonic = "badge achieve kiss jaguar addict zone crush front razor believe curtain during";

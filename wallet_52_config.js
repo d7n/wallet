@@ -1,1 +1,1 @@
-var mnemonic = "harsh hockey marriage either emotion dad escape attitude sorry dream such lazy";
+var mnemonic = "usual collect drum shift flip correct avocado salute roof spread mom announce";

@@ -1,1 +1,1 @@
-var mnemonic = "cage law garage bicycle friend gadget valid brand spy remain winner universe";
+var mnemonic = "cool captain power car text grit bubble confirm loop fall tell question";

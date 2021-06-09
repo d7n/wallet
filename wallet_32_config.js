@@ -1,1 +1,1 @@
-var mnemonic = "copy home debate start coyote fat aerobic live surge smoke require doctor";
+var mnemonic = "similar domain evolve any teach ability beauty defy north jungle visual popular";

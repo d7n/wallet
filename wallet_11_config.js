@@ -1,1 +1,1 @@
-var mnemonic = "slam young summer text floor ladder leader attitude push relief focus tired";
+var mnemonic = "word vicious jewel anxiety emerge benefit girl order planet siege food pear";

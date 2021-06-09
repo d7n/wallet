@@ -1,1 +1,1 @@
-var mnemonic = "injury wave hero absorb intact middle police capital ketchup nice over gas";
+var mnemonic = "damage cargo all dwarf home dad melt clay wise boy benefit fashion";

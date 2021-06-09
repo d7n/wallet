@@ -1,1 +1,1 @@
-var mnemonic = "raw bounce spatial utility crisp east ordinary piano trigger dismiss leaf describe";
+var mnemonic = "local soul clerk keep topple case orient table elevator market win chat";

@@ -1,1 +1,1 @@
-var mnemonic = "remain orange ribbon agree cup element match reveal witness two pull license";
+var mnemonic = "animal nasty media bench tuna cruise copy punch elder despair paddle six";

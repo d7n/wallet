@@ -1,1 +1,1 @@
-var mnemonic = "myth ocean twin noodle food ill abuse laptop blouse yellow current bleak";
+var mnemonic = "ivory uncover warfare pause example trial limb execute web youth shuffle business";

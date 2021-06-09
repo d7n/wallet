@@ -1,1 +1,1 @@
-var mnemonic = "news pottery dust forward girl that radio reject insane muffin prevent advance";
+var mnemonic = "payment engine embrace episode evolve long sample coach ghost rain crew reform";

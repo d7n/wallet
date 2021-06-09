@@ -1,1 +1,1 @@
-var mnemonic = "quarter oak loan wonder waste still opinion syrup powder ordinary convince explain";
+var mnemonic = "arena gallery oyster color business town can fault enrich erupt play behave";

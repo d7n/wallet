@@ -1,1 +1,1 @@
-var mnemonic = "ceiling rate repair flush label palace orbit mule kitten grass daughter raccoon";
+var mnemonic = "similar recipe actress convince core bird bid advance train assist near clinic";

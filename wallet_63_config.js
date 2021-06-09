@@ -1,1 +1,1 @@
-var mnemonic = "vanish talk silk gaze drink cute grow seat vital visa salmon endorse";
+var mnemonic = "pretty fire ball return used jazz amount rabbit mimic version awesome job";

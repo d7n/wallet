@@ -1,1 +1,1 @@
-var mnemonic = "bachelor worry equip toddler ozone puppy twice wonder glance noise sleep behind";
+var mnemonic = "repair cinnamon arrow now horn ship rice wink reason before confirm defy";

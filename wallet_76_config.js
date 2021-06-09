@@ -1,1 +1,1 @@
-var mnemonic = "garbage rookie scare impact sphere tilt remember distance fashion blue more next";
+var mnemonic = "bonus length pet raccoon render strong trumpet mechanic lunar canal patient innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "whip coyote vapor payment object heart country recipe convince arm half speak";
+var mnemonic = "scrap firm apart wage alter sign minimum indoor phrase certain prison myth";

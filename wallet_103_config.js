@@ -1,1 +1,1 @@
-var mnemonic = "cube little host label toddler surge galaxy noodle pistol punch useful prison";
+var mnemonic = "canvas fly ill gorilla ball blast lizard salon hero ribbon crucial hedgehog";

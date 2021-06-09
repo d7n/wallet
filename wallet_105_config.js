@@ -1,1 +1,1 @@
-var mnemonic = "brisk vacant kidney able isolate march illness force imitate eye daring modify";
+var mnemonic = "core lonely indicate perfect napkin coach gap author before question concert fat";

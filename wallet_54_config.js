@@ -1,1 +1,1 @@
-var mnemonic = "own shove live movie amateur client embody almost stove bleak hurdle begin";
+var mnemonic = "fame jaguar resemble twist bracket trust peace cement pen dismiss boat practice";

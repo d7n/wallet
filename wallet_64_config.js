@@ -1,1 +1,1 @@
-var mnemonic = "fit myself stuff sport uncle breeze upon huge pepper weasel step clerk";
+var mnemonic = "marine item crush fashion holiday process fiction wonder artwork square notable number";

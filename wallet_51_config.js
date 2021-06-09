@@ -1,1 +1,1 @@
-var mnemonic = "weapon night security such goat ghost wing follow true vapor provide skull";
+var mnemonic = "token favorite any index pipe junior sense news option issue talent walk";

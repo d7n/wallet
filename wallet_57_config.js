@@ -1,1 +1,1 @@
-var mnemonic = "focus miracle ensure about smart shallow only bottom gesture impulse faith unable";
+var mnemonic = "slim type zebra coconut proud chapter actor train team dream vacant powder";

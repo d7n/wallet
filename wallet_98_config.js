@@ -1,1 +1,1 @@
-var mnemonic = "toss course melody return brief raven quote resist debate laptop place rich";
+var mnemonic = "over laptop top barrel dog avoid father seek pistol make gap kit";

@@ -1,1 +1,1 @@
-var mnemonic = "sure pond unable crumble marble gentle expire size system train more fuel";
+var mnemonic = "appear trap region dress upper pudding great pizza song exotic area stairs";

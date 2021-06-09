@@ -1,1 +1,1 @@
-var mnemonic = "develop depend stairs tongue river master fat oxygen arrange thrive whisper coral";
+var mnemonic = "call history media hedgehog acid cage swear will length write example pond";

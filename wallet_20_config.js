@@ -1,1 +1,1 @@
-var mnemonic = "chase dad shell danger fantasy wasp cool reflect illegal stamp genre immense";
+var mnemonic = "hand clump idea around tissue hub retreat curve knee prison surge phrase";

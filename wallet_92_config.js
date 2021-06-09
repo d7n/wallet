@@ -1,1 +1,1 @@
-var mnemonic = "galaxy awkward among sustain parent jelly put conduct forward thought route cave";
+var mnemonic = "fury burger rose tongue valve endorse hover olive sugar base hazard capable";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual harvest transfer damp digital iron school slot short jealous wine chat";
+var mnemonic = "trap inner practice equip forward army peasant gauge certain fabric evoke there";

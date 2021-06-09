@@ -1,1 +1,1 @@
-var mnemonic = "path unhappy artwork boil argue cruel false wait polar typical acid paddle";
+var mnemonic = "adapt tongue pipe rough bind until wedding public innocent arrest bus rabbit";

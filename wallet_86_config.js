@@ -1,1 +1,1 @@
-var mnemonic = "industry early crisp disease dizzy father soccer dynamic mother decrease demand piece";
+var mnemonic = "arch custom pen myself private accident tired exotic stable can power ethics";

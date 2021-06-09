@@ -1,1 +1,1 @@
-var mnemonic = "almost remain beach original spoon eyebrow enact this comfort border gossip logic";
+var mnemonic = "raise metal grow armed review arrest half rival glove warm path copy";

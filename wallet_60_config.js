@@ -1,1 +1,1 @@
-var mnemonic = "valley metal option broken unable harsh embrace hollow better broccoli betray sell";
+var mnemonic = "mix great valley blood convince better slide dog drip start convince decline";

@@ -1,1 +1,1 @@
-var mnemonic = "area boring boy shiver remember weapon copy zoo drift plunge adult elegant";
+var mnemonic = "funny tone rule pear zoo hurdle glass crucial village position art carry";

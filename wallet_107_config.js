@@ -1,1 +1,1 @@
-var mnemonic = "palace oil output cotton idle clog deputy predict noodle risk pony hazard";
+var mnemonic = "coast captain catalog grit mansion bacon industry million mystery company cargo guilt";

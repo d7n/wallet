@@ -1,1 +1,1 @@
-var mnemonic = "cycle harvest orchard brush cable noodle radar cupboard wrong pistol foil asthma";
+var mnemonic = "unveil cannon fee earn wear shadow enlist common wink happy accuse glass";

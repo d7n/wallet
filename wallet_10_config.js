@@ -1,1 +1,1 @@
-var mnemonic = "margin fantasy ritual hurdle thank subject kitten rural whip habit scan round";
+var mnemonic = "nose motion kit airport medal dragon east blast decrease below all neutral";

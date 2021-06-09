@@ -1,1 +1,1 @@
-var mnemonic = "ten slim scan square beauty earth language weekend organ barely amount enrich";
+var mnemonic = "member parent away sketch buddy unlock grace design clerk release vendor knife";

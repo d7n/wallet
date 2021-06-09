@@ -1,1 +1,1 @@
-var mnemonic = "put entry chef inside suffer super duck economy retire exact detect double";
+var mnemonic = "fortune soap wealth novel broken across similar dentist coconut flat engage winner";

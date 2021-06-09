@@ -1,1 +1,1 @@
-var mnemonic = "stove bulk blush lesson stem occur rug milk tongue logic draw kangaroo";
+var mnemonic = "turkey oval immune episode photo census future common solution mercy hair city";

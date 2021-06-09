@@ -1,1 +1,1 @@
-var mnemonic = "goose upgrade pitch market exclude connect embody sustain frost fire shock peanut";
+var mnemonic = "settle wear world foster budget night cactus letter slender grief usage leader";

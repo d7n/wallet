@@ -1,1 +1,1 @@
-var mnemonic = "party win design faculty feel card asthma better frame tree helmet reunion";
+var mnemonic = "casino skirt humor pilot about hole sponsor shrimp label champion source release";

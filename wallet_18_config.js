@@ -1,1 +1,1 @@
-var mnemonic = "gloom rose runway fury approve erosion door bag umbrella ensure clerk combine";
+var mnemonic = "blame engage document kitchen express solve enough vote plunge swarm rain pizza";

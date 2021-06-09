@@ -1,1 +1,1 @@
-var mnemonic = "clean weather fold panic fatal wild robust menu nest page below combine";
+var mnemonic = "brush black ahead point lock olive anger canal confirm inherit science company";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace quantum laptop annual hello box same icon govern miss drift crisp";
+var mnemonic = "wink pitch over banana knife random detect torch domain hockey drink protect";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse fever sense now busy hurry genuine correct model race best exhibit";
+var mnemonic = "process danger slot neck upset minute tragic bring earn speed scrap erupt";

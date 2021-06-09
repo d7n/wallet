@@ -1,1 +1,1 @@
-var mnemonic = "biology early viable marble already double desk water erosion property very amount";
+var mnemonic = "enact path empty reject above beyond satisfy glimpse ribbon famous balcony feel";

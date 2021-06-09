@@ -1,1 +1,1 @@
-var mnemonic = "comic soccer illegal wink raise rebel range confirm idle torch mix detect";
+var mnemonic = "script stereo remove chef organ shed siren example pumpkin pizza scan half";

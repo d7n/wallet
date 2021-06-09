@@ -1,1 +1,1 @@
-var mnemonic = "matrix obscure obtain august tortoise unique wagon slight pill salad suit search";
+var mnemonic = "ship jeans accuse find oxygen spread genius hawk task fiction share accident";

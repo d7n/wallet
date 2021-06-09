@@ -1,1 +1,1 @@
-var mnemonic = "boy bean clerk solution pen melt lend hair memory truck vicious usual";
+var mnemonic = "reform wing fire fix knee word excess pretty frequent access right genuine";

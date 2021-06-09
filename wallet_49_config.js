@@ -1,1 +1,1 @@
-var mnemonic = "wear original quote lucky same consider pattern gospel miracle ready black network";
+var mnemonic = "nasty neck skirt dizzy wealth foot chat purpose emotion disagree ball height";

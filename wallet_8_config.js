@@ -1,1 +1,1 @@
-var mnemonic = "fog goddess because genuine gospel file later favorite random dawn range better";
+var mnemonic = "connect impulse sustain nothing ginger edge time canyon lava staff segment rescue";

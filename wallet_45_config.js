@@ -1,1 +1,1 @@
-var mnemonic = "calm sight need mirror add soon ice regret best scrap reduce fog";
+var mnemonic = "venture dutch all melody stomach winter what more priority supreme fatigue guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "banner client short jungle eagle lonely room document language material mobile fade";
+var mnemonic = "aim easy urge host concert repair talk occur foot shrug sweet spawn";

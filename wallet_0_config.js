@@ -1,1 +1,1 @@
-var mnemonic = "unveil walnut era sorry royal inflict teach smooth there primary vacant run";
+var mnemonic = "enrich rapid flee assault crazy hero romance gym grid car arrive talk";

@@ -1,1 +1,1 @@
-var mnemonic = "era quality scatter point bottom jar come boat damp coach champion jazz";
+var mnemonic = "strike zero common coconut bunker copper armor tank solve advice memory naive";

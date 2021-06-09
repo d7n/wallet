@@ -1,1 +1,1 @@
-var mnemonic = "reward come grit magnet sugar drip warm wrap pilot mosquito destroy local";
+var mnemonic = "damage game guard blur silk airport agent cluster video oval seek hand";

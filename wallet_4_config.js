@@ -1,1 +1,1 @@
-var mnemonic = "private walk reopen school auction save knock include require pitch sad turtle";
+var mnemonic = "ripple loan goddess welcome sea used twelve anchor above empty time soup";

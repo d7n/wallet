@@ -1,1 +1,1 @@
-var mnemonic = "wide into luxury age when digital giggle panther north trade session clarify";
+var mnemonic = "camp train roast visa upgrade digital cruise catch endorse diesel bargain such";

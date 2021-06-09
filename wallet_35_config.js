@@ -1,1 +1,1 @@
-var mnemonic = "upon invite blossom afraid setup vacuum tissue equip celery admit fee before";
+var mnemonic = "agree ask what stairs urban divert nation also profit drama artist swing";

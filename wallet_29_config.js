@@ -1,1 +1,1 @@
-var mnemonic = "notable local farm wide wash possible menu humor innocent poem kick since";
+var mnemonic = "doctor dial distance fly cool nature bottom stem skull remember essay pupil";

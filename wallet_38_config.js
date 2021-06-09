@@ -1,1 +1,1 @@
-var mnemonic = "allow motor include sunset inside reunion fiscal census payment prison just open";
+var mnemonic = "vast mushroom distance slender pitch wool barrel olive drill kick large approve";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition actual six rack refuse arrange soldier sorry draw dress object public";
+var mnemonic = "panic garment young jazz erosion dish genre one tip boy solution hockey";
