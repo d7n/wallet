@@ -1,1 +1,1 @@
-var mnemonic = "song laptop over orange gentle chalk rain sadness potato sauce creek ranch";
+var mnemonic = "wreck wing display object agree forum across expire betray zebra galaxy kite";

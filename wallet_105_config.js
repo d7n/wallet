@@ -1,1 +1,1 @@
-var mnemonic = "paddle cushion noble salad need surge include great glance wash impose faint";
+var mnemonic = "winner gas sail stamp certain fold business wrong matter rude caught bone";

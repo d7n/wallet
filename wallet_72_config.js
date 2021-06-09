@@ -1,1 +1,1 @@
-var mnemonic = "monster canoe tape disagree polar nephew scout accident arm holiday gather lesson";
+var mnemonic = "garlic paper cup anxiety cotton crater fix whale bridge tuition soon liberty";

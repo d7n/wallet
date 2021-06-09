@@ -1,1 +1,1 @@
-var mnemonic = "local case stay special cage stand spike cupboard turkey six front method";
+var mnemonic = "giant conduct kind dish heart blast denial plug upper suffer garden seed";

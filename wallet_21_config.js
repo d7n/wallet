@@ -1,1 +1,1 @@
-var mnemonic = "refuse piece dust habit gravity zero divide logic plate dream envelope federal";
+var mnemonic = "orient bulb biology ramp laugh sweet forward clog hurt wasp capital give";

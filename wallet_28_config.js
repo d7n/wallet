@@ -1,1 +1,1 @@
-var mnemonic = "try play hurdle end notable oblige make job tumble meadow away field";
+var mnemonic = "monster suspect thrive few obscure gate satoshi front fat laundry priority talk";

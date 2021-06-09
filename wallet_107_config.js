@@ -1,1 +1,1 @@
-var mnemonic = "chunk worry mango dress olympic dismiss weasel become ecology inside about slide";
+var mnemonic = "type nice consider lunar paper melody message stool enact major spice tip";

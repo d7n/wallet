@@ -1,1 +1,1 @@
-var mnemonic = "urge pitch grid sketch tank flash there come net twist dress scrub";
+var mnemonic = "text right tourist sing piano opera olive mandate teach honey lock analyst";

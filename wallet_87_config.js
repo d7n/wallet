@@ -1,1 +1,1 @@
-var mnemonic = "debate baby sing festival stick work alley affair stay cabin happy arctic";
+var mnemonic = "case craft camp seek replace wide recall because friend glass check witness";

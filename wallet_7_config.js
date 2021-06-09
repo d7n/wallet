@@ -1,1 +1,1 @@
-var mnemonic = "royal swift blind topic slice there siege potato garden spell dash exercise";
+var mnemonic = "iron such escape tribe autumn pass copper quit mesh another correct mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "escape isolate poet bunker cycle knee vehicle water tribe live valley outer";
+var mnemonic = "anger aware drive scrub sentence key tiger can confirm industry damp thrive";

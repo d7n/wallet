@@ -1,1 +1,1 @@
-var mnemonic = "whip problem flush host drum party blur dad collect slide exist error";
+var mnemonic = "sight wheat puppy visit account buzz account foil sheriff bicycle slide fly";

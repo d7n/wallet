@@ -1,1 +1,1 @@
-var mnemonic = "cruise transfer clap cat music beyond flight urge galaxy work beauty join";
+var mnemonic = "panel feel manage once noodle expose capable web betray drum fault follow";

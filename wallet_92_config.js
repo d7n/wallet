@@ -1,1 +1,1 @@
-var mnemonic = "note vacuum tide wink leg front school ready digital business cross icon";
+var mnemonic = "exhibit panther save bracket bird dwarf twenty ethics monster involve sunset wheat";

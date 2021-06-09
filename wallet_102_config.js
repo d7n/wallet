@@ -1,1 +1,1 @@
-var mnemonic = "brass sadness depth spray brother dash almost spend cover match left winner";
+var mnemonic = "blast clock main merit define lawn million nothing jealous chef drum trust";

@@ -1,1 +1,1 @@
-var mnemonic = "faith anxiety culture tongue awkward dog buyer fatal hybrid cinnamon toy rib";
+var mnemonic = "blade will office milk claim little airport path cage couple organ jar";

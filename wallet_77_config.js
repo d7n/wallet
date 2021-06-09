@@ -1,1 +1,1 @@
-var mnemonic = "raven twist around lesson antenna maple device now notice donkey vault loop";
+var mnemonic = "apart expect crouch emerge shadow episode sadness carpet essence act friend inner";

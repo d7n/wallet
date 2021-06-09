@@ -1,1 +1,1 @@
-var mnemonic = "comfort search reason equip unable search diagram connect label rabbit will tuition";
+var mnemonic = "garden salmon elephant clerk romance egg arch crash sample easy outside clever";

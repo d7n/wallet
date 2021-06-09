@@ -1,1 +1,1 @@
-var mnemonic = "square symbol smile parent trim body permit index force obvious wash fame";
+var mnemonic = "wear leader grain shell sword accident device faith disorder shop demand glad";

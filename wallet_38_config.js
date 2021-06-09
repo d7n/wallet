@@ -1,1 +1,1 @@
-var mnemonic = "zone gaze enter switch invest arctic divide skill dizzy regret arrest mechanic";
+var mnemonic = "angle camp abuse remove dog usual flash hurry anchor couch vote puppy";

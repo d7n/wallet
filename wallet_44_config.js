@@ -1,1 +1,1 @@
-var mnemonic = "rain spatial over dad strategy amateur gift sign marriage gas sausage improve";
+var mnemonic = "refuse orphan eternal pencil liar caution wide project firm element whip flame";

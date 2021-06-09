@@ -1,1 +1,1 @@
-var mnemonic = "eight bracket couch tube funny tuition lottery bonus volume ancient favorite blanket";
+var mnemonic = "hungry car unhappy uniform myth balcony mother round diagram jaguar spawn erode";

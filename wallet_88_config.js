@@ -1,1 +1,1 @@
-var mnemonic = "lawn wild foam spread loyal raise hotel pear aim dog wash feel";
+var mnemonic = "alpha health social sketch play visa fantasy flat spirit cement myth pistol";

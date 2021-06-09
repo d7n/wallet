@@ -1,1 +1,1 @@
-var mnemonic = "fatal mouse brick acoustic horror tide armor enrich grit trigger meat code";
+var mnemonic = "inherit volcano flame what remain owner holiday culture faint drive talent person";

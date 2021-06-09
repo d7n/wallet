@@ -1,1 +1,1 @@
-var mnemonic = "orchard review adapt tackle aerobic junk gauge base confirm apple lava stuff";
+var mnemonic = "cost word wife cover flavor club axis various trumpet maid crack quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "moment sound search satoshi theme that vintage true mobile matter raw blush";
+var mnemonic = "black paddle garment hurt door goose cigar until second hint general slot";

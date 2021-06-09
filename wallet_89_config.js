@@ -1,1 +1,1 @@
-var mnemonic = "cage zone mango strike daughter ring feel typical airport state birth network";
+var mnemonic = "idea monster profit hawk profit volume enlist arrest spider element away couple";

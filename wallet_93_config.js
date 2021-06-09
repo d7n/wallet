@@ -1,1 +1,1 @@
-var mnemonic = "master stomach select frog aspect attack actual online wonder junk select canoe";
+var mnemonic = "cube penalty spin topic retire lunch wage main drop essence burst quit";

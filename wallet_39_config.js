@@ -1,1 +1,1 @@
-var mnemonic = "swing energy weapon inch embody globe pulse trim special enter behave file";
+var mnemonic = "avocado curve scan neck road entire long inquiry ranch nation comfort top";

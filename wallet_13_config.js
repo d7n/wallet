@@ -1,1 +1,1 @@
-var mnemonic = "direct never brick bench often mercy ripple noble tunnel throw law outside";
+var mnemonic = "bamboo erode asthma issue grace away retire recall finger sea inmate shaft";

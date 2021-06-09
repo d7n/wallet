@@ -1,1 +1,1 @@
-var mnemonic = "mad seat gauge uniform hollow basket food shallow token choose strike mass";
+var mnemonic = "reveal narrow afraid more mirror safe people pencil outside deer drive hidden";

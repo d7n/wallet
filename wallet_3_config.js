@@ -1,1 +1,1 @@
-var mnemonic = "together market much acquire adjust reject gauge size image include relief dove";
+var mnemonic = "narrow save hand need snow detail pledge exit cart amount dolphin caution";

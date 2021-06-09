@@ -1,1 +1,1 @@
-var mnemonic = "layer scrub beauty found poverty subject cargo pledge planet boil script raise";
+var mnemonic = "wheat drift diamond scorpion cruise auto slow unit tobacco infant join expose";

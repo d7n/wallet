@@ -1,1 +1,1 @@
-var mnemonic = "toilet quality debris segment filter meadow gun trophy similar violin witness blouse";
+var mnemonic = "vote country lend issue consider material monster ceiling series odor marriage news";

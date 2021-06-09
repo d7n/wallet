@@ -1,1 +1,1 @@
-var mnemonic = "wheel metal noise desert main churn glare arm since total estate release";
+var mnemonic = "thumb suit pipe fish fish absent street dismiss hamster plate crew forest";

@@ -1,1 +1,1 @@
-var mnemonic = "such truly endless excite flower possible inhale elegant apology color health until";
+var mnemonic = "drive process turkey naive unfold island morning tomorrow coast miss expand happy";

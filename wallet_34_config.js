@@ -1,1 +1,1 @@
-var mnemonic = "fortune oyster solution eternal sad before laptop exit rally pyramid monitor flower";
+var mnemonic = "dumb reward injury prevent accuse label drift ostrich skate render neck expect";

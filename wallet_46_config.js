@@ -1,1 +1,1 @@
-var mnemonic = "wall since rabbit card spray seminar bring people tank entry budget clock";
+var mnemonic = "squirrel hero repeat coyote major lucky alarm dash genius hand six seat";

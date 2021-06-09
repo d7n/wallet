@@ -1,1 +1,1 @@
-var mnemonic = "rocket uphold cycle layer version wolf evoke today nut sight assault minute";
+var mnemonic = "rather penalty spider firm void emerge parrot yellow fatal kiwi demand winter";

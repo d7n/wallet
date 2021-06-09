@@ -1,1 +1,1 @@
-var mnemonic = "wasp top adjust end elevator forget suit again addict dirt empty boost";
+var mnemonic = "regret labor bulb memory waste tunnel reason catalog open glory evidence indicate";

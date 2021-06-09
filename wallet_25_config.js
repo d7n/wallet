@@ -1,1 +1,1 @@
-var mnemonic = "shift security what sniff clown seven silk ladder daring nest sustain gesture";
+var mnemonic = "vague canvas behave near giant rough unique anchor almost strong wrong timber";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen improve critic shrimp figure dignity canyon book cat peasant album advance";
+var mnemonic = "near stomach reunion genuine music damage tissue age live bridge quality door";

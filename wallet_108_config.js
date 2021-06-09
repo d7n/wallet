@@ -1,1 +1,1 @@
-var mnemonic = "corn leisure rookie case scheme soccer behind enable kite always swim current";
+var mnemonic = "code veteran better pelican kingdom submit earth elegant give swim flash copy";

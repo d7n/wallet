@@ -1,1 +1,1 @@
-var mnemonic = "element small brass cruel find plug process tray omit sail problem soft";
+var mnemonic = "blame point obey snap reflect text mom excess mimic wing girl diet";

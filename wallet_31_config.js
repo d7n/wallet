@@ -1,1 +1,1 @@
-var mnemonic = "awesome ginger picnic deny series tent stairs veteran victory churn hawk picture";
+var mnemonic = "enrich replace crucial fashion balcony robot scheme swing expect talk legend direct";

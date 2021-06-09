@@ -1,1 +1,1 @@
-var mnemonic = "medal army dizzy vital cereal stem tool shy lonely manual shadow come";
+var mnemonic = "twenty like submit ski govern very cross flame catch mandate melody answer";

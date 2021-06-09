@@ -1,1 +1,1 @@
-var mnemonic = "merge pond about year poverty slam century letter random shoot glory reward";
+var mnemonic = "observe mask bleak spray manual chair adjust galaxy common dinosaur mushroom love";

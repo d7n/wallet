@@ -1,1 +1,1 @@
-var mnemonic = "empower flight hour leave goddess afraid bronze survey alert prevent similar tragic";
+var mnemonic = "calm world rural fun fringe carbon garden music inquiry off thank world";

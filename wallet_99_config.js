@@ -1,1 +1,1 @@
-var mnemonic = "unknown diagram shock knife cliff multiply candy movie embody gloom obey human";
+var mnemonic = "wash mountain already load bulk physical laugh bubble attend grab behave grow";

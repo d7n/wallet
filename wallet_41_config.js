@@ -1,1 +1,1 @@
-var mnemonic = "bachelor fortune laugh wrap second fly scheme aisle tape paddle taxi park";
+var mnemonic = "permit wave similar poem baby garment jungle leaf human earth pave exact";

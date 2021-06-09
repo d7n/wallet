@@ -1,1 +1,1 @@
-var mnemonic = "dove night humble miss sniff power swallow involve snack obtain access swim";
+var mnemonic = "recipe exotic mention idle silent review fashion boat guilt charge soul meat";

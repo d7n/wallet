@@ -1,1 +1,1 @@
-var mnemonic = "adapt degree raw bring few company tennis issue bean dutch hat setup";
+var mnemonic = "orbit better occur meadow carbon impact sun meat night prize impulse profit";

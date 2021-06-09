@@ -1,1 +1,1 @@
-var mnemonic = "illness onion attend orange ozone dizzy drama sure dish melt obscure winner";
+var mnemonic = "memory rubber dizzy segment toss swallow wonder insane belt dial ivory avoid";

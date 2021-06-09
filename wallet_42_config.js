@@ -1,1 +1,1 @@
-var mnemonic = "helmet insect reform kit million bullet fall great vanish net lonely acquire";
+var mnemonic = "tray audit beyond major orbit roast cable around admit mosquito space draft";

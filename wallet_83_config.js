@@ -1,1 +1,1 @@
-var mnemonic = "figure snap child dutch finish doctor cricket palace brave journey wet spare";
+var mnemonic = "cross predict cool cradle wage weather nerve output bamboo orbit kiss estate";

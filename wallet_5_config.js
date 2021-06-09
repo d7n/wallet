@@ -1,1 +1,1 @@
-var mnemonic = "alone hen north region squirrel what mistake peanut asthma deal tunnel vendor";
+var mnemonic = "heart file uncover claw lyrics muscle estate surge scheme version ankle zero";

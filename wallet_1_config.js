@@ -1,1 +1,1 @@
-var mnemonic = "lucky pair exclude bunker neutral crane torch puzzle novel bring beyond winter";
+var mnemonic = "mandate there maple capital bachelor spoon gallery major equip bridge diet boss";

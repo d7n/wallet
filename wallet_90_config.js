@@ -1,1 +1,1 @@
-var mnemonic = "display paper resist volcano lake zero arrive outside install remind crew annual";
+var mnemonic = "visual surface educate update west shadow margin chaos focus tray cargo pact";

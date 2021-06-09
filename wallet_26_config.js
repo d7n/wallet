@@ -1,1 +1,1 @@
-var mnemonic = "alcohol soft sign vote rocket vendor humor name concert good decrease ladder";
+var mnemonic = "wage discover ship position vanish shrug volume animal foot category dash resource";

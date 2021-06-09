@@ -1,1 +1,1 @@
-var mnemonic = "gloom shaft deliver valid lift slice glance around park traffic glory spend";
+var mnemonic = "side run gather cotton drastic execute fan expand conduct expect leisure strategy";

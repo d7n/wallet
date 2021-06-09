@@ -1,1 +1,1 @@
-var mnemonic = "sick interest decrease able public cloud turtle settle inquiry adapt earth all";
+var mnemonic = "system canoe slice palm social glare reduce bullet cheap invite wheel ginger";

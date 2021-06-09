@@ -1,1 +1,1 @@
-var mnemonic = "flag else solar potato jacket ostrich uniform hat type silver addict sheriff";
+var mnemonic = "amount pole word drift decide pyramid million artefact venue rubber hair industry";

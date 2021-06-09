@@ -1,1 +1,1 @@
-var mnemonic = "damage eyebrow guard lizard decide dismiss awkward route text six all sibling";
+var mnemonic = "length knee echo fish oyster frown middle opera cash hungry physical potato";

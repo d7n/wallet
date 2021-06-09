@@ -1,1 +1,1 @@
-var mnemonic = "poem rebel measure budget hat pepper female bubble orange fancy scout student";
+var mnemonic = "clutch crime hire obey lady minor material myself response crazy cave among";

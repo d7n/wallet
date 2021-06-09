@@ -1,1 +1,1 @@
-var mnemonic = "hub common toy truly gift merge sell law shuffle leader food force";
+var mnemonic = "ribbon physical twelve nominee strong virtual camera napkin soccer exotic bean visit";

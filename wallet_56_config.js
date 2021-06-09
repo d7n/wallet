@@ -1,1 +1,1 @@
-var mnemonic = "inform moon relax wise useless evil suffer imitate fluid switch below nose";
+var mnemonic = "walk waste relief inflict saddle prize section first scout blur galaxy ripple";

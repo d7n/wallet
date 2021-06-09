@@ -1,1 +1,1 @@
-var mnemonic = "private upper volcano tag obscure reunion tomato gather velvet fat announce zone";
+var mnemonic = "harvest scatter eye inch green manage solid funny benefit valid miss ranch";

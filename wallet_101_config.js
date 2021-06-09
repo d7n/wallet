@@ -1,1 +1,1 @@
-var mnemonic = "spread sound art fiction swift obey champion electric fresh want during nest";
+var mnemonic = "coyote heart live arrive pen spike disagree arena glass nut woman work";

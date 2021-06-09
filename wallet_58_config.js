@@ -1,1 +1,1 @@
-var mnemonic = "arrive family deer shrug slot category panel width depth service primary divert";
+var mnemonic = "uncle good problem receive account fatigue pet orphan much page leopard hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "behind angle cloud place member slam company finish aisle across slim group";
+var mnemonic = "mean love alarm target claw maze wine flip stand young welcome input";

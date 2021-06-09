@@ -1,1 +1,1 @@
-var mnemonic = "daughter feel october document network crack lion satisfy sea math fine jealous";
+var mnemonic = "now retire rally rent explain model decorate famous file physical coyote feed";

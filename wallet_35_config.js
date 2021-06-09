@@ -1,1 +1,1 @@
-var mnemonic = "diamond main ready lock spread head gold prevent action senior please axis";
+var mnemonic = "stage lion coach rely address rent argue face flee federal tribe poverty";

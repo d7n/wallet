@@ -1,1 +1,1 @@
-var mnemonic = "power couch fall combine mixture cotton beach climb leopard shoulder panther canyon";
+var mnemonic = "fancy color curious stable anxiety salon one win ranch arch first will";

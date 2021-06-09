@@ -1,1 +1,1 @@
-var mnemonic = "wreck visa century cannon slight cool embody jealous click harvest guilt ritual";
+var mnemonic = "catch able dignity guess west decorate hurt govern nut road chaos just";

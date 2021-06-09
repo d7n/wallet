@@ -1,1 +1,1 @@
-var mnemonic = "people knock edge life board innocent moment mirror tooth cement buyer unable";
+var mnemonic = "dust glow code still blue pause sock syrup fog above soon core";

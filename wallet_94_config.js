@@ -1,1 +1,1 @@
-var mnemonic = "capable bright tribe need luxury sugar banana notice fish pride purse dutch";
+var mnemonic = "reform comfort trigger bamboo envelope laundry exercise talent skirt upper math fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "road inform toilet zebra rail armor enough board undo tank oil start";
+var mnemonic = "twenty duck sweet siren bind ridge blast oven quote color mixture good";

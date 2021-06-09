@@ -1,1 +1,1 @@
-var mnemonic = "indoor term spot film abuse believe again mouse history aerobic art promote";
+var mnemonic = "hood among abuse buffalo guide immune evil tongue combine axis impose wash";

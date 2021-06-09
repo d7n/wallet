@@ -1,1 +1,1 @@
-var mnemonic = "rent small child level hidden solid monkey insect actual recall vague sheriff";
+var mnemonic = "field meadow oak govern network lock breeze pull pattern dutch lyrics vehicle";

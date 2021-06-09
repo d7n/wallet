@@ -1,1 +1,1 @@
-var mnemonic = "sugar market worry artefact jelly major picture uncover area grant mind dolphin";
+var mnemonic = "inquiry devote scout gadget bright notice spray west relief thank public recipe";

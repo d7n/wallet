@@ -1,1 +1,1 @@
-var mnemonic = "decorate stairs various sample surge dinosaur shoot patrol focus regret grid month";
+var mnemonic = "fuel dignity real knife glove orchard climb cause diary void fashion negative";

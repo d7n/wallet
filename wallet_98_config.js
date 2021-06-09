@@ -1,1 +1,1 @@
-var mnemonic = "hotel congress mercy index flee planet hotel shoulder predict whip file biology";
+var mnemonic = "rigid wave antique alley head dove capable wild hole rigid movie size";

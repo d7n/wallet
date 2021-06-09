@@ -1,1 +1,1 @@
-var mnemonic = "major depend miss lamp pudding hedgehog crazy birth teach hedgehog shop local";
+var mnemonic = "again copper snow erosion guard among taxi unfair inch wine matter detect";

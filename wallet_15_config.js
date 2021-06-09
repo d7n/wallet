@@ -1,1 +1,1 @@
-var mnemonic = "uphold require accident sea mail follow romance tilt awesome glimpse divorce orbit";
+var mnemonic = "ill undo lens orange soccer nominee dance universe certain merit lens corn";
