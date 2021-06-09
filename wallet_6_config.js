@@ -1,1 +1,1 @@
-var mnemonic = "mouse decorate potato gallery minimum decrease coyote miss chase clinic harvest message";
+var mnemonic = "peace flash doll attend sorry tower spread gift wink cycle leader arena";

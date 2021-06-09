@@ -1,1 +1,1 @@
-var mnemonic = "boat device unfold broccoli media smile injury stick silent orange human coil";
+var mnemonic = "rigid sleep puppy child novel people salad front throw million clerk black";

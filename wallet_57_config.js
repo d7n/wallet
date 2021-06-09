@@ -1,1 +1,1 @@
-var mnemonic = "buddy address develop pig useless metal physical various aunt hawk juice layer";
+var mnemonic = "balcony balcony excess during cost wise present include car federal piece few";

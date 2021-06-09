@@ -1,1 +1,1 @@
-var mnemonic = "copy tuition image ordinary crucial helmet first tortoise open abstract topple december";
+var mnemonic = "orange ranch inspire install brief muscle liar water release myself rather elevator";

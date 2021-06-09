@@ -1,1 +1,1 @@
-var mnemonic = "birth winner output forward once margin kiss smile other group ethics motor";
+var mnemonic = "gate anger pretty anchor promote wasp wild stem dice typical harvest shoe";

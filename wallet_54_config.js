@@ -1,1 +1,1 @@
-var mnemonic = "guess cloud fog brand claim electric access bicycle supreme essay armed under";
+var mnemonic = "cheese drink teach tube glare noise similar borrow pond ripple scare subway";

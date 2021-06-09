@@ -1,1 +1,1 @@
-var mnemonic = "arrange mirror lamp seat begin wool carbon blast crop push display settle";
+var mnemonic = "client cave rice purse pave reveal eternal dose vote reunion describe language";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber gun gorilla stable dial priority column virtual chase tumble two horror";
+var mnemonic = "perfect cabbage faculty drive actual harvest eager amazing olive shield smooth beef";

@@ -1,1 +1,1 @@
-var mnemonic = "actual slide verify point field party say device enter master debris spice";
+var mnemonic = "awkward verb crouch foster dinner damage fall disease okay fatal august collect";

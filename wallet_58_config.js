@@ -1,1 +1,1 @@
-var mnemonic = "lemon infant stereo bless spend among flavor rebuild man ginger estate wild";
+var mnemonic = "modify village salad material misery essence trigger endless east offer like volume";

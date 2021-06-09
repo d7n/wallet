@@ -1,1 +1,1 @@
-var mnemonic = "drill present normal safe arrow metal blame catch winner buffalo arm skill";
+var mnemonic = "omit stick mean magnet infant sauce engine adapt tank fringe swap river";

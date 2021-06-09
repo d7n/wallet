@@ -1,1 +1,1 @@
-var mnemonic = "poet february dance script repair pledge void jealous fetch tiger consider enough";
+var mnemonic = "history scatter remember owner setup large illness alien scrub betray online waste";

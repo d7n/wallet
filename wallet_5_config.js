@@ -1,1 +1,1 @@
-var mnemonic = "stumble pudding penalty casino dry excuse response phone raw hire onion club";
+var mnemonic = "leaf taxi goose hope artwork sheriff injury project rate dragon topple ill";

@@ -1,1 +1,1 @@
-var mnemonic = "include obvious good food bleak rib blind struggle problem arch sock assume";
+var mnemonic = "december fall layer option million flight neck soon all bulb series crime";

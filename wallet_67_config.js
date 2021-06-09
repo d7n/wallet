@@ -1,1 +1,1 @@
-var mnemonic = "farm coconut cliff eternal naive expose shiver zebra problem conduct busy admit";
+var mnemonic = "crumble tenant chimney large ability piece gallery mind spell boil silver chronic";

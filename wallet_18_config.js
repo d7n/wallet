@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon board monkey rapid example slab mercy dream lion arctic robust busy";
+var mnemonic = "slight park gloom fatigue seek home pepper repeat market menu absurd music";

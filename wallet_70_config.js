@@ -1,1 +1,1 @@
-var mnemonic = "agree grape tilt laugh harvest border arena narrow music life quiz borrow";
+var mnemonic = "rough antenna album refuse risk image flat sketch lift sponsor strike upgrade";

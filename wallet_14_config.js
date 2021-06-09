@@ -1,1 +1,1 @@
-var mnemonic = "humor put fat joke rabbit feature canal rally nuclear saddle index wrestle";
+var mnemonic = "topple limb bless educate kiss tenant police travel vocal kidney purse table";

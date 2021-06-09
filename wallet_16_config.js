@@ -1,1 +1,1 @@
-var mnemonic = "unfold film ceiling jump industry must humble salute win speed asthma surprise";
+var mnemonic = "race defense gauge spread sea snack kid another motion path kick lava";

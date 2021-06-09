@@ -1,1 +1,1 @@
-var mnemonic = "crucial refuse wire rough merry oil carpet result adjust better razor large";
+var mnemonic = "rug seek exit choose blanket donate melt will copy gold industry occur";

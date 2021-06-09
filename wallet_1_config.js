@@ -1,1 +1,1 @@
-var mnemonic = "twin ceiling leg artefact much grace upon donor inject salmon dose capital";
+var mnemonic = "peace panic salute wasp grit exercise concert code soccer develop maze auto";

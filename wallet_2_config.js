@@ -1,1 +1,1 @@
-var mnemonic = "eye lion bubble fix system sentence reject ugly trial fox into right";
+var mnemonic = "stone limb pitch solid pair adapt sudden parade harvest same resemble lift";

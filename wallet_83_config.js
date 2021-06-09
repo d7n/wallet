@@ -1,1 +1,1 @@
-var mnemonic = "business olive gold example seed canvas squeeze solve surround scheme tent material";
+var mnemonic = "run clown sunny creek rebuild text announce rack combine elbow announce document";

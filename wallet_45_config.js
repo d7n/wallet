@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo bean confirm else easy uncle sponsor churn clean engage journey smile";
+var mnemonic = "stem source cluster amateur shine mammal into fly cradle walk uncover few";

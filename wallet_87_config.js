@@ -1,1 +1,1 @@
-var mnemonic = "main blush naive sun venue jewel system supply behind neither alley lesson";
+var mnemonic = "correct lady spoil decrease fiber elegant beach unfold digital country curve practice";

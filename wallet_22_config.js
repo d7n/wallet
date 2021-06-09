@@ -1,1 +1,1 @@
-var mnemonic = "hazard leg abandon stem sad guide much hair salon april buddy win";
+var mnemonic = "giggle drift business swap thunder expand move cherry oblige regret such pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "return lumber manual claim father husband cry diesel inject ridge fork impact";
+var mnemonic = "bright pepper liquid refuse festival plug save planet immense spot actor insect";

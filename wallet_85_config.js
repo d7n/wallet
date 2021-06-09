@@ -1,1 +1,1 @@
-var mnemonic = "feature topic auto garage clay weapon inch park slogan gorilla approve minor";
+var mnemonic = "remember pink digital volume ostrich impulse please matter fold march skate carry";

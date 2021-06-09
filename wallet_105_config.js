@@ -1,1 +1,1 @@
-var mnemonic = "pride slender begin detail cancel blanket squeeze physical promote inspire page canoe";
+var mnemonic = "discover gallery buffalo sort vanish glance strike end table pink breeze oyster";

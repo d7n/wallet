@@ -1,1 +1,1 @@
-var mnemonic = "rate risk field valve remain area skirt club long parrot buyer ridge";
+var mnemonic = "under boost edge hello hedgehog cruel kangaroo modify enemy doctor attend ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual ketchup slow endorse bright believe punch jump clutch cram almost shrimp";
+var mnemonic = "crumble swamp submit laugh play before oblige problem pretty sleep claim manual";

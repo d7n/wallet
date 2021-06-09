@@ -1,1 +1,1 @@
-var mnemonic = "same figure blush oval danger run moon captain monster ten smoke brass";
+var mnemonic = "library evidence never witness eagle inquiry evoke leg review mutual ribbon clever";

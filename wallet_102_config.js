@@ -1,1 +1,1 @@
-var mnemonic = "rough green know assault trial aware acid drastic escape absent sketch kit";
+var mnemonic = "clown mom zoo come bind hawk dwarf sadness seed month pass board";

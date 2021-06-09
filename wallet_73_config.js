@@ -1,1 +1,1 @@
-var mnemonic = "pupil woman breeze grace armor wealth apple baby eye bind obey fee";
+var mnemonic = "valid cigar meat barely crucial domain magnet puzzle shoe drip second prefer";

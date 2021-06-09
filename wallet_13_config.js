@@ -1,1 +1,1 @@
-var mnemonic = "energy comfort margin inhale similar excite bachelor torch melody drip poem sun";
+var mnemonic = "rural praise amateur much virus resemble cabin stable side animal liberty praise";

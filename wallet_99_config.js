@@ -1,1 +1,1 @@
-var mnemonic = "atom marine addict axis gym hobby shiver sketch old accuse grid decide";
+var mnemonic = "guide wood milk bunker dry trend steak bounce together net harvest bone";

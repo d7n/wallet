@@ -1,1 +1,1 @@
-var mnemonic = "evil stove beyond method broom enemy tuition donate oak symbol group run";
+var mnemonic = "unfold embrace provide brave begin pretty trigger isolate lizard feed industry category";

@@ -1,1 +1,1 @@
-var mnemonic = "help blood barely such proud make forget guess later supply between next";
+var mnemonic = "camera project end motor ability unaware uncle glimpse lobster uncover path profit";

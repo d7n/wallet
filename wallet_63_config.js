@@ -1,1 +1,1 @@
-var mnemonic = "dizzy jazz elevator cost olympic picnic mobile train crystal orange range exile";
+var mnemonic = "era library sudden gorilla ritual head volume under sun cheap ripple ill";

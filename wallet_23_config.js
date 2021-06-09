@@ -1,1 +1,1 @@
-var mnemonic = "rate sign scrap exhaust pelican later ready few rookie satisfy crater today";
+var mnemonic = "sword because home tragic target execute festival junior sound undo question flight";

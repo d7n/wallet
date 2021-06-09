@@ -1,1 +1,1 @@
-var mnemonic = "oven sort clean great buffalo race detail require mixture abandon envelope used";
+var mnemonic = "cabin trumpet practice pupil tonight crowd negative rare absent opera gospel quote";

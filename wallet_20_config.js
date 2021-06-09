@@ -1,1 +1,1 @@
-var mnemonic = "intact mimic clinic nice evil charge joke sauce know estate library broken";
+var mnemonic = "keep perfect scale carbon head weapon pepper genius proof mixed decline income";

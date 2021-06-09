@@ -1,1 +1,1 @@
-var mnemonic = "chunk visual buddy common fat divert walnut crane vault gallery supreme such";
+var mnemonic = "scene wisdom match bulb total absorb broken novel siren ill venture globe";

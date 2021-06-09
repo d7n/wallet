@@ -1,1 +1,1 @@
-var mnemonic = "index virtual flock black boil unlock alert lecture similar wonder electric festival";
+var mnemonic = "ring solve scissors switch usual shoe lumber atom rare photo mule broccoli";

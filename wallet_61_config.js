@@ -1,1 +1,1 @@
-var mnemonic = "pole high shield input eagle galaxy gospel car weird endorse goddess rotate";
+var mnemonic = "caught unfair quarter race time save dutch program giggle omit whip since";

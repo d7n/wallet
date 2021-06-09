@@ -1,1 +1,1 @@
-var mnemonic = "latin clap link month wish east burden author intact quiz angle life";
+var mnemonic = "buzz loyal kidney fence inch key spoil artwork latin often beef common";

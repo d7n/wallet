@@ -1,1 +1,1 @@
-var mnemonic = "scan people glue tag bulb invite remind coin north salad appear height";
+var mnemonic = "lift swap please school thank razor dragon brief organ excess latin play";

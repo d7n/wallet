@@ -1,1 +1,1 @@
-var mnemonic = "lunch example cable diet initial poem goddess exit basic help course mad";
+var mnemonic = "gap window hurry liquid range board session song trade small spike client";

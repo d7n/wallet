@@ -1,1 +1,1 @@
-var mnemonic = "bone property index illegal cave uniform december pull race fame cheap surface";
+var mnemonic = "bag dash initial apple duty swing debate lady crumble tennis hub veteran";

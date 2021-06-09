@@ -1,1 +1,1 @@
-var mnemonic = "donate divert twenty choice kiss report violin artist awake method consider consider";
+var mnemonic = "dismiss armed buzz lion hand cradle beef supply setup audit neglect win";

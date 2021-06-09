@@ -1,1 +1,1 @@
-var mnemonic = "flavor door surface sunny hour amateur damage train open push asthma reflect";
+var mnemonic = "final horse ginger sight soul clay slim border bid board follow dirt";

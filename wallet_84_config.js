@@ -1,1 +1,1 @@
-var mnemonic = "yard awkward empower special cloth junior forward great weapon fork child wasp";
+var mnemonic = "ring milk ghost vital oblige fiber blade vote rebuild food autumn access";

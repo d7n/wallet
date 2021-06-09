@@ -1,1 +1,1 @@
-var mnemonic = "exclude glory summer bread summer marriage unveil target raise health fruit axis";
+var mnemonic = "maze bounce insect cactus amazing vibrant else flash palm motion version faint";

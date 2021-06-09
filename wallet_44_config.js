@@ -1,1 +1,1 @@
-var mnemonic = "topple spoon fever melt curtain chat include hard enter sell issue stumble";
+var mnemonic = "tribe sing bless gap minute fresh memory student spider lottery one top";

@@ -1,1 +1,1 @@
-var mnemonic = "child vanish cart fan tomorrow seed zoo police pole crash gun walk";
+var mnemonic = "ancient trim mixed various list cluster lunar lemon surface ostrich subject coral";

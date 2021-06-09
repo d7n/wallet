@@ -1,1 +1,1 @@
-var mnemonic = "globe word patch useful artwork echo elder blur robot woman industry select";
+var mnemonic = "furnace leg gasp submit print clock champion program tower old young bright";

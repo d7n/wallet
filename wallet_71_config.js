@@ -1,1 +1,1 @@
-var mnemonic = "where make noodle polar prize panther creek home burger exclude frozen mobile";
+var mnemonic = "meat pair lawsuit general hole whip uniform expand version size bullet until";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver cheap brain right stable warfare language worth steak fame coach erase";
+var mnemonic = "main sugar volcano ritual window charge carbon fan beach yellow fantasy winner";

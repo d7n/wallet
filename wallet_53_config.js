@@ -1,1 +1,1 @@
-var mnemonic = "fragile captain room around tiger avocado young reward three hello portion avocado";
+var mnemonic = "safe absent pitch energy rent mass trap poet harsh sniff pear apple";

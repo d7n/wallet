@@ -1,1 +1,1 @@
-var mnemonic = "pepper marriage gate parent intact toast burger lonely better naive top movie";
+var mnemonic = "vast share sunset volume curious away flame dash wonder field parent hammer";

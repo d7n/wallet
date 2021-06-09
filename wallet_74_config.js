@@ -1,1 +1,1 @@
-var mnemonic = "lucky measure surround leave test useless dizzy tube top music mix bag";
+var mnemonic = "denial empty garment mention smooth design either man tank pen skull grain";

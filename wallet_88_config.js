@@ -1,1 +1,1 @@
-var mnemonic = "agree release convince catch wink rug armor large cool glance stuff neutral";
+var mnemonic = "oxygen nature axis merit wave stand ability cage float young damp happy";

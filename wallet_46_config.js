@@ -1,1 +1,1 @@
-var mnemonic = "renew develop photo flag february alert cradle length music season correct junk";
+var mnemonic = "fat farm now rhythm cigar senior swallow infant transfer elegant work spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "fit sunny nice swing paper pool exhibit galaxy cabin hunt smile move";
+var mnemonic = "atom snake arrive escape oak step income bird primary fire horn draw";

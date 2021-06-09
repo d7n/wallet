@@ -1,1 +1,1 @@
-var mnemonic = "fancy wave visit rack act fantasy duck magnet focus trigger board cement";
+var mnemonic = "shiver steel delay crush over reform rubber improve reunion prize trouble else";

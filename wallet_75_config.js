@@ -1,1 +1,1 @@
-var mnemonic = "reveal comfort response actor tomato mobile truly toss spawn duck hood they";
+var mnemonic = "clay flip pupil elder page orbit slice scissors sick flight claim cricket";

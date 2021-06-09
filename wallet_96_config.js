@@ -1,1 +1,1 @@
-var mnemonic = "element bunker rose faculty blame embody volcano civil seed shy law sand";
+var mnemonic = "poverty fatigue patient input honey else exhaust luggage used prize exotic noodle";

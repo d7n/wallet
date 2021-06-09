@@ -1,1 +1,1 @@
-var mnemonic = "close secret hip good sunny forest gloom glad safe once sunset subject";
+var mnemonic = "stove runway early winner board salt acid wise foot disagree extend tip";

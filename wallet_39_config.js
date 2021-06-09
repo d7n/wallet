@@ -1,1 +1,1 @@
-var mnemonic = "submit hood aware visit misery asset arrive mechanic become bicycle lobster maximum";
+var mnemonic = "impose parrot jacket chaos attract sing ticket loud easy height burst hire";

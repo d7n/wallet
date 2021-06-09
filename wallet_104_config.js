@@ -1,1 +1,1 @@
-var mnemonic = "mouse mean parrot defense annual achieve connect trade hair earn angry cycle";
+var mnemonic = "twenty ceiling mistake walnut small edit raccoon sound diamond weird visual blanket";

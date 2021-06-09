@@ -1,1 +1,1 @@
-var mnemonic = "title loyal differ walnut regret shy crunch fitness attitude notable pizza base";
+var mnemonic = "brave motion owner audit measure salute someone invite faculty confirm sheriff vital";

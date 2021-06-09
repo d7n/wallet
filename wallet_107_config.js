@@ -1,1 +1,1 @@
-var mnemonic = "hair drop actor memory chunk put slam guilt enlist grape extend express";
+var mnemonic = "universe spread live enter aim limit company parent monkey action agent assault";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer sea lucky arena sadness discover fault mind volcano virtual today such";
+var mnemonic = "ocean bubble echo common dinosaur juice human hard copy income result range";

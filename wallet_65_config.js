@@ -1,1 +1,1 @@
-var mnemonic = "office broken divert steak decade moon result thing float ill cute frequent";
+var mnemonic = "mass view gospel refuse blast much blood limit canvas notice relax receive";

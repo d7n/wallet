@@ -1,1 +1,1 @@
-var mnemonic = "toddler kangaroo pledge treat useful talk draft motor silver silly moon carpet";
+var mnemonic = "such accident wonder arm absurd write swap property plate advance field rhythm";

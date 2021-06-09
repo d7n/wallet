@@ -1,1 +1,1 @@
-var mnemonic = "acoustic scan space roof post pizza urge regret loan hill warm palm";
+var mnemonic = "assist decrease problem dawn control arrange survey sound predict myself industry engine";

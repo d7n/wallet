@@ -1,1 +1,1 @@
-var mnemonic = "visual escape bind damp drive sudden pill satisfy praise lottery huge accident";
+var mnemonic = "regular future record buyer thrive rural okay between symptom concert tomato creek";

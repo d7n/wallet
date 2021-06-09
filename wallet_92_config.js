@@ -1,1 +1,1 @@
-var mnemonic = "only host shaft vacuum pencil lemon bottom lens false envelope cube home";
+var mnemonic = "slender fortune cheese noble fit zoo bar salt clock city improve shiver";

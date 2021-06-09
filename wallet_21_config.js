@@ -1,1 +1,1 @@
-var mnemonic = "muffin art call jeans brave prize smoke reopen chapter gain ahead soup";
+var mnemonic = "lend album accuse guilt ethics brain typical decade exchange monitor gain civil";

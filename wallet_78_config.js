@@ -1,1 +1,1 @@
-var mnemonic = "toward pitch amateur bundle smart unhappy juice cushion quiz setup glad donor";
+var mnemonic = "setup page blush minimum head wide east ice render surface orphan rescue";

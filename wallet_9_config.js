@@ -1,1 +1,1 @@
-var mnemonic = "dynamic swarm addict faith lizard pig sick used robot worry despair off";
+var mnemonic = "knock upset vibrant virtual caught salt pipe napkin vessel silver client side";

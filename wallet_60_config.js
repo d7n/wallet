@@ -1,1 +1,1 @@
-var mnemonic = "sail tenant unaware awesome juice sponsor museum table viable connect omit legal";
+var mnemonic = "juice injury skate rhythm figure switch vivid insane crater attitude maid mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken harbor file scare diet hybrid ivory pen small safe few sense";
+var mnemonic = "top sister mesh gown paper resist wife blast stay denial inflict spirit";

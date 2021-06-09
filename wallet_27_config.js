@@ -1,1 +1,1 @@
-var mnemonic = "enhance giggle smooth burden thank rude face drive parade syrup accident script";
+var mnemonic = "company drama eager promote save canal accuse fall enhance load wine twice";

@@ -1,1 +1,1 @@
-var mnemonic = "magic drum relax plug actress finish general injury labor buffalo soon roof";
+var mnemonic = "beyond decade coach pattern clinic side pet mosquito focus humor rent rifle";

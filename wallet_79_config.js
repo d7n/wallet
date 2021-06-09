@@ -1,1 +1,1 @@
-var mnemonic = "senior wave umbrella label garlic virtual local music detect design loop black";
+var mnemonic = "forward fence hammer chunk later execute betray pig merit excuse panic question";

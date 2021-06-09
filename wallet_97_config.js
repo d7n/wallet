@@ -1,1 +1,1 @@
-var mnemonic = "case lazy fun design cliff slot spy radio bench amateur oval clerk";
+var mnemonic = "sea state never crime connect salt onion collect main slow ring control";

@@ -1,1 +1,1 @@
-var mnemonic = "axis warrior bench rib flush play crystal kangaroo squirrel sail hip tiger";
+var mnemonic = "balance party clap hen slush spin maid add few inform buyer together";

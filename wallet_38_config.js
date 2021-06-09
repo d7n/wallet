@@ -1,1 +1,1 @@
-var mnemonic = "meat print smooth wear same total snack text grid blue mammal collect";
+var mnemonic = "crater magic alter degree derive vital hedgehog frozen artefact add right tank";
