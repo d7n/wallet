@@ -1,1 +1,1 @@
-var mnemonic = "rough antenna album refuse risk image flat sketch lift sponsor strike upgrade";
+var mnemonic = "medal army dizzy vital cereal stem tool shy lonely manual shadow come";

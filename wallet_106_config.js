@@ -1,1 +1,1 @@
-var mnemonic = "rigid sleep puppy child novel people salad front throw million clerk black";
+var mnemonic = "daughter feel october document network crack lion satisfy sea math fine jealous";

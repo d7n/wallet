@@ -1,1 +1,1 @@
-var mnemonic = "sword word lunch negative flock deputy clown bundle hybrid radio shock matter";
+var mnemonic = "shift security what sniff clown seven silk ladder daring nest sustain gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "top sister mesh gown paper resist wife blast stay denial inflict spirit";
+var mnemonic = "drill desk lemon scorpion arrest ring badge praise muffin female offer canyon";

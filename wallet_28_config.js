@@ -1,1 +1,1 @@
-var mnemonic = "shiver steel delay crush over reform rubber improve reunion prize trouble else";
+var mnemonic = "try play hurdle end notable oblige make job tumble meadow away field";

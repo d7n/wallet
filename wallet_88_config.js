@@ -1,1 +1,1 @@
-var mnemonic = "oxygen nature axis merit wave stand ability cage float young damp happy";
+var mnemonic = "lawn wild foam spread loyal raise hotel pear aim dog wash feel";

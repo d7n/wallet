@@ -1,1 +1,1 @@
-var mnemonic = "burger use attract tackle major filter rapid simple success dust moon butter";
+var mnemonic = "hub common toy truly gift merge sell law shuffle leader food force";

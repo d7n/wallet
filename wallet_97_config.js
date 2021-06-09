@@ -1,1 +1,1 @@
-var mnemonic = "sea state never crime connect salt onion collect main slow ring control";
+var mnemonic = "promote leaf famous chalk category shield device breeze nerve work energy pulp";

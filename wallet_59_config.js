@@ -1,1 +1,1 @@
-var mnemonic = "stove runway early winner board salt acid wise foot disagree extend tip";
+var mnemonic = "indoor term spot film abuse believe again mouse history aerobic art promote";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology pioneer tuition able cart vacuum depth install sand measure motion pencil";
+var mnemonic = "diamond main ready lock spread head gold prevent action senior please axis";

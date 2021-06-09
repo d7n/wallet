@@ -1,1 +1,1 @@
-var mnemonic = "atom snake arrive escape oak step income bird primary fire horn draw";
+var mnemonic = "shine fatigue snap asset glow slice ice two attract oyster pond eight";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf taxi goose hope artwork sheriff injury project rate dragon topple ill";
+var mnemonic = "alone hen north region squirrel what mistake peanut asthma deal tunnel vendor";

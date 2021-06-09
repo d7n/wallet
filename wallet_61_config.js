@@ -1,1 +1,1 @@
-var mnemonic = "caught unfair quarter race time save dutch program giggle omit whip since";
+var mnemonic = "type noise heart toast gossip off deny school picnic crack consider casual";

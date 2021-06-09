@@ -1,1 +1,1 @@
-var mnemonic = "stem source cluster amateur shine mammal into fly cradle walk uncover few";
+var mnemonic = "road inform toilet zebra rail armor enough board undo tank oil start";

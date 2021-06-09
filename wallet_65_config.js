@@ -1,1 +1,1 @@
-var mnemonic = "mass view gospel refuse blast much blood limit canvas notice relax receive";
+var mnemonic = "people knock edge life board innocent moment mirror tooth cement buyer unable";

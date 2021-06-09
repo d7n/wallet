@@ -1,1 +1,1 @@
-var mnemonic = "vast share sunset volume curious away flame dash wonder field parent hammer";
+var mnemonic = "corn leisure rookie case scheme soccer behind enable kite always swim current";

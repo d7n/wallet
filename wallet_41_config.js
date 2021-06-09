@@ -1,1 +1,1 @@
-var mnemonic = "loop invest canoe nose hour frozen hover alien one trick slow action";
+var mnemonic = "bachelor fortune laugh wrap second fly scheme aisle tape paddle taxi park";

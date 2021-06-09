@@ -1,1 +1,1 @@
-var mnemonic = "clay flip pupil elder page orbit slice scissors sick flight claim cricket";
+var mnemonic = "moment sound search satoshi theme that vintage true mobile matter raw blush";

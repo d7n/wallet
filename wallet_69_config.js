@@ -1,1 +1,1 @@
-var mnemonic = "second order virus struggle veteran wink wrist often blame math video dignity";
+var mnemonic = "square symbol smile parent trim body permit index force obvious wash fame";

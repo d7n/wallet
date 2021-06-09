@@ -1,1 +1,1 @@
-var mnemonic = "remember pink digital volume ostrich impulse please matter fold march skate carry";
+var mnemonic = "rent small child level hidden solid monkey insect actual recall vague sheriff";

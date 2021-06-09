@@ -1,1 +1,1 @@
-var mnemonic = "cabin trumpet practice pupil tonight crowd negative rare absent opera gospel quote";
+var mnemonic = "sick interest decrease able public cloud turtle settle inquiry adapt earth all";

@@ -1,1 +1,1 @@
-var mnemonic = "race defense gauge spread sea snack kid another motion path kick lava";
+var mnemonic = "wreck visa century cannon slight cool embody jealous click harvest guilt ritual";

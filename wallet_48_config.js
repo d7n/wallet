@@ -1,1 +1,1 @@
-var mnemonic = "clay daring champion return crush fragile train disease orient master rent lobster";
+var mnemonic = "artefact biology resource chat bus clap jealous vital smart nuclear mail spin";

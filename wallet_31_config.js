@@ -1,1 +1,1 @@
-var mnemonic = "awkward verb crouch foster dinner damage fall disease okay fatal august collect";
+var mnemonic = "awesome ginger picnic deny series tent stairs veteran victory churn hawk picture";

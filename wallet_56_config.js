@@ -1,1 +1,1 @@
-var mnemonic = "beyond decade coach pattern clinic side pet mosquito focus humor rent rifle";
+var mnemonic = "inform moon relax wise useless evil suffer imitate fluid switch below nose";

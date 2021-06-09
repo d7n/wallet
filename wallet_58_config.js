@@ -1,1 +1,1 @@
-var mnemonic = "modify village salad material misery essence trigger endless east offer like volume";
+var mnemonic = "arrive family deer shrug slot category panel width depth service primary divert";

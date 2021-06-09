@@ -1,1 +1,1 @@
-var mnemonic = "clown mom zoo come bind hawk dwarf sadness seed month pass board";
+var mnemonic = "brass sadness depth spray brother dash almost spend cover match left winner";

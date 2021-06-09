@@ -1,1 +1,1 @@
-var mnemonic = "fat farm now rhythm cigar senior swallow infant transfer elegant work spoil";
+var mnemonic = "wall since rabbit card spray seminar bring people tank entry budget clock";

@@ -1,1 +1,1 @@
-var mnemonic = "knock upset vibrant virtual caught salt pipe napkin vessel silver client side";
+var mnemonic = "cruise transfer clap cat music beyond flight urge galaxy work beauty join";

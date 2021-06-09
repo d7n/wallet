@@ -1,1 +1,1 @@
-var mnemonic = "bleak crystal coconut breeze core globe define royal offer online home when";
+var mnemonic = "damage eyebrow guard lizard decide dismiss awkward route text six all sibling";

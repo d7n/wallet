@@ -1,1 +1,1 @@
-var mnemonic = "error report symptom peace tumble holiday mail nice able wet cable absurd";
+var mnemonic = "raven twist around lesson antenna maple device now notice donkey vault loop";

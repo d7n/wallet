@@ -1,1 +1,1 @@
-var mnemonic = "sleep tumble minute crew kiwi shoulder then switch photo inside sock parent";
+var mnemonic = "together market much acquire adjust reject gauge size image include relief dove";

@@ -1,1 +1,1 @@
-var mnemonic = "lend album accuse guilt ethics brain typical decade exchange monitor gain civil";
+var mnemonic = "refuse piece dust habit gravity zero divide logic plate dream envelope federal";

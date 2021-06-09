@@ -1,1 +1,1 @@
-var mnemonic = "tribe sing bless gap minute fresh memory student spider lottery one top";
+var mnemonic = "rain spatial over dad strategy amateur gift sign marriage gas sausage improve";

@@ -1,1 +1,1 @@
-var mnemonic = "any churn sleep churn host group exit width earth govern reflect math";
+var mnemonic = "such truly endless excite flower possible inhale elegant apology color health until";

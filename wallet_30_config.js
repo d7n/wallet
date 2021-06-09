@@ -1,1 +1,1 @@
-var mnemonic = "bag dash initial apple duty swing debate lady crumble tennis hub veteran";
+var mnemonic = "power couch fall combine mixture cotton beach climb leopard shoulder panther canyon";

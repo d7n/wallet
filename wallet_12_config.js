@@ -1,1 +1,1 @@
-var mnemonic = "under boost edge hello hedgehog cruel kangaroo modify enemy doctor attend ocean";
+var mnemonic = "faith anxiety culture tongue awkward dog buyer fatal hybrid cinnamon toy rib";

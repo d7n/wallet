@@ -1,1 +1,1 @@
-var mnemonic = "slight park gloom fatigue seek home pepper repeat market menu absurd music";
+var mnemonic = "toilet quality debris segment filter meadow gun trophy similar violin witness blouse";

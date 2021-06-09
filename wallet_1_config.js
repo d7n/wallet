@@ -1,1 +1,1 @@
-var mnemonic = "peace panic salute wasp grit exercise concert code soccer develop maze auto";
+var mnemonic = "lucky pair exclude bunker neutral crane torch puzzle novel bring beyond winter";

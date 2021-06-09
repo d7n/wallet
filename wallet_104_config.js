@@ -1,1 +1,1 @@
-var mnemonic = "twenty ceiling mistake walnut small edit raccoon sound diamond weird visual blanket";
+var mnemonic = "urge pitch grid sketch tank flash there come net twist dress scrub";

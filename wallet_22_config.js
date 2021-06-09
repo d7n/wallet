@@ -1,1 +1,1 @@
-var mnemonic = "giggle drift business swap thunder expand move cherry oblige regret such pigeon";
+var mnemonic = "sugar market worry artefact jelly major picture uncover area grant mind dolphin";

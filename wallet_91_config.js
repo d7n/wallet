@@ -1,1 +1,1 @@
-var mnemonic = "ring solve scissors switch usual shoe lumber atom rare photo mule broccoli";
+var mnemonic = "decorate stairs various sample surge dinosaur shoot patrol focus regret grid month";

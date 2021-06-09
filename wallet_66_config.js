@@ -1,1 +1,1 @@
-var mnemonic = "expect bean square begin board reject spend random walnut hurdle sister flat";
+var mnemonic = "flag else solar potato jacket ostrich uniform hat type silver addict sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "camera project end motor ability unaware uncle glimpse lobster uncover path profit";
+var mnemonic = "display paper resist volcano lake zero arrive outside install remind crew annual";

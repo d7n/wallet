@@ -1,1 +1,1 @@
-var mnemonic = "juice injury skate rhythm figure switch vivid insane crater attitude maid mammal";
+var mnemonic = "orchard review adapt tackle aerobic junk gauge base confirm apple lava stuff";

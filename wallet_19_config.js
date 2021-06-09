@@ -1,1 +1,1 @@
-var mnemonic = "ancient trim mixed various list cluster lunar lemon surface ostrich subject coral";
+var mnemonic = "reopen improve critic shrimp figure dignity canyon book cat peasant album advance";

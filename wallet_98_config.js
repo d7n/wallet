@@ -1,1 +1,1 @@
-var mnemonic = "cave check photo tattoo fun oblige height predict cupboard near rate bronze";
+var mnemonic = "hotel congress mercy index flee planet hotel shoulder predict whip file biology";

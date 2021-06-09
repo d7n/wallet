@@ -1,1 +1,1 @@
-var mnemonic = "final horse ginger sight soul clay slim border bid board follow dirt";
+var mnemonic = "bacon boil sadness scheme indoor apology slender minute penalty abstract parrot invite";

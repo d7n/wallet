@@ -1,1 +1,1 @@
-var mnemonic = "peace flash doll attend sorry tower spread gift wink cycle leader arena";
+var mnemonic = "wheel metal noise desert main churn glare arm since total estate release";

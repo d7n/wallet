@@ -1,1 +1,1 @@
-var mnemonic = "such accident wonder arm absurd write swap property plate advance field rhythm";
+var mnemonic = "region pencil wink awesome lazy smoke mass coyote mansion infant disorder clay";

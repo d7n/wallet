@@ -1,1 +1,1 @@
-var mnemonic = "run clown sunny creek rebuild text announce rack combine elbow announce document";
+var mnemonic = "figure snap child dutch finish doctor cricket palace brave journey wet spare";

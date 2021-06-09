@@ -1,1 +1,1 @@
-var mnemonic = "client cave rice purse pave reveal eternal dose vote reunion describe language";
+var mnemonic = "merge pond about year poverty slam century letter random shoot glory reward";

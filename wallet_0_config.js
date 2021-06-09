@@ -1,1 +1,1 @@
-var mnemonic = "main sugar volcano ritual window charge carbon fan beach yellow fantasy winner";
+var mnemonic = "wasp top adjust end elevator forget suit again addict dirt empty boost";

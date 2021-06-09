@@ -1,1 +1,1 @@
-var mnemonic = "express code regular shiver mom snack toe staff dolphin auto turkey hint";
+var mnemonic = "poem rebel measure budget hat pepper female bubble orange fancy scout student";

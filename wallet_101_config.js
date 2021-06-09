@@ -1,1 +1,1 @@
-var mnemonic = "assist decrease problem dawn control arrange survey sound predict myself industry engine";
+var mnemonic = "spread sound art fiction swift obey champion electric fresh want during nest";

@@ -1,1 +1,1 @@
-var mnemonic = "lift swap please school thank razor dragon brief organ excess latin play";
+var mnemonic = "monster canoe tape disagree polar nephew scout accident arm holiday gather lesson";

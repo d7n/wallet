@@ -1,1 +1,1 @@
-var mnemonic = "omit stick mean magnet infant sauce engine adapt tank fringe swap river";
+var mnemonic = "capable bright tribe need luxury sugar banana notice fish pride purse dutch";

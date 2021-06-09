@@ -1,1 +1,1 @@
-var mnemonic = "era library sudden gorilla ritual head volume under sun cheap ripple ill";
+var mnemonic = "escape isolate poet bunker cycle knee vehicle water tribe live valley outer";

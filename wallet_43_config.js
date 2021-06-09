@@ -1,1 +1,1 @@
-var mnemonic = "bright pepper liquid refuse festival plug save planet immense spot actor insect";
+var mnemonic = "sponsor share that furnace chaos merry bless that piece air summer super";

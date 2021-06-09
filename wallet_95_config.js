@@ -1,1 +1,1 @@
-var mnemonic = "history scatter remember owner setup large illness alien scrub betray online waste";
+var mnemonic = "major depend miss lamp pudding hedgehog crazy birth teach hedgehog shop local";

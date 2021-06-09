@@ -1,1 +1,1 @@
-var mnemonic = "staff rail midnight onion risk bundle maze loop link sheriff elephant dragon";
+var mnemonic = "alone half recipe alcohol sibling pact grape source clarify alien bitter indicate";

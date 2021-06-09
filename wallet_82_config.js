@@ -1,1 +1,1 @@
-var mnemonic = "snack month potato term cause then legend beyond bike label betray december";
+var mnemonic = "keen sausage final labor dinner rely action aerobic diamond empty glad penalty";

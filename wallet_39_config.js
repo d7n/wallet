@@ -1,1 +1,1 @@
-var mnemonic = "impose parrot jacket chaos attract sing ticket loud easy height burst hire";
+var mnemonic = "swing energy weapon inch embody globe pulse trim special enter behave file";

@@ -1,1 +1,1 @@
-var mnemonic = "setup page blush minimum head wide east ice render surface orphan rescue";
+var mnemonic = "rocket uphold cycle layer version wolf evoke today nut sight assault minute";

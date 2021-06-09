@@ -1,1 +1,1 @@
-var mnemonic = "gap window hurry liquid range board session song trade small spike client";
+var mnemonic = "alcohol soft sign vote rocket vendor humor name concert good decrease ladder";

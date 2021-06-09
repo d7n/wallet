@@ -1,1 +1,1 @@
-var mnemonic = "regular future record buyer thrive rural okay between symptom concert tomato creek";
+var mnemonic = "master stomach select frog aspect attack actual online wonder junk select canoe";

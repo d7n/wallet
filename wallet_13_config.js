@@ -1,1 +1,1 @@
-var mnemonic = "rural praise amateur much virus resemble cabin stable side animal liberty praise";
+var mnemonic = "direct never brick bench often mercy ripple noble tunnel throw law outside";

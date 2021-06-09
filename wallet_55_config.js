@@ -1,1 +1,1 @@
-var mnemonic = "awake cross bonus benefit celery dress upset travel alley return glance smart";
+var mnemonic = "betray sketch theme glide recall pistol upgrade alcohol lens system inner charge";

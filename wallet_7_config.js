@@ -1,1 +1,1 @@
-var mnemonic = "orange ranch inspire install brief muscle liar water release myself rather elevator";
+var mnemonic = "royal swift blind topic slice there siege potato garden spell dash exercise";

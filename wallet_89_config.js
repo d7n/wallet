@@ -1,1 +1,1 @@
-var mnemonic = "brave motion owner audit measure salute someone invite faculty confirm sheriff vital";
+var mnemonic = "cage zone mango strike daughter ring feel typical airport state birth network";

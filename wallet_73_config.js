@@ -1,1 +1,1 @@
-var mnemonic = "valid cigar meat barely crucial domain magnet puzzle shoe drip second prefer";
+var mnemonic = "cheese lyrics attract giggle slow truck area cabin toast fruit carry lake";

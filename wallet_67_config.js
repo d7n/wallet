@@ -1,1 +1,1 @@
-var mnemonic = "crumble tenant chimney large ability piece gallery mind spell boil silver chronic";
+var mnemonic = "fatal mouse brick acoustic horror tide armor enrich grit trigger meat code";

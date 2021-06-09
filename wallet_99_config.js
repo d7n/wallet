@@ -1,1 +1,1 @@
-var mnemonic = "guide wood milk bunker dry trend steak bounce together net harvest bone";
+var mnemonic = "unknown diagram shock knife cliff multiply candy movie embody gloom obey human";

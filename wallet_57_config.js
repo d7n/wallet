@@ -1,1 +1,1 @@
-var mnemonic = "balcony balcony excess during cost wise present include car federal piece few";
+var mnemonic = "layer scrub beauty found poverty subject cargo pledge planet boil script raise";

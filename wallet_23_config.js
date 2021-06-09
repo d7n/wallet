@@ -1,1 +1,1 @@
-var mnemonic = "sword because home tragic target execute festival junior sound undo question flight";
+var mnemonic = "dove night humble miss sniff power swallow involve snack obtain access swim";

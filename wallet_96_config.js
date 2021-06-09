@@ -1,1 +1,1 @@
-var mnemonic = "poverty fatigue patient input honey else exhaust luggage used prize exotic noodle";
+var mnemonic = "whip problem flush host drum party blur dad collect slide exist error";

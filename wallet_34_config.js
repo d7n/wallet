@@ -1,1 +1,1 @@
-var mnemonic = "dismiss armed buzz lion hand cradle beef supply setup audit neglect win";
+var mnemonic = "fortune oyster solution eternal sad before laptop exit rally pyramid monitor flower";

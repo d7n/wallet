@@ -1,1 +1,1 @@
-var mnemonic = "forward fence hammer chunk later execute betray pig merit excuse panic question";
+var mnemonic = "stamp nuclear excite great climb august nut post black aware rent mandate";

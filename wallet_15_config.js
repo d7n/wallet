@@ -1,1 +1,1 @@
-var mnemonic = "scene wisdom match bulb total absorb broken novel siren ill venture globe";
+var mnemonic = "uphold require accident sea mail follow romance tilt awesome glimpse divorce orbit";

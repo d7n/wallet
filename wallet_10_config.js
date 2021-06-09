@@ -1,1 +1,1 @@
-var mnemonic = "gate anger pretty anchor promote wasp wild stem dice typical harvest shoe";
+var mnemonic = "element small brass cruel find plug process tray omit sail problem soft";

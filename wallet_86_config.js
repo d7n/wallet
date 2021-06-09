@@ -1,1 +1,1 @@
-var mnemonic = "rug seek exit choose blanket donate melt will copy gold industry occur";
+var mnemonic = "eight bracket couch tube funny tuition lottery bonus volume ancient favorite blanket";

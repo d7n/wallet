@@ -1,1 +1,1 @@
-var mnemonic = "recall country ice outside grain brown ginger danger juice step nut squirrel";
+var mnemonic = "gloom shaft deliver valid lift slice glance around park traffic glory spend";
