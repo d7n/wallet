@@ -1,1 +1,1 @@
-var mnemonic = "gain never empty artwork magnet know traffic trash rubber april unfold hero";
+var mnemonic = "menu soap waste muffin outer faith raise alpha clean remain curtain rack";

@@ -1,1 +1,1 @@
-var mnemonic = "little quick narrow warfare surface reflect forget onion spoon caught student hungry";
+var mnemonic = "movie pioneer giraffe original lobster slide resemble glory imitate feed foam disagree";

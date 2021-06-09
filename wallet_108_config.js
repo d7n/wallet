@@ -1,1 +1,1 @@
-var mnemonic = "melody mistake skull sure lawsuit dignity elevator accuse hen local will save";
+var mnemonic = "kick toy rally various sheriff give hand bulb awkward wagon word hard";

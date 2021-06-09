@@ -1,1 +1,1 @@
-var mnemonic = "organ wire cover camp vacuum garlic square cluster shop boss front denial";
+var mnemonic = "burger until alpha gather select strategy stick gorilla script owner laugh attract";

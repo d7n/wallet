@@ -1,1 +1,1 @@
-var mnemonic = "gloom around term message appear blouse path isolate toy vivid brother echo";
+var mnemonic = "office brown basket husband hip olive cliff tourist pizza panel alley rival";

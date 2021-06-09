@@ -1,1 +1,1 @@
-var mnemonic = "mouse royal minute breeze wool portion rebuild satisfy mystery virus pond net";
+var mnemonic = "sure narrow ski sister chest neck obvious december gym uniform ancient student";

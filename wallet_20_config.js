@@ -1,1 +1,1 @@
-var mnemonic = "guard friend spread photo print pizza cup normal just bind shift provide";
+var mnemonic = "outside april move flight pole stem company tide blind fiber hill turn";

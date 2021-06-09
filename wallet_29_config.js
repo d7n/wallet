@@ -1,1 +1,1 @@
-var mnemonic = "hungry property essay leader soccer hill derive useless cabbage yard language fruit";
+var mnemonic = "hill cradle match gossip snake afraid party powder room loud annual clog";

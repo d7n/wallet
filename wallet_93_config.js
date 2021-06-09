@@ -1,1 +1,1 @@
-var mnemonic = "grab soul scout august hat essay whale bright upset veteran suit reason";
+var mnemonic = "exist sword vessel melody boss plug census prevent margin few argue vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "special soldier trend cancel diet another sister rival genius hope gate anxiety";
+var mnemonic = "task suspect lunar either fly pole hair decorate party bubble ribbon belt";

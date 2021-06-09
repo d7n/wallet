@@ -1,1 +1,1 @@
-var mnemonic = "exclude bamboo civil despair bicycle text hand camera spike man account sketch";
+var mnemonic = "debris idea right festival shrug giant until latin labor hint spin replace";

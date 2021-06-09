@@ -1,1 +1,1 @@
-var mnemonic = "detail rich half ugly base casino index car absorb lunar symbol fan";
+var mnemonic = "monster disorder fold upon lyrics spoon tape major pride swallow stage miss";

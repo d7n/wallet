@@ -1,1 +1,1 @@
-var mnemonic = "spider vessel night expire smile glance decrease artist torch kid stove heart";
+var mnemonic = "wine predict toilet entire wonder copy repeat load abstract final ski audit";

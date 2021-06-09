@@ -1,1 +1,1 @@
-var mnemonic = "voyage twist cash brand increase antenna heart grab outdoor salute fabric scatter";
+var mnemonic = "blast nothing core welcome element act miss aware siege exist clerk busy";

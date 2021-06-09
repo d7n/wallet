@@ -1,1 +1,1 @@
-var mnemonic = "gift into useless decrease city vacuum grass next stuff solve produce heart";
+var mnemonic = "sail evolve ritual dinner frown youth lady long mechanic absent enrich fix";

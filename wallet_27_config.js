@@ -1,1 +1,1 @@
-var mnemonic = "know diary spy cannon click sound orphan boil enforce breeze best reject";
+var mnemonic = "high candy close poet sunset excess false whale keen spatial honey eager";

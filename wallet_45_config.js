@@ -1,1 +1,1 @@
-var mnemonic = "disease market situate injury find note spike cry jelly assist custom shrimp";
+var mnemonic = "butter nose fence young smile property labor toy entire act artefact calm";

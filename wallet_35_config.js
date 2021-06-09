@@ -1,1 +1,1 @@
-var mnemonic = "pupil ridge loop prepare beach excess token correct write attract brother kiss";
+var mnemonic = "say annual you also reform side robust piece auto outside reform potato";

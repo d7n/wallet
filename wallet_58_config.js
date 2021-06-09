@@ -1,1 +1,1 @@
-var mnemonic = "symbol rebuild sure depart scare exist load either advance curious fiction great";
+var mnemonic = "arrow laptop since spoil advice approve paddle salmon hill spin emerge hair";

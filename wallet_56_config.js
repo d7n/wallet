@@ -1,1 +1,1 @@
-var mnemonic = "stadium humble sun error flush easily talk rent clerk ocean toe own";
+var mnemonic = "write quote ritual ramp pigeon nose grow aunt friend impose damage card";

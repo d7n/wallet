@@ -1,1 +1,1 @@
-var mnemonic = "kiss obtain attack hat fan give fiscal fame walk seek return around";
+var mnemonic = "antique opinion audit dawn pretty eagle movie trade gauge spot onion filter";

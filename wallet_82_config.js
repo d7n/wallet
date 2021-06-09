@@ -1,1 +1,1 @@
-var mnemonic = "sausage circle hill road work dirt cliff myth asset firm race version";
+var mnemonic = "scissors party dentist basket tackle walnut demise sustain produce gate clean axis";

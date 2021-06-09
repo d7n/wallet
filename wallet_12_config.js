@@ -1,1 +1,1 @@
-var mnemonic = "flip ball bench grace argue select wrist angle pupil cupboard pink dolphin";
+var mnemonic = "comic reform fresh behind lawn sugar age crawl melt escape tent illegal";

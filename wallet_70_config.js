@@ -1,1 +1,1 @@
-var mnemonic = "fetch dinner resource eagle baby tape scrap decorate top gauge decade retreat";
+var mnemonic = "blanket zebra oblige blade cream where mule lamp lunch fit shrimp ramp";

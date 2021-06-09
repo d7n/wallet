@@ -1,1 +1,1 @@
-var mnemonic = "faint boil elite vacuum little hood funny quantum garment rail bridge razor";
+var mnemonic = "quick impulse feature flush mammal sniff chest taxi barely outside quote destroy";

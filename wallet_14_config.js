@@ -1,1 +1,1 @@
-var mnemonic = "ceiling advance blame diamond symbol negative spell snake poem soda private stable";
+var mnemonic = "lecture canyon leaf monitor crisp smooth cage limb brisk uphold model scheme";

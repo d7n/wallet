@@ -1,1 +1,1 @@
-var mnemonic = "remain where stand north dignity disorder buzz hood device afraid expect where";
+var mnemonic = "beef either pulp best badge boss child river people science screen field";

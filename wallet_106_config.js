@@ -1,1 +1,1 @@
-var mnemonic = "battle monster early unusual recipe school process pull fun network glue whale";
+var mnemonic = "dignity neck resist chalk desert disagree library attack snack squirrel lawsuit turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "tower rival machine venue smart industry census distance raise repeat combine piece";
+var mnemonic = "doll hospital possible picture apology stem idle despair column nasty tribe decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "ring thing inspire calm receive rather transfer blanket airport crash raw know";
+var mnemonic = "sand woman stadium quality engine zero capable lady circle ridge staff treat";

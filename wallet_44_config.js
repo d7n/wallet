@@ -1,1 +1,1 @@
-var mnemonic = "equal frequent budget funny silent absent illegal legend load tenant arrange want";
+var mnemonic = "two vanish toast law ship tree online future spare virus erase recycle";

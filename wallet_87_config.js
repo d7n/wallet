@@ -1,1 +1,1 @@
-var mnemonic = "deer mango forest model captain huge predict stay true ticket cricket ahead";
+var mnemonic = "very exist claw wild awful dilemma diesel brisk parrot cable lonely pumpkin";

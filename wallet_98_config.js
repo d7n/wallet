@@ -1,1 +1,1 @@
-var mnemonic = "wreck bone vote since universe diamond angle market loan zero remain retreat";
+var mnemonic = "script hospital orchard marriage switch color cover used jaguar pill wealth fashion";

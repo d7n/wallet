@@ -1,1 +1,1 @@
-var mnemonic = "diary more ankle swift famous wait runway maximum insect brush define write";
+var mnemonic = "question photo episode meadow inherit blanket own urban intact gesture narrow force";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic update image sleep ghost confirm bridge enrich provide this intact sample";
+var mnemonic = "talk arctic use budget ancient inform prison depart innocent popular mercy public";

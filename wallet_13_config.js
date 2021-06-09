@@ -1,1 +1,1 @@
-var mnemonic = "envelope expect salad tape wild unveil purchase rely kiss wealth stomach spatial";
+var mnemonic = "unique banana advance tired erupt later elder double inquiry where mistake shaft";

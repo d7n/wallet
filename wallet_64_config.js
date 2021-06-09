@@ -1,1 +1,1 @@
-var mnemonic = "merry bamboo glue milk seven indoor protect shrimp attitude company carry infant";
+var mnemonic = "repeat bottom market system midnight face bottom account spoil achieve speak baby";

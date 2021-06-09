@@ -1,1 +1,1 @@
-var mnemonic = "network give debate setup meat tape fluid mad collect insane cover draft";
+var mnemonic = "sample danger roast also sword mass feed captain expose glide there inspire";

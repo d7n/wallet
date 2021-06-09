@@ -1,1 +1,1 @@
-var mnemonic = "alcohol remove kiss table sister merry fork creek slot write spy fiscal";
+var mnemonic = "cover follow echo dignity hammer tumble desk oven detail twenty ribbon vapor";

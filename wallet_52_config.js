@@ -1,1 +1,1 @@
-var mnemonic = "illegal bullet wait episode ripple drum crowd trim spider symbol melt school";
+var mnemonic = "demise obvious journey gorilla bid produce bomb boost step island chat cycle";

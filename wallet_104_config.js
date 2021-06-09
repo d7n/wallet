@@ -1,1 +1,1 @@
-var mnemonic = "garlic protect fury embody fruit code ramp connect people dad jar invest";
+var mnemonic = "believe unusual puzzle pole crowd close match scorpion circle book chase wine";

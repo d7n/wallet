@@ -1,1 +1,1 @@
-var mnemonic = "impose pattern crop below episode desert joke attend plunge pepper ski reunion";
+var mnemonic = "book sustain furnace ostrich duty amount tide sister educate shop skate heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "turn rifle outside slogan betray sibling museum amused ski combine color story";
+var mnemonic = "siren soccer armed good chair panel giggle donor parade blur apart orient";

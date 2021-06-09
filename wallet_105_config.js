@@ -1,1 +1,1 @@
-var mnemonic = "lady cart effort call bright chair edge subway bus essay broccoli dog";
+var mnemonic = "rotate leaf rough crumble panda brain violin fragile solar river mosquito frog";

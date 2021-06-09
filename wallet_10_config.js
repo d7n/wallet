@@ -1,1 +1,1 @@
-var mnemonic = "rebel recall name cupboard ship unique cement slight menu success bulb wool";
+var mnemonic = "asset asthma grow reduce vault track owner tattoo faith maximum analyst mandate";

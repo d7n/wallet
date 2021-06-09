@@ -1,1 +1,1 @@
-var mnemonic = "trumpet leopard portion old rely survey toss rose meat now desert sort";
+var mnemonic = "cycle load feature know neck rebuild toward gaze manage lawn spider fabric";

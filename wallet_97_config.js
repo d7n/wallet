@@ -1,1 +1,1 @@
-var mnemonic = "utility cruel slice convince system follow unit initial orchard client bottom forward";
+var mnemonic = "excite develop mind cattle grain claim often surprise effort second frog differ";

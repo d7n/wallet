@@ -1,1 +1,1 @@
-var mnemonic = "bench pride capital laugh cube spawn tobacco seat garage original text adapt";
+var mnemonic = "panel hedgehog keen laundry just ignore captain random conduct barely phrase song";

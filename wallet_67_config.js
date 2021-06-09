@@ -1,1 +1,1 @@
-var mnemonic = "salad enjoy divorce prevent match diet live will monkey foil voice snack";
+var mnemonic = "service height blue spare garden oyster soap mother harsh canoe rural assist";

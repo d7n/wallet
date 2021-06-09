@@ -1,1 +1,1 @@
-var mnemonic = "public thrive tail desk side loud juice lyrics illness camera road month";
+var mnemonic = "educate subway lake chief month refuse sleep radar illegal chair labor remain";

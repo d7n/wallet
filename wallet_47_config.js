@@ -1,1 +1,1 @@
-var mnemonic = "cage earn weird vicious shiver fortune bless satisfy doll wing cabbage voice";
+var mnemonic = "review valve brave drill reopen piano only orphan genius olive exotic omit";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum web disease scorpion output citizen aspect avocado spoil theme dentist want";
+var mnemonic = "glance vital volcano nominee all wedding return juice flame minimum model feature";

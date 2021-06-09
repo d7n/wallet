@@ -1,1 +1,1 @@
-var mnemonic = "check time space spoon flag pond quit distance ask uniform release hold";
+var mnemonic = "happy deer cushion garage crack pledge glory awake feed because autumn chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "word useless magic defy other resource universe ride seat casino daughter actor";
+var mnemonic = "render boil middle author slot robust charge comic chaos diet bargain broom";

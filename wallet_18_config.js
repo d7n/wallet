@@ -1,1 +1,1 @@
-var mnemonic = "medal olive leave detect win author salt soul census slender eager crazy";
+var mnemonic = "gap acoustic gallery subway blind enter festival slogan myself pattern mobile void";

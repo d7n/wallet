@@ -1,1 +1,1 @@
-var mnemonic = "sadness oil diesel harbor real ignore fun frog gauge outside isolate link";
+var mnemonic = "obtain indicate stick galaxy unknown desert fence demand gentle accident season armed";

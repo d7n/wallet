@@ -1,1 +1,1 @@
-var mnemonic = "cheese sport code mango blue rain asthma seminar behind main today toddler";
+var mnemonic = "brush select right orient visit hockey start debris coyote marble limb drama";

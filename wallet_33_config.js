@@ -1,1 +1,1 @@
-var mnemonic = "survey seed sort weapon endless crucial bid fork move bamboo tuition celery";
+var mnemonic = "hobby tower snack avocado true category federal scorpion firm castle left captain";

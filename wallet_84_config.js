@@ -1,1 +1,1 @@
-var mnemonic = "river crime twelve promote thought prevent one bench exact matter clean visit";
+var mnemonic = "discover argue earth glove member spell have valve cute summer hundred merry";

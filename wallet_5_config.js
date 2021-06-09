@@ -1,1 +1,1 @@
-var mnemonic = "anxiety pipe chaos skill leaf catalog luxury diagram chef bomb swap rabbit";
+var mnemonic = "frequent wet assist volcano strike quiz mistake patrol obvious library wear cake";

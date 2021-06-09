@@ -1,1 +1,1 @@
-var mnemonic = "example husband badge guitar scheme lizard team crouch firm innocent barrel shrug";
+var mnemonic = "ladder critic undo turn attitude more teach liberty flock dog small next";

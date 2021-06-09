@@ -1,1 +1,1 @@
-var mnemonic = "tunnel focus piece trumpet sauce mixed tube million maze punch whip organ";
+var mnemonic = "able business skill license girl image praise tackle water move brave concert";

@@ -1,1 +1,1 @@
-var mnemonic = "address legend diagram make prison edit whale ordinary cry quote shove unable";
+var mnemonic = "sound profit vast level biology story file ketchup rhythm online mountain candy";

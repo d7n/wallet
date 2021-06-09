@@ -1,1 +1,1 @@
-var mnemonic = "general scorpion true art view bike chalk recipe chase trend round ticket";
+var mnemonic = "truly puzzle gravity monitor bacon claim flight hat track purpose tape attack";

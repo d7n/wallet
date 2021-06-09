@@ -1,1 +1,1 @@
-var mnemonic = "zoo gold arm orange among orchard happy cart chunk gossip drink gloom";
+var mnemonic = "judge evolve penalty blush puzzle cram morning ball marriage sock apology panic";

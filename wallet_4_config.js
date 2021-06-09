@@ -1,1 +1,1 @@
-var mnemonic = "abuse unlock siege sock together amazing squirrel faculty poem shiver manual vendor";
+var mnemonic = "aspect identify caught base garlic narrow sister desk habit toy exercise tenant";

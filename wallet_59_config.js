@@ -1,1 +1,1 @@
-var mnemonic = "boost frozen outdoor fog order situate author trap install cattle deposit uncover";
+var mnemonic = "foot endorse nominee lyrics slide confirm marriage soldier agree tag decorate prepare";

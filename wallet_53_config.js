@@ -1,1 +1,1 @@
-var mnemonic = "stone whale estate taxi together scheme expect impulse ankle federal aisle task";
+var mnemonic = "donate vast deer use place cheese train poet glue arrange sing body";

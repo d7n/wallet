@@ -1,1 +1,1 @@
-var mnemonic = "peasant squeeze false ten eyebrow tank very bubble weapon injury great coast";
+var mnemonic = "diesel idle hire unique alley detail arrange grain usual sausage hazard blood";

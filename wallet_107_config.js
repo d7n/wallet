@@ -1,1 +1,1 @@
-var mnemonic = "person coil extra depend glance busy jelly amazing debris lamp enhance cloud";
+var mnemonic = "virus label smile news need slide gift exhaust prize duck equal only";

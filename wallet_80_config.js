@@ -1,1 +1,1 @@
-var mnemonic = "trumpet above polar omit rib festival alcohol local captain curve special engine";
+var mnemonic = "often wrong pole ready search floor culture choice stand curve arena uncle";

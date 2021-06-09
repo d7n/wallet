@@ -1,1 +1,1 @@
-var mnemonic = "trumpet argue tell blast kid candy charge whisper worry jewel idea arctic";
+var mnemonic = "clock fame toy humor oval require awesome absent force ocean world decade";

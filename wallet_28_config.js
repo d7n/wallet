@@ -1,1 +1,1 @@
-var mnemonic = "guard neither add staff panel possible mobile gauge siren option oil boss";
+var mnemonic = "grocery pyramid tag deny define provide suffer inner alien rich belt bird";

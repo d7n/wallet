@@ -1,1 +1,1 @@
-var mnemonic = "stove surround recall same club indicate pulse island maze intact silly youth";
+var mnemonic = "clip before gauge pitch project arrange claw tag regret suit affair fit";

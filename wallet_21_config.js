@@ -1,1 +1,1 @@
-var mnemonic = "ugly alien vehicle donor radio genius capable real appear wagon analyst chicken";
+var mnemonic = "draw tell type bag track science have tissue place horse silk sibling";

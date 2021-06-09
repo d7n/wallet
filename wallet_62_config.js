@@ -1,1 +1,1 @@
-var mnemonic = "draft false parade reduce pig physical among mansion jump mirror sense real";
+var mnemonic = "argue during lift shoot crisp gravity silver neglect october capital acquire happy";

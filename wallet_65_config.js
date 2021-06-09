@@ -1,1 +1,1 @@
-var mnemonic = "click palm ginger autumn bind scrub act crop gallery water bundle laundry";
+var mnemonic = "exchange scissors wool vocal latin member split south any amused subject cheese";

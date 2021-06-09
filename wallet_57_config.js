@@ -1,1 +1,1 @@
-var mnemonic = "explain federal lazy amazing subject convince video way style scare bid spot";
+var mnemonic = "smooth text thumb stool length edit chapter eager undo raven earth tape";

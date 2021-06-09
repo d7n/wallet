@@ -1,1 +1,1 @@
-var mnemonic = "nose chaos execute enrich face chronic sugar course athlete present aunt puzzle";
+var mnemonic = "juice second square rain riot buzz sock person damp brain blossom zebra";

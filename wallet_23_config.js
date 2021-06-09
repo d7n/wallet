@@ -1,1 +1,1 @@
-var mnemonic = "nominee dune glimpse peace illness concert drum dumb sweet sad find zoo";
+var mnemonic = "topic office beef monitor metal bright jazz goose this pigeon gold smile";

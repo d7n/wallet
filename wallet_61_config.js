@@ -1,1 +1,1 @@
-var mnemonic = "best stereo unusual stand zoo gauge plate melody bubble rich over margin";
+var mnemonic = "ranch afford emerge door cream blue assume deny awake long exchange life";

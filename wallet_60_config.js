@@ -1,1 +1,1 @@
-var mnemonic = "eye rare law kid turkey hold expand frog episode solar giant tumble";
+var mnemonic = "state tank between second nut proud glue business merit peanut school razor";

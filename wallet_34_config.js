@@ -1,1 +1,1 @@
-var mnemonic = "usage service thank include echo party antenna stem couple cube immense treat";
+var mnemonic = "absorb evoke aunt galaxy tilt grant stick habit level caught aunt potato";

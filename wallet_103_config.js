@@ -1,1 +1,1 @@
-var mnemonic = "mouse office obtain obey assist proud pulp swift husband drill grass cover";
+var mnemonic = "decide belt eager faculty subway tool iron chicken range gun famous actor";

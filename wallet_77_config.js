@@ -1,1 +1,1 @@
-var mnemonic = "split canyon invite horse bamboo add town country pottery wrist bargain multiply";
+var mnemonic = "render casual tribe hope riot cake boil toss wide caught length choice";

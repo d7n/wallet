@@ -1,1 +1,1 @@
-var mnemonic = "swim gravity daring rule solution garage father friend antique magic screen loan";
+var mnemonic = "regret liquid spot entire crisp swing draw unaware soda shove cheap effort";

@@ -1,1 +1,1 @@
-var mnemonic = "mean tuition sword correct company acquire clown know alter grocery can divorce";
+var mnemonic = "worth box give loud lunch rubber skirt grant sugar wear lion achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "future solar reopen arrest rotate plastic dawn recipe wrestle garbage wood weasel";
+var mnemonic = "decrease marble public knife close garbage denial danger brass ten matrix tenant";

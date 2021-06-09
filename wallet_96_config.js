@@ -1,1 +1,1 @@
-var mnemonic = "exercise token shift milk fade figure bullet famous saddle senior vacuum hurt";
+var mnemonic = "parrot common quarter ability reveal leisure piece code radio carbon jar merge";

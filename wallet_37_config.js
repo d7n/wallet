@@ -1,1 +1,1 @@
-var mnemonic = "nominee voyage dynamic slender alter prevent powder citizen color sheriff work file";
+var mnemonic = "final page kiwi border fork upgrade task muffin zebra dial ill surround";

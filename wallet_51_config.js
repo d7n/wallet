@@ -1,1 +1,1 @@
-var mnemonic = "situate season garment mutual cycle rib sunset ribbon teach page chest finger";
+var mnemonic = "remain force critic february toilet brief bounce kiwi betray hungry tube spray";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke spy raw pulse annual deal window sad slush obtain image mosquito";
+var mnemonic = "machine begin dynamic during load skirt motor erode stamp tribe hotel cheap";

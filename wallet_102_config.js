@@ -1,1 +1,1 @@
-var mnemonic = "sock pill gallery index problem senior grunt pony myth hazard garage frame";
+var mnemonic = "oxygen give peasant shed trip inflict symptom envelope lift whip pupil notice";

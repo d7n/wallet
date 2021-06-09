@@ -1,1 +1,1 @@
-var mnemonic = "proof twist sadness client hazard split gentle laundry welcome odor virus chuckle";
+var mnemonic = "critic orient matrix fine pen arrow option conduct cargo able evoke tissue";

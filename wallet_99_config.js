@@ -1,1 +1,1 @@
-var mnemonic = "announce thing bargain leg chicken damage animal skate edit fury pioneer net";
+var mnemonic = "expire lava island century wasp hobby sentence alley turn spin toy mention";
