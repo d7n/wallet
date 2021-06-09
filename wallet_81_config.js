@@ -1,1 +1,1 @@
-var mnemonic = "market episode ceiling tunnel ranch reject vanish verb alter action salmon stuff";
+var mnemonic = "genre gravity ill seed shuffle cash pact wasp latin deer twenty jewel";

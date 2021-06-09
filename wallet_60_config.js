@@ -1,1 +1,1 @@
-var mnemonic = "fossil powder vivid retire earn pact reopen student strategy stone erase stock";
+var mnemonic = "damp atom wage inhale install burden snap foot device omit useful involve";

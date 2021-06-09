@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow warfare speak rather double skirt remain oval strike aerobic cat bright";
+var mnemonic = "raise helmet carry sail south title diagram gasp window two kit shock";

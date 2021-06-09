@@ -1,1 +1,1 @@
-var mnemonic = "believe glad extra gesture alarm analyst normal sun regular lottery couple sleep";
+var mnemonic = "pioneer wheat churn slice oak bench accident artwork zone soldier steel jacket";

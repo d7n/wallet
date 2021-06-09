@@ -1,1 +1,1 @@
-var mnemonic = "range memory rapid human toe bulb secret traffic book supply hurt very";
+var mnemonic = "lyrics comic define myth immense flush pledge essence blast video motion traffic";

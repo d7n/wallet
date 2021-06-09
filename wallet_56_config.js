@@ -1,1 +1,1 @@
-var mnemonic = "clump siege man peasant cousin above degree resist organ rural rather today";
+var mnemonic = "check exist beef recipe throw sponsor embody food devote word clarify lend";

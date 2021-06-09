@@ -1,1 +1,1 @@
-var mnemonic = "cute eight culture garbage warfare jar elbow loan tourist harvest dwarf hundred";
+var mnemonic = "federal sphere have gallery kick type month diamond sense ginger poet lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy dinner lift gym index whisper sound all uncover bean behind digital";
+var mnemonic = "license network rally fatigue clinic usual large lumber transfer eternal exile enlist";

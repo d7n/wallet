@@ -1,1 +1,1 @@
-var mnemonic = "shop verify denial wealth keen harsh simple donate gesture cloud around surface";
+var mnemonic = "vacuum uniform rail year sell baby thumb blush vote must bundle skin";

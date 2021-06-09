@@ -1,1 +1,1 @@
-var mnemonic = "spin now pottery mutual daring legend ancient orbit rely figure chuckle host";
+var mnemonic = "slot tobacco normal either pact oven tiger blossom suspect gap west clump";

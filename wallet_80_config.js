@@ -1,1 +1,1 @@
-var mnemonic = "orange skull rubber dinosaur lizard cross window possible alter kitchen material wealth";
+var mnemonic = "horror bar nose service drum dizzy awesome labor border category trust stock";

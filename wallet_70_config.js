@@ -1,1 +1,1 @@
-var mnemonic = "only leave second bomb debris govern maximum leopard stem tomato good obtain";
+var mnemonic = "unlock organ penalty account pledge floor rug upon very select improve pond";

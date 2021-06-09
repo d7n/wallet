@@ -1,1 +1,1 @@
-var mnemonic = "skull nose trick ghost message explain festival faith library fence mean opera";
+var mnemonic = "slow bonus liar useful hurdle desk recycle toilet shrimp moment goddess rate";

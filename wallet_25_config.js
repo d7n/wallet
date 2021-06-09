@@ -1,1 +1,1 @@
-var mnemonic = "blame alone upper doctor cactus concert cream neglect couch spawn pulp start";
+var mnemonic = "sphere vacuum arrest add assist breeze pizza please blast million sheriff wave";

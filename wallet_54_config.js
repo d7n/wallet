@@ -1,1 +1,1 @@
-var mnemonic = "enter away change abandon debate napkin adjust broom ketchup tuna whip crater";
+var mnemonic = "sugar smile violin luggage damage antenna chest enable sunset curious tip sorry";

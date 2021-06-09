@@ -1,1 +1,1 @@
-var mnemonic = "educate rally ask muscle mistake tourist frozen symbol split jump video tent";
+var mnemonic = "mesh grid despair atom auto ahead old marriage scan advance organ assist";

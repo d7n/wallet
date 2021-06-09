@@ -1,1 +1,1 @@
-var mnemonic = "surprise silver jar glory scheme case economy salon fun better cabbage rifle";
+var mnemonic = "essence patch message nose return volume enrich genius distance traffic local recipe";

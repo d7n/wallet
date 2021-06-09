@@ -1,1 +1,1 @@
-var mnemonic = "spot pilot domain bubble pledge flush camera firm blame corn plate cross";
+var mnemonic = "raven history panda smile orbit prefer slam flight barely clip pony screen";

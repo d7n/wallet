@@ -1,1 +1,1 @@
-var mnemonic = "valve swap sort sing engage eyebrow hurry release tumble phone wink legend";
+var mnemonic = "circle plastic knee novel diet palace reason various cart inner noise pony";

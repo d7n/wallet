@@ -1,1 +1,1 @@
-var mnemonic = "produce order try wait orchard eye dial magic picture palace drip hazard";
+var mnemonic = "sun tomorrow toast dentist buyer damage click silk issue future warm boat";

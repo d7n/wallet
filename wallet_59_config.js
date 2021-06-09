@@ -1,1 +1,1 @@
-var mnemonic = "coral old cushion more federal recycle unit dish develop ball image betray";
+var mnemonic = "vanish useful about cabin shrimp shuffle illegal near benefit caution theory lawsuit";

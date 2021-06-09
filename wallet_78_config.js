@@ -1,1 +1,1 @@
-var mnemonic = "resist fetch busy stone similar bonus attack work lucky brush royal fat";
+var mnemonic = "wool parent acid divide heart lion later syrup silent steak bitter law";

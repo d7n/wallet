@@ -1,1 +1,1 @@
-var mnemonic = "gasp napkin minimum bracket jacket drum traffic rib chase oblige setup solid";
+var mnemonic = "sister lamp wall depart typical silent burst lion window desert stage spare";

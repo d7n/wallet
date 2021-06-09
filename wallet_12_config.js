@@ -1,1 +1,1 @@
-var mnemonic = "miracle sleep box fetch witness eyebrow reveal subject hammer sausage buyer tackle";
+var mnemonic = "outside scrap laptop family taste chair picnic tilt harbor live plug connect";

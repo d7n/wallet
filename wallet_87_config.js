@@ -1,1 +1,1 @@
-var mnemonic = "orbit rent cream leader electric symbol rare scorpion sad magic squirrel jazz";
+var mnemonic = "lemon peanut captain buffalo table ramp want disorder bunker awesome mechanic medal";

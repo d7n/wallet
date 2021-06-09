@@ -1,1 +1,1 @@
-var mnemonic = "only suspect rubber student olive find feed vapor axis magic claw gain";
+var mnemonic = "accuse saddle witness upon pill clock chat congress blast citizen tissue outer";

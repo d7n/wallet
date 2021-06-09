@@ -1,1 +1,1 @@
-var mnemonic = "raise child aisle weird just shrug burden force aerobic radar tooth fork";
+var mnemonic = "fun habit because spirit settle season pause cereal sheriff gate bonus atom";

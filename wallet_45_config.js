@@ -1,1 +1,1 @@
-var mnemonic = "sort resist moment prefer cook embody face forest shield pattern pluck interest";
+var mnemonic = "lecture tube blouse august buzz truth insane black reward bid stand kit";

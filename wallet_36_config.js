@@ -1,1 +1,1 @@
-var mnemonic = "nurse return round skill today voyage spare crop shell tide fan verb";
+var mnemonic = "put stomach talk because quantum hood stadium lady sure iron expect piano";

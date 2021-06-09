@@ -1,1 +1,1 @@
-var mnemonic = "over hole plunge age cover donate amazing wheat market artwork defense flush";
+var mnemonic = "apology adult rally picnic fresh world into fabric indoor hero slice inflict";

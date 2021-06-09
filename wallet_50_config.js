@@ -1,1 +1,1 @@
-var mnemonic = "grocery enough must pen before sign simple motion degree deal alone provide";
+var mnemonic = "advice insect view sudden hedgehog easily wait glove occur inner library boss";

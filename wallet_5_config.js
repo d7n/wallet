@@ -1,1 +1,1 @@
-var mnemonic = "tag total digital donkey frown present please pipe sure lady double mystery";
+var mnemonic = "hundred when crouch jazz immune network axis group author limb cover bid";

@@ -1,1 +1,1 @@
-var mnemonic = "stage absurd wheel image illegal ecology come sick confirm dwarf opinion cargo";
+var mnemonic = "leave cotton junior bargain profit obtain kiwi remain try neck bike sock";

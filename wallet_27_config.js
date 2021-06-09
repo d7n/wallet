@@ -1,1 +1,1 @@
-var mnemonic = "spatial train risk modify adapt mushroom sea lunar rubber flag rally resource";
+var mnemonic = "truly gap rigid mother stool garbage drum pet cute celery witness quantum";

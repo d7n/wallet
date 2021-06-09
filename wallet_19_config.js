@@ -1,1 +1,1 @@
-var mnemonic = "fun flip buffalo tuition sheriff main salute net clay pass wood midnight";
+var mnemonic = "rare observe naive force vessel strategy glide state primary mansion adult brain";

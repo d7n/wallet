@@ -1,1 +1,1 @@
-var mnemonic = "lyrics dry brown sentence coast used swear health require grow comic notice";
+var mnemonic = "stock math wheel humble belt limit spatial social romance quarter coconut glory";

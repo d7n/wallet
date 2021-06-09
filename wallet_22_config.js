@@ -1,1 +1,1 @@
-var mnemonic = "gasp hurry rebel gather glide first owner script soon stem vault height";
+var mnemonic = "hammer course dutch road stuff puzzle whip mad catch analyst wet they";

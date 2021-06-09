@@ -1,1 +1,1 @@
-var mnemonic = "suit fade lake work six often scene august sudden also inside volcano";
+var mnemonic = "vivid ride churn broccoli mistake gym train error column other reject hobby";

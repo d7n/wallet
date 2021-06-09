@@ -1,1 +1,1 @@
-var mnemonic = "height crack spin earn page midnight auction food avocado judge pigeon flock";
+var mnemonic = "life crack hello tip fatal cigar small wet jump style impulse march";

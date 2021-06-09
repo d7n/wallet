@@ -1,1 +1,1 @@
-var mnemonic = "spoil wrap anxiety runway kind dynamic ensure surround manage joke zone put";
+var mnemonic = "wash tray there struggle dolphin festival hood photo elegant same athlete luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "museum plug trigger guide step upset artist wood labor trick hero then";
+var mnemonic = "shop earn scissors heavy pond order auto conduct hungry vapor speed claw";

@@ -1,1 +1,1 @@
-var mnemonic = "basket gadget skin panel silk mandate modify mimic museum ask mention reduce";
+var mnemonic = "silent include best glimpse oppose cash gauge spell tower when benefit memory";

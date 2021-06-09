@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo lazy alter meadow senior absent bread fiscal crush cable attitude relief";
+var mnemonic = "theme entry lab ordinary cost anchor exclude remember pet body head else";

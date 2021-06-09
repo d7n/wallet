@@ -1,1 +1,1 @@
-var mnemonic = "pony uncle cage include aisle dial breeze tree bounce assault situate attract";
+var mnemonic = "piano outdoor bag neck strike praise biology robot scatter quality genuine joke";

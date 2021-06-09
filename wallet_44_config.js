@@ -1,1 +1,1 @@
-var mnemonic = "creek obey abstract exotic pelican face nature universe nephew aim random bulk";
+var mnemonic = "enter feed model bag charge lemon milk torch soup diet soup safe";

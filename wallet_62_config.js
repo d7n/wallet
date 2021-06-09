@@ -1,1 +1,1 @@
-var mnemonic = "exist night faith coral home nurse diesel scale try sport speak combine";
+var mnemonic = "clock first clinic myth price plug hour adapt smart size ten danger";

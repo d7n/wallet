@@ -1,1 +1,1 @@
-var mnemonic = "airport marriage seven used sniff hockey joke visual curve color perfect century";
+var mnemonic = "stool owner frog general chief foster mention upset captain crawl rose cheap";

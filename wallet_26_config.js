@@ -1,1 +1,1 @@
-var mnemonic = "december choice bone famous recall guide measure quote canal staff vivid harsh";
+var mnemonic = "flag multiply cheese wrap shaft apart better jungle spare resemble cushion expose";

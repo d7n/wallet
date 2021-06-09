@@ -1,1 +1,1 @@
-var mnemonic = "walk bronze toast income brother expand nation shine wisdom library mail seven";
+var mnemonic = "trigger bracket front night actor violin betray legend wife year cement update";

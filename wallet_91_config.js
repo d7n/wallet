@@ -1,1 +1,1 @@
-var mnemonic = "pencil trust law have umbrella jazz total secret pledge school toss that";
+var mnemonic = "start barrel elevator verb enough mansion dose poverty yard shrimp dog source";

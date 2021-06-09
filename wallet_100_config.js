@@ -1,1 +1,1 @@
-var mnemonic = "hunt artefact pattern spare caught hire vague chimney wrist eight birth symbol";
+var mnemonic = "bundle outside stadium verify skirt glimpse basic pink account runway build meat";

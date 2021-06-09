@@ -1,1 +1,1 @@
-var mnemonic = "coral sheriff merry coast extra athlete magnet home correct upon diesel pact";
+var mnemonic = "nominee reward afford tomato universe then come hidden kitchen wide fire fury";

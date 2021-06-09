@@ -1,1 +1,1 @@
-var mnemonic = "faint grab tribe dragon foil real spoon lonely sudden picture online sight";
+var mnemonic = "arrest icon matrix renew toast zoo mind inch gas bring agree duty";

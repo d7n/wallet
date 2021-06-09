@@ -1,1 +1,1 @@
-var mnemonic = "loop interest tide panel husband celery power mind language desk change output";
+var mnemonic = "join drill lobster clarify gaze obey smart cave promote supreme ship act";

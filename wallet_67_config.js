@@ -1,1 +1,1 @@
-var mnemonic = "noble twice original detect alley alert rate false cook harvest sibling scrub";
+var mnemonic = "monitor feature word episode pink ladder toss sting usage begin essence evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "plate usage resource shoe empower like antenna beef gate remind ten bench";
+var mnemonic = "define sudden reopen vocal absorb layer patrol gentle turkey panic forward afford";

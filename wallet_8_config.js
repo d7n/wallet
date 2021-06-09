@@ -1,1 +1,1 @@
-var mnemonic = "patient frozen major grocery impact claim host speed focus chronic bamboo moral";
+var mnemonic = "invest proof science share afraid solid someone ramp say main opera hungry";

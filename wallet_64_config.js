@@ -1,1 +1,1 @@
-var mnemonic = "swift swap second all tag hope enlist maple shoot weird cause sauce";
+var mnemonic = "egg shallow brown pigeon advance issue flat render fish virtual pact rural";

@@ -1,1 +1,1 @@
-var mnemonic = "blush safe wreck define finish crazy venue oxygen boat gadget fuel lounge";
+var mnemonic = "onion fee lounge hint point voice exotic correct document give bachelor mixed";

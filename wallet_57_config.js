@@ -1,1 +1,1 @@
-var mnemonic = "hold royal either rose unaware curve sphere brief nominee broom fruit good";
+var mnemonic = "mouse hold game average rice park badge float power mango shiver property";

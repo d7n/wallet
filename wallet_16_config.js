@@ -1,1 +1,1 @@
-var mnemonic = "social refuse canvas wisdom crunch miss cotton absurd mind major raw mail";
+var mnemonic = "air faint aunt wood plate domain robust calm spatial hen beef scale";

@@ -1,1 +1,1 @@
-var mnemonic = "describe bike palace boring logic wall shrug labor prison since toy memory";
+var mnemonic = "want snake interest wave tuna put truly scorpion refuse leave garment amateur";

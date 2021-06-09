@@ -1,1 +1,1 @@
-var mnemonic = "filter thumb soap rabbit analyst spread prepare entire hour layer market negative";
+var mnemonic = "actor usual maze sausage armed embody decline ceiling draft matrix wrong uncover";

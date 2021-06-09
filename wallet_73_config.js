@@ -1,1 +1,1 @@
-var mnemonic = "bullet craft cradle upper expect thumb three detect slab immense deny great";
+var mnemonic = "virus goose honey capable month tired method hero yard sample service coast";

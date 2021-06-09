@@ -1,1 +1,1 @@
-var mnemonic = "receive cement letter nurse stem frost range way angry faint donkey hamster";
+var mnemonic = "travel round clean start game sort betray stadium mesh sphere rebuild twice";

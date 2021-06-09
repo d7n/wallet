@@ -1,1 +1,1 @@
-var mnemonic = "ten blame midnight talk alarm used ritual puzzle attend story vault void";
+var mnemonic = "village genuine rescue decline short gospel unhappy join two monitor apology brush";

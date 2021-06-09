@@ -1,1 +1,1 @@
-var mnemonic = "ketchup chat task rule grace soft curtain riot sugar olympic balcony place";
+var mnemonic = "legal patch crane library pelican need lawsuit entire write fame basket clay";

@@ -1,1 +1,1 @@
-var mnemonic = "invite resource boil shy grace course garden donkey interest lecture napkin unknown";
+var mnemonic = "kidney salmon stone flower disagree comfort dwarf deny staff quote kiwi hour";

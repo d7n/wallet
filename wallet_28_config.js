@@ -1,1 +1,1 @@
-var mnemonic = "payment neck want describe drill ozone forum close gun never toast panel";
+var mnemonic = "glory cry box pig industry decline pool sport dad dutch beach keen";

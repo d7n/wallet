@@ -1,1 +1,1 @@
-var mnemonic = "mule unknown april wool cricket screen order tilt aim screen tone venue";
+var mnemonic = "door long token glass obey cupboard daring firm must bless buyer bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "soul dumb venture few tiger eternal orchard aunt glad occur kick spread";
+var mnemonic = "certain inherit organ thumb idea addict great boss canoe brass drastic side";

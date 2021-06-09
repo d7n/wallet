@@ -1,1 +1,1 @@
-var mnemonic = "empty cupboard remember creek raven castle outside vehicle useless never office electric";
+var mnemonic = "tube satisfy black oven connect whip blast tube toe relax trap bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "obey scout thrive veteran walnut glide tongue gorilla timber fatal tooth broccoli";
+var mnemonic = "file gather squirrel coral lonely require galaxy observe enact member travel own";

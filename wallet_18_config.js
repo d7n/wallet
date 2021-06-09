@@ -1,1 +1,1 @@
-var mnemonic = "fold library fame position shoulder gorilla raven they flower smooth endless shine";
+var mnemonic = "fit engine window flee drink jungle guilt any voyage toast marriage clay";

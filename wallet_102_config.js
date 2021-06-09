@@ -1,1 +1,1 @@
-var mnemonic = "admit ostrich panel february vanish retire boss aware health pact shift pause";
+var mnemonic = "juice east local corn giggle width shaft cart celery bench wave snack";

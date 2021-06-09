@@ -1,1 +1,1 @@
-var mnemonic = "minor trick method slender leopard win enhance exercise mesh paddle slice february";
+var mnemonic = "hurry tide license finish panel dove armor skate tiger midnight wonder oblige";

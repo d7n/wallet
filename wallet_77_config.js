@@ -1,1 +1,1 @@
-var mnemonic = "trumpet before undo kidney helmet exchange embark buddy drastic journey donate crucial";
+var mnemonic = "vivid number sign ring profit scan absurd reject basic pear chair youth";

@@ -1,1 +1,1 @@
-var mnemonic = "boost attend assault check source pluck account vehicle process inspire burden lamp";
+var mnemonic = "stumble arrest butter series town figure lottery quantum grief control sense private";

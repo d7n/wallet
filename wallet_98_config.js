@@ -1,1 +1,1 @@
-var mnemonic = "tell correct begin frost possible orbit produce only bottom vapor produce fiction";
+var mnemonic = "rabbit fit figure auto enlist kitchen message inspire language stumble pilot owner";

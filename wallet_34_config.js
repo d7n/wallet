@@ -1,1 +1,1 @@
-var mnemonic = "fine hold brown rebel winter actor history minute fresh grunt vocal picture";
+var mnemonic = "sleep build mean ability choose slim minor predict expose match aim hour";

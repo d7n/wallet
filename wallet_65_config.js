@@ -1,1 +1,1 @@
-var mnemonic = "memory glance educate rail over useful stool donkey sniff radar talent rifle";
+var mnemonic = "crouch life symbol civil category engine estate popular hurry arch parrot amused";

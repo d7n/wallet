@@ -1,1 +1,1 @@
-var mnemonic = "metal wolf profit ahead proof obscure tuition profit carpet hobby swift pull";
+var mnemonic = "anxiety rhythm enact project vendor gap script carpet raise ship pottery book";

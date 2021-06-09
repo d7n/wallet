@@ -1,1 +1,1 @@
-var mnemonic = "drift salt naive gesture mean clever spider reject various pudding robot screen";
+var mnemonic = "used tent library marine memory spring peanut video position cream auto slogan";

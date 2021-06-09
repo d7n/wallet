@@ -1,1 +1,1 @@
-var mnemonic = "outside fresh swarm evolve consider news patrol crime join basic fruit pretty";
+var mnemonic = "asset apology explain size chase pool climb decide ivory sister ice prosper";

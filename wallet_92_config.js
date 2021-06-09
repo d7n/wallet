@@ -1,1 +1,1 @@
-var mnemonic = "message slow pig iron bacon hurdle romance invite animal system kind clump";
+var mnemonic = "debate stock suspect frame pioneer hair humble slide chronic bar world broom";

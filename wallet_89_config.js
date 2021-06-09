@@ -1,1 +1,1 @@
-var mnemonic = "upper you assume equip rain switch twin deny insane miss enact near";
+var mnemonic = "coyote truth myth shock offer tool surround mesh analyst absent initial tape";

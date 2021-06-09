@@ -1,1 +1,1 @@
-var mnemonic = "grid hidden hold custom all hint sponsor athlete quote style sample hybrid";
+var mnemonic = "attend mom project sound spy script alert screen beef echo project skill";

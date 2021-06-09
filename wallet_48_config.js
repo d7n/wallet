@@ -1,1 +1,1 @@
-var mnemonic = "meadow ozone secret discover snap barrel exit boss reform tiger vehicle turn";
+var mnemonic = "bomb siren kick that weird someone blind clerk worry harbor twist stay";
