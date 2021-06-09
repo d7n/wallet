@@ -1,1 +1,1 @@
-var mnemonic = "scare prefer acid maid gadget pond wedding primary frozen indoor level short";
+var mnemonic = "gaze dismiss winter keen forest curious culture loan faith mosquito soon amused";

@@ -1,1 +1,1 @@
-var mnemonic = "female moment expect rally supply library bacon gauge unhappy wheat fossil prison";
+var mnemonic = "awkward clap capital nuclear quote tube latin parade congress once motion sample";

@@ -1,1 +1,1 @@
-var mnemonic = "orange trade theme shield unlock lecture fix army staff series lady regret";
+var mnemonic = "fee beef layer divorce ignore move shy edit orient arrange nerve arctic";

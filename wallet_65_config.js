@@ -1,1 +1,1 @@
-var mnemonic = "february stereo soldier april join spot sibling flavor skate plug blush bleak";
+var mnemonic = "proof roof feel economy train helmet amused load enable truly horn island";

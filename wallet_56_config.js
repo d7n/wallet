@@ -1,1 +1,1 @@
-var mnemonic = "kite squeeze equal vehicle during hurdle home over dress sing call inquiry";
+var mnemonic = "toast burst ritual jelly stone robust inspire order primary tree slab miracle";

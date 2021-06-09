@@ -1,1 +1,1 @@
-var mnemonic = "kit rigid mesh average divert duty charge remove pigeon ten siege art";
+var mnemonic = "bicycle mixed soldier elite clean bus benefit erosion expand wrong supply confirm";

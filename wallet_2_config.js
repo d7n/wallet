@@ -1,1 +1,1 @@
-var mnemonic = "merit notice kid bracket afraid dynamic arctic vibrant soul excite wolf twist";
+var mnemonic = "wide energy chair gloom tell phone thunder exhibit over dutch normal crawl";

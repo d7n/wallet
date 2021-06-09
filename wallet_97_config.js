@@ -1,1 +1,1 @@
-var mnemonic = "grass volume decade staff mystery magic property excess razor nothing dirt urge";
+var mnemonic = "jealous midnight bronze bunker occur noodle rug grass account uncle success salt";

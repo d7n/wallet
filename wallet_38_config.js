@@ -1,1 +1,1 @@
-var mnemonic = "level noodle salmon inspire much copper fiction case sock clog arrive battle";
+var mnemonic = "lawn escape enter kingdom rely wrong business ankle attend build flame cliff";

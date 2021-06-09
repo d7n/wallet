@@ -1,1 +1,1 @@
-var mnemonic = "trap fabric spirit attack life family rival dizzy jewel funny similar park";
+var mnemonic = "knock hub once soft result admit bulk undo twelve baby segment ill";

@@ -1,1 +1,1 @@
-var mnemonic = "daring used volcano power wisdom dance gasp wear claim issue nut make";
+var mnemonic = "open wagon shed gravity morning absurd more metal become miss brand parent";

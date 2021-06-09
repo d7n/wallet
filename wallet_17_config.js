@@ -1,1 +1,1 @@
-var mnemonic = "animal limit nephew riot shallow elegant gate change when rely pulse turn";
+var mnemonic = "umbrella foam raw note sense mad escape diagram among concert moment crop";

@@ -1,1 +1,1 @@
-var mnemonic = "album bread huge narrow wheel asthma write digital baby visual flush wink";
+var mnemonic = "absorb guide circle rug fortune reform marble fortune cloth leave belt grid";

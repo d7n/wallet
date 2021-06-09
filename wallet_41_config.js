@@ -1,1 +1,1 @@
-var mnemonic = "picnic invest entry option between suit soap step lady echo paper ripple";
+var mnemonic = "ecology quantum arctic provide wave person census trap inject frame broom anxiety";

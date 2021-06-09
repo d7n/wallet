@@ -1,1 +1,1 @@
-var mnemonic = "pupil blouse axis unit law wealth tornado expose trumpet later layer toy";
+var mnemonic = "evoke because awake stay perfect proud return diagram hat essay top depart";

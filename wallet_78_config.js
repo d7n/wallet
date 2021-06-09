@@ -1,1 +1,1 @@
-var mnemonic = "eagle october effort best real buzz come wolf mechanic modify absent walnut";
+var mnemonic = "never pottery load impulse inhale vapor genuine sight wreck private asset fine";

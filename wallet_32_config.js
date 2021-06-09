@@ -1,1 +1,1 @@
-var mnemonic = "chat soup galaxy helmet aerobic enhance silly depth change desert local absorb";
+var mnemonic = "combine crane repeat rough actor rubber maple betray obey forget gallery nice";

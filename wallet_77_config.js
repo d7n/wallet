@@ -1,1 +1,1 @@
-var mnemonic = "debris tackle behind kind shell impact try ostrich bean couch say helmet";
+var mnemonic = "music squeeze recall buyer bless glow sponsor verb question pumpkin choose secret";

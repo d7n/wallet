@@ -1,1 +1,1 @@
-var mnemonic = "fish main ball below weasel aunt turkey bean dinner bone depart bless";
+var mnemonic = "balcony race office provide ready argue monster vibrant hair grief bag inch";

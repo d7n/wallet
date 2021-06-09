@@ -1,1 +1,1 @@
-var mnemonic = "sheriff hospital enlist slice gown antique coral loop caution marble mystery travel";
+var mnemonic = "badge regret very busy tone dumb brush permit onion north kingdom romance";

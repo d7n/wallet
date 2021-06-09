@@ -1,1 +1,1 @@
-var mnemonic = "height nation build price solar room forward grunt round tip cabin interest";
+var mnemonic = "olympic brief truck paper couple announce frog bench exhibit girl answer evolve";

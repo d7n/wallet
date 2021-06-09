@@ -1,1 +1,1 @@
-var mnemonic = "depend what win nature skin spread act until owner awake diesel this";
+var mnemonic = "much month neutral scissors alter unknown require figure gift desk raven unit";

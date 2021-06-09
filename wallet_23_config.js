@@ -1,1 +1,1 @@
-var mnemonic = "until payment moment execute crater ceiling logic easy tube extra license palace";
+var mnemonic = "frame monitor inquiry vocal erosion tool alien peanut ribbon certain fiscal essay";

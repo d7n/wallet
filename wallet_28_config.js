@@ -1,1 +1,1 @@
-var mnemonic = "dial science icon patrol whisper oyster spirit mom reward special jeans describe";
+var mnemonic = "win spoil produce lesson train notice inquiry coin lonely doll timber neglect";

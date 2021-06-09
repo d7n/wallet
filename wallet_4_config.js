@@ -1,1 +1,1 @@
-var mnemonic = "juice eagle sting sauce nuclear this clap delay exact rotate north execute";
+var mnemonic = "romance runway pioneer feed annual aisle document maze oil start genre edit";

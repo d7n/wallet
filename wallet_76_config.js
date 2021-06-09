@@ -1,1 +1,1 @@
-var mnemonic = "brain deny swear field oval latin secret obtain mercy walnut sausage duck";
+var mnemonic = "install keep lady kind clerk surprise aware census avoid master elephant hurdle";

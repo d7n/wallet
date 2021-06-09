@@ -1,1 +1,1 @@
-var mnemonic = "believe obvious priority gallery hospital deny avoid steel someone unusual sniff oxygen";
+var mnemonic = "example rookie slogan poet field apple melody predict fix clever slot build";

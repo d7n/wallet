@@ -1,1 +1,1 @@
-var mnemonic = "behave frequent barrel swift sail thing denial soccer october sugar custom essence";
+var mnemonic = "check slam vanish curtain person theme couple fatigue eight bleak skull leg";

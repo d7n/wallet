@@ -1,1 +1,1 @@
-var mnemonic = "sense orphan very idea worry light table utility scrap involve draw stove";
+var mnemonic = "inject double wood easily olympic buffalo expect simple oppose addict able top";

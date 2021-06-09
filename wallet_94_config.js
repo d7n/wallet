@@ -1,1 +1,1 @@
-var mnemonic = "afford border vapor humble emerge garage deposit stamp naive coin deal dune";
+var mnemonic = "apart industry problem gorilla oblige venture neither bachelor village grain question bullet";

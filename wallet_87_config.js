@@ -1,1 +1,1 @@
-var mnemonic = "olympic enough impose market flat conduct feel divert bronze buffalo guide asset";
+var mnemonic = "ethics goddess electric electric kick olympic wet sight adjust robust silent improve";

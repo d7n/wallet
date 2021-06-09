@@ -1,1 +1,1 @@
-var mnemonic = "average mouse staff inquiry gorilla crumble online time audit peace screen stone";
+var mnemonic = "isolate power lizard stem consider kingdom verb praise snap wide pottery work";

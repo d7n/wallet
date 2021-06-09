@@ -1,1 +1,1 @@
-var mnemonic = "fragile peasant dash water table mushroom song slice hen silly victory motion";
+var mnemonic = "proof donkey adapt quiz cargo supply multiply major second tunnel sustain glance";

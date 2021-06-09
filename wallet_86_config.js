@@ -1,1 +1,1 @@
-var mnemonic = "inmate blood speed service resist cactus coconut copy myself mosquito inch emerge";
+var mnemonic = "risk sunset minute social park cup pledge royal wash sand oil horn";

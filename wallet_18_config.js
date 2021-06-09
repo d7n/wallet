@@ -1,1 +1,1 @@
-var mnemonic = "lumber mammal rocket feature raven chef betray flame super mixture rail caught";
+var mnemonic = "spike gas problem vapor else arrive cricket bonus cram patrol snake tennis";

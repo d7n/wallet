@@ -1,1 +1,1 @@
-var mnemonic = "tattoo typical coil door consider edge black adjust rug charge tool festival";
+var mnemonic = "interest patrol stay lunar borrow injury medal unique retire short air exhaust";

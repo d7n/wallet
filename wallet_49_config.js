@@ -1,1 +1,1 @@
-var mnemonic = "warrior cram pretty jar finger shallow boost upset law joy mimic hockey";
+var mnemonic = "blame castle indicate poem trumpet secret canyon night rate broom year scrub";

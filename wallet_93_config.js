@@ -1,1 +1,1 @@
-var mnemonic = "wink hill you oxygen arrest stereo display little climb media frequent breeze";
+var mnemonic = "glare light uncle capable gauge tornado scout soldier balcony design meadow ladder";

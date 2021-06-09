@@ -1,1 +1,1 @@
-var mnemonic = "food thank example situate lyrics step unfold lab track brisk anchor addict";
+var mnemonic = "exhibit erupt beauty purpose parrot blast destroy among idea isolate remain nerve";

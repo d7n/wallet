@@ -1,1 +1,1 @@
-var mnemonic = "affair drastic trash real finish exercise pave orbit retire bullet patch earth";
+var mnemonic = "sister gentle meadow legal fashion refuse mansion refuse verb liberty best valid";

@@ -1,1 +1,1 @@
-var mnemonic = "razor day fabric fiber error lecture will tornado improve figure error crystal";
+var mnemonic = "potato pencil deal frequent inherit oval gold check catalog ice test salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "face tomorrow promote grain shadow clay treat require glow simple floor notice";
+var mnemonic = "burst jazz define blossom loop sentence move favorite element equip creek bulk";

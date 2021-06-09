@@ -1,1 +1,1 @@
-var mnemonic = "sniff fly scissors advance insect tobacco evolve express dust between army course";
+var mnemonic = "wreck chalk puppy when mango manual forest mandate say ranch affair banner";

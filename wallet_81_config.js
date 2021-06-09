@@ -1,1 +1,1 @@
-var mnemonic = "twelve kick once just cluster jelly ignore remind deliver like flip leaf";
+var mnemonic = "ready must purse vocal drive utility sure table misery web portion clean";

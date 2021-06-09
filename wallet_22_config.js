@@ -1,1 +1,1 @@
-var mnemonic = "truth thank punch drift atom venue test dice inner aerobic alcohol bargain";
+var mnemonic = "below pulse tower width ticket second jealous acquire sketch click frog donor";

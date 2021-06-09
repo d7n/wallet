@@ -1,1 +1,1 @@
-var mnemonic = "derive quarter hover neither figure click moral universe eyebrow patch whale eight";
+var mnemonic = "easily intact vicious perfect romance hurdle you palace pigeon aware motor aware";

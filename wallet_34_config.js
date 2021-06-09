@@ -1,1 +1,1 @@
-var mnemonic = "valve proof food depend digital dwarf labor clarify code fine mask borrow";
+var mnemonic = "myself siege insane view gate bachelor behind narrow crystal around eight wear";

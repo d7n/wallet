@@ -1,1 +1,1 @@
-var mnemonic = "kite kangaroo illness learn must arena stay scale mistake choose kick physical";
+var mnemonic = "maximum car pistol used table any sniff expose issue napkin oppose lunch";

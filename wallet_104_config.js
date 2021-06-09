@@ -1,1 +1,1 @@
-var mnemonic = "rain grab health forget symbol bargain evil stuff venture legal will quantum";
+var mnemonic = "exotic fringe scene runway win scout hidden crater utility bubble tide eagle";

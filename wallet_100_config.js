@@ -1,1 +1,1 @@
-var mnemonic = "true tackle exact opinion clarify relief renew iron puppy again hand bounce";
+var mnemonic = "depart boring nerve congress enemy phrase enforce term inspire win congress thank";

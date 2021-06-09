@@ -1,1 +1,1 @@
-var mnemonic = "shell embark antique human excuse earn visual mushroom feel umbrella fever beef";
+var mnemonic = "know dumb sport involve argue roof trap peanut slam impact truth cherry";

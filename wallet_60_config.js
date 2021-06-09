@@ -1,1 +1,1 @@
-var mnemonic = "option alone drip shoot blanket light toe menu alter tackle road elder";
+var mnemonic = "quit sphere law mountain black owner foster arrange pink ketchup expose sun";

@@ -1,1 +1,1 @@
-var mnemonic = "deny wolf lemon cruel wrong scrap idle march country disagree poet width";
+var mnemonic = "paddle twelve harvest material install flight dial gentle lunch surprise rotate bean";

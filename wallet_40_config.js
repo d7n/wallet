@@ -1,1 +1,1 @@
-var mnemonic = "aisle design belt detail light mouse faint level coffee border grab warm";
+var mnemonic = "weather outer super begin online visit surface hard exclude gallery twelve author";

@@ -1,1 +1,1 @@
-var mnemonic = "hen sunny stairs disease nasty peasant diet kit feed achieve avocado oak";
+var mnemonic = "unknown oil aunt arch gentle deputy modify canyon health kid critic coconut";

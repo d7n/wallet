@@ -1,1 +1,1 @@
-var mnemonic = "topple junk object unhappy solve write eternal thumb dove suit defy junk";
+var mnemonic = "arrest unlock ordinary alien rebuild runway gauge sponsor fashion nuclear expect sand";

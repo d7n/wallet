@@ -1,1 +1,1 @@
-var mnemonic = "vicious butter rigid sustain shallow mercy diamond feel merit thumb echo moment";
+var mnemonic = "ozone family ethics marble wisdom aim bar enrich doll patch rabbit pattern";

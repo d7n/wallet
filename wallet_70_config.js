@@ -1,1 +1,1 @@
-var mnemonic = "inherit harbor return struggle derive fiber picture inspire palace roof under law";
+var mnemonic = "lady metal settle garment reflect keep auction artwork neck salmon suffer summer";

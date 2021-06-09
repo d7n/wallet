@@ -1,1 +1,1 @@
-var mnemonic = "receive bid hill never often damp desert dirt assault zero lumber enrich";
+var mnemonic = "glimpse add click coach become depart lazy slide balance expose local process";

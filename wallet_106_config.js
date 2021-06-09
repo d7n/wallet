@@ -1,1 +1,1 @@
-var mnemonic = "agree evidence throw park surge roof couch exotic exclude manage record reduce";
+var mnemonic = "fine gasp fit girl slab cruise ridge early betray must correct wire";

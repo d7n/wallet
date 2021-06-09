@@ -1,1 +1,1 @@
-var mnemonic = "force novel cabin utility cart remove such slush forest cable skate ketchup";
+var mnemonic = "engage bunker twelve farm grace trophy close later tool egg box bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "learn daring claim select myth rival credit inspire absorb quarter sorry forget";
+var mnemonic = "render crane earth fancy glide glass connect swallow apple spin stage summer";

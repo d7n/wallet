@@ -1,1 +1,1 @@
-var mnemonic = "marine panda remember poem moment horror yellow nephew warm debris harbor ball";
+var mnemonic = "knock elite long security welcome climb weapon mind awkward matrix depend reveal";

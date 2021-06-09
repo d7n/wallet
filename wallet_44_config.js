@@ -1,1 +1,1 @@
-var mnemonic = "gauge cage jar library feed steel keen effort immense feel transfer close";
+var mnemonic = "erosion unlock drip enable universe congress rough about abuse harvest top foam";

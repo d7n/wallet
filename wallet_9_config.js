@@ -1,1 +1,1 @@
-var mnemonic = "unique sunny drift ride correct lamp boil whip sugar hungry travel skirt";
+var mnemonic = "term crime sibling best nation gold capital buzz service expect midnight sorry";

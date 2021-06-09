@@ -1,1 +1,1 @@
-var mnemonic = "faith sting spin eternal since area initial tackle position social beauty happy";
+var mnemonic = "bike clerk cousin february unhappy early fork cute require utility faculty alert";

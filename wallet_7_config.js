@@ -1,1 +1,1 @@
-var mnemonic = "discover help almost swear buyer phrase credit bamboo liberty sound unveil mercy";
+var mnemonic = "shiver metal trouble accident river moral wait deer bring reopen boil until";

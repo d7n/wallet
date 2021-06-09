@@ -1,1 +1,1 @@
-var mnemonic = "gasp flat lunch mind brass market horn number repair sail normal need";
+var mnemonic = "sadness wrong tooth mandate math grape dust crack side where fatigue arm";

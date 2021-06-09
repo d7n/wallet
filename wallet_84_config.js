@@ -1,1 +1,1 @@
-var mnemonic = "ski knee library oppose plastic opinion stumble inject air pink change force";
+var mnemonic = "enable neutral acoustic eye shiver tiny theory van erosion involve sphere open";

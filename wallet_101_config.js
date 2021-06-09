@@ -1,1 +1,1 @@
-var mnemonic = "spot game patch peanut avoid suspect scale sustain meadow spray loyal valve";
+var mnemonic = "claw exist injury save peanut miss tower slab daring glance dwarf victory";

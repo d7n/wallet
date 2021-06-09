@@ -1,1 +1,1 @@
-var mnemonic = "steel slot route lift artwork globe undo topic answer unknown proof goat";
+var mnemonic = "trim shield obscure ski finish letter fashion stage valve path sad next";

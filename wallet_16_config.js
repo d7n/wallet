@@ -1,1 +1,1 @@
-var mnemonic = "lake another kid eyebrow inside motion stick snap wreck obey hazard father";
+var mnemonic = "language doll picnic burst voice cricket exclude pig popular venture unhappy actual";

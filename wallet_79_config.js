@@ -1,1 +1,1 @@
-var mnemonic = "combine flame bundle lamp service guilt seat neglect swift train raven alter";
+var mnemonic = "rookie cliff arm steel urban obey piano half absorb poet obtain poverty";

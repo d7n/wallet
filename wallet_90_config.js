@@ -1,1 +1,1 @@
-var mnemonic = "fade luggage catalog sport mercy harvest tooth announce dash alarm pipe combine";
+var mnemonic = "female equal rebuild ostrich agent coffee pipe install raven word mean multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal present forget remain argue zone swift toss series smoke floor slot";
+var mnemonic = "limb bacon pet south father mother visa maximum soap monster foam artwork";

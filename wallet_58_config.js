@@ -1,1 +1,1 @@
-var mnemonic = "height hamster much dutch usage winner below minute interest dinner picnic ball";
+var mnemonic = "wage fabric option cinnamon distance ribbon bid craft column grab spy excuse";

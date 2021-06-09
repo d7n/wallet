@@ -1,1 +1,1 @@
-var mnemonic = "spirit document resist promote junior spatial flight garage curious blood turn nasty";
+var mnemonic = "subject forum destroy lake library artwork switch alley trend elegant zoo maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel illegal prison suffer suffer climb mule indicate deposit sunny health stock";
+var mnemonic = "art student current door undo tortoise citizen north donor dignity receive dinosaur";

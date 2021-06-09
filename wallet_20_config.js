@@ -1,1 +1,1 @@
-var mnemonic = "skull waste upgrade margin spike fly virus property crucial stick furnace want";
+var mnemonic = "glory fetch ensure matrix alarm century bounce enforce gift real clap waste";

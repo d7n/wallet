@@ -1,1 +1,1 @@
-var mnemonic = "marble couple leisure mesh engage name hamster mesh horn setup ordinary twin";
+var mnemonic = "spatial north impose enhance senior captain siren dash stove gauge talk volume";

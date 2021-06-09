@@ -1,1 +1,1 @@
-var mnemonic = "exact medal prize net negative debris office hammer inmate desert disagree poverty";
+var mnemonic = "fragile current enroll roast nurse shove exercise twelve match drop apology robust";

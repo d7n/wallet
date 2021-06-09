@@ -1,1 +1,1 @@
-var mnemonic = "globe aisle slogan magic issue ginger promote drop limb remember then snap";
+var mnemonic = "slogan replace regular gaze behind danger once grunt afford marriage guess matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "happy once evidence poet bone often lab feel glue arctic chat wear";
+var mnemonic = "organ wedding toddler manual ozone tuition print dry merge else gather lawsuit";

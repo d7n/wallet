@@ -1,1 +1,1 @@
-var mnemonic = "tree popular autumn mention photo chief buyer life industry garment impose bonus";
+var mnemonic = "learn west cake utility consider finish sniff inmate drink vacuum alert click";

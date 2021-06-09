@@ -1,1 +1,1 @@
-var mnemonic = "rate ring crime video digital essence kitchen bulb survey angry marriage expose";
+var mnemonic = "food area thing castle sing design empty mystery capital vital pen glory";

@@ -1,1 +1,1 @@
-var mnemonic = "junior hello educate farm night issue like balance click aspect peanut element";
+var mnemonic = "ordinary tongue open excess knife blush fan morning scorpion brush useless bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle fossil ride climb army omit chaos switch bamboo army ordinary hazard";
+var mnemonic = "laugh robust wild night suffer chicken canvas suffer energy victory silent reject";

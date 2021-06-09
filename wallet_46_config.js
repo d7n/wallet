@@ -1,1 +1,1 @@
-var mnemonic = "art trouble guilt tent observe horse nest blind amateur alter rotate pledge";
+var mnemonic = "fox disagree rebuild simple cargo double capable local final car reform kid";

@@ -1,1 +1,1 @@
-var mnemonic = "drink clarify best design nasty mouse pelican adult struggle next device claim";
+var mnemonic = "rather enable divorce candy deliver rescue staff lens desert super monkey upgrade";

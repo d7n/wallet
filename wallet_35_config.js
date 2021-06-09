@@ -1,1 +1,1 @@
-var mnemonic = "boil pelican chef elbow glow inquiry fence demise gentle wolf marine buyer";
+var mnemonic = "lobster illness inmate utility faith meat twelve travel garlic region donkey shy";
