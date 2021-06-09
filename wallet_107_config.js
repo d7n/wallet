@@ -1,1 +1,1 @@
-var mnemonic = "valley cannon actual fee fatigue cable pull utility novel just neck faculty";
+var mnemonic = "theme friend employ cloud unveil indoor sweet bacon draw drift wild seat";

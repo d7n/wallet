@@ -1,1 +1,1 @@
-var mnemonic = "express easy reveal recycle solar riot cable impose proof sight ginger already";
+var mnemonic = "base weather mixed winner rice another cube idea hold choice seminar venture";

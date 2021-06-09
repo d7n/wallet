@@ -1,1 +1,1 @@
-var mnemonic = "tube easy kind clump ability blade approve glory energy barrel surge palm";
+var mnemonic = "luggage until smart margin tissue brief shaft wage tower circle usual until";

@@ -1,1 +1,1 @@
-var mnemonic = "nation situate point aunt patient mammal soap shuffle planet series uncle post";
+var mnemonic = "organ brother glimpse bus arrive always slush annual baby family tooth gentle";

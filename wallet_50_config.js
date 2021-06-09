@@ -1,1 +1,1 @@
-var mnemonic = "glad negative universe silver cloth talk bonus upset parrot outdoor jump base";
+var mnemonic = "force chapter image muffin exile tone dish essay typical identify draft fog";

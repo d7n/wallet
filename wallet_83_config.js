@@ -1,1 +1,1 @@
-var mnemonic = "radio spread move enlist venue whale sword walk shoot sudden silk hotel";
+var mnemonic = "project rail improve review tell evidence purity oak cricket leisure material can";

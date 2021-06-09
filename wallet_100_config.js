@@ -1,1 +1,1 @@
-var mnemonic = "alter square kitchen gaze stick jump gospel roof banner sell hazard during";
+var mnemonic = "denial hood trip rescue year wrap galaxy plastic knife excuse sight deliver";

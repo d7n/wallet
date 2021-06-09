@@ -1,1 +1,1 @@
-var mnemonic = "area excess segment runway erase laundry erosion toast drill harsh win biology";
+var mnemonic = "cruel assume under border multiply edit globe pelican rail young innocent average";

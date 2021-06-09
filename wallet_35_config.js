@@ -1,1 +1,1 @@
-var mnemonic = "arena leisure act project output dolphin spot sunset web agent win school";
+var mnemonic = "jump pair boss reject wash yellow guard inch upgrade real present blue";

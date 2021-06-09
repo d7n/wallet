@@ -1,1 +1,1 @@
-var mnemonic = "habit carbon soda grocery enhance bargain volcano fault sponsor flight voyage interest";
+var mnemonic = "curious six certain grow depend hidden example romance cake language armed rose";

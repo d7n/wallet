@@ -1,1 +1,1 @@
-var mnemonic = "into beauty foil note pole crumble whip fix session whisper arrange cram";
+var mnemonic = "oppose spy simple decorate position relax slam copper enable honey museum upon";

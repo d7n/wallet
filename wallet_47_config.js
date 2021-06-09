@@ -1,1 +1,1 @@
-var mnemonic = "quit latin boss wasp mixed nose nice brand assist oxygen enroll obey";
+var mnemonic = "champion scout duty bridge debris unveil nephew ritual label coin dash tell";

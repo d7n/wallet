@@ -1,1 +1,1 @@
-var mnemonic = "three swarm quality leader must excite harsh mystery ridge total evoke fluid";
+var mnemonic = "address dentist cement remove lab banana glad glow bike muffin jump knock";

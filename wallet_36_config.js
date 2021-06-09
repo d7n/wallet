@@ -1,1 +1,1 @@
-var mnemonic = "fire witness before evil dignity sketch comic brief rate banana mandate speed";
+var mnemonic = "devote credit fork maple banana almost simple bind quarter alarm tray cable";

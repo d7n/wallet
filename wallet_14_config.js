@@ -1,1 +1,1 @@
-var mnemonic = "student come become resource woman flag judge roast dilemma burger garment slow";
+var mnemonic = "length soon dolphin time shoe faculty kiwi fantasy around honey memory upon";

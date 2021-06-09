@@ -1,1 +1,1 @@
-var mnemonic = "donkey next over submit surface dust shoulder post tornado mean fabric oblige";
+var mnemonic = "ivory power brisk cannon approve verb alley forest december pulp code sphere";

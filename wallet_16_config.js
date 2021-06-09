@@ -1,1 +1,1 @@
-var mnemonic = "potato color wise trouble dice wealth call meat upset sick dad stove";
+var mnemonic = "nasty garden north pyramid frame ethics tomato receive earn job charge amazing";

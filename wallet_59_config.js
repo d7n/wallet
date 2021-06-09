@@ -1,1 +1,1 @@
-var mnemonic = "enhance diesel crawl minimum asthma virus excuse equip before ring please syrup";
+var mnemonic = "sell divert renew bomb present either sock debris shift menu elevator taxi";

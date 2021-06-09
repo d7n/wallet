@@ -1,1 +1,1 @@
-var mnemonic = "donate blue output runway rival tag hero toy love elite hard kangaroo";
+var mnemonic = "filter raccoon current way inherit culture rural say industry dizzy next suggest";

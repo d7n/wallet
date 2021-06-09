@@ -1,1 +1,1 @@
-var mnemonic = "swear quit fatal adapt demand aim slender neutral miracle nurse harsh strong";
+var mnemonic = "comfort eyebrow anger satisfy wine congress believe account wool match harvest hospital";

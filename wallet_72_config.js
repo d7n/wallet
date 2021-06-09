@@ -1,1 +1,1 @@
-var mnemonic = "tuna bus apple timber enough keep patrol allow grief example behind fever";
+var mnemonic = "bless sibling rather hamster drip crazy still increase refuse woman pole trade";

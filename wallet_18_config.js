@@ -1,1 +1,1 @@
-var mnemonic = "result inherit express apple dinosaur able initial animal cricket sauce assist foster";
+var mnemonic = "gaze rather orange wet toy soccer amazing fuel either brown glare special";

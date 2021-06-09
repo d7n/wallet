@@ -1,1 +1,1 @@
-var mnemonic = "appear rate car airport demand fetch tennis world drift wear language head";
+var mnemonic = "dream palm cup scale kick bachelor orchard someone version design acquire shop";

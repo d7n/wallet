@@ -1,1 +1,1 @@
-var mnemonic = "ritual marriage over wisdom inherit like evidence video route peasant filter liberty";
+var mnemonic = "shoulder armor work emerge recall rich appear portion weird poverty point chunk";

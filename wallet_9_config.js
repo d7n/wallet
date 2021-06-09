@@ -1,1 +1,1 @@
-var mnemonic = "addict village corn among faculty account tenant help borrow very exchange nothing";
+var mnemonic = "vault grow hat blue grace praise brown online dry unusual weapon sadness";

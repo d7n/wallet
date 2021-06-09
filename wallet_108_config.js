@@ -1,1 +1,1 @@
-var mnemonic = "clerk load human eight various hollow smooth pistol legend submit soda spawn";
+var mnemonic = "advice stumble toilet online toe receive crawl flee harsh pact combine nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "banner game cancel have sleep sentence sudden derive drive mail hurt coach";
+var mnemonic = "toe stuff lend owner poverty analyst trial owner neglect setup cattle brave";

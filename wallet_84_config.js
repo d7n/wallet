@@ -1,1 +1,1 @@
-var mnemonic = "west regular dwarf divert witness fall field garlic spatial plate mistake camp";
+var mnemonic = "expire affair neck cactus employ deal van talk trust demise target spot";

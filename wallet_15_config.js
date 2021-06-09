@@ -1,1 +1,1 @@
-var mnemonic = "broccoli version observe bridge ribbon output sketch still diesel skate month minute";
+var mnemonic = "buddy autumn body join elevator list stomach vote cart claw obvious kiwi";

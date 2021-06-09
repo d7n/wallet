@@ -1,1 +1,1 @@
-var mnemonic = "major increase wall fish matter vintage ball cluster cruise film runway mammal";
+var mnemonic = "merit search parent all nephew position horror abstract clip muscle tuition swim";

@@ -1,1 +1,1 @@
-var mnemonic = "advance vintage spike again pizza aware brisk hover warfare grace trumpet conduct";
+var mnemonic = "drastic toss wheat limb coyote jump hungry hill harbor heart habit code";

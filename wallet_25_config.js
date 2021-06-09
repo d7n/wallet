@@ -1,1 +1,1 @@
-var mnemonic = "border hen yellow cash wash media outdoor hole audit vibrant action rain";
+var mnemonic = "ecology patient unveil pen valley bind there special knee finish fantasy average";

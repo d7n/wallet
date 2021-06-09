@@ -1,1 +1,1 @@
-var mnemonic = "genre debris simple nice basket canvas jazz trial final field mad ask";
+var mnemonic = "armed rubber average rubber kitchen million gospel giggle pear ghost leave zoo";

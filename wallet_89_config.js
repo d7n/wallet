@@ -1,1 +1,1 @@
-var mnemonic = "skate hurry gadget gold panda staff wish female develop goose load morning";
+var mnemonic = "theory boost unit hollow boost bicycle crawl indicate other slide digital great";

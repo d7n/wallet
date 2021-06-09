@@ -1,1 +1,1 @@
-var mnemonic = "public legend object evoke transfer symptom attack section clutch they system whale";
+var mnemonic = "raise inmate diagram account noise require girl jar social actual skin slogan";

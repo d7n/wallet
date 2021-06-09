@@ -1,1 +1,1 @@
-var mnemonic = "primary control where crowd raise despair resemble amount luggage room venture video";
+var mnemonic = "jar girl side boss frost shove hover section raw absurd credit crumble";

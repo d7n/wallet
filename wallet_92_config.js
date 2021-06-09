@@ -1,1 +1,1 @@
-var mnemonic = "park crop erase profit rude ticket drink frozen program auction machine this";
+var mnemonic = "option drive lens surface canyon insane fantasy else basket tongue donate east";

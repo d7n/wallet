@@ -1,1 +1,1 @@
-var mnemonic = "lounge stable alley bridge govern board finger little rocket bounce cancel kangaroo";
+var mnemonic = "fury inflict object only century dizzy regret box sudden concert click timber";

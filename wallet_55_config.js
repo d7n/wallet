@@ -1,1 +1,1 @@
-var mnemonic = "dry office impact abuse pulse ability bar earth crunch divert wage outside";
+var mnemonic = "submit concert skill ahead involve file century cream cute moral silver color";

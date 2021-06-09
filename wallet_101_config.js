@@ -1,1 +1,1 @@
-var mnemonic = "wood lyrics matrix festival tragic rent lunch combine casino light brick dance";
+var mnemonic = "will aerobic tuition flower employ prepare source blade monitor base nose cost";

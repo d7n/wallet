@@ -1,1 +1,1 @@
-var mnemonic = "prepare frog nerve ten magnet unfold swarm lend solid pull armed ladder";
+var mnemonic = "police carbon help globe column chaos visa ranch sentence crash whisper sudden";

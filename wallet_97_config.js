@@ -1,1 +1,1 @@
-var mnemonic = "spoon antenna spring shield scorpion copy avoid history luxury slim minor flush";
+var mnemonic = "merge copy airport banana jewel noise million intact glimpse six animal smoke";

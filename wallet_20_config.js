@@ -1,1 +1,1 @@
-var mnemonic = "imitate bronze tray cost tattoo decide rain spread series grocery bind tenant";
+var mnemonic = "fever slot gasp crumble clump market judge ice aunt broom raise faculty";

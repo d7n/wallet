@@ -1,1 +1,1 @@
-var mnemonic = "either puppy mountain early ripple execute bunker duck team domain lamp buddy";
+var mnemonic = "strong chunk birth vivid girl embark brand green frost derive hip various";

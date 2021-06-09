@@ -1,1 +1,1 @@
-var mnemonic = "organ addict believe walnut weasel ivory early sudden chimney try erase target";
+var mnemonic = "load rotate arch transfer nerve volcano about post city kiwi afford judge";

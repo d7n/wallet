@@ -1,1 +1,1 @@
-var mnemonic = "core enforce pulp truly profit clever drill fault tuna beauty bundle fluid";
+var mnemonic = "can correct canyon theory fossil park spider include shaft faint angry bicycle";

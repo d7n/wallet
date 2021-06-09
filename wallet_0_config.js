@@ -1,1 +1,1 @@
-var mnemonic = "game sea coach curve attract vacuum tower eyebrow day genre approve fitness";
+var mnemonic = "label aisle emotion film rib begin modify scene distance account grief treat";

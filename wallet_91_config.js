@@ -1,1 +1,1 @@
-var mnemonic = "mobile already fatigue area bean umbrella flock artist also holiday impact way";
+var mnemonic = "invest ocean dad alpha hold until pool core print prison lizard output";

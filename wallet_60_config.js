@@ -1,1 +1,1 @@
-var mnemonic = "soon library egg trade glass hub net bring hawk casual office defy";
+var mnemonic = "solid health inflict other skirt diary run drip hold direct crop use";

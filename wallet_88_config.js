@@ -1,1 +1,1 @@
-var mnemonic = "glow cup tooth oppose tennis post stereo era energy catalog vast nation";
+var mnemonic = "wash sphere effort game layer permit cry verify machine grunt august mix";

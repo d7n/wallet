@@ -1,1 +1,1 @@
-var mnemonic = "cloth multiply simple flat drama lottery spatial skill rail believe oven visa";
+var mnemonic = "amateur volcano boring dutch expand wear spoon sign exchange memory fuel address";

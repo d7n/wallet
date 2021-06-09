@@ -1,1 +1,1 @@
-var mnemonic = "brass cube used sweet jazz write bus fat ability hollow artefact cost";
+var mnemonic = "secret thunder funny orient dish defense debate minimum alone menu negative advice";

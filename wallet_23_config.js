@@ -1,1 +1,1 @@
-var mnemonic = "finish broken cash quit mix fire learn purity title sure public cattle";
+var mnemonic = "hand frog ghost skin stone wolf forum enact stereo alley dance edge";

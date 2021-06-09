@@ -1,1 +1,1 @@
-var mnemonic = "skull avocado admit another frame whale fault mandate embrace achieve rocket awful";
+var mnemonic = "change example chalk royal loan private surge assume eager caution broccoli venture";

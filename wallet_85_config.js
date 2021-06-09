@@ -1,1 +1,1 @@
-var mnemonic = "gym shuffle now flat anger clean possible main planet dizzy shadow now";
+var mnemonic = "call grab dwarf morning void dress kiss gadget metal end foot debris";

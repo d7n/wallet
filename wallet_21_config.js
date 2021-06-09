@@ -1,1 +1,1 @@
-var mnemonic = "alcohol blade horse educate elder topic usual federal exhibit together april pledge";
+var mnemonic = "arena make antique steak chuckle rough gossip disagree arm april slide dog";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin clarify cool robot crawl venue sausage soft seminar snap purpose dumb";
+var mnemonic = "drive rubber grab caught fresh bounce deny win anger library night bounce";

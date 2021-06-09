@@ -1,1 +1,1 @@
-var mnemonic = "rug olympic lawn wood mirror orient hour sort mosquito multiply jazz wish";
+var mnemonic = "dragon turn marble problem you puppy hire young cement language december thing";

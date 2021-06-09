@@ -1,1 +1,1 @@
-var mnemonic = "illness fresh hunt remind prison dolphin piano argue finger shock high photo";
+var mnemonic = "shop speak stay theory hidden certain lion seat canyon boat rifle grow";

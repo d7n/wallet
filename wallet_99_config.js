@@ -1,1 +1,1 @@
-var mnemonic = "lesson success pizza split whip seek acquire nerve join nature alone scale";
+var mnemonic = "kitten blouse easily phone like burst fat suit gold chaos depth inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet cook dog orchard wage oblige neither bullet average cable gold spatial";
+var mnemonic = "critic broccoli wool grape salmon rice novel reflect degree result track goat";

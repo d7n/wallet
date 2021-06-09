@@ -1,1 +1,1 @@
-var mnemonic = "cruel junior upgrade fancy bounce dizzy become alien tuna various forum will";
+var mnemonic = "powder point luggage quit uncle token goat napkin library junior jump have";

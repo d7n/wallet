@@ -1,1 +1,1 @@
-var mnemonic = "venue salon across equal orchard peace toss mercy humor trend ribbon biology";
+var mnemonic = "early derive census receive empower equip wait gauge private shock grant type";

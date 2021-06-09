@@ -1,1 +1,1 @@
-var mnemonic = "cushion candy thunder portion fancy trim embrace system ladder say comfort metal";
+var mnemonic = "reflect output hospital donate peace slight crunch hello useless collect timber shock";

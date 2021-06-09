@@ -1,1 +1,1 @@
-var mnemonic = "boring join another caution child alert unique special bean dream calm pull";
+var mnemonic = "coil swallow push broccoli purity limb option expect young draw school test";

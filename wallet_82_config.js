@@ -1,1 +1,1 @@
-var mnemonic = "unknown remind velvet accident wrap globe useful excuse dolphin crack thumb brief";
+var mnemonic = "skin diary patch blanket assist kind shell audit essay merge lazy yard";

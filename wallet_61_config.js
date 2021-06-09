@@ -1,1 +1,1 @@
-var mnemonic = "electric arrange reunion sniff maid pumpkin canyon gather grit fire climb matrix";
+var mnemonic = "horror coyote perfect hope spread snow cigar jacket scout light release dial";

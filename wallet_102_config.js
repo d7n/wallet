@@ -1,1 +1,1 @@
-var mnemonic = "owner scheme next globe test physical wash fee coin success turkey grain";
+var mnemonic = "depend remove portion extend kitchen soap result zero expire rural lucky seek";

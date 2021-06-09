@@ -1,1 +1,1 @@
-var mnemonic = "bird clump salmon pulse drill since tent crouch toast attitude season canal";
+var mnemonic = "nuclear army vague chicken beach festival street farm deputy join flight beyond";

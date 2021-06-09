@@ -1,1 +1,1 @@
-var mnemonic = "tribe basket guide doll host genuine power six run barrel water tube";
+var mnemonic = "unhappy index upgrade obvious history remember clever erode weather belt sense seat";

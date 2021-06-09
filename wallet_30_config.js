@@ -1,1 +1,1 @@
-var mnemonic = "step short start mosquito muscle unable choice fresh noble nephew marriage spend";
+var mnemonic = "dog fly swamp laptop vivid walnut diamond cook nephew catch dial cup";

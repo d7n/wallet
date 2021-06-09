@@ -1,1 +1,1 @@
-var mnemonic = "wealth orange fiscal sunny cliff chaos sunset crumble country crash fat fragile";
+var mnemonic = "pull coach promote muffin consider clerk extend excuse nut then avocado penalty";

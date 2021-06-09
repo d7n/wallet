@@ -1,1 +1,1 @@
-var mnemonic = "quality organ crucial vicious ugly ostrich dad mimic stone bulb reject alarm";
+var mnemonic = "explain comfort diet east nest weasel correct desk property uphold zoo perfect";

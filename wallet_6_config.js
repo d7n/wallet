@@ -1,1 +1,1 @@
-var mnemonic = "february code tower payment once crop kiwi deny penalty basic huge appear";
+var mnemonic = "still anxiety tent grow enable manage fall wreck winter list riot layer";

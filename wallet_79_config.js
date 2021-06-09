@@ -1,1 +1,1 @@
-var mnemonic = "increase smile can bench van drastic cancel dash traffic birth actress elephant";
+var mnemonic = "address option wedding shine script together twin brief thank donor message squeeze";

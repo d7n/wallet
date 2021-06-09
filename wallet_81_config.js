@@ -1,1 +1,1 @@
-var mnemonic = "visual bacon middle atom fatigue betray cabin include grace double journey enact";
+var mnemonic = "fish private ill vibrant hat describe crunch involve dream mistake soft gadget";

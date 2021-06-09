@@ -1,1 +1,1 @@
-var mnemonic = "insect unit dust tide pigeon coach useless short open job unique purchase";
+var mnemonic = "know pizza odor renew you order jewel market asset grab lake squirrel";

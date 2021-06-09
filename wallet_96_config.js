@@ -1,1 +1,1 @@
-var mnemonic = "reject enter potato toss best sphere merry taste harsh industry afraid vibrant";
+var mnemonic = "unhappy pigeon orbit tray mesh size sample husband couch insect oppose drama";

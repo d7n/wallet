@@ -1,1 +1,1 @@
-var mnemonic = "scare apart kind puppy pear salmon bounce grant damp multiply stamp umbrella";
+var mnemonic = "fly panic doctor nerve desert satoshi promote polar crystal noble knock replace";

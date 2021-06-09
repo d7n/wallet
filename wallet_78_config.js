@@ -1,1 +1,1 @@
-var mnemonic = "sibling once alone whisper help clarify expect barrel sibling lonely fall fatal";
+var mnemonic = "total small zone feel cheese draft mix circle position object cheap gather";

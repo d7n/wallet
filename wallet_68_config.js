@@ -1,1 +1,1 @@
-var mnemonic = "diagram horror drift fuel moon because elegant napkin purity decrease arena chef";
+var mnemonic = "lend leave second puzzle road staff oyster entire collect apart budget donate";

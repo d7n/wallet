@@ -1,1 +1,1 @@
-var mnemonic = "carpet speak one empty raw public traffic address medal better fork eager";
+var mnemonic = "victory cotton helmet manual section mirror type strong knee cannon balance amount";

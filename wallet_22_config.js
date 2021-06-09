@@ -1,1 +1,1 @@
-var mnemonic = "peace pumpkin hire luxury noble code bread connect shift guide idea pear";
+var mnemonic = "edit speed menu valve spoil diamond lottery unlock sweet quiz silver rotate";

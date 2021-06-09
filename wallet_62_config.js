@@ -1,1 +1,1 @@
-var mnemonic = "off annual sorry talent razor alter biology dice october exile fury shift";
+var mnemonic = "palace problem sport mouse convince want own physical brother museum payment problem";

@@ -1,1 +1,1 @@
-var mnemonic = "empty vivid supreme grunt bullet radar update result grain topic magnet uncle";
+var mnemonic = "opinion brother endless strike current sign nest horn clerk team cube benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "small cave poet demise erupt song cargo library thrive suffer valley donor";
+var mnemonic = "draft endorse aisle subway ticket sword effort canyon already holiday crop drive";

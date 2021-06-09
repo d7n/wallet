@@ -1,1 +1,1 @@
-var mnemonic = "visual soccer broom roast explain pet purity oval ghost also edge raw";
+var mnemonic = "entry biology slush mix quality moment jelly man vapor town fruit promote";

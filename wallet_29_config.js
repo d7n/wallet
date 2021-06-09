@@ -1,1 +1,1 @@
-var mnemonic = "attack limb pride arrange type depend arm violin filter sauce tennis simple";
+var mnemonic = "lecture holiday cram delay bitter okay light shed what arm black awake";
