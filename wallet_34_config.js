@@ -1,1 +1,1 @@
-var mnemonic = "favorite right vast eternal sausage crowd occur nut biology brush aunt rhythm";
+var mnemonic = "produce suggest dream brush joke embrace cargo tomato brisk artwork gentle medal";

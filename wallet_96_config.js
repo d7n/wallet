@@ -1,1 +1,1 @@
-var mnemonic = "tennis scan vote attitude borrow depth electric drama saddle balcony volcano twice";
+var mnemonic = "hurt talent timber auto man correct boat hidden loyal lyrics virtual picnic";

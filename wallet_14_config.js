@@ -1,1 +1,1 @@
-var mnemonic = "behind draft brown unusual harsh find rival kitchen seminar mix stone swing";
+var mnemonic = "drop master wonder inherit library palace heart success east learn void negative";

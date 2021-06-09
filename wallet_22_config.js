@@ -1,1 +1,1 @@
-var mnemonic = "clown more mix top paddle throw wolf idea outdoor canoe believe toast";
+var mnemonic = "try cat crash action color dawn time arm meat brush intact about";

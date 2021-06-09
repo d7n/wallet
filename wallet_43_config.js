@@ -1,1 +1,1 @@
-var mnemonic = "wrestle embody cricket guess acoustic bus obey screen acid label citizen cover";
+var mnemonic = "record dentist cook false sea enroll bag vault meadow evoke tonight keep";

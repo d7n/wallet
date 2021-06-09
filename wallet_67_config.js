@@ -1,1 +1,1 @@
-var mnemonic = "exclude sense pulp fitness have purity between fee trial wisdom blade farm";
+var mnemonic = "voice seek guess silk scale relief miracle beyond uphold glory tonight dwarf";

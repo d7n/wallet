@@ -1,1 +1,1 @@
-var mnemonic = "ripple tuition chicken vapor tuition tribe wagon kiwi output bread distance mixed";
+var mnemonic = "kit leg tag chunk foot harbor merge demise silent chat tool vital";

@@ -1,1 +1,1 @@
-var mnemonic = "opera arch merge indicate wasp coin oblige carbon gown say tribe month";
+var mnemonic = "escape route large switch old bag guilt jaguar police tissue hair there";

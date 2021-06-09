@@ -1,1 +1,1 @@
-var mnemonic = "style kind song accuse recall glove sniff crazy arrow awake tide physical";
+var mnemonic = "left ostrich office chat palm grab sing warfare skin witness reopen bid";

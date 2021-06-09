@@ -1,1 +1,1 @@
-var mnemonic = "easy wine grass merge lava top inspire antique dignity truly poem protect";
+var mnemonic = "atom stereo owner rescue punch key trust lucky sunset neutral bonus sea";

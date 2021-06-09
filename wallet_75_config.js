@@ -1,1 +1,1 @@
-var mnemonic = "reason armed they lonely special penalty scale liberty bring insane faculty glory";
+var mnemonic = "program else link security uphold crush eager bacon because tray canoe shoulder";

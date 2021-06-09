@@ -1,1 +1,1 @@
-var mnemonic = "velvet interest health identify useless youth blind reflect miracle laundry retire resource";
+var mnemonic = "because shoot cloth pill habit shiver smooth melt author good dice cupboard";

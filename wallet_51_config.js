@@ -1,1 +1,1 @@
-var mnemonic = "wide toward minimum hammer render mind enhance man march price design trial";
+var mnemonic = "paddle kid floor vicious quantum coil robust teach fetch cream retreat boat";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe trophy middle civil bounce miracle penalty wing mechanic street verb business";
+var mnemonic = "phone element life wire slender sorry fatal cat best helmet inject actress";

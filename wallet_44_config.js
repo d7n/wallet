@@ -1,1 +1,1 @@
-var mnemonic = "what crash onion protect poverty give apology below click top minor leg";
+var mnemonic = "lonely grant help detect flip during hotel wing inflict afford tuna erupt";

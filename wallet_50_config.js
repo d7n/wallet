@@ -1,1 +1,1 @@
-var mnemonic = "flag undo radio dice chief father great canyon scare vote depart parrot";
+var mnemonic = "canvas salmon wife toe morning fish depart subway husband infant make rookie";

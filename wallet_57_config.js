@@ -1,1 +1,1 @@
-var mnemonic = "hint sister boost chapter parrot boost desert language coach struggle betray couple";
+var mnemonic = "mesh snack task regular side brush lawn either only chief lucky average";

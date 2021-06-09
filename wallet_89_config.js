@@ -1,1 +1,1 @@
-var mnemonic = "mercy seven fitness exotic liar curtain radar prosper approve emotion remember lucky";
+var mnemonic = "aim addict opera bless quarter eight hood error hill hollow rain witness";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby vote recall train minute injury disagree upset egg flock spike message";
+var mnemonic = "maximum key exist ability panel embody swear emerge try father steel under";

@@ -1,1 +1,1 @@
-var mnemonic = "either protect across color quality north antenna raven library erode car make";
+var mnemonic = "length reduce arm night grunt sweet extend web hunt silk pledge syrup";

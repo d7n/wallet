@@ -1,1 +1,1 @@
-var mnemonic = "gap boost enemy lion top speed oppose foil arrive merry tide host";
+var mnemonic = "chalk matrix capital leaf rug jacket erase hill express misery fringe addict";

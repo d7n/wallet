@@ -1,1 +1,1 @@
-var mnemonic = "cricket suffer gossip dish grape thunder cluster deputy recall soccer south adapt";
+var mnemonic = "bless evoke cram biology urge fruit renew concert tool approve mule swallow";

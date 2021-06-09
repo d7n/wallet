@@ -1,1 +1,1 @@
-var mnemonic = "glimpse flag wear unfold accident flame penalty team rare derive same party";
+var mnemonic = "couch wagon slight near place marble depart vacuum sponsor chimney file carpet";

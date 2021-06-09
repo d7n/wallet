@@ -1,1 +1,1 @@
-var mnemonic = "alone patch purchase orchard ship brush want quit task library admit fitness";
+var mnemonic = "payment inherit slush zero blanket absent depend message donate turkey sudden clerk";

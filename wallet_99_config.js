@@ -1,1 +1,1 @@
-var mnemonic = "happy famous radio violin universe offer home review access zoo deliver capital";
+var mnemonic = "virtual window remember eagle farm laundry security panic zoo inhale actress fox";

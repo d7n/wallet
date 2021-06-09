@@ -1,1 +1,1 @@
-var mnemonic = "bubble mind decade noise virus ocean country hybrid evidence beauty drama iron";
+var mnemonic = "bike sing reward puzzle scatter clap absurd emotion flavor annual romance surge";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder use rich turtle ensure rural warfare real velvet wrong submit upper";
+var mnemonic = "session bus apart drum banana consider top chapter charge around improve absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "diet machine physical add output piece swift spot blossom health flower deer";
+var mnemonic = "pear either caught nerve annual dirt car excite fringe wool match accident";

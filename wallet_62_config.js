@@ -1,1 +1,1 @@
-var mnemonic = "okay soft bicycle verify change draft choose dinner solve false forget two";
+var mnemonic = "fiscal fix record dress between habit trade choose empower panther hint fan";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot shine defy dizzy best method steak easy apart melody south recall";
+var mnemonic = "tent correct illegal scatter bind member crane ranch media cup can decline";

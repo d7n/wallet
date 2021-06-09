@@ -1,1 +1,1 @@
-var mnemonic = "dentist frozen entry often problem rather priority message mistake merry ship sibling";
+var mnemonic = "vendor purse airport limit index banana invite embrace awesome music session cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "agree keen noodle alley wool run never loop spell daring amused cram";
+var mnemonic = "warm second hotel senior budget arrow alter wonder bulb physical corn mountain";

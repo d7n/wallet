@@ -1,1 +1,1 @@
-var mnemonic = "transfer ski eternal trap modify siren paper magic possible dilemma oppose bounce";
+var mnemonic = "settle lumber receive bid window cement indicate version skate eagle stool fog";

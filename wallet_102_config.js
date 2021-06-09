@@ -1,1 +1,1 @@
-var mnemonic = "best cake donate barrel mansion subway fence pole remain clog mom able";
+var mnemonic = "front laptop soap vault furnace guilt flip bomb word satisfy suit advice";

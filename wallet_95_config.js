@@ -1,1 +1,1 @@
-var mnemonic = "plunge discover blanket reform govern main evolve crew fossil stuff sugar bird";
+var mnemonic = "audit accuse tunnel angry match tuition auction awake wave spot inmate multiply";

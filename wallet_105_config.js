@@ -1,1 +1,1 @@
-var mnemonic = "finish indoor innocent gallery hundred rain hundred picture hen increase indicate taste";
+var mnemonic = "expand tool tilt tribe system journey lawn mail kitchen clutch place echo";

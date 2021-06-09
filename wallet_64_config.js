@@ -1,1 +1,1 @@
-var mnemonic = "body bonus spare reward scrap quit anchor steel life frame above zone";
+var mnemonic = "jazz iron minor heavy praise caution urban name story loyal outer fox";

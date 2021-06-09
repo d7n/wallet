@@ -1,1 +1,1 @@
-var mnemonic = "anger swift library job bachelor fetch nephew shop water decade liquid cluster";
+var mnemonic = "inspire cereal because galaxy glue nation rice novel truth joke huge small";

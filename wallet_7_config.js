@@ -1,1 +1,1 @@
-var mnemonic = "kidney pioneer receive search valley witness reform whale clever rain sniff satoshi";
+var mnemonic = "security camera blast trumpet imitate tobacco ability barrel great cruel genius exit";

@@ -1,1 +1,1 @@
-var mnemonic = "enact grace pilot until cheap sand romance buffalo music afford walnut tape";
+var mnemonic = "chief side accident base ridge dizzy calm diesel fog raven focus proud";

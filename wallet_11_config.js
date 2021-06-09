@@ -1,1 +1,1 @@
-var mnemonic = "average pistol wheel beach genuine prefer quote void truth logic laptop blanket";
+var mnemonic = "dream thrive assault drama tiger amused citizen syrup phrase pyramid define purpose";

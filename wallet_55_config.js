@@ -1,1 +1,1 @@
-var mnemonic = "eye ethics fall retreat castle friend stage ginger rural fault snake slim";
+var mnemonic = "attract family stumble wait visit omit oak fall help spray chat urban";

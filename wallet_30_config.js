@@ -1,1 +1,1 @@
-var mnemonic = "feed permit illegal gentle arrow trial surround sister canal frozen feed solid";
+var mnemonic = "team muffin supreme scheme render chaos hole fat confirm lava forward cram";

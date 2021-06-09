@@ -1,1 +1,1 @@
-var mnemonic = "farm ski suit card sting ten law catalog pen mutual suit exile";
+var mnemonic = "expire high polar inflict antenna adapt infant company mammal ancient naive find";

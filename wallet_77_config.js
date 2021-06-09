@@ -1,1 +1,1 @@
-var mnemonic = "child night oyster wagon alien rose human seminar bargain better boring marine";
+var mnemonic = "ugly pull notable spider innocent news early gentle mistake bitter green spare";

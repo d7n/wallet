@@ -1,1 +1,1 @@
-var mnemonic = "fault person aerobic carbon supply immense clever have stable risk core spike";
+var mnemonic = "tuition rude twenty walk hurdle frequent myth omit various gesture collect second";

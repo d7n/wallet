@@ -1,1 +1,1 @@
-var mnemonic = "chef fantasy chalk able forest submit label flip idle forget eye include";
+var mnemonic = "fat suffer idle rather science fire excite grid property task pupil coyote";

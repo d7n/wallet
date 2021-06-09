@@ -1,1 +1,1 @@
-var mnemonic = "where deposit gather special update fox immune uniform version unusual poem slab";
+var mnemonic = "shove side minor spirit rain crew parent bar wear lesson into nerve";

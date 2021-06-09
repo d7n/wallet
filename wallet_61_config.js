@@ -1,1 +1,1 @@
-var mnemonic = "seed usage siren brother indicate sleep razor comic horror cheap robust spot";
+var mnemonic = "shoulder insane snack ignore science doll enroll holiday federal clump identify quality";

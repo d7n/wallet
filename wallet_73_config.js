@@ -1,1 +1,1 @@
-var mnemonic = "crime quarter impact antique junk version squirrel winner assault stage scene pond";
+var mnemonic = "lawsuit pond adult antenna firm expire ski favorite horse curtain marble cream";

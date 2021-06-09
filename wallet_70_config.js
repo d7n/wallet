@@ -1,1 +1,1 @@
-var mnemonic = "smoke frog name bottom network loop thing expire nice lawsuit world orient";
+var mnemonic = "stage boost capital include answer monster noise atom ability banana verb sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "control cruise below pottery soccer garden brass core slam morning outside own";
+var mnemonic = "lottery pulp fragile mansion hurt pumpkin extend drastic erosion select best bulb";

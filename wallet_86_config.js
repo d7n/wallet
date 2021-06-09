@@ -1,1 +1,1 @@
-var mnemonic = "run junior disease toss alarm machine spoil buffalo endless dress bullet sick";
+var mnemonic = "nothing crystal use input must outside earn build either ripple sun early";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug fresh exist strong island jewel blanket tape collect advance shallow twice";
+var mnemonic = "mandate stomach donor mystery country day cabin toe behind rocket pudding demand";

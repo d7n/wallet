@@ -1,1 +1,1 @@
-var mnemonic = "social buzz below timber globe satisfy fame mammal loan material exhibit express";
+var mnemonic = "very neglect appear reunion crime penalty female mechanic pet valve slow patient";

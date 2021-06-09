@@ -1,1 +1,1 @@
-var mnemonic = "clerk rigid sick goose adult trial main silver business dial march pluck";
+var mnemonic = "core water convince false vital welcome cave thrive crazy good whip armor";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer point eagle size innocent farm library employ immense just mask teach";
+var mnemonic = "cry inmate casino belt banner car off mesh reject hire reason sport";

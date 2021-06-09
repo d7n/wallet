@@ -1,1 +1,1 @@
-var mnemonic = "debris extra cement first bubble dash youth this brisk name shine volume";
+var mnemonic = "moon tomato manage float faith camp mouse receive kite click comfort month";

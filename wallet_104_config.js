@@ -1,1 +1,1 @@
-var mnemonic = "choose ginger inside inch lonely another access shadow bring similar shoulder blame";
+var mnemonic = "maple truly axis inflict awesome inherit tell rare rubber simple october alien";

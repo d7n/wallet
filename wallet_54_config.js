@@ -1,1 +1,1 @@
-var mnemonic = "then pudding unusual fame sniff scorpion venue cover moral attract trade parent";
+var mnemonic = "clock deposit sauce equip eight gesture praise genuine heavy annual topic cook";

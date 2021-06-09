@@ -1,1 +1,1 @@
-var mnemonic = "angle soldier snack club possible extend parade wall car section defense gentle";
+var mnemonic = "wage naive raw wink original age much nice believe ridge gorilla baby";

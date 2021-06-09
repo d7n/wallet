@@ -1,1 +1,1 @@
-var mnemonic = "sudden notable seek tape quarter trophy buddy tribe airport car buyer ordinary";
+var mnemonic = "race enroll summer creek mind frame police improve current detect bench force";

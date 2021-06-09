@@ -1,1 +1,1 @@
-var mnemonic = "cry egg endorse agent pause park wool jewel junior humble disagree shoe";
+var mnemonic = "ability minute brain tiger neglect loan toe omit zoo indicate wear outside";

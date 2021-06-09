@@ -1,1 +1,1 @@
-var mnemonic = "fault mechanic orphan spot truly inhale one tower filter transfer cram advance";
+var mnemonic = "horror rigid usual away toy mention thumb vast luxury green section brisk";

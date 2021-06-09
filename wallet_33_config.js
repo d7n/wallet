@@ -1,1 +1,1 @@
-var mnemonic = "enact gold cash roof reason start pelican thrive text audit outside crew";
+var mnemonic = "glance innocent smart wasp female couch monster source farm ginger fury scatter";

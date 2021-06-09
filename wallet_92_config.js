@@ -1,1 +1,1 @@
-var mnemonic = "tube kind vocal include obscure element unknown embody surround humble sense neck";
+var mnemonic = "drink olive sweet thing ladder doll armor mammal obscure dwarf north shy";

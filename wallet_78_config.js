@@ -1,1 +1,1 @@
-var mnemonic = "sunny ranch elder post oak edit profit imitate make drastic bless pass";
+var mnemonic = "glad patch run double diesel shift dial twice oak title whip heart";

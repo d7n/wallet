@@ -1,1 +1,1 @@
-var mnemonic = "baby number okay illegal stairs mixed wing replace other garment typical live";
+var mnemonic = "already shine scissors depth staff harbor ring they else lottery able wrestle";

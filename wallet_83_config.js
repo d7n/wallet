@@ -1,1 +1,1 @@
-var mnemonic = "donate typical pride firm pudding wrong entire there trim flip nephew dentist";
+var mnemonic = "include box luxury venture hover victory pen know strategy decade tide hen";

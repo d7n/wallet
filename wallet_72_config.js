@@ -1,1 +1,1 @@
-var mnemonic = "mutual client leave tank few inflict enlist cluster pet scorpion faint range";
+var mnemonic = "area work jewel crime lecture thrive track bench light age frozen winner";

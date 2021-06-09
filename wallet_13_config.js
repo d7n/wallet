@@ -1,1 +1,1 @@
-var mnemonic = "pet together wrist flight shock cushion forget submit wood marriage crawl legal";
+var mnemonic = "fan frown cake case annual vital theme dash protect donor jump bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "repair such thing bean meat immense fringe gallery life upper shuffle rotate";
+var mnemonic = "caution number onion noodle slight decrease atom yard very twice mountain genius";

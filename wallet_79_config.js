@@ -1,1 +1,1 @@
-var mnemonic = "forum elephant rural expire pioneer assist clarify artefact decide admit slab this";
+var mnemonic = "sponsor sail undo mule father cereal slogan churn gate file aunt lake";

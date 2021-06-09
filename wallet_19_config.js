@@ -1,1 +1,1 @@
-var mnemonic = "trick village island poverty help rich acquire tip dismiss student tone camera";
+var mnemonic = "stumble aerobic hill hurry draw more elephant funny forest fitness skill man";

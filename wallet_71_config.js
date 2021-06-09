@@ -1,1 +1,1 @@
-var mnemonic = "birth glare tray immune giraffe fashion code art unhappy display drip diary";
+var mnemonic = "hen balcony cart grow amateur pig clay leave panic oppose muscle ordinary";

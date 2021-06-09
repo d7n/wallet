@@ -1,1 +1,1 @@
-var mnemonic = "work corn similar illegal man cost method woman gift start vapor elephant";
+var mnemonic = "level powder dish city finish bullet fetch wonder balance deny hat pitch";

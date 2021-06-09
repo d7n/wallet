@@ -1,1 +1,1 @@
-var mnemonic = "wisdom pig farm chalk soccer risk betray future faith middle abuse barely";
+var mnemonic = "season friend thing middle marine faith wire teach garden mountain find prosper";

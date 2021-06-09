@@ -1,1 +1,1 @@
-var mnemonic = "shoe pretty mechanic eyebrow venue total rare blame when upon time frame";
+var mnemonic = "owner smooth squirrel enjoy maid arctic maze urban edit universe animal eagle";

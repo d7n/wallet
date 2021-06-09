@@ -1,1 +1,1 @@
-var mnemonic = "crane deal broccoli slight super spider service vital desk truly metal local";
+var mnemonic = "quit venture ask collect mountain pause page math diamond theory raw behave";

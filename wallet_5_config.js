@@ -1,1 +1,1 @@
-var mnemonic = "solve scout wrap spoil vintage jazz appear give under copper common skate";
+var mnemonic = "crucial super inform river soda acid sketch trouble perfect happy laugh dawn";

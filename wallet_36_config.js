@@ -1,1 +1,1 @@
-var mnemonic = "maid luggage image great sunny balance immense talk they one only antique";
+var mnemonic = "what enhance liberty slim devote wink reveal news various sell acquire joke";

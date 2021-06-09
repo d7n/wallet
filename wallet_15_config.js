@@ -1,1 +1,1 @@
-var mnemonic = "mention reason battle swift trust project produce please rubber monitor fetch purchase";
+var mnemonic = "strategy behind own tired december kitten lecture lobster fog dilemma hungry shoe";

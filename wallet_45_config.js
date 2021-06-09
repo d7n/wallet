@@ -1,1 +1,1 @@
-var mnemonic = "fortune section boost chief grace slender multiply betray balance bunker popular sleep";
+var mnemonic = "ride aim slide garage grocery abstract beef oxygen depth tonight pumpkin surge";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi couch now tribe album weather type mixed green journey grid auction";
+var mnemonic = "outside park air giant atom project awesome rural exhaust minor task mechanic";
