@@ -1,1 +1,1 @@
-var mnemonic = "firm humble chaos hope song abuse toe whip surface furnace clay play";
+var mnemonic = "transfer ski eternal trap modify siren paper magic possible dilemma oppose bounce";

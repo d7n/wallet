@@ -1,1 +1,1 @@
-var mnemonic = "victory hospital rude quiz tower cage priority secret change report tent negative";
+var mnemonic = "sudden notable seek tape quarter trophy buddy tribe airport car buyer ordinary";

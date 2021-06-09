@@ -1,1 +1,1 @@
-var mnemonic = "tank armor expand popular confirm wolf imitate dish move pelican maze trip";
+var mnemonic = "shoe pretty mechanic eyebrow venue total rare blame when upon time frame";

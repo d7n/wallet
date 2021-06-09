@@ -1,1 +1,1 @@
-var mnemonic = "razor pattern demise review burden solution surge lamp length they subject holiday";
+var mnemonic = "then pudding unusual fame sniff scorpion venue cover moral attract trade parent";

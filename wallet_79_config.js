@@ -1,1 +1,1 @@
-var mnemonic = "purchase swarm oyster churn stomach sister humble auction ticket relax exhibit beyond";
+var mnemonic = "forum elephant rural expire pioneer assist clarify artefact decide admit slab this";

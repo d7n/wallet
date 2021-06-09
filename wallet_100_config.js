@@ -1,1 +1,1 @@
-var mnemonic = "melt smart shield struggle subject seven fashion degree rug pulp assault february";
+var mnemonic = "chef fantasy chalk able forest submit label flip idle forget eye include";

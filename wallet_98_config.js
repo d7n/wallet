@@ -1,1 +1,1 @@
-var mnemonic = "about arch sunset element enjoy oak hill pretty kidney expect exercise mind";
+var mnemonic = "afraid club cruel hammer pioneer reflect receive various spoil unfair shop sunny";

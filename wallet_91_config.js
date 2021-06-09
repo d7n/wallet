@@ -1,1 +1,1 @@
-var mnemonic = "float key boy tuna sleep praise vital ceiling buzz shoulder once tornado";
+var mnemonic = "ladder use rich turtle ensure rural warfare real velvet wrong submit upper";

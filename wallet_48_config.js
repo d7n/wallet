@@ -1,1 +1,1 @@
-var mnemonic = "doll boat swift cradle finish spin secret group vault short bargain force";
+var mnemonic = "transfer point eagle size innocent farm library employ immense just mask teach";

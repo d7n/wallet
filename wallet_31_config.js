@@ -1,1 +1,1 @@
-var mnemonic = "hawk vacuum alarm height shadow tortoise unit junior hobby worth bird laptop";
+var mnemonic = "repair such thing bean meat immense fringe gallery life upper shuffle rotate";

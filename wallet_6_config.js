@@ -1,1 +1,1 @@
-var mnemonic = "disorder area mail swap raccoon recycle seed increase shift dilemma biology random";
+var mnemonic = "radio bean turtle grain index ball repair inject hint saddle aisle another";

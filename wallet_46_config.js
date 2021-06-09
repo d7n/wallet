@@ -1,1 +1,1 @@
-var mnemonic = "dog deer dumb empty napkin hover tape village off notice tonight cradle";
+var mnemonic = "clerk rigid sick goose adult trial main silver business dial march pluck";

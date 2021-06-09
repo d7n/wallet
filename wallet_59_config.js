@@ -1,1 +1,1 @@
-var mnemonic = "trial gasp tortoise medal cruise slender cabbage category unfold hill else able";
+var mnemonic = "enemy profit fish need hammer tissue coral assume need cargo argue raise";

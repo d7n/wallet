@@ -1,1 +1,1 @@
-var mnemonic = "excite scrub battle cherry balcony again lock sponsor bubble mass tissue tower";
+var mnemonic = "maid luggage image great sunny balance immense talk they one only antique";

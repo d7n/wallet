@@ -1,1 +1,1 @@
-var mnemonic = "begin foster patient mouse remember taxi copper analyst mention dial also alert";
+var mnemonic = "child night oyster wagon alien rose human seminar bargain better boring marine";

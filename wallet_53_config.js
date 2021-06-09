@@ -1,1 +1,1 @@
-var mnemonic = "dad grab siren return invest wrap regular brush ability weapon wire lesson";
+var mnemonic = "easily immune emerge diamond define solar turkey canyon book space dove eagle";

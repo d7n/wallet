@@ -1,1 +1,1 @@
-var mnemonic = "theme whale solution mammal burden item air render midnight axis cable physical";
+var mnemonic = "run junior disease toss alarm machine spoil buffalo endless dress bullet sick";

@@ -1,1 +1,1 @@
-var mnemonic = "normal world pioneer strong extra mosquito jazz smoke deputy occur float begin";
+var mnemonic = "glimpse flag wear unfold accident flame penalty team rare derive same party";

@@ -1,1 +1,1 @@
-var mnemonic = "renew idea reform safe brief heart pink mind swap theory talent judge";
+var mnemonic = "tube kind vocal include obscure element unknown embody surround humble sense neck";

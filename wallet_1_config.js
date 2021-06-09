@@ -1,1 +1,1 @@
-var mnemonic = "super green man reduce magnet news timber other dismiss risk payment accident";
+var mnemonic = "cry egg endorse agent pause park wool jewel junior humble disagree shoe";

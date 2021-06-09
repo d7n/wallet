@@ -1,1 +1,1 @@
-var mnemonic = "deputy wash setup obvious humor omit limit cherry toilet host rubber good";
+var mnemonic = "mail whisper paper balance phone chef way collect robust cotton answer marble";

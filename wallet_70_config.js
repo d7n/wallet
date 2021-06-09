@@ -1,1 +1,1 @@
-var mnemonic = "song crunch trip conduct tiger genuine foot today deliver blind purity tape";
+var mnemonic = "smoke frog name bottom network loop thing expire nice lawsuit world orient";

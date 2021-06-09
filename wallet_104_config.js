@@ -1,1 +1,1 @@
-var mnemonic = "soon grocery poem swap climb shadow hat essence assist trouble furnace vintage";
+var mnemonic = "choose ginger inside inch lonely another access shadow bring similar shoulder blame";

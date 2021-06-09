@@ -1,1 +1,1 @@
-var mnemonic = "coral produce shield ozone list glide valley forward around glare purse couch";
+var mnemonic = "parrot shine defy dizzy best method steak easy apart melody south recall";

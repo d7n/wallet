@@ -1,1 +1,1 @@
-var mnemonic = "apart south vacuum middle wheat large alley wine visual position board picnic";
+var mnemonic = "bubble mind decade noise virus ocean country hybrid evidence beauty drama iron";

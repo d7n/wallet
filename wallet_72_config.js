@@ -1,1 +1,1 @@
-var mnemonic = "aim helmet scheme bind dynamic twice distance joy virtual child random fiction";
+var mnemonic = "mutual client leave tank few inflict enlist cluster pet scorpion faint range";

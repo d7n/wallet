@@ -1,1 +1,1 @@
-var mnemonic = "basket gap nuclear rough shield claim area code silk enact satisfy craft";
+var mnemonic = "hint sister boost chapter parrot boost desert language coach struggle betray couple";

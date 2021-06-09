@@ -1,1 +1,1 @@
-var mnemonic = "coin pair average garden submit fancy approve urban people relax bitter bright";
+var mnemonic = "wrestle embody cricket guess acoustic bus obey screen acid label citizen cover";

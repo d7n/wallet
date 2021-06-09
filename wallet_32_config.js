@@ -1,1 +1,1 @@
-var mnemonic = "civil omit random crowd champion melody someone wage often vast banner broom";
+var mnemonic = "sample often sound possible spice steel switch umbrella enter rug food jewel";

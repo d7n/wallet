@@ -1,1 +1,1 @@
-var mnemonic = "wealth major speak coral banana window census vapor monitor wedding board return";
+var mnemonic = "exclude sense pulp fitness have purity between fee trial wisdom blade farm";

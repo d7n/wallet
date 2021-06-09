@@ -1,1 +1,1 @@
-var mnemonic = "labor tip hospital oppose chat law top fever heavy child noise toy";
+var mnemonic = "ripple tuition chicken vapor tuition tribe wagon kiwi output bread distance mixed";

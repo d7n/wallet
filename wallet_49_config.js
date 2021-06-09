@@ -1,1 +1,1 @@
-var mnemonic = "slender shell zoo high october avoid core exhibit turn fuel ceiling limb";
+var mnemonic = "hobby vote recall train minute injury disagree upset egg flock spike message";

@@ -1,1 +1,1 @@
-var mnemonic = "inner country tragic crucial essay flame bracket segment shallow wife risk govern";
+var mnemonic = "shrug fresh exist strong island jewel blanket tape collect advance shallow twice";

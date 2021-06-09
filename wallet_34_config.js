@@ -1,1 +1,1 @@
-var mnemonic = "subway stadium butter spell state onion into raccoon evil note couple tiny";
+var mnemonic = "favorite right vast eternal sausage crowd occur nut biology brush aunt rhythm";

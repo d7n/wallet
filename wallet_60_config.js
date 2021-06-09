@@ -1,1 +1,1 @@
-var mnemonic = "donate top sauce shine coin only circle drum extend legal midnight month";
+var mnemonic = "health work choose tongue column post lumber nest jewel bone try useful";

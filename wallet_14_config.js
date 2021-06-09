@@ -1,1 +1,1 @@
-var mnemonic = "oppose shell company bronze small immense final outdoor member fuel slim wrist";
+var mnemonic = "behind draft brown unusual harsh find rival kitchen seminar mix stone swing";

@@ -1,1 +1,1 @@
-var mnemonic = "boil dove quality pencil relief script favorite start obtain talent siren tank";
+var mnemonic = "fortune section boost chief grace slender multiply betray balance bunker popular sleep";

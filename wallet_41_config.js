@@ -1,1 +1,1 @@
-var mnemonic = "faint quiz keen narrow stove betray club fresh weapon fuel december stumble";
+var mnemonic = "farm ski suit card sting ten law catalog pen mutual suit exile";

@@ -1,1 +1,1 @@
-var mnemonic = "street culture name soft material enact input indoor oval library reason come";
+var mnemonic = "swarm crunch sunny burger slow wrestle skate frost coffee room network giant";

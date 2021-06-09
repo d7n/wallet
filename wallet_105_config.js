@@ -1,1 +1,1 @@
-var mnemonic = "blanket maze armor rigid large birth sweet student rose dust boss found";
+var mnemonic = "finish indoor innocent gallery hundred rain hundred picture hen increase indicate taste";

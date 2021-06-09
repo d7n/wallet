@@ -1,1 +1,1 @@
-var mnemonic = "noise blur tenant resource innocent hen empty useful roof jewel noise charge";
+var mnemonic = "trick village island poverty help rich acquire tip dismiss student tone camera";

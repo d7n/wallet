@@ -1,1 +1,1 @@
-var mnemonic = "upgrade rubber help upon knife person digital danger dish coconut wing genius";
+var mnemonic = "april weekend stable grain observe goat fragile broccoli fat morning mountain curve";

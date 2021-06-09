@@ -1,1 +1,1 @@
-var mnemonic = "lock buffalo angry left wear stem antique innocent green remain bar shell";
+var mnemonic = "feed permit illegal gentle arrow trial surround sister canal frozen feed solid";

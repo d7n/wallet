@@ -1,1 +1,1 @@
-var mnemonic = "wisdom mesh hour affair all swap sorry cattle sound core cinnamon hole";
+var mnemonic = "bachelor field squeeze crouch liar price captain state marriage estate laptop split";

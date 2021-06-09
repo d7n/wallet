@@ -1,1 +1,1 @@
-var mnemonic = "base toilet language member pledge asthma pattern smoke obvious farm virus crew";
+var mnemonic = "tennis scan vote attitude borrow depth electric drama saddle balcony volcano twice";

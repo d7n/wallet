@@ -1,1 +1,1 @@
-var mnemonic = "fly oblige track file ill guitar argue lounge green ankle athlete visual";
+var mnemonic = "cricket suffer gossip dish grape thunder cluster deputy recall soccer south adapt";

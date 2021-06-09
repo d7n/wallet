@@ -1,1 +1,1 @@
-var mnemonic = "crazy traffic broken picnic direct cost coffee during moment hawk grow tomato";
+var mnemonic = "benefit domain slight pigeon theory delay source horse rural ring blood input";

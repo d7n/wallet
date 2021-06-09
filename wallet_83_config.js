@@ -1,1 +1,1 @@
-var mnemonic = "void carpet pencil donate involve youth what review hill pyramid short jelly";
+var mnemonic = "donate typical pride firm pudding wrong entire there trim flip nephew dentist";

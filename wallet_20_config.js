@@ -1,1 +1,1 @@
-var mnemonic = "river angle bleak fork tunnel analyst food left balance recall fitness earth";
+var mnemonic = "baby number okay illegal stairs mixed wing replace other garment typical live";

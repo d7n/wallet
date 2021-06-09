@@ -1,1 +1,1 @@
-var mnemonic = "cart medal security trigger half million text hotel spike history negative version";
+var mnemonic = "reason armed they lonely special penalty scale liberty bring insane faculty glory";

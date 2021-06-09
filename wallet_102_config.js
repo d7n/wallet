@@ -1,1 +1,1 @@
-var mnemonic = "satisfy cover equal gather uncover year together health confirm holiday core walnut";
+var mnemonic = "best cake donate barrel mansion subway fence pole remain clog mom able";

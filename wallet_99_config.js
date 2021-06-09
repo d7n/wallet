@@ -1,1 +1,1 @@
-var mnemonic = "cushion lock lion hurt subway merry twice motion define scout guilt property";
+var mnemonic = "happy famous radio violin universe offer home review access zoo deliver capital";

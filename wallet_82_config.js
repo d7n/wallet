@@ -1,1 +1,1 @@
-var mnemonic = "setup short slab collect until remind confirm scout problem during shrug film";
+var mnemonic = "agree keen noodle alley wool run never loop spell daring amused cram";

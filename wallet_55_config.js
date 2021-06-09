@@ -1,1 +1,1 @@
-var mnemonic = "flush long body nose buddy final ribbon film grace hundred whale reject";
+var mnemonic = "eye ethics fall retreat castle friend stage ginger rural fault snake slim";

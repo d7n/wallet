@@ -1,1 +1,1 @@
-var mnemonic = "panther among salad silent vote office attend arm exile bag unlock size";
+var mnemonic = "style kind song accuse recall glove sniff crazy arrow awake tide physical";

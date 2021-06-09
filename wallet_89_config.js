@@ -1,1 +1,1 @@
-var mnemonic = "odor answer above also moral smart ship pill stand blast kidney depth";
+var mnemonic = "mercy seven fitness exotic liar curtain radar prosper approve emotion remember lucky";

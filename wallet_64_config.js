@@ -1,1 +1,1 @@
-var mnemonic = "dust have wedding pear audit evil better notable deer unusual trick program";
+var mnemonic = "body bonus spare reward scrap quit anchor steel life frame above zone";

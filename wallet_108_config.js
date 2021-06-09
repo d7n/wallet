@@ -1,1 +1,1 @@
-var mnemonic = "false hair switch evil regret winter address census spirit doll film upper";
+var mnemonic = "forum token seven seminar fly bus visual dad local owner giggle transfer";

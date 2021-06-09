@@ -1,1 +1,1 @@
-var mnemonic = "own swap town time agent defense equal feed finger diary vault three";
+var mnemonic = "sunny ranch elder post oak edit profit imitate make drastic bless pass";

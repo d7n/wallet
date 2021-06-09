@@ -1,1 +1,1 @@
-var mnemonic = "vacant wreck cupboard razor also resemble ocean copy circle flight want stick";
+var mnemonic = "fault mechanic orphan spot truly inhale one tower filter transfer cram advance";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan math radio antique will hip possible major during bench quote media";
+var mnemonic = "work corn similar illegal man cost method woman gift start vapor elephant";

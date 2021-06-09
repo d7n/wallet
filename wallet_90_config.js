@@ -1,1 +1,1 @@
-var mnemonic = "drink bleak carry fame video silent carpet time check race loyal another";
+var mnemonic = "regular toss top special recall school word trim vital firm term author";

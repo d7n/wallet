@@ -1,1 +1,1 @@
-var mnemonic = "virtual sphere base tornado kitchen blind cabin gauge woman aerobic concert impulse";
+var mnemonic = "debris extra cement first bubble dash youth this brisk name shine volume";

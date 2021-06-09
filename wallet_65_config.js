@@ -1,1 +1,1 @@
-var mnemonic = "source great cause absorb suffer arch unusual catalog clown robust depend mesh";
+var mnemonic = "toddler mechanic soccer kite primary push feature pupil wool cattle clean april";

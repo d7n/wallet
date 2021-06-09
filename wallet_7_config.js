@@ -1,1 +1,1 @@
-var mnemonic = "skin avocado grit west animal autumn live wool kitchen hurdle bunker quick";
+var mnemonic = "kidney pioneer receive search valley witness reform whale clever rain sniff satoshi";

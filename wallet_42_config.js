@@ -1,1 +1,1 @@
-var mnemonic = "action century cloth wise viable always slight basket polar rhythm endorse demise";
+var mnemonic = "velvet interest health identify useless youth blind reflect miracle laundry retire resource";

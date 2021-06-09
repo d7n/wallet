@@ -1,1 +1,1 @@
-var mnemonic = "hurry tone discover emotion online steel urge top dinner dutch fiscal sphere";
+var mnemonic = "okay soft bicycle verify change draft choose dinner solve false forget two";

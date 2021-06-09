@@ -1,1 +1,1 @@
-var mnemonic = "rent van crane symbol young jeans mind material rug clump rival betray";
+var mnemonic = "satoshi couch now tribe album weather type mixed green journey grid auction";

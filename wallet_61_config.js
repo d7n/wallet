@@ -1,1 +1,1 @@
-var mnemonic = "source sausage merge trigger clump file siren youth scout crew engage cream";
+var mnemonic = "seed usage siren brother indicate sleep razor comic horror cheap robust spot";

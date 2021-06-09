@@ -1,1 +1,1 @@
-var mnemonic = "lecture must nest board air destroy amount pledge august claw submit office";
+var mnemonic = "plunge discover blanket reform govern main evolve crew fossil stuff sugar bird";

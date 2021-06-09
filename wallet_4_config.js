@@ -1,1 +1,1 @@
-var mnemonic = "virtual cluster sudden chunk tube fragile damage goat hospital radar excuse must";
+var mnemonic = "crane deal broccoli slight super spider service vital desk truly metal local";

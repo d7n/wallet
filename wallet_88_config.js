@@ -1,1 +1,1 @@
-var mnemonic = "genuine ride ski odor fresh carbon purpose whale cheese dress stamp pilot";
+var mnemonic = "glory mystery buddy attack churn board exile cupboard mountain ceiling deer cloud";

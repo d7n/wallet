@@ -1,1 +1,1 @@
-var mnemonic = "climb view collect diary behave print pledge fresh vintage street bright cluster";
+var mnemonic = "wisdom pig farm chalk soccer risk betray future faith middle abuse barely";

@@ -1,1 +1,1 @@
-var mnemonic = "captain erode shrug frost sport topple vapor relax renew exercise good sphere";
+var mnemonic = "birth glare tray immune giraffe fashion code art unhappy display drip diary";

@@ -1,1 +1,1 @@
-var mnemonic = "social artefact exotic slight snack issue close fox wash place thrive subject";
+var mnemonic = "control cruise below pottery soccer garden brass core slam morning outside own";

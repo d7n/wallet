@@ -1,1 +1,1 @@
-var mnemonic = "leopard cousin cattle flush tank strategy inmate orphan radar lemon twist when";
+var mnemonic = "police all put tower crash youth window often leader actual glove rural";

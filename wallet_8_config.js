@@ -1,1 +1,1 @@
-var mnemonic = "deputy demand tray brush uncover faint hospital illness pencil light put resist";
+var mnemonic = "gap boost enemy lion top speed oppose foil arrive merry tide host";

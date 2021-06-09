@@ -1,1 +1,1 @@
-var mnemonic = "problem coach athlete slice domain crumble because vessel maximum second change benefit";
+var mnemonic = "mention reason battle swift trust project produce please rubber monitor fetch purchase";

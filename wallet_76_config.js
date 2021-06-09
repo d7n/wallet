@@ -1,1 +1,1 @@
-var mnemonic = "decade address sauce destroy dad width east cactus beyond slow purity cradle";
+var mnemonic = "release night album pottery hand trip animal butter enroll floor volume box";

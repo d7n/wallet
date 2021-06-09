@@ -1,1 +1,1 @@
-var mnemonic = "reject woman loan increase people donkey teach curtain ladder priority useless end";
+var mnemonic = "anger swift library job bachelor fetch nephew shop water decade liquid cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst settle shift hole long tonight enroll depart aspect apology train heavy";
+var mnemonic = "angle soldier snack club possible extend parade wall car section defense gentle";

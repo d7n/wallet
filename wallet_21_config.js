@@ -1,1 +1,1 @@
-var mnemonic = "resource result ready carpet toward empower invite radar thrive demand race wait";
+var mnemonic = "either protect across color quality north antenna raven library erode car make";

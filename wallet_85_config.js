@@ -1,1 +1,1 @@
-var mnemonic = "credit sun media jump harsh business initial merge coil photo address alarm";
+var mnemonic = "opera arch merge indicate wasp coin oblige carbon gown say tribe month";

@@ -1,1 +1,1 @@
-var mnemonic = "near breeze smoke forum assume govern exclude sponsor ensure bring edit obey";
+var mnemonic = "average pistol wheel beach genuine prefer quote void truth logic laptop blanket";

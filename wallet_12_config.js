@@ -1,1 +1,1 @@
-var mnemonic = "unknown vanish virus say renew kitchen toddler birth mass edge goat song";
+var mnemonic = "social buzz below timber globe satisfy fame mammal loan material exhibit express";

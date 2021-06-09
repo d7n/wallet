@@ -1,1 +1,1 @@
-var mnemonic = "worth radio dune since priority curtain when often wagon hold panda potato";
+var mnemonic = "crane duck shy sauce obscure era adult lady twist bar stage picnic";

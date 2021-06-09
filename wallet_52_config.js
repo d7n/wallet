@@ -1,1 +1,1 @@
-var mnemonic = "secret auction betray energy flavor giraffe human tube suit easy despair nominee";
+var mnemonic = "tribe trophy middle civil bounce miracle penalty wing mechanic street verb business";

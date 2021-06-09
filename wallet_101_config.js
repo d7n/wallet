@@ -1,1 +1,1 @@
-var mnemonic = "protect atom knock shuffle grid simple wisdom yellow number bean steel insane";
+var mnemonic = "risk impulse tomorrow furnace panic jungle taste cereal robust alert original tumble";

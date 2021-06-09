@@ -1,1 +1,1 @@
-var mnemonic = "rally edge flush about road amazing benefit achieve struggle brain trend ticket";
+var mnemonic = "what crash onion protect poverty give apology below click top minor leg";

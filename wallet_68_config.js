@@ -1,1 +1,1 @@
-var mnemonic = "element gloom isolate silly exhibit airport surround arrive other there duck table";
+var mnemonic = "diet machine physical add output piece swift spot blossom health flower deer";

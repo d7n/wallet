@@ -1,1 +1,1 @@
-var mnemonic = "orbit black domain autumn taxi subway obey soda orange train grunt also";
+var mnemonic = "dentist frozen entry often problem rather priority message mistake merry ship sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle simple poem prefer lounge unlock science palace record bar mixture text";
+var mnemonic = "that extra sister initial gauge crunch crush mouse bullet oblige industry entire";

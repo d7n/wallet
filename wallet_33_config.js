@@ -1,1 +1,1 @@
-var mnemonic = "memory fabric odor merry injury life exact stage theme shine sleep across";
+var mnemonic = "enact gold cash roof reason start pelican thrive text audit outside crew";
