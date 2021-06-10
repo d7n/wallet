@@ -1,1 +1,1 @@
-var mnemonic = "cactus cover select laugh equal sort buddy wise danger army across bracket";
+var mnemonic = "insane buddy parade code priority village earn morning auto auto improve submit";

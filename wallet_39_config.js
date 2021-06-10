@@ -1,1 +1,1 @@
-var mnemonic = "loan tomorrow radar order load walnut top round either know simple require";
+var mnemonic = "coach right debate weather response model useful hedgehog drum vapor level sand";

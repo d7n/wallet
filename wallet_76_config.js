@@ -1,1 +1,1 @@
-var mnemonic = "strike story diagram grunt pudding orchard author hazard young because tent mushroom";
+var mnemonic = "flip radio casual fortune fragile walk match level poet cabin cycle balcony";

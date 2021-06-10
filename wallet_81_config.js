@@ -1,1 +1,1 @@
-var mnemonic = "message reject west velvet gown enhance venue broccoli daughter erase space reveal";
+var mnemonic = "lab pottery paper give execute relief ostrich expect purchase hole later exercise";

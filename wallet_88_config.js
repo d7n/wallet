@@ -1,1 +1,1 @@
-var mnemonic = "dice crime crush give erase dilemma deer ten camera isolate congress off";
+var mnemonic = "key float orange ritual unhappy broccoli invest direct raw keen park charge";

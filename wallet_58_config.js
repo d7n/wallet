@@ -1,1 +1,1 @@
-var mnemonic = "oxygen panda retire monitor tomato misery sell actual sugar earth claw giant";
+var mnemonic = "acquire scrub arch source steel jaguar access sword index school because chase";

@@ -1,1 +1,1 @@
-var mnemonic = "annual view wool text culture adjust tape defense glory absorb void ladder";
+var mnemonic = "sponsor prosper enemy level joy kiss uphold jealous until top zone twelve";

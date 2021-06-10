@@ -1,1 +1,1 @@
-var mnemonic = "census fiction alcohol legend cook coffee shove infant coin bamboo rigid female";
+var mnemonic = "option speak spirit isolate bracket earth old burst wink soul audit crouch";

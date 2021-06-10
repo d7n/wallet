@@ -1,1 +1,1 @@
-var mnemonic = "soda range waste defense mushroom clump great trial grab noise issue avoid";
+var mnemonic = "garden sauce antenna quarter soldier need angry agree mask sponsor blood priority";

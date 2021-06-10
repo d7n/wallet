@@ -1,1 +1,1 @@
-var mnemonic = "surge lift remove detect grass bridge fetch never endorse sudden exclude danger";
+var mnemonic = "evolve kick labor play east bread pudding risk universe ghost lawn cotton";

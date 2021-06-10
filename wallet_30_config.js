@@ -1,1 +1,1 @@
-var mnemonic = "buyer soul fortune labor allow together gentle bus soup before rather teach";
+var mnemonic = "frown skill broken trend survey join age puzzle whip trick actual crowd";

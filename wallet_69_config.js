@@ -1,1 +1,1 @@
-var mnemonic = "inform file coast potato roast wine blood convince oil inside paddle distance";
+var mnemonic = "genius sun bar dune one rare renew silent rely luggage obvious song";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt blood bulb crater invite job bronze liar spare six pupil click";
+var mnemonic = "become dream cruise list detail devote bring quit range coral home mass";

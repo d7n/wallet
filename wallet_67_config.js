@@ -1,1 +1,1 @@
-var mnemonic = "caution exchange veteran faculty prefer slogan ability float grain retire dial sword";
+var mnemonic = "portion fetch oppose tourist boring auction blush decline primary differ trumpet renew";

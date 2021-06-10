@@ -1,1 +1,1 @@
-var mnemonic = "shuffle brisk host journey oval index tonight brother mobile penalty forward retreat";
+var mnemonic = "then mother eagle return expire bicycle salute mean seat bless offer inform";

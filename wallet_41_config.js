@@ -1,1 +1,1 @@
-var mnemonic = "dance venue office eager denial strategy tilt guilt flee rib focus medal";
+var mnemonic = "pupil city increase frozen throw spice film pumpkin unlock pilot obtain auto";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic bar defense chef wisdom camera card sense demand track shallow quick";
+var mnemonic = "tool virtual dilemma host width wire reopen lava sunset eagle build squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "certain hurt virtual unfold alley pilot damp sister hope soldier betray eyebrow";
+var mnemonic = "fitness army animal charge chimney field vendor exact current deposit crouch kit";

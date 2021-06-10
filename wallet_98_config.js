@@ -1,1 +1,1 @@
-var mnemonic = "candy liberty expire snap moment toe art tornado sheriff mom behave health";
+var mnemonic = "sausage into genuine apple kick urge morning moon decade high other range";

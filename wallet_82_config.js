@@ -1,1 +1,1 @@
-var mnemonic = "best bubble kingdom cake produce casino color country clay seed essay blur";
+var mnemonic = "cool virus side survey zone kitten hungry believe outdoor senior camp child";

@@ -1,1 +1,1 @@
-var mnemonic = "sell inner bracket jeans frost junior volume pupil spray speak train quality";
+var mnemonic = "muscle pair girl mouse design spot shrug toy busy sport stereo riot";

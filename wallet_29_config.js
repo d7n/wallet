@@ -1,1 +1,1 @@
-var mnemonic = "decrease crucial update outdoor safe cabin circle access kid fun together joke";
+var mnemonic = "tackle dignity noodle trial theme loop lizard excess better fall lumber elder";

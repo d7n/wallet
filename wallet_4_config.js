@@ -1,1 +1,1 @@
-var mnemonic = "skull umbrella runway inflict leopard nation around spring gift favorite nothing pave";
+var mnemonic = "fire quiz prevent scheme wisdom knife tone lava hawk expose cook mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "inject mobile govern axis jaguar sheriff luxury doctor mobile radar pave insect";
+var mnemonic = "mobile define way piano clinic inform suggest filter claw wing exercise plug";

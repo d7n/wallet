@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow attend process start ball depart polar giggle vital ugly toss blast";
+var mnemonic = "misery grape prefer wife mountain thrive trumpet glimpse almost omit era stock";

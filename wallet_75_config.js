@@ -1,1 +1,1 @@
-var mnemonic = "weasel bright chimney crumble seat digital elephant display balcony enhance cash lumber";
+var mnemonic = "shove tomato lab please lounge deer sport half cake easy century bread";

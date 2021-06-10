@@ -1,1 +1,1 @@
-var mnemonic = "soap feature win vibrant output avoid festival dinosaur napkin lamp elegant sponsor";
+var mnemonic = "scorpion prosper melody fitness citizen session ill truth trumpet choose animal valley";

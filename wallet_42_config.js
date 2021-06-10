@@ -1,1 +1,1 @@
-var mnemonic = "gaze matrix since local lizard nest story trade cheese ancient age brief";
+var mnemonic = "idle surface walnut skin super harbor task flip oyster drum cereal oil";

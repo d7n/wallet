@@ -1,1 +1,1 @@
-var mnemonic = "tobacco foil sunset throw try clap easy car drift ship street kangaroo";
+var mnemonic = "arm talk sister depth trip face page math impose adjust foil knee";

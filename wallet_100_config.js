@@ -1,1 +1,1 @@
-var mnemonic = "spray carpet page vendor demise quantum toddler renew concert humble fish nose";
+var mnemonic = "end damage spread used great relax visual motion evolve black rich outdoor";

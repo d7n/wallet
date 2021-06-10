@@ -1,1 +1,1 @@
-var mnemonic = "tag blossom trend language fire delay relax echo flame devote they kick";
+var mnemonic = "lock electric wave they champion foster achieve crunch gaze toss mechanic before";

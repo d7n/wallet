@@ -1,1 +1,1 @@
-var mnemonic = "know main clock toddler despair any enough select fashion power gentle income";
+var mnemonic = "clever music half daughter best gaze hospital mesh where gospel avocado alter";

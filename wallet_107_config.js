@@ -1,1 +1,1 @@
-var mnemonic = "color trick bacon already inject stock spoil tiger strategy pudding knock entire";
+var mnemonic = "supply better mesh lucky negative swim cattle result learn bring settle adjust";

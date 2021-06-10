@@ -1,1 +1,1 @@
-var mnemonic = "play urban boat limit undo gesture barrel vague fury size donkey host";
+var mnemonic = "baby lucky evolve sail crater danger exhaust pear organ city erase later";

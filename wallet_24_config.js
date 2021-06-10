@@ -1,1 +1,1 @@
-var mnemonic = "genuine morning round ramp shed tent light path crowd earn unusual huge";
+var mnemonic = "enough impact hawk rocket focus dress business general amazing witness history favorite";

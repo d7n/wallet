@@ -1,1 +1,1 @@
-var mnemonic = "excess decline box medal crazy reunion bid usual stereo fortune spell account";
+var mnemonic = "truck domain donor garment outside pool chef country second oxygen orange dirt";

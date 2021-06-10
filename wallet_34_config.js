@@ -1,1 +1,1 @@
-var mnemonic = "slush also live add purity minimum pink witness ignore warm awful title";
+var mnemonic = "limit expect mobile mix desert knife flight suit wife isolate lawsuit cluster";

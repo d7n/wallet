@@ -1,1 +1,1 @@
-var mnemonic = "sponsor fame input casual clap coast always enter soon fish juice paddle";
+var mnemonic = "hamster certain buffalo art wheel brush walnut machine someone juice subway picture";

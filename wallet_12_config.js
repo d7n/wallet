@@ -1,1 +1,1 @@
-var mnemonic = "party engage chef monster shallow belt idea before enrich three vendor hair";
+var mnemonic = "still fee canal appear absorb bind dove profit museum range frequent gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "horn idle tone dizzy flight lamp security gloom raven river write dignity";
+var mnemonic = "empower traffic chuckle genre inquiry turn sorry diesel slab income today illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "act alone demise trade horror angry soup rack silver rotate seven bamboo";
+var mnemonic = "ride sea pulp only inquiry venture ketchup coach coconut wisdom rifle notable";

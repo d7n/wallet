@@ -1,1 +1,1 @@
-var mnemonic = "enforce path favorite wide rich level praise help profit gorilla eternal toe";
+var mnemonic = "rebel pupil stamp blade style foster tired produce good pass swarm south";

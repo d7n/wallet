@@ -1,1 +1,1 @@
-var mnemonic = "few paper regular word size saddle cave solve blood extra domain despair";
+var mnemonic = "diamond cinnamon warfare evoke plastic refuse noodle ugly plate easily frown banana";

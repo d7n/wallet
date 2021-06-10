@@ -1,1 +1,1 @@
-var mnemonic = "lady butter crush fashion height magnet grape someone lock saddle negative pluck";
+var mnemonic = "spare wall front rely fun elite perfect potato eternal jump police pride";

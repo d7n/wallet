@@ -1,1 +1,1 @@
-var mnemonic = "mother caution road mirror genuine blame analyst achieve marine black myth avoid";
+var mnemonic = "test deposit random brother cereal dash toe noble employ scheme heart gloom";

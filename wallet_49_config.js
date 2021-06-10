@@ -1,1 +1,1 @@
-var mnemonic = "exclude trash sunny unaware render combine learn ship trouble page label medal";
+var mnemonic = "device noise soft until palace letter buyer unfair day despair pioneer foil";

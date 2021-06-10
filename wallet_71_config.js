@@ -1,1 +1,1 @@
-var mnemonic = "ecology lend lunar thumb laundry diary become tiger onion radar april auto";
+var mnemonic = "armor cattle pudding visit slot twenty post height income athlete bird prize";

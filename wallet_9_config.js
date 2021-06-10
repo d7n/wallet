@@ -1,1 +1,1 @@
-var mnemonic = "diary hurt special admit say melody boy expand peace run pact work";
+var mnemonic = "merit ladder horse armor arrive cinnamon liar average guitar wall impulse grid";

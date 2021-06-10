@@ -1,1 +1,1 @@
-var mnemonic = "language pill rich truly link soft speed derive rural year tape stuff";
+var mnemonic = "room lottery brisk salon again reward inflict desert shift lazy humble mail";

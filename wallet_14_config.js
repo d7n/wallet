@@ -1,1 +1,1 @@
-var mnemonic = "carbon insane ridge swallow rose shallow strategy chapter siege fortune chicken resource";
+var mnemonic = "mail hand panel truth soft west fox possible edit lounge lobster unable";

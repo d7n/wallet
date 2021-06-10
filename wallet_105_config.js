@@ -1,1 +1,1 @@
-var mnemonic = "misery hover nominee output high suit pig cook fatal forward pencil alarm";
+var mnemonic = "panic myth nurse elbow approve fox tilt animal slot design stock flee";

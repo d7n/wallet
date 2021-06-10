@@ -1,1 +1,1 @@
-var mnemonic = "cloth lunar design deposit embrace betray open cruel office juice brave sketch";
+var mnemonic = "payment catalog leopard cactus post item crunch river evidence duty forward drive";

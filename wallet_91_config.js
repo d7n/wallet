@@ -1,1 +1,1 @@
-var mnemonic = "iron amount stay venue knife weather genre dilemma ignore proof lab solve";
+var mnemonic = "awful slush what zebra case credit settle dove sun deer surprise pull";

@@ -1,1 +1,1 @@
-var mnemonic = "install frost frog style flip quit total rely portion board upset glow";
+var mnemonic = "merit saddle okay dizzy dance diary two goddess mosquito report carry banana";

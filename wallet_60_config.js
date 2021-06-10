@@ -1,1 +1,1 @@
-var mnemonic = "asset word stable chicken neither youth mass trouble invite also pilot blue";
+var mnemonic = "bone shock net foil sell expect rubber aerobic rich negative ensure ancient";

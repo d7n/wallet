@@ -1,1 +1,1 @@
-var mnemonic = "kiwi cliff pact split project load critic armed anxiety advice hotel cage";
+var mnemonic = "reveal bless vibrant roof gloom hurry joke dignity script frown lunch beach";

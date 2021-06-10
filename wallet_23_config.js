@@ -1,1 +1,1 @@
-var mnemonic = "blouse pitch swear pet novel daughter picture behave rival panel permit man";
+var mnemonic = "stable arch fitness live income dynamic super three below sock learn alcohol";

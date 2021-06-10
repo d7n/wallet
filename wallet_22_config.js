@@ -1,1 +1,1 @@
-var mnemonic = "force conduct wild dial pencil risk town cost entire olympic shuffle neutral";
+var mnemonic = "noise hill govern risk fee dress skate charge trash diamond orange west";

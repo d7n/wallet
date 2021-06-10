@@ -1,1 +1,1 @@
-var mnemonic = "van maid come right veteran bright need hotel tilt design blur banner";
+var mnemonic = "core sister dance page velvet key provide future size early aim surround";

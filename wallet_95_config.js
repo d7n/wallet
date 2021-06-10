@@ -1,1 +1,1 @@
-var mnemonic = "bracket monkey huge genre sport shield dumb team shoe degree annual skull";
+var mnemonic = "agree color crack together sunset panther solution guard erosion also pizza token";

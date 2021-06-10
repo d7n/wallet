@@ -1,1 +1,1 @@
-var mnemonic = "vague witness school include crystal matter elbow biology able teach have verb";
+var mnemonic = "south feed execute skate weekend area act warm section black rifle shield";

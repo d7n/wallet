@@ -1,1 +1,1 @@
-var mnemonic = "hair vendor sign appear horse measure filter fiscal cube seat middle theory";
+var mnemonic = "mutual biology crisp west flee melody risk vivid moral child cat renew";

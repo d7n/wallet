@@ -1,1 +1,1 @@
-var mnemonic = "scrub slogan economy silk moral angry barrel best fitness window rescue text";
+var mnemonic = "express extra joy gym monkey legend ill uncle cup cross lobster meadow";

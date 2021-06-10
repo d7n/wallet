@@ -1,1 +1,1 @@
-var mnemonic = "doctor call hope grocery mirror logic crew monkey nuclear cotton pair chaos";
+var mnemonic = "reward whisper figure error bracket tortoise master describe honey system connect label";

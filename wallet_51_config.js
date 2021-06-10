@@ -1,1 +1,1 @@
-var mnemonic = "mosquito puppy domain sell another today ancient subway faculty kidney fossil can";
+var mnemonic = "cactus minor march cargo require element cereal foster bind horn shallow step";

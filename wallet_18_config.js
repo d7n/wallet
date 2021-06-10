@@ -1,1 +1,1 @@
-var mnemonic = "audit survey vibrant ship clay cushion betray farm hand negative emotion tent";
+var mnemonic = "blanket wheat moon laugh acid dizzy together volume receive rather outdoor ritual";

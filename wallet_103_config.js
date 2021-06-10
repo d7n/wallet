@@ -1,1 +1,1 @@
-var mnemonic = "battle mixture depth keen humble usage pyramid tray gate like vanish corn";
+var mnemonic = "hip divorce planet blind amused office walnut guitar gift public digital resist";

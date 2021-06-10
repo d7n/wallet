@@ -1,1 +1,1 @@
-var mnemonic = "essay laugh label earth copy glue topic gravity goat need split foil";
+var mnemonic = "trial couch excuse tone oxygen absorb abandon rapid marriage pudding judge love";

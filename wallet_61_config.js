@@ -1,1 +1,1 @@
-var mnemonic = "acquire outdoor ignore detect oven predict paper joy celery fault pen space";
+var mnemonic = "betray repair item resist potato alley early bubble mail pond little symbol";

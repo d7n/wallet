@@ -1,1 +1,1 @@
-var mnemonic = "reunion desert marble radio hill employ express laptop return scale flight intact";
+var mnemonic = "life plate sleep polar like canyon wealth tuna divert moral belt involve";

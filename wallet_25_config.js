@@ -1,1 +1,1 @@
-var mnemonic = "laptop evoke rich wedding parade rival where wasp pave fantasy lab begin";
+var mnemonic = "garbage evolve beef water minute twelve subway fat category fantasy fold height";

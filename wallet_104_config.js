@@ -1,1 +1,1 @@
-var mnemonic = "scorpion crime enact review romance habit assault hawk business series swarm penalty";
+var mnemonic = "funny gate aware measure slender lake mushroom empty wild evolve food smoke";

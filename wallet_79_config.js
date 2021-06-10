@@ -1,1 +1,1 @@
-var mnemonic = "again obscure dynamic enhance vague slush renew charge level orchard judge observe";
+var mnemonic = "gasp flip wisdom token outside garlic borrow coach snack protect dawn already";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry casino pupil humble initial rare soccer title mosquito perfect wire weird";
+var mnemonic = "rival ball upset tunnel public column write march sponsor dynamic fancy saddle";

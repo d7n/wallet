@@ -1,1 +1,1 @@
-var mnemonic = "cat muffin lady practice opinion duck title kiss tragic globe fancy photo";
+var mnemonic = "surge satoshi neck antenna cycle card stool tragic term armor judge soon";

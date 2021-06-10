@@ -1,1 +1,1 @@
-var mnemonic = "price strong before filter renew field squeeze mercy grain certain resist critic";
+var mnemonic = "awful garbage siege later twelve roast copy trim mother blast caution strike";

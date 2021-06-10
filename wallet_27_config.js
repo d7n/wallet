@@ -1,1 +1,1 @@
-var mnemonic = "analyst clerk stairs silk oval fiction destroy march cook exchange caught midnight";
+var mnemonic = "lonely idle renew apple fix discover almost orient age park ordinary reward";

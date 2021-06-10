@@ -1,1 +1,1 @@
-var mnemonic = "limb rough ahead popular polar gospel danger link expect elbow neutral trash";
+var mnemonic = "victory valley casino fix shoot rough jungle police rice promote thank beauty";

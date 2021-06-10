@@ -1,1 +1,1 @@
-var mnemonic = "gasp maximum birth grid inspire gloom warrior version submit work nurse hurdle";
+var mnemonic = "able excess genre room differ capable armed piece wear never bulb second";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber sort code wolf cart popular treat body crouch mask service clown";
+var mnemonic = "south wealth flash open gospel enable negative suffer asset dose own trend";

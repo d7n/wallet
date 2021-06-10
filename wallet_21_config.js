@@ -1,1 +1,1 @@
-var mnemonic = "wool prison live market mutual moral rich fuel walk bridge indoor peace";
+var mnemonic = "exercise tribe upper liar tree sure mutual panic inform shove defense raven";

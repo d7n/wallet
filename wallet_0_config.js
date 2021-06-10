@@ -1,1 +1,1 @@
-var mnemonic = "attitude lock annual blur parade student route similar effort next tray portion";
+var mnemonic = "artwork lake explain siege armed response lawn best giant electric struggle roast";

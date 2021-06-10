@@ -1,1 +1,1 @@
-var mnemonic = "swear box task upon aspect twist only finger differ demand spray lecture";
+var mnemonic = "kitchen goat naive hungry potato bacon afraid admit maximum night oak eye";

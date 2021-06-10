@@ -1,1 +1,1 @@
-var mnemonic = "now raccoon humble swamp stamp boy delay retreat fog exclude artist engine";
+var mnemonic = "victory animal episode enact two vehicle asthma clap balance junior client someone";
