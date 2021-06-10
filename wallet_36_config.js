@@ -1,1 +1,1 @@
-var mnemonic = "notice gym cat glow cigar velvet infant illness project tape space bleak";
+var mnemonic = "grit mammal prize future drastic tiger anxiety fit inside pond biology top";

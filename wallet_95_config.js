@@ -1,1 +1,1 @@
-var mnemonic = "canal prize margin utility vague wish benefit unknown maximum minute timber skull";
+var mnemonic = "scout cause fly apple warfare frozen wheat faculty cannon smoke stock message";

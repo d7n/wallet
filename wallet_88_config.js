@@ -1,1 +1,1 @@
-var mnemonic = "cigar defense amount lizard clean license survey diary trouble human sauce circle";
+var mnemonic = "table defy learn grain umbrella clarify student fatigue glow ribbon noodle journey";

@@ -1,1 +1,1 @@
-var mnemonic = "hub scan federal arctic mixed clip remain saddle tribe track blanket rotate";
+var mnemonic = "jaguar cream decide universe jewel profit early blossom bulk talent lock wheel";

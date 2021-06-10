@@ -1,1 +1,1 @@
-var mnemonic = "eye segment local cricket attack grunt tree jealous cluster shift trend cricket";
+var mnemonic = "skate rule chronic since reunion rubber then fault velvet dose budget exotic";

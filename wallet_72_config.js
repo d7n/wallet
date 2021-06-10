@@ -1,1 +1,1 @@
-var mnemonic = "width amateur thing peanut flame trouble rocket feature urge industry lady ramp";
+var mnemonic = "sport spare dragon weekend alarm sort nurse trouble short onion clog rug";

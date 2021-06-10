@@ -1,1 +1,1 @@
-var mnemonic = "piano stage crawl bone destroy pool awake safe man luxury arch mesh";
+var mnemonic = "book anger guilt fever quantum wink window action logic receive alpha void";

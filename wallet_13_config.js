@@ -1,1 +1,1 @@
-var mnemonic = "cradle result celery basket lobster mirror sentence seed focus topple width shed";
+var mnemonic = "ignore zone topic assault idle clock program abandon dash learn oven crucial";

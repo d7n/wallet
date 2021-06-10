@@ -1,1 +1,1 @@
-var mnemonic = "measure trophy zoo dish casual proud slim sugar pair client lens today";
+var mnemonic = "local cake hollow swear want gorilla kid lift science dress blast glue";

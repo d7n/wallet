@@ -1,1 +1,1 @@
-var mnemonic = "unfair find mouse hedgehog gym culture stadium loan hurt athlete embark still";
+var mnemonic = "apple gain supply swamp pigeon bid cinnamon pet head have wagon fox";

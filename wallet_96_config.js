@@ -1,1 +1,1 @@
-var mnemonic = "million accuse sad nominee sunset vacuum cargo abandon nasty shop tissue admit";
+var mnemonic = "popular struggle solid menu protect depth moon grit execute guard return thunder";

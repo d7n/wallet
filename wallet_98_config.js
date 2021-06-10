@@ -1,1 +1,1 @@
-var mnemonic = "immense muscle frown soldier thumb alarm number oak depart spatial great age";
+var mnemonic = "zone service iron angry volcano critic when bridge dinosaur vendor method bone";

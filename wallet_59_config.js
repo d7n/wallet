@@ -1,1 +1,1 @@
-var mnemonic = "zero absorb spray awesome supply fence term solve spy hotel live people";
+var mnemonic = "exit runway cement north raven decrease loud omit couple forward pull focus";

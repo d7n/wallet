@@ -1,1 +1,1 @@
-var mnemonic = "cousin sibling that shine tomorrow flame indicate spin either join rural window";
+var mnemonic = "hedgehog tool hub federal myself prosper payment total acquire wasp over add";

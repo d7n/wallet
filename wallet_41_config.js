@@ -1,1 +1,1 @@
-var mnemonic = "present tiger harsh remember deposit blast swallow vacuum scissors present grain problem";
+var mnemonic = "danger tag sure subway ozone sick flag wisdom tornado hover gaze train";

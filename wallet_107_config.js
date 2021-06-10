@@ -1,1 +1,1 @@
-var mnemonic = "target target chalk arch impulse library mind claw victory girl glory spend";
+var mnemonic = "sugar draw make jewel draw harsh trash indoor tragic clown economy easily";

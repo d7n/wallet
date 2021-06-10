@@ -1,1 +1,1 @@
-var mnemonic = "mimic monkey leader option luggage unknown link oil way general recycle island";
+var mnemonic = "cabin win alley modify soldier health lecture purse gaze west immense analyst";

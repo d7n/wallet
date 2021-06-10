@@ -1,1 +1,1 @@
-var mnemonic = "boss venture combine pole letter mind push claw top once grunt cover";
+var mnemonic = "rose input garbage virtual happy clump device scorpion topic dad index cluster";

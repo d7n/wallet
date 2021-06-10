@@ -1,1 +1,1 @@
-var mnemonic = "siren predict dumb suggest couch rug price useless imitate hole shaft machine";
+var mnemonic = "film vacuum artefact limb demise forget unhappy embrace tongue symbol smooth cave";

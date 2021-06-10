@@ -1,1 +1,1 @@
-var mnemonic = "cake quick ramp accuse where grass mask smoke waste endless toe anger";
+var mnemonic = "evoke actual cabbage nasty frog cabbage acoustic theory typical oval again craft";

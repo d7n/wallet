@@ -1,1 +1,1 @@
-var mnemonic = "stage issue harvest day lyrics leaf chalk oxygen chair basic grab number";
+var mnemonic = "snap you blast tobacco wisdom state loan often umbrella family story helmet";

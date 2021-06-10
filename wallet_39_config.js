@@ -1,1 +1,1 @@
-var mnemonic = "property rail paper public domain genius dirt climb valid climb hard cycle";
+var mnemonic = "since december volume cost winter family moral stay false gather sudden tornado";

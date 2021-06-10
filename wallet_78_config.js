@@ -1,1 +1,1 @@
-var mnemonic = "demise device direct example motor owner vacant awesome similar easily slot army";
+var mnemonic = "aim sweet various vague boss thunder foster wool federal token cake bonus";

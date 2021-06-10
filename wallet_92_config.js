@@ -1,1 +1,1 @@
-var mnemonic = "physical cannon metal coyote toddler result again useful ranch improve short outdoor";
+var mnemonic = "comfort genius miracle seven fix smoke genius dilemma kit shift shrug sound";

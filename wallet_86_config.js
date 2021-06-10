@@ -1,1 +1,1 @@
-var mnemonic = "wagon clay matter shy teach latin upper bench share saddle destroy load";
+var mnemonic = "ankle gasp must alter cause plate genre outdoor uniform fantasy alone patch";

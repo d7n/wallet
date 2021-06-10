@@ -1,1 +1,1 @@
-var mnemonic = "page case boat curve intact attract pretty laugh differ great liberty place";
+var mnemonic = "fever toy welcome picture joke coffee daughter abuse actress hammer fold you";

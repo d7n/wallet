@@ -1,1 +1,1 @@
-var mnemonic = "impulse height glow general bargain enable erode first language choose true left";
+var mnemonic = "motion gold skirt olive kitchen now wing source flame birth ring slight";

@@ -1,1 +1,1 @@
-var mnemonic = "will place ahead erosion city next bicycle rotate bleak cluster extra bind";
+var mnemonic = "paddle magic senior proof manual pretty nature three pyramid quality today doll";

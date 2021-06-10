@@ -1,1 +1,1 @@
-var mnemonic = "answer loop detect area picture onion learn blind rubber impose woman update";
+var mnemonic = "yard insect museum clever dust leopard corn liquid angry home only submit";

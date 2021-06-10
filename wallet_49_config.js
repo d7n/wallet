@@ -1,1 +1,1 @@
-var mnemonic = "slim pledge drip hidden wear eagle repair addict twist purchase dolphin talent";
+var mnemonic = "card burden skirt tornado once canvas lift raven adult snake extra slogan";

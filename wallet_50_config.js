@@ -1,1 +1,1 @@
-var mnemonic = "history blame target later daughter option drink win focus moment promote rhythm";
+var mnemonic = "almost slight rough couple escape clerk maximum egg occur work that afford";

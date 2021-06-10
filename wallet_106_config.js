@@ -1,1 +1,1 @@
-var mnemonic = "exotic enter joy tower miss half stomach smile unfair mesh cliff reduce";
+var mnemonic = "crumble write depth transfer fall inside cycle unique carpet shiver forest mask";

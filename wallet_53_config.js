@@ -1,1 +1,1 @@
-var mnemonic = "pitch green thank dust mountain quote brass turn athlete permit plastic catch";
+var mnemonic = "enact boost material program alpha lyrics soup proud outside assist tribe diary";

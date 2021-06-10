@@ -1,1 +1,1 @@
-var mnemonic = "parade sense render assist churn shoe arch gate crunch olympic milk hole";
+var mnemonic = "obey category gun phone keen myself lounge assault remind myself funny flame";

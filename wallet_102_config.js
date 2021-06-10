@@ -1,1 +1,1 @@
-var mnemonic = "shed border vague kind diet often author maple song soda kid motion";
+var mnemonic = "shadow vehicle path piano cook twelve until earn already wear shell cotton";

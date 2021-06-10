@@ -1,1 +1,1 @@
-var mnemonic = "lonely expose eye shoot swim area monster wheat congress kitten frame illegal";
+var mnemonic = "creek curve bird chair narrow seek cupboard path hobby session sure enough";

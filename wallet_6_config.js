@@ -1,1 +1,1 @@
-var mnemonic = "name spatial turkey noise stereo vague own quiz advice confirm speak divorce";
+var mnemonic = "chef adult steak shrug fade grace run what truth champion hospital motion";

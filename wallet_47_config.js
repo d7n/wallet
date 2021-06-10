@@ -1,1 +1,1 @@
-var mnemonic = "ahead foot hope chief upper pluck blur balance loan afraid pole judge";
+var mnemonic = "public eye mango expect used seven dignity entry whisper vanish below world";

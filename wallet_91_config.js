@@ -1,1 +1,1 @@
-var mnemonic = "little broccoli security bridge disorder observe typical crack night fence sausage swing";
+var mnemonic = "dinosaur cement toilet fee boy monitor sort belt aware carpet liquid trophy";

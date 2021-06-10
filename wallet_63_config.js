@@ -1,1 +1,1 @@
-var mnemonic = "brass maximum gate street robot gospel cradle frown chat valid pull flock";
+var mnemonic = "pool coral badge piece fatal race popular network injury mammal hold loan";

@@ -1,1 +1,1 @@
-var mnemonic = "rent tumble blur vault animal loud angry coconut simple crisp present polar";
+var mnemonic = "dash feed rice raccoon horn stand fee faith hammer green olympic smart";

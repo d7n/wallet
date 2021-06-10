@@ -1,1 +1,1 @@
-var mnemonic = "hungry penalty satisfy stadium edit garlic spoil nasty recall wear issue vendor";
+var mnemonic = "reopen maximum reduce silent wealth egg predict wonder unveil involve expect again";

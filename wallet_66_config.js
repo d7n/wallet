@@ -1,1 +1,1 @@
-var mnemonic = "guess soup youth bless suffer ski during sand view push also long";
+var mnemonic = "exchange chat path cook gadget swim wall sibling utility gorilla yard note";

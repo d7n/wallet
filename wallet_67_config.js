@@ -1,1 +1,1 @@
-var mnemonic = "fancy together bless logic enjoy canal alarm glad jealous onion crucial enjoy";
+var mnemonic = "group hire text parrot rain decline case sunny cigar eternal ski ivory";

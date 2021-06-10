@@ -1,1 +1,1 @@
-var mnemonic = "disorder charge patient spider upgrade luggage situate sponsor chase mind item famous";
+var mnemonic = "absurd acoustic field pumpkin arrive siren silly metal peanut observe affair among";

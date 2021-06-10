@@ -1,1 +1,1 @@
-var mnemonic = "sure scale bacon rather donkey rocket area window person body wrap switch";
+var mnemonic = "chair spot naive usual cancel lottery throw sense obscure joy rain rice";

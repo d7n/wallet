@@ -1,1 +1,1 @@
-var mnemonic = "shoot parade high feature danger repair shadow sing coach issue prefer nation";
+var mnemonic = "bottom real mail also media enlist only vocal canoe lobster shift clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "venture mutual inch float virtual artefact shy secret spread skill royal inherit";
+var mnemonic = "what indicate replace chase master little smoke service entire liberty ketchup rough";

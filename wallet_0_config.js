@@ -1,1 +1,1 @@
-var mnemonic = "farm they gain bleak tube drill cupboard maximum coyote fire else country";
+var mnemonic = "narrow knee dinosaur risk cave pledge legal chef allow draw invite tell";

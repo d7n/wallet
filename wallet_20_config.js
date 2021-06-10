@@ -1,1 +1,1 @@
-var mnemonic = "envelope raccoon design vacuum shop brother wall amused apart random artefact satisfy";
+var mnemonic = "immense energy run best demise easily plastic once analyst lumber eager strong";

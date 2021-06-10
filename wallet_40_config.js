@@ -1,1 +1,1 @@
-var mnemonic = "follow slim sentence picnic hood tunnel bike hunt inch own tower toss";
+var mnemonic = "burden spy grace movie arrest visit meadow harvest head elephant close text";

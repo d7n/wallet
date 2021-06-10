@@ -1,1 +1,1 @@
-var mnemonic = "smile census cave clap soon mansion swamp describe hen dentist anxiety charge";
+var mnemonic = "lawsuit manual jeans love error world air cause rely palm snack expose";

@@ -1,1 +1,1 @@
-var mnemonic = "install happy skirt receive feel library often baby occur tissue marble okay";
+var mnemonic = "farm miss topic cushion affair smile cactus pottery enhance reduce scorpion electric";

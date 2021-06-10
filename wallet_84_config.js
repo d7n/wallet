@@ -1,1 +1,1 @@
-var mnemonic = "grant chimney farm pride stage pitch radar venture lamp deer jungle market";
+var mnemonic = "lazy cook super link dry faint blush defy surge level simple custom";

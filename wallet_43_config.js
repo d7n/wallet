@@ -1,1 +1,1 @@
-var mnemonic = "side front van member message narrow credit city scene bike bulb debate";
+var mnemonic = "horse avocado olympic trap frozen tape lounge vicious pool shrimp right wish";

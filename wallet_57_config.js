@@ -1,1 +1,1 @@
-var mnemonic = "chalk wing blade dynamic bundle retire live review bread hamster utility priority";
+var mnemonic = "seat you where caught loop now cause reduce tape trash demand taxi";

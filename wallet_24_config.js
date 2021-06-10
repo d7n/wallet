@@ -1,1 +1,1 @@
-var mnemonic = "segment casual average mushroom audit act decide brick rebuild swing obey ranch";
+var mnemonic = "social account cloth fold review clean comic coil candy travel leader dose";

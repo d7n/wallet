@@ -1,1 +1,1 @@
-var mnemonic = "want pistol strike retire genuine brush wrist treat slush connect divorce mercy";
+var mnemonic = "fit like bomb wrist federal merit labor outer rare waste dolphin two";

@@ -1,1 +1,1 @@
-var mnemonic = "shock debris exile october goat eight able catch pulp payment face smile";
+var mnemonic = "bunker select wool elder shift can basic level only initial dutch flag";

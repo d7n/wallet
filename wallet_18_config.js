@@ -1,1 +1,1 @@
-var mnemonic = "fiber devote speed window congress error tiny shop milk decide pulse dash";
+var mnemonic = "very fall catalog spray wear grocery baby tragic iron sunset nation observe";

@@ -1,1 +1,1 @@
-var mnemonic = "toward photo attack gorilla direct side kite enhance spread obscure practice cement";
+var mnemonic = "ceiling rail primary truth artwork comic range husband mean vault fiction awake";

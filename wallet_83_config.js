@@ -1,1 +1,1 @@
-var mnemonic = "toward mosquito decline expect census relief bind report awkward clog rebel forward";
+var mnemonic = "front nose cattle cost bus jealous ask coconut enough vicious kingdom client";

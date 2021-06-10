@@ -1,1 +1,1 @@
-var mnemonic = "basket beauty visual trick wait unfair cycle inflict palace seek wait lobster";
+var mnemonic = "mule any shine kangaroo only cinnamon tragic float salt vessel vanish mystery";

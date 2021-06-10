@@ -1,1 +1,1 @@
-var mnemonic = "save walnut travel kiwi father insane february write coil easily sustain senior";
+var mnemonic = "much true tree mystery degree faith pluck promote link gift list control";

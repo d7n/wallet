@@ -1,1 +1,1 @@
-var mnemonic = "slot claim napkin predict discover frame any trick board pride sea curtain";
+var mnemonic = "mention wheel verb target steel fold burst jealous bus choice witness security";

@@ -1,1 +1,1 @@
-var mnemonic = "payment horn hat advance bicycle harvest purpose glass tape thunder private battle";
+var mnemonic = "neglect wolf peasant rabbit very eternal middle coast uniform what romance bottom";

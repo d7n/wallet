@@ -1,1 +1,1 @@
-var mnemonic = "direct lumber essence predict exchange february execute damage often dilemma liberty tip";
+var mnemonic = "hobby table oblige junk tornado violin agree stool dolphin talk ring neglect";

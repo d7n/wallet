@@ -1,1 +1,1 @@
-var mnemonic = "outer bronze hobby coral margin bread beauty biology rough horror message famous";
+var mnemonic = "spot illness knife dove false year acoustic until situate because minute census";

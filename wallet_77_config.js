@@ -1,1 +1,1 @@
-var mnemonic = "radio mountain eye foot term initial dog found sun ecology bunker vivid";
+var mnemonic = "help voice ten gadget pride predict cinnamon dynamic crystal deal captain syrup";

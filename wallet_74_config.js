@@ -1,1 +1,1 @@
-var mnemonic = "endorse right bless skill present wish initial coral rotate always useless blood";
+var mnemonic = "orient analyst bounce dove skin attend tissue mass color lobster fruit excess";

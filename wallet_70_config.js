@@ -1,1 +1,1 @@
-var mnemonic = "figure pepper bachelor immune access shoot original fat pioneer excess that there";
+var mnemonic = "parrot people own stumble broccoli capital little industry boat hurt virtual door";

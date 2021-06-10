@@ -1,1 +1,1 @@
-var mnemonic = "distance tunnel benefit city squeeze link edge toddler job slight stand poverty";
+var mnemonic = "diet never enlist angry goat stereo correct kid adult spring abstract size";

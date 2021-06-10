@@ -1,1 +1,1 @@
-var mnemonic = "blame dutch gas already suffer price dash sausage boost sea sheriff notable";
+var mnemonic = "shift tube gesture crunch over angle fantasy tray veteran walnut claw island";

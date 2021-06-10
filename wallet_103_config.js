@@ -1,1 +1,1 @@
-var mnemonic = "accuse income reunion ride cart marble opera thing glory sniff ceiling fly";
+var mnemonic = "rain gather venture patrol bus corn hockey cream tooth cube dinner inch";

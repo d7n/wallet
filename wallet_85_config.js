@@ -1,1 +1,1 @@
-var mnemonic = "execute siege wrap verify remind they deliver bounce truck bargain length wood";
+var mnemonic = "urban soul buyer trick vivid woman miss inch apart scatter lamp color";

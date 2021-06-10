@@ -1,1 +1,1 @@
-var mnemonic = "right breeze enact early sample turn host list music atom fitness cute";
+var mnemonic = "badge pioneer trip empty saddle time dice enhance nose almost impulse movie";

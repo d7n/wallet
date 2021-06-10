@@ -1,1 +1,1 @@
-var mnemonic = "maximum cushion process then install goddess label fog seat tell outer relax";
+var mnemonic = "film east scan mule deer flag rebel twenty destroy flower inform viable";

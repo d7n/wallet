@@ -1,1 +1,1 @@
-var mnemonic = "always diesel hand sniff hockey differ either connect door airport onion refuse";
+var mnemonic = "deliver state provide pass roast pistol stool wood silly company culture same";

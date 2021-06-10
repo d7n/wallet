@@ -1,1 +1,1 @@
-var mnemonic = "tourist guilt crush spot picture board private october soap promote tail pitch";
+var mnemonic = "lake fortune hero virus ticket cannon sunny silly sunny clarify route matter";

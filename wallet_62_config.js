@@ -1,1 +1,1 @@
-var mnemonic = "prosper pretty galaxy bargain kangaroo fly female neutral mosquito emerge response time";
+var mnemonic = "slush comic rookie remove engage myth cruel cover steak knock bird region";

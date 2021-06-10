@@ -1,1 +1,1 @@
-var mnemonic = "ice oven world eagle ill margin release grit cash brisk lounge neither";
+var mnemonic = "pink proof issue tide already benefit moment egg spider winter render space";

@@ -1,1 +1,1 @@
-var mnemonic = "crack involve purse thunder cinnamon supreme jar brush wheat cabin merge science";
+var mnemonic = "diagram captain vehicle solution arrange public october chaos drum shoot verb razor";

@@ -1,1 +1,1 @@
-var mnemonic = "between leopard random shy give dinner tone settle ski miss elevator alley";
+var mnemonic = "injury amount quantum banana grass already pizza disorder apology simple piano still";

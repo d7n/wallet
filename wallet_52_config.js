@@ -1,1 +1,1 @@
-var mnemonic = "burst embark garbage harbor beyond animal tonight fly excess rack call assume";
+var mnemonic = "humble there deposit fat carry field inside laundry divorce pluck devote final";

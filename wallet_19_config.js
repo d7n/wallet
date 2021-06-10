@@ -1,1 +1,1 @@
-var mnemonic = "try category shoulder oval borrow hip ten van anger bamboo conduct what";
+var mnemonic = "grant wide path under enjoy answer portion recall situate boil hawk virtual";

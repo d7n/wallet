@@ -1,1 +1,1 @@
-var mnemonic = "tired cigar bundle wisdom witness olympic minor squeeze result strike guitar travel";
+var mnemonic = "mountain concert faint liberty found diet food slim hazard mom ranch control";

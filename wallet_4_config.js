@@ -1,1 +1,1 @@
-var mnemonic = "reveal maximum spin laptop nuclear click pilot together drip sheriff dragon column";
+var mnemonic = "raw odor tuna van famous popular manage genre lucky bonus crunch kite";

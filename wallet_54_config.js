@@ -1,1 +1,1 @@
-var mnemonic = "win six eight void sample combine gap field unveil excite soft first";
+var mnemonic = "tell hub warrior hen chapter forest ladder amount spell useless heart dance";

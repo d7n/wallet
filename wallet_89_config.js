@@ -1,1 +1,1 @@
-var mnemonic = "egg modify size three science credit spy try parent puppy avocado seek";
+var mnemonic = "mail swing gate frown element depth sphere observe hand cloud lottery retreat";

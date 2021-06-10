@@ -1,1 +1,1 @@
-var mnemonic = "roof crane mask enforce inform local original script love camp female weekend";
+var mnemonic = "only erosion common artwork corn blame eager myself hold clinic number soup";

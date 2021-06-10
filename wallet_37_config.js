@@ -1,1 +1,1 @@
-var mnemonic = "attitude jazz device table age loud disagree fork faith ugly spike palace";
+var mnemonic = "tenant best spread end warm name typical bridge flat vanish dove snack";

@@ -1,1 +1,1 @@
-var mnemonic = "model empower awkward voice cannon box dizzy tray impulse wisdom prefer present";
+var mnemonic = "april broom exile census cargo focus short wrap humble cup dirt empty";

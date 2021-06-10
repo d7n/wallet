@@ -1,1 +1,1 @@
-var mnemonic = "choose clutch stock country approve laundry odor repeat energy buffalo million tooth";
+var mnemonic = "problem dentist arrange pepper upset window hollow pattern carpet whisper clutch taxi";

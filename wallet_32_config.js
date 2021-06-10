@@ -1,1 +1,1 @@
-var mnemonic = "saddle gadget okay divert divide illegal party absent physical initial curious duty";
+var mnemonic = "feature try dynamic inquiry west plunge devote capable lens just caught buzz";
