@@ -1,1 +1,1 @@
-var mnemonic = "hobby awful author valve write discover buzz thank mail toddler parrot final";
+var mnemonic = "tenant frequent lens dance viable city demise fog gym action alarm innocent";

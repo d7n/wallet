@@ -1,1 +1,1 @@
-var mnemonic = "peace vapor diet sight patrol fabric public bread wing guide divorce blossom";
+var mnemonic = "salmon urge just pride flip snow shoot sudden valid badge girl apart";

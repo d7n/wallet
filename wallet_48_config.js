@@ -1,1 +1,1 @@
-var mnemonic = "tilt twin kick organ step play brave fence rapid flame spend speak";
+var mnemonic = "resemble write snap ceiling picnic flame three spare prefer voice canvas phrase";

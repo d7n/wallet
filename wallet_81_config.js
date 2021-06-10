@@ -1,1 +1,1 @@
-var mnemonic = "task come utility fatal awful catch build bacon hole brother shaft security";
+var mnemonic = "shrug become category amazing bunker wet fiction canoe predict final day bounce";

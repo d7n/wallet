@@ -1,1 +1,1 @@
-var mnemonic = "puzzle boost ensure kangaroo mosquito soup crumble scissors skull yellow relax alert";
+var mnemonic = "kind bubble asthma indicate will attitude maze much right board vessel around";

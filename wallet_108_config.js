@@ -1,1 +1,1 @@
-var mnemonic = "involve bomb math this kingdom undo dilemma rocket false sword grief bike";
+var mnemonic = "inquiry web nice deny remember surprise direct prevent tip actual scan conduct";

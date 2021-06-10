@@ -1,1 +1,1 @@
-var mnemonic = "forest night crater galaxy blossom math grace service accuse analyst live anger";
+var mnemonic = "hint goat chapter trigger symbol thrive require hen argue table execute regular";

@@ -1,1 +1,1 @@
-var mnemonic = "expect adjust remain carbon symptom volume embrace what brother rate vast debate";
+var mnemonic = "march light genre second mystery tourist monkey detail juice insect assist kitchen";

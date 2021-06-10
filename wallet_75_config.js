@@ -1,1 +1,1 @@
-var mnemonic = "someone core engine effort raw shuffle sense spray snap champion cabbage puppy";
+var mnemonic = "crush analyst south erupt tobacco swallow clinic news december sail erode brown";

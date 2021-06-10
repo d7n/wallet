@@ -1,1 +1,1 @@
-var mnemonic = "rigid balance learn copy game fitness retreat sad melody must boy gas";
+var mnemonic = "ask lens tribe stuff ask runway twenty tank deputy nation salad sand";

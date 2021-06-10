@@ -1,1 +1,1 @@
-var mnemonic = "wire scrub mango screen extend grunt tongue village age spawn save give";
+var mnemonic = "cost kingdom mango artwork cup doll afford spend stage pool design chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "duty dignity treat hospital make mixed pair tank omit magnet apart orient";
+var mnemonic = "ready hollow soldier mosquito raven mercy ready coffee card pave urge asthma";

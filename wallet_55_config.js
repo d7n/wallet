@@ -1,1 +1,1 @@
-var mnemonic = "core broom firm strong give olympic achieve size ensure water blossom galaxy";
+var mnemonic = "runway clinic describe world end long enforce waste viable tribe enemy harsh";

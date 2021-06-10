@@ -1,1 +1,1 @@
-var mnemonic = "rent boil body scene metal vocal moon canyon little wing reduce gaze";
+var mnemonic = "clever plastic wisdom dish duty need master that local receive bench sauce";

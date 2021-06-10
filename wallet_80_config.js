@@ -1,1 +1,1 @@
-var mnemonic = "lunar bracket short mushroom feature fatal lion universe purpose finish glass human";
+var mnemonic = "initial supreme amateur street sunny viable slow book noble put drum trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "produce episode inherit echo bitter inhale nasty captain ugly corn estate beach";
+var mnemonic = "shy nice above summer discover adjust loop student nest wet because near";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon torch large metal junior alien puzzle pyramid word fix play area";
+var mnemonic = "keep aisle degree dismiss cake toilet damage myth brown bitter remove vehicle";

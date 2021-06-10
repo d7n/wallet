@@ -1,1 +1,1 @@
-var mnemonic = "anxiety egg unfair slight hurdle usual vital poem chat grant cupboard exile";
+var mnemonic = "error same odor cat pipe enter retreat achieve hobby crowd slush pen";

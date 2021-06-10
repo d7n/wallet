@@ -1,1 +1,1 @@
-var mnemonic = "pen identify shed evolve resource charge start legal month blade mandate siege";
+var mnemonic = "come library salt liar solve catch wait fix kangaroo truth sphere letter";

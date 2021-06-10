@@ -1,1 +1,1 @@
-var mnemonic = "dwarf great athlete sword blue purse snow trouble embrace busy urge object";
+var mnemonic = "clap ghost swamp charge glide inhale trip soft offer armed deputy eight";

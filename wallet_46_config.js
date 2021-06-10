@@ -1,1 +1,1 @@
-var mnemonic = "night certain tobacco clever injury junk extend length price beach ribbon lecture";
+var mnemonic = "thank add few project just else crunch lesson element tumble unfold token";

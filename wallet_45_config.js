@@ -1,1 +1,1 @@
-var mnemonic = "scout rude version rally account wide park emerge chunk lamp nasty voyage";
+var mnemonic = "witness produce head useful wave enroll dream field slight slim chalk achieve";

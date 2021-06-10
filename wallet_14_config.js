@@ -1,1 +1,1 @@
-var mnemonic = "kick space clutch artefact cat bargain lumber actress clock surround settle moment";
+var mnemonic = "feel orbit casual excite foot buddy kite season famous include swamp purity";

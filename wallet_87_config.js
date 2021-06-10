@@ -1,1 +1,1 @@
-var mnemonic = "ring flee exile visa head welcome abandon scan silent sunset zone right";
+var mnemonic = "artist neutral emotion inmate pipe pet radar twelve page peanut camp rubber";

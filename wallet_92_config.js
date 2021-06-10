@@ -1,1 +1,1 @@
-var mnemonic = "wire guard buyer gloom long project sudden drama unique uncover rebuild school";
+var mnemonic = "earn taxi bamboo oven leg diamond drastic tumble rare stem unique acoustic";

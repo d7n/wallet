@@ -1,1 +1,1 @@
-var mnemonic = "rotate fence valid snow burger pair smooth mystery palace odor denial job";
+var mnemonic = "adjust clump drift fan between trial chapter honey stem age family play";

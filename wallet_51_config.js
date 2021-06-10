@@ -1,1 +1,1 @@
-var mnemonic = "sport frown put zone book end arrive exact firm dream luxury aspect";
+var mnemonic = "august raven crunch angle annual cruise mean point collect ball ahead square";

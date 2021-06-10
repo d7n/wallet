@@ -1,1 +1,1 @@
-var mnemonic = "chunk ring feed island agree page reward artefact online crack excuse depend";
+var mnemonic = "chat census sad damage lonely blame spin begin suit record caught marriage";

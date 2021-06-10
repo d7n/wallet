@@ -1,1 +1,1 @@
-var mnemonic = "celery style lock wreck fault upgrade stadium beauty jazz tomorrow noble happy";
+var mnemonic = "evil advance find execute lemon pill pact nurse reunion neck answer fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "increase alter coil ribbon avocado order horse idle myself dirt celery cube";
+var mnemonic = "road normal deposit lava silent alter heavy foster theme proof possible lecture";

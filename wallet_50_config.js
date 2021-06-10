@@ -1,1 +1,1 @@
-var mnemonic = "fresh work bless odor scrap melody dumb bread buyer club chicken cherry";
+var mnemonic = "brisk talent pave wealth enroll tell flash box gospel inner winner infant";

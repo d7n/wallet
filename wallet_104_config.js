@@ -1,1 +1,1 @@
-var mnemonic = "office crawl arctic level antique judge hospital jewel pool rough visa lounge";
+var mnemonic = "twenty fiction idea gravity sun actual roast artist dynamic strategy scene police";

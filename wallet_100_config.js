@@ -1,1 +1,1 @@
-var mnemonic = "injury actress helmet ill leader achieve sweet wolf hover diet vibrant plastic";
+var mnemonic = "cube paddle copper digital wealth gorilla design earth view census thank nerve";

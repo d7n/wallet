@@ -1,1 +1,1 @@
-var mnemonic = "toward deliver gloom like renew stuff lumber diary enter rent future toilet";
+var mnemonic = "latin box build tube escape stock cigar outdoor cloud give awful picture";

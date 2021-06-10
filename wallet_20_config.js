@@ -1,1 +1,1 @@
-var mnemonic = "climb three annual document borrow whale shrimp define autumn submit custom report";
+var mnemonic = "ensure wall mixed youth duck army total border pottery blame nephew lizard";

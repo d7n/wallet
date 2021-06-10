@@ -1,1 +1,1 @@
-var mnemonic = "ridge outer know bind stay famous funny whale easy tourist weapon bundle";
+var mnemonic = "because stool review genre gospel lava glass wish salon tourist mixture tent";

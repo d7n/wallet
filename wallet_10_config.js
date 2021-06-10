@@ -1,1 +1,1 @@
-var mnemonic = "promote avocado suit fat oblige window stove barrel wheat trophy deputy panther";
+var mnemonic = "copper pioneer depend obey wool exile brass scout trim early finish runway";

@@ -1,1 +1,1 @@
-var mnemonic = "item increase develop office pattern robust magic melt person play sustain river";
+var mnemonic = "barrel wine risk when almost birth visual piano fiber october sing kitten";

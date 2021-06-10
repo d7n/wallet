@@ -1,1 +1,1 @@
-var mnemonic = "develop fence horn surface where round return chair message dwarf already occur";
+var mnemonic = "morning tonight tiger draft avocado dismiss glory educate lucky charge wreck bubble";

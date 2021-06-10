@@ -1,1 +1,1 @@
-var mnemonic = "pink keen skill donkey simple town alert office liar film region truck";
+var mnemonic = "hammer blue cat claim organ link column winter orange rally cabin harvest";

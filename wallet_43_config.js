@@ -1,1 +1,1 @@
-var mnemonic = "popular raise crouch fruit spot pull soon exotic test beauty friend prosper";
+var mnemonic = "clever piece area air crawl suit angry pitch addict match pill audit";

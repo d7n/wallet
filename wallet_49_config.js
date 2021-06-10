@@ -1,1 +1,1 @@
-var mnemonic = "orange music marriage puppy damage infant girl wool lobster rural message next";
+var mnemonic = "effort total view across champion explain soul capital jump inject exercise cabbage";

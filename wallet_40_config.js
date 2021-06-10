@@ -1,1 +1,1 @@
-var mnemonic = "bar stairs destroy rent runway system define peace dutch angry news sibling";
+var mnemonic = "solve ripple retire mask doctor spend only shell cart wasp pupil dance";

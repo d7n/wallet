@@ -1,1 +1,1 @@
-var mnemonic = "impact tree grow february connect whale abstract swarm wear blue decide purse";
+var mnemonic = "wrap fruit imitate exact actress verb tragic quality palace illegal alone crack";

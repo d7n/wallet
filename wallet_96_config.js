@@ -1,1 +1,1 @@
-var mnemonic = "person man soda chunk party happy swallow prevent offer drink umbrella kitchen";
+var mnemonic = "despair melody this domain reason ski iron awake symbol hair strategy trial";

@@ -1,1 +1,1 @@
-var mnemonic = "panic owner resemble social domain paddle rhythm miss fluid bronze rebel release";
+var mnemonic = "polar abuse weasel alter journey gold pact subway control between empower fitness";

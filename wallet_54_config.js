@@ -1,1 +1,1 @@
-var mnemonic = "rug color project relax moral proof regular tank loud wisdom funny twice";
+var mnemonic = "tobacco fox swim broken stay wheat when sunny mango degree chapter security";

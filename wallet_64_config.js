@@ -1,1 +1,1 @@
-var mnemonic = "patrol infant rural usage candy arch cruise visa hand pond approve allow";
+var mnemonic = "version chapter april erosion provide just suffer trouble force lens dwarf spice";

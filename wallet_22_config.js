@@ -1,1 +1,1 @@
-var mnemonic = "cycle glove parade usage tower immense off clap bubble mixture cheese aspect";
+var mnemonic = "salute quit there stem cradle volcano reveal indicate what safe dawn faint";

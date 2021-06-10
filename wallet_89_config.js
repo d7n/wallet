@@ -1,1 +1,1 @@
-var mnemonic = "noble brand sudden page kid bottom quote suspect theory seek evoke spring";
+var mnemonic = "start whale online truly era pilot bridge mercy muscle episode charge assume";

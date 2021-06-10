@@ -1,1 +1,1 @@
-var mnemonic = "episode sustain vendor moral sleep ahead next fox side omit illness fatigue";
+var mnemonic = "suit skill quarter turtle across limit grow lucky atom miracle budget poem";

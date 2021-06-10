@@ -1,1 +1,1 @@
-var mnemonic = "spirit slight tree edit crack leader decade multiply involve misery neglect power";
+var mnemonic = "circle game jazz rescue venue maple bean sorry inspire produce talk life";

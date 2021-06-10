@@ -1,1 +1,1 @@
-var mnemonic = "embark pulse bargain dad viable depart super meadow purchase legal humble glue";
+var mnemonic = "ski until detect more make quick valid obvious total culture endorse mean";

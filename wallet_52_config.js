@@ -1,1 +1,1 @@
-var mnemonic = "reopen stomach cushion ensure only moral fork spread insane early involve crash";
+var mnemonic = "garment tool margin film twin rug loud verify vital screen honey manual";

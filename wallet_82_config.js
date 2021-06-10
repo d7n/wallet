@@ -1,1 +1,1 @@
-var mnemonic = "trust morning endless travel meat umbrella mushroom wrap hollow surge miss robust";
+var mnemonic = "quick practice focus castle share husband fitness test artwork sing eternal mix";

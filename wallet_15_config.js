@@ -1,1 +1,1 @@
-var mnemonic = "near mirror pulp fade saddle source buyer taste basic sustain seat base";
+var mnemonic = "close increase spread bright coach view school disease find perfect approve action";

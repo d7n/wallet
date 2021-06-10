@@ -1,1 +1,1 @@
-var mnemonic = "upgrade intact field endorse horn apple mouse snack shine yard laptop episode";
+var mnemonic = "split dolphin quarter glue shoulder word fuel mansion oppose guitar shoulder glory";

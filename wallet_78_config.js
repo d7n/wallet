@@ -1,1 +1,1 @@
-var mnemonic = "undo gravity system sock orphan jealous tonight eyebrow almost office shove twenty";
+var mnemonic = "hurt core nice excite evolve ocean cave figure basic wave mirror zero";

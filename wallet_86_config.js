@@ -1,1 +1,1 @@
-var mnemonic = "film glance police airport coil desert honey announce portion pact creek glide";
+var mnemonic = "sadness climb hazard debate boss sweet cash outside midnight flush eye away";

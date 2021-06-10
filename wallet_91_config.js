@@ -1,1 +1,1 @@
-var mnemonic = "eternal easy then sister brush ability onion since point rookie more provide";
+var mnemonic = "another item arrange relax obey elder kiss menu middle pilot country crime";

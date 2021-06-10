@@ -1,1 +1,1 @@
-var mnemonic = "this present price erode pink inherit lumber penalty inhale field situate cash";
+var mnemonic = "today alley ability pigeon educate mobile sight truck bean liquid range betray";

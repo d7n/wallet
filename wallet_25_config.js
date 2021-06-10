@@ -1,1 +1,1 @@
-var mnemonic = "wisdom solve next merge glimpse rescue jungle loop vapor swear legal expand";
+var mnemonic = "person feel gown scale echo skin velvet wild rack insect rebuild era";

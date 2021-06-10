@@ -1,1 +1,1 @@
-var mnemonic = "limit wet air electric alley pattern notice chief stadium live toilet ensure";
+var mnemonic = "leisure kick envelope kit sport old symptom brave worth machine midnight author";

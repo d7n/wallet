@@ -1,1 +1,1 @@
-var mnemonic = "swap total cushion paddle gown fluid panda crowd term discover ensure define";
+var mnemonic = "naive cram industry shallow cluster green buyer wash proud twist fossil film";

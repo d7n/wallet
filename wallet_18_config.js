@@ -1,1 +1,1 @@
-var mnemonic = "view guess sport hunt rigid citizen response ramp runway hunt fluid tragic";
+var mnemonic = "amused swarm eager scorpion dog problem label gospel latin salute notable cream";

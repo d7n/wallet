@@ -1,1 +1,1 @@
-var mnemonic = "stool story best toe push coconut delay luxury model tenant admit infant";
+var mnemonic = "rule still toe slow silent brisk human anxiety hour focus crowd roast";

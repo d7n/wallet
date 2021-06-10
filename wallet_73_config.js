@@ -1,1 +1,1 @@
-var mnemonic = "miss earth tilt jump pond park pill similar elder scout purpose slow";
+var mnemonic = "liquid strike shoulder rigid finish drill social system tumble autumn report into";

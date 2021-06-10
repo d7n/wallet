@@ -1,1 +1,1 @@
-var mnemonic = "boy fury enforce shove feed fever gain run laptop remain unfold crew";
+var mnemonic = "polar genre welcome sort left kitchen one situate unknown boss drop decorate";

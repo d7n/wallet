@@ -1,1 +1,1 @@
-var mnemonic = "sad submit foil cupboard hidden advice panda click injury someone witness upon";
+var mnemonic = "off upset hip entire animal middle time mistake cactus boring verify bone";

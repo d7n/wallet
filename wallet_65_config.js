@@ -1,1 +1,1 @@
-var mnemonic = "staff bachelor slight romance actor win device gorilla glove panda short shock";
+var mnemonic = "now asthma jaguar photo rookie yard opera tennis reform lobster crouch electric";

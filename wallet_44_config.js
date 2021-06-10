@@ -1,1 +1,1 @@
-var mnemonic = "worth panda safe actor rhythm draft execute inquiry never apple palace arm";
+var mnemonic = "music return reunion nest select truth reject solve leg wonder embrace pact";

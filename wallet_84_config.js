@@ -1,1 +1,1 @@
-var mnemonic = "quality license actual eternal pledge guard section column era call february bless";
+var mnemonic = "oyster view butter length path color wonder soldier rack speed media undo";

@@ -1,1 +1,1 @@
-var mnemonic = "black faint change tube master process stay bird round oval page pole";
+var mnemonic = "stool season soccer home dash arena rhythm absorb mass senior guitar air";

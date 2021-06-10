@@ -1,1 +1,1 @@
-var mnemonic = "glory athlete subway wrestle voice return exact crazy dirt forum alert surface";
+var mnemonic = "giggle weird six unfair fold sell gym inject twin anxiety evil heavy";

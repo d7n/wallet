@@ -1,1 +1,1 @@
-var mnemonic = "symptom note brush dinner side day assist offer ice approve acquire replace";
+var mnemonic = "permit force badge same remain problem enact cycle saddle lecture lunar trial";

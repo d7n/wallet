@@ -1,1 +1,1 @@
-var mnemonic = "swallow piano icon knock tragic domain utility bamboo bitter frog tunnel author";
+var mnemonic = "rude deposit title pause wedding sport sugar habit choice issue quit half";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel task barely buddy around dizzy own vast model stand dance when";
+var mnemonic = "century point online aisle bulk winter benefit offer duck enter know above";

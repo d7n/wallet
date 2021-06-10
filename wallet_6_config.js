@@ -1,1 +1,1 @@
-var mnemonic = "glue wing fresh define panic wire spawn science series expire output ordinary";
+var mnemonic = "bomb giraffe obey join obey dizzy maze raccoon dish wild decide pet";

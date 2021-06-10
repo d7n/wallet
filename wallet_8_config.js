@@ -1,1 +1,1 @@
-var mnemonic = "brother urge tunnel asset few better record label key champion illness inside";
+var mnemonic = "intact payment mask wrong husband canoe use bleak rent replace obey solve";

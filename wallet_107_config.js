@@ -1,1 +1,1 @@
-var mnemonic = "bind reflect garden hazard same unit harsh erode fee random slice position";
+var mnemonic = "put whip pen train odor foil wool witness dad because page saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "melt velvet slam radar spring before shield client subject mean sign chaos";
+var mnemonic = "fence bench engage physical child humble identify stone loyal tape motor cook";

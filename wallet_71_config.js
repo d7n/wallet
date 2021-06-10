@@ -1,1 +1,1 @@
-var mnemonic = "flock march helmet chicken biology metal bonus very luxury evil true air";
+var mnemonic = "draft toast grab travel borrow clay blossom tone fox suit twelve vapor";

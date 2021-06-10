@@ -1,1 +1,1 @@
-var mnemonic = "improve nothing nothing effort rib coral purpose wrestle mouse hair outdoor guitar";
+var mnemonic = "game bridge act prefer exotic story fruit web pull lizard grit cruel";

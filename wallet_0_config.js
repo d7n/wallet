@@ -1,1 +1,1 @@
-var mnemonic = "sea symbol jelly room mimic heavy undo pole noise badge valley flock";
+var mnemonic = "pride outside cloud history name renew sniff labor tank shuffle violin base";

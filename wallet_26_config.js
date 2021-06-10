@@ -1,1 +1,1 @@
-var mnemonic = "truck potato engage host vicious enrich refuse afford birth educate swing hidden";
+var mnemonic = "draft ring hungry regular glide tilt loop leader defy lunar roof biology";

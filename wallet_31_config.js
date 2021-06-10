@@ -1,1 +1,1 @@
-var mnemonic = "ranch wage buddy eye scare valley museum gentle icon guitar bicycle cruise";
+var mnemonic = "regret purpose own combine amazing puzzle shift kick doll narrow code violin";

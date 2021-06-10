@@ -1,1 +1,1 @@
-var mnemonic = "gallery auction social clown hockey praise mixed canyon replace adult fabric behind";
+var mnemonic = "bind art nation type junior flee potato abuse weird mesh shy mouse";

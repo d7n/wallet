@@ -1,1 +1,1 @@
-var mnemonic = "finish side lesson during review awake unhappy view butter nephew bind gauge";
+var mnemonic = "found sustain interest engage merit girl decrease stove sample flip ancient strategy";

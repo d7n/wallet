@@ -1,1 +1,1 @@
-var mnemonic = "night spoil chimney nice over please toilet orchard market true sort fluid";
+var mnemonic = "area debate sign merge someone obtain staff jump tattoo reflect sight equal";
