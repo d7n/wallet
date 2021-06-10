@@ -1,1 +1,1 @@
-var mnemonic = "kitchen cinnamon amateur rug crowd green cool mobile capable multiply wreck radar";
+var mnemonic = "where entire interest east energy fold cupboard warrior crush swap hen wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "change cloth guess era outdoor material purse link convince expand path crucial";
+var mnemonic = "dawn exchange ghost ketchup unfold flat attitude urban satoshi wild multiply bleak";

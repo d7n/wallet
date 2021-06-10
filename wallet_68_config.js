@@ -1,1 +1,1 @@
-var mnemonic = "garment raise goat course mouse victory vehicle process chase duty reduce traffic";
+var mnemonic = "flame pelican deputy taste seat ocean recall sting peace silly lake unhappy";

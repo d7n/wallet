@@ -1,1 +1,1 @@
-var mnemonic = "congress trash good bulk detect weather just spread harbor tornado learn narrow";
+var mnemonic = "coral other sudden fluid dentist better hawk credit avoid frequent symbol firm";

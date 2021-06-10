@@ -1,1 +1,1 @@
-var mnemonic = "matter evil pony priority wagon predict follow february boat disorder ethics patrol";
+var mnemonic = "still law addict rural this taxi embark parent spider random clutch convince";

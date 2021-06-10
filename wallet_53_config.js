@@ -1,1 +1,1 @@
-var mnemonic = "syrup wealth jar normal axis kiss palm climb powder flame stove polar";
+var mnemonic = "cradle receive express creek age fat guard hood anger cereal wave warfare";

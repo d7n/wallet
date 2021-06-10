@@ -1,1 +1,1 @@
-var mnemonic = "coil emotion section train zebra catch near artefact pizza unlock destroy under";
+var mnemonic = "hope alley sail expect video symbol sock action lecture inmate reject neutral";

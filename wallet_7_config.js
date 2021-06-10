@@ -1,1 +1,1 @@
-var mnemonic = "clog nation problem other crater faint verify history jelly bird initial siren";
+var mnemonic = "pitch valley among skirt sugar company fetch control depth advance safe yellow";

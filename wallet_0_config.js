@@ -1,1 +1,1 @@
-var mnemonic = "medal sick grape acquire obey interest detect worth claim bone live wagon";
+var mnemonic = "hand describe ritual insect cart flee exhibit insect grace license orphan become";

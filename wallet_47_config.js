@@ -1,1 +1,1 @@
-var mnemonic = "bag first bounce trigger wheel scrap boost caution cattle submit cement know";
+var mnemonic = "mask tissue flock belt afford science steak helmet early luxury own must";

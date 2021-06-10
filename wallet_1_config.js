@@ -1,1 +1,1 @@
-var mnemonic = "tennis bounce code material stadium expire mammal seat please virtual advance original";
+var mnemonic = "company idea news road mesh until city feed actual matter blast person";

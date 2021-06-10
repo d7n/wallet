@@ -1,1 +1,1 @@
-var mnemonic = "fame true swift cattle perfect culture web season cabin island recall odor";
+var mnemonic = "noise lion ankle husband history faith polar ginger lend fold galaxy never";

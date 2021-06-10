@@ -1,1 +1,1 @@
-var mnemonic = "fine melt lesson spice foot grow mixture mutual sand setup plug clog";
+var mnemonic = "remember mixture pluck describe know gap purity chalk hurt crumble boil social";

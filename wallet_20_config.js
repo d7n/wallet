@@ -1,1 +1,1 @@
-var mnemonic = "rubber mountain quit reward expose grit sense ankle analyst what unveil render";
+var mnemonic = "angle tennis oak wealth initial possible become grid junior enact immune language";

@@ -1,1 +1,1 @@
-var mnemonic = "gold believe render hobby question spin already cable amazing raven spell split";
+var mnemonic = "super draw turkey rescue rapid ostrich traffic grit tiny onion blood wrist";

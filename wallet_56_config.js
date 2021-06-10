@@ -1,1 +1,1 @@
-var mnemonic = "wave cupboard wave analyst dirt fatigue receive museum derive trophy load outside";
+var mnemonic = "plunge fluid fire feel green sustain notice code apology kid razor pepper";

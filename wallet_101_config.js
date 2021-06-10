@@ -1,1 +1,1 @@
-var mnemonic = "trouble tonight ecology solve flight quantum announce project affair egg use labor";
+var mnemonic = "lesson city human torch galaxy second top trash require sport main load";

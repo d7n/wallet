@@ -1,1 +1,1 @@
-var mnemonic = "humor shed select risk lyrics discover chalk affair gate reject opinion cupboard";
+var mnemonic = "govern result attract smile main clip arm help pretty chaos camp doll";

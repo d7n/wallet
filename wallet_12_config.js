@@ -1,1 +1,1 @@
-var mnemonic = "olympic profit slim logic nest trick assist ready sunset dentist raise air";
+var mnemonic = "soon exotic leg taxi hover penalty someone gift vicious busy pond kangaroo";

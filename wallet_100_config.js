@@ -1,1 +1,1 @@
-var mnemonic = "pony field embark base immune stable vast loyal survey depth gravity found";
+var mnemonic = "ready soap one boy warrior wood use umbrella recycle cannon decide record";

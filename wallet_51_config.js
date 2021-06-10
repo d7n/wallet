@@ -1,1 +1,1 @@
-var mnemonic = "unknown proof shock torch tunnel clump lobster benefit father cradle cup possible";
+var mnemonic = "correct drip spatial negative monkey lonely hood patient black hurt wing dish";

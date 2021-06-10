@@ -1,1 +1,1 @@
-var mnemonic = "delay crop lucky room language believe anchor element similar false acid vital";
+var mnemonic = "gauge bunker champion wing crane earn baby give game concert crawl clap";

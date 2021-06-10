@@ -1,1 +1,1 @@
-var mnemonic = "useful disagree stone unit proof kiwi marine make forward believe club card";
+var mnemonic = "eyebrow ribbon earn install dizzy earth student enter cute canvas infant number";

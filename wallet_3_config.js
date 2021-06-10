@@ -1,1 +1,1 @@
-var mnemonic = "behave all staff aware path oven mixture balance install spike ecology moment";
+var mnemonic = "saddle slender shoulder skill muscle end junior sock ship celery hint aim";

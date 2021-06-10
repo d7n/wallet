@@ -1,1 +1,1 @@
-var mnemonic = "analyst magic total key forward daughter kid energy left today virtual immune";
+var mnemonic = "nation stage away vivid remove ginger distance happy camp dune primary tuna";

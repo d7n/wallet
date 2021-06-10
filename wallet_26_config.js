@@ -1,1 +1,1 @@
-var mnemonic = "begin deer diet main easy catch attract marble pull friend plate walnut";
+var mnemonic = "novel conduct fitness ozone enhance coffee jaguar drill banner kiwi reveal sea";

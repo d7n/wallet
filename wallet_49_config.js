@@ -1,1 +1,1 @@
-var mnemonic = "solve poem panic siege once away proud slogan debris ring ensure way";
+var mnemonic = "advance lawn reflect turtle donkey curve champion clutch shallow cycle high hood";

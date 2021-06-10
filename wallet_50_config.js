@@ -1,1 +1,1 @@
-var mnemonic = "cave century cotton foster scrub dish educate rabbit despair gap range harbor";
+var mnemonic = "repeat aisle grid garden also group family race amazing pencil stairs make";

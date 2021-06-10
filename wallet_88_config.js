@@ -1,1 +1,1 @@
-var mnemonic = "mix fan involve remember reward print welcome autumn provide bubble rib hawk";
+var mnemonic = "element treat boring deny sight yard author possible chaos amount bus behave";

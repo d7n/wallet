@@ -1,1 +1,1 @@
-var mnemonic = "benefit remember cabbage target stay lift august farm promote fog flat desk";
+var mnemonic = "more volcano jeans dish view federal traffic hobby marine base rice fluid";

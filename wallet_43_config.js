@@ -1,1 +1,1 @@
-var mnemonic = "blade example fence expose face advance mind face dilemma town hazard gown";
+var mnemonic = "curtain census order recall source among oppose country analyst gate excuse grief";

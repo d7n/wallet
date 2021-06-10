@@ -1,1 +1,1 @@
-var mnemonic = "local panda eye unveil thing grant main rural suffer lend divorce clap";
+var mnemonic = "few east creek two grant glue behave lens boss reduce lab second";

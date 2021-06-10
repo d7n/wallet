@@ -1,1 +1,1 @@
-var mnemonic = "manage quiz frost income mixture predict primary other settle lunch mask jazz";
+var mnemonic = "category six cream present buzz sure theme luxury bubble resource glory rate";

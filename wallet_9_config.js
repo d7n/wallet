@@ -1,1 +1,1 @@
-var mnemonic = "hurdle envelope tomorrow hub fish obscure spoil blur beef rebuild oxygen ahead";
+var mnemonic = "crime public wall problem potato army sight bridge sponsor inform actor ghost";

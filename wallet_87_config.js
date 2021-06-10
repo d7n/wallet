@@ -1,1 +1,1 @@
-var mnemonic = "clutch comfort brisk deal symptom black essence kidney luxury alarm decorate source";
+var mnemonic = "impact mirror auction scene primary duty bulk void income beyond catch discover";

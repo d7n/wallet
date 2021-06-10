@@ -1,1 +1,1 @@
-var mnemonic = "sphere mask sing fossil now boss immense critic ostrich open syrup subway";
+var mnemonic = "cause time eye animal east shift mango repeat lucky secret horse theory";

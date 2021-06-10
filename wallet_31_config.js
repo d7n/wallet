@@ -1,1 +1,1 @@
-var mnemonic = "actress group turkey machine giant derive acquire dish same must paddle utility";
+var mnemonic = "april eternal tumble another van exercise increase alpha visit second trust unable";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis series coconut win silver wrong regret auction mansion visa curve educate";
+var mnemonic = "found time theme shoe female range clarify response tomato betray coconut pudding";

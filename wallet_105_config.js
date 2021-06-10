@@ -1,1 +1,1 @@
-var mnemonic = "tooth draw sibling beauty snow fog frost family fresh novel oblige rather";
+var mnemonic = "alter mountain another rebuild tilt grow glare subject spoil believe there vague";

@@ -1,1 +1,1 @@
-var mnemonic = "magic brand shop oppose horn assist winter reject section spread sponsor ocean";
+var mnemonic = "abstract easily undo book mobile thumb viable raw evolve rude upper practice";

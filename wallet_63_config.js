@@ -1,1 +1,1 @@
-var mnemonic = "current shy add broken change orange upset fever confirm crawl glass tail";
+var mnemonic = "below vote shuffle artist verify between leader ritual rose apology mushroom call";

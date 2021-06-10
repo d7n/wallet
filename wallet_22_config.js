@@ -1,1 +1,1 @@
-var mnemonic = "fresh clip bright undo embody sign reflect flame inherit genius shuffle shy";
+var mnemonic = "crazy milk normal guess fork announce just modify music bargain hazard pilot";

@@ -1,1 +1,1 @@
-var mnemonic = "castle stone pipe brisk give sure around carry report appear course direct";
+var mnemonic = "south usage acoustic pencil jewel trust assist monkey cat ostrich romance shadow";

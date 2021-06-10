@@ -1,1 +1,1 @@
-var mnemonic = "crack this enlist frame traffic grain success can second nominee off spare";
+var mnemonic = "flock upset quote witness dove just topic message draw trouble raw skin";

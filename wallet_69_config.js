@@ -1,1 +1,1 @@
-var mnemonic = "retire finger tape novel open later bless outdoor rally trophy custom awkward";
+var mnemonic = "eight receive ticket switch coach shoe awful play vehicle frozen chimney faith";

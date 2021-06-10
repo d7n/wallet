@@ -1,1 +1,1 @@
-var mnemonic = "labor result benefit annual egg depth firm garden moral warrior reduce pear";
+var mnemonic = "three uncover glance quote spoon motor quick current age situate black catch";

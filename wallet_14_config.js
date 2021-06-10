@@ -1,1 +1,1 @@
-var mnemonic = "source practice pool motor goat version wheat claim army swamp cheese physical";
+var mnemonic = "oxygen senior very spell consider blouse loop during chef refuse gloom injury";

@@ -1,1 +1,1 @@
-var mnemonic = "outer noise laundry dolphin thunder evolve bright enact gadget sketch nation monster";
+var mnemonic = "note world inner nice fashion bike tape media foam face sausage swap";

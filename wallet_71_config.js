@@ -1,1 +1,1 @@
-var mnemonic = "refuse sudden mercy weekend energy renew unveil music eagle tube region lemon";
+var mnemonic = "dumb one wet cruel direct bread minimum random wash pattern admit knock";

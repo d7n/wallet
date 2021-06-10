@@ -1,1 +1,1 @@
-var mnemonic = "seek select spend broom party solar lucky cage jacket country pulp give";
+var mnemonic = "hawk tattoo portion win favorite erode undo involve sock tornado utility timber";

@@ -1,1 +1,1 @@
-var mnemonic = "visa expect refuse lion recall force detail repeat chalk dove diagram battle";
+var mnemonic = "evil fire cat club cover ribbon device pepper jump toe coral tiger";

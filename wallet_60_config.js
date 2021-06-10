@@ -1,1 +1,1 @@
-var mnemonic = "energy chat october talk decade off swift diesel awful fury fat know";
+var mnemonic = "element margin sphere bamboo brush false endless rigid final erosion spell tonight";

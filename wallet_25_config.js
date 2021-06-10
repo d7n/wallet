@@ -1,1 +1,1 @@
-var mnemonic = "gasp sausage ignore pair infant earth can type radio ghost school security";
+var mnemonic = "end april thing symptom taste excuse march oyster push this arrange rhythm";

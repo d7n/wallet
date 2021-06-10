@@ -1,1 +1,1 @@
-var mnemonic = "final glimpse announce nice clump rent cattle morning print notice head hamster";
+var mnemonic = "smoke exchange enroll property camp wise mother hand tissue broom practice coach";

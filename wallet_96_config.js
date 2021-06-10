@@ -1,1 +1,1 @@
-var mnemonic = "echo duck cloth member brand twin glad later harvest wet tennis stick";
+var mnemonic = "fall leisure vocal quit side erupt sauce sport first plate approve brain";

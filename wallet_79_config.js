@@ -1,1 +1,1 @@
-var mnemonic = "party conduct element photo divide reason true attend magnet lunch area cancel";
+var mnemonic = "senior merge silly hen loud dash okay stomach marine logic tool soldier";

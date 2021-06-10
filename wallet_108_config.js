@@ -1,1 +1,1 @@
-var mnemonic = "obscure orient ahead begin cube gas noble plug laptop tornado boring undo";
+var mnemonic = "fatal inherit junior shield manage seed drop cabin town model risk make";

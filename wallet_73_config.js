@@ -1,1 +1,1 @@
-var mnemonic = "essay hockey travel better shy animal popular winter bicycle surround prepare expire";
+var mnemonic = "canyon east three submit observe bunker flash book rocket own wine urge";

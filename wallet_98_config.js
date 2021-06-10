@@ -1,1 +1,1 @@
-var mnemonic = "sock dose remember canvas lyrics satisfy grant amazing window two spy walnut";
+var mnemonic = "able accident minor advice people lady level quote kidney pumpkin tissue tiny";

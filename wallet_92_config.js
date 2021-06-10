@@ -1,1 +1,1 @@
-var mnemonic = "hurdle false math vehicle flavor cheese armed disagree mass valve end agent";
+var mnemonic = "doctor guess hundred client verb awake narrow kingdom green harsh pledge rapid";

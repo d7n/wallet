@@ -1,1 +1,1 @@
-var mnemonic = "display sort hint rely kid mask civil easy opinion horn slight float";
+var mnemonic = "lunar random street quarter monkey cheap verb renew never myth famous wish";

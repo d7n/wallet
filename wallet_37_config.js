@@ -1,1 +1,1 @@
-var mnemonic = "monster thumb better economy mask mercy capable better mountain distance better flag";
+var mnemonic = "rescue kitchen like scorpion sponsor parade immense cupboard jazz fortune bench voyage";

@@ -1,1 +1,1 @@
-var mnemonic = "error ready quick net answer curve trial dumb flavor subway bleak sleep";
+var mnemonic = "physical lift rubber mean text potato decrease often scare enforce act morning";

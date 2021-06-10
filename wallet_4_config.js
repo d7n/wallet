@@ -1,1 +1,1 @@
-var mnemonic = "kiwi agree test ten hawk vapor grief city merge problem demise cruise";
+var mnemonic = "capital inch weasel slab nephew track face lend boring cushion giggle prosper";

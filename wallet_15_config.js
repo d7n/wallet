@@ -1,1 +1,1 @@
-var mnemonic = "spike ocean answer urban humble swift during dog buzz fork funny private";
+var mnemonic = "equal recipe flower best crouch enrich riot casino combine seed liar buffalo";

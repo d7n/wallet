@@ -1,1 +1,1 @@
-var mnemonic = "crush episode ski bubble seed fiber kid shed chuckle town hero machine";
+var mnemonic = "original change genuine hobby cruise never powder lazy regret huge leg great";

@@ -1,1 +1,1 @@
-var mnemonic = "story blue alone card shoot garlic repeat carpet undo naive reunion shallow";
+var mnemonic = "usage floor describe list normal burst banner senior phone retire host leisure";

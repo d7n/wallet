@@ -1,1 +1,1 @@
-var mnemonic = "stone morning muscle defense hockey extend property shell damp silly area acquire";
+var mnemonic = "deliver gospel spin crew quality hamster become easy country pave discover bleak";

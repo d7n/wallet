@@ -1,1 +1,1 @@
-var mnemonic = "since cook act firm teach oppose invest proud romance depart identify deposit";
+var mnemonic = "image kind curve pulse caught gadget hub rare opera choose fee fame";

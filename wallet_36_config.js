@@ -1,1 +1,1 @@
-var mnemonic = "wing cash shell hedgehog drip moon illegal level tomato mammal cook similar";
+var mnemonic = "club salmon merit badge mercy assault word hand run job rebel clerk";

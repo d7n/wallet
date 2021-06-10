@@ -1,1 +1,1 @@
-var mnemonic = "invest crawl shield noodle good match pudding flame cousin thought health power";
+var mnemonic = "marine speed borrow code wide flee spin tumble skill prize wire jar";

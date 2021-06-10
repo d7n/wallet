@@ -1,1 +1,1 @@
-var mnemonic = "area immense tribe river process reward jump weird recall inform cruise input";
+var mnemonic = "fetch write use isolate twist verify shallow rack pilot clever improve artefact";

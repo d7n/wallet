@@ -1,1 +1,1 @@
-var mnemonic = "kid coconut blame comfort antique claw tackle defense humor green rally foster";
+var mnemonic = "member cheap diesel subject merry mass device unknown erode warm velvet sample";

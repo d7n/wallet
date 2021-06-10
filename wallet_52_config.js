@@ -1,1 +1,1 @@
-var mnemonic = "output memory valley frame pyramid hen you elephant expire blouse survey attitude";
+var mnemonic = "fossil sauce disorder fence search load steel room gym direct wheat hair";

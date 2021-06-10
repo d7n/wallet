@@ -1,1 +1,1 @@
-var mnemonic = "skin brick knee hollow insane furnace plug medal resemble orchard ranch wreck";
+var mnemonic = "crush athlete sunny junior double flush settle anchor neither drama inflict elbow";

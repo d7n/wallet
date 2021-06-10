@@ -1,1 +1,1 @@
-var mnemonic = "ski gallery fitness rely myth bicycle bring shadow arrive peace portion spawn";
+var mnemonic = "number arm rural squirrel focus keen water token excess milk combine raccoon";

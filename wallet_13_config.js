@@ -1,1 +1,1 @@
-var mnemonic = "prevent word fee stone movie tunnel obscure negative immune earn nut gown";
+var mnemonic = "tragic once roof syrup horse ethics horn cloud wide ignore frozen brave";

@@ -1,1 +1,1 @@
-var mnemonic = "close foot animal boat tiger pause asset absent seek exist canvas urge";
+var mnemonic = "say lunar purity obtain burger liquid nominee blast suspect episode impose about";

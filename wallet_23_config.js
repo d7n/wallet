@@ -1,1 +1,1 @@
-var mnemonic = "evil vault bless behave rice festival matrix fish anger cushion outside popular";
+var mnemonic = "echo fame setup peasant soap fit chase detail announce asset antique assume";

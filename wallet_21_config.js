@@ -1,1 +1,1 @@
-var mnemonic = "other vanish biology joke slender jar orange hurt toast advance debate lens";
+var mnemonic = "oyster utility cube casino health oblige skin crazy wire creek clump choose";

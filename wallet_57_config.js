@@ -1,1 +1,1 @@
-var mnemonic = "eye goat tiger clown cargo capable shuffle change adapt reflect any review";
+var mnemonic = "skirt iron sure abandon omit certain talk copy cage egg coast dial";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant afford popular monkey bus lift pond nominee judge energy cable purchase";
+var mnemonic = "void firm group razor glance switch clay gate mango during vacuum project";

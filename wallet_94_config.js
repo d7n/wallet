@@ -1,1 +1,1 @@
-var mnemonic = "can exercise chunk actor hello toward pretty tape rely payment student victory";
+var mnemonic = "online cheap order text matrix little poet rescue used fade mosquito series";

@@ -1,1 +1,1 @@
-var mnemonic = "humble already coconut mosquito issue virus sweet priority glove garlic educate crime";
+var mnemonic = "giggle quote surge cousin add pear miss game link idea lava benefit";

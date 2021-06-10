@@ -1,1 +1,1 @@
-var mnemonic = "setup talk rally sail during pink public indicate orphan barrel shell coffee";
+var mnemonic = "apple bronze must emerge slender blood fever barely chest lab laundry face";

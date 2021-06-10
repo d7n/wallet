@@ -1,1 +1,1 @@
-var mnemonic = "sense cotton celery parrot material author lyrics void betray forum love spatial";
+var mnemonic = "sun sell clinic mechanic what grain pistol frost skin ring cancel share";

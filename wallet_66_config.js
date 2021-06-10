@@ -1,1 +1,1 @@
-var mnemonic = "purchase fit crater road believe clay age panic layer mail afford ribbon";
+var mnemonic = "popular below more elevator rather trash educate kid nuclear sunny nature innocent";

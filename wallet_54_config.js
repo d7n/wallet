@@ -1,1 +1,1 @@
-var mnemonic = "pioneer genuine repeat trial million betray tribe verb stool version fashion same";
+var mnemonic = "spoon base shrimp talent result resemble extend elite acquire tenant athlete mountain";

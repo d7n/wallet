@@ -1,1 +1,1 @@
-var mnemonic = "where flip measure negative refuse banana brave benefit route inform ocean pet";
+var mnemonic = "struggle fiscal acid gasp enforce absent patch motion chair sense parrot tiny";
