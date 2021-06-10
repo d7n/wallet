@@ -1,1 +1,1 @@
-var mnemonic = "idle found dog increase ghost dash horror sphere royal build detect harbor";
+var mnemonic = "glimpse later flower slide powder balcony solar stadium wreck topple this kind";

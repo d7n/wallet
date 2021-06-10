@@ -1,1 +1,1 @@
-var mnemonic = "vague width method remove library worth figure swarm adjust limb setup glue";
+var mnemonic = "unfold cushion candy hundred photo hurt title state long defense ocean enrich";

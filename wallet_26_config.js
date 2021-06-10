@@ -1,1 +1,1 @@
-var mnemonic = "swing tackle fit sustain novel amateur adjust accident sick frog snap trumpet";
+var mnemonic = "vapor leader stick employ faint limb place forget jeans side car lyrics";

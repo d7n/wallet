@@ -1,1 +1,1 @@
-var mnemonic = "lend cigar liquid mechanic sun push bottom proof vital mule census length";
+var mnemonic = "inspire script lumber analyst now hollow salon skate verb wish client hole";

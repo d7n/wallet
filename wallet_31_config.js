@@ -1,1 +1,1 @@
-var mnemonic = "also legend service page act stick amazing salute muscle gas seminar eyebrow";
+var mnemonic = "prize panic include coin slide angle over color awake phone feel drive";

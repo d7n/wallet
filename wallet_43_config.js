@@ -1,1 +1,1 @@
-var mnemonic = "rather security choose mom biology surge require offer bullet stove creek inject";
+var mnemonic = "mean taste one sister trade govern april violin kiss immune tortoise deer";

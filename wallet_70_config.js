@@ -1,1 +1,1 @@
-var mnemonic = "unknown deal fork trim veteran engage orange loyal spice rhythm renew cabin";
+var mnemonic = "earth horn stuff hundred pepper label fine split history clean transfer anxiety";

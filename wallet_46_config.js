@@ -1,1 +1,1 @@
-var mnemonic = "ozone enhance enter slogan split infant reopen tool traffic acoustic chair tired";
+var mnemonic = "polar derive path canyon assault argue abandon base fun spring work unaware";

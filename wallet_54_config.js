@@ -1,1 +1,1 @@
-var mnemonic = "joke ethics material virus moment tide tumble soda december web account device";
+var mnemonic = "shallow country main column antique home cactus swamp dad engine shift thrive";

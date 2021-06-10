@@ -1,1 +1,1 @@
-var mnemonic = "desk square coil place survey sense hour spatial service feature birth loan";
+var mnemonic = "betray silk half home kiss traffic stem print adjust drink innocent best";

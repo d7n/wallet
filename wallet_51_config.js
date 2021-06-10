@@ -1,1 +1,1 @@
-var mnemonic = "powder try dizzy mosquito abandon topple walnut rotate boost phone payment reward";
+var mnemonic = "extend firm sheriff document inquiry welcome inject feel top ordinary must mass";

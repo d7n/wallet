@@ -1,1 +1,1 @@
-var mnemonic = "nephew brown manage chalk general note hand fatal true guilt ball congress";
+var mnemonic = "other pyramid kiwi farm tent apple vintage keep smart tank burst pave";

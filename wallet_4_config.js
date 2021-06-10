@@ -1,1 +1,1 @@
-var mnemonic = "ski dismiss charge shine risk emotion state where tomorrow permit check crater";
+var mnemonic = "meadow bless lecture enact choose banana doctor target bone meat elevator barely";

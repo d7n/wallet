@@ -1,1 +1,1 @@
-var mnemonic = "assume road weather gospel edge mass snap chaos oak shoulder scare together";
+var mnemonic = "gown solution thumb asset title glide fat donor smart firm chair initial";

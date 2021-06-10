@@ -1,1 +1,1 @@
-var mnemonic = "have youth lizard cause napkin pencil outer student direct pudding gloom domain";
+var mnemonic = "trust wide lunch call detail index inner hour nature track easily answer";

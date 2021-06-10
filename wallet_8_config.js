@@ -1,1 +1,1 @@
-var mnemonic = "horn liberty neglect twist movie suspect friend hole craft melody safe lawsuit";
+var mnemonic = "sign catch taste again hub ostrich injury tumble brand right person news";

@@ -1,1 +1,1 @@
-var mnemonic = "bone mobile nerve panic wild eternal cover exhaust orient off minute warrior";
+var mnemonic = "involve style limit argue subway hover person gorilla dinosaur spike meat negative";

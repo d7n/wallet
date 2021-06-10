@@ -1,1 +1,1 @@
-var mnemonic = "strategy scrub banana system machine elephant strong catalog spawn abstract expect truck";
+var mnemonic = "found decade spot sugar cat congress property uphold oil clock spoil olive";

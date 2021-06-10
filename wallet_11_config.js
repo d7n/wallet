@@ -1,1 +1,1 @@
-var mnemonic = "basic mom child degree super amount above child tired marble almost amused";
+var mnemonic = "ocean mercy crater else save isolate thing bean royal spend method defense";

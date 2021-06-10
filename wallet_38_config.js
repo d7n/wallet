@@ -1,1 +1,1 @@
-var mnemonic = "office morning dentist appear steak snap similar spare blossom order type upgrade";
+var mnemonic = "stadium cloud exhibit snap arrow reopen whisper woman trim bubble there conduct";

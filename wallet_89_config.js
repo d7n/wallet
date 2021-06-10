@@ -1,1 +1,1 @@
-var mnemonic = "return poem company cinnamon board amount large try echo soup erase arrive";
+var mnemonic = "analyst shove kidney old catalog cabbage hill aim great bright renew nothing";

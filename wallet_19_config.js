@@ -1,1 +1,1 @@
-var mnemonic = "census obscure glass advice taste save lion dust choose ranch fury nominee";
+var mnemonic = "punch vague skill mix own kit tennis blouse crazy stage brand anxiety";

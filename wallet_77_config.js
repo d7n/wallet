@@ -1,1 +1,1 @@
-var mnemonic = "opinion illness ring bridge reflect denial toast model album chief earn float";
+var mnemonic = "attitude first vault always game matrix finish damp loan quote pyramid squirrel";

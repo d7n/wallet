@@ -1,1 +1,1 @@
-var mnemonic = "siege stereo close glare patch strong deal thumb wall option security release";
+var mnemonic = "dove injury jar gather crazy matrix note leisure meadow glimpse fresh shift";

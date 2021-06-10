@@ -1,1 +1,1 @@
-var mnemonic = "define over crucial enforce area plunge correct muscle critic will any try";
+var mnemonic = "memory blast blind wide issue buzz void avoid obtain mask crop person";

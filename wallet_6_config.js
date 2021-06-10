@@ -1,1 +1,1 @@
-var mnemonic = "duck supreme gospel burden artefact tuna gesture field since banner fix offer";
+var mnemonic = "two weasel tower metal verify grain ability mosquito verb boring mutual wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "deer salmon celery surprise cancel supreme bread beauty power palace discover width";
+var mnemonic = "luxury member erupt kid pigeon valid team guitar key immense purse print";

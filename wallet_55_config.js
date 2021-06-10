@@ -1,1 +1,1 @@
-var mnemonic = "drift brand cry buyer prison bullet social index inspire myth poet mercy";
+var mnemonic = "vanish win liberty mimic noise cube divert afford include alcohol ancient reject";

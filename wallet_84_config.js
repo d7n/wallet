@@ -1,1 +1,1 @@
-var mnemonic = "pilot fatal link essay ladder fox face trim drift already word hundred";
+var mnemonic = "museum risk advance below also skate wine demise aunt someone typical enable";

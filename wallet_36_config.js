@@ -1,1 +1,1 @@
-var mnemonic = "basket tragic spirit crumble suit inform home east system clinic display bubble";
+var mnemonic = "adult tribe you whale ginger expand tongue lounge enforce erase royal tide";

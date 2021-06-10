@@ -1,1 +1,1 @@
-var mnemonic = "nature cover nerve small crawl pumpkin bless employ pair visual night bird";
+var mnemonic = "mistake man body exchange ancient tomorrow blush gym month cliff dose cover";

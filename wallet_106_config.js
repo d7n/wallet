@@ -1,1 +1,1 @@
-var mnemonic = "medal rely half sadness improve fabric gospel illness venture plastic company camp";
+var mnemonic = "alarm maple elbow siren window hedgehog impact act moon tank improve narrow";

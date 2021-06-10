@@ -1,1 +1,1 @@
-var mnemonic = "siren valid stay pair alpha jump scrub rebuild canal rally gift version";
+var mnemonic = "actual impact speed risk power wrestle bench distance squeeze struggle gold inject";

@@ -1,1 +1,1 @@
-var mnemonic = "round harvest step erosion snake vacant enable goose blast tired bronze wealth";
+var mnemonic = "derive either coffee drop tomorrow palm winner employ drastic prosper dose bargain";

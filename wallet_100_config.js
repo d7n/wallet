@@ -1,1 +1,1 @@
-var mnemonic = "sphere local biology nut only during member sugar giant swarm actual green";
+var mnemonic = "produce tuna scrub harvest evolve neither canvas connect series firm torch tornado";

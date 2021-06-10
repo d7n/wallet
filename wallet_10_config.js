@@ -1,1 +1,1 @@
-var mnemonic = "reject forum humble awkward practice elite civil romance trouble kiss enemy head";
+var mnemonic = "east uniform shine farm fashion room blush now donkey hold grace craft";

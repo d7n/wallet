@@ -1,1 +1,1 @@
-var mnemonic = "thing donate feed menu zebra fruit essay answer joke another peace wonder";
+var mnemonic = "illness purchase mail depart close item allow power gossip sell caught race";

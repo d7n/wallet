@@ -1,1 +1,1 @@
-var mnemonic = "list summer father purse ski erosion danger dice nominee neither park member";
+var mnemonic = "liberty subway twenty flame front keen amount bread mesh marine exclude yellow";

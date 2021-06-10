@@ -1,1 +1,1 @@
-var mnemonic = "quality illegal clarify raise arrive catch frown symptom script day noodle cable";
+var mnemonic = "isolate shift fuel clown cricket nature width tunnel blood tobacco curve pelican";

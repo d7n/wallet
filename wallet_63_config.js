@@ -1,1 +1,1 @@
-var mnemonic = "month opinion review donate six radio poverty similar current shrug right series";
+var mnemonic = "soon whisper tonight tilt modify attack choice junior fork pilot process trim";

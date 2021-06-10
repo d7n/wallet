@@ -1,1 +1,1 @@
-var mnemonic = "shock mammal minor expand general stock pulse brave asthma special magic foot";
+var mnemonic = "space pupil green vessel bicycle disagree lyrics eager tiger thought gold master";

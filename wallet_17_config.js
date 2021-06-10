@@ -1,1 +1,1 @@
-var mnemonic = "medal fortune meadow gap whip harsh main buzz august flee unveil below";
+var mnemonic = "major chimney infant void hurdle drum brisk dash remind text pudding giggle";

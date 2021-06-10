@@ -1,1 +1,1 @@
-var mnemonic = "whale other toy daughter wasp team rebel prevent rice menu fat enter";
+var mnemonic = "update relax ramp skill off harsh hire enroll giggle book fury west";

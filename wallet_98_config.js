@@ -1,1 +1,1 @@
-var mnemonic = "long car ocean student miracle burden sibling time they spot machine tower";
+var mnemonic = "space jacket tourist destroy gossip poet crack erode appear lens home guide";

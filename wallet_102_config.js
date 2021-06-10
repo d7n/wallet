@@ -1,1 +1,1 @@
-var mnemonic = "pave pudding belt oblige camera glow possible flash wrap observe curtain cloud";
+var mnemonic = "gasp juice pudding become improve pluck web bracket buyer same diary captain";

@@ -1,1 +1,1 @@
-var mnemonic = "start gate rigid brand run spy sick wash hollow decrease obscure word";
+var mnemonic = "scan senior settle basic calm loud detect cricket push method citizen ribbon";

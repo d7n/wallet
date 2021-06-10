@@ -1,1 +1,1 @@
-var mnemonic = "fortune bunker core second garlic change crash exact purchase throw energy verb";
+var mnemonic = "snow maple nerve naive wet mind siren mansion hundred drop favorite powder";

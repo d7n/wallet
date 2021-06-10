@@ -1,1 +1,1 @@
-var mnemonic = "source retreat potato mom ritual dish mind alert globe pink lake repair";
+var mnemonic = "visit menu suit tattoo century street soup luxury dinosaur quarter gold loyal";

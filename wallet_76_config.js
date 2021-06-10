@@ -1,1 +1,1 @@
-var mnemonic = "decline clap abstract love mass cupboard brand actor term reopen grow describe";
+var mnemonic = "champion another scheme brief gun visual clock middle gap catalog game alert";

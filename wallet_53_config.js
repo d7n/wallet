@@ -1,1 +1,1 @@
-var mnemonic = "radio enroll buyer assist solid motor between goose harsh bundle maid garbage";
+var mnemonic = "paddle never chapter acquire peace bachelor grow utility theory rose uniform crop";

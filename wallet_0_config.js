@@ -1,1 +1,1 @@
-var mnemonic = "country library lumber laugh inhale length effort hand diary about private winter";
+var mnemonic = "cool either dose below hint sure truck where medal picnic fat eternal";

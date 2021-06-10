@@ -1,1 +1,1 @@
-var mnemonic = "submit effort census scorpion balance purpose gospel syrup better release anchor easily";
+var mnemonic = "robot diagram equip make govern slam canoe duty warfare gravity cotton fine";

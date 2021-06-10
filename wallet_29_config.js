@@ -1,1 +1,1 @@
-var mnemonic = "romance acid used sunny drama drink camp space develop pill matrix pigeon";
+var mnemonic = "dilemma glue glory inner news top goose enlist deliver edge shoulder pair";

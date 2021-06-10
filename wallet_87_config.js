@@ -1,1 +1,1 @@
-var mnemonic = "hood junk maid puzzle wedding group struggle release rubber play print double";
+var mnemonic = "extra plate mammal pudding eight square reveal assume trophy frown advance position";

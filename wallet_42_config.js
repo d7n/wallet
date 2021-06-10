@@ -1,1 +1,1 @@
-var mnemonic = "video sail science sorry radar occur achieve course forum gift recipe install";
+var mnemonic = "cook sand evoke moment yellow fashion turkey miracle pave jelly clock avoid";

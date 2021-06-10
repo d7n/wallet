@@ -1,1 +1,1 @@
-var mnemonic = "wife foam medal lift bamboo paper rude garage search submit guitar panther";
+var mnemonic = "choice current age history stand swamp unhappy vicious youth patch save outer";

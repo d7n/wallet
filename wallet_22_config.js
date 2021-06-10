@@ -1,1 +1,1 @@
-var mnemonic = "exercise material boss injury pride equip seed device blue firm nice usage";
+var mnemonic = "mom invite clarify hamster lecture cream city confirm usual define inner bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "grief solar ivory cabin exotic entry potato gather twenty service metal common";
+var mnemonic = "winner abandon task time blind throw surround tray frozen almost easily reveal";

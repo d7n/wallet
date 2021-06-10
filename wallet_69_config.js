@@ -1,1 +1,1 @@
-var mnemonic = "maximum rent frog clean uphold parade february mad cousin top ocean kitten";
+var mnemonic = "digital begin ribbon copper core edit feel peanut hello develop obtain million";

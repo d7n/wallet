@@ -1,1 +1,1 @@
-var mnemonic = "pill sell maze fine coil achieve usual toe grid parent horse hard";
+var mnemonic = "glory trash case resemble three bacon diary enable repeat patch rent record";

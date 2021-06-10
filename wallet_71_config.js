@@ -1,1 +1,1 @@
-var mnemonic = "endless gym behave trip void resist luggage payment owner morning glad various";
+var mnemonic = "nasty decide seat sample hold trial puppy leader okay pulse neutral promote";

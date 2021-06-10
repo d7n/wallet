@@ -1,1 +1,1 @@
-var mnemonic = "blossom meadow vehicle prepare mammal churn various sniff tower plastic object useless";
+var mnemonic = "mixed enhance cereal journey gospel assist mom elder mixture indoor staff oval";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist bomb secret member usage frozen wire monster world around recipe hurry";
+var mnemonic = "theory alarm rival machine finger portion vehicle payment throw print monitor taste";

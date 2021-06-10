@@ -1,1 +1,1 @@
-var mnemonic = "proof giraffe earth jelly search town sound order mean siren faculty game";
+var mnemonic = "core walnut fish pride future coyote mobile rapid tobacco margin income poet";

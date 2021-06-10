@@ -1,1 +1,1 @@
-var mnemonic = "cherry year method pudding speed fiscal season shoe legend suit found damage";
+var mnemonic = "artwork sun tennis shrug inject give potato choose sample velvet school catalog";

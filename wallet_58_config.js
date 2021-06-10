@@ -1,1 +1,1 @@
-var mnemonic = "sell bread boss live palace disease art earth seat surge smart glad";
+var mnemonic = "random broken return promote gossip solve earth rather drama obtain desk loud";

@@ -1,1 +1,1 @@
-var mnemonic = "bird warfare act trial wisdom column shine such hospital page faculty airport";
+var mnemonic = "minor witness parent clever toast bulb address enemy enrich more broom sound";

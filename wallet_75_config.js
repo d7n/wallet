@@ -1,1 +1,1 @@
-var mnemonic = "hybrid economy crane edge square soccer milk off rose evolve seven nice";
+var mnemonic = "boat tag item armor ghost tennis solar cargo robot merge voice gospel";

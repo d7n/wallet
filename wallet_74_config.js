@@ -1,1 +1,1 @@
-var mnemonic = "riot angle latin pluck capable reflect gold rabbit screen survey drop chief";
+var mnemonic = "state skill scene member daughter midnight hard umbrella castle nasty object course";

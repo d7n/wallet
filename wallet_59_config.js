@@ -1,1 +1,1 @@
-var mnemonic = "swing police garden shrimp other force hold kind forward current poem assault";
+var mnemonic = "run master point pave firm steel case frame strong good occur minute";

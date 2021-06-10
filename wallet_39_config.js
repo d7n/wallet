@@ -1,1 +1,1 @@
-var mnemonic = "dad rival invest since material describe secret middle eternal pistol humble enter";
+var mnemonic = "card habit price miracle egg produce play snack wasp good lift render";

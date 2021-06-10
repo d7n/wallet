@@ -1,1 +1,1 @@
-var mnemonic = "tomato satisfy term off depend leaf neutral token decide equal level raccoon";
+var mnemonic = "tent vintage kid dog hotel device sponsor label paper universe arrest note";

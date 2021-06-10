@@ -1,1 +1,1 @@
-var mnemonic = "aisle ride scatter enable solar income trust mom junior good first oxygen";
+var mnemonic = "fee face rail try card jazz turtle satoshi rare urge photo night";

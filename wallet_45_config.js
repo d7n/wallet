@@ -1,1 +1,1 @@
-var mnemonic = "movie bicycle invite chief limb cram game poem solar hurdle essence pen";
+var mnemonic = "fence private glove super juice tennis spin erode item firm sheriff honey";

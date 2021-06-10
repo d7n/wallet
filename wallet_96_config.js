@@ -1,1 +1,1 @@
-var mnemonic = "hidden hire skin purchase release fall fine leopard pepper sock claim funny";
+var mnemonic = "travel rate shy design sister dignity curtain donkey pill inherit session describe";

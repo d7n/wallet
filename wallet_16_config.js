@@ -1,1 +1,1 @@
-var mnemonic = "chicken soldier carbon transfer near category record drum decrease never organ pass";
+var mnemonic = "demand nephew topic tourist flag pear hat pledge misery cheap sword sock";

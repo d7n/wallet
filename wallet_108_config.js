@@ -1,1 +1,1 @@
-var mnemonic = "veteran repeat toward mansion swap forest liberty swim crazy oxygen draw color";
+var mnemonic = "salad shy biology sick describe pioneer broom heavy salute gap dance have";

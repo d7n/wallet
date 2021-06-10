@@ -1,1 +1,1 @@
-var mnemonic = "hire depend scale avoid afford squeeze injury visit ancient citizen chair absorb";
+var mnemonic = "legend smoke learn emerge veteran field electric way then pumpkin friend unique";

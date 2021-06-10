@@ -1,1 +1,1 @@
-var mnemonic = "success cement embark galaxy tennis start orient warm cat sugar april mercy";
+var mnemonic = "vehicle clock ensure disorder also supply bless wrestle hotel swim bamboo jar";

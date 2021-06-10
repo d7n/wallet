@@ -1,1 +1,1 @@
-var mnemonic = "motion seven film shoulder web ready silent luggage anxiety swarm already address";
+var mnemonic = "hero divorce seven bottom universe alien device casino unique goose dad rally";

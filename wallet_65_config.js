@@ -1,1 +1,1 @@
-var mnemonic = "obey account brave claw churn find strike feature estate allow hidden foot";
+var mnemonic = "expand awful goddess nephew code flash loyal enable ranch when sorry width";

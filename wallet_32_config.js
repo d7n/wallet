@@ -1,1 +1,1 @@
-var mnemonic = "ugly music truth nut they unknown aim help unknown estate asthma begin";
+var mnemonic = "aisle midnight captain pig vintage window pass talk pulse famous daring else";

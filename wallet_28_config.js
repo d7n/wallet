@@ -1,1 +1,1 @@
-var mnemonic = "melt finger evil cushion duck come only furnace breeze suspect total arctic";
+var mnemonic = "prosper armed argue solid erupt march code month inquiry hint page love";

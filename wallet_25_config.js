@@ -1,1 +1,1 @@
-var mnemonic = "apple print young sniff truly attack enact just bounce novel fiscal hope";
+var mnemonic = "settle name warfare media pitch raw strike ankle resource scissors swing major";

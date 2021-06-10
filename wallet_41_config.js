@@ -1,1 +1,1 @@
-var mnemonic = "indicate derive year coral trial faculty attitude organ crack wish sting twist";
+var mnemonic = "runway winter void path rug auto text agree insect region portion shaft";

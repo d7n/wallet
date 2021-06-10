@@ -1,1 +1,1 @@
-var mnemonic = "invite faculty regular caution crisp guilt price open dumb add expand regret";
+var mnemonic = "material eyebrow crumble seek pepper coil ostrich road narrow ten talent light";

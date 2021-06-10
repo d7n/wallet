@@ -1,1 +1,1 @@
-var mnemonic = "stove slender airport spoil smoke coyote under audit payment derive divert inmate";
+var mnemonic = "frame sister slide feed keen uncover wedding tape rotate very choose plug";

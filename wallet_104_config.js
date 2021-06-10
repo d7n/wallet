@@ -1,1 +1,1 @@
-var mnemonic = "involve slogan dice someone pretty bicycle lawsuit already service beach dust news";
+var mnemonic = "stable globe candy dizzy amazing welcome spare sad trouble casual rural identify";
