@@ -1,1 +1,1 @@
-var mnemonic = "tooth pass absurd extra open tissue vote grow what mass artefact submit";
+var mnemonic = "orient assume rally glove load manual topple argue traffic eight clip matrix";

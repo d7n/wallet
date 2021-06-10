@@ -1,1 +1,1 @@
-var mnemonic = "outdoor illness place bracket jeans lamp lava file stove universe inner project";
+var mnemonic = "social meadow employ height joy survey pretty tuition awake matter copy timber";

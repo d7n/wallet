@@ -1,1 +1,1 @@
-var mnemonic = "firm census harbor device job fan return there cotton shield soldier east";
+var mnemonic = "noodle easy steel betray ring approve ice order bundle enjoy exile trash";

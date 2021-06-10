@@ -1,1 +1,1 @@
-var mnemonic = "power solar expose layer nerve sausage between under final question orbit toilet";
+var mnemonic = "bonus coil act key wire vacant olive mention define home youth welcome";

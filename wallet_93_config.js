@@ -1,1 +1,1 @@
-var mnemonic = "route hood slot trip obtain collect remove age alcohol duty bench whip";
+var mnemonic = "tortoise about hen easy useful angry topic joke divide minimum salt safe";

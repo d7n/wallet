@@ -1,1 +1,1 @@
-var mnemonic = "split change another basket blouse lecture barrel vote movie almost vanish suit";
+var mnemonic = "green cook snap thumb model hair drive logic hour section rib wreck";

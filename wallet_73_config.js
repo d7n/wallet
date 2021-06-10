@@ -1,1 +1,1 @@
-var mnemonic = "first guitar undo toilet make this unusual fever valley motor twelve badge";
+var mnemonic = "youth dust gate inhale inch oak advice future grape bird blame poet";

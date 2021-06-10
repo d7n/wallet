@@ -1,1 +1,1 @@
-var mnemonic = "fit vapor system earth language fix doll disease fragile drill staff waste";
+var mnemonic = "forest brown sad cement vendor present repair appear wall carbon twist dinner";

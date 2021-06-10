@@ -1,1 +1,1 @@
-var mnemonic = "people whisper beauty then boil desk verify hat season frost bean offer";
+var mnemonic = "situate august label antique dry dial actual sure mouse slush ramp regular";

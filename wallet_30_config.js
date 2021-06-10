@@ -1,1 +1,1 @@
-var mnemonic = "hockey sorry train volcano master year fame sketch method analyst soul scrub";
+var mnemonic = "pistol mirror polar edit enforce flush supply sausage move submit left example";

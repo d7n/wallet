@@ -1,1 +1,1 @@
-var mnemonic = "front length country drum second pudding gap unlock scan morning decline before";
+var mnemonic = "drum coin install method broom code other program ladder current fetch ten";

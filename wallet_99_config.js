@@ -1,1 +1,1 @@
-var mnemonic = "noodle master diamond silent pave manual insect either wide barely size column";
+var mnemonic = "lake frozen feel volume fiscal gift trade victory joke trigger plunge engage";

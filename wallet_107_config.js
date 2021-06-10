@@ -1,1 +1,1 @@
-var mnemonic = "rhythm physical level office riot brass eagle tunnel mechanic angle icon rare";
+var mnemonic = "enhance twice banana arm puzzle hurry harvest police label fitness coin cancel";

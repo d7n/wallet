@@ -1,1 +1,1 @@
-var mnemonic = "bubble betray jaguar thing trip bubble mercy firm march project warm general";
+var mnemonic = "song mimic pull garment point cook text venture furnace ecology grape side";

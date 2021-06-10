@@ -1,1 +1,1 @@
-var mnemonic = "safe velvet visit post asset spy truth cook math design chest street";
+var mnemonic = "cotton outside behave scan spoil boy pass panther fluid crush rough exhibit";

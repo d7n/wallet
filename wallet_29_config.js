@@ -1,1 +1,1 @@
-var mnemonic = "aim transfer crucial essence position uphold provide service pistol wrap mad upon";
+var mnemonic = "open oven day release tired double lesson rely unable box near silent";

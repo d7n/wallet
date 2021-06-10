@@ -1,1 +1,1 @@
-var mnemonic = "aspect visa rookie modify bench cool uncover lonely donate great identify raise";
+var mnemonic = "know cross subway exclude head young mother biology ostrich about exclude express";

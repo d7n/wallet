@@ -1,1 +1,1 @@
-var mnemonic = "warm concert unique glory melody amused hill dish rate bounce fantasy volume";
+var mnemonic = "phone law series filter start around mixture guide velvet any hobby april";

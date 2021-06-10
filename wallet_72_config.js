@@ -1,1 +1,1 @@
-var mnemonic = "section island clutch empty daring fine copy mean report option stomach excite";
+var mnemonic = "elegant canoe stuff common panic enrich engage book fun sentence guard announce";

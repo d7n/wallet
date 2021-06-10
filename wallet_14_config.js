@@ -1,1 +1,1 @@
-var mnemonic = "flip else pledge wall trial float actual response grief key deal miss";
+var mnemonic = "initial only man diamond omit proud lunch option leave drum candy ostrich";

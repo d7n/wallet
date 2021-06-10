@@ -1,1 +1,1 @@
-var mnemonic = "bracket material combine possible envelope winter panic strong resource roast unable hungry";
+var mnemonic = "ice reduce supreme dinosaur world dream custom castle lyrics shoulder pass account";

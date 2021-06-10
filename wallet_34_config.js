@@ -1,1 +1,1 @@
-var mnemonic = "balance thunder anchor phrase term sponsor ecology wet ripple consider donor file";
+var mnemonic = "three warm faint near merry pelican unusual grunt heavy uncle loud census";

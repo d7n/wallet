@@ -1,1 +1,1 @@
-var mnemonic = "inflict decrease buzz month sustain throw daring chimney enhance fatigue easily tired";
+var mnemonic = "nothing logic chronic energy tunnel bargain speak card forward slab hero man";

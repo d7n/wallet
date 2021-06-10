@@ -1,1 +1,1 @@
-var mnemonic = "current render inmate vague radio subject trim rate smoke equal close rail";
+var mnemonic = "crawl craft rule funny series elegant salt rule clarify hip unknown zero";

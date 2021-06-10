@@ -1,1 +1,1 @@
-var mnemonic = "fatigue diesel trend they index else clarify glass index change quality inmate";
+var mnemonic = "arch car tennis spy diamond width iron fever attitude fresh melody sand";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect awake corn van afford cruise piece cycle vault hamster grit flush";
+var mnemonic = "purse nephew virtual fancy insane wall thing symptom doctor buzz rescue nasty";

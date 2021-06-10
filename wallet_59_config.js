@@ -1,1 +1,1 @@
-var mnemonic = "require kind portion attend medal primary zero mimic venue plastic tattoo until";
+var mnemonic = "draw topple recall favorite balcony also trash feature find cousin figure sunny";

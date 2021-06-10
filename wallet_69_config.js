@@ -1,1 +1,1 @@
-var mnemonic = "warm west race caught dolphin topple miss juice deny neither sadness soldier";
+var mnemonic = "issue elder hobby december bless april energy nature mesh exclude turtle post";

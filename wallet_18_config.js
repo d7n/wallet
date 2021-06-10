@@ -1,1 +1,1 @@
-var mnemonic = "badge end bike swim connect celery trigger female country possible borrow opera";
+var mnemonic = "blade just shell walnut engine margin bachelor assume sponsor city toddler hero";

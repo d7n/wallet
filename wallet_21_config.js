@@ -1,1 +1,1 @@
-var mnemonic = "lady appear camera fruit good struggle company horse neither barely void else";
+var mnemonic = "shaft joke grant must math pizza animal rib unusual bar swallow live";

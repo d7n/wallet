@@ -1,1 +1,1 @@
-var mnemonic = "spike prison fancy above energy seek segment latin number jewel sudden muffin";
+var mnemonic = "able fork album slab dignity pet feed cave strike top service yard";

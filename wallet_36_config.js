@@ -1,1 +1,1 @@
-var mnemonic = "latin quarter coffee inquiry fashion attract hamster slow vessel acquire damp convince";
+var mnemonic = "candy upgrade height crop help elder gasp cherry danger manage before blade";

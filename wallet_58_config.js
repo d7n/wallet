@@ -1,1 +1,1 @@
-var mnemonic = "please state industry metal domain climb fan person humble lottery traffic stage";
+var mnemonic = "rifle symptom pond upgrade attend birth minimum one web ball minimum smooth";

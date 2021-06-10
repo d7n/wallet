@@ -1,1 +1,1 @@
-var mnemonic = "catalog truck tooth deposit easy aim umbrella victory dust tuition nasty puppy";
+var mnemonic = "eight host shell wisdom web treat glue flag eager bridge earn hockey";

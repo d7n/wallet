@@ -1,1 +1,1 @@
-var mnemonic = "hair neck vapor edge alter hover inflict sunny cram sun approve shove";
+var mnemonic = "spread proof minute upset thing panda moment fly sword cycle exile erosion";

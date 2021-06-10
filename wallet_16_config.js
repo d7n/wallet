@@ -1,1 +1,1 @@
-var mnemonic = "assault patch decorate season good trip rhythm rifle ball bamboo spell camera";
+var mnemonic = "trigger color youth can quiz captain position nest guilt avoid chronic exclude";

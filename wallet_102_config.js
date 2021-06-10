@@ -1,1 +1,1 @@
-var mnemonic = "inspire pistol click cloth bus dad space marble museum assume dish height";
+var mnemonic = "tide easily chest slender word quality attitude hammer mango mixed aware rival";

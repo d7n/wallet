@@ -1,1 +1,1 @@
-var mnemonic = "neck tornado village public option client response run base ordinary license title";
+var mnemonic = "hammer wheat section minor tank once aisle health moon update above subway";

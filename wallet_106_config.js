@@ -1,1 +1,1 @@
-var mnemonic = "comfort outside rotate inside defy movie fossil salmon fatigue garlic length raise";
+var mnemonic = "cricket lock original language pull film march immense picnic chunk shrimp silly";

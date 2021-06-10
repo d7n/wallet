@@ -1,1 +1,1 @@
-var mnemonic = "simple shadow company excite this amount oyster february easy beef ocean silent";
+var mnemonic = "abuse much engine riot world liquid come return trumpet under vehicle project";

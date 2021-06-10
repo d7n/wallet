@@ -1,1 +1,1 @@
-var mnemonic = "garment wish require smooth cement vital casual skirt trigger oxygen point useful";
+var mnemonic = "parade fashion chaos arm matter spell ritual clever space boil pigeon recipe";

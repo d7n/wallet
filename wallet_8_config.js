@@ -1,1 +1,1 @@
-var mnemonic = "suit mouse library pudding hospital harsh seed fork vacuum napkin forget repeat";
+var mnemonic = "mask purpose beach present modify response lift clog mention scout wheel pilot";

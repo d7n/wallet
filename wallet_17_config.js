@@ -1,1 +1,1 @@
-var mnemonic = "original cabbage blood choose pink craft sight squeeze spare story blanket finger";
+var mnemonic = "legend relax worry wonder vehicle flat satisfy drive spice fine case rocket";

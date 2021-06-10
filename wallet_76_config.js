@@ -1,1 +1,1 @@
-var mnemonic = "tilt bag emotion fix game attitude there favorite capital alley major slogan";
+var mnemonic = "toddler they inflict develop trim oval seminar member detail wood chat police";

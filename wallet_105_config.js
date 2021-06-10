@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow add fantasy adult effort dinosaur clinic hungry busy order moral claw";
+var mnemonic = "original twenty elevator wedding suspect recycle idea scissors thought crumble cherry fossil";

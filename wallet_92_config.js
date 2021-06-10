@@ -1,1 +1,1 @@
-var mnemonic = "reveal govern federal journey photo claw goat draft response village lend shuffle";
+var mnemonic = "energy typical ugly puppy soda glove disease gym ordinary series kick borrow";

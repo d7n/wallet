@@ -1,1 +1,1 @@
-var mnemonic = "frozen onion dash gown van clip salute rural age credit sponsor child";
+var mnemonic = "alcohol hungry able comfort chronic enjoy hawk path sniff mistake boil panel";

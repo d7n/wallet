@@ -1,1 +1,1 @@
-var mnemonic = "brisk leopard cat illegal become rack gentle pattern error memory supply live";
+var mnemonic = "camera rapid destroy badge term ceiling minimum enough session wonder olive renew";

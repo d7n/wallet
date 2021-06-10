@@ -1,1 +1,1 @@
-var mnemonic = "wish alien town prevent today chuckle dinner step figure all bless upon";
+var mnemonic = "title misery lecture law catalog dial surface pudding word mail motion second";

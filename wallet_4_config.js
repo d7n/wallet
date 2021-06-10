@@ -1,1 +1,1 @@
-var mnemonic = "deal inhale fit prosper spice bone distance kid tilt team exhaust thumb";
+var mnemonic = "evil project pause outdoor coral garlic royal link unfold buzz company lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "aim wing bracket clean project laugh pony shy crush example remain voyage";
+var mnemonic = "north angle elephant echo slab shine sand topic own brass client suspect";

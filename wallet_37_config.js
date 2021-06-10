@@ -1,1 +1,1 @@
-var mnemonic = "keep child photo used jewel fiber bamboo asset motor rain ozone denial";
+var mnemonic = "away garden stairs survey chuckle legal like beach wait host world pelican";

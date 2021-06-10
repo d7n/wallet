@@ -1,1 +1,1 @@
-var mnemonic = "wheel disease mistake master twelve hunt essay same nest news claw outdoor";
+var mnemonic = "topic bubble salmon erosion yellow gather trip soccer race real wing lawsuit";

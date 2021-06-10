@@ -1,1 +1,1 @@
-var mnemonic = "size audit couple volume lesson beach thumb popular what vacuum inhale hour";
+var mnemonic = "rude sell immense submit coyote hollow fiscal exchange warrior tenant toe winner";

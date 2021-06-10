@@ -1,1 +1,1 @@
-var mnemonic = "blood swarm twist sell rent pipe swap student matter domain latin caught";
+var mnemonic = "grass eternal chaos still early material sunset mango chimney bird mimic negative";

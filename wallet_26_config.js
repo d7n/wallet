@@ -1,1 +1,1 @@
-var mnemonic = "entry dry cactus donkey dune divide throw trumpet skull govern celery then";
+var mnemonic = "large waste stadium script around trigger neglect chimney seminar screen average fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal buyer match dove exit brother trumpet dilemma around next either awake";
+var mnemonic = "shift brain ripple escape consider merit border focus flavor coach lend road";

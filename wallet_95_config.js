@@ -1,1 +1,1 @@
-var mnemonic = "cook person thought trial peanut pony giant roof sudden reopen zero history";
+var mnemonic = "panda mail unfair collect south toe loud senior saddle sick noble foster";

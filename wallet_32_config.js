@@ -1,1 +1,1 @@
-var mnemonic = "spike collect cheap adult speak sail eight transfer tent badge trash auto";
+var mnemonic = "glare neck loud diary team average bachelor pass any web minimum print";

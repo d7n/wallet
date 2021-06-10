@@ -1,1 +1,1 @@
-var mnemonic = "snap rescue barrel convince taste hospital gaze call sort ridge bring assist";
+var mnemonic = "true annual shed you odor cheese genius wrist tower subway toilet safe";

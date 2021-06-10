@@ -1,1 +1,1 @@
-var mnemonic = "board excess song jump social drama answer example hover chase blind purse";
+var mnemonic = "sword rookie what slender novel athlete gloom tourist raise move pave loud";

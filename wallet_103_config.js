@@ -1,1 +1,1 @@
-var mnemonic = "video fuel twist total cheese cable provide spot dish usage inflict ugly";
+var mnemonic = "shaft lake churn lizard risk quality ridge require aunt keep moral birth";

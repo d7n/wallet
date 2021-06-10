@@ -1,1 +1,1 @@
-var mnemonic = "ridge jewel board venue butter repair narrow evoke buddy forum pony tide";
+var mnemonic = "emerge brisk dismiss valley swallow valve motion reflect junk swim perfect lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "feel exclude high please guitar off brown drink spirit whisper canvas torch";
+var mnemonic = "forest swim derive smooth lonely strike thank gorilla stadium wheel spawn oil";

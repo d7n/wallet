@@ -1,1 +1,1 @@
-var mnemonic = "combine control stable panda cream ramp motion mail negative virus keep custom";
+var mnemonic = "sustain scale actual broken address sudden excess record surface income omit analyst";

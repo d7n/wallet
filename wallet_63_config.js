@@ -1,1 +1,1 @@
-var mnemonic = "renew lawsuit observe dog energy nest gaze submit simple water relief lazy";
+var mnemonic = "orbit alien demand stable civil future charge couch bonus smart left sound";

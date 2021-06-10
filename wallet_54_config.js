@@ -1,1 +1,1 @@
-var mnemonic = "shock reduce radar hawk vital silver quit weird surprise miss silent category";
+var mnemonic = "session disagree curtain monitor season issue situate cluster worth asset ski sauce";

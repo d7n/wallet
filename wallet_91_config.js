@@ -1,1 +1,1 @@
-var mnemonic = "label employ enforce legend flight canal seek omit jaguar nephew switch knee";
+var mnemonic = "flight wet trigger robust resemble admit relax attend urban maid goose borrow";

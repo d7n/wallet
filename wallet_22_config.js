@@ -1,1 +1,1 @@
-var mnemonic = "alone elder fault shrimp effort bar rival paddle canyon monitor step dumb";
+var mnemonic = "fly error bulb bulk guitar priority rescue guitar coin warfare sentence cheap";

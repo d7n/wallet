@@ -1,1 +1,1 @@
-var mnemonic = "eagle access swamp inherit asthma steel fix silver spend move cement shine";
+var mnemonic = "busy angry spawn scissors width mom hollow alarm note exclude power pony";

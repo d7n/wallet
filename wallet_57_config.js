@@ -1,1 +1,1 @@
-var mnemonic = "identify fame rural fossil tragic promote robot spin nice attitude alley gallery";
+var mnemonic = "wish inmate milk north spawn mercy route unveil join film owner humor";

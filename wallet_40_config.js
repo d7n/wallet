@@ -1,1 +1,1 @@
-var mnemonic = "fame involve guide august charge episode rabbit only squeeze please little clap";
+var mnemonic = "code mail close wish orbit review vote injury wrist crop dove trend";

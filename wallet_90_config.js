@@ -1,1 +1,1 @@
-var mnemonic = "meadow child surge zero month view pudding material mesh fog hotel picture";
+var mnemonic = "trap extend slim sea ripple skill run city old method plastic grow";

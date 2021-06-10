@@ -1,1 +1,1 @@
-var mnemonic = "impact skate vintage frequent ranch turkey object ancient toddler harvest struggle polar";
+var mnemonic = "child domain venture swear friend urge strike mesh ecology before dutch toward";

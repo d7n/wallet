@@ -1,1 +1,1 @@
-var mnemonic = "mystery finger girl famous replace ski topic trophy dry run another actor";
+var mnemonic = "type grab message cheese rocket cousin helmet cabbage cost resource shrimp jeans";

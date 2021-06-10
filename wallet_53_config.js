@@ -1,1 +1,1 @@
-var mnemonic = "any earth level woman rival accident mammal rude blur seminar expire curve";
+var mnemonic = "spare ordinary voice joy busy pool prefer twice retire swift abstract stable";

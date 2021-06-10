@@ -1,1 +1,1 @@
-var mnemonic = "write wedding deny roof robust grocery narrow mistake estate maximum trade sketch";
+var mnemonic = "script dynamic story height clog decrease release glide vessel lamp earth series";

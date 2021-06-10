@@ -1,1 +1,1 @@
-var mnemonic = "area custom jar reunion exchange deny affair auto assist tone frown fever";
+var mnemonic = "tape clap race renew clog fancy tunnel neither dawn stage know style";

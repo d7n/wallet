@@ -1,1 +1,1 @@
-var mnemonic = "sphere dignity turkey grain glide flavor desk awesome rare place mesh describe";
+var mnemonic = "rocket odor blush pipe laugh unique truly menu glue thumb empty word";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz hobby round final confirm undo spare album decide orphan camera camera";
+var mnemonic = "prepare nation strike brown coffee wisdom rapid chalk rebuild waste wagon physical";

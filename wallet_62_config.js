@@ -1,1 +1,1 @@
-var mnemonic = "laugh coin sport convince dentist scatter punch believe chuckle fitness chuckle oven";
+var mnemonic = "seek fiber typical hard fix drop maid lend dinosaur skate hospital wave";

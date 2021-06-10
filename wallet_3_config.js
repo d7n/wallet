@@ -1,1 +1,1 @@
-var mnemonic = "reopen split soul differ horse need dune peanut alert round casino salute";
+var mnemonic = "become first vintage luggage brick special hub sword prosper usual execute supreme";

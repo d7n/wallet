@@ -1,1 +1,1 @@
-var mnemonic = "inch equip elite vivid inherit scan absorb keep creek fame display once";
+var mnemonic = "rapid purchase winner genuine notable enter chronic vibrant gap visa begin scatter";

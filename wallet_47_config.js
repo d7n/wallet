@@ -1,1 +1,1 @@
-var mnemonic = "sudden crouch miracle reopen blade youth prefer feature episode father source mango";
+var mnemonic = "milk cable enough use legend art lemon wire dynamic ocean north fit";

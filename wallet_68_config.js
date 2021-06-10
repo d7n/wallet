@@ -1,1 +1,1 @@
-var mnemonic = "runway shiver sad person own learn pledge undo family apple text sample";
+var mnemonic = "embark ugly club market merge company uncle crack actress stone myself fat";

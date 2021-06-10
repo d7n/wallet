@@ -1,1 +1,1 @@
-var mnemonic = "virus glare person card claim famous strike genuine axis patrol tip ritual";
+var mnemonic = "way mind glory police source metal crumble still cricket snow cover direct";

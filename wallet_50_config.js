@@ -1,1 +1,1 @@
-var mnemonic = "mesh what leopard crystal sign crush sense coin six shine taste now";
+var mnemonic = "dance object liberty goose buzz laptop have tired profit melt hill small";

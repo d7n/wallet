@@ -1,1 +1,1 @@
-var mnemonic = "blade drama neutral sniff fog tumble crowd try skate bubble short muscle";
+var mnemonic = "sister opinion wide elegant lunar chronic merge immune panda arrest wall muscle";
