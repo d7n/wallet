@@ -1,1 +1,1 @@
-var mnemonic = "cover judge theory rotate ladder fine evil auction please occur local cargo";
+var mnemonic = "echo vote deliver evidence easy obey protect ceiling title pulse bench remain";

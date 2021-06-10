@@ -1,1 +1,1 @@
-var mnemonic = "share cube veteran multiply ready plug rocket logic clean knife dirt asset";
+var mnemonic = "angry syrup title debris gossip kid guard garden april snake first consider";

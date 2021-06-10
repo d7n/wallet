@@ -1,1 +1,1 @@
-var mnemonic = "spread can bright plug float around word pepper certain gown debate fortune";
+var mnemonic = "crew february broom skate fee aspect dignity other enough sadness shop armed";

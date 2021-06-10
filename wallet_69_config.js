@@ -1,1 +1,1 @@
-var mnemonic = "gun whale host extend limit fix layer grass bar endorse autumn inch";
+var mnemonic = "unfair toilet liar process dish shield alpha suspect buffalo utility crop pull";

@@ -1,1 +1,1 @@
-var mnemonic = "orient catalog peasant stairs race quick glass donate vague picture case catalog";
+var mnemonic = "action reduce powder horn material luggage brand session chuckle soup clarify hill";

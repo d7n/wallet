@@ -1,1 +1,1 @@
-var mnemonic = "ignore trophy fitness add never tree finish small nominee blouse zoo heavy";
+var mnemonic = "mistake book iron agree arena crawl stereo profit turtle trap kid earn";

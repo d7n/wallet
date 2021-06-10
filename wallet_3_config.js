@@ -1,1 +1,1 @@
-var mnemonic = "easy behave lock thunder bright spread arena awesome bind cousin gravity force";
+var mnemonic = "cotton hip pistol segment steel pupil industry property material coral scrub scheme";

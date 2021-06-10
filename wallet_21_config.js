@@ -1,1 +1,1 @@
-var mnemonic = "fiscal repair flower language harvest gun remain refuse slam cost dawn move";
+var mnemonic = "forest cup payment alert miracle river blind purpose unveil comic loyal citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "rally dinosaur endless agent senior near order burger tray stick betray junior";
+var mnemonic = "mandate theory shrimp eyebrow poverty globe doll venue fabric panther stone achieve";

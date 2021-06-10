@@ -1,1 +1,1 @@
-var mnemonic = "design abstract call congress salmon gap buzz ripple legend split virtual quantum";
+var mnemonic = "sport hollow ghost joy step utility business arm moral winter armor carpet";

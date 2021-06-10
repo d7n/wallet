@@ -1,1 +1,1 @@
-var mnemonic = "era pumpkin fresh coyote switch jelly will wrestle asthma pyramid asthma edit";
+var mnemonic = "unaware behind push click turtle then draw account yard thank fantasy drive";

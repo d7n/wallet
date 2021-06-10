@@ -1,1 +1,1 @@
-var mnemonic = "home purchase tackle wreck field useful chimney give siren dawn skate foot";
+var mnemonic = "envelope isolate lend twenty smoke industry this sustain duck truly rubber edge";

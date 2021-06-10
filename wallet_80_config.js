@@ -1,1 +1,1 @@
-var mnemonic = "lecture soon pelican type anchor captain question gas solution bamboo sweet vivid";
+var mnemonic = "aspect elite rare scan change melody ugly salon network satisfy victory shed";

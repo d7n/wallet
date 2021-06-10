@@ -1,1 +1,1 @@
-var mnemonic = "crisp spirit organ make sister enough riot blanket exhaust achieve close cat";
+var mnemonic = "nest above range wait note coach basic select twenty desk lion total";

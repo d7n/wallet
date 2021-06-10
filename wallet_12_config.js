@@ -1,1 +1,1 @@
-var mnemonic = "small famous decrease friend dust patient siege spice humor shed smart news";
+var mnemonic = "ostrich toilet marriage eager fuel art question exercise odor cute element clay";

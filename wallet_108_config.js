@@ -1,1 +1,1 @@
-var mnemonic = "swallow derive ability nest cement impulse clip follow gesture fiber trumpet page";
+var mnemonic = "long credit describe regret orbit cricket pizza success you swim club fee";

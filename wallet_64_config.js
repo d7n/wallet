@@ -1,1 +1,1 @@
-var mnemonic = "fat ribbon pact apple festival engage join monster because damage matter share";
+var mnemonic = "avocado siege found company matter diet resemble alter reduce nominee chef night";

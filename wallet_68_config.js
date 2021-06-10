@@ -1,1 +1,1 @@
-var mnemonic = "bottom between stadium ocean seat surprise thumb orphan onion tone shield payment";
+var mnemonic = "neutral guard claim organ slab belt lottery canvas flame safe asset breeze";

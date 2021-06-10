@@ -1,1 +1,1 @@
-var mnemonic = "case engage spoil maximum shy brass rely disagree confirm pumpkin laugh wink";
+var mnemonic = "argue inch sphere domain turn like network front organ provide cart inside";

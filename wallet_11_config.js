@@ -1,1 +1,1 @@
-var mnemonic = "shoe order frozen talk flee salmon hope vacant high inspire tornado lottery";
+var mnemonic = "faculty scare priority pattern bracket arrive grab father wonder apart chronic lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton food pigeon buffalo grunt grain bacon screen nuclear hope away universe";
+var mnemonic = "awake aspect vicious whale erase sketch shock wife boost engine pencil catalog";

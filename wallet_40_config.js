@@ -1,1 +1,1 @@
-var mnemonic = "nature camera throw buddy demand crack alarm neck giraffe ice mercy arrange";
+var mnemonic = "public possible elephant ostrich casual able source exotic pilot escape kingdom story";

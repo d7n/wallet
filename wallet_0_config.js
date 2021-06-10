@@ -1,1 +1,1 @@
-var mnemonic = "myth child explain jazz blind solution negative body room seminar defense ancient";
+var mnemonic = "kangaroo cradle pigeon balcony unveil reflect relief pilot begin mystery soon wrist";

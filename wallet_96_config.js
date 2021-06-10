@@ -1,1 +1,1 @@
-var mnemonic = "tiger spirit foster faint shrimp sleep spell lawn spin begin buzz exist";
+var mnemonic = "renew remove useful blanket elbow false obscure skill urban course blue extend";

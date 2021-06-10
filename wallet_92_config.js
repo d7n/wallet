@@ -1,1 +1,1 @@
-var mnemonic = "smart fringe impose join menu eagle fan estate coyote often more truth";
+var mnemonic = "virtual provide salon crowd strategy child century swift notable fruit gather wing";

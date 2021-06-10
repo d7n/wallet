@@ -1,1 +1,1 @@
-var mnemonic = "protect champion cruise boat basic arm portion antique scatter ozone sample rice";
+var mnemonic = "hedgehog drink table credit drill divorce cushion ivory ceiling radar install ketchup";

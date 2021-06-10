@@ -1,1 +1,1 @@
-var mnemonic = "solar doctor chief gas differ panic shock acid science dinosaur deputy fossil";
+var mnemonic = "pig enrich tissue wage nice position live expire impact stone remove market";

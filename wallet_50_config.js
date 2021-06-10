@@ -1,1 +1,1 @@
-var mnemonic = "paddle service protect pumpkin tomato either insane slab galaxy appear siege speak";
+var mnemonic = "city favorite effort rice error music section renew inhale height balcony usual";

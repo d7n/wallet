@@ -1,1 +1,1 @@
-var mnemonic = "gadget boat kick tortoise sign exit digital damp gravity else mule plastic";
+var mnemonic = "speak property spatial ignore jeans hope poet stock parrot cage noodle pledge";

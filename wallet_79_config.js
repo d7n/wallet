@@ -1,1 +1,1 @@
-var mnemonic = "hover vote reform box work yard crystal recipe invite pull fine address";
+var mnemonic = "attack argue luxury range book very dizzy boss play spend observe treat";

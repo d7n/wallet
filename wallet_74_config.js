@@ -1,1 +1,1 @@
-var mnemonic = "polar hen engage increase broom peasant bargain weapon utility rabbit fat topic";
+var mnemonic = "tooth decrease old announce monkey proof clog crystal priority quick vital gaze";

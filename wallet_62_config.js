@@ -1,1 +1,1 @@
-var mnemonic = "egg canal fresh diamond offer right steak frequent ring jazz vehicle rate";
+var mnemonic = "fat blouse young near valid aware human tuition primary left attack ice";

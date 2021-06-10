@@ -1,1 +1,1 @@
-var mnemonic = "edit august hold isolate sniff unique squirrel nature palm combine grocery destroy";
+var mnemonic = "model attract grant leg alien traffic pyramid behave claw senior sponsor oil";

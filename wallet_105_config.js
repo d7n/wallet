@@ -1,1 +1,1 @@
-var mnemonic = "trip title left never crack fabric gorilla ramp crew habit kangaroo asthma";
+var mnemonic = "brick script old young like state bar myth whisper gate feel hamster";

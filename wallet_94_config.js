@@ -1,1 +1,1 @@
-var mnemonic = "tackle hand where fox decide coral door velvet elite ensure relief door";
+var mnemonic = "puzzle shop duck can exotic magnet prize feed glue draw silk shine";

@@ -1,1 +1,1 @@
-var mnemonic = "salute major nation position distance indoor walk verb man brick dragon keen";
+var mnemonic = "media cage lazy nurse antique coconut canoe ring weather wall resource holiday";

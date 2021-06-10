@@ -1,1 +1,1 @@
-var mnemonic = "boat labor asthma knock lab outside abuse alert pilot harvest budget payment";
+var mnemonic = "ride creek drink fresh nominee patient ill acquire cat grocery connect mosquito";

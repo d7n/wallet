@@ -1,1 +1,1 @@
-var mnemonic = "bracket bitter capable tuition seat stone winter bid erosion survey bomb entry";
+var mnemonic = "force liar veteran dentist shrug sure evidence mistake evidence awake mention hub";

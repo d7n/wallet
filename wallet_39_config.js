@@ -1,1 +1,1 @@
-var mnemonic = "marriage cloud annual palace pluck thing permit dutch index much frozen noodle";
+var mnemonic = "rate disagree thing foster chuckle coral merge crisp rail mean praise ill";

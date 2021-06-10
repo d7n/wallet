@@ -1,1 +1,1 @@
-var mnemonic = "pig bike pulse expose ski media city fiction unknown rotate dwarf round";
+var mnemonic = "scatter apart nose motion outer thank sausage kick life case scorpion venue";

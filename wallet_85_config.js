@@ -1,1 +1,1 @@
-var mnemonic = "depth horn code common wheel habit duty gallery announce attract salad bicycle";
+var mnemonic = "clip vital kind raven travel kitchen ancient margin step choose code advice";

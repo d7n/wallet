@@ -1,1 +1,1 @@
-var mnemonic = "couple output west swift adjust swift boss rally advance foil uniform smile";
+var mnemonic = "firm paper inhale seek pistol warfare ring hurt code swallow write hub";

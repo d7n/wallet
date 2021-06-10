@@ -1,1 +1,1 @@
-var mnemonic = "lobster shy theme join dignity twin liar public toward spawn oven offer";
+var mnemonic = "announce switch purse rice size dial vital air relief horn cry hurry";

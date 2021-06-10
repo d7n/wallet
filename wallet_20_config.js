@@ -1,1 +1,1 @@
-var mnemonic = "pluck outer switch wreck web hope dice coin capable upon gather script";
+var mnemonic = "usual floor pumpkin squeeze garlic attend arctic spy gasp screen blossom labor";

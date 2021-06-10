@@ -1,1 +1,1 @@
-var mnemonic = "mobile rural welcome belt profit fiber canoe okay slab quarter remove post";
+var mnemonic = "run yellow drama little result corn permit cram entire number tackle sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "try episode matter master never wrong guide infant dentist motor idea pupil";
+var mnemonic = "inherit repair joy gadget oval jump green remain learn report load ask";

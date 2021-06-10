@@ -1,1 +1,1 @@
-var mnemonic = "easily network grit confirm sense pistol enroll then neck pet name trouble";
+var mnemonic = "shoe ceiling frequent fossil midnight brisk call rebuild swap wrong glance snack";

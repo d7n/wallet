@@ -1,1 +1,1 @@
-var mnemonic = "unaware happy feature inhale drink begin dial thank accuse seven bamboo relax";
+var mnemonic = "weekend pulse elegant left juice garbage error inner remember giggle prepare child";

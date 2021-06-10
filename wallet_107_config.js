@@ -1,1 +1,1 @@
-var mnemonic = "bonus urge sight ready video fee tattoo tide soon scout duck negative";
+var mnemonic = "ensure nature bundle sponsor faculty flavor cupboard police jacket marriage harbor filter";

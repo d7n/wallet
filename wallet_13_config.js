@@ -1,1 +1,1 @@
-var mnemonic = "balance bread merry vicious ice unable medal swamp mixture move notable maze";
+var mnemonic = "movie cook rocket reward pupil razor swap cycle auction roof output bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "color penalty this feel bomb february call dice bright security rival own";
+var mnemonic = "toilet dutch brick cabin live fork spoil vacant discover indoor surface age";

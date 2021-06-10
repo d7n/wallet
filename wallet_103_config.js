@@ -1,1 +1,1 @@
-var mnemonic = "pole steel pig sting family glove globe present flag banana zero mushroom";
+var mnemonic = "frown either fashion small curve pony snack vibrant leopard gas retreat damage";

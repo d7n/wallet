@@ -1,1 +1,1 @@
-var mnemonic = "hood pink usual grass major path worry photo goose escape tank leaf";
+var mnemonic = "pony double beef claim head vast alone degree party burden drill basic";

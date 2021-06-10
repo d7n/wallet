@@ -1,1 +1,1 @@
-var mnemonic = "satisfy error tone wink cloud flight donate sight imitate stomach moon ship";
+var mnemonic = "rebuild cabin crime snap stove frost solve opinion taxi legal news economy";

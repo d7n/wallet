@@ -1,1 +1,1 @@
-var mnemonic = "thrive piece roast upset keep famous please cat tortoise divert fence silly";
+var mnemonic = "vacuum school finger struggle cluster spy latin push suffer foam prefer gravity";

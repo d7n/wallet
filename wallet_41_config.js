@@ -1,1 +1,1 @@
-var mnemonic = "worry cluster emerge fox direct vessel tourist income verb tornado tunnel credit";
+var mnemonic = "motion recipe expect orient pledge foil master fruit summer define lemon ten";

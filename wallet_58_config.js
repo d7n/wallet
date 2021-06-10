@@ -1,1 +1,1 @@
-var mnemonic = "together venue differ early tackle skill explain december federal tower armor option";
+var mnemonic = "steak visit fantasy woman hybrid author net similar warrior impact tackle document";

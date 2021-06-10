@@ -1,1 +1,1 @@
-var mnemonic = "forum task milk aim crew amazing metal swap month drive evil lawn";
+var mnemonic = "deliver attract valley sand apology whale uncover gather primary quality fade deal";

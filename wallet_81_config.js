@@ -1,1 +1,1 @@
-var mnemonic = "risk stereo busy replace vintage marble issue increase tribe robust jar alpha";
+var mnemonic = "angry keep gas intact mandate health helmet maid oppose cotton test pride";

@@ -1,1 +1,1 @@
-var mnemonic = "wait evolve miss verb various receive resist song alert copy plunge crazy";
+var mnemonic = "produce stuff dream grace pumpkin coin rapid any seek slush phone sell";

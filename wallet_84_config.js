@@ -1,1 +1,1 @@
-var mnemonic = "wide enough blood mixed curve recall raise quantum round female trust worry";
+var mnemonic = "assist scrap another host enough sword base sail emotion inhale erode stairs";

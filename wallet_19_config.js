@@ -1,1 +1,1 @@
-var mnemonic = "electric wrong tilt elevator monkey dumb private eagle toy tired cash hunt";
+var mnemonic = "winner arrange monster vanish enable marine smooth unfair squeeze blur lawn elder";

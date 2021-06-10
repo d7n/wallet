@@ -1,1 +1,1 @@
-var mnemonic = "pet avocado keen siren lunar disagree robust crouch siren rough salon chunk";
+var mnemonic = "excuse goose roof ginger pair citizen sock dizzy wrap course crisp tooth";

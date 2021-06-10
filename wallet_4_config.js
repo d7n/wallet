@@ -1,1 +1,1 @@
-var mnemonic = "soup unhappy cake spot meadow room woman tissue artist rib begin merge";
+var mnemonic = "idle expose asset layer snow marble document final october october dial monkey";

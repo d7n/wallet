@@ -1,1 +1,1 @@
-var mnemonic = "mixture explain knee train alert this brief throw include boil chimney grape";
+var mnemonic = "duck solve wisdom offer marine endorse prison talk cruise oxygen head source";

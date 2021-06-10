@@ -1,1 +1,1 @@
-var mnemonic = "crawl reveal lunar else artwork blush scene logic nuclear behind fish wife";
+var mnemonic = "famous involve scout small air wave excess obscure lend split improve narrow";

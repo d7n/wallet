@@ -1,1 +1,1 @@
-var mnemonic = "mask source run sense express drop vapor help swap mountain club obtain";
+var mnemonic = "velvet knee outside rare violin mountain major staff mushroom used cinnamon fringe";

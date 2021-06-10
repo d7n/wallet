@@ -1,1 +1,1 @@
-var mnemonic = "harsh arrange two enemy dress negative mention oyster auto smoke remove attitude";
+var mnemonic = "kitten around convince brave leave text clock delay enough dish enlist leg";

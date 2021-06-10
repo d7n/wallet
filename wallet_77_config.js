@@ -1,1 +1,1 @@
-var mnemonic = "marble upgrade cute buyer original pelican away execute secret lend cattle enroll";
+var mnemonic = "fat organ discover shift noble feature raise satoshi guitar correct crack rather";

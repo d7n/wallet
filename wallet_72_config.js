@@ -1,1 +1,1 @@
-var mnemonic = "style wave first discover point quiz garden cake ginger swarm choose scheme";
+var mnemonic = "law satisfy crater raise junk rail offer hazard catalog trend crouch pool";

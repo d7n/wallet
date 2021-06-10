@@ -1,1 +1,1 @@
-var mnemonic = "teach excess install uniform similar circle table test tank close ladder pottery";
+var mnemonic = "element slow pause later slim shaft job urge brass dwarf blood fury";

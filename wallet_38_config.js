@@ -1,1 +1,1 @@
-var mnemonic = "blood vast myth water frog rain husband virtual fiber enter tackle foster";
+var mnemonic = "damp stay people chef vacant enhance pill spike assault ahead riot absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal dash master visual usage among shift thunder rely urge coin fix";
+var mnemonic = "crater industry caught salon bone hover small isolate worth fox diamond topple";

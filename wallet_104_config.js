@@ -1,1 +1,1 @@
-var mnemonic = "once picture have shuffle someone venue seminar opinion quantum supply machine neglect";
+var mnemonic = "session net own material guess deputy leisure eager acid choose power thank";

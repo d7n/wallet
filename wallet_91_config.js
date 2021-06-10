@@ -1,1 +1,1 @@
-var mnemonic = "cheap final dish exact idle shy smoke staff mistake devote quick novel";
+var mnemonic = "unit supply system aware staff victory birth true drop omit maze corn";

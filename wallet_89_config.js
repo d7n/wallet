@@ -1,1 +1,1 @@
-var mnemonic = "voyage electric patrol rubber custom sniff onion erosion method betray logic proof";
+var mnemonic = "emotion sunset close bright pattern bonus eye garlic coconut large sleep cost";

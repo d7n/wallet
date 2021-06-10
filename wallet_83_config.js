@@ -1,1 +1,1 @@
-var mnemonic = "fiber hungry plate rug tent armor absurd mouse behave dance able useless";
+var mnemonic = "judge rice cake shell speed harbor wonder globe rotate proud ready vapor";

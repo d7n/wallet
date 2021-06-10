@@ -1,1 +1,1 @@
-var mnemonic = "motor absent mom bomb dance grab horn either bleak swamp inner inmate";
+var mnemonic = "ceiling oppose retreat aim fly resist airport foil omit glow crack recall";

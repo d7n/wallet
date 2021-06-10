@@ -1,1 +1,1 @@
-var mnemonic = "atom minimum film curve coach extend tuition slim hand smoke fold rabbit";
+var mnemonic = "below grief return clog unit design bone merry bread orange salute person";

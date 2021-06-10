@@ -1,1 +1,1 @@
-var mnemonic = "able skate atom embody phrase tunnel bounce culture picnic notice grow slam";
+var mnemonic = "matrix chuckle bridge clutch lobster hub gown exclude usual satisfy adapt million";

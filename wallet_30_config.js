@@ -1,1 +1,1 @@
-var mnemonic = "potato like steel uncle picnic price surprise hair same auto palace brain";
+var mnemonic = "bench cover gold engine goat fade flight cloth buddy hobby achieve issue";

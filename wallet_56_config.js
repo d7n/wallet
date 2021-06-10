@@ -1,1 +1,1 @@
-var mnemonic = "beach regret file chef observe toss ocean crawl want body faculty scissors";
+var mnemonic = "scheme wrist flower actress staff debris nerve before kangaroo spread kitten maximum";

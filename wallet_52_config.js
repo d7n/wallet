@@ -1,1 +1,1 @@
-var mnemonic = "match pet error twenty spray afford there know enlist feature fix happy";
+var mnemonic = "random clip bitter patch save absent correct tattoo exclude leopard stairs lady";

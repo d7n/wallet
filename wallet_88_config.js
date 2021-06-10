@@ -1,1 +1,1 @@
-var mnemonic = "churn mass whale abuse eternal thank lady runway heavy panic inside margin";
+var mnemonic = "spatial project reject material rule latin heavy trade photo unlock circle couple";

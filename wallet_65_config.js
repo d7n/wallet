@@ -1,1 +1,1 @@
-var mnemonic = "dirt dinosaur obscure crumble extra when eager bar intact rebel wire monkey";
+var mnemonic = "onion mouse input soda upper bargain loop frog because student cloud pupil";

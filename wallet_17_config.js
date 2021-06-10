@@ -1,1 +1,1 @@
-var mnemonic = "during tip frequent silly ritual target shell buzz electric mad vapor nature";
+var mnemonic = "arrest elevator crack sauce entry fat joy always ginger slice pattern west";

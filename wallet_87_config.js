@@ -1,1 +1,1 @@
-var mnemonic = "green benefit humor suffer ketchup future adult snow range cement fork skin";
+var mnemonic = "hip note ride over middle bubble vendor coin area symbol bitter lounge";

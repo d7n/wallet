@@ -1,1 +1,1 @@
-var mnemonic = "guitar cube belt misery middle vital involve tree vast audit battle interest";
+var mnemonic = "degree lion bamboo one industry around viable debate become field proof left";

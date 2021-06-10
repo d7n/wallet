@@ -1,1 +1,1 @@
-var mnemonic = "roof table gallery spy unhappy ride motion jealous tobacco chicken board coast";
+var mnemonic = "dune dog kitchen manual spoon accident mammal apart syrup group faith smoke";

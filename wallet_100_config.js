@@ -1,1 +1,1 @@
-var mnemonic = "business garment decade mean sausage rapid inner master bus holiday scorpion giraffe";
+var mnemonic = "smart winner hidden edit rather female pizza symbol achieve salon universe elevator";
