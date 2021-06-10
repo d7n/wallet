@@ -1,1 +1,1 @@
-var mnemonic = "that hill erupt famous oak cliff steak permit gorilla copy faculty brave";
+var mnemonic = "record bachelor mad produce cake toast volume loop search replace multiply tenant";

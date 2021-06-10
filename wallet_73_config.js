@@ -1,1 +1,1 @@
-var mnemonic = "relief dash jump spawn inch essay true point valley drama nose patient";
+var mnemonic = "someone squeeze blossom bread grain purchase soda glass sheriff visit gloom quality";

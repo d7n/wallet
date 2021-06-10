@@ -1,1 +1,1 @@
-var mnemonic = "mutual clutch seed loan elevator swift inquiry thrive talent stock swift garlic";
+var mnemonic = "chuckle confirm wealth obey worth toilet budget ghost champion please culture thunder";

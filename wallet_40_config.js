@@ -1,1 +1,1 @@
-var mnemonic = "saddle ticket refuse marriage day item holiday bounce elite sunny steel jewel";
+var mnemonic = "rhythm daring argue piano example stereo find before board congress custom tumble";

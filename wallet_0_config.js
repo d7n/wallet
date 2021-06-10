@@ -1,1 +1,1 @@
-var mnemonic = "crystal culture muffin village art scissors cave initial nice cluster range almost";
+var mnemonic = "paper have doctor share axis kitchen curtain aunt they setup exile grape";

@@ -1,1 +1,1 @@
-var mnemonic = "airport clog jungle worth burden scrub front cereal match taste endless useless";
+var mnemonic = "peasant seminar coach adjust salute energy jeans empty sorry grass black mention";

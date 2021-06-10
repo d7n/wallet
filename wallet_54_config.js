@@ -1,1 +1,1 @@
-var mnemonic = "tissue scare surprise dance jeans submit egg tourist loan indicate private venture";
+var mnemonic = "price flat milk daughter vibrant strong sweet desk father mercy supply trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "view cereal control praise harvest saddle clinic renew trend danger also burden";
+var mnemonic = "mistake pipe relief kiwi sunny saddle supply also knee follow attitude seat";

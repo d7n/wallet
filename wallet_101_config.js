@@ -1,1 +1,1 @@
-var mnemonic = "dutch subject olive alert rebuild drama lock until soda carry auction input";
+var mnemonic = "rely cup marine key ordinary survey replace crumble snack base odor combine";

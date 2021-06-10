@@ -1,1 +1,1 @@
-var mnemonic = "piano satoshi dismiss idle erosion kiss orbit curious innocent exchange bounce essence";
+var mnemonic = "outdoor reveal heart alien vault gesture cabin calm border size task divide";

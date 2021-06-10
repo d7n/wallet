@@ -1,1 +1,1 @@
-var mnemonic = "busy oil reject carry attract rail spin scout gorilla buddy sort spin";
+var mnemonic = "memory found dutch crunch mind scrap pioneer warrior beyond crucial prevent involve";

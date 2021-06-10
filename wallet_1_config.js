@@ -1,1 +1,1 @@
-var mnemonic = "tooth waste smart feed citizen bacon pause magnet kit mammal holiday clean";
+var mnemonic = "cart method balance rubber clerk more brain castle angry boy genuine two";

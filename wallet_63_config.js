@@ -1,1 +1,1 @@
-var mnemonic = "art cruise alien such method web solid change minute decrease desert novel";
+var mnemonic = "little flat argue garbage pudding any husband forum visual write swift project";

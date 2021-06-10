@@ -1,1 +1,1 @@
-var mnemonic = "rocket creek crack impact open direct service web blood race move retreat";
+var mnemonic = "crash during stuff kiwi thing squirrel away gasp vital only gauge comic";

@@ -1,1 +1,1 @@
-var mnemonic = "smile clog retreat artist school model spare lion distance quiz addict cruise";
+var mnemonic = "chest able kit syrup afford fog two dish cabin spray vault dragon";

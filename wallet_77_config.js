@@ -1,1 +1,1 @@
-var mnemonic = "wire lottery badge raw people quit thought round food laundry valve report";
+var mnemonic = "cross replace cabbage media easily move bottom episode maximum anchor kangaroo dilemma";

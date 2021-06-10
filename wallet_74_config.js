@@ -1,1 +1,1 @@
-var mnemonic = "vast gasp summer search hobby spray gate earn lemon phrase lazy glance";
+var mnemonic = "camera sight captain kingdom hamster lecture caution absent sign below famous spare";

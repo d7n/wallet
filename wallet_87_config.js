@@ -1,1 +1,1 @@
-var mnemonic = "dry inspire pupil under gain speak model quote thank cupboard face area";
+var mnemonic = "resource medal custom teach cricket hint poet course noodle eternal stairs royal";

@@ -1,1 +1,1 @@
-var mnemonic = "drill beach slam sport between crash again reason expect cloth unknown bleak";
+var mnemonic = "benefit symptom about tube advance element submit utility crane basket hurry usage";

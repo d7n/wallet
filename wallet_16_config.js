@@ -1,1 +1,1 @@
-var mnemonic = "napkin ghost junior member imitate moral badge have goddess wheat breeze panther";
+var mnemonic = "sun inmate library door vehicle holiday zebra item fever favorite case garden";

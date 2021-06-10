@@ -1,1 +1,1 @@
-var mnemonic = "produce puppy tag try fiction pony account front recipe metal web coin";
+var mnemonic = "sister visual sunny brown state consider weasel bacon clutch nation aerobic robust";

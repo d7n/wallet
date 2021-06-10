@@ -1,1 +1,1 @@
-var mnemonic = "major utility flash punch alert found neutral truly runway pig spoon dog";
+var mnemonic = "scout entire attract easily diagram oxygen cabin device dial flee mistake side";

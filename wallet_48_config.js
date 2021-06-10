@@ -1,1 +1,1 @@
-var mnemonic = "certain trust spare crowd side where size tomato mad supply deliver fold";
+var mnemonic = "outer noise limit maze famous replace police island half tomato reject worth";

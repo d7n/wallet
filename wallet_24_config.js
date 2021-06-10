@@ -1,1 +1,1 @@
-var mnemonic = "sniff reward kingdom cattle between inside false smart chest maze giggle shine";
+var mnemonic = "silent type uncle burst chest flock display sudden junior before material bird";

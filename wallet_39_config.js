@@ -1,1 +1,1 @@
-var mnemonic = "youth top autumn clay weapon bright obey that when stove body coral";
+var mnemonic = "that pluck educate coil soccer tone opinion alcohol upper unfold amused diary";

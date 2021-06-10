@@ -1,1 +1,1 @@
-var mnemonic = "fan mask chest flush inch tiny lake shallow clinic acquire people knock";
+var mnemonic = "ugly assault sibling return brisk arrange struggle oval render claw random annual";

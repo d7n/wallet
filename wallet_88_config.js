@@ -1,1 +1,1 @@
-var mnemonic = "boy vibrant notice frequent sniff feed depend siege calm weasel frozen select";
+var mnemonic = "found cry soccer cotton thumb matter over race lemon post copy spring";

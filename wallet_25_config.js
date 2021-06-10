@@ -1,1 +1,1 @@
-var mnemonic = "below end glory key uncle dizzy genius brain matrix simple this ready";
+var mnemonic = "mask divorce weekend flower course ring expose property lake tilt memory jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "nation circle genuine pool behind few young orphan tortoise security illegal afraid";
+var mnemonic = "payment endless impulse service laptop airport gadget giant core leader poverty step";

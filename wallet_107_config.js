@@ -1,1 +1,1 @@
-var mnemonic = "main vanish sample trick verify amateur will gain start lawsuit ankle salmon";
+var mnemonic = "lazy divorce client core upper supreme cruise army woman dog little loyal";

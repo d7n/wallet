@@ -1,1 +1,1 @@
-var mnemonic = "globe depart civil nest grab rent leave follow mesh donate wrist thumb";
+var mnemonic = "chimney fog define smoke ranch strike level father man tip camp melt";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi erosion cabin exit list truly unlock sudden risk earn install random";
+var mnemonic = "simple witness flee axis success prepare amount asthma vessel physical lock addict";

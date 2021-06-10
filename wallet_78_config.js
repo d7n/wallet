@@ -1,1 +1,1 @@
-var mnemonic = "proud west home net shell wife pigeon when shrimp then exercise torch";
+var mnemonic = "chapter peace sun eternal slender click choice almost column flower head warrior";

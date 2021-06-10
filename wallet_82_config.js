@@ -1,1 +1,1 @@
-var mnemonic = "deer beef strong upgrade roof museum dress grid elite zone image head";
+var mnemonic = "claw flee crop multiply enroll find color seven twenty stove slide debris";

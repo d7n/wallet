@@ -1,1 +1,1 @@
-var mnemonic = "vanish hammer flock occur zebra keep envelope fun repair behind mansion robot";
+var mnemonic = "off clay special home hungry where approve polar spirit method clip then";

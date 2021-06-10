@@ -1,1 +1,1 @@
-var mnemonic = "cross turtle wrap monitor control fire wish usage meat arena honey target";
+var mnemonic = "inherit sing gaze identify daring minimum uncle autumn argue taste stable tank";

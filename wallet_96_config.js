@@ -1,1 +1,1 @@
-var mnemonic = "potato blind swarm secret bus recall consider squeeze spend spice cover body";
+var mnemonic = "hurt soon spy chase tornado arch wash buddy loan dismiss torch mean";

@@ -1,1 +1,1 @@
-var mnemonic = "render they cup april hat toddler floor artwork panda city hour wage";
+var mnemonic = "motor glad rather pet wise dynamic still uncover inch brick enforce enhance";

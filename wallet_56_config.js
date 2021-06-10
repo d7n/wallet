@@ -1,1 +1,1 @@
-var mnemonic = "skull lounge switch craft must candy pledge evil alarm moral mushroom shove";
+var mnemonic = "spice soda clutch priority critic giggle shell hero visual divorce slice supply";

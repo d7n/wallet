@@ -1,1 +1,1 @@
-var mnemonic = "veteran agree december test couch castle blood obscure address joke radio hammer";
+var mnemonic = "business knock hole sample permit puppy business orient carry inherit mobile hub";

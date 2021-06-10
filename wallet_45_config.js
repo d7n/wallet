@@ -1,1 +1,1 @@
-var mnemonic = "arrange shove exclude tip foil remember lady super lawsuit march subway brand";
+var mnemonic = "turkey hurry obtain puzzle core clean chair winner rich frame absorb broom";

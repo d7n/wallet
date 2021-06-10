@@ -1,1 +1,1 @@
-var mnemonic = "rebel dinosaur basket exhaust spawn list unfold abuse area photo maximum benefit";
+var mnemonic = "awesome rally pair dog nominee menu nose antique silver frozen area nut";

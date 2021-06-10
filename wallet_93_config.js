@@ -1,1 +1,1 @@
-var mnemonic = "away olympic camp matter mutual uniform evil leave spread kid coffee end";
+var mnemonic = "student hundred salmon spy weekend eight spatial armor include buddy dish spin";

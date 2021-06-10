@@ -1,1 +1,1 @@
-var mnemonic = "modify blossom bunker buzz horror pluck offer trouble salute basic trash obtain";
+var mnemonic = "daring empty travel route betray cherry donate play leg exist cereal split";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew genius margin large seek only burger throw matrix seek own legend";
+var mnemonic = "shed ostrich language amazing cover group mimic poverty level uphold cabbage silent";

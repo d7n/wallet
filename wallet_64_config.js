@@ -1,1 +1,1 @@
-var mnemonic = "buyer broom razor junk say exile calm attack accuse envelope twelve actor";
+var mnemonic = "excess capital cliff suffer debris kiss board rhythm two inherit earn during";

@@ -1,1 +1,1 @@
-var mnemonic = "milk comfort enroll black common price ball all option clinic cement entry";
+var mnemonic = "cute soda lemon abstract tiny opinion spoil enrich feel cigar cloth clutch";

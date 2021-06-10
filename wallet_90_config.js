@@ -1,1 +1,1 @@
-var mnemonic = "crash clay rude fantasy enact exercise toddler spoil erode come sense elevator";
+var mnemonic = "winter faith girl margin grass cute twist material saddle solution pizza autumn";

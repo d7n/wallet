@@ -1,1 +1,1 @@
-var mnemonic = "vehicle industry evolve setup wife cause debate girl quantum scrap brick rigid";
+var mnemonic = "antique jewel lawsuit symptom assume replace robust ugly gown blast much screen";

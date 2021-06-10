@@ -1,1 +1,1 @@
-var mnemonic = "cost resist web fire hundred echo praise two author surround sunny little";
+var mnemonic = "fade field begin problem crucial goat stereo left guitar heart gate snack";

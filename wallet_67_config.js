@@ -1,1 +1,1 @@
-var mnemonic = "food tattoo oyster dinner winner mesh jacket congress dune skull cancel orbit";
+var mnemonic = "window pudding more invite awesome often coast mosquito use health various night";

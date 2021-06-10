@@ -1,1 +1,1 @@
-var mnemonic = "nut report alarm short slogan silent bundle occur derive turtle derive car";
+var mnemonic = "detect approve tilt truck file ignore piece cause network planet replace open";

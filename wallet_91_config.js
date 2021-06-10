@@ -1,1 +1,1 @@
-var mnemonic = "nation quit horse pole typical push control toy stumble quality verb steak";
+var mnemonic = "monkey cactus state step voice rhythm human myth acid employ company talk";

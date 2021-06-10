@@ -1,1 +1,1 @@
-var mnemonic = "sock second organ orange push blast grow warm evoke purity cash prefer";
+var mnemonic = "lobster depth basket universe wave trip labor recycle mammal catalog silly surge";

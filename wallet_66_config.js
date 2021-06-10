@@ -1,1 +1,1 @@
-var mnemonic = "undo suit resemble company fault file shiver north layer sibling awful punch";
+var mnemonic = "dress mutual camp lift key easily cloud rabbit divert axis flash fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur pull pride stone toward west soon adapt account laundry agree credit";
+var mnemonic = "equal able resource victory marble proof also raw chief book check nuclear";

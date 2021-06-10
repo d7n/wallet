@@ -1,1 +1,1 @@
-var mnemonic = "cement lion smoke flame cricket often public riot stable bleak window ridge";
+var mnemonic = "recycle warrior dose flight corn before north basic lawsuit upon sketch project";

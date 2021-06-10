@@ -1,1 +1,1 @@
-var mnemonic = "into smoke music slice shop teach hurry spot broken success rhythm damp";
+var mnemonic = "shoe silent young student promote seed panda loan industry tenant pill garment";

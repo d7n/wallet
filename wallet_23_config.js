@@ -1,1 +1,1 @@
-var mnemonic = "brain clap poverty panel label pitch trip thunder uncle jacket friend hunt";
+var mnemonic = "initial bitter icon sail calm hard wrist joy inside cigar bid bean";

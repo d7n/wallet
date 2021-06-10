@@ -1,1 +1,1 @@
-var mnemonic = "memory parent electric patch dash sniff salute dignity net basket coffee siege";
+var mnemonic = "glory treat pill faculty cost rain raw memory month answer divert tank";

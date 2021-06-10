@@ -1,1 +1,1 @@
-var mnemonic = "favorite plastic cigar census genuine absurd cabin easily shop language guitar voice";
+var mnemonic = "twin kit project oppose used force crop bunker churn illegal people cereal";

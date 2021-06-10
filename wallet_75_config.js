@@ -1,1 +1,1 @@
-var mnemonic = "bamboo camera nice easily visual onion accuse gym say ribbon predict gloom";
+var mnemonic = "open detect have final talk very hollow again super arrow wedding appear";

@@ -1,1 +1,1 @@
-var mnemonic = "insane achieve ill honey chef steel try release curious cube thing meadow";
+var mnemonic = "behind race quality kiwi strategy change agree east innocent spend weather veteran";

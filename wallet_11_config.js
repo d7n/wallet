@@ -1,1 +1,1 @@
-var mnemonic = "rubber love narrow float empower notice feature bamboo bomb hockey peace garbage";
+var mnemonic = "melt legend device join ticket pledge general cage expire sunset suspect marine";

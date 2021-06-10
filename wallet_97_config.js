@@ -1,1 +1,1 @@
-var mnemonic = "ship obvious cement silent isolate large banner permit firm heart history peanut";
+var mnemonic = "weasel gloom model couch hip bomb upper predict bronze method spray brave";

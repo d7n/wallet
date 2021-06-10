@@ -1,1 +1,1 @@
-var mnemonic = "cool only cradle spoil spray cattle lonely try food hand problem cabin";
+var mnemonic = "finger liquid sun delay tree track remind enemy manual anxiety universe tribe";

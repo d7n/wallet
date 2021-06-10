@@ -1,1 +1,1 @@
-var mnemonic = "cheese liquid giggle sausage shield property loyal chalk history arrive valley ladder";
+var mnemonic = "notable fold canvas setup volume obvious reject someone fury dinosaur current snake";

@@ -1,1 +1,1 @@
-var mnemonic = "kit exotic salad envelope absent label oblige empty ramp govern bronze recall";
+var mnemonic = "firm page there proud cargo resist label camera topic sock document confirm";

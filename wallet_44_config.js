@@ -1,1 +1,1 @@
-var mnemonic = "either math search opinion mansion code process double direct trial baby submit";
+var mnemonic = "van merit cruise pool garbage mixture cage asset inhale drama symptom under";

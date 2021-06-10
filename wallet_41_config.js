@@ -1,1 +1,1 @@
-var mnemonic = "victory chimney develop slot learn claw accuse tennis razor dust charge smart";
+var mnemonic = "actress clown car creek polar fever omit cube apple goddess moral clever";

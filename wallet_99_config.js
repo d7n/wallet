@@ -1,1 +1,1 @@
-var mnemonic = "sniff yard start matter weather razor abstract venture helmet quality feature garbage";
+var mnemonic = "monkey photo surround seven escape talk either concert inquiry trip impulse illegal";

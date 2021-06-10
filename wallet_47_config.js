@@ -1,1 +1,1 @@
-var mnemonic = "hard dial resemble aware often carry cheese fabric coil excite gentle kitchen";
+var mnemonic = "dial picture hill ordinary enact distance doll wrestle remove dragon tonight middle";

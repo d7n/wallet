@@ -1,1 +1,1 @@
-var mnemonic = "glue coffee grain display frown butter scene since lawn blame blood blouse";
+var mnemonic = "step render cry note right stadium curve enjoy write final slow danger";

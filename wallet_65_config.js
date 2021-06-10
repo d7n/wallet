@@ -1,1 +1,1 @@
-var mnemonic = "afford curtain pear stone rubber zoo crowd muffin farm digital clap pill";
+var mnemonic = "improve pulse attend video quick hair arctic size begin mountain disease survey";

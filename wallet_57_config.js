@@ -1,1 +1,1 @@
-var mnemonic = "pretty hood outside slender joy ahead cart cup critic hour age pig";
+var mnemonic = "loud ahead coconut muffin model ginger message royal jaguar seminar bulb nephew";

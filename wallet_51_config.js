@@ -1,1 +1,1 @@
-var mnemonic = "erode shallow fringe task swing help story stage garden side glory arrest";
+var mnemonic = "feature sure segment snack hotel fever lemon reduce usual unusual assist depend";

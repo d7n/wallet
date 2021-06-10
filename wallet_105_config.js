@@ -1,1 +1,1 @@
-var mnemonic = "plate boy air rely ghost tail beyond cricket ribbon swarm segment solid";
+var mnemonic = "salt plate stadium couple degree wall wolf ostrich device final ignore this";

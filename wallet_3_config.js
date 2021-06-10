@@ -1,1 +1,1 @@
-var mnemonic = "endorse mom enjoy supply supreme type cradle uphold faint unit fatal tribe";
+var mnemonic = "moment dial romance movie emerge expire place jaguar among comic artwork cry";

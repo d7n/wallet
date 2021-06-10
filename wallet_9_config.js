@@ -1,1 +1,1 @@
-var mnemonic = "better robot spatial urban noodle escape young lounge add trade eight myth";
+var mnemonic = "shift echo base spatial talent business dash rival mirror salt sorry skate";

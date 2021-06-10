@@ -1,1 +1,1 @@
-var mnemonic = "teach zebra wild senior action vocal fine moment large real health embody";
+var mnemonic = "dune length elite network draw later feel suffer tragic thank glare bike";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty margin emotion stomach budget derive scatter notice junk noble helmet someone";
+var mnemonic = "belt thumb vehicle believe three curve inspire letter receive fault physical harvest";

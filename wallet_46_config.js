@@ -1,1 +1,1 @@
-var mnemonic = "silly dial ecology coach country actual typical act hockey sibling flush suit";
+var mnemonic = "select slender humble remove relief install benefit captain inner rocket gather umbrella";

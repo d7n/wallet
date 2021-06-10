@@ -1,1 +1,1 @@
-var mnemonic = "aerobic peace patient square exercise domain spirit total squeeze warm isolate interest";
+var mnemonic = "when poet citizen slot nest emotion gallery when face prosper jump flag";

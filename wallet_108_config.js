@@ -1,1 +1,1 @@
-var mnemonic = "essence battle exhibit cost develop actual charge like route welcome twin rabbit";
+var mnemonic = "burger transfer dove grain coil broken return whip slide between garment salt";

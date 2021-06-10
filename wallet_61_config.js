@@ -1,1 +1,1 @@
-var mnemonic = "wonder useless timber taxi diamond agent guilt expect civil fatigue ordinary van";
+var mnemonic = "chase impose jelly father bird vanish frequent ugly voice autumn suffer labor";

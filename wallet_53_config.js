@@ -1,1 +1,1 @@
-var mnemonic = "rather volume stand maple velvet crack ugly resource arena film giant crumble";
+var mnemonic = "veteran fog auction cave live shallow voice rocket summer mushroom fortune survey";

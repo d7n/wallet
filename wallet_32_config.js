@@ -1,1 +1,1 @@
-var mnemonic = "emerge allow fantasy there gloom flock arrow notable holiday section acoustic warfare";
+var mnemonic = "because speak cattle trouble vault lawsuit ranch outdoor problem lawsuit oppose lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "hello wear mistake cube quit seat spring select hockey mule lady ship";
+var mnemonic = "bench muscle rich drip symbol congress ethics pass couple above brain together";

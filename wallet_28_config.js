@@ -1,1 +1,1 @@
-var mnemonic = "stove project mind burden current scout drip wise fork mimic swim devote";
+var mnemonic = "wage access story addict obvious wife twelve strong float where hat physical";

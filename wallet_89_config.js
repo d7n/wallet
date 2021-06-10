@@ -1,1 +1,1 @@
-var mnemonic = "price often adjust again dilemma spawn rigid cook tube heavy smart busy";
+var mnemonic = "track embrace process bulk hard omit cover journey lion ski smooth win";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow gesture custom vault flock aware combine siege bundle pink also announce";
+var mnemonic = "install brush ecology myself miracle recycle key april alpha spoon carpet flower";

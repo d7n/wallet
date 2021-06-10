@@ -1,1 +1,1 @@
-var mnemonic = "garden bean interest orchard receive able drastic evil sudden miracle claw neck";
+var mnemonic = "grit raven assault fault street clip ritual when meadow staff tenant resource";

@@ -1,1 +1,1 @@
-var mnemonic = "cake dismiss width custom first pencil oblige example speed veteran shift spoon";
+var mnemonic = "poet feel throw episode often round ankle grape still mutual secret brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "radio route response dream alert loyal raccoon silver ginger twenty vast govern";
+var mnemonic = "swamp prevent alter blade ordinary gap carbon type convince pyramid obvious stock";
