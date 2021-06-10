@@ -1,1 +1,1 @@
-var mnemonic = "opera woman setup track weapon test into hunt vivid ankle rich race";
+var mnemonic = "word state section scout dragon brisk grocery search entire double place across";

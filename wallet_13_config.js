@@ -1,1 +1,1 @@
-var mnemonic = "force position quiz cousin elder force want guard jaguar industry base airport";
+var mnemonic = "winner enable reflect join foot owner cram dial hat hello ritual mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "pen kite clog turn indoor unhappy blouse story police quiz elite antenna";
+var mnemonic = "situate helmet trip still still cotton win void pink coast prize cigar";

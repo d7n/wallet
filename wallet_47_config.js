@@ -1,1 +1,1 @@
-var mnemonic = "bamboo column almost opera regular vocal clump move claw omit profit buzz";
+var mnemonic = "canyon exhaust quantum kiwi burden light peace throw rival false coin filter";

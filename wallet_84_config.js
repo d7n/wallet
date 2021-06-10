@@ -1,1 +1,1 @@
-var mnemonic = "juice next history dose exotic people small hurdle elder certain ecology sea";
+var mnemonic = "exact tomato swamp spy suspect gasp spring input slice rent wrestle word";

@@ -1,1 +1,1 @@
-var mnemonic = "key mechanic sudden birth veteran hope large report art debate runway unique";
+var mnemonic = "voice sure adapt setup guitar calm cement abuse clap into nothing honey";

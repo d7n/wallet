@@ -1,1 +1,1 @@
-var mnemonic = "move carry excess deputy mistake direct success speak limb picnic ready during";
+var mnemonic = "nation pizza fox ranch lobster surface depart gravity member senior bless chat";

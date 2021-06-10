@@ -1,1 +1,1 @@
-var mnemonic = "hand cash fatal minute casino exit sign champion better type stuff model";
+var mnemonic = "lawn spare know jeans van despair duck surge still start village jelly";

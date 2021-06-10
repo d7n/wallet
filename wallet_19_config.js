@@ -1,1 +1,1 @@
-var mnemonic = "hood tragic virtual lemon boat course manual bread punch tone pattern acoustic";
+var mnemonic = "august green episode cancel idea season grief evolve frost decrease alert pluck";

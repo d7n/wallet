@@ -1,1 +1,1 @@
-var mnemonic = "suffer monster sample road lizard candy turkey water guitar cement forget summer";
+var mnemonic = "roof grass bind mind wish race chest boost old text point rough";

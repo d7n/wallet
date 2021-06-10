@@ -1,1 +1,1 @@
-var mnemonic = "champion end catalog world pipe lava oak setup energy artefact jar endorse";
+var mnemonic = "table rate error guide save fire wife assist increase energy box life";

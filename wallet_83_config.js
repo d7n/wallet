@@ -1,1 +1,1 @@
-var mnemonic = "work into bicycle nasty great motion obscure wet airport horror neutral replace";
+var mnemonic = "economy legal toy check olympic finger poverty razor drama party dice sponsor";

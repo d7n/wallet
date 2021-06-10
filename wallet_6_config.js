@@ -1,1 +1,1 @@
-var mnemonic = "debate home plug rabbit nephew cluster outdoor test indicate visa neglect snake";
+var mnemonic = "machine hungry kitten print travel prison wrist news fabric diesel evolve copy";

@@ -1,1 +1,1 @@
-var mnemonic = "firm under mouse invite person exchange depend orient behind wire solar beyond";
+var mnemonic = "exact carbon minute fragile tooth nominee shrug bring toy fever bunker churn";

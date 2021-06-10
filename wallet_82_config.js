@@ -1,1 +1,1 @@
-var mnemonic = "basket proud dress clap galaxy keep suggest winter orient hammer success dad";
+var mnemonic = "belt valve stove aerobic glove bacon excite find bomb citizen disorder reject";

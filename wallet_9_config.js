@@ -1,1 +1,1 @@
-var mnemonic = "spring movie index paper fortune engine option fragile balcony census melody eager";
+var mnemonic = "design kite catch veteran rare jazz bench shed stone toe immune magic";

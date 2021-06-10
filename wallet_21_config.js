@@ -1,1 +1,1 @@
-var mnemonic = "also attack section tail vacant stem kiwi marble age okay drink ocean";
+var mnemonic = "say wasp music airport slight pigeon session add invest man child liquid";

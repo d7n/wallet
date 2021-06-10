@@ -1,1 +1,1 @@
-var mnemonic = "trap kangaroo young movie hire senior under prize pizza clarify occur outdoor";
+var mnemonic = "torch peace deer artefact invest affair receive fiscal artefact green will water";

@@ -1,1 +1,1 @@
-var mnemonic = "cement butter mass track boost panda merit response hurry message search skin";
+var mnemonic = "episode use account charge hair turtle clip frequent disease love coil jacket";

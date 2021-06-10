@@ -1,1 +1,1 @@
-var mnemonic = "phrase cargo private total elephant chronic ability stone stem vote employ alpha";
+var mnemonic = "focus luggage nuclear thrive edit zone idle mask satisfy soon coil country";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle slam useless domain day immense increase sign purchase trouble economy public";
+var mnemonic = "action thrive dog genre heavy cause elbow crime change harbor fix hint";

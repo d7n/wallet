@@ -1,1 +1,1 @@
-var mnemonic = "ancient blur pony praise around soccer syrup solution jazz erode tail round";
+var mnemonic = "people tip genre damp first retire hurt chase category frame session strong";

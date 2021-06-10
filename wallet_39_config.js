@@ -1,1 +1,1 @@
-var mnemonic = "kid seek arrest unit outdoor add kick become stock sustain axis gain";
+var mnemonic = "beyond catalog roof square believe dash twin hero rebuild rug square moon";

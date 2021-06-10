@@ -1,1 +1,1 @@
-var mnemonic = "lunar visa ill exit taste series turtle vault draft shrimp tip come";
+var mnemonic = "music burst rocket slide nice hint angle outer accident catch sustain feed";

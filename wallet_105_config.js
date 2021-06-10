@@ -1,1 +1,1 @@
-var mnemonic = "peace reveal genre normal soul later stage glory omit sound mom predict";
+var mnemonic = "subway tent govern eternal obtain primary patrol awful script bread buddy taxi";

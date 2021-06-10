@@ -1,1 +1,1 @@
-var mnemonic = "welcome reform arrange law occur win park opera warrior hood clay kitchen";
+var mnemonic = "outdoor mouse load roast tennis engine match poverty people drink wisdom glare";

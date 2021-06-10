@@ -1,1 +1,1 @@
-var mnemonic = "palace save cage april holiday laugh praise nation lyrics patient feel beyond";
+var mnemonic = "matrix inner spell beach invest winter stay glare cruise comic phone category";

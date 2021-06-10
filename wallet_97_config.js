@@ -1,1 +1,1 @@
-var mnemonic = "discover wisdom explain letter evil uniform pioneer unknown reject canyon foil raise";
+var mnemonic = "issue account business enact replace settle wrap absurd bird tell game sad";

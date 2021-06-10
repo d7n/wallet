@@ -1,1 +1,1 @@
-var mnemonic = "agree have scatter because clever evil truck crystal box weather honey pet";
+var mnemonic = "energy load claw cool unlock ribbon canyon parade celery next very hero";

@@ -1,1 +1,1 @@
-var mnemonic = "hat fatigue forest lucky cave copy jump cactus adapt wheel stage right";
+var mnemonic = "stable junior survey mention excuse wife strategy maple team clock dove garbage";

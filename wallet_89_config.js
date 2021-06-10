@@ -1,1 +1,1 @@
-var mnemonic = "now buffalo fame man clerk apple motor pond voice reward loud blood";
+var mnemonic = "bounce ready sun amazing patch rally tackle setup word maple track charge";

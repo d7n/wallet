@@ -1,1 +1,1 @@
-var mnemonic = "bulb grocery tank tool reflect system toe current hen jelly agree verb";
+var mnemonic = "awake accuse pledge dizzy rebuild close car absent evidence crash almost delay";

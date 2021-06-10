@@ -1,1 +1,1 @@
-var mnemonic = "truly waste cradle scheme bomb belt cousin proof enroll ketchup expire abstract";
+var mnemonic = "lunar tray abuse panic donkey sign whip garlic word alpha second orient";

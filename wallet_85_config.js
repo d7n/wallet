@@ -1,1 +1,1 @@
-var mnemonic = "ten hundred arrest because high measure near float capable note mouse beef";
+var mnemonic = "goose silent pair polar mail raise major cheap twice window bomb magnet";

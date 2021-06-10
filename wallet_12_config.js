@@ -1,1 +1,1 @@
-var mnemonic = "produce disorder lottery helmet dragon audit warm happy pony ecology chef mind";
+var mnemonic = "attack town resemble visual they service false child tunnel achieve chief erosion";

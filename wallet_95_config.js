@@ -1,1 +1,1 @@
-var mnemonic = "print brave fence soul swift fog ensure fine evolve assume track toe";
+var mnemonic = "boss group select unknown strong climb track vivid judge radar hint end";

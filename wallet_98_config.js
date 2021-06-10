@@ -1,1 +1,1 @@
-var mnemonic = "labor rocket merry coffee trash slush capital heavy lazy cream ring brother";
+var mnemonic = "tunnel oxygen help dizzy expand vendor master select nephew draft skirt embrace";

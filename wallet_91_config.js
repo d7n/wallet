@@ -1,1 +1,1 @@
-var mnemonic = "absorb ice estate file there oak vote favorite clever album loop column";
+var mnemonic = "shaft phrase dragon comfort inform setup inform crucial brave shy long peasant";

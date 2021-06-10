@@ -1,1 +1,1 @@
-var mnemonic = "invite piano sign toe clerk book long elevator quit shine dad public";
+var mnemonic = "merge drip tenant tape sauce cover hill play voice picture okay spray";

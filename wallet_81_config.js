@@ -1,1 +1,1 @@
-var mnemonic = "faith fence trigger festival pulse trick neglect used unlock combine place entire";
+var mnemonic = "hunt host resemble flock delay fee grief ready nation mercy goose truly";

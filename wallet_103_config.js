@@ -1,1 +1,1 @@
-var mnemonic = "improve tiger faint add gun dwarf juice anger neglect fox dust want";
+var mnemonic = "spoon nice spray ship garage stock tube plunge slender force dune slogan";

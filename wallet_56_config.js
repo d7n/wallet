@@ -1,1 +1,1 @@
-var mnemonic = "craft broom rice wrist shop van document case special garment impact farm";
+var mnemonic = "question remain dream hamster time swift jaguar recall south salon clever identify";

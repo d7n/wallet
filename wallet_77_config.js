@@ -1,1 +1,1 @@
-var mnemonic = "seed fiction enrich chunk absent small tonight maple snake myself blame lottery";
+var mnemonic = "foster fee proud camera welcome wall orphan use bunker ritual fatigue mind";

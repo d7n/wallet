@@ -1,1 +1,1 @@
-var mnemonic = "pizza mirror carry sister pair stuff narrow notable unit glow logic crash";
+var mnemonic = "enrich trade grunt draw wet spawn resemble father pretty year fluid credit";

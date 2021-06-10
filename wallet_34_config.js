@@ -1,1 +1,1 @@
-var mnemonic = "story flight grass chef mail ivory pioneer food expose play flock place";
+var mnemonic = "page logic leg time skull hurry track emotion melody wing fashion can";

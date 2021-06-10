@@ -1,1 +1,1 @@
-var mnemonic = "ancient quote ten layer total belt armed before vote industry fabric keen";
+var mnemonic = "oven gossip other bounce enforce scare reject local oppose exotic brain elite";

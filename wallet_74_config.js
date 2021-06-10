@@ -1,1 +1,1 @@
-var mnemonic = "woman fruit consider peasant menu better hawk jump hip aim buffalo across";
+var mnemonic = "zoo piece vacant cook feature drill panther strong guitar burden this refuse";

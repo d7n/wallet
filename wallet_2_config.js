@@ -1,1 +1,1 @@
-var mnemonic = "derive black legal oval monkey barely toddler error purity crane canal fantasy";
+var mnemonic = "purchase cousin join pact safe card manual country debate core coil prosper";

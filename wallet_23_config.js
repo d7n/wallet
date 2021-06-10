@@ -1,1 +1,1 @@
-var mnemonic = "inch rule expire horror toddler amount art item tag scrub rib deal";
+var mnemonic = "drama flat wonder worry devote base reveal liberty border ill beauty title";

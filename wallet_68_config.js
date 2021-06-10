@@ -1,1 +1,1 @@
-var mnemonic = "rotate fringe price lunch company inhale guilt fringe start reward flash easily";
+var mnemonic = "manual awesome harsh room drift smart accident inhale camera truck cycle cabin";

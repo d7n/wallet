@@ -1,1 +1,1 @@
-var mnemonic = "claim father sing swamp loyal bullet olive welcome rescue swamp define turkey";
+var mnemonic = "armor prize tribe casual review celery margin crucial mimic subway raven mean";

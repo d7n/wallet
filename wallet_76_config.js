@@ -1,1 +1,1 @@
-var mnemonic = "also way foil either clean badge garbage often journey mixed calm base";
+var mnemonic = "tone peace spot ridge flower lesson ginger spoil maximum pudding shoot crucial";

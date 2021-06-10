@@ -1,1 +1,1 @@
-var mnemonic = "allow blade buyer crumble poverty phrase leave vote degree vocal assault fury";
+var mnemonic = "budget eye reason crush tattoo stick state print much bring hood floor";

@@ -1,1 +1,1 @@
-var mnemonic = "magic ten trash alcohol bus magnet oven galaxy expand risk grow holiday";
+var mnemonic = "become popular grid appear ice cricket rib ankle ticket orbit divide bread";

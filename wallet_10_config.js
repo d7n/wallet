@@ -1,1 +1,1 @@
-var mnemonic = "virus position describe tiny estate belt debate maid fat merge dream echo";
+var mnemonic = "bread lizard autumn believe script atom boss ten roof culture again source";

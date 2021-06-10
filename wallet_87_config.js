@@ -1,1 +1,1 @@
-var mnemonic = "guilt east tuna remove fog market cave famous spend employ advice monkey";
+var mnemonic = "horror famous sentence spice family lake raven broken shift excess once pig";

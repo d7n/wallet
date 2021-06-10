@@ -1,1 +1,1 @@
-var mnemonic = "hold income sadness grass diary trick believe invite spray explain parent bundle";
+var mnemonic = "firm lyrics elder swear smart fine pen baby first uphold pen cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey hand era manual treat humble enact spread upper woman current basic";
+var mnemonic = "creek twist caution pond cook fiscal crowd garage aim claw text same";

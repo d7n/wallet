@@ -1,1 +1,1 @@
-var mnemonic = "youth verb quiz retreat now rare ladder mix paper enforce angle flavor";
+var mnemonic = "device issue fold monster relief enough silly train size animal galaxy bonus";

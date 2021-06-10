@@ -1,1 +1,1 @@
-var mnemonic = "unfold slight firm route stuff vacant amused kitchen ancient mule impact pony";
+var mnemonic = "mistake uncover atom when budget world suggest annual tail benefit coconut chair";

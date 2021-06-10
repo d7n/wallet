@@ -1,1 +1,1 @@
-var mnemonic = "flower know balcony gun volume legend ripple gas decorate private regular tornado";
+var mnemonic = "gallery cry width ticket river start eternal merry approve invite industry fog";

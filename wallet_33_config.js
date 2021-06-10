@@ -1,1 +1,1 @@
-var mnemonic = "happy need infant guitar step sniff arrow life motor assist grab bird";
+var mnemonic = "toast lounge process element enlist inject obey friend remember harbor alter eternal";

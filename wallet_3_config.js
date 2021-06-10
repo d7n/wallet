@@ -1,1 +1,1 @@
-var mnemonic = "valid arctic file perfect enter people stone trend shed axis funny miss";
+var mnemonic = "become proof surprise autumn stuff vicious lunch glory timber embark boring spread";

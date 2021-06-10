@@ -1,1 +1,1 @@
-var mnemonic = "blind owner quality dwarf member accuse very nominee alley type casino thank";
+var mnemonic = "online cable fat depend liberty economy federal ship narrow parade juice park";

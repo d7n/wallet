@@ -1,1 +1,1 @@
-var mnemonic = "pen message shadow catch together winter coffee perfect gift between parent click";
+var mnemonic = "term negative envelope wrap nice job lunar stable mad below vacant pelican";

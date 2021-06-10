@@ -1,1 +1,1 @@
-var mnemonic = "exclude satoshi climb invite bicycle ecology toe emerge senior hammer fence supply";
+var mnemonic = "gather initial deer sauce loud maximum prevent found caught regret journey series";

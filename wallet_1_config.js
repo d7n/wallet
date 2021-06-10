@@ -1,1 +1,1 @@
-var mnemonic = "file unfair pepper replace analyst aerobic differ athlete smile echo draft awake";
+var mnemonic = "muscle extend robot canvas income curious involve owner wrap creek laugh journey";

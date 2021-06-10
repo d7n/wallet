@@ -1,1 +1,1 @@
-var mnemonic = "lens another lawn flavor survey harbor avoid play process poet regular vanish";
+var mnemonic = "auto more diesel business people gas cluster dust dolphin patch hand rookie";

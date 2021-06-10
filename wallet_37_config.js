@@ -1,1 +1,1 @@
-var mnemonic = "spoon industry stem model cook quarter switch improve add delay way farm";
+var mnemonic = "ability portion lift wheat afraid uniform basic drastic margin head dove orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke hungry cry fun sibling disease annual evidence collect trust spend host";
+var mnemonic = "stock mad measure pretty prevent ecology keep autumn afford ivory express brick";

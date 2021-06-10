@@ -1,1 +1,1 @@
-var mnemonic = "insane afraid vendor roof bring reduce stage tattoo orange wrist pudding crisp";
+var mnemonic = "camera lock absent upon denial left bomb time cactus grab cave blood";

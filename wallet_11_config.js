@@ -1,1 +1,1 @@
-var mnemonic = "peace ridge better lunar best future pilot tired amazing monster abstract witness";
+var mnemonic = "situate egg name bridge arch glimpse economy almost biology spatial cliff tray";

@@ -1,1 +1,1 @@
-var mnemonic = "federal north swap monitor vibrant around quick digital tape lyrics vibrant hurry";
+var mnemonic = "keen force weather captain bacon basket option scrub panther write decline aspect";

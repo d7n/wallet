@@ -1,1 +1,1 @@
-var mnemonic = "attend egg settle horn close teach clarify place release sick west struggle";
+var mnemonic = "merge arrange mouse jar absent assist cause action blossom journey glue water";

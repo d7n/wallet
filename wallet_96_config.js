@@ -1,1 +1,1 @@
-var mnemonic = "clap aware van slogan utility zebra brass core poem album clock skirt";
+var mnemonic = "diesel decrease jazz sunset goose depth motion proof daughter lonely glimpse scale";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat middle morning aspect soul chapter century provide scatter across trophy topic";
+var mnemonic = "vapor rescue melody accident license maze wolf length room exist arena correct";

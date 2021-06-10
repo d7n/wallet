@@ -1,1 +1,1 @@
-var mnemonic = "come damage cable faint arrest aunt oven minor cannon face voice north";
+var mnemonic = "become trend sting echo nominee forum cabin orchard debate twist coconut carbon";

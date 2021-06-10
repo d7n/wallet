@@ -1,1 +1,1 @@
-var mnemonic = "spirit awake royal dice predict knock pet asset warm estate primary couple";
+var mnemonic = "witness plug manage attend vast match naive area avoid live move move";

@@ -1,1 +1,1 @@
-var mnemonic = "disagree quick glow blur forest noise sheriff erase before consider used arrive";
+var mnemonic = "orphan waste attract crane april next link fog gather supreme harsh minute";

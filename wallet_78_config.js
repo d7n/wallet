@@ -1,1 +1,1 @@
-var mnemonic = "nature crop blind exercise zoo woman poverty dynamic object glare topic universe";
+var mnemonic = "gravity two doll purchase orient divorce focus enrich main pond immune uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "spell turkey ghost lemon people bird income thank spray admit reduce inject";
+var mnemonic = "buffalo when charge rare excess nothing flush weasel spare flush deny oval";

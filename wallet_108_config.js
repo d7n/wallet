@@ -1,1 +1,1 @@
-var mnemonic = "foam remind bottom kiwi boring kid nose punch captain junk wing spare";
+var mnemonic = "ketchup jewel rocket gentle lawn clip carbon dust refuse cabbage firm dial";

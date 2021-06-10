@@ -1,1 +1,1 @@
-var mnemonic = "finger glove quit crush weapon shy flock reduce banana pull rural stereo";
+var mnemonic = "force maximum language cloth oblige elephant bulk grief glide inquiry employ huge";

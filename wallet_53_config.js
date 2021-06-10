@@ -1,1 +1,1 @@
-var mnemonic = "release gravity entry sort claim mean toast bench reject guess orbit blind";
+var mnemonic = "ceiling scrub security define fan bitter company broken owner name evoke afraid";

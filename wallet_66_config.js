@@ -1,1 +1,1 @@
-var mnemonic = "quit couch motion situate idea head amateur into girl earth slight empty";
+var mnemonic = "border crater glow glue slide shadow bench faculty strike clip summer advice";

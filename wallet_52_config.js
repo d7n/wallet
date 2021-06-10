@@ -1,1 +1,1 @@
-var mnemonic = "famous wedding cactus hockey mercy option combine place chuckle domain unusual permit";
+var mnemonic = "oxygen ship street magic mosquito ice animal mistake youth present pact asset";

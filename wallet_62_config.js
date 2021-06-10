@@ -1,1 +1,1 @@
-var mnemonic = "damp depart circle inform ask awesome attract thought else rotate explain argue";
+var mnemonic = "record exact water riot usage grace exhaust army tackle priority strategy warfare";
