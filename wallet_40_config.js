@@ -1,1 +1,1 @@
-var mnemonic = "firm lyrics elder swear smart fine pen baby first uphold pen cupboard";
+var mnemonic = "foster debris spoon lucky expire bid owner spread poverty sick afraid seven";

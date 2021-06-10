@@ -1,1 +1,1 @@
-var mnemonic = "auto more diesel business people gas cluster dust dolphin patch hand rookie";
+var mnemonic = "attract bid limb skull note invest fantasy depart cotton again wrong wasp";

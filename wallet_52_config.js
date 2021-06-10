@@ -1,1 +1,1 @@
-var mnemonic = "oxygen ship street magic mosquito ice animal mistake youth present pact asset";
+var mnemonic = "drop mushroom battle beyond loan term violin infant guess exhibit bicycle wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "foster fee proud camera welcome wall orphan use bunker ritual fatigue mind";
+var mnemonic = "tail flag roof sustain leaf artwork caution gaze hobby patrol turkey supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "armor prize tribe casual review celery margin crucial mimic subway raven mean";
+var mnemonic = "nose obscure dove middle poem expire track antenna emerge crater hundred jar";

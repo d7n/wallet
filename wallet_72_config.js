@@ -1,1 +1,1 @@
-var mnemonic = "gather initial deer sauce loud maximum prevent found caught regret journey series";
+var mnemonic = "boss inch square pole entire lounge agent shaft asthma winter repair error";

@@ -1,1 +1,1 @@
-var mnemonic = "solve cube easy whisper unique bus shock bullet quit shoot waste style";
+var mnemonic = "trash cement owner wrist atom deer educate indicate panther supreme abstract genuine";

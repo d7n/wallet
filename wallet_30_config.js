@@ -1,1 +1,1 @@
-var mnemonic = "grape hedgehog adapt host there raise pact wide provide cram charge outer";
+var mnemonic = "design spare inject surface genius clean amount car river tragic become rail";

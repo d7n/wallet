@@ -1,1 +1,1 @@
-var mnemonic = "nation pizza fox ranch lobster surface depart gravity member senior bless chat";
+var mnemonic = "truth save close syrup other level trash journey shop exist obscure soldier";

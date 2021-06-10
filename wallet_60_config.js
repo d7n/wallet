@@ -1,1 +1,1 @@
-var mnemonic = "attitude soap usage any bless learn gravity earth paper shrimp diary neck";
+var mnemonic = "vanish rescue lawn tunnel theory toy combine humor disagree repair tiny half";

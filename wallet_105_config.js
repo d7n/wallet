@@ -1,1 +1,1 @@
-var mnemonic = "subway tent govern eternal obtain primary patrol awful script bread buddy taxi";
+var mnemonic = "warrior fix step carry enforce ribbon help wealth valley believe private people";

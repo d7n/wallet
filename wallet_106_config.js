@@ -1,1 +1,1 @@
-var mnemonic = "detail fade ripple peace glare noble climb candy brand slow million people";
+var mnemonic = "essay gym bacon number dutch diagram rare update year flag frown struggle";

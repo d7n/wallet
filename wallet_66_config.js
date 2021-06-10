@@ -1,1 +1,1 @@
-var mnemonic = "border crater glow glue slide shadow bench faculty strike clip summer advice";
+var mnemonic = "talent sudden lab kit garment include guilt they wife gravity green promote";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup jewel rocket gentle lawn clip carbon dust refuse cabbage firm dial";
+var mnemonic = "unknown bid slender mimic brain glow addict sure absorb skate spend canal";

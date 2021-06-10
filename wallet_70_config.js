@@ -1,1 +1,1 @@
-var mnemonic = "voice sure adapt setup guitar calm cement abuse clap into nothing honey";
+var mnemonic = "various elder squirrel promote curious buyer regular help wood clay multiply thought";

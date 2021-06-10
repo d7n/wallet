@@ -1,1 +1,1 @@
-var mnemonic = "exact carbon minute fragile tooth nominee shrug bring toy fever bunker churn";
+var mnemonic = "news gallery fruit retire fetch sight gold dignity hill recall pulp blind";

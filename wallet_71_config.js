@@ -1,1 +1,1 @@
-var mnemonic = "merge arrange mouse jar absent assist cause action blossom journey glue water";
+var mnemonic = "spirit shoe jelly tank tape noodle olive marriage gravity cupboard lemon piece";

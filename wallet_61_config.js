@@ -1,1 +1,1 @@
-var mnemonic = "roof grass bind mind wish race chest boost old text point rough";
+var mnemonic = "ride media stem diet vital panther great series pottery frequent pave power";

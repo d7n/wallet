@@ -1,1 +1,1 @@
-var mnemonic = "orphan waste attract crane april next link fog gather supreme harsh minute";
+var mnemonic = "key kind choice basic alpha raw chapter tooth design post admit coach";

@@ -1,1 +1,1 @@
-var mnemonic = "page logic leg time skull hurry track emotion melody wing fashion can";
+var mnemonic = "idea spring donkey brother ethics silk change candy away very couple broccoli";

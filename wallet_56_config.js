@@ -1,1 +1,1 @@
-var mnemonic = "question remain dream hamster time swift jaguar recall south salon clever identify";
+var mnemonic = "casual option cook uniform crowd rent dose crew dust riot click cave";

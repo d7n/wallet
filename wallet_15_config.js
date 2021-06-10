@@ -1,1 +1,1 @@
-var mnemonic = "oven gossip other bounce enforce scare reject local oppose exotic brain elite";
+var mnemonic = "sell luxury sound basic cross object west various later summer fish steak";

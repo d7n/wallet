@@ -1,1 +1,1 @@
-var mnemonic = "jelly frown stuff fat wheel tank ready train recall scrub lucky club";
+var mnemonic = "diesel benefit sock long disagree left voyage project want guard scan assume";

@@ -1,1 +1,1 @@
-var mnemonic = "high armed electric sort select strong exclude wolf theory impact giraffe virus";
+var mnemonic = "apology prosper pink chef actor wool walnut tribe timber melody design direct";

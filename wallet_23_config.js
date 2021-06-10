@@ -1,1 +1,1 @@
-var mnemonic = "drama flat wonder worry devote base reveal liberty border ill beauty title";
+var mnemonic = "dutch delay entire fit core owner half rib section cloud enroll theme";

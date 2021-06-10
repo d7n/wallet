@@ -1,1 +1,1 @@
-var mnemonic = "bounce ready sun amazing patch rally tackle setup word maple track charge";
+var mnemonic = "seed win hungry oppose analyst comic borrow dream firm view ahead ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "belt valve stove aerobic glove bacon excite find bomb citizen disorder reject";
+var mnemonic = "siren timber other weather wise peasant dash dolphin chapter crucial scorpion basic";

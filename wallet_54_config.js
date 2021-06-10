@@ -1,1 +1,1 @@
-var mnemonic = "vapor rescue melody accident license maze wolf length room exist arena correct";
+var mnemonic = "exhaust gain reason athlete similar waste office require midnight grocery else gather";

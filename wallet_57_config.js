@@ -1,1 +1,1 @@
-var mnemonic = "episode use account charge hair turtle clip frequent disease love coil jacket";
+var mnemonic = "clip topic glove smoke wrestle aware come actress rural mountain industry autumn";

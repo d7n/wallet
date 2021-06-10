@@ -1,1 +1,1 @@
-var mnemonic = "device issue fold monster relief enough silly train size animal galaxy bonus";
+var mnemonic = "pen aisle window focus beyond base defy recycle edge awesome juice fix";

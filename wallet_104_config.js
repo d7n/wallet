@@ -1,1 +1,1 @@
-var mnemonic = "creek twist caution pond cook fiscal crowd garage aim claw text same";
+var mnemonic = "game damp video next this grid rely push fame swim exact adjust";

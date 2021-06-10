@@ -1,1 +1,1 @@
-var mnemonic = "lunar tray abuse panic donkey sign whip garlic word alpha second orient";
+var mnemonic = "title across parade must neither arch replace rebuild fresh crawl uncover since";

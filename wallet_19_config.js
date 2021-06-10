@@ -1,1 +1,1 @@
-var mnemonic = "august green episode cancel idea season grief evolve frost decrease alert pluck";
+var mnemonic = "again then leopard trust spoon merit hunt song hand property diary team";

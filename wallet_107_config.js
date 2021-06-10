@@ -1,1 +1,1 @@
-var mnemonic = "mammal orchard age innocent orphan camera table anger crew return crime case";
+var mnemonic = "inquiry hockey plastic bargain baby during leisure grass sand modify access foil";

@@ -1,1 +1,1 @@
-var mnemonic = "merge drip tenant tape sauce cover hill play voice picture okay spray";
+var mnemonic = "bridge call future evolve more obscure kind under love often episode enhance";

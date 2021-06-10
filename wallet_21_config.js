@@ -1,1 +1,1 @@
-var mnemonic = "say wasp music airport slight pigeon session add invest man child liquid";
+var mnemonic = "lunar divide seat close famous body rate hope paddle rich absurd topple";

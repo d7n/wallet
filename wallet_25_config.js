@@ -1,1 +1,1 @@
-var mnemonic = "situate helmet trip still still cotton win void pink coast prize cigar";
+var mnemonic = "earn dawn frozen rug upgrade wrestle clinic exile kit venue despair detect";

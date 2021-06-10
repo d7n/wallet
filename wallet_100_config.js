@@ -1,1 +1,1 @@
-var mnemonic = "increase already maple rocket tank hint carpet safe mosquito mango clock usage";
+var mnemonic = "sight cute faith kit fault cannon donkey slight globe boil circle duty";

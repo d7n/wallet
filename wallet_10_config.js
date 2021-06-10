@@ -1,1 +1,1 @@
-var mnemonic = "bread lizard autumn believe script atom boss ten roof culture again source";
+var mnemonic = "margin faculty fan cube door rail allow hurt brother mountain lizard trap";

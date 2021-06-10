@@ -1,1 +1,1 @@
-var mnemonic = "term negative envelope wrap nice job lunar stable mad below vacant pelican";
+var mnemonic = "seed equal coyote enemy rotate aisle upper chat senior strike switch arrest";

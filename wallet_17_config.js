@@ -1,1 +1,1 @@
-var mnemonic = "stable junior survey mention excuse wife strategy maple team clock dove garbage";
+var mnemonic = "dumb jungle crush enable grass shaft water goose submit coconut echo horn";

@@ -1,1 +1,1 @@
-var mnemonic = "energy load claw cool unlock ribbon canyon parade celery next very hero";
+var mnemonic = "future all helmet enforce chuckle nuclear height market sport super scrap mule";

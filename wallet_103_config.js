@@ -1,1 +1,1 @@
-var mnemonic = "spoon nice spray ship garage stock tube plunge slender force dune slogan";
+var mnemonic = "forward magic bamboo lend faculty point junior corn alcohol exact slim west";

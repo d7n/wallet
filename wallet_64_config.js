@@ -1,1 +1,1 @@
-var mnemonic = "torch peace deer artefact invest affair receive fiscal artefact green will water";
+var mnemonic = "next pepper major same modify cargo bring unaware client dial utility wheat";

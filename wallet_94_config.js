@@ -1,1 +1,1 @@
-var mnemonic = "buffalo when charge rare excess nothing flush weasel spare flush deny oval";
+var mnemonic = "lesson math mushroom hero shell glare episode west little tattoo divorce flat";

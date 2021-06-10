@@ -1,1 +1,1 @@
-var mnemonic = "hunt host resemble flock delay fee grief ready nation mercy goose truly";
+var mnemonic = "average reopen ripple hospital expect enemy online misery bike captain undo reason";

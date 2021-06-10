@@ -1,1 +1,1 @@
-var mnemonic = "online cable fat depend liberty economy federal ship narrow parade juice park";
+var mnemonic = "rebuild employ rotate fury valve spider curious awkward eager you annual grocery";

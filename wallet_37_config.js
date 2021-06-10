@@ -1,1 +1,1 @@
-var mnemonic = "ability portion lift wheat afraid uniform basic drastic margin head dove orchard";
+var mnemonic = "music hat document wear local year cliff puppy alien dish phrase more";

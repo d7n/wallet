@@ -1,1 +1,1 @@
-var mnemonic = "camera lock absent upon denial left bomb time cactus grab cave blood";
+var mnemonic = "guard hub group topic again monkey end breeze peanut animal hire mistake";

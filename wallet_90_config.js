@@ -1,1 +1,1 @@
-var mnemonic = "focus luggage nuclear thrive edit zone idle mask satisfy soon coil country";
+var mnemonic = "window gadget spin latin remain scrap farm topple frost blind tennis you";

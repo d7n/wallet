@@ -1,1 +1,1 @@
-var mnemonic = "become popular grid appear ice cricket rib ankle ticket orbit divide bread";
+var mnemonic = "cabin winter april erosion ozone soccer erase hover waste bachelor crush marine";

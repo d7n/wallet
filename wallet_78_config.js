@@ -1,1 +1,1 @@
-var mnemonic = "gravity two doll purchase orient divorce focus enrich main pond immune uphold";
+var mnemonic = "bulk between oil sphere toy lottery fish unfold bachelor reject math erase";

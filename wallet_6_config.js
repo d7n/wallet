@@ -1,1 +1,1 @@
-var mnemonic = "machine hungry kitten print travel prison wrist news fabric diesel evolve copy";
+var mnemonic = "pitch pioneer online jealous slight cradle shy impact winter extend amount certain";

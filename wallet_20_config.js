@@ -1,1 +1,1 @@
-var mnemonic = "option pear transfer blame sight neither render moral iron problem demand glide";
+var mnemonic = "universe among scan clump force anchor breeze crucial broom matrix trip gain";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon exhaust quantum kiwi burden light peace throw rival false coin filter";
+var mnemonic = "hill amount recall feel police vote patrol spread cherry indoor hill bus";

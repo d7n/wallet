@@ -1,1 +1,1 @@
-var mnemonic = "horror famous sentence spice family lake raven broken shift excess once pig";
+var mnemonic = "refuse tattoo clinic address happy sketch squeeze elevator dove brick draw rule";

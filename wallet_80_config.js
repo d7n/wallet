@@ -1,1 +1,1 @@
-var mnemonic = "music burst rocket slide nice hint angle outer accident catch sustain feed";
+var mnemonic = "teach spider drink hour profit blouse immense squeeze village hint globe spoil";

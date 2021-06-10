@@ -1,1 +1,1 @@
-var mnemonic = "tunnel oxygen help dizzy expand vendor master select nephew draft skirt embrace";
+var mnemonic = "hybrid ride person hidden coffee awake media already direct spell jaguar potato";

@@ -1,1 +1,1 @@
-var mnemonic = "gift regular maximum want modify weekend match admit track wrong laugh clinic";
+var mnemonic = "nominee random vault more sign safe various timber siege mix grid image";

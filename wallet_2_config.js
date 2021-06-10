@@ -1,1 +1,1 @@
-var mnemonic = "purchase cousin join pact safe card manual country debate core coil prosper";
+var mnemonic = "slow fancy chicken unknown alpha beach arch split twin pretty one choice";

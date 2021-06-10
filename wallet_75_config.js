@@ -1,1 +1,1 @@
-var mnemonic = "become trend sting echo nominee forum cabin orchard debate twist coconut carbon";
+var mnemonic = "bridge trouble kiss tissue keen cluster basic admit duck plate public elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond catalog roof square believe dash twin hero rebuild rug square moon";
+var mnemonic = "work cupboard flip kiss cross forum divert diamond bag similar high devote";

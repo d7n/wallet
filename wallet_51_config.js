@@ -1,1 +1,1 @@
-var mnemonic = "enrich trade grunt draw wet spawn resemble father pretty year fluid credit";
+var mnemonic = "guess acoustic flavor addict liquid finish comic rose learn between century raven";

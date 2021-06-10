@@ -1,1 +1,1 @@
-var mnemonic = "zoo piece vacant cook feature drill panther strong guitar burden this refuse";
+var mnemonic = "peasant alarm amused hurt latin lumber neither umbrella cycle drop isolate dice";

@@ -1,1 +1,1 @@
-var mnemonic = "boss group select unknown strong climb track vivid judge radar hint end";
+var mnemonic = "suggest pigeon evidence foam purpose bring trim analyst wrestle case chimney chief";

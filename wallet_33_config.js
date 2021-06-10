@@ -1,1 +1,1 @@
-var mnemonic = "toast lounge process element enlist inject obey friend remember harbor alter eternal";
+var mnemonic = "excuse skate shock tuition live monster hobby crime whisper onion frequent exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "design kite catch veteran rare jazz bench shed stone toe immune magic";
+var mnemonic = "slot when split cement kite sleep aspect inmate edit marine blind that";

@@ -1,1 +1,1 @@
-var mnemonic = "drop mammal smile invest nothing issue pumpkin place blood indoor jar secret";
+var mnemonic = "forget scorpion unveil twin reunion grace raccoon fat sketch bracket sight little";

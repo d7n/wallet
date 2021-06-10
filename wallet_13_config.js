@@ -1,1 +1,1 @@
-var mnemonic = "winner enable reflect join foot owner cram dial hat hello ritual mixed";
+var mnemonic = "there trick merry decrease obvious crater panic setup river perfect rebuild distance";

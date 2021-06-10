@@ -1,1 +1,1 @@
-var mnemonic = "void insect head race image broom slab buffalo slush lyrics engine usage";
+var mnemonic = "employ naive ridge web phone luxury story struggle year enable vehicle upper";

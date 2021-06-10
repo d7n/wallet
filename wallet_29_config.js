@@ -1,1 +1,1 @@
-var mnemonic = "force maximum language cloth oblige elephant bulk grief glide inquiry employ huge";
+var mnemonic = "bullet express pause rice winner box beef vote boost lesson capital notable";

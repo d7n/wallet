@@ -1,1 +1,1 @@
-var mnemonic = "table rate error guide save fire wife assist increase energy box life";
+var mnemonic = "narrow brass invest network shell wing addict tribe goose lesson often limb";

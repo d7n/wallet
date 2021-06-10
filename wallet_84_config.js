@@ -1,1 +1,1 @@
-var mnemonic = "exact tomato swamp spy suspect gasp spring input slice rent wrestle word";
+var mnemonic = "thought off allow evidence rapid chicken velvet earn rival snack cradle cake";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling scrub security define fan bitter company broken owner name evoke afraid";
+var mnemonic = "squirrel narrow episode dutch series tomorrow month survey media couple laugh oxygen";

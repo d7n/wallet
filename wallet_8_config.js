@@ -1,1 +1,1 @@
-var mnemonic = "bleak bunker club today voice age build sort legal absurd orange swarm";
+var mnemonic = "thumb atom extend cattle suit resist hint keep pattern iron dawn start";

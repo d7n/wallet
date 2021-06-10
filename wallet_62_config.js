@@ -1,1 +1,1 @@
-var mnemonic = "record exact water riot usage grace exhaust army tackle priority strategy warfare";
+var mnemonic = "rare future design derive virus north fiber ancient world suffer airport game";

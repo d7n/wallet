@@ -1,1 +1,1 @@
-var mnemonic = "become proof surprise autumn stuff vicious lunch glory timber embark boring spread";
+var mnemonic = "giraffe assault urge fury flat never brother stumble pencil oven coil dutch";

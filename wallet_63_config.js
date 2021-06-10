@@ -1,1 +1,1 @@
-var mnemonic = "zoo pencil ugly what floor animal sponsor cluster chair hub police either";
+var mnemonic = "penalty hire favorite elephant antenna recipe tube detect sand seven cloud ivory";

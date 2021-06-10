@@ -1,1 +1,1 @@
-var mnemonic = "witness plug manage attend vast match naive area avoid live move move";
+var mnemonic = "exhibit skin camera paper chef birth know cable sphere foam load found";

@@ -1,1 +1,1 @@
-var mnemonic = "attack town resemble visual they service false child tunnel achieve chief erosion";
+var mnemonic = "vanish despair radar jealous creek duty pride erode suffer hip source lady";

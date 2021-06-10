@@ -1,1 +1,1 @@
-var mnemonic = "stock mad measure pretty prevent ecology keep autumn afford ivory express brick";
+var mnemonic = "chat source amused vacuum bunker milk pole crane human relax knock despair";

@@ -1,1 +1,1 @@
-var mnemonic = "awake accuse pledge dizzy rebuild close car absent evidence crash almost delay";
+var mnemonic = "ship citizen piece exclude leader sniff badge gift neck around defense valley";

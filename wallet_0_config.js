@@ -1,1 +1,1 @@
-var mnemonic = "spoil lizard spoil barrel nothing flag brick giraffe screen talent inherit jump";
+var mnemonic = "urge lunar loud giant vivid fade soon leisure asthma ability best mesh";

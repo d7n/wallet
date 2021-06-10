@@ -1,1 +1,1 @@
-var mnemonic = "word state section scout dragon brisk grocery search entire double place across";
+var mnemonic = "boil laptop oak grant same develop room forget indicate decide green duty";

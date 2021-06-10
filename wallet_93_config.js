@@ -1,1 +1,1 @@
-var mnemonic = "spawn napkin trust ketchup girl tell track brief ancient gossip water book";
+var mnemonic = "secret ribbon fault rubber future stick manual beef lake syrup curious enable";
