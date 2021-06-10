@@ -1,1 +1,1 @@
-var mnemonic = "exit man carry uncle stand minimum hurt doctor lake deputy fiber smoke";
+var mnemonic = "neck select trend will social wild hen shock van foster gospel include";

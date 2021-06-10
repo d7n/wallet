@@ -1,1 +1,1 @@
-var mnemonic = "ladder dust brain exotic pizza winner merry word relief tunnel daring manual";
+var mnemonic = "spatial lion fish drift display novel lake umbrella leg same strong coral";

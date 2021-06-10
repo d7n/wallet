@@ -1,1 +1,1 @@
-var mnemonic = "sample say endorse village tomorrow leisure keen strike brass dilemma carbon jeans";
+var mnemonic = "tool balance rescue tired tower toy small awesome bundle debate alcohol vicious";

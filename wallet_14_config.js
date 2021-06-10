@@ -1,1 +1,1 @@
-var mnemonic = "idea siege stand ensure gown tired blur volcano gasp excite print target";
+var mnemonic = "exchange gather decorate cigar promote style delay number fork pill invest deny";

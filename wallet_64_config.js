@@ -1,1 +1,1 @@
-var mnemonic = "rule able antique process twice year expose carbon life lunch museum rubber";
+var mnemonic = "february rain knock want nest clown purchase steak coral impact sort apology";

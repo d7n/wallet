@@ -1,1 +1,1 @@
-var mnemonic = "arrow cross brain renew portion when panther shoe unusual thunder valve manage";
+var mnemonic = "during jar crouch toward panic doll ritual pigeon lemon argue long tail";

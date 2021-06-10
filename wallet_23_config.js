@@ -1,1 +1,1 @@
-var mnemonic = "insane ribbon slogan color range ready wide gate ski rather original width";
+var mnemonic = "pink planet ball reveal lady smoke tumble extra verb region egg fringe";

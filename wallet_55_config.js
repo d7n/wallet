@@ -1,1 +1,1 @@
-var mnemonic = "drink market jaguar recycle miss shove truck catalog brain original column release";
+var mnemonic = "range empty pizza half donor island text modify mosquito carpet general aware";

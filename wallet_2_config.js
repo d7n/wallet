@@ -1,1 +1,1 @@
-var mnemonic = "mixture spare virtual rotate pudding weird copy minor snack purpose brisk blade";
+var mnemonic = "scorpion vocal feed police bird liquid example barely click purpose hour camera";

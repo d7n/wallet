@@ -1,1 +1,1 @@
-var mnemonic = "normal napkin humble rent current horn talk sugar social equal dream arch";
+var mnemonic = "crawl cover nest alien sketch rough lecture kingdom obey pair tomorrow promote";

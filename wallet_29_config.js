@@ -1,1 +1,1 @@
-var mnemonic = "egg manual census sheriff exist atom true please congress keen pride pear";
+var mnemonic = "attitude kidney glow latin slam trend inspire drink time poet round inflict";

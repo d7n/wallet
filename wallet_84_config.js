@@ -1,1 +1,1 @@
-var mnemonic = "limit slush song express garlic insane stock fox manual dragon tattoo mixed";
+var mnemonic = "resource empty neck ice wise hold glue witness spread satisfy during budget";

@@ -1,1 +1,1 @@
-var mnemonic = "speed because address sick only party loyal expire fine great ladder penalty";
+var mnemonic = "silly month letter panther enact scan derive bounce curious dirt clay trick";

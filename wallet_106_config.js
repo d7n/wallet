@@ -1,1 +1,1 @@
-var mnemonic = "merit inside citizen usual shoe certain devote wine benefit height occur burden";
+var mnemonic = "buffalo truth uniform sense stove scan cotton enhance lounge dove truck deny";

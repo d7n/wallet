@@ -1,1 +1,1 @@
-var mnemonic = "call scrap rough profit flip debris mirror clown inner cause negative middle";
+var mnemonic = "current judge scissors ski toy army air book bridge debris twelve try";

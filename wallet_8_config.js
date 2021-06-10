@@ -1,1 +1,1 @@
-var mnemonic = "type empty will quiz wedding modify impose level any fruit canal mushroom";
+var mnemonic = "suspect steel annual clap uphold struggle month pizza trigger slice neutral now";

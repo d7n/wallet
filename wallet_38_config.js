@@ -1,1 +1,1 @@
-var mnemonic = "asthma prosper illness borrow reflect aunt doll travel explain climb whale secret";
+var mnemonic = "limit simple squirrel crunch broken race escape damp rebuild snake song laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "owner suit diet evidence ability battle apology body genuine type delay rude";
+var mnemonic = "cannon theory cat swamp margin replace accident file exit teach purse infant";

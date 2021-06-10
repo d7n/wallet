@@ -1,1 +1,1 @@
-var mnemonic = "capital cheese merit bench annual once loud follow around wave wolf duty";
+var mnemonic = "stick outside nation arch bracket series agree finger extend budget vapor candy";

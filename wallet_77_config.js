@@ -1,1 +1,1 @@
-var mnemonic = "staff hybrid peasant rule file iron since local run urge little hat";
+var mnemonic = "extra name hope proof spell tiny moon innocent gold inside aerobic avocado";

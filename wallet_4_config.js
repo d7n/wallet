@@ -1,1 +1,1 @@
-var mnemonic = "sudden fix check luxury inhale sentence soda potato broken maze orient milk";
+var mnemonic = "summer cigar news always adult logic oak legal ribbon panic vibrant tattoo";

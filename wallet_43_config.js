@@ -1,1 +1,1 @@
-var mnemonic = "wave make name ladder sorry sting cricket add tunnel opera century expire";
+var mnemonic = "ill giant mouse educate hen only property badge wealth wait cram clay";

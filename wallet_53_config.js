@@ -1,1 +1,1 @@
-var mnemonic = "parade angry alone table range fuel rough march fiscal omit define obvious";
+var mnemonic = "program old bulk distance mule soon resemble friend sting wall jungle garden";

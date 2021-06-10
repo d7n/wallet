@@ -1,1 +1,1 @@
-var mnemonic = "build matter nephew latin used ice inhale essay force illness beef proud";
+var mnemonic = "purchase cable police burden elite right menu situate truly chaos prize uncover";

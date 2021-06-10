@@ -1,1 +1,1 @@
-var mnemonic = "paddle guard dance multiply traffic patch impulse wise message fabric power radio";
+var mnemonic = "defy foot horn citizen spider only accident sustain skate hybrid bright appear";

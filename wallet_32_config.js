@@ -1,1 +1,1 @@
-var mnemonic = "iron glow asthma beef crush tuition nature negative crystal current judge client";
+var mnemonic = "session stove canvas turkey shed crunch bonus develop end force across scissors";

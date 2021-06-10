@@ -1,1 +1,1 @@
-var mnemonic = "weekend heavy combine know swarm session vicious tide final throw insane lazy";
+var mnemonic = "pause since anger calm rigid horn ice noise purchase salon idle segment";

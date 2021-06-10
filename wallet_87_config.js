@@ -1,1 +1,1 @@
-var mnemonic = "donkey avocado couple orange grape spawn army box order mango bid dress";
+var mnemonic = "corn finish artefact right bless rib agree essence rude mean vapor hundred";

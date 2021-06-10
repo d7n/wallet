@@ -1,1 +1,1 @@
-var mnemonic = "laptop sibling drum dragon pink stable final opera girl ticket eternal shed";
+var mnemonic = "lyrics image thank rival balcony jazz target hurry company crisp cool penalty";

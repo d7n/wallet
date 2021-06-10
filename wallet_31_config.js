@@ -1,1 +1,1 @@
-var mnemonic = "obtain harsh insane boil sick runway spider upset possible initial age reward";
+var mnemonic = "chase spoon brain until powder silk horror chief peace twist immune breeze";

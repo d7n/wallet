@@ -1,1 +1,1 @@
-var mnemonic = "swallow renew juice lizard cute flee cotton pilot inmate enough slab sausage";
+var mnemonic = "insect dish pig catch have guide spot door bamboo soccer snap board";

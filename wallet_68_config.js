@@ -1,1 +1,1 @@
-var mnemonic = "hood hollow tissue prefer worry two salon stable moon grunt noise mixed";
+var mnemonic = "universe theory profit light small anxiety heavy boss tape afford strike drop";

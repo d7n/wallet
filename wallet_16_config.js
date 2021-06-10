@@ -1,1 +1,1 @@
-var mnemonic = "vast subject pudding orphan essay nerve winter into poet only lobster response";
+var mnemonic = "island faint poet inflict glide destroy upper crouch kiwi brisk sauce dilemma";

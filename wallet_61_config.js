@@ -1,1 +1,1 @@
-var mnemonic = "cabbage area theory kiwi treat aware minimum brush layer memory country general";
+var mnemonic = "client taste jazz middle cargo always priority frozen slogan point stable iron";

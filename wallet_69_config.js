@@ -1,1 +1,1 @@
-var mnemonic = "oppose alone guide naive burger subway cause field wise blind such actress";
+var mnemonic = "fire output enjoy giraffe rapid phone sail nephew stem cruel pause same";

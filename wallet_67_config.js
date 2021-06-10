@@ -1,1 +1,1 @@
-var mnemonic = "order rose tiger eternal chicken fox submit napkin rapid few exist loop";
+var mnemonic = "walk point resist staff load join mammal announce journey organ hair hospital";

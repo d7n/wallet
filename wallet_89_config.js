@@ -1,1 +1,1 @@
-var mnemonic = "cabbage spell neither knee negative chaos poet index velvet item obscure total";
+var mnemonic = "bracket reform rib lemon cruise isolate exhaust cancel hurry excuse stone ramp";

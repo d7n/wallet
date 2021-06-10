@@ -1,1 +1,1 @@
-var mnemonic = "pottery noise face logic exact strike ceiling practice work remove thrive brush";
+var mnemonic = "sweet labor fury frost bounce decrease decide eager bracket dad deposit nuclear";

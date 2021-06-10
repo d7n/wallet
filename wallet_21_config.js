@@ -1,1 +1,1 @@
-var mnemonic = "squeeze stereo visual uphold carpet diet jazz walnut chaos icon theme large";
+var mnemonic = "auto digital pistol poet surprise legend scene fiscal cliff degree transfer same";

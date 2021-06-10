@@ -1,1 +1,1 @@
-var mnemonic = "derive crystal visual canvas clown obey surge around face sudden winner tag";
+var mnemonic = "motion brave night infant path dose genius knee wheel brass rocket staff";

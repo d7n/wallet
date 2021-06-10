@@ -1,1 +1,1 @@
-var mnemonic = "cost napkin volume increase kiss forget ancient one achieve december online ability";
+var mnemonic = "toilet fire tackle leopard coil priority track little often person notable hen";

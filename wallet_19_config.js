@@ -1,1 +1,1 @@
-var mnemonic = "mammal wreck margin minimum lyrics below solid gain six angle truly normal";
+var mnemonic = "move good police kite federal health among habit inch lunch hair side";

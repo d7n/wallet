@@ -1,1 +1,1 @@
-var mnemonic = "decline involve step funny scheme spring hundred silly drum jungle shift brush";
+var mnemonic = "observe demise october negative join sight fire divorce lonely parade script buyer";

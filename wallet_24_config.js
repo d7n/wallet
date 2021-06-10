@@ -1,1 +1,1 @@
-var mnemonic = "jazz book thing strike unaware congress bullet split evidence coral bracket must";
+var mnemonic = "glad unhappy arctic three help ghost shuffle nation fatigue initial fury cream";

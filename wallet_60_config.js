@@ -1,1 +1,1 @@
-var mnemonic = "hand you save snow size dune cycle obvious cabin pole occur fog";
+var mnemonic = "equip click puzzle gasp office inner reveal mutual vapor access spend wink";

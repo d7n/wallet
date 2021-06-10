@@ -1,1 +1,1 @@
-var mnemonic = "genuine second target festival bubble used verify runway capable jar layer liquid";
+var mnemonic = "advice betray accuse fruit world betray shield retreat best plate spot kiss";

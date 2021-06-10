@@ -1,1 +1,1 @@
-var mnemonic = "chimney leave situate swap gown spin replace tiny little thrive correct orient";
+var mnemonic = "cinnamon cancel peanut buyer suit fiction fun pulse wide endless gossip volcano";

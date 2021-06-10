@@ -1,1 +1,1 @@
-var mnemonic = "struggle chase phrase pause banana group monkey poet ivory relief prevent latin";
+var mnemonic = "wait rookie basket sponsor gym effort decrease resist nest fire flower lava";

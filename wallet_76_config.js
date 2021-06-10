@@ -1,1 +1,1 @@
-var mnemonic = "seat smooth blouse fan immense tell ceiling water route day movie return";
+var mnemonic = "truth program umbrella grief news now width range hunt increase pottery error";

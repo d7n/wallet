@@ -1,1 +1,1 @@
-var mnemonic = "fame copy move monster cargo sister belt essay rival wrestle genuine artefact";
+var mnemonic = "ten idle stand topic seminar hybrid decide boat perfect link salute own";

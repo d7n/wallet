@@ -1,1 +1,1 @@
-var mnemonic = "arena despair trade ride awkward night hair gasp senior fly shield lonely";
+var mnemonic = "option box brother stand settle evolve main kidney heart fever come pepper";

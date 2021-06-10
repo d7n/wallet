@@ -1,1 +1,1 @@
-var mnemonic = "budget riot usual settle awake hobby neutral end soup fox inquiry media";
+var mnemonic = "calm chicken name alter margin casino ripple ensure input art comfort exile";

@@ -1,1 +1,1 @@
-var mnemonic = "disease vocal noise salmon gas rather wall kind worry switch bacon elbow";
+var mnemonic = "frost tobacco appear brief slot reunion chef prevent clay embark broccoli imitate";

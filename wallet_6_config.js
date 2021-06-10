@@ -1,1 +1,1 @@
-var mnemonic = "elbow emotion where hero flat poem there entry culture assist mimic second";
+var mnemonic = "vessel outside south share forward repeat sister rapid tobacco figure cattle scene";

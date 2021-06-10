@@ -1,1 +1,1 @@
-var mnemonic = "turn glad comfort dad enable enter hawk swarm quality winner interest abandon";
+var mnemonic = "stamp bounce property permit grain rigid voyage list battle submit soft word";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep member blanket claw quit omit lyrics citizen document next stamp fetch";
+var mnemonic = "still tomorrow energy effort wave usage surprise knock panda adjust curious direct";

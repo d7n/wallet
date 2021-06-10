@@ -1,1 +1,1 @@
-var mnemonic = "elevator club evil acoustic fragile identify salute inside answer dress melody rabbit";
+var mnemonic = "toe suit deputy scout behave lecture grid save order shrug loan own";

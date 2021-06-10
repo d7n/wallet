@@ -1,1 +1,1 @@
-var mnemonic = "soft chronic festival cotton pass suit adapt couple office similar coffee kind";
+var mnemonic = "hope case differ canvas sick chest mirror broccoli grab someone damp glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "funny garment bleak action noodle security kiwi common divert myth grit airport";
+var mnemonic = "cherry effort dose glide three tuition worry knife holiday nuclear under basket";

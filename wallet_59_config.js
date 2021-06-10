@@ -1,1 +1,1 @@
-var mnemonic = "great consider connect replace member title senior school chat worry obey hour";
+var mnemonic = "hill adult settle around bulb regret reopen steak barrel clerk today goat";

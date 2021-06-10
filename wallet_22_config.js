@@ -1,1 +1,1 @@
-var mnemonic = "tray claim lock letter work grant decorate cave extend replace protect usual";
+var mnemonic = "museum disease frame enjoy camp repeat loud tragic wisdom pulse ugly absent";

@@ -1,1 +1,1 @@
-var mnemonic = "tape affair wrong misery maid crucial session tobacco illegal hat across excess";
+var mnemonic = "more faith wing learn lens fashion you utility jacket lecture marine under";

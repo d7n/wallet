@@ -1,1 +1,1 @@
-var mnemonic = "lumber virus blind wrestle interest van input horror memory topic intact fiber";
+var mnemonic = "general proof term hero sing turtle youth defense roast volcano staff zero";

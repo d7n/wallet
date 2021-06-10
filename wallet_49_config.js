@@ -1,1 +1,1 @@
-var mnemonic = "urban actual give topic lion ball circle sand island during sock end";
+var mnemonic = "stereo any tail fitness apple argue mistake come add gun arch smoke";

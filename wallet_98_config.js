@@ -1,1 +1,1 @@
-var mnemonic = "banner property eagle famous desk bonus artist subject soccer assist mother diesel";
+var mnemonic = "name lock grass acquire frozen rebuild worth mom team city bunker congress";

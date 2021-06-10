@@ -1,1 +1,1 @@
-var mnemonic = "oven winner allow lottery time refuse prefer swarm hub forum course reveal";
+var mnemonic = "chat nation toward curious thank record liar party buffalo fan more village";

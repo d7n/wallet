@@ -1,1 +1,1 @@
-var mnemonic = "ripple pipe enter medal planet absent crew learn leisure message rigid pledge";
+var mnemonic = "stock fury bulb side pistol calm rail morning again donor spell scare";

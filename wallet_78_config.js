@@ -1,1 +1,1 @@
-var mnemonic = "grow super lawn ramp light drift sponsor laugh taste person grass cushion";
+var mnemonic = "mosquito long wolf acquire letter impose view mask clown target hungry spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor deny slow tag view coin shiver health body renew clock hollow";
+var mnemonic = "eight hen hand defy undo category august rare worth drama throw rose";

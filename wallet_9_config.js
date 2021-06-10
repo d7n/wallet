@@ -1,1 +1,1 @@
-var mnemonic = "intact people gasp donkey assume crawl orange street nut roast exit tuna";
+var mnemonic = "balance matrix erase winner exit captain borrow pair dawn sudden punch absent";

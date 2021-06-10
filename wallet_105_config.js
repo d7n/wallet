@@ -1,1 +1,1 @@
-var mnemonic = "laptop dust orbit base meat empower harsh kite virtual ugly front circle";
+var mnemonic = "teach wait radar mule tragic weird soccer shuffle car science midnight consider";

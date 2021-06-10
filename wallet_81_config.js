@@ -1,1 +1,1 @@
-var mnemonic = "next strategy denial recycle fitness lava predict hobby island begin gold proof";
+var mnemonic = "film test flash mechanic icon quantum upgrade device bracket hybrid rent fame";

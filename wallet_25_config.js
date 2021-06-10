@@ -1,1 +1,1 @@
-var mnemonic = "upset garbage bundle asthma sun crawl old erode infant evoke helmet vague";
+var mnemonic = "uniform jelly siege tube labor reason cancel ill roast check grunt wire";

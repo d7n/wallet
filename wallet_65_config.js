@@ -1,1 +1,1 @@
-var mnemonic = "tail mixture escape void abuse agree smart prepare shine galaxy where basket";
+var mnemonic = "human gesture thunder huge hope hair craft odor gap gesture tail enough";

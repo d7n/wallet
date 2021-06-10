@@ -1,1 +1,1 @@
-var mnemonic = "harvest raccoon enhance border such dentist clip paper outer custom finger novel";
+var mnemonic = "amazing mountain behave join member spread boil banana above artefact crunch blue";

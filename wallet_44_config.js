@@ -1,1 +1,1 @@
-var mnemonic = "weird narrow muffin vessel guilt normal opera craft orient order film vehicle";
+var mnemonic = "issue coconut journey pact human sample nature gadget neglect since assault space";

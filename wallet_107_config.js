@@ -1,1 +1,1 @@
-var mnemonic = "pill wrong wet under input rug security finish above access coin midnight";
+var mnemonic = "marriage bless again wool disorder include protect pool key check lawsuit pelican";

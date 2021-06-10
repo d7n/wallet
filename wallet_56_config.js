@@ -1,1 +1,1 @@
-var mnemonic = "song reveal coconut genius ugly shove breeze human acid same organ stay";
+var mnemonic = "student library piano sea tomato degree lucky relief air lesson obtain action";

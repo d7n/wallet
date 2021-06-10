@@ -1,1 +1,1 @@
-var mnemonic = "december income fragile toddler immense axis vessel car obtain father unveil blame";
+var mnemonic = "you airport easily eyebrow whale oppose fitness always current road fashion shrimp";

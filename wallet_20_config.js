@@ -1,1 +1,1 @@
-var mnemonic = "coyote flag discover result logic group pole kite bread coach kite tattoo";
+var mnemonic = "tube glory alpha undo defy piano kitchen hill true square club federal";

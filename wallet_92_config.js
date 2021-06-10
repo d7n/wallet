@@ -1,1 +1,1 @@
-var mnemonic = "snap minimum peasant leave multiply enlist person palm come hat system pledge";
+var mnemonic = "nominee fatigue float catch hill mercy shield hospital stick alter appear buddy";

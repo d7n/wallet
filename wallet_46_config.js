@@ -1,1 +1,1 @@
-var mnemonic = "fence guide picture bless speak skirt hungry lend check rural sponsor grid";
+var mnemonic = "motion position knee genius zebra arrange inhale pull kidney sand unable spell";

@@ -1,1 +1,1 @@
-var mnemonic = "age dirt cool more own love evolve craft tomato angry convince leopard";
+var mnemonic = "rapid afford nose sing dinner three mean copper like amateur evoke toward";

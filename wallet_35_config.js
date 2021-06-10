@@ -1,1 +1,1 @@
-var mnemonic = "speed novel access fan settle obey limit author upon smart law transfer";
+var mnemonic = "scan foot cinnamon indoor limb jelly grab problem tired ice grain flush";

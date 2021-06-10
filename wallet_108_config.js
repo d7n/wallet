@@ -1,1 +1,1 @@
-var mnemonic = "average chuckle outer one merge focus minute neglect foot blossom evoke pepper";
+var mnemonic = "minor high include cube advice climb mask fish crew remove bargain aim";

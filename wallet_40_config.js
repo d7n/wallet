@@ -1,1 +1,1 @@
-var mnemonic = "input aunt coral diesel afford there curve lizard ski ship tattoo flee";
+var mnemonic = "human move speed front depend hope game tonight retreat flee match bitter";

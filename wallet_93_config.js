@@ -1,1 +1,1 @@
-var mnemonic = "unable trap rabbit sorry bracket senior rifle upset time verb exact main";
+var mnemonic = "extend tired chief cigar sustain note session other letter neglect pelican lizard";

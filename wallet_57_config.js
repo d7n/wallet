@@ -1,1 +1,1 @@
-var mnemonic = "load broom yard balcony margin post smoke milk pony double crumble speak";
+var mnemonic = "father bulk shoe unveil crane stumble village dad nature student impulse acoustic";

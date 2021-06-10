@@ -1,1 +1,1 @@
-var mnemonic = "pink can oval peanut also diet vocal siren ecology square mobile stand";
+var mnemonic = "teach cream asset must public cushion scale split emerge two east ivory";
