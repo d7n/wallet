@@ -1,1 +1,1 @@
-var mnemonic = "whip video top quit leaf early crack stomach gasp lamp satisfy chapter";
+var mnemonic = "clarify brick habit day disorder source life kingdom million aisle easy table";

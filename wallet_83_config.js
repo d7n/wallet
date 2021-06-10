@@ -1,1 +1,1 @@
-var mnemonic = "sport excuse floor feel suffer bone can service desert whale nurse soda";
+var mnemonic = "tomato decrease change casual cruel expand lecture tooth pink bunker include amount";

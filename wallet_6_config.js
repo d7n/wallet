@@ -1,1 +1,1 @@
-var mnemonic = "develop antique shed convince undo slogan mask deer fortune tribe essence brave";
+var mnemonic = "canoe found speed cost act symptom escape legend cloud pelican inside copper";

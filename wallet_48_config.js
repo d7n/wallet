@@ -1,1 +1,1 @@
-var mnemonic = "real allow horse mandate owner illegal vehicle whale ostrich joy sport flight";
+var mnemonic = "start deer seminar paper erode chalk ladder cheap upgrade hazard rubber bonus";

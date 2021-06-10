@@ -1,1 +1,1 @@
-var mnemonic = "remove suggest engine coast bracket despair motion service version stand long bone";
+var mnemonic = "trash luggage giggle fiction release cost donkey dutch fancy absent forward nerve";

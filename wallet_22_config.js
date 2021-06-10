@@ -1,1 +1,1 @@
-var mnemonic = "crop until muffin ivory work eight talent around unit soda game what";
+var mnemonic = "unaware roof media gift cook decide weird goat artefact amount glow clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "castle cargo inmate ribbon toast sock leader term horse together orbit limb";
+var mnemonic = "typical share burden frozen hammer ugly say tuition uphold toast wage awkward";

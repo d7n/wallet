@@ -1,1 +1,1 @@
-var mnemonic = "actor when disorder use ivory huge ask around double skirt another ocean";
+var mnemonic = "above citizen dismiss elder record grace know thank equip hub payment fringe";

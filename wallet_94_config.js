@@ -1,1 +1,1 @@
-var mnemonic = "until drop ring trap relax assault weekend jaguar orbit goose fee tongue";
+var mnemonic = "receive surface select marine smile polar pyramid exact company satisfy fix warfare";

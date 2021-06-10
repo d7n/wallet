@@ -1,1 +1,1 @@
-var mnemonic = "square clump music reflect fabric arctic vital broccoli check hub you million";
+var mnemonic = "major scale normal crumble team mix other leave together sick raccoon reflect";

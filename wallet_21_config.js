@@ -1,1 +1,1 @@
-var mnemonic = "harsh humble alien lecture when romance better blind cradle define enter solid";
+var mnemonic = "cage omit sentence age skin view box custom cruise awake crazy between";

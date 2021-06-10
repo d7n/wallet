@@ -1,1 +1,1 @@
-var mnemonic = "visual brand wheel rule there army trigger history cliff jazz traffic stove";
+var mnemonic = "joy wild learn pluck pepper fossil lamp pull scrap two board forest";

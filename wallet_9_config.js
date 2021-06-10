@@ -1,1 +1,1 @@
-var mnemonic = "pattern abuse list uphold wagon method police media huge strategy dish speed";
+var mnemonic = "lunch ranch include shaft glow moral page caution solution round soldier siege";

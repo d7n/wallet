@@ -1,1 +1,1 @@
-var mnemonic = "ribbon slide noble equal column fold shrug orchard breeze warfare flag park";
+var mnemonic = "sketch chase random kick nest vote pluck adjust hard broken enable omit";

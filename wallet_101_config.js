@@ -1,1 +1,1 @@
-var mnemonic = "picture main opera unable ticket unlock dwarf wealth cream skin loud table";
+var mnemonic = "dance carbon silent system learn slide concert change unknown electric warm siren";

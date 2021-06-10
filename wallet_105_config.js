@@ -1,1 +1,1 @@
-var mnemonic = "dress meadow sand ceiling sand innocent monitor width stumble forum wreck stone";
+var mnemonic = "bright swear crash wing uniform notice search tomato custom attract pizza horse";

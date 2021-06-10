@@ -1,1 +1,1 @@
-var mnemonic = "coach useless decorate rebel deliver female similar donkey village coast raven unfold";
+var mnemonic = "ticket keep gravity grace glory catch cross right clever vault gasp bone";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect relief neck one mountain snap maple pole dignity scorpion convince acoustic";
+var mnemonic = "beef sense planet clip grunt use oxygen bottom stem tackle dawn olive";

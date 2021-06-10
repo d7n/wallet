@@ -1,1 +1,1 @@
-var mnemonic = "swarm garage produce bulk rough fault shrug define carbon wood action sell";
+var mnemonic = "regular hospital gap soft winter fog observe shift jacket absurd town moral";

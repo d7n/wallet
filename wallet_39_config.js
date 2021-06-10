@@ -1,1 +1,1 @@
-var mnemonic = "fresh live mechanic canal simple crucial charge nephew gather private boost clay";
+var mnemonic = "situate boost upper breeze maximum scale open resource toilet couple width mutual";

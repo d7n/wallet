@@ -1,1 +1,1 @@
-var mnemonic = "popular call smooth trouble sock tourist bleak output danger amazing motion vacant";
+var mnemonic = "jealous typical exit elevator link know frequent ride income similar clown obtain";

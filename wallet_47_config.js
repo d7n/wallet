@@ -1,1 +1,1 @@
-var mnemonic = "thing drastic barrel lawn whale wrist village agent sniff humble grunt power";
+var mnemonic = "social panda clock frame sorry oval legal shrimp boil cluster copy impact";

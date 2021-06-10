@@ -1,1 +1,1 @@
-var mnemonic = "primary link develop twelve hedgehog drop daring vintage work little wall feature";
+var mnemonic = "filter sport feed glory warfare vibrant fat potato theory swear nasty finger";

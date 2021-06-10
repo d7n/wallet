@@ -1,1 +1,1 @@
-var mnemonic = "penalty lizard iron prepare fog february swing because sure spirit afford walk";
+var mnemonic = "deputy return round dizzy tank cherry dynamic rude december wash sting clever";

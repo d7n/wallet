@@ -1,1 +1,1 @@
-var mnemonic = "orange holiday dose dutch pill narrow correct unhappy future torch already toddler";
+var mnemonic = "typical focus lunar clip fade gate stay utility attract degree labor trim";

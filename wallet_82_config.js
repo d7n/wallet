@@ -1,1 +1,1 @@
-var mnemonic = "debris confirm ladder hockey enhance example carbon neutral embrace barrel display rubber";
+var mnemonic = "scout parrot toddler network tell wheat swallow movie relief actual cable boost";

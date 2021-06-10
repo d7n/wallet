@@ -1,1 +1,1 @@
-var mnemonic = "impose tongue rigid diary giraffe fit hospital hospital hamster anchor artefact chair";
+var mnemonic = "actress road base verify intact there mom fancy pill maze globe oblige";

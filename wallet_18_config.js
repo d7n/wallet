@@ -1,1 +1,1 @@
-var mnemonic = "bag lake cannon sphere vote defense notice affair candy uniform earth economy";
+var mnemonic = "fatigue bird kick message club ancient kitten trust search benefit aerobic gaze";

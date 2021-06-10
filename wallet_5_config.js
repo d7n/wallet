@@ -1,1 +1,1 @@
-var mnemonic = "demand glory describe pole can trap rubber ghost hire room stamp satisfy";
+var mnemonic = "trumpet anchor invite discover detail idea stand resist profit green curtain wool";

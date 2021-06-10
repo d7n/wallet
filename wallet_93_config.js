@@ -1,1 +1,1 @@
-var mnemonic = "habit mix between balance hurdle awake century action monster duty despair trip";
+var mnemonic = "artefact weekend brush snow panda since swallow injury obscure opera end type";

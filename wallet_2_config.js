@@ -1,1 +1,1 @@
-var mnemonic = "cattle virus length wash skill option infant deposit fruit basic recycle kitten";
+var mnemonic = "mandate goddess senior chase black dove romance biology vocal wish busy bid";

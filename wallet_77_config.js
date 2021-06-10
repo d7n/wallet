@@ -1,1 +1,1 @@
-var mnemonic = "friend obscure differ squeeze six narrow direct wire tobacco sniff horn output";
+var mnemonic = "volume leg draft dress pause middle bleak income deer blouse hub toilet";

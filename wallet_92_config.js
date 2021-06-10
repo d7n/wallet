@@ -1,1 +1,1 @@
-var mnemonic = "door gown tail sick girl comfort stove regret tuition rescue until mutual";
+var mnemonic = "acquire thank lonely bomb success lock skin oak sell fold brother pistol";

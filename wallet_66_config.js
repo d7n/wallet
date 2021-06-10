@@ -1,1 +1,1 @@
-var mnemonic = "garlic broccoli remain piano long myth coin polar sister estate decide put";
+var mnemonic = "toe tomato heavy draw swallow account session sting window twist market kite";

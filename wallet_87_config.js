@@ -1,1 +1,1 @@
-var mnemonic = "scrap soup pioneer gravity rain powder clap auto assume shift equal vehicle";
+var mnemonic = "nut mule spirit smoke liar electric observe verb place undo raven march";

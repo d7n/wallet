@@ -1,1 +1,1 @@
-var mnemonic = "force employ frame salad spell truly absorb mad entire muffin captain question";
+var mnemonic = "strong olympic announce soup chunk item return dinosaur prevent satoshi beauty office";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar develop approve pilot pet route upgrade announce gaze upon arrange bulb";
+var mnemonic = "country hundred choose seven describe rain wrap wasp frame help room buzz";

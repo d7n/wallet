@@ -1,1 +1,1 @@
-var mnemonic = "sunset top car raw donor system you music undo short property zebra";
+var mnemonic = "door afraid mean crash bitter unable bicycle glove industry riot verify street";

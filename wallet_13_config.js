@@ -1,1 +1,1 @@
-var mnemonic = "web clinic swift patrol swear body surround alien frog fox fitness ranch";
+var mnemonic = "kind convince just ordinary buyer gap shoot match lens bench short girl";

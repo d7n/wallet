@@ -1,1 +1,1 @@
-var mnemonic = "park toward sheriff jar idea addict risk parent unusual favorite laundry ancient";
+var mnemonic = "math lava vacant envelope aerobic world skate seven stand render lottery leader";

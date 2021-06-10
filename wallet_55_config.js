@@ -1,1 +1,1 @@
-var mnemonic = "lemon across prize surround hen crane village weekend pulp wheel fortune swap";
+var mnemonic = "prevent inject fossil sign subject shield local dilemma kingdom section infant script";

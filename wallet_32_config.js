@@ -1,1 +1,1 @@
-var mnemonic = "basket know thought glimpse warm target tip cost gesture purchase cream banana";
+var mnemonic = "gospel trial brand toast two donate fish runway palace put galaxy together";

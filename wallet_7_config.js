@@ -1,1 +1,1 @@
-var mnemonic = "walnut damp cat summer fortune jazz prize spread sign dismiss crawl doll";
+var mnemonic = "success ripple three fuel library ketchup answer retire strong glory phone now";

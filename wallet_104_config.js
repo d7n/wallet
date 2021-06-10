@@ -1,1 +1,1 @@
-var mnemonic = "future stairs infant glare salute monster panda boil enact item portion patrol";
+var mnemonic = "inject annual ski powder kitchen spread boil kiss access dolphin end blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "bind squeeze pigeon bulb equip vast hurry appear dad spirit produce process";
+var mnemonic = "wave dose bus destroy tree nerve dream audit heart review wife tide";

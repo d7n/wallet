@@ -1,1 +1,1 @@
-var mnemonic = "record web special elevator latin search track churn model derive street helmet";
+var mnemonic = "smooth vault suit airport deliver kick apple mansion bacon tip session tumble";

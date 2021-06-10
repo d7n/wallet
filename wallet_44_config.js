@@ -1,1 +1,1 @@
-var mnemonic = "outdoor nut unhappy aspect enough clown elder firm vanish easy peasant mass";
+var mnemonic = "dinosaur inquiry inherit scorpion able high voyage media pave select identify return";

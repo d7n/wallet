@@ -1,1 +1,1 @@
-var mnemonic = "yard scan rescue glide sign tumble two proof parrot rapid oblige bundle";
+var mnemonic = "hidden mother echo blossom hazard domain modify rubber biology shed misery music";

@@ -1,1 +1,1 @@
-var mnemonic = "body toward age faint black cruise aisle ribbon million report daughter priority";
+var mnemonic = "explain rare frog decade chapter dice false width boring mango margin hidden";

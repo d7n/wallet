@@ -1,1 +1,1 @@
-var mnemonic = "idle potato fire sudden snack rule cereal mind recipe lock select increase";
+var mnemonic = "walnut electric lesson kiss cook wrestle noble illegal sleep true bright radar";

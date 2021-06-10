@@ -1,1 +1,1 @@
-var mnemonic = "obtain soldier fashion banana general tower expand sound settle lab mandate aerobic";
+var mnemonic = "hidden forward retire armed hundred pumpkin orange great indoor secret merge retire";

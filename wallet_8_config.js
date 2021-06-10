@@ -1,1 +1,1 @@
-var mnemonic = "scrap silly alcohol toilet stand quantum badge rural track leave card surprise";
+var mnemonic = "bus odor song lens wing ramp velvet butter donate gain morning odor";

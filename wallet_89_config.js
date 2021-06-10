@@ -1,1 +1,1 @@
-var mnemonic = "wrong recall put train dance deny edge mistake hurt cotton know kiss";
+var mnemonic = "wasp twice scare mean practice evoke quality grow master program barely grant";

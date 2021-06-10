@@ -1,1 +1,1 @@
-var mnemonic = "enlist feature knife spatial lion expose sign above know luggage dial wall";
+var mnemonic = "notable since vivid super castle unlock domain egg envelope scatter direct hero";

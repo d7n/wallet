@@ -1,1 +1,1 @@
-var mnemonic = "produce smile retire despair palm same bullet frequent drive attack place seven";
+var mnemonic = "glide lonely match expose comic degree movie tone fabric daughter relief expose";

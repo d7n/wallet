@@ -1,1 +1,1 @@
-var mnemonic = "game chef receive rival man deal subway author sadness tuition pill grain";
+var mnemonic = "size woman off fatigue music upon naive organ impulse saddle paper lecture";

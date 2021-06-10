@@ -1,1 +1,1 @@
-var mnemonic = "spend mad toe elephant include sure expect acid error sorry uncle bundle";
+var mnemonic = "firm diamond meadow sand busy acid stool trade organ bright attitude behind";

@@ -1,1 +1,1 @@
-var mnemonic = "survey special fame thunder arrange actress camp jungle work box deal zone";
+var mnemonic = "soldier bonus cotton able invest become feature final powder mango fit silly";

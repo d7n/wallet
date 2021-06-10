@@ -1,1 +1,1 @@
-var mnemonic = "debate rookie mistake visual glove another else cancel merge economy birth hybrid";
+var mnemonic = "crime diary unaware divorce surprise bomb salon teach beef cruise main turn";

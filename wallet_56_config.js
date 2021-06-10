@@ -1,1 +1,1 @@
-var mnemonic = "broom spare all nose defy diet transfer tide client toilet vendor grid";
+var mnemonic = "ladder measure direct purchase annual banana artwork cash benefit lumber deputy despair";

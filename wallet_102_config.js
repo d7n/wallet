@@ -1,1 +1,1 @@
-var mnemonic = "auction digital kidney good pole dutch hurt ancient fire spoil forest identify";
+var mnemonic = "arrive lumber other message soap struggle boost airport sponsor bitter bread reopen";

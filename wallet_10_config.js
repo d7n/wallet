@@ -1,1 +1,1 @@
-var mnemonic = "damage one police siren earth warrior word vibrant situate soul lava vocal";
+var mnemonic = "symptom drama glance ball egg disorder reflect bring scout whisper diet private";

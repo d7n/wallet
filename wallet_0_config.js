@@ -1,1 +1,1 @@
-var mnemonic = "okay camp program success unique pigeon youth caught host nose security soap";
+var mnemonic = "price urban whisper family gloom labor destroy slim actual kind craft enough";

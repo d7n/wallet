@@ -1,1 +1,1 @@
-var mnemonic = "brown sting pyramid fringe metal brief walk plunge riot glory among news";
+var mnemonic = "dumb square purchase deputy ordinary mandate actress toward valley dress faint file";

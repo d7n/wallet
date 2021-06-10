@@ -1,1 +1,1 @@
-var mnemonic = "brown choose effort ceiling large athlete uniform engage snap super term holiday";
+var mnemonic = "hero report bicycle tide success patient drop employ alert analyst diary doll";

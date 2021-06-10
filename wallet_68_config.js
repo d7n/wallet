@@ -1,1 +1,1 @@
-var mnemonic = "charge gold tip bamboo because ozone master basic strike convince spin almost";
+var mnemonic = "broken zoo deal margin ranch recall water jacket surface wall movie clay";

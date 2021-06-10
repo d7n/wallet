@@ -1,1 +1,1 @@
-var mnemonic = "legend top spring mechanic busy master brush boat phrase gorilla attack domain";
+var mnemonic = "spoon still release bulb hint sick proud action fortune kiss vocal way";

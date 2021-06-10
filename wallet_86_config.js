@@ -1,1 +1,1 @@
-var mnemonic = "inject unfair help rough skirt worry very armed start hire only mandate";
+var mnemonic = "anger chief eager pottery pulp razor two pelican payment upgrade pepper shoot";

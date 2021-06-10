@@ -1,1 +1,1 @@
-var mnemonic = "bicycle radio panther episode improve gauge squirrel table biology tool extend proof";
+var mnemonic = "feel more duty twin jealous sleep isolate journey enough hover ridge health";

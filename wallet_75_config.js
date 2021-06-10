@@ -1,1 +1,1 @@
-var mnemonic = "stool echo walk alter they between weekend usage follow drive force nest";
+var mnemonic = "version divide business excite idea flip swap food second wrist transfer evoke";

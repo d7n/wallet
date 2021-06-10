@@ -1,1 +1,1 @@
-var mnemonic = "marriage open slim tuition word merry eager roast crucial theme dry say";
+var mnemonic = "vivid divert install frown source hockey divert knife august marine canoe gorilla";

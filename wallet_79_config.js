@@ -1,1 +1,1 @@
-var mnemonic = "spring march face define later cousin battle fresh scissors layer range mobile";
+var mnemonic = "elevator whale hazard midnight rich lecture oyster situate ketchup adjust spend skirt";

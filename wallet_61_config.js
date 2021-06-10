@@ -1,1 +1,1 @@
-var mnemonic = "during survey update void fan barely cluster six clay wife cat charge";
+var mnemonic = "girl write misery cycle bean monkey blur opera surprise token charge moral";

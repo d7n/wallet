@@ -1,1 +1,1 @@
-var mnemonic = "page basket motion nation grocery clock dutch dog often catalog absorb guess";
+var mnemonic = "mass behave lunch once bitter legend please stock powder purpose tail gospel";

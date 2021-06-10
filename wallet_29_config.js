@@ -1,1 +1,1 @@
-var mnemonic = "afraid mind onion setup decorate harvest abuse wild top mobile snack uncle";
+var mnemonic = "alley quote dragon engage miss ride yard dignity few educate result harbor";

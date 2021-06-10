@@ -1,1 +1,1 @@
-var mnemonic = "bus crush van fury beach achieve seat fault artist ranch service word";
+var mnemonic = "attend elbow elbow garlic chair cable second okay salad museum visit random";

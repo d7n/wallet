@@ -1,1 +1,1 @@
-var mnemonic = "easy first embark consider crawl buzz cruise mean absent sting best park";
+var mnemonic = "decide nuclear uncle antique decline lift device dawn fury weekend trumpet uncover";

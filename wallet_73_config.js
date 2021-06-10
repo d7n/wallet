@@ -1,1 +1,1 @@
-var mnemonic = "tail purpose spot parrot grain fan alcohol cancel swift muscle bulb else";
+var mnemonic = "letter sniff very upset kick rely ladder eternal abandon rich fit tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "update squeeze disagree behave bulb pass awful cannon quarter gold rice rack";
+var mnemonic = "globe toy cross radar brown bubble tip demise yellow like orchard priority";

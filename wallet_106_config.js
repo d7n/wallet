@@ -1,1 +1,1 @@
-var mnemonic = "camp bargain auto picture tide discover pink feel crystal second glare scrap";
+var mnemonic = "unlock inside damp company piece happy pet actress news dust pink shuffle";

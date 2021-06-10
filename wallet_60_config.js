@@ -1,1 +1,1 @@
-var mnemonic = "devote wire beach sting aisle mean prefer peanut normal pill host awake";
+var mnemonic = "season steel guide label often gather essay surge address select kiss maple";

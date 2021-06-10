@@ -1,1 +1,1 @@
-var mnemonic = "buddy angry primary girl account fetch lamp ozone forward check honey detect";
+var mnemonic = "member inherit goose wear page erosion reveal prefer ceiling involve slush common";

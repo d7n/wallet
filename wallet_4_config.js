@@ -1,1 +1,1 @@
-var mnemonic = "fitness fortune review below screen tube crash into birth update cancel stuff";
+var mnemonic = "floor person injury conduct zoo kid cherry foot wolf marine tank cement";

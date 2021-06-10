@@ -1,1 +1,1 @@
-var mnemonic = "bunker electric rural victory island tent joy survey banana never daughter unusual";
+var mnemonic = "loop innocent edit orient crew snap faint elevator hotel strike edit minimum";
