@@ -1,1 +1,1 @@
-var mnemonic = "exhibit staff ladder bar what scene enforce silent behave elder enlist detail";
+var mnemonic = "rate funny box roof rubber trumpet happy yellow cloth small educate model";

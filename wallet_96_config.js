@@ -1,1 +1,1 @@
-var mnemonic = "allow subway tooth essence soda tomato box spice mule shield other chest";
+var mnemonic = "middle shallow ill calm still ride warfare aim riot square govern glimpse";

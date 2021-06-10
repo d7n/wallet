@@ -1,1 +1,1 @@
-var mnemonic = "enroll adult price wheat damage together ocean option clever host fiction century";
+var mnemonic = "weapon typical involve label item mimic wealth circle assault abstract ensure unhappy";

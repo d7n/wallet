@@ -1,1 +1,1 @@
-var mnemonic = "elegant adapt bargain execute language festival inquiry tooth monster genre general diamond";
+var mnemonic = "vote feed jelly size present develop slice airport huge broom public blame";

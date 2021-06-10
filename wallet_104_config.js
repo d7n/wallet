@@ -1,1 +1,1 @@
-var mnemonic = "agent milk wage enter scout cloth envelope finish remain chimney media say";
+var mnemonic = "occur someone home faculty number enrich satoshi success ensure craft glide between";

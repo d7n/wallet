@@ -1,1 +1,1 @@
-var mnemonic = "town alpha climb engage close unfold scheme enough engine truck scorpion peasant";
+var mnemonic = "balcony meadow lottery gate economy forget more brand puppy quarter height strategy";

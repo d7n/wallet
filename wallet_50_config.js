@@ -1,1 +1,1 @@
-var mnemonic = "monitor initial box emerge wood season endorse swamp knock bitter axis double";
+var mnemonic = "sentence pistol item glimpse possible lazy vehicle universe enlist intact prize buddy";

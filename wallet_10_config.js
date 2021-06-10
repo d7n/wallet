@@ -1,1 +1,1 @@
-var mnemonic = "vault decline nasty magnet oven gather embark later lecture alpha option giant";
+var mnemonic = "amount ozone announce leader spell sound short jump panda expand style wolf";

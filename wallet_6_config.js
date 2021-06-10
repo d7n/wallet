@@ -1,1 +1,1 @@
-var mnemonic = "someone pipe humble toddler jump brisk tragic swim chuckle object saddle auto";
+var mnemonic = "aspect gossip position day square fury dish scrub cement permit cake skin";

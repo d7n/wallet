@@ -1,1 +1,1 @@
-var mnemonic = "accuse vote audit movie strategy scene puzzle gesture brass social pole three";
+var mnemonic = "portion change mountain bulb nephew rapid noble kite drama stone spray decide";

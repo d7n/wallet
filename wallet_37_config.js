@@ -1,1 +1,1 @@
-var mnemonic = "cattle first shiver wall witness broken initial loop mistake security arrow voice";
+var mnemonic = "pond decline goat age fat galaxy rain nuclear egg reflect flash cake";

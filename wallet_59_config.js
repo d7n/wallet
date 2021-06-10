@@ -1,1 +1,1 @@
-var mnemonic = "mercy during naive okay scatter demise jar shy kiss able night rely";
+var mnemonic = "group involve kitchen prevent remain wisdom divide question produce age equip virtual";

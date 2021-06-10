@@ -1,1 +1,1 @@
-var mnemonic = "balance add nut advance mixture chronic supreme chase come fragile once cream";
+var mnemonic = "camp people sorry survey rough churn fame fluid transfer day virtual voyage";

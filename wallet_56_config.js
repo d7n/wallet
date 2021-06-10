@@ -1,1 +1,1 @@
-var mnemonic = "burger credit sing fragile remain adult key asthma grocery toy knee perfect";
+var mnemonic = "monster wing wrap spot crazy toilet timber series fruit genius guilt black";

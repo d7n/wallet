@@ -1,1 +1,1 @@
-var mnemonic = "simple give alert trap claw member impose slab bike vibrant payment barrel";
+var mnemonic = "long actress palace man slice apart junk safe slim ceiling high calm";

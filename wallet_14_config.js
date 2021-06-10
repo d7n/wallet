@@ -1,1 +1,1 @@
-var mnemonic = "load broom start cave discover use garage skill style source material smooth";
+var mnemonic = "twin rule crouch delay pet hat cook cliff obtain sport toddler tail";

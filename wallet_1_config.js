@@ -1,1 +1,1 @@
-var mnemonic = "outdoor stuff scene hockey trash vital wrong dice spread cute forum gauge";
+var mnemonic = "call clown pulp sport ginger sea moment shrimp beauty rate syrup planet";

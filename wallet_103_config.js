@@ -1,1 +1,1 @@
-var mnemonic = "aisle furnace turkey arch hover divert alarm pitch cannon bamboo soup resist";
+var mnemonic = "arrange ask tiny sport video atom grid add security often route keep";

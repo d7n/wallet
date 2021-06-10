@@ -1,1 +1,1 @@
-var mnemonic = "core one country pyramid puzzle blade immune sun velvet clock girl uphold";
+var mnemonic = "remain kitten empty isolate over donkey old aisle trade tiger cactus bird";

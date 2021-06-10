@@ -1,1 +1,1 @@
-var mnemonic = "town leader grass before note couch drill base jeans slush flame bitter";
+var mnemonic = "media record plunge addict either profit crucial neither vibrant floor mercy foam";

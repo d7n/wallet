@@ -1,1 +1,1 @@
-var mnemonic = "rescue police hazard rude boring agree fine over muffin vendor prize swim";
+var mnemonic = "above quiz false uncover cup bulk faculty search correct cement nephew soap";

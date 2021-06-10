@@ -1,1 +1,1 @@
-var mnemonic = "nest increase second fruit portion tone click shoulder bicycle simple bounce key";
+var mnemonic = "habit piece coral daughter high hammer heart spend long catalog staff alert";

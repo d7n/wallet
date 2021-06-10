@@ -1,1 +1,1 @@
-var mnemonic = "twice lend hood eight horse weather unable utility paper zone since garage";
+var mnemonic = "health ticket sudden scheme fish gun sound immune uniform uncle capital host";

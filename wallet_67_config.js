@@ -1,1 +1,1 @@
-var mnemonic = "witness seed describe govern crew polar fog clerk mother envelope resist auction";
+var mnemonic = "magic display damage muffin clerk various clap lecture observe fatigue bright diary";

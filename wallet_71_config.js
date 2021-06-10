@@ -1,1 +1,1 @@
-var mnemonic = "dish wide high rebel side outdoor across ill sign december hurry evolve";
+var mnemonic = "learn body spirit pear miracle join height dizzy come rate thought cruise";

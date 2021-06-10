@@ -1,1 +1,1 @@
-var mnemonic = "bright kingdom limb punch kidney balcony reason disorder lyrics satisfy treat test";
+var mnemonic = "fruit armor nephew comfort steak space absent laptop decrease toe vault eternal";

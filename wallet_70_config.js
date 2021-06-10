@@ -1,1 +1,1 @@
-var mnemonic = "horse range kangaroo attitude once lazy kangaroo diesel quantum this train scale";
+var mnemonic = "egg shrimp sorry witness modify exact say frame local nest misery primary";

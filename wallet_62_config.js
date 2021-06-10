@@ -1,1 +1,1 @@
-var mnemonic = "faculty jealous voyage quantum accuse live attitude exotic nominee spider inject elbow";
+var mnemonic = "tool simple cruise soul winter average earth casino mimic buffalo test frown";

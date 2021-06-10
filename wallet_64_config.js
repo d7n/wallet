@@ -1,1 +1,1 @@
-var mnemonic = "country anger era rare route stereo cheap elbow board hire wolf curve";
+var mnemonic = "oyster bind plate snake achieve dinosaur fatigue live violin scrub around leader";

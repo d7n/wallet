@@ -1,1 +1,1 @@
-var mnemonic = "copper inform document punch option lesson lake surge olive inhale music blouse";
+var mnemonic = "wonder soldier ugly average claw march anxiety green orphan iron like buddy";

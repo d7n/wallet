@@ -1,1 +1,1 @@
-var mnemonic = "fog flame segment game modify hospital loud copy cement blame gap bulk";
+var mnemonic = "artwork lava system neck night unable shadow oven defy axis sand spare";

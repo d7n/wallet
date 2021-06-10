@@ -1,1 +1,1 @@
-var mnemonic = "method elite since menu come camp table dice reflect poem embark trust";
+var mnemonic = "usual episode option birth together food monitor neither purpose reject draft derive";

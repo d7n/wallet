@@ -1,1 +1,1 @@
-var mnemonic = "conduct report purpose position two slogan bounce obtain chat beauty advance easy";
+var mnemonic = "need aspect believe frost essay maximum struggle pluck lake task mandate swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy chunk carry digital twice drama weapon asset love more home rally";
+var mnemonic = "soccer anger ancient utility skirt local super tone shield know save dice";

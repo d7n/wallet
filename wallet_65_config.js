@@ -1,1 +1,1 @@
-var mnemonic = "alpha clip clerk tribe club family tower woman alter ripple disease hurry";
+var mnemonic = "supreme dice rug when indicate assume citizen dog gadget cheese include ketchup";

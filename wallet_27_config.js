@@ -1,1 +1,1 @@
-var mnemonic = "ability blanket pride vintage human anxiety loop own style cousin case glimpse";
+var mnemonic = "sense quick snake unaware save rain wise guitar sheriff head lady budget";

@@ -1,1 +1,1 @@
-var mnemonic = "boss biology denial use deer ticket since crumble nation crush feature use";
+var mnemonic = "tide change embrace attitude normal hero ancient under walk hill kidney outside";

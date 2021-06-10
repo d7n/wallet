@@ -1,1 +1,1 @@
-var mnemonic = "know cancel clog trick network edit small grass series erosion horror spice";
+var mnemonic = "blur social hard divorce bleak panther labor attend phone ridge bullet visa";

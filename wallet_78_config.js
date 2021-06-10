@@ -1,1 +1,1 @@
-var mnemonic = "devote similar city this large inch moral butter member best across parent";
+var mnemonic = "narrow affair slight avoid unique canvas arctic slender wasp swing hour memory";

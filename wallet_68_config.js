@@ -1,1 +1,1 @@
-var mnemonic = "purse fury grant curve truth hire dinosaur vehicle fault eyebrow negative endless";
+var mnemonic = "tissue grass ugly fork copper shrug fortune humor aunt stove sell mean";

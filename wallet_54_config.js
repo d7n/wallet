@@ -1,1 +1,1 @@
-var mnemonic = "tooth weekend laptop notable artwork timber cannon police chalk embrace morning hill";
+var mnemonic = "one general chuckle mix rail ramp retire hockey round various economy village";

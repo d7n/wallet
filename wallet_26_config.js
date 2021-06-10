@@ -1,1 +1,1 @@
-var mnemonic = "vibrant vendor intact century model total comfort solar banana please squirrel ancient";
+var mnemonic = "pattern stomach industry tide vintage frequent share service sport slight bitter stamp";

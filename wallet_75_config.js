@@ -1,1 +1,1 @@
-var mnemonic = "upset acquire armor measure only swamp erode scheme cost wife primary girl";
+var mnemonic = "lawn width cupboard multiply accident public ecology gravity slim soft myself vibrant";

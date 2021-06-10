@@ -1,1 +1,1 @@
-var mnemonic = "arrive gesture verify mobile horror clean brief nature explain other subject round";
+var mnemonic = "rent course spray salon jacket gaze category praise club humor gossip sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery embrace remind habit weird village rib play pencil monster fancy reason";
+var mnemonic = "water project memory vapor spot crane uphold antenna pledge confirm voyage cart";

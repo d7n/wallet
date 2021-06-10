@@ -1,1 +1,1 @@
-var mnemonic = "health curve wisdom worry junk hospital skill huge senior large rug amazing";
+var mnemonic = "occur slow always dignity broom miss icon code oxygen unaware baby hurt";

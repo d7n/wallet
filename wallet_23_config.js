@@ -1,1 +1,1 @@
-var mnemonic = "virtual vague group unknown strike catch dice turn own elevator dragon stove";
+var mnemonic = "like fish donate december upgrade lawn lesson coast bundle pool trip govern";

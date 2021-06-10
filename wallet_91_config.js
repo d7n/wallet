@@ -1,1 +1,1 @@
-var mnemonic = "security gap pig valve tree chaos escape float matrix slide remind woman";
+var mnemonic = "unhappy gap inform stomach place just cart worry popular future smooth deer";

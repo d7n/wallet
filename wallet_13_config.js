@@ -1,1 +1,1 @@
-var mnemonic = "then avoid reduce inmate renew harbor can special zero cloud deputy library";
+var mnemonic = "awake silk whale survey edge hill club oyster ketchup crisp pottery elegant";

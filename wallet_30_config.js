@@ -1,1 +1,1 @@
-var mnemonic = "hotel defy trend citizen holiday barely blame attitude choice together task taste";
+var mnemonic = "liquid lucky legend barely ribbon pulp magnet immune spawn butter grunt wire";

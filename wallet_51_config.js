@@ -1,1 +1,1 @@
-var mnemonic = "airport eternal vague noodle sudden laundry blind excite spot gloom stand paddle";
+var mnemonic = "mass promote victory glow fabric pull ticket demise inhale chair hawk despair";

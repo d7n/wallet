@@ -1,1 +1,1 @@
-var mnemonic = "embark around record inch boil people believe onion dove coil wave person";
+var mnemonic = "wagon mixture margin misery pulse force oil cabin boring nothing wisdom call";

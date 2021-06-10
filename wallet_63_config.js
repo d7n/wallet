@@ -1,1 +1,1 @@
-var mnemonic = "globe solid cupboard valley stairs culture coconut access solid loan success usage";
+var mnemonic = "question cinnamon scissors pig siege enter view setup knock jungle mad distance";

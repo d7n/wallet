@@ -1,1 +1,1 @@
-var mnemonic = "visit film mimic lava mystery spread chicken rally subway cricket judge average";
+var mnemonic = "survey hospital shop ritual long yellow cancel prefer grief weekend baby pencil";

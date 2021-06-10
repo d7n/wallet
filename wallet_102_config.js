@@ -1,1 +1,1 @@
-var mnemonic = "nice fatigue night into detail exit gown lumber clever lyrics emotion tourist";
+var mnemonic = "project butter vivid phone skirt spin century wool cloth patch effort romance";

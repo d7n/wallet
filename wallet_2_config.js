@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin axis polar depth music giggle ice agent endless that own jeans";
+var mnemonic = "wave sheriff frost muffin flip fork curve cruise dust chalk fiscal town";

@@ -1,1 +1,1 @@
-var mnemonic = "then luxury exit solid wonder mule embody outside tourist decide vibrant rebel";
+var mnemonic = "idle eight sword tourist catalog token garbage trophy wire raw raven valve";

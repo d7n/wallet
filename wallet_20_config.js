@@ -1,1 +1,1 @@
-var mnemonic = "faint point dizzy loyal craft level account dilemma wagon lens base child";
+var mnemonic = "decline sponsor vote claim page initial access chuckle language view supply census";

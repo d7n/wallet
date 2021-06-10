@@ -1,1 +1,1 @@
-var mnemonic = "resemble coyote into taste convince pony lake travel green frog captain fence";
+var mnemonic = "connect inherit life trade wool chapter auction screen quality priority surface pattern";

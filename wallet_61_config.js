@@ -1,1 +1,1 @@
-var mnemonic = "enrich fine stand thumb popular toast hurry busy ask desert shift awake";
+var mnemonic = "wide result moment body school snack wash air animal kiss outer regret";

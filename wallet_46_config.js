@@ -1,1 +1,1 @@
-var mnemonic = "journey hobby board jacket dentist fork nature between truly castle canvas slab";
+var mnemonic = "arrest tunnel unaware blue crop clap layer city era dinosaur skin phrase";

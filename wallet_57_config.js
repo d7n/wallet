@@ -1,1 +1,1 @@
-var mnemonic = "ghost south chuckle drill asset summer assault saddle volcano lecture short moral";
+var mnemonic = "broccoli play civil reflect marriage strategy couple search wait ostrich angle travel";

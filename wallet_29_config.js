@@ -1,1 +1,1 @@
-var mnemonic = "coconut elevator hope color learn draft era busy clutch solution indicate sign";
+var mnemonic = "someone daring quick clever okay jar correct high carpet fall kangaroo primary";

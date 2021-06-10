@@ -1,1 +1,1 @@
-var mnemonic = "zebra stick mule other idea wet approve method minimum guard parade asthma";
+var mnemonic = "join cinnamon custom check crowd hold shed soft sketch reason toilet pond";

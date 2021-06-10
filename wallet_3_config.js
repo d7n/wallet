@@ -1,1 +1,1 @@
-var mnemonic = "mango midnight wheat friend crater news undo kangaroo wall east wall minimum";
+var mnemonic = "success draw donate various only odor feature modify super crane chronic fancy";

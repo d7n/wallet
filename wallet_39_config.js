@@ -1,1 +1,1 @@
-var mnemonic = "drum stool route elevator pole math hobby jungle helmet ride destroy poem";
+var mnemonic = "cup staff absent now beauty bread believe senior silent special name hello";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado fat acquire body couch hair artwork leaf diet obey pattern better";
+var mnemonic = "stage left glare endless trip logic frame dwarf shiver recycle basket frozen";

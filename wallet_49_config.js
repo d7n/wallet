@@ -1,1 +1,1 @@
-var mnemonic = "color young heavy nut nice awesome high segment curve develop hour emotion";
+var mnemonic = "bulb sister twin gather aisle various pencil remain sadness old couch salute";

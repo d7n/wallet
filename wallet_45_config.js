@@ -1,1 +1,1 @@
-var mnemonic = "future wear like hope slice ghost celery strike excuse return stairs wrap";
+var mnemonic = "force demand easy vital hard satoshi budget shoe rely unlock number depend";

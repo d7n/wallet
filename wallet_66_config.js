@@ -1,1 +1,1 @@
-var mnemonic = "render put plug shift risk library force hip float still machine put";
+var mnemonic = "glance purity sign timber obtain frozen manage join lawn cushion leaf stable";

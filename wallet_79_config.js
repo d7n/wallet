@@ -1,1 +1,1 @@
-var mnemonic = "cargo tube trash bottom warfare ranch confirm repeat wealth gas razor salt";
+var mnemonic = "ivory confirm cruise art dove wide loan rebuild expect glance useless step";

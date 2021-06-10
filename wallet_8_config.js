@@ -1,1 +1,1 @@
-var mnemonic = "dream pigeon toilet erode call want draft tomato evolve blast drama insect";
+var mnemonic = "crisp motion diet hazard pioneer position mad voice banner rice virus tiny";

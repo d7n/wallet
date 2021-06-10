@@ -1,1 +1,1 @@
-var mnemonic = "march myself off acquire child crucial name fringe embark wrestle cave duck";
+var mnemonic = "family possible uniform rapid inflict fresh ivory melt member hurry erase thunder";

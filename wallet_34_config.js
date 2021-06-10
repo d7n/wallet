@@ -1,1 +1,1 @@
-var mnemonic = "bacon anchor faculty scheme smoke faith truly chapter puppy type resource lake";
+var mnemonic = "novel neck machine purity breeze update truly chase crumble burden test ecology";

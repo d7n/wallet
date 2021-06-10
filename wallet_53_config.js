@@ -1,1 +1,1 @@
-var mnemonic = "mesh exit slim thank hint school green clean air dress umbrella drill";
+var mnemonic = "easy expose action rabbit cheese cabin eternal ski mixed advice animal glow";

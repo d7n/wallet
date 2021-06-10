@@ -1,1 +1,1 @@
-var mnemonic = "treat aisle sponsor pioneer clarify decide recycle muffin sugar culture ketchup shuffle";
+var mnemonic = "lazy effort speed rebuild casual sister scheme tail fine mushroom hospital climb";

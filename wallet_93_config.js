@@ -1,1 +1,1 @@
-var mnemonic = "rotate van elite vanish amount emerge burden twist elephant length oval gorilla";
+var mnemonic = "night bid shiver sing park angry easy moral half chapter much fish";

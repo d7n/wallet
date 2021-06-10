@@ -1,1 +1,1 @@
-var mnemonic = "cage soldier rapid smile assault disease heavy point dismiss tennis later core";
+var mnemonic = "please pill sell small hockey pair tilt normal ethics olympic gate cupboard";

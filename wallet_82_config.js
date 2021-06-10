@@ -1,1 +1,1 @@
-var mnemonic = "initial team degree zebra uniform walnut ketchup fatal utility clerk nuclear gasp";
+var mnemonic = "bleak timber filter entire giant author tennis myth right nest fiction swift";

@@ -1,1 +1,1 @@
-var mnemonic = "oil census truck depart dose confirm mirror law purity reflect aspect pool";
+var mnemonic = "diagram victory obey field atom alter suit couple robust faint cream leopard";

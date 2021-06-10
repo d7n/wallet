@@ -1,1 +1,1 @@
-var mnemonic = "venture embark able pilot sheriff void merry furnace summer tooth tissue method";
+var mnemonic = "maple grow pyramid flash remove ignore still inspire recall page rapid major";

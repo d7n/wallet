@@ -1,1 +1,1 @@
-var mnemonic = "wash giggle output level rescue hedgehog advice execute spy luxury asthma surprise";
+var mnemonic = "record mix announce amateur extra kite exchange unique edit soft fat novel";

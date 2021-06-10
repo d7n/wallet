@@ -1,1 +1,1 @@
-var mnemonic = "under pitch excuse tape isolate hero someone noise spatial blood lens label";
+var mnemonic = "truck arrive brief valid word brain hello spare finish series best water";

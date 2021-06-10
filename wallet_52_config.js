@@ -1,1 +1,1 @@
-var mnemonic = "exercise book uncle hour tube immense flat birth dirt owner cigar embody";
+var mnemonic = "belt prison lounge layer smile then such kiwi comfort sheriff shove vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar intact middle benefit busy piano cave survey gain explain pen joke";
+var mnemonic = "whisper match rebuild regret follow minute door rebel barely gauge acquire shuffle";

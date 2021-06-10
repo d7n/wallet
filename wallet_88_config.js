@@ -1,1 +1,1 @@
-var mnemonic = "pen ready solution truly away vocal mule start jaguar charge room dry";
+var mnemonic = "define live muffin clog remain force elevator ability radio volcano patch forest";

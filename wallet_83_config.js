@@ -1,1 +1,1 @@
-var mnemonic = "space arrow high sign hair ice forward ten average miracle hawk fruit";
+var mnemonic = "hand wealth melt give alley solution before topic unlock mandate bean hint";

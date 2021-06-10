@@ -1,1 +1,1 @@
-var mnemonic = "actual planet east market ritual detail obscure verb arrive morning program spend";
+var mnemonic = "cereal peasant trade patrol addict equal beach woman hat universe roast champion";

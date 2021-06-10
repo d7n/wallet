@@ -1,1 +1,1 @@
-var mnemonic = "crime world critic concert tobacco street real auction what rapid toy success";
+var mnemonic = "sibling tribe salon alien endorse almost pencil leaf pupil cruise pluck slight";
