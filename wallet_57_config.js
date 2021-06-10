@@ -1,1 +1,1 @@
-var mnemonic = "insane buddy parade code priority village earn morning auto auto improve submit";
+var mnemonic = "cement butter mass track boost panda merit response hurry message search skin";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor prosper enemy level joy kiss uphold jealous until top zone twelve";
+var mnemonic = "furnace sport celery company manage sniff slush budget oyster few broccoli slush";

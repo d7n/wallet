@@ -1,1 +1,1 @@
-var mnemonic = "situate push glow lava decorate west foil fox burger soldier alpha label";
+var mnemonic = "coral ostrich meat warm room submit quote make champion toilet gentle onion";

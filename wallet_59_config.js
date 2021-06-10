@@ -1,1 +1,1 @@
-var mnemonic = "list okay wolf enact advance pass essence satoshi bronze make beef wrist";
+var mnemonic = "spirit awake royal dice predict knock pet asset warm estate primary couple";

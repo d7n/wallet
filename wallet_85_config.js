@@ -1,1 +1,1 @@
-var mnemonic = "resist menu among pass drama sniff cause rib misery vacuum nurse news";
+var mnemonic = "ten hundred arrest because high measure near float capable note mouse beef";

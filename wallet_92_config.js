@@ -1,1 +1,1 @@
-var mnemonic = "fitness army animal charge chimney field vendor exact current deposit crouch kit";
+var mnemonic = "people stumble fiscal mirror skin nose pulp pottery divorce rural medal food";

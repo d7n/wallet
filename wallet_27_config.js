@@ -1,1 +1,1 @@
-var mnemonic = "lonely idle renew apple fix discover almost orient age park ordinary reward";
+var mnemonic = "laptop reject salt define wet flip surface area umbrella furnace hill palm";

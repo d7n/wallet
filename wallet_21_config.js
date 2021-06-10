@@ -1,1 +1,1 @@
-var mnemonic = "exercise tribe upper liar tree sure mutual panic inform shove defense raven";
+var mnemonic = "also attack section tail vacant stem kiwi marble age okay drink ocean";

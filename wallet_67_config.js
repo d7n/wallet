@@ -1,1 +1,1 @@
-var mnemonic = "portion fetch oppose tourist boring auction blush decline primary differ trumpet renew";
+var mnemonic = "truly waste cradle scheme bomb belt cousin proof enroll ketchup expire abstract";

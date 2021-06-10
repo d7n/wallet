@@ -1,1 +1,1 @@
-var mnemonic = "key float orange ritual unhappy broccoli invest direct raw keen park charge";
+var mnemonic = "flower know balcony gun volume legend ripple gas decorate private regular tornado";

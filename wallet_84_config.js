@@ -1,1 +1,1 @@
-var mnemonic = "scorpion prosper melody fitness citizen session ill truth trumpet choose animal valley";
+var mnemonic = "juice next history dose exotic people small hurdle elder certain ecology sea";

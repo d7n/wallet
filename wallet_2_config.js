@@ -1,1 +1,1 @@
-var mnemonic = "idea material search aspect solve original beyond allow awake token atom skill";
+var mnemonic = "derive black legal oval monkey barely toddler error purity crane canal fantasy";

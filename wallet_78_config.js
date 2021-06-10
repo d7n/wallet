@@ -1,1 +1,1 @@
-var mnemonic = "south wealth flash open gospel enable negative suffer asset dose own trend";
+var mnemonic = "nature crop blind exercise zoo woman poverty dynamic object glare topic universe";

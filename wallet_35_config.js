@@ -1,1 +1,1 @@
-var mnemonic = "lock electric wave they champion foster achieve crunch gaze toss mechanic before";
+var mnemonic = "claim father sing swamp loyal bullet olive welcome rescue swamp define turkey";

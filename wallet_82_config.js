@@ -1,1 +1,1 @@
-var mnemonic = "cool virus side survey zone kitten hungry believe outdoor senior camp child";
+var mnemonic = "basket proud dress clap galaxy keep suggest winter orient hammer success dad";

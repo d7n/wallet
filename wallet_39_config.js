@@ -1,1 +1,1 @@
-var mnemonic = "coach right debate weather response model useful hedgehog drum vapor level sand";
+var mnemonic = "kid seek arrest unit outdoor add kick become stock sustain axis gain";

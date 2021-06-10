@@ -1,1 +1,1 @@
-var mnemonic = "mutual biology crisp west flee melody risk vivid moral child cat renew";
+var mnemonic = "wheat middle morning aspect soul chapter century provide scatter across trophy topic";

@@ -1,1 +1,1 @@
-var mnemonic = "panic myth nurse elbow approve fox tilt animal slot design stock flee";
+var mnemonic = "peace reveal genre normal soul later stage glory omit sound mom predict";

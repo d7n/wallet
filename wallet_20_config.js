@@ -1,1 +1,1 @@
-var mnemonic = "baby lucky evolve sail crater danger exhaust pear organ city erase later";
+var mnemonic = "manage rose eight recipe dial shield thought void gun submit myth hero";

@@ -1,1 +1,1 @@
-var mnemonic = "truck domain donor garment outside pool chef country second oxygen orange dirt";
+var mnemonic = "woman fruit consider peasant menu better hawk jump hip aim buffalo across";

@@ -1,1 +1,1 @@
-var mnemonic = "room lottery brisk salon again reward inflict desert shift lazy humble mail";
+var mnemonic = "bulb grocery tank tool reflect system toe current hen jelly agree verb";

@@ -1,1 +1,1 @@
-var mnemonic = "life plate sleep polar like canyon wealth tuna divert moral belt involve";
+var mnemonic = "release gravity entry sort claim mean toast bench reject guess orbit blind";

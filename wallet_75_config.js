@@ -1,1 +1,1 @@
-var mnemonic = "shove tomato lab please lounge deer sport half cake easy century bread";
+var mnemonic = "come damage cable faint arrest aunt oven minor cannon face voice north";

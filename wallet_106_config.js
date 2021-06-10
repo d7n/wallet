@@ -1,1 +1,1 @@
-var mnemonic = "dilemma bind stumble skull napkin grape strategy come damp blanket away uncle";
+var mnemonic = "pool memory measure iron face design local eager appear sign pumpkin embody";

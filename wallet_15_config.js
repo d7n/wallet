@@ -1,1 +1,1 @@
-var mnemonic = "awful garbage siege later twelve roast copy trim mother blast caution strike";
+var mnemonic = "ancient quote ten layer total belt armed before vote industry fabric keen";

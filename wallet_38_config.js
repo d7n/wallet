@@ -1,1 +1,1 @@
-var mnemonic = "arm talk sister depth trip face page math impose adjust foil knee";
+var mnemonic = "exhaust clump shine salmon smoke adjust hunt crush wide silver enforce worry";

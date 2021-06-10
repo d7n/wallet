@@ -1,1 +1,1 @@
-var mnemonic = "merit saddle okay dizzy dance diary two goddess mosquito report carry banana";
+var mnemonic = "credit purity trouble wrestle cat reflect canal asthma level judge sun fiction";

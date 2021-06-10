@@ -1,1 +1,1 @@
-var mnemonic = "become dream cruise list detail devote bring quit range coral home mass";
+var mnemonic = "force position quiz cousin elder force want guard jaguar industry base airport";

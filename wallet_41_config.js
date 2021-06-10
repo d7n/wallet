@@ -1,1 +1,1 @@
-var mnemonic = "pupil city increase frozen throw spice film pumpkin unlock pilot obtain auto";
+var mnemonic = "evoke hungry cry fun sibling disease annual evidence collect trust spend host";

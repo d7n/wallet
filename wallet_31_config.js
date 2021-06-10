@@ -1,1 +1,1 @@
-var mnemonic = "increase olive two van shy hover mushroom cupboard crazy trial round trash";
+var mnemonic = "insane afraid vendor roof bring reduce stage tattoo orange wrist pudding crisp";

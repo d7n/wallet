@@ -1,1 +1,1 @@
-var mnemonic = "math powder sweet cupboard autumn humble awful long speed rail shoulder cannon";
+var mnemonic = "peace ridge better lunar best future pilot tired amazing monster abstract witness";

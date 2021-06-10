@@ -1,1 +1,1 @@
-var mnemonic = "alarm cricket embrace manual slab remind next ugly husband captain call vast";
+var mnemonic = "agree have scatter because clever evil truck crystal box weather honey pet";

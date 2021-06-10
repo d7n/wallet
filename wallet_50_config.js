@@ -1,1 +1,1 @@
-var mnemonic = "door media spray strike crunch cat wear siege head element mistake live";
+var mnemonic = "shuffle slam useless domain day immense increase sign purchase trouble economy public";

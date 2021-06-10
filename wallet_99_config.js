@@ -1,1 +1,1 @@
-var mnemonic = "pizza kite ankle plastic gap design tennis circle early vacuum already liquid";
+var mnemonic = "champion end catalog world pipe lava oak setup energy artefact jar endorse";

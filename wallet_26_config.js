@@ -1,1 +1,1 @@
-var mnemonic = "muscle pair girl mouse design spot shrug toy busy sport stereo riot";
+var mnemonic = "dragon front middle above garden gas rain draft friend omit firm panel";

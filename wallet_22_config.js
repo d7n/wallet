@@ -1,1 +1,1 @@
-var mnemonic = "noise hill govern risk fee dress skate charge trash diamond orange west";
+var mnemonic = "pen message shadow catch together winter coffee perfect gift between parent click";

@@ -1,1 +1,1 @@
-var mnemonic = "payment catalog leopard cactus post item crunch river evidence duty forward drive";
+var mnemonic = "exclude satoshi climb invite bicycle ecology toe emerge senior hammer fence supply";

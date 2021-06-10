@@ -1,1 +1,1 @@
-var mnemonic = "comic talent wonder usual stable ball slot act echo broccoli jungle impulse";
+var mnemonic = "now buffalo fame man clerk apple motor pond voice reward loud blood";

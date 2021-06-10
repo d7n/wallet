@@ -1,1 +1,1 @@
-var mnemonic = "trial couch excuse tone oxygen absorb abandon rapid marriage pudding judge love";
+var mnemonic = "magic ten trash alcohol bus magnet oven galaxy expand risk grow holiday";

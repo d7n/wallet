@@ -1,1 +1,1 @@
-var mnemonic = "sausage into genuine apple kick urge morning moon decade high other range";
+var mnemonic = "labor rocket merry coffee trash slush capital heavy lazy cream ring brother";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile define way piano clinic inform suggest filter claw wing exercise plug";
+var mnemonic = "lunar visa ill exit taste series turtle vault draft shrimp tip come";

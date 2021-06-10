@@ -1,1 +1,1 @@
-var mnemonic = "enough impact hawk rocket focus dress business general amazing witness history favorite";
+var mnemonic = "move carry excess deputy mistake direct success speak limb picnic ready during";

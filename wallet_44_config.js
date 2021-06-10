@@ -1,1 +1,1 @@
-var mnemonic = "victory valley casino fix shoot rough jungle police rice promote thank beauty";
+var mnemonic = "tent hope nose hello rate wine slab stone august doll venture ill";

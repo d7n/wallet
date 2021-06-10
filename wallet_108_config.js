@@ -1,1 +1,1 @@
-var mnemonic = "express extra joy gym monkey legend ill uncle cup cross lobster meadow";
+var mnemonic = "foam remind bottom kiwi boring kid nose punch captain junk wing spare";

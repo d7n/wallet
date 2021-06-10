@@ -1,1 +1,1 @@
-var mnemonic = "lesson predict ensure usage breeze void tree error cable assist learn moon";
+var mnemonic = "opera woman setup track weapon test into hunt vivid ankle rich race";

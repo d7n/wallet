@@ -1,1 +1,1 @@
-var mnemonic = "surge satoshi neck antenna cycle card stool tragic term armor judge soon";
+var mnemonic = "address camp parent gap frost middle frozen cage wagon verb thing series";

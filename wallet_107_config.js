@@ -1,1 +1,1 @@
-var mnemonic = "supply better mesh lucky negative swim cattle result learn bring settle adjust";
+var mnemonic = "east visual creek audit search shoot horn chimney kitten kiwi front soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "mail hand panel truth soft west fox possible edit lounge lobster unable";
+var mnemonic = "firm under mouse invite person exchange depend orient behind wire solar beyond";

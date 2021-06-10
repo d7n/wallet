@@ -1,1 +1,1 @@
-var mnemonic = "garden sauce antenna quarter soldier need angry agree mask sponsor blood priority";
+var mnemonic = "bamboo column almost opera regular vocal clump move claw omit profit buzz";

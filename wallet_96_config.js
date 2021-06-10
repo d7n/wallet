@@ -1,1 +1,1 @@
-var mnemonic = "evolve kick labor play east bread pudding risk universe ghost lawn cotton";
+var mnemonic = "clap aware van slogan utility zebra brass core poem album clock skirt";

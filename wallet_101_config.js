@@ -1,1 +1,1 @@
-var mnemonic = "then mother eagle return expire bicycle salute mean seat bless offer inform";
+var mnemonic = "gallery resource toe oblige glance educate uniform become gentle marriage crunch father";

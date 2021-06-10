@@ -1,1 +1,1 @@
-var mnemonic = "fire quiz prevent scheme wisdom knife tone lava hawk expose cook mosquito";
+var mnemonic = "palace save cage april holiday laugh praise nation lyrics patient feel beyond";

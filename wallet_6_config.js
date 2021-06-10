@@ -1,1 +1,1 @@
-var mnemonic = "tool virtual dilemma host width wire reopen lava sunset eagle build squeeze";
+var mnemonic = "debate home plug rabbit nephew cluster outdoor test indicate visa neglect snake";

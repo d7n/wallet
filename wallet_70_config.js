@@ -1,1 +1,1 @@
-var mnemonic = "clever music half daughter best gaze hospital mesh where gospel avocado alter";
+var mnemonic = "key mechanic sudden birth veteran hope large report art debate runway unique";

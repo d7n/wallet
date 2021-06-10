@@ -1,1 +1,1 @@
-var mnemonic = "genius sun bar dune one rare renew silent rely luggage obvious song";
+var mnemonic = "allow blade buyer crumble poverty phrase leave vote degree vocal assault fury";

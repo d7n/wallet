@@ -1,1 +1,1 @@
-var mnemonic = "garbage evolve beef water minute twelve subway fat category fantasy fold height";
+var mnemonic = "pen kite clog turn indoor unhappy blouse story police quiz elite antenna";

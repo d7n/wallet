@@ -1,1 +1,1 @@
-var mnemonic = "kitchen goat naive hungry potato bacon afraid admit maximum night oak eye";
+var mnemonic = "guilt east tuna remove fog market cave famous spend employ advice monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster certain buffalo art wheel brush walnut machine someone juice subway picture";
+var mnemonic = "discover wisdom explain letter evil uniform pioneer unknown reject canyon foil raise";

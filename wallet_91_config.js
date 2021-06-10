@@ -1,1 +1,1 @@
-var mnemonic = "awful slush what zebra case credit settle dove sun deer surprise pull";
+var mnemonic = "absorb ice estate file there oak vote favorite clever album loop column";

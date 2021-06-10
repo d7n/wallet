@@ -1,1 +1,1 @@
-var mnemonic = "bone shock net foil sell expect rubber aerobic rich negative ensure ancient";
+var mnemonic = "tunnel need toss pudding funny tiny angry ancient end arm fit gate";

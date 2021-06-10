@@ -1,1 +1,1 @@
-var mnemonic = "diamond cinnamon warfare evoke plastic refuse noodle ugly plate easily frown banana";
+var mnemonic = "work into bicycle nasty great motion obscure wet airport horror neutral replace";

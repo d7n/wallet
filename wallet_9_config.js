@@ -1,1 +1,1 @@
-var mnemonic = "merit ladder horse armor arrive cinnamon liar average guitar wall impulse grid";
+var mnemonic = "spring movie index paper fortune engine option fragile balcony census melody eager";

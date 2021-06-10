@@ -1,1 +1,1 @@
-var mnemonic = "frown skill broken trend survey join age puzzle whip trick actual crowd";
+var mnemonic = "program stairs hard sugar surge obtain random ostrich remind ocean sphere hub";

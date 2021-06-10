@@ -1,1 +1,1 @@
-var mnemonic = "wide into wreck stuff same raccoon fashion goose grit marble comfort urge";
+var mnemonic = "smoke pear year burden swing mention file tonight essay round wish cluster";

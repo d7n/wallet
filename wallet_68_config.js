@@ -1,1 +1,1 @@
-var mnemonic = "spare slab crater symbol ocean gown edit eye inject idea paper average";
+var mnemonic = "rotate fringe price lunch company inhale guilt fringe start reward flash easily";

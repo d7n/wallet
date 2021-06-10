@@ -1,1 +1,1 @@
-var mnemonic = "analyst brand fossil annual animal hockey gold weasel yard success meadow stamp";
+var mnemonic = "ancient blur pony praise around soccer syrup solution jazz erode tail round";

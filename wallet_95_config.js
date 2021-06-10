@@ -1,1 +1,1 @@
-var mnemonic = "agree color crack together sunset panther solution guard erosion also pizza token";
+var mnemonic = "print brave fence soul swift fog ensure fine evolve assume track toe";

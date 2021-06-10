@@ -1,1 +1,1 @@
-var mnemonic = "rebel pupil stamp blade style foster tired produce good pass swarm south";
+var mnemonic = "welcome reform arrange law occur win park opera warrior hood clay kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "purse manual ugly evoke talk ridge squirrel exact bottom useless source piece";
+var mnemonic = "seed fiction enrich chunk absent small tonight maple snake myself blame lottery";

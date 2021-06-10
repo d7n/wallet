@@ -1,1 +1,1 @@
-var mnemonic = "blanket wheat moon laugh acid dizzy together volume receive rather outdoor ritual";
+var mnemonic = "unfold slight firm route stuff vacant amused kitchen ancient mule impact pony";

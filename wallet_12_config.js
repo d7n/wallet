@@ -1,1 +1,1 @@
-var mnemonic = "still fee canal appear absorb bind dove profit museum range frequent gossip";
+var mnemonic = "produce disorder lottery helmet dragon audit warm happy pony ecology chef mind";

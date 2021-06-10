@@ -1,1 +1,1 @@
-var mnemonic = "acquire scrub arch source steel jaguar access sword index school because chase";
+var mnemonic = "disagree quick glow blur forest noise sheriff erase before consider used arrive";

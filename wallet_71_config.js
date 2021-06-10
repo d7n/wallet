@@ -1,1 +1,1 @@
-var mnemonic = "armor cattle pudding visit slot twenty post height income athlete bird prize";
+var mnemonic = "attend egg settle horn close teach clarify place release sick west struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil load hub pool word shoulder cart shell bone ozone cat nut";
+var mnemonic = "phrase cargo private total elephant chronic ability stone stem vote employ alpha";

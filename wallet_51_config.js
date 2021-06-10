@@ -1,1 +1,1 @@
-var mnemonic = "cactus minor march cargo require element cereal foster bind horn shallow step";
+var mnemonic = "pizza mirror carry sister pair stuff narrow notable unit glow logic crash";

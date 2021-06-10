@@ -1,1 +1,1 @@
-var mnemonic = "funny gate aware measure slender lake mushroom empty wild evolve food smoke";
+var mnemonic = "monkey hand era manual treat humble enact spread upper woman current basic";

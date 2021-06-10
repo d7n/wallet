@@ -1,1 +1,1 @@
-var mnemonic = "planet ring erosion copy sister virus journey health love quantum volcano amazing";
+var mnemonic = "blind owner quality dwarf member accuse very nominee alley type casino thank";

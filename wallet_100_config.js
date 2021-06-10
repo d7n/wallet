@@ -1,1 +1,1 @@
-var mnemonic = "end damage spread used great relax visual motion evolve black rich outdoor";
+var mnemonic = "truck february spirit enjoy feature recipe bind joke main bridge core arm";

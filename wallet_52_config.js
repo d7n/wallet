@@ -1,1 +1,1 @@
-var mnemonic = "flat upset actual chunk funny win unfold tobacco sister tomorrow mesh dynamic";
+var mnemonic = "famous wedding cactus hockey mercy option combine place chuckle domain unusual permit";

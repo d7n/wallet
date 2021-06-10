@@ -1,1 +1,1 @@
-var mnemonic = "option speak spirit isolate bracket earth old burst wink soul audit crouch";
+var mnemonic = "feed flower sniff crumble give chat bargain reveal crunch jar subway accident";

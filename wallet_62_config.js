@@ -1,1 +1,1 @@
-var mnemonic = "spare wall front rely fun elite perfect potato eternal jump police pride";
+var mnemonic = "damp depart circle inform ask awesome attract thought else rotate explain argue";

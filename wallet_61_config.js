@@ -1,1 +1,1 @@
-var mnemonic = "betray repair item resist potato alley early bubble mail pond little symbol";
+var mnemonic = "suffer monster sample road lizard candy turkey water guitar cement forget summer";

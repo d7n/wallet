@@ -1,1 +1,1 @@
-var mnemonic = "wish island recall rate sun bomb price lab butter summer leopard federal";
+var mnemonic = "valid arctic file perfect enter people stone trend shed axis funny miss";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal bless vibrant roof gloom hurry joke dignity script frown lunch beach";
+var mnemonic = "hood tragic virtual lemon boat course manual bread punch tone pattern acoustic";

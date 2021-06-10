@@ -1,1 +1,1 @@
-var mnemonic = "gasp flip wisdom token outside garlic borrow coach snack protect dawn already";
+var mnemonic = "victory right slow document apart sample festival lecture involve addict shrimp draft";

@@ -1,1 +1,1 @@
-var mnemonic = "smart solar month pyramid hold prosper crime magnet fall curtain coast engine";
+var mnemonic = "file unfair pepper replace analyst aerobic differ athlete smile echo draft awake";
