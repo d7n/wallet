@@ -1,1 +1,1 @@
-var mnemonic = "neck snap tuna exile high west imitate idea ripple rubber tiger million";
+var mnemonic = "unfold excite pet way cricket safe cement giggle gold boost bachelor copper";

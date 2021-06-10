@@ -1,1 +1,1 @@
-var mnemonic = "cheap want cement rug table tiny orbit close acquire lumber tower affair";
+var mnemonic = "amount essence very glue ordinary kind dust action trip vivid license uphold";

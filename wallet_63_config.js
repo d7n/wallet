@@ -1,1 +1,1 @@
-var mnemonic = "upon thank runway kid monkey dice side soul cactus notable forget rocket";
+var mnemonic = "quality drive forget toward blame tuition rare dose doll into any cattle";

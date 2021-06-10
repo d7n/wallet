@@ -1,1 +1,1 @@
-var mnemonic = "portion gravity manage truck scissors cattle hello valley ritual trigger actor example";
+var mnemonic = "quarter hybrid resemble zebra vault olive lounge view network vintage orient uniform";

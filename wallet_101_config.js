@@ -1,1 +1,1 @@
-var mnemonic = "stone length opinion fetch legal zone tray senior lake season sense brother";
+var mnemonic = "way era absent feel clever depth fly poverty young organ family unhappy";

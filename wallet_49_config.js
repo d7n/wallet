@@ -1,1 +1,1 @@
-var mnemonic = "minute history blast jewel shiver sense ghost hello tent census rather spread";
+var mnemonic = "poem candy pluck lion empower essay advice digital kiss paper curious between";

@@ -1,1 +1,1 @@
-var mnemonic = "gather arena slow impact harvest vapor provide balcony coast action discover visa";
+var mnemonic = "jaguar divide subway crush else jazz blast repeat era cheese flavor price";

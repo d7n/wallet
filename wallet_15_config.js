@@ -1,1 +1,1 @@
-var mnemonic = "length access live unlock surge ethics crouch elder approve state own deputy";
+var mnemonic = "modify shove uncover relief salmon fiscal swift bulb divert rhythm romance entry";

@@ -1,1 +1,1 @@
-var mnemonic = "capable muffin best point gather hover unveil absurd nominee tobacco humble cricket";
+var mnemonic = "deputy scale health begin path prevent mail dirt armor fold engine educate";

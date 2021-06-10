@@ -1,1 +1,1 @@
-var mnemonic = "scorpion finger erase must fame scatter lesson volume seed reject gap hint";
+var mnemonic = "autumn silver fitness slide chunk shock patrol result model ahead cloud night";

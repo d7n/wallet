@@ -1,1 +1,1 @@
-var mnemonic = "velvet diary candy invest escape wine wisdom quality case armor race wise";
+var mnemonic = "doctor history service actor cat chronic oppose involve sleep route unable release";

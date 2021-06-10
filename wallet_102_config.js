@@ -1,1 +1,1 @@
-var mnemonic = "evil spoil sorry glance outer outside couch voice garlic case grab proud";
+var mnemonic = "trip fire antique fly blast subway alien aware mystery boring lecture boy";

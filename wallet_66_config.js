@@ -1,1 +1,1 @@
-var mnemonic = "suit physical trap diamond start judge fun good write april anger area";
+var mnemonic = "rain jaguar project title believe miss logic cycle service rubber online banner";

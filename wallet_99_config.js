@@ -1,1 +1,1 @@
-var mnemonic = "keen east ripple flush toe bounce that rubber wait special flower chaos";
+var mnemonic = "blast absorb lucky fresh club link shove busy present west fish frequent";

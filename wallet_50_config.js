@@ -1,1 +1,1 @@
-var mnemonic = "lumber camera iron size mother winter lift digital step magic canvas praise";
+var mnemonic = "poverty panther diary stable enroll into teach push brother napkin cereal company";

@@ -1,1 +1,1 @@
-var mnemonic = "explain celery pizza cake mechanic mistake embrace february picture exist index protect";
+var mnemonic = "inflict glove ticket machine salt sorry hospital parade flight rotate steel rabbit";

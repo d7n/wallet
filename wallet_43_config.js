@@ -1,1 +1,1 @@
-var mnemonic = "vicious dawn typical goat setup avocado ice wheel whip bacon case enrich";
+var mnemonic = "pave typical poverty twenty recall cool size avoid art ghost symptom same";

@@ -1,1 +1,1 @@
-var mnemonic = "eager adult carry nurse fee monkey display cereal typical absorb agent open";
+var mnemonic = "dawn choice merry view leopard chicken distance session common denial stand camp";

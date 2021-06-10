@@ -1,1 +1,1 @@
-var mnemonic = "stadium army strong fat match demand host sleep laugh fall umbrella teach";
+var mnemonic = "core month toilet merge twenty focus then mom village suggest lock grape";

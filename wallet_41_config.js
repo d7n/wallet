@@ -1,1 +1,1 @@
-var mnemonic = "isolate sugar worry affair like ready prepare swap embark exhibit glow caution";
+var mnemonic = "reflect royal delay veteran cabin jacket answer exhaust response conduct sing mass";

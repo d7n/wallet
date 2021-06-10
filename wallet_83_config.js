@@ -1,1 +1,1 @@
-var mnemonic = "hurdle kangaroo vast snake acoustic staff quit meat rotate kidney mom absent";
+var mnemonic = "recipe approve any timber flag regular result safe coast toss ginger illness";

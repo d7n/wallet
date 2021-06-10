@@ -1,1 +1,1 @@
-var mnemonic = "hen tomorrow benefit squeeze arrow chunk diamond giant magnet toddler fire trial";
+var mnemonic = "scout certain squirrel time seek rigid steak survey inside toward fiscal mom";

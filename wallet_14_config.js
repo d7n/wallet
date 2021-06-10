@@ -1,1 +1,1 @@
-var mnemonic = "hurt fury urban axis confirm glass about arrange thunder replace cinnamon end";
+var mnemonic = "conduct merry enjoy half mother brother evolve wrestle little poverty one update";

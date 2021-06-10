@@ -1,1 +1,1 @@
-var mnemonic = "speed neutral trial alcohol bunker image prefer forest mail pilot beach anger";
+var mnemonic = "frequent original follow deal minor soap inch style much you suffer shoot";

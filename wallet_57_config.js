@@ -1,1 +1,1 @@
-var mnemonic = "business shadow dose pair frozen grid shaft crowd path october divide punch";
+var mnemonic = "immune quarter able flock much timber trick video rally abandon ski scorpion";

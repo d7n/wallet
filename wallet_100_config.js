@@ -1,1 +1,1 @@
-var mnemonic = "movie share stereo forward champion lesson memory tobacco awkward spray sniff ramp";
+var mnemonic = "remain car cover language winter portion replace warrior appear legal pattern rent";

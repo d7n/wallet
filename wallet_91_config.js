@@ -1,1 +1,1 @@
-var mnemonic = "science hat learn pretty chief metal soft brass physical kiss cloud mammal";
+var mnemonic = "marriage pond crawl decade shrug inch gold cluster future plate recycle brown";

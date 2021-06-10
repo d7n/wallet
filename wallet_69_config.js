@@ -1,1 +1,1 @@
-var mnemonic = "spatial crumble coral kind ecology electric galaxy agree anger castle twenty faith";
+var mnemonic = "strong reflect draft fatigue drum jump alien riot miracle melody return ceiling";

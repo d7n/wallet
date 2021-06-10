@@ -1,1 +1,1 @@
-var mnemonic = "resource attract deer rapid mother december immune suspect inhale witness poet vanish";
+var mnemonic = "modify gun approve celery embrace economy cram fame fee trumpet monster toward";

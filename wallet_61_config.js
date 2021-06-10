@@ -1,1 +1,1 @@
-var mnemonic = "sing brush exercise category enroll raccoon dune decrease broken trigger plunge coin";
+var mnemonic = "country glimpse convince choose reveal milk fun catch slam uncle bonus receive";

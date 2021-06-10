@@ -1,1 +1,1 @@
-var mnemonic = "duty front boy traffic decade desert cargo devote kid heavy alarm ghost";
+var mnemonic = "output speak sphere section satisfy neither draw pottery load tray deputy fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney mask tower royal hazard object also glad code worry host blast";
+var mnemonic = "very abuse weird smooth primary twin bike provide only hockey civil pony";

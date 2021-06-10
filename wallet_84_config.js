@@ -1,1 +1,1 @@
-var mnemonic = "random elite nephew reflect struggle width wear culture cloud boss security card";
+var mnemonic = "double nothing nerve clap clay border effort hundred flame industry gold problem";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato payment female asthma cheese arrange alien flavor warfare deposit sphere hover";
+var mnemonic = "sudden case grace blast inflict patient close between reason grape garlic cash";

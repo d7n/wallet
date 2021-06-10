@@ -1,1 +1,1 @@
-var mnemonic = "custom flower salon topic rifle describe track hawk woman analyst just miracle";
+var mnemonic = "hire boost speed rabbit pottery review master chicken sound actor song razor";

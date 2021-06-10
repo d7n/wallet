@@ -1,1 +1,1 @@
-var mnemonic = "pole stumble shove will guide hello confirm trumpet elbow any supply snap";
+var mnemonic = "teach unknown develop slush still code shallow garage owner minor glass begin";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk crucial ski movie scale awkward blossom live seed reason squirrel birth";
+var mnemonic = "rebel document gaze fan crystal camp pattern shuffle tourist river another biology";

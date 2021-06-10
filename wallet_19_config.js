@@ -1,1 +1,1 @@
-var mnemonic = "notice ostrich oppose check dilemma pave circle because state member blossom pulse";
+var mnemonic = "elegant fury total noble frame bright pyramid rotate waste swamp visa ethics";

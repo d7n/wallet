@@ -1,1 +1,1 @@
-var mnemonic = "then follow inhale lumber screen nose favorite ring produce clinic crawl craft";
+var mnemonic = "dwarf fatigue mail alien pull horror canal enforce afraid glance budget judge";

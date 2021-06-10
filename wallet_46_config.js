@@ -1,1 +1,1 @@
-var mnemonic = "century sniff snow ring tornado repair federal virtual move sand property utility";
+var mnemonic = "visual record special pledge joke south crowd insane fever approve guitar bench";

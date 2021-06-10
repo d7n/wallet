@@ -1,1 +1,1 @@
-var mnemonic = "history eternal harbor matrix insane stable rally gather guard airport bench random";
+var mnemonic = "skull vessel guess original mirror parrot burden avoid shy avocado hunt moral";

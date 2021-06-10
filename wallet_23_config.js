@@ -1,1 +1,1 @@
-var mnemonic = "trade repeat source victory intact human wrestle tennis sport battle suit deliver";
+var mnemonic = "bomb net practice nation wet tourist earth skirt peace erase lobster ability";

@@ -1,1 +1,1 @@
-var mnemonic = "truck warm ritual notice debate spy glory opera staff evolve seven this";
+var mnemonic = "depend trim betray fabric mind physical increase surface impact spoon bicycle oven";

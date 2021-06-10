@@ -1,1 +1,1 @@
-var mnemonic = "ridge goddess olive famous electric opera normal giant bracket brown team diary";
+var mnemonic = "multiply before left man unknown paddle oil crunch combine near display aunt";

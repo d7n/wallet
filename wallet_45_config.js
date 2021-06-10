@@ -1,1 +1,1 @@
-var mnemonic = "rely disease pudding dilemma good diary daring draw anchor fall essence gloom";
+var mnemonic = "pond hungry album shock color always predict call delay grid crack jar";

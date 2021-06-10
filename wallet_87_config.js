@@ -1,1 +1,1 @@
-var mnemonic = "relax bright sport spray purse topic session faith mobile mix assist pyramid";
+var mnemonic = "other eight dry must round palm debate congress betray chimney chimney sail";

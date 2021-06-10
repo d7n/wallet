@@ -1,1 +1,1 @@
-var mnemonic = "alarm reveal coil unit patrol cross spoon risk square quiz bean hole";
+var mnemonic = "until end gown visa gun excess tackle off rack situate news cover";

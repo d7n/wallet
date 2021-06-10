@@ -1,1 +1,1 @@
-var mnemonic = "banana immune focus earn pond victory involve hub pioneer lab mixed screen";
+var mnemonic = "govern fog diary can spoon craft dose razor east knife kid size";

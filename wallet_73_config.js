@@ -1,1 +1,1 @@
-var mnemonic = "pupil orchard salt opinion pretty hub pattern spike harvest little fatal summer";
+var mnemonic = "family afford cliff liquid prepare away rubber assist vault rotate detail dizzy";

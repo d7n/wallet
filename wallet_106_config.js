@@ -1,1 +1,1 @@
-var mnemonic = "solution toy artist sell answer city coast scout grape light comic order";
+var mnemonic = "industry young invest summer pioneer palace bind grief marble alter winner certain";

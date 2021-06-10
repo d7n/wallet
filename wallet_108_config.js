@@ -1,1 +1,1 @@
-var mnemonic = "clay object tooth utility penalty oyster mistake vast eight argue planet middle";
+var mnemonic = "force unusual immense usage pony hello ask rocket inquiry guard suit phone";

@@ -1,1 +1,1 @@
-var mnemonic = "fee because match install fame track life donate medal avocado limb satisfy";
+var mnemonic = "dress possible knee transfer nut extend corn elite episode spike grape style";

@@ -1,1 +1,1 @@
-var mnemonic = "eye excuse off copper virus permit traffic kiss decide render disease enable";
+var mnemonic = "abandon kitchen glare slender outside intact capable cupboard today absent song symptom";

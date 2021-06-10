@@ -1,1 +1,1 @@
-var mnemonic = "arrange fresh short betray mixture desert tissue tuna marble swift measure celery";
+var mnemonic = "expect field crush oval punch bacon cabbage female color pattern always surge";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin unfold impact cycle enemy human thing gentle exclude scene arrive silver";
+var mnemonic = "agree interest aspect prison reward laugh cube list traffic child hero guard";

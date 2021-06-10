@@ -1,1 +1,1 @@
-var mnemonic = "park swift never swear gorilla giant stem unknown frost measure citizen purchase";
+var mnemonic = "panic health junior legend hero damage idea grid panic shuffle fury drive";

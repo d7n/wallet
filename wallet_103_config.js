@@ -1,1 +1,1 @@
-var mnemonic = "rate later thunder opinion dolphin assist immune book hire bind alter skirt";
+var mnemonic = "typical cotton praise wheat resource ahead mix rent item learn broccoli improve";

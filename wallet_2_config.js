@@ -1,1 +1,1 @@
-var mnemonic = "project rapid sword lion danger devote entry doll game menu crazy hard";
+var mnemonic = "inject village box polar piano border company custom tilt chase core main";

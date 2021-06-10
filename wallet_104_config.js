@@ -1,1 +1,1 @@
-var mnemonic = "inch interest gasp noise hole chair garlic wool agree grocery fit copy";
+var mnemonic = "face olive fee napkin orchard voice this creek island mosquito garment know";

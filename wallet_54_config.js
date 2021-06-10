@@ -1,1 +1,1 @@
-var mnemonic = "apart stadium goddess harbor notable double miss open identify remove palm clean";
+var mnemonic = "author three true fashion injury tilt surprise potato orphan yellow drip skull";

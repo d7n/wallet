@@ -1,1 +1,1 @@
-var mnemonic = "neck brand wait pyramid kind ancient transfer put book goddess mushroom appear";
+var mnemonic = "tree subway pony fit square future clutch glad labor muscle orbit barrel";

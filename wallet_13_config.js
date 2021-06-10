@@ -1,1 +1,1 @@
-var mnemonic = "immense weekend twin danger sunset once visa plug flee empower image blossom";
+var mnemonic = "march used fit actor tape few random ramp visual hello wing west";

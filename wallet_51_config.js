@@ -1,1 +1,1 @@
-var mnemonic = "tank garage kid feature evil join kitchen woman mutual trust unlock first";
+var mnemonic = "minor language exclude hair wise glove true basket milk sorry kitten capable";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft coral viable oak moment source one soft discover shadow jump quiz";
+var mnemonic = "pistol ethics upon summer slot fluid frame canal hope broccoli category wide";

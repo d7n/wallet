@@ -1,1 +1,1 @@
-var mnemonic = "seven danger original kiss photo wrestle coast sponsor tornado favorite dove renew";
+var mnemonic = "patrol runway purpose copper seminar network sign dentist orchard oxygen crouch boss";

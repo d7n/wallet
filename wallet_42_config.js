@@ -1,1 +1,1 @@
-var mnemonic = "argue pulp pretty tip fringe gold educate family digital say joy bright";
+var mnemonic = "dilemma open custom file forest student amount broccoli century mean valley praise";

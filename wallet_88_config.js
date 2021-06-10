@@ -1,1 +1,1 @@
-var mnemonic = "indoor capable twelve ozone fox taste wet dumb during trash burden protect";
+var mnemonic = "gesture cute grunt can portion planet donor fun useful frozen soon present";

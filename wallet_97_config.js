@@ -1,1 +1,1 @@
-var mnemonic = "amount rival genre unit silent garage pottery column mesh fancy venture spy";
+var mnemonic = "beach book pencil unusual wool proof walk axis then kit stone immense";

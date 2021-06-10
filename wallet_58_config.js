@@ -1,1 +1,1 @@
-var mnemonic = "nuclear drip close chimney invest ethics glow else layer alcohol inmate now";
+var mnemonic = "frog poverty own chalk surround buffalo silly absent woman situate element web";

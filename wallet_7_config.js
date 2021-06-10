@@ -1,1 +1,1 @@
-var mnemonic = "violin seven easy pigeon soon salmon regular friend body genius equip ozone";
+var mnemonic = "rose east where sight broom avoid cloth often garbage time list brief";

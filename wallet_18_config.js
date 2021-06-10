@@ -1,1 +1,1 @@
-var mnemonic = "fiscal rival artefact discover afraid amazing mistake treat quantum artist come original";
+var mnemonic = "feel actual chuckle cliff twist kitchen guide primary hollow undo angry attitude";

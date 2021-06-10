@@ -1,1 +1,1 @@
-var mnemonic = "pet keen shop section random fancy must turn shuffle pumpkin trend hybrid";
+var mnemonic = "trouble area dial unfold amazing copy nest friend also deny pair slide";

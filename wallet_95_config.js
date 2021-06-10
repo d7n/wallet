@@ -1,1 +1,1 @@
-var mnemonic = "enhance provide interest choose hill detail reflect huge desk nothing child bridge";
+var mnemonic = "ranch office shaft fan twenty slush dolphin grab exit sustain rural engage";

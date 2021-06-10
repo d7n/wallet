@@ -1,1 +1,1 @@
-var mnemonic = "side dog dry decide total medal tomato digital bracket dash despair consider";
+var mnemonic = "always young minimum code bracket tail naive destroy shadow ozone art actress";

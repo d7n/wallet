@@ -1,1 +1,1 @@
-var mnemonic = "aerobic shy beach trend shop quantum edit vintage soup chuckle pelican sadness";
+var mnemonic = "update online shiver test space key century often gold release napkin fever";

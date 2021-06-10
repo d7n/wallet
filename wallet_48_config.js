@@ -1,1 +1,1 @@
-var mnemonic = "reopen winner lunch wagon sell laptop pioneer tired neck pyramid fatigue spin";
+var mnemonic = "need topple execute staff write scorpion trim method grunt slide question track";

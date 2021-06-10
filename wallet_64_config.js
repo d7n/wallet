@@ -1,1 +1,1 @@
-var mnemonic = "salmon review put exile prefer dad bird glare unaware shoe predict uncle";
+var mnemonic = "gym rubber artist voice sock lonely heart pitch jealous spike awful foot";

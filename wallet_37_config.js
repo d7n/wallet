@@ -1,1 +1,1 @@
-var mnemonic = "debate steak nothing enhance era tail daring admit night shine fall mimic";
+var mnemonic = "zone during wild suit fade crunch camp air hedgehog office again steak";

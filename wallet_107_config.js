@@ -1,1 +1,1 @@
-var mnemonic = "enough cattle jungle rebel stay napkin material build change below audit team";
+var mnemonic = "romance earth path unusual indoor green cabin broken muffin include popular crystal";

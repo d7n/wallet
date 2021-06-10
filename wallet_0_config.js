@@ -1,1 +1,1 @@
-var mnemonic = "visit capital scheme unfold own loyal nominee hobby kite again depart nominee";
+var mnemonic = "vacuum shop ethics mystery stumble devote vintage copper cage ancient dutch tornado";

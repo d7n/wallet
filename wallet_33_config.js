@@ -1,1 +1,1 @@
-var mnemonic = "phone frequent access wedding exile slide actor wheat furnace ribbon visa pool";
+var mnemonic = "slam risk coast cricket drill lecture crack gym city property alter push";

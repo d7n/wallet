@@ -1,1 +1,1 @@
-var mnemonic = "ask silent ski globe series ability ranch decide invite acoustic hero matter";
+var mnemonic = "boil artefact giggle coach plate vicious photo turn maze hand celery space";

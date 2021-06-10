@@ -1,1 +1,1 @@
-var mnemonic = "security unique pill someone portion great inquiry brave soldier file draw quote";
+var mnemonic = "six step solve robot swarm fire drama ski praise run awake wink";

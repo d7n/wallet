@@ -1,1 +1,1 @@
-var mnemonic = "risk stuff amount tail deputy eternal strategy until phrase jungle roast ocean";
+var mnemonic = "ocean fiction crack abandon arrow file cream surround meat nature random milk";

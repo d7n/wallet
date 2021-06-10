@@ -1,1 +1,1 @@
-var mnemonic = "debate enable distance laugh gospel soul choose bitter involve rely garlic sheriff";
+var mnemonic = "rally useless senior regret transfer bulk champion ghost pond depend code segment";

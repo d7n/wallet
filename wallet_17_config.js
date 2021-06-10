@@ -1,1 +1,1 @@
-var mnemonic = "noise bullet mom street humor pretty ship ensure cinnamon comic check patch";
+var mnemonic = "horse shallow amazing effort planet dirt margin engine source pioneer dune scare";

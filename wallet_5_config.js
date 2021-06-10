@@ -1,1 +1,1 @@
-var mnemonic = "museum speak bus start people tower wedding toilet pink strike float scrub";
+var mnemonic = "deal volcano pulse alley hair save pencil fame enemy rookie naive trade";

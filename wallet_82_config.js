@@ -1,1 +1,1 @@
-var mnemonic = "swear certain suit nominee around media shrimp actress pitch skate undo end";
+var mnemonic = "year forget fever prepare soft shove shed bird unfair goose card crane";
