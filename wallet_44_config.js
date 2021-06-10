@@ -1,1 +1,1 @@
-var mnemonic = "badge pioneer trip empty saddle time dice enhance nose almost impulse movie";
+var mnemonic = "jump invite elbow impact tuna clown kid vocal fury ranch wall finger";

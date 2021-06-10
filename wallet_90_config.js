@@ -1,1 +1,1 @@
-var mnemonic = "dash feed rice raccoon horn stand fee faith hammer green olympic smart";
+var mnemonic = "race course genius drama frog weather impulse scale item clip ill salute";

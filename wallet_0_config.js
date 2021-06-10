@@ -1,1 +1,1 @@
-var mnemonic = "narrow knee dinosaur risk cave pledge legal chef allow draw invite tell";
+var mnemonic = "royal citizen long name jump twenty base type benefit logic tumble route";

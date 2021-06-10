@@ -1,1 +1,1 @@
-var mnemonic = "grant wide path under enjoy answer portion recall situate boil hawk virtual";
+var mnemonic = "awake salute slender tuition install guitar swift holiday draft minute diary squirrel";

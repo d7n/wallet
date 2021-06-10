@@ -1,1 +1,1 @@
-var mnemonic = "much true tree mystery degree faith pluck promote link gift list control";
+var mnemonic = "ceiling second good narrow jar sleep illegal rose enjoy across leaf pool";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal gaze clog payment mechanic impose squeeze drastic renew mystery theme knee";
+var mnemonic = "balance armor jazz quote cheap bottom lift brown coconut twist patient purchase";

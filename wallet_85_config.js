@@ -1,1 +1,1 @@
-var mnemonic = "urban soul buyer trick vivid woman miss inch apart scatter lamp color";
+var mnemonic = "visa island click weasel rain weekend border always view outside keen please";

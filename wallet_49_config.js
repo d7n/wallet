@@ -1,1 +1,1 @@
-var mnemonic = "card burden skirt tornado once canvas lift raven adult snake extra slogan";
+var mnemonic = "forward trial nasty army scrap prize soul tongue cherry game quote maze";

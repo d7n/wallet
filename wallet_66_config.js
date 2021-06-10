@@ -1,1 +1,1 @@
-var mnemonic = "exchange chat path cook gadget swim wall sibling utility gorilla yard note";
+var mnemonic = "forum evolve announce decrease rigid today green program order pulp domain clip";

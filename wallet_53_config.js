@@ -1,1 +1,1 @@
-var mnemonic = "enact boost material program alpha lyrics soup proud outside assist tribe diary";
+var mnemonic = "dog pond fancy twice grocery crater silly float daughter order scrap link";

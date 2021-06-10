@@ -1,1 +1,1 @@
-var mnemonic = "wise rally city act such fox illegal solution input never bless slender";
+var mnemonic = "travel early proud range primary author snow agent club stereo joke easy";

@@ -1,1 +1,1 @@
-var mnemonic = "injury amount quantum banana grass already pizza disorder apology simple piano still";
+var mnemonic = "huge uncle trip material grid now august whisper crystal give picture edge";

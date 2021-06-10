@@ -1,1 +1,1 @@
-var mnemonic = "fever toy welcome picture joke coffee daughter abuse actress hammer fold you";
+var mnemonic = "curtain truth maid farm minor certain funny dinner cost alarm engine prison";

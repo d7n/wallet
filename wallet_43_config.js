@@ -1,1 +1,1 @@
-var mnemonic = "horse avocado olympic trap frozen tape lounge vicious pool shrimp right wish";
+var mnemonic = "unfair huge security equip flower lock shift cram few renew retire plunge";

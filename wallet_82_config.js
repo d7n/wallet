@@ -1,1 +1,1 @@
-var mnemonic = "spot illness knife dove false year acoustic until situate because minute census";
+var mnemonic = "sort anchor sea orbit view client unaware situate annual wheat face off";

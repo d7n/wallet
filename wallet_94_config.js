@@ -1,1 +1,1 @@
-var mnemonic = "film vacuum artefact limb demise forget unhappy embrace tongue symbol smooth cave";
+var mnemonic = "pet virus air hood noodle flag vendor young asthma bag decrease strike";

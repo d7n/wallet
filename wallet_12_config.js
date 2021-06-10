@@ -1,1 +1,1 @@
-var mnemonic = "pill venture fortune liar dragon gate fossil abandon fetch reduce carry cluster";
+var mnemonic = "stone scrub setup hire man unable fix hollow perfect blast cave oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "sport spare dragon weekend alarm sort nurse trouble short onion clog rug";
+var mnemonic = "fiber output sail bar student old goddess tumble proof august ecology grain";

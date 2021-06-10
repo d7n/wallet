@@ -1,1 +1,1 @@
-var mnemonic = "shadow vehicle path piano cook twelve until earn already wear shell cotton";
+var mnemonic = "matrix text cream utility avoid problem tomato mix injury oxygen cause puppy";

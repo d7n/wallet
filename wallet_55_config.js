@@ -1,1 +1,1 @@
-var mnemonic = "hobby table oblige junk tornado violin agree stool dolphin talk ring neglect";
+var mnemonic = "vanish sauce can october slogan pave tourist always easily mom before eternal";

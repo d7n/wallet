@@ -1,1 +1,1 @@
-var mnemonic = "sport record beef quarter arrange viable ghost police child zero crowd cabin";
+var mnemonic = "place palm zero amazing curve horror kiss episode dove rotate success luxury";

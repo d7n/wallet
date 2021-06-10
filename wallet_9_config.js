@@ -1,1 +1,1 @@
-var mnemonic = "yard insect museum clever dust leopard corn liquid angry home only submit";
+var mnemonic = "wave tragic clinic consider alert flight voice ribbon park achieve giggle scorpion";

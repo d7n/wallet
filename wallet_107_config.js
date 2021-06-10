@@ -1,1 +1,1 @@
-var mnemonic = "sugar draw make jewel draw harsh trash indoor tragic clown economy easily";
+var mnemonic = "concert runway west dune junior elbow put weather patrol renew six broccoli";

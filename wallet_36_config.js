@@ -1,1 +1,1 @@
-var mnemonic = "grit mammal prize future drastic tiger anxiety fit inside pond biology top";
+var mnemonic = "wisdom tower hero host forum involve bring margin outside wine huge recipe";

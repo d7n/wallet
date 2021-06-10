@@ -1,1 +1,1 @@
-var mnemonic = "feature try dynamic inquiry west plunge devote capable lens just caught buzz";
+var mnemonic = "regret alter decrease isolate speed entry knife cage life abuse harbor consider";

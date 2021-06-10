@@ -1,1 +1,1 @@
-var mnemonic = "grape feel evil bus lake piece cute sphere emotion muscle thunder donkey";
+var mnemonic = "birth omit stage weasel material donate vibrant trap arrive fury half submit";

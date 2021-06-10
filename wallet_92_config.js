@@ -1,1 +1,1 @@
-var mnemonic = "comfort genius miracle seven fix smoke genius dilemma kit shift shrug sound";
+var mnemonic = "tooth mystery predict limit village husband nut cup depth more upon rule";

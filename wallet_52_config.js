@@ -1,1 +1,1 @@
-var mnemonic = "humble there deposit fat carry field inside laundry divorce pluck devote final";
+var mnemonic = "huge cradle observe before rough swarm come suggest noise never ready live";

@@ -1,1 +1,1 @@
-var mnemonic = "snap you blast tobacco wisdom state loan often umbrella family story helmet";
+var mnemonic = "master voyage genius fat slab grace grunt shallow erosion glide pill blame";

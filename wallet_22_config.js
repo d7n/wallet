@@ -1,1 +1,1 @@
-var mnemonic = "book anger guilt fever quantum wink window action logic receive alpha void";
+var mnemonic = "wedding ill merit series exhibit light vague calm sunset burden critic economy";

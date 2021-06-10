@@ -1,1 +1,1 @@
-var mnemonic = "april broom exile census cargo focus short wrap humble cup dirt empty";
+var mnemonic = "crystal worry initial tag favorite know spare august million elbow famous approve";

@@ -1,1 +1,1 @@
-var mnemonic = "creek curve bird chair narrow seek cupboard path hobby session sure enough";
+var mnemonic = "visual decrease purity pill green enter wild online toy else float pencil";

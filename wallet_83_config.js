@@ -1,1 +1,1 @@
-var mnemonic = "front nose cattle cost bus jealous ask coconut enough vicious kingdom client";
+var mnemonic = "spend staff buzz dial real fog vacant spirit method ecology talent ski";

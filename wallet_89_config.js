@@ -1,1 +1,1 @@
-var mnemonic = "mail swing gate frown element depth sphere observe hand cloud lottery retreat";
+var mnemonic = "glide garage medal margin dose flock harbor about steel cable similar duck";

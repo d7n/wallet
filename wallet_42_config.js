@@ -1,1 +1,1 @@
-var mnemonic = "deliver state provide pass roast pistol stool wood silly company culture same";
+var mnemonic = "fiction rate filter snap sustain current video happy match planet magnet expand";

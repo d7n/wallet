@@ -1,1 +1,1 @@
-var mnemonic = "dad quarter thunder arrow client episode injury canyon drama print nuclear orient";
+var mnemonic = "prevent setup spice system stomach rubber cover chase jewel canvas blood biology";

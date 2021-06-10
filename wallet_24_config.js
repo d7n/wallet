@@ -1,1 +1,1 @@
-var mnemonic = "social account cloth fold review clean comic coil candy travel leader dose";
+var mnemonic = "uncover stomach pig eye year usual cram plunge leg tragic cash result";

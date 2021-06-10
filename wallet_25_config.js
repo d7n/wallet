@@ -1,1 +1,1 @@
-var mnemonic = "only erosion common artwork corn blame eager myself hold clinic number soup";
+var mnemonic = "tuna scrap focus neither fog walk long replace memory woman crucial laugh";

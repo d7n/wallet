@@ -1,1 +1,1 @@
-var mnemonic = "fox fit craft meadow blast session sadness stable rebel cool bacon swear";
+var mnemonic = "family below else load image recipe amused road saddle recycle trust crew";

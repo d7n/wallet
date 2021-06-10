@@ -1,1 +1,1 @@
-var mnemonic = "problem dentist arrange pepper upset window hollow pattern carpet whisper clutch taxi";
+var mnemonic = "denial produce broccoli sure oxygen mandate perfect upon sword harbor category treat";

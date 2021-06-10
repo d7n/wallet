@@ -1,1 +1,1 @@
-var mnemonic = "local cake hollow swear want gorilla kid lift science dress blast glue";
+var mnemonic = "void crew depth bomb blanket menu aerobic borrow subject page clever enhance";

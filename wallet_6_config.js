@@ -1,1 +1,1 @@
-var mnemonic = "chef adult steak shrug fade grace run what truth champion hospital motion";
+var mnemonic = "glass gauge faculty lend knife raccoon churn merge broken gentle action vendor";

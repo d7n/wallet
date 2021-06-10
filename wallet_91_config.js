@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur cement toilet fee boy monitor sort belt aware carpet liquid trophy";
+var mnemonic = "inch tiger family biology crisp giant divide future payment acoustic tattoo edit";

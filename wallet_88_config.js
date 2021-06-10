@@ -1,1 +1,1 @@
-var mnemonic = "table defy learn grain umbrella clarify student fatigue glow ribbon noodle journey";
+var mnemonic = "inhale avocado kingdom civil vapor ride moral chalk tunnel whale unusual increase";

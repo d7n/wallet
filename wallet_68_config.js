@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit manual jeans love error world air cause rely palm snack expose";
+var mnemonic = "because prevent mouse depart drama sick notice drastic assault urge soap connect";

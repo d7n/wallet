@@ -1,1 +1,1 @@
-var mnemonic = "burden spy grace movie arrest visit meadow harvest head elephant close text";
+var mnemonic = "student eyebrow beauty exchange vault kitchen act pledge clap arrow degree post";

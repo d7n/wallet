@@ -1,1 +1,1 @@
-var mnemonic = "crumble write depth transfer fall inside cycle unique carpet shiver forest mask";
+var mnemonic = "claw foam laundry scheme treat stove lunch addict box finish thumb stable";

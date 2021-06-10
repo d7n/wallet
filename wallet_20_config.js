@@ -1,1 +1,1 @@
-var mnemonic = "immense energy run best demise easily plastic once analyst lumber eager strong";
+var mnemonic = "index unfold inner latin dad merry organ essence business empty attitude wisdom";

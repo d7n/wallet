@@ -1,1 +1,1 @@
-var mnemonic = "group hire text parrot rain decline case sunny cigar eternal ski ivory";
+var mnemonic = "finger lunar sea boat erosion brush auto shaft green gadget fee blast";

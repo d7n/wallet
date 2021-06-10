@@ -1,1 +1,1 @@
-var mnemonic = "fit like bomb wrist federal merit labor outer rare waste dolphin two";
+var mnemonic = "boy crucial horn clutch woman wasp bounce above hurt step educate region";

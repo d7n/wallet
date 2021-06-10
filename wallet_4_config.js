@@ -1,1 +1,1 @@
-var mnemonic = "raw odor tuna van famous popular manage genre lucky bonus crunch kite";
+var mnemonic = "similar mom luggage confirm enhance gym wing vibrant smile neck border short";

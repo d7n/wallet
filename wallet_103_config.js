@@ -1,1 +1,1 @@
-var mnemonic = "rain gather venture patrol bus corn hockey cream tooth cube dinner inch";
+var mnemonic = "kiwi doctor sand slide merry song pelican camera edge lizard loop bundle";

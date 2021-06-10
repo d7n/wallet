@@ -1,1 +1,1 @@
-var mnemonic = "absurd acoustic field pumpkin arrive siren silly metal peanut observe affair among";
+var mnemonic = "doll inhale sting unusual biology upon devote evil confirm route bright grass";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin win alley modify soldier health lecture purse gaze west immense analyst";
+var mnemonic = "lawn rain rude virtual entry disorder glue sound jelly awful attack rail";

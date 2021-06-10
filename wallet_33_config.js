@@ -1,1 +1,1 @@
-var mnemonic = "tree draft robot please glue impulse nose table wrestle broom song wide";
+var mnemonic = "aerobic alpha target left bullet country garment ritual shell valve biology bright";

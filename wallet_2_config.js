@@ -1,1 +1,1 @@
-var mnemonic = "bottom real mail also media enlist only vocal canoe lobster shift clerk";
+var mnemonic = "confirm twist loan merit short diesel swing ceiling town mask rookie reason";

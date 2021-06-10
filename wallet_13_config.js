@@ -1,1 +1,1 @@
-var mnemonic = "ignore zone topic assault idle clock program abandon dash learn oven crucial";
+var mnemonic = "initial salt blind improve expand voyage violin practice anxiety jar ignore obey";

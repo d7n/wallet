@@ -1,1 +1,1 @@
-var mnemonic = "almost slight rough couple escape clerk maximum egg occur work that afford";
+var mnemonic = "neck betray opinion table start attitude buzz dutch exhibit junk rose bid";

@@ -1,1 +1,1 @@
-var mnemonic = "skate rule chronic since reunion rubber then fault velvet dose budget exotic";
+var mnemonic = "shrimp nasty rhythm letter turkey jelly tower bunker donor differ file ocean";

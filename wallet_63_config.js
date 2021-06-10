@@ -1,1 +1,1 @@
-var mnemonic = "pool coral badge piece fatal race popular network injury mammal hold loan";
+var mnemonic = "flash fall reflect street flush scan limit twenty scatter year mass transfer";

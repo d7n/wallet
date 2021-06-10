@@ -1,1 +1,1 @@
-var mnemonic = "motion gold skirt olive kitchen now wing source flame birth ring slight";
+var mnemonic = "sea chunk aunt hundred return tribe monster menu drip economy unknown wasp";

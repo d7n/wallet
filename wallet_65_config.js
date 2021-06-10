@@ -1,1 +1,1 @@
-var mnemonic = "idea broccoli street woman coffee spin patient step shaft notable bachelor pretty";
+var mnemonic = "across brick prize wrestle diesel shift ski abandon holiday chalk lucky left";

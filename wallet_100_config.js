@@ -1,1 +1,1 @@
-var mnemonic = "garden ripple example business raven master tourist nation major found meadow faint";
+var mnemonic = "fork banana loud trade cliff hospital oval range million reveal urge water";

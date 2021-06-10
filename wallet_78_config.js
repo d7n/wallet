@@ -1,1 +1,1 @@
-var mnemonic = "aim sweet various vague boss thunder foster wool federal token cake bonus";
+var mnemonic = "above ancient slogan trip never spring famous circle favorite crop sort person";

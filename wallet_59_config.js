@@ -1,1 +1,1 @@
-var mnemonic = "exit runway cement north raven decrease loud omit couple forward pull focus";
+var mnemonic = "verify half ship helmet nuclear often leg high bridge glance decide annual";

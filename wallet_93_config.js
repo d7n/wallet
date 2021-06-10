@@ -1,1 +1,1 @@
-var mnemonic = "ceiling rail primary truth artwork comic range husband mean vault fiction awake";
+var mnemonic = "verify message paper rescue myself direct film trip now broom coffee jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "film east scan mule deer flag rebel twenty destroy flower inform viable";
+var mnemonic = "alarm radar fold deputy artefact afford grace blood divorce below net imitate";

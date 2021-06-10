@@ -1,1 +1,1 @@
-var mnemonic = "apple gain supply swamp pigeon bid cinnamon pet head have wagon fox";
+var mnemonic = "tribe alert nest foot sustain update episode knock dish draw retreat foster";

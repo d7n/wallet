@@ -1,1 +1,1 @@
-var mnemonic = "mule any shine kangaroo only cinnamon tragic float salt vessel vanish mystery";
+var mnemonic = "auto loop oak rack diesel idea veteran wrong call flock fancy bike";

@@ -1,1 +1,1 @@
-var mnemonic = "orient analyst bounce dove skin attend tissue mass color lobster fruit excess";
+var mnemonic = "unit actress autumn mercy assist host milk diet mail name stove blood";

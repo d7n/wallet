@@ -1,1 +1,1 @@
-var mnemonic = "zone service iron angry volcano critic when bridge dinosaur vendor method bone";
+var mnemonic = "lemon address toilet stage spray erupt tenant laptop manage slab accident other";

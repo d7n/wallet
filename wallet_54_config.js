@@ -1,1 +1,1 @@
-var mnemonic = "tell hub warrior hen chapter forest ladder amount spell useless heart dance";
+var mnemonic = "copper north craft remind hood wait lonely retire motion tell three cycle";

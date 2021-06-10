@@ -1,1 +1,1 @@
-var mnemonic = "reopen maximum reduce silent wealth egg predict wonder unveil involve expect again";
+var mnemonic = "whale accuse digital craft violin odor element logic galaxy talk wave keen";

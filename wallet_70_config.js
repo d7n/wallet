@@ -1,1 +1,1 @@
-var mnemonic = "parrot people own stumble broccoli capital little industry boat hurt virtual door";
+var mnemonic = "sadness situate group joke obvious fun acoustic grain mesh alien vivid notice";

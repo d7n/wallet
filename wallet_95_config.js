@@ -1,1 +1,1 @@
-var mnemonic = "scout cause fly apple warfare frozen wheat faculty cannon smoke stock message";
+var mnemonic = "patient twist yard outside taxi gold cat zebra strong deputy rebel nuclear";

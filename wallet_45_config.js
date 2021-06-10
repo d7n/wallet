@@ -1,1 +1,1 @@
-var mnemonic = "lake fortune hero virus ticket cannon sunny silly sunny clarify route matter";
+var mnemonic = "subject cancel cry add noodle bicycle cycle shield tomorrow mobile amused bag";

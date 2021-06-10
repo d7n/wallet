@@ -1,1 +1,1 @@
-var mnemonic = "slush comic rookie remove engage myth cruel cover steak knock bird region";
+var mnemonic = "sauce claw love spy cram impose source measure girl place bracket unaware";

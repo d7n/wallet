@@ -1,1 +1,1 @@
-var mnemonic = "ankle gasp must alter cause plate genre outdoor uniform fantasy alone patch";
+var mnemonic = "garden hawk nephew answer myself blood must emerge burden mesh letter farm";

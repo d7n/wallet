@@ -1,1 +1,1 @@
-var mnemonic = "paddle magic senior proof manual pretty nature three pyramid quality today doll";
+var mnemonic = "pioneer spare siren modify prefer marine online breeze spy audit swim camp";

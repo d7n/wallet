@@ -1,1 +1,1 @@
-var mnemonic = "chair spot naive usual cancel lottery throw sense obscure joy rain rice";
+var mnemonic = "noise brand shell settle canyon advice vocal raven canal earn number shed";

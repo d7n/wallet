@@ -1,1 +1,1 @@
-var mnemonic = "farm miss topic cushion affair smile cactus pottery enhance reduce scorpion electric";
+var mnemonic = "clown bundle arch original echo catch heart three bacon install antique arch";

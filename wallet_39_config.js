@@ -1,1 +1,1 @@
-var mnemonic = "since december volume cost winter family moral stay false gather sudden tornado";
+var mnemonic = "zebra life paper river mom ozone cloth ladder uniform scheme price allow";

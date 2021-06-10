@@ -1,1 +1,1 @@
-var mnemonic = "help voice ten gadget pride predict cinnamon dynamic crystal deal captain syrup";
+var mnemonic = "simple furnace general flush wisdom sand uphold lecture tackle little thrive between";

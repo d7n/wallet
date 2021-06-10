@@ -1,1 +1,1 @@
-var mnemonic = "bunker select wool elder shift can basic level only initial dutch flag";
+var mnemonic = "trip vote scare region elephant federal dilemma key filter slight mixture brand";

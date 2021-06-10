@@ -1,1 +1,1 @@
-var mnemonic = "tenant best spread end warm name typical bridge flat vanish dove snack";
+var mnemonic = "south top bench draw bounce start vendor donkey original baby excess mesh";

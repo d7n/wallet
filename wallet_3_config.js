@@ -1,1 +1,1 @@
-var mnemonic = "crush fan catalog fly actress ring hope town awake devote radio unfair";
+var mnemonic = "judge recycle prepare nurse tank west luggage whisper entry bitter nation square";

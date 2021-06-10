@@ -1,1 +1,1 @@
-var mnemonic = "mountain concert faint liberty found diet food slim hazard mom ranch control";
+var mnemonic = "private park enable travel sing model kit dumb cushion relax floor board";

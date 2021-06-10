@@ -1,1 +1,1 @@
-var mnemonic = "diet never enlist angry goat stereo correct kid adult spring abstract size";
+var mnemonic = "crack dress mango now stomach crush sunny sun must scheme lizard nasty";

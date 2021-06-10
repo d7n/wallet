@@ -1,1 +1,1 @@
-var mnemonic = "else above olympic giggle erupt youth hip purse unique virus language piece";
+var mnemonic = "spray dove funny project mother bracket proud honey trip dry bike dilemma";

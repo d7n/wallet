@@ -1,1 +1,1 @@
-var mnemonic = "evoke actual cabbage nasty frog cabbage acoustic theory typical oval again craft";
+var mnemonic = "glove submit pumpkin beauty stock cotton excite ketchup sauce anger basket exile";

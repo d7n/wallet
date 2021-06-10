@@ -1,1 +1,1 @@
-var mnemonic = "danger tag sure subway ozone sick flag wisdom tornado hover gaze train";
+var mnemonic = "arena addict hobby there dry feed bone dad grass dry bounce unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "shift tube gesture crunch over angle fantasy tray veteran walnut claw island";
+var mnemonic = "bid nephew sunset what dilemma unfair room prosper butter feature engage marriage";

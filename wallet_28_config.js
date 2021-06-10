@@ -1,1 +1,1 @@
-var mnemonic = "oppose until venture crazy sentence gravity mix belt mosquito suspect rubber assist";
+var mnemonic = "record hospital bubble planet enforce fury above jelly damage muffin taxi flavor";

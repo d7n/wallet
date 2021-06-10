@@ -1,1 +1,1 @@
-var mnemonic = "neglect wolf peasant rabbit very eternal middle coast uniform what romance bottom";
+var mnemonic = "upset test wet photo vote donkey orange bone connect lab shove worth";

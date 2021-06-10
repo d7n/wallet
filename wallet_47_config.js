@@ -1,1 +1,1 @@
-var mnemonic = "public eye mango expect used seven dignity entry whisper vanish below world";
+var mnemonic = "inquiry limb strategy assault flight oil search possible roast below glow angry";

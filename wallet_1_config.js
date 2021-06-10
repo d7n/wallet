@@ -1,1 +1,1 @@
-var mnemonic = "enemy bus switch return remove mention venue damage grocery resemble zebra annual";
+var mnemonic = "peasant dose arctic stairs daring report hawk know rain wisdom lazy slow";

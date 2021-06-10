@@ -1,1 +1,1 @@
-var mnemonic = "seat you where caught loop now cause reduce tape trash demand taxi";
+var mnemonic = "want grant inmate oxygen eight awful wage retire chimney pupil love gate";

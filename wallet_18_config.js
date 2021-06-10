@@ -1,1 +1,1 @@
-var mnemonic = "very fall catalog spray wear grocery baby tragic iron sunset nation observe";
+var mnemonic = "wing race write margin enroll poem tape wisdom rescue reason stem plate";

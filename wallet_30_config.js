@@ -1,1 +1,1 @@
-var mnemonic = "jaguar cream decide universe jewel profit early blossom bulk talent lock wheel";
+var mnemonic = "culture asthma strike observe volume cash plunge word chuckle shadow waste assist";
