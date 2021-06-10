@@ -1,1 +1,1 @@
-var mnemonic = "quality expire logic fly credit pool shiver anchor success very gospel another";
+var mnemonic = "dad salad raw local acquire merit decorate evil brisk pigeon wine clock";

@@ -1,1 +1,1 @@
-var mnemonic = "captain slice captain inspire negative vicious find motor range obtain hazard ordinary";
+var mnemonic = "brave skirt salmon mobile soul spawn hover give swear earth neither tube";

@@ -1,1 +1,1 @@
-var mnemonic = "link dash cycle act wolf occur video first hair mirror eight leader";
+var mnemonic = "odor cross exact radar cement nature stand prosper unlock manage couple powder";

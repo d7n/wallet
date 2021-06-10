@@ -1,1 +1,1 @@
-var mnemonic = "boring observe either one grace fiber tonight aunt prize orbit hospital panda";
+var mnemonic = "cliff stumble order cliff blanket atom witness turtle piano soccer umbrella olive";

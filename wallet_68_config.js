@@ -1,1 +1,1 @@
-var mnemonic = "inform between asthma expand ribbon black exhaust they apple middle birth rely";
+var mnemonic = "double what mule kit toast chef define choose soul measure ecology pattern";

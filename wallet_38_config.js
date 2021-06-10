@@ -1,1 +1,1 @@
-var mnemonic = "twenty number idle provide sadness rescue push column crime acid cabin brisk";
+var mnemonic = "fitness web mention spawn maid cloud assault proud census tiny rubber voice";

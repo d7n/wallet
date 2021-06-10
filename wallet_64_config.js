@@ -1,1 +1,1 @@
-var mnemonic = "pulp process lyrics fringe amount all flame main lens prepare series another";
+var mnemonic = "alter initial mother define color shy tennis picnic onion law entire border";

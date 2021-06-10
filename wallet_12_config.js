@@ -1,1 +1,1 @@
-var mnemonic = "screen tongue burden auto print absent lock output glance maze slender shoe";
+var mnemonic = "pencil visual unveil urban traffic subway choice sword sound once position rapid";

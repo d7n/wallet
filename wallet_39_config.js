@@ -1,1 +1,1 @@
-var mnemonic = "frost answer rose speed audit chest pet walnut miss vanish civil main";
+var mnemonic = "buyer sense alone below salad ticket height enhance pupil sight scene luggage";

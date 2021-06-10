@@ -1,1 +1,1 @@
-var mnemonic = "gossip below chase height warrior smooth abandon glory keep claim unfold together";
+var mnemonic = "just curious staff also fiber hawk room fan outside frown junior chuckle";

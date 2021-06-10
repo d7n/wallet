@@ -1,1 +1,1 @@
-var mnemonic = "hero next violin family brain staff differ long climb opera motion topic";
+var mnemonic = "vital wisdom actual coral useful milk mistake neck dilemma fossil cube duck";

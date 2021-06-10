@@ -1,1 +1,1 @@
-var mnemonic = "invite talent post culture minor matter swamp disease slim world glove cash";
+var mnemonic = "you relief weasel dinosaur cousin push slush rival bargain flee glad plunge";

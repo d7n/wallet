@@ -1,1 +1,1 @@
-var mnemonic = "quick great tattoo net tornado noble hunt sell clip expect derive what";
+var mnemonic = "board sort disease daring phone juice patient repair tortoise like label during";

@@ -1,1 +1,1 @@
-var mnemonic = "combine rebuild smile thing uncover seminar hub cinnamon whale aim sample comfort";
+var mnemonic = "work tag humor patient moment behave provide ripple vague noise minor alarm";

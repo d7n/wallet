@@ -1,1 +1,1 @@
-var mnemonic = "day cotton mixed cupboard text lake flush entire program reason broken dry";
+var mnemonic = "echo cheese run hour already manual surprise seed home insane coffee power";

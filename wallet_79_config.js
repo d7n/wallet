@@ -1,1 +1,1 @@
-var mnemonic = "game away quote pelican point sea differ hub erode toward repeat have";
+var mnemonic = "author version month scissors jealous tell donor exercise liquid rifle fan walnut";

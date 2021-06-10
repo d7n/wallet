@@ -1,1 +1,1 @@
-var mnemonic = "focus enlist song alert like level reopen card camp exchange feel aim";
+var mnemonic = "just coyote print drill pioneer multiply turtle potato lottery group load hello";

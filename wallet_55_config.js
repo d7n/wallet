@@ -1,1 +1,1 @@
-var mnemonic = "flower warm scrap draw mutual motor rail science ticket hair immune youth";
+var mnemonic = "vessel crop hawk dolphin heavy frost hold dumb scout torch turtle mercy";

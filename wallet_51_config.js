@@ -1,1 +1,1 @@
-var mnemonic = "total dumb recall rookie vote river way hero message cry chest weasel";
+var mnemonic = "burst foot hole buffalo clean couple memory silk bench evidence army pledge";

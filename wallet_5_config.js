@@ -1,1 +1,1 @@
-var mnemonic = "moral general pitch jewel april shock manual tobacco awful jungle observe unhappy";
+var mnemonic = "hard wolf twenty wolf service unable satoshi number board turtle occur bleak";

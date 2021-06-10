@@ -1,1 +1,1 @@
-var mnemonic = "female pig favorite neither health bleak explain basket announce level plastic run";
+var mnemonic = "rent useless spray search video mirror shoe smile venture animal scrub gaze";

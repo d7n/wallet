@@ -1,1 +1,1 @@
-var mnemonic = "pitch pupil envelope brother south mammal viable pudding paper apology insane fish";
+var mnemonic = "domain that absorb rookie kick gravity patient into shoe curious electric cover";

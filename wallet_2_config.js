@@ -1,1 +1,1 @@
-var mnemonic = "model trap dolphin wife beyond toss cushion blouse income siege differ travel";
+var mnemonic = "canyon soda pause absorb vehicle neglect laugh cage hour bunker pink fat";

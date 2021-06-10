@@ -1,1 +1,1 @@
-var mnemonic = "elder smooth brown usual bean debate mystery frequent napkin interest notable scheme";
+var mnemonic = "barrel robust amused lazy galaxy rebel clever art leisure tag ranch ill";

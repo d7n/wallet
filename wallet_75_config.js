@@ -1,1 +1,1 @@
-var mnemonic = "surge between attack hen pledge goose crawl bachelor inflict marble slogan minor";
+var mnemonic = "peanut soccer supreme country space amazing again void renew guitar brisk unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "defy will virtual sort exchange gap nature notable gaze park expect view";
+var mnemonic = "inside thank kiwi want provide route cradle belt prize one smoke organ";

@@ -1,1 +1,1 @@
-var mnemonic = "either local winner lazy lyrics olive dial tuna wife when priority cook";
+var mnemonic = "purchase upper melody fossil business party inform use region gadget afraid skin";

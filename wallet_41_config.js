@@ -1,1 +1,1 @@
-var mnemonic = "vacant girl wide interest modify roof hollow error goose math latin biology";
+var mnemonic = "case invest cotton income clap pelican shed fold urge depend mercy gaze";

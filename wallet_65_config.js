@@ -1,1 +1,1 @@
-var mnemonic = "useful feel half erode deposit clay couple keen hedgehog legend license believe";
+var mnemonic = "surge floor avoid give sort speak toilet visual aunt thumb dwarf chaos";

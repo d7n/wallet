@@ -1,1 +1,1 @@
-var mnemonic = "village word vessel language uncover census bridge fox canvas tent voyage picnic";
+var mnemonic = "choose craft burst accuse follow rookie fetch useful sea bicycle whisper brave";

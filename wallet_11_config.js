@@ -1,1 +1,1 @@
-var mnemonic = "endorse fold figure awkward fetch congress profit there vote shed endless dinner";
+var mnemonic = "glance detect absent turtle hen soul come ocean sunset shield loan inside";

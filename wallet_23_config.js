@@ -1,1 +1,1 @@
-var mnemonic = "ethics able angry helmet primary hurt city transfer surface boss globe pretty";
+var mnemonic = "usual say prefer truck lecture trumpet amazing police convince vendor address slight";

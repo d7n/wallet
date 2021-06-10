@@ -1,1 +1,1 @@
-var mnemonic = "ready hen hard joy middle link pitch rose sudden soon rifle visual";
+var mnemonic = "laptop blade custom slide scare upgrade away box misery salute cement receive";

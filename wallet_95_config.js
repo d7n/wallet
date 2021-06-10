@@ -1,1 +1,1 @@
-var mnemonic = "attack evidence april tape bind tennis conduct diesel attend oyster solution axis";
+var mnemonic = "tell night session mother exercise glory adjust damp cheap orchard mountain fix";

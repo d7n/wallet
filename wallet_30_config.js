@@ -1,1 +1,1 @@
-var mnemonic = "scatter invest slam canvas fuel before swallow level wood hint since success";
+var mnemonic = "group wealth venture twin clinic square change lounge cactus custom foil ramp";

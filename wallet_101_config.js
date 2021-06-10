@@ -1,1 +1,1 @@
-var mnemonic = "element language above flee security bubble knee often catch damp author dry";
+var mnemonic = "title aim lunar wild obtain gadget tip peanut document hidden legal fix";

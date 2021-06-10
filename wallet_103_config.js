@@ -1,1 +1,1 @@
-var mnemonic = "dream extend manage trap extend gaze real prosper main rich domain welcome";
+var mnemonic = "clump timber romance stool visit deliver traffic buddy grunt one supply virus";

@@ -1,1 +1,1 @@
-var mnemonic = "session thumb logic mountain spy canvas dawn please rookie exact picture trade";
+var mnemonic = "worry penalty safe mutual guard member garden master brief clap undo angle";

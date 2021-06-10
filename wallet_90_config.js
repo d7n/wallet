@@ -1,1 +1,1 @@
-var mnemonic = "again laptop slam label case unfair course humble soul swap enough prison";
+var mnemonic = "false illegal tip antique poet congress dad sunny layer tonight loan industry";

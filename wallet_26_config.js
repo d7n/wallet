@@ -1,1 +1,1 @@
-var mnemonic = "axis receive typical spawn soon obtain mean razor flush sad shock magnet";
+var mnemonic = "spoil law river pledge puzzle shiver tail either hedgehog ordinary upon tool";

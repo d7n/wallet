@@ -1,1 +1,1 @@
-var mnemonic = "danger learn ancient pool hybrid depth jealous napkin beyond broken false assault";
+var mnemonic = "hero soon say empower jazz nephew unhappy visa carbon wasp rhythm ginger";

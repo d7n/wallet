@@ -1,1 +1,1 @@
-var mnemonic = "interest few ski disease buzz invite alien sand valid special friend broom";
+var mnemonic = "scale trash paper rebuild engine immense photo reduce churn bounce potato water";

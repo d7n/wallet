@@ -1,1 +1,1 @@
-var mnemonic = "pill admit direct media bag cement pen sword box bone hobby fever";
+var mnemonic = "trend decrease stomach round play skin region mail royal recycle ring sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit suit insect monitor clump gown rigid congress tiny return boss govern";
+var mnemonic = "property outer thing stay over attack meadow lend happy asthma smart web";

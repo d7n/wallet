@@ -1,1 +1,1 @@
-var mnemonic = "write budget pact treat worry essence liar paddle exchange fox brain cliff";
+var mnemonic = "blame produce venue rebuild index pigeon pupil learn eternal easy shiver coil";

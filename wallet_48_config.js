@@ -1,1 +1,1 @@
-var mnemonic = "economy adult practice achieve clock orbit moral project canvas cloth giant army";
+var mnemonic = "raccoon acid tray delay chapter any neither seminar purse person weather umbrella";

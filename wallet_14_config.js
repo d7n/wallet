@@ -1,1 +1,1 @@
-var mnemonic = "shallow smoke early super wish donate tattoo prison rare amount gasp anger";
+var mnemonic = "soda cram human spend soft record return inquiry hammer chimney lift another";

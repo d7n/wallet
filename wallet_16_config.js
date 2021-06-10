@@ -1,1 +1,1 @@
-var mnemonic = "chunk sting crater clog episode rare grid obey beyond trumpet minor unique";
+var mnemonic = "avoid taste magic child street remove announce rally between illegal rookie boss";

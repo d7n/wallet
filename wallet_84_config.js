@@ -1,1 +1,1 @@
-var mnemonic = "fan absent always assault venture slender profit fiber fruit oppose else spoon";
+var mnemonic = "meat artefact moral cotton fashion twist click earth police consider design bicycle";

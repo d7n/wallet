@@ -1,1 +1,1 @@
-var mnemonic = "pull kite heavy journey fish lens hamster crisp same motor enhance merge";
+var mnemonic = "swing acoustic clarify mix cloth hedgehog master refuse common lens depth excuse";

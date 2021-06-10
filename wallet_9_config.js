@@ -1,1 +1,1 @@
-var mnemonic = "law tail smooth discover travel intact elite people rib vibrant element improve";
+var mnemonic = "gym civil body betray board wine balance pill picture mention fine author";

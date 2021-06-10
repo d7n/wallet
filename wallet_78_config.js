@@ -1,1 +1,1 @@
-var mnemonic = "drill fossil relax hobby practice double grain feature glare moment decline love";
+var mnemonic = "puzzle culture board february turn nut fitness sense someone swear chase goat";

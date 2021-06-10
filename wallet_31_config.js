@@ -1,1 +1,1 @@
-var mnemonic = "hip swap roof grid pool smile segment parent stay tornado trumpet easy";
+var mnemonic = "frequent ask trade arrive liquid clock meadow green minor caught jealous adult";

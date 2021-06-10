@@ -1,1 +1,1 @@
-var mnemonic = "verify runway sponsor host together hybrid ahead swear round fury grunt undo";
+var mnemonic = "helmet spread element rare betray unfold spring debris cute require ankle churn";

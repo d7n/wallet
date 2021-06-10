@@ -1,1 +1,1 @@
-var mnemonic = "egg celery impulse echo maple label begin spot affair ignore hold globe";
+var mnemonic = "doll message quiz dinner fortune observe buffalo rifle zoo fury upgrade upper";

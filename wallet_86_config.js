@@ -1,1 +1,1 @@
-var mnemonic = "crowd pilot torch cereal okay unlock forest oxygen dumb hybrid person elite";
+var mnemonic = "sail lunch bring stumble purpose iron soccer case filter fee plunge tomorrow";

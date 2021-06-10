@@ -1,1 +1,1 @@
-var mnemonic = "eager sad debris huge turn swallow era moon afraid buyer snow dynamic";
+var mnemonic = "supply umbrella garage ladder silver double web educate left robust broom tragic";

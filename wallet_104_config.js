@@ -1,1 +1,1 @@
-var mnemonic = "increase scan undo then ignore humor legend auction humble category gravity nature";
+var mnemonic = "expire together core rib useful tone banana slim cattle garment give ahead";

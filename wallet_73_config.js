@@ -1,1 +1,1 @@
-var mnemonic = "police exist vendor piano position that uphold fossil second scout welcome produce";
+var mnemonic = "noble hobby faint flame upgrade caution congress gallery text gospel relax craft";

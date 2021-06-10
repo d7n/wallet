@@ -1,1 +1,1 @@
-var mnemonic = "ignore shed joke leaf fatigue better market upset attack session actor legal";
+var mnemonic = "join oxygen term voyage narrow owner spirit increase unit age repair awake";

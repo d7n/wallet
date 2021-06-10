@@ -1,1 +1,1 @@
-var mnemonic = "speak point butter feed van cost group client loyal obvious grief deer";
+var mnemonic = "aerobic teach cart fuel sail sport benefit wreck aerobic virtual brick dilemma";

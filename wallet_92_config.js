@@ -1,1 +1,1 @@
-var mnemonic = "whip dawn runway custom width snow volume degree size game supply myself";
+var mnemonic = "enact keep race quantum indoor crack scrub episode message coach use spy";

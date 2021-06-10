@@ -1,1 +1,1 @@
-var mnemonic = "emerge pottery toy sugar thumb fault coyote jelly point quality discover right";
+var mnemonic = "scare once filter improve rally bus tunnel annual talent plate ranch cram";

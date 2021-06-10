@@ -1,1 +1,1 @@
-var mnemonic = "stuff stem room spot path pitch sword game sort since zebra episode";
+var mnemonic = "season prevent repair primary cabin monitor frozen proud west timber genius gap";

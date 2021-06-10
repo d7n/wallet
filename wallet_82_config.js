@@ -1,1 +1,1 @@
-var mnemonic = "fabric remove tattoo caught produce mom blood youth warrior surge symptom matrix";
+var mnemonic = "involve priority sunny sleep muffin blind deer era banner wish resource runway";

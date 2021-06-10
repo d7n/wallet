@@ -1,1 +1,1 @@
-var mnemonic = "satoshi person copper guide valve misery cheap stamp day strike swamp inch";
+var mnemonic = "forum embark zone visit ring behave used box mirror seed depend sibling";

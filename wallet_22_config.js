@@ -1,1 +1,1 @@
-var mnemonic = "found cycle inhale merge dragon edit school fee gift able observe bless";
+var mnemonic = "make junior fabric bag rather struggle oblige panther desk reveal marriage mind";

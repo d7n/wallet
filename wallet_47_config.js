@@ -1,1 +1,1 @@
-var mnemonic = "pupil refuse parent coach clip luxury eager top excite aunt thunder park";
+var mnemonic = "merge reject island plug reduce twenty borrow hire dawn fringe risk jungle";

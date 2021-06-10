@@ -1,1 +1,1 @@
-var mnemonic = "riot drink ill cave bike drop group gospel sign fix brisk stamp";
+var mnemonic = "ahead gossip sell wire salad sponsor shield swarm hockey cherry exclude pretty";

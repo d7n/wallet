@@ -1,1 +1,1 @@
-var mnemonic = "skate merit defense green unaware limit during hybrid host grunt response manage";
+var mnemonic = "purpose divorce spring device kind assault speed village music traffic version vast";

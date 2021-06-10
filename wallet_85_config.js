@@ -1,1 +1,1 @@
-var mnemonic = "web install sample piece game tag jealous dad pottery until garlic enter";
+var mnemonic = "crawl gloom clean erode cactus anxiety smart they family toward fold avocado";

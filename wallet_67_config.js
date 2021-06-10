@@ -1,1 +1,1 @@
-var mnemonic = "good brown permit disagree topic unfold praise pig fury exhaust click adult";
+var mnemonic = "face outdoor pupil endless core sting confirm pink taste swing casual interest";

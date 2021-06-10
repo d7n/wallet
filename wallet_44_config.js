@@ -1,1 +1,1 @@
-var mnemonic = "scheme force crucial away vacant little shrimp task crop gain question discover";
+var mnemonic = "umbrella plug gesture card woman message spring tray empty catalog please million";

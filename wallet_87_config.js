@@ -1,1 +1,1 @@
-var mnemonic = "buzz alone water believe attend original observe glove worth body cushion impulse";
+var mnemonic = "vault dutch burst hammer winter jump chunk warrior deny domain lift cover";

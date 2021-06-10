@@ -1,1 +1,1 @@
-var mnemonic = "crowd day index differ banana boy spawn dance hire arch edit empower";
+var mnemonic = "answer strike satoshi organ hold fault negative book clever art address comfort";

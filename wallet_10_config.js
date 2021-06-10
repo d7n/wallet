@@ -1,1 +1,1 @@
-var mnemonic = "globe analyst false equip wet future purse law left wool universe same";
+var mnemonic = "enough barely style risk pigeon much happy before run install lizard allow";

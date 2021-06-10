@@ -1,1 +1,1 @@
-var mnemonic = "base sniff settle learn wet release stuff erase lamp captain drip gun";
+var mnemonic = "bacon ticket torch satoshi play fence soccer news violin sample long alcohol";

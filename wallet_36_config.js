@@ -1,1 +1,1 @@
-var mnemonic = "swift depth birth fall romance punch action term spatial pioneer jazz reform";
+var mnemonic = "glare prison kick soup panic clap company gun picture museum source like";

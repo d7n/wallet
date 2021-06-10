@@ -1,1 +1,1 @@
-var mnemonic = "convince opinion guilt will rhythm gate easy belt color chalk pattern grab";
+var mnemonic = "faculty minimum any step curtain frequent knife receive ten rescue price oppose";

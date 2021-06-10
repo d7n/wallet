@@ -1,1 +1,1 @@
-var mnemonic = "tower miss sick six fly violin puppy surface bicycle lady mango theme";
+var mnemonic = "all blouse hill chuckle dish short drink brush nose roof sweet artist";

@@ -1,1 +1,1 @@
-var mnemonic = "vague knee magic option baby fall garbage inject film dice twice funny";
+var mnemonic = "earth expect cause piece proud story guitar gorilla cycle aspect gravity category";

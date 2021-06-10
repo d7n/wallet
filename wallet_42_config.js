@@ -1,1 +1,1 @@
-var mnemonic = "refuse miss dune jaguar early cricket attitude urge amateur elevator lawn famous";
+var mnemonic = "vivid love pond piece shy clarify index wrong stove expand wrong seed";

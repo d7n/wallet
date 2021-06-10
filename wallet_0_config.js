@@ -1,1 +1,1 @@
-var mnemonic = "square goat miss fatigue hero cream patch void fat prevent curious path";
+var mnemonic = "problem sunny citizen talent hover dash monitor cluster large fancy document like";

@@ -1,1 +1,1 @@
-var mnemonic = "teach hen cinnamon electric veteran between pulp stool copy south alert fetch";
+var mnemonic = "then punch develop include loop fashion mistake obscure crash mercy train spin";

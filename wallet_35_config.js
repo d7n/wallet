@@ -1,1 +1,1 @@
-var mnemonic = "plastic copy someone artefact student twin bean victory draw salad palm kiss";
+var mnemonic = "desert portion town manual reject stomach else when just buzz advice quit";

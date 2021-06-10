@@ -1,1 +1,1 @@
-var mnemonic = "milk weasel sweet indicate escape parade rebel law citizen protect antenna any";
+var mnemonic = "used silk mass slender employ illness story myself kit science twin enable";

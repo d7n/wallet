@@ -1,1 +1,1 @@
-var mnemonic = "moral when gospel grant across strong game hold cause cream fee finger";
+var mnemonic = "grief taste main cube fee able ostrich voice curve galaxy enter capable";

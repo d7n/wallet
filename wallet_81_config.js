@@ -1,1 +1,1 @@
-var mnemonic = "inmate meat piece stamp tortoise young world viable inject unlock east know";
+var mnemonic = "remove pilot fork calm brush cactus furnace sell fault plate swift oval";

@@ -1,1 +1,1 @@
-var mnemonic = "master roast elite old ice control position dice wash peace mechanic deer";
+var mnemonic = "swarm gas ozone dolphin web lion morning guess model bind artwork dragon";

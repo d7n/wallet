@@ -1,1 +1,1 @@
-var mnemonic = "salad blur regret exhibit road useless neglect trophy flame napkin speak rigid";
+var mnemonic = "flock select business snow clock symbol six hedgehog agree jar radar run";

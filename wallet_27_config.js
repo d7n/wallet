@@ -1,1 +1,1 @@
-var mnemonic = "urban chat taxi maid border pet fog because belt twenty veteran own";
+var mnemonic = "imitate tiger banana ahead robust robot speak session any matrix clay dove";

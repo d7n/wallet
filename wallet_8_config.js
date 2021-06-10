@@ -1,1 +1,1 @@
-var mnemonic = "unable fun foil tumble loop practice conduct night child solution buzz apple";
+var mnemonic = "fury jaguar gold return people keep inner pear ancient bridge carpet wisdom";

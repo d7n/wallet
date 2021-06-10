@@ -1,1 +1,1 @@
-var mnemonic = "print innocent accuse carry talk travel prison ball mean marble solar wagon";
+var mnemonic = "toe trash faith ill seat leisure junk ginger miracle cluster blast frame";

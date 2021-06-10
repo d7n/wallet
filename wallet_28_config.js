@@ -1,1 +1,1 @@
-var mnemonic = "gesture december cabin work clay regular supply hair disease little come cute";
+var mnemonic = "youth strike autumn seek general foil hurdle cupboard prefer panic disagree flee";
