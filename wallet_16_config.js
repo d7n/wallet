@@ -1,1 +1,1 @@
-var mnemonic = "collect prison ankle saddle buyer notice pole wrong sock keen item deliver";
+var mnemonic = "shadow galaxy open fence ridge bulk pet next rural tone armor pizza";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter apart nose motion outer thank sausage kick life case scorpion venue";
+var mnemonic = "once speak select tiny nose foot gate unknown weapon metal near minor";

@@ -1,1 +1,1 @@
-var mnemonic = "crew february broom skate fee aspect dignity other enough sadness shop armed";
+var mnemonic = "witness opinion peasant jelly nest talk oak wage seminar embrace cover hero";

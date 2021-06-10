@@ -1,1 +1,1 @@
-var mnemonic = "damp stay people chef vacant enhance pill spike assault ahead riot absurd";
+var mnemonic = "wild tail skull chef lift manual plunge easily horse when embrace lumber";

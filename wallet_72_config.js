@@ -1,1 +1,1 @@
-var mnemonic = "law satisfy crater raise junk rail offer hazard catalog trend crouch pool";
+var mnemonic = "dish stay someone audit hedgehog limit prison teach device believe enrich orient";

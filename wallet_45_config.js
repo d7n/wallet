@@ -1,1 +1,1 @@
-var mnemonic = "mistake book iron agree arena crawl stereo profit turtle trap kid earn";
+var mnemonic = "armed grid airport control garbage lava noise universe area wrong similar tiny";

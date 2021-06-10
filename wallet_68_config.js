@@ -1,1 +1,1 @@
-var mnemonic = "neutral guard claim organ slab belt lottery canvas flame safe asset breeze";
+var mnemonic = "proof rate lobster jungle canvas rose burden culture zoo gym long inner";

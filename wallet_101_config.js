@@ -1,1 +1,1 @@
-var mnemonic = "speak property spatial ignore jeans hope poet stock parrot cage noodle pledge";
+var mnemonic = "attend rigid weapon renew used liar ceiling bridge gain mirror fatigue crane";

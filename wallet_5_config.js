@@ -1,1 +1,1 @@
-var mnemonic = "matrix chuckle bridge clutch lobster hub gown exclude usual satisfy adapt million";
+var mnemonic = "mosquito syrup pen choose senior escape purchase scheme bind one gentle art";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty scare priority pattern bracket arrive grab father wonder apart chronic lunch";
+var mnemonic = "rebuild unfair arrest own work object traffic grow funny vintage exit other";

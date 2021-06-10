@@ -1,1 +1,1 @@
-var mnemonic = "velvet knee outside rare violin mountain major staff mushroom used cinnamon fringe";
+var mnemonic = "badge tackle fox clap junior canal anxiety gate nerve bid flight limb";

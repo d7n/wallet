@@ -1,1 +1,1 @@
-var mnemonic = "angry syrup title debris gossip kid guard garden april snake first consider";
+var mnemonic = "until pyramid dolphin frame town target science express swing write process bounce";

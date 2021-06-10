@@ -1,1 +1,1 @@
-var mnemonic = "arrow diagram moment shrug end potato figure moment okay word noble afraid";
+var mnemonic = "visual empty volcano enemy barrel kangaroo bachelor quit choose luxury sail trend";

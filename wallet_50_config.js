@@ -1,1 +1,1 @@
-var mnemonic = "city favorite effort rice error music section renew inhale height balcony usual";
+var mnemonic = "awkward bread benefit liar scale march keep enlist drink wait photo supply";

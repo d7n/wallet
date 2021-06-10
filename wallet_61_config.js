@@ -1,1 +1,1 @@
-var mnemonic = "argue inch sphere domain turn like network front organ provide cart inside";
+var mnemonic = "name pole donor suffer fly display awful grow female elegant prefer alarm";

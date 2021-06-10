@@ -1,1 +1,1 @@
-var mnemonic = "furnace update degree inmate spike team journey wheat blue boring salad wedding";
+var mnemonic = "lake caution copy wedding empty velvet shell month only measure member click";

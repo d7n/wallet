@@ -1,1 +1,1 @@
-var mnemonic = "tourist truth like tone sting settle monkey teach winter school fan sponsor";
+var mnemonic = "afraid olympic gospel lunch accident business silly brand enemy engine vapor gain";

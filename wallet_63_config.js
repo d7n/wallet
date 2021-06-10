@@ -1,1 +1,1 @@
-var mnemonic = "vacuum school finger struggle cluster spy latin push suffer foam prefer gravity";
+var mnemonic = "under slide dawn issue force toward must sausage brisk wild hobby pink";

@@ -1,1 +1,1 @@
-var mnemonic = "media cage lazy nurse antique coconut canoe ring weather wall resource holiday";
+var mnemonic = "tower oven about practice desk betray bone hurdle caught trend police lake";

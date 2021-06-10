@@ -1,1 +1,1 @@
-var mnemonic = "absorb daring struggle trim furnace defy still embrace normal mosquito inherit afford";
+var mnemonic = "disease mean crowd truth mind valve party annual solution judge limb vote";

@@ -1,1 +1,1 @@
-var mnemonic = "below grief return clog unit design bone merry bread orange salute person";
+var mnemonic = "quality between drill humble crew able add stairs accuse swift consider group";

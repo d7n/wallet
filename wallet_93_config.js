@@ -1,1 +1,1 @@
-var mnemonic = "kitten around convince brave leave text clock delay enough dish enlist leg";
+var mnemonic = "neither pull blue second negative vivid pond subject twenty design avocado vocal";

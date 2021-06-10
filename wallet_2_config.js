@@ -1,1 +1,1 @@
-var mnemonic = "degree lion bamboo one industry around viable debate become field proof left";
+var mnemonic = "cook exhibit cross spread task indicate measure spare sting response gas harsh";

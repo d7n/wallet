@@ -1,1 +1,1 @@
-var mnemonic = "famous involve scout small air wave excess obscure lend split improve narrow";
+var mnemonic = "size saddle yard acid catch art gentle coral saddle autumn pond lobster";

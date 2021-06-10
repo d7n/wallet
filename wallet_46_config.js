@@ -1,1 +1,1 @@
-var mnemonic = "critic ensure ready limit key source topic sudden hold hip tank sword";
+var mnemonic = "piece above few soup defense inject dizzy saddle brown field copy inside";

@@ -1,1 +1,1 @@
-var mnemonic = "ride creek drink fresh nominee patient ill acquire cat grocery connect mosquito";
+var mnemonic = "reject sibling token solid indoor polar swarm luggage muffin funny own pass";

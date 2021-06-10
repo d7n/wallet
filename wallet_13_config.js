@@ -1,1 +1,1 @@
-var mnemonic = "movie cook rocket reward pupil razor swap cycle auction roof output bulb";
+var mnemonic = "jar imitate ginger undo flower verb stone range wood degree dwarf bulk";

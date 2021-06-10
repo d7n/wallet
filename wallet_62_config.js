@@ -1,1 +1,1 @@
-var mnemonic = "fat blouse young near valid aware human tuition primary left attack ice";
+var mnemonic = "hobby sure unfair kitten deliver tomorrow now hammer ring hello math taste";

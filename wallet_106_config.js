@@ -1,1 +1,1 @@
-var mnemonic = "punch nose shrimp dumb fence escape shuffle edit choice myth drive list";
+var mnemonic = "squeeze plug theme olive episode odor cram gold buffalo library guide attract";

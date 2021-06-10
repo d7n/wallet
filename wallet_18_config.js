@@ -1,1 +1,1 @@
-var mnemonic = "action reduce powder horn material luggage brand session chuckle soup clarify hill";
+var mnemonic = "whip jelly history push labor liar robust leave curve waste olive giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "dune dog kitchen manual spoon accident mammal apart syrup group faith smoke";
+var mnemonic = "embark muffin swim nothing transfer barely visual december load pull mind age";

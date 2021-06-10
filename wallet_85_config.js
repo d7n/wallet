@@ -1,1 +1,1 @@
-var mnemonic = "clip vital kind raven travel kitchen ancient margin step choose code advice";
+var mnemonic = "damage lecture dragon drive mind wheat pluck art elegant simple trust still";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware behind push click turtle then draw account yard thank fantasy drive";
+var mnemonic = "attitude glad surprise panda actress when unit window rib powder ostrich stereo";

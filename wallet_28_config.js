@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog drink table credit drill divorce cushion ivory ceiling radar install ketchup";
+var mnemonic = "mutual rain canyon devote deputy siren rice ship dice edit enrich convince";

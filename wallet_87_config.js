@@ -1,1 +1,1 @@
-var mnemonic = "hip note ride over middle bubble vendor coin area symbol bitter lounge";
+var mnemonic = "expose stage weekend brush goat text uncle stand cart fruit canal glove";

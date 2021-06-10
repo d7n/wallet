@@ -1,1 +1,1 @@
-var mnemonic = "deliver attract valley sand apology whale uncover gather primary quality fade deal";
+var mnemonic = "cat trim parent inhale gold crater purpose any gospel diamond height jeans";

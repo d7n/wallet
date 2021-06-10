@@ -1,1 +1,1 @@
-var mnemonic = "model attract grant leg alien traffic pyramid behave claw senior sponsor oil";
+var mnemonic = "weasel define wait speed pupil symptom base inspire receive define about dilemma";

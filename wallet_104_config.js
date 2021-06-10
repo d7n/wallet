@@ -1,1 +1,1 @@
-var mnemonic = "session net own material guess deputy leisure eager acid choose power thank";
+var mnemonic = "motion noise hard journey govern add orient object absent hero weather effort";

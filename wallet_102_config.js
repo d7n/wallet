@@ -1,1 +1,1 @@
-var mnemonic = "crater industry caught salon bone hover small isolate worth fox diamond topple";
+var mnemonic = "polar length alien yard patch correct tiny multiply barely mule old only";

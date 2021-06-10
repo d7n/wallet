@@ -1,1 +1,1 @@
-var mnemonic = "pig enrich tissue wage nice position live expire impact stone remove market";
+var mnemonic = "cousin auto unit issue jaguar hospital banner echo draft woman weasel palm";

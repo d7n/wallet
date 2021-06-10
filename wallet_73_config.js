@@ -1,1 +1,1 @@
-var mnemonic = "nest above range wait note coach basic select twenty desk lion total";
+var mnemonic = "eagle friend sing tonight mean truly talent nest sign ability speak foster";

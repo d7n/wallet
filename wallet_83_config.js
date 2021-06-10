@@ -1,1 +1,1 @@
-var mnemonic = "judge rice cake shell speed harbor wonder globe rotate proud ready vapor";
+var mnemonic = "impact alert rabbit lumber rebel buyer nephew idea banner alarm crash cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit repair joy gadget oval jump green remain learn report load ask";
+var mnemonic = "someone captain update decline cement dynamic empty blouse story host become train";

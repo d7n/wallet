@@ -1,1 +1,1 @@
-var mnemonic = "ostrich toilet marriage eager fuel art question exercise odor cute element clay";
+var mnemonic = "scare saddle simple receive rug orchard pepper cycle seek wall hand hotel";

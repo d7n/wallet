@@ -1,1 +1,1 @@
-var mnemonic = "unfair toilet liar process dish shield alpha suspect buffalo utility crop pull";
+var mnemonic = "city end arctic mistake sand girl spare menu name canoe wish soldier";

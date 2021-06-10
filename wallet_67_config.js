@@ -1,1 +1,1 @@
-var mnemonic = "broccoli rose client virtual zebra cruise twice cloud gate walk example record";
+var mnemonic = "aunt ostrich avocado helmet moon abstract essay staff smoke thank chapter story";

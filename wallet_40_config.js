@@ -1,1 +1,1 @@
-var mnemonic = "public possible elephant ostrich casual able source exotic pilot escape kingdom story";
+var mnemonic = "faculty kiss grocery prize popular race access enroll radar civil dash evidence";

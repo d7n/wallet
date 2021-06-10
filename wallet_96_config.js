@@ -1,1 +1,1 @@
-var mnemonic = "renew remove useful blanket elbow false obscure skill urban course blue extend";
+var mnemonic = "discover guilt labor room panther dwarf live problem liar brand around predict";

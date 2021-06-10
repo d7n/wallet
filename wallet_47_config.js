@@ -1,1 +1,1 @@
-var mnemonic = "afford review purity point kitten uncover pyramid spray erupt hurry type license";
+var mnemonic = "denial clean need pact critic heavy broccoli proud duty crouch spy figure";

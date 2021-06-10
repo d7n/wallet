@@ -1,1 +1,1 @@
-var mnemonic = "bachelor ice during hungry neglect unit balance attract unfold pizza camp unique";
+var mnemonic = "smile train film panic eyebrow canal alert either border loyal ability raccoon";

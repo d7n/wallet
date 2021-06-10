@@ -1,1 +1,1 @@
-var mnemonic = "awake aspect vicious whale erase sketch shock wife boost engine pencil catalog";
+var mnemonic = "tiny birth engine leaf suit chief salad avocado source grief record aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "motion recipe expect orient pledge foil master fruit summer define lemon ten";
+var mnemonic = "improve cancel divert gorilla sword fun grief heart salt lesson half jacket";

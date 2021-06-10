@@ -1,1 +1,1 @@
-var mnemonic = "spatial project reject material rule latin heavy trade photo unlock circle couple";
+var mnemonic = "onion ignore swamp mass dutch bird wood dutch pilot inside grain buzz";

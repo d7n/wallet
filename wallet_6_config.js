@@ -1,1 +1,1 @@
-var mnemonic = "rebuild cabin crime snap stove frost solve opinion taxi legal news economy";
+var mnemonic = "coconut nature escape logic truly lesson inject hazard define pelican nephew million";

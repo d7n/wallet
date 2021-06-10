@@ -1,1 +1,1 @@
-var mnemonic = "guess cave insect collect abandon raccoon fault thrive behind swift body rug";
+var mnemonic = "rebuild reason neutral carry nasty fatal faith earn electric poem volcano arctic";

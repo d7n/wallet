@@ -1,1 +1,1 @@
-var mnemonic = "kingdom impulse gossip puppy marriage demand code job stuff innocent topic repair";
+var mnemonic = "solar have hammer vehicle island radar network cinnamon cycle gun clump trash";

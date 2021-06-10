@@ -1,1 +1,1 @@
-var mnemonic = "rate disagree thing foster chuckle coral merge crisp rail mean praise ill";
+var mnemonic = "voyage flat thrive beauty assist radar cool stumble loud globe put day";

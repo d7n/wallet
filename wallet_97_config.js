@@ -1,1 +1,1 @@
-var mnemonic = "excuse goose roof ginger pair citizen sock dizzy wrap course crisp tooth";
+var mnemonic = "board motor future calm awake bar boss glad wait course cruel feature";

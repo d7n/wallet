@@ -1,1 +1,1 @@
-var mnemonic = "cotton hip pistol segment steel pupil industry property material coral scrub scheme";
+var mnemonic = "tunnel present click plate solve jazz atom lobster method blood citizen drip";

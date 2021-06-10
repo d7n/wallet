@@ -1,1 +1,1 @@
-var mnemonic = "diagram story atom pyramid surround deny humble success tail cargo stove goose";
+var mnemonic = "ten hover lazy biology stock shadow banner veteran result provide give depth";

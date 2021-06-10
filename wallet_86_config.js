@@ -1,1 +1,1 @@
-var mnemonic = "buyer time motion concert duck orchard injury alcohol audit exit exhaust head";
+var mnemonic = "cousin oak depth junk mansion tobacco lottery filter recall oil royal traffic";

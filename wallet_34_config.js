@@ -1,1 +1,1 @@
-var mnemonic = "toilet dutch brick cabin live fork spoil vacant discover indoor surface age";
+var mnemonic = "since utility trade comic mother angle method speed rifle feed track salute";

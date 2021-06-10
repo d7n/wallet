@@ -1,1 +1,1 @@
-var mnemonic = "ensure nature bundle sponsor faculty flavor cupboard police jacket marriage harbor filter";
+var mnemonic = "creek devote pudding night sad stamp odor amused palm hover organ erupt";

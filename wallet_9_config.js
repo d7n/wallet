@@ -1,1 +1,1 @@
-var mnemonic = "prize calm pact suspect mountain rapid live actor forward magic green foot";
+var mnemonic = "lawn story know crash two enable fee guitar hole receive dentist trash";

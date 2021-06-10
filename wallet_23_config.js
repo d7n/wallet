@@ -1,1 +1,1 @@
-var mnemonic = "finger frog cabbage better zebra dynamic brain pigeon popular crowd motion vote";
+var mnemonic = "point volume boil milk sure escape invest defy paper outside exotic crime";

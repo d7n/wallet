@@ -1,1 +1,1 @@
-var mnemonic = "ceiling oppose retreat aim fly resist airport foil omit glow crack recall";
+var mnemonic = "file risk flag train purchase eight elevator total cheese health sheriff finish";

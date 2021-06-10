@@ -1,1 +1,1 @@
-var mnemonic = "bench cover gold engine goat fade flight cloth buddy hobby achieve issue";
+var mnemonic = "debris rent stomach fitness toast layer negative trip blur under gold collect";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe ceiling frequent fossil midnight brisk call rebuild swap wrong glance snack";
+var mnemonic = "hunt cruise wall index shuffle chaos urge open awkward sauce merge forum";

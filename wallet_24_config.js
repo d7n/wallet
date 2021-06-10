@@ -1,1 +1,1 @@
-var mnemonic = "announce switch purse rice size dial vital air relief horn cry hurry";
+var mnemonic = "obscure veteran illegal eager notice hire hurdle wood juice flavor obtain west";

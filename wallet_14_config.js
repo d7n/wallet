@@ -1,1 +1,1 @@
-var mnemonic = "duck solve wisdom offer marine endorse prison talk cruise oxygen head source";
+var mnemonic = "cover kite matter dad bring sorry border strike off chronic borrow pulse";

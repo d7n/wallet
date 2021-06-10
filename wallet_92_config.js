@@ -1,1 +1,1 @@
-var mnemonic = "virtual provide salon crowd strategy child century swift notable fruit gather wing";
+var mnemonic = "brass scissors duck crime luggage wave city rule once hat custom window";

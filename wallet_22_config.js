@@ -1,1 +1,1 @@
-var mnemonic = "student bring fine tank organ result legal install infant base history hair";
+var mnemonic = "guess issue apple rely grain crack unable pioneer dune wheat drift magic";

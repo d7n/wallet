@@ -1,1 +1,1 @@
-var mnemonic = "scheme wrist flower actress staff debris nerve before kangaroo spread kitten maximum";
+var mnemonic = "correct wish term buffalo galaxy rare vague notice desert frog about base";

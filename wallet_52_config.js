@@ -1,1 +1,1 @@
-var mnemonic = "random clip bitter patch save absent correct tattoo exclude leopard stairs lady";
+var mnemonic = "price mechanic digital valley body fork parent mind solar parent perfect dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "attack argue luxury range book very dizzy boss play spend observe treat";
+var mnemonic = "era wise obscure panic wage story absent electric hard airport cheap kit";

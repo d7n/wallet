@@ -1,1 +1,1 @@
-var mnemonic = "force liar veteran dentist shrug sure evidence mistake evidence awake mention hub";
+var mnemonic = "concert artwork girl token useful fortune shallow lift screen garden want blossom";

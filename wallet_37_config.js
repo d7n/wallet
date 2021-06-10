@@ -1,1 +1,1 @@
-var mnemonic = "weekend pulse elegant left juice garbage error inner remember giggle prepare child";
+var mnemonic = "supply crunch area coyote fire walnut stadium glow arrest put reduce cash";

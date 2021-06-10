@@ -1,1 +1,1 @@
-var mnemonic = "brick script old young like state bar myth whisper gate feel hamster";
+var mnemonic = "face inquiry unaware left lamp high define actress injury lonely fog open";

@@ -1,1 +1,1 @@
-var mnemonic = "echo vote deliver evidence easy obey protect ceiling title pulse bench remain";
+var mnemonic = "note certain enhance arrive volume common actual lunar shaft salt tool recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle shop duck can exotic magnet prize feed glue draw silk shine";
+var mnemonic = "require fun capital flip better chair possible whale audit surround ancient scene";

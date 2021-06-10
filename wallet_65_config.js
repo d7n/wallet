@@ -1,1 +1,1 @@
-var mnemonic = "onion mouse input soda upper bargain loop frog because student cloud pupil";
+var mnemonic = "expire kiss census name put reflect canal rotate force boring burger bread";

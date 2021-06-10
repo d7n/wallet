@@ -1,1 +1,1 @@
-var mnemonic = "forest cup payment alert miracle river blind purpose unveil comic loyal citizen";
+var mnemonic = "under face badge caution volume moon science describe oxygen champion thumb suspect";

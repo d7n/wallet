@@ -1,1 +1,1 @@
-var mnemonic = "avocado siege found company matter diet resemble alter reduce nominee chef night";
+var mnemonic = "shift drip dentist giggle often bounce prevent cloud modify shed device distance";

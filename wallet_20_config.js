@@ -1,1 +1,1 @@
-var mnemonic = "usual floor pumpkin squeeze garlic attend arctic spy gasp screen blossom labor";
+var mnemonic = "drop author angle bid casino rapid later distance rifle better drive edge";

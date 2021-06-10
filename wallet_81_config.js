@@ -1,1 +1,1 @@
-var mnemonic = "angry keep gas intact mandate health helmet maid oppose cotton test pride";
+var mnemonic = "cart promote business cargo weasel evoke bright minute city treat wash broccoli";

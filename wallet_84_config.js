@@ -1,1 +1,1 @@
-var mnemonic = "assist scrap another host enough sword base sail emotion inhale erode stairs";
+var mnemonic = "evil tuition toast mother reduce kid tray hobby quarter sad ride tobacco";

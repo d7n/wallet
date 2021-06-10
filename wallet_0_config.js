@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo cradle pigeon balcony unveil reflect relief pilot begin mystery soon wrist";
+var mnemonic = "pattern pistol stay section season napkin speed rigid left guilt jar update";

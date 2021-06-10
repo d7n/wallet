@@ -1,1 +1,1 @@
-var mnemonic = "steak visit fantasy woman hybrid author net similar warrior impact tackle document";
+var mnemonic = "spirit accuse witness floor sauce obscure lottery myself omit general journey struggle";

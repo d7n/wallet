@@ -1,1 +1,1 @@
-var mnemonic = "run yellow drama little result corn permit cram entire number tackle sleep";
+var mnemonic = "lawn void push bread horn surge disagree loop life mesh section chest";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth decrease old announce monkey proof clog crystal priority quick vital gaze";
+var mnemonic = "unveil west basic evolve decade popular tower basic quit plastic cream clutch";

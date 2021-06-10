@@ -1,1 +1,1 @@
-var mnemonic = "smart winner hidden edit rather female pizza symbol achieve salon universe elevator";
+var mnemonic = "grant increase title combine seminar meat coffee add layer tourist episode true";

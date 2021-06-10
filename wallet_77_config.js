@@ -1,1 +1,1 @@
-var mnemonic = "fat organ discover shift noble feature raise satoshi guitar correct crack rather";
+var mnemonic = "recall exit dawn edge bicycle suffer produce custom maximum pill rhythm alert";

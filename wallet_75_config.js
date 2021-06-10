@@ -1,1 +1,1 @@
-var mnemonic = "mandate theory shrimp eyebrow poverty globe doll venue fabric panther stone achieve";
+var mnemonic = "useful trumpet logic aisle nominee frost table buzz hurt size index slow";

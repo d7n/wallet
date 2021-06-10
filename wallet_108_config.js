@@ -1,1 +1,1 @@
-var mnemonic = "long credit describe regret orbit cricket pizza success you swim club fee";
+var mnemonic = "boring behave grow genius poem wreck process little fox goddess scorpion evidence";

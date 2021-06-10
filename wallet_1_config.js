@@ -1,1 +1,1 @@
-var mnemonic = "scare truth box enough void hurry ugly meadow salon key around warrior";
+var mnemonic = "urge view gather thumb mango idea place lion practice under level region";

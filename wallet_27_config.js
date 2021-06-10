@@ -1,1 +1,1 @@
-var mnemonic = "sport hollow ghost joy step utility business arm moral winter armor carpet";
+var mnemonic = "strong filter energy play phrase gym filter quiz tobacco result abandon slight";

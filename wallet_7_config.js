@@ -1,1 +1,1 @@
-var mnemonic = "pony double beef claim head vast alone degree party burden drill basic";
+var mnemonic = "frame child cost boost road swear trend beyond tiny debate inner spend";
