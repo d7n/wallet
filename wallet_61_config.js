@@ -1,1 +1,1 @@
-var mnemonic = "fortune erosion eye lyrics tray alert lake fox shoot pet april inherit";
+var mnemonic = "roof royal poet boss start else credit chimney goose bar anxiety submit";

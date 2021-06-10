@@ -1,1 +1,1 @@
-var mnemonic = "heavy pink urban october load lemon call invest moral garbage tag farm";
+var mnemonic = "patient idea era fitness cup party pilot throw shrimp panda october summer";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish once flush ostrich capable produce marble civil around rule ankle toilet";
+var mnemonic = "demand park angle abuse split jar bind fluid razor daring soon custom";

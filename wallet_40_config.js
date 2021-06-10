@@ -1,1 +1,1 @@
-var mnemonic = "joy symbol lawsuit insane multiply prevent toast roast athlete include thrive enter";
+var mnemonic = "warfare solution head spoon fabric assist squeeze shed critic bamboo evoke sad";

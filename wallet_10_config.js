@@ -1,1 +1,1 @@
-var mnemonic = "announce swap dune finish squeeze rival urban almost answer tent train obtain";
+var mnemonic = "device purse strategy barrel light boring tube canyon dinner bitter cup venue";

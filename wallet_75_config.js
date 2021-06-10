@@ -1,1 +1,1 @@
-var mnemonic = "seven clean diamond ability regular coral cry poverty happy bunker addict chaos";
+var mnemonic = "lady assume jeans chunk exact item burden click mutual vacant pluck tell";

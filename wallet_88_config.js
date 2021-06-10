@@ -1,1 +1,1 @@
-var mnemonic = "gym merge where sport rally tattoo budget december tilt clarify develop police";
+var mnemonic = "movie error weasel hurt mom invest clinic chimney enough wait rich discover";

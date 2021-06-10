@@ -1,1 +1,1 @@
-var mnemonic = "trap crane powder name sunset foot fox system inner core possible casino";
+var mnemonic = "tackle salute early vote fortune stairs enrich boy silk scan bundle enemy";

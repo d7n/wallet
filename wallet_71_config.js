@@ -1,1 +1,1 @@
-var mnemonic = "violin mushroom fruit museum simple write problem swim ring fuel confirm coast";
+var mnemonic = "punch august gossip car either ginger impact nose skill ordinary caught depend";

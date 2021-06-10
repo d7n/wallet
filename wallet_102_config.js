@@ -1,1 +1,1 @@
-var mnemonic = "soon reveal sense elbow outside demise chat embark buddy capital seven habit";
+var mnemonic = "random south pizza trap color hello fashion neither lion infant already track";

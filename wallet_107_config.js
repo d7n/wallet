@@ -1,1 +1,1 @@
-var mnemonic = "cloth soul awesome maple wrestle crash news humor possible forward involve tornado";
+var mnemonic = "ability visual dress tourist accident grow peasant bar endorse cliff swear steel";

@@ -1,1 +1,1 @@
-var mnemonic = "model tired hero pride actual parent loud drum trust credit cycle knee";
+var mnemonic = "aunt virus borrow seminar bulk boss hungry blast dial trumpet power help";

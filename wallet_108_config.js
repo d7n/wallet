@@ -1,1 +1,1 @@
-var mnemonic = "imitate chase loud raise scrap summer balcony unaware throw fiction friend flight";
+var mnemonic = "vicious grow inform limb frame void record exclude snake delay tag crystal";

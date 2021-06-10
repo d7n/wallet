@@ -1,1 +1,1 @@
-var mnemonic = "thrive scorpion pudding wedding ugly glance theory town energy level valve system";
+var mnemonic = "dance beauty bargain merry afford increase anxiety butter pupil sauce frown almost";

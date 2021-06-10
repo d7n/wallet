@@ -1,1 +1,1 @@
-var mnemonic = "enhance patrol riot average chalk front view tragic eager prison erosion venue";
+var mnemonic = "puzzle cannon jazz merry online rapid ranch opinion shed issue invest salmon";

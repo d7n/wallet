@@ -1,1 +1,1 @@
-var mnemonic = "finish rail scrub mushroom roast illness vague lesson pen address exchange check";
+var mnemonic = "bonus remove rail eternal state lift chief medal link shy thought forest";

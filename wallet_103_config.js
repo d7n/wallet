@@ -1,1 +1,1 @@
-var mnemonic = "twin major woman assault engine very crush result light word blur sound";
+var mnemonic = "degree merry detail vault kid choice false woman apple ketchup struggle annual";

@@ -1,1 +1,1 @@
-var mnemonic = "worry loyal dignity assume pool over light spring gasp kitchen pumpkin chronic";
+var mnemonic = "unusual body canyon candy physical faculty head slide immune antenna arena critic";

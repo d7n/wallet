@@ -1,1 +1,1 @@
-var mnemonic = "carry never potato foam demise ten bacon dose upon script produce bronze";
+var mnemonic = "bonus enough habit odor west basket position cry lazy patient burst video";

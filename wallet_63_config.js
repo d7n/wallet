@@ -1,1 +1,1 @@
-var mnemonic = "lottery retreat surprise recipe canoe run holiday asthma issue baby scout surprise";
+var mnemonic = "miracle resemble height estate father snow leaf mean desert ice region question";

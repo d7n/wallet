@@ -1,1 +1,1 @@
-var mnemonic = "include hill link month they orphan muscle argue hurt fork myself veteran";
+var mnemonic = "top crystal fashion marble wide main refuse leg settle bird bird tuition";

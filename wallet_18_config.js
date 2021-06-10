@@ -1,1 +1,1 @@
-var mnemonic = "like supply shoe cherry develop layer alley flame chapter priority option piano";
+var mnemonic = "panel cross vocal quit august shy wish aspect zero predict trust catalog";

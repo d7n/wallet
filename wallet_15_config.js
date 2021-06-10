@@ -1,1 +1,1 @@
-var mnemonic = "menu peanut aspect trend warfare dolphin decorate lab glad alien news loud";
+var mnemonic = "camera photo kitten paper cake friend dream social velvet apart hotel clutch";

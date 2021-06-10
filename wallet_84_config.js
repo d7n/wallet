@@ -1,1 +1,1 @@
-var mnemonic = "tell like taxi harvest ranch hair goose arch august bunker fog mom";
+var mnemonic = "media merit enable border mixture rebel warfare amazing woman divert birth water";

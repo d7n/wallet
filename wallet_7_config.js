@@ -1,1 +1,1 @@
-var mnemonic = "inflict core remember govern legend side soda small scheme young vehicle must";
+var mnemonic = "neglect grab pear kitten seat behind surge casual hurdle goat syrup light";

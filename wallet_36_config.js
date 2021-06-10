@@ -1,1 +1,1 @@
-var mnemonic = "pen mountain hospital soft flight obscure bacon question explain tenant this obvious";
+var mnemonic = "ask enjoy inside hat distance skull glass prosper author tourist pioneer orient";

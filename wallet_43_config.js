@@ -1,1 +1,1 @@
-var mnemonic = "divorce excite write soon soul cry magnet turtle want ride toward reunion";
+var mnemonic = "join shoulder burst lounge bicycle climb pact safe worth display picture oven";

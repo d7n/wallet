@@ -1,1 +1,1 @@
-var mnemonic = "pave sword aim silver summer lizard case gossip transfer decline hold steak";
+var mnemonic = "audit prize bird donor social again decrease stuff tomorrow motion inside assume";

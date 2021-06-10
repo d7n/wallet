@@ -1,1 +1,1 @@
-var mnemonic = "blush kingdom armed put prize hurt firm question child breeze scare loop";
+var mnemonic = "glance maze art advance decrease lunar whisper race spike episode tell stage";

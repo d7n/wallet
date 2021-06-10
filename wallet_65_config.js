@@ -1,1 +1,1 @@
-var mnemonic = "unfold garlic timber scare open member high credit lady sunset salute already";
+var mnemonic = "liar lonely spatial shoulder robot term solar undo verify know roast car";

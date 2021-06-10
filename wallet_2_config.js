@@ -1,1 +1,1 @@
-var mnemonic = "erode impose grocery law pulse draw toward canvas vital under wide foil";
+var mnemonic = "cool slam ranch tower summer patch claim welcome sport primary almost fury";

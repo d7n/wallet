@@ -1,1 +1,1 @@
-var mnemonic = "believe catch nasty fortune want arrow ethics illness rely jungle expect curtain";
+var mnemonic = "setup sudden sing noble barrel defy knife proud matter process north candy";

@@ -1,1 +1,1 @@
-var mnemonic = "guess alert sadness reflect ship enlist adjust tree escape emotion pottery ski";
+var mnemonic = "bracket lottery filter spoon pair text runway lobster process family canal riot";

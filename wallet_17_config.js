@@ -1,1 +1,1 @@
-var mnemonic = "theory valve end web cluster night exact abstract survey moral either van";
+var mnemonic = "torch convince dog pulp whale garbage wheat thank outdoor decorate amused resemble";

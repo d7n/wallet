@@ -1,1 +1,1 @@
-var mnemonic = "wisdom position pottery cruise safe initial clump since magic nerve animal script";
+var mnemonic = "gas imitate brass giggle excite anchor pelican slab learn globe switch wait";

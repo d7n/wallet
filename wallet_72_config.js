@@ -1,1 +1,1 @@
-var mnemonic = "fade narrow ten elder sight property shrug surround mixed fiction ball family";
+var mnemonic = "cruel moment safe mirror simple village antique they rural picnic original verify";

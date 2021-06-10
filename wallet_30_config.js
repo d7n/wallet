@@ -1,1 +1,1 @@
-var mnemonic = "perfect uncover rent decorate bachelor dance adult muffin uncle open cattle hint";
+var mnemonic = "wagon utility neutral boy frog rare toe want until erupt solar dignity";

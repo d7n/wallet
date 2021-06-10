@@ -1,1 +1,1 @@
-var mnemonic = "wonder blue oil six series cigar mask dizzy town remember ability hammer";
+var mnemonic = "rhythm square sort scene purse region net pet pioneer pave soul shrug";

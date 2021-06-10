@@ -1,1 +1,1 @@
-var mnemonic = "brown bounce gesture promote income night title allow fragile eight clarify bacon";
+var mnemonic = "nut carbon chronic visual morning tomorrow clarify announce planet enforce goat chief";

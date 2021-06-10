@@ -1,1 +1,1 @@
-var mnemonic = "frame admit oval insane tag mom doll thumb space mule saddle state";
+var mnemonic = "safe skirt such gesture sing simple this barely tiger lecture menu element";

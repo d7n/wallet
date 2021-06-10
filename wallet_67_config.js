@@ -1,1 +1,1 @@
-var mnemonic = "easy gauge sport axis know sort consider know already crater scissors chaos";
+var mnemonic = "solution range size same chief diamond student purpose bone chase bubble lumber";

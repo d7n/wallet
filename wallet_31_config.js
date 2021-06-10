@@ -1,1 +1,1 @@
-var mnemonic = "exhaust false today behave observe illness smile rifle ginger tongue social system";
+var mnemonic = "dove asset shift worry occur jump lemon cheap food original since open";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity nuclear trial check brown leader strike wash village release lonely spirit";
+var mnemonic = "polar enough rack nominee health solution beyond access more destroy slush possible";

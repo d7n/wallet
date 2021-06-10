@@ -1,1 +1,1 @@
-var mnemonic = "sweet faith fetch clip arrange powder hidden base hero siege pelican drop";
+var mnemonic = "tunnel hint begin permit right pair fiction topic squirrel enjoy drink pair";

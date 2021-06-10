@@ -1,1 +1,1 @@
-var mnemonic = "grape project direct awake eye unlock rent setup wine become park permit";
+var mnemonic = "switch rule whisper ticket minimum nephew clever online torch proud salute utility";

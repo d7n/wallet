@@ -1,1 +1,1 @@
-var mnemonic = "pigeon hour project limb dial index logic divert scan garment spice cry";
+var mnemonic = "student noble decline outside soft cash anger fiction robust canoe strike corn";

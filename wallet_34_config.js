@@ -1,1 +1,1 @@
-var mnemonic = "hockey impulse basket gesture claw future vague shop era random increase anxiety";
+var mnemonic = "submit original worth file want develop club barrel raven option report heavy";

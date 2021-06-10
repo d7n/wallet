@@ -1,1 +1,1 @@
-var mnemonic = "fetch walk tired castle change juice ability purse draft fever wink drop";
+var mnemonic = "office avocado asset convince crater raise crouch burger then glue crumble bachelor";

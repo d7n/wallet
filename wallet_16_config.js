@@ -1,1 +1,1 @@
-var mnemonic = "twist way symbol arrive under logic winner birth armed curve enhance bleak";
+var mnemonic = "identify merit agree first rubber expire run fiscal couple deliver devote little";

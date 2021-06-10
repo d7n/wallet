@@ -1,1 +1,1 @@
-var mnemonic = "sword route shift execute produce head common jazz decrease swim lend reject";
+var mnemonic = "valid pole educate sand rough entry toddler slogan vintage inject museum flame";

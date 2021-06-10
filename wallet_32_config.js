@@ -1,1 +1,1 @@
-var mnemonic = "abandon below catch naive kit cricket trumpet jar derive zebra today urge";
+var mnemonic = "cash fiber spoon castle false future come usage tree pet car dish";

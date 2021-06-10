@@ -1,1 +1,1 @@
-var mnemonic = "bubble general once super dream sheriff pipe vendor possible garden patient excite";
+var mnemonic = "wheat pumpkin waste laptop idea poverty lizard pelican first sheriff occur media";

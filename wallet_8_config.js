@@ -1,1 +1,1 @@
-var mnemonic = "anxiety write aunt wrap crowd million dwarf stage food donkey excuse judge";
+var mnemonic = "luxury client only course series today isolate sick kite engine glare mule";

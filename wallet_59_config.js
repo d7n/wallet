@@ -1,1 +1,1 @@
-var mnemonic = "acquire remind phone theory turn dice culture exotic midnight fix profit cause";
+var mnemonic = "document slush clap sick swim movie delay mutual enrich become magnet pulp";

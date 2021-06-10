@@ -1,1 +1,1 @@
-var mnemonic = "exotic boil modify coral history deposit rib doctor feature taxi remember cube";
+var mnemonic = "shop forward diagram bitter hope hip sphere trigger coast picnic addict argue";

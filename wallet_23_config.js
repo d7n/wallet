@@ -1,1 +1,1 @@
-var mnemonic = "marble two loan input pig rug humble gun term nurse accident rich";
+var mnemonic = "suggest knee moral upset toast video tooth auction seed tissue mobile puppy";

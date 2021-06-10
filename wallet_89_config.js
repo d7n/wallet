@@ -1,1 +1,1 @@
-var mnemonic = "frame calm change siren noble empower fade keep equip fit bean liar";
+var mnemonic = "dish modify voyage cereal aim allow calm spider wrestle name boil fresh";

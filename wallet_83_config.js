@@ -1,1 +1,1 @@
-var mnemonic = "hybrid agree penalty excite fix happy stable filter alcohol dash uphold glow";
+var mnemonic = "obtain rate year lift census legend sadness inhale canvas pipe unable cute";

@@ -1,1 +1,1 @@
-var mnemonic = "glide regular verify night tail error sick amateur hope bless rally during";
+var mnemonic = "arena public such decade adult neck peanut perfect make cake divorce print";

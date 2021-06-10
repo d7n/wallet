@@ -1,1 +1,1 @@
-var mnemonic = "ozone brand risk replace stumble gloom zone metal text critic neglect hold";
+var mnemonic = "much level plug wasp monster blind nose raise light diary coffee rug";

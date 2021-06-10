@@ -1,1 +1,1 @@
-var mnemonic = "equip change luggage clarify often excite unknown gold order trend final turn";
+var mnemonic = "good letter maximum rail insect wheel success video pitch rely earn sentence";

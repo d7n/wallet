@@ -1,1 +1,1 @@
-var mnemonic = "brown gather rug sibling soda clinic patrol toddler lunch ship join copy";
+var mnemonic = "afford planet local rebuild magic paper snap dutch rebel fabric frame alley";

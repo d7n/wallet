@@ -1,1 +1,1 @@
-var mnemonic = "smooth once theory table olive whale galaxy three dial waste across file";
+var mnemonic = "ice hollow orbit way private inquiry taste series pride exile rely reward";

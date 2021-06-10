@@ -1,1 +1,1 @@
-var mnemonic = "unlock spoon oil congress steel nuclear route skin trap kidney embody army";
+var mnemonic = "awkward deal feed typical focus result relief century still idle soon gym";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse cash announce today mask spring laptop rain guilt stone reject crack";
+var mnemonic = "stone hurry text expect cruel drink skin until script nurse gun wrestle";

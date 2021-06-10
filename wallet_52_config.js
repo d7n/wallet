@@ -1,1 +1,1 @@
-var mnemonic = "miracle upon trophy tank electric mosquito humble spell steak rule pyramid elder";
+var mnemonic = "mail aim happy shrimp caught hotel child pig front kangaroo original roast";

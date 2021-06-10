@@ -1,1 +1,1 @@
-var mnemonic = "apology glide unveil hip annual sad cover street eager symbol infant smile";
+var mnemonic = "vibrant valid swim accuse fan cotton float target color reduce divorce trade";

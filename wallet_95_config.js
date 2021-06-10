@@ -1,1 +1,1 @@
-var mnemonic = "dream figure legend heavy gallery book rotate chaos dash project error dutch";
+var mnemonic = "twenty frozen resource manual east witness electric border ocean diamond front fury";

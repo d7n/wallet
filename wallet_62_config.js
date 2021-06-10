@@ -1,1 +1,1 @@
-var mnemonic = "crew record catch tell vocal rug guitar oak border visit confirm chair";
+var mnemonic = "maximum rib diamond wear glass exchange angle crew insane trim rib fox";

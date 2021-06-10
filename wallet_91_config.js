@@ -1,1 +1,1 @@
-var mnemonic = "race wish tree horror equal can force draft hand between action table";
+var mnemonic = "market quote helmet chicken seek winner egg share awesome pool modify water";

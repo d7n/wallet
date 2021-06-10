@@ -1,1 +1,1 @@
-var mnemonic = "tobacco exit claim joy catch pulp glow ensure range nut butter chase";
+var mnemonic = "vessel clock bomb okay wrestle moment owner income sudden humble army olympic";

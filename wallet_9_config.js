@@ -1,1 +1,1 @@
-var mnemonic = "note before catalog title outer sail coral kingdom body hedgehog around saddle";
+var mnemonic = "chunk label work employ three jelly suffer isolate always device swap monitor";

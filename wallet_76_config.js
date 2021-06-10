@@ -1,1 +1,1 @@
-var mnemonic = "tattoo inch category reduce drive snow step door mosquito demise forest actual";
+var mnemonic = "dilemma van mandate improve shoulder device radio dragon play ghost retreat case";

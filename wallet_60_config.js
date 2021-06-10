@@ -1,1 +1,1 @@
-var mnemonic = "inform health merit park shoe leisure family leaf hazard image suit timber";
+var mnemonic = "file girl interest tone walk nothing concert roast series put orbit jealous";

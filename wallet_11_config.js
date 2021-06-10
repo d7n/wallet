@@ -1,1 +1,1 @@
-var mnemonic = "surprise conduct decrease dog claim jealous mobile recycle robot that tree capable";
+var mnemonic = "biology else child affair pencil mother ordinary cart glass blame camp person";

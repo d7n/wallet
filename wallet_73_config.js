@@ -1,1 +1,1 @@
-var mnemonic = "dawn hedgehog possible pumpkin turkey mystery crazy nature bridge creek pink win";
+var mnemonic = "friend this mix wire spy artist culture loan pulse cup rocket tiny";

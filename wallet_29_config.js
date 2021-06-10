@@ -1,1 +1,1 @@
-var mnemonic = "beyond reduce burger use essay april until begin chef chimney news image";
+var mnemonic = "nature open spice rapid coast fatigue achieve sample category open exchange gasp";

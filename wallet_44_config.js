@@ -1,1 +1,1 @@
-var mnemonic = "decide mind pause grocery machine era space joy roof drink tomorrow eternal";
+var mnemonic = "alter narrow rate entry spice cause awful never keep expose echo differ";

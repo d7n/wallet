@@ -1,1 +1,1 @@
-var mnemonic = "mutual same hello harvest envelope welcome milk comic cycle sense laundry exclude";
+var mnemonic = "hole limit parrot near tube monster figure anger color brief coach february";

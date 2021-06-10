@@ -1,1 +1,1 @@
-var mnemonic = "aisle final little jeans that already flash police prepare pluck junior silly";
+var mnemonic = "crowd basic galaxy stable viable ordinary quote notable toe doctor notice actual";

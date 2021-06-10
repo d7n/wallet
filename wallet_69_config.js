@@ -1,1 +1,1 @@
-var mnemonic = "barely furnace myself settle pattern okay debate tenant become flame taste rule";
+var mnemonic = "seed prevent paddle almost drill practice flower answer observe brother occur fork";

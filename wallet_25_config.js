@@ -1,1 +1,1 @@
-var mnemonic = "either tortoise reflect trigger bonus maximum meadow boil winner sausage hurt calm";
+var mnemonic = "glow fiction mass tower garment control sword jelly battle connect cube fold";

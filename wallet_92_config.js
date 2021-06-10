@@ -1,1 +1,1 @@
-var mnemonic = "detail ghost ride flight laptop december monkey law lock display keep street";
+var mnemonic = "jeans family bunker payment mammal current hunt gap seven desert arm token";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal beef rally scheme surface retreat final alone imitate kick leg depth";
+var mnemonic = "edit cry sister intact gas balcony quantum margin fee dismiss movie reopen";

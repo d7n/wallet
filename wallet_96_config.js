@@ -1,1 +1,1 @@
-var mnemonic = "error found maple renew risk produce short final nuclear turn layer road";
+var mnemonic = "chuckle adapt royal vague decorate ceiling pull ancient half you shaft action";

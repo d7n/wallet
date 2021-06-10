@@ -1,1 +1,1 @@
-var mnemonic = "dance uncover sadness stand live mosquito minute biology come protect version library";
+var mnemonic = "divide harsh spy source tooth airport negative belt diagram cross used error";

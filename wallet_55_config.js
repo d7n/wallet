@@ -1,1 +1,1 @@
-var mnemonic = "twin coil oblige erosion seek super foil lumber hurry faith become pen";
+var mnemonic = "fine disease course truly tell accident salon large ability iron announce outer";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut jelly drama during property judge chase rural roof roast toilet tongue";
+var mnemonic = "key carbon assist gift armed frozen fault web exhibit smart sick bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "lab essence cart betray rough arch genre hunt property assault congress tomorrow";
+var mnemonic = "result organ world few save left icon donate inhale trust sign gap";

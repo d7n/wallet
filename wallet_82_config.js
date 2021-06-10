@@ -1,1 +1,1 @@
-var mnemonic = "twice bottom double mammal wedding orchard vicious argue enforce inherit initial dentist";
+var mnemonic = "magnet field direct hub swing surface thought squirrel surprise refuse pipe decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "portion spawn human surprise slide neutral cluster affair inner debris receive gather";
+var mnemonic = "worth energy fuel weapon peace radio truth hotel worth method mirror struggle";

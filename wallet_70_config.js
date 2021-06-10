@@ -1,1 +1,1 @@
-var mnemonic = "sunset box dash actual myself west toast staff assault coast into coffee";
+var mnemonic = "february wrap between skirt pretty kitchen place couple price year estate output";

@@ -1,1 +1,1 @@
-var mnemonic = "economy juice corn mystery lonely empower banana beach cup method mask radar";
+var mnemonic = "armor lawn rare garbage infant rude above moon able citizen chapter text";
