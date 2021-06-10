@@ -1,1 +1,1 @@
-var mnemonic = "disease butter dynamic zebra cube unhappy urge scrub fog wrestle hint favorite";
+var mnemonic = "office crawl arctic level antique judge hospital jewel pool rough visa lounge";

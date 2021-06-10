@@ -1,1 +1,1 @@
-var mnemonic = "hawk second crater involve lounge filter kangaroo increase display lazy chair denial";
+var mnemonic = "boy fury enforce shove feed fever gain run laptop remain unfold crew";

@@ -1,1 +1,1 @@
-var mnemonic = "seed raise exit dog noodle urban tool cabbage exhibit month chicken ride";
+var mnemonic = "nature toddler senior bottom action review arrange stable lunar destroy girl rice";

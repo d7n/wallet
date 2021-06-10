@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur agent bread spare guess wool journey convince hour dynamic provide dinosaur";
+var mnemonic = "core broom firm strong give olympic achieve size ensure water blossom galaxy";

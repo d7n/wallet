@@ -1,1 +1,1 @@
-var mnemonic = "actress undo erupt network decide another income gift frost bean satoshi impose";
+var mnemonic = "flock march helmet chicken biology metal bonus very luxury evil true air";

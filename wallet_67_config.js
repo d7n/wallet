@@ -1,1 +1,1 @@
-var mnemonic = "frog taste hub result dream fee polar slush position giggle unaware culture";
+var mnemonic = "choice auction patch peanut garlic major fabric sphere ability glide border wedding";

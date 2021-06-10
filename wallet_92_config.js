@@ -1,1 +1,1 @@
-var mnemonic = "window sentence inmate tired trade twelve mesh blue actual daring control future";
+var mnemonic = "wire guard buyer gloom long project sudden drama unique uncover rebuild school";

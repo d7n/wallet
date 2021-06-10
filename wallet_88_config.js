@@ -1,1 +1,1 @@
-var mnemonic = "index option bright toward matter sock avocado wing save repeat blood inquiry";
+var mnemonic = "debate chunk ethics predict merry canal attract differ process bulk museum furnace";

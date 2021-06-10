@@ -1,1 +1,1 @@
-var mnemonic = "jazz hello topic route unable velvet daughter delay gain catch category cram";
+var mnemonic = "rug color project relax moral proof regular tank loud wisdom funny twice";

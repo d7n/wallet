@@ -1,1 +1,1 @@
-var mnemonic = "animal cruel brother napkin reunion bomb depth apology audit remind aisle blame";
+var mnemonic = "scan until clinic common hedgehog sword stove century daring dial draft put";

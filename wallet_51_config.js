@@ -1,1 +1,1 @@
-var mnemonic = "gas elephant begin good present vintage rhythm rare quantum fresh exhibit law";
+var mnemonic = "sport frown put zone book end arrive exact firm dream luxury aspect";

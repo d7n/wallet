@@ -1,1 +1,1 @@
-var mnemonic = "globe idea sheriff hub resource void soccer hello curtain dragon click fire";
+var mnemonic = "upgrade intact field endorse horn apple mouse snack shine yard laptop episode";

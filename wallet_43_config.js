@@ -1,1 +1,1 @@
-var mnemonic = "noise calm logic walnut either staff setup main february topic remember define";
+var mnemonic = "popular raise crouch fruit spot pull soon exotic test beauty friend prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom side glass view entire few give bleak depart cricket shrug charge";
+var mnemonic = "legal spray ready evidence nest unit that pigeon clown suspect table switch";

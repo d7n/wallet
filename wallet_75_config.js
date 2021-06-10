@@ -1,1 +1,1 @@
-var mnemonic = "system soldier unit slight west tip fox aim genuine bring toast neutral";
+var mnemonic = "someone core engine effort raw shuffle sense spray snap champion cabbage puppy";

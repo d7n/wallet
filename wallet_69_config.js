@@ -1,1 +1,1 @@
-var mnemonic = "polar snake latin minute amused panic affair soldier response admit know zebra";
+var mnemonic = "hobby consider output pattern orange maple asthma ancient rigid craft erase puppy";

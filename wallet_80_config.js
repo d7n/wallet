@@ -1,1 +1,1 @@
-var mnemonic = "clarify space visit salmon hint tonight neck excess vendor card depth robot";
+var mnemonic = "lunar bracket short mushroom feature fatal lion universe purpose finish glass human";

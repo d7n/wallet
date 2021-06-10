@@ -1,1 +1,1 @@
-var mnemonic = "force video acid toward box raw climb pizza junk shadow there exact";
+var mnemonic = "wrong draft equip grunt tribe doll expect gloom join clinic crucial tragic";

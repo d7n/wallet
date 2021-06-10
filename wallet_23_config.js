@@ -1,1 +1,1 @@
-var mnemonic = "dust accuse basket panic lion dignity champion bird warfare find ridge anchor";
+var mnemonic = "impact tree grow february connect whale abstract swarm wear blue decide purse";

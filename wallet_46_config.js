@@ -1,1 +1,1 @@
-var mnemonic = "tumble hire dust grab there leave supply manage scrap leader unaware poem";
+var mnemonic = "night certain tobacco clever injury junk extend length price beach ribbon lecture";

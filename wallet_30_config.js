@@ -1,1 +1,1 @@
-var mnemonic = "fine ocean equal transfer palace offer task sugar cabbage receive tomato romance";
+var mnemonic = "melt velvet slam radar spring before shield client subject mean sign chaos";

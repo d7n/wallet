@@ -1,1 +1,1 @@
-var mnemonic = "crystal human banana west save verify they maze essay crop fee chair";
+var mnemonic = "noble brand sudden page kid bottom quote suspect theory seek evoke spring";

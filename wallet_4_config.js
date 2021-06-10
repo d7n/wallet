@@ -1,1 +1,1 @@
-var mnemonic = "other output family bread unfold hello drum zone high power crucial chapter";
+var mnemonic = "spirit slight tree edit crack leader decade multiply involve misery neglect power";

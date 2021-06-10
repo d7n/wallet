@@ -1,1 +1,1 @@
-var mnemonic = "scout wealth nose exile farm valid brick faculty thunder rhythm clog toward";
+var mnemonic = "scout rude version rally account wide park emerge chunk lamp nasty voyage";

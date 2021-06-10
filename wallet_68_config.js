@@ -1,1 +1,1 @@
-var mnemonic = "cat lounge report concert pepper cloud anxiety crazy excess flower milk pact";
+var mnemonic = "black faint change tube master process stay bird round oval page pole";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan rule jacket resemble cargo sample shiver news parent much hollow pottery";
+var mnemonic = "reopen stomach cushion ensure only moral fork spread insane early involve crash";

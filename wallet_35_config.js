@@ -1,1 +1,1 @@
-var mnemonic = "wreck beyond ocean soda caught canoe crime quote old park hybrid fox";
+var mnemonic = "night spoil chimney nice over please toilet orchard market true sort fluid";

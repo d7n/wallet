@@ -1,1 +1,1 @@
-var mnemonic = "skill confirm minor into keen intact cheap target rough hobby napkin short";
+var mnemonic = "glory athlete subway wrestle voice return exact crazy dirt forum alert surface";

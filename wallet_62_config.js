@@ -1,1 +1,1 @@
-var mnemonic = "innocent firm deliver opera prosper horn stuff unable spy fluid grow maze";
+var mnemonic = "hobby awful author valve write discover buzz thank mail toddler parrot final";

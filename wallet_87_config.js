@@ -1,1 +1,1 @@
-var mnemonic = "okay clip client inside tooth sheriff suspect upon cable vacuum favorite cross";
+var mnemonic = "ring flee exile visa head welcome abandon scan silent sunset zone right";

@@ -1,1 +1,1 @@
-var mnemonic = "climb swap good carpet pride moment dumb wrap usual gauge sample cake";
+var mnemonic = "quality license actual eternal pledge guard section column era call february bless";

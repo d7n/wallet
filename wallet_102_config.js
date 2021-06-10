@@ -1,1 +1,1 @@
-var mnemonic = "cereal whisper hen inherit enter ginger similar hip come gap portion false";
+var mnemonic = "rotate fence valid snow burger pair smooth mystery palace odor denial job";

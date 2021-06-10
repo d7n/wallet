@@ -1,1 +1,1 @@
-var mnemonic = "begin like mother cigar color sense benefit faint silly typical trial theme";
+var mnemonic = "promote avocado suit fat oblige window stove barrel wheat trophy deputy panther";

@@ -1,1 +1,1 @@
-var mnemonic = "say defy stay ignore ahead pass toast box agent exist episode blame";
+var mnemonic = "tilt twin kick organ step play brave fence rapid flame spend speak";

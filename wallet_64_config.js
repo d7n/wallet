@@ -1,1 +1,1 @@
-var mnemonic = "electric glance warm nasty notice inhale riot build spend inquiry capital certain";
+var mnemonic = "patrol infant rural usage candy arch cruise visa hand pond approve allow";

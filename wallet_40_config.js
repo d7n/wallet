@@ -1,1 +1,1 @@
-var mnemonic = "device pluck clump sad legal grain helmet grief assist wedding stage expect";
+var mnemonic = "bar stairs destroy rent runway system define peace dutch angry news sibling";

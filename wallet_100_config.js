@@ -1,1 +1,1 @@
-var mnemonic = "future open box depth skin quit verb jungle evil enter culture loan";
+var mnemonic = "injury actress helmet ill leader achieve sweet wolf hover diet vibrant plastic";

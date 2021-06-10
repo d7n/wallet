@@ -1,1 +1,1 @@
-var mnemonic = "already box peace correct mandate faculty laundry proof bicycle duty above behave";
+var mnemonic = "chunk ring feed island agree page reward artefact online crack excuse depend";

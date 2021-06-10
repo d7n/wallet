@@ -1,1 +1,1 @@
-var mnemonic = "offer mother label eyebrow genre useful ice unique harvest happy defense forest";
+var mnemonic = "film glance police airport coil desert honey announce portion pact creek glide";

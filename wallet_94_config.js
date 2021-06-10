@@ -1,1 +1,1 @@
-var mnemonic = "alter more base observe grant fever thunder since brass extra poet hazard";
+var mnemonic = "symptom note brush dinner side day assist offer ice approve acquire replace";

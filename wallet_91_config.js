@@ -1,1 +1,1 @@
-var mnemonic = "trigger promote someone hair cliff skate plunge present exist ridge spell opinion";
+var mnemonic = "eternal easy then sister brush ability onion since point rookie more provide";

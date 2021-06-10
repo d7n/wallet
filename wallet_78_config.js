@@ -1,1 +1,1 @@
-var mnemonic = "you board cruise region supply know prison region kind long electric wet";
+var mnemonic = "undo gravity system sock orphan jealous tonight eyebrow almost office shove twenty";

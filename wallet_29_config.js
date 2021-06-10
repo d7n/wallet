@@ -1,1 +1,1 @@
-var mnemonic = "live green social ocean boil embark proud icon view jungle drop feature";
+var mnemonic = "peace vapor diet sight patrol fabric public bread wing guide divorce blossom";

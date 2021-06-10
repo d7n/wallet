@@ -1,1 +1,1 @@
-var mnemonic = "friend damage thing reject also adult grocery dentist damp raw eyebrow captain";
+var mnemonic = "bind reflect garden hazard same unit harsh erode fee random slice position";

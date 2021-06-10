@@ -1,1 +1,1 @@
-var mnemonic = "cake number wild random output spin strategy pave finger sport wrestle purpose";
+var mnemonic = "half jeans square canal anxiety void shrimp load because silly mosquito fade";

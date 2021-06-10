@@ -1,1 +1,1 @@
-var mnemonic = "hundred narrow rhythm naive trigger knock culture enrich marriage squeeze axis boy";
+var mnemonic = "miss earth tilt jump pond park pill similar elder scout purpose slow";

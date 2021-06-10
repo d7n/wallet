@@ -1,1 +1,1 @@
-var mnemonic = "slice height plate confirm right warm utility rhythm dinner eagle fault trial";
+var mnemonic = "involve bomb math this kingdom undo dilemma rocket false sword grief bike";

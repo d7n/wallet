@@ -1,1 +1,1 @@
-var mnemonic = "leaf tribe box crazy near quantum fade labor bachelor hub trash glide";
+var mnemonic = "forest night crater galaxy blossom math grace service accuse analyst live anger";

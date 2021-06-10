@@ -1,1 +1,1 @@
-var mnemonic = "bunker science fury comfort vital insect pistol plug noise smile happy they";
+var mnemonic = "climb three annual document borrow whale shrimp define autumn submit custom report";

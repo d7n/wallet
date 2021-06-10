@@ -1,1 +1,1 @@
-var mnemonic = "slush evidence note first salad camera exile process draw casino silver thing";
+var mnemonic = "kick space clutch artefact cat bargain lumber actress clock surround settle moment";

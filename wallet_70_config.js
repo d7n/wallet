@@ -1,1 +1,1 @@
-var mnemonic = "chalk occur reopen car panda pony belt surround equal gather damp save";
+var mnemonic = "pink keen skill donkey simple town alert office liar film region truck";

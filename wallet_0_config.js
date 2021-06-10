@@ -1,1 +1,1 @@
-var mnemonic = "produce mammal tree tourist always easily worth grow runway eternal attitude comfort";
+var mnemonic = "sea symbol jelly room mimic heavy undo pole noise badge valley flock";

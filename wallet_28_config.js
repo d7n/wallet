@@ -1,1 +1,1 @@
-var mnemonic = "heavy train half angry idea faint ribbon skill build spawn object harsh";
+var mnemonic = "barrel task barely buddy around dizzy own vast model stand dance when";

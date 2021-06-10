@@ -1,1 +1,1 @@
-var mnemonic = "pelican invest concert hold arctic hen snack upset crash square ahead artefact";
+var mnemonic = "wisdom solve next merge glimpse rescue jungle loop vapor swear legal expand";

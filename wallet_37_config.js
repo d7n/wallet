@@ -1,1 +1,1 @@
-var mnemonic = "attract prefer museum deposit jelly palm tree awake drastic invite nurse creek";
+var mnemonic = "spy charge message trap armed able track alert magic aware express depend";

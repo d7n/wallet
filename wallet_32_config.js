@@ -1,1 +1,1 @@
-var mnemonic = "because hand add flush dutch word fringe danger sniff youth mind ability";
+var mnemonic = "puzzle boost ensure kangaroo mosquito soup crumble scissors skull yellow relax alert";

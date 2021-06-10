@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow tape dial glad uphold pizza ugly mix cycle garage lawn one";
+var mnemonic = "expect adjust remain carbon symptom volume embrace what brother rate vast debate";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet opinion august coach genius oak decide purchase drop clay toss column";
+var mnemonic = "wire scrub mango screen extend grunt tongue village age spawn save give";

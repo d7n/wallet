@@ -1,1 +1,1 @@
-var mnemonic = "drama traffic enlist author north symptom system chat coral blush sister kangaroo";
+var mnemonic = "near mirror pulp fade saddle source buyer taste basic sustain seat base";

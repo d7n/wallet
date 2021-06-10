@@ -1,1 +1,1 @@
-var mnemonic = "escape defense bargain family boring allow try into flash chef leader certain";
+var mnemonic = "person man soda chunk party happy swallow prevent offer drink umbrella kitchen";

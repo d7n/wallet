@@ -1,1 +1,1 @@
-var mnemonic = "mouse harvest regular girl master oyster settle banana laptop exercise tomato crime";
+var mnemonic = "this present price erode pink inherit lumber penalty inhale field situate cash";

@@ -1,1 +1,1 @@
-var mnemonic = "place clap morning broom win have toss manage panther minimum bullet about";
+var mnemonic = "staff bachelor slight romance actor win device gorilla glove panda short shock";

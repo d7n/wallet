@@ -1,1 +1,1 @@
-var mnemonic = "theory doll enjoy sail inside owner junior liquid snow pact quality old";
+var mnemonic = "limit wet air electric alley pattern notice chief stadium live toilet ensure";

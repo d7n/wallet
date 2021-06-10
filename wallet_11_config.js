@@ -1,1 +1,1 @@
-var mnemonic = "armed click coyote allow warrior virus reunion shaft social adapt struggle promote";
+var mnemonic = "phone buyer dutch alcohol useless other decorate multiply attack atom east hollow";

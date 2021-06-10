@@ -1,1 +1,1 @@
-var mnemonic = "hobby announce foot subway review engine arrange worth original cat annual sight";
+var mnemonic = "trust morning endless travel meat umbrella mushroom wrap hollow surge miss robust";

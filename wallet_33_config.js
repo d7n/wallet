@@ -1,1 +1,1 @@
-var mnemonic = "theory portion history feel tuition fun innocent village agree board snow mother";
+var mnemonic = "ramp used room grocery glance ill pitch deal potato hello price item";

@@ -1,1 +1,1 @@
-var mnemonic = "train sausage scissors slight fiber sauce funny panic diet license island nephew";
+var mnemonic = "gallery auction social clown hockey praise mixed canyon replace adult fabric behind";

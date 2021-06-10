@@ -1,1 +1,1 @@
-var mnemonic = "donor wish basic tray tent joke summer health region clever nice detail";
+var mnemonic = "swallow piano icon knock tragic domain utility bamboo bitter frog tunnel author";

@@ -1,1 +1,1 @@
-var mnemonic = "never throw summer fabric column pull annual basket curve cake busy struggle";
+var mnemonic = "pen identify shed evolve resource charge start legal month blade mandate siege";

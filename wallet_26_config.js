@@ -1,1 +1,1 @@
-var mnemonic = "ski witness rubber dry vicious blame ski pottery pottery cross staff twenty";
+var mnemonic = "truck potato engage host vicious enrich refuse afford birth educate swing hidden";

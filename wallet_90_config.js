@@ -1,1 +1,1 @@
-var mnemonic = "corn awesome hair day repeat diamond arch trumpet family garlic shrimp goat";
+var mnemonic = "disagree man hair guitar shift citizen beef weasel margin rare hazard vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "edit success chicken push jaguar gravity shop knife problem impose anchor region";
+var mnemonic = "stool story best toe push coconut delay luxury model tenant admit infant";

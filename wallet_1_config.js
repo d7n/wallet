@@ -1,1 +1,1 @@
-var mnemonic = "fever pink sketch laugh puppy keep trial wrestle mountain lady voice nominee";
+var mnemonic = "embark pulse bargain dad viable depart super meadow purchase legal humble glue";

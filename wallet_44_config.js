@@ -1,1 +1,1 @@
-var mnemonic = "lunar camera elite prison eternal announce cliff essay brown novel adult drastic";
+var mnemonic = "worth panda safe actor rhythm draft execute inquiry never apple palace arm";

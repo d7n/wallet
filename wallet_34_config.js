@@ -1,1 +1,1 @@
-var mnemonic = "hover gentle wine advice excite obtain enlist wool rail primary dream cheese";
+var mnemonic = "piece jealous regret tackle echo hawk lobster seminar place engine grant split";

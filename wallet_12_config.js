@@ -1,1 +1,1 @@
-var mnemonic = "small earn easy cat dolphin olympic beauty west coffee march grunt shoe";
+var mnemonic = "dwarf great athlete sword blue purse snow trouble embrace busy urge object";

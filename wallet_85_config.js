@@ -1,1 +1,1 @@
-var mnemonic = "best nest fragile battle zoo alter grace thrive eager rocket salmon eagle";
+var mnemonic = "kitchen body element forget rib gate valve blur decline goat bike opinion";

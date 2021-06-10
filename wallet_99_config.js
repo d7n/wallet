@@ -1,1 +1,1 @@
-var mnemonic = "mask kingdom nice east earn popular ill amused merge travel wrong casual";
+var mnemonic = "develop fence horn surface where round return chair message dwarf already occur";

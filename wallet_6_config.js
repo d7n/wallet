@@ -1,1 +1,1 @@
-var mnemonic = "denial song siege wing vintage pause minor olive theory swift slam poverty";
+var mnemonic = "glue wing fresh define panic wire spawn science series expire output ordinary";

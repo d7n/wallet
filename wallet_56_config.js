@@ -1,1 +1,1 @@
-var mnemonic = "drill major erosion little credit squirrel pizza pretty entry few arch month";
+var mnemonic = "minimum act marine grant seed release option wheel useful sweet suggest surround";

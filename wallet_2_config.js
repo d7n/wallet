@@ -1,1 +1,1 @@
-var mnemonic = "stove hover poet bronze visit inform artwork holiday portion auto gospel master";
+var mnemonic = "celery style lock wreck fault upgrade stadium beauty jazz tomorrow noble happy";

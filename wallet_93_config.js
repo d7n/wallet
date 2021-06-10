@@ -1,1 +1,1 @@
-var mnemonic = "minor unfold jungle zone tide hero drastic enact head pepper radar gown";
+var mnemonic = "toward deliver gloom like renew stuff lumber diary enter rent future toilet";

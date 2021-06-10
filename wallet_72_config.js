@@ -1,1 +1,1 @@
-var mnemonic = "mansion firm crush tuna require inform weather debate excess sugar enjoy stadium";
+var mnemonic = "anxiety egg unfair slight hurdle usual vital poem chat grant cupboard exile";

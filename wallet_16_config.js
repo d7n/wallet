@@ -1,1 +1,1 @@
-var mnemonic = "phone finger act prize noodle fat blush now april diesel usual predict";
+var mnemonic = "duty dignity treat hospital make mixed pair tank omit magnet apart orient";

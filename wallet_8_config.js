@@ -1,1 +1,1 @@
-var mnemonic = "urge horse aunt mother trim truck describe fitness aspect life fetch want";
+var mnemonic = "brother urge tunnel asset few better record label key champion illness inside";

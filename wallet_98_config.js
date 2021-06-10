@@ -1,1 +1,1 @@
-var mnemonic = "box online duck celery expand pumpkin response clutch first slide fragile aunt";
+var mnemonic = "weapon torch large metal junior alien puzzle pyramid word fix play area";

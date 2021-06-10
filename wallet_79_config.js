@@ -1,1 +1,1 @@
-var mnemonic = "stem purity asset vital verify mixture main finger collect situate athlete jacket";
+var mnemonic = "increase alter coil ribbon avocado order horse idle myself dirt celery cube";

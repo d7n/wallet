@@ -1,1 +1,1 @@
-var mnemonic = "diary pulse brother chapter off hard reason quiz alien door lawsuit tenant";
+var mnemonic = "item increase develop office pattern robust magic melt person play sustain river";

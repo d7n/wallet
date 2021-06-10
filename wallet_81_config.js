@@ -1,1 +1,1 @@
-var mnemonic = "afford melody congress kidney squirrel fresh virus road gun wink tuna exotic";
+var mnemonic = "task come utility fatal awful catch build bacon hole brother shaft security";

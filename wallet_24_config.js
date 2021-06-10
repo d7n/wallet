@@ -1,1 +1,1 @@
-var mnemonic = "quote swap wish limb season away blossom spy nerve sweet calm bullet";
+var mnemonic = "improve nothing nothing effort rib coral purpose wrestle mouse hair outdoor guitar";
