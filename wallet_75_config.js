@@ -1,1 +1,1 @@
-var mnemonic = "planet ridge silent tattoo pill spread august outside tortoise goat unaware nerve";
+var mnemonic = "attend army loud news oval mosquito corn flash galaxy flower harvest surround";

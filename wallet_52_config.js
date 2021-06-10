@@ -1,1 +1,1 @@
-var mnemonic = "insect dish pig catch have guide spot door bamboo soccer snap board";
+var mnemonic = "issue reflect record burst health donate talent uncle educate cricket salon village";

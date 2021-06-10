@@ -1,1 +1,1 @@
-var mnemonic = "expose discover involve save crazy luxury aim scare will enlist warrior thank";
+var mnemonic = "angry spawn book man claw accuse era exchange destroy copy main lizard";

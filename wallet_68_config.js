@@ -1,1 +1,1 @@
-var mnemonic = "universe theory profit light small anxiety heavy boss tape afford strike drop";
+var mnemonic = "poet episode execute envelope talk diet lady label picnic debris please slide";

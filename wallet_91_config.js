@@ -1,1 +1,1 @@
-var mnemonic = "sweet labor fury frost bounce decrease decide eager bracket dad deposit nuclear";
+var mnemonic = "series donor outdoor garage pelican cattle collect test hood frost idle wife";

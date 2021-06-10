@@ -1,1 +1,1 @@
-var mnemonic = "name lock grass acquire frozen rebuild worth mom team city bunker congress";
+var mnemonic = "transfer can lend crawl note cube quality volume gain kidney rib rug";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon cancel peanut buyer suit fiction fun pulse wide endless gossip volcano";
+var mnemonic = "tenant nut fashion desert stable giraffe rose vacuum name pistol wash artist";

@@ -1,1 +1,1 @@
-var mnemonic = "pink planet ball reveal lady smoke tumble extra verb region egg fringe";
+var mnemonic = "display surge uphold fire embody quit fade little first trend sign weasel";

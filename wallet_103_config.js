@@ -1,1 +1,1 @@
-var mnemonic = "this agent fault galaxy roof universe jump canoe photo sight copy famous";
+var mnemonic = "use truly range bargain cousin half fox thunder car raccoon woman drink";

@@ -1,1 +1,1 @@
-var mnemonic = "museum disease frame enjoy camp repeat loud tragic wisdom pulse ugly absent";
+var mnemonic = "sleep laugh future thrive box genuine affair front charge pave obey derive";

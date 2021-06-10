@@ -1,1 +1,1 @@
-var mnemonic = "extra name hope proof spell tiny moon innocent gold inside aerobic avocado";
+var mnemonic = "travel pitch always already motor number hire install junior purpose budget forum";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry effort dose glide three tuition worry knife holiday nuclear under basket";
+var mnemonic = "illness duck where clarify surprise critic certain fault target cup farm deputy";

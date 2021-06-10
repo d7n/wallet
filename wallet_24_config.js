@@ -1,1 +1,1 @@
-var mnemonic = "glad unhappy arctic three help ghost shuffle nation fatigue initial fury cream";
+var mnemonic = "catalog joke speak bid access lonely weekend lens wedding tell observe hire";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel outside south share forward repeat sister rapid tobacco figure cattle scene";
+var mnemonic = "raise teach tide trial agent market invite pulse fortune steak rocket mistake";

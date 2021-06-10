@@ -1,1 +1,1 @@
-var mnemonic = "more faith wing learn lens fashion you utility jacket lecture marine under";
+var mnemonic = "echo expect bachelor tooth casino grab game use evidence dragon joke gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "resource empty neck ice wise hold glue witness spread satisfy during budget";
+var mnemonic = "odor agent canvas coyote mass luggage funny quiz try divide dream abandon";

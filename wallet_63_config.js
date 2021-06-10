@@ -1,1 +1,1 @@
-var mnemonic = "cannon theory cat swamp margin replace accident file exit teach purse infant";
+var mnemonic = "crop report spell ozone innocent antenna hold law oblige afraid quantum rebuild";

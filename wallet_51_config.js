@@ -1,1 +1,1 @@
-var mnemonic = "casino output suit answer mass million kit envelope fold false august humor";
+var mnemonic = "marriage drip swarm impact flock oblige rally burger remain term woman spatial";

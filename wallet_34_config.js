@@ -1,1 +1,1 @@
-var mnemonic = "frost eager idle viable click powder panel robot pumpkin wealth plunge satoshi";
+var mnemonic = "daughter print panel chase able glance depart ozone mix crop group build";

@@ -1,1 +1,1 @@
-var mnemonic = "eight hen hand defy undo category august rare worth drama throw rose";
+var mnemonic = "forward aisle spy present return unusual boost mushroom toast glad fitness mind";

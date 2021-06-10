@@ -1,1 +1,1 @@
-var mnemonic = "student library piano sea tomato degree lucky relief air lesson obtain action";
+var mnemonic = "ghost exclude slender face elegant shell vehicle guard occur asset shell beyond";

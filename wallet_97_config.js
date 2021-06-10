@@ -1,1 +1,1 @@
-var mnemonic = "thunder ankle custom air giant flash lizard foot empower hurt give simple";
+var mnemonic = "rent craft eagle drink spread midnight exchange guitar nephew shift use shop";

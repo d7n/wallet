@@ -1,1 +1,1 @@
-var mnemonic = "observe demise october negative join sight fire divorce lonely parade script buyer";
+var mnemonic = "lunar crunch bronze truck initial ozone gate inherit walk aunt alpha priority";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee fatigue float catch hill mercy shield hospital stick alter appear buddy";
+var mnemonic = "noise coffee typical bubble miss emerge timber crew stick hazard alone when";

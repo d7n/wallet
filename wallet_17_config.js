@@ -1,1 +1,1 @@
-var mnemonic = "stock fury bulb side pistol calm rail morning again donor spell scare";
+var mnemonic = "make foot obey brush agree galaxy shed blush know glory fee umbrella";

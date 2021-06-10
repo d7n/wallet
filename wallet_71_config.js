@@ -1,1 +1,1 @@
-var mnemonic = "stamp bounce property permit grain rigid voyage list battle submit soft word";
+var mnemonic = "valley copper kitten slender weapon disease list rhythm camera reduce kangaroo second";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial lion fish drift display novel lake umbrella leg same strong coral";
+var mnemonic = "square text music grape royal solution matrix shove physical night syrup major";

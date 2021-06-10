@@ -1,1 +1,1 @@
-var mnemonic = "lyrics image thank rival balcony jazz target hurry company crisp cool penalty";
+var mnemonic = "alter priority dry crowd unknown mansion swallow abstract nothing appear bulk galaxy";

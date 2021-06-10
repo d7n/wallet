@@ -1,1 +1,1 @@
-var mnemonic = "hill adult settle around bulb regret reopen steak barrel clerk today goat";
+var mnemonic = "gold solid tube bitter crawl note snap please another wolf biology mule";

@@ -1,1 +1,1 @@
-var mnemonic = "protect pizza mystery spray surface belt require citizen borrow uphold wash similar";
+var mnemonic = "century ability cause fox trap rule announce zoo impulse october chat slender";

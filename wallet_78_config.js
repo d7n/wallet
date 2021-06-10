@@ -1,1 +1,1 @@
-var mnemonic = "mosquito long wolf acquire letter impose view mask clown target hungry spoil";
+var mnemonic = "cost cream valve kick cloth change refuse method ski poverty fantasy funny";

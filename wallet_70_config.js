@@ -1,1 +1,1 @@
-var mnemonic = "ten idle stand topic seminar hybrid decide boat perfect link salute own";
+var mnemonic = "crumble kit profit poverty never barrel group beauty slam record build burger";

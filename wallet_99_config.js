@@ -1,1 +1,1 @@
-var mnemonic = "hero blame amused gas inflict dirt draft bike find relief motor average";
+var mnemonic = "wife hard message comic task option turkey sheriff primary spider craft detect";

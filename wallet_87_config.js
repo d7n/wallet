@@ -1,1 +1,1 @@
-var mnemonic = "corn finish artefact right bless rib agree essence rude mean vapor hundred";
+var mnemonic = "elevator unhappy finger permit swim sorry choose sheriff labor stock duck guard";

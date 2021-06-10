@@ -1,1 +1,1 @@
-var mnemonic = "issue coconut journey pact human sample nature gadget neglect since assault space";
+var mnemonic = "original write sniff into dutch once regular advice invite quality slight tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "option box brother stand settle evolve main kidney heart fever come pepper";
+var mnemonic = "grocery able trouble infant giant answer dwarf cabin exile oppose peace around";

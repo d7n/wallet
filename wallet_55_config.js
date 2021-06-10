@@ -1,1 +1,1 @@
-var mnemonic = "range empty pizza half donor island text modify mosquito carpet general aware";
+var mnemonic = "shop dad black conduct key roof inner tackle anxiety lion staff rose";

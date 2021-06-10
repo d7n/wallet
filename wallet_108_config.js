@@ -1,1 +1,1 @@
-var mnemonic = "minor high include cube advice climb mask fish crew remove bargain aim";
+var mnemonic = "jungle cliff swim record unfold panda wool title ahead gate onion fury";

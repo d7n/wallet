@@ -1,1 +1,1 @@
-var mnemonic = "walk point resist staff load join mammal announce journey organ hair hospital";
+var mnemonic = "apology category decade hour camera wealth chest amused fluid hurdle display ride";

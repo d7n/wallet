@@ -1,1 +1,1 @@
-var mnemonic = "ill giant mouse educate hen only property badge wealth wait cram clay";
+var mnemonic = "awake leg olive badge say impose slow jazz horn virtual soul hurry";

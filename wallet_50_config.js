@@ -1,1 +1,1 @@
-var mnemonic = "razor invite kingdom drive core cinnamon clock reopen palace peace sketch glory";
+var mnemonic = "copper claim civil subject shift scorpion goose inhale surround antenna dream ethics";

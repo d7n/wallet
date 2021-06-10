@@ -1,1 +1,1 @@
-var mnemonic = "limit simple squirrel crunch broken race escape damp rebuild snake song laptop";
+var mnemonic = "sudden rebuild swap music possible begin sample west atom secret fruit found";

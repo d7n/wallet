@@ -1,1 +1,1 @@
-var mnemonic = "flip improve paddle sad exit code duck pause opinion hazard deposit cousin";
+var mnemonic = "feed crane badge talk great license melt purity fatal mansion year fossil";

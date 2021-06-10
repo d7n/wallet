@@ -1,1 +1,1 @@
-var mnemonic = "auto digital pistol poet surprise legend scene fiscal cliff degree transfer same";
+var mnemonic = "misery crawl brick rescue slow decorate soup never green cool save buzz";

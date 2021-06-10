@@ -1,1 +1,1 @@
-var mnemonic = "stick outside nation arch bracket series agree finger extend budget vapor candy";
+var mnemonic = "nut dose neck settle sweet utility cluster typical potato unable undo assault";

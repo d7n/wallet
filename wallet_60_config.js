@@ -1,1 +1,1 @@
-var mnemonic = "equip click puzzle gasp office inner reveal mutual vapor access spend wink";
+var mnemonic = "friend satoshi wear bind donkey panic aisle toast garbage live neither endless";

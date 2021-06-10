@@ -1,1 +1,1 @@
-var mnemonic = "ivory badge type large donate loan public humble pizza melody educate differ";
+var mnemonic = "pluck caught dust burst hover kangaroo harvest expect oil item favorite print";

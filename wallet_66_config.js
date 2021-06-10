@@ -1,1 +1,1 @@
-var mnemonic = "tool balance rescue tired tower toy small awesome bundle debate alcohol vicious";
+var mnemonic = "solar vicious area giggle aware amazing media night business ring duck bird";

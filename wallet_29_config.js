@@ -1,1 +1,1 @@
-var mnemonic = "attitude kidney glow latin slam trend inspire drink time poet round inflict";
+var mnemonic = "sail blood ignore spawn slim love tilt jungle dolphin decrease goat stadium";

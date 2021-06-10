@@ -1,1 +1,1 @@
-var mnemonic = "mother merit girl sense ocean usual easy cave rotate peanut elite suffer";
+var mnemonic = "stuff toilet snow sphere spell orchard series kingdom dragon mountain chaos heart";

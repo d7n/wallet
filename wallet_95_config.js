@@ -1,1 +1,1 @@
-var mnemonic = "install brand position timber shine rocket oppose erupt kidney person weasel girl";
+var mnemonic = "oak distance clog abstract chase wife tiny frost ask seat window seed";

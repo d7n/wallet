@@ -1,1 +1,1 @@
-var mnemonic = "teach wait radar mule tragic weird soccer shuffle car science midnight consider";
+var mnemonic = "width opinion trumpet face milk custom paddle view broccoli hockey suggest ski";

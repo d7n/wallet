@@ -1,1 +1,1 @@
-var mnemonic = "scorpion vocal feed police bird liquid example barely click purpose hour camera";
+var mnemonic = "north swear rigid dirt garlic space accuse suggest hole flight govern tilt";

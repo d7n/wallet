@@ -1,1 +1,1 @@
-var mnemonic = "human move speed front depend hope game tonight retreat flee match bitter";
+var mnemonic = "hybrid bicycle oil since resist biology age reduce acquire supply palm any";

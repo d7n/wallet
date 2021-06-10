@@ -1,1 +1,1 @@
-var mnemonic = "crawl cover nest alien sketch rough lecture kingdom obey pair tomorrow promote";
+var mnemonic = "hurdle wheat two museum sad immense horn gallery coast rent zebra misery";

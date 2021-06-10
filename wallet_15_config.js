@@ -1,1 +1,1 @@
-var mnemonic = "purchase cable police burden elite right menu situate truly chaos prize uncover";
+var mnemonic = "ankle april guess include dynamic purpose sight next image dignity enforce hunt";

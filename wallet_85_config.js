@@ -1,1 +1,1 @@
-var mnemonic = "neck select trend will social wild hen shock van foster gospel include";
+var mnemonic = "hero above aunt spread width pool dinner stick obvious winner opinion lion";

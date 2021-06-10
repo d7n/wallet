@@ -1,1 +1,1 @@
-var mnemonic = "amazing mountain behave join member spread boil banana above artefact crunch blue";
+var mnemonic = "just inform idea tobacco remind mouse orient camera horse slim better misery";

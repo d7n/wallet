@@ -1,1 +1,1 @@
-var mnemonic = "film test flash mechanic icon quantum upgrade device bracket hybrid rent fame";
+var mnemonic = "manage tonight veteran require young flip dynamic bag crime connect cart prepare";

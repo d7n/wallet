@@ -1,1 +1,1 @@
-var mnemonic = "still tomorrow energy effort wave usage surprise knock panda adjust curious direct";
+var mnemonic = "illegal stock burden album glad achieve hazard lava power neglect check empty";

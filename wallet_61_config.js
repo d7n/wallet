@@ -1,1 +1,1 @@
-var mnemonic = "client taste jazz middle cargo always priority frozen slogan point stable iron";
+var mnemonic = "wet kite slush what kid orphan paper elephant still online bottom prison";

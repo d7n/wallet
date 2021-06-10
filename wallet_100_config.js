@@ -1,1 +1,1 @@
-var mnemonic = "you airport easily eyebrow whale oppose fitness always current road fashion shrimp";
+var mnemonic = "hockey burger adapt budget situate describe walnut oil scrub group copy stable";

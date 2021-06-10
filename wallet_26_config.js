@@ -1,1 +1,1 @@
-var mnemonic = "calm chicken name alter margin casino ripple ensure input art comfort exile";
+var mnemonic = "wait uncle cabbage excuse beef render lunch hood lazy achieve pen hawk";

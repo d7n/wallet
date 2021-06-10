@@ -1,1 +1,1 @@
-var mnemonic = "gallery body cart humor gown core spoil embrace dilemma pledge jealous injury";
+var mnemonic = "ostrich claw palm annual soul upon across deposit horn demise fuel curious";

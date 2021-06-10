@@ -1,1 +1,1 @@
-var mnemonic = "session stove canvas turkey shed crunch bonus develop end force across scissors";
+var mnemonic = "door staff used medal vault dose road kingdom spirit rule tackle embark";

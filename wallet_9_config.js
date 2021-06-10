@@ -1,1 +1,1 @@
-var mnemonic = "balance matrix erase winner exit captain borrow pair dawn sudden punch absent";
+var mnemonic = "ozone shoulder night gadget legal flat motion certain under theme frown cave";

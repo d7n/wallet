@@ -1,1 +1,1 @@
-var mnemonic = "fire output enjoy giraffe rapid phone sail nephew stem cruel pause same";
+var mnemonic = "arrow science steel impose retire miss goddess chuckle vintage lawsuit crop orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "tube glory alpha undo defy piano kitchen hill true square club federal";
+var mnemonic = "chuckle battle nest arrive right avoid simple gaze amazing release team arrow";

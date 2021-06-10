@@ -1,1 +1,1 @@
-var mnemonic = "pause since anger calm rigid horn ice noise purchase salon idle segment";
+var mnemonic = "initial guide iron shadow lazy theme burst document agree style drip debate";

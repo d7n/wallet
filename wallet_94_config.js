@@ -1,1 +1,1 @@
-var mnemonic = "toilet fire tackle leopard coil priority track little often person notable hen";
+var mnemonic = "print step cloud laugh refuse tissue drama adjust expect question audit predict";

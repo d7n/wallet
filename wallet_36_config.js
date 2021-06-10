@@ -1,1 +1,1 @@
-var mnemonic = "silly month letter panther enact scan derive bounce curious dirt clay trick";
+var mnemonic = "category flash either proud deputy hen uniform captain scene inherit medal lady";

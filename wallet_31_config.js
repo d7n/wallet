@@ -1,1 +1,1 @@
-var mnemonic = "chase spoon brain until powder silk horror chief peace twist immune breeze";
+var mnemonic = "seed stool auction estate tell garbage wealth pupil misery scout opinion chair";

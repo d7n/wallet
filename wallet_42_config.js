@@ -1,1 +1,1 @@
-var mnemonic = "aim rose cram coyote unusual trial gown milk cloud solution misery direct";
+var mnemonic = "alpha joy glare round ten often celery palm wrestle order enforce useless";

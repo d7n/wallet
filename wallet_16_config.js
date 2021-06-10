@@ -1,1 +1,1 @@
-var mnemonic = "island faint poet inflict glide destroy upper crouch kiwi brisk sauce dilemma";
+var mnemonic = "black interest ginger birth road clean crush maze awake crouch net mail";

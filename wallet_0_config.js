@@ -1,1 +1,1 @@
-var mnemonic = "wait rookie basket sponsor gym effort decrease resist nest fire flower lava";
+var mnemonic = "mansion syrup bike anger member glance cycle soccer night affair quick pepper";

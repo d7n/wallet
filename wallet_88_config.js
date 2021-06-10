@@ -1,1 +1,1 @@
-var mnemonic = "panther enough assault desert topic hub master jealous fire media lady need";
+var mnemonic = "parent coffee gas enter present swing raise coyote away apology forum pretty";

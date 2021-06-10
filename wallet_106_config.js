@@ -1,1 +1,1 @@
-var mnemonic = "buffalo truth uniform sense stove scan cotton enhance lounge dove truck deny";
+var mnemonic = "sure regret round midnight arrange useless season memory cruise stay peanut velvet";

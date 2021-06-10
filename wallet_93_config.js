@@ -1,1 +1,1 @@
-var mnemonic = "extend tired chief cigar sustain note session other letter neglect pelican lizard";
+var mnemonic = "infant wire silent roast super seminar clap section slim injury fancy alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "toe suit deputy scout behave lecture grid save order shrug loan own";
+var mnemonic = "tone voyage teach alcohol math mother rich frown riot bench olympic ketchup";

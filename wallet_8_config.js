@@ -1,1 +1,1 @@
-var mnemonic = "suspect steel annual clap uphold struggle month pizza trigger slice neutral now";
+var mnemonic = "only spatial flash already garage spike enforce foot foam tone lizard bicycle";

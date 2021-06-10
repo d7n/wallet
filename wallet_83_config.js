@@ -1,1 +1,1 @@
-var mnemonic = "rapid afford nose sing dinner three mean copper like amateur evoke toward";
+var mnemonic = "vital rule cigar donkey autumn collect loud next since clock uniform toss";

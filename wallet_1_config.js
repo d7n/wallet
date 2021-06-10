@@ -1,1 +1,1 @@
-var mnemonic = "habit faculty promote slogan year crack lounge ski duck van carbon tomorrow";
+var mnemonic = "tank feature supply wine armor shoot book primary make load unfair recycle";

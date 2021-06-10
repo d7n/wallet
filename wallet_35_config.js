@@ -1,1 +1,1 @@
-var mnemonic = "scan foot cinnamon indoor limb jelly grab problem tired ice grain flush";
+var mnemonic = "stereo tumble crawl economy absurd ancient first expect mail fantasy sea risk";

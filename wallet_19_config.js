@@ -1,1 +1,1 @@
-var mnemonic = "move good police kite federal health among habit inch lunch hair side";
+var mnemonic = "inject black palm swing slam battle senior genre spell close type pulse";

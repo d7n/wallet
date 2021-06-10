@@ -1,1 +1,1 @@
-var mnemonic = "advice betray accuse fruit world betray shield retreat best plate spot kiss";
+var mnemonic = "knock stand clog scorpion frozen direct gossip refuse noble welcome never soap";

@@ -1,1 +1,1 @@
-var mnemonic = "father bulk shoe unveil crane stumble village dad nature student impulse acoustic";
+var mnemonic = "marble ridge later seat marine eagle extend height dish hair language recycle";

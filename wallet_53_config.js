@@ -1,1 +1,1 @@
-var mnemonic = "program old bulk distance mule soon resemble friend sting wall jungle garden";
+var mnemonic = "mango food gorilla push predict coast lift emerge pattern this february bag";

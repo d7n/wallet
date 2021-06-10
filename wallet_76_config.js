@@ -1,1 +1,1 @@
-var mnemonic = "truth program umbrella grief news now width range hunt increase pottery error";
+var mnemonic = "bag pool busy hawk hour unknown world certain permit index someone weekend";

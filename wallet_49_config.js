@@ -1,1 +1,1 @@
-var mnemonic = "stereo any tail fitness apple argue mistake come add gun arch smoke";
+var mnemonic = "buffalo river seven reveal razor fabric pear notable direct accident dizzy hotel";

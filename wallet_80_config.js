@@ -1,1 +1,1 @@
-var mnemonic = "current judge scissors ski toy army air book bridge debris twelve try";
+var mnemonic = "typical blur inch such force super card parrot coach own case burger";

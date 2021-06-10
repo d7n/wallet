@@ -1,1 +1,1 @@
-var mnemonic = "exchange gather decorate cigar promote style delay number fork pill invest deny";
+var mnemonic = "fade dizzy key burger bird comic foster media bullet cradle pipe junior";

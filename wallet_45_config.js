@@ -1,1 +1,1 @@
-var mnemonic = "hope case differ canvas sick chest mirror broccoli grab someone damp glimpse";
+var mnemonic = "ranch circle parrot color fossil cliff tool wheat twin office pact monitor";
