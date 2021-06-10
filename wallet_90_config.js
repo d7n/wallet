@@ -1,1 +1,1 @@
-var mnemonic = "near welcome rich try penalty around little acquire deny sunset undo bargain";
+var mnemonic = "wool capable diesel one share lyrics shrug hospital lobster solution weasel goose";

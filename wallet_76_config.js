@@ -1,1 +1,1 @@
-var mnemonic = "donor room slot cheap shell wing atom prepare little giraffe unit wrong";
+var mnemonic = "priority feed midnight absurd wet admit pistol follow rich this lamp obtain";

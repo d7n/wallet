@@ -1,1 +1,1 @@
-var mnemonic = "mosquito situate soft tone almost odor clinic resist repeat reform release jeans";
+var mnemonic = "resemble quantum must candy ability blouse rare airport slot glow keep energy";

@@ -1,1 +1,1 @@
-var mnemonic = "dog orange million erode sister able initial culture beef glass similar donate";
+var mnemonic = "damage affair nature rent trim scare blade spirit install december ridge mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber original into excite sea mom drill burst citizen piano anchor blue";
+var mnemonic = "parade sponsor chunk course loud motion logic melt one film satoshi cruise";

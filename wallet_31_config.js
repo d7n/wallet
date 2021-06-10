@@ -1,1 +1,1 @@
-var mnemonic = "ignore cave fragile road invite music club club grab light broom silk";
+var mnemonic = "essay render pulse goddess silver salute guilt three road talk rookie soul";

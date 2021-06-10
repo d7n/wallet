@@ -1,1 +1,1 @@
-var mnemonic = "margin message whisper enough already library tenant conduct merit surface bean win";
+var mnemonic = "hidden since walk display flush casino pet legend swap anchor pepper token";

@@ -1,1 +1,1 @@
-var mnemonic = "voice girl disease renew general warfare mango funny awake mimic clip trend";
+var mnemonic = "street bicycle misery also next oak announce misery veteran sphere inform glass";

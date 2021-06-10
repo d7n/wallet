@@ -1,1 +1,1 @@
-var mnemonic = "balcony aware unique misery cupboard soap maze chief wool wrap praise march";
+var mnemonic = "abuse second vibrant hand orbit pink tell voyage picture taste enroll mushroom";

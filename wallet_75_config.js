@@ -1,1 +1,1 @@
-var mnemonic = "will april fun cancel beauty axis country sustain wish choice flush cheap";
+var mnemonic = "cream clutch reveal eager square debate similar cram sign trial inflict piano";

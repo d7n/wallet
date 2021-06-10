@@ -1,1 +1,1 @@
-var mnemonic = "daring tourist put useless mail clap again bar myth alone fabric travel";
+var mnemonic = "chief shaft jungle furnace side mix apology force erode hospital sock pigeon";

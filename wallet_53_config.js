@@ -1,1 +1,1 @@
-var mnemonic = "congress pony actual metal camera crisp decide monitor smile device vacuum submit";
+var mnemonic = "author secret industry gloom wool ivory misery school choose spend need peanut";

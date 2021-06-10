@@ -1,1 +1,1 @@
-var mnemonic = "six boss elite fine cup economy main upset bleak market purse peasant";
+var mnemonic = "dress excess print when mix onion shop angry aware burger left notice";

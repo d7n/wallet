@@ -1,1 +1,1 @@
-var mnemonic = "abstract approve amount throw impulse equal clinic spread cover horror pulp enhance";
+var mnemonic = "eye document shoe foam because advice crowd upper gossip approve patient dismiss";

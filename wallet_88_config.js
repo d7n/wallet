@@ -1,1 +1,1 @@
-var mnemonic = "live matter kitten law wave anchor shaft enforce permit bag dumb cruel";
+var mnemonic = "enhance february frozen spoon rather two confirm despair jewel video close young";

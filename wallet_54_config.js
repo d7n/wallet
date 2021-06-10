@@ -1,1 +1,1 @@
-var mnemonic = "basic trick decide bicycle rocket card leader fat major dish equip orphan";
+var mnemonic = "beyond home door sponsor matter cost ice radio bulk rocket desert milk";

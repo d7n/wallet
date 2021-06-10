@@ -1,1 +1,1 @@
-var mnemonic = "oval split hunt road lend height off deer knock nation client engine";
+var mnemonic = "glass purity bring chief can wedding cushion visa minimum verb lesson erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal tree train gadget pipe exhibit okay travel jump decline just cabbage";
+var mnemonic = "drift seed seat snap style giant nuclear clutch solution chase laugh sunny";

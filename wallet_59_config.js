@@ -1,1 +1,1 @@
-var mnemonic = "buddy alien chalk forward forward kiss bitter unusual pretty produce enact cash";
+var mnemonic = "boost reject meat worry tennis crack rocket crack glass recycle result bullet";

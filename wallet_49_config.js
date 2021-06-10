@@ -1,1 +1,1 @@
-var mnemonic = "bottom ketchup trumpet yard surprise lottery excess enhance grant thought miracle produce";
+var mnemonic = "planet flight injury mushroom proud because invest mouse network midnight globe tongue";

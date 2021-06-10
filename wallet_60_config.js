@@ -1,1 +1,1 @@
-var mnemonic = "slogan diary panel muffin chef bench turn alcohol bamboo coin motor extra";
+var mnemonic = "throw acquire choose tonight immense sudden island pony good fatigue track rail";

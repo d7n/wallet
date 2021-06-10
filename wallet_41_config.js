@@ -1,1 +1,1 @@
-var mnemonic = "offer army daring space sugar glass cause setup obtain endorse food crouch";
+var mnemonic = "avoid legal banana reflect skull trade law normal diary front debate modify";

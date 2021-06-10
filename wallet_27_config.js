@@ -1,1 +1,1 @@
-var mnemonic = "thunder erase across return lunar castle tube elephant fork tool layer setup";
+var mnemonic = "tornado step admit barely street crater elegant morning village disagree tube science";

@@ -1,1 +1,1 @@
-var mnemonic = "girl recycle husband foam unfold jewel crumble logic volume ahead since donkey";
+var mnemonic = "drink bird smile symptom surge liquid guide caught shiver lake derive enough";

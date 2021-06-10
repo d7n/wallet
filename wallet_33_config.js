@@ -1,1 +1,1 @@
-var mnemonic = "bless mother select scissors live float engage dentist awesome gift letter siege";
+var mnemonic = "sense olive struggle use scale minute effort kick rose country season filter";

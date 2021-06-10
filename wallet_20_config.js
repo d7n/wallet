@@ -1,1 +1,1 @@
-var mnemonic = "march yard bachelor good success fence monitor treat sample enough frame suit";
+var mnemonic = "strategy release degree seven retreat horse strategy gravity salad planet cupboard muffin";

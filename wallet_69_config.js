@@ -1,1 +1,1 @@
-var mnemonic = "wasp pear riot myth solar speak genuine velvet twin inflict bacon output";
+var mnemonic = "repeat mushroom rapid forest doll spy miracle repeat icon tip because online";

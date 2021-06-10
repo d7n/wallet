@@ -1,1 +1,1 @@
-var mnemonic = "photo ritual elevator excite empty ice ball glad aware bachelor blur social";
+var mnemonic = "blast more sound cross whale traffic install reward bamboo drum toss garbage";

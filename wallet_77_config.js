@@ -1,1 +1,1 @@
-var mnemonic = "flip ahead kingdom hungry soft visit share small erase raccoon exit gauge";
+var mnemonic = "item gun bitter bread over ribbon image gas settle carry helmet update";

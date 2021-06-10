@@ -1,1 +1,1 @@
-var mnemonic = "rich evolve seminar kind pink shoe duck excess desert illness riot garage";
+var mnemonic = "draw lucky stomach pull museum fever poet build upgrade endless tennis pause";

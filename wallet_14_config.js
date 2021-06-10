@@ -1,1 +1,1 @@
-var mnemonic = "trash dragon sure peanut visa advance purity biology faith whip dragon symptom";
+var mnemonic = "family border autumn august convince trip curve arctic advice truck luxury guilt";

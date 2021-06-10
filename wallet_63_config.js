@@ -1,1 +1,1 @@
-var mnemonic = "describe eyebrow edge gym insane earth sibling hold theme coconut witness cake";
+var mnemonic = "return federal team install plate police treat tumble theme turn age burger";

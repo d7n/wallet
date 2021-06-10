@@ -1,1 +1,1 @@
-var mnemonic = "bulk cigar genre dignity caution sketch winner leader certain client rocket reward";
+var mnemonic = "hill say solve put account iron mixture mesh prepare dutch rally spy";

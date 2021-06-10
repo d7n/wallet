@@ -1,1 +1,1 @@
-var mnemonic = "couple sleep vehicle obtain proud arrive ask wave behind tackle symbol property";
+var mnemonic = "record shallow brand sauce manage calm friend gaze race olympic lemon shift";

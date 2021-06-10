@@ -1,1 +1,1 @@
-var mnemonic = "heavy unique write actual grape olive toddler charge bunker armed taste ancient";
+var mnemonic = "salute alley damage alcohol jump breeze motor pencil core educate peasant alien";

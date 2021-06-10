@@ -1,1 +1,1 @@
-var mnemonic = "alcohol aunt yellow team lazy distance coral snow bless much candy amateur";
+var mnemonic = "accident square garment main veteran mind cabbage stable midnight captain rich winter";

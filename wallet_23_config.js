@@ -1,1 +1,1 @@
-var mnemonic = "pigeon buffalo arrive abstract jar early slice volcano soccer motor use shrug";
+var mnemonic = "protect account catch affair brisk alcohol whip surprise fury razor journey style";

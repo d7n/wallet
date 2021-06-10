@@ -1,1 +1,1 @@
-var mnemonic = "cloth satisfy bleak payment flag supply what series code march hunt opinion";
+var mnemonic = "track soccer exchange exist goose balcony carpet there lunar clown proud acoustic";

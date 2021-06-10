@@ -1,1 +1,1 @@
-var mnemonic = "grief scare stamp rival boss situate leader give copper shoot sell quit";
+var mnemonic = "bicycle life cruise include sunset egg dish bright flip idea raccoon peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe venture grace blood gaze increase excess innocent add forward bullet impact";
+var mnemonic = "envelope able guide network fancy lazy stem vivid unit idle lens renew";

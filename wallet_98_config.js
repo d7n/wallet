@@ -1,1 +1,1 @@
-var mnemonic = "sea cargo wash organ smooth zebra unveil oblige few finish team game";
+var mnemonic = "reveal breeze patrol drift action tired swing essay leave join pistol simple";

@@ -1,1 +1,1 @@
-var mnemonic = "alert series coil lecture reveal expand bacon rare hidden zoo wheel robot";
+var mnemonic = "escape cherry income grace health food change gap globe diagram mosquito wash";

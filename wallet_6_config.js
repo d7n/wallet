@@ -1,1 +1,1 @@
-var mnemonic = "glance ride flat wagon diagram badge dizzy congress debris casino crazy famous";
+var mnemonic = "defense flip help prevent mystery grit stand exit antenna school belt still";

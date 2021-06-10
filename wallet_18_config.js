@@ -1,1 +1,1 @@
-var mnemonic = "salt discover good point vital slam annual captain right song course become";
+var mnemonic = "confirm auto three horse crater tobacco silver asset frown sight mystery palace";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn alter sad minor invite danger swarm reject giraffe bonus damp scheme";
+var mnemonic = "club medal kidney supreme safe shoot fog example pony fee spin trumpet";

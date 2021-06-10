@@ -1,1 +1,1 @@
-var mnemonic = "asset test fringe hire budget fatigue fitness screen gadget logic ginger alley";
+var mnemonic = "swallow noise resist question strategy exercise trial noodle easy asset canoe faint";

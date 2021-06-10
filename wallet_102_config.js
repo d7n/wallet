@@ -1,1 +1,1 @@
-var mnemonic = "tired over pond north bulk nature doll over invite buyer dilemma usage";
+var mnemonic = "script maid earth town steel hawk loyal depart search endless win grief";

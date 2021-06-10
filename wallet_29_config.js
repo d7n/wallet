@@ -1,1 +1,1 @@
-var mnemonic = "outer water cereal globe eight spatial whip market inject host earn wealth";
+var mnemonic = "marble canvas aim rookie suspect mosquito swarm palm gas cheap entire believe";

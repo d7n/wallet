@@ -1,1 +1,1 @@
-var mnemonic = "mix inherit offer virus evolve retire doll twenty domain vibrant dial alpha";
+var mnemonic = "imitate kiss grant forum peasant noodle film entire come popular photo sad";

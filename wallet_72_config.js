@@ -1,1 +1,1 @@
-var mnemonic = "stay exclude exhibit federal melt prison giggle season famous tiger elite gorilla";
+var mnemonic = "foil exercise sponsor omit company slide stick frame despair undo true body";

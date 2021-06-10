@@ -1,1 +1,1 @@
-var mnemonic = "pitch unaware zebra peace keen orange scatter nation good obvious uphold bullet";
+var mnemonic = "ask often strong spell lion clarify combine way lend home invest super";

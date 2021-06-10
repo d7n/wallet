@@ -1,1 +1,1 @@
-var mnemonic = "couch milk crumble width evidence razor cliff arena truly review inherit cricket";
+var mnemonic = "tell where borrow duck silent degree demise trigger spice size swamp snack";

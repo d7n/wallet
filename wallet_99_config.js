@@ -1,1 +1,1 @@
-var mnemonic = "shadow range number version enforce close ten field member borrow street bulb";
+var mnemonic = "cloud school debate able side add one cigar demand check picture exact";

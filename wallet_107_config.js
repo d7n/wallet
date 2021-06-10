@@ -1,1 +1,1 @@
-var mnemonic = "march oxygen shoulder frequent tiny dismiss danger mask hunt pyramid congress pelican";
+var mnemonic = "exercise hobby coast seven ready coconut plastic quarter main turn spare rival";

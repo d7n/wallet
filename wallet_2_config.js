@@ -1,1 +1,1 @@
-var mnemonic = "pilot stadium custom cart blind again minute dignity sadness unfold relax peanut";
+var mnemonic = "about squeeze setup trophy still mandate pudding one black audit slush about";

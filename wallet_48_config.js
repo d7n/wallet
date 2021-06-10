@@ -1,1 +1,1 @@
-var mnemonic = "paper roof scrub enact baby confirm item confirm expose rude broken unlock";
+var mnemonic = "alter wood certain inmate void intact famous dose stumble bag crop group";

@@ -1,1 +1,1 @@
-var mnemonic = "rural evolve plug vessel tray pool pluck flag solve decline benefit flame";
+var mnemonic = "milk soup harbor sustain race orient finger elegant ski enforce timber pencil";

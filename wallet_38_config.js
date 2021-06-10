@@ -1,1 +1,1 @@
-var mnemonic = "prison stand tiger coyote home fiber casual bronze save border citizen salt";
+var mnemonic = "rely embark earth lazy edit pyramid tomato false bamboo rookie swamp carry";

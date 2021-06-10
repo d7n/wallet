@@ -1,1 +1,1 @@
-var mnemonic = "flock spider flip flock glory harsh auto ability festival fish lyrics runway";
+var mnemonic = "front snake hazard clerk camera autumn easy green upset ankle limb heavy";

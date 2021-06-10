@@ -1,1 +1,1 @@
-var mnemonic = "until gaze drip shaft hotel please amateur occur spray faith glass angle";
+var mnemonic = "cliff disorder grass coin solve knife safe sail harvest hello loyal acquire";

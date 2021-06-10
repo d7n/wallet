@@ -1,1 +1,1 @@
-var mnemonic = "celery neck heart size mother ability treat feel text airport damage quick";
+var mnemonic = "discover heart damp actor salmon forget climb steel eye seminar recycle birth";

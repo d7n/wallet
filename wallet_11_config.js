@@ -1,1 +1,1 @@
-var mnemonic = "dance nephew disagree misery soft rival dirt dust bargain fatal want sick";
+var mnemonic = "rather inspire night mutual section verify pistol three mandate olympic sugar fashion";

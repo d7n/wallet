@@ -1,1 +1,1 @@
-var mnemonic = "truck idea runway sketch bomb upgrade wisdom duty divorce matrix defense cattle";
+var mnemonic = "dizzy gadget provide cushion slush cube tiny brush decline shy smart mammal";

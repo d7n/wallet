@@ -1,1 +1,1 @@
-var mnemonic = "august eagle grow enough ask awful novel language couch clay zone young";
+var mnemonic = "price fame record illness advance naive index seat execute benefit hidden festival";

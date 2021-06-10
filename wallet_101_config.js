@@ -1,1 +1,1 @@
-var mnemonic = "gold engage pulse mad wide lonely expect property child pony super dish";
+var mnemonic = "industry grant flip author average science unknown embrace surge double stamp crunch";

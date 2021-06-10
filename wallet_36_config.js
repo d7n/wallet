@@ -1,1 +1,1 @@
-var mnemonic = "change diagram casino away garden trumpet very shine rain various tragic describe";
+var mnemonic = "deposit indoor shine run wreck library clutch lava delay gym verify tuna";

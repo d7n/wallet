@@ -1,1 +1,1 @@
-var mnemonic = "zoo urban priority crowd wait chalk axis edit hold fix people legal";
+var mnemonic = "inside pottery satisfy coil symptom broken arrange sea plate rapid public thank";

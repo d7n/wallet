@@ -1,1 +1,1 @@
-var mnemonic = "aunt mandate jaguar farm educate disease scatter learn wonder magnet hire round";
+var mnemonic = "mass aunt current auction skin trend goose ginger protect coffee three supply";

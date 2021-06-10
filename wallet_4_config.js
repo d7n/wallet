@@ -1,1 +1,1 @@
-var mnemonic = "impact barely tiger laugh claw check blush cancel one camp measure say";
+var mnemonic = "cause enhance horse real field maze lyrics settle pact board thought clarify";

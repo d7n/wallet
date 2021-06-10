@@ -1,1 +1,1 @@
-var mnemonic = "runway flash question pill crime scrub squeeze head margin repair pony alert";
+var mnemonic = "warrior early used slide empower sibling quick young twin country bike hint";

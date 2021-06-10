@@ -1,1 +1,1 @@
-var mnemonic = "during protect hip bleak elite sentence tragic elegant valve rival awkward mirror";
+var mnemonic = "broom dance cry seed surge purchase senior awake float renew detect custom";

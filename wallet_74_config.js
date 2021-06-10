@@ -1,1 +1,1 @@
-var mnemonic = "actor skill peasant clutch very park envelope number choice hand olympic option";
+var mnemonic = "grass aim observe advance daring genre blame moment teach lottery grass method";

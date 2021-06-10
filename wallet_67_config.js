@@ -1,1 +1,1 @@
-var mnemonic = "quarter rare foot lumber focus track begin butter quick beach depart celery";
+var mnemonic = "attract shiver crawl drink spatial split risk drill blouse slab input kidney";

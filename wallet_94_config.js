@@ -1,1 +1,1 @@
-var mnemonic = "setup craft feature fever hood suffer arctic token duty alley peanut hawk";
+var mnemonic = "feed casino goose typical narrow steak print bind key render problem place";

@@ -1,1 +1,1 @@
-var mnemonic = "around hover tube sock crunch plate imitate beef weasel desert provide sound";
+var mnemonic = "cause coffee dust glance dumb cluster detect harsh exhaust tray energy humor";

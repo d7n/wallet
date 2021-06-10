@@ -1,1 +1,1 @@
-var mnemonic = "beyond squeeze load much margin suffer medal bitter baby helmet bus age";
+var mnemonic = "security neglect post then admit badge valve fee defense rebuild rapid remind";

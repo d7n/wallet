@@ -1,1 +1,1 @@
-var mnemonic = "fish enforce spread such normal fancy van merge have topple unable bounce";
+var mnemonic = "slab pear cake soul village average congress maze discover spike sustain february";

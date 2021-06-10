@@ -1,1 +1,1 @@
-var mnemonic = "meat wine around exist harbor lamp trap assault heavy above first list";
+var mnemonic = "win report way girl slide vacant client brisk grit general false aim";

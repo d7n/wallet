@@ -1,1 +1,1 @@
-var mnemonic = "credit priority same asthma sphere mouse census purity track visit deputy tilt";
+var mnemonic = "casual squeeze rent wine caught pyramid fork shell rival goat lumber glass";

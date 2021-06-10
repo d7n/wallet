@@ -1,1 +1,1 @@
-var mnemonic = "debate absurd supreme rocket vicious lift account merry hole october garage can";
+var mnemonic = "reveal afraid phrase celery vital absent fossil rare sign trouble satisfy select";

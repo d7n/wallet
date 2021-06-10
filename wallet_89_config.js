@@ -1,1 +1,1 @@
-var mnemonic = "skill excuse swarm gospel sound topple wait wear hair film forget auto";
+var mnemonic = "library maid pride moon flat book resource regular anchor hidden legend hat";

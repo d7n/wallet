@@ -1,1 +1,1 @@
-var mnemonic = "pill ill cabin when connect repeat tourist bamboo icon athlete caught giggle";
+var mnemonic = "float recycle type false exile real season scare eternal erosion wage barrel";

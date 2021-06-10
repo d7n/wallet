@@ -1,1 +1,1 @@
-var mnemonic = "run cement april rail eye method blush any end jealous decrease sand";
+var mnemonic = "occur three solve grunt plastic put night because alien carry distance minimum";

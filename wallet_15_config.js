@@ -1,1 +1,1 @@
-var mnemonic = "book olive hammer roof crystal pole draft abandon trade effort door pond";
+var mnemonic = "daring cycle daughter auction begin angle together try talent office shrimp beach";

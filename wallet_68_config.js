@@ -1,1 +1,1 @@
-var mnemonic = "envelope cereal account gap demand test peace have bid six nominee tooth";
+var mnemonic = "custom van tiger deliver chief uniform please drift laundry accuse wear hazard";

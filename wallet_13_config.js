@@ -1,1 +1,1 @@
-var mnemonic = "dog card cheap art key few cigar gentle flip tube license have";
+var mnemonic = "curious elder rib system original nothing tissue salad aerobic shuffle bacon any";

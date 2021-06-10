@@ -1,1 +1,1 @@
-var mnemonic = "marble lab leave tongue angry large shed sick result elite destroy around";
+var mnemonic = "define empower joy direct fruit minimum census congress energy hamster expand size";

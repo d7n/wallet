@@ -1,1 +1,1 @@
-var mnemonic = "turkey dry erosion base aisle outside kingdom carry genius advance love coffee";
+var mnemonic = "plunge type tourist essence surround trust stay supply adapt pitch receive wave";

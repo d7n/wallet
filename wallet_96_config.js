@@ -1,1 +1,1 @@
-var mnemonic = "length bottom announce alien myth ranch loan hand heavy order barely skill";
+var mnemonic = "forward brush popular lock primary stamp script guitar ancient exact omit law";

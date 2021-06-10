@@ -1,1 +1,1 @@
-var mnemonic = "alone twelve axis also rail diesel frost poet reunion penalty undo cinnamon";
+var mnemonic = "essay forget crazy prevent web all broken chuckle wear bullet dash code";

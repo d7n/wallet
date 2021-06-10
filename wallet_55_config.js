@@ -1,1 +1,1 @@
-var mnemonic = "chaos wrap glue month funny stairs ask mom foster turtle bus social";
+var mnemonic = "wild talk wet middle year avoid ship prefer upon hour bring foil";

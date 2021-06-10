@@ -1,1 +1,1 @@
-var mnemonic = "yard member uncle second reduce champion sport token welcome omit history slam";
+var mnemonic = "shift rubber salt spin sight bomb sword voice correct elevator energy else";

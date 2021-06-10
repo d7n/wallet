@@ -1,1 +1,1 @@
-var mnemonic = "squirrel soon scissors stage suggest roof tobacco lend trophy swear come horn";
+var mnemonic = "spend grid omit pitch maximum speed coyote hand common under feature clay";

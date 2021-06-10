@@ -1,1 +1,1 @@
-var mnemonic = "kiwi cheap shift loop crater ladder waste congress obey calm trigger tent";
+var mnemonic = "dog wrist floor burst tortoise shuffle screen bottom gesture success fish essence";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder spring city mosquito unusual someone switch disease provide sister faith alcohol";
+var mnemonic = "dad duck clown snow mutual hour rubber idea liar general tattoo broken";

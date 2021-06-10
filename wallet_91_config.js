@@ -1,1 +1,1 @@
-var mnemonic = "baby shy pencil palm happy chief grow exhaust border senior tuna slogan";
+var mnemonic = "phrase excuse powder metal lunch theory syrup practice begin slide kite harsh";

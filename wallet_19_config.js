@@ -1,1 +1,1 @@
-var mnemonic = "denial lemon pear wing odor unfold wheel dice setup attitude wheel jelly";
+var mnemonic = "jazz visit federal furnace chef exist cruise frost crucial chat maple prison";
