@@ -1,1 +1,1 @@
-var mnemonic = "peasant seminar coach adjust salute energy jeans empty sorry grass black mention";
+var mnemonic = "alter more base observe grant fever thunder since brass extra poet hazard";

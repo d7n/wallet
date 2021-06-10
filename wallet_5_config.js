@@ -1,1 +1,1 @@
-var mnemonic = "when poet citizen slot nest emotion gallery when face prosper jump flag";
+var mnemonic = "seed raise exit dog noodle urban tool cabbage exhibit month chicken ride";

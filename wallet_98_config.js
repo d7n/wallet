@@ -1,1 +1,1 @@
-var mnemonic = "bench muscle rich drip symbol congress ethics pass couple above brain together";
+var mnemonic = "box online duck celery expand pumpkin response clutch first slide fragile aunt";

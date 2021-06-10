@@ -1,1 +1,1 @@
-var mnemonic = "benefit symptom about tube advance element submit utility crane basket hurry usage";
+var mnemonic = "bottom side glass view entire few give bleak depart cricket shrug charge";

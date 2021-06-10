@@ -1,1 +1,1 @@
-var mnemonic = "camera sight captain kingdom hamster lecture caution absent sign below famous spare";
+var mnemonic = "meat regular reveal memory spread wash park finger during sock brick tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "equal able resource victory marble proof also raw chief book check nuclear";
+var mnemonic = "slush evidence note first salad camera exile process draw casino silver thing";

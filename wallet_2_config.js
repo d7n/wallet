@@ -1,1 +1,1 @@
-var mnemonic = "salt flavor medal file more cage violin brick crime remain riot false";
+var mnemonic = "stove hover poet bronze visit inform artwork holiday portion auto gospel master";

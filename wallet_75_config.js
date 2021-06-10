@@ -1,1 +1,1 @@
-var mnemonic = "open detect have final talk very hollow again super arrow wedding appear";
+var mnemonic = "system soldier unit slight west tip fox aim genuine bring toast neutral";

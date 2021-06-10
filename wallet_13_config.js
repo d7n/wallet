@@ -1,1 +1,1 @@
-var mnemonic = "custom proud negative margin embrace risk final upper author element icon comic";
+var mnemonic = "helmet opinion august coach genius oak decide purchase drop clay toss column";

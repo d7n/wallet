@@ -1,1 +1,1 @@
-var mnemonic = "firm page there proud cargo resist label camera topic sock document confirm";
+var mnemonic = "dinosaur agent bread spare guess wool journey convince hour dynamic provide dinosaur";

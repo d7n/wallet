@@ -1,1 +1,1 @@
-var mnemonic = "sun inmate library door vehicle holiday zebra item fever favorite case garden";
+var mnemonic = "phone finger act prize noodle fat blush now april diesel usual predict";

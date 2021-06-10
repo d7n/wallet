@@ -1,1 +1,1 @@
-var mnemonic = "cute soda lemon abstract tiny opinion spoil enrich feel cigar cloth clutch";
+var mnemonic = "cat lounge report concert pepper cloud anxiety crazy excess flower milk pact";

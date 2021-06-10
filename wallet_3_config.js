@@ -1,1 +1,1 @@
-var mnemonic = "moment dial romance movie emerge expire place jaguar among comic artwork cry";
+var mnemonic = "gate outdoor bring brief north elephant broccoli always setup crime rotate kick";

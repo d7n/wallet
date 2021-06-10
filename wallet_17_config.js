@@ -1,1 +1,1 @@
-var mnemonic = "token lion father about dolphin ghost real display require zone motion slot";
+var mnemonic = "leaf tribe box crazy near quantum fade labor bachelor hub trash glide";

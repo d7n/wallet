@@ -1,1 +1,1 @@
-var mnemonic = "burger transfer dove grain coil broken return whip slide between garment salt";
+var mnemonic = "slice height plate confirm right warm utility rhythm dinner eagle fault trial";

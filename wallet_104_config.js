@@ -1,1 +1,1 @@
-var mnemonic = "crash during stuff kiwi thing squirrel away gasp vital only gauge comic";
+var mnemonic = "disease butter dynamic zebra cube unhappy urge scrub fog wrestle hint favorite";

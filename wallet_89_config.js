@@ -1,1 +1,1 @@
-var mnemonic = "track embrace process bulk hard omit cover journey lion ski smooth win";
+var mnemonic = "crystal human banana west save verify they maze essay crop fee chair";

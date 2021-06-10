@@ -1,1 +1,1 @@
-var mnemonic = "farm nut stumble spring monkey ten patch lesson month husband steel predict";
+var mnemonic = "neglect purchase betray dial gun couple remind clerk lamp casual outer water";

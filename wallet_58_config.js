@@ -1,1 +1,1 @@
-var mnemonic = "awesome rally pair dog nominee menu nose antique silver frozen area nut";
+var mnemonic = "kick weasel comic caution game laundry occur library fabric crane account upset";

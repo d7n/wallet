@@ -1,1 +1,1 @@
-var mnemonic = "grit raven assault fault street clip ritual when meadow staff tenant resource";
+var mnemonic = "drama traffic enlist author north symptom system chat coral blush sister kangaroo";

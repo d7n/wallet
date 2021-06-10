@@ -1,1 +1,1 @@
-var mnemonic = "tennis auto away suggest basket crisp spell effort balcony galaxy utility help";
+var mnemonic = "attract prefer museum deposit jelly palm tree awake drastic invite nurse creek";

@@ -1,1 +1,1 @@
-var mnemonic = "chest able kit syrup afford fog two dish cabin spray vault dragon";
+var mnemonic = "begin like mother cigar color sense benefit faint silly typical trial theme";

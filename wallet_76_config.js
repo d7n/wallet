@@ -1,1 +1,1 @@
-var mnemonic = "chimney fog define smoke ranch strike level father man tip camp melt";
+var mnemonic = "donor wish basic tray tent joke summer health region clever nice detail";

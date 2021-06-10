@@ -1,1 +1,1 @@
-var mnemonic = "evolve humor nature gallery major problem kick push champion upon scorpion walnut";
+var mnemonic = "small earn easy cat dolphin olympic beauty west coffee march grunt shoe";

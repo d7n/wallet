@@ -1,1 +1,1 @@
-var mnemonic = "chase impose jelly father bird vanish frequent ugly voice autumn suffer labor";
+var mnemonic = "quiz midnight pig clarify ladder rival robust layer solution twice desert recipe";

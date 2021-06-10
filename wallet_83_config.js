@@ -1,1 +1,1 @@
-var mnemonic = "daring empty travel route betray cherry donate play leg exist cereal split";
+var mnemonic = "door price final meat cattle demand follow genius roof ginger also glimpse";

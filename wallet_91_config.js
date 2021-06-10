@@ -1,1 +1,1 @@
-var mnemonic = "monkey cactus state step voice rhythm human myth acid employ company talk";
+var mnemonic = "trigger promote someone hair cliff skate plunge present exist ridge spell opinion";

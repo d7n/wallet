@@ -1,1 +1,1 @@
-var mnemonic = "weasel gloom model couch hip bomb upper predict bronze method spray brave";
+var mnemonic = "skill confirm minor into keen intact cheap target rough hobby napkin short";

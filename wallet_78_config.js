@@ -1,1 +1,1 @@
-var mnemonic = "chapter peace sun eternal slender click choice almost column flower head warrior";
+var mnemonic = "you board cruise region supply know prison region kind long electric wet";

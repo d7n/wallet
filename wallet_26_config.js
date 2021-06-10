@@ -1,1 +1,1 @@
-var mnemonic = "swamp prevent alter blade ordinary gap carbon type convince pyramid obvious stock";
+var mnemonic = "ski witness rubber dry vicious blame ski pottery pottery cross staff twenty";

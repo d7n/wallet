@@ -1,1 +1,1 @@
-var mnemonic = "live creek disagree suit brass fade concert label legend diagram accident stuff";
+var mnemonic = "edit success chicken push jaguar gravity shop knife problem impose anchor region";

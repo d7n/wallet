@@ -1,1 +1,1 @@
-var mnemonic = "step render cry note right stadium curve enjoy write final slow danger";
+var mnemonic = "disagree pear quit market barely source glove cause afford kick mushroom grocery";

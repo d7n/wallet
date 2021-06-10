@@ -1,1 +1,1 @@
-var mnemonic = "involve easily gain upgrade gesture shine play elephant stuff month index sword";
+var mnemonic = "actress undo erupt network decide another income gift frost bean satoshi impose";

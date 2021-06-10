@@ -1,1 +1,1 @@
-var mnemonic = "rhythm daring argue piano example stereo find before board congress custom tumble";
+var mnemonic = "device pluck clump sad legal grain helmet grief assist wedding stage expect";

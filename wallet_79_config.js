@@ -1,1 +1,1 @@
-var mnemonic = "install brush ecology myself miracle recycle key april alpha spoon carpet flower";
+var mnemonic = "stem purity asset vital verify mixture main finger collect situate athlete jacket";

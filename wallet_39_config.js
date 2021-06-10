@@ -1,1 +1,1 @@
-var mnemonic = "that pluck educate coil soccer tone opinion alcohol upper unfold amused diary";
+var mnemonic = "already box peace correct mandate faculty laundry proof bicycle duty above behave";

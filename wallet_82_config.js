@@ -1,1 +1,1 @@
-var mnemonic = "claw flee crop multiply enroll find color seven twenty stove slide debris";
+var mnemonic = "hobby announce foot subway review engine arrange worth original cat annual sight";

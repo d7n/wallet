@@ -1,1 +1,1 @@
-var mnemonic = "price flat milk daughter vibrant strong sweet desk father mercy supply trigger";
+var mnemonic = "jazz hello topic route unable velvet daughter delay gain catch category cram";

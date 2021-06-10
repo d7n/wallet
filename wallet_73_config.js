@@ -1,1 +1,1 @@
-var mnemonic = "someone squeeze blossom bread grain purchase soda glass sheriff visit gloom quality";
+var mnemonic = "hundred narrow rhythm naive trigger knock culture enrich marriage squeeze axis boy";

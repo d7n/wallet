@@ -1,1 +1,1 @@
-var mnemonic = "finger liquid sun delay tree track remind enemy manual anxiety universe tribe";
+var mnemonic = "cereal whisper hen inherit enter ginger similar hip come gap portion false";

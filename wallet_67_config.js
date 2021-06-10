@@ -1,1 +1,1 @@
-var mnemonic = "window pudding more invite awesome often coast mosquito use health various night";
+var mnemonic = "frog taste hub result dream fee polar slush position giggle unaware culture";

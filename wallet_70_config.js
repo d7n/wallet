@@ -1,1 +1,1 @@
-var mnemonic = "motor glad rather pet wise dynamic still uncover inch brick enforce enhance";
+var mnemonic = "chalk occur reopen car panda pony belt surround equal gather damp save";

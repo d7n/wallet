@@ -1,1 +1,1 @@
-var mnemonic = "mask divorce weekend flower course ring expose property lake tilt memory jelly";
+var mnemonic = "pelican invest concert hold arctic hen snack upset crash square ahead artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy divorce client core upper supreme cruise army woman dog little loyal";
+var mnemonic = "friend damage thing reject also adult grocery dentist damp raw eyebrow captain";

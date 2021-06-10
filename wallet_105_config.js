@@ -1,1 +1,1 @@
-var mnemonic = "salt plate stadium couple degree wall wolf ostrich device final ignore this";
+var mnemonic = "moment wave ignore anchor sell eagle bulb avocado worth crash rib off";

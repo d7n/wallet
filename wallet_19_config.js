@@ -1,1 +1,1 @@
-var mnemonic = "shed ostrich language amazing cover group mimic poverty level uphold cabbage silent";
+var mnemonic = "force video acid toward box raw climb pizza junk shadow there exact";

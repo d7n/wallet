@@ -1,1 +1,1 @@
-var mnemonic = "outer noise limit maze famous replace police island half tomato reject worth";
+var mnemonic = "say defy stay ignore ahead pass toast box agent exist episode blame";

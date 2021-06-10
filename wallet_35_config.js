@@ -1,1 +1,1 @@
-var mnemonic = "finger flavor fragile divide cup knock picnic gun between wasp voice vendor";
+var mnemonic = "wreck beyond ocean soda caught canoe crime quote old park hybrid fox";

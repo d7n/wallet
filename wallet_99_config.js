@@ -1,1 +1,1 @@
-var mnemonic = "monkey photo surround seven escape talk either concert inquiry trip impulse illegal";
+var mnemonic = "mask kingdom nice east earn popular ill amused merge travel wrong casual";

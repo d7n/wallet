@@ -1,1 +1,1 @@
-var mnemonic = "initial bitter icon sail calm hard wrist joy inside cigar bid bean";
+var mnemonic = "dust accuse basket panic lion dignity champion bird warfare find ridge anchor";

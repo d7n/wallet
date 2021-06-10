@@ -1,1 +1,1 @@
-var mnemonic = "sister visual sunny brown state consider weasel bacon clutch nation aerobic robust";
+var mnemonic = "theory portion history feel tuition fun innocent village agree board snow mother";

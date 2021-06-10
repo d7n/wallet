@@ -1,1 +1,1 @@
-var mnemonic = "shoe silent young student promote seed panda loan industry tenant pill garment";
+var mnemonic = "put life brass giant acid add flag lawn detail casual void this";

@@ -1,1 +1,1 @@
-var mnemonic = "notable fold canvas setup volume obvious reject someone fury dinosaur current snake";
+var mnemonic = "other output family bread unfold hello drum zone high power crucial chapter";

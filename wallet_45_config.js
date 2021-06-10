@@ -1,1 +1,1 @@
-var mnemonic = "turkey hurry obtain puzzle core clean chair winner rich frame absorb broom";
+var mnemonic = "scout wealth nose exile farm valid brick faculty thunder rhythm clog toward";

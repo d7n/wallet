@@ -1,1 +1,1 @@
-var mnemonic = "pulp silent caution admit blame element sell drip bicycle regular vacant among";
+var mnemonic = "denial song siege wing vintage pause minor olive theory swift slam poverty";

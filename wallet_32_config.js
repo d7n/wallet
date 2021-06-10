@@ -1,1 +1,1 @@
-var mnemonic = "because speak cattle trouble vault lawsuit ranch outdoor problem lawsuit oppose lyrics";
+var mnemonic = "because hand add flush dutch word fringe danger sniff youth mind ability";

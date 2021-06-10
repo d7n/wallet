@@ -1,1 +1,1 @@
-var mnemonic = "paper have doctor share axis kitchen curtain aunt they setup exile grape";
+var mnemonic = "produce mammal tree tourist always easily worth grow runway eternal attitude comfort";

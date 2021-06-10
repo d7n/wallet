@@ -1,1 +1,1 @@
-var mnemonic = "belt thumb vehicle believe three curve inspire letter receive fault physical harvest";
+var mnemonic = "urge horse aunt mother trim truck describe fitness aspect life fetch want";

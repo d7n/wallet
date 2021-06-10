@@ -1,1 +1,1 @@
-var mnemonic = "found cry soccer cotton thumb matter over race lemon post copy spring";
+var mnemonic = "index option bright toward matter sock avocado wing save repeat blood inquiry";

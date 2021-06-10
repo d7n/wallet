@@ -1,1 +1,1 @@
-var mnemonic = "student hundred salmon spy weekend eight spatial armor include buddy dish spin";
+var mnemonic = "minor unfold jungle zone tide hero drastic enact head pepper radar gown";

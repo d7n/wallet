@@ -1,1 +1,1 @@
-var mnemonic = "excess capital cliff suffer debris kiss board rhythm two inherit earn during";
+var mnemonic = "electric glance warm nasty notice inhale riot build spend inquiry capital certain";

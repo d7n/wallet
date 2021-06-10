@@ -1,1 +1,1 @@
-var mnemonic = "antique jewel lawsuit symptom assume replace robust ugly gown blast much screen";
+var mnemonic = "bunker science fury comfort vital insect pistol plug noise smile happy they";

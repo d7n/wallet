@@ -1,1 +1,1 @@
-var mnemonic = "spice soda clutch priority critic giggle shell hero visual divorce slice supply";
+var mnemonic = "drill major erosion little credit squirrel pizza pretty entry few arch month";

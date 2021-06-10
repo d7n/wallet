@@ -1,1 +1,1 @@
-var mnemonic = "wage access story addict obvious wife twelve strong float where hat physical";
+var mnemonic = "heavy train half angry idea faint ribbon skill build spawn object harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly assault sibling return brisk arrange struggle oval render claw random annual";
+var mnemonic = "hawk second crater involve lounge filter kangaroo increase display lazy chair denial";

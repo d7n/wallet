@@ -1,1 +1,1 @@
-var mnemonic = "scout entire attract easily diagram oxygen cabin device dial flee mistake side";
+var mnemonic = "mansion firm crush tuna require inform weather debate excess sugar enjoy stadium";

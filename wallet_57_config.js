@@ -1,1 +1,1 @@
-var mnemonic = "loud ahead coconut muffin model ginger message royal jaguar seminar bulb nephew";
+var mnemonic = "diary pulse brother chapter off hard reason quiz alien door lawsuit tenant";

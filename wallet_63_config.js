@@ -1,1 +1,1 @@
-var mnemonic = "little flat argue garbage pudding any husband forum visual write swift project";
+var mnemonic = "stamp remember remove muffin flower crisp begin human dry echo light agree";

@@ -1,1 +1,1 @@
-var mnemonic = "select slender humble remove relief install benefit captain inner rocket gather umbrella";
+var mnemonic = "tumble hire dust grab there leave supply manage scrap leader unaware poem";

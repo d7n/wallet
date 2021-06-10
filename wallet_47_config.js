@@ -1,1 +1,1 @@
-var mnemonic = "dial picture hill ordinary enact distance doll wrestle remove dragon tonight middle";
+var mnemonic = "degree extend enjoy since rug token pudding chuckle level found planet mercy";

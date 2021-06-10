@@ -1,1 +1,1 @@
-var mnemonic = "inherit sing gaze identify daring minimum uncle autumn argue taste stable tank";
+var mnemonic = "globe idea sheriff hub resource void soccer hello curtain dragon click fire";

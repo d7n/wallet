@@ -1,1 +1,1 @@
-var mnemonic = "record bachelor mad produce cake toast volume loop search replace multiply tenant";
+var mnemonic = "window sentence inmate tired trade twelve mesh blue actual daring control future";

@@ -1,1 +1,1 @@
-var mnemonic = "poet feel throw episode often round ankle grape still mutual secret brisk";
+var mnemonic = "theory doll enjoy sail inside owner junior liquid snow pact quality old";

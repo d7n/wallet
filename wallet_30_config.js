@@ -1,1 +1,1 @@
-var mnemonic = "glory treat pill faculty cost rain raw memory month answer divert tank";
+var mnemonic = "fine ocean equal transfer palace offer task sugar cabbage receive tomato romance";

@@ -1,1 +1,1 @@
-var mnemonic = "twin kit project oppose used force crop bunker churn illegal people cereal";
+var mnemonic = "disorder rabbit harvest salad gallery august entry alcohol clog arrive gravity smile";

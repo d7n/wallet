@@ -1,1 +1,1 @@
-var mnemonic = "lobster depth basket universe wave trip labor recycle mammal catalog silly surge";
+var mnemonic = "polar snake latin minute amused panic affair soldier response admit know zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect funny ordinary spirit ivory dream hungry aware shield resource bid dice";
+var mnemonic = "slogan rule jacket resemble cargo sample shiver news parent much hollow pottery";

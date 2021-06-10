@@ -1,1 +1,1 @@
-var mnemonic = "simple witness flee axis success prepare amount asthma vessel physical lock addict";
+var mnemonic = "offer mother label eyebrow genre useful ice unique harvest happy defense forest";

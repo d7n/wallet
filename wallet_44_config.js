@@ -1,1 +1,1 @@
-var mnemonic = "van merit cruise pool garbage mixture cage asset inhale drama symptom under";
+var mnemonic = "lunar camera elite prison eternal announce cliff essay brown novel adult drastic";

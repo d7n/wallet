@@ -1,1 +1,1 @@
-var mnemonic = "cross replace cabbage media easily move bottom episode maximum anchor kangaroo dilemma";
+var mnemonic = "rack useless veteran width space plunge blossom trim swap solar know basket";

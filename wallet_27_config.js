@@ -1,1 +1,1 @@
-var mnemonic = "just evolve tank false transfer enlist canyon buyer end churn popular camp";
+var mnemonic = "mouse harvest regular girl master oyster settle banana laptop exercise tomato crime";

@@ -1,1 +1,1 @@
-var mnemonic = "genre borrow annual focus razor dolphin relax fuel glass beach blue all";
+var mnemonic = "picture film jazz visual injury bid ostrich girl demand fever timber quit";

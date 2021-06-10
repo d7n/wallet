@@ -1,1 +1,1 @@
-var mnemonic = "silent type uncle burst chest flock display sudden junior before material bird";
+var mnemonic = "quote swap wish limb season away blossom spy nerve sweet calm bullet";

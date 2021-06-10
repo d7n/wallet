@@ -1,1 +1,1 @@
-var mnemonic = "actress clown car creek polar fever omit cube apple goddess moral clever";
+var mnemonic = "turkey police grass abandon quality hobby parent dress aim useful dismiss garage";

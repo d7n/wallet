@@ -1,1 +1,1 @@
-var mnemonic = "mistake pipe relief kiwi sunny saddle supply also knee follow attitude seat";
+var mnemonic = "climb swap good carpet pride moment dumb wrap usual gauge sample cake";

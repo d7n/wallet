@@ -1,1 +1,1 @@
-var mnemonic = "memory found dutch crunch mind scrap pioneer warrior beyond crucial prevent involve";
+var mnemonic = "april book arrow security away task unhappy nurse slide girl pull junior";

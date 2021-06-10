@@ -1,1 +1,1 @@
-var mnemonic = "improve pulse attend video quick hair arctic size begin mountain disease survey";
+var mnemonic = "place clap morning broom win have toss manage panther minimum bullet about";

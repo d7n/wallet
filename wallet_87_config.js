@@ -1,1 +1,1 @@
-var mnemonic = "resource medal custom teach cricket hint poet course noodle eternal stairs royal";
+var mnemonic = "okay clip client inside tooth sheriff suspect upon cable vacuum favorite cross";

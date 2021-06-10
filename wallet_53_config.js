@@ -1,1 +1,1 @@
-var mnemonic = "veteran fog auction cave live shallow voice rocket summer mushroom fortune survey";
+var mnemonic = "animal cruel brother napkin reunion bomb depth apology audit remind aisle blame";

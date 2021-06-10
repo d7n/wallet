@@ -1,1 +1,1 @@
-var mnemonic = "fade field begin problem crucial goat stereo left guitar heart gate snack";
+var mnemonic = "price aerobic door card border erode put surface wave possible female rule";

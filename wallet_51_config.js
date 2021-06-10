@@ -1,1 +1,1 @@
-var mnemonic = "feature sure segment snack hotel fever lemon reduce usual unusual assist depend";
+var mnemonic = "gas elephant begin good present vintage rhythm rare quantum fresh exhibit law";

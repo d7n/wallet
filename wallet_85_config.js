@@ -1,1 +1,1 @@
-var mnemonic = "business knock hole sample permit puppy business orient carry inherit mobile hub";
+var mnemonic = "best nest fragile battle zoo alter grace thrive eager rocket salmon eagle";
