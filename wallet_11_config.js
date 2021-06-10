@@ -1,1 +1,1 @@
-var mnemonic = "ocean mercy crater else save isolate thing bean royal spend method defense";
+var mnemonic = "surge raw airport ketchup talk execute pudding material lamp casual frozen vault";

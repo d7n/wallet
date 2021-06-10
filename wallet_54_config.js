@@ -1,1 +1,1 @@
-var mnemonic = "shallow country main column antique home cactus swamp dad engine shift thrive";
+var mnemonic = "pear leave certain notice pride online north lonely busy verify reopen grain";

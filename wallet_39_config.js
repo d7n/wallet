@@ -1,1 +1,1 @@
-var mnemonic = "card habit price miracle egg produce play snack wasp good lift render";
+var mnemonic = "shift trust document perfect memory music social panel help giggle plastic bicycle";

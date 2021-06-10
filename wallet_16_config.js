@@ -1,1 +1,1 @@
-var mnemonic = "demand nephew topic tourist flag pear hat pledge misery cheap sword sock";
+var mnemonic = "cart tell drastic away hunt column mystery until sunny weird asthma decide";

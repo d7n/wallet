@@ -1,1 +1,1 @@
-var mnemonic = "vehicle clock ensure disorder also supply bless wrestle hotel swim bamboo jar";
+var mnemonic = "mix differ acoustic drum stem great little boost drop chicken faith banner";

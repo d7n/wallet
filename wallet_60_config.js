@@ -1,1 +1,1 @@
-var mnemonic = "fee face rail try card jazz turtle satoshi rare urge photo night";
+var mnemonic = "festival first thought ranch drop film category century still cash pact practice";

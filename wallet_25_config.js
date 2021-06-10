@@ -1,1 +1,1 @@
-var mnemonic = "settle name warfare media pitch raw strike ankle resource scissors swing major";
+var mnemonic = "unveil toward kite find increase point payment weather horror actress clever produce";

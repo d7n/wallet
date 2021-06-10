@@ -1,1 +1,1 @@
-var mnemonic = "asset trouble trap grid liquid culture palm chapter cook faint theme transfer";
+var mnemonic = "else unlock awkward wagon relax rug delay faith brisk stereo slice garbage";

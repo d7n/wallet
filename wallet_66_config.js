@@ -1,1 +1,1 @@
-var mnemonic = "winner abandon task time blind throw surround tray frozen almost easily reveal";
+var mnemonic = "energy dose picnic brass search hill opera visual squeeze load hip shell";

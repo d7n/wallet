@@ -1,1 +1,1 @@
-var mnemonic = "salad shy biology sick describe pioneer broom heavy salute gap dance have";
+var mnemonic = "sunny spider produce palm caution peasant infant hello animal life pill speak";

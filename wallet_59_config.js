@@ -1,1 +1,1 @@
-var mnemonic = "run master point pave firm steel case frame strong good occur minute";
+var mnemonic = "luggage remember woman slice guitar roof aware worry culture clog about unusual";

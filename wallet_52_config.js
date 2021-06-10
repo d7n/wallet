@@ -1,1 +1,1 @@
-var mnemonic = "gown solution thumb asset title glide fat donor smart firm chair initial";
+var mnemonic = "left wash gallery matter energy odor priority rapid thing bike lemon retreat";

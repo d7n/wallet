@@ -1,1 +1,1 @@
-var mnemonic = "actual impact speed risk power wrestle bench distance squeeze struggle gold inject";
+var mnemonic = "crew frost peasant inspire figure miracle enemy leisure milk output usage toast";

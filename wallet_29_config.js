@@ -1,1 +1,1 @@
-var mnemonic = "dilemma glue glory inner news top goose enlist deliver edge shoulder pair";
+var mnemonic = "rival velvet admit waste jacket sorry call enable six depth final lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow bless lecture enact choose banana doctor target bone meat elevator barely";
+var mnemonic = "tray regret prize large explain gap dream taste secret slow sister energy";

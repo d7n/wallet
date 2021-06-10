@@ -1,1 +1,1 @@
-var mnemonic = "credit goddess school want feed short silly unfair chapter exotic champion trust";
+var mnemonic = "reunion stuff program invest argue quiz peasant object can doctor stereo sadness";

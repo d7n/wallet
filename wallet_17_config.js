@@ -1,1 +1,1 @@
-var mnemonic = "major chimney infant void hurdle drum brisk dash remind text pudding giggle";
+var mnemonic = "coin art foam involve develop outside melody female reveal entry blame inherit";

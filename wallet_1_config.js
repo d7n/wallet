@@ -1,1 +1,1 @@
-var mnemonic = "visit menu suit tattoo century street soup luxury dinosaur quarter gold loyal";
+var mnemonic = "october industry chimney witness heavy tell drop caution fine flush scale three";

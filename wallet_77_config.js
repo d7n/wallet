@@ -1,1 +1,1 @@
-var mnemonic = "attitude first vault always game matrix finish damp loan quote pyramid squirrel";
+var mnemonic = "summer left resist girl appear mercy peanut reflect argue slam sketch identify";

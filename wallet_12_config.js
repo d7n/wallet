@@ -1,1 +1,1 @@
-var mnemonic = "hurry nephew upset hand bonus gaze hybrid estate brick clay copper snow";
+var mnemonic = "exotic fire hood brave sort tired essay program stage kitchen address obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "museum risk advance below also skate wine demise aunt someone typical enable";
+var mnemonic = "vocal hole best jewel walnut volume bunker gorilla include web ribbon shaft";

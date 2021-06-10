@@ -1,1 +1,1 @@
-var mnemonic = "memory blast blind wide issue buzz void avoid obtain mask crop person";
+var mnemonic = "series sorry category ozone harvest few ten crawl relief club layer magic";

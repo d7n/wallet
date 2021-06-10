@@ -1,1 +1,1 @@
-var mnemonic = "hero lumber ski disagree depend dust code armed pipe jealous fantasy remember";
+var mnemonic = "walk abandon ask tomato oxygen style few gift hobby donate conduct bridge";

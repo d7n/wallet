@@ -1,1 +1,1 @@
-var mnemonic = "produce tuna scrub harvest evolve neither canvas connect series firm torch tornado";
+var mnemonic = "vapor latin option potato vivid impose neither knock catalog glove exact shuffle";

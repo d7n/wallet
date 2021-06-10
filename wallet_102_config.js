@@ -1,1 +1,1 @@
-var mnemonic = "gasp juice pudding become improve pluck web bracket buyer same diary captain";
+var mnemonic = "century mixture paper humble satisfy remain enough mom dress mandate blue dice";

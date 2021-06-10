@@ -1,1 +1,1 @@
-var mnemonic = "vanish win liberty mimic noise cube divert afford include alcohol ancient reject";
+var mnemonic = "maple coyote pitch guitar burden valid index tribe three sword crawl around";

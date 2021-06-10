@@ -1,1 +1,1 @@
-var mnemonic = "earth horn stuff hundred pepper label fine split history clean transfer anxiety";
+var mnemonic = "dust such sister adult injury tilt urban also bacon turkey shell obvious";

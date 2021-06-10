@@ -1,1 +1,1 @@
-var mnemonic = "glimpse later flower slide powder balcony solar stadium wreck topple this kind";
+var mnemonic = "tongue rice document equal mansion early economy riot laundry gun roast virus";

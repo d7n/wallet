@@ -1,1 +1,1 @@
-var mnemonic = "indicate weekend gravity border mango neutral credit artwork orient affair venue gap";
+var mnemonic = "vendor hire wasp trophy sure vibrant hotel alarm prosper one hungry valve";

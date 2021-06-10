@@ -1,1 +1,1 @@
-var mnemonic = "runway winter void path rug auto text agree insect region portion shaft";
+var mnemonic = "portion daring produce cheese ticket student rabbit unique luggage rural impulse wrist";

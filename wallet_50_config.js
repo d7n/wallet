@@ -1,1 +1,1 @@
-var mnemonic = "trust wide lunch call detail index inner hour nature track easily answer";
+var mnemonic = "tortoise enforce barrel depth rice stadium various electric junk update lounge job";

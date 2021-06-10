@@ -1,1 +1,1 @@
-var mnemonic = "punch vague skill mix own kit tennis blouse crazy stage brand anxiety";
+var mnemonic = "rigid merge mix exile recall increase warm cage three ripple issue shove";

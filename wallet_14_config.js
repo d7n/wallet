@@ -1,1 +1,1 @@
-var mnemonic = "material eyebrow crumble seek pepper coil ostrich road narrow ten talent light";
+var mnemonic = "resemble almost ribbon enhance wrestle health room make tongue weapon student oven";

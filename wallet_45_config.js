@@ -1,1 +1,1 @@
-var mnemonic = "fence private glove super juice tennis spin erode item firm sheriff honey";
+var mnemonic = "humor void card dish together thunder joy reopen more deer control unknown";

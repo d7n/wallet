@@ -1,1 +1,1 @@
-var mnemonic = "mom invite clarify hamster lecture cream city confirm usual define inner bullet";
+var mnemonic = "include trigger next light bleak absorb august culture maid weasel final hello";

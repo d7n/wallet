@@ -1,1 +1,1 @@
-var mnemonic = "adult tribe you whale ginger expand tongue lounge enforce erase royal tide";
+var mnemonic = "host marriage because try blur tribe dust edit pride kidney win sting";

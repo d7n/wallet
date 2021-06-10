@@ -1,1 +1,1 @@
-var mnemonic = "expand awful goddess nephew code flash loyal enable ranch when sorry width";
+var mnemonic = "motion mammal comic skirt ancient online alert letter inhale arrest match point";

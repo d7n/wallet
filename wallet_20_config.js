@@ -1,1 +1,1 @@
-var mnemonic = "liberty subway twenty flame front keen amount bread mesh marine exclude yellow";
+var mnemonic = "scatter cinnamon paddle online kidney attitude mass trap lounge egg option real";

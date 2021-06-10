@@ -1,1 +1,1 @@
-var mnemonic = "extra plate mammal pudding eight square reveal assume trophy frown advance position";
+var mnemonic = "fog method emotion reward cruise caught curve rapid fiber dirt bench bleak";

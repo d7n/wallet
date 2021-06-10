@@ -1,1 +1,1 @@
-var mnemonic = "prosper armed argue solid erupt march code month inquiry hint page love";
+var mnemonic = "asthma lens avocado kid story believe execute ivory almost special rifle program";

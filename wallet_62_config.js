@@ -1,1 +1,1 @@
-var mnemonic = "mixed enhance cereal journey gospel assist mom elder mixture indoor staff oval";
+var mnemonic = "away together feel bike must chronic produce supply walnut impulse number sadness";

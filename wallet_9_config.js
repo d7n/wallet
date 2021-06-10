@@ -1,1 +1,1 @@
-var mnemonic = "theory alarm rival machine finger portion vehicle payment throw print monitor taste";
+var mnemonic = "client liquid enable pact sure deal wrestle shaft story suggest course release";

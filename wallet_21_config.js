@@ -1,1 +1,1 @@
-var mnemonic = "deposit blame plate eagle miss year brass asthma total train frown salute";
+var mnemonic = "phrase dog adapt abandon mirror zebra thumb finger helmet original sentence stuff";

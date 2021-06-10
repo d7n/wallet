@@ -1,1 +1,1 @@
-var mnemonic = "involve style limit argue subway hover person gorilla dinosaur spike meat negative";
+var mnemonic = "major axis town glare pool pulse matter romance spare degree walk clown";

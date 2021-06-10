@@ -1,1 +1,1 @@
-var mnemonic = "shine debris throw fossil salt tourist merit pull spot select soft evidence";
+var mnemonic = "cluster measure ten bench region damp imitate proof law can finish lunar";

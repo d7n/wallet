@@ -1,1 +1,1 @@
-var mnemonic = "space pupil green vessel bicycle disagree lyrics eager tiger thought gold master";
+var mnemonic = "add harbor fade silk chicken air typical hour woman hint animal hole";

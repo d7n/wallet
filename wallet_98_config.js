@@ -1,1 +1,1 @@
-var mnemonic = "space jacket tourist destroy gossip poet crack erode appear lens home guide";
+var mnemonic = "cat time curtain love address key ask purse sense explain start matter";

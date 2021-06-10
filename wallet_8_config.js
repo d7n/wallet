@@ -1,1 +1,1 @@
-var mnemonic = "sign catch taste again hub ostrich injury tumble brand right person news";
+var mnemonic = "word cattle victory equip left side dragon sniff border enough bright more";

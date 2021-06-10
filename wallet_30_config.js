@@ -1,1 +1,1 @@
-var mnemonic = "antique game evolve eyebrow clerk together noodle hybrid kind surface wrap pitch";
+var mnemonic = "diet wise sausage guitar jazz sweet minute say vault upset apple build";

@@ -1,1 +1,1 @@
-var mnemonic = "two weasel tower metal verify grain ability mosquito verb boring mutual wonder";
+var mnemonic = "jump maze online badge employ toe riot slogan ride next sun island";

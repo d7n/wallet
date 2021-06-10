@@ -1,1 +1,1 @@
-var mnemonic = "minor witness parent clever toast bulb address enemy enrich more broom sound";
+var mnemonic = "tongue audit lawn danger review network wide vote banana core weird found";

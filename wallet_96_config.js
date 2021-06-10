@@ -1,1 +1,1 @@
-var mnemonic = "travel rate shy design sister dignity curtain donkey pill inherit session describe";
+var mnemonic = "away decide forest enable room palace thought pioneer person choose sentence under";

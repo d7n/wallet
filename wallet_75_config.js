@@ -1,1 +1,1 @@
-var mnemonic = "boat tag item armor ghost tennis solar cargo robot merge voice gospel";
+var mnemonic = "people attract holiday nation pilot mammal city relief march bonus friend ghost";

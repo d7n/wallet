@@ -1,1 +1,1 @@
-var mnemonic = "skate field minor ethics glow hip wasp gain pair design stumble glass";
+var mnemonic = "advice royal vacant junior scan arctic survey nut oblige you congress pipe";

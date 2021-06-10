@@ -1,1 +1,1 @@
-var mnemonic = "artwork sun tennis shrug inject give potato choose sample velvet school catalog";
+var mnemonic = "south regret climb twin trend style junk south polar giraffe area purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "index general nerve dose off addict mandate reduce circle advice above alley";
+var mnemonic = "junk fiber tobacco assault love riot error giraffe satoshi once book pride";

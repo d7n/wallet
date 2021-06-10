@@ -1,1 +1,1 @@
-var mnemonic = "illness purchase mail depart close item allow power gossip sell caught race";
+var mnemonic = "grain finger antique exhibit rescue mobile beyond buyer funny spawn oppose true";

@@ -1,1 +1,1 @@
-var mnemonic = "hero divorce seven bottom universe alien device casino unique goose dad rally";
+var mnemonic = "abandon fork flame cancel chalk about above play lazy timber purpose soda";

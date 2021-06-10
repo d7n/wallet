@@ -1,1 +1,1 @@
-var mnemonic = "mistake man body exchange ancient tomorrow blush gym month cliff dose cover";
+var mnemonic = "drum mad consider camp belt ozone border flag spike donkey coconut dismiss";

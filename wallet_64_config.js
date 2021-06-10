@@ -1,1 +1,1 @@
-var mnemonic = "birth flush pitch wrestle pony guard glove twin chair item sunset wide";
+var mnemonic = "false leg shine bag emotion original dust stairs wrap round spirit rubber";

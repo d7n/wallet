@@ -1,1 +1,1 @@
-var mnemonic = "glory trash case resemble three bacon diary enable repeat patch rent record";
+var mnemonic = "impulse tornado grocery stage tray flat ginger heavy celery ladder fly palm";

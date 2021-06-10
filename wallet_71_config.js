@@ -1,1 +1,1 @@
-var mnemonic = "nasty decide seat sample hold trial puppy leader okay pulse neutral promote";
+var mnemonic = "donkey depart away valve wave flush rude ticket elder wrap pact pottery";

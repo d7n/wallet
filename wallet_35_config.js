@@ -1,1 +1,1 @@
-var mnemonic = "other pyramid kiwi farm tent apple vintage keep smart tank burst pave";
+var mnemonic = "ramp slab friend hurdle magic corn dial seat wire item sense violin";

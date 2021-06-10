@@ -1,1 +1,1 @@
-var mnemonic = "divorce cricket start reopen evil rebel popular duck winter tattoo island print";
+var mnemonic = "cannon eternal code indoor ritual wrestle tornado clinic turn faint start team";

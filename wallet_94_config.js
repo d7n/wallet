@@ -1,1 +1,1 @@
-var mnemonic = "update relax ramp skill off harsh hire enroll giggle book fury west";
+var mnemonic = "orchard green siege there hen hire quarter author horn estate load provide";

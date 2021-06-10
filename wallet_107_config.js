@@ -1,1 +1,1 @@
-var mnemonic = "choice current age history stand swamp unhappy vicious youth patch save outer";
+var mnemonic = "layer nurse soul display obtain noise health crucial ticket memory pledge coral";

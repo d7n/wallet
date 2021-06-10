@@ -1,1 +1,1 @@
-var mnemonic = "digital begin ribbon copper core edit feel peanut hello develop obtain million";
+var mnemonic = "dizzy clinic twin release catalog impose tower erupt release group dwarf dinosaur";

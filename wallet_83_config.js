@@ -1,1 +1,1 @@
-var mnemonic = "luxury member erupt kid pigeon valid team guitar key immense purse print";
+var mnemonic = "fire envelope velvet have tourist job tobacco item weasel bulb pink name";

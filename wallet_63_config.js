@@ -1,1 +1,1 @@
-var mnemonic = "soon whisper tonight tilt modify attack choice junior fork pilot process trim";
+var mnemonic = "popular worry track canal rabbit general body enable lake gossip hazard cup";

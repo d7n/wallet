@@ -1,1 +1,1 @@
-var mnemonic = "unfold cushion candy hundred photo hurt title state long defense ocean enrich";
+var mnemonic = "inquiry width absorb liberty warrior vivid gravity gap already cousin hero fiction";

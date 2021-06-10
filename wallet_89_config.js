@@ -1,1 +1,1 @@
-var mnemonic = "analyst shove kidney old catalog cabbage hill aim great bright renew nothing";
+var mnemonic = "clip tornado glad silent zoo pistol eagle reveal grit clog that cat";

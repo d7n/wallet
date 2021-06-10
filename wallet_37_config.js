@@ -1,1 +1,1 @@
-var mnemonic = "betray silk half home kiss traffic stem print adjust drink innocent best";
+var mnemonic = "egg shine return eight detail random oak lizard blue virtual wealth elevator";

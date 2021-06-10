@@ -1,1 +1,1 @@
-var mnemonic = "isolate shift fuel clown cricket nature width tunnel blood tobacco curve pelican";
+var mnemonic = "loan palace club spice rural purity fancy race dust yellow feel make";

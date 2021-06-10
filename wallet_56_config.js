@@ -1,1 +1,1 @@
-var mnemonic = "tent vintage kid dog hotel device sponsor label paper universe arrest note";
+var mnemonic = "menu liquid december draft wait razor talent kidney also quantum glory dragon";

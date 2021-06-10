@@ -1,1 +1,1 @@
-var mnemonic = "found decade spot sugar cat congress property uphold oil clock spoil olive";
+var mnemonic = "canyon omit marble fatal transfer dumb laundry prevent sustain fuel chase earth";

@@ -1,1 +1,1 @@
-var mnemonic = "frame sister slide feed keen uncover wedding tape rotate very choose plug";
+var mnemonic = "loan run rocket pass feed digital gain group reopen custom heavy comfort";

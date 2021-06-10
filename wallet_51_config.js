@@ -1,1 +1,1 @@
-var mnemonic = "extend firm sheriff document inquiry welcome inject feel top ordinary must mass";
+var mnemonic = "orchard chaos hungry also become word rely into pet web sphere upper";

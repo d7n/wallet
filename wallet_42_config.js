@@ -1,1 +1,1 @@
-var mnemonic = "cook sand evoke moment yellow fashion turkey miracle pave jelly clock avoid";
+var mnemonic = "attitude act effort wood urban pretty wash north blame candy arctic board";

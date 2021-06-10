@@ -1,1 +1,1 @@
-var mnemonic = "cool either dose below hint sure truck where medal picnic fat eternal";
+var mnemonic = "fade excess appear robust rice promote mesh aunt invest best club still";

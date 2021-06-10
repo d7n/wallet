@@ -1,1 +1,1 @@
-var mnemonic = "east uniform shine farm fashion room blush now donkey hold grace craft";
+var mnemonic = "empty stone nominee aspect nothing demand bind captain surge skirt patient fork";

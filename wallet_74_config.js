@@ -1,1 +1,1 @@
-var mnemonic = "state skill scene member daughter midnight hard umbrella castle nasty object course";
+var mnemonic = "nominee twin online piece merry atom erase finish culture blanket lava goose";

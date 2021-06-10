@@ -1,1 +1,1 @@
-var mnemonic = "alarm maple elbow siren window hedgehog impact act moon tank improve narrow";
+var mnemonic = "job photo spice mango ritual best undo chicken warm hidden access then";

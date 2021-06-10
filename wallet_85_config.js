@@ -1,1 +1,1 @@
-var mnemonic = "march razor force false degree buyer peanut cannon roast include include network";
+var mnemonic = "snack vapor absent lemon gym wrap behind dry glass nut oven supply";

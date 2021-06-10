@@ -1,1 +1,1 @@
-var mnemonic = "core walnut fish pride future coyote mobile rapid tobacco margin income poet";
+var mnemonic = "biology post member avocado fault purse image moon gate wheat bar toilet";

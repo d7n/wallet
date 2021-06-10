@@ -1,1 +1,1 @@
-var mnemonic = "stable globe candy dizzy amazing welcome spare sad trouble casual rural identify";
+var mnemonic = "sell box again ocean group orient reject increase bracket random enhance demise";

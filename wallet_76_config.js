@@ -1,1 +1,1 @@
-var mnemonic = "champion another scheme brief gun visual clock middle gap catalog game alert";
+var mnemonic = "goat paper wood churn life card suffer hazard artefact cattle common ripple";

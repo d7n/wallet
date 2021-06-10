@@ -1,1 +1,1 @@
-var mnemonic = "derive either coffee drop tomorrow palm winner employ drastic prosper dose bargain";
+var mnemonic = "wool luggage blind follow lecture cancel tube dragon video name shoulder august";

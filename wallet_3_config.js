@@ -1,1 +1,1 @@
-var mnemonic = "robot diagram equip make govern slam canoe duty warfare gravity cotton fine";
+var mnemonic = "few lab famous magic diary long mixture dismiss wear below trophy exile";

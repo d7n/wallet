@@ -1,1 +1,1 @@
-var mnemonic = "snow maple nerve naive wet mind siren mansion hundred drop favorite powder";
+var mnemonic = "wheat charge toward beach win oxygen tape enlist emerge sphere silent blue";

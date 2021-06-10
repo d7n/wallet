@@ -1,1 +1,1 @@
-var mnemonic = "dove injury jar gather crazy matrix note leisure meadow glimpse fresh shift";
+var mnemonic = "security feed paper render tell clever matter symptom kid stool hub wisdom";

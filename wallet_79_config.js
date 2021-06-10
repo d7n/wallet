@@ -1,1 +1,1 @@
-var mnemonic = "measure tower gun tissue guilt movie minute volcano vague found coin glow";
+var mnemonic = "city card loyal city frame kiss suggest dignity exclude payment width budget";

@@ -1,1 +1,1 @@
-var mnemonic = "legend smoke learn emerge veteran field electric way then pumpkin friend unique";
+var mnemonic = "teach solution wonder grace cable menu spy adapt blur steel urge exchange";
