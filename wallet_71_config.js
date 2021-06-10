@@ -1,1 +1,1 @@
-var mnemonic = "virtual congress flush interest lumber honey atom fancy gauge afraid whisper hair";
+var mnemonic = "turn glad comfort dad enable enter hawk swarm quality winner interest abandon";

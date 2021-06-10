@@ -1,1 +1,1 @@
-var mnemonic = "evolve bullet visa hat vacant race canyon crash beyond elephant practice police";
+var mnemonic = "load broom yard balcony margin post smoke milk pony double crumble speak";

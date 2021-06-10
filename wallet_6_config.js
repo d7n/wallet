@@ -1,1 +1,1 @@
-var mnemonic = "surprise carpet punch example feature test secret confirm theme card police style";
+var mnemonic = "elbow emotion where hero flat poem there entry culture assist mimic second";

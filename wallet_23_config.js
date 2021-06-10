@@ -1,1 +1,1 @@
-var mnemonic = "echo opinion kite orange virtual prison shy decorate sustain auction inspire march";
+var mnemonic = "insane ribbon slogan color range ready wide gate ski rather original width";

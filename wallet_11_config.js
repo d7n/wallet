@@ -1,1 +1,1 @@
-var mnemonic = "wasp inner frozen wealth summer master dad blush bounce wild emotion decline";
+var mnemonic = "act protect robust mad catch glow car worth faculty twin another post";

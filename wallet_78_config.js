@@ -1,1 +1,1 @@
-var mnemonic = "gown rose toddler version frown liar joy feed either sleep fork play";
+var mnemonic = "grow super lawn ramp light drift sponsor laugh taste person grass cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "when swift sea ritual dragon rely palace robot buzz upper force typical";
+var mnemonic = "hood hollow tissue prefer worry two salon stable moon grunt noise mixed";

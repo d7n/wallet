@@ -1,1 +1,1 @@
-var mnemonic = "above relief butter sight harsh protect hotel great armed hurry struggle rescue";
+var mnemonic = "harvest raccoon enhance border such dentist clip paper outer custom finger novel";

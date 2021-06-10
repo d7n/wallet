@@ -1,1 +1,1 @@
-var mnemonic = "tag stable upper beach fatal forget predict vital report proof present system";
+var mnemonic = "pink can oval peanut also diet vocal siren ecology square mobile stand";

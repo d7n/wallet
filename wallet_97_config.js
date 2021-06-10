@@ -1,1 +1,1 @@
-var mnemonic = "short wolf near west fresh decrease annual sign sad tomorrow sell cost";
+var mnemonic = "coast garment carry connect twice dune rigid message note blur team scissors";

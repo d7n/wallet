@@ -1,1 +1,1 @@
-var mnemonic = "tortoise clerk canvas twenty horn skirt vivid balance toe become neglect jump";
+var mnemonic = "sudden fix check luxury inhale sentence soda potato broken maze orient milk";

@@ -1,1 +1,1 @@
-var mnemonic = "layer liberty staff rescue impact print valley slow define marble hospital grow";
+var mnemonic = "decline involve step funny scheme spring hundred silly drum jungle shift brush";

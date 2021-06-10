@@ -1,1 +1,1 @@
-var mnemonic = "trigger prison ranch lunch weird switch wedding choose motor roof assume neutral";
+var mnemonic = "donkey avocado couple orange grape spawn army box order mango bid dress";

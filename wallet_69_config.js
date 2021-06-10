@@ -1,1 +1,1 @@
-var mnemonic = "april pill crime rich sight obscure cereal swarm deer economy clutch stumble";
+var mnemonic = "oppose alone guide naive burger subway cause field wise blind such actress";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle crack phone fade bridge clump process arena record transfer bronze vast";
+var mnemonic = "such axis unlock humor desert season sad toe witness genre transfer donkey";

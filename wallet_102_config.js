@@ -1,1 +1,1 @@
-var mnemonic = "faint length eye industry approve kitten burst humor proud turtle picture news";
+var mnemonic = "smoke also prefer tail shadow have dolphin save beyond jungle replace picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder broken that label six badge wife replace climb property soon settle";
+var mnemonic = "unable trap rabbit sorry bracket senior rifle upset time verb exact main";

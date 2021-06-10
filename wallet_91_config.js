@@ -1,1 +1,1 @@
-var mnemonic = "good genre achieve large embrace panther illegal stick school ramp energy hope";
+var mnemonic = "pottery noise face logic exact strike ceiling practice work remove thrive brush";

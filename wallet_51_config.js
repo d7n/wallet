@@ -1,1 +1,1 @@
-var mnemonic = "laugh airport web dinosaur friend donor east kick gold coconut impact shy";
+var mnemonic = "found quality tiger dinner insect subject plate type project enroll noble half";

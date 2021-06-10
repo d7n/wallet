@@ -1,1 +1,1 @@
-var mnemonic = "clock cupboard wash rough quality guitar basket web equal pupil box use";
+var mnemonic = "asthma prosper illness borrow reflect aunt doll travel explain climb whale secret";

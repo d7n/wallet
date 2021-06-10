@@ -1,1 +1,1 @@
-var mnemonic = "mistake wool aerobic secret firm soup figure today flat deliver spice noble";
+var mnemonic = "mixture spare virtual rotate pudding weird copy minor snack purpose brisk blade";

@@ -1,1 +1,1 @@
-var mnemonic = "before chat torch remove ginger remember apology poet ignore quantum vital gather";
+var mnemonic = "tape affair wrong misery maid crucial session tobacco illegal hat across excess";

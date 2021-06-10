@@ -1,1 +1,1 @@
-var mnemonic = "student slow evil hybrid confirm capital present army ivory truly labor excite";
+var mnemonic = "soft chronic festival cotton pass suit adapt couple office similar coffee kind";

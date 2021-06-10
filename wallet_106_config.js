@@ -1,1 +1,1 @@
-var mnemonic = "icon parrot buddy bid oppose beauty tilt gallery riot box ahead help";
+var mnemonic = "merit inside citizen usual shoe certain devote wine benefit height occur burden";

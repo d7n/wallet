@@ -1,1 +1,1 @@
-var mnemonic = "spare seminar cash rescue own marble diet predict kangaroo unit mammal afraid";
+var mnemonic = "laptop dust orbit base meat empower harsh kite virtual ugly front circle";

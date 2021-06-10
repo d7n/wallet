@@ -1,1 +1,1 @@
-var mnemonic = "piano dumb enroll always exact agree cliff always multiply more unfold public";
+var mnemonic = "chimney leave situate swap gown spin replace tiny little thrive correct orient";

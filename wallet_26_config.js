@@ -1,1 +1,1 @@
-var mnemonic = "whip milk stuff gallery polar lamp simple physical gravity vague test leopard";
+var mnemonic = "budget riot usual settle awake hobby neutral end soup fox inquiry media";

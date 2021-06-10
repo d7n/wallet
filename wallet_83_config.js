@@ -1,1 +1,1 @@
-var mnemonic = "bargain pulse angry medal agree summer village surface buzz grocery frequent test";
+var mnemonic = "age dirt cool more own love evolve craft tomato angry convince leopard";

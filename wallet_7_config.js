@@ -1,1 +1,1 @@
-var mnemonic = "snack legend student ripple victory bonus unable saddle okay tone test pave";
+var mnemonic = "ladder dust brain exotic pizza winner merry word relief tunnel daring manual";

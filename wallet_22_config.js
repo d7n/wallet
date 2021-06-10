@@ -1,1 +1,1 @@
-var mnemonic = "meadow actual lonely worth few nest bring lemon thunder green pledge critic";
+var mnemonic = "tray claim lock letter work grant decorate cave extend replace protect usual";

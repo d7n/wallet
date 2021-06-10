@@ -1,1 +1,1 @@
-var mnemonic = "verb ticket you right magic angry physical long return visual voice chronic";
+var mnemonic = "mammal wreck margin minimum lyrics below solid gain six angle truly normal";

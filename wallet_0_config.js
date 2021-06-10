@@ -1,1 +1,1 @@
-var mnemonic = "spring inch obvious novel pencil fish steak stick front social equip stick";
+var mnemonic = "struggle chase phrase pause banana group monkey poet ivory relief prevent latin";

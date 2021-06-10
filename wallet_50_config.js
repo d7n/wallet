@@ -1,1 +1,1 @@
-var mnemonic = "car saddle tray cycle prepare bottom mix million stand accuse bike picnic";
+var mnemonic = "offer hope super marine tuna castle enforce misery else summer split humor";

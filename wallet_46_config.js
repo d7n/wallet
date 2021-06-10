@@ -1,1 +1,1 @@
-var mnemonic = "cactus setup caution actor glimpse hedgehog wire virus fog capital raise buzz";
+var mnemonic = "fence guide picture bless speak skirt hungry lend check rural sponsor grid";

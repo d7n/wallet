@@ -1,1 +1,1 @@
-var mnemonic = "boring immune alert speak tongue infant melt minor swamp follow uniform sense";
+var mnemonic = "weird narrow muffin vessel guilt normal opera craft orient order film vehicle";

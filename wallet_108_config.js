@@ -1,1 +1,1 @@
-var mnemonic = "wave clog pride local trade unfold have fire nothing tattoo liberty topic";
+var mnemonic = "average chuckle outer one merge focus minute neglect foot blossom evoke pepper";

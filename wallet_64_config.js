@@ -1,1 +1,1 @@
-var mnemonic = "violin neutral recall enlist garage convince tape filter arm hill barely globe";
+var mnemonic = "rule able antique process twice year expose carbon life lunch museum rubber";

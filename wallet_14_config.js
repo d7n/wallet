@@ -1,1 +1,1 @@
-var mnemonic = "match copy supreme genre exhaust limb slogan model daring negative chief easily";
+var mnemonic = "idea siege stand ensure gown tired blur volcano gasp excite print target";

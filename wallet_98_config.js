@@ -1,1 +1,1 @@
-var mnemonic = "album exhaust inner culture kick find repair never blue glory source orbit";
+var mnemonic = "banner property eagle famous desk bonus artist subject soccer assist mother diesel";

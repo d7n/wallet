@@ -1,1 +1,1 @@
-var mnemonic = "sting pet when dad prosper cause clerk sport swarm maximum walk praise";
+var mnemonic = "cliff step immune hair indicate miracle give cargo captain pipe tail sudden";

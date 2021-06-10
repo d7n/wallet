@@ -1,1 +1,1 @@
-var mnemonic = "unusual coffee tell expose extend point fringe tourist base cement flock oven";
+var mnemonic = "tail mixture escape void abuse agree smart prepare shine galaxy where basket";

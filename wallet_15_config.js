@@ -1,1 +1,1 @@
-var mnemonic = "borrow cradle you armed mountain seven enable suffer morning animal dream alley";
+var mnemonic = "build matter nephew latin used ice inhale essay force illness beef proud";

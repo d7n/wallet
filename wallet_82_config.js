@@ -1,1 +1,1 @@
-var mnemonic = "jaguar multiply alpha swim solar degree crucial better clown song blur dynamic";
+var mnemonic = "laptop sibling drum dragon pink stable final opera girl ticket eternal shed";

@@ -1,1 +1,1 @@
-var mnemonic = "common focus fancy erase grit brown course boy festival address obscure quick";
+var mnemonic = "normal napkin humble rent current horn talk sugar social equal dream arch";

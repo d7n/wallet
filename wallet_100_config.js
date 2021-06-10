@@ -1,1 +1,1 @@
-var mnemonic = "desk tomorrow quarter gap skull flavor donate birth torch bulk tip indicate";
+var mnemonic = "december income fragile toddler immense axis vessel car obtain father unveil blame";

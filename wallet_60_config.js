@@ -1,1 +1,1 @@
-var mnemonic = "luggage arrange hybrid feel worry name sound canvas rigid learn parrot retire";
+var mnemonic = "hand you save snow size dune cycle obvious cabin pole occur fog";

@@ -1,1 +1,1 @@
-var mnemonic = "phone track duck divert spell earth entry income stable horn bottom switch";
+var mnemonic = "buffalo museum senior news banana magnet hub bracket surface door adapt analyst";

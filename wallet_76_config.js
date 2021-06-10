@@ -1,1 +1,1 @@
-var mnemonic = "sad measure fence tone resist lady add world put forum oyster flash";
+var mnemonic = "seat smooth blouse fan immense tell ceiling water route day movie return";

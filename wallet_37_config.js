@@ -1,1 +1,1 @@
-var mnemonic = "mixed sentence fine mango peace result piece danger price casual bottom sing";
+var mnemonic = "transfer giggle hybrid essay spend busy drama trim motor bacon false say";

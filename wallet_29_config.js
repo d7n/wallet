@@ -1,1 +1,1 @@
-var mnemonic = "educate empty upgrade first detail present away fly nurse mercy roof suggest";
+var mnemonic = "egg manual census sheriff exist atom true please congress keen pride pear";

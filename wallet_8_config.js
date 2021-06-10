@@ -1,1 +1,1 @@
-var mnemonic = "forward need open wisdom habit evidence steel ranch dream case absent capital";
+var mnemonic = "type empty will quiz wedding modify impose level any fruit canal mushroom";

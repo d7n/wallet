@@ -1,1 +1,1 @@
-var mnemonic = "foil arrow cabbage month maid spare flat peanut sort bundle saddle volcano";
+var mnemonic = "already file jazz circle deny stem one thumb remain volume lunch wreck";

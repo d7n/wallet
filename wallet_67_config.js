@@ -1,1 +1,1 @@
-var mnemonic = "blade magnet annual rose vault rack torch icon aim bundle basket fortune";
+var mnemonic = "order rose tiger eternal chicken fox submit napkin rapid few exist loop";

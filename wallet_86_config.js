@@ -1,1 +1,1 @@
-var mnemonic = "hero engine parade matrix gate autumn blur select enhance point pair cube";
+var mnemonic = "capital cheese merit bench annual once loud follow around wave wolf duty";

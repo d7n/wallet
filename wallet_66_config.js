@@ -1,1 +1,1 @@
-var mnemonic = "victory elbow siege bench route lemon seek muffin empty host jaguar pig";
+var mnemonic = "sample say endorse village tomorrow leisure keen strike brass dilemma carbon jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "ball toward inform toward kid web great clock blossom pitch smoke mushroom";
+var mnemonic = "coyote flag discover result logic group pole kite bread coach kite tattoo";

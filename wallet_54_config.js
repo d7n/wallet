@@ -1,1 +1,1 @@
-var mnemonic = "umbrella type denial invite tone aerobic choice sort annual manual change jump";
+var mnemonic = "sleep member blanket claw quit omit lyrics citizen document next stamp fetch";

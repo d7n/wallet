@@ -1,1 +1,1 @@
-var mnemonic = "green unaware frame wisdom embark amused rescue clump hub tomato flight slush";
+var mnemonic = "oven winner allow lottery time refuse prefer swarm hub forum course reveal";

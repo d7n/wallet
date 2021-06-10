@@ -1,1 +1,1 @@
-var mnemonic = "cry december hint today shoot lend food provide beef dash prefer cook";
+var mnemonic = "illegal theory jar goddess garlic sibling diesel oblige heavy run insect film";

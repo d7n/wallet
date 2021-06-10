@@ -1,1 +1,1 @@
-var mnemonic = "caution anger tackle dance toy else lizard fringe inner civil cupboard stick";
+var mnemonic = "near snake chapter timber open left select pen page entry connect joke";

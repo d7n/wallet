@@ -1,1 +1,1 @@
-var mnemonic = "clerk fitness hazard spring moon used puppy sister indoor fetch inmate million";
+var mnemonic = "arena despair trade ride awkward night hair gasp senior fly shield lonely";

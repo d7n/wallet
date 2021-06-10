@@ -1,1 +1,1 @@
-var mnemonic = "shuffle lawn topic inquiry salute join during letter switch goat height deposit";
+var mnemonic = "owner suit diet evidence ability battle apology body genuine type delay rude";

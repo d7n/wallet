@@ -1,1 +1,1 @@
-var mnemonic = "marine under alter bicycle mesh shed enlist battle artefact curtain manage noodle";
+var mnemonic = "squeeze stereo visual uphold carpet diet jazz walnut chaos icon theme large";

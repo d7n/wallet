@@ -1,1 +1,1 @@
-var mnemonic = "develop easy stick speed friend guess treat provide under welcome lake rapid";
+var mnemonic = "speed because address sick only party loyal expire fine great ladder penalty";

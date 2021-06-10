@@ -1,1 +1,1 @@
-var mnemonic = "fluid dash idle unveil jealous paddle abuse mule stuff drama kingdom width";
+var mnemonic = "crew ladder swear man cash crack other sadness couch setup portion unusual";

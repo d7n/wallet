@@ -1,1 +1,1 @@
-var mnemonic = "immense runway off tennis concert insect quiz matter regret heavy wrong finish";
+var mnemonic = "arrow cross brain renew portion when panther shoe unusual thunder valve manage";

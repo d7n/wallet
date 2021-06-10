@@ -1,1 +1,1 @@
-var mnemonic = "tip patch toss trick bracket scare weekend occur brand high matter glide";
+var mnemonic = "song reveal coconut genius ugly shove breeze human acid same organ stay";

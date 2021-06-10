@@ -1,1 +1,1 @@
-var mnemonic = "guitar tenant unknown dinner clean pen motor soul raccoon north garage notable";
+var mnemonic = "input aunt coral diesel afford there curve lizard ski ship tattoo flee";

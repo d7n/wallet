@@ -1,1 +1,1 @@
-var mnemonic = "wing festival prefer aunt oak admit lobster fence giraffe motion century cliff";
+var mnemonic = "disease vocal noise salmon gas rather wall kind worry switch bacon elbow";

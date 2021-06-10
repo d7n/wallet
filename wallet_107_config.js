@@ -1,1 +1,1 @@
-var mnemonic = "guitar online hire uncle what impose collect load alley crisp fan stem";
+var mnemonic = "pill wrong wet under input rug security finish above access coin midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "trade mixture worth floor type noodle burst filter cube future tired clerk";
+var mnemonic = "iron glow asthma beef crush tuition nature negative crystal current judge client";

@@ -1,1 +1,1 @@
-var mnemonic = "brave reopen cram cash ankle coil merry radar mercy match owner weekend";
+var mnemonic = "lumber virus blind wrestle interest van input horror memory topic intact fiber";

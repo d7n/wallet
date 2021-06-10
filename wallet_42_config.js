@@ -1,1 +1,1 @@
-var mnemonic = "tragic mystery mother theory garlic oak curious immense remain course avoid select";
+var mnemonic = "immense yard clump vendor miss market metal level base fetch gloom simple";

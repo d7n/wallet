@@ -1,1 +1,1 @@
-var mnemonic = "pulse turn truth student oval police win time spring type believe seat";
+var mnemonic = "name bright decline involve cushion surround innocent pill menu inject vendor series";

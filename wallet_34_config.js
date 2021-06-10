@@ -1,1 +1,1 @@
-var mnemonic = "throw organ verify observe clock cradle jar luxury donate valve ostrich mind";
+var mnemonic = "work blood awkward skate invite prefer peace body trumpet race slam piece";

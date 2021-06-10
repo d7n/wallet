@@ -1,1 +1,1 @@
-var mnemonic = "tree quality require oppose vibrant guard document object pave fever worth page";
+var mnemonic = "derive crystal visual canvas clown obey surge around face sudden winner tag";

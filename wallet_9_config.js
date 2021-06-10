@@ -1,1 +1,1 @@
-var mnemonic = "margin afraid wealth balance since future divorce peasant casino undo life hurry";
+var mnemonic = "intact people gasp donkey assume crawl orange street nut roast exit tuna";

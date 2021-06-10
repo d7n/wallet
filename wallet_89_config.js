@@ -1,1 +1,1 @@
-var mnemonic = "disagree purpose sugar subject clump join mesh tiger warfare pact toy real";
+var mnemonic = "cabbage spell neither knee negative chaos poet index velvet item obscure total";

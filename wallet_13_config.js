@@ -1,1 +1,1 @@
-var mnemonic = "actual require lamp void goddess small youth dust supreme hero depend rabbit";
+var mnemonic = "anchor deny slow tag view coin shiver health body renew clock hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "glide cricket forget happy symbol morning title camp badge earn truth under";
+var mnemonic = "limit slush song express garlic insane stock fox manual dragon tattoo mixed";

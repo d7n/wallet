@@ -1,1 +1,1 @@
-var mnemonic = "ask weasel object wheel hurt absorb rain strategy spend mutual tattoo vacuum";
+var mnemonic = "snap minimum peasant leave multiply enlist person palm come hat system pledge";

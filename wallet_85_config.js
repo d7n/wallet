@@ -1,1 +1,1 @@
-var mnemonic = "labor candy roof normal other into prize sport item alarm pyramid kitchen";
+var mnemonic = "exit man carry uncle stand minimum hurt doctor lake deputy fiber smoke";

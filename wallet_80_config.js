@@ -1,1 +1,1 @@
-var mnemonic = "garden custom virtual isolate flavor decide night try embark cave vacuum possible";
+var mnemonic = "call scrap rough profit flip debris mirror clown inner cause negative middle";

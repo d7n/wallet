@@ -1,1 +1,1 @@
-var mnemonic = "kiwi pencil pulse belt faith pledge decrease shove math follow link question";
+var mnemonic = "funny garment bleak action noodle security kiwi common divert myth grit airport";

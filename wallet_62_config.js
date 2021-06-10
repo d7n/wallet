@@ -1,1 +1,1 @@
-var mnemonic = "logic flash wrestle father worth cushion deliver patch frozen there foster like";
+var mnemonic = "rice noise live safe wolf sport glass frequent small minor fiscal panic";

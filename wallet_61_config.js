@@ -1,1 +1,1 @@
-var mnemonic = "team category identify cube connect shield size fork toe vanish idea final";
+var mnemonic = "cabbage area theory kiwi treat aware minimum brush layer memory country general";

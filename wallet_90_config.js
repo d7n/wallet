@@ -1,1 +1,1 @@
-var mnemonic = "gloom genre wisdom mind spring strike ship tennis brave drive banner utility";
+var mnemonic = "paddle guard dance multiply traffic patch impulse wise message fabric power radio";

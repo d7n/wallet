@@ -1,1 +1,1 @@
-var mnemonic = "air organ tattoo aim firm call profit increase rain orchard embrace degree";
+var mnemonic = "fame copy move monster cargo sister belt essay rival wrestle genuine artefact";

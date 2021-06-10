@@ -1,1 +1,1 @@
-var mnemonic = "social opera cupboard genius bubble grass sting miss keep step blossom giraffe";
+var mnemonic = "weekend heavy combine know swarm session vicious tide final throw insane lazy";

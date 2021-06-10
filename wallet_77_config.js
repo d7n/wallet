@@ -1,1 +1,1 @@
-var mnemonic = "humble elegant output glass skin lion riot weather snow inject cry food";
+var mnemonic = "staff hybrid peasant rule file iron since local run urge little hat";

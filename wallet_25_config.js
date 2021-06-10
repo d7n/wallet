@@ -1,1 +1,1 @@
-var mnemonic = "army again cat museum later winter only joy struggle grass skin mad";
+var mnemonic = "upset garbage bundle asthma sun crawl old erode infant evoke helmet vague";

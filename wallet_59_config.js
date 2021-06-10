@@ -1,1 +1,1 @@
-var mnemonic = "loyal boy giraffe essay uncle bonus hard diagram across comic damage liberty";
+var mnemonic = "great consider connect replace member title senior school chat worry obey hour";

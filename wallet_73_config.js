@@ -1,1 +1,1 @@
-var mnemonic = "glide super beauty because alien flat flip awkward protect gasp brush sheriff";
+var mnemonic = "elevator club evil acoustic fragile identify salute inside answer dress melody rabbit";

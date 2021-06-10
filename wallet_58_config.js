@@ -1,1 +1,1 @@
-var mnemonic = "detect claw town cycle gravity foam ankle mystery sail before purity thank";
+var mnemonic = "razor curious shadow select quantum athlete ten wagon deliver merge dignity sort";

@@ -1,1 +1,1 @@
-var mnemonic = "flower charge useful rebel fiber involve thing smoke able spider culture crop";
+var mnemonic = "urban actual give topic lion ball circle sand island during sock end";
