@@ -1,1 +1,1 @@
-var mnemonic = "session disagree curtain monitor season issue situate cluster worth asset ski sauce";
+var mnemonic = "pioneer genuine repeat trial million betray tribe verb stool version fashion same";

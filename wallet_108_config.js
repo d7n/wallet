@@ -1,1 +1,1 @@
-var mnemonic = "camera rapid destroy badge term ceiling minimum enough session wonder olive renew";
+var mnemonic = "obscure orient ahead begin cube gas noble plug laptop tornado boring undo";

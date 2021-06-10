@@ -1,1 +1,1 @@
-var mnemonic = "spare ordinary voice joy busy pool prefer twice retire swift abstract stable";
+var mnemonic = "syrup wealth jar normal axis kiss palm climb powder flame stove polar";

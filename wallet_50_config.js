@@ -1,1 +1,1 @@
-var mnemonic = "dance object liberty goose buzz laptop have tired profit melt hill small";
+var mnemonic = "cave century cotton foster scrub dish educate rabbit despair gap range harbor";

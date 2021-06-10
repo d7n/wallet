@@ -1,1 +1,1 @@
-var mnemonic = "candy upgrade height crop help elder gasp cherry danger manage before blade";
+var mnemonic = "wing cash shell hedgehog drip moon illegal level tomato mammal cook similar";

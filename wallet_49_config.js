@@ -1,1 +1,1 @@
-var mnemonic = "sustain scale actual broken address sudden excess record surface income omit analyst";
+var mnemonic = "solve poem panic siege once away proud slogan debris ring ensure way";

@@ -1,1 +1,1 @@
-var mnemonic = "forest swim derive smooth lonely strike thank gorilla stadium wheel spawn oil";
+var mnemonic = "olympic profit slim logic nest trick assist ready sunset dentist raise air";

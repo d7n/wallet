@@ -1,1 +1,1 @@
-var mnemonic = "tape clap race renew clog fancy tunnel neither dawn stage know style";
+var mnemonic = "analyst magic total key forward daughter kid energy left today virtual immune";

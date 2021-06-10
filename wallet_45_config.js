@@ -1,1 +1,1 @@
-var mnemonic = "adult bottom base soccer bless offer exclude brand weird ramp manual file";
+var mnemonic = "outer noise laundry dolphin thunder evolve bright enact gadget sketch nation monster";

@@ -1,1 +1,1 @@
-var mnemonic = "foot goat hire sense save flee circle love paper pledge talk element";
+var mnemonic = "visa expect refuse lion recall force detail repeat chalk dove diagram battle";

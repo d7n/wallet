@@ -1,1 +1,1 @@
-var mnemonic = "social meadow employ height joy survey pretty tuition awake matter copy timber";
+var mnemonic = "clutch comfort brisk deal symptom black essence kidney luxury alarm decorate source";

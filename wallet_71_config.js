@@ -1,1 +1,1 @@
-var mnemonic = "media problem ghost clerk rain enough grace helmet alert enhance february scrap";
+var mnemonic = "refuse sudden mercy weekend energy renew unveil music eagle tube region lemon";

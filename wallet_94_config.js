@@ -1,1 +1,1 @@
-var mnemonic = "forest brown sad cement vendor present repair appear wall carbon twist dinner";
+var mnemonic = "can exercise chunk actor hello toward pretty tape rely payment student victory";

@@ -1,1 +1,1 @@
-var mnemonic = "shift brain ripple escape consider merit border focus flavor coach lend road";
+var mnemonic = "senior body similar crouch finish license trophy limit tilt genre dad emerge";

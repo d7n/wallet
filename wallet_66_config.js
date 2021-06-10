@@ -1,1 +1,1 @@
-var mnemonic = "obscure install wink loan monkey cheese domain actor forest describe second service";
+var mnemonic = "purchase fit crater road believe clay age panic layer mail afford ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "true annual shed you odor cheese genius wrist tower subway toilet safe";
+var mnemonic = "wave cupboard wave analyst dirt fatigue receive museum derive trophy load outside";

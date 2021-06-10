@@ -1,1 +1,1 @@
-var mnemonic = "trigger color youth can quiz captain position nest guilt avoid chronic exclude";
+var mnemonic = "garment alley announce regret talent erosion limit prosper gather judge fiction imitate";

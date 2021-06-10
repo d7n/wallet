@@ -1,1 +1,1 @@
-var mnemonic = "issue elder hobby december bless april energy nature mesh exclude turtle post";
+var mnemonic = "retire finger tape novel open later bless outdoor rally trophy custom awkward";

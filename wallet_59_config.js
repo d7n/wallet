@@ -1,1 +1,1 @@
-var mnemonic = "draw topple recall favorite balcony also trash feature find cousin figure sunny";
+var mnemonic = "error ready quick net answer curve trial dumb flavor subway bleak sleep";

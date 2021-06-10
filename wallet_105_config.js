@@ -1,1 +1,1 @@
-var mnemonic = "original twenty elevator wedding suspect recycle idea scissors thought crumble cherry fossil";
+var mnemonic = "tooth draw sibling beauty snow fog frost family fresh novel oblige rather";

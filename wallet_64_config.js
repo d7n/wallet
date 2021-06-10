@@ -1,1 +1,1 @@
-var mnemonic = "topic bubble salmon erosion yellow gather trip soccer race real wing lawsuit";
+var mnemonic = "property vocal weasel item reform decorate riot sign label proof section shove";

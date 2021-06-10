@@ -1,1 +1,1 @@
-var mnemonic = "remove bacon quote doll carry boss crop cruel spider dune jacket measure";
+var mnemonic = "mix fan involve remember reward print welcome autumn provide bubble rib hawk";

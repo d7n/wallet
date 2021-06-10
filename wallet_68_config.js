@@ -1,1 +1,1 @@
-var mnemonic = "embark ugly club market merge company uncle crack actress stone myself fat";
+var mnemonic = "garment raise goat course mouse victory vehicle process chase duty reduce traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "wish inmate milk north spawn mercy route unveil join film owner humor";
+var mnemonic = "eye goat tiger clown cargo capable shuffle change adapt reflect any review";

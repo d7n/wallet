@@ -1,1 +1,1 @@
-var mnemonic = "glare neck loud diary team average bachelor pass any web minimum print";
+var mnemonic = "rack suspect survey palm rug dismiss around work huge icon soccer nest";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer wheat section minor tank once aisle health moon update above subway";
+var mnemonic = "kitchen cinnamon amateur rug crowd green cool mobile capable multiply wreck radar";

@@ -1,1 +1,1 @@
-var mnemonic = "mask purpose beach present modify response lift clog mention scout wheel pilot";
+var mnemonic = "since cook act firm teach oppose invest proud romance depart identify deposit";

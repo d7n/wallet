@@ -1,1 +1,1 @@
-var mnemonic = "blade just shell walnut engine margin bachelor assume sponsor city toddler hero";
+var mnemonic = "humor shed select risk lyrics discover chalk affair gate reject opinion cupboard";

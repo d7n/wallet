@@ -1,1 +1,1 @@
-var mnemonic = "green cook snap thumb model hair drive logic hour section rib wreck";
+var mnemonic = "seek select spend broom party solar lucky cage jacket country pulp give";

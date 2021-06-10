@@ -1,1 +1,1 @@
-var mnemonic = "ice reduce supreme dinosaur world dream custom castle lyrics shoulder pass account";
+var mnemonic = "clog nation problem other crater faint verify history jelly bird initial siren";

@@ -1,1 +1,1 @@
-var mnemonic = "check shiver view clean inside census walk crop net jungle middle often";
+var mnemonic = "vessel matter agent diamond walnut deputy turtle property crucial trim affair antenna";

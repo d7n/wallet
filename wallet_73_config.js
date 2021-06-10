@@ -1,1 +1,1 @@
-var mnemonic = "youth dust gate inhale inch oak advice future grape bird blame poet";
+var mnemonic = "essay hockey travel better shy animal popular winter bicycle surround prepare expire";

@@ -1,1 +1,1 @@
-var mnemonic = "tide easily chest slender word quality attitude hammer mango mixed aware rival";
+var mnemonic = "delay crop lucky room language believe anchor element similar false acid vital";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft lake churn lizard risk quality ridge require aunt keep moral birth";
+var mnemonic = "benefit remember cabbage target stay lift august farm promote fog flat desk";

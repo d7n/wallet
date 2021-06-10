@@ -1,1 +1,1 @@
-var mnemonic = "pistol mirror polar edit enforce flush supply sausage move submit left example";
+var mnemonic = "kid coconut blame comfort antique claw tackle defense humor green rally foster";

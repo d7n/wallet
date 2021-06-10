@@ -1,1 +1,1 @@
-var mnemonic = "wool other picture problem together clarify six focus talent someone wagon must";
+var mnemonic = "actress group turkey machine giant derive acquire dish same must paddle utility";

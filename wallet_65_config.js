@@ -1,1 +1,1 @@
-var mnemonic = "busy angry spawn scissors width mom hollow alarm note exclude power pony";
+var mnemonic = "crack this enlist frame traffic grain success can second nominee off spare";

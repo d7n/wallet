@@ -1,1 +1,1 @@
-var mnemonic = "must copper trash feature step boat cash bullet imitate worry slice style";
+var mnemonic = "ski gallery fitness rely myth bicycle bring shadow arrive peace portion spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "wild pass gravity comic increase student apology vault oil patient false refuse";
+var mnemonic = "humble already coconut mosquito issue virus sweet priority glove garlic educate crime";

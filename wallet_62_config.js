@@ -1,1 +1,1 @@
-var mnemonic = "seek fiber typical hard fix drop maid lend dinosaur skate hospital wave";
+var mnemonic = "useful disagree stone unit proof kiwi marine make forward believe club card";

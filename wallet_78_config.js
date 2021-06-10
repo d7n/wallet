@@ -1,1 +1,1 @@
-var mnemonic = "child domain venture swear friend urge strike mesh ecology before dutch toward";
+var mnemonic = "cause genuine friend spare amateur clump hurry raise aisle clarify bullet that";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft joke grant must math pizza animal rib unusual bar swallow live";
+var mnemonic = "other vanish biology joke slender jar orange hurt toast advance debate lens";

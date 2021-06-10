@@ -1,1 +1,1 @@
-var mnemonic = "repeat dragon reveal roof door illness pole belt inspire arrive axis resemble";
+var mnemonic = "advance aware shield embody wheat winter basic genre win trigger cousin music";

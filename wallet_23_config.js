@@ -1,1 +1,1 @@
-var mnemonic = "song mimic pull garment point cook text venture furnace ecology grape side";
+var mnemonic = "evil vault bless behave rice festival matrix fish anger cushion outside popular";

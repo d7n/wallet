@@ -1,1 +1,1 @@
-var mnemonic = "rapid purchase winner genuine notable enter chronic vibrant gap visa begin scatter";
+var mnemonic = "hurdle envelope tomorrow hub fish obscure spoil blur beef rebuild oxygen ahead";

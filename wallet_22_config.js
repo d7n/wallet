@@ -1,1 +1,1 @@
-var mnemonic = "fly error bulb bulk guitar priority rescue guitar coin warfare sentence cheap";
+var mnemonic = "fresh clip bright undo embody sign reflect flame inherit genius shuffle shy";

@@ -1,1 +1,1 @@
-var mnemonic = "initial only man diamond omit proud lunch option leave drum candy ostrich";
+var mnemonic = "source practice pool motor goat version wheat claim army swamp cheese physical";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton outside behave scan spoil boy pass panther fluid crush rough exhibit";
+var mnemonic = "change cloth guess era outdoor material purse link convince expand path crucial";

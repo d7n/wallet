@@ -1,1 +1,1 @@
-var mnemonic = "trap extend slim sea ripple skill run city old method plastic grow";
+var mnemonic = "skin brick knee hollow insane furnace plug medal resemble orchard ranch wreck";

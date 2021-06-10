@@ -1,1 +1,1 @@
-var mnemonic = "phone law series filter start around mixture guide velvet any hobby april";
+var mnemonic = "file kiss toddler evidence priority exile jacket aerobic inside cloud kitten solution";

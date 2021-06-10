@@ -1,1 +1,1 @@
-var mnemonic = "type grab message cheese rocket cousin helmet cabbage cost resource shrimp jeans";
+var mnemonic = "area immense tribe river process reward jump weird recall inform cruise input";

@@ -1,1 +1,1 @@
-var mnemonic = "away garden stairs survey chuckle legal like beach wait host world pelican";
+var mnemonic = "monster thumb better economy mask mercy capable better mountain distance better flag";

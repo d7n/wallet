@@ -1,1 +1,1 @@
-var mnemonic = "orient assume rally glove load manual topple argue traffic eight clip matrix";
+var mnemonic = "output memory valley frame pyramid hen you elephant expire blouse survey attitude";

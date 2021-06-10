@@ -1,1 +1,1 @@
-var mnemonic = "write actor bean erupt reduce vicious close assist story key keen purse";
+var mnemonic = "enroll glue gasp million damage puzzle uncover hill hair frequent bright chair";

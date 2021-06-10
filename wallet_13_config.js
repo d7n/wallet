@@ -1,1 +1,1 @@
-var mnemonic = "alcohol hungry able comfort chronic enjoy hawk path sniff mistake boil panel";
+var mnemonic = "prevent word fee stone movie tunnel obscure negative immune earn nut gown";

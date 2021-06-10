@@ -1,1 +1,1 @@
-var mnemonic = "shell display chef dynamic cover gorilla dutch size again dinosaur solution hurt";
+var mnemonic = "all face rich decrease copy ice genius drink velvet phone shaft tongue";

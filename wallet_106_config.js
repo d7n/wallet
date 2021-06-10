@@ -1,1 +1,1 @@
-var mnemonic = "cricket lock original language pull film march immense picnic chunk shrimp silly";
+var mnemonic = "matter evil pony priority wagon predict follow february boat disorder ethics patrol";

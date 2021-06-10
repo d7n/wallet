@@ -1,1 +1,1 @@
-var mnemonic = "gain divide black blade ticket repair february odor salute member radar wool";
+var mnemonic = "fine melt lesson spice foot grow mixture mutual sand setup plug clog";

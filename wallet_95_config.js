@@ -1,1 +1,1 @@
-var mnemonic = "panda mail unfair collect south toe loud senior saddle sick noble foster";
+var mnemonic = "peasant afford popular monkey bus lift pond nominee judge energy cable purchase";

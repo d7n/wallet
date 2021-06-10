@@ -1,1 +1,1 @@
-var mnemonic = "parade fashion chaos arm matter spell ritual clever space boil pigeon recipe";
+var mnemonic = "invest crawl shield noodle good match pudding flame cousin thought health power";

@@ -1,1 +1,1 @@
-var mnemonic = "crawl craft rule funny series elegant salt rule clarify hip unknown zero";
+var mnemonic = "setup talk rally sail during pink public indicate orphan barrel shell coffee";

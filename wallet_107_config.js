@@ -1,1 +1,1 @@
-var mnemonic = "enhance twice banana arm puzzle hurry harvest police label fitness coin cancel";
+var mnemonic = "fame true swift cattle perfect culture web season cabin island recall odor";

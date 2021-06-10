@@ -1,1 +1,1 @@
-var mnemonic = "eight host shell wisdom web treat glue flag eager bridge earn hockey";
+var mnemonic = "echo duck cloth member brand twin glad later harvest wet tennis stick";

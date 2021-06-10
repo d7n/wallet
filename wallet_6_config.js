@@ -1,1 +1,1 @@
-var mnemonic = "know cross subway exclude head young mother biology ostrich about exclude express";
+var mnemonic = "gravity useless museum town film check design fun unusual speed when prevent";

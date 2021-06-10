@@ -1,1 +1,1 @@
-var mnemonic = "rude sell immense submit coyote hollow fiscal exchange warrior tenant toe winner";
+var mnemonic = "tennis series coconut win silver wrong regret auction mansion visa curve educate";

@@ -1,1 +1,1 @@
-var mnemonic = "north angle elephant echo slab shine sand topic own brass client suspect";
+var mnemonic = "stone morning muscle defense hockey extend property shell damp silly area acquire";

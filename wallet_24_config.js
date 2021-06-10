@@ -1,1 +1,1 @@
-var mnemonic = "merit novel dance shallow test flip strike sample curve peanut broom pyramid";
+var mnemonic = "magic brand shop oppose horn assist winter reject section spread sponsor ocean";

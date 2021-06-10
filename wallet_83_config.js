@@ -1,1 +1,1 @@
-var mnemonic = "arch car tennis spy diamond width iron fever attitude fresh melody sand";
+var mnemonic = "congress trash good bulk detect weather just spread harbor tornado learn narrow";

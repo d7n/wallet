@@ -1,1 +1,1 @@
-var mnemonic = "lake frozen feel volume fiscal gift trade victory joke trigger plunge engage";
+var mnemonic = "local panda eye unveil thing grant main rural suffer lend divorce clap";

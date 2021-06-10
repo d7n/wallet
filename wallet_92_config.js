@@ -1,1 +1,1 @@
-var mnemonic = "energy typical ugly puppy soda glove disease gym ordinary series kick borrow";
+var mnemonic = "hurdle false math vehicle flavor cheese armed disagree mass valve end agent";

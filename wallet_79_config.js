@@ -1,1 +1,1 @@
-var mnemonic = "nothing logic chronic energy tunnel bargain speak card forward slab hero man";
+var mnemonic = "party conduct element photo divide reason true attend magnet lunch area cancel";

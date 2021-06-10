@@ -1,1 +1,1 @@
-var mnemonic = "code mail close wish orbit review vote injury wrist crop dove trend";
+var mnemonic = "final glimpse announce nice clump rent cattle morning print notice head hamster";

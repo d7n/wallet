@@ -1,1 +1,1 @@
-var mnemonic = "script dynamic story height clog decrease release glide vessel lamp earth series";
+var mnemonic = "unknown proof shock torch tunnel clump lobster benefit father cradle cup possible";

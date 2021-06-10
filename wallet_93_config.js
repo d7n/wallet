@@ -1,1 +1,1 @@
-var mnemonic = "tortoise about hen easy useful angry topic joke divide minimum salt safe";
+var mnemonic = "labor result benefit annual egg depth firm garden moral warrior reduce pear";

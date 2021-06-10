@@ -1,1 +1,1 @@
-var mnemonic = "three warm faint near merry pelican unusual grunt heavy uncle loud census";
+var mnemonic = "catch market traffic eight mimic logic submit oil sponsor actress pizza ribbon";

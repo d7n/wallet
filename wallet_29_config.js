@@ -1,1 +1,1 @@
-var mnemonic = "open oven day release tired double lesson rely unable box near silent";
+var mnemonic = "chef alien window right rib adapt flag shop moon nerve hurry toddler";

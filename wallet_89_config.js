@@ -1,1 +1,1 @@
-var mnemonic = "drum coin install method broom code other program ladder current fetch ten";
+var mnemonic = "balance endless entry bacon melody prison reflect supreme rate coffee now prosper";

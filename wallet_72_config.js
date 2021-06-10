@@ -1,1 +1,1 @@
-var mnemonic = "elegant canoe stuff common panic enrich engage book fun sentence guard announce";
+var mnemonic = "coil emotion section train zebra catch near artefact pizza unlock destroy under";

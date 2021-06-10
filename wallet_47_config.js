@@ -1,1 +1,1 @@
-var mnemonic = "milk cable enough use legend art lemon wire dynamic ocean north fit";
+var mnemonic = "bag first bounce trigger wheel scrap boost caution cattle submit cement know";

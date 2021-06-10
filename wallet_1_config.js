@@ -1,1 +1,1 @@
-var mnemonic = "tongue anxiety model allow miracle stock wild radio book point cover rapid";
+var mnemonic = "tennis bounce code material stadium expire mammal seat please virtual advance original";

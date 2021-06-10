@@ -1,1 +1,1 @@
-var mnemonic = "large waste stadium script around trigger neglect chimney seminar screen average fiber";
+var mnemonic = "begin deer diet main easy catch attract marble pull friend plate walnut";

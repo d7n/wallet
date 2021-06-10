@@ -1,1 +1,1 @@
-var mnemonic = "situate august label antique dry dial actual sure mouse slush ramp regular";
+var mnemonic = "sphere mask sing fossil now boss immense critic ostrich open syrup subway";

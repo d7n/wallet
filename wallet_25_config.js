@@ -1,1 +1,1 @@
-var mnemonic = "purse nephew virtual fancy insane wall thing symptom doctor buzz rescue nasty";
+var mnemonic = "gasp sausage ignore pair infant earth can type radio ghost school security";

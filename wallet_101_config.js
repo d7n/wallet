@@ -1,1 +1,1 @@
-var mnemonic = "title misery lecture law catalog dial surface pudding word mail motion second";
+var mnemonic = "trouble tonight ecology solve flight quantum announce project affair egg use labor";

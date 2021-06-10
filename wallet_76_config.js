@@ -1,1 +1,1 @@
-var mnemonic = "toddler they inflict develop trim oval seminar member detail wood chat police";
+var mnemonic = "gold believe render hobby question spin already cable amazing raven spell split";

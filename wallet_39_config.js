@@ -1,1 +1,1 @@
-var mnemonic = "grass eternal chaos still early material sunset mango chimney bird mimic negative";
+var mnemonic = "flip sound leisure hundred era carry spell melt dynamic lyrics civil guitar";
