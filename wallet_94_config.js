@@ -1,1 +1,1 @@
-var mnemonic = "bracket unveil real give attract two dynamic patrol romance fold token spirit";
+var mnemonic = "copper inform document punch option lesson lake surge olive inhale music blouse";

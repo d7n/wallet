@@ -1,1 +1,1 @@
-var mnemonic = "volume scatter winner subway destroy book debris shock mango tuition matter coral";
+var mnemonic = "ability blanket pride vintage human anxiety loop own style cousin case glimpse";

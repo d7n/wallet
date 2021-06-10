@@ -1,1 +1,1 @@
-var mnemonic = "island move region hockey trip mesh mobile salt vanish despair umbrella glad";
+var mnemonic = "hotel defy trend citizen holiday barely blame attitude choice together task taste";

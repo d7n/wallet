@@ -1,1 +1,1 @@
-var mnemonic = "oak spirit reason enact bullet bring fee supreme wheat mixed funny below";
+var mnemonic = "equal debate hint borrow interest pig rare funny old change kidney drastic";

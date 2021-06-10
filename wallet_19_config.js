@@ -1,1 +1,1 @@
-var mnemonic = "rail decline pepper cupboard rifle february pink want human promote top pool";
+var mnemonic = "wash giggle output level rescue hedgehog advice execute spy luxury asthma surprise";

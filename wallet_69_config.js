@@ -1,1 +1,1 @@
-var mnemonic = "fetch mechanic flash half ill duck clown income worth camp equip angry";
+var mnemonic = "zebra stick mule other idea wet approve method minimum guard parade asthma";

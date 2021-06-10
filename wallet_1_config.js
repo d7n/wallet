@@ -1,1 +1,1 @@
-var mnemonic = "taxi walnut gloom train believe track profit anxiety garlic bean power virus";
+var mnemonic = "outdoor stuff scene hockey trash vital wrong dice spread cute forum gauge";

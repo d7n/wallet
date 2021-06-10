@@ -1,1 +1,1 @@
-var mnemonic = "eight drum left shy machine master deny jacket three script voyage useful";
+var mnemonic = "exercise book uncle hour tube immense flat birth dirt owner cigar embody";

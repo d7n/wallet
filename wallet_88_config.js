@@ -1,1 +1,1 @@
-var mnemonic = "question budget kidney ill hen educate assault chronic mean review truck autumn";
+var mnemonic = "pen ready solution truly away vocal mule start jaguar charge room dry";

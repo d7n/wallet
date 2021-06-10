@@ -1,1 +1,1 @@
-var mnemonic = "alone please sniff nature fury stone bird child onion caution paddle betray";
+var mnemonic = "witness seed describe govern crew polar fog clerk mother envelope resist auction";

@@ -1,1 +1,1 @@
-var mnemonic = "kick acid indicate loop behind weasel barrel dinner child rotate tail asthma";
+var mnemonic = "allow subway tooth essence soda tomato box spice mule shield other chest";

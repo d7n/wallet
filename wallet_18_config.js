@@ -1,1 +1,1 @@
-var mnemonic = "speed sound science silly maid vanish grocery actual office concert zebra glory";
+var mnemonic = "unknown broom diet category loyal long silent save doctor spot chicken sheriff";

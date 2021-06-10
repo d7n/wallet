@@ -1,1 +1,1 @@
-var mnemonic = "region virtual strategy around liar position twist require column idea rally tip";
+var mnemonic = "resemble coyote into taste convince pony lake travel green frog captain fence";

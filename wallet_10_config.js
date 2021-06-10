@@ -1,1 +1,1 @@
-var mnemonic = "dolphin broken matter title glance impulse initial expire donkey tube unfair brave";
+var mnemonic = "vault decline nasty magnet oven gather embark later lecture alpha option giant";

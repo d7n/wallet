@@ -1,1 +1,1 @@
-var mnemonic = "coil tackle together venture school aim memory swing kid paddle lawsuit escape";
+var mnemonic = "nice fatigue night into detail exit gown lumber clever lyrics emotion tourist";

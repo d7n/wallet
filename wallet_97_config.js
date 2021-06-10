@@ -1,1 +1,1 @@
-var mnemonic = "depart argue shadow debate begin denial run hunt draw spoil fabric club";
+var mnemonic = "clerk dune erase another truck nerve slot fat present tenant column tomorrow";

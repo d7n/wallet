@@ -1,1 +1,1 @@
-var mnemonic = "warrior around silent onion unfold borrow razor rely economy dad retire barrel";
+var mnemonic = "oil census truck depart dose confirm mirror law purity reflect aspect pool";

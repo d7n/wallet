@@ -1,1 +1,1 @@
-var mnemonic = "twin elder drink valid dinosaur tail gravity egg erupt pig foam invest";
+var mnemonic = "bright kingdom limb punch kidney balcony reason disorder lyrics satisfy treat test";

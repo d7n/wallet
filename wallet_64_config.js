@@ -1,1 +1,1 @@
-var mnemonic = "very giggle jaguar punch tail broom ship hub bundle brief follow brand";
+var mnemonic = "country anger era rare route stereo cheap elbow board hire wolf curve";

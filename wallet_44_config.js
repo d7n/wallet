@@ -1,1 +1,1 @@
-var mnemonic = "mixture spin end unfair abuse uncover seek blood evidence expect bamboo release";
+var mnemonic = "slogan nothing flag chronic jealous spirit quick trap december live actor hard";

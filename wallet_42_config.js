@@ -1,1 +1,1 @@
-var mnemonic = "almost bachelor okay scare regret bus uphold mystery student endless clown mind";
+var mnemonic = "avocado fat acquire body couch hair artwork leaf diet obey pattern better";

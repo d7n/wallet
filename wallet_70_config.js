@@ -1,1 +1,1 @@
-var mnemonic = "chair rare scheme clutch bachelor draw device practice marriage mushroom addict museum";
+var mnemonic = "horse range kangaroo attitude once lazy kangaroo diesel quantum this train scale";

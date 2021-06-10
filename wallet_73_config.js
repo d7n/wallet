@@ -1,1 +1,1 @@
-var mnemonic = "labor bicycle history reduce first bus cruise divorce sustain ride bundle lady";
+var mnemonic = "lumber card action exercise fashion enroll effort woman pizza bean chalk purse";

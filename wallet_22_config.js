@@ -1,1 +1,1 @@
-var mnemonic = "friend vivid useful fork tennis bracket mail maple loop noise matter apple";
+var mnemonic = "limit space carry cereal rail dinner mystery excite slender battle magic taste";

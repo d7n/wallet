@@ -1,1 +1,1 @@
-var mnemonic = "decrease rebuild phone useful goose broken puzzle alter raven topic safe clever";
+var mnemonic = "cattle first shiver wall witness broken initial loop mistake security arrow voice";

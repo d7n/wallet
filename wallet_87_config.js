@@ -1,1 +1,1 @@
-var mnemonic = "undo spirit year laugh slush rose area toe brother hurdle nest online";
+var mnemonic = "conduct report purpose position two slogan bounce obtain chat beauty advance easy";

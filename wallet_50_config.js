@@ -1,1 +1,1 @@
-var mnemonic = "void width crisp scatter doctor hungry guitar fashion virtual only lamp smooth";
+var mnemonic = "monitor initial box emerge wood season endorse swamp knock bitter axis double";

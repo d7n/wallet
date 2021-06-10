@@ -1,1 +1,1 @@
-var mnemonic = "then thunder naive economy trade video once virus slogan loud alley woman";
+var mnemonic = "elegant adapt bargain execute language festival inquiry tooth monster genre general diamond";

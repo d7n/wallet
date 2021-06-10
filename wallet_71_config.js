@@ -1,1 +1,1 @@
-var mnemonic = "piece foil black merry curve custom beach stage obey bullet cigar tent";
+var mnemonic = "dish wide high rebel side outdoor across ill sign december hurry evolve";

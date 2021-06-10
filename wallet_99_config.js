@@ -1,1 +1,1 @@
-var mnemonic = "example junk silent engage utility fiction genuine crawl strong cherry bundle clarify";
+var mnemonic = "crime world critic concert tobacco street real auction what rapid toy success";

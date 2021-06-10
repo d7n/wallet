@@ -1,1 +1,1 @@
-var mnemonic = "furnace video ankle twin myself verify coconut orange fiscal purse rain arctic";
+var mnemonic = "average board pledge vault rug invite bring candy symbol speak hat sheriff";

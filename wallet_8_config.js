@@ -1,1 +1,1 @@
-var mnemonic = "judge endless judge vessel hurt stick enact hunt strong gentle charge original";
+var mnemonic = "dream pigeon toilet erode call want draft tomato evolve blast drama insect";

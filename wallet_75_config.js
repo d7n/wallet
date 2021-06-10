@@ -1,1 +1,1 @@
-var mnemonic = "piece priority engine token duty mistake obvious vast oak kick hybrid song";
+var mnemonic = "upset acquire armor measure only swamp erode scheme cost wife primary girl";

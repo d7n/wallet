@@ -1,1 +1,1 @@
-var mnemonic = "world until place palace firm small beyond winner reward debris domain derive";
+var mnemonic = "someone pipe humble toddler jump brisk tragic swim chuckle object saddle auto";

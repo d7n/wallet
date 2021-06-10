@@ -1,1 +1,1 @@
-var mnemonic = "couch giggle embody group melody term embark inside road high remember inmate";
+var mnemonic = "agent milk wage enter scout cloth envelope finish remain chimney media say";

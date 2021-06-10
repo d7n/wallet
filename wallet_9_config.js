@@ -1,1 +1,1 @@
-var mnemonic = "scan health biology eager wire wall giant drum duty daughter attack guard";
+var mnemonic = "venture embark able pilot sheriff void merry furnace summer tooth tissue method";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard actual horror oppose light pioneer around verify tribe alter ball seat";
+var mnemonic = "town leader grass before note couch drill base jeans slush flame bitter";

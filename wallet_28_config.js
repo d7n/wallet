@@ -1,1 +1,1 @@
-var mnemonic = "blouse copy civil try clutch govern there office dice clown amateur drive";
+var mnemonic = "paddle keen visual unfold settle arm success hamster valid replace initial enough";

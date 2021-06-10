@@ -1,1 +1,1 @@
-var mnemonic = "diary wedding armor element bless general use grit toilet planet chaos soul";
+var mnemonic = "mesh exit slim thank hint school green clean air dress umbrella drill";

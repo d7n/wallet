@@ -1,1 +1,1 @@
-var mnemonic = "twist flee ask garbage deer merry genre ski hand record tonight dish";
+var mnemonic = "cage soldier rapid smile assault disease heavy point dismiss tennis later core";

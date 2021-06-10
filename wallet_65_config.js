@@ -1,1 +1,1 @@
-var mnemonic = "modify nominee age swim february please amused warrior alcohol resource fringe size";
+var mnemonic = "alpha clip clerk tribe club family tower woman alter ripple disease hurry";

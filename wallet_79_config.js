@@ -1,1 +1,1 @@
-var mnemonic = "bridge mango someone zebra huge soldier decade into remain increase reason chaos";
+var mnemonic = "cargo tube trash bottom warfare ranch confirm repeat wealth gas razor salt";

@@ -1,1 +1,1 @@
-var mnemonic = "case reason noise win flock keep what shield spot zoo oval define";
+var mnemonic = "security gap pig valve tree chaos escape float matrix slide remind woman";

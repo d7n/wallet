@@ -1,1 +1,1 @@
-var mnemonic = "adapt hospital leisure taxi bubble pulse situate august fantasy behave ranch face";
+var mnemonic = "purse fury grant curve truth hire dinosaur vehicle fault eyebrow negative endless";

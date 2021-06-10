@@ -1,1 +1,1 @@
-var mnemonic = "minute cricket obvious warfare scrub boring begin face unable balance balcony soup";
+var mnemonic = "then avoid reduce inmate renew harbor can special zero cloud deputy library";

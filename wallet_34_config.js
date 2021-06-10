@@ -1,1 +1,1 @@
-var mnemonic = "behind april plunge trash marble strong peasant riot bargain fresh recipe hero";
+var mnemonic = "bacon anchor faculty scheme smoke faith truly chapter puppy type resource lake";

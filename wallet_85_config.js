@@ -1,1 +1,1 @@
-var mnemonic = "husband aware sound misery female parrot arctic lecture detect broken vast fruit";
+var mnemonic = "museum pact olympic garbage interest fish million tourist secret cycle escape sphere";

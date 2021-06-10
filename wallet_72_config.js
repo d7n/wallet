@@ -1,1 +1,1 @@
-var mnemonic = "orchard you hen soul lens hurry dice make fossil remind much damage";
+var mnemonic = "exhibit staff ladder bar what scene enforce silent behave elder enlist detail";

@@ -1,1 +1,1 @@
-var mnemonic = "word sample trade mansion script barrel recipe melt stay hurt thought wonder";
+var mnemonic = "health curve wisdom worry junk hospital skill huge senior large rug amazing";

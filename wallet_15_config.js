@@ -1,1 +1,1 @@
-var mnemonic = "try giraffe verify tuna physical tonight allow sausage good cloth evoke poverty";
+var mnemonic = "enroll adult price wheat damage together ocean option clever host fiction century";

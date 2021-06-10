@@ -1,1 +1,1 @@
-var mnemonic = "cream boring leisure mom stand main actress all decade clarify panther shiver";
+var mnemonic = "cool surprise shoe daughter dirt island east monkey rubber own ability hungry";

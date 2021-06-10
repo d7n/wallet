@@ -1,1 +1,1 @@
-var mnemonic = "prepare pool board high citizen install basic whisper ensure print poem napkin";
+var mnemonic = "under pitch excuse tape isolate hero someone noise spatial blood lens label";

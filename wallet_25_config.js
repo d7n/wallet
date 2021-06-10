@@ -1,1 +1,1 @@
-var mnemonic = "enhance regular slide smart betray stage cover foam skirt admit pink peace";
+var mnemonic = "inmate glance menu finger evoke between under minute pencil deliver hidden maple";

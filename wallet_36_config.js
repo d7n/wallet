@@ -1,1 +1,1 @@
-var mnemonic = "now fossil pumpkin elephant enforce endless stay day you tenant cushion usage";
+var mnemonic = "rescue police hazard rude boring agree fine over muffin vendor prize swim";

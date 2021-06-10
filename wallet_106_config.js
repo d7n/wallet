@@ -1,1 +1,1 @@
-var mnemonic = "setup sponsor gaze write mouse moment dad gain critic poverty explain boat";
+var mnemonic = "march myself off acquire child crucial name fringe embark wrestle cave duck";

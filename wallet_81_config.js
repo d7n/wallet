@@ -1,1 +1,1 @@
-var mnemonic = "thrive shoulder bring mercy typical boost taste romance fit avoid state radar";
+var mnemonic = "guitar intact middle benefit busy piano cave survey gain explain pen joke";

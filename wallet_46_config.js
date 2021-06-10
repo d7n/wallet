@@ -1,1 +1,1 @@
-var mnemonic = "surface scout access need enrich mechanic path salute bridge accident improve check";
+var mnemonic = "journey hobby board jacket dentist fork nature between truly castle canvas slab";

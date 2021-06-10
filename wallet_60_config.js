@@ -1,1 +1,1 @@
-var mnemonic = "find panda push ask off sunny bronze used promote glove water future";
+var mnemonic = "case dust warm symptom connect betray toast frame short cattle coral photo";

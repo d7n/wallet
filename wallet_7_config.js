@@ -1,1 +1,1 @@
-var mnemonic = "display orange parrot immune body focus pattern label wire build air afraid";
+var mnemonic = "primary wine crater quality budget brother other tank belt opinion post problem";

@@ -1,1 +1,1 @@
-var mnemonic = "peace wait dynamic boil walk radar cricket cart unique oppose reject shy";
+var mnemonic = "accuse vote audit movie strategy scene puzzle gesture brass social pole three";

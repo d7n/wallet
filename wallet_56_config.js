@@ -1,1 +1,1 @@
-var mnemonic = "busy galaxy limit exotic dizzy grief pepper crew curtain guard soft title";
+var mnemonic = "burger credit sing fragile remain adult key asthma grocery toy knee perfect";

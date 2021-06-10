@@ -1,1 +1,1 @@
-var mnemonic = "lock awkward shoulder supply quantum visual load final earn swing cousin razor";
+var mnemonic = "mango midnight wheat friend crater news undo kangaroo wall east wall minimum";

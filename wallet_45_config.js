@@ -1,1 +1,1 @@
-var mnemonic = "clay proud answer skin day valley genre mistake final cook expire volcano";
+var mnemonic = "future wear like hope slice ghost celery strike excuse return stairs wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong vocal slight ready behind upon promote lunch current quality regret involve";
+var mnemonic = "enrich fine stand thumb popular toast hurry busy ask desert shift awake";

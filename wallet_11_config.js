@@ -1,1 +1,1 @@
-var mnemonic = "sphere review charge jump stool obtain giant seed churn various addict sport";
+var mnemonic = "balance add nut advance mixture chronic supreme chase come fragile once cream";

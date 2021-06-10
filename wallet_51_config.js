@@ -1,1 +1,1 @@
-var mnemonic = "copper caught sheriff lunch empower omit physical depart year wage reduce scene";
+var mnemonic = "airport eternal vague noodle sudden laundry blind excite spot gloom stand paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "grant nasty word piece cancel essay orchard citizen enemy cricket circle delay";
+var mnemonic = "space arrow high sign hair ice forward ten average miracle hawk fruit";

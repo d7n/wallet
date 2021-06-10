@@ -1,1 +1,1 @@
-var mnemonic = "vessel reunion shed oppose ring hair pelican slow gadget angle material turn";
+var mnemonic = "ghost south chuckle drill asset summer assault saddle volcano lecture short moral";

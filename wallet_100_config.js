@@ -1,1 +1,1 @@
-var mnemonic = "want oval palace repeat vague weird sphere peanut among receive talk advice";
+var mnemonic = "answer alcohol main black inch entry special inhale fold fluid problem romance";

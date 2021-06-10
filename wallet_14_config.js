@@ -1,1 +1,1 @@
-var mnemonic = "unit leaf upset obey tunnel absent valve ship sail electric clay solution";
+var mnemonic = "load broom start cave discover use garage skill style source material smooth";

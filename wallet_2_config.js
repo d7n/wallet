@@ -1,1 +1,1 @@
-var mnemonic = "napkin merge maze lyrics shield either wonder habit volume system elite model";
+var mnemonic = "pumpkin axis polar depth music giggle ice agent endless that own jeans";

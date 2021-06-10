@@ -1,1 +1,1 @@
-var mnemonic = "rabbit cover agree double leaf vibrant volcano pitch render comfort wink orchard";
+var mnemonic = "simple give alert trap claw member impose slab bike vibrant payment barrel";

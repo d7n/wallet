@@ -1,1 +1,1 @@
-var mnemonic = "access toast inform cash school bottom chaos blue master skate license bike";
+var mnemonic = "grocery embrace remind habit weird village rib play pencil monster fancy reason";

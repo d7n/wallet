@@ -1,1 +1,1 @@
-var mnemonic = "divide number sheriff question major journey update sad amateur suggest thank hospital";
+var mnemonic = "embark around record inch boil people believe onion dove coil wave person";

@@ -1,1 +1,1 @@
-var mnemonic = "bone perfect defense vacuum entry sugar gorilla round impulse office way olive";
+var mnemonic = "then luxury exit solid wonder mule embody outside tourist decide vibrant rebel";

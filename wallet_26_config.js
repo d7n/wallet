@@ -1,1 +1,1 @@
-var mnemonic = "napkin video maximum spread pyramid buzz eyebrow advance warrior angry nerve require";
+var mnemonic = "vibrant vendor intact century model total comfort solar banana please squirrel ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "oak usage stay mad safe work affair skirt cargo kingdom birth awesome";
+var mnemonic = "mystery around news spell elevator beef witness whip funny siren light assist";

@@ -1,1 +1,1 @@
-var mnemonic = "sphere taste crop income assume stay axis slush will knock zero truly";
+var mnemonic = "actual planet east market ritual detail obscure verb arrive morning program spend";

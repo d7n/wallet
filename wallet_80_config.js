@@ -1,1 +1,1 @@
-var mnemonic = "grass what visit crouch code metal moon promote radar spoon dove valve";
+var mnemonic = "dish abandon title absurd virtual tide girl world keen cook siege upgrade";

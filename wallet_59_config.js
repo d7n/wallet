@@ -1,1 +1,1 @@
-var mnemonic = "clerk age fatigue need assault patrol left charge garage pet potato enter";
+var mnemonic = "mercy during naive okay scatter demise jar shy kiss able night rely";

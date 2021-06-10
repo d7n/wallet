@@ -1,1 +1,1 @@
-var mnemonic = "profit ball bar ability prison vague hazard village doctor gym spin news";
+var mnemonic = "twice lend hood eight horse weather unable utility paper zone since garage";

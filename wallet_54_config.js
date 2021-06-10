@@ -1,1 +1,1 @@
-var mnemonic = "lamp cat else immense siren coconut chicken wedding history broccoli height you";
+var mnemonic = "tooth weekend laptop notable artwork timber cannon police chalk embrace morning hill";

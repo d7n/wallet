@@ -1,1 +1,1 @@
-var mnemonic = "total stadium average help sibling huge today bottom name renew mix fuel";
+var mnemonic = "arrive gesture verify mobile horror clean brief nature explain other subject round";

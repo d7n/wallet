@@ -1,1 +1,1 @@
-var mnemonic = "quiz scorpion peasant denial ugly venture feature swing green wagon chuckle bag";
+var mnemonic = "know cancel clog trick network edit small grass series erosion horror spice";

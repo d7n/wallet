@@ -1,1 +1,1 @@
-var mnemonic = "tourist happy memory grab position matter brother mass very cradle wheat spare";
+var mnemonic = "panda announce room matter cherry hire tiny differ novel exit transfer tiger";

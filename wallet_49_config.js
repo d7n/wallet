@@ -1,1 +1,1 @@
-var mnemonic = "visa era act ensure ribbon since south pelican meadow gauge travel solid";
+var mnemonic = "color young heavy nut nice awesome high segment curve develop hour emotion";

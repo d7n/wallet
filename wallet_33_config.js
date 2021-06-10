@@ -1,1 +1,1 @@
-var mnemonic = "scheme cupboard visual industry crash simple alone doll vivid parade garbage screen";
+var mnemonic = "meadow vocal fantasy suggest slogan lounge auto drill sample child pencil frown";

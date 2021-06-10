@@ -1,1 +1,1 @@
-var mnemonic = "text napkin quality soap taxi pigeon find layer annual side bicycle notable";
+var mnemonic = "town alpha climb engage close unfold scheme enough engine truck scorpion peasant";

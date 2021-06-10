@@ -1,1 +1,1 @@
-var mnemonic = "mango modify ignore receive explain grief dirt ozone imitate bench message siege";
+var mnemonic = "initial team degree zebra uniform walnut ketchup fatal utility clerk nuclear gasp";

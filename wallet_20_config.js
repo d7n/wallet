@@ -1,1 +1,1 @@
-var mnemonic = "dismiss fan impulse obtain flag yellow avocado program whisper blossom promote work";
+var mnemonic = "faint point dizzy loyal craft level account dilemma wagon lens base child";

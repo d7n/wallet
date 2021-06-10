@@ -1,1 +1,1 @@
-var mnemonic = "shed fetch opinion arrange trade rubber bamboo permit example speed frost destroy";
+var mnemonic = "devote similar city this large inch moral butter member best across parent";

@@ -1,1 +1,1 @@
-var mnemonic = "world inmate viable kid kangaroo culture excite flip spend wrong local pudding";
+var mnemonic = "fog flame segment game modify hospital loud copy cement blame gap bulk";
