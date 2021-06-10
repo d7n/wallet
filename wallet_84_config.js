@@ -1,1 +1,1 @@
-var mnemonic = "when end cruel arrange model clip bleak chaos lobster skirt van hundred";
+var mnemonic = "text broccoli busy luxury mistake used echo tooth sudden account square blush";

@@ -1,1 +1,1 @@
-var mnemonic = "jar dream update evil letter rapid ocean wing nephew jar alter decide";
+var mnemonic = "shop rib rack initial off motor gossip forget swallow fury swamp paddle";

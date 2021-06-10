@@ -1,1 +1,1 @@
-var mnemonic = "because multiply still identify fatal ozone fix unable grocery actress pen license";
+var mnemonic = "midnight awesome jazz current verb range upgrade sniff panel poem effort filter";

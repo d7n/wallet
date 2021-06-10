@@ -1,1 +1,1 @@
-var mnemonic = "lounge learn toward dwarf wine smile slight grunt render arrow school innocent";
+var mnemonic = "uniform name brick shrug dog narrow clean around cabin blood foil august";

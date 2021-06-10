@@ -1,1 +1,1 @@
-var mnemonic = "joy public august crystal suffer puppy smoke subway use place teach test";
+var mnemonic = "gather city junior witness rent announce pause giggle view crystal cloth mother";

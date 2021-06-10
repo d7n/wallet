@@ -1,1 +1,1 @@
-var mnemonic = "afraid negative trade trash choose must logic diamond evoke spawn grunt outer";
+var mnemonic = "caught leader ostrich unique uncover favorite cactus design drive ankle volume reduce";

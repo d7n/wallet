@@ -1,1 +1,1 @@
-var mnemonic = "sight receive caught hospital purse chaos satisfy tube glide artwork sleep lucky";
+var mnemonic = "devote rabbit join ready mystery hole school tired pave fruit museum swing";

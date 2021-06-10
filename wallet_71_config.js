@@ -1,1 +1,1 @@
-var mnemonic = "clean grunt guard drill narrow hover wisdom mechanic cupboard north ball stick";
+var mnemonic = "myth bulb scan inspire embark senior seek poem palace monkey blanket evil";

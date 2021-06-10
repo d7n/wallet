@@ -1,1 +1,1 @@
-var mnemonic = "what remember stone often adapt tell target news athlete segment horse since";
+var mnemonic = "february hundred sport sand lion vocal daring gap drink pet index angle";

@@ -1,1 +1,1 @@
-var mnemonic = "usual pink odor bubble stock suspect spend bunker image husband rack scrub";
+var mnemonic = "deny photo hole walk unveil filter member brave air also embody first";

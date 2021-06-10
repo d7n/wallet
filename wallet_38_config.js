@@ -1,1 +1,1 @@
-var mnemonic = "sing visual excess drink ensure humor trouble exhaust recipe trick knock camera";
+var mnemonic = "cricket amount wonder jump rookie swap road process antique airport obey exclude";

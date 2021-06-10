@@ -1,1 +1,1 @@
-var mnemonic = "attend release giant deer danger giant social food cheap earth frost hand";
+var mnemonic = "man ancient thing doll deposit powder river shock unable window bubble flush";

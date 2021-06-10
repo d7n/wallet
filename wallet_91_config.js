@@ -1,1 +1,1 @@
-var mnemonic = "brisk popular divorce upgrade wide monitor ahead caution use frozen mutual liar";
+var mnemonic = "vast kangaroo scrap tuition domain canal blind shock transfer reject notable already";

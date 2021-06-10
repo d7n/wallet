@@ -1,1 +1,1 @@
-var mnemonic = "science erode street horse spy one depth round muscle attend clever joke";
+var mnemonic = "melody right extend upon tissue family toast ugly assault grunt girl raise";

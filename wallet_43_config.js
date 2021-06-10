@@ -1,1 +1,1 @@
-var mnemonic = "dignity adjust dilemma argue body actor tape spray moon ring erosion artwork";
+var mnemonic = "slender diary napkin dream inflict ski leave helmet base toddler blur bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "next jump swear reunion omit theory dilemma front proof lawn horse silver";
+var mnemonic = "allow puppy pigeon arrange labor harbor carbon impact there absorb business often";

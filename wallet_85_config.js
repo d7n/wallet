@@ -1,1 +1,1 @@
-var mnemonic = "lecture pig discover depend fabric typical jealous elegant mobile focus thunder bonus";
+var mnemonic = "clinic power voyage faculty filter timber electric moment consider game energy steel";

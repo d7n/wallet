@@ -1,1 +1,1 @@
-var mnemonic = "project tenant music invest demand kitchen riot dinosaur share actor borrow next";
+var mnemonic = "ignore misery wrap whisper filter panda wish solid orient magic manual mesh";

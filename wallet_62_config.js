@@ -1,1 +1,1 @@
-var mnemonic = "inhale crunch teach horn pink buffalo infant park ball upon medal top";
+var mnemonic = "clip oven pyramid mother cruise face spy trophy assault velvet shed pizza";

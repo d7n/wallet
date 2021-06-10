@@ -1,1 +1,1 @@
-var mnemonic = "rifle club truth topic garbage thrive engage estate fetch loan chunk cruise";
+var mnemonic = "picture butter color remember health rate prosper excuse aisle gravity dream hurdle";

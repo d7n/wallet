@@ -1,1 +1,1 @@
-var mnemonic = "balance nothing approve crew cloth typical reduce dutch pig edge ring wonder";
+var mnemonic = "concert hair maid trick hawk post friend scout tissue tower cycle love";

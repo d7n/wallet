@@ -1,1 +1,1 @@
-var mnemonic = "you drum build pattern good abandon moon own urge notice lion globe";
+var mnemonic = "dinner sustain lens salmon cram today stomach orphan toy cattle route rebuild";

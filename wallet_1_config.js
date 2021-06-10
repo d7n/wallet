@@ -1,1 +1,1 @@
-var mnemonic = "rate away accident raven potato discover sting slam believe earn service unable";
+var mnemonic = "cart east size rigid silk rhythm copy one check wrong alien fine";

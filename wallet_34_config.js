@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog moon leader crane usage matrix glove rail picnic cost upper labor";
+var mnemonic = "cloth lab exist alpha collect document desert cement give fantasy evidence senior";

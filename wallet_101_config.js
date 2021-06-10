@@ -1,1 +1,1 @@
-var mnemonic = "wink duck exhaust you vehicle alien lady rigid stereo budget connect current";
+var mnemonic = "judge toss risk echo plastic time gift tourist pony shove exit fruit";

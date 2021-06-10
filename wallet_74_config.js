@@ -1,1 +1,1 @@
-var mnemonic = "mutual example middle scan gaze original spice offer hazard glory consider occur";
+var mnemonic = "gentle diary apology typical despair goose citizen thank evoke ready accuse cover";

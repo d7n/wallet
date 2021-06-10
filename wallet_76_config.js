@@ -1,1 +1,1 @@
-var mnemonic = "gap thing tobacco other oppose scare world coin chuckle science myth soda";
+var mnemonic = "twin add music rival tide disease black whisper elegant oven save art";

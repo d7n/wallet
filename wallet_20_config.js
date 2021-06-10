@@ -1,1 +1,1 @@
-var mnemonic = "drill gesture make midnight connect license city improve amount host absorb coast";
+var mnemonic = "display wrong age miss solid twin mixture chaos waste pizza asthma section";

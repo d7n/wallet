@@ -1,1 +1,1 @@
-var mnemonic = "spice trial execute cargo panel borrow change nuclear stamp roast move actor";
+var mnemonic = "spread ill utility assume eye save close youth robot sock blood play";

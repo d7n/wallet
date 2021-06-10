@@ -1,1 +1,1 @@
-var mnemonic = "wood draw smart spice figure knee climb nut grain fresh very imitate";
+var mnemonic = "loop current poem soup good diesel rhythm monitor say will coconut group";

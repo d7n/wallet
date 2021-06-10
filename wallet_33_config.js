@@ -1,1 +1,1 @@
-var mnemonic = "rabbit salt find tuition game swap welcome mystery layer elegant extend enforce";
+var mnemonic = "tired exclude wheat maximum oxygen purpose song canoe exhaust baby raven air";

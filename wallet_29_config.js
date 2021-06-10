@@ -1,1 +1,1 @@
-var mnemonic = "voice tissue crop share solid shallow basket draw embark surround key mobile";
+var mnemonic = "harvest sight soul slam chest disorder gown bread pluck typical ensure capable";

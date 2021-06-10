@@ -1,1 +1,1 @@
-var mnemonic = "move upset wisdom fever identify piano used enforce very bonus flip goddess";
+var mnemonic = "adapt foam climb liquid require boring pepper song advice lemon silent wrist";

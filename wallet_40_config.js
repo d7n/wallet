@@ -1,1 +1,1 @@
-var mnemonic = "filter rural cereal dumb robust slender pumpkin hire retire intact wine garden";
+var mnemonic = "treat jelly trial ensure burger tonight anxiety assume alley develop forest nose";

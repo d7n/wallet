@@ -1,1 +1,1 @@
-var mnemonic = "soap salmon amused blur club need debate sibling rescue real charge twelve";
+var mnemonic = "salon fragile bean palm yellow disease reward airport logic dumb burger sibling";

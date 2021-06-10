@@ -1,1 +1,1 @@
-var mnemonic = "merge crash village silk broken catalog grain panda fix diagram mushroom remember";
+var mnemonic = "miracle scale inch family lobster venue hungry absurd media fix home unveil";

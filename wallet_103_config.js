@@ -1,1 +1,1 @@
-var mnemonic = "oppose hockey seminar bachelor mushroom net twice slab cargo frozen betray real";
+var mnemonic = "flavor lounge depend final thunder peace theory hollow prison thing army camera";

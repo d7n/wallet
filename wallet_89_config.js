@@ -1,1 +1,1 @@
-var mnemonic = "law deny frame basket allow slow uniform midnight tongue gasp pyramid captain";
+var mnemonic = "alien horn predict nation asset mushroom public track chase suspect pioneer glory";

@@ -1,1 +1,1 @@
-var mnemonic = "stage upset ski buddy praise room delay view purity jacket marble stadium";
+var mnemonic = "version march few culture also buddy priority job genre enemy creek frost";

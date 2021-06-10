@@ -1,1 +1,1 @@
-var mnemonic = "citizen immense exchange idle youth kiwi phrase fever expose horror scan fork";
+var mnemonic = "okay suggest found merit humble reward now photo tide hard milk stove";

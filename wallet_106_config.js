@@ -1,1 +1,1 @@
-var mnemonic = "vocal action skirt knife page elephant error verify urban world decrease embody";
+var mnemonic = "offer fossil boat first version solve weasel sugar speak saddle kidney buddy";

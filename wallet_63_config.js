@@ -1,1 +1,1 @@
-var mnemonic = "pilot rebel rail scissors release pink equal inhale snap pass lend arm";
+var mnemonic = "oppose face glide arm fancy adult gentle snake armor master hybrid capable";

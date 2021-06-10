@@ -1,1 +1,1 @@
-var mnemonic = "drift cereal object link dwarf secret obey plunge advice insect poet under";
+var mnemonic = "blanket wrist anchor still exist mirror exchange response saddle buffalo prize glimpse";

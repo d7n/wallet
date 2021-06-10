@@ -1,1 +1,1 @@
-var mnemonic = "throw auto arena pair require merge barely ketchup intact core decorate layer";
+var mnemonic = "device boring love echo ball gas axis spell myself dish minor fantasy";

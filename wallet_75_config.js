@@ -1,1 +1,1 @@
-var mnemonic = "vocal misery famous slot second resist repeat example ring grant burst route";
+var mnemonic = "pelican valve camp drastic impose volume this giant menu lounge giant glad";

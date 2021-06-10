@@ -1,1 +1,1 @@
-var mnemonic = "speak mixed soccer gun mad letter device kind nuclear prefer bid secret";
+var mnemonic = "priority black fantasy top faint vibrant crisp token used correct inside victory";

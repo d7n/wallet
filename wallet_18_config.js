@@ -1,1 +1,1 @@
-var mnemonic = "amazing mammal impose soda park program hotel pulse resemble miracle edge judge";
+var mnemonic = "honey surface quality knee verify one host plastic vacuum shell decade text";

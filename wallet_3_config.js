@@ -1,1 +1,1 @@
-var mnemonic = "banner vault square away depend buffalo awesome clap caught fox egg stuff";
+var mnemonic = "apple lyrics olive salmon cable animal crystal cash person update chicken tone";

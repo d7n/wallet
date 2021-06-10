@@ -1,1 +1,1 @@
-var mnemonic = "home give carpet movie history cancel when shiver manage wink nominee company";
+var mnemonic = "boat tourist unlock stadium panther liquid romance balcony wise coach chef spawn";

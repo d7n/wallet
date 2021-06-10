@@ -1,1 +1,1 @@
-var mnemonic = "shadow body tree sausage kidney step twelve output upset much banana bachelor";
+var mnemonic = "issue office group celery reform income crisp calm unique mountain laptop crunch";

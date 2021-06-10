@@ -1,1 +1,1 @@
-var mnemonic = "purpose couch wreck visual agent category humor deer crumble visual dentist learn";
+var mnemonic = "elite pen survey banner prepare left silly absent clerk judge bless lemon";

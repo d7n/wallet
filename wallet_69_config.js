@@ -1,1 +1,1 @@
-var mnemonic = "response assume diesel solve raven onion brave marble remember deputy pear rain";
+var mnemonic = "paddle shock disease term market ecology that snap raw acid swift reason";

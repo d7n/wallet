@@ -1,1 +1,1 @@
-var mnemonic = "theory absurd video rough van mirror harvest warm head winter plastic juice";
+var mnemonic = "budget desert job inmate repeat attack net hobby cruise random aunt bounce";

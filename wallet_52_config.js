@@ -1,1 +1,1 @@
-var mnemonic = "few bullet clay frequent loud balance dog crane office record toss fury";
+var mnemonic = "radio citizen garden float lizard stairs pole ship fork holiday anxiety lady";

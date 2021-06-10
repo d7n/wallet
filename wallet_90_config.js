@@ -1,1 +1,1 @@
-var mnemonic = "awful urban brain bid tomato weasel comfort anger rain shiver mechanic flee";
+var mnemonic = "hidden cart only casual journey enemy buzz will radio dentist increase usual";

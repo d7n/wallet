@@ -1,1 +1,1 @@
-var mnemonic = "account west issue recycle duck engine scheme will hope stove hold trap";
+var mnemonic = "visual second process shoot half spot cat silk ribbon jar slam process";

@@ -1,1 +1,1 @@
-var mnemonic = "name cement reopen report weasel federal off cereal prosper trust smoke asthma";
+var mnemonic = "drama hidden trap ski arrive subway pill valid mail spy cheap good";

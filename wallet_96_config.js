@@ -1,1 +1,1 @@
-var mnemonic = "twice pluck useful trap kite truth stock ketchup easy noodle combine share";
+var mnemonic = "pyramid armor kiss tribe garage crisp castle ankle behave price ugly raw";

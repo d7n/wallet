@@ -1,1 +1,1 @@
-var mnemonic = "catch biology addict peace there girl art inhale index pudding reform buzz";
+var mnemonic = "town olive boss birth spring toward busy cook space present series spike";

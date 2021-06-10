@@ -1,1 +1,1 @@
-var mnemonic = "forum dial whisper clay middle mail fault hold seminar sword verify bachelor";
+var mnemonic = "acquire zero nut coil rug scorpion box slot call income conduct make";

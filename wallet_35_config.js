@@ -1,1 +1,1 @@
-var mnemonic = "utility ribbon electric mad dutch grass stairs together gift strike will scatter";
+var mnemonic = "soon vehicle fatigue desk jacket smooth magic creek habit soap focus hold";

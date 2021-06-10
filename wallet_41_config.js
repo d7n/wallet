@@ -1,1 +1,1 @@
-var mnemonic = "ranch aisle merry pond blade width vanish dolphin pumpkin text march animal";
+var mnemonic = "orange forget fringe volcano frown ski three feed minor popular shop chef";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle cry clip toast you height sock cliff rally magnet portion lounge";
+var mnemonic = "zebra rebel bar remove orphan slim athlete moral sting assist grant duck";

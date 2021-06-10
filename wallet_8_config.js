@@ -1,1 +1,1 @@
-var mnemonic = "decrease mushroom thought remind jump bulb page upper gas hat debris world";
+var mnemonic = "ritual need base slight squirrel tennis flower inhale exhaust live gold music";

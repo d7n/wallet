@@ -1,1 +1,1 @@
-var mnemonic = "fancy cabbage rebuild field upgrade market frog squirrel oven another over hip";
+var mnemonic = "flat sniff tower avocado almost west holiday weekend blind tent athlete maple";

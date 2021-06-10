@@ -1,1 +1,1 @@
-var mnemonic = "bargain pole pulse help drink album exchange roof obscure salt skill ten";
+var mnemonic = "rate wall hole absurd coyote symptom issue enlist inside corn disagree range";

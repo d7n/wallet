@@ -1,1 +1,1 @@
-var mnemonic = "eternal mixture nuclear pear sorry choose have hurt address finish zebra barrel";
+var mnemonic = "narrow render million bullet renew lawn climb razor capable crumble radio multiply";

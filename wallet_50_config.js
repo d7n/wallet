@@ -1,1 +1,1 @@
-var mnemonic = "calm often valve dove purchase senior celery either original ritual stuff stumble";
+var mnemonic = "artwork bike more enter innocent chair bird brave spell correct dad mechanic";

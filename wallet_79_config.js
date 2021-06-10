@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur away replace item chalk about arch group double regret gaze adapt";
+var mnemonic = "lecture card ginger mass ticket gaze aim skill meadow gravity client blood";

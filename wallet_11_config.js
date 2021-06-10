@@ -1,1 +1,1 @@
-var mnemonic = "bench mechanic hour also opera column rally essence liar swallow narrow master";
+var mnemonic = "amazing believe enough shy life moment melody right goat vehicle market laundry";

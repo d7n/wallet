@@ -1,1 +1,1 @@
-var mnemonic = "dad finger window car tooth unfold argue bring reveal square only grid";
+var mnemonic = "young retreat unusual derive drip habit kitchen remember goddess skill cupboard orient";

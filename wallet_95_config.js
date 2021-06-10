@@ -1,1 +1,1 @@
-var mnemonic = "sorry baby orphan then media trade novel flower penalty donate flash write";
+var mnemonic = "ten recall ethics spatial throw verify diary oxygen decide fashion firm thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "expand leisure rather cry dice cactus cereal timber public glory dance beach";
+var mnemonic = "front endless trumpet monitor color era used check flame head kick gorilla";

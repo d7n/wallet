@@ -1,1 +1,1 @@
-var mnemonic = "expire decorate poem impulse resource gift cigar hope spell feature frown foster";
+var mnemonic = "tail blood attack since wedding casual garlic luggage forward noble elite negative";

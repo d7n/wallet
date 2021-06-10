@@ -1,1 +1,1 @@
-var mnemonic = "silent decade issue segment educate region zone save stuff animal damp lunch";
+var mnemonic = "aspect pitch bacon basic breeze work force cost minimum click road parent";

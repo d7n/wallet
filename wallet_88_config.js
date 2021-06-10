@@ -1,1 +1,1 @@
-var mnemonic = "orbit trash radar margin curve gesture treat unknown vibrant anchor mosquito wrong";
+var mnemonic = "dog heart tag soon rather draw slot biology craft loyal crystal shrug";

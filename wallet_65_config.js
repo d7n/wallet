@@ -1,1 +1,1 @@
-var mnemonic = "arena century jewel when anchor august slot apple pledge left roof glove";
+var mnemonic = "medal water inflict question never outside south item since narrow theory crater";

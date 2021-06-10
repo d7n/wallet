@@ -1,1 +1,1 @@
-var mnemonic = "turkey stem over fortune correct spike ahead tip pencil goose exotic hold";
+var mnemonic = "holiday olympic portion color pulp reopen inhale option into hurt switch venue";

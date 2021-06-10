@@ -1,1 +1,1 @@
-var mnemonic = "hawk post boss process menu rally brass angry retreat note nurse trim";
+var mnemonic = "you stereo brisk major canyon balcony away raise output grab palace calm";

@@ -1,1 +1,1 @@
-var mnemonic = "dish urge face express view toss wasp jaguar monster switch increase company";
+var mnemonic = "pear barrel sorry simple galaxy faculty question pigeon middle obey nasty alarm";

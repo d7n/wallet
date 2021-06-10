@@ -1,1 +1,1 @@
-var mnemonic = "year fall inner since idle atom purse sphere amount umbrella junior kidney";
+var mnemonic = "kit pond produce afford daring broom airport perfect team episode chronic tank";

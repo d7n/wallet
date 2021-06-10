@@ -1,1 +1,1 @@
-var mnemonic = "enjoy scare bird sketch pony salon reform disagree drum awful border round";
+var mnemonic = "combine puzzle market grass sock where pretty bunker hamster until adult page";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle core toe just boring dove boring mesh engage laugh identify legal";
+var mnemonic = "enforce sponsor host jazz horror hunt quit fine about old install fragile";

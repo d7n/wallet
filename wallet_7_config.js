@@ -1,1 +1,1 @@
-var mnemonic = "indoor educate right rocket surface post bench arctic giant circle knife hair";
+var mnemonic = "father trial provide stuff salute ignore oak arctic grit real staff dress";

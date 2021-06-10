@@ -1,1 +1,1 @@
-var mnemonic = "fossil category cupboard luxury cruise solution battle giraffe solution extend derive mushroom";
+var mnemonic = "exact finish coffee under labor foil dose snake common idea busy cook";

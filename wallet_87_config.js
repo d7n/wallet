@@ -1,1 +1,1 @@
-var mnemonic = "stay soldier concert leg enact square fly situate garden badge liar melody";
+var mnemonic = "ill surprise movie rate arrive quarter chest actual say garage cluster choice";

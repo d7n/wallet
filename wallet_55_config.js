@@ -1,1 +1,1 @@
-var mnemonic = "invite build sign empower thrive shoe twist company reduce range pitch core";
+var mnemonic = "armed dance twice orbit father mask enlist shy rookie candy scissors clown";

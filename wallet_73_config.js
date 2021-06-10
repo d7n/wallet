@@ -1,1 +1,1 @@
-var mnemonic = "proud actress glory burden moment local meat warm merit dinner enemy begin";
+var mnemonic = "like release rate curious name divert success broken engine mother friend equal";

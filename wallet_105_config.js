@@ -1,1 +1,1 @@
-var mnemonic = "skull obvious orient same lady hen father chronic hunt meat clip walk";
+var mnemonic = "orient acoustic aspect pair find rapid hour flame check harsh cattle rally";

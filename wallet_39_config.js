@@ -1,1 +1,1 @@
-var mnemonic = "company grocery eager spatial bird dinner regret february soda owner pull dance";
+var mnemonic = "cannon upset favorite crime letter parrot squirrel sound pole flat fatal foot";

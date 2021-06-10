@@ -1,1 +1,1 @@
-var mnemonic = "submit shuffle sock mirror flush balance pulse silly okay day jazz educate";
+var mnemonic = "accident pitch safe grape capital second stable reason mad duck element inch";

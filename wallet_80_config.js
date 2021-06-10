@@ -1,1 +1,1 @@
-var mnemonic = "sure future crouch fiscal diagram gather upgrade erupt resource female initial old";
+var mnemonic = "lend domain raise correct ship absent add make west protect void warfare";

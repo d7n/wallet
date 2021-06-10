@@ -1,1 +1,1 @@
-var mnemonic = "column garlic peace embark bone regret strong initial option require key damage";
+var mnemonic = "ten main battle please artwork payment cage mobile spawn margin ask hawk";

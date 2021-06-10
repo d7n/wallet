@@ -1,1 +1,1 @@
-var mnemonic = "length differ safe modify gospel spawn always huge choose ship assault punch";
+var mnemonic = "dutch dynamic scrub unusual inmate trial paper evidence liquid negative soup pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "switch clock casino expose bunker fit across frost depth battle drama unknown";
+var mnemonic = "flag put mule junior wolf kitten border satoshi moon weapon excess twenty";
