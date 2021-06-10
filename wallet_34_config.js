@@ -1,1 +1,1 @@
-var mnemonic = "novel neck machine purity breeze update truly chase crumble burden test ecology";
+var mnemonic = "slush also live add purity minimum pink witness ignore warm awful title";

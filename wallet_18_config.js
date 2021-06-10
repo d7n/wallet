@@ -1,1 +1,1 @@
-var mnemonic = "tragic donate route practice burger jar yellow hand art topple sting hurt";
+var mnemonic = "audit survey vibrant ship clay cushion betray farm hand negative emotion tent";

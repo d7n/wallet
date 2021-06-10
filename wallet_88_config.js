@@ -1,1 +1,1 @@
-var mnemonic = "define live muffin clog remain force elevator ability radio volcano patch forest";
+var mnemonic = "dice crime crush give erase dilemma deer ten camera isolate congress off";

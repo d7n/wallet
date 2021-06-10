@@ -1,1 +1,1 @@
-var mnemonic = "liquid lucky legend barely ribbon pulp magnet immune spawn butter grunt wire";
+var mnemonic = "buyer soul fortune labor allow together gentle bus soup before rather teach";

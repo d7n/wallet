@@ -1,1 +1,1 @@
-var mnemonic = "fruit armor nephew comfort steak space absent laptop decrease toe vault eternal";
+var mnemonic = "shuffle brisk host journey oval index tonight brother mobile penalty forward retreat";

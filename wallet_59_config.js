@@ -1,1 +1,1 @@
-var mnemonic = "group involve kitchen prevent remain wisdom divide question produce age equip virtual";
+var mnemonic = "sing evoke annual grape cement online credit pause test perfect lesson mushroom";

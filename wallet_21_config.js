@@ -1,1 +1,1 @@
-var mnemonic = "survey hospital shop ritual long yellow cancel prefer grief weekend baby pencil";
+var mnemonic = "wool prison live market mutual moral rich fuel walk bridge indoor peace";

@@ -1,1 +1,1 @@
-var mnemonic = "above quiz false uncover cup bulk faculty search correct cement nephew soap";
+var mnemonic = "enforce path favorite wide rich level praise help profit gorilla eternal toe";

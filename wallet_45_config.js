@@ -1,1 +1,1 @@
-var mnemonic = "force demand easy vital hard satoshi budget shoe rely unlock number depend";
+var mnemonic = "eyebrow attend process start ball depart polar giggle vital ugly toss blast";

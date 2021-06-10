@@ -1,1 +1,1 @@
-var mnemonic = "monster wing wrap spot crazy toilet timber series fruit genius guilt black";
+var mnemonic = "mother caution road mirror genuine blame analyst achieve marine black myth avoid";

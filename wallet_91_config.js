@@ -1,1 +1,1 @@
-var mnemonic = "unhappy gap inform stomach place just cart worry popular future smooth deer";
+var mnemonic = "iron amount stay venue knife weather genre dilemma ignore proof lab solve";

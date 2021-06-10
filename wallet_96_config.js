@@ -1,1 +1,1 @@
-var mnemonic = "middle shallow ill calm still ride warfare aim riot square govern glimpse";
+var mnemonic = "surge lift remove detect grass bridge fetch never endorse sudden exclude danger";

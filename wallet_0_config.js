@@ -1,1 +1,1 @@
-var mnemonic = "rent course spray salon jacket gaze category praise club humor gossip sweet";
+var mnemonic = "attitude lock annual blur parade student route similar effort next tray portion";

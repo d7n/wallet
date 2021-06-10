@@ -1,1 +1,1 @@
-var mnemonic = "need aspect believe frost essay maximum struggle pluck lake task mandate swamp";
+var mnemonic = "swear box task upon aspect twist only finger differ demand spray lecture";

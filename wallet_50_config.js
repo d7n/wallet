@@ -1,1 +1,1 @@
-var mnemonic = "sentence pistol item glimpse possible lazy vehicle universe enlist intact prize buddy";
+var mnemonic = "chest door winter seat weather glance museum accident pill shaft head carry";

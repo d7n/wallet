@@ -1,1 +1,1 @@
-var mnemonic = "weapon typical involve label item mimic wealth circle assault abstract ensure unhappy";
+var mnemonic = "price strong before filter renew field squeeze mercy grain certain resist critic";

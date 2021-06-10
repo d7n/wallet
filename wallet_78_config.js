@@ -1,1 +1,1 @@
-var mnemonic = "narrow affair slight avoid unique canvas arctic slender wasp swing hour memory";
+var mnemonic = "fiber sort code wolf cart popular treat body crouch mask service clown";

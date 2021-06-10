@@ -1,1 +1,1 @@
-var mnemonic = "camp people sorry survey rough churn fame fluid transfer day virtual voyage";
+var mnemonic = "finger detail discover craft rally entry debate enroll game glove network claw";

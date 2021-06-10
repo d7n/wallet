@@ -1,1 +1,1 @@
-var mnemonic = "occur someone home faculty number enrich satoshi success ensure craft glide between";
+var mnemonic = "scorpion crime enact review romance habit assault hawk business series swarm penalty";

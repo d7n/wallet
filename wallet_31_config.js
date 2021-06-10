@@ -1,1 +1,1 @@
-var mnemonic = "ranch horn enter shaft melt learn company tumble try clutch window income";
+var mnemonic = "afford bronze crouch occur exit middle mystery truck achieve pass agree saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "remain kitten empty isolate over donkey old aisle trade tiger cactus bird";
+var mnemonic = "skull umbrella runway inflict leopard nation around spring gift favorite nothing pave";

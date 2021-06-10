@@ -1,1 +1,1 @@
-var mnemonic = "truck arrive brief valid word brain hello spare finish series best water";
+var mnemonic = "gasp maximum birth grid inspire gloom warrior version submit work nurse hurdle";

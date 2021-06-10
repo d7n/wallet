@@ -1,1 +1,1 @@
-var mnemonic = "sibling tribe salon alien endorse almost pencil leaf pupil cruise pluck slight";
+var mnemonic = "glance lawsuit before spice replace disagree tiger fuel lecture cart hour amount";

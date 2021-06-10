@@ -1,1 +1,1 @@
-var mnemonic = "one general chuckle mix rail ramp retire hockey round various economy village";
+var mnemonic = "hair vendor sign appear horse measure filter fiscal cube seat middle theory";

@@ -1,1 +1,1 @@
-var mnemonic = "idle eight sword tourist catalog token garbage trophy wire raw raven valve";
+var mnemonic = "evolve derive winner time clean truck first hobby catch caution pony figure";

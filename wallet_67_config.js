@@ -1,1 +1,1 @@
-var mnemonic = "magic display damage muffin clerk various clap lecture observe fatigue bright diary";
+var mnemonic = "caution exchange veteran faculty prefer slogan ability float grain retire dial sword";

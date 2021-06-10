@@ -1,1 +1,1 @@
-var mnemonic = "portion change mountain bulb nephew rapid noble kite drama stone spray decide";
+var mnemonic = "act alone demise trade horror angry soup rack silver rotate seven bamboo";

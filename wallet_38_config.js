@@ -1,1 +1,1 @@
-var mnemonic = "diagram victory obey field atom alter suit couple robust faint cream leopard";
+var mnemonic = "tobacco foil sunset throw try clap easy car drift ship street kangaroo";

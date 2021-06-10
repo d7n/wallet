@@ -1,1 +1,1 @@
-var mnemonic = "please pill sell small hockey pair tilt normal ethics olympic gate cupboard";
+var mnemonic = "oxygen panda retire monitor tomato misery sell actual sugar earth claw giant";

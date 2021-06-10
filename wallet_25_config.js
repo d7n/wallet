@@ -1,1 +1,1 @@
-var mnemonic = "worry cushion mouse tag august tip fancy observe vendor hospital rail dish";
+var mnemonic = "laptop evoke rich wedding parade rival where wasp pave fantasy lab begin";

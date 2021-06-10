@@ -1,1 +1,1 @@
-var mnemonic = "element multiply bounce aunt rough dove resist liberty setup shrug cruise trim";
+var mnemonic = "say casino strike banner book grunt bulb business fragile learn vanish grit";

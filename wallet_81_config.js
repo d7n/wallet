@@ -1,1 +1,1 @@
-var mnemonic = "whisper match rebuild regret follow minute door rebel barely gauge acquire shuffle";
+var mnemonic = "message reject west velvet gown enhance venue broccoli daughter erase space reveal";

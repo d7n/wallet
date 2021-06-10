@@ -1,1 +1,1 @@
-var mnemonic = "hand wealth melt give alley solution before topic unlock mandate bean hint";
+var mnemonic = "few paper regular word size saddle cave solve blood extra domain despair";

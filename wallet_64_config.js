@@ -1,1 +1,1 @@
-var mnemonic = "oyster bind plate snake achieve dinosaur fatigue live violin scrub around leader";
+var mnemonic = "result service coil bulb across artefact van notice process rapid shock dragon";

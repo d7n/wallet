@@ -1,1 +1,1 @@
-var mnemonic = "wave sheriff frost muffin flip fork curve cruise dust chalk fiscal town";
+var mnemonic = "moral jeans observe noise obey depth summer happy bunker fragile scheme crew";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder soldier ugly average claw march anxiety green orphan iron like buddy";
+var mnemonic = "now raccoon humble swamp stamp boy delay retreat fog exclude artist engine";

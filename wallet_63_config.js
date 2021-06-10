@@ -1,1 +1,1 @@
-var mnemonic = "question cinnamon scissors pig siege enter view setup knock jungle mad distance";
+var mnemonic = "frown rocket simple rose reject question parade real beef mystery double travel";

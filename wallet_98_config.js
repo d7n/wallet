@@ -1,1 +1,1 @@
-var mnemonic = "soccer anger ancient utility skirt local super tone shield know save dice";
+var mnemonic = "candy liberty expire snap moment toe art tornado sheriff mom behave health";

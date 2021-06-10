@@ -1,1 +1,1 @@
-var mnemonic = "bulb sister twin gather aisle various pencil remain sadness old couch salute";
+var mnemonic = "exclude trash sunny unaware render combine learn ship trouble page label medal";

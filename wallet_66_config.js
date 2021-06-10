@@ -1,1 +1,1 @@
-var mnemonic = "glance purity sign timber obtain frozen manage join lawn cushion leaf stable";
+var mnemonic = "vague witness school include crystal matter elbow biology able teach have verb";

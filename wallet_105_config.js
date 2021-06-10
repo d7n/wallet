@@ -1,1 +1,1 @@
-var mnemonic = "vote feed jelly size present develop slice airport huge broom public blame";
+var mnemonic = "misery hover nominee output high suit pig cook fatal forward pencil alarm";

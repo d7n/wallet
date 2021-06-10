@@ -1,1 +1,1 @@
-var mnemonic = "horse cupboard moral tell steak enforce laugh focus tiger more bus right";
+var mnemonic = "sponsor fame input casual clap coast always enter soon fish juice paddle";

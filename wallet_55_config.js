@@ -1,1 +1,1 @@
-var mnemonic = "tide change embrace attitude normal hero ancient under walk hill kidney outside";
+var mnemonic = "annual view wool text culture adjust tape defense glory absorb void ladder";

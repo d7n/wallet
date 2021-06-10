@@ -1,1 +1,1 @@
-var mnemonic = "tissue grass ugly fork copper shrug fortune humor aunt stove sell mean";
+var mnemonic = "employ latin alley okay surround kingdom cupboard pen unknown hood latin brisk";

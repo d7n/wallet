@@ -1,1 +1,1 @@
-var mnemonic = "easy expose action rabbit cheese cabin eternal ski mixed advice animal glow";
+var mnemonic = "reunion desert marble radio hill employ express laptop return scale flight intact";

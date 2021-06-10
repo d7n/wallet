@@ -1,1 +1,1 @@
-var mnemonic = "health ticket sudden scheme fish gun sound immune uniform uncle capital host";
+var mnemonic = "bracket monkey huge genre sport shield dumb team shoe degree annual skull";

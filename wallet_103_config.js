@@ -1,1 +1,1 @@
-var mnemonic = "arrange ask tiny sport video atom grid add security often route keep";
+var mnemonic = "battle mixture depth keen humble usage pyramid tray gate like vanish corn";

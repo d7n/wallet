@@ -1,1 +1,1 @@
-var mnemonic = "report cruel extra gaze nurse skill shadow crash rigid vast eight dwarf";
+var mnemonic = "asset word stable chicken neither youth mass trouble invite also pilot blue";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest tunnel unaware blue crop clap layer city era dinosaur skin phrase";
+var mnemonic = "essay laugh label earth copy glue topic gravity goat need split foil";

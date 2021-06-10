@@ -1,1 +1,1 @@
-var mnemonic = "bleak timber filter entire giant author tennis myth right nest fiction swift";
+var mnemonic = "best bubble kingdom cake produce casino color country clay seed essay blur";

@@ -1,1 +1,1 @@
-var mnemonic = "blur social hard divorce bleak panther labor attend phone ridge bullet visa";
+var mnemonic = "party engage chef monster shallow belt idea before enrich three vendor hair";

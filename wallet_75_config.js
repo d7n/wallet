@@ -1,1 +1,1 @@
-var mnemonic = "lawn width cupboard multiply accident public ecology gravity slim soft myself vibrant";
+var mnemonic = "weasel bright chimney crumble seat digital elephant display balcony enhance cash lumber";

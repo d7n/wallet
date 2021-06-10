@@ -1,1 +1,1 @@
-var mnemonic = "off skate rain damage agree fox pencil rug portion chapter skirt nature";
+var mnemonic = "excess decline box medal crazy reunion bid usual stereo fortune spell account";

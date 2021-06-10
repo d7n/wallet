@@ -1,1 +1,1 @@
-var mnemonic = "aspect gossip position day square fury dish scrub cement permit cake skin";
+var mnemonic = "exotic bar defense chef wisdom camera card sense demand track shallow quick";

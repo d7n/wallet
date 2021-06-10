@@ -1,1 +1,1 @@
-var mnemonic = "kid stumble skin phone appear tooth deal bubble fever search month creek";
+var mnemonic = "dust actress cost base limit replace month merge witness orphan surround twist";

@@ -1,1 +1,1 @@
-var mnemonic = "sense quick snake unaware save rain wise guitar sheriff head lady budget";
+var mnemonic = "analyst clerk stairs silk oval fiction destroy march cook exchange caught midnight";

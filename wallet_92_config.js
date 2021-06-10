@@ -1,1 +1,1 @@
-var mnemonic = "balcony meadow lottery gate economy forget more brand puppy quarter height strategy";
+var mnemonic = "certain hurt virtual unfold alley pilot damp sister hope soldier betray eyebrow";

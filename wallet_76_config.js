@@ -1,1 +1,1 @@
-var mnemonic = "evil leaf divorce parade decrease company link brief razor hotel sample bundle";
+var mnemonic = "strike story diagram grunt pudding orchard author hazard young because tent mushroom";

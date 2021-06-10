@@ -1,1 +1,1 @@
-var mnemonic = "family possible uniform rapid inflict fresh ivory melt member hurry erase thunder";
+var mnemonic = "word knock arctic embark cigar mesh naive blame novel empty hole oppose";

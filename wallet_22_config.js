@@ -1,1 +1,1 @@
-var mnemonic = "theory already you case carbon logic gadget cup tenant sport tail gravity";
+var mnemonic = "force conduct wild dial pencil risk town cost entire olympic shuffle neutral";

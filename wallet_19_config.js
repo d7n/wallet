@@ -1,1 +1,1 @@
-var mnemonic = "record mix announce amateur extra kite exchange unique edit soft fat novel";
+var mnemonic = "kiwi cliff pact split project load critic armed anxiety advice hotel cage";

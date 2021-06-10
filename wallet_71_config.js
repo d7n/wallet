@@ -1,1 +1,1 @@
-var mnemonic = "learn body spirit pear miracle join height dizzy come rate thought cruise";
+var mnemonic = "ecology lend lunar thumb laundry diary become tiger onion radar april auto";

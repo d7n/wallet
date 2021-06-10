@@ -1,1 +1,1 @@
-var mnemonic = "cup staff absent now beauty bread believe senior silent special name hello";
+var mnemonic = "loan tomorrow radar order load walnut top round either know simple require";

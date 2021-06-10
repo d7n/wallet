@@ -1,1 +1,1 @@
-var mnemonic = "monster multiply grief blush deliver essay palm trouble clock erupt congress manual";
+var mnemonic = "van maid come right veteran bright need hotel tilt design blur banner";

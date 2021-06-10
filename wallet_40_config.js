@@ -1,1 +1,1 @@
-var mnemonic = "lazy effort speed rebuild casual sister scheme tail fine mushroom hospital climb";
+var mnemonic = "hundred tower there thumb wide supreme scissors solid venture fitness inform clay";

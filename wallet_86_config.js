@@ -1,1 +1,1 @@
-var mnemonic = "habit piece coral daughter high hammer heart spend long catalog staff alert";
+var mnemonic = "erupt boil hawk wave dress blouse spot pigeon snap error violin family";

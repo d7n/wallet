@@ -1,1 +1,1 @@
-var mnemonic = "ignore tip enlist vivid wedding scissors spoil interest dismiss lawn special rough";
+var mnemonic = "twenty regular enjoy rifle salute first keen vault used effort rug thing";

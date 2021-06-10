@@ -1,1 +1,1 @@
-var mnemonic = "wagon mixture margin misery pulse force oil cabin boring nothing wisdom call";
+var mnemonic = "genuine morning round ramp shed tent light path crowd earn unusual huge";

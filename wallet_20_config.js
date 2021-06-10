@@ -1,1 +1,1 @@
-var mnemonic = "decline sponsor vote claim page initial access chuckle language view supply census";
+var mnemonic = "play urban boat limit undo gesture barrel vague fury size donkey host";

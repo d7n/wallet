@@ -1,1 +1,1 @@
-var mnemonic = "occur slow always dignity broom miss icon code oxygen unaware baby hurt";
+var mnemonic = "soft isolate settle penalty artefact wish immense pyramid still flavor cause warfare";

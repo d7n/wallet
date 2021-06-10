@@ -1,1 +1,1 @@
-var mnemonic = "join cinnamon custom check crowd hold shed soft sketch reason toilet pond";
+var mnemonic = "inform file coast potato roast wine blood convince oil inside paddle distance";

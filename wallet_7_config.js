@@ -1,1 +1,1 @@
-var mnemonic = "spirit master elephant among index cave pupil enrich hill chuckle pull mandate";
+var mnemonic = "artefact ocean squeeze token parent return already script boat eyebrow below frog";

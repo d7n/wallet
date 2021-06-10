@@ -1,1 +1,1 @@
-var mnemonic = "media record plunge addict either profit crucial neither vibrant floor mercy foam";
+var mnemonic = "color trick bacon already inject stock spoil tiger strategy pudding knock entire";

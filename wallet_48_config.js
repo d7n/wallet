@@ -1,1 +1,1 @@
-var mnemonic = "usual episode option birth together food monitor neither purpose reject draft derive";
+var mnemonic = "doctor call hope grocery mirror logic crew monkey nuclear cotton pair chaos";

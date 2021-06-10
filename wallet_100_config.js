@@ -1,1 +1,1 @@
-var mnemonic = "firm wool twice brand toast gain improve spawn quantum visit bomb section";
+var mnemonic = "spray carpet page vendor demise quantum toddler renew concert humble fish nose";

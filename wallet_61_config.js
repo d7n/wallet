@@ -1,1 +1,1 @@
-var mnemonic = "wide result moment body school snack wash air animal kiss outer regret";
+var mnemonic = "acquire outdoor ignore detect oven predict paper joy celery fault pen space";

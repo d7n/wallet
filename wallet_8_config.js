@@ -1,1 +1,1 @@
-var mnemonic = "crisp motion diet hazard pioneer position mad voice banner rice virus tiny";
+var mnemonic = "install frost frog style flip quit total rely portion board upset glow";

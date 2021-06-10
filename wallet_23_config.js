@@ -1,1 +1,1 @@
-var mnemonic = "like fish donate december upgrade lawn lesson coast bundle pool trip govern";
+var mnemonic = "blouse pitch swear pet novel daughter picture behave rival panel permit man";

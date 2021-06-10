@@ -1,1 +1,1 @@
-var mnemonic = "project butter vivid phone skirt spin century wool cloth patch effort romance";
+var mnemonic = "language pill rich truly link soft speed derive rural year tape stuff";

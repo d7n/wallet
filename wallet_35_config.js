@@ -1,1 +1,1 @@
-var mnemonic = "cereal peasant trade patrol addict equal beach woman hat universe roast champion";
+var mnemonic = "tag blossom trend language fire delay relax echo flame devote they kick";

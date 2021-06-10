@@ -1,1 +1,1 @@
-var mnemonic = "mass promote victory glow fabric pull ticket demise inhale chair hawk despair";
+var mnemonic = "mosquito puppy domain sell another today ancient subway faculty kidney fossil can";

@@ -1,1 +1,1 @@
-var mnemonic = "silver account target resemble gospel correct decrease insect leaf veteran bid steak";
+var mnemonic = "travel limit rack audit slogan area sort knife tribe basket since remind";

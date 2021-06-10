@@ -1,1 +1,1 @@
-var mnemonic = "connect inherit life trade wool chapter auction screen quality priority surface pattern";
+var mnemonic = "dance venue office eager denial strategy tilt guilt flee rib focus medal";

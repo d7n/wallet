@@ -1,1 +1,1 @@
-var mnemonic = "awake silk whale survey edge hill club oyster ketchup crisp pottery elegant";
+var mnemonic = "erupt blood bulb crater invite job bronze liar spare six pupil click";
