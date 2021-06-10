@@ -1,1 +1,1 @@
-var mnemonic = "guess issue apple rely grain crack unable pioneer dune wheat drift magic";
+var mnemonic = "leopard carpet snake easy power abandon sign enjoy turn used jewel shuffle";

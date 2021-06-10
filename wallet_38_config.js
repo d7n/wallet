@@ -1,1 +1,1 @@
-var mnemonic = "wild tail skull chef lift manual plunge easily horse when embrace lumber";
+var mnemonic = "silent easy critic plunge raven fame disagree tennis trade mystery pepper grid";

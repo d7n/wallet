@@ -1,1 +1,1 @@
-var mnemonic = "note certain enhance arrive volume common actual lunar shaft salt tool recipe";
+var mnemonic = "cliff round napkin acquire note surprise select husband legend curious wing captain";

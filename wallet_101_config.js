@@ -1,1 +1,1 @@
-var mnemonic = "attend rigid weapon renew used liar ceiling bridge gain mirror fatigue crane";
+var mnemonic = "social three donate warrior session topple leader item final beauty bone royal";

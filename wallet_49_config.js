@@ -1,1 +1,1 @@
-var mnemonic = "smile train film panic eyebrow canal alert either border loyal ability raccoon";
+var mnemonic = "nuclear dentist arrive sound excite quiz prepare act limit faint wife proud";

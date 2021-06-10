@@ -1,1 +1,1 @@
-var mnemonic = "attitude glad surprise panda actress when unit window rib powder ostrich stereo";
+var mnemonic = "tenant culture elephant jazz cloth slim discover stone caution athlete accident diagram";

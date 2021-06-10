@@ -1,1 +1,1 @@
-var mnemonic = "until pyramid dolphin frame town target science express swing write process bounce";
+var mnemonic = "salon lake couple glass rib holiday filter emerge major language device bulb";

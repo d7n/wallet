@@ -1,1 +1,1 @@
-var mnemonic = "minimum link this leader inside regret fun cat civil saddle next forum";
+var mnemonic = "visa purchase potato leaf across small season twelve sister seven stereo swap";

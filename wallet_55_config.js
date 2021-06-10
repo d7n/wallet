@@ -1,1 +1,1 @@
-var mnemonic = "disease mean crowd truth mind valve party annual solution judge limb vote";
+var mnemonic = "pool retire tide venue rude olympic canoe practice slide drink notable wink";

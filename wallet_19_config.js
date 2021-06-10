@@ -1,1 +1,1 @@
-var mnemonic = "room cheese misery flight hurt custom bargain once twenty ecology quarter arctic";
+var mnemonic = "manual soft bachelor green crazy curtain direct toddler evolve rare airport betray";

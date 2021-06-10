@@ -1,1 +1,1 @@
-var mnemonic = "polar length alien yard patch correct tiny multiply barely mule old only";
+var mnemonic = "column butter grit eager pupil spoon know switch person cinnamon load basic";

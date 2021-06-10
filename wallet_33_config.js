@@ -1,1 +1,1 @@
-var mnemonic = "quality between drill humble crew able add stairs accuse swift consider group";
+var mnemonic = "travel canoe shuffle wild raven oven math narrow island tobacco hurry giraffe";

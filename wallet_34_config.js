@@ -1,1 +1,1 @@
-var mnemonic = "since utility trade comic mother angle method speed rifle feed track salute";
+var mnemonic = "vibrant exotic volume hope soldier age play note portion over kick occur";

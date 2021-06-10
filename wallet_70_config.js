@@ -1,1 +1,1 @@
-var mnemonic = "embark muffin swim nothing transfer barely visual december load pull mind age";
+var mnemonic = "tube spoil save ability one nice major verb refuse hockey dose tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "once speak select tiny nose foot gate unknown weapon metal near minor";
+var mnemonic = "shove convince debate help feature hour pigeon vendor until milk sting steel";

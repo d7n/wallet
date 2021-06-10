@@ -1,1 +1,1 @@
-var mnemonic = "urge view gather thumb mango idea place lion practice under level region";
+var mnemonic = "maze physical there expect smoke among math choose electric snow indoor decorate";

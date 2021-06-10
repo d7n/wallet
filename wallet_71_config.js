@@ -1,1 +1,1 @@
-var mnemonic = "rebuild reason neutral carry nasty fatal faith earn electric poem volcano arctic";
+var mnemonic = "wink clown resource dog open ridge garden party fatal census illness mistake";

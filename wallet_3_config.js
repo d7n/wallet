@@ -1,1 +1,1 @@
-var mnemonic = "tunnel present click plate solve jazz atom lobster method blood citizen drip";
+var mnemonic = "horn office lonely harbor they agree gown swim harsh atom love expose";

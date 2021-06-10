@@ -1,1 +1,1 @@
-var mnemonic = "mutual rain canyon devote deputy siren rice ship dice edit enrich convince";
+var mnemonic = "supreme aware insane music sock science man slam palm flight fit waste";

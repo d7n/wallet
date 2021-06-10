@@ -1,1 +1,1 @@
-var mnemonic = "solar have hammer vehicle island radar network cinnamon cycle gun clump trash";
+var mnemonic = "radio vacant foster permit meadow special disagree inmate burst mercy error body";

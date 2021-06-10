@@ -1,1 +1,1 @@
-var mnemonic = "cover kite matter dad bring sorry border strike off chronic borrow pulse";
+var mnemonic = "lizard dance account able cat garbage daring secret original pistol rebel turn";

@@ -1,1 +1,1 @@
-var mnemonic = "board motor future calm awake bar boss glad wait course cruel feature";
+var mnemonic = "main paper action dwarf canal name ramp claim eyebrow check parrot school";

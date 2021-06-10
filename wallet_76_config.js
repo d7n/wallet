@@ -1,1 +1,1 @@
-var mnemonic = "size saddle yard acid catch art gentle coral saddle autumn pond lobster";
+var mnemonic = "idea spring attract limit lady special exact aisle hair mother wave defy";

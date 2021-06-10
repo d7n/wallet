@@ -1,1 +1,1 @@
-var mnemonic = "entry fog cook peanut phrase injury cook fat panel dash step page";
+var mnemonic = "joke bomb expose good tornado nuclear peanut faculty decorate dad fault medal";

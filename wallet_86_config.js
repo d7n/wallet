@@ -1,1 +1,1 @@
-var mnemonic = "cousin oak depth junk mansion tobacco lottery filter recall oil royal traffic";
+var mnemonic = "crunch local era future state tank female clay chimney diagram lizard child";

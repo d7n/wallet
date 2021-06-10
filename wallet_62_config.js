@@ -1,1 +1,1 @@
-var mnemonic = "hobby sure unfair kitten deliver tomorrow now hammer ring hello math taste";
+var mnemonic = "upon access stadium girl elegant arena bottom pelican present knock good elite";

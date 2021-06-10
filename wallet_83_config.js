@@ -1,1 +1,1 @@
-var mnemonic = "impact alert rabbit lumber rebel buyer nephew idea banner alarm crash cargo";
+var mnemonic = "turkey fetch aisle horn gas shock nose comic negative benefit lava water";

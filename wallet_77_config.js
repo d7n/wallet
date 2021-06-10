@@ -1,1 +1,1 @@
-var mnemonic = "recall exit dawn edge bicycle suffer produce custom maximum pill rhythm alert";
+var mnemonic = "similar limit aspect tiger rebuild kangaroo guess ecology snake laugh prevent tribe";

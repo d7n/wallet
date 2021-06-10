@@ -1,1 +1,1 @@
-var mnemonic = "concert artwork girl token useful fortune shallow lift screen garden want blossom";
+var mnemonic = "sort harbor day game earth ostrich path click jar indicate aware hungry";

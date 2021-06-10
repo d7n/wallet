@@ -1,1 +1,1 @@
-var mnemonic = "face inquiry unaware left lamp high define actress injury lonely fog open";
+var mnemonic = "episode furnace step convince pelican ramp allow inspire produce hello normal balcony";

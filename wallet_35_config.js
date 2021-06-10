@@ -1,1 +1,1 @@
-var mnemonic = "cousin auto unit issue jaguar hospital banner echo draft woman weasel palm";
+var mnemonic = "patrol orient alpha blame toss issue amateur word plastic same express wrong";

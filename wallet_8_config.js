@@ -1,1 +1,1 @@
-var mnemonic = "lake caution copy wedding empty velvet shell month only measure member click";
+var mnemonic = "lizard tomorrow tape dizzy firm away aisle when type arrest seat name";

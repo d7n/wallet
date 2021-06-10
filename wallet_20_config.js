@@ -1,1 +1,1 @@
-var mnemonic = "drop author angle bid casino rapid later distance rifle better drive edge";
+var mnemonic = "trend toast funny skull symptom west path wink eager planet diagram wrist";

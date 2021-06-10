@@ -1,1 +1,1 @@
-var mnemonic = "tent report argue illegal art insane fish lonely vicious icon hedgehog drill";
+var mnemonic = "group young copper job bottom express park energy near reduce three toilet";

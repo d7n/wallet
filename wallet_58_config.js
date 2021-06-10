@@ -1,1 +1,1 @@
-var mnemonic = "spirit accuse witness floor sauce obscure lottery myself omit general journey struggle";
+var mnemonic = "oval circle rack attack best gain misery robot clay erupt price arch";

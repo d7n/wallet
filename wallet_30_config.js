@@ -1,1 +1,1 @@
-var mnemonic = "debris rent stomach fitness toast layer negative trip blur under gold collect";
+var mnemonic = "manual twenty sort ocean shield vault junk together prepare there cabin resemble";

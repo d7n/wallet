@@ -1,1 +1,1 @@
-var mnemonic = "damage lecture dragon drive mind wheat pluck art elegant simple trust still";
+var mnemonic = "shiver opera drive game enrich virtual cattle solid junk response donkey shed";

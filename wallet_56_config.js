@@ -1,1 +1,1 @@
-var mnemonic = "correct wish term buffalo galaxy rare vague notice desert frog about base";
+var mnemonic = "chaos host fragile unique curve maid front reform inflict cream shoot patch";

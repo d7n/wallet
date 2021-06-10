@@ -1,1 +1,1 @@
-var mnemonic = "lawn void push bread horn surge disagree loop life mesh section chest";
+var mnemonic = "brand amused garment explain fiscal test furnace imitate cup vapor into stock";

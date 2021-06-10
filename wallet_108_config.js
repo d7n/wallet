@@ -1,1 +1,1 @@
-var mnemonic = "boring behave grow genius poem wreck process little fox goddess scorpion evidence";
+var mnemonic = "panic whisper balance service card like ensure light town problem buffalo speak";

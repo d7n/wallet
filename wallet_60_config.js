@@ -1,1 +1,1 @@
-var mnemonic = "tiny birth engine leaf suit chief salad avocado source grief record aspect";
+var mnemonic = "aunt lava craft orbit dose hollow cup maze anxiety fame deer witness";

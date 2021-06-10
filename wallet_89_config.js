@@ -1,1 +1,1 @@
-var mnemonic = "cry enable lend october virus snake rotate chunk truly weird alien glare";
+var mnemonic = "pride eight indicate limit beauty grow anchor hard agree creek witness rubber";

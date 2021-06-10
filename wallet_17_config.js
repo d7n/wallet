@@ -1,1 +1,1 @@
-var mnemonic = "slight salt skill regular mosquito sauce chunk kiss brain inhale crowd struggle";
+var mnemonic = "congress toss churn wink rib dirt artist winter angry learn evil educate";

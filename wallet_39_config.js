@@ -1,1 +1,1 @@
-var mnemonic = "voyage flat thrive beauty assist radar cool stumble loud globe put day";
+var mnemonic = "urge foam bargain family crisp vague mercy enough account warm stay captain";

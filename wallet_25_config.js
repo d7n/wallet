@@ -1,1 +1,1 @@
-var mnemonic = "someone captain update decline cement dynamic empty blouse story host become train";
+var mnemonic = "enhance return crawl veteran into sight alien analyst dream depth pupil pet";

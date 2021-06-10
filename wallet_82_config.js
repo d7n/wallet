@@ -1,1 +1,1 @@
-var mnemonic = "cat trim parent inhale gold crater purpose any gospel diamond height jeans";
+var mnemonic = "lawsuit call inflict property hurry exhibit viable cushion panther connect ceiling grab";

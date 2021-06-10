@@ -1,1 +1,1 @@
-var mnemonic = "frown wonder place repeat beef peasant bicycle option second cannon tornado that";
+var mnemonic = "bless fever swift pig entire joke lock grass saddle panic raccoon empower";

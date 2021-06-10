@@ -1,1 +1,1 @@
-var mnemonic = "brass scissors duck crime luggage wave city rule once hat custom window";
+var mnemonic = "banana snack negative flip doll cruise tank soap table loyal symbol lazy";

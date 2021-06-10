@@ -1,1 +1,1 @@
-var mnemonic = "under slide dawn issue force toward must sausage brisk wild hobby pink";
+var mnemonic = "asset blood moon taste ahead net approve skate tomorrow raccoon bullet anchor";

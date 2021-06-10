@@ -1,1 +1,1 @@
-var mnemonic = "obscure veteran illegal eager notice hire hurdle wood juice flavor obtain west";
+var mnemonic = "virus denial demise usage lesson warrior vault denial afford absent just correct";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut nature escape logic truly lesson inject hazard define pelican nephew million";
+var mnemonic = "trophy speed black concert finger coach eye ginger tail annual fluid cupboard";

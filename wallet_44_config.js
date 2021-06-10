@@ -1,1 +1,1 @@
-var mnemonic = "hunt cruise wall index shuffle chaos urge open awkward sauce merge forum";
+var mnemonic = "bargain salute erupt fly carry gadget unusual grass envelope term boat country";

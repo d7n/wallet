@@ -1,1 +1,1 @@
-var mnemonic = "proof rate lobster jungle canvas rose burden culture zoo gym long inner";
+var mnemonic = "border car myself person ethics area size supply combine legal bacon bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito syrup pen choose senior escape purchase scheme bind one gentle art";
+var mnemonic = "approve unable oppose hire park update broom suspect glue debate clown fog";

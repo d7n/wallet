@@ -1,1 +1,1 @@
-var mnemonic = "price mechanic digital valley body fork parent mind solar parent perfect dawn";
+var mnemonic = "various consider wool cactus need engage lonely leisure decorate combine finger trophy";

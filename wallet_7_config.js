@@ -1,1 +1,1 @@
-var mnemonic = "frame child cost boost road swear trend beyond tiny debate inner spend";
+var mnemonic = "claw excite smart need check upper night erosion ball gaze december cereal";

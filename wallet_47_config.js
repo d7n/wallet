@@ -1,1 +1,1 @@
-var mnemonic = "denial clean need pact critic heavy broccoli proud duty crouch spy figure";
+var mnemonic = "fog bench surface raccoon sheriff verify capital saddle march genre horn goose";

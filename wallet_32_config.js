@@ -1,1 +1,1 @@
-var mnemonic = "grid solve struggle used fan pony risk prize trade uncle suggest impose";
+var mnemonic = "scheme enrich issue quote eyebrow guitar evidence uncle fossil panther couple exhaust";

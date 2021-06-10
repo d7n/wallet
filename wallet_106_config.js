@@ -1,1 +1,1 @@
-var mnemonic = "squeeze plug theme olive episode odor cram gold buffalo library guide attract";
+var mnemonic = "artist disease victory tornado follow tide around lyrics sheriff step skull borrow";

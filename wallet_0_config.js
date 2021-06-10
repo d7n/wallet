@@ -1,1 +1,1 @@
-var mnemonic = "pattern pistol stay section season napkin speed rigid left guilt jar update";
+var mnemonic = "scale fluid ranch chief sting wall culture banana tennis cabin build mom";

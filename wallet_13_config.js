@@ -1,1 +1,1 @@
-var mnemonic = "jar imitate ginger undo flower verb stone range wood degree dwarf bulk";
+var mnemonic = "step post obvious rule figure side hero mimic sadness media real warfare";

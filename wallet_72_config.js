@@ -1,1 +1,1 @@
-var mnemonic = "dish stay someone audit hedgehog limit prison teach device believe enrich orient";
+var mnemonic = "weekend taste inhale axis worry victory person dentist erase radar brand galaxy";

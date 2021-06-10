@@ -1,1 +1,1 @@
-var mnemonic = "discover guilt labor room panther dwarf live problem liar brand around predict";
+var mnemonic = "food endless huge raise uphold enemy cherry rescue nice nerve chronic pulse";

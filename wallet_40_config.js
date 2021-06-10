@@ -1,1 +1,1 @@
-var mnemonic = "faculty kiss grocery prize popular race access enroll radar civil dash evidence";
+var mnemonic = "asthma quarter pulp enable card affair review pink lounge salon razor opinion";

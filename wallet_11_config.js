@@ -1,1 +1,1 @@
-var mnemonic = "rebuild unfair arrest own work object traffic grow funny vintage exit other";
+var mnemonic = "brick broccoli muscle debris pioneer limit recipe stamp accident cruise hurt bulk";

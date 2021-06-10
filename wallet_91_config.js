@@ -1,1 +1,1 @@
-var mnemonic = "exit avocado call visual token tackle laundry can work run way permit";
+var mnemonic = "reunion radio coconut various company glide flock peasant spice crisp act zebra";

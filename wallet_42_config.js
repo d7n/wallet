@@ -1,1 +1,1 @@
-var mnemonic = "ten hover lazy biology stock shadow banner veteran result provide give depth";
+var mnemonic = "punch burst tuition chimney enter income unfair giggle list current list sustain";

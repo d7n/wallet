@@ -1,1 +1,1 @@
-var mnemonic = "awkward bread benefit liar scale march keep enlist drink wait photo supply";
+var mnemonic = "palace phrase pistol team false price ginger market above circle mystery goddess";

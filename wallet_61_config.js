@@ -1,1 +1,1 @@
-var mnemonic = "name pole donor suffer fly display awful grow female elegant prefer alarm";
+var mnemonic = "elbow oil winner brother good jar toward demise earth settle gold behind";

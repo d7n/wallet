@@ -1,1 +1,1 @@
-var mnemonic = "witness opinion peasant jelly nest talk oak wage seminar embrace cover hero";
+var mnemonic = "pencil marine plunge salon assist uncover duty raw trade robot ensure swap";

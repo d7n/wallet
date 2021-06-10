@@ -1,1 +1,1 @@
-var mnemonic = "supply crunch area coyote fire walnut stadium glow arrest put reduce cash";
+var mnemonic = "stone journey sing put swim bench town stay blast art garage boil";

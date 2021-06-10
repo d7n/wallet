@@ -1,1 +1,1 @@
-var mnemonic = "file risk flag train purchase eight elevator total cheese health sheriff finish";
+var mnemonic = "erase pupil trouble essence glare camp armor salad wisdom minor evidence bird";

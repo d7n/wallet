@@ -1,1 +1,1 @@
-var mnemonic = "creek devote pudding night sad stamp odor amused palm hover organ erupt";
+var mnemonic = "evoke course drastic risk choose snake slender autumn acid detail shrug toe";

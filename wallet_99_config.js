@@ -1,1 +1,1 @@
-var mnemonic = "weasel define wait speed pupil symptom base inspire receive define about dilemma";
+var mnemonic = "spy chunk tennis asset palm zebra cable snap used vanish such transfer";

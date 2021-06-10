@@ -1,1 +1,1 @@
-var mnemonic = "expose stage weekend brush goat text uncle stand cart fruit canal glove";
+var mnemonic = "frown myself clever cannon defy fancy toe rigid morning wife weekend final";

@@ -1,1 +1,1 @@
-var mnemonic = "expire kiss census name put reflect canal rotate force boring burger bread";
+var mnemonic = "picture ensure speed slow help tell blind blue online vicious dry siege";

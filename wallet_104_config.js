@@ -1,1 +1,1 @@
-var mnemonic = "motion noise hard journey govern add orient object absent hero weather effort";
+var mnemonic = "oil animal code ribbon stem adjust helmet sick anchor smart trip say";

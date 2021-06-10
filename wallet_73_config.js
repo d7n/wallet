@@ -1,1 +1,1 @@
-var mnemonic = "eagle friend sing tonight mean truly talent nest sign ability speak foster";
+var mnemonic = "gown able tank kitten elephant float empty insect soul ten film error";

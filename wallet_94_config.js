@@ -1,1 +1,1 @@
-var mnemonic = "require fun capital flip better chair possible whale audit surround ancient scene";
+var mnemonic = "frog damage unlock foil sorry cheese betray amateur parade rare twice garage";

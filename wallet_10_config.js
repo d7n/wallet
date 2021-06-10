@@ -1,1 +1,1 @@
-var mnemonic = "badge tackle fox clap junior canal anxiety gate nerve bid flight limb";
+var mnemonic = "also economy apple monster project address border solar body sign jeans retire";

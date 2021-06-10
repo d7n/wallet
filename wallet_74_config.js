@@ -1,1 +1,1 @@
-var mnemonic = "unveil west basic evolve decade popular tower basic quit plastic cream clutch";
+var mnemonic = "eight rotate scrap battle faint enemy fury finger tray where jungle echo";

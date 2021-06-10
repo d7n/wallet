@@ -1,1 +1,1 @@
-var mnemonic = "afraid olympic gospel lunch accident business silly brand enemy engine vapor gain";
+var mnemonic = "frequent marine mosquito burger proof draft sibling dwarf nation midnight witness sock";

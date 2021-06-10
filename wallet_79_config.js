@@ -1,1 +1,1 @@
-var mnemonic = "era wise obscure panic wage story absent electric hard airport cheap kit";
+var mnemonic = "canoe people tragic session duty sniff caught extra lab dance sign renew";

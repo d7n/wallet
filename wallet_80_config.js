@@ -1,1 +1,1 @@
-var mnemonic = "scorpion floor sorry make saddle state finger eight holiday stay foot nut";
+var mnemonic = "duck where there acid around stumble decline list evidence buffalo common payment";

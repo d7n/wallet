@@ -1,1 +1,1 @@
-var mnemonic = "cart promote business cargo weasel evoke bright minute city treat wash broccoli";
+var mnemonic = "okay elder example festival venue swear uncover jump brief release matter cigar";

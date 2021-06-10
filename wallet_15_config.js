@@ -1,1 +1,1 @@
-var mnemonic = "visual empty volcano enemy barrel kangaroo bachelor quit choose luxury sail trend";
+var mnemonic = "major behind latin island rural boring address spell script plastic way swarm";

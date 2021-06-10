@@ -1,1 +1,1 @@
-var mnemonic = "topple song sail skin goose guide phone innocent beef pigeon female analyst";
+var mnemonic = "elegant hard banner dinner devote bullet enjoy divide ugly empty sweet miracle";

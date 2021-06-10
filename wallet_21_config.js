@@ -1,1 +1,1 @@
-var mnemonic = "under face badge caution volume moon science describe oxygen champion thumb suspect";
+var mnemonic = "marble employ service inmate whale thumb lend soda athlete pattern expose license";

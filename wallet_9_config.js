@@ -1,1 +1,1 @@
-var mnemonic = "lawn story know crash two enable fee guitar hole receive dentist trash";
+var mnemonic = "viable dynamic spy bacon excess exchange list caution arrest brisk enjoy upgrade";

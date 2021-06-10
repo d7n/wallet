@@ -1,1 +1,1 @@
-var mnemonic = "evil tuition toast mother reduce kid tray hobby quarter sad ride tobacco";
+var mnemonic = "prize scout steak legend pact scene parade another liar unique estate forum";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow galaxy open fence ridge bulk pet next rural tone armor pizza";
+var mnemonic = "myth foam minute detect pulse enable gain subject creek cricket warrior detail";

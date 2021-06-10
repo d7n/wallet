@@ -1,1 +1,1 @@
-var mnemonic = "tower oven about practice desk betray bone hurdle caught trend police lake";
+var mnemonic = "letter student crumble firm jar rely awesome regret brass canoe judge voyage";

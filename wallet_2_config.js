@@ -1,1 +1,1 @@
-var mnemonic = "cook exhibit cross spread task indicate measure spare sting response gas harsh";
+var mnemonic = "clarify genuine cabbage elder divide size cherry duck recall witness draft sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "useful trumpet logic aisle nominee frost table buzz hurt size index slow";
+var mnemonic = "keen speak child vague cannon baby manual shoe blur live smoke cabin";
