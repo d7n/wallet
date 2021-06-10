@@ -1,1 +1,1 @@
-var mnemonic = "monkey undo engage gallery advance scare rabbit accuse battle picnic improve off";
+var mnemonic = "pupil federal lamp purpose crew put web thrive scheme figure clutch glad";

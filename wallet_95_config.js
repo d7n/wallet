@@ -1,1 +1,1 @@
-var mnemonic = "rotate mosquito chase select gift install unlock board shove heavy stuff inquiry";
+var mnemonic = "fabric wet consider betray edge addict history perfect arrive approve leg journey";

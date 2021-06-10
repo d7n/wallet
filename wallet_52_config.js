@@ -1,1 +1,1 @@
-var mnemonic = "want wisdom knock champion milk pull payment scale produce kidney bachelor local";
+var mnemonic = "auction enemy two february always curious april main noise sound master link";

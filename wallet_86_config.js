@@ -1,1 +1,1 @@
-var mnemonic = "intact flavor average enjoy bronze medal sting among breeze jewel ketchup village";
+var mnemonic = "confirm secret metal core hedgehog fancy cabin play scan alarm glad rule";

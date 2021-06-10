@@ -1,1 +1,1 @@
-var mnemonic = "melt margin author school review skill escape organ lunch clip south bracket";
+var mnemonic = "foam hedgehog blouse panic purpose sphere much feed payment antique present autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "side seat garden depend alley fever mom eagle iron tongue flock impact";
+var mnemonic = "polar ivory expand twenty lion veteran private educate valid ride sell rotate";

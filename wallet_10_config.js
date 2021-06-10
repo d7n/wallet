@@ -1,1 +1,1 @@
-var mnemonic = "genius peasant soft obvious protect shield orphan grain volcano desert hello grief";
+var mnemonic = "oblige unhappy runway retire cup hotel concert toy leisure useless hour frown";

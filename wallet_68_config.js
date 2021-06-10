@@ -1,1 +1,1 @@
-var mnemonic = "text olympic hair order coffee buffalo census clock grass churn explain shine";
+var mnemonic = "share garlic garment suit supreme danger puppy explain staff direct seat talk";

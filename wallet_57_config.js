@@ -1,1 +1,1 @@
-var mnemonic = "vague transfer parent ancient emotion typical retreat delay sense other talent month";
+var mnemonic = "lottery review margin seat oblige advice scout tank access demand left scissors";

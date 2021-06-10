@@ -1,1 +1,1 @@
-var mnemonic = "cash photo bracket craft shop hollow device birth black hurdle response ordinary";
+var mnemonic = "arena canyon depth daughter gorilla narrow silver light submit talk snack chimney";

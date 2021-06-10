@@ -1,1 +1,1 @@
-var mnemonic = "aware spirit skin bench risk lobster hold lamp depart sting zero behave";
+var mnemonic = "napkin infant alone miracle ghost wealth alien debate virtual admit verb oval";

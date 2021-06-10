@@ -1,1 +1,1 @@
-var mnemonic = "energy attack useless creek about spy purse ritual stereo pistol champion mixture";
+var mnemonic = "bronze dove similar secret erupt festival step ten vital radio zone frozen";

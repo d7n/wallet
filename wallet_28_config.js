@@ -1,1 +1,1 @@
-var mnemonic = "kiss era speak pyramid crop produce seed mule film traffic recycle iron";
+var mnemonic = "lake opinion add royal actual icon thrive bargain select rural tuition group";

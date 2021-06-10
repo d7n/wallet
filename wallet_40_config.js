@@ -1,1 +1,1 @@
-var mnemonic = "panic because employ shallow blue snow enroll strategy panda expire medal ghost";
+var mnemonic = "wash buddy october fiber umbrella embody either holiday prevent appear cheese long";

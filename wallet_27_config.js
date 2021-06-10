@@ -1,1 +1,1 @@
-var mnemonic = "address when kingdom acoustic culture ankle custom ceiling climb scout account review";
+var mnemonic = "bag bubble fire toe fold sock arm easily satisfy rally father rib";

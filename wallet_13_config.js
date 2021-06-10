@@ -1,1 +1,1 @@
-var mnemonic = "deposit myth episode brick chaos tornado latin area vibrant swift face decade";
+var mnemonic = "fetch possible seven either quit shuffle push treat stairs chimney wealth stage";

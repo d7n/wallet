@@ -1,1 +1,1 @@
-var mnemonic = "mesh capital budget swarm tail wrestle wreck battle reveal husband lion weekend";
+var mnemonic = "arrange hero relief vault earth day provide bean mercy goose order laugh";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla cactus duck nuclear chunk ordinary stuff erase dinosaur job baby insect";
+var mnemonic = "robust comfort final rigid acoustic direct crouch win tourist blame old nominee";

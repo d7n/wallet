@@ -1,1 +1,1 @@
-var mnemonic = "label example comic sword need scale sing blur lamp picnic cheese trash";
+var mnemonic = "flat mixture hunt ball sad boil yellow wage farm slogan catch noise";

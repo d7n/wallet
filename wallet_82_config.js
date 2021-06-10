@@ -1,1 +1,1 @@
-var mnemonic = "fitness width novel tide town dial october reopen snake town upon project";
+var mnemonic = "bread offer glory topic truly hint coyote develop august still suspect blouse";

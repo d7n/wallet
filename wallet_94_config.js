@@ -1,1 +1,1 @@
-var mnemonic = "barely govern cause edge swap worth galaxy since verify grow nut toy";
+var mnemonic = "museum favorite lyrics bind announce hip clerk material embark helmet bicycle mirror";

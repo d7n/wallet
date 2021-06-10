@@ -1,1 +1,1 @@
-var mnemonic = "table kiss vacant orange consider impose staff grape work identify canal prefer";
+var mnemonic = "gesture palace echo usual cloth popular smooth twelve angry surface catalog desert";

@@ -1,1 +1,1 @@
-var mnemonic = "catch upper diagram urge catch shock brief powder amazing pupil floor priority";
+var mnemonic = "pond reject sick you manage impulse genre decrease reunion similar list social";

@@ -1,1 +1,1 @@
-var mnemonic = "album medal upgrade vote wagon file scare acoustic target rescue measure smart";
+var mnemonic = "absent fly boost cake drastic remind glue intact useful skill better curtain";

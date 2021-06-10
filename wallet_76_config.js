@@ -1,1 +1,1 @@
-var mnemonic = "fruit plug people quantum sleep real treat organ utility want fat debate";
+var mnemonic = "detail shiver shed satoshi van library mad furnace tip embark retire winter";

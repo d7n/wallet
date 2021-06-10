@@ -1,1 +1,1 @@
-var mnemonic = "actor burger uncover worth amused carpet raven sentence essay upon enact sauce";
+var mnemonic = "switch turn alert father loop exhibit dirt turn pact dumb stamp identify";

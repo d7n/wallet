@@ -1,1 +1,1 @@
-var mnemonic = "rude carpet under damp force brass vocal whale scare carpet order program";
+var mnemonic = "fever side depend lamp survey praise wealth alone climb emerge quality rice";

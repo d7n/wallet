@@ -1,1 +1,1 @@
-var mnemonic = "short biology clown response update hello rail air helmet opera paper width";
+var mnemonic = "offer diesel deer original punch wrap embark notice neutral tube dream catch";

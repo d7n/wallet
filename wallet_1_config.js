@@ -1,1 +1,1 @@
-var mnemonic = "dilemma orient decade olive cigar dream core trim pottery aisle history join";
+var mnemonic = "innocent table salt original symbol skin ready bracket cruise belt silk people";

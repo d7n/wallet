@@ -1,1 +1,1 @@
-var mnemonic = "destroy twenty clutch churn danger crowd segment coral load favorite blouse coconut";
+var mnemonic = "fog rural loud slush explain old timber income happy visual parrot since";

@@ -1,1 +1,1 @@
-var mnemonic = "problem december machine father inch kit salmon surprise extend brick regret power";
+var mnemonic = "resemble pill air twenty proud word rail address barrel away hollow harvest";

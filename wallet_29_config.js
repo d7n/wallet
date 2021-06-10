@@ -1,1 +1,1 @@
-var mnemonic = "cliff hockey online fluid stable kind sheriff diary approve measure roof entire";
+var mnemonic = "soul winner board trial rescue chicken radio shadow smile diary credit test";

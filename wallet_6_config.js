@@ -1,1 +1,1 @@
-var mnemonic = "dwarf palm crack elegant enrich relief injury devote end behave chimney welcome";
+var mnemonic = "salt core life also enforce cereal scissors labor hat pig similar hospital";

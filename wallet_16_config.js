@@ -1,1 +1,1 @@
-var mnemonic = "broom second scrap broken follow velvet this rotate sibling keep gain again";
+var mnemonic = "panther circle tide puppy loan used farm start sniff blossom kiss enlist";

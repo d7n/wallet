@@ -1,1 +1,1 @@
-var mnemonic = "south increase garment goose turtle sand security code coin yard public brand";
+var mnemonic = "middle frown guard fly refuse pulse spatial flavor sport dry tunnel empower";

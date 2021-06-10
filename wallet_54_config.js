@@ -1,1 +1,1 @@
-var mnemonic = "wrong flat fabric diagram today saddle dream carry yellow cement push kite";
+var mnemonic = "long kangaroo warfare garage erode enemy purity just frog priority meat knife";

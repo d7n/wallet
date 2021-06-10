@@ -1,1 +1,1 @@
-var mnemonic = "december pottery session gold labor aware luggage dwarf neither wife siren funny";
+var mnemonic = "indicate stuff lake million van vital surge outer same spend layer inch";

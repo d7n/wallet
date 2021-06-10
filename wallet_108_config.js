@@ -1,1 +1,1 @@
-var mnemonic = "bunker bonus balcony pluck taste impulse help horse razor blossom snake wood";
+var mnemonic = "marriage wish raven tip boil essence dismiss genuine client rough ill mix";

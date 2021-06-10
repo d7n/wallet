@@ -1,1 +1,1 @@
-var mnemonic = "table blush tongue wife company you bicycle exit random culture mom rubber";
+var mnemonic = "crack now rubber ghost alien real muscle ranch budget wrist day only";

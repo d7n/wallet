@@ -1,1 +1,1 @@
-var mnemonic = "castle angle marble novel hawk dice portion trash broom either canal work";
+var mnemonic = "arena input safe zero ribbon useless aim fine roof color brown mixed";

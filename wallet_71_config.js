@@ -1,1 +1,1 @@
-var mnemonic = "victory bean trash neutral fold stage minor bullet search attract glove then";
+var mnemonic = "screen chuckle ability erase like unlock gadget tomorrow pulp little follow rigid";

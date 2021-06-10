@@ -1,1 +1,1 @@
-var mnemonic = "soon foam wool scare now final fringe planet egg deny metal mass";
+var mnemonic = "someone crash snake fat asthma avocado census snap vocal dance hold build";

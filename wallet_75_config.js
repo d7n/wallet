@@ -1,1 +1,1 @@
-var mnemonic = "van swift brisk deal claim feed decline flight door machine raise jaguar";
+var mnemonic = "return amount mesh pledge violin barrel enjoy fire novel flock elder indoor";

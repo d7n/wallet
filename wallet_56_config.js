@@ -1,1 +1,1 @@
-var mnemonic = "seat mask move satoshi front able deny crunch smart heart online friend";
+var mnemonic = "alcohol pear economy lens assault snow spoil airport cash town aware mention";

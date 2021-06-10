@@ -1,1 +1,1 @@
-var mnemonic = "door honey analyst sing observe text spoil ridge render unique muffin midnight";
+var mnemonic = "bullet accuse prosper stomach breeze execute volume cluster mountain such rough fever";

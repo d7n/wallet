@@ -1,1 +1,1 @@
-var mnemonic = "lonely fall elite load mimic field horn lyrics two romance vicious hover";
+var mnemonic = "dance trigger lumber slim result boil orphan ahead such rhythm smoke space";

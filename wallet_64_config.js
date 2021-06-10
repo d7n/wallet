@@ -1,1 +1,1 @@
-var mnemonic = "science loan coyote hub piece egg bullet fine bind diamond length ladder";
+var mnemonic = "pond bubble dial prefer recipe blame reduce eagle safe cheese quit glimpse";

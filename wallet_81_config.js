@@ -1,1 +1,1 @@
-var mnemonic = "improve shrimp mansion rotate blue leaf tennis position birth emotion page fresh";
+var mnemonic = "diamond drill detect mention shoe legal butter engine balance olympic song problem";

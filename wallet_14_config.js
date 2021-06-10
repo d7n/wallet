@@ -1,1 +1,1 @@
-var mnemonic = "royal wear finish paddle wrap buzz hamster favorite reopen prize profit comfort";
+var mnemonic = "carpet jealous glad improve secret minimum face trick bar float slim soccer";

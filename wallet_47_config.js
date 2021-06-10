@@ -1,1 +1,1 @@
-var mnemonic = "brave soft chat ignore click seminar level fit nuclear crew bounce behave";
+var mnemonic = "escape blossom armor work rapid tenant only edit scrub floor another birth";

@@ -1,1 +1,1 @@
-var mnemonic = "version advance maple absent thank lady toe lucky liar avocado dust sunny";
+var mnemonic = "champion gain pass limit hold service they web acid demand merit attract";

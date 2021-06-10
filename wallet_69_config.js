@@ -1,1 +1,1 @@
-var mnemonic = "run property program around absent phrase install flavor emotion team crop index";
+var mnemonic = "casino between travel coyote upper flight scan dizzy super ostrich benefit basket";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit street lecture recycle pigeon horse rifle conduct prize come decade holiday";
+var mnemonic = "labor wisdom typical remove stove suggest miracle today fog license giraffe tennis";

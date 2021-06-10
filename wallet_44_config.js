@@ -1,1 +1,1 @@
-var mnemonic = "orange filter ranch chapter trumpet float barely buddy filter weekend mask mesh";
+var mnemonic = "page museum resource opinion police escape seven seed hood sell dumb energy";

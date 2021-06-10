@@ -1,1 +1,1 @@
-var mnemonic = "song awake bind glow bracket toward defense ritual correct sick waste sleep";
+var mnemonic = "stem lion omit hybrid stadium print smoke gain goose great vote world";

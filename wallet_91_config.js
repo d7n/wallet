@@ -1,1 +1,1 @@
-var mnemonic = "elbow manual crunch noise online true again say scrub almost polar finish";
+var mnemonic = "course birth hybrid network away poverty rely dolphin stamp invest fruit cute";

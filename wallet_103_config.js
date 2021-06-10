@@ -1,1 +1,1 @@
-var mnemonic = "evoke horse bacon wait armed sibling outside wisdom job fee balcony problem";
+var mnemonic = "carpet promote kidney minor visual sing decrease small wolf tent skull resource";

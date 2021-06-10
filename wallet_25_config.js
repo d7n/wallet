@@ -1,1 +1,1 @@
-var mnemonic = "absurd limit practice title critic split analyst upset asthma load body blush";
+var mnemonic = "couple venue false book nothing phrase opinion analyst drill ridge truly between";

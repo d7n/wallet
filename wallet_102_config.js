@@ -1,1 +1,1 @@
-var mnemonic = "major muscle daughter escape water engage where fragile oyster sudden viable rich";
+var mnemonic = "army vast steel near flash believe divert game soccer youth settle ostrich";

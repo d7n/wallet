@@ -1,1 +1,1 @@
-var mnemonic = "again abandon medal prepare increase rhythm attend verb cruise tide add club";
+var mnemonic = "demand beauty chapter approve arena measure car smoke person adjust know model";

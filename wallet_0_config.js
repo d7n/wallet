@@ -1,1 +1,1 @@
-var mnemonic = "exotic turn vault design trick round cat hidden riot spot essay below";
+var mnemonic = "crane twist transfer phone orbit comic adult oxygen resource damage arm simple";

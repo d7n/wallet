@@ -1,1 +1,1 @@
-var mnemonic = "debris bamboo rookie giraffe style domain subway ghost heart vast fruit access";
+var mnemonic = "bring retreat indicate magic near upper say decide network youth urban edit";

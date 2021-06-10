@@ -1,1 +1,1 @@
-var mnemonic = "install return repeat genre april salon private twelve camp reveal submit doctor";
+var mnemonic = "reflect vote burger will immense trick wild fork prosper increase mandate web";

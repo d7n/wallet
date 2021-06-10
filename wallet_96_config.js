@@ -1,1 +1,1 @@
-var mnemonic = "burst nephew audit anchor update year enforce shove ready transfer rigid december";
+var mnemonic = "basket road guilt blame dawn notable coil adapt when kidney window husband";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter arm leopard dwarf canal camera exotic path practice body level bind";
+var mnemonic = "pact quit camera table jewel enter blast advice aisle sketch deal tomato";

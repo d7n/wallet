@@ -1,1 +1,1 @@
-var mnemonic = "flock evidence dentist police nation fault regular ramp object wise cattle pitch";
+var mnemonic = "tent exchange drive modify sad visa flag affair great census across resemble";

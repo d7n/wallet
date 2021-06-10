@@ -1,1 +1,1 @@
-var mnemonic = "proof vapor witness water apology sick extra divide cargo tackle athlete output";
+var mnemonic = "author spend guilt mule enroll citizen head disease rhythm cheese zebra cattle";

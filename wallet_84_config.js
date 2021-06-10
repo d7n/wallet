@@ -1,1 +1,1 @@
-var mnemonic = "match shallow magnet scheme child spread news fever beef behind cup pen";
+var mnemonic = "pony bridge reunion soft shove hover palace subway rifle february crazy decide";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond tongue when reform rent online level excite name gap squirrel crater";
+var mnemonic = "hungry cat dutch final drill vibrant ozone discover idle oppose obscure label";

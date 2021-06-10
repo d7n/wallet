@@ -1,1 +1,1 @@
-var mnemonic = "master please snake soul innocent steel ice seek obvious forget bleak pair";
+var mnemonic = "vast cricket pilot mother duck sibling soldier awkward media bring often cargo";

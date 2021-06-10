@@ -1,1 +1,1 @@
-var mnemonic = "worth orphan poet print phone young sphere disease emerge tissue frame secret";
+var mnemonic = "tiger orbit diamond fee major city egg soup field much uncle clever";

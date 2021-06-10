@@ -1,1 +1,1 @@
-var mnemonic = "endorse doll steel video upgrade daughter steel toe live teach butter poverty";
+var mnemonic = "attract cattle polar solid wolf refuse devote laugh feed bonus hand now";

@@ -1,1 +1,1 @@
-var mnemonic = "submit undo soul maze maze symbol minute elegant pottery decide sail matter";
+var mnemonic = "easy hope exile away alone orient muscle dinosaur stamp speed rigid few";

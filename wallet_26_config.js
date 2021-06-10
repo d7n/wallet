@@ -1,1 +1,1 @@
-var mnemonic = "expire boil wait law tray major gas exhaust license quick jewel ready";
+var mnemonic = "another disagree voice enable favorite reunion fatal erase attract front tiger word";

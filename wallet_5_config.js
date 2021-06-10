@@ -1,1 +1,1 @@
-var mnemonic = "salon inherit erode evidence casual market mass milk focus pioneer letter snake";
+var mnemonic = "swamp inspire health dignity gate left lab fossil nut next glow section";

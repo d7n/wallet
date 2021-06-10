@@ -1,1 +1,1 @@
-var mnemonic = "barrel around govern vocal hidden envelope creek step advice leaf topple badge";
+var mnemonic = "sister okay good glide hotel memory right cause glimpse cup head open";

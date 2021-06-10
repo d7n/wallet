@@ -1,1 +1,1 @@
-var mnemonic = "person debate orchard number famous kind trigger remind drum biology layer chaos";
+var mnemonic = "matrix rapid access link spawn alone magnet project caught extra wagon any";

@@ -1,1 +1,1 @@
-var mnemonic = "enter thought purity kiwi churn tired tape pretty twist agent distance miracle";
+var mnemonic = "sauce economy clerk refuse pig chapter eyebrow depend squeeze ginger evoke joke";

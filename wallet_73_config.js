@@ -1,1 +1,1 @@
-var mnemonic = "fix tank behave crouch noise mango hair such rookie credit audit under";
+var mnemonic = "critic radar bone bamboo ill bitter approve exile struggle memory coconut ripple";

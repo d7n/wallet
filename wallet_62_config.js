@@ -1,1 +1,1 @@
-var mnemonic = "also below gather crawl fresh hospital divert furnace about quick subject box";
+var mnemonic = "shield enter door genius transfer shaft sound surround tower liberty tenant stuff";

@@ -1,1 +1,1 @@
-var mnemonic = "once indicate impact write pact economy verb response very canvas damp sell";
+var mnemonic = "heavy plunge please course great razor cool this knee glass inflict loyal";

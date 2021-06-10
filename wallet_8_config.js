@@ -1,1 +1,1 @@
-var mnemonic = "twenty jacket exercise exhaust cradle crowd neutral shield digital fragile pottery false";
+var mnemonic = "window city person chapter gesture depart typical sketch cart sphere utility pluck";

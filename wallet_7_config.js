@@ -1,1 +1,1 @@
-var mnemonic = "hub digital table make destroy solution beyond chronic search kick grape hat";
+var mnemonic = "creek kind member immense soul enough token fluid gather obvious attract carry";

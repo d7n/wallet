@@ -1,1 +1,1 @@
-var mnemonic = "curious blind profit mass teach story sheriff omit hand alert cup outdoor";
+var mnemonic = "right expire excess cover two hen cat celery all aspect rhythm cabbage";

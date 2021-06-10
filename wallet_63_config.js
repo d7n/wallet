@@ -1,1 +1,1 @@
-var mnemonic = "imitate elephant jelly transfer toilet seven swallow huge peace between culture purpose";
+var mnemonic = "health damp slab win stereo fluid later vault match frost ordinary element";

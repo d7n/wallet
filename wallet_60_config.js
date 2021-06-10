@@ -1,1 +1,1 @@
-var mnemonic = "cousin vibrant already clay exclude abuse night route grant reduce gap keen";
+var mnemonic = "crack cram security convince fox fashion clinic word spray noise mystery tiny";

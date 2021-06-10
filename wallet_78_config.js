@@ -1,1 +1,1 @@
-var mnemonic = "prosper engine sight demise purchase trash boil foot sugar treat surface message";
+var mnemonic = "spatial mansion claim sense quarter trash amateur sea ankle twice critic garbage";

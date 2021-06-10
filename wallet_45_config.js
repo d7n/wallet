@@ -1,1 +1,1 @@
-var mnemonic = "catch gun stool bar exhibit drink circle together foil office crane glory";
+var mnemonic = "section asthma observe stable few member patrol chalk mobile bullet afford world";

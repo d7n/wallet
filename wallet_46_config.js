@@ -1,1 +1,1 @@
-var mnemonic = "grit awful digital verb still install moon dog brisk guitar lawsuit aspect";
+var mnemonic = "dolphin desk arch mix cream require craft parrot lemon struggle wild inhale";
