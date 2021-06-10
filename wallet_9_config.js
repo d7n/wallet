@@ -1,1 +1,1 @@
-var mnemonic = "chunk label work employ three jelly suffer isolate always device swap monitor";
+var mnemonic = "pattern abuse list uphold wagon method police media huge strategy dish speed";

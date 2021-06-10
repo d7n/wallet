@@ -1,1 +1,1 @@
-var mnemonic = "hole limit parrot near tube monster figure anger color brief coach february";
+var mnemonic = "thing drastic barrel lawn whale wrist village agent sniff humble grunt power";

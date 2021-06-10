@@ -1,1 +1,1 @@
-var mnemonic = "puzzle cannon jazz merry online rapid ranch opinion shed issue invest salmon";
+var mnemonic = "demand glory describe pole can trap rubber ghost hire room stamp satisfy";

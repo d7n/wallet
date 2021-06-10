@@ -1,1 +1,1 @@
-var mnemonic = "warfare solution head spoon fabric assist squeeze shed critic bamboo evoke sad";
+var mnemonic = "utility excite anxiety deliver grunt monster scorpion vacuum apology install ask brave";

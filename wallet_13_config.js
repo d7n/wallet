@@ -1,1 +1,1 @@
-var mnemonic = "armor lawn rare garbage infant rude above moon able citizen chapter text";
+var mnemonic = "web clinic swift patrol swear body surround alien frog fox fitness ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "safe skirt such gesture sing simple this barely tiger lecture menu element";
+var mnemonic = "cat lounge frog service silk man flavor valid dad basket venue shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "torch convince dog pulp whale garbage wheat thank outdoor decorate amused resemble";
+var mnemonic = "obtain soldier fashion banana general tower expand sound settle lab mandate aerobic";

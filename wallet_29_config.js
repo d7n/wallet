@@ -1,1 +1,1 @@
-var mnemonic = "nature open spice rapid coast fatigue achieve sample category open exchange gasp";
+var mnemonic = "afraid mind onion setup decorate harvest abuse wild top mobile snack uncle";

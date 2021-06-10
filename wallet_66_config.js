@@ -1,1 +1,1 @@
-var mnemonic = "deer warfare wood play quiz define ten material note giant price crush";
+var mnemonic = "garlic broccoli remain piano long myth coin polar sister estate decide put";

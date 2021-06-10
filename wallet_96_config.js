@@ -1,1 +1,1 @@
-var mnemonic = "chuckle adapt royal vague decorate ceiling pull ancient half you shaft action";
+var mnemonic = "whip video top quit leaf early crack stomach gasp lamp satisfy chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket lottery filter spoon pair text runway lobster process family canal riot";
+var mnemonic = "spring march face define later cousin battle fresh scissors layer range mobile";

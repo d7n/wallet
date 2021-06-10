@@ -1,1 +1,1 @@
-var mnemonic = "top crystal fashion marble wide main refuse leg settle bird bird tuition";
+var mnemonic = "remove suggest engine coast bracket despair motion service version stand long bone";

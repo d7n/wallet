@@ -1,1 +1,1 @@
-var mnemonic = "obtain rate year lift census legend sadness inhale canvas pipe unable cute";
+var mnemonic = "sport excuse floor feel suffer bone can service desert whale nurse soda";

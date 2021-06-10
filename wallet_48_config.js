@@ -1,1 +1,1 @@
-var mnemonic = "divide harsh spy source tooth airport negative belt diagram cross used error";
+var mnemonic = "real allow horse mandate owner illegal vehicle whale ostrich joy sport flight";

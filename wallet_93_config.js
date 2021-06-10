@@ -1,1 +1,1 @@
-var mnemonic = "crystal marine exile dance question solid relax ability tissue segment all own";
+var mnemonic = "habit mix between balance hurdle awake century action monster duty despair trip";

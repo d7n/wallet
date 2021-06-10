@@ -1,1 +1,1 @@
-var mnemonic = "panel cross vocal quit august shy wish aspect zero predict trust catalog";
+var mnemonic = "bag lake cannon sphere vote defense notice affair candy uniform earth economy";

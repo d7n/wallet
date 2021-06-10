@@ -1,1 +1,1 @@
-var mnemonic = "aunt virus borrow seminar bulk boss hungry blast dial trumpet power help";
+var mnemonic = "harsh humble alien lecture when romance better blind cradle define enter solid";

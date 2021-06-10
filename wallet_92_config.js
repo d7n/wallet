@@ -1,1 +1,1 @@
-var mnemonic = "jeans family bunker payment mammal current hunt gap seven desert arm token";
+var mnemonic = "door gown tail sick girl comfort stove regret tuition rescue until mutual";

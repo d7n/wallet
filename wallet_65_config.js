@@ -1,1 +1,1 @@
-var mnemonic = "liar lonely spatial shoulder robot term solar undo verify know roast car";
+var mnemonic = "parrot canal fruit off chronic magic marriage pond clay degree record apple";

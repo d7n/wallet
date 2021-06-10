@@ -1,1 +1,1 @@
-var mnemonic = "bonus enough habit odor west basket position cry lazy patient burst video";
+var mnemonic = "friend obscure differ squeeze six narrow direct wire tobacco sniff horn output";

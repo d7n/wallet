@@ -1,1 +1,1 @@
-var mnemonic = "random south pizza trap color hello fashion neither lion infant already track";
+var mnemonic = "auction digital kidney good pole dutch hurt ancient fire spoil forest identify";

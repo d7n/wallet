@@ -1,1 +1,1 @@
-var mnemonic = "glance maze art advance decrease lunar whisper race spike episode tell stage";
+var mnemonic = "prevent empty window coil major trade book metal source yard odor best";

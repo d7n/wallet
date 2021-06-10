@@ -1,1 +1,1 @@
-var mnemonic = "punch august gossip car either ginger impact nose skill ordinary caught depend";
+var mnemonic = "license pear enemy chat exercise liberty swamp pill buddy bubble note bless";

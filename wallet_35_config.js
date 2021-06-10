@@ -1,1 +1,1 @@
-var mnemonic = "arena public such decade adult neck peanut perfect make cake divorce print";
+var mnemonic = "primary bench neck hint grace busy quit trumpet nurse neither minimum cable";

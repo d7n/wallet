@@ -1,1 +1,1 @@
-var mnemonic = "device purse strategy barrel light boring tube canyon dinner bitter cup venue";
+var mnemonic = "damage one police siren earth warrior word vibrant situate soul lava vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "demand park angle abuse split jar bind fluid razor daring soon custom";
+var mnemonic = "easy first embark consider crawl buzz cruise mean absent sting best park";

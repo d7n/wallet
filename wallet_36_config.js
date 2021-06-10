@@ -1,1 +1,1 @@
-var mnemonic = "ask enjoy inside hat distance skull glass prosper author tourist pioneer orient";
+var mnemonic = "sunset top car raw donor system you music undo short property zebra";

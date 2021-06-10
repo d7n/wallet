@@ -1,1 +1,1 @@
-var mnemonic = "tackle salute early vote fortune stairs enrich boy silk scan bundle enemy";
+var mnemonic = "until drop ring trap relax assault weekend jaguar orbit goose fee tongue";

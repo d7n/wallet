@@ -1,1 +1,1 @@
-var mnemonic = "luxury client only course series today isolate sick kite engine glare mule";
+var mnemonic = "scrap silly alcohol toilet stand quantum badge rural track leave card surprise";

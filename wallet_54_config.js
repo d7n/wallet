@@ -1,1 +1,1 @@
-var mnemonic = "switch rule whisper ticket minimum nephew clever online torch proud salute utility";
+var mnemonic = "survey special fame thunder arrange actress camp jungle work box deal zone";

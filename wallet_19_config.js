@@ -1,1 +1,1 @@
-var mnemonic = "nut carbon chronic visual morning tomorrow clarify announce planet enforce goat chief";
+var mnemonic = "lawsuit diary omit pipe resource old price sail fee obey brave song";

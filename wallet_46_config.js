@@ -1,1 +1,1 @@
-var mnemonic = "early symptom autumn shadow used group bless matter fetch rifle ghost trumpet";
+var mnemonic = "rabbit select cancel push seed record margin stool alley robust rack celery";

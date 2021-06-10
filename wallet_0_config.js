@@ -1,1 +1,1 @@
-var mnemonic = "worth energy fuel weapon peace radio truth hotel worth method mirror struggle";
+var mnemonic = "okay camp program success unique pigeon youth caught host nose security soap";

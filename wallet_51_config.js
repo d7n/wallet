@@ -1,1 +1,1 @@
-var mnemonic = "setup sudden sing noble barrel defy knife proud matter process north candy";
+var mnemonic = "buddy angry primary girl account fetch lamp ozone forward check honey detect";

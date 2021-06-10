@@ -1,1 +1,1 @@
-var mnemonic = "friend this mix wire spy artist culture loan pulse cup rocket tiny";
+var mnemonic = "tail purpose spot parrot grain fan alcohol cancel swift muscle bulb else";

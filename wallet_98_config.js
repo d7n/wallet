@@ -1,1 +1,1 @@
-var mnemonic = "share rail slab bargain lonely glimpse lady pumpkin bridge oxygen trend grab";
+var mnemonic = "bunker electric rural victory island tent joy survey banana never daughter unusual";

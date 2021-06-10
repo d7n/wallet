@@ -1,1 +1,1 @@
-var mnemonic = "degree merry detail vault kid choice false woman apple ketchup struggle annual";
+var mnemonic = "record web special elevator latin search track churn model derive street helmet";

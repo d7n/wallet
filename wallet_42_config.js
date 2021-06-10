@@ -1,1 +1,1 @@
-var mnemonic = "unusual body canyon candy physical faculty head slide immune antenna arena critic";
+var mnemonic = "police rib train adult need claw awful match grief element nation carbon";

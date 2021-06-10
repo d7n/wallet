@@ -1,1 +1,1 @@
-var mnemonic = "suggest knee moral upset toast video tooth auction seed tissue mobile puppy";
+var mnemonic = "seminar develop approve pilot pet route upgrade announce gaze upon arrange bulb";

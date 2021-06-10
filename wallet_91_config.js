@@ -1,1 +1,1 @@
-var mnemonic = "market quote helmet chicken seek winner egg share awesome pool modify water";
+var mnemonic = "post candy runway use rally blast unaware better squirrel diesel heavy please";

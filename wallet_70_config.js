@@ -1,1 +1,1 @@
-var mnemonic = "february wrap between skirt pretty kitchen place couple price year estate output";
+var mnemonic = "primary link develop twelve hedgehog drop daring vintage work little wall feature";

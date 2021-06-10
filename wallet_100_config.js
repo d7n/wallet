@@ -1,1 +1,1 @@
-var mnemonic = "good letter maximum rail insect wheel success video pitch rely earn sentence";
+var mnemonic = "update squeeze disagree behave bulb pass awful cannon quarter gold rice rack";

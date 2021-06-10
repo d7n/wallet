@@ -1,1 +1,1 @@
-var mnemonic = "vicious grow inform limb frame void record exclude snake delay tag crystal";
+var mnemonic = "page basket motion nation grocery clock dutch dog often catalog absorb guess";

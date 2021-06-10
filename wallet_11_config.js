@@ -1,1 +1,1 @@
-var mnemonic = "biology else child affair pencil mother ordinary cart glass blame camp person";
+var mnemonic = "brown sting pyramid fringe metal brief walk plunge riot glory among news";

@@ -1,1 +1,1 @@
-var mnemonic = "receive armor sense income stage lens put theory hurdle inquiry point service";
+var mnemonic = "game chef receive rival man deal subway author sadness tuition pill grain";

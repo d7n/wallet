@@ -1,1 +1,1 @@
-var mnemonic = "soap excuse good brick aim flip inform pilot solid dust captain news";
+var mnemonic = "coach useless decorate rebel deliver female similar donkey village coast raven unfold";

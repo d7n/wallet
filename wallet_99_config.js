@@ -1,1 +1,1 @@
-var mnemonic = "amateur toast oppose version tail file head salt mercy boy project toward";
+var mnemonic = "torch divide sick chapter fix gold enhance tired boil rate hurdle clarify";

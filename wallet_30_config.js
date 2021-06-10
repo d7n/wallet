@@ -1,1 +1,1 @@
-var mnemonic = "wagon utility neutral boy frog rare toe want until erupt solar dignity";
+var mnemonic = "tape draw cable margin custom myself enter chat reform margin cable federal";

@@ -1,1 +1,1 @@
-var mnemonic = "seed prevent paddle almost drill practice flower answer observe brother occur fork";
+var mnemonic = "swarm garage produce bulk rough fault shrug define carbon wood action sell";

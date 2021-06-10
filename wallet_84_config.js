@@ -1,1 +1,1 @@
-var mnemonic = "media merit enable border mixture rebel warfare amazing woman divert birth water";
+var mnemonic = "uncle tape pave total recall card awful aim obvious exhaust point refuse";

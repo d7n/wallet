@@ -1,1 +1,1 @@
-var mnemonic = "tunnel hint begin permit right pair fiction topic squirrel enjoy drink pair";
+var mnemonic = "body toward age faint black cruise aisle ribbon million report daughter priority";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm square sort scene purse region net pet pioneer pave soul shrug";
+var mnemonic = "debate rookie mistake visual glove another else cancel merge economy birth hybrid";

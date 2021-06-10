@@ -1,1 +1,1 @@
-var mnemonic = "bonus remove rail eternal state lift chief medal link shy thought forest";
+var mnemonic = "develop antique shed convince undo slogan mask deer fortune tribe essence brave";

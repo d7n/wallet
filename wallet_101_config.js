@@ -1,1 +1,1 @@
-var mnemonic = "vibrant valid swim accuse fan cotton float target color reduce divorce trade";
+var mnemonic = "picture main opera unable ticket unlock dwarf wealth cream skin loud table";

@@ -1,1 +1,1 @@
-var mnemonic = "roof royal poet boss start else credit chimney goose bar anxiety submit";
+var mnemonic = "during survey update void fan barely cluster six clay wife cat charge";

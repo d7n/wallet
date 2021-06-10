@@ -1,1 +1,1 @@
-var mnemonic = "ice hollow orbit way private inquiry taste series pride exile rely reward";
+var mnemonic = "force employ frame salad spell truly absorb mad entire muffin captain question";

@@ -1,1 +1,1 @@
-var mnemonic = "afford planet local rebuild magic paper snap dutch rebel fabric frame alley";
+var mnemonic = "elegant sheriff whisper cloth evil uphold witness cost spring confirm boat theme";

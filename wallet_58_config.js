@@ -1,1 +1,1 @@
-var mnemonic = "office avocado asset convince crater raise crouch burger then glue crumble bachelor";
+var mnemonic = "penalty lizard iron prepare fog february swing because sure spirit afford walk";

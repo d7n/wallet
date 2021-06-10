@@ -1,1 +1,1 @@
-var mnemonic = "mail aim happy shrimp caught hotel child pig front kangaroo original roast";
+var mnemonic = "actor when disorder use ivory huge ask around double skirt another ocean";

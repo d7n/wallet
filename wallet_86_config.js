@@ -1,1 +1,1 @@
-var mnemonic = "favorite buddy pattern oblige neglect flash atom frequent scrap loud joke area";
+var mnemonic = "inject unfair help rough skirt worry very armed start hire only mandate";

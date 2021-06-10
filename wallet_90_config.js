@@ -1,1 +1,1 @@
-var mnemonic = "ghost patch defy awesome hotel school dilemma fatigue stone adjust bid predict";
+var mnemonic = "later heart alcohol club taxi boy pelican wagon hood rapid sponsor diamond";

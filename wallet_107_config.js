@@ -1,1 +1,1 @@
-var mnemonic = "ability visual dress tourist accident grow peasant bar endorse cliff swear steel";
+var mnemonic = "chair early legend loud tunnel beauty oval bleak voice cousin bone fever";

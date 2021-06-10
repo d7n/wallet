@@ -1,1 +1,1 @@
-var mnemonic = "try million jelly lake vessel napkin route general curious october damage able";
+var mnemonic = "square clump music reflect fabric arctic vital broccoli check hub you million";

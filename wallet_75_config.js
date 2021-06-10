@@ -1,1 +1,1 @@
-var mnemonic = "lady assume jeans chunk exact item burden click mutual vacant pluck tell";
+var mnemonic = "stool echo walk alter they between weekend usage follow drive force nest";

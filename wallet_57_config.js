@@ -1,1 +1,1 @@
-var mnemonic = "subject add palace worth token eagle couple gas race emerge begin village";
+var mnemonic = "bamboo mask slight tag supreme beyond swim antique hello typical useful start";

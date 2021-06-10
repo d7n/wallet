@@ -1,1 +1,1 @@
-var mnemonic = "display large case tuition student lawn illness erosion double purity series evidence";
+var mnemonic = "future stairs infant glare salute monster panda boil enact item portion patrol";

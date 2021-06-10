@@ -1,1 +1,1 @@
-var mnemonic = "twenty frozen resource manual east witness electric border ocean diamond front fury";
+var mnemonic = "aspect relief neck one mountain snap maple pole dignity scorpion convince acoustic";

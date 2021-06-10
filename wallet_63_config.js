@@ -1,1 +1,1 @@
-var mnemonic = "miracle resemble height estate father snow leaf mean desert ice region question";
+var mnemonic = "leader palace athlete library neutral minute liar sponsor pill super despair message";

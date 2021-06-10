@@ -1,1 +1,1 @@
-var mnemonic = "dilemma van mandate improve shoulder device radio dragon play ghost retreat case";
+var mnemonic = "yard scan rescue glide sign tumble two proof parrot rapid oblige bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward deal feed typical focus result relief century still idle soon gym";
+var mnemonic = "park toward sheriff jar idea addict risk parent unusual favorite laundry ancient";

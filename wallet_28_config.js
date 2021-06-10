@@ -1,1 +1,1 @@
-var mnemonic = "wheat pumpkin waste laptop idea poverty lizard pelican first sheriff occur media";
+var mnemonic = "brown choose effort ceiling large athlete uniform engage snap super term holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "identify merit agree first rubber expire run fiscal couple deliver devote little";
+var mnemonic = "legend top spring mechanic busy master brush boat phrase gorilla attack domain";

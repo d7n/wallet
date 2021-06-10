@@ -1,1 +1,1 @@
-var mnemonic = "cool slam ranch tower summer patch claim welcome sport primary almost fury";
+var mnemonic = "cattle virus length wash skill option infant deposit fruit basic recycle kitten";

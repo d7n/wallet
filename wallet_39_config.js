@@ -1,1 +1,1 @@
-var mnemonic = "student noble decline outside soft cash anger fiction robust canoe strike corn";
+var mnemonic = "fresh live mechanic canal simple crucial charge nephew gather private boost clay";

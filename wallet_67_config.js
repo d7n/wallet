@@ -1,1 +1,1 @@
-var mnemonic = "solution range size same chief diamond student purpose bone chase bubble lumber";
+var mnemonic = "enlist feature knife spatial lion expose sign above know luggage dial wall";

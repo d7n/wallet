@@ -1,1 +1,1 @@
-var mnemonic = "pioneer egg spin jar wet become luxury asthma rich crowd random way";
+var mnemonic = "dress meadow sand ceiling sand innocent monitor width stumble forum wreck stone";

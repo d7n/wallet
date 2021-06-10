@@ -1,1 +1,1 @@
-var mnemonic = "crowd basic galaxy stable viable ordinary quote notable toe doctor notice actual";
+var mnemonic = "bicycle radio panther episode improve gauge squirrel table biology tool extend proof";

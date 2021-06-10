@@ -1,1 +1,1 @@
-var mnemonic = "document slush clap sick swim movie delay mutual enrich become magnet pulp";
+var mnemonic = "beach flush hazard woman busy ahead pudding action girl pact address combine";

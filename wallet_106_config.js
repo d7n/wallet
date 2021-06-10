@@ -1,1 +1,1 @@
-var mnemonic = "dance beauty bargain merry afford increase anxiety butter pupil sauce frown almost";
+var mnemonic = "camp bargain auto picture tide discover pink feel crystal second glare scrap";

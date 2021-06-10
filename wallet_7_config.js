@@ -1,1 +1,1 @@
-var mnemonic = "neglect grab pear kitten seat behind surge casual hurdle goat syrup light";
+var mnemonic = "walnut damp cat summer fortune jazz prize spread sign dismiss crawl doll";

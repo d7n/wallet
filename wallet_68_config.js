@@ -1,1 +1,1 @@
-var mnemonic = "edit cry sister intact gas balcony quantum margin fee dismiss movie reopen";
+var mnemonic = "charge gold tip bamboo because ozone master basic strike convince spin almost";

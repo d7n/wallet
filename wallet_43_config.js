@@ -1,1 +1,1 @@
-var mnemonic = "join shoulder burst lounge bicycle climb pact safe worth display picture oven";
+var mnemonic = "spend mad toe elephant include sure expect acid error sorry uncle bundle";

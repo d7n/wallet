@@ -1,1 +1,1 @@
-var mnemonic = "polar enough rack nominee health solution beyond access more destroy slush possible";
+var mnemonic = "popular call smooth trouble sock tourist bleak output danger amazing motion vacant";

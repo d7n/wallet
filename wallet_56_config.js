@@ -1,1 +1,1 @@
-var mnemonic = "stone hurry text expect cruel drink skin until script nurse gun wrestle";
+var mnemonic = "broom spare all nose defy diet transfer tide client toilet vendor grid";

@@ -1,1 +1,1 @@
-var mnemonic = "camera photo kitten paper cake friend dream social velvet apart hotel clutch";
+var mnemonic = "ribbon slide noble equal column fold shrug orchard breeze warfare flag park";

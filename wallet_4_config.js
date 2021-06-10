@@ -1,1 +1,1 @@
-var mnemonic = "vessel clock bomb okay wrestle moment owner income sudden humble army olympic";
+var mnemonic = "fitness fortune review below screen tube crash into birth update cancel stuff";

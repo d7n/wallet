@@ -1,1 +1,1 @@
-var mnemonic = "fine disease course truly tell accident salon large ability iron announce outer";
+var mnemonic = "lemon across prize surround hen crane village weekend pulp wheel fortune swap";

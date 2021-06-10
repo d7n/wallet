@@ -1,1 +1,1 @@
-var mnemonic = "govern action harvest honey unique laptop increase million parrot offer voyage reject";
+var mnemonic = "faculty ordinary desert coin sail fine fossil upgrade glow unhappy brass strike";

@@ -1,1 +1,1 @@
-var mnemonic = "result organ world few save left icon donate inhale trust sign gap";
+var mnemonic = "idle potato fire sudden snack rule cereal mind recipe lock select increase";

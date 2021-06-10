@@ -1,1 +1,1 @@
-var mnemonic = "dish modify voyage cereal aim allow calm spider wrestle name boil fresh";
+var mnemonic = "wrong recall put train dance deny edge mistake hurt cotton know kiss";

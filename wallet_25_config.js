@@ -1,1 +1,1 @@
-var mnemonic = "glow fiction mass tower garment control sword jelly battle connect cube fold";
+var mnemonic = "faith obscure hurt book team major coconut web bitter pumpkin choice way";

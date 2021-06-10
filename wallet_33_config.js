@@ -1,1 +1,1 @@
-var mnemonic = "patient idea era fitness cup party pilot throw shrimp panda october summer";
+var mnemonic = "gorilla pizza stable crystal any devote team face kitchen document idle effort";
