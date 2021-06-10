@@ -1,1 +1,1 @@
-var mnemonic = "race course genius drama frog weather impulse scale item clip ill salute";
+var mnemonic = "gloom genre wisdom mind spring strike ship tennis brave drive banner utility";

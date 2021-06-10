@@ -1,1 +1,1 @@
-var mnemonic = "boy crucial horn clutch woman wasp bounce above hurt step educate region";
+var mnemonic = "april pill crime rich sight obscure cereal swarm deer economy clutch stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "wing race write margin enroll poem tape wisdom rescue reason stem plate";
+var mnemonic = "tree quality require oppose vibrant guard document object pave fever worth page";

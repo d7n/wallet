@@ -1,1 +1,1 @@
-var mnemonic = "birth omit stage weasel material donate vibrant trap arrive fury half submit";
+var mnemonic = "phone track duck divert spell earth entry income stable horn bottom switch";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix text cream utility avoid problem tomato mix injury oxygen cause puppy";
+var mnemonic = "faint length eye industry approve kitten burst humor proud turtle picture news";

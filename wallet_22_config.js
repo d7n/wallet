@@ -1,1 +1,1 @@
-var mnemonic = "wedding ill merit series exhibit light vague calm sunset burden critic economy";
+var mnemonic = "meadow actual lonely worth few nest bring lemon thunder green pledge critic";

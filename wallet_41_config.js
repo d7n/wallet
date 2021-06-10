@@ -1,1 +1,1 @@
-var mnemonic = "arena addict hobby there dry feed bone dad grass dry bounce unlock";
+var mnemonic = "brave reopen cram cash ankle coil merry radar mercy match owner weekend";

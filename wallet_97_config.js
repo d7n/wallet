@@ -1,1 +1,1 @@
-var mnemonic = "alarm radar fold deputy artefact afford grace blood divorce below net imitate";
+var mnemonic = "short wolf near west fresh decrease annual sign sad tomorrow sell cost";

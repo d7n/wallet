@@ -1,1 +1,1 @@
-var mnemonic = "stone scrub setup hire man unable fix hollow perfect blast cave oxygen";
+var mnemonic = "clerk fitness hazard spring moon used puppy sister indoor fetch inmate million";

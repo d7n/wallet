@@ -1,1 +1,1 @@
-var mnemonic = "travel early proud range primary author snow agent club stereo joke easy";
+var mnemonic = "glide super beauty because alien flat flip awkward protect gasp brush sheriff";

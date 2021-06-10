@@ -1,1 +1,1 @@
-var mnemonic = "clown bundle arch original echo catch heart three bacon install antique arch";
+var mnemonic = "clock cupboard wash rough quality guitar basket web equal pupil box use";

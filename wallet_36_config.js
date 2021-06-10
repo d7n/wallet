@@ -1,1 +1,1 @@
-var mnemonic = "wisdom tower hero host forum involve bring margin outside wine huge recipe";
+var mnemonic = "develop easy stick speed friend guess treat provide under welcome lake rapid";

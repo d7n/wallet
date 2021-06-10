@@ -1,1 +1,1 @@
-var mnemonic = "student eyebrow beauty exchange vault kitchen act pledge clap arrow degree post";
+var mnemonic = "guitar tenant unknown dinner clean pen motor soul raccoon north garage notable";

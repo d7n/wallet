@@ -1,1 +1,1 @@
-var mnemonic = "denial produce broccoli sure oxygen mandate perfect upon sword harbor category treat";
+var mnemonic = "animal weapon round keen brass alley west turn hobby father garage also";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce claw love spy cram impose source measure girl place bracket unaware";
+var mnemonic = "logic flash wrestle father worth cushion deliver patch frozen there foster like";

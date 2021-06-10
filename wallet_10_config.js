@@ -1,1 +1,1 @@
-var mnemonic = "void crew depth bomb blanket menu aerobic borrow subject page clever enhance";
+var mnemonic = "wing festival prefer aunt oak admit lobster fence giraffe motion century cliff";

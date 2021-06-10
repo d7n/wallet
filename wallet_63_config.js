@@ -1,1 +1,1 @@
-var mnemonic = "flash fall reflect street flush scan limit twenty scatter year mass transfer";
+var mnemonic = "shuffle lawn topic inquiry salute join during letter switch goat height deposit";

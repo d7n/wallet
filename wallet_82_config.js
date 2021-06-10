@@ -1,1 +1,1 @@
-var mnemonic = "sort anchor sea orbit view client unaware situate annual wheat face off";
+var mnemonic = "jaguar multiply alpha swim solar degree crucial better clown song blur dynamic";

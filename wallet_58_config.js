@@ -1,1 +1,1 @@
-var mnemonic = "noise brand shell settle canyon advice vocal raven canal earn number shed";
+var mnemonic = "detect claw town cycle gravity foam ankle mystery sail before purity thank";

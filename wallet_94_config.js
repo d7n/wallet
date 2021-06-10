@@ -1,1 +1,1 @@
-var mnemonic = "pet virus air hood noodle flag vendor young asthma bag decrease strike";
+var mnemonic = "soccer time leisure exit twin crew protect anxiety monster library swap mirror";

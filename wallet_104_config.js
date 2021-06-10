@@ -1,1 +1,1 @@
-var mnemonic = "utility unable dune vacuum hospital unveil floor bike glow lawsuit remove grocery";
+var mnemonic = "before chat torch remove ginger remember apology poet ignore quantum vital gather";

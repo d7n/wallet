@@ -1,1 +1,1 @@
-var mnemonic = "auto loop oak rack diesel idea veteran wrong call flock fancy bike";
+var mnemonic = "borrow cradle you armed mountain seven enable suffer morning animal dream alley";

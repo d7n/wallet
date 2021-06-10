@@ -1,1 +1,1 @@
-var mnemonic = "similar mom luggage confirm enhance gym wing vibrant smile neck border short";
+var mnemonic = "tortoise clerk canvas twenty horn skirt vivid balance toe become neglect jump";

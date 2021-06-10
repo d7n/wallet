@@ -1,1 +1,1 @@
-var mnemonic = "jump invite elbow impact tuna clown kid vocal fury ranch wall finger";
+var mnemonic = "boring immune alert speak tongue infant melt minor swamp follow uniform sense";

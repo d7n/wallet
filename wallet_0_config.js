@@ -1,1 +1,1 @@
-var mnemonic = "royal citizen long name jump twenty base type benefit logic tumble route";
+var mnemonic = "spring inch obvious novel pencil fish steak stick front social equip stick";

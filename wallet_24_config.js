@@ -1,1 +1,1 @@
-var mnemonic = "uncover stomach pig eye year usual cram plunge leg tragic cash result";
+var mnemonic = "high grass shield chaos beyond truly impulse staff able extend unknown quick";

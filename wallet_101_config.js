@@ -1,1 +1,1 @@
-var mnemonic = "shrimp nasty rhythm letter turkey jelly tower bunker donor differ file ocean";
+var mnemonic = "invite hat able fresh praise joke dove common antique trial extend thank";

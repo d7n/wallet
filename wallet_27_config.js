@@ -1,1 +1,1 @@
-var mnemonic = "master voyage genius fat slab grace grunt shallow erosion glide pill blame";
+var mnemonic = "green unaware frame wisdom embark amused rescue clump hub tomato flight slush";

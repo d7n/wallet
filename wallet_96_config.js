@@ -1,1 +1,1 @@
-var mnemonic = "pupil brisk dry ugly note hotel feel art decrease diet lecture option";
+var mnemonic = "tag stable upper beach fatal forget predict vital report proof present system";

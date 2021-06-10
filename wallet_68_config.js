@@ -1,1 +1,1 @@
-var mnemonic = "because prevent mouse depart drama sick notice drastic assault urge soap connect";
+var mnemonic = "when swift sea ritual dragon rely palace robot buzz upper force typical";

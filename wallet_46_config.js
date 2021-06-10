@@ -1,1 +1,1 @@
-var mnemonic = "visual decrease purity pill green enter wild online toy else float pencil";
+var mnemonic = "cactus setup caution actor glimpse hedgehog wire virus fog capital raise buzz";

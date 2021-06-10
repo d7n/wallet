@@ -1,1 +1,1 @@
-var mnemonic = "vanish sauce can october slogan pave tourist always easily mom before eternal";
+var mnemonic = "helmet afraid visual switch blind tattoo acoustic avoid silk outer option city";

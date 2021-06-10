@@ -1,1 +1,1 @@
-var mnemonic = "curtain truth maid farm minor certain funny dinner cost alarm engine prison";
+var mnemonic = "wasp inner frozen wealth summer master dad blush bounce wild emotion decline";

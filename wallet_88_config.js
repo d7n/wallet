@@ -1,1 +1,1 @@
-var mnemonic = "inhale avocado kingdom civil vapor ride moral chalk tunnel whale unusual increase";
+var mnemonic = "caution anger tackle dance toy else lizard fringe inner civil cupboard stick";

@@ -1,1 +1,1 @@
-var mnemonic = "mean blanket limb cry sense course spatial race visual endless struggle number";
+var mnemonic = "luggage arrange hybrid feel worry name sound canvas rigid learn parrot retire";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth mystery predict limit village husband nut cup depth more upon rule";
+var mnemonic = "ask weasel object wheel hurt absorb rain strategy spend mutual tattoo vacuum";

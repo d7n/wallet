@@ -1,1 +1,1 @@
-var mnemonic = "fork banana loud trade cliff hospital oval range million reveal urge water";
+var mnemonic = "desk tomorrow quarter gap skull flavor donate birth torch bulk tip indicate";

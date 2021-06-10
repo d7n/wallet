@@ -1,1 +1,1 @@
-var mnemonic = "patient twist yard outside taxi gold cat zebra strong deputy rebel nuclear";
+var mnemonic = "sting pet when dad prosper cause clerk sport swarm maximum walk praise";

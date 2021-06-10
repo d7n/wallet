@@ -1,1 +1,1 @@
-var mnemonic = "glove submit pumpkin beauty stock cotton excite ketchup sauce anger basket exile";
+var mnemonic = "cry december hint today shoot lend food provide beef dash prefer cook";

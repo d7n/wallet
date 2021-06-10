@@ -1,1 +1,1 @@
-var mnemonic = "regret alter decrease isolate speed entry knife cage life abuse harbor consider";
+var mnemonic = "trade mixture worth floor type noodle burst filter cube future tired clerk";

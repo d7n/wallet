@@ -1,1 +1,1 @@
-var mnemonic = "above ancient slogan trip never spring famous circle favorite crop sort person";
+var mnemonic = "gown rose toddler version frown liar joy feed either sleep fork play";

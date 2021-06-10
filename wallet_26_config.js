@@ -1,1 +1,1 @@
-var mnemonic = "spray dove funny project mother bracket proud honey trip dry bike dilemma";
+var mnemonic = "whip milk stuff gallery polar lamp simple physical gravity vague test leopard";

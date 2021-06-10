@@ -1,1 +1,1 @@
-var mnemonic = "garden hawk nephew answer myself blood must emerge burden mesh letter farm";
+var mnemonic = "hero engine parade matrix gate autumn blur select enhance point pair cube";

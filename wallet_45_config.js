@@ -1,1 +1,1 @@
-var mnemonic = "subject cancel cry add noodle bicycle cycle shield tomorrow mobile amused bag";
+var mnemonic = "student slow evil hybrid confirm capital present army ivory truly labor excite";

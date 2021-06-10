@@ -1,1 +1,1 @@
-var mnemonic = "inch tiger family biology crisp giant divide future payment acoustic tattoo edit";
+var mnemonic = "good genre achieve large embrace panther illegal stick school ramp energy hope";

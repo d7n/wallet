@@ -1,1 +1,1 @@
-var mnemonic = "across brick prize wrestle diesel shift ski abandon holiday chalk lucky left";
+var mnemonic = "unusual coffee tell expose extend point fringe tourist base cement flock oven";

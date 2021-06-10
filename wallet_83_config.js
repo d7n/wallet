@@ -1,1 +1,1 @@
-var mnemonic = "spend staff buzz dial real fog vacant spirit method ecology talent ski";
+var mnemonic = "bargain pulse angry medal agree summer village surface buzz grocery frequent test";

@@ -1,1 +1,1 @@
-var mnemonic = "claw foam laundry scheme treat stove lunch addict box finish thumb stable";
+var mnemonic = "icon parrot buddy bid oppose beauty tilt gallery riot box ahead help";

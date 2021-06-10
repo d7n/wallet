@@ -1,1 +1,1 @@
-var mnemonic = "huge uncle trip material grid now august whisper crystal give picture edge";
+var mnemonic = "match copy supreme genre exhaust limb slogan model daring negative chief easily";

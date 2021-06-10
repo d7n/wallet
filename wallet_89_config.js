@@ -1,1 +1,1 @@
-var mnemonic = "glide garage medal margin dose flock harbor about steel cable similar duck";
+var mnemonic = "disagree purpose sugar subject clump join mesh tiger warfare pact toy real";

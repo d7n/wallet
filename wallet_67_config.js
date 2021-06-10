@@ -1,1 +1,1 @@
-var mnemonic = "finger lunar sea boat erosion brush auto shaft green gadget fee blast";
+var mnemonic = "blade magnet annual rose vault rack torch icon aim bundle basket fortune";

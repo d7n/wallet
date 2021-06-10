@@ -1,1 +1,1 @@
-var mnemonic = "south top bench draw bounce start vendor donkey original baby excess mesh";
+var mnemonic = "mixed sentence fine mango peace result piece danger price casual bottom sing";

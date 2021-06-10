@@ -1,1 +1,1 @@
-var mnemonic = "aerobic alpha target left bullet country garment ritual shell valve biology bright";
+var mnemonic = "man album any glory blue render bunker stomach couple cruel guilt candy";

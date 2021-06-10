@@ -1,1 +1,1 @@
-var mnemonic = "crack dress mango now stomach crush sunny sun must scheme lizard nasty";
+var mnemonic = "marine under alter bicycle mesh shed enlist battle artefact curtain manage noodle";

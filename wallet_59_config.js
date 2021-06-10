@@ -1,1 +1,1 @@
-var mnemonic = "verify half ship helmet nuclear often leg high bridge glance decide annual";
+var mnemonic = "loyal boy giraffe essay uncle bonus hard diagram across comic damage liberty";

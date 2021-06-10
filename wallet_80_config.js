@@ -1,1 +1,1 @@
-var mnemonic = "prevent setup spice system stomach rubber cover chase jewel canvas blood biology";
+var mnemonic = "garden custom virtual isolate flavor decide night try embark cave vacuum possible";

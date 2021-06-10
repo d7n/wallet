@@ -1,1 +1,1 @@
-var mnemonic = "copper north craft remind hood wait lonely retire motion tell three cycle";
+var mnemonic = "umbrella type denial invite tone aerobic choice sort annual manual change jump";

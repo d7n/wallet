@@ -1,1 +1,1 @@
-var mnemonic = "index unfold inner latin dad merry organ essence business empty attitude wisdom";
+var mnemonic = "ball toward inform toward kid web great clock blossom pitch smoke mushroom";

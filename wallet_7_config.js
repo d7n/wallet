@@ -1,1 +1,1 @@
-var mnemonic = "catch future two aunt kangaroo race tonight treat grant east album fence";
+var mnemonic = "snack legend student ripple victory bonus unable saddle okay tone test pave";

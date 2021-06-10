@@ -1,1 +1,1 @@
-var mnemonic = "visa island click weasel rain weekend border always view outside keen please";
+var mnemonic = "labor candy roof normal other into prize sport item alarm pyramid kitchen";

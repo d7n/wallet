@@ -1,1 +1,1 @@
-var mnemonic = "peasant dose arctic stairs daring report hawk know rain wisdom lazy slow";
+var mnemonic = "giggle crack phone fade bridge clump process arena record transfer bronze vast";

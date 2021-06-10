@@ -1,1 +1,1 @@
-var mnemonic = "tuna scrap focus neither fog walk long replace memory woman crucial laugh";
+var mnemonic = "army again cat museum later winter only joy struggle grass skin mad";

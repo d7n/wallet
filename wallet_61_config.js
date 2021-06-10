@@ -1,1 +1,1 @@
-var mnemonic = "whale accuse digital craft violin odor element logic galaxy talk wave keen";
+var mnemonic = "team category identify cube connect shield size fork toe vanish idea final";

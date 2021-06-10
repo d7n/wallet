@@ -1,1 +1,1 @@
-var mnemonic = "family below else load image recipe amused road saddle recycle trust crew";
+var mnemonic = "oblige issue rely orchard senior kite train vague enable lunar green network";

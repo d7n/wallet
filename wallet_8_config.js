@@ -1,1 +1,1 @@
-var mnemonic = "path wear account mutual employ runway buyer enable tomorrow echo prefer update";
+var mnemonic = "forward need open wisdom habit evidence steel ranch dream case absent capital";

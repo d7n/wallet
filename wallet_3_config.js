@@ -1,1 +1,1 @@
-var mnemonic = "judge recycle prepare nurse tank west luggage whisper entry bitter nation square";
+var mnemonic = "foil arrow cabbage month maid spare flat peanut sort bundle saddle volcano";

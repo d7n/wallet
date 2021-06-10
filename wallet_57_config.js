@@ -1,1 +1,1 @@
-var mnemonic = "want grant inmate oxygen eight awful wage retire chimney pupil love gate";
+var mnemonic = "evolve bullet visa hat vacant race canyon crash beyond elephant practice police";

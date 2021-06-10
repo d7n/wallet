@@ -1,1 +1,1 @@
-var mnemonic = "glass gauge faculty lend knife raccoon churn merge broken gentle action vendor";
+var mnemonic = "surprise carpet punch example feature test secret confirm theme card police style";

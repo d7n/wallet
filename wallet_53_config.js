@@ -1,1 +1,1 @@
-var mnemonic = "dog pond fancy twice grocery crater silly float daughter order scrap link";
+var mnemonic = "few syrup cotton accident carry manage social feel nice south vocal tell";

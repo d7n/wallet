@@ -1,1 +1,1 @@
-var mnemonic = "balance armor jazz quote cheap bottom lift brown coconut twist patient purchase";
+var mnemonic = "spare seminar cash rescue own marble diet predict kangaroo unit mammal afraid";

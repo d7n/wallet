@@ -1,1 +1,1 @@
-var mnemonic = "bid nephew sunset what dilemma unfair room prosper butter feature engage marriage";
+var mnemonic = "immense runway off tennis concert insect quiz matter regret heavy wrong finish";

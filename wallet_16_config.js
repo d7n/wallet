@@ -1,1 +1,1 @@
-var mnemonic = "lawn rain rude virtual entry disorder glue sound jelly awful attack rail";
+var mnemonic = "antique crash clarify cradle cattle near adapt depth twist spring renew gossip";

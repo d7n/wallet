@@ -1,1 +1,1 @@
-var mnemonic = "neck betray opinion table start attitude buzz dutch exhibit junk rose bid";
+var mnemonic = "car saddle tray cycle prepare bottom mix million stand accuse bike picnic";

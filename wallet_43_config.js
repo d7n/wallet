@@ -1,1 +1,1 @@
-var mnemonic = "unfair huge security equip flower lock shift cram few renew retire plunge";
+var mnemonic = "output choice bird palm tide sausage multiply utility cargo area swamp outside";

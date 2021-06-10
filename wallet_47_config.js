@@ -1,1 +1,1 @@
-var mnemonic = "inquiry limb strategy assault flight oil search possible roast below glow angry";
+var mnemonic = "common focus fancy erase grit brown course boy festival address obscure quick";

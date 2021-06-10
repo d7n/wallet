@@ -1,1 +1,1 @@
-var mnemonic = "zebra life paper river mom ozone cloth ladder uniform scheme price allow";
+var mnemonic = "kiwi pencil pulse belt faith pledge decrease shove math follow link question";

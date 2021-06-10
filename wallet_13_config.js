@@ -1,1 +1,1 @@
-var mnemonic = "initial salt blind improve expand voyage violin practice anxiety jar ignore obey";
+var mnemonic = "actual require lamp void goddess small youth dust supreme hero depend rabbit";

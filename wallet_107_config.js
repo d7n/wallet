@@ -1,1 +1,1 @@
-var mnemonic = "concert runway west dune junior elbow put weather patrol renew six broccoli";
+var mnemonic = "guitar online hire uncle what impose collect load alley crisp fan stem";

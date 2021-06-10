@@ -1,1 +1,1 @@
-var mnemonic = "awake salute slender tuition install guitar swift holiday draft minute diary squirrel";
+var mnemonic = "verb ticket you right magic angry physical long return visual voice chronic";

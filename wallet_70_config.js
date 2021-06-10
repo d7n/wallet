@@ -1,1 +1,1 @@
-var mnemonic = "sadness situate group joke obvious fun acoustic grain mesh alien vivid notice";
+var mnemonic = "air organ tattoo aim firm call profit increase rain orchard embrace degree";

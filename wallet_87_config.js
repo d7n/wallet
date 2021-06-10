@@ -1,1 +1,1 @@
-var mnemonic = "still cry pass meadow solve tomorrow plunge prosper shallow harvest broom nurse";
+var mnemonic = "trigger prison ranch lunch weird switch wedding choose motor roof assume neutral";

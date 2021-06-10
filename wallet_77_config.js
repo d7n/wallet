@@ -1,1 +1,1 @@
-var mnemonic = "simple furnace general flush wisdom sand uphold lecture tackle little thrive between";
+var mnemonic = "humble elegant output glass skin lion riot weather snow inject cry food";

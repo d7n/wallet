@@ -1,1 +1,1 @@
-var mnemonic = "wave tragic clinic consider alert flight voice ribbon park achieve giggle scorpion";
+var mnemonic = "margin afraid wealth balance since future divorce peasant casino undo life hurry";

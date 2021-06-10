@@ -1,1 +1,1 @@
-var mnemonic = "forum evolve announce decrease rigid today green program order pulp domain clip";
+var mnemonic = "victory elbow siege bench route lemon seek muffin empty host jaguar pig";

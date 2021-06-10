@@ -1,1 +1,1 @@
-var mnemonic = "ceiling second good narrow jar sleep illegal rose enjoy across leaf pool";
+var mnemonic = "echo opinion kite orange virtual prison shy decorate sustain auction inspire march";

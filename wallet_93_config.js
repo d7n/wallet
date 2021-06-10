@@ -1,1 +1,1 @@
-var mnemonic = "verify message paper rescue myself direct film trip now broom coffee jungle";
+var mnemonic = "wonder broken that label six badge wife replace climb property soon settle";

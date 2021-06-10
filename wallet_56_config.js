@@ -1,1 +1,1 @@
-var mnemonic = "sea chunk aunt hundred return tribe monster menu drip economy unknown wasp";
+var mnemonic = "tip patch toss trick bracket scare weekend occur brand high matter glide";

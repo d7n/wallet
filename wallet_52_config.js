@@ -1,1 +1,1 @@
-var mnemonic = "huge cradle observe before rough swarm come suggest noise never ready live";
+var mnemonic = "media replace sibling track subway prefer tonight keep rocket already alarm render";
