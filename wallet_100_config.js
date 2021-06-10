@@ -1,1 +1,1 @@
-var mnemonic = "hockey burger adapt budget situate describe walnut oil scrub group copy stable";
+var mnemonic = "turkey stem over fortune correct spike ahead tip pencil goose exotic hold";

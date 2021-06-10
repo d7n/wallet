@@ -1,1 +1,1 @@
-var mnemonic = "make foot obey brush agree galaxy shed blush know glory fee umbrella";
+var mnemonic = "dad finger window car tooth unfold argue bring reveal square only grid";

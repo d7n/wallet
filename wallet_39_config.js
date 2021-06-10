@@ -1,1 +1,1 @@
-var mnemonic = "illness duck where clarify surprise critic certain fault target cup farm deputy";
+var mnemonic = "company grocery eager spatial bird dinner regret february soda owner pull dance";

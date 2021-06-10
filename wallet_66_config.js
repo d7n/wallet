@@ -1,1 +1,1 @@
-var mnemonic = "solar vicious area giggle aware amazing media night business ring duck bird";
+var mnemonic = "drift cereal object link dwarf secret obey plunge advice insect poet under";

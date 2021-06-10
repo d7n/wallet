@@ -1,1 +1,1 @@
-var mnemonic = "forward aisle spy present return unusual boost mushroom toast glad fitness mind";
+var mnemonic = "enjoy scare bird sketch pony salon reform disagree drum awful border round";

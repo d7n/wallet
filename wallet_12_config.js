@@ -1,1 +1,1 @@
-var mnemonic = "grocery able trouble infant giant answer dwarf cabin exile oppose peace around";
+var mnemonic = "session cereal bring close leg produce magnet gift struggle story drop claim";

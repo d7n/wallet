@@ -1,1 +1,1 @@
-var mnemonic = "access federal leaf state few few live spoon donkey judge tower lemon";
+var mnemonic = "eternal mixture nuclear pear sorry choose have hurt address finish zebra barrel";

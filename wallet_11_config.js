@@ -1,1 +1,1 @@
-var mnemonic = "feed crane badge talk great license melt purity fatal mansion year fossil";
+var mnemonic = "bench mechanic hour also opera column rally essence liar swallow narrow master";

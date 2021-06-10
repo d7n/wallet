@@ -1,1 +1,1 @@
-var mnemonic = "elevator unhappy finger permit swim sorry choose sheriff labor stock duck guard";
+var mnemonic = "stay soldier concert leg enact square fly situate garden badge liar melody";

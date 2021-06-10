@@ -1,1 +1,1 @@
-var mnemonic = "hybrid bicycle oil since resist biology age reduce acquire supply palm any";
+var mnemonic = "filter rural cereal dumb robust slender pumpkin hire retire intact wine garden";

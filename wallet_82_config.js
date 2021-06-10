@@ -1,1 +1,1 @@
-var mnemonic = "alter priority dry crowd unknown mansion swallow abstract nothing appear bulk galaxy";
+var mnemonic = "soap salmon amused blur club need debate sibling rescue real charge twelve";

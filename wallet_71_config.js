@@ -1,1 +1,1 @@
-var mnemonic = "valley copper kitten slender weapon disease list rhythm camera reduce kangaroo second";
+var mnemonic = "clean grunt guard drill narrow hover wisdom mechanic cupboard north ball stick";

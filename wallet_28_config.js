@@ -1,1 +1,1 @@
-var mnemonic = "lunar crunch bronze truck initial ozone gate inherit walk aunt alpha priority";
+var mnemonic = "you drum build pattern good abandon moon own urge notice lion globe";

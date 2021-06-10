@@ -1,1 +1,1 @@
-var mnemonic = "copper claim civil subject shift scorpion goose inhale surround antenna dream ethics";
+var mnemonic = "calm often valve dove purchase senior celery either original ritual stuff stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "display surge uphold fire embody quit fade little first trend sign weasel";
+var mnemonic = "citizen immense exchange idle youth kiwi phrase fever expose horror scan fork";

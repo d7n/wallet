@@ -1,1 +1,1 @@
-var mnemonic = "just inform idea tobacco remind mouse orient camera horse slim better misery";
+var mnemonic = "fancy cabbage rebuild field upgrade market frog squirrel oven another over hip";

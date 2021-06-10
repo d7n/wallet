@@ -1,1 +1,1 @@
-var mnemonic = "seven love super shock canoe moral nurse hybrid cruel diamond actress trumpet";
+var mnemonic = "arena century jewel when anchor august slot apple pledge left roof glove";

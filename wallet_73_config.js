@@ -1,1 +1,1 @@
-var mnemonic = "tone voyage teach alcohol math mother rich frown riot bench olympic ketchup";
+var mnemonic = "proud actress glory burden moment local meat warm merit dinner enemy begin";

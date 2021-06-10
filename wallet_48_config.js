@@ -1,1 +1,1 @@
-var mnemonic = "raw point dog ship permit acid network now beach junk century tone";
+var mnemonic = "usual pink odor bubble stock suspect spend bunker image husband rack scrub";

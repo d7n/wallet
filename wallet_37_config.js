@@ -1,1 +1,1 @@
-var mnemonic = "stuff toilet snow sphere spell orchard series kingdom dragon mountain chaos heart";
+var mnemonic = "silent decade issue segment educate region zone save stuff animal damp lunch";

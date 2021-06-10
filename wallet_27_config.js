@@ -1,1 +1,1 @@
-var mnemonic = "rate bronze east wheel degree category wrestle air erupt body enter vacuum";
+var mnemonic = "joy public august crystal suffer puppy smoke subway use place teach test";

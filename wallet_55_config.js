@@ -1,1 +1,1 @@
-var mnemonic = "shop dad black conduct key roof inner tackle anxiety lion staff rose";
+var mnemonic = "invite build sign empower thrive shoe twist company reduce range pitch core";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo tumble crawl economy absurd ancient first expect mail fantasy sea risk";
+var mnemonic = "utility ribbon electric mad dutch grass stairs together gift strike will scatter";

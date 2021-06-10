@@ -1,1 +1,1 @@
-var mnemonic = "hurdle wheat two museum sad immense horn gallery coast rent zebra misery";
+var mnemonic = "morning company side network nut accident bounce fabric today category gloom awful";

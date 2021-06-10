@@ -1,1 +1,1 @@
-var mnemonic = "gold solid tube bitter crawl note snap please another wolf biology mule";
+var mnemonic = "length differ safe modify gospel spawn always huge choose ship assault punch";

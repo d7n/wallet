@@ -1,1 +1,1 @@
-var mnemonic = "echo expect bachelor tooth casino grab game use evidence dragon joke gorilla";
+var mnemonic = "illegal afford stereo birth rude offer bicycle velvet eternal monkey inflict spray";

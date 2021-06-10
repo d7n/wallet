@@ -1,1 +1,1 @@
-var mnemonic = "catalog joke speak bid access lonely weekend lens wedding tell observe hire";
+var mnemonic = "theory absurd video rough van mirror harvest warm head winter plastic juice";

@@ -1,1 +1,1 @@
-var mnemonic = "fly lazy dust twist stove want icon draft hole tape drill frozen";
+var mnemonic = "amazing mammal impose soda park program hotel pulse resemble miracle edge judge";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile cherry ocean ginger victory output sponsor cube walk vehicle box security";
+var mnemonic = "account west issue recycle duck engine scheme will hope stove hold trap";

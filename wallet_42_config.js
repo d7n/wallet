@@ -1,1 +1,1 @@
-var mnemonic = "alpha joy glare round ten often celery palm wrestle order enforce useless";
+var mnemonic = "stage upset ski buddy praise room delay view purity jacket marble stadium";

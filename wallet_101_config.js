@@ -1,1 +1,1 @@
-var mnemonic = "knock stand clog scorpion frozen direct gossip refuse noble welcome never soap";
+var mnemonic = "wink duck exhaust you vehicle alien lady rigid stereo budget connect current";

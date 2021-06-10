@@ -1,1 +1,1 @@
-var mnemonic = "black interest ginger birth road clean crush maze awake crouch net mail";
+var mnemonic = "name cement reopen report weasel federal off cereal prosper trust smoke asthma";

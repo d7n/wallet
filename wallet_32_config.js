@@ -1,1 +1,1 @@
-var mnemonic = "door staff used medal vault dose road kingdom spirit rule tackle embark";
+var mnemonic = "struggle core toe just boring dove boring mesh engage laugh identify legal";

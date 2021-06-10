@@ -1,1 +1,1 @@
-var mnemonic = "width opinion trumpet face milk custom paddle view broccoli hockey suggest ski";
+var mnemonic = "skull obvious orient same lady hen father chronic hunt meat clip walk";

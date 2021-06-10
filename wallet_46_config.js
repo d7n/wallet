@@ -1,1 +1,1 @@
-var mnemonic = "bulk nothing extend dolphin left gospel relief limit orange globe shiver deny";
+var mnemonic = "expand leisure rather cry dice cactus cereal timber public glory dance beach";

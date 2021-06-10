@@ -1,1 +1,1 @@
-var mnemonic = "sure regret round midnight arrange useless season memory cruise stay peanut velvet";
+var mnemonic = "vocal action skirt knife page elephant error verify urban world decrease embody";

@@ -1,1 +1,1 @@
-var mnemonic = "wet kite slush what kid orphan paper elephant still online bottom prison";
+var mnemonic = "home give carpet movie history cancel when shiver manage wink nominee company";

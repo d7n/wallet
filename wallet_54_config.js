@@ -1,1 +1,1 @@
-var mnemonic = "illegal stock burden album glad achieve hazard lava power neglect check empty";
+var mnemonic = "because multiply still identify fatal ozone fix unable grocery actress pen license";

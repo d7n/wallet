@@ -1,1 +1,1 @@
-var mnemonic = "misery crawl brick rescue slow decorate soup never green cool save buzz";
+var mnemonic = "shadow body tree sausage kidney step twelve output upset much banana bachelor";

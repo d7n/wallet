@@ -1,1 +1,1 @@
-var mnemonic = "oak distance clog abstract chase wife tiny frost ask seat window seed";
+var mnemonic = "sorry baby orphan then media trade novel flower penalty donate flash write";

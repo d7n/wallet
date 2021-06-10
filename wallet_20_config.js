@@ -1,1 +1,1 @@
-var mnemonic = "chuckle battle nest arrive right avoid simple gaze amazing release team arrow";
+var mnemonic = "drill gesture make midnight connect license city improve amount host absorb coast";

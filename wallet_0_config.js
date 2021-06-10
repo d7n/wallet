@@ -1,1 +1,1 @@
-var mnemonic = "mansion syrup bike anger member glance cycle soccer night affair quick pepper";
+var mnemonic = "lounge learn toward dwarf wine smile slight grunt render arrow school innocent";

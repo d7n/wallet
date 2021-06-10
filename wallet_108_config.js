@@ -1,1 +1,1 @@
-var mnemonic = "jungle cliff swim record unfold panda wool title ahead gate onion fury";
+var mnemonic = "rifle club truth topic garbage thrive engage estate fetch loan chunk cruise";

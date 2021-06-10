@@ -1,1 +1,1 @@
-var mnemonic = "ghost exclude slender face elegant shell vehicle guard occur asset shell beyond";
+var mnemonic = "jar dream update evil letter rapid ocean wing nephew jar alter decide";

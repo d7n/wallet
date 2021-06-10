@@ -1,1 +1,1 @@
-var mnemonic = "square text music grape royal solution matrix shove physical night syrup major";
+var mnemonic = "indoor educate right rocket surface post bench arctic giant circle knife hair";

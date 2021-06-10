@@ -1,1 +1,1 @@
-var mnemonic = "friend satoshi wear bind donkey panic aisle toast garbage live neither endless";
+var mnemonic = "depend then young project stick small fork unaware cook viable hero horse";

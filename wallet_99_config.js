@@ -1,1 +1,1 @@
-var mnemonic = "wife hard message comic task option turkey sheriff primary spider craft detect";
+var mnemonic = "source recycle winner library hold crime replace system aunt soldier employ elegant";

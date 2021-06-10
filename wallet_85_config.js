@@ -1,1 +1,1 @@
-var mnemonic = "hero above aunt spread width pool dinner stick obvious winner opinion lion";
+var mnemonic = "lecture pig discover depend fabric typical jealous elegant mobile focus thunder bonus";

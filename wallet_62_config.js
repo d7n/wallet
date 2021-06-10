@@ -1,1 +1,1 @@
-var mnemonic = "pluck caught dust burst hover kangaroo harvest expect oil item favorite print";
+var mnemonic = "inhale crunch teach horn pink buffalo infant park ball upon medal top";

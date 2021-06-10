@@ -1,1 +1,1 @@
-var mnemonic = "tank feature supply wine armor shoot book primary make load unfair recycle";
+var mnemonic = "rate away accident raven potato discover sting slam believe earn service unable";

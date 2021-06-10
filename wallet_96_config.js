@@ -1,1 +1,1 @@
-var mnemonic = "impulse spirit guitar any spend nasty safe float rough cluster regret absurd";
+var mnemonic = "twice pluck useful trap kite truth stock ketchup easy noodle combine share";

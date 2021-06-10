@@ -1,1 +1,1 @@
-var mnemonic = "travel pitch always already motor number hire install junior purpose budget forum";
+var mnemonic = "thing label light just uphold mask whale amused echo bag fire enough";

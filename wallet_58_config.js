@@ -1,1 +1,1 @@
-var mnemonic = "century ability cause fox trap rule announce zoo impulse october chat slender";
+var mnemonic = "speak mixed soccer gun mad letter device kind nuclear prefer bid secret";

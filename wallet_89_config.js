@@ -1,1 +1,1 @@
-var mnemonic = "circle merge market movie stick question forward rebel runway across bullet crouch";
+var mnemonic = "law deny frame basket allow slow uniform midnight tongue gasp pyramid captain";

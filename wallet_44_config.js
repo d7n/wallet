@@ -1,1 +1,1 @@
-var mnemonic = "original write sniff into dutch once regular advice invite quality slight tuition";
+var mnemonic = "what remember stone often adapt tell target news athlete segment horse since";

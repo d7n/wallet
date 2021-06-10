@@ -1,1 +1,1 @@
-var mnemonic = "cost cream valve kick cloth change refuse method ski poverty fantasy funny";
+var mnemonic = "next jump swear reunion omit theory dilemma front proof lawn horse silver";

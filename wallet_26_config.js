@@ -1,1 +1,1 @@
-var mnemonic = "wait uncle cabbage excuse beef render lunch hood lazy achieve pen hawk";
+var mnemonic = "reunion tuition vibrant car lottery mansion twice raw resemble together fox velvet";

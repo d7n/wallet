@@ -1,1 +1,1 @@
-var mnemonic = "angry spawn book man claw accuse era exchange destroy copy main lizard";
+var mnemonic = "rabbit salt find tuition game swap welcome mystery layer elegant extend enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "remember bless neutral stem rifle left alpha stomach logic bullet settle estate";
+var mnemonic = "purpose couch wreck visual agent category humor deer crumble visual dentist learn";

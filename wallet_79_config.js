@@ -1,1 +1,1 @@
-var mnemonic = "bonus moon worth nose school patient mix source right mechanic distance turtle";
+var mnemonic = "dinosaur away replace item chalk about arch group double regret gaze adapt";

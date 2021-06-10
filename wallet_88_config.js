@@ -1,1 +1,1 @@
-var mnemonic = "parent coffee gas enter present swing raise coyote away apology forum pretty";
+var mnemonic = "orbit trash radar margin curve gesture treat unknown vibrant anchor mosquito wrong";

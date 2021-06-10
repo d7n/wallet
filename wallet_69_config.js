@@ -1,1 +1,1 @@
-var mnemonic = "arrow science steel impose retire miss goddess chuckle vintage lawsuit crop orchard";
+var mnemonic = "response assume diesel solve raven onion brave marble remember deputy pear rain";

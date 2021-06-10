@@ -1,1 +1,1 @@
-var mnemonic = "ostrich claw palm annual soul upon across deposit horn demise fuel curious";
+var mnemonic = "banner vault square away depend buffalo awesome clap caught fox egg stuff";

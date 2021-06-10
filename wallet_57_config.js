@@ -1,1 +1,1 @@
-var mnemonic = "marble ridge later seat marine eagle extend height dish hair language recycle";
+var mnemonic = "science erode street horse spy one depth round muscle attend clever joke";

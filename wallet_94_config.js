@@ -1,1 +1,1 @@
-var mnemonic = "print step cloud laugh refuse tissue drama adjust expect question audit predict";
+var mnemonic = "type mesh pistol cart digital cereal mail antique autumn sting embrace avocado";

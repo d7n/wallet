@@ -1,1 +1,1 @@
-var mnemonic = "robust citizen tiger rack meadow gold trash effort powder valley merry eager";
+var mnemonic = "mutual example middle scan gaze original spice offer hazard glory consider occur";

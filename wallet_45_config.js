@@ -1,1 +1,1 @@
-var mnemonic = "ranch circle parrot color fossil cliff tool wheat twin office pact monitor";
+var mnemonic = "sight receive caught hospital purse chaos satisfy tube glide artwork sleep lucky";

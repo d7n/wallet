@@ -1,1 +1,1 @@
-var mnemonic = "ozone shoulder night gadget legal flat motion certain under theme frown cave";
+var mnemonic = "forum dial whisper clay middle mail fault hold seminar sword verify bachelor";

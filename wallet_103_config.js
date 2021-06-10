@@ -1,1 +1,1 @@
-var mnemonic = "use truly range bargain cousin half fox thunder car raccoon woman drink";
+var mnemonic = "oppose hockey seminar bachelor mushroom net twice slab cargo frozen betray real";

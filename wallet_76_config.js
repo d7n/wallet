@@ -1,1 +1,1 @@
-var mnemonic = "bag pool busy hawk hour unknown world certain permit index someone weekend";
+var mnemonic = "gap thing tobacco other oppose scare world coin chuckle science myth soda";

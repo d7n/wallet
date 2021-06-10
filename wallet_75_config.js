@@ -1,1 +1,1 @@
-var mnemonic = "attend army loud news oval mosquito corn flash galaxy flower harvest surround";
+var mnemonic = "vocal misery famous slot second resist repeat example ring grant burst route";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter print panel chase able glance depart ozone mix crop group build";
+var mnemonic = "hedgehog moon leader crane usage matrix glove rail picnic cost upper labor";

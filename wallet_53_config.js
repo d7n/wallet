@@ -1,1 +1,1 @@
-var mnemonic = "mango food gorilla push predict coast lift emerge pattern this february bag";
+var mnemonic = "balance nothing approve crew cloth typical reduce dutch pig edge ring wonder";

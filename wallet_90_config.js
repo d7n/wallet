@@ -1,1 +1,1 @@
-var mnemonic = "expect bag planet table wasp reduce powder stable test switch odor sadness";
+var mnemonic = "awful urban brain bid tomato weasel comfort anger rain shiver mechanic flee";

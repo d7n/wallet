@@ -1,1 +1,1 @@
-var mnemonic = "apology category decade hour camera wealth chest amused fluid hurdle display ride";
+var mnemonic = "fix blossom unaware tuition private high giant truck fire skirt lottery lecture";

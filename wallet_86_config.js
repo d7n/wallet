@@ -1,1 +1,1 @@
-var mnemonic = "nut dose neck settle sweet utility cluster typical potato unable undo assault";
+var mnemonic = "today garage race crazy ceiling worry version august dinner orphan spawn cross";

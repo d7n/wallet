@@ -1,1 +1,1 @@
-var mnemonic = "odor agent canvas coyote mass luggage funny quiz try divide dream abandon";
+var mnemonic = "when end cruel arrange model clip bleak chaos lobster skirt van hundred";

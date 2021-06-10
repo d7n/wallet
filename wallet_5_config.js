@@ -1,1 +1,1 @@
-var mnemonic = "tenant nut fashion desert stable giraffe rose vacuum name pistol wash artist";
+var mnemonic = "project tenant music invest demand kitchen riot dinosaur share actor borrow next";

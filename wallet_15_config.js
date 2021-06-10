@@ -1,1 +1,1 @@
-var mnemonic = "ankle april guess include dynamic purpose sight next image dignity enforce hunt";
+var mnemonic = "merge crash village silk broken catalog grain panda fix diagram mushroom remember";

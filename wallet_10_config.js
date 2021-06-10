@@ -1,1 +1,1 @@
-var mnemonic = "final control can squeeze apple dirt book evil language veteran injury depend";
+var mnemonic = "fossil category cupboard luxury cruise solution battle giraffe solution extend derive mushroom";

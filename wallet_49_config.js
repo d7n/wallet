@@ -1,1 +1,1 @@
-var mnemonic = "buffalo river seven reveal razor fabric pear notable direct accident dizzy hotel";
+var mnemonic = "neck update interest runway card resist sight photo coast silk song depth";

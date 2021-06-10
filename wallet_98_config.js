@@ -1,1 +1,1 @@
-var mnemonic = "transfer can lend crawl note cube quality volume gain kidney rib rug";
+var mnemonic = "spice trial execute cargo panel borrow change nuclear stamp roast move actor";

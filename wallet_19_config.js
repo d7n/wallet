@@ -1,1 +1,1 @@
-var mnemonic = "inject black palm swing slam battle senior genre spell close type pulse";
+var mnemonic = "unlock icon slush popular wheel pelican lens cancel gloom over laundry oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "captain key sick essence burst indicate chat legend type radio want rebel";
+var mnemonic = "expire decorate poem impulse resource gift cigar hope spell feature frown foster";

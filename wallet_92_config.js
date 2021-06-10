@@ -1,1 +1,1 @@
-var mnemonic = "noise coffee typical bubble miss emerge timber crew stick hazard alone when";
+var mnemonic = "move upset wisdom fever identify piano used enforce very bonus flip goddess";

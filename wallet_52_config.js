@@ -1,1 +1,1 @@
-var mnemonic = "issue reflect record burst health donate talent uncle educate cricket salon village";
+var mnemonic = "few bullet clay frequent loud balance dog crane office record toss fury";

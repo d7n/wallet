@@ -1,1 +1,1 @@
-var mnemonic = "seed stool auction estate tell garbage wealth pupil misery scout opinion chair";
+var mnemonic = "catch biology addict peace there girl art inhale index pudding reform buzz";

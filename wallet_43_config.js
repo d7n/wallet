@@ -1,1 +1,1 @@
-var mnemonic = "awake leg olive badge say impose slow jazz horn virtual soul hurry";
+var mnemonic = "dignity adjust dilemma argue body actor tape spray moon ring erosion artwork";

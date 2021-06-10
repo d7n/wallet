@@ -1,1 +1,1 @@
-var mnemonic = "raise teach tide trial agent market invite pulse fortune steak rocket mistake";
+var mnemonic = "afraid negative trade trash choose must logic diamond evoke spawn grunt outer";

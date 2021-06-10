@@ -1,1 +1,1 @@
-var mnemonic = "series donor outdoor garage pelican cattle collect test hood frost idle wife";
+var mnemonic = "brisk popular divorce upgrade wide monitor ahead caution use frozen mutual liar";

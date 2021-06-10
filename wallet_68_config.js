@@ -1,1 +1,1 @@
-var mnemonic = "poet episode execute envelope talk diet lady label picnic debris please slide";
+var mnemonic = "hawk post boss process menu rally brass angry retreat note nurse trim";

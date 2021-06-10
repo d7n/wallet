@@ -1,1 +1,1 @@
-var mnemonic = "crumble kit profit poverty never barrel group beauty slam record build burger";
+var mnemonic = "describe debris hope view permit bulk alley joke equal story average napkin";

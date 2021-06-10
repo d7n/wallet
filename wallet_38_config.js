@@ -1,1 +1,1 @@
-var mnemonic = "sudden rebuild swap music possible begin sample west atom secret fruit found";
+var mnemonic = "sing visual excess drink ensure humor trouble exhaust recipe trick knock camera";
