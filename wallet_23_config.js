@@ -1,1 +1,1 @@
-var mnemonic = "split kiwi marriage another erase all vendor critic learn ginger claim vanish";
+var mnemonic = "trade repeat source victory intact human wrestle tennis sport battle suit deliver";

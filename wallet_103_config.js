@@ -1,1 +1,1 @@
-var mnemonic = "obvious soap corn project forum cat garbage puzzle jaguar gloom distance fresh";
+var mnemonic = "rate later thunder opinion dolphin assist immune book hire bind alter skirt";

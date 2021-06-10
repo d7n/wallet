@@ -1,1 +1,1 @@
-var mnemonic = "patient snap coyote wood category orient bless measure course tiny garage pig";
+var mnemonic = "kidney mask tower royal hazard object also glad code worry host blast";

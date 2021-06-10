@@ -1,1 +1,1 @@
-var mnemonic = "toy blast analyst cabbage rapid hope armed tower lab unfold muffin dune";
+var mnemonic = "salmon review put exile prefer dad bird glare unaware shoe predict uncle";

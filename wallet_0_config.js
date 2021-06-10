@@ -1,1 +1,1 @@
-var mnemonic = "frost ask east basic hybrid glimpse long play history plug prosper blame";
+var mnemonic = "visit capital scheme unfold own loyal nominee hobby kite again depart nominee";

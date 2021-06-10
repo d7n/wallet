@@ -1,1 +1,1 @@
-var mnemonic = "explain noodle early cat dwarf blue certain advance assist proud quarter cry";
+var mnemonic = "shaft coral viable oak moment source one soft discover shadow jump quiz";

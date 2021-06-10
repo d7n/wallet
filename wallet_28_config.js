@@ -1,1 +1,1 @@
-var mnemonic = "slow mask buddy nurse volcano picture motor barely bonus produce deputy penalty";
+var mnemonic = "victory hospital race old police insane blade eternal disease forward borrow aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "help portion section round sense flavor almost icon combine deal coach giraffe";
+var mnemonic = "isolate sugar worry affair like ready prepare swap embark exhibit glow caution";

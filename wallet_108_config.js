@@ -1,1 +1,1 @@
-var mnemonic = "tray pen rifle fish labor erosion angle flower exotic trick tank party";
+var mnemonic = "clay object tooth utility penalty oyster mistake vast eight argue planet middle";

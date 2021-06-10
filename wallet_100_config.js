@@ -1,1 +1,1 @@
-var mnemonic = "unique public keen cream left dentist gadget caught wasp boring auction orange";
+var mnemonic = "movie share stereo forward champion lesson memory tobacco awkward spray sniff ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure evoke combine relax gate work become nephew clinic absorb cannon predict";
+var mnemonic = "inch interest gasp noise hole chair garlic wool agree grocery fit copy";

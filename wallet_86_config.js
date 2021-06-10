@@ -1,1 +1,1 @@
-var mnemonic = "elder disease target tackle scout behave funny laptop recycle faculty crowd soldier";
+var mnemonic = "entry salad bitter afraid cancel ring lesson extra nation useful payment fog";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin clock argue finish stock nose narrow puppy end cigar metal cheap";
+var mnemonic = "banana immune focus earn pond victory involve hub pioneer lab mixed screen";

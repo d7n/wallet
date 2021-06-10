@@ -1,1 +1,1 @@
-var mnemonic = "choose moral program direct age alert sister night excuse inflict rebuild sudden";
+var mnemonic = "portion gravity manage truck scissors cattle hello valley ritual trigger actor example";

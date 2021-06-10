@@ -1,1 +1,1 @@
-var mnemonic = "army pride suggest famous liberty hundred cause divide naive state drop innocent";
+var mnemonic = "brisk crucial ski movie scale awkward blossom live seed reason squirrel birth";

@@ -1,1 +1,1 @@
-var mnemonic = "glare credit senior will drama armed loop child boss rail river waste";
+var mnemonic = "park swift never swear gorilla giant stem unknown frost measure citizen purchase";

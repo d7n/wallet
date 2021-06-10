@@ -1,1 +1,1 @@
-var mnemonic = "tape slice build burden pride end trick great slogan shove wish wrong";
+var mnemonic = "left shoe distance zebra click until shaft pigeon license lens sock gown";

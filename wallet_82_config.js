@@ -1,1 +1,1 @@
-var mnemonic = "alley ripple error pitch noble leaf wonder first quality hurdle mansion pilot";
+var mnemonic = "swear certain suit nominee around media shrimp actress pitch skate undo end";

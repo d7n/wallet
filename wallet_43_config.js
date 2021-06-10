@@ -1,1 +1,1 @@
-var mnemonic = "alarm client aerobic select rail desk gorilla reveal repair panel olympic together";
+var mnemonic = "vicious dawn typical goat setup avocado ice wheel whip bacon case enrich";

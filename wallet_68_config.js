@@ -1,1 +1,1 @@
-var mnemonic = "mimic impact face bind immense remain strike couple inner fox mechanic trophy";
+var mnemonic = "security unique pill someone portion great inquiry brave soldier file draw quote";

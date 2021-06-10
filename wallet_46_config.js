@@ -1,1 +1,1 @@
-var mnemonic = "ethics shallow orchard person title survey nerve train firm habit rain devote";
+var mnemonic = "century sniff snow ring tornado repair federal virtual move sand property utility";

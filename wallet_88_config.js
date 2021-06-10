@@ -1,1 +1,1 @@
-var mnemonic = "oval select music measure gesture scrub soft unknown candy banana height match";
+var mnemonic = "indoor capable twelve ozone fox taste wet dumb during trash burden protect";

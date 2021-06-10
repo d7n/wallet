@@ -1,1 +1,1 @@
-var mnemonic = "kitten invite enjoy chaos expose road tone soft noodle sad useful level";
+var mnemonic = "side dog dry decide total medal tomato digital bracket dash despair consider";

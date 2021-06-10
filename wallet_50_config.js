@@ -1,1 +1,1 @@
-var mnemonic = "canvas vanish know lemon shallow emotion subway glide keen brush flight farm";
+var mnemonic = "lumber camera iron size mother winter lift digital step magic canvas praise";

@@ -1,1 +1,1 @@
-var mnemonic = "cup eye mechanic season error blush general ridge element medal sun enforce";
+var mnemonic = "business shadow dose pair frozen grid shaft crowd path october divide punch";

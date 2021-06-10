@@ -1,1 +1,1 @@
-var mnemonic = "sand hen field fee lend ski remember dolphin zero basic category horse";
+var mnemonic = "nuclear drip close chimney invest ethics glow else layer alcohol inmate now";

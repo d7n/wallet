@@ -1,1 +1,1 @@
-var mnemonic = "crack canal kingdom worth meat wait viable raccoon echo tank tonight will";
+var mnemonic = "breeze large ranch where improve mandate evil picnic casino material orphan symbol";

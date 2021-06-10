@@ -1,1 +1,1 @@
-var mnemonic = "error ride fat muscle number subway clerk valley champion describe cigar adapt";
+var mnemonic = "scorpion finger erase must fame scatter lesson volume seed reject gap hint";

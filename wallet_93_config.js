@@ -1,1 +1,1 @@
-var mnemonic = "retire intact teach radio impose ask reform sentence cricket day embark there";
+var mnemonic = "capable muffin best point gather hover unveil absurd nominee tobacco humble cricket";

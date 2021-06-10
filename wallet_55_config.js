@@ -1,1 +1,1 @@
-var mnemonic = "duck parade ethics dish latin coconut acid double sustain rent glide pyramid";
+var mnemonic = "ridge goddess olive famous electric opera normal giant bracket brown team diary";

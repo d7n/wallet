@@ -1,1 +1,1 @@
-var mnemonic = "prefer feed green year crime two wife submit soft rebuild novel organ";
+var mnemonic = "stone length opinion fetch legal zone tray senior lake season sense brother";

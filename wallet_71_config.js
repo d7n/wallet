@@ -1,1 +1,1 @@
-var mnemonic = "tortoise friend guitar sausage blast state flee candy frozen album portion cricket";
+var mnemonic = "step drill plug juice fatigue double sustain rib crystal aerobic notable fury";

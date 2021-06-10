@@ -1,1 +1,1 @@
-var mnemonic = "bus maze trip loop parrot human burger tomorrow problem fantasy palace art";
+var mnemonic = "hidden eye say grain point rebuild feed popular market wasp cycle luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "sea list orchard people sausage student kid vessel royal vanish chief fresh";
+var mnemonic = "spatial crumble coral kind ecology electric galaxy agree anger castle twenty faith";

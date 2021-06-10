@@ -1,1 +1,1 @@
-var mnemonic = "thing abstract upset fluid vanish patient audit dose climb east gallery certain";
+var mnemonic = "arrange fresh short betray mixture desert tissue tuna marble swift measure celery";

@@ -1,1 +1,1 @@
-var mnemonic = "whip tornado near jazz album sound used thrive clay review onion sheriff";
+var mnemonic = "enough cattle jungle rebel stay napkin material build change below audit team";

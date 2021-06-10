@@ -1,1 +1,1 @@
-var mnemonic = "peace mimic program plug want process castle moral name add aunt orphan";
+var mnemonic = "duty front boy traffic decade desert cargo devote kid heavy alarm ghost";

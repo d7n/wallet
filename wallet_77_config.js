@@ -1,1 +1,1 @@
-var mnemonic = "prize over random brief ribbon cover dilemma soft warrior little crouch hint";
+var mnemonic = "pumpkin unfold impact cycle enemy human thing gentle exclude scene arrive silver";

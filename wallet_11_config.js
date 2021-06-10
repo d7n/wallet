@@ -1,1 +1,1 @@
-var mnemonic = "frown method dove idle neck arm wave heart they portion educate when";
+var mnemonic = "history eternal harbor matrix insane stable rally gather guard airport bench random";

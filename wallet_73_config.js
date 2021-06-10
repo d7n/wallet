@@ -1,1 +1,1 @@
-var mnemonic = "vague arrest volume mention abuse lens baby park problem slim similar life";
+var mnemonic = "pupil orchard salt opinion pretty hub pattern spike harvest little fatal summer";

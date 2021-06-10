@@ -1,1 +1,1 @@
-var mnemonic = "fix earn alien volume left question game reason alarm van solid because";
+var mnemonic = "dial lend visual okay grant october salt describe bulk sell section soup";

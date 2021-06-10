@@ -1,1 +1,1 @@
-var mnemonic = "fat jar depth deal broken shift humor point tray begin skirt luggage";
+var mnemonic = "rely disease pudding dilemma good diary daring draw anchor fall essence gloom";

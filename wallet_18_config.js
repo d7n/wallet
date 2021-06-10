@@ -1,1 +1,1 @@
-var mnemonic = "verb ensure glass gentle ten say sweet nut bacon wheat avoid enroll";
+var mnemonic = "fiscal rival artefact discover afraid amazing mistake treat quantum artist come original";

@@ -1,1 +1,1 @@
-var mnemonic = "gym heavy bless believe cable mule milk age best dignity insect poet";
+var mnemonic = "tomato payment female asthma cheese arrange alien flavor warfare deposit sphere hover";

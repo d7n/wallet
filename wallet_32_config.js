@@ -1,1 +1,1 @@
-var mnemonic = "bottom peace void future position power edge flavor senior bleak picnic egg";
+var mnemonic = "stadium army strong fat match demand host sleep laugh fall umbrella teach";

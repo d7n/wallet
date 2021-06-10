@@ -1,1 +1,1 @@
-var mnemonic = "network culture curve dizzy salon soul hurdle tube gadget mosquito bleak lock";
+var mnemonic = "fee because match install fame track life donate medal avocado limb satisfy";

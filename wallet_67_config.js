@@ -1,1 +1,1 @@
-var mnemonic = "outdoor jealous bamboo song vibrant end that abuse depth shaft cute virus";
+var mnemonic = "arrow flock giraffe boss estate team agree robot vivid toilet clutch dice";

@@ -1,1 +1,1 @@
-var mnemonic = "coral obtain picture stick fly fat jaguar whisper purpose menu clip oil";
+var mnemonic = "random elite nephew reflect struggle width wear culture cloud boss security card";

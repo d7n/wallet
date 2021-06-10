@@ -1,1 +1,1 @@
-var mnemonic = "edge leader embark issue drive purchase bring post afraid mixed clock globe";
+var mnemonic = "aerobic shy beach trend shop quantum edit vintage soup chuckle pelican sadness";

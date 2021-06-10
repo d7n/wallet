@@ -1,1 +1,1 @@
-var mnemonic = "churn fish again mystery fiber grunt liar traffic cage hood step level";
+var mnemonic = "argue pulp pretty tip fringe gold educate family digital say joy bright";

@@ -1,1 +1,1 @@
-var mnemonic = "call effort abstract cradle frog man gown evoke federal govern injury trap";
+var mnemonic = "seven danger original kiss photo wrestle coast sponsor tornado favorite dove renew";

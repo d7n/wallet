@@ -1,1 +1,1 @@
-var mnemonic = "wheat victory utility evil during minimum train engine glory course media term";
+var mnemonic = "enhance provide interest choose hill detail reflect huge desk nothing child bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny detail asset connect slim grief pull sister village safe explain foil";
+var mnemonic = "notice ostrich oppose check dilemma pave circle because state member blossom pulse";

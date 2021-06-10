@@ -1,1 +1,1 @@
-var mnemonic = "arctic beef urban detect quantum author train come oyster nest bottom glimpse";
+var mnemonic = "pole stumble shove will guide hello confirm trumpet elbow any supply snap";

@@ -1,1 +1,1 @@
-var mnemonic = "coast kick nest first relief cotton upon moon network together liberty tennis";
+var mnemonic = "apart stadium goddess harbor notable double miss open identify remove palm clean";

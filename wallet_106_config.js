@@ -1,1 +1,1 @@
-var mnemonic = "grant depart scare gauge street swift clap twelve thrive liquid couch right";
+var mnemonic = "solution toy artist sell answer city coast scout grape light comic order";

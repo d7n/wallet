@@ -1,1 +1,1 @@
-var mnemonic = "figure fiber powder elegant sweet tail cart task mother nerve update very";
+var mnemonic = "alarm reveal coil unit patrol cross spoon risk square quiz bean hole";

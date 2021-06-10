@@ -1,1 +1,1 @@
-var mnemonic = "hammer hamster artefact cake nature say various truth father person journey town";
+var mnemonic = "neck brand wait pyramid kind ancient transfer put book goddess mushroom appear";

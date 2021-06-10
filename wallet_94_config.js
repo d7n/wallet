@@ -1,1 +1,1 @@
-var mnemonic = "pistol galaxy name inherit erase web dizzy ramp about else warrior pass";
+var mnemonic = "explain celery pizza cake mechanic mistake embrace february picture exist index protect";

@@ -1,1 +1,1 @@
-var mnemonic = "humble balcony fold artwork busy fox scheme glass ramp call image junior";
+var mnemonic = "custom flower salon topic rifle describe track hawk woman analyst just miracle";

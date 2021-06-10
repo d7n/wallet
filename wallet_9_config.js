@@ -1,1 +1,1 @@
-var mnemonic = "school sentence damage answer novel hazard effort whip bus lyrics garlic column";
+var mnemonic = "hen tomorrow benefit squeeze arrow chunk diamond giant magnet toddler fire trial";

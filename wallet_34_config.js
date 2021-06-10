@@ -1,1 +1,1 @@
-var mnemonic = "palace border ankle oblige happy close rose paddle umbrella quality success human";
+var mnemonic = "nerve dignity fuel urge explain alter cross broken angry buffalo swing foil";

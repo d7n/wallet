@@ -1,1 +1,1 @@
-var mnemonic = "cake notice razor scrap pistol aspect unknown genius spin place order caught";
+var mnemonic = "ask silent ski globe series ability ranch decide invite acoustic hero matter";

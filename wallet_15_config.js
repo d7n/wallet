@@ -1,1 +1,1 @@
-var mnemonic = "sun regret shell welcome garlic cargo whip jeans robust current defy fun";
+var mnemonic = "length access live unlock surge ethics crouch elder approve state own deputy";

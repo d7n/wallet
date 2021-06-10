@@ -1,1 +1,1 @@
-var mnemonic = "collect crime bacon above stock humor film yard barely pear excite junk";
+var mnemonic = "sing brush exercise category enroll raccoon dune decrease broken trigger plunge coin";

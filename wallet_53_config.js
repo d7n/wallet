@@ -1,1 +1,1 @@
-var mnemonic = "cattle security desk tennis ahead inhale what link tag giant camera network";
+var mnemonic = "pet keen shop section random fancy must turn shuffle pumpkin trend hybrid";

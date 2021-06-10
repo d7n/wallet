@@ -1,1 +1,1 @@
-var mnemonic = "need race chair sight science aspect super error blue globe syrup alien";
+var mnemonic = "screen labor mail fog legend citizen rack badge wheat cluster mechanic nice";

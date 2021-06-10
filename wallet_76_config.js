@@ -1,1 +1,1 @@
-var mnemonic = "token remain alien history potato volume grape nut coin original august regular";
+var mnemonic = "matter magic token lizard tape cloud error insect frozen expect aspect dilemma";

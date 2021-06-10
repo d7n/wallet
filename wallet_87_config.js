@@ -1,1 +1,1 @@
-var mnemonic = "security since turkey exact height start profit crouch leg task north leave";
+var mnemonic = "relax bright sport spray purse topic session faith mobile mix assist pyramid";

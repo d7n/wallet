@@ -1,1 +1,1 @@
-var mnemonic = "basket patient advice car number fury wall emerge mountain mask machine amateur";
+var mnemonic = "phone frequent access wedding exile slide actor wheat furnace ribbon visa pool";

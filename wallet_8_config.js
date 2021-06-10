@@ -1,1 +1,1 @@
-var mnemonic = "satoshi post napkin travel radar maximum nominee laundry scan ranch narrow view";
+var mnemonic = "then follow inhale lumber screen nose favorite ring produce clinic crawl craft";

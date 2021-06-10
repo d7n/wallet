@@ -1,1 +1,1 @@
-var mnemonic = "roast math oval version divorce cinnamon render time daughter shaft diamond alarm";
+var mnemonic = "velvet diary candy invest escape wine wisdom quality case armor race wise";

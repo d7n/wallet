@@ -1,1 +1,1 @@
-var mnemonic = "oppose sick rack today seven artist student media machine south turtle category";
+var mnemonic = "truck warm ritual notice debate spy glory opera staff evolve seven this";

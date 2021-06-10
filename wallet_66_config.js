@@ -1,1 +1,1 @@
-var mnemonic = "sunny twin unveil collect balance future blind elder hurry exhibit vapor civil";
+var mnemonic = "suit physical trap diamond start judge fun good write april anger area";

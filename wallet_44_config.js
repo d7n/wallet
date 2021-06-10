@@ -1,1 +1,1 @@
-var mnemonic = "rack stamp capital maple render there door silent illegal decorate echo frozen";
+var mnemonic = "neck snap tuna exile high west imitate idea ripple rubber tiger million";

@@ -1,1 +1,1 @@
-var mnemonic = "enter cotton grass swap dilemma mule police warm output alcohol blast actress";
+var mnemonic = "pony infant until sign leg island over credit tired attack reveal village";

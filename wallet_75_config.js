@@ -1,1 +1,1 @@
-var mnemonic = "hill payment raccoon deal whisper tortoise render nose tent rhythm fire boss";
+var mnemonic = "resource attract deer rapid mother december immune suspect inhale witness poet vanish";

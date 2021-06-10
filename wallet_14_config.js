@@ -1,1 +1,1 @@
-var mnemonic = "forum hope idea short badge doctor cotton oxygen tuition truly young wool";
+var mnemonic = "hurt fury urban axis confirm glass about arrange thunder replace cinnamon end";

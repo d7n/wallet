@@ -1,1 +1,1 @@
-var mnemonic = "slow kite people kiss episode soon shaft recycle session bid wash august";
+var mnemonic = "just cactus hint among arch weather spawn scout around prize episode only";

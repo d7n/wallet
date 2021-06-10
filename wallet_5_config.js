@@ -1,1 +1,1 @@
-var mnemonic = "suit arena crash stool upper screen other skin much notable brown lottery";
+var mnemonic = "museum speak bus start people tower wedding toilet pink strike float scrub";

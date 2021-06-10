@@ -1,1 +1,1 @@
-var mnemonic = "yard segment throw bridge coyote peace yellow shoot badge erupt safe mail";
+var mnemonic = "reopen winner lunch wagon sell laptop pioneer tired neck pyramid fatigue spin";

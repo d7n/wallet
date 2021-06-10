@@ -1,1 +1,1 @@
-var mnemonic = "casino ladder exit hood tuna very flat venture build wolf gown rich";
+var mnemonic = "debate enable distance laugh gospel soul choose bitter involve rely garlic sheriff";

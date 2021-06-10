@@ -1,1 +1,1 @@
-var mnemonic = "base menu never search damp skill inject edge maximum sugar naive annual";
+var mnemonic = "minute history blast jewel shiver sense ghost hello tent census rather spread";

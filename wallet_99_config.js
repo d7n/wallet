@@ -1,1 +1,1 @@
-var mnemonic = "fatal disease twin vessel ritual awkward pipe side bargain area piano mansion";
+var mnemonic = "keen east ripple flush toe bounce that rubber wait special flower chaos";

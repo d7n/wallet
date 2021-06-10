@@ -1,1 +1,1 @@
-var mnemonic = "ahead amused income cheap lawsuit budget print key first bird salon poet";
+var mnemonic = "gather arena slow impact harvest vapor provide balcony coast action discover visa";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit food impulse tribe journey green improve clever harvest ugly victory furnace";
+var mnemonic = "science hat learn pretty chief metal soft brass physical kiss cloud mammal";

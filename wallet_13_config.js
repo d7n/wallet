@@ -1,1 +1,1 @@
-var mnemonic = "move mystery tiger raccoon moment salute busy family outer crush winner lonely";
+var mnemonic = "immense weekend twin danger sunset once visa plug flee empower image blossom";

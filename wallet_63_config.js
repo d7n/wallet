@@ -1,1 +1,1 @@
-var mnemonic = "logic silver device fun toy lion avocado print champion pride dinner few";
+var mnemonic = "upon thank runway kid monkey dice side soul cactus notable forget rocket";
