@@ -1,1 +1,1 @@
-var mnemonic = "sense olive struggle use scale minute effort kick rose country season filter";
+var mnemonic = "security tiny weekend grocery mirror boss engage inner misery noodle token student";

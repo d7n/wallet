@@ -1,1 +1,1 @@
-var mnemonic = "priority feed midnight absurd wet admit pistol follow rich this lamp obtain";
+var mnemonic = "nest kiwi idle project sheriff tumble primary drink engage museum flock private";

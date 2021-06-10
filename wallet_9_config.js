@@ -1,1 +1,1 @@
-var mnemonic = "dad duck clown snow mutual hour rubber idea liar general tattoo broken";
+var mnemonic = "fantasy trip speak special strike perfect witness ancient magnet remove chief loud";

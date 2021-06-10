@@ -1,1 +1,1 @@
-var mnemonic = "occur three solve grunt plastic put night because alien carry distance minimum";
+var mnemonic = "syrup that vivid unfair bridge range question scatter curve ugly enrich barrel";

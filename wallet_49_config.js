@@ -1,1 +1,1 @@
-var mnemonic = "planet flight injury mushroom proud because invest mouse network midnight globe tongue";
+var mnemonic = "display chimney pull off ostrich pet final junk session orient spice excite";

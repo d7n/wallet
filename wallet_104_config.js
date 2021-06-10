@@ -1,1 +1,1 @@
-var mnemonic = "escape cherry income grace health food change gap globe diagram mosquito wash";
+var mnemonic = "brand fetch oblige soup half fame force man gadget grant solution junk";

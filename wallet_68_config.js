@@ -1,1 +1,1 @@
-var mnemonic = "custom van tiger deliver chief uniform please drift laundry accuse wear hazard";
+var mnemonic = "siege produce armor worry entire nerve enroll scheme topic water hole result";

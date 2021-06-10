@@ -1,1 +1,1 @@
-var mnemonic = "inside pottery satisfy coil symptom broken arrange sea plate rapid public thank";
+var mnemonic = "assist heavy meadow robot abuse surge range mammal draw farm expose achieve";

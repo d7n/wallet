@@ -1,1 +1,1 @@
-var mnemonic = "rely embark earth lazy edit pyramid tomato false bamboo rookie swamp carry";
+var mnemonic = "modify firm clock object service rocket random twelve dune deny raccoon goddess";

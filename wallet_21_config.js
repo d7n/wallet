@@ -1,1 +1,1 @@
-var mnemonic = "salute alley damage alcohol jump breeze motor pencil core educate peasant alien";
+var mnemonic = "best satoshi pistol country crop fan van bird scale between achieve sail";

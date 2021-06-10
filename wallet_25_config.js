@@ -1,1 +1,1 @@
-var mnemonic = "track soccer exchange exist goose balcony carpet there lunar clown proud acoustic";
+var mnemonic = "describe improve aisle acquire hire reason valve math shock december yellow silk";

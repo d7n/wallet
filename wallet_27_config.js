@@ -1,1 +1,1 @@
-var mnemonic = "tornado step admit barely street crater elegant morning village disagree tube science";
+var mnemonic = "build diamond plug dog gesture dwarf swallow unique hammer limb fly water";

@@ -1,1 +1,1 @@
-var mnemonic = "essay render pulse goddess silver salute guilt three road talk rookie soul";
+var mnemonic = "find service acquire talk fork lunch million layer sand woman bird yard";

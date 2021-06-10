@@ -1,1 +1,1 @@
-var mnemonic = "defense flip help prevent mystery grit stand exit antenna school belt still";
+var mnemonic = "cause such lemon weapon boring globe merge approve penalty devote lunar save";

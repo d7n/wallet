@@ -1,1 +1,1 @@
-var mnemonic = "cloud school debate able side add one cigar demand check picture exact";
+var mnemonic = "coral lunar light term fiscal inch odor shine brother rotate devote thing";

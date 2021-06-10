@@ -1,1 +1,1 @@
-var mnemonic = "street bicycle misery also next oak announce misery veteran sphere inform glass";
+var mnemonic = "dog rain eagle wide soft scrub elegant top butter cream consider live";

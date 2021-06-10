@@ -1,1 +1,1 @@
-var mnemonic = "warrior early used slide empower sibling quick young twin country bike hint";
+var mnemonic = "kitchen farm decide morning hand twice lab sick grab wolf lyrics burger";

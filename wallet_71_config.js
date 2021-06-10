@@ -1,1 +1,1 @@
-var mnemonic = "muscle melt priority word alley kidney spoon dress index rally honey what";
+var mnemonic = "naive glue benefit sock orbit winter master box search slim slice planet";

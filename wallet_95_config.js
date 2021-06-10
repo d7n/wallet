@@ -1,1 +1,1 @@
-var mnemonic = "ask often strong spell lion clarify combine way lend home invest super";
+var mnemonic = "assume gas twice knock end notable day solution street twelve dune barrel";

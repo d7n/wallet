@@ -1,1 +1,1 @@
-var mnemonic = "marble canvas aim rookie suspect mosquito swarm palm gas cheap entire believe";
+var mnemonic = "still toddler resource culture tiny dice question lake pet sock slot phone";

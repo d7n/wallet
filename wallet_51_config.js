@@ -1,1 +1,1 @@
-var mnemonic = "cliff disorder grass coin solve knife safe sail harvest hello loyal acquire";
+var mnemonic = "frown stove verify half blur perfect two stumble inflict when coin concert";

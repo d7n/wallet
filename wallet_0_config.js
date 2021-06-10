@@ -1,1 +1,1 @@
-var mnemonic = "define empower joy direct fruit minimum census congress energy hamster expand size";
+var mnemonic = "position impulse huge ignore twice timber symptom fruit index pause column anger";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme fiber drill amount analyst scissors friend enhance submit tourist gasp cable";
+var mnemonic = "valley border tank drive jelly canal eager immune ask domain slow robust";

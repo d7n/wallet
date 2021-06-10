@@ -1,1 +1,1 @@
-var mnemonic = "exercise hobby coast seven ready coconut plastic quarter main turn spare rival";
+var mnemonic = "review blame swamp beef retreat narrow bottom make victory sauce address theme";

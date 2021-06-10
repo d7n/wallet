@@ -1,1 +1,1 @@
-var mnemonic = "forward brush popular lock primary stamp script guitar ancient exact omit law";
+var mnemonic = "execute away vast silver shock modify vague equip prison earn minor indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "chief shaft jungle furnace side mix apology force erode hospital sock pigeon";
+var mnemonic = "suspect wife jeans alien old pink riot upset fog detail bunker famous";

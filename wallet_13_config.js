@@ -1,1 +1,1 @@
-var mnemonic = "curious elder rib system original nothing tissue salad aerobic shuffle bacon any";
+var mnemonic = "home nation cherry play pencil usual evolve pepper eye lesson awkward trial";

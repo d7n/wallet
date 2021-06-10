@@ -1,1 +1,1 @@
-var mnemonic = "industry grant flip author average science unknown embrace surge double stamp crunch";
+var mnemonic = "essence argue odor people border sibling tooth yellow okay file guilt present";

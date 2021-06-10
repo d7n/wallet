@@ -1,1 +1,1 @@
-var mnemonic = "tell where borrow duck silent degree demise trigger spice size swamp snack";
+var mnemonic = "consider grass panda transfer arch topple suffer virus simple rally world element";

@@ -1,1 +1,1 @@
-var mnemonic = "shift rubber salt spin sight bomb sword voice correct elevator energy else";
+var mnemonic = "vanish vault choose crazy day manual win arrow output dwarf gift bind";

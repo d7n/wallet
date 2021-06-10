@@ -1,1 +1,1 @@
-var mnemonic = "blast more sound cross whale traffic install reward bamboo drum toss garbage";
+var mnemonic = "tree interest slight glimpse zebra cushion admit vivid ostrich similar foot layer";

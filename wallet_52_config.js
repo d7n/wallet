@@ -1,1 +1,1 @@
-var mnemonic = "mass aunt current auction skin trend goose ginger protect coffee three supply";
+var mnemonic = "bless barrel say grit food emotion enough margin zebra delay catch grass";

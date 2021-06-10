@@ -1,1 +1,1 @@
-var mnemonic = "about squeeze setup trophy still mandate pudding one black audit slush about";
+var mnemonic = "stable dismiss fuel join chuckle snap actress stairs face thunder monitor trend";

@@ -1,1 +1,1 @@
-var mnemonic = "return federal team install plate police treat tumble theme turn age burger";
+var mnemonic = "throw intact enroll decline umbrella innocent neglect lobster torch rare settle feel";

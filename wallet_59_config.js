@@ -1,1 +1,1 @@
-var mnemonic = "boost reject meat worry tennis crack rocket crack glass recycle result bullet";
+var mnemonic = "rural ocean curtain vivid buffalo hawk ankle beauty net pink much south";

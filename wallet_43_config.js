@@ -1,1 +1,1 @@
-var mnemonic = "swallow noise resist question strategy exercise trial noodle easy asset canoe faint";
+var mnemonic = "release wise reveal prepare panic shell rotate between culture excuse snack media";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat mushroom rapid forest doll spy miracle repeat icon tip because online";
+var mnemonic = "outside tonight steel fish autumn segment snake fork pilot reveal alarm together";

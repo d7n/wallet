@@ -1,1 +1,1 @@
-var mnemonic = "cause coffee dust glance dumb cluster detect harsh exhaust tray energy humor";
+var mnemonic = "dune view tattoo plastic travel item crash glide elephant fee calm walk";

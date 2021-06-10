@@ -1,1 +1,1 @@
-var mnemonic = "tribe object emerge mention video lemon mom together hollow under cheese neck";
+var mnemonic = "they panic fatal rocket sense person reflect mule claw bless stay trap";

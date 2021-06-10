@@ -1,1 +1,1 @@
-var mnemonic = "broom dance cry seed surge purchase senior awake float renew detect custom";
+var mnemonic = "keen peace cheap lyrics horse fantasy pipe mutual glance pupil despair twelve";

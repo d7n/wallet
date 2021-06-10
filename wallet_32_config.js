@@ -1,1 +1,1 @@
-var mnemonic = "club medal kidney supreme safe shoot fog example pony fee spin trumpet";
+var mnemonic = "priority logic result child bicycle lizard struggle ignore mountain bonus scissors prize";

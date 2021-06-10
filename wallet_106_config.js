@@ -1,1 +1,1 @@
-var mnemonic = "front snake hazard clerk camera autumn easy green upset ankle limb heavy";
+var mnemonic = "question unaware calm great video exercise color lazy lonely thrive ugly legal";

@@ -1,1 +1,1 @@
-var mnemonic = "wool capable diesel one share lyrics shrug hospital lobster solution weasel goose";
+var mnemonic = "cause post wear cruise basic chair upper bird rate oppose monitor report";

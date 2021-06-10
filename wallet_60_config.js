@@ -1,1 +1,1 @@
-var mnemonic = "throw acquire choose tonight immense sudden island pony good fatigue track rail";
+var mnemonic = "fork mask tunnel promote blame cream river valley echo flush film hill";

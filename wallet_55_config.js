@@ -1,1 +1,1 @@
-var mnemonic = "wild talk wet middle year avoid ship prefer upon hour bring foil";
+var mnemonic = "charge access correct drink junior essay rural wonder economy physical problem ancient";

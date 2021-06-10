@@ -1,1 +1,1 @@
-var mnemonic = "envelope able guide network fancy lazy stem vivid unit idle lens renew";
+var mnemonic = "gap awake hub movie sudden salad direct misery valid shiver trust gain";

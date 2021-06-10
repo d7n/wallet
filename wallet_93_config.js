@@ -1,1 +1,1 @@
-var mnemonic = "float recycle type false exile real season scare eternal erosion wage barrel";
+var mnemonic = "damage human hat bring peanut crumble sting ignore clinic impulse sniff track";

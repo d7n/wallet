@@ -1,1 +1,1 @@
-var mnemonic = "drift recipe one indicate around loan trap wall claim risk team mouse";
+var mnemonic = "marriage advance warfare goat anchor bridge blame tilt material vacant fish fat";

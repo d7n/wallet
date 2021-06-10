@@ -1,1 +1,1 @@
-var mnemonic = "couple poem together urban repair ritual prosper inch pact member athlete allow";
+var mnemonic = "fat disorder head wage minor fault evidence luxury divert sniff argue brass";

@@ -1,1 +1,1 @@
-var mnemonic = "milk soup harbor sustain race orient finger elegant ski enforce timber pencil";
+var mnemonic = "life foot pact multiply turtle goose error blind dish strategy picnic canal";

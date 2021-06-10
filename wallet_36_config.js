@@ -1,1 +1,1 @@
-var mnemonic = "deposit indoor shine run wreck library clutch lava delay gym verify tuna";
+var mnemonic = "observe mansion someone select pink inquiry crush style perfect script badge palm";

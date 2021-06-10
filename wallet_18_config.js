@@ -1,1 +1,1 @@
-var mnemonic = "confirm auto three horse crater tobacco silver asset frown sight mystery palace";
+var mnemonic = "medal legend throw note blouse tag couch elite stairs rookie protect vocal";

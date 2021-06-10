@@ -1,1 +1,1 @@
-var mnemonic = "family border autumn august convince trip curve arctic advice truck luxury guilt";
+var mnemonic = "mask scene cricket corn rain century belt hen six rent ketchup always";

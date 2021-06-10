@@ -1,1 +1,1 @@
-var mnemonic = "cause enhance horse real field maze lyrics settle pact board thought clarify";
+var mnemonic = "prefer rent gorilla throw phone victory steel join jealous prevent warrior text";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity naive use spin emerge remind bundle quote space until idea cargo";
+var mnemonic = "razor squirrel luggage knee hawk duck scout begin bamboo height future first";

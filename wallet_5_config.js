@@ -1,1 +1,1 @@
-var mnemonic = "resemble quantum must candy ability blouse rare airport slot glow keep energy";
+var mnemonic = "dilemma card pistol wolf interest rely census century inner scorpion debris power";

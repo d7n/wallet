@@ -1,1 +1,1 @@
-var mnemonic = "dress excess print when mix onion shop angry aware burger left notice";
+var mnemonic = "intact stable lens receive timber water amused media alpha wage dust tilt";

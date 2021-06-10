@@ -1,1 +1,1 @@
-var mnemonic = "avoid legal banana reflect skull trade law normal diary front debate modify";
+var mnemonic = "grain coast train drill solution void edit lemon visit cable pink client";

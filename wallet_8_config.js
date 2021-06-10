@@ -1,1 +1,1 @@
-var mnemonic = "dizzy gadget provide cushion slush cube tiny brush decline shy smart mammal";
+var mnemonic = "arena flower crop key math sure captain marble short ahead stool inform";

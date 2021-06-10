@@ -1,1 +1,1 @@
-var mnemonic = "slab pear cake soul village average congress maze discover spike sustain february";
+var mnemonic = "robust decide amused double select spring hungry beef same drum lamp cable";

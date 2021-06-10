@@ -1,1 +1,1 @@
-var mnemonic = "plunge type tourist essence surround trust stay supply adapt pitch receive wave";
+var mnemonic = "razor quiz special pact monkey update leaf bike urban list jazz cement";

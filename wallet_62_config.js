@@ -1,1 +1,1 @@
-var mnemonic = "discover heart damp actor salmon forget climb steel eye seminar recycle birth";
+var mnemonic = "child eyebrow tonight pumpkin feed broom trophy explain bitter logic orchard soccer";

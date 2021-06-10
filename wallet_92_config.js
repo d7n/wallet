@@ -1,1 +1,1 @@
-var mnemonic = "protect energy eight fog buddy traffic depart question tennis solution unveil saddle";
+var mnemonic = "exclude extend violin input child tattoo fortune damage firm corn spin best";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden since walk display flush casino pet legend swap anchor pepper token";
+var mnemonic = "universe cargo liberty toward neither cactus elite only diet stick gaze bamboo";

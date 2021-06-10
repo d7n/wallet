@@ -1,1 +1,1 @@
-var mnemonic = "parade sponsor chunk course loud motion logic melt one film satoshi cruise";
+var mnemonic = "gallery universe cannon gallery chief danger palace night awesome wheat word seat";

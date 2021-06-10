@@ -1,1 +1,1 @@
-var mnemonic = "price fame record illness advance naive index seat execute benefit hidden festival";
+var mnemonic = "age city fringe region connect veteran pistol chunk laugh swarm replace keep";

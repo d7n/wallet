@@ -1,1 +1,1 @@
-var mnemonic = "security neglect post then admit badge valve fee defense rebuild rapid remind";
+var mnemonic = "trash toss special skate define marine tell major key uniform category release";

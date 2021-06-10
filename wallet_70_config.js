@@ -1,1 +1,1 @@
-var mnemonic = "spend grid omit pitch maximum speed coyote hand common under feature clay";
+var mnemonic = "agent purity intact swift sunny cereal say tooth dust duck wild muscle";

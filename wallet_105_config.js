@@ -1,1 +1,1 @@
-var mnemonic = "reveal afraid phrase celery vital absent fossil rare sign trouble satisfy select";
+var mnemonic = "hawk deputy system expose solution border zebra planet erosion fire brown myth";

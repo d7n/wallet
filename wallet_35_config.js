@@ -1,1 +1,1 @@
-var mnemonic = "dog wrist floor burst tortoise shuffle screen bottom gesture success fish essence";
+var mnemonic = "castle almost verify can fine cross swim stay sport garlic retire disease";

@@ -1,1 +1,1 @@
-var mnemonic = "cream clutch reveal eager square debate similar cram sign trial inflict piano";
+var mnemonic = "story bulk endorse garden miracle goose wall meadow mechanic prize fix buddy";

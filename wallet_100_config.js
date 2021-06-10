@@ -1,1 +1,1 @@
-var mnemonic = "pretty enter mix often inherit film label stamp soul follow wrestle glow";
+var mnemonic = "just walk spot govern poem crunch tonight aware crop congress tilt industry";

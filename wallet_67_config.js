@@ -1,1 +1,1 @@
-var mnemonic = "attract shiver crawl drink spatial split risk drill blouse slab input kidney";
+var mnemonic = "icon salmon chalk monkey envelope mask avoid solid depth argue drill detail";

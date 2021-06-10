@@ -1,1 +1,1 @@
-var mnemonic = "daring cycle daughter auction begin angle together try talent office shrimp beach";
+var mnemonic = "stadium success jewel thought occur output stove drive illegal average garden addict";

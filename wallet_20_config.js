@@ -1,1 +1,1 @@
-var mnemonic = "strategy release degree seven retreat horse strategy gravity salad planet cupboard muffin";
+var mnemonic = "shell lecture wheat prize width double advance learn aerobic flip trash topic";

@@ -1,1 +1,1 @@
-var mnemonic = "glass purity bring chief can wedding cushion visa minimum verb lesson erupt";
+var mnemonic = "caught wing brown license usage nest master upon deputy setup safe armor";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond home door sponsor matter cost ice radio bulk rocket desert milk";
+var mnemonic = "mouse wall tattoo nothing mechanic broken visual surface second donor nurse flock";

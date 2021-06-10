@@ -1,1 +1,1 @@
-var mnemonic = "record shallow brand sauce manage calm friend gaze race olympic lemon shift";
+var mnemonic = "reason pistol decline salon job issue drive file diamond any media wall";

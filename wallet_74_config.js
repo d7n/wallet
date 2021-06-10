@@ -1,1 +1,1 @@
-var mnemonic = "grass aim observe advance daring genre blame moment teach lottery grass method";
+var mnemonic = "final narrow knock discover clown pole track dish plate asset camp arena";

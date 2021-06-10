@@ -1,1 +1,1 @@
-var mnemonic = "abuse second vibrant hand orbit pink tell voyage picture taste enroll mushroom";
+var mnemonic = "hockey rude replace chapter room slim entry sugar affair submit ankle giant";

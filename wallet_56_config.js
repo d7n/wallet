@@ -1,1 +1,1 @@
-var mnemonic = "bicycle life cruise include sunset egg dish bright flip idea raccoon peanut";
+var mnemonic = "call card electric fringe rebuild cabin alone hotel bottom skate beach impose";

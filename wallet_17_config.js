@@ -1,1 +1,1 @@
-var mnemonic = "win report way girl slide vacant client brisk grit general false aim";
+var mnemonic = "mystery prepare inner invest notice rubber oblige belt point shy ball pink";

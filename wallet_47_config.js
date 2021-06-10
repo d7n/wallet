@@ -1,1 +1,1 @@
-var mnemonic = "imitate kiss grant forum peasant noodle film entire come popular photo sad";
+var mnemonic = "risk unlock vanish claw urban credit fade salmon approve busy sentence flock";

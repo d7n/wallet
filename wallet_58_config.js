@@ -1,1 +1,1 @@
-var mnemonic = "damage affair nature rent trim scare blade spirit install december ridge mirror";
+var mnemonic = "plunge reward fence promote select another gun topic slim mad chalk destroy";

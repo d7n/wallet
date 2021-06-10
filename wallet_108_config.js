@@ -1,1 +1,1 @@
-var mnemonic = "accident square garment main veteran mind cabbage stable midnight captain rich winter";
+var mnemonic = "learn badge practice claim skull hungry bus eagle denial obscure key nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz visit federal furnace chef exist cruise frost crucial chat maple prison";
+var mnemonic = "surprise deliver seat tide rabbit dice assume cheap spare fire acoustic buffalo";

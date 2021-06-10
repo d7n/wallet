@@ -1,1 +1,1 @@
-var mnemonic = "script maid earth town steel hawk loyal depart search endless win grief";
+var mnemonic = "father champion unlock whip nothing still decorate physical scene churn move march";

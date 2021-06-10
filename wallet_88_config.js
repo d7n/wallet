@@ -1,1 +1,1 @@
-var mnemonic = "enhance february frozen spoon rather two confirm despair jewel video close young";
+var mnemonic = "weather fetch discover gorilla casual property cheese answer connect battle wear hybrid";
