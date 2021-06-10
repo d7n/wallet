@@ -1,1 +1,1 @@
-var mnemonic = "despair melody this domain reason ski iron awake symbol hair strategy trial";
+var mnemonic = "kick acid indicate loop behind weasel barrel dinner child rotate tail asthma";

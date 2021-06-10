@@ -1,1 +1,1 @@
-var mnemonic = "amused swarm eager scorpion dog problem label gospel latin salute notable cream";
+var mnemonic = "speed sound science silly maid vanish grocery actual office concert zebra glory";

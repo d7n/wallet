@@ -1,1 +1,1 @@
-var mnemonic = "autumn wave swift coconut ignore ghost cable vicious step outside author release";
+var mnemonic = "wrong vocal slight ready behind upon promote lunch current quality regret involve";

@@ -1,1 +1,1 @@
-var mnemonic = "thank add few project just else crunch lesson element tumble unfold token";
+var mnemonic = "surface scout access need enrich mechanic path salute bridge accident improve check";

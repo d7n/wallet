@@ -1,1 +1,1 @@
-var mnemonic = "quick practice focus castle share husband fitness test artwork sing eternal mix";
+var mnemonic = "mango modify ignore receive explain grief dirt ozone imitate bench message siege";

@@ -1,1 +1,1 @@
-var mnemonic = "regret purpose own combine amazing puzzle shift kick doll narrow code violin";
+var mnemonic = "tourist happy memory grab position matter brother mass very cradle wheat spare";

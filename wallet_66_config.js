@@ -1,1 +1,1 @@
-var mnemonic = "because stool review genre gospel lava glass wish salon tourist mixture tent";
+var mnemonic = "old gold exotic tower penalty ghost reform false nut bike false pottery";

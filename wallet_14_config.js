@@ -1,1 +1,1 @@
-var mnemonic = "feel orbit casual excite foot buddy kite season famous include swamp purity";
+var mnemonic = "unit leaf upset obey tunnel absent valve ship sail electric clay solution";

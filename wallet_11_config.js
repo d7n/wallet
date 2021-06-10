@@ -1,1 +1,1 @@
-var mnemonic = "rail behave country regular umbrella insect merge lesson coffee point upgrade obtain";
+var mnemonic = "sphere review charge jump stool obtain giant seed churn various addict sport";

@@ -1,1 +1,1 @@
-var mnemonic = "now asthma jaguar photo rookie yard opera tennis reform lobster crouch electric";
+var mnemonic = "modify nominee age swim february please amused warrior alcohol resource fringe size";

@@ -1,1 +1,1 @@
-var mnemonic = "off upset hip entire animal middle time mistake cactus boring verify bone";
+var mnemonic = "find panda push ask off sunny bronze used promote glove water future";

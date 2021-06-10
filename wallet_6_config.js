@@ -1,1 +1,1 @@
-var mnemonic = "bomb giraffe obey join obey dizzy maze raccoon dish wild decide pet";
+var mnemonic = "world until place palace firm small beyond winner reward debris domain derive";

@@ -1,1 +1,1 @@
-var mnemonic = "area debate sign merge someone obtain staff jump tattoo reflect sight equal";
+var mnemonic = "sphere taste crop income assume stay axis slush will knock zero truly";

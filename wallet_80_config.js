@@ -1,1 +1,1 @@
-var mnemonic = "initial supreme amateur street sunny viable slow book noble put drum trigger";
+var mnemonic = "grass what visit crouch code metal moon promote radar spoon dove valve";

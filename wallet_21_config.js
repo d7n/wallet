@@ -1,1 +1,1 @@
-var mnemonic = "human sausage heavy busy vault breeze vivid patient license fatal two inherit";
+var mnemonic = "grit junior pipe supreme trouble prison token churn useless frozen federal caution";

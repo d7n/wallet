@@ -1,1 +1,1 @@
-var mnemonic = "inspire glue theme view flash riot wrist average increase must outer cry";
+var mnemonic = "alone please sniff nature fury stone bird child onion caution paddle betray";

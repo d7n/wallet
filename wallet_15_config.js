@@ -1,1 +1,1 @@
-var mnemonic = "close increase spread bright coach view school disease find perfect approve action";
+var mnemonic = "try giraffe verify tuna physical tonight allow sausage good cloth evoke poverty";

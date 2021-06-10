@@ -1,1 +1,1 @@
-var mnemonic = "tobacco fox swim broken stay wheat when sunny mango degree chapter security";
+var mnemonic = "lamp cat else immense siren coconut chicken wedding history broccoli height you";

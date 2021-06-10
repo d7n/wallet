@@ -1,1 +1,1 @@
-var mnemonic = "polar genre welcome sort left kitchen one situate unknown boss drop decorate";
+var mnemonic = "setup sponsor gaze write mouse moment dad gain critic poverty explain boat";

@@ -1,1 +1,1 @@
-var mnemonic = "artist neutral emotion inmate pipe pet radar twelve page peanut camp rubber";
+var mnemonic = "undo spirit year laugh slush rose area toe brother hurdle nest online";

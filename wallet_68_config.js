@@ -1,1 +1,1 @@
-var mnemonic = "stool season soccer home dash arena rhythm absorb mass senior guitar air";
+var mnemonic = "adapt hospital leisure taxi bubble pulse situate august fantasy behave ranch face";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog apology actress book captain bid romance practice diagram voyage season absorb";
+var mnemonic = "fetch mechanic flash half ill duck clown income worth camp equip angry";

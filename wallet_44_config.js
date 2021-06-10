@@ -1,1 +1,1 @@
-var mnemonic = "music return reunion nest select truth reject solve leg wonder embrace pact";
+var mnemonic = "mixture spin end unfair abuse uncover seek blood evidence expect bamboo release";

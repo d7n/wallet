@@ -1,1 +1,1 @@
-var mnemonic = "shrug become category amazing bunker wet fiction canoe predict final day bounce";
+var mnemonic = "thrive shoulder bring mercy typical boost taste romance fit avoid state radar";

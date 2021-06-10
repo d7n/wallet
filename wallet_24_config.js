@@ -1,1 +1,1 @@
-var mnemonic = "game bridge act prefer exotic story fruit web pull lizard grit cruel";
+var mnemonic = "divide number sheriff question major journey update sad amateur suggest thank hospital";

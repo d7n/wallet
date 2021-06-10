@@ -1,1 +1,1 @@
-var mnemonic = "effort total view across champion explain soul capital jump inject exercise cabbage";
+var mnemonic = "visa era act ensure ribbon since south pelican meadow gauge travel solid";

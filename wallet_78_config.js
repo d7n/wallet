@@ -1,1 +1,1 @@
-var mnemonic = "hurt core nice excite evolve ocean cave figure basic wave mirror zero";
+var mnemonic = "shed fetch opinion arrange trade rubber bamboo permit example speed frost destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry web nice deny remember surprise direct prevent tip actual scan conduct";
+var mnemonic = "access toast inform cash school bottom chaos blue master skate license bike";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid strike shoulder rigid finish drill social system tumble autumn report into";
+var mnemonic = "labor bicycle history reduce first bus cruise divorce sustain ride bundle lady";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover rich you penalty barrel copper seat flavor fancy bind salute observe";
+var mnemonic = "scheme cupboard visual industry crash simple alone doll vivid parade garbage screen";

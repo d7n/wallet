@@ -1,1 +1,1 @@
-var mnemonic = "error same odor cat pipe enter retreat achieve hobby crowd slush pen";
+var mnemonic = "orchard you hen soul lens hurry dice make fossil remind much damage";

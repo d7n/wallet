@@ -1,1 +1,1 @@
-var mnemonic = "brisk talent pave wealth enroll tell flash box gospel inner winner infant";
+var mnemonic = "void width crisp scatter doctor hungry guitar fashion virtual only lamp smooth";

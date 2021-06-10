@@ -1,1 +1,1 @@
-var mnemonic = "permit force badge same remain problem enact cycle saddle lecture lunar trial";
+var mnemonic = "bracket unveil real give attract two dynamic patrol romance fold token spirit";

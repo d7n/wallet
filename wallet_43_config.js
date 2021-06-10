@@ -1,1 +1,1 @@
-var mnemonic = "clever piece area air crawl suit angry pitch addict match pill audit";
+var mnemonic = "cream boring leisure mom stand main actress all decade clarify panther shiver";

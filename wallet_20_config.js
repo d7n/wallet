@@ -1,1 +1,1 @@
-var mnemonic = "ensure wall mixed youth duck army total border pottery blame nephew lizard";
+var mnemonic = "dismiss fan impulse obtain flag yellow avocado program whisper blossom promote work";

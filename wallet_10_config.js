@@ -1,1 +1,1 @@
-var mnemonic = "copper pioneer depend obey wool exile brass scout trim early finish runway";
+var mnemonic = "dolphin broken matter title glance impulse initial expire donkey tube unfair brave";

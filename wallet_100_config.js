@@ -1,1 +1,1 @@
-var mnemonic = "cube paddle copper digital wealth gorilla design earth view census thank nerve";
+var mnemonic = "want oval palace repeat vague weird sphere peanut among receive talk advice";

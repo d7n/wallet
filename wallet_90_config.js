@@ -1,1 +1,1 @@
-var mnemonic = "exhibit service noise winter robot sponsor chest bread cave forward normal poet";
+var mnemonic = "sing spider uniform skull olympic captain risk expect relief pistol fruit expect";

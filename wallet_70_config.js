@@ -1,1 +1,1 @@
-var mnemonic = "hammer blue cat claim organ link column winter orange rally cabin harvest";
+var mnemonic = "chair rare scheme clutch bachelor draw device practice marriage mushroom addict museum";

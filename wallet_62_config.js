@@ -1,1 +1,1 @@
-var mnemonic = "tenant frequent lens dance viable city demise fog gym action alarm innocent";
+var mnemonic = "oil unusual dutch tonight convince moral unaware know anchor void receive boss";

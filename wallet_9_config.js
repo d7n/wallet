@@ -1,1 +1,1 @@
-var mnemonic = "bind art nation type junior flee potato abuse weird mesh shy mouse";
+var mnemonic = "scan health biology eager wire wall giant drum duty daughter attack guard";

@@ -1,1 +1,1 @@
-var mnemonic = "shy nice above summer discover adjust loop student nest wet because near";
+var mnemonic = "display orange parrot immune body focus pattern label wire build air afraid";

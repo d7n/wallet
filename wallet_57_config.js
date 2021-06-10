@@ -1,1 +1,1 @@
-var mnemonic = "barrel wine risk when almost birth visual piano fiber october sing kitten";
+var mnemonic = "vessel reunion shed oppose ring hair pelican slow gadget angle material turn";

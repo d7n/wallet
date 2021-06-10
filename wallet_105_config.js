@@ -1,1 +1,1 @@
-var mnemonic = "found sustain interest engage merit girl decrease stove sample flip ancient strategy";
+var mnemonic = "then thunder naive economy trade video once virus slogan loud alley woman";

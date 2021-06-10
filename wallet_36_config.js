@@ -1,1 +1,1 @@
-var mnemonic = "leisure kick envelope kit sport old symptom brave worth machine midnight author";
+var mnemonic = "now fossil pumpkin elephant enforce endless stay day you tenant cushion usage";

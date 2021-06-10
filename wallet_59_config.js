@@ -1,1 +1,1 @@
-var mnemonic = "march light genre second mystery tourist monkey detail juice insect assist kitchen";
+var mnemonic = "clerk age fatigue need assault patrol left charge garage pet potato enter";

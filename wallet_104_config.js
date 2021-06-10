@@ -1,1 +1,1 @@
-var mnemonic = "twenty fiction idea gravity sun actual roast artist dynamic strategy scene police";
+var mnemonic = "couch giggle embody group melody term embark inside road high remember inmate";

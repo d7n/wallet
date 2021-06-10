@@ -1,1 +1,1 @@
-var mnemonic = "draft toast grab travel borrow clay blossom tone fox suit twelve vapor";
+var mnemonic = "piece foil black merry curve custom beach stage obey bullet cigar tent";

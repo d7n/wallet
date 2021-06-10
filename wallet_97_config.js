@@ -1,1 +1,1 @@
-var mnemonic = "giggle weird six unfair fold sell gym inject twin anxiety evil heavy";
+var mnemonic = "depart argue shadow debate begin denial run hunt draw spoil fabric club";

@@ -1,1 +1,1 @@
-var mnemonic = "solve ripple retire mask doctor spend only shell cart wasp pupil dance";
+var mnemonic = "recycle because robot midnight escape decorate museum abstract chat table trouble pave";

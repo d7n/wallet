@@ -1,1 +1,1 @@
-var mnemonic = "august raven crunch angle annual cruise mean point collect ball ahead square";
+var mnemonic = "copper caught sheriff lunch empower omit physical depart year wage reduce scene";

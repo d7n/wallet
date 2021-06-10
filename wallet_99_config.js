@@ -1,1 +1,1 @@
-var mnemonic = "morning tonight tiger draft avocado dismiss glory educate lucky charge wreck bubble";
+var mnemonic = "example junk silent engage utility fiction genuine crawl strong cherry bundle clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "intact payment mask wrong husband canoe use bleak rent replace obey solve";
+var mnemonic = "judge endless judge vessel hurt stick enact hunt strong gentle charge original";

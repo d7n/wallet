@@ -1,1 +1,1 @@
-var mnemonic = "adjust clump drift fan between trial chapter honey stem age family play";
+var mnemonic = "coil tackle together venture school aim memory swing kid paddle lawsuit escape";

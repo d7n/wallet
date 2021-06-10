@@ -1,1 +1,1 @@
-var mnemonic = "person feel gown scale echo skin velvet wild rack insect rebuild era";
+var mnemonic = "enhance regular slide smart betray stage cover foam skirt admit pink peace";

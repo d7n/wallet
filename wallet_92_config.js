@@ -1,1 +1,1 @@
-var mnemonic = "earn taxi bamboo oven leg diamond drastic tumble rare stem unique acoustic";
+var mnemonic = "text napkin quality soap taxi pigeon find layer annual side bicycle notable";

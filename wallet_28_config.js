@@ -1,1 +1,1 @@
-var mnemonic = "century point online aisle bulk winter benefit offer duck enter know above";
+var mnemonic = "blouse copy civil try clutch govern there office dice clown amateur drive";

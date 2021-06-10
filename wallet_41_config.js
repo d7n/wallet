@@ -1,1 +1,1 @@
-var mnemonic = "force mix gun arm message river acoustic phone cart seat suit pottery";
+var mnemonic = "region virtual strategy around liar position twist require column idea rally tip";

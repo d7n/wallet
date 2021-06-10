@@ -1,1 +1,1 @@
-var mnemonic = "rule still toe slow silent brisk human anxiety hour focus crowd roast";
+var mnemonic = "warrior around silent onion unfold borrow razor rely economy dad retire barrel";

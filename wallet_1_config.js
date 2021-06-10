@@ -1,1 +1,1 @@
-var mnemonic = "ski until detect more make quick valid obvious total culture endorse mean";
+var mnemonic = "taxi walnut gloom train believe track profit anxiety garlic bean power virus";

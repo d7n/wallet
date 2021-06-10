@@ -1,1 +1,1 @@
-var mnemonic = "ceiling attack organ limb come area chase snap senior party fortune deposit";
+var mnemonic = "twin elder drink valid dinosaur tail gravity egg erupt pig foam invest";

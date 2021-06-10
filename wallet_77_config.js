@@ -1,1 +1,1 @@
-var mnemonic = "polar abuse weasel alter journey gold pact subway control between empower fitness";
+var mnemonic = "rabbit cover agree double leaf vibrant volcano pitch render comfort wink orchard";

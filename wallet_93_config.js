@@ -1,1 +1,1 @@
-var mnemonic = "latin box build tube escape stock cigar outdoor cloud give awful picture";
+var mnemonic = "duty field axis estate actress blush into license sweet kiss mobile very";

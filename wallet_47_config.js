@@ -1,1 +1,1 @@
-var mnemonic = "naive cram industry shallow cluster green buyer wash proud twist fossil film";
+var mnemonic = "oak spirit reason enact bullet bring fee supreme wheat mixed funny below";

@@ -1,1 +1,1 @@
-var mnemonic = "come library salt liar solve catch wait fix kangaroo truth sphere letter";
+var mnemonic = "profit ball bar ability prison vague hazard village doctor gym spin news";

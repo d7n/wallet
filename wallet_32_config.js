@@ -1,1 +1,1 @@
-var mnemonic = "kind bubble asthma indicate will attitude maze much right board vessel around";
+var mnemonic = "word sample trade mansion script barrel recipe melt stay hurt thought wonder";

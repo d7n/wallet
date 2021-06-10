@@ -1,1 +1,1 @@
-var mnemonic = "keep aisle degree dismiss cake toilet damage myth brown bitter remove vehicle";
+var mnemonic = "expect spider defense key trend initial fiscal tribe damp number shoulder stomach";

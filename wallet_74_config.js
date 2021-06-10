@@ -1,1 +1,1 @@
-var mnemonic = "ask lens tribe stuff ask runway twenty tank deputy nation salad sand";
+var mnemonic = "treat smart cross laugh plastic coin become client autumn balcony garlic rule";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle father enforce clap detect practice admit that wear cross ring wedding";
+var mnemonic = "oak usage stay mad safe work affair skirt cargo kingdom birth awesome";

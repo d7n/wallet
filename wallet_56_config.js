@@ -1,1 +1,1 @@
-var mnemonic = "someone merge toss pole horse bone grit nut once ecology knife slam";
+var mnemonic = "busy galaxy limit exotic dizzy grief pepper crew curtain guard soft title";

@@ -1,1 +1,1 @@
-var mnemonic = "evil advance find execute lemon pill pact nurse reunion neck answer fossil";
+var mnemonic = "napkin merge maze lyrics shield either wonder habit volume system elite model";

@@ -1,1 +1,1 @@
-var mnemonic = "flat fuel hunt basket fall blast grief car inner couch corn picnic";
+var mnemonic = "question budget kidney ill hen educate assault chronic mean review truck autumn";

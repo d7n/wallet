@@ -1,1 +1,1 @@
-var mnemonic = "suit skill quarter turtle across limit grow lucky atom miracle budget poem";
+var mnemonic = "grant nasty word piece cancel essay orchard citizen enemy cricket circle delay";

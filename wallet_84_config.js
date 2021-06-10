@@ -1,1 +1,1 @@
-var mnemonic = "oyster view butter length path color wonder soldier rack speed media undo";
+var mnemonic = "world inmate viable kid kangaroo culture excite flip spend wrong local pudding";

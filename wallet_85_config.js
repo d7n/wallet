@@ -1,1 +1,1 @@
-var mnemonic = "veteran medal carpet plastic face venture margin paddle bomb chapter cool treat";
+var mnemonic = "husband aware sound misery female parrot arctic lecture detect broken vast fruit";

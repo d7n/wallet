@@ -1,1 +1,1 @@
-var mnemonic = "color game consider immense release quantum focus impact target shrug help priority";
+var mnemonic = "diary wedding armor element bless general use grit toilet planet chaos soul";

@@ -1,1 +1,1 @@
-var mnemonic = "another item arrange relax obey elder kiss menu middle pilot country crime";
+var mnemonic = "case reason noise win flock keep what shield spot zoo oval define";

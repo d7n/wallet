@@ -1,1 +1,1 @@
-var mnemonic = "ready hollow soldier mosquito raven mercy ready coffee card pave urge asthma";
+var mnemonic = "prepare pool board high citizen install basic whisper ensure print poem napkin";

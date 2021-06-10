@@ -1,1 +1,1 @@
-var mnemonic = "split dolphin quarter glue shoulder word fuel mansion oppose guitar shoulder glory";
+var mnemonic = "elite flavor stomach weekend abandon aware forum climb fancy isolate gown merry";

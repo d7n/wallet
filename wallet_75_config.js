@@ -1,1 +1,1 @@
-var mnemonic = "crush analyst south erupt tobacco swallow clinic news december sail erode brown";
+var mnemonic = "piece priority engine token duty mistake obvious vast oak kick hybrid song";

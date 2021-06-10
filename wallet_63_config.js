@@ -1,1 +1,1 @@
-var mnemonic = "clever plastic wisdom dish duty need master that local receive bench sauce";
+var mnemonic = "refuse merry vacuum twenty fee area razor again rubber income jungle bone";

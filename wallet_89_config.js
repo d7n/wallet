@@ -1,1 +1,1 @@
-var mnemonic = "start whale online truly era pilot bridge mercy muscle episode charge assume";
+var mnemonic = "bone perfect defense vacuum entry sugar gorilla round impulse office way olive";

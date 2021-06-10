@@ -1,1 +1,1 @@
-var mnemonic = "fence bench engage physical child humble identify stone loyal tape motor cook";
+var mnemonic = "island move region hockey trip mesh mobile salt vanish despair umbrella glad";

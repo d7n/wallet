@@ -1,1 +1,1 @@
-var mnemonic = "salute quit there stem cradle volcano reveal indicate what safe dawn faint";
+var mnemonic = "friend vivid useful fork tennis bracket mail maple loop noise matter apple";

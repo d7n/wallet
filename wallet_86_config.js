@@ -1,1 +1,1 @@
-var mnemonic = "sadness climb hazard debate boss sweet cash outside midnight flush eye away";
+var mnemonic = "trip front reopen prepare genius expose someone lonely upgrade wrap leaf flee";

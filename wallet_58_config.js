@@ -1,1 +1,1 @@
-var mnemonic = "tenant invest dutch bridge piano enlist main affair black letter lounge sadness";
+var mnemonic = "twist flee ask garbage deer merry genre ski hand record tonight dish";

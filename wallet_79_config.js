@@ -1,1 +1,1 @@
-var mnemonic = "road normal deposit lava silent alter heavy foster theme proof possible lecture";
+var mnemonic = "bridge mango someone zebra huge soldier decade into remain increase reason chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble write snap ceiling picnic flame three spare prefer voice canvas phrase";
+var mnemonic = "potato example city shove margin month pave swim turn please gate enjoy";

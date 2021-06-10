@@ -1,1 +1,1 @@
-var mnemonic = "two purchase crack dizzy chair piece knife next coast trophy waste elbow";
+var mnemonic = "decrease rebuild phone useful goose broken puzzle alter raven topic safe clever";
