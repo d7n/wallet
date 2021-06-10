@@ -1,1 +1,1 @@
-var mnemonic = "apple bronze must emerge slender blood fever barely chest lab laundry face";
+var mnemonic = "photo ritual elevator excite empty ice ball glad aware bachelor blur social";

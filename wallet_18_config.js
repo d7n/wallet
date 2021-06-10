@@ -1,1 +1,1 @@
-var mnemonic = "govern result attract smile main clip arm help pretty chaos camp doll";
+var mnemonic = "salt discover good point vital slam annual captain right song course become";

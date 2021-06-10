@@ -1,1 +1,1 @@
-var mnemonic = "cradle receive express creek age fat guard hood anger cereal wave warfare";
+var mnemonic = "congress pony actual metal camera crisp decide monitor smile device vacuum submit";

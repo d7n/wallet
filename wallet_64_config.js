@@ -1,1 +1,1 @@
-var mnemonic = "shallow cross farm coast talent zero lyrics wave day elephant lemon narrow";
+var mnemonic = "beyond squeeze load much margin suffer medal bitter baby helmet bus age";

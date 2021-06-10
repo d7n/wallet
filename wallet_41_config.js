@@ -1,1 +1,1 @@
-var mnemonic = "found time theme shoe female range clarify response tomato betray coconut pudding";
+var mnemonic = "offer army daring space sugar glass cause setup obtain endorse food crouch";

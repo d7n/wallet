@@ -1,1 +1,1 @@
-var mnemonic = "hand describe ritual insect cart flee exhibit insect grace license orphan become";
+var mnemonic = "marble lab leave tongue angry large shed sick result elite destroy around";

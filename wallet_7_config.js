@@ -1,1 +1,1 @@
-var mnemonic = "pitch valley among skirt sugar company fetch control depth advance safe yellow";
+var mnemonic = "couch milk crumble width evidence razor cliff arena truly review inherit cricket";

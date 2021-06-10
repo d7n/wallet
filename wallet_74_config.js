@@ -1,1 +1,1 @@
-var mnemonic = "deliver gospel spin crew quality hamster become easy country pave discover bleak";
+var mnemonic = "actor skill peasant clutch very park envelope number choice hand olympic option";

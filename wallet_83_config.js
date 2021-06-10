@@ -1,1 +1,1 @@
-var mnemonic = "coral other sudden fluid dentist better hawk credit avoid frequent symbol firm";
+var mnemonic = "august eagle grow enough ask awful novel language couch clay zone young";

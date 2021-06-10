@@ -1,1 +1,1 @@
-var mnemonic = "cruel then lazy never aspect right bind tackle age margin slender flag";
+var mnemonic = "margin message whisper enough already library tenant conduct merit surface bean win";

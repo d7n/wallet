@@ -1,1 +1,1 @@
-var mnemonic = "oxygen senior very spell consider blouse loop during chef refuse gloom injury";
+var mnemonic = "trash dragon sure peanut visa advance purity biology faith whip dragon symptom";

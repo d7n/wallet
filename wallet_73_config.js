@@ -1,1 +1,1 @@
-var mnemonic = "canyon east three submit observe bunker flash book rocket own wine urge";
+var mnemonic = "crime tower canoe focus gasp hamster keep blue picture tiny problem kingdom";

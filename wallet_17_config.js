@@ -1,1 +1,1 @@
-var mnemonic = "runway emerge spoon doll aspect flat basket fork answer fossil swim already";
+var mnemonic = "meat wine around exist harbor lamp trap assault heavy above first list";

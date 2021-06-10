@@ -1,1 +1,1 @@
-var mnemonic = "senior merge silly hen loud dash okay stomach marine logic tool soldier";
+var mnemonic = "rich evolve seminar kind pink shoe duck excess desert illness riot garage";

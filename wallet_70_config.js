@@ -1,1 +1,1 @@
-var mnemonic = "where entire interest east energy fold cupboard warrior crush swap hen wrap";
+var mnemonic = "squirrel soon scissors stage suggest roof tobacco lend trophy swear come horn";

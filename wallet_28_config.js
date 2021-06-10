@@ -1,1 +1,1 @@
-var mnemonic = "evil fire cat club cover ribbon device pepper jump toe coral tiger";
+var mnemonic = "six boss elite fine cup economy main upset bleak market purse peasant";

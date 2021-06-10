@@ -1,1 +1,1 @@
-var mnemonic = "void firm group razor glance switch clay gate mango during vacuum project";
+var mnemonic = "pitch unaware zebra peace keen orange scatter nation good obvious uphold bullet";

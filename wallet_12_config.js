@@ -1,1 +1,1 @@
-var mnemonic = "soon exotic leg taxi hover penalty someone gift vicious busy pond kangaroo";
+var mnemonic = "flat liberty caution decline mean more sand frost slide ill vapor inquiry";

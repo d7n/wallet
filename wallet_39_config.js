@@ -1,1 +1,1 @@
-var mnemonic = "mind elephant approve near joke corn lazy increase neither orbit tourist bunker";
+var mnemonic = "turkey dry erosion base aisle outside kingdom carry genius advance love coffee";

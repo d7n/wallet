@@ -1,1 +1,1 @@
-var mnemonic = "plunge fluid fire feel green sustain notice code apology kid razor pepper";
+var mnemonic = "grief scare stamp rival boss situate leader give copper shoot sell quit";

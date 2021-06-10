@@ -1,1 +1,1 @@
-var mnemonic = "physical egg same fog car round mix profit sport violin crazy van";
+var mnemonic = "run cement april rail eye method blush any end jealous decrease sand";

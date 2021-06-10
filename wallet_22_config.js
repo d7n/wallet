@@ -1,1 +1,1 @@
-var mnemonic = "crazy milk normal guess fork announce just modify music bargain hazard pilot";
+var mnemonic = "this enact supreme end denial bar iron fix limb rural clap caution";

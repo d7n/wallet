@@ -1,1 +1,1 @@
-var mnemonic = "note world inner nice fashion bike tape media foam face sausage swap";
+var mnemonic = "around hover tube sock crunch plate imitate beef weasel desert provide sound";

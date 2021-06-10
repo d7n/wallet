@@ -1,1 +1,1 @@
-var mnemonic = "lunar random street quarter monkey cheap verb renew never myth famous wish";
+var mnemonic = "develop scare hood corn wasp unable inspire trap immense frozen pitch rescue";

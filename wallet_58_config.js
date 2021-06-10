@@ -1,1 +1,1 @@
-var mnemonic = "original change genuine hobby cruise never powder lazy regret huge leg great";
+var mnemonic = "dog orange million erode sister able initial culture beef glass similar donate";

@@ -1,1 +1,1 @@
-var mnemonic = "angle tennis oak wealth initial possible become grid junior enact immune language";
+var mnemonic = "march yard bachelor good success fence monitor treat sample enough frame suit";

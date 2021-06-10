@@ -1,1 +1,1 @@
-var mnemonic = "spoon base shrimp talent result resemble extend elite acquire tenant athlete mountain";
+var mnemonic = "basic trick decide bicycle rocket card leader fat major dish equip orphan";

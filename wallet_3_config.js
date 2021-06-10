@@ -1,1 +1,1 @@
-var mnemonic = "saddle slender shoulder skill muscle end junior sock ship celery hint aim";
+var mnemonic = "robot buyer update ensure airport unusual wrestle tobacco drum also script level";

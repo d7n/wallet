@@ -1,1 +1,1 @@
-var mnemonic = "ready soap one boy warrior wood use umbrella recycle cannon decide record";
+var mnemonic = "health monkey trend awkward exhaust inquiry glide admit oval erase weasel fame";

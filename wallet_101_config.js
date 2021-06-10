@@ -1,1 +1,1 @@
-var mnemonic = "lesson city human torch galaxy second top trash require sport main load";
+var mnemonic = "gold engage pulse mad wide lonely expect property child pony super dish";

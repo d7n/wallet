@@ -1,1 +1,1 @@
-var mnemonic = "doctor guess hundred client verb awake narrow kingdom green harsh pledge rapid";
+var mnemonic = "near innocent public smile absent urban thumb myself salmon globe rather velvet";

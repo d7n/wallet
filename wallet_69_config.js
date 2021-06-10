@@ -1,1 +1,1 @@
-var mnemonic = "eight receive ticket switch coach shoe awful play vehicle frozen chimney faith";
+var mnemonic = "wasp pear riot myth solar speak genuine velvet twin inflict bacon output";

@@ -1,1 +1,1 @@
-var mnemonic = "three uncover glance quote spoon motor quick current age situate black catch";
+var mnemonic = "pill ill cabin when connect repeat tourist bamboo icon athlete caught giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue kitchen like scorpion sponsor parade immense cupboard jazz fortune bench voyage";
+var mnemonic = "yard member uncle second reduce champion sport token welcome omit history slam";

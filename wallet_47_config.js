@@ -1,1 +1,1 @@
-var mnemonic = "mask tissue flock belt afford science steak helmet early luxury own must";
+var mnemonic = "mix inherit offer virus evolve retire doll twenty domain vibrant dial alpha";

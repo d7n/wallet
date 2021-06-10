@@ -1,1 +1,1 @@
-var mnemonic = "fetch write use isolate twist verify shallow rack pilot clever improve artefact";
+var mnemonic = "couple sleep vehicle obtain proud arrive ask wave behind tackle symbol property";

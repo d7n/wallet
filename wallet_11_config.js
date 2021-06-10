@@ -1,1 +1,1 @@
-var mnemonic = "cause time eye animal east shift mango repeat lucky secret horse theory";
+var mnemonic = "dance nephew disagree misery soft rival dirt dust bargain fatal want sick";

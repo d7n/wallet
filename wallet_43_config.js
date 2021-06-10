@@ -1,1 +1,1 @@
-var mnemonic = "curtain census order recall source among oppose country analyst gate excuse grief";
+var mnemonic = "asset test fringe hire budget fatigue fitness screen gadget logic ginger alley";

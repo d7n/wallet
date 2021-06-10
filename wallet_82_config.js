@@ -1,1 +1,1 @@
-var mnemonic = "hawk tattoo portion win favorite erode undo involve sock tornado utility timber";
+var mnemonic = "during protect hip bleak elite sentence tragic elegant valve rival awkward mirror";

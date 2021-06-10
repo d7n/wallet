@@ -1,1 +1,1 @@
-var mnemonic = "say lunar purity obtain burger liquid nominee blast suspect episode impose about";
+var mnemonic = "balcony aware unique misery cupboard soap maze chief wool wrap praise march";

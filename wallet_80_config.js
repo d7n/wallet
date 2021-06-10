@@ -1,1 +1,1 @@
-var mnemonic = "south usage acoustic pencil jewel trust assist monkey cat ostrich romance shadow";
+var mnemonic = "alone twelve axis also rail diesel frost poet reunion penalty undo cinnamon";

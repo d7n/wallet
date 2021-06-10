@@ -1,1 +1,1 @@
-var mnemonic = "smoke exchange enroll property camp wise mother hand tissue broom practice coach";
+var mnemonic = "daring tourist put useless mail clap again bar myth alone fabric travel";

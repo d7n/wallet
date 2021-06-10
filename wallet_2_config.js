@@ -1,1 +1,1 @@
-var mnemonic = "marine speed borrow code wide flee spin tumble skill prize wire jar";
+var mnemonic = "pilot stadium custom cart blind again minute dignity sadness unfold relax peanut";

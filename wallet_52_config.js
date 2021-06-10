@@ -1,1 +1,1 @@
-var mnemonic = "fossil sauce disorder fence search load steel room gym direct wheat hair";
+var mnemonic = "aunt mandate jaguar farm educate disease scatter learn wonder magnet hire round";

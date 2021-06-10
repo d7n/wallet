@@ -1,1 +1,1 @@
-var mnemonic = "few east creek two grant glue behave lens boss reduce lab second";
+var mnemonic = "shadow range number version enforce close ten field member borrow street bulb";

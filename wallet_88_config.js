@@ -1,1 +1,1 @@
-var mnemonic = "element treat boring deny sight yard author possible chaos amount bus behave";
+var mnemonic = "live matter kitten law wave anchor shaft enforce permit bag dumb cruel";

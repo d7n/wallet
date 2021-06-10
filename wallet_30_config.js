@@ -1,1 +1,1 @@
-var mnemonic = "member cheap diesel subject merry mass device unknown erode warm velvet sample";
+var mnemonic = "oval split hunt road lend height off deer knock nation client engine";

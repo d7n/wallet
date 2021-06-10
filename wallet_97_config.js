@@ -1,1 +1,1 @@
-var mnemonic = "number arm rural squirrel focus keen water token excess milk combine raccoon";
+var mnemonic = "abstract approve amount throw impulse equal clinic spread cover horror pulp enhance";

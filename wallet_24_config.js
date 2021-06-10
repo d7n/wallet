@@ -1,1 +1,1 @@
-var mnemonic = "abstract easily undo book mobile thumb viable raw evolve rude upper practice";
+var mnemonic = "cereal tree train gadget pipe exhibit okay travel jump decline just cabbage";

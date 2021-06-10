@@ -1,1 +1,1 @@
-var mnemonic = "online cheap order text matrix little poet rescue used fade mosquito series";
+var mnemonic = "setup craft feature fever hood suffer arctic token duty alley peanut hawk";

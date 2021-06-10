@@ -1,1 +1,1 @@
-var mnemonic = "flame pelican deputy taste seat ocean recall sting peace silly lake unhappy";
+var mnemonic = "envelope cereal account gap demand test peace have bid six nominee tooth";

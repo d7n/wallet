@@ -1,1 +1,1 @@
-var mnemonic = "more volcano jeans dish view federal traffic hobby marine base rice fluid";
+var mnemonic = "bulk cigar genre dignity caution sketch winner leader certain client rocket reward";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow ribbon earn install dizzy earth student enter cute canvas infant number";
+var mnemonic = "celery neck heart size mother ability treat feel text airport damage quick";

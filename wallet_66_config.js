@@ -1,1 +1,1 @@
-var mnemonic = "popular below more elevator rather trash educate kid nuclear sunny nature innocent";
+var mnemonic = "credit priority same asthma sphere mouse census purity track visit deputy tilt";

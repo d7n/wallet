@@ -1,1 +1,1 @@
-var mnemonic = "purse supply jewel ostrich anger brand mobile plug staff civil choice frozen";
+var mnemonic = "chaos wrap glue month funny stairs ask mom foster turtle bus social";

@@ -1,1 +1,1 @@
-var mnemonic = "able accident minor advice people lady level quote kidney pumpkin tissue tiny";
+var mnemonic = "sea cargo wash organ smooth zebra unveil oblige few finish team game";

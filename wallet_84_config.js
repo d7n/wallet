@@ -1,1 +1,1 @@
-var mnemonic = "struggle fiscal acid gasp enforce absent patch motion chair sense parrot tiny";
+var mnemonic = "zoo urban priority crowd wait chalk axis edit hold fix people legal";

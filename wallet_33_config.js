@@ -1,1 +1,1 @@
-var mnemonic = "increase orphan imitate fortune sudden cloud juice before rally resource unveil direct";
+var mnemonic = "bless mother select scissors live float engage dentist awesome gift letter siege";

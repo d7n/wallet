@@ -1,1 +1,1 @@
-var mnemonic = "dawn exchange ghost ketchup unfold flat attitude urban satoshi wild multiply bleak";
+var mnemonic = "quarter rare foot lumber focus track begin butter quick beach depart celery";

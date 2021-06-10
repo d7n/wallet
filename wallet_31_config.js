@@ -1,1 +1,1 @@
-var mnemonic = "april eternal tumble another van exercise increase alpha visit second trust unable";
+var mnemonic = "ignore cave fragile road invite music club club grab light broom silk";

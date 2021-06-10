@@ -1,1 +1,1 @@
-var mnemonic = "sun sell clinic mechanic what grain pistol frost skin ring cancel share";
+var mnemonic = "baby shy pencil palm happy chief grow exhaust border senior tuna slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "correct drip spatial negative monkey lonely hood patient black hurt wing dish";
+var mnemonic = "until gaze drip shaft hotel please amateur occur spray faith glass angle";

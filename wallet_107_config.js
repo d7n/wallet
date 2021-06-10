@@ -1,1 +1,1 @@
-var mnemonic = "noise lion ankle husband history faith polar ginger lend fold galaxy never";
+var mnemonic = "march oxygen shoulder frequent tiny dismiss danger mask hunt pyramid congress pelican";

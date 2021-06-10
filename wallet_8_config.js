@@ -1,1 +1,1 @@
-var mnemonic = "image kind curve pulse caught gadget hub rare opera choose fee fame";
+var mnemonic = "truck idea runway sketch bomb upgrade wisdom duty divorce matrix defense cattle";

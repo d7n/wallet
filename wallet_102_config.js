@@ -1,1 +1,1 @@
-var mnemonic = "gauge bunker champion wing crane earn baby give game concert crawl clap";
+var mnemonic = "tired over pond north bulk nature doll over invite buyer dilemma usage";

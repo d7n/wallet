@@ -1,1 +1,1 @@
-var mnemonic = "hope alley sail expect video symbol sock action lecture inmate reject neutral";
+var mnemonic = "stay exclude exhibit federal melt prison giggle season famous tiger elite gorilla";

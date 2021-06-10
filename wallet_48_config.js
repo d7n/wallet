@@ -1,1 +1,1 @@
-var mnemonic = "remember mixture pluck describe know gap purity chalk hurt crumble boil social";
+var mnemonic = "paper roof scrub enact baby confirm item confirm expose rude broken unlock";

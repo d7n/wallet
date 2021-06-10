@@ -1,1 +1,1 @@
-var mnemonic = "below vote shuffle artist verify between leader ritual rose apology mushroom call";
+var mnemonic = "describe eyebrow edge gym insane earth sibling hold theme coconut witness cake";

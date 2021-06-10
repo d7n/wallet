@@ -1,1 +1,1 @@
-var mnemonic = "still law addict rural this taxi embark parent spider random clutch convince";
+var mnemonic = "flock spider flip flock glory harsh auto ability festival fish lyrics runway";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild solve shoulder suit doll regular dizzy gym habit sound negative guilt";
+var mnemonic = "rural evolve plug vessel tray pool pluck flag solve decline benefit flame";

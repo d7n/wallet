@@ -1,1 +1,1 @@
-var mnemonic = "stove cancel flock girl hunt nothing fatal noble recycle traffic critic draw";
+var mnemonic = "skill excuse swarm gospel sound topple wait wear hair film forget auto";

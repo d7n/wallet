@@ -1,1 +1,1 @@
-var mnemonic = "oyster utility cube casino health oblige skin crazy wire creek clump choose";
+var mnemonic = "heavy unique write actual grape olive toddler charge bunker armed taste ancient";

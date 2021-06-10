@@ -1,1 +1,1 @@
-var mnemonic = "crush athlete sunny junior double flush settle anchor neither drama inflict elbow";
+var mnemonic = "near welcome rich try penalty around little acquire deny sunset undo bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "element margin sphere bamboo brush false endless rigid final erosion spell tonight";
+var mnemonic = "slogan diary panel muffin chef bench turn alcohol bamboo coin motor extra";

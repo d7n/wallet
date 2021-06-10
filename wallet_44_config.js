@@ -1,1 +1,1 @@
-var mnemonic = "giggle quote surge cousin add pear miss game link idea lava benefit";
+var mnemonic = "below fault object size poverty clock yellow shrimp foil cruel broccoli actual";

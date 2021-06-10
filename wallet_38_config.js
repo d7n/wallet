@@ -1,1 +1,1 @@
-var mnemonic = "category six cream present buzz sure theme luxury bubble resource glory rate";
+var mnemonic = "prison stand tiger coyote home fiber casual bronze save border citizen salt";

@@ -1,1 +1,1 @@
-var mnemonic = "impact mirror auction scene primary duty bulk void income beyond catch discover";
+var mnemonic = "rubber original into excite sea mom drill burst citizen piano anchor blue";

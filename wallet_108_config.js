@@ -1,1 +1,1 @@
-var mnemonic = "fatal inherit junior shield manage seed drop cabin town model risk make";
+var mnemonic = "alcohol aunt yellow team lazy distance coral snow bless much candy amateur";

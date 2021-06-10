@@ -1,1 +1,1 @@
-var mnemonic = "company idea news road mesh until city feed actual matter blast person";
+var mnemonic = "pipe venture grace blood gaze increase excess innocent add forward bullet impact";

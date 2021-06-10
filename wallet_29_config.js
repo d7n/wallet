@@ -1,1 +1,1 @@
-var mnemonic = "pair dinner health brother point oyster early suspect chronic bright fence drive";
+var mnemonic = "outer water cereal globe eight spatial whip market inject host earn wealth";

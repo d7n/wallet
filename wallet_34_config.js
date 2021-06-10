@@ -1,1 +1,1 @@
-var mnemonic = "club ride enrich quick monitor poverty episode second mushroom junk jazz mule";
+var mnemonic = "clinic walnut blame gloom annual horse final network end gauge cotton system";

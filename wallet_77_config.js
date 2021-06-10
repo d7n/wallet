@@ -1,1 +1,1 @@
-var mnemonic = "nation stage away vivid remove ginger distance happy camp dune primary tuna";
+var mnemonic = "flip ahead kingdom hungry soft visit share small erase raccoon exit gauge";

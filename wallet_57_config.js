@@ -1,1 +1,1 @@
-var mnemonic = "skirt iron sure abandon omit certain talk copy cage egg coast dial";
+var mnemonic = "girl recycle husband foam unfold jewel crumble logic volume ahead since donkey";

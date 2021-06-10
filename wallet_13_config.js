@@ -1,1 +1,1 @@
-var mnemonic = "tragic once roof syrup horse ethics horn cloud wide ignore frozen brave";
+var mnemonic = "dog card cheap art key few cigar gentle flip tube license have";

@@ -1,1 +1,1 @@
-var mnemonic = "echo fame setup peasant soap fit chase detail announce asset antique assume";
+var mnemonic = "pigeon buffalo arrive abstract jar early slice volcano soccer motor use shrug";

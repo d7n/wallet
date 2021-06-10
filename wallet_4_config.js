@@ -1,1 +1,1 @@
-var mnemonic = "capital inch weasel slab nephew track face lend boring cushion giggle prosper";
+var mnemonic = "impact barely tiger laugh claw check blush cancel one camp measure say";

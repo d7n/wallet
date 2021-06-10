@@ -1,1 +1,1 @@
-var mnemonic = "end april thing symptom taste excuse march oyster push this arrange rhythm";
+var mnemonic = "cloth satisfy bleak payment flag supply what series code march hunt opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "book organ camera fiction talk general inmate video job reduce spoon hazard";
+var mnemonic = "denial lemon pear wing odor unfold wheel dice setup attitude wheel jelly";

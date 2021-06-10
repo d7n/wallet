@@ -1,1 +1,1 @@
-var mnemonic = "novel conduct fitness ozone enhance coffee jaguar drill banner kiwi reveal sea";
+var mnemonic = "math tube virtual school swift science clump answer midnight swarm wonder behave";

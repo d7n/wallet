@@ -1,1 +1,1 @@
-var mnemonic = "mail medal barely dentist flower one mention zebra toss wire echo fame";
+var mnemonic = "voice girl disease renew general warfare mango funny awake mimic clip trend";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze faint edit stem balance blur volcano blanket vacant bicycle bubble recycle";
+var mnemonic = "fish enforce spread such normal fancy van merge have topple unable bounce";

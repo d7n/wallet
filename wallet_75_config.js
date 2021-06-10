@@ -1,1 +1,1 @@
-var mnemonic = "mixed project airport seat finish iron father chronic silly this similar series";
+var mnemonic = "will april fun cancel beauty axis country sustain wish choice flush cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "program repair say vocal never moon rich brisk hotel bread soldier hedgehog";
+var mnemonic = "autumn alter sad minor invite danger swarm reject giraffe bonus damp scheme";

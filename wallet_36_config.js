@@ -1,1 +1,1 @@
-var mnemonic = "club salmon merit badge mercy assault word hand run job rebel clerk";
+var mnemonic = "change diagram casino away garden trumpet very shine rain various tragic describe";
