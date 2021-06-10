@@ -1,1 +1,1 @@
-var mnemonic = "someone crash snake fat asthma avocado census snap vocal dance hold build";
+var mnemonic = "physical cannon metal coyote toddler result again useful ranch improve short outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "robust comfort final rigid acoustic direct crouch win tourist blame old nominee";
+var mnemonic = "distance tunnel benefit city squeeze link edge toddler job slight stand poverty";

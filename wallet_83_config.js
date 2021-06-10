@@ -1,1 +1,1 @@
-var mnemonic = "dynamic bottom water blouse dune quote anxiety pass palm round motor wrist";
+var mnemonic = "toward mosquito decline expect census relief bind report awkward clog rebel forward";

@@ -1,1 +1,1 @@
-var mnemonic = "army vast steel near flash believe divert game soccer youth settle ostrich";
+var mnemonic = "shed border vague kind diet often author maple song soda kid motion";

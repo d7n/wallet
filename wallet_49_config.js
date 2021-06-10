@@ -1,1 +1,1 @@
-var mnemonic = "author spend guilt mule enroll citizen head disease rhythm cheese zebra cattle";
+var mnemonic = "slim pledge drip hidden wear eagle repair addict twist purchase dolphin talent";

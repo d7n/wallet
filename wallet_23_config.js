@@ -1,1 +1,1 @@
-var mnemonic = "fog rural loud slush explain old timber income happy visual parrot since";
+var mnemonic = "save walnut travel kiwi father insane february write coil easily sustain senior";

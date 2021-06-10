@@ -1,1 +1,1 @@
-var mnemonic = "excuse keen power hamster meadow nest image bean service about knife aim";
+var mnemonic = "cousin sibling that shine tomorrow flame indicate spin either join rural window";

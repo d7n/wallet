@@ -1,1 +1,1 @@
-var mnemonic = "warm funny dumb evil smile purse employ vicious grunt elegant title snow";
+var mnemonic = "endorse right bless skill present wish initial coral rotate always useless blood";

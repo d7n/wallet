@@ -1,1 +1,1 @@
-var mnemonic = "return amount mesh pledge violin barrel enjoy fire novel flock elder indoor";
+var mnemonic = "cake quick ramp accuse where grass mask smoke waste endless toe anger";

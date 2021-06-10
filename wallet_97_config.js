@@ -1,1 +1,1 @@
-var mnemonic = "indicate stuff lake million van vital surge outer same spend layer inch";
+var mnemonic = "maximum cushion process then install goddess label fog seat tell outer relax";

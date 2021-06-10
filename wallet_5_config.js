@@ -1,1 +1,1 @@
-var mnemonic = "swamp inspire health dignity gate left lab fossil nut next glow section";
+var mnemonic = "model empower awkward voice cannon box dizzy tray impulse wisdom prefer present";

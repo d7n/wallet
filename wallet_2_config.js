@@ -1,1 +1,1 @@
-var mnemonic = "pluck direct copy pride typical supply under scale dream puppy depend wealth";
+var mnemonic = "shoot parade high feature danger repair shadow sing coach issue prefer nation";

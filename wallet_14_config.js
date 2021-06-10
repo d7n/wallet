@@ -1,1 +1,1 @@
-var mnemonic = "carpet jealous glad improve secret minimum face trick bar float slim soccer";
+var mnemonic = "between leopard random shy give dinner tone settle ski miss elevator alley";

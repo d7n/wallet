@@ -1,1 +1,1 @@
-var mnemonic = "museum favorite lyrics bind announce hip clerk material embark helmet bicycle mirror";
+var mnemonic = "siren predict dumb suggest couch rug price useless imitate hole shaft machine";

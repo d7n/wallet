@@ -1,1 +1,1 @@
-var mnemonic = "timber music brick chest custom ozone salt recipe interest carpet shove time";
+var mnemonic = "segment casual average mushroom audit act decide brick rebuild swing obey ranch";

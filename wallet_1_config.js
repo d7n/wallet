@@ -1,1 +1,1 @@
-var mnemonic = "innocent table salt original symbol skin ready bracket cruise belt silk people";
+var mnemonic = "sketch tongue dish drastic orphan galaxy remove gasp razor path differ always";

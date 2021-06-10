@@ -1,1 +1,1 @@
-var mnemonic = "reflect vote burger will immense trick wild fork prosper increase mandate web";
+var mnemonic = "width amateur thing peanut flame trouble rocket feature urge industry lady ramp";

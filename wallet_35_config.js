@@ -1,1 +1,1 @@
-var mnemonic = "absent fly boost cake drastic remind glue intact useful skill better curtain";
+var mnemonic = "trash base device legend slot museum horn globe verify seminar affair wisdom";

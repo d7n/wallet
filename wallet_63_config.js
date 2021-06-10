@@ -1,1 +1,1 @@
-var mnemonic = "health damp slab win stereo fluid later vault match frost ordinary element";
+var mnemonic = "brass maximum gate street robot gospel cradle frown chat valid pull flock";

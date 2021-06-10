@@ -1,1 +1,1 @@
-var mnemonic = "vast cricket pilot mother duck sibling soldier awkward media bring often cargo";
+var mnemonic = "attitude jazz device table age loud disagree fork faith ugly spike palace";

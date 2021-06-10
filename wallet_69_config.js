@@ -1,1 +1,1 @@
-var mnemonic = "casino between travel coyote upper flight scan dizzy super ostrich benefit basket";
+var mnemonic = "want pistol strike retire genuine brush wrist treat slush connect divorce mercy";

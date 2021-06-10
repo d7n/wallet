@@ -1,1 +1,1 @@
-var mnemonic = "heavy plunge please course great razor cool this knee glass inflict loyal";
+var mnemonic = "execute siege wrap verify remind they deliver bounce truck bargain length wood";

@@ -1,1 +1,1 @@
-var mnemonic = "flat mixture hunt ball sad boil yellow wage farm slogan catch noise";
+var mnemonic = "present tiger harsh remember deposit blast swallow vacuum scissors present grain problem";

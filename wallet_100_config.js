@@ -1,1 +1,1 @@
-var mnemonic = "sauce economy clerk refuse pig chapter eyebrow depend squeeze ginger evoke joke";
+var mnemonic = "hat current traffic elegant win guard atom mother biology clog street comic";

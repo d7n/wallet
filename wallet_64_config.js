@@ -1,1 +1,1 @@
-var mnemonic = "pond bubble dial prefer recipe blame reduce eagle safe cheese quit glimpse";
+var mnemonic = "payment horn hat advance bicycle harvest purpose glass tape thunder private battle";

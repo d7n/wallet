@@ -1,1 +1,1 @@
-var mnemonic = "odor friend assist drill coil style seed garbage vocal goat stereo boost";
+var mnemonic = "saddle gadget okay divert divide illegal party absent physical initial curious duty";

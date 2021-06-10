@@ -1,1 +1,1 @@
-var mnemonic = "such amazing attitude ensure exhibit rival ticket amused unit inmate during icon";
+var mnemonic = "key ritual safe legal caught shiver giant disease perfect differ rocket addict";

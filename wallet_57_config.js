@@ -1,1 +1,1 @@
-var mnemonic = "lottery review margin seat oblige advice scout tank access demand left scissors";
+var mnemonic = "chalk wing blade dynamic bundle retire live review bread hamster utility priority";

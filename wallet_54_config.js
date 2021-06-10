@@ -1,1 +1,1 @@
-var mnemonic = "long kangaroo warfare garage erode enemy purity just frog priority meat knife";
+var mnemonic = "win six eight void sample combine gap field unveil excite soft first";

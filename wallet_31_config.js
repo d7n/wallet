@@ -1,1 +1,1 @@
-var mnemonic = "matrix rapid access link spawn alone magnet project caught extra wagon any";
+var mnemonic = "twenty perfect sunset cancel embark material sound true regular insect cat client";

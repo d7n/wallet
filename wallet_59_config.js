@@ -1,1 +1,1 @@
-var mnemonic = "tiger orbit diamond fee major city egg soup field much uncle clever";
+var mnemonic = "zero absorb spray awesome supply fence term solve spy hotel live people";

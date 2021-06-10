@@ -1,1 +1,1 @@
-var mnemonic = "screen chuckle ability erase like unlock gadget tomorrow pulp little follow rigid";
+var mnemonic = "tired cigar bundle wisdom witness olympic minor squeeze result strike guitar travel";

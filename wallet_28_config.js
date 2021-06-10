@@ -1,1 +1,1 @@
-var mnemonic = "lake opinion add royal actual icon thrive bargain select rural tuition group";
+var mnemonic = "endorse mail sight approve kiss million move organ parent jaguar bless afford";

@@ -1,1 +1,1 @@
-var mnemonic = "arena canyon depth daughter gorilla narrow silver light submit talk snack chimney";
+var mnemonic = "notice gym cat glow cigar velvet infant illness project tape space bleak";

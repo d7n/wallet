@@ -1,1 +1,1 @@
-var mnemonic = "pact quit camera table jewel enter blast advice aisle sketch deal tomato";
+var mnemonic = "page case boat curve intact attract pretty laugh differ great liberty place";

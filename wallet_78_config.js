@@ -1,1 +1,1 @@
-var mnemonic = "spatial mansion claim sense quarter trash amateur sea ankle twice critic garbage";
+var mnemonic = "demise device direct example motor owner vacant awesome similar easily slot army";

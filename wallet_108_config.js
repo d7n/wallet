@@ -1,1 +1,1 @@
-var mnemonic = "marriage wish raven tip boil essence dismiss genuine client rough ill mix";
+var mnemonic = "will place ahead erosion city next bicycle rotate bleak cluster extra bind";

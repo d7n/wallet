@@ -1,1 +1,1 @@
-var mnemonic = "escape blossom armor work rapid tenant only edit scrub floor another birth";
+var mnemonic = "ahead foot hope chief upper pluck blur balance loan afraid pole judge";

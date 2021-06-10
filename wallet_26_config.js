@@ -1,1 +1,1 @@
-var mnemonic = "another disagree voice enable favorite reunion fatal erase attract front tiger word";
+var mnemonic = "again buddy census appear slow simple flip middle couch glide blossom two";

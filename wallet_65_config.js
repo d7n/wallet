@@ -1,1 +1,1 @@
-var mnemonic = "gesture palace echo usual cloth popular smooth twelve angry surface catalog desert";
+var mnemonic = "math dry blade bubble quantum trophy fall face voyage clay armed subway";

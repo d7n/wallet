@@ -1,1 +1,1 @@
-var mnemonic = "polar ivory expand twenty lion veteran private educate valid ride sell rotate";
+var mnemonic = "answer loop detect area picture onion learn blind rubber impose woman update";

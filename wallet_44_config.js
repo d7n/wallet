@@ -1,1 +1,1 @@
-var mnemonic = "page museum resource opinion police escape seven seed hood sell dumb energy";
+var mnemonic = "right breeze enact early sample turn host list music atom fitness cute";

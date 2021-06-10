@@ -1,1 +1,1 @@
-var mnemonic = "bag bubble fire toe fold sock arm easily satisfy rally father rib";
+var mnemonic = "stage issue harvest day lyrics leaf chalk oxygen chair basic grab number";

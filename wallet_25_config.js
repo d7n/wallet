@@ -1,1 +1,1 @@
-var mnemonic = "couple venue false book nothing phrase opinion analyst drill ridge truly between";
+var mnemonic = "roof crane mask enforce inform local original script love camp female weekend";

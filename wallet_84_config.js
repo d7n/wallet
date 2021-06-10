@@ -1,1 +1,1 @@
-var mnemonic = "pony bridge reunion soft shove hover palace subway rifle february crazy decide";
+var mnemonic = "grant chimney farm pride stage pitch radar venture lamp deer jungle market";

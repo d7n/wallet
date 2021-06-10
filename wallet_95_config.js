@@ -1,1 +1,1 @@
-var mnemonic = "fabric wet consider betray edge addict history perfect arrive approve leg journey";
+var mnemonic = "canal prize margin utility vague wish benefit unknown maximum minute timber skull";

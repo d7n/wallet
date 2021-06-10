@@ -1,1 +1,1 @@
-var mnemonic = "crack now rubber ghost alien real muscle ranch budget wrist day only";
+var mnemonic = "unfair find mouse hedgehog gym culture stadium loan hurt athlete embark still";

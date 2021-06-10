@@ -1,1 +1,1 @@
-var mnemonic = "panther circle tide puppy loan used farm start sniff blossom kiss enlist";
+var mnemonic = "mimic monkey leader option luggage unknown link oil way general recycle island";

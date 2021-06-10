@@ -1,1 +1,1 @@
-var mnemonic = "demand beauty chapter approve arena measure car smoke person adjust know model";
+var mnemonic = "target target chalk arch impulse library mind claw victory girl glory spend";

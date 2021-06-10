@@ -1,1 +1,1 @@
-var mnemonic = "middle frown guard fly refuse pulse spatial flavor sport dry tunnel empower";
+var mnemonic = "sure scale bacon rather donkey rocket area window person body wrap switch";

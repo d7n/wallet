@@ -1,1 +1,1 @@
-var mnemonic = "carpet promote kidney minor visual sing decrease small wolf tent skull resource";
+var mnemonic = "accuse income reunion ride cart marble opera thing glory sniff ceiling fly";

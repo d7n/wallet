@@ -1,1 +1,1 @@
-var mnemonic = "course birth hybrid network away poverty rely dolphin stamp invest fruit cute";
+var mnemonic = "little broccoli security bridge disorder observe typical crack night fence sausage swing";

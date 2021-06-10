@@ -1,1 +1,1 @@
-var mnemonic = "split honey awake chaos sport vivid achieve bullet task define story enrich";
+var mnemonic = "bike autumn rigid during west place crawl wait infant olive switch rapid";

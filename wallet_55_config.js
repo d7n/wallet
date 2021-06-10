@@ -1,1 +1,1 @@
-var mnemonic = "pond reject sick you manage impulse genre decrease reunion similar list social";
+var mnemonic = "direct lumber essence predict exchange february execute damage often dilemma liberty tip";

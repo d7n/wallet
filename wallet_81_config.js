@@ -1,1 +1,1 @@
-var mnemonic = "diamond drill detect mention shoe legal butter engine balance olympic song problem";
+var mnemonic = "disorder charge patient spider upgrade luggage situate sponsor chase mind item famous";

@@ -1,1 +1,1 @@
-var mnemonic = "basket road guilt blame dawn notable coil adapt when kidney window husband";
+var mnemonic = "million accuse sad nominee sunset vacuum cargo abandon nasty shop tissue admit";

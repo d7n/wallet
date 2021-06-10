@@ -1,1 +1,1 @@
-var mnemonic = "tent exchange drive modify sad visa flag affair great census across resemble";
+var mnemonic = "reveal maximum spin laptop nuclear click pilot together drip sheriff dragon column";

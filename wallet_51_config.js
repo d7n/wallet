@@ -1,1 +1,1 @@
-var mnemonic = "stem lion omit hybrid stadium print smoke gain goose great vote world";
+var mnemonic = "shock debris exile october goat eight able catch pulp payment face smile";

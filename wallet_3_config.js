@@ -1,1 +1,1 @@
-var mnemonic = "bring retreat indicate magic near upper say decide network youth urban edit";
+var mnemonic = "talk gossip idle ring remind spider cat funny holiday fiscal claim slice";

@@ -1,1 +1,1 @@
-var mnemonic = "resist merit place lizard wool shell carbon phone crystal sad august soon";
+var mnemonic = "pitch green thank dust mountain quote brass turn athlete permit plastic catch";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige unhappy runway retire cup hotel concert toy leisure useless hour frown";
+var mnemonic = "measure trophy zoo dish casual proud slim sugar pair client lens today";

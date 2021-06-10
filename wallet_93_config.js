@@ -1,1 +1,1 @@
-var mnemonic = "offer diesel deer original punch wrap embark notice neutral tube dream catch";
+var mnemonic = "toward photo attack gorilla direct side kite enhance spread obscure practice cement";

@@ -1,1 +1,1 @@
-var mnemonic = "dance trigger lumber slim result boil orphan ahead such rhythm smoke space";
+var mnemonic = "history blame target later daughter option drink win focus moment promote rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "attract cattle polar solid wolf refuse devote laugh feed bonus hand now";
+var mnemonic = "guess soup youth bless suffer ski during sand view push also long";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol pear economy lens assault snow spoil airport cash town aware mention";
+var mnemonic = "impulse height glow general bargain enable erode first language choose true left";

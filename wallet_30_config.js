@@ -1,1 +1,1 @@
-var mnemonic = "champion gain pass limit hold service they web acid demand merit attract";
+var mnemonic = "hub scan federal arctic mixed clip remain saddle tribe track blanket rotate";

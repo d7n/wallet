@@ -1,1 +1,1 @@
-var mnemonic = "pupil federal lamp purpose crew put web thrive scheme figure clutch glad";
+var mnemonic = "envelope raccoon design vacuum shop brother wall amused apart random artefact satisfy";

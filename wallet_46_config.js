@@ -1,1 +1,1 @@
-var mnemonic = "dolphin desk arch mix cream require craft parrot lemon struggle wild inhale";
+var mnemonic = "lonely expose eye shoot swim area monster wheat congress kitten frame illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "easy hope exile away alone orient muscle dinosaur stamp speed rigid few";
+var mnemonic = "immense muscle frown soldier thumb alarm number oak depart spatial great age";

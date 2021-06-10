@@ -1,1 +1,1 @@
-var mnemonic = "arrange hero relief vault earth day provide bean mercy goose order laugh";
+var mnemonic = "fancy together bless logic enjoy canal alarm glad jealous onion crucial enjoy";

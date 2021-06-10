@@ -1,1 +1,1 @@
-var mnemonic = "right expire excess cover two hen cat celery all aspect rhythm cabbage";
+var mnemonic = "radio mountain eye foot term initial dog found sun ecology bunker vivid";

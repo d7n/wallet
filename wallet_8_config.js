@@ -1,1 +1,1 @@
-var mnemonic = "window city person chapter gesture depart typical sketch cart sphere utility pluck";
+var mnemonic = "parade sense render assist churn shoe arch gate crunch olympic milk hole";

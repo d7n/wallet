@@ -1,1 +1,1 @@
-var mnemonic = "shield enter door genius transfer shaft sound surround tower liberty tenant stuff";
+var mnemonic = "prosper pretty galaxy bargain kangaroo fly female neutral mosquito emerge response time";

@@ -1,1 +1,1 @@
-var mnemonic = "change enhance armed screen dismiss excite cup surge twin foot lobster pipe";
+var mnemonic = "sorry club puppy force donor pulp token imitate agree range actual decade";

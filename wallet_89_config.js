@@ -1,1 +1,1 @@
-var mnemonic = "switch turn alert father loop exhibit dirt turn pact dumb stamp identify";
+var mnemonic = "egg modify size three science credit spy try parent puppy avocado seek";

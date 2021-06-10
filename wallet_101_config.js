@@ -1,1 +1,1 @@
-var mnemonic = "resemble pill air twenty proud word rail address barrel away hollow harvest";
+var mnemonic = "eye segment local cricket attack grunt tree jealous cluster shift trend cricket";

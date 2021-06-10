@@ -1,1 +1,1 @@
-var mnemonic = "salt core life also enforce cereal scissors labor hat pig similar hospital";
+var mnemonic = "name spatial turkey noise stereo vague own quiz advice confirm speak divorce";

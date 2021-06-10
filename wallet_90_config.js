@@ -1,1 +1,1 @@
-var mnemonic = "fever side depend lamp survey praise wealth alone climb emerge quality rice";
+var mnemonic = "rent tumble blur vault animal loud angry coconut simple crisp present polar";

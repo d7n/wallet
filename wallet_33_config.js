@@ -1,1 +1,1 @@
-var mnemonic = "bamboo umbrella stamp priority favorite leopard smooth rose pencil chase tag reunion";
+var mnemonic = "awake feel glance stomach inquiry use wisdom page novel coast about version";

@@ -1,1 +1,1 @@
-var mnemonic = "soon wash tomorrow outer other draw hobby salt aware refuse renew ordinary";
+var mnemonic = "blame dutch gas already suffer price dash sausage boost sea sheriff notable";

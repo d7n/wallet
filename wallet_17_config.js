@@ -1,1 +1,1 @@
-var mnemonic = "caution virus payment alert opera uncover chat kiss husband senior account small";
+var mnemonic = "choose clutch stock country approve laundry odor repeat energy buffalo million tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "foam hedgehog blouse panic purpose sphere much feed payment antique present autumn";
+var mnemonic = "hungry penalty satisfy stadium edit garlic spoil nasty recall wear issue vendor";

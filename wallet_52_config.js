@@ -1,1 +1,1 @@
-var mnemonic = "auction enemy two february always curious april main noise sound master link";
+var mnemonic = "burst embark garbage harbor beyond animal tonight fly excess rack call assume";

@@ -1,1 +1,1 @@
-var mnemonic = "section asthma observe stable few member patrol chalk mobile bullet afford world";
+var mnemonic = "tourist guilt crush spot picture board private october soap promote tail pitch";

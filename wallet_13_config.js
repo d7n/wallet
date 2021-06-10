@@ -1,1 +1,1 @@
-var mnemonic = "fetch possible seven either quit shuffle push treat stairs chimney wealth stage";
+var mnemonic = "cradle result celery basket lobster mirror sentence seed focus topple width shed";

@@ -1,1 +1,1 @@
-var mnemonic = "wash buddy october fiber umbrella embody either holiday prevent appear cheese long";
+var mnemonic = "follow slim sentence picnic hood tunnel bike hunt inch own tower toss";

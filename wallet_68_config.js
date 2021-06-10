@@ -1,1 +1,1 @@
-var mnemonic = "share garlic garment suit supreme danger puppy explain staff direct seat talk";
+var mnemonic = "smile census cave clap soon mansion swamp describe hen dentist anxiety charge";

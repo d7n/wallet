@@ -1,1 +1,1 @@
-var mnemonic = "napkin infant alone miracle ghost wealth alien debate virtual admit verb oval";
+var mnemonic = "cigar defense amount lizard clean license survey diary trouble human sauce circle";

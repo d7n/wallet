@@ -1,1 +1,1 @@
-var mnemonic = "crack cram security convince fox fashion clinic word spray noise mystery tiny";
+var mnemonic = "ice oven world eagle ill margin release grit cash brisk lounge neither";

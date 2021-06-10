@@ -1,1 +1,1 @@
-var mnemonic = "silver skill loyal stairs cable process fire inject march into pizza junior";
+var mnemonic = "install happy skirt receive feel library often baby occur tissue marble okay";

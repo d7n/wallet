@@ -1,1 +1,1 @@
-var mnemonic = "clock omit trip visa pull trigger trash obey enlist patch switch car";
+var mnemonic = "fiber devote speed window congress error tiny shop milk decide pulse dash";
