@@ -1,1 +1,1 @@
-var mnemonic = "tomato decrease change casual cruel expand lecture tooth pink bunker include amount";
+var mnemonic = "fiber hungry plate rug tent armor absurd mouse behave dance able useless";

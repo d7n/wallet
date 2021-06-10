@@ -1,1 +1,1 @@
-var mnemonic = "job still measure illness wrong inherit prefer column harsh clever grace suggest";
+var mnemonic = "risk stereo busy replace vintage marble issue increase tribe robust jar alpha";

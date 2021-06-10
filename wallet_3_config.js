@@ -1,1 +1,1 @@
-var mnemonic = "jealous typical exit elevator link know frequent ride income similar clown obtain";
+var mnemonic = "easy behave lock thunder bright spread arena awesome bind cousin gravity force";

@@ -1,1 +1,1 @@
-var mnemonic = "hero report bicycle tide success patient drop employ alert analyst diary doll";
+var mnemonic = "protect champion cruise boat basic arm portion antique scatter ozone sample rice";

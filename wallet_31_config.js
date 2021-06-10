@@ -1,1 +1,1 @@
-var mnemonic = "typical focus lunar clip fade gate stay utility attract degree labor trim";
+var mnemonic = "salute major nation position distance indoor walk verb man brick dragon keen";

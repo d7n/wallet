@@ -1,1 +1,1 @@
-var mnemonic = "fatigue bird kick message club ancient kitten trust search benefit aerobic gaze";
+var mnemonic = "orient catalog peasant stairs race quick glass donate vague picture case catalog";

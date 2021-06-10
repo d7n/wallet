@@ -1,1 +1,1 @@
-var mnemonic = "deputy return round dizzy tank cherry dynamic rude december wash sting clever";
+var mnemonic = "together venue differ early tackle skill explain december federal tower armor option";

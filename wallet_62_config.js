@@ -1,1 +1,1 @@
-var mnemonic = "vivid divert install frown source hockey divert knife august marine canoe gorilla";
+var mnemonic = "egg canal fresh diamond offer right steak frequent ring jazz vehicle rate";

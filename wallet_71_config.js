@@ -1,1 +1,1 @@
-var mnemonic = "wreck soldier delay shop save want bridge resemble distance spoon nominee update";
+var mnemonic = "frog exist stem canoe rotate welcome pelican safe piano neither bulk title";

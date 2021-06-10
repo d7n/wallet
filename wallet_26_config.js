@@ -1,1 +1,1 @@
-var mnemonic = "explain rare frog decade chapter dice false width boring mango margin hidden";
+var mnemonic = "share cube veteran multiply ready plug rocket logic clean knife dirt asset";

@@ -1,1 +1,1 @@
-var mnemonic = "globe toy cross radar brown bubble tip demise yellow like orchard priority";
+var mnemonic = "business garment decade mean sausage rapid inner master bus holiday scorpion giraffe";

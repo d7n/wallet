@@ -1,1 +1,1 @@
-var mnemonic = "trumpet anchor invite discover detail idea stand resist profit green curtain wool";
+var mnemonic = "able skate atom embody phrase tunnel bounce culture picnic notice grow slam";

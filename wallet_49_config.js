@@ -1,1 +1,1 @@
-var mnemonic = "wave dose bus destroy tree nerve dream audit heart review wife tide";
+var mnemonic = "bunker section dash code quote deny around gallery sustain exercise sample gun";

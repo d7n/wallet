@@ -1,1 +1,1 @@
-var mnemonic = "scout parrot toddler network tell wheat swallow movie relief actual cable boost";
+var mnemonic = "forum task milk aim crew amazing metal swap month drive evil lawn";

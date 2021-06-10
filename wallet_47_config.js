@@ -1,1 +1,1 @@
-var mnemonic = "social panda clock frame sorry oval legal shrimp boil cluster copy impact";
+var mnemonic = "pond benefit very estate when trip reject absent slot sign blush stone";

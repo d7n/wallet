@@ -1,1 +1,1 @@
-var mnemonic = "enforce dress local topic pulse remain blast rate diary denial pelican dove";
+var mnemonic = "try episode matter master never wrong guide infant dentist motor idea pupil";

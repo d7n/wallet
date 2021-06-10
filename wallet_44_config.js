@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur inquiry inherit scorpion able high voyage media pave select identify return";
+var mnemonic = "easily network grit confirm sense pistol enroll then neck pet name trouble";

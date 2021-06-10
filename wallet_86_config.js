@@ -1,1 +1,1 @@
-var mnemonic = "anger chief eager pottery pulp razor two pelican payment upgrade pepper shoot";
+var mnemonic = "lunar try country chronic custom visa save erupt asset web finger puzzle";

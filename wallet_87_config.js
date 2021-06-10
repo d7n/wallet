@@ -1,1 +1,1 @@
-var mnemonic = "nut mule spirit smoke liar electric observe verb place undo raven march";
+var mnemonic = "green benefit humor suffer ketchup future adult snow range cement fork skin";

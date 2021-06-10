@@ -1,1 +1,1 @@
-var mnemonic = "decide nuclear uncle antique decline lift device dawn fury weekend trumpet uncover";
+var mnemonic = "mixture explain knee train alert this brief throw include boil chimney grape";

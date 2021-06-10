@@ -1,1 +1,1 @@
-var mnemonic = "bus odor song lens wing ramp velvet butter donate gain morning odor";
+var mnemonic = "seminar parrot two chaos ask avocado skull salt boil invest junk blame";

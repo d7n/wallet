@@ -1,1 +1,1 @@
-var mnemonic = "wasp twice scare mean practice evoke quality grow master program barely grant";
+var mnemonic = "voyage electric patrol rubber custom sniff onion erosion method betray logic proof";

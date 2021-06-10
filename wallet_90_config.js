@@ -1,1 +1,1 @@
-var mnemonic = "over impose first dress lift dish tide math champion vivid kiwi swing";
+var mnemonic = "spread can bright plug float around word pepper certain gown debate fortune";

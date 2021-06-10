@@ -1,1 +1,1 @@
-var mnemonic = "inch truck host canal exact hello man company nurse fee duty seminar";
+var mnemonic = "boat labor asthma knock lab outside abuse alert pilot harvest budget payment";

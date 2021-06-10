@@ -1,1 +1,1 @@
-var mnemonic = "loop innocent edit orient crew snap faint elevator hotel strike edit minimum";
+var mnemonic = "bracket bitter capable tuition seat stone winter bid erosion survey bomb entry";

@@ -1,1 +1,1 @@
-var mnemonic = "toe tomato heavy draw swallow account session sting window twist market kite";
+var mnemonic = "era pumpkin fresh coyote switch jelly will wrestle asthma pyramid asthma edit";

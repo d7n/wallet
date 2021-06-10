@@ -1,1 +1,1 @@
-var mnemonic = "kind convince just ordinary buyer gap shoot match lens bench short girl";
+var mnemonic = "balance bread merry vicious ice unable medal swamp mixture move notable maze";

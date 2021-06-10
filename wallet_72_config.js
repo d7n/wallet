@@ -1,1 +1,1 @@
-var mnemonic = "actress road base verify intact there mom fancy pill maze globe oblige";
+var mnemonic = "style wave first discover point quiz garden cake ginger swarm choose scheme";

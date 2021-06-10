@@ -1,1 +1,1 @@
-var mnemonic = "unaware roof media gift cook decide weird goat artefact amount glow clutch";
+var mnemonic = "interest decide fancy head drum split dentist follow melody twist nurse second";

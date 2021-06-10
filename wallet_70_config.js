@@ -1,1 +1,1 @@
-var mnemonic = "filter sport feed glory warfare vibrant fat potato theory swear nasty finger";
+var mnemonic = "roof table gallery spy unhappy ride motion jealous tobacco chicken board coast";

@@ -1,1 +1,1 @@
-var mnemonic = "firm diamond meadow sand busy acid stool trade organ bright attitude behind";
+var mnemonic = "home purchase tackle wreck field useful chimney give siren dawn skate foot";

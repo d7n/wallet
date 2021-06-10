@@ -1,1 +1,1 @@
-var mnemonic = "gloom science orphan deer strong security sand popular squeeze much pulse child";
+var mnemonic = "talk matrix sheriff stuff bunker cousin blast model outside enrich derive amateur";

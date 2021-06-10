@@ -1,1 +1,1 @@
-var mnemonic = "head army put program tired oil suit use club duck holiday design";
+var mnemonic = "lecture soon pelican type anchor captain question gas solution bamboo sweet vivid";

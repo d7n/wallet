@@ -1,1 +1,1 @@
-var mnemonic = "above citizen dismiss elder record grace know thank equip hub payment fringe";
+var mnemonic = "match pet error twenty spray afford there know enlist feature fix happy";

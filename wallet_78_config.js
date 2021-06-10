@@ -1,1 +1,1 @@
-var mnemonic = "busy define zone execute turtle three supreme stairs fury motion before gas";
+var mnemonic = "prize wood uniform slot actual depart remove joy start good demand stool";

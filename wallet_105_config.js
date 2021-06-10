@@ -1,1 +1,1 @@
-var mnemonic = "bright swear crash wing uniform notice search tomato custom attract pizza horse";
+var mnemonic = "trip title left never crack fabric gorilla ramp crew habit kangaroo asthma";

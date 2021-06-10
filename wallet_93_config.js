@@ -1,1 +1,1 @@
-var mnemonic = "artefact weekend brush snow panda since swallow injury obscure opera end type";
+var mnemonic = "harsh arrange two enemy dress negative mention oyster auto smoke remove attitude";

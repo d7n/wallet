@@ -1,1 +1,1 @@
-var mnemonic = "salt result make mass grow crowd leisure narrow lunar print spider bulk";
+var mnemonic = "blood vast myth water frog rain husband virtual fiber enter tackle foster";

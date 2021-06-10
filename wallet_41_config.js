@@ -1,1 +1,1 @@
-var mnemonic = "glide lonely match expose comic degree movie tone fabric daughter relief expose";
+var mnemonic = "worry cluster emerge fox direct vessel tourist income verb tornado tunnel credit";

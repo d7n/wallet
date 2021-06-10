@@ -1,1 +1,1 @@
-var mnemonic = "small escape fine must candy enact post simple end develop opera hub";
+var mnemonic = "electric wrong tilt elevator monkey dumb private eagle toy tired cash hunt";

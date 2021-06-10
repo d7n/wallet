@@ -1,1 +1,1 @@
-var mnemonic = "north travel hello decline elephant they infant payment brisk people badge deal";
+var mnemonic = "nature camera throw buddy demand crack alarm neck giraffe ice mercy arrange";

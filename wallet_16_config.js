@@ -1,1 +1,1 @@
-var mnemonic = "spoon still release bulb hint sick proud action fortune kiss vocal way";
+var mnemonic = "hair scatter you lonely brand abstract seminar become cigar scheme lyrics road";

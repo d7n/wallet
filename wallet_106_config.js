@@ -1,1 +1,1 @@
-var mnemonic = "unlock inside damp company piece happy pet actress news dust pink shuffle";
+var mnemonic = "runway impact oven bleak dune clap cabin feature cycle usual pistol inquiry";

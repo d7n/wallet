@@ -1,1 +1,1 @@
-var mnemonic = "dumb square purchase deputy ordinary mandate actress toward valley dress faint file";
+var mnemonic = "shoe order frozen talk flee salmon hope vacant high inspire tornado lottery";

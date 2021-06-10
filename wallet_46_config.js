@@ -1,1 +1,1 @@
-var mnemonic = "lamp film shoe boy small soap cargo crunch hole title foster bar";
+var mnemonic = "wagon arrange same attack expire patrol globe baby slice accident clay icon";

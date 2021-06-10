@@ -1,1 +1,1 @@
-var mnemonic = "gospel trial brand toast two donate fish runway palace put galaxy together";
+var mnemonic = "teach excess install uniform similar circle table test tank close ladder pottery";

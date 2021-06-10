@@ -1,1 +1,1 @@
-var mnemonic = "canoe found speed cost act symptom escape legend cloud pelican inside copper";
+var mnemonic = "satisfy error tone wink cloud flight donate sight imitate stomach moon ship";

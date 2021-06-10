@@ -1,1 +1,1 @@
-var mnemonic = "receive surface select marine smile polar pyramid exact company satisfy fix warfare";
+var mnemonic = "tackle hand where fox decide coral door velvet elite ensure relief door";

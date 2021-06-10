@@ -1,1 +1,1 @@
-var mnemonic = "volume leg draft dress pause middle bleak income deer blouse hub toilet";
+var mnemonic = "marble upgrade cute buyer original pelican away execute secret lend cattle enroll";

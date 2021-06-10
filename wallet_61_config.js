@@ -1,1 +1,1 @@
-var mnemonic = "girl write misery cycle bean monkey blur opera surprise token charge moral";
+var mnemonic = "case engage spoil maximum shy brass rely disagree confirm pumpkin laugh wink";

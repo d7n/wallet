@@ -1,1 +1,1 @@
-var mnemonic = "beef sense planet clip grunt use oxygen bottom stem tackle dawn olive";
+var mnemonic = "grit sentence remember save state boil surge order elbow year solve saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent inject fossil sign subject shield local dilemma kingdom section infant script";
+var mnemonic = "bone upper shuffle reward crisp play love eternal morning onion width sea";

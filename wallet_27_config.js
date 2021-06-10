@@ -1,1 +1,1 @@
-var mnemonic = "strong olympic announce soup chunk item return dinosaur prevent satoshi beauty office";
+var mnemonic = "design abstract call congress salmon gap buzz ripple legend split virtual quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "success ripple three fuel library ketchup answer retire strong glory phone now";
+var mnemonic = "hood pink usual grass major path worry photo goose escape tank leaf";

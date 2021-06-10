@@ -1,1 +1,1 @@
-var mnemonic = "hidden mother echo blossom hazard domain modify rubber biology shed misery music";
+var mnemonic = "crawl reveal lunar else artwork blush scene logic nuclear behind fish wife";

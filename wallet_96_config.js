@@ -1,1 +1,1 @@
-var mnemonic = "clarify brick habit day disorder source life kingdom million aisle easy table";
+var mnemonic = "tiger spirit foster faint shrimp sleep spell lawn spin begin buzz exist";

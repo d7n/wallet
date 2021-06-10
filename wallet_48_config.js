@@ -1,1 +1,1 @@
-var mnemonic = "start deer seminar paper erode chalk ladder cheap upgrade hazard rubber bonus";
+var mnemonic = "couple output west swift adjust swift boss rally advance foil uniform smile";

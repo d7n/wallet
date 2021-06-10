@@ -1,1 +1,1 @@
-var mnemonic = "glove giant border core push mechanic example twenty broccoli drift liar focus";
+var mnemonic = "edit august hold isolate sniff unique squirrel nature palm combine grocery destroy";

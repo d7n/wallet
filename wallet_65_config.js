@@ -1,1 +1,1 @@
-var mnemonic = "cup doll step spray chicken tag rubber security waste quote soft corn";
+var mnemonic = "dirt dinosaur obscure crumble extra when eager bar intact rebel wire monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe palm ozone hobby general meat absorb profit unhappy regular together exist";
+var mnemonic = "potato like steel uncle picnic price surprise hair same auto palace brain";

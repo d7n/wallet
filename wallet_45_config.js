@@ -1,1 +1,1 @@
-var mnemonic = "skirt train spell hedgehog enrich cake element pyramid tooth undo split orbit";
+var mnemonic = "ignore trophy fitness add never tree finish small nominee blouse zoo heavy";

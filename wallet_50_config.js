@@ -1,1 +1,1 @@
-var mnemonic = "feel more duty twin jealous sleep isolate journey enough hover ridge health";
+var mnemonic = "paddle service protect pumpkin tomato either insane slab galaxy appear siege speak";

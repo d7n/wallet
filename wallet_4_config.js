@@ -1,1 +1,1 @@
-var mnemonic = "floor person injury conduct zoo kid cherry foot wolf marine tank cement";
+var mnemonic = "soup unhappy cake spot meadow room woman tissue artist rib begin merge";

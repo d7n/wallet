@@ -1,1 +1,1 @@
-var mnemonic = "lunch ranch include shaft glow moral page caution solution round soldier siege";
+var mnemonic = "awesome proud arrive exercise sure summer ginger scheme boy forget enough make";

@@ -1,1 +1,1 @@
-var mnemonic = "attend elbow elbow garlic chair cable second okay salad museum visit random";
+var mnemonic = "color penalty this feel bomb february call dice bright security rival own";

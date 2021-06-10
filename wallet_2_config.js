@@ -1,1 +1,1 @@
-var mnemonic = "mandate goddess senior chase black dove romance biology vocal wish busy bid";
+var mnemonic = "guitar cube belt misery middle vital involve tree vast audit battle interest";

@@ -1,1 +1,1 @@
-var mnemonic = "inject annual ski powder kitchen spread boil kiss access dolphin end blossom";
+var mnemonic = "once picture have shuffle someone venue seminar opinion quantum supply machine neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "size woman off fatigue music upon naive organ impulse saddle paper lecture";
+var mnemonic = "depth horn code common wheel habit duty gallery announce attract salad bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "math lava vacant envelope aerobic world skate seven stand render lottery leader";
+var mnemonic = "lobster shy theme join dignity twin liar public toward spawn oven offer";

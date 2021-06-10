@@ -1,1 +1,1 @@
-var mnemonic = "trash luggage giggle fiction release cost donkey dutch fancy absent forward nerve";
+var mnemonic = "unaware happy feature inhale drink begin dial thank accuse seven bamboo relax";

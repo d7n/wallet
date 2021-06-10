@@ -1,1 +1,1 @@
-var mnemonic = "kind train flame angle cart purpose buzz witness regular squirrel sign foil";
+var mnemonic = "motor absent mom bomb dance grab horn either bleak swamp inner inmate";

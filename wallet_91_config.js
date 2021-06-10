@@ -1,1 +1,1 @@
-var mnemonic = "satisfy current avoid ridge color visa hurt arrange size grain license embrace";
+var mnemonic = "cheap final dish exact idle shy smoke staff mistake devote quick novel";

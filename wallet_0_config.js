@@ -1,1 +1,1 @@
-var mnemonic = "price urban whisper family gloom labor destroy slim actual kind craft enough";
+var mnemonic = "myth child explain jazz blind solution negative body room seminar defense ancient";

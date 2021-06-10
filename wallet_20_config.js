@@ -1,1 +1,1 @@
-var mnemonic = "joy wild learn pluck pepper fossil lamp pull scrap two board forest";
+var mnemonic = "pluck outer switch wreck web hope dice coin capable upon gather script";

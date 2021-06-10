@@ -1,1 +1,1 @@
-var mnemonic = "dance carbon silent system learn slide concert change unknown electric warm siren";
+var mnemonic = "gadget boat kick tortoise sign exit digital damp gravity else mule plastic";

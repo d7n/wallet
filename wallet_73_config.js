@@ -1,1 +1,1 @@
-var mnemonic = "letter sniff very upset kick rely ladder eternal abandon rich fit tiny";
+var mnemonic = "crisp spirit organ make sister enough riot blanket exhaust achieve close cat";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator whale hazard midnight rich lecture oyster situate ketchup adjust spend skirt";
+var mnemonic = "hover vote reform box work yard crystal recipe invite pull fine address";

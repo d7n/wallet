@@ -1,1 +1,1 @@
-var mnemonic = "cage omit sentence age skin view box custom cruise awake crazy between";
+var mnemonic = "fiscal repair flower language harvest gun remain refuse slam cost dawn move";
