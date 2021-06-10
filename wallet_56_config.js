@@ -1,1 +1,1 @@
-var mnemonic = "menu liquid december draft wait razor talent kidney also quantum glory dragon";
+var mnemonic = "kitten invite enjoy chaos expose road tone soft noodle sad useful level";

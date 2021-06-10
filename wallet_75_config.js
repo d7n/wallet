@@ -1,1 +1,1 @@
-var mnemonic = "people attract holiday nation pilot mammal city relief march bonus friend ghost";
+var mnemonic = "hill payment raccoon deal whisper tortoise render nose tent rhythm fire boss";

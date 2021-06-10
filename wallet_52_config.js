@@ -1,1 +1,1 @@
-var mnemonic = "left wash gallery matter energy odor priority rapid thing bike lemon retreat";
+var mnemonic = "army pride suggest famous liberty hundred cause divide naive state drop innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "coin art foam involve develop outside melody female reveal entry blame inherit";
+var mnemonic = "praise honey fruit energy expose include nut short catch spend fold diagram";

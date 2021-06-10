@@ -1,1 +1,1 @@
-var mnemonic = "energy dose picnic brass search hill opera visual squeeze load hip shell";
+var mnemonic = "sunny twin unveil collect balance future blind elder hurry exhibit vapor civil";

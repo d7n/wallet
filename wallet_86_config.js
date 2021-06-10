@@ -1,1 +1,1 @@
-var mnemonic = "gift month balance empty ostrich filter history airport shoot virtual thank token";
+var mnemonic = "elder disease target tackle scout behave funny laptop recycle faculty crowd soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "layer nurse soul display obtain noise health crucial ticket memory pledge coral";
+var mnemonic = "whip tornado near jazz album sound used thrive clay review onion sheriff";

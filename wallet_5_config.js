@@ -1,1 +1,1 @@
-var mnemonic = "junk fiber tobacco assault love riot error giraffe satoshi once book pride";
+var mnemonic = "suit arena crash stool upper screen other skin much notable brown lottery";

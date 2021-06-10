@@ -1,1 +1,1 @@
-var mnemonic = "biology post member avocado fault purse image moon gate wheat bar toilet";
+var mnemonic = "mimic impact face bind immense remain strike couple inner fox mechanic trophy";

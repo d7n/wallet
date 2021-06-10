@@ -1,1 +1,1 @@
-var mnemonic = "away together feel bike must chronic produce supply walnut impulse number sadness";
+var mnemonic = "gym heavy bless believe cable mule milk age best dignity insect poet";

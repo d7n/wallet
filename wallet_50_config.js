@@ -1,1 +1,1 @@
-var mnemonic = "tortoise enforce barrel depth rice stadium various electric junk update lounge job";
+var mnemonic = "canvas vanish know lemon shallow emotion subway glide keen brush flight farm";

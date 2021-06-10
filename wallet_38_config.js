@@ -1,1 +1,1 @@
-var mnemonic = "point brisk mad tool tourist guess floor elite they adult curious spy";
+var mnemonic = "student place over artist cargo pole antique window veteran rather rate robot";

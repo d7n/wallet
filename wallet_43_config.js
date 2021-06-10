@@ -1,1 +1,1 @@
-var mnemonic = "blame veteran leopard venue easy march baby among tired snow illegal tube";
+var mnemonic = "alarm client aerobic select rail desk gorilla reveal repair panel olympic together";

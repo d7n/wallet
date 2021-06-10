@@ -1,1 +1,1 @@
-var mnemonic = "rigid merge mix exile recall increase warm cage three ripple issue shove";
+var mnemonic = "sunny detail asset connect slim grief pull sister village safe explain foil";

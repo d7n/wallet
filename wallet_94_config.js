@@ -1,1 +1,1 @@
-var mnemonic = "orchard green siege there hen hire quarter author horn estate load provide";
+var mnemonic = "pistol galaxy name inherit erase web dizzy ramp about else warrior pass";

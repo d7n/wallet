@@ -1,1 +1,1 @@
-var mnemonic = "donkey depart away valve wave flush rude ticket elder wrap pact pottery";
+var mnemonic = "tortoise friend guitar sausage blast state flee candy frozen album portion cricket";

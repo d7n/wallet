@@ -1,1 +1,1 @@
-var mnemonic = "fog method emotion reward cruise caught curve rapid fiber dirt bench bleak";
+var mnemonic = "security since turkey exact height start profit crouch leg task north leave";

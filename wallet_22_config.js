@@ -1,1 +1,1 @@
-var mnemonic = "include trigger next light bleak absorb august culture maid weasel final hello";
+var mnemonic = "bus maze trip loop parrot human burger tomorrow problem fantasy palace art";

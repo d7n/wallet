@@ -1,1 +1,1 @@
-var mnemonic = "client liquid enable pact sure deal wrestle shaft story suggest course release";
+var mnemonic = "school sentence damage answer novel hazard effort whip bus lyrics garlic column";

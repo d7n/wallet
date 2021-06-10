@@ -1,1 +1,1 @@
-var mnemonic = "shift trust document perfect memory music social panel help giggle plastic bicycle";
+var mnemonic = "slow kite people kiss episode soon shaft recycle session bid wash august";

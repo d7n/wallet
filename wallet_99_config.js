@@ -1,1 +1,1 @@
-var mnemonic = "inquiry width absorb liberty warrior vivid gravity gap already cousin hero fiction";
+var mnemonic = "fatal disease twin vessel ritual awkward pipe side bargain area piano mansion";

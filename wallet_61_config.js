@@ -1,1 +1,1 @@
-var mnemonic = "crew frost peasant inspire figure miracle enemy leisure milk output usage toast";
+var mnemonic = "collect crime bacon above stock humor film yard barely pear excite junk";

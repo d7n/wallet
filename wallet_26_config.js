@@ -1,1 +1,1 @@
-var mnemonic = "owner local also glimpse avocado elephant portion meat cabin screen left flag";
+var mnemonic = "struggle nothing disagree segment regular solar cabin impose neglect lend snap host";

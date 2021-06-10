@@ -1,1 +1,1 @@
-var mnemonic = "empty stone nominee aspect nothing demand bind captain surge skirt patient fork";
+var mnemonic = "crack canal kingdom worth meat wait viable raccoon echo tank tonight will";

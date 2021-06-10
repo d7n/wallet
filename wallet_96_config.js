@@ -1,1 +1,1 @@
-var mnemonic = "away decide forest enable room palace thought pioneer person choose sentence under";
+var mnemonic = "verify boss couch pen loan control gossip version orbit trade present loud";

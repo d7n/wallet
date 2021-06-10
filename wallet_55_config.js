@@ -1,1 +1,1 @@
-var mnemonic = "maple coyote pitch guitar burden valid index tribe three sword crawl around";
+var mnemonic = "duck parade ethics dish latin coconut acid double sustain rent glide pyramid";

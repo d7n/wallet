@@ -1,1 +1,1 @@
-var mnemonic = "oval misery monster repair inquiry seat again artist task mean photo action";
+var mnemonic = "dad bulk detail address smart author nurse meadow little sister disagree valley";

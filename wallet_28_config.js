@@ -1,1 +1,1 @@
-var mnemonic = "asthma lens avocado kid story believe execute ivory almost special rifle program";
+var mnemonic = "slow mask buddy nurse volcano picture motor barely bonus produce deputy penalty";

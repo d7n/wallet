@@ -1,1 +1,1 @@
-var mnemonic = "ramp slab friend hurdle magic corn dial seat wire item sense violin";
+var mnemonic = "edge leader embark issue drive purchase bring post afraid mixed clock globe";

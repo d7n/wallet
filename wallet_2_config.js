@@ -1,1 +1,1 @@
-var mnemonic = "bus between rescue voice correct dove bone later inner town clay series";
+var mnemonic = "purpose tag behave brother scare script boy analyst depth video spider furnace";

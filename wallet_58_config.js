@@ -1,1 +1,1 @@
-var mnemonic = "stove harsh quarter tuna cannon digital luxury filter rug table game permit";
+var mnemonic = "sand hen field fee lend ski remember dolphin zero basic category horse";

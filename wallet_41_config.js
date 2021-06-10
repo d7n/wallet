@@ -1,1 +1,1 @@
-var mnemonic = "portion daring produce cheese ticket student rabbit unique luggage rural impulse wrist";
+var mnemonic = "help portion section round sense flavor almost icon combine deal coach giraffe";

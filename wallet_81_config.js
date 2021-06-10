@@ -1,1 +1,1 @@
-var mnemonic = "cannon eternal code indoor ritual wrestle tornado clinic turn faint start team";
+var mnemonic = "open debate laptop wait fog royal summer waste breeze soft among artwork";

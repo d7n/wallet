@@ -1,1 +1,1 @@
-var mnemonic = "force just since company jar tower purity mention hope orange tackle cargo";
+var mnemonic = "cousin clock argue finish stock nose narrow puppy end cigar metal cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "kid layer weapon much earth invite joy cotton solid axis trouble expect";
+var mnemonic = "bottom peace void future position power edge flavor senior bleak picnic egg";

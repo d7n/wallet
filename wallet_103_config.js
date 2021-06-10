@@ -1,1 +1,1 @@
-var mnemonic = "cluster measure ten bench region damp imitate proof law can finish lunar";
+var mnemonic = "obvious soap corn project forum cat garbage puzzle jaguar gloom distance fresh";

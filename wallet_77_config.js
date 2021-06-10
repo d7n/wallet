@@ -1,1 +1,1 @@
-var mnemonic = "summer left resist girl appear mercy peanut reflect argue slam sketch identify";
+var mnemonic = "prize over random brief ribbon cover dilemma soft warrior little crouch hint";

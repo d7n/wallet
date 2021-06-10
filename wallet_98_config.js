@@ -1,1 +1,1 @@
-var mnemonic = "cat time curtain love address key ask purse sense explain start matter";
+var mnemonic = "ahead amused income cheap lawsuit budget print key first bird salon poet";

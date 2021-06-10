@@ -1,1 +1,1 @@
-var mnemonic = "canyon omit marble fatal transfer dumb laundry prevent sustain fuel chase earth";
+var mnemonic = "basket patient advice car number fury wall emerge mountain mask machine amateur";

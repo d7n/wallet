@@ -1,1 +1,1 @@
-var mnemonic = "motion mammal comic skirt ancient online alert letter inhale arrest match point";
+var mnemonic = "fix earn alien volume left question game reason alarm van solid because";

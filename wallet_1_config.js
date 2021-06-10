@@ -1,1 +1,1 @@
-var mnemonic = "october industry chimney witness heavy tell drop caution fine flush scale three";
+var mnemonic = "enter cotton grass swap dilemma mule police warm output alcohol blast actress";

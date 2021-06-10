@@ -1,1 +1,1 @@
-var mnemonic = "egg shine return eight detail random oak lizard blue virtual wealth elevator";
+var mnemonic = "virus high rack cinnamon pull purchase maze strategy salad artefact virus pact";

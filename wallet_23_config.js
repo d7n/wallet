@@ -1,1 +1,1 @@
-var mnemonic = "elbow eyebrow okay salad slam cool rude fly hat insect convince today";
+var mnemonic = "split kiwi marriage another erase all vendor critic learn ginger claim vanish";

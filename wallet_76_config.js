@@ -1,1 +1,1 @@
-var mnemonic = "goat paper wood churn life card suffer hazard artefact cattle common ripple";
+var mnemonic = "token remain alien history potato volume grape nut coin original august regular";

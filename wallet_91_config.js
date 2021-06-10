@@ -1,1 +1,1 @@
-var mnemonic = "abandon fork flame cancel chalk about above play lazy timber purpose soda";
+var mnemonic = "orbit food impulse tribe journey green improve clever harvest ugly victory furnace";

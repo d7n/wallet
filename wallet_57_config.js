@@ -1,1 +1,1 @@
-var mnemonic = "else unlock awkward wagon relax rug delay faith brisk stereo slice garbage";
+var mnemonic = "cup eye mechanic season error blush general ridge element medal sun enforce";

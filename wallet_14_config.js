@@ -1,1 +1,1 @@
-var mnemonic = "resemble almost ribbon enhance wrestle health room make tongue weapon student oven";
+var mnemonic = "forum hope idea short badge doctor cotton oxygen tuition truly young wool";

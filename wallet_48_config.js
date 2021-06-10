@@ -1,1 +1,1 @@
-var mnemonic = "teach solution wonder grace cable menu spy adapt blur steel urge exchange";
+var mnemonic = "yard segment throw bridge coyote peace yellow shoot badge erupt safe mail";

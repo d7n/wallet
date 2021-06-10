@@ -1,1 +1,1 @@
-var mnemonic = "tray regret prize large explain gap dream taste secret slow sister energy";
+var mnemonic = "patient snap coyote wood category orient bless measure course tiny garage pig";

@@ -1,1 +1,1 @@
-var mnemonic = "jump maze online badge employ toe riot slogan ride next sun island";
+var mnemonic = "humble balcony fold artwork busy fox scheme glass ramp call image junior";

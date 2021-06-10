@@ -1,1 +1,1 @@
-var mnemonic = "loan run rocket pass feed digital gain group reopen custom heavy comfort";
+var mnemonic = "artist memory team abuse inform wire tank boil day still oven diamond";

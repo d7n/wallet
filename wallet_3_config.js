@@ -1,1 +1,1 @@
-var mnemonic = "few lab famous magic diary long mixture dismiss wear below trophy exile";
+var mnemonic = "error ride fat muscle number subway clerk valley champion describe cigar adapt";

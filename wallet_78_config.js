@@ -1,1 +1,1 @@
-var mnemonic = "drum mad consider camp belt ozone border flag spike donkey coconut dismiss";
+var mnemonic = "expose dirt butter meadow amused story marble orphan fade main equal artwork";

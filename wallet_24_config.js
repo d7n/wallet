@@ -1,1 +1,1 @@
-var mnemonic = "advice royal vacant junior scan arctic survey nut oblige you congress pipe";
+var mnemonic = "figure fiber powder elegant sweet tail cart task mother nerve update very";

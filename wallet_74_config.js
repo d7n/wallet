@@ -1,1 +1,1 @@
-var mnemonic = "nominee twin online piece merry atom erase finish culture blanket lava goose";
+var mnemonic = "network culture curve dizzy salon soul hurdle tube gadget mosquito bleak lock";

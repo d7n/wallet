@@ -1,1 +1,1 @@
-var mnemonic = "word cattle victory equip left side dragon sniff border enough bright more";
+var mnemonic = "satoshi post napkin travel radar maximum nominee laundry scan ranch narrow view";

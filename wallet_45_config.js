@@ -1,1 +1,1 @@
-var mnemonic = "humor void card dish together thunder joy reopen more deer control unknown";
+var mnemonic = "fat jar depth deal broken shift humor point tray begin skirt luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "dust such sister adult injury tilt urban also bacon turkey shell obvious";
+var mnemonic = "gown festival crawl salmon question giggle frequent snow olympic replace proud where";

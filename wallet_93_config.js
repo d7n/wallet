@@ -1,1 +1,1 @@
-var mnemonic = "add harbor fade silk chicken air typical hour woman hint animal hole";
+var mnemonic = "retire intact teach radio impose ask reform sentence cricket day embark there";

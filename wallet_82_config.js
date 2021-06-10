@@ -1,1 +1,1 @@
-var mnemonic = "south regret climb twin trend style junk south polar giraffe area purpose";
+var mnemonic = "alley ripple error pitch noble leaf wonder first quality hurdle mansion pilot";

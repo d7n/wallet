@@ -1,1 +1,1 @@
-var mnemonic = "cart tell drastic away hunt column mystery until sunny weird asthma decide";
+var mnemonic = "flame injury canoe ask hood pride season rabbit volcano mean cupboard roast";

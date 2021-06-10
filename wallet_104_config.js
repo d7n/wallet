@@ -1,1 +1,1 @@
-var mnemonic = "sell box again ocean group orient reject increase bracket random enhance demise";
+var mnemonic = "obscure evoke combine relax gate work become nephew clinic absorb cannon predict";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase dog adapt abandon mirror zebra thumb finger helmet original sentence stuff";
+var mnemonic = "tape slice build burden pride end trick great slogan shove wish wrong";

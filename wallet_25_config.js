@@ -1,1 +1,1 @@
-var mnemonic = "unveil toward kite find increase point payment weather horror actress clever produce";
+var mnemonic = "cake notice razor scrap pistol aspect unknown genius spin place order caught";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage remember woman slice guitar roof aware worry culture clog about unusual";
+var mnemonic = "glow pattern april sniff risk spoon autumn resource airport beef allow end";

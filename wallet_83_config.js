@@ -1,1 +1,1 @@
-var mnemonic = "fire envelope velvet have tourist job tobacco item weasel bulb pink name";
+var mnemonic = "exhibit pepper body island twin firm marriage arm have angle pink resist";

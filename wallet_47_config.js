@@ -1,1 +1,1 @@
-var mnemonic = "walk abandon ask tomato oxygen style few gift hobby donate conduct bridge";
+var mnemonic = "need race chair sight science aspect super error blue globe syrup alien";

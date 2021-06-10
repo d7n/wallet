@@ -1,1 +1,1 @@
-var mnemonic = "vocal hole best jewel walnut volume bunker gorilla include web ribbon shaft";
+var mnemonic = "coral obtain picture stick fly fat jaguar whisper purpose menu clip oil";

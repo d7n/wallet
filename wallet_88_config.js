@@ -1,1 +1,1 @@
-var mnemonic = "payment eagle chair box income trick napkin mule valve gas guess neck";
+var mnemonic = "oval select music measure gesture scrub soft unknown candy banana height match";

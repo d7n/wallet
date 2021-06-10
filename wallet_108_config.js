@@ -1,1 +1,1 @@
-var mnemonic = "sunny spider produce palm caution peasant infant hello animal life pill speak";
+var mnemonic = "tray pen rifle fish labor erosion angle flower exotic trick tank party";

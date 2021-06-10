@@ -1,1 +1,1 @@
-var mnemonic = "pear leave certain notice pride online north lonely busy verify reopen grain";
+var mnemonic = "coast kick nest first relief cotton upon moon network together liberty tennis";

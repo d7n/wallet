@@ -1,1 +1,1 @@
-var mnemonic = "job photo spice mango ritual best undo chicken warm hidden access then";
+var mnemonic = "grant depart scare gauge street swift clap twelve thrive liquid couch right";

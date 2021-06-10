@@ -1,1 +1,1 @@
-var mnemonic = "rival velvet admit waste jacket sorry call enable six depth final lyrics";
+var mnemonic = "rescue ivory space jewel loyal goddess blade adult ensure push sugar twist";

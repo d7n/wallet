@@ -1,1 +1,1 @@
-var mnemonic = "grain finger antique exhibit rescue mobile beyond buyer funny spawn oppose true";
+var mnemonic = "rack stamp capital maple render there door silent illegal decorate echo frozen";

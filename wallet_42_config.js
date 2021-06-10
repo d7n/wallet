@@ -1,1 +1,1 @@
-var mnemonic = "attitude act effort wood urban pretty wash north blame candy arctic board";
+var mnemonic = "churn fish again mystery fiber grunt liar traffic cage hood step level";

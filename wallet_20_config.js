@@ -1,1 +1,1 @@
-var mnemonic = "scatter cinnamon paddle online kidney attitude mass trap lounge egg option real";
+var mnemonic = "oppose sick rack today seven artist student media machine south turtle category";

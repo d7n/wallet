@@ -1,1 +1,1 @@
-var mnemonic = "tongue audit lawn danger review network wide vote banana core weird found";
+var mnemonic = "move mystery tiger raccoon moment salute busy family outer crush winner lonely";

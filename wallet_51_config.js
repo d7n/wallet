@@ -1,1 +1,1 @@
-var mnemonic = "orchard chaos hungry also become word rely into pet web sphere upper";
+var mnemonic = "endless hope custom advice apart void ketchup enter twenty board point able";

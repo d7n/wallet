@@ -1,1 +1,1 @@
-var mnemonic = "exotic fire hood brave sort tired essay program stage kitchen address obtain";
+var mnemonic = "arctic beef urban detect quantum author train come oyster nest bottom glimpse";

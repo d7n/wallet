@@ -1,1 +1,1 @@
-var mnemonic = "series sorry category ozone harvest few ten crawl relief club layer magic";
+var mnemonic = "peace mimic program plug want process castle moral name add aunt orphan";

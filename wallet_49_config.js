@@ -1,1 +1,1 @@
-var mnemonic = "security feed paper render tell clever matter symptom kid stool hub wisdom";
+var mnemonic = "base menu never search damp skill inject edge maximum sugar naive annual";

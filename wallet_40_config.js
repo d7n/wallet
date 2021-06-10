@@ -1,1 +1,1 @@
-var mnemonic = "impulse tornado grocery stage tray flat ginger heavy celery ladder fly palm";
+var mnemonic = "letter enemy plate scheme bread sadness siege leader head elder tone general";

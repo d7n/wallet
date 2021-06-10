@@ -1,1 +1,1 @@
-var mnemonic = "tongue rice document equal mansion early economy riot laundry gun roast virus";
+var mnemonic = "roast math oval version divorce cinnamon render time daughter shaft diamond alarm";

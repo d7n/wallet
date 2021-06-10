@@ -1,1 +1,1 @@
-var mnemonic = "clip tornado glad silent zoo pistol eagle reveal grit clog that cat";
+var mnemonic = "thing abstract upset fluid vanish patient audit dose climb east gallery certain";

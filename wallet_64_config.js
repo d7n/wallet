@@ -1,1 +1,1 @@
-var mnemonic = "false leg shine bag emotion original dust stairs wrap round spirit rubber";
+var mnemonic = "toy blast analyst cabbage rapid hope armed tower lab unfold muffin dune";

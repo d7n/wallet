@@ -1,1 +1,1 @@
-var mnemonic = "loan palace club spice rural purity fancy race dust yellow feel make";
+var mnemonic = "outdoor jealous bamboo song vibrant end that abuse depth shaft cute virus";

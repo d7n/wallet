@@ -1,1 +1,1 @@
-var mnemonic = "dizzy clinic twin release catalog impose tower erupt release group dwarf dinosaur";
+var mnemonic = "sea list orchard people sausage student kid vessel royal vanish chief fresh";

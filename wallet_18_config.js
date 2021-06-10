@@ -1,1 +1,1 @@
-var mnemonic = "sail purity analyst brave chase capital core either build fuel job harsh";
+var mnemonic = "verb ensure glass gentle ten say sweet nut bacon wheat avoid enroll";
