@@ -1,1 +1,1 @@
-var mnemonic = "romance earth path unusual indoor green cabin broken muffin include popular crystal";
+var mnemonic = "improve owner simple nuclear roof ordinary virus blood ten birth icon object";

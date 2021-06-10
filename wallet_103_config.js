@@ -1,1 +1,1 @@
-var mnemonic = "typical cotton praise wheat resource ahead mix rent item learn broccoli improve";
+var mnemonic = "bag maximum hat engine faculty submit file engage beauty atom spot summer";

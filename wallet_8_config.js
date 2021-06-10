@@ -1,1 +1,1 @@
-var mnemonic = "dwarf fatigue mail alien pull horror canal enforce afraid glance budget judge";
+var mnemonic = "soup trophy swarm juice embrace army renew monitor phrase jeans fit weird";

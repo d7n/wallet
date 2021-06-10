@@ -1,1 +1,1 @@
-var mnemonic = "wall dragon badge neutral expose hammer diamond garage awake heavy office trouble";
+var mnemonic = "book shuffle sea live magic hundred voyage entire candy lawsuit lesson receive";

@@ -1,1 +1,1 @@
-var mnemonic = "gym rubber artist voice sock lonely heart pitch jealous spike awful foot";
+var mnemonic = "depth tower aunt captain easily valve health have excuse life evolve lab";

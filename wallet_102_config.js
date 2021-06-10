@@ -1,1 +1,1 @@
-var mnemonic = "trip fire antique fly blast subway alien aware mystery boring lecture boy";
+var mnemonic = "thrive tooth lizard six kiwi hurry rocket tumble finish hidden account action";

@@ -1,1 +1,1 @@
-var mnemonic = "until end gown visa gun excess tackle off rack situate news cover";
+var mnemonic = "minimum test castle winter stable purchase fall hour also loud history winter";

@@ -1,1 +1,1 @@
-var mnemonic = "forum ivory waste female relax idea joke logic labor admit real slow";
+var mnemonic = "rough island march note spawn catalog inherit enforce session demand outer cushion";

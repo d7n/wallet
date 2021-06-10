@@ -1,1 +1,1 @@
-var mnemonic = "bomb net practice nation wet tourist earth skirt peace erase lobster ability";
+var mnemonic = "erode error potato boost insect base fame person jacket urban miracle approve";

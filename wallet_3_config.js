@@ -1,1 +1,1 @@
-var mnemonic = "autumn silver fitness slide chunk shock patrol result model ahead cloud night";
+var mnemonic = "limit garage whale rifle trip apology claw coral fury shy village dynamic";

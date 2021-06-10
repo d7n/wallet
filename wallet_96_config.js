@@ -1,1 +1,1 @@
-var mnemonic = "grab link taxi indicate actual else stuff wire lift mother practice feature";
+var mnemonic = "pluck flash memory fault end pave flower armor matter dizzy actual suspect";

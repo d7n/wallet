@@ -1,1 +1,1 @@
-var mnemonic = "patrol runway purpose copper seminar network sign dentist orchard oxygen crouch boss";
+var mnemonic = "hen scissors tumble tiny robust verb grant office receive own dry viable";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty panther diary stable enroll into teach push brother napkin cereal company";
+var mnemonic = "wave govern exclude cereal arctic okay plug urban cake farm hunt frown";

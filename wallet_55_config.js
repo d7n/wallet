@@ -1,1 +1,1 @@
-var mnemonic = "multiply before left man unknown paddle oil crunch combine near display aunt";
+var mnemonic = "opinion thing echo mask cup slide report decide food angry goddess measure";

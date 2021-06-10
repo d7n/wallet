@@ -1,1 +1,1 @@
-var mnemonic = "guilt hub smile fee deposit sorry orange leopard twist state purse split";
+var mnemonic = "bubble organ anxiety brush scorpion dignity when artwork series thumb spike baby";

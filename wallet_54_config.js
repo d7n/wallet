@@ -1,1 +1,1 @@
-var mnemonic = "author three true fashion injury tilt surprise potato orphan yellow drip skull";
+var mnemonic = "congress summer control grief jazz prosper food milk trumpet nasty mad rain";

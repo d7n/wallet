@@ -1,1 +1,1 @@
-var mnemonic = "other eight dry must round palm debate congress betray chimney chimney sail";
+var mnemonic = "arm clay clap fancy torch gauge loan naive mechanic mind harbor lady";

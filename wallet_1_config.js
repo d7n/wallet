@@ -1,1 +1,1 @@
-var mnemonic = "imitate spirit diamond cereal hello canoe mouse age gospel brisk course powder";
+var mnemonic = "scissors brown south balcony turtle practice connect deny diet live rice lesson";

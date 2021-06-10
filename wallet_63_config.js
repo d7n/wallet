@@ -1,1 +1,1 @@
-var mnemonic = "quality drive forget toward blame tuition rare dose doll into any cattle";
+var mnemonic = "junior pistol shoulder next together cereal practice fame ripple venue sheriff glove";

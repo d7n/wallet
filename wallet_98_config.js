@@ -1,1 +1,1 @@
-var mnemonic = "jaguar divide subway crush else jazz blast repeat era cheese flavor price";
+var mnemonic = "miracle logic innocent differ daughter office space retire walnut venture inside language";

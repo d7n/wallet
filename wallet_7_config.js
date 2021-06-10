@@ -1,1 +1,1 @@
-var mnemonic = "rose east where sight broom avoid cloth often garbage time list brief";
+var mnemonic = "loyal buddy awake rough rule pave color nation connect rhythm orchard dream";

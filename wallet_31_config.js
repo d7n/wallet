@@ -1,1 +1,1 @@
-var mnemonic = "abandon kitchen glare slender outside intact capable cupboard today absent song symptom";
+var mnemonic = "elegant drip nut canal clarify hurt nasty strategy will gym old survey";

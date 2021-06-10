@@ -1,1 +1,1 @@
-var mnemonic = "unfold excite pet way cricket safe cement giggle gold boost bachelor copper";
+var mnemonic = "page edit loud truth control wrestle question conduct shift brass inner seek";

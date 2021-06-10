@@ -1,1 +1,1 @@
-var mnemonic = "quarter hybrid resemble zebra vault olive lounge view network vintage orient uniform";
+var mnemonic = "notice expose search control liberty trash garlic spend opera wall despair early";

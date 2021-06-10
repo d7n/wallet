@@ -1,1 +1,1 @@
-var mnemonic = "deal volcano pulse alley hair save pencil fame enemy rookie naive trade";
+var mnemonic = "ability frog firm couch shaft sun velvet venue shrimp rate certain hockey";

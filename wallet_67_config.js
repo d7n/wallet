@@ -1,1 +1,1 @@
-var mnemonic = "patch area inherit negative define charge language letter decide view short twin";
+var mnemonic = "amount until lobster coffee monitor feed flush wheat loyal outside dumb job";

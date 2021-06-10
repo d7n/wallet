@@ -1,1 +1,1 @@
-var mnemonic = "dawn choice merry view leopard chicken distance session common denial stand camp";
+var mnemonic = "jacket immune chase master feature tragic uncle approve need approve donor holiday";

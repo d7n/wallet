@@ -1,1 +1,1 @@
-var mnemonic = "frequent original follow deal minor soap inch style much you suffer shoot";
+var mnemonic = "rescue scout piece frog cry turkey oyster claim labor hello puppy wild";

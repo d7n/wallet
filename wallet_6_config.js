@@ -1,1 +1,1 @@
-var mnemonic = "hire boost speed rabbit pottery review master chicken sound actor song razor";
+var mnemonic = "obey rally false exhaust dilemma lunar double analyst ginger image increase buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant fury total noble frame bright pyramid rotate waste swamp visa ethics";
+var mnemonic = "joke say monster open wash bamboo faculty broccoli bench day crucial size";

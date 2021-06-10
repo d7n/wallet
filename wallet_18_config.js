@@ -1,1 +1,1 @@
-var mnemonic = "feel actual chuckle cliff twist kitchen guide primary hollow undo angry attitude";
+var mnemonic = "disorder pizza right supply pony avoid sound misery invite multiply chaos chaos";

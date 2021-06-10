@@ -1,1 +1,1 @@
-var mnemonic = "modify shove uncover relief salmon fiscal swift bulb divert rhythm romance entry";
+var mnemonic = "soup sock shock solid bracket trend dentist glimpse dose table object dress";

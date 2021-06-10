@@ -1,1 +1,1 @@
-var mnemonic = "double nothing nerve clap clay border effort hundred flame industry gold problem";
+var mnemonic = "icon fold tissue gain piano naive option hen stairs snake inhale unit";

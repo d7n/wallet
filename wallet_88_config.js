@@ -1,1 +1,1 @@
-var mnemonic = "gesture cute grunt can portion planet donor fun useful frozen soon present";
+var mnemonic = "silent shield noise shrug lady mesh cause limit equal harvest execute obscure";

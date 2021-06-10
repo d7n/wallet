@@ -1,1 +1,1 @@
-var mnemonic = "pave typical poverty twenty recall cool size avoid art ghost symptom same";
+var mnemonic = "fade life whip maze invest exercise like space angry hood twelve happy";

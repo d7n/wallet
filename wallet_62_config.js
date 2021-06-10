@@ -1,1 +1,1 @@
-var mnemonic = "sudden case grace blast inflict patient close between reason grape garlic cash";
+var mnemonic = "pass hold various obey used flame drift setup south nuclear together mind";

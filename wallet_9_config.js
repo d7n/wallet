@@ -1,1 +1,1 @@
-var mnemonic = "scout certain squirrel time seek rigid steak survey inside toward fiscal mom";
+var mnemonic = "assault organ lumber shield update crush toast okay scale trial kid gate";

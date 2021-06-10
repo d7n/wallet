@@ -1,1 +1,1 @@
-var mnemonic = "trouble area dial unfold amazing copy nest friend also deny pair slide";
+var mnemonic = "napkin unveil style sample churn then mother humor tongue afford sad tunnel";

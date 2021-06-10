@@ -1,1 +1,1 @@
-var mnemonic = "rebel document gaze fan crystal camp pattern shuffle tourist river another biology";
+var mnemonic = "apology bid divert sting sun shield genre path grocery turn actual expire";

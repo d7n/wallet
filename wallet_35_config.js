@@ -1,1 +1,1 @@
-var mnemonic = "update online shiver test space key century often gold release napkin fever";
+var mnemonic = "much auction category dress material wife puzzle act spy glove resemble grab";

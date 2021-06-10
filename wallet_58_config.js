@@ -1,1 +1,1 @@
-var mnemonic = "frog poverty own chalk surround buffalo silly absent woman situate element web";
+var mnemonic = "hammer before pond boil vanish negative result jaguar wish source own board";

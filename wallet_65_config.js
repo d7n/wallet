@@ -1,1 +1,1 @@
-var mnemonic = "border stuff license industry accident embark piano kit useless sponsor anger tongue";
+var mnemonic = "predict wisdom lonely smoke drink pumpkin amount fluid rookie pioneer treat blade";

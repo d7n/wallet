@@ -1,1 +1,1 @@
-var mnemonic = "again movie ticket basket bunker divorce champion net budget invite all dance";
+var mnemonic = "mom idea shy sound identify drum great chapter silver violin grit other";

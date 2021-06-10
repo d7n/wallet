@@ -1,1 +1,1 @@
-var mnemonic = "teach unknown develop slush still code shallow garage owner minor glass begin";
+var mnemonic = "trim argue myth indicate wish swallow tuna inherit yellow muffin armed believe";

@@ -1,1 +1,1 @@
-var mnemonic = "route raven feed possible blame wheat sketch blur nephew exchange tray potato";
+var mnemonic = "champion hip advice trial leave aisle frost gesture pumpkin pudding eternal rose";

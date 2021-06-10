@@ -1,1 +1,1 @@
-var mnemonic = "skull vessel guess original mirror parrot burden avoid shy avocado hunt moral";
+var mnemonic = "reward pole post excuse accuse depth cost keen find myself diamond fault";

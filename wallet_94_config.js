@@ -1,1 +1,1 @@
-var mnemonic = "inflict glove ticket machine salt sorry hospital parade flight rotate steel rabbit";
+var mnemonic = "animal topic cousin regret moment eagle logic ripple satisfy tank flag wish";

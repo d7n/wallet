@@ -1,1 +1,1 @@
-var mnemonic = "inject village box polar piano border company custom tilt chase core main";
+var mnemonic = "target comic citizen elevator half step parent model staff december depend evil";

@@ -1,1 +1,1 @@
-var mnemonic = "way era absent feel clever depth fly poverty young organ family unhappy";
+var mnemonic = "twice destroy lady own clutch deal next roast guitar wasp base erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "blast absorb lucky fresh club link shove busy present west fish frequent";
+var mnemonic = "weasel mention absent cause blade plate dance green onion convince eyebrow shove";

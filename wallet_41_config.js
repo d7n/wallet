@@ -1,1 +1,1 @@
-var mnemonic = "reflect royal delay veteran cabin jacket answer exhaust response conduct sing mass";
+var mnemonic = "romance purse wisdom track appear begin burger slab bless flame voice humor";

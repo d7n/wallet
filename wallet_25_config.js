@@ -1,1 +1,1 @@
-var mnemonic = "boil artefact giggle coach plate vicious photo turn maze hand celery space";
+var mnemonic = "better airport elevator spare elevator hen host radio runway evolve negative empty";

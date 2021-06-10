@@ -1,1 +1,1 @@
-var mnemonic = "rain jaguar project title believe miss logic cycle service rubber online banner";
+var mnemonic = "police gaze envelope common promote stool skill fortune online provide farm finish";

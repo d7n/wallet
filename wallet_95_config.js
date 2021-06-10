@@ -1,1 +1,1 @@
-var mnemonic = "ranch office shaft fan twenty slush dolphin grab exit sustain rural engage";
+var mnemonic = "moment silent first raise wage power wasp burst like cotton vessel crystal";

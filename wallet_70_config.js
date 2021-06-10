@@ -1,1 +1,1 @@
-var mnemonic = "ocean fiction crack abandon arrow file cream surround meat nature random milk";
+var mnemonic = "maid rely object enact catch shuffle flight sure issue entire stove leader";

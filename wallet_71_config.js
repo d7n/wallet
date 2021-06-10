@@ -1,1 +1,1 @@
-var mnemonic = "extra bird original vague toilet choose scheme much need lunch oxygen draft";
+var mnemonic = "torch define filter beach giraffe nation mother arch forward devote trouble wash";

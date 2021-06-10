@@ -1,1 +1,1 @@
-var mnemonic = "six step solve robot swarm fire drama ski praise run awake wink";
+var mnemonic = "engine faculty april degree skill spare army funny they remind push teach";

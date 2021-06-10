@@ -1,1 +1,1 @@
-var mnemonic = "industry young invest summer pioneer palace bind grief marble alter winner certain";
+var mnemonic = "ecology wrong onion impact wrestle talent bracket life home party walk range";

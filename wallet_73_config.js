@@ -1,1 +1,1 @@
-var mnemonic = "family afford cliff liquid prepare away rubber assist vault rotate detail dizzy";
+var mnemonic = "sadness elevator fire crisp gain pony tribe raven require chapter place also";

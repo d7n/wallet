@@ -1,1 +1,1 @@
-var mnemonic = "march used fit actor tape few random ramp visual hello wing west";
+var mnemonic = "cancel cube agree school derive egg fancy grab model object hazard common";

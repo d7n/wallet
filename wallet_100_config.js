@@ -1,1 +1,1 @@
-var mnemonic = "remain car cover language winter portion replace warrior appear legal pattern rent";
+var mnemonic = "year bean engage auction defy push alter diary tray radio decide please";

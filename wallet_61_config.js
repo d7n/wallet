@@ -1,1 +1,1 @@
-var mnemonic = "country glimpse convince choose reveal milk fun catch slam uncle bonus receive";
+var mnemonic = "brush rival real evidence frost install okay offer remember film obvious among";

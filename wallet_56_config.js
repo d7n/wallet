@@ -1,1 +1,1 @@
-var mnemonic = "always young minimum code bracket tail naive destroy shadow ozone art actress";
+var mnemonic = "school web bomb dentist elephant wrong wet frequent donor found deer dash";

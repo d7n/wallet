@@ -1,1 +1,1 @@
-var mnemonic = "tree subway pony fit square future clutch glad labor muscle orbit barrel";
+var mnemonic = "run across vendor jaguar pupil solar pause grunt material anchor doctor arrange";

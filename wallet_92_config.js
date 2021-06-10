@@ -1,1 +1,1 @@
-var mnemonic = "panic health junior legend hero damage idea grid panic shuffle fury drive";
+var mnemonic = "ankle north beef ankle float exhibit cement sudden boy thumb avocado wage";

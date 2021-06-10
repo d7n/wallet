@@ -1,1 +1,1 @@
-var mnemonic = "govern fog diary can spoon craft dose razor east knife kid size";
+var mnemonic = "type hammer trigger junk gossip able wage certain arm service lady mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "trap indoor animal time elephant give avoid undo produce flight depart fit";
+var mnemonic = "pact guilt imitate umbrella give tennis machine cream fault verify primary stomach";

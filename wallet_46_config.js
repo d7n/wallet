@@ -1,1 +1,1 @@
-var mnemonic = "visual record special pledge joke south crowd insane fever approve guitar bench";
+var mnemonic = "base leisure curious mammal disease loop like pupil arrange grab trash rhythm";

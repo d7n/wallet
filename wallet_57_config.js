@@ -1,1 +1,1 @@
-var mnemonic = "immune quarter able flock much timber trick video rally abandon ski scorpion";
+var mnemonic = "assume pulp bamboo aspect round term torch city bulk parade record victory";

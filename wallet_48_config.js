@@ -1,1 +1,1 @@
-var mnemonic = "need topple execute staff write scorpion trim method grunt slide question track";
+var mnemonic = "emotion coffee prevent april tape divide opera arrive entry rally company clay";

@@ -1,1 +1,1 @@
-var mnemonic = "expect field crush oval punch bacon cabbage female color pattern always surge";
+var mnemonic = "soon easy arrow door bulk myth flip today inject true recall empower";

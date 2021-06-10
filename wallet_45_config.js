@@ -1,1 +1,1 @@
-var mnemonic = "pond hungry album shock color always predict call delay grid crack jar";
+var mnemonic = "scout special index length habit twelve festival pulse spirit upper wheel husband";

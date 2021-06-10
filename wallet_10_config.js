@@ -1,1 +1,1 @@
-var mnemonic = "congress diagram judge goose response notable civil soul crew rain across antenna";
+var mnemonic = "trigger comic shove drift dolphin vendor history virus tortoise renew myself avocado";

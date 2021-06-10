@@ -1,1 +1,1 @@
-var mnemonic = "dilemma open custom file forest student amount broccoli century mean valley praise";
+var mnemonic = "jeans bottom special crush section nice silent upset copy weird garbage young";

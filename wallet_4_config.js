@@ -1,1 +1,1 @@
-var mnemonic = "very abuse weird smooth primary twin bike provide only hockey civil pony";
+var mnemonic = "element cruise taste exercise hawk march able brown edit bright laugh swift";

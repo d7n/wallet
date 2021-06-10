@@ -1,1 +1,1 @@
-var mnemonic = "fortune believe arrange multiply laugh behave leader mail edit blind wide wonder";
+var mnemonic = "raven erupt negative delay two ask exotic shock vibrant ribbon furnace viable";

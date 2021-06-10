@@ -1,1 +1,1 @@
-var mnemonic = "face olive fee napkin orchard voice this creek island mosquito garment know";
+var mnemonic = "parade arena artwork mountain refuse helmet unfair group roof under strike lock";

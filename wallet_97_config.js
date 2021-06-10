@@ -1,1 +1,1 @@
-var mnemonic = "beach book pencil unusual wool proof walk axis then kit stone immense";
+var mnemonic = "toast clutch motor meat flash catch sick grief trial monitor rely trap";

@@ -1,1 +1,1 @@
-var mnemonic = "depend trim betray fabric mind physical increase surface impact spoon bicycle oven";
+var mnemonic = "differ inject father place treat bone process whip diesel build shoe crystal";

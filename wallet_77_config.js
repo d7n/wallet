@@ -1,1 +1,1 @@
-var mnemonic = "agree interest aspect prison reward laugh cube list traffic child hero guard";
+var mnemonic = "path inherit word high thrive able token potato finger coil office payment";

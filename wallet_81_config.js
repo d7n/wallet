@@ -1,1 +1,1 @@
-var mnemonic = "coral rail pave obscure trash buffalo disease december else rocket enrich pause";
+var mnemonic = "inner valley common forest estate salon winter burst fork regret strong squeeze";

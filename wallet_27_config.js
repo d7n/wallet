@@ -1,1 +1,1 @@
-var mnemonic = "doctor history service actor cat chronic oppose involve sleep route unable release";
+var mnemonic = "broom card barrel thought famous smooth skill left proof wreck segment swing";

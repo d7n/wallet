@@ -1,1 +1,1 @@
-var mnemonic = "dutch remove certain lend picture ocean magic floor any genius anchor zone";
+var mnemonic = "buzz warrior credit glass step rely play maple various curtain kid bonus";

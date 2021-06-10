@@ -1,1 +1,1 @@
-var mnemonic = "pistol ethics upon summer slot fluid frame canal hope broccoli category wide";
+var mnemonic = "menu diamond setup hour ride destroy check bleak hobby way cry subject";

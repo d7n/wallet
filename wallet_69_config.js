@@ -1,1 +1,1 @@
-var mnemonic = "strong reflect draft fatigue drum jump alien riot miracle melody return ceiling";
+var mnemonic = "useful blame lift bomb crazy quit faith holiday course dove click strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe approve any timber flag regular result safe coast toss ginger illness";
+var mnemonic = "table obvious pyramid property undo sustain pudding obtain picnic butter achieve carbon";

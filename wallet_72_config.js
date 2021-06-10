@@ -1,1 +1,1 @@
-var mnemonic = "amount essence very glue ordinary kind dust action trip vivid license uphold";
+var mnemonic = "sudden burden lend bicycle income fine staff list solution guilt number such";

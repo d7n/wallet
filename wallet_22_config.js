@@ -1,1 +1,1 @@
-var mnemonic = "farm top raise cliff sentence force deposit give type cereal vessel plastic";
+var mnemonic = "broccoli question debate poem other security cable choose assault bridge nephew fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy scale health begin path prevent mail dirt armor fold engine educate";
+var mnemonic = "surprise inch account oval color fragile tuna grass build raise merry equal";

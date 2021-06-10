@@ -1,1 +1,1 @@
-var mnemonic = "output spatial laundry nothing eye track science liar favorite near host because";
+var mnemonic = "acid roast inform rival clap skin fashion surprise trade shrug elder top";

@@ -1,1 +1,1 @@
-var mnemonic = "slam risk coast cricket drill lecture crack gym city property alter push";
+var mnemonic = "expose stereo notice turkey clinic body abstract filter school bike plate acquire";

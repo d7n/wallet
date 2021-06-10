@@ -1,1 +1,1 @@
-var mnemonic = "zone during wild suit fade crunch camp air hedgehog office again steak";
+var mnemonic = "utility plunge ice physical weather flock chair radio aim athlete join firm";

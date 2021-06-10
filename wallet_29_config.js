@@ -1,1 +1,1 @@
-var mnemonic = "soft cactus flat document mind snake start palace hello hospital boss more";
+var mnemonic = "sort admit awake burst crew deer review view oblige minimum enable cage";

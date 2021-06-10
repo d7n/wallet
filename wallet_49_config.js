@@ -1,1 +1,1 @@
-var mnemonic = "poem candy pluck lion empower essay advice digital kiss paper curious between";
+var mnemonic = "life stone beef nothing floor dumb kingdom enjoy innocent fatigue yard humor";

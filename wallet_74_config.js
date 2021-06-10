@@ -1,1 +1,1 @@
-var mnemonic = "dress possible knee transfer nut extend corn elite episode spike grape style";
+var mnemonic = "worth render anxiety hollow scorpion couch skin ramp rule digital equal interest";

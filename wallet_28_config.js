@@ -1,1 +1,1 @@
-var mnemonic = "exercise melody network hospital improve catch head adapt unfold make fade pig";
+var mnemonic = "token rain vacant power dutch gentle ethics race employ swing only before";
