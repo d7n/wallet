@@ -1,1 +1,1 @@
-var mnemonic = "glare prison kick soup panic clap company gun picture museum source like";
+var mnemonic = "hat couple garage erode dry young knife talent talk move stick yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "tell night session mother exercise glory adjust damp cheap orchard mountain fix";
+var mnemonic = "among slim render school salmon recycle eight unlock tongue all since kangaroo";

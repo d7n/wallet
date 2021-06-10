@@ -1,1 +1,1 @@
-var mnemonic = "glance detect absent turtle hen soul come ocean sunset shield loan inside";
+var mnemonic = "damp hand cube stick gesture captain dial once horn menu teach recipe";

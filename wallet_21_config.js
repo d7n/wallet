@@ -1,1 +1,1 @@
-var mnemonic = "toe trash faith ill seat leisure junk ginger miracle cluster blast frame";
+var mnemonic = "since sudden border rebel only horror verb visa come angry rebel dentist";

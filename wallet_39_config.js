@@ -1,1 +1,1 @@
-var mnemonic = "buyer sense alone below salad ticket height enhance pupil sight scene luggage";
+var mnemonic = "tooth trust clap kiss flip cigar finish drift pink disorder impact prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "alter initial mother define color shy tennis picnic onion law entire border";
+var mnemonic = "reason pull cushion govern unhappy beyond item lake clay box reason scale";

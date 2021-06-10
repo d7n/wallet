@@ -1,1 +1,1 @@
-var mnemonic = "case invest cotton income clap pelican shed fold urge depend mercy gaze";
+var mnemonic = "merge cabin nation bone build update east step skull normal live profit";

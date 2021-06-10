@@ -1,1 +1,1 @@
-var mnemonic = "make junior fabric bag rather struggle oblige panther desk reveal marriage mind";
+var mnemonic = "feel carpet position math suggest hamster measure ball cruise crack question valley";

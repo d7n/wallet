@@ -1,1 +1,1 @@
-var mnemonic = "all blouse hill chuckle dish short drink brush nose roof sweet artist";
+var mnemonic = "steak visual nature cattle require acoustic cube cage whip direct anger kiss";

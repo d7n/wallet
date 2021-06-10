@@ -1,1 +1,1 @@
-var mnemonic = "worry penalty safe mutual guard member garden master brief clap undo angle";
+var mnemonic = "mushroom quiz lake outer uncover normal inside benefit key fun anger easily";

@@ -1,1 +1,1 @@
-var mnemonic = "derive profit horse spy dice end purse struggle basket maximum tonight potato";
+var mnemonic = "soda gallery life erosion evoke tourist copper twice catch volume color title";

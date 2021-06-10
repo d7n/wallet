@@ -1,1 +1,1 @@
-var mnemonic = "aerobic teach cart fuel sail sport benefit wreck aerobic virtual brick dilemma";
+var mnemonic = "space trap choice weekend kind silk connect strong loud elder loyal own";

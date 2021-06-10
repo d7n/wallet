@@ -1,1 +1,1 @@
-var mnemonic = "fitness web mention spawn maid cloud assault proud census tiny rubber voice";
+var mnemonic = "paddle desk knee kiwi depend canvas day coffee kid napkin original face";

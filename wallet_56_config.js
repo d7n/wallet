@@ -1,1 +1,1 @@
-var mnemonic = "just curious staff also fiber hawk room fan outside frown junior chuckle";
+var mnemonic = "open account unit target vendor peanut follow globe false endless pulse month";

@@ -1,1 +1,1 @@
-var mnemonic = "answer strike satoshi organ hold fault negative book clever art address comfort";
+var mnemonic = "window vast city advance truly cactus employ bag use result oil cross";

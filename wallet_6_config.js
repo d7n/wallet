@@ -1,1 +1,1 @@
-var mnemonic = "doll message quiz dinner fortune observe buffalo rifle zoo fury upgrade upper";
+var mnemonic = "unhappy inner suspect budget spray ability spare debris pause tonight trumpet regret";

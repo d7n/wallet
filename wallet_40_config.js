@@ -1,1 +1,1 @@
-var mnemonic = "supply umbrella garage ladder silver double web educate left robust broom tragic";
+var mnemonic = "tooth essence paper pear alter reveal lake body survey grace fee sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "vault dutch burst hammer winter jump chunk warrior deny domain lift cover";
+var mnemonic = "small reunion chronic kitchen office frost caught render prepare control funny elite";

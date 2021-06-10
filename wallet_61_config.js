@@ -1,1 +1,1 @@
-var mnemonic = "cliff stumble order cliff blanket atom witness turtle piano soccer umbrella olive";
+var mnemonic = "floor unable voice holiday dash tomato position cry dawn dish engage alone";

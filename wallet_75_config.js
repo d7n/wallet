@@ -1,1 +1,1 @@
-var mnemonic = "peanut soccer supreme country space amazing again void renew guitar brisk unveil";
+var mnemonic = "garbage where defense slam unfold monkey sustain lyrics spin pull crew section";

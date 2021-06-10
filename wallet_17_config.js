@@ -1,1 +1,1 @@
-var mnemonic = "pipe short apple plate pizza material fog tube educate pitch clump click";
+var mnemonic = "foil news purchase discover pigeon panda usual ride cute resist where tape";

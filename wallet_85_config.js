@@ -1,1 +1,1 @@
-var mnemonic = "crawl gloom clean erode cactus anxiety smart they family toward fold avocado";
+var mnemonic = "wine attend attend strike stadium evoke return shiver belt universe happy innocent";

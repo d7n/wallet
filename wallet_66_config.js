@@ -1,1 +1,1 @@
-var mnemonic = "purpose divorce spring device kind assault speed village music traffic version vast";
+var mnemonic = "timber scan obscure truly report lucky hazard member year device like true";

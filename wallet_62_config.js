@@ -1,1 +1,1 @@
-var mnemonic = "scale trash paper rebuild engine immense photo reduce churn bounce potato water";
+var mnemonic = "few combine tube oppose lizard above purchase laundry act assault female retire";

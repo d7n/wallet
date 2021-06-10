@@ -1,1 +1,1 @@
-var mnemonic = "faculty minimum any step curtain frequent knife receive ten rescue price oppose";
+var mnemonic = "shove tube fan category hand clay certain name work vacant caught pelican";

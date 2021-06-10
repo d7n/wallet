@@ -1,1 +1,1 @@
-var mnemonic = "enough barely style risk pigeon much happy before run install lizard allow";
+var mnemonic = "student craft consider fever gauge demise jealous green absorb alert square wool";

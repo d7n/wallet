@@ -1,1 +1,1 @@
-var mnemonic = "title aim lunar wild obtain gadget tip peanut document hidden legal fix";
+var mnemonic = "clip ridge gadget anchor connect task reopen session pond siren avocado aisle";

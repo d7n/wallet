@@ -1,1 +1,1 @@
-var mnemonic = "laptop blade custom slide scare upgrade away box misery salute cement receive";
+var mnemonic = "tumble stick remember morning pencil pride time deer sketch recall title liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet spread element rare betray unfold spring debris cute require ankle churn";
+var mnemonic = "pencil famous fashion reflect drift sea ship armed abuse ginger chest excite";

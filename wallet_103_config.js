@@ -1,1 +1,1 @@
-var mnemonic = "clump timber romance stool visit deliver traffic buddy grunt one supply virus";
+var mnemonic = "dance earth invest truck play cry pen fatal bulk walk pipe polar";

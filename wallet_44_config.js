@@ -1,1 +1,1 @@
-var mnemonic = "umbrella plug gesture card woman message spring tray empty catalog please million";
+var mnemonic = "purse clay anxiety perfect device soul music ostrich hope pipe margin save";

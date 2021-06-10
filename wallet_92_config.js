@@ -1,1 +1,1 @@
-var mnemonic = "enact keep race quantum indoor crack scrub episode message coach use spy";
+var mnemonic = "frame caught spot later science main volcano chalk fury shoot tomorrow ostrich";

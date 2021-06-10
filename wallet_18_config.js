@@ -1,1 +1,1 @@
-var mnemonic = "sorry donor mouse rotate swift suffer wait festival scout sick weather bread";
+var mnemonic = "update winner gown detect bread dismiss fancy pottery vapor split camera burger";

@@ -1,1 +1,1 @@
-var mnemonic = "inside thank kiwi want provide route cradle belt prize one smoke organ";
+var mnemonic = "purchase hello salad control slight horse priority horror earth recall fluid depart";

@@ -1,1 +1,1 @@
-var mnemonic = "soda cram human spend soft record return inquiry hammer chimney lift another";
+var mnemonic = "mango vague spend gesture radio coast swap humble switch shoulder wink spell";

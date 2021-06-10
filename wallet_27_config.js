@@ -1,1 +1,1 @@
-var mnemonic = "imitate tiger banana ahead robust robot speak session any matrix clay dove";
+var mnemonic = "tank rely ahead expect wall still aim bus razor galaxy season network";

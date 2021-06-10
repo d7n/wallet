@@ -1,1 +1,1 @@
-var mnemonic = "join oxygen term voyage narrow owner spirit increase unit age repair awake";
+var mnemonic = "inside region drip scrub broccoli foil rule toast guitar permit table devote";

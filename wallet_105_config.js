@@ -1,1 +1,1 @@
-var mnemonic = "then punch develop include loop fashion mistake obscure crash mercy train spin";
+var mnemonic = "hurdle embrace total veteran saddle equip total arrive envelope era certain orient";

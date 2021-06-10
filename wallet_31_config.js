@@ -1,1 +1,1 @@
-var mnemonic = "frequent ask trade arrive liquid clock meadow green minor caught jealous adult";
+var mnemonic = "daughter bonus swift donkey mercy loan stone have buyer alley color almost";

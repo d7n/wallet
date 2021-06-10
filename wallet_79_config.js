@@ -1,1 +1,1 @@
-var mnemonic = "author version month scissors jealous tell donor exercise liquid rifle fan walnut";
+var mnemonic = "apology chicken load leaf eight suggest weather dinosaur shaft razor just pool";

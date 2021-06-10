@@ -1,1 +1,1 @@
-var mnemonic = "expire together core rib useful tone banana slim cattle garment give ahead";
+var mnemonic = "asthma innocent odor please moon science six alone budget rebel sea problem";

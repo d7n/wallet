@@ -1,1 +1,1 @@
-var mnemonic = "noble hobby faint flame upgrade caution congress gallery text gospel relax craft";
+var mnemonic = "side else property local hope runway upgrade lion globe empty rural field";

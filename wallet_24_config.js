@@ -1,1 +1,1 @@
-var mnemonic = "chase echo theme pig chicken alarm want power place diesel marriage floor";
+var mnemonic = "ghost unit chapter farm glue actress fatigue jump jacket debate flag strike";

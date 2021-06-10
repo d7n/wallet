@@ -1,1 +1,1 @@
-var mnemonic = "echo cheese run hour already manual surprise seed home insane coffee power";
+var mnemonic = "rebel purity hungry admit treat group glow update between negative jelly north";

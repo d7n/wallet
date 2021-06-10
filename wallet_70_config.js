@@ -1,1 +1,1 @@
-var mnemonic = "kind story drill join little day year breeze brush paddle march pony";
+var mnemonic = "happy can gloom gold maze inflict legal parade work warfare roast topple";

@@ -1,1 +1,1 @@
-var mnemonic = "work tag humor patient moment behave provide ripple vague noise minor alarm";
+var mnemonic = "chair tree nasty detect bitter wait cost place bright purity citizen fire";

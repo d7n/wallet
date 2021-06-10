@@ -1,1 +1,1 @@
-var mnemonic = "sail lunch bring stumble purpose iron soccer case filter fee plunge tomorrow";
+var mnemonic = "team pistol sentence tiny road ozone bronze prevent alone penalty finger bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "face outdoor pupil endless core sting confirm pink taste swing casual interest";
+var mnemonic = "hero disagree wheat oyster express amused better chase own chest chalk spy";

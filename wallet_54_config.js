@@ -1,1 +1,1 @@
-var mnemonic = "bacon ticket torch satoshi play fence soccer news violin sample long alcohol";
+var mnemonic = "evil original top modify awake bone lend neutral wave expose execute trust";

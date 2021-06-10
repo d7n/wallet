@@ -1,1 +1,1 @@
-var mnemonic = "vivid love pond piece shy clarify index wrong stove expand wrong seed";
+var mnemonic = "confirm couple put security sign dice recipe verify cinnamon lady trade program";

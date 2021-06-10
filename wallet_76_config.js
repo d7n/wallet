@@ -1,1 +1,1 @@
-var mnemonic = "once nose camera truck elevator cinnamon neither deliver away orphan grid stove";
+var mnemonic = "soup flag survey pear engine bean father lottery nut program tone clerk";

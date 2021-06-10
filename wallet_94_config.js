@@ -1,1 +1,1 @@
-var mnemonic = "just coyote print drill pioneer multiply turtle potato lottery group load hello";
+var mnemonic = "cabbage cricket honey water practice midnight program crop sense leopard accident gun";

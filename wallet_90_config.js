@@ -1,1 +1,1 @@
-var mnemonic = "false illegal tip antique poet congress dad sunny layer tonight loan industry";
+var mnemonic = "brush demise urge list circle alcohol that follow artwork actual expect giant";

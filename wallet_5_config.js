@@ -1,1 +1,1 @@
-var mnemonic = "hard wolf twenty wolf service unable satoshi number board turtle occur bleak";
+var mnemonic = "snack fox neutral exit ask tribe shoe federal effort between fold advance";

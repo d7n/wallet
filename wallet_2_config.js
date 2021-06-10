@@ -1,1 +1,1 @@
-var mnemonic = "canyon soda pause absorb vehicle neglect laugh cage hour bunker pink fat";
+var mnemonic = "now basic vehicle resource fossil grass answer duty cable slam smile uncle";

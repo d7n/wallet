@@ -1,1 +1,1 @@
-var mnemonic = "meat artefact moral cotton fashion twist click earth police consider design bicycle";
+var mnemonic = "vague wire witness pyramid act soft couple ahead nerve submit mixed submit";

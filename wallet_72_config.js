@@ -1,1 +1,1 @@
-var mnemonic = "clock glad harvest people atom hold name view stem universe love index";
+var mnemonic = "obvious trick cradle earth traffic return mother estate employ rug change body";

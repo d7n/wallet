@@ -1,1 +1,1 @@
-var mnemonic = "rent useless spray search video mirror shoe smile venture animal scrub gaze";
+var mnemonic = "disease wisdom hidden project charge bind crane donor fault response math jungle";

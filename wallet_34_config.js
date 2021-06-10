@@ -1,1 +1,1 @@
-var mnemonic = "vital wisdom actual coral useful milk mistake neck dilemma fossil cube duck";
+var mnemonic = "ticket edge brush glove city claim romance together genuine flee life ethics";

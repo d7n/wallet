@@ -1,1 +1,1 @@
-var mnemonic = "barrel robust amused lazy galaxy rebel clever art leisure tag ranch ill";
+var mnemonic = "obvious sauce polar refuse trigger disagree pizza space muffin best crane bring";

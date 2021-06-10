@@ -1,1 +1,1 @@
-var mnemonic = "choose craft burst accuse follow rookie fetch useful sea bicycle whisper brave";
+var mnemonic = "mom license arrange safe curious early practice moon armor cream shine human";

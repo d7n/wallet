@@ -1,1 +1,1 @@
-var mnemonic = "paddle banana rich tomorrow choice arctic spoil tip federal suspect budget jazz";
+var mnemonic = "eagle outside fatigue spawn garment butter jeans inside cactus year half raccoon";

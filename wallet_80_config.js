@@ -1,1 +1,1 @@
-var mnemonic = "hero soon say empower jazz nephew unhappy visa carbon wasp rhythm ginger";
+var mnemonic = "obvious turkey ensure atom lion portion elite alley pudding buyer lake treat";

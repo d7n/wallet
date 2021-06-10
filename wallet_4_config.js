@@ -1,1 +1,1 @@
-var mnemonic = "swarm anchor clown wisdom repair insane cherry curtain medal random help parade";
+var mnemonic = "pear tag try hair reward upper fine perfect true ski two attack";

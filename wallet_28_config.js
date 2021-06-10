@@ -1,1 +1,1 @@
-var mnemonic = "youth strike autumn seek general foil hurdle cupboard prefer panic disagree flee";
+var mnemonic = "panda army cotton slice twice seven scheme gospel wreck butter lock scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "swing acoustic clarify mix cloth hedgehog master refuse common lens depth excuse";
+var mnemonic = "muffin hint maze unit enact shoulder crumble put shallow armed badge buyer";

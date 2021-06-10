@@ -1,1 +1,1 @@
-var mnemonic = "earth expect cause piece proud story guitar gorilla cycle aspect gravity category";
+var mnemonic = "nose daughter giraffe upper student color cabin clinic topic empower island join";

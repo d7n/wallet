@@ -1,1 +1,1 @@
-var mnemonic = "provide steel nurse comic piano wink carpet inmate purity number gym swing";
+var mnemonic = "horn hint energy bone must kick today pull diesel panic inform critic";

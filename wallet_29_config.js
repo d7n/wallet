@@ -1,1 +1,1 @@
-var mnemonic = "cruel child cabin burst labor canal neglect charge access habit chase skin";
+var mnemonic = "neglect tilt check baby luggage beef memory wage next path sheriff welcome";

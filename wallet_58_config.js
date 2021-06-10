@@ -1,1 +1,1 @@
-var mnemonic = "slice tired layer indicate wink quarter where rebuild bottom curtain bubble obey";
+var mnemonic = "order member frog syrup replace tiger tooth trend teach salon noble pill";

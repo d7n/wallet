@@ -1,1 +1,1 @@
-var mnemonic = "brave skirt salmon mobile soul spawn hover give swear earth neither tube";
+var mnemonic = "error chronic book exclude reform mosquito lock pistol maximum tornado trouble ghost";

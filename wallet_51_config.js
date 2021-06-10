@@ -1,1 +1,1 @@
-var mnemonic = "burst foot hole buffalo clean couple memory silk bench evidence army pledge";
+var mnemonic = "blast animal stove narrow apology kite advance faint bonus never stomach orphan";

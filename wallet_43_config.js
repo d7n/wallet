@@ -1,1 +1,1 @@
-var mnemonic = "forum embark zone visit ring behave used box mirror seed depend sibling";
+var mnemonic = "rabbit height spend machine supreme disorder sound erase grid suspect violin relax";

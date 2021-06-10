@@ -1,1 +1,1 @@
-var mnemonic = "involve priority sunny sleep muffin blind deer era banner wish resource runway";
+var mnemonic = "leave shuffle avoid wine chat baby ice error play boring head cushion";

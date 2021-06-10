@@ -1,1 +1,1 @@
-var mnemonic = "ahead gossip sell wire salad sponsor shield swarm hockey cherry exclude pretty";
+var mnemonic = "pony spot wear box universe oyster grief deal sphere fan destroy prepare";

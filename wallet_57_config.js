@@ -1,1 +1,1 @@
-var mnemonic = "swarm gas ozone dolphin web lion morning guess model bind artwork dragon";
+var mnemonic = "undo satoshi shield awesome pelican elbow save impulse bike leaf among token";

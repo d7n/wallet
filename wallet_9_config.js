@@ -1,1 +1,1 @@
-var mnemonic = "gym civil body betray board wine balance pill picture mention fine author";
+var mnemonic = "story dutch box action rare tower attend copy addict stamp super when";

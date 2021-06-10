@@ -1,1 +1,1 @@
-var mnemonic = "board sort disease daring phone juice patient repair tortoise like label during";
+var mnemonic = "female nature erupt noodle novel column ozone gas horror screen emotion champion";

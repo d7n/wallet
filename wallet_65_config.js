@@ -1,1 +1,1 @@
-var mnemonic = "surge floor avoid give sort speak toilet visual aunt thumb dwarf chaos";
+var mnemonic = "cluster twelve slow govern correct error repeat clutch smoke cigar coast orange";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil visual unveil urban traffic subway choice sword sound once position rapid";
+var mnemonic = "exhibit length claim lucky twelve monitor paper next accident access lobster choice";

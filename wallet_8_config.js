@@ -1,1 +1,1 @@
-var mnemonic = "fury jaguar gold return people keep inner pear ancient bridge carpet wisdom";
+var mnemonic = "prepare practice rally badge skate oven noise labor awesome execute moon pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "merge reject island plug reduce twenty borrow hire dawn fringe risk jungle";
+var mnemonic = "short case cradle grain choice mesh render version hub barely release slow";

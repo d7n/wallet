@@ -1,1 +1,1 @@
-var mnemonic = "desert portion town manual reject stomach else when just buzz advice quit";
+var mnemonic = "remove corn stove arrow infant front online wonder renew science right dish";

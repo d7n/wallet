@@ -1,1 +1,1 @@
-var mnemonic = "season prevent repair primary cabin monitor frozen proud west timber genius gap";
+var mnemonic = "label match cousin off else dawn cloud pepper spy fatal couple what";

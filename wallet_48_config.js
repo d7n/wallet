@@ -1,1 +1,1 @@
-var mnemonic = "raccoon acid tray delay chapter any neither seminar purse person weather umbrella";
+var mnemonic = "lunar jaguar cushion toe raise sweet abuse business hub venture girl crush";

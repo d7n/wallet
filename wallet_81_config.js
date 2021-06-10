@@ -1,1 +1,1 @@
-var mnemonic = "remove pilot fork calm brush cactus furnace sell fault plate swift oval";
+var mnemonic = "cherry grow tongue swift identify arrow satisfy fork exchange meadow click rhythm";

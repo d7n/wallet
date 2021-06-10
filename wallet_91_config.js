@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit puzzle siege mansion obtain salute amount ring final now peasant rookie";
+var mnemonic = "play pepper miss alert light public ripple eye install improve goddess aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "grief taste main cube fee able ostrich voice curve galaxy enter capable";
+var mnemonic = "increase unusual purpose afford melt bird escape attitude valid design medal winner";

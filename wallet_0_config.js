@@ -1,1 +1,1 @@
-var mnemonic = "problem sunny citizen talent hover dash monitor cluster large fancy document like";
+var mnemonic = "school attract endless focus field box valley battle vocal enjoy type evidence";

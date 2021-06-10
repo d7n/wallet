@@ -1,1 +1,1 @@
-var mnemonic = "group wealth venture twin clinic square change lounge cactus custom foil ramp";
+var mnemonic = "daughter online plastic economy peasant universe acquire easy fresh ticket fish abstract";

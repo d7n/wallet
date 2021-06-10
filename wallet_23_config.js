@@ -1,1 +1,1 @@
-var mnemonic = "usual say prefer truck lecture trumpet amazing police convince vendor address slight";
+var mnemonic = "month poet music photo harvest arch urban circle fold situate neglect giraffe";

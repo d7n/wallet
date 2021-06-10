@@ -1,1 +1,1 @@
-var mnemonic = "dad salad raw local acquire merit decorate evil brisk pigeon wine clock";
+var mnemonic = "ice enact health rural people embark vapor warm beef length fit ship";

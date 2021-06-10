@@ -1,1 +1,1 @@
-var mnemonic = "scare once filter improve rally bus tunnel annual talent plate ranch cram";
+var mnemonic = "damp vocal december envelope fire sunset orphan punch page ride quiz issue";

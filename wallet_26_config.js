@@ -1,1 +1,1 @@
-var mnemonic = "spoil law river pledge puzzle shiver tail either hedgehog ordinary upon tool";
+var mnemonic = "coral sun attract seven switch opera kite crawl wedding cheese cherry guess";

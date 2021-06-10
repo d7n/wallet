@@ -1,1 +1,1 @@
-var mnemonic = "you relief weasel dinosaur cousin push slush rival bargain flee glad plunge";
+var mnemonic = "gap swim aerobic soccer typical improve inflict gadget open that run giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle culture board february turn nut fitness sense someone swear chase goat";
+var mnemonic = "wing humor large result ivory install rail input change elbow large story";
