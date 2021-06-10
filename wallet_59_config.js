@@ -1,1 +1,1 @@
-var mnemonic = "rural ocean curtain vivid buffalo hawk ankle beauty net pink much south";
+var mnemonic = "acquire remind phone theory turn dice culture exotic midnight fix profit cause";

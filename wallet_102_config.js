@@ -1,1 +1,1 @@
-var mnemonic = "father champion unlock whip nothing still decorate physical scene churn move march";
+var mnemonic = "soon reveal sense elbow outside demise chat embark buddy capital seven habit";

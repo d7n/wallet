@@ -1,1 +1,1 @@
-var mnemonic = "robust decide amused double select spring hungry beef same drum lamp cable";
+var mnemonic = "blush kingdom armed put prize hurt firm question child breeze scare loop";

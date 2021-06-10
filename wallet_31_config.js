@@ -1,1 +1,1 @@
-var mnemonic = "find service acquire talk fork lunch million layer sand woman bird yard";
+var mnemonic = "exhaust false today behave observe illness smile rifle ginger tongue social system";

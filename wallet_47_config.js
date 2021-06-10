@@ -1,1 +1,1 @@
-var mnemonic = "risk unlock vanish claw urban credit fade salmon approve busy sentence flock";
+var mnemonic = "mutual same hello harvest envelope welcome milk comic cycle sense laundry exclude";

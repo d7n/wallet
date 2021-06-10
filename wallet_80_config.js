@@ -1,1 +1,1 @@
-var mnemonic = "jar picture picnic unique night repeat artwork unhappy blouse survey car creek";
+var mnemonic = "inform pause ski mail subject good riot original unusual whip absurd galaxy";

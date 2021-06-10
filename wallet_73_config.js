@@ -1,1 +1,1 @@
-var mnemonic = "they panic fatal rocket sense person reflect mule claw bless stay trap";
+var mnemonic = "dawn hedgehog possible pumpkin turkey mystery crazy nature bridge creek pink win";

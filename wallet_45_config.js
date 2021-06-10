@@ -1,1 +1,1 @@
-var mnemonic = "dune view tattoo plastic travel item crash glide elephant fee calm walk";
+var mnemonic = "trial spatial remain advance virus black razor surface ceiling mule return admit";

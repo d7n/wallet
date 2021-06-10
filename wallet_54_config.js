@@ -1,1 +1,1 @@
-var mnemonic = "mouse wall tattoo nothing mechanic broken visual surface second donor nurse flock";
+var mnemonic = "grape project direct awake eye unlock rent setup wine become park permit";

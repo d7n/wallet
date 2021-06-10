@@ -1,1 +1,1 @@
-var mnemonic = "assist heavy meadow robot abuse surge range mammal draw farm expose achieve";
+var mnemonic = "tell like taxi harvest ranch hair goose arch august bunker fog mom";

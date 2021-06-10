@@ -1,1 +1,1 @@
-var mnemonic = "april daughter notable decorate scatter castle rain scissors fame section vehicle hood";
+var mnemonic = "hockey impulse basket gesture claw future vague shop era random increase anxiety";

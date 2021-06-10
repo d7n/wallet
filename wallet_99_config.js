@@ -1,1 +1,1 @@
-var mnemonic = "coral lunar light term fiscal inch odor shine brother rotate devote thing";
+var mnemonic = "forum act rug swamp intact rival convince witness daring lab arrange parent";

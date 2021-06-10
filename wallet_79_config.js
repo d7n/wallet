@@ -1,1 +1,1 @@
-var mnemonic = "deputy robust design bunker under budget perfect luggage estate apart bone height";
+var mnemonic = "guess alert sadness reflect ship enlist adjust tree escape emotion pottery ski";

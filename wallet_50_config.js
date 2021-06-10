@@ -1,1 +1,1 @@
-var mnemonic = "kitchen farm decide morning hand twice lab sick grab wolf lyrics burger";
+var mnemonic = "aisle final little jeans that already flash police prepare pluck junior silly";

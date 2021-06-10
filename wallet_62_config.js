@@ -1,1 +1,1 @@
-var mnemonic = "child eyebrow tonight pumpkin feed broom trophy explain bitter logic orchard soccer";
+var mnemonic = "crew record catch tell vocal rug guitar oak border visit confirm chair";

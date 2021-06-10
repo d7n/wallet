@@ -1,1 +1,1 @@
-var mnemonic = "describe improve aisle acquire hire reason valve math shock december yellow silk";
+var mnemonic = "either tortoise reflect trigger bonus maximum meadow boil winner sausage hurt calm";

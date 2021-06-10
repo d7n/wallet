@@ -1,1 +1,1 @@
-var mnemonic = "gap awake hub movie sudden salad direct misery valid shiver trust gain";
+var mnemonic = "sword route shift execute produce head common jazz decrease swim lend reject";

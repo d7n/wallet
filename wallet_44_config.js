@@ -1,1 +1,1 @@
-var mnemonic = "razor squirrel luggage knee hawk duck scout begin bamboo height future first";
+var mnemonic = "decide mind pause grocery machine era space joy roof drink tomorrow eternal";

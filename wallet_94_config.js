@@ -1,1 +1,1 @@
-var mnemonic = "tornado illness borrow shoulder cancel pen reunion true derive world decline bench";
+var mnemonic = "trap crane powder name sunset foot fox system inner core possible casino";

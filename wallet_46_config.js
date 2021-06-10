@@ -1,1 +1,1 @@
-var mnemonic = "hockey rude replace chapter room slim entry sugar affair submit ankle giant";
+var mnemonic = "solve capital shock news give drop property lumber expect fatigue lunch write";

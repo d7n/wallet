@@ -1,1 +1,1 @@
-var mnemonic = "cradle any holiday jealous bike aisle frame job depart kiss accuse concert";
+var mnemonic = "unlock spoon oil congress steel nuclear route skin trap kidney embody army";

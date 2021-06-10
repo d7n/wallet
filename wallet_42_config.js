@@ -1,1 +1,1 @@
-var mnemonic = "observe bounce unable junior vague clinic output child globe antenna fever exercise";
+var mnemonic = "worry loyal dignity assume pool over light spring gasp kitchen pumpkin chronic";

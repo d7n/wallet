@@ -1,1 +1,1 @@
-var mnemonic = "hawk deputy system expose solution border zebra planet erosion fire brown myth";
+var mnemonic = "build gospel section twelve access spare link fog thank laugh answer caught";

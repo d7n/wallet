@@ -1,1 +1,1 @@
-var mnemonic = "valley border tank drive jelly canal eager immune ask domain slow robust";
+var mnemonic = "tide gorilla tail napkin crazy fade describe master engine plunge elite fold";

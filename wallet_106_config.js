@@ -1,1 +1,1 @@
-var mnemonic = "question unaware calm great video exercise color lazy lonely thrive ugly legal";
+var mnemonic = "thrive scorpion pudding wedding ugly glance theory town energy level valve system";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude extend violin input child tattoo fortune damage firm corn spin best";
+var mnemonic = "detail ghost ride flight laptop december monkey law lock display keep street";

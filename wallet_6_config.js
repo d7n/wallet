@@ -1,1 +1,1 @@
-var mnemonic = "cause such lemon weapon boring globe merge approve penalty devote lunar save";
+var mnemonic = "finish rail scrub mushroom roast illness vague lesson pen address exchange check";

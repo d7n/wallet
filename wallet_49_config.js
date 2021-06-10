@@ -1,1 +1,1 @@
-var mnemonic = "display chimney pull off ostrich pet final junk session orient spice excite";
+var mnemonic = "exotic boil modify coral history deposit rib doctor feature taxi remember cube";

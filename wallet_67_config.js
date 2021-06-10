@@ -1,1 +1,1 @@
-var mnemonic = "icon salmon chalk monkey envelope mask avoid solid depth argue drill detail";
+var mnemonic = "easy gauge sport axis know sort consider know already crater scissors chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy depth exhibit erosion category stable slender still arrow cancel escape coast";
+var mnemonic = "offer april gallery sauce nurse mule squeeze okay elbow wrap north naive";

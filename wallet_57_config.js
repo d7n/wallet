@@ -1,1 +1,1 @@
-var mnemonic = "certain sadness venture vintage joy grocery document quality swamp inner size all";
+var mnemonic = "scare parade promote add unit day magic crack skin abstract siege start";

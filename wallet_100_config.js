@@ -1,1 +1,1 @@
-var mnemonic = "just walk spot govern poem crunch tonight aware crop congress tilt industry";
+var mnemonic = "equip change luggage clarify often excite unknown gold order trend final turn";

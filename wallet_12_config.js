@@ -1,1 +1,1 @@
-var mnemonic = "exact rent easy tide shell silent snake since fall shallow wonder void";
+var mnemonic = "wonder blue oil six series cigar mask dizzy town remember ability hammer";

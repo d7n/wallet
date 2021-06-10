@@ -1,1 +1,1 @@
-var mnemonic = "weather fetch discover gorilla casual property cheese answer connect battle wear hybrid";
+var mnemonic = "gym merge where sport rally tattoo budget december tilt clarify develop police";

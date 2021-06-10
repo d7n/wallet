@@ -1,1 +1,1 @@
-var mnemonic = "modify firm clock object service rocket random twelve dune deny raccoon goddess";
+var mnemonic = "frame admit oval insane tag mom doll thumb space mule saddle state";

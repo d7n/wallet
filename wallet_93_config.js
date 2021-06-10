@@ -1,1 +1,1 @@
-var mnemonic = "damage human hat bring peanut crumble sting ignore clinic impulse sniff track";
+var mnemonic = "assist shuffle trash call multiply come dish crowd thought pony labor casino";

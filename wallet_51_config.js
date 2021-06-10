@@ -1,1 +1,1 @@
-var mnemonic = "frown stove verify half blur perfect two stumble inflict when coin concert";
+var mnemonic = "believe catch nasty fortune want arrow ethics illness rely jungle expect curtain";

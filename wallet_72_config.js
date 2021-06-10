@@ -1,1 +1,1 @@
-var mnemonic = "old world pledge hint guitar that erase silent wolf yellow furnace plunge";
+var mnemonic = "fade narrow ten elder sight property shrug surround mixed fiction ball family";

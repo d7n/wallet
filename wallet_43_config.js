@@ -1,1 +1,1 @@
-var mnemonic = "release wise reveal prepare panic shell rotate between culture excuse snack media";
+var mnemonic = "divorce excite write soon soul cry magnet turtle want ride toward reunion";

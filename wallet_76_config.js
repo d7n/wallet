@@ -1,1 +1,1 @@
-var mnemonic = "nest kiwi idle project sheriff tumble primary drink engage museum flock private";
+var mnemonic = "tattoo inch category reduce drive snow step door mosquito demise forest actual";

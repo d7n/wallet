@@ -1,1 +1,1 @@
-var mnemonic = "build diamond plug dog gesture dwarf swallow unique hammer limb fly water";
+var mnemonic = "smooth once theory table olive whale galaxy three dial waste across file";

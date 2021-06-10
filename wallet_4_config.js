@@ -1,1 +1,1 @@
-var mnemonic = "prefer rent gorilla throw phone victory steel join jealous prevent warrior text";
+var mnemonic = "tobacco exit claim joy catch pulp glow ensure range nut butter chase";

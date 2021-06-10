@@ -1,1 +1,1 @@
-var mnemonic = "distance salmon antique swim owner turn buyer then idea foam cricket sand";
+var mnemonic = "fun pattern sponsor spare hill casual ritual want giant paddle shoe fantasy";

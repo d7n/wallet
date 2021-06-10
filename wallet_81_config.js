@@ -1,1 +1,1 @@
-var mnemonic = "syrup that vivid unfair bridge range question scatter curve ugly enrich barrel";
+var mnemonic = "brown gather rug sibling soda clinic patrol toddler lunch ship join copy";

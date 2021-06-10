@@ -1,1 +1,1 @@
-var mnemonic = "valid size vibrant umbrella prefer yellow rare wisdom coyote live spice physical";
+var mnemonic = "dance uncover sadness stand live mosquito minute biology come protect version library";

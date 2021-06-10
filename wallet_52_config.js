@@ -1,1 +1,1 @@
-var mnemonic = "bless barrel say grit food emotion enough margin zebra delay catch grass";
+var mnemonic = "miracle upon trophy tank electric mosquito humble spell steak rule pyramid elder";

@@ -1,1 +1,1 @@
-var mnemonic = "universe cargo liberty toward neither cactus elite only diet stick gaze bamboo";
+var mnemonic = "twist way symbol arrive under logic winner birth armed curve enhance bleak";

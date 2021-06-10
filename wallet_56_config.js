@@ -1,1 +1,1 @@
-var mnemonic = "call card electric fringe rebuild cabin alone hotel bottom skate beach impose";
+var mnemonic = "pulse cash announce today mask spring laptop rain guilt stone reject crack";

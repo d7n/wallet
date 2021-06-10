@@ -1,1 +1,1 @@
-var mnemonic = "agent purity intact swift sunny cereal say tooth dust duck wild muscle";
+var mnemonic = "sunset box dash actual myself west toast staff assault coast into coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "still toddler resource culture tiny dice question lake pet sock slot phone";
+var mnemonic = "beyond reduce burger use essay april until begin chef chimney news image";

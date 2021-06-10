@@ -1,1 +1,1 @@
-var mnemonic = "stadium success jewel thought occur output stove drive illegal average garden addict";
+var mnemonic = "menu peanut aspect trend warfare dolphin decorate lab glad alien news loud";

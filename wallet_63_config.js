@@ -1,1 +1,1 @@
-var mnemonic = "throw intact enroll decline umbrella innocent neglect lobster torch rare settle feel";
+var mnemonic = "lottery retreat surprise recipe canoe run holiday asthma issue baby scout surprise";

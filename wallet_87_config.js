@@ -1,1 +1,1 @@
-var mnemonic = "gallery universe cannon gallery chief danger palace night awesome wheat word seat";
+var mnemonic = "pave sword aim silver summer lizard case gossip transfer decline hold steak";

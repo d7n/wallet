@@ -1,1 +1,1 @@
-var mnemonic = "cause post wear cruise basic chair upper bird rate oppose monitor report";
+var mnemonic = "echo poet object hero organ build tool park first wall blush warm";

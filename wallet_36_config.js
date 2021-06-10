@@ -1,1 +1,1 @@
-var mnemonic = "observe mansion someone select pink inquiry crush style perfect script badge palm";
+var mnemonic = "pen mountain hospital soft flight obscure bacon question explain tenant this obvious";

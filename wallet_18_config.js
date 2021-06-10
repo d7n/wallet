@@ -1,1 +1,1 @@
-var mnemonic = "medal legend throw note blouse tag couch elite stairs rookie protect vocal";
+var mnemonic = "like supply shoe cherry develop layer alley flame chapter priority option piano";

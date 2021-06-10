@@ -1,1 +1,1 @@
-var mnemonic = "surprise deliver seat tide rabbit dice assume cheap spare fire acoustic buffalo";
+var mnemonic = "brown bounce gesture promote income night title allow fragile eight clarify bacon";

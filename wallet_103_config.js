@@ -1,1 +1,1 @@
-var mnemonic = "profit feel welcome horror notice habit shift father setup version vehicle laptop";
+var mnemonic = "twin major woman assault engine very crush result light word blur sound";

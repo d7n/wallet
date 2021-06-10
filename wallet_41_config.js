@@ -1,1 +1,1 @@
-var mnemonic = "grain coast train drill solution void edit lemon visit cable pink client";
+var mnemonic = "wisdom position pottery cruise safe initial clump since magic nerve animal script";

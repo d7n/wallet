@@ -1,1 +1,1 @@
-var mnemonic = "fork mask tunnel promote blame cream river valley echo flush film hill";
+var mnemonic = "inform health merit park shoe leisure family leaf hazard image suit timber";

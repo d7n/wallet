@@ -1,1 +1,1 @@
-var mnemonic = "shell lecture wheat prize width double advance learn aerobic flip trash topic";
+var mnemonic = "ozone brand risk replace stumble gloom zone metal text critic neglect hold";

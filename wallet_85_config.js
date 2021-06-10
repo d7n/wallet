@@ -1,1 +1,1 @@
-var mnemonic = "tree interest slight glimpse zebra cushion admit vivid ostrich similar foot layer";
+var mnemonic = "weird wood list shed gold donor shed target despair siege segment estate";

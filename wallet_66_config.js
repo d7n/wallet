@@ -1,1 +1,1 @@
-var mnemonic = "grain unveil girl hurdle victory behind worry grape smoke festival invest assist";
+var mnemonic = "advice cupboard noble payment mention wrong keen spin find hazard pride camera";

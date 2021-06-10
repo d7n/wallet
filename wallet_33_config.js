@@ -1,1 +1,1 @@
-var mnemonic = "security tiny weekend grocery mirror boss engage inner misery noodle token student";
+var mnemonic = "heavy pink urban october load lemon call invest moral garbage tag farm";

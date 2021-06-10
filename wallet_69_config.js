@@ -1,1 +1,1 @@
-var mnemonic = "outside tonight steel fish autumn segment snake fork pilot reveal alarm together";
+var mnemonic = "barely furnace myself settle pattern okay debate tenant become flame taste rule";

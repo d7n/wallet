@@ -1,1 +1,1 @@
-var mnemonic = "razor quiz special pact monkey update leaf bike urban list jazz cement";
+var mnemonic = "pigeon hour project limb dial index logic divert scan garment spice cry";

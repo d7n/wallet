@@ -1,1 +1,1 @@
-var mnemonic = "reason pistol decline salon job issue drive file diamond any media wall";
+var mnemonic = "fortune erosion eye lyrics tray alert lake fox shoot pet april inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy trip speak special strike perfect witness ancient magnet remove chief loud";
+var mnemonic = "note before catalog title outer sail coral kingdom body hedgehog around saddle";

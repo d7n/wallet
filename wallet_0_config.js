@@ -1,1 +1,1 @@
-var mnemonic = "position impulse huge ignore twice timber symptom fruit index pause column anger";
+var mnemonic = "portion spawn human surprise slide neutral cluster affair inner debris receive gather";

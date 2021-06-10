@@ -1,1 +1,1 @@
-var mnemonic = "life foot pact multiply turtle goose error blind dish strategy picnic canal";
+var mnemonic = "announce swap dune finish squeeze rival urban almost answer tent train obtain";

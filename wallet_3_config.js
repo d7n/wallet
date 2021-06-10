@@ -1,1 +1,1 @@
-var mnemonic = "jaguar liquid maze admit tilt assist glow improve dune fragile display hurry";
+var mnemonic = "gravity nuclear trial check brown leader strike wash village release lonely spirit";

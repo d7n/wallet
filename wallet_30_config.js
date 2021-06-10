@@ -1,1 +1,1 @@
-var mnemonic = "caught wing brown license usage nest master upon deputy setup safe armor";
+var mnemonic = "perfect uncover rent decorate bachelor dance adult muffin uncle open cattle hint";

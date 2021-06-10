@@ -1,1 +1,1 @@
-var mnemonic = "man ozone throw educate come benefit tonight two road gorilla mushroom illegal";
+var mnemonic = "race wish tree horror equal can force draft hand between action table";

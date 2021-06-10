@@ -1,1 +1,1 @@
-var mnemonic = "wasp across awake fossil secret poem august topic wave effort pass cricket";
+var mnemonic = "carry never potato foam demise ten bacon dose upon script produce bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "review blame swamp beef retreat narrow bottom make victory sauce address theme";
+var mnemonic = "cloth soul awesome maple wrestle crash news humor possible forward involve tornado";

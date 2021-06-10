@@ -1,1 +1,1 @@
-var mnemonic = "keen peace cheap lyrics horse fantasy pipe mutual glance pupil despair twelve";
+var mnemonic = "twice bottom double mammal wedding orchard vicious argue enforce inherit initial dentist";

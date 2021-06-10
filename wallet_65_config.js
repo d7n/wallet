@@ -1,1 +1,1 @@
-var mnemonic = "marriage advance warfare goat anchor bridge blame tilt material vacant fish fat";
+var mnemonic = "unfold garlic timber scare open member high credit lady sunset salute already";

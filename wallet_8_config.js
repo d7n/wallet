@@ -1,1 +1,1 @@
-var mnemonic = "arena flower crop key math sure captain marble short ahead stool inform";
+var mnemonic = "anxiety write aunt wrap crowd million dwarf stage food donkey excuse judge";

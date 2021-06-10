@@ -1,1 +1,1 @@
-var mnemonic = "naive glue benefit sock orbit winter master box search slim slice planet";
+var mnemonic = "violin mushroom fruit museum simple write problem swim ring fuel confirm coast";

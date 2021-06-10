@@ -1,1 +1,1 @@
-var mnemonic = "age city fringe region connect veteran pistol chunk laugh swarm replace keep";
+var mnemonic = "hybrid agree penalty excite fix happy stable filter alcohol dash uphold glow";

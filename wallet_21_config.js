@@ -1,1 +1,1 @@
-var mnemonic = "best satoshi pistol country crop fan van bird scale between achieve sail";
+var mnemonic = "model tired hero pride actual parent loud drum trust credit cycle knee";

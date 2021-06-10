@@ -1,1 +1,1 @@
-var mnemonic = "suspect wife jeans alien old pink riot upset fog detail bunker famous";
+var mnemonic = "joy symbol lawsuit insane multiply prevent toast roast athlete include thrive enter";

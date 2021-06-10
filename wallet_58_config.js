@@ -1,1 +1,1 @@
-var mnemonic = "plunge reward fence promote select another gun topic slim mad chalk destroy";
+var mnemonic = "fetch walk tired castle change juice ability purse draft fever wink drop";

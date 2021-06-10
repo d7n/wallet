@@ -1,1 +1,1 @@
-var mnemonic = "assume gas twice knock end notable day solution street twelve dune barrel";
+var mnemonic = "dream figure legend heavy gallery book rotate chaos dash project error dutch";

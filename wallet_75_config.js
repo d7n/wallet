@@ -1,1 +1,1 @@
-var mnemonic = "story bulk endorse garden miracle goose wall meadow mechanic prize fix buddy";
+var mnemonic = "seven clean diamond ability regular coral cry poverty happy bunker addict chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "execute away vast silver shock modify vague equip prison earn minor indoor";
+var mnemonic = "error found maple renew risk produce short final nuclear turn layer road";

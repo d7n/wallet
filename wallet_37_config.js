@@ -1,1 +1,1 @@
-var mnemonic = "vanish vault choose crazy day manual win arrow output dwarf gift bind";
+var mnemonic = "include hill link month they orphan muscle argue hurt fork myself veteran";

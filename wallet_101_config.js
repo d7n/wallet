@@ -1,1 +1,1 @@
-var mnemonic = "essence argue odor people border sibling tooth yellow okay file guilt present";
+var mnemonic = "apology glide unveil hip annual sad cover street eager symbol infant smile";

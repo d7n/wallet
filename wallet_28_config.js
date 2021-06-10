@@ -1,1 +1,1 @@
-var mnemonic = "intact stable lens receive timber water amused media alpha wage dust tilt";
+var mnemonic = "bubble general once super dream sheriff pipe vendor possible garden patient excite";

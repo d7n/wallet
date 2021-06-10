@@ -1,1 +1,1 @@
-var mnemonic = "castle almost verify can fine cross swim stay sport garlic retire disease";
+var mnemonic = "glide regular verify night tail error sick amateur hope bless rally during";
