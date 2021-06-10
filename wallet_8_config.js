@@ -1,1 +1,1 @@
-var mnemonic = "soup trophy swarm juice embrace army renew monitor phrase jeans fit weird";
+var mnemonic = "unable fun foil tumble loop practice conduct night child solution buzz apple";

@@ -1,1 +1,1 @@
-var mnemonic = "predict wisdom lonely smoke drink pumpkin amount fluid rookie pioneer treat blade";
+var mnemonic = "useful feel half erode deposit clay couple keen hedgehog legend license believe";

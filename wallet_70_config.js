@@ -1,1 +1,1 @@
-var mnemonic = "maid rely object enact catch shuffle flight sure issue entire stove leader";
+var mnemonic = "venue mouse stay tenant subway olive valley total sadness reward say nest";

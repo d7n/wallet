@@ -1,1 +1,1 @@
-var mnemonic = "life stone beef nothing floor dumb kingdom enjoy innocent fatigue yard humor";
+var mnemonic = "invite talent post culture minor matter swamp disease slim world glove cash";

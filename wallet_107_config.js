@@ -1,1 +1,1 @@
-var mnemonic = "improve owner simple nuclear roof ordinary virus blood ten birth icon object";
+var mnemonic = "convince opinion guilt will rhythm gate easy belt color chalk pattern grab";

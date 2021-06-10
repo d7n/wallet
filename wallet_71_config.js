@@ -1,1 +1,1 @@
-var mnemonic = "torch define filter beach giraffe nation mother arch forward devote trouble wash";
+var mnemonic = "female pig favorite neither health bleak explain basket announce level plastic run";

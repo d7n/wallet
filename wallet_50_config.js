@@ -1,1 +1,1 @@
-var mnemonic = "wave govern exclude cereal arctic okay plug urban cake farm hunt frown";
+var mnemonic = "palm shove popular swift leopard gravity soap seat outdoor beach chicken bachelor";

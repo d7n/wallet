@@ -1,1 +1,1 @@
-var mnemonic = "raven erupt negative delay two ask exotic shock vibrant ribbon furnace viable";
+var mnemonic = "twenty number idle provide sadness rescue push column crime acid cabin brisk";

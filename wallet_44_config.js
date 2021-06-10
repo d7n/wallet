@@ -1,1 +1,1 @@
-var mnemonic = "page edit loud truth control wrestle question conduct shift brass inner seek";
+var mnemonic = "scheme force crucial away vacant little shrimp task crop gain question discover";

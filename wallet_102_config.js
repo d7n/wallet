@@ -1,1 +1,1 @@
-var mnemonic = "thrive tooth lizard six kiwi hurry rocket tumble finish hidden account action";
+var mnemonic = "vague knee magic option baby fall garbage inject film dice twice funny";

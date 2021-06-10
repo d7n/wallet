@@ -1,1 +1,1 @@
-var mnemonic = "rescue scout piece frog cry turkey oyster claim labor hello puppy wild";
+var mnemonic = "drill fossil relax hobby practice double grain feature glare moment decline love";

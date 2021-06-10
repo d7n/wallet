@@ -1,1 +1,1 @@
-var mnemonic = "sort admit awake burst crew deer review view oblige minimum enable cage";
+var mnemonic = "flower obtain they seminar solid history bonus caught sort aerobic inquiry among";

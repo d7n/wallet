@@ -1,1 +1,1 @@
-var mnemonic = "element cruise taste exercise hawk march able brown edit bright laugh swift";
+var mnemonic = "side angry clean clarify maple comfort art toe keen suffer rookie supply";

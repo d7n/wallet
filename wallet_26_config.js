@@ -1,1 +1,1 @@
-var mnemonic = "bubble organ anxiety brush scorpion dignity when artwork series thumb spike baby";
+var mnemonic = "axis receive typical spawn soon obtain mean razor flush sad shock magnet";

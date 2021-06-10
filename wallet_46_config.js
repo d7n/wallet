@@ -1,1 +1,1 @@
-var mnemonic = "base leisure curious mammal disease loop like pupil arrange grab trash rhythm";
+var mnemonic = "pill admit direct media bag cement pen sword box bone hobby fever";

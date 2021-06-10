@@ -1,1 +1,1 @@
-var mnemonic = "silent shield noise shrug lady mesh cause limit equal harvest execute obscure";
+var mnemonic = "milk weasel sweet indicate escape parade rebel law citizen protect antenna any";

@@ -1,1 +1,1 @@
-var mnemonic = "rail assist since pledge bread argue elephant example outside beach crawl inhale";
+var mnemonic = "surge between attack hen pledge goose crawl bachelor inflict marble slogan minor";

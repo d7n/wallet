@@ -1,1 +1,1 @@
-var mnemonic = "target comic citizen elevator half step parent model staff december depend evil";
+var mnemonic = "model trap dolphin wife beyond toss cushion blouse income siege differ travel";

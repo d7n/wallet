@@ -1,1 +1,1 @@
-var mnemonic = "acid roast inform rival clap skin fashion surprise trade shrug elder top";
+var mnemonic = "crowd pilot torch cereal okay unlock forest oxygen dumb hybrid person elite";

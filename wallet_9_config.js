@@ -1,1 +1,1 @@
-var mnemonic = "assault organ lumber shield update crush toast okay scale trial kid gate";
+var mnemonic = "law tail smooth discover travel intact elite people rib vibrant element improve";

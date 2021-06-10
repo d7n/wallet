@@ -1,1 +1,1 @@
-var mnemonic = "hammer before pond boil vanish negative result jaguar wish source own board";
+var mnemonic = "together balance siren ticket speed pigeon sock divide unique floor pelican clap";

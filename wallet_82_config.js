@@ -1,1 +1,1 @@
-var mnemonic = "scorpion army credit eyebrow soda way melody early raw detail bus blood";
+var mnemonic = "fabric remove tattoo caught produce mom blood youth warrior surge symptom matrix";

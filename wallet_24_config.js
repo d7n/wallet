@@ -1,1 +1,1 @@
-var mnemonic = "minimum test castle winter stable purchase fall hour also loud history winter";
+var mnemonic = "machine borrow permit pupil borrow buyer buffalo chest enroll bid razor desert";

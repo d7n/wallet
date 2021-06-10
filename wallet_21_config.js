@@ -1,1 +1,1 @@
-var mnemonic = "champion hip advice trial leave aisle frost gesture pumpkin pudding eternal rose";
+var mnemonic = "print innocent accuse carry talk travel prison ball mean marble solar wagon";

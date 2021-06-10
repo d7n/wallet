@@ -1,1 +1,1 @@
-var mnemonic = "swamp nuclear current consider clump age another head lion birth record hero";
+var mnemonic = "pet river term ten gym viable toe stay blade lift fitness memory";

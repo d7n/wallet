@@ -1,1 +1,1 @@
-var mnemonic = "loyal buddy awake rough rule pave color nation connect rhythm orchard dream";
+var mnemonic = "cloud crouch exchange forward vicious decade suggest session forum pitch coconut abuse";

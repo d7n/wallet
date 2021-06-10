@@ -1,1 +1,1 @@
-var mnemonic = "path inherit word high thrive able token potato finger coil office payment";
+var mnemonic = "moral when gospel grant across strong game hold cause cream fee finger";

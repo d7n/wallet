@@ -1,1 +1,1 @@
-var mnemonic = "elegant drip nut canal clarify hurt nasty strategy will gym old survey";
+var mnemonic = "hip swap roof grid pool smile segment parent stay tornado trumpet easy";

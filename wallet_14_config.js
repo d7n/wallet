@@ -1,1 +1,1 @@
-var mnemonic = "primary gaze glance cliff silent couple theme various card short ocean foot";
+var mnemonic = "shallow smoke early super wish donate tattoo prison rare amount gasp anger";

@@ -1,1 +1,1 @@
-var mnemonic = "rough island march note spawn catalog inherit enforce session demand outer cushion";
+var mnemonic = "pupil refuse parent coach clip luxury eager top excite aunt thunder park";

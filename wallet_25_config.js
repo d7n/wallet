@@ -1,1 +1,1 @@
-var mnemonic = "better airport elevator spare elevator hen host radio runway evolve negative empty";
+var mnemonic = "ready hen hard joy middle link pitch rose sudden soon rifle visual";

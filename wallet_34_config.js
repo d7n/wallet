@@ -1,1 +1,1 @@
-var mnemonic = "pact guilt imitate umbrella give tennis machine cream fault verify primary stomach";
+var mnemonic = "hero next violin family brain staff differ long climb opera motion topic";

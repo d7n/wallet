@@ -1,1 +1,1 @@
-var mnemonic = "broom card barrel thought famous smooth skill left proof wreck segment swing";
+var mnemonic = "urban chat taxi maid border pet fog because belt twenty veteran own";

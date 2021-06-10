@@ -1,1 +1,1 @@
-var mnemonic = "faint slight ship mother ability blood purity plug tree verify clip raise";
+var mnemonic = "danger learn ancient pool hybrid depth jealous napkin beyond broken false assault";

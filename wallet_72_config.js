@@ -1,1 +1,1 @@
-var mnemonic = "sudden burden lend bicycle income fine staff list solution guilt number such";
+var mnemonic = "fish kidney humble derive noodle retire thunder animal worry paper season cool";

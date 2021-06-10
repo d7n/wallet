@@ -1,1 +1,1 @@
-var mnemonic = "twice destroy lady own clutch deal next roast guitar wasp base erosion";
+var mnemonic = "element language above flee security bubble knee often catch damp author dry";

@@ -1,1 +1,1 @@
-var mnemonic = "fade life whip maze invest exercise like space angry hood twelve happy";
+var mnemonic = "satoshi person copper guide valve misery cheap stamp day strike swamp inch";

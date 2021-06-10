@@ -1,1 +1,1 @@
-var mnemonic = "trim argue myth indicate wish swallow tuna inherit yellow muffin armed believe";
+var mnemonic = "screen tongue burden auto print absent lock output glance maze slender shoe";

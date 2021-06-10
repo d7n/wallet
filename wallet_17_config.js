@@ -1,1 +1,1 @@
-var mnemonic = "boat still make eager rapid slam unfair nurse chimney point provide glow";
+var mnemonic = "share bonus pool profit orient possible rival eternal fever praise raven accuse";

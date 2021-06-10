@@ -1,1 +1,1 @@
-var mnemonic = "animal topic cousin regret moment eagle logic ripple satisfy tank flag wish";
+var mnemonic = "focus enlist song alert like level reopen card camp exchange feel aim";

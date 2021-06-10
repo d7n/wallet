@@ -1,1 +1,1 @@
-var mnemonic = "hen scissors tumble tiny robust verb grant office receive own dry viable";
+var mnemonic = "game away quote pelican point sea differ hub erode toward repeat have";

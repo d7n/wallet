@@ -1,1 +1,1 @@
-var mnemonic = "cancel cube agree school derive egg fancy grab model object hazard common";
+var mnemonic = "session thumb logic mountain spy canvas dawn please rookie exact picture trade";

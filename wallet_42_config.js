@@ -1,1 +1,1 @@
-var mnemonic = "jeans bottom special crush section nice silent upset copy weird garbage young";
+var mnemonic = "refuse miss dune jaguar early cricket attitude urge amateur elevator lawn famous";

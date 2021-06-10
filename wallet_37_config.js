@@ -1,1 +1,1 @@
-var mnemonic = "utility plunge ice physical weather flock chair radio aim athlete join firm";
+var mnemonic = "link dash cycle act wolf occur video first hair mirror eight leader";

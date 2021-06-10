@@ -1,1 +1,1 @@
-var mnemonic = "useful blame lift bomb crazy quit faith holiday course dove click strategy";
+var mnemonic = "day cotton mixed cupboard text lake flush entire program reason broken dry";

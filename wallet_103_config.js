@@ -1,1 +1,1 @@
-var mnemonic = "bag maximum hat engine faculty submit file engage beauty atom spot summer";
+var mnemonic = "dream extend manage trap extend gaze real prosper main rich domain welcome";

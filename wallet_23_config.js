@@ -1,1 +1,1 @@
-var mnemonic = "erode error potato boost insect base fame person jacket urban miracle approve";
+var mnemonic = "ethics able angry helmet primary hurt city transfer surface boss globe pretty";

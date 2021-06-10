@@ -1,1 +1,1 @@
-var mnemonic = "depth tower aunt captain easily valve health have excuse life evolve lab";
+var mnemonic = "pulp process lyrics fringe amount all flame main lens prepare series another";

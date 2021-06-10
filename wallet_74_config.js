@@ -1,1 +1,1 @@
-var mnemonic = "worth render anxiety hollow scorpion couch skin ramp rule digital equal interest";
+var mnemonic = "pitch pupil envelope brother south mammal viable pudding paper apology insane fish";

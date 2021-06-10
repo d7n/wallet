@@ -1,1 +1,1 @@
-var mnemonic = "toast clutch motor meat flash catch sick grief trial monitor rely trap";
+var mnemonic = "stuff stem room spot path pitch sword game sort since zebra episode";

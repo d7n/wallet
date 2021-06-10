@@ -1,1 +1,1 @@
-var mnemonic = "jacket immune chase master feature tragic uncle approve need approve donor holiday";
+var mnemonic = "eager sad debris huge turn swallow era moon afraid buyer snow dynamic";

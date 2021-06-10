@@ -1,1 +1,1 @@
-var mnemonic = "expose stereo notice turkey clinic body abstract filter school bike plate acquire";
+var mnemonic = "verify runway sponsor host together hybrid ahead swear round fury grunt undo";

@@ -1,1 +1,1 @@
-var mnemonic = "school web bomb dentist elephant wrong wet frequent donor found deer dash";
+var mnemonic = "gossip below chase height warrior smooth abandon glory keep claim unfold together";

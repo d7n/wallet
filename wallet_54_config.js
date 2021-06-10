@@ -1,1 +1,1 @@
-var mnemonic = "congress summer control grief jazz prosper food milk trumpet nasty mad rain";
+var mnemonic = "base sniff settle learn wet release stuff erase lamp captain drip gun";

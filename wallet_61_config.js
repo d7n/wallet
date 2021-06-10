@@ -1,1 +1,1 @@
-var mnemonic = "brush rival real evidence frost install okay offer remember film obvious among";
+var mnemonic = "boring observe either one grace fiber tonight aunt prize orbit hospital panda";

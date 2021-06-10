@@ -1,1 +1,1 @@
-var mnemonic = "book shuffle sea live magic hundred voyage entire candy lawsuit lesson receive";
+var mnemonic = "frost answer rose speed audit chest pet walnut miss vanish civil main";

@@ -1,1 +1,1 @@
-var mnemonic = "bread decide side enter love spread what enlist drive mind hamster food";
+var mnemonic = "day genuine claw retire shoe net source slim sand bamboo engine street";

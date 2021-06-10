@@ -1,1 +1,1 @@
-var mnemonic = "pass hold various obey used flame drift setup south nuclear together mind";
+var mnemonic = "interest few ski disease buzz invite alien sand valid special friend broom";

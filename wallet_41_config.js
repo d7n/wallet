@@ -1,1 +1,1 @@
-var mnemonic = "romance purse wisdom track appear begin burger slab bless flame voice humor";
+var mnemonic = "vacant girl wide interest modify roof hollow error goose math latin biology";

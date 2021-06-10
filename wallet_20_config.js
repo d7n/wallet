@@ -1,1 +1,1 @@
-var mnemonic = "differ inject father place treat bone process whip diesel build shoe crystal";
+var mnemonic = "village word vessel language uncover census bridge fox canvas tent voyage picnic";

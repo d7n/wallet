@@ -1,1 +1,1 @@
-var mnemonic = "pluck flash memory fault end pave flower armor matter dizzy actual suspect";
+var mnemonic = "write budget pact treat worry essence liar paddle exchange fox brain cliff";

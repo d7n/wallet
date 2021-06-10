@@ -1,1 +1,1 @@
-var mnemonic = "emotion coffee prevent april tape divide opera arrive entry rally company clay";
+var mnemonic = "economy adult practice achieve clock orbit moral project canvas cloth giant army";

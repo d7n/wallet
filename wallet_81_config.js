@@ -1,1 +1,1 @@
-var mnemonic = "inner valley common forest estate salon winter burst fork regret strong squeeze";
+var mnemonic = "inmate meat piece stamp tortoise young world viable inject unlock east know";

@@ -1,1 +1,1 @@
-var mnemonic = "icon fold tissue gain piano naive option hen stairs snake inhale unit";
+var mnemonic = "fan absent always assault venture slender profit fiber fruit oppose else spoon";

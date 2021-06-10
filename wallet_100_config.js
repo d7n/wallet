@@ -1,1 +1,1 @@
-var mnemonic = "year bean engage auction defy push alter diary tray radio decide please";
+var mnemonic = "diamond resource ladder shallow rebuild crew turtle february sign sustain peace provide";

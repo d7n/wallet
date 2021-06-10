@@ -1,1 +1,1 @@
-var mnemonic = "token rain vacant power dutch gentle ethics race employ swing only before";
+var mnemonic = "gesture december cabin work clay regular supply hair disease little come cute";

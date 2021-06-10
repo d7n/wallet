@@ -1,1 +1,1 @@
-var mnemonic = "arm clay clap fancy torch gauge loan naive mechanic mind harbor lady";
+var mnemonic = "buzz alone water believe attend original observe glove worth body cushion impulse";

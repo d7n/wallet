@@ -1,1 +1,1 @@
-var mnemonic = "scissors brown south balcony turtle practice connect deny diet live rice lesson";
+var mnemonic = "crowd day index differ banana boy spawn dance hire arch edit empower";

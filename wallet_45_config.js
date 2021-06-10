@@ -1,1 +1,1 @@
-var mnemonic = "scout special index length habit twelve festival pulse spirit upper wheel husband";
+var mnemonic = "pull kite heavy journey fish lens hamster crisp same motor enhance merge";

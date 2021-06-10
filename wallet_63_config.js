@@ -1,1 +1,1 @@
-var mnemonic = "junior pistol shoulder next together cereal practice fame ripple venue sheriff glove";
+var mnemonic = "defy will virtual sort exchange gap nature notable gaze park expect view";

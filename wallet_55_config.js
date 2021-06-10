@@ -1,1 +1,1 @@
-var mnemonic = "opinion thing echo mask cup slide report decide food angry goddess measure";
+var mnemonic = "flower warm scrap draw mutual motor rail science ticket hair immune youth";

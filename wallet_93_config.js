@@ -1,1 +1,1 @@
-var mnemonic = "surprise inch account oval color fragile tuna grass build raise merry equal";
+var mnemonic = "combine rebuild smile thing uncover seminar hub cinnamon whale aim sample comfort";

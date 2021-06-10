@@ -1,1 +1,1 @@
-var mnemonic = "half tip shield slight guitar merry anxiety mad term mass rug plug";
+var mnemonic = "swift depth birth fall romance punch action term spatial pioneer jazz reform";

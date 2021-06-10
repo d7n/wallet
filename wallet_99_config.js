@@ -1,1 +1,1 @@
-var mnemonic = "weasel mention absent cause blade plate dance green onion convince eyebrow shove";
+var mnemonic = "captain slice captain inspire negative vicious find motor range obtain hazard ordinary";

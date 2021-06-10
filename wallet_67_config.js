@@ -1,1 +1,1 @@
-var mnemonic = "amount until lobster coffee monitor feed flush wheat loyal outside dumb job";
+var mnemonic = "good brown permit disagree topic unfold praise pig fury exhaust click adult";

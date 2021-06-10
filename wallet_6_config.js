@@ -1,1 +1,1 @@
-var mnemonic = "obey rally false exhaust dilemma lunar double analyst ginger image increase buffalo";
+var mnemonic = "egg celery impulse echo maple label begin spot affair ignore hold globe";

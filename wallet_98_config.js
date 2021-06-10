@@ -1,1 +1,1 @@
-var mnemonic = "miracle logic innocent differ daughter office space retire walnut venture inside language";
+var mnemonic = "quality expire logic fly credit pool shiver anchor success very gospel another";

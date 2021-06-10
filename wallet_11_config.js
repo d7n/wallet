@@ -1,1 +1,1 @@
-var mnemonic = "reward pole post excuse accuse depth cost keen find myself diamond fault";
+var mnemonic = "endorse fold figure awkward fetch congress profit there vote shed endless dinner";

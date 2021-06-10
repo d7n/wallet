@@ -1,1 +1,1 @@
-var mnemonic = "sadness elevator fire crisp gain pony tribe raven require chapter place also";
+var mnemonic = "police exist vendor piano position that uphold fossil second scout welcome produce";

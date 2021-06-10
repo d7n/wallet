@@ -1,1 +1,1 @@
-var mnemonic = "disorder pizza right supply pony avoid sound misery invite multiply chaos chaos";
+var mnemonic = "hope sock arrive grab where inflict symbol world adult tiny sister gospel";

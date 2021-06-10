@@ -1,1 +1,1 @@
-var mnemonic = "water trend dizzy balcony unveil vague crystal nut muffin syrup talk avoid";
+var mnemonic = "web install sample piece game tag jealous dad pottery until garlic enter";

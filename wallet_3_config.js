@@ -1,1 +1,1 @@
-var mnemonic = "limit garage whale rifle trip apology claw coral fury shy village dynamic";
+var mnemonic = "ignore shed joke leaf fatigue better market upset attack session actor legal";
