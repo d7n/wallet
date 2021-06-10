@@ -1,1 +1,1 @@
-var mnemonic = "ticket edge brush glove city claim romance together genuine flee life ethics";
+var mnemonic = "balance thunder anchor phrase term sponsor ecology wet ripple consider donor file";

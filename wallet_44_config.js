@@ -1,1 +1,1 @@
-var mnemonic = "purse clay anxiety perfect device soul music ostrich hope pipe margin save";
+var mnemonic = "season rocket fan rigid control salt music gasp all shed orange involve";

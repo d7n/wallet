@@ -1,1 +1,1 @@
-var mnemonic = "frame caught spot later science main volcano chalk fury shoot tomorrow ostrich";
+var mnemonic = "reveal govern federal journey photo claw goat draft response village lend shuffle";

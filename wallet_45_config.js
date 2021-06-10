@@ -1,1 +1,1 @@
-var mnemonic = "muffin hint maze unit enact shoulder crumble put shallow armed badge buyer";
+var mnemonic = "trumpet maze ritual jelly industry bicycle glue clay camera alter moon transfer";

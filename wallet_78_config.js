@@ -1,1 +1,1 @@
-var mnemonic = "wing humor large result ivory install rail input change elbow large story";
+var mnemonic = "impact skate vintage frequent ranch turkey object ancient toddler harvest struggle polar";

@@ -1,1 +1,1 @@
-var mnemonic = "error chronic book exclude reform mosquito lock pistol maximum tornado trouble ghost";
+var mnemonic = "noodle master diamond silent pave manual insect either wide barely size column";

@@ -1,1 +1,1 @@
-var mnemonic = "tank rely ahead expect wall still aim bus razor galaxy season network";
+var mnemonic = "fatal buyer match dove exit brother trumpet dilemma around next either awake";

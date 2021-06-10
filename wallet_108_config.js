@@ -1,1 +1,1 @@
-var mnemonic = "space trap choice weekend kind silk connect strong loud elder loyal own";
+var mnemonic = "brisk leopard cat illegal become rack gentle pattern error memory supply live";

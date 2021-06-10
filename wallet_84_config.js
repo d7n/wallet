@@ -1,1 +1,1 @@
-var mnemonic = "vague wire witness pyramid act soft couple ahead nerve submit mixed submit";
+var mnemonic = "simple shadow company excite this amount oyster february easy beef ocean silent";

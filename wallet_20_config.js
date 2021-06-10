@@ -1,1 +1,1 @@
-var mnemonic = "mom license arrange safe curious early practice moon armor cream shine human";
+var mnemonic = "firm census harbor device job fan return there cotton shield soldier east";

@@ -1,1 +1,1 @@
-var mnemonic = "snack fox neutral exit ask tribe shoe federal effort between fold advance";
+var mnemonic = "warm concert unique glory melody amused hill dish rate bounce fantasy volume";

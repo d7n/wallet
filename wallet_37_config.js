@@ -1,1 +1,1 @@
-var mnemonic = "impose surround impose split need twin tuna spare whale worry already save";
+var mnemonic = "keep child photo used jewel fiber bamboo asset motor rain ozone denial";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil famous fashion reflect drift sea ship armed abuse ginger chest excite";
+var mnemonic = "shield napkin curtain illness shy easy sphere surprise topple stamp level actual";

@@ -1,1 +1,1 @@
-var mnemonic = "dance earth invest truck play cry pen fatal bulk walk pipe polar";
+var mnemonic = "video fuel twist total cheese cable provide spot dish usage inflict ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "vivid kick board clog duck boat dry armed wide please emotion goose";
+var mnemonic = "runway shiver sad person own learn pledge undo family apple text sample";

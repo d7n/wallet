@@ -1,1 +1,1 @@
-var mnemonic = "asthma innocent odor please moon science six alone budget rebel sea problem";
+var mnemonic = "boring tilt click lecture right size fade plug elephant prosper circle catch";

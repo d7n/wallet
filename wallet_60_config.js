@@ -1,1 +1,1 @@
-var mnemonic = "come beyond stumble thing upset join fire resist crystal other cart certain";
+var mnemonic = "toddler scatter conduct initial super fork frog display room cruise hospital fatigue";

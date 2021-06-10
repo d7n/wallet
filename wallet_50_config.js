@@ -1,1 +1,1 @@
-var mnemonic = "soda gallery life erosion evoke tourist copper twice catch volume color title";
+var mnemonic = "mesh what leopard crystal sign crush sense coin six shine taste now";

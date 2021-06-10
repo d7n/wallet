@@ -1,1 +1,1 @@
-var mnemonic = "unhappy inner suspect budget spray ability spare debris pause tonight trumpet regret";
+var mnemonic = "aspect visa rookie modify bench cool uncover lonely donate great identify raise";

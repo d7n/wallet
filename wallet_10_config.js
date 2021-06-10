@@ -1,1 +1,1 @@
-var mnemonic = "student craft consider fever gauge demise jealous green absorb alert square wool";
+var mnemonic = "tongue tobacco cabin track doctor tube laundry visa review fall enough crunch";

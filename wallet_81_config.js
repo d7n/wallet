@@ -1,1 +1,1 @@
-var mnemonic = "cherry grow tongue swift identify arrow satisfy fork exchange meadow click rhythm";
+var mnemonic = "online improve panel girl virus wonder exhaust peasant entry lounge library pact";

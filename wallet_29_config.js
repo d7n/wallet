@@ -1,1 +1,1 @@
-var mnemonic = "neglect tilt check baby luggage beef memory wage next path sheriff welcome";
+var mnemonic = "aim transfer crucial essence position uphold provide service pistol wrap mad upon";

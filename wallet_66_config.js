@@ -1,1 +1,1 @@
-var mnemonic = "timber scan obscure truly report lucky hazard member year device like true";
+var mnemonic = "weapon help punch file fragile color artefact venue artwork tiger gossip fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "mango vague spend gesture radio coast swap humble switch shoulder wink spell";
+var mnemonic = "flip else pledge wall trial float actual response grief key deal miss";

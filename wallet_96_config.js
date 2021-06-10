@@ -1,1 +1,1 @@
-var mnemonic = "foil circle decline august physical ability slow rookie shadow final comfort modify";
+var mnemonic = "catalog truck tooth deposit easy aim umbrella victory dust tuition nasty puppy";

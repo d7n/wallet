@@ -1,1 +1,1 @@
-var mnemonic = "hurdle embrace total veteran saddle equip total arrive envelope era certain orient";
+var mnemonic = "tomorrow add fantasy adult effort dinosaur clinic hungry busy order moral claw";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten cave lawn caution stamp beef engage grain army venue gas siren";
+var mnemonic = "jazz hobby round final confirm undo spare album decide orphan camera camera";

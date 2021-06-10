@@ -1,1 +1,1 @@
-var mnemonic = "mushroom quiz lake outer uncover normal inside benefit key fun anger easily";
+var mnemonic = "frozen onion dash gown van clip salute rural age credit sponsor child";

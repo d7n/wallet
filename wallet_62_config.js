@@ -1,1 +1,1 @@
-var mnemonic = "few combine tube oppose lizard above purchase laundry act assault female retire";
+var mnemonic = "laugh coin sport convince dentist scatter punch believe chuckle fitness chuckle oven";

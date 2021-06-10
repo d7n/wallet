@@ -1,1 +1,1 @@
-var mnemonic = "update winner gown detect bread dismiss fancy pottery vapor split camera burger";
+var mnemonic = "badge end bike swim connect celery trigger female country possible borrow opera";

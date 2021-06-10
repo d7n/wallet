@@ -1,1 +1,1 @@
-var mnemonic = "wine attend attend strike stadium evoke return shiver belt universe happy innocent";
+var mnemonic = "current render inmate vague radio subject trim rate smoke equal close rail";

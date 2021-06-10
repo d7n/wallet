@@ -1,1 +1,1 @@
-var mnemonic = "cluster twelve slow govern correct error repeat clutch smoke cigar coast orange";
+var mnemonic = "eagle access swamp inherit asthma steel fix silver spend move cement shine";

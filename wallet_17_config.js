@@ -1,1 +1,1 @@
-var mnemonic = "foil news purchase discover pigeon panda usual ride cute resist where tape";
+var mnemonic = "original cabbage blood choose pink craft sight squeeze spare story blanket finger";

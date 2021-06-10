@@ -1,1 +1,1 @@
-var mnemonic = "daughter online plastic economy peasant universe acquire easy fresh ticket fish abstract";
+var mnemonic = "hockey sorry train volcano master year fame sketch method analyst soul scrub";

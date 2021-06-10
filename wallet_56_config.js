@@ -1,1 +1,1 @@
-var mnemonic = "open account unit target vendor peanut follow globe false endless pulse month";
+var mnemonic = "snap rescue barrel convince taste hospital gaze call sort ridge bring assist";

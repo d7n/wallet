@@ -1,1 +1,1 @@
-var mnemonic = "short case cradle grain choice mesh render version hub barely release slow";
+var mnemonic = "sudden crouch miracle reopen blade youth prefer feature episode father source mango";

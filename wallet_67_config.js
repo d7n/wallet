@@ -1,1 +1,1 @@
-var mnemonic = "hero disagree wheat oyster express amused better chase own chest chalk spy";
+var mnemonic = "safe velvet visit post asset spy truth cook math design chest street";

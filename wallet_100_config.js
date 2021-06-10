@@ -1,1 +1,1 @@
-var mnemonic = "horn hint energy bone must kick today pull diesel panic inform critic";
+var mnemonic = "sphere dignity turkey grain glide flavor desk awesome rare place mesh describe";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual install tube confirm brave travel mountain grunt junk auto giggle satisfy";
+var mnemonic = "assault patch decorate season good trip rhythm rifle ball bamboo spell camera";

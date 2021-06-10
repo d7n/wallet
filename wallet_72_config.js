@@ -1,1 +1,1 @@
-var mnemonic = "obvious trick cradle earth traffic return mother estate employ rug change body";
+var mnemonic = "section island clutch empty daring fine copy mean report option stomach excite";

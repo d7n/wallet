@@ -1,1 +1,1 @@
-var mnemonic = "happy can gloom gold maze inflict legal parade work warfare roast topple";
+var mnemonic = "neck tornado village public option client response run base ordinary license title";

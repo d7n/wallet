@@ -1,1 +1,1 @@
-var mnemonic = "ice enact health rural people embark vapor warm beef length fit ship";
+var mnemonic = "glue parent ride fence defense uncle spawn tackle cover render audit grunt";

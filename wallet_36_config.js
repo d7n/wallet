@@ -1,1 +1,1 @@
-var mnemonic = "hat couple garage erode dry young knife talent talk move stick yellow";
+var mnemonic = "latin quarter coffee inquiry fashion attract hamster slow vessel acquire damp convince";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle desk knee kiwi depend canvas day coffee kid napkin original face";
+var mnemonic = "ability razor blood battle hollow brown fish zebra venture trend century leisure";

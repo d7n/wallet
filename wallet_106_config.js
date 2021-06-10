@@ -1,1 +1,1 @@
-var mnemonic = "obvious sauce polar refuse trigger disagree pizza space muffin best crane bring";
+var mnemonic = "comfort outside rotate inside defy movie fossil salmon fatigue garlic length raise";

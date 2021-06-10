@@ -1,1 +1,1 @@
-var mnemonic = "submit waste honey split face main since output situate miss divide alcohol";
+var mnemonic = "front length country drum second pudding gap unlock scan morning decline before";

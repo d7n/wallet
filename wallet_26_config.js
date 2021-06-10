@@ -1,1 +1,1 @@
-var mnemonic = "coral sun attract seven switch opera kite crawl wedding cheese cherry guess";
+var mnemonic = "entry dry cactus donkey dune divide throw trumpet skull govern celery then";

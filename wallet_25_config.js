@@ -1,1 +1,1 @@
-var mnemonic = "tumble stick remember morning pencil pride time deer sketch recall title liberty";
+var mnemonic = "suspect awake corn van afford cruise piece cycle vault hamster grit flush";

@@ -1,1 +1,1 @@
-var mnemonic = "inside region drip scrub broccoli foil rule toast guitar permit table devote";
+var mnemonic = "reopen split soul differ horse need dune peanut alert round casino salute";

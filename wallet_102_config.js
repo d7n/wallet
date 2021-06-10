@@ -1,1 +1,1 @@
-var mnemonic = "nose daughter giraffe upper student color cabin clinic topic empower island join";
+var mnemonic = "inspire pistol click cloth bus dad space marble museum assume dish height";

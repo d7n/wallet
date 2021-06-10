@@ -1,1 +1,1 @@
-var mnemonic = "month poet music photo harvest arch urban circle fold situate neglect giraffe";
+var mnemonic = "bubble betray jaguar thing trip bubble mercy firm march project warm general";

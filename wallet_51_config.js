@@ -1,1 +1,1 @@
-var mnemonic = "blast animal stove narrow apology kite advance faint bonus never stomach orphan";
+var mnemonic = "write wedding deny roof robust grocery narrow mistake estate maximum trade sketch";

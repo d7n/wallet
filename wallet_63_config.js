@@ -1,1 +1,1 @@
-var mnemonic = "purchase hello salad control slight horse priority horror earth recall fluid depart";
+var mnemonic = "renew lawsuit observe dog energy nest gaze submit simple water relief lazy";

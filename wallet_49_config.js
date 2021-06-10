@@ -1,1 +1,1 @@
-var mnemonic = "gap swim aerobic soccer typical improve inflict gadget open that run giggle";
+var mnemonic = "combine control stable panda cream ramp motion mail negative virus keep custom";

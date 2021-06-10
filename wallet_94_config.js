@@ -1,1 +1,1 @@
-var mnemonic = "cabbage cricket honey water practice midnight program crop sense leopard accident gun";
+var mnemonic = "fit vapor system earth language fix doll disease fragile drill staff waste";

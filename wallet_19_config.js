@@ -1,1 +1,1 @@
-var mnemonic = "damp vocal december envelope fire sunset orphan punch page ride quiz issue";
+var mnemonic = "clump summer sign guitar control actor lake text giggle off buyer adult";

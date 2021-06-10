@@ -1,1 +1,1 @@
-var mnemonic = "reason pull cushion govern unhappy beyond item lake clay box reason scale";
+var mnemonic = "wheel disease mistake master twelve hunt essay same nest news claw outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "panda army cotton slice twice seven scheme gospel wreck butter lock scheme";
+var mnemonic = "settle inspire sock transfer shine true burger whale error matrix wool siren";

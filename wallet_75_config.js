@@ -1,1 +1,1 @@
-var mnemonic = "garbage where defense slam unfold monkey sustain lyrics spin pull crew section";
+var mnemonic = "mobile scan submit buzz begin scene wide salt disease vicious cargo useless";

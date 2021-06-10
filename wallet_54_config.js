@@ -1,1 +1,1 @@
-var mnemonic = "evil original top modify awake bone lend neutral wave expose execute trust";
+var mnemonic = "shock reduce radar hawk vital silver quit weird surprise miss silent category";

@@ -1,1 +1,1 @@
-var mnemonic = "story dutch box action rare tower attend copy addict stamp super when";
+var mnemonic = "inch equip elite vivid inherit scan absorb keep creek fame display once";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd merge creek crisp over chronic defense custom similar autumn group tone";
+var mnemonic = "fatigue diesel trend they index else clarify glass index change quality inmate";

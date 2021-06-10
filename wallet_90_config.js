@@ -1,1 +1,1 @@
-var mnemonic = "brush demise urge list circle alcohol that follow artwork actual expect giant";
+var mnemonic = "meadow child surge zero month view pudding material mesh fog hotel picture";

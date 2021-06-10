@@ -1,1 +1,1 @@
-var mnemonic = "female nature erupt noodle novel column ozone gas horror screen emotion champion";
+var mnemonic = "any earth level woman rival accident mammal rude blur seminar expire curve";

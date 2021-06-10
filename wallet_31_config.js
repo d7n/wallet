@@ -1,1 +1,1 @@
-var mnemonic = "daughter bonus swift donkey mercy loan stone have buyer alley color almost";
+var mnemonic = "wife segment sight dragon venture match avoid naive repair vehicle kitten lunar";

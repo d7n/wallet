@@ -1,1 +1,1 @@
-var mnemonic = "steak visual nature cattle require acoustic cube cage whip direct anger kiss";
+var mnemonic = "spike prison fancy above energy seek segment latin number jewel sudden muffin";

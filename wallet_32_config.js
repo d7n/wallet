@@ -1,1 +1,1 @@
-var mnemonic = "rookie pulp wide body glad soccer rose have voice refuse letter note";
+var mnemonic = "spike collect cheap adult speak sail eight transfer tent badge trash auto";

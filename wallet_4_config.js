@@ -1,1 +1,1 @@
-var mnemonic = "pear tag try hair reward upper fine perfect true ski two attack";
+var mnemonic = "deal inhale fit prosper spice bone distance kid tilt team exhaust thumb";

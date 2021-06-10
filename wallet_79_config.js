@@ -1,1 +1,1 @@
-var mnemonic = "apology chicken load leaf eight suggest weather dinosaur shaft razor just pool";
+var mnemonic = "inflict decrease buzz month sustain throw daring chimney enhance fatigue easily tired";

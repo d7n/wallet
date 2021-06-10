@@ -1,1 +1,1 @@
-var mnemonic = "buffalo senior analyst act dish order pizza run stone digital walk resemble";
+var mnemonic = "priority undo raven project throw dish pulp razor glue crime twenty scare";

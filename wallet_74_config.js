@@ -1,1 +1,1 @@
-var mnemonic = "educate opera seat cricket tooth grace waste use title response robot mother";
+var mnemonic = "aim wing bracket clean project laugh pony shy crush example remain voyage";

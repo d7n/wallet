@@ -1,1 +1,1 @@
-var mnemonic = "school attract endless focus field box valley battle vocal enjoy type evidence";
+var mnemonic = "hair neck vapor edge alter hover inflict sunny cram sun approve shove";

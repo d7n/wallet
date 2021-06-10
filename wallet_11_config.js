@@ -1,1 +1,1 @@
-var mnemonic = "damp hand cube stick gesture captain dial once horn menu teach recipe";
+var mnemonic = "people whisper beauty then boil desk verify hat season frost bean offer";

@@ -1,1 +1,1 @@
-var mnemonic = "soup flag survey pear engine bean father lottery nut program tone clerk";
+var mnemonic = "tilt bag emotion fix game attitude there favorite capital alley major slogan";

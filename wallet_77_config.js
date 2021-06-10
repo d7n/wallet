@@ -1,1 +1,1 @@
-var mnemonic = "increase unusual purpose afford melt bird escape attitude valid design medal winner";
+var mnemonic = "area custom jar reunion exchange deny affair auto assist tone frown fever";

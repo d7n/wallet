@@ -1,1 +1,1 @@
-var mnemonic = "now basic vehicle resource fossil grass answer duty cable slam smile uncle";
+var mnemonic = "garment wish require smooth cement vital casual skirt trigger oxygen point useful";

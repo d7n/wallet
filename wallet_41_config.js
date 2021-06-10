@@ -1,1 +1,1 @@
-var mnemonic = "merge cabin nation bone build update east step skull normal live profit";
+var mnemonic = "size audit couple volume lesson beach thumb popular what vacuum inhale hour";

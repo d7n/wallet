@@ -1,1 +1,1 @@
-var mnemonic = "enable mobile carry like rebuild legal indoor worry novel trick still siren";
+var mnemonic = "tooth pass absurd extra open tissue vote grow what mass artefact submit";

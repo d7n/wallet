@@ -1,1 +1,1 @@
-var mnemonic = "rabbit height spend machine supreme disorder sound erase grid suspect violin relax";
+var mnemonic = "blade drama neutral sniff fog tumble crowd try skate bubble short muscle";

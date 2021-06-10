@@ -1,1 +1,1 @@
-var mnemonic = "eagle outside fatigue spawn garment butter jeans inside cactus year half raccoon";
+var mnemonic = "bracket material combine possible envelope winter panic strong resource roast unable hungry";

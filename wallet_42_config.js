@@ -1,1 +1,1 @@
-var mnemonic = "confirm couple put security sign dice recipe verify cinnamon lady trade program";
+var mnemonic = "power solar expose layer nerve sausage between under final question orbit toilet";

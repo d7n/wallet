@@ -1,1 +1,1 @@
-var mnemonic = "undo satoshi shield awesome pelican elbow save impulse bike leaf among token";
+var mnemonic = "identify fame rural fossil tragic promote robot spin nice attitude alley gallery";

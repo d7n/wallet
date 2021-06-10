@@ -1,1 +1,1 @@
-var mnemonic = "exhibit length claim lucky twelve monitor paper next accident access lobster choice";
+var mnemonic = "feel exclude high please guitar off brown drink spirit whisper canvas torch";

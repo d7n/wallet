@@ -1,1 +1,1 @@
-var mnemonic = "shove tube fan category hand clay certain name work vacant caught pelican";
+var mnemonic = "rhythm physical level office riot brass eagle tunnel mechanic angle icon rare";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna vanish door soft stove trust shoulder eternal portion pistol fine seminar";
+var mnemonic = "buddy embody tonight feel lecture caught job connect boost quality vivid august";

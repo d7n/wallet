@@ -1,1 +1,1 @@
-var mnemonic = "team pistol sentence tiny road ozone bronze prevent alone penalty finger bundle";
+var mnemonic = "ridge jewel board venue butter repair narrow evoke buddy forum pony tide";

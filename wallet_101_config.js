@@ -1,1 +1,1 @@
-var mnemonic = "clip ridge gadget anchor connect task reopen session pond siren avocado aisle";
+var mnemonic = "wish alien town prevent today chuckle dinner step figure all bless upon";

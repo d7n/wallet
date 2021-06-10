@@ -1,1 +1,1 @@
-var mnemonic = "side else property local hope runway upgrade lion globe empty rural field";
+var mnemonic = "first guitar undo toilet make this unusual fever valley motor twelve badge";

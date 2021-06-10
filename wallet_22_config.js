@@ -1,1 +1,1 @@
-var mnemonic = "feel carpet position math suggest hamster measure ball cruise crack question valley";
+var mnemonic = "alone elder fault shrimp effort bar rival paddle canyon monitor step dumb";
