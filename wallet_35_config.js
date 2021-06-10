@@ -1,1 +1,1 @@
-var mnemonic = "soon vehicle fatigue desk jacket smooth magic creek habit soap focus hold";
+var mnemonic = "pigeon over media enroll choice engine visual teach parrot start door coil";

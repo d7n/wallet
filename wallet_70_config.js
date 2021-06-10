@@ -1,1 +1,1 @@
-var mnemonic = "real purity supreme device typical woman assist elevator attract decrease cupboard senior";
+var mnemonic = "render they cup april hat toddler floor artwork panda city hour wage";

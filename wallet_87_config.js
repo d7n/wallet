@@ -1,1 +1,1 @@
-var mnemonic = "ill surprise movie rate arrive quarter chest actual say garage cluster choice";
+var mnemonic = "dry inspire pupil under gain speak model quote thank cupboard face area";

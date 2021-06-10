@@ -1,1 +1,1 @@
-var mnemonic = "february hundred sport sand lion vocal daring gap drink pet index angle";
+var mnemonic = "either math search opinion mansion code process double direct trial baby submit";

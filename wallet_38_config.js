@@ -1,1 +1,1 @@
-var mnemonic = "cricket amount wonder jump rookie swap road process antique airport obey exclude";
+var mnemonic = "critic person height awake humor ski wrist weasel cliff dice outer illegal";

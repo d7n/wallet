@@ -1,1 +1,1 @@
-var mnemonic = "cannon upset favorite crime letter parrot squirrel sound pole flat fatal foot";
+var mnemonic = "youth top autumn clay weapon bright obey that when stove body coral";

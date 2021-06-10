@@ -1,1 +1,1 @@
-var mnemonic = "teach faith put lion what brain float pair beef brick position bring";
+var mnemonic = "kiwi erosion cabin exit list truly unlock sudden risk earn install random";

@@ -1,1 +1,1 @@
-var mnemonic = "detail mass human arrange exhibit cost wolf segment fall spread unusual unique";
+var mnemonic = "wire lottery badge raw people quit thought round food laundry valve report";

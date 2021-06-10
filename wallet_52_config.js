@@ -1,1 +1,1 @@
-var mnemonic = "radio citizen garden float lizard stairs pole ship fork holiday anxiety lady";
+var mnemonic = "recipe couch mirror left ancient guess armed crush black happy doctor barrel";

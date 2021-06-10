@@ -1,1 +1,1 @@
-var mnemonic = "you stereo brisk major canyon balcony away raise output grab palace calm";
+var mnemonic = "milk comfort enroll black common price ball all option clinic cement entry";

@@ -1,1 +1,1 @@
-var mnemonic = "allow puppy pigeon arrange labor harbor carbon impact there absorb business often";
+var mnemonic = "proud west home net shell wife pigeon when shrimp then exercise torch";

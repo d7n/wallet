@@ -1,1 +1,1 @@
-var mnemonic = "front endless trumpet monitor color era used check flame head kick gorilla";
+var mnemonic = "silly dial ecology coach country actual typical act hockey sibling flush suit";

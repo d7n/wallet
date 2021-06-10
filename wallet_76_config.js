@@ -1,1 +1,1 @@
-var mnemonic = "twin add music rival tide disease black whisper elegant oven save art";
+var mnemonic = "globe depart civil nest grab rent leave follow mesh donate wrist thumb";

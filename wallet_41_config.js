@@ -1,1 +1,1 @@
-var mnemonic = "orange forget fringe volcano frown ski three feed minor popular shop chef";
+var mnemonic = "victory chimney develop slot learn claw accuse tennis razor dust charge smart";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle shock disease term market ecology that snap raw acid swift reason";
+var mnemonic = "sock second organ orange push blast grow warm evoke purity cash prefer";

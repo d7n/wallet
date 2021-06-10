@@ -1,1 +1,1 @@
-var mnemonic = "vast kangaroo scrap tuition domain canal blind shock transfer reject notable already";
+var mnemonic = "nation quit horse pole typical push control toy stumble quality verb steak";

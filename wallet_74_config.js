@@ -1,1 +1,1 @@
-var mnemonic = "gentle diary apology typical despair goose citizen thank evoke ready accuse cover";
+var mnemonic = "vast gasp summer search hobby spray gate earn lemon phrase lazy glance";

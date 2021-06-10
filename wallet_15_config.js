@@ -1,1 +1,1 @@
-var mnemonic = "miracle scale inch family lobster venue hungry absurd media fix home unveil";
+var mnemonic = "garden bean interest orchard receive able drastic evil sudden miracle claw neck";

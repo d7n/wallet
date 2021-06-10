@@ -1,1 +1,1 @@
-var mnemonic = "ten main battle please artwork payment cage mobile spawn margin ask hawk";
+var mnemonic = "keen balcony rich script lock faculty fetch burger unusual shove gossip already";

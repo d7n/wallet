@@ -1,1 +1,1 @@
-var mnemonic = "boat tourist unlock stadium panther liquid romance balcony wise coach chef spawn";
+var mnemonic = "wonder useless timber taxi diamond agent guilt expect civil fatigue ordinary van";

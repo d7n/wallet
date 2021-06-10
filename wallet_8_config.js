@@ -1,1 +1,1 @@
-var mnemonic = "ritual need base slight squirrel tennis flower inhale exhaust live gold music";
+var mnemonic = "beauty margin emotion stomach budget derive scatter notice junk noble helmet someone";

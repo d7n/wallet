@@ -1,1 +1,1 @@
-var mnemonic = "midnight awesome jazz current verb range upgrade sniff panel poem effort filter";
+var mnemonic = "tissue scare surprise dance jeans submit egg tourist loan indicate private venture";

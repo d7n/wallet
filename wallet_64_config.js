@@ -1,1 +1,1 @@
-var mnemonic = "flag put mule junior wolf kitten border satoshi moon weapon excess twenty";
+var mnemonic = "buyer broom razor junk say exile calm attack accuse envelope twelve actor";

@@ -1,1 +1,1 @@
-var mnemonic = "young retreat unusual derive drip habit kitchen remember goddess skill cupboard orient";
+var mnemonic = "fuel pink bunker annual blur apart super phrase draw senior stand evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect pitch bacon basic breeze work force cost minimum click road parent";
+var mnemonic = "dirt exclude always eternal deal cruise autumn payment cliff voice depend mango";

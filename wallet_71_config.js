@@ -1,1 +1,1 @@
-var mnemonic = "myth bulb scan inspire embark senior seek poem palace monkey blanket evil";
+var mnemonic = "ring wrist vendor cabbage clean list scout cash dry eternal dune mad";

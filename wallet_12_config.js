@@ -1,1 +1,1 @@
-var mnemonic = "feed upper motor stock steel bleak excuse goat juice leaf consider luggage";
+var mnemonic = "begin peasant oxygen mountain bus dutch noise attack warrior sudden upgrade tongue";

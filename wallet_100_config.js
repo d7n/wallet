@@ -1,1 +1,1 @@
-var mnemonic = "holiday olympic portion color pulp reopen inhale option into hurt switch venue";
+var mnemonic = "regular sample blame breeze relax fall park ankle snack payment purchase romance";

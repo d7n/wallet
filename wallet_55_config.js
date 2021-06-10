@@ -1,1 +1,1 @@
-var mnemonic = "armed dance twice orbit father mask enlist shy rookie candy scissors clown";
+var mnemonic = "kit exotic salad envelope absent label oblige empty ramp govern bronze recall";

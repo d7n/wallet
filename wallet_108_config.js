@@ -1,1 +1,1 @@
-var mnemonic = "picture butter color remember health rate prosper excuse aisle gravity dream hurdle";
+var mnemonic = "essence battle exhibit cost develop actual charge like route welcome twin rabbit";

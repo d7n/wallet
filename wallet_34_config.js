@@ -1,1 +1,1 @@
-var mnemonic = "cloth lab exist alpha collect document desert cement give fantasy evidence senior";
+var mnemonic = "vanish hammer flock occur zebra keep envelope fun repair behind mansion robot";

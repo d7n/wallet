@@ -1,1 +1,1 @@
-var mnemonic = "enforce sponsor host jazz horror hunt quit fine about old install fragile";
+var mnemonic = "emerge allow fantasy there gloom flock arrow notable holiday section acoustic warfare";

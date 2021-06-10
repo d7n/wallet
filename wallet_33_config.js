@@ -1,1 +1,1 @@
-var mnemonic = "tired exclude wheat maximum oxygen purpose song canoe exhaust baby raven air";
+var mnemonic = "produce puppy tag try fiction pony account front recipe metal web coin";

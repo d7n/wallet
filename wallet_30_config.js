@@ -1,1 +1,1 @@
-var mnemonic = "flat sniff tower avocado almost west holiday weekend blind tent athlete maple";
+var mnemonic = "memory parent electric patch dash sniff salute dignity net basket coffee siege";

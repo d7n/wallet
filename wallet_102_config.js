@@ -1,1 +1,1 @@
-var mnemonic = "tail blood attack since wedding casual garlic luggage forward noble elite negative";
+var mnemonic = "cool only cradle spoil spray cattle lonely try food hand problem cabin";

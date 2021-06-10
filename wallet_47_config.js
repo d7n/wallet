@@ -1,1 +1,1 @@
-var mnemonic = "report conduct absorb soccer crew grief combine trip usage live discover village";
+var mnemonic = "hard dial resemble aware often carry cheese fabric coil excite gentle kitchen";

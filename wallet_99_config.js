@@ -1,1 +1,1 @@
-var mnemonic = "satisfy bean slide course survey bamboo swarm inch cream force nice illness";
+var mnemonic = "sniff yard start matter weather razor abstract venture helmet quality feature garbage";

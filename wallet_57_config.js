@@ -1,1 +1,1 @@
-var mnemonic = "melody right extend upon tissue family toast ugly assault grunt girl raise";
+var mnemonic = "pretty hood outside slender joy ahead cart cup critic hour age pig";

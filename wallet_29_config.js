@@ -1,1 +1,1 @@
-var mnemonic = "harvest sight soul slam chest disorder gown bread pluck typical ensure capable";
+var mnemonic = "insane achieve ill honey chef steel try release curious cube thing meadow";

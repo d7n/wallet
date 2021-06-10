@@ -1,1 +1,1 @@
-var mnemonic = "blanket wrist anchor still exist mirror exchange response saddle buffalo prize glimpse";
+var mnemonic = "undo suit resemble company fault file shiver north layer sibling awful punch";

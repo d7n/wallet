@@ -1,1 +1,1 @@
-var mnemonic = "narrow render million bullet renew lawn climb razor capable crumble radio multiply";
+var mnemonic = "cheese liquid giggle sausage shield property loyal chalk history arrive valley ladder";

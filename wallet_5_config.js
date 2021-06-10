@@ -1,1 +1,1 @@
-var mnemonic = "ignore misery wrap whisper filter panda wish solid orient magic manual mesh";
+var mnemonic = "aerobic peace patient square exercise domain spirit total squeeze warm isolate interest";

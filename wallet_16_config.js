@@ -1,1 +1,1 @@
-var mnemonic = "drama hidden trap ski arrive subway pill valid mail spy cheap good";
+var mnemonic = "napkin ghost junior member imitate moral badge have goddess wheat breeze panther";

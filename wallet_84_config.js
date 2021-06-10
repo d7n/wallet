@@ -1,1 +1,1 @@
-var mnemonic = "text broccoli busy luxury mistake used echo tooth sudden account square blush";
+var mnemonic = "view cereal control praise harvest saddle clinic renew trend danger also burden";

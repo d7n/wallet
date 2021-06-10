@@ -1,1 +1,1 @@
-var mnemonic = "version march few culture also buddy priority job genre enemy creek frost";
+var mnemonic = "drill beach slam sport between crash again reason expect cloth unknown bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "spread ill utility assume eye save close youth robot sock blood play";
+var mnemonic = "hello wear mistake cube quit seat spring select hockey mule lady ship";

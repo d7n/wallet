@@ -1,1 +1,1 @@
-var mnemonic = "left sign exchange cargo jaguar icon fade into fiber shoe wear soccer";
+var mnemonic = "favorite plastic cigar census genuine absurd cabin easily shop language guitar voice";

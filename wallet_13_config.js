@@ -1,1 +1,1 @@
-var mnemonic = "combine puzzle market grass sock where pretty bunker hamster until adult page";
+var mnemonic = "wonder caution dinosaur social pride either income balcony spring help cream error";

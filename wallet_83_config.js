@@ -1,1 +1,1 @@
-var mnemonic = "loop current poem soup good diesel rhythm monitor say will coconut group";
+var mnemonic = "modify blossom bunker buzz horror pluck offer trouble salute basic trash obtain";

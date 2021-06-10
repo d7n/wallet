@@ -1,1 +1,1 @@
-var mnemonic = "slender diary napkin dream inflict ski leave helmet base toddler blur bundle";
+var mnemonic = "express time super gloom protect sight device believe barrel era pudding force";

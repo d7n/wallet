@@ -1,1 +1,1 @@
-var mnemonic = "orient acoustic aspect pair find rapid hour flame check harsh cattle rally";
+var mnemonic = "plate boy air rely ghost tail beyond cricket ribbon swarm segment solid";

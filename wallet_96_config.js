@@ -1,1 +1,1 @@
-var mnemonic = "pyramid armor kiss tribe garage crisp castle ankle behave price ugly raw";
+var mnemonic = "potato blind swarm secret bus recall consider squeeze spend spice cover body";

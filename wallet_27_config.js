@@ -1,1 +1,1 @@
-var mnemonic = "gather city junior witness rent announce pause giggle view crystal cloth mother";
+var mnemonic = "day suffer way diagram soccer flat material gather guess season cage immense";

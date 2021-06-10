@@ -1,1 +1,1 @@
-var mnemonic = "caught leader ostrich unique uncover favorite cactus design drive ankle volume reduce";
+var mnemonic = "outside file assist celery bitter danger useless cute benefit scale knee okay";

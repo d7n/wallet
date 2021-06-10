@@ -1,1 +1,1 @@
-var mnemonic = "budget desert job inmate repeat attack net hobby cruise random aunt bounce";
+var mnemonic = "sniff reward kingdom cattle between inside false smart chest maze giggle shine";

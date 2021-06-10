@@ -1,1 +1,1 @@
-var mnemonic = "offer fossil boat first version solve weasel sugar speak saddle kidney buddy";
+var mnemonic = "fan mask chest flush inch tiny lake shallow clinic acquire people knock";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra rebel bar remove orphan slim athlete moral sting assist grant duck";
+var mnemonic = "major utility flash punch alert found neutral truly runway pig spoon dog";

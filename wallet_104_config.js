@@ -1,1 +1,1 @@
-var mnemonic = "cheese blade miracle rich rival gravity employ churn real frequent later indicate";
+var mnemonic = "rocket creek crack impact open direct service web blood race move retreat";

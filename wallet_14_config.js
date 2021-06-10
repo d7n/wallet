@@ -1,1 +1,1 @@
-var mnemonic = "rate wall hole absurd coyote symptom issue enlist inside corn disagree range";
+var mnemonic = "dinosaur pull pride stone toward west soon adapt account laundry agree credit";

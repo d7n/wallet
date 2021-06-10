@@ -1,1 +1,1 @@
-var mnemonic = "wide february safe drastic avocado infant subject whip ready fatigue sport walk";
+var mnemonic = "radio route response dream alert loyal raccoon silver ginger twenty vast govern";

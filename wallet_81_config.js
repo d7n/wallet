@@ -1,1 +1,1 @@
-var mnemonic = "man ancient thing doll deposit powder river shock unable window bubble flush";
+var mnemonic = "mutual clutch seed loan elevator swift inquiry thrive talent stock swift garlic";

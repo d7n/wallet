@@ -1,1 +1,1 @@
-var mnemonic = "oppose face glide arm fancy adult gentle snake armor master hybrid capable";
+var mnemonic = "art cruise alien such method web solid change minute decrease desert novel";

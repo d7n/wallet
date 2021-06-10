@@ -1,1 +1,1 @@
-var mnemonic = "deny photo hole walk unveil filter member brave air also embody first";
+var mnemonic = "certain trust spare crowd side where size tomato mad supply deliver fold";

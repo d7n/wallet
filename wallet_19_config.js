@@ -1,1 +1,1 @@
-var mnemonic = "repeat vague bless slow dose tide account furnace render bundle guitar exclude";
+var mnemonic = "nephew genius margin large seek only burger throw matrix seek own legend";

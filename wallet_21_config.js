@@ -1,1 +1,1 @@
-var mnemonic = "issue office group celery reform income crisp calm unique mountain laptop crunch";
+var mnemonic = "glue coffee grain display frown butter scene since lawn blame blood blouse";

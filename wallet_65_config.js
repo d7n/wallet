@@ -1,1 +1,1 @@
-var mnemonic = "medal water inflict question never outside south item since narrow theory crater";
+var mnemonic = "afford curtain pear stone rubber zoo crowd muffin farm digital clap pill";

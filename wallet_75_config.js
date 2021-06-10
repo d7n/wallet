@@ -1,1 +1,1 @@
-var mnemonic = "pelican valve camp drastic impose volume this giant menu lounge giant glad";
+var mnemonic = "bamboo camera nice easily visual onion accuse gym say ribbon predict gloom";

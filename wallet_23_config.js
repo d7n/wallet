@@ -1,1 +1,1 @@
-var mnemonic = "okay suggest found merit humble reward now photo tide hard milk stove";
+var mnemonic = "brain clap poverty panel label pitch trip thunder uncle jacket friend hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire zero nut coil rug scorpion box slot call income conduct make";
+var mnemonic = "better robot spatial urban noodle escape young lounge add trade eight myth";

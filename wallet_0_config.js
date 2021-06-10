@@ -1,1 +1,1 @@
-var mnemonic = "uniform name brick shrug dog narrow clean around cabin blood foil august";
+var mnemonic = "crystal culture muffin village art scissors cave initial nice cluster range almost";

@@ -1,1 +1,1 @@
-var mnemonic = "alien horn predict nation asset mushroom public track chase suspect pioneer glory";
+var mnemonic = "price often adjust again dilemma spawn rigid cook tube heavy smart busy";

@@ -1,1 +1,1 @@
-var mnemonic = "priority black fantasy top faint vibrant crisp token used correct inside victory";
+var mnemonic = "rebel dinosaur basket exhaust spawn list unfold abuse area photo maximum benefit";

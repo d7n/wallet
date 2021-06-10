@@ -1,1 +1,1 @@
-var mnemonic = "kit pond produce afford daring broom airport perfect team episode chronic tank";
+var mnemonic = "away olympic camp matter mutual uniform evil leave spread kid coffee end";

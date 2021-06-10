@@ -1,1 +1,1 @@
-var mnemonic = "concert hair maid trick hawk post friend scout tissue tower cycle love";
+var mnemonic = "rather volume stand maple velvet crack ugly resource arena film giant crumble";

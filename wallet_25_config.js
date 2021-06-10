@@ -1,1 +1,1 @@
-var mnemonic = "elite pen survey banner prepare left silly absent clerk judge bless lemon";
+var mnemonic = "below end glory key uncle dizzy genius brain matrix simple this ready";

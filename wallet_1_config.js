@@ -1,1 +1,1 @@
-var mnemonic = "cart east size rigid silk rhythm copy one check wrong alien fine";
+var mnemonic = "tooth waste smart feed citizen bacon pause magnet kit mammal holiday clean";

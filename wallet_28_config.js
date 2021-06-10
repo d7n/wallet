@@ -1,1 +1,1 @@
-var mnemonic = "dinner sustain lens salmon cram today stomach orphan toy cattle route rebuild";
+var mnemonic = "stove project mind burden current scout drip wise fork mimic swim devote";

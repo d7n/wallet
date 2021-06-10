@@ -1,1 +1,1 @@
-var mnemonic = "adapt foam climb liquid require boring pepper song advice lemon silent wrist";
+var mnemonic = "that hill erupt famous oak cliff steak permit gorilla copy faculty brave";

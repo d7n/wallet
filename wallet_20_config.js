@@ -1,1 +1,1 @@
-var mnemonic = "display wrong age miss solid twin mixture chaos waste pizza asthma section";
+var mnemonic = "vehicle industry evolve setup wife cause debate girl quantum scrap brick rigid";

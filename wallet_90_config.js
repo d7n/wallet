@@ -1,1 +1,1 @@
-var mnemonic = "hidden cart only casual journey enemy buzz will radio dentist increase usual";
+var mnemonic = "crash clay rude fantasy enact exercise toddler spoil erode come sense elevator";

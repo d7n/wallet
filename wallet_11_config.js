@@ -1,1 +1,1 @@
-var mnemonic = "amazing believe enough shy life moment melody right goat vehicle market laundry";
+var mnemonic = "rubber love narrow float empower notice feature bamboo bomb hockey peace garbage";

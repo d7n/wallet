@@ -1,1 +1,1 @@
-var mnemonic = "treat jelly trial ensure burger tonight anxiety assume alley develop forest nose";
+var mnemonic = "saddle ticket refuse marriage day item holiday bounce elite sunny steel jewel";

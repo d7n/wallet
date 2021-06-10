@@ -1,1 +1,1 @@
-var mnemonic = "shop rib rack initial off motor gossip forget swallow fury swamp paddle";
+var mnemonic = "skull lounge switch craft must candy pledge evil alarm moral mushroom shove";

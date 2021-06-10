@@ -1,1 +1,1 @@
-var mnemonic = "dog heart tag soon rather draw slot biology craft loyal crystal shrug";
+var mnemonic = "boy vibrant notice frequent sniff feed depend siege calm weasel frozen select";

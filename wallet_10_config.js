@@ -1,1 +1,1 @@
-var mnemonic = "exact finish coffee under labor foil dose snake common idea busy cook";
+var mnemonic = "smile clog retreat artist school model spare lion distance quiz addict cruise";

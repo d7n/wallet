@@ -1,1 +1,1 @@
-var mnemonic = "lecture card ginger mass ticket gaze aim skill meadow gravity client blood";
+var mnemonic = "tomorrow gesture custom vault flock aware combine siege bundle pink also announce";

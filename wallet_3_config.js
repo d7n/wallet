@@ -1,1 +1,1 @@
-var mnemonic = "apple lyrics olive salmon cable animal crystal cash person update chicken tone";
+var mnemonic = "endorse mom enjoy supply supreme type cradle uphold faint unit fatal tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard anchor breeze quit arena cherry easily muscle muscle waste emerge expand";
+var mnemonic = "food tattoo oyster dinner winner mesh jacket congress dune skull cancel orbit";

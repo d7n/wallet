@@ -1,1 +1,1 @@
-var mnemonic = "devote rabbit join ready mystery hole school tired pave fruit museum swing";
+var mnemonic = "arrange shove exclude tip foil remember lady super lawsuit march subway brand";

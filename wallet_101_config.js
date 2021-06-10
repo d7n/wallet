@@ -1,1 +1,1 @@
-var mnemonic = "judge toss risk echo plastic time gift tourist pony shove exit fruit";
+var mnemonic = "dutch subject olive alert rebuild drama lock until soda carry auction input";

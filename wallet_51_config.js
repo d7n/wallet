@@ -1,1 +1,1 @@
-var mnemonic = "accident pitch safe grape capital second stable reason mad duck element inch";
+var mnemonic = "erode shallow fringe task swing help story stage garden side glory arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch dynamic scrub unusual inmate trial paper evidence liquid negative soup pioneer";
+var mnemonic = "nation circle genuine pool behind few young orphan tortoise security illegal afraid";

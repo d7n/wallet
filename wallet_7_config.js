@@ -1,1 +1,1 @@
-var mnemonic = "father trial provide stuff salute ignore oak arctic grit real staff dress";
+var mnemonic = "cost resist web fire hundred echo praise two author surround sunny little";
