@@ -1,1 +1,1 @@
-var mnemonic = "aunt lava craft orbit dose hollow cup maze anxiety fame deer witness";
+var mnemonic = "cousin vibrant already clay exclude abuse night route grant reduce gap keen";

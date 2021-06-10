@@ -1,1 +1,1 @@
-var mnemonic = "brand amused garment explain fiscal test furnace imitate cup vapor into stock";
+var mnemonic = "cliff hockey online fluid stable kind sheriff diary approve measure roof entire";

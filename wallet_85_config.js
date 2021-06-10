@@ -1,1 +1,1 @@
-var mnemonic = "shiver opera drive game enrich virtual cattle solid junk response donkey shed";
+var mnemonic = "once indicate impact write pact economy verb response very canvas damp sell";

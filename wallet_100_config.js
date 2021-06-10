@@ -1,1 +1,1 @@
-var mnemonic = "property wine human chief coyote minor diary search turn salmon steak predict";
+var mnemonic = "enter thought purity kiwi churn tired tape pretty twist agent distance miracle";

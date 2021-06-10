@@ -1,1 +1,1 @@
-var mnemonic = "banana snack negative flip doll cruise tank soap table loyal symbol lazy";
+var mnemonic = "soon foam wool scare now final fringe planet egg deny metal mass";

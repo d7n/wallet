@@ -1,1 +1,1 @@
-var mnemonic = "supreme aware insane music sock science man slam palm flight fit waste";
+var mnemonic = "kiss era speak pyramid crop produce seed mule film traffic recycle iron";

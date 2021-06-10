@@ -1,1 +1,1 @@
-var mnemonic = "visa purchase potato leaf across small season twelve sister seven stereo swap";
+var mnemonic = "flock evidence dentist police nation fault regular ramp object wise cattle pitch";

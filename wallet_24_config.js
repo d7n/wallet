@@ -1,1 +1,1 @@
-var mnemonic = "virus denial demise usage lesson warrior vault denial afford absent just correct";
+var mnemonic = "believe coyote shaft awful gentle truly cereal fly behave glide custom treat";

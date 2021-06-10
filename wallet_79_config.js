@@ -1,1 +1,1 @@
-var mnemonic = "canoe people tragic session duty sniff caught extra lab dance sign renew";
+var mnemonic = "motion loan cluster retreat screen gap forum trick leader onion biology second";

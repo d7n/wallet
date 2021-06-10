@@ -1,1 +1,1 @@
-var mnemonic = "duck where there acid around stumble decline list evidence buffalo common payment";
+var mnemonic = "door honey analyst sing observe text spoil ridge render unique muffin midnight";

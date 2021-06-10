@@ -1,1 +1,1 @@
-var mnemonic = "erase pupil trouble essence glare camp armor salad wisdom minor evidence bird";
+var mnemonic = "vague transfer parent ancient emotion typical retreat delay sense other talent month";

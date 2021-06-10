@@ -1,1 +1,1 @@
-var mnemonic = "main paper action dwarf canal name ramp claim eyebrow check parrot school";
+var mnemonic = "december pottery session gold labor aware luggage dwarf neither wife siren funny";

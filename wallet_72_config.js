@@ -1,1 +1,1 @@
-var mnemonic = "weekend taste inhale axis worry victory person dentist erase radar brand galaxy";
+var mnemonic = "install return repeat genre april salon private twelve camp reveal submit doctor";

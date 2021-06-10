@@ -1,1 +1,1 @@
-var mnemonic = "elbow oil winner brother good jar toward demise earth settle gold behind";
+var mnemonic = "melt margin author school review skill escape organ lunch clip south bracket";

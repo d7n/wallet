@@ -1,1 +1,1 @@
-var mnemonic = "gown able tank kitten elephant float empty insect soul ten film error";
+var mnemonic = "fix tank behave crouch noise mango hair such rookie credit audit under";

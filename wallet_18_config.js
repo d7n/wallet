@@ -1,1 +1,1 @@
-var mnemonic = "journey exit collect list vintage aspect fold youth talent fog now volcano";
+var mnemonic = "notable toward cupboard reveal fiscal palm adapt quality engage author leopard mesh";

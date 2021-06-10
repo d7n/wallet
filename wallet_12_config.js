@@ -1,1 +1,1 @@
-var mnemonic = "bulb chunk frog bubble balance minute radio chimney health shine divert pony";
+var mnemonic = "side dad secret wrestle luggage game pear tide omit medal fit robust";

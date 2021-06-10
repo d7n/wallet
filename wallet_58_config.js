@@ -1,1 +1,1 @@
-var mnemonic = "oval circle rack attack best gain misery robot clay erupt price arch";
+var mnemonic = "south increase garment goose turtle sand security code coin yard public brand";

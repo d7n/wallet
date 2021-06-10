@@ -1,1 +1,1 @@
-var mnemonic = "palace phrase pistol team false price ginger market above circle mystery goddess";
+var mnemonic = "lonely fall elite load mimic field horn lyrics two romance vicious hover";

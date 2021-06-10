@@ -1,1 +1,1 @@
-var mnemonic = "pipe true hen shiver property split route thank decade long picture tomato";
+var mnemonic = "address when kingdom acoustic culture ankle custom ceiling climb scout account review";

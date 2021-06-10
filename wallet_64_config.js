@@ -1,1 +1,1 @@
-var mnemonic = "aim transfer ice math tribe fade crime grain upon layer myself steel";
+var mnemonic = "science loan coyote hub piece egg bullet fine bind diamond length ladder";

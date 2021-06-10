@@ -1,1 +1,1 @@
-var mnemonic = "chaos host fragile unique curve maid front reform inflict cream shoot patch";
+var mnemonic = "seat mask move satoshi front able deny crunch smart heart online friend";

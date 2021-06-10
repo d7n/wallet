@@ -1,1 +1,1 @@
-var mnemonic = "urge foam bargain family crisp vague mercy enough account warm stay captain";
+var mnemonic = "castle angle marble novel hawk dice portion trash broom either canal work";

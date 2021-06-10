@@ -1,1 +1,1 @@
-var mnemonic = "trophy speed black concert finger coach eye ginger tail annual fluid cupboard";
+var mnemonic = "dwarf palm crack elegant enrich relief injury devote end behave chimney welcome";

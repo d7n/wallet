@@ -1,1 +1,1 @@
-var mnemonic = "similar limit aspect tiger rebuild kangaroo guess ecology snake laugh prevent tribe";
+var mnemonic = "curious blind profit mass teach story sheriff omit hand alert cup outdoor";

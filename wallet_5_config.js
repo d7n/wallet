@@ -1,1 +1,1 @@
-var mnemonic = "approve unable oppose hire park update broom suspect glue debate clown fog";
+var mnemonic = "salon inherit erode evidence casual market mass milk focus pioneer letter snake";

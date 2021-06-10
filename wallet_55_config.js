@@ -1,1 +1,1 @@
-var mnemonic = "pool retire tide venue rude olympic canoe practice slide drink notable wink";
+var mnemonic = "catch upper diagram urge catch shock brief powder amazing pupil floor priority";

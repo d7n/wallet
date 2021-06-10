@@ -1,1 +1,1 @@
-var mnemonic = "border car myself person ethics area size supply combine legal bacon bleak";
+var mnemonic = "text olympic hair order coffee buffalo census clock grass churn explain shine";

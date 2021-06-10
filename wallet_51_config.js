@@ -1,1 +1,1 @@
-var mnemonic = "shove convince debate help feature hour pigeon vendor until milk sting steel";
+var mnemonic = "song awake bind glow bracket toward defense ritual correct sick waste sleep";

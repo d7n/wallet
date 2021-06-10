@@ -1,1 +1,1 @@
-var mnemonic = "frequent marine mosquito burger proof draft sibling dwarf nation midnight witness sock";
+var mnemonic = "prosper engine sight demise purchase trash boil foot sugar treat surface message";

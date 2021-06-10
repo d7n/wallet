@@ -1,1 +1,1 @@
-var mnemonic = "choice degree giggle main paddle obvious veteran bright scheme album area language";
+var mnemonic = "equip strike analyst hello script regret around shadow spoon sight whale garden";

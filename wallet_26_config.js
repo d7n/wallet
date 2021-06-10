@@ -1,1 +1,1 @@
-var mnemonic = "salon lake couple glass rib holiday filter emerge major language device bulb";
+var mnemonic = "expire boil wait law tray major gas exhaust license quick jewel ready";

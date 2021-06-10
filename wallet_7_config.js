@@ -1,1 +1,1 @@
-var mnemonic = "claw excite smart need check upper night erosion ball gaze december cereal";
+var mnemonic = "hub digital table make destroy solution beyond chronic search kick grape hat";

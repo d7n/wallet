@@ -1,1 +1,1 @@
-var mnemonic = "wink clown resource dog open ridge garden party fatal census illness mistake";
+var mnemonic = "victory bean trash neutral fold stage minor bullet search attract glove then";

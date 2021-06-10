@@ -1,1 +1,1 @@
-var mnemonic = "marble employ service inmate whale thumb lend soda athlete pattern expose license";
+var mnemonic = "gorilla cactus duck nuclear chunk ordinary stuff erase dinosaur job baby insect";

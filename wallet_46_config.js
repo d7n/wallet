@@ -1,1 +1,1 @@
-var mnemonic = "shell coyote lazy satoshi damp cricket top scorpion theory source baby pride";
+var mnemonic = "grit awful digital verb still install moon dog brisk guitar lawsuit aspect";

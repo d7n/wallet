@@ -1,1 +1,1 @@
-var mnemonic = "step post obvious rule figure side hero mimic sadness media real warfare";
+var mnemonic = "deposit myth episode brick chaos tornado latin area vibrant swift face decade";

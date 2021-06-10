@@ -1,1 +1,1 @@
-var mnemonic = "pride eight indicate limit beauty grow anchor hard agree creek witness rubber";
+var mnemonic = "actor burger uncover worth amused carpet raven sentence essay upon enact sauce";

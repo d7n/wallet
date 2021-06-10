@@ -1,1 +1,1 @@
-var mnemonic = "lizard tomorrow tape dizzy firm away aisle when type arrest seat name";
+var mnemonic = "twenty jacket exercise exhaust cradle crowd neutral shield digital fragile pottery false";

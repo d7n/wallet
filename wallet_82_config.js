@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit call inflict property hurry exhibit viable cushion panther connect ceiling grab";
+var mnemonic = "fitness width novel tide town dial october reopen snake town upon project";

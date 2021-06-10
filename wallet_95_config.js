@@ -1,1 +1,1 @@
-var mnemonic = "radio vacant foster permit meadow special disagree inmate burst mercy error body";
+var mnemonic = "rotate mosquito chase select gift install unlock board shove heavy stuff inquiry";

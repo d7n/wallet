@@ -1,1 +1,1 @@
-var mnemonic = "dune soldier hockey chair immense once praise dog property unfold either topple";
+var mnemonic = "run property program around absent phrase install flavor emotion team crop index";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion radio coconut various company glide flock peasant spice crisp act zebra";
+var mnemonic = "elbow manual crunch noise online true again say scrub almost polar finish";

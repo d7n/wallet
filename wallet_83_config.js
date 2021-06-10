@@ -1,1 +1,1 @@
-var mnemonic = "turkey fetch aisle horn gas shock nose comic negative benefit lava water";
+var mnemonic = "slice harvest glove vintage purity define mind sick nature baby unique cancel";

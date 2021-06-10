@@ -1,1 +1,1 @@
-var mnemonic = "tenant culture elephant jazz cloth slim discover stone caution athlete accident diagram";
+var mnemonic = "endorse doll steel video upgrade daughter steel toe live teach butter poverty";

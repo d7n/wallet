@@ -1,1 +1,1 @@
-var mnemonic = "elegant hard banner dinner devote bullet enjoy divide ugly empty sweet miracle";
+var mnemonic = "table blush tongue wife company you bicycle exit random culture mom rubber";

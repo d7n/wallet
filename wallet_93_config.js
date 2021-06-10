@@ -1,1 +1,1 @@
-var mnemonic = "little knife rally hundred decline source health coin sentence owner mercy catalog";
+var mnemonic = "short biology clown response update hello rail air helmet opera paper width";

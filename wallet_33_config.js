@@ -1,1 +1,1 @@
-var mnemonic = "travel canoe shuffle wild raven oven math narrow island tobacco hurry giraffe";
+var mnemonic = "glance runway put relax shock possible bid congress boil during antique clump";

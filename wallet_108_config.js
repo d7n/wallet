@@ -1,1 +1,1 @@
-var mnemonic = "panic whisper balance service card like ensure light town problem buffalo speak";
+var mnemonic = "bunker bonus balcony pluck taste impulse help horse razor blossom snake wood";

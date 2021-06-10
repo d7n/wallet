@@ -1,1 +1,1 @@
-var mnemonic = "asset blood moon taste ahead net approve skate tomorrow raccoon bullet anchor";
+var mnemonic = "imitate elephant jelly transfer toilet seven swallow huge peace between culture purpose";

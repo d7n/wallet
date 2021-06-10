@@ -1,1 +1,1 @@
-var mnemonic = "evoke course drastic risk choose snake slender autumn acid detail shrug toe";
+var mnemonic = "again abandon medal prepare increase rhythm attend verb cruise tide add club";

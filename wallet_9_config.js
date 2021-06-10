@@ -1,1 +1,1 @@
-var mnemonic = "viable dynamic spy bacon excess exchange list caution arrest brisk enjoy upgrade";
+var mnemonic = "side seat garden depend alley fever mom eagle iron tongue flock impact";

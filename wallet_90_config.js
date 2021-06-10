@@ -1,1 +1,1 @@
-var mnemonic = "pencil marine plunge salon assist uncover duty raw trade robot ensure swap";
+var mnemonic = "rude carpet under damp force brass vocal whale scare carpet order program";

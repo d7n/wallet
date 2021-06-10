@@ -1,1 +1,1 @@
-var mnemonic = "spy chunk tennis asset palm zebra cable snap used vanish such transfer";
+var mnemonic = "ugly frozen such embark fuel siege net remove blind winner blame skate";

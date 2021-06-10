@@ -1,1 +1,1 @@
-var mnemonic = "cliff round napkin acquire note surprise select husband legend curious wing captain";
+var mnemonic = "worth orphan poet print phone young sphere disease emerge tissue frame secret";

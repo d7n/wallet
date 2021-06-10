@@ -1,1 +1,1 @@
-var mnemonic = "column butter grit eager pupil spoon know switch person cinnamon load basic";
+var mnemonic = "major muscle daughter escape water engage where fragile oyster sudden viable rich";

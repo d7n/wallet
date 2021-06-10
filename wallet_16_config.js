@@ -1,1 +1,1 @@
-var mnemonic = "myth foam minute detect pulse enable gain subject creek cricket warrior detail";
+var mnemonic = "broom second scrap broken follow velvet this rotate sibling keep gain again";

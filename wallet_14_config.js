@@ -1,1 +1,1 @@
-var mnemonic = "lizard dance account able cat garbage daring secret original pistol rebel turn";
+var mnemonic = "royal wear finish paddle wrap buzz hamster favorite reopen prize profit comfort";

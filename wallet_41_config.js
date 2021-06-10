@@ -1,1 +1,1 @@
-var mnemonic = "pyramid cancel love sock thrive program citizen quiz photo daring observe utility";
+var mnemonic = "label example comic sword need scale sing blur lamp picnic cheese trash";

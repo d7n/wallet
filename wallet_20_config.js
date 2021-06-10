@@ -1,1 +1,1 @@
-var mnemonic = "trend toast funny skull symptom west path wink eager planet diagram wrist";
+var mnemonic = "monkey undo engage gallery advance scare rabbit accuse battle picnic improve off";

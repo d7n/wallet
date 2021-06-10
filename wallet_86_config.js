@@ -1,1 +1,1 @@
-var mnemonic = "crunch local era future state tank female clay chimney diagram lizard child";
+var mnemonic = "intact flavor average enjoy bronze medal sting among breeze jewel ketchup village";

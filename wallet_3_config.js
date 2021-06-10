@@ -1,1 +1,1 @@
-var mnemonic = "horn office lonely harbor they agree gown swim harsh atom love expose";
+var mnemonic = "debris bamboo rookie giraffe style domain subway ghost heart vast fruit access";

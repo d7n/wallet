@@ -1,1 +1,1 @@
-var mnemonic = "episode furnace step convince pelican ramp allow inspire produce hello normal balcony";
+var mnemonic = "scan seed weapon trust flush indicate pair adult heavy roast job donkey";

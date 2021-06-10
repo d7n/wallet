@@ -1,1 +1,1 @@
-var mnemonic = "grain right crunch version trophy pluck receive kitchen breeze cricket left lift";
+var mnemonic = "wrong flat fabric diagram today saddle dream carry yellow cement push kite";

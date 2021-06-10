@@ -1,1 +1,1 @@
-var mnemonic = "patrol orient alpha blame toss issue amateur word plastic same express wrong";
+var mnemonic = "album medal upgrade vote wagon file scare acoustic target rescue measure smart";

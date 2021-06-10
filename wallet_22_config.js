@@ -1,1 +1,1 @@
-var mnemonic = "leopard carpet snake easy power abandon sign enjoy turn used jewel shuffle";
+var mnemonic = "distance tray file whale begin submit basket fitness inherit follow enemy phrase";

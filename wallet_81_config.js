@@ -1,1 +1,1 @@
-var mnemonic = "okay elder example festival venue swear uncover jump brief release matter cigar";
+var mnemonic = "improve shrimp mansion rotate blue leaf tennis position birth emotion page fresh";

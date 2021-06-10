@@ -1,1 +1,1 @@
-var mnemonic = "scale fluid ranch chief sting wall culture banana tennis cabin build mom";
+var mnemonic = "exotic turn vault design trick round cat hidden riot spot essay below";

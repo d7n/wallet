@@ -1,1 +1,1 @@
-var mnemonic = "nuclear dentist arrive sound excite quiz prepare act limit faint wife proud";
+var mnemonic = "proof vapor witness water apology sick extra divide cargo tackle athlete output";

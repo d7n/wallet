@@ -1,1 +1,1 @@
-var mnemonic = "manual twenty sort ocean shield vault junk together prepare there cabin resemble";
+var mnemonic = "version advance maple absent thank lady toe lucky liar avocado dust sunny";

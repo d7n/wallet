@@ -1,1 +1,1 @@
-var mnemonic = "punch burst tuition chimney enter income unfair giggle list current list sustain";
+var mnemonic = "barrel around govern vocal hidden envelope creek step advice leaf topple badge";

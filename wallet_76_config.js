@@ -1,1 +1,1 @@
-var mnemonic = "idea spring attract limit lady special exact aisle hair mother wave defy";
+var mnemonic = "fruit plug people quantum sleep real treat organ utility want fat debate";

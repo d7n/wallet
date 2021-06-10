@@ -1,1 +1,1 @@
-var mnemonic = "congress toss churn wink rib dirt artist winter angry learn evil educate";
+var mnemonic = "glory odor roast unique business journey garbage rain pony reason pride father";

@@ -1,1 +1,1 @@
-var mnemonic = "upon access stadium girl elegant arena bottom pelican present knock good elite";
+var mnemonic = "also below gather crawl fresh hospital divert furnace about quick subject box";

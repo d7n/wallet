@@ -1,1 +1,1 @@
-var mnemonic = "vibrant exotic volume hope soldier age play note portion over kick occur";
+var mnemonic = "artist eager file risk rebel radio affair minute maple hobby electric service";

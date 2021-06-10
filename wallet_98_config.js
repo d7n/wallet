@@ -1,1 +1,1 @@
-var mnemonic = "sort harbor day game earth ostrich path click jar indicate aware hungry";
+var mnemonic = "submit undo soul maze maze symbol minute elegant pottery decide sail matter";

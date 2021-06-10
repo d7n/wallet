@@ -1,1 +1,1 @@
-var mnemonic = "upset train excuse cloud gossip leaf domain speak polar flower warrior goat";
+var mnemonic = "catch gun stool bar exhibit drink circle together foil office crane glory";

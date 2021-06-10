@@ -1,1 +1,1 @@
-var mnemonic = "keen speak child vague cannon baby manual shoe blur live smoke cabin";
+var mnemonic = "van swift brisk deal claim feed decline flight door machine raise jaguar";

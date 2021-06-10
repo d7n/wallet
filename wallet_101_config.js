@@ -1,1 +1,1 @@
-var mnemonic = "social three donate warrior session topple leader item final beauty bone royal";
+var mnemonic = "problem december machine father inch kit salmon surprise extend brick regret power";

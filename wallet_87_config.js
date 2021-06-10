@@ -1,1 +1,1 @@
-var mnemonic = "frown myself clever cannon defy fancy toe rigid morning wife weekend final";
+var mnemonic = "rural pelican elbow stuff stay squeeze ceiling play entry panic poem diagram";

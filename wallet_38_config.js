@@ -1,1 +1,1 @@
-var mnemonic = "silent easy critic plunge raven fame disagree tennis trade mystery pepper grid";
+var mnemonic = "sand reflect jacket essence artwork they group essay family wisdom usage basket";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify genuine cabbage elder divide size cherry duck recall witness draft sausage";
+var mnemonic = "permit intact cost hello guitar mail february fortune trip magic loyal motor";

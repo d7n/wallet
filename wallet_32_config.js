@@ -1,1 +1,1 @@
-var mnemonic = "scheme enrich issue quote eyebrow guitar evidence uncle fossil panther couple exhaust";
+var mnemonic = "describe fantasy cost onion turtle mention legal barrel dove health lava swarm";

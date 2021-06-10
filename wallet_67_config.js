@@ -1,1 +1,1 @@
-var mnemonic = "punch huge shadow recipe cup assist rely tenant fatal control jump hole";
+var mnemonic = "mesh capital budget swarm tail wrestle wreck battle reveal husband lion weekend";

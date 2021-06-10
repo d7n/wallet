@@ -1,1 +1,1 @@
-var mnemonic = "frog damage unlock foil sorry cheese betray amateur parade rare twice garage";
+var mnemonic = "barely govern cause edge swap worth galaxy since verify grow nut toy";

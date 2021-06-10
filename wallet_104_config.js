@@ -1,1 +1,1 @@
-var mnemonic = "oil animal code ribbon stem adjust helmet sick anchor smart trip say";
+var mnemonic = "flame misery brick yard neglect elbow manage steel crystal awful transfer economy";

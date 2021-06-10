@@ -1,1 +1,1 @@
-var mnemonic = "manual soft bachelor green crazy curtain direct toddler evolve rare airport betray";
+var mnemonic = "call attack master setup woman exchange dutch common will stand become defy";

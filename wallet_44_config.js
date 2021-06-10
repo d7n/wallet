@@ -1,1 +1,1 @@
-var mnemonic = "bargain salute erupt fly carry gadget unusual grass envelope term boat country";
+var mnemonic = "orange filter ranch chapter trumpet float barely buddy filter weekend mask mesh";

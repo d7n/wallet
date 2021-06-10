@@ -1,1 +1,1 @@
-var mnemonic = "prize scout steak legend pact scene parade another liar unique estate forum";
+var mnemonic = "match shallow magnet scheme child spread news fever beef behind cup pen";

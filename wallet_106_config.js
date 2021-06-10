@@ -1,1 +1,1 @@
-var mnemonic = "artist disease victory tornado follow tide around lyrics sheriff step skull borrow";
+var mnemonic = "energy attack useless creek about spy purse ritual stereo pistol champion mixture";

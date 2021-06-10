@@ -1,1 +1,1 @@
-var mnemonic = "asthma quarter pulp enable card affair review pink lounge salon razor opinion";
+var mnemonic = "panic because employ shallow blue snow enroll strategy panda expire medal ghost";
