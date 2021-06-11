@@ -1,1 +1,1 @@
-var mnemonic = "hazard focus stool price second goose math soda similar hair exact wreck";
+var mnemonic = "cram rookie tomato olive early month walnut ladder surround bitter road anger";

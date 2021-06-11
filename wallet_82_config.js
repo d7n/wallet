@@ -1,1 +1,1 @@
-var mnemonic = "doctor upgrade trumpet echo cinnamon just answer capital accident basket siren cash";
+var mnemonic = "spoil push upgrade limb emotion gold park concert canyon before fine solar";

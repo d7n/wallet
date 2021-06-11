@@ -1,1 +1,1 @@
-var mnemonic = "debris business scout ranch open voice report inner shed build manage raw";
+var mnemonic = "shield romance bargain match topple sport area happy put double title attack";

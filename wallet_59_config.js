@@ -1,1 +1,1 @@
-var mnemonic = "typical near road derive immune defy fork recall razor yellow depend conduct";
+var mnemonic = "guess oblige kiss evil top fire media pluck cousin boil rebel mass";

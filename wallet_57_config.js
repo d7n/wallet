@@ -1,1 +1,1 @@
-var mnemonic = "correct cram right pact resist current celery wonder universe treat donkey buffalo";
+var mnemonic = "text cactus safe provide manual during physical lizard rice once pool mad";

@@ -1,1 +1,1 @@
-var mnemonic = "blue raven runway convince safe boss portion siege huge garden banner shallow";
+var mnemonic = "item zoo skill bacon neutral mind lawn enroll join teach flee change";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion echo match primary question trick second stool giraffe search reform else";
+var mnemonic = "frown submit sustain release stool novel scheme potato mixture corn fiber actor";

@@ -1,1 +1,1 @@
-var mnemonic = "fetch steel mystery script afraid asset refuse warfare coyote drum blue snap";
+var mnemonic = "heavy tide media cabbage type system fringe uphold gift rare honey kick";

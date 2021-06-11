@@ -1,1 +1,1 @@
-var mnemonic = "buffalo ritual friend december avocado anchor baby tired start indicate escape harbor";
+var mnemonic = "book basic hurry love gain reason leader glow dish snake spot chalk";

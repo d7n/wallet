@@ -1,1 +1,1 @@
-var mnemonic = "unfold range equip cross amateur deposit hybrid hub annual pattern quick rifle";
+var mnemonic = "exclude winner plastic pink dice belt escape mushroom bring cactus intact live";

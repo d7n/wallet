@@ -1,1 +1,1 @@
-var mnemonic = "dream better divorce wasp hub gun deny quantum mobile critic dove egg";
+var mnemonic = "peanut twin clip harvest check cigar mother above leopard kiss guilt script";

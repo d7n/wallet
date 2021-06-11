@@ -1,1 +1,1 @@
-var mnemonic = "bring tenant mobile silk near thing ancient chest prize blast true truth";
+var mnemonic = "rude employ alley rate embody window notable job make tackle today canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "kite bottom quit family upon engine scheme oak lecture whisper ugly radio";
+var mnemonic = "torch cloth donkey dynamic thing blood present spice apology have session distance";

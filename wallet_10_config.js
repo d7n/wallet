@@ -1,1 +1,1 @@
-var mnemonic = "rate total column warrior okay pretty pull oyster circle enact unveil purse";
+var mnemonic = "flame van poverty monitor soccer install around green ring junior odor base";

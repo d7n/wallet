@@ -1,1 +1,1 @@
-var mnemonic = "monkey copy element devote job beauty problem next weird alert become citizen";
+var mnemonic = "away slush word pigeon decorate cook kiwi voice account village mixture shiver";

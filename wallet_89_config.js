@@ -1,1 +1,1 @@
-var mnemonic = "tell absurd window adult loud refuse property poem market brief school doctor";
+var mnemonic = "waste boring gaze glass gadget patient paddle pumpkin tube spice skill virus";

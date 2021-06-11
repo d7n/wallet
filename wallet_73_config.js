@@ -1,1 +1,1 @@
-var mnemonic = "wine short mutual save genre leader student aunt output rookie imitate fashion";
+var mnemonic = "cricket please pear average auto mad valid box vibrant menu merry frost";

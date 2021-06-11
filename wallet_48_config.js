@@ -1,1 +1,1 @@
-var mnemonic = "start shadow banner dizzy aware ostrich finish flash letter fortune dice frozen";
+var mnemonic = "dawn jungle couch funny repair hero issue diary sample exercise blast glimpse";

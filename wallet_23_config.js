@@ -1,1 +1,1 @@
-var mnemonic = "profit sound case obvious border regret kitten window barrel bitter grief verb";
+var mnemonic = "melt suffer weather robust crush carbon school congress reflect ensure pass alert";

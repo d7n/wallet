@@ -1,1 +1,1 @@
-var mnemonic = "social dial female cruel truly lonely image helmet unlock lawn shallow view";
+var mnemonic = "cover exchange notable junior ticket message delay stairs hawk cage funny enrich";

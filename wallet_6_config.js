@@ -1,1 +1,1 @@
-var mnemonic = "fox prize salute bone aerobic skull ridge runway laugh honey volcano maze";
+var mnemonic = "hurdle mystery powder later panel junior fog cricket allow tomato lottery jeans";

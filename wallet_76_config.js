@@ -1,1 +1,1 @@
-var mnemonic = "mix ugly scare juice shed salute robust melody duty coach learn example";
+var mnemonic = "damage tobacco able wet comic elevator bomb opera walnut gaze rural report";

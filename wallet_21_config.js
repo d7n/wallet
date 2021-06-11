@@ -1,1 +1,1 @@
-var mnemonic = "toss trade often upgrade muscle snake year sausage promote risk pond harsh";
+var mnemonic = "mention unveil purity fold palace comic dynamic erosion regret survey cancel orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "average ivory month dismiss illness prison episode project moral mobile safe race";
+var mnemonic = "much critic inhale resist unique alcohol symptom fever tuna spike text media";

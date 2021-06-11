@@ -1,1 +1,1 @@
-var mnemonic = "seed estate ranch swing trim seed upset eye drift inside trap noble";
+var mnemonic = "dizzy tired siren actress situate razor mirror boost electric uniform weasel frame";

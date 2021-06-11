@@ -1,1 +1,1 @@
-var mnemonic = "license north unveil ketchup solve echo image annual aspect melody shoe shop";
+var mnemonic = "more cat weapon salute jazz caution dirt write puppy mass tower champion";

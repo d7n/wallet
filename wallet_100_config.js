@@ -1,1 +1,1 @@
-var mnemonic = "super monster adjust leader section genuine cash core sea hint alpha squeeze";
+var mnemonic = "drill road disease napkin limb habit agent claim burst valid gravity dragon";

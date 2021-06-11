@@ -1,1 +1,1 @@
-var mnemonic = "fog asthma before allow under obtain undo monster retreat once impulse since";
+var mnemonic = "citizen comic theme priority edit obtain explain bike chapter volume outer inside";

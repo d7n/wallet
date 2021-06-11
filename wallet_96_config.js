@@ -1,1 +1,1 @@
-var mnemonic = "initial cloud upon coast vendor chef tumble tenant turn wrap digital bunker";
+var mnemonic = "capable mule copper engage immune fashion wisdom artist ketchup daring issue near";

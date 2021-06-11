@@ -1,1 +1,1 @@
-var mnemonic = "waste share boil student sample aunt panther insane carry patient pitch alarm";
+var mnemonic = "inside major grant shaft idle icon virus arrange leader skirt dolphin wheel";

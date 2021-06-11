@@ -1,1 +1,1 @@
-var mnemonic = "talent review treat tool stereo swarm clutch dutch crouch evil decide layer";
+var mnemonic = "ginger merit gain novel merit scout ribbon seven innocent trophy absurd sugar";

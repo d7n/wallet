@@ -1,1 +1,1 @@
-var mnemonic = "oil half despair hybrid provide veteran stomach bulk blush fringe maid leg";
+var mnemonic = "census issue unveil gas mercy chief column basket drive skirt dirt more";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet wisdom eagle piece wet plunge speak actor can recall logic also";
+var mnemonic = "noise cable farm couch taxi december list identify student receive asset debris";

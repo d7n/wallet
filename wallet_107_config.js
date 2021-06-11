@@ -1,1 +1,1 @@
-var mnemonic = "turtle income village enact critic much couch host rifle hub beauty exhibit";
+var mnemonic = "series settle goose safe odor recall describe sample cannon tourist engage depth";

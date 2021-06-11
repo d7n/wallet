@@ -1,1 +1,1 @@
-var mnemonic = "measure elite cute awkward track pink mass uniform frequent mirror return must";
+var mnemonic = "three decrease width found giant awesome muscle close cluster before jealous setup";

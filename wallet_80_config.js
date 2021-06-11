@@ -1,1 +1,1 @@
-var mnemonic = "turn start ordinary place always skill just setup taste abstract list unit";
+var mnemonic = "ranch problem sort bag cry web unhappy width veteran drastic truck agent";

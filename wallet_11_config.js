@@ -1,1 +1,1 @@
-var mnemonic = "decline matrix width pave birth detect magnet sibling acquire finish age penalty";
+var mnemonic = "stock save enable lesson toast solar idea arctic modify coffee vibrant guess";

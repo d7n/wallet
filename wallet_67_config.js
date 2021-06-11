@@ -1,1 +1,1 @@
-var mnemonic = "build isolate erase mesh seven pause thrive pencil culture dust prepare know";
+var mnemonic = "claw wreck feel neck merry finish hedgehog mix labor apology cricket scan";

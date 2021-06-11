@@ -1,1 +1,1 @@
-var mnemonic = "another idle issue blur drop alert mountain appear invest arrest patient clog";
+var mnemonic = "pond olympic banner rural skin fiscal wing orphan glare fluid gather flame";

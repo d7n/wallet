@@ -1,1 +1,1 @@
-var mnemonic = "switch upgrade bacon simple zoo right wealth much execute fossil version muscle";
+var mnemonic = "dress debate rate brown interest rose cage shrug crucial vacant worth frost";

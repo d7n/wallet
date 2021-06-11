@@ -1,1 +1,1 @@
-var mnemonic = "opera butter estate street online cinnamon melody lava grid census purse pilot";
+var mnemonic = "lizard close alpha craft manual wife process neck slender umbrella awful tunnel";

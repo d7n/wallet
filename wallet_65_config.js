@@ -1,1 +1,1 @@
-var mnemonic = "battle vivid cook inherit smile solar disorder second tip fuel used inhale";
+var mnemonic = "refuse tortoise carpet gentle journey amazing payment decorate ramp leisure nothing crater";

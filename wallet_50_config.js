@@ -1,1 +1,1 @@
-var mnemonic = "response vibrant vivid solve vote fat acid glimpse describe offer around spell";
+var mnemonic = "economy wasp pond enrich buzz helmet online few east firm subway pull";

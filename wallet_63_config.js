@@ -1,1 +1,1 @@
-var mnemonic = "hover visa fiction upset expect car vicious tooth gravity best orbit derive";
+var mnemonic = "wrestle figure depart demise boat rack fire exclude humble cushion prepare spike";

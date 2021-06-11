@@ -1,1 +1,1 @@
-var mnemonic = "tank balance pipe hollow barrel photo celery forum pool myth output car";
+var mnemonic = "glass salmon region menu breeze half thrive furnace barely flat target deliver";

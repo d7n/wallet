@@ -1,1 +1,1 @@
-var mnemonic = "try sign rough wagon alarm draw venture repeat same first lawn only";
+var mnemonic = "person ginger train device tackle ask tip base merry type sea arrest";

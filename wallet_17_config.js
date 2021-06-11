@@ -1,1 +1,1 @@
-var mnemonic = "series marriage siren road parade kit meat power window nature fish afford";
+var mnemonic = "crawl assume iron regular surprise memory dizzy laundry supreme style drip torch";

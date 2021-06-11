@@ -1,1 +1,1 @@
-var mnemonic = "exchange blur eight ability blood add angle tobacco find solid easily album";
+var mnemonic = "all release diet ghost help day double poet interest upgrade pull will";

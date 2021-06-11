@@ -1,1 +1,1 @@
-var mnemonic = "gather loud anger tonight never problem staff brain festival hard pave engine";
+var mnemonic = "dad repair same enable parent title key release spare coyote school coral";

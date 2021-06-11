@@ -1,1 +1,1 @@
-var mnemonic = "jump boost shine dinosaur discover concert prison urge wild cradle shoe adjust";
+var mnemonic = "jelly trophy cheap innocent illness salt either call skirt labor can salute";

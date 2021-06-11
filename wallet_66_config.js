@@ -1,1 +1,1 @@
-var mnemonic = "enough they theory pledge rib betray oil category ski control lady soup";
+var mnemonic = "flight secret stove today comic runway jungle tribe under despair leave egg";

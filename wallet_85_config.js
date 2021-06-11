@@ -1,1 +1,1 @@
-var mnemonic = "common garment bench cause motor increase prosper quiz actual bulb push alert";
+var mnemonic = "item double buzz wage describe oval anchor hub can shoulder idea able";

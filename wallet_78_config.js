@@ -1,1 +1,1 @@
-var mnemonic = "oxygen shine pipe daughter curve dawn west elder dose length scan summer";
+var mnemonic = "rally sand tattoo cat diesel stadium float globe village dad need enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "top crush nest six book device digital april brush people trigger post";
+var mnemonic = "swing tooth agent recycle earn begin lazy clerk shock dinosaur response shaft";

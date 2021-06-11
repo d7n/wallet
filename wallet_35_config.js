@@ -1,1 +1,1 @@
-var mnemonic = "ribbon split method scout hedgehog debate pepper ramp need mosquito wise floor";
+var mnemonic = "spare spider room emotion sure pool crash space arm steel borrow observe";

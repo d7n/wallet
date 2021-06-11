@@ -1,1 +1,1 @@
-var mnemonic = "actor certain tube panic foot bonus turn proof scan way kitchen jungle";
+var mnemonic = "web excite fox room dose vote develop salon spend drink demise scrap";

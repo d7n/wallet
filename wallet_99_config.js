@@ -1,1 +1,1 @@
-var mnemonic = "swap aspect super olympic movie fruit erase orient dinner valid laundry client";
+var mnemonic = "present govern arrow oven leg warrior atom spell inmate wall lady catalog";

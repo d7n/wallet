@@ -1,1 +1,1 @@
-var mnemonic = "primary capital boost artwork consider salon idle hour lemon lady awesome club";
+var mnemonic = "buffalo salon napkin predict crop extend wheat torch hat float wedding uncle";

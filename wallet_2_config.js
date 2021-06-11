@@ -1,1 +1,1 @@
-var mnemonic = "juice uncover orange program faint skill language spike stamp install peace rich";
+var mnemonic = "fever wasp brother party west slide vicious tongue scatter first congress narrow";

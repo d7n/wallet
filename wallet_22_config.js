@@ -1,1 +1,1 @@
-var mnemonic = "dinner guitar rich fit police enough path visual you faculty grape leaf";
+var mnemonic = "noodle hen symbol shed trial weather foot size toast lawn enlist cube";

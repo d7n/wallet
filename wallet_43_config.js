@@ -1,1 +1,1 @@
-var mnemonic = "tide patch horn tent lamp mom service drop domain prefer humor ability";
+var mnemonic = "pen manage scatter evidence raccoon behind improve harvest obey later unable fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "candy absorb bunker swim aunt erupt assist shoulder plate frost improve armed";
+var mnemonic = "matter ginger flavor attend arrive post city long credit museum fiber skin";

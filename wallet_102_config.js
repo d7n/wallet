@@ -1,1 +1,1 @@
-var mnemonic = "fancy bronze ticket damp blast below used sort rhythm proud click winner";
+var mnemonic = "peasant inhale rapid cart oyster comic pumpkin winter detail tray hood employ";

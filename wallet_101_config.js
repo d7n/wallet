@@ -1,1 +1,1 @@
-var mnemonic = "merit odor wink track muscle eye video afford airport fix only voyage";
+var mnemonic = "valid skate knock theory best fat right lake photo laugh tape device";

@@ -1,1 +1,1 @@
-var mnemonic = "banner worry bacon concert matrix nut speed nerve bright pulse print floor";
+var mnemonic = "pizza century float network network elder rate sort suggest throw certain ride";

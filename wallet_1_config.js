@@ -1,1 +1,1 @@
-var mnemonic = "family reduce discover enact banana together level under general scan cargo iron";
+var mnemonic = "purity honey square arena method offer cancel brass symbol stove judge purity";

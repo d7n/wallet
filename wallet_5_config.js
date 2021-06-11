@@ -1,1 +1,1 @@
-var mnemonic = "divert idle work radar ahead jacket garbage help stock special open story";
+var mnemonic = "soda champion domain team picnic evil furnace capable system buffalo awesome coach";

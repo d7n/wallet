@@ -1,1 +1,1 @@
-var mnemonic = "increase raven siren episode image olive expand rebuild secret theme embrace now";
+var mnemonic = "drill miss cactus boil fault primary north swim company live hood guard";

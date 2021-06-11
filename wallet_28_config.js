@@ -1,1 +1,1 @@
-var mnemonic = "squeeze crawl boss shadow question zoo dismiss venue trick teach nasty cage";
+var mnemonic = "recall clog century lizard either member wrong hazard jaguar zero spell behave";

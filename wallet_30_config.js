@@ -1,1 +1,1 @@
-var mnemonic = "ill endorse empower never field ability glimpse patient prize trumpet pretty feature";
+var mnemonic = "spend scrub hurdle tongue air now club dentist survey dawn situate mail";

@@ -1,1 +1,1 @@
-var mnemonic = "rely diagram shock polar able fade gorilla other small rally raise ordinary";
+var mnemonic = "duck police wing step prefer carry economy decade dumb ticket night unlock";

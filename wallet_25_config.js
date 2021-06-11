@@ -1,1 +1,1 @@
-var mnemonic = "confirm skate brain balcony primary champion know gaze thunder strategy then insane";
+var mnemonic = "quiz collect pyramid orphan confirm link trophy husband involve change unknown custom";

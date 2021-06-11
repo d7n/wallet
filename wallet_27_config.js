@@ -1,1 +1,1 @@
-var mnemonic = "phrase start easily lesson venue field wear across surround swap output robust";
+var mnemonic = "need cargo rate situate fashion distance arrow teach soap nominee gentle start";

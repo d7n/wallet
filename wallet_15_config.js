@@ -1,1 +1,1 @@
-var mnemonic = "jewel monkey hundred recycle chef engage shuffle leader mistake buyer color oppose";
+var mnemonic = "object spawn liar aisle ahead affair cigar develop air few inch cable";

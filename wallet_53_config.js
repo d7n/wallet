@@ -1,1 +1,1 @@
-var mnemonic = "spike crew task opera all disease ski cliff art badge oxygen middle";
+var mnemonic = "wonder federal act piece claim unfair fine tape left desert approve artist";

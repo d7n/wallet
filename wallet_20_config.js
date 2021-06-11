@@ -1,1 +1,1 @@
-var mnemonic = "cluster zero hospital clutch oven armed educate eyebrow carry flat note spring";
+var mnemonic = "reveal mimic enforce neglect gasp sunset possible material observe aware boss survey";

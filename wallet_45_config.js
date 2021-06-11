@@ -1,1 +1,1 @@
-var mnemonic = "galaxy worry sun snake own advance tooth extend adapt midnight tourist sock";
+var mnemonic = "diagram auto crowd arch sense tilt sell dirt category future scene bamboo";

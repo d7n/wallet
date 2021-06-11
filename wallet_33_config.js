@@ -1,1 +1,1 @@
-var mnemonic = "report barrel online tobacco prize real escape canvas purchase mandate just spoon";
+var mnemonic = "smart poet try seminar blush athlete primary laundry eyebrow gravity east guess";

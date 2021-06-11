@@ -1,1 +1,1 @@
-var mnemonic = "detail suffer proud whale profit recall plate mean top junk salad label";
+var mnemonic = "journey rescue labor sock stone purse cement pause hawk iron rough method";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise logic skate quiz couch spare inch isolate barrel festival loop siege";
+var mnemonic = "episode hill leisure again seminar illness shiver fatigue team crop fetch accident";

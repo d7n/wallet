@@ -1,1 +1,1 @@
-var mnemonic = "upset add satisfy blame couple exclude panel remind weasel crucial cloud latin";
+var mnemonic = "dance bicycle noise before whip cover gas current giant tree float ahead";

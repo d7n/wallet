@@ -1,1 +1,1 @@
-var mnemonic = "about female infant shuffle unfold main spike skill melt address desk volume";
+var mnemonic = "donkey reveal sheriff tobacco avocado baby behave struggle water track check fine";

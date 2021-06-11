@@ -1,1 +1,1 @@
-var mnemonic = "glory laundry crime script fitness ginger stove estate twice diary cannon split";
+var mnemonic = "elbow almost ketchup flee foot boil appear ozone task old prize crawl";

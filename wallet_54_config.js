@@ -1,1 +1,1 @@
-var mnemonic = "shoulder swallow until arena apology cook lottery oblige survey pen crisp erase";
+var mnemonic = "cannon world camp skate slide sock crowd era nasty hire future above";

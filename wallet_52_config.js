@@ -1,1 +1,1 @@
-var mnemonic = "order busy rare repair water end bulb pluck ability kit age cannon";
+var mnemonic = "trade camp pig top jar ugly act say cream couch tornado will";

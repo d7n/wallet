@@ -1,1 +1,1 @@
-var mnemonic = "aim entry derive cotton certain oil purity crunch fluid layer between visual";
+var mnemonic = "affair drastic bullet leisure pattern tribe next vehicle stock large ankle moment";

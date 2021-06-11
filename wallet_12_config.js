@@ -1,1 +1,1 @@
-var mnemonic = "vacuum tomato icon casino fly hint abandon lava utility grace visual siren";
+var mnemonic = "balcony adult cotton rice loop poem human typical innocent hawk snap essence";

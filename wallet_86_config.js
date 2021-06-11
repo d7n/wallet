@@ -1,1 +1,1 @@
-var mnemonic = "west guilt verify trigger arch hello public cannon swallow blur north arrange";
+var mnemonic = "oblige rookie dust print captain arrange odor hobby daughter real veteran attend";

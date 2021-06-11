@@ -1,1 +1,1 @@
-var mnemonic = "artefact sort shell town morning garage parent anger escape senior tragic horror";
+var mnemonic = "priority lab weasel defy size disease finish vintage slice stamp chat bunker";
