@@ -1,1 +1,1 @@
-var mnemonic = "planet razor filter man hope betray tennis attitude whip kitchen custom rapid";
+var mnemonic = "proof slight whip force horror seven puppy plastic depart lift pause same";

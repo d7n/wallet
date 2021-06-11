@@ -1,1 +1,1 @@
-var mnemonic = "state rifle garage fork teach dismiss lunar spoil broken remind whale attack";
+var mnemonic = "arctic early episode devote clever miss merry eight pipe foil decade off";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty wood primary autumn estate lobster song consider wasp wine special tank";
+var mnemonic = "axis thought capable sing price duty genre noble nose crush inmate mistake";

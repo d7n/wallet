@@ -1,1 +1,1 @@
-var mnemonic = "eternal thank welcome little vault cinnamon alone vital defy still fringe remind";
+var mnemonic = "address wreck include universe battle pride world drill menu sponsor exact park";

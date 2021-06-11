@@ -1,1 +1,1 @@
-var mnemonic = "prevent used scorpion avocado verify junk spoon grid gain rotate stadium anchor";
+var mnemonic = "wide normal cup cycle panther lift street dynamic early plate style mosquito";

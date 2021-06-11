@@ -1,1 +1,1 @@
-var mnemonic = "uncover replace federal uncover ketchup choice small debris mother traffic snake average";
+var mnemonic = "winter lion roof nasty device cargo appear gift prepare milk year episode";

@@ -1,1 +1,1 @@
-var mnemonic = "solution initial dwarf crazy air maid ask always pear valid lecture lounge";
+var mnemonic = "riot expect balance tool rib mom fold destroy disorder bamboo produce link";

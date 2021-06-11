@@ -1,1 +1,1 @@
-var mnemonic = "fall sustain age program final use journey they radio smooth purse disorder";
+var mnemonic = "nothing foster dose script other power rescue horror maid fish sail alone";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse student wing area among fabric motion boy unusual basket cloud loan";
+var mnemonic = "what dynamic buyer grunt paper mimic kitchen faith mind habit dolphin nurse";

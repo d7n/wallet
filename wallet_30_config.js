@@ -1,1 +1,1 @@
-var mnemonic = "detect turn shed exhibit flip coil brief dirt human powder blast trigger";
+var mnemonic = "picture innocent roast depart symbol polar above elite tag quarter medal funny";

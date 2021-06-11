@@ -1,1 +1,1 @@
-var mnemonic = "salon hotel helmet assume essay level humble shy kitten only shy account";
+var mnemonic = "rib ball hungry foam fly off tuna ball angry maze example wave";

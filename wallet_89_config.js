@@ -1,1 +1,1 @@
-var mnemonic = "model forward connect south defy manual true furnace fee expose organ attend";
+var mnemonic = "slush baby provide coral pool catch pave foil curious garbage cushion symbol";

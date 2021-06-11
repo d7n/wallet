@@ -1,1 +1,1 @@
-var mnemonic = "spell clerk leaf nation fiscal clown chuckle addict glue style business also";
+var mnemonic = "exercise bus seven predict erode guitar network silent company eagle bone quality";

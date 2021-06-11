@@ -1,1 +1,1 @@
-var mnemonic = "cattle vocal sure snack thumb share security govern hen burger afford gasp";
+var mnemonic = "scrub jeans nasty luxury toss luggage fever thumb glide suspect iron injury";

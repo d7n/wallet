@@ -1,1 +1,1 @@
-var mnemonic = "viable today ride hollow trash vacant funny cliff address bachelor skate quantum";
+var mnemonic = "sweet sugar beach affair ritual again radio scan guitar drastic yard topic";

@@ -1,1 +1,1 @@
-var mnemonic = "file all company error ancient crazy text network under slow pudding spell";
+var mnemonic = "awful donate type digital game pupil improve hunt fire win misery term";

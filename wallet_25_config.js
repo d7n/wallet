@@ -1,1 +1,1 @@
-var mnemonic = "move gift zebra organ remind game dizzy total scout butter climb index";
+var mnemonic = "drum what mimic noodle slice bone seat such detect radio divert merge";

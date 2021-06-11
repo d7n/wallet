@@ -1,1 +1,1 @@
-var mnemonic = "say discover before adult warfare sound trigger water shock axis minimum list";
+var mnemonic = "gift zebra cloth zebra soccer school innocent churn elder law hunt cream";

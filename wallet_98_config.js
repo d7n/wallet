@@ -1,1 +1,1 @@
-var mnemonic = "original torch whip saddle mouse mind valley rather name huge cannon caution";
+var mnemonic = "steel surge casual crush detect head winter walk ladder deposit cruel figure";

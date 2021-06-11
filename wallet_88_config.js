@@ -1,1 +1,1 @@
-var mnemonic = "arch reform assume own top drift south essay comic corn head uncover";
+var mnemonic = "garbage major roast stock trial echo file fuel observe luggage prepare puzzle";

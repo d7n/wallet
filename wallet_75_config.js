@@ -1,1 +1,1 @@
-var mnemonic = "daring rack clarify basic coach festival champion claim crop gravity outer decade";
+var mnemonic = "exhibit frost gun tennis shine express dilemma garden step ice vault monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "gather fury enjoy embark relax leaf figure filter battle sting puppy enemy";
+var mnemonic = "predict pistol between waste young guide rescue fault imitate bread glide night";

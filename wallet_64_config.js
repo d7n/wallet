@@ -1,1 +1,1 @@
-var mnemonic = "section erupt armor brisk shrug audit differ sting elevator destroy witness turkey";
+var mnemonic = "depth carbon help cactus bleak sense target glory work bargain music crunch";

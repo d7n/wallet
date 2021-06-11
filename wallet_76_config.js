@@ -1,1 +1,1 @@
-var mnemonic = "mansion exact skill strategy candy merit surround rich wheat rigid usual over";
+var mnemonic = "wrong vital hundred order park vapor dynamic undo time radar doctor talk";

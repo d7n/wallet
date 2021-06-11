@@ -1,1 +1,1 @@
-var mnemonic = "calm mechanic kitten debris embark matter wrap clutch list custom bulk magic";
+var mnemonic = "liquid tank upon release bench paper hotel salon diary charge tail rail";

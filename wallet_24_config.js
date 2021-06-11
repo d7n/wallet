@@ -1,1 +1,1 @@
-var mnemonic = "steel cat grant era august skill erase cupboard camera pattern prize pet";
+var mnemonic = "use practice subject still laundry work false cigar ensure aerobic dog soccer";

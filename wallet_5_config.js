@@ -1,1 +1,1 @@
-var mnemonic = "move keen kite wealth decide vocal fortune motor shiver science afraid vacant";
+var mnemonic = "affair glare initial absent fiscal another plate purse wire rapid scheme test";

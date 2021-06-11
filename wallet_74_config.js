@@ -1,1 +1,1 @@
-var mnemonic = "april rebel hood shallow ginger between alter grace glide bulb emerge fresh";
+var mnemonic = "wedding service poet leisure devote vault acquire purse gasp dumb area circle";

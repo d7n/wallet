@@ -1,1 +1,1 @@
-var mnemonic = "acoustic oven lift fetch recycle field park bone moment sketch void dirt";
+var mnemonic = "reject march tongue unhappy edit abuse quarter element hungry wise gloom beauty";

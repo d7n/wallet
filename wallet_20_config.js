@@ -1,1 +1,1 @@
-var mnemonic = "yellow sell carry tomato vessel naive differ trigger clock settle crumble meat";
+var mnemonic = "mail admit oblige ready myth area head option symptom random abstract ensure";

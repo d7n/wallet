@@ -1,1 +1,1 @@
-var mnemonic = "surface argue section dream pair truly vital village trust cover steel put";
+var mnemonic = "glow possible avocado bonus laundry foam balcony brown tonight web vote tiny";

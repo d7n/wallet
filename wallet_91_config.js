@@ -1,1 +1,1 @@
-var mnemonic = "divide dad pudding immense merry hobby sleep cash give casual media bench";
+var mnemonic = "noodle shoot melt shoulder spot blush flame ride control mass calm path";

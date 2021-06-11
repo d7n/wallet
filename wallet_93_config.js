@@ -1,1 +1,1 @@
-var mnemonic = "novel humble glow wage pact number improve sketch flight floor lottery rail";
+var mnemonic = "super cloud ugly orphan raccoon glass occur emotion life fatigue crane slab";

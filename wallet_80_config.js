@@ -1,1 +1,1 @@
-var mnemonic = "clerk faint obscure cluster sun ripple dismiss suspect latin cloth road toast";
+var mnemonic = "machine around carbon tank foil truck put apology catalog battle supreme word";

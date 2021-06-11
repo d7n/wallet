@@ -1,1 +1,1 @@
-var mnemonic = "crawl useless input motor piece act message text lumber cactus wood obvious";
+var mnemonic = "world immune deer cannon innocent bleak multiply energy insect burger kidney involve";

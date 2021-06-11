@@ -1,1 +1,1 @@
-var mnemonic = "usage spend bone urban hard survey target diet oil surface brisk tower";
+var mnemonic = "metal spin tennis actress island load capable history ring oxygen arrive rifle";

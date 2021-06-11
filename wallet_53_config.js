@@ -1,1 +1,1 @@
-var mnemonic = "citizen under frog panic later goat nuclear ridge noodle final charge maximum";
+var mnemonic = "clump gas title federal funny pulp drip baby situate find join expire";

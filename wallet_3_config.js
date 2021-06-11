@@ -1,1 +1,1 @@
-var mnemonic = "safe rescue away federal steel cash gasp runway price tool into impulse";
+var mnemonic = "ask whip risk cake claim kangaroo myth wave turn true summer awkward";

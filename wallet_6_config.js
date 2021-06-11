@@ -1,1 +1,1 @@
-var mnemonic = "curtain zoo provide make turn plate pair height method daring range bless";
+var mnemonic = "market negative year nice engage hedgehog modify dry spring rule orange tunnel";

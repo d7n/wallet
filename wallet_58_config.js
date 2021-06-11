@@ -1,1 +1,1 @@
-var mnemonic = "bridge group blind thank level afford remind lecture junior inner lounge sketch";
+var mnemonic = "surface rotate pig space ill artwork trial like mechanic season else clay";

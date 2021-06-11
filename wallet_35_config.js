@@ -1,1 +1,1 @@
-var mnemonic = "candy response gown myself chuckle assault forum liquid derive interest picture actress";
+var mnemonic = "skull vocal believe occur helmet text post symptom column very metal lesson";

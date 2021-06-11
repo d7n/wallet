@@ -1,1 +1,1 @@
-var mnemonic = "airport outer fatigue web meadow vacant garage bargain spin human thank immune";
+var mnemonic = "nephew man boost labor small escape display jaguar mother metal frequent between";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza toddler quit define helmet raccoon sight smoke state assist frog attract";
+var mnemonic = "found adult brick service flower brother reunion rally silly want suffer wash";

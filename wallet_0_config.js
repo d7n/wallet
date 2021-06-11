@@ -1,1 +1,1 @@
-var mnemonic = "occur stadium ordinary young tongue debate elevator medal salad basket enjoy virtual";
+var mnemonic = "guess april clump speak bomb prize jeans absorb hand basic phone priority";

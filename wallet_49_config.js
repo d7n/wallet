@@ -1,1 +1,1 @@
-var mnemonic = "gown record rather indicate useful phrase picture color version play west vintage";
+var mnemonic = "nuclear blind industry monster endless involve width question catalog token drum wild";

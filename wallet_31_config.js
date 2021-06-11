@@ -1,1 +1,1 @@
-var mnemonic = "link dose gate aim fluid trick liberty now endorse great panel meat";
+var mnemonic = "merry swing junk drill usual deliver nice change anxiety ability fuel oil";

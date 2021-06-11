@@ -1,1 +1,1 @@
-var mnemonic = "disorder title glue canyon anchor above taxi settle trend salt spoon intact";
+var mnemonic = "bullet sniff detect wrist reduce forest search large flight mouse mirror icon";

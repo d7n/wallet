@@ -1,1 +1,1 @@
-var mnemonic = "able lift barely bonus knock there motion begin abuse nut wait soda";
+var mnemonic = "license area inspire concert bless chunk path doll orange this couple exclude";

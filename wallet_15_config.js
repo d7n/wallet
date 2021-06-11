@@ -1,1 +1,1 @@
-var mnemonic = "guide poverty column peasant matter goat cabin quote trip run tourist cool";
+var mnemonic = "fly wrong motion castle pulse urge symbol total antenna truck mosquito elegant";

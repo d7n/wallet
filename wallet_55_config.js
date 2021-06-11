@@ -1,1 +1,1 @@
-var mnemonic = "joy hand six payment echo clump kid joy thank group morning era";
+var mnemonic = "debate ordinary gate castle angry word stem inhale brother smart under drama";

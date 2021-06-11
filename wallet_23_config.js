@@ -1,1 +1,1 @@
-var mnemonic = "anchor dad race profit blanket gossip cupboard sense lucky disease receive point";
+var mnemonic = "inhale badge cost wrap depend income assist carry marble depth security quick";

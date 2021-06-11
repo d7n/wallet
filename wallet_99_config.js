@@ -1,1 +1,1 @@
-var mnemonic = "stomach fee educate cycle used shoot tissue system noble visit north logic";
+var mnemonic = "insect pencil keep erode lunar power melody visual donor mad meat mushroom";

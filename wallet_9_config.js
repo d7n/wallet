@@ -1,1 +1,1 @@
-var mnemonic = "sleep alien cream comfort erosion flavor trigger job travel carry finger leopard";
+var mnemonic = "program quantum silk orchard normal escape mobile evoke monitor album differ citizen";

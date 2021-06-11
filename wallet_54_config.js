@@ -1,1 +1,1 @@
-var mnemonic = "public team crazy elite inner list say grass rely flee burst butter";
+var mnemonic = "increase amazing shoe ship erase glue raise west vendor transfer divorce trick";

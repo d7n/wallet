@@ -1,1 +1,1 @@
-var mnemonic = "venue skull tribe aspect oval infant olympic donor plug icon country will";
+var mnemonic = "people donor another wear action predict estate picnic slide ridge confirm venture";

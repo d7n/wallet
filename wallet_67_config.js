@@ -1,1 +1,1 @@
-var mnemonic = "sick tongue heart collect okay spray coast lounge solar exclude frown gesture";
+var mnemonic = "source ask else allow poem invest tenant outer sort all wink key";

@@ -1,1 +1,1 @@
-var mnemonic = "brain slab debris voyage symptom various service combine trend tuition noise forum";
+var mnemonic = "path thrive kingdom glance comic sight basket table empty chronic fatigue lesson";

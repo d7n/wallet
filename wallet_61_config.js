@@ -1,1 +1,1 @@
-var mnemonic = "credit hawk volcano pair rabbit security jazz capable kite subject jump addict";
+var mnemonic = "grape upgrade riot drop guitar rather glue coast board genuine toe autumn";

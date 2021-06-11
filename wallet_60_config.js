@@ -1,1 +1,1 @@
-var mnemonic = "people garment turn either upset cruise essay coral dutch despair safe mother";
+var mnemonic = "dilemma canvas either math combine loyal alone remember ranch ten motion undo";

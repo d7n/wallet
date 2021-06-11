@@ -1,1 +1,1 @@
-var mnemonic = "chapter six cigar degree check mosquito since divide receive tired fiction inspire";
+var mnemonic = "burger neither rough crouch merge shove robust bleak vessel vessel caution zero";

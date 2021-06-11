@@ -1,1 +1,1 @@
-var mnemonic = "penalty uphold job great cancel insect tide throw grape unfold citizen morning";
+var mnemonic = "barely convince mention please say alter mechanic draft ordinary dentist cloud vast";

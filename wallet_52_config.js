@@ -1,1 +1,1 @@
-var mnemonic = "tape base gallery clip tackle ticket banner menu shove only hybrid away";
+var mnemonic = "still deputy school priority inform current cancel cry lucky fold august coyote";

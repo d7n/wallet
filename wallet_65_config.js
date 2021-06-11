@@ -1,1 +1,1 @@
-var mnemonic = "disease nuclear rail trophy morning master ocean piece identify wrap list swap";
+var mnemonic = "process kind trophy loud school drama limit ozone peanut case math drill";

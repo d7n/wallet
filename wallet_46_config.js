@@ -1,1 +1,1 @@
-var mnemonic = "find cream spin burden meadow amused minute brave index daughter slow apart";
+var mnemonic = "install hair uniform today certain danger defy flavor urban december document quiz";

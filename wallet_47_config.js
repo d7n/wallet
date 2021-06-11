@@ -1,1 +1,1 @@
-var mnemonic = "pond reason issue mirror amused valid arch stamp antenna potato hat rubber";
+var mnemonic = "moral twice weekend ancient vacant piano wreck brother sauce taste because knock";

@@ -1,1 +1,1 @@
-var mnemonic = "slot control lawn seed body okay able pen spirit other forest bike";
+var mnemonic = "little patch run punch reflect village cat olympic sun confirm barrel fury";

@@ -1,1 +1,1 @@
-var mnemonic = "follow royal library goat weird april simple kick lounge slight rebuild solar";
+var mnemonic = "miracle casino public correct destroy hard carpet fury method mixture orphan tonight";

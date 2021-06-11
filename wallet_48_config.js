@@ -1,1 +1,1 @@
-var mnemonic = "find muscle tribe cart mandate remember multiply amazing script fragile large empty";
+var mnemonic = "when region six setup hotel culture wage settle innocent fitness tragic stay";

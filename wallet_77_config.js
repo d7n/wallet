@@ -1,1 +1,1 @@
-var mnemonic = "slice shift differ state pass symbol enforce blame wedding mention wing diary";
+var mnemonic = "first device code issue release old cycle lift doctor laundry equal hedgehog";

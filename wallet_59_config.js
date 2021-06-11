@@ -1,1 +1,1 @@
-var mnemonic = "few joke good donate cradle body evidence negative invest noble robust lake";
+var mnemonic = "trim over come begin wide wash bubble violin physical dinosaur donate small";

@@ -1,1 +1,1 @@
-var mnemonic = "draw kick mask sorry problem razor close daughter rose industry sure scale";
+var mnemonic = "useless artwork connect badge tribe blame boring essay satisfy couple music october";

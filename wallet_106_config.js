@@ -1,1 +1,1 @@
-var mnemonic = "leopard pluck effort frozen double ring forest during ankle weekend injury kiss";
+var mnemonic = "retire come wait stay eight depend trial rookie leader muffin solution general";

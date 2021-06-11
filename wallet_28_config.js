@@ -1,1 +1,1 @@
-var mnemonic = "rail cloud wealth hill portion place easily swap stairs pumpkin canyon cargo";
+var mnemonic = "nuclear crisp wasp degree maximum critic crouch cruel width flip vendor pigeon";

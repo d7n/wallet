@@ -1,1 +1,1 @@
-var mnemonic = "repair aunt sad north brain eagle tourist fury smile husband video sausage";
+var mnemonic = "split insane object rain pond blind exact job vapor shrug hockey latin";

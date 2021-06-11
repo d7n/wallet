@@ -1,1 +1,1 @@
-var mnemonic = "fan indoor solve flock uphold fun remove eagle you lecture peasant solar";
+var mnemonic = "spawn net fine clever castle radio term culture blur desert fossil kiwi";

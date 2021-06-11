@@ -1,1 +1,1 @@
-var mnemonic = "custom shuffle frost quote rapid point bundle push north topple squeeze opera";
+var mnemonic = "expand joy chronic live theme crime decline page when purchase drip horn";

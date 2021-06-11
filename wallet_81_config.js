@@ -1,1 +1,1 @@
-var mnemonic = "layer because latin flee need lake fault rhythm that wheat initial ship";
+var mnemonic = "recycle lock meat empty wheel evoke divorce ivory mixed praise ahead exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "pass tape bachelor feature airport pipe plug coil march state oblige window";
+var mnemonic = "chronic exist square lazy basic sport virtual base post cage oven enough";

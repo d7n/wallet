@@ -1,1 +1,1 @@
-var mnemonic = "door scheme long design festival spell toward pipe army lamp oxygen lawn";
+var mnemonic = "liar pride craft soldier oppose two mouse large present safe scan around";

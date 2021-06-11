@@ -1,1 +1,1 @@
-var mnemonic = "type world spice total anger ramp select riot thing cattle grace pencil";
+var mnemonic = "blanket engine shadow finish aerobic pear bottom oyster hamster spring child proud";

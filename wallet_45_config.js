@@ -1,1 +1,1 @@
-var mnemonic = "judge start galaxy swim twist gaze infant emerge buyer praise life table";
+var mnemonic = "spoon quote ancient leopard man month pioneer success smoke buddy manage eagle";

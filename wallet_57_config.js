@@ -1,1 +1,1 @@
-var mnemonic = "parade review mask want miss roast test lamp farm three solid agree";
+var mnemonic = "audit ranch auction poverty bottom replace sick pitch faith dinosaur midnight lake";

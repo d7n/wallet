@@ -1,1 +1,1 @@
-var mnemonic = "decorate address jazz coil opinion picture glide census wrap dune steel circle";
+var mnemonic = "patient pioneer cherry exotic kit trap midnight exercise chronic ginger change try";

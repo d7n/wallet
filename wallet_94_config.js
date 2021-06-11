@@ -1,1 +1,1 @@
-var mnemonic = "odor airport similar bottom awkward thrive tilt card choose city boss piece";
+var mnemonic = "solution valve vessel nurse people know require repair faint estate anxiety stage";

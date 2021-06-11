@@ -1,1 +1,1 @@
-var mnemonic = "furnace then left belt rely forward zone ritual furnace admit thought mom";
+var mnemonic = "mango problem move melody false title early pattern lunch license evolve phone";

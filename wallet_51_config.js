@@ -1,1 +1,1 @@
-var mnemonic = "silver position fatigue identify slender key amateur north olive prefer sketch typical";
+var mnemonic = "steak jungle animal injury reflect road gossip region cable pave park corn";

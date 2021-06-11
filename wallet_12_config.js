@@ -1,1 +1,1 @@
-var mnemonic = "sustain stable hunt front shield ankle roof satisfy quote label ladder thumb";
+var mnemonic = "yellow thunder banana error draw inmate humor winner clog item naive common";

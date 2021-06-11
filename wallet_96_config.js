@@ -1,1 +1,1 @@
-var mnemonic = "any phone mass sentence glue boy guard skull grow uniform jaguar century";
+var mnemonic = "measure obscure dream lens price rude plate palm million decorate mutual issue";

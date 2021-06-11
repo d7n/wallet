@@ -1,1 +1,1 @@
-var mnemonic = "long boy lyrics select magic prefer program flower violin want nest pepper";
+var mnemonic = "camp action snack crater topple poem belt reopen deer clean potato endless";
