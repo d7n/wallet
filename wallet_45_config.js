@@ -1,1 +1,1 @@
-var mnemonic = "patch refuse impact crash silly kangaroo supply relax fatal pencil clinic timber";
+var mnemonic = "human wheel outside zebra nest protect shoulder motor decline extra wolf rail";

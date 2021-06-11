@@ -1,1 +1,1 @@
-var mnemonic = "planet lottery can waste glimpse siren toilet ask magnet sail miss flame";
+var mnemonic = "spy add rapid slow this auction electric lonely vibrant secret beauty unveil";

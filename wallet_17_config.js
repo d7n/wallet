@@ -1,1 +1,1 @@
-var mnemonic = "juice they fossil deal certain illness inch door expand imitate wise brown";
+var mnemonic = "milk hospital vocal soon bid metal distance captain stumble copy december hybrid";

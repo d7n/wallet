@@ -1,1 +1,1 @@
-var mnemonic = "measure gun bulk food deny lunch festival tiger prepare genre ordinary cancel";
+var mnemonic = "mimic night vendor wide sound emerge extra gasp solar husband civil asthma";

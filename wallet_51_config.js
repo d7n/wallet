@@ -1,1 +1,1 @@
-var mnemonic = "vital outer copper merry cover special phone approve motion expose business kid";
+var mnemonic = "parrot wrong middle family mirror knock swap dad figure over arena quote";

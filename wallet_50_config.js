@@ -1,1 +1,1 @@
-var mnemonic = "surface same cross young garage burst orbit essence paddle october alcohol book";
+var mnemonic = "zoo table close asset brown bomb repair snake gallery neglect occur course";

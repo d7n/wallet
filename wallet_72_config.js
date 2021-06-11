@@ -1,1 +1,1 @@
-var mnemonic = "angle fork stadium sunny battle clump have genuine horn deputy fix combine";
+var mnemonic = "wolf filter feature screen guard time client caution thrive wrestle pioneer royal";

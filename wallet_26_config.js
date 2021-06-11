@@ -1,1 +1,1 @@
-var mnemonic = "brain portion isolate render orphan inherit recipe mask tonight whale mother occur";
+var mnemonic = "spend throw endless like oak congress monitor must sea monkey because tuna";

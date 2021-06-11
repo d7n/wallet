@@ -1,1 +1,1 @@
-var mnemonic = "focus speak cabbage actress push dragon remove sand maze fossil victory squirrel";
+var mnemonic = "aspect maple mansion glide anxiety modify bench bicycle joke book update kangaroo";

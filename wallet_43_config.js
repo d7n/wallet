@@ -1,1 +1,1 @@
-var mnemonic = "render pool movie later case elevator allow embark blur caution rival candy";
+var mnemonic = "tumble picture capable hand sing hurry swamp sunny adult trip capable chalk";

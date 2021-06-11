@@ -1,1 +1,1 @@
-var mnemonic = "equip kangaroo catalog drink sign bus logic jeans abuse immune legend garden";
+var mnemonic = "field later cash wise display weird scene harbor equip table negative forward";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust coast moment consider engine become ugly rescue flush dirt mask theory";
+var mnemonic = "diesel opinion suspect twice limit identify hockey dynamic orchard reform smoke float";

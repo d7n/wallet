@@ -1,1 +1,1 @@
-var mnemonic = "bulk turn inform exist midnight detect worth question ceiling weasel spider develop";
+var mnemonic = "gather rug child abandon develop cliff broccoli palace husband chase lizard suspect";

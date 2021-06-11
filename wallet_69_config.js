@@ -1,1 +1,1 @@
-var mnemonic = "aware trust sniff magnet afraid digital breeze boring family lumber weekend often";
+var mnemonic = "vicious flight garage gorilla arm share humble cluster wink main burden wolf";

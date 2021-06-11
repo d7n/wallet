@@ -1,1 +1,1 @@
-var mnemonic = "bacon brother much smart secret tank debris again agent warm three wrap";
+var mnemonic = "cost assault define cigar brisk host weekend essay family gossip easy peasant";

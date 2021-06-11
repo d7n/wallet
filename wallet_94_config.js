@@ -1,1 +1,1 @@
-var mnemonic = "record harbor arrange month mountain album lift sense blood route toddler soft";
+var mnemonic = "tell elder equal silk check melt token attitude palm size dirt treat";

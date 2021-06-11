@@ -1,1 +1,1 @@
-var mnemonic = "slice injury stage image employ sponsor portion enroll castle apple april middle";
+var mnemonic = "oil material empty shove trumpet arrive hamster deliver man abandon remove brand";

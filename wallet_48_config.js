@@ -1,1 +1,1 @@
-var mnemonic = "liberty perfect velvet blanket transfer great betray night program front movie ankle";
+var mnemonic = "maple lady omit almost over huge away shine asset modify seed skill";

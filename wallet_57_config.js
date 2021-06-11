@@ -1,1 +1,1 @@
-var mnemonic = "evoke price gossip east into transfer lady actor actor expire verify dose";
+var mnemonic = "rubber pretty purity supply oyster fetch estate clog carbon stool letter umbrella";

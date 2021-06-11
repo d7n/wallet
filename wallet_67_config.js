@@ -1,1 +1,1 @@
-var mnemonic = "spoil buddy decide double grunt grief guitar must prize prepare amateur bone";
+var mnemonic = "machine mango involve drink knife warfare south athlete adjust senior avocado invite";

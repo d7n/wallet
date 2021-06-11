@@ -1,1 +1,1 @@
-var mnemonic = "enough whale switch lift typical rebel tennis assume dolphin fortune modify stairs";
+var mnemonic = "tattoo rich drama random illness trial anxiety best secret galaxy thing travel";

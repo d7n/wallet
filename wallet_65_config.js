@@ -1,1 +1,1 @@
-var mnemonic = "salute smart vivid vanish enter flock lesson unknown miracle blossom say room";
+var mnemonic = "banana display address audit reopen source crew citizen vacuum expire vicious violin";

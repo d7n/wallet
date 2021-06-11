@@ -1,1 +1,1 @@
-var mnemonic = "toilet pride earth still weapon vendor rate ski foil rely topic shoulder";
+var mnemonic = "orchard advance fetch kingdom video female torch lion sport dice park pledge";

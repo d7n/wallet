@@ -1,1 +1,1 @@
-var mnemonic = "remove tag announce entire risk chair increase engage rural amount pipe final";
+var mnemonic = "barely key vanish kiss artefact bid hood argue kingdom scatter they liberty";

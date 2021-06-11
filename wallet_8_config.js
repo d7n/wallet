@@ -1,1 +1,1 @@
-var mnemonic = "destroy raise orange weird hover time attract symptom inside sausage apple battle";
+var mnemonic = "crane merge brick elbow clown lesson hood sick next enjoy gift globe";

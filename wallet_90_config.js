@@ -1,1 +1,1 @@
-var mnemonic = "clay beyond flip sign answer family armor cause season fancy kit conduct";
+var mnemonic = "grape equip quiz shove jazz stage illegal prepare deal autumn shop color";

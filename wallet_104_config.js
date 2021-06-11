@@ -1,1 +1,1 @@
-var mnemonic = "boil rebel follow want pool peasant follow initial kiss laundry man lunch";
+var mnemonic = "fitness save peanut warm theme learn tourist issue wrestle peace student scissors";

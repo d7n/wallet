@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow pair luggage again mango hard collect letter agent cycle diesel series";
+var mnemonic = "sun general van crazy grief elbow rocket embrace again one crazy typical";

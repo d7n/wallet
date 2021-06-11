@@ -1,1 +1,1 @@
-var mnemonic = "reflect dynamic license sausage attack topple safe smooth obtain claim answer hurt";
+var mnemonic = "invite shed credit choice satisfy subway salad naive slab idea lion vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty breeze dream pretty napkin comic smoke motor tissue grit remove wise";
+var mnemonic = "crash silk wise repeat filter hold rival wonder crush ticket flavor stable";

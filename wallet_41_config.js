@@ -1,1 +1,1 @@
-var mnemonic = "mountain eager coast eagle cage drink behind decorate extra verify two oven";
+var mnemonic = "mistake cable curtain swap define shrug fly cross labor dignity bronze market";

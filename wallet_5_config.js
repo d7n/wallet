@@ -1,1 +1,1 @@
-var mnemonic = "onion benefit gravity faith penalty margin fury chief fade enlist patient bean";
+var mnemonic = "flip stool damage universe embrace manage wine expect ice siege midnight force";

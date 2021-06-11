@@ -1,1 +1,1 @@
-var mnemonic = "faint grow come ski coffee shell home creek prison cigar nuclear blind";
+var mnemonic = "say intact assault crystal loop bulk nurse duty crisp almost convince increase";

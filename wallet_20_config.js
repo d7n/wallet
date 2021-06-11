@@ -1,1 +1,1 @@
-var mnemonic = "level excite angry subject luggage vague elite flee element book crime rare";
+var mnemonic = "mechanic clerk mechanic lamp trade youth practice amount grant purity rifle mind";

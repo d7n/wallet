@@ -1,1 +1,1 @@
-var mnemonic = "panic tray jeans chimney deal potato despair antique sort leader tackle check";
+var mnemonic = "culture hundred mosquito celery soon echo cause imitate brick mandate fiber eight";

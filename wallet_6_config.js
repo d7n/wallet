@@ -1,1 +1,1 @@
-var mnemonic = "tongue bottom vehicle awkward there maze physical cigar detail ceiling guitar piece";
+var mnemonic = "hold grain member eternal custom cover night shove option nose unable blood";

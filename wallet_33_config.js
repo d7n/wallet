@@ -1,1 +1,1 @@
-var mnemonic = "derive rhythm safe order exact glove oak brush evidence minute pizza play";
+var mnemonic = "metal awkward high chat science tonight tilt security rain fat rhythm salon";

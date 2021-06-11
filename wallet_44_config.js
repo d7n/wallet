@@ -1,1 +1,1 @@
-var mnemonic = "boss board blossom loyal velvet alone spread rose adjust mouse giant armor";
+var mnemonic = "heart nominee elevator envelope dust omit rough child noise wrong weird trouble";

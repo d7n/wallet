@@ -1,1 +1,1 @@
-var mnemonic = "angle little lion blossom sudden rival way lunch reward indicate victory media";
+var mnemonic = "execute inquiry federal hill forward apple jelly sea afraid danger soap image";

@@ -1,1 +1,1 @@
-var mnemonic = "battle output torch entry canoe half fix congress because sick orange danger";
+var mnemonic = "bunker clump table disorder panther hair soul mammal stool stamp below suggest";

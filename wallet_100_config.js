@@ -1,1 +1,1 @@
-var mnemonic = "chimney lend blind trade satoshi aim ahead wreck famous coin vault female";
+var mnemonic = "leave attack sponsor coach adjust rifle useless enforce genuine balcony what witness";

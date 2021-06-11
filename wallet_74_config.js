@@ -1,1 +1,1 @@
-var mnemonic = "flat cricket unique cotton hub festival video bright huge physical blood winter";
+var mnemonic = "spoon into camp disorder rail release fitness cook consider force joy need";

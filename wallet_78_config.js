@@ -1,1 +1,1 @@
-var mnemonic = "anger safe decorate crumble truck nice romance novel eight awake pattern obscure";
+var mnemonic = "slogan chimney omit filter special south hidden kid resemble shine rain endless";

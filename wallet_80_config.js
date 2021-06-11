@@ -1,1 +1,1 @@
-var mnemonic = "install ten panther angry wire measure ramp bone sheriff detect essence pencil";
+var mnemonic = "test abstract any worth phrase option job crisp fish rent wrap cube";

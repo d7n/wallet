@@ -1,1 +1,1 @@
-var mnemonic = "stay devote image renew pill tackle clown earth run cushion rose turtle";
+var mnemonic = "kite scheme foot zebra hamster behind remind merry two demise resemble afraid";

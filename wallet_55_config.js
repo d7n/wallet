@@ -1,1 +1,1 @@
-var mnemonic = "extra beef cannon vast major express race unique replace include describe census";
+var mnemonic = "foster avocado element focus setup plunge prison tissue bread body across imitate";

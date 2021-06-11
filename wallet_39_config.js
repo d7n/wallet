@@ -1,1 +1,1 @@
-var mnemonic = "holiday spread hazard shine bulk forum room trophy switch loyal peasant bicycle";
+var mnemonic = "obvious security ivory magnet pull open torch alley mix patch chef cart";

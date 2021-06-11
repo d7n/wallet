@@ -1,1 +1,1 @@
-var mnemonic = "sell ask fever exchange success nerve cover lucky drama cement half tree";
+var mnemonic = "card child icon consider regret mass list garage index desk dynamic zero";

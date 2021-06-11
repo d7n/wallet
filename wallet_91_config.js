@@ -1,1 +1,1 @@
-var mnemonic = "toy define boil gift success dry robust lesson rescue blouse drop arena";
+var mnemonic = "oven demise spin sunset cement benefit film poem viable tomato head test";

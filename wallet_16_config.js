@@ -1,1 +1,1 @@
-var mnemonic = "guess slogan dutch student remain feed fiction ritual raw melt stone seven";
+var mnemonic = "journey burst fault fog destroy shell rice click novel truth super ask";

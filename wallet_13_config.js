@@ -1,1 +1,1 @@
-var mnemonic = "sentence during future forest estate rifle toilet lecture shuffle egg view rare";
+var mnemonic = "please rich grab bright dog cabbage double climb shield census swift scout";

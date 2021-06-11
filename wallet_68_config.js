@@ -1,1 +1,1 @@
-var mnemonic = "equip people voyage blame talent gift use illegal note eager iron pony";
+var mnemonic = "stumble dirt month viable blur chalk arrive antenna basic torch rebel garment";

@@ -1,1 +1,1 @@
-var mnemonic = "badge dentist eagle lady vehicle salad pioneer client door roast cash whisper";
+var mnemonic = "raven oxygen kiss east apple cool duty flee friend broccoli scorpion shield";

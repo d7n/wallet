@@ -1,1 +1,1 @@
-var mnemonic = "verify success ramp clog theory strategy raise initial shadow sunny will setup";
+var mnemonic = "pioneer learn cricket fish elbow three core assault ignore effort essence island";

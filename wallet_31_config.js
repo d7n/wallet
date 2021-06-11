@@ -1,1 +1,1 @@
-var mnemonic = "attract draft glass column churn grain potato satisfy blood movie thumb boil";
+var mnemonic = "wine harbor vanish ginger lonely attract virtual sample enjoy key tribe plug";

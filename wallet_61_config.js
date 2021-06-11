@@ -1,1 +1,1 @@
-var mnemonic = "sadness help brain turn index legend left choice loop federal rubber fever";
+var mnemonic = "way puppy item radio valid version dry gasp chapter radar parent pelican";

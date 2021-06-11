@@ -1,1 +1,1 @@
-var mnemonic = "time cable dawn liar expect describe athlete six swim daughter lobster gate";
+var mnemonic = "essence movie test punch feed repair game permit spin faculty shield fury";

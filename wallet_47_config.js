@@ -1,1 +1,1 @@
-var mnemonic = "judge final unique nut order suggest glass pink aware drum discover twin";
+var mnemonic = "strong repeat dutch vacuum gym urge vintage cross vague fine slight wear";

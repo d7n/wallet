@@ -1,1 +1,1 @@
-var mnemonic = "museum open regret smooth worth vibrant inherit famous measure juice finger toss";
+var mnemonic = "away extend bridge analyst similar faint average pluck purchase surge beach banner";

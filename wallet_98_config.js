@@ -1,1 +1,1 @@
-var mnemonic = "bid cement practice picnic festival midnight believe surprise install ghost balance trust";
+var mnemonic = "bachelor exotic circle sphere mad file sorry minor purpose squeeze garbage extra";

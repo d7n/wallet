@@ -1,1 +1,1 @@
-var mnemonic = "layer foot economy end minute want float abandon arm faculty raise hidden";
+var mnemonic = "friend cheese canoe unveil ride often suit combine swim holiday balance defy";

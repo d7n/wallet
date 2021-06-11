@@ -1,1 +1,1 @@
-var mnemonic = "truly funny combine trip stable enforce two joke humor pet attack because";
+var mnemonic = "knife only chaos silk congress crystal surround public purchase choose crush risk";

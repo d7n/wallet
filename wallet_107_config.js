@@ -1,1 +1,1 @@
-var mnemonic = "head payment word spoil web pipe sibling muscle easily make vacant evolve";
+var mnemonic = "always question embody assist example forum priority phone impact universe castle van";

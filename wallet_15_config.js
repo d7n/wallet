@@ -1,1 +1,1 @@
-var mnemonic = "slow kitchen addict volume range outdoor ginger exercise aware select flame space";
+var mnemonic = "chunk feel goat gather submit rifle cancel industry unfair rate tooth wool";

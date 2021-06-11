@@ -1,1 +1,1 @@
-var mnemonic = "sell tired ticket dilemma unaware praise noodle clarify skate cable miss tomorrow";
+var mnemonic = "also repair boy brain minute mammal renew hand ramp tilt replace cry";

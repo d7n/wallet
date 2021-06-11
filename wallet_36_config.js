@@ -1,1 +1,1 @@
-var mnemonic = "pool submit evil vivid barrel shoulder rate exotic cook favorite strategy present";
+var mnemonic = "parade shoe salon avoid art purpose color olive next loop license float";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion pilot essence swear diesel reward weather what injury beyond quit release";
+var mnemonic = "slice wise dynamic inherit flee grocery bamboo clean sad cargo pony cloth";

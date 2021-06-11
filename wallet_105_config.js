@@ -1,1 +1,1 @@
-var mnemonic = "client one lift either hub letter mandate dolphin female rely blush scorpion";
+var mnemonic = "wife medal rug onion image sport false stumble loan tag reform fiscal";

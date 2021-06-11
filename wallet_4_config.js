@@ -1,1 +1,1 @@
-var mnemonic = "tip cool hold trend hurt stamp filter laundry toast giggle bunker must";
+var mnemonic = "vote concert giggle indicate lecture topic length little level devote sorry style";

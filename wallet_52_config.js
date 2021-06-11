@@ -1,1 +1,1 @@
-var mnemonic = "excess solar valve involve state enable post vocal oxygen sniff step broken";
+var mnemonic = "parent rate oblige hen bulk label sphere inside include clown aware spread";

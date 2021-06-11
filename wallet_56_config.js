@@ -1,1 +1,1 @@
-var mnemonic = "solution color range first decade tray chat worth force noble tackle champion";
+var mnemonic = "verb torch attack artwork glide private story valley mean family finish skull";

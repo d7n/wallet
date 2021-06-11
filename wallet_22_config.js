@@ -1,1 +1,1 @@
-var mnemonic = "tag much target regular base absent raw razor civil fame voyage undo";
+var mnemonic = "home describe dignity south fire protect organ toast east night stamp turn";

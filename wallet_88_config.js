@@ -1,1 +1,1 @@
-var mnemonic = "drive giggle capable indoor grow learn soft debate solar purse cute animal";
+var mnemonic = "error common pony fringe jacket quarter invite guess brisk search away faith";

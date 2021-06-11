@@ -1,1 +1,1 @@
-var mnemonic = "mixed negative small drift drum recall aisle plunge purpose weather join stomach";
+var mnemonic = "garden guide crisp used exclude rib banana conduct appear song page pottery";

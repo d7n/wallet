@@ -1,1 +1,1 @@
-var mnemonic = "unhappy slide furnace cart yellow primary trust trend sustain spray cherry orient";
+var mnemonic = "grow light helmet fly page auction student popular corn turkey history gaze";

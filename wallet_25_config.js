@@ -1,1 +1,1 @@
-var mnemonic = "muscle unable indicate maze load mind pipe unit gift mammal shallow empower";
+var mnemonic = "total collect benefit dentist moment galaxy end betray flat address wheat moment";

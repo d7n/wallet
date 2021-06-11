@@ -1,1 +1,1 @@
-var mnemonic = "time loop wrap boring crew ignore morning frog output banner embrace people";
+var mnemonic = "glare satisfy silver clip carbon gadget dutch gloom mention employ define connect";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce enjoy tuition average rocket live spawn turn choose unfair chunk village";
+var mnemonic = "vessel harbor near achieve around toward rib figure vibrant service grunt follow";

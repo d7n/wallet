@@ -1,1 +1,1 @@
-var mnemonic = "stereo skate ski capable mixed supply album expect hold bridge coral second";
+var mnemonic = "harvest pony upon present siege ghost romance reopen rocket drive twice mandate";

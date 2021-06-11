@@ -1,1 +1,1 @@
-var mnemonic = "clutch mouse gentle whip mass umbrella return identify runway mouse concert burst";
+var mnemonic = "swing sister comic nation regret dismiss blood try divide pupil million frozen";

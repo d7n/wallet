@@ -1,1 +1,1 @@
-var mnemonic = "flee vast stamp unfair gadget busy brown dust remove scale book diamond";
+var mnemonic = "pet maximum lunch basic edit crime genre observe razor dance impact alone";

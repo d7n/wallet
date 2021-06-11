@@ -1,1 +1,1 @@
-var mnemonic = "swim myth buffalo assume correct level flash neck twice glove solution siege";
+var mnemonic = "emerge beef stamp lock dial rent margin jaguar sudden script nation spy";

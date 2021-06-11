@@ -1,1 +1,1 @@
-var mnemonic = "end bulk firm token ecology predict upgrade grape throw vote burden biology";
+var mnemonic = "hood now pyramid aerobic unique moon praise fish crack cat carry essay";

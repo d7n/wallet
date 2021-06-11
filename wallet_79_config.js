@@ -1,1 +1,1 @@
-var mnemonic = "hundred prepare long love health light online muscle nut drift long general";
+var mnemonic = "rate timber trigger boy naive shallow goddess muffin tragic eternal urge damage";

@@ -1,1 +1,1 @@
-var mnemonic = "expose essay wool snap empty pumpkin teach kind potato refuse wealth shift";
+var mnemonic = "around type boat retreat damage away long light wolf depth corn swift";

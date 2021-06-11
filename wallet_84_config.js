@@ -1,1 +1,1 @@
-var mnemonic = "print kitten ethics uphold aunt clap tank switch hard elder jaguar fun";
+var mnemonic = "west payment idle pizza cable fossil erosion boat mushroom teach position draw";

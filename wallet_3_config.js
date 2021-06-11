@@ -1,1 +1,1 @@
-var mnemonic = "advance shoulder grid magic attack grocery make illness solution soda issue element";
+var mnemonic = "urban cinnamon develop team banana lawn segment laptop clap magnet edit include";

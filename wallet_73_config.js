@@ -1,1 +1,1 @@
-var mnemonic = "report panic battle action borrow hospital dutch wasp grocery arrow tattoo river";
+var mnemonic = "brush tattoo lend jump voyage burst fox hundred amazing erosion document alone";

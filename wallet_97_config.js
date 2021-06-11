@@ -1,1 +1,1 @@
-var mnemonic = "property dune hobby sorry sell elite exhibit join moment traffic fashion royal";
+var mnemonic = "firm flag aim actor often issue sphere slim meat example visual unit";

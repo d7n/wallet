@@ -1,1 +1,1 @@
-var mnemonic = "shed decrease wide shuffle doll wish emotion consider riot pink width soul";
+var mnemonic = "frame era smile rail pave outside renew achieve explain shop walnut rice";

@@ -1,1 +1,1 @@
-var mnemonic = "leave artefact payment people mammal flush winner fix gift brick option total";
+var mnemonic = "alien letter leader response actual above detect bar energy member danger riot";

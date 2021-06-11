@@ -1,1 +1,1 @@
-var mnemonic = "amount that retire exchange feed option pet globe fade banner occur fame";
+var mnemonic = "close before cash sudden model dragon game subway glory soda tonight robust";

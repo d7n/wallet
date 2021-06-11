@@ -1,1 +1,1 @@
-var mnemonic = "picture absent cricket assume blade rug unique body flock ugly achieve ketchup";
+var mnemonic = "margin hole useless purpose unfair script east brush forum humble language float";

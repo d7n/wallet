@@ -1,1 +1,1 @@
-var mnemonic = "know welcome involve buffalo since share more bus level ritual real inhale";
+var mnemonic = "front dwarf walk gravity pole aim distance pear potato place insect shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "scene when stem cool virus leader raccoon pulp blur beauty combine juice";
+var mnemonic = "correct guess wine skirt wrong lawn primary stamp flag that pond speed";

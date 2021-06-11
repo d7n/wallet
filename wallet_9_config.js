@@ -1,1 +1,1 @@
-var mnemonic = "clump dinner wide excite group orphan razor plastic balance dry toy balcony";
+var mnemonic = "miracle elevator famous chronic ecology fortune fame state gap close pet bubble";

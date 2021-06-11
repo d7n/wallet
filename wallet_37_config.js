@@ -1,1 +1,1 @@
-var mnemonic = "alley call agree seat worth subject wedding asthma cigar one stuff cement";
+var mnemonic = "oval phone shadow drift journey snake boil hedgehog thunder movie swap drift";

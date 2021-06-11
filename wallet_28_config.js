@@ -1,1 +1,1 @@
-var mnemonic = "soldier giraffe autumn autumn pause mosquito adapt wonder punch romance lock host";
+var mnemonic = "write eagle swim fee hollow warfare mom life gun rebuild common degree";

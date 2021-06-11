@@ -1,1 +1,1 @@
-var mnemonic = "roast parade convince dune reopen flag capital entire winner grape pond vicious";
+var mnemonic = "proof useless domain script demise audit cancel pistol unit online beach shed";
