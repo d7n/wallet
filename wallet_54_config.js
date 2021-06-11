@@ -1,1 +1,1 @@
-var mnemonic = "remove carpet tired tree iron detect crouch jelly galaxy inflict birth moon";
+var mnemonic = "brick equip wing quote sauce mansion fuel fringe ladder wear earn goddess";

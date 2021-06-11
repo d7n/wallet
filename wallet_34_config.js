@@ -1,1 +1,1 @@
-var mnemonic = "weather funny foil loyal heavy rib sleep more drive nation brave little";
+var mnemonic = "boil welcome tonight pledge club diagram knock fabric bread dish virus catch";

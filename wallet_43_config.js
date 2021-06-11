@@ -1,1 +1,1 @@
-var mnemonic = "sense retire dash alien night cash kind firm balance hedgehog dog cargo";
+var mnemonic = "regular junk keep drip miracle erosion deal north ready slim model coast";

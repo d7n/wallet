@@ -1,1 +1,1 @@
-var mnemonic = "antenna spice turn century goddess citizen tiny elephant close garden parent culture";
+var mnemonic = "ethics drastic auction thought loop hockey dignity govern type skill side imitate";

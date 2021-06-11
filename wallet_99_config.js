@@ -1,1 +1,1 @@
-var mnemonic = "real smile fluid ridge despair limb peasant beach state depart grace degree";
+var mnemonic = "mercy daughter ice rebel swallow domain outdoor tube answer diary cheese rare";

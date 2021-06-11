@@ -1,1 +1,1 @@
-var mnemonic = "group resemble true result sad air enemy lounge gym vanish voyage era";
+var mnemonic = "cliff casino attack ripple clinic crucial tumble skin wait royal green breeze";

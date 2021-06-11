@@ -1,1 +1,1 @@
-var mnemonic = "agent together unaware step disease tattoo awesome attack grit expect panel when";
+var mnemonic = "crack inquiry hollow bulk distance ocean copy audit pupil you marble junk";

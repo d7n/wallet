@@ -1,1 +1,1 @@
-var mnemonic = "odor skill donor pair biology strategy museum choice grid hunt exact turn";
+var mnemonic = "team suffer silk movie dose scan gasp noble bubble buddy pool switch";

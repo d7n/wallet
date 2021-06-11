@@ -1,1 +1,1 @@
-var mnemonic = "such state start nature fever pear course walk bachelor design fatal tragic";
+var mnemonic = "park noble travel lizard post heart hood donate notice drill deliver crane";

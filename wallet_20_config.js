@@ -1,1 +1,1 @@
-var mnemonic = "stay salute fog become caution inflict green please seven eyebrow thought attract";
+var mnemonic = "about alter slab great obvious feed hope butter laptop shy toilet people";

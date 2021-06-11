@@ -1,1 +1,1 @@
-var mnemonic = "rocket limit wealth glare honey grid mad salt correct swear hub science";
+var mnemonic = "inch normal where idea doll poem soap shuffle course sister close element";

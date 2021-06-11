@@ -1,1 +1,1 @@
-var mnemonic = "artefact injury history viable faint animal vocal obtain monitor mirror catalog emotion";
+var mnemonic = "long join garden green edge over learn mixture deputy flight vote merry";

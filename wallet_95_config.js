@@ -1,1 +1,1 @@
-var mnemonic = "expect soccer action artefact control patch rabbit mistake saddle tissue sibling jazz";
+var mnemonic = "mail derive guide case group key mention rich ozone grant lounge half";

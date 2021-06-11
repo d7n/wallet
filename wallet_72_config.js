@@ -1,1 +1,1 @@
-var mnemonic = "fish arm utility evil over run nothing rail indoor car desert inmate";
+var mnemonic = "around volume slogan secret depart badge basket host produce climb that choice";

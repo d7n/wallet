@@ -1,1 +1,1 @@
-var mnemonic = "crucial outside novel radar ignore traffic day mushroom joy major leave timber";
+var mnemonic = "pledge acoustic insect path peace carpet elder wink eyebrow ecology raccoon find";

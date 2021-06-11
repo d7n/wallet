@@ -1,1 +1,1 @@
-var mnemonic = "naive owner midnight number cable pulse shield brother note assume tide return";
+var mnemonic = "hamster trigger rookie between earth series venue various goddess join food segment";

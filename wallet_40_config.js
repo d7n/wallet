@@ -1,1 +1,1 @@
-var mnemonic = "board trick high flight duty rice announce collect poet first normal rebuild";
+var mnemonic = "senior doctor issue claim venue glory injury arena choose deliver legend cable";

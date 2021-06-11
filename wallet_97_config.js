@@ -1,1 +1,1 @@
-var mnemonic = "apple foster sphere reunion country adjust drip rack action gather shield good";
+var mnemonic = "seek awkward black cram used ocean fox tragic mix crop day draw";

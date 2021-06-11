@@ -1,1 +1,1 @@
-var mnemonic = "able arrive keen alley wrong want company once jealous pipe master panther";
+var mnemonic = "stay ripple outside awful weather inch decrease quiz cabbage nurse use ocean";

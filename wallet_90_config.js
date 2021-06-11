@@ -1,1 +1,1 @@
-var mnemonic = "reject tank oyster burger claim cheap earn business coconut before title faculty";
+var mnemonic = "satisfy improve legal clock dynamic climb once remove roof blanket window invest";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect idle make borrow smoke shy fun shiver trap farm deputy warfare";
+var mnemonic = "blood guitar target glory make winter reduce miss silly direct actress history";

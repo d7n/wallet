@@ -1,1 +1,1 @@
-var mnemonic = "wife depend actress response sick wheat average pilot crucial wire remember wealth";
+var mnemonic = "boat observe mask cross company test sustain empty battle bench announce fiber";

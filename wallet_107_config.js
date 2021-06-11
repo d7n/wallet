@@ -1,1 +1,1 @@
-var mnemonic = "hamster path require blur chase skill garage denial round job cry oval";
+var mnemonic = "pledge harvest stone cargo east liberty scene alpha warrior rack wedding scorpion";

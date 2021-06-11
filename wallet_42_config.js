@@ -1,1 +1,1 @@
-var mnemonic = "step wish february slot woman multiply phone kiwi water replace model stem";
+var mnemonic = "purse leg survey divide album inmate kiss dilemma adjust around season current";

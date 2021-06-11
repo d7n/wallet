@@ -1,1 +1,1 @@
-var mnemonic = "hand live pretty adjust acid chapter casual point dance swear breeze ridge";
+var mnemonic = "whale gadget fragile sketch furnace cash deer note vital van whip wolf";

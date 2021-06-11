@@ -1,1 +1,1 @@
-var mnemonic = "craft creek radio vague violin rice staff stable jelly shield birth unit";
+var mnemonic = "elbow purchase top fortune bread shadow quit hen brief horn tool still";

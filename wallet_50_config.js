@@ -1,1 +1,1 @@
-var mnemonic = "hair cute lava tag mule resource machine clown pool cat device crash";
+var mnemonic = "brain quality pipe bind recipe plug staff hen way tackle attitude vapor";

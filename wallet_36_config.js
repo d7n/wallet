@@ -1,1 +1,1 @@
-var mnemonic = "galaxy ozone robot fun slab surface shell senior satisfy guilt real galaxy";
+var mnemonic = "negative early barely gasp around fury glance melt velvet case strategy topic";

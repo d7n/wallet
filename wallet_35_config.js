@@ -1,1 +1,1 @@
-var mnemonic = "egg roof fun dance inmate advice cost climb law forest tonight palm";
+var mnemonic = "tilt amount trap local floor rabbit sweet cotton evoke bread wasp oven";

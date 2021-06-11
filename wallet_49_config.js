@@ -1,1 +1,1 @@
-var mnemonic = "subway obscure reward waste polar dish fatal siren vote sudden approve cover";
+var mnemonic = "slide night fan razor tooth dentist sunset must combine misery small orphan";

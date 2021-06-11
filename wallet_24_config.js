@@ -1,1 +1,1 @@
-var mnemonic = "fiscal endorse cigar van sponsor level where wreck add bone only idle";
+var mnemonic = "cotton tonight bridge leopard song tape surge shallow input large song rebel";

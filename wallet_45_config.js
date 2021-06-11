@@ -1,1 +1,1 @@
-var mnemonic = "used faint drive ugly news bar resist animal divert deposit nominee barely";
+var mnemonic = "scorpion obvious buffalo excuse crouch great awake kit settle you orange jaguar";

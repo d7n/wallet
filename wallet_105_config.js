@@ -1,1 +1,1 @@
-var mnemonic = "gym leg frost pact coyote weasel ecology pluck creek zone slim wet";
+var mnemonic = "athlete marble attend affair pipe avoid soap alpha mask dirt skate clog";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle brother phone churn rocket situate hole auction essay mammal zoo open";
+var mnemonic = "pave cupboard bachelor honey ill exact super dog toe february shock vibrant";

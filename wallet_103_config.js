@@ -1,1 +1,1 @@
-var mnemonic = "middle diagram middle turn diet chest tennis layer nothing talk butter depart";
+var mnemonic = "length mirror debris dune use mad funny blade auto metal grid access";

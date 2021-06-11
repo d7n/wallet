@@ -1,1 +1,1 @@
-var mnemonic = "chair multiply normal couple syrup excess maze dwarf hint upgrade bronze stand";
+var mnemonic = "smoke else figure organ shine work head cricket mean stock exit cradle";

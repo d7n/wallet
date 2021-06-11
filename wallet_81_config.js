@@ -1,1 +1,1 @@
-var mnemonic = "cradle book split ordinary garbage pride risk devote electric occur carbon story";
+var mnemonic = "belt pumpkin fly enhance pupil over punch space sentence chunk squeeze junior";

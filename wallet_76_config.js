@@ -1,1 +1,1 @@
-var mnemonic = "useful coconut use away step bar top enrich flame enforce dismiss silly";
+var mnemonic = "trick display bubble promote female cause ecology group laugh soap struggle sentence";

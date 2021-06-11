@@ -1,1 +1,1 @@
-var mnemonic = "today ivory employ extend rice domain seek pool seat metal bridge worry";
+var mnemonic = "basic follow napkin tree two finish jump sound never spend virus rubber";

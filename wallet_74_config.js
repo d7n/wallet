@@ -1,1 +1,1 @@
-var mnemonic = "clap attract blind festival february item dove stool fruit blanket fitness aerobic";
+var mnemonic = "type monitor transfer note donate repair foot base baby oppose exile decorate";

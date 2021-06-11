@@ -1,1 +1,1 @@
-var mnemonic = "flip cargo symbol hawk panel rate stock negative seek worth barrel hood";
+var mnemonic = "lonely air box host meat include define forest almost section like nuclear";

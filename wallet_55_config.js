@@ -1,1 +1,1 @@
-var mnemonic = "clutch urban rabbit online horse yellow sad solar rotate iron math endorse";
+var mnemonic = "theory release hire wing dish smart crowd system welcome notable gauge bulb";

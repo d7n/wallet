@@ -1,1 +1,1 @@
-var mnemonic = "attitude tired mushroom category excuse future version blossom wise present smoke good";
+var mnemonic = "table mad tomorrow okay fruit park toilet unaware lady caution prison canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "remain off assault entire primary rib candy govern false deal purse bachelor";
+var mnemonic = "human color garlic isolate river setup present card shadow exercise broccoli spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "ten quote cancel barely nice dune crystal grace banana into dog jump";
+var mnemonic = "trap arena match vapor fuel scare salt ski deputy bubble goat dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra loan explain web trumpet crime bind section exclude bundle document fame";
+var mnemonic = "mixed gorilla frost traffic discover arctic social emerge thank tongue arm juice";

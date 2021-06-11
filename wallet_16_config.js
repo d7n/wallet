@@ -1,1 +1,1 @@
-var mnemonic = "globe soup ten ball oven purchase settle marine unusual chuckle sail frog";
+var mnemonic = "question know try swift canoe vote refuse present luxury goose feed gaze";

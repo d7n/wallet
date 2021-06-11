@@ -1,1 +1,1 @@
-var mnemonic = "room more injury tomato regular damp rhythm glow pole imitate focus oval";
+var mnemonic = "vacuum artist pizza evoke like analyst push step glare remain twist exchange";

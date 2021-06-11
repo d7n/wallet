@@ -1,1 +1,1 @@
-var mnemonic = "bacon aunt ahead fresh belt kite food best six foam derive asset";
+var mnemonic = "icon where wreck cave pumpkin pattern artefact lift ordinary budget decorate ski";

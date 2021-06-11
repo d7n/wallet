@@ -1,1 +1,1 @@
-var mnemonic = "retire valid soda tomato fury pave tumble morning spread decide secret kidney";
+var mnemonic = "front midnight honey erosion baby swamp curve easy hockey possible under radio";

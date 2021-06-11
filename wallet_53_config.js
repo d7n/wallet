@@ -1,1 +1,1 @@
-var mnemonic = "harsh maple once blind retreat enable tonight when viable palm story clay";
+var mnemonic = "shoe nature live soft express hybrid silly alter caught atom tobacco install";

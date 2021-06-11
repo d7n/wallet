@@ -1,1 +1,1 @@
-var mnemonic = "shiver view replace start game gravity help plate lesson sell asset ozone";
+var mnemonic = "token early save album drink rocket job scatter purity knock tide fox";

@@ -1,1 +1,1 @@
-var mnemonic = "snow unique practice adjust circle decide various ability quick tail local change";
+var mnemonic = "problem labor review crowd retreat silk eight life cube calm tank zero";

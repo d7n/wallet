@@ -1,1 +1,1 @@
-var mnemonic = "cancel learn fall embark powder month finish race area blame possible since";
+var mnemonic = "harvest float seven scissors inner salmon mean maximum mutual model monkey company";

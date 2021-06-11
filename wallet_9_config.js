@@ -1,1 +1,1 @@
-var mnemonic = "prefer disagree net secret celery asset remember chest elephant laugh churn whip";
+var mnemonic = "near voyage either teach strategy brisk search drive chase glass defy cook";

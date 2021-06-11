@@ -1,1 +1,1 @@
-var mnemonic = "kick moon young noise same quiz friend vital field lesson thrive fog";
+var mnemonic = "wet rescue defense onion walnut drill long scale dismiss plate youth sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel crystal since name actor keep reunion castle recall prosper luxury mask";
+var mnemonic = "shy omit shuffle laundry repeat leave spot space card fresh master fitness";

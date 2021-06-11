@@ -1,1 +1,1 @@
-var mnemonic = "inner fruit dignity flight call walnut blue stuff strong claw stomach cricket";
+var mnemonic = "renew modify tonight analyst broken course length stock sting surge peasant torch";

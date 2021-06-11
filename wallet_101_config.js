@@ -1,1 +1,1 @@
-var mnemonic = "artist share uncover decrease rubber roast position define equip lumber hood village";
+var mnemonic = "myth range property ring glass soccer plastic layer glide hungry ketchup marriage";

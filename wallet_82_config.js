@@ -1,1 +1,1 @@
-var mnemonic = "blade expire simple crisp laptop hobby easily inspire city chunk clarify want";
+var mnemonic = "ramp employ need heart slide fabric target movie wise eternal cause steel";

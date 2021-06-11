@@ -1,1 +1,1 @@
-var mnemonic = "demise bless loud sell scorpion cluster recipe unlock panther use donate antenna";
+var mnemonic = "wage void accuse dizzy mercy exhibit advice devote exchange giraffe discover relax";

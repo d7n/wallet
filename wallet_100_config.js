@@ -1,1 +1,1 @@
-var mnemonic = "tennis trap final elephant razor ordinary creek good hen follow fame network";
+var mnemonic = "rail street report journey hidden crucial joke tray mutual barely thought universe";

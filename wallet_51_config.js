@@ -1,1 +1,1 @@
-var mnemonic = "still merge abstract behind remove together have energy spring tag latin tube";
+var mnemonic = "siren embody front month this zone increase rely garden acquire stool drift";

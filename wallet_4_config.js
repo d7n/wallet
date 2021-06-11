@@ -1,1 +1,1 @@
-var mnemonic = "glad love cheap behind resemble coil hundred mixed vacant horn garage negative";
+var mnemonic = "impact tired catch actor blame kingdom silk drastic truly chronic sure loop";

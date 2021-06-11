@@ -1,1 +1,1 @@
-var mnemonic = "render mutual copper begin rabbit cotton simple retreat flat kick pitch wise";
+var mnemonic = "chronic forest term kitchen anger common never hat wise since sugar repair";

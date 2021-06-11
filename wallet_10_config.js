@@ -1,1 +1,1 @@
-var mnemonic = "offer volume enrich below genre syrup cushion airport service mistake sniff dynamic";
+var mnemonic = "phrase caution regret issue vague elephant saddle lecture violin tree math leisure";

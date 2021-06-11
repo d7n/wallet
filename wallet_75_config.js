@@ -1,1 +1,1 @@
-var mnemonic = "female boost science lizard science broken diesel skirt lottery health junior thrive";
+var mnemonic = "aware mask utility disease naive melt lens dutch inform mind visual chicken";

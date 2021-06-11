@@ -1,1 +1,1 @@
-var mnemonic = "build laptop enroll dinner aim nest anger section tuition lumber cereal jacket";
+var mnemonic = "match cabbage hollow patient enforce island common angry subject betray grunt equip";

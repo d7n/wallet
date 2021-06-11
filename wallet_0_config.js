@@ -1,1 +1,1 @@
-var mnemonic = "patrol lobster huge kingdom track sister loop spend seminar candy box village";
+var mnemonic = "bonus unknown horse laundry slow acoustic immune permit egg bulk indoor beauty";

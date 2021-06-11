@@ -1,1 +1,1 @@
-var mnemonic = "swarm outdoor banner leave together chaos fossil patient neither local isolate loan";
+var mnemonic = "festival search inquiry tone caution negative divorce laptop arena beach salad normal";

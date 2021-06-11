@@ -1,1 +1,1 @@
-var mnemonic = "rocket text pact lonely hybrid chapter parent holiday report version oppose rocket";
+var mnemonic = "urban sudden omit stay inhale junior measure runway credit charge strong task";

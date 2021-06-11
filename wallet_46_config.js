@@ -1,1 +1,1 @@
-var mnemonic = "feed audit unit seat hover claim alcohol neither banner ozone long edit";
+var mnemonic = "apart stereo build vacant code drastic crater side path mechanic repeat pitch";

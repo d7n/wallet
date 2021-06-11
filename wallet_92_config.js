@@ -1,1 +1,1 @@
-var mnemonic = "tragic estate spare case problem shallow echo monster spring critic habit jeans";
+var mnemonic = "silk crop pass twelve give snow marine knee basket cube key usual";

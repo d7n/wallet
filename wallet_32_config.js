@@ -1,1 +1,1 @@
-var mnemonic = "spike tackle bacon dust ladder recycle smooth trash edit future fine luggage";
+var mnemonic = "exit garden sudden comic actress wink tunnel slow siege chest wall patch";

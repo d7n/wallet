@@ -1,1 +1,1 @@
-var mnemonic = "lava endless run garden three kit brief extend alcohol border neutral model";
+var mnemonic = "noodle what problem chuckle armed return spread umbrella share intact chair improve";

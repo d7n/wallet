@@ -1,1 +1,1 @@
-var mnemonic = "rally hill obey mushroom inquiry salmon visa weather latin civil toast sample";
+var mnemonic = "crowd ice clay recipe dynamic long kiss august main total shrug fade";

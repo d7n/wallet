@@ -1,1 +1,1 @@
-var mnemonic = "wall sign hobby pair possible planet clock tooth ball then foot pill";
+var mnemonic = "pledge click return dismiss dress trend stereo since traffic super file history";

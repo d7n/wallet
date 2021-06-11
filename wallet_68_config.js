@@ -1,1 +1,1 @@
-var mnemonic = "unable pistol key video typical junior correct gather sea brave legend knock";
+var mnemonic = "sand hat enroll exclude waste keen announce emerge toast rubber sort indicate";

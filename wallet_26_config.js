@@ -1,1 +1,1 @@
-var mnemonic = "window hospital lady ill winner coin grief elegant mango fan belt swallow";
+var mnemonic = "among myself olympic you mention civil seven carry chair squeeze typical sugar";

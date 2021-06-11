@@ -1,1 +1,1 @@
-var mnemonic = "shuffle eight aspect aisle finger spice wild grant mandate pioneer kick symptom";
+var mnemonic = "brother proof hat awesome alpha air key situate fog traffic sudden gather";

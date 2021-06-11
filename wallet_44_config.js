@@ -1,1 +1,1 @@
-var mnemonic = "gallery aerobic ginger praise orchard curious banana behind hungry burger recycle ranch";
+var mnemonic = "only crisp scrap hover essence proof trap detail easy convince brisk float";

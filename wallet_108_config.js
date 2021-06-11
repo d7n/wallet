@@ -1,1 +1,1 @@
-var mnemonic = "box copy obtain law ocean miracle mesh ill keen leaf ribbon analyst";
+var mnemonic = "main hundred hero roast awful method yard live amateur pitch joy romance";

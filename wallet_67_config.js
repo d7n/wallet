@@ -1,1 +1,1 @@
-var mnemonic = "oil charge because comfort ceiling oil hole pen divorce gap estate pumpkin";
+var mnemonic = "arctic shoot regular cruise desert before merry desert mixture cinnamon crouch stamp";

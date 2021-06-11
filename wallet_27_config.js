@@ -1,1 +1,1 @@
-var mnemonic = "prosper wait seek crisp quit blur ignore muscle hotel usage link gloom";
+var mnemonic = "drip angle chef cage true coffee tumble what weather identify exhaust reflect";

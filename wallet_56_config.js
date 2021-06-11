@@ -1,1 +1,1 @@
-var mnemonic = "miracle happy decorate hair victory relax zone virtual rely pulp favorite clip";
+var mnemonic = "tribe alley hair weather cable mad erase soda appear ugly crowd mesh";

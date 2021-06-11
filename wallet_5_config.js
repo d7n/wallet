@@ -1,1 +1,1 @@
-var mnemonic = "outdoor senior hospital draw kit behind sing original idle weasel cluster cloud";
+var mnemonic = "box icon vanish trick venue pilot chalk shell figure write match pepper";

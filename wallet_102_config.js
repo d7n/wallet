@@ -1,1 +1,1 @@
-var mnemonic = "curtain jeans twelve enrich curtain target island language rhythm vibrant vocal opera";
+var mnemonic = "file crime latin notable still better corn gloom pretty large minute range";

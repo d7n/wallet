@@ -1,1 +1,1 @@
-var mnemonic = "rather coast soup page muffin ridge random earth tunnel fat beef nuclear";
+var mnemonic = "add must scout crack forum crash buffalo slot april knock wire render";
