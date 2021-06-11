@@ -1,1 +1,1 @@
-var mnemonic = "exotic purpose youth swallow insect sketch segment matrix merry grain chase zoo";
+var mnemonic = "notable trash cereal memory guilt tower slender cheese pumpkin knee region sense";

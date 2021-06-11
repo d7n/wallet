@@ -1,1 +1,1 @@
-var mnemonic = "vibrant glue observe cliff truth borrow always congress hair core trash balcony";
+var mnemonic = "fix antique issue aerobic polar play music pool load warrior boat tape";

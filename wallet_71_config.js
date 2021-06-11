@@ -1,1 +1,1 @@
-var mnemonic = "message course crazy sadness invite online polar state benefit peanut keep thunder";
+var mnemonic = "screen alley fall prepare damage victory rack action rather twelve usage foster";

@@ -1,1 +1,1 @@
-var mnemonic = "school giraffe cart dumb ten dumb dream possible fatigue echo possible arrest";
+var mnemonic = "else minimum basic fly minimum waste ski addict spend oil cradle iron";

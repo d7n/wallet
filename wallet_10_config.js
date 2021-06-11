@@ -1,1 +1,1 @@
-var mnemonic = "inhale version fiber puppy arrange wait visa discover marble tape solve uncover";
+var mnemonic = "machine nothing tell token image feel west olive taxi trip juice priority";

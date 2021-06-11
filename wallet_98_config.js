@@ -1,1 +1,1 @@
-var mnemonic = "portion cannon obtain shaft custom panda dwarf trouble decline parrot swap loan";
+var mnemonic = "broken eight canoe wood mechanic invest enemy friend wire orphan rebel food";

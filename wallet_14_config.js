@@ -1,1 +1,1 @@
-var mnemonic = "shoot accuse second build caught silly fence student pistol shock rely guide";
+var mnemonic = "tumble cherry income layer yellow whisper fancy hill smooth ghost average phone";

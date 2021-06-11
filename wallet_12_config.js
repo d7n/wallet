@@ -1,1 +1,1 @@
-var mnemonic = "weather property good stool music update prison wave ugly wash pave client";
+var mnemonic = "session squeeze dolphin private era piano acid dog gap hurt solid crumble";

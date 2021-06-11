@@ -1,1 +1,1 @@
-var mnemonic = "donate tuition list sadness gold device elegant naive winner try weird exclude";
+var mnemonic = "assist depth flash sheriff sting oppose music glance gesture bachelor mirror blanket";

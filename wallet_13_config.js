@@ -1,1 +1,1 @@
-var mnemonic = "sock job rival abstract carry roof spirit ethics ahead praise quiz turn";
+var mnemonic = "ball inject umbrella orange exotic silver silent claim harvest bomb pink tower";

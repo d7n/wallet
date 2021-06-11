@@ -1,1 +1,1 @@
-var mnemonic = "sentence believe adjust poverty disorder kind insane slender govern vapor produce sound";
+var mnemonic = "project parade design cat sock zebra this ice magnet twice install radio";

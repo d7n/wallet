@@ -1,1 +1,1 @@
-var mnemonic = "core innocent screen garbage poem ancient shy road require portion pioneer wave";
+var mnemonic = "carry supply mention domain join barely tumble then anger galaxy meadow size";

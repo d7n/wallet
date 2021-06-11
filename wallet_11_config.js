@@ -1,1 +1,1 @@
-var mnemonic = "town expose obey area enroll vote sustain address visit mean stone elder";
+var mnemonic = "ranch obey sorry grace give antique join cheese own pact steak theme";

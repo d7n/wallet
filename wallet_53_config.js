@@ -1,1 +1,1 @@
-var mnemonic = "make elite belt lecture glow dust stool protect ask title isolate cause";
+var mnemonic = "able book unknown rug foil major test lemon dust property hidden robot";

@@ -1,1 +1,1 @@
-var mnemonic = "mad neck wheat visual umbrella accident length edge exhibit cook pen ghost";
+var mnemonic = "route raccoon ride hockey wisdom trigger soda hip save liquid style remind";

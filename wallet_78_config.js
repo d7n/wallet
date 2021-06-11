@@ -1,1 +1,1 @@
-var mnemonic = "join crash immune find elephant crater term case grace slide club wide";
+var mnemonic = "property victory thought pudding grocery deny enemy number shiver estate regular dignity";

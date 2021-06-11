@@ -1,1 +1,1 @@
-var mnemonic = "derive indicate lazy smile arrow culture face broccoli cheese glow simple street";
+var mnemonic = "shoulder dilemma alley west ask kiss collect robot apart grace hundred hat";

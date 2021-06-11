@@ -1,1 +1,1 @@
-var mnemonic = "mechanic risk genre current update cliff couch lava slab novel hockey flip";
+var mnemonic = "tip inhale sing rookie require veteran alley rebuild excuse left index side";

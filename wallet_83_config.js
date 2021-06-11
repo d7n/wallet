@@ -1,1 +1,1 @@
-var mnemonic = "sure indoor title scorpion scrap funny husband other outdoor tortoise into spice";
+var mnemonic = "runway magic repair grocery mom bone chief blur gap car employ foil";

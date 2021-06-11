@@ -1,1 +1,1 @@
-var mnemonic = "increase vague outer damp lazy explain cliff verify tortoise imitate demand grape";
+var mnemonic = "shrug glory ginger cube time earth just bag olympic mixture attract divorce";

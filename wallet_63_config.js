@@ -1,1 +1,1 @@
-var mnemonic = "ankle favorite victory roast already dynamic arch parent want work mammal ten";
+var mnemonic = "virus soap any debris disease party medal spike trial kite unhappy love";

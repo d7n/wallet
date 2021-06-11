@@ -1,1 +1,1 @@
-var mnemonic = "dutch today inch popular arrive skirt unfair version view country drive jar";
+var mnemonic = "donkey weasel replace that mechanic innocent drive space curve doctor reopen orchard";

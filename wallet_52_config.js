@@ -1,1 +1,1 @@
-var mnemonic = "oven gloom lady axis noise foster sound embody oppose stable primary split";
+var mnemonic = "canal electric spatial poem trust wedding inhale laugh leisure scorpion security snake";

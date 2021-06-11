@@ -1,1 +1,1 @@
-var mnemonic = "harvest mean business surge pony tray salmon exotic circle ten pride sun";
+var mnemonic = "just popular art bulk sauce ecology indicate rescue stable master marine body";

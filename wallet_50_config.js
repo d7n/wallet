@@ -1,1 +1,1 @@
-var mnemonic = "again junk sweet army emotion sting visit void arch lumber knife jewel";
+var mnemonic = "confirm bonus stand mad logic churn tobacco similar army memory thing rebel";

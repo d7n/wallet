@@ -1,1 +1,1 @@
-var mnemonic = "turtle endless height affair route pear tired mix easy talent rubber trash";
+var mnemonic = "phone valid exist phone sell scene loud pilot tomato elevator adapt next";

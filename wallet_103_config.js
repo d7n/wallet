@@ -1,1 +1,1 @@
-var mnemonic = "hen cupboard arrow depend uniform punch kick acid garbage enrich mushroom bulk";
+var mnemonic = "security outside write else pen dust lab wait bus hedgehog return blade";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot clown gorilla rally party album page gown exile belt frequent film";
+var mnemonic = "trim master riot wife ugly kind mesh display spirit recipe taxi broccoli";

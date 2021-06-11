@@ -1,1 +1,1 @@
-var mnemonic = "occur abstract point close swap echo dutch glass cross summer blade rubber";
+var mnemonic = "warm keep august wrap impact unique original gadget history search water shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry ready crash puzzle call metal beyond dice tattoo survey water outside";
+var mnemonic = "wire million wagon shock control metal opinion gorilla love close legend season";

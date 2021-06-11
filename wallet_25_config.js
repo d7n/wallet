@@ -1,1 +1,1 @@
-var mnemonic = "knock exile purity width series define hunt shrug organ dish gun model";
+var mnemonic = "example nut law whale jacket bean solar punch engage guess cabbage super";

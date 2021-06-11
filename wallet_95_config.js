@@ -1,1 +1,1 @@
-var mnemonic = "ritual aware grape blush avocado mansion between lemon conduct lumber okay sight";
+var mnemonic = "box radio tobacco visual nest skull law tail inflict pupil scale screen";

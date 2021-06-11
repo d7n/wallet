@@ -1,1 +1,1 @@
-var mnemonic = "rebel carbon split unveil plunge age uncle anchor display town pulp outdoor";
+var mnemonic = "student inquiry approve above this elite winter feed wasp swim alley wasp";

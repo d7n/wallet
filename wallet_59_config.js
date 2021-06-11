@@ -1,1 +1,1 @@
-var mnemonic = "glory grocery sample final language dragon cover follow ill food arena above";
+var mnemonic = "spin vault betray home apology say sweet humble jump fold scorpion segment";

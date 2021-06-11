@@ -1,1 +1,1 @@
-var mnemonic = "gentle upset tenant round piano soap gun strike bench phone knee sand";
+var mnemonic = "invite yard museum youth diesel shine expand word basic pottery adjust merge";

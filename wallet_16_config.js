@@ -1,1 +1,1 @@
-var mnemonic = "outer fatigue maid steel doll retire journey convince pass flush force april";
+var mnemonic = "response report jump sign surge neither usage venture achieve wrap helmet feature";

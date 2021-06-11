@@ -1,1 +1,1 @@
-var mnemonic = "trick trend detect print sword happy scare economy series clog own height";
+var mnemonic = "stock prepare define before name legal spider giggle fix sweet torch year";

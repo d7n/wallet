@@ -1,1 +1,1 @@
-var mnemonic = "recycle youth place term rubber soft soft response foil again whale moment";
+var mnemonic = "airport witness birth jelly asthma giggle beyond entire satoshi equip vacant poverty";

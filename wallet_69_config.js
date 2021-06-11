@@ -1,1 +1,1 @@
-var mnemonic = "cross street tackle fold note wrap hamster second ride cute panda glory";
+var mnemonic = "tragic ethics enrich lounge hello rally basket already laundry abstract romance resource";

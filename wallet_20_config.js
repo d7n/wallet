@@ -1,1 +1,1 @@
-var mnemonic = "fuel action stadium denial clog butter hero afraid soap flag grape sand";
+var mnemonic = "cushion become program room bleak such moral chair arctic baby pencil mystery";

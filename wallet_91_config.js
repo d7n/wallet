@@ -1,1 +1,1 @@
-var mnemonic = "unable silk kangaroo document robot chief scare cube impulse usual defense grace";
+var mnemonic = "agree focus yard rare gain click head assume pole food sample muffin";

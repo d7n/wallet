@@ -1,1 +1,1 @@
-var mnemonic = "art odor sock tooth airport update wine jungle dutch race unknown omit";
+var mnemonic = "unable rack tape boss before episode lend sand sorry cactus light duck";

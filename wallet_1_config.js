@@ -1,1 +1,1 @@
-var mnemonic = "inner wreck guide lava churn industry slight sample finish enemy truth lawsuit";
+var mnemonic = "ethics sock random subway exclude mutual slice print pizza swamp improve lend";

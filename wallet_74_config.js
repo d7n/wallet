@@ -1,1 +1,1 @@
-var mnemonic = "proof speak original chef hand runway fury hen usage arena blush auto";
+var mnemonic = "culture area box height strong lend faculty feed level define much coyote";

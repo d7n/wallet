@@ -1,1 +1,1 @@
-var mnemonic = "panda river assume speak impact empty end target jump theme merit drama";
+var mnemonic = "lesson receive pitch myth ensure enjoy tiger buffalo trend garlic corn guide";

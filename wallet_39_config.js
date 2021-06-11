@@ -1,1 +1,1 @@
-var mnemonic = "file space rebel divert history gesture only potato year gorilla actual child";
+var mnemonic = "office often crane brand fame buffalo title chronic join unable milk scissors";

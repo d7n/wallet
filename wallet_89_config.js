@@ -1,1 +1,1 @@
-var mnemonic = "design library lab inspire marine fall interest drive secret famous squirrel mule";
+var mnemonic = "liquid proud volume ready execute kid zoo element rail obvious kind dismiss";

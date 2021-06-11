@@ -1,1 +1,1 @@
-var mnemonic = "alley apology chalk illegal path kid long pattern dance hour scene account";
+var mnemonic = "raccoon resource client add joke metal best spot citizen fashion steak sword";

@@ -1,1 +1,1 @@
-var mnemonic = "term ten alter anger lunch ribbon current shop street neglect pill vapor";
+var mnemonic = "maximum alpha tackle observe lift smooth open immune vanish now hurry accident";

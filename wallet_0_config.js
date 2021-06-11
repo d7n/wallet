@@ -1,1 +1,1 @@
-var mnemonic = "food camp book original pull catalog rotate field all pigeon success tip";
+var mnemonic = "pepper bottom wave absent certain luggage brown desk morning opinion milk pretty";

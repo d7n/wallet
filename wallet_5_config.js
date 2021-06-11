@@ -1,1 +1,1 @@
-var mnemonic = "roast smile magic ugly image song draw cupboard shove inject brand wear";
+var mnemonic = "tray cattle arrow card cousin ethics across expand plunge fold exercise figure";

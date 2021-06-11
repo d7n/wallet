@@ -1,1 +1,1 @@
-var mnemonic = "habit announce home velvet pipe chimney spray alone wonder intact toward enough";
+var mnemonic = "ordinary practice hungry reunion cave behave tower together plate situate reopen long";

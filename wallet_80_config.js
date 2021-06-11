@@ -1,1 +1,1 @@
-var mnemonic = "post confirm virtual minimum chase midnight live treat inherit exact congress proud";
+var mnemonic = "eager club reopen myself faint help silent police two arena powder meadow";

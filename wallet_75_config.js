@@ -1,1 +1,1 @@
-var mnemonic = "enter candy immune gun over hen situate sugar tortoise shift other parrot";
+var mnemonic = "sample transfer step party wrist network level wrestle theme merit ankle keen";

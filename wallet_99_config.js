@@ -1,1 +1,1 @@
-var mnemonic = "health galaxy submit much member twelve stage strike sort bronze target foster";
+var mnemonic = "capital fury invite sphere dignity issue laugh noise finish arrive thought arch";

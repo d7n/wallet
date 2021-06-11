@@ -1,1 +1,1 @@
-var mnemonic = "word crime blossom rabbit captain mule cup update you swap script company";
+var mnemonic = "gadget motor sort brisk swallow olive filter drama sauce future lottery puppy";

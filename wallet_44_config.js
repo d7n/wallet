@@ -1,1 +1,1 @@
-var mnemonic = "awful report tip mechanic document punch define coach enable people wing popular";
+var mnemonic = "rich injury lunch glance thumb lion mask immense orient patrol tool day";

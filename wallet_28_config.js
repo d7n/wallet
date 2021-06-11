@@ -1,1 +1,1 @@
-var mnemonic = "age great hill grain zone where quit diesel rabbit slender more option";
+var mnemonic = "food slender oxygen claim great ignore prosper noise slush dinner crawl tone";

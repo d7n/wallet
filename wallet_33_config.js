@@ -1,1 +1,1 @@
-var mnemonic = "upper involve correct setup ten public initial blood lonely update pear hobby";
+var mnemonic = "thrive moral insane tomato drill sound office concert coil unlock crew wave";

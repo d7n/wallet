@@ -1,1 +1,1 @@
-var mnemonic = "next depart ostrich wagon warrior destroy exchange margin entry conduct suspect pudding";
+var mnemonic = "island agree wool scrub reject token captain dragon fine ostrich maximum idle";

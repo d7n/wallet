@@ -1,1 +1,1 @@
-var mnemonic = "arch apple spare route case enrich boat spend slot chunk own wrap";
+var mnemonic = "joke wise average bleak sort kitten decide cargo lion knock cattle evidence";

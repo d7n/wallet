@@ -1,1 +1,1 @@
-var mnemonic = "bounce cushion rich reason index senior half fox grocery sibling spirit ketchup";
+var mnemonic = "soon govern keep icon harsh echo priority amateur twelve lyrics long retreat";

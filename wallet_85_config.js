@@ -1,1 +1,1 @@
-var mnemonic = "trim hub lesson anger truly answer chest wonder pluck uphold coconut armor";
+var mnemonic = "index engine video ancient vanish whisper strategy foot embody issue announce deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "cute labor hover voice tenant able worry junk hood ugly hover pioneer";
+var mnemonic = "zoo mule milk expose blood magic side rail perfect extend noodle profit";

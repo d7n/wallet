@@ -1,1 +1,1 @@
-var mnemonic = "write rough churn bid major company tuna joy nest stick fancy inch";
+var mnemonic = "boost three protect year twice hockey transfer success inch because act execute";

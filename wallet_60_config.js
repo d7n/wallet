@@ -1,1 +1,1 @@
-var mnemonic = "release cabbage derive add coconut boat initial menu solar toilet question lumber";
+var mnemonic = "hand today marine defense acoustic guess pole motor document exhaust awful rocket";

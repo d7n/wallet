@@ -1,1 +1,1 @@
-var mnemonic = "coral hole scale win any absent vicious total decorate model kite govern";
+var mnemonic = "pride degree erase candy decline submit siege pink nest range style jelly";

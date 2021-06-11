@@ -1,1 +1,1 @@
-var mnemonic = "kitten border lottery trumpet topple coast wing fancy choice major soul surge";
+var mnemonic = "vacant adult item during ritual clinic version uphold genuine silver tuna pool";

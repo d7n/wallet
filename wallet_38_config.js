@@ -1,1 +1,1 @@
-var mnemonic = "hover never proud board lab know accuse stool salad better name arrest";
+var mnemonic = "decline wing spread trash silly update detect topic humble invite jeans skin";

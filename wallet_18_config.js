@@ -1,1 +1,1 @@
-var mnemonic = "foil recycle boat eye dignity giggle tail dentist mail cause blur exercise";
+var mnemonic = "tennis hurry purity sorry pencil party deer scheme mutual foster type slim";

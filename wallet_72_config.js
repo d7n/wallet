@@ -1,1 +1,1 @@
-var mnemonic = "enroll now noise tenant trend bring raise material era sugar buffalo size";
+var mnemonic = "later confirm verb timber rabbit switch pottery park panda feature arrest obey";

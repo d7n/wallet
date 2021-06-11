@@ -1,1 +1,1 @@
-var mnemonic = "machine mobile prevent auction rifle distance promote hazard gallery curve shove sustain";
+var mnemonic = "that talent quarter weird enroll left extend foam october expose galaxy convince";

@@ -1,1 +1,1 @@
-var mnemonic = "color lift pole episode swear spray impulse pattern oil law canyon whip";
+var mnemonic = "push what swim okay liar flock token scissors kiss observe nature tortoise";

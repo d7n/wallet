@@ -1,1 +1,1 @@
-var mnemonic = "soldier gun squeeze pilot stable retire oak prepare december ancient about inner";
+var mnemonic = "tissue retire seek helmet fashion plate awesome embark library title subway axis";

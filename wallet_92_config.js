@@ -1,1 +1,1 @@
-var mnemonic = "slender erosion diamond pumpkin together dizzy olympic echo double walnut donkey cheap";
+var mnemonic = "october minute tag air asthma sister lizard impose dash library frame step";

@@ -1,1 +1,1 @@
-var mnemonic = "sting cricket hand fatal winter zoo razor must snack attract outside intact";
+var mnemonic = "rate slot language indicate label mechanic tray suffer tone draw memory exhibit";

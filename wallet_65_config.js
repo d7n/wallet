@@ -1,1 +1,1 @@
-var mnemonic = "width figure cancel base author vacant knife sentence disease amused syrup audit";
+var mnemonic = "frost help object brown artefact pause pony two silver coyote fashion play";

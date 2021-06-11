@@ -1,1 +1,1 @@
-var mnemonic = "swamp nerve fade journey crack can lecture violin food exit humor frozen";
+var mnemonic = "consider visit pattern wasp biology lonely gauge north ghost inner symbol alley";

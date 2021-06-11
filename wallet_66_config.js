@@ -1,1 +1,1 @@
-var mnemonic = "essence horror layer online organ slender salon siren taxi enroll surface over";
+var mnemonic = "mixed ginger ball truck loud blossom museum reward glove dinner imitate tackle";

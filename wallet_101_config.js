@@ -1,1 +1,1 @@
-var mnemonic = "short text profit nuclear whisper kiss wine trim become early stick lift";
+var mnemonic = "clerk speak transfer wrap open wealth piano couch brief subway treat motor";

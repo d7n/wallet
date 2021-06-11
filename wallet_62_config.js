@@ -1,1 +1,1 @@
-var mnemonic = "drip jar access snap labor mobile volcano pear minute jeans marriage cannon";
+var mnemonic = "waste pave hire book uphold either cement miss recall electric attract brown";

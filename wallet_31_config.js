@@ -1,1 +1,1 @@
-var mnemonic = "caught seek robot broccoli year caution slam shoe decrease doll cruise ready";
+var mnemonic = "wrap convince enjoy local glance say group ship solve gap rookie lunar";

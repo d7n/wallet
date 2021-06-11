@@ -1,1 +1,1 @@
-var mnemonic = "nice chaos else sure key ginger party inject conduct oxygen harbor naive";
+var mnemonic = "educate intact slender quarter utility pencil rescue arrest pigeon favorite private crowd";

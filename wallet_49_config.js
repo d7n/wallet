@@ -1,1 +1,1 @@
-var mnemonic = "album basket season pipe drift funny tower seed dove accident hotel they";
+var mnemonic = "price marble aware crack retreat boring dizzy still wave jungle private tackle";

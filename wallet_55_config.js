@@ -1,1 +1,1 @@
-var mnemonic = "peanut neglect mobile bring royal purse case unfold monitor sing robot spin";
+var mnemonic = "sibling brave mosquito mother pulp foster swim pattern mirror maze toy scrub";

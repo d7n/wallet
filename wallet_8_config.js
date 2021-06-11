@@ -1,1 +1,1 @@
-var mnemonic = "denial depth involve cross veteran away sign print enjoy debris winner monkey";
+var mnemonic = "cat kid sheriff rally matter latin cruel crisp excuse such area myself";

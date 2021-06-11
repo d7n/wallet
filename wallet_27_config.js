@@ -1,1 +1,1 @@
-var mnemonic = "island fox naive fine symbol gun devote wheel tackle milk possible error";
+var mnemonic = "ball perfect used bone slab pistol memory category behave forget mutual disagree";

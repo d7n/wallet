@@ -1,1 +1,1 @@
-var mnemonic = "vocal cream atom party robot umbrella cool solar enjoy hire half alpha";
+var mnemonic = "dinner economy skull aunt oak list other weird lion repeat sadness fix";

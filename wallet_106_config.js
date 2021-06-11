@@ -1,1 +1,1 @@
-var mnemonic = "unusual lock curve bean faculty vocal home jungle pave fold aware noise";
+var mnemonic = "include upgrade toy joke brave wolf all bulk develop way betray lens";

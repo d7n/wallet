@@ -1,1 +1,1 @@
-var mnemonic = "electric gauge van change actor joy exclude music manage city black luxury";
+var mnemonic = "when vague trick young business cloud ankle omit duty forget wear pet";

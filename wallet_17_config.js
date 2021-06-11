@@ -1,1 +1,1 @@
-var mnemonic = "ordinary history produce clown input enhance adapt dignity message left diary expect";
+var mnemonic = "truly vocal marble south luxury derive network seat fossil impose busy license";

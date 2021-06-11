@@ -1,1 +1,1 @@
-var mnemonic = "upgrade source garage stage nut manual library pulse direct barely mass arctic";
+var mnemonic = "hill glimpse lecture absurd appear action treat ill elegant brown endless captain";

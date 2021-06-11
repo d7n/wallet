@@ -1,1 +1,1 @@
-var mnemonic = "what deputy piano certain try usage flight hire since dilemma fragile target";
+var mnemonic = "dwarf transfer leader noble spread business move attract client energy tip dwarf";

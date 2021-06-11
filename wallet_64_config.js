@@ -1,1 +1,1 @@
-var mnemonic = "three link outside nice peasant cotton sock neck usage helmet peanut bottom";
+var mnemonic = "bind wage bunker spatial ivory spike public civil blue october awake produce";

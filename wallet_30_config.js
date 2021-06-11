@@ -1,1 +1,1 @@
-var mnemonic = "average reject pig output seed auction answer hand volcano bunker guitar brief";
+var mnemonic = "valley blur face luggage cruel rookie follow upper coconut annual trial own";

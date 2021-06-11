@@ -1,1 +1,1 @@
-var mnemonic = "glove dignity script embark interest caution hole phone speak frequent talk piece";
+var mnemonic = "window hockey velvet swap kidney effort churn time august settle sea service";
