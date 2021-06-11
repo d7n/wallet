@@ -1,1 +1,1 @@
-var mnemonic = "length smart hurdle disagree roast exhibit car girl script boat cushion photo";
+var mnemonic = "average various aerobic pear venture process annual evoke torch suit mechanic vast";

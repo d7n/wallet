@@ -1,1 +1,1 @@
-var mnemonic = "kitten stand fringe add pass velvet choose immense film raw fox local";
+var mnemonic = "wisdom question super stove furnace endorse stool input eyebrow swap wear forward";

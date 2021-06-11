@@ -1,1 +1,1 @@
-var mnemonic = "weapon pumpkin silver birth side quit smile author ready attract bicycle miss";
+var mnemonic = "useful obscure grape observe naive fence gift wood rival gauge hip supply";

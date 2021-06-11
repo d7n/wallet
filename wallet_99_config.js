@@ -1,1 +1,1 @@
-var mnemonic = "fee busy bullet give daughter either tuna youth during razor route mom";
+var mnemonic = "plastic one capital put famous awake clown sheriff art lens crisp sight";

@@ -1,1 +1,1 @@
-var mnemonic = "affair bonus light afford inch library hip safe eager again chunk artefact";
+var mnemonic = "velvet omit decline horror quit analyst naive motion effort erase industry around";

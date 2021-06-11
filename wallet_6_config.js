@@ -1,1 +1,1 @@
-var mnemonic = "fire project embark pluck test emerge piano picnic luxury build derive admit";
+var mnemonic = "catalog novel wonder color hungry laptop story left mesh artist exhaust soft";

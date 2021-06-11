@@ -1,1 +1,1 @@
-var mnemonic = "critic almost skill unit step voyage mechanic wife nurse daring project fetch";
+var mnemonic = "robot owner era what morning inquiry mixture weasel know joke federal sister";

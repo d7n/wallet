@@ -1,1 +1,1 @@
-var mnemonic = "post ivory collect wide friend wear update gas celery boy sense spider";
+var mnemonic = "fetch undo heavy reject donkey melt fan enough mutual collect program robust";

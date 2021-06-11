@@ -1,1 +1,1 @@
-var mnemonic = "wasp paddle echo insect slide easily hard over treat blouse glow surround";
+var mnemonic = "canyon vibrant donor weasel wreck junior tool goat critic talent gift tribe";

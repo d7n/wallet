@@ -1,1 +1,1 @@
-var mnemonic = "sleep kiss object mouse waste page emerge army father demise era slight";
+var mnemonic = "orient milk mad venture change material gift market wave retreat walk cheese";

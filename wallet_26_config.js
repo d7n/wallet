@@ -1,1 +1,1 @@
-var mnemonic = "girl blood category empower place swing choose way still retire lady crawl";
+var mnemonic = "mansion inner oil rocket canvas apart joke high dynamic egg later steak";

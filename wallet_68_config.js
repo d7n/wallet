@@ -1,1 +1,1 @@
-var mnemonic = "earth ribbon roof envelope arrest brisk cruise shove armor scorpion nation capable";
+var mnemonic = "rail budget sting erosion symptom path pulp treat utility sun six helmet";

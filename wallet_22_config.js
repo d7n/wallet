@@ -1,1 +1,1 @@
-var mnemonic = "gift soft syrup truly bomb win ecology cement jazz digital chair bone";
+var mnemonic = "grocery special chunk monkey amused shell right fossil elevator always away found";

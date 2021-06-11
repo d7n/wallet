@@ -1,1 +1,1 @@
-var mnemonic = "vintage ramp potato fruit social water kitchen power quote capital size hybrid";
+var mnemonic = "faith jelly sunny tackle client world token remove cupboard upgrade raven remove";

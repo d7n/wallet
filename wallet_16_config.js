@@ -1,1 +1,1 @@
-var mnemonic = "fortune silver casino pill hobby power tourist gossip panic unique lunch casual";
+var mnemonic = "direct street grunt rocket price female amused moon pause sand cereal birth";

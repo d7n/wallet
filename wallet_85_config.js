@@ -1,1 +1,1 @@
-var mnemonic = "crumble this harbor ride undo squirrel scrub wool tell rude dentist cupboard";
+var mnemonic = "blade radio holiday zero chapter learn verb abuse organ clerk better tree";

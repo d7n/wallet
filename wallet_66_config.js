@@ -1,1 +1,1 @@
-var mnemonic = "phone soldier waste label release frequent chapter height nation drift rich collect";
+var mnemonic = "hotel prepare board possible arrange space dice civil midnight useless develop stamp";

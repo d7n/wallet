@@ -1,1 +1,1 @@
-var mnemonic = "door fish enrich bicycle elevator clean dismiss evoke guide oxygen fringe shell";
+var mnemonic = "foil domain kingdom humor image shallow mammal radar universe utility umbrella doctor";

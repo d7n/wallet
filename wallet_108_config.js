@@ -1,1 +1,1 @@
-var mnemonic = "talent cactus attack laundry baby capable bid lyrics reflect tag ready sketch";
+var mnemonic = "century network width music audit planet sword elder tell call private remain";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery fold grab blanket horror giraffe scheme decide frown blame indicate walk";
+var mnemonic = "shoot skull visa gossip excuse field drum wonder join harsh zoo rely";

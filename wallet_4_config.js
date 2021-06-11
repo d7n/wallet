@@ -1,1 +1,1 @@
-var mnemonic = "thank dilemma perfect edge consider monster pizza green cinnamon output install tuition";
+var mnemonic = "tunnel anger stable auto crisp hurdle erupt cancel liar barely case attack";

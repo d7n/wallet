@@ -1,1 +1,1 @@
-var mnemonic = "planet leisure nephew flock syrup plastic saddle oxygen wide surround inhale sorry";
+var mnemonic = "fluid pupil talent need airport language divide tragic start actual dignity silent";

@@ -1,1 +1,1 @@
-var mnemonic = "moon jelly badge repeat mention blanket climb dwarf police list hub aware";
+var mnemonic = "shoe spread story rough turtle pottery edit chimney purpose pluck humble burger";

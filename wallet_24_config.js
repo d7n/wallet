@@ -1,1 +1,1 @@
-var mnemonic = "forum face opinion rude riot flame word foil knock fork lecture scatter";
+var mnemonic = "chief make flat museum news rather hill crack engine purpose slab pretty";

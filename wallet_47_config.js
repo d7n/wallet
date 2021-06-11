@@ -1,1 +1,1 @@
-var mnemonic = "cross minute gallery fiscal fatal unaware bless trick bundle follow what arch";
+var mnemonic = "squeeze report master zone combine dune sample speed fence shy express hammer";

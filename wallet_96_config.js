@@ -1,1 +1,1 @@
-var mnemonic = "hamster company cheap wool risk inside cart employ teach deliver taste fame";
+var mnemonic = "purchase ivory pattern economy please author bean mixed add invest pulp gun";

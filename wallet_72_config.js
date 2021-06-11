@@ -1,1 +1,1 @@
-var mnemonic = "kite anchor wet remove supreme tired grant filter exotic put rail enable";
+var mnemonic = "soccer dynamic gas basket chapter quiz comfort vote snake romance spell involve";

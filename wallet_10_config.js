@@ -1,1 +1,1 @@
-var mnemonic = "proof era abuse vintage salt guess deliver lazy element vibrant jaguar enact";
+var mnemonic = "stock push shoulder canyon seven utility tower infant random pact fragile planet";

@@ -1,1 +1,1 @@
-var mnemonic = "seek fence law cup private neither flight comic upon legal denial funny";
+var mnemonic = "maze credit seminar attack custom arctic hazard kangaroo inner gaze squeeze nurse";

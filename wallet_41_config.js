@@ -1,1 +1,1 @@
-var mnemonic = "chalk coconut plunge glide find post panel marine flip range afraid nut";
+var mnemonic = "govern now split bulk feature total liberty wonder mountain jealous gather load";

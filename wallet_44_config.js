@@ -1,1 +1,1 @@
-var mnemonic = "emotion fragile equip marble season dumb erupt equal nut play diesel soft";
+var mnemonic = "pattern rare tuna wheel casino material pepper resist dad deer want stay";

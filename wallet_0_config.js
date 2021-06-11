@@ -1,1 +1,1 @@
-var mnemonic = "crush clown sorry humble win hurdle fitness giraffe doctor next must cable";
+var mnemonic = "acid dutch coral elephant tortoise certain soon limit inform path hammer marine";

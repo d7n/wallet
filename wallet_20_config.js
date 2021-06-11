@@ -1,1 +1,1 @@
-var mnemonic = "shadow royal gold spin cruise defy duty force dream upset fox dove";
+var mnemonic = "public glove music honey lesson evoke rural credit sound fix scheme true";

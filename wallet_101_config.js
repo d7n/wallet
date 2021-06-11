@@ -1,1 +1,1 @@
-var mnemonic = "wild skirt youth dream similar pride message narrow hospital amazing moral shaft";
+var mnemonic = "cash helmet clean tuna adjust dose hill found secret fruit wide creek";

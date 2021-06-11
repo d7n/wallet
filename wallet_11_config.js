@@ -1,1 +1,1 @@
-var mnemonic = "blur split unique area cotton course behind nation tree trouble brand yard";
+var mnemonic = "bike never gorilla jazz nominee naive cube cliff acid animal match since";

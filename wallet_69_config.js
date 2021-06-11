@@ -1,1 +1,1 @@
-var mnemonic = "shadow veteran lazy elegant swift lazy orbit logic arctic suffer slow advance";
+var mnemonic = "fury moral spare quiz you easily frog divert embrace cargo era great";

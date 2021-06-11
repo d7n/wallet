@@ -1,1 +1,1 @@
-var mnemonic = "nephew clock notice home balcony trumpet velvet loud task prefer sun scissors";
+var mnemonic = "when panic oil book grab trend proud afford news surface title little";

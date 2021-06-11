@@ -1,1 +1,1 @@
-var mnemonic = "hotel garage orbit dish wrap canal repair seek collect orbit large shop";
+var mnemonic = "advance typical check public weapon firm hungry enrich benefit any erosion soup";

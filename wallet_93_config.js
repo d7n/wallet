@@ -1,1 +1,1 @@
-var mnemonic = "rely tomato eager diagram age better rural dress awesome cat find reflect";
+var mnemonic = "water scrub base glimpse occur sell once few raccoon oppose feed act";

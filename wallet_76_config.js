@@ -1,1 +1,1 @@
-var mnemonic = "kite grow mesh swamp congress gown art tell tonight step gift arm";
+var mnemonic = "stereo spatial olive toward chapter penalty list confirm galaxy test noise rapid";

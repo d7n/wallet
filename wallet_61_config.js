@@ -1,1 +1,1 @@
-var mnemonic = "sort convince shaft spin elegant soul vintage month close turtle reduce fabric";
+var mnemonic = "scout opinion spray trap exhaust mad turn notice over city sibling shine";

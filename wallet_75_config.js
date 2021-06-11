@@ -1,1 +1,1 @@
-var mnemonic = "behind liar luxury food royal vapor click news material clown ask hope";
+var mnemonic = "chair file school mom apart bag salt coach basket cliff ketchup quick";

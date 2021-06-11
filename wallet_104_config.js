@@ -1,1 +1,1 @@
-var mnemonic = "horse release buyer easily trial tenant guide rabbit fluid sea nut link";
+var mnemonic = "okay wink lens poverty depend absorb quarter anxiety range oak say benefit";

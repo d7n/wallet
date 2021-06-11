@@ -1,1 +1,1 @@
-var mnemonic = "current dog similar banner twenty symbol picture exit sense return crater web";
+var mnemonic = "slice proof draw ozone ill whip once sign bargain cinnamon jealous hand";

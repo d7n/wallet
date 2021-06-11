@@ -1,1 +1,1 @@
-var mnemonic = "master water illness hunt mail join speak object pattern slender scare speak";
+var mnemonic = "april indicate high forum decrease point estate pave theme stove frequent else";

@@ -1,1 +1,1 @@
-var mnemonic = "body furnace refuse cotton jealous moral weird flock fog first boost now";
+var mnemonic = "point earn settle fox sad antenna guide loyal hurdle portion month actor";

@@ -1,1 +1,1 @@
-var mnemonic = "advance expire joke legend obvious payment genuine veteran sign mammal code notable";
+var mnemonic = "seat vault paper thought arrange group joke artist panel buddy interest multiply";

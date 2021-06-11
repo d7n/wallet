@@ -1,1 +1,1 @@
-var mnemonic = "salmon celery alarm very lion minor excuse asthma foot desk humble six";
+var mnemonic = "receive meat ceiling famous cannon later apology lazy wood teach edit flavor";

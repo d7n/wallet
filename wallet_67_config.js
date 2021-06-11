@@ -1,1 +1,1 @@
-var mnemonic = "fork end winter earth broom student push story tonight stool silent slim";
+var mnemonic = "employ thing pattern outdoor about jaguar subway garment biology twist toe enter";

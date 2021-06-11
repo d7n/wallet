@@ -1,1 +1,1 @@
-var mnemonic = "bracket brain simple aspect mesh flower giant isolate guard horse twist soup";
+var mnemonic = "vacant fringe include put under keen voice duty polar borrow system vicious";

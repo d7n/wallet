@@ -1,1 +1,1 @@
-var mnemonic = "asthma tattoo ghost into forget afford ugly season trouble alert gossip collect";
+var mnemonic = "profit trim typical soda miracle feed brush body motion observe scare adult";

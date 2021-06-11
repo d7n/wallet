@@ -1,1 +1,1 @@
-var mnemonic = "vote useless soap wedding humble skin correct ritual rival goose blood calm";
+var mnemonic = "fragile company ecology enhance above reflect oyster jacket brave detect bone can";

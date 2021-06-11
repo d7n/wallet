@@ -1,1 +1,1 @@
-var mnemonic = "purchase outside puzzle smart cabin okay decorate photo sock load law erase";
+var mnemonic = "robust flash race audit kiwi mandate tent million logic print table tourist";

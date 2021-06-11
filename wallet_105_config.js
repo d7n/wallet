@@ -1,1 +1,1 @@
-var mnemonic = "fury sauce wage clarify arena pledge betray beauty firm spend bind ball";
+var mnemonic = "iron cost skin coach boss change force negative blur room medal news";

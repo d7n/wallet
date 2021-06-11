@@ -1,1 +1,1 @@
-var mnemonic = "couch talent supreme position carbon civil net junior swarm six expose damage";
+var mnemonic = "able total urban audit volume beauty change travel marriage blue inform project";

@@ -1,1 +1,1 @@
-var mnemonic = "response exchange girl floor together sauce april ankle never pyramid mix orchard";
+var mnemonic = "road case speed stool stairs kick noise collect father acid web skate";

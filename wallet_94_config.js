@@ -1,1 +1,1 @@
-var mnemonic = "joke two paper subway young spice youth puzzle furnace dust quick direct";
+var mnemonic = "man race innocent loud awful save immune warrior abstract peasant maple pool";

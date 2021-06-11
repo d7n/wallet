@@ -1,1 +1,1 @@
-var mnemonic = "twin type uniform wagon short pull shrug find boring follow length mushroom";
+var mnemonic = "debris cry afford leaf sting crew crazy body token tourist pizza lend";

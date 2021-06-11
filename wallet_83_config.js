@@ -1,1 +1,1 @@
-var mnemonic = "water river hour hope flower current light deal swim voyage soup benefit";
+var mnemonic = "clap fluid mammal melody very gorilla advice thank know gate broken thumb";

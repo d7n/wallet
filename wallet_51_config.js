@@ -1,1 +1,1 @@
-var mnemonic = "defense crunch tray champion glove elephant vibrant key issue way barely hen";
+var mnemonic = "torch arrange blade book office assault topple panel focus plate gate kid";

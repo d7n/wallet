@@ -1,1 +1,1 @@
-var mnemonic = "perfect antenna grunt soccer frozen figure clean dash chimney asthma fault hundred";
+var mnemonic = "cave life universe stick ripple shrug rabbit august apart end sauce stage";

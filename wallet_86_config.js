@@ -1,1 +1,1 @@
-var mnemonic = "olive menu proud glass grunt push hockey bomb dynamic cattle dirt stumble";
+var mnemonic = "evidence pioneer glass claim hurt injury shadow column leg empower rent question";

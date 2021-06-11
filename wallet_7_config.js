@@ -1,1 +1,1 @@
-var mnemonic = "metal harsh ecology pitch october mechanic motor rabbit under want country clever";
+var mnemonic = "city gentle gasp tired swing dog fiscal notable exercise tortoise charge crash";

@@ -1,1 +1,1 @@
-var mnemonic = "shed ethics spell visa keep arrange nothing program tuna hill vanish flight";
+var mnemonic = "bachelor accident sing worth lamp very wing engine journey blouse accuse catch";

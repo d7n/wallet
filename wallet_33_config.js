@@ -1,1 +1,1 @@
-var mnemonic = "pony lazy term ghost fly pattern ancient resource despair keep spare help";
+var mnemonic = "fringe rack brief hospital unlock range panther pioneer boss impulse already forward";

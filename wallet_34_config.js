@@ -1,1 +1,1 @@
-var mnemonic = "renew scare exhaust feel render shadow bounce exile glass matter pitch army";
+var mnemonic = "sick stomach general until economy gain elder logic balcony math moral they";

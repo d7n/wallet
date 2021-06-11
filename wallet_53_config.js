@@ -1,1 +1,1 @@
-var mnemonic = "rain swarm people process trust topic math raw enable collect call rail";
+var mnemonic = "disorder acoustic huge movie number despair ritual popular present basic depart angry";

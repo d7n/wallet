@@ -1,1 +1,1 @@
-var mnemonic = "cabbage garbage various stone mad whisper bottom gauge siren above response parrot";
+var mnemonic = "cute kitchen confirm loud alert visual whip rubber sand bulb rubber bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "hint borrow master venture produce erupt chaos bench vibrant hybrid door vessel";
+var mnemonic = "convince brother wet link witness warrior aspect much tumble album library junior";

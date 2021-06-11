@@ -1,1 +1,1 @@
-var mnemonic = "spare interest bomb area meadow garbage melt panel uniform library clean conduct";
+var mnemonic = "regular meat change curious ghost more good turkey barely infant foot adult";

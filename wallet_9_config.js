@@ -1,1 +1,1 @@
-var mnemonic = "leave leopard knife tuna path subject damp hair river between future emotion";
+var mnemonic = "stock balance long tunnel issue town similar spring clap town tell mobile";

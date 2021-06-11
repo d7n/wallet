@@ -1,1 +1,1 @@
-var mnemonic = "select author enter main juice october drastic typical jar slam box merge";
+var mnemonic = "question museum time aerobic employ sail forest expose select weekend gather skate";

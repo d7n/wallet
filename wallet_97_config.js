@@ -1,1 +1,1 @@
-var mnemonic = "suspect expose magnet tent vote pyramid you pride film slogan elbow clean";
+var mnemonic = "february fat tenant pioneer width already round until hen purchase version bullet";

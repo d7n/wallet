@@ -1,1 +1,1 @@
-var mnemonic = "process private just cat curtain cake unit junior cram polar reveal survey";
+var mnemonic = "weekend saddle poet swift direct wood size glance suffer opinion oxygen pluck";

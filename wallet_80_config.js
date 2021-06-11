@@ -1,1 +1,1 @@
-var mnemonic = "hawk repair produce involve real gift blast enter hill code test gas";
+var mnemonic = "rare base honey shift mushroom canyon pear balcony spider appear cage phone";

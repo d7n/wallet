@@ -1,1 +1,1 @@
-var mnemonic = "feature connect lobster girl farm remain atom draw situate viable wool guard";
+var mnemonic = "equip manual stick olive leopard artwork obey spread grace sample dolphin select";

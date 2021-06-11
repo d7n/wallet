@@ -1,1 +1,1 @@
-var mnemonic = "piano near kitchen today broken element toward narrow fire wine glove lamp";
+var mnemonic = "mango copper into manage hold sail wagon thought earth true athlete labor";

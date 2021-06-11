@@ -1,1 +1,1 @@
-var mnemonic = "indicate warfare blossom shoe stand noodle bread mimic urban giant crouch unfold";
+var mnemonic = "easily cheese champion phone lottery kangaroo canyon guess grow empower right dial";

@@ -1,1 +1,1 @@
-var mnemonic = "income castle board want drama render heart almost hedgehog absurd notable proud";
+var mnemonic = "pottery month confirm wrist useless lion equal item cushion boss forest they";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze badge author other mobile left animal profit hungry tragic penalty urge";
+var mnemonic = "because trial nasty advance disagree round tunnel recipe siege object exclude measure";

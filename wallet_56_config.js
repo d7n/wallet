@@ -1,1 +1,1 @@
-var mnemonic = "broken attack wisdom moon glide sauce region brother wrestle buzz level off";
+var mnemonic = "night mandate ski practice fox palace sea funny leader mail shell park";

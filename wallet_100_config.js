@@ -1,1 +1,1 @@
-var mnemonic = "energy frog romance wheat tree vague spirit daughter link diary trade genuine";
+var mnemonic = "index play east squirrel donate because burger zoo garden trophy tent special";

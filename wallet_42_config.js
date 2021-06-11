@@ -1,1 +1,1 @@
-var mnemonic = "bonus dynamic enable dolphin hat anchor fiction prevent danger blade invest child";
+var mnemonic = "shiver speak worry symbol torch dentist victory blouse nominee quit skill rebuild";

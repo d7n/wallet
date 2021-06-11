@@ -1,1 +1,1 @@
-var mnemonic = "inject congress ramp nation negative aware dance drink noodle idea advance dish";
+var mnemonic = "episode impulse walnut inherit turn educate eternal reform swear assume tone cube";

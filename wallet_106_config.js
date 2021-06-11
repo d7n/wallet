@@ -1,1 +1,1 @@
-var mnemonic = "bicycle visual trip meat double theory oven narrow kit left asthma tobacco";
+var mnemonic = "live myth tube negative inflict prize turn remove wing bind pioneer resemble";

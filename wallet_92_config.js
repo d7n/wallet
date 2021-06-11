@@ -1,1 +1,1 @@
-var mnemonic = "glide example offer mobile rookie wave future define dad genre rotate other";
+var mnemonic = "stick spin pill update crater absurd matter barrel timber rice quiz tool";

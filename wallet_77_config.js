@@ -1,1 +1,1 @@
-var mnemonic = "extra fame phrase ripple engage regular dismiss emerge bounce clump fish wagon";
+var mnemonic = "grape oxygen dial gesture cause fold hood proof gorilla whip blind swear";
