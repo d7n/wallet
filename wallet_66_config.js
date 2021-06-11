@@ -1,1 +1,1 @@
-var mnemonic = "sock divorce trumpet plug female wheat borrow vibrant bracket theme satisfy paddle";
+var mnemonic = "tennis wagon heavy arch shock motion hollow giant label thunder belt sort";

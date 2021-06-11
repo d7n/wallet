@@ -1,1 +1,1 @@
-var mnemonic = "brand tiny message deposit license hire ski hobby unfair clay slight armed";
+var mnemonic = "hero gallery draw asset normal soldier frog raccoon flat two surge mind";

@@ -1,1 +1,1 @@
-var mnemonic = "glory idle globe crew speed any put novel token cry vacant gas";
+var mnemonic = "chalk output print deer rotate broccoli ring wife either frost stem mimic";

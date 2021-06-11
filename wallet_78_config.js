@@ -1,1 +1,1 @@
-var mnemonic = "thumb approve wrong notable art april remove bargain trim mirror pear proud";
+var mnemonic = "friend another kitten achieve zero enhance token dune hint illness peace veteran";

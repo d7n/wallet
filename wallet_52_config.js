@@ -1,1 +1,1 @@
-var mnemonic = "cause badge betray health novel flush manual orphan reflect wrestle mansion summer";
+var mnemonic = "second hand toast enter holiday income brain science royal punch effort flush";

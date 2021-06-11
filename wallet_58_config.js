@@ -1,1 +1,1 @@
-var mnemonic = "flee banana series panda seek spend ice tomato fresh hole banana resemble";
+var mnemonic = "bulk brief erosion alien any arrow law truth citizen donor security fold";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase remove error under lunar delay unveil egg net unhappy when song";
+var mnemonic = "habit bullet carpet vault smooth poverty text mind track vocal obey memory";

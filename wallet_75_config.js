@@ -1,1 +1,1 @@
-var mnemonic = "tomato popular until manual able echo fade pave between leisure ribbon hawk";
+var mnemonic = "appear clay help tag peace brain color stock web option frozen valid";

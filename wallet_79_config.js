@@ -1,1 +1,1 @@
-var mnemonic = "sunny divide trumpet silly portion dutch zone sunset leave frame sand tuna";
+var mnemonic = "olive emotion local try bid ice base gauge praise lemon inject index";

@@ -1,1 +1,1 @@
-var mnemonic = "subject final nice foster gain flock exact hello knife foil night sword";
+var mnemonic = "coin someone witness fine purchase patient joke orient boat own inherit audit";

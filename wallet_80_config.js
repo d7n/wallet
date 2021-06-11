@@ -1,1 +1,1 @@
-var mnemonic = "traffic faculty spirit patch slogan decline also recycle route clog chimney gorilla";
+var mnemonic = "churn card twist barrel mean either pottery boost agree exist royal make";

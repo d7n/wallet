@@ -1,1 +1,1 @@
-var mnemonic = "flame file biology plug hammer napkin toss casual helmet around enrich body";
+var mnemonic = "battle ordinary work alarm best any juice denial clip cash now family";

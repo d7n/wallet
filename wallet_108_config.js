@@ -1,1 +1,1 @@
-var mnemonic = "poem into scatter unfair giggle eight case during awful supreme route lock";
+var mnemonic = "often shop piece approve avocado together clump ring coconut ecology fluid inspire";

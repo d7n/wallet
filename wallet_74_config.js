@@ -1,1 +1,1 @@
-var mnemonic = "turkey gather someone today split more guess cattle double vicious black step";
+var mnemonic = "surround emotion tennis blade install inmate license alert soda lizard smile reject";

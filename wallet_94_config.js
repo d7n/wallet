@@ -1,1 +1,1 @@
-var mnemonic = "fantasy believe name year grocery level very drastic slush swap chief rely";
+var mnemonic = "twelve lounge album boring primary cute early shallow question define cry law";

@@ -1,1 +1,1 @@
-var mnemonic = "brown armor already mother mother industry cute nurse pencil shrimp odor zero";
+var mnemonic = "lemon width voice arrange bicycle quantum knife maid dream dutch toward obtain";

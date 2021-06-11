@@ -1,1 +1,1 @@
-var mnemonic = "february cotton cream wise general maid hard ordinary blind device idea air";
+var mnemonic = "gadget annual target record tower slice walnut wait over all coral picture";

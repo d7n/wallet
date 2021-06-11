@@ -1,1 +1,1 @@
-var mnemonic = "island lift burger wrist night sample large crazy alley tree renew primary";
+var mnemonic = "reopen wreck chuckle coast auction cart guide bonus bacon explain inquiry error";

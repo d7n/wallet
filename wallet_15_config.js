@@ -1,1 +1,1 @@
-var mnemonic = "short language average arrange embody lion unit weird toddler vault maid member";
+var mnemonic = "gain divert annual sorry nothing giggle market ritual pause test bonus slush";

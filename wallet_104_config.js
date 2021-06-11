@@ -1,1 +1,1 @@
-var mnemonic = "payment crazy suggest kit palm cousin ladder labor cigar crowd sail satoshi";
+var mnemonic = "gown topple brain wrap suggest fat dust inspire spy table skate rough";

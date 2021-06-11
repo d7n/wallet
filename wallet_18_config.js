@@ -1,1 +1,1 @@
-var mnemonic = "draw master shy evolve monster cousin truck worth train obtain rose swear";
+var mnemonic = "roast sample pioneer recall canoe host bright scheme drift safe ring bread";

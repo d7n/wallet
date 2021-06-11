@@ -1,1 +1,1 @@
-var mnemonic = "oblige real expire maple quantum face alcohol orchard canvas future ensure category";
+var mnemonic = "poet cinnamon start bean immune elevator note cupboard bar prison same spot";

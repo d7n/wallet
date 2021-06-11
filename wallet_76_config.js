@@ -1,1 +1,1 @@
-var mnemonic = "spot cat expand thought tissue repair shaft actual endorse interest drip burger";
+var mnemonic = "kid alter unaware load prosper sense rug return upset output suspect only";

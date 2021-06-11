@@ -1,1 +1,1 @@
-var mnemonic = "fetch trap radar maid urban physical eternal into toward artist wear silk";
+var mnemonic = "eagle try away series vault maze album rib clerk nasty firm initial";

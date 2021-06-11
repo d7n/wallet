@@ -1,1 +1,1 @@
-var mnemonic = "creek ill record match what guitar fault arrive card panda price sight";
+var mnemonic = "under inside alert panther ice orchard vacuum practice keep lamp clock bundle";

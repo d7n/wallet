@@ -1,1 +1,1 @@
-var mnemonic = "random upgrade report glance fish actor frost warrior trash kiss cruel random";
+var mnemonic = "battle axis claw shuffle maid else trip dash tackle unknown pupil time";

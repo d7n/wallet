@@ -1,1 +1,1 @@
-var mnemonic = "barrel today popular surface kitten regular cream loan decade devote argue envelope";
+var mnemonic = "course annual amateur wink plate hint hedgehog burger seek rough rude nasty";

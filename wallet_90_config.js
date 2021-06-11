@@ -1,1 +1,1 @@
-var mnemonic = "balcony name cart sudden pear suggest ketchup fine citizen phrase clock toss";
+var mnemonic = "alter version unusual use engine tide better beef garden sock educate among";

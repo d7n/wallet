@@ -1,1 +1,1 @@
-var mnemonic = "grass recycle desk diesel extend warrior mystery pizza cash nominee pact thought";
+var mnemonic = "sibling reduce economy small apart yard follow tiger wedding absent immense unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "cake post illness dance sample air maid large expire giraffe humble sleep";
+var mnemonic = "innocent organ oppose party pig below spike iron dress hunt teach divorce";

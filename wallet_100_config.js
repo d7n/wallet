@@ -1,1 +1,1 @@
-var mnemonic = "space issue grant fitness blossom excess conduct shrug slow convince slim apple";
+var mnemonic = "noodle captain tail humble plunge antique actress label pact near scout album";

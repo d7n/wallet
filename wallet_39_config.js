@@ -1,1 +1,1 @@
-var mnemonic = "health still entry want inherit dinosaur steak swap list blur action cage";
+var mnemonic = "negative round play second wide menu globe glad swallow kangaroo capable today";

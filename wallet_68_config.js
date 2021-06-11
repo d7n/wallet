@@ -1,1 +1,1 @@
-var mnemonic = "clinic develop enrich oxygen coil elder brain loyal fiber faculty walnut wood";
+var mnemonic = "crazy letter path island never jazz pupil episode hotel dice inside ability";

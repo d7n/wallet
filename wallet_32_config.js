@@ -1,1 +1,1 @@
-var mnemonic = "much normal helmet chuckle seed desert crowd brown describe cream present hybrid";
+var mnemonic = "mom hover anxiety wasp robot domain blouse exclude execute crystal soul habit";

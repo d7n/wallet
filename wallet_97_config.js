@@ -1,1 +1,1 @@
-var mnemonic = "brush devote clump icon border mechanic front purchase since budget three minimum";
+var mnemonic = "retire rigid surround palace beach manual deer fork junk electric ceiling ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "judge educate fade update hedgehog perfect slot mask sort supreme provide dry";
+var mnemonic = "twelve copy early combine friend valley define panda tenant enact soccer rotate";

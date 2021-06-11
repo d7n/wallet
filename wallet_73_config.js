@@ -1,1 +1,1 @@
-var mnemonic = "fever body inmate team travel focus special remain outdoor sadness hood object";
+var mnemonic = "drastic cactus skill right fantasy toe crystal kind march demand erupt asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "quote basket genius bright fish cluster ranch indicate grain bulk close dentist";
+var mnemonic = "chest work tone gentle radar crucial surprise fury garment mountain scheme plug";

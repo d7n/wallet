@@ -1,1 +1,1 @@
-var mnemonic = "math lazy install action side broom ripple chunk wet text nerve skull";
+var mnemonic = "dwarf replace option stairs sure myth grocery pole parrot hundred cost shed";

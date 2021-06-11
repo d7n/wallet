@@ -1,1 +1,1 @@
-var mnemonic = "shield drift left dash critic stone bring target gospel spot emerge approve";
+var mnemonic = "abstract achieve improve chuckle mixed rabbit clutch busy ticket apple bicycle toilet";

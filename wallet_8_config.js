@@ -1,1 +1,1 @@
-var mnemonic = "acquire grab illness inject net year crunch champion sponsor torch sunset uphold";
+var mnemonic = "wet enemy fade convince unaware exact tower uniform abuse joke tumble achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil kitchen crazy wisdom salad major reduce debate urge excuse enforce eager";
+var mnemonic = "deliver glass apple witness stone run awkward fox toddler fetch merry iron";

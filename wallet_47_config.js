@@ -1,1 +1,1 @@
-var mnemonic = "myself apart witness afraid cash awkward video pulp present scrub ensure found";
+var mnemonic = "degree mystery gloom emotion have dog biology pave flock shrimp poet version";

@@ -1,1 +1,1 @@
-var mnemonic = "behave robot kitchen setup organ song banner crucial gravity claim boy inhale";
+var mnemonic = "evoke trip clean liar blossom vintage stable useless spy logic hobby hand";

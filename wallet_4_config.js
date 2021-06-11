@@ -1,1 +1,1 @@
-var mnemonic = "panel worry certain patient consider speed detail sad unknown grunt stumble tilt";
+var mnemonic = "people cactus kitten merit group correct ensure swap taxi naive menu diagram";

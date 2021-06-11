@@ -1,1 +1,1 @@
-var mnemonic = "wreck media laundry bread oven divide salute fragile milk innocent october shop";
+var mnemonic = "actor bike galaxy toe innocent donor nephew roof because adjust artist false";

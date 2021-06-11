@@ -1,1 +1,1 @@
-var mnemonic = "antenna close attitude faint blossom junior broken change release bounce repeat viable";
+var mnemonic = "quantum exhibit regret claim rough artist catalog normal result speed educate cable";

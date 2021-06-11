@@ -1,1 +1,1 @@
-var mnemonic = "join dizzy heart prize glare bid brown relief real army proof train";
+var mnemonic = "sustain elegant boost sure army logic until vague egg donor catch soccer";

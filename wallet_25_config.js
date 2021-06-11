@@ -1,1 +1,1 @@
-var mnemonic = "tortoise young tourist flush couch fade wire where talk siege twin uphold";
+var mnemonic = "sleep marine crop fashion defense benefit earn moon magnet vast gadget habit";

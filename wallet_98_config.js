@@ -1,1 +1,1 @@
-var mnemonic = "trend survey aim pitch admit differ circle monkey mammal tool uphold vocal";
+var mnemonic = "chalk puzzle paddle gorilla nasty deny sea season quote wet gather mercy";

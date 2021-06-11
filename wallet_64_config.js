@@ -1,1 +1,1 @@
-var mnemonic = "taxi ecology approve meadow defense leaf web chaos north cruel price galaxy";
+var mnemonic = "assault bracket rival proud risk into taste unable work exit sadness scare";

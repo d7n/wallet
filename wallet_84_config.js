@@ -1,1 +1,1 @@
-var mnemonic = "squirrel age dignity segment ring equal canvas lesson prize cross crucial doll";
+var mnemonic = "whisper chronic devote miracle potato blush reward toy cheap bacon buzz ordinary";

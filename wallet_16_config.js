@@ -1,1 +1,1 @@
-var mnemonic = "indoor shadow jealous question become ecology clarify child general guard fit weasel";
+var mnemonic = "detect prosper resource sorry scout section bench rose notice service word dance";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform wet deal bulb enroll miss glare lecture oxygen unlock kiwi basic";
+var mnemonic = "control settle denial monster suit flight rescue audit raccoon fine source road";

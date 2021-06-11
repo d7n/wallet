@@ -1,1 +1,1 @@
-var mnemonic = "museum spell father poverty stereo require topic hair word stumble happy wear";
+var mnemonic = "try enough brick puzzle quality maze midnight galaxy lonely wool brain salt";

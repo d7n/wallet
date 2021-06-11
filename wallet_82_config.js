@@ -1,1 +1,1 @@
-var mnemonic = "lava among couch income avocado else seed service this inflict lecture trade";
+var mnemonic = "glow giant pyramid south addict casino junk tribe weird bunker inform omit";

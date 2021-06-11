@@ -1,1 +1,1 @@
-var mnemonic = "smoke view arrange couple select cancel raise detail emerge artefact high leopard";
+var mnemonic = "whale until foster any spatial tuition original dice major sausage hard kingdom";

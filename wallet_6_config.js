@@ -1,1 +1,1 @@
-var mnemonic = "want approve drill govern prevent simple exclude present early sibling demand thrive";
+var mnemonic = "bracket orbit ten else novel three february melody little harvest short market";

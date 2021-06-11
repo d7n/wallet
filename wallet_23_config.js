@@ -1,1 +1,1 @@
-var mnemonic = "panel say tattoo quote pluck slab carpet view bubble industry video nasty";
+var mnemonic = "elegant name rotate catalog glance vacant shy paper fix credit blood cattle";

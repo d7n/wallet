@@ -1,1 +1,1 @@
-var mnemonic = "final cloth over witness write weapon upper gown tomorrow rapid picture puppy";
+var mnemonic = "wealth pave useless guard high this extend analyst better gravity release depend";

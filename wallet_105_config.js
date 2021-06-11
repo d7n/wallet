@@ -1,1 +1,1 @@
-var mnemonic = "donate path dance involve bulb olympic theme sketch viable kick refuse ability";
+var mnemonic = "bridge common avocado truly uniform dynamic speak weasel dance climb huge clay";

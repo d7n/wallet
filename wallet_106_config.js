@@ -1,1 +1,1 @@
-var mnemonic = "angle general allow cabbage install unknown seven hybrid tag enroll settle fine";
+var mnemonic = "kitten random hungry one sorry enough indicate kit general dove cradle symptom";

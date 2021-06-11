@@ -1,1 +1,1 @@
-var mnemonic = "patrol property hair attitude eight develop traffic lounge predict long become ceiling";
+var mnemonic = "merry cargo pelican never sheriff close blade artefact choose explain express upgrade";

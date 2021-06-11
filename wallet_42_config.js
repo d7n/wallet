@@ -1,1 +1,1 @@
-var mnemonic = "bless zebra artist plunge tobacco sniff prepare people pluck half jewel option";
+var mnemonic = "truth omit december tooth best wine nature book team cream rail fossil";

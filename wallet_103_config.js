@@ -1,1 +1,1 @@
-var mnemonic = "announce raw network glare table uncover bus certain timber baby tank soccer";
+var mnemonic = "dilemma remind fashion daughter until galaxy portion west alpha citizen devote daughter";

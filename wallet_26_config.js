@@ -1,1 +1,1 @@
-var mnemonic = "total argue lady forward high agent rule session panel gain divorce slender";
+var mnemonic = "detail banana disagree page resource romance stable rabbit purity penalty miracle rapid";

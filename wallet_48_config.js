@@ -1,1 +1,1 @@
-var mnemonic = "mule pause they ghost bus garlic despair enroll public ensure sorry insect";
+var mnemonic = "business basic dolphin series game celery permit custom call lunar wedding wolf";

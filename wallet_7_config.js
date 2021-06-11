@@ -1,1 +1,1 @@
-var mnemonic = "ball calm ask melody govern quality thrive cost enjoy black chicken option";
+var mnemonic = "label search arch shift debate video discover alcohol near lumber ice letter";

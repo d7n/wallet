@@ -1,1 +1,1 @@
-var mnemonic = "point history minute you similar rocket tired wine tumble miracle audit common";
+var mnemonic = "scare genius swap fit erupt intact rule slow cube someone clap venue";

@@ -1,1 +1,1 @@
-var mnemonic = "pass safe web carbon syrup light derive cake gap solution inhale one";
+var mnemonic = "tube chapter indoor blanket amused spare popular churn pottery obey acquire mixed";

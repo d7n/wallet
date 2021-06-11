@@ -1,1 +1,1 @@
-var mnemonic = "sustain flash blind disagree safe pear human fury stick clean language skirt";
+var mnemonic = "alley about embark try virtual release giraffe ship donor flip salmon chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "work hamster abuse air crime mutual draft claim gown party model lecture";
+var mnemonic = "february usage foot trust ribbon achieve amount cool know prison fantasy luxury";

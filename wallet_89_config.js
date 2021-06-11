@@ -1,1 +1,1 @@
-var mnemonic = "other domain anxiety hungry run doctor oyster endorse bench fashion because autumn";
+var mnemonic = "debris kick text warm now planet brave year city pottery bone trip";

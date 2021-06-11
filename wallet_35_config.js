@@ -1,1 +1,1 @@
-var mnemonic = "strategy demise spy title item lemon deputy front correct pride once harsh";
+var mnemonic = "roof afford genuine predict hat wrestle also minimum argue rescue hold outside";

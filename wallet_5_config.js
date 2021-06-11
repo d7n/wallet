@@ -1,1 +1,1 @@
-var mnemonic = "shift bomb weird market glad rhythm okay leader sing vital federal grape";
+var mnemonic = "utility banana park pioneer wedding access fresh whip mean despair shoulder such";

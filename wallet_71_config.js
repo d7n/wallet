@@ -1,1 +1,1 @@
-var mnemonic = "early giraffe gap vanish address acoustic check thought damage dwarf retire play";
+var mnemonic = "soft dinosaur mystery decorate glow slight tooth hen depart scatter lumber law";

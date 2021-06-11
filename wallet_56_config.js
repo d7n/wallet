@@ -1,1 +1,1 @@
-var mnemonic = "marble stool fetch term topple deer valley stadium junior save toss cigar";
+var mnemonic = "behind wall abstract long vicious phone pond sudden predict become inherit edit";

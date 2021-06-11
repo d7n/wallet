@@ -1,1 +1,1 @@
-var mnemonic = "drip exact hidden earth apart version around electric fatigue loop quiz refuse";
+var mnemonic = "giant shallow yard easily promote alarm marriage senior laundry edit sun smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "spell coach sock clog reason laptop tide eye copy siege enjoy pyramid";
+var mnemonic = "taxi inject play now sustain weird unable agent child machine cake frost";

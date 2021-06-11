@@ -1,1 +1,1 @@
-var mnemonic = "speed group goat quarter license warm primary emerge category hen upper tennis";
+var mnemonic = "sock grass vehicle share remind devote buyer suspect supreme master hold palace";

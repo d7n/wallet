@@ -1,1 +1,1 @@
-var mnemonic = "antenna dentist will useless six sure vessel pact bright rural please treat";
+var mnemonic = "envelope fish equal episode comic hurdle sort young review theory hero hunt";

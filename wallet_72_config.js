@@ -1,1 +1,1 @@
-var mnemonic = "transfer depart vibrant squirrel amused arrange welcome danger exact anxiety rail skill";
+var mnemonic = "attitude female finish phone calm pigeon web annual sausage vote onion world";

@@ -1,1 +1,1 @@
-var mnemonic = "ask album shallow tongue despair cross distance dirt woman pony level next";
+var mnemonic = "double peasant faint animal forget anxiety know liquid legal pause crane echo";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy mix planet announce badge spoil unable midnight blast old diary tag";
+var mnemonic = "midnight open ability solution salad kiss typical arch captain wonder double fan";

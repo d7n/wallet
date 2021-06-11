@@ -1,1 +1,1 @@
-var mnemonic = "wool base they august tribe board lucky opera cost patrol feature quarter";
+var mnemonic = "hybrid famous anxiety demand task into hen decrease ability announce spare half";

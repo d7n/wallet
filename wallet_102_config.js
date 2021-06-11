@@ -1,1 +1,1 @@
-var mnemonic = "unfold twist answer fatigue grit pencil fetch width infant smooth soap nerve";
+var mnemonic = "lemon absent crucial weather canvas denial strike educate stock hurdle material devote";

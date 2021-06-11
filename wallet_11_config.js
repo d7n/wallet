@@ -1,1 +1,1 @@
-var mnemonic = "skate whisper range defy laugh casino lonely opinion scan banana ill voyage";
+var mnemonic = "cool body dish brick inherit laptop skate seat neither you insect merit";

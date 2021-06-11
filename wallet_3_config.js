@@ -1,1 +1,1 @@
-var mnemonic = "must ability capable shaft need sail stone crunch cinnamon raven flat swift";
+var mnemonic = "because mushroom resist ridge tackle clinic decade business fire inject material media";

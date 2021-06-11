@@ -1,1 +1,1 @@
-var mnemonic = "impose ozone able copy crowd tiger collect ostrich crouch lend distance hamster";
+var mnemonic = "then magic aspect panic thumb photo route deposit awesome green security slow";

@@ -1,1 +1,1 @@
-var mnemonic = "few banana mail volume famous story marble vault effort shrimp ancient bicycle";
+var mnemonic = "label roast bulk decade slush million dwarf six correct diamond return polar";
