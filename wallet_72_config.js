@@ -1,1 +1,1 @@
-var mnemonic = "pottery layer ozone notable occur panda edge robot crucial tool move topple";
+var mnemonic = "month smart hover tenant must ripple bounce bean elite elevator hint tank";

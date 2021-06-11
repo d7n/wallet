@@ -1,1 +1,1 @@
-var mnemonic = "nuclear blind industry monster endless involve width question catalog token drum wild";
+var mnemonic = "swap crack better express cousin leaf scissors deliver flee elevator develop spread";

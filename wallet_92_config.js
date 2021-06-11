@@ -1,1 +1,1 @@
-var mnemonic = "harbor avoid split foot era hamster age license page raw boring bicycle";
+var mnemonic = "seat disorder predict mass bus metal ride buffalo unfold miss define exact";

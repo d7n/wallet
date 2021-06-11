@@ -1,1 +1,1 @@
-var mnemonic = "license area inspire concert bless chunk path doll orange this couple exclude";
+var mnemonic = "wrestle midnight various like pill universe table slight wasp egg prevent taste";

@@ -1,1 +1,1 @@
-var mnemonic = "retire come wait stay eight depend trial rookie leader muffin solution general";
+var mnemonic = "tackle nephew certain about garlic spend federal bulb like more inch common";

@@ -1,1 +1,1 @@
-var mnemonic = "wide normal cup cycle panther lift street dynamic early plate style mosquito";
+var mnemonic = "tuition buyer achieve hen destroy better position must convince comic stool outside";

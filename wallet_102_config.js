@@ -1,1 +1,1 @@
-var mnemonic = "reject march tongue unhappy edit abuse quarter element hungry wise gloom beauty";
+var mnemonic = "skirt sheriff donate fossil embrace dismiss liar loud leisure excuse item clump";

@@ -1,1 +1,1 @@
-var mnemonic = "first device code issue release old cycle lift doctor laundry equal hedgehog";
+var mnemonic = "citizen identify mass purity shed spread loyal demise priority jungle accuse hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit frost gun tennis shine express dilemma garden step ice vault monitor";
+var mnemonic = "shift zoo decide dune own apology artist defense catch peace seminar weapon";

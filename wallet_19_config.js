@@ -1,1 +1,1 @@
-var mnemonic = "metal spin tennis actress island load capable history ring oxygen arrive rifle";
+var mnemonic = "length display achieve because version ginger dawn wage history vendor census edit";

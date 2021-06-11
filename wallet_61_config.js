@@ -1,1 +1,1 @@
-var mnemonic = "grape upgrade riot drop guitar rather glue coast board genuine toe autumn";
+var mnemonic = "enemy end first clog urge weapon argue candy drift upon twist ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut toss oak foil chest theory degree saddle pause vote work love";
+var mnemonic = "raven glory unable raccoon wrist burst uncover chunk festival metal live spawn";

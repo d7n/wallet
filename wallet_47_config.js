@@ -1,1 +1,1 @@
-var mnemonic = "moral twice weekend ancient vacant piano wreck brother sauce taste because knock";
+var mnemonic = "gloom body pottery digital seven copper guess mad depart spread say eagle";

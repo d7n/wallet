@@ -1,1 +1,1 @@
-var mnemonic = "olympic until liquid body code laptop talk desk today where museum police";
+var mnemonic = "apple rate bar uniform pulse glance loop exotic review charge beach remove";

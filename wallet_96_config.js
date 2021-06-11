@@ -1,1 +1,1 @@
-var mnemonic = "measure obscure dream lens price rude plate palm million decorate mutual issue";
+var mnemonic = "cloud appear raccoon ahead find cricket tone banana buyer trap bridge dance";

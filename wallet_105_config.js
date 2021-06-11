@@ -1,1 +1,1 @@
-var mnemonic = "kind suit capital borrow stairs tape ten riot knife provide zebra color";
+var mnemonic = "analyst undo plastic satisfy option physical divert cement pledge frequent carry erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "slush baby provide coral pool catch pave foil curious garbage cushion symbol";
+var mnemonic = "decrease bench need audit grit market pyramid token three warfare symbol aunt";

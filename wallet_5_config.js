@@ -1,1 +1,1 @@
-var mnemonic = "affair glare initial absent fiscal another plate purse wire rapid scheme test";
+var mnemonic = "author cable differ auto nothing pull find flock grow rude devote build";

@@ -1,1 +1,1 @@
-var mnemonic = "depth carbon help cactus bleak sense target glory work bargain music crunch";
+var mnemonic = "road pipe rigid trend cheap replace robot essay boat slender match turn";

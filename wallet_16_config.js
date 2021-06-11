@@ -1,1 +1,1 @@
-var mnemonic = "little patch run punch reflect village cat olympic sun confirm barrel fury";
+var mnemonic = "foil bomb elder sing velvet public blame decrease label turkey salt lunch";

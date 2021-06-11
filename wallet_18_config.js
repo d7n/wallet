@@ -1,1 +1,1 @@
-var mnemonic = "exercise bus seven predict erode guitar network silent company eagle bone quality";
+var mnemonic = "borrow oval remove fantasy extra palm industry shine indoor remain student giggle";

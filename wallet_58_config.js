@@ -1,1 +1,1 @@
-var mnemonic = "surface rotate pig space ill artwork trial like mechanic season else clay";
+var mnemonic = "arrest nice typical file people avocado digital garlic question muscle glue fragile";

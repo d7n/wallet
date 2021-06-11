@@ -1,1 +1,1 @@
-var mnemonic = "truly crack squirrel rather bundle payment balcony hurt similar milk squirrel badge";
+var mnemonic = "next wealth polar route clutch salmon strike lion earn vapor exit fuel";

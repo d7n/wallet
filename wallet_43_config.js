@@ -1,1 +1,1 @@
-var mnemonic = "awful donate type digital game pupil improve hunt fire win misery term";
+var mnemonic = "whisper feed help crucial circle rescue solve release ceiling picnic enlist era";

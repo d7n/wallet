@@ -1,1 +1,1 @@
-var mnemonic = "liar pride craft soldier oppose two mouse large present safe scan around";
+var mnemonic = "lend federal credit duck pond angle shrimp wrap such rack cute minor";

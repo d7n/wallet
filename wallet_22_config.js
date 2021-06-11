@@ -1,1 +1,1 @@
-var mnemonic = "rib ball hungry foam fly off tuna ball angry maze example wave";
+var mnemonic = "crowd result cliff proof envelope tuna scissors laundry train skirt false enjoy";

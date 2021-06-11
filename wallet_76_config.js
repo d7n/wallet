@@ -1,1 +1,1 @@
-var mnemonic = "wrong vital hundred order park vapor dynamic undo time radar doctor talk";
+var mnemonic = "ridge birth muffin accident raven just awesome tiny ring credit cool prison";

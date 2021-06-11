@@ -1,1 +1,1 @@
-var mnemonic = "nephew man boost labor small escape display jaguar mother metal frequent between";
+var mnemonic = "all fault abandon blood south rescue lounge car height stay trumpet october";

@@ -1,1 +1,1 @@
-var mnemonic = "allow task gain supreme monkey guitar movie loop type useful casino flame";
+var mnemonic = "earn indoor imitate half ankle culture frequent rapid autumn welcome basket police";

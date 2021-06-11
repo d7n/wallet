@@ -1,1 +1,1 @@
-var mnemonic = "proof slight whip force horror seven puppy plastic depart lift pause same";
+var mnemonic = "brain problem system foil climb claim cheap gain rose winner future armed";

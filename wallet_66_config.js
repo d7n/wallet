@@ -1,1 +1,1 @@
-var mnemonic = "what dynamic buyer grunt paper mimic kitchen faith mind habit dolphin nurse";
+var mnemonic = "milk error dice slim jump verify group grace tennis job battle energy";

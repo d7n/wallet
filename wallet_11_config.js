@@ -1,1 +1,1 @@
-var mnemonic = "camp action snack crater topple poem belt reopen deer clean potato endless";
+var mnemonic = "catalog diesel absorb leisure goose club point foster used total silk also";

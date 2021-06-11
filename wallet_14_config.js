@@ -1,1 +1,1 @@
-var mnemonic = "gift zebra cloth zebra soccer school innocent churn elder law hunt cream";
+var mnemonic = "fashion coyote old want they snow excite submit chat midnight access diet";

@@ -1,1 +1,1 @@
-var mnemonic = "use practice subject still laundry work false cigar ensure aerobic dog soccer";
+var mnemonic = "phone action manage early public about chapter crane decade volcano enlist elbow";

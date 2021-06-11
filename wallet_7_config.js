@@ -1,1 +1,1 @@
-var mnemonic = "box universe crisp rough enrich include excuse universe keen uncover tissue hub";
+var mnemonic = "infant leopard purpose begin senior enlist sport know match poet quote modify";

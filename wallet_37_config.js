@@ -1,1 +1,1 @@
-var mnemonic = "chronic exist square lazy basic sport virtual base post cage oven enough";
+var mnemonic = "guess round theme ladder stem erosion region machine notice typical human unusual";

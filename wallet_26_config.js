@@ -1,1 +1,1 @@
-var mnemonic = "perfect lazy alcohol load scout duty steel sheriff kind assume beyond chair";
+var mnemonic = "convince arrange render slogan alien jazz trick tonight tribe hold pool couch";

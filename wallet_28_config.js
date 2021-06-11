@@ -1,1 +1,1 @@
-var mnemonic = "nuclear crisp wasp degree maximum critic crouch cruel width flip vendor pigeon";
+var mnemonic = "decrease auto express spider fine sustain adapt kid innocent group spread mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "mango problem move melody false title early pattern lunch license evolve phone";
+var mnemonic = "luggage armed under gather fence limit rebuild school soldier citizen attack town";

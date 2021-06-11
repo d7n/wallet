@@ -1,1 +1,1 @@
-var mnemonic = "found adult brick service flower brother reunion rally silly want suffer wash";
+var mnemonic = "service ostrich off soup kiss note mango useful runway crystal laundry forward";

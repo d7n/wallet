@@ -1,1 +1,1 @@
-var mnemonic = "fly wrong motion castle pulse urge symbol total antenna truck mosquito elegant";
+var mnemonic = "suffer travel tip pudding amused crush tone decline brisk liquid mistake build";

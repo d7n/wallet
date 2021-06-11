@@ -1,1 +1,1 @@
-var mnemonic = "process kind trophy loud school drama limit ozone peanut case math drill";
+var mnemonic = "mistake toilet certain advance leisure bind session hamster horse liar key timber";

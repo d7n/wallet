@@ -1,1 +1,1 @@
-var mnemonic = "exhaust oxygen assault blanket penalty actual ticket acid range calm club buddy";
+var mnemonic = "soda sorry client brand must advice park render repeat brown sock assault";

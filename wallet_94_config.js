@@ -1,1 +1,1 @@
-var mnemonic = "solution valve vessel nurse people know require repair faint estate anxiety stage";
+var mnemonic = "flavor blanket page almost skull current decorate pistol spice bench giggle swing";

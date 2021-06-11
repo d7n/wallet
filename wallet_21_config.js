@@ -1,1 +1,1 @@
-var mnemonic = "present absurd exit vocal cup curtain moral river turkey rose piece fiction";
+var mnemonic = "current language expose employ arrest unable find plastic monitor tornado other arrange";

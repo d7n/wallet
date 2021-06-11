@@ -1,1 +1,1 @@
-var mnemonic = "debate ordinary gate castle angry word stem inhale brother smart under drama";
+var mnemonic = "outside tackle broccoli bonus satoshi resemble marble combine like fence vacant home";

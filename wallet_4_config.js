@@ -1,1 +1,1 @@
-var mnemonic = "virus identify there enact inside canoe range pencil pilot lumber wrist oppose";
+var mnemonic = "grab misery stove frog legal deal canvas nation shove project rail rigid";

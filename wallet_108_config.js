@@ -1,1 +1,1 @@
-var mnemonic = "winter lion roof nasty device cargo appear gift prepare milk year episode";
+var mnemonic = "coin evidence cupboard six artefact woman march milk axis vicious into danger";

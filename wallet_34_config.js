@@ -1,1 +1,1 @@
-var mnemonic = "blanket engine shadow finish aerobic pear bottom oyster hamster spring child proud";
+var mnemonic = "clever truth journey truck pole lamp version dose choose swallow vivid raise";

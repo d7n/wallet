@@ -1,1 +1,1 @@
-var mnemonic = "increase amazing shoe ship erase glue raise west vendor transfer divorce trick";
+var mnemonic = "gentle elephant convince decide topple company lizard panda wash faint uphold car";

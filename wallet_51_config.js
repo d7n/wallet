@@ -1,1 +1,1 @@
-var mnemonic = "steak jungle animal injury reflect road gossip region cable pave park corn";
+var mnemonic = "uncle dinner shaft scale garlic color hospital trap penalty royal face roof";

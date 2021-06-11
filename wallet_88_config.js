@@ -1,1 +1,1 @@
-var mnemonic = "garbage major roast stock trial echo file fuel observe luggage prepare puzzle";
+var mnemonic = "movie exercise garage expire oxygen drama estate nation sad display bonus clinic";

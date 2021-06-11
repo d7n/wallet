@@ -1,1 +1,1 @@
-var mnemonic = "split insane object rain pond blind exact job vapor shrug hockey latin";
+var mnemonic = "grace true lab fruit idea keen mix magic apple glory response oblige";

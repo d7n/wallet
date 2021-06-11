@@ -1,1 +1,1 @@
-var mnemonic = "guess april clump speak bomb prize jeans absorb hand basic phone priority";
+var mnemonic = "unusual dial siege kit phone fox reform lunch alcohol myself adult camp";

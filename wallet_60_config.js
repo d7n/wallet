@@ -1,1 +1,1 @@
-var mnemonic = "dilemma canvas either math combine loyal alone remember ranch ten motion undo";
+var mnemonic = "auction slab shy maximum gap end tape wave fix blur favorite title";

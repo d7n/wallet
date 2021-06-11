@@ -1,1 +1,1 @@
-var mnemonic = "merry swing junk drill usual deliver nice change anxiety ability fuel oil";
+var mnemonic = "machine wheel coast erase lazy tree exit arm wheel mail boring snow";

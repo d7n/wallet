@@ -1,1 +1,1 @@
-var mnemonic = "wedding service poet leisure devote vault acquire purse gasp dumb area circle";
+var mnemonic = "virus hair disorder panda worry barely wrist demand pill analyst useless blade";

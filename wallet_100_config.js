@@ -1,1 +1,1 @@
-var mnemonic = "people donor another wear action predict estate picnic slide ridge confirm venture";
+var mnemonic = "dish tragic borrow first material congress silly fine forget soft prosper egg";

@@ -1,1 +1,1 @@
-var mnemonic = "machine around carbon tank foil truck put apology catalog battle supreme word";
+var mnemonic = "hub snack spatial head pelican doctor person ordinary bring trade hold tag";

@@ -1,1 +1,1 @@
-var mnemonic = "mail admit oblige ready myth area head option symptom random abstract ensure";
+var mnemonic = "mixed hour defy affair phone civil leaf van wet setup good dumb";

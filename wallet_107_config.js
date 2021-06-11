@@ -1,1 +1,1 @@
-var mnemonic = "bullet sniff detect wrist reduce forest search large flight mouse mirror icon";
+var mnemonic = "insect tomorrow head hat board sponsor favorite laugh aspect special live antenna";

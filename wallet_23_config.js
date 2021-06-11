@@ -1,1 +1,1 @@
-var mnemonic = "inhale badge cost wrap depend income assist carry marble depth security quick";
+var mnemonic = "grab radio yellow trade truck piece wait oppose silk stamp alley mammal";

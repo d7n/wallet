@@ -1,1 +1,1 @@
-var mnemonic = "trim over come begin wide wash bubble violin physical dinosaur donate small";
+var mnemonic = "demand faint lamp pole toss history vivid radio assist desk patient give";

@@ -1,1 +1,1 @@
-var mnemonic = "news edit flame hunt olympic daring help prosper silly wool dream banner";
+var mnemonic = "discover hybrid also pelican where move verb resemble trap balcony resemble coin";

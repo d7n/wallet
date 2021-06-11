@@ -1,1 +1,1 @@
-var mnemonic = "sweet sugar beach affair ritual again radio scan guitar drastic yard topic";
+var mnemonic = "venture tiny resemble holiday egg raven group copper sound evidence endorse myself";

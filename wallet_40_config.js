@@ -1,1 +1,1 @@
-var mnemonic = "useless artwork connect badge tribe blame boring essay satisfy couple music october";
+var mnemonic = "outdoor pyramid fix salon parent rude nasty scheme day use mistake return";

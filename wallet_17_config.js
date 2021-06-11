@@ -1,1 +1,1 @@
-var mnemonic = "arctic early episode devote clever miss merry eight pipe foil decade off";
+var mnemonic = "cable only regret that iron puppy middle point flush indoor crystal hill";

@@ -1,1 +1,1 @@
-var mnemonic = "skull vocal believe occur helmet text post symptom column very metal lesson";
+var mnemonic = "essence unaware tragic ocean empty exhaust author boy caught wasp relax grape";

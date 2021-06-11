@@ -1,1 +1,1 @@
-var mnemonic = "yellow thunder banana error draw inmate humor winner clog item naive common";
+var mnemonic = "cruel lady cannon like lamp patch swarm slush column auto brown palace";

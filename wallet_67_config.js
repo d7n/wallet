@@ -1,1 +1,1 @@
-var mnemonic = "source ask else allow poem invest tenant outer sort all wink key";
+var mnemonic = "tide narrow spray cube render wear crazy system suspect fun mass sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "still deputy school priority inform current cancel cry lucky fold august coyote";
+var mnemonic = "put address multiply casual merge hello broken salon job garment throw stock";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn net fine clever castle radio term culture blur desert fossil kiwi";
+var mnemonic = "actual movie legend layer city divide element liberty wear skate swarm trash";

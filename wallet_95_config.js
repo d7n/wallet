@@ -1,1 +1,1 @@
-var mnemonic = "crane still torch loop trap ozone nurse surround tone retreat suffer seminar";
+var mnemonic = "distance youth link dose click couch dice clinic fluid actual melt index";

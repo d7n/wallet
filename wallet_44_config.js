@@ -1,1 +1,1 @@
-var mnemonic = "liquid tank upon release bench paper hotel salon diary charge tail rail";
+var mnemonic = "pole session menu spare casual calm number hello ocean depend pipe pyramid";

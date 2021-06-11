@@ -1,1 +1,1 @@
-var mnemonic = "picture innocent roast depart symbol polar above elite tag quarter medal funny";
+var mnemonic = "puzzle follow useless happy any public kiwi meat spoil clock food sense";

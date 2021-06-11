@@ -1,1 +1,1 @@
-var mnemonic = "scrub jeans nasty luxury toss luggage fever thumb glide suspect iron injury";
+var mnemonic = "accuse mammal moral zebra dream fault kick tribe oval fly fish assume";

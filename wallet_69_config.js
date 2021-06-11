@@ -1,1 +1,1 @@
-var mnemonic = "miracle casino public correct destroy hard carpet fury method mixture orphan tonight";
+var mnemonic = "account frown steak fame hurt current cradle bind cannon glove round weird";

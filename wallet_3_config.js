@@ -1,1 +1,1 @@
-var mnemonic = "ask whip risk cake claim kangaroo myth wave turn true summer awkward";
+var mnemonic = "asthma result beef typical potato entire frown plug upon spice rose list";

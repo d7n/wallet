@@ -1,1 +1,1 @@
-var mnemonic = "barely convince mention please say alter mechanic draft ordinary dentist cloud vast";
+var mnemonic = "mammal canvas about village chest sphere fringe damp dove shadow always clog";

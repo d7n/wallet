@@ -1,1 +1,1 @@
-var mnemonic = "axis thought capable sing price duty genre noble nose crush inmate mistake";
+var mnemonic = "village merry bridge turtle abuse loyal mosquito radio water book orient daring";

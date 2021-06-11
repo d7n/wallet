@@ -1,1 +1,1 @@
-var mnemonic = "quiz frame industry such pioneer crash cushion tuna cake rough exact fashion";
+var mnemonic = "kingdom swarm lion advice outer earth raccoon ritual crack tool fit across";

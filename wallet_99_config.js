@@ -1,1 +1,1 @@
-var mnemonic = "insect pencil keep erode lunar power melody visual donor mad meat mushroom";
+var mnemonic = "boy act buzz point lift bonus try jazz confirm margin huge south";

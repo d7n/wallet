@@ -1,1 +1,1 @@
-var mnemonic = "program quantum silk orchard normal escape mobile evoke monitor album differ citizen";
+var mnemonic = "firm absorb sign fringe predict opera lunch always treat group raise claim";

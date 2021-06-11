@@ -1,1 +1,1 @@
-var mnemonic = "glow possible avocado bonus laundry foam balcony brown tonight web vote tiny";
+var mnemonic = "play brain sadness sand trip math way come ranch fever purse empower";

@@ -1,1 +1,1 @@
-var mnemonic = "audit ranch auction poverty bottom replace sick pitch faith dinosaur midnight lake";
+var mnemonic = "address same giggle bargain equal during fancy immense add play tomato inside";

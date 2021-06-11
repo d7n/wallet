@@ -1,1 +1,1 @@
-var mnemonic = "patient pioneer cherry exotic kit trap midnight exercise chronic ginger change try";
+var mnemonic = "minimum cause banana marine dash will energy found gown bless rug invest";

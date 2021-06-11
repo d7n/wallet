@@ -1,1 +1,1 @@
-var mnemonic = "world immune deer cannon innocent bleak multiply energy insect burger kidney involve";
+var mnemonic = "skull observe craft left play bachelor gaze eyebrow pelican abstract soup replace";
