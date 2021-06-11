@@ -1,1 +1,1 @@
-var mnemonic = "wage void accuse dizzy mercy exhibit advice devote exchange giraffe discover relax";
+var mnemonic = "six general usual earn young wire palm clever safe flock leopard tiger";

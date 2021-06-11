@@ -1,1 +1,1 @@
-var mnemonic = "basic follow napkin tree two finish jump sound never spend virus rubber";
+var mnemonic = "trouble turtle film point episode trial innocent spare rough visit cover term";

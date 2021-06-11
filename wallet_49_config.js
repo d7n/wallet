@@ -1,1 +1,1 @@
-var mnemonic = "slide night fan razor tooth dentist sunset must combine misery small orphan";
+var mnemonic = "doll cabin time subway student drama erase slide can auto tennis join";

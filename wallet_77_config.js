@@ -1,1 +1,1 @@
-var mnemonic = "vacuum artist pizza evoke like analyst push step glare remain twist exchange";
+var mnemonic = "rain vicious shiver side cigar plate wing route tail rigid panic nothing";

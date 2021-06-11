@@ -1,1 +1,1 @@
-var mnemonic = "among myself olympic you mention civil seven carry chair squeeze typical sugar";
+var mnemonic = "document desert boat reason possible creek fury pet pig already inmate awful";

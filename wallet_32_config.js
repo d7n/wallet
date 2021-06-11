@@ -1,1 +1,1 @@
-var mnemonic = "exit garden sudden comic actress wink tunnel slow siege chest wall patch";
+var mnemonic = "position taste media tower forum predict veteran twenty stool lemon buffalo reward";

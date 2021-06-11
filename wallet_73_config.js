@@ -1,1 +1,1 @@
-var mnemonic = "clown square brain high brave peasant custom arena smart breeze senior base";
+var mnemonic = "east police urban fluid good urban fox swift corn mother pill increase";

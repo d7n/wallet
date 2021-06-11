@@ -1,1 +1,1 @@
-var mnemonic = "forward room fix region script law ready output agent room remain fan";
+var mnemonic = "sunset middle plastic game sun raven pluck huge awake balcony entire tenant";

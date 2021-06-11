@@ -1,1 +1,1 @@
-var mnemonic = "question know try swift canoe vote refuse present luxury goose feed gaze";
+var mnemonic = "pencil issue network approve tissue rib device squirrel giggle midnight annual volume";

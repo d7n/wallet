@@ -1,1 +1,1 @@
-var mnemonic = "tribe alley hair weather cable mad erase soda appear ugly crowd mesh";
+var mnemonic = "title glory jeans powder snake print tackle mad elite riot public sick";

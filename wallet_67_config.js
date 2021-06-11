@@ -1,1 +1,1 @@
-var mnemonic = "arctic shoot regular cruise desert before merry desert mixture cinnamon crouch stamp";
+var mnemonic = "sadness put utility family room wood time salon wine rhythm sick force";

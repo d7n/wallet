@@ -1,1 +1,1 @@
-var mnemonic = "various happy eternal month soft have train vague raw dash ten space";
+var mnemonic = "govern inmate afraid enact wish skate vacuum champion ill actress tilt wedding";

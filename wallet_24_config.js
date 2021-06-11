@@ -1,1 +1,1 @@
-var mnemonic = "cotton tonight bridge leopard song tape surge shallow input large song rebel";
+var mnemonic = "depart life shell legal immune trust velvet slow steel entry final claw";

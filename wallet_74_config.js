@@ -1,1 +1,1 @@
-var mnemonic = "type monitor transfer note donate repair foot base baby oppose exile decorate";
+var mnemonic = "movie blossom convince extra guide coral rose clay noble term pact pluck";

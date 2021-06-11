@@ -1,1 +1,1 @@
-var mnemonic = "lonely air box host meat include define forest almost section like nuclear";
+var mnemonic = "alert street unveil awesome staff occur ice noble minute evidence slender thank";

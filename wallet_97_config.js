@@ -1,1 +1,1 @@
-var mnemonic = "seek awkward black cram used ocean fox tragic mix crop day draw";
+var mnemonic = "horror art crucial attack absorb offer powder penalty win middle only soup";

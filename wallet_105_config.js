@@ -1,1 +1,1 @@
-var mnemonic = "athlete marble attend affair pipe avoid soap alpha mask dirt skate clog";
+var mnemonic = "episode few inflict flag portion property practice tourist harbor great pave pipe";

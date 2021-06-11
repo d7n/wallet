@@ -1,1 +1,1 @@
-var mnemonic = "blood guitar target glory make winter reduce miss silly direct actress history";
+var mnemonic = "force maple pumpkin wet gauge oven powder lamp minute gap door science";

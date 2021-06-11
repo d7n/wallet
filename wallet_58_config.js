@@ -1,1 +1,1 @@
-var mnemonic = "decade mother winter pave chase same luxury pyramid vacuum park agree sand";
+var mnemonic = "struggle transfer tree solve strong news quick shine village mango episode cart";

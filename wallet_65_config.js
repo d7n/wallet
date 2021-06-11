@@ -1,1 +1,1 @@
-var mnemonic = "chronic forest term kitchen anger common never hat wise since sugar repair";
+var mnemonic = "shaft glow space behave syrup merry casual note raven extend shift case";

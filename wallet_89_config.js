@@ -1,1 +1,1 @@
-var mnemonic = "harvest float seven scissors inner salmon mean maximum mutual model monkey company";
+var mnemonic = "concert nation fish exhaust drastic device attitude adult life refuse under crumble";

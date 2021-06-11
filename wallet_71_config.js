@@ -1,1 +1,1 @@
-var mnemonic = "elbow purchase top fortune bread shadow quit hen brief horn tool still";
+var mnemonic = "husband market casual tuition imitate owner dinosaur chef cheap write hold relief";

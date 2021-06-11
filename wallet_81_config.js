@@ -1,1 +1,1 @@
-var mnemonic = "belt pumpkin fly enhance pupil over punch space sentence chunk squeeze junior";
+var mnemonic = "dilemma awkward still crop maple plate milk drip pizza knife bacon awake";

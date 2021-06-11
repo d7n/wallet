@@ -1,1 +1,1 @@
-var mnemonic = "around volume slogan secret depart badge basket host produce climb that choice";
+var mnemonic = "lesson wage wasp chicken eager barrel prosper mansion grief unfold boy crime";

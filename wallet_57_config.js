@@ -1,1 +1,1 @@
-var mnemonic = "crack inquiry hollow bulk distance ocean copy audit pupil you marble junk";
+var mnemonic = "denial bleak skirt soap crane rib athlete option menu blush slice amount";

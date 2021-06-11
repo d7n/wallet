@@ -1,1 +1,1 @@
-var mnemonic = "token early save album drink rocket job scatter purity knock tide fox";
+var mnemonic = "column attend autumn fatigue rain suspect tonight wasp animal require license guess";

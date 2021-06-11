@@ -1,1 +1,1 @@
-var mnemonic = "trick display bubble promote female cause ecology group laugh soap struggle sentence";
+var mnemonic = "differ sword segment nominee duck faculty milk dinosaur lizard client pyramid often";

@@ -1,1 +1,1 @@
-var mnemonic = "shy omit shuffle laundry repeat leave spot space card fresh master fitness";
+var mnemonic = "grief loud increase health nerve man vanish please awful duty elbow exclude";

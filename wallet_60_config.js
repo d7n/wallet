@@ -1,1 +1,1 @@
-var mnemonic = "add must scout crack forum crash buffalo slot april knock wire render";
+var mnemonic = "blood athlete clip violin pink mandate female table ring universe lemon merry";

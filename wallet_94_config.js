@@ -1,1 +1,1 @@
-var mnemonic = "boat observe mask cross company test sustain empty battle bench announce fiber";
+var mnemonic = "once onion cycle script tooth mixed gown thought sauce lizard faint exclude";

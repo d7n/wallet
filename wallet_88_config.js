@@ -1,1 +1,1 @@
-var mnemonic = "problem labor review crowd retreat silk eight life cube calm tank zero";
+var mnemonic = "portion wish nuclear subject history consider rhythm shove runway industry lawn fresh";

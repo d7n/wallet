@@ -1,1 +1,1 @@
-var mnemonic = "satisfy improve legal clock dynamic climb once remove roof blanket window invest";
+var mnemonic = "athlete feature total shy comfort inflict column pattern property vicious impose flavor";

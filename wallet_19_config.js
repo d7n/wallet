@@ -1,1 +1,1 @@
-var mnemonic = "portion notice typical city turn broken void brown pupil cook squirrel arctic";
+var mnemonic = "critic action method leisure love vanish quality want stone inform chair excite";

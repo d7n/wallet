@@ -1,1 +1,1 @@
-var mnemonic = "fatigue drill flock trap rail used message chimney cabbage october almost derive";
+var mnemonic = "march cheap unveil ball acoustic bridge neutral rely addict obey animal health";

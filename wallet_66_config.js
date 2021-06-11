@@ -1,1 +1,1 @@
-var mnemonic = "nuclear dragon foil upper debris release erode addict flat brother angle hole";
+var mnemonic = "blame future gloom prosper girl fever panther rifle fancy half rug quote";

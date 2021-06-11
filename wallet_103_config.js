@@ -1,1 +1,1 @@
-var mnemonic = "length mirror debris dune use mad funny blade auto metal grid access";
+var mnemonic = "video away year because account ignore cry prosper melt shock winner play";

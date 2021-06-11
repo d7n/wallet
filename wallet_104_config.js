@@ -1,1 +1,1 @@
-var mnemonic = "pledge acoustic insect path peace carpet elder wink eyebrow ecology raccoon find";
+var mnemonic = "permit divorce sibling need hint broom north dove mutual tribe chat return";

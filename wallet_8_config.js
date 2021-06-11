@@ -1,1 +1,1 @@
-var mnemonic = "front top unknown license acid lab fit about must olympic bar smoke";
+var mnemonic = "measure sunset prize furnace nest absurd shrimp dragon license glide enjoy access";

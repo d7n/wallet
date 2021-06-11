@@ -1,1 +1,1 @@
-var mnemonic = "sand hat enroll exclude waste keen announce emerge toast rubber sort indicate";
+var mnemonic = "daring thank mad bright happy dove slam weasel pattern parade forest goat";

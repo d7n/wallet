@@ -1,1 +1,1 @@
-var mnemonic = "senior doctor issue claim venue glory injury arena choose deliver legend cable";
+var mnemonic = "harsh slogan trigger evolve boat scout install assume rabbit alley hawk zebra";

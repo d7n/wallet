@@ -1,1 +1,1 @@
-var mnemonic = "siren embody front month this zone increase rely garden acquire stool drift";
+var mnemonic = "ivory rebel area damp expand combine lobster exit cube tongue scare frequent";

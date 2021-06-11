@@ -1,1 +1,1 @@
-var mnemonic = "noodle what problem chuckle armed return spread umbrella share intact chair improve";
+var mnemonic = "across coral fade bundle tiny wink tennis text sword tag rice horn";

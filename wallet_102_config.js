@@ -1,1 +1,1 @@
-var mnemonic = "file crime latin notable still better corn gloom pretty large minute range";
+var mnemonic = "shoulder pilot bridge buffalo empower model round correct fox stairs toy wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "garage buyer close twin outside february dog swap ladder system enemy used";
+var mnemonic = "festival define title wall mouse process swift base later talk this cliff";

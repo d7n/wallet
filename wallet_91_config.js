@@ -1,1 +1,1 @@
-var mnemonic = "renew modify tonight analyst broken course length stock sting surge peasant torch";
+var mnemonic = "lyrics love auction spare series walnut face grunt license anxiety away mean";

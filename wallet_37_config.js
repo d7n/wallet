@@ -1,1 +1,1 @@
-var mnemonic = "hen uncover open tell churn exhaust lab bracket hungry alter announce spike";
+var mnemonic = "version camera safe core chase nephew peanut equip cover snack unaware can";

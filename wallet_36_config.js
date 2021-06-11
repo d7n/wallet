@@ -1,1 +1,1 @@
-var mnemonic = "negative early barely gasp around fury glance melt velvet case strategy topic";
+var mnemonic = "seek pilot arrange enforce feed vast depend decline relief album fiscal ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "human color garlic isolate river setup present card shadow exercise broccoli spirit";
+var mnemonic = "transfer arm early hedgehog blue issue holiday before control buddy gold battle";

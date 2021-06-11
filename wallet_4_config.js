@@ -1,1 +1,1 @@
-var mnemonic = "impact tired catch actor blame kingdom silk drastic truly chronic sure loop";
+var mnemonic = "marine chef wrap ketchup busy voyage bone milk menu broom capable gun";

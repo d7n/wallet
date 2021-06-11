@@ -1,1 +1,1 @@
-var mnemonic = "inch normal where idea doll poem soap shuffle course sister close element";
+var mnemonic = "web dismiss predict roast party unique strike aerobic crumble enrich security jewel";

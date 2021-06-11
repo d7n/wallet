@@ -1,1 +1,1 @@
-var mnemonic = "festival search inquiry tone caution negative divorce laptop arena beach salad normal";
+var mnemonic = "project true fever various phrase puzzle ignore stock forum either consider ticket";

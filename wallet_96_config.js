@@ -1,1 +1,1 @@
-var mnemonic = "saddle word service bring awesome mammal custom employ vital medal liberty exit";
+var mnemonic = "phrase blanket clip abuse afraid film degree copper quick pen mesh entry";

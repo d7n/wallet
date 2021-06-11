@@ -1,1 +1,1 @@
-var mnemonic = "pledge click return dismiss dress trend stereo since traffic super file history";
+var mnemonic = "pet cousin barely stool erosion collect skirt twist liberty amazing buyer sand";

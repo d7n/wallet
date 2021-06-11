@@ -1,1 +1,1 @@
-var mnemonic = "silk crop pass twelve give snow marine knee basket cube key usual";
+var mnemonic = "argue siren doll put celery output arrive swing monster night pumpkin dad";

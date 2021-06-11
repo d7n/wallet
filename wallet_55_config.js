@@ -1,1 +1,1 @@
-var mnemonic = "theory release hire wing dish smart crowd system welcome notable gauge bulb";
+var mnemonic = "leave bulk version emotion online popular differ curious lazy crucial lounge differ";

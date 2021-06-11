@@ -1,1 +1,1 @@
-var mnemonic = "phrase caution regret issue vague elephant saddle lecture violin tree math leisure";
+var mnemonic = "urban margin scissors light illness fossil train ghost silk horror dirt moment";

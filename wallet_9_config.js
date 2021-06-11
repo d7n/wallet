@@ -1,1 +1,1 @@
-var mnemonic = "near voyage either teach strategy brisk search drive chase glass defy cook";
+var mnemonic = "rough imitate truth helmet auto gown solid endorse intact taste margin mercy";

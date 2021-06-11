@@ -1,1 +1,1 @@
-var mnemonic = "wet rescue defense onion walnut drill long scale dismiss plate youth sphere";
+var mnemonic = "armor carry scan cable soft wild equal clown canyon smoke thank dignity";

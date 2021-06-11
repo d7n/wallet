@@ -1,1 +1,1 @@
-var mnemonic = "apart stereo build vacant code drastic crater side path mechanic repeat pitch";
+var mnemonic = "embark valid master census change december sound solar deal screen wall auction";

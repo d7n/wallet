@@ -1,1 +1,1 @@
-var mnemonic = "verify knock draft odor nature drip local bench else oval swear shrimp";
+var mnemonic = "hidden blind asthma naive sound advice donor spy response know feed left";

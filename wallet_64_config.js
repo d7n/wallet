@@ -1,1 +1,1 @@
-var mnemonic = "smoke else figure organ shine work head cricket mean stock exit cradle";
+var mnemonic = "chapter play tackle sibling unlock worth dwarf orange castle regular opera exile";

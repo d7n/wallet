@@ -1,1 +1,1 @@
-var mnemonic = "mercy daughter ice rebel swallow domain outdoor tube answer diary cheese rare";
+var mnemonic = "invite sunny blanket neglect filter dry powder useless unlock trumpet people train";

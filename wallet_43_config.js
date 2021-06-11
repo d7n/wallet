@@ -1,1 +1,1 @@
-var mnemonic = "regular junk keep drip miracle erosion deal north ready slim model coast";
+var mnemonic = "include vacuum surprise language hub glide credit spawn horse arena guilt tray";

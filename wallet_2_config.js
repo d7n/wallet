@@ -1,1 +1,1 @@
-var mnemonic = "team suffer silk movie dose scan gasp noble bubble buddy pool switch";
+var mnemonic = "pluck train omit much flee robust common ten culture permit brand aunt";

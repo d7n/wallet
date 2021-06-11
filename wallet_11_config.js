@@ -1,1 +1,1 @@
-var mnemonic = "cliff casino attack ripple clinic crucial tumble skin wait royal green breeze";
+var mnemonic = "raccoon theory hazard liquid dynamic stable monitor shaft pool life flight notable";

@@ -1,1 +1,1 @@
-var mnemonic = "main hundred hero roast awful method yard live amateur pitch joy romance";
+var mnemonic = "access sea vanish fever news enjoy essay easy ski radio inject kick";

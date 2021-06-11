@@ -1,1 +1,1 @@
-var mnemonic = "long join garden green edge over learn mixture deputy flight vote merry";
+var mnemonic = "frozen wonder become desert pipe creek truck annual spy pause tilt harvest";

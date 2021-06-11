@@ -1,1 +1,1 @@
-var mnemonic = "stay ripple outside awful weather inch decrease quiz cabbage nurse use ocean";
+var mnemonic = "school giant federal between present album purity train vehicle wrestle badge unfold";

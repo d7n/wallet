@@ -1,1 +1,1 @@
-var mnemonic = "only crisp scrap hover essence proof trap detail easy convince brisk float";
+var mnemonic = "region patch grow kiwi also answer moon lunch trim palace sibling pull";

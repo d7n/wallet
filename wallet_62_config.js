@@ -1,1 +1,1 @@
-var mnemonic = "trumpet advance skirt pizza device resource swift document shine smile gauge clown";
+var mnemonic = "cement answer drop under genuine proof turn ginger tired donkey provide crush";

@@ -1,1 +1,1 @@
-var mnemonic = "brick equip wing quote sauce mansion fuel fringe ladder wear earn goddess";
+var mnemonic = "shield avoid ride muffin throw spirit session fresh enroll wagon still volume";

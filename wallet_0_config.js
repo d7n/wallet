@@ -1,1 +1,1 @@
-var mnemonic = "bonus unknown horse laundry slow acoustic immune permit egg bulk indoor beauty";
+var mnemonic = "vote genre benefit saddle burst hello exclude water apple drama ocean woman";

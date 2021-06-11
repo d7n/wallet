@@ -1,1 +1,1 @@
-var mnemonic = "corn penalty wheel glow comfort juice injury sheriff beyond certain sea aunt";
+var mnemonic = "rural chronic cool ugly waste daring million popular turkey sentence pistol basket";

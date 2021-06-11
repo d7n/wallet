@@ -1,1 +1,1 @@
-var mnemonic = "metal music ozone certain defy soldier gas asthma base silver object sister";
+var mnemonic = "explain parrot burger easy immune banner voyage they foil depth gap lonely";

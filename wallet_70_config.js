@@ -1,1 +1,1 @@
-var mnemonic = "match cabbage hollow patient enforce island common angry subject betray grunt equip";
+var mnemonic = "mechanic fee patch potato drama movie property jealous demise coach visit creek";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd ice clay recipe dynamic long kiss august main total shrug fade";
+var mnemonic = "cupboard october poem canal exercise month cart erase shock sugar mention only";

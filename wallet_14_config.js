@@ -1,1 +1,1 @@
-var mnemonic = "table mad tomorrow okay fruit park toilet unaware lady caution prison canvas";
+var mnemonic = "drill random brother grace lonely bonus charge unlock awful near cruel primary";

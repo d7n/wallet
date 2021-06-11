@@ -1,1 +1,1 @@
-var mnemonic = "shoe nature live soft express hybrid silly alter caught atom tobacco install";
+var mnemonic = "range remain load unlock fog armed ill dish cool during service great";

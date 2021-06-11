@@ -1,1 +1,1 @@
-var mnemonic = "brother proof hat awesome alpha air key situate fog traffic sudden gather";
+var mnemonic = "essay couple ketchup suffer best robust scheme knife deal hand tortoise unveil";

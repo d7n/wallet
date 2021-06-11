@@ -1,1 +1,1 @@
-var mnemonic = "evoke giraffe buyer stone verb health little approve valve gadget fix argue";
+var mnemonic = "answer cupboard pilot twelve cram pigeon add kind wisdom decline spare harvest";

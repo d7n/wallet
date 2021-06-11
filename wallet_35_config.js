@@ -1,1 +1,1 @@
-var mnemonic = "tilt amount trap local floor rabbit sweet cotton evoke bread wasp oven";
+var mnemonic = "street decrease index afraid bus october cigar nation core vessel vapor poem";

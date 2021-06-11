@@ -1,1 +1,1 @@
-var mnemonic = "scorpion obvious buffalo excuse crouch great awake kit settle you orange jaguar";
+var mnemonic = "copy embrace panda gossip discover balance dice stock budget hold tunnel ball";

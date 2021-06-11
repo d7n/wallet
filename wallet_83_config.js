@@ -1,1 +1,1 @@
-var mnemonic = "three power barrel mirror improve position swing unlock rose type symptom over";
+var mnemonic = "cheap radar fresh peace desert input pen chief honey normal sing onion";

@@ -1,1 +1,1 @@
-var mnemonic = "park noble travel lizard post heart hood donate notice drill deliver crane";
+var mnemonic = "divorce bird excite pupil climb offer lemon soft snow brief balcony slam";

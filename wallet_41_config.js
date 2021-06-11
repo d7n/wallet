@@ -1,1 +1,1 @@
-var mnemonic = "icon where wreck cave pumpkin pattern artefact lift ordinary budget decorate ski";
+var mnemonic = "pet bonus sustain degree bitter job dune fatal critic kitten brother mention";

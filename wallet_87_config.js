@@ -1,1 +1,1 @@
-var mnemonic = "nominee trouble critic vanish mask fortune face rhythm busy excess layer bronze";
+var mnemonic = "work lava meadow buzz corn busy aunt expire push glass million cabbage";

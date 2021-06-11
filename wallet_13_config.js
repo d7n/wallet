@@ -1,1 +1,1 @@
-var mnemonic = "front midnight honey erosion baby swamp curve easy hockey possible under radio";
+var mnemonic = "sibling box young disagree certain eagle bomb receive knife sponsor congress snack";

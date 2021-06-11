@@ -1,1 +1,1 @@
-var mnemonic = "hamster trigger rookie between earth series venue various goddess join food segment";
+var mnemonic = "hobby travel stay brown differ bounce cloth mean fan zone crisp include";
