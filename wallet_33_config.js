@@ -1,1 +1,1 @@
-var mnemonic = "endless ticket globe satoshi worth jar negative country idle elite marriage echo";
+var mnemonic = "trigger title culture comfort want fork fashion normal canoe off plastic twelve";

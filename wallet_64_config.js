@@ -1,1 +1,1 @@
-var mnemonic = "hockey mention clutch already below chicken journey know kite verb town grant";
+var mnemonic = "profit saddle latin ridge snow fiber tackle focus lava runway squeeze silly";

@@ -1,1 +1,1 @@
-var mnemonic = "fun fetch scan budget sport clown age second sun wash local discover";
+var mnemonic = "episode during elbow december spend decorate plastic brave gain anchor phone brown";

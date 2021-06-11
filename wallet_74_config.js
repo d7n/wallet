@@ -1,1 +1,1 @@
-var mnemonic = "waste hidden glare debate display diary critic lake text diary thumb control";
+var mnemonic = "tragic fine brave matter begin tomorrow among echo camp chimney glimpse differ";

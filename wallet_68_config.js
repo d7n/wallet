@@ -1,1 +1,1 @@
-var mnemonic = "put snake supreme elite poverty tunnel reduce flee fit extend heavy biology";
+var mnemonic = "advice swap buffalo polar wide normal front insane elevator fringe just rail";

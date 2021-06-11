@@ -1,1 +1,1 @@
-var mnemonic = "same notable hip monster alien snack cloud scheme pill tide wrestle tired";
+var mnemonic = "tape analyst top cycle awake leopard when napkin portion capital hundred enter";

@@ -1,1 +1,1 @@
-var mnemonic = "drink lobster solar era minimum swim ordinary road manage helmet beef pill";
+var mnemonic = "march initial nut cash year calm shield marriage crack park grain actress";

@@ -1,1 +1,1 @@
-var mnemonic = "crew rescue accident worth tail reason predict obvious furnace torch away short";
+var mnemonic = "stage dose night grass seat buzz head hurdle street tourist gown aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "blush pigeon jeans opera churn usage road general absorb extra alone warrior";
+var mnemonic = "chicken roof merry bridge pet topple body short owner mistake joy rival";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp sing hollow cattle cloth disorder salon trumpet spawn almost office steel";
+var mnemonic = "noodle silk amateur smile stove barrel cricket penalty child million note electric";

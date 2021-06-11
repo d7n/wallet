@@ -1,1 +1,1 @@
-var mnemonic = "phone repeat oval hamster come script aunt jealous imitate enroll liar monitor";
+var mnemonic = "govern shield smooth party ski capable host obtain act appear width kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue print surprise buddy gorilla neither champion stay warm paper interest spread";
+var mnemonic = "tooth hat nuclear milk auto scatter village churn exit face lottery pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "noise valid dizzy grocery inner grow inner maze cat maid market save";
+var mnemonic = "camera stadium soldier zoo view attack discover flock human problem rocket fancy";

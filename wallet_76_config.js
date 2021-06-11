@@ -1,1 +1,1 @@
-var mnemonic = "solar student gap flavor update tent ankle tribe ancient cluster forward clean";
+var mnemonic = "health idle rubber okay invite tent lawn page gadget net artist text";

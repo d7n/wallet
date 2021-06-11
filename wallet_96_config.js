@@ -1,1 +1,1 @@
-var mnemonic = "speak rug ceiling grief stone lottery thing sentence pitch cherry country pause";
+var mnemonic = "able penalty romance raccoon symptom endorse daughter mistake solid sword repair gentle";

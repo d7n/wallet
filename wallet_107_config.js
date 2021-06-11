@@ -1,1 +1,1 @@
-var mnemonic = "gauge kiss write farm reject face source crew govern explain album narrow";
+var mnemonic = "undo rude alley tide purity fox rural wool lawn bubble lady smart";

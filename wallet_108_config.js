@@ -1,1 +1,1 @@
-var mnemonic = "you nuclear promote powder mask month mom envelope finish eyebrow cross approve";
+var mnemonic = "wasp filter tilt loop toilet venue horror width peanut success pretty whisper";

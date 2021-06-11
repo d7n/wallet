@@ -1,1 +1,1 @@
-var mnemonic = "please bench region copper scrub shrimp episode walk mask merit great seven";
+var mnemonic = "kitchen edge focus fluid early economy gather apology unable ahead catalog dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic tackle profit exclude example beef advance circle faint hard borrow noble";
+var mnemonic = "jelly flush permit vendor chunk actual struggle mosquito crazy lunch debris senior";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf quiz inch increase chest million horn warrior sugar buddy horse dune";
+var mnemonic = "very that wisdom pottery pave design length duty bleak this mask blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve right sense shift sketch festival crisp three equal inject excess grocery";
+var mnemonic = "scorpion like question rather crazy truly action ordinary alter follow panther much";

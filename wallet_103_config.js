@@ -1,1 +1,1 @@
-var mnemonic = "book appear image cake shield tree ordinary garment endorse hunt immune master";
+var mnemonic = "steel tank people absurd cereal romance brick then marriage street decline mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "open title clinic enjoy west brush dust claw boss sunny letter version";
+var mnemonic = "judge oven salon man vacuum battle boy lesson wage student ask gather";

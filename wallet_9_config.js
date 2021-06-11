@@ -1,1 +1,1 @@
-var mnemonic = "use name soap suit priority raven box rigid aware zone head setup";
+var mnemonic = "nurse interest pond monster correct derive laugh eager swift quick bitter talent";

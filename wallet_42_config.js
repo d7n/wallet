@@ -1,1 +1,1 @@
-var mnemonic = "budget warfare learn urban deny affair enough notable salt torch adapt half";
+var mnemonic = "lucky canyon trap find settle feel mouse magic topple magic over chronic";

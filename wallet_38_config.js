@@ -1,1 +1,1 @@
-var mnemonic = "original trend gas parent urge wear cable net anger exile swarm excess";
+var mnemonic = "random patrol rally vital fiber doll rib biology loud volume mystery tortoise";

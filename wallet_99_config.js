@@ -1,1 +1,1 @@
-var mnemonic = "bar view autumn report nurse walk appear envelope asset shop spatial wine";
+var mnemonic = "spawn treat trouble cluster dragon open symptom local bargain bag cattle crash";

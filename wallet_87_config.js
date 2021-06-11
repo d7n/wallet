@@ -1,1 +1,1 @@
-var mnemonic = "calm nasty regret angle piece since still citizen runway lunar luxury gold";
+var mnemonic = "quiz clock brick pipe coconut decrease eyebrow ancient example piano fence involve";

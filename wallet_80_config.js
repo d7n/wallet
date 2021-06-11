@@ -1,1 +1,1 @@
-var mnemonic = "shift mechanic soul text world mixture truck canal surprise tribe rally venue";
+var mnemonic = "roast claim quality wreck hen village blanket stamp proof museum wife slender";

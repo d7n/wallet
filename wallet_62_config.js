@@ -1,1 +1,1 @@
-var mnemonic = "chief mutual lend effort disagree usual cigar airport output excuse volcano badge";
+var mnemonic = "brown repair chef tragic gadget choose glide usage grief list this private";

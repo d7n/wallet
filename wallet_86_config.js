@@ -1,1 +1,1 @@
-var mnemonic = "decline party plate beauty badge vivid crack deposit gauge soda inject enrich";
+var mnemonic = "ready employ marine alarm garage fat gauge injury harbor blast virtual ranch";

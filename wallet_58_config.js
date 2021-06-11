@@ -1,1 +1,1 @@
-var mnemonic = "decide magic print knife burden strong hurt grocery oppose spoil army share";
+var mnemonic = "country bounce minimum bracket engage march small lounge priority try drill filter";

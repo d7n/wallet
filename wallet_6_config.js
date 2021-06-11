@@ -1,1 +1,1 @@
-var mnemonic = "chef save neither key walnut couple absorb clean civil seven letter practice";
+var mnemonic = "meadow girl favorite across bitter huge garbage trigger dose pair loan local";

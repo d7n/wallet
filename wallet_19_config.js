@@ -1,1 +1,1 @@
-var mnemonic = "evolve december energy crater sugar skirt process click apology bulb range route";
+var mnemonic = "ugly naive used early badge animal wall among volume skirt welcome pool";

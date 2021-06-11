@@ -1,1 +1,1 @@
-var mnemonic = "feed merry permit raccoon soup thing mansion foam shove twin island swallow";
+var mnemonic = "uncle rural lottery nuclear safe chaos simple clean chunk fetch cart raccoon";

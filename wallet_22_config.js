@@ -1,1 +1,1 @@
-var mnemonic = "flat globe nature solution myself funny tongue brief uncover shy tongue bunker";
+var mnemonic = "lucky hobby truck wait knock rebel flower mango always process surface logic";

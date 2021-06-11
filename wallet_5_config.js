@@ -1,1 +1,1 @@
-var mnemonic = "month portion there credit cannon proof cushion ginger flush fiction wave common";
+var mnemonic = "vacant income cute figure purpose wisdom limit cry aisle tonight pole guitar";

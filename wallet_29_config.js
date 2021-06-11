@@ -1,1 +1,1 @@
-var mnemonic = "choice uphold crunch apology practice decade warm world canvas faint axis hobby";
+var mnemonic = "ride curve either family merge attract melody april attitude amount decline glare";

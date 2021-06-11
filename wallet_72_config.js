@@ -1,1 +1,1 @@
-var mnemonic = "approve arrest apology turtle raccoon radar boss plastic drift grit can notice";
+var mnemonic = "neutral poem leg brain digital bridge very box adjust grape emotion sell";

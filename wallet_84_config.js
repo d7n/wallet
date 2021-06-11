@@ -1,1 +1,1 @@
-var mnemonic = "bless diamond gentle blanket opera trend absorb series cherry live spin fade";
+var mnemonic = "like earn radio anchor disease universe elbow shove noodle warfare emerge okay";

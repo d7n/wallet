@@ -1,1 +1,1 @@
-var mnemonic = "pyramid hamster success blossom lady acoustic bullet title gown coffee seminar fork";
+var mnemonic = "trouble tube device walnut diesel client large able invest acoustic issue omit";

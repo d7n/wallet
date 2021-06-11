@@ -1,1 +1,1 @@
-var mnemonic = "office taxi coach use winter humble spell rent lady vocal clown taxi";
+var mnemonic = "lift face must plastic inherit solution enlist tourist slender veteran fury trouble";

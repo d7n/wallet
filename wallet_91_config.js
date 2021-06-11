@@ -1,1 +1,1 @@
-var mnemonic = "action absent equip hold ankle border into exhaust marine guilt crop liar";
+var mnemonic = "matrix swarm impose south doctor wave obscure west grab mercy slender dinosaur";

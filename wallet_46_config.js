@@ -1,1 +1,1 @@
-var mnemonic = "resist envelope soap ahead fence arm current pistol south pipe brown artist";
+var mnemonic = "seven hedgehog night math keen suspect match that slam carbon train start";

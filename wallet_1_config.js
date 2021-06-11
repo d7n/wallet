@@ -1,1 +1,1 @@
-var mnemonic = "slush pact blame gas evolve run bachelor layer fury dwarf sister abuse";
+var mnemonic = "rain avoid bag real soda pen alley day moment any sound garlic";

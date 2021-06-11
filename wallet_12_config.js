@@ -1,1 +1,1 @@
-var mnemonic = "vacant powder honey nut celery rule addict border nuclear acoustic tired gown";
+var mnemonic = "hole predict thought unknown diamond layer release boat south certain express enhance";

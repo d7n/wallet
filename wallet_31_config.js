@@ -1,1 +1,1 @@
-var mnemonic = "side atom enact ancient act cry stove direct game loyal pink balcony";
+var mnemonic = "journey strategy margin ready artefact excuse penalty emerge setup valid piano first";

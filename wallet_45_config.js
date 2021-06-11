@@ -1,1 +1,1 @@
-var mnemonic = "fossil annual opera thought property chair roast cattle junk balcony diet aunt";
+var mnemonic = "risk trick rate cash trash fence charge select rubber truly exact quick";

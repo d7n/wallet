@@ -1,1 +1,1 @@
-var mnemonic = "spoon man fluid actress remain opera combine transfer caution dog vehicle test";
+var mnemonic = "group layer when top stand rude network mansion piano neglect shine fall";

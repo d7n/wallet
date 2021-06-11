@@ -1,1 +1,1 @@
-var mnemonic = "famous stock eternal jealous feed teach assault grunt coffee champion bean talk";
+var mnemonic = "bird town try pause enforce disagree exclude plastic begin fence snap gas";

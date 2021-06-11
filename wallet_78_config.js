@@ -1,1 +1,1 @@
-var mnemonic = "bacon human right educate slush disorder file panther sentence rack palm coin";
+var mnemonic = "brown push venue panic electric custom blind cabbage catch cluster desert tobacco";

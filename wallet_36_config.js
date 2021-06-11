@@ -1,1 +1,1 @@
-var mnemonic = "blanket wire extra boy hair awkward divert you envelope clinic leg visual";
+var mnemonic = "state twelve noble marble ghost reflect poet arrange glass split derive hold";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle slight glad onion few depth devote room kitten humble glance possible";
+var mnemonic = "join around plastic together space ticket air spider large flee brand grace";

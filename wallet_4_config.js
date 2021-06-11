@@ -1,1 +1,1 @@
-var mnemonic = "rebuild egg cruel half suspect female title typical idea economy reject volcano";
+var mnemonic = "space conduct game crisp blush original brick agent dice pioneer security coast";

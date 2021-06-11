@@ -1,1 +1,1 @@
-var mnemonic = "month myself length display draft tenant innocent arctic fit odor relax frame";
+var mnemonic = "drive wrestle ice drip bread merit ceiling flavor weapon when very maximum";

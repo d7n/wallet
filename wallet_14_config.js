@@ -1,1 +1,1 @@
-var mnemonic = "toy scout cannon faculty material brother road cat pepper pen neither clip";
+var mnemonic = "review gate reduce lazy still control trash attract dignity fold absent rebel";

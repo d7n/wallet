@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog stadium urban zone alley whisper hungry loop health wild input glow";
+var mnemonic = "hero crime excite stable fetch fortune plunge horn path share put caution";

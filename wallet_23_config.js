@@ -1,1 +1,1 @@
-var mnemonic = "since polar warm much title radio tent bamboo write force tone wise";
+var mnemonic = "carry trigger what noodle width assume unlock hurt worry double lab stem";

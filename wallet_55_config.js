@@ -1,1 +1,1 @@
-var mnemonic = "waste attack soul embody sunset office three cupboard judge twist flock trick";
+var mnemonic = "balance lottery render transfer orphan lesson whale essence repeat tray great source";

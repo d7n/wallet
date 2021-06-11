@@ -1,1 +1,1 @@
-var mnemonic = "satoshi sword educate laugh label select item square public clerk suffer stomach";
+var mnemonic = "symbol hurdle boss mountain wave physical wool catch artefact blame scorpion water";

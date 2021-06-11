@@ -1,1 +1,1 @@
-var mnemonic = "almost glass island install tide umbrella huge drip sketch tooth rent naive";
+var mnemonic = "error have proof polar attend load arrest wonder dignity story organ rebel";

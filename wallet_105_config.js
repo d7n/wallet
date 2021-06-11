@@ -1,1 +1,1 @@
-var mnemonic = "outer scene olympic search ostrich train oxygen awful license photo actress comfort";
+var mnemonic = "exchange umbrella egg hen screen release knee parent ordinary cable dumb dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum useless collect pond sea consider once shift you tree sail assist";
+var mnemonic = "auction depend purse replace knock cattle six fade bargain lottery apart decline";

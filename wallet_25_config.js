@@ -1,1 +1,1 @@
-var mnemonic = "cargo garbage garbage swear merry rotate web day wheel fragile unusual volume";
+var mnemonic = "claim culture plug pond casual frog course sibling kingdom hero play tip";

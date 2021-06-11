@@ -1,1 +1,1 @@
-var mnemonic = "walnut float have make wage fish vast dawn assume foam file action";
+var mnemonic = "security walk page embrace artist venue false cost around chapter next torch";

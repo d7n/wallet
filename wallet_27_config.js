@@ -1,1 +1,1 @@
-var mnemonic = "race iron chalk body swear object chuckle false always potato busy switch";
+var mnemonic = "emotion caught guitar print fame pelican link few session draft fortune describe";

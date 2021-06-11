@@ -1,1 +1,1 @@
-var mnemonic = "manage truly wide own best magic inmate keep treat negative tent pact";
+var mnemonic = "toy moon tide pink ring kangaroo minute crisp evolve math minute focus";

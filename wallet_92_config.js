@@ -1,1 +1,1 @@
-var mnemonic = "creek south isolate raven divorce noble help trophy balcony garbage zone major";
+var mnemonic = "duty man wisdom vast join uphold demise scan sad viable injury sting";

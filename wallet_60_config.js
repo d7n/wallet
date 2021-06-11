@@ -1,1 +1,1 @@
-var mnemonic = "train viable bottom cabbage virus birth hockey open select raccoon stamp cactus";
+var mnemonic = "metal capable student affair pottery beach neck never balance sword unlock end";

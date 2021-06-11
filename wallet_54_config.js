@@ -1,1 +1,1 @@
-var mnemonic = "find fiscal universe erupt west ripple consider real ski hard ethics allow";
+var mnemonic = "live good clever horse merry chunk upgrade food web engage final expire";

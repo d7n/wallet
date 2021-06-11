@@ -1,1 +1,1 @@
-var mnemonic = "ocean post match autumn farm boil style live miss way reopen battle";
+var mnemonic = "noise notice inner initial keen popular brown length atom unique essay manual";

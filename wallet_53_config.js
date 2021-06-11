@@ -1,1 +1,1 @@
-var mnemonic = "rack drill ethics boost labor dawn salute barrel fever quantum pattern ladder";
+var mnemonic = "volume river such attack crane margin suffer idea boat cluster amount misery";

@@ -1,1 +1,1 @@
-var mnemonic = "tape lend art grocery domain huge road wheel shrug learn thank match";
+var mnemonic = "pride laptop biology rotate congress pelican mercy trumpet squeeze order tree clutch";

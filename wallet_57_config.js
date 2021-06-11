@@ -1,1 +1,1 @@
-var mnemonic = "key vessel settle blossom artist word erase attitude monkey enlist oyster plunge";
+var mnemonic = "always heart spray cliff paddle coin emotion present adapt lamp region bench";

@@ -1,1 +1,1 @@
-var mnemonic = "better infant combine viable fresh exile drastic owner caught giggle leaf honey";
+var mnemonic = "cement mercy better shuffle toss vocal opera blind ladder bitter catch rhythm";

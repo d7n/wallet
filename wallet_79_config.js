@@ -1,1 +1,1 @@
-var mnemonic = "exit abandon kitchen van around dish volume welcome hill multiply reunion dish";
+var mnemonic = "arrive impose slender damp picture frequent hungry situate margin verify depart jealous";

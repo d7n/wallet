@@ -1,1 +1,1 @@
-var mnemonic = "embody analyst sadness toilet phone track slice thing song gauge honey consider";
+var mnemonic = "dress inner indoor nasty govern intact circle exact enrich tank champion year";

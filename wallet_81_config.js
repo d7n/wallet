@@ -1,1 +1,1 @@
-var mnemonic = "patrol remain speed beach rude return distance oak umbrella dynamic fancy calm";
+var mnemonic = "hunt truly race rifle profit hill episode ocean wine arctic note warm";

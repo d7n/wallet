@@ -1,1 +1,1 @@
-var mnemonic = "harvest dizzy session myself parade clutch direct cousin goat curtain access furnace";
+var mnemonic = "blue stove illegal cable panda fox divert rally please close potato target";

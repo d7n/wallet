@@ -1,1 +1,1 @@
-var mnemonic = "upper lion update fossil next piece lake exile broken general umbrella arrow";
+var mnemonic = "dish marine truly raccoon tower canyon orange artefact fish enter medal cause";

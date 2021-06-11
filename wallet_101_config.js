@@ -1,1 +1,1 @@
-var mnemonic = "leg danger item put vendor tribe term young hood dynamic system speed";
+var mnemonic = "runway stomach decade spy spice sweet melt amazing soon wool exist jump";

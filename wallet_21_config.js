@@ -1,1 +1,1 @@
-var mnemonic = "patient arrow chief rain review brother rather media social quit cliff aware";
+var mnemonic = "match tank inner steak attract chef pool thrive brown ski spread strike";

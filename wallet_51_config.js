@@ -1,1 +1,1 @@
-var mnemonic = "permit notice become sheriff ticket salute design odor region between cruel furnace";
+var mnemonic = "myth execute ticket wealth battle can tumble own certain few other advice";
