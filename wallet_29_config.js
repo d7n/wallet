@@ -1,1 +1,1 @@
-var mnemonic = "swim friend must mask always just morning soap minor emotion filter dirt";
+var mnemonic = "blouse because flavor betray pull earth rose goddess calm pumpkin citizen surprise";

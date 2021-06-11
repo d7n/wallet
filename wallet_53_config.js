@@ -1,1 +1,1 @@
-var mnemonic = "brisk giraffe daring bullet napkin lab mail try blade cart gain void";
+var mnemonic = "final oil mean infant plate globe grain ugly must shift vague state";

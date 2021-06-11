@@ -1,1 +1,1 @@
-var mnemonic = "sort divert shine relax broken retreat crane clap cigar black bag material";
+var mnemonic = "link divert copy staff cricket sunset sure gentle suspect rack razor rely";

@@ -1,1 +1,1 @@
-var mnemonic = "dry maid grass turkey lawsuit unfair uncover inject prefer trend office hundred";
+var mnemonic = "there deposit grit pool acoustic hammer account extra venue erase orchard wrist";

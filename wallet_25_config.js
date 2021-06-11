@@ -1,1 +1,1 @@
-var mnemonic = "glue scorpion fox device fossil mail anchor bubble theory claw stamp snap";
+var mnemonic = "style property vast raw salute balcony item arrive fever reason valley cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "element ribbon angry swift joke grass punch pepper acid shock deposit song";
+var mnemonic = "abandon slender neutral joke twenty gown supply loud sudden flash poem lounge";

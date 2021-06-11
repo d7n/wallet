@@ -1,1 +1,1 @@
-var mnemonic = "olympic stool uncover advice pink cruise planet output way work arrow topple";
+var mnemonic = "dish else sudden lend record clock clump gesture number trim upgrade hurdle";

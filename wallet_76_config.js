@@ -1,1 +1,1 @@
-var mnemonic = "guard frozen area fault obvious when unit mother ball genuine guitar apology";
+var mnemonic = "mansion swim future rule accident van title drum bless uncover suit metal";

@@ -1,1 +1,1 @@
-var mnemonic = "mail report evil quote eight change silly cherry lounge spare debris wet";
+var mnemonic = "diet head globe defense matter omit cover mixed decide pluck magnet junk";

@@ -1,1 +1,1 @@
-var mnemonic = "arena solution thumb shift van tent artwork ocean attitude escape bronze easily";
+var mnemonic = "often sunny regret toward gain opera asthma cluster drift upgrade market loyal";

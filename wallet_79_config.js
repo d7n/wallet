@@ -1,1 +1,1 @@
-var mnemonic = "birth crunch layer cereal ethics column cruise still correct advice parent must";
+var mnemonic = "bring wine sock blush naive sock census useful dress bundle vital right";

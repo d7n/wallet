@@ -1,1 +1,1 @@
-var mnemonic = "strong crater book throw infant mammal boring mule pyramid cable wire cactus";
+var mnemonic = "alter fashion hair hurt guard rubber proof custom unlock correct ask chronic";

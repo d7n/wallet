@@ -1,1 +1,1 @@
-var mnemonic = "popular tumble host ladder buffalo federal dice frown similar harsh dad galaxy";
+var mnemonic = "kiwi boy assist veteran fit student rigid train tunnel core park pupil";

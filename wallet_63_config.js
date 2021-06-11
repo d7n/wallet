@@ -1,1 +1,1 @@
-var mnemonic = "seat name staff robust lumber auction glow problem almost win pluck column";
+var mnemonic = "basket spice tuition depart biology thunder cricket crime card aspect video shove";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen wheat question insane oyster resemble humble always column foil oxygen boy";
+var mnemonic = "still uphold struggle target pig uncover pipe damage tool maze evidence enrich";

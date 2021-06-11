@@ -1,1 +1,1 @@
-var mnemonic = "day reject sign affair better gaze all desert resource damp mail bright";
+var mnemonic = "daughter viable hammer umbrella hand flower beauty excuse sponsor autumn stuff recycle";

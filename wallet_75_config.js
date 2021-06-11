@@ -1,1 +1,1 @@
-var mnemonic = "hire exhaust truth describe ketchup raw curve ivory flash dose sand aware";
+var mnemonic = "direct either punch grant this twist drum beauty owner tumble tag addict";

@@ -1,1 +1,1 @@
-var mnemonic = "coast cricket basic spread much have carbon among mimic gold toss move";
+var mnemonic = "vapor remain argue asset viable afraid collect world negative entire immense cushion";

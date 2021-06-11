@@ -1,1 +1,1 @@
-var mnemonic = "address situate quality minor mean skill ancient tide attend portion saddle announce";
+var mnemonic = "riot describe jungle settle earn unaware dolphin bargain divide basic parade average";

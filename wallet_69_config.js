@@ -1,1 +1,1 @@
-var mnemonic = "lounge east tackle capital lizard happy auction quick unable huge moment rigid";
+var mnemonic = "market fold ice unit uncle grid relax december athlete jeans search gather";

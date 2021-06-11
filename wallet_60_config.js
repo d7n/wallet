@@ -1,1 +1,1 @@
-var mnemonic = "bargain trust horror spatial lounge swing wonder connect exclude extend office bonus";
+var mnemonic = "strike later during cricket clock finger habit horse vital blush innocent brave";

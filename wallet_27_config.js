@@ -1,1 +1,1 @@
-var mnemonic = "clown drum find metal dragon indoor inherit link educate whip copy another";
+var mnemonic = "arch right tomorrow ahead hover tuna cat discover area left kid roof";

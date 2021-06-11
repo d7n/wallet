@@ -1,1 +1,1 @@
-var mnemonic = "agree want anxiety fall situate pig evidence autumn humor camp wine sibling";
+var mnemonic = "miss rent useless math remain rocket imitate jacket breeze hockey depend cigar";

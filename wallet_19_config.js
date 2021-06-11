@@ -1,1 +1,1 @@
-var mnemonic = "bottom recall material embody decide crowd jelly obey soda sign fork result";
+var mnemonic = "hair swing hazard happy tuna basic unusual paper stamp crazy tackle park";

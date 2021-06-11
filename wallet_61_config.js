@@ -1,1 +1,1 @@
-var mnemonic = "giant comfort blast surprise sand duck network once rose scare enroll decrease";
+var mnemonic = "man below quote grant drama idea danger swallow help proof float theory";

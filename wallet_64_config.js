@@ -1,1 +1,1 @@
-var mnemonic = "office spare pulp banner royal ticket various equal skate actress talent draft";
+var mnemonic = "luxury horn rate cross fever episode robust primary siege zone random toss";

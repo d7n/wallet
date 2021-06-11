@@ -1,1 +1,1 @@
-var mnemonic = "sword squeeze verb monitor suit inner empower absorb there bean manual long";
+var mnemonic = "pulp increase scissors truck reward approve shy chimney click buffalo sketch gain";

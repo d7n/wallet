@@ -1,1 +1,1 @@
-var mnemonic = "home plunge industry boat craft veteran despair medal pledge pizza goat decide";
+var mnemonic = "awesome tent shiver length comic gather two patrol negative culture control love";

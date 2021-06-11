@@ -1,1 +1,1 @@
-var mnemonic = "crisp jar emotion depth prize lonely diesel act sand path mother annual";
+var mnemonic = "another strategy pumpkin view rural lunch champion excess toast pact olive useless";

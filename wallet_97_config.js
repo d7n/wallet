@@ -1,1 +1,1 @@
-var mnemonic = "sight pave shrug bring cool poverty sad faculty salon decrease pet female";
+var mnemonic = "wrist chalk table install protect sustain tone industry mesh elbow lesson soccer";

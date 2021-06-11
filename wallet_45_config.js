@@ -1,1 +1,1 @@
-var mnemonic = "bike remember unlock book afraid swallow mimic goat consider upper cabin nation";
+var mnemonic = "motor alley flash pepper sketch game sick lake gain cotton crime scale";

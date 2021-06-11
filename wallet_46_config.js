@@ -1,1 +1,1 @@
-var mnemonic = "coconut candy pact floor organ shuffle stomach decorate chef width damage grass";
+var mnemonic = "fringe shy iron pass gauge effort bleak inherit furnace catch pizza subject";

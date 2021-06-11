@@ -1,1 +1,1 @@
-var mnemonic = "waste impulse device tired boil staff deal key van stool license party";
+var mnemonic = "axis smooth apart upper narrow public same main near palace cup skin";

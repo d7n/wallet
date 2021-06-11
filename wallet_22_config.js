@@ -1,1 +1,1 @@
-var mnemonic = "pyramid skin answer champion iron conduct main despair sadness sketch solar super";
+var mnemonic = "damp trigger render hammer brisk negative alone portion lounge opinion accuse place";

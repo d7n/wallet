@@ -1,1 +1,1 @@
-var mnemonic = "exist private radar limit blind lend web estate salmon erase relief carbon";
+var mnemonic = "adult famous bicycle globe unlock offer account tumble exercise current dumb example";

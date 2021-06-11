@@ -1,1 +1,1 @@
-var mnemonic = "caught damage flower camp offer crumble check oven history fringe runway uphold";
+var mnemonic = "faith annual matrix shock flock umbrella ribbon brass agent demise ginger empty";

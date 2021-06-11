@@ -1,1 +1,1 @@
-var mnemonic = "stool kiwi tape task nerve disorder kite detail stumble disorder anger web";
+var mnemonic = "doctor rain can defense improve skate increase love couch daughter kidney pink";

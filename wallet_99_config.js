@@ -1,1 +1,1 @@
-var mnemonic = "abstract rhythm update exhaust donkey trim near ready joy toward axis run";
+var mnemonic = "anger oval mad actress inquiry boat art depend cherry doctor chunk quick";

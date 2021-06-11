@@ -1,1 +1,1 @@
-var mnemonic = "deer slight exile miracle tissue giant return blast gaze glare share evolve";
+var mnemonic = "gift word luggage rich disease inner concert gentle humble myth pen tomorrow";

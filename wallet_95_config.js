@@ -1,1 +1,1 @@
-var mnemonic = "flat space such file mad educate what rule trophy sponsor digital offer";
+var mnemonic = "purchase original middle broccoli mouse print hedgehog fix brand penalty person sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "orange sport antique bridge resemble occur section treat struggle pulse monster pink";
+var mnemonic = "observe crack sea stay seminar brisk affair educate size harvest polar begin";

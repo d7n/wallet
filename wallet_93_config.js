@@ -1,1 +1,1 @@
-var mnemonic = "symbol elegant amateur random shop enforce race shed october flush giggle time";
+var mnemonic = "hand setup expand top wish march negative fiber short busy debris dog";

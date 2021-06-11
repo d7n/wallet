@@ -1,1 +1,1 @@
-var mnemonic = "mango grass disorder cover bright dragon cinnamon enable hip borrow taste review";
+var mnemonic = "drama open tunnel like profit express cement hollow object live soon casual";

@@ -1,1 +1,1 @@
-var mnemonic = "brass resource agree deputy neglect nominee leader man trust maze follow fine";
+var mnemonic = "toilet since muffin stereo fence mandate tone account visit flag acoustic judge";

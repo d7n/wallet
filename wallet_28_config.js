@@ -1,1 +1,1 @@
-var mnemonic = "above exclude sentence dizzy echo old purse benefit nurse blast turn live";
+var mnemonic = "debris appear what theme name exist welcome skull require carpet cotton jewel";

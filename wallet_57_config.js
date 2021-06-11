@@ -1,1 +1,1 @@
-var mnemonic = "engage length rug total idea only fluid donate library enlist issue venue";
+var mnemonic = "mother rare help heavy alone cycle text grit runway divorce bubble trick";

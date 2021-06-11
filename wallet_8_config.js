@@ -1,1 +1,1 @@
-var mnemonic = "steak help february lounge curious beyond door make afraid put claim expand";
+var mnemonic = "enact gym throw payment help purse hold please juice carry fossil invite";

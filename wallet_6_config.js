@@ -1,1 +1,1 @@
-var mnemonic = "powder extra two spice aunt ensure million auction kind smart pottery employ";
+var mnemonic = "long filter helmet blame leopard become vendor soon cross worth under gesture";

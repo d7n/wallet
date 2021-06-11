@@ -1,1 +1,1 @@
-var mnemonic = "staff test pilot excess copper excuse theme fat hill hood useless actress";
+var mnemonic = "travel parade number tape lamp beef image carry detect level entry chuckle";

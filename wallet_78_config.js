@@ -1,1 +1,1 @@
-var mnemonic = "carbon amazing exist train spread course can deer door object recall rack";
+var mnemonic = "over couple short crisp dry twice nerve little attend high session never";

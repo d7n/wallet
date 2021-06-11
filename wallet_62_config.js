@@ -1,1 +1,1 @@
-var mnemonic = "note detail hold blame assume rotate rookie repair announce wash sudden firm";
+var mnemonic = "nothing oppose moral retreat other knee rhythm year depart cliff include invest";

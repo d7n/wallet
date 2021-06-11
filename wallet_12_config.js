@@ -1,1 +1,1 @@
-var mnemonic = "palace arrest spice bicycle smoke walk rocket split helmet twist easy clean";
+var mnemonic = "animal blast wrist excess high strong stumble few crunch poet mind lizard";

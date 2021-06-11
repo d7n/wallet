@@ -1,1 +1,1 @@
-var mnemonic = "either hollow pill crop habit door front ticket arrow idea motor better";
+var mnemonic = "net elder primary heart seat often general burden gauge various black mansion";

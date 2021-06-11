@@ -1,1 +1,1 @@
-var mnemonic = "race hotel young tourist clump arrow always tank tower kind raw suggest";
+var mnemonic = "worth leave modify neutral wool elevator render lottery thunder tackle void marble";

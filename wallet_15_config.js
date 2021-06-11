@@ -1,1 +1,1 @@
-var mnemonic = "myself amount region seek frown erode trophy oil rally news cable globe";
+var mnemonic = "town immense damage divert boy pulse regret brother banner produce regular sunset";

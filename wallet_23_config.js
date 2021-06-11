@@ -1,1 +1,1 @@
-var mnemonic = "garbage daughter write pattern strong another boost purity fuel ripple heart mercy";
+var mnemonic = "movie route shy enough derive what atom swarm fragile wood palace husband";

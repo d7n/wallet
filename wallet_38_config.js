@@ -1,1 +1,1 @@
-var mnemonic = "abstract wave face off toward burger enforce fragile patient cross whip hungry";
+var mnemonic = "cliff quit acid match corn source begin proud leaf wet fat entry";

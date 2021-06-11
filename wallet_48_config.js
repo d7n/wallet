@@ -1,1 +1,1 @@
-var mnemonic = "network stay quit sweet uncle quote iron museum talk limit remove hope";
+var mnemonic = "pear weasel nurse prepare juice width document hockey game crew salute same";

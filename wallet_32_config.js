@@ -1,1 +1,1 @@
-var mnemonic = "later orange crumble coral mixture shop visual invest fork still wink ski";
+var mnemonic = "liquid pact legend prefer outdoor learn novel feature broccoli wide forward leg";

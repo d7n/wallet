@@ -1,1 +1,1 @@
-var mnemonic = "country target like want female call dish material promote ride exit quantum";
+var mnemonic = "favorite discover debris coin leopard wool base tissue spike salt case answer";

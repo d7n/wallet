@@ -1,1 +1,1 @@
-var mnemonic = "slender great news since urban erase fun clip wheat fortune brave issue";
+var mnemonic = "shiver film abstract recycle expand version indicate defense actual cry demand bachelor";

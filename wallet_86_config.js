@@ -1,1 +1,1 @@
-var mnemonic = "perfect inflict absorb swamp couple skirt coin laptop rib chef solid assault";
+var mnemonic = "bounce twist material winner sick real knock potato embrace endless swamp act";

@@ -1,1 +1,1 @@
-var mnemonic = "matter slot exact return surge smoke flavor ceiling museum run cable husband";
+var mnemonic = "section globe toss october arctic spend riot unknown sell describe cross picnic";

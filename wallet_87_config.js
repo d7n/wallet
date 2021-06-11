@@ -1,1 +1,1 @@
-var mnemonic = "outer inform eternal exotic mobile object glove child core title neck portion";
+var mnemonic = "space notice gym cycle ankle drink cigar exclude cinnamon step cute movie";

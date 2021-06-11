@@ -1,1 +1,1 @@
-var mnemonic = "trophy exact dress trash grace pink soap clarify smoke rally ten combine";
+var mnemonic = "swamp cigar label gaze again disagree system off initial infant final supreme";

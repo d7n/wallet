@@ -1,1 +1,1 @@
-var mnemonic = "flush dress giggle survey hamster various faint rack toward doctor feel member";
+var mnemonic = "lion region casino message foster twelve pizza attend liquid act rabbit off";

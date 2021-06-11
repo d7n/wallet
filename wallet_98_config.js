@@ -1,1 +1,1 @@
-var mnemonic = "prison truly afraid matter trumpet make empty village base frequent hub increase";
+var mnemonic = "nice cram panel beach match stairs shine broccoli spread move agree hire";

@@ -1,1 +1,1 @@
-var mnemonic = "steel crime carpet cinnamon fade whale oyster rare call supreme novel power";
+var mnemonic = "boy snack call grid vessel easily snap thumb child deliver scrub uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "level believe flat spot leave safe cat light vast shaft increase law";
+var mnemonic = "velvet bargain tennis rice ten nephew trim market since suspect ribbon spoil";

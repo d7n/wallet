@@ -1,1 +1,1 @@
-var mnemonic = "fossil extra ocean drift two avocado course daughter obvious promote grace nerve";
+var mnemonic = "mango can rate cabin excuse sunset suffer setup bronze uncle skull lift";

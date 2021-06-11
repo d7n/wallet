@@ -1,1 +1,1 @@
-var mnemonic = "grace smart section tube subway thing oven curtain need whale oven nation";
+var mnemonic = "calm noodle fall gorilla usage evoke say world protect curve gloom assist";

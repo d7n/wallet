@@ -1,1 +1,1 @@
-var mnemonic = "evoke soft arch rhythm game skin toward damage belt endless more bachelor";
+var mnemonic = "frame evolve capable pluck denial buffalo primary embark earth receive pill miss";

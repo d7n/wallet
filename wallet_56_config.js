@@ -1,1 +1,1 @@
-var mnemonic = "country wing friend fault anchor click make throw city master chair echo";
+var mnemonic = "tell grape cancel bike margin canoe clever spirit afford door misery double";

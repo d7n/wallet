@@ -1,1 +1,1 @@
-var mnemonic = "glue join answer cross fee cigar hint excuse broom enjoy fox news";
+var mnemonic = "lucky accuse busy creek pitch double sure magnet ocean forest anchor short";

@@ -1,1 +1,1 @@
-var mnemonic = "wash unique mirror ghost boss habit forest region tuition fame chair box";
+var mnemonic = "game hazard pond clarify inspire comfort endless craft that lecture romance garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "calm deny tourist tuition solve raccoon bright enact brother climb install sibling";
+var mnemonic = "heart sketch annual online team wall vivid gauge chair engine cram riot";

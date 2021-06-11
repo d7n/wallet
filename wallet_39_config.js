@@ -1,1 +1,1 @@
-var mnemonic = "fault rookie poem maple edge tiger cruel north tonight soft garden entire";
+var mnemonic = "life faculty witness amazing taste track cradle lonely bench floor wisdom buzz";

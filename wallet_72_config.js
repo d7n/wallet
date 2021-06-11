@@ -1,1 +1,1 @@
-var mnemonic = "rose exotic bitter aware slide sleep december choose decorate evolve brown helmet";
+var mnemonic = "bamboo voyage sail calm rebuild sad exclude bus crash gadget strategy chest";

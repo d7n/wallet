@@ -1,1 +1,1 @@
-var mnemonic = "refuse wood quit kind vital actor aunt slim stage choose ring deputy";
+var mnemonic = "fine glass foster dwarf peanut stomach snake fatal shoe immune credit smoke";

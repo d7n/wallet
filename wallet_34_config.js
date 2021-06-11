@@ -1,1 +1,1 @@
-var mnemonic = "idle rural please height witness evil grow wonder raw treat tennis glad";
+var mnemonic = "shift fire object index west donkey bench else clutch nation feature friend";

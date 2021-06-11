@@ -1,1 +1,1 @@
-var mnemonic = "debris bicycle mechanic slot eyebrow gym will never junk test market draw";
+var mnemonic = "vivid anchor farm party spray double danger situate clump happy wreck sadness";

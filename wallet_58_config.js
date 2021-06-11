@@ -1,1 +1,1 @@
-var mnemonic = "book seven holiday soul air canoe match vicious digital lamp identify ceiling";
+var mnemonic = "mail evolve reject evolve lock poverty blur sorry thunder genuine radar lift";

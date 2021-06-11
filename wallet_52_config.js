@@ -1,1 +1,1 @@
-var mnemonic = "melody secret system dash opinion still hire coral under romance neglect cargo";
+var mnemonic = "roast stool luxury rack shield acoustic library way half cross obtain hospital";

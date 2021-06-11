@@ -1,1 +1,1 @@
-var mnemonic = "hen february fly edit garlic permit farm job document couch rubber virtual";
+var mnemonic = "marriage erase field another uphold timber lottery unknown icon door enlist ribbon";

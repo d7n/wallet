@@ -1,1 +1,1 @@
-var mnemonic = "upgrade bitter cancel tattoo noodle employ air february clock inspire clog job";
+var mnemonic = "mystery hand hood piece enroll cream banner know film mandate deposit prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "vague eyebrow orient extend water purity affair struggle pill double group torch";
+var mnemonic = "valve ugly energy print fee digital clutch hunt athlete together cupboard steel";

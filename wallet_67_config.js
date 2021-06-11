@@ -1,1 +1,1 @@
-var mnemonic = "stairs lemon pattern large detail trick credit loop bone tide announce panda";
+var mnemonic = "alter vacuum civil mobile borrow praise roof vintage attitude tag horse approve";

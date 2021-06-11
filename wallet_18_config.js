@@ -1,1 +1,1 @@
-var mnemonic = "day true smoke bus another escape avocado dress leopard kiss elite congress";
+var mnemonic = "credit wait execute primary hobby combine divide toddler tomato magic gaze price";

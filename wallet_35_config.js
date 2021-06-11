@@ -1,1 +1,1 @@
-var mnemonic = "bone silent ivory melody enrich tissue baby evidence mad neglect aerobic exit";
+var mnemonic = "term author elegant tired couch mesh bird trim hotel maid sing army";

@@ -1,1 +1,1 @@
-var mnemonic = "garment actor crawl auction zero pelican wedding acoustic bracket response empower raven";
+var mnemonic = "swift fault palace hurry goose hurt ahead combine blur bleak program toward";

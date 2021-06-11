@@ -1,1 +1,1 @@
-var mnemonic = "roof visit text fee pretty desk match artist ethics brisk hero ritual";
+var mnemonic = "yard train sheriff cheap wish vicious modify wink anchor clap submit leisure";

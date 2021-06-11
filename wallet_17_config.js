@@ -1,1 +1,1 @@
-var mnemonic = "bread run cloth gift power tilt talent produce wall swift entire stable";
+var mnemonic = "glow evolve split busy cheese chronic almost rail party nurse orchard fabric";
