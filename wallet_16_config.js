@@ -1,1 +1,1 @@
-var mnemonic = "eagle tenant axis express slow patient vast genre night oyster multiply limit";
+var mnemonic = "extra scatter concert pony social announce tuition proud evidence route alcohol luxury";

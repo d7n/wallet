@@ -1,1 +1,1 @@
-var mnemonic = "random crumble valve useless latin purchase work excess board club version push";
+var mnemonic = "rifle task ladder february cattle found abuse sample turkey action fortune venture";

@@ -1,1 +1,1 @@
-var mnemonic = "finger address cash love ball renew peanut purse noodle derive advice olympic";
+var mnemonic = "tent exhibit melody dawn solar guitar style divert dream doll route shoulder";

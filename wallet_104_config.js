@@ -1,1 +1,1 @@
-var mnemonic = "coral notice leave exhaust cook target tattoo more expect sweet obscure slice";
+var mnemonic = "race beyond gap antenna nothing cattle invest caught task hotel admit advice";

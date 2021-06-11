@@ -1,1 +1,1 @@
-var mnemonic = "scare leave naive media satoshi review harvest moon spoil regular decline alert";
+var mnemonic = "tunnel icon anger answer tissue soup romance panther jewel lawn thunder output";

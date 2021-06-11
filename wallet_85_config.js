@@ -1,1 +1,1 @@
-var mnemonic = "select olive crisp dolphin boost add ice dilemma defense ice away valve";
+var mnemonic = "minor solid boil position knee multiply lens plunge tail develop mesh sketch";

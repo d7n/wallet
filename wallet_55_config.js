@@ -1,1 +1,1 @@
-var mnemonic = "cactus dolphin grace unhappy pioneer pole mobile escape wink steel relax pelican";
+var mnemonic = "jeans river weapon mandate science receive tuna diamond next history runway actual";

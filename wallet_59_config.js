@@ -1,1 +1,1 @@
-var mnemonic = "cotton glass feel daring matter blue great food project swamp robot then";
+var mnemonic = "allow issue safe cheese tide able daughter soccer track hire off gasp";

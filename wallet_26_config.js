@@ -1,1 +1,1 @@
-var mnemonic = "pear degree harbor page uphold glass paper follow wait once video wrong";
+var mnemonic = "harvest punch retreat emotion kiss budget mom jewel alert mechanic apple trigger";

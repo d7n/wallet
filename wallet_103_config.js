@@ -1,1 +1,1 @@
-var mnemonic = "inquiry announce gold barely sister talk oxygen risk rain cool cigar name";
+var mnemonic = "chat limit road good mail adjust name develop valley fade pelican emotion";

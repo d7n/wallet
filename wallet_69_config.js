@@ -1,1 +1,1 @@
-var mnemonic = "reform breeze harvest crush fade ranch spoil ozone favorite jar pumpkin error";
+var mnemonic = "under balance blast bundle praise envelope wish tiger other sentence devote myself";

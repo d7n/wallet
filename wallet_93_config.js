@@ -1,1 +1,1 @@
-var mnemonic = "glance service field ride bring another pass harsh judge fiction prosper crime";
+var mnemonic = "ethics thank equip lock achieve ball already phone since vacant glove session";

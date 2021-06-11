@@ -1,1 +1,1 @@
-var mnemonic = "caution square vehicle spider gift toddler tooth provide fortune east design impact";
+var mnemonic = "input diary bachelor peanut climb guess focus surprise glance gun control detect";

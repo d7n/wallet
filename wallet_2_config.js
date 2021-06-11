@@ -1,1 +1,1 @@
-var mnemonic = "luggage recipe select immense neglect pepper foot again stumble scene physical sting";
+var mnemonic = "solar icon denial test pluck fantasy unknown talent shiver eye mango hollow";

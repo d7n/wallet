@@ -1,1 +1,1 @@
-var mnemonic = "search clog debris machine risk business snake hundred program august broccoli liar";
+var mnemonic = "film desert settle orange jewel deal year rocket leisure human trick payment";

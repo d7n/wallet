@@ -1,1 +1,1 @@
-var mnemonic = "hungry police dice clinic grain behind inch pupil turn matter bag dentist";
+var mnemonic = "stay very stereo dress uphold crouch clutch spare second develop worry upgrade";

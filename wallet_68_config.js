@@ -1,1 +1,1 @@
-var mnemonic = "library guitar only shock waste rely remember peanut lawsuit loan payment mad";
+var mnemonic = "hope person limit machine laugh animal alert left scrap onion organ obtain";

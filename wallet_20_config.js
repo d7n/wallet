@@ -1,1 +1,1 @@
-var mnemonic = "cradle health sing magic able check claw purchase laptop innocent ignore deer";
+var mnemonic = "wide champion elevator swallow fatigue calm truck inside cute online trumpet only";

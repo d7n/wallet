@@ -1,1 +1,1 @@
-var mnemonic = "scheme oblige silk current spell exhaust ticket document virtual drop quarter prosper";
+var mnemonic = "risk bread multiply emotion climb switch jungle review twin drop keep panther";

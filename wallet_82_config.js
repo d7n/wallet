@@ -1,1 +1,1 @@
-var mnemonic = "depend dolphin absent exclude army usual piano rate swallow nut devote spatial";
+var mnemonic = "wire better chimney card vacant filter tell athlete drama purchase inherit matter";

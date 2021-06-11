@@ -1,1 +1,1 @@
-var mnemonic = "any slot rigid sniff range bunker stand end curve attack uncle skill";
+var mnemonic = "devote okay soft stock solid retire tiny party tumble vintage subway deny";

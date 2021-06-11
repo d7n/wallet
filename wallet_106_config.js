@@ -1,1 +1,1 @@
-var mnemonic = "rival extend scene fragile under denial camera tourist unable fringe delay soul";
+var mnemonic = "journey famous tower hip symbol hover celery witness radar kiss tuna alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle harvest acoustic bench mention inquiry simple jelly silent spot other unfair";
+var mnemonic = "autumn upgrade ski dune trim three forum multiply company garden program guard";

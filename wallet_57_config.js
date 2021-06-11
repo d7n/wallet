@@ -1,1 +1,1 @@
-var mnemonic = "pigeon leave melody summer defy club chimney dizzy broken window truly dolphin";
+var mnemonic = "front amused baby gallery then pulp neither hunt still helmet sunset school";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete net noise bone myself robot harvest equal school about text grace";
+var mnemonic = "remain float click young monitor cattle enter play vintage monkey fade false";

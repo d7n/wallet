@@ -1,1 +1,1 @@
-var mnemonic = "science creek spend ready matter bright pyramid broken leaf wool since scrub";
+var mnemonic = "primary nothing dwarf prefer fiber same boat base jump hidden base repair";

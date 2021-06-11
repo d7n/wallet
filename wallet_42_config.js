@@ -1,1 +1,1 @@
-var mnemonic = "rib cheese affair weapon powder fashion lonely gap prison aspect egg oxygen";
+var mnemonic = "outdoor peasant snake scene void audit increase skirt icon session mistake guitar";

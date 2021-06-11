@@ -1,1 +1,1 @@
-var mnemonic = "shell surprise panther inside humble camera baby gas series village dinosaur erupt";
+var mnemonic = "lobster flip ostrich begin choice message anger pulse leader upper enemy delay";

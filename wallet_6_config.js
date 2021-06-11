@@ -1,1 +1,1 @@
-var mnemonic = "steel soon offer sight gaze romance secret large inhale island angry afford";
+var mnemonic = "when dumb genre space monitor distance pattern topic property current carbon model";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty attack leader jelly salt debate wash original eyebrow verb leisure orphan";
+var mnemonic = "two boost check alter scheme educate acoustic army rocket like spoon life";

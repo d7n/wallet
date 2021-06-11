@@ -1,1 +1,1 @@
-var mnemonic = "inspire one limb math nut whale poet float stuff forget crane front";
+var mnemonic = "autumn tool stand ribbon woman luxury alpha suspect enact spy shed enforce";

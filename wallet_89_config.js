@@ -1,1 +1,1 @@
-var mnemonic = "rail teach beyond maze casual neck lecture avoid nasty flee liberty fortune";
+var mnemonic = "bench spread off ribbon december state tortoise sugar accuse hollow bronze erase";

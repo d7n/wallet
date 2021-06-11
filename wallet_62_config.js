@@ -1,1 +1,1 @@
-var mnemonic = "vault truth shell belt cross other wife fiscal grab join wet rigid";
+var mnemonic = "engine name share legend away lesson opera empty regular result clip viable";

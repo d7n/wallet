@@ -1,1 +1,1 @@
-var mnemonic = "prefer spend lounge sustain light lift what guess betray renew card process";
+var mnemonic = "defy whip answer law way course interest lazy foam dolphin muffin fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "spring lottery old burger you page trap call between someone solution fiction";
+var mnemonic = "divorce zoo more phrase viable salute recall toast exotic buddy wise brand";

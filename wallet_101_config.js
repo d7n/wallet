@@ -1,1 +1,1 @@
-var mnemonic = "cherry public put dismiss mango minimum december envelope green cherry december staff";
+var mnemonic = "this leave blouse canoe stadium million weasel frost upgrade erode shrug sure";

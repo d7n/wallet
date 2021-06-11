@@ -1,1 +1,1 @@
-var mnemonic = "subject elbow sign enable top equip behave assume sister cool young crack";
+var mnemonic = "earn outside relief iron hedgehog rate control trial chaos sense story lesson";

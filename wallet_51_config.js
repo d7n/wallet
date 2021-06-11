@@ -1,1 +1,1 @@
-var mnemonic = "treat rose spray tribe recipe topic giraffe disagree lava where hurry snap";
+var mnemonic = "cover never opinion plunge east convince tennis outdoor pledge rent jaguar unable";

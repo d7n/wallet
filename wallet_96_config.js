@@ -1,1 +1,1 @@
-var mnemonic = "above perfect output garage birth people property cloth slush buzz piano point";
+var mnemonic = "will loyal cross shadow gallery crouch veteran wet hundred firm shrug auto";

@@ -1,1 +1,1 @@
-var mnemonic = "actual gospel orchard wink have aunt garage van cross ring dress suspect";
+var mnemonic = "arrest girl include consider shy list purse test race frame west sadness";

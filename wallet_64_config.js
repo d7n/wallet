@@ -1,1 +1,1 @@
-var mnemonic = "sauce smooth foil identify angry shoot chunk traffic aware point inherit one";
+var mnemonic = "aware raise capable hint blue luxury flight fiber jelly lunar inflict equip";

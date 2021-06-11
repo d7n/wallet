@@ -1,1 +1,1 @@
-var mnemonic = "joke aerobic island digital trumpet alarm siege dawn satisfy hospital exile salon";
+var mnemonic = "sand search maximum midnight casino keen drop interest devote cloth flip wait";

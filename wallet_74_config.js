@@ -1,1 +1,1 @@
-var mnemonic = "vital asset paddle scissors hope recycle corn cross vocal pull hen warm";
+var mnemonic = "mule answer tree jungle phone basic also lounge two melody lens enable";

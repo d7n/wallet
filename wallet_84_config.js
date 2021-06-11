@@ -1,1 +1,1 @@
-var mnemonic = "illness width recipe hold purchase machine yard artist crawl music capital opera";
+var mnemonic = "chalk try wheel still stove peasant burger engine nephew ignore dragon blast";

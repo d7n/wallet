@@ -1,1 +1,1 @@
-var mnemonic = "post dice execute flee result essay hockey bracket bounce bench earth aim";
+var mnemonic = "write edge best together tag february pause student egg allow square robot";

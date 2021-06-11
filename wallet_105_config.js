@@ -1,1 +1,1 @@
-var mnemonic = "one diet frequent crucial romance wrap album final junior fine month illness";
+var mnemonic = "wool next candy drill become metal enable sphere exhaust draw adult divorce";

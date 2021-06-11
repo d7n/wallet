@@ -1,1 +1,1 @@
-var mnemonic = "pelican name just dry puppy rail inform spawn system symptom jazz kiwi";
+var mnemonic = "another second subway extend purity genre tonight torch year shallow turtle neglect";

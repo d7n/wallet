@@ -1,1 +1,1 @@
-var mnemonic = "method expand drill culture found faculty choice mixed used rural shrug catch";
+var mnemonic = "visa hint budget often iron recall story trick unknown fuel source annual";

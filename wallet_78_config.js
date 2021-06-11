@@ -1,1 +1,1 @@
-var mnemonic = "slice option huge usual noodle glove habit adapt talent flip vintage crush";
+var mnemonic = "easy elite urge venture pipe just artist divorce oval alcohol mask sock";

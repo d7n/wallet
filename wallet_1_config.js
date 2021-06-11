@@ -1,1 +1,1 @@
-var mnemonic = "syrup student twenty fiber oil property cloth tuna screen believe human jacket";
+var mnemonic = "mercy casual require humor glimpse word unable matrix record lawn want beyond";

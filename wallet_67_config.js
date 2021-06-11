@@ -1,1 +1,1 @@
-var mnemonic = "young also click parade penalty bag mercy notable peanut taste best want";
+var mnemonic = "ready test shift vital winter razor dilemma rose scatter dragon obscure ski";

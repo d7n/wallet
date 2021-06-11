@@ -1,1 +1,1 @@
-var mnemonic = "quick fashion brand build burst mammal empty convince embody shift wolf hint";
+var mnemonic = "attack wreck biology derive program vanish genius clump wedding vehicle carpet destroy";

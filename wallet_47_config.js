@@ -1,1 +1,1 @@
-var mnemonic = "shoulder donkey betray ring prefer jump injury clerk radar erupt soon dog";
+var mnemonic = "chest sunny escape index wrestle drop chapter portion office cliff action shoulder";

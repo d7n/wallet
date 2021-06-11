@@ -1,1 +1,1 @@
-var mnemonic = "stock entire hip appear buzz wrestle session twenty key expect loyal fault";
+var mnemonic = "party cousin media road retreat actor ignore october shoulder plug fiber elite";

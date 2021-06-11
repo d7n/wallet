@@ -1,1 +1,1 @@
-var mnemonic = "music survey program debate morning section cloud dumb nose educate delay museum";
+var mnemonic = "uncle birth glue top oil sail ticket second region agent leader mushroom";

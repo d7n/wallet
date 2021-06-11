@@ -1,1 +1,1 @@
-var mnemonic = "knock blue minor session crane butter page extend inherit gain maid diagram";
+var mnemonic = "peace obtain wine suspect keep speak beyond special slogan river clay motor";

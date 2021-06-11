@@ -1,1 +1,1 @@
-var mnemonic = "blood maximum law faint forum saddle attend spot faint turkey soup garment";
+var mnemonic = "museum leaf window push math remove immense field wide area turtle afford";

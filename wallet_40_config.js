@@ -1,1 +1,1 @@
-var mnemonic = "winner salute banner bar path warrior horror ahead put poem mule grunt";
+var mnemonic = "broom curious unusual length label morning upon quality december license grace ordinary";

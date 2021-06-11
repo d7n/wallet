@@ -1,1 +1,1 @@
-var mnemonic = "spot total pencil sketch you best depart lawn vanish call donor rely";
+var mnemonic = "provide cushion coffee urban manual divert resist label april major cactus brave";

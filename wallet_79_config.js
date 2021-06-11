@@ -1,1 +1,1 @@
-var mnemonic = "choose snake theory dream baby patrol wrap action asthma deliver industry tuna";
+var mnemonic = "tuna sun want floor nurse okay lazy prison gun fan wave clip";

@@ -1,1 +1,1 @@
-var mnemonic = "power repair diagram zone light canyon slight notice conduct share inner expose";
+var mnemonic = "lend enroll column beef latin warfare horse peanut album mad kiwi hamster";

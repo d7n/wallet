@@ -1,1 +1,1 @@
-var mnemonic = "away net until riot vapor october wish elegant agree mirror excuse false";
+var mnemonic = "obscure tortoise apple fine either gauge feature science crush marriage emotion pill";

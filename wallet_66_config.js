@@ -1,1 +1,1 @@
-var mnemonic = "name amazing gauge bounce february sentence call barely distance total welcome torch";
+var mnemonic = "frame parent journey essence scare neither bounce rescue leopard whisper crash trim";

@@ -1,1 +1,1 @@
-var mnemonic = "wave warfare spike tobacco mandate slogan glue two clay dog genuine local";
+var mnemonic = "dizzy toss rib celery present angle luggage sunset street crawl attitude oyster";

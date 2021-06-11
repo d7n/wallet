@@ -1,1 +1,1 @@
-var mnemonic = "essay open pulse grief convince almost length negative size moral year square";
+var mnemonic = "mother ignore vapor enemy outer click pen bridge belt hobby film apart";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage chapter jaguar sphere salmon manage valley snow when tornado base flush";
+var mnemonic = "snack tornado stuff intact garbage sample aware dynamic dawn junior scatter weapon";

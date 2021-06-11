@@ -1,1 +1,1 @@
-var mnemonic = "fatigue sound scheme glad sort street upper kitchen paddle spawn result mule";
+var mnemonic = "glance silent truth move spice forget knife betray worry brave save pyramid";

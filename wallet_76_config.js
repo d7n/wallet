@@ -1,1 +1,1 @@
-var mnemonic = "old snack ski athlete second zoo knee finger amused diagram shadow other";
+var mnemonic = "grow reflect team lock diary comfort divide confirm tent shoot cupboard habit";

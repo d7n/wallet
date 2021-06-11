@@ -1,1 +1,1 @@
-var mnemonic = "vehicle swim traffic style cube other sketch expand grain section acoustic spike";
+var mnemonic = "ritual endless disease fat gasp misery lava olive burden knock motion surface";

@@ -1,1 +1,1 @@
-var mnemonic = "display library flower moon grief episode gasp ready torch inspire armor typical";
+var mnemonic = "kidney suffer assist address enjoy busy control slight virus wink actual cycle";

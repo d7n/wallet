@@ -1,1 +1,1 @@
-var mnemonic = "usual machine virtual check canal purse worth deny indoor direct regret account";
+var mnemonic = "faculty helmet silent squeeze meat abstract want leader thunder section upset flock";

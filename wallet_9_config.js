@@ -1,1 +1,1 @@
-var mnemonic = "now regret play lava front lecture dumb piece apology toilet shoulder gallery";
+var mnemonic = "add clap eagle record girl raccoon rich hybrid merit denial boring letter";

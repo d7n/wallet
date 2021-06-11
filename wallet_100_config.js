@@ -1,1 +1,1 @@
-var mnemonic = "between rookie desert pool render future actual thank kiss spoil lottery select";
+var mnemonic = "cricket empower bitter steel swift oppose crush sorry timber pulp measure electric";

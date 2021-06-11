@@ -1,1 +1,1 @@
-var mnemonic = "range dose absorb property room vessel reveal hat wedding mix blame tobacco";
+var mnemonic = "cruel rule obtain grain venue glass soldier ugly tomato view output fancy";

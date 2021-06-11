@@ -1,1 +1,1 @@
-var mnemonic = "goose dress fury auto ring ability heart exile item thank six work";
+var mnemonic = "december barrel swim melt leave antenna either kite exotic night term save";

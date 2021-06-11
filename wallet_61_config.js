@@ -1,1 +1,1 @@
-var mnemonic = "inch enemy private duty outer pretty net else beyond never arrive buzz";
+var mnemonic = "crush spread antenna toe category clerk slice hollow garbage rifle any pudding";

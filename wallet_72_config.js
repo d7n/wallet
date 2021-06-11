@@ -1,1 +1,1 @@
-var mnemonic = "juice satoshi hidden input blue sustain layer process rich between benefit question";
+var mnemonic = "loyal now energy flash remain swear edit devote design patrol math column";

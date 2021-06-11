@@ -1,1 +1,1 @@
-var mnemonic = "chef increase sustain save devote wrist head faint drama roast benefit skill";
+var mnemonic = "cry cousin scatter verb lock wine glide easy before street laptop enrich";

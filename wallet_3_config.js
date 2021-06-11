@@ -1,1 +1,1 @@
-var mnemonic = "obtain bean wool message pepper stick frozen glass shove lyrics answer swift";
+var mnemonic = "alarm green thing drill obey base tackle stomach vacuum earn settle soup";

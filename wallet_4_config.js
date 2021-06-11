@@ -1,1 +1,1 @@
-var mnemonic = "diamond capital chapter another bulk enact phone kitten ensure shock crew arrive";
+var mnemonic = "nerve old width cloud comic cross habit frown say glide engage horn";

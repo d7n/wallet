@@ -1,1 +1,1 @@
-var mnemonic = "floor salad armor soul humble pen train combine stool convince urban power";
+var mnemonic = "lock normal nuclear tornado prepare floor tube hungry embark toast fever exchange";

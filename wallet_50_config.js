@@ -1,1 +1,1 @@
-var mnemonic = "team slender october bamboo very cradle segment divert plug pipe sea sun";
+var mnemonic = "height slice clean slam magic file diamond little sweet segment also knock";

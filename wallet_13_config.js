@@ -1,1 +1,1 @@
-var mnemonic = "retire dynamic ketchup copy lion upgrade theory valid velvet length sugar chase";
+var mnemonic = "dismiss armed festival poverty garment loan lend earth attitude soup inner unfair";

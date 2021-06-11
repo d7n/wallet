@@ -1,1 +1,1 @@
-var mnemonic = "crush library crime select media broccoli innocent biology rubber staff forget pipe";
+var mnemonic = "cart liquid hybrid tomorrow goddess must pipe invite observe stable impulse clean";

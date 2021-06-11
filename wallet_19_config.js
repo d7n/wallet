@@ -1,1 +1,1 @@
-var mnemonic = "intact draw august reduce endless strong grocery language twenty guess ivory coyote";
+var mnemonic = "boss profit add mistake dune crowd glue stable digital pyramid decide awesome";

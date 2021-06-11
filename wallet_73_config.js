@@ -1,1 +1,1 @@
-var mnemonic = "grocery click husband thing honey social grab rocket scatter already scatter surge";
+var mnemonic = "notable shop forget pluck pottery clerk chair food guess proud clog tourist";

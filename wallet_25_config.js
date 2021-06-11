@@ -1,1 +1,1 @@
-var mnemonic = "world capable advice witness churn grass harsh snow voyage right lyrics vote";
+var mnemonic = "turn ivory fox taxi biology divorce document transfer angry muscle gospel raise";

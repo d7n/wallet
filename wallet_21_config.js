@@ -1,1 +1,1 @@
-var mnemonic = "direct isolate throw oak remain ripple pet become hawk chef alley shadow";
+var mnemonic = "segment brother cabin panther music biology gate angry nerve person sketch angry";

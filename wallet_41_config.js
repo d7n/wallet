@@ -1,1 +1,1 @@
-var mnemonic = "leopard twin shuffle puppy hint marriage spend car panda boil obey direct";
+var mnemonic = "cloud inject bench ecology lens trust mirror soccer silk draw bid buyer";

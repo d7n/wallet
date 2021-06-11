@@ -1,1 +1,1 @@
-var mnemonic = "marine acoustic grid rough drop board glory crop kitchen agree confirm motor";
+var mnemonic = "pretty axis bird vessel side screen fruit oak lecture fuel tissue lens";
