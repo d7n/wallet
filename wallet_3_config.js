@@ -1,1 +1,1 @@
-var mnemonic = "giraffe assault urge fury flat never brother stumble pencil oven coil dutch";
+var mnemonic = "current dog similar banner twenty symbol picture exit sense return crater web";

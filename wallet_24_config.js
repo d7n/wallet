@@ -1,1 +1,1 @@
-var mnemonic = "truth save close syrup other level trash journey shop exist obscure soldier";
+var mnemonic = "forum face opinion rude riot flame word foil knock fork lecture scatter";

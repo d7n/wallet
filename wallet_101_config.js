@@ -1,1 +1,1 @@
-var mnemonic = "employ naive ridge web phone luxury story struggle year enable vehicle upper";
+var mnemonic = "wild skirt youth dream similar pride message narrow hospital amazing moral shaft";

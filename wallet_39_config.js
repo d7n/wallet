@@ -1,1 +1,1 @@
-var mnemonic = "work cupboard flip kiss cross forum divert diamond bag similar high devote";
+var mnemonic = "nephew clock notice home balcony trumpet velvet loud task prefer sun scissors";

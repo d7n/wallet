@@ -1,1 +1,1 @@
-var mnemonic = "ship citizen piece exclude leader sniff badge gift neck around defense valley";
+var mnemonic = "egg huge still sentence sock quantum trip assume tumble undo mother gadget";

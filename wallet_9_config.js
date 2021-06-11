@@ -1,1 +1,1 @@
-var mnemonic = "slot when split cement kite sleep aspect inmate edit marine blind that";
+var mnemonic = "leave leopard knife tuna path subject damp hair river between future emotion";

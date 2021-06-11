@@ -1,1 +1,1 @@
-var mnemonic = "siren timber other weather wise peasant dash dolphin chapter crucial scorpion basic";
+var mnemonic = "body furnace refuse cotton jealous moral weird flock fog first boost now";

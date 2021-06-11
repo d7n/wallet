@@ -1,1 +1,1 @@
-var mnemonic = "kiss negative seek remember dignity scale sense language crush mango club wonder";
+var mnemonic = "piano near kitchen today broken element toward narrow fire wine glove lamp";

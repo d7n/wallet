@@ -1,1 +1,1 @@
-var mnemonic = "universe among scan clump force anchor breeze crucial broom matrix trip gain";
+var mnemonic = "shadow royal gold spin cruise defy duty force dream upset fox dove";

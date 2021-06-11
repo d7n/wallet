@@ -1,1 +1,1 @@
-var mnemonic = "penalty hire favorite elephant antenna recipe tube detect sand seven cloud ivory";
+var mnemonic = "rule today hero razor boring math sail absorb copper help mask action";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit shoe jelly tank tape noodle olive marriage gravity cupboard lemon piece";
+var mnemonic = "turn attitude goddess draft lemon fox deputy among secret state cement actual";

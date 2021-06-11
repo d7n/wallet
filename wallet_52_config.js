@@ -1,1 +1,1 @@
-var mnemonic = "drop mushroom battle beyond loan term violin infant guess exhibit bicycle wheel";
+var mnemonic = "rice amazing margin blame card kangaroo garlic need ozone dentist train script";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet express pause rice winner box beef vote boost lesson capital notable";
+var mnemonic = "harbor stomach catalog usual special venture glare meat marine stage uniform enable";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin winter april erosion ozone soccer erase hover waste bachelor crush marine";
+var mnemonic = "affair bonus light afford inch library hip safe eager again chunk artefact";

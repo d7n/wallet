@@ -1,1 +1,1 @@
-var mnemonic = "vibrant cart hold mother stem theme curious thing maximum judge ride uphold";
+var mnemonic = "vote useless soap wedding humble skin correct ritual rival goose blood calm";

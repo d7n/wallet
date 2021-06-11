@@ -1,1 +1,1 @@
-var mnemonic = "music hat document wear local year cliff puppy alien dish phrase more";
+var mnemonic = "crucial matter inhale latin casino master swear document umbrella increase destroy panther";

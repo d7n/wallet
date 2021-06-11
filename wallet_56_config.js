@@ -1,1 +1,1 @@
-var mnemonic = "casual option cook uniform crowd rent dose crew dust riot click cave";
+var mnemonic = "broken attack wisdom moon glide sauce region brother wrestle buzz level off";

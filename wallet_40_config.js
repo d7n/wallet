@@ -1,1 +1,1 @@
-var mnemonic = "foster debris spoon lucky expire bid owner spread poverty sick afraid seven";
+var mnemonic = "praise minor chaos amazing village worry artist clean false surround culture march";

@@ -1,1 +1,1 @@
-var mnemonic = "long pet nasty business robot snap spatial stadium wrestle puppy crazy cushion";
+var mnemonic = "critic almost skill unit step voyage mechanic wife nurse daring project fetch";

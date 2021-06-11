@@ -1,1 +1,1 @@
-var mnemonic = "attract bid limb skull note invest fantasy depart cotton again wrong wasp";
+var mnemonic = "breeze badge author other mobile left animal profit hungry tragic penalty urge";

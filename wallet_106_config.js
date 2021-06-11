@@ -1,1 +1,1 @@
-var mnemonic = "essay gym bacon number dutch diagram rare update year flag frown struggle";
+var mnemonic = "bicycle visual trip meat double theory oven narrow kit left asthma tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "news gallery fruit retire fetch sight gold dignity hill recall pulp blind";
+var mnemonic = "add wheel elephant isolate gaze come burden room first luxury point cook";

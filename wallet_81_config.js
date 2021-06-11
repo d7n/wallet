@@ -1,1 +1,1 @@
-var mnemonic = "average reopen ripple hospital expect enemy online misery bike captain undo reason";
+var mnemonic = "hotel garage orbit dish wrap canal repair seek collect orbit large shop";

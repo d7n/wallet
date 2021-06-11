@@ -1,1 +1,1 @@
-var mnemonic = "clip topic glove smoke wrestle aware come actress rural mountain industry autumn";
+var mnemonic = "poem sorry decline soon picture impact wheel maple horse erosion divorce style";

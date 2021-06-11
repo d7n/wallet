@@ -1,1 +1,1 @@
-var mnemonic = "soap rapid device safe skull display duck fan yard glance exotic ask";
+var mnemonic = "vintage ramp potato fruit social water kitchen power quote capital size hybrid";

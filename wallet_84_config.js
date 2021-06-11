@@ -1,1 +1,1 @@
-var mnemonic = "thought off allow evidence rapid chicken velvet earn rival snack cradle cake";
+var mnemonic = "inject congress ramp nation negative aware dance drink noodle idea advance dish";

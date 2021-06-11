@@ -1,1 +1,1 @@
-var mnemonic = "urge lunar loud giant vivid fade soon leisure asthma ability best mesh";
+var mnemonic = "crush clown sorry humble win hurdle fitness giraffe doctor next must cable";

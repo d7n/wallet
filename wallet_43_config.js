@@ -1,1 +1,1 @@
-var mnemonic = "minor solve dash swap warfare ribbon hello myth vocal worth post fix";
+var mnemonic = "update sorry color excuse dawn best harbor vapor base fish direct festival";

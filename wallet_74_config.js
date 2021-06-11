@@ -1,1 +1,1 @@
-var mnemonic = "peasant alarm amused hurt latin lumber neither umbrella cycle drop isolate dice";
+var mnemonic = "asthma tattoo ghost into forget afford ugly season trouble alert gossip collect";

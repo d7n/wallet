@@ -1,1 +1,1 @@
-var mnemonic = "subway horror busy slab purse forum frame benefit match like knee level";
+var mnemonic = "child poet shoe rescue bench despair purse punch offer library learn laundry";

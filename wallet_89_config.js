@@ -1,1 +1,1 @@
-var mnemonic = "seed win hungry oppose analyst comic borrow dream firm view ahead ribbon";
+var mnemonic = "shed ethics spell visa keep arrange nothing program tuna hill vanish flight";

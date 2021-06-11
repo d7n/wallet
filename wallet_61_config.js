@@ -1,1 +1,1 @@
-var mnemonic = "ride media stem diet vital panther great series pottery frequent pave power";
+var mnemonic = "sort convince shaft spin elegant soul vintage month close turtle reduce fabric";

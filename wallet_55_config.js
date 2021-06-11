@@ -1,1 +1,1 @@
-var mnemonic = "apology prosper pink chef actor wool walnut tribe timber melody design direct";
+var mnemonic = "announce festival grief replace gather cry kite wrong race various purpose income";

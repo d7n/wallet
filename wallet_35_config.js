@@ -1,1 +1,1 @@
-var mnemonic = "nose obscure dove middle poem expire track antenna emerge crater hundred jar";
+var mnemonic = "often cram hand early beauty record scrub use fury blood cotton approve";

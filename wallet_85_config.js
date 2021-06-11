@@ -1,1 +1,1 @@
-var mnemonic = "scale monkey pottery glad three sausage local firm prepare glimpse announce glow";
+var mnemonic = "crumble this harbor ride undo squirrel scrub wool tell rude dentist cupboard";

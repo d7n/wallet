@@ -1,1 +1,1 @@
-var mnemonic = "vanish despair radar jealous creek duty pride erode suffer hip source lady";
+var mnemonic = "sleep kiss object mouse waste page emerge army father demise era slight";

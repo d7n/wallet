@@ -1,1 +1,1 @@
-var mnemonic = "roof comic again alien arena federal receive enhance toe road sock bullet";
+var mnemonic = "olive menu proud glass grunt push hockey bomb dynamic cattle dirt stumble";

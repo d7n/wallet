@@ -1,1 +1,1 @@
-var mnemonic = "craft reopen dolphin erase icon rich output purity absorb frame author motor";
+var mnemonic = "thank dilemma perfect edge consider monster pizza green cinnamon output install tuition";

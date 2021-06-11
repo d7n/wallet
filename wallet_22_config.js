@@ -1,1 +1,1 @@
-var mnemonic = "seed equal coyote enemy rotate aisle upper chat senior strike switch arrest";
+var mnemonic = "gift soft syrup truly bomb win ecology cement jazz digital chair bone";

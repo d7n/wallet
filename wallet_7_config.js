@@ -1,1 +1,1 @@
-var mnemonic = "boil laptop oak grant same develop room forget indicate decide green duty";
+var mnemonic = "metal harsh ecology pitch october mechanic motor rabbit under want country clever";

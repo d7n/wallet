@@ -1,1 +1,1 @@
-var mnemonic = "forward magic bamboo lend faculty point junior corn alcohol exact slim west";
+var mnemonic = "indicate warfare blossom shoe stand noodle bread mimic urban giant crouch unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee random vault more sign safe various timber siege mix grid image";
+var mnemonic = "emotion fragile equip marble season dumb erupt equal nut play diesel soft";

@@ -1,1 +1,1 @@
-var mnemonic = "slow fancy chicken unknown alpha beach arch split twin pretty one choice";
+var mnemonic = "seek fence law cup private neither flight comic upon legal denial funny";

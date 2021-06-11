@@ -1,1 +1,1 @@
-var mnemonic = "wreck actual exist camera enrich latin spoon pony whip step curious desk";
+var mnemonic = "hamster company cheap wool risk inside cart employ teach deliver taste fame";

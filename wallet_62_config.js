@@ -1,1 +1,1 @@
-var mnemonic = "rare future design derive virus north fiber ancient world suffer airport game";
+var mnemonic = "bracket brain simple aspect mesh flower giant isolate guard horse twist soup";

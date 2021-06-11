@@ -1,1 +1,1 @@
-var mnemonic = "dutch delay entire fit core owner half rib section cloud enroll theme";
+var mnemonic = "salmon celery alarm very lion minor excuse asthma foot desk humble six";

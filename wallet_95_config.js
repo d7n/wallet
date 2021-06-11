@@ -1,1 +1,1 @@
-var mnemonic = "suggest pigeon evidence foam purpose bring trim analyst wrestle case chimney chief";
+var mnemonic = "hood when ordinary happy actress disease daring note caution violin speed repeat";

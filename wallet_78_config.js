@@ -1,1 +1,1 @@
-var mnemonic = "bulk between oil sphere toy lottery fish unfold bachelor reject math erase";
+var mnemonic = "embody flame gasp danger tip same toilet hybrid catch grass camp awake";

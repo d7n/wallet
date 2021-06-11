@@ -1,1 +1,1 @@
-var mnemonic = "narrow brass invest network shell wing addict tribe goose lesson often limb";
+var mnemonic = "fee busy bullet give daughter either tuna youth during razor route mom";

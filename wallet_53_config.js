@@ -1,1 +1,1 @@
-var mnemonic = "squirrel narrow episode dutch series tomorrow month survey media couple laugh oxygen";
+var mnemonic = "rain swarm people process trust topic math raw enable collect call rail";

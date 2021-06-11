@@ -1,1 +1,1 @@
-var mnemonic = "hybrid ride person hidden coffee awake media already direct spell jaguar potato";
+var mnemonic = "income castle board want drama render heart almost hedgehog absurd notable proud";

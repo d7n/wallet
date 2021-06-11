@@ -1,1 +1,1 @@
-var mnemonic = "talent sudden lab kit garment include guilt they wife gravity green promote";
+var mnemonic = "phone soldier waste label release frequent chapter height nation drift rich collect";

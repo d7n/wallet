@@ -1,1 +1,1 @@
-var mnemonic = "awkward pupil blue spray patrol vocal aerobic explain burst accuse able tonight";
+var mnemonic = "skirt inform stick combine park art reduce napkin leave junk engine country";

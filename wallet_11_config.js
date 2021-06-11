@@ -1,1 +1,1 @@
-var mnemonic = "illegal doctor episode fly grab ill slab practice gloom drum camp hobby";
+var mnemonic = "blur split unique area cotton course behind nation tree trouble brand yard";

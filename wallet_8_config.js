@@ -1,1 +1,1 @@
-var mnemonic = "thumb atom extend cattle suit resist hint keep pattern iron dawn start";
+var mnemonic = "process private just cat curtain cake unit junior cram polar reveal survey";

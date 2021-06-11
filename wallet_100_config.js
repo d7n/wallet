@@ -1,1 +1,1 @@
-var mnemonic = "sight cute faith kit fault cannon donkey slight globe boil circle duty";
+var mnemonic = "energy frog romance wheat tree vague spirit daughter link diary trade genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "there trick merry decrease obvious crater panic setup river perfect rebuild distance";
+var mnemonic = "shop arrow soldier uncle lonely word surround prize bottom jump grab blame";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson math mushroom hero shell glare episode west little tattoo divorce flat";
+var mnemonic = "joke two paper subway young spice youth puzzle furnace dust quick direct";

@@ -1,1 +1,1 @@
-var mnemonic = "pitch pioneer online jealous slight cradle shy impact winter extend amount certain";
+var mnemonic = "fire project embark pluck test emerge piano picnic luxury build derive admit";

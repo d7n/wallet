@@ -1,1 +1,1 @@
-var mnemonic = "warrior fix step carry enforce ribbon help wealth valley believe private people";
+var mnemonic = "fury sauce wage clarify arena pledge betray beauty firm spend bind ball";

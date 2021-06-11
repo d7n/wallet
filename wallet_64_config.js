@@ -1,1 +1,1 @@
-var mnemonic = "next pepper major same modify cargo bring unaware client dial utility wheat";
+var mnemonic = "feature connect lobster girl farm remain atom draw situate viable wool guard";

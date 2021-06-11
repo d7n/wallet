@@ -1,1 +1,1 @@
-var mnemonic = "window gadget spin latin remain scrap farm topple frost blind tennis you";
+var mnemonic = "perfect antenna grunt soccer frozen figure clean dash chimney asthma fault hundred";

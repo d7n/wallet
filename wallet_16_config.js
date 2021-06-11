@@ -1,1 +1,1 @@
-var mnemonic = "glory tonight glance main useful decide brief matter walnut clap journey embark";
+var mnemonic = "fortune silver casino pill hobby power tourist gossip panic unique lunch casual";

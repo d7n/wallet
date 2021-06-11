@@ -1,1 +1,1 @@
-var mnemonic = "lunar divide seat close famous body rate hope paddle rich absurd topple";
+var mnemonic = "weapon pumpkin silver birth side quit smile author ready attract bicycle miss";

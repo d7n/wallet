@@ -1,1 +1,1 @@
-var mnemonic = "design spare inject surface genius clean amount car river tragic become rail";
+var mnemonic = "twin type uniform wagon short pull shrug find boring follow length mushroom";

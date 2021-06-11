@@ -1,1 +1,1 @@
-var mnemonic = "boss inch square pole entire lounge agent shaft asthma winter repair error";
+var mnemonic = "kite anchor wet remove supreme tired grant filter exotic put rail enable";

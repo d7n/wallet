@@ -1,1 +1,1 @@
-var mnemonic = "estate arm satisfy rather wish elder civil cushion turn effort lumber senior";
+var mnemonic = "door fish enrich bicycle elevator clean dismiss evoke guide oxygen fringe shell";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit skin camera paper chef birth know cable sphere foam load found";
+var mnemonic = "gallery fold grab blanket horror giraffe scheme decide frown blame indicate walk";

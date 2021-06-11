@@ -1,1 +1,1 @@
-var mnemonic = "unknown bid slender mimic brain glow addict sure absorb skate spend canal";
+var mnemonic = "talent cactus attack laundry baby capable bid lyrics reflect tag ready sketch";

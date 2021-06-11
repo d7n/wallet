@@ -1,1 +1,1 @@
-var mnemonic = "rebuild employ rotate fury valve spider curious awkward eager you annual grocery";
+var mnemonic = "shoot wagon cluster ankle tube scissors want brisk convince clock crush safe";

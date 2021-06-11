@@ -1,1 +1,1 @@
-var mnemonic = "again then leopard trust spoon merit hunt song hand property diary team";
+var mnemonic = "bulk curtain social exchange orient sort unusual call unaware taste grief until";

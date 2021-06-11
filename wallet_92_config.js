@@ -1,1 +1,1 @@
-var mnemonic = "forget scorpion unveil twin reunion grace raccoon fat sketch bracket sight little";
+var mnemonic = "glide example offer mobile rookie wave future define dad genre rotate other";

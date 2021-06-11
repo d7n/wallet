@@ -1,1 +1,1 @@
-var mnemonic = "trash cement owner wrist atom deer educate indicate panther supreme abstract genuine";
+var mnemonic = "girl blood category empower place swing choose way still retire lady crawl";

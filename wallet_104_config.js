@@ -1,1 +1,1 @@
-var mnemonic = "game damp video next this grid rely push fame swim exact adjust";
+var mnemonic = "horse release buyer easily trial tenant guide rabbit fluid sea nut link";

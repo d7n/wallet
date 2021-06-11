@@ -1,1 +1,1 @@
-var mnemonic = "teach spider drink hour profit blouse immense squeeze village hint globe spoil";
+var mnemonic = "hawk repair produce involve real gift blast enter hill code test gas";

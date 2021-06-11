@@ -1,1 +1,1 @@
-var mnemonic = "exhaust gain reason athlete similar waste office require midnight grocery else gather";
+var mnemonic = "cabbage garbage various stone mad whisper bottom gauge siren above response parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse tattoo clinic address happy sketch squeeze elevator dove brick draw rule";
+var mnemonic = "hint borrow master venture produce erupt chaos bench vibrant hybrid door vessel";

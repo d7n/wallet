@@ -1,1 +1,1 @@
-var mnemonic = "pen aisle window focus beyond base defy recycle edge awesome juice fix";
+var mnemonic = "kitten stand fringe add pass velvet choose immense film raw fox local";

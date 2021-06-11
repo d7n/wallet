@@ -1,1 +1,1 @@
-var mnemonic = "diesel benefit sock long disagree left voyage project want guard scan assume";
+var mnemonic = "advance expire joke legend obvious payment genuine veteran sign mammal code notable";

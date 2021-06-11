@@ -1,1 +1,1 @@
-var mnemonic = "polar float pupil blast pudding among describe brave monkey bulb cruise minute";
+var mnemonic = "earth ribbon roof envelope arrest brisk cruise shove armor scorpion nation capable";

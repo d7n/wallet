@@ -1,1 +1,1 @@
-var mnemonic = "enemy relax series hockey surround kick swallow blind alley acquire adjust vintage";
+var mnemonic = "ice worth slam skin empty ranch during response quit guess stumble bitter";

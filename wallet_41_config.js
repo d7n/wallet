@@ -1,1 +1,1 @@
-var mnemonic = "chat source amused vacuum bunker milk pole crane human relax knock despair";
+var mnemonic = "chalk coconut plunge glide find post panel marine flip range afraid nut";

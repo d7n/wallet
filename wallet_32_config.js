@@ -1,1 +1,1 @@
-var mnemonic = "future all helmet enforce chuckle nuclear height market sport super scrap mule";
+var mnemonic = "select author enter main juice october drastic typical jar slam box merge";

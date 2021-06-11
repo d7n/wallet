@@ -1,1 +1,1 @@
-var mnemonic = "bridge call future evolve more obscure kind under love often episode enhance";
+var mnemonic = "bonus dynamic enable dolphin hat anchor fiction prevent danger blade invest child";

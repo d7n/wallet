@@ -1,1 +1,1 @@
-var mnemonic = "title across parade must neither arch replace rebuild fresh crawl uncover since";
+var mnemonic = "fork end winter earth broom student push story tonight stool silent slim";

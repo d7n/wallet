@@ -1,1 +1,1 @@
-var mnemonic = "hill amount recall feel police vote patrol spread cherry indoor hill bus";
+var mnemonic = "cross minute gallery fiscal fatal unaware bless trick bundle follow what arch";

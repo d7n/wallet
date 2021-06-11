@@ -1,1 +1,1 @@
-var mnemonic = "excuse skate shock tuition live monster hobby crime whisper onion frequent exhibit";
+var mnemonic = "pony lazy term ghost fly pattern ancient resource despair keep spare help";

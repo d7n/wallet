@@ -1,1 +1,1 @@
-var mnemonic = "vanish rescue lawn tunnel theory toy combine humor disagree repair tiny half";
+var mnemonic = "moon jelly badge repeat mention blanket climb dwarf police list hub aware";

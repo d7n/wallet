@@ -1,1 +1,1 @@
-var mnemonic = "inquiry hockey plastic bargain baby during leisure grass sand modify access foil";
+var mnemonic = "stone inch diet monkey scrap rail apology infant supreme eager belt lion";

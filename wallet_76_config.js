@@ -1,1 +1,1 @@
-var mnemonic = "negative situate moon blood fly cigar save quantum struggle gravity shift twice";
+var mnemonic = "kite grow mesh swamp congress gown art tell tonight step gift arm";

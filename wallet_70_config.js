@@ -1,1 +1,1 @@
-var mnemonic = "various elder squirrel promote curious buyer regular help wood clay multiply thought";
+var mnemonic = "planet leisure nephew flock syrup plastic saddle oxygen wide surround inhale sorry";

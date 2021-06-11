@@ -1,1 +1,1 @@
-var mnemonic = "idea spring donkey brother ethics silk change candy away very couple broccoli";
+var mnemonic = "renew scare exhaust feel render shadow bounce exile glass matter pitch army";

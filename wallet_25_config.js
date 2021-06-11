@@ -1,1 +1,1 @@
-var mnemonic = "earn dawn frozen rug upgrade wrestle clinic exile kit venue despair detect";
+var mnemonic = "couch talent supreme position carbon civil net junior swarm six expose damage";
