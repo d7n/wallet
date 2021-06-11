@@ -1,1 +1,1 @@
-var mnemonic = "above paper math nephew rose arch border gadget spend fish stable warrior";
+var mnemonic = "top crush nest six book device digital april brush people trigger post";

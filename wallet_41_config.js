@@ -1,1 +1,1 @@
-var mnemonic = "afford roof local disagree soccer game expire humble rib race fade valve";
+var mnemonic = "cushion echo match primary question trick second stool giraffe search reform else";

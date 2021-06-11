@@ -1,1 +1,1 @@
-var mnemonic = "prize bird bleak coin merit cute craft tattoo title judge drip genuine";
+var mnemonic = "cruise logic skate quiz couch spare inch isolate barrel festival loop siege";

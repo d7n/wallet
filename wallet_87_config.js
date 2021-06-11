@@ -1,1 +1,1 @@
-var mnemonic = "dutch distance spell echo retreat news sword skill gauge absurd viable foster";
+var mnemonic = "oil half despair hybrid provide veteran stomach bulk blush fringe maid leg";

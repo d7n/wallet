@@ -1,1 +1,1 @@
-var mnemonic = "maze cloth multiply hero mixture sibling among entire crazy hollow couch bone";
+var mnemonic = "jewel monkey hundred recycle chef engage shuffle leader mistake buyer color oppose";

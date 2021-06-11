@@ -1,1 +1,1 @@
-var mnemonic = "point permit safe current chimney hero neglect time jealous hurt fuel knee";
+var mnemonic = "series marriage siren road parade kit meat power window nature fish afford";

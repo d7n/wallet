@@ -1,1 +1,1 @@
-var mnemonic = "top basket method rule bottom learn tail news fish aim step dawn";
+var mnemonic = "vast cactus decline jacket season tribe pumpkin anxiety stuff hotel brain round";

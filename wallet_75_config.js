@@ -1,1 +1,1 @@
-var mnemonic = "risk useful april defy service toe bridge siren scan bar code welcome";
+var mnemonic = "artefact sort shell town morning garage parent anger escape senior tragic horror";

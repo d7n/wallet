@@ -1,1 +1,1 @@
-var mnemonic = "broom voyage long settle curve hurry include federal business return moral daughter";
+var mnemonic = "average ivory month dismiss illness prison episode project moral mobile safe race";

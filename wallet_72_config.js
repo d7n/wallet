@@ -1,1 +1,1 @@
-var mnemonic = "bundle dismiss birth detail wild avocado theory mention dash teach slender pole";
+var mnemonic = "monkey copy element devote job beauty problem next weird alert become citizen";

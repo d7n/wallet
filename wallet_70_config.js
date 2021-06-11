@@ -1,1 +1,1 @@
-var mnemonic = "hurry course deal frequent deer snack scout occur escape blue honey drip";
+var mnemonic = "try sign rough wagon alarm draw venture repeat same first lawn only";

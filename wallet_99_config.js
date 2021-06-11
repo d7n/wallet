@@ -1,1 +1,1 @@
-var mnemonic = "derive among famous sudden route shy ski silver cup bar cheap movie";
+var mnemonic = "swap aspect super olympic movie fruit erase orient dinner valid laundry client";

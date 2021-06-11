@@ -1,1 +1,1 @@
-var mnemonic = "caught response wealth clip social lava inherit rifle cave fruit genuine hybrid";
+var mnemonic = "tell absurd window adult loud refuse property poem market brief school doctor";

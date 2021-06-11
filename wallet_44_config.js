@@ -1,1 +1,1 @@
-var mnemonic = "remain arrest vessel behind recycle song hard future imitate noise shine romance";
+var mnemonic = "measure elite cute awkward track pink mass uniform frequent mirror return must";

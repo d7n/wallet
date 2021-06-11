@@ -1,1 +1,1 @@
-var mnemonic = "place loyal cave obvious mom idea table coil barrel together slide squirrel";
+var mnemonic = "ill endorse empower never field ability glimpse patient prize trumpet pretty feature";

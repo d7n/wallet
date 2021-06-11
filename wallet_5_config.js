@@ -1,1 +1,1 @@
-var mnemonic = "black subject lesson clarify unlock relief multiply inherit oak fee eye company";
+var mnemonic = "divert idle work radar ahead jacket garbage help stock special open story";

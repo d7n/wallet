@@ -1,1 +1,1 @@
-var mnemonic = "include assist glance federal near illness spike blame luxury melt settle term";
+var mnemonic = "correct cram right pact resist current celery wonder universe treat donkey buffalo";

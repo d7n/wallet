@@ -1,1 +1,1 @@
-var mnemonic = "height visa mountain garbage satisfy wine hedgehog drift income liquid pond grief";
+var mnemonic = "initial cloud upon coast vendor chef tumble tenant turn wrap digital bunker";

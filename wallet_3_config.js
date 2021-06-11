@@ -1,1 +1,1 @@
-var mnemonic = "deer harvest amused energy admit option copper betray chunk rail degree network";
+var mnemonic = "fit symbol mom disorder pigeon dizzy figure key oak below cup dolphin";

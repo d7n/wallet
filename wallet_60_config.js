@@ -1,1 +1,1 @@
-var mnemonic = "chicken sail lens unable tornado bright brain trick spawn inflict unusual differ";
+var mnemonic = "opera butter estate street online cinnamon melody lava grid census purse pilot";

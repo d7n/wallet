@@ -1,1 +1,1 @@
-var mnemonic = "marine buddy nuclear degree noble movie renew monitor forum hunt carbon candy";
+var mnemonic = "dice mammal used trumpet share bid quantum pelican expect run blanket fine";

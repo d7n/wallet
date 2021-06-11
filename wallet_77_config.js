@@ -1,1 +1,1 @@
-var mnemonic = "dry okay eagle clarify marriage almost old island usual chunk nut radar";
+var mnemonic = "marble drink firm depart forum dash admit wet cloth diet dizzy unhappy";

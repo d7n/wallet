@@ -1,1 +1,1 @@
-var mnemonic = "engine lamp orange refuse zoo cruel chronic strong million solid abstract fabric";
+var mnemonic = "enemy salmon fatigue chef energy hold mass afraid group total joke advice";

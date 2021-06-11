@@ -1,1 +1,1 @@
-var mnemonic = "output easy exchange one cash accuse nut hero finish ensure slot parade";
+var mnemonic = "gather loud anger tonight never problem staff brain festival hard pave engine";

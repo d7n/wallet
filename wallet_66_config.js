@@ -1,1 +1,1 @@
-var mnemonic = "either fit bonus practice jewel purity unusual index rice salute february people";
+var mnemonic = "enough they theory pledge rib betray oil category ski control lady soup";

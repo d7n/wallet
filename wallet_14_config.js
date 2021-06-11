@@ -1,1 +1,1 @@
-var mnemonic = "buzz gasp wasp income actor middle clown focus major chief vicious leopard";
+var mnemonic = "waste share boil student sample aunt panther insane carry patient pitch alarm";

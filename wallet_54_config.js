@@ -1,1 +1,1 @@
-var mnemonic = "zero vapor cream into mention subject fruit among cross indoor share actual";
+var mnemonic = "shoulder swallow until arena apology cook lottery oblige survey pen crisp erase";

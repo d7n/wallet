@@ -1,1 +1,1 @@
-var mnemonic = "deputy cart diagram question finish result flush economy public divide flock liar";
+var mnemonic = "banner worry bacon concert matrix nut speed nerve bright pulse print floor";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp color ketchup coast sight immense segment remove text virus property april";
+var mnemonic = "merit odor wink track muscle eye video afford airport fix only voyage";

@@ -1,1 +1,1 @@
-var mnemonic = "height pioneer east flavor orphan verb pupil what volume element liberty boring";
+var mnemonic = "news million file charge family venue group bitter dizzy risk butter enter";

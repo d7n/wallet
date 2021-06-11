@@ -1,1 +1,1 @@
-var mnemonic = "poverty differ hover asset trend trim regular expand mercy stage leisure jungle";
+var mnemonic = "switch upgrade bacon simple zoo right wealth much execute fossil version muscle";

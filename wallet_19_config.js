@@ -1,1 +1,1 @@
-var mnemonic = "uncover vivid tattoo harsh antique ritual fetch orient theory trophy oxygen other";
+var mnemonic = "detail suffer proud whale profit recall plate mean top junk salad label";

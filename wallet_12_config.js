@@ -1,1 +1,1 @@
-var mnemonic = "pact goat kidney virus gesture trial payment return elegant version device plug";
+var mnemonic = "vacuum tomato icon casino fly hint abandon lava utility grace visual siren";

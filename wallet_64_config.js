@@ -1,1 +1,1 @@
-var mnemonic = "nurse zoo toast stamp enrich robot clump thunder young tobacco document daughter";
+var mnemonic = "hazard focus stool price second goose math soda similar hair exact wreck";

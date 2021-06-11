@@ -1,1 +1,1 @@
-var mnemonic = "card kiss isolate average soon survey subject area actor remove basic alter";
+var mnemonic = "confirm skate brain balcony primary champion know gaze thunder strategy then insane";

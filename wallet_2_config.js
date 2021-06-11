@@ -1,1 +1,1 @@
-var mnemonic = "copy matter fortune diesel absorb desert soft foil eight popular elephant lucky";
+var mnemonic = "juice uncover orange program faint skill language spike stamp install peace rich";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor salmon grief grape post sport bike label cattle also tooth tissue";
+var mnemonic = "increase raven siren episode image olive expand rebuild secret theme embrace now";

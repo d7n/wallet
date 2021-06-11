@@ -1,1 +1,1 @@
-var mnemonic = "machine valley under absent harsh move raw cloth fade country smart relax";
+var mnemonic = "kiss impact increase unable level priority scheme top legend budget lawn clap";

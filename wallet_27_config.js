@@ -1,1 +1,1 @@
-var mnemonic = "wide lonely degree flock oblige road paper net emerge tooth auction useless";
+var mnemonic = "phrase start easily lesson venue field wear across surround swap output robust";

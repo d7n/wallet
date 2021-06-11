@@ -1,1 +1,1 @@
-var mnemonic = "wife soul resource assume awful produce flush train jeans glance column arena";
+var mnemonic = "hover visa fiction upset expect car vicious tooth gravity best orbit derive";

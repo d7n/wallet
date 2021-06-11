@@ -1,1 +1,1 @@
-var mnemonic = "gas vocal regular energy acid among prison scorpion laugh modify confirm lake";
+var mnemonic = "glory laundry crime script fitness ginger stove estate twice diary cannon split";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb way easy entire wheat jewel hawk dilemma rally antique news humor";
+var mnemonic = "unfold range equip cross amateur deposit hybrid hub annual pattern quick rifle";

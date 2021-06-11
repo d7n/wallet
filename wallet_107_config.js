@@ -1,1 +1,1 @@
-var mnemonic = "hood valve early monkey end clay false garlic walk drive shield depend";
+var mnemonic = "turtle income village enact critic much couch host rifle hub beauty exhibit";

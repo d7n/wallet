@@ -1,1 +1,1 @@
-var mnemonic = "autumn father chase shiver year kit version town stock round race black";
+var mnemonic = "start shadow banner dizzy aware ostrich finish flash letter fortune dice frozen";

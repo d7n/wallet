@@ -1,1 +1,1 @@
-var mnemonic = "globe extra hard tool fitness black hair minute half record rival humble";
+var mnemonic = "tide patch horn tent lamp mom service drop domain prefer humor ability";

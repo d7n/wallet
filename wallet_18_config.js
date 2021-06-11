@@ -1,1 +1,1 @@
-var mnemonic = "knee corn feed visual couch verify slice idle alien leader monkey pill";
+var mnemonic = "social dial female cruel truly lonely image helmet unlock lawn shallow view";

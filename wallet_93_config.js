@@ -1,1 +1,1 @@
-var mnemonic = "romance jungle despair stumble find flight wife bargain old skirt viable nephew";
+var mnemonic = "fetch steel mystery script afraid asset refuse warfare coyote drum blue snap";

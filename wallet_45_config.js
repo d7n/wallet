@@ -1,1 +1,1 @@
-var mnemonic = "camera jazz rifle humble inject rescue blue concert guilt despair tag snake";
+var mnemonic = "galaxy worry sun snake own advance tooth extend adapt midnight tourist sock";

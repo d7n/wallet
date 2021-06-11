@@ -1,1 +1,1 @@
-var mnemonic = "oblige parrot valve leisure tell stomach celery corn urban broccoli poem answer";
+var mnemonic = "note return holiday pipe armor initial between yard spread palm bulb window";

@@ -1,1 +1,1 @@
-var mnemonic = "enter rotate dry cousin weird grow knock ceiling hen cry creek file";
+var mnemonic = "seed estate ranch swing trim seed upset eye drift inside trap noble";

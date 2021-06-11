@@ -1,1 +1,1 @@
-var mnemonic = "hundred hurt spy cruel abstract pigeon they install morning have tomorrow flight";
+var mnemonic = "common garment bench cause motor increase prosper quiz actual bulb push alert";

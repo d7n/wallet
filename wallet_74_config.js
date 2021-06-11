@@ -1,1 +1,1 @@
-var mnemonic = "device urban escape tenant loyal icon window above puppy pioneer canal elite";
+var mnemonic = "mouse rely impose zone path able expand basic pool sibling skate excite";

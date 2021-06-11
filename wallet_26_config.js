@@ -1,1 +1,1 @@
-var mnemonic = "ginger build income scrub feed thought seven iron circle review sugar dad";
+var mnemonic = "index shy frequent focus dice party spare box artist depth fetch dumb";

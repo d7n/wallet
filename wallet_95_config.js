@@ -1,1 +1,1 @@
-var mnemonic = "stem usage zebra dawn also dose observe flavor better puppy fit arrest";
+var mnemonic = "buffalo ritual friend december avocado anchor baby tired start indicate escape harbor";

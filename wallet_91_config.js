@@ -1,1 +1,1 @@
-var mnemonic = "absurd belt link hybrid outside divorce also sting scale risk fortune dose";
+var mnemonic = "rely diagram shock polar able fade gorilla other small rally raise ordinary";

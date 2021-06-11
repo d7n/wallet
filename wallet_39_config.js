@@ -1,1 +1,1 @@
-var mnemonic = "fancy whale veteran toilet letter arrange upper mosquito detail someone clinic expand";
+var mnemonic = "kite bottom quit family upon engine scheme oak lecture whisper ugly radio";

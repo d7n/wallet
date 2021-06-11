@@ -1,1 +1,1 @@
-var mnemonic = "verb cost grow pill asset coin rose punch toilet mango sample chuckle";
+var mnemonic = "order busy rare repair water end bulb pluck ability kit age cannon";

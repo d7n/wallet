@@ -1,1 +1,1 @@
-var mnemonic = "lumber length retreat inmate wrap decide inform column peasant fence middle gun";
+var mnemonic = "corn debris plug vicious problem claw holiday undo snap south velvet lift";

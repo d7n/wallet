@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur father solve street snap place stumble reflect dinner output stay near";
+var mnemonic = "dream better divorce wasp hub gun deny quantum mobile critic dove egg";

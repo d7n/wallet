@@ -1,1 +1,1 @@
-var mnemonic = "diagram evolve sock ensure believe rice another era weasel open snack column";
+var mnemonic = "report barrel online tobacco prize real escape canvas purchase mandate just spoon";

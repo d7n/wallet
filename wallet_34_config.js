@@ -1,1 +1,1 @@
-var mnemonic = "evil refuse such rebel pattern snake build reject source symbol bonus fiber";
+var mnemonic = "actor certain tube panic foot bonus turn proof scan way kitchen jungle";

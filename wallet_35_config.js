@@ -1,1 +1,1 @@
-var mnemonic = "balcony drill return middle duty wagon plate kit leader sponsor hint smart";
+var mnemonic = "ribbon split method scout hedgehog debate pepper ramp need mosquito wise floor";

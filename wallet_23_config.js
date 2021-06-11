@@ -1,1 +1,1 @@
-var mnemonic = "brand rib segment radio swallow collect shock today manual spatial witness creek";
+var mnemonic = "profit sound case obvious border regret kitten window barrel bitter grief verb";

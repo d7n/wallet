@@ -1,1 +1,1 @@
-var mnemonic = "toddler coconut minimum public fashion reason diesel master during wage friend describe";
+var mnemonic = "magnet wisdom eagle piece wet plunge speak actor can recall logic also";

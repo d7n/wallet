@@ -1,1 +1,1 @@
-var mnemonic = "prepare elevator wisdom host defense orphan habit trouble accident canyon flee entry";
+var mnemonic = "remove junior screen theme own almost animal tired merit radio height sting";

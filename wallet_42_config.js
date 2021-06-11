@@ -1,1 +1,1 @@
-var mnemonic = "street stone witness cricket sustain snow virtual firm photo range version lunar";
+var mnemonic = "tank balance pipe hollow barrel photo celery forum pool myth output car";

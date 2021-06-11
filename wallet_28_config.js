@@ -1,1 +1,1 @@
-var mnemonic = "guess sense scare solve enhance salad shallow slot list blade retreat run";
+var mnemonic = "squeeze crawl boss shadow question zoo dismiss venue trick teach nasty cage";

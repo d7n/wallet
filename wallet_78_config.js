@@ -1,1 +1,1 @@
-var mnemonic = "soap flush result combine search three invest poem pattern core liquid prefer";
+var mnemonic = "oxygen shine pipe daughter curve dawn west elder dose length scan summer";

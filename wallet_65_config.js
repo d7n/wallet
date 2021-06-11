@@ -1,1 +1,1 @@
-var mnemonic = "segment inflict earn mind accuse void miss include traffic code milk book";
+var mnemonic = "battle vivid cook inherit smile solar disorder second tip fuel used inhale";

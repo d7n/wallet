@@ -1,1 +1,1 @@
-var mnemonic = "party witness spawn join alarm valid liar mixture make glue kick buddy";
+var mnemonic = "typical near road derive immune defy fork recall razor yellow depend conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "coach general add before inform nice make process popular record predict pool";
+var mnemonic = "talent review treat tool stereo swarm clutch dutch crouch evil decide layer";

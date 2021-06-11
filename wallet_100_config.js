@@ -1,1 +1,1 @@
-var mnemonic = "distance math reason board kid turtle silly point planet dune mechanic ship";
+var mnemonic = "super monster adjust leader section genuine cash core sea hint alpha squeeze";

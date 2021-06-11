@@ -1,1 +1,1 @@
-var mnemonic = "prevent all guide mutual shoulder relief true brick parent syrup library spring";
+var mnemonic = "jump boost shine dinosaur discover concert prison urge wild cradle shoe adjust";

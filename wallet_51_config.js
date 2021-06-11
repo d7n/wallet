@@ -1,1 +1,1 @@
-var mnemonic = "alley gym glare success flame drama glue movie muscle idle abstract monitor";
+var mnemonic = "aim entry derive cotton certain oil purity crunch fluid layer between visual";

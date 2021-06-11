@@ -1,1 +1,1 @@
-var mnemonic = "reveal eagle scissors enable noodle retire rapid nerve iron wonder science echo";
+var mnemonic = "west guilt verify trigger arch hello public cannon swallow blur north arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "must into unit dove adult carpet million olympic gorilla board fancy curtain";
+var mnemonic = "response vibrant vivid solve vote fat acid glimpse describe offer around spell";

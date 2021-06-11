@@ -1,1 +1,1 @@
-var mnemonic = "eye million truth long oxygen mail merge dial harbor vacuum stomach multiply";
+var mnemonic = "wonder arrest sting high intact throw girl diesel cabin lunar program final";

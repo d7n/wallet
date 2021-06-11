@@ -1,1 +1,1 @@
-var mnemonic = "genuine empower pizza hello rescue empty humble expose train crater prefer quiz";
+var mnemonic = "license north unveil ketchup solve echo image annual aspect melody shoe shop";

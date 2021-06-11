@@ -1,1 +1,1 @@
-var mnemonic = "peanut stamp fury alert seven lemon rain ripple device mail blade naive";
+var mnemonic = "borrow sugar nature cram mansion bubble edit wheel project inform extend place";

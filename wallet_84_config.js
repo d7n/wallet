@@ -1,1 +1,1 @@
-var mnemonic = "medal lecture old art seek cram drift cause reform crack mountain capital";
+var mnemonic = "blue raven runway convince safe boss portion siege huge garden banner shallow";

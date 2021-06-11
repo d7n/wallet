@@ -1,1 +1,1 @@
-var mnemonic = "logic vapor chimney image type smooth remember adjust innocent correct develop toddler";
+var mnemonic = "cluster zero hospital clutch oven armed educate eyebrow carry flat note spring";

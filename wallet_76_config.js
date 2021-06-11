@@ -1,1 +1,1 @@
-var mnemonic = "usual tilt obey impose inflict addict behind eight math dust doll race";
+var mnemonic = "mix ugly scare juice shed salute robust melody duty coach learn example";
