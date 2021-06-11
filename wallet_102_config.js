@@ -1,1 +1,1 @@
-var mnemonic = "monster robust shadow spray jungle property mansion culture mammal equal foster shield";
+var mnemonic = "around slab merry document curve accuse ocean dust forest creek column page";

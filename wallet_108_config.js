@@ -1,1 +1,1 @@
-var mnemonic = "protect fabric dynamic feed stool craft extend movie layer any state foam";
+var mnemonic = "calm release suit barrel army busy alarm exit cancel turkey cross loan";

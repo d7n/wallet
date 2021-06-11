@@ -1,1 +1,1 @@
-var mnemonic = "treat enjoy outer happy reduce buddy tuition typical width spot must purchase";
+var mnemonic = "aunt rough warrior ask abstract chase box uniform image grace divide clay";

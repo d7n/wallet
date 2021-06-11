@@ -1,1 +1,1 @@
-var mnemonic = "winner blanket mule online drastic combine subway fortune poet excess during motion";
+var mnemonic = "abuse dumb yard cube bless speak mosquito flame brief sudden average waste";

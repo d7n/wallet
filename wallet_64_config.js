@@ -1,1 +1,1 @@
-var mnemonic = "gesture mind novel gentle cattle bean erupt tape robot human welcome say";
+var mnemonic = "notice intact dirt advice gorilla sentence melody slim absurd wise reform vivid";

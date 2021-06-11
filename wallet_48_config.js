@@ -1,1 +1,1 @@
-var mnemonic = "crumble inspire trial melt fortune knife antenna cool soup time cabin noise";
+var mnemonic = "plug lend patrol wrong crew enter mobile fantasy velvet chuckle high expect";

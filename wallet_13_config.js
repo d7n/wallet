@@ -1,1 +1,1 @@
-var mnemonic = "expose film stove mistake poverty large toward bar wait melody decrease sting";
+var mnemonic = "unhappy scheme meat convince exotic monkey veteran turn chunk swift industry cotton";

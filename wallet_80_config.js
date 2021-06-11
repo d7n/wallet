@@ -1,1 +1,1 @@
-var mnemonic = "husband describe almost answer pear concert atom elephant bamboo region hurdle swear";
+var mnemonic = "blade guilt possible impact chuckle example twenty expose tribe horse hat pass";

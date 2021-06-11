@@ -1,1 +1,1 @@
-var mnemonic = "arrange just pool day awful raw reflect trash hamster subway music episode";
+var mnemonic = "off like list cigar economy hole spike anchor artefact unaware wash subject";

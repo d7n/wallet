@@ -1,1 +1,1 @@
-var mnemonic = "shove danger hockey runway brief focus brain once upon gym will leisure";
+var mnemonic = "soda vote extend hamster any crane series note duty man cup viable";

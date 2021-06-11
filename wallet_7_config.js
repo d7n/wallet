@@ -1,1 +1,1 @@
-var mnemonic = "volcano link butter toss domain best confirm clump essay junk trash mountain";
+var mnemonic = "process surprise assault then poverty little similar skill curious paddle double ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "dust swing game erase drip quiz envelope trophy biology repeat picture car";
+var mnemonic = "green chair case bright about habit great kiss swift west height fortune";

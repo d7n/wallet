@@ -1,1 +1,1 @@
-var mnemonic = "can later recipe ahead when banner valve whisper tower citizen force clinic";
+var mnemonic = "job certain absorb wink excuse bag armor nest short similar claw stock";

@@ -1,1 +1,1 @@
-var mnemonic = "subject wealth fix depend snake spot spoon material fragile across pulp nature";
+var mnemonic = "only agent fame hour awkward century gaze almost welcome cancel fancy shine";

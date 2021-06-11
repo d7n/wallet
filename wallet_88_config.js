@@ -1,1 +1,1 @@
-var mnemonic = "library asthma disease hollow enlist cinnamon amateur unusual cake pilot farm cargo";
+var mnemonic = "list try frost inherit stay brief secret sword holiday brush upper punch";

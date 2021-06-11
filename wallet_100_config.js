@@ -1,1 +1,1 @@
-var mnemonic = "brief ostrich ritual ostrich ten palm stove usage habit act aspect hover";
+var mnemonic = "main term menu novel cost concert figure visual orient mad access reform";

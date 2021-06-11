@@ -1,1 +1,1 @@
-var mnemonic = "ramp pony unknown kingdom island vote mosquito local entire toilet pattern secret";
+var mnemonic = "north quiz sword cute human urge grid urge action diesel fresh salon";

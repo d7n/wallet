@@ -1,1 +1,1 @@
-var mnemonic = "payment electric humor night tongue palace wrist average cram trumpet talk clump";
+var mnemonic = "palm repair scatter doctor asthma lift robust jaguar predict welcome grain stock";

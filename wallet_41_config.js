@@ -1,1 +1,1 @@
-var mnemonic = "naive chronic tide return brief cereal olive behave swing predict stand icon";
+var mnemonic = "camera wheat transfer across what target salmon hazard bird nut filter kangaroo";

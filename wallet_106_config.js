@@ -1,1 +1,1 @@
-var mnemonic = "amazing later mass maximum universe miracle poem liar plastic road produce silent";
+var mnemonic = "hole adult negative indoor excuse clerk ankle wrist coral admit general taxi";

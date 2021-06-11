@@ -1,1 +1,1 @@
-var mnemonic = "fade river duck catalog private squirrel exhaust parent evoke topple hybrid royal";
+var mnemonic = "amateur rally stool coach adapt media coin cave vocal inhale affair drill";

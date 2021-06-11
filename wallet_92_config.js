@@ -1,1 +1,1 @@
-var mnemonic = "harbor area next attack embrace hold barrel spread able thing diesel grape";
+var mnemonic = "audit purity average crew inquiry dust timber tackle puppy glue tattoo left";

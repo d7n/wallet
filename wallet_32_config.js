@@ -1,1 +1,1 @@
-var mnemonic = "question length mirror layer cry ugly damp buffalo copy initial alone swift";
+var mnemonic = "news trick olympic maid evolve fatigue duck all fruit drive like discover";

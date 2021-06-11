@@ -1,1 +1,1 @@
-var mnemonic = "wagon food eager core tunnel brass regular fabric gate cluster shaft delay";
+var mnemonic = "talk remember latin weather stereo depth lottery eyebrow ability sight balance exercise";

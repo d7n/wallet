@@ -1,1 +1,1 @@
-var mnemonic = "put lobster cherry blush envelope tattoo trophy seek toss shadow dilemma divide";
+var mnemonic = "catch health alpha village between wet hundred lawn issue endless auto make";

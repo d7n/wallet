@@ -1,1 +1,1 @@
-var mnemonic = "glad head front famous best mushroom novel burger skill same balcony park";
+var mnemonic = "bronze height frown virtual later daughter plate mom orange term ethics liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "excite filter fame aerobic mango arrive wild kind spring march drop desert";
+var mnemonic = "blush ride pass toilet mansion obscure limb venture rifle skull force yellow";

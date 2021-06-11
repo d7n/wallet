@@ -1,1 +1,1 @@
-var mnemonic = "student cross arrive decade ivory assault seat they come plug solid city";
+var mnemonic = "boss camera fun urge soccer clap fantasy subject cherry hospital almost cinnamon";

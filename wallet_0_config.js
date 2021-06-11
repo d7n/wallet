@@ -1,1 +1,1 @@
-var mnemonic = "mother follow theory arrest often chat uniform enemy bread panic cube dish";
+var mnemonic = "swamp lady nice age govern dress adult trick day time expand family";

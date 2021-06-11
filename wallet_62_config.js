@@ -1,1 +1,1 @@
-var mnemonic = "safe escape metal security power idle noise safe garden clever jar exchange";
+var mnemonic = "crisp noble sadness fish together table mechanic brand like destroy club fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster jewel earth cereal junk reason once bottom safe steel fringe mom";
+var mnemonic = "wheel time sleep butter verb bone grunt spin stomach ethics life pipe";

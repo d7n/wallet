@@ -1,1 +1,1 @@
-var mnemonic = "team illegal motor concert clown latin erode priority oil barrel awake elite";
+var mnemonic = "income prize churn course behave today inject yard twist notice inspire brush";

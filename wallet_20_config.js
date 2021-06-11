@@ -1,1 +1,1 @@
-var mnemonic = "immune layer album attack express loyal volume flag happy arm melody negative";
+var mnemonic = "more image input vote help print park spend net short cloud install";

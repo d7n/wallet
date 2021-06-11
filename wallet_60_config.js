@@ -1,1 +1,1 @@
-var mnemonic = "avocado olympic hour trim course series stand milk undo hobby script aerobic";
+var mnemonic = "innocent garment broom achieve capital seed prison wealth decorate caught phrase pulse";

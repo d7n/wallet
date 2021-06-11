@@ -1,1 +1,1 @@
-var mnemonic = "curve waste van law glow color want total rubber north pioneer carbon";
+var mnemonic = "guitar letter arch tiny state other finger mandate grab pave consider noble";

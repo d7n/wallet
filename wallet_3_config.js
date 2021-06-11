@@ -1,1 +1,1 @@
-var mnemonic = "useful movie pupil ridge defy indicate access destroy dog today draw market";
+var mnemonic = "before lens move identify walk face attract trouble skin core convince word";

@@ -1,1 +1,1 @@
-var mnemonic = "consider tornado exercise toss mention ski trumpet spy cradle scene thunder pattern";
+var mnemonic = "choose hungry minute decline toilet horse tip tide mimic first gown choice";

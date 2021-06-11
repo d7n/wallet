@@ -1,1 +1,1 @@
-var mnemonic = "weather duck spot raven orphan sick treat trend become note leader build";
+var mnemonic = "noise orbit hurt excuse clutch method atom horror initial flag electric latin";

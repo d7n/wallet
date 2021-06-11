@@ -1,1 +1,1 @@
-var mnemonic = "embark useless poverty pelican absorb armed area exit borrow essence eager skill";
+var mnemonic = "zero lamp six duty wrong heart brief popular gas wife paper daring";

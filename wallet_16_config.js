@@ -1,1 +1,1 @@
-var mnemonic = "spell segment equal problem fabric story rely honey cool conduct chef bag";
+var mnemonic = "oval gesture monkey neutral fatal curtain tree razor hidden unhappy anchor cross";

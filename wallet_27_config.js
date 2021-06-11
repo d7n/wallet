@@ -1,1 +1,1 @@
-var mnemonic = "brick top calm reflect goddess amazing physical square total decide refuse antenna";
+var mnemonic = "kick crack now blind just ship mouse copy economy pen balcony search";

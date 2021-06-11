@@ -1,1 +1,1 @@
-var mnemonic = "laptop hybrid deer barrel service burden tag million reflect super bicycle naive";
+var mnemonic = "device dress display tonight emotion merit black harbor side major kind display";

@@ -1,1 +1,1 @@
-var mnemonic = "match punch caution police weird remove vibrant innocent sphere bounce tattoo credit";
+var mnemonic = "glory ginger code mountain put gas wrestle whip tank cute duty ability";

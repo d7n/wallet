@@ -1,1 +1,1 @@
-var mnemonic = "energy security proud grape alert gold six law private beyond fresh cave";
+var mnemonic = "barrel achieve comic dwarf laugh kingdom cement maze conduct tuna common erase";

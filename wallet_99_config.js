@@ -1,1 +1,1 @@
-var mnemonic = "speed unable pluck summer explain dynamic tuition employ elbow fetch pause journey";
+var mnemonic = "decorate lunar super subject depart pilot sort check bundle stool cement leader";

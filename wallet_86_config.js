@@ -1,1 +1,1 @@
-var mnemonic = "security mouse couch defense chaos swap gown tobacco embark cream baby candy";
+var mnemonic = "stick reopen music seek eye fiction decrease gallery either denial unusual enough";

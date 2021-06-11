@@ -1,1 +1,1 @@
-var mnemonic = "conduct bomb logic brown chat salute habit night mystery soul trigger ocean";
+var mnemonic = "best vacuum armed horn buyer ecology client help cash target search oven";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna consider page body unaware normal toast relief liar scan live tattoo";
+var mnemonic = "ice put vessel digital garlic flush town scare debris screen innocent erode";

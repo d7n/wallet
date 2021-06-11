@@ -1,1 +1,1 @@
-var mnemonic = "panic guitar game lucky empty knock swim unable start furnace space defy";
+var mnemonic = "local slot symbol fit foot fog tree range shrimp wise text build";

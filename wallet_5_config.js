@@ -1,1 +1,1 @@
-var mnemonic = "person erase gun valve guitar cherry describe renew grass diamond actress beach";
+var mnemonic = "inner payment circle task park pitch bulk vicious rather calm fame side";

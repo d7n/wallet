@@ -1,1 +1,1 @@
-var mnemonic = "medal art fortune limit hurdle practice phrase exact dish enrich party target";
+var mnemonic = "organ abandon quality number goose hazard govern brisk ten practice very teach";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo monitor immune depend fury marble away pill lawsuit shed economy foam";
+var mnemonic = "rural furnace reveal box cash now citizen damage fantasy solution useful exist";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut rookie item core order scan truly leg useful nice kind letter";
+var mnemonic = "cute cushion matrix output stomach sister elbow thought cement work slice sight";

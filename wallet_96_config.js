@@ -1,1 +1,1 @@
-var mnemonic = "public power bid balance unfold hero desk hub engage economy boy sphere";
+var mnemonic = "antique anxiety little transfer nurse roast moon absorb drip stage frequent salon";

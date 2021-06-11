@@ -1,1 +1,1 @@
-var mnemonic = "return limb chalk gas balcony occur tornado atom cover that virus fox";
+var mnemonic = "matter define net seat state earth large thank history pizza dash razor";

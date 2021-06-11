@@ -1,1 +1,1 @@
-var mnemonic = "assault argue canvas cover canoe please drink item wine window near labor";
+var mnemonic = "salad alien puzzle demise attitude join monster humble champion logic job letter";

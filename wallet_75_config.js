@@ -1,1 +1,1 @@
-var mnemonic = "combine gate genius bitter hen wealth input cargo hazard turtle power banner";
+var mnemonic = "frost champion expire myself foil toast reunion say spice uncle melt rice";

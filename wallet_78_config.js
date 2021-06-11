@@ -1,1 +1,1 @@
-var mnemonic = "sheriff screen room skill primary fiction labor scale fox sorry gate silly";
+var mnemonic = "just rice elbow unit salt cave curious else pool prefer shallow vacant";

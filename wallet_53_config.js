@@ -1,1 +1,1 @@
-var mnemonic = "become potato dream visual myself opera when spring grain health margin step";
+var mnemonic = "analyst easy belt fashion trap zone armed album brisk remind measure skin";

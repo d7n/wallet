@@ -1,1 +1,1 @@
-var mnemonic = "member float almost like step cake salt tomorrow half topple upgrade plastic";
+var mnemonic = "rug unusual joy canyon woman track side arrow square lamp napkin stomach";

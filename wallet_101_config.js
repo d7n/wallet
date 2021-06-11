@@ -1,1 +1,1 @@
-var mnemonic = "pioneer banana nose pottery nation inspire domain idle price gym island bench";
+var mnemonic = "tired average tumble property fault able equal tribe gorilla need afford diagram";

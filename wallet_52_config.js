@@ -1,1 +1,1 @@
-var mnemonic = "hospital bulk street metal tribe mask stairs torch carry shoulder symbol trip";
+var mnemonic = "code assault peasant grief genius skin common spray paper ski limb clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "couple shoulder inch drop fortune proof burger yard rocket step scheme weasel";
+var mnemonic = "apple expire wine matrix wrap bargain lion despair orbit wide zero amazing";

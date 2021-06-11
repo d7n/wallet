@@ -1,1 +1,1 @@
-var mnemonic = "rare divorce remove bottom daughter roof mountain empower smart board square pulp";
+var mnemonic = "inquiry curious popular kiss arm onion deposit collect page valve valve scene";

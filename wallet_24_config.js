@@ -1,1 +1,1 @@
-var mnemonic = "phone swift wasp moon unhappy broccoli hill knee alpha grit comfort rug";
+var mnemonic = "current focus reduce orbit front glory soccer ignore rescue enact prepare three";

@@ -1,1 +1,1 @@
-var mnemonic = "company rigid grid fantasy hat strike share brand pink earn claw road";
+var mnemonic = "upgrade delay accuse day salute material employ margin nerve leave abstract rely";

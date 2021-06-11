@@ -1,1 +1,1 @@
-var mnemonic = "cherry step element grid idle hundred satisfy universe behind laundry hint price";
+var mnemonic = "senior doctor funny person canvas cherry gentle situate oblige desk embrace raccoon";

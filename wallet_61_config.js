@@ -1,1 +1,1 @@
-var mnemonic = "rail place gap shiver enough large laugh moment age jeans either planet";
+var mnemonic = "honey genre film acoustic simple wasp wish sentence wide sweet account burger";

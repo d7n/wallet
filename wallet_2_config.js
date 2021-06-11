@@ -1,1 +1,1 @@
-var mnemonic = "mosquito gym spawn phone circle remind child gorilla gather play horn uncle";
+var mnemonic = "high video hockey hockey letter jungle dog unveil enact gift time front";

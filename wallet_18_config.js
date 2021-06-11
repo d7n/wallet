@@ -1,1 +1,1 @@
-var mnemonic = "stadium monkey copper attend jump quote better hover athlete leaf surprise clever";
+var mnemonic = "cheese retreat crack melt traffic fee rapid wage civil hockey skirt logic";

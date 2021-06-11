@@ -1,1 +1,1 @@
-var mnemonic = "rural cradle dignity explain spend own lunch flush ethics seek oil armor";
+var mnemonic = "fragile layer save judge exhibit salmon home kidney festival edit orange receive";

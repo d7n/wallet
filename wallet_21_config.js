@@ -1,1 +1,1 @@
-var mnemonic = "grid match bronze swing garden inspire limb alone theory couch deliver warrior";
+var mnemonic = "claim trouble source swing comic add kiss hundred solution dress manage uphold";

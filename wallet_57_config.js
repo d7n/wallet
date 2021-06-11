@@ -1,1 +1,1 @@
-var mnemonic = "bright smoke six slender entire grit once pledge rhythm sort stove run";
+var mnemonic = "blade escape motor thunder hurdle fringe just guard crawl gauge solve aerobic";

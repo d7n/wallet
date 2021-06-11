@@ -1,1 +1,1 @@
-var mnemonic = "spider call coral ghost coyote face dizzy vacant similar child provide pink";
+var mnemonic = "image usage course very price chapter prison goat gown still angle space";

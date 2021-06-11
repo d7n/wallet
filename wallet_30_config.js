@@ -1,1 +1,1 @@
-var mnemonic = "battle brave swift worry tonight nuclear now throw image tooth wolf stairs";
+var mnemonic = "recipe rigid still job able valley nasty tattoo grape narrow super behave";

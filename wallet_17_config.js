@@ -1,1 +1,1 @@
-var mnemonic = "similar menu nest grant milk tennis attack skirt tackle title dog hurt";
+var mnemonic = "foil any nut youth draw pill kid unaware naive divert pottery rare";

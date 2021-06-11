@@ -1,1 +1,1 @@
-var mnemonic = "arch volcano buyer purchase broken tomato barely wealth capable enact human nurse";
+var mnemonic = "high ridge piece creek baby regular luxury obvious fun obtain cute inhale";

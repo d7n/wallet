@@ -1,1 +1,1 @@
-var mnemonic = "turtle crystal void ability orient because degree wrestle price tuna sleep unlock";
+var mnemonic = "source fat dizzy child assume destroy length acquire hope deposit paddle tiger";

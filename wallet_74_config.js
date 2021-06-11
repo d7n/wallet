@@ -1,1 +1,1 @@
-var mnemonic = "gain option mad match nature dentist cliff return draw type ask manual";
+var mnemonic = "guitar visual frozen become combine document deputy reject analyst resemble gym cage";

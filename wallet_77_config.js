@@ -1,1 +1,1 @@
-var mnemonic = "south water rotate laugh bicycle awful armed mercy donor capital aware ugly";
+var mnemonic = "phone work hand supreme humble someone patrol silver will waste weird blur";

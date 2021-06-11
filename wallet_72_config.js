@@ -1,1 +1,1 @@
-var mnemonic = "alter pioneer select mule oxygen match dance eagle simple strike rice portion";
+var mnemonic = "invite honey capable truth inquiry museum paper want undo hour gun cage";

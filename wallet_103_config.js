@@ -1,1 +1,1 @@
-var mnemonic = "plate grain tenant thrive spot air sniff dragon siren polar junk equip";
+var mnemonic = "suffer replace hundred celery weasel desert current cargo monkey shrimp crack slam";

@@ -1,1 +1,1 @@
-var mnemonic = "library essay raccoon present grass jar vacant earth boss fire aisle manual";
+var mnemonic = "work govern wet pencil priority then morning excite utility blue track unit";

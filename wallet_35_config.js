@@ -1,1 +1,1 @@
-var mnemonic = "solid arena guess toss where blue transfer adult sleep say ceiling oyster";
+var mnemonic = "urban icon salon excess artist catch novel cargo age catch grain cushion";

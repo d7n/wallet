@@ -1,1 +1,1 @@
-var mnemonic = "swear pool one term high planet awkward satoshi paddle south verb above";
+var mnemonic = "trophy quit spell basic rice waste marriage belt upper kit embrace plate";

@@ -1,1 +1,1 @@
-var mnemonic = "keen return hurdle orange cross category pencil pudding ostrich faith observe code";
+var mnemonic = "detail aware hour poet resemble ski human culture wall salute sister peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic borrow hip salad twice knee task cloud reason toss few electric";
+var mnemonic = "mother observe prosper axis secret leg flower forget crucial quote palace toss";

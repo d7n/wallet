@@ -1,1 +1,1 @@
-var mnemonic = "bird tent cloud defy space pink ranch lawsuit camera cherry ski garlic";
+var mnemonic = "wrestle fat other coach across circle frown asthma limb decide logic doctor";

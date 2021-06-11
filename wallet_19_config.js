@@ -1,1 +1,1 @@
-var mnemonic = "sponsor mad creek license business access key idea fresh waste own antique";
+var mnemonic = "parade float suffer before clean icon crisp spare pig planet forum legal";

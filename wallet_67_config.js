@@ -1,1 +1,1 @@
-var mnemonic = "wood festival organ sick design power curtain milk item remain amazing refuse";
+var mnemonic = "recycle govern debate blood category robust horn collect seed remember century creek";

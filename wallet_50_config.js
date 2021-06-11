@@ -1,1 +1,1 @@
-var mnemonic = "mouse cry brain list cherry party help wear profit salt tired hammer";
+var mnemonic = "oil enhance inhale include when hurt render vital chief cousin year awake";

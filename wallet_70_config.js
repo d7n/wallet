@@ -1,1 +1,1 @@
-var mnemonic = "seat carpet fold flash december toward avocado face rough assault morning brown";
+var mnemonic = "glove lumber clean rate square deposit spin catalog fade raccoon false amateur";
