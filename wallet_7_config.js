@@ -1,1 +1,1 @@
-var mnemonic = "dutch hundred sword nephew promote vibrant cause pride degree worry cry marriage";
+var mnemonic = "ball calm ask melody govern quality thrive cost enjoy black chicken option";

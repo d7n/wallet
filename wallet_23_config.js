@@ -1,1 +1,1 @@
-var mnemonic = "over glue nest wool denial boss tree cinnamon forest chalk demise solar";
+var mnemonic = "panel say tattoo quote pluck slab carpet view bubble industry video nasty";

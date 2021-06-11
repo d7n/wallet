@@ -1,1 +1,1 @@
-var mnemonic = "artist napkin dawn toward gate final innocent tell sentence melody number zoo";
+var mnemonic = "cook enhance flee edge adapt armor reflect belt hobby icon busy route";

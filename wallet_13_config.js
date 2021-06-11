@@ -1,1 +1,1 @@
-var mnemonic = "shy never stove ice rather small clown bitter disorder token loud slide";
+var mnemonic = "portion great chase write now sadness topic marble room image payment jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "dry evidence slush orbit verb success ketchup bargain awesome dutch squeeze depart";
+var mnemonic = "taxi ecology approve meadow defense leaf web chaos north cruel price galaxy";

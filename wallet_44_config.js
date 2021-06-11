@@ -1,1 +1,1 @@
-var mnemonic = "whip assist phone appear forget winter impose lake miss beach comic panel";
+var mnemonic = "few banana mail volume famous story marble vault effort shrimp ancient bicycle";

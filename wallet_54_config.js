@@ -1,1 +1,1 @@
-var mnemonic = "work mean manage census rubber siege just baby unaware magnet roof season";
+var mnemonic = "speed group goat quarter license warm primary emerge category hen upper tennis";

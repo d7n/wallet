@@ -1,1 +1,1 @@
-var mnemonic = "orphan employ bunker meadow punch old afford mandate board grab drum argue";
+var mnemonic = "transfer depart vibrant squirrel amused arrange welcome danger exact anxiety rail skill";

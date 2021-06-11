@@ -1,1 +1,1 @@
-var mnemonic = "destroy wrist region dove alcohol toilet treat click essay volcano horn sign";
+var mnemonic = "they kick connect option slab detect consider strong basket cinnamon guard delay";

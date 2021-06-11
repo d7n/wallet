@@ -1,1 +1,1 @@
-var mnemonic = "kitten donor now law ticket infant blood weekend rotate shift sick exile";
+var mnemonic = "traffic faculty spirit patch slogan decline also recycle route clog chimney gorilla";

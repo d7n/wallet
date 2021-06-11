@@ -1,1 +1,1 @@
-var mnemonic = "you autumn rebel problem social bitter kite diet total try index buyer";
+var mnemonic = "uniform wet deal bulb enroll miss glare lecture oxygen unlock kiwi basic";

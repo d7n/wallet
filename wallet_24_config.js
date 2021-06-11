@@ -1,1 +1,1 @@
-var mnemonic = "better invest jealous turkey slice list excite ranch elevator drink stomach service";
+var mnemonic = "shield drift left dash critic stone bring target gospel spot emerge approve";

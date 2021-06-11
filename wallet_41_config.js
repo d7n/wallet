@@ -1,1 +1,1 @@
-var mnemonic = "churn future jealous honey random novel winter exit item fish tired truth";
+var mnemonic = "boy fever salon then subway cheap fault chair cute repeat double manage";

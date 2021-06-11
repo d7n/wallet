@@ -1,1 +1,1 @@
-var mnemonic = "miracle salmon toddler airport giant add ketchup express fitness ring pyramid mesh";
+var mnemonic = "pigeon border about aunt offer slight primary gallery film retire salmon parrot";

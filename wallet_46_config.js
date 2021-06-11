@@ -1,1 +1,1 @@
-var mnemonic = "census rough toddler affair alien night idle dice main famous velvet patch";
+var mnemonic = "subject final nice foster gain flock exact hello knife foil night sword";

@@ -1,1 +1,1 @@
-var mnemonic = "expire dilemma kitchen blast isolate ginger around skate gorilla nation flush tattoo";
+var mnemonic = "sock divorce trumpet plug female wheat borrow vibrant bracket theme satisfy paddle";

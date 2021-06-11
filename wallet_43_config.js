@@ -1,1 +1,1 @@
-var mnemonic = "skirt muscle diagram animal scout supply spice pupil amazing skate margin jacket";
+var mnemonic = "hub alcohol adjust liquid analyst famous cave trust crawl cushion glad acid";

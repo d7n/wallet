@@ -1,1 +1,1 @@
-var mnemonic = "giggle oxygen ritual raven business human foot remove delay similar nuclear consider";
+var mnemonic = "spell coach sock clog reason laptop tide eye copy siege enjoy pyramid";

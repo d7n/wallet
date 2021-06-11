@@ -1,1 +1,1 @@
-var mnemonic = "nature school sea flower veteran cup seven recall document clinic artefact defense";
+var mnemonic = "flag law say urban hurry gap lyrics discover bird squirrel degree wet";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle magic ritual under luxury grab thought payment pause dismiss destroy fly";
+var mnemonic = "panel worry certain patient consider speed detail sad unknown grunt stumble tilt";

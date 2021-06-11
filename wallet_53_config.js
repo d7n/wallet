@@ -1,1 +1,1 @@
-var mnemonic = "demise elevator indicate true ability search cause toward real power tiny shrimp";
+var mnemonic = "random upgrade report glance fish actor frost warrior trash kiss cruel random";

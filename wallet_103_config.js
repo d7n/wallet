@@ -1,1 +1,1 @@
-var mnemonic = "fame broom relief trophy keep copy crouch lyrics please guard gloom pluck";
+var mnemonic = "announce raw network glare table uncover bus certain timber baby tank soccer";

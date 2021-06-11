@@ -1,1 +1,1 @@
-var mnemonic = "exchange actor orange boy mountain abandon intact angry pencil cable same save";
+var mnemonic = "guilt wall since random same sample decorate slow inform gauge swift perfect";

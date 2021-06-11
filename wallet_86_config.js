@@ -1,1 +1,1 @@
-var mnemonic = "sign twice thing gloom rich chair obey cactus uncle hour later green";
+var mnemonic = "near twist lab anger rigid seed pattern attract text wife little cook";

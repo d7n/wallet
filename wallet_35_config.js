@@ -1,1 +1,1 @@
-var mnemonic = "bubble stone feed slam wild acquire canoe raise tobacco eternal rail siege";
+var mnemonic = "strategy demise spy title item lemon deputy front correct pride once harsh";

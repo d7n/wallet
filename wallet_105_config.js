@@ -1,1 +1,1 @@
-var mnemonic = "dove sword habit suggest tide plug fatal display just master brave token";
+var mnemonic = "donate path dance involve bulb olympic theme sketch viable kick refuse ability";

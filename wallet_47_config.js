@@ -1,1 +1,1 @@
-var mnemonic = "once pledge ribbon acoustic profit mixed broccoli plug perfect menu popular fade";
+var mnemonic = "myself apart witness afraid cash awkward video pulp present scrub ensure found";

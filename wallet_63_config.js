@@ -1,1 +1,1 @@
-var mnemonic = "rigid canvas culture hen quarter entry team film hub similar harvest brush";
+var mnemonic = "defense embody assault napkin onion scrub dad canal tattoo kick climb rose";

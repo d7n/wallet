@@ -1,1 +1,1 @@
-var mnemonic = "jungle unveil very forget frozen census clean film gorilla cruel skirt kitten";
+var mnemonic = "glory idle globe crew speed any put novel token cry vacant gas";

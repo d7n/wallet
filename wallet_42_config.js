@@ -1,1 +1,1 @@
-var mnemonic = "grant naive basket october cricket excess appear sentence glimpse apple fatigue palace";
+var mnemonic = "bless zebra artist plunge tobacco sniff prepare people pluck half jewel option";

@@ -1,1 +1,1 @@
-var mnemonic = "chair lift today mind beach horror inspire tomorrow ticket happy spoil evolve";
+var mnemonic = "helmet winner away foot razor session figure duty boring scan frequent prevent";

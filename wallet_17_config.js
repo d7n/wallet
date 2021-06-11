@@ -1,1 +1,1 @@
-var mnemonic = "struggle harsh loyal nation soap glue happy brother comfort hole kite visa";
+var mnemonic = "sustain flash blind disagree safe pear human fury stick clean language skirt";

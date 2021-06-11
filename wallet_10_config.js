@@ -1,1 +1,1 @@
-var mnemonic = "ginger clap indoor smoke notice vivid valid napkin life diesel cage oven";
+var mnemonic = "prize legend dune exist lumber spread major romance stage husband olive abstract";

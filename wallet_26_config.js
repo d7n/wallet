@@ -1,1 +1,1 @@
-var mnemonic = "secret hurt entry steel base uphold priority bread know turn suit indoor";
+var mnemonic = "total argue lady forward high agent rule session panel gain divorce slender";

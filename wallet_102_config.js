@@ -1,1 +1,1 @@
-var mnemonic = "truth critic insect fiber search organ rally endorse burger avocado jaguar retire";
+var mnemonic = "unfold twist answer fatigue grit pencil fetch width infant smooth soap nerve";

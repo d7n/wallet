@@ -1,1 +1,1 @@
-var mnemonic = "champion family cloud wagon erosion unhappy rely capable ostrich insane easy bounce";
+var mnemonic = "spot cat expand thought tissue repair shaft actual endorse interest drip burger";

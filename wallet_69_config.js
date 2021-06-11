@@ -1,1 +1,1 @@
-var mnemonic = "negative online digital north glare chief brand bright vintage shallow reject morning";
+var mnemonic = "judge educate fade update hedgehog perfect slot mask sort supreme provide dry";

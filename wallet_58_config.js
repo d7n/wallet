@@ -1,1 +1,1 @@
-var mnemonic = "install trophy lizard execute torch flame property lens divide wrist already cover";
+var mnemonic = "flee banana series panda seek spend ice tomato fresh hole banana resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle that snake breeze mouse boat gain morning depart scale turkey check";
+var mnemonic = "smoke view arrange couple select cancel raise detail emerge artefact high leopard";

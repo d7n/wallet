@@ -1,1 +1,1 @@
-var mnemonic = "chimney galaxy close trade harvest beef spray idea moral guard lion huge";
+var mnemonic = "want approve drill govern prevent simple exclude present early sibling demand thrive";

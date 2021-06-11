@@ -1,1 +1,1 @@
-var mnemonic = "suit all clean goat senior glass session betray kingdom sudden donkey betray";
+var mnemonic = "skate whisper range defy laugh casino lonely opinion scan banana ill voyage";

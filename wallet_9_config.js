@@ -1,1 +1,1 @@
-var mnemonic = "lab industry glass educate allow riot make grant puzzle crack gown blush";
+var mnemonic = "pass safe web carbon syrup light derive cake gap solution inhale one";

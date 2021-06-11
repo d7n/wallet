@@ -1,1 +1,1 @@
-var mnemonic = "business spoon gauge obscure kit leisure forest problem anxiety believe include cost";
+var mnemonic = "upper group axis future style language fruit half jealous wait profit success";

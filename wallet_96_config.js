@@ -1,1 +1,1 @@
-var mnemonic = "pet wood rude elite agree select robust weasel stick balcony gallery spatial";
+var mnemonic = "wool base they august tribe board lucky opera cost patrol feature quarter";

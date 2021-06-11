@@ -1,1 +1,1 @@
-var mnemonic = "coral fossil sugar manual group half boat push athlete credit hat skill";
+var mnemonic = "enter crunch frame swap kitchen rocket clip midnight refuse satoshi rely chaos";

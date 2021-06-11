@@ -1,1 +1,1 @@
-var mnemonic = "tooth expire birth dizzy negative embrace lion where tenant volume desert state";
+var mnemonic = "squirrel age dignity segment ring equal canvas lesson prize cross crucial doll";

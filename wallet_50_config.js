@@ -1,1 +1,1 @@
-var mnemonic = "asthma grief carbon bike sunset run ship sea almost embrace drive orchard";
+var mnemonic = "drip exact hidden earth apart version around electric fatigue loop quiz refuse";

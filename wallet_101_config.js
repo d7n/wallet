@@ -1,1 +1,1 @@
-var mnemonic = "tumble nephew super decade lucky holiday success romance city asthma silent surround";
+var mnemonic = "join dizzy heart prize glare bid brown relief real army proof train";

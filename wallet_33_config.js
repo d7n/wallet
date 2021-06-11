@@ -1,1 +1,1 @@
-var mnemonic = "arch pole again group nice crumble fire lounge client school into access";
+var mnemonic = "cake post illness dance sample air maid large expire giraffe humble sleep";

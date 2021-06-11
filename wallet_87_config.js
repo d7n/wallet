@@ -1,1 +1,1 @@
-var mnemonic = "wood catch switch together cry cruise slogan impose case bottom harsh aisle";
+var mnemonic = "mass tennis album hybrid friend ten frost moon tenant nature vacant dry";

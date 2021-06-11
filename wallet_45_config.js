@@ -1,1 +1,1 @@
-var mnemonic = "stay venue dose food settle myth verify include second trigger punch hobby";
+var mnemonic = "point history minute you similar rocket tired wine tumble miracle audit common";

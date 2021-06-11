@@ -1,1 +1,1 @@
-var mnemonic = "isolate behind movie cloud obtain else travel film filter palm perfect knife";
+var mnemonic = "oblige real expire maple quantum face alcohol orchard canvas future ensure category";

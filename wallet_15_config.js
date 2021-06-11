@@ -1,1 +1,1 @@
-var mnemonic = "dragon soul tomorrow document mean derive common despair range grow refuse album";
+var mnemonic = "short language average arrange embody lion unit weird toddler vault maid member";

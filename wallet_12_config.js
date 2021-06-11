@@ -1,1 +1,1 @@
-var mnemonic = "you emotion link dragon amateur tunnel more orbit depart melt cycle daring";
+var mnemonic = "creek ill record match what guitar fault arrive card panda price sight";

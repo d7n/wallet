@@ -1,1 +1,1 @@
-var mnemonic = "latin pink hamster lunar oak basket cargo fade pupil proof dutch spell";
+var mnemonic = "acquire grab illness inject net year crunch champion sponsor torch sunset uphold";

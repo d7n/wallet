@@ -1,1 +1,1 @@
-var mnemonic = "guitar wisdom mutual daughter sphere jungle black various actress enemy casino abstract";
+var mnemonic = "lazy mix planet announce badge spoil unable midnight blast old diary tag";

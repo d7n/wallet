@@ -1,1 +1,1 @@
-var mnemonic = "sleep coach sport real reward where daring pear large crisp bottom universe";
+var mnemonic = "flame file biology plug hammer napkin toss casual helmet around enrich body";

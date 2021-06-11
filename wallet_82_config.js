@@ -1,1 +1,1 @@
-var mnemonic = "boring album grocery element gentle series angry aware voyage chronic lock arch";
+var mnemonic = "lava among couch income avocado else seed service this inflict lecture trade";

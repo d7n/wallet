@@ -1,1 +1,1 @@
-var mnemonic = "power purse pizza climb uphold extend essence boost garden friend prevent away";
+var mnemonic = "tortoise young tourist flush couch fade wire where talk siege twin uphold";

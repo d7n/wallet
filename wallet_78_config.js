@@ -1,1 +1,1 @@
-var mnemonic = "wagon fashion someone friend army ready drive bulk inject scale divide trick";
+var mnemonic = "thumb approve wrong notable art april remove bargain trim mirror pear proud";

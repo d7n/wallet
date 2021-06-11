@@ -1,1 +1,1 @@
-var mnemonic = "viable half topic upset wheel gasp luxury hospital round retreat abandon despair";
+var mnemonic = "barrel today popular surface kitten regular cream loan decade devote argue envelope";

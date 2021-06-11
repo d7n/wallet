@@ -1,1 +1,1 @@
-var mnemonic = "garden canal profit quantum maze cup tag already include nation boring sure";
+var mnemonic = "early giraffe gap vanish address acoustic check thought damage dwarf retire play";

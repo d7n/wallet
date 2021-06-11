@@ -1,1 +1,1 @@
-var mnemonic = "doll lesson excuse current cliff axis shallow fat next combine seed october";
+var mnemonic = "brush devote clump icon border mechanic front purchase since budget three minimum";

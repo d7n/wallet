@@ -1,1 +1,1 @@
-var mnemonic = "relief muscle scout online bind fog ankle nut illegal bridge fold pumpkin";
+var mnemonic = "museum spell father poverty stereo require topic hair word stumble happy wear";

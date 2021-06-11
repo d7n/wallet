@@ -1,1 +1,1 @@
-var mnemonic = "into record milk feature blade struggle math decade accident isolate cousin success";
+var mnemonic = "draw master shy evolve monster cousin truck worth train obtain rose swear";

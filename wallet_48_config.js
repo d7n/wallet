@@ -1,1 +1,1 @@
-var mnemonic = "tiger sister between effort suggest lesson index artist march crater diagram reform";
+var mnemonic = "mule pause they ghost bus garlic despair enroll public ensure sorry insect";

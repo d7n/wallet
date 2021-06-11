@@ -1,1 +1,1 @@
-var mnemonic = "hurt flavor lyrics amazing spring verb glimpse blast water quarter hidden arctic";
+var mnemonic = "trend survey aim pitch admit differ circle monkey mammal tool uphold vocal";

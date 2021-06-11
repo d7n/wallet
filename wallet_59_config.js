@@ -1,1 +1,1 @@
-var mnemonic = "curious sniff loyal warrior joke visit siren grit same shallow any nuclear";
+var mnemonic = "antenna close attitude faint blossom junior broken change release bounce repeat viable";

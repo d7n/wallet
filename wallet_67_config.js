@@ -1,1 +1,1 @@
-var mnemonic = "ill fitness material loud dash visual powder satoshi nature curtain zero emotion";
+var mnemonic = "grass recycle desk diesel extend warrior mystery pizza cash nominee pact thought";

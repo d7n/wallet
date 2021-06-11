@@ -1,1 +1,1 @@
-var mnemonic = "gym loyal match boat intact few mesh machine check shock razor nerve";
+var mnemonic = "unveil kitchen crazy wisdom salad major reduce debate urge excuse enforce eager";

@@ -1,1 +1,1 @@
-var mnemonic = "reform scale salmon grant sleep proof pattern consider buyer express stuff slide";
+var mnemonic = "sheriff possible enforce laugh weather resource eight obtain junior cloth crush neglect";

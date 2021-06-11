@@ -1,1 +1,1 @@
-var mnemonic = "special tomato super ball maximum visual dance used practice release veteran tenant";
+var mnemonic = "patrol property hair attitude eight develop traffic lounge predict long become ceiling";

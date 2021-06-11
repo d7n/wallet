@@ -1,1 +1,1 @@
-var mnemonic = "acquire amount oppose cancel baby east believe olive joke tell clip exhaust";
+var mnemonic = "sunny divide trumpet silly portion dutch zone sunset leave frame sand tuna";

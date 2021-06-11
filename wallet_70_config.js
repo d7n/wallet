@@ -1,1 +1,1 @@
-var mnemonic = "excite behave consider card where monkey delay tackle bike cherry spawn tiger";
+var mnemonic = "quote basket genius bright fish cluster ranch indicate grain bulk close dentist";

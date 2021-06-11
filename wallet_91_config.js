@@ -1,1 +1,1 @@
-var mnemonic = "lumber capable spell bubble kid blur meadow climb lyrics song canal soldier";
+var mnemonic = "island lift burger wrist night sample large crazy alley tree renew primary";

@@ -1,1 +1,1 @@
-var mnemonic = "miss good penalty common exact like mind tenant bleak copy nasty pet";
+var mnemonic = "must ability capable shaft need sail stone crunch cinnamon raven flat swift";

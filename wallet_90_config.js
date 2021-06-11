@@ -1,1 +1,1 @@
-var mnemonic = "chalk wine wink area match guide olive change exhaust spawn assist filter";
+var mnemonic = "balcony name cart sudden pear suggest ketchup fine citizen phrase clock toss";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion bone flush evil travel sausage ozone belt breeze boost indicate grab";
+var mnemonic = "work hamster abuse air crime mutual draft claim gown party model lecture";

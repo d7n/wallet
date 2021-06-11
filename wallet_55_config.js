@@ -1,1 +1,1 @@
-var mnemonic = "island forum draft fever lumber produce wait because purchase kingdom tennis oblige";
+var mnemonic = "length announce census lesson army snake merry carry else hole sign inmate";

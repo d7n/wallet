@@ -1,1 +1,1 @@
-var mnemonic = "festival program inform hand drift sound wing inhale text clever knock coast";
+var mnemonic = "fetch trap radar maid urban physical eternal into toward artist wear silk";

@@ -1,1 +1,1 @@
-var mnemonic = "rural link obtain index saddle chimney fat report sail palace save sentence";
+var mnemonic = "purchase remove error under lunar delay unveil egg net unhappy when song";

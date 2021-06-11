@@ -1,1 +1,1 @@
-var mnemonic = "spatial flag steel powder warfare embrace chapter alcohol legal horn direct ramp";
+var mnemonic = "brand tiny message deposit license hire ski hobby unfair clay slight armed";

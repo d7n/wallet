@@ -1,1 +1,1 @@
-var mnemonic = "visit capable bounce clap myth hurt garbage era tourist flash dirt culture";
+var mnemonic = "cause badge betray health novel flush manual orphan reflect wrestle mansion summer";

@@ -1,1 +1,1 @@
-var mnemonic = "prosper patrol hat word average version paper dream crime shell leg cereal";
+var mnemonic = "math lazy install action side broom ripple chunk wet text nerve skull";

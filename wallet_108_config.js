@@ -1,1 +1,1 @@
-var mnemonic = "message ticket review result mountain piano ready change priority mind satisfy mobile";
+var mnemonic = "poem into scatter unfair giggle eight case during awful supreme route lock";

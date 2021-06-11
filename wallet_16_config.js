@@ -1,1 +1,1 @@
-var mnemonic = "thank picnic inhale aerobic below flame update fabric average moon shrimp athlete";
+var mnemonic = "indoor shadow jealous question become ecology clarify child general guard fit weasel";

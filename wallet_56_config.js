@@ -1,1 +1,1 @@
-var mnemonic = "luxury mountain vessel actual asthma awesome accident place confirm blade scatter advance";
+var mnemonic = "marble stool fetch term topple deer valley stadium junior save toss cigar";

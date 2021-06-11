@@ -1,1 +1,1 @@
-var mnemonic = "exhaust bleak test decide stick ship broken weird various floor price moral";
+var mnemonic = "space issue grant fitness blossom excess conduct shrug slow convince slim apple";
