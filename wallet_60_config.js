@@ -1,1 +1,1 @@
-var mnemonic = "push solution broccoli excite key real ketchup online inside broken retire hobby";
+var mnemonic = "frame manual anxiety slogan spawn robot black stereo cattle tooth junior about";

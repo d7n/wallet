@@ -1,1 +1,1 @@
-var mnemonic = "faith opera shed response plastic crazy minimum friend provide brother snow film";
+var mnemonic = "dwarf later eight baby trick parent envelope crack chapter hold hub mammal";

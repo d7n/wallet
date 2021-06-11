@@ -1,1 +1,1 @@
-var mnemonic = "seed produce win enhance number clay secret pass second chair medal wood";
+var mnemonic = "impose fan wasp position crowd motor alcohol gadget chef cheap pill caution";

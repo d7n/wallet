@@ -1,1 +1,1 @@
-var mnemonic = "curtain focus nephew fitness tenant later artwork isolate solution certain panel person";
+var mnemonic = "satisfy expect inform include order awkward frown review curious shiver bring sword";

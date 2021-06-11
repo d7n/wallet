@@ -1,1 +1,1 @@
-var mnemonic = "length mansion unaware letter expire door plug flash swarm acoustic advice inform";
+var mnemonic = "strategy champion decade year rescue dress text soda rescue frozen hammer candy";

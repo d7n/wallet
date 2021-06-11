@@ -1,1 +1,1 @@
-var mnemonic = "use language festival level actor siren frame panel behave medal shallow pupil";
+var mnemonic = "travel tuition enact enact avoid best cat pact smile entry hurdle wish";

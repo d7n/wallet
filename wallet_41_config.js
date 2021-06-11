@@ -1,1 +1,1 @@
-var mnemonic = "blade swear margin october unaware april march hammer garage hungry history element";
+var mnemonic = "above balance believe ripple army danger item category require ghost tortoise street";

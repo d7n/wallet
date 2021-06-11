@@ -1,1 +1,1 @@
-var mnemonic = "animal final kit confirm scan civil over renew cactus wrong range use";
+var mnemonic = "gadget twice imitate assault dynamic describe ripple together clip engine powder initial";

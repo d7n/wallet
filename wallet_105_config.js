@@ -1,1 +1,1 @@
-var mnemonic = "dilemma enact guide gauge fragile swim crash verify guilt license close vacant";
+var mnemonic = "pizza ankle radar burger dance family find olympic ahead nice there accident";

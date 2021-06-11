@@ -1,1 +1,1 @@
-var mnemonic = "rather van arrive dismiss gospel interest smart great sphere rare general only";
+var mnemonic = "lumber million captain guilt aim shallow start brand crash misery match file";

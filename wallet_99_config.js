@@ -1,1 +1,1 @@
-var mnemonic = "unusual van lend ecology model plate island news year ready umbrella sponsor";
+var mnemonic = "wash chimney duck space negative alarm luxury audit word kick increase pulp";

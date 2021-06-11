@@ -1,1 +1,1 @@
-var mnemonic = "mule decrease enlist define era husband hood myself wool thunder pretty enhance";
+var mnemonic = "nut couch panther destroy series hurt eye first imitate cereal protect baby";

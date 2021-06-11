@@ -1,1 +1,1 @@
-var mnemonic = "sell step film trophy secret cloud team speak wood dress eagle track";
+var mnemonic = "large copy fetch advance silver health twist biology senior ozone step view";

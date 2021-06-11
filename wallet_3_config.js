@@ -1,1 +1,1 @@
-var mnemonic = "test tribe ceiling girl science inflict hold trophy alone citizen stand move";
+var mnemonic = "father surprise horse swap table either obey rhythm job draft fantasy lake";

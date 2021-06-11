@@ -1,1 +1,1 @@
-var mnemonic = "sight before visa try detect defense sheriff slogan advance frozen rude swim";
+var mnemonic = "fall general knee border kitten wire wreck render scout game dad nasty";

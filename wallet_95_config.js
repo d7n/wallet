@@ -1,1 +1,1 @@
-var mnemonic = "noble raise ceiling flip hire dream tray degree convince what excuse very";
+var mnemonic = "father case wish blur bar mirror vast unique illness network cigar differ";

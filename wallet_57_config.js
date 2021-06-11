@@ -1,1 +1,1 @@
-var mnemonic = "lunch busy liar merry acoustic hat grab bird fantasy prepare energy slim";
+var mnemonic = "spatial veteran embark topple version situate limb pen square expose vibrant grain";

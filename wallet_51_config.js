@@ -1,1 +1,1 @@
-var mnemonic = "dwarf space believe cattle disagree page lemon couch sound buyer cotton neither";
+var mnemonic = "plunge enroll awful rib garment rib tape bunker choose venue wife reflect";

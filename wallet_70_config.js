@@ -1,1 +1,1 @@
-var mnemonic = "agree choice merge art time visit merry rack supreme service cattle split";
+var mnemonic = "mask play vanish purse latin maple alert feel roof easily bright inject";

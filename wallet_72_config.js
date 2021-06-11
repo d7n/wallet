@@ -1,1 +1,1 @@
-var mnemonic = "empower buyer easy muffin use exotic south photo hub swift blouse giggle";
+var mnemonic = "wire balance clip inquiry anxiety list ignore proud hollow wheat flush tribe";

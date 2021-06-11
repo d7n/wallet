@@ -1,1 +1,1 @@
-var mnemonic = "riot young hurt lift clog sting chef hen runway keep session aspect";
+var mnemonic = "teach know couch horse radio only real parrot lizard alley blush filter";

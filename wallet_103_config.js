@@ -1,1 +1,1 @@
-var mnemonic = "quick old misery virus long plunge stumble concert enroll net seven pink";
+var mnemonic = "office rough cereal profit turtle cable foot immune ridge tool burger legend";

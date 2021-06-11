@@ -1,1 +1,1 @@
-var mnemonic = "video bone angry industry throw mixed egg solid minor little supply index";
+var mnemonic = "script wood program average fossil blush speak distance gain urge fiction tell";

@@ -1,1 +1,1 @@
-var mnemonic = "captain lab wave round volume soon bitter genre draft minimum beef chicken";
+var mnemonic = "banana laptop bless leader gun bleak broom flower concert connect still visit";

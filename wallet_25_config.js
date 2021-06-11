@@ -1,1 +1,1 @@
-var mnemonic = "regular vintage liberty margin someone pair notable nest icon feature demand improve";
+var mnemonic = "slush fantasy couch flame phone arm humor carry clever desk fix improve";

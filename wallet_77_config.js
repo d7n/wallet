@@ -1,1 +1,1 @@
-var mnemonic = "swamp mean ignore cricket royal solid measure modify turkey answer protect tower";
+var mnemonic = "visual asthma pitch clap journey unknown clerk scene cry edge tragic unlock";

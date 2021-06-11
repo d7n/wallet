@@ -1,1 +1,1 @@
-var mnemonic = "now fantasy reform minor piece grace achieve planet recycle grocery valid inside";
+var mnemonic = "motor drastic duty test hamster project pole truck surge wasp expand ask";

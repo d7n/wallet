@@ -1,1 +1,1 @@
-var mnemonic = "tip flash liquid key shy guard luxury sad usage zero umbrella devote";
+var mnemonic = "open vacant truly advice grace rapid artist comic lottery soldier lobster motor";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe caution fix tunnel emerge treat explain loan regular wrap buffalo crucial";
+var mnemonic = "lock dress spatial warrior brass anxiety net sport mixed wrong junk grace";

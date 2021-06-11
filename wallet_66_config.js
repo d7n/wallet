@@ -1,1 +1,1 @@
-var mnemonic = "fury happy rich innocent blouse armor ship slot lake critic wish tunnel";
+var mnemonic = "cram wrap draft believe turtle hold video grocery bundle abandon floor feel";

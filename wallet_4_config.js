@@ -1,1 +1,1 @@
-var mnemonic = "coach diary tent doctor today laugh style afraid wasp window oval often";
+var mnemonic = "random pool injury stone gate payment march plastic match dice plastic song";

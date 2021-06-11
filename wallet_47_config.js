@@ -1,1 +1,1 @@
-var mnemonic = "autumn human volcano satisfy exhibit voyage orient vendor disease sign forward disagree";
+var mnemonic = "stage collect only marriage under despair comic school citizen dream intact success";

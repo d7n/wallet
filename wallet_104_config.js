@@ -1,1 +1,1 @@
-var mnemonic = "sibling there frozen cool world laundry salute card license evoke lift field";
+var mnemonic = "thunder piece special similar tuition steel fetch engage donor exile mind task";

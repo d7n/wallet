@@ -1,1 +1,1 @@
-var mnemonic = "giggle run wonder differ climb evil basic waste muscle wise around lift";
+var mnemonic = "govern invest obscure inject gift blood breeze pet oxygen fragile during sort";

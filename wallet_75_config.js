@@ -1,1 +1,1 @@
-var mnemonic = "bicycle case regret inquiry bomb gym silver pipe primary universe attitude cart";
+var mnemonic = "monitor tilt rival cross snake virtual wrist furnace inhale increase praise special";

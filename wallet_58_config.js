@@ -1,1 +1,1 @@
-var mnemonic = "chef comfort chapter render apart turn erupt tumble adult dance when couch";
+var mnemonic = "degree jewel actress moment miss term eye width input peanut they table";

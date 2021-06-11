@@ -1,1 +1,1 @@
-var mnemonic = "mail garbage typical hood still skirt hamster grant old winner bamboo flat";
+var mnemonic = "remove very elder list truth apple arm enlist metal increase virtual evolve";

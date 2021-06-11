@@ -1,1 +1,1 @@
-var mnemonic = "duck gauge loud earn twin notable fabric board loan defy margin educate";
+var mnemonic = "oval develop quick view hire scrap process latin frame urban bar simple";

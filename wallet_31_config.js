@@ -1,1 +1,1 @@
-var mnemonic = "month horn shrimp very first false render fatigue shell mask door mixture";
+var mnemonic = "exit ecology boost wild symptom list gate wreck camp nut embody master";

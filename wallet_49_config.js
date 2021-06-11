@@ -1,1 +1,1 @@
-var mnemonic = "treat loyal surprise quit harsh poem original describe elevator bronze awful broccoli";
+var mnemonic = "spatial you clinic final clump half idle bind knee enlist output throw";

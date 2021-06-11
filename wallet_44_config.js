@@ -1,1 +1,1 @@
-var mnemonic = "pioneer slender future hand spell vast wealth mail wedding steel soft twice";
+var mnemonic = "that window dad saddle bottom force sleep provide cactus monitor aspect swap";

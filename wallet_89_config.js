@@ -1,1 +1,1 @@
-var mnemonic = "armed tail talent bright vault nuclear portion lobster evolve length steel arrive";
+var mnemonic = "mention sail bitter garbage ripple vacuum movie knock sword trick turtle immense";

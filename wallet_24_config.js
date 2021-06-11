@@ -1,1 +1,1 @@
-var mnemonic = "toast vivid alarm stem field capital fluid bag cry upper tuna resemble";
+var mnemonic = "detail execute dilemma color snake palace brand spray scrap dinosaur into nest";

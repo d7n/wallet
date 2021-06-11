@@ -1,1 +1,1 @@
-var mnemonic = "picnic heavy citizen enact tone canoe metal deer fade panda acquire machine";
+var mnemonic = "another trophy end wood toddler venture point pause virus twist side song";

@@ -1,1 +1,1 @@
-var mnemonic = "ski infant rail hub sorry credit sauce matter inquiry solar weapon wool";
+var mnemonic = "rule able gap say fossil virus dune manual deputy pretty disease emotion";

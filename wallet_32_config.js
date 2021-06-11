@@ -1,1 +1,1 @@
-var mnemonic = "guide core debris nut thunder deer predict fun flame cover first box";
+var mnemonic = "problem copper coconut small divorce wine jaguar nature dinner hen museum plastic";

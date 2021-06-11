@@ -1,1 +1,1 @@
-var mnemonic = "web eyebrow feel lumber spike dynamic uphold reveal south lion cliff rule";
+var mnemonic = "hobby guilt empty sniff judge include meat rebel retreat brief adjust volume";

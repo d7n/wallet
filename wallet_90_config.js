@@ -1,1 +1,1 @@
-var mnemonic = "evolve dove toilet when off fresh roof typical rival blossom lizard beauty";
+var mnemonic = "grace apart edge lunar shoot sure already recall light race current soup";

@@ -1,1 +1,1 @@
-var mnemonic = "discover shoulder hour salute nominee dust remain sun aerobic sand army fury";
+var mnemonic = "reform vast space tag menu define fringe grant round resemble sustain timber";

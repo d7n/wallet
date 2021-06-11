@@ -1,1 +1,1 @@
-var mnemonic = "scissors report boy fitness blade oval kit any craft admit snap shed";
+var mnemonic = "oppose hybrid before future eyebrow where leader lazy drum prevent grain trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "believe about meat exhibit write guard mistake chat source add arrange twice";
+var mnemonic = "episode anger leg barrel that noodle trouble thing sting suggest what demand";

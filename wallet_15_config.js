@@ -1,1 +1,1 @@
-var mnemonic = "fog author sudden idea mango net film churn run mind layer crowd";
+var mnemonic = "south science wool enforce awful deposit enroll voice toilet antique wide proud";

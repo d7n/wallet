@@ -1,1 +1,1 @@
-var mnemonic = "say hazard dawn pause dial spy thrive tomorrow cat divide female praise";
+var mnemonic = "myself tenant try march ivory afford vault occur order surprise same grow";

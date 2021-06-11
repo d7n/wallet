@@ -1,1 +1,1 @@
-var mnemonic = "kite team cotton excess that ride you boost grace surge bonus emotion";
+var mnemonic = "subway budget apart banner come diesel cancel shift average flame melody voice";

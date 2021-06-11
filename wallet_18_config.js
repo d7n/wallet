@@ -1,1 +1,1 @@
-var mnemonic = "rare tuition slam token explain funny catalog useless dilemma hurt custom case";
+var mnemonic = "sweet edge clay host capable strategy popular black arena primary shallow humor";

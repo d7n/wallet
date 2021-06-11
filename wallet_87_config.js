@@ -1,1 +1,1 @@
-var mnemonic = "spirit two gauge extra tone parade test perfect domain leg ball inflict";
+var mnemonic = "danger scare oyster omit churn mesh minor glass detail latin discover rotate";

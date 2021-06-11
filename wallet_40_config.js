@@ -1,1 +1,1 @@
-var mnemonic = "scissors edge boss buddy pass pelican argue apple stuff card please fit";
+var mnemonic = "immense little motor husband accident attitude library moment impose coach edge luxury";

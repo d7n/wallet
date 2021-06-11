@@ -1,1 +1,1 @@
-var mnemonic = "drum innocent diesel trial lens settle next multiply iron robot exist favorite";
+var mnemonic = "swarm tonight symbol pigeon traffic shrimp advice spare conduct laugh kite wet";

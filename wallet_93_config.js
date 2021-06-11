@@ -1,1 +1,1 @@
-var mnemonic = "brand enjoy hidden faith foil innocent rival dune thrive stove expire unusual";
+var mnemonic = "useless gain drop range father recall earth perfect soda spice cram state";

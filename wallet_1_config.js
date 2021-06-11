@@ -1,1 +1,1 @@
-var mnemonic = "winner castle oak crane forest lottery vehicle museum purpose ranch derive swing";
+var mnemonic = "shallow section inmate usage aunt spare ghost witness curve sunny barely sheriff";

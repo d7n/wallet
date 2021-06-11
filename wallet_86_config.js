@@ -1,1 +1,1 @@
-var mnemonic = "resemble ginger need sponsor innocent suspect lunch balance work rate improve disagree";
+var mnemonic = "empty caution child attend movie unknown drama box blade wing later control";

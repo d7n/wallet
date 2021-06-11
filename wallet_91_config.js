@@ -1,1 +1,1 @@
-var mnemonic = "drama include arrest pistol library kitten zoo jump theory craft fiction galaxy";
+var mnemonic = "rough crush ahead immune scrub rubber winter present fiber office month catch";

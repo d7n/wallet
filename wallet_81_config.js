@@ -1,1 +1,1 @@
-var mnemonic = "safe bachelor hat begin crater push keep vibrant vast push admit satisfy";
+var mnemonic = "manual change van bicycle deliver shove drill oak teach talent orange stage";

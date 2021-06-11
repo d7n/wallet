@@ -1,1 +1,1 @@
-var mnemonic = "human undo display mutual abandon secret margin sell grow spoon swap seminar";
+var mnemonic = "flavor fancy visa feed nothing egg please bottom hurry kit ketchup harvest";

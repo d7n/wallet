@@ -1,1 +1,1 @@
-var mnemonic = "off type huge despair champion present diamond replace flavor prize mom balcony";
+var mnemonic = "funny thought attract crumble source pride engine silent runway purpose invest long";

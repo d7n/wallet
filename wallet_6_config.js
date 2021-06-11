@@ -1,1 +1,1 @@
-var mnemonic = "source erupt weekend around knee pluck swear empower faith cereal license admit";
+var mnemonic = "suggest actor squirrel loyal live strike vast illness melody turn insane dizzy";

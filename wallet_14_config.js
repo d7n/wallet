@@ -1,1 +1,1 @@
-var mnemonic = "suffer wire render double obscure liar fossil limit dumb wife decide tide";
+var mnemonic = "coral cousin spin enhance tree fringe flip travel half loan gasp hobby";

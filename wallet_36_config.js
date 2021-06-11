@@ -1,1 +1,1 @@
-var mnemonic = "slow flight together trash amateur canoe taste pizza reflect slender one traffic";
+var mnemonic = "ladder phrase birth any guitar female kid shove else mention slow inmate";

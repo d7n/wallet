@@ -1,1 +1,1 @@
-var mnemonic = "pond jar echo tree stand treat bullet jelly net ordinary hire foot";
+var mnemonic = "section wood cream rate describe curtain auction truck common hair trim cable";

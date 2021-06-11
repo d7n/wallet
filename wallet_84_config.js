@@ -1,1 +1,1 @@
-var mnemonic = "belt final ski tunnel chuckle pencil museum glare ladder demise funny deputy";
+var mnemonic = "december author jar circle initial trip phrase hotel deposit valve buffalo sleep";

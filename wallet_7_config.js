@@ -1,1 +1,1 @@
-var mnemonic = "remind curtain risk agree junk embody bring picture another swap radio explain";
+var mnemonic = "marble security east divert resource mad explain fatal rubber exit palace message";

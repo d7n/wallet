@@ -1,1 +1,1 @@
-var mnemonic = "gadget birth bind assist author marble equal arch speak like beauty nasty";
+var mnemonic = "save drip bullet village service ethics favorite wide mask scorpion rose open";

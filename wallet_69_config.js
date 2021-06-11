@@ -1,1 +1,1 @@
-var mnemonic = "process manual pet enforce team because acoustic gloom hobby process injury toddler";
+var mnemonic = "pistol stay popular match route keen advance gesture ridge garment segment eye";

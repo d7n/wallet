@@ -1,1 +1,1 @@
-var mnemonic = "fault orient runway apart alley vital panda report brick table confirm join";
+var mnemonic = "cousin any globe sick swear attract night case drive guide fiscal flame";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon august sorry blouse section gaze mercy repair pipe cigar blast border";
+var mnemonic = "behind series promote spot trumpet force nature elegant upset crater voice spray";

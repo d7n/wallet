@@ -1,1 +1,1 @@
-var mnemonic = "science scorpion give warm hurry barrel neutral clever verify hair link pave";
+var mnemonic = "entry water able shrug rotate start decrease survey slight basic blade differ";

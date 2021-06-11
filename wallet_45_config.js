@@ -1,1 +1,1 @@
-var mnemonic = "urge valve when melody rubber fashion water spray spoon excuse hold claim";
+var mnemonic = "matrix banner indoor stomach bag oven tuna cable amateur say protect under";

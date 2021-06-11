@@ -1,1 +1,1 @@
-var mnemonic = "stairs medal love discover render crane sleep pattern laundry woman page music";
+var mnemonic = "tooth glory clinic volume account drill fit various one tool rebuild rhythm";

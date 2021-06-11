@@ -1,1 +1,1 @@
-var mnemonic = "provide width repeat pink seek deny chat expire thing creek gospel cliff";
+var mnemonic = "volcano current style mule use excite essence stadium teach fiber enemy opera";

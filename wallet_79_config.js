@@ -1,1 +1,1 @@
-var mnemonic = "frog mother weird call weapon border scrap prefer outer glory evoke action";
+var mnemonic = "carbon decorate social buffalo coyote about unique move anger auction hybrid silent";

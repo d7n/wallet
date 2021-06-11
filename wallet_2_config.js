@@ -1,1 +1,1 @@
-var mnemonic = "praise nothing state talent gorilla awkward blue umbrella girl ladder charge quote";
+var mnemonic = "marriage bright false tube nothing leisure drop become century pottery wage invite";

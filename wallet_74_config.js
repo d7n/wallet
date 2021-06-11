@@ -1,1 +1,1 @@
-var mnemonic = "broken camp miss swim avocado rapid habit appear miracle festival buzz bless";
+var mnemonic = "used hill flight fall diamond manual sick buzz welcome smile diet page";

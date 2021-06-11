@@ -1,1 +1,1 @@
-var mnemonic = "emerge bacon suffer ketchup own spin outside swim right similar enact drive";
+var mnemonic = "split reunion nuclear grape mad zero goose canal any zone spoon earth";

@@ -1,1 +1,1 @@
-var mnemonic = "series bitter later push globe tilt another outer social dad test increase";
+var mnemonic = "casino move story sheriff camera find police team action detail bamboo educate";

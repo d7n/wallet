@@ -1,1 +1,1 @@
-var mnemonic = "midnight curious copy pond rally type match second write slide riot shine";
+var mnemonic = "skill begin legal receive squeeze idle fence reduce orient nasty lab current";

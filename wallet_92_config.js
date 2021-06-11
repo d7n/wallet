@@ -1,1 +1,1 @@
-var mnemonic = "bright powder hill wink rent neither reunion later pupil fat quantum mountain";
+var mnemonic = "tomorrow village morning office tribe decrease soda total victory diet zero debris";

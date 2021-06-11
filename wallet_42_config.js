@@ -1,1 +1,1 @@
-var mnemonic = "armor east armed reform net stairs display grant devote boost universe fiction";
+var mnemonic = "capital sample rough auction valley trash police letter either chimney ecology property";

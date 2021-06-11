@@ -1,1 +1,1 @@
-var mnemonic = "certain milk humor asthma grace field dune already wrap naive castle powder";
+var mnemonic = "transfer future about friend confirm badge hamster beef hospital ready radar brief";

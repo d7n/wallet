@@ -1,1 +1,1 @@
-var mnemonic = "shoot album retreat cinnamon century ahead ethics spatial someone deliver bullet elite";
+var mnemonic = "invite student deer mixed easily circle silly nurse stamp trim captain dutch";

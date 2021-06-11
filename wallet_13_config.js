@@ -1,1 +1,1 @@
-var mnemonic = "judge erupt parade position arrive omit what green rib patch resist carbon";
+var mnemonic = "panel bright critic very such truth syrup weapon shine box seat travel";

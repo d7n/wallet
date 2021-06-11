@@ -1,1 +1,1 @@
-var mnemonic = "round number hamster wood sadness absurd around raw bamboo merry album genius";
+var mnemonic = "federal slogan kidney twenty produce digital student such observe coast wear novel";

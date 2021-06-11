@@ -1,1 +1,1 @@
-var mnemonic = "window lawn betray relief slim emerge cross merge refuse teach fashion arrest";
+var mnemonic = "please junior joke garment earn casino opinion brief often sustain decide job";

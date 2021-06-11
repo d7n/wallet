@@ -1,1 +1,1 @@
-var mnemonic = "gravity jazz piece east seven update desert balcony episode ice ripple jump";
+var mnemonic = "surge clarify unaware disorder accident key attend margin vapor salmon cousin obscure";

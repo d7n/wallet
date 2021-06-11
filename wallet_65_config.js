@@ -1,1 +1,1 @@
-var mnemonic = "fiber buzz hero tray analyst about bacon lady steak zero typical struggle";
+var mnemonic = "execute sort dumb cigar dignity address december bundle better gossip round person";

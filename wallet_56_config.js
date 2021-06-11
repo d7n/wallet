@@ -1,1 +1,1 @@
-var mnemonic = "trumpet yard marble endorse crunch salad design kick trash vocal canal truly";
+var mnemonic = "paddle absorb manage innocent river birth spy swift rotate joy possible tree";

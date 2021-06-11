@@ -1,1 +1,1 @@
-var mnemonic = "galaxy can also gravity hill deputy weapon become offer issue one fresh";
+var mnemonic = "endless random cricket ugly wheel expand merry robot inmate find virtual play";
