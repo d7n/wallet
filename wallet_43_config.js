@@ -1,1 +1,1 @@
-var mnemonic = "snack tornado stuff intact garbage sample aware dynamic dawn junior scatter weapon";
+var mnemonic = "avoid around suffer belt tower battle speak lava opinion pool unusual repeat";

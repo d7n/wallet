@@ -1,1 +1,1 @@
-var mnemonic = "under balance blast bundle praise envelope wish tiger other sentence devote myself";
+var mnemonic = "innocent spirit frame decrease rose logic reopen always bring chest actress rather";

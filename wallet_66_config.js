@@ -1,1 +1,1 @@
-var mnemonic = "frame parent journey essence scare neither bounce rescue leopard whisper crash trim";
+var mnemonic = "jelly aisle museum episode balance cricket hint orchard muscle slide suit demise";

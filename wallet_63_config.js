@@ -1,1 +1,1 @@
-var mnemonic = "glance silent truth move spice forget knife betray worry brave save pyramid";
+var mnemonic = "city firm math blade found permit insane normal banana dignity naive combine";

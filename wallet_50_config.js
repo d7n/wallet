@@ -1,1 +1,1 @@
-var mnemonic = "height slice clean slam magic file diamond little sweet segment also knock";
+var mnemonic = "attitude remember cable emotion taste point tree certain garlic devote drama legal";

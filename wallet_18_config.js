@@ -1,1 +1,1 @@
-var mnemonic = "mother ignore vapor enemy outer click pen bridge belt hobby film apart";
+var mnemonic = "unusual citizen easily stamp cheese invest bubble theory quit remind rain inform";

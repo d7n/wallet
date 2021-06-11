@@ -1,1 +1,1 @@
-var mnemonic = "ramp nice dynamic paper city speed false rocket differ either nominee awake";
+var mnemonic = "victory snow quantum vicious file cruel nurse couple mouse account loan today";

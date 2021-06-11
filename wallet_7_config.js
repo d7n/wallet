@@ -1,1 +1,1 @@
-var mnemonic = "lock normal nuclear tornado prepare floor tube hungry embark toast fever exchange";
+var mnemonic = "tail spatial poem soccer guard spell sniff organ lecture resource catch hour";

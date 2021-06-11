@@ -1,1 +1,1 @@
-var mnemonic = "cart liquid hybrid tomorrow goddess must pipe invite observe stable impulse clean";
+var mnemonic = "garage plunge pledge scrub police island slush artefact acoustic senior guard unfold";

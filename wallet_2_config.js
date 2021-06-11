@@ -1,1 +1,1 @@
-var mnemonic = "solar icon denial test pluck fantasy unknown talent shiver eye mango hollow";
+var mnemonic = "domain scrap bleak drop raise domain destroy fiscal they insect clutch subway";

@@ -1,1 +1,1 @@
-var mnemonic = "turn ivory fox taxi biology divorce document transfer angry muscle gospel raise";
+var mnemonic = "unknown lyrics execute jeans faith sting report chronic bulk ranch limit tell";

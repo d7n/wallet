@@ -1,1 +1,1 @@
-var mnemonic = "engine name share legend away lesson opera empty regular result clip viable";
+var mnemonic = "action safe thing orchard derive chuckle toe again memory hour camera reunion";

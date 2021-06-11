@@ -1,1 +1,1 @@
-var mnemonic = "fever argue tenant taste sister million page across stable wool inquiry describe";
+var mnemonic = "neglect coyote warfare culture balcony fence peanut physical tomato flush uniform fantasy";

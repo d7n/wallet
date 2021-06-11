@@ -1,1 +1,1 @@
-var mnemonic = "chest sunny escape index wrestle drop chapter portion office cliff action shoulder";
+var mnemonic = "arrest dice potato accuse feed convince tip era candy usage duck display";

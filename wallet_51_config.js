@@ -1,1 +1,1 @@
-var mnemonic = "cover never opinion plunge east convince tennis outdoor pledge rent jaguar unable";
+var mnemonic = "clutch next knock dream option wild boat female visit prepare seek cake";

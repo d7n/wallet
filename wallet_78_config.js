@@ -1,1 +1,1 @@
-var mnemonic = "easy elite urge venture pipe just artist divorce oval alcohol mask sock";
+var mnemonic = "rent tunnel mad faith raise render erupt excite air need earn dignity";

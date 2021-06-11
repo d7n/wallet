@@ -1,1 +1,1 @@
-var mnemonic = "cricket empower bitter steel swift oppose crush sorry timber pulp measure electric";
+var mnemonic = "fruit strategy siren warrior squeeze confirm win verb alley economy bird galaxy";

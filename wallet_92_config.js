@@ -1,1 +1,1 @@
-var mnemonic = "autumn tool stand ribbon woman luxury alpha suspect enact spy shed enforce";
+var mnemonic = "loan moment rubber garden legal egg snack chalk photo tattoo inform seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "this leave blouse canoe stadium million weasel frost upgrade erode shrug sure";
+var mnemonic = "bus cloth beach orange teach junk doctor drastic credit convince bonus they";

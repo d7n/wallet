@@ -1,1 +1,1 @@
-var mnemonic = "rifle task ladder february cattle found abuse sample turkey action fortune venture";
+var mnemonic = "mansion skin scan arrive empower horror genuine square river oven robot analyst";

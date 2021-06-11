@@ -1,1 +1,1 @@
-var mnemonic = "kidney suffer assist address enjoy busy control slight virus wink actual cycle";
+var mnemonic = "already basic aunt lamp orange air hat upon treat stereo emotion visual";

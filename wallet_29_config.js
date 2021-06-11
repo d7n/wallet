@@ -1,1 +1,1 @@
-var mnemonic = "dove trim maple sell chuckle control grit approve soap market promote rare";
+var mnemonic = "atom abstract purchase initial girl exercise unfold vacant motor patrol siege common";

@@ -1,1 +1,1 @@
-var mnemonic = "hope person limit machine laugh animal alert left scrap onion organ obtain";
+var mnemonic = "danger limit engage response peanut garlic buyer join casino laundry loan interest";

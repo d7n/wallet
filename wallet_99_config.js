@@ -1,1 +1,1 @@
-var mnemonic = "peace obtain wine suspect keep speak beyond special slogan river clay motor";
+var mnemonic = "digital diary venue bread honey pencil soda visit type border lizard make";

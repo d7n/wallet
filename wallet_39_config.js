@@ -1,1 +1,1 @@
-var mnemonic = "impose argue edit topple good problem shield achieve oppose trim assume weird";
+var mnemonic = "satoshi pill visa group wink vessel hawk raise tone borrow index large";

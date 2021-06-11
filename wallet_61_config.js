@@ -1,1 +1,1 @@
-var mnemonic = "crush spread antenna toe category clerk slice hollow garbage rifle any pudding";
+var mnemonic = "chair alter dial salt route census elite tree model approve barrel frost";

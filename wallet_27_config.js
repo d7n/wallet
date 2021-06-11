@@ -1,1 +1,1 @@
-var mnemonic = "museum leaf window push math remove immense field wide area turtle afford";
+var mnemonic = "wire peasant sure right burger relax useless split throw grit grain infant";

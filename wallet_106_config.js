@@ -1,1 +1,1 @@
-var mnemonic = "journey famous tower hip symbol hover celery witness radar kiss tuna alarm";
+var mnemonic = "market file stadium push purpose science sweet powder bus vehicle rigid rain";

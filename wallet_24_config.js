@@ -1,1 +1,1 @@
-var mnemonic = "sand search maximum midnight casino keen drop interest devote cloth flip wait";
+var mnemonic = "math job bunker embark plunge oak phrase fringe morning sunny april museum";

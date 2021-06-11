@@ -1,1 +1,1 @@
-var mnemonic = "tunnel icon anger answer tissue soup romance panther jewel lawn thunder output";
+var mnemonic = "girl diesel party degree music bless symptom valid improve dignity random cage";

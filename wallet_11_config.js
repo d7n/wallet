@@ -1,1 +1,1 @@
-var mnemonic = "defy whip answer law way course interest lazy foam dolphin muffin fetch";
+var mnemonic = "indicate shy jelly steak spell salon coconut hero burst valley steel canyon";

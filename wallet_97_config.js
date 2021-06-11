@@ -1,1 +1,1 @@
-var mnemonic = "input diary bachelor peanut climb guess focus surprise glance gun control detect";
+var mnemonic = "remain option fitness exist visa crush indicate mirror exact method wife title";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud inject bench ecology lens trust mirror soccer silk draw bid buyer";
+var mnemonic = "cactus initial virtual mountain upgrade alarm fade turkey orphan regular syrup name";

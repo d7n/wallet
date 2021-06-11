@@ -1,1 +1,1 @@
-var mnemonic = "three nerve gift book shuffle skirt slow web sense chimney face river";
+var mnemonic = "same auction maple feed harbor maple garden ride foster powder general shrimp";

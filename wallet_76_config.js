@@ -1,1 +1,1 @@
-var mnemonic = "grow reflect team lock diary comfort divide confirm tent shoot cupboard habit";
+var mnemonic = "quarter almost bus pave spider strategy draw mule cable defy black impulse";

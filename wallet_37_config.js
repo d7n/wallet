@@ -1,1 +1,1 @@
-var mnemonic = "devote okay soft stock solid retire tiny party tumble vintage subway deny";
+var mnemonic = "lumber cross bracket lonely silly entry penalty toy stable brass book nasty";

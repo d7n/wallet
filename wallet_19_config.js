@@ -1,1 +1,1 @@
-var mnemonic = "boss profit add mistake dune crowd glue stable digital pyramid decide awesome";
+var mnemonic = "dynamic payment parent brother dream arrive net unknown alarm select shove matrix";

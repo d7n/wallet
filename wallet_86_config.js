@@ -1,1 +1,1 @@
-var mnemonic = "attack wreck biology derive program vanish genius clump wedding vehicle carpet destroy";
+var mnemonic = "two identify orphan off cinnamon pole scout roof absurd vehicle endless fee";

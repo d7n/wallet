@@ -1,1 +1,1 @@
-var mnemonic = "autumn upgrade ski dune trim three forum multiply company garden program guard";
+var mnemonic = "evidence humble catalog carpet vicious elegant sure quarter cute tent circle chapter";

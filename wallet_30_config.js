@@ -1,1 +1,1 @@
-var mnemonic = "onion follow flame current fetch hand dinner world pledge topic smoke rubber";
+var mnemonic = "another enact frame work cook direct verb absent produce mimic creek hero";

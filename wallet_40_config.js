@@ -1,1 +1,1 @@
-var mnemonic = "broom curious unusual length label morning upon quality december license grace ordinary";
+var mnemonic = "web tenant rhythm tone toss swallow custom traffic gather love soap castle";

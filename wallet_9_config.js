@@ -1,1 +1,1 @@
-var mnemonic = "add clap eagle record girl raccoon rich hybrid merit denial boring letter";
+var mnemonic = "topple chef inside suspect culture aisle across duck hope purchase valley love";

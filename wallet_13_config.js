@@ -1,1 +1,1 @@
-var mnemonic = "dismiss armed festival poverty garment loan lend earth attitude soup inner unfair";
+var mnemonic = "hockey pizza stumble drift cabbage right decline gap add stock panther pizza";

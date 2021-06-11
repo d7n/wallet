@@ -1,1 +1,1 @@
-var mnemonic = "december barrel swim melt leave antenna either kite exotic night term save";
+var mnemonic = "recipe forget spare toward prison stuff faint focus fit wasp recipe camera";

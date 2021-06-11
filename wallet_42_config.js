@@ -1,1 +1,1 @@
-var mnemonic = "outdoor peasant snake scene void audit increase skirt icon session mistake guitar";
+var mnemonic = "bronze inflict estate unfair gorilla virus list slot ridge unique ritual donate";

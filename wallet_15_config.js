@@ -1,1 +1,1 @@
-var mnemonic = "visa hint budget often iron recall story trick unknown fuel source annual";
+var mnemonic = "sad essay expect merit behind sport about ball find work glance garbage";

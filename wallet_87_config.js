@@ -1,1 +1,1 @@
-var mnemonic = "luggage fluid destroy half theme cargo practice engine hope quality absurd cave";
+var mnemonic = "few pair miracle riot kangaroo gospel exit gas virtual jealous icon color";

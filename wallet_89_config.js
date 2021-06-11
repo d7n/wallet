@@ -1,1 +1,1 @@
-var mnemonic = "bench spread off ribbon december state tortoise sugar accuse hollow bronze erase";
+var mnemonic = "cotton friend odor cloth pet chuckle fork empty round faculty dish ritual";

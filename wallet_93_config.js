@@ -1,1 +1,1 @@
-var mnemonic = "ethics thank equip lock achieve ball already phone since vacant glove session";
+var mnemonic = "combine make shoe gown grain ritual satisfy inner nest retreat usual hurdle";

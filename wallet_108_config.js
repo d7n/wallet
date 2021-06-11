@@ -1,1 +1,1 @@
-var mnemonic = "stay very stereo dress uphold crouch clutch spare second develop worry upgrade";
+var mnemonic = "own charge round torch section claim choice brand bulb bundle guitar observe";

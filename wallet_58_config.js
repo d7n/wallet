@@ -1,1 +1,1 @@
-var mnemonic = "divorce zoo more phrase viable salute recall toast exotic buddy wise brand";
+var mnemonic = "better cost word caution slot payment tone pumpkin step fitness yard earn";

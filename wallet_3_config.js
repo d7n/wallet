@@ -1,1 +1,1 @@
-var mnemonic = "alarm green thing drill obey base tackle stomach vacuum earn settle soup";
+var mnemonic = "expose either voyage say genius great actress remove happy color royal lyrics";

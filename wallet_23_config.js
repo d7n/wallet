@@ -1,1 +1,1 @@
-var mnemonic = "another second subway extend purity genre tonight torch year shallow turtle neglect";
+var mnemonic = "indicate oppose obey panda olympic bronze spatial cricket warm trim rib pink";

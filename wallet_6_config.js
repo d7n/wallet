@@ -1,1 +1,1 @@
-var mnemonic = "when dumb genre space monitor distance pattern topic property current carbon model";
+var mnemonic = "draw arch disorder swap rice screen flame crash wealth spice jewel obvious";

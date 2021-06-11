@@ -1,1 +1,1 @@
-var mnemonic = "hold two pudding pencil tide stool cushion butter adjust flavor sense attitude";
+var mnemonic = "noodle certain exhaust polar cherry bird grid hundred mask oval matter segment";

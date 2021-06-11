@@ -1,1 +1,1 @@
-var mnemonic = "cruel rule obtain grain venue glass soldier ugly tomato view output fancy";
+var mnemonic = "outside firm silk fiscal shrimp cannon tube planet hawk ceiling dignity eight";

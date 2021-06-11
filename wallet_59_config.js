@@ -1,1 +1,1 @@
-var mnemonic = "allow issue safe cheese tide able daughter soccer track hire off gasp";
+var mnemonic = "kangaroo butter potato when title ball hurt silly engage try rigid iron";

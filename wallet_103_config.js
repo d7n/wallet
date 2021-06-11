@@ -1,1 +1,1 @@
-var mnemonic = "chat limit road good mail adjust name develop valley fade pelican emotion";
+var mnemonic = "suspect inject control diet name retire extra kiwi manual cushion cluster napkin";

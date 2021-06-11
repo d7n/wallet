@@ -1,1 +1,1 @@
-var mnemonic = "mercy casual require humor glimpse word unable matrix record lawn want beyond";
+var mnemonic = "drink chalk absurd small soup clip van bone notice fit nurse cliff";

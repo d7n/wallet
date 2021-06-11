@@ -1,1 +1,1 @@
-var mnemonic = "loyal now energy flash remain swear edit devote design patrol math column";
+var mnemonic = "fire milk grab dolphin when age library idle quiz spray crop breeze";

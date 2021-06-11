@@ -1,1 +1,1 @@
-var mnemonic = "soap promote trophy forum busy guard trumpet gallery dune track display harvest";
+var mnemonic = "pilot advance physical horror ghost copper police control omit random castle rain";

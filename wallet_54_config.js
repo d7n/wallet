@@ -1,1 +1,1 @@
-var mnemonic = "provide cushion coffee urban manual divert resist label april major cactus brave";
+var mnemonic = "bitter wolf animal say cricket vessel blush print aspect find rain dress";

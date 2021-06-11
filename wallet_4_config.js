@@ -1,1 +1,1 @@
-var mnemonic = "nerve old width cloud comic cross habit frown say glide engage horn";
+var mnemonic = "nest siren hedgehog harsh rice dignity toss birth capital utility dilemma lizard";

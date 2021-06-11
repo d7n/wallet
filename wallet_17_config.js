@@ -1,1 +1,1 @@
-var mnemonic = "lend enroll column beef latin warfare horse peanut album mad kiwi hamster";
+var mnemonic = "link desert company lumber require doctor holiday sorry welcome topple tool sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "tent exhibit melody dawn solar guitar style divert dream doll route shoulder";
+var mnemonic = "team huge office report gadget unusual replace round setup blouse unfair size";

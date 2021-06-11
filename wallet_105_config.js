@@ -1,1 +1,1 @@
-var mnemonic = "wool next candy drill become metal enable sphere exhaust draw adult divorce";
+var mnemonic = "measure suit perfect tilt sport dice ghost scorpion time antique interest physical";

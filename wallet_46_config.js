@@ -1,1 +1,1 @@
-var mnemonic = "risk bread multiply emotion climb switch jungle review twin drop keep panther";
+var mnemonic = "hand solid slide joy neglect gadget deny burden virtual toilet economy pear";

@@ -1,1 +1,1 @@
-var mnemonic = "party cousin media road retreat actor ignore october shoulder plug fiber elite";
+var mnemonic = "library rather smooth advance test wait swift try organ book sudden orange";

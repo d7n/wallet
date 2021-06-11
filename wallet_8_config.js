@@ -1,1 +1,1 @@
-var mnemonic = "harbor cricket apart casino margin account that achieve inhale foster hurry armor";
+var mnemonic = "rain bulb bundle range coral curtain visual endless route share win involve";

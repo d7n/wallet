@@ -1,1 +1,1 @@
-var mnemonic = "notable shop forget pluck pottery clerk chair food guess proud clog tourist";
+var mnemonic = "metal kitchen bachelor merge blouse aisle usage stem protect tank guess garlic";

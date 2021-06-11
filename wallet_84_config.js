@@ -1,1 +1,1 @@
-var mnemonic = "chalk try wheel still stove peasant burger engine nephew ignore dragon blast";
+var mnemonic = "surround pony border nation ramp spider phone grow cherry rule dress famous";

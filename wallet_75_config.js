@@ -1,1 +1,1 @@
-var mnemonic = "dizzy toss rib celery present angle luggage sunset street crawl attitude oyster";
+var mnemonic = "food capital office excess language rally veteran total true endless junior flight";

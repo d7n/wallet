@@ -1,1 +1,1 @@
-var mnemonic = "cry cousin scatter verb lock wine glide easy before street laptop enrich";
+var mnemonic = "aerobic novel media demand avoid zone situate rate real hurt dice evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle birth glue top oil sail ticket second region agent leader mushroom";
+var mnemonic = "skate twenty gallery mesh champion scene detail husband twenty night west surprise";

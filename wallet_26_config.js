@@ -1,1 +1,1 @@
-var mnemonic = "harvest punch retreat emotion kiss budget mom jewel alert mechanic apple trigger";
+var mnemonic = "retreat possible elegant before coil today twin idea bid spare afford absorb";

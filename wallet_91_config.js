@@ -1,1 +1,1 @@
-var mnemonic = "faculty helmet silent squeeze meat abstract want leader thunder section upset flock";
+var mnemonic = "ketchup tired kiwi frown keep dream lemon predict explain share call leader";

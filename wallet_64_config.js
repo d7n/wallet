@@ -1,1 +1,1 @@
-var mnemonic = "aware raise capable hint blue luxury flight fiber jelly lunar inflict equip";
+var mnemonic = "noble segment news blouse stomach ride float dentist kid exact eight globe";

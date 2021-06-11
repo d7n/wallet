@@ -1,1 +1,1 @@
-var mnemonic = "wire better chimney card vacant filter tell athlete drama purchase inherit matter";
+var mnemonic = "save obey also error crack bar old prison sweet post upon pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "wide champion elevator swallow fatigue calm truck inside cute online trumpet only";
+var mnemonic = "cause jewel auction file medal birth fade color grab pyramid glove gloom";

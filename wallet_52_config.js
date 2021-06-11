@@ -1,1 +1,1 @@
-var mnemonic = "earn outside relief iron hedgehog rate control trial chaos sense story lesson";
+var mnemonic = "stem sea gold shield insane castle payment human arch pigeon video amazing";

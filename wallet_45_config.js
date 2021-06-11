@@ -1,1 +1,1 @@
-var mnemonic = "arch boy file civil casino zoo build invite praise cave april pluck";
+var mnemonic = "replace tail laptop screen tube arm lonely child fragile banner furnace sweet";

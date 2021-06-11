@@ -1,1 +1,1 @@
-var mnemonic = "draw ozone priority trick tell attract carry lawsuit ceiling access ask credit";
+var mnemonic = "view edit history ill master blur burden frequent table interest rule idea";

@@ -1,1 +1,1 @@
-var mnemonic = "remain float click young monitor cattle enter play vintage monkey fade false";
+var mnemonic = "latin fringe innocent inside tennis symbol luggage tortoise federal brown funny ring";

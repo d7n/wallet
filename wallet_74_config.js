@@ -1,1 +1,1 @@
-var mnemonic = "mule answer tree jungle phone basic also lounge two melody lens enable";
+var mnemonic = "various mesh chronic couch year pigeon prosper enact rebel pause bone invite";

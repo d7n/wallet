@@ -1,1 +1,1 @@
-var mnemonic = "fitness govern mule fringe cause quality museum motion caught rival exile virus";
+var mnemonic = "spatial accuse beef daring rule glare acoustic puppy merry room view shoot";

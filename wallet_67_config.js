@@ -1,1 +1,1 @@
-var mnemonic = "ready test shift vital winter razor dilemma rose scatter dragon obscure ski";
+var mnemonic = "brother wisdom river found rack math leg visit joy blanket pool someone";

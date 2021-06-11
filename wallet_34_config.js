@@ -1,1 +1,1 @@
-var mnemonic = "primary nothing dwarf prefer fiber same boat base jump hidden base repair";
+var mnemonic = "tuna huge bring credit find jewel exist hire equal man tiny gaze";

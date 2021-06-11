@@ -1,1 +1,1 @@
-var mnemonic = "pretty axis bird vessel side screen fruit oak lecture fuel tissue lens";
+var mnemonic = "noble slush congress winter tackle select actor syrup divert chef crouch talk";

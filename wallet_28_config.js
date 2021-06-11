@@ -1,1 +1,1 @@
-var mnemonic = "screen level fiction rare wear kingdom meat rely float better mansion tank";
+var mnemonic = "tank depth rebuild fade review exact cheese front check shed build violin";

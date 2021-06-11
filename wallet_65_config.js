@@ -1,1 +1,1 @@
-var mnemonic = "arrest girl include consider shy list purse test race frame west sadness";
+var mnemonic = "tattoo fox tobacco gravity goose mean finish fetch blossom humor betray high";
