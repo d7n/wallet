@@ -1,1 +1,1 @@
-var mnemonic = "episode purchase mushroom useful problem image dog upgrade dust rigid like know";
+var mnemonic = "interest diet spirit company insane sniff canvas jaguar label amateur guess forest";

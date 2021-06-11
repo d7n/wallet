@@ -1,1 +1,1 @@
-var mnemonic = "armed combine feature wide icon coconut giant party silly dry tackle combine";
+var mnemonic = "exact twice give system cruise cricket text scatter month tube drip follow";

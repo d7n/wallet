@@ -1,1 +1,1 @@
-var mnemonic = "zero fall reward hockey wealth wash craft enough table wrap assume merry";
+var mnemonic = "guitar expire cake crunch spare measure reward number zero near birth cherry";

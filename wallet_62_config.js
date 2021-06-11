@@ -1,1 +1,1 @@
-var mnemonic = "magic chat very buffalo situate object wool weekend term embrace debris aware";
+var mnemonic = "response outdoor normal damp eagle rib about bottom actual still recycle correct";

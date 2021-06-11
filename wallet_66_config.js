@@ -1,1 +1,1 @@
-var mnemonic = "engage knife warfare crawl cash fatal bottom put eager era inherit cruise";
+var mnemonic = "punch surprise train sunny stable casino angry practice rain fever october relief";

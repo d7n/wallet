@@ -1,1 +1,1 @@
-var mnemonic = "width subject burden atom kiwi there under shy insane retreat palace vehicle";
+var mnemonic = "old edit ice spider fault fragile curious grow harsh pig survey debris";

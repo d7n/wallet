@@ -1,1 +1,1 @@
-var mnemonic = "glass wink bulb plug rural asthma vocal speak waste trophy symptom muscle";
+var mnemonic = "mask brand allow fence volcano frozen swallow life retire review eternal keep";

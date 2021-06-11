@@ -1,1 +1,1 @@
-var mnemonic = "breeze ensure buddy solve avocado way mirror minimum coyote kite material daughter";
+var mnemonic = "paddle edge ignore any tail move slogan smart ocean fossil chaos spatial";

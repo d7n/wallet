@@ -1,1 +1,1 @@
-var mnemonic = "impact kangaroo vehicle salt galaxy buzz caution faith suit leg dawn citizen";
+var mnemonic = "initial recipe mixture robot lemon jungle humble peasant crowd cycle knee reopen";

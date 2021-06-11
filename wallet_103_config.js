@@ -1,1 +1,1 @@
-var mnemonic = "owner silver spike laugh echo behind claw future liar reward runway fancy";
+var mnemonic = "weird olympic save cross kidney strike card filter thumb feed wedding repeat";

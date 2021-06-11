@@ -1,1 +1,1 @@
-var mnemonic = "end always uncover gravity pride galaxy skirt minute blind ethics spy gym";
+var mnemonic = "deposit describe cart submit put neither under volcano visual vacuum furnace adult";

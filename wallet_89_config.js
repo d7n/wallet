@@ -1,1 +1,1 @@
-var mnemonic = "rigid suspect orchard lava exhibit supply cool catalog what enhance actual wing";
+var mnemonic = "draw polar help bullet loan enroll stuff example estate pear poverty pool";

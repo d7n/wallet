@@ -1,1 +1,1 @@
-var mnemonic = "sign achieve turkey cream sunny junior virtual short three conduct season plastic";
+var mnemonic = "word pulse cinnamon cloth elevator weekend gown cave fatal route cradle mixture";

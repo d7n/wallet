@@ -1,1 +1,1 @@
-var mnemonic = "junior portion ignore until scare kingdom stereo street caution face gloom regret";
+var mnemonic = "bunker cement vital butter canoe seven tip throw young egg discover sad";

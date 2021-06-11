@@ -1,1 +1,1 @@
-var mnemonic = "duck undo decide thought book sheriff estate depend gravity gesture material speed";
+var mnemonic = "robot walnut box myself cable shy seek ripple defense symptom sample student";

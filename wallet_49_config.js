@@ -1,1 +1,1 @@
-var mnemonic = "supply cash regular verify crew ticket gate denial axis razor melt tattoo";
+var mnemonic = "report inquiry mutual divorce village analyst afraid sock suspect problem useless attract";

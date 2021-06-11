@@ -1,1 +1,1 @@
-var mnemonic = "admit common guilt tree gate file vessel vote today hammer pudding sell";
+var mnemonic = "gown spin warrior mercy glass lumber practice follow art sugar regret top";

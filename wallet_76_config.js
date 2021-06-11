@@ -1,1 +1,1 @@
-var mnemonic = "creek goat transfer tilt suggest view target excess excite smile virtual dignity";
+var mnemonic = "amazing coil rescue like spoil memory replace enforce nature mask million inquiry";

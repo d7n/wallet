@@ -1,1 +1,1 @@
-var mnemonic = "rather arrange health coach naive auction pride sniff very turkey wonder crater";
+var mnemonic = "dose style weapon same large stage robot immense easily art puzzle village";

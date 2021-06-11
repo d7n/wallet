@@ -1,1 +1,1 @@
-var mnemonic = "world chicken melt tube quote salt daughter silent attend word stay inject";
+var mnemonic = "topple fluid pipe silk reform expect volcano maximum panel used enlist trend";

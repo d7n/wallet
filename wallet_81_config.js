@@ -1,1 +1,1 @@
-var mnemonic = "joke digital bridge opinion session knife option logic believe suit sentence burden";
+var mnemonic = "inside announce route payment avoid december gun disease useful drink face elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "close camera receive sleep change toss junk slim party they drum abstract";
+var mnemonic = "ahead ivory act home robot slogan order camp measure whisper cook grace";

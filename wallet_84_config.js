@@ -1,1 +1,1 @@
-var mnemonic = "effort scene tribe anxiety toss inform identify weird idea key defense pudding";
+var mnemonic = "bulb inner patrol install wage venue economy rubber accuse equal journey hen";

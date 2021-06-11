@@ -1,1 +1,1 @@
-var mnemonic = "farm version field junk current act actual jazz approve melody top canoe";
+var mnemonic = "twelve nose tree aunt business diet discover mansion quick share lounge gospel";

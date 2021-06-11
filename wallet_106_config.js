@@ -1,1 +1,1 @@
-var mnemonic = "sugar sing liberty trend eye nominee brief pair security rather gallery lonely";
+var mnemonic = "rabbit scheme exist east input fashion rapid alpha eye mercy napkin clinic";

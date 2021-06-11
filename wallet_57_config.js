@@ -1,1 +1,1 @@
-var mnemonic = "deer general loud early volume observe blur raw market twin chaos genre";
+var mnemonic = "evoke weekend carpet scatter eyebrow dynamic effort panda glad retire jeans dust";

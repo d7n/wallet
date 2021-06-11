@@ -1,1 +1,1 @@
-var mnemonic = "penalty kangaroo beauty method suspect steak solution century fantasy grow famous joy";
+var mnemonic = "guess reason top book veteran network sort pyramid nuclear bind noble plug";

@@ -1,1 +1,1 @@
-var mnemonic = "tower spell candy soup attend lawsuit lawn cat want clog allow snow";
+var mnemonic = "talk faith crunch pact enlist tennis evil picture leader adapt point grant";

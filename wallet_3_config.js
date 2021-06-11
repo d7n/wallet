@@ -1,1 +1,1 @@
-var mnemonic = "cart diet sugar upon gate truly debate doll what eye find decrease";
+var mnemonic = "govern primary time glass stool caution cage era fence maximum tag quote";

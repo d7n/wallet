@@ -1,1 +1,1 @@
-var mnemonic = "deer math unaware illness club can subject wife fence stand bar liberty";
+var mnemonic = "april tuna assault very melody culture sad royal wood raise share check";

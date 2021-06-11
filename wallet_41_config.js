@@ -1,1 +1,1 @@
-var mnemonic = "urge opinion wide scale raven victory youth orient evolve fame sense candy";
+var mnemonic = "option usual follow child fiction ancient drift album veteran mimic close enjoy";

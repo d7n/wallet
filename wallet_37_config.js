@@ -1,1 +1,1 @@
-var mnemonic = "outside reunion pledge animal system flavor kangaroo theme review involve hope alien";
+var mnemonic = "sustain shell drum wreck vacuum camera bundle topic awake business shiver gloom";

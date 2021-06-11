@@ -1,1 +1,1 @@
-var mnemonic = "plate private edge royal submit song host merry planet afford connect void";
+var mnemonic = "often valley harsh soap tail fossil evidence ahead put rug armed wrap";

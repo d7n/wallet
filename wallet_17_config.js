@@ -1,1 +1,1 @@
-var mnemonic = "journey firm debate imitate win device apart address frozen tomorrow earn poet";
+var mnemonic = "print chapter expect game visual beyond sample share deny have silver cage";

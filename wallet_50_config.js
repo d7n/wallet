@@ -1,1 +1,1 @@
-var mnemonic = "mirror glow clump oyster near allow that bicycle elegant then donkey change";
+var mnemonic = "usage host absorb pet awful slight glory lunch inhale melt snap staff";

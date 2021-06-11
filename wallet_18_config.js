@@ -1,1 +1,1 @@
-var mnemonic = "park render public display venue front lens power convince sign liberty luggage";
+var mnemonic = "entry mutual lock spend fog beef decrease act galaxy venture concert depth";

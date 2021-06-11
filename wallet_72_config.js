@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo stove case orbit stomach scissors history galaxy fuel fluid isolate seven";
+var mnemonic = "about bicycle cherry say same dentist satoshi idle stove follow cram hat";

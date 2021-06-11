@@ -1,1 +1,1 @@
-var mnemonic = "horse transfer town piano change border home wave weird diary buyer banner";
+var mnemonic = "brick ivory market quick mesh visual romance arena brain miss define join";

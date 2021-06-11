@@ -1,1 +1,1 @@
-var mnemonic = "define battle quality future hand weird bind destroy bike wait disagree era";
+var mnemonic = "silver fun vehicle table total taxi body panda dance provide sun true";

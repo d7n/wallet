@@ -1,1 +1,1 @@
-var mnemonic = "way soup team cheese marble matter base you omit hammer tennis visa";
+var mnemonic = "member sick caution pony mirror warfare episode hill artwork negative toy soul";

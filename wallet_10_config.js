@@ -1,1 +1,1 @@
-var mnemonic = "fee else pumpkin deer option good journey express couple neutral miracle industry";
+var mnemonic = "caution worry diary turtle copper census offer fringe worth film arm universe";

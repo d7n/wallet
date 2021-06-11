@@ -1,1 +1,1 @@
-var mnemonic = "punch blast room ring toy old asthma push access diagram blue home";
+var mnemonic = "ranch slide able behind library rice purpose adult romance bag soccer viable";

@@ -1,1 +1,1 @@
-var mnemonic = "verify retreat grow cash glow taxi control exotic know youth property mistake";
+var mnemonic = "blossom settle start supreme congress test flock problem cat menu text run";

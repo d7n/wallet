@@ -1,1 +1,1 @@
-var mnemonic = "daughter measure scissors mesh unique jacket upset tobacco body afford truth cost";
+var mnemonic = "stage aspect claw imitate jungle student assume grit message maximum cat vague";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy blue march minimum ride leave radar benefit mango promote business diesel";
+var mnemonic = "tent round awake youth daring tornado assume easy typical donor connect tower";

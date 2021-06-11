@@ -1,1 +1,1 @@
-var mnemonic = "mind jelly among crowd subway decade abuse lemon stem retire exile ketchup";
+var mnemonic = "try mesh fish circle keen act rubber sail rain cat kind list";

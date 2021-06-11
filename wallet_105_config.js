@@ -1,1 +1,1 @@
-var mnemonic = "royal all coach switch liberty laptop trust name wealth skull rocket clinic";
+var mnemonic = "axis honey fabric toy foam rice stomach shaft nasty oak entire private";

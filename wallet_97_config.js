@@ -1,1 +1,1 @@
-var mnemonic = "pony spin beauty social knock oil stick tongue gasp slim law guess";
+var mnemonic = "cart burden basket anchor glad gain tourist holiday grab easily impose weasel";

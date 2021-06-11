@@ -1,1 +1,1 @@
-var mnemonic = "image oblige aspect submit peanut milk loop refuse hat add curtain camp";
+var mnemonic = "mention raven banner child improve thing venue analyst truth maple vague atom";

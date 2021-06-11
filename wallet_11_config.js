@@ -1,1 +1,1 @@
-var mnemonic = "kick source verify upper learn disorder three coconut wrap domain noise poet";
+var mnemonic = "long blur pudding record rare mushroom margin soon degree they exchange energy";

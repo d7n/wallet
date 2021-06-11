@@ -1,1 +1,1 @@
-var mnemonic = "identify tilt cereal office inmate crime hotel ghost cactus carry small equip";
+var mnemonic = "marriage critic alone average payment marine version year predict enough oxygen black";

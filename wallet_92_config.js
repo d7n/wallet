@@ -1,1 +1,1 @@
-var mnemonic = "panther liquid rhythm oppose drill ivory company salmon length mimic load eyebrow";
+var mnemonic = "voice merry lawn claim dish general rough city hat deal cannon govern";

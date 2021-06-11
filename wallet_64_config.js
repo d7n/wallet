@@ -1,1 +1,1 @@
-var mnemonic = "song trend ugly demand antenna legend hover rescue project curtain intact bike";
+var mnemonic = "express fringe first mother jewel demise provide spread okay income insane whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "where audit utility motor popular coral alley cactus warfare color frost audit";
+var mnemonic = "spend fade beach witness coyote orient middle paper vital seed creek appear";

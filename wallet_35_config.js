@@ -1,1 +1,1 @@
-var mnemonic = "leopard problem hold deposit mimic expire offer clutch one ride venture actor";
+var mnemonic = "toe recall label cage pipe voice fringe near afford conduct trash advance";

@@ -1,1 +1,1 @@
-var mnemonic = "silk message flee smart decline afford day argue globe control crime next";
+var mnemonic = "remain vault alpha biology jacket coin gentle dwarf virus into bar abuse";

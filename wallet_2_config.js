@@ -1,1 +1,1 @@
-var mnemonic = "end grace obey defense differ spread bundle else engine orchard pioneer divorce";
+var mnemonic = "finger educate uniform evolve clap apart slab wink brick canoe draw adjust";

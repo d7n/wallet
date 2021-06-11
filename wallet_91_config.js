@@ -1,1 +1,1 @@
-var mnemonic = "toe sibling lady risk taxi diet yellow field project jeans thought move";
+var mnemonic = "acid behave moon portion crew come battle parade tent day tray hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "report field stairs bar vacuum blouse transfer grass fiber universe copy answer";
+var mnemonic = "record timber arrest quote torch defy rifle ride output wise click era";

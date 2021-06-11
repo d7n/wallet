@@ -1,1 +1,1 @@
-var mnemonic = "fantasy omit rather wrong autumn near neck practice divert unhappy issue wagon";
+var mnemonic = "square actress uncover choose pig what fall trap subway yard market mosquito";

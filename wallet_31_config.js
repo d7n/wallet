@@ -1,1 +1,1 @@
-var mnemonic = "drastic avoid circle arrive clown kingdom metal vivid execute plastic solid vehicle";
+var mnemonic = "virus frozen used oval dirt list general ugly asthma burden vendor brown";

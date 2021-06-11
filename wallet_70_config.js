@@ -1,1 +1,1 @@
-var mnemonic = "staff initial control fork crawl zoo carpet fan garden stumble idle inflict";
+var mnemonic = "mesh wool loud spatial section wool pave bleak member rally teach expect";

@@ -1,1 +1,1 @@
-var mnemonic = "circle artwork flight meadow appear tenant fade joke real camera usage tongue";
+var mnemonic = "push bicycle poet purse grain cover text minimum month bus century globe";

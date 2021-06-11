@@ -1,1 +1,1 @@
-var mnemonic = "demise twelve smart visual universe caught fatigue oval want fortune economy maple";
+var mnemonic = "impact pluck round pizza wave hotel humor injury force elder alpha immune";

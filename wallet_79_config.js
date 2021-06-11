@@ -1,1 +1,1 @@
-var mnemonic = "list warm offer into tomato reject lunch analyst boy kangaroo grab muffin";
+var mnemonic = "help what rib address width science same pottery hurt tenant find rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate cover dwarf record patient step cart invest enroll pioneer fold boring";
+var mnemonic = "cage load bridge life area spy mandate arrange athlete random lend fade";

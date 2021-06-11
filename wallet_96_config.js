@@ -1,1 +1,1 @@
-var mnemonic = "surprise car senior upper desk peanut defense ship run endorse girl unusual";
+var mnemonic = "immense lumber element wave whip beyond swarm anger butter assault census pill";

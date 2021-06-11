@@ -1,1 +1,1 @@
-var mnemonic = "have plastic amount ignore toss cupboard fit outside wing real digital spring";
+var mnemonic = "gas you sword inspire nerve kiwi obscure champion injury copper horror calm";

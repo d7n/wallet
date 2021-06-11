@@ -1,1 +1,1 @@
-var mnemonic = "prevent apple open orbit drama remind trouble sausage behind provide mirror turkey";
+var mnemonic = "birth submit admit mass novel defy what cigar monitor unable adult gauge";

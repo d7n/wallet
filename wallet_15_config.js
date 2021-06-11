@@ -1,1 +1,1 @@
-var mnemonic = "sea animal slush dash castle quote teach scale afford total boat cement";
+var mnemonic = "umbrella list bargain walnut extra split sorry reward crack private science scorpion";

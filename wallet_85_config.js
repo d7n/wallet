@@ -1,1 +1,1 @@
-var mnemonic = "tiger artist clap dawn trend obtain elevator anxiety mind shell cattle boring";
+var mnemonic = "salt educate tube coin omit gather mountain loyal casual diamond sort supply";

@@ -1,1 +1,1 @@
-var mnemonic = "card alarm hockey federal solid subway proof shed clarify mirror shine sudden";
+var mnemonic = "vital dust cook opinion basket flight flavor gown rotate pool decade resource";

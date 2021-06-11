@@ -1,1 +1,1 @@
-var mnemonic = "panel neglect rain join deer wash erupt bless allow term vague switch";
+var mnemonic = "afraid cross very width unfold link swallow album entry glass alone effort";

@@ -1,1 +1,1 @@
-var mnemonic = "improve decide remain valid slide card razor give swear kingdom prosper near";
+var mnemonic = "protect fossil furnace world barely daring alien canoe raven culture entry foam";

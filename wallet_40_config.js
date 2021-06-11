@@ -1,1 +1,1 @@
-var mnemonic = "render jelly lumber spend original baby palm inhale electric hello rifle ordinary";
+var mnemonic = "tattoo leg swing wave struggle will feed antique hazard switch off invest";

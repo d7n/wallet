@@ -1,1 +1,1 @@
-var mnemonic = "damage crime tape clay raw erode pupil base tower neglect ripple vapor";
+var mnemonic = "wheel sing mask vibrant battle brown birth detect detect daring moment whip";

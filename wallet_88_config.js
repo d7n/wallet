@@ -1,1 +1,1 @@
-var mnemonic = "cupboard drill embark innocent engine lunar moon guilt cart foil cattle duck";
+var mnemonic = "promote clinic dune rich pole can cute autumn supply only mail federal";

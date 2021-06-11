@@ -1,1 +1,1 @@
-var mnemonic = "carpet say hope ghost harsh glare diagram grape diamond flower enter suspect";
+var mnemonic = "few pioneer pear delay ill amateur two ladder vocal glove gift armed";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs ancient sword slush joke combine renew token daring result smile clump";
+var mnemonic = "doll symptom power embrace swallow misery aware evidence suggest cigar fiscal harbor";

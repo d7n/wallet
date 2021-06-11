@@ -1,1 +1,1 @@
-var mnemonic = "curious grant weekend once rib bitter slow piece basket reduce culture prepare";
+var mnemonic = "hold purity bid never tank genius athlete clump adapt warfare antique job";

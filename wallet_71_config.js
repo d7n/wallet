@@ -1,1 +1,1 @@
-var mnemonic = "anxiety sail opera typical fitness bottom tennis twice strike turtle zebra fire";
+var mnemonic = "arm noble regret meadow jewel depart tattoo ocean vintage still boil flag";

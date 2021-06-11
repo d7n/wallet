@@ -1,1 +1,1 @@
-var mnemonic = "multiply genius fringe struggle trial ocean morning frozen liar soldier shaft across";
+var mnemonic = "crouch enough cushion find village nasty trash disagree drum biology scan chat";

@@ -1,1 +1,1 @@
-var mnemonic = "leader repeat major turkey flock stem explain vicious roof match merge opinion";
+var mnemonic = "diesel endless property few grief auto protect there cement ahead vocal goddess";

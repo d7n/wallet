@@ -1,1 +1,1 @@
-var mnemonic = "object horn learn tennis chimney inflict join street dry fruit humble love";
+var mnemonic = "nice broken hockey wear replace recycle hill humor gloom powder clutch kingdom";

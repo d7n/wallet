@@ -1,1 +1,1 @@
-var mnemonic = "soda give poverty museum camp elite diagram curve strike surface series march";
+var mnemonic = "umbrella pig never age safe over guitar hood screen eagle often device";

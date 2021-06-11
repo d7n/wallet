@@ -1,1 +1,1 @@
-var mnemonic = "peasant shaft burden brain history abuse hand combine waste web pave wink";
+var mnemonic = "wrong style city nurse copy sad outside vicious into cause curve play";

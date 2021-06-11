@@ -1,1 +1,1 @@
-var mnemonic = "glue affair coyote bundle tent effort inch limb rally time problem same";
+var mnemonic = "combine stamp off pizza glance business crisp scout drip lesson food swift";

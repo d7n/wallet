@@ -1,1 +1,1 @@
-var mnemonic = "beef pepper accident used token roast belt taxi rack settle spice nut";
+var mnemonic = "name crime like muffin point equal reason faith ozone middle daring bag";

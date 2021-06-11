@@ -1,1 +1,1 @@
-var mnemonic = "hill insect jar doctor salmon innocent copy range own never universe trash";
+var mnemonic = "divert behave capable best struggle pretty must balcony unfair minimum during tone";

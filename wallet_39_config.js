@@ -1,1 +1,1 @@
-var mnemonic = "swim marble cabin pipe noodle silly loan slim promote sad village sun";
+var mnemonic = "pudding hand essence job north law admit potato agree subway village oil";

@@ -1,1 +1,1 @@
-var mnemonic = "honey object improve dice own canyon science tide appear police cram knee";
+var mnemonic = "hello ripple wheel window fortune apology warm decrease short will absent burst";

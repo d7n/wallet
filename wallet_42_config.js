@@ -1,1 +1,1 @@
-var mnemonic = "awkward sorry actor want build shell session farm snap voyage derive stereo";
+var mnemonic = "carbon rival vehicle local volcano pattern ozone depart diet blood chapter edit";

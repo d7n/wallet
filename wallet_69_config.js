@@ -1,1 +1,1 @@
-var mnemonic = "select shaft jaguar twenty exclude grant wear grid love helmet rule build";
+var mnemonic = "risk system arrow cake hollow gym inch immense music evidence limb inherit";
