@@ -1,1 +1,1 @@
-var mnemonic = "body umbrella traffic hobby robot water timber outdoor creek kick tornado hint";
+var mnemonic = "mirror aware tennis entire bench noble movie pulse oblige sail wolf brown";

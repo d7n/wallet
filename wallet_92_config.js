@@ -1,1 +1,1 @@
-var mnemonic = "bulb electric cliff swear senior size useless tomorrow voice web venture dog";
+var mnemonic = "trust happy half success cigar dose short width will clock like deal";

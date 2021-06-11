@@ -1,1 +1,1 @@
-var mnemonic = "soccer salon cause grace thrive hotel snack place alone detail awake replace";
+var mnemonic = "tide crucial wagon tower chronic atom tell aerobic fossil refuse jazz end";

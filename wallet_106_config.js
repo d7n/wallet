@@ -1,1 +1,1 @@
-var mnemonic = "song error solve region toward awesome adjust ceiling envelope border path credit";
+var mnemonic = "test welcome judge swap tourist firm three armor equip buyer slender shoot";

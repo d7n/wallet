@@ -1,1 +1,1 @@
-var mnemonic = "chuckle clerk hurt maple damp tooth limit pilot arctic brother excuse future";
+var mnemonic = "replace crime salmon convince surprise turn away convince weird appear able hybrid";

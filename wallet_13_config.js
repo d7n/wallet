@@ -1,1 +1,1 @@
-var mnemonic = "envelope welcome poet garlic quote absent leave cabin purse analyst begin hockey";
+var mnemonic = "history notable escape police chair subject any daughter rely produce super cherry";

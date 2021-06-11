@@ -1,1 +1,1 @@
-var mnemonic = "public mistake must believe height dismiss toilet test dutch together coil nest";
+var mnemonic = "danger note crop canal pitch broom citizen simple funny neither emotion polar";

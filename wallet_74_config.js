@@ -1,1 +1,1 @@
-var mnemonic = "eagle celery trap tumble orchard cloud online caught extend goose increase erupt";
+var mnemonic = "predict banner identify near neither certain pig proof kiwi treat hip match";

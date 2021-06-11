@@ -1,1 +1,1 @@
-var mnemonic = "wagon drop nuclear profit metal matter false hospital wonder panel material eye";
+var mnemonic = "next hope clever day stomach shield waste pact parade monster keep again";

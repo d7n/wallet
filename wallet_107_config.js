@@ -1,1 +1,1 @@
-var mnemonic = "carbon whip vapor target enlist skin frog order ribbon agent entry clown";
+var mnemonic = "excite lunch profit other local ethics blade slice already local erase prison";

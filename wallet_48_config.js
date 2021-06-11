@@ -1,1 +1,1 @@
-var mnemonic = "lamp obvious mammal work medal task mask destroy arena term odor achieve";
+var mnemonic = "smooth arrow moon sing arctic deposit royal match settle ordinary captain tiny";

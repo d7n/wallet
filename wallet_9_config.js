@@ -1,1 +1,1 @@
-var mnemonic = "crumble disagree hurry rain shiver green current cheap diamond october gate attend";
+var mnemonic = "despair useful random note pluck horror speed brief rally bring bridge card";

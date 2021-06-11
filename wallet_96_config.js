@@ -1,1 +1,1 @@
-var mnemonic = "jungle crowd erase emotion sense again buddy sort ignore panther skin melody";
+var mnemonic = "afraid foil scrub element flock faith cancel mom afraid deputy abuse cherry";

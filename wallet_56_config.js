@@ -1,1 +1,1 @@
-var mnemonic = "alpha trick mandate close motor hedgehog mountain room sport orbit soft dish";
+var mnemonic = "pencil exist grow gold desk camera ribbon upon hill member earth choose";

@@ -1,1 +1,1 @@
-var mnemonic = "almost embody tray baby rich man sustain job load symptom push child";
+var mnemonic = "ancient bronze subject elite core enhance guitar salt dial spawn grow punch";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft purse hint gate unit frost bubble game jazz tower bomb guide";
+var mnemonic = "unhappy onion couple crunch together inhale sand purse library buzz route bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "stem fringe suffer sketch fabric slight race juice soon tribe stem need";
+var mnemonic = "sausage hand hip regular train beauty monitor lazy place evil great senior";

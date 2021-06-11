@@ -1,1 +1,1 @@
-var mnemonic = "radio win later license chronic pulse canyon head swarm cannon smart candy";
+var mnemonic = "sand frequent dynamic say focus toilet camera minor aspect crawl chronic lamp";

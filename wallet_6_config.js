@@ -1,1 +1,1 @@
-var mnemonic = "shrug bird bomb left kingdom tobacco riot session peanut hill give buffalo";
+var mnemonic = "print chunk harsh era until appear toy wagon treat draw soda until";

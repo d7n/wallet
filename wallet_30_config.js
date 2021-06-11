@@ -1,1 +1,1 @@
-var mnemonic = "wash release bird ordinary save sniff camera edge derive film simple decorate";
+var mnemonic = "review loyal update spare later catch barely team pumpkin animal enrich wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "funny term custom pulse truly large endless walk soap couple twenty banana";
+var mnemonic = "catch reflect panther local enhance army oppose advice orbit behind mom alley";

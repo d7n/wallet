@@ -1,1 +1,1 @@
-var mnemonic = "spell space again cry jaguar legal inquiry stuff pave base job orbit";
+var mnemonic = "jealous fuel chase mutual sheriff toast neglect giant desk canoe swap company";

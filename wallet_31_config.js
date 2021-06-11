@@ -1,1 +1,1 @@
-var mnemonic = "tape very omit economy marble reunion dry crisp usual onion scrap north";
+var mnemonic = "fly world useless glass salute bus timber cook bar legal season setup";

@@ -1,1 +1,1 @@
-var mnemonic = "normal prefer napkin real bus ceiling film plunge fade connect bring river";
+var mnemonic = "addict empty better evoke switch stage interest aunt game unfold silk hunt";

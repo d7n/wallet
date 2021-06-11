@@ -1,1 +1,1 @@
-var mnemonic = "curve theme will device raven orient prefer skin above marble zone struggle";
+var mnemonic = "dwarf mansion clutch awake pair crowd feed vast master fuel dizzy wait";

@@ -1,1 +1,1 @@
-var mnemonic = "estate add bag poem ostrich stuff achieve spring output kind arch caught";
+var mnemonic = "cash people proud ranch blur shield fuel sign ocean render code surge";

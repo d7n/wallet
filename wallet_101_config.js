@@ -1,1 +1,1 @@
-var mnemonic = "because spot plate grain update silent client gym chicken game spray domain";
+var mnemonic = "hope fix address bonus joke network second half crumble furnace stable water";

@@ -1,1 +1,1 @@
-var mnemonic = "term divert rural payment cruise offer sure ticket leopard surge ladder result";
+var mnemonic = "second knee federal giant bread label reduce heavy pigeon pumpkin please rug";

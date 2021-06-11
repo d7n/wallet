@@ -1,1 +1,1 @@
-var mnemonic = "syrup crunch envelope stuff minute aerobic grocery diagram man shield wrong pulse";
+var mnemonic = "weasel hat milk collect exact kind critic radar uncover confirm kit solution";

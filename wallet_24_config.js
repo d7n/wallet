@@ -1,1 +1,1 @@
-var mnemonic = "ripple luggage weather mistake random guide pattern news yard wall flock abandon";
+var mnemonic = "yellow pretty prize guide elder search maximum stock unlock warfare similar zero";

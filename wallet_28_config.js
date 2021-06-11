@@ -1,1 +1,1 @@
-var mnemonic = "leave victory keep swing arm web simple slab zone coyote coral immense";
+var mnemonic = "potato festival equip expose auction any future hat enrich follow kidney borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel upper nuclear alien cash torch try pilot misery small mobile chunk";
+var mnemonic = "month thunder mercy trend cinnamon slab depth pave ring absent crazy enact";

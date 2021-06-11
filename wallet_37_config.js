@@ -1,1 +1,1 @@
-var mnemonic = "fetch speed fringe loop swim allow hello retire divide fish select awkward";
+var mnemonic = "high drama hover afford pencil hobby height oval federal engine cabin figure";

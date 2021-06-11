@@ -1,1 +1,1 @@
-var mnemonic = "entire shell beauty trip cupboard erupt aunt cream duty buffalo nest caught";
+var mnemonic = "brick future glance conduct inform margin someone pioneer black series heart divide";

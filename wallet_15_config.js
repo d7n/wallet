@@ -1,1 +1,1 @@
-var mnemonic = "local captain bright seven brown found grief label suggest now vague gate";
+var mnemonic = "shoe word tobacco crew nature vital jewel hobby tape potato about tray";

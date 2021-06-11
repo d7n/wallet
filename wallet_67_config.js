@@ -1,1 +1,1 @@
-var mnemonic = "switch lumber unique scan salad east butter park skirt outdoor sick salon";
+var mnemonic = "rural spice auction grid present tail goat loop tomorrow whale tortoise gun";

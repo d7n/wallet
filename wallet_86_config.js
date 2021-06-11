@@ -1,1 +1,1 @@
-var mnemonic = "fetch media annual wood dismiss diary pond about twelve donate essence runway";
+var mnemonic = "scheme vanish allow army decade capable decide opinion update cost ability world";

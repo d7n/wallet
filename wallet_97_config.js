@@ -1,1 +1,1 @@
-var mnemonic = "purity secret common fix kingdom gloom property either ten tuition staff inhale";
+var mnemonic = "fee estate hood emerge journey crowd cricket genuine ladder impact cross license";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor horn come stuff slam action impulse use thumb dial sport desk";
+var mnemonic = "online caution mind click found buyer roast camera blame solution amateur educate";

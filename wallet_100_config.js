@@ -1,1 +1,1 @@
-var mnemonic = "stomach honey long burst eye vivid reveal pencil fire fix bulb blossom";
+var mnemonic = "gesture recall member width curious charge attitude fury gorilla garage oil drastic";

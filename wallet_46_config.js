@@ -1,1 +1,1 @@
-var mnemonic = "sing impulse dial bus scan secret describe gallery initial deposit push sketch";
+var mnemonic = "dial calm tobacco retreat amused claim index scout topple city lady stock";

@@ -1,1 +1,1 @@
-var mnemonic = "seed sheriff bomb icon man torch problem feed breeze grow spring jump";
+var mnemonic = "liquid quarter indicate sound remember youth knife poet scheme heavy jealous salmon";

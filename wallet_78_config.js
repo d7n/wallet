@@ -1,1 +1,1 @@
-var mnemonic = "decrease purse owner brother author identify worth innocent insect poet select poem";
+var mnemonic = "chimney donate trust planet poverty property spider foster young believe pear wall";

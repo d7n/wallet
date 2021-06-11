@@ -1,1 +1,1 @@
-var mnemonic = "depend shoe job view cat empower special carbon duty filter abuse frown";
+var mnemonic = "ridge vacant forum unable resource forum season thing debris rail walk absorb";

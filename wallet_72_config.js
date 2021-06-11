@@ -1,1 +1,1 @@
-var mnemonic = "honey ivory raw wealth table charge good plug device scene advice melody";
+var mnemonic = "begin crew more review bone syrup shadow observe brick rabbit try hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic boost debate soldier pass core pyramid plug illness venture obvious tattoo";
+var mnemonic = "lend rain poet bind poem soccer snow fitness armed super obvious spike";

@@ -1,1 +1,1 @@
-var mnemonic = "other setup torch piano plate train access grow sea achieve country clip";
+var mnemonic = "grit deputy blush arrive imitate vital alter rely viable toddler region antenna";

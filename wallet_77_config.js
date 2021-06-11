@@ -1,1 +1,1 @@
-var mnemonic = "shoe cart jump glide worth speak legend radar vehicle food slender dinosaur";
+var mnemonic = "live rate dose possible hand taste van security pistol sorry large trade";

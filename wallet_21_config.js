@@ -1,1 +1,1 @@
-var mnemonic = "rural master trap lunar fluid eyebrow violin flash wrap situate depth rather";
+var mnemonic = "electric garage injury view aim robust siege begin wage trend slow dutch";

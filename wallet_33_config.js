@@ -1,1 +1,1 @@
-var mnemonic = "major almost stumble pattern carry federal wash route garment table candy leader";
+var mnemonic = "embody true mesh lucky early have alley flat hire honey story cement";

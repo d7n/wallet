@@ -1,1 +1,1 @@
-var mnemonic = "fall disorder myth source erode practice hire become lucky fame series rough";
+var mnemonic = "crisp wrong slight length photo dumb spawn whip stand help yellow chair";

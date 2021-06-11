@@ -1,1 +1,1 @@
-var mnemonic = "arrow tooth carbon shrug struggle belt collect voice dawn cave nature shock";
+var mnemonic = "clip always sport violin logic hunt sing jump that stay avoid blossom";

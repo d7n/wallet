@@ -1,1 +1,1 @@
-var mnemonic = "slight such weapon town off desk nest absorb scale cruel bind cotton";
+var mnemonic = "perfect congress concert course ribbon leave lizard foil impulse warm net twist";

@@ -1,1 +1,1 @@
-var mnemonic = "flock purchase boy random buyer pupil feel marriage wrap despair nature liberty";
+var mnemonic = "bleak language half question wet hour inflict wash bitter inflict kitten pear";

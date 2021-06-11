@@ -1,1 +1,1 @@
-var mnemonic = "tip pledge ordinary balcony adult better wave clutch inject hollow vehicle offer";
+var mnemonic = "access trick fox swap mother minimum friend supply ski rich sad load";

@@ -1,1 +1,1 @@
-var mnemonic = "phone problem silver orbit meat grocery bring tail clump barrel embark oval";
+var mnemonic = "push rapid boy stereo thumb action immune aspect clean dial pelican pet";

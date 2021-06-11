@@ -1,1 +1,1 @@
-var mnemonic = "glove bright rural admit already salon spell dirt keen word rate scissors";
+var mnemonic = "identify knee ghost crane raw slot year aunt position sorry trend chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "face cash essay rabbit hospital torch prefer three this toss happy all";
+var mnemonic = "rent point obscure inch kite staff style day anger ensure blur maple";

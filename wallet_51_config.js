@@ -1,1 +1,1 @@
-var mnemonic = "air leader armor young include student holiday comic nose sunset much shiver";
+var mnemonic = "finish welcome truly crunch unfold panel mail else sudden light gesture depend";

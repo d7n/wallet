@@ -1,1 +1,1 @@
-var mnemonic = "window deliver all disease shrug season can over damage bridge card deal";
+var mnemonic = "change economy party gadget height tomato tonight into dry love fashion gasp";

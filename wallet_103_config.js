@@ -1,1 +1,1 @@
-var mnemonic = "lava palm notice inmate wave minimum bacon sound luxury track despair allow";
+var mnemonic = "acoustic old cup possible utility daring nothing pitch idea deal own squeeze";

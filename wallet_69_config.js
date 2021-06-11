@@ -1,1 +1,1 @@
-var mnemonic = "outdoor prevent assault purchase pepper address advice joke insane fever march coach";
+var mnemonic = "poverty maple guess put smart attitude loan coil bind resemble orient narrow";

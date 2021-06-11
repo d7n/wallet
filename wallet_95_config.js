@@ -1,1 +1,1 @@
-var mnemonic = "remain enlist tuna unable organ version strong blue evolve style guitar oval";
+var mnemonic = "actress hamster evoke decide display angry retire ask stable husband charge sleep";

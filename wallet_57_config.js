@@ -1,1 +1,1 @@
-var mnemonic = "wash coil eagle subway lucky stumble they wet trade flee inject funny";
+var mnemonic = "mean kid canvas leisure final funny private basket flame want primary welcome";

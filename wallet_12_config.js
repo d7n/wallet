@@ -1,1 +1,1 @@
-var mnemonic = "twelve melt cancel anxiety online final dirt uncover slot already raw say";
+var mnemonic = "scheme symbol oval kingdom empower combine meadow relax video gather figure crawl";

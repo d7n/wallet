@@ -1,1 +1,1 @@
-var mnemonic = "pride motor inform segment frozen flee nominee almost swift tenant domain clump";
+var mnemonic = "say another fee strategy member loud faith fuel foam cattle toe absent";

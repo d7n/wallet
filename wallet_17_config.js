@@ -1,1 +1,1 @@
-var mnemonic = "column require page slam prison grab weather spread fold abandon reform divert";
+var mnemonic = "sail off laundry age virus daughter bind gauge manage sort drastic fatigue";

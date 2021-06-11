@@ -1,1 +1,1 @@
-var mnemonic = "swap false paper cluster mistake gospel damp obvious idle doctor napkin opera";
+var mnemonic = "essay crush cradle essence trade define salute mosquito eight session slot sponsor";

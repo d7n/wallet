@@ -1,1 +1,1 @@
-var mnemonic = "exact conduct spoon license avoid dish loud gym enable police oak rate";
+var mnemonic = "protect pretty range pass muffin hazard strike horn army bracket motion twist";

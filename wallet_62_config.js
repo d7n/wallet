@@ -1,1 +1,1 @@
-var mnemonic = "jar must quote load excite lecture frozen copy try crumble appear reform";
+var mnemonic = "seat rigid angry excuse lecture depart song avoid ten zone father toe";

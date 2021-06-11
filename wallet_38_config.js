@@ -1,1 +1,1 @@
-var mnemonic = "enroll skill shaft blast wonder insane snow next web scheme clay depth";
+var mnemonic = "yellow gown since nature echo hero arctic novel stomach laugh behave egg";

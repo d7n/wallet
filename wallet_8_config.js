@@ -1,1 +1,1 @@
-var mnemonic = "eight destroy hope comfort sketch slogan shuffle kitten diamond obey doll grab";
+var mnemonic = "exist rotate feature skirt deliver square become rich parrot already suspect crime";

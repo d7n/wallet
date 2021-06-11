@@ -1,1 +1,1 @@
-var mnemonic = "end prison lion ladder mass hire amount parent filter gospel dynamic draw";
+var mnemonic = "mobile reopen frozen general agree machine boss canyon tonight obey monkey pony";

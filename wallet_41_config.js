@@ -1,1 +1,1 @@
-var mnemonic = "film dance flee weapon uphold train debate calm offer inform unknown glide";
+var mnemonic = "yard truly oppose maximum now true suspect gentle give lab enrich file";

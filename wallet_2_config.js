@@ -1,1 +1,1 @@
-var mnemonic = "fall connect drama enable describe keep all deer way stock lecture now";
+var mnemonic = "sick verify bamboo cotton have response zero empty decorate trigger nuclear interest";

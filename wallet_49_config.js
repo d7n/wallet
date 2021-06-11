@@ -1,1 +1,1 @@
-var mnemonic = "spike install pear federal hub pink already minimum deer trial relax kind";
+var mnemonic = "worth depend fiber reduce volcano brown million wish strike elephant coast pull";

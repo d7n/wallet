@@ -1,1 +1,1 @@
-var mnemonic = "barely damage glide check flat never key rural purity fish filter volume";
+var mnemonic = "surprise empty around fold inform couple betray nose antenna oxygen fault couple";

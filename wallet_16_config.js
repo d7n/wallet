@@ -1,1 +1,1 @@
-var mnemonic = "trash board video insane ticket boring shuffle melody return stock beauty layer";
+var mnemonic = "stamp merit rubber acquire survey boss adult dove siege piano fire weird";

@@ -1,1 +1,1 @@
-var mnemonic = "column image planet banner field town eager broom taxi name drift summer";
+var mnemonic = "legend snake general sock bottom siren sing space ripple visit width mystery";

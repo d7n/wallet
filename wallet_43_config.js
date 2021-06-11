@@ -1,1 +1,1 @@
-var mnemonic = "dial night blind midnight spring average sad oak animal cigar doll cook";
+var mnemonic = "crawl february dawn neither success during ticket oval crumble boring dignity sugar";

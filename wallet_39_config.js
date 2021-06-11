@@ -1,1 +1,1 @@
-var mnemonic = "duty album curve mass believe release tenant crater gloom attract mother raven";
+var mnemonic = "mixed venture borrow furnace regular game venture sorry apology invest unit invest";

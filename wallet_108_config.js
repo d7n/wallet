@@ -1,1 +1,1 @@
-var mnemonic = "bubble metal buddy birth fog wrestle erosion outside powder rebel fruit essay";
+var mnemonic = "poem erode kiwi unlock multiply awesome dune mushroom cabin pattern choice husband";

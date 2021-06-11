@@ -1,1 +1,1 @@
-var mnemonic = "ramp pass recipe you match holiday merit bamboo purse hard gain require";
+var mnemonic = "spray taxi couch abstract tube ship pride faculty wave neither solution erupt";

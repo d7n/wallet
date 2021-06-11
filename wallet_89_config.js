@@ -1,1 +1,1 @@
-var mnemonic = "lobster weapon upper fresh suffer shrimp flame scare plug jungle inherit trigger";
+var mnemonic = "chunk female swap city rain tired motion position family erase orient joke";

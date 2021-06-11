@@ -1,1 +1,1 @@
-var mnemonic = "rice mention nominee draw empower effort carpet senior again bottom eyebrow alert";
+var mnemonic = "stage flat dose balance minimum brisk woman track dice dry mesh unlock";

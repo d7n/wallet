@@ -1,1 +1,1 @@
-var mnemonic = "report infant loan goose collect library course pioneer elder rain bunker route";
+var mnemonic = "usage spot hand admit also face south message dynamic nation pattern any";

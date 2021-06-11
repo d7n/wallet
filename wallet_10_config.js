@@ -1,1 +1,1 @@
-var mnemonic = "loud clever scatter once various first harvest dinner topple faint company gadget";
+var mnemonic = "jealous tell wise salad work exact donkey vote winner mail ancient soda";

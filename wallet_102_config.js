@@ -1,1 +1,1 @@
-var mnemonic = "ordinary crouch jazz vendor hotel hire uniform crush sand address oval luxury";
+var mnemonic = "close black affair arch outside hamster desert comfort sell believe virtual possible";

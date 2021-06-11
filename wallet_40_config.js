@@ -1,1 +1,1 @@
-var mnemonic = "canal frog pelican turkey total laundry track spider what around excuse abstract";
+var mnemonic = "planet slot crop still course poverty hurt flash hire apart example suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "tree change amazing cute olympic orphan denial father dinosaur trim antique involve";
+var mnemonic = "slot noodle mind flag gasp alert electric erode project moment model amazing";

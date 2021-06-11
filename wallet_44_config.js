@@ -1,1 +1,1 @@
-var mnemonic = "age utility worth custom stable pitch ensure exercise furnace canal gospel exit";
+var mnemonic = "kingdom enter trade green citizen noise ridge noble together zebra wealth comic";

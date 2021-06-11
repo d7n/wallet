@@ -1,1 +1,1 @@
-var mnemonic = "liquid boat typical board hello wisdom move taste elder mail mad ocean";
+var mnemonic = "drop claw zone shift obvious front over dial sure horror sure labor";
