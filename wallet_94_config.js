@@ -1,1 +1,1 @@
-var mnemonic = "shell reunion midnight reason scissors round spoil forward exchange current term episode";
+var mnemonic = "spot install situate juice curtain lemon cool giraffe rebuild eternal direct chronic";

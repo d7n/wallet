@@ -1,1 +1,1 @@
-var mnemonic = "wrong near health blush wild pledge crunch desert confirm divide curtain ritual";
+var mnemonic = "smoke jacket business fiber naive notice best path nation tribe expand inherit";

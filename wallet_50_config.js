@@ -1,1 +1,1 @@
-var mnemonic = "sniff flag tissue moment final excite direct decorate traffic rib now step";
+var mnemonic = "tiger injury bottom mimic replace damage wheel ready present unaware pool vault";

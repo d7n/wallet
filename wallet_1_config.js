@@ -1,1 +1,1 @@
-var mnemonic = "shell tool maid devote skate glare cake great vault hint luggage action";
+var mnemonic = "gate fluid immense click west rally actor wealth jacket gesture cream pull";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney grab exchange jeans vault comfort pudding vocal tattoo three foam people";
+var mnemonic = "cloud matrix once sense voyage champion visit milk quality match repeat gospel";

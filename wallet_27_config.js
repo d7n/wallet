@@ -1,1 +1,1 @@
-var mnemonic = "emotion oyster maze crew charge upon scan arctic boost duty into burger";
+var mnemonic = "margin hurt feature kid auction staff love jungle quit embrace race cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "require unit moral salute fiction match hire stage half mouse domain trip";
+var mnemonic = "silver venue light dress indicate about grid purpose rival canvas lounge private";

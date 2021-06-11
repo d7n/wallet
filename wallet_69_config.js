@@ -1,1 +1,1 @@
-var mnemonic = "doll crash south wait delay also west flee plug glass wedding silly";
+var mnemonic = "seek staff humble glove sight insect joy ball skill ill myself kiss";

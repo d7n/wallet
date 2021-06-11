@@ -1,1 +1,1 @@
-var mnemonic = "favorite birth devote ecology scrub humble save burst taste faculty hedgehog urge";
+var mnemonic = "dish admit canyon dilemma case broken scale solution awesome opera combine market";

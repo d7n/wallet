@@ -1,1 +1,1 @@
-var mnemonic = "region diet ancient fruit camera require two scale frog once scare valid";
+var mnemonic = "magnet ill icon coral enjoy broom cement tuition fee nasty sock capital";

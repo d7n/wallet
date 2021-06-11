@@ -1,1 +1,1 @@
-var mnemonic = "pig crack notable treat library yellow piano orange crucial wash glance auction";
+var mnemonic = "kingdom leopard frozen fresh yellow job office hub flavor cheap alcohol pencil";

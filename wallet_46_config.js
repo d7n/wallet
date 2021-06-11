@@ -1,1 +1,1 @@
-var mnemonic = "grain toddler screen student walnut update crisp produce humble tourist tray unaware";
+var mnemonic = "kick oppose jazz explain replace wagon debate plunge arrive verify portion mango";

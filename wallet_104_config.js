@@ -1,1 +1,1 @@
-var mnemonic = "measure educate game green address arctic topic enrich upset duck youth awful";
+var mnemonic = "three empty know remove display supreme east average swarm trigger enable sister";

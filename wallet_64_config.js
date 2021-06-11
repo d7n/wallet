@@ -1,1 +1,1 @@
-var mnemonic = "actual wasp elder panel weasel enhance gloom obtain motor river already state";
+var mnemonic = "cross goat because casino squeeze gossip toddler insect mansion school vote metal";

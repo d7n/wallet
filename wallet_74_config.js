@@ -1,1 +1,1 @@
-var mnemonic = "slice delay copy mail labor odor medal poet cruise unlock lens insane";
+var mnemonic = "ranch advice also chair physical device oblige ankle give panda rigid frog";

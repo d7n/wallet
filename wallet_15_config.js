@@ -1,1 +1,1 @@
-var mnemonic = "resist network penalty guide woman daring already amateur brush act inch hood";
+var mnemonic = "amazing coconut favorite protect ticket eagle oblige rude reunion border all wisdom";

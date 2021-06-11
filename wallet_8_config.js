@@ -1,1 +1,1 @@
-var mnemonic = "spring sniff guide shuffle embody forward target draw conduct push timber space";
+var mnemonic = "inside engage opinion pave blanket rapid bitter final pottery manage already dizzy";

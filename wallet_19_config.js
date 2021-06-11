@@ -1,1 +1,1 @@
-var mnemonic = "chase gaze morning sock mention weird oppose drum infant roof pudding trim";
+var mnemonic = "receive face team tongue first cave skirt laugh item verb heart donor";

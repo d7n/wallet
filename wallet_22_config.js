@@ -1,1 +1,1 @@
-var mnemonic = "assist brass embody mass upset coin inject entry shy when piano suit";
+var mnemonic = "fold mail silk cupboard door harvest evoke guitar universe toilet fatigue ramp";

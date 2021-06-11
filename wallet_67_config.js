@@ -1,1 +1,1 @@
-var mnemonic = "tornado pool spot recipe skin elite want meat enrich flat wonder shoe";
+var mnemonic = "scrub soccer voice vital arrange mystery effort cake detail fox spawn knee";

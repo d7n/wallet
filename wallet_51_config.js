@@ -1,1 +1,1 @@
-var mnemonic = "hat network exercise wait guide leader shadow sphere again treat bid better";
+var mnemonic = "hundred sunny margin cloth curve believe liar plug airport vital pause bicycle";

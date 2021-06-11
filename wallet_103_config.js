@@ -1,1 +1,1 @@
-var mnemonic = "pony same group then tennis month about fantasy sand swim exclude rival";
+var mnemonic = "addict dice annual primary antenna tube family believe turtle correct detail confirm";

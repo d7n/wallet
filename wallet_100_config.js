@@ -1,1 +1,1 @@
-var mnemonic = "fatigue wink satoshi unhappy dwarf kite fantasy tilt grief afraid duty critic";
+var mnemonic = "inside chuckle stone mix antique shallow cloud jaguar bonus remain village dust";

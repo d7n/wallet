@@ -1,1 +1,1 @@
-var mnemonic = "limb stick degree clip material obtain private clinic clock diesel burger whale";
+var mnemonic = "bronze warrior letter insect lounge craft shop razor pole betray party cinnamon";

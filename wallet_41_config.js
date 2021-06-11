@@ -1,1 +1,1 @@
-var mnemonic = "pink mother flag have evolve blue evidence off torch giant you title";
+var mnemonic = "faint race detect sail party oxygen light wine hollow vacuum ghost rent";

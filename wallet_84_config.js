@@ -1,1 +1,1 @@
-var mnemonic = "dwarf blanket drastic lawn junk original coil between planet icon crater fade";
+var mnemonic = "venture mercy plug nation broom control canal engine shine artefact fury lyrics";

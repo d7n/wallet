@@ -1,1 +1,1 @@
-var mnemonic = "health item square help shiver admit useful piano betray seminar catalog hybrid";
+var mnemonic = "dial recipe prosper put demand lemon century stuff rug dignity slogan already";

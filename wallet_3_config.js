@@ -1,1 +1,1 @@
-var mnemonic = "illness case away account pact midnight venture demise fabric design certain fish";
+var mnemonic = "castle indicate height sorry nephew erosion casino achieve need spot guess all";

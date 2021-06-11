@@ -1,1 +1,1 @@
-var mnemonic = "party sustain aunt jungle buddy follow step vault speak secret local bone";
+var mnemonic = "major such rent similar kangaroo clump glimpse shine much question during rug";

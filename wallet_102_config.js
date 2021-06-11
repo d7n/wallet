@@ -1,1 +1,1 @@
-var mnemonic = "wheat order maple electric shoe verb employ island bomb discover kitten demise";
+var mnemonic = "foster cousin perfect document wide innocent witness safe icon normal drip puzzle";

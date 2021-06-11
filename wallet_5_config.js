@@ -1,1 +1,1 @@
-var mnemonic = "pledge want observe over twist cricket holiday planet earth gap survey style";
+var mnemonic = "flag fragile early glow usual jump major market bleak office cherry focus";

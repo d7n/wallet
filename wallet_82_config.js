@@ -1,1 +1,1 @@
-var mnemonic = "staff radio vague alien priority slam fun evoke yard flower glide enemy";
+var mnemonic = "tuna worth cluster retreat sea alarm boring plunge rebuild blossom decrease south";

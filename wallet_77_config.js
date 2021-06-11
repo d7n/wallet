@@ -1,1 +1,1 @@
-var mnemonic = "urge abandon title elegant labor remove crash square video mention salon obey";
+var mnemonic = "improve anger senior glove battle sense suspect slab release tiny veteran sound";

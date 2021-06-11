@@ -1,1 +1,1 @@
-var mnemonic = "resist pear visa story own mandate spike nominee recycle smooth rich hope";
+var mnemonic = "traffic exit kick recycle float unveil hard shop very pet best orange";

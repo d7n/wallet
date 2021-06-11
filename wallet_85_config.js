@@ -1,1 +1,1 @@
-var mnemonic = "anchor emerge glove basic culture gas assume lion science provide excuse pitch";
+var mnemonic = "barrel correct decrease prize winner flame danger bench penalty claim length bamboo";

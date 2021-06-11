@@ -1,1 +1,1 @@
-var mnemonic = "obvious they front weather diary web cloth range seek health sign decade";
+var mnemonic = "weasel below session vacant east power dizzy involve canyon news endless invest";

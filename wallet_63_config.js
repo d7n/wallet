@@ -1,1 +1,1 @@
-var mnemonic = "notice lazy urban bachelor risk very calm random alcohol bubble divorce stadium";
+var mnemonic = "orange mix maze that plate surge focus denial target derive practice flock";

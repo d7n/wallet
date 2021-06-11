@@ -1,1 +1,1 @@
-var mnemonic = "kingdom arena lend expose message atom renew member reunion peace screen judge";
+var mnemonic = "cover income home cement tomorrow guess grunt road vague essence country educate";

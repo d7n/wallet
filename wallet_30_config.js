@@ -1,1 +1,1 @@
-var mnemonic = "robust ticket ranch smooth announce vehicle future physical monster feed demand chicken";
+var mnemonic = "student cave ripple rate idea deny curtain camera best toy twice absurd";

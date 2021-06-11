@@ -1,1 +1,1 @@
-var mnemonic = "rookie cake include that shop ketchup perfect nice tornado exotic core thank";
+var mnemonic = "same verb front roast capital blush lucky inspire oxygen stable celery increase";

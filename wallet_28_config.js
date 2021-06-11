@@ -1,1 +1,1 @@
-var mnemonic = "label mom author diagram easy master certain upon wait around wire topple";
+var mnemonic = "school uniform portion habit elevator notable raw bargain cement tumble ill speed";

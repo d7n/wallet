@@ -1,1 +1,1 @@
-var mnemonic = "coin december advance mesh nest float abandon blast puzzle alter breeze similar";
+var mnemonic = "dirt judge chair delay tragic kangaroo artist exchange topic believe canoe drama";

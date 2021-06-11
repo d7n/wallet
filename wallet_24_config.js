@@ -1,1 +1,1 @@
-var mnemonic = "vapor axis fragile west saddle zoo width address knife leg crunch chest";
+var mnemonic = "decline praise federal month various antique say gap artefact shrimp nose need";

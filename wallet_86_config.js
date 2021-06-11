@@ -1,1 +1,1 @@
-var mnemonic = "patrol patch blind about ozone cook vocal famous wrap copper slice other";
+var mnemonic = "cake fiscal wish short spawn weekend cushion coyote smooth other husband pitch";

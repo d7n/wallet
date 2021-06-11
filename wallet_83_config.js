@@ -1,1 +1,1 @@
-var mnemonic = "long large enlist smoke over various egg scene guilt slush father position";
+var mnemonic = "expire grant student expect arch glove rib arch hurdle average cage prevent";

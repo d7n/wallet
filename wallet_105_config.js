@@ -1,1 +1,1 @@
-var mnemonic = "guard master toast piece spare lunar fringe engage upon history satisfy tip";
+var mnemonic = "peasant angle depth rather arrest person critic excuse banana unique side lamp";

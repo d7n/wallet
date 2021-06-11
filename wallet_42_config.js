@@ -1,1 +1,1 @@
-var mnemonic = "top end bar ensure fall below shoe memory slow engage supreme ridge";
+var mnemonic = "true cushion renew wish say throw ski once hockey senior tribe obtain";

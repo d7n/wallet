@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow snap grape grace lens bargain cradle rebel open else seed dog";
+var mnemonic = "mutual post lucky ability connect curtain youth fashion then alien script deer";

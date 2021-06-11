@@ -1,1 +1,1 @@
-var mnemonic = "garment talk snake traffic copper forward describe render ivory renew embody quote";
+var mnemonic = "run detail person jaguar drastic sister whale once blast long icon skin";

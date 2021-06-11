@@ -1,1 +1,1 @@
-var mnemonic = "online load unique vibrant seed door arm wife dinner era young wife";
+var mnemonic = "gesture fragile dress lens trouble stable april field outdoor wide swap erosion";

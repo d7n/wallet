@@ -1,1 +1,1 @@
-var mnemonic = "amused dune math pupil offer shrimp black love lecture pulse bottom face";
+var mnemonic = "sugar desert sleep transfer chalk timber bag whisper thing sibling laundry salt";

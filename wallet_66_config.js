@@ -1,1 +1,1 @@
-var mnemonic = "potato mutual rose north oak suit decade file rescue stool benefit warfare";
+var mnemonic = "pig strike mosquito aunt stage spawn chicken unfold submit between service banner";

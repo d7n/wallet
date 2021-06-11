@@ -1,1 +1,1 @@
-var mnemonic = "soon magic myself work wait cushion fine chalk canyon title reform orbit";
+var mnemonic = "coffee soul key web wash grab slim spy globe film gorilla jar";

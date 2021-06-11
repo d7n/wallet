@@ -1,1 +1,1 @@
-var mnemonic = "stone tomorrow foot exotic save slot inside copy zebra horror height video";
+var mnemonic = "width indicate movie omit place grid addict pigeon dance common reopen middle";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy replace worth negative shrimp emotion reflect dirt private give puppy fade";
+var mnemonic = "witness spawn amazing insect comic language define aware palace garment heavy later";

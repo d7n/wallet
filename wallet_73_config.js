@@ -1,1 +1,1 @@
-var mnemonic = "buyer nose again first diary unit twenty mirror beef buffalo brick typical";
+var mnemonic = "good village furnace leader silver weapon cool fragile october leopard mobile erode";

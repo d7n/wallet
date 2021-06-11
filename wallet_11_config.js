@@ -1,1 +1,1 @@
-var mnemonic = "boy local spatial skate main home road steel actor pond address armed";
+var mnemonic = "obscure voyage patch fox ring print clutch rural one rubber multiply gorilla";

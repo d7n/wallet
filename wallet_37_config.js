@@ -1,1 +1,1 @@
-var mnemonic = "viable track crunch decade liquid tower include hello slam carbon critic spread";
+var mnemonic = "mimic slice calm speak unlock similar correct other model ill bread initial";

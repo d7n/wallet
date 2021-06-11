@@ -1,1 +1,1 @@
-var mnemonic = "buzz timber guilt grass marriage bracket weird garment economy purpose whisper spoon";
+var mnemonic = "perfect interest miracle base much sugar rate exercise wealth always chimney skirt";

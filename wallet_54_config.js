@@ -1,1 +1,1 @@
-var mnemonic = "math situate mercy forget economy payment pave million hobby hover scrap urban";
+var mnemonic = "slight drastic any sight biology attend polar radar text deal outdoor rabbit";

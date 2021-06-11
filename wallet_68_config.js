@@ -1,1 +1,1 @@
-var mnemonic = "extra valley prison spatial liberty cash angle cherry twist enough visual rabbit";
+var mnemonic = "duty love mixed theme column era shadow engage make group number into";

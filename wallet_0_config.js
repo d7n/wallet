@@ -1,1 +1,1 @@
-var mnemonic = "swear library violin lemon parrot loop glimpse forward benefit ice cram whip";
+var mnemonic = "just daring material silly vacant mobile struggle discover casual test sunset act";

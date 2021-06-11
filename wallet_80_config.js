@@ -1,1 +1,1 @@
-var mnemonic = "wrestle this breeze crop social rifle deposit report duck afraid artwork liberty";
+var mnemonic = "what left regular benefit current south boy ill surge lunar business arm";

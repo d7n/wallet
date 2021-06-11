@@ -1,1 +1,1 @@
-var mnemonic = "forum drastic arrange entry tissue major lion price vintage rapid champion board";
+var mnemonic = "mom spirit celery shoot entry lava license swim tank auto negative wire";

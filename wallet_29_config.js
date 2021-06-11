@@ -1,1 +1,1 @@
-var mnemonic = "alter current gasp marine put snow mirror wolf spawn invest still phrase";
+var mnemonic = "trip negative final verify episode ivory network cargo coyote position win rent";

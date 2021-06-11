@@ -1,1 +1,1 @@
-var mnemonic = "session clutch sauce priority explain friend fatigue shy worth crawl pioneer ill";
+var mnemonic = "hope lake wise glow object wood prefer true document plunge loop cage";

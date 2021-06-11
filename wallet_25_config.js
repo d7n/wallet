@@ -1,1 +1,1 @@
-var mnemonic = "dress blush select announce spawn mandate pudding trick wasp grace brown antique";
+var mnemonic = "negative delay quantum aunt leader cave grief pitch icon asthma enforce actor";

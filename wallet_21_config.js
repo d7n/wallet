@@ -1,1 +1,1 @@
-var mnemonic = "snake blossom emotion inquiry output future basket pledge monitor fever escape half";
+var mnemonic = "morning sort square enroll first dad echo zebra result brush credit aerobic";

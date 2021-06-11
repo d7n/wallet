@@ -1,1 +1,1 @@
-var mnemonic = "hurt much puzzle risk public clutch confirm work style math loyal lion";
+var mnemonic = "end forward plunge aunt ivory little naive fish nice easily pistol conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz glory catalog vote couple gown certain roast lucky crime edit category";
+var mnemonic = "ladder fossil clap student cheese tongue evil reveal angle inside faith sphere";

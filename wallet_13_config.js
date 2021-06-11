@@ -1,1 +1,1 @@
-var mnemonic = "female secret snack million cousin symbol cute valley vessel economy solid cradle";
+var mnemonic = "mystery guitar twice swim tube acoustic dawn vivid fan curtain deny fatigue";

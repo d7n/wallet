@@ -1,1 +1,1 @@
-var mnemonic = "frost jar utility silent when mobile trash pink now undo exist slim";
+var mnemonic = "valley wide exact federal carry shuffle foster link arctic happy ankle skull";

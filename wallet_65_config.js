@@ -1,1 +1,1 @@
-var mnemonic = "pony juice mother issue galaxy update online stumble section exit trend remember";
+var mnemonic = "inside trip wolf wedding cargo squeeze indicate post strong pyramid plunge limb";

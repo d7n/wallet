@@ -1,1 +1,1 @@
-var mnemonic = "ability include forum deputy present subway alter floor mule bundle bounce domain";
+var mnemonic = "worry manage denial trouble language home short moment decline school other lyrics";

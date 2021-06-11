@@ -1,1 +1,1 @@
-var mnemonic = "guess neither coyote name fork hospital lawn anxiety test tell special fly";
+var mnemonic = "blade relax lend endorse festival cram when only fantasy vicious initial fabric";

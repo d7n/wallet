@@ -1,1 +1,1 @@
-var mnemonic = "envelope tribe people become wire candy please ketchup outer rapid certain funny";
+var mnemonic = "similar federal skull gloom hub mention orange father know flat play attract";

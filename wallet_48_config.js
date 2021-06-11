@@ -1,1 +1,1 @@
-var mnemonic = "shoe memory staff hero educate portion drastic rhythm measure monkey hill public";
+var mnemonic = "noble entry polar photo enemy provide junior flat parade pulp flush example";

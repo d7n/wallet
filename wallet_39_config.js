@@ -1,1 +1,1 @@
-var mnemonic = "staff reform element chapter force scout garment eagle crazy awkward edge symptom";
+var mnemonic = "rug core shiver spice shiver task peasant fringe cotton pink cotton pink";

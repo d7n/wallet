@@ -1,1 +1,1 @@
-var mnemonic = "ecology agent novel shine bachelor salt inform skate ignore twelve electric wide";
+var mnemonic = "sunny record page intact hard laundry retreat appear field shy quit void";

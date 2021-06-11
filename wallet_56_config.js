@@ -1,1 +1,1 @@
-var mnemonic = "spell forget pepper bounce control aspect opinion eight exercise topple lobster clown";
+var mnemonic = "tomato steak suffer drill grab hope off canal fiber imitate digital degree";

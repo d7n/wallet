@@ -1,1 +1,1 @@
-var mnemonic = "upset fossil into once jewel village island obscure salon picture reveal sister";
+var mnemonic = "rather wave pet wagon situate skill just athlete deposit issue border explain";

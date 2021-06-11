@@ -1,1 +1,1 @@
-var mnemonic = "assault floor slim manual clay slot warfare hub fiscal life seed favorite";
+var mnemonic = "average ranch famous tonight six loud churn fog step cruel alter depend";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal remain asthma expose satoshi you clever forward push then economy squeeze";
+var mnemonic = "idle absent black tenant blur fiction luxury purpose defense spare jungle where";

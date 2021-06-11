@@ -1,1 +1,1 @@
-var mnemonic = "rude feed that mesh cruise misery notice always scout dance slender grit";
+var mnemonic = "flower hour mule atom dignity beauty arctic decrease where cute spoon awkward";

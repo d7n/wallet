@@ -1,1 +1,1 @@
-var mnemonic = "hip nose inflict idle bulk hungry lumber sustain quantum derive inject cute";
+var mnemonic = "empower toilet polar assault video place ring become immune aerobic track deal";

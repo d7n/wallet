@@ -1,1 +1,1 @@
-var mnemonic = "renew admit stumble involve expect snow where agree loan knock drift raccoon";
+var mnemonic = "spike tenant copper source blood danger cluster barrel rule health bitter bar";

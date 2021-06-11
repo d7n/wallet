@@ -1,1 +1,1 @@
-var mnemonic = "pipe orange program rural gap proof trim moral purse liquid twin quantum";
+var mnemonic = "ride hub innocent brisk rail modify gold puppy trust test mistake ordinary";

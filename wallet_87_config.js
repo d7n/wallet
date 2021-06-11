@@ -1,1 +1,1 @@
-var mnemonic = "valley wrestle simple multiply lend observe fury cruel sausage nerve drift together";
+var mnemonic = "portion gossip skin frown crunch embody master jar write put march never";

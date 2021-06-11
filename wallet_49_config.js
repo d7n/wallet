@@ -1,1 +1,1 @@
-var mnemonic = "exhibit author celery shop pudding fall tower someone tower lucky regular twice";
+var mnemonic = "fever disease cram parade crash torch rescue sick extend brief horror sphere";

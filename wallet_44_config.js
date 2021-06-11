@@ -1,1 +1,1 @@
-var mnemonic = "panther royal asthma purchase arrange suit rail scene turkey section tuna risk";
+var mnemonic = "transfer device wagon series health ecology bag area vapor travel faint fancy";

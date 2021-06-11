@@ -1,1 +1,1 @@
-var mnemonic = "auction industry cash capital slab artwork elder hour seat brush protect struggle";
+var mnemonic = "close area impulse drill believe swift spatial okay animal gloom police like";

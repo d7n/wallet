@@ -1,1 +1,1 @@
-var mnemonic = "price mule capital trip clutch effort loan orbit mutual arrow injury cake";
+var mnemonic = "palace nature emerge educate essence street crop spray any grape live live";

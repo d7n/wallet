@@ -1,1 +1,1 @@
-var mnemonic = "moment february fabric album flee expose firm inform category sunny bicycle cable";
+var mnemonic = "ribbon ranch dinosaur agent present hover blossom choice there tornado fever leisure";

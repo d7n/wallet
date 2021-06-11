@@ -1,1 +1,1 @@
-var mnemonic = "knee absent hidden future few any festival antique decrease hold gun water";
+var mnemonic = "light diary very tuition luggage attitude aware decrease tiger fossil code account";

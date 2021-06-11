@@ -1,1 +1,1 @@
-var mnemonic = "document tonight wall twelve clever plug gather flight account quantum coconut duty";
+var mnemonic = "strike clutch joke island true hat ensure frost wet owner minute urge";

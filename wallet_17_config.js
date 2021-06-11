@@ -1,1 +1,1 @@
-var mnemonic = "obey insane bridge item innocent result physical price brick subway merit chimney";
+var mnemonic = "chef gaze among have price nurse tragic advice reflect bridge motion climb";
