@@ -1,1 +1,1 @@
-var mnemonic = "velvet protect hybrid card trigger stock nest scale chunk upgrade salute surface";
+var mnemonic = "gap ski solar pause repeat sunny sample bitter orphan wheel opera sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust hurry find talent whisper dwarf offer head state again urge roof";
+var mnemonic = "grocery weapon victory awake speed pyramid soft foil wrist chase salute join";

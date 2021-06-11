@@ -1,1 +1,1 @@
-var mnemonic = "inspire crash quarter express infant write concert ball number level cake hint";
+var mnemonic = "list coral village struggle notice main else stay present script smoke open";

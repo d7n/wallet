@@ -1,1 +1,1 @@
-var mnemonic = "smoke rapid witness voyage forget churn hundred play west stick equip dwarf";
+var mnemonic = "size right onion lift smoke expose habit window trust hat tissue broken";

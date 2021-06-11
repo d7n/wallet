@@ -1,1 +1,1 @@
-var mnemonic = "trophy pig wine fold garment diary recycle add elevator property useless bacon";
+var mnemonic = "prosper clarify outdoor fame sort tube kid define north lecture matter hotel";

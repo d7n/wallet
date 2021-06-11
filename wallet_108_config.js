@@ -1,1 +1,1 @@
-var mnemonic = "silk lobster matrix color autumn sunset drop flock phone crew east school";
+var mnemonic = "best build skate casino anxiety clump unhappy artefact fantasy steak ritual oppose";

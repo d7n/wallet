@@ -1,1 +1,1 @@
-var mnemonic = "similar kidney cave attend tip shock churn review screen churn drink coin";
+var mnemonic = "defy bonus enable honey occur divert silver dentist youth blast local office";

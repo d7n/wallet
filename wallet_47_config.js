@@ -1,1 +1,1 @@
-var mnemonic = "act enjoy disease change check honey broken penalty giggle chaos two unit";
+var mnemonic = "hard girl bring guess junior abstract uphold right oppose wise vital business";

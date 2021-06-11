@@ -1,1 +1,1 @@
-var mnemonic = "claw release noble rally year reopen travel turn peace require bridge can";
+var mnemonic = "method amused claim sorry detect grape van pottery asthma draw begin six";

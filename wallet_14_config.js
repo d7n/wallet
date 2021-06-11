@@ -1,1 +1,1 @@
-var mnemonic = "refuse motion can keen easily opera shaft yard lock basket treat fiber";
+var mnemonic = "crisp tunnel daring disease derive kiss option area wrist distance convince nest";

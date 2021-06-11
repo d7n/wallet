@@ -1,1 +1,1 @@
-var mnemonic = "oval follow connect crew eight all law nurse room knock fabric accuse";
+var mnemonic = "dash typical kick response benefit vehicle speed afraid crucial tissue garbage cage";

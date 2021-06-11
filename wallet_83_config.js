@@ -1,1 +1,1 @@
-var mnemonic = "wife helmet uphold food baby aisle supply bunker depart run crouch ahead";
+var mnemonic = "game baby lady drum august spy swing curtain various purpose cry panic";

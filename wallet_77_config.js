@@ -1,1 +1,1 @@
-var mnemonic = "voyage mansion staff swim ignore fade afraid immense amount cage manage crouch";
+var mnemonic = "corn exist fame depend hair cloth violin finish anxiety slab style hunt";

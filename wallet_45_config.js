@@ -1,1 +1,1 @@
-var mnemonic = "grit person knife fat choice tip flee ridge salmon violin alien lab";
+var mnemonic = "divide toss detail unaware furnace salon great hurdle toe cotton disorder genuine";

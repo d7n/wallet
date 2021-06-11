@@ -1,1 +1,1 @@
-var mnemonic = "another renew between laundry adult angle recipe review holiday raw asset dawn";
+var mnemonic = "short economy job drama marine duck culture extend rare rug sing crop";

@@ -1,1 +1,1 @@
-var mnemonic = "frost laundry cement fatal silver tattoo skirt satisfy rescue fine pelican invest";
+var mnemonic = "slam true digital hint drip until sugar genius hurry loan crowd lady";

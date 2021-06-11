@@ -1,1 +1,1 @@
-var mnemonic = "gadget betray like excite abandon rotate innocent process okay clinic love siren";
+var mnemonic = "vehicle episode music ahead fault grow trend tongue behind switch exit drill";

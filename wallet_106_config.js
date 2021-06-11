@@ -1,1 +1,1 @@
-var mnemonic = "absurd salute luggage assist rookie century various shoot minute boost hedgehog measure";
+var mnemonic = "wrist plug core leopard peanut steel shed talk female churn curve they";

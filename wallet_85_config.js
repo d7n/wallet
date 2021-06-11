@@ -1,1 +1,1 @@
-var mnemonic = "act science front verb addict gun unaware army document prize dress lucky";
+var mnemonic = "desert unfold ask predict evoke apology slot like elephant skate execute witness";

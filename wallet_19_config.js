@@ -1,1 +1,1 @@
-var mnemonic = "rally margin pig clerk service middle scare explain matter announce cotton trial";
+var mnemonic = "emerge actual make unable estate voyage subject token same wise law black";

@@ -1,1 +1,1 @@
-var mnemonic = "before enact waste hello want merry defense hat person claw pupil script";
+var mnemonic = "evil chair walk unknown sad remind skill smart absorb syrup cram earth";

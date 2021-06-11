@@ -1,1 +1,1 @@
-var mnemonic = "obtain message fold tonight call shed chaos shrug engage special broccoli select";
+var mnemonic = "select spin quality false audit village custom habit ramp valid verb patch";

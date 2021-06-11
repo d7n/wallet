@@ -1,1 +1,1 @@
-var mnemonic = "winter now gossip purity glide base sock high burden design metal cause";
+var mnemonic = "gadget swarm real clay task vendor cherry piece sense act afraid humor";

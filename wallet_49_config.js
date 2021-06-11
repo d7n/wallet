@@ -1,1 +1,1 @@
-var mnemonic = "claw taste digital give long media brisk shove real inmate april rescue";
+var mnemonic = "bundle boss repeat home idle boss join basic crew unveil onion arrow";

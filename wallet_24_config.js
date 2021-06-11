@@ -1,1 +1,1 @@
-var mnemonic = "ice mail help abstract foam way hamster ramp opinion sudden half unveil";
+var mnemonic = "palace rain hole verify host vessel eyebrow girl area miracle hint chalk";

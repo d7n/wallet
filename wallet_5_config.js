@@ -1,1 +1,1 @@
-var mnemonic = "mandate client story poet mention blossom pass universe wisdom buyer october duty";
+var mnemonic = "tongue hour copper little drop same awful march police barrel elevator across";

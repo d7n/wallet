@@ -1,1 +1,1 @@
-var mnemonic = "inject museum avoid glory sword course polar taxi rocket artist oil own";
+var mnemonic = "squeeze oblige firm elegant napkin poverty tell poverty buyer promote suffer focus";

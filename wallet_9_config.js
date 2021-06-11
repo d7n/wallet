@@ -1,1 +1,1 @@
-var mnemonic = "fiber brown devote actual sick visa bubble pony artist kidney guard angry";
+var mnemonic = "blouse income trial output minor imitate wheel wreck broccoli myself airport author";

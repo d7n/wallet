@@ -1,1 +1,1 @@
-var mnemonic = "stuff load asthma job stage bullet squirrel noise uphold flush height nice";
+var mnemonic = "disorder clump nose divide point ignore blue manage stay mean payment three";

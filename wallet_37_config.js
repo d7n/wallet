@@ -1,1 +1,1 @@
-var mnemonic = "question endorse street april range polar color unhappy high organ garbage tell";
+var mnemonic = "elegant whale across velvet fashion chef robot twice present decrease yard inner";

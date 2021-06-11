@@ -1,1 +1,1 @@
-var mnemonic = "ripple find vague shove pioneer satisfy consider truck keep unusual glimpse horse";
+var mnemonic = "hybrid club number heavy adult text ketchup adult legal huge brief open";

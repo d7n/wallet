@@ -1,1 +1,1 @@
-var mnemonic = "coach profit script crumble cup toddler lift dry pudding camera like lens";
+var mnemonic = "grow egg panic noble bike wet expect grocery cheap search confirm replace";

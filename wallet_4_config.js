@@ -1,1 +1,1 @@
-var mnemonic = "resemble tumble portion frozen gain antique stairs grass electric mirror science cart";
+var mnemonic = "gospel miracle engage offer moral easy shove lens panda position cabbage laptop";

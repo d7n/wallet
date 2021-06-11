@@ -1,1 +1,1 @@
-var mnemonic = "outside verb wolf board canoe learn august robust thunder office fan alert";
+var mnemonic = "tomato rough fame unknown dutch eight brush flip cupboard sure dash slim";

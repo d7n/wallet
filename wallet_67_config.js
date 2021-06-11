@@ -1,1 +1,1 @@
-var mnemonic = "denial floor excess deposit slow twenty fever forget holiday ski youth file";
+var mnemonic = "marriage holiday bundle enemy hammer decorate author bullet size theory lizard bus";

@@ -1,1 +1,1 @@
-var mnemonic = "blue love worth company ladder afford stone rebel busy valid exact renew";
+var mnemonic = "grunt talent survey strategy weather other pulp kit tuition good immense polar";

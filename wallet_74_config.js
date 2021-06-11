@@ -1,1 +1,1 @@
-var mnemonic = "wrong add hero cactus gain bomb wheat anchor desk antenna reopen exercise";
+var mnemonic = "motor angle vote admit word lounge illness april skin limit fluid flush";

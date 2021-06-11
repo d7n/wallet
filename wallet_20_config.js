@@ -1,1 +1,1 @@
-var mnemonic = "gloom fringe quality artwork upset carbon record brass initial moral talent beach";
+var mnemonic = "video sphere include major demand diesel mixture coconut random stadium float nasty";

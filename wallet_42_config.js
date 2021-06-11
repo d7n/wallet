@@ -1,1 +1,1 @@
-var mnemonic = "erode clog undo question display noble pulp cost review south various fortune";
+var mnemonic = "repair convince desert hold once ice beach strike glass kingdom fatal noise";

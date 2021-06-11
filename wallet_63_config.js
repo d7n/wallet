@@ -1,1 +1,1 @@
-var mnemonic = "still economy adjust hurdle push faculty combine zebra table lend legal chief";
+var mnemonic = "year lobster move area ranch shallow only stock they exact fruit text";

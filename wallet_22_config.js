@@ -1,1 +1,1 @@
-var mnemonic = "volcano picture future task donate frost immune domain give bronze poem unfair";
+var mnemonic = "swarm jacket burst mouse health like sphere exchange hidden donor crater mean";

@@ -1,1 +1,1 @@
-var mnemonic = "famous vehicle pencil acid shoulder favorite alter much question ostrich assault mechanic";
+var mnemonic = "today talk spread upon space raise fee way boring harbor echo lamp";

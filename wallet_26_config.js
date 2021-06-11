@@ -1,1 +1,1 @@
-var mnemonic = "version sick clog vanish letter fix success gentle lock try sugar minor";
+var mnemonic = "rebel budget sad sketch oyster bulb manual obscure clay tool hip diet";

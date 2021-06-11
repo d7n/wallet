@@ -1,1 +1,1 @@
-var mnemonic = "junk feature brief gasp market range country since guide awake wire crack";
+var mnemonic = "initial popular include prepare fresh this limit pistol tunnel disease time viable";

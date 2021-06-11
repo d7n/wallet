@@ -1,1 +1,1 @@
-var mnemonic = "cloud crop peace audit skill film picture sunset zoo lobster capital calm";
+var mnemonic = "art motor hurt novel bench weird question beyond tongue foster cushion fame";

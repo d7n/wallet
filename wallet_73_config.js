@@ -1,1 +1,1 @@
-var mnemonic = "chunk school hood sentence daughter wire electric state degree lion suit style";
+var mnemonic = "program unusual mountain adjust powder remain ankle refuse sibling guard mansion nation";

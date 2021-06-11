@@ -1,1 +1,1 @@
-var mnemonic = "leader month swing among nice twelve gravity blade seed thumb hurdle announce";
+var mnemonic = "major gym whip buffalo echo illegal avoid floor laptop brush pill drift";

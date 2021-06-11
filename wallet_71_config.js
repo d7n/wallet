@@ -1,1 +1,1 @@
-var mnemonic = "fatal govern task poet giraffe roof clinic degree useful sausage memory olive";
+var mnemonic = "tennis under fluid spend cream gentle actual soccer lazy earn city cushion";

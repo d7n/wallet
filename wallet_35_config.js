@@ -1,1 +1,1 @@
-var mnemonic = "honey submit pottery main smooth pause word pair find video mention discover";
+var mnemonic = "donkey turkey remember vanish hotel meadow pigeon jeans air fitness poet acid";

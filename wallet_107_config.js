@@ -1,1 +1,1 @@
-var mnemonic = "either ticket heart day ball verb walnut swallow liar mind spend practice";
+var mnemonic = "shoulder nose lawsuit tuition scout spin recipe blush wood pioneer loan together";

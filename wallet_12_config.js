@@ -1,1 +1,1 @@
-var mnemonic = "demise afford poet rotate athlete grass casino below good sport defy sausage";
+var mnemonic = "wrist milk salon earth grape fashion vessel before chase degree baby pluck";

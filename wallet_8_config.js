@@ -1,1 +1,1 @@
-var mnemonic = "resemble fancy case original such option trouble wheel object early pet dune";
+var mnemonic = "load royal circle quit purse visa monkey race loop visa code milk";

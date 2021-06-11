@@ -1,1 +1,1 @@
-var mnemonic = "decorate wood pottery culture mix now agree curious timber usage glimpse van";
+var mnemonic = "trophy motor before sad bounce mom alien apart live buyer boring axis";

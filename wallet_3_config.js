@@ -1,1 +1,1 @@
-var mnemonic = "chronic forget flash turkey very airport swim wife double tattoo clay core";
+var mnemonic = "crush job secret ski fun crystal unlock chest pupil soda cement forest";

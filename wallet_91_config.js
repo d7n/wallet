@@ -1,1 +1,1 @@
-var mnemonic = "few tourist gate later divide notice vacant build coast area endorse visual";
+var mnemonic = "forward umbrella hole icon occur slam stadium left path tenant bullet yellow";

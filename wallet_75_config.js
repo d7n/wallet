@@ -1,1 +1,1 @@
-var mnemonic = "hard divert garage slush humor hero pulp car knife reflect wild cheese";
+var mnemonic = "jacket woman close dawn artist party reflect riot human school sight wisdom";

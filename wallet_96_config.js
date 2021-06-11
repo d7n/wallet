@@ -1,1 +1,1 @@
-var mnemonic = "stove silent stuff anger loyal sadness foil fatal unhappy section crucial love";
+var mnemonic = "know another enough surround figure winner edge alert focus remain idea across";

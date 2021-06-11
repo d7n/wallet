@@ -1,1 +1,1 @@
-var mnemonic = "foot whale grain until people autumn demise inflict equip obtain lion vehicle";
+var mnemonic = "follow lunch fruit erupt claw brave either violin young code acoustic kingdom";

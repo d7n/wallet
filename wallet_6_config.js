@@ -1,1 +1,1 @@
-var mnemonic = "black snap give weird pyramid snake genius evil inquiry grain dream gadget";
+var mnemonic = "nominee spawn offer cat collect believe trial chapter same cigar cloth oval";

@@ -1,1 +1,1 @@
-var mnemonic = "debris jealous token increase immune punch vendor craft meadow almost gauge grace";
+var mnemonic = "civil arch build shallow speed tuna spatial direct valve forest thing monkey";

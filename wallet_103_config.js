@@ -1,1 +1,1 @@
-var mnemonic = "hamster foam ginger impose always large exact matrix enlist left stage sauce";
+var mnemonic = "hedgehog hero episode special transfer nothing jump vanish multiply exclude club setup";

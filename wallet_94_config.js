@@ -1,1 +1,1 @@
-var mnemonic = "gate ignore convince forest glance core quarter athlete wonder stumble apology pink";
+var mnemonic = "change whip slogan strike they train affair mixed off spirit knee lottery";

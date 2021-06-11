@@ -1,1 +1,1 @@
-var mnemonic = "mention critic narrow chaos elevator artwork hair service wave issue siege satisfy";
+var mnemonic = "add table nothing lens chase heavy peanut skill concert expire cricket stomach";

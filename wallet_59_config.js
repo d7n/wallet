@@ -1,1 +1,1 @@
-var mnemonic = "miracle eager tennis flash wife drum author penalty allow dust glance stand";
+var mnemonic = "quit road family ivory wagon must ribbon junior betray struggle arrange assist";

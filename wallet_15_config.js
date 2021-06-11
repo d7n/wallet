@@ -1,1 +1,1 @@
-var mnemonic = "march eternal lazy athlete happy again quit wash ketchup fever theme wrap";
+var mnemonic = "party goat wood team shoot ankle copper diagram immense credit pig subway";

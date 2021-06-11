@@ -1,1 +1,1 @@
-var mnemonic = "magic check balance milk toward garment script yard slight antique tiny purpose";
+var mnemonic = "segment draw enact network blast pledge angry ring sell loud dream exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow silk dial live decide frame middle risk pilot acoustic what advance";
+var mnemonic = "deputy excuse quit stage dad fresh soft laugh meadow virus divorce category";

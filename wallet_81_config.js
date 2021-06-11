@@ -1,1 +1,1 @@
-var mnemonic = "spider absent key neither comfort plug year find decade violin lemon bulk";
+var mnemonic = "model stable urban you people obtain pen spirit unaware account battle model";

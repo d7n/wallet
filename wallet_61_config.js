@@ -1,1 +1,1 @@
-var mnemonic = "endless sniff bacon laundry away frame need mirror space weekend birth vital";
+var mnemonic = "anger trouble bag panther denial silly mesh jeans lunar sample someone collect";

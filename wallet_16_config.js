@@ -1,1 +1,1 @@
-var mnemonic = "pear steel runway father unaware nasty boat remove two comfort bitter fox";
+var mnemonic = "legal abandon away lyrics fame found insane guide photo consider true minimum";

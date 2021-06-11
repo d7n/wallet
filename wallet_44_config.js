@@ -1,1 +1,1 @@
-var mnemonic = "grass zebra elevator plastic bunker any bitter yellow cook fossil exotic hold";
+var mnemonic = "robot slight hour minimum receive depend iron search elephant pledge digital man";

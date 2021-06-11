@@ -1,1 +1,1 @@
-var mnemonic = "flat manual burst problem soap piece bus cram used bronze possible swim";
+var mnemonic = "pepper wedding someone web ensure chest tide soul code knock hood swamp";

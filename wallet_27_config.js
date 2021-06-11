@@ -1,1 +1,1 @@
-var mnemonic = "style spawn magnet fault retire above year proof shoe nose comfort genuine";
+var mnemonic = "cross silk across erosion magic token slogan just tortoise copper green pigeon";

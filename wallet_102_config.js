@@ -1,1 +1,1 @@
-var mnemonic = "ceiling media mixed drill mixed pull march library clever grass theory leaf";
+var mnemonic = "tourist sport modify topple income live swallow vessel comic path spread mask";

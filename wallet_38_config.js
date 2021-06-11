@@ -1,1 +1,1 @@
-var mnemonic = "fine input gravity renew maple tape long much author they eagle position";
+var mnemonic = "tennis slush recall security brown during whisper enforce regret crouch fancy mandate";

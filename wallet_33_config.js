@@ -1,1 +1,1 @@
-var mnemonic = "because ramp egg total please stove find dwarf cereal cancel bunker next";
+var mnemonic = "donor math ice prize shuffle defense stuff rabbit mirror divorce gap fire";

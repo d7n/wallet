@@ -1,1 +1,1 @@
-var mnemonic = "rocket stool evil vessel over east cricket menu swing embody capital divide";
+var mnemonic = "shed sadness tattoo tuna pipe dinosaur climb heavy riot salmon plastic reward";

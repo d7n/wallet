@@ -1,1 +1,1 @@
-var mnemonic = "wild turn filter shock team spell wrong damage merit ripple course sketch";
+var mnemonic = "engage chicken mystery fly table hub junior body blast swim lamp prosper";

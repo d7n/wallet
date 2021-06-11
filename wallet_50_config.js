@@ -1,1 +1,1 @@
-var mnemonic = "model slide stick erase grant affair candy please express never roof wedding";
+var mnemonic = "feature easy sugar thumb today jelly crater mask follow nuclear law method";

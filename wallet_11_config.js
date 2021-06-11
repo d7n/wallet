@@ -1,1 +1,1 @@
-var mnemonic = "glow pull follow athlete chicken glare hour general turtle inject list clip";
+var mnemonic = "interest more erosion zero blue mind song play digital annual prepare kangaroo";

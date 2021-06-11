@@ -1,1 +1,1 @@
-var mnemonic = "one lizard kiss concert already verify road liberty affair material margin real";
+var mnemonic = "planet extra wool bulb skirt parade road quote artist borrow round joy";

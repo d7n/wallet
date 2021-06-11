@@ -1,1 +1,1 @@
-var mnemonic = "velvet lunar certain lock caught spatial mechanic focus cook royal lonely wash";
+var mnemonic = "attract mirror owner swarm camera economy tiger say sweet rug element defy";

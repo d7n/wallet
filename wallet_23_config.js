@@ -1,1 +1,1 @@
-var mnemonic = "latin brother acquire powder lava word spatial bean juice logic rose give";
+var mnemonic = "thank elephant episode indicate elite autumn tongue grape settle estate enhance warrior";

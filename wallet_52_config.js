@@ -1,1 +1,1 @@
-var mnemonic = "donor uphold parent try act female cat paper mention air cook accident";
+var mnemonic = "absorb december attitude vacant type body glass mixture undo wise link border";

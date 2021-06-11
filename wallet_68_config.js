@@ -1,1 +1,1 @@
-var mnemonic = "demise giggle bracket oak must apple grid end crew provide slogan switch";
+var mnemonic = "already element flip property fox absent knee actress provide prepare regret area";

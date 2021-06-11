@@ -1,1 +1,1 @@
-var mnemonic = "approve want mix blade ignore vicious mushroom review absorb afford limit nephew";
+var mnemonic = "chair husband slide just example clown spray gravity lunch guard opinion eye";

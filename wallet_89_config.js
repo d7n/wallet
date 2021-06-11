@@ -1,1 +1,1 @@
-var mnemonic = "process ski top silk chaos clown enhance prosper cube number stamp champion";
+var mnemonic = "skull lonely brass banner clerk sight say canal apple gauge rebel cruel";
