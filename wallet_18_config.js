@@ -1,1 +1,1 @@
-var mnemonic = "cheap eight alcohol detect found crush garlic banner february jump ill odor";
+var mnemonic = "day true smoke bus another escape avocado dress leopard kiss elite congress";

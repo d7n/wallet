@@ -1,1 +1,1 @@
-var mnemonic = "turkey radio cross direct glad sphere seek tomato gather vague broom strategy";
+var mnemonic = "giant comfort blast surprise sand duck network once rose scare enroll decrease";

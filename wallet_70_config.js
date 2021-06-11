@@ -1,1 +1,1 @@
-var mnemonic = "sock negative ladder peasant citizen broccoli symptom renew neck process blame garden";
+var mnemonic = "deer slight exile miracle tissue giant return blast gaze glare share evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "morning poverty soup sound twist veteran clock shine opinion meat build matrix";
+var mnemonic = "ranch kick order grow pretty auto stone neck good plug couple trial";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery interest region soda bright eye panda debris prison guilt motion story";
+var mnemonic = "above exclude sentence dizzy echo old purse benefit nurse blast turn live";

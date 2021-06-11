@@ -1,1 +1,1 @@
-var mnemonic = "dawn bullet shield cliff exhaust cage night multiply domain say blanket razor";
+var mnemonic = "bottom recall material embody decide crowd jelly obey soda sign fork result";

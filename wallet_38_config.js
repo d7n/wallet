@@ -1,1 +1,1 @@
-var mnemonic = "firm impact ozone dolphin erosion still oil negative entire urge unaware caught";
+var mnemonic = "abstract wave face off toward burger enforce fragile patient cross whip hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "electric execute tobacco myth section profit tomato boil impulse spare into bubble";
+var mnemonic = "note detail hold blame assume rotate rookie repair announce wash sudden firm";

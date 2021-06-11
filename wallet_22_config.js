@@ -1,1 +1,1 @@
-var mnemonic = "zoo live extra dust rail way empower observe typical never shuffle fantasy";
+var mnemonic = "pyramid skin answer champion iron conduct main despair sadness sketch solar super";

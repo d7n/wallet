@@ -1,1 +1,1 @@
-var mnemonic = "twice note worry shine expose level betray among depend crash battle forget";
+var mnemonic = "strong crater book throw infant mammal boring mule pyramid cable wire cactus";

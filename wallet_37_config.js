@@ -1,1 +1,1 @@
-var mnemonic = "neglect power tray oxygen silver walk arena ocean various wall year boy";
+var mnemonic = "orange sport antique bridge resemble occur section treat struggle pulse monster pink";

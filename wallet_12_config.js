@@ -1,1 +1,1 @@
-var mnemonic = "estate screen vendor ancient sight ginger chimney casino rebel famous message dynamic";
+var mnemonic = "palace arrest spice bicycle smoke walk rocket split helmet twist easy clean";

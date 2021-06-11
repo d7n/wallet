@@ -1,1 +1,1 @@
-var mnemonic = "stool man trouble escape pave ladder uncover surround whale fruit eternal kiss";
+var mnemonic = "upgrade bitter cancel tattoo noodle employ air february clock inspire clog job";

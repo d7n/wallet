@@ -1,1 +1,1 @@
-var mnemonic = "stadium correct mad cool method novel cave quarter toddler veteran cat regular";
+var mnemonic = "address situate quality minor mean skill ancient tide attend portion saddle announce";

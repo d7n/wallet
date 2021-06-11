@@ -1,1 +1,1 @@
-var mnemonic = "roast magnet tent phrase border shuffle buyer walk two venue item frog";
+var mnemonic = "roof visit text fee pretty desk match artist ethics brisk hero ritual";

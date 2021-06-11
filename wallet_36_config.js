@@ -1,1 +1,1 @@
-var mnemonic = "evoke two tired gift orange equip second ankle aunt defense adult rescue";
+var mnemonic = "burger gaze interest mammal soft dad organ quote record gravity shoot category";

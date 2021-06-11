@@ -1,1 +1,1 @@
-var mnemonic = "supply hero stay wealth pen symbol shop saddle guilt solve dry symptom";
+var mnemonic = "matter slot exact return surge smoke flavor ceiling museum run cable husband";

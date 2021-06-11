@@ -1,1 +1,1 @@
-var mnemonic = "sweet setup main draft beach rug congress weapon pupil nuclear strategy general";
+var mnemonic = "steel crime carpet cinnamon fade whale oyster rare call supreme novel power";

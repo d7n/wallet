@@ -1,1 +1,1 @@
-var mnemonic = "skirt measure jelly buddy this cube news antenna ranch document diagram profit";
+var mnemonic = "caught damage flower camp offer crumble check oven history fringe runway uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "merit left basket select bottom price torch alert enemy exact envelope infant";
+var mnemonic = "network stay quit sweet uncle quote iron museum talk limit remove hope";

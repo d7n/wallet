@@ -1,1 +1,1 @@
-var mnemonic = "vessel inherit soup simple seed trade spell wife love nominee badge settle";
+var mnemonic = "crisp jar emotion depth prize lonely diesel act sand path mother annual";

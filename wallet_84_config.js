@@ -1,1 +1,1 @@
-var mnemonic = "simple drastic tip kitten champion all miss caught claw antenna below service";
+var mnemonic = "dry maid grass turkey lawsuit unfair uncover inject prefer trend office hundred";

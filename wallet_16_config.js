@@ -1,1 +1,1 @@
-var mnemonic = "mosquito tourist vast edit entry digital diet ketchup husband essay brain cycle";
+var mnemonic = "sunset amazing chimney hand smile list envelope identify december thing category asset";

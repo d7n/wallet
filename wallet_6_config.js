@@ -1,1 +1,1 @@
-var mnemonic = "village speed honey next wrestle change shock harvest grace multiply ethics glory";
+var mnemonic = "powder extra two spice aunt ensure million auction kind smart pottery employ";

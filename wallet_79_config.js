@@ -1,1 +1,1 @@
-var mnemonic = "genius input spot divide vault require elder slight lunch rack reject team";
+var mnemonic = "birth crunch layer cereal ethics column cruise still correct advice parent must";

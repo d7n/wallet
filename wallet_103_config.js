@@ -1,1 +1,1 @@
-var mnemonic = "throw lucky faint this rabbit tomorrow huge auto noodle mixed skirt sleep";
+var mnemonic = "mango grass disorder cover bright dragon cinnamon enable hip borrow taste review";

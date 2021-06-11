@@ -1,1 +1,1 @@
-var mnemonic = "trophy myself spot dry employ mean ethics orange elbow card parrot shy";
+var mnemonic = "path chalk armed neglect economy feed always energy razor asset off plug";

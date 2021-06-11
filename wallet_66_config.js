@@ -1,1 +1,1 @@
-var mnemonic = "cradle faint doll where famous oppose control size develop buzz beyond cabin";
+var mnemonic = "vague eyebrow orient extend water purity affair struggle pill double group torch";

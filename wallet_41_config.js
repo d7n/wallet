@@ -1,1 +1,1 @@
-var mnemonic = "stereo road marriage early false million nephew reduce poem flame forward fiction";
+var mnemonic = "flush dress giggle survey hamster various faint rack toward doctor feel member";

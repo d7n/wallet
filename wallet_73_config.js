@@ -1,1 +1,1 @@
-var mnemonic = "shift garbage name teach utility brass napkin income happy shaft scan wash";
+var mnemonic = "beach price layer chest result cover smile mixed bridge carry drip try";

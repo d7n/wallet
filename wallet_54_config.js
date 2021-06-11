@@ -1,1 +1,1 @@
-var mnemonic = "film mouse nephew kite affair little void hobby wreck kit belt wrestle";
+var mnemonic = "evoke soft arch rhythm game skin toward damage belt endless more bachelor";

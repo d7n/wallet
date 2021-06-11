@@ -1,1 +1,1 @@
-var mnemonic = "favorite nice hurt expect cable say describe illness surface better shift run";
+var mnemonic = "exist private radar limit blind lend web estate salmon erase relief carbon";

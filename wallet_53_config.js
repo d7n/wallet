@@ -1,1 +1,1 @@
-var mnemonic = "home suspect record wild poem myself cruel budget torch filter hill protect";
+var mnemonic = "brisk giraffe daring bullet napkin lab mail try blade cart gain void";

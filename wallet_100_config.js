@@ -1,1 +1,1 @@
-var mnemonic = "cherry focus taste access define evil online social donkey embark afraid inhale";
+var mnemonic = "garment actor crawl auction zero pelican wedding acoustic bracket response empower raven";

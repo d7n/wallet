@@ -1,1 +1,1 @@
-var mnemonic = "provide banner connect view make tired series swear twenty someone behind summer";
+var mnemonic = "coast cricket basic spread much have carbon among mimic gold toss move";

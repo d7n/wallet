@@ -1,1 +1,1 @@
-var mnemonic = "process burst found pet aisle hurt someone process tag typical bundle fox";
+var mnemonic = "seat try jealous pet project resist grunt sauce health try afford arctic";

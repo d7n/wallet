@@ -1,1 +1,1 @@
-var mnemonic = "moral arrange kid pistol agent trip sunny raccoon castle danger enforce shell";
+var mnemonic = "bread run cloth gift power tilt talent produce wall swift entire stable";

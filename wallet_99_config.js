@@ -1,1 +1,1 @@
-var mnemonic = "refuse save want engage twelve style into hospital creek inject text easily";
+var mnemonic = "abstract rhythm update exhaust donkey trim near ready joy toward axis run";

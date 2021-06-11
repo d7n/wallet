@@ -1,1 +1,1 @@
-var mnemonic = "page rebuild alarm destroy scout chef crawl start blame make ritual cloud";
+var mnemonic = "idle rural please height witness evil grow wonder raw treat tennis glad";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito people unusual tip where palm mystery theme happy acid weekend valley";
+var mnemonic = "sort divert shine relax broken retreat crane clap cigar black bag material";

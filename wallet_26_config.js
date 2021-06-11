@@ -1,1 +1,1 @@
-var mnemonic = "follow kick action pilot never load trick shop olympic crowd category damage";
+var mnemonic = "olympic stool uncover advice pink cruise planet output way work arrow topple";

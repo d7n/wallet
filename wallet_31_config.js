@@ -1,1 +1,1 @@
-var mnemonic = "coast kick bring bounce train mother rib boost network find source cruel";
+var mnemonic = "ladder rifle paper lobster wage spirit desk clutch tenant loop library once";

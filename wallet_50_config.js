@@ -1,1 +1,1 @@
-var mnemonic = "pledge gorilla carbon universe artefact kiss trade present blur image exclude label";
+var mnemonic = "fossil extra ocean drift two avocado course daughter obvious promote grace nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "hand hub erode garlic beef arena human neutral soft bottom depth wrestle";
+var mnemonic = "rose exotic bitter aware slide sleep december choose decorate evolve brown helmet";

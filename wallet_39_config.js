@@ -1,1 +1,1 @@
-var mnemonic = "tragic pelican simple involve merit actor edge sure cabin job target romance";
+var mnemonic = "fault rookie poem maple edge tiger cruel north tonight soft garden entire";

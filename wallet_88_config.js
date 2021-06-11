@@ -1,1 +1,1 @@
-var mnemonic = "fuel cube sleep woman donor evolve seed story super hand worth mad";
+var mnemonic = "debris bicycle mechanic slot eyebrow gym will never junk test market draw";

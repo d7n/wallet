@@ -1,1 +1,1 @@
-var mnemonic = "furnace teach useless glare faculty silk extra bag budget stomach pumpkin proof";
+var mnemonic = "steak help february lounge curious beyond door make afraid put claim expand";

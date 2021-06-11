@@ -1,1 +1,1 @@
-var mnemonic = "false march tobacco rich school bridge swing sniff machine rapid race endless";
+var mnemonic = "myself amount region seek frown erode trophy oil rally news cable globe";

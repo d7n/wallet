@@ -1,1 +1,1 @@
-var mnemonic = "forum view robot life often guard float shield shop bike fiction help";
+var mnemonic = "boss earth sample slim debris spell improve soda snap frown portion wrong";

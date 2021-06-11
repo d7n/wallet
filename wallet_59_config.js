@@ -1,1 +1,1 @@
-var mnemonic = "knock ship fox giggle torch admit game allow grace option educate only";
+var mnemonic = "slender great news since urban erase fun clip wheat fortune brave issue";

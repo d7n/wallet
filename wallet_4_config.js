@@ -1,1 +1,1 @@
-var mnemonic = "unlock spice small phrase emotion what corn push disagree alter afraid shuffle";
+var mnemonic = "level believe flat spot leave safe cat light vast shaft increase law";

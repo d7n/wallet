@@ -1,1 +1,1 @@
-var mnemonic = "wealth lion left square poet deny cheap dog misery resemble fly wait";
+var mnemonic = "grace smart section tube subway thing oven curtain need whale oven nation";

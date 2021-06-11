@@ -1,1 +1,1 @@
-var mnemonic = "iron agree cram expand this cupboard pyramid salmon guilt blossom yard trophy";
+var mnemonic = "later orange crumble coral mixture shop visual invest fork still wink ski";

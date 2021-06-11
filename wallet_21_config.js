@@ -1,1 +1,1 @@
-var mnemonic = "blouse vast evoke female doll lab squirrel normal all leaf world visual";
+var mnemonic = "pigeon effort alley upper tattoo wire celery liar virtual harsh meadow undo";

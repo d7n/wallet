@@ -1,1 +1,1 @@
-var mnemonic = "window host retreat frown desk what risk flight avoid skin include mention";
+var mnemonic = "brass resource agree deputy neglect nominee leader man trust maze follow fine";

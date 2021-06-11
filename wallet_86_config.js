@@ -1,1 +1,1 @@
-var mnemonic = "olympic engage weird citizen athlete until marble lemon basic easily busy process";
+var mnemonic = "perfect inflict absorb swamp couple skirt coin laptop rib chef solid assault";

@@ -1,1 +1,1 @@
-var mnemonic = "earn ship globe peace street found alert yard regret orange keep sign";
+var mnemonic = "glue scorpion fox device fossil mail anchor bubble theory claw stamp snap";

@@ -1,1 +1,1 @@
-var mnemonic = "salt comfort caution quarter inflict episode woman actual miss ecology decorate cave";
+var mnemonic = "lounge east tackle capital lizard happy auction quick unable huge moment rigid";

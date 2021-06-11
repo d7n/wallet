@@ -1,1 +1,1 @@
-var mnemonic = "flavor better force eight people solar victory seek filter gate nose trial";
+var mnemonic = "stairs lemon pattern large detail trick credit loop bone tide announce panda";

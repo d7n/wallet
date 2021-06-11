@@ -1,1 +1,1 @@
-var mnemonic = "draw quarter normal penalty forest kangaroo energy change knife slight liquid blade";
+var mnemonic = "garbage daughter write pattern strong another boost purity fuel ripple heart mercy";

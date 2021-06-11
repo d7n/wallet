@@ -1,1 +1,1 @@
-var mnemonic = "nothing sport turtle give cigar erosion add laugh demise vanish birth orient";
+var mnemonic = "book seven holiday soul air canoe match vicious digital lamp identify ceiling";

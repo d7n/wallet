@@ -1,1 +1,1 @@
-var mnemonic = "dial genre result broken rocket much sentence cabbage soul cinnamon excess cross";
+var mnemonic = "stool kiwi tape task nerve disorder kite detail stumble disorder anger web";

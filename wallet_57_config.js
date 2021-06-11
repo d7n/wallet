@@ -1,1 +1,1 @@
-var mnemonic = "gift coral elevator caution notice spoil worry over jazz pig old raw";
+var mnemonic = "engage length rug total idea only fluid donate library enlist issue venue";

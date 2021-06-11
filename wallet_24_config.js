@@ -1,1 +1,1 @@
-var mnemonic = "expire best trade gauge bus magnet urban ugly nose angry leaf help";
+var mnemonic = "glue join answer cross fee cigar hint excuse broom enjoy fox news";

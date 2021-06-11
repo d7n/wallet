@@ -1,1 +1,1 @@
-var mnemonic = "spin amused hip muffin social grace elite moral wrestle scatter attend friend";
+var mnemonic = "coconut candy pact floor organ shuffle stomach decorate chef width damage grass";

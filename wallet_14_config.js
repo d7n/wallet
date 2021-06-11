@@ -1,1 +1,1 @@
-var mnemonic = "beyond often school total access humble clerk exact better army custom example";
+var mnemonic = "element ribbon angry swift joke grass punch pepper acid shock deposit song";

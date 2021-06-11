@@ -1,1 +1,1 @@
-var mnemonic = "cram pole vibrant hollow enjoy neck pioneer desert rib layer injury ladder";
+var mnemonic = "bone silent ivory melody enrich tissue baby evidence mad neglect aerobic exit";

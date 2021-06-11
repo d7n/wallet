@@ -1,1 +1,1 @@
-var mnemonic = "kidney desert field forward rapid bread faint remind grace glow conduct pole";
+var mnemonic = "melody secret system dash opinion still hire coral under romance neglect cargo";

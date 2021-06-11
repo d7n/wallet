@@ -1,1 +1,1 @@
-var mnemonic = "amount melt very category ignore require accuse rabbit inject federal extra mammal";
+var mnemonic = "outer inform eternal exotic mobile object glove child core title neck portion";

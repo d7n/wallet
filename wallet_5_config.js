@@ -1,1 +1,1 @@
-var mnemonic = "alter slim useful mean fresh purse tomorrow rug canvas deer unknown split";
+var mnemonic = "box garlic cargo awful kid two cluster grape tray kick arm tragic";

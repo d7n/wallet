@@ -1,1 +1,1 @@
-var mnemonic = "ranch alcohol segment vault talent defy famous warm cushion basic sunny veteran";
+var mnemonic = "prison truly afraid matter trumpet make empty village base frequent hub increase";

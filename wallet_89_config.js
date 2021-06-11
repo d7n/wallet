@@ -1,1 +1,1 @@
-var mnemonic = "opera toddler very razor deliver mushroom spawn absent reason acid task enact";
+var mnemonic = "trophy exact dress trash grace pink soap clarify smoke rally ten combine";

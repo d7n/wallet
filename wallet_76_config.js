@@ -1,1 +1,1 @@
-var mnemonic = "sing inmate garage buddy desert truth roof party deer toy only erosion";
+var mnemonic = "guard frozen area fault obvious when unit mother ball genuine guitar apology";

@@ -1,1 +1,1 @@
-var mnemonic = "pen practice chimney paddle address plate expire practice patch suspect media base";
+var mnemonic = "popular tumble host ladder buffalo federal dice frown similar harsh dad galaxy";

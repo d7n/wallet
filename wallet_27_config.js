@@ -1,1 +1,1 @@
-var mnemonic = "mind client wish legend mixture step fit pizza album virus treat face";
+var mnemonic = "clown drum find metal dragon indoor inherit link educate whip copy another";

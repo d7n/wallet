@@ -1,1 +1,1 @@
-var mnemonic = "seed aerobic ribbon sample faculty task future cover drift narrow nut december";
+var mnemonic = "day reject sign affair better gaze all desert resource damp mail bright";

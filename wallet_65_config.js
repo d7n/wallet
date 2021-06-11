@@ -1,1 +1,1 @@
-var mnemonic = "tape law girl report kangaroo cousin ability matter brave inject sphere old";
+var mnemonic = "mail report evil quote eight change silly cherry lounge spare debris wet";

@@ -1,1 +1,1 @@
-var mnemonic = "faith protect panda tattoo square casino oil ghost carpet noise tunnel fragile";
+var mnemonic = "country wing friend fault anchor click make throw city master chair echo";

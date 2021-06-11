@@ -1,1 +1,1 @@
-var mnemonic = "summer abandon cruel nuclear leader skirt field virus marble erase spawn shell";
+var mnemonic = "move stock address faith farm robust clerk age mad nice illegal sleep";

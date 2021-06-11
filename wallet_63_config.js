@@ -1,1 +1,1 @@
-var mnemonic = "month alter coffee zoo season scorpion fame negative clutch coil image chief";
+var mnemonic = "seat name staff robust lumber auction glow problem almost win pluck column";

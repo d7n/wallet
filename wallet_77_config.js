@@ -1,1 +1,1 @@
-var mnemonic = "inside clip pause illness web column stuff arrange recall eagle cargo clap";
+var mnemonic = "waste impulse device tired boil staff deal key van stool license party";

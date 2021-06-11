@@ -1,1 +1,1 @@
-var mnemonic = "primary often cave van energy rocket achieve cash say dinner notable today";
+var mnemonic = "supply chef stadium rookie chronic chest ice stool ten hold salmon dice";

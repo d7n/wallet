@@ -1,1 +1,1 @@
-var mnemonic = "chat celery brick gun human ozone milk ladder thumb giggle future viable";
+var mnemonic = "hire exhaust truth describe ketchup raw curve ivory flash dose sand aware";

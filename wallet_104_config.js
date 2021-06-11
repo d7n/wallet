@@ -1,1 +1,1 @@
-var mnemonic = "obey dust absurd paddle knock coach trophy garbage oppose able clog drink";
+var mnemonic = "wash unique mirror ghost boss habit forest region tuition fame chair box";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel sword student sorry click until output cigar help believe pepper helmet";
+var mnemonic = "hen february fly edit garlic permit farm job document couch rubber virtual";

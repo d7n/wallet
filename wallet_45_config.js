@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo acoustic trophy shell cave antique celery hard symptom regular kingdom during";
+var mnemonic = "bike remember unlock book afraid swallow mimic goat consider upper cabin nation";

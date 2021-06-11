@@ -1,1 +1,1 @@
-var mnemonic = "run error faculty glance auto easy settle badge cost raise urge margin";
+var mnemonic = "either hollow pill crop habit door front ticket arrow idea motor better";
