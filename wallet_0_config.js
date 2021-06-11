@@ -1,1 +1,1 @@
-var mnemonic = "gown spin warrior mercy glass lumber practice follow art sugar regret top";
+var mnemonic = "swear library violin lemon parrot loop glimpse forward benefit ice cram whip";

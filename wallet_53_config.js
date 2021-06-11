@@ -1,1 +1,1 @@
-var mnemonic = "guitar expire cake crunch spare measure reward number zero near birth cherry";
+var mnemonic = "require unit moral salute fiction match hire stage half mouse domain trip";

@@ -1,1 +1,1 @@
-var mnemonic = "punch surprise train sunny stable casino angry practice rain fever october relief";
+var mnemonic = "potato mutual rose north oak suit decade file rescue stool benefit warfare";

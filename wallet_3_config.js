@@ -1,1 +1,1 @@
-var mnemonic = "govern primary time glass stool caution cage era fence maximum tag quote";
+var mnemonic = "illness case away account pact midnight venture demise fabric design certain fish";

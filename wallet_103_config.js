@@ -1,1 +1,1 @@
-var mnemonic = "weird olympic save cross kidney strike card filter thumb feed wedding repeat";
+var mnemonic = "pony same group then tennis month about fantasy sand swim exclude rival";

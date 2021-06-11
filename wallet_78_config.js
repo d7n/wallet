@@ -1,1 +1,1 @@
-var mnemonic = "hold purity bid never tank genius athlete clump adapt warfare antique job";
+var mnemonic = "soon magic myself work wait cushion fine chalk canyon title reform orbit";

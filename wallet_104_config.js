@@ -1,1 +1,1 @@
-var mnemonic = "impact pluck round pizza wave hotel humor injury force elder alpha immune";
+var mnemonic = "measure educate game green address arctic topic enrich upset duck youth awful";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle edge ignore any tail move slogan smart ocean fossil chaos spatial";
+var mnemonic = "shoe memory staff hero educate portion drastic rhythm measure monkey hill public";

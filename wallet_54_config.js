@@ -1,1 +1,1 @@
-var mnemonic = "tent round awake youth daring tornado assume easy typical donor connect tower";
+var mnemonic = "math situate mercy forget economy payment pave million hobby hover scrap urban";

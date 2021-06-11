@@ -1,1 +1,1 @@
-var mnemonic = "mask brand allow fence volcano frozen swallow life retire review eternal keep";
+var mnemonic = "wheat order maple electric shoe verb employ island bomb discover kitten demise";

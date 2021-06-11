@@ -1,1 +1,1 @@
-var mnemonic = "try mesh fish circle keen act rubber sail rain cat kind list";
+var mnemonic = "slice delay copy mail labor odor medal poet cruise unlock lens insane";

@@ -1,1 +1,1 @@
-var mnemonic = "mom inquiry panic scrub decide design quarter twelve song company eternal bird";
+var mnemonic = "price mule capital trip clutch effort loan orbit mutual arrow injury cake";

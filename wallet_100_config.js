@@ -1,1 +1,1 @@
-var mnemonic = "interest diet spirit company insane sniff canvas jaguar label amateur guess forest";
+var mnemonic = "fatigue wink satoshi unhappy dwarf kite fantasy tilt grief afraid duty critic";

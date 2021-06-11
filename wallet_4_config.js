@@ -1,1 +1,1 @@
-var mnemonic = "nice broken hockey wear replace recycle hill humor gloom powder clutch kingdom";
+var mnemonic = "jazz glory catalog vote couple gown certain roast lucky crime edit category";

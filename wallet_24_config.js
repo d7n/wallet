@@ -1,1 +1,1 @@
-var mnemonic = "divert behave capable best struggle pretty must balcony unfair minimum during tone";
+var mnemonic = "vapor axis fragile west saddle zoo width address knife leg crunch chest";

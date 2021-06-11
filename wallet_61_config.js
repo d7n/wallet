@@ -1,1 +1,1 @@
-var mnemonic = "few pioneer pear delay ill amateur two ladder vocal glove gift armed";
+var mnemonic = "resist pear visa story own mandate spike nominee recycle smooth rich hope";

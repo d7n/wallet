@@ -1,1 +1,1 @@
-var mnemonic = "risk system arrow cake hollow gym inch immense music evidence limb inherit";
+var mnemonic = "doll crash south wait delay also west flee plug glass wedding silly";

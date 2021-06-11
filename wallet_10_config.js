@@ -1,1 +1,1 @@
-var mnemonic = "caution worry diary turtle copper census offer fringe worth film arm universe";
+var mnemonic = "document tonight wall twelve clever plug gather flight account quantum coconut duty";

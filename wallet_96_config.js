@@ -1,1 +1,1 @@
-var mnemonic = "immense lumber element wave whip beyond swarm anger butter assault census pill";
+var mnemonic = "island input allow grit kind lucky figure involve sword embody elegant axis";

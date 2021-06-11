@@ -1,1 +1,1 @@
-var mnemonic = "bulb inner patrol install wage venue economy rubber accuse equal journey hen";
+var mnemonic = "dwarf blanket drastic lawn junk original coil between planet icon crater fade";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker cement vital butter canoe seven tip throw young egg discover sad";
+var mnemonic = "staff radio vague alien priority slam fun evoke yard flower glide enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "april tuna assault very melody culture sad royal wood raise share check";
+var mnemonic = "upset fossil into once jewel village island obscure salon picture reveal sister";

@@ -1,1 +1,1 @@
-var mnemonic = "option usual follow child fiction ancient drift album veteran mimic close enjoy";
+var mnemonic = "pink mother flag have evolve blue evidence off torch giant you title";

@@ -1,1 +1,1 @@
-var mnemonic = "mesh wool loud spatial section wool pave bleak member rally teach expect";
+var mnemonic = "amused dune math pupil offer shrimp black love lecture pulse bottom face";

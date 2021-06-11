@@ -1,1 +1,1 @@
-var mnemonic = "silver fun vehicle table total taxi body panda dance provide sun true";
+var mnemonic = "spell forget pepper bounce control aspect opinion eight exercise topple lobster clown";

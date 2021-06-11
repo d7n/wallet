@@ -1,1 +1,1 @@
-var mnemonic = "topple fluid pipe silk reform expect volcano maximum panel used enlist trend";
+var mnemonic = "extra valley prison spatial liberty cash angle cherry twist enough visual rabbit";

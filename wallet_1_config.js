@@ -1,1 +1,1 @@
-var mnemonic = "initial recipe mixture robot lemon jungle humble peasant crowd cycle knee reopen";
+var mnemonic = "shell tool maid devote skate glare cake great vault hint luggage action";

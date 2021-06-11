@@ -1,1 +1,1 @@
-var mnemonic = "rabbit scheme exist east input fashion rapid alpha eye mercy napkin clinic";
+var mnemonic = "health item square help shiver admit useful piano betray seminar catalog hybrid";

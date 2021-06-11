@@ -1,1 +1,1 @@
-var mnemonic = "spend fade beach witness coyote orient middle paper vital seed creek appear";
+var mnemonic = "long large enlist smoke over various egg scene guilt slush father position";

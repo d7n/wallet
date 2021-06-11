@@ -1,1 +1,1 @@
-var mnemonic = "name crime like muffin point equal reason faith ozone middle daring bag";
+var mnemonic = "assist brass embody mass upset coin inject entry shy when piano suit";

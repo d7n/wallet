@@ -1,1 +1,1 @@
-var mnemonic = "sport abuse athlete web item trial scale quarter cake arch make tilt";
+var mnemonic = "obvious they front weather diary web cloth range seek health sign decade";

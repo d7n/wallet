@@ -1,1 +1,1 @@
-var mnemonic = "tattoo leg swing wave struggle will feed antique hazard switch off invest";
+var mnemonic = "frost jar utility silent when mobile trash pink now undo exist slim";

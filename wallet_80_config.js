@@ -1,1 +1,1 @@
-var mnemonic = "blossom settle start supreme congress test flock problem cat menu text run";
+var mnemonic = "wrestle this breeze crop social rifle deposit report duck afraid artwork liberty";

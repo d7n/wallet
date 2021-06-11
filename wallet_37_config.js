@@ -1,1 +1,1 @@
-var mnemonic = "sustain shell drum wreck vacuum camera bundle topic awake business shiver gloom";
+var mnemonic = "viable track crunch decade liquid tower include hello slam carbon critic spread";

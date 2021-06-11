@@ -1,1 +1,1 @@
-var mnemonic = "umbrella list bargain walnut extra split sorry reward crack private science scorpion";
+var mnemonic = "resist network penalty guide woman daring already amateur brush act inch hood";

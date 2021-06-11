@@ -1,1 +1,1 @@
-var mnemonic = "long blur pudding record rare mushroom margin soon degree they exchange energy";
+var mnemonic = "boy local spatial skate main home road steel actor pond address armed";

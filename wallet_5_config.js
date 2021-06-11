@@ -1,1 +1,1 @@
-var mnemonic = "remain vault alpha biology jacket coin gentle dwarf virus into bar abuse";
+var mnemonic = "pledge want observe over twist cricket holiday planet earth gap survey style";

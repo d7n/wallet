@@ -1,1 +1,1 @@
-var mnemonic = "cart burden basket anchor glad gain tourist holiday grab easily impose weasel";
+var mnemonic = "motor nut dial ski enough bachelor raven crunch lunar frost jungle feature";

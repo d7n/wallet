@@ -1,1 +1,1 @@
-var mnemonic = "afraid cross very width unfold link swallow album entry glass alone effort";
+var mnemonic = "welcome glow whale kitten antique air obscure final parent act warrior surge";

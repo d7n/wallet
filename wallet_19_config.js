@@ -1,1 +1,1 @@
-var mnemonic = "word pulse cinnamon cloth elevator weekend gown cave fatal route cradle mixture";
+var mnemonic = "chase gaze morning sock mention weird oppose drum infant roof pudding trim";

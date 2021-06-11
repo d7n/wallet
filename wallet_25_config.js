@@ -1,1 +1,1 @@
-var mnemonic = "record timber arrest quote torch defy rifle ride output wise click era";
+var mnemonic = "dress blush select announce spawn mandate pudding trick wasp grace brown antique";

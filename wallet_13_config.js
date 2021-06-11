@@ -1,1 +1,1 @@
-var mnemonic = "hello ripple wheel window fortune apology warm decrease short will absent burst";
+var mnemonic = "female secret snack million cousin symbol cute valley vessel economy solid cradle";

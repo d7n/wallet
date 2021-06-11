@@ -1,1 +1,1 @@
-var mnemonic = "dose style weapon same large stage robot immense easily art puzzle village";
+var mnemonic = "ensure spatial rural manage page until talk join wild muffin air okay";

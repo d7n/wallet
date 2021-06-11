@@ -1,1 +1,1 @@
-var mnemonic = "doll symptom power embrace swallow misery aware evidence suggest cigar fiscal harbor";
+var mnemonic = "coin december advance mesh nest float abandon blast puzzle alter breeze similar";

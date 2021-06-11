@@ -1,1 +1,1 @@
-var mnemonic = "axis honey fabric toy foam rice stomach shaft nasty oak entire private";
+var mnemonic = "guard master toast piece spare lunar fringe engage upon history satisfy tip";

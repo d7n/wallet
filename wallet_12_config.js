@@ -1,1 +1,1 @@
-var mnemonic = "athlete cannon sail menu gentle expand diet magnet impose web flight vibrant";
+var mnemonic = "enjoy replace worth negative shrimp emotion reflect dirt private give puppy fade";

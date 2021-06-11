@@ -1,1 +1,1 @@
-var mnemonic = "route blur dawn crack venue airport address hedgehog pig warfare bind spray";
+var mnemonic = "urge abandon title elegant labor remove crash square video mention salon obey";

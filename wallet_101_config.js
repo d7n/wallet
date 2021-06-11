@@ -1,1 +1,1 @@
-var mnemonic = "combine stamp off pizza glance business crisp scout drip lesson food swift";
+var mnemonic = "ability include forum deputy present subway alter floor mule bundle bounce domain";

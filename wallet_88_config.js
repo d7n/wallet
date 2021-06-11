@@ -1,1 +1,1 @@
-var mnemonic = "promote clinic dune rich pole can cute autumn supply only mail federal";
+var mnemonic = "laugh spare wine syrup base exotic tourist modify nurse recipe shrug mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch slide able behind library rice purpose adult romance bag soccer viable";
+var mnemonic = "course video govern primary stomach boost unable immune away priority other meat";

@@ -1,1 +1,1 @@
-var mnemonic = "proud ginger letter crush tortoise image cube ticket broom rich off weird";
+var mnemonic = "limb stick degree clip material obtain private clinic clock diesel burger whale";

@@ -1,1 +1,1 @@
-var mnemonic = "inside announce route payment avoid december gun disease useful drink face elbow";
+var mnemonic = "pipe orange program rural gap proof trim moral purse liquid twin quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "report inquiry mutual divorce village analyst afraid sock suspect problem useless attract";
+var mnemonic = "exhibit author celery shop pudding fall tower someone tower lucky regular twice";

@@ -1,1 +1,1 @@
-var mnemonic = "acid behave moon portion crew come battle parade tent day tray hedgehog";
+var mnemonic = "favorite birth devote ecology scrub humble save burst taste faculty hedgehog urge";

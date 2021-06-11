@@ -1,1 +1,1 @@
-var mnemonic = "virtual hint cousin diary essence embark refuse diagram reduce expire manual erupt";
+var mnemonic = "patrol patch blind about ozone cook vocal famous wrap copper slice other";

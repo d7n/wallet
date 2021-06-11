@@ -1,1 +1,1 @@
-var mnemonic = "entry mutual lock spend fog beef decrease act galaxy venture concert depth";
+var mnemonic = "region diet ancient fruit camera require two scale frog once scare valid";

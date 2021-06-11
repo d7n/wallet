@@ -1,1 +1,1 @@
-var mnemonic = "push bicycle poet purse grain cover text minimum month bus century globe";
+var mnemonic = "snake blossom emotion inquiry output future basket pledge monitor fever escape half";

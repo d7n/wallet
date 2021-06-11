@@ -1,1 +1,1 @@
-var mnemonic = "draw polar help bullet loan enroll stuff example estate pear poverty pool";
+var mnemonic = "rookie cake include that shop ketchup perfect nice tornado exotic core thank";

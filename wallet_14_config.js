@@ -1,1 +1,1 @@
-var mnemonic = "exact twice give system cruise cricket text scatter month tube drip follow";
+var mnemonic = "seat hurdle type staff salute axis wing polar retire curve extend high";

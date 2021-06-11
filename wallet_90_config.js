@@ -1,1 +1,1 @@
-var mnemonic = "robot walnut box myself cable shy seek ripple defense symptom sample student";
+var mnemonic = "rude feed that mesh cruise misery notice always scout dance slender grit";

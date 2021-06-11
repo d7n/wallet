@@ -1,1 +1,1 @@
-var mnemonic = "talk faith crunch pact enlist tennis evil picture leader adapt point grant";
+var mnemonic = "toast disease swear screen ignore follow trend addict dune mammal lift shoe";

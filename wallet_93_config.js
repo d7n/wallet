@@ -1,1 +1,1 @@
-var mnemonic = "crouch enough cushion find village nasty trash disagree drum biology scan chat";
+var mnemonic = "uncle soda lottery curve verify odor announce spend three member language fat";

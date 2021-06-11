@@ -1,1 +1,1 @@
-var mnemonic = "wrong style city nurse copy sad outside vicious into cause curve play";
+var mnemonic = "assault floor slim manual clay slot warfare hub fiscal life seed favorite";

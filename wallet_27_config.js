@@ -1,1 +1,1 @@
-var mnemonic = "such sport poem text empower oil globe steel want wool midnight actual";
+var mnemonic = "emotion oyster maze crew charge upon scan arctic boost duty into burger";

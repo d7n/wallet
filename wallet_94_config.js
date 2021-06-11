@@ -1,1 +1,1 @@
-var mnemonic = "grab stock turtle glow despair under appear whale old ten orient promote";
+var mnemonic = "shell reunion midnight reason scissors round spoil forward exchange current term episode";

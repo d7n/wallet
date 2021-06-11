@@ -1,1 +1,1 @@
-var mnemonic = "birth submit admit mass novel defy what cigar monitor unable adult gauge";
+var mnemonic = "pony juice mother issue galaxy update online stumble section exit trend remember";

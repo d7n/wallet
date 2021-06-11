@@ -1,1 +1,1 @@
-var mnemonic = "express fringe first mother jewel demise provide spread okay income insane whisper";
+var mnemonic = "actual wasp elder panel weasel enhance gloom obtain motor river already state";

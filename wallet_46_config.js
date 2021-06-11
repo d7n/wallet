@@ -1,1 +1,1 @@
-var mnemonic = "stage aspect claw imitate jungle student assume grit message maximum cat vague";
+var mnemonic = "grain toddler screen student walnut update crisp produce humble tourist tray unaware";

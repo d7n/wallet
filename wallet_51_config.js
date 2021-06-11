@@ -1,1 +1,1 @@
-var mnemonic = "frequent milk burger hamster discover gift spoon inhale like example defense broccoli";
+var mnemonic = "hat network exercise wait guide leader shadow sphere again treat bid better";

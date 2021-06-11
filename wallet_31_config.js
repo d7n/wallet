@@ -1,1 +1,1 @@
-var mnemonic = "virus frozen used oval dirt list general ugly asthma burden vendor brown";
+var mnemonic = "immense cattle boring pause scrap length pigeon inflict snow coral large plunge";

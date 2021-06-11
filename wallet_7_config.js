@@ -1,1 +1,1 @@
-var mnemonic = "glow trick forum media actor tissue resist flame twice junk purity sand";
+var mnemonic = "auction industry cash capital slab artwork elder hour seat brush protect struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "often valley harsh soap tail fossil evidence ahead put rug armed wrap";
+var mnemonic = "session clutch sauce priority explain friend fatigue shy worth crawl pioneer ill";

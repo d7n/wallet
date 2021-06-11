@@ -1,1 +1,1 @@
-var mnemonic = "destroy adult silent immense find excuse lab nest hockey jewel one horse";
+var mnemonic = "label mom author diagram easy master certain upon wait around wire topple";

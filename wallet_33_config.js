@@ -1,1 +1,1 @@
-var mnemonic = "square actress uncover choose pig what fall trap subway yard market mosquito";
+var mnemonic = "forum drastic arrange entry tissue major lion price vintage rapid champion board";

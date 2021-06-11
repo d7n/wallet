@@ -1,1 +1,1 @@
-var mnemonic = "tip climb receive square empower company verify fade public cannon acquire close";
+var mnemonic = "envelope tribe people become wire candy please ketchup outer rapid certain funny";

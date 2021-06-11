@@ -1,1 +1,1 @@
-var mnemonic = "usage host absorb pet awful slight glory lunch inhale melt snap staff";
+var mnemonic = "sniff flag tissue moment final excite direct decorate traffic rib now step";

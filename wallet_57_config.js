@@ -1,1 +1,1 @@
-var mnemonic = "evoke weekend carpet scatter eyebrow dynamic effort panda glad retire jeans dust";
+var mnemonic = "kingdom arena lend expose message atom renew member reunion peace screen judge";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon rival vehicle local volcano pattern ozone depart diet blood chapter edit";
+var mnemonic = "top end bar ensure fall below shoe memory slow engage supreme ridge";

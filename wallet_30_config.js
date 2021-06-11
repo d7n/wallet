@@ -1,1 +1,1 @@
-var mnemonic = "vital dust cook opinion basket flight flavor gown rotate pool decade resource";
+var mnemonic = "robust ticket ranch smooth announce vehicle future physical monster feed demand chicken";

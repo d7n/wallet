@@ -1,1 +1,1 @@
-var mnemonic = "brick ivory market quick mesh visual romance arena brain miss define join";
+var mnemonic = "buyer moment wheat crisp vehicle bid million runway maple depend fringe garage";

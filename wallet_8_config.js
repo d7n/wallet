@@ -1,1 +1,1 @@
-var mnemonic = "gas you sword inspire nerve kiwi obscure champion injury copper horror calm";
+var mnemonic = "spring sniff guide shuffle embody forward target draw conduct push timber space";

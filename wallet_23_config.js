@@ -1,1 +1,1 @@
-var mnemonic = "merry note midnight accuse friend solid office quiz sweet differ equip pyramid";
+var mnemonic = "online load unique vibrant seed door arm wife dinner era young wife";

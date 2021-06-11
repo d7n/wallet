@@ -1,1 +1,1 @@
-var mnemonic = "protect fossil furnace world barely daring alien canoe raven culture entry foam";
+var mnemonic = "pig crack notable treat library yellow piano orange crucial wash glance auction";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel endless property few grief auto protect there cement ahead vocal goddess";
+var mnemonic = "moment february fabric album flee expose firm inform category sunny bicycle cable";

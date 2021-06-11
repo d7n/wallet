@@ -1,1 +1,1 @@
-var mnemonic = "salt educate tube coin omit gather mountain loyal casual diamond sort supply";
+var mnemonic = "anchor emerge glove basic culture gas assume lion science provide excuse pitch";
