@@ -1,1 +1,1 @@
-var mnemonic = "wire peasant sure right burger relax useless split throw grit grain infant";
+var mnemonic = "bread fuel boy pole conduct valve brick rough history good noodle gift";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi pill visa group wink vessel hawk raise tone borrow index large";
+var mnemonic = "mountain remove expect fruit blind degree census solve sunny energy amazing jungle";

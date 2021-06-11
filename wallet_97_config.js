@@ -1,1 +1,1 @@
-var mnemonic = "remain option fitness exist visa crush indicate mirror exact method wife title";
+var mnemonic = "tennis cruel biology canal zone food sock tool dinner excite bounce slide";

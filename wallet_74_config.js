@@ -1,1 +1,1 @@
-var mnemonic = "various mesh chronic couch year pigeon prosper enact rebel pause bone invite";
+var mnemonic = "orphan museum meadow tilt churn ginger lunch federal suit rubber seat jump";

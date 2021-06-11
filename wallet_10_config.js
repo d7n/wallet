@@ -1,1 +1,1 @@
-var mnemonic = "recipe forget spare toward prison stuff faint focus fit wasp recipe camera";
+var mnemonic = "brisk camp leopard flavor stay marriage actor device vague method assist suggest";

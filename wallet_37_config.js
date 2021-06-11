@@ -1,1 +1,1 @@
-var mnemonic = "lumber cross bracket lonely silly entry penalty toy stable brass book nasty";
+var mnemonic = "rude buffalo anger angry elevator vote logic razor bulk holiday unhappy myth";

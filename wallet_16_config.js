@@ -1,1 +1,1 @@
-var mnemonic = "pizza tissue force second aunt advance close mad ten pride grab edit";
+var mnemonic = "month nature figure pudding bean soap grunt fantasy rack parrot social cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect coyote warfare culture balcony fence peanut physical tomato flush uniform fantasy";
+var mnemonic = "script harsh pledge trick submit ramp hybrid equip pill kick harsh gap";

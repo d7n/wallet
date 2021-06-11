@@ -1,1 +1,1 @@
-var mnemonic = "disease topple assist tuna habit lottery build into dad design elevator episode";
+var mnemonic = "decide quick loan maid glass foot simple diesel diet shiver range sugar";

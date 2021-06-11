@@ -1,1 +1,1 @@
-var mnemonic = "position silver tower liar material pony lift neglect ship cruise royal mass";
+var mnemonic = "plug verify dinosaur rent reject average limb uniform camp patient become inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "city firm math blade found permit insane normal banana dignity naive combine";
+var mnemonic = "draft wife relax dream again reject bargain deposit tongue cliff radio include";

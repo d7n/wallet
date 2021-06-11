@@ -1,1 +1,1 @@
-var mnemonic = "dirt tone what hamster exercise click welcome bird wave excuse bulk drink";
+var mnemonic = "culture fence label duck enemy always citizen ocean chase limb stay pill";

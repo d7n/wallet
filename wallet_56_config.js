@@ -1,1 +1,1 @@
-var mnemonic = "garage plunge pledge scrub police island slush artefact acoustic senior guard unfold";
+var mnemonic = "toe dose way like cash maple before maple pig jaguar census uncle";

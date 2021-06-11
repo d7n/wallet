@@ -1,1 +1,1 @@
-var mnemonic = "combine make shoe gown grain ritual satisfy inner nest retreat usual hurdle";
+var mnemonic = "tumble dad table kidney motor bamboo express law emerge remember spot project";

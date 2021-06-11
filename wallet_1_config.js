@@ -1,1 +1,1 @@
-var mnemonic = "drink chalk absurd small soup clip van bone notice fit nurse cliff";
+var mnemonic = "admit noodle mean estate rail recipe share flee pill awkward school spot";

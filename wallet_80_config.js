@@ -1,1 +1,1 @@
-var mnemonic = "skate twenty gallery mesh champion scene detail husband twenty night west surprise";
+var mnemonic = "trash snap model cheese heart genuine ill amazing treat never dilemma degree";

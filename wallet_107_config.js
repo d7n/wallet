@@ -1,1 +1,1 @@
-var mnemonic = "outside firm silk fiscal shrimp cannon tube planet hawk ceiling dignity eight";
+var mnemonic = "sun thrive domain remain next estate hidden want pulp ramp increase improve";

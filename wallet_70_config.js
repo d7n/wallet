@@ -1,1 +1,1 @@
-var mnemonic = "latin fringe innocent inside tennis symbol luggage tortoise federal brown funny ring";
+var mnemonic = "sure snake again law sphere chase drum nice notable buyer alcohol arrange";

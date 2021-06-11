@@ -1,1 +1,1 @@
-var mnemonic = "food capital office excess language rally veteran total true endless junior flight";
+var mnemonic = "large save safe weird library thing man race cactus tip puzzle glove";

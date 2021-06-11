@@ -1,1 +1,1 @@
-var mnemonic = "pilot advance physical horror ghost copper police control omit random castle rain";
+var mnemonic = "pigeon spray gravity promote bone asthma quick fly casino virtual inquiry scrap";

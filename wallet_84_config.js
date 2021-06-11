@@ -1,1 +1,1 @@
-var mnemonic = "surround pony border nation ramp spider phone grow cherry rule dress famous";
+var mnemonic = "hedgehog castle spare tell truth silent enlist minimum injury sun cram sand";

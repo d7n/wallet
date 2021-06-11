@@ -1,1 +1,1 @@
-var mnemonic = "quarter almost bus pave spider strategy draw mule cable defy black impulse";
+var mnemonic = "lamp possible small animal garden crystal bring city express unaware adult you";

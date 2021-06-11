@@ -1,1 +1,1 @@
-var mnemonic = "nest siren hedgehog harsh rice dignity toss birth capital utility dilemma lizard";
+var mnemonic = "traffic clean resemble cheap helmet phone promote left source dolphin erode shoulder";

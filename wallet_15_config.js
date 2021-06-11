@@ -1,1 +1,1 @@
-var mnemonic = "sad essay expect merit behind sport about ball find work glance garbage";
+var mnemonic = "skull limit arrest enable scrub family useless abandon tiger soup local winter";

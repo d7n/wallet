@@ -1,1 +1,1 @@
-var mnemonic = "spatial accuse beef daring rule glare acoustic puppy merry room view shoot";
+var mnemonic = "solid sand audit drive elegant divert poem method smile clarify black afraid";

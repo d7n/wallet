@@ -1,1 +1,1 @@
-var mnemonic = "unusual citizen easily stamp cheese invest bubble theory quit remind rain inform";
+var mnemonic = "transfer humor pigeon shuffle zoo hybrid hybrid planet they under sauce record";

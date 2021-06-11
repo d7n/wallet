@@ -1,1 +1,1 @@
-var mnemonic = "gossip vicious involve hollow alert vital siren antique flee rabbit hole impact";
+var mnemonic = "patrol galaxy jungle such grow guide window output obtain fat interest walk";

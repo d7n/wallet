@@ -1,1 +1,1 @@
-var mnemonic = "retreat possible elegant before coil today twin idea bid spare afford absorb";
+var mnemonic = "lens primary wine second normal feel analyst horn legend spawn alpha teach";

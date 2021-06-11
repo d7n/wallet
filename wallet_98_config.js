@@ -1,1 +1,1 @@
-var mnemonic = "view edit history ill master blur burden frequent table interest rule idea";
+var mnemonic = "illegal dolphin average craft control huge gadget foil hold kind coconut brother";

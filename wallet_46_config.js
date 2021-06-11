@@ -1,1 +1,1 @@
-var mnemonic = "hand solid slide joy neglect gadget deny burden virtual toilet economy pear";
+var mnemonic = "chief banana peanut large water alert eight install dynamic clean snap other";

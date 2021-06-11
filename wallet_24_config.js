@@ -1,1 +1,1 @@
-var mnemonic = "math job bunker embark plunge oak phrase fringe morning sunny april museum";
+var mnemonic = "ladder foam diary oven acquire viable ring rain example regular tube step";

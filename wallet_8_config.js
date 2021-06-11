@@ -1,1 +1,1 @@
-var mnemonic = "rain bulb bundle range coral curtain visual endless route share win involve";
+var mnemonic = "observe slide divert boil theory movie jungle link shrimp two toddler floor";

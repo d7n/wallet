@@ -1,1 +1,1 @@
-var mnemonic = "web tenant rhythm tone toss swallow custom traffic gather love soap castle";
+var mnemonic = "nature vintage special attitude eye weasel cruel tent floor universe earth stool";

@@ -1,1 +1,1 @@
-var mnemonic = "topple chef inside suspect culture aisle across duck hope purchase valley love";
+var mnemonic = "ten festival crime put fresh toy ring dumb use caution intact van";

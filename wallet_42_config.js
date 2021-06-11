@@ -1,1 +1,1 @@
-var mnemonic = "bronze inflict estate unfair gorilla virus list slot ridge unique ritual donate";
+var mnemonic = "neutral culture alone meadow meadow chair process fox fruit eternal all short";

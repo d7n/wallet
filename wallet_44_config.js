@@ -1,1 +1,1 @@
-var mnemonic = "evidence humble catalog carpet vicious elegant sure quarter cute tent circle chapter";
+var mnemonic = "morning reject color quick time vote until web bachelor inmate genre task";

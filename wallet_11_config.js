@@ -1,1 +1,1 @@
-var mnemonic = "indicate shy jelly steak spell salon coconut hero burst valley steel canyon";
+var mnemonic = "drum donkey tumble rely junk dutch mistake unable local plunge they swim";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown lyrics execute jeans faith sting report chronic bulk ranch limit tell";
+var mnemonic = "unfair syrup happy hello fresh useful seat photo claw party remember fuel";

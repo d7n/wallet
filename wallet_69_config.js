@@ -1,1 +1,1 @@
-var mnemonic = "innocent spirit frame decrease rose logic reopen always bring chest actress rather";
+var mnemonic = "caught address image series crouch accuse upon almost soup flush empower category";

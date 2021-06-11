@@ -1,1 +1,1 @@
-var mnemonic = "draw arch disorder swap rice screen flame crash wealth spice jewel obvious";
+var mnemonic = "apple crush vehicle ivory coconut tunnel cake budget chimney fluid taste chat";

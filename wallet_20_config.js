@@ -1,1 +1,1 @@
-var mnemonic = "cause jewel auction file medal birth fade color grab pyramid glove gloom";
+var mnemonic = "salon inject junk name gas copy script hunt neglect hobby denial joy";

@@ -1,1 +1,1 @@
-var mnemonic = "save obey also error crack bar old prison sweet post upon pulse";
+var mnemonic = "final rib core radar direct stand reform success ladder mosquito only reject";

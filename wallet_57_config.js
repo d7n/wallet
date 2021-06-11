@@ -1,1 +1,1 @@
-var mnemonic = "reform fly major decide keep arrow reason few spin plate actor witness";
+var mnemonic = "text route august grunt control mountain over whale equal future rough denial";

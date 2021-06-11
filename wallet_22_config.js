@@ -1,1 +1,1 @@
-var mnemonic = "victory snow quantum vicious file cruel nurse couple mouse account loan today";
+var mnemonic = "method rate merry true smile arrive sun junior firm couch decrease stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "earth adult until afford egg work arena job glad logic chair hungry";
+var mnemonic = "position major skirt wear permit shallow tobacco immense bean puppy nut used";

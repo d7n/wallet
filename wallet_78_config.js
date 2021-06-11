@@ -1,1 +1,1 @@
-var mnemonic = "rent tunnel mad faith raise render erupt excite air need earn dignity";
+var mnemonic = "arrange robust crystal february convince fossil muscle broken test fire relax neither";

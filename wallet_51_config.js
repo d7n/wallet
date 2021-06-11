@@ -1,1 +1,1 @@
-var mnemonic = "clutch next knock dream option wild boat female visit prepare seek cake";
+var mnemonic = "poet attack foot attack opinion lawn brisk blanket resource glad joke calm";

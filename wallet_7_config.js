@@ -1,1 +1,1 @@
-var mnemonic = "tail spatial poem soccer guard spell sniff organ lecture resource catch hour";
+var mnemonic = "tribe broom actor club absurd news grow tooth black vote else indoor";

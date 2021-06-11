@@ -1,1 +1,1 @@
-var mnemonic = "market file stadium push purpose science sweet powder bus vehicle rigid rain";
+var mnemonic = "hammer romance busy extra much end witness feel harbor echo wink merge";

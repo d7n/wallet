@@ -1,1 +1,1 @@
-var mnemonic = "avoid around suffer belt tower battle speak lava opinion pool unusual repeat";
+var mnemonic = "pluck plastic grow predict icon claim earth apology feature whisper brain use";

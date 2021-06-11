@@ -1,1 +1,1 @@
-var mnemonic = "replace tail laptop screen tube arm lonely child fragile banner furnace sweet";
+var mnemonic = "silver offer foil tackle boost clean custom sight antenna enter give shed";

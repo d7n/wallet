@@ -1,1 +1,1 @@
-var mnemonic = "action safe thing orchard derive chuckle toe again memory hour camera reunion";
+var mnemonic = "rare slim clip file beyond family nice soap hole delay medal dinosaur";

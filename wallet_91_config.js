@@ -1,1 +1,1 @@
-var mnemonic = "ketchup tired kiwi frown keep dream lemon predict explain share call leader";
+var mnemonic = "derive bright mushroom put chief spin clump skill swear reunion seminar fine";

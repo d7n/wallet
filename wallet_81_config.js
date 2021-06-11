@@ -1,1 +1,1 @@
-var mnemonic = "area uncover welcome secret cactus sweet elite inside present thunder swallow trick";
+var mnemonic = "manage pencil demise flush motion sense repeat mesh waste stay patch kid";

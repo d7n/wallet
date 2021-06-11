@@ -1,1 +1,1 @@
-var mnemonic = "bulb hunt flip car neglect raccoon label wild peasant change agent west";
+var mnemonic = "insect stock arm leisure paper traffic police surge base october tourist relief";

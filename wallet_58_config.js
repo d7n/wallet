@@ -1,1 +1,1 @@
-var mnemonic = "better cost word caution slot payment tone pumpkin step fitness yard earn";
+var mnemonic = "glory dance bone slam torch venue that stock digital rival lounge grid";

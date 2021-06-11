@@ -1,1 +1,1 @@
-var mnemonic = "bird brother negative find pioneer gorilla valid shell crane original bulb first";
+var mnemonic = "depth seven oven scout opera sort coin nest fashion awesome devote bounce";

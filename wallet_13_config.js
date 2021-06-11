@@ -1,1 +1,1 @@
-var mnemonic = "hockey pizza stumble drift cabbage right decline gap add stock panther pizza";
+var mnemonic = "diagram various art belt bench coin goose oppose forum rain blush rule";

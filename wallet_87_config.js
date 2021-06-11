@@ -1,1 +1,1 @@
-var mnemonic = "few pair miracle riot kangaroo gospel exit gas virtual jealous icon color";
+var mnemonic = "visit increase cannon gain sand buzz hover special black hood cargo muscle";

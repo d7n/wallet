@@ -1,1 +1,1 @@
-var mnemonic = "atom abstract purchase initial girl exercise unfold vacant motor patrol siege common";
+var mnemonic = "caught manual awake champion please box pretty soul search cigar medal book";

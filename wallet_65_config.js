@@ -1,1 +1,1 @@
-var mnemonic = "tattoo fox tobacco gravity goose mean finish fetch blossom humor betray high";
+var mnemonic = "proof cash corn loud loud fringe option abuse offer mosquito paper spray";

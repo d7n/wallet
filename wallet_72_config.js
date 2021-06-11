@@ -1,1 +1,1 @@
-var mnemonic = "fire milk grab dolphin when age library idle quiz spray crop breeze";
+var mnemonic = "slush sustain rebuild then web rice mad captain host hurt blanket artefact";

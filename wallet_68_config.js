@@ -1,1 +1,1 @@
-var mnemonic = "danger limit engage response peanut garlic buyer join casino laundry loan interest";
+var mnemonic = "dune lottery wear crew round drastic property profit inform loyal present bronze";

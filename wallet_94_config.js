@@ -1,1 +1,1 @@
-var mnemonic = "same auction maple feed harbor maple garden ride foster powder general shrimp";
+var mnemonic = "excess shoulder decade talk lamp involve plate name fence spoon pond immune";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter wolf animal say cricket vessel blush print aspect find rain dress";
+var mnemonic = "silk flat cruel buddy scrap bleak kiss furnace unveil defy magic eyebrow";

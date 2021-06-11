@@ -1,1 +1,1 @@
-var mnemonic = "chair alter dial salt route census elite tree model approve barrel frost";
+var mnemonic = "satoshi juice squirrel oven cabin diamond vendor real pledge elbow gold fiction";

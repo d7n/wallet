@@ -1,1 +1,1 @@
-var mnemonic = "noodle certain exhaust polar cherry bird grid hundred mask oval matter segment";
+var mnemonic = "galaxy horn theory sweet city acid ostrich twenty twice topple nature indoor";

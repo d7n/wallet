@@ -1,1 +1,1 @@
-var mnemonic = "metal kitchen bachelor merge blouse aisle usage stem protect tank guess garlic";
+var mnemonic = "woman lift camera weather income treat code tent egg hurt birth science";

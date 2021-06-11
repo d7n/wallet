@@ -1,1 +1,1 @@
-var mnemonic = "tank depth rebuild fade review exact cheese front check shed build violin";
+var mnemonic = "candy attend hotel chapter match primary cabin find dentist cost help december";

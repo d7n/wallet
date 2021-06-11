@@ -1,1 +1,1 @@
-var mnemonic = "hollow picture kick online comic tray city pattern grape modify avocado claim";
+var mnemonic = "blush enhance april join program little cruel harbor dance budget already cup";

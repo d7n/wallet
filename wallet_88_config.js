@@ -1,1 +1,1 @@
-var mnemonic = "phrase alien arrow assume wrong sure insane diagram nephew churn liar trial";
+var mnemonic = "easily traffic fox spray render ordinary antenna post solar crop tumble height";

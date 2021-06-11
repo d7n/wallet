@@ -1,1 +1,1 @@
-var mnemonic = "stem sea gold shield insane castle payment human arch pigeon video amazing";
+var mnemonic = "demand size raccoon grace train seminar delay home style top guitar ketchup";

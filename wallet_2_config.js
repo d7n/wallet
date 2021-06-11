@@ -1,1 +1,1 @@
-var mnemonic = "domain scrap bleak drop raise domain destroy fiscal they insect clutch subway";
+var mnemonic = "alarm birth crumble toddler okay anxiety health explain bargain boil reopen zebra";

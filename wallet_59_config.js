@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo butter potato when title ball hurt silly engage try rigid iron";
+var mnemonic = "novel bullet battle ripple onion hen tray kind paper exhibit best leg";

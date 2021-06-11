@@ -1,1 +1,1 @@
-var mnemonic = "cotton friend odor cloth pet chuckle fork empty round faculty dish ritual";
+var mnemonic = "release remove zero update party mansion again doctor mail priority submit version";

@@ -1,1 +1,1 @@
-var mnemonic = "team huge office report gadget unusual replace round setup blouse unfair size";
+var mnemonic = "purpose manage rent three rule steel riot uncle planet lemon crouch outer";

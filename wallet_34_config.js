@@ -1,1 +1,1 @@
-var mnemonic = "tuna huge bring credit find jewel exist hire equal man tiny gaze";
+var mnemonic = "blouse alley put table clap fiscal twist slow short all shoe cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "digital diary venue bread honey pencil soda visit type border lizard make";
+var mnemonic = "mass load glance miracle inject mushroom adult minimum observe ripple embark stock";

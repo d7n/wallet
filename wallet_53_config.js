@@ -1,1 +1,1 @@
-var mnemonic = "library rather smooth advance test wait swift try organ book sudden orange";
+var mnemonic = "badge riot orient permit next next people horn fall lift grunt solid";

@@ -1,1 +1,1 @@
-var mnemonic = "two identify orphan off cinnamon pole scout roof absurd vehicle endless fee";
+var mnemonic = "escape comic error okay inflict huge stove velvet pyramid core jacket genius";

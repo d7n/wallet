@@ -1,1 +1,1 @@
-var mnemonic = "arrest dice potato accuse feed convince tip era candy usage duck display";
+var mnemonic = "struggle dice gas cruel menu wolf garage enter ready dose resist record";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude remember cable emotion taste point tree certain garlic devote drama legal";
+var mnemonic = "dry fringe fetch trash actress machine motion either find agent brass quantum";

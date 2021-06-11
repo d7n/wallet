@@ -1,1 +1,1 @@
-var mnemonic = "noble segment news blouse stomach ride float dentist kid exact eight globe";
+var mnemonic = "squeeze chapter bargain private march omit panther treat element thank target sick";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic payment parent brother dream arrive net unknown alarm select shove matrix";
+var mnemonic = "recipe side script turtle secret blouse economy travel dinosaur hold nephew tongue";

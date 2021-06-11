@@ -1,1 +1,1 @@
-var mnemonic = "own charge round torch section claim choice brand bulb bundle guitar observe";
+var mnemonic = "warfare chunk depth manual treat mean panda zebra rocket amateur unit metal";

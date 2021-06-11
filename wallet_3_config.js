@@ -1,1 +1,1 @@
-var mnemonic = "expose either voyage say genius great actress remove happy color royal lyrics";
+var mnemonic = "denial suspect face black jazz chalk entire gate noise blush annual desert";

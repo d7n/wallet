@@ -1,1 +1,1 @@
-var mnemonic = "fruit strategy siren warrior squeeze confirm win verb alley economy bird galaxy";
+var mnemonic = "demise polar bundle upgrade fiscal raise adapt theory argue various globe brass";

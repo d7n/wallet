@@ -1,1 +1,1 @@
-var mnemonic = "velvet casino correct athlete bean explain pizza inside scare stable crystal share";
+var mnemonic = "echo matrix wink crazy swamp satisfy give dawn calm invest visual warm";
