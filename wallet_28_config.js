@@ -1,1 +1,1 @@
-var mnemonic = "prosper clarify outdoor fame sort tube kid define north lecture matter hotel";
+var mnemonic = "letter share tackle this need title lend board answer peanut trash exclude";

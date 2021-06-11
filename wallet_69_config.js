@@ -1,1 +1,1 @@
-var mnemonic = "major gym whip buffalo echo illegal avoid floor laptop brush pill drift";
+var mnemonic = "zero sponsor own little forest hundred evidence mail paper square dismiss fever";

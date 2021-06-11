@@ -1,1 +1,1 @@
-var mnemonic = "art motor hurt novel bench weird question beyond tongue foster cushion fame";
+var mnemonic = "real suit away gown surprise more mule volume anchor fortune prevent same";

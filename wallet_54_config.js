@@ -1,1 +1,1 @@
-var mnemonic = "gap ski solar pause repeat sunny sample bitter orphan wheel opera sponsor";
+var mnemonic = "cup sphere option sketch crew forest spell blame cube cluster together cause";

@@ -1,1 +1,1 @@
-var mnemonic = "grow egg panic noble bike wet expect grocery cheap search confirm replace";
+var mnemonic = "card possible toddler famous judge oil enhance fabric normal question pizza inmate";

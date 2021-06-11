@@ -1,1 +1,1 @@
-var mnemonic = "damage away put hobby level list net program portion animal wing salmon";
+var mnemonic = "aisle roof include unable good mouse label pulse cabin genius great danger";

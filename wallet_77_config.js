@@ -1,1 +1,1 @@
-var mnemonic = "corn exist fame depend hair cloth violin finish anxiety slab style hunt";
+var mnemonic = "payment cat river ignore speak valid can travel zoo tray demand mad";

@@ -1,1 +1,1 @@
-var mnemonic = "repair convince desert hold once ice beach strike glass kingdom fatal noise";
+var mnemonic = "visit melt sunset rate quality right harvest addict avocado piece bitter rail";

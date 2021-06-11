@@ -1,1 +1,1 @@
-var mnemonic = "already element flip property fox absent knee actress provide prepare regret area";
+var mnemonic = "goat desk host absurd gap noodle pumpkin later frequent eternal nominee crawl";

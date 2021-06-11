@@ -1,1 +1,1 @@
-var mnemonic = "segment draw enact network blast pledge angry ring sell loud dream exclude";
+var mnemonic = "renew hour great viable keep erupt unknown husband honey reason indoor exact";

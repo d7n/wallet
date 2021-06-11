@@ -1,1 +1,1 @@
-var mnemonic = "add table nothing lens chase heavy peanut skill concert expire cricket stomach";
+var mnemonic = "ill now property clerk basic orchard feed indicate drip approve alarm analyst";

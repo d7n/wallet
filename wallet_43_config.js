@@ -1,1 +1,1 @@
-var mnemonic = "grunt talent survey strategy weather other pulp kit tuition good immense polar";
+var mnemonic = "unveil cover lake humor fire pass unveil alter shoe tide fetch man";

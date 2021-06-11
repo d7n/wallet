@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog hero episode special transfer nothing jump vanish multiply exclude club setup";
+var mnemonic = "palace flame pact know topic cost together rocket twist mix escape style";

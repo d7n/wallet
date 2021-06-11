@@ -1,1 +1,1 @@
-var mnemonic = "feature easy sugar thumb today jelly crater mask follow nuclear law method";
+var mnemonic = "ramp unveil luxury stumble midnight maple exhibit robust song practice consider clown";

@@ -1,1 +1,1 @@
-var mnemonic = "model stable urban you people obtain pen spirit unaware account battle model";
+var mnemonic = "friend verb same vacant future rapid front frozen clip rain fish worth";

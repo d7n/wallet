@@ -1,1 +1,1 @@
-var mnemonic = "nominee spawn offer cat collect believe trial chapter same cigar cloth oval";
+var mnemonic = "quality carbon dial fragile pledge swallow question because ice kiss face sting";

@@ -1,1 +1,1 @@
-var mnemonic = "curve rich actor number federal foot average roast library vital number rate";
+var mnemonic = "taxi vacuum old jazz exist pipe virus jaguar client festival tone evil";

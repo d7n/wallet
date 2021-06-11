@@ -1,1 +1,1 @@
-var mnemonic = "wrist plug core leopard peanut steel shed talk female churn curve they";
+var mnemonic = "reward speak firm jungle adapt romance razor safe street cream rescue yellow";

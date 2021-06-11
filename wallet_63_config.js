@@ -1,1 +1,1 @@
-var mnemonic = "year lobster move area ranch shallow only stock they exact fruit text";
+var mnemonic = "tissue bamboo surround donor gun pretty series hero chaos desk forget sponsor";

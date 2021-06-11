@@ -1,1 +1,1 @@
-var mnemonic = "desert unfold ask predict evoke apology slot like elephant skate execute witness";
+var mnemonic = "aunt hotel cool pink ride quantum volcano buffalo magic logic robot subway";

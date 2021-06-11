@@ -1,1 +1,1 @@
-var mnemonic = "curious current photo source maximum once fence major mosquito modify maximum chat";
+var mnemonic = "suffer elevator mystery bring fantasy valve subway symptom alpha tennis snow lava";

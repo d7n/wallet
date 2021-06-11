@@ -1,1 +1,1 @@
-var mnemonic = "change whip slogan strike they train affair mixed off spirit knee lottery";
+var mnemonic = "magic mountain loan tomato wood lion shrug drive mosquito relief swamp hedgehog";

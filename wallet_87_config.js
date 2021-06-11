@@ -1,1 +1,1 @@
-var mnemonic = "initial popular include prepare fresh this limit pistol tunnel disease time viable";
+var mnemonic = "direct this destroy opera any welcome run endless anxiety assault dose narrow";

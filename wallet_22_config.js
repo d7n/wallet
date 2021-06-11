@@ -1,1 +1,1 @@
-var mnemonic = "swarm jacket burst mouse health like sphere exchange hidden donor crater mean";
+var mnemonic = "route marble medal royal economy exist coil inquiry tower flash six harvest";

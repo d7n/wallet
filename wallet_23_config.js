@@ -1,1 +1,1 @@
-var mnemonic = "thank elephant episode indicate elite autumn tongue grape settle estate enhance warrior";
+var mnemonic = "decide payment taxi dinner slogan help expect bundle become harvest charge purchase";

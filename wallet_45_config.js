@@ -1,1 +1,1 @@
-var mnemonic = "divide toss detail unaware furnace salon great hurdle toe cotton disorder genuine";
+var mnemonic = "marble sword snap faculty type spice omit clerk marine garage ordinary fork";

@@ -1,1 +1,1 @@
-var mnemonic = "barely famous mobile swear rule emotion cruel caught lab normal end public";
+var mnemonic = "antique beach renew satisfy logic member capable tag audit kidney when donate";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle boss repeat home idle boss join basic crew unveil onion arrow";
+var mnemonic = "buffalo jar panel blade endless possible select dizzy captain top title surprise";

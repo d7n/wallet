@@ -1,1 +1,1 @@
-var mnemonic = "gadget swarm real clay task vendor cherry piece sense act afraid humor";
+var mnemonic = "pair icon feel napkin crowd imitate arm pigeon final adult dynamic theme";

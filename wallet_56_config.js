@@ -1,1 +1,1 @@
-var mnemonic = "list coral village struggle notice main else stay present script smoke open";
+var mnemonic = "spice daring increase flower duty moral hint alien force erupt grant possible";

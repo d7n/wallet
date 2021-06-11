@@ -1,1 +1,1 @@
-var mnemonic = "cruise cement wheel absorb master kick velvet since silly satisfy always number";
+var mnemonic = "divert magic tonight place purchase thrive alcohol attack ancient road wisdom panda";

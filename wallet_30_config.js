@@ -1,1 +1,1 @@
-var mnemonic = "shed sadness tattoo tuna pipe dinosaur climb heavy riot salmon plastic reward";
+var mnemonic = "purchase inch wait pave charge kid abstract glass engage siege february social";

@@ -1,1 +1,1 @@
-var mnemonic = "dash typical kick response benefit vehicle speed afraid crucial tissue garbage cage";
+var mnemonic = "sample crouch mystery shallow frog sudden spread lesson gloom dance emerge away";

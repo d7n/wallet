@@ -1,1 +1,1 @@
-var mnemonic = "magnet wrap curve poet clock vault pause syrup begin amateur diary honey";
+var mnemonic = "win middle salad flash beef eager grit make total life victory bread";

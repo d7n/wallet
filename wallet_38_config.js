@@ -1,1 +1,1 @@
-var mnemonic = "tennis slush recall security brown during whisper enforce regret crouch fancy mandate";
+var mnemonic = "document gas token saddle baby wild remove define wild clown false change";

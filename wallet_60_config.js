@@ -1,1 +1,1 @@
-var mnemonic = "bag enhance bread attitude come text master food panda glad peace toward";
+var mnemonic = "answer vote annual middle patient focus grace peanut poet hover more garlic";

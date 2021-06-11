@@ -1,1 +1,1 @@
-var mnemonic = "short economy job drama marine duck culture extend rare rug sing crop";
+var mnemonic = "salmon member high legend liquid bone fun click crane permit fall patient";

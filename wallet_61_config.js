@@ -1,1 +1,1 @@
-var mnemonic = "anger trouble bag panther denial silly mesh jeans lunar sample someone collect";
+var mnemonic = "fiscal hockey myth lesson census broccoli they humble lake neck heart cross";

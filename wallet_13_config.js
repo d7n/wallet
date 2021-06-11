@@ -1,1 +1,1 @@
-var mnemonic = "slam true digital hint drip until sugar genius hurry loan crowd lady";
+var mnemonic = "romance degree equal budget pigeon genuine undo emotion maze word jaguar shield";

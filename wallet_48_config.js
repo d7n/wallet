@@ -1,1 +1,1 @@
-var mnemonic = "evil chair walk unknown sad remind skill smart absorb syrup cram earth";
+var mnemonic = "absorb next common waste consider truly goat erode chest mystery view cricket";

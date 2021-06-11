@@ -1,1 +1,1 @@
-var mnemonic = "tennis under fluid spend cream gentle actual soccer lazy earn city cushion";
+var mnemonic = "chimney crazy shield youth risk master thumb else mean team rifle calm";

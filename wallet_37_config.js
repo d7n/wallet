@@ -1,1 +1,1 @@
-var mnemonic = "elegant whale across velvet fashion chef robot twice present decrease yard inner";
+var mnemonic = "smart add book simple boy castle friend vital satisfy month rather firm";

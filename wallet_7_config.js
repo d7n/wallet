@@ -1,1 +1,1 @@
-var mnemonic = "stand struggle slow net order disorder rain chapter hill three want discover";
+var mnemonic = "panic print always artefact tree bird wife soul sauce victory olympic onion";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist sport modify topple income live swallow vessel comic path spread mask";
+var mnemonic = "climb edit nominee degree stove soap true solve tragic hotel bamboo panther";

@@ -1,1 +1,1 @@
-var mnemonic = "program unusual mountain adjust powder remain ankle refuse sibling guard mansion nation";
+var mnemonic = "mom settle inhale auto faint tiny symbol into choice seminar address slide";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork hurry black mouse rough grid swing gap dragon connect mass phone";
+var mnemonic = "old catalog clever owner fossil armed autumn major roast elbow misery remember";

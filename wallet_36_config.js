@@ -1,1 +1,1 @@
-var mnemonic = "disorder clump nose divide point ignore blue manage stay mean payment three";
+var mnemonic = "busy depend emotion parent seminar outer silent arena owner chunk balance case";

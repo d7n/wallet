@@ -1,1 +1,1 @@
-var mnemonic = "best build skate casino anxiety clump unhappy artefact fantasy steak ritual oppose";
+var mnemonic = "vast chalk noble deputy master autumn bind assault august raccoon march palm";

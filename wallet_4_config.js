@@ -1,1 +1,1 @@
-var mnemonic = "gospel miracle engage offer moral easy shove lens panda position cabbage laptop";
+var mnemonic = "raise syrup fatal behind long pioneer allow rich pony jaguar cool property";

@@ -1,1 +1,1 @@
-var mnemonic = "length orchard escape swarm pipe nature apart oyster twenty capital high vote";
+var mnemonic = "theory avoid auto finish skull around dry report sting forest juice catalog";

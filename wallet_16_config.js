@@ -1,1 +1,1 @@
-var mnemonic = "legal abandon away lyrics fame found insane guide photo consider true minimum";
+var mnemonic = "airport convince icon agent attitude movie negative hole spice lamp chalk vault";

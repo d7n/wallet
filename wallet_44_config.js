@@ -1,1 +1,1 @@
-var mnemonic = "robot slight hour minimum receive depend iron search elephant pledge digital man";
+var mnemonic = "fragile require tissue clip boil exhibit forest mouse hold hybrid cage feature";

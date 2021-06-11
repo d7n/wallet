@@ -1,1 +1,1 @@
-var mnemonic = "marriage holiday bundle enemy hammer decorate author bullet size theory lizard bus";
+var mnemonic = "another rival clog hip mean guard execute wrist dignity army humor game";

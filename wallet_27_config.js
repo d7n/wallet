@@ -1,1 +1,1 @@
-var mnemonic = "cross silk across erosion magic token slogan just tortoise copper green pigeon";
+var mnemonic = "about cute unhappy thumb kiwi will short sphere knee pilot amused insane";

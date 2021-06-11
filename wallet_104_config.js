@@ -1,1 +1,1 @@
-var mnemonic = "pepper wedding someone web ensure chest tide soul code knock hood swamp";
+var mnemonic = "uncover deliver display general obscure member extra high coin shine miss wreck";

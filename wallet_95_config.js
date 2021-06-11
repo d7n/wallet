@@ -1,1 +1,1 @@
-var mnemonic = "deputy excuse quit stage dad fresh soft laugh meadow virus divorce category";
+var mnemonic = "defy length welcome bleak gentle click fatal shove demand kit other eye";

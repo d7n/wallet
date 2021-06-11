@@ -1,1 +1,1 @@
-var mnemonic = "trial spike conduct winter leopard circle refuse glory luxury moral claim neutral";
+var mnemonic = "sun beauty whisper crystal swing forget mom elder lamp file couch load";

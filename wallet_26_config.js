@@ -1,1 +1,1 @@
-var mnemonic = "rebel budget sad sketch oyster bulb manual obscure clay tool hip diet";
+var mnemonic = "legal pony lizard mirror glory crime bamboo obtain become immense clutch vote";

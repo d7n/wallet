@@ -1,1 +1,1 @@
-var mnemonic = "across shiver diet goat fall swing rack wear gym brave clay hundred";
+var mnemonic = "type feed mercy smart soft slogan sight royal bunker near actress nation";

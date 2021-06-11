@@ -1,1 +1,1 @@
-var mnemonic = "civil arch build shallow speed tuna spatial direct valve forest thing monkey";
+var mnemonic = "play foil common tomorrow call tank educate venue anger deliver ordinary rhythm";

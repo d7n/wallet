@@ -1,1 +1,1 @@
-var mnemonic = "quit road family ivory wagon must ribbon junior betray struggle arrange assist";
+var mnemonic = "approve virus drum doctor praise biology noble roof burger sail vote square";

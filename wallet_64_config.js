@@ -1,1 +1,1 @@
-var mnemonic = "chair husband slide just example clown spray gravity lunch guard opinion eye";
+var mnemonic = "paper office enrich zebra inner cram slice symptom wedding now sheriff slight";

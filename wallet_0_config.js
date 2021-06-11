@@ -1,1 +1,1 @@
-var mnemonic = "attract mirror owner swarm camera economy tiger say sweet rug element defy";
+var mnemonic = "critic gown there attract ensure economy labor vote recycle under lion gas";

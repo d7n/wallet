@@ -1,1 +1,1 @@
-var mnemonic = "crush job secret ski fun crystal unlock chest pupil soda cement forest";
+var mnemonic = "veteran suit license trust extra ramp front detail myself crew promote organ";

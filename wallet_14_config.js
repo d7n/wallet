@@ -1,1 +1,1 @@
-var mnemonic = "crisp tunnel daring disease derive kiss option area wrist distance convince nest";
+var mnemonic = "mansion diesel name adapt file glare holiday erase other artefact refuse salmon";

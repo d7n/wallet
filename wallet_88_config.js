@@ -1,1 +1,1 @@
-var mnemonic = "vehicle episode music ahead fault grow trend tongue behind switch exit drill";
+var mnemonic = "immense novel broccoli load talk flight future puzzle visa gather defense transfer";

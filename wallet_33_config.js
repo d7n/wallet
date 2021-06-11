@@ -1,1 +1,1 @@
-var mnemonic = "donor math ice prize shuffle defense stuff rabbit mirror divorce gap fire";
+var mnemonic = "cupboard hood spin urban lecture razor infant repeat start swim chronic range";

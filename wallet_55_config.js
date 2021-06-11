@@ -1,1 +1,1 @@
-var mnemonic = "today talk spread upon space raise fee way boring harbor echo lamp";
+var mnemonic = "fade radio media lunar rebel happy furnace lion pull owner flavor length";

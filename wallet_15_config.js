@@ -1,1 +1,1 @@
-var mnemonic = "party goat wood team shoot ankle copper diagram immense credit pig subway";
+var mnemonic = "provide baby border dry rally sick kiss later vivid grow right disorder";

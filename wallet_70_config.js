@@ -1,1 +1,1 @@
-var mnemonic = "select spin quality false audit village custom habit ramp valid verb patch";
+var mnemonic = "return report parrot wolf tuna seek penalty common tourist multiply quantum humble";

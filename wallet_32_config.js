@@ -1,1 +1,1 @@
-var mnemonic = "trophy motor before sad bounce mom alien apart live buyer boring axis";
+var mnemonic = "tower melt cupboard maze absorb south trophy title prefer awkward vast gloom";

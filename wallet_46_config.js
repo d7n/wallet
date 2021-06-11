@@ -1,1 +1,1 @@
-var mnemonic = "before napkin pond message dinner beyond bottom question setup priority insane can";
+var mnemonic = "panther expose bullet flight suit make butter easy squeeze owner boost seek";

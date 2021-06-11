@@ -1,1 +1,1 @@
-var mnemonic = "shoulder nose lawsuit tuition scout spin recipe blush wood pioneer loan together";
+var mnemonic = "search unique tissue minimum glance ticket tonight egg art estate you opera";

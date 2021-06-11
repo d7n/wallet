@@ -1,1 +1,1 @@
-var mnemonic = "size right onion lift smoke expose habit window trust hat tissue broken";
+var mnemonic = "assault involve spice copy wrestle trumpet daring universe humor arena diesel chalk";

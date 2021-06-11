@@ -1,1 +1,1 @@
-var mnemonic = "report maple second measure denial upset harsh civil tone silk coyote produce";
+var mnemonic = "delay gain club can october enter margin effort thank fall damp brass";

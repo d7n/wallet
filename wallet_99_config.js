@@ -1,1 +1,1 @@
-var mnemonic = "tomato rough fame unknown dutch eight brush flip cupboard sure dash slim";
+var mnemonic = "pattern keep entire ocean frog cute spare random icon danger smooth unknown";

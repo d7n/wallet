@@ -1,1 +1,1 @@
-var mnemonic = "surface danger tiny motion load hospital brick earth toss best cruel school";
+var mnemonic = "nice fish sure able empower gap outdoor risk buzz gown project life";

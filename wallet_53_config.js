@@ -1,1 +1,1 @@
-var mnemonic = "method amused claim sorry detect grape van pottery asthma draw begin six";
+var mnemonic = "actual job scrap candy type isolate unfair acoustic advance code tornado old";

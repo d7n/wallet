@@ -1,1 +1,1 @@
-var mnemonic = "spread human book horse special nice bracket jelly endorse layer become doctor";
+var mnemonic = "reward believe budget ecology asset pioneer delay ready penalty hurdle develop media";

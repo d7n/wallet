@@ -1,1 +1,1 @@
-var mnemonic = "unit chalk can leave goat crowd cable monster polar clock volcano salute";
+var mnemonic = "work stock soup device because snake symbol since extend other beauty chase";

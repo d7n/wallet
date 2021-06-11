@@ -1,1 +1,1 @@
-var mnemonic = "sing payment lamp gas field evolve swear virus lizard hair major version";
+var mnemonic = "body know zero unit test cupboard climb cargo oval benefit puppy fox";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb december attitude vacant type body glass mixture undo wise link border";
+var mnemonic = "film light soap buzz rent poem keep fatigue odor lab beef airport";

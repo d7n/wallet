@@ -1,1 +1,1 @@
-var mnemonic = "forward umbrella hole icon occur slam stadium left path tenant bullet yellow";
+var mnemonic = "inform harsh future height angry benefit warrior coconut utility mixture swallow return";

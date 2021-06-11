@@ -1,1 +1,1 @@
-var mnemonic = "hard girl bring guess junior abstract uphold right oppose wise vital business";
+var mnemonic = "clown credit depend blood diet lounge type stage lesson coin imitate issue";

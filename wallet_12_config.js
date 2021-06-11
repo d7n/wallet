@@ -1,1 +1,1 @@
-var mnemonic = "wrist milk salon earth grape fashion vessel before chase degree baby pluck";
+var mnemonic = "stuff gain trust luggage injury choose oyster broccoli bicycle bounce logic exercise";

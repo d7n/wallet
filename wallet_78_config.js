@@ -1,1 +1,1 @@
-var mnemonic = "follow lunch fruit erupt claw brave either violin young code acoustic kingdom";
+var mnemonic = "photo evoke purchase syrup mind pull valve trigger roof thunder same boat";

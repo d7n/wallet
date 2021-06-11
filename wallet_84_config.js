@@ -1,1 +1,1 @@
-var mnemonic = "engage chicken mystery fly table hub junior body blast swim lamp prosper";
+var mnemonic = "argue desk armor weekend share version trophy party patient tunnel cause alter";

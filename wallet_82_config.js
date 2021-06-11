@@ -1,1 +1,1 @@
-var mnemonic = "hybrid club number heavy adult text ketchup adult legal huge brief open";
+var mnemonic = "floor post field danger high fade foam silly round liar someone sea";
