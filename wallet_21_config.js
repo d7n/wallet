@@ -1,1 +1,1 @@
-var mnemonic = "barely key vanish kiss artefact bid hood argue kingdom scatter they liberty";
+var mnemonic = "problem any coast reject wash indoor midnight clock dove security act kitten";

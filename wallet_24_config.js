@@ -1,1 +1,1 @@
-var mnemonic = "lava final sound romance easily gas plunge shed evoke area picture marine";
+var mnemonic = "pretty uphold organ what side onion into boy busy scheme pyramid bench";

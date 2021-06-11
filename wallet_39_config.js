@@ -1,1 +1,1 @@
-var mnemonic = "obvious security ivory magnet pull open torch alley mix patch chef cart";
+var mnemonic = "result dragon captain design network multiply ladder regular slot laugh brave cry";

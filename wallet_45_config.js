@@ -1,1 +1,1 @@
-var mnemonic = "human wheel outside zebra nest protect shoulder motor decline extra wolf rail";
+var mnemonic = "language useless clinic program grunt person wild attract such asset sausage worth";

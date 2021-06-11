@@ -1,1 +1,1 @@
-var mnemonic = "way puppy item radio valid version dry gasp chapter radar parent pelican";
+var mnemonic = "hub gather rescue merge vacant feed anxiety minute tackle expire hood picnic";

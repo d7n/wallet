@@ -1,1 +1,1 @@
-var mnemonic = "oval phone shadow drift journey snake boil hedgehog thunder movie swap drift";
+var mnemonic = "begin siren divide prosper please gloom fitness reform path usual melt buyer";

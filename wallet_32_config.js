@@ -1,1 +1,1 @@
-var mnemonic = "grow light helmet fly page auction student popular corn turkey history gaze";
+var mnemonic = "design fever bus month special cluster host model panel picture trophy guitar";

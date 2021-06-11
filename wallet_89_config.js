@@ -1,1 +1,1 @@
-var mnemonic = "essence movie test punch feed repair game permit spin faculty shield fury";
+var mnemonic = "junior useless apart sphere kit cereal volcano disorder prosper dad must lyrics";

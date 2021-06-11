@@ -1,1 +1,1 @@
-var mnemonic = "raven oxygen kiss east apple cool duty flee friend broccoli scorpion shield";
+var mnemonic = "trap story potato together glue chest income board suggest exercise swamp before";

@@ -1,1 +1,1 @@
-var mnemonic = "sun general van crazy grief elbow rocket embrace again one crazy typical";
+var mnemonic = "wreck danger laugh banner mind sing lottery amazing marriage announce urban ritual";

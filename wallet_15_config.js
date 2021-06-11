@@ -1,1 +1,1 @@
-var mnemonic = "chunk feel goat gather submit rifle cancel industry unfair rate tooth wool";
+var mnemonic = "size describe dismiss sting goddess swap blast staff book gas someone food";

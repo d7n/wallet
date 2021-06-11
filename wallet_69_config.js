@@ -1,1 +1,1 @@
-var mnemonic = "vicious flight garage gorilla arm share humble cluster wink main burden wolf";
+var mnemonic = "spend small flee reopen dice already purpose radar rail torch among student";

@@ -1,1 +1,1 @@
-var mnemonic = "crane merge brick elbow clown lesson hood sick next enjoy gift globe";
+var mnemonic = "warfare exact stand story require slogan orbit follow response road awake elder";

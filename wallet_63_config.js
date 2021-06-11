@@ -1,1 +1,1 @@
-var mnemonic = "friend cheese canoe unveil ride often suit combine swim holiday balance defy";
+var mnemonic = "develop grid load private south derive health ribbon skull unlock poem double";

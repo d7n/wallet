@@ -1,1 +1,1 @@
-var mnemonic = "metal awkward high chat science tonight tilt security rain fat rhythm salon";
+var mnemonic = "certain daughter slam huge sight dress adapt inside sort patient husband ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "close before cash sudden model dragon game subway glory soda tonight robust";
+var mnemonic = "response arctic joke merit brass job between hover fix short across lizard";

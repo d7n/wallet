@@ -1,1 +1,1 @@
-var mnemonic = "miracle elevator famous chronic ecology fortune fame state gap close pet bubble";
+var mnemonic = "oven strong diesel vault ankle skirt dad farm sketch bottom chronic bonus";

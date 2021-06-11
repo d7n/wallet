@@ -1,1 +1,1 @@
-var mnemonic = "journey burst fault fog destroy shell rice click novel truth super ask";
+var mnemonic = "swamp found slab rug vibrant twelve canoe crumble cement kick ladder live";

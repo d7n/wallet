@@ -1,1 +1,1 @@
-var mnemonic = "parrot wrong middle family mirror knock swap dad figure over arena quote";
+var mnemonic = "toy usage air shop eyebrow copper tennis april error edge analyst begin";

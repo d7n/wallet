@@ -1,1 +1,1 @@
-var mnemonic = "culture hundred mosquito celery soon echo cause imitate brick mandate fiber eight";
+var mnemonic = "garden cluster lake hair quick discover pair original garbage chalk grab sniff";

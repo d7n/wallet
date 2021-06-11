@@ -1,1 +1,1 @@
-var mnemonic = "wolf filter feature screen guard time client caution thrive wrestle pioneer royal";
+var mnemonic = "home female hurdle speak tip fresh mean again predict salon magnet ozone";

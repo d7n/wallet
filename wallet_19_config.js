@@ -1,1 +1,1 @@
-var mnemonic = "glare chicken high able tiger onion welcome elegant monster snap chair assume";
+var mnemonic = "camp trouble absent lonely edge act economy enforce enlist bunker enjoy travel";

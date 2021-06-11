@@ -1,1 +1,1 @@
-var mnemonic = "mimic night vendor wide sound emerge extra gasp solar husband civil asthma";
+var mnemonic = "people square please cube legal rude dirt mesh dash trial program achieve";

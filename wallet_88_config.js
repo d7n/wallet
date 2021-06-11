@@ -1,1 +1,1 @@
-var mnemonic = "error common pony fringe jacket quarter invite guess brisk search away faith";
+var mnemonic = "winner occur believe peasant shy bracket theory abuse canoe elite motion forest";

@@ -1,1 +1,1 @@
-var mnemonic = "oven demise spin sunset cement benefit film poem viable tomato head test";
+var mnemonic = "parade crucial slight advice anger pupil fiber muffin inhale error clutch fruit";

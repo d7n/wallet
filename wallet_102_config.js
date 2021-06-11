@@ -1,1 +1,1 @@
-var mnemonic = "knife only chaos silk congress crystal surround public purchase choose crush risk";
+var mnemonic = "early benefit ramp ask lawsuit boring flower onion senior region fever toddler";

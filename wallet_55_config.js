@@ -1,1 +1,1 @@
-var mnemonic = "foster avocado element focus setup plunge prison tissue bread body across imitate";
+var mnemonic = "fame hurry pupil isolate penalty destroy talk shock actress merry cheese rebel";

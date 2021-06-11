@@ -1,1 +1,1 @@
-var mnemonic = "bunker clump table disorder panther hair soul mammal stool stamp below suggest";
+var mnemonic = "sunny boring path agree reason clock property ice avoid choice worth divorce";

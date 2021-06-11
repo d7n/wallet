@@ -1,1 +1,1 @@
-var mnemonic = "also repair boy brain minute mammal renew hand ramp tilt replace cry";
+var mnemonic = "cradle staff ritual kangaroo jazz seek swallow goddess pony blush puzzle program";

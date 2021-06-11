@@ -1,1 +1,1 @@
-var mnemonic = "around type boat retreat damage away long light wolf depth corn swift";
+var mnemonic = "dice tuna unhappy abandon wild fee tumble garage wait gesture assist visa";

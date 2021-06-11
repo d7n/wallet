@@ -1,1 +1,1 @@
-var mnemonic = "fitness save peanut warm theme learn tourist issue wrestle peace student scissors";
+var mnemonic = "decide boy jealous know blind found toss solve say share bench frog";

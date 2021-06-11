@@ -1,1 +1,1 @@
-var mnemonic = "machine mango involve drink knife warfare south athlete adjust senior avocado invite";
+var mnemonic = "cereal inherit pilot mind lonely calm insect crouch example velvet indicate skin";

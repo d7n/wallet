@@ -1,1 +1,1 @@
-var mnemonic = "vessel harbor near achieve around toward rib figure vibrant service grunt follow";
+var mnemonic = "blind slow steak danger case wrestle chase lecture culture section federal case";

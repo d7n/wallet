@@ -1,1 +1,1 @@
-var mnemonic = "hold grain member eternal custom cover night shove option nose unable blood";
+var mnemonic = "limb orient arm alarm virtual payment speed tourist accident until coast prepare";

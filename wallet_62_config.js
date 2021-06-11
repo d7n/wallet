@@ -1,1 +1,1 @@
-var mnemonic = "proof useless domain script demise audit cancel pistol unit online beach shed";
+var mnemonic = "balcony lamp fame clinic maid pottery diagram cannon right kite priority zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "maple lady omit almost over huge away shine asset modify seed skill";
+var mnemonic = "cart rent sure calm sure coral jewel mom pigeon oppose squeeze salad";

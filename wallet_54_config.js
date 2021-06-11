@@ -1,1 +1,1 @@
-var mnemonic = "margin hole useless purpose unfair script east brush forum humble language float";
+var mnemonic = "oil fence sock basket blanket grief resource slush soccer day camera item";

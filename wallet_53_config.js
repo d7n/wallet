@@ -1,1 +1,1 @@
-var mnemonic = "hood now pyramid aerobic unique moon praise fish crack cat carry essay";
+var mnemonic = "liquid exotic orange honey during firm enact coach forget achieve cat allow";

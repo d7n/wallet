@@ -1,1 +1,1 @@
-var mnemonic = "please rich grab bright dog cabbage double climb shield census swift scout";
+var mnemonic = "nothing raccoon cake supply ticket steak market okay few guide whale process";

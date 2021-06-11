@@ -1,1 +1,1 @@
-var mnemonic = "say intact assault crystal loop bulk nurse duty crisp almost convince increase";
+var mnemonic = "quote proud visa exhaust vote asset detail lecture squeeze pizza hamster tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect maple mansion glide anxiety modify bench bicycle joke book update kangaroo";
+var mnemonic = "gorilla code bridge close judge awesome blush tissue identify force frog pistol";

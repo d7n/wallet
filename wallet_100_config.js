@@ -1,1 +1,1 @@
-var mnemonic = "leave attack sponsor coach adjust rifle useless enforce genuine balcony what witness";
+var mnemonic = "coil note erase spend coral hire soup aim defy drop pizza end";

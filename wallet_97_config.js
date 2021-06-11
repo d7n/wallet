@@ -1,1 +1,1 @@
-var mnemonic = "firm flag aim actor often issue sphere slim meat example visual unit";
+var mnemonic = "swallow benefit oxygen remember ability alone awful senior meadow enjoy upper situate";

@@ -1,1 +1,1 @@
-var mnemonic = "grape equip quiz shove jazz stage illegal prepare deal autumn shop color";
+var mnemonic = "calm boy believe unfold candy crucial smart rare theory legal deny ready";

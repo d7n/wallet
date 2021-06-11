@@ -1,1 +1,1 @@
-var mnemonic = "wine harbor vanish ginger lonely attract virtual sample enjoy key tribe plug";
+var mnemonic = "agree soda essay marriage amount void cash motor satisfy short black drill";

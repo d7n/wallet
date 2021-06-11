@@ -1,1 +1,1 @@
-var mnemonic = "west payment idle pizza cable fossil erosion boat mushroom teach position draw";
+var mnemonic = "shield crowd conduct twelve aware lounge garage guilt balcony warrior tenant achieve";

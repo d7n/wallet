@@ -1,1 +1,1 @@
-var mnemonic = "banana display address audit reopen source crew citizen vacuum expire vicious violin";
+var mnemonic = "fine click bottom network axis output jaguar prefer school pumpkin twenty east";

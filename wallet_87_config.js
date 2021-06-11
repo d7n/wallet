@@ -1,1 +1,1 @@
-var mnemonic = "patch rocket lift rude grow thumb eye scissors brown parade include patient";
+var mnemonic = "slow gym sick crash name edit wasp size trouble peasant refuse green";

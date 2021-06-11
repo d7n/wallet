@@ -1,1 +1,1 @@
-var mnemonic = "vote concert giggle indicate lecture topic length little level devote sorry style";
+var mnemonic = "sustain claw company cool palm response doctor scan demise popular shop february";

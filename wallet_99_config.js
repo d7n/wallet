@@ -1,1 +1,1 @@
-var mnemonic = "card child icon consider regret mass list garage index desk dynamic zero";
+var mnemonic = "juice couple whisper mistake nephew time awkward cry consider hotel birth rapid";

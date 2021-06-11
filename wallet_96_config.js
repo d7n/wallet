@@ -1,1 +1,1 @@
-var mnemonic = "alien letter leader response actual above detect bar energy member danger riot";
+var mnemonic = "outside cause empower giggle shock display subway size position sketch staff tooth";

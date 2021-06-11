@@ -1,1 +1,1 @@
-var mnemonic = "tumble picture capable hand sing hurry swamp sunny adult trip capable chalk";
+var mnemonic = "fame name drama exclude scheme rib host husband jungle scout slow whale";

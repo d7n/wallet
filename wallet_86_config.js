@@ -1,1 +1,1 @@
-var mnemonic = "crash silk wise repeat filter hold rival wonder crush ticket flavor stable";
+var mnemonic = "smooth client purse huge gas day into lady baby pioneer lunar venture";

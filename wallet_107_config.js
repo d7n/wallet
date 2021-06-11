@@ -1,1 +1,1 @@
-var mnemonic = "always question embody assist example forum priority phone impact universe castle van";
+var mnemonic = "roof script make length december giraffe order prevent latin tail coyote garlic";

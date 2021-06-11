@@ -1,1 +1,1 @@
-var mnemonic = "cost assault define cigar brisk host weekend essay family gossip easy peasant";
+var mnemonic = "bar dinner harvest fever bread parade accident sail trip dust infant car";

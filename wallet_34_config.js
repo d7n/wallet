@@ -1,1 +1,1 @@
-var mnemonic = "frame era smile rail pave outside renew achieve explain shop walnut rice";
+var mnemonic = "shaft key cancel quality split brush begin isolate only tube price abstract";

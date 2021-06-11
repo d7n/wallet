@@ -1,1 +1,1 @@
-var mnemonic = "rate timber trigger boy naive shallow goddess muffin tragic eternal urge damage";
+var mnemonic = "miss menu embody follow boy neck crouch victory box spell wash top";

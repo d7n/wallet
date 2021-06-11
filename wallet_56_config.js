@@ -1,1 +1,1 @@
-var mnemonic = "verb torch attack artwork glide private story valley mean family finish skull";
+var mnemonic = "fever hint arena horn media source liar goat between blanket dawn unusual";

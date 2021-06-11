@@ -1,1 +1,1 @@
-var mnemonic = "rubber pretty purity supply oyster fetch estate clog carbon stool letter umbrella";
+var mnemonic = "gown borrow turkey moon photo key squeeze orbit anchor dawn monkey eye";

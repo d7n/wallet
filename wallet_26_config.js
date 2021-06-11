@@ -1,1 +1,1 @@
-var mnemonic = "spend throw endless like oak congress monitor must sea monkey because tuna";
+var mnemonic = "cement state club cliff deputy ivory shop dragon remain cute tenant title";

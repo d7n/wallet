@@ -1,1 +1,1 @@
-var mnemonic = "test abstract any worth phrase option job crisp fish rent wrap cube";
+var mnemonic = "ankle ritual mention judge regret argue maple frozen reveal trim tilt gaze";

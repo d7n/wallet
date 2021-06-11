@@ -1,1 +1,1 @@
-var mnemonic = "parent rate oblige hen bulk label sphere inside include clown aware spread";
+var mnemonic = "digital dilemma few ranch jazz peasant tank main pipe crucial code wage";

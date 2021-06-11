@@ -1,1 +1,1 @@
-var mnemonic = "brush tattoo lend jump voyage burst fox hundred amazing erosion document alone";
+var mnemonic = "excite sound alert obey input save palm uniform diesel liberty despair coconut";

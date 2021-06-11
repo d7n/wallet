@@ -1,1 +1,1 @@
-var mnemonic = "front dwarf walk gravity pole aim distance pear potato place insect shaft";
+var mnemonic = "solid girl random under spoil figure play theory there border wife spend";

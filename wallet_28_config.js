@@ -1,1 +1,1 @@
-var mnemonic = "write eagle swim fee hollow warfare mom life gun rebuild common degree";
+var mnemonic = "axis promote issue board pool athlete over decline million donate senior horn";

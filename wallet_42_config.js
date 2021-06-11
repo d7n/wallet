@@ -1,1 +1,1 @@
-var mnemonic = "tattoo rich drama random illness trial anxiety best secret galaxy thing travel";
+var mnemonic = "bread south bring roof gym entire maple awkward vendor empower day now";

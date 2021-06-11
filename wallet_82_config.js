@@ -1,1 +1,1 @@
-var mnemonic = "gather rug child abandon develop cliff broccoli palace husband chase lizard suspect";
+var mnemonic = "monitor curious acid culture flip life pizza dash legal letter alpha hidden";

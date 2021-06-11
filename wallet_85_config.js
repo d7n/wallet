@@ -1,1 +1,1 @@
-var mnemonic = "luxury bundle custom magic junk agent print wish spatial heart private harsh";
+var mnemonic = "volcano kiss rhythm scare strike fluid rubber risk royal spring pupil receive";

@@ -1,1 +1,1 @@
-var mnemonic = "field later cash wise display weird scene harbor equip table negative forward";
+var mnemonic = "health ecology vibrant fashion butter hunt talk gauge clerk reopen armor size";

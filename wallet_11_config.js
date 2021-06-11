@@ -1,1 +1,1 @@
-var mnemonic = "slice wise dynamic inherit flee grocery bamboo clean sad cargo pony cloth";
+var mnemonic = "feature kiwi flame blouse people lava barely action mountain review observe speak";

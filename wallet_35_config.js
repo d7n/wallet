@@ -1,1 +1,1 @@
-var mnemonic = "invite shed credit choice satisfy subway salad naive slab idea lion vacant";
+var mnemonic = "dog phrase gentle skate wise orchard door boat palm chicken robot live";

@@ -1,1 +1,1 @@
-var mnemonic = "parade shoe salon avoid art purpose color olive next loop license float";
+var mnemonic = "way river brain smoke reduce subway plastic gold more ginger snake sick";

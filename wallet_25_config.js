@@ -1,1 +1,1 @@
-var mnemonic = "total collect benefit dentist moment galaxy end betray flat address wheat moment";
+var mnemonic = "science young mandate hedgehog drive egg embody drink wink simple juice file";

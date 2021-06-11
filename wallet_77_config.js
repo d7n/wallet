@@ -1,1 +1,1 @@
-var mnemonic = "garden guide crisp used exclude rib banana conduct appear song page pottery";
+var mnemonic = "rough undo proud boost lemon town ugly blast copper oyster critic pool";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo table close asset brown bomb repair snake gallery neglect occur course";
+var mnemonic = "spoil term eye great someone scatter water obvious skin kangaroo fitness glare";

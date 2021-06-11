@@ -1,1 +1,1 @@
-var mnemonic = "mechanic clerk mechanic lamp trade youth practice amount grant purity rifle mind";
+var mnemonic = "silly salmon warfare tornado then asset spend undo ladder throw lottery host";

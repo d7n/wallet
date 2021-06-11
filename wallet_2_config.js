@@ -1,1 +1,1 @@
-var mnemonic = "diesel opinion suspect twice limit identify hockey dynamic orchard reform smoke float";
+var mnemonic = "maple broom work arch illness child nest awkward label egg expect seat";

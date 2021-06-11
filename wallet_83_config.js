@@ -1,1 +1,1 @@
-var mnemonic = "away extend bridge analyst similar faint average pluck purchase surge beach banner";
+var mnemonic = "twin cruel decline dumb fun lucky home minor isolate glue address save";

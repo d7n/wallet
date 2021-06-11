@@ -1,1 +1,1 @@
-var mnemonic = "spoon into camp disorder rail release fitness cook consider force joy need";
+var mnemonic = "lottery giggle approve puppy taxi horn wage crystal royal evidence another depart";

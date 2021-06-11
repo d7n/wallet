@@ -1,1 +1,1 @@
-var mnemonic = "bachelor exotic circle sphere mad file sorry minor purpose squeeze garbage extra";
+var mnemonic = "nature lens glow smooth leave family nest fan pattern help crunch cross";

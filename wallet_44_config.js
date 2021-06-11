@@ -1,1 +1,1 @@
-var mnemonic = "heart nominee elevator envelope dust omit rough child noise wrong weird trouble";
+var mnemonic = "oyster giraffe throw inflict flat drink seven wing across assault best result";

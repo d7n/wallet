@@ -1,1 +1,1 @@
-var mnemonic = "pet maximum lunch basic edit crime genre observe razor dance impact alone";
+var mnemonic = "crowd can unhappy alarm wasp buyer brass trade multiply funny pottery enlist";

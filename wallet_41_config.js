@@ -1,1 +1,1 @@
-var mnemonic = "mistake cable curtain swap define shrug fly cross labor dignity bronze market";
+var mnemonic = "patrol glue resource recall actor wedding door toward trouble spot torch cost";

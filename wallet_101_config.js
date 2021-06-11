@@ -1,1 +1,1 @@
-var mnemonic = "picnic simple obey auction venture spoon company layer orphan escape badge endorse";
+var mnemonic = "tonight burger sight say enter flower mercy social divert volume neck code";

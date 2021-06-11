@@ -1,1 +1,1 @@
-var mnemonic = "wife medal rug onion image sport false stumble loan tag reform fiscal";
+var mnemonic = "smoke knock moral movie finger sustain ankle host few senior position mom";

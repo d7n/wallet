@@ -1,1 +1,1 @@
-var mnemonic = "beauty gadget erosion foot jungle jump poverty payment brother vague model mercy";
+var mnemonic = "crack civil index wrap peace enemy boy avoid mom easy cake stumble";

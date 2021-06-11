@@ -1,1 +1,1 @@
-var mnemonic = "milk hospital vocal soon bid metal distance captain stumble copy december hybrid";
+var mnemonic = "magic street despair onion hold regular lion hood across argue hurt gun";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan chimney omit filter special south hidden kid resemble shine rain endless";
+var mnemonic = "scrub original ozone wise lizard rapid diamond butter chaos chapter prosper gas";

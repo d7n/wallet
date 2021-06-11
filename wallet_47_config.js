@@ -1,1 +1,1 @@
-var mnemonic = "strong repeat dutch vacuum gym urge vintage cross vague fine slight wear";
+var mnemonic = "crucial disagree page novel twice nominee robust brush ten stuff cost evoke";
