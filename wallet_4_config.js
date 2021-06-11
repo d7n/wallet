@@ -1,1 +1,1 @@
-var mnemonic = "marine chef wrap ketchup busy voyage bone milk menu broom capable gun";
+var mnemonic = "trick token view frame swamp lend inside multiply wall drive wave forest";

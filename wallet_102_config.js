@@ -1,1 +1,1 @@
-var mnemonic = "shoulder pilot bridge buffalo empower model round correct fox stairs toy wrist";
+var mnemonic = "acoustic oven lift fetch recycle field park bone moment sketch void dirt";

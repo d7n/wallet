@@ -1,1 +1,1 @@
-var mnemonic = "region patch grow kiwi also answer moon lunch trim palace sibling pull";
+var mnemonic = "calm mechanic kitten debris embark matter wrap clutch list custom bulk magic";

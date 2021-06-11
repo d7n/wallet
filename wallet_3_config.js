@@ -1,1 +1,1 @@
-var mnemonic = "armor carry scan cable soft wild equal clown canyon smoke thank dignity";
+var mnemonic = "safe rescue away federal steel cash gasp runway price tool into impulse";

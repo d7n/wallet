@@ -1,1 +1,1 @@
-var mnemonic = "junior turn divide jealous ask gloom file medal eyebrow fish maple jelly";
+var mnemonic = "move keen kite wealth decide vocal fortune motor shiver science afraid vacant";

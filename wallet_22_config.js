@@ -1,1 +1,1 @@
-var mnemonic = "bridge lens cover stove index response relax wash strong travel figure behave";
+var mnemonic = "salon hotel helmet assume essay level humble shy kitten only shy account";

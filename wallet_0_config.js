@@ -1,1 +1,1 @@
-var mnemonic = "vote genre benefit saddle burst hello exclude water apple drama ocean woman";
+var mnemonic = "occur stadium ordinary young tongue debate elevator medal salad basket enjoy virtual";

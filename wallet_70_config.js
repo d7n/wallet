@@ -1,1 +1,1 @@
-var mnemonic = "mechanic fee patch potato drama movie property jealous demise coach visit creek";
+var mnemonic = "penalty wood primary autumn estate lobster song consider wasp wine special tank";

@@ -1,1 +1,1 @@
-var mnemonic = "drill random brother grace lonely bonus charge unlock awful near cruel primary";
+var mnemonic = "say discover before adult warfare sound trigger water shock axis minimum list";

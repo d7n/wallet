@@ -1,1 +1,1 @@
-var mnemonic = "concert nation fish exhaust drastic device attitude adult life refuse under crumble";
+var mnemonic = "model forward connect south defy manual true furnace fee expose organ attend";

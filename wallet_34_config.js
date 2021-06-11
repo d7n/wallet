@@ -1,1 +1,1 @@
-var mnemonic = "tilt castle explain guilt agent wine address lift subway curtain armed air";
+var mnemonic = "type world spice total anger ramp select riot thing cattle grace pencil";

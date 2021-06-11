@@ -1,1 +1,1 @@
-var mnemonic = "primary item silver behind scrap scissors bargain december year latin program process";
+var mnemonic = "spell clerk leaf nation fiscal clown chuckle addict glue style business also";

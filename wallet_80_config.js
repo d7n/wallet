@@ -1,1 +1,1 @@
-var mnemonic = "trouble turtle film point episode trial innocent spare rough visit cover term";
+var mnemonic = "clerk faint obscure cluster sun ripple dismiss suspect latin cloth road toast";

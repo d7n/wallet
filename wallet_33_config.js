@@ -1,1 +1,1 @@
-var mnemonic = "cupboard october poem canal exercise month cart erase shock sugar mention only";
+var mnemonic = "harbor route shield clay eye sample result blossom street grocery fish slogan";

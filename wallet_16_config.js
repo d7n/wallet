@@ -1,1 +1,1 @@
-var mnemonic = "pencil issue network approve tissue rib device squirrel giggle midnight annual volume";
+var mnemonic = "slot control lawn seed body okay able pen spirit other forest bike";

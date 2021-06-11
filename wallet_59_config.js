@@ -1,1 +1,1 @@
-var mnemonic = "project true fever various phrase puzzle ignore stock forum either consider ticket";
+var mnemonic = "few joke good donate cradle body evidence negative invest noble robust lake";

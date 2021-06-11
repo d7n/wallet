@@ -1,1 +1,1 @@
-var mnemonic = "blood athlete clip violin pink mandate female table ring universe lemon merry";
+var mnemonic = "people garment turn either upset cruise essay coral dutch despair safe mother";

@@ -1,1 +1,1 @@
-var mnemonic = "pet cousin barely stool erosion collect skirt twist liberty amazing buyer sand";
+var mnemonic = "find muscle tribe cart mandate remember multiply amazing script fragile large empty";

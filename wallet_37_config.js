@@ -1,1 +1,1 @@
-var mnemonic = "version camera safe core chase nephew peanut equip cover snack unaware can";
+var mnemonic = "pass tape bachelor feature airport pipe plug coil march state oblige window";

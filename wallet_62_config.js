@@ -1,1 +1,1 @@
-var mnemonic = "cement answer drop under genuine proof turn ginger tired donkey provide crush";
+var mnemonic = "pizza toddler quit define helmet raccoon sight smoke state assist frog attract";

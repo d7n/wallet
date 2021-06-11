@@ -1,1 +1,1 @@
-var mnemonic = "daring thank mad bright happy dove slam weasel pattern parade forest goat";
+var mnemonic = "fall sustain age program final use journey they radio smooth purse disorder";

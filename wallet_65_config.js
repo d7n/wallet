@@ -1,1 +1,1 @@
-var mnemonic = "shaft glow space behave syrup merry casual note raven extend shift case";
+var mnemonic = "disease nuclear rail trophy morning master ocean piece identify wrap list swap";

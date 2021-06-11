@@ -1,1 +1,1 @@
-var mnemonic = "rain vicious shiver side cigar plate wing route tail rigid panic nothing";
+var mnemonic = "slice shift differ state pass symbol enforce blame wedding mention wing diary";

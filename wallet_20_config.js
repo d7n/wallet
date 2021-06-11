@@ -1,1 +1,1 @@
-var mnemonic = "copper escape gather rent promote vendor off curve goat vital inherit sample";
+var mnemonic = "yellow sell carry tomato vessel naive differ trigger clock settle crumble meat";

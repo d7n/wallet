@@ -1,1 +1,1 @@
-var mnemonic = "argue siren doll put celery output arrive swing monster night pumpkin dad";
+var mnemonic = "toss prepare code survey verb dash bulb plastic midnight roof area usage";

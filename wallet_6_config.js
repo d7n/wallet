@@ -1,1 +1,1 @@
-var mnemonic = "frozen wonder become desert pipe creek truck annual spy pause tilt harvest";
+var mnemonic = "curtain zoo provide make turn plate pair height method daring range bless";

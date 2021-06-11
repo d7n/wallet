@@ -1,1 +1,1 @@
-var mnemonic = "embark valid master census change december sound solar deal screen wall auction";
+var mnemonic = "find cream spin burden meadow amused minute brave index daughter slow apart";

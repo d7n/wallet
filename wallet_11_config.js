@@ -1,1 +1,1 @@
-var mnemonic = "raccoon theory hazard liquid dynamic stable monitor shaft pool life flight notable";
+var mnemonic = "long boy lyrics select magic prefer program flower violin want nest pepper";

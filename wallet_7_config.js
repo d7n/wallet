@@ -1,1 +1,1 @@
-var mnemonic = "explain parrot burger easy immune banner voyage they foil depth gap lonely";
+var mnemonic = "bless talent option afraid juice camp blue enough smooth sun stereo crumble";

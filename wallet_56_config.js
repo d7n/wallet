@@ -1,1 +1,1 @@
-var mnemonic = "title glory jeans powder snake print tackle mad elite riot public sick";
+var mnemonic = "chapter six cigar degree check mosquito since divide receive tired fiction inspire";

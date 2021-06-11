@@ -1,1 +1,1 @@
-var mnemonic = "ivory rebel area damp expand combine lobster exit cube tongue scare frequent";
+var mnemonic = "silver position fatigue identify slender key amateur north olive prefer sketch typical";

@@ -1,1 +1,1 @@
-var mnemonic = "seek pilot arrange enforce feed vast depend decline relief album fiscal ridge";
+var mnemonic = "cattle vocal sure snack thumb share security govern hen burger afford gasp";

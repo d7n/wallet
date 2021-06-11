@@ -1,1 +1,1 @@
-var mnemonic = "pluck train omit much flee robust common ten culture permit brand aunt";
+var mnemonic = "crawl useless input motor piece act message text lumber cactus wood obvious";

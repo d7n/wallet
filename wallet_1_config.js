@@ -1,1 +1,1 @@
-var mnemonic = "hobby travel stay brown differ bounce cloth mean fan zone crisp include";
+var mnemonic = "surface argue section dream pair truly vital village trust cover steel put";

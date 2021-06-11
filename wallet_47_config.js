@@ -1,1 +1,1 @@
-var mnemonic = "hidden blind asthma naive sound advice donor spy response know feed left";
+var mnemonic = "pond reason issue mirror amused valid arch stamp antenna potato hat rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "era initial noble dawn language horror design minor moon unknown illegal speed";
+var mnemonic = "brain slab debris voyage symptom various service combine trend tuition noise forum";

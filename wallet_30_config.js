@@ -1,1 +1,1 @@
-var mnemonic = "six general usual earn young wire palm clever safe flock leopard tiger";
+var mnemonic = "detect turn shed exhibit flip coil brief dirt human powder blast trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "shield avoid ride muffin throw spirit session fresh enroll wagon still volume";
+var mnemonic = "public team crazy elite inner list say grass rely flee burst butter";

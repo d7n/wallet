@@ -1,1 +1,1 @@
-var mnemonic = "mistake remind gate sheriff rival expire rich sail expose story confirm flee";
+var mnemonic = "side faith stay near false voice tone can slow punch sadness shiver";

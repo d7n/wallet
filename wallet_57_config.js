@@ -1,1 +1,1 @@
-var mnemonic = "denial bleak skirt soap crane rib athlete option menu blush slice amount";
+var mnemonic = "parade review mask want miss roast test lamp farm three solid agree";

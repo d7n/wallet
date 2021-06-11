@@ -1,1 +1,1 @@
-var mnemonic = "harsh slogan trigger evolve boat scout install assume rabbit alley hawk zebra";
+var mnemonic = "draw kick mask sorry problem razor close daughter rose industry sure scale";

@@ -1,1 +1,1 @@
-var mnemonic = "blame future gloom prosper girl fever panther rifle fancy half rug quote";
+var mnemonic = "endorse student wing area among fabric motion boy unusual basket cloud loan";

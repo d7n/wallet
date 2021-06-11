@@ -1,1 +1,1 @@
-var mnemonic = "school giant federal between present album purity train vehicle wrestle badge unfold";
+var mnemonic = "viable today ride hollow trash vacant funny cliff address bachelor skate quantum";

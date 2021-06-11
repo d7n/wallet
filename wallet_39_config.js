@@ -1,1 +1,1 @@
-var mnemonic = "alert street unveil awesome staff occur ice noble minute evidence slender thank";
+var mnemonic = "eternal thank welcome little vault cinnamon alone vital defy still fringe remind";

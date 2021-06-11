@@ -1,1 +1,1 @@
-var mnemonic = "govern inmate afraid enact wish skate vacuum champion ill actress tilt wedding";
+var mnemonic = "rail cloud wealth hill portion place easily swap stairs pumpkin canyon cargo";

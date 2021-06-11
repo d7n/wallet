@@ -1,1 +1,1 @@
-var mnemonic = "work lava meadow buzz corn busy aunt expire push glass million cabbage";
+var mnemonic = "health hurry sign toast text cactus ice elephant shadow inject someone same";

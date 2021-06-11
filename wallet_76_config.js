@@ -1,1 +1,1 @@
-var mnemonic = "differ sword segment nominee duck faculty milk dinosaur lizard client pyramid often";
+var mnemonic = "mansion exact skill strategy candy merit surround rich wheat rigid usual over";

@@ -1,1 +1,1 @@
-var mnemonic = "depart life shell legal immune trust velvet slow steel entry final claw";
+var mnemonic = "steel cat grant era august skill erase cupboard camera pattern prize pet";

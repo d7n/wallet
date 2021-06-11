@@ -1,1 +1,1 @@
-var mnemonic = "grief loud increase health nerve man vanish please awful duty elbow exclude";
+var mnemonic = "guide poverty column peasant matter goat cabin quote trip run tourist cool";

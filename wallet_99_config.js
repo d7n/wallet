@@ -1,1 +1,1 @@
-var mnemonic = "invite sunny blanket neglect filter dry powder useless unlock trumpet people train";
+var mnemonic = "stomach fee educate cycle used shoot tissue system noble visit north logic";

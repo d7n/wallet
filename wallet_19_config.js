@@ -1,1 +1,1 @@
-var mnemonic = "critic action method leisure love vanish quality want stone inform chair excite";
+var mnemonic = "usage spend bone urban hard survey target diet oil surface brisk tower";

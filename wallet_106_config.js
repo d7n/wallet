@@ -1,1 +1,1 @@
-var mnemonic = "transfer arm early hedgehog blue issue holiday before control buddy gold battle";
+var mnemonic = "leopard pluck effort frozen double ring forest during ankle weekend injury kiss";

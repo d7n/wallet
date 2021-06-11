@@ -1,1 +1,1 @@
-var mnemonic = "answer cupboard pilot twelve cram pigeon add kind wisdom decline spare harvest";
+var mnemonic = "sustain stable hunt front shield ankle roof satisfy quote label ladder thumb";

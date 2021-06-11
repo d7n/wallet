@@ -1,1 +1,1 @@
-var mnemonic = "doll cabin time subway student drama erase slide can auto tennis join";
+var mnemonic = "gown record rather indicate useful phrase picture color version play west vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "portion wish nuclear subject history consider rhythm shove runway industry lawn fresh";
+var mnemonic = "arch reform assume own top drift south essay comic corn head uncover";

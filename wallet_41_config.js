@@ -1,1 +1,1 @@
-var mnemonic = "pet bonus sustain degree bitter job dune fatal critic kitten brother mention";
+var mnemonic = "prevent used scorpion avocado verify junk spoon grid gain rotate stadium anchor";

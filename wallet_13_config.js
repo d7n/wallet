@@ -1,1 +1,1 @@
-var mnemonic = "sibling box young disagree certain eagle bomb receive knife sponsor congress snack";
+var mnemonic = "adult slide tray genius cover split deputy grant junior toilet abuse board";

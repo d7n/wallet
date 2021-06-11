@@ -1,1 +1,1 @@
-var mnemonic = "movie blossom convince extra guide coral rose clay noble term pact pluck";
+var mnemonic = "april rebel hood shallow ginger between alter grace glide bulb emerge fresh";

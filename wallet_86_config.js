@@ -1,1 +1,1 @@
-var mnemonic = "essay couple ketchup suffer best robust scheme knife deal hand tortoise unveil";
+var mnemonic = "mixed shoulder tomato help flower salute purse twice antenna urge spider antique";

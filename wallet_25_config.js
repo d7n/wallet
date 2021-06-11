@@ -1,1 +1,1 @@
-var mnemonic = "tiny fantasy rotate aisle beef hollow spirit catalog music supply bind snack";
+var mnemonic = "move gift zebra organ remind game dizzy total scout butter climb index";

@@ -1,1 +1,1 @@
-var mnemonic = "column attend autumn fatigue rain suspect tonight wasp animal require license guess";
+var mnemonic = "state rifle garage fork teach dismiss lunar spoil broken remind whale attack";

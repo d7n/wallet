@@ -1,1 +1,1 @@
-var mnemonic = "provide rather antique wood thumb okay state giant that style pitch fog";
+var mnemonic = "daring rack clarify basic coach festival champion claim crop gravity outer decade";

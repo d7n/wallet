@@ -1,1 +1,1 @@
-var mnemonic = "horror art crucial attack absorb offer powder penalty win middle only soup";
+var mnemonic = "airport outer fatigue web meadow vacant garage bargain spin human thank immune";

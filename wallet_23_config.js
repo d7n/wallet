@@ -1,1 +1,1 @@
-var mnemonic = "inhale boat auto federal crowd enroll proud salon change material aunt about";
+var mnemonic = "anchor dad race profit blanket gossip cupboard sense lucky disease receive point";

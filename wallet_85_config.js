@@ -1,1 +1,1 @@
-var mnemonic = "across coral fade bundle tiny wink tennis text sword tag rice horn";
+var mnemonic = "furnace then left belt rely forward zone ritual furnace admit thought mom";

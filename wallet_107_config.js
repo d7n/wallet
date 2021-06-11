@@ -1,1 +1,1 @@
-var mnemonic = "fringe long member infant can evolve public degree country extend afford utility";
+var mnemonic = "disorder title glue canyon anchor above taxi settle trend salt spoon intact";

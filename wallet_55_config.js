@@ -1,1 +1,1 @@
-var mnemonic = "leave bulk version emotion online popular differ curious lazy crucial lounge differ";
+var mnemonic = "joy hand six payment echo clump kid joy thank group morning era";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle transfer tree solve strong news quick shine village mango episode cart";
+var mnemonic = "bridge group blind thank level afford remind lecture junior inner lounge sketch";

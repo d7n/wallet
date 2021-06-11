@@ -1,1 +1,1 @@
-var mnemonic = "measure sunset prize furnace nest absurd shrimp dragon license glide enjoy access";
+var mnemonic = "gather fury enjoy embark relax leaf figure filter battle sting puppy enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics love auction spare series walnut face grunt license anxiety away mean";
+var mnemonic = "divide dad pudding immense merry hobby sleep cash give casual media bench";

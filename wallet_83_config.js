@@ -1,1 +1,1 @@
-var mnemonic = "cheap radar fresh peace desert input pen chief honey normal sing onion";
+var mnemonic = "able lift barely bonus knock there motion begin abuse nut wait soda";

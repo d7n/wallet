@@ -1,1 +1,1 @@
-var mnemonic = "lesson wage wasp chicken eager barrel prosper mansion grief unfold boy crime";
+var mnemonic = "address find donkey hotel exhaust theory debate harvest sick impact together club";

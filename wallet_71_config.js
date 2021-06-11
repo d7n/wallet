@@ -1,1 +1,1 @@
-var mnemonic = "husband market casual tuition imitate owner dinosaur chef cheap write hold relief";
+var mnemonic = "repair aunt sad north brain eagle tourist fury smile husband video sausage";

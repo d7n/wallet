@@ -1,1 +1,1 @@
-var mnemonic = "street decrease index afraid bus october cigar nation core vessel vapor poem";
+var mnemonic = "candy response gown myself chuckle assault forum liquid derive interest picture actress";

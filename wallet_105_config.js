@@ -1,1 +1,1 @@
-var mnemonic = "episode few inflict flag portion property practice tourist harbor great pave pipe";
+var mnemonic = "crime awake discover target barely rhythm toe axis flush end quick milk";

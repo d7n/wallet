@@ -1,1 +1,1 @@
-var mnemonic = "access sea vanish fever news enjoy essay easy ski radio inject kick";
+var mnemonic = "uncover replace federal uncover ketchup choice small debris mother traffic snake average";

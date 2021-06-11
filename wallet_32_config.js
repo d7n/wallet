@@ -1,1 +1,1 @@
-var mnemonic = "position taste media tower forum predict veteran twenty stool lemon buffalo reward";
+var mnemonic = "acquire avoid door filter mention today also burst click ill rebuild cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "table loop oil umbrella charge sign enough goat trouble empty replace ability";
+var mnemonic = "pig chuckle wreck across peace survey funny aware hover neck trigger sketch";

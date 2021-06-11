@@ -1,1 +1,1 @@
-var mnemonic = "coral fantasy october matter always fit enable toe valve metal nose rude";
+var mnemonic = "venue skull tribe aspect oval infant olympic donor plug icon country will";

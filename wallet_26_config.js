@@ -1,1 +1,1 @@
-var mnemonic = "document desert boat reason possible creek fury pet pig already inmate awful";
+var mnemonic = "nasty brain leisure pave chapter rack twin slender jacket dinosaur strong smart";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness put utility family room wood time salon wine rhythm sick force";
+var mnemonic = "sick tongue heart collect okay spray coast lounge solar exclude frown gesture";

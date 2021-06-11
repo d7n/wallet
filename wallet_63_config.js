@@ -1,1 +1,1 @@
-var mnemonic = "sunset middle plastic game sun raven pluck huge awake balcony entire tenant";
+var mnemonic = "decorate address jazz coil opinion picture glide census wrap dune steel circle";

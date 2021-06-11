@@ -1,1 +1,1 @@
-var mnemonic = "once onion cycle script tooth mixed gown thought sauce lizard faint exclude";
+var mnemonic = "odor airport similar bottom awkward thrive tilt card choose city boss piece";

@@ -1,1 +1,1 @@
-var mnemonic = "copy embrace panda gossip discover balance dice stock budget hold tunnel ball";
+var mnemonic = "judge start galaxy swim twist gaze infant emerge buyer praise life table";

@@ -1,1 +1,1 @@
-var mnemonic = "apple acid monitor problem spirit cup tortoise beach burger depart enact tank";
+var mnemonic = "denial swear record catalog road fiscal decrease dose orange exotic august motion";

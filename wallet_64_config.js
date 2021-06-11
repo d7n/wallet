@@ -1,1 +1,1 @@
-var mnemonic = "chapter play tackle sibling unlock worth dwarf orange castle regular opera exile";
+var mnemonic = "section erupt armor brisk shrug audit differ sting elevator destroy witness turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "east police urban fluid good urban fox swift corn mother pill increase";
+var mnemonic = "solution initial dwarf crazy air maid ask always pear valid lecture lounge";

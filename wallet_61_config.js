@@ -1,1 +1,1 @@
-var mnemonic = "raccoon chalk title actress rich match tuition slot bread tent canyon error";
+var mnemonic = "credit hawk volcano pair rabbit security jazz capable kite subject jump addict";

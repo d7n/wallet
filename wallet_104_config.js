@@ -1,1 +1,1 @@
-var mnemonic = "permit divorce sibling need hint broom north dove mutual tribe chat return";
+var mnemonic = "penalty uphold job great cancel insect tide throw grape unfold citizen morning";

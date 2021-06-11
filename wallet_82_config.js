@@ -1,1 +1,1 @@
-var mnemonic = "mom assist media license slot forum drift vacuum sing thunder segment pizza";
+var mnemonic = "drive cross major appear alcohol barrel chef shell cupboard offer math wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma awkward still crop maple plate milk drip pizza knife bacon awake";
+var mnemonic = "layer because latin flee need lake fault rhythm that wheat initial ship";

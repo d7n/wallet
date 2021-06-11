@@ -1,1 +1,1 @@
-var mnemonic = "find identify album ramp chimney fiscal arrest come hint tank daring bundle";
+var mnemonic = "flee rigid feature country curious such silent carry ask draw glimpse pave";
