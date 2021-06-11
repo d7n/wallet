@@ -1,1 +1,1 @@
-var mnemonic = "cook repair cost proof angry blanket current labor recipe blame rail dish";
+var mnemonic = "blood maximum law faint forum saddle attend spot faint turkey soup garment";

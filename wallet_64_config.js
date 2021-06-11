@@ -1,1 +1,1 @@
-var mnemonic = "meadow zone cradle action age height skill save palace urban dismiss home";
+var mnemonic = "sauce smooth foil identify angry shoot chunk traffic aware point inherit one";

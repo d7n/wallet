@@ -1,1 +1,1 @@
-var mnemonic = "sting diagram gorilla inch canyon ugly swamp wing faculty divert airport engage";
+var mnemonic = "utility menu voice sort movie color horn source wink hobby demise cable";

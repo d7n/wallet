@@ -1,1 +1,1 @@
-var mnemonic = "hen pilot copper reform buyer lobster style panda amateur until sweet junior";
+var mnemonic = "marine acoustic grid rough drop board glory crop kitchen agree confirm motor";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid salad thunder end fat lake bind merry ugly figure rifle this";
+var mnemonic = "luggage recipe select immense neglect pepper foot again stumble scene physical sting";

@@ -1,1 +1,1 @@
-var mnemonic = "spider wire install never hat roast place journey comfort core element chase";
+var mnemonic = "range dose absorb property room vessel reveal hat wedding mix blame tobacco";

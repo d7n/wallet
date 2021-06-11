@@ -1,1 +1,1 @@
-var mnemonic = "truck drop oyster select offer level fit front finger surface exist relax";
+var mnemonic = "cotton glass feel daring matter blue great food project swamp robot then";

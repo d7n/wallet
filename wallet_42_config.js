@@ -1,1 +1,1 @@
-var mnemonic = "lift spread island cushion prepare army decade elder pistol ill excess kitten";
+var mnemonic = "rib cheese affair weapon powder fashion lonely gap prison aspect egg oxygen";

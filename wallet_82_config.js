@@ -1,1 +1,1 @@
-var mnemonic = "heavy art when distance gossip castle apart produce fox wasp correct alter";
+var mnemonic = "depend dolphin absent exclude army usual piano rate swallow nut devote spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern culture wish have believe wait input spawn scan shoe cry syrup";
+var mnemonic = "vehicle swim traffic style cube other sketch expand grain section acoustic spike";

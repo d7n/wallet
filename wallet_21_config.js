@@ -1,1 +1,1 @@
-var mnemonic = "slush mix zone ill false athlete then rough clever sentence behind sign";
+var mnemonic = "direct isolate throw oak remain ripple pet become hawk chef alley shadow";

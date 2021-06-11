@@ -1,1 +1,1 @@
-var mnemonic = "network antenna flip ancient chest crowd bunker canyon bomb hover quiz favorite";
+var mnemonic = "cradle health sing magic able check claw purchase laptop innocent ignore deer";

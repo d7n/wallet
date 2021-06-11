@@ -1,1 +1,1 @@
-var mnemonic = "pair access scare daughter patient pluck come access volume rescue abandon spread";
+var mnemonic = "post dice execute flee result essay hockey bracket bounce bench earth aim";

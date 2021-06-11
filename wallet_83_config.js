@@ -1,1 +1,1 @@
-var mnemonic = "spy humor lyrics carry protect virtual dream medal subway method similar tired";
+var mnemonic = "bid device fuel slab deliver lens please mule claim boat famous silk";

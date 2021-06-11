@@ -1,1 +1,1 @@
-var mnemonic = "pizza video cousin stock bag hurry century blind major fire eyebrow margin";
+var mnemonic = "between rookie desert pool render future actual thank kiss spoil lottery select";

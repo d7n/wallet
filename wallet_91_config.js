@@ -1,1 +1,1 @@
-var mnemonic = "butter taste boring simple route update album simple convince minimum wash arch";
+var mnemonic = "usual machine virtual check canal purse worth deny indoor direct regret account";

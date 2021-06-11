@@ -1,1 +1,1 @@
-var mnemonic = "valley desk escape iron derive busy squirrel hen accuse chapter boil naive";
+var mnemonic = "name amazing gauge bounce february sentence call barely distance total welcome torch";

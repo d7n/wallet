@@ -1,1 +1,1 @@
-var mnemonic = "inject cup wire maximum audit weather stand bulb pig bomb border material";
+var mnemonic = "actual gospel orchard wink have aunt garage van cross ring dress suspect";

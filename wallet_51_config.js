@@ -1,1 +1,1 @@
-var mnemonic = "faith pave brown slender noise pet hip crunch awful artwork palace urban";
+var mnemonic = "treat rose spray tribe recipe topic giraffe disagree lava where hurry snap";

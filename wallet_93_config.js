@@ -1,1 +1,1 @@
-var mnemonic = "scout sight salad meadow erase rival push rapid cover pottery cross inherit";
+var mnemonic = "glance service field ride bring another pass harsh judge fiction prosper crime";

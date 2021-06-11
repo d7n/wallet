@@ -1,1 +1,1 @@
-var mnemonic = "nephew hand again fly goddess option hunt scissors found fee forum acid";
+var mnemonic = "rival extend scene fragile under denial camera tourist unable fringe delay soul";

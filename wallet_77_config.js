@@ -1,1 +1,1 @@
-var mnemonic = "then absurd you goddess dune verb club valid impact smart helmet pull";
+var mnemonic = "diagram noble elephant swallow jar word cigar turtle credit walk luggage water";

@@ -1,1 +1,1 @@
-var mnemonic = "expose guess soft among ugly pulp express bleak consider clerk include crunch";
+var mnemonic = "obtain bean wool message pepper stick frozen glass shove lyrics answer swift";

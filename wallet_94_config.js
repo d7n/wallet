@@ -1,1 +1,1 @@
-var mnemonic = "key slush lesson pupil mind stove razor brain verify end allow excite";
+var mnemonic = "muscle spirit basic success involve pepper huge bread trial onion unhappy absurd";

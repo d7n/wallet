@@ -1,1 +1,1 @@
-var mnemonic = "fat empty fiction art melody night lobster chicken palm finger inquiry dry";
+var mnemonic = "essay open pulse grief convince almost length negative size moral year square";

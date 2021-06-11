@@ -1,1 +1,1 @@
-var mnemonic = "festival sport fade vibrant smooth fee paper paddle mango spoil ten pill";
+var mnemonic = "vital asset paddle scissors hope recycle corn cross vocal pull hen warm";

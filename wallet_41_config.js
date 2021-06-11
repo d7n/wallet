@@ -1,1 +1,1 @@
-var mnemonic = "rifle motion runway rhythm special bright exit quick organ decide soda pole";
+var mnemonic = "leopard twin shuffle puppy hint marriage spend car panda boil obey direct";

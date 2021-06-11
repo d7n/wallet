@@ -1,1 +1,1 @@
-var mnemonic = "song stereo balance stairs street approve wise pledge online guide total claim";
+var mnemonic = "any slot rigid sniff range bunker stand end curve attack uncle skill";

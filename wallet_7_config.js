@@ -1,1 +1,1 @@
-var mnemonic = "donor sleep reason jaguar language faculty choose pilot swift eager wet enter";
+var mnemonic = "floor salad armor soul humble pen train combine stool convince urban power";

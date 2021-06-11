@@ -1,1 +1,1 @@
-var mnemonic = "fee urge must shift label acquire mask hold taxi gloom that learn";
+var mnemonic = "subject elbow sign enable top equip behave assume sister cool young crack";

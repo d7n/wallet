@@ -1,1 +1,1 @@
-var mnemonic = "pact audit key green example radar rail story spoil wash sing tail";
+var mnemonic = "old snack ski athlete second zoo knee finger amused diagram shadow other";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy wrist airport pass salt stamp maze come come divert convince tape";
+var mnemonic = "choose snake theory dream baby patrol wrap action asthma deliver industry tuna";

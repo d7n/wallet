@@ -1,1 +1,1 @@
-var mnemonic = "maple rent lift check boil orbit reject horse fall forward release hub";
+var mnemonic = "spatial stand manual defy garment blue heavy million client unhappy room lucky";

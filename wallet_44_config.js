@@ -1,1 +1,1 @@
-var mnemonic = "inner stuff fall shift pull immense visit until marriage banana glide capital";
+var mnemonic = "hurdle harvest acoustic bench mention inquiry simple jelly silent spot other unfair";

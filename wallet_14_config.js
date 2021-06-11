@@ -1,1 +1,1 @@
-var mnemonic = "express turn slogan organ sentence cotton siren exotic mix please allow hurdle";
+var mnemonic = "moon meadow veteran usual visual dance reject pink increase banner prosper leg";

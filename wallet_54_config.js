@@ -1,1 +1,1 @@
-var mnemonic = "naive deny either trouble siege van patient they cloud evoke skirt purchase";
+var mnemonic = "spot total pencil sketch you best depart lawn vanish call donor rely";

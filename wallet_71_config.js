@@ -1,1 +1,1 @@
-var mnemonic = "fall ritual choice anger account quality switch photo moment few side cause";
+var mnemonic = "search clog debris machine risk business snake hundred program august broccoli liar";

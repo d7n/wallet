@@ -1,1 +1,1 @@
-var mnemonic = "retreat upon eyebrow penalty setup element spider seven document jealous champion trumpet";
+var mnemonic = "cherry public put dismiss mango minimum december envelope green cherry december staff";

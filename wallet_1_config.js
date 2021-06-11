@@ -1,1 +1,1 @@
-var mnemonic = "kind uniform neither drill novel flame film morning orchard rebel such syrup";
+var mnemonic = "syrup student twenty fiber oil property cloth tuna screen believe human jacket";

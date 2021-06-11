@@ -1,1 +1,1 @@
-var mnemonic = "basic save oven allow child green legend target industry square issue rural";
+var mnemonic = "select olive crisp dolphin boost add ice dilemma defense ice away valve";

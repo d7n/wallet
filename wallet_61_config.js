@@ -1,1 +1,1 @@
-var mnemonic = "budget sound limit crater health snap brave race jar zero nature spin";
+var mnemonic = "inch enemy private duty outer pretty net else beyond never arrive buzz";

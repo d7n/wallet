@@ -1,1 +1,1 @@
-var mnemonic = "measure library ship execute kid fork since shed artist toe oak pepper";
+var mnemonic = "library guitar only shock waste rely remember peanut lawsuit loan payment mad";

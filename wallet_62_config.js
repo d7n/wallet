@@ -1,1 +1,1 @@
-var mnemonic = "shine fitness insane drastic luxury mesh industry gold warm stool jelly witness";
+var mnemonic = "vault truth shell belt cross other wife fiscal grab join wet rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "dream found scorpion prevent chunk wood tent option glow dog decide seed";
+var mnemonic = "crush library crime select media broccoli innocent biology rubber staff forget pipe";

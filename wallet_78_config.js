@@ -1,1 +1,1 @@
-var mnemonic = "bacon history napkin theme width diamond rhythm mimic version joke casual devote";
+var mnemonic = "slice option huge usual noodle glove habit adapt talent flip vintage crush";

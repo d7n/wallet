@@ -1,1 +1,1 @@
-var mnemonic = "sort play elite defense punch genius start know warm wide manage stone";
+var mnemonic = "juice satoshi hidden input blue sustain layer process rich between benefit question";

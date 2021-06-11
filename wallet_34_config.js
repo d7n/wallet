@@ -1,1 +1,1 @@
-var mnemonic = "crash wait rookie voice sponsor rally sunset cage cost inflict anxiety amount";
+var mnemonic = "science creek spend ready matter bright pyramid broken leaf wool since scrub";

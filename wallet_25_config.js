@@ -1,1 +1,1 @@
-var mnemonic = "empower scan rose elevator still visa genius alcohol depth left comic mountain";
+var mnemonic = "world capable advice witness churn grass harsh snow voyage right lyrics vote";

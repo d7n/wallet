@@ -1,1 +1,1 @@
-var mnemonic = "paddle convince focus mistake dog believe bridge green pigeon virus end entire";
+var mnemonic = "grocery click husband thing honey social grab rocket scatter already scatter surge";

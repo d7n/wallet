@@ -1,1 +1,1 @@
-var mnemonic = "student bundle spice source access subway coyote donor invite perfect chicken actor";
+var mnemonic = "shoulder donkey betray ring prefer jump injury clerk radar erupt soon dog";

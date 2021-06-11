@@ -1,1 +1,1 @@
-var mnemonic = "shift attend welcome stomach adapt toe uphold charge squeeze echo scout olive";
+var mnemonic = "above perfect output garage birth people property cloth slush buzz piano point";

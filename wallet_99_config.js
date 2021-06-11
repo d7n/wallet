@@ -1,1 +1,1 @@
-var mnemonic = "pig wine impose view symptom repair exhibit tide client payment use face";
+var mnemonic = "knock blue minor session crane butter page extend inherit gain maid diagram";

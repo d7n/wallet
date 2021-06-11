@@ -1,1 +1,1 @@
-var mnemonic = "fork cargo invite waste birth saddle swear hospital vast cup pyramid dash";
+var mnemonic = "diamond capital chapter another bulk enact phone kitten ensure shock crew arrive";

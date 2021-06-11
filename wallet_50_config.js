@@ -1,1 +1,1 @@
-var mnemonic = "true average used flock hotel actual lonely arrest tape city legend voice";
+var mnemonic = "team slender october bamboo very cradle segment divert plug pipe sea sun";

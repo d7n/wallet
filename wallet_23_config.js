@@ -1,1 +1,1 @@
-var mnemonic = "film stamp inflict spare whisper mixed magic route expire real job hello";
+var mnemonic = "pelican name just dry puppy rail inform spawn system symptom jazz kiwi";

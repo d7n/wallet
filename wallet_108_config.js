@@ -1,1 +1,1 @@
-var mnemonic = "engine easy more sick huge reunion custom silver retreat piano save record";
+var mnemonic = "hungry police dice clinic grain behind inch pupil turn matter bag dentist";

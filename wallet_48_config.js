@@ -1,1 +1,1 @@
-var mnemonic = "normal frozen original wisdom copper wreck inflict exact engine obscure sword pencil";
+var mnemonic = "penalty attack leader jelly salt debate wash original eyebrow verb leisure orphan";

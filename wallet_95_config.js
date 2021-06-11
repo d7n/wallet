@@ -1,1 +1,1 @@
-var mnemonic = "armed wheat major barrel front ask horror pigeon genius walk nice oven";
+var mnemonic = "roast way before trigger copy pet ranch rich envelope sound word hour";

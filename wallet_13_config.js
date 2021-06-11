@@ -1,1 +1,1 @@
-var mnemonic = "arrow release device hard bike churn pumpkin this share purchase busy legal";
+var mnemonic = "retire dynamic ketchup copy lion upgrade theory valid velvet length sugar chase";

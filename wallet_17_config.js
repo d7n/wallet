@@ -1,1 +1,1 @@
-var mnemonic = "water order polar genre cluster gravity match dove runway pizza average story";
+var mnemonic = "power repair diagram zone light canyon slight notice conduct share inner expose";

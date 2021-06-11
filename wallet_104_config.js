@@ -1,1 +1,1 @@
-var mnemonic = "there false fossil bless funny stay circle kingdom average cost certain window";
+var mnemonic = "coral notice leave exhaust cook target tattoo more expect sweet obscure slice";

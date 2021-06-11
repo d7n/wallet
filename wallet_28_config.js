@@ -1,1 +1,1 @@
-var mnemonic = "naive witness stomach master spin merge visual system rather excuse bread enough";
+var mnemonic = "song sudden poverty purity hamster gift worry upgrade diet build response check";

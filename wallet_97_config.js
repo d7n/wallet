@@ -1,1 +1,1 @@
-var mnemonic = "cabin color swap dumb brown post wire source patient repair tape volcano";
+var mnemonic = "caution square vehicle spider gift toddler tooth provide fortune east design impact";

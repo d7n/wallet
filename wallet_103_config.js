@@ -1,1 +1,1 @@
-var mnemonic = "lyrics van piece concert guilt label mushroom rough between endorse nephew lounge";
+var mnemonic = "inquiry announce gold barely sister talk oxygen risk rain cool cigar name";

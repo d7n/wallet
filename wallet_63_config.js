@@ -1,1 +1,1 @@
-var mnemonic = "result engage used left apple accuse when warm symptom spread submit visa";
+var mnemonic = "fatigue sound scheme glad sort street upper kitchen paddle spawn result mule";

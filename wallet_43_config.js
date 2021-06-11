@@ -1,1 +1,1 @@
-var mnemonic = "pair rebel frame issue process tenant habit vocal swear snack type salt";
+var mnemonic = "marriage chapter jaguar sphere salmon manage valley snow when tornado base flush";

@@ -1,1 +1,1 @@
-var mnemonic = "slab consider transfer tonight mountain boost dry emerge lounge cabbage idle airport";
+var mnemonic = "display library flower moon grief episode gasp ready torch inspire armor typical";

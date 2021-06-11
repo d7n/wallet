@@ -1,1 +1,1 @@
-var mnemonic = "mask certain chapter day slender step argue lion disagree drill brief remain";
+var mnemonic = "scheme oblige silk current spell exhaust ticket document virtual drop quarter prosper";

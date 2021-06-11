@@ -1,1 +1,1 @@
-var mnemonic = "visit fuel hood skate mercy pencil fame veteran winner often future quote";
+var mnemonic = "pole inhale pond disagree belt race excite horror chef when sadness relax";

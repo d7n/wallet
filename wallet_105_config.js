@@ -1,1 +1,1 @@
-var mnemonic = "uphold fiscal citizen force grass spray trash lock steak book hamster uniform";
+var mnemonic = "one diet frequent crucial romance wrap album final junior fine month illness";

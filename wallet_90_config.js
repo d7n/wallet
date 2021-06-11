@@ -1,1 +1,1 @@
-var mnemonic = "local reflect exist report unable island unveil keen lab way garment sheriff";
+var mnemonic = "away net until riot vapor october wish elegant agree mirror excuse false";

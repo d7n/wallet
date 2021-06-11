@@ -1,1 +1,1 @@
-var mnemonic = "bag clip dish melt elevator enact sponsor cigar today fever body sibling";
+var mnemonic = "rail teach beyond maze casual neck lecture avoid nasty flee liberty fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "car snake attract become bounce area kid auto wing dose enemy token";
+var mnemonic = "solution injury glare snow supply shoulder blossom luxury effort left repair bring";

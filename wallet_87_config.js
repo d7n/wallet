@@ -1,1 +1,1 @@
-var mnemonic = "later feel fall member between atom version fix huge crumble easily rich";
+var mnemonic = "focus tunnel disease flag embark eyebrow control artist powder frown goddess laptop";

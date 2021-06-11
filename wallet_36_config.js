@@ -1,1 +1,1 @@
-var mnemonic = "develop life unfair shadow upgrade nuclear spell tooth magic sheriff mother stool";
+var mnemonic = "finger address cash love ball renew peanut purse noodle derive advice olympic";

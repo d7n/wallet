@@ -1,1 +1,1 @@
-var mnemonic = "polar bonus panic emotion orient squirrel ostrich stereo come strategy play debate";
+var mnemonic = "pear degree harbor page uphold glass paper follow wait once video wrong";

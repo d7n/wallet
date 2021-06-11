@@ -1,1 +1,1 @@
-var mnemonic = "rabbit zebra govern ripple mandate cream fitness message crowd favorite bless agent";
+var mnemonic = "music survey program debate morning section cloud dumb nose educate delay museum";

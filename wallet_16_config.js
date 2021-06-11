@@ -1,1 +1,1 @@
-var mnemonic = "island use license harbor syrup blame hidden direct ripple claw tornado amateur";
+var mnemonic = "eagle tenant axis express slow patient vast genre night oyster multiply limit";

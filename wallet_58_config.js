@@ -1,1 +1,1 @@
-var mnemonic = "quit supreme people fragile aspect town network reunion soon fox joy novel";
+var mnemonic = "spring lottery old burger you page trap call between someone solution fiction";

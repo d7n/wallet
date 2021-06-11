@@ -1,1 +1,1 @@
-var mnemonic = "involve derive captain loop repair glide amazing oppose observe employ burger giggle";
+var mnemonic = "winner salute banner bar path warrior horror ahead put poem mule grunt";

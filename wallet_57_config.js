@@ -1,1 +1,1 @@
-var mnemonic = "accuse change tackle true other duty magnet ribbon order modify sort kid";
+var mnemonic = "pigeon leave melody summer defy club chimney dizzy broken window truly dolphin";

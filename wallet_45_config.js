@@ -1,1 +1,1 @@
-var mnemonic = "fabric inspire gravity foot math small verb tool hundred shop answer rifle";
+var mnemonic = "satoshi castle arrest ankle hidden pear bundle comfort dry shuffle farm catalog";

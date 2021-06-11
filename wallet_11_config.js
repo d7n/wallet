@@ -1,1 +1,1 @@
-var mnemonic = "boy fault beach school cannon pear enact ketchup unusual axis mansion gas";
+var mnemonic = "prefer spend lounge sustain light lift what guess betray renew card process";

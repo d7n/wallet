@@ -1,1 +1,1 @@
-var mnemonic = "mammal minute minimum pumpkin ginger clever apology shy case code renew sustain";
+var mnemonic = "inspire one limb math nut whale poet float stuff forget crane front";

@@ -1,1 +1,1 @@
-var mnemonic = "river valley consider original parade rocket creek shoot later video argue child";
+var mnemonic = "chef increase sustain save devote wrist head faint drama roast benefit skill";

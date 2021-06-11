@@ -1,1 +1,1 @@
-var mnemonic = "hole pistol play oval neutral garden pattern number type observe pluck today";
+var mnemonic = "argue ensure festival scene long area shy update olympic hotel window ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "blame fashion deputy dentist grain humor walk category apart paddle devote trust";
+var mnemonic = "intact draw august reduce endless strong grocery language twenty guess ivory coyote";

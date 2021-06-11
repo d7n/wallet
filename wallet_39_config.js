@@ -1,1 +1,1 @@
-var mnemonic = "alert ketchup vault receive lounge animal youth awesome metal silk follow length";
+var mnemonic = "twice science loyal salt tiger axis borrow original electric race can protect";

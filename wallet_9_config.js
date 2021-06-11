@@ -1,1 +1,1 @@
-var mnemonic = "rhythm scout garlic agree upon water doll mix shadow voice kind near";
+var mnemonic = "now regret play lava front lecture dumb piece apology toilet shoulder gallery";

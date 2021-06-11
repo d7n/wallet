@@ -1,1 +1,1 @@
-var mnemonic = "nominee supreme west crew gravity other between wrong antenna tackle canvas antique";
+var mnemonic = "joke aerobic island digital trumpet alarm siege dawn satisfy hospital exile salon";
