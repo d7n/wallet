@@ -1,1 +1,1 @@
-var mnemonic = "elder demise impulse stairs armed design pair abstract picture shell lion business";
+var mnemonic = "grief chest ticket certain cabin panel exhaust object grocery apple silly usage";

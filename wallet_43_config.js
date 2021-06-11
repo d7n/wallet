@@ -1,1 +1,1 @@
-var mnemonic = "click season brother fluid jewel peace prefer kitchen zebra disease canal snap";
+var mnemonic = "join bone truth steak primary doll cement finish where foam category outside";

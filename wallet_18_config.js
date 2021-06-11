@@ -1,1 +1,1 @@
-var mnemonic = "unable involve width moment pen eternal ancient logic pilot bubble civil hungry";
+var mnemonic = "physical squirrel unfold amount garbage waste expire manual patch false wrong oval";

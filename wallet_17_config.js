@@ -1,1 +1,1 @@
-var mnemonic = "language write void profit spin ecology ripple depth brand slam panda health";
+var mnemonic = "reopen bind action city code guess cruel prefer air neutral phrase nominee";

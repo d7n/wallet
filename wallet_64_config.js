@@ -1,1 +1,1 @@
-var mnemonic = "ecology exile adapt century tornado sail skill peace online riot defense dragon";
+var mnemonic = "manual group help first rebel solar alert rabbit gentle pink heart pig";

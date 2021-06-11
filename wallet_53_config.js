@@ -1,1 +1,1 @@
-var mnemonic = "usage bitter fault pencil one cotton oppose liar buzz credit short ability";
+var mnemonic = "atom catch oppose job purchase antenna neck resist vintage must between before";

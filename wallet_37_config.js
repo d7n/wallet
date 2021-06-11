@@ -1,1 +1,1 @@
-var mnemonic = "cliff ritual mimic attitude february business load valve dose actual upon three";
+var mnemonic = "raven shaft bench auction calm radio message typical fluid hurt midnight bright";

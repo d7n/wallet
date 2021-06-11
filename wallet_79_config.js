@@ -1,1 +1,1 @@
-var mnemonic = "recipe sentence analyst auto walk property adjust wall table artwork wisdom taxi";
+var mnemonic = "involve property click proud spatial moon tip sorry like distance trade olive";

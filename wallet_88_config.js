@@ -1,1 +1,1 @@
-var mnemonic = "crazy bamboo else hawk photo enhance ball silent fortune uncle entry broom";
+var mnemonic = "orange know reflect solution glimpse misery awful nominee shrimp panda present obvious";

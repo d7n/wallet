@@ -1,1 +1,1 @@
-var mnemonic = "toast start relax brass rebel hen bone toss problem crowd display team";
+var mnemonic = "dog liar claim scorpion course crouch roof hybrid suggest journey damage ozone";

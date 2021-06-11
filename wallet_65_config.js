@@ -1,1 +1,1 @@
-var mnemonic = "sheriff staff napkin keep modify kingdom mule beef lion game unknown inside";
+var mnemonic = "kick crumble pulse wasp bone come enemy auto vessel scrub rule coil";

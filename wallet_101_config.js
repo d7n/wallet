@@ -1,1 +1,1 @@
-var mnemonic = "cushion enemy range local rent catalog hair frame kick worth thought hand";
+var mnemonic = "silly shallow image run utility barrel spread faith monitor tuna expire course";

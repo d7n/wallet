@@ -1,1 +1,1 @@
-var mnemonic = "shift rival rural daughter age minor secret shift weekend snow kiwi bacon";
+var mnemonic = "topple panda drop gasp curious object middle slice reflect unique area inner";

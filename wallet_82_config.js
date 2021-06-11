@@ -1,1 +1,1 @@
-var mnemonic = "cushion hundred famous debris impulse hawk image comfort hidden skull express spot";
+var mnemonic = "icon friend bracket worth motor oblige wreck end angle pool film injury";

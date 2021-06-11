@@ -1,1 +1,1 @@
-var mnemonic = "dog hip jewel tell drift payment enact debris pole judge enhance mandate";
+var mnemonic = "device shop height earn glass very urban render patrol build dash parade";

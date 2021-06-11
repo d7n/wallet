@@ -1,1 +1,1 @@
-var mnemonic = "jacket angry aisle cherry digital deposit raise access dutch unfair pudding noodle";
+var mnemonic = "gap bicycle receive purity tumble beauty elephant someone dash blind air year";

@@ -1,1 +1,1 @@
-var mnemonic = "panel spike essence depart alter ethics spot derive midnight fossil inject patch";
+var mnemonic = "mobile bacon floor empower aim dumb remind erase come sample brown segment";

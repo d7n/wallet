@@ -1,1 +1,1 @@
-var mnemonic = "drum debate plate upon fault void odor gasp tooth funny arrange helmet";
+var mnemonic = "jar tongue result scatter address flight nasty uniform magnet toe close hill";

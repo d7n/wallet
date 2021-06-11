@@ -1,1 +1,1 @@
-var mnemonic = "luggage giraffe lazy kangaroo outside plate sausage poverty public summer work october";
+var mnemonic = "girl course health wet hurdle maple library toilet cotton voyage airport attack";

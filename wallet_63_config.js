@@ -1,1 +1,1 @@
-var mnemonic = "torch laptop coin sing almost trash calm load brother parade busy elegant";
+var mnemonic = "toddler aim buyer about limb glove security rotate pair dish chuckle organ";

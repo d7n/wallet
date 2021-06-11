@@ -1,1 +1,1 @@
-var mnemonic = "tip attend spoil bring fatigue mansion private glory sustain security ticket enemy";
+var mnemonic = "model more angry essay cave nature balance good tribe phrase tell stool";

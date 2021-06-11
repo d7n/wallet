@@ -1,1 +1,1 @@
-var mnemonic = "shuffle very magic reason kidney remember meat frozen mother tube denial museum";
+var mnemonic = "cliff despair what addict hard kidney genius episode snap balcony only love";

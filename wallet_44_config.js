@@ -1,1 +1,1 @@
-var mnemonic = "shuffle army wood crash adult write tunnel grit claw eagle clean fragile";
+var mnemonic = "shove mule wagon erupt puzzle monkey sail distance desert flock dad kit";

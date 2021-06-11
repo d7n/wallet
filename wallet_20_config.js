@@ -1,1 +1,1 @@
-var mnemonic = "okay feed absorb addict merit lizard early recipe evolve keen club candy";
+var mnemonic = "tool denial match story enhance wrestle raise power key season about goddess";

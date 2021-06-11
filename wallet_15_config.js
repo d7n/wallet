@@ -1,1 +1,1 @@
-var mnemonic = "distance exist gallery chicken protect provide gold mix various split coffee imitate";
+var mnemonic = "enroll local dice curtain beyond empty erosion snow shock body clerk vehicle";

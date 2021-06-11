@@ -1,1 +1,1 @@
-var mnemonic = "breeze muscle erosion stove student double random sample depart armed dune vital";
+var mnemonic = "cook pull orient scheme sick olive fault fringe lottery sword blast gap";

@@ -1,1 +1,1 @@
-var mnemonic = "reason language trick life list neglect hundred add verify coil unfair fatigue";
+var mnemonic = "pass misery orbit baby jeans echo rate weapon apple dignity slice want";

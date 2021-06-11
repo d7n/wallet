@@ -1,1 +1,1 @@
-var mnemonic = "pool example pluck drum parent piece fluid long purity absorb pony gadget";
+var mnemonic = "soft melody under tenant pole next air kit own level skin squeeze";

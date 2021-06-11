@@ -1,1 +1,1 @@
-var mnemonic = "sunset divorce floor loyal wagon rice cotton horse squirrel reduce horn chimney";
+var mnemonic = "abuse rescue unfold royal eight inflict gossip sport still reflect reform beyond";

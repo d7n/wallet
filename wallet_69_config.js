@@ -1,1 +1,1 @@
-var mnemonic = "deliver story brown twenty citizen donate proud frequent vocal crop length kitten";
+var mnemonic = "squeeze slice educate abstract hand cycle cruel strike fame exclude claw link";

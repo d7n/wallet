@@ -1,1 +1,1 @@
-var mnemonic = "morning sadness estate birth fork lesson orange soldier system butter cereal they";
+var mnemonic = "catalog disagree silly sustain oxygen lawsuit ice volume adjust indicate impulse bless";

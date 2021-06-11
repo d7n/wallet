@@ -1,1 +1,1 @@
-var mnemonic = "hand struggle baby kid label quantum one salon escape occur meat clay";
+var mnemonic = "issue gorilla blush attack guard denial leader elbow kite smoke web obtain";

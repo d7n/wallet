@@ -1,1 +1,1 @@
-var mnemonic = "wrestle cement wonder shaft hint awful sell must useful artwork fancy real";
+var mnemonic = "rent lamp sort vessel eager ability atom verify tattoo comfort save weasel";

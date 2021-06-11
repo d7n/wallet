@@ -1,1 +1,1 @@
-var mnemonic = "trash cover expose van carry sell cream purse price way earth nothing";
+var mnemonic = "razor valve path man spirit gather miss chat door game stay hedgehog";

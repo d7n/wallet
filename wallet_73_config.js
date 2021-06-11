@@ -1,1 +1,1 @@
-var mnemonic = "kiwi humor tobacco pretty frozen fatigue extra marriage upper damp chaos head";
+var mnemonic = "sting butter science arrive bid stand cram orbit wrap alley kingdom trophy";

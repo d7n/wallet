@@ -1,1 +1,1 @@
-var mnemonic = "spy gown increase grape captain symptom orange rain prison vacant divide spice";
+var mnemonic = "theme minimum dove entry nurse glue visa display embrace female click gate";

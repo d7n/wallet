@@ -1,1 +1,1 @@
-var mnemonic = "census warm ankle hen arch grab aim protect section food funny track";
+var mnemonic = "tone chronic return nose birth monkey weasel catch vacuum jeans tourist game";

@@ -1,1 +1,1 @@
-var mnemonic = "water language wide wave defy safe picture awesome elbow rib ski auto";
+var mnemonic = "life wise other decrease token trap session goat mansion license kitten pluck";

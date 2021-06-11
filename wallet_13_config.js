@@ -1,1 +1,1 @@
-var mnemonic = "lock law common album frozen diagram truth exist tuna canal ship negative";
+var mnemonic = "equal often endorse rib west admit chicken blur hand nominee outdoor foam";

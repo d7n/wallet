@@ -1,1 +1,1 @@
-var mnemonic = "climb crumble drop bottom primary hard bunker beach drink clip atom mom";
+var mnemonic = "series lottery viable raven price nice mimic school antique drink income chapter";

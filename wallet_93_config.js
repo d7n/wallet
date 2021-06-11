@@ -1,1 +1,1 @@
-var mnemonic = "survey boat surprise leave crane turn easy champion hurdle friend air word";
+var mnemonic = "angry film slight casino portion gas across print radar attract range reason";

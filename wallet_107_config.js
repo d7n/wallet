@@ -1,1 +1,1 @@
-var mnemonic = "desert vendor actual negative depend this mule grape hen address venue auto";
+var mnemonic = "brown crack credit burst nerve bag write grass number swamp pluck else";

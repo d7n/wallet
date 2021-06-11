@@ -1,1 +1,1 @@
-var mnemonic = "stadium assume climb put goose minimum expire proof forget north name sphere";
+var mnemonic = "measure trick current arch police envelope hidden erase chuckle stone door trend";

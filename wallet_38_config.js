@@ -1,1 +1,1 @@
-var mnemonic = "you hedgehog tray gap skin liberty comfort close slot barely maid gaze";
+var mnemonic = "silver twist wrap mail oblige cousin outer sunny van neck sunny breeze";

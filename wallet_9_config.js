@@ -1,1 +1,1 @@
-var mnemonic = "stay cat chronic name power pilot slide museum unique sure person guard";
+var mnemonic = "cry pelican old thrive donkey expand ribbon gossip slice erode around expose";

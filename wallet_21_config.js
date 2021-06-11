@@ -1,1 +1,1 @@
-var mnemonic = "useless alien either luggage daring wrist topple gun mom one reason affair";
+var mnemonic = "switch desert can body lunch soap bike sight enlist song dry fan";

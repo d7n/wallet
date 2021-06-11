@@ -1,1 +1,1 @@
-var mnemonic = "reason end tiny axis kit result vague obscure wide risk industry together";
+var mnemonic = "drill busy toddler mechanic sight stadium exact eye note mouse sort float";

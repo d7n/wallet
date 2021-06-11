@@ -1,1 +1,1 @@
-var mnemonic = "various foot fade scare bleak quality skirt divorce minute equal theory advice";
+var mnemonic = "large deliver lounge deal consider fan universe sausage forum list cute adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate post way crack carpet asthma wise monster episode swallow verb gravity";
+var mnemonic = "bounce garment turn disorder dutch garage curve add outer hover air truth";

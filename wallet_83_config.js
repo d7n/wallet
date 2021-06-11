@@ -1,1 +1,1 @@
-var mnemonic = "stamp argue stomach season inform trigger hour derive beyond exact warrior express";
+var mnemonic = "thumb water post fish juice young daring rubber verify reject pumpkin purity";

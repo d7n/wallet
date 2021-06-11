@@ -1,1 +1,1 @@
-var mnemonic = "poverty winter document search during season begin misery jaguar renew hill flock";
+var mnemonic = "remember ability rifle unknown injury maximum enjoy harbor width borrow rack mirror";

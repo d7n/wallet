@@ -1,1 +1,1 @@
-var mnemonic = "hand issue trend cool girl enact tuition assault denial summer series mad";
+var mnemonic = "payment easy huge steel elephant rib advance squeeze lion mind outdoor asset";

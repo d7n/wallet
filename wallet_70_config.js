@@ -1,1 +1,1 @@
-var mnemonic = "buffalo visit bless romance cinnamon audit pudding unable forget crime claim dilemma";
+var mnemonic = "pill lemon top trim fun verify wrist north salmon rifle kitten foil";

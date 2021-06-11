@@ -1,1 +1,1 @@
-var mnemonic = "list include cloth fox proud hundred either equip crouch swamp tiger fashion";
+var mnemonic = "east hospital space explain satoshi zoo close mercy sword mobile sting better";

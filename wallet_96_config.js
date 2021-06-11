@@ -1,1 +1,1 @@
-var mnemonic = "wealth private lazy zero before leave elegant depend unhappy distance tank flee";
+var mnemonic = "chalk bright shrimp daughter cheese chaos damage trade decorate chaos thunder rug";

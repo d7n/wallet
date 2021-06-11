@@ -1,1 +1,1 @@
-var mnemonic = "index fine attract fantasy motor group arrive box mom shove tube core";
+var mnemonic = "slice walk depart curious proof ankle seven strategy avoid ecology survey attract";

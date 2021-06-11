@@ -1,1 +1,1 @@
-var mnemonic = "boss hub habit matter blouse plug upgrade prefer aerobic order layer laugh";
+var mnemonic = "hotel series upon switch habit pear spy weekend fashion chair sausage large";

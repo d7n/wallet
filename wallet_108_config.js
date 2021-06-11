@@ -1,1 +1,1 @@
-var mnemonic = "toward curtain cotton response shoe picnic assume theory riot recycle suggest bounce";
+var mnemonic = "cousin shove legal lift silk chicken river north syrup fringe happy desert";

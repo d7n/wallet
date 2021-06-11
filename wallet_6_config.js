@@ -1,1 +1,1 @@
-var mnemonic = "logic sail number month yellow siren license whip exclude knife give logic";
+var mnemonic = "session dinosaur model enable jungle waste youth kiss stage final outdoor input";

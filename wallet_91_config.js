@@ -1,1 +1,1 @@
-var mnemonic = "once roast load rescue language involve grief virus spoon pudding choose puppy";
+var mnemonic = "diagram crisp install soldier obscure myself obey tobacco visual neck draft address";

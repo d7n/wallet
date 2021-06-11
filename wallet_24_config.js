@@ -1,1 +1,1 @@
-var mnemonic = "fury school online six primary elephant mammal access extra result grocery parrot";
+var mnemonic = "material scout long donate recall insect ice top check poverty slide celery";

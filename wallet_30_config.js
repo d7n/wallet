@@ -1,1 +1,1 @@
-var mnemonic = "crucial found spice mimic brick drum walnut drum crisp motor source soda";
+var mnemonic = "swing differ wise hawk century sniff chief swamp lobster tongue ahead carbon";

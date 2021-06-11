@@ -1,1 +1,1 @@
-var mnemonic = "keep episode pistol sponsor alcohol first party fluid relax fame toddler genre";
+var mnemonic = "shuffle essence horn service large retreat final ladder spin trim avoid bitter";

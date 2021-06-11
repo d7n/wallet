@@ -1,1 +1,1 @@
-var mnemonic = "fix guitar six gift lecture any conduct toe pottery auction matter ozone";
+var mnemonic = "twin chimney say notable bread bind govern leopard chapter story digital attack";

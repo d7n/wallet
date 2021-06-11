@@ -1,1 +1,1 @@
-var mnemonic = "process theme vacant day gospel other merge renew deputy provide execute cube";
+var mnemonic = "alter soft tomorrow hybrid cotton rocket mutual stadium pattern desert pluck regret";

@@ -1,1 +1,1 @@
-var mnemonic = "smile swallow sand grocery jeans brisk remind green tail parrot rare insane";
+var mnemonic = "clerk ready diet afraid insect credit rocket shift squirrel equip trick build";

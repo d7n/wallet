@@ -1,1 +1,1 @@
-var mnemonic = "adapt credit shop sound farm invite twist question actual chaos seven again";
+var mnemonic = "client blood install hawk blade unit gorilla quit addict exchange armor affair";

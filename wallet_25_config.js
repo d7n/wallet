@@ -1,1 +1,1 @@
-var mnemonic = "lunch what educate cabin improve entry invest midnight clock mistake text margin";
+var mnemonic = "iron random lens miracle donkey dragon bean narrow family damp soap vanish";

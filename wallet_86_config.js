@@ -1,1 +1,1 @@
-var mnemonic = "decade bike sauce film disagree bunker mirror knock cover joy ignore issue";
+var mnemonic = "session ridge enlist know siege little dial meadow session same balcony winner";

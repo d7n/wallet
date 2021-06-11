@@ -1,1 +1,1 @@
-var mnemonic = "loyal decide evoke top proof average winner scheme month guilt zero puzzle";
+var mnemonic = "donate post own various boy mango play muffin garment network fever ostrich";

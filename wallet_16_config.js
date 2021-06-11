@@ -1,1 +1,1 @@
-var mnemonic = "wish echo bread endorse cost typical arrow film uncle stand emerge pet";
+var mnemonic = "join castle pottery section box title mammal maze fantasy indicate act van";

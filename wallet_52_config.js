@@ -1,1 +1,1 @@
-var mnemonic = "owner danger eager just flock equal weird stomach vivid enter caught obtain";
+var mnemonic = "retire force cruel point girl gather industry flavor copper fame shell undo";

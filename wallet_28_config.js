@@ -1,1 +1,1 @@
-var mnemonic = "dance disease idea save turn flat invite media electric company opera loan";
+var mnemonic = "curious give ski exist open remain please win reward method volcano cup";

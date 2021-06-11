@@ -1,1 +1,1 @@
-var mnemonic = "another eagle round awkward capable foil near spawn consider asset barely champion";
+var mnemonic = "lens oak zone foil lab code dismiss page art rapid palm erosion";

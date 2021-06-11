@@ -1,1 +1,1 @@
-var mnemonic = "ability dog helmet retire search great major mesh similar roast decorate crystal";
+var mnemonic = "also ritual wrong luxury town renew evidence major pave shell penalty later";

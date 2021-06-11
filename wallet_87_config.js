@@ -1,1 +1,1 @@
-var mnemonic = "sea ride visa divide unveil zebra alien oblige gentle pause doll light";
+var mnemonic = "sleep swear obscure author liquid invest found raw sad scrap stand heavy";

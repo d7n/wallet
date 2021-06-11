@@ -1,1 +1,1 @@
-var mnemonic = "ozone crisp east obscure voyage relief hockey glow during original way citizen";
+var mnemonic = "teach useful inner advance final inch impact pitch educate monitor bulk saddle";

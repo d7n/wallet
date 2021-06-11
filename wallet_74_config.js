@@ -1,1 +1,1 @@
-var mnemonic = "affair profit curve harsh prefer budget tomato quick pitch farm soldier any";
+var mnemonic = "middle exile choice scorpion hungry flock bullet height blossom lawn license road";

@@ -1,1 +1,1 @@
-var mnemonic = "goose robot crisp require damp hover goat salute zoo teach middle damp";
+var mnemonic = "slush add sunny kid imitate letter enable morning among spirit top puzzle";

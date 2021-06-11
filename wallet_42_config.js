@@ -1,1 +1,1 @@
-var mnemonic = "boat seed civil dilemma speed fence dirt dress leave sugar father what";
+var mnemonic = "define fetch adjust train torch fish lake lobster turn mammal doctor kit";

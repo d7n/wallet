@@ -1,1 +1,1 @@
-var mnemonic = "they shallow pizza matrix assume awesome acquire fox brush spend team crumble";
+var mnemonic = "umbrella define timber plate office hen rookie element reject shuffle subject spread";

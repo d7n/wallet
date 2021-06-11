@@ -1,1 +1,1 @@
-var mnemonic = "mosquito embrace swear neck ride toilet kidney clock wisdom hover elder split";
+var mnemonic = "soft clog carbon appear absorb ghost use top mouse choice alley noble";

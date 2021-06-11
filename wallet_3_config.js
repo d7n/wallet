@@ -1,1 +1,1 @@
-var mnemonic = "bag truly hurdle else voice address edit always review call desert nominee";
+var mnemonic = "relax scout give price bacon leaf asset frozen tuition bind begin secret";

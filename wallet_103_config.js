@@ -1,1 +1,1 @@
-var mnemonic = "zebra crucial twenty kiwi enter screen tooth detect shy other glimpse scare";
+var mnemonic = "employ hospital coin phone nuclear mango sister bulk disease enact farm expire";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve casual grace sign sail slam toy mimic diagram upon caught believe";
+var mnemonic = "path clinic arrive judge lawsuit source mistake minor differ snack differ dynamic";

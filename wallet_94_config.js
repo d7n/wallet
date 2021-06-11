@@ -1,1 +1,1 @@
-var mnemonic = "attack come park month mule innocent exclude drive grace rhythm curve consider";
+var mnemonic = "food brain wink must nephew list movie cattle patch scare blossom pause";

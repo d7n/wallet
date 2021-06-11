@@ -1,1 +1,1 @@
-var mnemonic = "collect pelican shell run alley claw select right tilt day sibling afraid";
+var mnemonic = "monkey stomach catch meat world rival window wrist olive razor double bright";

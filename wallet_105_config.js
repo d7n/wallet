@@ -1,1 +1,1 @@
-var mnemonic = "month roof hello state scheme typical afford ridge kitchen primary impact energy";
+var mnemonic = "blade expect settle execute express kiss common find banana debate fog window";

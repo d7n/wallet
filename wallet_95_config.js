@@ -1,1 +1,1 @@
-var mnemonic = "hip bench nothing choose climb fever middle mention pistol involve ask parent";
+var mnemonic = "garlic iron bounce dash siege luggage twelve bridge inflict sugar enrich gun";

@@ -1,1 +1,1 @@
-var mnemonic = "trip addict require floor shift author canoe inside gap draw cement joke";
+var mnemonic = "donkey fuel hole group flock gate rib pioneer select foil lion fragile";

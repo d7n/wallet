@@ -1,1 +1,1 @@
-var mnemonic = "ostrich what invite dentist cousin glove tiger rate turkey insane friend bright";
+var mnemonic = "shrimp movie gallery captain usage there canal cute first collect slogan kitchen";

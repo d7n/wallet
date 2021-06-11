@@ -1,1 +1,1 @@
-var mnemonic = "common onion scrub exact guard treat merry idea fiber tell super eight";
+var mnemonic = "manage frequent sense course fan tag chat session napkin pretty spawn tag";
