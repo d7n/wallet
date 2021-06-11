@@ -1,1 +1,1 @@
-var mnemonic = "split siren flat other era carpet outer tilt move art era diesel";
+var mnemonic = "plate private edge royal submit song host merry planet afford connect void";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid famous anxiety demand task into hen decrease ability announce spare half";
+var mnemonic = "surprise car senior upper desk peanut defense ship run endorse girl unusual";

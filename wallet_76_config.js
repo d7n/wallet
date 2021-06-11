@@ -1,1 +1,1 @@
-var mnemonic = "kid alter unaware load prosper sense rug return upset output suspect only";
+var mnemonic = "creek goat transfer tilt suggest view target excess excite smile virtual dignity";

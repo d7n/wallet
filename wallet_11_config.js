@@ -1,1 +1,1 @@
-var mnemonic = "cool body dish brick inherit laptop skate seat neither you insect merit";
+var mnemonic = "kick source verify upper learn disorder three coconut wrap domain noise poet";

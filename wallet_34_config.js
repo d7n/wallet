@@ -1,1 +1,1 @@
-var mnemonic = "recycle lunch wire trick dynamic again spawn behave spoil region note churn";
+var mnemonic = "panel neglect rain join deer wash erupt bless allow term vague switch";

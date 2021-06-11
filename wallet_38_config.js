@@ -1,1 +1,1 @@
-var mnemonic = "try enough brick puzzle quality maze midnight galaxy lonely wool brain salt";
+var mnemonic = "punch blast room ring toy old asthma push access diagram blue home";

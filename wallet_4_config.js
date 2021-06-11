@@ -1,1 +1,1 @@
-var mnemonic = "people cactus kitten merit group correct ensure swap taxi naive menu diagram";
+var mnemonic = "object horn learn tennis chimney inflict join street dry fruit humble love";

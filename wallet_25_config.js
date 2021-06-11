@@ -1,1 +1,1 @@
-var mnemonic = "sleep marine crop fashion defense benefit earn moon magnet vast gadget habit";
+var mnemonic = "report field stairs bar vacuum blouse transfer grass fiber universe copy answer";

@@ -1,1 +1,1 @@
-var mnemonic = "alter version unusual use engine tide better beef garden sock educate among";
+var mnemonic = "duck undo decide thought book sheriff estate depend gravity gesture material speed";

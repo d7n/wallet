@@ -1,1 +1,1 @@
-var mnemonic = "truth omit december tooth best wine nature book team cream rail fossil";
+var mnemonic = "awkward sorry actor want build shell session farm snap voyage derive stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket orbit ten else novel three february melody little harvest short market";
+var mnemonic = "tower spell candy soup attend lawsuit lawn cat want clog allow snow";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon width voice arrange bicycle quantum knife maid dream dutch toward obtain";
+var mnemonic = "tiger artist clap dawn trend obtain elevator anxiety mind shell cattle boring";

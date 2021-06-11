@@ -1,1 +1,1 @@
-var mnemonic = "often shop piece approve avocado together clump ring coconut ecology fluid inspire";
+var mnemonic = "other they daring that glance thank subject again vote across proof when";

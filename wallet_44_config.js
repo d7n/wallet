@@ -1,1 +1,1 @@
-var mnemonic = "label roast bulk decade slush million dwarf six correct diamond return polar";
+var mnemonic = "width subject burden atom kiwi there under shy insane retreat palace vehicle";

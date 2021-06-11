@@ -1,1 +1,1 @@
-var mnemonic = "because mushroom resist ridge tackle clinic decade business fire inject material media";
+var mnemonic = "cart diet sugar upon gate truly debate doll what eye find decrease";

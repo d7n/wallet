@@ -1,1 +1,1 @@
-var mnemonic = "taxi inject play now sustain weird unable agent child machine cake frost";
+var mnemonic = "panther liquid rhythm oppose drill ivory company salmon length mimic load eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "churn card twist barrel mean either pottery boost agree exist royal make";
+var mnemonic = "verify retreat grow cash glow taxi control exotic know youth property mistake";

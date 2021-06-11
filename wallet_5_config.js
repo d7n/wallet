@@ -1,1 +1,1 @@
-var mnemonic = "utility banana park pioneer wedding access fresh whip mean despair shoulder such";
+var mnemonic = "silk message flee smart decline afford day argue globe control crime next";

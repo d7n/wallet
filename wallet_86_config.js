@@ -1,1 +1,1 @@
-var mnemonic = "profit romance century unfold flat barrel occur voyage unusual useful animal begin";
+var mnemonic = "rule stomach then harvest cube rude upset truth eagle goddess future rice";

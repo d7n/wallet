@@ -1,1 +1,1 @@
-var mnemonic = "envelope fish equal episode comic hurdle sort young review theory hero hunt";
+var mnemonic = "cupboard drill embark innocent engine lunar moon guilt cart foil cattle duck";

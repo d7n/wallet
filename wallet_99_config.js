@@ -1,1 +1,1 @@
-var mnemonic = "degree unable ice hip project urge all coral mammal present goose gym";
+var mnemonic = "receive knock jewel cost spread observe violin gloom silly worth oval soon";

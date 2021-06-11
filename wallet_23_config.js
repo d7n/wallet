@@ -1,1 +1,1 @@
-var mnemonic = "elegant name rotate catalog glance vacant shy paper fix credit blood cattle";
+var mnemonic = "wave pattern avoid stand stool dry glad daughter song minor tattoo arm";

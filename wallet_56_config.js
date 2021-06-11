@@ -1,1 +1,1 @@
-var mnemonic = "behind wall abstract long vicious phone pond sudden predict become inherit edit";
+var mnemonic = "define battle quality future hand weird bind destroy bike wait disagree era";

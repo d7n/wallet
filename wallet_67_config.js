@@ -1,1 +1,1 @@
-var mnemonic = "sibling reduce economy small apart yard follow tiger wedding absent immense unknown";
+var mnemonic = "end always uncover gravity pride galaxy skirt minute blind ethics spy gym";

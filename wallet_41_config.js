@@ -1,1 +1,1 @@
-var mnemonic = "nose hub angle this envelope ring eye bridge soup bring exercise slogan";
+var mnemonic = "urge opinion wide scale raven victory youth orient evolve fame sense candy";

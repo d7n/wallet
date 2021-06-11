@@ -1,1 +1,1 @@
-var mnemonic = "bulk brief erosion alien any arrow law truth citizen donor security fold";
+var mnemonic = "stairs ancient sword slush joke combine renew token daring result smile clump";

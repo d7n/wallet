@@ -1,1 +1,1 @@
-var mnemonic = "debris kick text warm now planet brave year city pottery bone trip";
+var mnemonic = "rigid suspect orchard lava exhibit supply cool catalog what enhance actual wing";

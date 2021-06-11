@@ -1,1 +1,1 @@
-var mnemonic = "dilemma remind fashion daughter until galaxy portion west alpha citizen devote daughter";
+var mnemonic = "owner silver spike laugh echo behind claw future liar reward runway fancy";

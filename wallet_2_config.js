@@ -1,1 +1,1 @@
-var mnemonic = "battle ordinary work alarm best any juice denial clip cash now family";
+var mnemonic = "end grace obey defense differ spread bundle else engine orchard pioneer divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "giant shallow yard easily promote alarm marriage senior laundry edit sun smoke";
+var mnemonic = "mirror glow clump oyster near allow that bicycle elegant then donkey change";

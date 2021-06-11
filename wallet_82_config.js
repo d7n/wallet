@@ -1,1 +1,1 @@
-var mnemonic = "glow giant pyramid south addict casino junk tribe weird bunker inform omit";
+var mnemonic = "junior portion ignore until scare kingdom stereo street caution face gloom regret";

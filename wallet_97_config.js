@@ -1,1 +1,1 @@
-var mnemonic = "retire rigid surround palace beach manual deer fork junk electric ceiling ghost";
+var mnemonic = "pony spin beauty social knock oil stick tongue gasp slim law guess";

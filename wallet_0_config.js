@@ -1,1 +1,1 @@
-var mnemonic = "sustain invite sudden burden asset oyster yellow advice alpha reduce raw merit";
+var mnemonic = "admit common guilt tree gate file vessel vote today hammer pudding sell";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic cactus skill right fantasy toe crystal kind march demand erupt asthma";
+var mnemonic = "farm version field junk current act actual jazz approve melody top canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke trip clean liar blossom vintage stable useless spy logic hobby hand";
+var mnemonic = "beef pepper accident used token roast belt taxi rack settle spice nut";

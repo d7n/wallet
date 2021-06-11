@@ -1,1 +1,1 @@
-var mnemonic = "midnight open ability solution salad kiss typical arch captain wonder double fan";
+var mnemonic = "leader repeat major turkey flock stem explain vicious roof match merge opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen wreck chuckle coast auction cart guide bonus bacon explain inquiry error";
+var mnemonic = "toe sibling lady risk taxi diet yellow field project jeans thought move";

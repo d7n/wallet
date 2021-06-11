@@ -1,1 +1,1 @@
-var mnemonic = "control settle denial monster suit flight rescue audit raccoon fine source road";
+var mnemonic = "card alarm hockey federal solid subway proof shed clarify mirror shine sudden";

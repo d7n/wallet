@@ -1,1 +1,1 @@
-var mnemonic = "either code inherit lawn execute doctor brain drip know admit rich unveil";
+var mnemonic = "carpet say hope ghost harsh glare diagram grape diamond flower enter suspect";

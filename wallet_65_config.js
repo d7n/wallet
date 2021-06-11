@@ -1,1 +1,1 @@
-var mnemonic = "eagle try away series vault maze album rib clerk nasty firm initial";
+var mnemonic = "prevent apple open orbit drama remind trouble sausage behind provide mirror turkey";

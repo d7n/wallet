@@ -1,1 +1,1 @@
-var mnemonic = "under inside alert panther ice orchard vacuum practice keep lamp clock bundle";
+var mnemonic = "blood bullet glove witness essence skin ranch empty puppy shock busy side";

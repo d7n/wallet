@@ -1,1 +1,1 @@
-var mnemonic = "detail banana disagree page resource romance stable rabbit purity penalty miracle rapid";
+var mnemonic = "soda give poverty museum camp elite diagram curve strike surface series march";

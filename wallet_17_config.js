@@ -1,1 +1,1 @@
-var mnemonic = "alley about embark try virtual release giraffe ship donor flip salmon chicken";
+var mnemonic = "journey firm debate imitate win device apart address frozen tomorrow earn poet";

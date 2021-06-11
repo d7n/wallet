@@ -1,1 +1,1 @@
-var mnemonic = "sustain elegant boost sure army logic until vague egg donor catch soccer";
+var mnemonic = "glue affair coyote bundle tent effort inch limb rally time problem same";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon absent crucial weather canvas denial strike educate stock hurdle material devote";
+var mnemonic = "glass wink bulb plug rural asthma vocal speak waste trophy symptom muscle";

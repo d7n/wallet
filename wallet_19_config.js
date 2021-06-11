@@ -1,1 +1,1 @@
-var mnemonic = "ketchup inner industry know buffalo aware dish caution impose path offer tape";
+var mnemonic = "sign achieve turkey cream sunny junior virtual short three conduct season plastic";

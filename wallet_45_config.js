@@ -1,1 +1,1 @@
-var mnemonic = "scare genius swap fit erupt intact rule slow cube someone clap venue";
+var mnemonic = "deer math unaware illness club can subject wife fence stand bar liberty";

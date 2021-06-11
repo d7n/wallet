@@ -1,1 +1,1 @@
-var mnemonic = "double peasant faint animal forget anxiety know liquid legal pause crane echo";
+var mnemonic = "magic chat very buffalo situate object wool weekend term embrace debris aware";

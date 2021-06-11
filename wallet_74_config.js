@@ -1,1 +1,1 @@
-var mnemonic = "surround emotion tennis blade install inmate license alert soda lizard smile reject";
+var mnemonic = "mind jelly among crowd subway decade abuse lemon stem retire exile ketchup";

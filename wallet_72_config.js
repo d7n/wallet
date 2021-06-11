@@ -1,1 +1,1 @@
-var mnemonic = "attitude female finish phone calm pigeon web annual sausage vote onion world";
+var mnemonic = "kangaroo stove case orbit stomach scissors history galaxy fuel fluid isolate seven";

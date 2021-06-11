@@ -1,1 +1,1 @@
-var mnemonic = "noodle captain tail humble plunge antique actress label pact near scout album";
+var mnemonic = "episode purchase mushroom useful problem image dog upgrade dust rigid like know";

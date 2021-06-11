@@ -1,1 +1,1 @@
-var mnemonic = "then magic aspect panic thumb photo route deposit awesome green security slow";
+var mnemonic = "supply cash regular verify crew ticket gate denial axis razor melt tattoo";

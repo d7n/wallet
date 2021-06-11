@@ -1,1 +1,1 @@
-var mnemonic = "filter mushroom moment ginger sword awake split glide style trust high local";
+var mnemonic = "honey object improve dice own canyon science tide appear police cram knee";

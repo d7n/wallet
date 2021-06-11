@@ -1,1 +1,1 @@
-var mnemonic = "deliver glass apple witness stone run awkward fox toddler fetch merry iron";
+var mnemonic = "ginger jungle cake then finger trigger lyrics hollow hard naive cry merit";

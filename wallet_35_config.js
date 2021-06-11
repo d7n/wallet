@@ -1,1 +1,1 @@
-var mnemonic = "roof afford genuine predict hat wrestle also minimum argue rescue hold outside";
+var mnemonic = "leopard problem hold deposit mimic expire offer clutch one ride venture actor";

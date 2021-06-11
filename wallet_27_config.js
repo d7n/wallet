@@ -1,1 +1,1 @@
-var mnemonic = "poet cinnamon start bean immune elevator note cupboard bar prison same spot";
+var mnemonic = "advance occur deny frozen math shrimp swap track limit inquiry swallow tunnel";

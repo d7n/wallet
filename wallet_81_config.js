@@ -1,1 +1,1 @@
-var mnemonic = "actor bike galaxy toe innocent donor nephew roof because adjust artist false";
+var mnemonic = "joke digital bridge opinion session knife option logic believe suit sentence burden";

@@ -1,1 +1,1 @@
-var mnemonic = "plug estate skill output body trial twist make destroy cluster crumble toe";
+var mnemonic = "mandate cover dwarf record patient step cart invest enroll pioneer fold boring";

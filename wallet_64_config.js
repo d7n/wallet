@@ -1,1 +1,1 @@
-var mnemonic = "assault bracket rival proud risk into taste unable work exit sadness scare";
+var mnemonic = "song trend ugly demand antenna legend hover rescue project curtain intact bike";

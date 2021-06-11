@@ -1,1 +1,1 @@
-var mnemonic = "twelve copy early combine friend valley define panda tenant enact soccer rotate";
+var mnemonic = "select shaft jaguar twenty exclude grant wear grid love helmet rule build";

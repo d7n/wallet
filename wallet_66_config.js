@@ -1,1 +1,1 @@
-var mnemonic = "tennis wagon heavy arch shock motion hollow giant label thunder belt sort";
+var mnemonic = "engage knife warfare crawl cash fatal bottom put eager era inherit cruise";

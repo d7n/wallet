@@ -1,1 +1,1 @@
-var mnemonic = "kitten random hungry one sorry enough indicate kit general dove cradle symptom";
+var mnemonic = "sugar sing liberty trend eye nominee brief pair security rather gallery lonely";

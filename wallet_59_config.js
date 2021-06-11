@@ -1,1 +1,1 @@
-var mnemonic = "quantum exhibit regret claim rough artist catalog normal result speed educate cable";
+var mnemonic = "student electric grit frown tooth convince session expand transfer north grain prison";

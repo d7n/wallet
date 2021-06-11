@@ -1,1 +1,1 @@
-var mnemonic = "degree mystery gloom emotion have dog biology pave flock shrimp poet version";
+var mnemonic = "improve decide remain valid slide card razor give swear kingdom prosper near";

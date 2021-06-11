@@ -1,1 +1,1 @@
-var mnemonic = "chest work tone gentle radar crucial surprise fury garment mountain scheme plug";
+var mnemonic = "staff initial control fork crawl zoo carpet fan garden stumble idle inflict";

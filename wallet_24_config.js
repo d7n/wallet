@@ -1,1 +1,1 @@
-var mnemonic = "abstract achieve improve chuckle mixed rabbit clutch busy ticket apple bicycle toilet";
+var mnemonic = "hill insect jar doctor salmon innocent copy range own never universe trash";

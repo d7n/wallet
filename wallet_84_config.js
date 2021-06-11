@@ -1,1 +1,1 @@
-var mnemonic = "whisper chronic devote miracle potato blush reward toy cheap bacon buzz ordinary";
+var mnemonic = "effort scene tribe anxiety toss inform identify weird idea key defense pudding";

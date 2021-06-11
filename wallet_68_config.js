@@ -1,1 +1,1 @@
-var mnemonic = "crazy letter path island never jazz pupil episode hotel dice inside ability";
+var mnemonic = "world chicken melt tube quote salt daughter silent attend word stay inject";

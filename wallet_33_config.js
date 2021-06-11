@@ -1,1 +1,1 @@
-var mnemonic = "innocent organ oppose party pig below spike iron dress hunt teach divorce";
+var mnemonic = "fantasy omit rather wrong autumn near neck practice divert unhappy issue wagon";

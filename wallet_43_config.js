@@ -1,1 +1,1 @@
-var mnemonic = "conduct problem chunk tide hundred kite wisdom iron material danger lazy attack";
+var mnemonic = "image oblige aspect submit peanut milk loop refuse hat add curtain camp";

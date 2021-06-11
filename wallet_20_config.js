@@ -1,1 +1,1 @@
-var mnemonic = "february usage foot trust ribbon achieve amount cool know prison fantasy luxury";
+var mnemonic = "identify tilt cereal office inmate crime hotel ghost cactus carry small equip";

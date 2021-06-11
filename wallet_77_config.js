@@ -1,1 +1,1 @@
-var mnemonic = "ozone wet guard cabbage speak category shiver soul radar cargo pepper twice";
+var mnemonic = "tonight visit trial genius monitor grace price rain roof jaguar memory staff";

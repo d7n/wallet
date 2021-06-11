@@ -1,1 +1,1 @@
-var mnemonic = "case rotate enforce parrot street viable tobacco helmet now public budget engage";
+var mnemonic = "armed combine feature wide icon coconut giant party silly dry tackle combine";

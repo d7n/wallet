@@ -1,1 +1,1 @@
-var mnemonic = "appear clay help tag peace brain color stock web option frozen valid";
+var mnemonic = "volcano behind quit travel season poverty actual float nest raise nerve paddle";

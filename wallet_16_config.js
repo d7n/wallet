@@ -1,1 +1,1 @@
-var mnemonic = "detect prosper resource sorry scout section bench rose notice service word dance";
+var mnemonic = "penalty kangaroo beauty method suspect steak solution century fantasy grow famous joy";

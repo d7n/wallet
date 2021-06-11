@@ -1,1 +1,1 @@
-var mnemonic = "portion media almost lucky mom task clock canal trash junk weasel effort";
+var mnemonic = "where audit utility motor popular coral alley cactus warfare color frost audit";

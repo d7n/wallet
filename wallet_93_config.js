@@ -1,1 +1,1 @@
-var mnemonic = "merry cargo pelican never sheriff close blade artefact choose explain express upgrade";
+var mnemonic = "multiply genius fringe struggle trial ocean morning frozen liar soldier shaft across";

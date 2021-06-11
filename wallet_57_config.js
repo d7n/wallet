@@ -1,1 +1,1 @@
-var mnemonic = "hero gallery draw asset normal soldier frog raccoon flat two surge mind";
+var mnemonic = "deer general loud early volume observe blur raw market twin chaos genre";

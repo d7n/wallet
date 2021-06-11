@@ -1,1 +1,1 @@
-var mnemonic = "bridge common avocado truly uniform dynamic speak weasel dance climb huge clay";
+var mnemonic = "royal all coach switch liberty laptop trust name wealth skull rocket clinic";

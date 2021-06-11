@@ -1,1 +1,1 @@
-var mnemonic = "gown topple brain wrap suggest fat dust inspire spy table skate rough";
+var mnemonic = "demise twelve smart visual universe caught fatigue oval want fortune economy maple";

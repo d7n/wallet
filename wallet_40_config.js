@@ -1,1 +1,1 @@
-var mnemonic = "gadget annual target record tower slice walnut wait over all coral picture";
+var mnemonic = "render jelly lumber spend original baby palm inhale electric hello rifle ordinary";

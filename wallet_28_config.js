@@ -1,1 +1,1 @@
-var mnemonic = "flash easy blouse wise drop social visa disagree gain exact acoustic sign";
+var mnemonic = "void own author dragon audit test urge law bargain issue file replace";

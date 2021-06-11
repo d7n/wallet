@@ -1,1 +1,1 @@
-var mnemonic = "second hand toast enter holiday income brain science royal punch effort flush";
+var mnemonic = "art pupil intact around hat hundred juice spy ranch despair nasty physical";

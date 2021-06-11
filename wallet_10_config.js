@@ -1,1 +1,1 @@
-var mnemonic = "stamp setup curtain divert obvious squirrel vote matter recall flee flash worry";
+var mnemonic = "fee else pumpkin deer option good journey express couple neutral miracle industry";

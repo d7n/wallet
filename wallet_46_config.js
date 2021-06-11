@@ -1,1 +1,1 @@
-var mnemonic = "coin someone witness fine purchase patient joke orient boat own inherit audit";
+var mnemonic = "daughter measure scissors mesh unique jacket upset tobacco body afford truth cost";

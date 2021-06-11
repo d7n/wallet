@@ -1,1 +1,1 @@
-var mnemonic = "dwarf replace option stairs sure myth grocery pole parrot hundred cost shed";
+var mnemonic = "way soup team cheese marble matter base you omit hammer tennis visa";

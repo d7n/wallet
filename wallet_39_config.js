@@ -1,1 +1,1 @@
-var mnemonic = "negative round play second wide menu globe glad swallow kangaroo capable today";
+var mnemonic = "swim marble cabin pipe noodle silly loan slim promote sad village sun";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk puzzle paddle gorilla nasty deny sea season quote wet gather mercy";
+var mnemonic = "rather arrange health coach naive auction pride sniff very turkey wonder crater";

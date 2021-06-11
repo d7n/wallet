@@ -1,1 +1,1 @@
-var mnemonic = "wealth pave useless guard high this extend analyst better gravity release depend";
+var mnemonic = "impact kangaroo vehicle salt galaxy buzz caution faith suit leg dawn citizen";

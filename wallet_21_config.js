@@ -1,1 +1,1 @@
-var mnemonic = "price success fortune truth bless pizza senior option game hundred panda march";
+var mnemonic = "circle artwork flight meadow appear tenant fade joke real camera usage tongue";

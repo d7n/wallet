@@ -1,1 +1,1 @@
-var mnemonic = "roast sample pioneer recall canoe host bright scheme drift safe ring bread";
+var mnemonic = "park render public display venue front lens power convince sign liberty luggage";
