@@ -1,1 +1,1 @@
-var mnemonic = "police powder rubber shop dirt borrow hen motion reunion orphan sorry grain";
+var mnemonic = "slush margin laugh plunge increase pill loop cage south access flavor onion";

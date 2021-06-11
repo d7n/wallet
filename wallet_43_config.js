@@ -1,1 +1,1 @@
-var mnemonic = "town luxury eye ozone assist bean kick senior erupt embark ask chest";
+var mnemonic = "primary venue chief upset clinic tragic aspect unfold train satisfy gold click";

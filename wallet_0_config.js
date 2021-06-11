@@ -1,1 +1,1 @@
-var mnemonic = "then fork pig horse crumble history swap crush river disagree surface hire";
+var mnemonic = "dial fury twelve example spin shrug head correct unfold rice forum room";

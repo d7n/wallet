@@ -1,1 +1,1 @@
-var mnemonic = "month prevent kit range unfold disagree fire cave wood insect toilet horse";
+var mnemonic = "certain list duty manage adapt afford neither ritual shoulder tray main drastic";

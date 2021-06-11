@@ -1,1 +1,1 @@
-var mnemonic = "coral unaware attract sing armed wrap try sea throw lumber order asset";
+var mnemonic = "manage resemble soft once museum switch plate front sell unusual flight announce";

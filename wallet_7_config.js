@@ -1,1 +1,1 @@
-var mnemonic = "until nature thumb deny fault actor law task wool empty swim pelican";
+var mnemonic = "garden purpose measure decline royal gadget print witness danger involve math cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious grape cousin answer paddle rapid man town nose region trash argue";
+var mnemonic = "mom relief nose travel empty ladder wrestle word picture lift grace replace";

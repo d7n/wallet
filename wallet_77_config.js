@@ -1,1 +1,1 @@
-var mnemonic = "lady decide dial lunch shrimp leisure keen green knife mail pulp bean";
+var mnemonic = "fan stay sunny mesh junk dial letter swallow obtain drama region wife";

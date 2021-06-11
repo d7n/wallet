@@ -1,1 +1,1 @@
-var mnemonic = "record face wine rural sort inhale pass depth advance expect occur ocean";
+var mnemonic = "adapt permit position siren shoe curve edge tattoo afford reward nice birth";

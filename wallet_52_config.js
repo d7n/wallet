@@ -1,1 +1,1 @@
-var mnemonic = "require unfair hamster ignore timber gather magic denial ten drop balcony left";
+var mnemonic = "sorry dose media ignore pelican clip year kite wisdom keep upper twist";

@@ -1,1 +1,1 @@
-var mnemonic = "cash army perfect plunge maid endless age wish pigeon stock track breeze";
+var mnemonic = "float syrup advance cloud umbrella cart light fatigue struggle escape race sunny";

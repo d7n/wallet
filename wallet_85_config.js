@@ -1,1 +1,1 @@
-var mnemonic = "ill quiz lawn surprise drum parade goddess supply armed either satoshi keep";
+var mnemonic = "city script latin donate pole exact boy invite fox reason yard wrestle";

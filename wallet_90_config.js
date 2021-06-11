@@ -1,1 +1,1 @@
-var mnemonic = "gloom figure glad silent piece outside purchase aerobic decrease assist field sausage";
+var mnemonic = "response worth april enter initial phone sign toe seat crop exchange crystal";

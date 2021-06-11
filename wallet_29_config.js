@@ -1,1 +1,1 @@
-var mnemonic = "attract solve decline spider destroy silent trash scene grace urge erosion taste";
+var mnemonic = "decorate chat weasel gym symptom saddle mammal present lunar disagree envelope orient";

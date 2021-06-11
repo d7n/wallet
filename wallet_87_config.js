@@ -1,1 +1,1 @@
-var mnemonic = "boost give search sleep throw boss rug sell surge click town puppy";
+var mnemonic = "trade snow secret exile village mutual regret reward write offer bonus suffer";

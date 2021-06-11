@@ -1,1 +1,1 @@
-var mnemonic = "tiny collect write brave mad coin whisper venture impulse close elephant present";
+var mnemonic = "assist prosper couch record express ticket release clinic harsh filter burst wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "knee syrup ranch mother bicycle limit flight front mother equal cloud kitten";
+var mnemonic = "tuition census height divert old egg ecology insect crane clerk arena fruit";

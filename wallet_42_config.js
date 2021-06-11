@@ -1,1 +1,1 @@
-var mnemonic = "will couple famous argue prosper sight genre reduce pass autumn churn kitten";
+var mnemonic = "congress child short erupt wasp dirt dentist hand lab morning more lounge";

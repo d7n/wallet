@@ -1,1 +1,1 @@
-var mnemonic = "foster mom sure chronic access phrase cycle country hire act fatigue dog";
+var mnemonic = "doll autumn wrap cushion ring lunar paddle green custom gospel exit consider";

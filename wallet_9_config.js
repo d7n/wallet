@@ -1,1 +1,1 @@
-var mnemonic = "border fine thank feature hawk access target arm frog agent kiss photo";
+var mnemonic = "city diesel cactus erode first uncle someone excess shop enact quarter chimney";

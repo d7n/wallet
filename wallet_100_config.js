@@ -1,1 +1,1 @@
-var mnemonic = "cable puzzle hen volume amused review share top century express question spice";
+var mnemonic = "logic muscle design sand cake deny sauce sorry opera planet risk boost";

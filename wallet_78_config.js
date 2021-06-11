@@ -1,1 +1,1 @@
-var mnemonic = "timber smooth tilt certain coconut install indoor news tooth scatter quick boy";
+var mnemonic = "square want split cinnamon reject unhappy bright medal nature deal behind rail";

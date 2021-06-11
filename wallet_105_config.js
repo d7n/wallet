@@ -1,1 +1,1 @@
-var mnemonic = "render lava produce item birth actress broccoli tunnel always pool nephew identify";
+var mnemonic = "else rain claw filter skirt capable flee right wisdom teach check health";

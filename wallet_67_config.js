@@ -1,1 +1,1 @@
-var mnemonic = "feel scrub lift talent bread notable peasant best only model debris use";
+var mnemonic = "tag awake feed predict smart situate dust pattern mystery recall bright shop";

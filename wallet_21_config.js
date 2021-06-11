@@ -1,1 +1,1 @@
-var mnemonic = "other relief kiss ability seven atom doctor grief supply know blanket shove";
+var mnemonic = "social space noise start you mesh cradle decrease clever false actress sign";

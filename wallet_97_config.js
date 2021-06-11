@@ -1,1 +1,1 @@
-var mnemonic = "consider arrange room first prison various grant recipe laugh brother carry tent";
+var mnemonic = "diary jeans gold morning eternal build album mad stable energy risk there";

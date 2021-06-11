@@ -1,1 +1,1 @@
-var mnemonic = "bargain remind athlete uphold length flag only plate fortune quit furnace absorb";
+var mnemonic = "melt danger property left relax right unaware six mixed track hole visit";

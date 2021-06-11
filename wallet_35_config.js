@@ -1,1 +1,1 @@
-var mnemonic = "wing play drum catalog crane prevent old apart word april fancy cart";
+var mnemonic = "walnut oyster fire joke can provide hobby purse salute choice actress armed";

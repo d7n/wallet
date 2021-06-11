@@ -1,1 +1,1 @@
-var mnemonic = "aerobic assume simple mercy border rapid ability kid again pumpkin suit warrior";
+var mnemonic = "choice club bachelor tattoo fall logic old banana nut label dwarf heavy";

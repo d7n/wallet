@@ -1,1 +1,1 @@
-var mnemonic = "stamp tunnel three relief output canyon frown adult solid yard stuff west";
+var mnemonic = "blade absorb equal pioneer mix puppy uncover family lawn wrist raw avoid";

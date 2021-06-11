@@ -1,1 +1,1 @@
-var mnemonic = "clown ring frost blind material intact twin organ walnut phone mixed mean";
+var mnemonic = "friend multiply round ribbon key oven zero hundred mistake atom wedding van";

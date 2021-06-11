@@ -1,1 +1,1 @@
-var mnemonic = "capital library pass flag away length token never pride broken mosquito scale";
+var mnemonic = "rotate animal recycle leave mobile abstract like response scene silent iron trim";

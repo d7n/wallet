@@ -1,1 +1,1 @@
-var mnemonic = "valley sure better glory gorilla bring choice wild horn stamp trophy champion";
+var mnemonic = "cluster include buffalo misery buyer wash runway hawk knee vicious helmet metal";

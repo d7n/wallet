@@ -1,1 +1,1 @@
-var mnemonic = "armed fold lesson cotton pear huge chair fancy garlic pretty rely rescue";
+var mnemonic = "baby gallery century digital crawl bacon burden stem clever infant want cliff";

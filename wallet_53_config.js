@@ -1,1 +1,1 @@
-var mnemonic = "mask area tourist patrol people proud lend puzzle escape ready embark ill";
+var mnemonic = "raise save apple spice olive stay share dust file rally equip replace";

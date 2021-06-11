@@ -1,1 +1,1 @@
-var mnemonic = "employ annual together skate glory furnace banner planet trial bleak twenty armor";
+var mnemonic = "knife vocal tape pelican behind crop talk loud yard congress mammal public";

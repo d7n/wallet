@@ -1,1 +1,1 @@
-var mnemonic = "armed capital cry urge someone blur cheap arch staff fiscal put style";
+var mnemonic = "test spin tennis dice quick marriage search side reason clap surround issue";

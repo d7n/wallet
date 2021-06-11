@@ -1,1 +1,1 @@
-var mnemonic = "speak globe close ensure ignore core patient figure dog syrup stove bullet";
+var mnemonic = "grunt faint key segment yellow purpose still clap about true elder limb";

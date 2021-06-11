@@ -1,1 +1,1 @@
-var mnemonic = "sad dinner mirror museum any rally actual science pull rare mechanic rude";
+var mnemonic = "prosper custom system length garment bargain other rice amused switch embark kite";

@@ -1,1 +1,1 @@
-var mnemonic = "double great rug spare hawk range soccer wrong idle nation tissue number";
+var mnemonic = "intact bleak frame sister exist school wall climb dust nose voyage fetch";

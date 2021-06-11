@@ -1,1 +1,1 @@
-var mnemonic = "crane shell fury dose deposit offer island arrow tip seminar boat dolphin";
+var mnemonic = "tube leopard shiver mandate kiss average onion cool symptom tissue shiver mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "long multiply property giggle enter gown layer item swim hill invite legal";
+var mnemonic = "seed swallow fall donor mercy cradle oyster fiction mango wait small reform";

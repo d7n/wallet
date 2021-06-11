@@ -1,1 +1,1 @@
-var mnemonic = "riot kind clip palace trash cash puppy month uncle round spring three";
+var mnemonic = "walnut expect goddess trial urban occur pistol local host report author shock";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital catch enforce because myth video bind stem swear wood south sign";
+var mnemonic = "talk dignity unique broccoli portion coin long buyer bus evolve galaxy stick";

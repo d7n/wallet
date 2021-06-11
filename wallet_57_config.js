@@ -1,1 +1,1 @@
-var mnemonic = "nut cup liar traffic choice coast coral host medal injury gallery select";
+var mnemonic = "riot sister deer spring column then cross leisure strategy hat rib lottery";

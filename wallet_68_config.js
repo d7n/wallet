@@ -1,1 +1,1 @@
-var mnemonic = "magic vote clog rebuild kite spatial snow argue divide rookie blue dish";
+var mnemonic = "slot giant birth mercy mail vacant hand time curve frown cactus moral";

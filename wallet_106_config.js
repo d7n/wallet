@@ -1,1 +1,1 @@
-var mnemonic = "suggest distance jewel century come cupboard season border timber high stumble margin";
+var mnemonic = "until device sudden foot copy junk jaguar bean armed chalk supply lumber";

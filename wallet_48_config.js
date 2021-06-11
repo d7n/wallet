@@ -1,1 +1,1 @@
-var mnemonic = "harvest green flame vault lava follow pull blue attitude galaxy achieve response";
+var mnemonic = "assault lucky traffic illegal under job art cluster wood recipe output rally";

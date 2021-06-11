@@ -1,1 +1,1 @@
-var mnemonic = "old surface parent fade large member consider disease plug woman screen traffic";
+var mnemonic = "visual order exist middle dignity buzz swear review inject green ghost false";

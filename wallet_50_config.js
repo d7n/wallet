@@ -1,1 +1,1 @@
-var mnemonic = "draft increase wedding cluster duck suggest follow banana gym ozone announce inch";
+var mnemonic = "upper history arrest visual ship violin awkward extra pond crunch alcohol tide";

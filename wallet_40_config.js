@@ -1,1 +1,1 @@
-var mnemonic = "access spare afraid attack energy sell viable cloth divert talent vicious spice";
+var mnemonic = "hospital manual cup fitness dice shop danger body garbage nothing various glass";

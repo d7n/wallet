@@ -1,1 +1,1 @@
-var mnemonic = "pen tiny achieve forum peanut ancient reduce top attract giant awful satisfy";
+var mnemonic = "ahead stove evoke dad depart leader chair baby habit toilet regret dismiss";

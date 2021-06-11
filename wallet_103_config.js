@@ -1,1 +1,1 @@
-var mnemonic = "noodle script early ostrich fan neither already earth dress access obscure tell";
+var mnemonic = "enough swift session flat shove crush manage swear lyrics divert never chapter";

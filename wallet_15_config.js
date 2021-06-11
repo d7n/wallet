@@ -1,1 +1,1 @@
-var mnemonic = "elegant gap capable survey laugh mystery decide bleak ice thank husband reduce";
+var mnemonic = "ozone elevator milk midnight mammal deer uncover crouch bid gospel cattle bridge";

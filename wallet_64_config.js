@@ -1,1 +1,1 @@
-var mnemonic = "struggle home steak plug copy earth weather canoe stable apology invite memory";
+var mnemonic = "fine chair thank focus banner sing devote number equip humor silent hazard";

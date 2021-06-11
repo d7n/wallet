@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow tide hole erosion hawk sport potato spoil divide tag type mom";
+var mnemonic = "profit edge address voyage april side weird country convince skull prison whisper";

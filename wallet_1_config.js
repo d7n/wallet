@@ -1,1 +1,1 @@
-var mnemonic = "echo galaxy market pink example depend surprise private tiger snake food aerobic";
+var mnemonic = "tent very acid neck feel coin forward umbrella future inmate excuse main";

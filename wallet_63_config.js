@@ -1,1 +1,1 @@
-var mnemonic = "wish million digital cigar size float color include truth please use choose";
+var mnemonic = "borrow march wine pole bind panther innocent speed skate access pond unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "used around sugar salt motor tail arrive tape such alley stuff above";
+var mnemonic = "number rare kit mask lesson planet point wrestle topic coral enrich airport";

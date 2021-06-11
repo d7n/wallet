@@ -1,1 +1,1 @@
-var mnemonic = "north urban payment bench dry buffalo fossil panda sail daring dry dizzy";
+var mnemonic = "ancient yellow place fly jealous action pig fringe mushroom pattern fog unfold";

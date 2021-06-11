@@ -1,1 +1,1 @@
-var mnemonic = "coyote merit ceiling orange drastic surge notice dragon pig inform heart behave";
+var mnemonic = "govern stumble broken leaf deny piano shock deny vehicle valve family now";

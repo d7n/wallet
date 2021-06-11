@@ -1,1 +1,1 @@
-var mnemonic = "carry thought music silver before leader uniform cruise pottery indicate reopen pyramid";
+var mnemonic = "escape flash total twin prosper machine edge diary office voice across present";

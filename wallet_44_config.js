@@ -1,1 +1,1 @@
-var mnemonic = "mesh elite rocket damage crouch base pistol globe know width burst helmet";
+var mnemonic = "diesel breeze candy tray cost degree height joy one candy awkward peanut";

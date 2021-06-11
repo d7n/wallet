@@ -1,1 +1,1 @@
-var mnemonic = "anchor resist foot zero sniff sudden foam enroll fantasy pass moral chat";
+var mnemonic = "border stumble room outside enter sing famous middle basket kiss piano final";

@@ -1,1 +1,1 @@
-var mnemonic = "bone elbow scare sunny fiction educate add machine rescue balcony summer decide";
+var mnemonic = "wrap smoke maze enable hundred news across stem usual vague promote keen";

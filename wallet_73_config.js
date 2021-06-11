@@ -1,1 +1,1 @@
-var mnemonic = "street often domain hip globe antique poem quarter walnut depend turtle exist";
+var mnemonic = "color keen just burden road category toilet such again upgrade lion fury";

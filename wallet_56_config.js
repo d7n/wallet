@@ -1,1 +1,1 @@
-var mnemonic = "fossil relief chronic fish visa cup coffee disorder unable arrest traffic print";
+var mnemonic = "biology boy crouch rose teach tool avoid dress canal general dog regular";

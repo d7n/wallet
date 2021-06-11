@@ -1,1 +1,1 @@
-var mnemonic = "trip initial rack gain vocal stove proud glue burst night veteran permit";
+var mnemonic = "route flat silent option shiver sail seat claim brown canyon master moon";

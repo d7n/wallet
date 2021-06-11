@@ -1,1 +1,1 @@
-var mnemonic = "donkey abandon label convince type that minimum flat uncover day occur lady";
+var mnemonic = "task snow enough artefact salad fan resource return wool record cotton nut";

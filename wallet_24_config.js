@@ -1,1 +1,1 @@
-var mnemonic = "foil express degree airport host proud way this exercise face bar detail";
+var mnemonic = "chunk buffalo reject cluster you industry twist wash offer deal mixed moon";

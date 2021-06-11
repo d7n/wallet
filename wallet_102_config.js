@@ -1,1 +1,1 @@
-var mnemonic = "ketchup near grit recall tornado neither sketch cube display thunder student joy";
+var mnemonic = "rapid mobile unable convince shove across install salon smooth devote pride clerk";

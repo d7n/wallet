@@ -1,1 +1,1 @@
-var mnemonic = "gadget tiger solve mobile gravity know damage ginger armor bargain mother bundle";
+var mnemonic = "stereo practice execute trap behind oxygen rally essay gown journey legal equal";

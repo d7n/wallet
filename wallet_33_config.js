@@ -1,1 +1,1 @@
-var mnemonic = "route peace interest cousin retire verify slam episode barrel flat focus twin";
+var mnemonic = "sweet mixture pond insect rescue move near peace trial evil club cheese";

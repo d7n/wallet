@@ -1,1 +1,1 @@
-var mnemonic = "repair eagle nephew entire slogan offer level keep half foot secret shed";
+var mnemonic = "vast isolate drill negative gown liar mosquito armor decide crowd tenant kitchen";

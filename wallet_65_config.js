@@ -1,1 +1,1 @@
-var mnemonic = "vendor polar mom predict profit code finger poet oval palm ethics beach";
+var mnemonic = "era slab motor genuine sponsor math happy orient orient wave rabbit diet";

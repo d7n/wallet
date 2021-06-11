@@ -1,1 +1,1 @@
-var mnemonic = "vital penalty spike city artefact film noise neglect blouse ring curtain trigger";
+var mnemonic = "kitten error canyon guard cliff food rigid stamp slab pioneer thrive pizza";

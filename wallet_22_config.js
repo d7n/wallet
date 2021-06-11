@@ -1,1 +1,1 @@
-var mnemonic = "bike enact act salt crane card any lecture dial cream gorilla chair";
+var mnemonic = "ostrich win clean dawn cart staff meadow fury hood rhythm robust quick";

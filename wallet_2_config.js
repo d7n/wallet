@@ -1,1 +1,1 @@
-var mnemonic = "trip senior salute vote wrong more faculty degree pistol shoe blood crush";
+var mnemonic = "mosquito radio whisper nice attract captain album hour essence wrestle knife opera";

@@ -1,1 +1,1 @@
-var mnemonic = "nest elevator point grunt little praise guess elder funny top depth reason";
+var mnemonic = "fork effort bird more dismiss balance turkey domain chase clean mango floor";

@@ -1,1 +1,1 @@
-var mnemonic = "patch blanket rhythm danger grab betray know describe exact industry spread tail";
+var mnemonic = "ozone hospital visual mountain field multiply gesture suggest find pencil found theme";

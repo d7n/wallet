@@ -1,1 +1,1 @@
-var mnemonic = "clip pupil endorse brave put two six casino door flee attitude hello";
+var mnemonic = "reunion color source atom humor face arrest vacuum west safe nice grace";

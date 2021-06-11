@@ -1,1 +1,1 @@
-var mnemonic = "kingdom because skull trade behind assist canvas acoustic wrong tail virtual aim";
+var mnemonic = "shine weekend stadium joy fire album flavor caution dawn similar shallow feed";

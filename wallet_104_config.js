@@ -1,1 +1,1 @@
-var mnemonic = "clinic chat kiss crop fall jaguar scout bless harvest entry stool monkey";
+var mnemonic = "image million craft federal giant giraffe reflect eight ask cradle follow armor";

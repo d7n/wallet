@@ -1,1 +1,1 @@
-var mnemonic = "salt shoot punch pet girl gorilla evidence hospital next sausage tragic novel";
+var mnemonic = "dance dad will quit odor velvet original bicycle nerve appear clarify joy";

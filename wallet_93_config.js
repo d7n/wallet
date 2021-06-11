@@ -1,1 +1,1 @@
-var mnemonic = "present better hero collect essence endless moral night that leave group tooth";
+var mnemonic = "quantum mean lunar problem staff hour essence buzz rapid color rather result";

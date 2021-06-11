@@ -1,1 +1,1 @@
-var mnemonic = "craft shadow upon raw amazing glass rule high only before stumble hundred";
+var mnemonic = "drop favorite laugh dentist symptom labor hour retreat alien arrest estate solution";

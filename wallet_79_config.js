@@ -1,1 +1,1 @@
-var mnemonic = "wing news shift diet ritual drum obvious emerge cycle high dumb dentist";
+var mnemonic = "carpet allow able daring rice convince purity advice lecture coconut material voyage";

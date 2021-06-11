@@ -1,1 +1,1 @@
-var mnemonic = "metal tortoise finish uphold distance age excite over lecture where across estate";
+var mnemonic = "follow relax absorb inflict abstract drive one disagree system ribbon circle renew";

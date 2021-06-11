@@ -1,1 +1,1 @@
-var mnemonic = "rare unfair spread fresh busy music absent airport turn disagree regular tiger";
+var mnemonic = "about million inflict shrug tortoise resource text oven gentle rotate boat treat";

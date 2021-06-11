@@ -1,1 +1,1 @@
-var mnemonic = "version copper wage near stamp leg wink arctic want leader army refuse";
+var mnemonic = "stick meat tongue company sudden drop cool giraffe dutch script garbage increase";
