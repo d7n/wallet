@@ -1,1 +1,1 @@
-var mnemonic = "ranch advice also chair physical device oblige ankle give panda rigid frog";
+var mnemonic = "festival sport fade vibrant smooth fee paper paddle mango spoil ten pill";

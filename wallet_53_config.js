@@ -1,1 +1,1 @@
-var mnemonic = "silver venue light dress indicate about grid purpose rival canvas lounge private";
+var mnemonic = "budget square raccoon moral filter near next dilemma pen exist pelican pepper";

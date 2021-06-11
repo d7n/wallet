@@ -1,1 +1,1 @@
-var mnemonic = "tank have plastic ivory catch harsh secret prefer pull envelope approve prize";
+var mnemonic = "review surround lab outdoor amount veteran gift upset make slab execute penalty";

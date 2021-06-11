@@ -1,1 +1,1 @@
-var mnemonic = "abuse medal stay crystal anger february chest you twenty whisper nasty bomb";
+var mnemonic = "shift attend welcome stomach adapt toe uphold charge squeeze echo scout olive";

@@ -1,1 +1,1 @@
-var mnemonic = "ride hub innocent brisk rail modify gold puppy trust test mistake ordinary";
+var mnemonic = "annual deer raw top daughter lucky lion dune novel render elephant capital";

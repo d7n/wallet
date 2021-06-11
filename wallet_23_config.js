@@ -1,1 +1,1 @@
-var mnemonic = "gesture fragile dress lens trouble stable april field outdoor wide swap erosion";
+var mnemonic = "film stamp inflict spare whisper mixed magic route expire real job hello";

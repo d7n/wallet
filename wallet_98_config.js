@@ -1,1 +1,1 @@
-var mnemonic = "cargo fuel sound edit cream carpet hungry key box valve rhythm noble";
+var mnemonic = "visit fuel hood skate mercy pencil fame veteran winner often future quote";

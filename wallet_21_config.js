@@ -1,1 +1,1 @@
-var mnemonic = "morning sort square enroll first dad echo zebra result brush credit aerobic";
+var mnemonic = "slush mix zone ill false athlete then rough clever sentence behind sign";

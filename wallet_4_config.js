@@ -1,1 +1,1 @@
-var mnemonic = "ladder fossil clap student cheese tongue evil reveal angle inside faith sphere";
+var mnemonic = "fork cargo invite waste birth saddle swear hospital vast cup pyramid dash";

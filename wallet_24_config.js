@@ -1,1 +1,1 @@
-var mnemonic = "decline praise federal month various antique say gap artefact shrimp nose need";
+var mnemonic = "nominee supreme west crew gravity other between wrong antenna tackle canvas antique";

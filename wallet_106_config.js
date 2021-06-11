@@ -1,1 +1,1 @@
-var mnemonic = "dial recipe prosper put demand lemon century stuff rug dignity slogan already";
+var mnemonic = "nephew hand again fly goddess option hunt scissors found fee forum acid";

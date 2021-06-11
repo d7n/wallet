@@ -1,1 +1,1 @@
-var mnemonic = "average ranch famous tonight six loud churn fog step cruel alter depend";
+var mnemonic = "hole pistol play oval neutral garden pattern number type observe pluck today";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil number profit waste rotate shallow input spring pave quick explain ivory";
+var mnemonic = "crash wait rookie voice sponsor rally sunset cage cost inflict anxiety amount";

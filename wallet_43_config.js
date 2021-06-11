@@ -1,1 +1,1 @@
-var mnemonic = "width indicate movie omit place grid addict pigeon dance common reopen middle";
+var mnemonic = "pair rebel frame issue process tenant habit vocal swear snack type salt";

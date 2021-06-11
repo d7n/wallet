@@ -1,1 +1,1 @@
-var mnemonic = "just daring material silly vacant mobile struggle discover casual test sunset act";
+var mnemonic = "maple rent lift check boil orbit reject horse fall forward release hub";

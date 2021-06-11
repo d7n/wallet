@@ -1,1 +1,1 @@
-var mnemonic = "peasant angle depth rather arrest person critic excuse banana unique side lamp";
+var mnemonic = "uphold fiscal citizen force grass spray trash lock steak book hamster uniform";

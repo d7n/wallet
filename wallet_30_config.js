@@ -1,1 +1,1 @@
-var mnemonic = "student cave ripple rate idea deny curtain camera best toy twice absurd";
+var mnemonic = "car snake attract become bounce area kid auto wing dose enemy token";

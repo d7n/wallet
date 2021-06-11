@@ -1,1 +1,1 @@
-var mnemonic = "flower hour mule atom dignity beauty arctic decrease where cute spoon awkward";
+var mnemonic = "local reflect exist report unable island unveil keen lab way garment sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "angry voyage welcome unveil wise pottery hotel mango prevent double depth pony";
+var mnemonic = "deal sudden axis auto bonus damp stuff response typical seat change gossip";

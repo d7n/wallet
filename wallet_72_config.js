@@ -1,1 +1,1 @@
-var mnemonic = "mutual post lucky ability connect curtain youth fashion then alien script deer";
+var mnemonic = "sort play elite defense punch genius start know warm wide manage stone";

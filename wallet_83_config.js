@@ -1,1 +1,1 @@
-var mnemonic = "expire grant student expect arch glove rib arch hurdle average cage prevent";
+var mnemonic = "spy humor lyrics carry protect virtual dream medal subway method similar tired";

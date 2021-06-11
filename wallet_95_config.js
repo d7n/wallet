@@ -1,1 +1,1 @@
-var mnemonic = "galaxy script input cause mercy print topple face enjoy surge battle raven";
+var mnemonic = "armed wheat major barrel front ask horror pigeon genius walk nice oven";

@@ -1,1 +1,1 @@
-var mnemonic = "hope lake wise glow object wood prefer true document plunge loop cage";
+var mnemonic = "table drive few churn clerk inner disagree region winner auction normal wage";

@@ -1,1 +1,1 @@
-var mnemonic = "fever disease cram parade crash torch rescue sick extend brief horror sphere";
+var mnemonic = "cupboard crucial bird flame nice near swarm melody usage daughter tribe net";

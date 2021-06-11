@@ -1,1 +1,1 @@
-var mnemonic = "blade relax lend endorse festival cram when only fantasy vicious initial fabric";
+var mnemonic = "rhythm scout garlic agree upon water doll mix shadow voice kind near";

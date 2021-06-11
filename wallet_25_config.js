@@ -1,1 +1,1 @@
-var mnemonic = "negative delay quantum aunt leader cave grief pitch icon asthma enforce actor";
+var mnemonic = "empower scan rose elevator still visa genius alcohol depth left comic mountain";

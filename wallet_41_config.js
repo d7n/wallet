@@ -1,1 +1,1 @@
-var mnemonic = "faint race detect sail party oxygen light wine hollow vacuum ghost rent";
+var mnemonic = "rifle motion runway rhythm special bright exit quick organ decide soda pole";

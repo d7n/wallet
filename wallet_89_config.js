@@ -1,1 +1,1 @@
-var mnemonic = "same verb front roast capital blush lucky inspire oxygen stable celery increase";
+var mnemonic = "bag clip dish melt elevator enact sponsor cigar today fever body sibling";

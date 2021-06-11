@@ -1,1 +1,1 @@
-var mnemonic = "chef gaze among have price nurse tragic advice reflect bridge motion climb";
+var mnemonic = "water order polar genre cluster gravity match dove runway pizza average story";

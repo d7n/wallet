@@ -1,1 +1,1 @@
-var mnemonic = "margin hurt feature kid auction staff love jungle quit embrace race cargo";
+var mnemonic = "cook repair cost proof angry blanket current labor recipe blame rail dish";

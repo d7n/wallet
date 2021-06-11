@@ -1,1 +1,1 @@
-var mnemonic = "ribbon ranch dinosaur agent present hover blossom choice there tornado fever leisure";
+var mnemonic = "pattern culture wish have believe wait input spawn scan shoe cry syrup";

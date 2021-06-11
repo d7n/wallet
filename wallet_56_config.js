@@ -1,1 +1,1 @@
-var mnemonic = "tomato steak suffer drill grab hope off canal fiber imitate digital degree";
+var mnemonic = "dream found scorpion prevent chunk wood tent option glow dog decide seed";

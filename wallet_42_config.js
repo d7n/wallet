@@ -1,1 +1,1 @@
-var mnemonic = "true cushion renew wish say throw ski once hockey senior tribe obtain";
+var mnemonic = "lift spread island cushion prepare army decade elder pistol ill excess kitten";

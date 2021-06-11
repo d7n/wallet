@@ -1,1 +1,1 @@
-var mnemonic = "portion gossip skin frown crunch embody master jar write put march never";
+var mnemonic = "later feel fall member between atom version fix huge crumble easily rich";

@@ -1,1 +1,1 @@
-var mnemonic = "similar federal skull gloom hub mention orange father know flat play attract";
+var mnemonic = "harsh reflect misery fee coin yard rubber always journey between crunch lyrics";

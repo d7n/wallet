@@ -1,1 +1,1 @@
-var mnemonic = "receive face team tongue first cave skirt laugh item verb heart donor";
+var mnemonic = "blame fashion deputy dentist grain humor walk category apart paddle devote trust";

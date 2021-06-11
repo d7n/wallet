@@ -1,1 +1,1 @@
-var mnemonic = "traffic exit kick recycle float unveil hard shop very pet best orange";
+var mnemonic = "budget sound limit crater health snap brave race jar zero nature spin";

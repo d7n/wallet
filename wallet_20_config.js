@@ -1,1 +1,1 @@
-var mnemonic = "twice exit elegant narrow soup twelve suffer rack turkey twist voice aisle";
+var mnemonic = "network antenna flip ancient chest crowd bunker canyon bomb hover quiz favorite";

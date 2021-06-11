@@ -1,1 +1,1 @@
-var mnemonic = "palace nature emerge educate essence street crop spray any grape live live";
+var mnemonic = "spider wire install never hat roast place journey comfort core element chase";

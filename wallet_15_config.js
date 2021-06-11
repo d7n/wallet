@@ -1,1 +1,1 @@
-var mnemonic = "amazing coconut favorite protect ticket eagle oblige rude reunion border all wisdom";
+var mnemonic = "child double gentle minute good shell lend snap benefit demand mention connect";

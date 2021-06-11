@@ -1,1 +1,1 @@
-var mnemonic = "inside chuckle stone mix antique shallow cloud jaguar bonus remain village dust";
+var mnemonic = "pizza video cousin stock bag hurry century blind major fire eyebrow margin";

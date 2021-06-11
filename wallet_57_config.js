@@ -1,1 +1,1 @@
-var mnemonic = "cover income home cement tomorrow guess grunt road vague essence country educate";
+var mnemonic = "accuse change tackle true other duty magnet ribbon order modify sort kid";

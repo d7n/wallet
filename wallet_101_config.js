@@ -1,1 +1,1 @@
-var mnemonic = "worry manage denial trouble language home short moment decline school other lyrics";
+var mnemonic = "retreat upon eyebrow penalty setup element spider seven document jealous champion trumpet";

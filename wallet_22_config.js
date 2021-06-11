@@ -1,1 +1,1 @@
-var mnemonic = "fold mail silk cupboard door harvest evoke guitar universe toilet fatigue ramp";
+var mnemonic = "crash horse knock polar habit clay undo same crater arrest mix puzzle";

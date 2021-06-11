@@ -1,1 +1,1 @@
-var mnemonic = "venture mercy plug nation broom control canal engine shine artefact fury lyrics";
+var mnemonic = "razor calm country welcome crack knee grape reunion snap crumble oval describe";

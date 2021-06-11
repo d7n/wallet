@@ -1,1 +1,1 @@
-var mnemonic = "perfect interest miracle base much sugar rate exercise wealth always chimney skirt";
+var mnemonic = "shine fitness insane drastic luxury mesh industry gold warm stool jelly witness";

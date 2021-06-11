@@ -1,1 +1,1 @@
-var mnemonic = "mystery guitar twice swim tube acoustic dawn vivid fan curtain deny fatigue";
+var mnemonic = "arrow release device hard bike churn pumpkin this share purchase busy legal";

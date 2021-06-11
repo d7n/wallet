@@ -1,1 +1,1 @@
-var mnemonic = "magnet ill icon coral enjoy broom cement tuition fee nasty sock capital";
+var mnemonic = "fat empty fiction art melody night lobster chicken palm finger inquiry dry";

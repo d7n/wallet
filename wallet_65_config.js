@@ -1,1 +1,1 @@
-var mnemonic = "inside trip wolf wedding cargo squeeze indicate post strong pyramid plunge limb";
+var mnemonic = "inject cup wire maximum audit weather stand bulb pig bomb border material";

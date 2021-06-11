@@ -1,1 +1,1 @@
-var mnemonic = "mouse meat approve coin parent wage eagle sunset cousin brass erode until";
+var mnemonic = "give inquiry pluck museum pelican icon expect butter style liquid chapter goddess";

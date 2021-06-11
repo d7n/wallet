@@ -1,1 +1,1 @@
-var mnemonic = "kick oppose jazz explain replace wagon debate plunge arrive verify portion mango";
+var mnemonic = "mask certain chapter day slender step argue lion disagree drill brief remain";

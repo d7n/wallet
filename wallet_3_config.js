@@ -1,1 +1,1 @@
-var mnemonic = "castle indicate height sorry nephew erosion casino achieve need spot guess all";
+var mnemonic = "expose guess soft among ugly pulp express bleak consider clerk include crunch";

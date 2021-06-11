@@ -1,1 +1,1 @@
-var mnemonic = "sunny record page intact hard laundry retreat appear field shy quit void";
+var mnemonic = "pact audit key green example radar rail story spoil wash sing tail";

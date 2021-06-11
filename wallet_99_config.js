@@ -1,1 +1,1 @@
-var mnemonic = "cloud matrix once sense voyage champion visit milk quality match repeat gospel";
+var mnemonic = "pig wine impose view symptom repair exhibit tide client payment use face";

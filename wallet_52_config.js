@@ -1,1 +1,1 @@
-var mnemonic = "run detail person jaguar drastic sister whale once blast long icon skin";
+var mnemonic = "fee urge must shift label acquire mask hold taxi gloom that learn";

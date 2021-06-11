@@ -1,1 +1,1 @@
-var mnemonic = "smoke jacket business fiber naive notice best path nation tribe expand inherit";
+var mnemonic = "slab consider transfer tonight mountain boost dry emerge lounge cabbage idle airport";

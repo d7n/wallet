@@ -1,1 +1,1 @@
-var mnemonic = "mom spirit celery shoot entry lava license swim tank auto negative wire";
+var mnemonic = "sting diagram gorilla inch canyon ugly swamp wing faculty divert airport engage";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze warrior letter insect lounge craft shop razor pole betray party cinnamon";
+var mnemonic = "develop life unfair shadow upgrade nuclear spell tooth magic sheriff mother stool";

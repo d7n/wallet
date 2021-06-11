@@ -1,1 +1,1 @@
-var mnemonic = "major such rent similar kangaroo clump glimpse shine much question during rug";
+var mnemonic = "enjoy wrist airport pass salt stamp maze come come divert convince tape";

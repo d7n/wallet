@@ -1,1 +1,1 @@
-var mnemonic = "spike tenant copper source blood danger cluster barrel rule health bitter bar";
+var mnemonic = "pyramid salad thunder end fat lake bind merry ugly figure rifle this";

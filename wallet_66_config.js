@@ -1,1 +1,1 @@
-var mnemonic = "pig strike mosquito aunt stage spawn chicken unfold submit between service banner";
+var mnemonic = "valley desk escape iron derive busy squirrel hen accuse chapter boil naive";

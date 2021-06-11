@@ -1,1 +1,1 @@
-var mnemonic = "hundred sunny margin cloth curve believe liar plug airport vital pause bicycle";
+var mnemonic = "faith pave brown slender noise pet hip crunch awful artwork palace urban";

@@ -1,1 +1,1 @@
-var mnemonic = "seek staff humble glove sight insect joy ball skill ill myself kiss";
+var mnemonic = "turtle valley present frost crowd popular december elite royal session dose taxi";

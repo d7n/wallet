@@ -1,1 +1,1 @@
-var mnemonic = "obscure voyage patch fox ring print clutch rural one rubber multiply gorilla";
+var mnemonic = "boy fault beach school cannon pear enact ketchup unusual axis mansion gas";

@@ -1,1 +1,1 @@
-var mnemonic = "addict dice annual primary antenna tube family believe turtle correct detail confirm";
+var mnemonic = "lyrics van piece concert guilt label mushroom rough between endorse nephew lounge";

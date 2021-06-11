@@ -1,1 +1,1 @@
-var mnemonic = "foster cousin perfect document wide innocent witness safe icon normal drip puzzle";
+var mnemonic = "pair access scare daughter patient pluck come access volume rescue abandon spread";

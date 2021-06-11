@@ -1,1 +1,1 @@
-var mnemonic = "summer palm crop tiny nice swap wolf employ document page cluster quiz";
+var mnemonic = "cabin color swap dumb brown post wire source patient repair tape volcano";

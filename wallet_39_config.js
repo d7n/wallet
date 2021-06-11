@@ -1,1 +1,1 @@
-var mnemonic = "rug core shiver spice shiver task peasant fringe cotton pink cotton pink";
+var mnemonic = "alert ketchup vault receive lounge animal youth awesome metal silk follow length";

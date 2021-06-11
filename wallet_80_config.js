@@ -1,1 +1,1 @@
-var mnemonic = "what left regular benefit current south boy ill surge lunar business arm";
+var mnemonic = "rabbit zebra govern ripple mandate cream fitness message crowd favorite bless agent";

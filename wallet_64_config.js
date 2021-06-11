@@ -1,1 +1,1 @@
-var mnemonic = "cross goat because casino squeeze gossip toddler insect mansion school vote metal";
+var mnemonic = "meadow zone cradle action age height skill save palace urban dismiss home";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt judge chair delay tragic kangaroo artist exchange topic believe canoe drama";
+var mnemonic = "quit supreme people fragile aspect town network reunion soon fox joy novel";

@@ -1,1 +1,1 @@
-var mnemonic = "success long grace avocado notable between denial length tissue fragile humor melody";
+var mnemonic = "express turn slogan organ sentence cotton siren exotic mix please allow hurdle";

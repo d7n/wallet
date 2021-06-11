@@ -1,1 +1,1 @@
-var mnemonic = "inside engage opinion pave blanket rapid bitter final pottery manage already dizzy";
+var mnemonic = "type drive happy border brain invite squirrel shed couple belt shell endorse";

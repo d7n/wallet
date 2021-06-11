@@ -1,1 +1,1 @@
-var mnemonic = "coffee soul key web wash grab slim spy globe film gorilla jar";
+var mnemonic = "bacon history napkin theme width diamond rhythm mimic version joke casual devote";

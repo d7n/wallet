@@ -1,1 +1,1 @@
-var mnemonic = "orange mix maze that plate surge focus denial target derive practice flock";
+var mnemonic = "result engage used left apple accuse when warm symptom spread submit visa";

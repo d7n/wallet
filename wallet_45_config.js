@@ -1,1 +1,1 @@
-var mnemonic = "rather wave pet wagon situate skill just athlete deposit issue border explain";
+var mnemonic = "fabric inspire gravity foot math small verb tool hundred shop answer rifle";

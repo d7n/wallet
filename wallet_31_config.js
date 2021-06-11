@@ -1,1 +1,1 @@
-var mnemonic = "cake express order speed ring boring just oblige cram place tag pet";
+var mnemonic = "hen pilot copper reform buyer lobster style panda amateur until sweet junior";

@@ -1,1 +1,1 @@
-var mnemonic = "light diary very tuition luggage attitude aware decrease tiger fossil code account";
+var mnemonic = "truck drop oyster select offer level fit front finger surface exist relax";

@@ -1,1 +1,1 @@
-var mnemonic = "school uniform portion habit elevator notable raw bargain cement tumble ill speed";
+var mnemonic = "naive witness stomach master spin merge visual system rather excuse bread enough";

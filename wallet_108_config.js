@@ -1,1 +1,1 @@
-var mnemonic = "weasel below session vacant east power dizzy involve canyon news endless invest";
+var mnemonic = "engine easy more sick huge reunion custom silver retreat piano save record";

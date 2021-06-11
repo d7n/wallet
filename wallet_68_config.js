@@ -1,1 +1,1 @@
-var mnemonic = "duty love mixed theme column era shadow engage make group number into";
+var mnemonic = "measure library ship execute kid fork since shed artist toe oak pepper";

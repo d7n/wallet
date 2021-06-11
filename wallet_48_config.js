@@ -1,1 +1,1 @@
-var mnemonic = "noble entry polar photo enemy provide junior flat parade pulp flush example";
+var mnemonic = "normal frozen original wisdom copper wreck inflict exact engine obscure sword pencil";

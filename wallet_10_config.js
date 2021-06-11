@@ -1,1 +1,1 @@
-var mnemonic = "strike clutch joke island true hat ensure frost wet owner minute urge";
+var mnemonic = "trick output banana black regular idle again pony empower also since scare";

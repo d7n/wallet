@@ -1,1 +1,1 @@
-var mnemonic = "kingdom leopard frozen fresh yellow job office hub flavor cheap alcohol pencil";
+var mnemonic = "student bundle spice source access subway coyote donor invite perfect chicken actor";
