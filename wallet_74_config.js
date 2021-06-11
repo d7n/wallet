@@ -1,1 +1,1 @@
-var mnemonic = "lottery giggle approve puppy taxi horn wage crystal royal evidence another depart";
+var mnemonic = "eagle celery trap tumble orchard cloud online caught extend goose increase erupt";

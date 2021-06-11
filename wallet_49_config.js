@@ -1,1 +1,1 @@
-var mnemonic = "address quality false bargain history give execute better vendor depth student pill";
+var mnemonic = "spike install pear federal hub pink already minimum deer trial relax kind";

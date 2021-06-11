@@ -1,1 +1,1 @@
-var mnemonic = "bar dinner harvest fever bread parade accident sail trip dust infant car";
+var mnemonic = "ramp rain harvest taxi floor oyster dilemma athlete hobby weasel island put";

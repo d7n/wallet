@@ -1,1 +1,1 @@
-var mnemonic = "pigeon fatal phrase trap change position reflect nurse display town mixture focus";
+var mnemonic = "fall disorder myth source erode practice hire become lucky fame series rough";

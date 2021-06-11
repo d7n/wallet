@@ -1,1 +1,1 @@
-var mnemonic = "trap story potato together glue chest income board suggest exercise swamp before";
+var mnemonic = "shoulder theory faith donkey fluid disorder blade fresh scrap evidence action earn";

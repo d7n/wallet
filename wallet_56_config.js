@@ -1,1 +1,1 @@
-var mnemonic = "fever hint arena horn media source liar goat between blanket dawn unusual";
+var mnemonic = "alpha trick mandate close motor hedgehog mountain room sport orbit soft dish";

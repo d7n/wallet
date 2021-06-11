@@ -1,1 +1,1 @@
-var mnemonic = "oyster giraffe throw inflict flat drink seven wing across assault best result";
+var mnemonic = "age utility worth custom stable pitch ensure exercise furnace canal gospel exit";

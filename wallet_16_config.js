@@ -1,1 +1,1 @@
-var mnemonic = "swamp found slab rug vibrant twelve canoe crumble cement kick ladder live";
+var mnemonic = "trash board video insane ticket boring shuffle melody return stock beauty layer";

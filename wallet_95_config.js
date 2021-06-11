@@ -1,1 +1,1 @@
-var mnemonic = "trick logic draw daring biology delay shy frame sausage radar raw draw";
+var mnemonic = "remain enlist tuna unable organ version strong blue evolve style guitar oval";

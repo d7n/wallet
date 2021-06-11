@@ -1,1 +1,1 @@
-var mnemonic = "rough undo proud boost lemon town ugly blast copper oyster critic pool";
+var mnemonic = "shoe cart jump glide worth speak legend radar vehicle food slender dinosaur";

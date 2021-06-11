@@ -1,1 +1,1 @@
-var mnemonic = "slow canvas critic receive identify actor police consider pudding hen yard visual";
+var mnemonic = "syrup crunch envelope stuff minute aerobic grocery diagram man shield wrong pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "develop grid load private south derive health ribbon skull unlock poem double";
+var mnemonic = "ramp pass recipe you match holiday merit bamboo purse hard gain require";

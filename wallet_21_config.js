@@ -1,1 +1,1 @@
-var mnemonic = "problem any coast reject wash indoor midnight clock dove security act kitten";
+var mnemonic = "rural master trap lunar fluid eyebrow violin flash wrap situate depth rather";

@@ -1,1 +1,1 @@
-var mnemonic = "crack civil index wrap peace enemy boy avoid mom easy cake stumble";
+var mnemonic = "bulb electric cliff swear senior size useless tomorrow voice web venture dog";

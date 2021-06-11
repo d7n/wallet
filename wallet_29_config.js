@@ -1,1 +1,1 @@
-var mnemonic = "people square please cube legal rude dirt mesh dash trial program achieve";
+var mnemonic = "rice mention nominee draw empower effort carpet senior again bottom eyebrow alert";

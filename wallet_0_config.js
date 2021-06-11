@@ -1,1 +1,1 @@
-var mnemonic = "weather more lazy collect door dish asset front monster winter language roof";
+var mnemonic = "column image planet banner field town eager broom taxi name drift summer";

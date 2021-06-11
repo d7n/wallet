@@ -1,1 +1,1 @@
-var mnemonic = "increase devote tail devote stomach mystery reflect control slide gas swap napkin";
+var mnemonic = "curve theme will device raven orient prefer skin above marble zone struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "cement state club cliff deputy ivory shop dragon remain cute tenant title";
+var mnemonic = "flock purchase boy random buyer pupil feel marriage wrap despair nature liberty";

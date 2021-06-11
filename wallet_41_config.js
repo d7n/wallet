@@ -1,1 +1,1 @@
-var mnemonic = "patrol glue resource recall actor wedding door toward trouble spot torch cost";
+var mnemonic = "film dance flee weapon uphold train debate calm offer inform unknown glide";

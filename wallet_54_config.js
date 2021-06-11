@@ -1,1 +1,1 @@
-var mnemonic = "oil fence sock basket blanket grief resource slush soccer day camera item";
+var mnemonic = "liquid boat typical board hello wisdom move taste elder mail mad ocean";

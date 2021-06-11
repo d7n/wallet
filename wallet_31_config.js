@@ -1,1 +1,1 @@
-var mnemonic = "agree soda essay marriage amount void cash motor satisfy short black drill";
+var mnemonic = "tape very omit economy marble reunion dry crisp usual onion scrap north";

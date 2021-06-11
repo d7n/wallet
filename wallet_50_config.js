@@ -1,1 +1,1 @@
-var mnemonic = "spoil term eye great someone scatter water obvious skin kangaroo fitness glare";
+var mnemonic = "normal prefer napkin real bus ceiling film plunge fade connect bring river";

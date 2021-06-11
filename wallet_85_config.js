@@ -1,1 +1,1 @@
-var mnemonic = "volcano kiss rhythm scare strike fluid rubber risk royal spring pupil receive";
+var mnemonic = "direct actual economy cruel fold ridge memory muscle total hungry dad raw";

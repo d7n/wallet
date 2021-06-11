@@ -1,1 +1,1 @@
-var mnemonic = "raccoon metal priority duck flat library use column erosion balcony table wealth";
+var mnemonic = "hunt script arrange judge solution fly anchor rail lunar govern march mean";

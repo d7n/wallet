@@ -1,1 +1,1 @@
-var mnemonic = "pretty uphold organ what side onion into boy busy scheme pyramid bench";
+var mnemonic = "ripple luggage weather mistake random guide pattern news yard wall flock abandon";

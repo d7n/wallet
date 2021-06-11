@@ -1,1 +1,1 @@
-var mnemonic = "dog phrase gentle skate wise orchard door boat palm chicken robot live";
+var mnemonic = "wolf nature broom speed obscure bronze innocent pride tenant payment decorate burden";

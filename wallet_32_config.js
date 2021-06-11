@@ -1,1 +1,1 @@
-var mnemonic = "design fever bus month special cluster host model panel picture trophy guitar";
+var mnemonic = "arrow tooth carbon shrug struggle belt collect voice dawn cave nature shock";

@@ -1,1 +1,1 @@
-var mnemonic = "silly salmon warfare tornado then asset spend undo ladder throw lottery host";
+var mnemonic = "report infant loan goose collect library course pioneer elder rain bunker route";

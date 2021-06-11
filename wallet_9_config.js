@@ -1,1 +1,1 @@
-var mnemonic = "oven strong diesel vault ankle skirt dad farm sketch bottom chronic bonus";
+var mnemonic = "crumble disagree hurry rain shiver green current cheap diamond october gate attend";

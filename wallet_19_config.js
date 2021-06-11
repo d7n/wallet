@@ -1,1 +1,1 @@
-var mnemonic = "camp trouble absent lonely edge act economy enforce enlist bunker enjoy travel";
+var mnemonic = "island electric name age split blind sing what love afford crater dish";

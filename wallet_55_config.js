@@ -1,1 +1,1 @@
-var mnemonic = "fame hurry pupil isolate penalty destroy talk shock actress merry cheese rebel";
+var mnemonic = "hotel upper nuclear alien cash torch try pilot misery small mobile chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing raccoon cake supply ticket steak market okay few guide whale process";
+var mnemonic = "envelope welcome poet garlic quote absent leave cabin purse analyst begin hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare exact stand story require slogan orbit follow response road awake elder";
+var mnemonic = "eight destroy hope comfort sketch slogan shuffle kitten diamond obey doll grab";

@@ -1,1 +1,1 @@
-var mnemonic = "excite sound alert obey input save palm uniform diesel liberty despair coconut";
+var mnemonic = "coconut idle switch trust rule phone assault asset chicken wire page anchor";

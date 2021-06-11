@@ -1,1 +1,1 @@
-var mnemonic = "roof script make length december giraffe order prevent latin tail coyote garlic";
+var mnemonic = "carbon whip vapor target enlist skin frog order ribbon agent entry clown";

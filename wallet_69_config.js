@@ -1,1 +1,1 @@
-var mnemonic = "spend small flee reopen dice already purpose radar rail torch among student";
+var mnemonic = "outdoor prevent assault purchase pepper address advice joke insane fever march coach";

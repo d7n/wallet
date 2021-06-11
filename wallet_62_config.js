@@ -1,1 +1,1 @@
-var mnemonic = "balcony lamp fame clinic maid pottery diagram cannon right kite priority zebra";
+var mnemonic = "jar must quote load excite lecture frozen copy try crumble appear reform";

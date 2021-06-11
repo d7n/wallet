@@ -1,1 +1,1 @@
-var mnemonic = "slow gym sick crash name edit wasp size trouble peasant refuse green";
+var mnemonic = "olympic boost debate soldier pass core pyramid plug illness venture obvious tattoo";

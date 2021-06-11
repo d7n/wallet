@@ -1,1 +1,1 @@
-var mnemonic = "fine click bottom network axis output jaguar prefer school pumpkin twenty east";
+var mnemonic = "entire shell beauty trip cupboard erupt aunt cream duty buffalo nest caught";

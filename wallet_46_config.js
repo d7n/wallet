@@ -1,1 +1,1 @@
-var mnemonic = "wreck danger laugh banner mind sing lottery amazing marriage announce urban ritual";
+var mnemonic = "sing impulse dial bus scan secret describe gallery initial deposit push sketch";

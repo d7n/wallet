@@ -1,1 +1,1 @@
-var mnemonic = "begin siren divide prosper please gloom fitness reform path usual melt buyer";
+var mnemonic = "fetch speed fringe loop swim allow hello retire divide fish select awkward";

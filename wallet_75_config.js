@@ -1,1 +1,1 @@
-var mnemonic = "response arctic joke merit brass job between hover fix short across lizard";
+var mnemonic = "banana eager firm spoon universe holiday can erase canal match mask absent";

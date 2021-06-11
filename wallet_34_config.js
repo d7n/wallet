@@ -1,1 +1,1 @@
-var mnemonic = "shaft key cancel quality split brush begin isolate only tube price abstract";
+var mnemonic = "phone problem silver orbit meat grocery bring tail clump barrel embark oval";

@@ -1,1 +1,1 @@
-var mnemonic = "brush theory memory runway cousin jacket sad drill boy bracket wrong slender";
+var mnemonic = "end prison lion ladder mass hire amount parent filter gospel dynamic draw";

@@ -1,1 +1,1 @@
-var mnemonic = "garden cluster lake hair quick discover pair original garbage chalk grab sniff";
+var mnemonic = "depend shoe job view cat empower special carbon duty filter abuse frown";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd can unhappy alarm wasp buyer brass trade multiply funny pottery enlist";
+var mnemonic = "wash release bird ordinary save sniff camera edge derive film simple decorate";

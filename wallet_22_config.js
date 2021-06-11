@@ -1,1 +1,1 @@
-var mnemonic = "sketch state property tiger hammer twenty milk island wealth consider session year";
+var mnemonic = "swap false paper cluster mistake gospel damp obvious idle doctor napkin opera";

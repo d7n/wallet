@@ -1,1 +1,1 @@
-var mnemonic = "certain daughter slam huge sight dress adapt inside sort patient husband ribbon";
+var mnemonic = "major almost stumble pattern carry federal wash route garment table candy leader";

@@ -1,1 +1,1 @@
-var mnemonic = "result dragon captain design network multiply ladder regular slot laugh brave cry";
+var mnemonic = "duty album curve mass believe release tenant crater gloom attract mother raven";

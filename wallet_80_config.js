@@ -1,1 +1,1 @@
-var mnemonic = "ankle ritual mention judge regret argue maple frozen reveal trim tilt gaze";
+var mnemonic = "excess rabbit ensure hybrid model better chat once paper duty swarm weapon";

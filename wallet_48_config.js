@@ -1,1 +1,1 @@
-var mnemonic = "cart rent sure calm sure coral jewel mom pigeon oppose squeeze salad";
+var mnemonic = "lamp obvious mammal work medal task mask destroy arena term odor achieve";

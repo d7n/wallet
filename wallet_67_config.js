@@ -1,1 +1,1 @@
-var mnemonic = "cereal inherit pilot mind lonely calm insect crouch example velvet indicate skin";
+var mnemonic = "switch lumber unique scan salad east butter park skirt outdoor sick salon";

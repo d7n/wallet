@@ -1,1 +1,1 @@
-var mnemonic = "dice tuna unhappy abandon wild fee tumble garage wait gesture assist visa";
+var mnemonic = "body umbrella traffic hobby robot water timber outdoor creek kick tornado hint";

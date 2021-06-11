@@ -1,1 +1,1 @@
-var mnemonic = "winner occur believe peasant shy bracket theory abuse canoe elite motion forest";
+var mnemonic = "seed sheriff bomb icon man torch problem feed breeze grow spring jump";

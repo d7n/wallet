@@ -1,1 +1,1 @@
-var mnemonic = "smoke knock moral movie finger sustain ankle host few senior position mom";
+var mnemonic = "shallow arena staff unfair job column mention rude action boil grid wedding";

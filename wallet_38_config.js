@@ -1,1 +1,1 @@
-var mnemonic = "quote proud visa exhaust vote asset detail lecture squeeze pizza hamster tragic";
+var mnemonic = "enroll skill shaft blast wonder insane snow next web scheme clay depth";

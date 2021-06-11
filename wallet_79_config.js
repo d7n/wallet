@@ -1,1 +1,1 @@
-var mnemonic = "miss menu embody follow boy neck crouch victory box spell wash top";
+var mnemonic = "tree change amazing cute olympic orphan denial father dinosaur trim antique involve";

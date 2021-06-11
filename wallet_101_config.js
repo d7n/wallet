@@ -1,1 +1,1 @@
-var mnemonic = "tonight burger sight say enter flower mercy social divert volume neck code";
+var mnemonic = "because spot plate grain update silent client gym chicken game spray domain";

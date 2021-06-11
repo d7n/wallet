@@ -1,1 +1,1 @@
-var mnemonic = "gorilla code bridge close judge awesome blush tissue identify force frog pistol";
+var mnemonic = "exact conduct spoon license avoid dish loud gym enable police oak rate";

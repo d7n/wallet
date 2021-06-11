@@ -1,1 +1,1 @@
-var mnemonic = "wonder kite december holiday rally bonus bone afford early satisfy item bone";
+var mnemonic = "scheme cup use phrase draw ride smoke youth crumble scatter lizard grunt";

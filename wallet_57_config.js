@@ -1,1 +1,1 @@
-var mnemonic = "gown borrow turkey moon photo key squeeze orbit anchor dawn monkey eye";
+var mnemonic = "wash coil eagle subway lucky stumble they wet trade flee inject funny";

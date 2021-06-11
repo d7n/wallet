@@ -1,1 +1,1 @@
-var mnemonic = "maple broom work arch illness child nest awkward label egg expect seat";
+var mnemonic = "fall connect drama enable describe keep all deer way stock lecture now";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain claw company cool palm response doctor scan demise popular shop february";
+var mnemonic = "pride motor inform segment frozen flee nominee almost swift tenant domain clump";

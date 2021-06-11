@@ -1,1 +1,1 @@
-var mnemonic = "sunny boring path agree reason clock property ice avoid choice worth divorce";
+var mnemonic = "twelve melt cancel anxiety online final dirt uncover slot already raw say";

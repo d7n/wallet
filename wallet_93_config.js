@@ -1,1 +1,1 @@
-var mnemonic = "wash unknown alcohol tumble burger foster cute tenant swear burst liar hour";
+var mnemonic = "spell space again cry jaguar legal inquiry stuff pave base job orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth client purse huge gas day into lady baby pioneer lunar venture";
+var mnemonic = "fetch media annual wood dismiss diary pond about twelve donate essence runway";

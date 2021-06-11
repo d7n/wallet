@@ -1,1 +1,1 @@
-var mnemonic = "endorse cabbage way office farm boring public net earn crane pond obtain";
+var mnemonic = "tip pledge ordinary balcony adult better wave clutch inject hollow vehicle offer";

@@ -1,1 +1,1 @@
-var mnemonic = "pair make useless derive addict quantum fancy stuff ranch weather local panel";
+var mnemonic = "loud clever scatter once various first harvest dinner topple faint company gadget";

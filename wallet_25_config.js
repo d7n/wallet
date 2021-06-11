@@ -1,1 +1,1 @@
-var mnemonic = "science young mandate hedgehog drive egg embody drink wink simple juice file";
+var mnemonic = "shaft purse hint gate unit frost bubble game jazz tower bomb guide";

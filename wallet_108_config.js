@@ -1,1 +1,1 @@
-var mnemonic = "solid girl random under spoil figure play theory there border wife spend";
+var mnemonic = "bubble metal buddy birth fog wrestle erosion outside powder rebel fruit essay";

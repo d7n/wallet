@@ -1,1 +1,1 @@
-var mnemonic = "monitor curious acid culture flip life pizza dash legal letter alpha hidden";
+var mnemonic = "slight such weapon town off desk nest absorb scale cruel bind cotton";

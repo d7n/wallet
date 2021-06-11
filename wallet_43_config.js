@@ -1,1 +1,1 @@
-var mnemonic = "fame name drama exclude scheme rib host husband jungle scout slow whale";
+var mnemonic = "dial night blind midnight spring average sad oak animal cigar doll cook";

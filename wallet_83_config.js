@@ -1,1 +1,1 @@
-var mnemonic = "twin cruel decline dumb fun lucky home minor isolate glue address save";
+var mnemonic = "glove bright rural admit already salon spell dirt keen word rate scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "health ecology vibrant fashion butter hunt talk gauge clerk reopen armor size";
+var mnemonic = "torch promote shoe bundle boring bleak diesel mad track energy piano thought";

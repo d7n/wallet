@@ -1,1 +1,1 @@
-var mnemonic = "blind slow steak danger case wrestle chase lecture culture section federal case";
+var mnemonic = "canal frog pelican turkey total laundry track spider what around excuse abstract";

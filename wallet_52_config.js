@@ -1,1 +1,1 @@
-var mnemonic = "digital dilemma few ranch jazz peasant tank main pipe crucial code wage";
+var mnemonic = "doll drift plunge two brisk miracle damage orchard upgrade spawn caution scare";

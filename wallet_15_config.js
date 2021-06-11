@@ -1,1 +1,1 @@
-var mnemonic = "size describe dismiss sting goddess swap blast staff book gas someone food";
+var mnemonic = "local captain bright seven brown found grief label suggest now vague gate";

@@ -1,1 +1,1 @@
-var mnemonic = "edit coil session opera industry hub skate vintage coral simple basket prison";
+var mnemonic = "primary vague dice shock slab athlete final tool wing hurdle rice eye";

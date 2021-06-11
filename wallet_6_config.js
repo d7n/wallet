@@ -1,1 +1,1 @@
-var mnemonic = "limb orient arm alarm virtual payment speed tourist accident until coast prepare";
+var mnemonic = "shrug bird bomb left kingdom tobacco riot session peanut hill give buffalo";

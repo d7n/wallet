@@ -1,1 +1,1 @@
-var mnemonic = "seven idea spend inside any mouse spice famous half crop result junior";
+var mnemonic = "canoe express account property bread auction unaware ordinary ice head cool layer";

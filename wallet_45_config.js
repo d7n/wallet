@@ -1,1 +1,1 @@
-var mnemonic = "language useless clinic program grunt person wild attract such asset sausage worth";
+var mnemonic = "face cash essay rabbit hospital torch prefer three this toss happy all";

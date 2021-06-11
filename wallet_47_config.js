@@ -1,1 +1,1 @@
-var mnemonic = "crucial disagree page novel twice nominee robust brush ten stuff cost evoke";
+var mnemonic = "almost embody tray baby rich man sustain job load symptom push child";

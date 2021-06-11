@@ -1,1 +1,1 @@
-var mnemonic = "inherit feed sausage welcome explain fatigue protect detail profit leave pride clock";
+var mnemonic = "doctor horn come stuff slam action impulse use thumb dial sport desk";

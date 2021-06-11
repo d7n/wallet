@@ -1,1 +1,1 @@
-var mnemonic = "shield crowd conduct twelve aware lounge garage guilt balcony warrior tenant achieve";
+var mnemonic = "stem fringe suffer sketch fabric slight race juice soon tribe stem need";

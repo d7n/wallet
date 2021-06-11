@@ -1,1 +1,1 @@
-var mnemonic = "forward head boost spider wait hill rent tank material cattle forget grow";
+var mnemonic = "song error solve region toward awesome adjust ceiling envelope border path credit";

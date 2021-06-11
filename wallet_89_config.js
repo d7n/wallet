@@ -1,1 +1,1 @@
-var mnemonic = "junior useless apart sphere kit cereal volcano disorder prosper dad must lyrics";
+var mnemonic = "lobster weapon upper fresh suffer shrimp flame scare plug jungle inherit trigger";

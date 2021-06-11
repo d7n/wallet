@@ -1,1 +1,1 @@
-var mnemonic = "way river brain smoke reduce subway plastic gold more ginger snake sick";
+var mnemonic = "domain logic vapor invite high friend orphan supreme banana liberty rifle multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow benefit oxygen remember ability alone awful senior meadow enjoy upper situate";
+var mnemonic = "purity secret common fix kingdom gloom property either ten tuition staff inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "toy usage air shop eyebrow copper tennis april error edge analyst begin";
+var mnemonic = "air leader armor young include student holiday comic nose sunset much shiver";

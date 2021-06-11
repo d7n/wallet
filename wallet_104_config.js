@@ -1,1 +1,1 @@
-var mnemonic = "decide boy jealous know blind found toss solve say share bench frog";
+var mnemonic = "soccer salon cause grace thrive hotel snack place alone detail awake replace";

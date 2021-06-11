@@ -1,1 +1,1 @@
-var mnemonic = "bread south bring roof gym entire maple awkward vendor empower day now";
+var mnemonic = "public mistake must believe height dismiss toilet test dutch together coil nest";
