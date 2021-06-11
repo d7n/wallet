@@ -1,1 +1,1 @@
-var mnemonic = "diet head globe defense matter omit cover mixed decide pluck magnet junk";
+var mnemonic = "width figure cancel base author vacant knife sentence disease amused syrup audit";

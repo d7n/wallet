@@ -1,1 +1,1 @@
-var mnemonic = "shiver film abstract recycle expand version indicate defense actual cry demand bachelor";
+var mnemonic = "glory grocery sample final language dragon cover follow ill food arena above";

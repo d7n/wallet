@@ -1,1 +1,1 @@
-var mnemonic = "join top mango where impose series inhale nuclear example brief venue true";
+var mnemonic = "coral hole scale win any absent vicious total decorate model kite govern";

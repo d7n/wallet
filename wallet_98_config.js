@@ -1,1 +1,1 @@
-var mnemonic = "nice cram panel beach match stairs shine broccoli spread move agree hire";
+var mnemonic = "portion cannon obtain shaft custom panda dwarf trouble decline parrot swap loan";

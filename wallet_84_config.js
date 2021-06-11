@@ -1,1 +1,1 @@
-var mnemonic = "there deposit grit pool acoustic hammer account extra venue erase orchard wrist";
+var mnemonic = "exotic purpose youth swallow insect sketch segment matrix merry grain chase zoo";

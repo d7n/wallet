@@ -1,1 +1,1 @@
-var mnemonic = "mail evolve reject evolve lock poverty blur sorry thunder genuine radar lift";
+var mnemonic = "shoot clown gorilla rally party album page gown exile belt frequent film";

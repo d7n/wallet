@@ -1,1 +1,1 @@
-var mnemonic = "long filter helmet blame leopard become vendor soon cross worth under gesture";
+var mnemonic = "sword wash pear open zoo spot habit project coin arctic prepare alcohol";

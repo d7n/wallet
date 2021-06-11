@@ -1,1 +1,1 @@
-var mnemonic = "mystery hand hood piece enroll cream banner know film mandate deposit prevent";
+var mnemonic = "post confirm virtual minimum chase midnight live treat inherit exact congress proud";

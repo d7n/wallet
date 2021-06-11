@@ -1,1 +1,1 @@
-var mnemonic = "faith annual matrix shock flock umbrella ribbon brass agent demise ginger empty";
+var mnemonic = "sure indoor title scorpion scrap funny husband other outdoor tortoise into spice";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic pair sort label actual start filter behind rural six trouble side";
+var mnemonic = "unable silk kangaroo document robot chief scare cube impulse usual defense grace";

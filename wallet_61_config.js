@@ -1,1 +1,1 @@
-var mnemonic = "man below quote grant drama idea danger swallow help proof float theory";
+var mnemonic = "gentle upset tenant round piano soap gun strike bench phone knee sand";

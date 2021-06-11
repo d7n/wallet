@@ -1,1 +1,1 @@
-var mnemonic = "lumber february message permit stage mail dutch average bread bread glance brass";
+var mnemonic = "occur abstract point close swap echo dutch glass cross summer blade rubber";

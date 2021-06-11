@@ -1,1 +1,1 @@
-var mnemonic = "tell grape cancel bike margin canoe clever spirit afford door misery double";
+var mnemonic = "glove dignity script embark interest caution hole phone speak frequent talk piece";

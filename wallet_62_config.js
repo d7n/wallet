@@ -1,1 +1,1 @@
-var mnemonic = "nothing oppose moral retreat other knee rhythm year depart cliff include invest";
+var mnemonic = "drip jar access snap labor mobile volcano pear minute jeans marriage cannon";

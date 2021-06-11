@@ -1,1 +1,1 @@
-var mnemonic = "velvet bargain tennis rice ten nephew trim market since suspect ribbon spoil";
+var mnemonic = "gap change write shuffle visit rib blame harsh pool goddess tattoo trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "observe crack sea stay seminar brisk affair educate size harvest polar begin";
+var mnemonic = "school giraffe cart dumb ten dumb dream possible fatigue echo possible arrest";

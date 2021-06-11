@@ -1,1 +1,1 @@
-var mnemonic = "kite add put keep barrel point one chef admit alarm share normal";
+var mnemonic = "panda river assume speak impact empty end target jump theme merit drama";

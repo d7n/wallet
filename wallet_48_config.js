@@ -1,1 +1,1 @@
-var mnemonic = "pear weasel nurse prepare juice width document hockey game crew salute same";
+var mnemonic = "dutch today inch popular arrive skirt unfair version view country drive jar";

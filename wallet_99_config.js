@@ -1,1 +1,1 @@
-var mnemonic = "anger oval mad actress inquiry boat art depend cherry doctor chunk quick";
+var mnemonic = "health galaxy submit much member twelve stage strike sort bronze target foster";

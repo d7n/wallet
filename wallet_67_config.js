@@ -1,1 +1,1 @@
-var mnemonic = "alter vacuum civil mobile borrow praise roof vintage attitude tag horse approve";
+var mnemonic = "cute labor hover voice tenant able worry junk hood ugly hover pioneer";

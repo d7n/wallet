@@ -1,1 +1,1 @@
-var mnemonic = "term author elegant tired couch mesh bird trim hotel maid sing army";
+var mnemonic = "swamp nerve fade journey crack can lecture violin food exit humor frozen";

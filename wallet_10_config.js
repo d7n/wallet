@@ -1,1 +1,1 @@
-var mnemonic = "false remember drink nuclear proof liberty gym oil short virus nerve torch";
+var mnemonic = "inhale version fiber puppy arrange wait visa discover marble tape solve uncover";

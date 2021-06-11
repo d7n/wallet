@@ -1,1 +1,1 @@
-var mnemonic = "excite surge loan gorilla fluid fluid convince ozone route latin afraid liberty";
+var mnemonic = "short text profit nuclear whisper kiss wine trim become early stick lift";

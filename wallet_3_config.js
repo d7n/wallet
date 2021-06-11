@@ -1,1 +1,1 @@
-var mnemonic = "kiss east mammal club butter lion priority nominee bag diagram can canoe";
+var mnemonic = "donate tuition list sadness gold device elegant naive winner try weird exclude";

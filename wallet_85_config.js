@@ -1,1 +1,1 @@
-var mnemonic = "doctor rain can defense improve skate increase love couch daughter kidney pink";
+var mnemonic = "trim hub lesson anger truly answer chest wonder pluck uphold coconut armor";

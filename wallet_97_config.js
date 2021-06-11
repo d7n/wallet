@@ -1,1 +1,1 @@
-var mnemonic = "wrist chalk table install protect sustain tone industry mesh elbow lesson soccer";
+var mnemonic = "vocal cream atom party robot umbrella cool solar enjoy hire half alpha";

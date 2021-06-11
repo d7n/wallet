@@ -1,1 +1,1 @@
-var mnemonic = "luxury horn rate cross fever episode robust primary siege zone random toss";
+var mnemonic = "three link outside nice peasant cotton sock neck usage helmet peanut bottom";

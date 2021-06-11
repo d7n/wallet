@@ -1,1 +1,1 @@
-var mnemonic = "bounce twist material winner sick real knock potato embrace endless swamp act";
+var mnemonic = "habit announce home velvet pipe chimney spray alone wonder intact toward enough";

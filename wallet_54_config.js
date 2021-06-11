@@ -1,1 +1,1 @@
-var mnemonic = "frame evolve capable pluck denial buffalo primary embark earth receive pill miss";
+var mnemonic = "vibrant glue observe cliff truth borrow always congress hair core trash balcony";

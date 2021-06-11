@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow evil ten warfare fix liar scan turtle jungle caution feature among";
+var mnemonic = "legend denial vote inspire true jealous dune axis final better embody theme";

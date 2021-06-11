@@ -1,1 +1,1 @@
-var mnemonic = "still uphold struggle target pig uncover pipe damage tool maze evidence enrich";
+var mnemonic = "hungry ready crash puzzle call metal beyond dice tattoo survey water outside";

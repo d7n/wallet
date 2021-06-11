@@ -1,1 +1,1 @@
-var mnemonic = "kiwi boy assist veteran fit student rigid train tunnel core park pupil";
+var mnemonic = "album basket season pipe drift funny tower seed dove accident hotel they";

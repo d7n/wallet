@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow window story rent much correct pill skin speed congress segment almost";
+var mnemonic = "mechanic risk genre current update cliff couch lava slab novel hockey flip";

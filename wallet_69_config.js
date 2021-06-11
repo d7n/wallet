@@ -1,1 +1,1 @@
-var mnemonic = "market fold ice unit uncle grid relax december athlete jeans search gather";
+var mnemonic = "cross street tackle fold note wrap hamster second ride cute panda glory";

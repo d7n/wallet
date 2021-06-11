@@ -1,1 +1,1 @@
-var mnemonic = "swamp cigar label gaze again disagree system off initial infant final supreme";
+var mnemonic = "design library lab inspire marine fall interest drive secret famous squirrel mule";

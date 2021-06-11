@@ -1,1 +1,1 @@
-var mnemonic = "final oil mean infant plate globe grain ugly must shift vague state";
+var mnemonic = "make elite belt lecture glow dust stool protect ask title isolate cause";

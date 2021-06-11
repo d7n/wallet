@@ -1,1 +1,1 @@
-var mnemonic = "toilet since muffin stereo fence mandate tone account visit flag acoustic judge";
+var mnemonic = "message course crazy sadness invite online polar state benefit peanut keep thunder";

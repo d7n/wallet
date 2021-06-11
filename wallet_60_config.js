@@ -1,1 +1,1 @@
-var mnemonic = "strike later during cricket clock finger habit horse vital blush innocent brave";
+var mnemonic = "release cabbage derive add coconut boat initial menu solar toilet question lumber";

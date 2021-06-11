@@ -1,1 +1,1 @@
-var mnemonic = "favorite discover debris coin leopard wool base tissue spike salt case answer";
+var mnemonic = "town expose obey area enroll vote sustain address visit mean stone elder";

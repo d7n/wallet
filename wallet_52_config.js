@@ -1,1 +1,1 @@
-var mnemonic = "roast stool luxury rack shield acoustic library way half cross obtain hospital";
+var mnemonic = "oven gloom lady axis noise foster sound embody oppose stable primary split";

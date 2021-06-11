@@ -1,1 +1,1 @@
-var mnemonic = "require quarter cat bring wash admit brave bus woman furnace busy flush";
+var mnemonic = "caught seek robot broccoli year caution slam shoe decrease doll cruise ready";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff quit acid match corn source begin proud leaf wet fat entry";
+var mnemonic = "hover never proud board lab know accuse stool salad better name arrest";

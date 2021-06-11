@@ -1,1 +1,1 @@
-var mnemonic = "raccoon express aim pluck occur sense pencil senior task bless destroy boring";
+var mnemonic = "inner wreck guide lava churn industry slight sample finish enemy truth lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "dish else sudden lend record clock clump gesture number trim upgrade hurdle";
+var mnemonic = "frozen hover easily dress fury rude organ hand farm trip end service";

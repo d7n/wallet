@@ -1,1 +1,1 @@
-var mnemonic = "space notice gym cycle ankle drink cigar exclude cinnamon step cute movie";
+var mnemonic = "tornado cause stool innocent pony wise slam donate beyond fitness mesh wage";

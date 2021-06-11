@@ -1,1 +1,1 @@
-var mnemonic = "liquid pact legend prefer outdoor learn novel feature broccoli wide forward leg";
+var mnemonic = "rebel carbon split unveil plunge age uncle anchor display town pulp outdoor";

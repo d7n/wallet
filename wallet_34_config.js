@@ -1,1 +1,1 @@
-var mnemonic = "shift fire object index west donkey bench else clutch nation feature friend";
+var mnemonic = "sentence believe adjust poverty disorder kind insane slender govern vapor produce sound";

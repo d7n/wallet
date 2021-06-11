@@ -1,1 +1,1 @@
-var mnemonic = "another strategy pumpkin view rural lunch champion excess toast pact olive useless";
+var mnemonic = "peanut neglect mobile bring royal purse case unfold monitor sing robot spin";

@@ -1,1 +1,1 @@
-var mnemonic = "miss rent useless math remain rocket imitate jacket breeze hockey depend cigar";
+var mnemonic = "sock job rival abstract carry roof spirit ethics ahead praise quiz turn";

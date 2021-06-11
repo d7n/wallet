@@ -1,1 +1,1 @@
-var mnemonic = "alter fashion hair hurt guard rubber proof custom unlock correct ask chronic";
+var mnemonic = "unusual lock curve bean faculty vocal home jungle pave fold aware noise";

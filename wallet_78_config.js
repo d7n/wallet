@@ -1,1 +1,1 @@
-var mnemonic = "over couple short crisp dry twice nerve little attend high session never";
+var mnemonic = "join crash immune find elephant crater term case grace slide club wide";

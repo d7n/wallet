@@ -1,1 +1,1 @@
-var mnemonic = "vivid anchor farm party spray double danger situate clump happy wreck sadness";
+var mnemonic = "stock worth hour option parent swing patrol maid neck humble open banner";

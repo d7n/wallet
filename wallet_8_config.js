@@ -1,1 +1,1 @@
-var mnemonic = "enact gym throw payment help purse hold please juice carry fossil invite";
+var mnemonic = "denial depth involve cross veteran away sign print enjoy debris winner monkey";

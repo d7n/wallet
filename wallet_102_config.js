@@ -1,1 +1,1 @@
-var mnemonic = "often sunny regret toward gain opera asthma cluster drift upgrade market loyal";
+var mnemonic = "nice chaos else sure key ginger party inject conduct oxygen harbor naive";

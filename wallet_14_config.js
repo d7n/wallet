@@ -1,1 +1,1 @@
-var mnemonic = "abandon slender neutral joke twenty gown supply loud sudden flash poem lounge";
+var mnemonic = "shoot accuse second build caught silly fence student pistol shock rely guide";

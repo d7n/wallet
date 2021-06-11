@@ -1,1 +1,1 @@
-var mnemonic = "motor alley flash pepper sketch game sick lake gain cotton crime scale";
+var mnemonic = "sting cricket hand fatal winter zoo razor must snack attract outside intact";

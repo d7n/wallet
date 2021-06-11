@@ -1,1 +1,1 @@
-var mnemonic = "gift word luggage rich disease inner concert gentle humble myth pen tomorrow";
+var mnemonic = "color lift pole episode swear spray impulse pattern oil law canyon whip";

@@ -1,1 +1,1 @@
-var mnemonic = "hair swing hazard happy tuna basic unusual paper stamp crazy tackle park";
+var mnemonic = "what deputy piano certain try usage flight hire since dilemma fragile target";

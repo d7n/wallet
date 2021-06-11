@@ -1,1 +1,1 @@
-var mnemonic = "drama open tunnel like profit express cement hollow object live soon casual";
+var mnemonic = "hen cupboard arrow depend uniform punch kick acid garbage enrich mushroom bulk";

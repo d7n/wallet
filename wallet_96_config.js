@@ -1,1 +1,1 @@
-var mnemonic = "marriage erase field another uphold timber lottery unknown icon door enlist ribbon";
+var mnemonic = "harvest mean business surge pony tray salmon exotic circle ten pride sun";

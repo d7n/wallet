@@ -1,1 +1,1 @@
-var mnemonic = "movie route shy enough derive what atom swarm fragile wood palace husband";
+var mnemonic = "increase vague outer damp lazy explain cliff verify tortoise imitate demand grape";

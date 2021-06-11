@@ -1,1 +1,1 @@
-var mnemonic = "credit wait execute primary hobby combine divide toddler tomato magic gaze price";
+var mnemonic = "foil recycle boat eye dignity giggle tail dentist mail cause blur exercise";

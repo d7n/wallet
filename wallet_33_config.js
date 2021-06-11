@@ -1,1 +1,1 @@
-var mnemonic = "coyote divert mind shy slow pause item heart witness essay company wing";
+var mnemonic = "upper involve correct setup ten public initial blood lonely update pear hobby";

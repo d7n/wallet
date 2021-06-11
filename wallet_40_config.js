@@ -1,1 +1,1 @@
-var mnemonic = "vapor remain argue asset viable afraid collect world negative entire immense cushion";
+var mnemonic = "soldier gun squeeze pilot stable retire oak prepare december ancient about inner";

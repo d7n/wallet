@@ -1,1 +1,1 @@
-var mnemonic = "yard train sheriff cheap wish vicious modify wink anchor clap submit leisure";
+var mnemonic = "next depart ostrich wagon warrior destroy exchange margin entry conduct suspect pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "section globe toss october arctic spend riot unknown sell describe cross picnic";
+var mnemonic = "cover virus label exhibit announce horse inspire ancient humor tip follow garden";

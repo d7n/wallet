@@ -1,1 +1,1 @@
-var mnemonic = "life faculty witness amazing taste track cradle lonely bench floor wisdom buzz";
+var mnemonic = "file space rebel divert history gesture only potato year gorilla actual child";

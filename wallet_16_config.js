@@ -1,1 +1,1 @@
-var mnemonic = "jump achieve proud battle category achieve buffalo rough mom useful junk source";
+var mnemonic = "outer fatigue maid steel doll retire journey convince pass flush force april";

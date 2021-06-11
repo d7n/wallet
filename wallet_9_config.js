@@ -1,1 +1,1 @@
-var mnemonic = "fine glass foster dwarf peanut stomach snake fatal shoe immune credit smoke";
+var mnemonic = "core innocent screen garbage poem ancient shy road require portion pioneer wave";

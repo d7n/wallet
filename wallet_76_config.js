@@ -1,1 +1,1 @@
-var mnemonic = "mansion swim future rule accident van title drum bless uncover suit metal";
+var mnemonic = "kitten border lottery trumpet topple coast wing fancy choice major soul surge";

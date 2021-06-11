@@ -1,1 +1,1 @@
-var mnemonic = "axis smooth apart upper narrow public same main near palace cup skin";
+var mnemonic = "alley apology chalk illegal path kid long pattern dance hour scene account";

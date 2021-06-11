@@ -1,1 +1,1 @@
-var mnemonic = "game hazard pond clarify inspire comfort endless craft that lecture romance garlic";
+var mnemonic = "term ten alter anger lunch ribbon current shop street neglect pill vapor";

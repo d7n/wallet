@@ -1,1 +1,1 @@
-var mnemonic = "link divert copy staff cricket sunset sure gentle suspect rack razor rely";
+var mnemonic = "bounce cushion rich reason index senior half fox grocery sibling spirit ketchup";

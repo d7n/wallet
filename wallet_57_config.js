@@ -1,1 +1,1 @@
-var mnemonic = "mother rare help heavy alone cycle text grit runway divorce bubble trick";
+var mnemonic = "sight rural treat casino spatial struggle deer room bullet virus climb vibrant";

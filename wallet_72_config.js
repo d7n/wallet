@@ -1,1 +1,1 @@
-var mnemonic = "bamboo voyage sail calm rebuild sad exclude bus crash gadget strategy chest";
+var mnemonic = "enroll now noise tenant trend bring raise material era sugar buffalo size";

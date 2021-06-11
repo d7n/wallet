@@ -1,1 +1,1 @@
-var mnemonic = "define alpha scan street market duty shove rotate benefit reject mix black";
+var mnemonic = "derive indicate lazy smile arrow culture face broccoli cheese glow simple street";

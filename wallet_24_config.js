@@ -1,1 +1,1 @@
-var mnemonic = "lucky accuse busy creek pitch double sure magnet ocean forest anchor short";
+var mnemonic = "recycle youth place term rubber soft soft response foil again whale moment";

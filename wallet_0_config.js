@@ -1,1 +1,1 @@
-var mnemonic = "adult famous bicycle globe unlock offer account tumble exercise current dumb example";
+var mnemonic = "food camp book original pull catalog rotate field all pigeon success tip";

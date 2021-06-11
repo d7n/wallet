@@ -1,1 +1,1 @@
-var mnemonic = "pulp increase scissors truck reward approve shy chimney click buffalo sketch gain";
+var mnemonic = "arch apple spare route case enrich boat spend slot chunk own wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "worth leave modify neutral wool elevator render lottery thunder tackle void marble";
+var mnemonic = "fuel action stadium denial clog butter hero afraid soap flag grape sand";

@@ -1,1 +1,1 @@
-var mnemonic = "animal blast wrist excess high strong stumble few crunch poet mind lizard";
+var mnemonic = "weather property good stool music update prison wave ugly wash pave client";

@@ -1,1 +1,1 @@
-var mnemonic = "town immense damage divert boy pulse regret brother banner produce regular sunset";
+var mnemonic = "miracle decide collect crisp illegal entry oppose require tonight swallow knee album";

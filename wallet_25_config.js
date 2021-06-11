@@ -1,1 +1,1 @@
-var mnemonic = "style property vast raw salute balcony item arrive fever reason valley cheap";
+var mnemonic = "knock exile purity width series define hunt shrug organ dish gun model";

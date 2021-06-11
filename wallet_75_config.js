@@ -1,1 +1,1 @@
-var mnemonic = "direct either punch grant this twist drum beauty owner tumble tag addict";
+var mnemonic = "enter candy immune gun over hen situate sugar tortoise shift other parrot";

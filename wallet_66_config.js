@@ -1,1 +1,1 @@
-var mnemonic = "valve ugly energy print fee digital clutch hunt athlete together cupboard steel";
+var mnemonic = "essence horror layer online organ slender salon siren taxi enroll surface over";

@@ -1,1 +1,1 @@
-var mnemonic = "travel parade number tape lamp beef image carry detect level entry chuckle";
+var mnemonic = "awful report tip mechanic document punch define coach enable people wing popular";

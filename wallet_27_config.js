@@ -1,1 +1,1 @@
-var mnemonic = "arch right tomorrow ahead hover tuna cat discover area left kid roof";
+var mnemonic = "island fox naive fine symbol gun devote wheel tackle milk possible error";

@@ -1,1 +1,1 @@
-var mnemonic = "lion region casino message foster twelve pizza attend liquid act rabbit off";
+var mnemonic = "rack defense click inherit fringe before wash cheap raw october trick floor";

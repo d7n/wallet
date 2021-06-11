@@ -1,1 +1,1 @@
-var mnemonic = "lake grain express sample milk surprise bind same example speak arrest fiber";
+var mnemonic = "roast smile magic ugly image song draw cupboard shove inject brand wear";

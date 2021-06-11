@@ -1,1 +1,1 @@
-var mnemonic = "bring wine sock blush naive sock census useful dress bundle vital right";
+var mnemonic = "trick trend detect print sword happy scare economy series clog own height";

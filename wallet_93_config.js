@@ -1,1 +1,1 @@
-var mnemonic = "hand setup expand top wish march negative fiber short busy debris dog";
+var mnemonic = "word crime blossom rabbit captain mule cup update you swap script company";

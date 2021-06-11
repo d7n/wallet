@@ -1,1 +1,1 @@
-var mnemonic = "blouse because flavor betray pull earth rose goddess calm pumpkin citizen surprise";
+var mnemonic = "electric gauge van change actor joy exclude music manage city black luxury";
