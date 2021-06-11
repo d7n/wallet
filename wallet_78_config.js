@@ -1,1 +1,1 @@
-var mnemonic = "brown push venue panic electric custom blind cabbage catch cluster desert tobacco";
+var mnemonic = "rocket limit wealth glare honey grid mad salt correct swear hub science";

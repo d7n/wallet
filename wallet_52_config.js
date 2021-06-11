@@ -1,1 +1,1 @@
-var mnemonic = "gospel fragile install measure wool veteran security slim annual flip sibling swap";
+var mnemonic = "such state start nature fever pear course walk bachelor design fatal tragic";

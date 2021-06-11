@@ -1,1 +1,1 @@
-var mnemonic = "toy moon tide pink ring kangaroo minute crisp evolve math minute focus";
+var mnemonic = "weather funny foil loyal heavy rib sleep more drive nation brave little";

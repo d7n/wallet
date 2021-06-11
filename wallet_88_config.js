@@ -1,1 +1,1 @@
-var mnemonic = "stage dose night grass seat buzz head hurdle street tourist gown aerobic";
+var mnemonic = "snow unique practice adjust circle decide various ability quick tail local change";

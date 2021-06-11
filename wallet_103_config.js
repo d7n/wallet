@@ -1,1 +1,1 @@
-var mnemonic = "steel tank people absurd cereal romance brick then marriage street decline mirror";
+var mnemonic = "middle diagram middle turn diet chest tennis layer nothing talk butter depart";

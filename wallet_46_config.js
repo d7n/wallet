@@ -1,1 +1,1 @@
-var mnemonic = "seven hedgehog night math keen suspect match that slam carbon train start";
+var mnemonic = "feed audit unit seat hover claim alcohol neither banner ozone long edit";

@@ -1,1 +1,1 @@
-var mnemonic = "brown repair chef tragic gadget choose glide usage grief list this private";
+var mnemonic = "idle sword invite soon humble powder toilet nasty vessel online bleak amazing";

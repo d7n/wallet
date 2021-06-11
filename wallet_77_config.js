@@ -1,1 +1,1 @@
-var mnemonic = "kitchen edge focus fluid early economy gather apology unable ahead catalog dutch";
+var mnemonic = "room more injury tomato regular damp rhythm glow pole imitate focus oval";

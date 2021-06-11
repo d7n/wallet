@@ -1,1 +1,1 @@
-var mnemonic = "sudden zoo predict century oil horse blush trial expand flower tunnel about";
+var mnemonic = "subway obscure reward waste polar dish fatal siren vote sudden approve cover";

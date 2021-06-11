@@ -1,1 +1,1 @@
-var mnemonic = "matrix swarm impose south doctor wave obscure west grab mercy slender dinosaur";
+var mnemonic = "inner fruit dignity flight call walnut blue stuff strong claw stomach cricket";

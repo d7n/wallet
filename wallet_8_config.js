@@ -1,1 +1,1 @@
-var mnemonic = "slow select roast attack stove shock one dinner input iron cat eyebrow";
+var mnemonic = "phrase weather salute before town member craft island pudding ramp shift invite";

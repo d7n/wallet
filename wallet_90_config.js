@@ -1,1 +1,1 @@
-var mnemonic = "column agree casino bean drip hockey cute van tray essence sock umbrella";
+var mnemonic = "reject tank oyster burger claim cheap earn business coconut before title faculty";

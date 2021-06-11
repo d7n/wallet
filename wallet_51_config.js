@@ -1,1 +1,1 @@
-var mnemonic = "myth execute ticket wealth battle can tumble own certain few other advice";
+var mnemonic = "still merge abstract behind remove together have energy spring tag latin tube";

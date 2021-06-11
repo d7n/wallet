@@ -1,1 +1,1 @@
-var mnemonic = "arrive impose slender damp picture frequent hungry situate margin verify depart jealous";
+var mnemonic = "able arrive keen alley wrong want company once jealous pipe master panther";

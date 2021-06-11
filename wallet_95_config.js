@@ -1,1 +1,1 @@
-var mnemonic = "bread fossil hawk collect ramp clinic vague deposit sample stove layer upper";
+var mnemonic = "expect soccer action artefact control patch rabbit mistake saddle tissue sibling jazz";

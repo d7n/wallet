@@ -1,1 +1,1 @@
-var mnemonic = "trade salt regret hungry cloth nothing expect return asthma trophy ask dentist";
+var mnemonic = "sense retire dash alien night cash kind firm balance hedgehog dog cargo";

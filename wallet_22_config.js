@@ -1,1 +1,1 @@
-var mnemonic = "lucky hobby truck wait knock rebel flower mango always process surface logic";
+var mnemonic = "rocket text pact lonely hybrid chapter parent holiday report version oppose rocket";

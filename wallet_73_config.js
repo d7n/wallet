@@ -1,1 +1,1 @@
-var mnemonic = "oxygen ski mercy current quote frost maximum seat benefit flee memory divorce";
+var mnemonic = "over anger satoshi forget earth gas letter echo few wire honey market";

@@ -1,1 +1,1 @@
-var mnemonic = "volume river such attack crane margin suffer idea boat cluster amount misery";
+var mnemonic = "harsh maple once blind retreat enable tonight when viable palm story clay";

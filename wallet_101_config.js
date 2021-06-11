@@ -1,1 +1,1 @@
-var mnemonic = "runway stomach decade spy spice sweet melt amazing soon wool exist jump";
+var mnemonic = "artist share uncover decrease rubber roast position define equip lumber hood village";

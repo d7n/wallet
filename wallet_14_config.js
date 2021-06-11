@@ -1,1 +1,1 @@
-var mnemonic = "review gate reduce lazy still control trash attract dignity fold absent rebel";
+var mnemonic = "attitude tired mushroom category excuse future version blossom wise present smoke good";

@@ -1,1 +1,1 @@
-var mnemonic = "script rug mix buyer casino picnic syrup spread ice oppose maze nature";
+var mnemonic = "mention quote reveal struggle food welcome chat belt scene penalty clump crack";

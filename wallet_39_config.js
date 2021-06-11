@@ -1,1 +1,1 @@
-var mnemonic = "jelly flush permit vendor chunk actual struggle mosquito crazy lunch debris senior";
+var mnemonic = "flip cargo symbol hawk panel rate stock negative seek worth barrel hood";

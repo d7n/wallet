@@ -1,1 +1,1 @@
-var mnemonic = "duty man wisdom vast join uphold demise scan sad viable injury sting";
+var mnemonic = "tragic estate spare case problem shallow echo monster spring critic habit jeans";

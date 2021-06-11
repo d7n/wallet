@@ -1,1 +1,1 @@
-var mnemonic = "lift face must plastic inherit solution enlist tourist slender veteran fury trouble";
+var mnemonic = "egg roof fun dance inmate advice cost climb law forest tonight palm";

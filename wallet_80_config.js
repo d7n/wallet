@@ -1,1 +1,1 @@
-var mnemonic = "roast claim quality wreck hen village blanket stamp proof museum wife slender";
+var mnemonic = "today ivory employ extend rice domain seek pool seat metal bridge worry";

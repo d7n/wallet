@@ -1,1 +1,1 @@
-var mnemonic = "tooth hat nuclear milk auto scatter village churn exit face lottery pigeon";
+var mnemonic = "lava endless run garden three kit brief extend alcohol border neutral model";

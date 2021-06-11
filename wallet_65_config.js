@@ -1,1 +1,1 @@
-var mnemonic = "exchange admit million elite vehicle dune soup hip alone accident insane hurt";
+var mnemonic = "render mutual copper begin rabbit cotton simple retreat flat kick pitch wise";

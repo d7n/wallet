@@ -1,1 +1,1 @@
-var mnemonic = "like earn radio anchor disease universe elbow shove noodle warfare emerge okay";
+var mnemonic = "patient federal canyon profit fox lyrics find basic twice doctor blouse sort";

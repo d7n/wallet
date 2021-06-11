@@ -1,1 +1,1 @@
-var mnemonic = "exchange umbrella egg hen screen release knee parent ordinary cable dumb dentist";
+var mnemonic = "gym leg frost pact coyote weasel ecology pluck creek zone slim wet";

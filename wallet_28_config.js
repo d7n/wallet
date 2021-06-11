@@ -1,1 +1,1 @@
-var mnemonic = "uncle rural lottery nuclear safe chaos simple clean chunk fetch cart raccoon";
+var mnemonic = "wealth march genius hope garbage also loop dress bottom loud path trash";

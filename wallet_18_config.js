@@ -1,1 +1,1 @@
-var mnemonic = "march initial nut cash year calm shield marriage crack park grain actress";
+var mnemonic = "zebra loan explain web trumpet crime bind section exclude bundle document fame";

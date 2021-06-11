@@ -1,1 +1,1 @@
-var mnemonic = "symbol hurdle boss mountain wave physical wool catch artefact blame scorpion water";
+var mnemonic = "group resemble true result sad air enemy lounge gym vanish voyage era";

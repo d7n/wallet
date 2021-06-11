@@ -1,1 +1,1 @@
-var mnemonic = "hero crime excite stable fetch fortune plunge horn path share put caution";
+var mnemonic = "fiscal endorse cigar van sponsor level where wreck add bone only idle";

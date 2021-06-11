@@ -1,1 +1,1 @@
-var mnemonic = "scorpion like question rather crazy truly action ordinary alter follow panther much";
+var mnemonic = "crucial outside novel radar ignore traffic day mushroom joy major leave timber";

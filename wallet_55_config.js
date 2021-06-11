@@ -1,1 +1,1 @@
-var mnemonic = "balance lottery render transfer orphan lesson whale essence repeat tray great source";
+var mnemonic = "clutch urban rabbit online horse yellow sad solar rotate iron math endorse";

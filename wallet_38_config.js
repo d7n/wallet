@@ -1,1 +1,1 @@
-var mnemonic = "random patrol rally vital fiber doll rib biology loud volume mystery tortoise";
+var mnemonic = "gap wage like marine hedgehog trap hope pudding april embark potato radio";

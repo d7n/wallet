@@ -1,1 +1,1 @@
-var mnemonic = "tape analyst top cycle awake leopard when napkin portion capital hundred enter";
+var mnemonic = "kick moon young noise same quiz friend vital field lesson thrive fog";

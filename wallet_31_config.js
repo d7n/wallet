@@ -1,1 +1,1 @@
-var mnemonic = "journey strategy margin ready artefact excuse penalty emerge setup valid piano first";
+var mnemonic = "travel grass work involve snow shed wrestle faint crew canal limit tip";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse interest pond monster correct derive laugh eager swift quick bitter talent";
+var mnemonic = "prefer disagree net secret celery asset remember chest elephant laugh churn whip";

@@ -1,1 +1,1 @@
-var mnemonic = "dish marine truly raccoon tower canyon orange artefact fish enter medal cause";
+var mnemonic = "retire valid soda tomato fury pave tumble morning spread decide secret kidney";

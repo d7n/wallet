@@ -1,1 +1,1 @@
-var mnemonic = "acid gentle puppy mixture fade inspire hero upper spy sausage trust light";
+var mnemonic = "myself edge december wire mercy tail note pottery hungry fatal peace spice";

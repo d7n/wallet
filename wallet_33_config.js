@@ -1,1 +1,1 @@
-var mnemonic = "trigger title culture comfort want fork fashion normal canoe off plastic twelve";
+var mnemonic = "rally hill obey mushroom inquiry salmon visa weather latin civil toast sample";

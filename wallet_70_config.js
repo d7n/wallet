@@ -1,1 +1,1 @@
-var mnemonic = "cream neck ankle utility hammer burger silver eight exact leisure trophy solid";
+var mnemonic = "build laptop enroll dinner aim nest anger section tuition lumber cereal jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "ready employ marine alarm garage fat gauge injury harbor blast virtual ranch";
+var mnemonic = "shuffle eight aspect aisle finger spice wild grant mandate pioneer kick symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky canyon trap find settle feel mouse magic topple magic over chronic";
+var mnemonic = "step wish february slot woman multiply phone kiwi water replace model stem";

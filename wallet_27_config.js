@@ -1,1 +1,1 @@
-var mnemonic = "emotion caught guitar print fame pelican link few session draft fortune describe";
+var mnemonic = "prosper wait seek crisp quit blur ignore muscle hotel usage link gloom";

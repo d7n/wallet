@@ -1,1 +1,1 @@
-var mnemonic = "judge oven salon man vacuum battle boy lesson wage student ask gather";
+var mnemonic = "recycle brother phone churn rocket situate hole auction essay mammal zoo open";

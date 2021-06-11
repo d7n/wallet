@@ -1,1 +1,1 @@
-var mnemonic = "able penalty romance raccoon symptom endorse daughter mistake solid sword repair gentle";
+var mnemonic = "you hover team become what detect smoke series note focus deposit whale";

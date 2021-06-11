@@ -1,1 +1,1 @@
-var mnemonic = "state twelve noble marble ghost reflect poet arrange glass split derive hold";
+var mnemonic = "galaxy ozone robot fun slab surface shell senior satisfy guilt real galaxy";

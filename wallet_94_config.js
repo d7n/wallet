@@ -1,1 +1,1 @@
-var mnemonic = "camera stadium soldier zoo view attack discover flock human problem rocket fancy";
+var mnemonic = "wife depend actress response sick wheat average pilot crucial wire remember wealth";

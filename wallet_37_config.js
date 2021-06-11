@@ -1,1 +1,1 @@
-var mnemonic = "donor room protect bubble stuff ride frost afraid silly simple distance future";
+var mnemonic = "voice inside impulse fiction access distance alter stay royal orient begin tragic";

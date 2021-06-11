@@ -1,1 +1,1 @@
-var mnemonic = "actor verify vast fancy bonus rice crew deliver apart ethics tide ticket";
+var mnemonic = "reflect idle make borrow smoke shy fun shiver trap farm deputy warfare";

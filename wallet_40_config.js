@@ -1,1 +1,1 @@
-var mnemonic = "episode during elbow december spend decorate plastic brave gain anchor phone brown";
+var mnemonic = "board trick high flight duty rice announce collect poet first normal rebuild";

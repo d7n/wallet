@@ -1,1 +1,1 @@
-var mnemonic = "neutral poem leg brain digital bridge very box adjust grape emotion sell";
+var mnemonic = "fish arm utility evil over run nothing rail indoor car desert inmate";

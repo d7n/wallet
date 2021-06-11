@@ -1,1 +1,1 @@
-var mnemonic = "claim culture plug pond casual frog course sibling kingdom hero play tip";
+var mnemonic = "antenna spice turn century goddess citizen tiny elephant close garden parent culture";

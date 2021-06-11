@@ -1,1 +1,1 @@
-var mnemonic = "profit saddle latin ridge snow fiber tackle focus lava runway squeeze silly";
+var mnemonic = "chair multiply normal couple syrup excess maze dwarf hint upgrade bronze stand";

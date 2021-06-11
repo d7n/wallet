@@ -1,1 +1,1 @@
-var mnemonic = "vacant income cute figure purpose wisdom limit cry aisle tonight pole guitar";
+var mnemonic = "outdoor senior hospital draw kit behind sing original idle weasel cluster cloud";

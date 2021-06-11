@@ -1,1 +1,1 @@
-var mnemonic = "dress inner indoor nasty govern intact circle exact enrich tank champion year";
+var mnemonic = "offer volume enrich below genre syrup cushion airport service mistake sniff dynamic";

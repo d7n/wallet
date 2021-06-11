@@ -1,1 +1,1 @@
-var mnemonic = "bird town try pause enforce disagree exclude plastic begin fence snap gas";
+var mnemonic = "gallery aerobic ginger praise orchard curious banana behind hungry burger recycle ranch";

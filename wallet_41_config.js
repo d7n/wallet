@@ -1,1 +1,1 @@
-var mnemonic = "drive wrestle ice drip bread merit ceiling flavor weapon when very maximum";
+var mnemonic = "bacon aunt ahead fresh belt kite food best six foam derive asset";

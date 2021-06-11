@@ -1,1 +1,1 @@
-var mnemonic = "repair trap parade waste distance provide clown indoor mother inmate amount priority";
+var mnemonic = "odor skill donor pair biology strategy museum choice grid hunt exact turn";

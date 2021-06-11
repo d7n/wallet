@@ -1,1 +1,1 @@
-var mnemonic = "noise notice inner initial keen popular brown length atom unique essay manual";
+var mnemonic = "shiver view replace start game gravity help plate lesson sell asset ozone";

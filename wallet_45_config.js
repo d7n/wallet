@@ -1,1 +1,1 @@
-var mnemonic = "risk trick rate cash trash fence charge select rubber truly exact quick";
+var mnemonic = "used faint drive ugly news bar resist animal divert deposit nominee barely";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken roof merry bridge pet topple body short owner mistake joy rival";
+var mnemonic = "stay salute fog become caution inflict green please seven eyebrow thought attract";

@@ -1,1 +1,1 @@
-var mnemonic = "govern shield smooth party ski capable host obtain act appear width kiss";
+var mnemonic = "blade expire simple crisp laptop hobby easily inspire city chunk clarify want";

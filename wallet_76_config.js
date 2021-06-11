@@ -1,1 +1,1 @@
-var mnemonic = "health idle rubber okay invite tent lawn page gadget net artist text";
+var mnemonic = "useful coconut use away step bar top enrich flame enforce dismiss silly";

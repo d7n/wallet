@@ -1,1 +1,1 @@
-var mnemonic = "height exhaust diamond turtle lottery scan vacant broccoli promote festival female cheap";
+var mnemonic = "craft creek radio vague violin rice staff stable jelly shield birth unit";

@@ -1,1 +1,1 @@
-var mnemonic = "very that wisdom pottery pave design length duty bleak this mask blossom";
+var mnemonic = "tunnel crystal since name actor keep reunion castle recall prosper luxury mask";

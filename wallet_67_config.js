@@ -1,1 +1,1 @@
-var mnemonic = "security walk page embrace artist venue false cost around chapter next torch";
+var mnemonic = "oil charge because comfort ceiling oil hole pen divorce gap estate pumpkin";

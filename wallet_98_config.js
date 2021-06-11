@@ -1,1 +1,1 @@
-var mnemonic = "join around plastic together space ticket air spider large flee brand grace";
+var mnemonic = "area bacon whip arch enlist floor razor cream oven orient volcano wagon";

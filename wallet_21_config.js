@@ -1,1 +1,1 @@
-var mnemonic = "match tank inner steak attract chef pool thrive brown ski spread strike";
+var mnemonic = "hand live pretty adjust acid chapter casual point dance swear breeze ridge";

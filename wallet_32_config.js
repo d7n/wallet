@@ -1,1 +1,1 @@
-var mnemonic = "error have proof polar attend load arrest wonder dignity story organ rebel";
+var mnemonic = "spike tackle bacon dust ladder recycle smooth trash edit future fine luggage";

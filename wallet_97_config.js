@@ -1,1 +1,1 @@
-var mnemonic = "bean film gospel shine jeans raise visual cricket rebel cream pigeon athlete";
+var mnemonic = "apple foster sphere reunion country adjust drip rack action gather shield good";

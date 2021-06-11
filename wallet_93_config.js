@@ -1,1 +1,1 @@
-var mnemonic = "coffee shine vehicle ignore where reveal tribe donate route pyramid kind jelly";
+var mnemonic = "ten quote cancel barely nice dune crystal grace banana into dog jump";

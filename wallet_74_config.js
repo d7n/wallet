@@ -1,1 +1,1 @@
-var mnemonic = "tragic fine brave matter begin tomorrow among echo camp chimney glimpse differ";
+var mnemonic = "clap attract blind festival february item dove stool fruit blanket fitness aerobic";

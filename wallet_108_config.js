@@ -1,1 +1,1 @@
-var mnemonic = "wasp filter tilt loop toilet venue horror width peanut success pretty whisper";
+var mnemonic = "box copy obtain law ocean miracle mesh ill keen leaf ribbon analyst";

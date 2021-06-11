@@ -1,1 +1,1 @@
-var mnemonic = "bless visa drum any timber sample umbrella battle ceiling rubber cycle end";
+var mnemonic = "wall sign hobby pair possible planet clock tooth ball then foot pill";

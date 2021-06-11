@@ -1,1 +1,1 @@
-var mnemonic = "fold swallow invite match rural crowd scene iron absent lab west hamster";
+var mnemonic = "swarm outdoor banner leave together chaos fossil patient neither local isolate loan";

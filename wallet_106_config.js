@@ -1,1 +1,1 @@
-var mnemonic = "blue stove illegal cable panda fox divert rally please close potato target";
+var mnemonic = "remain off assault entire primary rib candy govern false deal purse bachelor";

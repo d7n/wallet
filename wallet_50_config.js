@@ -1,1 +1,1 @@
-var mnemonic = "trouble tube device walnut diesel client large able invest acoustic issue omit";
+var mnemonic = "hair cute lava tag mule resource machine clown pool cat device crash";

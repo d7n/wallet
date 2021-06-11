@@ -1,1 +1,1 @@
-var mnemonic = "auction depend purse replace knock cattle six fade bargain lottery apart decline";
+var mnemonic = "lab scale puzzle clap art together powder antenna enact broccoli office wagon";

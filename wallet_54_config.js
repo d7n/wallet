@@ -1,1 +1,1 @@
-var mnemonic = "live good clever horse merry chunk upgrade food web engage final expire";
+var mnemonic = "remove carpet tired tree iron detect crouch jelly galaxy inflict birth moon";

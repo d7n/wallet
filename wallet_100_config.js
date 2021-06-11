@@ -1,1 +1,1 @@
-var mnemonic = "wolf salad armor orange auto garlic divert patch injury more march cattle";
+var mnemonic = "tennis trap final elephant razor ordinary creek good hen follow fame network";

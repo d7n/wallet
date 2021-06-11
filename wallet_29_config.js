@@ -1,1 +1,1 @@
-var mnemonic = "ride curve either family merge attract melody april attitude amount decline glare";
+var mnemonic = "rely sketch mobile wealth cement vital viable nation trend picture account cup";

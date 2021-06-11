@@ -1,1 +1,1 @@
-var mnemonic = "undo rude alley tide purity fox rural wool lawn bubble lady smart";
+var mnemonic = "hamster path require blur chase skill garage denial round job cry oval";

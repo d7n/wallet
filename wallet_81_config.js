@@ -1,1 +1,1 @@
-var mnemonic = "hunt truly race rifle profit hill episode ocean wine arctic note warm";
+var mnemonic = "cradle book split ordinary garbage pride risk devote electric occur carbon story";

@@ -1,1 +1,1 @@
-var mnemonic = "always heart spray cliff paddle coin emotion present adapt lamp region bench";
+var mnemonic = "agent together unaware step disease tattoo awesome attack grit expect panel when";

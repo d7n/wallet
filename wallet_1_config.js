@@ -1,1 +1,1 @@
-var mnemonic = "rain avoid bag real soda pen alley day moment any sound garlic";
+var mnemonic = "naive owner midnight number cable pulse shield brother note assume tide return";

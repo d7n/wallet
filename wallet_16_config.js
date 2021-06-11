@@ -1,1 +1,1 @@
-var mnemonic = "pride laptop biology rotate congress pelican mercy trumpet squeeze order tree clutch";
+var mnemonic = "globe soup ten ball oven purchase settle marine unusual chuckle sail frog";
