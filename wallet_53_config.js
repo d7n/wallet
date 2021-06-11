@@ -1,1 +1,1 @@
-var mnemonic = "catch reflect panther local enhance army oppose advice orbit behind mom alley";
+var mnemonic = "regret indoor very round matrix flower burst beach hour couch bind grain";

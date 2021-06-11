@@ -1,1 +1,1 @@
-var mnemonic = "stamp merit rubber acquire survey boss adult dove siege piano fire weird";
+var mnemonic = "artist such benefit feel vocal swamp damage goose spot enhance regret wood";

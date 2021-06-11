@@ -1,1 +1,1 @@
-var mnemonic = "fly world useless glass salute bus timber cook bar legal season setup";
+var mnemonic = "moment fluid speak sword harvest cable host journey talent correct drill voyage";

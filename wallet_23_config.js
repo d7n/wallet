@@ -1,1 +1,1 @@
-var mnemonic = "mirror aware tennis entire bench noble movie pulse oblige sail wolf brown";
+var mnemonic = "reduce soap mechanic abstract kitten horse view village dinosaur enhance prevent rate";

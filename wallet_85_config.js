@@ -1,1 +1,1 @@
-var mnemonic = "pet company original ceiling price correct agent already glory enact boring royal";
+var mnemonic = "employ rebuild craft night census bag crush burden interest suggest agent walk";

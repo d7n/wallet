@@ -1,1 +1,1 @@
-var mnemonic = "history notable escape police chair subject any daughter rely produce super cherry";
+var mnemonic = "naive wealth nasty scare finish twist armed matter patient mule cheese gospel";

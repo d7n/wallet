@@ -1,1 +1,1 @@
-var mnemonic = "solid spawn turkey fresh next asset crop math wait vibrant woman cart";
+var mnemonic = "deny hollow prepare champion fame off soul excess wing police brand lumber";

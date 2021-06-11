@@ -1,1 +1,1 @@
-var mnemonic = "print chunk harsh era until appear toy wagon treat draw soda until";
+var mnemonic = "blush mad bullet stage home girl grass yellow permit glimpse announce leisure";

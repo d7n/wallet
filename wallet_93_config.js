@@ -1,1 +1,1 @@
-var mnemonic = "jealous fuel chase mutual sheriff toast neglect giant desk canoe swap company";
+var mnemonic = "correct black alcohol creek list dismiss kiwi bone cloth middle wing grant";

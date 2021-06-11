@@ -1,1 +1,1 @@
-var mnemonic = "where upon dumb diagram display trap story blood powder orphan slender three";
+var mnemonic = "quiz setup empower busy fossil solution frozen unlock gospel drum keen prevent";

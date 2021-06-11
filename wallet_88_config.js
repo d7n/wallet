@@ -1,1 +1,1 @@
-var mnemonic = "liquid quarter indicate sound remember youth knife poet scheme heavy jealous salmon";
+var mnemonic = "drive smile smoke swear width afraid hand price hungry exotic cover lounge";

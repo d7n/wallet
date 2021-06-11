@@ -1,1 +1,1 @@
-var mnemonic = "drop claw zone shift obvious front over dial sure horror sure labor";
+var mnemonic = "infant tower glory insane happy rapid depend resource hurt thought pioneer labor";

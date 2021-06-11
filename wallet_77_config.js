@@ -1,1 +1,1 @@
-var mnemonic = "live rate dose possible hand taste van security pistol sorry large trade";
+var mnemonic = "humor tomato extend cheese skirt pyramid bulk hero club angle nut leave";

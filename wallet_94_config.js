@@ -1,1 +1,1 @@
-var mnemonic = "rug game foil sad truly charge legend reject humble bicycle desk cabbage";
+var mnemonic = "moral police outer fury teach harbor more force fee giraffe diagram van";

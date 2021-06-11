@@ -1,1 +1,1 @@
-var mnemonic = "acoustic old cup possible utility daring nothing pitch idea deal own squeeze";
+var mnemonic = "horse brisk atom fresh wear round genius hidden bomb squeeze dolphin prison";

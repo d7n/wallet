@@ -1,1 +1,1 @@
-var mnemonic = "yard truly oppose maximum now true suspect gentle give lab enrich file";
+var mnemonic = "off resist year case primary enjoy mesh social funny flush churn flag";

@@ -1,1 +1,1 @@
-var mnemonic = "exist rotate feature skirt deliver square become rich parrot already suspect crime";
+var mnemonic = "infant endless large habit capable bachelor quantum mouse twice raise day cancel";

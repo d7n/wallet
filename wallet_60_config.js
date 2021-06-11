@@ -1,1 +1,1 @@
-var mnemonic = "access trick fox swap mother minimum friend supply ski rich sad load";
+var mnemonic = "brain reward frog color brand auto extra library wing winner unique clip";

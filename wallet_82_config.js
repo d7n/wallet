@@ -1,1 +1,1 @@
-var mnemonic = "perfect congress concert course ribbon leave lizard foil impulse warm net twist";
+var mnemonic = "snow accuse scout catalog cart inject recycle civil conduct unit arctic damage";

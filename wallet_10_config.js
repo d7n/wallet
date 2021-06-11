@@ -1,1 +1,1 @@
-var mnemonic = "jealous tell wise salad work exact donkey vote winner mail ancient soda";
+var mnemonic = "speak price mechanic gate live rain assist fantasy sorry nephew veteran dutch";

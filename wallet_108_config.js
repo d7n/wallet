@@ -1,1 +1,1 @@
-var mnemonic = "poem erode kiwi unlock multiply awesome dune mushroom cabin pattern choice husband";
+var mnemonic = "small unlock gravity grid october path energy orbit artwork cost note skill";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor office blame cash siren real visual blossom ivory mercy rich chicken";
+var mnemonic = "episode lens slim wreck crop festival bunker flavor already rigid omit extra";

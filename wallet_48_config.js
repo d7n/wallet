@@ -1,1 +1,1 @@
-var mnemonic = "smooth arrow moon sing arctic deposit royal match settle ordinary captain tiny";
+var mnemonic = "smooth sing seat virtual priority decline borrow street road trust business inflict";

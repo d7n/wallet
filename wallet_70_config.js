@@ -1,1 +1,1 @@
-var mnemonic = "ridge vacant forum unable resource forum season thing debris rail walk absorb";
+var mnemonic = "monster rabbit seek lumber bar permit very brick draft path cup wink";

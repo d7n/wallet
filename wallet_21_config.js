@@ -1,1 +1,1 @@
-var mnemonic = "electric garage injury view aim robust siege begin wage trend slow dutch";
+var mnemonic = "client celery meadow gasp eyebrow penalty flag comic myth price boring word";

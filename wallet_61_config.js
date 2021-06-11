@@ -1,1 +1,1 @@
-var mnemonic = "grit deputy blush arrive imitate vital alter rely viable toddler region antenna";
+var mnemonic = "census digital infant bridge carpet spawn flag brush pool notable service morning";

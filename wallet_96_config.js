@@ -1,1 +1,1 @@
-var mnemonic = "afraid foil scrub element flock faith cancel mom afraid deputy abuse cherry";
+var mnemonic = "million trap write depend ocean endless talk trouble scorpion shy roof jump";

@@ -1,1 +1,1 @@
-var mnemonic = "lend rain poet bind poem soccer snow fitness armed super obvious spike";
+var mnemonic = "prize donkey arctic clerk analyst add fringe enhance tobacco inflict intact spawn";

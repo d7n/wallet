@@ -1,1 +1,1 @@
-var mnemonic = "second knee federal giant bread label reduce heavy pigeon pumpkin please rug";
+var mnemonic = "cage quantum error farm insane alpha face elephant receive bone slot deliver";

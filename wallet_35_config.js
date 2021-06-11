@@ -1,1 +1,1 @@
-var mnemonic = "bird era catalog typical usage doctor route already river ranch illegal peasant";
+var mnemonic = "used discover total goddess barrel cover rice gadget tilt tumble return near";

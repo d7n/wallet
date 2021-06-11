@@ -1,1 +1,1 @@
-var mnemonic = "change economy party gadget height tomato tonight into dry love fashion gasp";
+var mnemonic = "violin stable biology once better evil half kite wage shuffle good lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage hand hip regular train beauty monitor lazy place evil great senior";
+var mnemonic = "box school fall donate sheriff bubble about mesh capital bean proud hybrid";

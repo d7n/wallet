@@ -1,1 +1,1 @@
-var mnemonic = "online caution mind click found buyer roast camera blame solution amateur educate";
+var mnemonic = "swear gorilla lend can thumb sample shiver believe enforce buzz version habit";

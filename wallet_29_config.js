@@ -1,1 +1,1 @@
-var mnemonic = "stage flat dose balance minimum brisk woman track dice dry mesh unlock";
+var mnemonic = "banner sentence smoke mixed arch anchor edge tiny library trap shine gaze";

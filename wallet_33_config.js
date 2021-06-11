@@ -1,1 +1,1 @@
-var mnemonic = "embody true mesh lucky early have alley flat hire honey story cement";
+var mnemonic = "reveal tornado toilet evil axis tribe aim awake waste hero banana gauge";

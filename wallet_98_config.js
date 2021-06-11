@@ -1,1 +1,1 @@
-var mnemonic = "cash people proud ranch blur shield fuel sign ocean render code surge";
+var mnemonic = "radar cause drip village mind version genius song never arrange sadness actual";

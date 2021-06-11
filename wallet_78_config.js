@@ -1,1 +1,1 @@
-var mnemonic = "chimney donate trust planet poverty property spider foster young believe pear wall";
+var mnemonic = "later stamp absent spin special forest work rigid post strike pond chef";

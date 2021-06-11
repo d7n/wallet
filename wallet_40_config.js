@@ -1,1 +1,1 @@
-var mnemonic = "planet slot crop still course poverty hurt flash hire apart example suggest";
+var mnemonic = "margin pause roast brick then pigeon talent beef address biology jewel divorce";

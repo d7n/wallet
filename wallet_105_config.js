@@ -1,1 +1,1 @@
-var mnemonic = "armed horse fit fresh bean pudding powder poem guard punch sand hello";
+var mnemonic = "hat stamp pulse cram silk million amazing toward calm crew charge silver";

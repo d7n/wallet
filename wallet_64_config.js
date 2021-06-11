@@ -1,1 +1,1 @@
-var mnemonic = "trap zebra happy someone bean juice report mutual infant tape absent boil";
+var mnemonic = "soup dawn smooth machine card member fog canal enough zone kitchen rotate";

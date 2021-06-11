@@ -1,1 +1,1 @@
-var mnemonic = "dial calm tobacco retreat amused claim index scout topple city lady stock";
+var mnemonic = "shoot add pull estate sadness bind spot popular utility swift inspire street";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber leisure lock rice chapter end fix chest bubble despair useful conduct";
+var mnemonic = "swarm traffic flavor benefit sense enhance day sphere sort rather december around";

@@ -1,1 +1,1 @@
-var mnemonic = "fee estate hood emerge journey crowd cricket genuine ladder impact cross license";
+var mnemonic = "amount light juice media wire outside oblige install table family harvest fringe";

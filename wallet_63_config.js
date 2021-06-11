@@ -1,1 +1,1 @@
-var mnemonic = "spray taxi couch abstract tube ship pride faculty wave neither solution erupt";
+var mnemonic = "earth popular drink play question number item harbor muscle parent horse myself";

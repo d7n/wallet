@@ -1,1 +1,1 @@
-var mnemonic = "usage spot hand admit also face south message dynamic nation pattern any";
+var mnemonic = "country change pottery surprise obscure mean provide canvas rug intact salmon year";

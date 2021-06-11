@@ -1,1 +1,1 @@
-var mnemonic = "review loyal update spare later catch barely team pumpkin animal enrich wasp";
+var mnemonic = "drum fragile crush void bottom alpha clap upon fancy faint whale nothing";

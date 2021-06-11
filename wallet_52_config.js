@@ -1,1 +1,1 @@
-var mnemonic = "any bring embark man rescue switch add prison media unhappy arena deputy";
+var mnemonic = "century move coral december typical industry attract uniform flush garbage fetch elevator";

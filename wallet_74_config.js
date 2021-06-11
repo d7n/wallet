@@ -1,1 +1,1 @@
-var mnemonic = "predict banner identify near neither certain pig proof kiwi treat hip match";
+var mnemonic = "return shell ugly peace pipe library shock private lawsuit short luggage swarm";

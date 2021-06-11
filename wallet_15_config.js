@@ -1,1 +1,1 @@
-var mnemonic = "shoe word tobacco crew nature vital jewel hobby tape potato about tray";
+var mnemonic = "silver hat inmate can impact inner exotic drum crowd case lazy citizen";

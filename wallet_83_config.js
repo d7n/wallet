@@ -1,1 +1,1 @@
-var mnemonic = "identify knee ghost crane raw slot year aunt position sorry trend chapter";
+var mnemonic = "produce few goose two eight mask liar beach dash parrot veteran salute";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme vanish allow army decade capable decide opinion update cost ability world";
+var mnemonic = "treat buzz island shoe license million give rely acid alert always paper";

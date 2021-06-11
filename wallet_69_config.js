@@ -1,1 +1,1 @@
-var mnemonic = "poverty maple guess put smart attitude loan coil bind resemble orient narrow";
+var mnemonic = "jump asset artist panic mechanic flower gold brown vanish history lesson offer";

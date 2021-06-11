@@ -1,1 +1,1 @@
-var mnemonic = "month thunder mercy trend cinnamon slab depth pave ring absent crazy enact";
+var mnemonic = "forget sleep long stumble dizzy session wait someone body nerve world trumpet";

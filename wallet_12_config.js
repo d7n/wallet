@@ -1,1 +1,1 @@
-var mnemonic = "scheme symbol oval kingdom empower combine meadow relax video gather figure crawl";
+var mnemonic = "famous comic lift palm hope blade beyond kind right picture gadget save";

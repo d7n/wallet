@@ -1,1 +1,1 @@
-var mnemonic = "yellow pretty prize guide elder search maximum stock unlock warfare similar zero";
+var mnemonic = "offer emotion illness jungle north person fortune hope artist rebuild easy castle";

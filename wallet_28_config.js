@@ -1,1 +1,1 @@
-var mnemonic = "potato festival equip expose auction any future hat enrich follow kidney borrow";
+var mnemonic = "castle decide again filter habit orphan autumn lunar radio flat hurry maze";

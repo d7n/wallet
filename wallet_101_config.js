@@ -1,1 +1,1 @@
-var mnemonic = "hope fix address bonus joke network second half crumble furnace stable water";
+var mnemonic = "great obey crucial lake stock olympic duck cluster near hand meadow pair";

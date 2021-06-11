@@ -1,1 +1,1 @@
-var mnemonic = "sail off laundry age virus daughter bind gauge manage sort drastic fatigue";
+var mnemonic = "zero breeze limb between material devote riot medal upset own paddle buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "clip always sport violin logic hunt sing jump that stay avoid blossom";
+var mnemonic = "recycle retire negative power warm echo vocal warfare swarm together hollow release";

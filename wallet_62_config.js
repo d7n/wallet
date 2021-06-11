@@ -1,1 +1,1 @@
-var mnemonic = "seat rigid angry excuse lecture depart song avoid ten zone father toe";
+var mnemonic = "entire senior grit order oblige tenant domain analyst defense later public bone";

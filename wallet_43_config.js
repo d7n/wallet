@@ -1,1 +1,1 @@
-var mnemonic = "crawl february dawn neither success during ticket oval crumble boring dignity sugar";
+var mnemonic = "first position attend shuffle suspect brother express sound clutch satoshi limb inject";

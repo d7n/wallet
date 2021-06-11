@@ -1,1 +1,1 @@
-var mnemonic = "combine wall twice travel noble obtain chef cherry recycle shy family alarm";
+var mnemonic = "truly sea pear smooth candy satoshi truth bubble purse snap chalk cliff";

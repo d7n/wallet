@@ -1,1 +1,1 @@
-var mnemonic = "essay crush cradle essence trade define salute mosquito eight session slot sponsor";
+var mnemonic = "wasp warm answer mouse combine dutch front board okay settle error crystal";

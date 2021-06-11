@@ -1,1 +1,1 @@
-var mnemonic = "actress hamster evoke decide display angry retire ask stable husband charge sleep";
+var mnemonic = "pretty merit tortoise seek between year toss duty brush main spare teach";

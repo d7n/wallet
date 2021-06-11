@@ -1,1 +1,1 @@
-var mnemonic = "despair useful random note pluck horror speed brief rally bring bridge card";
+var mnemonic = "pool immune among slam quarter wisdom west asset what smart chronic lend";

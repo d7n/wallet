@@ -1,1 +1,1 @@
-var mnemonic = "push rapid boy stereo thumb action immune aspect clean dial pelican pet";
+var mnemonic = "bubble smooth rule citizen leopard shoe couple talent huge object primary venture";

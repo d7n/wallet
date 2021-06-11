@@ -1,1 +1,1 @@
-var mnemonic = "surprise empty around fold inform couple betray nose antenna oxygen fault couple";
+var mnemonic = "length access swarm cricket hub canvas leave buzz column knee swallow please";

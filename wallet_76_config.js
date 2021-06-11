@@ -1,1 +1,1 @@
-var mnemonic = "mobile reopen frozen general agree machine boss canyon tonight obey monkey pony";
+var mnemonic = "device energy purity hood ahead vibrant atom shadow youth opinion zebra weasel";

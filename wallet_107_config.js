@@ -1,1 +1,1 @@
-var mnemonic = "excite lunch profit other local ethics blade slice already local erase prison";
+var mnemonic = "what table celery leopard raw nuclear glove sell panic crime gate stone";

@@ -1,1 +1,1 @@
-var mnemonic = "rent point obscure inch kite staff style day anger ensure blur maple";
+var mnemonic = "fatal obscure rather jump wasp horror battle fence increase pony news spot";

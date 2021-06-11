@@ -1,1 +1,1 @@
-var mnemonic = "feed lounge almost popular guilt buyer element rhythm sword monitor actor reward";
+var mnemonic = "secret media nice lyrics balance pipe ritual gun patient remind release real";

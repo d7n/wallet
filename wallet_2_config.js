@@ -1,1 +1,1 @@
-var mnemonic = "sick verify bamboo cotton have response zero empty decorate trigger nuclear interest";
+var mnemonic = "bomb second surprise grant viable manage wool maximum exhaust butter thrive audit";

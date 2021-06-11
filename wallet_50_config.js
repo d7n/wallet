@@ -1,1 +1,1 @@
-var mnemonic = "addict empty better evoke switch stage interest aunt game unfold silk hunt";
+var mnemonic = "glove grief bundle vehicle fox never demise rich object welcome twelve sunny";

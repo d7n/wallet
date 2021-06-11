@@ -1,1 +1,1 @@
-var mnemonic = "sand frequent dynamic say focus toilet camera minor aspect crawl chronic lamp";
+var mnemonic = "drill pioneer account evidence pudding exit general ship point vicious cover exclude";

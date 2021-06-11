@@ -1,1 +1,1 @@
-var mnemonic = "dad proof deliver motor split tornado cheap frame suspect uncover august food";
+var mnemonic = "tunnel silly peace brand blouse enhance parrot member grit napkin ripple donate";

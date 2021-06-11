@@ -1,1 +1,1 @@
-var mnemonic = "replace crime salmon convince surprise turn away convince weird appear able hybrid";
+var mnemonic = "box gadget best baby cable unveil real duty quarter people room farm";

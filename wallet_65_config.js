@@ -1,1 +1,1 @@
-var mnemonic = "brick future glance conduct inform margin someone pioneer black series heart divide";
+var mnemonic = "sell liar veteran scare purity teach umbrella test wife explain note pair";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe learn faculty brisk sketch comic disorder rival truck music equal have";
+var mnemonic = "slight cheap train build apology scrub beef april payment day salmon forget";

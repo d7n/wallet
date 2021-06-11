@@ -1,1 +1,1 @@
-var mnemonic = "rural spice auction grid present tail goat loop tomorrow whale tortoise gun";
+var mnemonic = "skirt harsh charge bid camp pond enemy this film bus ski brick";

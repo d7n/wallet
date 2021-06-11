@@ -1,1 +1,1 @@
-var mnemonic = "bleak language half question wet hour inflict wash bitter inflict kitten pear";
+var mnemonic = "pottery payment pluck update also normal logic fabric crunch brown tool domain";

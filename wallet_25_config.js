@@ -1,1 +1,1 @@
-var mnemonic = "unhappy onion couple crunch together inhale sand purse library buzz route bacon";
+var mnemonic = "uncle combine whip run embrace believe purity donor sample swift close rival";

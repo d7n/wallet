@@ -1,1 +1,1 @@
-var mnemonic = "mixed venture borrow furnace regular game venture sorry apology invest unit invest";
+var mnemonic = "alpha rotate like shift small feel whale icon strategy merry piano manage";

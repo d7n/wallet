@@ -1,1 +1,1 @@
-var mnemonic = "pencil exist grow gold desk camera ribbon upon hill member earth choose";
+var mnemonic = "night betray lawsuit cotton home rule hair own catalog office discover gap";

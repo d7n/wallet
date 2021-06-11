@@ -1,1 +1,1 @@
-var mnemonic = "begin crew more review bone syrup shadow observe brick rabbit try hurry";
+var mnemonic = "produce hen mass donkey piano fiber congress axis glare connect unique scan";

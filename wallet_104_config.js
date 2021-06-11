@@ -1,1 +1,1 @@
-var mnemonic = "tide crucial wagon tower chronic atom tell aerobic fossil refuse jazz end";
+var mnemonic = "spin pipe sail bridge nation dentist fatal spirit donor myth end rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "protect pretty range pass muffin hazard strike horn army bracket motion twist";
+var mnemonic = "bag flush rather tomato advance script promote sudden vacuum gasp stadium zone";

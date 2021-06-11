@@ -1,1 +1,1 @@
-var mnemonic = "yellow gown since nature echo hero arctic novel stomach laugh behave egg";
+var mnemonic = "soup adapt merit math tourist anger gloom unit east wild piece harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient bronze subject elite core enhance guitar salt dial spawn grow punch";
+var mnemonic = "stand find sudden vacant wagon sibling seminar marriage ankle strike penalty entry";

@@ -1,1 +1,1 @@
-var mnemonic = "say another fee strategy member loud faith fuel foam cattle toe absent";
+var mnemonic = "spoil barely spike craft predict thank chest become fit topic pepper armed";
