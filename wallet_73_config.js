@@ -1,1 +1,1 @@
-var mnemonic = "foil domain kingdom humor image shallow mammal radar universe utility umbrella doctor";
+var mnemonic = "aim animal brown tribe tuition kiss brass disorder inner pony famous trust";

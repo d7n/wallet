@@ -1,1 +1,1 @@
-var mnemonic = "when panic oil book grab trend proud afford news surface title little";
+var mnemonic = "legal problem invite welcome poverty empty tip elder security basic used hurry";

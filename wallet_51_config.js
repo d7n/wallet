@@ -1,1 +1,1 @@
-var mnemonic = "torch arrange blade book office assault topple panel focus plate gate kid";
+var mnemonic = "sweet middle salon castle divert tube lunar enhance leaf claw cancel slow";

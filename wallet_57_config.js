@@ -1,1 +1,1 @@
-var mnemonic = "morning next master kiwi joke gossip oil mad wood upgrade ahead right";
+var mnemonic = "loud concert genuine riot myth clay brisk coffee floor wreck jewel lake";

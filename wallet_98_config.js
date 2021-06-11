@@ -1,1 +1,1 @@
-var mnemonic = "pottery month confirm wrist useless lion equal item cushion boss forest they";
+var mnemonic = "second armor laugh miss airport among where sea expose surge pumpkin depart";

@@ -1,1 +1,1 @@
-var mnemonic = "maze credit seminar attack custom arctic hazard kangaroo inner gaze squeeze nurse";
+var mnemonic = "body ribbon useful please click search diet hybrid era lizard frown error";

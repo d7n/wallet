@@ -1,1 +1,1 @@
-var mnemonic = "index play east squirrel donate because burger zoo garden trophy tent special";
+var mnemonic = "glide west ladder humble erase quantum foot top soccer speed zoo record";

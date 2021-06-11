@@ -1,1 +1,1 @@
-var mnemonic = "chief make flat museum news rather hill crack engine purpose slab pretty";
+var mnemonic = "police panda voyage orbit pattern gather hair reopen main stool miss common";

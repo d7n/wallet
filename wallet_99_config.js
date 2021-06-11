@@ -1,1 +1,1 @@
-var mnemonic = "plastic one capital put famous awake clown sheriff art lens crisp sight";
+var mnemonic = "clay ill barrel trim mixed cheap gossip local language glory tube rack";

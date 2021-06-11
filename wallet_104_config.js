@@ -1,1 +1,1 @@
-var mnemonic = "okay wink lens poverty depend absorb quarter anxiety range oak say benefit";
+var mnemonic = "birth cram elder rebel gorilla rule labor already target cricket cotton gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "city gentle gasp tired swing dog fiscal notable exercise tortoise charge crash";
+var mnemonic = "motion nothing vote require resist wrap lake stable desk help agree public";

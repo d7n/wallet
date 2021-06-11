@@ -1,1 +1,1 @@
-var mnemonic = "robust flash race audit kiwi mandate tent million logic print table tourist";
+var mnemonic = "reduce nut tumble jungle leader witness wheat meadow pottery elite tomorrow sister";

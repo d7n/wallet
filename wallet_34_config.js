@@ -1,1 +1,1 @@
-var mnemonic = "sick stomach general until economy gain elder logic balcony math moral they";
+var mnemonic = "material debate gap clutch orange borrow clip beyond loyal farm garlic announce";

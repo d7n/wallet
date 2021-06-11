@@ -1,1 +1,1 @@
-var mnemonic = "regular meat change curious ghost more good turkey barely infant foot adult";
+var mnemonic = "process industry vicious ability umbrella shell manual permit trip place edge bottom";

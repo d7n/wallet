@@ -1,1 +1,1 @@
-var mnemonic = "easily cheese champion phone lottery kangaroo canyon guess grow empower right dial";
+var mnemonic = "theme hill gaze vote enroll smoke ask field useless december cup chief";

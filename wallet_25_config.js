@@ -1,1 +1,1 @@
-var mnemonic = "able total urban audit volume beauty change travel marriage blue inform project";
+var mnemonic = "width goat force shield north venture purity sad since limb clump era";

@@ -1,1 +1,1 @@
-var mnemonic = "rare base honey shift mushroom canyon pear balcony spider appear cage phone";
+var mnemonic = "night iron column hybrid youth local flip invite order praise corn brother";

@@ -1,1 +1,1 @@
-var mnemonic = "employ thing pattern outdoor about jaguar subway garment biology twist toe enter";
+var mnemonic = "arena juice secret tackle world clarify original december practice depend regular iron";

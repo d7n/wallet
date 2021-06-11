@@ -1,1 +1,1 @@
-var mnemonic = "trial rich garment awful couple sustain police gift humble cargo around you";
+var mnemonic = "length leopard conduct bar design blade join road biology art fiber primary";

@@ -1,1 +1,1 @@
-var mnemonic = "receive meat ceiling famous cannon later apology lazy wood teach edit flavor";
+var mnemonic = "fit patient tail pair impulse narrow easily lesson donkey affair wrist ostrich";

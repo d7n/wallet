@@ -1,1 +1,1 @@
-var mnemonic = "rare office drink drama tortoise grace cart cheese connect advice claw eye";
+var mnemonic = "suggest mention twice crumble dwarf upper pilot nephew impose truly pigeon salmon";

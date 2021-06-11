@@ -1,1 +1,1 @@
-var mnemonic = "climb old useful party purse volcano bargain scene device saddle fit toy";
+var mnemonic = "mango oblige laptop depth resource north lobster hurt badge spoon suffer cash";

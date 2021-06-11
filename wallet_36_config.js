@@ -1,1 +1,1 @@
-var mnemonic = "april indicate high forum decrease point estate pave theme stove frequent else";
+var mnemonic = "swear hobby curtain tell weird upon warfare water witness grape card palace";

@@ -1,1 +1,1 @@
-var mnemonic = "chair file school mom apart bag salt coach basket cliff ketchup quick";
+var mnemonic = "olympic flock shuffle fence demise need rookie aisle wrong ribbon camera exist";

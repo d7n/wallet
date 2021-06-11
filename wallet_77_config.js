@@ -1,1 +1,1 @@
-var mnemonic = "grape oxygen dial gesture cause fold hood proof gorilla whip blind swear";
+var mnemonic = "stand laugh lecture female glare notable reduce empower movie strategy photo stem";

@@ -1,1 +1,1 @@
-var mnemonic = "choice alert fun fruit surround home summer trial giggle chicken evidence type";
+var mnemonic = "emotion enemy table update choice guilt catch bubble hood decline grape then";

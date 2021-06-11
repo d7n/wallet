@@ -1,1 +1,1 @@
-var mnemonic = "hunt essence tomorrow drift east clump chuckle friend cook saddle cook alley";
+var mnemonic = "perfect copper naive lecture common rapid undo index question update acid route";

@@ -1,1 +1,1 @@
-var mnemonic = "faith jelly sunny tackle client world token remove cupboard upgrade raven remove";
+var mnemonic = "decorate solar rude egg various viable safe unlock short sing dad force";

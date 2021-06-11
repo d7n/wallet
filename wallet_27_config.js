@@ -1,1 +1,1 @@
-var mnemonic = "fragile company ecology enhance above reflect oyster jacket brave detect bone can";
+var mnemonic = "famous door cool toe unveil differ art assist plug medal own dismiss";

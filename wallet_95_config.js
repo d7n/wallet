@@ -1,1 +1,1 @@
-var mnemonic = "later spice infant middle arrange category pumpkin brand beyond live resemble fruit";
+var mnemonic = "keen issue cause slot pull crunch useful lift snake letter visual latin";

@@ -1,1 +1,1 @@
-var mnemonic = "typical near enemy symbol put regular evoke slide because bubble liquid spider";
+var mnemonic = "real include soap focus mail tornado burst tone deputy elephant lion embark";

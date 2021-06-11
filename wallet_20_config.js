@@ -1,1 +1,1 @@
-var mnemonic = "public glove music honey lesson evoke rural credit sound fix scheme true";
+var mnemonic = "deputy super sketch useful judge oblige buffalo leisure era gentle never horror";

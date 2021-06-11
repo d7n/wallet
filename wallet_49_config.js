@@ -1,1 +1,1 @@
-var mnemonic = "seat vault paper thought arrange group joke artist panel buddy interest multiply";
+var mnemonic = "magic skin face fame glory embrace unknown client romance cream essence split";

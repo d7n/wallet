@@ -1,1 +1,1 @@
-var mnemonic = "slice proof draw ozone ill whip once sign bargain cinnamon jealous hand";
+var mnemonic = "broom solve immense trend false lend convince hole barrel resist firm spy";

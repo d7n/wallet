@@ -1,1 +1,1 @@
-var mnemonic = "silk knife rabbit lab beauty nerve climb forest melody labor actor dinosaur";
+var mnemonic = "ladder night carpet caution tiger priority error elegant relax recycle provide scheme";

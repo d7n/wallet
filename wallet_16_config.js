@@ -1,1 +1,1 @@
-var mnemonic = "direct street grunt rocket price female amused moon pause sand cereal birth";
+var mnemonic = "cliff garage fiber secret message security crash enhance magic charge inner question";

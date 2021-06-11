@@ -1,1 +1,1 @@
-var mnemonic = "advance typical check public weapon firm hungry enrich benefit any erosion soup";
+var mnemonic = "roof client early school believe umbrella slogan frown fit oval teach cluster";

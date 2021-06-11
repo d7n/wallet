@@ -1,1 +1,1 @@
-var mnemonic = "question museum time aerobic employ sail forest expose select weekend gather skate";
+var mnemonic = "battle loyal effort clump tower industry balcony better skate pair trigger bracket";

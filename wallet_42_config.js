@@ -1,1 +1,1 @@
-var mnemonic = "shiver speak worry symbol torch dentist victory blouse nominee quit skill rebuild";
+var mnemonic = "guitar excess bottom bleak document vanish isolate hurry normal security cotton music";

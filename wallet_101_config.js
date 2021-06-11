@@ -1,1 +1,1 @@
-var mnemonic = "cash helmet clean tuna adjust dose hill found secret fruit wide creek";
+var mnemonic = "rebel kitchen casual theme rude task olive piano warrior turn cover leg";

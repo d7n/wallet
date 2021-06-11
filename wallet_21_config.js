@@ -1,1 +1,1 @@
-var mnemonic = "useful obscure grape observe naive fence gift wood rival gauge hip supply";
+var mnemonic = "resource like involve hover foster fire tragic kitten motor barely margin sheriff";

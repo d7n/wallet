@@ -1,1 +1,1 @@
-var mnemonic = "stick spin pill update crater absurd matter barrel timber rice quiz tool";
+var mnemonic = "auto stairs path hazard cereal drop pretty bomb swarm mango aunt wood";

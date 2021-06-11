@@ -1,1 +1,1 @@
-var mnemonic = "shoe spread story rough turtle pottery edit chimney purpose pluck humble burger";
+var mnemonic = "fat gorilla zoo embark network slot ladder rain cement aspect alpha ladder";

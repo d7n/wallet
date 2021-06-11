@@ -1,1 +1,1 @@
-var mnemonic = "robot owner era what morning inquiry mixture weasel know joke federal sister";
+var mnemonic = "spatial jacket blade grab allow wave vast space provide color upper today";

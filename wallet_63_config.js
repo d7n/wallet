@@ -1,1 +1,1 @@
-var mnemonic = "brain pony pipe leader model rate snake goddess crunch hunt perfect thunder";
+var mnemonic = "this car material lady violin cave mountain retire armor mind figure attack";

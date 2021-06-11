@@ -1,1 +1,1 @@
-var mnemonic = "pudding enhance pen wage cancel comic taxi nest vivid mountain camera drastic";
+var mnemonic = "history always over finger spin phrase topic topple master fever spice swing";

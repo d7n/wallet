@@ -1,1 +1,1 @@
-var mnemonic = "february fat tenant pioneer width already round until hen purchase version bullet";
+var mnemonic = "dance spider prosper kiwi bounce student plastic fury rose fly just disagree";

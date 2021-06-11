@@ -1,1 +1,1 @@
-var mnemonic = "iron cost skin coach boss change force negative blur room medal news";
+var mnemonic = "void knock bullet later scissors seminar giggle inner sword language hollow shock";

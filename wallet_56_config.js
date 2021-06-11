@@ -1,1 +1,1 @@
-var mnemonic = "night mandate ski practice fox palace sea funny leader mail shell park";
+var mnemonic = "coral awkward skate improve raise spray capable demise fitness current wood gold";

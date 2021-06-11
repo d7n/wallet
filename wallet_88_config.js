@@ -1,1 +1,1 @@
-var mnemonic = "mouse issue poet tonight talk month unusual image bread trim cause motor";
+var mnemonic = "thank exchange alien treat square brand bid item hover close prevent donate";

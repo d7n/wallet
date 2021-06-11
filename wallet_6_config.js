@@ -1,1 +1,1 @@
-var mnemonic = "catalog novel wonder color hungry laptop story left mesh artist exhaust soft";
+var mnemonic = "capital ship spy blossom unique final rigid food nerve couple hour lunar";

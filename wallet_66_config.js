@@ -1,1 +1,1 @@
-var mnemonic = "hotel prepare board possible arrange space dice civil midnight useless develop stamp";
+var mnemonic = "speed erosion wet indicate tornado square agent bitter tuna peasant bunker ketchup";

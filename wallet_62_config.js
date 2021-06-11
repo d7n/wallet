@@ -1,1 +1,1 @@
-var mnemonic = "vacant fringe include put under keen voice duty polar borrow system vicious";
+var mnemonic = "cannon party message win phrase virtual hurry inspire tiger all private exhaust";

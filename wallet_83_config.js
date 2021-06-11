@@ -1,1 +1,1 @@
-var mnemonic = "clap fluid mammal melody very gorilla advice thank know gate broken thumb";
+var mnemonic = "roast pass young shoe other normal busy rapid liquid find mercy invite";

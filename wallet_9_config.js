@@ -1,1 +1,1 @@
-var mnemonic = "stock balance long tunnel issue town similar spring clap town tell mobile";
+var mnemonic = "tongue harbor flavor south horror script green guitar pattern fiction upon save";

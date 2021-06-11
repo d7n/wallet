@@ -1,1 +1,1 @@
-var mnemonic = "blade radio holiday zero chapter learn verb abuse organ clerk better tree";
+var mnemonic = "foil insect seek fee much carry crush unlock pelican winner nut bamboo";

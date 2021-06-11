@@ -1,1 +1,1 @@
-var mnemonic = "mansion inner oil rocket canvas apart joke high dynamic egg later steak";
+var mnemonic = "mosquito betray truly coconut health festival cinnamon wait during desert rough risk";

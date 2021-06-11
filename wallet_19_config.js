@@ -1,1 +1,1 @@
-var mnemonic = "dynamic neck arrange purse wild gas economy salute moral cream advice step";
+var mnemonic = "vacuum nasty alcohol walnut off grant cliff small begin clinic exchange rabbit";

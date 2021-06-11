@@ -1,1 +1,1 @@
-var mnemonic = "profit trim typical soda miracle feed brush body motion observe scare adult";
+var mnemonic = "grit arch dynamic flush isolate museum drill under like jelly episode aware";

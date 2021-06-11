@@ -1,1 +1,1 @@
-var mnemonic = "squeeze report master zone combine dune sample speed fence shy express hammer";
+var mnemonic = "endorse mask flush idle gesture detect solution host erase energy believe nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist mention actress rather shield private earth trophy disorder lizard rib thrive";
+var mnemonic = "treat tragic differ diet drive sight isolate ramp broken birth turtle best";

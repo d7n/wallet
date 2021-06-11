@@ -1,1 +1,1 @@
-var mnemonic = "scout opinion spray trap exhaust mad turn notice over city sibling shine";
+var mnemonic = "oppose payment prepare elbow shoulder lion inhale elder acid pretty region panic";

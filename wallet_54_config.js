@@ -1,1 +1,1 @@
-var mnemonic = "cute kitchen confirm loud alert visual whip rubber sand bulb rubber bicycle";
+var mnemonic = "steak ginger balcony night move melt scheme cheap apart input mushroom luxury";

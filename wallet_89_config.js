@@ -1,1 +1,1 @@
-var mnemonic = "bachelor accident sing worth lamp very wing engine journey blouse accuse catch";
+var mnemonic = "juice warm earn orient tobacco ancient switch nut old flat obscure athlete";

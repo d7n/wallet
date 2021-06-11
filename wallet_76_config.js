@@ -1,1 +1,1 @@
-var mnemonic = "stereo spatial olive toward chapter penalty list confirm galaxy test noise rapid";
+var mnemonic = "whip burger old camera immune volcano stage trip novel cruise polar hope";

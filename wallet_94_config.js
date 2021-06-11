@@ -1,1 +1,1 @@
-var mnemonic = "man race innocent loud awful save immune warrior abstract peasant maple pool";
+var mnemonic = "circle palace bone interest subject elevator credit design prevent stay tent wear";

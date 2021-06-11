@@ -1,1 +1,1 @@
-var mnemonic = "soccer dynamic gas basket chapter quiz comfort vote snake romance spell involve";
+var mnemonic = "erode ready nice always vibrant planet income habit open occur script concert";

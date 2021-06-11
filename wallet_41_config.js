@@ -1,1 +1,1 @@
-var mnemonic = "govern now split bulk feature total liberty wonder mountain jealous gather load";
+var mnemonic = "absurd right shy oven nose fork cigar idea valid monkey spike wet";

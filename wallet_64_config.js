@@ -1,1 +1,1 @@
-var mnemonic = "equip manual stick olive leopard artwork obey spread grace sample dolphin select";
+var mnemonic = "real fabric edit task heart genre retire pattern ill view control orange";

@@ -1,1 +1,1 @@
-var mnemonic = "convince brother wet link witness warrior aspect much tumble album library junior";
+var mnemonic = "jazz doll capable logic sudden deputy promote abstract bracket crowd flip friend";

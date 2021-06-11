@@ -1,1 +1,1 @@
-var mnemonic = "cave life universe stick ripple shrug rabbit august apart end sauce stage";
+var mnemonic = "stable victory response tired earth walk feel usage nurse trick believe wood";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe rack brief hospital unlock range panther pioneer boss impulse already forward";
+var mnemonic = "vapor half cute frost cloth despair grant usual hair radar resemble castle";

@@ -1,1 +1,1 @@
-var mnemonic = "acid dutch coral elephant tortoise certain soon limit inform path hammer marine";
+var mnemonic = "little jewel latin mask ramp sentence box wife grace asthma front exercise";

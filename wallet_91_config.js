@@ -1,1 +1,1 @@
-var mnemonic = "fetch undo heavy reject donkey melt fan enough mutual collect program robust";
+var mnemonic = "kit nut hen burst pulse tribe program similar impulse catalog planet machine";

@@ -1,1 +1,1 @@
-var mnemonic = "orient milk mad venture change material gift market wave retreat walk cheese";
+var mnemonic = "trade change cruise crowd penalty curtain grass hard hungry social flash tortoise";

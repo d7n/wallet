@@ -1,1 +1,1 @@
-var mnemonic = "fluid pupil talent need airport language divide tragic start actual dignity silent";
+var mnemonic = "concert lava denial royal sudden toss churn melt kidney soon next enter";

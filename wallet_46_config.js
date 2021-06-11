@@ -1,1 +1,1 @@
-var mnemonic = "velvet omit decline horror quit analyst naive motion effort erase industry around";
+var mnemonic = "course dinosaur embrace huge thank lobster doctor shallow pride argue gym level";

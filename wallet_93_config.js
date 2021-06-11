@@ -1,1 +1,1 @@
-var mnemonic = "water scrub base glimpse occur sell once few raccoon oppose feed act";
+var mnemonic = "sound gift keen chat fault inside ride input kick island valid survey";

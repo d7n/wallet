@@ -1,1 +1,1 @@
-var mnemonic = "aerobic wage stairs since step exclude coil budget square neglect metal odor";
+var mnemonic = "slight theory visual march hero scrap guitar ship find cream now reason";

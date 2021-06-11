@@ -1,1 +1,1 @@
-var mnemonic = "put sting dice brief tent utility armor position vague oyster indicate panda";
+var mnemonic = "flight nurse rug rack hammer off cricket spy damp book bar garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "oval tornado artist recipe volume bronze twenty ozone cross mechanic category federal";
+var mnemonic = "village road enter gossip collect pole final issue ginger hill pink indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "fury moral spare quiz you easily frog divert embrace cargo era great";
+var mnemonic = "whip spray ranch dove tumble seven chapter interest aerobic behind raven husband";

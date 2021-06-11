@@ -1,1 +1,1 @@
-var mnemonic = "smart mushroom enemy local calm latin betray festival hope hollow document corn";
+var mnemonic = "wasp day select business mechanic foot depend cage lucky goose course innocent";

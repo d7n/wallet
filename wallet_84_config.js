@@ -1,1 +1,1 @@
-var mnemonic = "episode impulse walnut inherit turn educate eternal reform swear assume tone cube";
+var mnemonic = "such ordinary turtle upset rack material again vendor private pact subject jar";

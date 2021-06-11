@@ -1,1 +1,1 @@
-var mnemonic = "weekend saddle poet swift direct wood size glance suffer opinion oxygen pluck";
+var mnemonic = "area gain infant turn system swallow stairs huge park velvet embark stadium";

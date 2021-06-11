@@ -1,1 +1,1 @@
-var mnemonic = "debris cry afford leaf sting crew crazy body token tourist pizza lend";
+var mnemonic = "nurse climb decorate traffic buyer over uncover cannon order rally surprise embark";
