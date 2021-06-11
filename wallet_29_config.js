@@ -1,1 +1,1 @@
-var mnemonic = "donate post own various boy mango play muffin garment network fever ostrich";
+var mnemonic = "prosper patrol hat word average version paper dream crime shell leg cereal";

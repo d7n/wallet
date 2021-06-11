@@ -1,1 +1,1 @@
-var mnemonic = "teach useful inner advance final inch impact pitch educate monitor bulk saddle";
+var mnemonic = "doll lesson excuse current cliff axis shallow fat next combine seed october";

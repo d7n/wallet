@@ -1,1 +1,1 @@
-var mnemonic = "recall answer harvest gain paddle moral help twelve soda style rely setup";
+var mnemonic = "bubble stone feed slam wild acquire canoe raise tobacco eternal rail siege";

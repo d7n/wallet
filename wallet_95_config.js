@@ -1,1 +1,1 @@
-var mnemonic = "garlic iron bounce dash siege luggage twelve bridge inflict sugar enrich gun";
+var mnemonic = "viable half topic upset wheel gasp luxury hospital round retreat abandon despair";

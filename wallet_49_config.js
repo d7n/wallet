@@ -1,1 +1,1 @@
-var mnemonic = "mobile bacon floor empower aim dumb remind erase come sample brown segment";
+var mnemonic = "media pledge cigar east thrive idle satoshi cycle also mom result garden";

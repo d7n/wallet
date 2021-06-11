@@ -1,1 +1,1 @@
-var mnemonic = "spray trip soccer shrug ozone pen dune bridge cause rapid dawn swear";
+var mnemonic = "install trophy lizard execute torch flame property lens divide wrist already cover";

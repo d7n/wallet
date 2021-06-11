@@ -1,1 +1,1 @@
-var mnemonic = "cliff despair what addict hard kidney genius episode snap balcony only love";
+var mnemonic = "say lamp middle charge bulb tool rigid move fly catch stamp airport";

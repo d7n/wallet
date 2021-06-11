@@ -1,1 +1,1 @@
-var mnemonic = "jar tongue result scatter address flight nasty uniform magnet toe close hill";
+var mnemonic = "census rough toddler affair alien night idle dice main famous velvet patch";

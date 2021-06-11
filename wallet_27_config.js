@@ -1,1 +1,1 @@
-var mnemonic = "tone chronic return nose birth monkey weasel catch vacuum jeans tourist game";
+var mnemonic = "isolate behind movie cloud obtain else travel film filter palm perfect knife";

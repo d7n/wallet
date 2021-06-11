@@ -1,1 +1,1 @@
-var mnemonic = "retire force cruel point girl gather industry flavor copper fame shell undo";
+var mnemonic = "visit capable bounce clap myth hurt garbage era tourist flash dirt culture";

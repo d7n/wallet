@@ -1,1 +1,1 @@
-var mnemonic = "diagram crisp install soldier obscure myself obey tobacco visual neck draft address";
+var mnemonic = "lumber capable spell bubble kid blur meadow climb lyrics song canal soldier";

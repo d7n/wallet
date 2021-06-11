@@ -1,1 +1,1 @@
-var mnemonic = "session dinosaur model enable jungle waste youth kiss stage final outdoor input";
+var mnemonic = "chimney galaxy close trade harvest beef spray idea moral guard lion huge";

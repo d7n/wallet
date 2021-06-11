@@ -1,1 +1,1 @@
-var mnemonic = "calm similar anxiety pottery urge base throw burst flag love wool grow";
+var mnemonic = "work mean manage census rubber siege just baby unaware magnet roof season";

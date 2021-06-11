@@ -1,1 +1,1 @@
-var mnemonic = "deposit cabin canal fiscal increase brass weekend gossip mom timber avoid morning";
+var mnemonic = "wagon fashion someone friend army ready drive bulk inject scale divide trick";

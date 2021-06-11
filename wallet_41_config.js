@@ -1,1 +1,1 @@
-var mnemonic = "path clinic arrive judge lawsuit source mistake minor differ snack differ dynamic";
+var mnemonic = "churn future jealous honey random novel winter exit item fish tired truth";

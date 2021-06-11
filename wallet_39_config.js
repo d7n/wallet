@@ -1,1 +1,1 @@
-var mnemonic = "grief chest ticket certain cabin panel exhaust object grocery apple silly usage";
+var mnemonic = "garden bicycle whip lizard develop cave oval huge pudding region radio call";

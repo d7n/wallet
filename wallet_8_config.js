@@ -1,1 +1,1 @@
-var mnemonic = "shuffle essence horn service large retreat final ladder spin trim avoid bitter";
+var mnemonic = "latin pink hamster lunar oak basket cargo fade pupil proof dutch spell";

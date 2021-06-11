@@ -1,1 +1,1 @@
-var mnemonic = "orange know reflect solution glimpse misery awful nominee shrimp panda present obvious";
+var mnemonic = "screen network evidence network debate deal bitter park pause talent middle broom";

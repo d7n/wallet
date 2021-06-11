@@ -1,1 +1,1 @@
-var mnemonic = "gap bicycle receive purity tumble beauty elephant someone dash blind air year";
+var mnemonic = "island forum draft fever lumber produce wait because purchase kingdom tennis oblige";

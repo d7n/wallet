@@ -1,1 +1,1 @@
-var mnemonic = "large deliver lounge deal consider fan universe sausage forum list cute adjust";
+var mnemonic = "truth critic insect fiber search organ rally endorse burger avocado jaguar retire";

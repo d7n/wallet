@@ -1,1 +1,1 @@
-var mnemonic = "squeeze slice educate abstract hand cycle cruel strike fame exclude claw link";
+var mnemonic = "negative online digital north glare chief brand bright vintage shallow reject morning";

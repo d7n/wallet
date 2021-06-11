@@ -1,1 +1,1 @@
-var mnemonic = "cook pull orient scheme sick olive fault fringe lottery sword blast gap";
+var mnemonic = "seven loyal market jazz busy dinner nature gaze dawn submit follow certain";

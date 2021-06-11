@@ -1,1 +1,1 @@
-var mnemonic = "measure trick current arch police envelope hidden erase chuckle stone door trend";
+var mnemonic = "reform scale salmon grant sleep proof pattern consider buyer express stuff slide";

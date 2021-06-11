@@ -1,1 +1,1 @@
-var mnemonic = "manual group help first rebel solar alert rabbit gentle pink heart pig";
+var mnemonic = "dry evidence slush orbit verb success ketchup bargain awesome dutch squeeze depart";

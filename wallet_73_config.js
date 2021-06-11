@@ -1,1 +1,1 @@
-var mnemonic = "sting butter science arrive bid stand cram orbit wrap alley kingdom trophy";
+var mnemonic = "item spirit jump tip uncover panther law snake celery behind host attend";

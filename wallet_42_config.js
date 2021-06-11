@@ -1,1 +1,1 @@
-var mnemonic = "define fetch adjust train torch fish lake lobster turn mammal doctor kit";
+var mnemonic = "grant naive basket october cricket excess appear sentence glimpse apple fatigue palace";

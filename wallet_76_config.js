@@ -1,1 +1,1 @@
-var mnemonic = "hotel series upon switch habit pear spy weekend fashion chair sausage large";
+var mnemonic = "champion family cloud wagon erosion unhappy rely capable ostrich insane easy bounce";

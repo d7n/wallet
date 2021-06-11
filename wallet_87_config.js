@@ -1,1 +1,1 @@
-var mnemonic = "sleep swear obscure author liquid invest found raw sad scrap stand heavy";
+var mnemonic = "wood catch switch together cry cruise slogan impose case bottom harsh aisle";

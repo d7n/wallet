@@ -1,1 +1,1 @@
-var mnemonic = "relax scout give price bacon leaf asset frozen tuition bind begin secret";
+var mnemonic = "miss good penalty common exact like mind tenant bleak copy nasty pet";

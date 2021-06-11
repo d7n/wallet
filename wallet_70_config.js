@@ -1,1 +1,1 @@
-var mnemonic = "pill lemon top trim fun verify wrist north salmon rifle kitten foil";
+var mnemonic = "excite behave consider card where monkey delay tackle bike cherry spawn tiger";

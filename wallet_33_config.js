@@ -1,1 +1,1 @@
-var mnemonic = "shrimp movie gallery captain usage there canal cute first collect slogan kitchen";
+var mnemonic = "arch pole again group nice crumble fire lounge client school into access";

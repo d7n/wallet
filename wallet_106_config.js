@@ -1,1 +1,1 @@
-var mnemonic = "device shop height earn glass very urban render patrol build dash parade";
+var mnemonic = "unit enact carbon response wreck approve snack evidence answer tobacco soul stone";

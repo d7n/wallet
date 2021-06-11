@@ -1,1 +1,1 @@
-var mnemonic = "join bone truth steak primary doll cement finish where foam category outside";
+var mnemonic = "skirt muscle diagram animal scout supply spice pupil amazing skate margin jacket";

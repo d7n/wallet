@@ -1,1 +1,1 @@
-var mnemonic = "employ hospital coin phone nuclear mango sister bulk disease enact farm expire";
+var mnemonic = "fame broom relief trophy keep copy crouch lyrics please guard gloom pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead because home snake cargo people live skate jaguar flight disorder buffalo";
+var mnemonic = "giggle oxygen ritual raven business human foot remove delay similar nuclear consider";

@@ -1,1 +1,1 @@
-var mnemonic = "iron random lens miracle donkey dragon bean narrow family damp soap vanish";
+var mnemonic = "power purse pizza climb uphold extend essence boost garden friend prevent away";

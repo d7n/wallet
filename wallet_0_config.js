@@ -1,1 +1,1 @@
-var mnemonic = "clerk ready diet afraid insect credit rocket shift squirrel equip trick build";
+var mnemonic = "chair lift today mind beach horror inspire tomorrow ticket happy spoil evolve";

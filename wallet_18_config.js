@@ -1,1 +1,1 @@
-var mnemonic = "physical squirrel unfold amount garbage waste expire manual patch false wrong oval";
+var mnemonic = "into record milk feature blade struggle math decade accident isolate cousin success";

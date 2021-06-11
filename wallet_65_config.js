@@ -1,1 +1,1 @@
-var mnemonic = "kick crumble pulse wasp bone come enemy auto vessel scrub rule coil";
+var mnemonic = "festival program inform hand drift sound wing inhale text clever knock coast";

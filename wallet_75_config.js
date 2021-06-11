@@ -1,1 +1,1 @@
-var mnemonic = "soft clog carbon appear absorb ghost use top mouse choice alley noble";
+var mnemonic = "adjust carbon cradle vault kitchen decade diet fox fit sell cancel mom";

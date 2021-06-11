@@ -1,1 +1,1 @@
-var mnemonic = "abuse rescue unfold royal eight inflict gossip sport still reflect reform beyond";
+var mnemonic = "tooth expire birth dizzy negative embrace lion where tenant volume desert state";

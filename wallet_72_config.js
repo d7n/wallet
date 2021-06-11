@@ -1,1 +1,1 @@
-var mnemonic = "issue gorilla blush attack guard denial leader elbow kite smoke web obtain";
+var mnemonic = "orphan employ bunker meadow punch old afford mandate board grab drum argue";

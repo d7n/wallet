@@ -1,1 +1,1 @@
-var mnemonic = "catalog disagree silly sustain oxygen lawsuit ice volume adjust indicate impulse bless";
+var mnemonic = "dutch hundred sword nephew promote vibrant cause pride degree worry cry marriage";

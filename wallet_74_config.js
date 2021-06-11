@@ -1,1 +1,1 @@
-var mnemonic = "middle exile choice scorpion hungry flock bullet height blossom lawn license road";
+var mnemonic = "hold else film swap pigeon panda egg visual cluster biology dynamic popular";

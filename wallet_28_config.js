@@ -1,1 +1,1 @@
-var mnemonic = "curious give ski exist open remain please win reward method volcano cup";
+var mnemonic = "nature school sea flower veteran cup seven recall document clinic artefact defense";

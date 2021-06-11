@@ -1,1 +1,1 @@
-var mnemonic = "client blood install hawk blade unit gorilla quit addict exchange armor affair";
+var mnemonic = "emerge cake toe ice observe bone favorite file luxury jump urge cream";

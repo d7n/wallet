@@ -1,1 +1,1 @@
-var mnemonic = "swing differ wise hawk century sniff chief swamp lobster tongue ahead carbon";
+var mnemonic = "you autumn rebel problem social bitter kite diet total try index buyer";

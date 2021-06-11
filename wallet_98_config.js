@@ -1,1 +1,1 @@
-var mnemonic = "drill busy toddler mechanic sight stadium exact eye note mouse sort float";
+var mnemonic = "hurt flavor lyrics amazing spring verb glimpse blast water quarter hidden arctic";

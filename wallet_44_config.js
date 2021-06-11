@@ -1,1 +1,1 @@
-var mnemonic = "shove mule wagon erupt puzzle monkey sail distance desert flock dad kit";
+var mnemonic = "whip assist phone appear forget winter impose lake miss beach comic panel";

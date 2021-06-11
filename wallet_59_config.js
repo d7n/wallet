@@ -1,1 +1,1 @@
-var mnemonic = "theme minimum dove entry nurse glue visa display embrace female click gate";
+var mnemonic = "curious sniff loyal warrior joke visit siren grit same shallow any nuclear";

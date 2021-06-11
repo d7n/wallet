@@ -1,1 +1,1 @@
-var mnemonic = "girl course health wet hurdle maple library toilet cotton voyage airport attack";
+var mnemonic = "exhaust bleak test decide stick ship broken weird various floor price moral";

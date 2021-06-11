@@ -1,1 +1,1 @@
-var mnemonic = "mango between party venture multiply senior act thought ill subject outdoor liar";
+var mnemonic = "secret hurt entry steel base uphold priority bread know turn suit indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "rent lamp sort vessel eager ability atom verify tattoo comfort save weasel";
+var mnemonic = "cliff economy scale infant faint off silver ghost consider cart tuna captain";

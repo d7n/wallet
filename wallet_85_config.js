@@ -1,1 +1,1 @@
-var mnemonic = "lens oak zone foil lab code dismiss page art rapid palm erosion";
+var mnemonic = "story cloud excite gold finish peasant biology disagree amazing onion relief betray";

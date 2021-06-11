@@ -1,1 +1,1 @@
-var mnemonic = "slush add sunny kid imitate letter enable morning among spirit top puzzle";
+var mnemonic = "asthma grief carbon bike sunset run ship sea almost embrace drive orchard";

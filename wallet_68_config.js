@@ -1,1 +1,1 @@
-var mnemonic = "pass misery orbit baby jeans echo rate weapon apple dignity slice want";
+var mnemonic = "simple shiver kiwi hidden size angry sister term rebel oak liar equal";

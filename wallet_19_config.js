@@ -1,1 +1,1 @@
-var mnemonic = "rather square emotion exile tortoise panda exercise flock loan same area frost";
+var mnemonic = "miracle salmon toddler airport giant add ketchup express fitness ring pyramid mesh";

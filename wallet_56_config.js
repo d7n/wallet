@@ -1,1 +1,1 @@
-var mnemonic = "remember ability rifle unknown injury maximum enjoy harbor width borrow rack mirror";
+var mnemonic = "luxury mountain vessel actual asthma awesome accident place confirm blade scatter advance";

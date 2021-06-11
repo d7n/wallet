@@ -1,1 +1,1 @@
-var mnemonic = "payment easy huge steel elephant rib advance squeeze lion mind outdoor asset";
+var mnemonic = "guitar wisdom mutual daughter sphere jungle black various actress enemy casino abstract";

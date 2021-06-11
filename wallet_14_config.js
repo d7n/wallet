@@ -1,1 +1,1 @@
-var mnemonic = "dog liar claim scorpion course crouch roof hybrid suggest journey damage ozone";
+var mnemonic = "soon enrich strong similar absorb force shiver proud extra tube core mule";

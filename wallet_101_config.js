@@ -1,1 +1,1 @@
-var mnemonic = "silly shallow image run utility barrel spread faith monitor tuna expire course";
+var mnemonic = "tumble nephew super decade lucky holiday success romance city asthma silent surround";

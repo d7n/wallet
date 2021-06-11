@@ -1,1 +1,1 @@
-var mnemonic = "session ridge enlist know siege little dial meadow session same balcony winner";
+var mnemonic = "sign twice thing gloom rich chair obey cactus uncle hour later green";

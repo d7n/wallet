@@ -1,1 +1,1 @@
-var mnemonic = "brown crack credit burst nerve bag write grass number swamp pluck else";
+var mnemonic = "rural link obtain index saddle chimney fat report sail palace save sentence";

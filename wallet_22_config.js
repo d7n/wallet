@@ -1,1 +1,1 @@
-var mnemonic = "model more angry essay cave nature balance good tribe phrase tell stool";
+var mnemonic = "write cloth punch bid awful disorder saddle stove pull critic push inherit";

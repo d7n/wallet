@@ -1,1 +1,1 @@
-var mnemonic = "manage frequent sense course fan tag chat session napkin pretty spawn tag";
+var mnemonic = "expire dilemma kitchen blast isolate ginger around skate gorilla nation flush tattoo";

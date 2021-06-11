@@ -1,1 +1,1 @@
-var mnemonic = "silver twist wrap mail oblige cousin outer sunny van neck sunny breeze";
+var mnemonic = "relief muscle scout online bind fog ankle nut illegal bridge fold pumpkin";

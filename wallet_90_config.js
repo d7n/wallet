@@ -1,1 +1,1 @@
-var mnemonic = "joy ghost skill tomato flock atom wage agent course knock marriage detect";
+var mnemonic = "chalk wine wink area match guide olive change exhaust spawn assist filter";

@@ -1,1 +1,1 @@
-var mnemonic = "blade expect settle execute express kiss common find banana debate fog window";
+var mnemonic = "dove sword habit suggest tide plug fatal display just master brave token";

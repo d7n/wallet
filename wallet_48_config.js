@@ -1,1 +1,1 @@
-var mnemonic = "monkey stomach catch meat world rival window wrist olive razor double bright";
+var mnemonic = "tiger sister between effort suggest lesson index artist march crater diagram reform";

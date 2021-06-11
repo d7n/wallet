@@ -1,1 +1,1 @@
-var mnemonic = "food brain wink must nephew list movie cattle patch scare blossom pause";
+var mnemonic = "riot match act insect pencil bring blur unhappy gold spot sound fox";

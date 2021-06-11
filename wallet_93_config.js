@@ -1,1 +1,1 @@
-var mnemonic = "angry film slight casino portion gas across print radar attract range reason";
+var mnemonic = "special tomato super ball maximum visual dance used practice release veteran tenant";

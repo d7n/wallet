@@ -1,1 +1,1 @@
-var mnemonic = "symbol soon combine reopen betray depth earth visual episode fame actress kingdom";
+var mnemonic = "prevent enroll measure glance taxi night jealous fancy sugar salmon bamboo video";

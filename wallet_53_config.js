@@ -1,1 +1,1 @@
-var mnemonic = "atom catch oppose job purchase antenna neck resist vintage must between before";
+var mnemonic = "demise elevator indicate true ability search cause toward real power tiny shrimp";

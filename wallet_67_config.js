@@ -1,1 +1,1 @@
-var mnemonic = "ride job embody aware dilemma cover emerge august truth radar distance loop";
+var mnemonic = "ill fitness material loud dash visual powder satoshi nature curtain zero emotion";

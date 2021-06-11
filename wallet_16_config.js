@@ -1,1 +1,1 @@
-var mnemonic = "join castle pottery section box title mammal maze fantasy indicate act van";
+var mnemonic = "thank picnic inhale aerobic below flame update fabric average moon shrimp athlete";

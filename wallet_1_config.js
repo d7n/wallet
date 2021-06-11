@@ -1,1 +1,1 @@
-var mnemonic = "roast tree material extend sun dynamic leopard patch surge cake dismiss way";
+var mnemonic = "click sister pen horror asset wreck toy alien toddler emerge era click";

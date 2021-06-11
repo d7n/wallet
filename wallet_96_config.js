@@ -1,1 +1,1 @@
-var mnemonic = "chalk bright shrimp daughter cheese chaos damage trade decorate chaos thunder rug";
+var mnemonic = "pet wood rude elite agree select robust weasel stick balcony gallery spatial";

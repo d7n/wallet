@@ -1,1 +1,1 @@
-var mnemonic = "emerge suit vapor rate tilt omit canyon zone segment bring connect shy";
+var mnemonic = "destroy wrist region dove alcohol toilet treat click essay volcano horn sign";

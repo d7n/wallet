@@ -1,1 +1,1 @@
-var mnemonic = "equal often endorse rib west admit chicken blur hand nominee outdoor foam";
+var mnemonic = "shy never stove ice rather small clown bitter disorder token loud slide";

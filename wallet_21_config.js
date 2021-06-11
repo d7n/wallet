@@ -1,1 +1,1 @@
-var mnemonic = "switch desert can body lunch soap bike sight enlist song dry fan";
+var mnemonic = "business spoon gauge obscure kit leisure forest problem anxiety believe include cost";

@@ -1,1 +1,1 @@
-var mnemonic = "husband useless reason medal solve comic sample desk since kiwi jealous dignity";
+var mnemonic = "suit all clean goat senior glass session betray kingdom sudden donkey betray";

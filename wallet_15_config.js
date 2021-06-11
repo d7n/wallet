@@ -1,1 +1,1 @@
-var mnemonic = "enroll local dice curtain beyond empty erosion snow shock body clerk vehicle";
+var mnemonic = "dragon soul tomorrow document mean derive common despair range grow refuse album";

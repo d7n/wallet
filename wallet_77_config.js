@@ -1,1 +1,1 @@
-var mnemonic = "alter soft tomorrow hybrid cotton rocket mutual stadium pattern desert pluck regret";
+var mnemonic = "coral fossil sugar manual group half boat push athlete credit hat skill";

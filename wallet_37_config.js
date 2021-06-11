@@ -1,1 +1,1 @@
-var mnemonic = "raven shaft bench auction calm radio message typical fluid hurt midnight bright";
+var mnemonic = "paddle that snake breeze mouse boat gain morning depart scale turkey check";
