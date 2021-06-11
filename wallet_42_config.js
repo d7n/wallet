@@ -1,1 +1,1 @@
-var mnemonic = "violin coast sign carbon reflect ceiling novel canyon family dove cook swallow";
+var mnemonic = "couple shoulder inch drop fortune proof burger yard rocket step scheme weasel";

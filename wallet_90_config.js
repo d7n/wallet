@@ -1,1 +1,1 @@
-var mnemonic = "apple rate bar uniform pulse glance loop exotic review charge beach remove";
+var mnemonic = "island spring venue topic shrimp solution loan middle slot thing squirrel middle";

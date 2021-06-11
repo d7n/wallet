@@ -1,1 +1,1 @@
-var mnemonic = "author cable differ auto nothing pull find flock grow rude devote build";
+var mnemonic = "person erase gun valve guitar cherry describe renew grass diamond actress beach";

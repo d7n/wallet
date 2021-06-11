@@ -1,1 +1,1 @@
-var mnemonic = "village merry bridge turtle abuse loyal mosquito radio water book orient daring";
+var mnemonic = "seat carpet fold flash december toward avocado face rough assault morning brown";

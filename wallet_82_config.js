@@ -1,1 +1,1 @@
-var mnemonic = "pave flash manual spirit reject volcano license ugly husband oven typical ketchup";
+var mnemonic = "treat enjoy outer happy reduce buddy tuition typical width spot must purchase";

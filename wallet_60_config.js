@@ -1,1 +1,1 @@
-var mnemonic = "auction slab shy maximum gap end tape wave fix blur favorite title";
+var mnemonic = "avocado olympic hour trim course series stand milk undo hobby script aerobic";

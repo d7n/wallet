@@ -1,1 +1,1 @@
-var mnemonic = "account frown steak fame hurt current cradle bind cannon glove round weird";
+var mnemonic = "payment electric humor night tongue palace wrist average cram trumpet talk clump";

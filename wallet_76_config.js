@@ -1,1 +1,1 @@
-var mnemonic = "ridge birth muffin accident raven just awesome tiny ring credit cool prison";
+var mnemonic = "slot viable spring electric north spend lion absent december bulk day seed";

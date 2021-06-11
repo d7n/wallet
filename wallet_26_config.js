@@ -1,1 +1,1 @@
-var mnemonic = "convince arrange render slogan alien jazz trick tonight tribe hold pool couch";
+var mnemonic = "subject wealth fix depend snake spot spoon material fragile across pulp nature";

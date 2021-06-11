@@ -1,1 +1,1 @@
-var mnemonic = "outside tackle broccoli bonus satoshi resemble marble combine like fence vacant home";
+var mnemonic = "keen return hurdle orange cross category pencil pudding ostrich faith observe code";

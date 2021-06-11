@@ -1,1 +1,1 @@
-var mnemonic = "soda sorry client brand must advice park render repeat brown sock assault";
+var mnemonic = "brick top calm reflect goddess amazing physical square total decide refuse antenna";

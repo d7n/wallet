@@ -1,1 +1,1 @@
-var mnemonic = "gossip where light ketchup loan sting spend grid shaft unfair clarify shallow";
+var mnemonic = "library essay raccoon present grass jar vacant earth boss fire aisle manual";

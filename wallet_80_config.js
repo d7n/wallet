@@ -1,1 +1,1 @@
-var mnemonic = "hub snack spatial head pelican doctor person ordinary bring trade hold tag";
+var mnemonic = "husband describe almost answer pear concert atom elephant bamboo region hurdle swear";

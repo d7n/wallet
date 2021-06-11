@@ -1,1 +1,1 @@
-var mnemonic = "coin ocean solution speed nothing obvious canal topic speed start airport fork";
+var mnemonic = "become potato dream visual myself opera when spring grain health margin step";

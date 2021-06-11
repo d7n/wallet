@@ -1,1 +1,1 @@
-var mnemonic = "twelve camp tide pyramid twist grass angry miss athlete salmon fault wonder";
+var mnemonic = "glad head front famous best mushroom novel burger skill same balcony park";

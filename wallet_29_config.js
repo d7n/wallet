@@ -1,1 +1,1 @@
-var mnemonic = "raven glory unable raccoon wrist burst uncover chunk festival metal live spawn";
+var mnemonic = "laptop hybrid deer barrel service burden tag million reflect super bicycle naive";

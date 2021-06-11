@@ -1,1 +1,1 @@
-var mnemonic = "current language expose employ arrest unable find plastic monitor tornado other arrange";
+var mnemonic = "grid match bronze swing garden inspire limb alone theory couch deliver warrior";

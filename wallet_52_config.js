@@ -1,1 +1,1 @@
-var mnemonic = "put address multiply casual merge hello broken salon job garment throw stock";
+var mnemonic = "hospital bulk street metal tribe mask stairs torch carry shoulder symbol trip";

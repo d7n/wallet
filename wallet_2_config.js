@@ -1,1 +1,1 @@
-var mnemonic = "skull observe craft left play bachelor gaze eyebrow pelican abstract soup replace";
+var mnemonic = "mosquito gym spawn phone circle remind child gorilla gather play horn uncle";

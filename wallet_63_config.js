@@ -1,1 +1,1 @@
-var mnemonic = "minimum cause banana marine dash will energy found gown bless rug invest";
+var mnemonic = "antenna consider page body unaware normal toast relief liar scan live tattoo";

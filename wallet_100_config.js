@@ -1,1 +1,1 @@
-var mnemonic = "dish tragic borrow first material congress silly fine forget soft prosper egg";
+var mnemonic = "brief ostrich ritual ostrich ten palm stove usage habit act aspect hover";

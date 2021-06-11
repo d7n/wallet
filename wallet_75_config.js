@@ -1,1 +1,1 @@
-var mnemonic = "shift zoo decide dune own apology artist defense catch peace seminar weapon";
+var mnemonic = "combine gate genius bitter hen wealth input cargo hazard turtle power banner";

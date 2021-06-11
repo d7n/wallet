@@ -1,1 +1,1 @@
-var mnemonic = "milk error dice slim jump verify group grace tennis job battle energy";
+var mnemonic = "wagon food eager core tunnel brass regular fabric gate cluster shaft delay";

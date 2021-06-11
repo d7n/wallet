@@ -1,1 +1,1 @@
-var mnemonic = "phone action manage early public about chapter crane decade volcano enlist elbow";
+var mnemonic = "phone swift wasp moon unhappy broccoli hill knee alpha grit comfort rug";

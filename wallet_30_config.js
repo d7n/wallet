@@ -1,1 +1,1 @@
-var mnemonic = "puzzle follow useless happy any public kiwi meat spoil clock food sense";
+var mnemonic = "battle brave swift worry tonight nuclear now throw image tooth wolf stairs";

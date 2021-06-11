@@ -1,1 +1,1 @@
-var mnemonic = "mixed hour defy affair phone civil leaf van wet setup good dumb";
+var mnemonic = "immune layer album attack express loyal volume flag happy arm melody negative";

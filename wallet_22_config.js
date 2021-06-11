@@ -1,1 +1,1 @@
-var mnemonic = "crowd result cliff proof envelope tuna scissors laundry train skirt false enjoy";
+var mnemonic = "picnic borrow hip salad twice knee task cloud reason toss few electric";

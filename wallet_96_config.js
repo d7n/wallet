@@ -1,1 +1,1 @@
-var mnemonic = "cloud appear raccoon ahead find cricket tone banana buyer trap bridge dance";
+var mnemonic = "public power bid balance unfold hero desk hub engage economy boy sphere";

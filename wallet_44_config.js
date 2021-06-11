@@ -1,1 +1,1 @@
-var mnemonic = "pole session menu spare casual calm number hello ocean depend pipe pyramid";
+var mnemonic = "embark useless poverty pelican absorb armed area exit borrow essence eager skill";

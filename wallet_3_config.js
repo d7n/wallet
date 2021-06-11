@@ -1,1 +1,1 @@
-var mnemonic = "asthma result beef typical potato entire frown plug upon spice rose list";
+var mnemonic = "useful movie pupil ridge defy indicate access destroy dog today draw market";

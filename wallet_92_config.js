@@ -1,1 +1,1 @@
-var mnemonic = "seat disorder predict mass bus metal ride buffalo unfold miss define exact";
+var mnemonic = "harbor area next attack embrace hold barrel spread able thing diesel grape";

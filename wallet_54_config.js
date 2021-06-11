@@ -1,1 +1,1 @@
-var mnemonic = "gentle elephant convince decide topple company lizard panda wash faint uphold car";
+var mnemonic = "crisp list trap choose trophy brush until club during diamond daring winner";

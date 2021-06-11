@@ -1,1 +1,1 @@
-var mnemonic = "infant leopard purpose begin senior enlist sport know match poet quote modify";
+var mnemonic = "volcano link butter toss domain best confirm clump essay junk trash mountain";

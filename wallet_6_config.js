@@ -1,1 +1,1 @@
-var mnemonic = "remove claim hotel luxury pilot age grain first genre puppy clinic require";
+var mnemonic = "winner blanket mule online drastic combine subway fortune poet excess during motion";

@@ -1,1 +1,1 @@
-var mnemonic = "coin evidence cupboard six artefact woman march milk axis vicious into danger";
+var mnemonic = "protect fabric dynamic feed stool craft extend movie layer any state foam";

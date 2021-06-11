@@ -1,1 +1,1 @@
-var mnemonic = "wrestle midnight various like pill universe table slight wasp egg prevent taste";
+var mnemonic = "remind pole file film chair rail abandon target elbow chicken fetch noise";

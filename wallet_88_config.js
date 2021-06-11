@@ -1,1 +1,1 @@
-var mnemonic = "movie exercise garage expire oxygen drama estate nation sad display bonus clinic";
+var mnemonic = "library asthma disease hollow enlist cinnamon amateur unusual cake pilot farm cargo";

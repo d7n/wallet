@@ -1,1 +1,1 @@
-var mnemonic = "luggage armed under gather fence limit rebuild school soldier citizen attack town";
+var mnemonic = "member float almost like step cake salt tomorrow half topple upgrade plastic";

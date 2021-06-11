@@ -1,1 +1,1 @@
-var mnemonic = "snack shell grief rival mercy usage pattern crouch permit name fluid echo";
+var mnemonic = "excite filter fame aerobic mango arrive wild kind spring march drop desert";

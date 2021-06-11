@@ -1,1 +1,1 @@
-var mnemonic = "flee practice journey weekend tennis play enact quit during walnut sadness print";
+var mnemonic = "return limb chalk gas balcony occur tornado atom cover that virus fox";

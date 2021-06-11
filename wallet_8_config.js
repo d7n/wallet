@@ -1,1 +1,1 @@
-var mnemonic = "open lucky kid hard this repeat turn antique traffic there parade energy";
+var mnemonic = "shove danger hockey runway brief focus brain once upon gym will leisure";

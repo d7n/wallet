@@ -1,1 +1,1 @@
-var mnemonic = "length display achieve because version ginger dawn wage history vendor census edit";
+var mnemonic = "sponsor mad creek license business access key idea fresh waste own antique";

@@ -1,1 +1,1 @@
-var mnemonic = "discover hybrid also pelican where move verb resemble trap balcony resemble coin";
+var mnemonic = "expose film stove mistake poverty large toward bar wait melody decrease sting";

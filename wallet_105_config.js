@@ -1,1 +1,1 @@
-var mnemonic = "analyst undo plastic satisfy option physical divert cement pledge frequent carry erupt";
+var mnemonic = "hamster jewel earth cereal junk reason once bottom safe steel fringe mom";

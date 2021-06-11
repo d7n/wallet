@@ -1,1 +1,1 @@
-var mnemonic = "whisper feed help crucial circle rescue solve release ceiling picnic enlist era";
+var mnemonic = "company rigid grid fantasy hat strike share brand pink earn claw road";

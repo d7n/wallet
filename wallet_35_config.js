@@ -1,1 +1,1 @@
-var mnemonic = "essence unaware tragic ocean empty exhaust author boy caught wasp relax grape";
+var mnemonic = "solid arena guess toss where blue transfer adult sleep say ceiling oyster";

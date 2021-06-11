@@ -1,1 +1,1 @@
-var mnemonic = "foil bomb elder sing velvet public blame decrease label turkey salt lunch";
+var mnemonic = "spell segment equal problem fabric story rely honey cool conduct chef bag";

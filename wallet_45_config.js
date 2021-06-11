@@ -1,1 +1,1 @@
-var mnemonic = "execute wet reason photo green hood put practice federal oven merry pull";
+var mnemonic = "swarm arrow again picnic hollow flight birth illegal cream vague rather error";

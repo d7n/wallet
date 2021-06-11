@@ -1,1 +1,1 @@
-var mnemonic = "unusual dial siege kit phone fox reform lunch alcohol myself adult camp";
+var mnemonic = "mother follow theory arrest often chat uniform enemy bread panic cube dish";

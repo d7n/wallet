@@ -1,1 +1,1 @@
-var mnemonic = "mammal canvas about village chest sphere fringe damp dove shadow always clog";
+var mnemonic = "coconut rookie item core order scan truly leg useful nice kind letter";

@@ -1,1 +1,1 @@
-var mnemonic = "service ostrich off soup kiss note mango useful runway crystal laundry forward";
+var mnemonic = "safe escape metal security power idle noise safe garden clever jar exchange";

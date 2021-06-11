@@ -1,1 +1,1 @@
-var mnemonic = "arrest nice typical file people avocado digital garlic question muscle glue fragile";
+var mnemonic = "student cross arrive decade ivory assault seat they come plug solid city";

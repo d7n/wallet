@@ -1,1 +1,1 @@
-var mnemonic = "gloom body pottery digital seven copper guess mad depart spread say eagle";
+var mnemonic = "bird tent cloud defy space pink ranch lawsuit camera cherry ski garlic";

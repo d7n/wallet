@@ -1,1 +1,1 @@
-var mnemonic = "fashion coyote old want they snow excite submit chat midnight access diet";
+var mnemonic = "weather duck spot raven orphan sick treat trend become note leader build";

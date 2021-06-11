@@ -1,1 +1,1 @@
-var mnemonic = "next wealth polar route clutch salmon strike lion earn vapor exit fuel";
+var mnemonic = "monster father dress wagon before ski like word upper around lift novel";

@@ -1,1 +1,1 @@
-var mnemonic = "machine wheel coast erase lazy tree exit arm wheel mail boring snow";
+var mnemonic = "run keep member virtual never search act floor suggest wagon diagram shed";

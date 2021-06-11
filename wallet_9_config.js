@@ -1,1 +1,1 @@
-var mnemonic = "firm absorb sign fringe predict opera lunch always treat group raise claim";
+var mnemonic = "medal art fortune limit hurdle practice phrase exact dish enrich party target";

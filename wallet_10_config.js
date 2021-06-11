@@ -1,1 +1,1 @@
-var mnemonic = "brain problem system foil climb claim cheap gain rose winner future armed";
+var mnemonic = "poet charge final buffalo ghost about gun knee source work abuse example";

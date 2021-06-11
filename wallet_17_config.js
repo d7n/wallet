@@ -1,1 +1,1 @@
-var mnemonic = "cable only regret that iron puppy middle point flush indoor crystal hill";
+var mnemonic = "similar menu nest grant milk tennis attack skirt tackle title dog hurt";

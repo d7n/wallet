@@ -1,1 +1,1 @@
-var mnemonic = "address same giggle bargain equal during fancy immense add play tomato inside";
+var mnemonic = "bright smoke six slender entire grit once pledge rhythm sort stove run";

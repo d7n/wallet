@@ -1,1 +1,1 @@
-var mnemonic = "uncle dinner shaft scale garlic color hospital trap penalty royal face roof";
+var mnemonic = "energy security proud grape alert gold six law private beyond fresh cave";

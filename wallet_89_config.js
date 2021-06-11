@@ -1,1 +1,1 @@
-var mnemonic = "decrease bench need audit grit market pyramid token three warfare symbol aunt";
+var mnemonic = "team illegal motor concert clown latin erode priority oil barrel awake elite";

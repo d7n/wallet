@@ -1,1 +1,1 @@
-var mnemonic = "artwork man sure broccoli tree best liar glance anxiety tube lift crawl";
+var mnemonic = "boring trash zebra news hamster quantum elevator rotate monitor museum hedgehog foam";

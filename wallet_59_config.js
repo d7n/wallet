@@ -1,1 +1,1 @@
-var mnemonic = "demand faint lamp pole toss history vivid radio assist desk patient give";
+var mnemonic = "win opera summer heavy inquiry betray close odor vicious oyster write morning";

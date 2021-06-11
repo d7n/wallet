@@ -1,1 +1,1 @@
-var mnemonic = "all fault abandon blood south rescue lounge car height stay trumpet october";
+var mnemonic = "match punch caution police weird remove vibrant innocent sphere bounce tattoo credit";

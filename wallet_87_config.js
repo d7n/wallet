@@ -1,1 +1,1 @@
-var mnemonic = "race pond fringe web screen travel height patient same chuckle comic company";
+var mnemonic = "live rocket balance end destroy hamster burger then net apart super apart";

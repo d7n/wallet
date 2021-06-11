@@ -1,1 +1,1 @@
-var mnemonic = "actual movie legend layer city divide element liberty wear skate swarm trash";
+var mnemonic = "sheriff screen room skill primary fiction labor scale fox sorry gate silly";

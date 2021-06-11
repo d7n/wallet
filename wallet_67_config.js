@@ -1,1 +1,1 @@
-var mnemonic = "tide narrow spray cube render wear crazy system suspect fun mass sudden";
+var mnemonic = "wood festival organ sick design power curtain milk item remain amazing refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "loan glad rich pilot cash used lock weird amateur school hold interest";
+var mnemonic = "crumble inspire trial melt fortune knife antenna cool soup time cabin noise";

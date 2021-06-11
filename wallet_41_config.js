@@ -1,1 +1,1 @@
-var mnemonic = "tuition buyer achieve hen destroy better position must convince comic stool outside";
+var mnemonic = "naive chronic tide return brief cereal olive behave swing predict stand icon";

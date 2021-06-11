@@ -1,1 +1,1 @@
-var mnemonic = "catalog diesel absorb leisure goose club point foster used total silk also";
+var mnemonic = "file nut traffic act tribe very release ivory spike tray access bulb";

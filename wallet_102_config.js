@@ -1,1 +1,1 @@
-var mnemonic = "skirt sheriff donate fossil embrace dismiss liar loud leisure excuse item clump";
+var mnemonic = "monster robust shadow spray jungle property mansion culture mammal equal foster shield";

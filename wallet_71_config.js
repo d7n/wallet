@@ -1,1 +1,1 @@
-var mnemonic = "grace true lab fruit idea keen mix magic apple glory response oblige";
+var mnemonic = "panic guitar game lucky empty knock swim unable start furnace space defy";

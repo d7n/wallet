@@ -1,1 +1,1 @@
-var mnemonic = "top myself extra guide method loop easy festival stairs wasp vendor angle";
+var mnemonic = "conduct bomb logic brown chat salute habit night mystery soul trigger ocean";

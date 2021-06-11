@@ -1,1 +1,1 @@
-var mnemonic = "lend federal credit duck pond angle shrimp wrap such rack cute minor";
+var mnemonic = "rare divorce remove bottom daughter roof mountain empower smart board square pulp";

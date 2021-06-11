@@ -1,1 +1,1 @@
-var mnemonic = "top vast girl valid hurry hub shiver gift cream jazz unknown doctor";
+var mnemonic = "pioneer banana nose pottery nation inspire domain idle price gym island bench";

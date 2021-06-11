@@ -1,1 +1,1 @@
-var mnemonic = "orange carbon direct broccoli normal syrup change stomach vast service mouse convince";
+var mnemonic = "question length mirror layer cry ugly damp buffalo copy initial alone swift";

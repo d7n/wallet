@@ -1,1 +1,1 @@
-var mnemonic = "cousin sand mosquito seminar talk fix warrior chapter fire term absurd soap";
+var mnemonic = "swear pool one term high planet awkward satoshi paddle south verb above";

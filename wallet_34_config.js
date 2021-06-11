@@ -1,1 +1,1 @@
-var mnemonic = "clever truth journey truck pole lamp version dose choose swallow vivid raise";
+var mnemonic = "dust swing game erase drip quiz envelope trophy biology repeat picture car";

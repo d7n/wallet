@@ -1,1 +1,1 @@
-var mnemonic = "tackle nephew certain about garlic spend federal bulb like more inch common";
+var mnemonic = "amazing later mass maximum universe miracle poem liar plastic road produce silent";

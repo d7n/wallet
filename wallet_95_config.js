@@ -1,1 +1,1 @@
-var mnemonic = "distance youth link dose click couch dice clinic fluid actual melt index";
+var mnemonic = "mimic found car sustain usage later once stove expire ladder control crop";

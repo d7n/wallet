@@ -1,1 +1,1 @@
-var mnemonic = "earn indoor imitate half ankle culture frequent rapid autumn welcome basket police";
+var mnemonic = "security mouse couch defense chaos swap gown tobacco embark cream baby candy";

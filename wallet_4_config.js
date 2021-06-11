@@ -1,1 +1,1 @@
-var mnemonic = "grab misery stove frog legal deal canvas nation shove project rail rigid";
+var mnemonic = "fade river duck catalog private squirrel exhaust parent evoke topple hybrid royal";

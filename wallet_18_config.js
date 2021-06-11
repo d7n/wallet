@@ -1,1 +1,1 @@
-var mnemonic = "borrow oval remove fantasy extra palm industry shine indoor remain student giggle";
+var mnemonic = "stadium monkey copper attend jump quote better hover athlete leaf surprise clever";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor blanket page almost skull current decorate pistol spice bench giggle swing";
+var mnemonic = "arch volcano buyer purchase broken tomato barely wealth capable enact human nurse";

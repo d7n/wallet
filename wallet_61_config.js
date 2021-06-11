@@ -1,1 +1,1 @@
-var mnemonic = "enemy end first clog urge weapon argue candy drift upon twist ritual";
+var mnemonic = "rail place gap shiver enough large laugh moment age jeans either planet";

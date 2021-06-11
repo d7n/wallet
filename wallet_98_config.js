@@ -1,1 +1,1 @@
-var mnemonic = "average require hill hazard easily month size flush slogan square pink maximum";
+var mnemonic = "consider tornado exercise toss mention ski trumpet spy cradle scene thunder pattern";

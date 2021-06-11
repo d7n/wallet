@@ -1,1 +1,1 @@
-var mnemonic = "muscle boy artefact peanut moral domain cactus viable lab heavy excite medal";
+var mnemonic = "mouse cry brain list cherry party help wear profit salt tired hammer";

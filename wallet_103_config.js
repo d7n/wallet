@@ -1,1 +1,1 @@
-var mnemonic = "kingdom swarm lion advice outer earth raccoon ritual crack tool fit across";
+var mnemonic = "plate grain tenant thrive spot air sniff dragon siren polar junk equip";

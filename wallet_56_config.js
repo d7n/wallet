@@ -1,1 +1,1 @@
-var mnemonic = "pass valid tourist slender suit lecture mind garment tree tank tip lawn";
+var mnemonic = "spider call coral ghost coyote face dizzy vacant similar child provide pink";

@@ -1,1 +1,1 @@
-var mnemonic = "month smart hover tenant must ripple bounce bean elite elevator hint tank";
+var mnemonic = "alter pioneer select mule oxygen match dance eagle simple strike rice portion";
