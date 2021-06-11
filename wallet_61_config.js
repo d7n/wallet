@@ -1,1 +1,1 @@
-var mnemonic = "matter ginger flavor attend arrive post city long credit museum fiber skin";
+var mnemonic = "open title clinic enjoy west brush dust claw boss sunny letter version";

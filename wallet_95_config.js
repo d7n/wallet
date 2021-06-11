@@ -1,1 +1,1 @@
-var mnemonic = "book basic hurry love gain reason leader glow dish snake spot chalk";
+var mnemonic = "symptom strategy car rescue sword swing naive throw elder this assist banner";

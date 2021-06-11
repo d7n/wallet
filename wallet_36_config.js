@@ -1,1 +1,1 @@
-var mnemonic = "shrimp pattern obtain void tribe hockey nominee goat sudden off vacant burger";
+var mnemonic = "blanket wire extra boy hair awkward divert you envelope clinic leg visual";

@@ -1,1 +1,1 @@
-var mnemonic = "three decrease width found giant awesome muscle close cluster before jealous setup";
+var mnemonic = "famous stock eternal jealous feed teach assault grunt coffee champion bean talk";

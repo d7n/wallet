@@ -1,1 +1,1 @@
-var mnemonic = "guess oblige kiss evil top fire media pluck cousin boil rebel mass";
+var mnemonic = "robust ten turtle ostrich clip push olympic spend bubble aerobic about fetch";

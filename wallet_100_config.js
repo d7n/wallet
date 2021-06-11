@@ -1,1 +1,1 @@
-var mnemonic = "drill road disease napkin limb habit agent claim burst valid gravity dragon";
+var mnemonic = "idle float peanut devote jelly crumble decline gaze swarm bag early stereo";

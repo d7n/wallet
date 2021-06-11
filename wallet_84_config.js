@@ -1,1 +1,1 @@
-var mnemonic = "item zoo skill bacon neutral mind lawn enroll join teach flee change";
+var mnemonic = "bless diamond gentle blanket opera trend absorb series cherry live spin fade";

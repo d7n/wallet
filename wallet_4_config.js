@@ -1,1 +1,1 @@
-var mnemonic = "fee fashion alter shrug expect early canvas gasp limb success wet nice";
+var mnemonic = "rebuild egg cruel half suspect female title typical idea economy reject volcano";

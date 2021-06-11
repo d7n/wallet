@@ -1,1 +1,1 @@
-var mnemonic = "noodle hen symbol shed trial weather foot size toast lawn enlist cube";
+var mnemonic = "flat globe nature solution myself funny tongue brief uncover shy tongue bunker";

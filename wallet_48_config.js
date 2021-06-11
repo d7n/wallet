@@ -1,1 +1,1 @@
-var mnemonic = "dawn jungle couch funny repair hero issue diary sample exercise blast glimpse";
+var mnemonic = "canyon knee loud soul write pudding shield transfer also anxiety acoustic excuse";

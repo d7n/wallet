@@ -1,1 +1,1 @@
-var mnemonic = "item double buzz wage describe oval anchor hub can shoulder idea able";
+var mnemonic = "fatigue print surprise buddy gorilla neither champion stay warm paper interest spread";

@@ -1,1 +1,1 @@
-var mnemonic = "drill miss cactus boil fault primary north swim company live hood guard";
+var mnemonic = "waste attack soul embody sunset office three cupboard judge twist flock trick";

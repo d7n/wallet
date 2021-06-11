@@ -1,1 +1,1 @@
-var mnemonic = "junk stock lumber shoe duty remind snap client juice sense magic depart";
+var mnemonic = "anger sadness champion utility nation jacket home awesome memory flush route shine";

@@ -1,1 +1,1 @@
-var mnemonic = "census issue unveil gas mercy chief column basket drive skirt dirt more";
+var mnemonic = "calm nasty regret angle piece since still citizen runway lunar luxury gold";

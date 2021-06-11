@@ -1,1 +1,1 @@
-var mnemonic = "peanut twin clip harvest check cigar mother above leopard kiss guilt script";
+var mnemonic = "spoon man fluid actress remain opera combine transfer caution dog vehicle test";

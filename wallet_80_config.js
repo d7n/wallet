@@ -1,1 +1,1 @@
-var mnemonic = "ranch problem sort bag cry web unhappy width veteran drastic truck agent";
+var mnemonic = "shift mechanic soul text world mixture truck canal surprise tribe rally venue";

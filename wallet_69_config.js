@@ -1,1 +1,1 @@
-var mnemonic = "alarm whip jelly only pear wall napkin pilot drip camp garment chalk";
+var mnemonic = "attract setup vague side maximum catch book gorilla keep replace critic violin";

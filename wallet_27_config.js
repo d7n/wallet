@@ -1,1 +1,1 @@
-var mnemonic = "need cargo rate situate fashion distance arrow teach soap nominee gentle start";
+var mnemonic = "race iron chalk body swear object chuckle false always potato busy switch";

@@ -1,1 +1,1 @@
-var mnemonic = "trade camp pig top jar ugly act say cream couch tornado will";
+var mnemonic = "current ordinary climb rug monkey burger humor another column poverty right stem";

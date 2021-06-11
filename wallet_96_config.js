@@ -1,1 +1,1 @@
-var mnemonic = "capable mule copper engage immune fashion wisdom artist ketchup daring issue near";
+var mnemonic = "speak rug ceiling grief stone lottery thing sentence pitch cherry country pause";

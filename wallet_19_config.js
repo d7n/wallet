@@ -1,1 +1,1 @@
-var mnemonic = "journey rescue labor sock stone purse cement pause hawk iron rough method";
+var mnemonic = "evolve december energy crater sugar skirt process click apology bulb range route";

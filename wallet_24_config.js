@@ -1,1 +1,1 @@
-var mnemonic = "dad repair same enable parent title key release spare coyote school coral";
+var mnemonic = "hedgehog stadium urban zone alley whisper hungry loop health wild input glow";

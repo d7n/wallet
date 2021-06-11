@@ -1,1 +1,1 @@
-var mnemonic = "jelly trophy cheap innocent illness salt either call skirt labor can salute";
+var mnemonic = "card aerobic sing trial desert garbage rib organ tell bargain exchange before";

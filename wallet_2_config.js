@@ -1,1 +1,1 @@
-var mnemonic = "fever wasp brother party west slide vicious tongue scatter first congress narrow";
+var mnemonic = "design economy endless fatal rice absent eagle attend debate author daughter rib";

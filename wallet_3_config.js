@@ -1,1 +1,1 @@
-var mnemonic = "boil fan trash industry helmet document quarter tobacco tumble recall vote enlist";
+var mnemonic = "same notable hip monster alien snack cloud scheme pill tide wrestle tired";

@@ -1,1 +1,1 @@
-var mnemonic = "duck police wing step prefer carry economy decade dumb ticket night unlock";
+var mnemonic = "action absent equip hold ankle border into exhaust marine guilt crop liar";

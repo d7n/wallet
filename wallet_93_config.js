@@ -1,1 +1,1 @@
-var mnemonic = "heavy tide media cabbage type system fringe uphold gift rare honey kick";
+var mnemonic = "early canal wisdom dragon radio cool salute grow velvet guide poet timber";

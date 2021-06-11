@@ -1,1 +1,1 @@
-var mnemonic = "mention unveil purity fold palace comic dynamic erosion regret survey cancel orchard";
+var mnemonic = "patient arrow chief rain review brother rather media social quit cliff aware";

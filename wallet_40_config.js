@@ -1,1 +1,1 @@
-var mnemonic = "find unable comic diamond delay warfare little neglect fee book federal solid";
+var mnemonic = "fun fetch scan budget sport clown age second sun wash local discover";

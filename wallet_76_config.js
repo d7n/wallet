@@ -1,1 +1,1 @@
-var mnemonic = "damage tobacco able wet comic elevator bomb opera walnut gaze rural report";
+var mnemonic = "solar student gap flavor update tent ankle tribe ancient cluster forward clean";

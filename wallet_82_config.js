@@ -1,1 +1,1 @@
-var mnemonic = "spoil push upgrade limb emotion gold park concert canyon before fine solar";
+var mnemonic = "phone repeat oval hamster come script aunt jealous imitate enroll liar monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza century float network network elder rate sort suggest throw certain ride";
+var mnemonic = "upper lion update fossil next piece lake exile broken general umbrella arrow";

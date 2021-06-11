@@ -1,1 +1,1 @@
-var mnemonic = "away slush word pigeon decorate cook kiwi voice account village mixture shiver";
+var mnemonic = "approve arrest apology turtle raccoon radar boss plastic drift grit can notice";

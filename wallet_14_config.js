@@ -1,1 +1,1 @@
-var mnemonic = "inside major grant shaft idle icon virus arrange leader skirt dolphin wheel";
+var mnemonic = "toy scout cannon faculty material brother road cat pepper pen neither clip";

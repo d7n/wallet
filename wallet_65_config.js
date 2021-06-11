@@ -1,1 +1,1 @@
-var mnemonic = "refuse tortoise carpet gentle journey amazing payment decorate ramp leisure nothing crater";
+var mnemonic = "project sting iron moon veteran deny impose utility foil broccoli sea icon";

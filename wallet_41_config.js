@@ -1,1 +1,1 @@
-var mnemonic = "frown submit sustain release stool novel scheme potato mixture corn fiber actor";
+var mnemonic = "month myself length display draft tenant innocent arctic fit odor relax frame";

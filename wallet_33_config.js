@@ -1,1 +1,1 @@
-var mnemonic = "smart poet try seminar blush athlete primary laundry eyebrow gravity east guess";
+var mnemonic = "endless ticket globe satoshi worth jar negative country idle elite marriage echo";

@@ -1,1 +1,1 @@
-var mnemonic = "valid skate knock theory best fat right lake photo laugh tape device";
+var mnemonic = "leg danger item put vendor tribe term young hood dynamic system speed";

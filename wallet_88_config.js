@@ -1,1 +1,1 @@
-var mnemonic = "donkey reveal sheriff tobacco avocado baby behave struggle water track check fine";
+var mnemonic = "crew rescue accident worth tail reason predict obvious furnace torch away short";

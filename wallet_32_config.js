@@ -1,1 +1,1 @@
-var mnemonic = "exclude winner plastic pink dice belt escape mushroom bring cactus intact live";
+var mnemonic = "almost glass island install tide umbrella huge drip sketch tooth rent naive";

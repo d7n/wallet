@@ -1,1 +1,1 @@
-var mnemonic = "glass salmon region menu breeze half thrive furnace barely flat target deliver";
+var mnemonic = "budget warfare learn urban deny affair enough notable salt torch adapt half";

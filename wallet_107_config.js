@@ -1,1 +1,1 @@
-var mnemonic = "series settle goose safe odor recall describe sample cannon tourist engage depth";
+var mnemonic = "gauge kiss write farm reject face source crew govern explain album narrow";

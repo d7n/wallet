@@ -1,1 +1,1 @@
-var mnemonic = "enable orient attitude advice ill space pupil drop basic rebel kidney energy";
+var mnemonic = "please bench region copper scrub shrimp episode walk mask merit great seven";

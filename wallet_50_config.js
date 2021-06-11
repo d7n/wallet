@@ -1,1 +1,1 @@
-var mnemonic = "economy wasp pond enrich buzz helmet online few east firm subway pull";
+var mnemonic = "pyramid hamster success blossom lady acoustic bullet title gown coffee seminar fork";

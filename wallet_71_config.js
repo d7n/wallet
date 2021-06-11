@@ -1,1 +1,1 @@
-var mnemonic = "ginger merit gain novel merit scout ribbon seven innocent trophy absurd sugar";
+var mnemonic = "defy until draw rich talk nominee sniff thumb genre weekend hurry matter";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal proud monster piano live open project patrol bounce until bundle flip";
+var mnemonic = "hockey raven humble surge describe vintage wealth midnight snap dirt own fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor grid thought crunch quote electric mountain before this image split bar";
+var mnemonic = "chief mutual lend effort disagree usual cigar airport output excuse volcano badge";

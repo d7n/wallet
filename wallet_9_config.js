@@ -1,1 +1,1 @@
-var mnemonic = "dance bicycle noise before whip cover gas current giant tree float ahead";
+var mnemonic = "use name soap suit priority raven box rigid aware zone head setup";

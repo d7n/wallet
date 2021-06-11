@@ -1,1 +1,1 @@
-var mnemonic = "dress debate rate brown interest rose cage shrug crucial vacant worth frost";
+var mnemonic = "usage ranch payment winner source guilt reason wink giraffe inside excess news";

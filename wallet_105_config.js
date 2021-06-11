@@ -1,1 +1,1 @@
-var mnemonic = "elbow almost ketchup flee foot boil appear ozone task old prize crawl";
+var mnemonic = "outer scene olympic search ostrich train oxygen awful license photo actress comfort";

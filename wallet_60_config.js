@@ -1,1 +1,1 @@
-var mnemonic = "lizard close alpha craft manual wife process neck slender umbrella awful tunnel";
+var mnemonic = "train viable bottom cabbage virus birth hockey open select raccoon stamp cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "cram rookie tomato olive early month walnut ladder surround bitter road anger";
+var mnemonic = "hockey mention clutch already below chicken journey know kite verb town grant";

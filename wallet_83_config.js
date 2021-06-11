@@ -1,1 +1,1 @@
-var mnemonic = "boy acquire poverty step park subway scare error try pluck abandon rent";
+var mnemonic = "dust sunny tiny pipe loop cricket age pledge sketch minimum frozen sustain";

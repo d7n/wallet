@@ -1,1 +1,1 @@
-var mnemonic = "torch cloth donkey dynamic thing blood present spice apology have session distance";
+var mnemonic = "plastic tackle profit exclude example beef advance circle faint hard borrow noble";

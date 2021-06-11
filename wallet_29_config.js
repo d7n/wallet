@@ -1,1 +1,1 @@
-var mnemonic = "spin worth suffer fossil sadness owner agree oak century tobacco photo cushion";
+var mnemonic = "choice uphold crunch apology practice decade warm world canvas faint axis hobby";

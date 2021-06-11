@@ -1,1 +1,1 @@
-var mnemonic = "family visual attract door host kangaroo dash rather debris degree correct weasel";
+var mnemonic = "machine calm hurdle inner crisp actress fitness raccoon plate slush join elegant";

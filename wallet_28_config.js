@@ -1,1 +1,1 @@
-var mnemonic = "recall clog century lizard either member wrong hazard jaguar zero spell behave";
+var mnemonic = "feed merry permit raccoon soup thing mansion foam shove twin island swallow";

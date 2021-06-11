@@ -1,1 +1,1 @@
-var mnemonic = "flame van poverty monitor soccer install around green ring junior odor base";
+var mnemonic = "embody analyst sadness toilet phone track slice thing song gauge honey consider";

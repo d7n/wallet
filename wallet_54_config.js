@@ -1,1 +1,1 @@
-var mnemonic = "cannon world camp skate slide sock crowd era nasty hire future above";
+var mnemonic = "find fiscal universe erupt west ripple consider real ski hard ethics allow";

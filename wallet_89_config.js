@@ -1,1 +1,1 @@
-var mnemonic = "waste boring gaze glass gadget patient paddle pumpkin tube spice skill virus";
+var mnemonic = "coach census dune topic canvas absorb busy boost analyst glass desk rebel";

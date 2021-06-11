@@ -1,1 +1,1 @@
-var mnemonic = "object spawn liar aisle ahead affair cigar develop air few inch cable";
+var mnemonic = "leaf quiz inch increase chest million horn warrior sugar buddy horse dune";

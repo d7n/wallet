@@ -1,1 +1,1 @@
-var mnemonic = "purity honey square arena method offer cancel brass symbol stove judge purity";
+var mnemonic = "slush pact blame gas evolve run bachelor layer fury dwarf sister abuse";

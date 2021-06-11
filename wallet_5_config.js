@@ -1,1 +1,1 @@
-var mnemonic = "soda champion domain team picnic evil furnace capable system buffalo awesome coach";
+var mnemonic = "month portion there credit cannon proof cushion ginger flush fiction wave common";

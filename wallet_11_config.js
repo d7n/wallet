@@ -1,1 +1,1 @@
-var mnemonic = "stock save enable lesson toast solar idea arctic modify coffee vibrant guess";
+var mnemonic = "satoshi sword educate laugh label select item square public clerk suffer stomach";

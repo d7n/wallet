@@ -1,1 +1,1 @@
-var mnemonic = "web excite fox room dose vote develop salon spend drink demise scrap";
+var mnemonic = "manage truly wide own best magic inmate keep treat negative tent pact";

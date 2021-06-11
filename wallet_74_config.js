@@ -1,1 +1,1 @@
-var mnemonic = "jacket royal hero submit potato main message ahead sorry move interest bring";
+var mnemonic = "waste hidden glare debate display diary critic lake text diary thumb control";

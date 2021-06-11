@@ -1,1 +1,1 @@
-var mnemonic = "spend scrub hurdle tongue air now club dentist survey dawn situate mail";
+var mnemonic = "better infant combine viable fresh exile drastic owner caught giggle leaf honey";

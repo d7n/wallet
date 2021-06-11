@@ -1,1 +1,1 @@
-var mnemonic = "noise cable farm couch taxi december list identify student receive asset debris";
+var mnemonic = "noise valid dizzy grocery inner grow inner maze cat maid market save";

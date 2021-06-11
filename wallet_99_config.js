@@ -1,1 +1,1 @@
-var mnemonic = "present govern arrow oven leg warrior atom spell inmate wall lady catalog";
+var mnemonic = "bar view autumn report nurse walk appear envelope asset shop spatial wine";

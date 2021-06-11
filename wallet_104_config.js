@@ -1,1 +1,1 @@
-var mnemonic = "dizzy tired siren actress situate razor mirror boost electric uniform weasel frame";
+var mnemonic = "nerve right sense shift sketch festival crisp three equal inject excess grocery";

@@ -1,1 +1,1 @@
-var mnemonic = "crawl assume iron regular surprise memory dizzy laundry supreme style drip torch";
+var mnemonic = "ocean post match autumn farm boil style live miss way reopen battle";

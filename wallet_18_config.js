@@ -1,1 +1,1 @@
-var mnemonic = "cover exchange notable junior ticket message delay stairs hawk cage funny enrich";
+var mnemonic = "drink lobster solar era minimum swim ordinary road manage helmet beef pill";

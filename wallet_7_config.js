@@ -1,1 +1,1 @@
-var mnemonic = "pond olympic banner rural skin fiscal wing orphan glare fluid gather flame";
+var mnemonic = "vacuum useless collect pond sea consider once shift you tree sail assist";

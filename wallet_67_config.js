@@ -1,1 +1,1 @@
-var mnemonic = "claw wreck feel neck merry finish hedgehog mix labor apology cricket scan";
+var mnemonic = "walnut float have make wage fish vast dawn assume foam file action";

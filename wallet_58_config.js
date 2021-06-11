@@ -1,1 +1,1 @@
-var mnemonic = "swing tooth agent recycle earn begin lazy clerk shock dinosaur response shaft";
+var mnemonic = "decide magic print knife burden strong hurt grocery oppose spoil army share";

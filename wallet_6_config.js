@@ -1,1 +1,1 @@
-var mnemonic = "hurdle mystery powder later panel junior fog cricket allow tomato lottery jeans";
+var mnemonic = "chef save neither key walnut couple absorb clean civil seven letter practice";

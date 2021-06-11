@@ -1,1 +1,1 @@
-var mnemonic = "believe whale will notice truly acquire match faint original mountain law fancy";
+var mnemonic = "book appear image cake shield tree ordinary garment endorse hunt immune master";

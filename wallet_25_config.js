@@ -1,1 +1,1 @@
-var mnemonic = "quiz collect pyramid orphan confirm link trophy husband involve change unknown custom";
+var mnemonic = "cargo garbage garbage swear merry rotate web day wheel fragile unusual volume";

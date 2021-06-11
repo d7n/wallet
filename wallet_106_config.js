@@ -1,1 +1,1 @@
-var mnemonic = "episode hill leisure again seminar illness shiver fatigue team crop fetch accident";
+var mnemonic = "harvest dizzy session myself parade clutch direct cousin goat curtain access furnace";

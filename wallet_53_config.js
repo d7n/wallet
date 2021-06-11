@@ -1,1 +1,1 @@
-var mnemonic = "wonder federal act piece claim unfair fine tape left desert approve artist";
+var mnemonic = "rack drill ethics boost labor dawn salute barrel fever quantum pattern ladder";

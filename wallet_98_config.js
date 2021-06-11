@@ -1,1 +1,1 @@
-var mnemonic = "much critic inhale resist unique alcohol symptom fever tuna spike text media";
+var mnemonic = "noodle slight glad onion few depth devote room kitten humble glance possible";

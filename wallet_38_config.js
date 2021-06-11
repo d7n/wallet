@@ -1,1 +1,1 @@
-var mnemonic = "all release diet ghost help day double poet interest upgrade pull will";
+var mnemonic = "original trend gas parent urge wear cable net anger exile swarm excess";

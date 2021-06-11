@@ -1,1 +1,1 @@
-var mnemonic = "oblige rookie dust print captain arrange odor hobby daughter real veteran attend";
+var mnemonic = "decline party plate beauty badge vivid crack deposit gauge soda inject enrich";

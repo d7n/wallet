@@ -1,1 +1,1 @@
-var mnemonic = "wrestle figure depart demise boat rack fire exclude humble cushion prepare spike";
+var mnemonic = "congress invite steak next novel venture segment rapid motor wait attitude curtain";

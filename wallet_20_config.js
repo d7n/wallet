@@ -1,1 +1,1 @@
-var mnemonic = "reveal mimic enforce neglect gasp sunset possible material observe aware boss survey";
+var mnemonic = "blush pigeon jeans opera churn usage road general absorb extra alone warrior";

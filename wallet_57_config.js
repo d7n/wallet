@@ -1,1 +1,1 @@
-var mnemonic = "text cactus safe provide manual during physical lizard rice once pool mad";
+var mnemonic = "key vessel settle blossom artist word erase attitude monkey enlist oyster plunge";

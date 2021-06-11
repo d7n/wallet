@@ -1,1 +1,1 @@
-var mnemonic = "scene arch topple gallery strategy smoke power salad cliff genuine gaze version";
+var mnemonic = "patrol remain speed beach rude return distance oak umbrella dynamic fancy calm";

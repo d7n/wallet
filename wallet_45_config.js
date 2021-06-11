@@ -1,1 +1,1 @@
-var mnemonic = "diagram auto crowd arch sense tilt sell dirt category future scene bamboo";
+var mnemonic = "fossil annual opera thought property chair roast cattle junk balcony diet aunt";

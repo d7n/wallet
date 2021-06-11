@@ -1,1 +1,1 @@
-var mnemonic = "cricket please pear average auto mad valid box vibrant menu merry frost";
+var mnemonic = "decrease track crisp moral rally glue dinner maid lawn kit ripple try";
