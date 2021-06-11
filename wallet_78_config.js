@@ -1,1 +1,1 @@
-var mnemonic = "just rice elbow unit salt cave curious else pool prefer shallow vacant";
+var mnemonic = "foot whale grain until people autumn demise inflict equip obtain lion vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "oval gesture monkey neutral fatal curtain tree razor hidden unhappy anchor cross";
+var mnemonic = "pear steel runway father unaware nasty boat remove two comfort bitter fox";

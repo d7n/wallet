@@ -1,1 +1,1 @@
-var mnemonic = "blade escape motor thunder hurdle fringe just guard crawl gauge solve aerobic";
+var mnemonic = "inject museum avoid glory sword course polar taxi rocket artist oil own";

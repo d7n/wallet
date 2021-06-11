@@ -1,1 +1,1 @@
-var mnemonic = "upgrade delay accuse day salute material employ margin nerve leave abstract rely";
+var mnemonic = "blue love worth company ladder afford stone rebel busy valid exact renew";

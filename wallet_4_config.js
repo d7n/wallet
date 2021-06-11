@@ -1,1 +1,1 @@
-var mnemonic = "amateur rally stool coach adapt media coin cave vocal inhale affair drill";
+var mnemonic = "resemble tumble portion frozen gain antique stairs grass electric mirror science cart";

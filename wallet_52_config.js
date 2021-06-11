@@ -1,1 +1,1 @@
-var mnemonic = "code assault peasant grief genius skin common spray paper ski limb clerk";
+var mnemonic = "donor uphold parent try act female cat paper mention air cook accident";

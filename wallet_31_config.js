@@ -1,1 +1,1 @@
-var mnemonic = "concert gain job quarter canvas wet amateur pause spike melody source planet";
+var mnemonic = "high film balance all primary yard kind trigger fortune garbage loud acid";

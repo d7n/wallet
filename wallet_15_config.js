@@ -1,1 +1,1 @@
-var mnemonic = "rural furnace reveal box cash now citizen damage fantasy solution useful exist";
+var mnemonic = "march eternal lazy athlete happy again quit wash ketchup fever theme wrap";

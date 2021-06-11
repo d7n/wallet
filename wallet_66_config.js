@@ -1,1 +1,1 @@
-var mnemonic = "talk remember latin weather stereo depth lottery eyebrow ability sight balance exercise";
+var mnemonic = "coach profit script crumble cup toddler lift dry pudding camera like lens";

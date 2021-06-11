@@ -1,1 +1,1 @@
-var mnemonic = "high video hockey hockey letter jungle dog unveil enact gift time front";
+var mnemonic = "smoke rapid witness voyage forget churn hundred play west stick equip dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "hole adult negative indoor excuse clerk ankle wrist coral admit general taxi";
+var mnemonic = "absurd salute luggage assist rookie century various shoot minute boost hedgehog measure";

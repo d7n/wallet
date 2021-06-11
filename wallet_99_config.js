@@ -1,1 +1,1 @@
-var mnemonic = "decorate lunar super subject depart pilot sort check bundle stool cement leader";
+var mnemonic = "outside verb wolf board canoe learn august robust thunder office fan alert";

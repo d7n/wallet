@@ -1,1 +1,1 @@
-var mnemonic = "off like list cigar economy hole spike anchor artefact unaware wash subject";
+var mnemonic = "trophy pig wine fold garment diary recycle add elevator property useless bacon";

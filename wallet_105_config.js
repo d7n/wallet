@@ -1,1 +1,1 @@
-var mnemonic = "wheel time sleep butter verb bone grunt spin stomach ethics life pipe";
+var mnemonic = "good mention hood session punch remain round salt noodle garden glow super";

@@ -1,1 +1,1 @@
-var mnemonic = "kick crack now blind just ship mouse copy economy pen balcony search";
+var mnemonic = "style spawn magnet fault retire above year proof shoe nose comfort genuine";

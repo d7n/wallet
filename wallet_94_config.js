@@ -1,1 +1,1 @@
-var mnemonic = "high ridge piece creek baby regular luxury obvious fun obtain cute inhale";
+var mnemonic = "gate ignore convince forest glance core quarter athlete wonder stumble apology pink";

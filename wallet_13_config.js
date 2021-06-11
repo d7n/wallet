@@ -1,1 +1,1 @@
-var mnemonic = "unhappy scheme meat convince exotic monkey veteran turn chunk swift industry cotton";
+var mnemonic = "frost laundry cement fatal silver tattoo skirt satisfy rescue fine pelican invest";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow helmet stove team vacuum place taxi trouble tongue foam reform wise";
+var mnemonic = "junk feature brief gasp market range country since guide awake wire crack";

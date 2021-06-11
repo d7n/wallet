@@ -1,1 +1,1 @@
-var mnemonic = "sea screen artefact two floor habit thing cigar trouble anger siren shoulder";
+var mnemonic = "because ramp egg total please stove find dwarf cereal cancel bunker next";

@@ -1,1 +1,1 @@
-var mnemonic = "device dress display tonight emotion merit black harbor side major kind display";
+var mnemonic = "before among weapon guess siege exclude month mirror item afraid describe flash";

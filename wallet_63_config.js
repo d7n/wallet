@@ -1,1 +1,1 @@
-var mnemonic = "ice put vessel digital garlic flush town scare debris screen innocent erode";
+var mnemonic = "still economy adjust hurdle push faculty combine zebra table lend legal chief";

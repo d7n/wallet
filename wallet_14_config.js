@@ -1,1 +1,1 @@
-var mnemonic = "noise orbit hurt excuse clutch method atom horror initial flag electric latin";
+var mnemonic = "refuse motion can keen easily opera shaft yard lock basket treat fiber";

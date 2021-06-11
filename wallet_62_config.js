@@ -1,1 +1,1 @@
-var mnemonic = "crisp noble sadness fish together table mechanic brand like destroy club fatigue";
+var mnemonic = "winter now gossip purity glide base sock high burden design metal cause";

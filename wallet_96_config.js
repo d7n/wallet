@@ -1,1 +1,1 @@
-var mnemonic = "antique anxiety little transfer nurse roast moon absorb drip stage frequent salon";
+var mnemonic = "stove silent stuff anger loyal sadness foil fatal unhappy section crucial love";

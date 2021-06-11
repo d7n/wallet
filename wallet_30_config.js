@@ -1,1 +1,1 @@
-var mnemonic = "recipe rigid still job able valley nasty tattoo grape narrow super behave";
+var mnemonic = "rocket stool evil vessel over east cricket menu swing embody capital divide";

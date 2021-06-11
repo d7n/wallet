@@ -1,1 +1,1 @@
-var mnemonic = "senior doctor funny person canvas cherry gentle situate oblige desk embrace raccoon";
+var mnemonic = "stuff load asthma job stage bullet squirrel noise uphold flush height nice";

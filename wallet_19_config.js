@@ -1,1 +1,1 @@
-var mnemonic = "parade float suffer before clean icon crisp spare pig planet forum legal";
+var mnemonic = "rally margin pig clerk service middle scare explain matter announce cotton trial";

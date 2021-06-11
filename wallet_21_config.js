@@ -1,1 +1,1 @@
-var mnemonic = "claim trouble source swing comic add kiss hundred solution dress manage uphold";
+var mnemonic = "explain analyst cannon quiz neglect early disease market diagram oppose leopard symptom";

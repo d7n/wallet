@@ -1,1 +1,1 @@
-var mnemonic = "mother observe prosper axis secret leg flower forget crucial quote palace toss";
+var mnemonic = "volcano picture future task donate frost immune domain give bronze poem unfair";

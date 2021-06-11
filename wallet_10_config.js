@@ -1,1 +1,1 @@
-var mnemonic = "charge volume urge kit spin sausage melt hockey glide mean tissue rough";
+var mnemonic = "another renew between laundry adult angle recipe review holiday raw asset dawn";

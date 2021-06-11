@@ -1,1 +1,1 @@
-var mnemonic = "bronze height frown virtual later daughter plate mom orange term ethics liquid";
+var mnemonic = "half morning coyote visual friend reunion judge can risk zone deputy output";

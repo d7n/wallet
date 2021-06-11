@@ -1,1 +1,1 @@
-var mnemonic = "blade guilt possible impact chuckle example twenty expose tribe horse hat pass";
+var mnemonic = "conduct stick duty spring purpose damp speed amateur have win video inquiry";

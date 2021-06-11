@@ -1,1 +1,1 @@
-var mnemonic = "foil any nut youth draw pill kid unaware naive divert pottery rare";
+var mnemonic = "burst wisdom oval clutch daring found lawn milk deny ostrich carbon wrist";

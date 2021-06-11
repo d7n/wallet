@@ -1,1 +1,1 @@
-var mnemonic = "swamp lady nice age govern dress adult trick day time expand family";
+var mnemonic = "velvet lunar certain lock caught spatial mechanic focus cook royal lonely wash";

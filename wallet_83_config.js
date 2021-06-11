@@ -1,1 +1,1 @@
-var mnemonic = "enough auction divorce stadium company vibrant swing tissue convince search strike amused";
+var mnemonic = "wife helmet uphold food baby aisle supply bunker depart run crouch ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "main term menu novel cost concert figure visual orient mad access reform";
+var mnemonic = "plug magnet nose kiwi goat protect scrub fiction air salmon evidence grass";

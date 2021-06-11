@@ -1,1 +1,1 @@
-var mnemonic = "zero lamp six duty wrong heart brief popular gas wife paper daring";
+var mnemonic = "grass zebra elevator plastic bunker any bitter yellow cook fossil exotic hold";

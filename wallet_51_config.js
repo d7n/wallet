@@ -1,1 +1,1 @@
-var mnemonic = "barrel achieve comic dwarf laugh kingdom cement maze conduct tuna common erase";
+var mnemonic = "similar kidney cave attend tip shock churn review screen churn drink coin";

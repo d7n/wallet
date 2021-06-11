@@ -1,1 +1,1 @@
-var mnemonic = "frost champion expire myself foil toast reunion say spice uncle melt rice";
+var mnemonic = "hard divert garage slush humor hero pulp car knife reflect wild cheese";

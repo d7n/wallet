@@ -1,1 +1,1 @@
-var mnemonic = "glory ginger code mountain put gas wrestle whip tank cute duty ability";
+var mnemonic = "tattoo avoid muscle gossip orchard trade raven scorpion busy bargain want useful";

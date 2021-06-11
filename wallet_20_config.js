@@ -1,1 +1,1 @@
-var mnemonic = "more image input vote help print park spend net short cloud install";
+var mnemonic = "gloom fringe quality artwork upset carbon record brass initial moral talent beach";

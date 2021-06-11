@@ -1,1 +1,1 @@
-var mnemonic = "apple expire wine matrix wrap bargain lion despair orbit wide zero amazing";
+var mnemonic = "erode clog undo question display noble pulp cost review south various fortune";

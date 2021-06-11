@@ -1,1 +1,1 @@
-var mnemonic = "job certain absorb wink excuse bag armor nest short similar claw stock";
+var mnemonic = "latin brother acquire powder lava word spatial bean juice logic rose give";

@@ -1,1 +1,1 @@
-var mnemonic = "news trick olympic maid evolve fatigue duck all fruit drive like discover";
+var mnemonic = "decorate wood pottery culture mix now agree curious timber usage glimpse van";

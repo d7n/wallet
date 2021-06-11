@@ -1,1 +1,1 @@
-var mnemonic = "speak loan foil animal wink faith alien want promote limb enhance arrow";
+var mnemonic = "one lizard kiss concert already verify road liberty affair material margin real";

@@ -1,1 +1,1 @@
-var mnemonic = "misery gym remain fantasy student feed pelican can furnace card prevent memory";
+var mnemonic = "oval follow connect crew eight all law nurse room knock fabric accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "north quiz sword cute human urge grid urge action diesel fresh salon";
+var mnemonic = "crumble bag unfair spin multiply unable razor vintage chapter polar double toddler";

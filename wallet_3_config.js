@@ -1,1 +1,1 @@
-var mnemonic = "before lens move identify walk face attract trouble skin core convince word";
+var mnemonic = "chronic forget flash turkey very airport swim wife double tattoo clay core";

@@ -1,1 +1,1 @@
-var mnemonic = "raise call corn list choice gasp acid amateur stand cluster call grant";
+var mnemonic = "miracle eager tennis flash wife drum author penalty allow dust glance stand";

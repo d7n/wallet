@@ -1,1 +1,1 @@
-var mnemonic = "choose hungry minute decline toilet horse tip tide mimic first gown choice";
+var mnemonic = "adjust hurry find talent whisper dwarf offer head state again urge roof";

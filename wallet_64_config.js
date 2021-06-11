@@ -1,1 +1,1 @@
-var mnemonic = "notice intact dirt advice gorilla sentence melody slim absurd wise reform vivid";
+var mnemonic = "approve want mix blade ignore vicious mushroom review absorb afford limit nephew";

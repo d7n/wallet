@@ -1,1 +1,1 @@
-var mnemonic = "income prize churn course behave today inject yard twist notice inspire brush";
+var mnemonic = "process ski top silk chaos clown enhance prosper cube number stamp champion";

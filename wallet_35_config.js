@@ -1,1 +1,1 @@
-var mnemonic = "urban icon salon excess artist catch novel cargo age catch grain cushion";
+var mnemonic = "honey submit pottery main smooth pause word pair find video mention discover";

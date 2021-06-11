@@ -1,1 +1,1 @@
-var mnemonic = "stick reopen music seek eye fiction decrease gallery either denial unusual enough";
+var mnemonic = "magic check balance milk toward garment script yard slight antique tiny purpose";

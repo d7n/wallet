@@ -1,1 +1,1 @@
-var mnemonic = "innocent garment broom achieve capital seed prison wealth decorate caught phrase pulse";
+var mnemonic = "leave hour alarm evidence amount quick build fringe cricket final twice race";

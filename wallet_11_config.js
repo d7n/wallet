@@ -1,1 +1,1 @@
-var mnemonic = "easily wine arena valve base syrup jewel world spell cereal firm wealth";
+var mnemonic = "glow pull follow athlete chicken glare hour general turtle inject list clip";

@@ -1,1 +1,1 @@
-var mnemonic = "cute cushion matrix output stomach sister elbow thought cement work slice sight";
+var mnemonic = "flat manual burst problem soap piece bus cram used bronze possible swim";

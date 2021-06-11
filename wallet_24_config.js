@@ -1,1 +1,1 @@
-var mnemonic = "current focus reduce orbit front glory soccer ignore rescue enact prepare three";
+var mnemonic = "ice mail help abstract foam way hamster ramp opinion sudden half unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar visual frozen become combine document deputy reject analyst resemble gym cage";
+var mnemonic = "wrong add hero cactus gain bomb wheat anchor desk antenna reopen exercise";

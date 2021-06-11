@@ -1,1 +1,1 @@
-var mnemonic = "cheese retreat crack melt traffic fee rapid wage civil hockey skirt logic";
+var mnemonic = "desert sand voice walnut comfort typical wreck zero course desk treat head";

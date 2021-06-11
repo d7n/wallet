@@ -1,1 +1,1 @@
-var mnemonic = "list try frost inherit stay brief secret sword holiday brush upper punch";
+var mnemonic = "gadget betray like excite abandon rotate innocent process okay clinic love siren";

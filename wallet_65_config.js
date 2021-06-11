@@ -1,1 +1,1 @@
-var mnemonic = "disagree drum normal essence grocery alpha swear stock grid split update neck";
+var mnemonic = "mention critic narrow chaos elevator artwork hair service wave issue siege satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "please cake hamster nature leopard match forum cage twenty gather route believe";
+var mnemonic = "claw taste digital give long media brisk shove real inmate april rescue";

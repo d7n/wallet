@@ -1,1 +1,1 @@
-var mnemonic = "best vacuum armed horn buyer ecology client help cash target search oven";
+var mnemonic = "spider absent key neither comfort plug year find decade violin lemon bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "green chair case bright about habit great kiss swift west height fortune";
+var mnemonic = "dash bag purchase ginger ice erupt ski benefit midnight fiction actual brick";

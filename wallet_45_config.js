@@ -1,1 +1,1 @@
-var mnemonic = "armor flush century avocado jealous divide west bird luxury news equal quarter";
+var mnemonic = "grit person knife fat choice tip flee ridge salmon violin alien lab";

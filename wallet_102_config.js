@@ -1,1 +1,1 @@
-var mnemonic = "around slab merry document curve accuse ocean dust forest creek column page";
+var mnemonic = "ceiling media mixed drill mixed pull march library clever grass theory leaf";

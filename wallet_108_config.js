@@ -1,1 +1,1 @@
-var mnemonic = "calm release suit barrel army busy alarm exit cancel turkey cross loan";
+var mnemonic = "silk lobster matrix color autumn sunset drop flock phone crew east school";

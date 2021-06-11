@@ -1,1 +1,1 @@
-var mnemonic = "only agent fame hour awkward century gaze almost welcome cancel fancy shine";
+var mnemonic = "version sick clog vanish letter fix success gentle lock try sugar minor";

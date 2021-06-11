@@ -1,1 +1,1 @@
-var mnemonic = "honey genre film acoustic simple wasp wish sentence wide sweet account burger";
+var mnemonic = "endless sniff bacon laundry away frame need mirror space weekend birth vital";

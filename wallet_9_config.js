@@ -1,1 +1,1 @@
-var mnemonic = "organ abandon quality number goose hazard govern brisk ten practice very teach";
+var mnemonic = "fiber brown devote actual sick visa bubble pony artist kidney guard angry";

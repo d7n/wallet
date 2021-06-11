@@ -1,1 +1,1 @@
-var mnemonic = "work govern wet pencil priority then morning excite utility blue track unit";
+var mnemonic = "demise giggle bracket oak must apple grid end crew provide slogan switch";

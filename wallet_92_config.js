@@ -1,1 +1,1 @@
-var mnemonic = "audit purity average crew inquiry dust timber tackle puppy glue tattoo left";
+var mnemonic = "acquire stem tree already exhibit endorse cube van soldier pizza measure disease";

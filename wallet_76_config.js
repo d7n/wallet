@@ -1,1 +1,1 @@
-var mnemonic = "noise object drink weapon boat trend flush awful ten zone kitten another";
+var mnemonic = "lion lawsuit that random occur clutch photo update actual deal undo notice";

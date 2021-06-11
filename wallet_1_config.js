@@ -1,1 +1,1 @@
-var mnemonic = "salad alien puzzle demise attitude join monster humble champion logic job letter";
+var mnemonic = "more right situate sunset hungry machine deer monkey patrol mammal gadget rate";

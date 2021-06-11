@@ -1,1 +1,1 @@
-var mnemonic = "inquiry curious popular kiss arm onion deposit collect page valve valve scene";
+var mnemonic = "fine input gravity renew maple tape long much author they eagle position";

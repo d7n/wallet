@@ -1,1 +1,1 @@
-var mnemonic = "soda vote extend hamster any crane series note duty man cup viable";
+var mnemonic = "resemble fancy case original such option trouble wheel object early pet dune";

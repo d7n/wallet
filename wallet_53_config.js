@@ -1,1 +1,1 @@
-var mnemonic = "analyst easy belt fashion trap zone armed album brisk remind measure skin";
+var mnemonic = "claw release noble rally year reopen travel turn peace require bridge can";

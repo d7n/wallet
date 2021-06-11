@@ -1,1 +1,1 @@
-var mnemonic = "fragile layer save judge exhibit salmon home kidney festival edit orange receive";
+var mnemonic = "demise afford poet rotate athlete grass casino below good sport defy sausage";

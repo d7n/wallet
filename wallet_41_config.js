@@ -1,1 +1,1 @@
-var mnemonic = "camera wheat transfer across what target salmon hazard bird nut filter kangaroo";
+var mnemonic = "globe health cup bonus original initial target brush truly model fatal intact";

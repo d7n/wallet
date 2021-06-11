@@ -1,1 +1,1 @@
-var mnemonic = "blush ride pass toilet mansion obscure limb venture rifle skull force yellow";
+var mnemonic = "nature notice skirt ribbon bubble square sea globe fish clap blame flag";

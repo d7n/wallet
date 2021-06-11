@@ -1,1 +1,1 @@
-var mnemonic = "local slot symbol fit foot fog tree range shrimp wise text build";
+var mnemonic = "fatal govern task poet giraffe roof clinic degree useful sausage memory olive";

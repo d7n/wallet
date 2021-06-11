@@ -1,1 +1,1 @@
-var mnemonic = "detail aware hour poet resemble ski human culture wall salute sister peanut";
+var mnemonic = "famous vehicle pencil acid shoulder favorite alter much question ostrich assault mechanic";

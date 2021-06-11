@@ -1,1 +1,1 @@
-var mnemonic = "plug lend patrol wrong crew enter mobile fantasy velvet chuckle high expect";
+var mnemonic = "before enact waste hello want merry defense hat person claw pupil script";

@@ -1,1 +1,1 @@
-var mnemonic = "process surprise assault then poverty little similar skill curious paddle double ivory";
+var mnemonic = "scheme idle latin enemy first eager that open pioneer team ability bargain";

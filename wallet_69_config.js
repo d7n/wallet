@@ -1,1 +1,1 @@
-var mnemonic = "palm repair scatter doctor asthma lift robust jaguar predict welcome grain stock";
+var mnemonic = "leader month swing among nice twelve gravity blade seed thumb hurdle announce";

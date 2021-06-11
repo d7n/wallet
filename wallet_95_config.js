@@ -1,1 +1,1 @@
-var mnemonic = "peasant century thunder pipe forward print modify trim fossil crater pigeon day";
+var mnemonic = "shadow silk dial live decide frame middle risk pilot acoustic what advance";

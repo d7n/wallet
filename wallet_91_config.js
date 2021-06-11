@@ -1,1 +1,1 @@
-var mnemonic = "trophy quit spell basic rice waste marriage belt upper kit embrace plate";
+var mnemonic = "few tourist gate later divide notice vacant build coast area endorse visual";

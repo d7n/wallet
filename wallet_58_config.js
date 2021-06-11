@@ -1,1 +1,1 @@
-var mnemonic = "boss camera fun urge soccer clap fantasy subject cherry hospital almost cinnamon";
+var mnemonic = "debris jealous token increase immune punch vendor craft meadow almost gauge grace";

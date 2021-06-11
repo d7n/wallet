@@ -1,1 +1,1 @@
-var mnemonic = "invite honey capable truth inquiry museum paper want undo hour gun cage";
+var mnemonic = "actress code camp spirit lyrics holiday board glance ostrich seek chest off";

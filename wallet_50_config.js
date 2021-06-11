@@ -1,1 +1,1 @@
-var mnemonic = "oil enhance inhale include when hurt render vital chief cousin year awake";
+var mnemonic = "model slide stick erase grant affair candy please express never roof wedding";

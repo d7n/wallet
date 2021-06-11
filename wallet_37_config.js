@@ -1,1 +1,1 @@
-var mnemonic = "catch health alpha village between wet hundred lawn issue endless auto make";
+var mnemonic = "question endorse street april range polar color unhappy high organ garbage tell";
