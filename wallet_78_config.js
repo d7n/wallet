@@ -1,1 +1,1 @@
-var mnemonic = "square want split cinnamon reject unhappy bright medal nature deal behind rail";
+var mnemonic = "entire vote neutral tool attract nephew enforce normal funny valid sad maximum";

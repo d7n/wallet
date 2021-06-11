@@ -1,1 +1,1 @@
-var mnemonic = "profit edge address voyage april side weird country convince skull prison whisper";
+var mnemonic = "cheap eight alcohol detect found crush garlic banner february jump ill odor";

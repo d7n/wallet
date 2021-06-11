@@ -1,1 +1,1 @@
-var mnemonic = "dance dad will quit odor velvet original bicycle nerve appear clarify joy";
+var mnemonic = "grocery interest region soda bright eye panda debris prison guilt motion story";

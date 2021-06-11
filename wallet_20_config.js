@@ -1,1 +1,1 @@
-var mnemonic = "rotate animal recycle leave mobile abstract like response scene silent iron trim";
+var mnemonic = "error emerge rally globe topple census demand grow business plunge clerk wheat";

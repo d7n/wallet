@@ -1,1 +1,1 @@
-var mnemonic = "city script latin donate pole exact boy invite fox reason yard wrestle";
+var mnemonic = "dial genre result broken rocket much sentence cabbage soul cinnamon excess cross";

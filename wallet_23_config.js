@@ -1,1 +1,1 @@
-var mnemonic = "forget put bag option document dune define evoke abandon spoon struggle dinosaur";
+var mnemonic = "draw quarter normal penalty forest kangaroo energy change knife slight liquid blade";

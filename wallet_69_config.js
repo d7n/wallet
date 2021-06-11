@@ -1,1 +1,1 @@
-var mnemonic = "prosper custom system length garment bargain other rice amused switch embark kite";
+var mnemonic = "salt comfort caution quarter inflict episode woman actual miss ecology decorate cave";

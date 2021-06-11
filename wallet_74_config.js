@@ -1,1 +1,1 @@
-var mnemonic = "float syrup advance cloud umbrella cart light fatigue struggle escape race sunny";
+var mnemonic = "seed aerobic ribbon sample faculty task future cover drift narrow nut december";

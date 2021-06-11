@@ -1,1 +1,1 @@
-var mnemonic = "task snow enough artefact salad fan resource return wool record cotton nut";
+var mnemonic = "process burst found pet aisle hurt someone process tag typical bundle fox";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare drip panda river lawn penalty wheel mad ugly slight excite juice";
+var mnemonic = "sweet omit pistol off present online slogan neither school wear hint sport";

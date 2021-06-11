@@ -1,1 +1,1 @@
-var mnemonic = "response worth april enter initial phone sign toe seat crop exchange crystal";
+var mnemonic = "morning poverty soup sound twist veteran clock shine opinion meat build matrix";

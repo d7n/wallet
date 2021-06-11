@@ -1,1 +1,1 @@
-var mnemonic = "riot sister deer spring column then cross leisure strategy hat rib lottery";
+var mnemonic = "gift coral elevator caution notice spoil worry over jazz pig old raw";

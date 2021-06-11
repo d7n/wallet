@@ -1,1 +1,1 @@
-var mnemonic = "tuition census height divert old egg ecology insect crane clerk arena fruit";
+var mnemonic = "speak goat category ill shoot decide vivid warfare brick camp issue cousin";

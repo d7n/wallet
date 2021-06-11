@@ -1,1 +1,1 @@
-var mnemonic = "seed swallow fall donor mercy cradle oyster fiction mango wait small reform";
+var mnemonic = "cradle faint doll where famous oppose control size develop buzz beyond cabin";

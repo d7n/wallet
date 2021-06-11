@@ -1,1 +1,1 @@
-var mnemonic = "talk dignity unique broccoli portion coin long buyer bus evolve galaxy stick";
+var mnemonic = "pen practice chimney paddle address plate expire practice patch suspect media base";

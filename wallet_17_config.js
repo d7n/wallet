@@ -1,1 +1,1 @@
-var mnemonic = "wrap smoke maze enable hundred news across stem usual vague promote keen";
+var mnemonic = "moral arrange kid pistol agent trip sunny raccoon castle danger enforce shell";

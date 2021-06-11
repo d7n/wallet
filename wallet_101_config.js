@@ -1,1 +1,1 @@
-var mnemonic = "number rare kit mask lesson planet point wrestle topic coral enrich airport";
+var mnemonic = "town tilt settle summer misery labor occur display plunge festival donkey screen";

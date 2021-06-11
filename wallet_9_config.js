@@ -1,1 +1,1 @@
-var mnemonic = "city diesel cactus erode first uncle someone excess shop enact quarter chimney";
+var mnemonic = "scatter save strong draft radio snake that defy magnet divide afford move";

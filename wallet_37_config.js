@@ -1,1 +1,1 @@
-var mnemonic = "quality buddy dragon spatial shock argue web dial twelve spike fiscal enroll";
+var mnemonic = "neglect power tray oxygen silver walk arena ocean various wall year boy";

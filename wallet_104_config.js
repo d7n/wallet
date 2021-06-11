@@ -1,1 +1,1 @@
-var mnemonic = "image million craft federal giant giraffe reflect eight ask cradle follow armor";
+var mnemonic = "obey dust absurd paddle knock coach trophy garbage oppose able clog drink";

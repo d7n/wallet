@@ -1,1 +1,1 @@
-var mnemonic = "reunion color source atom humor face arrest vacuum west safe nice grace";
+var mnemonic = "mosquito people unusual tip where palm mystery theme happy acid weekend valley";

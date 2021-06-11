@@ -1,1 +1,1 @@
-var mnemonic = "blade absorb equal pioneer mix puppy uncover family lawn wrist raw avoid";
+var mnemonic = "film mouse nephew kite affair little void hobby wreck kit belt wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "raise save apple spice olive stay share dust file rally equip replace";
+var mnemonic = "home suspect record wild poem myself cruel budget torch filter hill protect";

@@ -1,1 +1,1 @@
-var mnemonic = "shine weekend stadium joy fire album flavor caution dawn similar shallow feed";
+var mnemonic = "alter slim useful mean fresh purse tomorrow rug canvas deer unknown split";

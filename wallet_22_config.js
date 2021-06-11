@@ -1,1 +1,1 @@
-var mnemonic = "ostrich win clean dawn cart staff meadow fury hood rhythm robust quick";
+var mnemonic = "zoo live extra dust rail way empower observe typical never shuffle fantasy";

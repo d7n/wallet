@@ -1,1 +1,1 @@
-var mnemonic = "mosquito radio whisper nice attract captain album hour essence wrestle knife opera";
+var mnemonic = "summer abandon cruel nuclear leader skirt field virus marble erase spawn shell";

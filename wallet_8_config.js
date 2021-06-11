@@ -1,1 +1,1 @@
-var mnemonic = "certain list duty manage adapt afford neither ritual shoulder tray main drastic";
+var mnemonic = "furnace teach useless glare faculty silk extra bag budget stomach pumpkin proof";

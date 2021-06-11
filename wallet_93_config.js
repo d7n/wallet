@@ -1,1 +1,1 @@
-var mnemonic = "quantum mean lunar problem staff hour essence buzz rapid color rather result";
+var mnemonic = "later immense gap unit sunny crowd devote orphan cage light world chuckle";

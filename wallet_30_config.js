@@ -1,1 +1,1 @@
-var mnemonic = "fork effort bird more dismiss balance turkey domain chase clean mango floor";
+var mnemonic = "wild phone festival tuna cupboard dream family gain gospel hand brass believe";

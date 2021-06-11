@@ -1,1 +1,1 @@
-var mnemonic = "fat address check knee settle good know shield appear half animal fault";
+var mnemonic = "test earth merge stock credit million inch inside stand umbrella narrow effort";

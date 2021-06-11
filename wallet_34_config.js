@@ -1,1 +1,1 @@
-var mnemonic = "stick meat tongue company sudden drop cool giraffe dutch script garbage increase";
+var mnemonic = "page rebuild alarm destroy scout chef crawl start blame make ritual cloud";

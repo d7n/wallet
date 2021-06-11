@@ -1,1 +1,1 @@
-var mnemonic = "until device sudden foot copy junk jaguar bean armed chalk supply lumber";
+var mnemonic = "twice note worry shine expose level betray among depend crash battle forget";

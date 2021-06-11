@@ -1,1 +1,1 @@
-var mnemonic = "slush margin laugh plunge increase pill loop cage south access flavor onion";
+var mnemonic = "iron agree cram expand this cupboard pyramid salmon guilt blossom yard trophy";

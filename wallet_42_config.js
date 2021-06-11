@@ -1,1 +1,1 @@
-var mnemonic = "congress child short erupt wasp dirt dentist hand lab morning more lounge";
+var mnemonic = "immune scheme tourist music earth blood easy near upon thought pact shallow";

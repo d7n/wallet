@@ -1,1 +1,1 @@
-var mnemonic = "slot giant birth mercy mail vacant hand time curve frown cactus moral";
+var mnemonic = "stadium correct mad cool method novel cave quarter toddler veteran cat regular";

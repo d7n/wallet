@@ -1,1 +1,1 @@
-var mnemonic = "essay degree bubble verify meat glue capital shine menu perfect powder join";
+var mnemonic = "vibrant fuel gentle basic release shallow exhaust thought pulp bless minute blame";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet allow able daring rice convince purity advice lecture coconut material voyage";
+var mnemonic = "genius input spot divide vault require elder slight lunch rack reject team";

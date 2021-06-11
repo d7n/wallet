@@ -1,1 +1,1 @@
-var mnemonic = "walnut oyster fire joke can provide hobby purse salute choice actress armed";
+var mnemonic = "cram pole vibrant hollow enjoy neck pioneer desert rib layer injury ladder";

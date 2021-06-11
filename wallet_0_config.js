@@ -1,1 +1,1 @@
-var mnemonic = "dial fury twelve example spin shrug head correct unfold rice forum room";
+var mnemonic = "favorite nice hurt expect cable say describe illness surface better shift run";

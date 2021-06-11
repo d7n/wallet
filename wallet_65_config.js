@@ -1,1 +1,1 @@
-var mnemonic = "era slab motor genuine sponsor math happy orient orient wave rabbit diet";
+var mnemonic = "tape law girl report kangaroo cousin ability matter brave inject sphere old";

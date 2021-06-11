@@ -1,1 +1,1 @@
-var mnemonic = "melt danger property left relax right unaware six mixed track hole visit";
+var mnemonic = "window host retreat frown desk what risk flight avoid skin include mention";

@@ -1,1 +1,1 @@
-var mnemonic = "assault lucky traffic illegal under job art cluster wood recipe output rally";
+var mnemonic = "merit left basket select bottom price torch alert enemy exact envelope infant";

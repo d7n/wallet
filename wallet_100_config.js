@@ -1,1 +1,1 @@
-var mnemonic = "logic muscle design sand cake deny sauce sorry opera planet risk boost";
+var mnemonic = "cherry focus taste access define evil online social donkey embark afraid inhale";

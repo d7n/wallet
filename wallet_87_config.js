@@ -1,1 +1,1 @@
-var mnemonic = "trade snow secret exile village mutual regret reward write offer bonus suffer";
+var mnemonic = "amount melt very category ignore require accuse rabbit inject federal extra mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "tent very acid neck feel coin forward umbrella future inmate excuse main";
+var mnemonic = "primary often cave van energy rocket achieve cash say dinner notable today";

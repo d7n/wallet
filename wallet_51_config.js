@@ -1,1 +1,1 @@
-var mnemonic = "tube leopard shiver mandate kiss average onion cool symptom tissue shiver mirror";
+var mnemonic = "supply hero stay wealth pen symbol shop saddle guilt solve dry symptom";

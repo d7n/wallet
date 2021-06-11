@@ -1,1 +1,1 @@
-var mnemonic = "before game unaware stumble method stool dolphin coast above brand trouble throw";
+var mnemonic = "knock ship fox giggle torch admit game allow grace option educate only";

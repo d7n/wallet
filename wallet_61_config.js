@@ -1,1 +1,1 @@
-var mnemonic = "follow relax absorb inflict abstract drive one disagree system ribbon circle renew";
+var mnemonic = "turkey radio cross direct glad sphere seek tomato gather vague broom strategy";

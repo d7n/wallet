@@ -1,1 +1,1 @@
-var mnemonic = "test spin tennis dice quick marriage search side reason clap surround issue";
+var mnemonic = "ranch alcohol segment vault talent defy famous warm cushion basic sunny veteran";

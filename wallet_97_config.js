@@ -1,1 +1,1 @@
-var mnemonic = "diary jeans gold morning eternal build album mad stable energy risk there";
+var mnemonic = "length oak baby teach boil keen face dish beyond business inside fold";

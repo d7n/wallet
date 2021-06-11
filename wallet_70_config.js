@@ -1,1 +1,1 @@
-var mnemonic = "month secret pact wire process result arrive sand still coffee buffalo rocket";
+var mnemonic = "sock negative ladder peasant citizen broccoli symptom renew neck process blame garden";

@@ -1,1 +1,1 @@
-var mnemonic = "intact bleak frame sister exist school wall climb dust nose voyage fetch";
+var mnemonic = "museum cruel close spray olive cool attitude squeeze pony salad hockey wash";

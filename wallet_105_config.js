@@ -1,1 +1,1 @@
-var mnemonic = "else rain claw filter skirt capable flee right wisdom teach check health";
+var mnemonic = "sweet setup main draft beach rug congress weapon pupil nuclear strategy general";

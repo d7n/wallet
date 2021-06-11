@@ -1,1 +1,1 @@
-var mnemonic = "choice club bachelor tattoo fall logic old banana nut label dwarf heavy";
+var mnemonic = "nothing sport turtle give cigar erosion add laugh demise vanish birth orient";

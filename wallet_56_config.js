@@ -1,1 +1,1 @@
-var mnemonic = "biology boy crouch rose teach tool avoid dress canal general dog regular";
+var mnemonic = "faith protect panda tattoo square casino oil ghost carpet noise tunnel fragile";

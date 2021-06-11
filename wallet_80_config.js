@@ -1,1 +1,1 @@
-var mnemonic = "erode foam cotton faint acquire pig machine child this thought soda butter";
+var mnemonic = "stool man trouble escape pave ladder uncover surround whale fruit eternal kiss";

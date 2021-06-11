@@ -1,1 +1,1 @@
-var mnemonic = "ozone yellow rough rent govern fun canyon pink glare tackle other taste";
+var mnemonic = "electric execute tobacco myth section profit tomato boil impulse spare into bubble";

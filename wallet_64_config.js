@@ -1,1 +1,1 @@
-var mnemonic = "fine chair thank focus banner sing devote number equip humor silent hazard";
+var mnemonic = "burger february club pudding dust bridge harvest position congress blame guitar alone";

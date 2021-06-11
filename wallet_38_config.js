@@ -1,1 +1,1 @@
-var mnemonic = "ahead stove evoke dad depart leader chair baby habit toilet regret dismiss";
+var mnemonic = "firm impact ozone dolphin erosion still oil negative entire urge unaware caught";

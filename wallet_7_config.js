@@ -1,1 +1,1 @@
-var mnemonic = "garden purpose measure decline royal gadget print witness danger involve math cradle";
+var mnemonic = "solution turtle flee lazy venture play excite estate grain seven note change";

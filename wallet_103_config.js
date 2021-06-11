@@ -1,1 +1,1 @@
-var mnemonic = "enough swift session flat shove crush manage swear lyrics divert never chapter";
+var mnemonic = "throw lucky faint this rabbit tomorrow huge auto noodle mixed skirt sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "visual order exist middle dignity buzz swear review inject green ghost false";
+var mnemonic = "mind client wish legend mixture step fit pizza album virus treat face";

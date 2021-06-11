@@ -1,1 +1,1 @@
-var mnemonic = "about million inflict shrug tortoise resource text oven gentle rotate boat treat";
+var mnemonic = "skirt measure jelly buddy this cube news antenna ranch document diagram profit";

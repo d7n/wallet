@@ -1,1 +1,1 @@
-var mnemonic = "prison claim reduce filter horse jacket swift taste conduct vote erosion blossom";
+var mnemonic = "olympic engage weird citizen athlete until marble lemon basic easily busy process";

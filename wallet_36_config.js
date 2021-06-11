@@ -1,1 +1,1 @@
-var mnemonic = "assist prosper couch record express ticket release clinic harsh filter burst wagon";
+var mnemonic = "evoke two tired gift orange equip second ankle aunt defense adult rescue";

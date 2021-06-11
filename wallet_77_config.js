@@ -1,1 +1,1 @@
-var mnemonic = "fan stay sunny mesh junk dial letter swallow obtain drama region wife";
+var mnemonic = "inside clip pause illness web column stuff arrange recall eagle cargo clap";

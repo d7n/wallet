@@ -1,1 +1,1 @@
-var mnemonic = "weekend body dish host donkey disagree present exist filter seat fine tray";
+var mnemonic = "vessel inherit soup simple seed trade spell wife love nominee badge settle";

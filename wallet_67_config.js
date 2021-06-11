@@ -1,1 +1,1 @@
-var mnemonic = "tag awake feed predict smart situate dust pattern mystery recall bright shop";
+var mnemonic = "flavor better force eight people solar victory seek filter gate nose trial";

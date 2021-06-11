@@ -1,1 +1,1 @@
-var mnemonic = "border stumble room outside enter sing famous middle basket kiss piano final";
+var mnemonic = "coast kick bring bounce train mother rib boost network find source cruel";

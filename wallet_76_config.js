@@ -1,1 +1,1 @@
-var mnemonic = "vast isolate drill negative gown liar mosquito armor decide crowd tenant kitchen";
+var mnemonic = "sing inmate garage buddy desert truth roof party deer toy only erosion";

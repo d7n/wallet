@@ -1,1 +1,1 @@
-var mnemonic = "decorate chat weasel gym symptom saddle mammal present lunar disagree envelope orient";
+var mnemonic = "act disease staff cloth waste oven turtle side magnet happy inflict code";

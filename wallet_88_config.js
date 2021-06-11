@@ -1,1 +1,1 @@
-var mnemonic = "route flat silent option shiver sail seat claim brown canyon master moon";
+var mnemonic = "fuel cube sleep woman donor evolve seed story super hand worth mad";

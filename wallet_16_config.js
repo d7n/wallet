@@ -1,1 +1,1 @@
-var mnemonic = "enter obscure leave chief maid knife bundle forget federal during execute alter";
+var mnemonic = "mosquito tourist vast edit entry digital diet ketchup husband essay brain cycle";

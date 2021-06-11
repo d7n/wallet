@@ -1,1 +1,1 @@
-var mnemonic = "ozone elevator milk midnight mammal deer uncover crouch bid gospel cattle bridge";
+var mnemonic = "false march tobacco rich school bridge swing sniff machine rapid race endless";

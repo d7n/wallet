@@ -1,1 +1,1 @@
-var mnemonic = "rapid mobile unable convince shove across install salon smooth devote pride clerk";
+var mnemonic = "lend seven option wall unaware face garbage fuel virtual intact meadow ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "escape flash total twin prosper machine edge diary office voice across present";
+var mnemonic = "tragic pelican simple involve merit actor edge sure cabin job target romance";

@@ -1,1 +1,1 @@
-var mnemonic = "friend multiply round ribbon key oven zero hundred mistake atom wedding van";
+var mnemonic = "opera toddler very razor deliver mushroom spawn absent reason acid task enact";

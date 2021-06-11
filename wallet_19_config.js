@@ -1,1 +1,1 @@
-var mnemonic = "walnut expect goddess trial urban occur pistol local host report author shock";
+var mnemonic = "dawn bullet shield cliff exhaust cage night multiply domain say blanket razor";

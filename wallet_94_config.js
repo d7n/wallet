@@ -1,1 +1,1 @@
-var mnemonic = "doll autumn wrap cushion ring lunar paddle green custom gospel exit consider";
+var mnemonic = "repair okay copy weapon notable diamond host visual pumpkin sadness turtle mass";

@@ -1,1 +1,1 @@
-var mnemonic = "baby gallery century digital crawl bacon burden stem clever infant want cliff";
+var mnemonic = "beyond often school total access humble clerk exact better army custom example";

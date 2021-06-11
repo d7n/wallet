@@ -1,1 +1,1 @@
-var mnemonic = "kitten error canyon guard cliff food rigid stamp slab pioneer thrive pizza";
+var mnemonic = "chat celery brick gun human ozone milk ladder thumb giggle future viable";

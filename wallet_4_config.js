@@ -1,1 +1,1 @@
-var mnemonic = "knife vocal tape pelican behind crop talk loud yard congress mammal public";
+var mnemonic = "unlock spice small phrase emotion what corn push disagree alter afraid shuffle";

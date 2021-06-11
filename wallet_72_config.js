@@ -1,1 +1,1 @@
-var mnemonic = "ancient yellow place fly jealous action pig fringe mushroom pattern fog unfold";
+var mnemonic = "hand hub erode garlic beef arena human neutral soft bottom depth wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney any chicken style fossil tobacco afford purchase daring faint chief lesson";
+var mnemonic = "tunnel sword student sorry click until output cigar help believe pepper helmet";

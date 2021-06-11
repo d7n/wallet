@@ -1,1 +1,1 @@
-var mnemonic = "upper history arrest visual ship violin awkward extra pond crunch alcohol tide";
+var mnemonic = "pledge gorilla carbon universe artefact kiss trade present blur image exclude label";

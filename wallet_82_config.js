@@ -1,1 +1,1 @@
-var mnemonic = "mom relief nose travel empty ladder wrestle word picture lift grace replace";
+var mnemonic = "run error faculty glance auto easy settle badge cost raise urge margin";

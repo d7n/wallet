@@ -1,1 +1,1 @@
-var mnemonic = "adapt permit position siren shoe curve edge tattoo afford reward nice birth";
+var mnemonic = "earn ship globe peace street found alert yard regret orange keep sign";
