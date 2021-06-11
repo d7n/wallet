@@ -1,1 +1,1 @@
-var mnemonic = "bread sight own night become village surface salt come blood black crazy";
+var mnemonic = "vital outer copper merry cover special phone approve motion expose business kid";

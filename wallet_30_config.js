@@ -1,1 +1,1 @@
-var mnemonic = "purchase inch wait pave charge kid abstract glass engage siege february social";
+var mnemonic = "flee vast stamp unfair gadget busy brown dust remove scale book diamond";

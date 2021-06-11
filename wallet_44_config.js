@@ -1,1 +1,1 @@
-var mnemonic = "fragile require tissue clip boil exhibit forest mouse hold hybrid cage feature";
+var mnemonic = "boss board blossom loyal velvet alone spread rose adjust mouse giant armor";

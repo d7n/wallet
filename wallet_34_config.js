@@ -1,1 +1,1 @@
-var mnemonic = "suffer elevator mystery bring fantasy valve subway symptom alpha tennis snow lava";
+var mnemonic = "shed decrease wide shuffle doll wish emotion consider riot pink width soul";

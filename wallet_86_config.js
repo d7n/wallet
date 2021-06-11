@@ -1,1 +1,1 @@
-var mnemonic = "renew hour great viable keep erupt unknown husband honey reason indoor exact";
+var mnemonic = "beauty breeze dream pretty napkin comic smoke motor tissue grit remove wise";

@@ -1,1 +1,1 @@
-var mnemonic = "sun hello excess insane olympic market grab nominee nephew amused liberty lawn";
+var mnemonic = "clump dinner wide excite group orphan razor plastic balance dry toy balcony";

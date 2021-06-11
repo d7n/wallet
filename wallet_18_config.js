@@ -1,1 +1,1 @@
-var mnemonic = "audit alert exclude butter tray asset lemon notable scrap day chair post";
+var mnemonic = "angle little lion blossom sudden rival way lunch reward indicate victory media";

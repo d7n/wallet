@@ -1,1 +1,1 @@
-var mnemonic = "another rival clog hip mean guard execute wrist dignity army humor game";
+var mnemonic = "spoil buddy decide double grunt grief guitar must prize prepare amateur bone";

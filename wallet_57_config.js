@@ -1,1 +1,1 @@
-var mnemonic = "make cancel rebel glue slab model spider road kingdom claim volume come";
+var mnemonic = "evoke price gossip east into transfer lady actor actor expire verify dose";

@@ -1,1 +1,1 @@
-var mnemonic = "immense novel broccoli load talk flight future puzzle visa gather defense transfer";
+var mnemonic = "drive giggle capable indoor grow learn soft debate solar purse cute animal";

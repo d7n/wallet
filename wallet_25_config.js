@@ -1,1 +1,1 @@
-var mnemonic = "reward believe budget ecology asset pioneer delay ready penalty hurdle develop media";
+var mnemonic = "muscle unable indicate maze load mind pipe unit gift mammal shallow empower";

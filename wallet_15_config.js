@@ -1,1 +1,1 @@
-var mnemonic = "provide baby border dry rally sick kiss later vivid grow right disorder";
+var mnemonic = "slow kitchen addict volume range outdoor ginger exercise aware select flame space";

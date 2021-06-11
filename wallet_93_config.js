@@ -1,1 +1,1 @@
-var mnemonic = "sun beauty whisper crystal swing forget mom elder lamp file couch load";
+var mnemonic = "verify success ramp clog theory strategy raise initial shadow sunny will setup";

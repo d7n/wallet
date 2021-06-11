@@ -1,1 +1,1 @@
-var mnemonic = "team ticket fortune absent concert damage alien wood benefit office oven canvas";
+var mnemonic = "holiday spread hazard shine bulk forum room trophy switch loyal peasant bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "raise syrup fatal behind long pioneer allow rich pony jaguar cool property";
+var mnemonic = "tip cool hold trend hurt stamp filter laundry toast giggle bunker must";

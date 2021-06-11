@@ -1,1 +1,1 @@
-var mnemonic = "uncover deliver display general obscure member extra high coin shine miss wreck";
+var mnemonic = "boil rebel follow want pool peasant follow initial kiss laundry man lunch";

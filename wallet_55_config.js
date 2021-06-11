@@ -1,1 +1,1 @@
-var mnemonic = "fade radio media lunar rebel happy furnace lion pull owner flavor length";
+var mnemonic = "extra beef cannon vast major express race unique replace include describe census";

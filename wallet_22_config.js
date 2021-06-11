@@ -1,1 +1,1 @@
-var mnemonic = "route marble medal royal economy exist coil inquiry tower flash six harvest";
+var mnemonic = "tag much target regular base absent raw razor civil fame voyage undo";

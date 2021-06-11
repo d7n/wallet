@@ -1,1 +1,1 @@
-var mnemonic = "aisle roof include unable good mouse label pulse cabin genius great danger";
+var mnemonic = "mountain eager coast eagle cage drink behind decorate extra verify two oven";

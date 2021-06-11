@@ -1,1 +1,1 @@
-var mnemonic = "absorb next common waste consider truly goat erode chest mystery view cricket";
+var mnemonic = "liberty perfect velvet blanket transfer great betray night program front movie ankle";

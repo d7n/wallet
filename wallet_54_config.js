@@ -1,1 +1,1 @@
-var mnemonic = "cup sphere option sketch crew forest spell blame cube cluster together cause";
+var mnemonic = "picture absent cricket assume blade rug unique body flock ugly achieve ketchup";

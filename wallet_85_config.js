@@ -1,1 +1,1 @@
-var mnemonic = "aunt hotel cool pink ride quantum volcano buffalo magic logic robot subway";
+var mnemonic = "bargain dial festival moon yard disorder connect mimic maze hedgehog expect pair";

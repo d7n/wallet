@@ -1,1 +1,1 @@
-var mnemonic = "photo evoke purchase syrup mind pull valve trigger roof thunder same boat";
+var mnemonic = "anger safe decorate crumble truck nice romance novel eight awake pattern obscure";

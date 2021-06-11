@@ -1,1 +1,1 @@
-var mnemonic = "assault involve spice copy wrestle trumpet daring universe humor arena diesel chalk";
+var mnemonic = "exhaust coast moment consider engine become ugly rescue flush dirt mask theory";

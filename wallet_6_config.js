@@ -1,1 +1,1 @@
-var mnemonic = "quality carbon dial fragile pledge swallow question because ice kiss face sting";
+var mnemonic = "tongue bottom vehicle awkward there maze physical cigar detail ceiling guitar piece";

@@ -1,1 +1,1 @@
-var mnemonic = "theory avoid auto finish skull around dry report sting forest juice catalog";
+var mnemonic = "clay beyond flip sign answer family armor cause season fancy kit conduct";

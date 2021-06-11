@@ -1,1 +1,1 @@
-var mnemonic = "cupboard hood spin urban lecture razor infant repeat start swim chronic range";
+var mnemonic = "derive rhythm safe order exact glove oak brush evidence minute pizza play";

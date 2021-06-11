@@ -1,1 +1,1 @@
-var mnemonic = "inform harsh future height angry benefit warrior coconut utility mixture swallow return";
+var mnemonic = "toy define boil gift success dry robust lesson rescue blouse drop arena";

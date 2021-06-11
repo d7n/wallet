@@ -1,1 +1,1 @@
-var mnemonic = "card possible toddler famous judge oil enhance fabric normal question pizza inmate";
+var mnemonic = "planet lottery can waste glimpse siren toilet ask magnet sail miss flame";

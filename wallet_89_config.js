@@ -1,1 +1,1 @@
-var mnemonic = "north rib install collect giggle grow perfect spatial drive flip topic crazy";
+var mnemonic = "time cable dawn liar expect describe athlete six swim daughter lobster gate";

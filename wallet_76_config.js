@@ -1,1 +1,1 @@
-var mnemonic = "type feed mercy smart soft slogan sight royal bunker near actress nation";
+var mnemonic = "clutch mouse gentle whip mass umbrella return identify runway mouse concert burst";

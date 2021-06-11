@@ -1,1 +1,1 @@
-var mnemonic = "veteran suit license trust extra ramp front detail myself crew promote organ";
+var mnemonic = "advance shoulder grid magic attack grocery make illness solution soda issue element";

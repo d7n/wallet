@@ -1,1 +1,1 @@
-var mnemonic = "vast chalk noble deputy master autumn bind assault august raccoon march palm";
+var mnemonic = "know welcome involve buffalo since share more bus level ritual real inhale";

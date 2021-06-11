@@ -1,1 +1,1 @@
-var mnemonic = "salmon member high legend liquid bone fun click crane permit fall patient";
+var mnemonic = "toilet pride earth still weapon vendor rate ski foil rely topic shoulder";

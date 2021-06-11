@@ -1,1 +1,1 @@
-var mnemonic = "magic mountain loan tomato wood lion shrug drive mosquito relief swamp hedgehog";
+var mnemonic = "record harbor arrange month mountain album lift sense blood route toddler soft";

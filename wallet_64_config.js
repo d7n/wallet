@@ -1,1 +1,1 @@
-var mnemonic = "paper office enrich zebra inner cram slice symptom wedding now sheriff slight";
+var mnemonic = "bacon brother much smart secret tank debris again agent warm three wrap";

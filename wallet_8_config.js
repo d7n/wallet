@@ -1,1 +1,1 @@
-var mnemonic = "script retire category liar melody hollow baby any sniff main neck cradle";
+var mnemonic = "destroy raise orange weird hover time attract symptom inside sausage apple battle";

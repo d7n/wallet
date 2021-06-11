@@ -1,1 +1,1 @@
-var mnemonic = "answer vote annual middle patient focus grace peanut poet hover more garlic";
+var mnemonic = "time loop wrap boring crew ignore morning frog output banner embrace people";

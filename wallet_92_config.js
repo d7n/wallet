@@ -1,1 +1,1 @@
-var mnemonic = "body know zero unit test cupboard climb cargo oval benefit puppy fox";
+var mnemonic = "horror wise swamp lottery noodle illegal produce animal win twice pause narrow";

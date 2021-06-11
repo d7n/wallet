@@ -1,1 +1,1 @@
-var mnemonic = "about cute unhappy thumb kiwi will short sphere knee pilot amused insane";
+var mnemonic = "swim myth buffalo assume correct level flash neck twice glove solution siege";

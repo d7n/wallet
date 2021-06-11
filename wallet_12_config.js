@@ -1,1 +1,1 @@
-var mnemonic = "stuff gain trust luggage injury choose oyster broccoli bicycle bounce logic exercise";
+var mnemonic = "battle output torch entry canoe half fix congress because sick orange danger";

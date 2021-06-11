@@ -1,1 +1,1 @@
-var mnemonic = "mansion diesel name adapt file glare holiday erase other artefact refuse salmon";
+var mnemonic = "velvet cancel argue blouse seminar train snow hen joy false depart bachelor";

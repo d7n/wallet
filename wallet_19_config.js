@@ -1,1 +1,1 @@
-var mnemonic = "quit lemon chronic salad alter man drift play tumble spin husband north";
+var mnemonic = "edge myself update reject entry tank service source catch behave style test";

@@ -1,1 +1,1 @@
-var mnemonic = "defy length welcome bleak gentle click fatal shove demand kit other eye";
+var mnemonic = "stereo skate ski capable mixed supply album expect hold bridge coral second";

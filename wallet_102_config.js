@@ -1,1 +1,1 @@
-var mnemonic = "climb edit nominee degree stove soap true solve tragic hotel bamboo panther";
+var mnemonic = "truly funny combine trip stable enforce two joke humor pet attack because";

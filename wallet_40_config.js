@@ -1,1 +1,1 @@
-var mnemonic = "real suit away gown surprise more mule volume anchor fortune prevent same";
+var mnemonic = "enforce enjoy tuition average rocket live spawn turn choose unfair chunk village";

@@ -1,1 +1,1 @@
-var mnemonic = "suggest rookie isolate panel obvious grief neck stay idle salute kingdom cluster";
+var mnemonic = "amount that retire exchange feed option pet globe fade banner occur fame";

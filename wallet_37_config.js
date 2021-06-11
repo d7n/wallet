@@ -1,1 +1,1 @@
-var mnemonic = "smart add book simple boy castle friend vital satisfy month rather firm";
+var mnemonic = "alley call agree seat worth subject wedding asthma cigar one stuff cement";

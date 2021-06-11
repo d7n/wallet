@@ -1,1 +1,1 @@
-var mnemonic = "result focus shell luxury layer valid round memory venture able appear vehicle";
+var mnemonic = "onion benefit gravity faith penalty margin fury chief fade enlist patient bean";

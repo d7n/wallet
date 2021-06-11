@@ -1,1 +1,1 @@
-var mnemonic = "decide payment taxi dinner slogan help expect bundle become harvest charge purchase";
+var mnemonic = "expose essay wool snap empty pumpkin teach kind potato refuse wealth shift";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo jar panel blade endless possible select dizzy captain top title surprise";
+var mnemonic = "skin ability bullet owner toddler stadium motion mouse person twice area job";

@@ -1,1 +1,1 @@
-var mnemonic = "mom settle inhale auto faint tiny symbol into choice seminar address slide";
+var mnemonic = "report panic battle action borrow hospital dutch wasp grocery arrow tattoo river";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil cover lake humor fire pass unveil alter shoe tide fetch man";
+var mnemonic = "render pool movie later case elevator allow embark blur caution rival candy";

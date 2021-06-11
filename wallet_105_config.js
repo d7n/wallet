@@ -1,1 +1,1 @@
-var mnemonic = "delay gain club can october enter margin effort thank fall damp brass";
+var mnemonic = "client one lift either hub letter mandate dolphin female rely blush scorpion";

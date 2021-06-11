@@ -1,1 +1,1 @@
-var mnemonic = "zero sponsor own little forest hundred evidence mail paper square dismiss fever";
+var mnemonic = "aware trust sniff magnet afraid digital breeze boring family lumber weekend often";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect mobile dry burger circle antenna filter property spawn man spin wonder";
+var mnemonic = "bid cement practice picnic festival midnight believe surprise install ghost balance trust";

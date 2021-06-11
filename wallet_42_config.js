@@ -1,1 +1,1 @@
-var mnemonic = "visit melt sunset rate quality right harvest addict avocado piece bitter rail";
+var mnemonic = "enough whale switch lift typical rebel tennis assume dolphin fortune modify stairs";

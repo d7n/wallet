@@ -1,1 +1,1 @@
-var mnemonic = "divert magic tonight place purchase thrive alcohol attack ancient road wisdom panda";
+var mnemonic = "juice they fossil deal certain illness inch door expand imitate wise brown";

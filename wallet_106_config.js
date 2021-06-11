@@ -1,1 +1,1 @@
-var mnemonic = "reward speak firm jungle adapt romance razor safe street cream rescue yellow";
+var mnemonic = "slice injury stage image employ sponsor portion enroll castle apple april middle";

@@ -1,1 +1,1 @@
-var mnemonic = "notable animal peanut morning bracket cover near describe swim deal six ugly";
+var mnemonic = "measure gun bulk food deny lunch festival tiger prepare genre ordinary cancel";

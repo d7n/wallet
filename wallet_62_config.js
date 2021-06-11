@@ -1,1 +1,1 @@
-var mnemonic = "pair icon feel napkin crowd imitate arm pigeon final adult dynamic theme";
+var mnemonic = "roast parade convince dune reopen flag capital entire winner grape pond vicious";

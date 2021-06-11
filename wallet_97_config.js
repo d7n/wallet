@@ -1,1 +1,1 @@
-var mnemonic = "win middle salad flash beef eager grit make total life victory bread";
+var mnemonic = "property dune hobby sorry sell elite exhibit join moment traffic fashion royal";

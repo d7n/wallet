@@ -1,1 +1,1 @@
-var mnemonic = "actual job scrap candy type isolate unfair acoustic advance code tornado old";
+var mnemonic = "end bulk firm token ecology predict upgrade grape throw vote burden biology";

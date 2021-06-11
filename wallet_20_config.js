@@ -1,1 +1,1 @@
-var mnemonic = "flock toilet neck toddler own enact blouse mixture dignity property envelope leopard";
+var mnemonic = "level excite angry subject luggage vague elite flee element book crime rare";

@@ -1,1 +1,1 @@
-var mnemonic = "return report parrot wolf tuna seek penalty common tourist multiply quantum humble";
+var mnemonic = "panic tray jeans chimney deal potato despair antique sort leader tackle check";

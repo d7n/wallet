@@ -1,1 +1,1 @@
-var mnemonic = "ill now property clerk basic orchard feed indicate drip approve alarm analyst";
+var mnemonic = "salute smart vivid vanish enter flock lesson unknown miracle blossom say room";

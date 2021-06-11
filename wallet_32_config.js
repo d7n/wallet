@@ -1,1 +1,1 @@
-var mnemonic = "tower melt cupboard maze absorb south trophy title prefer awkward vast gloom";
+var mnemonic = "unhappy slide furnace cart yellow primary trust trend sustain spray cherry orient";

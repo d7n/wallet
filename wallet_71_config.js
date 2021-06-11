@@ -1,1 +1,1 @@
-var mnemonic = "chimney crazy shield youth risk master thumb else mean team rifle calm";
+var mnemonic = "focus speak cabbage actress push dragon remove sand maze fossil victory squirrel";

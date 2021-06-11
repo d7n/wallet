@@ -1,1 +1,1 @@
-var mnemonic = "document gas token saddle baby wild remove define wild clown false change";
+var mnemonic = "faint grow come ski coffee shell home creek prison cigar nuclear blind";

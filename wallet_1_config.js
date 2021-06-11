@@ -1,1 +1,1 @@
-var mnemonic = "old catalog clever owner fossil armed autumn major roast elbow misery remember";
+var mnemonic = "equip kangaroo catalog drink sign bus logic jeans abuse immune legend garden";

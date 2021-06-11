@@ -1,1 +1,1 @@
-var mnemonic = "pattern keep entire ocean frog cute spare random icon danger smooth unknown";
+var mnemonic = "sell ask fever exchange success nerve cover lucky drama cement half tree";

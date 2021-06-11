@@ -1,1 +1,1 @@
-var mnemonic = "work stock soup device because snake symbol since extend other beauty chase";
+var mnemonic = "horror culture cart crystal mother enlist truly split absent feed record warrior";

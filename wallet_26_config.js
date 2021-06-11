@@ -1,1 +1,1 @@
-var mnemonic = "legal pony lizard mirror glory crime bamboo obtain become immense clutch vote";
+var mnemonic = "brain portion isolate render orphan inherit recipe mask tonight whale mother occur";

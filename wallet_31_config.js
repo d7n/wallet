@@ -1,1 +1,1 @@
-var mnemonic = "taxi vacuum old jazz exist pipe virus jaguar client festival tone evil";
+var mnemonic = "attract draft glass column churn grain potato satisfy blood movie thumb boil";

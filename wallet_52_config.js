@@ -1,1 +1,1 @@
-var mnemonic = "film light soap buzz rent poem keep fatigue odor lab beef airport";
+var mnemonic = "excess solar valve involve state enable post vocal oxygen sniff step broken";

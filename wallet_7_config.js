@@ -1,1 +1,1 @@
-var mnemonic = "panic print always artefact tree bird wife soul sauce victory olympic onion";
+var mnemonic = "august cube puppy power zero shove olive what dizzy yellow adult addict";

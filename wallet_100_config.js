@@ -1,1 +1,1 @@
-var mnemonic = "nice fish sure able empower gap outdoor risk buzz gown project life";
+var mnemonic = "chimney lend blind trade satoshi aim ahead wreck famous coin vault female";

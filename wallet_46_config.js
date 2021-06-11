@@ -1,1 +1,1 @@
-var mnemonic = "panther expose bullet flight suit make butter easy squeeze owner boost seek";
+var mnemonic = "eyebrow pair luggage again mango hard collect letter agent cycle diesel series";

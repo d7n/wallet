@@ -1,1 +1,1 @@
-var mnemonic = "search unique tissue minimum glance ticket tonight egg art estate you opera";
+var mnemonic = "head payment word spoil web pipe sibling muscle easily make vacant evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "argue desk armor weekend share version trophy party patient tunnel cause alter";
+var mnemonic = "print kitten ethics uphold aunt clap tank switch hard elder jaguar fun";

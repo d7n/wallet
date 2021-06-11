@@ -1,1 +1,1 @@
-var mnemonic = "clown credit depend blood diet lounge type stage lesson coin imitate issue";
+var mnemonic = "judge final unique nut order suggest glass pink aware drum discover twin";

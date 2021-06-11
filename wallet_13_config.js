@@ -1,1 +1,1 @@
-var mnemonic = "romance degree equal budget pigeon genuine undo emotion maze word jaguar shield";
+var mnemonic = "sentence during future forest estate rifle toilet lecture shuffle egg view rare";

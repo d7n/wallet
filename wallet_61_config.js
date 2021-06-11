@@ -1,1 +1,1 @@
-var mnemonic = "fiscal hockey myth lesson census broccoli they humble lake neck heart cross";
+var mnemonic = "sadness help brain turn index legend left choice loop federal rubber fever";

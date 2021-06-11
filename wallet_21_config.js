@@ -1,1 +1,1 @@
-var mnemonic = "antique beach renew satisfy logic member capable tag audit kidney when donate";
+var mnemonic = "remove tag announce entire risk chair increase engage rural amount pipe final";

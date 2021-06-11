@@ -1,1 +1,1 @@
-var mnemonic = "sample crouch mystery shallow frog sudden spread lesson gloom dance emerge away";
+var mnemonic = "hundred prepare long love health light online muscle nut drift long general";

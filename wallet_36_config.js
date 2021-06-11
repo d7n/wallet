@@ -1,1 +1,1 @@
-var mnemonic = "busy depend emotion parent seminar outer silent arena owner chunk balance case";
+var mnemonic = "pool submit evil vivid barrel shoulder rate exotic cook favorite strategy present";

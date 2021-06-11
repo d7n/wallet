@@ -1,1 +1,1 @@
-var mnemonic = "palace flame pact know topic cost together rocket twist mix escape style";
+var mnemonic = "sell tired ticket dilemma unaware praise noodle clarify skate cable miss tomorrow";

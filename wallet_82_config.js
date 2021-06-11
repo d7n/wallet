@@ -1,1 +1,1 @@
-var mnemonic = "floor post field danger high fade foam silly round liar someone sea";
+var mnemonic = "bulk turn inform exist midnight detect worth question ceiling weasel spider develop";

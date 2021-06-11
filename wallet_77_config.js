@@ -1,1 +1,1 @@
-var mnemonic = "payment cat river ignore speak valid can travel zoo tray demand mad";
+var mnemonic = "mixed negative small drift drum recall aisle plunge purpose weather join stomach";

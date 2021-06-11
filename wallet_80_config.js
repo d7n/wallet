@@ -1,1 +1,1 @@
-var mnemonic = "code climb damage ridge toward render insane kit eager recipe day online";
+var mnemonic = "install ten panther angry wire measure ramp bone sheriff detect essence pencil";

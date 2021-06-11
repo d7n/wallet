@@ -1,1 +1,1 @@
-var mnemonic = "tissue bamboo surround donor gun pretty series hero chaos desk forget sponsor";
+var mnemonic = "layer foot economy end minute want float abandon arm faculty raise hidden";
