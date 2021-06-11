@@ -1,1 +1,1 @@
-var mnemonic = "south science wool enforce awful deposit enroll voice toilet antique wide proud";
+var mnemonic = "elegant gap capable survey laugh mystery decide bleak ice thank husband reduce";

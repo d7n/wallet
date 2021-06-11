@@ -1,1 +1,1 @@
-var mnemonic = "plunge enroll awful rib garment rib tape bunker choose venue wife reflect";
+var mnemonic = "crane shell fury dose deposit offer island arrow tip seminar boat dolphin";

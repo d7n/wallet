@@ -1,1 +1,1 @@
-var mnemonic = "manual change van bicycle deliver shove drill oak teach talent orange stage";
+var mnemonic = "clip pupil endorse brave put two six casino door flee attitude hello";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol stay popular match route keen advance gesture ridge garment segment eye";
+var mnemonic = "sad dinner mirror museum any rally actual science pull rare mechanic rude";

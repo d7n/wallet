@@ -1,1 +1,1 @@
-var mnemonic = "remove very elder list truth apple arm enlist metal increase virtual evolve";
+var mnemonic = "salt shoot punch pet girl gorilla evidence hospital next sausage tragic novel";

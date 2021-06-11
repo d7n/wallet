@@ -1,1 +1,1 @@
-var mnemonic = "another trophy end wood toddler venture point pause virus twist side song";
+var mnemonic = "kingdom because skull trade behind assist canvas acoustic wrong tail virtual aim";

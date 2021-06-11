@@ -1,1 +1,1 @@
-var mnemonic = "teach know couch horse radio only real parrot lizard alley blush filter";
+var mnemonic = "ketchup near grit recall tornado neither sketch cube display thunder student joy";

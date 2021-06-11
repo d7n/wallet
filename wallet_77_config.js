@@ -1,1 +1,1 @@
-var mnemonic = "visual asthma pitch clap journey unknown clerk scene cry edge tragic unlock";
+var mnemonic = "lady decide dial lunch shrimp leisure keen green knife mail pulp bean";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon decorate social buffalo coyote about unique move anger auction hybrid silent";
+var mnemonic = "wing news shift diet ritual drum obvious emerge cycle high dumb dentist";

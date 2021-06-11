@@ -1,1 +1,1 @@
-var mnemonic = "funny thought attract crumble source pride engine silent runway purpose invest long";
+var mnemonic = "then fork pig horse crumble history swap crush river disagree surface hire";

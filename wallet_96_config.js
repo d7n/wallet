@@ -1,1 +1,1 @@
-var mnemonic = "lumber million captain guilt aim shallow start brand crash misery match file";
+var mnemonic = "update bronze camera view affair program snake winter share enough example hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy expect inform include order awkward frown review curious shiver bring sword";
+var mnemonic = "route peace interest cousin retire verify slam episode barrel flat focus twin";

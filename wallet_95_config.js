@@ -1,1 +1,1 @@
-var mnemonic = "father case wish blur bar mirror vast unique illness network cigar differ";
+var mnemonic = "program tourist fringe foil web dynamic hub coin truck thunder sausage spare";

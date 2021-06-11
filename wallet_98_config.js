@@ -1,1 +1,1 @@
-var mnemonic = "multiply repair crunch just faith tired laugh polar family level flip clog";
+var mnemonic = "armed capital cry urge someone blur cheap arch staff fiscal put style";

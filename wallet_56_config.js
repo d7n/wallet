@@ -1,1 +1,1 @@
-var mnemonic = "paddle absorb manage innocent river birth spy swift rotate joy possible tree";
+var mnemonic = "fossil relief chronic fish visa cup coffee disorder unable arrest traffic print";

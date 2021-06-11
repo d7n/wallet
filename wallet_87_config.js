@@ -1,1 +1,1 @@
-var mnemonic = "danger scare oyster omit churn mesh minor glass detail latin discover rotate";
+var mnemonic = "boost give search sleep throw boss rug sell surge click town puppy";

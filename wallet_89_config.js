@@ -1,1 +1,1 @@
-var mnemonic = "mention sail bitter garbage ripple vacuum movie knock sword trick turtle immense";
+var mnemonic = "clown ring frost blind material intact twin organ walnut phone mixed mean";

@@ -1,1 +1,1 @@
-var mnemonic = "random pool injury stone gate payment march plastic match dice plastic song";
+var mnemonic = "employ annual together skate glory furnace banner planet trial bleak twenty armor";

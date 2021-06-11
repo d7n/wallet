@@ -1,1 +1,1 @@
-var mnemonic = "december author jar circle initial trip phrase hotel deposit valve buffalo sleep";
+var mnemonic = "type grunt album glimpse age infant marble asthma sight shield tell lava";

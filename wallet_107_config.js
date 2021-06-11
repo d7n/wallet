@@ -1,1 +1,1 @@
-var mnemonic = "section wood cream rate describe curtain auction truck common hair trim cable";
+var mnemonic = "kite pear height raise immense alley talent victory stable rich moon pulp";

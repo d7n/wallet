@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow village morning office tribe decrease soda total victory diet zero debris";
+var mnemonic = "violin improve cross top tunnel split six sign raw jelly birth fire";

@@ -1,1 +1,1 @@
-var mnemonic = "open vacant truly advice grace rapid artist comic lottery soldier lobster motor";
+var mnemonic = "other relief kiss ability seven atom doctor grief supply know blanket shove";

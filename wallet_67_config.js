@@ -1,1 +1,1 @@
-var mnemonic = "subway budget apart banner come diesel cancel shift average flame melody voice";
+var mnemonic = "feel scrub lift talent bread notable peasant best only model debris use";

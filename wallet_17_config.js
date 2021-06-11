@@ -1,1 +1,1 @@
-var mnemonic = "nut couch panther destroy series hurt eye first imitate cereal protect baby";
+var mnemonic = "bone elbow scare sunny fiction educate add machine rescue balcony summer decide";

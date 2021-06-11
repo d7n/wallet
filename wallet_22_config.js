@@ -1,1 +1,1 @@
-var mnemonic = "squirrel catalog run zone gun sure doctor still turtle mixed erupt genius";
+var mnemonic = "bike enact act salt crane card any lecture dial cream gorilla chair";

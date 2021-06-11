@@ -1,1 +1,1 @@
-var mnemonic = "father surprise horse swap table either obey rhythm job draft fantasy lake";
+var mnemonic = "donkey abandon label convince type that minimum flat uncover day occur lady";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix banner indoor stomach bag oven tuna cable amateur say protect under";
+var mnemonic = "valley sure better glory gorilla bring choice wild horn stamp trophy champion";

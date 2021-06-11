@@ -1,1 +1,1 @@
-var mnemonic = "detail execute dilemma color snake palace brand spray scrap dinosaur into nest";
+var mnemonic = "foil express degree airport host proud way this exercise face bar detail";

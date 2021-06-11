@@ -1,1 +1,1 @@
-var mnemonic = "suit visual long teach doctor door goat finish knee denial wink lens";
+var mnemonic = "pistol casual donate enforce route require crime universe try ketchup couch cup";

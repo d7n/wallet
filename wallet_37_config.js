@@ -1,1 +1,1 @@
-var mnemonic = "fall general knee border kitten wire wreck render scout game dad nasty";
+var mnemonic = "oxygen enable derive shuffle either pony marine now capital turkey fan useless";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer future about friend confirm badge hamster beef hospital ready radar brief";
+var mnemonic = "advice garage obscure blast leaf since page ugly alarm soup crane spend";

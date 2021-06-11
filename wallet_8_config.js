@@ -1,1 +1,1 @@
-var mnemonic = "federal slogan kidney twenty produce digital student such observe coast wear novel";
+var mnemonic = "month prevent kit range unfold disagree fire cave wood insect toilet horse";

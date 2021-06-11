@@ -1,1 +1,1 @@
-var mnemonic = "album pair surge claim approve sweet material style physical blush chalk maple";
+var mnemonic = "struggle home steak plug copy earth weather canoe stable apology invite memory";

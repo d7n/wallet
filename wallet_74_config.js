@@ -1,1 +1,1 @@
-var mnemonic = "used hill flight fall diamond manual sick buzz welcome smile diet page";
+var mnemonic = "cash army perfect plunge maid endless age wish pigeon stock track breeze";

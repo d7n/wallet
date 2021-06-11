@@ -1,1 +1,1 @@
-var mnemonic = "large copy fetch advance silver health twist biology senior ozone step view";
+var mnemonic = "foster mom sure chronic access phrase cycle country hire act fatigue dog";

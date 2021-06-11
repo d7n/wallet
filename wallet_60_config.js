@@ -1,1 +1,1 @@
-var mnemonic = "frame manual anxiety slogan spawn robot black stereo cattle tooth junior about";
+var mnemonic = "primary behave help trick apology spread diagram swap require circle tobacco life";

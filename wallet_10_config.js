@@ -1,1 +1,1 @@
-var mnemonic = "script wood program average fossil blush speak distance gain urge fiction tell";
+var mnemonic = "patch blanket rhythm danger grab betray know describe exact industry spread tail";

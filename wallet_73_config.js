@@ -1,1 +1,1 @@
-var mnemonic = "cousin any globe sick swear attract night case drive guide fiscal flame";
+var mnemonic = "street often domain hip globe antique poem quarter walnut depend turtle exist";

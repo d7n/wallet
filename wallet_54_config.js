@@ -1,1 +1,1 @@
-var mnemonic = "banana laptop bless leader gun bleak broom flower concert connect still visit";
+var mnemonic = "stamp tunnel three relief output canyon frown adult solid yard stuff west";

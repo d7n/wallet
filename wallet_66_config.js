@@ -1,1 +1,1 @@
-var mnemonic = "cram wrap draft believe turtle hold video grocery bundle abandon floor feel";
+var mnemonic = "long multiply property giggle enter gown layer item swim hill invite legal";

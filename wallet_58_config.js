@@ -1,1 +1,1 @@
-var mnemonic = "degree jewel actress moment miss term eye width input peanut they table";
+var mnemonic = "aerobic assume simple mercy border rapid ability kid again pumpkin suit warrior";

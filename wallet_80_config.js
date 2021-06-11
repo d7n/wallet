@@ -1,1 +1,1 @@
-var mnemonic = "surge clarify unaware disorder accident key attend margin vapor salmon cousin obscure";
+var mnemonic = "return combine gorilla gospel under escape polar trim will brick guard deer";

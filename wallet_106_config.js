@@ -1,1 +1,1 @@
-var mnemonic = "lock dress spatial warrior brass anxiety net sport mixed wrong junk grace";
+var mnemonic = "suggest distance jewel century come cupboard season border timber high stumble margin";

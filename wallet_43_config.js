@@ -1,1 +1,1 @@
-var mnemonic = "myself tenant try march ivory afford vault occur order surprise same grow";
+var mnemonic = "town luxury eye ozone assist bean kick senior erupt embark ask chest";

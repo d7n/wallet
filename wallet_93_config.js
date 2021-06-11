@@ -1,1 +1,1 @@
-var mnemonic = "useless gain drop range father recall earth perfect soda spice cram state";
+var mnemonic = "present better hero collect essence endless moral night that leave group tooth";

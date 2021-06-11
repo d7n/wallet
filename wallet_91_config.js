@@ -1,1 +1,1 @@
-var mnemonic = "rough crush ahead immune scrub rubber winter present fiber office month catch";
+var mnemonic = "double great rug spare hawk range soccer wrong idle nation tissue number";

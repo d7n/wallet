@@ -1,1 +1,1 @@
-var mnemonic = "mask play vanish purse latin maple alert feel roof easily bright inject";
+var mnemonic = "burden hedgehog zebra eagle cabbage snow repair hurdle globe life town pencil";

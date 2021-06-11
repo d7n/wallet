@@ -1,1 +1,1 @@
-var mnemonic = "rule able gap say fossil virus dune manual deputy pretty disease emotion";
+var mnemonic = "craft shadow upon raw amazing glass rule high only before stumble hundred";

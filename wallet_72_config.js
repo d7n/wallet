@@ -1,1 +1,1 @@
-var mnemonic = "wire balance clip inquiry anxiety list ignore proud hollow wheat flush tribe";
+var mnemonic = "north urban payment bench dry buffalo fossil panda sail daring dry dizzy";

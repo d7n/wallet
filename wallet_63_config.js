@@ -1,1 +1,1 @@
-var mnemonic = "oval develop quick view hire scrap process latin frame urban bar simple";
+var mnemonic = "wish million digital cigar size float color include truth please use choose";

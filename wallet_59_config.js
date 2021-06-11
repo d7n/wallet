@@ -1,1 +1,1 @@
-var mnemonic = "save drip bullet village service ethics favorite wide mask scorpion rose open";
+var mnemonic = "echo rough muffin carpet innocent mix twenty maple fan fame raven general";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid tool wide isolate aim hover spy crumble mushroom vintage fork fog";
+var mnemonic = "draft increase wedding cluster duck suggest follow banana gym ozone announce inch";

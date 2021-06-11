@@ -1,1 +1,1 @@
-var mnemonic = "reform vast space tag menu define fringe grant round resemble sustain timber";
+var mnemonic = "coyote merit ceiling orange drastic surge notice dragon pig inform heart behave";

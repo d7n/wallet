@@ -1,1 +1,1 @@
-var mnemonic = "stage collect only marriage under despair comic school citizen dream intact success";
+var mnemonic = "example hurry must involve unveil sword pole top inherit canvas family quick";

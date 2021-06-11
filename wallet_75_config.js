@@ -1,1 +1,1 @@
-var mnemonic = "monitor tilt rival cross snake virtual wrist furnace inhale increase praise special";
+var mnemonic = "vital penalty spike city artefact film noise neglect blouse ring curtain trigger";

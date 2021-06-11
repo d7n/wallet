@@ -1,1 +1,1 @@
-var mnemonic = "endless random cricket ugly wheel expand merry robot inmate find virtual play";
+var mnemonic = "wing play drum catalog crane prevent old apart word april fancy cart";

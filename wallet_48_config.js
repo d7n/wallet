@@ -1,1 +1,1 @@
-var mnemonic = "please junior joke garment earn casino opinion brief often sustain decide job";
+var mnemonic = "harvest green flame vault lava follow pull blue attitude galaxy achieve response";

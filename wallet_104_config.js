@@ -1,1 +1,1 @@
-var mnemonic = "thunder piece special similar tuition steel fetch engage donor exile mind task";
+var mnemonic = "clinic chat kiss crop fall jaguar scout bless harvest entry stool monkey";

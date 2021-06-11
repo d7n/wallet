@@ -1,1 +1,1 @@
-var mnemonic = "oppose hybrid before future eyebrow where leader lazy drum prevent grain trumpet";
+var mnemonic = "require unfair hamster ignore timber gather magic denial ten drop balcony left";

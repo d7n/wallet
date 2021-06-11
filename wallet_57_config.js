@@ -1,1 +1,1 @@
-var mnemonic = "spatial veteran embark topple version situate limb pen square expose vibrant grain";
+var mnemonic = "nut cup liar traffic choice coast coral host medal injury gallery select";

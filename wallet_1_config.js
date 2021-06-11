@@ -1,1 +1,1 @@
-var mnemonic = "shallow section inmate usage aunt spare ghost witness curve sunny barely sheriff";
+var mnemonic = "echo galaxy market pink example depend surprise private tiger snake food aerobic";

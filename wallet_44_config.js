@@ -1,1 +1,1 @@
-var mnemonic = "that window dad saddle bottom force sleep provide cactus monitor aspect swap";
+var mnemonic = "mesh elite rocket damage crouch base pistol globe know width burst helmet";

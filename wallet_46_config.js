@@ -1,1 +1,1 @@
-var mnemonic = "travel tuition enact enact avoid best cat pact smile entry hurdle wish";
+var mnemonic = "coral unaware attract sing armed wrap try sea throw lumber order asset";

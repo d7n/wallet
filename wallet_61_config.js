@@ -1,1 +1,1 @@
-var mnemonic = "govern invest obscure inject gift blood breeze pet oxygen fragile during sort";
+var mnemonic = "metal tortoise finish uphold distance age excite over lecture where across estate";

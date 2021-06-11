@@ -1,1 +1,1 @@
-var mnemonic = "motor drastic duty test hamster project pole truck surge wasp expand ask";
+var mnemonic = "border fine thank feature hawk access target arm frog agent kiss photo";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss dwarf proof situate train learn present trip state budget danger outdoor";
+var mnemonic = "carry thought music silver before leader uniform cruise pottery indicate reopen pyramid";

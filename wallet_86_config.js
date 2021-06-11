@@ -1,1 +1,1 @@
-var mnemonic = "empty caution child attend movie unknown drama box blade wing later control";
+var mnemonic = "badge gym brown upset catch almost hip lunar differ young mosquito approve";

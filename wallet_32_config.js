@@ -1,1 +1,1 @@
-var mnemonic = "problem copper coconut small divorce wine jaguar nature dinner hen museum plastic";
+var mnemonic = "police powder rubber shop dirt borrow hen motion reunion orphan sorry grain";

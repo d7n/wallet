@@ -1,1 +1,1 @@
-var mnemonic = "rare soft emotion august staff kingdom opinion rocket limb seat vendor change";
+var mnemonic = "cable puzzle hen volume amused review share top century express question spice";

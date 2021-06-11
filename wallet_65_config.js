@@ -1,1 +1,1 @@
-var mnemonic = "execute sort dumb cigar dignity address december bundle better gossip round person";
+var mnemonic = "vendor polar mom predict profit code finger poet oval palm ethics beach";

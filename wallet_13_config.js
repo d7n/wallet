@@ -1,1 +1,1 @@
-var mnemonic = "panel bright critic very such truth syrup weapon shine box seat travel";
+var mnemonic = "knee syrup ranch mother bicycle limit flight front mother equal cloud kitten";

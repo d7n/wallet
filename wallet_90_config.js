@@ -1,1 +1,1 @@
-var mnemonic = "grace apart edge lunar shoot sure already recall light race current soup";
+var mnemonic = "gloom figure glad silent piece outside purchase aerobic decrease assist field sausage";

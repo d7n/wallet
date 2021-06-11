@@ -1,1 +1,1 @@
-var mnemonic = "marriage bright false tube nothing leisure drop become century pottery wage invite";
+var mnemonic = "trip senior salute vote wrong more faculty degree pistol shoe blood crush";

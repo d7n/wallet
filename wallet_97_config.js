@@ -1,1 +1,1 @@
-var mnemonic = "scale early apart utility floor install render elite carpet match fall bid";
+var mnemonic = "consider arrange room first prison various grant recipe laugh brother carry tent";

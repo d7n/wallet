@@ -1,1 +1,1 @@
-var mnemonic = "strategy champion decade year rescue dress text soda rescue frozen hammer candy";
+var mnemonic = "nest elevator point grunt little praise guess elder funny top depth reason";

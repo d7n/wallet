@@ -1,1 +1,1 @@
-var mnemonic = "split reunion nuclear grape mad zero goose canal any zone spoon earth";
+var mnemonic = "riot kind clip palace trash cash puppy month uncle round spring three";

@@ -1,1 +1,1 @@
-var mnemonic = "immense little motor husband accident attitude library moment impose coach edge luxury";
+var mnemonic = "access spare afraid attack energy sell viable cloth divert talent vicious spice";

@@ -1,1 +1,1 @@
-var mnemonic = "above balance believe ripple army danger item category require ghost tortoise street";
+var mnemonic = "speak globe close ensure ignore core patient figure dog syrup stove bullet";

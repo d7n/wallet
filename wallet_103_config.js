@@ -1,1 +1,1 @@
-var mnemonic = "office rough cereal profit turtle cable foot immune ridge tool burger legend";
+var mnemonic = "noodle script early ostrich fan neither already earth dress access obscure tell";

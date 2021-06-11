@@ -1,1 +1,1 @@
-var mnemonic = "spatial you clinic final clump half idle bind knee enlist output throw";
+var mnemonic = "hospital catch enforce because myth video bind stem swear wood south sign";

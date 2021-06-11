@@ -1,1 +1,1 @@
-var mnemonic = "entry water able shrug rotate start decrease survey slight basic blade differ";
+var mnemonic = "rare unfair spread fresh busy music absent airport turn disagree regular tiger";

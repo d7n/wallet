@@ -1,1 +1,1 @@
-var mnemonic = "volcano current style mule use excite essence stadium teach fiber enemy opera";
+var mnemonic = "trip initial rack gain vocal stove proud glue burst night veteran permit";

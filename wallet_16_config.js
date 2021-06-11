@@ -1,1 +1,1 @@
-var mnemonic = "dwarf later eight baby trick parent envelope crack chapter hold hub mammal";
+var mnemonic = "begin wheel cabin pear diet dizzy economy cook gentle praise basket tape";

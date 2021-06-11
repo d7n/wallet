@@ -1,1 +1,1 @@
-var mnemonic = "wash chimney duck space negative alarm luxury audit word kick increase pulp";
+var mnemonic = "lift embrace harbor place strong pond hen tennis museum lake bomb valley";

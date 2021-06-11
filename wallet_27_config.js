@@ -1,1 +1,1 @@
-var mnemonic = "tooth glory clinic volume account drill fit various one tool rebuild rhythm";
+var mnemonic = "old surface parent fade large member consider disease plug woman screen traffic";

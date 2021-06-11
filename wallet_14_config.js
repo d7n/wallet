@@ -1,1 +1,1 @@
-var mnemonic = "coral cousin spin enhance tree fringe flip travel half loan gasp hobby";
+var mnemonic = "armed fold lesson cotton pear huge chair fancy garlic pretty rely rescue";

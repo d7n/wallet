@@ -1,1 +1,1 @@
-var mnemonic = "behind series promote spot trumpet force nature elegant upset crater voice spray";
+var mnemonic = "used around sugar salt motor tail arrive tape such alley stuff above";

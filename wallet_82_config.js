@@ -1,1 +1,1 @@
-var mnemonic = "impose fan wasp position crowd motor alcohol gadget chef cheap pill caution";
+var mnemonic = "vicious grape cousin answer paddle rapid man town nose region trash argue";

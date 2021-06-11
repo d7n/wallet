@@ -1,1 +1,1 @@
-var mnemonic = "episode anger leg barrel that noodle trouble thing sting suggest what demand";
+var mnemonic = "sock you habit correct bundle melody busy exhibit quit worth addict rigid";

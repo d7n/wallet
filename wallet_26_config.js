@@ -1,1 +1,1 @@
-var mnemonic = "hobby guilt empty sniff judge include meat rebel retreat brief adjust volume";
+var mnemonic = "gadget tiger solve mobile gravity know damage ginger armor bargain mother bundle";

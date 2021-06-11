@@ -1,1 +1,1 @@
-var mnemonic = "exit ecology boost wild symptom list gate wreck camp nut embody master";
+var mnemonic = "anchor resist foot zero sniff sudden foam enroll fantasy pass moral chat";

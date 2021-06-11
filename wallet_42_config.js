@@ -1,1 +1,1 @@
-var mnemonic = "capital sample rough auction valley trash police letter either chimney ecology property";
+var mnemonic = "will couple famous argue prosper sight genre reduce pass autumn churn kitten";

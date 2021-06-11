@@ -1,1 +1,1 @@
-var mnemonic = "sweet edge clay host capable strategy popular black arena primary shallow humor";
+var mnemonic = "eyebrow tide hole erosion hawk sport potato spoil divide tag type mom";

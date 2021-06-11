@@ -1,1 +1,1 @@
-var mnemonic = "marble security east divert resource mad explain fatal rubber exit palace message";
+var mnemonic = "until nature thumb deny fault actor law task wool empty swim pelican";
