@@ -1,1 +1,1 @@
-var mnemonic = "hand today marine defense acoustic guess pole motor document exhaust awful rocket";
+var mnemonic = "hand issue trend cool girl enact tuition assault denial summer series mad";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner economy skull aunt oak list other weird lion repeat sadness fix";
+var mnemonic = "ozone crisp east obscure voyage relief hockey glow during original way citizen";

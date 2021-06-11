@@ -1,1 +1,1 @@
-var mnemonic = "just popular art bulk sauce ecology indicate rescue stable master marine body";
+var mnemonic = "wealth private lazy zero before leave elegant depend unhappy distance tank flee";

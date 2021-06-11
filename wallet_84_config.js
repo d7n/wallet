@@ -1,1 +1,1 @@
-var mnemonic = "notable trash cereal memory guilt tower slender cheese pumpkin knee region sense";
+var mnemonic = "sunset divorce floor loyal wagon rice cotton horse squirrel reduce horn chimney";

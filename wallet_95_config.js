@@ -1,1 +1,1 @@
-var mnemonic = "box radio tobacco visual nest skull law tail inflict pupil scale screen";
+var mnemonic = "hip bench nothing choose climb fever middle mention pistol involve ask parent";

@@ -1,1 +1,1 @@
-var mnemonic = "invite yard museum youth diesel shine expand word basic pottery adjust merge";
+var mnemonic = "lend trial unveil vital universe nominee cool inner hospital cream enough tennis";

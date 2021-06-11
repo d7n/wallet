@@ -1,1 +1,1 @@
-var mnemonic = "shoulder dilemma alley west ask kiss collect robot apart grace hundred hat";
+var mnemonic = "lion amateur public federal monkey ready crash planet list tribe carbon small";

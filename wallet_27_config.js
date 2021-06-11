@@ -1,1 +1,1 @@
-var mnemonic = "ball perfect used bone slab pistol memory category behave forget mutual disagree";
+var mnemonic = "census warm ankle hen arch grab aim protect section food funny track";

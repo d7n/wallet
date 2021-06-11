@@ -1,1 +1,1 @@
-var mnemonic = "agree focus yard rare gain click head assume pole food sample muffin";
+var mnemonic = "once roast load rescue language involve grief virus spoon pudding choose puppy";

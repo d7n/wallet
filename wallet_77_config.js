@@ -1,1 +1,1 @@
-var mnemonic = "raccoon resource client add joke metal best spot citizen fashion steak sword";
+var mnemonic = "process theme vacant day gospel other merge renew deputy provide execute cube";

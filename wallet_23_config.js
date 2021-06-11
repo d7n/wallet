@@ -1,1 +1,1 @@
-var mnemonic = "shrug glory ginger cube time earth just bag olympic mixture attract divorce";
+var mnemonic = "pool example pluck drum parent piece fluid long purity absorb pony gadget";

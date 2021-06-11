@@ -1,1 +1,1 @@
-var mnemonic = "confirm bonus stand mad logic churn tobacco similar army memory thing rebel";
+var mnemonic = "goose robot crisp require damp hover goat salute zoo teach middle damp";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis hurry purity sorry pencil party deer scheme mutual foster type slim";
+var mnemonic = "unable involve width moment pen eternal ancient logic pilot bubble civil hungry";

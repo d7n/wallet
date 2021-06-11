@@ -1,1 +1,1 @@
-var mnemonic = "later confirm verb timber rabbit switch pottery park panda feature arrest obey";
+var mnemonic = "hand struggle baby kid label quantum one salon escape occur meat clay";

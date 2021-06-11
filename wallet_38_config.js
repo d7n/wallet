@@ -1,1 +1,1 @@
-var mnemonic = "decline wing spread trash silly update detect topic humble invite jeans skin";
+var mnemonic = "you hedgehog tray gap skin liberty comfort close slot barely maid gaze";

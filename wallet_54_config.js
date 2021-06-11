@@ -1,1 +1,1 @@
-var mnemonic = "fix antique issue aerobic polar play music pool load warrior boat tape";
+var mnemonic = "general second across during reason since again typical kite ride grunt dizzy";

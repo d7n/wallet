@@ -1,1 +1,1 @@
-var mnemonic = "tip inhale sing rookie require veteran alley rebuild excuse left index side";
+var mnemonic = "useless alien either luggage daring wrist topple gun mom one reason affair";

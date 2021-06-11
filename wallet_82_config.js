@@ -1,1 +1,1 @@
-var mnemonic = "gesture debate canal food eternal shift color useful effort address start forget";
+var mnemonic = "cushion hundred famous debris impulse hawk image comfort hidden skull express spot";

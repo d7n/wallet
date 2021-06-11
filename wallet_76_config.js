@@ -1,1 +1,1 @@
-var mnemonic = "vacant adult item during ritual clinic version uphold genuine silver tuna pool";
+var mnemonic = "boss hub habit matter blouse plug upgrade prefer aerobic order layer laugh";

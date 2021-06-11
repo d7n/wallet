@@ -1,1 +1,1 @@
-var mnemonic = "warm keep august wrap impact unique original gadget history search water shuffle";
+var mnemonic = "fix guitar six gift lecture any conduct toe pottery auction matter ozone";

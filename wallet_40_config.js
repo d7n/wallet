@@ -1,1 +1,1 @@
-var mnemonic = "tissue retire seek helmet fashion plate awesome embark library title subway axis";
+var mnemonic = "gorilla buyer project excite satisfy cruise half broken engine culture layer nephew";

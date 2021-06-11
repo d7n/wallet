@@ -1,1 +1,1 @@
-var mnemonic = "frost help object brown artefact pause pony two silver coyote fashion play";
+var mnemonic = "sheriff staff napkin keep modify kingdom mule beef lion game unknown inside";

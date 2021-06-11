@@ -1,1 +1,1 @@
-var mnemonic = "tragic ethics enrich lounge hello rally basket already laundry abstract romance resource";
+var mnemonic = "deliver story brown twenty citizen donate proud frequent vocal crop length kitten";

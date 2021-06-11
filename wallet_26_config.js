@@ -1,1 +1,1 @@
-var mnemonic = "arctic knee negative expect fringe mom short feature clever genre humble during";
+var mnemonic = "coil smart body shiver fee rotate common unfair doctor stage cook other";

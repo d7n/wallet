@@ -1,1 +1,1 @@
-var mnemonic = "joke wise average bleak sort kitten decide cargo lion knock cattle evidence";
+var mnemonic = "morning sadness estate birth fork lesson orange soldier system butter cereal they";

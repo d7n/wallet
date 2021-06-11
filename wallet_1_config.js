@@ -1,1 +1,1 @@
-var mnemonic = "ethics sock random subway exclude mutual slice print pizza swamp improve lend";
+var mnemonic = "basket weapon path result survey flash portion photo genuine trouble gravity model";

@@ -1,1 +1,1 @@
-var mnemonic = "educate intact slender quarter utility pencil rescue arrest pigeon favorite private crowd";
+var mnemonic = "various foot fade scare bleak quality skirt divorce minute equal theory advice";

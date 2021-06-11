@@ -1,1 +1,1 @@
-var mnemonic = "liquid proud volume ready execute kid zoo element rail obvious kind dismiss";
+var mnemonic = "trash cover expose van carry sell cream purse price way earth nothing";

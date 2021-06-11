@@ -1,1 +1,1 @@
-var mnemonic = "tumble cherry income layer yellow whisper fancy hill smooth ghost average phone";
+var mnemonic = "toast start relax brass rebel hen bone toss problem crowd display team";

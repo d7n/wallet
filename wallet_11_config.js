@@ -1,1 +1,1 @@
-var mnemonic = "ranch obey sorry grace give antique join cheese own pact steak theme";
+var mnemonic = "crew mix enough stay surprise swallow thrive hurt pepper broccoli beauty hill";

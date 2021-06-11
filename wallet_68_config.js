@@ -1,1 +1,1 @@
-var mnemonic = "unable rack tape boss before episode lend sand sorry cactus light duck";
+var mnemonic = "reason language trick life list neglect hundred add verify coil unfair fatigue";

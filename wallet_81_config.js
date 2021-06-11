@@ -1,1 +1,1 @@
-var mnemonic = "soon govern keep icon harsh echo priority amateur twelve lyrics long retreat";
+var mnemonic = "breeze muscle erosion stove student double random sample depart armed dune vital";

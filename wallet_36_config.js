@@ -1,1 +1,1 @@
-var mnemonic = "space virus twice weapon margin venue dog bottom plate clump vacant retire";
+var mnemonic = "stadium assume climb put goose minimum expire proof forget north name sphere";

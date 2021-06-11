@@ -1,1 +1,1 @@
-var mnemonic = "route raccoon ride hockey wisdom trigger soda hip save liquid style remind";
+var mnemonic = "kiwi humor tobacco pretty frozen fatigue extra marriage upper damp chaos head";

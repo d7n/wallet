@@ -1,1 +1,1 @@
-var mnemonic = "waste pave hire book uphold either cement miss recall electric attract brown";
+var mnemonic = "climb crumble drop bottom primary hard bunker beach drink clip atom mom";

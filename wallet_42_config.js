@@ -1,1 +1,1 @@
-var mnemonic = "lesson receive pitch myth ensure enjoy tiger buffalo trend garlic corn guide";
+var mnemonic = "boat seed civil dilemma speed fence dirt dress leave sugar father what";

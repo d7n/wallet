@@ -1,1 +1,1 @@
-var mnemonic = "boost three protect year twice hockey transfer success inch because act execute";
+var mnemonic = "imitate post way crack carpet asthma wise monster episode swallow verb gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "food slender oxygen claim great ignore prosper noise slush dinner crawl tone";
+var mnemonic = "dance disease idea save turn flat invite media electric company opera loan";

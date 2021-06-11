@@ -1,1 +1,1 @@
-var mnemonic = "culture area box height strong lend faculty feed level define much coyote";
+var mnemonic = "affair profit curve harsh prefer budget tomato quick pitch farm soldier any";

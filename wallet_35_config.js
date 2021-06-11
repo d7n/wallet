@@ -1,1 +1,1 @@
-var mnemonic = "consider visit pattern wasp biology lonely gauge north ghost inner symbol alley";
+var mnemonic = "door saddle host install wrestle trip home captain vintage man audit liquid";

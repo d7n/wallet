@@ -1,1 +1,1 @@
-var mnemonic = "reform pear canyon bitter deliver grid hold victory foil swallow nasty party";
+var mnemonic = "crazy bamboo else hawk photo enhance ball silent fortune uncle entry broom";

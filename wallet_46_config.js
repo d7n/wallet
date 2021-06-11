@@ -1,1 +1,1 @@
-var mnemonic = "hill glimpse lecture absurd appear action treat ill elegant brown endless captain";
+var mnemonic = "drum debate plate upon fault void odor gasp tooth funny arrange helmet";

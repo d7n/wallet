@@ -1,1 +1,1 @@
-var mnemonic = "else minimum basic fly minimum waste ski addict spend oil cradle iron";
+var mnemonic = "cliff ritual mimic attitude february business load valve dose actual upon three";

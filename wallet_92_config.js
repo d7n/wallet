@@ -1,1 +1,1 @@
-var mnemonic = "october minute tag air asthma sister lizard impose dash library frame step";
+var mnemonic = "surround angle idea celery grocery fringe fox certain purchase ridge toe hole";

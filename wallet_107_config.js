@@ -1,1 +1,1 @@
-var mnemonic = "phone valid exist phone sell scene loud pilot tomato elevator adapt next";
+var mnemonic = "desert vendor actual negative depend this mule grape hen address venue auto";

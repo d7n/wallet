@@ -1,1 +1,1 @@
-var mnemonic = "example nut law whale jacket bean solar punch engage guess cabbage super";
+var mnemonic = "lunch what educate cabin improve entry invest midnight clock mistake text margin";

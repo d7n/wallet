@@ -1,1 +1,1 @@
-var mnemonic = "match jelly fold patch account hope eyebrow lava wish average piano assist";
+var mnemonic = "luggage giraffe lazy kangaroo outside plate sausage poverty public summer work october";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap convince enjoy local glance say group ship solve gap rookie lunar";
+var mnemonic = "floor review company bind canoe puppy ankle traffic machine know when witness";

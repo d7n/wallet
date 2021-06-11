@@ -1,1 +1,1 @@
-var mnemonic = "runway magic repair grocery mom bone chief blur gap car employ foil";
+var mnemonic = "stamp argue stomach season inform trigger hour derive beyond exact warrior express";

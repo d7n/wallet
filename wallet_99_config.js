@@ -1,1 +1,1 @@
-var mnemonic = "capital fury invite sphere dignity issue laugh noise finish arrive thought arch";
+var mnemonic = "index fine attract fantasy motor group arrive box mom shove tube core";

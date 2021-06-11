@@ -1,1 +1,1 @@
-var mnemonic = "sample transfer step party wrist network level wrestle theme merit ankle keen";
+var mnemonic = "mosquito embrace swear neck ride toilet kidney clock wisdom hover elder split";

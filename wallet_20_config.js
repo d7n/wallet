@@ -1,1 +1,1 @@
-var mnemonic = "cushion become program room bleak such moral chair arctic baby pencil mystery";
+var mnemonic = "okay feed absorb addict merit lizard early recipe evolve keen club candy";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure surface tobacco choice lottery spare salute baby nest filter lake fan";
+var mnemonic = "nerve casual grace sign sail slam toy mimic diagram upon caught believe";

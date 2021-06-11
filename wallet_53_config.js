@@ -1,1 +1,1 @@
-var mnemonic = "able book unknown rug foil major test lemon dust property hidden robot";
+var mnemonic = "usage bitter fault pencil one cotton oppose liar buzz credit short ability";

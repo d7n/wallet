@@ -1,1 +1,1 @@
-var mnemonic = "office often crane brand fame buffalo title chronic join unable milk scissors";
+var mnemonic = "elder demise impulse stairs armed design pair abstract picture shell lion business";

@@ -1,1 +1,1 @@
-var mnemonic = "push what swim okay liar flock token scissors kiss observe nature tortoise";
+var mnemonic = "buffalo visit bless romance cinnamon audit pudding unable forget crime claim dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "include upgrade toy joke brave wolf all bulk develop way betray lens";
+var mnemonic = "dog hip jewel tell drift payment enact debris pole judge enhance mandate";

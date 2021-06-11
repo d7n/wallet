@@ -1,1 +1,1 @@
-var mnemonic = "ready random ostrich walk warrior dash invite myth accident attend chapter install";
+var mnemonic = "logic sail number month yellow siren license whip exclude knife give logic";

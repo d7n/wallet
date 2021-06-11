@@ -1,1 +1,1 @@
-var mnemonic = "eager club reopen myself faint help silent police two arena powder meadow";
+var mnemonic = "hobby panther deliver miracle shell biology wrong crane seek hollow forum prison";

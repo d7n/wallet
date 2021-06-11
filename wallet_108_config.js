@@ -1,1 +1,1 @@
-var mnemonic = "island agree wool scrub reject token captain dragon fine ostrich maximum idle";
+var mnemonic = "toward curtain cotton response shoe picnic assume theory riot recycle suggest bounce";

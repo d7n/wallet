@@ -1,1 +1,1 @@
-var mnemonic = "bind wage bunker spatial ivory spike public civil blue october awake produce";
+var mnemonic = "ecology exile adapt century tornado sail skill peace online riot defense dragon";

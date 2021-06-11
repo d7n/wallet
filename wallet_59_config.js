@@ -1,1 +1,1 @@
-var mnemonic = "spin vault betray home apology say sweet humble jump fold scorpion segment";
+var mnemonic = "spy gown increase grape captain symptom orange rain prison vacant divide spice";

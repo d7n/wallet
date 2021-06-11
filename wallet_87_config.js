@@ -1,1 +1,1 @@
-var mnemonic = "speak hire page noble typical nice zero almost resemble rally advice budget";
+var mnemonic = "sea ride visa divide unveil zebra alien oblige gentle pause doll light";

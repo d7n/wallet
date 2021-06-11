@@ -1,1 +1,1 @@
-var mnemonic = "valley blur face luggage cruel rookie follow upper coconut annual trial own";
+var mnemonic = "crucial found spice mimic brick drum walnut drum crisp motor source soda";

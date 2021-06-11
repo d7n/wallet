@@ -1,1 +1,1 @@
-var mnemonic = "carry supply mention domain join barely tumble then anger galaxy meadow size";
+var mnemonic = "stay cat chronic name power pilot slide museum unique sure person guard";

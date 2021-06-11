@@ -1,1 +1,1 @@
-var mnemonic = "machine nothing tell token image feel west olive taxi trip juice priority";
+var mnemonic = "ability dog helmet retire search great major mesh similar roast decorate crystal";

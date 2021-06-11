@@ -1,1 +1,1 @@
-var mnemonic = "clerk speak transfer wrap open wealth piano couch brief subway treat motor";
+var mnemonic = "cushion enemy range local rent catalog hair frame kick worth thought hand";

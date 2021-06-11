@@ -1,1 +1,1 @@
-var mnemonic = "dwarf transfer leader noble spread business move attract client energy tip dwarf";
+var mnemonic = "aisle figure finish kingdom focus scrub hip uniform skirt junk marine cannon";

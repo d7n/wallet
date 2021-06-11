@@ -1,1 +1,1 @@
-var mnemonic = "zoo mule milk expose blood magic side rail perfect extend noodle profit";
+var mnemonic = "field symbol total slim cherry absorb salute alpha unfold rocket lens blast";

@@ -1,1 +1,1 @@
-var mnemonic = "broken eight canoe wood mechanic invest enemy friend wire orphan rebel food";
+var mnemonic = "reason end tiny axis kit result vague obscure wide risk industry together";

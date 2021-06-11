@@ -1,1 +1,1 @@
-var mnemonic = "tray cattle arrow card cousin ethics across expand plunge fold exercise figure";
+var mnemonic = "wrestle cement wonder shaft hint awful sell must useful artwork fancy real";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey weasel replace that mechanic innocent drive space curve doctor reopen orchard";
+var mnemonic = "collect pelican shell run alley claw select right tilt day sibling afraid";

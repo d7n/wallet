@@ -1,1 +1,1 @@
-var mnemonic = "that talent quarter weird enroll left extend foam october expose galaxy convince";
+var mnemonic = "month roof hello state scheme typical afford ridge kitchen primary impact energy";

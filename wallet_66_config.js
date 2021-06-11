@@ -1,1 +1,1 @@
-var mnemonic = "mixed ginger ball truck loud blossom museum reward glove dinner imitate tackle";
+var mnemonic = "common onion scrub exact guard treat merry idea fiber tell super eight";

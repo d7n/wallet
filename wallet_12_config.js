@@ -1,1 +1,1 @@
-var mnemonic = "session squeeze dolphin private era piano acid dog gap hurt solid crumble";
+var mnemonic = "shift rival rural daughter age minor secret shift weekend snow kiwi bacon";

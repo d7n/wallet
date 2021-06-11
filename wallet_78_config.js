@@ -1,1 +1,1 @@
-var mnemonic = "property victory thought pudding grocery deny enemy number shiver estate regular dignity";
+var mnemonic = "multiply drill differ rural brain gym smoke famous pencil social envelope cloud";

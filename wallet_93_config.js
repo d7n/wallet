@@ -1,1 +1,1 @@
-var mnemonic = "gadget motor sort brisk swallow olive filter drama sauce future lottery puppy";
+var mnemonic = "survey boat surprise leave crane turn easy champion hurdle friend air word";

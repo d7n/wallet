@@ -1,1 +1,1 @@
-var mnemonic = "when vague trick young business cloud ankle omit duty forget wear pet";
+var mnemonic = "loyal decide evoke top proof average winner scheme month guilt zero puzzle";

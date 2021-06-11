@@ -1,1 +1,1 @@
-var mnemonic = "canal electric spatial poem trust wedding inhale laugh leisure scorpion security snake";
+var mnemonic = "owner danger eager just flock equal weird stomach vivid enter caught obtain";

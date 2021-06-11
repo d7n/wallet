@@ -1,1 +1,1 @@
-var mnemonic = "window hockey velvet swap kidney effort churn time august settle sea service";
+var mnemonic = "poverty winter document search during season begin misery jaguar renew hill flock";

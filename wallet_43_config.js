@@ -1,1 +1,1 @@
-var mnemonic = "wire million wagon shock control metal opinion gorilla love close legend season";
+var mnemonic = "click season brother fluid jewel peace prefer kitchen zebra disease canal snap";

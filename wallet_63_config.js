@@ -1,1 +1,1 @@
-var mnemonic = "virus soap any debris disease party medal spike trial kite unhappy love";
+var mnemonic = "torch laptop coin sing almost trash calm load brother parade busy elegant";

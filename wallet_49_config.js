@@ -1,1 +1,1 @@
-var mnemonic = "price marble aware crack retreat boring dizzy still wave jungle private tackle";
+var mnemonic = "panel spike essence depart alter ethics spot derive midnight fossil inject patch";

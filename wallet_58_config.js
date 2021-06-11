@@ -1,1 +1,1 @@
-var mnemonic = "trim master riot wife ugly kind mesh display spirit recipe taxi broccoli";
+var mnemonic = "phrase ginger quiz exhibit shine approve uncle lunch crisp door example young";

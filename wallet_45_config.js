@@ -1,1 +1,1 @@
-var mnemonic = "rate slot language indicate label mechanic tray suffer tone draw memory exhibit";
+var mnemonic = "list include cloth fox proud hundred either equip crouch swamp tiger fashion";

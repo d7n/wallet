@@ -1,1 +1,1 @@
-var mnemonic = "rich injury lunch glance thumb lion mask immense orient patrol tool day";
+var mnemonic = "shuffle army wood crash adult write tunnel grit claw eagle clean fragile";

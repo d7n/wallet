@@ -1,1 +1,1 @@
-var mnemonic = "cat kid sheriff rally matter latin cruel crisp excuse such area myself";
+var mnemonic = "keep episode pistol sponsor alcohol first party fluid relax fame toddler genre";

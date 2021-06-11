@@ -1,1 +1,1 @@
-var mnemonic = "thrive moral insane tomato drill sound office concert coil unlock crew wave";
+var mnemonic = "ostrich what invite dentist cousin glove tiger rate turkey insane friend bright";
