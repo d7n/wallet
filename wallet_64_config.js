@@ -1,1 +1,1 @@
-var mnemonic = "squeeze chapter bargain private march omit panther treat element thank target sick";
+var mnemonic = "nurse zoo toast stamp enrich robot clump thunder young tobacco document daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling diesel hat include sugar neutral pool liquid melody unfold cotton addict";
+var mnemonic = "either fit bonus practice jewel purity unusual index rice salute february people";

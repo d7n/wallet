@@ -1,1 +1,1 @@
-var mnemonic = "ten festival crime put fresh toy ring dumb use caution intact van";
+var mnemonic = "replace ripple ripple leopard vicious this section mechanic april faith again weekend";

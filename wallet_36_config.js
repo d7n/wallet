@@ -1,1 +1,1 @@
-var mnemonic = "purpose manage rent three rule steel riot uncle planet lemon crouch outer";
+var mnemonic = "motion school unique quality hello napkin outer use security grain idle bomb";

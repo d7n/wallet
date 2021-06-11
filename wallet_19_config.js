@@ -1,1 +1,1 @@
-var mnemonic = "recipe side script turtle secret blouse economy travel dinosaur hold nephew tongue";
+var mnemonic = "uncover vivid tattoo harsh antique ritual fetch orient theory trophy oxygen other";

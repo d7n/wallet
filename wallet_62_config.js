@@ -1,1 +1,1 @@
-var mnemonic = "rare slim clip file beyond family nice soap hole delay medal dinosaur";
+var mnemonic = "oblige parrot valve leisure tell stomach celery corn urban broccoli poem answer";

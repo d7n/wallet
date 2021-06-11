@@ -1,1 +1,1 @@
-var mnemonic = "exile velvet faith bone jacket demand lottery ivory region place smooth mosquito";
+var mnemonic = "point permit safe current chimney hero neglect time jealous hurt fuel knee";

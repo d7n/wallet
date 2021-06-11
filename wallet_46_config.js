@@ -1,1 +1,1 @@
-var mnemonic = "chief banana peanut large water alert eight install dynamic clean snap other";
+var mnemonic = "solution effort hair wisdom grow glimpse boat sound myth approve sunset panda";

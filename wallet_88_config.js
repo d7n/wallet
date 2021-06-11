@@ -1,1 +1,1 @@
-var mnemonic = "easily traffic fox spray render ordinary antenna post solar crop tumble height";
+var mnemonic = "trumpet enjoy chaos voice dentist mind antenna tower weapon jungle artist hip";

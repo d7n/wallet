@@ -1,1 +1,1 @@
-var mnemonic = "illegal dolphin average craft control huge gadget foil hold kind coconut brother";
+var mnemonic = "broom voyage long settle curve hurry include federal business return moral daughter";

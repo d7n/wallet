@@ -1,1 +1,1 @@
-var mnemonic = "novel bullet battle ripple onion hen tray kind paper exhibit best leg";
+var mnemonic = "party witness spawn join alarm valid liar mixture make glue kick buddy";

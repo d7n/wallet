@@ -1,1 +1,1 @@
-var mnemonic = "crystal sense flash industry amateur leave coyote dismiss stairs shield mixture animal";
+var mnemonic = "brand rib segment radio swallow collect shock today manual spatial witness creek";

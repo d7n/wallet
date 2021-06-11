@@ -1,1 +1,1 @@
-var mnemonic = "proof cash corn loud loud fringe option abuse offer mosquito paper spray";
+var mnemonic = "segment inflict earn mind accuse void miss include traffic code milk book";

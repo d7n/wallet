@@ -1,1 +1,1 @@
-var mnemonic = "method rate merry true smile arrive sun junior firm couch decrease stamp";
+var mnemonic = "team fence mesh cloth box rival bright filter strike much zone morning";

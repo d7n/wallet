@@ -1,1 +1,1 @@
-var mnemonic = "stuff lesson expire west light hover toilet general labor token script eyebrow";
+var mnemonic = "height pioneer east flavor orphan verb pupil what volume element liberty boring";

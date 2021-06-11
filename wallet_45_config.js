@@ -1,1 +1,1 @@
-var mnemonic = "silver offer foil tackle boost clean custom sight antenna enter give shed";
+var mnemonic = "camera jazz rifle humble inject rescue blue concert guilt despair tag snake";

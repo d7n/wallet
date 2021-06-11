@@ -1,1 +1,1 @@
-var mnemonic = "tribe broom actor club absurd news grow tooth black vote else indoor";
+var mnemonic = "about auction vague true depart faith flight mimic leisure talent claim basket";

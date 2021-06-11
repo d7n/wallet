@@ -1,1 +1,1 @@
-var mnemonic = "galaxy horn theory sweet city acid ostrich twenty twice topple nature indoor";
+var mnemonic = "stem usage zebra dawn also dose observe flavor better puppy fit arrest";

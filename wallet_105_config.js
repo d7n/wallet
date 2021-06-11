@@ -1,1 +1,1 @@
-var mnemonic = "barrel oil wisdom uncle sport crumble enact spot burden grief cabbage describe";
+var mnemonic = "gas vocal regular energy acid among prison scorpion laugh modify confirm lake";

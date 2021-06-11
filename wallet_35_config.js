@@ -1,1 +1,1 @@
-var mnemonic = "crystal candy million jump escape rifle absurd sight gauge around inmate soon";
+var mnemonic = "balcony drill return middle duty wagon plate kit leader sponsor hint smart";

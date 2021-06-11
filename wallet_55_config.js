@@ -1,1 +1,1 @@
-var mnemonic = "position major skirt wear permit shallow tobacco immense bean puppy nut used";
+var mnemonic = "bachelor salmon grief grape post sport bike label cattle also tooth tissue";

@@ -1,1 +1,1 @@
-var mnemonic = "excess shoulder decade talk lamp involve plate name fence spoon pond immune";
+var mnemonic = "toddler coconut minimum public fashion reason diesel master during wage friend describe";

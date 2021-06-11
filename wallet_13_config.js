@@ -1,1 +1,1 @@
-var mnemonic = "diagram various art belt bench coin goose oppose forum rain blush rule";
+var mnemonic = "deputy cart diagram question finish result flush economy public divide flock liar";

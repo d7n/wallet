@@ -1,1 +1,1 @@
-var mnemonic = "slush sustain rebuild then web rice mad captain host hurt blanket artefact";
+var mnemonic = "bundle dismiss birth detail wild avocado theory mention dash teach slender pole";

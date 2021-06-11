@@ -1,1 +1,1 @@
-var mnemonic = "sun thrive domain remain next estate hidden want pulp ramp increase improve";
+var mnemonic = "hood valve early monkey end clay false garlic walk drive shield depend";

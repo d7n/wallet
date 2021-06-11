@@ -1,1 +1,1 @@
-var mnemonic = "lens primary wine second normal feel analyst horn legend spawn alpha teach";
+var mnemonic = "ginger build income scrub feed thought seven iron circle review sugar dad";

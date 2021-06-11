@@ -1,1 +1,1 @@
-var mnemonic = "depth seven oven scout opera sort coin nest fashion awesome devote bounce";
+var mnemonic = "chicken sail lens unable tornado bright brain trick spawn inflict unusual differ";

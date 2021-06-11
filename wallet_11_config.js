@@ -1,1 +1,1 @@
-var mnemonic = "drum donkey tumble rely junk dutch mistake unable local plunge they swim";
+var mnemonic = "suit pause know orient attract grain hedgehog awesome skirt october level pottery";

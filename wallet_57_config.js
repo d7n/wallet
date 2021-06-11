@@ -1,1 +1,1 @@
-var mnemonic = "text route august grunt control mountain over whale equal future rough denial";
+var mnemonic = "include assist glance federal near illness spike blame luxury melt settle term";

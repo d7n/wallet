@@ -1,1 +1,1 @@
-var mnemonic = "fine essay dose crawl route render all crush wasp shy trust switch";
+var mnemonic = "dinosaur father solve street snap place stumble reflect dinner output stay near";

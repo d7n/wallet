@@ -1,1 +1,1 @@
-var mnemonic = "denial suspect face black jazz chalk entire gate noise blush annual desert";
+var mnemonic = "deer harvest amused energy admit option copper betray chunk rail degree network";

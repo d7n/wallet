@@ -1,1 +1,1 @@
-var mnemonic = "caught manual awake champion please box pretty soul search cigar medal book";
+var mnemonic = "eye million truth long oxygen mail merge dial harbor vacuum stomach multiply";

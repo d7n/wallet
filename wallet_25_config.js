@@ -1,1 +1,1 @@
-var mnemonic = "unfair syrup happy hello fresh useful seat photo claw party remember fuel";
+var mnemonic = "card kiss isolate average soon survey subject area actor remove basic alter";

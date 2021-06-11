@@ -1,1 +1,1 @@
-var mnemonic = "demand size raccoon grace train seminar delay home style top guitar ketchup";
+var mnemonic = "verb cost grow pill asset coin rose punch toilet mango sample chuckle";

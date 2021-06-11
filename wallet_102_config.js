@@ -1,1 +1,1 @@
-var mnemonic = "insect stock arm leisure paper traffic police surge base october tourist relief";
+var mnemonic = "lake island claw vicious desk pear symbol cactus cherry hobby pig clutch";

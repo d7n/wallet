@@ -1,1 +1,1 @@
-var mnemonic = "culture fence label duck enemy always citizen ocean chase limb stay pill";
+var mnemonic = "genuine empower pizza hello rescue empty humble expose train crater prefer quiz";

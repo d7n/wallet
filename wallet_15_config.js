@@ -1,1 +1,1 @@
-var mnemonic = "skull limit arrest enable scrub family useless abandon tiger soup local winter";
+var mnemonic = "maze cloth multiply hero mixture sibling among entire crazy hollow couch bone";

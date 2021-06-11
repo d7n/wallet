@@ -1,1 +1,1 @@
-var mnemonic = "poet attack foot attack opinion lawn brisk blanket resource glad joke calm";
+var mnemonic = "alley gym glare success flame drama glue movie muscle idle abstract monitor";

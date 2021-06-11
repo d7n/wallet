@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog castle spare tell truth silent enlist minimum injury sun cram sand";
+var mnemonic = "medal lecture old art seek cram drift cause reform crack mountain capital";

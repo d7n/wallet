@@ -1,1 +1,1 @@
-var mnemonic = "husband reunion prison drama habit coin chalk soul bench punch convince tell";
+var mnemonic = "height visa mountain garbage satisfy wine hedgehog drift income liquid pond grief";

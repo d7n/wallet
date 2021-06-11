@@ -1,1 +1,1 @@
-var mnemonic = "trash snap model cheese heart genuine ill amazing treat never dilemma degree";
+var mnemonic = "price butter coin sauce note glue reform into grow resist wise taxi";

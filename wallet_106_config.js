@@ -1,1 +1,1 @@
-var mnemonic = "hammer romance busy extra much end witness feel harbor echo wink merge";
+var mnemonic = "prize bird bleak coin merit cute craft tattoo title judge drip genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "typical knock peace afraid later shiver end tent genre monitor fashion guess";
+var mnemonic = "wasp color ketchup coast sight immense segment remove text virus property april";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit try ignore dilemma fence seek truck owner stuff minor youth capital";
+var mnemonic = "black subject lesson clarify unlock relief multiply inherit oak fee eye company";

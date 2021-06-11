@@ -1,1 +1,1 @@
-var mnemonic = "pudding artist must slot meadow host what drink tent essay gas monster";
+var mnemonic = "place loyal cave obvious mom idea table coil barrel together slide squirrel";

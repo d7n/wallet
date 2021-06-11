@@ -1,1 +1,1 @@
-var mnemonic = "blush enhance april join program little cruel harbor dance budget already cup";
+var mnemonic = "seed chef decline entire useless palace net ethics runway glow infant slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp possible small animal garden crystal bring city express unaware adult you";
+var mnemonic = "usual tilt obey impose inflict addict behind eight math dust doll race";

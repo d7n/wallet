@@ -1,1 +1,1 @@
-var mnemonic = "observe slide divert boil theory movie jungle link shrimp two toddler floor";
+var mnemonic = "parade surround island coin paper police scissors rack traffic episode verb spare";

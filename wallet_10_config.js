@@ -1,1 +1,1 @@
-var mnemonic = "brisk camp leopard flavor stay marriage actor device vague method assist suggest";
+var mnemonic = "cannon sell face congress cricket rich diamond hood immune profit guess pledge";

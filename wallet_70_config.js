@@ -1,1 +1,1 @@
-var mnemonic = "sure snake again law sphere chase drum nice notable buyer alcohol arrange";
+var mnemonic = "hurry course deal frequent deer snack scout occur escape blue honey drip";

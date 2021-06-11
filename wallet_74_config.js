@@ -1,1 +1,1 @@
-var mnemonic = "orphan museum meadow tilt churn ginger lunch federal suit rubber seat jump";
+var mnemonic = "device urban escape tenant loyal icon window above puppy pioneer canal elite";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon spray gravity promote bone asthma quick fly casino virtual inquiry scrap";
+var mnemonic = "dry okay eagle clarify marriage almost old island usual chunk nut radar";

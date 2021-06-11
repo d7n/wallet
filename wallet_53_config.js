@@ -1,1 +1,1 @@
-var mnemonic = "badge riot orient permit next next people horn fall lift grunt solid";
+var mnemonic = "solar refuse company image over fatal penalty bargain medal budget wear end";

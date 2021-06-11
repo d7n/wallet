@@ -1,1 +1,1 @@
-var mnemonic = "transfer humor pigeon shuffle zoo hybrid hybrid planet they under sauce record";
+var mnemonic = "knee corn feed visual couch verify slice idle alien leader monkey pill";

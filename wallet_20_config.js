@@ -1,1 +1,1 @@
-var mnemonic = "salon inject junk name gas copy script hunt neglect hobby denial joy";
+var mnemonic = "logic vapor chimney image type smooth remember adjust innocent correct develop toddler";

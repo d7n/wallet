@@ -1,1 +1,1 @@
-var mnemonic = "mass load glance miracle inject mushroom adult minimum observe ripple embark stock";
+var mnemonic = "derive among famous sudden route shy ski silver cup bar cheap movie";

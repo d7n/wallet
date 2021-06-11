@@ -1,1 +1,1 @@
-var mnemonic = "dry fringe fetch trash actress machine motion either find agent brass quantum";
+var mnemonic = "must into unit dove adult carpet million olympic gorilla board fancy curtain";

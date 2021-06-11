@@ -1,1 +1,1 @@
-var mnemonic = "draft wife relax dream again reject bargain deposit tongue cliff radio include";
+var mnemonic = "wife soul resource assume awful produce flush train jeans glance column arena";

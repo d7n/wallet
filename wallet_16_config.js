@@ -1,1 +1,1 @@
-var mnemonic = "month nature figure pudding bean soap grunt fantasy rack parrot social cruel";
+var mnemonic = "kite erosion habit bean delay pulse alone animal pair lottery soon skate";

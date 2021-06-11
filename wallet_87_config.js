@@ -1,1 +1,1 @@
-var mnemonic = "visit increase cannon gain sand buzz hover special black hood cargo muscle";
+var mnemonic = "dutch distance spell echo retreat news sword skill gauge absurd viable foster";

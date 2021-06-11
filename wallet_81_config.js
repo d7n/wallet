@@ -1,1 +1,1 @@
-var mnemonic = "manage pencil demise flush motion sense repeat mesh waste stay patch kid";
+var mnemonic = "lumber length retreat inmate wrap decide inform column peasant fence middle gun";

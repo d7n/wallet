@@ -1,1 +1,1 @@
-var mnemonic = "morning reject color quick time vote until web bachelor inmate genre task";
+var mnemonic = "remain arrest vessel behind recycle song hard future imitate noise shine romance";

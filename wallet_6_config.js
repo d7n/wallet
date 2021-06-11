@@ -1,1 +1,1 @@
-var mnemonic = "apple crush vehicle ivory coconut tunnel cake budget chimney fluid taste chat";
+var mnemonic = "garment room frozen lucky better arm view quiz spray robot census soda";

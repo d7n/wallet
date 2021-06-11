@@ -1,1 +1,1 @@
-var mnemonic = "blouse alley put table clap fiscal twist slow short all shoe cancel";
+var mnemonic = "evil refuse such rebel pattern snake build reject source symbol bonus fiber";

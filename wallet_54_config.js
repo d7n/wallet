@@ -1,1 +1,1 @@
-var mnemonic = "silk flat cruel buddy scrap bleak kiss furnace unveil defy magic eyebrow";
+var mnemonic = "zero vapor cream into mention subject fruit among cross indoor share actual";

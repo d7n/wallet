@@ -1,1 +1,1 @@
-var mnemonic = "release remove zero update party mansion again doctor mail priority submit version";
+var mnemonic = "caught response wealth clip social lava inherit rifle cave fruit genuine hybrid";

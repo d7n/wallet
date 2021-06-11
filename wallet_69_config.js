@@ -1,1 +1,1 @@
-var mnemonic = "caught address image series crouch accuse upon almost soup flush empower category";
+var mnemonic = "top basket method rule bottom learn tail news fish aim step dawn";

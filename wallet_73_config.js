@@ -1,1 +1,1 @@
-var mnemonic = "woman lift camera weather income treat code tent egg hurt birth science";
+var mnemonic = "behave grain green ship clap world provide weasel gossip tone fragile measure";

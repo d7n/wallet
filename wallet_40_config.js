@@ -1,1 +1,1 @@
-var mnemonic = "nature vintage special attitude eye weasel cruel tent floor universe earth stool";
+var mnemonic = "peanut stamp fury alert seven lemon rain ripple device mail blade naive";

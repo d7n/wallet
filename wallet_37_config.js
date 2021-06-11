@@ -1,1 +1,1 @@
-var mnemonic = "rude buffalo anger angry elevator vote logic razor bulk holiday unhappy myth";
+var mnemonic = "prepare elevator wisdom host defense orphan habit trouble accident canyon flee entry";

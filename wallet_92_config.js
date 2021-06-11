@@ -1,1 +1,1 @@
-var mnemonic = "toy gather mention post access scale casual rug catalog tunnel armed pen";
+var mnemonic = "health they casual liquid seek reduce civil caught olive dry yard toilet";

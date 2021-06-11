@@ -1,1 +1,1 @@
-var mnemonic = "candy attend hotel chapter match primary cabin find dentist cost help december";
+var mnemonic = "guess sense scare solve enhance salad shallow slot list blade retreat run";

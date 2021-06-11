@@ -1,1 +1,1 @@
-var mnemonic = "dune lottery wear crew round drastic property profit inform loyal present bronze";
+var mnemonic = "wing zebra fix base donkey earn absurd success arrest prepare say front";

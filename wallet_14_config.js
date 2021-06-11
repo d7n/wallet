@@ -1,1 +1,1 @@
-var mnemonic = "picnic alter clay pet side muscle ill mixture aerobic share early pyramid";
+var mnemonic = "buzz gasp wasp income actor middle clown focus major chief vicious leopard";

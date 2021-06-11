@@ -1,1 +1,1 @@
-var mnemonic = "decide quick loan maid glass foot simple diesel diet shiver range sugar";
+var mnemonic = "hundred hurt spy cruel abstract pigeon they install morning have tomorrow flight";

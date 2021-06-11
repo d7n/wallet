@@ -1,1 +1,1 @@
-var mnemonic = "solid sand audit drive elegant divert poem method smile clarify black afraid";
+var mnemonic = "diagram evolve sock ensure believe rice another era weasel open snack column";

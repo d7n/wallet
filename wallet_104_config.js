@@ -1,1 +1,1 @@
-var mnemonic = "echo matrix wink crazy swamp satisfy give dawn calm invest visual warm";
+var mnemonic = "enter rotate dry cousin weird grow knock ceiling hen cry creek file";

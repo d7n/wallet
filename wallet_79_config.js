@@ -1,1 +1,1 @@
-var mnemonic = "wait confirm canvas phone isolate island estate category alien buddy alien wrestle";
+var mnemonic = "diamond mandate useful betray pudding field logic table control exit submit cram";

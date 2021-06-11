@@ -1,1 +1,1 @@
-var mnemonic = "script harsh pledge trick submit ramp hybrid equip pill kick harsh gap";
+var mnemonic = "machine valley under absent harsh move raw cloth fade country smart relax";
