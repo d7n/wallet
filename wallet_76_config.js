@@ -1,1 +1,1 @@
-var mnemonic = "whip burger old camera immune volcano stage trip novel cruise polar hope";
+var mnemonic = "drum innocent diesel trial lens settle next multiply iron robot exist favorite";

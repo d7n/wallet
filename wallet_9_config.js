@@ -1,1 +1,1 @@
-var mnemonic = "tongue harbor flavor south horror script green guitar pattern fiction upon save";
+var mnemonic = "now fantasy reform minor piece grace achieve planet recycle grocery valid inside";

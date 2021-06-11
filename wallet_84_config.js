@@ -1,1 +1,1 @@
-var mnemonic = "such ordinary turtle upset rack material again vendor private pact subject jar";
+var mnemonic = "belt final ski tunnel chuckle pencil museum glare ladder demise funny deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "speed erosion wet indicate tornado square agent bitter tuna peasant bunker ketchup";
+var mnemonic = "fury happy rich innocent blouse armor ship slot lake critic wish tunnel";

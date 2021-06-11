@@ -1,1 +1,1 @@
-var mnemonic = "spatial jacket blade grab allow wave vast space provide color upper today";
+var mnemonic = "over put amused raw potato final certain else nurse put thunder practice";

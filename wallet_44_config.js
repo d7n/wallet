@@ -1,1 +1,1 @@
-var mnemonic = "say remain elevator before worry snack leisure include off planet owner congress";
+var mnemonic = "pioneer slender future hand spell vast wealth mail wedding steel soft twice";

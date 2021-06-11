@@ -1,1 +1,1 @@
-var mnemonic = "mixture hungry equal around gesture intact silver oppose cruise metal hover only";
+var mnemonic = "seed produce win enhance number clay secret pass second chair medal wood";

@@ -1,1 +1,1 @@
-var mnemonic = "birth cram elder rebel gorilla rule labor already target cricket cotton gallery";
+var mnemonic = "sibling there frozen cool world laundry salute card license evoke lift field";

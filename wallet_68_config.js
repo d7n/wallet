@@ -1,1 +1,1 @@
-var mnemonic = "praise hobby wedding empty hotel come skate unfold deny patrol corn magic";
+var mnemonic = "loop double beef album become body artefact coach explain clip home reward";

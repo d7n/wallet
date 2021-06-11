@@ -1,1 +1,1 @@
-var mnemonic = "roof client early school believe umbrella slogan frown fit oval teach cluster";
+var mnemonic = "safe bachelor hat begin crater push keep vibrant vast push admit satisfy";

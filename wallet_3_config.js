@@ -1,1 +1,1 @@
-var mnemonic = "broom solve immense trend false lend convince hole barrel resist firm spy";
+var mnemonic = "test tribe ceiling girl science inflict hold trophy alone citizen stand move";

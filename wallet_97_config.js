@@ -1,1 +1,1 @@
-var mnemonic = "dance spider prosper kiwi bounce student plastic fury rose fly just disagree";
+var mnemonic = "muffin give typical federal bread reflect artefact sustain minor phone toilet wonder";

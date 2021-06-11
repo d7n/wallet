@@ -1,1 +1,1 @@
-var mnemonic = "absurd right shy oven nose fork cigar idea valid monkey spike wet";
+var mnemonic = "blade swear margin october unaware april march hammer garage hungry history element";

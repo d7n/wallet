@@ -1,1 +1,1 @@
-var mnemonic = "trade change cruise crowd penalty curtain grass hard hungry social flash tortoise";
+var mnemonic = "ski infant rail hub sorry credit sauce matter inquiry solar weapon wool";

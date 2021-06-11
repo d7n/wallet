@@ -1,1 +1,1 @@
-var mnemonic = "glide west ladder humble erase quantum foot top soccer speed zoo record";
+var mnemonic = "exercise pause coil useless retreat october vault arrange print retire dragon annual";

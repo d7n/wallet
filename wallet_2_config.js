@@ -1,1 +1,1 @@
-var mnemonic = "body ribbon useful please click search diet hybrid era lizard frown error";
+var mnemonic = "praise nothing state talent gorilla awkward blue umbrella girl ladder charge quote";

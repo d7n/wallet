@@ -1,1 +1,1 @@
-var mnemonic = "olympic flock shuffle fence demise need rookie aisle wrong ribbon camera exist";
+var mnemonic = "bicycle case regret inquiry bomb gym silver pipe primary universe attitude cart";

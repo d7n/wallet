@@ -1,1 +1,1 @@
-var mnemonic = "reduce nut tumble jungle leader witness wheat meadow pottery elite tomorrow sister";
+var mnemonic = "mule decrease enlist define era husband hood myself wool thunder pretty enhance";

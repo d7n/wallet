@@ -1,1 +1,1 @@
-var mnemonic = "want hill measure pink frequent vault below manage between evidence short labor";
+var mnemonic = "discover shoulder hour salute nominee dust remain sun aerobic sand army fury";

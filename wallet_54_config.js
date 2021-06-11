@@ -1,1 +1,1 @@
-var mnemonic = "steak ginger balcony night move melt scheme cheap apart input mushroom luxury";
+var mnemonic = "captain lab wave round volume soon bitter genre draft minimum beef chicken";

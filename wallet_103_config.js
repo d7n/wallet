@@ -1,1 +1,1 @@
-var mnemonic = "theme hill gaze vote enroll smoke ask field useless december cup chief";
+var mnemonic = "quick old misery virus long plunge stumble concert enroll net seven pink";

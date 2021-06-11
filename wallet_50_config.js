@@ -1,1 +1,1 @@
-var mnemonic = "zero vocal velvet nuclear tomorrow stomach always man method pizza donor slide";
+var mnemonic = "path report grunt balance proof tumble badge balance correct odor energy resource";

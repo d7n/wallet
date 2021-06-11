@@ -1,1 +1,1 @@
-var mnemonic = "relief assist aerobic wife kick margin flock warm usual orchard smoke occur";
+var mnemonic = "human undo display mutual abandon secret margin sell grow spoon swap seminar";

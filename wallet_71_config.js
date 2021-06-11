@@ -1,1 +1,1 @@
-var mnemonic = "treat tragic differ diet drive sight isolate ramp broken birth turtle best";
+var mnemonic = "point spoon pottery action decline hood aware pattern used deny tent polar";

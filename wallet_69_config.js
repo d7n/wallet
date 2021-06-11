@@ -1,1 +1,1 @@
-var mnemonic = "whip spray ranch dove tumble seven chapter interest aerobic behind raven husband";
+var mnemonic = "process manual pet enforce team because acoustic gloom hobby process injury toddler";

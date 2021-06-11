@@ -1,1 +1,1 @@
-var mnemonic = "keen issue cause slot pull crunch useful lift snake letter visual latin";
+var mnemonic = "noble raise ceiling flip hire dream tray degree convince what excuse very";

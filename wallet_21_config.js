@@ -1,1 +1,1 @@
-var mnemonic = "resource like involve hover foster fire tragic kitten motor barely margin sheriff";
+var mnemonic = "tip flash liquid key shy guard luxury sad usage zero umbrella devote";

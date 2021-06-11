@@ -1,1 +1,1 @@
-var mnemonic = "grit arch dynamic flush isolate museum drill under like jelly episode aware";
+var mnemonic = "broken camp miss swim avocado rapid habit appear miracle festival buzz bless";

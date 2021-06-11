@@ -1,1 +1,1 @@
-var mnemonic = "jazz doll capable logic sudden deputy promote abstract bracket crowd flip friend";
+var mnemonic = "spirit two gauge extra tone parade test perfect domain leg ball inflict";

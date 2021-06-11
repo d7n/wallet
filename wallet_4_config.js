@@ -1,1 +1,1 @@
-var mnemonic = "step blood grace bag essay frequent rib clown stage bone domain disorder";
+var mnemonic = "coach diary tent doctor today laugh style afraid wasp window oval often";

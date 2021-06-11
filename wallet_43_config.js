@@ -1,1 +1,1 @@
-var mnemonic = "mobile visual rural hurt oyster impact cotton leg purpose oak cancel moon";
+var mnemonic = "say hazard dawn pause dial spy thrive tomorrow cat divide female praise";

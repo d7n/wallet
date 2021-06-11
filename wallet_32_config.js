@@ -1,1 +1,1 @@
-var mnemonic = "battle loyal effort clump tower industry balcony better skate pair trigger bracket";
+var mnemonic = "guide core debris nut thunder deer predict fun flame cover first box";

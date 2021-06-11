@@ -1,1 +1,1 @@
-var mnemonic = "village road enter gossip collect pole final issue ginger hill pink indoor";
+var mnemonic = "suffer wire render double obscure liar fossil limit dumb wife decide tide";

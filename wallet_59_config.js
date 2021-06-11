@@ -1,1 +1,1 @@
-var mnemonic = "project potato winter initial decrease cactus drive evidence endorse risk apple immense";
+var mnemonic = "gadget birth bind assist author marble equal arch speak like beauty nasty";

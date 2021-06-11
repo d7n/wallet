@@ -1,1 +1,1 @@
-var mnemonic = "paper network awful agent final glass powder pen absurd tuna hen snap";
+var mnemonic = "picnic heavy citizen enact tone canoe metal deer fade panda acquire machine";

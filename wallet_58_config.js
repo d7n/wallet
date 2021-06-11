@@ -1,1 +1,1 @@
-var mnemonic = "submit wash umbrella pig record inmate begin mountain power zoo alley doctor";
+var mnemonic = "chef comfort chapter render apart turn erupt tumble adult dance when couch";

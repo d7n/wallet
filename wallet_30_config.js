@@ -1,1 +1,1 @@
-var mnemonic = "nurse climb decorate traffic buyer over uncover cannon order rally surprise embark";
+var mnemonic = "length mansion unaware letter expire door plug flash swarm acoustic advice inform";

@@ -1,1 +1,1 @@
-var mnemonic = "grace melt impact mad mobile reunion unit iron two taxi penalty short";
+var mnemonic = "rather van arrive dismiss gospel interest smart great sphere rare general only";

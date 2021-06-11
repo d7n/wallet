@@ -1,1 +1,1 @@
-var mnemonic = "area gain infant turn system swallow stairs huge park velvet embark stadium";
+var mnemonic = "round number hamster wood sadness absurd around raw bamboo merry album genius";

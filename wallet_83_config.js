@@ -1,1 +1,1 @@
-var mnemonic = "roast pass young shoe other normal busy rapid liquid find mercy invite";
+var mnemonic = "science scorpion give warm hurry barrel neutral clever verify hair link pave";

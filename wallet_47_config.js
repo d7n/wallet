@@ -1,1 +1,1 @@
-var mnemonic = "endorse mask flush idle gesture detect solution host erase energy believe nephew";
+var mnemonic = "autumn human volcano satisfy exhibit voyage orient vendor disease sign forward disagree";

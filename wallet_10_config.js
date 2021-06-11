@@ -1,1 +1,1 @@
-var mnemonic = "capable bundle angle mobile dog butter head usage then cruel wool join";
+var mnemonic = "video bone angry industry throw mixed egg solid minor little supply index";

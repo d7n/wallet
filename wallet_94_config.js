@@ -1,1 +1,1 @@
-var mnemonic = "circle palace bone interest subject elevator credit design prevent stay tent wear";
+var mnemonic = "sell step film trophy secret cloud team speak wood dress eagle track";

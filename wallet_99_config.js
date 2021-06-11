@@ -1,1 +1,1 @@
-var mnemonic = "clay ill barrel trim mixed cheap gossip local language glory tube rack";
+var mnemonic = "unusual van lend ecology model plate island news year ready umbrella sponsor";

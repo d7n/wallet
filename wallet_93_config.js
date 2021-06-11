@@ -1,1 +1,1 @@
-var mnemonic = "sound gift keen chat fault inside ride input kick island valid survey";
+var mnemonic = "brand enjoy hidden faith foil innocent rival dune thrive stove expire unusual";

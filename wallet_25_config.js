@@ -1,1 +1,1 @@
-var mnemonic = "width goat force shield north venture purity sad since limb clump era";
+var mnemonic = "regular vintage liberty margin someone pair notable nest icon feature demand improve";

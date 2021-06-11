@@ -1,1 +1,1 @@
-var mnemonic = "legal problem invite welcome poverty empty tip elder security basic used hurry";
+var mnemonic = "grape agree daughter plate number eagle vocal assume home lock lottery liar";

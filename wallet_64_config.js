@@ -1,1 +1,1 @@
-var mnemonic = "real fabric edit task heart genre retire pattern ill view control orange";
+var mnemonic = "warm weather diesel express muffin indicate aisle farm trap shock use mechanic";

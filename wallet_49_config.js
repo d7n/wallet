@@ -1,1 +1,1 @@
-var mnemonic = "magic skin face fame glory embrace unknown client romance cream essence split";
+var mnemonic = "treat loyal surprise quit harsh poem original describe elevator bronze awful broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar excess bottom bleak document vanish isolate hurry normal security cotton music";
+var mnemonic = "armor east armed reform net stairs display grant devote boost universe fiction";

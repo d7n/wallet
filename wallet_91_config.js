@@ -1,1 +1,1 @@
-var mnemonic = "kit nut hen burst pulse tribe program similar impulse catalog planet machine";
+var mnemonic = "drama include arrest pistol library kitten zoo jump theory craft fiction galaxy";

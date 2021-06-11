@@ -1,1 +1,1 @@
-var mnemonic = "sweet middle salon castle divert tube lunar enhance leaf claw cancel slow";
+var mnemonic = "dwarf space believe cattle disagree page lemon couch sound buyer cotton neither";

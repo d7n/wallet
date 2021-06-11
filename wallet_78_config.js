@@ -1,1 +1,1 @@
-var mnemonic = "mango oblige laptop depth resource north lobster hurt badge spoon suffer cash";
+var mnemonic = "midnight curious copy pond rally type match second write slide riot shine";

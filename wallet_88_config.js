@@ -1,1 +1,1 @@
-var mnemonic = "thank exchange alien treat square brand bid item hover close prevent donate";
+var mnemonic = "provide width repeat pink seek deny chat expire thing creek gospel cliff";

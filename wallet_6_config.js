@@ -1,1 +1,1 @@
-var mnemonic = "capital ship spy blossom unique final rigid food nerve couple hour lunar";
+var mnemonic = "source erupt weekend around knee pluck swear empower faith cereal license admit";

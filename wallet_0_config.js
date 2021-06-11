@@ -1,1 +1,1 @@
-var mnemonic = "little jewel latin mask ramp sentence box wife grace asthma front exercise";
+var mnemonic = "off type huge despair champion present diamond replace flavor prize mom balcony";

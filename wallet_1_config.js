@@ -1,1 +1,1 @@
-var mnemonic = "perfect copper naive lecture common rapid undo index question update acid route";
+var mnemonic = "winner castle oak crane forest lottery vehicle museum purpose ranch derive swing";

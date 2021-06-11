@@ -1,1 +1,1 @@
-var mnemonic = "ladder night carpet caution tiger priority error elegant relax recycle provide scheme";
+var mnemonic = "scissors report boy fitness blade oval kit any craft admit snap shed";

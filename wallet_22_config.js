@@ -1,1 +1,1 @@
-var mnemonic = "impose unhappy method target guard neck crew evoke virtual patient enforce possible";
+var mnemonic = "section bacon brick legal fork office movie deliver music surprise filter library";

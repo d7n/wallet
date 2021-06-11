@@ -1,1 +1,1 @@
-var mnemonic = "oppose payment prepare elbow shoulder lion inhale elder acid pretty region panic";
+var mnemonic = "giggle run wonder differ climb evil basic waste muscle wise around lift";

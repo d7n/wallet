@@ -1,1 +1,1 @@
-var mnemonic = "slight theory visual march hero scrap guitar ship find cream now reason";
+var mnemonic = "scissors edge boss buddy pass pelican argue apple stuff card please fit";

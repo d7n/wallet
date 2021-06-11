@@ -1,1 +1,1 @@
-var mnemonic = "concert lava denial royal sudden toss churn melt kidney soon next enter";
+var mnemonic = "agree choice merge art time visit merry rack supreme service cattle split";

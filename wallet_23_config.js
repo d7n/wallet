@@ -1,1 +1,1 @@
-var mnemonic = "fit patient tail pair impulse narrow easily lesson donkey affair wrist ostrich";
+var mnemonic = "certain milk humor asthma grace field dune already wrap naive castle powder";

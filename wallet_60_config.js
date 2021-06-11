@@ -1,1 +1,1 @@
-var mnemonic = "fat gorilla zoo embark network slot ladder rain cement aspect alpha ladder";
+var mnemonic = "push solution broccoli excite key real ketchup online inside broken retire hobby";

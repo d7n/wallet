@@ -1,1 +1,1 @@
-var mnemonic = "swear hobby curtain tell weird upon warfare water witness grape card palace";
+var mnemonic = "slow flight together trash amateur canoe taste pizza reflect slender one traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "relief army impose age candy embark repair bar garbage jewel type rebel";
+var mnemonic = "shoe caution fix tunnel emerge treat explain loan regular wrap buffalo crucial";

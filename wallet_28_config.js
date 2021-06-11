@@ -1,1 +1,1 @@
-var mnemonic = "emotion enemy table update choice guilt catch bubble hood decline grape then";
+var mnemonic = "mail garbage typical hood still skirt hamster grant old winner bamboo flat";

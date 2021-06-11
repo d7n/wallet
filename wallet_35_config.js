@@ -1,1 +1,1 @@
-var mnemonic = "suggest mention twice crumble dwarf upper pilot nephew impose truly pigeon salmon";
+var mnemonic = "galaxy can also gravity hill deputy weapon become offer issue one fresh";

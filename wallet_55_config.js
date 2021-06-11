@@ -1,1 +1,1 @@
-var mnemonic = "flight nurse rug rack hammer off cricket spy damp book bar garlic";
+var mnemonic = "donor impact step same hat trash knock math liquid regular bean upon";

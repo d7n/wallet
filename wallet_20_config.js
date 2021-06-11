@@ -1,1 +1,1 @@
-var mnemonic = "deputy super sketch useful judge oblige buffalo leisure era gentle never horror";
+var mnemonic = "shoot album retreat cinnamon century ahead ethics spatial someone deliver bullet elite";

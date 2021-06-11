@@ -1,1 +1,1 @@
-var mnemonic = "credit cloth country portion pelican remember material link attack cup rail ladder";
+var mnemonic = "pond jar echo tree stand treat bullet jelly net ordinary hire foot";

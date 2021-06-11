@@ -1,1 +1,1 @@
-var mnemonic = "mosquito betray truly coconut health festival cinnamon wait during desert rough risk";
+var mnemonic = "web eyebrow feel lumber spike dynamic uphold reveal south lion cliff rule";

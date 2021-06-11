@@ -1,1 +1,1 @@
-var mnemonic = "famous door cool toe unveil differ art assist plug medal own dismiss";
+var mnemonic = "stairs medal love discover render crane sleep pattern laundry woman page music";

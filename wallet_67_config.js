@@ -1,1 +1,1 @@
-var mnemonic = "arena juice secret tackle world clarify original december practice depend regular iron";
+var mnemonic = "kite team cotton excess that ride you boost grace surge bonus emotion";

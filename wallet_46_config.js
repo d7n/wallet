@@ -1,1 +1,1 @@
-var mnemonic = "course dinosaur embrace huge thank lobster doctor shallow pride argue gym level";
+var mnemonic = "use language festival level actor siren frame panel behave medal shallow pupil";

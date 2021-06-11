@@ -1,1 +1,1 @@
-var mnemonic = "cliff garage fiber secret message security crash enhance magic charge inner question";
+var mnemonic = "faith opera shed response plastic crazy minimum friend provide brother snow film";

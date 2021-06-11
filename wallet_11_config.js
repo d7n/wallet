@@ -1,1 +1,1 @@
-var mnemonic = "image rely vehicle delay swing marble marriage question history empty gym strike";
+var mnemonic = "animal final kit confirm scan civil over renew cactus wrong range use";

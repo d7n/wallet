@@ -1,1 +1,1 @@
-var mnemonic = "this car material lady violin cave mountain retire armor mind figure attack";
+var mnemonic = "duck gauge loud earn twin notable fabric board loan defy margin educate";

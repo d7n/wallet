@@ -1,1 +1,1 @@
-var mnemonic = "erode ready nice always vibrant planet income habit open occur script concert";
+var mnemonic = "empower buyer easy muffin use exotic south photo hub swift blouse giggle";

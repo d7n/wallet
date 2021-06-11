@@ -1,1 +1,1 @@
-var mnemonic = "project pioneer option neck pupil route snow empty approve armor inner result";
+var mnemonic = "resemble ginger need sponsor innocent suspect lunch balance work rate improve disagree";

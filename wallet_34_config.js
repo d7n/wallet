@@ -1,1 +1,1 @@
-var mnemonic = "material debate gap clutch orange borrow clip beyond loyal farm garlic announce";
+var mnemonic = "series bitter later push globe tilt another outer social dad test increase";

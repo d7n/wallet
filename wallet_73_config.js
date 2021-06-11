@@ -1,1 +1,1 @@
-var mnemonic = "aim animal brown tribe tuition kiss brass disorder inner pony famous trust";
+var mnemonic = "fault orient runway apart alley vital panda report brick table confirm join";

@@ -1,1 +1,1 @@
-var mnemonic = "crater doctor border gossip enrich supreme drink win black float arrive small";
+var mnemonic = "window lawn betray relief slim emerge cross merge refuse teach fashion arrest";

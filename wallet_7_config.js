@@ -1,1 +1,1 @@
-var mnemonic = "motion nothing vote require resist wrap lake stable desk help agree public";
+var mnemonic = "remind curtain risk agree junk embody bring picture another swap radio explain";

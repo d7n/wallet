@@ -1,1 +1,1 @@
-var mnemonic = "auto stairs path hazard cereal drop pretty bomb swarm mango aunt wood";
+var mnemonic = "bright powder hill wink rent neither reunion later pupil fat quantum mountain";

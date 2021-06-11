@@ -1,1 +1,1 @@
-var mnemonic = "coral awkward skate improve raise spray capable demise fitness current wood gold";
+var mnemonic = "trumpet yard marble endorse crunch salad design kick trash vocal canal truly";

@@ -1,1 +1,1 @@
-var mnemonic = "process industry vicious ability umbrella shell manual permit trip place edge bottom";
+var mnemonic = "fog author sudden idea mango net film churn run mind layer crowd";

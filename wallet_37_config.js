@@ -1,1 +1,1 @@
-var mnemonic = "sort burden disagree resist economy outdoor jewel rare session same lamp uniform";
+var mnemonic = "sight before visa try detect defense sheriff slogan advance frozen rude swim";
