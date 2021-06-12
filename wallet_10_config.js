@@ -1,1 +1,1 @@
-var mnemonic = "worry color orange merry soul kid season rebel detect scale hedgehog supreme";
+var mnemonic = "arrange ahead demise enforce update gloom quarter gallery review practice pride extend";

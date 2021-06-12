@@ -1,1 +1,1 @@
-var mnemonic = "forward inner ancient mosquito dial melody middle come turkey actress century hard";
+var mnemonic = "radio undo butter remain prosper claw exhibit toast tennis copy inmate bring";

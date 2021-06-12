@@ -1,1 +1,1 @@
-var mnemonic = "much skate imitate smart creek jazz rival kick isolate core body wrestle";
+var mnemonic = "swear treat arrow minute aim liquid link dentist maze magic reform flock";

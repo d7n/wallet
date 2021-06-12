@@ -1,1 +1,1 @@
-var mnemonic = "hub rhythm uncle acid dose skin chaos season olympic report label share";
+var mnemonic = "laugh side fatigue tomato six half current opinion wedding become ill sock";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp glove gentle emerge sudden inch need swing clock outer loop naive";
+var mnemonic = "cheap mandate rifle brown labor quick unable adult vague firm clip meadow";

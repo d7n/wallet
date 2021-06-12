@@ -1,1 +1,1 @@
-var mnemonic = "ivory snow loan head must oven problem phone square allow lamp knock";
+var mnemonic = "evolve educate noise this pair cat inject draw leader inner produce spray";

@@ -1,1 +1,1 @@
-var mnemonic = "fit melody ceiling road rich emotion message tornado ritual live fashion knife";
+var mnemonic = "caution chest chapter urge jaguar sign canoe picnic first salute cheese final";

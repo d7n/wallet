@@ -1,1 +1,1 @@
-var mnemonic = "another distance cigar home close weird early danger embrace lion away mistake";
+var mnemonic = "mean lake else marble artwork infant busy segment meadow general sample prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "length inform letter connect move liar offer silk muffin clerk glare flight";
+var mnemonic = "weapon candy put rug barrel make long puppy sibling dinner rabbit empower";

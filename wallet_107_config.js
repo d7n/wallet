@@ -1,1 +1,1 @@
-var mnemonic = "poet winner company feature rival floor adult member dwarf position token angle";
+var mnemonic = "humble tuna edit large connect fiscal assist opera lizard abandon wheat grunt";

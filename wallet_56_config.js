@@ -1,1 +1,1 @@
-var mnemonic = "salmon antique pony combine wink way wisdom renew visa angry dawn drama";
+var mnemonic = "ostrich exist sight fold leopard destroy shell unlock vacuum wage vessel worth";

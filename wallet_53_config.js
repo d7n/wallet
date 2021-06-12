@@ -1,1 +1,1 @@
-var mnemonic = "transfer lazy orient spawn easy weather poem index truck tragic hour fan";
+var mnemonic = "pulse order glow tape auto round amused school artwork brick quarter vicious";

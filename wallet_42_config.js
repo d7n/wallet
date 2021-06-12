@@ -1,1 +1,1 @@
-var mnemonic = "biology joy detect edge sweet wine elephant bind keep spin benefit cheap";
+var mnemonic = "ship protect bone diagram girl brother below tongue hill steak inform staff";

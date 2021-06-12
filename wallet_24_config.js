@@ -1,1 +1,1 @@
-var mnemonic = "frequent filter sphere claw grit lawsuit elder pulse view rocket antique lecture";
+var mnemonic = "squeeze crawl addict solar casual sound damp claim cycle drama champion mountain";

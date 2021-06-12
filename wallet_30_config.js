@@ -1,1 +1,1 @@
-var mnemonic = "tragic mom pen crunch number gloom glory expand spider host price fresh";
+var mnemonic = "rival mom jar mistake argue item ticket minute foot radar stool razor";

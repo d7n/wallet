@@ -1,1 +1,1 @@
-var mnemonic = "orange runway ranch candy trouble warm fuel people rack shadow across crew";
+var mnemonic = "wrestle physical lobster tone shaft news desert census space month enemy rhythm";

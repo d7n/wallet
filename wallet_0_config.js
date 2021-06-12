@@ -1,1 +1,1 @@
-var mnemonic = "aerobic pet base deposit vehicle upper balance siren broom please clip exact";
+var mnemonic = "snake exit rare educate novel exercise wood section program lemon midnight cool";

@@ -1,1 +1,1 @@
-var mnemonic = "army merit snack slot sudden tumble olive obey act debris spot summer";
+var mnemonic = "high waste expect behind plug comic asthma silver canyon lecture border midnight";

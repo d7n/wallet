@@ -1,1 +1,1 @@
-var mnemonic = "strategy opera shift gym gorilla robot lyrics govern sample clerk space jaguar";
+var mnemonic = "honey machine width famous unfair island build excuse require opera fine green";

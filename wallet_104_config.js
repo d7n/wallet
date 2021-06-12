@@ -1,1 +1,1 @@
-var mnemonic = "bread genius river endless loud trash soul benefit ready noble orchard inch";
+var mnemonic = "crucial board beauty stereo cotton inspire promote ordinary cheap honey heavy tribe";

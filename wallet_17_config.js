@@ -1,1 +1,1 @@
-var mnemonic = "section panther flower ugly used agree tomorrow chimney memory quote art high";
+var mnemonic = "caught indicate impose crazy arrive rookie corn enhance answer answer cushion flush";

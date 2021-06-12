@@ -1,1 +1,1 @@
-var mnemonic = "broccoli anchor crack blanket orange panic crawl soup sort merge pistol target";
+var mnemonic = "caution world crack visa carpet vacuum wheel fiber pattern blast share manage";

@@ -1,1 +1,1 @@
-var mnemonic = "keep hill sock boss glory aware anchor brick harvest turn muscle spot";
+var mnemonic = "until teach subject pattern bring honey glove also mom language arrange thrive";

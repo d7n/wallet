@@ -1,1 +1,1 @@
-var mnemonic = "violin road gas ladder happy capital awful choice monkey alarm trick roof";
+var mnemonic = "rose carpet ten focus sadness chaos boil exact slight helmet adjust gloom";

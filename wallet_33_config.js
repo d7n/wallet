@@ -1,1 +1,1 @@
-var mnemonic = "recycle lock bicycle easily crush buffalo paper tomorrow dose assume release panda";
+var mnemonic = "anger scheme pool antenna easily later lion canal control simple misery soldier";

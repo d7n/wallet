@@ -1,1 +1,1 @@
-var mnemonic = "wage youth gold scorpion soul crystal grunt else uniform equal able climb";
+var mnemonic = "rural upgrade alpha north essay feed local barely bracket soda gas benefit";

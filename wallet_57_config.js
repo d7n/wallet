@@ -1,1 +1,1 @@
-var mnemonic = "once beyond kid feel find pave either tray escape awake weird fan";
+var mnemonic = "inner age awesome shop spend multiply swing analyst image split winter caution";

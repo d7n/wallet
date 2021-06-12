@@ -1,1 +1,1 @@
-var mnemonic = "rigid size material whisper suspect siege course elbow raw account tackle first";
+var mnemonic = "fatal clinic kick scout charge person empty ready polar coffee lazy speak";

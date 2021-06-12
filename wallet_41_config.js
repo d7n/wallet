@@ -1,1 +1,1 @@
-var mnemonic = "confirm marine test bless pause fox conduct art toe foam dinosaur blue";
+var mnemonic = "quit major shine hat extend cat estate never muffin arch farm option";

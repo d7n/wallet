@@ -1,1 +1,1 @@
-var mnemonic = "author midnight wash private round discover arch stone warrior cousin tool boil";
+var mnemonic = "corn hospital drum furnace trend aspect neutral tribe tumble setup friend junior";

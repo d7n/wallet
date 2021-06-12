@@ -1,1 +1,1 @@
-var mnemonic = "panther rice kidney anger crash pony curve where lock valid palm hard";
+var mnemonic = "ability popular student trouble clarify match exist drama slight estate vast allow";

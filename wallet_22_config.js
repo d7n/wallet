@@ -1,1 +1,1 @@
-var mnemonic = "glue gain limb prison debate rack sheriff pull trend disorder fire minute";
+var mnemonic = "valid knock crouch arena sun trick gym shine hole enough side unique";

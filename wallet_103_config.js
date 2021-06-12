@@ -1,1 +1,1 @@
-var mnemonic = "width glide enact diary great dash acquire abstract host decorate false dentist";
+var mnemonic = "scatter toward tortoise ignore size bring page sorry rally own print pulp";

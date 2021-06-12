@@ -1,1 +1,1 @@
-var mnemonic = "glance pony group neck pilot wire vote decade shallow attitude axis summer";
+var mnemonic = "letter curve west pond nut siren crisp refuse enroll warm giraffe cancel";

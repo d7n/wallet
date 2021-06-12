@@ -1,1 +1,1 @@
-var mnemonic = "junior erosion ceiling pizza sentence shuffle make small turn fringe fluid measure";
+var mnemonic = "slice upgrade penalty sell taxi salt annual stone lemon ticket assault expect";

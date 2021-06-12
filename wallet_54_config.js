@@ -1,1 +1,1 @@
-var mnemonic = "tag bleak expect coyote tattoo during silly first father siren auction force";
+var mnemonic = "misery reward alter combine heavy sausage stomach guilt skin chicken patrol enact";

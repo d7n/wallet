@@ -1,1 +1,1 @@
-var mnemonic = "segment boss party rely model system dress jump student zebra romance learn";
+var mnemonic = "expire hello crack syrup enlist glad embark boring hour peasant island lawsuit";

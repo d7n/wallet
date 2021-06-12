@@ -1,1 +1,1 @@
-var mnemonic = "exhibit melt agent again fan earth secret wire valley conduct bottom police";
+var mnemonic = "organ winter smile ring kite arrest weather can bulk planet wait label";

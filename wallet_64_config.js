@@ -1,1 +1,1 @@
-var mnemonic = "drop addict hover island gather sausage memory best west mad animal brother";
+var mnemonic = "then street strike diesel long federal witness urge distance multiply kick swallow";

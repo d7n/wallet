@@ -1,1 +1,1 @@
-var mnemonic = "inside reason laugh eagle food pepper celery blanket morning beach canal race";
+var mnemonic = "potato gun inquiry deposit mixed legal treat few minimum alone organ lamp";

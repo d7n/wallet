@@ -1,1 +1,1 @@
-var mnemonic = "please bar panther mesh sense ring foster unusual fabric shoulder notable like";
+var mnemonic = "human donate final pencil praise bulb aisle era fold cabbage bacon erode";

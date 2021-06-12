@@ -1,1 +1,1 @@
-var mnemonic = "donkey inner vague right avoid throw belt thrive lonely fiction monkey dress";
+var mnemonic = "boss smoke steak fantasy volume ready couple disease daring sense gate brisk";

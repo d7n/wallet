@@ -1,1 +1,1 @@
-var mnemonic = "kingdom feed regular river tattoo together shoot summer palm sponsor engage cargo";
+var mnemonic = "project cable one plunge logic pumpkin balance light very fringe raise electric";

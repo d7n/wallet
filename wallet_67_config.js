@@ -1,1 +1,1 @@
-var mnemonic = "start spatial shop year february search mesh obscure taxi junk industry table";
+var mnemonic = "vessel access cereal bus script bitter behind cost engine ten october allow";

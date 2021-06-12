@@ -1,1 +1,1 @@
-var mnemonic = "exit absent increase rose layer lottery inherit tag similar sick spirit bicycle";
+var mnemonic = "lens sell ripple ahead weather cart scene blossom common neglect negative deliver";

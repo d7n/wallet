@@ -1,1 +1,1 @@
-var mnemonic = "deposit bunker together polar cross inch debate quarter farm damage major siege";
+var mnemonic = "spin physical effort hurry entire bus buddy bomb donkey improve culture tell";

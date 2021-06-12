@@ -1,1 +1,1 @@
-var mnemonic = "little foil feature romance deliver cube indoor answer skate roof immune goat";
+var mnemonic = "fiscal squirrel prefer embody staff flee attract clip hole truck put design";

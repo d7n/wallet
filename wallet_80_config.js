@@ -1,1 +1,1 @@
-var mnemonic = "merge language suit slab feature easily pilot coral together index ginger lawn";
+var mnemonic = "squeeze hazard bridge laundry regret tooth measure dad subway chat park home";

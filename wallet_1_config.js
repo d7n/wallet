@@ -1,1 +1,1 @@
-var mnemonic = "invite embody disease fossil business present floor hello globe ride ignore gain";
+var mnemonic = "forget enhance rival tomato excuse grab must plunge embark day junior half";

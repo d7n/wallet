@@ -1,1 +1,1 @@
-var mnemonic = "arrive ethics duty bleak beef desert common armor hood bright escape fox";
+var mnemonic = "giant rebel device donkey curve salt napkin first armed joy law ball";

@@ -1,1 +1,1 @@
-var mnemonic = "combine atom goddess snap fossil feel still flush fit tag shaft gesture";
+var mnemonic = "poverty ribbon captain promote fox soap wood toe benefit hill erosion horse";

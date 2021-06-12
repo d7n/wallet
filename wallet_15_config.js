@@ -1,1 +1,1 @@
-var mnemonic = "cash shrimp caution banana throw crack valve latin host today badge rabbit";
+var mnemonic = "sense furnace super resemble service romance vital dynamic galaxy acoustic answer gorilla";

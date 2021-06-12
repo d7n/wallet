@@ -1,1 +1,1 @@
-var mnemonic = "fine panel junk wire mandate yellow merry version pluck monster donate eight";
+var mnemonic = "stumble powder tonight record flee endless bicycle film craft bridge audit service";

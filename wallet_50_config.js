@@ -1,1 +1,1 @@
-var mnemonic = "knee inject print mango twice alcohol point jump ensure demise cruise estate";
+var mnemonic = "increase silly cabin toilet slender expand lady process inherit night edge trip";

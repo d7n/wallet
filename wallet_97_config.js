@@ -1,1 +1,1 @@
-var mnemonic = "rookie behind demand pool wrong diagram dirt wrong ghost spread copper high";
+var mnemonic = "outdoor orchard any traffic success promote snake endorse debate multiply nose situate";

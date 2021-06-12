@@ -1,1 +1,1 @@
-var mnemonic = "weather reason young note arena cluster table ride urge street raven observe";
+var mnemonic = "street echo distance uncover pilot dice fortune beyond note ship waste busy";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold water whisper dinner silk question together toy stairs remember aunt oppose";
+var mnemonic = "female library unfold nation grocery divert local purity churn picnic modify monitor";

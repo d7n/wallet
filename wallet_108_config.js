@@ -1,1 +1,1 @@
-var mnemonic = "ranch salmon mimic elbow oppose author exist must dove punch smile comfort";
+var mnemonic = "know scatter sun engage coffee remain inhale mind muffin eager index engage";

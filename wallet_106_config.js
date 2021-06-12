@@ -1,1 +1,1 @@
-var mnemonic = "before paper reform inspire abstract open decrease during night extra year pull";
+var mnemonic = "wet oval truck flip oxygen ancient rabbit setup zebra catalog cheese inside";

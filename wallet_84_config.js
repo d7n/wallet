@@ -1,1 +1,1 @@
-var mnemonic = "key mass actor mountain wolf cable dutch benefit feature family avocado fancy";
+var mnemonic = "caution before join always winner vanish sign flash rival detect wet marble";

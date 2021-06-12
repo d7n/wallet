@@ -1,1 +1,1 @@
-var mnemonic = "limb chicken lesson person level suspect clog horror scorpion weasel casino aerobic";
+var mnemonic = "impact away outdoor cream replace word alcohol dirt island bridge shuffle guilt";

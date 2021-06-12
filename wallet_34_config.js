@@ -1,1 +1,1 @@
-var mnemonic = "rookie permit bargain defense state stand pottery embrace plunge live father act";
+var mnemonic = "point month zone define bless over candy enrich brown aim arrange snap";

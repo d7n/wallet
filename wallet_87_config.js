@@ -1,1 +1,1 @@
-var mnemonic = "planet sister now ripple maze silent jar figure tip forest need save";
+var mnemonic = "tragic under sock chest come dry woman renew replace recall lawn lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery poverty strategy kite glide panic bounce price oil speak gravity flee";
+var mnemonic = "stone exclude label brain produce oxygen gate paper confirm card dwarf harbor";

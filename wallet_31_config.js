@@ -1,1 +1,1 @@
-var mnemonic = "slim bike web ostrich theory host shrug raccoon chuckle egg bean often";
+var mnemonic = "depth turn parrot shop govern foot naive dove rug vessel ride deal";

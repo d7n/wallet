@@ -1,1 +1,1 @@
-var mnemonic = "industry essence sign reunion gun work lady lamp fortune pig bunker pig";
+var mnemonic = "hurdle oppose kitten earth cement cabbage mask private offer note soon tube";

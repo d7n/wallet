@@ -1,1 +1,1 @@
-var mnemonic = "seven toe describe kangaroo palace bean salad kite scatter crime album upper";
+var mnemonic = "shoulder world canyon fabric benefit dentist lawsuit damage garbage network combine carry";

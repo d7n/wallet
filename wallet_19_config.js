@@ -1,1 +1,1 @@
-var mnemonic = "image present chalk retire table essay spring same frog insect impact metal";
+var mnemonic = "issue unhappy cannon drum stereo biology illness high correct easy ketchup sniff";

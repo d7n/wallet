@@ -1,1 +1,1 @@
-var mnemonic = "danger intact produce noble scrap pull about tumble tornado lunar puppy canal";
+var mnemonic = "body rug dumb promote yellow hamster filter split stay safe problem busy";

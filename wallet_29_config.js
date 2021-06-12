@@ -1,1 +1,1 @@
-var mnemonic = "carpet net busy put isolate harbor social weird code dad grocery index";
+var mnemonic = "era nothing what identify venue repeat afford ripple empower media distance beef";

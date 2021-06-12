@@ -1,1 +1,1 @@
-var mnemonic = "fuel volcano require car employ taste shine cereal timber surround quit mix";
+var mnemonic = "walk essence cook glory fun home praise tent narrow laundry tooth trouble";

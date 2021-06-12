@@ -1,1 +1,1 @@
-var mnemonic = "vacant reflect brick farm pepper mammal become mean file demand fame mesh";
+var mnemonic = "earn casino witness life matrix clinic bullet rhythm skull glove forum party";

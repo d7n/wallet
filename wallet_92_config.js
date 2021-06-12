@@ -1,1 +1,1 @@
-var mnemonic = "hidden dragon urge atom problem sort arrow chicken hamster cricket chapter mistake";
+var mnemonic = "mutual snap tell manual grape rate chronic pear dove mail humor lesson";

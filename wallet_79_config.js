@@ -1,1 +1,1 @@
-var mnemonic = "chase solution angry diary tree knock fall worry text news glad hurt";
+var mnemonic = "soft gift prize initial maid brave vacuum wealth voyage wrap equal ring";

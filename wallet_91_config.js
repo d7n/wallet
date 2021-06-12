@@ -1,1 +1,1 @@
-var mnemonic = "paddle execute merge impulse arena document disagree owner rib axis crane ill";
+var mnemonic = "build luxury angry fossil drift fit frost outside subject captain label decrease";

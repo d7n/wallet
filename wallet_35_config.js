@@ -1,1 +1,1 @@
-var mnemonic = "behave much firm slogan they any embody token clap risk lonely mix";
+var mnemonic = "wrist cherry bleak like seat thank lonely spell raw august brother danger";

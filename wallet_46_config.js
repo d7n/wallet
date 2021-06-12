@@ -1,1 +1,1 @@
-var mnemonic = "junior lucky damp want margin lawsuit famous owner hard spin ostrich twice";
+var mnemonic = "vehicle miracle junior twist enter island sibling eager rigid fluid embrace blade";

@@ -1,1 +1,1 @@
-var mnemonic = "hair runway elbow dog slot major clay ticket guitar atom media venue";
+var mnemonic = "program minute loyal addict link inherit donor thing raccoon act lady ring";

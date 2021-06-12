@@ -1,1 +1,1 @@
-var mnemonic = "danger stay journey soldier cup object inner document claim better bless later";
+var mnemonic = "salute noise book depend digital strike cupboard shoulder stadium lunch multiply pear";

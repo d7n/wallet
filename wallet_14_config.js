@@ -1,1 +1,1 @@
-var mnemonic = "picnic mansion six liar build dad banana flock neutral monkey clip cricket";
+var mnemonic = "bacon chair duty salt office gesture raw electric problem behave matrix divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "century dizzy bitter wash hobby empower wall diesel design father intact apology";
+var mnemonic = "whisper card stereo announce profit fan tag jewel hazard wrap forum omit";

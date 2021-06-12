@@ -1,1 +1,1 @@
-var mnemonic = "naive lesson medal grit happy behave carry cabbage oxygen organ giraffe always";
+var mnemonic = "trim creek license resemble heart chaos warrior palm sing roast cement axis";

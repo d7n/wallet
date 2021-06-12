@@ -1,1 +1,1 @@
-var mnemonic = "pole credit member machine mask fatal taste throw six inquiry clay spread";
+var mnemonic = "surround decade radar sponsor cliff scene guitar palm fit silent spoil kitten";

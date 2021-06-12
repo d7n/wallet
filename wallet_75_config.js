@@ -1,1 +1,1 @@
-var mnemonic = "feature crash because wage uncover tank bubble near saddle tragic repeat wise";
+var mnemonic = "scene slogan ticket behave catalog bottom remember setup false wrist expose announce";

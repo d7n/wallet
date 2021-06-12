@@ -1,1 +1,1 @@
-var mnemonic = "mystery shoot club fetch obvious gain machine bind welcome matter local barely";
+var mnemonic = "erode subject vacant spare century tray congress wagon category type vast develop";

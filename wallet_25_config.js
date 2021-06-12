@@ -1,1 +1,1 @@
-var mnemonic = "peace fall broom spoil boy misery scheme critic ski acquire security pilot";
+var mnemonic = "quantum cover neglect stool ladder rule course tag leave modify elephant sudden";

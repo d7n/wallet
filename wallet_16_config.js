@@ -1,1 +1,1 @@
-var mnemonic = "kind polar reason celery dizzy vanish tenant clinic daughter laptop circle canal";
+var mnemonic = "ordinary desert alien marine hungry crumble sun spin clay pupil current april";

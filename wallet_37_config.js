@@ -1,1 +1,1 @@
-var mnemonic = "round digital evoke hero return flight olive object can click bus lava";
+var mnemonic = "tortoise north game moral almost predict toddler parrot farm sail fork primary";

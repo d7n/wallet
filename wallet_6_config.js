@@ -1,1 +1,1 @@
-var mnemonic = "pledge shine eternal settle link pistol repeat original mixture repeat you galaxy";
+var mnemonic = "eyebrow explain clerk solve smart funny run picture lawsuit dirt squeeze federal";

@@ -1,1 +1,1 @@
-var mnemonic = "glide few thought antenna cross already height picture burden copper zone wash";
+var mnemonic = "mask couch word deer hen uphold sock shop cigar orient tuition image";

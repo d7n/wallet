@@ -1,1 +1,1 @@
-var mnemonic = "actress habit depth sign bid noise almost champion pyramid unit giggle share";
+var mnemonic = "athlete differ element inch master juice small switch east kick rhythm hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion saddle agent rally business tuna predict mass engine yellow agent another";
+var mnemonic = "pyramid smile math relief sun piece wave install envelope weekend balcony aisle";

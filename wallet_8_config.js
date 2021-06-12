@@ -1,1 +1,1 @@
-var mnemonic = "assist fresh guard giant whale child column stairs box live man tape";
+var mnemonic = "join shield drama suspect lesson sorry lunch gadget cross gesture slogan unable";

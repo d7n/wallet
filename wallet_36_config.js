@@ -1,1 +1,1 @@
-var mnemonic = "injury volume tooth sun gym primary angle enforce act silly language child";
+var mnemonic = "theory siren brass fly enroll sustain dash embark clock interest increase detail";
