@@ -1,1 +1,1 @@
-var mnemonic = "wild usage zero crawl dress present relief order sea warm food accident";
+var mnemonic = "again moon swing birth topple image city column identify essay woman buyer";

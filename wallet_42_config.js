@@ -1,1 +1,1 @@
-var mnemonic = "modify fog remove south spider impact satoshi eager fortune bacon song festival";
+var mnemonic = "midnight talent this spider gadget sentence review reveal mail huge word orchard";

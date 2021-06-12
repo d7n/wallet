@@ -1,1 +1,1 @@
-var mnemonic = "few custom upgrade kiss doll wage wrist project cloud share prison sleep";
+var mnemonic = "fossil shift job focus system own armed brief goose female section almost";

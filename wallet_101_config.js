@@ -1,1 +1,1 @@
-var mnemonic = "fire powder burden curve ketchup now impose roast plastic helmet fence report";
+var mnemonic = "bus choice have envelope reopen alone glue elephant repair month stay myself";

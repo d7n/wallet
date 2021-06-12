@@ -1,1 +1,1 @@
-var mnemonic = "oven palm skill peanut napkin ancient three unhappy jelly sight rich mosquito";
+var mnemonic = "frame kit warrior lift intact used captain post require arrow use leaf";

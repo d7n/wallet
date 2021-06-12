@@ -1,1 +1,1 @@
-var mnemonic = "maple common bundle kick tackle entry leave history speak torch tissue behind";
+var mnemonic = "acquire donor cool goose pizza spike bench round visual length garment panda";

@@ -1,1 +1,1 @@
-var mnemonic = "fog age board useless bottom jacket despair lonely exclude bird machine surprise";
+var mnemonic = "warrior pulse wrestle fossil ivory concert tool betray universe filter call alley";

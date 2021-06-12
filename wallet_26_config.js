@@ -1,1 +1,1 @@
-var mnemonic = "wage jacket repeat pear vivid monitor fat border quarter icon law void";
+var mnemonic = "giant guide trash april elephant vehicle hungry dragon rapid flush safe stool";

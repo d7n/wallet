@@ -1,1 +1,1 @@
-var mnemonic = "door certain push broom lock slim mesh ticket glass leisure crime antique";
+var mnemonic = "circle sentence hen steel gospel attitude street derive abuse sense salmon liquid";

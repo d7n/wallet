@@ -1,1 +1,1 @@
-var mnemonic = "much avocado ripple second load civil way ice hood walk angle strategy";
+var mnemonic = "soon buyer symbol office two road inflict omit fiction patch report twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "forum real spread rib bracket layer cargo tide elephant forum wave donkey";
+var mnemonic = "rally judge exclude spoon potato online tiny blast replace mesh wife maze";

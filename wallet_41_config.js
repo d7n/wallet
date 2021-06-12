@@ -1,1 +1,1 @@
-var mnemonic = "tennis stomach piece tennis slam draft cream sting flavor october useless festival";
+var mnemonic = "kitten cloth move goat strong ladder road exhibit leaf fatigue disease typical";

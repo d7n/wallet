@@ -1,1 +1,1 @@
-var mnemonic = "afraid conduct air fire such ugly trial resist armed engage carry alien";
+var mnemonic = "used toy anxiety major pen fade grape tobacco pistol ritual hard ankle";

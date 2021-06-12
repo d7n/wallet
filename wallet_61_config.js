@@ -1,1 +1,1 @@
-var mnemonic = "scene feed marriage blood remember clay void simple harbor sense gravity tell";
+var mnemonic = "goat what issue emotion weird quote funny floor remind impact unit steak";

@@ -1,1 +1,1 @@
-var mnemonic = "knife myth outer pudding liar duck foster wage butter thumb property beauty";
+var mnemonic = "retreat crouch critic meadow settle current steak educate wife model clutch skull";

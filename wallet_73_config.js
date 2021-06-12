@@ -1,1 +1,1 @@
-var mnemonic = "voice direct skull world indoor spot position tide student law boat gospel";
+var mnemonic = "pipe much document kidney scissors jump brick enter cattle cotton weather blush";

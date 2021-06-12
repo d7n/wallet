@@ -1,1 +1,1 @@
-var mnemonic = "cup hub middle prevent evil upper castle wisdom toss caution lunch monitor";
+var mnemonic = "sorry only knife wolf win humble goddess isolate usage attend room twelve";

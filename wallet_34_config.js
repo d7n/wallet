@@ -1,1 +1,1 @@
-var mnemonic = "slot armed gossip cook pudding disorder rural road speak can obvious sketch";
+var mnemonic = "security rebel slogan cash response gadget vast alarm hello almost cage mimic";

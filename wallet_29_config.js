@@ -1,1 +1,1 @@
-var mnemonic = "culture raven letter lecture surge love river wrap candy crater blanket basket";
+var mnemonic = "artist know oven stuff mystery whip jaguar small educate power analyst doll";

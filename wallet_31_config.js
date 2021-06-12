@@ -1,1 +1,1 @@
-var mnemonic = "series acoustic giggle sport blame sail boil penalty myself enrich minor fiber";
+var mnemonic = "cement glue people abstract bottom hawk crisp canvas simple auction narrow seat";

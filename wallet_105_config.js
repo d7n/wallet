@@ -1,1 +1,1 @@
-var mnemonic = "seed mom recycle real spatial unknown limb deny veteran pottery blame insect";
+var mnemonic = "such near arrow mesh dynamic spoon artist hill faith squeeze surge say";

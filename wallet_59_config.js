@@ -1,1 +1,1 @@
-var mnemonic = "know essence sketch crazy depart feature transfer miss art crouch pulse venue";
+var mnemonic = "shove share thought van tumble curve style jeans course evolve tent orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "tag wire churn coffee resource wood seed file margin cabin apology detect";
+var mnemonic = "small real illness crisp toddler royal goat mechanic project until napkin govern";

@@ -1,1 +1,1 @@
-var mnemonic = "session code photo hotel clutch chest vessel caution strategy season fever faith";
+var mnemonic = "reason account luxury retire ancient surge alien retreat lab keen recall exit";

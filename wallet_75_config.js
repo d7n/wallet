@@ -1,1 +1,1 @@
-var mnemonic = "black mango round guitar win deliver reveal enemy give visit shell false";
+var mnemonic = "confirm urge display brief trouble neck erase must material near pizza safe";

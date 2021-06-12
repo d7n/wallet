@@ -1,1 +1,1 @@
-var mnemonic = "slam engine west settle nature divert host fatigue small hand person inside";
+var mnemonic = "gate liquid fine truly avocado off answer stuff sheriff mango soda spread";

@@ -1,1 +1,1 @@
-var mnemonic = "rural river skate swap snow critic ankle vibrant soft warm menu pupil";
+var mnemonic = "resource lady announce noodle high original estate burger accuse update slam chunk";

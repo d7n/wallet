@@ -1,1 +1,1 @@
-var mnemonic = "clever about local duty crime number safe action aspect spy eager area";
+var mnemonic = "spell main best post dad demise pact girl retreat reduce social response";

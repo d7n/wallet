@@ -1,1 +1,1 @@
-var mnemonic = "define alert cost case nephew claw flip include replace reason great ramp";
+var mnemonic = "material bunker ugly city guide chair stand inch pet sing disease donor";

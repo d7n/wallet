@@ -1,1 +1,1 @@
-var mnemonic = "chuckle scrub echo hint skull burden cover agent allow horror rich drill";
+var mnemonic = "offer will powder merge room aspect famous there elegant wise royal energy";

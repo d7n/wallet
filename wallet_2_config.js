@@ -1,1 +1,1 @@
-var mnemonic = "dust inhale pill amount receive good coil quote glory imitate image gate";
+var mnemonic = "promote pitch grocery happy visa pony slot correct describe human update dove";

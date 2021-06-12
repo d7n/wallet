@@ -1,1 +1,1 @@
-var mnemonic = "rule youth account sure tag maple rice harvest impose depend exercise frame";
+var mnemonic = "muscle super erosion walk forget pact another erosion dirt eager excite armor";

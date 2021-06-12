@@ -1,1 +1,1 @@
-var mnemonic = "grit smile avocado chalk reform alert inner artwork stone cycle visual brand";
+var mnemonic = "picnic neutral lottery obey thing focus option name trial educate blast step";

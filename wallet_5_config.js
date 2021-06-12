@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon chat ginger awesome genuine dolphin lawsuit chase oxygen island tiger average";
+var mnemonic = "aunt surprise pipe long tongue extra congress erupt energy decline engage pledge";

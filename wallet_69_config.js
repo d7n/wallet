@@ -1,1 +1,1 @@
-var mnemonic = "column donate flee season usage credit violin garage husband athlete vault sight";
+var mnemonic = "garden mind human report motion blush blame tag guess consider decade cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "shock away switch quantum fine fancy false lake nominee cute need skull";
+var mnemonic = "salute tiny gas gas road discover chimney much final century jazz dinner";

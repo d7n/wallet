@@ -1,1 +1,1 @@
-var mnemonic = "squirrel hand decade bullet refuse seed twenty tilt habit surprise defense present";
+var mnemonic = "verb feature resource select ride cherry shop caught barrel fiscal stock float";

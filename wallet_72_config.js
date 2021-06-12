@@ -1,1 +1,1 @@
-var mnemonic = "level exile goddess duck world hobby lemon doll risk alone uncle enhance";
+var mnemonic = "wrestle decline dry problem void mean post jeans trust point fiscal sing";

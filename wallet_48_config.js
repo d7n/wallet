@@ -1,1 +1,1 @@
-var mnemonic = "charge patient below push harvest gain belt give piece woman chief turkey";
+var mnemonic = "option balcony lawn day digital deer express route beyond timber gas budget";

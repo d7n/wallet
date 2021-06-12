@@ -1,1 +1,1 @@
-var mnemonic = "choose erupt oppose hotel apart record approve quit minimum aware toast essence";
+var mnemonic = "usual found math garage benefit apple timber merry surge wild lottery soap";

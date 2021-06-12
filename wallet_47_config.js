@@ -1,1 +1,1 @@
-var mnemonic = "timber spot supply path dynamic tackle indoor quiz piano unit provide rocket";
+var mnemonic = "lobster day boy sound glimpse neutral try leisure system summer remind canvas";

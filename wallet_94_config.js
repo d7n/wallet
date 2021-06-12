@@ -1,1 +1,1 @@
-var mnemonic = "biology frequent drill thank inch match shoe essence wash canyon saddle seminar";
+var mnemonic = "flag exist object rough oyster blanket income physical offer version license ketchup";

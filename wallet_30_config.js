@@ -1,1 +1,1 @@
-var mnemonic = "test material distance girl mercy accident choice knee foil mixture alpha flavor";
+var mnemonic = "good close occur service this hint fish save range slow fish gasp";

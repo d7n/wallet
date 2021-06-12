@@ -1,1 +1,1 @@
-var mnemonic = "north tower siren edge panther humor rebuild impact body chef fiction steel";
+var mnemonic = "already churn exhibit glove marble drop gospel humble toast prison lake oval";

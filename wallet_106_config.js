@@ -1,1 +1,1 @@
-var mnemonic = "morning require mistake trigger stereo mention carbon alley certain answer pitch above";
+var mnemonic = "sail horse leaf urban ostrich law sell analyst text despair grocery around";

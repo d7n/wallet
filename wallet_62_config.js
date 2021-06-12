@@ -1,1 +1,1 @@
-var mnemonic = "account bargain water valley almost doll genre patch hurry rally lake cry";
+var mnemonic = "farm warrior snack season connect virtual boss beyond all pond able prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "surround wrap twelve kit refuse owner video blush rotate cart sun wide";
+var mnemonic = "lake enter split keen emerge rice lab crouch shine violin cool fade";

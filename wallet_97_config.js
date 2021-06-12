@@ -1,1 +1,1 @@
-var mnemonic = "thumb desk pill cross fish nature distance fall almost extend ice record";
+var mnemonic = "home slight setup exhaust only climb wood congress piece rule turn category";

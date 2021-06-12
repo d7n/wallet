@@ -1,1 +1,1 @@
-var mnemonic = "merge private will cousin embrace explain father shell cute gauge sadness paper";
+var mnemonic = "major symbol alpha pig control because tattoo can treat trip grunt clap";

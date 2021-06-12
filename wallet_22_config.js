@@ -1,1 +1,1 @@
-var mnemonic = "chapter expire vital butter gravity unit sad carbon parrot draw bag cross";
+var mnemonic = "electric reduce tackle equip deny crouch drama use attitude tomato sudden pact";

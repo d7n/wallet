@@ -1,1 +1,1 @@
-var mnemonic = "salon frost stage loop gown wine robot struggle machine pyramid walnut lamp";
+var mnemonic = "letter around rebuild gap target defense certain bulk bitter shaft cart plastic";

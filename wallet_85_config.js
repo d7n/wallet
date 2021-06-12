@@ -1,1 +1,1 @@
-var mnemonic = "glance transfer grape vital express sword fatigue element huge stay possible capable";
+var mnemonic = "depth rural walnut convince rain laptop survey announce cook mechanic boat essay";

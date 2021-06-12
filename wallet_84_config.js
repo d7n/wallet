@@ -1,1 +1,1 @@
-var mnemonic = "return subway hockey prevent immune birth thank talent garment spice action abuse";
+var mnemonic = "camera family cushion pilot saddle special random consider gather first wise ginger";

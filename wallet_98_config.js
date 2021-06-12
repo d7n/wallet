@@ -1,1 +1,1 @@
-var mnemonic = "kind special arctic grain cross shoe soft area then lock edge tomorrow";
+var mnemonic = "service acoustic account mammal excite benefit hour fitness unveil borrow nation jazz";

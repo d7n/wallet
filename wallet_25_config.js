@@ -1,1 +1,1 @@
-var mnemonic = "such obtain attitude clap globe neglect tiny raven rail tilt victory involve";
+var mnemonic = "medal wedding sure response half return live shrug alien pet forest whale";

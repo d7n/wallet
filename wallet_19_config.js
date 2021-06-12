@@ -1,1 +1,1 @@
-var mnemonic = "baby suspect chimney capable there scorpion pistol grace monitor assume field tide";
+var mnemonic = "paper omit render then half owner luggage pelican globe mimic tunnel trial";

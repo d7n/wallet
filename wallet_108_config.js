@@ -1,1 +1,1 @@
-var mnemonic = "slender swarm dust mean spoil expose recipe correct high junk material park";
+var mnemonic = "direct language narrow flash resource wage segment power leader since accident way";

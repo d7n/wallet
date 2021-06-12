@@ -1,1 +1,1 @@
-var mnemonic = "palace maze silly march solar bind neither diagram there toddler grass pair";
+var mnemonic = "drama second code category hello pupil symptom tell transfer about auction doctor";

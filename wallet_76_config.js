@@ -1,1 +1,1 @@
-var mnemonic = "voice identify edit bronze limit filter infant version myth margin opera print";
+var mnemonic = "stamp caution chief festival length better survey trash effort soft thunder sponsor";

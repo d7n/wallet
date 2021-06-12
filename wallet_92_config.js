@@ -1,1 +1,1 @@
-var mnemonic = "usage mutual hockey enhance obscure glue issue theme author tenant giraffe push";
+var mnemonic = "tonight leaf hammer siren guilt junior season moment fan pet eternal crumble";

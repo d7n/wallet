@@ -1,1 +1,1 @@
-var mnemonic = "air gun initial police limb rocket practice much curve sadness mimic avoid";
+var mnemonic = "volume security cute apple turkey punch captain wreck mask exact guide visit";

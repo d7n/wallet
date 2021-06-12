@@ -1,1 +1,1 @@
-var mnemonic = "local myth smooth tag frozen move easily useful twin eager own warm";
+var mnemonic = "skirt weird elevator embody ridge valid mom start tongue parade critic good";

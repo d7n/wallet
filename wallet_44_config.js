@@ -1,1 +1,1 @@
-var mnemonic = "leopard scissors swift more short ill media glimpse worry pipe palace tank";
+var mnemonic = "panda school brother earth enact trip cup require churn exclude long away";

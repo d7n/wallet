@@ -1,1 +1,1 @@
-var mnemonic = "attack leaf detect cabbage debris work tissue rug kite almost behave amateur";
+var mnemonic = "winter gym relief rescue skirt excite garage inner sauce minute gauge vanish";

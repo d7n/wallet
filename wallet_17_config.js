@@ -1,1 +1,1 @@
-var mnemonic = "copy pulp sword rifle chimney market street scissors auto brick olive always";
+var mnemonic = "absorb stable inflict slow volume flip motion off slam right sun bracket";

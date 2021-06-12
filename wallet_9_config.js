@@ -1,1 +1,1 @@
-var mnemonic = "flee basic that canvas mule income finger habit immune ivory valve into";
+var mnemonic = "use question endless pill disagree charge scatter mystery soul recycle section analyst";

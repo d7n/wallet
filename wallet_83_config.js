@@ -1,1 +1,1 @@
-var mnemonic = "apple absurd dice coffee cave useless retire math account liberty gas wedding";
+var mnemonic = "banner language attack ostrich uncle alpha taxi blouse level six pear between";

@@ -1,1 +1,1 @@
-var mnemonic = "woman skirt fan prevent bronze aware spread easy spoon once syrup prison";
+var mnemonic = "build dismiss boss fatal advance wing cousin monitor agent nurse phrase job";

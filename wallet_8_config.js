@@ -1,1 +1,1 @@
-var mnemonic = "palm brief answer clean stable habit dilemma repair curve typical have goddess";
+var mnemonic = "transfer enjoy trumpet can negative tribe syrup steak aunt whip sword speak";

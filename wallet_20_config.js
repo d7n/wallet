@@ -1,1 +1,1 @@
-var mnemonic = "boost book vocal orient inhale notable deal chuckle eye valley toilet ticket";
+var mnemonic = "lumber never rude tennis video original almost march patrol news parent year";

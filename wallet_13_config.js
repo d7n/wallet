@@ -1,1 +1,1 @@
-var mnemonic = "spike giant remind become law post kidney entry crumble clay have depth";
+var mnemonic = "match raccoon color start govern citizen moment cage behind swim warfare exist";

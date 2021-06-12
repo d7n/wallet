@@ -1,1 +1,1 @@
-var mnemonic = "toward view early kidney sauce coach kitten fever shy addict impulse ocean";
+var mnemonic = "promote cabin female journey skull eager twenty frame avocado jacket chalk print";

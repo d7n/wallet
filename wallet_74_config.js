@@ -1,1 +1,1 @@
-var mnemonic = "deny retire labor change vicious reopen bitter obey sort hero clip lava";
+var mnemonic = "marriage route army hat view normal average note grab left leg find";

@@ -1,1 +1,1 @@
-var mnemonic = "verb forest hope either balance ask banana scissors lava section trim lottery";
+var mnemonic = "promote junior expire prepare famous anger among caution bird lyrics prefer prefer";

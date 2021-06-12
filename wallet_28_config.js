@@ -1,1 +1,1 @@
-var mnemonic = "grief market success expose dragon labor tent pattern impact giggle child carbon";
+var mnemonic = "ramp lucky kingdom park obey around dilemma journey tide genuine advance match";

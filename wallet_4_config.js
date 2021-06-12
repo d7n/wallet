@@ -1,1 +1,1 @@
-var mnemonic = "dawn thunder hamster sort valid wool exchange veteran extend draw hurt vapor";
+var mnemonic = "sugar pool such sun gas exhaust raw horse scheme east brief disagree";

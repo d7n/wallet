@@ -1,1 +1,1 @@
-var mnemonic = "poet trigger swap captain eternal appear trick solution cargo scatter scatter blouse";
+var mnemonic = "option judge police dismiss lift sugar reunion vicious vacant segment tired soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote neutral critic average civil raise voice monster desk also blur high";
+var mnemonic = "weekend law scene huge empower rice fruit song color canal beauty teach";

@@ -1,1 +1,1 @@
-var mnemonic = "loop payment kiss purity deer obey zoo number group chef hold horror";
+var mnemonic = "soul review ozone outside lonely make resource theory express road recycle custom";

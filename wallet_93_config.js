@@ -1,1 +1,1 @@
-var mnemonic = "acoustic lyrics obey sister timber occur valley fantasy broken ice banner enjoy";
+var mnemonic = "happy certain elevator sure crazy sight riot job lobster shrug cause prison";

@@ -1,1 +1,1 @@
-var mnemonic = "stay alley iron include mixture engine warrior abuse desert column pause penalty";
+var mnemonic = "canal label daring fashion science title unable rose senior aspect team install";

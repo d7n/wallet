@@ -1,1 +1,1 @@
-var mnemonic = "grab come lamp fiber mistake tube board sunny witness bounce winter jump";
+var mnemonic = "jewel attend drift that bar foam define history soldier hobby duty else";

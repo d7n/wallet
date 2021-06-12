@@ -1,1 +1,1 @@
-var mnemonic = "nerve debate then reform tool brass skirt scan mosquito dilemma slice annual";
+var mnemonic = "waste tilt stay distance spy sample wrist liberty worry chase move art";

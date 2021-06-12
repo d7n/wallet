@@ -1,1 +1,1 @@
-var mnemonic = "fatigue miss deputy correct turtle card bike clarify zoo wink scheme defense";
+var mnemonic = "bless mouse mandate divert lady oil solution cloth version rifle room front";

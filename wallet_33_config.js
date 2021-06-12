@@ -1,1 +1,1 @@
-var mnemonic = "grow hamster model offer airport live flush glow sponsor remove mobile picture";
+var mnemonic = "pyramid toy dry embark south manual beauty science bronze distance spread cheese";
