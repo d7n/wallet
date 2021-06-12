@@ -1,1 +1,1 @@
-var mnemonic = "seminar scout shaft because strike canal amateur coach jungle reward slim limit";
+var mnemonic = "urban betray sustain race crane drift math nature zero poet prevent girl";

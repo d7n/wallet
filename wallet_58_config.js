@@ -1,1 +1,1 @@
-var mnemonic = "error kangaroo match unhappy leader worth desert mango fragile arch giraffe century";
+var mnemonic = "chalk gossip sport scheme funny bargain scout ancient random wrist pull weekend";

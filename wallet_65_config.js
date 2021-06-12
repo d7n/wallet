@@ -1,1 +1,1 @@
-var mnemonic = "weasel outer crime leisure coil peace profit whisper armor music amazing account";
+var mnemonic = "vapor bonus project unfair blame boss envelope collect oil energy save short";

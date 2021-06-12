@@ -1,1 +1,1 @@
-var mnemonic = "jewel face judge reason bleak six random lunch harbor double answer acoustic";
+var mnemonic = "skin brown easy virtual people decorate dog life gym loan test noise";

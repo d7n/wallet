@@ -1,1 +1,1 @@
-var mnemonic = "manage patrol skin couple develop true mouse card recycle will hazard bike";
+var mnemonic = "more dune grunt library detect spot rocket cement notice extend toy secret";

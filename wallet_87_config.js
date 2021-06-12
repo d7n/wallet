@@ -1,1 +1,1 @@
-var mnemonic = "pluck defense field forum clarify destroy day cash retire talk urban answer";
+var mnemonic = "inhale sadness check amount course focus license unusual leopard fork essay nature";

@@ -1,1 +1,1 @@
-var mnemonic = "city forget glue tribe speak turkey library current eight wine deal ticket";
+var mnemonic = "dutch carbon misery dice tomorrow raven aunt copper puzzle source erosion alley";

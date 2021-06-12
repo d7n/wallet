@@ -1,1 +1,1 @@
-var mnemonic = "silver exhaust dignity sauce amazing burden awake orchard join win practice movie";
+var mnemonic = "hurry fence help swamp census certain ordinary crazy large ladder price bench";

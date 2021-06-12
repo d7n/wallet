@@ -1,1 +1,1 @@
-var mnemonic = "taxi alert winner barrel pretty retreat three face infant famous chief other";
+var mnemonic = "panel stem category animal lesson crouch lend purpose object gesture water person";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty axis raise accuse siege vicious female nasty inch until north legend";
+var mnemonic = "amused knee cart purchase decide display object slice mixed viable nerve crew";

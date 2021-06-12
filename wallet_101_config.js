@@ -1,1 +1,1 @@
-var mnemonic = "best apart wall wage valley cherry hair museum people purity blade best";
+var mnemonic = "tip across slow bless jacket flavor donkey path pledge dance shine execute";

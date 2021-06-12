@@ -1,1 +1,1 @@
-var mnemonic = "kitchen client chair stone gossip agent lumber horror fatigue food afford engage";
+var mnemonic = "fog cattle gentle wise mask hybrid chest inquiry bread scatter onion market";

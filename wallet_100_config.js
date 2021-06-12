@@ -1,1 +1,1 @@
-var mnemonic = "gain pull glow vanish sister borrow pony latin sport notable tiger tree";
+var mnemonic = "live reduce pull offer broken success fancy ice hockey steak sense pattern";

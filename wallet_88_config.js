@@ -1,1 +1,1 @@
-var mnemonic = "century wealth dutch raw push tortoise six join sell unit wild borrow";
+var mnemonic = "exchange rookie lesson judge margin grain tent fetch aerobic sand quantum town";

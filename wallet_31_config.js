@@ -1,1 +1,1 @@
-var mnemonic = "chest seminar drink verb mail harvest current catch intact sample loop candy";
+var mnemonic = "bind such unit dismiss midnight ill proud lawsuit exchange gentle fabric borrow";

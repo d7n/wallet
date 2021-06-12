@@ -1,1 +1,1 @@
-var mnemonic = "uphold oval make bronze agree can nominee rescue bitter recipe rely gas";
+var mnemonic = "eternal tilt spell wrestle eagle tooth raven flee alarm wife conduct drop";

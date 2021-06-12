@@ -1,1 +1,1 @@
-var mnemonic = "orchard top garbage famous hedgehog unable trade rail wing forest hill stone";
+var mnemonic = "script mind tuition magic piano cup idea universe home dwarf leave silent";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe treat metal truth open belt dad allow ice spice dolphin column";
+var mnemonic = "copy market flower tag ridge jacket cable east enrich dismiss glide trade";

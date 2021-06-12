@@ -1,1 +1,1 @@
-var mnemonic = "acid neutral endorse kiwi chaos illness punch never machine auction person educate";
+var mnemonic = "omit balance wheel sword write desk exchange poverty canyon custom include often";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh essence banana solution diary parrot slow monster winter chair dust flock";
+var mnemonic = "burger sting student pig fruit sphere web giggle brisk library turn potato";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise about mimic run high morning wrong used umbrella brother team follow";
+var mnemonic = "good syrup fork much drink plate saddle fringe dry hood model verb";

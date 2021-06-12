@@ -1,1 +1,1 @@
-var mnemonic = "faint wheel point sand device sample chalk daughter fresh tourist pulse desk";
+var mnemonic = "female theory hour oblige reveal live device possible opera awful ski worry";

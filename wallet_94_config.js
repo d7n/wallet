@@ -1,1 +1,1 @@
-var mnemonic = "uncover olive cave grab apple jaguar seven door glow attend gate amount";
+var mnemonic = "crumble exercise chalk license door term scheme escape piece joy chat absurd";

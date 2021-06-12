@@ -1,1 +1,1 @@
-var mnemonic = "despair globe emerge chat brisk guitar prefer chimney cable then expand tired";
+var mnemonic = "coyote lion cotton absurd thunder discover atom sadness angle oxygen fiscal wrestle";

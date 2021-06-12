@@ -1,1 +1,1 @@
-var mnemonic = "brisk rent swap humor level seed pass rent bike quality wolf question";
+var mnemonic = "twelve gloom warm clarify satisfy embark analyst during border ladder consider hurry";

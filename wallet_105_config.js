@@ -1,1 +1,1 @@
-var mnemonic = "horse plate arctic system sure clock random mixture traffic little push father";
+var mnemonic = "economy win maximum glass oak wrong hazard combine water moment review clean";

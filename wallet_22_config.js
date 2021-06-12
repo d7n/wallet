@@ -1,1 +1,1 @@
-var mnemonic = "leopard adapt loan special pumpkin emerge kiwi easy festival dash harbor rigid";
+var mnemonic = "clerk two vibrant recipe focus build when erosion risk monitor cereal knife";

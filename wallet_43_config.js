@@ -1,1 +1,1 @@
-var mnemonic = "van sport palm gravity shop layer company lock fun episode salute reflect";
+var mnemonic = "judge gift merit gate elephant travel robot civil era jeans adult gentle";

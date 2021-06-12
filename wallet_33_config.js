@@ -1,1 +1,1 @@
-var mnemonic = "canoe buyer gorilla island jungle side miss oppose labor twelve exercise require";
+var mnemonic = "banana vendor range fee arrow ivory moment unique retire minimum cook priority";

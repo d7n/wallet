@@ -1,1 +1,1 @@
-var mnemonic = "enable divorce nut daring eager concert diamond hello photo term picture circle";
+var mnemonic = "rapid struggle excuse remind approve sunny rule kangaroo outdoor rubber charge spread";

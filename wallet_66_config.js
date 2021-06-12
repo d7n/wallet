@@ -1,1 +1,1 @@
-var mnemonic = "vacant come candy pluck practice staff circle panel energy cinnamon balance park";
+var mnemonic = "consider way van wagon hole feel wish once fiber ordinary employ fee";

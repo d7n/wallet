@@ -1,1 +1,1 @@
-var mnemonic = "general scorpion perfect copy system deal history deposit gap promote flash member";
+var mnemonic = "bridge churn lonely fancy wish give victory negative such sphere hero crash";

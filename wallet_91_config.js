@@ -1,1 +1,1 @@
-var mnemonic = "cabbage fault grid lawn long aim step balcony review good ice effort";
+var mnemonic = "wrist yard forget wise fitness occur bounce lyrics neutral animal gun sausage";

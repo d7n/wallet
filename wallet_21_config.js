@@ -1,1 +1,1 @@
-var mnemonic = "inhale spider crisp expose order radar lemon ranch scatter nephew result glow";
+var mnemonic = "luggage include sunny travel pizza artist dove final gallery network bubble service";

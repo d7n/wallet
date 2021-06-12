@@ -1,1 +1,1 @@
-var mnemonic = "nice mule more purpose voyage sadness balance pledge frame people age consider";
+var mnemonic = "napkin radio bar kid unfair eyebrow talent muffin master mechanic family soap";

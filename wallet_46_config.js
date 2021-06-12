@@ -1,1 +1,1 @@
-var mnemonic = "song provide vehicle lawsuit mirror vacant circle walnut narrow save base awkward";
+var mnemonic = "rapid water morning dynamic repair kiss flight physical coin harvest connect fury";

@@ -1,1 +1,1 @@
-var mnemonic = "over math advance regular stock secret debate ritual duty kiwi valley phone";
+var mnemonic = "check trophy banana bachelor bunker desert arrest desert run swear seed hurdle";

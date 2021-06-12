@@ -1,1 +1,1 @@
-var mnemonic = "please great broken dash believe promote woman yard viable smart cube orbit";
+var mnemonic = "cigar suggest vacant drastic bulk tiny age ticket unknown ill attack change";

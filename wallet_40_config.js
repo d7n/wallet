@@ -1,1 +1,1 @@
-var mnemonic = "figure pact scissors job adult vote garment devote whale general fence relief";
+var mnemonic = "taste tuition steak again danger someone message group object intact flag excuse";

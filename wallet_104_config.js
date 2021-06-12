@@ -1,1 +1,1 @@
-var mnemonic = "visual regular plug entry cabbage soldier giggle kiwi fresh try claw knife";
+var mnemonic = "dance pride trophy lazy cactus measure renew wing cruise trouble afford task";

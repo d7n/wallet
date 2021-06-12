@@ -1,1 +1,1 @@
-var mnemonic = "obtain obscure sure drill gorilla sibling case pair same real ecology daring";
+var mnemonic = "social love swing subway anchor pitch action strategy finger pottery shaft episode";

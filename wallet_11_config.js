@@ -1,1 +1,1 @@
-var mnemonic = "sleep zebra debate travel fine toward orient ladder taste siege actual idle";
+var mnemonic = "gate love grocery fee cactus alcohol tongue screen salon auction visa laptop";

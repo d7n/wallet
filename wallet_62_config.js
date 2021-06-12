@@ -1,1 +1,1 @@
-var mnemonic = "horror off holiday copper soup ten glare involve only wood always tonight";
+var mnemonic = "today oval shock orange furnace annual cable slab ball shed original coconut";

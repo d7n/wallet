@@ -1,1 +1,1 @@
-var mnemonic = "reduce garment resist blanket maximum embark aware wool east design remember physical";
+var mnemonic = "verify enter problem current cupboard exile estate cabin screen design addict snap";

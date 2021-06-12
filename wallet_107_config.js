@@ -1,1 +1,1 @@
-var mnemonic = "despair false tip task rude provide sound kitchen arm ecology bar total";
+var mnemonic = "law between menu prison pole duck rhythm eyebrow tower walnut educate goose";

@@ -1,1 +1,1 @@
-var mnemonic = "crop silent pool consider monkey decade already wild wheat empty cook sister";
+var mnemonic = "kind trick inspire fade leader manage leave pyramid dignity turkey divert tiny";

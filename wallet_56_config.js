@@ -1,1 +1,1 @@
-var mnemonic = "mail village critic dress repair tiger viable eye aunt blur left trophy";
+var mnemonic = "leisure clean faint differ humor video gun image express apology crumble embark";

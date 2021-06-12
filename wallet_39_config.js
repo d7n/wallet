@@ -1,1 +1,1 @@
-var mnemonic = "sleep frost law dry giggle angry acid grain creek humor stable wing";
+var mnemonic = "trumpet again elephant raven glad vital ankle burden urban van foot crop";

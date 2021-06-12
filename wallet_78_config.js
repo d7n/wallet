@@ -1,1 +1,1 @@
-var mnemonic = "either you occur kingdom fresh short potato mutual flock puzzle flower move";
+var mnemonic = "clock van govern laugh kind ridge behave paddle guilt road game occur";

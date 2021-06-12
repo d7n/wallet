@@ -1,1 +1,1 @@
-var mnemonic = "robot purpose bitter wise gun relax shell taste romance kitten crucial fly";
+var mnemonic = "avocado ticket night lake gas friend lend trim dose omit sort marble";

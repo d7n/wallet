@@ -1,1 +1,1 @@
-var mnemonic = "flip exist canyon garment garage three dizzy grunt vacuum humor sunny peanut";
+var mnemonic = "donor scrap airport table apple hip come lonely undo path topple solid";

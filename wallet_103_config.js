@@ -1,1 +1,1 @@
-var mnemonic = "silk icon flush bridge draft polar trend plunge liquid mask hobby either";
+var mnemonic = "select team layer glass interest tuna over dilemma clarify dumb tennis return";

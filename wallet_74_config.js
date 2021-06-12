@@ -1,1 +1,1 @@
-var mnemonic = "achieve atom license infant trial anger snack course rifle trade crowd ribbon";
+var mnemonic = "globe visit broccoli exotic tape pattern better middle actor grocery width food";

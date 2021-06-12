@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur give equip brass chimney certain tissue panic before verify include seminar";
+var mnemonic = "arena hurt reason benefit average relief short leader tail acid unlock rally";

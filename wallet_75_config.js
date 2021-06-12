@@ -1,1 +1,1 @@
-var mnemonic = "innocent stuff base scissors buddy nerve master mansion aspect bind similar border";
+var mnemonic = "knee render task gift exclude drip tray combine unusual number gasp wing";

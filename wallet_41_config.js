@@ -1,1 +1,1 @@
-var mnemonic = "index cheap gauge moral famous train cruel donor track uncle depth steel";
+var mnemonic = "interest rescue act health youth glance divert mixture pretty pause element flower";

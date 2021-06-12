@@ -1,1 +1,1 @@
-var mnemonic = "glare ocean gadget insect exchange pumpkin scatter stomach curious demise federal tray";
+var mnemonic = "coast typical treat rally warrior survey squirrel tennis shadow almost stay push";

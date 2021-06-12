@@ -1,1 +1,1 @@
-var mnemonic = "taxi slender blind expect agree cancel reflect invest turkey drift found ozone";
+var mnemonic = "token catch harvest sword unique flower river rhythm soda love sail wonder";

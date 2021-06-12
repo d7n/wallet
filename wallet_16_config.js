@@ -1,1 +1,1 @@
-var mnemonic = "cash end actress direct actor rapid egg genuine bargain rifle edge north";
+var mnemonic = "favorite unveil tilt paper cool mountain just library mango draft yard recycle";

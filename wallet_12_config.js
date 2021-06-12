@@ -1,1 +1,1 @@
-var mnemonic = "gloom connect winner hat palm ceiling rural crouch abstract sight praise awful";
+var mnemonic = "toward cup depth arch chronic art fork common enact raven open afraid";

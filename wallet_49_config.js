@@ -1,1 +1,1 @@
-var mnemonic = "can liar execute goddess twice avocado rule cannon bamboo actual citizen wheat";
+var mnemonic = "obscure argue hurdle couch scheme olive bone seat match example atom tobacco";

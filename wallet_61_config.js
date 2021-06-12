@@ -1,1 +1,1 @@
-var mnemonic = "now legal image strategy hawk legal rifle verify number muscle such curtain";
+var mnemonic = "relax other rocket final curtain home often main problem canyon junk brush";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny injury swamp tomorrow swap modify initial wage once oyster save paddle";
+var mnemonic = "soup kiss exhaust scorpion caution pony oblige lava admit gaze gown grain";

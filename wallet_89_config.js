@@ -1,1 +1,1 @@
-var mnemonic = "lens cluster bamboo public life mushroom truth invest belt solar saddle bean";
+var mnemonic = "surprise umbrella riot spread group vessel girl disorder tail summer awkward myself";

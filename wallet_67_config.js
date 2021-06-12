@@ -1,1 +1,1 @@
-var mnemonic = "host wear play general canal offer crush danger genius lion wolf update";
+var mnemonic = "crisp quote top stadium garment blush giraffe veteran guitar spread struggle just";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar pencil stone pave naive birth upset hotel lift hurry paper fee";
+var mnemonic = "shift hub festival knife opera test speak above rose absurd convince detect";

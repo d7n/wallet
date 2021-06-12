@@ -1,1 +1,1 @@
-var mnemonic = "reduce couple prefer fragile spice gesture bring green series toward suffer certain";
+var mnemonic = "eyebrow dutch brand lazy output fine guilt abstract segment melody web sound";

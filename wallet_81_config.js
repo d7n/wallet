@@ -1,1 +1,1 @@
-var mnemonic = "exotic buzz chef chuckle unfair garlic evidence setup awesome favorite trumpet angry";
+var mnemonic = "motor flame later jungle front gun ghost inflict nose chat swim enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "surround pave pumpkin music trap chaos piece absorb shift palm wrestle twenty";
+var mnemonic = "recipe bitter seek repair above faith club bracket asthma hard call busy";

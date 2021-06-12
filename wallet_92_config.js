@@ -1,1 +1,1 @@
-var mnemonic = "cigar flame vague random critic fox bitter behave federal accuse ribbon table";
+var mnemonic = "quote neither burst catalog wrist duty frost hurt antenna split market cotton";

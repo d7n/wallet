@@ -1,1 +1,1 @@
-var mnemonic = "excuse vessel eight december mimic liar tired smooth hat urge road economy";
+var mnemonic = "bread giggle crowd dust album stamp industry dream release trip soldier scissors";

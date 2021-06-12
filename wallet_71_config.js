@@ -1,1 +1,1 @@
-var mnemonic = "news manage column since fame owner license super blanket pause rural hope";
+var mnemonic = "guilt rude rhythm view spare consider taxi artwork lazy flag found caution";

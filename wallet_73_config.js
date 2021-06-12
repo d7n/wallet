@@ -1,1 +1,1 @@
-var mnemonic = "axis fit virus knife east turn farm box yard lazy miss genius";
+var mnemonic = "iron era bubble bullet reveal ill mirror bless twenty morning uphold machine";

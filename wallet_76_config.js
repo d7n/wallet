@@ -1,1 +1,1 @@
-var mnemonic = "minute dust dance mix brush material come stem clarify theme tuition wealth";
+var mnemonic = "honey satoshi famous limb host parade leave blind market jungle weather symptom";

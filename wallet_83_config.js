@@ -1,1 +1,1 @@
-var mnemonic = "vital spatial flight bamboo liquid theme cement crouch mixed art core morning";
+var mnemonic = "umbrella stumble spider brand jazz trim pen three next ability color admit";

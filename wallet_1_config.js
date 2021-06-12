@@ -1,1 +1,1 @@
-var mnemonic = "unusual antique long unfair achieve card crumble obvious news drastic mass icon";
+var mnemonic = "satisfy risk venture purse question error surge burst rail execute good menu";

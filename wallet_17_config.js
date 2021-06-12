@@ -1,1 +1,1 @@
-var mnemonic = "hurdle despair already run focus busy hen innocent fabric want try eyebrow";
+var mnemonic = "whip chimney adjust three desk horse swift spike kid holiday top history";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach speak meadow abstract brain mosquito shiver pepper alley twenty title rabbit";
+var mnemonic = "amateur employ blade wild roof cube cluster next mind badge grunt sad";

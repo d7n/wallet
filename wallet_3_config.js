@@ -1,1 +1,1 @@
-var mnemonic = "flavor figure urban trial bronze digital friend armed steel link soon road";
+var mnemonic = "illness frame bag bargain unknown stable cup lumber asset attract carpet uniform";

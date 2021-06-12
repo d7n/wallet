@@ -1,1 +1,1 @@
-var mnemonic = "assault hawk orphan liquid unique tongue share fatal edge link truck whisper";
+var mnemonic = "wise noise symbol casual nephew cup relax bamboo school quantum invest domain";

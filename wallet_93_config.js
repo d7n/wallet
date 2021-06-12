@@ -1,1 +1,1 @@
-var mnemonic = "park govern vessel element dream pride reform rhythm steel response travel barrel";
+var mnemonic = "interest tray avocado vapor mix bronze measure crucial mean question disagree salute";

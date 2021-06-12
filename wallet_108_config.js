@@ -1,1 +1,1 @@
-var mnemonic = "cart use system update weather column drama garbage snake act ticket warrior";
+var mnemonic = "lamp panic comic garage country inmate trigger situate day jungle twist purse";

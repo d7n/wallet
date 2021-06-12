@@ -1,1 +1,1 @@
-var mnemonic = "accuse skin hurry relief episode obtain finger arrange punch witness fee state";
+var mnemonic = "real verify balcony edit thank humor cushion umbrella settle rude apology test";

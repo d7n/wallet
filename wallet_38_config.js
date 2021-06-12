@@ -1,1 +1,1 @@
-var mnemonic = "civil music normal pulp access hedgehog art stone royal bar anger outdoor";
+var mnemonic = "skirt universe danger tattoo joy salad access add spring estate monster reduce";

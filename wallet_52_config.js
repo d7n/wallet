@@ -1,1 +1,1 @@
-var mnemonic = "bright source deny shine plunge tattoo typical total cave evoke vessel boy";
+var mnemonic = "over powder guard speed burden fade coil toilet virus legal into obey";

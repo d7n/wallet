@@ -1,1 +1,1 @@
-var mnemonic = "town labor unique secret wolf attend staff normal above canvas invest flip";
+var mnemonic = "manage real much boost need say family chimney item talent episode crane";

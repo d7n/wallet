@@ -1,1 +1,1 @@
-var mnemonic = "connect stadium tower rude curtain achieve orange effort second tobacco wagon express";
+var mnemonic = "position manage solve antenna change wish unique spatial soap receive air finish";

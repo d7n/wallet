@@ -1,1 +1,1 @@
-var mnemonic = "view upper dog circle combine brother misery adult intact repeat nature announce";
+var mnemonic = "sheriff choice false general trust bullet ginger clog guess idle transfer clerk";

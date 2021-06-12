@@ -1,1 +1,1 @@
-var mnemonic = "own fluid treat crew wasp tumble prize hawk early crisp cactus foot";
+var mnemonic = "accuse expire network lion member exile inflict rebel draft proud diary giraffe";

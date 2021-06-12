@@ -1,1 +1,1 @@
-var mnemonic = "own property accuse jealous caution slot guide immense rib cable select section";
+var mnemonic = "trend visual unknown fade isolate dentist have silly window secret survey praise";

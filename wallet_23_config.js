@@ -1,1 +1,1 @@
-var mnemonic = "auto rhythm express pretty method license tonight paper business asset novel retire";
+var mnemonic = "seed quality blossom own witness celery unaware quote waste jealous pyramid gadget";

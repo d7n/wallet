@@ -1,1 +1,1 @@
-var mnemonic = "chuckle roast rabbit volcano hello process palm steak resist minimum peace lobster";
+var mnemonic = "party car inject alarm tobacco caught illegal vendor scene gap sort cruise";

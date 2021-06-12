@@ -1,1 +1,1 @@
-var mnemonic = "liar logic artist narrow supply actress split year chunk coach alone bonus";
+var mnemonic = "gauge effort metal perfect stand street spider want case forget glass firm";
