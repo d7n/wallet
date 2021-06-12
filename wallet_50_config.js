@@ -1,1 +1,1 @@
-var mnemonic = "urban betray sustain race crane drift math nature zero poet prevent girl";
+var mnemonic = "error destroy sound crop lounge soccer license board entire master leisure gun";

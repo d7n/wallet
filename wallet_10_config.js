@@ -1,1 +1,1 @@
-var mnemonic = "rapid struggle excuse remind approve sunny rule kangaroo outdoor rubber charge spread";
+var mnemonic = "predict sniff ranch unfold chaos scene employ betray grab civil case spoil";

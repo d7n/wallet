@@ -1,1 +1,1 @@
-var mnemonic = "globe visit broccoli exotic tape pattern better middle actor grocery width food";
+var mnemonic = "piece inspire kingdom address notable plunge purse relief vehicle about soft million";

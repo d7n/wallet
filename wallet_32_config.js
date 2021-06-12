@@ -1,1 +1,1 @@
-var mnemonic = "tray south elephant alert soldier prison much forward again identify total sketch";
+var mnemonic = "tell orbit merge liberty sniff music glare seminar soup decline success impose";

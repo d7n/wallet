@@ -1,1 +1,1 @@
-var mnemonic = "honey satoshi famous limb host parade leave blind market jungle weather symptom";
+var mnemonic = "find brother emotion humble wheel dynamic balance young legal cat skate elegant";

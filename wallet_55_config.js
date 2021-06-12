@@ -1,1 +1,1 @@
-var mnemonic = "view unfold gain engage goose brother odor destroy alpha subject pond weasel";
+var mnemonic = "since unknown merry fire vote supreme click visit head supply crowd hope";

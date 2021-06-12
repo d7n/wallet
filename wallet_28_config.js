@@ -1,1 +1,1 @@
-var mnemonic = "party car inject alarm tobacco caught illegal vendor scene gap sort cruise";
+var mnemonic = "rare border multiply know rain deliver rival fantasy bright that time giant";

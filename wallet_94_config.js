@@ -1,1 +1,1 @@
-var mnemonic = "crumble exercise chalk license door term scheme escape piece joy chat absurd";
+var mnemonic = "traffic music hub identify afford midnight brother inquiry until good brush depend";

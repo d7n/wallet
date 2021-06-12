@@ -1,1 +1,1 @@
-var mnemonic = "regret now liquid fresh coconut issue emerge harsh sniff latin certain machine";
+var mnemonic = "anchor scatter target cluster topic connect swear sponsor shoe better radar heart";

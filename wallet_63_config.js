@@ -1,1 +1,1 @@
-var mnemonic = "position manage solve antenna change wish unique spatial soap receive air finish";
+var mnemonic = "pause zone vessel enter veteran bean hire noble voyage rice regret broccoli";

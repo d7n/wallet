@@ -1,1 +1,1 @@
-var mnemonic = "panel stem category animal lesson crouch lend purpose object gesture water person";
+var mnemonic = "logic pair tilt sorry glow foster reveal jar second vault wagon genre";

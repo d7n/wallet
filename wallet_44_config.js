@@ -1,1 +1,1 @@
-var mnemonic = "gauge plastic limb rude victory chef brisk village reason couple day slam";
+var mnemonic = "increase cake furnace margin radio diagram ignore mix main sort worth ride";

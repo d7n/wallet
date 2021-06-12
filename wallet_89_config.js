@@ -1,1 +1,1 @@
-var mnemonic = "surprise umbrella riot spread group vessel girl disorder tail summer awkward myself";
+var mnemonic = "march adult amazing electric toilet exile symptom rebel oppose evoke kid theme";

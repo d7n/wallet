@@ -1,1 +1,1 @@
-var mnemonic = "fog cattle gentle wise mask hybrid chest inquiry bread scatter onion market";
+var mnemonic = "teach review sheriff edit sheriff tongue credit action enjoy vicious vivid subway";

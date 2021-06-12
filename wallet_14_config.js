@@ -1,1 +1,1 @@
-var mnemonic = "accuse expire network lion member exile inflict rebel draft proud diary giraffe";
+var mnemonic = "fresh eagle once theory discover input visit change music beef beyond destroy";

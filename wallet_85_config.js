@@ -1,1 +1,1 @@
-var mnemonic = "amateur employ blade wild roof cube cluster next mind badge grunt sad";
+var mnemonic = "figure stone lounge hybrid relief arrow pave manage hero digital engine myself";

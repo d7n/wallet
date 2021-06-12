@@ -1,1 +1,1 @@
-var mnemonic = "dance pride trophy lazy cactus measure renew wing cruise trouble afford task";
+var mnemonic = "enhance admit achieve script pattern two sister dentist deny aspect metal execute";

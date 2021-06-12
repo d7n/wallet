@@ -1,1 +1,1 @@
-var mnemonic = "manage real much boost need say family chimney item talent episode crane";
+var mnemonic = "term behave thank simple awake state fragile silk donor unknown help fancy";

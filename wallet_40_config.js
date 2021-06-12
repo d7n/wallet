@@ -1,1 +1,1 @@
-var mnemonic = "taste tuition steak again danger someone message group object intact flag excuse";
+var mnemonic = "boat sleep level degree trade wisdom divide master satoshi occur view giggle";

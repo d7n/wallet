@@ -1,1 +1,1 @@
-var mnemonic = "illness frame bag bargain unknown stable cup lumber asset attract carpet uniform";
+var mnemonic = "road cabin hip must that jelly clay monitor fragile ethics mother ahead";

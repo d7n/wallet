@@ -1,1 +1,1 @@
-var mnemonic = "tip across slow bless jacket flavor donkey path pledge dance shine execute";
+var mnemonic = "opera enable risk chest expand solution timber left purse stand airport cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "judge gift merit gate elephant travel robot civil era jeans adult gentle";
+var mnemonic = "mention lamp primary abuse gesture file idea twin control sand check consider";

@@ -1,1 +1,1 @@
-var mnemonic = "female theory hour oblige reveal live device possible opera awful ski worry";
+var mnemonic = "elevator blue toilet opera biology level lemon bacon police pair spoon gorilla";

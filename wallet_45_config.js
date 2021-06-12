@@ -1,1 +1,1 @@
-var mnemonic = "bridge churn lonely fancy wish give victory negative such sphere hero crash";
+var mnemonic = "exotic scout agree injury stove unfair brass common slab trial vendor life";

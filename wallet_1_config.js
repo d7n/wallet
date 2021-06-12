@@ -1,1 +1,1 @@
-var mnemonic = "satisfy risk venture purse question error surge burst rail execute good menu";
+var mnemonic = "middle bubble rebel approve best wide demand off clinic business gorilla pipe";

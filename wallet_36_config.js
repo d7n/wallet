@@ -1,1 +1,1 @@
-var mnemonic = "eagle seek trend artist across chronic road abandon damp path jealous urban";
+var mnemonic = "save fat blind cheap chief comic sauce error thank soon dentist ahead";

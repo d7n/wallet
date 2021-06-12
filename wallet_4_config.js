@@ -1,1 +1,1 @@
-var mnemonic = "twelve gloom warm clarify satisfy embark analyst during border ladder consider hurry";
+var mnemonic = "daughter hurt exhibit search avoid cushion spike fringe submit record diesel mirror";

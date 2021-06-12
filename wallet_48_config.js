@@ -1,1 +1,1 @@
-var mnemonic = "dutch carbon misery dice tomorrow raven aunt copper puzzle source erosion alley";
+var mnemonic = "drama satoshi trap tank odor clarify umbrella donkey security warm type nerve";

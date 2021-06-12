@@ -1,1 +1,1 @@
-var mnemonic = "gate love grocery fee cactus alcohol tongue screen salon auction visa laptop";
+var mnemonic = "amount response rural sad assume thrive tail lesson hope great please fence";

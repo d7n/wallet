@@ -1,1 +1,1 @@
-var mnemonic = "soup kiss exhaust scorpion caution pony oblige lava admit gaze gown grain";
+var mnemonic = "cousin program solid endorse exist barely shuffle dignity oak film fashion hard";

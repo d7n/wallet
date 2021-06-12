@@ -1,1 +1,1 @@
-var mnemonic = "trend visual unknown fade isolate dentist have silly window secret survey praise";
+var mnemonic = "diagram lab unknown benefit need divorce barely then reopen estate topic leader";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite unveil tilt paper cool mountain just library mango draft yard recycle";
+var mnemonic = "again alone giraffe enough mammal daughter apart fantasy between joy holiday panda";

@@ -1,1 +1,1 @@
-var mnemonic = "omit balance wheel sword write desk exchange poverty canyon custom include often";
+var mnemonic = "essay sing manage forest flower orient flee venue brown use very enable";

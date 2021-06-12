@@ -1,1 +1,1 @@
-var mnemonic = "coyote lion cotton absurd thunder discover atom sadness angle oxygen fiscal wrestle";
+var mnemonic = "rack exile rack express author random salt body syrup rebuild hair already";

@@ -1,1 +1,1 @@
-var mnemonic = "knee render task gift exclude drip tray combine unusual number gasp wing";
+var mnemonic = "fork learn wheat relax rigid flock bread audit manage floor message material";

@@ -1,1 +1,1 @@
-var mnemonic = "iron era bubble bullet reveal ill mirror bless twenty morning uphold machine";
+var mnemonic = "seminar during junior creek tragic laptop bird cheese dinner tunnel ice apple";

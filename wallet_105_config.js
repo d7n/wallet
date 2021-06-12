@@ -1,1 +1,1 @@
-var mnemonic = "economy win maximum glass oak wrong hazard combine water moment review clean";
+var mnemonic = "rug home olive buyer board shield between attack off lava wheel life";

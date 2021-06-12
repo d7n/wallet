@@ -1,1 +1,1 @@
-var mnemonic = "wrist yard forget wise fitness occur bounce lyrics neutral animal gun sausage";
+var mnemonic = "excuse lumber laptop wrestle wash vault imitate feed produce tobacco eagle jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk gossip sport scheme funny bargain scout ancient random wrist pull weekend";
+var mnemonic = "dirt crush claim giggle basket only essence olive gossip shadow magnet humor";

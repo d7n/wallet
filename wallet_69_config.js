@@ -1,1 +1,1 @@
-var mnemonic = "gauge effort metal perfect stand street spider want case forget glass firm";
+var mnemonic = "track february dose wish bench toddler venue liar among laptop taste absurd";

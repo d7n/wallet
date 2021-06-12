@@ -1,1 +1,1 @@
-var mnemonic = "law between menu prison pole duck rhythm eyebrow tower walnut educate goose";
+var mnemonic = "height keen various perfect grid champion book duck execute cause ivory subway";

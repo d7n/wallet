@@ -1,1 +1,1 @@
-var mnemonic = "quote neither burst catalog wrist duty frost hurt antenna split market cotton";
+var mnemonic = "jazz prevent hole turn regular supply venture awkward decrease short grunt motor";

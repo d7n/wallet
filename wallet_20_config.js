@@ -1,1 +1,1 @@
-var mnemonic = "more dune grunt library detect spot rocket cement notice extend toy secret";
+var mnemonic = "draft tank merge worry cost tide false wine fork oblige robot private";

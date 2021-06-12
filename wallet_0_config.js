@@ -1,1 +1,1 @@
-var mnemonic = "wise noise symbol casual nephew cup relax bamboo school quantum invest domain";
+var mnemonic = "isolate already choice dish hub they key shine outdoor quality deputy attitude";

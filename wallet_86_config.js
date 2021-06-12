@@ -1,1 +1,1 @@
-var mnemonic = "napkin radio bar kid unfair eyebrow talent muffin master mechanic family soap";
+var mnemonic = "cable caught barrel poet total permit dry symptom true recall expose acoustic";

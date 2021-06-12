@@ -1,1 +1,1 @@
-var mnemonic = "skirt universe danger tattoo joy salad access add spring estate monster reduce";
+var mnemonic = "oven nature injury kidney parade high false bicycle silver ball fit cash";

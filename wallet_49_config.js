@@ -1,1 +1,1 @@
-var mnemonic = "obscure argue hurdle couch scheme olive bone seat match example atom tobacco";
+var mnemonic = "radio mail inspire balcony guide already silk squirrel current sock addict bar";

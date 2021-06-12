@@ -1,1 +1,1 @@
-var mnemonic = "space snow mask impulse access maid mule asset useful body country girl";
+var mnemonic = "snake champion situate violin desk arrive palace order spider inherit calm soft";

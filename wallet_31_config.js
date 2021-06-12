@@ -1,1 +1,1 @@
-var mnemonic = "bind such unit dismiss midnight ill proud lawsuit exchange gentle fabric borrow";
+var mnemonic = "early found grocery letter ticket home point hill child fashion loyal month";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor bonus project unfair blame boss envelope collect oil energy save short";
+var mnemonic = "pluck assume dolphin embark usage six afraid because excuse below monster remember";

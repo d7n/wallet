@@ -1,1 +1,1 @@
-var mnemonic = "skin brown easy virtual people decorate dog life gym loan test noise";
+var mnemonic = "green place poem cave decide viable armed urban iron gasp birth junior";

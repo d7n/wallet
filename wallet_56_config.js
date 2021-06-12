@@ -1,1 +1,1 @@
-var mnemonic = "leisure clean faint differ humor video gun image express apology crumble embark";
+var mnemonic = "trigger behind tennis fortune near distance liberty drama celery beach nominee stuff";

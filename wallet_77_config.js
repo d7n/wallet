@@ -1,1 +1,1 @@
-var mnemonic = "tuna acoustic slow luggage patient fruit know rule during display note slight";
+var mnemonic = "glimpse code cat holiday company genuine black ketchup vanish tongue liberty slam";

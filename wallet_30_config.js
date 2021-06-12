@@ -1,1 +1,1 @@
-var mnemonic = "toe bulb party ask wine heart faculty cement visit card shrimp session";
+var mnemonic = "then alley blanket grape turtle medal mutual toss sponsor sail afford cloth";

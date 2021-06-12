@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow dutch brand lazy output fine guilt abstract segment melody web sound";
+var mnemonic = "siege dinner mouse song enlist actual draw benefit hood digital lyrics ladder";

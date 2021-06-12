@@ -1,1 +1,1 @@
-var mnemonic = "glove vacuum license found genuine pact obey picture pelican prize room impulse";
+var mnemonic = "review gather mom exercise party verify over accuse regret owner diagram ill";

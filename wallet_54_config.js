@@ -1,1 +1,1 @@
-var mnemonic = "tired kangaroo wheat finger flat dinosaur grab sure blur fault gadget various";
+var mnemonic = "easy pear crumble debris twin match explain client night payment expire pride";

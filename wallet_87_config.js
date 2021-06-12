@@ -1,1 +1,1 @@
-var mnemonic = "inhale sadness check amount course focus license unusual leopard fork essay nature";
+var mnemonic = "soccer celery tonight tuna file company chat spray pumpkin chuckle rent tired";

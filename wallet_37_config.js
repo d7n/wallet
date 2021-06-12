@@ -1,1 +1,1 @@
-var mnemonic = "verify enter problem current cupboard exile estate cabin screen design addict snap";
+var mnemonic = "parrot lecture fog hold across valid gas life loan cable match amateur";

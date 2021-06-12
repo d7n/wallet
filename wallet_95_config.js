@@ -1,1 +1,1 @@
-var mnemonic = "kind trick inspire fade leader manage leave pyramid dignity turkey divert tiny";
+var mnemonic = "wolf anchor fetch unveil pulp swap sleep time verb ozone bronze weasel";

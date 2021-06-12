@@ -1,1 +1,1 @@
-var mnemonic = "relax other rocket final curtain home often main problem canyon junk brush";
+var mnemonic = "only harbor rescue bread leisure math jealous lava below cross south blush";

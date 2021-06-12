@@ -1,1 +1,1 @@
-var mnemonic = "input assault warrior oven detail math arrest leg brand stamp pledge valve";
+var mnemonic = "artwork foster crawl nuclear winter increase ensure lens average glance palace outer";

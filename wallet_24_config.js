@@ -1,1 +1,1 @@
-var mnemonic = "good syrup fork much drink plate saddle fringe dry hood model verb";
+var mnemonic = "nest fitness patrol total choose survey siren raccoon best tissue aunt camp";

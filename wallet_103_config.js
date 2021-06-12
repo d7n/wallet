@@ -1,1 +1,1 @@
-var mnemonic = "select team layer glass interest tuna over dilemma clarify dumb tennis return";
+var mnemonic = "flee conduct oven attend enable fetch crew tribe month observe grant unable";

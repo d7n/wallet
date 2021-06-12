@@ -1,1 +1,1 @@
-var mnemonic = "trial gallery differ unfold bag lyrics cute envelope athlete effort exhibit digital";
+var mnemonic = "gym task swap sniff creek despair first toward outdoor enhance similar evolve";

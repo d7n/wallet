@@ -1,1 +1,1 @@
-var mnemonic = "radar acquire mercy film item document catch erase trap multiply dress leisure";
+var mnemonic = "ahead rare lottery fiber guitar eager marble glare camera neck cake mixture";

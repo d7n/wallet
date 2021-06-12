@@ -1,1 +1,1 @@
-var mnemonic = "clerk two vibrant recipe focus build when erosion risk monitor cereal knife";
+var mnemonic = "curious nation ecology verb finish prize tackle maid sea lava van tribe";

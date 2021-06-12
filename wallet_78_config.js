@@ -1,1 +1,1 @@
-var mnemonic = "clock van govern laugh kind ridge behave paddle guilt road game occur";
+var mnemonic = "erase morning glad pupil prize asthma rebel limit abstract relax blast column";

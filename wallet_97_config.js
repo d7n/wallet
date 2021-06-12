@@ -1,1 +1,1 @@
-var mnemonic = "check trophy banana bachelor bunker desert arrest desert run swear seed hurdle";
+var mnemonic = "swamp column solid best soul tooth drip cereal cat exotic inflict multiply";

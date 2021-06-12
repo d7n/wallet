@@ -1,1 +1,1 @@
-var mnemonic = "guilt rude rhythm view spare consider taxi artwork lazy flag found caution";
+var mnemonic = "huge spread make friend among tourist during pet security enrich garage roast";

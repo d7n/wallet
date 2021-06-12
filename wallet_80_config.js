@@ -1,1 +1,1 @@
-var mnemonic = "hurry fence help swamp census certain ordinary crazy large ladder price bench";
+var mnemonic = "raw mutual neglect phrase glare crop route shy board brown picture have";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage include sunny travel pizza artist dove final gallery network bubble service";
+var mnemonic = "drift phrase unaware boss retreat six grid fun jar potato unable juice";

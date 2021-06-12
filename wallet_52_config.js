@@ -1,1 +1,1 @@
-var mnemonic = "over powder guard speed burden fade coil toilet virus legal into obey";
+var mnemonic = "buddy pink mountain endorse dish check sick sense labor unit any raven";

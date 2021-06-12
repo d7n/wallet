@@ -1,1 +1,1 @@
-var mnemonic = "bread giggle crowd dust album stamp industry dream release trip soldier scissors";
+var mnemonic = "shiver federal vessel detail smart float level final general crush series turn";

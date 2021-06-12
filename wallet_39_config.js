@@ -1,1 +1,1 @@
-var mnemonic = "trumpet again elephant raven glad vital ankle burden urban van foot crop";
+var mnemonic = "parade vehicle digital bright multiply tiny cannon rebel narrow assist bargain census";

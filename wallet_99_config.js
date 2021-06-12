@@ -1,1 +1,1 @@
-var mnemonic = "avocado ticket night lake gas friend lend trim dose omit sort marble";
+var mnemonic = "topic system express genius vague zebra pull girl material monitor clog indicate";

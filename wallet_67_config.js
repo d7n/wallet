@@ -1,1 +1,1 @@
-var mnemonic = "crisp quote top stadium garment blush giraffe veteran guitar spread struggle just";
+var mnemonic = "wine close solve fluid brass radio half kid awake scan thunder glad";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid water morning dynamic repair kiss flight physical coin harvest connect fury";
+var mnemonic = "dragon road recall noise enjoy behave can harbor order corn rain lecture";

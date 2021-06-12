@@ -1,1 +1,1 @@
-var mnemonic = "seed quality blossom own witness celery unaware quote waste jealous pyramid gadget";
+var mnemonic = "pass hello afraid blade wheel flavor cry pony drink size online board";

@@ -1,1 +1,1 @@
-var mnemonic = "interest tray avocado vapor mix bronze measure crucial mean question disagree salute";
+var mnemonic = "faculty city rare smile basic sheriff verb armor chat often heavy lock";

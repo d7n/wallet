@@ -1,1 +1,1 @@
-var mnemonic = "town neutral ethics judge rail scheme joy duck phone shoot helmet ethics";
+var mnemonic = "bulk body dust exhaust three earn rescue refuse final security rotate protect";

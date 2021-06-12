@@ -1,1 +1,1 @@
-var mnemonic = "interest rescue act health youth glance divert mixture pretty pause element flower";
+var mnemonic = "legend small affair apology fix sea language lend sweet wave boat turkey";

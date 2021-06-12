@@ -1,1 +1,1 @@
-var mnemonic = "coast typical treat rally warrior survey squirrel tennis shadow almost stay push";
+var mnemonic = "rail define bunker bone crumble attract snack valid omit force cactus resist";

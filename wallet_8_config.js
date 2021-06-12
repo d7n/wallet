@@ -1,1 +1,1 @@
-var mnemonic = "real verify balcony edit thank humor cushion umbrella settle rude apology test";
+var mnemonic = "hawk saddle project page leg employ lizard print gauge lounge duck fee";

@@ -1,1 +1,1 @@
-var mnemonic = "today oval shock orange furnace annual cable slab ball shed original coconut";
+var mnemonic = "afraid burden retreat already little pass pole suggest tornado lend begin awkward";

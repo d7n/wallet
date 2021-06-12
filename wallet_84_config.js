@@ -1,1 +1,1 @@
-var mnemonic = "punch loop upgrade demise mesh keep helmet often decade rely become deal";
+var mnemonic = "family remind unlock drill bottom dolphin motor miss mask muffin tonight board";

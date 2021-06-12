@@ -1,1 +1,1 @@
-var mnemonic = "motor flame later jungle front gun ghost inflict nose chat swim enlist";
+var mnemonic = "obvious coast tattoo candy old audit future post bridge pluck trim into";

@@ -1,1 +1,1 @@
-var mnemonic = "shift hub festival knife opera test speak above rose absurd convince detect";
+var mnemonic = "right cement slow demise noodle right fortune unaware gap kidney differ defy";

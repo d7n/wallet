@@ -1,1 +1,1 @@
-var mnemonic = "copy market flower tag ridge jacket cable east enrich dismiss glide trade";
+var mnemonic = "unhappy baby student squirrel panel absurd medal poet token liar bulb grunt";

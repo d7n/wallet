@@ -1,1 +1,1 @@
-var mnemonic = "exchange rookie lesson judge margin grain tent fetch aerobic sand quantum town";
+var mnemonic = "antenna orange can note link casual shallow doctor bargain worry cupboard under";
