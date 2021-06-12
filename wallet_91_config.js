@@ -1,1 +1,1 @@
-var mnemonic = "brave fork actual chest vote symbol dismiss maximum soldier frequent chapter asthma";
+var mnemonic = "nuclear float multiply unable produce vital chuckle detail exit emerge original sweet";

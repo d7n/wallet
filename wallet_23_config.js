@@ -1,1 +1,1 @@
-var mnemonic = "all connect choose animal equal volume silver hazard cousin fame sustain start";
+var mnemonic = "tunnel crime air hazard better student zone stone repair giraffe prison adult";

@@ -1,1 +1,1 @@
-var mnemonic = "again jazz isolate identify grape wool twenty resist inquiry wrestle funny arena";
+var mnemonic = "glue then offer boring wash stable sound wink unaware guess hockey glow";

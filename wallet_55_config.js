@@ -1,1 +1,1 @@
-var mnemonic = "romance pulse review bring woman just purpose allow resist season impose stone";
+var mnemonic = "zoo song throw scene label offer elephant fancy sun fence resemble diamond";

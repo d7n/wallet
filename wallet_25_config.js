@@ -1,1 +1,1 @@
-var mnemonic = "medal truth type impose august spell voice another force stable hero fame";
+var mnemonic = "sell hamster tide garbage tissue fee similar hole list embody camp oyster";

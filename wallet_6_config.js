@@ -1,1 +1,1 @@
-var mnemonic = "obtain vicious unknown section donor output awful skill thank fee typical obey";
+var mnemonic = "country peasant rabbit pull enroll unfair cave worth cricket rebel embrace train";

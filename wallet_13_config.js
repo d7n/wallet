@@ -1,1 +1,1 @@
-var mnemonic = "orphan breeze exchange copy village rail hollow trial decrease kite clock know";
+var mnemonic = "finger umbrella welcome buzz patrol minimum style exercise hire chat list ostrich";

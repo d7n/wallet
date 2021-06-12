@@ -1,1 +1,1 @@
-var mnemonic = "spoon dog select nut salad era harvest happy escape ramp task another";
+var mnemonic = "knee tennis electric juice wear camp across possible arch seed tower physical";

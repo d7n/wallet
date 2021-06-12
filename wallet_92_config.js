@@ -1,1 +1,1 @@
-var mnemonic = "rug film steak victory shadow eyebrow day satoshi obvious route coast erosion";
+var mnemonic = "album today alert drop plug gate speak phrase body abandon year kite";

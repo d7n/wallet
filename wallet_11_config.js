@@ -1,1 +1,1 @@
-var mnemonic = "very girl feed afraid climb fever evolve cabbage stumble shoe joke similar";
+var mnemonic = "happy flush logic smoke stairs portion rail magic early social evolve true";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel unveil easily soft furnace fancy year lunch gain health rail puzzle";
+var mnemonic = "fee total range spend rare elbow chalk frozen tennis judge force timber";

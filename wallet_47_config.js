@@ -1,1 +1,1 @@
-var mnemonic = "powder nut minor theory real weapon medal assist sad diet obey wheat";
+var mnemonic = "rubber lab aware fiber labor dismiss guitar jealous output bulk fantasy sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "portion body bubble wet suspect sure kitten resemble portion ozone trade original";
+var mnemonic = "slice margin century energy alter fitness arrow home health repair furnace mean";

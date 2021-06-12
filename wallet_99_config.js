@@ -1,1 +1,1 @@
-var mnemonic = "build multiply cute blue swap apple survey false seminar can situate apart";
+var mnemonic = "approve cat glow funny engage random salt error turkey reform output tourist";

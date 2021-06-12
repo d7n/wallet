@@ -1,1 +1,1 @@
-var mnemonic = "soup evil domain nephew knife call mouse dynamic wood disorder kiss cream";
+var mnemonic = "express exchange radio only capable valid minimum assault economy type high gap";

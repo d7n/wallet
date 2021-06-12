@@ -1,1 +1,1 @@
-var mnemonic = "vehicle orbit nasty volume bless situate oil deliver small enter program game";
+var mnemonic = "blush spatial solid dirt coast arctic noodle total unfold strong giant device";

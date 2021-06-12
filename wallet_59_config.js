@@ -1,1 +1,1 @@
-var mnemonic = "huge shell rain edit lamp announce jeans visual buddy girl display six";
+var mnemonic = "method extra crop gift middle fire half amateur essence flavor quantum direct";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer elbow eight dial funny face noodle wasp spell keen under leader";
+var mnemonic = "disease version taxi lesson tail rescue merge half cup vivid walk rate";

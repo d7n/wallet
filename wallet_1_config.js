@@ -1,1 +1,1 @@
-var mnemonic = "file history abstract image creek bring poet chase major congress vicious miss";
+var mnemonic = "cement connect genius wing wrong chase present modify bar stone such laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow final addict dynamic pizza wide train monster trouble turtle staff fresh";
+var mnemonic = "van merit clump fee mosquito cup guide occur fabric sure inquiry battle";

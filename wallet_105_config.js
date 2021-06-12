@@ -1,1 +1,1 @@
-var mnemonic = "topic simple useful siren account radar child degree pelican hammer green enroll";
+var mnemonic = "unveil session state false collect purse used air alone nominee place joke";

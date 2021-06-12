@@ -1,1 +1,1 @@
-var mnemonic = "toilet figure crush annual what sand universe hunt sketch between motion law";
+var mnemonic = "bread select stairs alien talk park canoe curtain erupt element nephew cricket";

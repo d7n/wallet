@@ -1,1 +1,1 @@
-var mnemonic = "genre bird crater unveil denial hire pause danger improve field blanket tunnel";
+var mnemonic = "rural twin angle fever scout green atom doctor kitchen coyote drip staff";

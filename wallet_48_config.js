@@ -1,1 +1,1 @@
-var mnemonic = "canoe bus initial cereal reason real tip mouse absorb ability example skate";
+var mnemonic = "town tenant choice possible rhythm bar negative fatigue old potato bachelor cruise";

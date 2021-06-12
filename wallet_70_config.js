@@ -1,1 +1,1 @@
-var mnemonic = "portion cube one cruise pioneer scout erosion bring gain hidden security cricket";
+var mnemonic = "behave lounge hawk mammal uniform jar prison gravity wave any exist yard";

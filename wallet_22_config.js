@@ -1,1 +1,1 @@
-var mnemonic = "twin shine wedding poverty cherry cliff pottery junk collect husband warrior isolate";
+var mnemonic = "entire admit patrol loan group rib ten display oblige across never awesome";

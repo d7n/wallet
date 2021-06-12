@@ -1,1 +1,1 @@
-var mnemonic = "ribbon local ceiling light spin submit issue cram bone vessel theme glimpse";
+var mnemonic = "nerve caught toe mad wise orient slow giraffe dwarf poet drink fun";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong ship glide cabin sphere coil pitch auction gorilla energy demise object";
+var mnemonic = "gentle average catalog rival dawn home edit split walnut traffic eagle sand";

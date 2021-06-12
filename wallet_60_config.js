@@ -1,1 +1,1 @@
-var mnemonic = "display cricket funny other breeze knee sausage salon aware express grass swim";
+var mnemonic = "subway ivory prefer purity spirit disease token above enemy diet mimic caution";

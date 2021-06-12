@@ -1,1 +1,1 @@
-var mnemonic = "misery grid check panther filter result flash detail open planet useless teach";
+var mnemonic = "wonder ramp fault extra object bridge august sting lock slice upper blast";

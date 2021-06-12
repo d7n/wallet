@@ -1,1 +1,1 @@
-var mnemonic = "inject one hint balcony tree setup puzzle ten fetch online pole cargo";
+var mnemonic = "omit velvet educate random auction buyer balance promote half nature buddy pattern";

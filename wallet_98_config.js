@@ -1,1 +1,1 @@
-var mnemonic = "leave pen moon risk false round decrease clinic then amazing require slide";
+var mnemonic = "jewel stone prize equal cushion ice oxygen tooth then weapon melt they";

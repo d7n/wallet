@@ -1,1 +1,1 @@
-var mnemonic = "mom action crack glimpse paddle artist cradle junk drive feed author north";
+var mnemonic = "tenant bless topic ski chief uncle flag blur spirit sample donate bar";

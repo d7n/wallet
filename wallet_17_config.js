@@ -1,1 +1,1 @@
-var mnemonic = "loan smoke regular vacant glad police opinion kangaroo volume worry hotel stomach";
+var mnemonic = "elevator divorce gorilla escape hidden gauge must romance lend pipe soldier ozone";

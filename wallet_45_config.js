@@ -1,1 +1,1 @@
-var mnemonic = "pull erase school card shoulder engine local sphere unfold pepper lava vendor";
+var mnemonic = "sense robot ordinary canal marble brave reward deliver resource trophy brother crisp";

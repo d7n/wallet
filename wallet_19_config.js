@@ -1,1 +1,1 @@
-var mnemonic = "candy royal buyer dumb pupil girl search pepper south tunnel siren funny";
+var mnemonic = "planet twice elite luggage vivid language borrow basic assist another involve mutual";

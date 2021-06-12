@@ -1,1 +1,1 @@
-var mnemonic = "knife helmet abstract behave film stem heart expose artefact myself already truth";
+var mnemonic = "sound brief mountain peasant grow genius hotel insect clinic frequent maple else";

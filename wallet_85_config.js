@@ -1,1 +1,1 @@
-var mnemonic = "duty input bachelor favorite entire rich lottery satoshi dynamic scout maze wrist";
+var mnemonic = "rebel hint access moon charge stomach model silk south caution orphan company";

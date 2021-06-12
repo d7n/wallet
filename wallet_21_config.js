@@ -1,1 +1,1 @@
-var mnemonic = "open turtle bring suspect eight cupboard segment fatal outside bronze make sad";
+var mnemonic = "worry cruel used alien right veteran joke nut wise practice oven add";

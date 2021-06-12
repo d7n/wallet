@@ -1,1 +1,1 @@
-var mnemonic = "master guard arena hawk pet front organ cricket rib benefit warrior clip";
+var mnemonic = "crucial hair speed wash spread bid cabbage occur tail spoon cushion bulb";

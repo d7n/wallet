@@ -1,1 +1,1 @@
-var mnemonic = "foam account fine talent retire ridge mosquito whisper error canal meat base";
+var mnemonic = "budget enter clinic ecology asthma wheat pill shrug enemy item urge unique";

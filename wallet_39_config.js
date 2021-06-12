@@ -1,1 +1,1 @@
-var mnemonic = "clock few fog mirror liquid comic apart cable rail brisk level deputy";
+var mnemonic = "exhibit candy toward enter knock uncover uncle opera airport empower chat parrot";

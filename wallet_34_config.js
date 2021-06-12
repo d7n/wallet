@@ -1,1 +1,1 @@
-var mnemonic = "earn cart spray obscure ancient require angle address useless diagram mom nominee";
+var mnemonic = "differ word glimpse tail gift hospital mix bargain purchase thrive asset jungle";

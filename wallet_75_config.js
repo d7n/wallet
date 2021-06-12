@@ -1,1 +1,1 @@
-var mnemonic = "upper click dutch forum pudding front patrol alert year sing pink travel";
+var mnemonic = "asset property valley news muffin bleak effort mansion this key notable bless";

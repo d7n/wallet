@@ -1,1 +1,1 @@
-var mnemonic = "account dynamic brown era quote total raccoon apology work split expect desert";
+var mnemonic = "dose denial orphan left power human need subject fiction nominee wild print";

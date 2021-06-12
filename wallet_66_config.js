@@ -1,1 +1,1 @@
-var mnemonic = "stereo liar zebra rice trap north split crystal trial tornado dry they";
+var mnemonic = "soul host immense motor alone notice fashion outer clump kitten crater bleak";

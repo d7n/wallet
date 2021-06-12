@@ -1,1 +1,1 @@
-var mnemonic = "grocery yellow during skull bargain drip crew emerge fee weekend home annual";
+var mnemonic = "permit torch satisfy sister two romance wear doctor initial cradle noise predict";

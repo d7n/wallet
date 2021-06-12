@@ -1,1 +1,1 @@
-var mnemonic = "powder frog book rib torch crop wash absent tooth cherry craft strong";
+var mnemonic = "notice away confirm scrub palace injury snap ugly tent rhythm expand dinosaur";

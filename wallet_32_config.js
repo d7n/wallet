@@ -1,1 +1,1 @@
-var mnemonic = "awesome cannon zoo blur screen walnut paddle believe estate olympic liar consider";
+var mnemonic = "base grab road escape target leisure smoke garlic dinosaur plastic spatial correct";

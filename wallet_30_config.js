@@ -1,1 +1,1 @@
-var mnemonic = "afraid noodle junk hope apple sound obvious blind dumb laundry quick radio";
+var mnemonic = "empower alley gadget rather breeze across bar upon original bottom antique custom";

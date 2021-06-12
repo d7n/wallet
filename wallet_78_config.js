@@ -1,1 +1,1 @@
-var mnemonic = "hunt injury wave zoo grant siren sign install someone general muscle remove";
+var mnemonic = "blush hover tube misery federal bargain cereal same draw possible butter cave";

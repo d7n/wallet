@@ -1,1 +1,1 @@
-var mnemonic = "analyst deny patient oil response girl medal say neck hour course slide";
+var mnemonic = "else outdoor loud goat grain prosper much fringe option wife hidden notable";

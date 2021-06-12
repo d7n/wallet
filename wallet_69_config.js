@@ -1,1 +1,1 @@
-var mnemonic = "option icon oven gospel spring sell drink tornado point unique desert fabric";
+var mnemonic = "vital mouse dog hover resist system typical marble nephew help episode close";

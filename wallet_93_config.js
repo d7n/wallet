@@ -1,1 +1,1 @@
-var mnemonic = "emerge chaos cereal stomach shove drink emotion ridge decorate subject absent fruit";
+var mnemonic = "dog top scare scorpion reject student galaxy ketchup canal zebra patient that";

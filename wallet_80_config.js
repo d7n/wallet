@@ -1,1 +1,1 @@
-var mnemonic = "mansion sight vacant piece proud three brave canyon swing physical garlic fantasy";
+var mnemonic = "second bronze crucial range silver guess satoshi fire kidney oil crime tide";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin brave visual neck educate doctor diagram story cheap banana survey science";
+var mnemonic = "imitate matrix claim giggle know fiber dust pizza clerk pond luxury alcohol";

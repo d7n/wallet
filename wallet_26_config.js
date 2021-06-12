@@ -1,1 +1,1 @@
-var mnemonic = "pave vote drink east ribbon ability suit involve damp axis embody student";
+var mnemonic = "erosion ignore pretty scan gossip involve clump tragic choose defy consider hockey";

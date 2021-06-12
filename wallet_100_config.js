@@ -1,1 +1,1 @@
-var mnemonic = "tape hire forward soap exile inherit banner desk wheel dilemma sound document";
+var mnemonic = "nephew bulk damage battle evidence all gadget off strategy glide run crunch";

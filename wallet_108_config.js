@@ -1,1 +1,1 @@
-var mnemonic = "moment pact custom sphere scare measure film more comfort cannon wife stage";
+var mnemonic = "layer end dream manual behave rack about swim floor usage bubble bachelor";

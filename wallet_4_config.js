@@ -1,1 +1,1 @@
-var mnemonic = "lab whale glove mansion virus vacuum baby struggle curve pizza unknown describe";
+var mnemonic = "region will saddle lock quarter monkey wood paddle simple art ivory story";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture zero soccer multiply spoil above flee sick double face practice connect";
+var mnemonic = "reform tip drama sustain rescue nurse worry setup tube clinic adapt defense";

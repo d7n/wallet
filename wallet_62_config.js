@@ -1,1 +1,1 @@
-var mnemonic = "pencil debris educate garment vicious delay goat hair blouse world faith perfect";
+var mnemonic = "uphold physical humor original limb easily increase exclude dune sleep glory purity";

@@ -1,1 +1,1 @@
-var mnemonic = "offer marine fatigue attract robust jungle dentist field vicious degree pupil control";
+var mnemonic = "record lottery again squirrel bulk cradle rebel unfair bar deer bamboo basic";

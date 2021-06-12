@@ -1,1 +1,1 @@
-var mnemonic = "onion dumb express essence young fiber music toe turtle blood satisfy perfect";
+var mnemonic = "mimic fork aunt credit want hospital lens rotate congress fashion wonder afraid";

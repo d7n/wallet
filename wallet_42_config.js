@@ -1,1 +1,1 @@
-var mnemonic = "fame midnight donate vague wolf artwork fiction pink labor affair clip mother";
+var mnemonic = "skull music gown fly history alpha rookie shield strategy machine leg fox";

@@ -1,1 +1,1 @@
-var mnemonic = "army insect lava embark destroy arrive allow glide text flame someone slam";
+var mnemonic = "find mind laptop among idea parrot sound spare camera fold awesome bench";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar ordinary liberty anxiety smooth remind else merit cycle employ desert rule";
+var mnemonic = "small beauty twenty fine rebel invest capable logic cram public little narrow";

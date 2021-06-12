@@ -1,1 +1,1 @@
-var mnemonic = "between inherit razor detail swim fancy mail whale series share fossil admit";
+var mnemonic = "south fish casual ski family boring control match medal punch nut barely";

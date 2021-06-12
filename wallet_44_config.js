@@ -1,1 +1,1 @@
-var mnemonic = "spot eight lecture fly involve kite shift engine post spatial vital core";
+var mnemonic = "give afford scare stuff grape sail shy educate ignore fine develop city";

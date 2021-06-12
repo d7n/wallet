@@ -1,1 +1,1 @@
-var mnemonic = "moment have profit rent jungle gym sadness control neglect corn force rose";
+var mnemonic = "crime slow cruise fix hint indicate history wave resemble dizzy misery salad";

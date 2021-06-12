@@ -1,1 +1,1 @@
-var mnemonic = "void rapid shoe push target pet onion rely axis cable act chat";
+var mnemonic = "bright curve wasp twenty decorate wheel hidden claim scout shiver bargain cube";

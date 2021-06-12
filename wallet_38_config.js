@@ -1,1 +1,1 @@
-var mnemonic = "sphere invite exist journey girl awful taxi ring brain gravity stamp mandate";
+var mnemonic = "swallow mountain nice please play pull grid want clever clump scorpion fly";

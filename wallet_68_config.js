@@ -1,1 +1,1 @@
-var mnemonic = "latin abandon east foster trash carbon police appear gorilla viable salon arrive";
+var mnemonic = "flee toe alone brisk fetch excite gloom much glare jazz roof camera";

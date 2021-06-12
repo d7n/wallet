@@ -1,1 +1,1 @@
-var mnemonic = "fossil erase south fog industry craft region abstract about poem brother scene";
+var mnemonic = "can brass crowd palm board over defense frost diesel dynamic dignity depth";

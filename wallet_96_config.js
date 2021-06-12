@@ -1,1 +1,1 @@
-var mnemonic = "wheel cute trap address jealous orchard figure swarm teach crunch cradle army";
+var mnemonic = "also measure kitchen museum chunk wing ahead gate social gain cry dish";

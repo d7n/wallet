@@ -1,1 +1,1 @@
-var mnemonic = "town control now alien shy discover benefit setup alert bicycle comic state";
+var mnemonic = "gather pumpkin collect copper expose electric law pencil weasel valid twin dinner";

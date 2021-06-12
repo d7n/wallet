@@ -1,1 +1,1 @@
-var mnemonic = "hold rule napkin circle muscle catalog era flee scout nice document resist";
+var mnemonic = "lamp coin baby desk work sea secret flash diesel host ridge avoid";

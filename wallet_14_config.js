@@ -1,1 +1,1 @@
-var mnemonic = "couch stadium balance dismiss shoot dawn wink raw cargo life chapter tomorrow";
+var mnemonic = "smoke exercise gun casual material seminar liquid soft uncle cave wish crisp";

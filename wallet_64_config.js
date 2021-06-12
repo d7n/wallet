@@ -1,1 +1,1 @@
-var mnemonic = "slender enroll picnic bargain yellow fabric syrup oxygen fence tumble card castle";
+var mnemonic = "toilet myself alien ask hill pill sword wide brave loan online alter";

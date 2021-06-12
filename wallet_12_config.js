@@ -1,1 +1,1 @@
-var mnemonic = "prefer cricket saddle win punch deal exclude ability already section lonely purity";
+var mnemonic = "devote gallery segment liberty ocean solve resource entire virtual smart pudding tooth";

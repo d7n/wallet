@@ -1,1 +1,1 @@
-var mnemonic = "grit fashion virus abstract actor toy cherry exotic brain recall kitchen stool";
+var mnemonic = "guilt section buffalo cinnamon early private wink plastic diary nuclear wealth hen";

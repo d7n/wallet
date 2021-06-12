@@ -1,1 +1,1 @@
-var mnemonic = "bench loyal design edge spider pupil acid print autumn enough magnet stamp";
+var mnemonic = "struggle bench mushroom cigar budget ask vendor dentist water alpha engage bright";

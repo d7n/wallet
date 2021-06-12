@@ -1,1 +1,1 @@
-var mnemonic = "split keep mountain public space echo ridge practice much swim foster oak";
+var mnemonic = "city half devote scene wool valve pulp sand punch damp sense forum";

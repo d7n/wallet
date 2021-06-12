@@ -1,1 +1,1 @@
-var mnemonic = "heavy patrol hobby purpose picnic material quantum gather scrub february cattle tag";
+var mnemonic = "unveil bullet ozone provide prepare stadium host useless cousin invite supply session";

@@ -1,1 +1,1 @@
-var mnemonic = "notable pool museum acid sunset title stumble extra humor north isolate oil";
+var mnemonic = "trim young vapor divert mobile enlist palm boss cover essence grocery net";

@@ -1,1 +1,1 @@
-var mnemonic = "blood clip choice glory subject access neck faculty actual east dragon dash";
+var mnemonic = "cart tenant common year anchor fiction host lift word usual amused brief";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano journey window amazing rough cook evoke wrestle certain virus grunt combine";
+var mnemonic = "stick scrap hospital unable develop you liquid order shove tissue rain erase";

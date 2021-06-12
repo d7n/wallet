@@ -1,1 +1,1 @@
-var mnemonic = "fatal rural deliver limb bomb over deliver ozone someone trophy secret labor";
+var mnemonic = "album fork such camera able small city thunder proof left farm pet";
