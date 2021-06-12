@@ -1,1 +1,1 @@
-var mnemonic = "boat sleep level degree trade wisdom divide master satoshi occur view giggle";
+var mnemonic = "resemble ecology park nice attend man tomato sweet receive paper sunny normal";

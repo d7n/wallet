@@ -1,1 +1,1 @@
-var mnemonic = "shiver federal vessel detail smart float level final general crush series turn";
+var mnemonic = "liar south crucial snake owner fun finish staff verify hard visit train";

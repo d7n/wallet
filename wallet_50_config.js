@@ -1,1 +1,1 @@
-var mnemonic = "error destroy sound crop lounge soccer license board entire master leisure gun";
+var mnemonic = "focus attract quote cherry shove dutch such empower slam cheap mystery weasel";

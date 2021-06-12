@@ -1,1 +1,1 @@
-var mnemonic = "ahead rare lottery fiber guitar eager marble glare camera neck cake mixture";
+var mnemonic = "fitness reward hole anchor major order social piano spice canal fiction bleak";

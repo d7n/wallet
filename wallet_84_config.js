@@ -1,1 +1,1 @@
-var mnemonic = "family remind unlock drill bottom dolphin motor miss mask muffin tonight board";
+var mnemonic = "ribbon monkey hobby diet explain educate wisdom toast answer spin upper satoshi";

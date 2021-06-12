@@ -1,1 +1,1 @@
-var mnemonic = "always kidney verify someone bomb grit give frown ill capital embrace cause";
+var mnemonic = "flash candy sugar between avocado refuse scrap ring veteran above know valve";

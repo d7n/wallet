@@ -1,1 +1,1 @@
-var mnemonic = "height keen various perfect grid champion book duck execute cause ivory subway";
+var mnemonic = "cigar clock cook stem clap quick leg garden mention protect bulk transfer";

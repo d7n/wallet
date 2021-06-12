@@ -1,1 +1,1 @@
-var mnemonic = "flee conduct oven attend enable fetch crew tribe month observe grant unable";
+var mnemonic = "permit trim style next color between service risk decade name marriage drop";

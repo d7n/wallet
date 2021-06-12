@@ -1,1 +1,1 @@
-var mnemonic = "cable caught barrel poet total permit dry symptom true recall expose acoustic";
+var mnemonic = "spare bid panda dry hold vehicle observe clown rate judge notable seminar";

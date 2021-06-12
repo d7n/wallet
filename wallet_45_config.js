@@ -1,1 +1,1 @@
-var mnemonic = "exotic scout agree injury stove unfair brass common slab trial vendor life";
+var mnemonic = "stamp prize act attend planet screen shock lumber pumpkin hurt ready era";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy baby student squirrel panel absurd medal poet token liar bulb grunt";
+var mnemonic = "toast cradle sound cabbage flame critic come doll purchase hold arrow provide";

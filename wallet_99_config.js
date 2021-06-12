@@ -1,1 +1,1 @@
-var mnemonic = "topic system express genius vague zebra pull girl material monitor clog indicate";
+var mnemonic = "ecology syrup guess payment interest hip once begin alpha scheme involve pen";

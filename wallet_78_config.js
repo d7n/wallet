@@ -1,1 +1,1 @@
-var mnemonic = "erase morning glad pupil prize asthma rebel limit abstract relax blast column";
+var mnemonic = "galaxy kit item wine credit diesel angry rib pupil exchange code heavy";

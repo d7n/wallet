@@ -1,1 +1,1 @@
-var mnemonic = "easy pear crumble debris twin match explain client night payment expire pride";
+var mnemonic = "flag attitude nephew matrix virus health vapor kiwi fancy effort nerve total";

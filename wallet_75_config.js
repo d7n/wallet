@@ -1,1 +1,1 @@
-var mnemonic = "fork learn wheat relax rigid flock bread audit manage floor message material";
+var mnemonic = "liberty toast reflect scale thought turkey nation yellow negative forum tunnel budget";

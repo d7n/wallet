@@ -1,1 +1,1 @@
-var mnemonic = "artwork foster crawl nuclear winter increase ensure lens average glance palace outer";
+var mnemonic = "art exercise maid analyst anger crop letter lounge dinner chair staff apple";

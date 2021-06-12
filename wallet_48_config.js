@@ -1,1 +1,1 @@
-var mnemonic = "drama satoshi trap tank odor clarify umbrella donkey security warm type nerve";
+var mnemonic = "stool runway caution butter soup garbage basic stairs light entry ecology judge";

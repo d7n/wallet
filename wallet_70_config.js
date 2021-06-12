@@ -1,1 +1,1 @@
-var mnemonic = "snake champion situate violin desk arrive palace order spider inherit calm soft";
+var mnemonic = "faith judge champion already arrive mango predict federal easy tide discover benefit";

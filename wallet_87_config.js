@@ -1,1 +1,1 @@
-var mnemonic = "soccer celery tonight tuna file company chat spray pumpkin chuckle rent tired";
+var mnemonic = "endless essence wool warm chase give jewel prefer unaware bottom wasp judge";

@@ -1,1 +1,1 @@
-var mnemonic = "logic pair tilt sorry glow foster reveal jar second vault wagon genre";
+var mnemonic = "upon position erase ship grape muffin bronze seat goat motor twin direct";

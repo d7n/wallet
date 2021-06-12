@@ -1,1 +1,1 @@
-var mnemonic = "pluck assume dolphin embark usage six afraid because excuse below monster remember";
+var mnemonic = "afford card earth kick giant goddess world media shock shaft repeat giraffe";

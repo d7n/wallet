@@ -1,1 +1,1 @@
-var mnemonic = "admit web weird banana uncover fiction color fetch pull horn minute inspire";
+var mnemonic = "random grow toe hockey interest final ten useful husband earth core panther";

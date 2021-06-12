@@ -1,1 +1,1 @@
-var mnemonic = "glimpse code cat holiday company genuine black ketchup vanish tongue liberty slam";
+var mnemonic = "fortune sound use good parade shadow peasant cabin inhale jealous simple audit";

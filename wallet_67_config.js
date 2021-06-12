@@ -1,1 +1,1 @@
-var mnemonic = "wine close solve fluid brass radio half kid awake scan thunder glad";
+var mnemonic = "solution pepper color seat device agree kick buffalo nasty sausage census memory";

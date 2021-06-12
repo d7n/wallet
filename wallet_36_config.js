@@ -1,1 +1,1 @@
-var mnemonic = "save fat blind cheap chief comic sauce error thank soon dentist ahead";
+var mnemonic = "obscure useful city embark tornado pipe allow bring tonight quantum spirit siren";

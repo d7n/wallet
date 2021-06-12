@@ -1,1 +1,1 @@
-var mnemonic = "dirt crush claim giggle basket only essence olive gossip shadow magnet humor";
+var mnemonic = "wise tourist proud ship trouble wisdom wet file obtain this vote trash";

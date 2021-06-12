@@ -1,1 +1,1 @@
-var mnemonic = "mention lamp primary abuse gesture file idea twin control sand check consider";
+var mnemonic = "manual motor obey snap post will pear confirm protect leg creek tape";

@@ -1,1 +1,1 @@
-var mnemonic = "middle bubble rebel approve best wide demand off clinic business gorilla pipe";
+var mnemonic = "duty produce shift planet joke animal account dumb gas school capital regret";

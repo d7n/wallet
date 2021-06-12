@@ -1,1 +1,1 @@
-var mnemonic = "bulk body dust exhaust three earn rescue refuse final security rotate protect";
+var mnemonic = "phrase file problem balance poverty final talent soft physical daring prefer master";

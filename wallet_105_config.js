@@ -1,1 +1,1 @@
-var mnemonic = "rug home olive buyer board shield between attack off lava wheel life";
+var mnemonic = "very tunnel motion age sea december salad unable soda inhale secret trade";

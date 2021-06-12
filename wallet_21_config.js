@@ -1,1 +1,1 @@
-var mnemonic = "drift phrase unaware boss retreat six grid fun jar potato unable juice";
+var mnemonic = "impose pill coil define valley brick token faint chunk hip letter jacket";

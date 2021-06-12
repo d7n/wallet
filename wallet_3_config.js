@@ -1,1 +1,1 @@
-var mnemonic = "road cabin hip must that jelly clay monitor fragile ethics mother ahead";
+var mnemonic = "mimic about cigar abandon whale loud satisfy train weasel profit bag clock";

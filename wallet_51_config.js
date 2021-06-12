@@ -1,1 +1,1 @@
-var mnemonic = "elevator blue toilet opera biology level lemon bacon police pair spoon gorilla";
+var mnemonic = "glass weapon mango prison toe settle useful bridge eternal alien wild noble";

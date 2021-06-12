@@ -1,1 +1,1 @@
-var mnemonic = "draft tank merge worry cost tide false wine fork oblige robot private";
+var mnemonic = "boat swallow pear purse path tooth harvest guitar middle afraid kit attack";

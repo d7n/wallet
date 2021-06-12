@@ -1,1 +1,1 @@
-var mnemonic = "forest alien ski country middle tide kidney choice side scrub detail fury";
+var mnemonic = "pause ice major castle wear milk end orchard welcome sadness illness control";

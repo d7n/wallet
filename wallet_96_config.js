@@ -1,1 +1,1 @@
-var mnemonic = "diagram lab unknown benefit need divorce barely then reopen estate topic leader";
+var mnemonic = "venue scene unhappy illegal clay old climb size govern iron draw trash";

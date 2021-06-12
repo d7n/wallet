@@ -1,1 +1,1 @@
-var mnemonic = "scrub panic utility airport media flavor strong helmet slow oppose enrich slogan";
+var mnemonic = "sudden list tag tornado rug normal gap wall strategy hello glance action";

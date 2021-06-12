@@ -1,1 +1,1 @@
-var mnemonic = "anchor scatter target cluster topic connect swear sponsor shoe better radar heart";
+var mnemonic = "pistol iron infant prosper donor always grab educate mule soul spin merit";

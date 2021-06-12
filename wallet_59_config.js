@@ -1,1 +1,1 @@
-var mnemonic = "right cement slow demise noodle right fortune unaware gap kidney differ defy";
+var mnemonic = "toilet film truly pistol danger girl enact sad minimum emotion badge food";

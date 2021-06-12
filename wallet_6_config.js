@@ -1,1 +1,1 @@
-var mnemonic = "nut yard clarify shuffle glare admit avoid travel man turn matter diesel";
+var mnemonic = "equal shallow number size sponsor acid current theory glass woman match found";

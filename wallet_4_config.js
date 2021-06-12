@@ -1,1 +1,1 @@
-var mnemonic = "daughter hurt exhibit search avoid cushion spike fringe submit record diesel mirror";
+var mnemonic = "width stairs human future gallery during million switch change enhance day bench";

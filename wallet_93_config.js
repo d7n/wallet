@@ -1,1 +1,1 @@
-var mnemonic = "faculty city rare smile basic sheriff verb armor chat often heavy lock";
+var mnemonic = "nuclear donate sorry spice goddess error icon core coffee dream almost together";

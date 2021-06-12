@@ -1,1 +1,1 @@
-var mnemonic = "early found grocery letter ticket home point hill child fashion loyal month";
+var mnemonic = "fan image tomorrow diagram front timber clown card flash nut rice torch";

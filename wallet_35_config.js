@@ -1,1 +1,1 @@
-var mnemonic = "term behave thank simple awake state fragile silk donor unknown help fancy";
+var mnemonic = "emotion quality language swamp want under rescue charge reopen stable shallow roast";

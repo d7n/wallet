@@ -1,1 +1,1 @@
-var mnemonic = "dizzy unfair above ten opinion satisfy deer faith direct swarm journey outdoor";
+var mnemonic = "toss video check average budget property soft usage erupt pencil thumb confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious coast tattoo candy old audit future post bridge pluck trim into";
+var mnemonic = "suspect harsh shallow usage quantum bean crouch normal exit strong giraffe grief";

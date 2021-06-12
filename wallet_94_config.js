@@ -1,1 +1,1 @@
-var mnemonic = "traffic music hub identify afford midnight brother inquiry until good brush depend";
+var mnemonic = "mass cloud note grunt foot liquid push nominee stool cereal tone theory";

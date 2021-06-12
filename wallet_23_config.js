@@ -1,1 +1,1 @@
-var mnemonic = "pass hello afraid blade wheel flavor cry pony drink size online board";
+var mnemonic = "desk perfect isolate topple weapon table inform spoil regret alcohol curious execute";

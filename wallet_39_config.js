@@ -1,1 +1,1 @@
-var mnemonic = "parade vehicle digital bright multiply tiny cannon rebel narrow assist bargain census";
+var mnemonic = "become pattern jungle organ ridge oppose helmet lunch seven glare visual gallery";

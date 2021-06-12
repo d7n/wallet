@@ -1,1 +1,1 @@
-var mnemonic = "swamp column solid best soul tooth drip cereal cat exotic inflict multiply";
+var mnemonic = "rely wood all couple amateur disease thank start daring tomorrow please remain";

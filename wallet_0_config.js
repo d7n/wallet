@@ -1,1 +1,1 @@
-var mnemonic = "isolate already choice dish hub they key shine outdoor quality deputy attitude";
+var mnemonic = "start wedding provide segment reunion coyote meat reform mammal vicious tide field";

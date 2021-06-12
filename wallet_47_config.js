@@ -1,1 +1,1 @@
-var mnemonic = "siege dinner mouse song enlist actual draw benefit hood digital lyrics ladder";
+var mnemonic = "horror dove quick bargain derive danger frog mask duck undo enable drastic";

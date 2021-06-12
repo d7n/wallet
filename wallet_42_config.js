@@ -1,1 +1,1 @@
-var mnemonic = "green place poem cave decide viable armed urban iron gasp birth junior";
+var mnemonic = "climb insect six sign decline girl misery style denial object horror pink";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance admit achieve script pattern two sister dentist deny aspect metal execute";
+var mnemonic = "possible meadow scale liquid fortune myth this brain bird letter faint awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "then alley blanket grape turtle medal mutual toss sponsor sail afford cloth";
+var mnemonic = "jar tobacco gadget upgrade advice birth level blood supply soul toss please";

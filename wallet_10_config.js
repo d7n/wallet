@@ -1,1 +1,1 @@
-var mnemonic = "predict sniff ranch unfold chaos scene employ betray grab civil case spoil";
+var mnemonic = "strategy before elbow stomach warrior document course frame gallery smart foam detail";

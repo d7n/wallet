@@ -1,1 +1,1 @@
-var mnemonic = "rail define bunker bone crumble attract snack valid omit force cactus resist";
+var mnemonic = "blue that rescue survey use burst aisle situate across voyage argue weasel";

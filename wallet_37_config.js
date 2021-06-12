@@ -1,1 +1,1 @@
-var mnemonic = "parrot lecture fog hold across valid gas life loan cable match amateur";
+var mnemonic = "belt local text oak hub master cushion hen photo enrich network around";

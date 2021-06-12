@@ -1,1 +1,1 @@
-var mnemonic = "gym task swap sniff creek despair first toward outdoor enhance similar evolve";
+var mnemonic = "range jazz muscle increase toy resemble obtain submit slow state coconut toilet";

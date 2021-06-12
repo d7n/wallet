@@ -1,1 +1,1 @@
-var mnemonic = "fat parade suggest file runway craft feature dismiss width evidence acquire magnet";
+var mnemonic = "hire goat fatigue crystal coffee punch reward object feel zero object lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "legend small affair apology fix sea language lend sweet wave boat turkey";
+var mnemonic = "drastic raven letter travel love subject output grape gym field people soap";

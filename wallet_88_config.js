@@ -1,1 +1,1 @@
-var mnemonic = "antenna orange can note link casual shallow doctor bargain worry cupboard under";
+var mnemonic = "output snack insect horror tank fatal angle heavy vacuum afraid perfect sugar";

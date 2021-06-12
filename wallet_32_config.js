@@ -1,1 +1,1 @@
-var mnemonic = "tell orbit merge liberty sniff music glare seminar soup decline success impose";
+var mnemonic = "brush approve orange tree final already snake ten damage melt crisp excite";

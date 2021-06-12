@@ -1,1 +1,1 @@
-var mnemonic = "increase cake furnace margin radio diagram ignore mix main sort worth ride";
+var mnemonic = "enhance ecology crouch dizzy rather mosquito damp veteran near flag review envelope";

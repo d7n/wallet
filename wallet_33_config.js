@@ -1,1 +1,1 @@
-var mnemonic = "hazard size zoo lens era devote burst scheme kiwi beauty tone hammer";
+var mnemonic = "random tube alpha unique public reason accuse true pretty void clog congress";

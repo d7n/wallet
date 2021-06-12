@@ -1,1 +1,1 @@
-var mnemonic = "dragon road recall noise enjoy behave can harbor order corn rain lecture";
+var mnemonic = "thrive level rabbit observe body lamp expect burst addict bridge inch desk";

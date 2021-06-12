@@ -1,1 +1,1 @@
-var mnemonic = "since unknown merry fire vote supreme click visit head supply crowd hope";
+var mnemonic = "sure image become coconut swallow opinion pool supply where chat tuition witness";

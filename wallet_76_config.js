@@ -1,1 +1,1 @@
-var mnemonic = "find brother emotion humble wheel dynamic balance young legal cat skate elegant";
+var mnemonic = "follow alien rain whip horn alpha crucial rule neutral basket obvious waste";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk cat bounce park home client twelve float horror noise purchase beach";
+var mnemonic = "faculty document city insect such version magnet fame melt choice world eye";

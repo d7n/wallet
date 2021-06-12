@@ -1,1 +1,1 @@
-var mnemonic = "figure stone lounge hybrid relief arrow pave manage hero digital engine myself";
+var mnemonic = "picnic reunion immune direct wild lake oyster memory behind move report beauty";

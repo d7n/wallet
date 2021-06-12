@@ -1,1 +1,1 @@
-var mnemonic = "pause zone vessel enter veteran bean hire noble voyage rice regret broccoli";
+var mnemonic = "truly still snow venue blast fabric secret battle noise into viable water";

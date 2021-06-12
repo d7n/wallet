@@ -1,1 +1,1 @@
-var mnemonic = "radio mail inspire balcony guide already silk squirrel current sock addict bar";
+var mnemonic = "aisle window panda join physical sting easily hotel alarm angry village meadow";

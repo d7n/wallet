@@ -1,1 +1,1 @@
-var mnemonic = "review gather mom exercise party verify over accuse regret owner diagram ill";
+var mnemonic = "indoor grocery cattle exclude source coconut sketch better friend kid south high";

@@ -1,1 +1,1 @@
-var mnemonic = "tip key secret material type custom ginger subway pool seminar update front";
+var mnemonic = "visit shield term subject hidden mule galaxy cart gift boil harbor surround";

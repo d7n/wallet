@@ -1,1 +1,1 @@
-var mnemonic = "teach review sheriff edit sheriff tongue credit action enjoy vicious vivid subway";
+var mnemonic = "quiz hill essence coyote creek sketch program come yard fortune canvas fringe";

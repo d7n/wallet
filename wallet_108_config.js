@@ -1,1 +1,1 @@
-var mnemonic = "gather actor steel glue judge castle guilt violin minimum define review direct";
+var mnemonic = "alcohol slot shuffle anger adjust one wedding absent because consider safe sadness";

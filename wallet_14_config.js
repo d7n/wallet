@@ -1,1 +1,1 @@
-var mnemonic = "fresh eagle once theory discover input visit change music beef beyond destroy";
+var mnemonic = "absorb mystery army rare search pupil fish desert remain palm raccoon hurdle";

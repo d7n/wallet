@@ -1,1 +1,1 @@
-var mnemonic = "trigger behind tennis fortune near distance liberty drama celery beach nominee stuff";
+var mnemonic = "media flock pelican lazy tone million sponsor nation elite enable goddess thumb";

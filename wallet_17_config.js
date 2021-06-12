@@ -1,1 +1,1 @@
-var mnemonic = "squirrel duck umbrella runway penalty toward road horn rug person goose clean";
+var mnemonic = "team tackle gasp gossip mesh volume afraid symptom actual grocery shaft lock";

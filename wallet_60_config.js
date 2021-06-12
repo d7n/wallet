@@ -1,1 +1,1 @@
-var mnemonic = "add mirror juice virus yard step fit pluck layer dizzy crunch blush";
+var mnemonic = "shiver verb little dismiss suffer velvet base limb jungle soup file involve";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz prevent hole turn regular supply venture awkward decrease short grunt motor";
+var mnemonic = "rail custom luxury weapon poet always coffee tiny danger final begin moment";

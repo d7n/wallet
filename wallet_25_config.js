@@ -1,1 +1,1 @@
-var mnemonic = "response beef spice remember tissue viable insect shock beauty float wife track";
+var mnemonic = "jaguar mimic quiz shine body unable custom cheese silly wave state wing";

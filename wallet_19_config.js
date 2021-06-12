@@ -1,1 +1,1 @@
-var mnemonic = "rack exile rack express author random salt body syrup rebuild hair already";
+var mnemonic = "perfect inflict broom hill crawl rib agent decade used october lawsuit source";

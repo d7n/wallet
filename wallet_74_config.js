@@ -1,1 +1,1 @@
-var mnemonic = "piece inspire kingdom address notable plunge purse relief vehicle about soft million";
+var mnemonic = "entire conduct lawsuit post ecology annual pony behave valid truck river chief";

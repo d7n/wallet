@@ -1,1 +1,1 @@
-var mnemonic = "hawk saddle project page leg employ lizard print gauge lounge duck fee";
+var mnemonic = "census mother nasty trick blouse innocent donate powder eager slam sponsor gasp";

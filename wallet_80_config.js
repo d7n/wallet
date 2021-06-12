@@ -1,1 +1,1 @@
-var mnemonic = "raw mutual neglect phrase glare crop route shy board brown picture have";
+var mnemonic = "abuse cost between exile genius abandon drastic universe mother day cargo evolve";

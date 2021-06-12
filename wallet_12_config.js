@@ -1,1 +1,1 @@
-var mnemonic = "letter live palm brief quiz resource rally super issue enjoy bounce lyrics";
+var mnemonic = "similar limb guitar crisp core scheme harsh document dilemma celery wall seat";
