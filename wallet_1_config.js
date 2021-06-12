@@ -1,1 +1,1 @@
-var mnemonic = "december void flame awesome cheap process above brush credit century bike polar";
+var mnemonic = "film ahead claim bottom chapter basic oven moon include curious method wasp";

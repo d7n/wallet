@@ -1,1 +1,1 @@
-var mnemonic = "great obey crucial lake stock olympic duck cluster near hand meadow pair";
+var mnemonic = "thumb judge sauce adult mosquito draft diesel toilet twin enhance sail myself";

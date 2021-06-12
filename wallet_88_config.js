@@ -1,1 +1,1 @@
-var mnemonic = "drive smile smoke swear width afraid hand price hungry exotic cover lounge";
+var mnemonic = "all amused stay risk media key ask skull hour trophy exotic tool";

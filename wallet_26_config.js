@@ -1,1 +1,1 @@
-var mnemonic = "pottery payment pluck update also normal logic fabric crunch brown tool domain";
+var mnemonic = "hybrid avoid tribe gaze mimic swarm lion expect accident summer glass until";

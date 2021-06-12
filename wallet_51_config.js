@@ -1,1 +1,1 @@
-var mnemonic = "capable ramp submit panther viable hero mystery print vacuum fold service resource";
+var mnemonic = "stove regret option small miracle axis turkey shoulder mouse wood hip typical";

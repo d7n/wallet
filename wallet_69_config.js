@@ -1,1 +1,1 @@
-var mnemonic = "jump asset artist panic mechanic flower gold brown vanish history lesson offer";
+var mnemonic = "sound recipe sadness mass dignity eye car menu obvious another grape sleep";

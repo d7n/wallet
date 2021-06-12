@@ -1,1 +1,1 @@
-var mnemonic = "employ rebuild craft night census bag crush burden interest suggest agent walk";
+var mnemonic = "announce cake similar warrior cattle lizard chest junk fee disease shaft broom";

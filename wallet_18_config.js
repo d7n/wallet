@@ -1,1 +1,1 @@
-var mnemonic = "swarm traffic flavor benefit sense enhance day sphere sort rather december around";
+var mnemonic = "horn avoid fat fiscal affair matter bachelor turtle beyond rich innocent gap";

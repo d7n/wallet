@@ -1,1 +1,1 @@
-var mnemonic = "banner sentence smoke mixed arch anchor edge tiny library trap shine gaze";
+var mnemonic = "online bone cabin gadget dwarf grape merit tree yard broccoli cry ring";

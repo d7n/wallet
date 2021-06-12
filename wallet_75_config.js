@@ -1,1 +1,1 @@
-var mnemonic = "fetch minute speed clump awful media buyer clown save old aisle guess";
+var mnemonic = "layer certain evolve share hawk cart outdoor arctic scale cabin kiss frozen";

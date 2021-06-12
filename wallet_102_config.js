@@ -1,1 +1,1 @@
-var mnemonic = "lucky there public before world salad enjoy flock picnic grain arrive vicious";
+var mnemonic = "frog quantum hockey call float comfort school warrior mistake pizza steel rebel";

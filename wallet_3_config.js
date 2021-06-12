@@ -1,1 +1,1 @@
-var mnemonic = "swear gorilla lend can thumb sample shiver believe enforce buzz version habit";
+var mnemonic = "february recall drink seed tail detail expand assist title furnace bubble parade";

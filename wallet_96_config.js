@@ -1,1 +1,1 @@
-var mnemonic = "million trap write depend ocean endless talk trouble scorpion shy roof jump";
+var mnemonic = "say fabric tag path sense used casino cover random athlete pool quantum";

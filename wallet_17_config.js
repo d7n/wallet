@@ -1,1 +1,1 @@
-var mnemonic = "zero breeze limb between material devote riot medal upset own paddle buffalo";
+var mnemonic = "front insect equal repair abstract lawsuit desk valid sport eternal speed roof";

@@ -1,1 +1,1 @@
-var mnemonic = "basket shed outer fortune stool surround thing gossip envelope proud three moral";
+var mnemonic = "blame surface dune lizard admit fade fire tide uncle axis ozone donate";

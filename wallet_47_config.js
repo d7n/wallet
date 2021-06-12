@@ -1,1 +1,1 @@
-var mnemonic = "stand find sudden vacant wagon sibling seminar marriage ankle strike penalty entry";
+var mnemonic = "merge liquid try august avoid still rocket novel country resemble talk harbor";

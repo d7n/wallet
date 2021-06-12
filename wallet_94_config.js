@@ -1,1 +1,1 @@
-var mnemonic = "moral police outer fury teach harbor more force fee giraffe diagram van";
+var mnemonic = "clean art dismiss scrub tag dynamic bike miss nerve actress donor erosion";

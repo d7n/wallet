@@ -1,1 +1,1 @@
-var mnemonic = "margin pause roast brick then pigeon talent beef address biology jewel divorce";
+var mnemonic = "shoot creek coil local novel shop equal little duck liar risk leg";

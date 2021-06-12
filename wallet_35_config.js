@@ -1,1 +1,1 @@
-var mnemonic = "used discover total goddess barrel cover rice gadget tilt tumble return near";
+var mnemonic = "oil meadow saddle organ skirt phrase flavor believe lift fuel error raven";

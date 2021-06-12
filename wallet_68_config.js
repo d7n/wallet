@@ -1,1 +1,1 @@
-var mnemonic = "tunnel silly peace brand blouse enhance parrot member grit napkin ripple donate";
+var mnemonic = "meadow consider album minimum next address lunch kingdom choice solve laptop mistake";

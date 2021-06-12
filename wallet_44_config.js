@@ -1,1 +1,1 @@
-var mnemonic = "chair brown push jaguar ski west method around decade run marine private";
+var mnemonic = "say dinosaur seat survey machine sick wage wonder blue cup find spread";

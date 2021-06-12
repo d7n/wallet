@@ -1,1 +1,1 @@
-var mnemonic = "uncle combine whip run embrace believe purity donor sample swift close rival";
+var mnemonic = "lecture walnut rice spare envelope dove merry village sample chuckle barely region";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle retire negative power warm echo vocal warfare swarm together hollow release";
+var mnemonic = "design quiz into glass alpha improve strike plate gasp vote electric aerobic";

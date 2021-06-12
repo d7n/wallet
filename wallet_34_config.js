@@ -1,1 +1,1 @@
-var mnemonic = "bubble smooth rule citizen leopard shoe couple talent huge object primary venture";
+var mnemonic = "giant moon vanish extra gorilla furnace auction east silk spoil floor amateur";

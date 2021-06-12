@@ -1,1 +1,1 @@
-var mnemonic = "bomb second surprise grant viable manage wool maximum exhaust butter thrive audit";
+var mnemonic = "north shrug absorb argue drive dynamic canoe dry blur erode enrich visa";

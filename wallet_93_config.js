@@ -1,1 +1,1 @@
-var mnemonic = "correct black alcohol creek list dismiss kiwi bone cloth middle wing grant";
+var mnemonic = "quarter hospital chalk borrow bubble receive tool rate broom radio quantum shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "artist such benefit feel vocal swamp damage goose spot enhance regret wood";
+var mnemonic = "borrow version offer cradle spawn enlist bullet yellow base pretty unknown twenty";

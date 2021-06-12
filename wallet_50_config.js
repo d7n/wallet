@@ -1,1 +1,1 @@
-var mnemonic = "glove grief bundle vehicle fox never demise rich object welcome twelve sunny";
+var mnemonic = "milk promote tribe train foot poet silly shaft stool kingdom shell enforce";

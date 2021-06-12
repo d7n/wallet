@@ -1,1 +1,1 @@
-var mnemonic = "census digital infant bridge carpet spawn flag brush pool notable service morning";
+var mnemonic = "deer pond raccoon height game roof remind follow soup motor coconut appear";

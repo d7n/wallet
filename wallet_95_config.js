@@ -1,1 +1,1 @@
-var mnemonic = "pretty merit tortoise seek between year toss duty brush main spare teach";
+var mnemonic = "grunt flavor lock silent close elegant face very stereo advice input pole";

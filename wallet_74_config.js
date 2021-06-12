@@ -1,1 +1,1 @@
-var mnemonic = "return shell ugly peace pipe library shock private lawsuit short luggage swarm";
+var mnemonic = "resist method blast approve museum danger truly garden good visual glimpse lottery";

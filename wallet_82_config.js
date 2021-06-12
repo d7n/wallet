@@ -1,1 +1,1 @@
-var mnemonic = "snow accuse scout catalog cart inject recycle civil conduct unit arctic damage";
+var mnemonic = "cross gold valid museum cradle receive catalog sniff say result change short";

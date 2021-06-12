@@ -1,1 +1,1 @@
-var mnemonic = "box gadget best baby cable unveil real duty quarter people room farm";
+var mnemonic = "bus style plastic soccer direct chapter depend elder ozone mobile hamster ridge";

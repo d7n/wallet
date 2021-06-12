@@ -1,1 +1,1 @@
-var mnemonic = "treat mind edge reward light stumble mushroom regret garlic hope ugly swallow";
+var mnemonic = "cushion social spot anchor city firm say soup rival now frog squeeze";

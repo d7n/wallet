@@ -1,1 +1,1 @@
-var mnemonic = "reduce soap mechanic abstract kitten horse view village dinosaur enhance prevent rate";
+var mnemonic = "marble ridge category snap waste slight review culture become reform soft hollow";

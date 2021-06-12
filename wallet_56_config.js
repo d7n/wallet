@@ -1,1 +1,1 @@
-var mnemonic = "night betray lawsuit cotton home rule hair own catalog office discover gap";
+var mnemonic = "rhythm lady mimic someone genuine skin forest rapid bird raise tiny quit";

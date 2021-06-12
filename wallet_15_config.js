@@ -1,1 +1,1 @@
-var mnemonic = "silver hat inmate can impact inner exotic drum crowd case lazy citizen";
+var mnemonic = "range float warm army estate age brief retire height bronze there crash";

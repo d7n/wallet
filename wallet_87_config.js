@@ -1,1 +1,1 @@
-var mnemonic = "prize donkey arctic clerk analyst add fringe enhance tobacco inflict intact spawn";
+var mnemonic = "naive slow indicate fade sunset legend public limit turtle crew blouse slush";

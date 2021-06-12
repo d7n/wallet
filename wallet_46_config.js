@@ -1,1 +1,1 @@
-var mnemonic = "shoot add pull estate sadness bind spot popular utility swift inspire street";
+var mnemonic = "job tuna joke scrub verify path ecology sugar inject loyal love neglect";

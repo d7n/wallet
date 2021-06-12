@@ -1,1 +1,1 @@
-var mnemonic = "castle decide again filter habit orphan autumn lunar radio flat hurry maze";
+var mnemonic = "renew truly movie elevator cram prize robust silver cruise canoe exile junk";

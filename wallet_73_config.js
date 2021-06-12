@@ -1,1 +1,1 @@
-var mnemonic = "secret media nice lyrics balance pipe ritual gun patient remind release real";
+var mnemonic = "slender powder dwarf hidden owner actual benefit divert atom virus wet galaxy";

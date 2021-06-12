@@ -1,1 +1,1 @@
-var mnemonic = "monster rabbit seek lumber bar permit very brick draft path cup wink";
+var mnemonic = "three submit brisk sustain swear bounce turkey senior shoot online runway crouch";

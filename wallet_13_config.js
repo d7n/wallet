@@ -1,1 +1,1 @@
-var mnemonic = "naive wealth nasty scare finish twist armed matter patient mule cheese gospel";
+var mnemonic = "attend ribbon pave leg rich honey glory danger foam avoid walnut resemble";

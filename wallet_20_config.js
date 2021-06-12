@@ -1,1 +1,1 @@
-var mnemonic = "country change pottery surprise obscure mean provide canvas rug intact salmon year";
+var mnemonic = "husband forum old gun such quit dwarf tell idle wrong tell assault";

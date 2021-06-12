@@ -1,1 +1,1 @@
-var mnemonic = "small unlock gravity grid october path energy orbit artwork cost note skill";
+var mnemonic = "ethics equal spike stairs select crawl tag quit wood giggle antique room";

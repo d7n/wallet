@@ -1,1 +1,1 @@
-var mnemonic = "gesture clarify apart rapid basic dutch air army stage true thought dance";
+var mnemonic = "second grape print social drift cloud curious scare purchase isolate another tornado";

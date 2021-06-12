@@ -1,1 +1,1 @@
-var mnemonic = "violin stable biology once better evil half kite wage shuffle good lawn";
+var mnemonic = "draw sugar connect forum prepare repair buffalo motion winner harsh change urban";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal tornado toilet evil axis tribe aim awake waste hero banana gauge";
+var mnemonic = "scorpion dinosaur poverty deputy all avoid recycle afraid pipe real below pull";

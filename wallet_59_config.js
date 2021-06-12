@@ -1,1 +1,1 @@
-var mnemonic = "squirrel hollow detail pioneer secret fame turtle flash friend feature chat black";
+var mnemonic = "mosquito arrange mass awake mimic area palace alien sugar purpose junior object";

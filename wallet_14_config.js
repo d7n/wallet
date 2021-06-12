@@ -1,1 +1,1 @@
-var mnemonic = "cage quantum error farm insane alpha face elephant receive bone slot deliver";
+var mnemonic = "cricket enroll shoulder steak acid learn jeans antique beef noise female regular";

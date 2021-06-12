@@ -1,1 +1,1 @@
-var mnemonic = "moment fluid speak sword harvest cable host journey talent correct drill voyage";
+var mnemonic = "ocean close antenna unaware tongue shell come crop boost hungry stuff small";

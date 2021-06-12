@@ -1,1 +1,1 @@
-var mnemonic = "produce few goose two eight mask liar beach dash parrot veteran salute";
+var mnemonic = "frost journey reopen announce pitch smoke coil bean happy humble model common";

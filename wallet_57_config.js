@@ -1,1 +1,1 @@
-var mnemonic = "easy mercy clock toddler feel zoo owner equip marble jealous defense cereal";
+var mnemonic = "reveal toilet net space cattle depart exile alcohol quarter clock unit shy";

@@ -1,1 +1,1 @@
-var mnemonic = "offer emotion illness jungle north person fortune hope artist rebuild easy castle";
+var mnemonic = "penalty boil huge kit wood glow town scissors federal chalk achieve carbon";

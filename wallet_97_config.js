@@ -1,1 +1,1 @@
-var mnemonic = "amount light juice media wire outside oblige install table family harvest fringe";
+var mnemonic = "cruel save ridge harbor seminar casual dish sugar crop candy garage among";

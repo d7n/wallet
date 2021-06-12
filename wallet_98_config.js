@@ -1,1 +1,1 @@
-var mnemonic = "radar cause drip village mind version genius song never arrange sadness actual";
+var mnemonic = "announce isolate actress solution congress hello curious relax around outside hope same";

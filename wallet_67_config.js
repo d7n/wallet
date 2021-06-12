@@ -1,1 +1,1 @@
-var mnemonic = "skirt harsh charge bid camp pond enemy this film bus ski brick";
+var mnemonic = "ski armed uncover point visit brown two shy expect laundry first mixed";

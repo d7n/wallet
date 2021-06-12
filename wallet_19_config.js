@@ -1,1 +1,1 @@
-var mnemonic = "slight cheap train build apology scrub beef april payment day salmon forget";
+var mnemonic = "divert bar width retire chef assault exhaust paper frog remind cup lumber";

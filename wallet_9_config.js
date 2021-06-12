@@ -1,1 +1,1 @@
-var mnemonic = "pool immune among slam quarter wisdom west asset what smart chronic lend";
+var mnemonic = "hawk leave crop guard fame pelican taste valve exhibit file rude profit";

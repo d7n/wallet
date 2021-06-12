@@ -1,1 +1,1 @@
-var mnemonic = "speak price mechanic gate live rain assist fantasy sorry nephew veteran dutch";
+var mnemonic = "battle coyote pool skill sight sphere exact cheese never basic maze robot";

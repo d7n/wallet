@@ -1,1 +1,1 @@
-var mnemonic = "deny hollow prepare champion fame off soul excess wing police brand lumber";
+var mnemonic = "marble smoke ensure submit daring pelican wrap debate duty fence wealth find";

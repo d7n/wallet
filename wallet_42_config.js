@@ -1,1 +1,1 @@
-var mnemonic = "false scheme garment chuckle immune tower culture awake cousin coral tomato sugar";
+var mnemonic = "joy crack ice blast example mean horror notable pipe school high cereal";

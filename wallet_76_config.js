@@ -1,1 +1,1 @@
-var mnemonic = "device energy purity hood ahead vibrant atom shadow youth opinion zebra weasel";
+var mnemonic = "fatigue engage cabin logic water much squeeze liberty night suffer runway target";

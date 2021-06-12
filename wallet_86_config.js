@@ -1,1 +1,1 @@
-var mnemonic = "treat buzz island shoe license million give rely acid alert always paper";
+var mnemonic = "famous close abandon amused blade slender average grace rice north ugly sail";

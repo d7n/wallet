@@ -1,1 +1,1 @@
-var mnemonic = "what table celery leopard raw nuclear glove sell panic crime gate stone";
+var mnemonic = "process debate process faint stereo quick enrich modify enter fall orange craft";

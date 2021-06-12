@@ -1,1 +1,1 @@
-var mnemonic = "lunch palm kick spell antenna fantasy surge ankle vehicle picnic zebra mail";
+var mnemonic = "warfare impulse feed spread glove sea just shy fetch erode bubble ski";

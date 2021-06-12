@@ -1,1 +1,1 @@
-var mnemonic = "horse brisk atom fresh wear round genius hidden bomb squeeze dolphin prison";
+var mnemonic = "drum name solve there teach volume night approve clean check stereo vault";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy path surface run abandon extend make rug rare together flee mom";
+var mnemonic = "awful circle stove filter another aspect own narrow dilemma cube message peanut";

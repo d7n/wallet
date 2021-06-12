@@ -1,1 +1,1 @@
-var mnemonic = "soup adapt merit math tourist anger gloom unit east wild piece harvest";
+var mnemonic = "canoe trigger jar speed define snack sad nut desk cool donkey express";

@@ -1,1 +1,1 @@
-var mnemonic = "produce hen mass donkey piano fiber congress axis glare connect unique scan";
+var mnemonic = "gadget draft throw fossil fever unfold replace fresh wrap town print fix";

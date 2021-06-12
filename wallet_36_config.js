@@ -1,1 +1,1 @@
-var mnemonic = "episode lens slim wreck crop festival bunker flavor already rigid omit extra";
+var mnemonic = "humble piano security hollow mule piece tennis service skin plunge museum hill";

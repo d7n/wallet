@@ -1,1 +1,1 @@
-var mnemonic = "blush mad bullet stage home girl grass yellow permit glimpse announce leisure";
+var mnemonic = "receive symptom enact suggest please guilt clog minute color exclude toddler oak";

@@ -1,1 +1,1 @@
-var mnemonic = "sell liar veteran scare purity teach umbrella test wife explain note pair";
+var mnemonic = "wrist cart umbrella rival minimum health catch resource file neither remain solar";

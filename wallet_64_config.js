@@ -1,1 +1,1 @@
-var mnemonic = "soup dawn smooth machine card member fog canal enough zone kitchen rotate";
+var mnemonic = "raccoon modify glory bar skirt quarter slice prosper run that regular canal";

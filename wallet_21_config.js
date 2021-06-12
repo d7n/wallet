@@ -1,1 +1,1 @@
-var mnemonic = "client celery meadow gasp eyebrow penalty flag comic myth price boring word";
+var mnemonic = "try flat maid caution brave special people liquid excess remind define canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "infant tower glory insane happy rapid depend resource hurt thought pioneer labor";
+var mnemonic = "gospel pig recycle real scare wrap proof scrap scale maid small crime";

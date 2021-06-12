@@ -1,1 +1,1 @@
-var mnemonic = "truly sea pear smooth candy satoshi truth bubble purse snap chalk cliff";
+var mnemonic = "scout aspect below thumb shoot letter satisfy chef fit mystery mimic million";

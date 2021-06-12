@@ -1,1 +1,1 @@
-var mnemonic = "bag flush rather tomato advance script promote sudden vacuum gasp stadium zone";
+var mnemonic = "alien slow sleep project slim lift spoon decade worth exile era enough";

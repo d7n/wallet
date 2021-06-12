@@ -1,1 +1,1 @@
-var mnemonic = "quiz setup empower busy fossil solution frozen unlock gospel drum keen prevent";
+var mnemonic = "sketch venture include web glimpse pact wagon suggest fly waste wall people";

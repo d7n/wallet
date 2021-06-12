@@ -1,1 +1,1 @@
-var mnemonic = "aware erase cruise until must senior rug ladder business labor define label";
+var mnemonic = "between recycle flag list opera jazz team salt since jewel much olive";

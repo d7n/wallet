@@ -1,1 +1,1 @@
-var mnemonic = "drill pioneer account evidence pudding exit general ship point vicious cover exclude";
+var mnemonic = "smoke day escape boy flag novel grass smart motion credit above crater";

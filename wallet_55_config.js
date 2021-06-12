@@ -1,1 +1,1 @@
-var mnemonic = "forget sleep long stumble dizzy session wait someone body nerve world trumpet";
+var mnemonic = "guilt across empty mutual great sketch pitch valid skull blue trim mean";

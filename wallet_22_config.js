@@ -1,1 +1,1 @@
-var mnemonic = "wasp warm answer mouse combine dutch front board okay settle error crystal";
+var mnemonic = "milk comfort speak credit menu toilet way farm shaft flash void extend";

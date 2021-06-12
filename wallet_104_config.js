@@ -1,1 +1,1 @@
-var mnemonic = "spin pipe sail bridge nation dentist fatal spirit donor myth end rapid";
+var mnemonic = "vast polar armed first alone humor sausage ozone slight regret more pill";

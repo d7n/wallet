@@ -1,1 +1,1 @@
-var mnemonic = "box school fall donate sheriff bubble about mesh capital bean proud hybrid";
+var mnemonic = "slow way valley injury shoulder pair swamp human worth entire crunch young";

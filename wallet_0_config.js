@@ -1,1 +1,1 @@
-var mnemonic = "atom beyond busy rice elder wing pig lawn mail party occur pattern";
+var mnemonic = "task scene explain idea expect combine reveal sweet know session amount armor";
