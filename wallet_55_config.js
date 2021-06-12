@@ -1,1 +1,1 @@
-var mnemonic = "output regular ignore assist struggle lawn ripple art ritual meat pretty crater";
+var mnemonic = "praise inherit expand book battle buyer black shoe rich barrel sail similar";

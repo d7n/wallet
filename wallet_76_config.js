@@ -1,1 +1,1 @@
-var mnemonic = "rough device woman provide card tape truly coil then build flavor canal";
+var mnemonic = "visual bundle soul anchor around onion jeans sphere dial achieve ride social";

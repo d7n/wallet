@@ -1,1 +1,1 @@
-var mnemonic = "when absent behave ability nephew catalog daughter slice option order copper cash";
+var mnemonic = "cherry net mechanic pulse boil bag dwarf cousin donkey burden science goat";

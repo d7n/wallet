@@ -1,1 +1,1 @@
-var mnemonic = "climb funny obey seed accuse maximum magnet body friend tank bring execute";
+var mnemonic = "diamond smooth cook noise inmate angry poem issue brand symbol weird yard";

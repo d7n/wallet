@@ -1,1 +1,1 @@
-var mnemonic = "tumble blade churn ride album ready surge stuff gym item conduct glory";
+var mnemonic = "layer first glide purpose rib then camp expire cash list wife matrix";

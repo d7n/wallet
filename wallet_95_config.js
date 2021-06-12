@@ -1,1 +1,1 @@
-var mnemonic = "exhaust hollow install puppy surge dignity convince panel medal suffer rapid submit";
+var mnemonic = "core fuel remain relief vote solution hero fee network one asset unhappy";

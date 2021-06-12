@@ -1,1 +1,1 @@
-var mnemonic = "round jeans slight travel ranch captain setup trend piece polar aware desk";
+var mnemonic = "humor grid talent decide fork scout rely similar vast spend comic over";

@@ -1,1 +1,1 @@
-var mnemonic = "notice abstract original bridge assist spin series supply rain ladder steel cupboard";
+var mnemonic = "era smile tag runway fuel burden swarm hammer sell used iron between";

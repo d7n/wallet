@@ -1,1 +1,1 @@
-var mnemonic = "eager spray voyage shop effort road army crush sunny pig moon verb";
+var mnemonic = "kangaroo negative game fault predict misery shiver churn joke estate urban flat";

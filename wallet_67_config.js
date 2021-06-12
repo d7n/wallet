@@ -1,1 +1,1 @@
-var mnemonic = "enough make sign glimpse kingdom celery iron want other mosquito brave kite";
+var mnemonic = "same merit own slam carpet across find tenant distance rug bird super";

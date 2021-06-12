@@ -1,1 +1,1 @@
-var mnemonic = "slight acquire nephew purse sad surge goose swallow december normal board nature";
+var mnemonic = "spot fox arctic regret scheme wait ridge child skate roast wash soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "field eyebrow field live panther top nest food staff digital oppose edit";
+var mnemonic = "exotic thumb forum print great sentence unique sketch age blind update renew";

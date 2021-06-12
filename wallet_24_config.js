@@ -1,1 +1,1 @@
-var mnemonic = "stick jacket ghost notice helmet surge waste just spike minor drink frog";
+var mnemonic = "joke wedding custom dragon uniform clean ginger boring chunk patient tone mechanic";

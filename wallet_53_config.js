@@ -1,1 +1,1 @@
-var mnemonic = "ramp mountain drum faith kitten pool pepper unlock please word screen usual";
+var mnemonic = "tide egg success desk zebra sad napkin inspire bottom rigid silk pulse";

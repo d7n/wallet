@@ -1,1 +1,1 @@
-var mnemonic = "minimum friend tip album trust rural token solve swap list impulse balance";
+var mnemonic = "exclude whip cage soul ice market prize pumpkin firm mutual among bean";

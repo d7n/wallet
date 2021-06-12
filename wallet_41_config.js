@@ -1,1 +1,1 @@
-var mnemonic = "snow runway access dash stamp between certain wedding assist dust diesel lunch";
+var mnemonic = "crime harvest hurdle gadget person enemy spend hard sword special wealth type";

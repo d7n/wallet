@@ -1,1 +1,1 @@
-var mnemonic = "quit deal embrace spell manual bargain joy fog name actual lens drop";
+var mnemonic = "ribbon round peanut sun april lunar exchange type motor giraffe step thunder";

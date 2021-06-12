@@ -1,1 +1,1 @@
-var mnemonic = "logic tortoise disorder more average sing prepare mosquito stem salad idle street";
+var mnemonic = "waste rescue stereo rack track raw home loud napkin roast victory attitude";

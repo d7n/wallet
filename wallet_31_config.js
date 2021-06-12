@@ -1,1 +1,1 @@
-var mnemonic = "citizen task kitten exercise injury resist brave truth pond unit unaware uncle";
+var mnemonic = "country output luxury obvious arrow shop isolate list quick lumber else toilet";

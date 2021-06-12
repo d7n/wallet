@@ -1,1 +1,1 @@
-var mnemonic = "flavor oyster night clarify grief liquid vast click away uncover setup life";
+var mnemonic = "conduct chase before fade speed faculty pet evidence spider filter hole market";

@@ -1,1 +1,1 @@
-var mnemonic = "bring bind idle demise once dinosaur large powder slight blue junk stamp";
+var mnemonic = "almost vocal twin female essence butter trap screen glow step device never";

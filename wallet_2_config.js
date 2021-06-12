@@ -1,1 +1,1 @@
-var mnemonic = "know stand asset amount train tragic fame arm creek actual damp leave";
+var mnemonic = "luxury proof junk envelope daring slender diamond shoot steel empower pilot food";

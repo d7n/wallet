@@ -1,1 +1,1 @@
-var mnemonic = "swear rapid gloom ginger someone pole poet foster seminar there fan cat";
+var mnemonic = "business age seat fog lottery brisk gate strike discover today purse state";

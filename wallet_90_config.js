@@ -1,1 +1,1 @@
-var mnemonic = "divorce jar youth you echo balcony liberty valley drip balance road fringe";
+var mnemonic = "risk dance reunion latin hurry shoe drill affair brief awful indoor evolve";

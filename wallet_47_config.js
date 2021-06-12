@@ -1,1 +1,1 @@
-var mnemonic = "rubber reduce detail practice mother unaware chief year swallow nest sign grocery";
+var mnemonic = "roof plate genius range physical lecture prize next panic autumn engine bread";

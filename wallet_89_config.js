@@ -1,1 +1,1 @@
-var mnemonic = "nice fold stadium welcome roof trust opinion crumble bulb canyon cause public";
+var mnemonic = "someone water immune timber rule wear between nest tomato pyramid pulp noble";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb rough cupboard fade deer tobacco cinnamon episode air strategy obey bonus";
+var mnemonic = "blossom space grace seminar fringe moral orange buddy news magnet attend way";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton that liquid pole absent fetch tackle nurse stairs actual thought later";
+var mnemonic = "purity use rail supply minute suit nest oak talk kite glory wrong";

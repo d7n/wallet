@@ -1,1 +1,1 @@
-var mnemonic = "proud practice prison zero baby clever chicken glance excess possible chaos cattle";
+var mnemonic = "stone tape local wine afraid forward tongue club pulp robust era hurry";

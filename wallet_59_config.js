@@ -1,1 +1,1 @@
-var mnemonic = "whisper hole later human test thank moment spirit demand grocery honey giraffe";
+var mnemonic = "hello popular shoulder jaguar kingdom six aunt gossip badge change ten sample";

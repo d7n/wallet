@@ -1,1 +1,1 @@
-var mnemonic = "find trigger fog puppy theory pilot satoshi option nominee beach satisfy rebuild";
+var mnemonic = "novel shoulder head arena coffee century runway rule duck race make hidden";

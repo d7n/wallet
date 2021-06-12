@@ -1,1 +1,1 @@
-var mnemonic = "old around reflect chest antique west song siege occur warrior general voice";
+var mnemonic = "poverty plug feed indicate minor fiber skill muscle bright wink interest manual";

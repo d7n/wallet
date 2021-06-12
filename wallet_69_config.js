@@ -1,1 +1,1 @@
-var mnemonic = "allow someone laundry ring evolve slight success stem siege soft smoke plunge";
+var mnemonic = "plastic erupt home blue tomorrow dilemma immune elbow bulk buyer limb rally";

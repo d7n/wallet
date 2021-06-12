@@ -1,1 +1,1 @@
-var mnemonic = "security blossom holiday better churn bird useful move lyrics enact fox forget";
+var mnemonic = "remove couple company crystal prosper curtain deny brass crash jump visual live";

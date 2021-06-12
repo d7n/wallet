@@ -1,1 +1,1 @@
-var mnemonic = "beyond cricket insect violin visa fetch canvas voice broken arena utility alert";
+var mnemonic = "boss prepare metal oxygen leopard parrot tourist lava stick timber habit puzzle";

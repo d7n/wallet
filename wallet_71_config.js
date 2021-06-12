@@ -1,1 +1,1 @@
-var mnemonic = "exit used nephew nuclear grow effort blanket other visit fitness measure animal";
+var mnemonic = "delay can acquire hard service zoo tag choose metal coconut dial jewel";

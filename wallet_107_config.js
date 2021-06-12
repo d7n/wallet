@@ -1,1 +1,1 @@
-var mnemonic = "pretty behave cactus always name miss cinnamon feel inflict excite increase coast";
+var mnemonic = "vehicle supply space surround cereal orient work hint oval cheap concert monitor";

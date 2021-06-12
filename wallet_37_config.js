@@ -1,1 +1,1 @@
-var mnemonic = "good extra talk purse puzzle program clump obtain zero erase medal glory";
+var mnemonic = "bright mesh join flip bronze asthma hungry bracket upgrade tail lens story";

@@ -1,1 +1,1 @@
-var mnemonic = "ask joke list feed angle arena you noble spell divorce dose deputy";
+var mnemonic = "latin giraffe inhale trim easy public symbol century grocery cheap drip wedding";

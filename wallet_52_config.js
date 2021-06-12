@@ -1,1 +1,1 @@
-var mnemonic = "float banana glimpse strategy begin soup metal dilemma style planet water tragic";
+var mnemonic = "use birth design grid style spoon lobster today scout thunder chapter embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "where fee zero myth depth faith leisure require prison sting kind together";
+var mnemonic = "food bird acid visual record forget unit inch picnic much yard same";

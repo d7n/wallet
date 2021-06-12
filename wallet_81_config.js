@@ -1,1 +1,1 @@
-var mnemonic = "harbor member sock infant banner profit release cash tumble combine decrease echo";
+var mnemonic = "fox sketch shoe emotion target knock joke soap put south maid shrug";

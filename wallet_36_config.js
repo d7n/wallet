@@ -1,1 +1,1 @@
-var mnemonic = "coil airport hotel meat melt remember fault fiscal aerobic purchase extend session";
+var mnemonic = "change clerk october bracket life reject reveal galaxy foam creek grape abandon";

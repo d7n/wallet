@@ -1,1 +1,1 @@
-var mnemonic = "eye scan maze boost defense biology ozone pizza spend upon search fortune";
+var mnemonic = "ostrich denial flavor share mean east mention brief civil spoon thumb bird";

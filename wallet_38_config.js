@@ -1,1 +1,1 @@
-var mnemonic = "ethics corn edge erupt blame fall amused bounce again supreme hidden height";
+var mnemonic = "grocery milk clap film this arch another tongue crazy mercy quote spend";

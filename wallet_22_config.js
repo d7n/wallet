@@ -1,1 +1,1 @@
-var mnemonic = "blind medal demise exact brown chalk pass hybrid defense impulse about hammer";
+var mnemonic = "wedding rookie trick sauce category tongue mountain slender refuse pipe client monitor";

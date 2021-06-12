@@ -1,1 +1,1 @@
-var mnemonic = "miss orchard pyramid vessel broom bench emerge flip slim eyebrow rhythm height";
+var mnemonic = "place naive boil extend cactus above cup misery click leaf jaguar real";

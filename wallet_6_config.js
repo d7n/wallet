@@ -1,1 +1,1 @@
-var mnemonic = "blouse front toward shrimp lift train guide music usage fall dove ready";
+var mnemonic = "live nose avocado service spoil pioneer notable assault lady steel poverty feel";

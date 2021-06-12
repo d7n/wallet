@@ -1,1 +1,1 @@
-var mnemonic = "punch obscure nothing decade about impact donate decorate photo toast game citizen";
+var mnemonic = "vague kitchen theory state cram pull rebuild horn glance oyster jealous balance";

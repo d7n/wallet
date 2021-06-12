@@ -1,1 +1,1 @@
-var mnemonic = "phone stamp prison execute ahead abandon avocado diagram index early train body";
+var mnemonic = "clump dignity grain retire debris gun chaos describe cram blanket mammal mango";

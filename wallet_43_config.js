@@ -1,1 +1,1 @@
-var mnemonic = "okay suspect armed mushroom man cute coil blast wide scissors mixture argue";
+var mnemonic = "capital thunder people reduce lunar scissors fish talk express divide video wave";

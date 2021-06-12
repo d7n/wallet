@@ -1,1 +1,1 @@
-var mnemonic = "anchor copper describe spy employ during whip volume work wasp candy resource";
+var mnemonic = "can onion wealth ramp dress volcano hurdle matrix grocery mystery ivory lake";

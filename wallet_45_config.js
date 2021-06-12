@@ -1,1 +1,1 @@
-var mnemonic = "empower unveil eight virus replace frog flee prize arena frozen deliver evolve";
+var mnemonic = "brave two nasty excuse library brand useful firm draft steel sight ordinary";

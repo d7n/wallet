@@ -1,1 +1,1 @@
-var mnemonic = "deliver scout symbol season opinion disease spirit pink shove away person boy";
+var mnemonic = "trick impulse render interest regular between march impact parade abuse fury tortoise";

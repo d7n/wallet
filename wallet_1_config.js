@@ -1,1 +1,1 @@
-var mnemonic = "horror empty loan fossil valid rubber process organ hip demand frog pelican";
+var mnemonic = "honey stairs planet earth crush label expose smooth symptom faith combine defense";

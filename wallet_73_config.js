@@ -1,1 +1,1 @@
-var mnemonic = "draw market sister glory clutch casual auction puzzle fossil planet pizza bracket";
+var mnemonic = "math nothing arrest play tongue hero board genre above boring current hobby";

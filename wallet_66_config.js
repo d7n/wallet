@@ -1,1 +1,1 @@
-var mnemonic = "wide pave caught property genre stool clay wheat punch write cash pulp";
+var mnemonic = "program immense glove series sing park oil vote puppy assault vibrant shield";

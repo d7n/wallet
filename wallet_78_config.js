@@ -1,1 +1,1 @@
-var mnemonic = "oxygen suggest guess call pigeon chuckle era decorate idle feature wave cook";
+var mnemonic = "drill sibling butter damp wolf review inside size lounge husband license illness";

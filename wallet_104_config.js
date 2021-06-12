@@ -1,1 +1,1 @@
-var mnemonic = "slight slush hawk window wait slush next bargain antique word tunnel fantasy";
+var mnemonic = "circle evil squeeze outer unknown beyond gap crash above pistol they rough";

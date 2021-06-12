@@ -1,1 +1,1 @@
-var mnemonic = "vicious cube pudding scare mechanic inspire decorate husband drama start bread couch";
+var mnemonic = "cube neck grid stool awkward attend throw sauce alter tackle divide message";

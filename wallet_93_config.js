@@ -1,1 +1,1 @@
-var mnemonic = "chicken ask pause capable license cage erosion car cash solution common enhance";
+var mnemonic = "work cage organ sound scene crunch mix assume jewel undo spike daughter";

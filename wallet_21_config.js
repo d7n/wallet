@@ -1,1 +1,1 @@
-var mnemonic = "equip across inflict record source strike submit drip gap labor royal maze";
+var mnemonic = "shuffle marble rescue prefer uncover together silly lawsuit cancel power victory merry";

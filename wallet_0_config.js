@@ -1,1 +1,1 @@
-var mnemonic = "term orchard gorilla damp happy join energy solve option audit remember web";
+var mnemonic = "raccoon physical found crush crucial asset arctic monitor emerge cave country mouse";

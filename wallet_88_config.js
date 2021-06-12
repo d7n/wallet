@@ -1,1 +1,1 @@
-var mnemonic = "possible amused duty hope genuine squeeze shiver tumble enjoy steak wreck exclude";
+var mnemonic = "can tool citizen swear panther strike during improve barrel quarter penalty dignity";

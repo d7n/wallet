@@ -1,1 +1,1 @@
-var mnemonic = "today flock biology pretty orchard innocent picture project regular beyond ketchup spirit";
+var mnemonic = "festival shoulder general critic naive execute super access banana program come walk";

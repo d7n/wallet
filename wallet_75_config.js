@@ -1,1 +1,1 @@
-var mnemonic = "large project such gain flat myth remove glad web tiger floor piano";
+var mnemonic = "damp candy destroy rigid recipe veteran track safe twenty bind ostrich oppose";

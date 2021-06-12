@@ -1,1 +1,1 @@
-var mnemonic = "chase across correct replace sell gossip upper achieve stuff garage boost two";
+var mnemonic = "fragile moon cave leisure feature trade paddle bachelor swallow merry brisk place";

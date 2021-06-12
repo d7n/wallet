@@ -1,1 +1,1 @@
-var mnemonic = "social saddle amused skirt climb evidence dawn fringe area tortoise own glory";
+var mnemonic = "quarter soap text because tragic swallow hazard marine grace total paper series";

@@ -1,1 +1,1 @@
-var mnemonic = "delay jelly borrow fresh anchor polar magnet excuse plate input museum genius";
+var mnemonic = "square magnet thrive shrug prepare chef stand disorder tragic extra dune flavor";

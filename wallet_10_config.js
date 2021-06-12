@@ -1,1 +1,1 @@
-var mnemonic = "gaze riot street fiction purchase clean utility local excite produce mango pause";
+var mnemonic = "reveal fluid pyramid coffee chaos dust sausage february head elephant galaxy smoke";

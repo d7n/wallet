@@ -1,1 +1,1 @@
-var mnemonic = "census timber bonus patient peasant goose ordinary bone venue vast elder crowd";
+var mnemonic = "oak puzzle ice april cool wagon nephew sign flash radar outdoor indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster punch flat labor cloth slot alert number sponsor hire struggle top";
+var mnemonic = "cupboard come luxury genuine mean piano arrive labor surround tone anchor grocery";

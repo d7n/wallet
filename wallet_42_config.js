@@ -1,1 +1,1 @@
-var mnemonic = "garment search aunt myself flag obscure exist resource vast area wasp milk";
+var mnemonic = "bird power direct forum element phone hand fork body valley welcome stay";

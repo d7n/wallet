@@ -1,1 +1,1 @@
-var mnemonic = "keep chest cluster plastic method render course sing couch mixed spatial grocery";
+var mnemonic = "notice aim sport simple injury day jelly pond gaze survey gloom balance";

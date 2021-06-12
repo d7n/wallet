@@ -1,1 +1,1 @@
-var mnemonic = "above open miracle stadium acid dish culture umbrella domain middle palace rhythm";
+var mnemonic = "spawn era smile giraffe tone skin youth floor bunker pizza fork faint";

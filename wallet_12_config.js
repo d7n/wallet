@@ -1,1 +1,1 @@
-var mnemonic = "swear grace install timber minimum candy screen senior dream squirrel strong word";
+var mnemonic = "tackle turtle bulk wet approve kite cargo ordinary hurt tray gasp cable";

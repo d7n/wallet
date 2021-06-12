@@ -1,1 +1,1 @@
-var mnemonic = "track crunch amused dust bachelor photo outer expire purity question cat also";
+var mnemonic = "alarm exact latin goddess slice banner sorry embark trend capable fish midnight";

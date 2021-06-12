@@ -1,1 +1,1 @@
-var mnemonic = "day excite lucky bottom visual exotic limb remind network script tank harsh";
+var mnemonic = "brief elder must shiver stamp picnic piano say music october brain obtain";

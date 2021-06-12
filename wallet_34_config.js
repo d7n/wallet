@@ -1,1 +1,1 @@
-var mnemonic = "now pet spoil consider ship example ring travel orient armor announce have";
+var mnemonic = "mountain parrot scatter near top dial ensure menu ramp salon elite rookie";

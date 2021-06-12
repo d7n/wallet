@@ -1,1 +1,1 @@
-var mnemonic = "sword error trip wise flower equip vast cup law jaguar gaze trick";
+var mnemonic = "today bleak across can garden diet law ramp father jelly good hair";
