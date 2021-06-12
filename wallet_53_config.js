@@ -1,1 +1,1 @@
-var mnemonic = "hint butter setup snake aspect engine become victory above oil remove foam";
+var mnemonic = "father craft alley lunar poet market post finish purpose believe what soft";

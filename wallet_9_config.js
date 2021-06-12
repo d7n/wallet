@@ -1,1 +1,1 @@
-var mnemonic = "fame rally stadium tenant hunt coyote open major beach marriage such own";
+var mnemonic = "radio shiver captain adapt resource today elbow attitude humble coast over color";

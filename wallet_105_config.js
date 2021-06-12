@@ -1,1 +1,1 @@
-var mnemonic = "nerve middle consider insect accuse lock shoot boil ceiling uncover aerobic island";
+var mnemonic = "arrive duty process cruel midnight cycle tuition celery oyster crew keen fence";

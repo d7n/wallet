@@ -1,1 +1,1 @@
-var mnemonic = "result paddle nation inmate giant impact arctic kingdom world company embrace physical";
+var mnemonic = "ivory swap girl enable sting toddler flight hurdle turn duty joke donate";

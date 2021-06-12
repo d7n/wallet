@@ -1,1 +1,1 @@
-var mnemonic = "flee weather cloth happy math ready bundle stamp jar verify dinosaur mother";
+var mnemonic = "approve cactus lab employ combine mad fragile slab scene stand valid squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "glue degree problem either february daughter gasp nothing bridge echo energy stem";
+var mnemonic = "include law grace obtain skull loan entry monster client impact present guitar";

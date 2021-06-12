@@ -1,1 +1,1 @@
-var mnemonic = "purity canvas stone bicycle icon stage fade solid rude board museum focus";
+var mnemonic = "decline quick jazz adjust climb ticket mirror wreck true retreat nephew bird";

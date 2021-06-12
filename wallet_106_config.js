@@ -1,1 +1,1 @@
-var mnemonic = "swarm water other steel health pole bean regular lecture assault play attract";
+var mnemonic = "universe above silver resist canyon slush exercise always negative shed caught garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "shop express evil mango crash nose inquiry lens cloud home book trial";
+var mnemonic = "outer meadow lion peasant ethics panel kit scrap come orange salmon excuse";

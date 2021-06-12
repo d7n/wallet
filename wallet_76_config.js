@@ -1,1 +1,1 @@
-var mnemonic = "vault rotate fossil awful crew high destroy kite dawn fluid fold shaft";
+var mnemonic = "rural three orange cool adult february ice start large road flash tiny";

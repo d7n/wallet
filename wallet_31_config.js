@@ -1,1 +1,1 @@
-var mnemonic = "exclude diamond rescue expand twin pulp spawn off wall slide attend spring";
+var mnemonic = "wonder junk runway misery fancy good space wasp poet client admit code";

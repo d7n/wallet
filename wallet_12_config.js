@@ -1,1 +1,1 @@
-var mnemonic = "long bean upgrade dragon physical quiz box mistake market auction peasant powder";
+var mnemonic = "auction oxygen talent glad address capital scissors motor tenant kangaroo retreat neither";

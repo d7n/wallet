@@ -1,1 +1,1 @@
-var mnemonic = "sugar settle scan curve fog swing child echo sponsor toss lend become";
+var mnemonic = "wife gain two salon fire web beach hour also crash cricket shy";

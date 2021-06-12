@@ -1,1 +1,1 @@
-var mnemonic = "quote crime farm unaware guitar industry husband skirt quick arrive vote spoil";
+var mnemonic = "image oblige chunk wonder crisp topple goose strategy vendor swallow despair roast";

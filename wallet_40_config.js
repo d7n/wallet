@@ -1,1 +1,1 @@
-var mnemonic = "fire drink shrimp focus basic crater matter carbon later fish citizen senior";
+var mnemonic = "million pottery volume garden curve abstract amateur vehicle left always gallery hammer";

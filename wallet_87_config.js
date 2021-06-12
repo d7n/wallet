@@ -1,1 +1,1 @@
-var mnemonic = "winner stamp pistol few axis half nice gallery dial club drip stove";
+var mnemonic = "ceiling relief want unit dirt december mixture nerve forget book joke require";

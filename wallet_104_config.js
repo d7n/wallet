@@ -1,1 +1,1 @@
-var mnemonic = "burst tiny artefact betray hub taxi state choose grunt lunar olympic february";
+var mnemonic = "beef picnic knock flock prevent client smooth easy release paddle myth water";

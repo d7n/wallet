@@ -1,1 +1,1 @@
-var mnemonic = "wrap hammer couch flat taxi tent help flush anxiety steak south moment";
+var mnemonic = "noodle index body horror high ecology receive enable pact farm pyramid process";

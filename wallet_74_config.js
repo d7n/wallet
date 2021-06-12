@@ -1,1 +1,1 @@
-var mnemonic = "spirit suffer harbor extra clarify stool chair session media timber steak page";
+var mnemonic = "angry energy express vocal predict glad employ swift bridge dose lake rebel";

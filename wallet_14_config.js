@@ -1,1 +1,1 @@
-var mnemonic = "gesture hollow tenant tomorrow display resemble weasel physical same eyebrow silk above";
+var mnemonic = "universe mansion know prison old judge price peanut honey embrace pistol demand";

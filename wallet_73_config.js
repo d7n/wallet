@@ -1,1 +1,1 @@
-var mnemonic = "diamond height multiply kick best fork fiber cake hint knee lens run";
+var mnemonic = "stage unfair amazing fan sentence ridge tunnel submit already merit jelly meat";

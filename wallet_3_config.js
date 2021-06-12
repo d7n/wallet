@@ -1,1 +1,1 @@
-var mnemonic = "deputy bulk private economy rescue insect student method word safe improve dentist";
+var mnemonic = "midnight lens truly best public install enemy maze shield fatigue unable goat";

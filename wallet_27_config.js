@@ -1,1 +1,1 @@
-var mnemonic = "couple inch theory alcohol day trouble hold close sock stove success high";
+var mnemonic = "outdoor sell help faint follow theory clay match glad horse shoot flush";

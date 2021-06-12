@@ -1,1 +1,1 @@
-var mnemonic = "original stool artist unable olive post day exact better barrel dial question";
+var mnemonic = "fashion whisper hockey brave scrub govern tank appear nice animal chase aisle";

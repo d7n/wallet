@@ -1,1 +1,1 @@
-var mnemonic = "marriage remove despair frog urge twice burden desk worth region dash dinner";
+var mnemonic = "life goat pull observe roast damage trigger conduct keen salute mix item";

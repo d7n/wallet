@@ -1,1 +1,1 @@
-var mnemonic = "flee claim spy game stick smoke steel armor glad wonder silly issue";
+var mnemonic = "clap cat girl iron recall analyst sponsor zone base exit differ face";

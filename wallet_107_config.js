@@ -1,1 +1,1 @@
-var mnemonic = "renew canal only merge huge solution hold build vacuum weapon confirm upset";
+var mnemonic = "panel noodle insane reject ice number reflect genre situate glass below enemy";

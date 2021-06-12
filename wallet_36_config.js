@@ -1,1 +1,1 @@
-var mnemonic = "apple border excuse scorpion harbor peace special small rail safe shop milk";
+var mnemonic = "water leader hundred rack gadget thought pizza jewel outside swap artwork more";

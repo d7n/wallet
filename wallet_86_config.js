@@ -1,1 +1,1 @@
-var mnemonic = "goddess type spread between wasp hazard amused brown common sunny beach maple";
+var mnemonic = "busy add flash blade symptom imitate wing situate clog exchange potato olive";

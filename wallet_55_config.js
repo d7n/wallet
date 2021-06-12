@@ -1,1 +1,1 @@
-var mnemonic = "arrest pyramid sign motion owner strategy turn visa rotate main country badge";
+var mnemonic = "grass loyal water inmate soldier lunch concert often fork thing celery virtual";

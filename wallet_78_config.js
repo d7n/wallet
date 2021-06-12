@@ -1,1 +1,1 @@
-var mnemonic = "fine void immune image minor income purchase dentist wealth wreck usage thumb";
+var mnemonic = "carry hundred submit metal large story until liar require choose bind muffin";

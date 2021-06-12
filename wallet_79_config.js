@@ -1,1 +1,1 @@
-var mnemonic = "claw faint wild inside census burst chaos copy obscure unusual result list";
+var mnemonic = "small they ostrich game volcano cream soon asthma author high math gravity";

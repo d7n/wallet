@@ -1,1 +1,1 @@
-var mnemonic = "dream sunny silver hurdle sentence enact garden goat during utility pull wisdom";
+var mnemonic = "news stable raise heart gap alone suffer decade remind teach rich sick";

@@ -1,1 +1,1 @@
-var mnemonic = "glad asset dial fossil mandate exotic insect time glove crush tragic noise";
+var mnemonic = "lens strike letter elegant citizen strike end vanish balcony circle retreat topic";

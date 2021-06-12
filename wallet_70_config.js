@@ -1,1 +1,1 @@
-var mnemonic = "near snack iron canvas million curious animal reason motion caution barrel long";
+var mnemonic = "engine fault canal skin divorce bulk account walk virus bread target under";

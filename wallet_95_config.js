@@ -1,1 +1,1 @@
-var mnemonic = "evil audit tired scan border enable ripple school dynamic movie toddler wet";
+var mnemonic = "love rapid genre way position tobacco warm hazard bread person blast squeeze";

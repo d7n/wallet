@@ -1,1 +1,1 @@
-var mnemonic = "review similar enroll nut tongue sadness quote labor next there stay fitness";
+var mnemonic = "vacant twin yellow absent spray grow rebuild switch call alpha track runway";

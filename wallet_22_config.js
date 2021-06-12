@@ -1,1 +1,1 @@
-var mnemonic = "strategy wing lyrics approve atom name cube slogan what shy crack dolphin";
+var mnemonic = "point tissue sight cave gather vast easy screen occur wear gain weather";

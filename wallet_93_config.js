@@ -1,1 +1,1 @@
-var mnemonic = "celery torch uncle volume unlock mistake chest easy gate mimic excuse simple";
+var mnemonic = "move dignity cable vital surface humor despair angle service cry differ public";

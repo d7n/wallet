@@ -1,1 +1,1 @@
-var mnemonic = "asset must diesel identify hedgehog umbrella maple dose hair patient fashion off";
+var mnemonic = "cruise wife fatigue short goat laundry endorse boil grunt dismiss flock betray";

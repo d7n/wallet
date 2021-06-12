@@ -1,1 +1,1 @@
-var mnemonic = "obtain bounce invest way august poverty cause play deputy crucial emerge aerobic";
+var mnemonic = "region elegant now uncle start half crawl shoot bright infant claw model";

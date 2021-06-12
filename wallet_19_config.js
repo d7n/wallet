@@ -1,1 +1,1 @@
-var mnemonic = "fuel neutral pumpkin loop fade panic desert pupil toast position point there";
+var mnemonic = "around evolve heart volcano find process pitch wealth loop brother flock bind";

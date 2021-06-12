@@ -1,1 +1,1 @@
-var mnemonic = "nation patch disease filter usual verify rotate alley tree adapt shaft habit";
+var mnemonic = "elevator bag crater spice spray bottom gorilla before tortoise furnace super mistake";

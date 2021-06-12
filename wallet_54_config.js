@@ -1,1 +1,1 @@
-var mnemonic = "dial dad bitter pact symptom mushroom cabin gasp box boss slogan final";
+var mnemonic = "topic pull plug sniff cheese ripple burden direct leaf system ice plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "toy pencil lunch used describe reopen again shaft kitchen boost enjoy cousin";
+var mnemonic = "thumb onion open ritual burden legal vivid metal slight project cereal few";

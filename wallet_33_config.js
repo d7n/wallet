@@ -1,1 +1,1 @@
-var mnemonic = "model mouse rent evolve correct excite ladder talk chef regret crew true";
+var mnemonic = "payment upgrade key submit auction vapor tenant nurse crash place dentist search";

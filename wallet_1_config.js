@@ -1,1 +1,1 @@
-var mnemonic = "illegal roof clip wood general garage raw erase confirm sock barely bean";
+var mnemonic = "ceiling symptom push ugly pottery strong senior actress mobile leisure roof shift";

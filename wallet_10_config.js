@@ -1,1 +1,1 @@
-var mnemonic = "nose kitten guess trend glide knife pair voice speed tuna blossom limit";
+var mnemonic = "material tube pink bullet rely travel shrug hybrid master torch cage option";

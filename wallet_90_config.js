@@ -1,1 +1,1 @@
-var mnemonic = "industry describe field squirrel glue tortoise unveil together lift tiger ginger win";
+var mnemonic = "bus grab office dice erosion stand bundle maple dinosaur skirt olympic traffic";

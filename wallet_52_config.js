@@ -1,1 +1,1 @@
-var mnemonic = "height rail brick seminar renew patrol chair execute machine tone forget gain";
+var mnemonic = "pride planet stay lecture sustain brown door spider vendor anger citizen venue";

@@ -1,1 +1,1 @@
-var mnemonic = "index donor wasp token host clap craft smoke bundle oyster transfer snap";
+var mnemonic = "stand clay defense bachelor burst fat spoil stumble property climb kit dinner";

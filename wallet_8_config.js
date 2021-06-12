@@ -1,1 +1,1 @@
-var mnemonic = "broom charge olympic wrap muscle talent crew public pulse volcano art aware";
+var mnemonic = "cage repeat craft axis swift lottery legal couch dutch bleak assume hold";

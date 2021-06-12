@@ -1,1 +1,1 @@
-var mnemonic = "rural key female scatter chimney era reflect dove height ginger suffer tongue";
+var mnemonic = "attack album display abandon razor attract bid unfold world soup chuckle clerk";

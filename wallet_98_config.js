@@ -1,1 +1,1 @@
-var mnemonic = "embody expose chalk another upon shadow urge elevator lizard flush view actual";
+var mnemonic = "place awful indoor token fossil iron moral deliver pigeon wife blanket alpha";

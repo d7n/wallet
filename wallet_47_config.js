@@ -1,1 +1,1 @@
-var mnemonic = "resist sustain talk wonder garlic moral viable woman point couch section trend";
+var mnemonic = "piece rent special gold leisure library dawn mean ginger crunch fringe moon";

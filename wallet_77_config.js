@@ -1,1 +1,1 @@
-var mnemonic = "deputy busy palace analyst hero eight sphere acoustic give useless hedgehog young";
+var mnemonic = "damp nose citizen citizen envelope olive peanut bulk salute laugh twin cupboard";

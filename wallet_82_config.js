@@ -1,1 +1,1 @@
-var mnemonic = "eternal edit police merit holiday siege number width quality parade hammer that";
+var mnemonic = "chef pluck innocent link dinner stumble awesome direct unable license accuse save";

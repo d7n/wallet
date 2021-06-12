@@ -1,1 +1,1 @@
-var mnemonic = "frame eternal update battle vague movie mystery castle flag comic shallow cotton";
+var mnemonic = "car middle monster pause census sand cash yard thrive donor tuition above";

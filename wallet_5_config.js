@@ -1,1 +1,1 @@
-var mnemonic = "act snow where brass theory point pulp sudden gospel reform kick ocean";
+var mnemonic = "industry text orbit already purpose cactus system dance club champion sketch jewel";

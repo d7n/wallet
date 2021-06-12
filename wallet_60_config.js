@@ -1,1 +1,1 @@
-var mnemonic = "vessel fold mango machine pepper average harbor lawsuit draw spirit joy kangaroo";
+var mnemonic = "beyond midnight young later panda manual galaxy equip alien churn sick nation";

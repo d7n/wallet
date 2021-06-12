@@ -1,1 +1,1 @@
-var mnemonic = "quality asset cliff gauge egg cause foil cannon control auto door emerge";
+var mnemonic = "debris mirror fox brick bench hunt track chief ball rent ride trend";

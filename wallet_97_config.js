@@ -1,1 +1,1 @@
-var mnemonic = "oak cash dilemma sort genre stumble warfare route suggest nurse pave modify";
+var mnemonic = "must goddess guitar topic stuff usage cook tiger sorry hold enact daring";

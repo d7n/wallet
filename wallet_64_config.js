@@ -1,1 +1,1 @@
-var mnemonic = "favorite devote used critic collect original color entire silk exact phrase inject";
+var mnemonic = "quantum topic maximum subject common salute attitude ride accident cluster tiny athlete";

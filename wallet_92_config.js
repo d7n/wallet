@@ -1,1 +1,1 @@
-var mnemonic = "twelve chair cigar gentle latin monitor motion invest brave merit father silent";
+var mnemonic = "magnet trash crucial actor chicken asthma cool battle slow dinner fame power";

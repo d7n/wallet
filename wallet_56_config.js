@@ -1,1 +1,1 @@
-var mnemonic = "deliver list uncover skate piano manual lawsuit flush tiger artwork demand chapter";
+var mnemonic = "crime riot tennis bind husband earth heavy motor bench priority happy tiny";

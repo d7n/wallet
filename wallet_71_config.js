@@ -1,1 +1,1 @@
-var mnemonic = "company fee wild choice panel order cement among seminar fold machine guide";
+var mnemonic = "goddess amused cruel lottery melody scatter mandate sausage capable speak bubble upper";

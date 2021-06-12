@@ -1,1 +1,1 @@
-var mnemonic = "diagram sustain account tell short vivid coconut evoke margin sentence month rally";
+var mnemonic = "maximum cattle lend lazy crop glue miracle online clump strategy vicious sand";

@@ -1,1 +1,1 @@
-var mnemonic = "elder eyebrow gun lumber add farm slight evolve evoke ritual symptom trend";
+var mnemonic = "vote grit thought there bless abuse chief honey rigid misery glass web";

@@ -1,1 +1,1 @@
-var mnemonic = "blame sorry doll old manage gorilla scout mouse crucial ship erode language";
+var mnemonic = "screen caution anchor lyrics poem split near one cave hill left harvest";

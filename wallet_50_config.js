@@ -1,1 +1,1 @@
-var mnemonic = "prize woman peasant degree egg hour true sugar estate pluck roast clever";
+var mnemonic = "unusual tomorrow gift fashion link deliver cruise number brick accuse garbage upon";

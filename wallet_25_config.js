@@ -1,1 +1,1 @@
-var mnemonic = "movie floor diesel primary robot minute sponsor stock purity vicious dry glad";
+var mnemonic = "shoulder welcome attract tiny pave never food produce scissors enlist oak orient";

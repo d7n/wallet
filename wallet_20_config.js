@@ -1,1 +1,1 @@
-var mnemonic = "void time young duty maid sugar donkey poverty setup grass elephant magnet";
+var mnemonic = "clip picnic lunch rabbit fire face zebra spell cancel poet start skirt";

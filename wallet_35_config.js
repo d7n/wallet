@@ -1,1 +1,1 @@
-var mnemonic = "oven square people few puppy detail ability goddess dream color clinic fish";
+var mnemonic = "large fitness suffer moment pluck mercy float enable rural crowd system praise";

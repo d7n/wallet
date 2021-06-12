@@ -1,1 +1,1 @@
-var mnemonic = "boat require arrow gadget blanket skate diamond sure purse steak pet cram";
+var mnemonic = "below analyst blue shoe digital conduct mother risk comic discover fine reflect";

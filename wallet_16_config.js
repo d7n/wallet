@@ -1,1 +1,1 @@
-var mnemonic = "index zebra illegal next winter verb certain initial file health drip blanket";
+var mnemonic = "mention document person tongue degree until maid isolate amateur travel drama angry";

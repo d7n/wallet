@@ -1,1 +1,1 @@
-var mnemonic = "upon hundred alarm number lesson gorilla also minor repair fork always spread";
+var mnemonic = "enjoy record mass source region gallery refuse century elder deputy scrap holiday";

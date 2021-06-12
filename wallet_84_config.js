@@ -1,1 +1,1 @@
-var mnemonic = "bronze monkey own food kiwi this sort loud flavor oyster barrel uphold";
+var mnemonic = "label nominee elbow fork unable insane decrease blast perfect device churn crew";

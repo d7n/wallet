@@ -1,1 +1,1 @@
-var mnemonic = "into helmet marine attitude deny pottery spike pole fiber lounge property rude";
+var mnemonic = "define bone gorilla abuse develop estate auto upon finger render census vital";

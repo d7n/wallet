@@ -1,1 +1,1 @@
-var mnemonic = "still six maple blush hand embark echo cement dose remind pen trophy";
+var mnemonic = "almost person fury truly bone consider never inject fatal wire window item";

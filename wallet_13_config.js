@@ -1,1 +1,1 @@
-var mnemonic = "desk ticket emotion man earn region debris embody equip fossil tuition biology";
+var mnemonic = "narrow topic gain occur spray season embody power main second elder round";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm betray glimpse bright fade panda area submit rocket laundry silk time";
+var mnemonic = "family make unhappy guitar knee normal session burst entry illness alarm very";

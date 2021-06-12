@@ -1,1 +1,1 @@
-var mnemonic = "ecology impact century rookie glow book damp spice always know buyer typical";
+var mnemonic = "proud runway resemble series equal biology pepper vast husband path gauge very";

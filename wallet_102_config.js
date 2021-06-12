@@ -1,1 +1,1 @@
-var mnemonic = "rally adapt absorb aunt wrap alone cook virus drive mistake pottery camera";
+var mnemonic = "food earn dinosaur choice stable toast illness life problem tray borrow flush";

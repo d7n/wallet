@@ -1,1 +1,1 @@
-var mnemonic = "pet defy iron radio crouch hat scene opera symptom wink type pig";
+var mnemonic = "bacon turkey luxury symptom coach drama sound group depart morning index resist";

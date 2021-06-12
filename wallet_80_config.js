@@ -1,1 +1,1 @@
-var mnemonic = "rack job rough pudding faith verify nurse doctor hockey fossil kit urge";
+var mnemonic = "air virus learn piano cupboard fold increase side then equal hurdle elegant";

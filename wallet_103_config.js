@@ -1,1 +1,1 @@
-var mnemonic = "noble obvious pistol basket shoe biology square hard total bread spice off";
+var mnemonic = "lamp pave same inside off flight flock record obscure soda payment sure";

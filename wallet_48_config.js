@@ -1,1 +1,1 @@
-var mnemonic = "envelope produce eternal sport enhance choice guard little atom simple width ready";
+var mnemonic = "busy oppose report regret crush grape group kid fiber pizza access love";

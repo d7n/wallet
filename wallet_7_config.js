@@ -1,1 +1,1 @@
-var mnemonic = "snow exact cactus chuckle tomorrow inhale bid shove second draw weapon business";
+var mnemonic = "lion east camera soccer twist pistol cave cart urban order embody dumb";

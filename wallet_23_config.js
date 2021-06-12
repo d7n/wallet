@@ -1,1 +1,1 @@
-var mnemonic = "note acoustic usage future spike radio goddess bulk stable sock skirt census";
+var mnemonic = "couch adapt pen decorate vanish near warm flavor target sad spider effort";

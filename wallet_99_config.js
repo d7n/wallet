@@ -1,1 +1,1 @@
-var mnemonic = "produce lemon orphan twist reject swarm fade high comfort throw recall world";
+var mnemonic = "demise push unknown any pet raven random leisure friend ensure palm uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "route review borrow mother inspire final frame cable stool reopen army wear";
+var mnemonic = "august mango inhale problem two clay install subject urban anxiety know life";

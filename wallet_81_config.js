@@ -1,1 +1,1 @@
-var mnemonic = "planet wreck entire allow rough middle ill rate cash drastic earth walk";
+var mnemonic = "pottery note bonus actress fashion menu van promote cargo scene air universe";

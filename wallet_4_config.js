@@ -1,1 +1,1 @@
-var mnemonic = "mean increase nice dutch exchange move ridge make army diary bicycle elevator";
+var mnemonic = "will bulb lucky space arctic drift reveal tone life useless problem state";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy bright black unusual remind tray vehicle kingdom refuse matter kiwi basic";
+var mnemonic = "odor shock have ensure evidence adapt ladder squeeze only rifle august song";

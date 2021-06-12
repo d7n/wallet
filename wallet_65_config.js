@@ -1,1 +1,1 @@
-var mnemonic = "squeeze skirt since dream already drift element burger sock rude reason wire";
+var mnemonic = "size thumb ethics arrange flee advance quit rural area blood plunge aerobic";
