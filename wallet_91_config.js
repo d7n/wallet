@@ -1,1 +1,1 @@
-var mnemonic = "surround genius picnic hero alien artwork bless random exhaust slot cancel congress";
+var mnemonic = "battle album cube slice outer happy slide girl midnight virus pulse nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "join much nasty decade help faith live fury enforce census gather observe";
+var mnemonic = "ankle panel spot prize laptop cube guilt similar foam aspect body about";

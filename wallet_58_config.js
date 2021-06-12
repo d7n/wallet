@@ -1,1 +1,1 @@
-var mnemonic = "lend security embrace vague host express quiz summer subway oxygen guilt tired";
+var mnemonic = "health drastic north merge include wait flavor okay hip convince power social";

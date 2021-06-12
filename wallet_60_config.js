@@ -1,1 +1,1 @@
-var mnemonic = "adapt rule dial remain inch concert electric link coach firm erode razor";
+var mnemonic = "depth anxiety nuclear travel spare together before one ride hockey iron limit";

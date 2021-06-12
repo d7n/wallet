@@ -1,1 +1,1 @@
-var mnemonic = "gorilla firm host start until umbrella glory suspect expire panel net liberty";
+var mnemonic = "exact possible special cluster legend host cargo skill cluster neck gloom holiday";

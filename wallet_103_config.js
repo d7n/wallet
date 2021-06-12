@@ -1,1 +1,1 @@
-var mnemonic = "address image question obscure switch put breeze patrol cute rib virtual slab";
+var mnemonic = "recall push tag kingdom trust pen fatigue mammal gap anger slush mail";

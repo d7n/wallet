@@ -1,1 +1,1 @@
-var mnemonic = "endless double wife very have bar donor sleep story brand guide advance";
+var mnemonic = "tail since garlic brick unfold fee pipe canal trend glory essence science";

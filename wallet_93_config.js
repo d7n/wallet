@@ -1,1 +1,1 @@
-var mnemonic = "blur seven drum garage display police poet carpet ice wrong then someone";
+var mnemonic = "private knife cost humble myth change beach neutral post bonus head coyote";

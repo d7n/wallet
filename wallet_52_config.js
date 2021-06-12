@@ -1,1 +1,1 @@
-var mnemonic = "hospital cliff series page year divide provide make bleak donate unusual napkin";
+var mnemonic = "recipe song impose congress smoke guilt tourist uphold truth lend wash sick";

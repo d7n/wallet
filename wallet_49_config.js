@@ -1,1 +1,1 @@
-var mnemonic = "reunion live friend hundred comic purse grab analyst middle speak badge submit";
+var mnemonic = "find side law toddler sight empower shell position prosper bronze wheel tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "captain depend original armor alone you cycle damp foster defy rookie start";
+var mnemonic = "ahead juice found hire behave among dance black cube unusual various orange";

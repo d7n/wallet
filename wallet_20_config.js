@@ -1,1 +1,1 @@
-var mnemonic = "apology logic hello coral hip awesome noise foot anchor resist plunge city";
+var mnemonic = "planet napkin minimum blossom delay cruise chronic future vast modify enhance evil";

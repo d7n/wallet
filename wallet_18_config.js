@@ -1,1 +1,1 @@
-var mnemonic = "hockey reopen tomato walnut rice diamond easily harvest fat grass diagram cherry";
+var mnemonic = "prefer laundry immune famous buyer undo train swim once frown enable have";

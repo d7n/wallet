@@ -1,1 +1,1 @@
-var mnemonic = "recall auto news credit arrest choose order capable smoke fiction unhappy polar";
+var mnemonic = "scrap captain tiny kidney young theory satisfy since own fever toddler bid";

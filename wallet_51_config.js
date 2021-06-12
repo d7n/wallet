@@ -1,1 +1,1 @@
-var mnemonic = "involve soap bundle swear chapter oblige leisure cause smile artist search twist";
+var mnemonic = "mutual absorb circle domain again attitude inherit ripple zebra inquiry risk ripple";

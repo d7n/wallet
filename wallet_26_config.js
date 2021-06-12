@@ -1,1 +1,1 @@
-var mnemonic = "lunch client wash network laundry chef quit biology inject electric expand oak";
+var mnemonic = "bid never inner trip wrist struggle solution joy crack mobile oyster fiber";

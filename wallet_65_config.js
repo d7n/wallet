@@ -1,1 +1,1 @@
-var mnemonic = "jewel rice cliff void gold mesh hope yellow screen piece steel junk";
+var mnemonic = "bridge banner dial tackle slab access bless weird gauge language unfair mule";

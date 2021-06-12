@@ -1,1 +1,1 @@
-var mnemonic = "grunt detail little salt shoulder cube warrior airport wet crystal improve easily";
+var mnemonic = "creek capable main tissue display flower office busy spawn hen remove impact";

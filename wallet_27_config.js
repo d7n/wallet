@@ -1,1 +1,1 @@
-var mnemonic = "industry north delay jar link person derive brave garage toilet protect wreck";
+var mnemonic = "cement finish escape device supply east vessel enhance train merry canoe that";

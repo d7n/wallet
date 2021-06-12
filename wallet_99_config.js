@@ -1,1 +1,1 @@
-var mnemonic = "decrease travel arrest logic use use attitude trim reason urge box trophy";
+var mnemonic = "urge famous trim dune tunnel practice degree harvest chat avocado popular cute";

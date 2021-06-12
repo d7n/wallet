@@ -1,1 +1,1 @@
-var mnemonic = "front rapid buzz trophy afraid trick version only salmon tape hollow verify";
+var mnemonic = "hill where opinion warfare fun valid toss stock choice bacon teach auto";

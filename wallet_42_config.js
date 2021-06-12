@@ -1,1 +1,1 @@
-var mnemonic = "census clog gauge destroy until into company jeans spend census omit circle";
+var mnemonic = "split spray curve air thunder fantasy slender make cross fatigue life fat";

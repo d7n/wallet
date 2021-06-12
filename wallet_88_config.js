@@ -1,1 +1,1 @@
-var mnemonic = "real round trap more grab middle afraid edit pair route sunny turn";
+var mnemonic = "shallow gold spawn skate very ankle wrong million jacket opinion curtain rib";

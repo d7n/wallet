@@ -1,1 +1,1 @@
-var mnemonic = "voyage raw sound country allow nominee flush have moment awake citizen seven";
+var mnemonic = "powder antenna north already whale resemble dance tonight plug pipe beauty crucial";

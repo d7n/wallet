@@ -1,1 +1,1 @@
-var mnemonic = "ostrich casino dune awful correct chase laundry oppose jeans insane picnic eyebrow";
+var mnemonic = "drink enough shrimp educate rapid paddle erupt rural minor great spot chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "decline club erode cupboard cram upset dress gain cliff impulse exclude ship";
+var mnemonic = "canal choose mother such adjust patient valid usual silk pass length saddle";

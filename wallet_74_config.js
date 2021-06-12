@@ -1,1 +1,1 @@
-var mnemonic = "benefit receive accident anchor muscle around angry salmon once dial planet love";
+var mnemonic = "angry athlete catch symptom sick gadget gesture desert hire quarter slab winter";

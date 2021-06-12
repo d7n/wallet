@@ -1,1 +1,1 @@
-var mnemonic = "time salt supreme gain sell repeat today alone diamond banner cargo force";
+var mnemonic = "lizard chef board session gossip total owner proud start west warfare below";

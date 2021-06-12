@@ -1,1 +1,1 @@
-var mnemonic = "busy wool sign page jump drink turkey index wage series erupt arena";
+var mnemonic = "topple motor jeans tail kind faint voyage way drama puppy unique price";

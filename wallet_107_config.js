@@ -1,1 +1,1 @@
-var mnemonic = "feature mystery ski bring pass thing simple garage afford library flight visual";
+var mnemonic = "flame meat minute eyebrow replace warrior hero discover quantum fancy bid basket";

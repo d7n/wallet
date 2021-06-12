@@ -1,1 +1,1 @@
-var mnemonic = "amount problem duty kangaroo battle analyst taste neutral length insane atom rally";
+var mnemonic = "entire vacuum vocal action radio vote split gorilla south film unknown summer";

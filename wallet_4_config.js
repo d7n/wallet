@@ -1,1 +1,1 @@
-var mnemonic = "prefer ozone hello skirt glance soda calm join faint woman person critic";
+var mnemonic = "alarm roast decrease wink easy box average garbage speak harvest domain armor";

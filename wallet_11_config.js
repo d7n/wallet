@@ -1,1 +1,1 @@
-var mnemonic = "verify lion ripple yellow creek broccoli ocean loud outer ill depth daring";
+var mnemonic = "onion orient either surface mesh later emotion onion topic venue secret parrot";

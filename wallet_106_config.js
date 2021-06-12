@@ -1,1 +1,1 @@
-var mnemonic = "combine heavy plastic entry output list monster oyster ten tuition spirit title";
+var mnemonic = "novel pond join connect void this that evoke tell butter flower coffee";

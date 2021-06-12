@@ -1,1 +1,1 @@
-var mnemonic = "furnace addict increase echo drop crowd hello number chuckle walk tree depart";
+var mnemonic = "gold mandate pact tomorrow unveil pool chef accident endless cabbage dismiss basket";

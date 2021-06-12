@@ -1,1 +1,1 @@
-var mnemonic = "situate lesson olympic kit similar dirt tone guard check pave swear museum";
+var mnemonic = "club enough swing border remind rug calm rhythm security unlock then oval";

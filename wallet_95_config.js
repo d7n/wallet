@@ -1,1 +1,1 @@
-var mnemonic = "busy genuine bus dice poem increase figure marriage symbol term price square";
+var mnemonic = "also pause capable drop media echo settle buyer dumb asset present original";

@@ -1,1 +1,1 @@
-var mnemonic = "artist dial furnace suit toe tennis grain capable bag upgrade spawn manual";
+var mnemonic = "grain walnut miracle sick short race grunt walk reflect canoe slim scan";

@@ -1,1 +1,1 @@
-var mnemonic = "scan bottom mother sentence spray teach damp blanket hood upper wife become";
+var mnemonic = "local afraid loan month motion example dwarf guess destroy echo buzz truly";

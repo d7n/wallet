@@ -1,1 +1,1 @@
-var mnemonic = "bunker baby ride hotel stove twin quit isolate author rocket face whale";
+var mnemonic = "gossip adjust federal above sweet wait secret velvet speak end muscle noble";

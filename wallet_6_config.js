@@ -1,1 +1,1 @@
-var mnemonic = "enough asset repair jungle news balance soon guide use grab airport over";
+var mnemonic = "dad ski glide gain awkward ritual accident can wing element tortoise hammer";

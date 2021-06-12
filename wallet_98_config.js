@@ -1,1 +1,1 @@
-var mnemonic = "essence title favorite waste wagon fox behind second dolphin wrong hundred oval";
+var mnemonic = "fork cereal upset sponsor zero skate enrich census mosquito jaguar theory tragic";

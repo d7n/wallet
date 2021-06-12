@@ -1,1 +1,1 @@
-var mnemonic = "share arena crash poverty betray mystery cook venture hover antique slogan sort";
+var mnemonic = "lawsuit lesson easy glare install relax aspect chronic spray broom inspire ghost";

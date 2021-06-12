@@ -1,1 +1,1 @@
-var mnemonic = "help can spend enhance appear where pill erosion goose august report field";
+var mnemonic = "depart embark fish cream desk jungle brand success long tragic exact say";

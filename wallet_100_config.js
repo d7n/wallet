@@ -1,1 +1,1 @@
-var mnemonic = "loop emotion nurse reunion holiday explain magic action elite rabbit witness unit";
+var mnemonic = "sail brisk predict anxiety deposit what present runway cousin round summer peace";

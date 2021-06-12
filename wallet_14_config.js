@@ -1,1 +1,1 @@
-var mnemonic = "observe few salad enough any exercise lecture rich luxury trap asthma dust";
+var mnemonic = "sun polar suggest badge lady record food crumble tuition where zero grit";

@@ -1,1 +1,1 @@
-var mnemonic = "then argue rubber barrel shop company number myth explain solve pave near";
+var mnemonic = "fame trouble turtle decline employ royal scatter toward barely barely burger cart";

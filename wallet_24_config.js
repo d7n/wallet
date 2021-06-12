@@ -1,1 +1,1 @@
-var mnemonic = "expose broom velvet choice clip margin suit still web security slot arena";
+var mnemonic = "second fiber flight crumble latin subject gentle rare cruel will basic easily";

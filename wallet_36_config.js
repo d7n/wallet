@@ -1,1 +1,1 @@
-var mnemonic = "trouble angry trim control game metal shy kit much life tone oval";
+var mnemonic = "clean venture jaguar gown scissors need nominee dove absorb reform hello ring";

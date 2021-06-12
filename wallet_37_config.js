@@ -1,1 +1,1 @@
-var mnemonic = "actor casual shoulder argue program case cream scan year pear sauce mutual";
+var mnemonic = "seat music ring dust size heart very fox film shrug memory anchor";

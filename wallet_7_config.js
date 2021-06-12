@@ -1,1 +1,1 @@
-var mnemonic = "gravity best ethics glance inject goddess horror jar cradle funny absorb kitchen";
+var mnemonic = "deputy leopard two simple salt subject alcohol shiver uniform easily harsh mixture";

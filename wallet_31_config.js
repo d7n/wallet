@@ -1,1 +1,1 @@
-var mnemonic = "solution elder regular swap nice bag saddle erase worth train tail child";
+var mnemonic = "cook lobster clay cabin stool neglect sport blouse sign fetch believe festival";

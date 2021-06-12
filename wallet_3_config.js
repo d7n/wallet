@@ -1,1 +1,1 @@
-var mnemonic = "shove keen concert hamster bench relax rule shield balance flush puppy wall";
+var mnemonic = "nominee runway mushroom avoid fossil spoil copy arrow wine chat exile curtain";

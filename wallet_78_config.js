@@ -1,1 +1,1 @@
-var mnemonic = "oval acid retire october blood initial fantasy endless water season ranch addict";
+var mnemonic = "dance canoe cousin erupt upgrade vacuum mountain found render trouble outside fuel";

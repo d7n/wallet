@@ -1,1 +1,1 @@
-var mnemonic = "muscle that stick clock wife awesome now security mix duty long patch";
+var mnemonic = "december chronic hood input chicken panda tongue bacon insane chase foam tide";

@@ -1,1 +1,1 @@
-var mnemonic = "total ranch away kit hurry meat stadium green vacant strike direct purchase";
+var mnemonic = "arrow jelly solve use verb comfort icon satisfy what arctic absurd mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp museum gather canyon wire equal clinic neglect type violin winner ramp";
+var mnemonic = "cherry phrase nominee rocket language exit piano slot worth search useless mercy";

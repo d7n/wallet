@@ -1,1 +1,1 @@
-var mnemonic = "pig predict conduct raw garage ask volcano endless path peanut wife wise";
+var mnemonic = "repair lake lemon define recall second loan deposit before icon toast appear";

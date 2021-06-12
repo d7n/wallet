@@ -1,1 +1,1 @@
-var mnemonic = "coil decline safe until title praise manage recall miss village add brush";
+var mnemonic = "input mango they pledge tower gravity fantasy machine chair weather suit hunt";

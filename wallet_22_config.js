@@ -1,1 +1,1 @@
-var mnemonic = "verb coyote game claw gauge rally struggle tag sudden mixture forest feel";
+var mnemonic = "enemy lawn hybrid that minimum panther all shine upgrade adult exclude leisure";

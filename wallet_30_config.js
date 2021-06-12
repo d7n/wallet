@@ -1,1 +1,1 @@
-var mnemonic = "farm reopen gloom stable vote album noodle ridge oak family fault rebel";
+var mnemonic = "glance thank imitate unveil speed eight unaware casino fame final pulp orient";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic palm recall all cake provide put flat depth clip maple seat";
+var mnemonic = "select spare lunch romance pattern average sibling crew clog clever amused fragile";

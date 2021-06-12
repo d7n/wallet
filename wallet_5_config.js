@@ -1,1 +1,1 @@
-var mnemonic = "sound picnic have isolate depend move chief soap orbit crystal runway pencil";
+var mnemonic = "way ordinary behind middle edge forward collect column pool question middle merit";

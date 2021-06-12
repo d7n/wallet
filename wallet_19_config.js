@@ -1,1 +1,1 @@
-var mnemonic = "auction clarify library brown elder online alley topple borrow there often brass";
+var mnemonic = "myth seat silent surge embody bread public thunder cheap swarm deposit runway";

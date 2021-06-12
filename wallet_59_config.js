@@ -1,1 +1,1 @@
-var mnemonic = "gloom lucky enroll eight start normal label equal fish unfair focus motor";
+var mnemonic = "tenant youth negative system spawn mixed icon angry wheat razor often staff";

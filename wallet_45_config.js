@@ -1,1 +1,1 @@
-var mnemonic = "runway faint jelly maze earth demand absorb glue panda leisure glide apple";
+var mnemonic = "sweet noodle embody civil denial rocket iron width brisk office belt switch";

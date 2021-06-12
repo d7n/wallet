@@ -1,1 +1,1 @@
-var mnemonic = "head gym arm small payment call unique sugar badge scout crisp click";
+var mnemonic = "life again kick proof jacket rally stay bullet scout report approve clean";

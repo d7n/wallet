@@ -1,1 +1,1 @@
-var mnemonic = "hobby gravity picture wasp symptom ginger evidence call noodle custom crunch rebuild";
+var mnemonic = "sing design three episode announce price jelly claw trumpet cushion cross donate";

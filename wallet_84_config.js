@@ -1,1 +1,1 @@
-var mnemonic = "enact display dawn giant hammer sick canvas tackle north right solve pull";
+var mnemonic = "catch turn cash hand slab faint cake access swear good angle orphan";

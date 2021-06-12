@@ -1,1 +1,1 @@
-var mnemonic = "crash squeeze cart gesture author lemon arm fatigue island primary friend mad";
+var mnemonic = "two rally shell rent quick note salmon shaft cigar dragon universe limit";

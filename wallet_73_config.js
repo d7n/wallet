@@ -1,1 +1,1 @@
-var mnemonic = "symptom brown robot fish access wide general insane enlist matrix either found";
+var mnemonic = "coral ginger spoon pencil dish mystery nominee dial pipe carbon federal maze";

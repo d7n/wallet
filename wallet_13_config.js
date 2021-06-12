@@ -1,1 +1,1 @@
-var mnemonic = "use parrot twist purity shrug wood hover treat trash color roof armor";
+var mnemonic = "silent awake biology example glove name seed collect soccer pool dial sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "poem sunny safe item excuse scene skate pink bike outer crater seek";
+var mnemonic = "catch endless police guard fatigue protect east east torch wine valid chimney";

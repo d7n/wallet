@@ -1,1 +1,1 @@
-var mnemonic = "only novel theme grit end dutch modify humble seven unit sun large";
+var mnemonic = "gold beauty baby joy steak mass cruel tail web glide actress nation";

@@ -1,1 +1,1 @@
-var mnemonic = "echo domain convince tobacco diet memory evoke wear indoor slab ill super";
+var mnemonic = "claw news duck moral gauge valley clog speak science mechanic umbrella galaxy";

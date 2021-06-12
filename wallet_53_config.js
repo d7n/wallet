@@ -1,1 +1,1 @@
-var mnemonic = "enforce nature rally globe you night charge awful inherit valid salad desk";
+var mnemonic = "extend abandon there employ learn tobacco fever record myself nation hurry evoke";

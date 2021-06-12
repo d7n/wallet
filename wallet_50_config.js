@@ -1,1 +1,1 @@
-var mnemonic = "spell catch suspect crazy estate buzz boring now motor two frost post";
+var mnemonic = "since element immense claw convince letter pioneer submit faith draw burden half";

@@ -1,1 +1,1 @@
-var mnemonic = "alien vanish dust dentist panel orange another fragile unveil bachelor master prefer";
+var mnemonic = "cross report vocal aunt liar holiday auto earn lake analyst off way";

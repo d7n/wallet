@@ -1,1 +1,1 @@
-var mnemonic = "jump blouse alarm gaze silly forum bottom leaf similar need hybrid fog";
+var mnemonic = "over anchor hint sibling cross submit roof buyer robust mail praise dish";

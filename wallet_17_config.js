@@ -1,1 +1,1 @@
-var mnemonic = "vacuum pen bullet design region mix hurry now unable present degree zoo";
+var mnemonic = "great arch enable make icon endless among neutral chase width toward property";

@@ -1,1 +1,1 @@
-var mnemonic = "govern easily catch fit theory mom inhale wool ball faith tomato pond";
+var mnemonic = "metal traffic decide ride icon stairs other cart toy debate evidence prize";

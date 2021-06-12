@@ -1,1 +1,1 @@
-var mnemonic = "paddle clutch fan liberty squirrel series finger hub switch turn regular pepper";
+var mnemonic = "nominee usual dry grape topple horse artefact place robust depth harvest enjoy";

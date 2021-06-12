@@ -1,1 +1,1 @@
-var mnemonic = "cart caught true multiply emotion view return notice harsh say swallow camp";
+var mnemonic = "forget great example salon banner ribbon giggle bean fish panther reject original";

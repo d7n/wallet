@@ -1,1 +1,1 @@
-var mnemonic = "language income teach path camera device ice home pool spot draw oxygen";
+var mnemonic = "verify can right mind flavor heavy vintage expect member panel indicate digital";

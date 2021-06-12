@@ -1,1 +1,1 @@
-var mnemonic = "city oyster craft mansion trap arch valid grid junk decide museum universe";
+var mnemonic = "kick elegant spell metal border pill ladder unable shop fame what illegal";

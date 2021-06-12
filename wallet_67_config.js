@@ -1,1 +1,1 @@
-var mnemonic = "ask clap begin spatial orange obey guitar car stock super desert stable";
+var mnemonic = "slight royal gold extra youth ignore juice crawl bid hurry equal federal";

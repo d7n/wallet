@@ -1,1 +1,1 @@
-var mnemonic = "media member nephew execute kingdom fashion valley inflict network erosion attack gap";
+var mnemonic = "century then dumb party vacuum emotion fold noise expire expand brain slender";

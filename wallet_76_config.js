@@ -1,1 +1,1 @@
-var mnemonic = "now siege supreme foam story deal organ awake attract slogan claim object";
+var mnemonic = "accident alarm sister topic genuine benefit dignity reflect decline name elephant train";

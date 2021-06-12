@@ -1,1 +1,1 @@
-var mnemonic = "poem aisle early foster shallow wish cat heavy giraffe disorder swallow connect";
+var mnemonic = "pulp paper false wedding found submit problem goddess jealous room jar total";

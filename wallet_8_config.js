@@ -1,1 +1,1 @@
-var mnemonic = "walnut load tomorrow involve deer travel thank fiction boost symbol mad zebra";
+var mnemonic = "barrel ill fly slide worth leopard brick shine pulp eyebrow fabric patch";
