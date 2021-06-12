@@ -1,1 +1,1 @@
-var mnemonic = "viable winner ankle fluid later draw winner sing main envelope fall month";
+var mnemonic = "clog circle rebuild style marriage trumpet pair grass tiny gas twin danger";

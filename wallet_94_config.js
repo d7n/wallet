@@ -1,1 +1,1 @@
-var mnemonic = "inner copper supreme run cloth shop casual program green faint write corn";
+var mnemonic = "morning moment remain green start neutral build run fluid scrap sick invite";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake choose pulse brass owner feel joke together hover crucial since try";
+var mnemonic = "silver melody illness token train fancy able student hedgehog plastic quantum symptom";

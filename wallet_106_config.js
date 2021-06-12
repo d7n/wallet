@@ -1,1 +1,1 @@
-var mnemonic = "raven swap notice dynamic horror someone prevent nice visit will novel eagle";
+var mnemonic = "chronic adjust sure hawk fly sting garage embark owner vacant rich century";

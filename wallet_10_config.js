@@ -1,1 +1,1 @@
-var mnemonic = "come amazing scissors lumber squeeze exercise peanut indoor intact another accident mechanic";
+var mnemonic = "spy office hurdle fine sand salad museum pink emotion midnight wrestle second";

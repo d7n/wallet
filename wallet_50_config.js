@@ -1,1 +1,1 @@
-var mnemonic = "fatal famous cry calm win obey tomorrow owner old plastic extend leave";
+var mnemonic = "trophy armor maximum labor false attitude boat joy rubber creek describe maze";

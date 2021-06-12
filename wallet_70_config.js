@@ -1,1 +1,1 @@
-var mnemonic = "hospital arrest combine peanut funny cram hybrid erode control they blossom gadget";
+var mnemonic = "meadow furnace liberty powder reform gentle emotion hawk student orbit around fringe";

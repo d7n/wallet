@@ -1,1 +1,1 @@
-var mnemonic = "rabbit polar coral melody rather drop much region jump special breeze rack";
+var mnemonic = "blouse brisk crumble olympic fluid art seek offer rain jeans mystery forest";

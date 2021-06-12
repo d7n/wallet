@@ -1,1 +1,1 @@
-var mnemonic = "car jazz myth winter wasp escape first hood owner boss stone anxiety";
+var mnemonic = "frequent clump monster august always blanket mango teach gloom truth speed rather";

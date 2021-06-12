@@ -1,1 +1,1 @@
-var mnemonic = "manage garden piece ribbon parade put chase range frown stay moment material";
+var mnemonic = "razor legal gesture zebra delay deposit unusual history soccer street cat wage";

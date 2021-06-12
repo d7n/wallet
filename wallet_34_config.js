@@ -1,1 +1,1 @@
-var mnemonic = "buzz toss garden hidden sponsor beach regular parade alley nice keen provide";
+var mnemonic = "more quote destroy pulp stay minor debate smile borrow thumb useless vanish";

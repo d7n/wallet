@@ -1,1 +1,1 @@
-var mnemonic = "deal town belt leisure dust pact gesture gesture artefact park merit toward";
+var mnemonic = "clarify tiger ridge marine crumble problem quit grant attend fatigue logic thought";

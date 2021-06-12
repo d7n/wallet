@@ -1,1 +1,1 @@
-var mnemonic = "pledge conduct thought exit hammer unlock lab group segment tone raven twenty";
+var mnemonic = "punch another pistol catalog agree gold warm shield finger food online height";

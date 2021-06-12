@@ -1,1 +1,1 @@
-var mnemonic = "record junk olympic evolve shadow right frozen large genre sign frown opinion";
+var mnemonic = "need shiver idea shove toddler near strategy color sheriff top secret choose";

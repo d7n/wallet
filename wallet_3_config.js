@@ -1,1 +1,1 @@
-var mnemonic = "warfare sustain spare wreck leader stool come hover plunge collect drop oppose";
+var mnemonic = "reveal feel chimney throw squeeze shop stem female pretty fatigue lake quarter";

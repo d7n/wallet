@@ -1,1 +1,1 @@
-var mnemonic = "grid around trade shop entry sheriff antique biology escape horse hub ready";
+var mnemonic = "bubble come scout when dolphin much parent build market antique future begin";

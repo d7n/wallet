@@ -1,1 +1,1 @@
-var mnemonic = "embody harsh bridge polar divorce license struggle because major waste cherry dutch";
+var mnemonic = "extend marble chuckle before alien shy edit invite ethics disagree slender certain";

@@ -1,1 +1,1 @@
-var mnemonic = "truly record pulse tube stock fragile cigar test jelly project possible often";
+var mnemonic = "banner custom panic wet choice must bundle alpha tuition rare copy index";

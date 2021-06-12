@@ -1,1 +1,1 @@
-var mnemonic = "purpose lunar hole cancel smart confirm pepper duck together help globe noble";
+var mnemonic = "group quarter scorpion state process sleep match ability coral dizzy brush scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "onion struggle edge enroll humble catch size artefact range sorry gaze moral";
+var mnemonic = "lottery space digital phrase furnace fancy unique gallery muscle canoe rather interest";

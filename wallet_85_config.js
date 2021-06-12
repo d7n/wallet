@@ -1,1 +1,1 @@
-var mnemonic = "layer popular appear relief opinion rather frost install torch pupil scout rival";
+var mnemonic = "meadow unlock brick voyage solid cricket mercy number account sniff boring private";

@@ -1,1 +1,1 @@
-var mnemonic = "better beach voyage cube monkey bubble core chunk reject scrap strike water";
+var mnemonic = "youth frost coil wash stone hurt stage increase hat receive panda crystal";

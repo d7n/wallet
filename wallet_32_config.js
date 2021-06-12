@@ -1,1 +1,1 @@
-var mnemonic = "future convince decline strong amused slab trumpet knife hawk earth cart impact";
+var mnemonic = "flip silver upgrade lonely share infant over lamp noble upon wait plug";

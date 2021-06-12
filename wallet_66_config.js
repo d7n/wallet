@@ -1,1 +1,1 @@
-var mnemonic = "cactus insane elite book ghost favorite hockey betray civil gallery combine claim";
+var mnemonic = "anger update juice employ box stone system february uncover chunk polar brush";

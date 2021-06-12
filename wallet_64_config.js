@@ -1,1 +1,1 @@
-var mnemonic = "shove rival lizard avoid void path later sea family unusual unhappy grace";
+var mnemonic = "wide duck trust slight liquid side balcony picnic someone skirt anxiety choice";

@@ -1,1 +1,1 @@
-var mnemonic = "script snake man cross assume token cereal debris write system surprise nut";
+var mnemonic = "edit sell plunge labor federal medal sugar word nasty guide total lounge";

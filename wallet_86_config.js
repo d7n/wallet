@@ -1,1 +1,1 @@
-var mnemonic = "scale public addict plastic blood cause staff wall charge column monster swear";
+var mnemonic = "frost shoe idea cheese bubble blouse slot swift surge combine exercise chief";

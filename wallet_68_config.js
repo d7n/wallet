@@ -1,1 +1,1 @@
-var mnemonic = "lock soul seminar census reform pony lizard antenna youth thunder tent deputy";
+var mnemonic = "faith match duck outside erosion witness infant middle verify stock all economy";

@@ -1,1 +1,1 @@
-var mnemonic = "duck crane crack tenant carry coin time mansion tag evidence also hurdle";
+var mnemonic = "double palm outside exhibit birth olive peasant vacuum float usage cotton brisk";

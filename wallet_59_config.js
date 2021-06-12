@@ -1,1 +1,1 @@
-var mnemonic = "party latin dust pony pledge hold boss blanket spider finish unable layer";
+var mnemonic = "arch hen say regular slush grocery system staff seat street correct traffic";

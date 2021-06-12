@@ -1,1 +1,1 @@
-var mnemonic = "argue toward room genuine cabin silver jungle dash actual document life beyond";
+var mnemonic = "ankle time reject carbon slush aspect recipe quarter hour skin fragile fresh";

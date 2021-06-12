@@ -1,1 +1,1 @@
-var mnemonic = "rubber suggest panel more awesome void film budget bicycle toe immense toast";
+var mnemonic = "payment town earth cream very put erupt party west crater glove diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch husband trap juice cycle evidence school fluid spoon lecture ketchup produce";
+var mnemonic = "again erupt bike thing stay clarify crash hobby casino junk when later";

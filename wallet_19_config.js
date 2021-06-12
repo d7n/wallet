@@ -1,1 +1,1 @@
-var mnemonic = "exhaust tent dream supreme edit orchard token rotate marble protect hub patient";
+var mnemonic = "script fluid until rapid ancient cannon shield polar high warrior settle high";

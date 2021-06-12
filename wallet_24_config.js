@@ -1,1 +1,1 @@
-var mnemonic = "speed noise alert diamond tower during goat visual favorite day collect poverty";
+var mnemonic = "rely purpose option range main sword rent frog ball amused plastic good";

@@ -1,1 +1,1 @@
-var mnemonic = "shield rather coffee snow olympic bus into soft inject evidence grow tray";
+var mnemonic = "flash clinic verb primary crane physical effort virtual pear axis coast broccoli";

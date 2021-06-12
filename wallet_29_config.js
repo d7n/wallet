@@ -1,1 +1,1 @@
-var mnemonic = "board rather ribbon myself knife come correct obscure thank vivid borrow help";
+var mnemonic = "lyrics nation sound increase damage warrior image monitor luggage jump choose empty";

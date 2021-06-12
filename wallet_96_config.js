@@ -1,1 +1,1 @@
-var mnemonic = "diet chapter rare minor consider combine suffer glad usage prepare shy sorry";
+var mnemonic = "burst virtual deny post noise convince exotic ghost display emerge deal cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "pond save crash clown fence stand raw resemble scrub omit axis exile";
+var mnemonic = "history resource elevator knock remember huge tooth ensure female spray police label";

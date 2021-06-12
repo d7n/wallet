@@ -1,1 +1,1 @@
-var mnemonic = "page mammal pig once raccoon primary benefit brush view humble valid ghost";
+var mnemonic = "arrest matrix enter town body social hazard noodle dinner attitude disagree segment";

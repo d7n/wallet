@@ -1,1 +1,1 @@
-var mnemonic = "chat stool hamster beach park follow useless bike length matter tone dove";
+var mnemonic = "box desk shy argue ghost stereo cram oval pave winner dove inhale";

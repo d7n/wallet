@@ -1,1 +1,1 @@
-var mnemonic = "come tonight gorilla menu time office profit avoid ridge impose wheat apology";
+var mnemonic = "pet school found couch output fruit winter drama wage pink country elder";

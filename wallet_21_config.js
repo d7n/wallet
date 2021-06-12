@@ -1,1 +1,1 @@
-var mnemonic = "upon flower rely find thought slogan december awesome already empty great taxi";
+var mnemonic = "truly shock liquid jar elbow slide enemy amateur motor violin owner armed";

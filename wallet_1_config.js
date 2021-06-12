@@ -1,1 +1,1 @@
-var mnemonic = "club famous remember notable cricket clip real innocent valve cash magnet bag";
+var mnemonic = "drink demand cash bench invest daughter help top metal mom sphere lunch";

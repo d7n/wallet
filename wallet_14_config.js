@@ -1,1 +1,1 @@
-var mnemonic = "dinner since grocery pizza gold write glow venue extend damp blade pig";
+var mnemonic = "bounce brush betray special chronic sell spice enhance vacuum early end blue";

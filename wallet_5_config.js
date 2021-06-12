@@ -1,1 +1,1 @@
-var mnemonic = "type divide absorb maximum bless wheat force author excuse tag range ankle";
+var mnemonic = "tip pioneer vanish snow jazz document jungle spike void dune mistake stick";

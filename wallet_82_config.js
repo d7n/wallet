@@ -1,1 +1,1 @@
-var mnemonic = "gold puzzle thing flee letter rural way winner become enlist cycle add";
+var mnemonic = "drum bounce mimic blast large latin vague cheap hotel happy mosquito destroy";

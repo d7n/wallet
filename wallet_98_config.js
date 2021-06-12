@@ -1,1 +1,1 @@
-var mnemonic = "betray organ leaf horror tunnel thought three around engage address super fence";
+var mnemonic = "armor soda company misery uncover dish expire lazy number modify first search";

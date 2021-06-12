@@ -1,1 +1,1 @@
-var mnemonic = "grain shy ask pledge donate window embark spell pizza giggle siren frog";
+var mnemonic = "short ahead exotic style invite notice such voyage glue wasp offer industry";

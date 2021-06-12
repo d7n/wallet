@@ -1,1 +1,1 @@
-var mnemonic = "window shuffle judge fluid obtain brand grab donor similar lizard thank brush";
+var mnemonic = "neck august mutual close key skate regular labor mango misery suggest winter";

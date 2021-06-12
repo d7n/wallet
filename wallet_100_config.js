@@ -1,1 +1,1 @@
-var mnemonic = "charge season better cotton cinnamon dove ramp animal emerge scorpion horror park";
+var mnemonic = "book object amused section child focus behind hen inform jar anxiety decline";

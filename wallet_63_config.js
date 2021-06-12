@@ -1,1 +1,1 @@
-var mnemonic = "biology hurt torch wife color deposit switch barrel soda plug document depend";
+var mnemonic = "hope scorpion brass field clean hint jealous tube arena august rent vendor";

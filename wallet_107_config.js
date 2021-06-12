@@ -1,1 +1,1 @@
-var mnemonic = "solution chapter clarify cabbage exercise hedgehog beef round account body tuition tuna";
+var mnemonic = "fragile sheriff exercise inhale cruel thunder sample century rookie maximum organ gift";

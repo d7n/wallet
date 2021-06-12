@@ -1,1 +1,1 @@
-var mnemonic = "drastic alien swarm call resemble hint mutual doll rug lucky powder charge";
+var mnemonic = "office twelve spray kite year decade depth rail bitter cram budget basic";

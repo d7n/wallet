@@ -1,1 +1,1 @@
-var mnemonic = "caught lyrics legal faculty exhaust cage benefit crunch crowd gossip lake guilt";
+var mnemonic = "shaft eagle almost kiss clinic property arena ranch range ready sand act";

@@ -1,1 +1,1 @@
-var mnemonic = "citizen sadness blossom era episode oval lobster unveil struggle shed ginger electric";
+var mnemonic = "trash then duty silk scorpion yellow stem crouch remind trap address live";

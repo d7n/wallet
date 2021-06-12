@@ -1,1 +1,1 @@
-var mnemonic = "muscle parent distance flight project among reunion merit web common visual adapt";
+var mnemonic = "can small pact reflect rain drama citizen scare suffer island fat faith";

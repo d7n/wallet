@@ -1,1 +1,1 @@
-var mnemonic = "scheme spoil fiber mimic rubber actual device toe popular aim run tennis";
+var mnemonic = "fork another project movie latin immune tape hobby bomb away wish metal";

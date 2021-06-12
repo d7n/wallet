@@ -1,1 +1,1 @@
-var mnemonic = "butter discover fog slab supply prize traffic dial own discover torch brisk";
+var mnemonic = "robot decline unlock degree time scene arrive riot swallow income love service";

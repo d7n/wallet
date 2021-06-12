@@ -1,1 +1,1 @@
-var mnemonic = "tobacco kit mesh bulb source divorce fringe bean call arena wheel salute";
+var mnemonic = "universe gospel avocado laugh crush fiber use pioneer kangaroo blossom wife nasty";

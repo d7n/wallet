@@ -1,1 +1,1 @@
-var mnemonic = "hunt shaft detect soda put depart pull scale flat suspect quiz march";
+var mnemonic = "share lucky edit funny spin session indoor burst business tomorrow zebra song";

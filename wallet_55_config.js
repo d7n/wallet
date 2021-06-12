@@ -1,1 +1,1 @@
-var mnemonic = "artwork essence auto glad outdoor find burger hollow trick friend relief human";
+var mnemonic = "because comic near sea aunt member loan input sea glow suit direct";

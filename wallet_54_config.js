@@ -1,1 +1,1 @@
-var mnemonic = "marriage start lyrics acoustic clean add quiz drop summer barely olympic pass";
+var mnemonic = "nominee want hat valley team video waste various salt eye avoid ribbon";

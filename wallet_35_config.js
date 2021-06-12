@@ -1,1 +1,1 @@
-var mnemonic = "critic shadow horn describe sadness drink short ketchup inhale kiwi describe whisper";
+var mnemonic = "subway eight clever oven spike wave tissue pupil deer card cinnamon grant";

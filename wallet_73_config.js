@@ -1,1 +1,1 @@
-var mnemonic = "bamboo shrug market indicate they caught volcano dragon garment envelope mad arctic";
+var mnemonic = "prefer enough senior token between bread ostrich topic milk fix absurd tide";

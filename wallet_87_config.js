@@ -1,1 +1,1 @@
-var mnemonic = "alter vacuum family feature inner hurdle wing soup woman fan tuna clinic";
+var mnemonic = "master neither discover diet address gain hub swallow theory tray another often";

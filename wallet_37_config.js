@@ -1,1 +1,1 @@
-var mnemonic = "loyal puppy toward chuckle fog weasel plastic bike mistake arrange evil raise";
+var mnemonic = "sting method wire gold sight opinion clown ceiling carry stool recycle crystal";

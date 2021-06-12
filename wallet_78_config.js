@@ -1,1 +1,1 @@
-var mnemonic = "modify vital seek nasty donor crawl foster strategy enact sorry pyramid beyond";
+var mnemonic = "trumpet crew control dress stomach swing praise grief whisper call cover name";

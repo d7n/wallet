@@ -1,1 +1,1 @@
-var mnemonic = "smart farm woman frog laptop mobile list easy animal fringe adjust busy";
+var mnemonic = "math defense cable velvet badge leader avoid merit civil sure couch wire";

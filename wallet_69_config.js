@@ -1,1 +1,1 @@
-var mnemonic = "scare baby insect kitten local cradle thought trust enable february soul flame";
+var mnemonic = "load give agent tilt spice neglect hurdle imitate supply uniform awful razor";

@@ -1,1 +1,1 @@
-var mnemonic = "remove snack armed lucky jacket knee medal online release unhappy update educate";
+var mnemonic = "cupboard congress album online brown total place two brain imitate left brand";

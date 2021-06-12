@@ -1,1 +1,1 @@
-var mnemonic = "dream arch traffic piece armor dynamic forget logic claim subway bridge orient";
+var mnemonic = "border minimum dutch treat margin patch guide zone vibrant trend orbit broom";

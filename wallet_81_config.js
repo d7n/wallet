@@ -1,1 +1,1 @@
-var mnemonic = "swarm relief service summer again sunset legal capital faint meat eternal giggle";
+var mnemonic = "nose bar fabric swear risk crater cute forum shiver essay level glance";

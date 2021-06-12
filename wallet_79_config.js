@@ -1,1 +1,1 @@
-var mnemonic = "short sunny pepper analyst title submit visa gospel napkin witness stem genius";
+var mnemonic = "old flock rude cloud blade child spin young proud east equal wealth";

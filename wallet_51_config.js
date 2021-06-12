@@ -1,1 +1,1 @@
-var mnemonic = "autumn ozone plate sure task crack honey attend matrix behave sight screen";
+var mnemonic = "label carpet chicken nuclear embrace cave repair expose jealous coconut stereo crisp";

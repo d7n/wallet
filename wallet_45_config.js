@@ -1,1 +1,1 @@
-var mnemonic = "imitate hurdle foot youth crumble clock repeat clinic ritual shallow rack noble";
+var mnemonic = "index industry effort bike champion shadow burst deposit tattoo adjust upon earth";

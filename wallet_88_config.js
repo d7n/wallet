@@ -1,1 +1,1 @@
-var mnemonic = "steel unlock vapor parade teach quiz involve photo birth sketch scene leg";
+var mnemonic = "derive mushroom reveal arrest auto october nominee pill joy lawn enlist idle";

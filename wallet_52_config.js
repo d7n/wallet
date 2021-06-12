@@ -1,1 +1,1 @@
-var mnemonic = "choice slot draft lab purchase airport demand lecture device client into kiss";
+var mnemonic = "audit flock uniform glory pass foster sunny table engage march question cry";

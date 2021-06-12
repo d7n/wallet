@@ -1,1 +1,1 @@
-var mnemonic = "topic update cluster grape beach top any moral jacket disagree toast twelve";
+var mnemonic = "citizen clarify power awkward ill float agent crop ignore autumn leisure narrow";

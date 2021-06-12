@@ -1,1 +1,1 @@
-var mnemonic = "fortune door coyote print pause wire bar violin layer net else young";
+var mnemonic = "vocal giggle two paddle excuse pig member remind behind hood desk quote";

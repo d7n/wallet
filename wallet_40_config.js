@@ -1,1 +1,1 @@
-var mnemonic = "dragon gentle trap random modify host cherry carbon brisk inflict enhance cement";
+var mnemonic = "flush marble govern guess portion half genius volcano maple hour oven pluck";

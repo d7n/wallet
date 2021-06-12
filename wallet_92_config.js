@@ -1,1 +1,1 @@
-var mnemonic = "neck hole include impact elephant mixture draft abandon poem always response addict";
+var mnemonic = "forum super topic jaguar cram tank same infant slim resist sign logic";
