@@ -1,1 +1,1 @@
-var mnemonic = "coast payment ribbon bonus truck city eight general raw celery left decrease";
+var mnemonic = "net young remove sell camera morning lamp result abstract staff leave system";

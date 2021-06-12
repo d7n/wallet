@@ -1,1 +1,1 @@
-var mnemonic = "keen language drift ensure loyal company clever more trick culture level cousin";
+var mnemonic = "carbon gospel kidney person tobacco permit joy bag confirm electric sphere gasp";

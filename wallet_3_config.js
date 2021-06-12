@@ -1,1 +1,1 @@
-var mnemonic = "second biology fatal general goose steak lucky cream talent treat scheme stay";
+var mnemonic = "catch general above image reward ceiling room drift diagram nominee panda curious";

@@ -1,1 +1,1 @@
-var mnemonic = "good position rabbit laugh artwork tell submit foot space medal parrot record";
+var mnemonic = "clog high arrest catalog glass lawn chapter stick brass drum great gown";

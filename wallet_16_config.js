@@ -1,1 +1,1 @@
-var mnemonic = "frequent water field snake grace real toilet lift victory sugar acid drama";
+var mnemonic = "cost dry fluid blouse author dentist reform dust report follow must measure";

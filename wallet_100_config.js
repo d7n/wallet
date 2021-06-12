@@ -1,1 +1,1 @@
-var mnemonic = "eternal brisk change damp void impose meat distance urban vast liar carbon";
+var mnemonic = "accident leisure skate toy merit attitude whip pitch direct gossip cash harsh";

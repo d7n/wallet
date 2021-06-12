@@ -1,1 +1,1 @@
-var mnemonic = "limit elegant maximum zebra tiger town lucky sample hybrid void laugh gossip";
+var mnemonic = "glare castle pledge deposit shadow couple cereal virtual treat case raw calm";

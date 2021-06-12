@@ -1,1 +1,1 @@
-var mnemonic = "total thought just illegal deny brisk crew stuff master warfare matrix target";
+var mnemonic = "mandate junk upset volcano bacon sound catalog net ethics frost moon tone";

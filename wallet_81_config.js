@@ -1,1 +1,1 @@
-var mnemonic = "leader quarter nephew oval dove goddess turkey put metal false eagle bike";
+var mnemonic = "organ notable inch visa taste rookie carpet fit sign whip scissors satisfy";

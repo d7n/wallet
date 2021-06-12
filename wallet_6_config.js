@@ -1,1 +1,1 @@
-var mnemonic = "leopard galaxy alert harvest lottery friend fault tank sing into move online";
+var mnemonic = "target able force alley say game treat pioneer term exile adapt clump";

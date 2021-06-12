@@ -1,1 +1,1 @@
-var mnemonic = "usual gate style tube trigger ghost piece project catalog bulb exchange whisper";
+var mnemonic = "reason west chef team monster fantasy civil leader toast purse buyer beyond";

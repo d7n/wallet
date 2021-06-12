@@ -1,1 +1,1 @@
-var mnemonic = "chief hospital series leg pilot napkin panda inject drill isolate useless industry";
+var mnemonic = "else team elegant cattle move inside stay speed today repeat twist beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "video thrive defy good walnut future matrix catch acid humor claw fence";
+var mnemonic = "despair sibling file quantum industry return radar long arrow accident fruit sheriff";

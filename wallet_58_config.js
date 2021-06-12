@@ -1,1 +1,1 @@
-var mnemonic = "drum tape topple diet select initial monitor oak question aunt vital pupil";
+var mnemonic = "modify slot page excite maximum regret bread coast nephew script receive now";

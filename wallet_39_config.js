@@ -1,1 +1,1 @@
-var mnemonic = "alcohol traffic item dizzy easy about tomorrow cool member shine mosquito worry";
+var mnemonic = "such math sweet hour phone actor candy potato reflect enter laugh shallow";

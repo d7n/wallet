@@ -1,1 +1,1 @@
-var mnemonic = "portion million vital change jazz jar duck shaft accuse enlist phone melt";
+var mnemonic = "tumble also because theory found giggle eagle dawn grief admit cost crime";

@@ -1,1 +1,1 @@
-var mnemonic = "old mail glad garage suit grain gaze salad tilt hard coffee angry";
+var mnemonic = "spare deliver point tribe power entry speed glad bleak simple child result";

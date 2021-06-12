@@ -1,1 +1,1 @@
-var mnemonic = "disagree blossom differ perfect hazard spatial link believe twelve venture intact remove";
+var mnemonic = "desert blind invite caution melt sign dutch cradle melody reunion horn often";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce print learn section finger soon grab cruise tunnel transfer grit cement";
+var mnemonic = "section fee unable joke bounce promote dice chaos strong usual cook rebel";

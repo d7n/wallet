@@ -1,1 +1,1 @@
-var mnemonic = "income jungle boring armed letter agent follow famous dawn layer ecology master";
+var mnemonic = "lawsuit million profit oil steel trust hen pipe despair evidence post load";

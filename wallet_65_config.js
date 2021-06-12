@@ -1,1 +1,1 @@
-var mnemonic = "tiger bean finish fancy pause trial clay small reduce claim lucky crush";
+var mnemonic = "entire arm saddle trophy salmon police enrich step water excite strategy wine";

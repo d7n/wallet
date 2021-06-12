@@ -1,1 +1,1 @@
-var mnemonic = "denial uncle stereo gorilla exist empty used snap amount miss begin matter";
+var mnemonic = "canyon spin eye average rain myself garage candy alley teach loop junior";

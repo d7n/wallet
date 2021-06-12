@@ -1,1 +1,1 @@
-var mnemonic = "illness humble broken broccoli thank fork volcano banner usage often stool segment";
+var mnemonic = "sick orbit awkward exhaust hair round summer safe ignore rotate midnight board";

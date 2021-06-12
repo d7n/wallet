@@ -1,1 +1,1 @@
-var mnemonic = "diesel quarter candy dose sing base indicate together twenty equal busy globe";
+var mnemonic = "dance surge legal rib love busy avocado price loyal august collect animal";

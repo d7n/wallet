@@ -1,1 +1,1 @@
-var mnemonic = "estate flower host tongue tray clarify typical dash snack pave calm travel";
+var mnemonic = "resist attitude genius often drama number grocery disorder yellow exist wagon print";

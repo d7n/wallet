@@ -1,1 +1,1 @@
-var mnemonic = "nuclear census capital expand ensure cry height pumpkin lawn warrior family ask";
+var mnemonic = "impact accident profit boat twelve claim sound bundle destroy waste kingdom mammal";

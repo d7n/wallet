@@ -1,1 +1,1 @@
-var mnemonic = "sound bunker mind enter spend final electric fame fury latin creek mistake";
+var mnemonic = "trap lottery ignore bar gather rubber century garlic permit flush blur mountain";

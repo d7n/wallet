@@ -1,1 +1,1 @@
-var mnemonic = "exile width razor hidden fashion climb donor average budget swarm soap field";
+var mnemonic = "clay kidney mean essence silver you minute orange apart humor regular lamp";

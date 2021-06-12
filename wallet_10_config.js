@@ -1,1 +1,1 @@
-var mnemonic = "search penalty twice neither secret wool dish cash pave attract question into";
+var mnemonic = "impact sister filter tribe tiger year tiny horse mountain kiss high settle";

@@ -1,1 +1,1 @@
-var mnemonic = "give bid icon unaware glove report odor once energy debate swallow hand";
+var mnemonic = "exhaust screen urban lamp minor moon poet position distance neck mean usual";

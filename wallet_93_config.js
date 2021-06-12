@@ -1,1 +1,1 @@
-var mnemonic = "enhance pepper nuclear boat oblige emerge image night surface brother gown museum";
+var mnemonic = "witness obey payment outer chaos grace garbage play bomb correct result vital";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure pipe sugar wild aisle space output refuse merit trade extend display";
+var mnemonic = "monkey absent enjoy tumble oyster dress include click gap clinic carry minimum";

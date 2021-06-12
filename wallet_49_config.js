@@ -1,1 +1,1 @@
-var mnemonic = "warrior stick tape crash boss baby degree car lonely dumb myth width";
+var mnemonic = "struggle misery gift choice meadow calm bless know must wide palace alley";

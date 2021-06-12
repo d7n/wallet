@@ -1,1 +1,1 @@
-var mnemonic = "coyote rice rich gather coast entry educate main delay analyst truly come";
+var mnemonic = "shadow open silly satoshi hard wolf model vessel bargain save degree poverty";

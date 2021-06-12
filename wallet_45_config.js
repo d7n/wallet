@@ -1,1 +1,1 @@
-var mnemonic = "any gap inherit napkin key marble demand spawn tongue envelope stable actress";
+var mnemonic = "just adapt picture spawn prepare fall arrest card accident gift loud pizza";

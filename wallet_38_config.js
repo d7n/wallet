@@ -1,1 +1,1 @@
-var mnemonic = "square brave wise digital vibrant atom bachelor absent similar zoo immune crush";
+var mnemonic = "dawn wood wish hunt royal ready ceiling push doll front original inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle raven cable federal verify slush journey neither save chat doll insane";
+var mnemonic = "faith funny rich glare girl employ enlist hire tool opinion arm disagree";

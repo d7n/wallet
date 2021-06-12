@@ -1,1 +1,1 @@
-var mnemonic = "knock unfair winter left wolf sting genre pride album salmon amazing camp";
+var mnemonic = "equip magnet worry ski garbage muscle copper feature again layer genuine problem";

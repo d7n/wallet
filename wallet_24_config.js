@@ -1,1 +1,1 @@
-var mnemonic = "spice curious liquid label world piano rebuild original blossom cactus swear blast";
+var mnemonic = "pet help around minute grass unable crime tip beauty spike silly indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi defense useful cargo federal anger scrub upper mom announce swing midnight";
+var mnemonic = "gold shoot jar brief rough beauty about area minor border seed tuna";

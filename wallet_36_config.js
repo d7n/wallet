@@ -1,1 +1,1 @@
-var mnemonic = "smile zero puzzle beyond market walk option claw guitar strategy bid conduct";
+var mnemonic = "genius install talk gas alien obtain disorder sugar raw alter fish coach";

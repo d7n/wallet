@@ -1,1 +1,1 @@
-var mnemonic = "erode tragic gravity elegant already off spring begin bar axis nephew connect";
+var mnemonic = "glance lesson afford right settle mention maximum eager know borrow erosion nose";

@@ -1,1 +1,1 @@
-var mnemonic = "draft comic damp vivid ivory entire world burger only exotic pudding rocket";
+var mnemonic = "submit number such picture body version round afraid tornado merry tool damp";

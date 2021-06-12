@@ -1,1 +1,1 @@
-var mnemonic = "debris juice wolf trick crime manual option cake hour ribbon any topple";
+var mnemonic = "silly loop jeans october music original camp plug digital language fruit model";

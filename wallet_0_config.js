@@ -1,1 +1,1 @@
-var mnemonic = "true swing busy permit ask fetch service volcano cousin clump crazy dad";
+var mnemonic = "identify blade pumpkin later tank chimney evolve glad ticket ready open wrist";

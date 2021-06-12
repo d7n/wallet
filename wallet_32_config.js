@@ -1,1 +1,1 @@
-var mnemonic = "exotic use treat idle gasp field base voyage primary scene hair fruit";
+var mnemonic = "average zone method caution yard liar unit drift wire second cheese angle";

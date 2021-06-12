@@ -1,1 +1,1 @@
-var mnemonic = "worry spray lamp shoe exile combine payment seven reveal grace strategy taxi";
+var mnemonic = "inside century repair ahead post dice lamp cup rabbit core shift become";

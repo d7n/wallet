@@ -1,1 +1,1 @@
-var mnemonic = "success label robust account drift stumble guitar siren airport rival deal start";
+var mnemonic = "pig simple awake bundle roof winner cost off tip zero balance drama";

@@ -1,1 +1,1 @@
-var mnemonic = "spike tilt cotton hospital easy venue gold kitten bid matrix liberty sick";
+var mnemonic = "cloud ten dismiss express carpet track under strategy rotate puppy fiscal note";

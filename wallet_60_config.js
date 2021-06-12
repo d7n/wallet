@@ -1,1 +1,1 @@
-var mnemonic = "later click bounce happy cloud frost naive cram behind fence dice engage";
+var mnemonic = "glad silent science snake margin note diary chuckle impose abuse tragic apple";

@@ -1,1 +1,1 @@
-var mnemonic = "much step movie coil picnic thing salmon social report aware cover tray";
+var mnemonic = "pottery river level win retire cash spy distance two pudding creek stool";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra swing noble maple rigid enable nose sausage input alone industry endorse";
+var mnemonic = "lottery detect there alcohol key endless wink chronic erosion question boat address";

@@ -1,1 +1,1 @@
-var mnemonic = "salt exclude leisure lemon clean quick danger renew crop base recycle discover";
+var mnemonic = "win solve beyond doctor hold board unit evidence call trade announce drip";

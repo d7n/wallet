@@ -1,1 +1,1 @@
-var mnemonic = "crunch turn tone diamond tube boy endless surround impact habit dignity pond";
+var mnemonic = "chalk sponsor alarm color primary later novel click crawl reflect damage nurse";

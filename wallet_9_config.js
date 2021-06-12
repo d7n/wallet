@@ -1,1 +1,1 @@
-var mnemonic = "advance connect debate situate century rice vacant foam ancient goddess cream canvas";
+var mnemonic = "what amused jar capital sell gas local wheel aisle must ticket cigar";

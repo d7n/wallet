@@ -1,1 +1,1 @@
-var mnemonic = "scatter wedding zebra wear tissue patient juice month unique fragile maximum rate";
+var mnemonic = "rough pyramid consider parade then glance silk copper remember forum uphold body";

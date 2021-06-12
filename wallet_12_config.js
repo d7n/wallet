@@ -1,1 +1,1 @@
-var mnemonic = "crystal worry hammer bulk economy quality rescue ice misery jealous gain any";
+var mnemonic = "life festival waste endorse nest laugh sample various indoor strong emotion castle";

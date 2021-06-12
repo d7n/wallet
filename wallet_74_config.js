@@ -1,1 +1,1 @@
-var mnemonic = "rely crop goat truth carry night apology husband crew knock toy witness";
+var mnemonic = "safe ship sock meadow stereo talent slight patient strong rule color train";

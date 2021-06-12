@@ -1,1 +1,1 @@
-var mnemonic = "eternal address empty diagram tool benefit spike captain betray kick office romance";
+var mnemonic = "wild climb group broccoli mass remain shift wave dolphin sunset print live";

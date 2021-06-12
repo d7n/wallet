@@ -1,1 +1,1 @@
-var mnemonic = "ghost critic border load dentist kick ignore hero proof motion absent prevent";
+var mnemonic = "correct letter sugar inform turkey liquid crop scheme holiday inspire novel crush";

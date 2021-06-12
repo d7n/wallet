@@ -1,1 +1,1 @@
-var mnemonic = "melt wrap edit else true clump team cigar spoil among rule know";
+var mnemonic = "iron risk amused minute ignore wage cradle coconut kick achieve brisk margin";

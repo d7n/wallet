@@ -1,1 +1,1 @@
-var mnemonic = "dawn run cereal stereo alert host little tiny series champion wise crucial";
+var mnemonic = "inquiry horse spike radio deer shock peanut fringe naive bachelor grace curve";

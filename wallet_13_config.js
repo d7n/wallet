@@ -1,1 +1,1 @@
-var mnemonic = "cabbage grow patient knife drive begin future art tone embody tribe abstract";
+var mnemonic = "judge forward mandate depth suspect oppose stool march chapter boat van bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth craft aspect various canyon trouble pistol crystal laugh drive cousin idle";
+var mnemonic = "day ribbon foam team grow fold repeat curtain pig stage soft wing";

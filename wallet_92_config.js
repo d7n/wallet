@@ -1,1 +1,1 @@
-var mnemonic = "drive casual crowd document island sudden volcano consider marriage refuse punch high";
+var mnemonic = "blind cabbage repair poet burst piece exclude velvet random minute middle amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "volume close casual code brass leg language flush discover own plunge better";
+var mnemonic = "all where sustain surge acquire math clog ginger pottery logic movie ride";

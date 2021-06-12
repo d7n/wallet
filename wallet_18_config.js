@@ -1,1 +1,1 @@
-var mnemonic = "satisfy magic auto hungry robust load where camp sad steel nature dragon";
+var mnemonic = "allow all can gown bleak debate jungle sniff giggle vague steel ensure";

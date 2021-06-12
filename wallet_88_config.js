@@ -1,1 +1,1 @@
-var mnemonic = "corn dice flag uncover damage era horn involve puzzle goose prison betray";
+var mnemonic = "note carpet habit physical target fragile lion dignity orbit dismiss stone exact";

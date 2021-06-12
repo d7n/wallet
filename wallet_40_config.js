@@ -1,1 +1,1 @@
-var mnemonic = "wish raise actual chef family peasant main couch mixed then home couch";
+var mnemonic = "oppose enrich debris together glide jacket salt grow useful luxury patient force";

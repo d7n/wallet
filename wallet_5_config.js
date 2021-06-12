@@ -1,1 +1,1 @@
-var mnemonic = "sword help shock acoustic shrimp pupil video alter awkward drama middle chalk";
+var mnemonic = "govern panther magic region evidence sing genuine flush angry body occur key";

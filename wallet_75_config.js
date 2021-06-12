@@ -1,1 +1,1 @@
-var mnemonic = "victory century umbrella bubble muffin island run milk reunion blouse improve salad";
+var mnemonic = "debate infant frequent dragon nature distance aisle tenant expand dentist palm fortune";

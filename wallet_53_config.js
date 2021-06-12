@@ -1,1 +1,1 @@
-var mnemonic = "couch toe orchard cotton maple artwork cruise purchase skill novel drink practice";
+var mnemonic = "drama immune fabric age antique school guide pole beach heart escape inhale";

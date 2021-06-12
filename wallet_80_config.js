@@ -1,1 +1,1 @@
-var mnemonic = "faint radar broccoli puzzle sense where mind pupil aerobic obscure absorb correct";
+var mnemonic = "february silent network girl stock gloom worry gossip century law advance cry";

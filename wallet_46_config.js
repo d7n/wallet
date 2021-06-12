@@ -1,1 +1,1 @@
-var mnemonic = "cheese peasant better segment question network basket vendor lumber eternal shell hard";
+var mnemonic = "category rather orange wrap input number rigid load ball chef tired blanket";

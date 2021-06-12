@@ -1,1 +1,1 @@
-var mnemonic = "sick then steel extend repeat quarter tip beauty blur keep crystal claw";
+var mnemonic = "legal advance post mule inner virtual cigar dove bracket noise vicious razor";

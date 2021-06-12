@@ -1,1 +1,1 @@
-var mnemonic = "forum absorb want expire search perfect myth finish cycle few atom risk";
+var mnemonic = "brisk pulp few move there twenty effort latin start honey pond bulb";

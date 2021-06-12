@@ -1,1 +1,1 @@
-var mnemonic = "hurdle real bullet diet quantum garden shop consider green memory moment ghost";
+var mnemonic = "flee nest suggest funny alpha bullet random move gorilla head onion wrestle";

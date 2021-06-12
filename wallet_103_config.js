@@ -1,1 +1,1 @@
-var mnemonic = "disorder solid swim history satisfy toward answer between barely wrist aerobic dragon";
+var mnemonic = "people track tomato velvet stereo execute vapor relief ritual alcohol winner course";

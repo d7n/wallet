@@ -1,1 +1,1 @@
-var mnemonic = "around life portion perfect mixed dynamic ethics record giant copper hero during";
+var mnemonic = "end short flag chalk robot benefit achieve wrestle extend amazing work civil";

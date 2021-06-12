@@ -1,1 +1,1 @@
-var mnemonic = "approve walk service flower critic candy front spice nest camp indicate abstract";
+var mnemonic = "play artwork gauge anchor coyote erosion cup stomach betray guess reflect ask";

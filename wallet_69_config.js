@@ -1,1 +1,1 @@
-var mnemonic = "bundle night chef aerobic wrong guard burden shy zebra velvet service front";
+var mnemonic = "gym rose twin pulse possible maple cruel garment depth explain insect rather";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby afford predict act notable clinic cherry rug finger draw find cabin";
+var mnemonic = "wise brand crisp crystal blouse rival mad sight skirt armed coach ritual";

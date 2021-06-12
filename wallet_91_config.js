@@ -1,1 +1,1 @@
-var mnemonic = "virtual wrap cradle decorate tribe post raw tail voice clever figure modify";
+var mnemonic = "expose mobile firm curtain gorilla trouble infant pass false liberty seven dragon";

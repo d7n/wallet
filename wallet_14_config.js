@@ -1,1 +1,1 @@
-var mnemonic = "slot exit eight naive interest leaf cargo stock equip meat arena baby";
+var mnemonic = "wild tomato lens vendor shoot feed arrow foot oppose winter wet analyst";

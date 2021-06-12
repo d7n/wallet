@@ -1,1 +1,1 @@
-var mnemonic = "roast muscle image shuffle best adjust whisper legend harsh segment master cycle";
+var mnemonic = "beauty old curious second edit timber civil glide artist velvet elevator whip";

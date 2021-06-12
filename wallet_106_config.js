@@ -1,1 +1,1 @@
-var mnemonic = "elevator pizza submit monster broom forest sweet slice trash pride portion trap";
+var mnemonic = "turn later copy palm captain cool dinner age excite blade submit waste";

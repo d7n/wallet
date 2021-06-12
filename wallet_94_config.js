@@ -1,1 +1,1 @@
-var mnemonic = "laptop hundred clerk danger family industry camera ecology govern pool govern first";
+var mnemonic = "guard quit point fold remind whisper word craft deal vivid stereo cupboard";

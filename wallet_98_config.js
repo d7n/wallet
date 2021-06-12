@@ -1,1 +1,1 @@
-var mnemonic = "shadow elbow enter observe shadow jump below farm radar fiscal meadow veteran";
+var mnemonic = "crew sound output runway stereo raven cause buzz benefit view duty blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "advice bitter skill champion exotic tent anger globe grass odor waste artwork";
+var mnemonic = "riot divide mushroom coffee envelope loop clinic trigger champion style labor force";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise million clip card thing wealth stick season labor acoustic simple name";
+var mnemonic = "wheel bright metal tackle jealous illegal long initial puppy height ozone piece";

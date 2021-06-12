@@ -1,1 +1,1 @@
-var mnemonic = "manual shrimp sentence later much report genuine assist orphan powder squirrel absorb";
+var mnemonic = "danger dog few test soul dice bless orphan message film excuse grass";

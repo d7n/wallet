@@ -1,1 +1,1 @@
-var mnemonic = "keen kingdom vague gorilla pitch happy chuckle amazing cube venture slice define";
+var mnemonic = "aspect able goat novel satisfy dolphin elder candy wall carbon enrich panda";

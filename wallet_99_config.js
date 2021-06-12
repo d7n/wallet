@@ -1,1 +1,1 @@
-var mnemonic = "famous garage lava kitten corn eternal million sister twice version ice earth";
+var mnemonic = "cross solve protect pottery stock wide spoon page apart type riot cycle";

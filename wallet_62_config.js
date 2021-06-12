@@ -1,1 +1,1 @@
-var mnemonic = "hobby shoe nice giraffe rich property pumpkin chaos alone review derive curtain";
+var mnemonic = "ivory then give couple senior diagram silly twin author mesh kiss asset";
