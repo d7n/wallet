@@ -1,1 +1,1 @@
-var mnemonic = "believe village velvet rapid brick stay emerge fat obvious token jar salad";
+var mnemonic = "aunt until push leave dignity horn ridge connect voyage inner prevent risk";

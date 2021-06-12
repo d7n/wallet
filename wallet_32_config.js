@@ -1,1 +1,1 @@
-var mnemonic = "tell oblige scheme across law better beach jazz step reduce install stereo";
+var mnemonic = "slam gravity pumpkin soup hybrid market claim skate enact cinnamon adult salt";

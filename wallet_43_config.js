@@ -1,1 +1,1 @@
-var mnemonic = "tilt glide child logic embody during gospel slogan when stand wash please";
+var mnemonic = "rubber window yellow actual soon discover cover swift young agree put panic";

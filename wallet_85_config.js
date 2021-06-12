@@ -1,1 +1,1 @@
-var mnemonic = "hard ticket tourist square van various either caution stamp craft relief venue";
+var mnemonic = "never nerve now exotic pride brief casino wave dream stool over hill";

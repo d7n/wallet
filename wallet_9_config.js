@@ -1,1 +1,1 @@
-var mnemonic = "phone spread satoshi maze arctic diesel better hamster bread wire robust episode";
+var mnemonic = "thought eye casino oak vital project between clump chuckle hawk trim limit";

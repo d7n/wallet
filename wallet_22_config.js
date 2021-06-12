@@ -1,1 +1,1 @@
-var mnemonic = "vendor photo casual moon setup stool number scene fury frown outer define";
+var mnemonic = "absent trophy stumble thank blood able elite defense long abstract dismiss very";

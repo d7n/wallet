@@ -1,1 +1,1 @@
-var mnemonic = "world employ pony fortune coffee hope country settle boss visual super elbow";
+var mnemonic = "promote sell upset fan artist mixture useless donor sword employ evidence popular";

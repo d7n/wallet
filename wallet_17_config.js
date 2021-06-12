@@ -1,1 +1,1 @@
-var mnemonic = "people view brown control burst garden candy fox engine next square erosion";
+var mnemonic = "seed pitch crowd clump clock easily tumble provide carry caught razor legal";

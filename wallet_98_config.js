@@ -1,1 +1,1 @@
-var mnemonic = "chase reflect destroy couple injury primary include floor seek hover erosion loyal";
+var mnemonic = "way excite push dignity mail verb floor disorder solve one token notice";

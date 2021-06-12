@@ -1,1 +1,1 @@
-var mnemonic = "system gentle kitchen such wheel fiscal bacon level act ceiling small duck";
+var mnemonic = "beyond rail vocal license argue produce push secret glove ride much space";

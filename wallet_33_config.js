@@ -1,1 +1,1 @@
-var mnemonic = "reward twelve bridge jacket share mixture tilt pumpkin own festival memory select";
+var mnemonic = "basket neither display employ wash easy broom quiz galaxy liberty voyage fire";

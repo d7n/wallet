@@ -1,1 +1,1 @@
-var mnemonic = "hotel behave wrong garlic media eight merge seminar pudding flight extra city";
+var mnemonic = "goat canoe fat recycle insect rookie rude search brush cross cave guard";

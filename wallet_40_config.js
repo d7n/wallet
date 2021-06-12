@@ -1,1 +1,1 @@
-var mnemonic = "betray task tilt pool chat point payment ankle height business enrich cube";
+var mnemonic = "switch clutch patrol spoil ring miss escape insane odor sight recipe gossip";

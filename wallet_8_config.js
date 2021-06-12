@@ -1,1 +1,1 @@
-var mnemonic = "dove system impact journey tuna cruel shine vibrant gaze glide aunt jaguar";
+var mnemonic = "glare wage occur maximum fan drip laugh engine group inch tomorrow rough";

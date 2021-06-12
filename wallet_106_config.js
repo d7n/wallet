@@ -1,1 +1,1 @@
-var mnemonic = "accuse capital stomach palm fiction security clarify cabbage balcony short matrix invest";
+var mnemonic = "hand what edge book rural dirt allow found gain primary essence kiwi";

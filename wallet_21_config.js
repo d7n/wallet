@@ -1,1 +1,1 @@
-var mnemonic = "federal venue drama where inhale equal clinic eagle dad tone expire ask";
+var mnemonic = "panic assault pear useless pledge mule yard reason tongue change grocery other";

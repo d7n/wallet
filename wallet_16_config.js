@@ -1,1 +1,1 @@
-var mnemonic = "glory route grow enemy club satoshi syrup present pool minute insect emerge";
+var mnemonic = "treat box point matrix lecture race amused mail lemon junior clump raw";

@@ -1,1 +1,1 @@
-var mnemonic = "night sauce before october mandate modify coral deer suggest current option pink";
+var mnemonic = "tragic fun venue mushroom mouse cereal palace thing mesh speak upper world";

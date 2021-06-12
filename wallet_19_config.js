@@ -1,1 +1,1 @@
-var mnemonic = "snap scare combine story crane brick field vintage economy spare achieve cargo";
+var mnemonic = "true bounce panic trial media history answer inquiry service multiply ceiling husband";

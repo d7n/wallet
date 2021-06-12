@@ -1,1 +1,1 @@
-var mnemonic = "clinic amused pink lizard awake copy address worry exchange rebel fame onion";
+var mnemonic = "grow gun choice clock piece gentle dry suffer pair strategy iron smooth";

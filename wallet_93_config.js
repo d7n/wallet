@@ -1,1 +1,1 @@
-var mnemonic = "decorate ozone decide rebel garment never number chimney cable idle student laugh";
+var mnemonic = "deputy leader shed accident toy attack trim around truck solution next napkin";

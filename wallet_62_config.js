@@ -1,1 +1,1 @@
-var mnemonic = "moon bubble hen nurse find cabin own path rib beauty surround together";
+var mnemonic = "vivid blast pyramid elephant thought letter object belt industry exclude gauge switch";

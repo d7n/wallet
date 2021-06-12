@@ -1,1 +1,1 @@
-var mnemonic = "process nurse clap husband property penalty seed tail impact old antenna erosion";
+var mnemonic = "album switch december employ sphere shuffle flavor grunt merit delay inherit envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease mail stick elite grass blur elbow vivid blur priority length march";
+var mnemonic = "poem marriage pet bleak problem exhaust boost video document elder dream weird";

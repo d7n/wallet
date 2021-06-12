@@ -1,1 +1,1 @@
-var mnemonic = "force farm current nose sunset all above monster foil enhance slim gorilla";
+var mnemonic = "lounge praise fatal detect rotate glare witness upper cherry tone cool same";

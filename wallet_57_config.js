@@ -1,1 +1,1 @@
-var mnemonic = "stamp response sail three dragon among vicious tomato boring auto crane punch";
+var mnemonic = "budget panic resemble glow plunge worry boss leader bring level denial public";

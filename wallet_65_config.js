@@ -1,1 +1,1 @@
-var mnemonic = "convince train pyramid month another around opera fluid way sausage assist broom";
+var mnemonic = "slush robot renew carpet coral midnight kingdom rack govern timber poem card";

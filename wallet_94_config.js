@@ -1,1 +1,1 @@
-var mnemonic = "cliff language fatigue topple rule fiber clown exist able art pelican blast";
+var mnemonic = "doll vivid focus toy fabric drive rotate strike summer edit used nephew";

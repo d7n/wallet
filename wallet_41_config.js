@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit team sunset salt spin kiwi suit say flock shove panic resource";
+var mnemonic = "picture fame account behind panic situate budget gallery coffee poverty sudden club";

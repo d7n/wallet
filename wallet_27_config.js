@@ -1,1 +1,1 @@
-var mnemonic = "draw exhibit asset raven eight sustain absurd expect chapter pottery cook first";
+var mnemonic = "mean grit blood ignore memory frown board wave catch motor wing moon";

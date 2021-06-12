@@ -1,1 +1,1 @@
-var mnemonic = "bachelor illness congress innocent provide surround clay close ticket canyon wood save";
+var mnemonic = "occur ensure report canvas water wheel normal jazz lunch oven oil super";

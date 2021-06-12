@@ -1,1 +1,1 @@
-var mnemonic = "loop mean come hundred west vehicle initial time race convince polar approve";
+var mnemonic = "trumpet educate flock blanket weather meat region acid resource pyramid illegal message";

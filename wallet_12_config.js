@@ -1,1 +1,1 @@
-var mnemonic = "galaxy primary wrist green physical skill hammer skirt runway loyal beauty chief";
+var mnemonic = "try coconut exact novel agree spatial demise chief cousin more hint stand";

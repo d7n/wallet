@@ -1,1 +1,1 @@
-var mnemonic = "genuine carry heart adult this island crane slogan vessel tilt lion hundred";
+var mnemonic = "box legal slam soft walk panther please purity sugar skate leisure either";

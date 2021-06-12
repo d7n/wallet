@@ -1,1 +1,1 @@
-var mnemonic = "blade lock frog receive foam uniform magnet gorilla measure elephant pumpkin current";
+var mnemonic = "antenna lecture bike high sheriff display loop raise dose lonely luxury coil";

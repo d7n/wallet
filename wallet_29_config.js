@@ -1,1 +1,1 @@
-var mnemonic = "uncle card like pottery dial uniform code degree office material wage float";
+var mnemonic = "census dance limit mango grant scale limb noodle replace practice index iron";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer harbor gesture very example cluster breeze crawl chronic stumble stem roast";
+var mnemonic = "bean town thunder purchase vacuum filter reform assume potato human raise envelope";

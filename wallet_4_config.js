@@ -1,1 +1,1 @@
-var mnemonic = "three ordinary coyote wool track cube lift layer time scissors bring ten";
+var mnemonic = "shaft steak tunnel tired lend donor expect hybrid history shy balcony slow";

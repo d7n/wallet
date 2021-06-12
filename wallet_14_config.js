@@ -1,1 +1,1 @@
-var mnemonic = "popular giraffe derive valley rebel olive actor story organ expire water skull";
+var mnemonic = "clean review write inject envelope exact memory exit sick universe simple into";

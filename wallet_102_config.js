@@ -1,1 +1,1 @@
-var mnemonic = "drum crop volcano infant rug jelly sound penalty alpha buzz answer shadow";
+var mnemonic = "double tissue common height educate broken gold pear order drill medal body";

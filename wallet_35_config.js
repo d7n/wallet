@@ -1,1 +1,1 @@
-var mnemonic = "sun arctic element drift like crop fit hair liar crawl evolve animal";
+var mnemonic = "rapid door report panther glad giggle crystal nuclear rebuild situate lamp woman";

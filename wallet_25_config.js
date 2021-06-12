@@ -1,1 +1,1 @@
-var mnemonic = "welcome cart strategy glare expose one hundred shove forward slim among loan";
+var mnemonic = "exchange start govern fiction hunt paper lion life stage assume fine donkey";

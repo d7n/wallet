@@ -1,1 +1,1 @@
-var mnemonic = "defense air knee cattle permit flee shrimp husband expose dumb measure deposit";
+var mnemonic = "unfold valley pull cargo moment must diet fury history chase suffer skate";

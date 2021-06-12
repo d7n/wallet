@@ -1,1 +1,1 @@
-var mnemonic = "sand install dismiss rapid result emerge wash card bleak escape scare proof";
+var mnemonic = "lunch skate army nut address between order sketch gentle ill vivid despair";

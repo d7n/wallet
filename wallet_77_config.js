@@ -1,1 +1,1 @@
-var mnemonic = "crater juice universe wife edit hat pepper knife vast inner punch side";
+var mnemonic = "wide forum bike tail again beef flash glance narrow evidence horse slim";

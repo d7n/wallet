@@ -1,1 +1,1 @@
-var mnemonic = "track sudden theme canal shiver hover peanut steak toast doctor weird beauty";
+var mnemonic = "prevent bike make piece foster sphere blue dog hidden learn report win";

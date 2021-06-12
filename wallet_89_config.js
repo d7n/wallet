@@ -1,1 +1,1 @@
-var mnemonic = "poverty distance tide equip input also battle brief normal blame stove curtain";
+var mnemonic = "multiply hotel dog mercy digital barely color tongue load horror correct syrup";

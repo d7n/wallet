@@ -1,1 +1,1 @@
-var mnemonic = "bacon family inhale head arrive sting run exact win credit twelve regret";
+var mnemonic = "oak case suggest friend skull oval jewel cover employ mix mail clerk";

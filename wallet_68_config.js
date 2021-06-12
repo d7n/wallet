@@ -1,1 +1,1 @@
-var mnemonic = "crowd despair route solar inch cabbage brand fossil misery crazy wool hole";
+var mnemonic = "hollow senior piece drive lemon ahead produce slogan trumpet actor drift cart";

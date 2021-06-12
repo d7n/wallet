@@ -1,1 +1,1 @@
-var mnemonic = "weapon pilot satisfy flame own venture island height nest busy runway transfer";
+var mnemonic = "velvet soldier lyrics spoil cream spend broom lady grab various vibrant cricket";

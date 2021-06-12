@@ -1,1 +1,1 @@
-var mnemonic = "craft aim never orphan tribe news attract toe adjust fade country flash";
+var mnemonic = "dance correct fee swing pledge artist unlock device nation ivory trick vault";

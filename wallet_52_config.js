@@ -1,1 +1,1 @@
-var mnemonic = "mobile hobby script wrist fox bracket ritual liquid improve mesh pioneer wool";
+var mnemonic = "student fever rookie danger romance direct water excuse frame one despair artwork";

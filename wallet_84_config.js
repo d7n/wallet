@@ -1,1 +1,1 @@
-var mnemonic = "original awful champion age admit crunch trust vocal session off order later";
+var mnemonic = "buffalo term electric math stem rigid final coil normal lounge marriage rookie";

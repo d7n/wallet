@@ -1,1 +1,1 @@
-var mnemonic = "reduce rain coyote island trade gun twist recipe vanish toilet artefact promote";
+var mnemonic = "math purity tattoo peasant food surprise duty chat sponsor lamp tape host";

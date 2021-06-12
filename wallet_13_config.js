@@ -1,1 +1,1 @@
-var mnemonic = "social impose remind tent device pulp farm leisure summer edge bounce enact";
+var mnemonic = "buyer circle ridge fruit crew aware disagree forget escape machine lunch pattern";

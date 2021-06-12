@@ -1,1 +1,1 @@
-var mnemonic = "brand citizen spread focus more wood bench meadow cause connect outdoor brush";
+var mnemonic = "select phrase basket trim tag syrup approve quality victory addict vendor force";

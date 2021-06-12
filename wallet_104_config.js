@@ -1,1 +1,1 @@
-var mnemonic = "fuel crowd method matter hip party polar move embrace whale beauty gym";
+var mnemonic = "drill dial chronic surprise wasp mystery eye expose upon luggage weird festival";

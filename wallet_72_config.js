@@ -1,1 +1,1 @@
-var mnemonic = "make glove critic sport lunch cement flash carpet slab view access scare";
+var mnemonic = "toilet inherit cabbage dance ill together tray team neither test until solve";

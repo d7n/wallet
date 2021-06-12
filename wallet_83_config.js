@@ -1,1 +1,1 @@
-var mnemonic = "screen one pill royal search account dance wedding field dune swear attend";
+var mnemonic = "source kangaroo welcome kid anger flip coast scout arch fly dizzy point";

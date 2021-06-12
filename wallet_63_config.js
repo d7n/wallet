@@ -1,1 +1,1 @@
-var mnemonic = "inform upper oblige amateur harsh quiz kitten range robot mad popular improve";
+var mnemonic = "type vendor egg scatter casino senior ignore trap merge attend evidence capital";

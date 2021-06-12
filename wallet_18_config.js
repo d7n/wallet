@@ -1,1 +1,1 @@
-var mnemonic = "blood lamp liquid ankle bamboo call light other vanish fiction suit movie";
+var mnemonic = "dial laptop brass random swamp once tissue mouse crucial used response library";

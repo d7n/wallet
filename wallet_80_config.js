@@ -1,1 +1,1 @@
-var mnemonic = "coach latin coast wait give direct tired knife illness fiber decline universe";
+var mnemonic = "author exercise hello census range host voyage child kiwi grit mercy axis";

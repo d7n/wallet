@@ -1,1 +1,1 @@
-var mnemonic = "miracle quality imitate butter helmet home write follow material coconut spell silk";
+var mnemonic = "hazard hundred absorb sleep gate promote direct impose stomach width slogan goat";

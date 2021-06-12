@@ -1,1 +1,1 @@
-var mnemonic = "wrestle play soap token humble meat silly master runway tonight ordinary movie";
+var mnemonic = "retire turkey crisp entire jump harbor define above spatial fashion mother injury";

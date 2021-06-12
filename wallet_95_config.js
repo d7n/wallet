@@ -1,1 +1,1 @@
-var mnemonic = "leaf weather accident drip large visa ritual connect soldier basket private blood";
+var mnemonic = "wisdom chalk video tiger august head always flavor ice blind brick round";

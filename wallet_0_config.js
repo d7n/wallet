@@ -1,1 +1,1 @@
-var mnemonic = "illegal true doctor daughter blue wild crush fruit mistake original deal decrease";
+var mnemonic = "excuse chunk receive season work vocal asset auction lemon sign pool habit";

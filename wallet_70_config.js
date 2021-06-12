@@ -1,1 +1,1 @@
-var mnemonic = "loyal float bag token recall desert brand cherry riot stool genre cattle";
+var mnemonic = "mom razor limit knock else tobacco abuse van style hat merge sketch";

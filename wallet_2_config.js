@@ -1,1 +1,1 @@
-var mnemonic = "vapor around bless wisdom paper ethics stomach estate twin endorse dove adult";
+var mnemonic = "learn panther swing nominee lobster hint crouch pact loop pipe ripple actor";

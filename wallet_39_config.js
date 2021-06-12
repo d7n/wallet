@@ -1,1 +1,1 @@
-var mnemonic = "draw search knife okay speak woman where oil deal resist egg mule";
+var mnemonic = "enact street lizard fiscal bulb copper bind guess emerge range that december";

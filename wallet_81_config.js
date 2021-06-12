@@ -1,1 +1,1 @@
-var mnemonic = "uncover era trim soup advance ordinary mother whip much rug cement kiss";
+var mnemonic = "basic arrange senior carpet cloud good animal gold sweet multiply phone double";

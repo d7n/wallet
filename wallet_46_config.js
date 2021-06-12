@@ -1,1 +1,1 @@
-var mnemonic = "party parent bounce expire simple teach credit put butter purse indoor walnut";
+var mnemonic = "grow shove reunion pretty canal goat east trumpet lobster snow month stock";

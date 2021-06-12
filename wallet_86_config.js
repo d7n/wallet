@@ -1,1 +1,1 @@
-var mnemonic = "hammer sentence young must absurd grid rubber card improve dry animal practice";
+var mnemonic = "maid sign put mention mix ginger manage potato dry office found auto";

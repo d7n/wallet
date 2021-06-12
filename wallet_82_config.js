@@ -1,1 +1,1 @@
-var mnemonic = "eagle mule wonder initial pencil luxury asset fix unhappy mention clean dash";
+var mnemonic = "fault wall exclude annual match stick wedding mimic vast ride fatigue tool";

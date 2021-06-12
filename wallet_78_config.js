@@ -1,1 +1,1 @@
-var mnemonic = "raw almost member liquid crumble muffin tower forum physical impulse carbon gospel";
+var mnemonic = "typical pigeon regret scrap dream offer fragile bind stable sight hand share";

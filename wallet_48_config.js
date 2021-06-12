@@ -1,1 +1,1 @@
-var mnemonic = "blood staff hire old tornado vault gauge raw flash inject sketch excess";
+var mnemonic = "cost excuse charge clown edge empower public wedding shiver butter draft dolphin";

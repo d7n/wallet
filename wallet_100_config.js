@@ -1,1 +1,1 @@
-var mnemonic = "early fuel property yard kite fiber daughter ice desk foil kit frequent";
+var mnemonic = "hamster vicious vital bean phone sunny bid ensure never title staff fetch";

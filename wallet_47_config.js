@@ -1,1 +1,1 @@
-var mnemonic = "arm exchange surge walk habit pattern into funny thrive quote comic crash";
+var mnemonic = "amateur grit near curve affair grit divorce fix length fuel sister excuse";

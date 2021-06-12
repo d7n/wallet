@@ -1,1 +1,1 @@
-var mnemonic = "joy potato primary skull taxi cream cake cool skate razor taste give";
+var mnemonic = "point rice heavy tube clock owner bag cruise dune strong april stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "fame detail relief safe address chimney timber fold express lock guitar denial";
+var mnemonic = "allow trend soup length bird collect husband shield delay fish fence burden";

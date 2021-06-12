@@ -1,1 +1,1 @@
-var mnemonic = "twenty example search fancy napkin hint demise shop popular best hope survey";
+var mnemonic = "jump artwork wire acquire goat warrior market afford horse sentence lyrics belt";

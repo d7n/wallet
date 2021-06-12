@@ -1,1 +1,1 @@
-var mnemonic = "machine engine liberty jewel pride move cheap seat odor drama reduce boss";
+var mnemonic = "abstract heavy ankle humor avoid moral security upgrade sorry average dwarf vote";

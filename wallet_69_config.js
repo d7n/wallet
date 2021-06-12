@@ -1,1 +1,1 @@
-var mnemonic = "panic escape point echo oak pepper spare stool arena desk fossil phone";
+var mnemonic = "uncover grace narrow budget utility virus struggle picture subject orient bleak dream";

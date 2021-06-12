@@ -1,1 +1,1 @@
-var mnemonic = "govern farm loan mule hammer antenna hidden matrix style prison photo blanket";
+var mnemonic = "disorder subway reduce elite input force tower teach fork library can pact";

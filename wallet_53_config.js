@@ -1,1 +1,1 @@
-var mnemonic = "task remember scare toss brave hire toilet zoo horror snap sign enhance";
+var mnemonic = "club whale lounge loyal average depart tobacco frequent rude poverty fetch plunge";

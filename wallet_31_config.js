@@ -1,1 +1,1 @@
-var mnemonic = "minimum radar blue aspect van fatigue oval extra dish expand draw magic";
+var mnemonic = "sun relax unit fuel detect bus hollow pony text wasp indoor neglect";

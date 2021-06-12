@@ -1,1 +1,1 @@
-var mnemonic = "waste rice organ time agree nasty envelope lamp wide wife blush thunder";
+var mnemonic = "service barrel you general invite gap dog gym work furnace advance swallow";

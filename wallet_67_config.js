@@ -1,1 +1,1 @@
-var mnemonic = "okay cash pink mouse assault feature option view donor service cloth wall";
+var mnemonic = "name gap better betray armor object myself minimum salt push much mercy";

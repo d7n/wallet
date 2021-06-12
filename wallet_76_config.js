@@ -1,1 +1,1 @@
-var mnemonic = "weekend object elephant dry physical tree frequent lucky very unlock train coast";
+var mnemonic = "salon antenna number behind oil require girl antenna bullet forum cycle child";

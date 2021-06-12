@@ -1,1 +1,1 @@
-var mnemonic = "height casual lobster waste silent craft wise meat shock few various surge";
+var mnemonic = "hybrid lazy hunt nerve reduce snow control solution image bargain method chunk";

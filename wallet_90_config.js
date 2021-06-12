@@ -1,1 +1,1 @@
-var mnemonic = "person assault interest visual cycle clarify movie annual april roof vote wonder";
+var mnemonic = "kit pulp regret come happy below theme argue bleak crumble chalk bicycle";
