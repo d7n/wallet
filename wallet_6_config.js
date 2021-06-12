@@ -1,1 +1,1 @@
-var mnemonic = "salt junior attack catch rotate mix age blood stage banner nature doctor";
+var mnemonic = "few custom upgrade kiss doll wage wrist project cloud share prison sleep";

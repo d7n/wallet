@@ -1,1 +1,1 @@
-var mnemonic = "auction metal gate electric rebuild october fish question brush future pudding hundred";
+var mnemonic = "copy pulp sword rifle chimney market street scissors auto brick olive always";

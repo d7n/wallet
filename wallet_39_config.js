@@ -1,1 +1,1 @@
-var mnemonic = "ship office initial topple already thunder donate buyer certain ride laugh course";
+var mnemonic = "swing task argue mountain bunker record first exit network depart cute share";

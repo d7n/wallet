@@ -1,1 +1,1 @@
-var mnemonic = "diagram issue result parent only order junk suit upset wine bus cheese";
+var mnemonic = "poet trigger swap captain eternal appear trick solution cargo scatter scatter blouse";

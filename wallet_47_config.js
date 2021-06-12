@@ -1,1 +1,1 @@
-var mnemonic = "usual hospital army artefact depart agent where example envelope remember replace admit";
+var mnemonic = "timber spot supply path dynamic tackle indoor quiz piano unit provide rocket";

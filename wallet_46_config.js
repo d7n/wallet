@@ -1,1 +1,1 @@
-var mnemonic = "cash shield globe prefer draw monster champion coach pudding cross dial client";
+var mnemonic = "number exit garage pledge enroll lab flat drama crumble like boring enhance";

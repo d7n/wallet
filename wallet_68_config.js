@@ -1,1 +1,1 @@
-var mnemonic = "plunge they unaware wagon million solve castle differ system inherit twist tennis";
+var mnemonic = "visual tell fade upset tortoise account pulse ghost nurse west dice ill";

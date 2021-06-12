@@ -1,1 +1,1 @@
-var mnemonic = "loan spot hope bless cannon maid meadow leisure cable pause green clerk";
+var mnemonic = "modify fog remove south spider impact satoshi eager fortune bacon song festival";

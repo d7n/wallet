@@ -1,1 +1,1 @@
-var mnemonic = "board wave forest girl arm paper wreck flower apart flower hawk antique";
+var mnemonic = "clever about local duty crime number safe action aspect spy eager area";

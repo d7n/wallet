@@ -1,1 +1,1 @@
-var mnemonic = "game outdoor dolphin cage purse congress steel slam machine wool brother emotion";
+var mnemonic = "thumb desk pill cross fish nature distance fall almost extend ice record";

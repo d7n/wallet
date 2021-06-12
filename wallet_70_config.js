@@ -1,1 +1,1 @@
-var mnemonic = "favorite urban large kingdom very tool list outdoor another layer tattoo observe";
+var mnemonic = "loop payment kiss purity deer obey zoo number group chef hold horror";

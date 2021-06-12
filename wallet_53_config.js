@@ -1,1 +1,1 @@
-var mnemonic = "confirm police coral fence target tunnel merge income truck multiply trigger tree";
+var mnemonic = "merge private will cousin embrace explain father shell cute gauge sadness paper";

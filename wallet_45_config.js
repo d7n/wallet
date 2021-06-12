@@ -1,1 +1,1 @@
-var mnemonic = "local laptop pretty climb chair figure play carbon picture series middle erase";
+var mnemonic = "maple common bundle kick tackle entry leave history speak torch tissue behind";

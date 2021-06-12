@@ -1,1 +1,1 @@
-var mnemonic = "circle diary actor purse laptop attract series skill bean issue ripple fatal";
+var mnemonic = "cup hub middle prevent evil upper castle wisdom toss caution lunch monitor";

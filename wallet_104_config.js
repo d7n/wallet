@@ -1,1 +1,1 @@
-var mnemonic = "zebra give tooth place tray blossom burden panda vintage energy crawl woman";
+var mnemonic = "duck near easy tiny captain cave much sting what celery farm style";

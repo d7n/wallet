@@ -1,1 +1,1 @@
-var mnemonic = "announce cook release trim embody magic talk media sponsor behave owner mix";
+var mnemonic = "slender swarm dust mean spoil expose recipe correct high junk material park";

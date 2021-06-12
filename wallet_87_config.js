@@ -1,1 +1,1 @@
-var mnemonic = "bargain small promote wine hunt page force flag exit bird sleep permit";
+var mnemonic = "local myth smooth tag frozen move easily useful twin eager own warm";

@@ -1,1 +1,1 @@
-var mnemonic = "rack fitness shop pledge super clever connect merry vote regret spin kidney";
+var mnemonic = "morning mom exact fossil goddess music evolve shrug midnight raven miss resource";

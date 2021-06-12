@@ -1,1 +1,1 @@
-var mnemonic = "top impose speak eternal wrist inhale leopard permit sail segment husband infant";
+var mnemonic = "slam engine west settle nature divert host fatigue small hand person inside";

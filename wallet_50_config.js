@@ -1,1 +1,1 @@
-var mnemonic = "divide walnut fortune wife ordinary expire silent soap august baby family pluck";
+var mnemonic = "burger shell price please detail dust buyer fence near ocean have strong";

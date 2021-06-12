@@ -1,1 +1,1 @@
-var mnemonic = "crisp lumber movie ginger coast patrol improve chef cry clutch club cereal";
+var mnemonic = "more find jeans expand birth have inherit buyer narrow turkey ramp gift";

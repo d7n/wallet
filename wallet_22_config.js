@@ -1,1 +1,1 @@
-var mnemonic = "boss school acquire valve tank razor nature battle suffer magic chimney exotic";
+var mnemonic = "chapter expire vital butter gravity unit sad carbon parrot draw bag cross";

@@ -1,1 +1,1 @@
-var mnemonic = "promote hurry palm cannon warrior drum above seek expect culture shift budget";
+var mnemonic = "dutch join lava book safe abandon genius genuine ankle beauty owner live";

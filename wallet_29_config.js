@@ -1,1 +1,1 @@
-var mnemonic = "vapor insane crop truth gesture video clinic prevent medal bounce knock echo";
+var mnemonic = "culture raven letter lecture surge love river wrap candy crater blanket basket";

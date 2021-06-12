@@ -1,1 +1,1 @@
-var mnemonic = "zoo emerge renew dutch sort recycle dentist rebel ranch scorpion travel wealth";
+var mnemonic = "coyote neutral critic average civil raise voice monster desk also blur high";

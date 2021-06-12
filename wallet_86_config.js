@@ -1,1 +1,1 @@
-var mnemonic = "hello galaxy parade endorse attract drink one comic surround aunt great broccoli";
+var mnemonic = "grit smile avocado chalk reform alert inner artwork stone cycle visual brand";

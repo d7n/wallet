@@ -1,1 +1,1 @@
-var mnemonic = "target guitar helmet bid begin neutral gospel asthma mean used neutral shoot";
+var mnemonic = "grief market success expose dragon labor tent pattern impact giggle child carbon";

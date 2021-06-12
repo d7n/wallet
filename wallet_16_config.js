@@ -1,1 +1,1 @@
-var mnemonic = "gentle tonight ankle device bamboo wrap rich salon canal employ mad athlete";
+var mnemonic = "dragon improve cry melody search trophy castle announce key bronze image token";

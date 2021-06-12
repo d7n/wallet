@@ -1,1 +1,1 @@
-var mnemonic = "guard multiply company evoke garage worth iron tent supply diesel boost brother";
+var mnemonic = "deny retire labor change vicious reopen bitter obey sort hero clip lava";

@@ -1,1 +1,1 @@
-var mnemonic = "defy moral floor wise basic arrange spatial leg parent bachelor ankle gesture";
+var mnemonic = "north tower siren edge panther humor rebuild impact body chef fiction steel";

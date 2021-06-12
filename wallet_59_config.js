@@ -1,1 +1,1 @@
-var mnemonic = "match alone legal misery upper maple reduce label butter guitar hover found";
+var mnemonic = "know essence sketch crazy depart feature transfer miss art crouch pulse venue";

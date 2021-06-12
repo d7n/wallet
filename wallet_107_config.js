@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit trial near uncover conduct world circle fancy arctic embody same smile";
+var mnemonic = "nature process observe hand useless loan vehicle fault reason among thumb pond";

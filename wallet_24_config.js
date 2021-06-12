@@ -1,1 +1,1 @@
-var mnemonic = "divide attack ski garden young open toe space pill top boring intact";
+var mnemonic = "door certain push broom lock slim mesh ticket glass leisure crime antique";

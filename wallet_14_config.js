@@ -1,1 +1,1 @@
-var mnemonic = "physical admit enemy denial define random video crowd essay indoor thrive unveil";
+var mnemonic = "often funny prosper quantum scale output grocery energy basket family win feature";

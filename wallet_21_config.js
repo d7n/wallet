@@ -1,1 +1,1 @@
-var mnemonic = "item hole cereal van devote faith hover planet ski outdoor clump husband";
+var mnemonic = "nerve debate then reform tool brass skirt scan mosquito dilemma slice annual";

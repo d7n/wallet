@@ -1,1 +1,1 @@
-var mnemonic = "brisk kidney found photo column metal improve borrow popular dish purpose push";
+var mnemonic = "usage mutual hockey enhance obscure glue issue theme author tenant giraffe push";

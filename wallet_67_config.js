@@ -1,1 +1,1 @@
-var mnemonic = "dry grief butter crunch confirm silly weird donkey toddler area left forget";
+var mnemonic = "wild usage zero crawl dress present relief order sea warm food accident";

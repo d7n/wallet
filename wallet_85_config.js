@@ -1,1 +1,1 @@
-var mnemonic = "onion tackle story render auto pizza walnut betray display believe this load";
+var mnemonic = "glance transfer grape vital express sword fatigue element huge stay possible capable";

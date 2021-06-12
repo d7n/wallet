@@ -1,1 +1,1 @@
-var mnemonic = "cousin question dust door master end liar vehicle setup dust quarter stand";
+var mnemonic = "forum real spread rib bracket layer cargo tide elephant forum wave donkey";

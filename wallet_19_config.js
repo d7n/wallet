@@ -1,1 +1,1 @@
-var mnemonic = "minor drift style segment noise clay mobile surprise obscure hybrid alarm miracle";
+var mnemonic = "baby suspect chimney capable there scorpion pistol grace monitor assume field tide";

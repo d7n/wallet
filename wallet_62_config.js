@@ -1,1 +1,1 @@
-var mnemonic = "discover prosper arrow random puppy patient sick lock act choice badge injury";
+var mnemonic = "account bargain water valley almost doll genre patch hurry rally lake cry";

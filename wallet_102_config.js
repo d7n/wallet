@@ -1,1 +1,1 @@
-var mnemonic = "under enact nephew nuclear list lamp choose very three welcome hedgehog butter";
+var mnemonic = "shock away switch quantum fine fancy false lake nominee cute need skull";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude clean category whip wish crew business cook tourist auto view enemy";
+var mnemonic = "fatigue miss deputy correct turtle card bike clarify zoo wink scheme defense";

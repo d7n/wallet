@@ -1,1 +1,1 @@
-var mnemonic = "board million two rubber night veteran kid gorilla gold void regular flash";
+var mnemonic = "define good point mansion club evolve pair jeans school custom girl armed";

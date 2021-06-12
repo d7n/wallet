@@ -1,1 +1,1 @@
-var mnemonic = "color clever party prefer story token rather cloud rural girl combine envelope";
+var mnemonic = "verb forest hope either balance ask banana scissors lava section trim lottery";

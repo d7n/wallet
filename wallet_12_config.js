@@ -1,1 +1,1 @@
-var mnemonic = "tired toe law you since elevator assume purity retire unknown mouse merge";
+var mnemonic = "surround wrap twelve kit refuse owner video blush rotate cart sun wide";

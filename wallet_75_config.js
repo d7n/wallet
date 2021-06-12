@@ -1,1 +1,1 @@
-var mnemonic = "inject merry obey zoo act scheme crazy observe purpose flame render aerobic";
+var mnemonic = "black mango round guitar win deliver reveal enemy give visit shell false";

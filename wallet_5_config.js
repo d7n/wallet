@@ -1,1 +1,1 @@
-var mnemonic = "spirit finger announce humor category country inspire daring weather behind girl strike";
+var mnemonic = "cinnamon chat ginger awesome genuine dolphin lawsuit chase oxygen island tiger average";

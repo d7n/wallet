@@ -1,1 +1,1 @@
-var mnemonic = "large gym delay property ski swallow add consider tonight win assist oven";
+var mnemonic = "fire powder burden curve ketchup now impose roast plastic helmet fence report";

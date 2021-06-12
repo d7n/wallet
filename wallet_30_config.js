@@ -1,1 +1,1 @@
-var mnemonic = "crystal old year session replace they client novel curve museum obey hospital";
+var mnemonic = "test material distance girl mercy accident choice knee foil mixture alpha flavor";

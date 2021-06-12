@@ -1,1 +1,1 @@
-var mnemonic = "meat athlete cabbage image lock unhappy firm news horse hour hair void";
+var mnemonic = "air gun initial police limb rocket practice much curve sadness mimic avoid";

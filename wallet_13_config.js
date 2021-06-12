@@ -1,1 +1,1 @@
-var mnemonic = "garage weapon ceiling deny frame illegal speak refuse express success journey piece";
+var mnemonic = "spike giant remind become law post kidney entry crumble clay have depth";

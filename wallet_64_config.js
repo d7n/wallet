@@ -1,1 +1,1 @@
-var mnemonic = "machine vapor draw biology come teach swallow metal above empty pluck collect";
+var mnemonic = "awesome sort thumb wet pepper friend crouch stone injury minor ivory want";

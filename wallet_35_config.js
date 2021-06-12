@@ -1,1 +1,1 @@
-var mnemonic = "extra want stand focus warrior rhythm reject hurry citizen start melody cruel";
+var mnemonic = "toward view early kidney sauce coach kitten fever shy addict impulse ocean";

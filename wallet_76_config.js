@@ -1,1 +1,1 @@
-var mnemonic = "vapor glory shrug shield general accuse clap detect enhance palace change hedgehog";
+var mnemonic = "voice identify edit bronze limit filter infant version myth margin opera print";

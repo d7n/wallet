@@ -1,1 +1,1 @@
-var mnemonic = "door salute helmet dumb discover cable next depend silver eager pear shaft";
+var mnemonic = "kiwi arctic nerve hazard roof acoustic basket pluck language ball slush blur";

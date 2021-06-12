@@ -1,1 +1,1 @@
-var mnemonic = "attend mouse switch small air behave refuse flat decade away margin merry";
+var mnemonic = "acoustic lyrics obey sister timber occur valley fantasy broken ice banner enjoy";

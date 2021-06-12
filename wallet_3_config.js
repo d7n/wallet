@@ -1,1 +1,1 @@
-var mnemonic = "denial spoil amused age update pattern fringe hour vague deal neutral thunder";
+var mnemonic = "exit tobacco claim grape delay truck style spawn box drink secret hurry";

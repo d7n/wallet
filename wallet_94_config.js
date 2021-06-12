@@ -1,1 +1,1 @@
-var mnemonic = "clever kingdom sure stumble fade awake funny palace torch gate soda because";
+var mnemonic = "biology frequent drill thank inch match shoe essence wash canyon saddle seminar";

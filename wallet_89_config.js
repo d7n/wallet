@@ -1,1 +1,1 @@
-var mnemonic = "recipe alone wolf daughter nephew leader sausage awake ten sweet shuffle sugar";
+var mnemonic = "hawk eternal ability silly document resemble fortune abandon hello rain taxi warrior";

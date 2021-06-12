@@ -1,1 +1,1 @@
-var mnemonic = "during sea junior ostrich pink wrist fork congress grunt kingdom consider century";
+var mnemonic = "define alert cost case nephew claw flip include replace reason great ramp";

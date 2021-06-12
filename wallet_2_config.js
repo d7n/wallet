@@ -1,1 +1,1 @@
-var mnemonic = "choice maze fame make margin wolf course detect inhale wild timber outdoor";
+var mnemonic = "dust inhale pill amount receive good coil quote glory imitate image gate";

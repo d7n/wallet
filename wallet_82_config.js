@@ -1,1 +1,1 @@
-var mnemonic = "state toilet inherit crumble base parent measure spatial message chair fortune rude";
+var mnemonic = "chuckle scrub echo hint skull burden cover agent allow horror rich drill";

@@ -1,1 +1,1 @@
-var mnemonic = "local process bread depend hour gesture day face exact way govern motion";
+var mnemonic = "summer clarify easily width school entry brick movie pool text bounce pepper";

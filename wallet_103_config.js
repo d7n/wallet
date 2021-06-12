@@ -1,1 +1,1 @@
-var mnemonic = "arrow excite bus someone luggage behind remind marine repeat diesel exchange fancy";
+var mnemonic = "palace maze silly march solar bind neither diagram there toddler grass pair";

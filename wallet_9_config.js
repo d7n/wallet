@@ -1,1 +1,1 @@
-var mnemonic = "biology lumber rail when deliver breeze add wrap must field client rookie";
+var mnemonic = "flee basic that canvas mule income finger habit immune ivory valve into";

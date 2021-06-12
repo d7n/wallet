@@ -1,1 +1,1 @@
-var mnemonic = "palace enter fantasy earn boil age laugh harvest human today visa crash";
+var mnemonic = "leopard scissors swift more short ill media glimpse worry pipe palace tank";

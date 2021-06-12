@@ -1,1 +1,1 @@
-var mnemonic = "sign wealth never flee control this learn resist endorse rib flat happy";
+var mnemonic = "charge patient below push harvest gain belt give piece woman chief turkey";

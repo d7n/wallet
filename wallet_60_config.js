@@ -1,1 +1,1 @@
-var mnemonic = "siege often coast fee crater scan taxi want solid sunset rotate yard";
+var mnemonic = "salon frost stage loop gown wine robot struggle machine pyramid walnut lamp";

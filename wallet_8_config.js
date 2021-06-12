@@ -1,1 +1,1 @@
-var mnemonic = "distance universe apology boat between dinner explain when hover rain net runway";
+var mnemonic = "palm brief answer clean stable habit dilemma repair curve typical have goddess";

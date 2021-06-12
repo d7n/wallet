@@ -1,1 +1,1 @@
-var mnemonic = "host live diet prevent middle satisfy vanish exchange cable genuine dismiss theme";
+var mnemonic = "afraid conduct air fire such ugly trial resist armed engage carry alien";

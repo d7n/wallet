@@ -1,1 +1,1 @@
-var mnemonic = "mask output crush decrease return essence broom torch draft range before artefact";
+var mnemonic = "tennis stomach piece tennis slam draft cream sting flavor october useless festival";

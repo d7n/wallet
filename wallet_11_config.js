@@ -1,1 +1,1 @@
-var mnemonic = "royal arrest issue settle blast stay faint power endless balcony inhale runway";
+var mnemonic = "hammer canyon nasty jewel magnet expect other humor album pig speak weird";

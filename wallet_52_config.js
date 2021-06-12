@@ -1,1 +1,1 @@
-var mnemonic = "fringe girl stomach shell limb song critic brand spawn jewel guide sting";
+var mnemonic = "fine situate evidence crush calm twelve observe decrease rug narrow sleep couple";

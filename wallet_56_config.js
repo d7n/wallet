@@ -1,1 +1,1 @@
-var mnemonic = "explain correct ability supreme destroy robot rifle cannon sand concert couch rotate";
+var mnemonic = "cinnamon useless dust clock rich region mad illness slow drip desk brisk";

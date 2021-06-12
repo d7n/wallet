@@ -1,1 +1,1 @@
-var mnemonic = "exclude decade demand warfare earth spoil summer oppose glad employ reveal debris";
+var mnemonic = "slot armed gossip cook pudding disorder rural road speak can obvious sketch";

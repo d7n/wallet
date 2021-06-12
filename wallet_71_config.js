@@ -1,1 +1,1 @@
-var mnemonic = "wonder mystery page zero science lens asthma blur timber chat hand carpet";
+var mnemonic = "rule youth account sure tag maple rice harvest impose depend exercise frame";

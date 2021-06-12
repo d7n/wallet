@@ -1,1 +1,1 @@
-var mnemonic = "citizen august pole upset tent sponsor omit hungry brush cash deposit reform";
+var mnemonic = "scene feed marriage blood remember clay void simple harbor sense gravity tell";

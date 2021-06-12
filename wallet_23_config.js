@@ -1,1 +1,1 @@
-var mnemonic = "peasant pull slogan lion same fun black spray usage before fatal agree";
+var mnemonic = "woman skirt fan prevent bronze aware spread easy spoon once syrup prison";

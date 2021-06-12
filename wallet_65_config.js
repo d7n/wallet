@@ -1,1 +1,1 @@
-var mnemonic = "until act ostrich medal flash return equip angry online bulb style brand";
+var mnemonic = "sight oil enlist word strategy enhance mansion run robot bitter orient more";

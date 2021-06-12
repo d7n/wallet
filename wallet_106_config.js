@@ -1,1 +1,1 @@
-var mnemonic = "loan sibling member often pioneer view wrist pulse stage blood quantum young";
+var mnemonic = "morning require mistake trigger stereo mention carbon alley certain answer pitch above";

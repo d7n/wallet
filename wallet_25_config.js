@@ -1,1 +1,1 @@
-var mnemonic = "fire search bone orient retire title mercy camera mix market bottom kitchen";
+var mnemonic = "such obtain attitude clap globe neglect tiny raven rail tilt victory involve";

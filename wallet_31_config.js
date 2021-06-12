@@ -1,1 +1,1 @@
-var mnemonic = "shop flip nature truck gallery time analyst syrup bronze foam cake maid";
+var mnemonic = "series acoustic giggle sport blame sail boil penalty myself enrich minor fiber";

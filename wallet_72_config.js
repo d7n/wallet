@@ -1,1 +1,1 @@
-var mnemonic = "zone girl lamp valve list laundry logic photo dish web response echo";
+var mnemonic = "level exile goddess duck world hobby lemon doll risk alone uncle enhance";

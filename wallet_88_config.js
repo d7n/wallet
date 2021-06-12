@@ -1,1 +1,1 @@
-var mnemonic = "inspire tag assume scatter tunnel credit roast document diet enlist visual horn";
+var mnemonic = "stay alley iron include mixture engine warrior abuse desert column pause penalty";

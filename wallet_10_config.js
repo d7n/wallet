@@ -1,1 +1,1 @@
-var mnemonic = "squeeze capable path observe wonder position ozone hat rare dad soap letter";
+var mnemonic = "knife myth outer pudding liar duck foster wage butter thumb property beauty";

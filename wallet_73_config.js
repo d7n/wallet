@@ -1,1 +1,1 @@
-var mnemonic = "album region local hill vote violin saddle index accuse pink kitten credit";
+var mnemonic = "voice direct skull world indoor spot position tide student law boat gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "minor all impact spoon armor garlic mystery slim decrease label birth raise";
+var mnemonic = "oven palm skill peanut napkin ancient three unhappy jelly sight rich mosquito";
