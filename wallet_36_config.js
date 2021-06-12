@@ -1,1 +1,1 @@
-var mnemonic = "water leader hundred rack gadget thought pizza jewel outside swap artwork more";
+var mnemonic = "welcome orange jelly lawsuit bomb once metal smart hair churn marble panic";

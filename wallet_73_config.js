@@ -1,1 +1,1 @@
-var mnemonic = "stage unfair amazing fan sentence ridge tunnel submit already merit jelly meat";
+var mnemonic = "flock diagram steel involve swallow inject glass apart tobacco apple snap switch";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise wife fatigue short goat laundry endorse boil grunt dismiss flock betray";
+var mnemonic = "genius confirm alarm filter early session cover unaware bonus start music culture";

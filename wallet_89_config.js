@@ -1,1 +1,1 @@
-var mnemonic = "sun auction exercise owner spider morning tool exhaust tide double polar bunker";
+var mnemonic = "purity sample crystal caught coach tribe salt bounce salad chunk script bonus";

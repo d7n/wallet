@@ -1,1 +1,1 @@
-var mnemonic = "car middle monster pause census sand cash yard thrive donor tuition above";
+var mnemonic = "poverty trust pigeon keen beyond dumb desert arrange bacon canyon combine supreme";

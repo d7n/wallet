@@ -1,1 +1,1 @@
-var mnemonic = "engine fault canal skin divorce bulk account walk virus bread target under";
+var mnemonic = "derive visual fresh section occur spike account inner praise provide mimic scare";

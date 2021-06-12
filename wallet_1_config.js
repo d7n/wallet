@@ -1,1 +1,1 @@
-var mnemonic = "ceiling symptom push ugly pottery strong senior actress mobile leisure roof shift";
+var mnemonic = "taxi double option identify olive today salute valve thumb release lion second";

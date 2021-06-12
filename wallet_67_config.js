@@ -1,1 +1,1 @@
-var mnemonic = "outer meadow lion peasant ethics panel kit scrap come orange salmon excuse";
+var mnemonic = "melody amount coil push shallow help crucial consider swim village culture junk";

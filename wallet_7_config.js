@@ -1,1 +1,1 @@
-var mnemonic = "lion east camera soccer twist pistol cave cart urban order embody dumb";
+var mnemonic = "surround vocal nuclear milk tree then phrase earth tumble surface indicate join";

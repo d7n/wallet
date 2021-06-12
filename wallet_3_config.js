@@ -1,1 +1,1 @@
-var mnemonic = "midnight lens truly best public install enemy maze shield fatigue unable goat";
+var mnemonic = "icon shield grocery beach treat village loyal fog cheese above erosion gas";

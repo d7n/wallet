@@ -1,1 +1,1 @@
-var mnemonic = "love rapid genre way position tobacco warm hazard bread person blast squeeze";
+var mnemonic = "boss master thrive oak venue almost net race symbol cool goose section";

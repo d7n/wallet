@@ -1,1 +1,1 @@
-var mnemonic = "name zero live ladder object supreme fork brush digital club blame educate";
+var mnemonic = "boost worth person item build turtle guide stool fork surface feed chair";

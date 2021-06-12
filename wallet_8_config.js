@@ -1,1 +1,1 @@
-var mnemonic = "cage repeat craft axis swift lottery legal couch dutch bleak assume hold";
+var mnemonic = "already walnut lady plastic cry empty saddle sort suspect breeze strike embrace";

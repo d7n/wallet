@@ -1,1 +1,1 @@
-var mnemonic = "magnet trash crucial actor chicken asthma cool battle slow dinner fame power";
+var mnemonic = "ghost shadow menu filter paddle asthma thrive sudden pledge tray youth depart";

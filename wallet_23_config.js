@@ -1,1 +1,1 @@
-var mnemonic = "couch adapt pen decorate vanish near warm flavor target sad spider effort";
+var mnemonic = "armed movie hurdle vocal debris rude satoshi input outer quick equip city";

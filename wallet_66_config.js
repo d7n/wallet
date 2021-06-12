@@ -1,1 +1,1 @@
-var mnemonic = "mushroom seminar broken grow excite lunch tooth hedgehog accident timber jewel menu";
+var mnemonic = "boil write cool swallow grief fish rocket buyer number sun ozone spell";

@@ -1,1 +1,1 @@
-var mnemonic = "busy oppose report regret crush grape group kid fiber pizza access love";
+var mnemonic = "lonely razor fossil burger sad away shop engine screen obtain taste six";

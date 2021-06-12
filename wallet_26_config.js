@@ -1,1 +1,1 @@
-var mnemonic = "point arrest torch happy found vibrant increase sunny slow circle reopen situate";
+var mnemonic = "attitude mixed inch reason kangaroo field pen icon laundry away crisp adult";

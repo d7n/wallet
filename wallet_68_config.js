@@ -1,1 +1,1 @@
-var mnemonic = "below analyst blue shoe digital conduct mother risk comic discover fine reflect";
+var mnemonic = "slice predict infant load fuel marine sleep verb dash sadness afford knock";

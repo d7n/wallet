@@ -1,1 +1,1 @@
-var mnemonic = "auction oxygen talent glad address capital scissors motor tenant kangaroo retreat neither";
+var mnemonic = "pink hamster group admit distance address devote cup include stuff coach place";

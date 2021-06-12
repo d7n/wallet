@@ -1,1 +1,1 @@
-var mnemonic = "arm hungry lady laundry law diesel call among flock clock police engage";
+var mnemonic = "crawl sure violin ring ribbon enter term that demand easily recycle decade";

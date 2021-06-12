@@ -1,1 +1,1 @@
-var mnemonic = "vote grit thought there bless abuse chief honey rigid misery glass web";
+var mnemonic = "exercise tomorrow immune spice panic leaf chest crew umbrella mouse gym duty";

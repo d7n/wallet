@@ -1,1 +1,1 @@
-var mnemonic = "fashion whisper hockey brave scrub govern tank appear nice animal chase aisle";
+var mnemonic = "unaware bachelor kitten report close copy erase flock crowd wash doll clever";

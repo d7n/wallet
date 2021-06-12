@@ -1,1 +1,1 @@
-var mnemonic = "point tissue sight cave gather vast easy screen occur wear gain weather";
+var mnemonic = "guard amazing finger ketchup swallow there border ketchup crowd grass brain credit";

@@ -1,1 +1,1 @@
-var mnemonic = "chef pluck innocent link dinner stumble awesome direct unable license accuse save";
+var mnemonic = "junior park depart moment govern head blur hollow thing donkey effort sight";

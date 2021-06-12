@@ -1,1 +1,1 @@
-var mnemonic = "lamp pave same inside off flight flock record obscure soda payment sure";
+var mnemonic = "student fresh measure envelope metal august bachelor shy kind small call believe";

@@ -1,1 +1,1 @@
-var mnemonic = "will bulb lucky space arctic drift reveal tone life useless problem state";
+var mnemonic = "media mad budget safe iron okay siren disease step horror goose artwork";

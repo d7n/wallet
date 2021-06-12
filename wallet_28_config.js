@@ -1,1 +1,1 @@
-var mnemonic = "lens strike letter elegant citizen strike end vanish balcony circle retreat topic";
+var mnemonic = "such choose nuclear sing travel mandate way winner twelve episode quote mistake";

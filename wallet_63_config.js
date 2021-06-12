@@ -1,1 +1,1 @@
-var mnemonic = "define bone gorilla abuse develop estate auto upon finger render census vital";
+var mnemonic = "equal patient skin employ identify brick clutch lizard boat impact pledge grid";

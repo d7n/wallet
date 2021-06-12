@@ -1,1 +1,1 @@
-var mnemonic = "father craft alley lunar poet market post finish purpose believe what soft";
+var mnemonic = "celery amazing unhappy mass author stomach stool thank limit turn season length";

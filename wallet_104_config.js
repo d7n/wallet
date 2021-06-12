@@ -1,1 +1,1 @@
-var mnemonic = "beef picnic knock flock prevent client smooth easy release paddle myth water";
+var mnemonic = "super target speak rain crack curtain medal list media stomach humble leisure";

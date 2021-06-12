@@ -1,1 +1,1 @@
-var mnemonic = "clap cat girl iron recall analyst sponsor zone base exit differ face";
+var mnemonic = "blade key grain vicious lobster derive donor tank alter insane crouch spoil";

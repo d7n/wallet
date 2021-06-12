@@ -1,1 +1,1 @@
-var mnemonic = "size thumb ethics arrange flee advance quit rural area blood plunge aerobic";
+var mnemonic = "sadness notable long vacuum coin youth extend chat grit what kick settle";

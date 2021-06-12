@@ -1,1 +1,1 @@
-var mnemonic = "goddess amused cruel lottery melody scatter mandate sausage capable speak bubble upper";
+var mnemonic = "palm private canyon shrug cliff avoid evoke garden model foot pact dumb";

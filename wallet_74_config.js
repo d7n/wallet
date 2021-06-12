@@ -1,1 +1,1 @@
-var mnemonic = "angry energy express vocal predict glad employ swift bridge dose lake rebel";
+var mnemonic = "hello pupil worth salute hedgehog venue vintage patient tower blouse page hood";

@@ -1,1 +1,1 @@
-var mnemonic = "include law grace obtain skull loan entry monster client impact present guitar";
+var mnemonic = "talk cousin metal pig captain chat resource hover glass decrease blame armed";

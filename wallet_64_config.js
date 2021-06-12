@@ -1,1 +1,1 @@
-var mnemonic = "quantum topic maximum subject common salute attitude ride accident cluster tiny athlete";
+var mnemonic = "voyage carbon praise vapor foot pistol scrap alpha cook inherit stairs title";

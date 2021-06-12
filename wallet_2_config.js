@@ -1,1 +1,1 @@
-var mnemonic = "steak school scissors oyster bench fix spatial thrive onion paddle comic immense";
+var mnemonic = "excite slight dove cup jar stadium produce glue hen snake dwarf scare";

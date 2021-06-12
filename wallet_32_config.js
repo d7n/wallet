@@ -1,1 +1,1 @@
-var mnemonic = "peasant easy wool bronze present sail allow latin salon file action gesture";
+var mnemonic = "cheap defy tell pulse nasty alert fluid pride close blind minor journey";

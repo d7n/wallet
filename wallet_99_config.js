@@ -1,1 +1,1 @@
-var mnemonic = "demise push unknown any pet raven random leisure friend ensure palm uncover";
+var mnemonic = "tissue brush garment price craft napkin father oven tenant deer trophy flame";

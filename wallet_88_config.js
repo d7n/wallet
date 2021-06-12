@@ -1,1 +1,1 @@
-var mnemonic = "noise spirit ecology hamster float anchor elegant fatigue photo meadow diary sadness";
+var mnemonic = "stadium swim harvest eager great pass year hello among spend wear swift";

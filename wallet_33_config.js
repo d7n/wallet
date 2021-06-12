@@ -1,1 +1,1 @@
-var mnemonic = "payment upgrade key submit auction vapor tenant nurse crash place dentist search";
+var mnemonic = "sound nurse have assault toilet pyramid obvious trouble cushion obvious nurse explain";

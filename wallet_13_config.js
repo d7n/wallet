@@ -1,1 +1,1 @@
-var mnemonic = "narrow topic gain occur spray season embody power main second elder round";
+var mnemonic = "feed lumber sense agent sign ghost visa defense horn armed chronic lazy";

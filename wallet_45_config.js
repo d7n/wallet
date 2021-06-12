@@ -1,1 +1,1 @@
-var mnemonic = "proud runway resemble series equal biology pepper vast husband path gauge very";
+var mnemonic = "wire boil patrol melt live lens teach service brother help maid vivid";

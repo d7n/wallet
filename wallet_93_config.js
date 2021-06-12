@@ -1,1 +1,1 @@
-var mnemonic = "move dignity cable vital surface humor despair angle service cry differ public";
+var mnemonic = "shy liar dog whip trouble city pear verify custom analyst pair thunder";

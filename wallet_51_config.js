@@ -1,1 +1,1 @@
-var mnemonic = "vacant twin yellow absent spray grow rebuild switch call alpha track runway";
+var mnemonic = "destroy pen else bright tackle garment spy outer illegal unveil taste renew";

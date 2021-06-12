@@ -1,1 +1,1 @@
-var mnemonic = "mention document person tongue degree until maid isolate amateur travel drama angry";
+var mnemonic = "stand real august forget hard final faculty head diamond blue glove must";

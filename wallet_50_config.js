@@ -1,1 +1,1 @@
-var mnemonic = "unusual tomorrow gift fashion link deliver cruise number brick accuse garbage upon";
+var mnemonic = "solid slab happy coffee rather share aerobic barrel robust shift high often";

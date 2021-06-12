@@ -1,1 +1,1 @@
-var mnemonic = "wonder junk runway misery fancy good space wasp poet client admit code";
+var mnemonic = "ready knee tissue olive blouse problem label media voyage labor custom skate";

@@ -1,1 +1,1 @@
-var mnemonic = "news stable raise heart gap alone suffer decade remind teach rich sick";
+var mnemonic = "dad ball tray burger income method foster grunt squirrel grid famous pilot";

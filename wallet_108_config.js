@@ -1,1 +1,1 @@
-var mnemonic = "noodle index body horror high ecology receive enable pact farm pyramid process";
+var mnemonic = "put solve spread again barely august own raise maple warrior love solve";

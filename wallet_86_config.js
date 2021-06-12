@@ -1,1 +1,1 @@
-var mnemonic = "busy add flash blade symptom imitate wing situate clog exchange potato olive";
+var mnemonic = "ancient lock violin rally brick spy disorder chase leg reveal speak city";

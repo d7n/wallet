@@ -1,1 +1,1 @@
-var mnemonic = "region elegant now uncle start half crawl shoot bright infant claw model";
+var mnemonic = "advance oblige afford state moral zoo dutch trick real audit bless swift";

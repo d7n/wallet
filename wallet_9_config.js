@@ -1,1 +1,1 @@
-var mnemonic = "radio shiver captain adapt resource today elbow attitude humble coast over color";
+var mnemonic = "laptop clog brown twin fringe giggle fluid remove leaf opinion spread misery";

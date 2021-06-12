@@ -1,1 +1,1 @@
-var mnemonic = "must goddess guitar topic stuff usage cook tiger sorry hold enact daring";
+var mnemonic = "boat basic omit learn dizzy antique mango glance faculty film lion warrior";

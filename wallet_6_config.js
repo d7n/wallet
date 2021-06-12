@@ -1,1 +1,1 @@
-var mnemonic = "palace daring wet law trick day blame stage easily kite fog gas";
+var mnemonic = "sand edge swarm bronze obvious crisp acid swallow bullet bacon involve iron";

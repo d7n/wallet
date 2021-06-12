@@ -1,1 +1,1 @@
-var mnemonic = "august mango inhale problem two clay install subject urban anxiety know life";
+var mnemonic = "surprise furnace property sniff curtain fortune trouble predict actress chalk hazard lunar";

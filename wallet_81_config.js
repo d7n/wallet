@@ -1,1 +1,1 @@
-var mnemonic = "pottery note bonus actress fashion menu van promote cargo scene air universe";
+var mnemonic = "defy candy miss sing rescue crucial venue dinner aisle calm violin floor";

@@ -1,1 +1,1 @@
-var mnemonic = "crime riot tennis bind husband earth heavy motor bench priority happy tiny";
+var mnemonic = "wine airport nut blur tiny problem teach year pool oval pair utility";

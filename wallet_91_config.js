@@ -1,1 +1,1 @@
-var mnemonic = "decline quick jazz adjust climb ticket mirror wreck true retreat nephew bird";
+var mnemonic = "viable clinic hood animal pet quit flock unfair sing monkey surge question";

@@ -1,1 +1,1 @@
-var mnemonic = "stand clay defense bachelor burst fat spoil stumble property climb kit dinner";
+var mnemonic = "timber hunt favorite sell because file veteran coin license mansion average true";

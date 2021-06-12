@@ -1,1 +1,1 @@
-var mnemonic = "upset joke chicken slab cake security try head two timber level sponsor";
+var mnemonic = "response diet same swear observe spawn leaf angle dry balcony afford disagree";

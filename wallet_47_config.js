@@ -1,1 +1,1 @@
-var mnemonic = "piece rent special gold leisure library dawn mean ginger crunch fringe moon";
+var mnemonic = "reduce basic blanket aspect month great snow cement control uncle nasty journey";

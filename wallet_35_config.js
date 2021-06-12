@@ -1,1 +1,1 @@
-var mnemonic = "large fitness suffer moment pluck mercy float enable rural crowd system praise";
+var mnemonic = "raccoon deer blossom uncover skull cannon clutch federal velvet unfold crisp lumber";

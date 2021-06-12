@@ -1,1 +1,1 @@
-var mnemonic = "place awful indoor token fossil iron moral deliver pigeon wife blanket alpha";
+var mnemonic = "include inform piece grain fatal music bean vendor quantum paper outdoor rhythm";

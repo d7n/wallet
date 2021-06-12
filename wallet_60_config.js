@@ -1,1 +1,1 @@
-var mnemonic = "beyond midnight young later panda manual galaxy equip alien churn sick nation";
+var mnemonic = "sweet gift hat child eagle push position muffin movie sure ring now";

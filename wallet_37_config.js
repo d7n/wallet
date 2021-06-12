@@ -1,1 +1,1 @@
-var mnemonic = "almost person fury truly bone consider never inject fatal wire window item";
+var mnemonic = "oblige axis track place mean hedgehog rhythm idea grit music still demand";

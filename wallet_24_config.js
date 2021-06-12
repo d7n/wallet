@@ -1,1 +1,1 @@
-var mnemonic = "attack album display abandon razor attract bid unfold world soup chuckle clerk";
+var mnemonic = "hat panel relax stay keen suffer common giraffe nose almost tail mercy";

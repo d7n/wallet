@@ -1,1 +1,1 @@
-var mnemonic = "lonely sound robust galaxy only card subject envelope what country shiver seed";
+var mnemonic = "zoo soap combine length guard badge snow act scatter link minor rifle";

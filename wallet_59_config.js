@@ -1,1 +1,1 @@
-var mnemonic = "enjoy record mass source region gallery refuse century elder deputy scrap holiday";
+var mnemonic = "defy find near purpose opinion mail catch suggest actress soon ahead fantasy";

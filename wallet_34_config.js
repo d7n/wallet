@@ -1,1 +1,1 @@
-var mnemonic = "thumb onion open ritual burden legal vivid metal slight project cereal few";
+var mnemonic = "whale crater scale alert phone sister dutch expose action labor gorilla confirm";

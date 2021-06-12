@@ -1,1 +1,1 @@
-var mnemonic = "ivory swap girl enable sting toddler flight hurdle turn duty joke donate";
+var mnemonic = "journey case bulb repair brass deliver obey comfort crucial reveal trend rescue";

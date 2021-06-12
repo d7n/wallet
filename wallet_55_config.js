@@ -1,1 +1,1 @@
-var mnemonic = "grass loyal water inmate soldier lunch concert often fork thing celery virtual";
+var mnemonic = "rare token tank unknown marine foam thought ribbon effort patch dinner soap";

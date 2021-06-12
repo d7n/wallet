@@ -1,1 +1,1 @@
-var mnemonic = "clip picnic lunch rabbit fire face zebra spell cancel poet start skirt";
+var mnemonic = "agent retire range circle label aspect nerve prefer globe finish vault intact";

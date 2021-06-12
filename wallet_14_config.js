@@ -1,1 +1,1 @@
-var mnemonic = "universe mansion know prison old judge price peanut honey embrace pistol demand";
+var mnemonic = "cushion laugh nut absurd weekend maze stem walnut install super outside decade";

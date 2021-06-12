@@ -1,1 +1,1 @@
-var mnemonic = "bacon turkey luxury symptom coach drama sound group depart morning index resist";
+var mnemonic = "design remind duty inspire frown like broccoli pen jaguar relax gain absent";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder welcome attract tiny pave never food produce scissors enlist oak orient";
+var mnemonic = "settle access remind chapter purity tool shaft device topple fault daughter loyal";

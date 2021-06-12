@@ -1,1 +1,1 @@
-var mnemonic = "pink buyer vital lounge cattle dolphin market brick belt genuine color fashion";
+var mnemonic = "ancient repeat subway caught win error earth modify follow lottery disease oblige";

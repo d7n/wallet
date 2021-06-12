@@ -1,1 +1,1 @@
-var mnemonic = "panel noodle insane reject ice number reflect genre situate glass below enemy";
+var mnemonic = "lift better result budget lottery dose filter bonus debris return visual sphere";

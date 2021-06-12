@@ -1,1 +1,1 @@
-var mnemonic = "pride planet stay lecture sustain brown door spider vendor anger citizen venue";
+var mnemonic = "mail mass urban wrong popular used drastic bag rule broken dress split";

@@ -1,1 +1,1 @@
-var mnemonic = "wife gain two salon fire web beach hour also crash cricket shy";
+var mnemonic = "hover like alien iron error hamster corn daring eight notice current hotel";

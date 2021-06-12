@@ -1,1 +1,1 @@
-var mnemonic = "screen caution anchor lyrics poem split near one cave hill left harvest";
+var mnemonic = "reunion update miracle pave term smoke nasty model eight very future loan";

@@ -1,1 +1,1 @@
-var mnemonic = "approve cactus lab employ combine mad fragile slab scene stand valid squirrel";
+var mnemonic = "syrup flash casual matrix bomb drop come air measure board bitter churn";

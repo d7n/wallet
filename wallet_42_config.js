@@ -1,1 +1,1 @@
-var mnemonic = "maximum cattle lend lazy crop glue miracle online clump strategy vicious sand";
+var mnemonic = "okay just soccer tilt bullet police news capable document rival job stomach";

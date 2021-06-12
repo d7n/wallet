@@ -1,1 +1,1 @@
-var mnemonic = "debris mirror fox brick bench hunt track chief ball rent ride trend";
+var mnemonic = "mechanic affair blanket basic fix betray call rare hard divide know mail";
