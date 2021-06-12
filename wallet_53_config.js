@@ -1,1 +1,1 @@
-var mnemonic = "extend abandon there employ learn tobacco fever record myself nation hurry evoke";
+var mnemonic = "laugh essence banana solution diary parrot slow monster winter chair dust flock";

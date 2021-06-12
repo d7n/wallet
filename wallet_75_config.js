@@ -1,1 +1,1 @@
-var mnemonic = "cherry phrase nominee rocket language exit piano slot worth search useless mercy";
+var mnemonic = "innocent stuff base scissors buddy nerve master mansion aspect bind similar border";

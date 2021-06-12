@@ -1,1 +1,1 @@
-var mnemonic = "gold mandate pact tomorrow unveil pool chef accident endless cabbage dismiss basket";
+var mnemonic = "best apart wall wage valley cherry hair museum people purity blade best";

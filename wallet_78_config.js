@@ -1,1 +1,1 @@
-var mnemonic = "dance canoe cousin erupt upgrade vacuum mountain found render trouble outside fuel";
+var mnemonic = "either you occur kingdom fresh short potato mutual flock puzzle flower move";

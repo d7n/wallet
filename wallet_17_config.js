@@ -1,1 +1,1 @@
-var mnemonic = "great arch enable make icon endless among neutral chase width toward property";
+var mnemonic = "hurdle despair already run focus busy hen innocent fabric want try eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant youth negative system spawn mixed icon angry wheat razor often staff";
+var mnemonic = "guitar pencil stone pave naive birth upset hotel lift hurry paper fee";

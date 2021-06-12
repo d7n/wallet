@@ -1,1 +1,1 @@
-var mnemonic = "coral ginger spoon pencil dish mystery nominee dial pipe carbon federal maze";
+var mnemonic = "axis fit virus knife east turn farm box yard lazy miss genius";

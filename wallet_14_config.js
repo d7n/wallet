@@ -1,1 +1,1 @@
-var mnemonic = "sun polar suggest badge lady record food crumble tuition where zero grit";
+var mnemonic = "own fluid treat crew wasp tumble prize hawk early crisp cactus foot";

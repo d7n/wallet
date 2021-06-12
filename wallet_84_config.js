@@ -1,1 +1,1 @@
-var mnemonic = "catch turn cash hand slab faint cake access swear good angle orphan";
+var mnemonic = "vote wood sustain shock visual shop test enrich win report explain duty";

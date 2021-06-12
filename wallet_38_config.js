@@ -1,1 +1,1 @@
-var mnemonic = "defense law nurse trick raccoon isolate crew distance harvest enroll fog very";
+var mnemonic = "civil music normal pulp access hedgehog art stone royal bar anger outdoor";

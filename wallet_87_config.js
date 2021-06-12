@@ -1,1 +1,1 @@
-var mnemonic = "exact possible special cluster legend host cargo skill cluster neck gloom holiday";
+var mnemonic = "pluck defense field forum clarify destroy day cash retire talk urban answer";

@@ -1,1 +1,1 @@
-var mnemonic = "planet napkin minimum blossom delay cruise chronic future vast modify enhance evil";
+var mnemonic = "manage patrol skin couple develop true mouse card recycle will hazard bike";

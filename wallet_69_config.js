@@ -1,1 +1,1 @@
-var mnemonic = "audit border direct disorder arctic vanish certain install cannon fresh quote brick";
+var mnemonic = "liar logic artist narrow supply actress split year chunk coach alone bonus";

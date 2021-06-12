@@ -1,1 +1,1 @@
-var mnemonic = "bid never inner trip wrist struggle solution joy crack mobile oyster fiber";
+var mnemonic = "surround pave pumpkin music trap chaos piece absorb shift palm wrestle twenty";

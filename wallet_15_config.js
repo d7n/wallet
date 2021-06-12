@@ -1,1 +1,1 @@
-var mnemonic = "danger surround rapid cereal beef rare lobster dose clump cool royal push";
+var mnemonic = "kitchen client chair stone gossip agent lumber horror fatigue food afford engage";

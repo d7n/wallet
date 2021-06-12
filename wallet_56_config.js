@@ -1,1 +1,1 @@
-var mnemonic = "tower derive mesh hotel demise distance hurdle pelican shift cry divide slab";
+var mnemonic = "mail village critic dress repair tiger viable eye aunt blur left trophy";

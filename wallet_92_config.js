@@ -1,1 +1,1 @@
-var mnemonic = "catch endless police guard fatigue protect east east torch wine valid chimney";
+var mnemonic = "cigar flame vague random critic fox bitter behave federal accuse ribbon table";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee usual dry grape topple horse artefact place robust depth harvest enjoy";
+var mnemonic = "cart use system update weather column drama garbage snake act ticket warrior";

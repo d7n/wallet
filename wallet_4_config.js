@@ -1,1 +1,1 @@
-var mnemonic = "alarm roast decrease wink easy box average garbage speak harvest domain armor";
+var mnemonic = "brisk rent swap humor level seed pass rent bike quality wolf question";

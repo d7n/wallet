@@ -1,1 +1,1 @@
-var mnemonic = "fork cereal upset sponsor zero skate enrich census mosquito jaguar theory tragic";
+var mnemonic = "century embrace wave visa gown wide crouch winner horror length bench pact";

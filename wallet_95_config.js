@@ -1,1 +1,1 @@
-var mnemonic = "also pause capable drop media echo settle buyer dumb asset present original";
+var mnemonic = "crop silent pool consider monkey decade already wild wheat empty cook sister";

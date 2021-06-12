@@ -1,1 +1,1 @@
-var mnemonic = "recall push tag kingdom trust pen fatigue mammal gap anger slush mail";
+var mnemonic = "silk icon flush bridge draft polar trend plunge liquid mask hobby either";

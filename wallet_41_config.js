@@ -1,1 +1,1 @@
-var mnemonic = "occur father wage vocal trim chuckle genre jar rural flower bless share";
+var mnemonic = "index cheap gauge moral famous train cruel donor track uncle depth steel";

@@ -1,1 +1,1 @@
-var mnemonic = "select spare lunch romance pattern average sibling crew clog clever amused fragile";
+var mnemonic = "van sport palm gravity shop layer company lock fun episode salute reflect";

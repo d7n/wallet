@@ -1,1 +1,1 @@
-var mnemonic = "page art behave soap unlock extra upon clever hair park enable invest";
+var mnemonic = "glare ocean gadget insect exchange pumpkin scatter stomach curious demise federal tray";

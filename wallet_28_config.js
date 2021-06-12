@@ -1,1 +1,1 @@
-var mnemonic = "kick elegant spell metal border pill ladder unable shop fame what illegal";
+var mnemonic = "chuckle roast rabbit volcano hello process palm steak resist minimum peace lobster";

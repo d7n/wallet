@@ -1,1 +1,1 @@
-var mnemonic = "enemy lawn hybrid that minimum panther all shine upgrade adult exclude leisure";
+var mnemonic = "leopard adapt loan special pumpkin emerge kiwi easy festival dash harbor rigid";

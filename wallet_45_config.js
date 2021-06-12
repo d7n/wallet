@@ -1,1 +1,1 @@
-var mnemonic = "sweet noodle embody civil denial rocket iron width brisk office belt switch";
+var mnemonic = "general scorpion perfect copy system deal history deposit gap promote flash member";

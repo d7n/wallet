@@ -1,1 +1,1 @@
-var mnemonic = "mutual absorb circle domain again attitude inherit ripple zebra inquiry risk ripple";
+var mnemonic = "faint wheel point sand device sample chalk daughter fresh tourist pulse desk";

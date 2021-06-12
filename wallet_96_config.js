@@ -1,1 +1,1 @@
-var mnemonic = "gown asthma mesh rice marriage cup flight ribbon cycle emotion target motion";
+var mnemonic = "own property accuse jealous caution slot guide immense rib cable select section";

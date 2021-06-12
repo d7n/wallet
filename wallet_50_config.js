@@ -1,1 +1,1 @@
-var mnemonic = "since element immense claw convince letter pioneer submit faith draw burden half";
+var mnemonic = "seminar scout shaft because strike canal amateur coach jungle reward slim limit";

@@ -1,1 +1,1 @@
-var mnemonic = "onion orient either surface mesh later emotion onion topic venue secret parrot";
+var mnemonic = "sleep zebra debate travel fine toward orient ladder taste siege actual idle";

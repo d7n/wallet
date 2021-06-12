@@ -1,1 +1,1 @@
-var mnemonic = "deputy leopard two simple salt subject alcohol shiver uniform easily harsh mixture";
+var mnemonic = "taxi slender blind expect agree cancel reflect invest turkey drift found ozone";

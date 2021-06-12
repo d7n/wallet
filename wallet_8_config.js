@@ -1,1 +1,1 @@
-var mnemonic = "barrel ill fly slide worth leopard brick shine pulp eyebrow fabric patch";
+var mnemonic = "accuse skin hurry relief episode obtain finger arrange punch witness fee state";

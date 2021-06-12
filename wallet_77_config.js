@@ -1,1 +1,1 @@
-var mnemonic = "girl false index ice carry diamond clinic risk capable useful clarify violin";
+var mnemonic = "mobile work measure busy zebra noise sort betray meadow bitter despair ethics";

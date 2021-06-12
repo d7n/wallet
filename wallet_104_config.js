@@ -1,1 +1,1 @@
-var mnemonic = "hill where opinion warfare fun valid toss stock choice bacon teach auto";
+var mnemonic = "visual regular plug entry cabbage soldier giggle kiwi fresh try claw knife";

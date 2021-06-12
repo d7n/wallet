@@ -1,1 +1,1 @@
-var mnemonic = "repair lake lemon define recall second loan deposit before icon toast appear";
+var mnemonic = "flame twice water split quick giraffe sauce cousin marble stem pill milk";

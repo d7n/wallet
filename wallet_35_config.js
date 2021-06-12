@@ -1,1 +1,1 @@
-var mnemonic = "forget great example salon banner ribbon giggle bean fish panther reject original";
+var mnemonic = "town labor unique secret wolf attend staff normal above canvas invest flip";

@@ -1,1 +1,1 @@
-var mnemonic = "urge famous trim dune tunnel practice degree harvest chat avocado popular cute";
+var mnemonic = "robot purpose bitter wise gun relax shell taste romance kitten crucial fly";

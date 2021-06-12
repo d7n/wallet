@@ -1,1 +1,1 @@
-var mnemonic = "cross report vocal aunt liar holiday auto earn lake analyst off way";
+var mnemonic = "peace lunch snow flavor matrix waste used random puppy enter mouse shoe";

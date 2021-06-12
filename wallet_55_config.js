@@ -1,1 +1,1 @@
-var mnemonic = "flame apart tunnel cluster fault estate protect taste black carry police ensure";
+var mnemonic = "afraid flag gossip shrug certain misery update target pistol unit lonely oak";

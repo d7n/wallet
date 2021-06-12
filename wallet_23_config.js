@@ -1,1 +1,1 @@
-var mnemonic = "pulp paper false wedding found submit problem goddess jealous room jar total";
+var mnemonic = "auto rhythm express pretty method license tonight paper business asset novel retire";

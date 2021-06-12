@@ -1,1 +1,1 @@
-var mnemonic = "sing design three episode announce price jelly claw trumpet cushion cross donate";
+var mnemonic = "orchard top garbage famous hedgehog unable trade rail wing forest hill stone";

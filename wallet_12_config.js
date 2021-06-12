@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit lesson easy glare install relax aspect chronic spray broom inspire ghost";
+var mnemonic = "gloom connect winner hat palm ceiling rural crouch abstract sight praise awful";

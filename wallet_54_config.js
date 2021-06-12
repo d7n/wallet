@@ -1,1 +1,1 @@
-var mnemonic = "creek capable main tissue display flower office busy spawn hen remove impact";
+var mnemonic = "acoustic face battle upgrade about duty update spray coral weasel code develop";

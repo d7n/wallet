@@ -1,1 +1,1 @@
-var mnemonic = "canal choose mother such adjust patient valid usual silk pass length saddle";
+var mnemonic = "figure pact scissors job adult vote garment devote whale general fence relief";

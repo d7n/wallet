@@ -1,1 +1,1 @@
-var mnemonic = "gossip adjust federal above sweet wait secret velvet speak end muscle noble";
+var mnemonic = "lens cluster bamboo public life mushroom truth invest belt solar saddle bean";

@@ -1,1 +1,1 @@
-var mnemonic = "topple motor jeans tail kind faint voyage way drama puppy unique price";
+var mnemonic = "weather grow space need decline flush social aerobic draft fitness mushroom creek";

@@ -1,1 +1,1 @@
-var mnemonic = "december chronic hood input chicken panda tongue bacon insane chase foam tide";
+var mnemonic = "inhale spider crisp expose order radar lemon ranch scatter nephew result glow";

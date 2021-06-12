@@ -1,1 +1,1 @@
-var mnemonic = "input mango they pledge tower gravity fantasy machine chair weather suit hunt";
+var mnemonic = "nice mule more purpose voyage sadness balance pledge frame people age consider";

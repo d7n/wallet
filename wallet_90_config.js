@@ -1,1 +1,1 @@
-var mnemonic = "lizard chef board session gossip total owner proud start west warfare below";
+var mnemonic = "tribe treat metal truth open belt dad allow ice spice dolphin column";

@@ -1,1 +1,1 @@
-var mnemonic = "health drastic north merge include wait flavor okay hip convince power social";
+var mnemonic = "error kangaroo match unhappy leader worth desert mango fragile arch giraffe century";

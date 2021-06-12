@@ -1,1 +1,1 @@
-var mnemonic = "dad ski glide gain awkward ritual accident can wing element tortoise hammer";
+var mnemonic = "please great broken dash believe promote woman yard viable smart cube orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "local afraid loan month motion example dwarf guess destroy echo buzz truly";
+var mnemonic = "taxi alert winner barrel pretty retreat three face infant famous chief other";

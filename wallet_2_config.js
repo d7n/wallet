@@ -1,1 +1,1 @@
-var mnemonic = "entire vacuum vocal action radio vote split gorilla south film unknown summer";
+var mnemonic = "dinosaur give equip brass chimney certain tissue panic before verify include seminar";

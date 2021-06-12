@@ -1,1 +1,1 @@
-var mnemonic = "floor march shiver upon wear scatter run echo online town cart bone";
+var mnemonic = "walk trade leg cement tourist essence valve enforce first pluck black diet";

@@ -1,1 +1,1 @@
-var mnemonic = "depth anxiety nuclear travel spare together before one ride hockey iron limit";
+var mnemonic = "uphold oval make bronze agree can nominee rescue bitter recipe rely gas";

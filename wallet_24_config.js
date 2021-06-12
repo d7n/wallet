@@ -1,1 +1,1 @@
-var mnemonic = "second fiber flight crumble latin subject gentle rare cruel will basic easily";
+var mnemonic = "tortoise about mimic run high morning wrong used umbrella brother team follow";

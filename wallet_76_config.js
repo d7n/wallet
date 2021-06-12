@@ -1,1 +1,1 @@
-var mnemonic = "accident alarm sister topic genuine benefit dignity reflect decline name elephant train";
+var mnemonic = "minute dust dance mix brush material come stem clarify theme tuition wealth";

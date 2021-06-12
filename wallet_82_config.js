@@ -1,1 +1,1 @@
-var mnemonic = "metal traffic decide ride icon stairs other cart toy debate evidence prize";
+var mnemonic = "print dignity youth trim mind honey farm random able donor cave oxygen";

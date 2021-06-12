@@ -1,1 +1,1 @@
-var mnemonic = "claw news duck moral gauge valley clog speak science mechanic umbrella galaxy";
+var mnemonic = "detect public laugh tomato film liberty shiver artefact position sea upset lumber";

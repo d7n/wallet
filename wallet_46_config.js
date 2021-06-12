@@ -1,1 +1,1 @@
-var mnemonic = "depart embark fish cream desk jungle brand success long tragic exact say";
+var mnemonic = "song provide vehicle lawsuit mirror vacant circle walnut narrow save base awkward";

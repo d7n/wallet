@@ -1,1 +1,1 @@
-var mnemonic = "hero wreck link mom danger divide world dial misery appear erase add";
+var mnemonic = "uncover olive cave grab apple jaguar seven door glow attend gate amount";

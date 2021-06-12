@@ -1,1 +1,1 @@
-var mnemonic = "silent awake biology example glove name seed collect soccer pool dial sketch";
+var mnemonic = "renew edge laugh best romance honey open coil captain view next target";

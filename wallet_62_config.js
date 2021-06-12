@@ -1,1 +1,1 @@
-var mnemonic = "trick side market hero dust mother gym floor famous trend orient goddess";
+var mnemonic = "horror off holiday copper soup ten glare involve only wood always tonight";

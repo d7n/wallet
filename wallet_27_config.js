@@ -1,1 +1,1 @@
-var mnemonic = "cement finish escape device supply east vessel enhance train merry canoe that";
+var mnemonic = "flip exist canyon garment garage three dizzy grunt vacuum humor sunny peanut";

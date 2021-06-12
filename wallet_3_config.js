@@ -1,1 +1,1 @@
-var mnemonic = "nominee runway mushroom avoid fossil spoil copy arrow wine chat exile curtain";
+var mnemonic = "flavor figure urban trial bronze digital friend armed steel link soon road";

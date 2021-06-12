@@ -1,1 +1,1 @@
-var mnemonic = "angry athlete catch symptom sick gadget gesture desert hire quarter slab winter";
+var mnemonic = "achieve atom license infant trial anger snack course rifle trade crowd ribbon";

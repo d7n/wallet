@@ -1,1 +1,1 @@
-var mnemonic = "find side law toddler sight empower shell position prosper bronze wheel tuna";
+var mnemonic = "can liar execute goddess twice avocado rule cannon bamboo actual citizen wheat";

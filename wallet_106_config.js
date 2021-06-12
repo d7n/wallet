@@ -1,1 +1,1 @@
-var mnemonic = "novel pond join connect void this that evoke tell butter flower coffee";
+var mnemonic = "excuse vessel eight december mimic liar tired smooth hat urge road economy";

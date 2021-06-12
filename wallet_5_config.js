@@ -1,1 +1,1 @@
-var mnemonic = "way ordinary behind middle edge forward collect column pool question middle merit";
+var mnemonic = "sunny injury swamp tomorrow swap modify initial wage once oyster save paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "glance thank imitate unveil speed eight unaware casino fame final pulp orient";
+var mnemonic = "crime scale awkward together turtle motion sell sell below harsh reform family";

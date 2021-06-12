@@ -1,1 +1,1 @@
-var mnemonic = "cook lobster clay cabin stool neglect sport blouse sign fetch believe festival";
+var mnemonic = "chest seminar drink verb mail harvest current catch intact sample loop candy";

@@ -1,1 +1,1 @@
-var mnemonic = "grain walnut miracle sick short race grunt walk reflect canoe slim scan";
+var mnemonic = "obtain obscure sure drill gorilla sibling case pair same real ecology daring";

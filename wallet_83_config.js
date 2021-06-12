@@ -1,1 +1,1 @@
-var mnemonic = "tail since garlic brick unfold fee pipe canal trend glory essence science";
+var mnemonic = "vital spatial flight bamboo liquid theme cement crouch mixed art core morning";

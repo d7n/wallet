@@ -1,1 +1,1 @@
-var mnemonic = "slight royal gold extra youth ignore juice crawl bid hurry equal federal";
+var mnemonic = "host wear play general canal offer crush danger genius lion wolf update";

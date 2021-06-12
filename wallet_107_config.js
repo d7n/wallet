@@ -1,1 +1,1 @@
-var mnemonic = "flame meat minute eyebrow replace warrior hero discover quantum fancy bid basket";
+var mnemonic = "despair false tip task rude provide sound kitchen arm ecology bar total";

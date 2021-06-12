@@ -1,1 +1,1 @@
-var mnemonic = "private knife cost humble myth change beach neutral post bonus head coyote";
+var mnemonic = "park govern vessel element dream pride reform rhythm steel response travel barrel";

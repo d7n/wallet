@@ -1,1 +1,1 @@
-var mnemonic = "over anchor hint sibling cross submit roof buyer robust mail praise dish";
+var mnemonic = "cash end actress direct actor rapid egg genuine bargain rifle edge north";

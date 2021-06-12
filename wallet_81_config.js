@@ -1,1 +1,1 @@
-var mnemonic = "evoke rug salmon tiny cover rude select cushion volume enact jump today";
+var mnemonic = "exotic buzz chef chuckle unfair garlic evidence setup awesome favorite trumpet angry";

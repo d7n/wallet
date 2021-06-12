@@ -1,1 +1,1 @@
-var mnemonic = "life again kick proof jacket rally stay bullet scout report approve clean";
+var mnemonic = "reduce couple prefer fragile spice gesture bring green series toward suffer certain";

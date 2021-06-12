@@ -1,1 +1,1 @@
-var mnemonic = "prefer laundry immune famous buyer undo train swim once frown enable have";
+var mnemonic = "suit twenty exhibit acoustic typical toast whip season shiver object rotate winter";

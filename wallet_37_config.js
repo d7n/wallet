@@ -1,1 +1,1 @@
-var mnemonic = "seat music ring dust size heart very fox film shrug memory anchor";
+var mnemonic = "reduce garment resist blanket maximum embark aware wool east design remember physical";

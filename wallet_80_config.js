@@ -1,1 +1,1 @@
-var mnemonic = "club enough swing border remind rug calm rhythm security unlock then oval";
+var mnemonic = "silver exhaust dignity sauce amazing burden awake orchard join win practice movie";

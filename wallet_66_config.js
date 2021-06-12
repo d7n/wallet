@@ -1,1 +1,1 @@
-var mnemonic = "front surround arm surge calm clean satoshi unfair state wear awkward car";
+var mnemonic = "vacant come candy pluck practice staff circle panel energy cinnamon balance park";

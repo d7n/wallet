@@ -1,1 +1,1 @@
-var mnemonic = "battle album cube slice outer happy slide girl midnight virus pulse nothing";
+var mnemonic = "cabbage fault grid lawn long aim step balcony review good ice effort";

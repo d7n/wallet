@@ -1,1 +1,1 @@
-var mnemonic = "detail debate face avocado camera garment thumb lens then obtain car material";
+var mnemonic = "pretty axis raise accuse siege vicious female nasty inch until north legend";

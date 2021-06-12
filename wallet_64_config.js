@@ -1,1 +1,1 @@
-var mnemonic = "bulb parent task sea curtain two essence zero renew junior blue sense";
+var mnemonic = "view upper dog circle combine brother misery adult intact repeat nature announce";

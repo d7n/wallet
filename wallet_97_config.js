@@ -1,1 +1,1 @@
-var mnemonic = "scrap captain tiny kidney young theory satisfy since own fever toddler bid";
+var mnemonic = "over math advance regular stock secret debate ritual duty kiwi valley phone";

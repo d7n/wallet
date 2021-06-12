@@ -1,1 +1,1 @@
-var mnemonic = "clean venture jaguar gown scissors need nominee dove absorb reform hello ring";
+var mnemonic = "cabin dignity bulk disorder boost leave rocket flock eagle stay mind stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "verify can right mind flavor heavy vintage expect member panel indicate digital";
+var mnemonic = "unusual antique long unfair achieve card crumble obvious news drastic mass icon";

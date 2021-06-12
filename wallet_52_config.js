@@ -1,1 +1,1 @@
-var mnemonic = "recipe song impose congress smoke guilt tourist uphold truth lend wash sick";
+var mnemonic = "bright source deny shine plunge tattoo typical total cave evoke vessel boy";

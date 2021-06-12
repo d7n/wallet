@@ -1,1 +1,1 @@
-var mnemonic = "battle subway plunge segment unfold broccoli crumble scissors cupboard excite cram neglect";
+var mnemonic = "stomach speak meadow abstract brain mosquito shiver pepper alley twenty title rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "century then dumb party vacuum emotion fold noise expire expand brain slender";
+var mnemonic = "now legal image strategy hawk legal rifle verify number muscle such curtain";
