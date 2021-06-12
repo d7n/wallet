@@ -1,1 +1,1 @@
-var mnemonic = "reveal toilet net space cattle depart exile alcohol quarter clock unit shy";
+var mnemonic = "awkward food punch battle usage castle calm autumn cluster nation stairs deer";

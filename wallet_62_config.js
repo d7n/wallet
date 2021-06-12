@@ -1,1 +1,1 @@
-var mnemonic = "acid depend palm spirit inflict pipe alert ugly help merry never fossil";
+var mnemonic = "peasant honey reform vocal beyond struggle custom barely pitch teach annual inhale";

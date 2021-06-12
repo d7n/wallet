@@ -1,1 +1,1 @@
-var mnemonic = "jump donor exclude shadow inform unusual express blossom item digital renew brush";
+var mnemonic = "shoe kick best despair afraid humor actress text ranch witness close couple";

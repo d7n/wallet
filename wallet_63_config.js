@@ -1,1 +1,1 @@
-var mnemonic = "bring oven alien crime inch forward online trash frost captain blouse eagle";
+var mnemonic = "head child deliver jealous frost piano clip balcony hair pill piece cancel";

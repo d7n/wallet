@@ -1,1 +1,1 @@
-var mnemonic = "cross gold valid museum cradle receive catalog sniff say result change short";
+var mnemonic = "merry worry public mirror repeat crawl guilt mushroom orchard confirm hover salt";

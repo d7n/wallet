@@ -1,1 +1,1 @@
-var mnemonic = "garage tray glad switch monitor hedgehog bounce drum punch over sound analyst";
+var mnemonic = "rule find change execute build spirit share summer true brick drink weather";

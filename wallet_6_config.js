@@ -1,1 +1,1 @@
-var mnemonic = "receive symptom enact suggest please guilt clog minute color exclude toddler oak";
+var mnemonic = "dirt planet emotion warm dismiss impulse gesture genre waste celery state issue";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter hospital chalk borrow bubble receive tool rate broom radio quantum shuffle";
+var mnemonic = "joke orphan wrap stomach smoke castle lottery split final way famous letter";

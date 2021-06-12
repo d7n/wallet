@@ -1,1 +1,1 @@
-var mnemonic = "front insect equal repair abstract lawsuit desk valid sport eternal speed roof";
+var mnemonic = "person rescue noble city erode multiply life volcano quote old uncover scatter";

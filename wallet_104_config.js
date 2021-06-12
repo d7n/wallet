@@ -1,1 +1,1 @@
-var mnemonic = "vast polar armed first alone humor sausage ozone slight regret more pill";
+var mnemonic = "wreck eyebrow pony buffalo hurdle siren song video giraffe crunch shock misery";

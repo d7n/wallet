@@ -1,1 +1,1 @@
-var mnemonic = "warfare impulse feed spread glove sea just shy fetch erode bubble ski";
+var mnemonic = "genius gloom seek group rich vital drastic mixed once license digital arrest";

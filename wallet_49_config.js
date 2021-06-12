@@ -1,1 +1,1 @@
-var mnemonic = "second grape print social drift cloud curious scare purchase isolate another tornado";
+var mnemonic = "phone canvas into hamster record blast country sniff index donate patch rail";

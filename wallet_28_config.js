@@ -1,1 +1,1 @@
-var mnemonic = "renew truly movie elevator cram prize robust silver cruise canoe exile junk";
+var mnemonic = "boring wrap shrug release review couple success waste upon daring confirm exhaust";

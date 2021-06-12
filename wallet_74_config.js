@@ -1,1 +1,1 @@
-var mnemonic = "resist method blast approve museum danger truly garden good visual glimpse lottery";
+var mnemonic = "morning casual float memory hip chef sign peanut ski vacant grocery father";

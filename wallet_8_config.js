@@ -1,1 +1,1 @@
-var mnemonic = "keen melt world result drip paddle mail negative witness fade gesture divide";
+var mnemonic = "february enact toe unusual peace stairs ivory differ gloom hero ladder stable";

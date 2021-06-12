@@ -1,1 +1,1 @@
-var mnemonic = "drum name solve there teach volume night approve clean check stereo vault";
+var mnemonic = "concert oblige topple reduce goat else release rare draft quit okay adjust";

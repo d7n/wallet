@@ -1,1 +1,1 @@
-var mnemonic = "brass guard shaft gown silk school coast return balcony over exit catch";
+var mnemonic = "pumpkin potato color organ tide wrist never ceiling require clown keen echo";

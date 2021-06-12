@@ -1,1 +1,1 @@
-var mnemonic = "wrist cart umbrella rival minimum health catch resource file neither remain solar";
+var mnemonic = "spray valid dinner wrong ozone tomorrow cool interest panther alpha federal praise";

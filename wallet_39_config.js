@@ -1,1 +1,1 @@
-var mnemonic = "phrase invite toss rhythm deputy skirt million butter useless fetch tool field";
+var mnemonic = "elegant beach thunder you stamp seek congress decide shallow route cupboard equal";

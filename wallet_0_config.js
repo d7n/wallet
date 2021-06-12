@@ -1,1 +1,1 @@
-var mnemonic = "task scene explain idea expect combine reveal sweet know session amount armor";
+var mnemonic = "when vendor warrior afford comic change describe biology absurd smooth biology awkward";

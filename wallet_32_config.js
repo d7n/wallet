@@ -1,1 +1,1 @@
-var mnemonic = "design quiz into glass alpha improve strike plate gasp vote electric aerobic";
+var mnemonic = "table aunt plate twenty flash wheat credit palm slight column news street";

@@ -1,1 +1,1 @@
-var mnemonic = "marble ridge category snap waste slight review culture become reform soft hollow";
+var mnemonic = "brave cactus economy chimney engage mercy swim boil december rude another faith";

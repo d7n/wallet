@@ -1,1 +1,1 @@
-var mnemonic = "layer certain evolve share hawk cart outdoor arctic scale cabin kiss frozen";
+var mnemonic = "urge finish glove purpose lesson flee rent silk grid deliver second exclude";

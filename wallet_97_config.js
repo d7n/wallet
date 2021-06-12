@@ -1,1 +1,1 @@
-var mnemonic = "cruel save ridge harbor seminar casual dish sugar crop candy garage among";
+var mnemonic = "ginger merry hour buffalo abuse corn foster grab secret lumber emerge stool";

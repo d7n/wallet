@@ -1,1 +1,1 @@
-var mnemonic = "famous close abandon amused blade slender average grace rice north ugly sail";
+var mnemonic = "future gap raise shock chronic general skull outdoor dirt hurdle animal leave";

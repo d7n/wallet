@@ -1,1 +1,1 @@
-var mnemonic = "gospel pig recycle real scare wrap proof scrap scale maid small crime";
+var mnemonic = "match naive tenant auction surge trumpet length sense bamboo live ramp robust";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow consider album minimum next address lunch kingdom choice solve laptop mistake";
+var mnemonic = "child age insect diesel faith damage knife over inmate wrist silk desk";

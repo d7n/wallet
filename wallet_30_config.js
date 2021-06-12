@@ -1,1 +1,1 @@
-var mnemonic = "amazing improve much clap frown scout marriage setup unfold typical blouse truck";
+var mnemonic = "find display utility rubber melt chunk whale vessel edit dune fall better";

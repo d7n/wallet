@@ -1,1 +1,1 @@
-var mnemonic = "process debate process faint stereo quick enrich modify enter fall orange craft";
+var mnemonic = "strike artist turn squirrel tattoo pair jump belt shadow spoon wedding maximum";

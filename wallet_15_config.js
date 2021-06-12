@@ -1,1 +1,1 @@
-var mnemonic = "range float warm army estate age brief retire height bronze there crash";
+var mnemonic = "cheese impact present reopen guard brief exist upper control canoe common mix";

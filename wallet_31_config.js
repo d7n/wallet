@@ -1,1 +1,1 @@
-var mnemonic = "ocean close antenna unaware tongue shell come crop boost hungry stuff small";
+var mnemonic = "dismiss diagram tribe access travel reunion park rain list coyote prison tornado";

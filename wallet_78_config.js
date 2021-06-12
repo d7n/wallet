@@ -1,1 +1,1 @@
-var mnemonic = "zoo steak box melody goat teach super marine figure congress despair gasp";
+var mnemonic = "gym empower employ bleak album jelly nerve measure riot toy eight length";

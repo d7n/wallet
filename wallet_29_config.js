@@ -1,1 +1,1 @@
-var mnemonic = "online bone cabin gadget dwarf grape merit tree yard broccoli cry ring";
+var mnemonic = "salt where garment loan void say help twenty loyal purchase donate toilet";

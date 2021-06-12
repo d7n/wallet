@@ -1,1 +1,1 @@
-var mnemonic = "attend ribbon pave leg rich honey glory danger foam avoid walnut resemble";
+var mnemonic = "annual traffic armed cream slab sister bicycle impulse artefact donkey want goat";

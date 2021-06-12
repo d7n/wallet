@@ -1,1 +1,1 @@
-var mnemonic = "try flat maid caution brave special people liquid excess remind define canoe";
+var mnemonic = "harsh symbol because guilt abandon foot expand erosion purity fold aerobic auto";

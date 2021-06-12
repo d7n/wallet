@@ -1,1 +1,1 @@
-var mnemonic = "useless answer hand hunt behind stool peanut veteran time peanut place credit";
+var mnemonic = "easy oblige hotel act dance sudden crazy talent high runway liquid crew";

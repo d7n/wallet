@@ -1,1 +1,1 @@
-var mnemonic = "shoot creek coil local novel shop equal little duck liar risk leg";
+var mnemonic = "elder obscure hold moral spy excess wisdom wedding story feed fault click";

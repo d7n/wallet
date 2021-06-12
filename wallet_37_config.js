@@ -1,1 +1,1 @@
-var mnemonic = "between recycle flag list opera jazz team salt since jewel much olive";
+var mnemonic = "castle culture zero tip material sort screen jump tag mystery lab hint";

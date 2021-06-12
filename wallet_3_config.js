@@ -1,1 +1,1 @@
-var mnemonic = "february recall drink seed tail detail expand assist title furnace bubble parade";
+var mnemonic = "candy duck fan half job dizzy dash scrub enjoy swallow actual track";

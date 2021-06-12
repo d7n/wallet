@@ -1,1 +1,1 @@
-var mnemonic = "ski armed uncover point visit brown two shy expect laundry first mixed";
+var mnemonic = "kick two width eye keep camera possible mixed lift verify boss discover";

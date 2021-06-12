@@ -1,1 +1,1 @@
-var mnemonic = "unusual client interest faculty uncover funny siege wood night apart crazy rookie";
+var mnemonic = "become iron kick amused real board ocean canvas thrive pulse umbrella oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe trigger jar speed define snack sad nut desk cool donkey express";
+var mnemonic = "edit wool snack flee hammer dry record city bean anchor spatial belt";

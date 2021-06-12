@@ -1,1 +1,1 @@
-var mnemonic = "nation wing trophy bronze egg night sunset plastic planet tip market zoo";
+var mnemonic = "gravity farm popular myth panel rotate chase wink dynamic nice industry mutual";

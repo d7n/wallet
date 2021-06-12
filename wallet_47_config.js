@@ -1,1 +1,1 @@
-var mnemonic = "merge liquid try august avoid still rocket novel country resemble talk harbor";
+var mnemonic = "tomorrow poet worth juice kind fancy coffee usual clap couple happy until";

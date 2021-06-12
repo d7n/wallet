@@ -1,1 +1,1 @@
-var mnemonic = "slender powder dwarf hidden owner actual benefit divert atom virus wet galaxy";
+var mnemonic = "own small able candy feed spider tenant client harsh execute invest main";

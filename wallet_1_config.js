@@ -1,1 +1,1 @@
-var mnemonic = "film ahead claim bottom chapter basic oven moon include curious method wasp";
+var mnemonic = "toast glimpse emerge perfect control spy need input history space tired tornado";

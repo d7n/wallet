@@ -1,1 +1,1 @@
-var mnemonic = "hybrid avoid tribe gaze mimic swarm lion expect accident summer glass until";
+var mnemonic = "inform quote tragic access affair grow balcony tail gather donor clean atom";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty boil huge kit wood glow town scissors federal chalk achieve carbon";
+var mnemonic = "squirrel direct tree slush cake sure bronze smile tomorrow ocean train arrange";

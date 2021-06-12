@@ -1,1 +1,1 @@
-var mnemonic = "grunt flavor lock silent close elegant face very stereo advice input pole";
+var mnemonic = "velvet bonus tourist ridge paper wrap usage mushroom nest heavy ask gap";

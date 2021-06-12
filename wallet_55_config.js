@@ -1,1 +1,1 @@
-var mnemonic = "guilt across empty mutual great sketch pitch valid skull blue trim mean";
+var mnemonic = "juice public analyst ten diet clump try evidence fish stick dune range";

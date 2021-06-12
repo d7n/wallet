@@ -1,1 +1,1 @@
-var mnemonic = "announce cake similar warrior cattle lizard chest junk fee disease shaft broom";
+var mnemonic = "spring exist connect valve chalk poem ozone solution inject found chase address";

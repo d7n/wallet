@@ -1,1 +1,1 @@
-var mnemonic = "gadget draft throw fossil fever unfold replace fresh wrap town print fix";
+var mnemonic = "middle tragic inmate kidney cry fancy speak surround myth notice anchor unit";

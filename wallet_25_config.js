@@ -1,1 +1,1 @@
-var mnemonic = "lecture walnut rice spare envelope dove merry village sample chuckle barely region";
+var mnemonic = "hurdle genuine taxi kitten census left clown wide figure museum useless false";

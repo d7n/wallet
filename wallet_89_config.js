@@ -1,1 +1,1 @@
-var mnemonic = "blame surface dune lizard admit fade fire tide uncle axis ozone donate";
+var mnemonic = "genre harvest catch fuel fix either kitten bronze flash unaware swarm hello";

@@ -1,1 +1,1 @@
-var mnemonic = "north shrug absorb argue drive dynamic canoe dry blur erode enrich visa";
+var mnemonic = "logic series shop donor pill cycle double mouse frame industry gas boy";

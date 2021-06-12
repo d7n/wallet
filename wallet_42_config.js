@@ -1,1 +1,1 @@
-var mnemonic = "joy crack ice blast example mean horror notable pipe school high cereal";
+var mnemonic = "make nose banana congress celery swift mutual want rare bullet canvas also";

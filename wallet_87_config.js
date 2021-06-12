@@ -1,1 +1,1 @@
-var mnemonic = "naive slow indicate fade sunset legend public limit turtle crew blouse slush";
+var mnemonic = "clay proof swallow female casual cushion hover model device wedding wheel judge";

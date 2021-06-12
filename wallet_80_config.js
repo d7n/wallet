@@ -1,1 +1,1 @@
-var mnemonic = "scout aspect below thumb shoot letter satisfy chef fit mystery mimic million";
+var mnemonic = "debate magnet inform loud tumble crawl solution decide modify control inch fix";

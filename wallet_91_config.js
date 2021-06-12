@@ -1,1 +1,1 @@
-var mnemonic = "bus style plastic soccer direct chapter depend elder ozone mobile hamster ridge";
+var mnemonic = "arm few future sell bachelor cargo adapt slim fruit clown drastic other";

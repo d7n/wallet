@@ -1,1 +1,1 @@
-var mnemonic = "say fabric tag path sense used casino cover random athlete pool quantum";
+var mnemonic = "soon royal useless double saddle knife burst bronze cigar elegant wonder left";

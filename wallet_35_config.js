@@ -1,1 +1,1 @@
-var mnemonic = "oil meadow saddle organ skirt phrase flavor believe lift fuel error raven";
+var mnemonic = "upper hello busy curious tower problem exist cloth ethics rhythm receive hood";

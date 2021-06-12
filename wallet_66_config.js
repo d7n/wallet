@@ -1,1 +1,1 @@
-var mnemonic = "uniform shed girl summer kid space enjoy village blame fun crazy notable";
+var mnemonic = "furnace thought staff shadow maze poem uphold spirit bonus upon tomorrow begin";

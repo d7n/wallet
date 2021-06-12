@@ -1,1 +1,1 @@
-var mnemonic = "stove regret option small miracle axis turkey shoulder mouse wood hip typical";
+var mnemonic = "replace like vendor erosion insane century awake ankle bargain mixture type welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic guess core arena vessel club shiver stay modify spend bike aware";
+var mnemonic = "brown clump cliff lesson claw blue print blush soup wine asthma omit";

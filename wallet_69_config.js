@@ -1,1 +1,1 @@
-var mnemonic = "sound recipe sadness mass dignity eye car menu obvious another grape sleep";
+var mnemonic = "skirt connect column uncover person great kingdom wolf put cable hold onion";

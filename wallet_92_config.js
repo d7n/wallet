@@ -1,1 +1,1 @@
-var mnemonic = "cushion social spot anchor city firm say soup rival now frog squeeze";
+var mnemonic = "loyal wine fire east ugly car soldier dismiss loan host rack quiz";

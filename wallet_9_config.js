@@ -1,1 +1,1 @@
-var mnemonic = "hawk leave crop guard fame pelican taste valve exhibit file rude profit";
+var mnemonic = "simple hobby axis angle random aware neck city entry unlock opinion scrub";

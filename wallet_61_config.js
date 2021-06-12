@@ -1,1 +1,1 @@
-var mnemonic = "deer pond raccoon height game roof remind follow soup motor coconut appear";
+var mnemonic = "spring place hand use december deputy answer unhappy olympic cat better pink";

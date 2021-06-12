@@ -1,1 +1,1 @@
-var mnemonic = "borrow version offer cradle spawn enlist bullet yellow base pretty unknown twenty";
+var mnemonic = "snack globe tennis swift miss crew broken quarter service loyal narrow sight";

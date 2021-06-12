@@ -1,1 +1,1 @@
-var mnemonic = "giant moon vanish extra gorilla furnace auction east silk spoil floor amateur";
+var mnemonic = "artist captain they draft solution rich remain gate meat cave east airport";

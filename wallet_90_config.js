@@ -1,1 +1,1 @@
-var mnemonic = "draw sugar connect forum prepare repair buffalo motion winner harsh change urban";
+var mnemonic = "cruise join sure donor quick manage giant wealth snake merit emerge draft";

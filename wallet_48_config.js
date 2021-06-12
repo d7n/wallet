@@ -1,1 +1,1 @@
-var mnemonic = "art cute during jar ocean diesel acid hotel assume fine prepare crunch";
+var mnemonic = "submit shed enough improve year device village domain outdoor eye dust limit";

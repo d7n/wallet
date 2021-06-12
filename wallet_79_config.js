@@ -1,1 +1,1 @@
-var mnemonic = "assume song exchange shift state cupboard raven speak inch dose youth guitar";
+var mnemonic = "noodle novel save length brother sting expect improve mule veteran electric juice";

@@ -1,1 +1,1 @@
-var mnemonic = "frost journey reopen announce pitch smoke coil bean happy humble model common";
+var mnemonic = "taxi awake spread figure calm sausage mass coconut motion phrase okay fabric";

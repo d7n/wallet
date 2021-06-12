@@ -1,1 +1,1 @@
-var mnemonic = "alien slow sleep project slim lift spoon decade worth exile era enough";
+var mnemonic = "screen stadium review girl whale chef prosper song code business letter above";

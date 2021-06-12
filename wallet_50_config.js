@@ -1,1 +1,1 @@
-var mnemonic = "milk promote tribe train foot poet silly shaft stool kingdom shell enforce";
+var mnemonic = "only vault argue bundle top loan renew vacuum three position net gym";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion dinosaur poverty deputy all avoid recycle afraid pipe real below pull";
+var mnemonic = "reopen earn wave talk buffalo panda oyster bronze vacuum unit tobacco sniff";

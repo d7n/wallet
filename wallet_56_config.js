@@ -1,1 +1,1 @@
-var mnemonic = "rhythm lady mimic someone genuine skin forest rapid bird raise tiny quit";
+var mnemonic = "scheme spray siege stool solve push sound valid economy matrix perfect fossil";

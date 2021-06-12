@@ -1,1 +1,1 @@
-var mnemonic = "mosquito arrange mass awake mimic area palace alien sugar purpose junior object";
+var mnemonic = "coffee kangaroo sister noodle glance hunt huge pistol bomb vivid innocent timber";

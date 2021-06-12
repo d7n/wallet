@@ -1,1 +1,1 @@
-var mnemonic = "throw because twin grow alpha learn advice leg inquiry whip apology slender";
+var mnemonic = "near legend limit fox zoo heavy young throw enforce boy penalty remain";

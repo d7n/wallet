@@ -1,1 +1,1 @@
-var mnemonic = "humble piano security hollow mule piece tennis service skin plunge museum hill";
+var mnemonic = "achieve hospital width ignore dinner neck among bullet host oven place romance";

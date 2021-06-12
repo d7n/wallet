@@ -1,1 +1,1 @@
-var mnemonic = "sketch venture include web glimpse pact wagon suggest fly waste wall people";
+var mnemonic = "hood come word ocean square sort people voice current hint impact menu";

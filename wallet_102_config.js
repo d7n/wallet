@@ -1,1 +1,1 @@
-var mnemonic = "frog quantum hockey call float comfort school warrior mistake pizza steel rebel";
+var mnemonic = "process shop conduct identify flush dizzy eagle increase place ten pledge enroll";

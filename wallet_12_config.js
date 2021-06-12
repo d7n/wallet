@@ -1,1 +1,1 @@
-var mnemonic = "minute crater public theme imitate holiday quality wine sand initial walk creek";
+var mnemonic = "fine harvest name warfare loan scene blanket picnic learn current unfold roast";

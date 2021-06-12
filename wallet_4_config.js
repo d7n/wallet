@@ -1,1 +1,1 @@
-var mnemonic = "cabin solve panic fly check usage fluid torch panda market habit ugly";
+var mnemonic = "bonus attack ketchup grocery fatigue lesson squirrel nut sight depth faculty black";

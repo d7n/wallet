@@ -1,1 +1,1 @@
-var mnemonic = "clean art dismiss scrub tag dynamic bike miss nerve actress donor erosion";
+var mnemonic = "direct grid hero flag increase utility arrange place plate dismiss donkey unique";

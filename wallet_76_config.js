@@ -1,1 +1,1 @@
-var mnemonic = "fatigue engage cabin logic water much squeeze liberty night suffer runway target";
+var mnemonic = "when sleep soul add romance canyon goose push bleak robust circle audit";
