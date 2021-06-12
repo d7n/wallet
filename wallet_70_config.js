@@ -1,1 +1,1 @@
-var mnemonic = "gospel envelope slide luxury lottery pause tomorrow avocado salute entire region diesel";
+var mnemonic = "like outside twice trade language page truck muscle snap erosion general used";

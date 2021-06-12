@@ -1,1 +1,1 @@
-var mnemonic = "gloom catalog flash bulb suit invest stove swallow stuff finger electric bench";
+var mnemonic = "loop ocean cement crucial chair noodle panic glory endorse major garlic little";

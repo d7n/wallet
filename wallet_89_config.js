@@ -1,1 +1,1 @@
-var mnemonic = "expose junior grace text point coast doll fit aerobic margin maximum dizzy";
+var mnemonic = "jungle board real seed man shoot vapor just wheel because path desert";

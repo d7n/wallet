@@ -1,1 +1,1 @@
-var mnemonic = "sad suit already eight ankle client success cattle first leave become giraffe";
+var mnemonic = "siren uncover laundry prevent organ tourist segment day milk strong clump boring";

@@ -1,1 +1,1 @@
-var mnemonic = "dash arrive license insane govern diesel surround tenant meat ugly sugar arrange";
+var mnemonic = "extend swear decorate fun tenant lunar meat sadness carry staff recipe valve";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow open patch cute below own say stock fame admit fan chief";
+var mnemonic = "lyrics summer vicious palm offer tone moral wasp rare crime basket symptom";

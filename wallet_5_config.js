@@ -1,1 +1,1 @@
-var mnemonic = "rhythm action caution oval clown vital heavy easy smile mammal arrange wide";
+var mnemonic = "hammer weird tissue gentle text found hybrid garden hospital able auction exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "used empty father toss analyst table pond manual degree minor stay town";
+var mnemonic = "resemble diamond attend later enroll vicious green mule soldier senior rough column";

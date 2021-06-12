@@ -1,1 +1,1 @@
-var mnemonic = "impose caught glove obvious enable fever correct casual drama neglect hedgehog mercy";
+var mnemonic = "amazing pass noble only snack mail fancy correct lucky smoke clock radio";

@@ -1,1 +1,1 @@
-var mnemonic = "payment six assume bring upper same ball diamond gain throw trigger wreck";
+var mnemonic = "silver deliver mammal envelope defy total garbage cabin inquiry absorb toss slender";

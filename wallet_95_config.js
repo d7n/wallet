@@ -1,1 +1,1 @@
-var mnemonic = "visual renew lunar friend wedding island mercy museum boy ivory flower yard";
+var mnemonic = "bike jaguar shine solve piano rack own mirror shrug cotton answer clarify";

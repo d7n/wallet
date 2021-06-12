@@ -1,1 +1,1 @@
-var mnemonic = "swallow chair link undo turtle cute kid venue control thank onion rely";
+var mnemonic = "betray junior cave firm nasty weasel know wing submit inside level rocket";

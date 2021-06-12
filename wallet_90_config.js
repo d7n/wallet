@@ -1,1 +1,1 @@
-var mnemonic = "resemble coast margin push view pulp property scrub ghost confirm just fall";
+var mnemonic = "region absorb inform radio siren ancient marble grid fault clarify deposit apart";

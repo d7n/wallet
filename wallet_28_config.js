@@ -1,1 +1,1 @@
-var mnemonic = "cabin enter end situate upset almost local syrup monster detail person soon";
+var mnemonic = "wheat cause school uniform excuse blossom host earn divide good grief leisure";

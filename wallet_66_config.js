@@ -1,1 +1,1 @@
-var mnemonic = "bicycle swing lend crane ramp sunny neck employ kick enroll gold original";
+var mnemonic = "often figure palm strong west choose reward name victory moon spawn ridge";

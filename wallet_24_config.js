@@ -1,1 +1,1 @@
-var mnemonic = "pact resist frame save slide label october average earn forest prosper prevent";
+var mnemonic = "drive finger flame scrub minute resource fruit twice deny fade sleep urban";

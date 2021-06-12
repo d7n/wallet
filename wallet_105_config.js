@@ -1,1 +1,1 @@
-var mnemonic = "exclude lunch lens food south undo adapt scrap oblige where slim donate";
+var mnemonic = "eternal day avoid about want this teach quit photo primary embody narrow";

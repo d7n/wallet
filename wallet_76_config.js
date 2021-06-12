@@ -1,1 +1,1 @@
-var mnemonic = "powder oak stereo dance initial sister shrimp lecture category gun dragon virtual";
+var mnemonic = "street glimpse uphold motion remain income budget canyon theme knock coach good";

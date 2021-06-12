@@ -1,1 +1,1 @@
-var mnemonic = "month science ski humor city where giant document winner wonder develop rack";
+var mnemonic = "saddle daring call kid rice visual since flower survey grain road eagle";

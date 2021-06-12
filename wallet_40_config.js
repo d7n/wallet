@@ -1,1 +1,1 @@
-var mnemonic = "cherry meat follow knife various jacket pulse tourist park brush actress find";
+var mnemonic = "gap fee joke mobile found spend loan museum want tent since letter";

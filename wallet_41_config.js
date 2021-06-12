@@ -1,1 +1,1 @@
-var mnemonic = "street harbor term setup critic grief clap side benefit layer evil net";
+var mnemonic = "hold pumpkin metal bulb unveil clip area lunar belt enough prevent settle";

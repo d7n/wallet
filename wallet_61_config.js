@@ -1,1 +1,1 @@
-var mnemonic = "select pet sun person soft drive tortoise tone dizzy august retreat beauty";
+var mnemonic = "benefit phrase frost usual pull deny length mix dose despair buffalo often";

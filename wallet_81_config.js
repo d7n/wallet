@@ -1,1 +1,1 @@
-var mnemonic = "draw cabbage balcony cliff naive mention garment gadget hedgehog valley stone defy";
+var mnemonic = "stone fix hover gossip nurse also penalty erase duty biology elbow asthma";

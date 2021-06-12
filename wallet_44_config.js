@@ -1,1 +1,1 @@
-var mnemonic = "cream real cricket brief dolphin aspect cotton habit various ensure siren bonus";
+var mnemonic = "fence minor taxi father diesel april blood scene measure carbon script brother";

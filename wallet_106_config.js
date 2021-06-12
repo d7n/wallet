@@ -1,1 +1,1 @@
-var mnemonic = "evidence latin desk repair sun example number stuff assist logic gain still";
+var mnemonic = "another document lamp stadium play suit barely safe tape seven give build";

@@ -1,1 +1,1 @@
-var mnemonic = "north twist below shuffle mammal cabbage fringe punch coach hat aisle river";
+var mnemonic = "regret link wait surround fall photo exercise load sun wage metal permit";

@@ -1,1 +1,1 @@
-var mnemonic = "mind banner spatial inflict inside lion clog fall fish virus clump into";
+var mnemonic = "egg wink grit spend other ivory foil slush cube sign city round";

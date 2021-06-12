@@ -1,1 +1,1 @@
-var mnemonic = "picnic scissors prize gown lock elevator differ cloud joy oven insane indoor";
+var mnemonic = "flame search bounce weather melody grunt interest clerk proud oak panic embody";

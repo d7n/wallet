@@ -1,1 +1,1 @@
-var mnemonic = "evoke unfair stable excess churn option ankle pact pattern hotel frog shrug";
+var mnemonic = "demise coffee age boat negative taste swing cost dance fit grow belt";

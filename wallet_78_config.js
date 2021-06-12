@@ -1,1 +1,1 @@
-var mnemonic = "rubber bronze eye cinnamon used point inhale genius flock bomb uncover peanut";
+var mnemonic = "output treat cage crisp shallow mule opinion help main hope tomorrow copper";

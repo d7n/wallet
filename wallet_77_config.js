@@ -1,1 +1,1 @@
-var mnemonic = "street connect jazz truck design raw immune spice flame cause cabin buddy";
+var mnemonic = "grain credit feed stand merit execute decrease nice exhaust travel poverty business";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth jacket miracle hood spike spy pencil cattle celery secret school genuine";
+var mnemonic = "wet attack animal again round drink tank demise atom glue brick decline";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty lizard fly govern sure priority student destroy quick announce unaware question";
+var mnemonic = "dirt initial hybrid original share shy beyond base top swim position opera";

@@ -1,1 +1,1 @@
-var mnemonic = "damage garment blanket salmon ugly legend mom distance tuition pelican network cotton";
+var mnemonic = "metal poverty essence alarm claw tag dutch prepare giant torch neck miracle";

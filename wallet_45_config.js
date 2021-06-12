@@ -1,1 +1,1 @@
-var mnemonic = "urge pyramid grace install consider oxygen fix rebel party tip trim raven";
+var mnemonic = "sunset dawn fatal busy clay traffic spike ranch interest course annual audit";

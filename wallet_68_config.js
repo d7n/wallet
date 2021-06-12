@@ -1,1 +1,1 @@
-var mnemonic = "cupboard absorb hedgehog genius will polar ripple chief okay mountain soup mansion";
+var mnemonic = "summer region burden into pupil slender inherit parade endless keep eye present";

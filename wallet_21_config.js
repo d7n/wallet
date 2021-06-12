@@ -1,1 +1,1 @@
-var mnemonic = "stairs tag chuckle two slow kingdom emotion coconut chase wire voyage obtain";
+var mnemonic = "believe disorder rare save yellow text athlete seed action dice shift object";

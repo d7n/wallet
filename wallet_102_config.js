@@ -1,1 +1,1 @@
-var mnemonic = "clutch mango grape flee affair plate riot deputy nest alarm panther you";
+var mnemonic = "debris develop comic anchor fruit rose because area host ship pole pink";

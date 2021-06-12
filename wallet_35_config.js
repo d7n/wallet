@@ -1,1 +1,1 @@
-var mnemonic = "social sausage age embrace wrong victory exhaust silk cattle gentle runway payment";
+var mnemonic = "oyster path walk dose zone mimic vault label comic march trust rack";

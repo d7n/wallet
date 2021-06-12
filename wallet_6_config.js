@@ -1,1 +1,1 @@
-var mnemonic = "finger tomorrow choose summer series journey amount farm distance half later plastic";
+var mnemonic = "remind snow melody pluck moral human recall group weasel symptom hello social";

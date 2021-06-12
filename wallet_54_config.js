@@ -1,1 +1,1 @@
-var mnemonic = "until grab once program crunch just present cruise stable nose seven prepare";
+var mnemonic = "mechanic cannon harbor gift churn helmet junior bless until narrow myth flash";

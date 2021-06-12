@@ -1,1 +1,1 @@
-var mnemonic = "laugh enemy tornado attend elephant list pond minimum manual jelly bachelor spoil";
+var mnemonic = "heart rapid decrease point purity whisper soap deny awful hobby clown rapid";

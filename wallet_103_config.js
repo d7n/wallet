@@ -1,1 +1,1 @@
-var mnemonic = "asthma word place behind bicycle rural thank burden sample satisfy vicious trigger";
+var mnemonic = "corn alone infant motion egg atom cruise town rug you gloom sword";

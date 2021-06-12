@@ -1,1 +1,1 @@
-var mnemonic = "gesture cross radio move toilet accident bag boat sand voice powder teach";
+var mnemonic = "two night blood wagon autumn detect lake yard oppose later saddle scare";

@@ -1,1 +1,1 @@
-var mnemonic = "city must cliff dance loyal vacant hunt legal across seed physical evolve";
+var mnemonic = "blush echo flash pulse hundred rabbit profit boat regret switch core energy";

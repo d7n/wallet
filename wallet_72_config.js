@@ -1,1 +1,1 @@
-var mnemonic = "piece game baby vacant oven dad limb life dream thought market glance";
+var mnemonic = "glare minimum lock can grocery control express noodle roof immense upon crawl";

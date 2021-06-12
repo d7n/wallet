@@ -1,1 +1,1 @@
-var mnemonic = "rice ball dynamic gentle shoot exotic maple trial law audit still liquid";
+var mnemonic = "reject service mind symbol mammal student coyote expand save october gesture bracket";

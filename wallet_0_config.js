@@ -1,1 +1,1 @@
-var mnemonic = "process snake rain enjoy decide flight beef bring ozone unit horn tomorrow";
+var mnemonic = "buffalo matrix enlist sad yellow giraffe vast dolphin hard average invest unusual";

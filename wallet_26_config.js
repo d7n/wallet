@@ -1,1 +1,1 @@
-var mnemonic = "moment torch clarify size vendor soul blush flight shallow candy announce cotton";
+var mnemonic = "balcony involve hungry unfold grab tower jealous cage bronze ten pulp glow";

@@ -1,1 +1,1 @@
-var mnemonic = "vital bone unfair volcano nest leisure renew destroy stuff fantasy choose daughter";
+var mnemonic = "cat ripple catch affair odor frozen cancel relax identify aerobic thumb ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "index cool cabin pull act under slender differ machine history delay method";
+var mnemonic = "deputy farm minor couple oyster uncle brisk real gorilla uncover weather census";

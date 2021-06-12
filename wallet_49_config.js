@@ -1,1 +1,1 @@
-var mnemonic = "bullet venue fence false junk baby circle anxiety affair share coral soon";
+var mnemonic = "hold toe pretty midnight leaf dolphin pyramid joy what royal category street";

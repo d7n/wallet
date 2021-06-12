@@ -1,1 +1,1 @@
-var mnemonic = "slab window decrease wise laugh life champion distance demise thunder foot bamboo";
+var mnemonic = "display midnight vault always beauty street owner eight blood book hold ozone";

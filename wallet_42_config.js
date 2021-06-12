@@ -1,1 +1,1 @@
-var mnemonic = "round weird amount absurd peace beef vessel cactus achieve crisp build blind";
+var mnemonic = "leg cloud sign rain exist together wife used episode prize legal mango";

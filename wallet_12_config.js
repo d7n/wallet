@@ -1,1 +1,1 @@
-var mnemonic = "order pull combine torch guard runway slim situate calm junk swear cherry";
+var mnemonic = "place change shift slender rose charge wonder guitar slot idle short relax";

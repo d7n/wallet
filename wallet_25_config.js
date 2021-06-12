@@ -1,1 +1,1 @@
-var mnemonic = "boat sniff destroy planet certain gain super clog vital case gossip clever";
+var mnemonic = "board poet salute perfect topic song offer erode stand rebuild figure scheme";

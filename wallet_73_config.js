@@ -1,1 +1,1 @@
-var mnemonic = "wrong around canoe ride brick dwarf vast artist creek youth involve rapid";
+var mnemonic = "peanut insect host eagle drama exhibit wrist swim neither rival remind yard";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy faith silk shaft tag assist spirit prepare pioneer slogan innocent local";
+var mnemonic = "era hint join bulb injury kick model lottery judge path silk year";

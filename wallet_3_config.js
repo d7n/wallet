@@ -1,1 +1,1 @@
-var mnemonic = "rich equip promote defy zone cabin return alter time nerve dream shield";
+var mnemonic = "meadow auto over render gather crumble hunt tone current feature galaxy suspect";

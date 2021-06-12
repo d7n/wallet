@@ -1,1 +1,1 @@
-var mnemonic = "leopard useless genius govern window gown library anchor swim filter uphold cannon";
+var mnemonic = "ginger custom predict aisle canal total hint cake trigger monkey skill weather";

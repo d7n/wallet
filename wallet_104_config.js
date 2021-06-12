@@ -1,1 +1,1 @@
-var mnemonic = "much dizzy shuffle subway pupil differ local forum spider observe blade sheriff";
+var mnemonic = "shuffle push found federal steak kiss flower illegal depth derive giant unable";

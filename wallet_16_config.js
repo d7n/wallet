@@ -1,1 +1,1 @@
-var mnemonic = "crystal fossil admit reopen neutral reject ancient reason method brother assume wall";
+var mnemonic = "just best broken quit slogan absent truth genuine stone gate depth fan";

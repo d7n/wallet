@@ -1,1 +1,1 @@
-var mnemonic = "actual sign virtual earth family fiber near author over tobacco smile height";
+var mnemonic = "artefact subject together nurse huge brisk bicycle clerk that lottery sunny talk";

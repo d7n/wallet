@@ -1,1 +1,1 @@
-var mnemonic = "equip treat lab horror above angle stable degree oval attack milk doll";
+var mnemonic = "material tragic control clay poet tortoise obtain butter expire supply boil true";

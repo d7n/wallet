@@ -1,1 +1,1 @@
-var mnemonic = "club inject mask treat daughter monitor coral ocean hair survey enlist exercise";
+var mnemonic = "true arrive inch imitate amazing salute south sunset luxury kiss oil unfair";

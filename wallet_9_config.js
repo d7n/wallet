@@ -1,1 +1,1 @@
-var mnemonic = "cook box stone foam control subway risk save share learn joy flavor";
+var mnemonic = "guard capable anxiety limb dune wage need direct slam arm virtual impose";

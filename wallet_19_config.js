@@ -1,1 +1,1 @@
-var mnemonic = "lecture glass cluster front latin deliver gravity drum length income elder script";
+var mnemonic = "spring security arena orient merit inject impose silly trim turkey kitten glove";

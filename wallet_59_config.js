@@ -1,1 +1,1 @@
-var mnemonic = "aerobic above move metal humor cage enjoy shine document filter exclude walk";
+var mnemonic = "only verify satisfy fly kind burger swing recipe way broken sound budget";

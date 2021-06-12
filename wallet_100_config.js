@@ -1,1 +1,1 @@
-var mnemonic = "vacant field crunch hollow equip wealth steel elder daughter prepare elite ball";
+var mnemonic = "jelly clock balance because sell hammer planet vote symptom you clip analyst";

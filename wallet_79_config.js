@@ -1,1 +1,1 @@
-var mnemonic = "sadness young brick nurse judge matrix broccoli dice volcano sort era please";
+var mnemonic = "cruise book lonely umbrella seat action spy usual good off lucky double";

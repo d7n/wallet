@@ -1,1 +1,1 @@
-var mnemonic = "poverty eternal hundred mixed subject valid divert cage item body pottery roof";
+var mnemonic = "three reduce artefact cradle ocean hood benefit afford senior lamp valid stone";

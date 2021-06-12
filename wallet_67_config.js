@@ -1,1 +1,1 @@
-var mnemonic = "submit diary must jealous symptom base sight vicious alley rival doctor history";
+var mnemonic = "inhale staff taxi rebuild empty length height evidence pepper reflect tell prison";

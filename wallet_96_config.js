@@ -1,1 +1,1 @@
-var mnemonic = "hat audit crucial addict wood near ostrich morning flash dress state weird";
+var mnemonic = "truth danger exhibit bench perfect fever satoshi confirm pear drive army title";

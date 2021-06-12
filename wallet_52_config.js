@@ -1,1 +1,1 @@
-var mnemonic = "slush like grunt gold judge month avoid cry husband cruise effort dragon";
+var mnemonic = "dawn grief clock patrol meat favorite orbit over cluster six seminar travel";

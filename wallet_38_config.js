@@ -1,1 +1,1 @@
-var mnemonic = "history pulp blind anchor emotion cheap fortune material donkey lucky pyramid alley";
+var mnemonic = "midnight gentle city robust wrong panda observe junk render finish sibling damage";

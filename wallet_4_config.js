@@ -1,1 +1,1 @@
-var mnemonic = "electric glide laundry strong country collect drama mass embrace setup possible carbon";
+var mnemonic = "include knife quantum scare combine slide sentence gravity couple segment seven lemon";

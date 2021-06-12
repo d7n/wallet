@@ -1,1 +1,1 @@
-var mnemonic = "ramp observe asset net collect easily state want slim stereo neck mass";
+var mnemonic = "beach wool damage faith ocean mountain dial sing defy equip pilot room";

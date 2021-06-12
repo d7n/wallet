@@ -1,1 +1,1 @@
-var mnemonic = "fatigue swift bag uniform mountain want trophy trash pact float bronze pyramid";
+var mnemonic = "wheel winner duty physical camera again day six thing feel panther idle";

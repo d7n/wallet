@@ -1,1 +1,1 @@
-var mnemonic = "quarter bargain vast accident bundle false embark another crash veteran fire among";
+var mnemonic = "alien frozen hamster ski gift work exercise join toilet spare allow nuclear";

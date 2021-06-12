@@ -1,1 +1,1 @@
-var mnemonic = "online believe world girl muscle cross humble cool excess hand loud ski";
+var mnemonic = "night ranch debris favorite priority action enact nature remain mixture mushroom maximum";

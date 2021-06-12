@@ -1,1 +1,1 @@
-var mnemonic = "ostrich february scout oil crisp outdoor seed misery bridge cement another story";
+var mnemonic = "seminar goddess clock soldier repair cash pottery wolf oak kitchen minimum lava";

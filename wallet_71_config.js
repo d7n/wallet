@@ -1,1 +1,1 @@
-var mnemonic = "truck refuse dawn make bronze shock cushion drastic claim climb tennis remind";
+var mnemonic = "hat jaguar kitchen arch marble account carpet dynamic walnut pluck vague moral";
