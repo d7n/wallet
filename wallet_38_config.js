@@ -1,1 +1,1 @@
-var mnemonic = "able agent athlete control broccoli gain sting shrimp omit scare adult admit";
+var mnemonic = "shadow angry noble whale weather case club equip pause crater hold nation";

@@ -1,1 +1,1 @@
-var mnemonic = "sell program apple lizard boil immune edge unfold divert tube distance two";
+var mnemonic = "initial public art viable universe deliver increase chat usage century female lunch";

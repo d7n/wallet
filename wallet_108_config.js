@@ -1,1 +1,1 @@
-var mnemonic = "trigger direct resource promote winner actual tell picnic canyon frequent across swift";
+var mnemonic = "head other home key gossip canyon west cloud mention video child mistake";

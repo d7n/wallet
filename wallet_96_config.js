@@ -1,1 +1,1 @@
-var mnemonic = "struggle radar clock jazz latin direct oxygen next blue nut crash hero";
+var mnemonic = "great step that word bridge bounce chimney horse viable ahead breeze split";

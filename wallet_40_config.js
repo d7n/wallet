@@ -1,1 +1,1 @@
-var mnemonic = "deny item circle travel wrong potato wrong donkey double reflect matrix cute";
+var mnemonic = "radar fee another baby tiny upgrade faint divorce target clay pink permit";

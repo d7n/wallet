@@ -1,1 +1,1 @@
-var mnemonic = "scout sunny loud silk grab situate endless left hole speak legend fury";
+var mnemonic = "time cotton learn gift fall wish swear bicycle gather special aerobic tide";

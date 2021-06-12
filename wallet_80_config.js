@@ -1,1 +1,1 @@
-var mnemonic = "venue mansion renew popular scatter income initial bachelor faith stable shaft depend";
+var mnemonic = "seek chase such bid custom drop banner harsh waste replace soup develop";

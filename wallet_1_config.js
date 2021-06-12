@@ -1,1 +1,1 @@
-var mnemonic = "hawk slot alarm adult carry stereo link column parade swim accuse frog";
+var mnemonic = "satisfy wrestle name echo disease shed snap rebel swear penalty noble situate";

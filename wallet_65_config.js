@@ -1,1 +1,1 @@
-var mnemonic = "dynamic scrub snake truck fancy flock crowd meadow fantasy treat run page";
+var mnemonic = "excuse desk give dad brisk column witness grid velvet loop scene bid";

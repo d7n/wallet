@@ -1,1 +1,1 @@
-var mnemonic = "top bone fruit hidden guilt window fluid lounge pull spell imitate project";
+var mnemonic = "side easy measure luxury special father attack mango dinosaur indicate miracle scene";

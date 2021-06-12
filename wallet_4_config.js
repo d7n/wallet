@@ -1,1 +1,1 @@
-var mnemonic = "shoulder pass labor pole name topic tragic ethics phrase glove animal hollow";
+var mnemonic = "thank thing begin pencil fold assault guess energy glad liberty weather digital";

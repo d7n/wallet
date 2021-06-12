@@ -1,1 +1,1 @@
-var mnemonic = "swap flame ball receive draft avocado lazy beauty escape between soap canal";
+var mnemonic = "rebuild quit stairs layer session talk brush upset you major expand tree";

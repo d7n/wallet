@@ -1,1 +1,1 @@
-var mnemonic = "budget glass either advance material ordinary purity produce bracket mother alter vessel";
+var mnemonic = "spider supreme uncover pond churn extend recall banana planet picnic truly harsh";

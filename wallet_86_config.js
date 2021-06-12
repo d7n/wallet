@@ -1,1 +1,1 @@
-var mnemonic = "limit february hill crucial chair document pole ghost same express expire cradle";
+var mnemonic = "caution bubble language true speed manage silent gather pride march rubber plug";

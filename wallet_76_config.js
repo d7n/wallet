@@ -1,1 +1,1 @@
-var mnemonic = "embrace flag picnic detail winter silly clever seat turtle mistake spirit uphold";
+var mnemonic = "have win among depend bacon magic album sell alert net ensure dial";

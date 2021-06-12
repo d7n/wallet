@@ -1,1 +1,1 @@
-var mnemonic = "fiscal kidney summer display test air stamp useless student another unable famous";
+var mnemonic = "shoot lyrics illness twelve dismiss romance cherry grunt maximum tattoo sock dial";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon gather public company senior tank unveil hurry match faint hard rule";
+var mnemonic = "subject scan lab junk blur youth insane garage twenty barely job spray";

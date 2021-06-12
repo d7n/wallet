@@ -1,1 +1,1 @@
-var mnemonic = "iron stay reason chaos when pink syrup rib derive obey swarm jeans";
+var mnemonic = "behind home blood maximum brief ski bread agent under gospel escape hurt";

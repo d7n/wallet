@@ -1,1 +1,1 @@
-var mnemonic = "flag birth illness hunt spot deputy peanut guilt observe pride engine canvas";
+var mnemonic = "similar captain push guide talk mango label tortoise daring pledge pluck twice";

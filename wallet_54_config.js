@@ -1,1 +1,1 @@
-var mnemonic = "gossip gadget wash surface fly maze spatial high enter flush slide impulse";
+var mnemonic = "around depart immense drop nominee lift sail similar rough comic neglect glimpse";

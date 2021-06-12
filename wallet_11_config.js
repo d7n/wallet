@@ -1,1 +1,1 @@
-var mnemonic = "recipe brass castle size away coyote mixed prevent infant dentist soon height";
+var mnemonic = "sniff season legend suit ice divide bamboo voyage trend clip void useful";

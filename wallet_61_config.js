@@ -1,1 +1,1 @@
-var mnemonic = "safe panic claim card raccoon shuffle prepare warrior fade portion dress post";
+var mnemonic = "capital near message oyster fortune alert cousin script goose primary index carpet";

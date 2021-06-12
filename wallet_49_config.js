@@ -1,1 +1,1 @@
-var mnemonic = "spawn smooth dinosaur verb like predict safe uphold crack wife apart leisure";
+var mnemonic = "purse trend wish wagon remain myself harbor muscle buffalo lawsuit street shield";

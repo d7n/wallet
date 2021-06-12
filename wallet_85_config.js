@@ -1,1 +1,1 @@
-var mnemonic = "little rare another kick minute purpose fabric conduct promote electric surprise cereal";
+var mnemonic = "ugly mercy horse wrist mushroom secret blush attend verb amused follow exhibit";

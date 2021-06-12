@@ -1,1 +1,1 @@
-var mnemonic = "ritual gain owner jeans own pave pencil express bird gown young tobacco";
+var mnemonic = "govern wife hub decide trip grit announce betray decrease attitude square speed";

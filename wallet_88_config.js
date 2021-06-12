@@ -1,1 +1,1 @@
-var mnemonic = "hole pole roast lamp swift material unfair coffee general strike slot test";
+var mnemonic = "output snow poem push song pole cushion canoe slim much inside duty";

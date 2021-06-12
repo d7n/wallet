@@ -1,1 +1,1 @@
-var mnemonic = "thunder blur buzz effort obscure buffalo voyage whip monkey live congress mesh";
+var mnemonic = "easy sister accident bid there seek speak judge entry sand disorder recall";

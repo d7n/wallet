@@ -1,1 +1,1 @@
-var mnemonic = "giggle sister like rival trend ball judge green any also grow hover";
+var mnemonic = "pass coffee galaxy people infant rally fancy bright tank caution junior snow";

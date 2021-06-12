@@ -1,1 +1,1 @@
-var mnemonic = "dinner response asthma motion enrich hub attract dice action game side lecture";
+var mnemonic = "hand warrior smooth ginger barrel claim soup lunar hub travel spice relax";

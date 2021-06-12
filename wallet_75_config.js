@@ -1,1 +1,1 @@
-var mnemonic = "evidence fish capital tattoo accident soda nephew sock notable absurd dizzy erase";
+var mnemonic = "enemy gun ready bring test match high release brisk degree village crunch";

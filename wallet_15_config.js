@@ -1,1 +1,1 @@
-var mnemonic = "spell over autumn protect tool vacuum column load wisdom innocent breeze general";
+var mnemonic = "hill fetch sting butter immune surface canyon machine filter glide jar bronze";

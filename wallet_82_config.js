@@ -1,1 +1,1 @@
-var mnemonic = "trip rude nose fish famous gloom blast become machine muffin taxi raven";
+var mnemonic = "chase original furnace garment notable wisdom spoon person eager that orange myself";

@@ -1,1 +1,1 @@
-var mnemonic = "vital embody owner evidence wish knee hand relief audit oak eagle sauce";
+var mnemonic = "orbit episode thumb pear pipe vibrant soccer series prefer figure calm credit";

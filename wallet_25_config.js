@@ -1,1 +1,1 @@
-var mnemonic = "become spell wet stem rescue brown stumble enhance phrase front ankle orchard";
+var mnemonic = "kitchen rice rigid fortune knee limit pipe logic concert lift attract kingdom";

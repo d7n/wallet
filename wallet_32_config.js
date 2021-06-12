@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit topic stone pony pistol poem grape check estate army dance surround";
+var mnemonic = "grocery little eyebrow large ready game puzzle industry drive peanut explain speak";

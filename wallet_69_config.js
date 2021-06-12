@@ -1,1 +1,1 @@
-var mnemonic = "road spoon method guess squirrel answer increase suggest warm rebel original pink";
+var mnemonic = "hungry drastic unit reopen coin feature leaf gap manual napkin member elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd tube either advice again damage recycle tortoise siege comic depart joke";
+var mnemonic = "case they duty evil airport impulse vehicle metal fuel cry render hawk";

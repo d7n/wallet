@@ -1,1 +1,1 @@
-var mnemonic = "ready noodle grain swift pill family pencil spoon repeat replace range rack";
+var mnemonic = "danger champion lend parrot shrug jelly suffer police february puzzle claim cage";

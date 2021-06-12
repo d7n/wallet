@@ -1,1 +1,1 @@
-var mnemonic = "afraid favorite insect dentist mandate bar endorse devote scrap argue common captain";
+var mnemonic = "certain kidney truth axis bus maze off essay harbor raise coconut visit";

@@ -1,1 +1,1 @@
-var mnemonic = "code tilt brush gate bid century outside jaguar erupt human divorce jeans";
+var mnemonic = "kangaroo illness switch tuition rain vast void harbor six depth bamboo favorite";

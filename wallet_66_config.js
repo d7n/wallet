@@ -1,1 +1,1 @@
-var mnemonic = "march stone actor crash ozone claw rate sea manage survey rack antique";
+var mnemonic = "tomorrow stove axis track absent cricket kid awesome canyon betray village mean";

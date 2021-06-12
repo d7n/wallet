@@ -1,1 +1,1 @@
-var mnemonic = "wonder heavy require ordinary student stove churn congress together sister brief grant";
+var mnemonic = "blame champion result merry effort guess race dune mix mixture loop wave";

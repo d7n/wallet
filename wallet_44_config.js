@@ -1,1 +1,1 @@
-var mnemonic = "snake small bunker edge fan liberty scale tag clump rhythm floor pill";
+var mnemonic = "butter nut basket crystal sample soda alley share hill tourist wealth behave";

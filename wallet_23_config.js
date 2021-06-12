@@ -1,1 +1,1 @@
-var mnemonic = "industry stone mix casual club someone six laundry balance above upper inform";
+var mnemonic = "style idea thrive sketch action icon abstract defy notice purse narrow demise";

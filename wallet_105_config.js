@@ -1,1 +1,1 @@
-var mnemonic = "extra multiply clip protect link junior faculty kitchen ability work ten ribbon";
+var mnemonic = "glad calm second fetch rival vibrant family element stereo stock miracle tomato";

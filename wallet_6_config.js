@@ -1,1 +1,1 @@
-var mnemonic = "battle good quantum castle motion lemon travel fantasy quantum pride season one";
+var mnemonic = "laptop sweet paper alter visa fuel garage advice around tool mother picnic";

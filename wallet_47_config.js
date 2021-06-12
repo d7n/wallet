@@ -1,1 +1,1 @@
-var mnemonic = "advice more toss very rescue poet expect horse boy rent plastic winner";
+var mnemonic = "parent order recall drop envelope uncle foam always staff region innocent artefact";

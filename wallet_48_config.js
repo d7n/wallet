@@ -1,1 +1,1 @@
-var mnemonic = "address expire front minute fly green dish habit tool film evoke deputy";
+var mnemonic = "actress tuition catch onion join bless come hello increase cup about ask";

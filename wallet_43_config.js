@@ -1,1 +1,1 @@
-var mnemonic = "prevent reason nuclear fly shiver grow accident eagle sponsor window echo primary";
+var mnemonic = "talent tattoo tool shift ask rescue garment snap parent year erode galaxy";

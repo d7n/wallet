@@ -1,1 +1,1 @@
-var mnemonic = "hole certain sadness tent deny girl invite either casual drink cargo often";
+var mnemonic = "gap fish love near bounce choose usual twist figure like dawn dance";

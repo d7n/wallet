@@ -1,1 +1,1 @@
-var mnemonic = "veteran display any hawk buyer vivid sausage receive runway train chapter place";
+var mnemonic = "rigid ill festival visual fault witness vanish ozone absent road cart such";

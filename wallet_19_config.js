@@ -1,1 +1,1 @@
-var mnemonic = "long vicious clump shell page more photo wine tornado spy film ticket";
+var mnemonic = "impact weekend laptop quote order general music cannon inmate silver hundred audit";

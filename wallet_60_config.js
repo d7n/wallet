@@ -1,1 +1,1 @@
-var mnemonic = "pony tree hobby zone speak away acoustic actor absurd document essence spice";
+var mnemonic = "square forest grass expire sweet settle fever cram gloom token pulse blade";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle coil one polar must market trouble tongue laptop bonus medal lizard";
+var mnemonic = "replace summer weapon lend mix silent gift journey robot token best marble";

@@ -1,1 +1,1 @@
-var mnemonic = "novel blame practice notice crazy attend daring oven observe crop tourist solve";
+var mnemonic = "mirror shrug float blanket card better various fee elder stick situate excess";

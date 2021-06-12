@@ -1,1 +1,1 @@
-var mnemonic = "sort cruise radar amateur property typical piano spell cupboard hundred acoustic cigar";
+var mnemonic = "room proud prevent vintage tourist lawn crop clarify ghost bulk bleak spider";

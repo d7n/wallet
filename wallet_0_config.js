@@ -1,1 +1,1 @@
-var mnemonic = "stable turn submit chest dizzy sleep tired mouse expire dwarf exhaust vessel";
+var mnemonic = "humor gym skill swamp chair found film student error often tuition achieve";

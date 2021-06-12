@@ -1,1 +1,1 @@
-var mnemonic = "flag witness resemble kid nuclear toddler chest nerve defy anger disorder panther";
+var mnemonic = "skirt arch million unable pair mistake cousin super staff mountain input floor";

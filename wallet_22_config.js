@@ -1,1 +1,1 @@
-var mnemonic = "since tuition rain ritual mirror okay unit until jar eyebrow saddle child";
+var mnemonic = "direct trash easily young please erase burden chuckle wrestle target typical split";

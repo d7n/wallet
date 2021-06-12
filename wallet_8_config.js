@@ -1,1 +1,1 @@
-var mnemonic = "fly federal become tongue tattoo jacket mule swing buyer erosion drink vital";
+var mnemonic = "umbrella decorate volume vital early chaos example tuna hybrid large web brass";

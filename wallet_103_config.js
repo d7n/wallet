@@ -1,1 +1,1 @@
-var mnemonic = "ready voyage rapid can skull sing pair dirt sunset happy tissue limit";
+var mnemonic = "luxury bench quantum actual prepare pitch milk dismiss curious there cloud glass";

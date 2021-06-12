@@ -1,1 +1,1 @@
-var mnemonic = "woman control mail anchor fashion tray what critic under loud museum destroy";
+var mnemonic = "october welcome clock omit notable weasel leg clock acid reopen judge broccoli";

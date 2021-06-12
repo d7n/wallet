@@ -1,1 +1,1 @@
-var mnemonic = "rotate stand next join gift salute distance sea recycle route hotel maximum";
+var mnemonic = "funny pepper swift submit cable same column arch because disorder mutual wear";

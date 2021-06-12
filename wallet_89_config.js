@@ -1,1 +1,1 @@
-var mnemonic = "pelican spray sword correct crush curtain arrow fortune shock olympic gauge define";
+var mnemonic = "midnight betray blouse have market fly play pulse swallow upgrade what involve";

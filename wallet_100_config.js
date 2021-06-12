@@ -1,1 +1,1 @@
-var mnemonic = "knock weapon volume piano jar wrong cook rookie action humor main melt";
+var mnemonic = "notice over start divert remind spider area federal scene anxiety lizard still";

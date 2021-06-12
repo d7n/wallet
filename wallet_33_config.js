@@ -1,1 +1,1 @@
-var mnemonic = "giant tired word upon crew napkin crumble current exercise swift march sauce";
+var mnemonic = "option extra club step worry vivid oval illness myth dice soft raise";

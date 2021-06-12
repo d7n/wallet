@@ -1,1 +1,1 @@
-var mnemonic = "venue portion catalog swear front ability local camera lift grass dawn visual";
+var mnemonic = "require reflect will industry spoon invite rail try model dust champion pact";

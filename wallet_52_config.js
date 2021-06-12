@@ -1,1 +1,1 @@
-var mnemonic = "glad quantum salon spin merit toy punch decide matrix short maid engage";
+var mnemonic = "water inflict census leg slim oval wait trash lunch dwarf survey skin";

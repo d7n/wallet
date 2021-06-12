@@ -1,1 +1,1 @@
-var mnemonic = "interest camp crash hollow spoil shy another elder stomach stem capital text";
+var mnemonic = "mom squirrel fiscal gospel prefer base sweet ozone wet obvious patch suspect";

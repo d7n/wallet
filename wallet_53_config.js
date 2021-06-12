@@ -1,1 +1,1 @@
-var mnemonic = "area audit tank one enact sad trend alpha vessel rival tiger glimpse";
+var mnemonic = "lava fluid frozen inch truth fancy else chase void yard such admit";

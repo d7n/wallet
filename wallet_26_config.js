@@ -1,1 +1,1 @@
-var mnemonic = "local such thought clog gown cigar crash property celery lesson used slot";
+var mnemonic = "arrest claw fall order undo quote noise major inquiry scale border squirrel";

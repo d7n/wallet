@@ -1,1 +1,1 @@
-var mnemonic = "patient frog mother list refuse lumber boss bargain arena visual saddle crucial";
+var mnemonic = "winter holiday predict kiss ugly timber enter before present audit tone rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "what unhappy beach corn often tide disorder demise balcony target motion camp";
+var mnemonic = "steak suit front harbor ride robot load nation pulp winter symbol divide";

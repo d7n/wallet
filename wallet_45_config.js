@@ -1,1 +1,1 @@
-var mnemonic = "payment duck turn curve gun chicken limb mule wedding picture average sleep";
+var mnemonic = "certain utility window flight demand broccoli stick news water tunnel dolphin novel";

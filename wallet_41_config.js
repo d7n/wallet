@@ -1,1 +1,1 @@
-var mnemonic = "public physical junk entire regret spell baby escape gap satisfy used expect";
+var mnemonic = "exercise excess goat include glass onion depth equal glad good hold venture";

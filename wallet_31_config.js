@@ -1,1 +1,1 @@
-var mnemonic = "cream pact cabin escape salad enforce sentence other clog vanish kingdom sweet";
+var mnemonic = "later wreck exercise ginger guide false cat pink enlist copy gauge engage";

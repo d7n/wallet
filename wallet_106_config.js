@@ -1,1 +1,1 @@
-var mnemonic = "dry matrix junk glare tuna quit minor color inform elegant behind picnic";
+var mnemonic = "mask abandon pony always buyer gate cinnamon satoshi famous ask material few";

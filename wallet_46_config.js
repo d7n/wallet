@@ -1,1 +1,1 @@
-var mnemonic = "gossip birth garbage prefer enable clerk toy pet rival depth pig kick";
+var mnemonic = "people mule fossil fluid crime cake bulb announce sun boost crane visual";

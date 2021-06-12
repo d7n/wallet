@@ -1,1 +1,1 @@
-var mnemonic = "render brave traffic midnight inject mercy mask sustain casino derive tonight lyrics";
+var mnemonic = "range scheme donate correct poverty light blanket spread olive sand off need";

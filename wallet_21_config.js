@@ -1,1 +1,1 @@
-var mnemonic = "ceiling shock good fit because fever rigid reopen boy gold sing suggest";
+var mnemonic = "secret address picnic sauce glass tonight milk annual finger moment grunt section";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel carbon amount field rebel evolve wish reward verb convince pool job";
+var mnemonic = "cement inside lunar rail orange hen scrub riot woman tray turkey hollow";

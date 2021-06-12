@@ -1,1 +1,1 @@
-var mnemonic = "biology chuckle october poverty scare afraid dune increase furnace trophy slice term";
+var mnemonic = "prize size divide shift require resemble priority idea pig awesome dwarf distance";

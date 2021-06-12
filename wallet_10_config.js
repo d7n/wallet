@@ -1,1 +1,1 @@
-var mnemonic = "hover teach cannon record execute jazz permit make foil used genuine vivid";
+var mnemonic = "tent trash solar adult aware history motion stand scrub maid raccoon someone";

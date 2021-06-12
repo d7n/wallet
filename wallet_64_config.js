@@ -1,1 +1,1 @@
-var mnemonic = "daughter weird cross budget shell bike across vocal gospel front slice polar";
+var mnemonic = "couch avocado dolphin shield ketchup sure cram explain harvest lyrics garlic collect";

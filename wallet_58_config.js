@@ -1,1 +1,1 @@
-var mnemonic = "dress end front multiply picnic nature property crunch taste index topic dash";
+var mnemonic = "resemble normal wage express hurry legal put circle left oblige ahead winner";

@@ -1,1 +1,1 @@
-var mnemonic = "market bracket ketchup world accuse derive frequent occur poet cricket volume basket";
+var mnemonic = "powder guard force strong pride sort patch bag comic party mercy shine";

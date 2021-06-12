@@ -1,1 +1,1 @@
-var mnemonic = "december tragic guard negative step glove ritual agree common trumpet captain blanket";
+var mnemonic = "mad swamp square uphold custom better feel deer cliff cover agree page";

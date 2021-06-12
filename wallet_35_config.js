@@ -1,1 +1,1 @@
-var mnemonic = "dog diary mention square view galaxy prepare winter stage analyst denial february";
+var mnemonic = "length gaze left food bind host auction morning oblige zero elbow quality";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual cherry verb hamster raccoon sleep borrow index runway armor umbrella board";
+var mnemonic = "bargain sweet true boy violin gift forum deny suspect aerobic tired valve";

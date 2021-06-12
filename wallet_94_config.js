@@ -1,1 +1,1 @@
-var mnemonic = "purse poverty antique country skirt defense attend estate seven spin core famous";
+var mnemonic = "follow force broom universe betray adult place assist state wash face pudding";

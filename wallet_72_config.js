@@ -1,1 +1,1 @@
-var mnemonic = "coconut glimpse tonight injury slot inflict elephant smile render napkin wood fan";
+var mnemonic = "flavor leg negative praise ship symptom ramp lawn guide sport effort cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "spray spawn street champion skull alcohol kite slight school cube bachelor stamp";
+var mnemonic = "seat brother tackle egg legend slide capable unlock sound crisp liberty retreat";

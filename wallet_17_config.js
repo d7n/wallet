@@ -1,1 +1,1 @@
-var mnemonic = "pipe device like female session minute crunch ceiling bus blossom shine call";
+var mnemonic = "battle squeeze flat owner device polar guilt such reveal utility flee tell";

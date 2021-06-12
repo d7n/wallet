@@ -1,1 +1,1 @@
-var mnemonic = "fashion rate define badge strike plug visa help hold culture clarify copper";
+var mnemonic = "absent indicate clerk transfer excess word cattle pumpkin good congress jelly series";

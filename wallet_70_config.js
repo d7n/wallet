@@ -1,1 +1,1 @@
-var mnemonic = "feed check mad duck fashion thrive kiss giraffe reopen blind assume own";
+var mnemonic = "knee reopen actual success eagle purse feature exclude video devote trumpet text";
