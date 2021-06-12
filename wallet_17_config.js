@@ -1,1 +1,1 @@
-var mnemonic = "forget crunch movie essence habit day place opera sunny truly express real";
+var mnemonic = "scissors mom hello trumpet increase grain absurd gasp since secret daughter lady";

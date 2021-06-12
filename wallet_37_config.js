@@ -1,1 +1,1 @@
-var mnemonic = "sting method wire gold sight opinion clown ceiling carry stool recycle crystal";
+var mnemonic = "soon front hawk bird again trip jeans surround mouse cruel giant good";

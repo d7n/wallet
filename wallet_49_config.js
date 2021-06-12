@@ -1,1 +1,1 @@
-var mnemonic = "payment town earth cream very put erupt party west crater glove diamond";
+var mnemonic = "pulse raise banana two pizza cloud hundred wagon gain wing wide width";

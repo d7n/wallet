@@ -1,1 +1,1 @@
-var mnemonic = "because comic near sea aunt member loan input sea glow suit direct";
+var mnemonic = "sick stock thank cover core ethics clarify sing reflect nephew climb act";

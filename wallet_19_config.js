@@ -1,1 +1,1 @@
-var mnemonic = "script fluid until rapid ancient cannon shield polar high warrior settle high";
+var mnemonic = "circle gospel panic blame decide head sustain nose nasty try slice reform";

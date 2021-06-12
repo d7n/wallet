@@ -1,1 +1,1 @@
-var mnemonic = "blouse brisk crumble olympic fluid art seek offer rain jeans mystery forest";
+var mnemonic = "size snack melody elegant damp actress pistol same core organ cotton chapter";

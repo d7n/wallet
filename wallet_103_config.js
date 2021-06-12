@@ -1,1 +1,1 @@
-var mnemonic = "vocal giggle two paddle excuse pig member remind behind hood desk quote";
+var mnemonic = "usage traffic radio civil clay pony hour bulk across weekend supreme elder";

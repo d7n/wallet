@@ -1,1 +1,1 @@
-var mnemonic = "drink demand cash bench invest daughter help top metal mom sphere lunch";
+var mnemonic = "hole group trial radar order impulse toward rug spray loop orange retreat";

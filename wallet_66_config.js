@@ -1,1 +1,1 @@
-var mnemonic = "anger update juice employ box stone system february uncover chunk polar brush";
+var mnemonic = "cattle great trash person goose property outer control oil sausage senior usage";

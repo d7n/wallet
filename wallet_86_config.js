@@ -1,1 +1,1 @@
-var mnemonic = "frost shoe idea cheese bubble blouse slot swift surge combine exercise chief";
+var mnemonic = "retire venue apology great swap doll peanut adult pluck account glue cash";

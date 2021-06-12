@@ -1,1 +1,1 @@
-var mnemonic = "math defense cable velvet badge leader avoid merit civil sure couch wire";
+var mnemonic = "hammer case foot law exact water gorilla diary sad correct jazz embody";

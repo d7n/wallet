@@ -1,1 +1,1 @@
-var mnemonic = "old flock rude cloud blade child spin young proud east equal wealth";
+var mnemonic = "humble castle trap find flame acoustic thought catch throw math arch student";

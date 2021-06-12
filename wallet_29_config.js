@@ -1,1 +1,1 @@
-var mnemonic = "lyrics nation sound increase damage warrior image monitor luggage jump choose empty";
+var mnemonic = "rather kite stage jump win gap fiscal have attract worth cousin help";

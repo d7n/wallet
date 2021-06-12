@@ -1,1 +1,1 @@
-var mnemonic = "prefer enough senior token between bread ostrich topic milk fix absurd tide";
+var mnemonic = "rack color faith soon defense swim twelve soft once tragic again sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "drum bounce mimic blast large latin vague cheap hotel happy mosquito destroy";
+var mnemonic = "skin emerge energy attract absurd rhythm winner ritual arrive job amazing skirt";

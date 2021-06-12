@@ -1,1 +1,1 @@
-var mnemonic = "flash clinic verb primary crane physical effort virtual pear axis coast broccoli";
+var mnemonic = "like sugar noble beyond curious harvest employ play dirt another fury animal";

@@ -1,1 +1,1 @@
-var mnemonic = "office twelve spray kite year decade depth rail bitter cram budget basic";
+var mnemonic = "direct cruise stock entry seven spring champion congress object ball thing drama";

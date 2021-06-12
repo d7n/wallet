@@ -1,1 +1,1 @@
-var mnemonic = "arch hen say regular slush grocery system staff seat street correct traffic";
+var mnemonic = "false rack mansion ancient canyon rebel theory news pitch mosquito ranch area";

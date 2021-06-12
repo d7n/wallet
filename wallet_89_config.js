@@ -1,1 +1,1 @@
-var mnemonic = "clog circle rebuild style marriage trumpet pair grass tiny gas twin danger";
+var mnemonic = "news clutch swim more give warm rice blouse clinic prize glass kitten";

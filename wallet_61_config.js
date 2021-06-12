@@ -1,1 +1,1 @@
-var mnemonic = "satisfy tell mind laptop wheat lend tonight derive gloom suit jazz prison";
+var mnemonic = "antenna dinner maze robot depth melody orchard object certain stem combine evidence";

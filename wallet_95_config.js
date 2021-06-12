@@ -1,1 +1,1 @@
-var mnemonic = "edit sell plunge labor federal medal sugar word nasty guide total lounge";
+var mnemonic = "blush funny shaft horn demand cigar park school leopard slim comic sight";

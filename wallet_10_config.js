@@ -1,1 +1,1 @@
-var mnemonic = "spy office hurdle fine sand salad museum pink emotion midnight wrestle second";
+var mnemonic = "doctor loud clean grit usual donkey repair forward resource never dentist nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "silver melody illness token train fancy able student hedgehog plastic quantum symptom";
+var mnemonic = "trash judge join solid brain virus cinnamon spend stairs acquire genuine educate";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce brush betray special chronic sell spice enhance vacuum early end blue";
+var mnemonic = "bamboo govern that item face analyst doll orchard goddess echo reduce person";

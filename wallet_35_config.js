@@ -1,1 +1,1 @@
-var mnemonic = "subway eight clever oven spike wave tissue pupil deer card cinnamon grant";
+var mnemonic = "relief hollow buddy know ignore brief umbrella winner swear canvas able aware";

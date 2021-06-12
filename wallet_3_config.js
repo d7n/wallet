@@ -1,1 +1,1 @@
-var mnemonic = "reveal feel chimney throw squeeze shop stem female pretty fatigue lake quarter";
+var mnemonic = "clarify enhance motor snack border unfold trade canvas south filter wealth cattle";

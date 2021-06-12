@@ -1,1 +1,1 @@
-var mnemonic = "crash walnut when output two uphold two eye lock carpet economy kiwi";
+var mnemonic = "crush bright monitor believe grain point gas vehicle win tunnel labor amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "audit flock uniform glory pass foster sunny table engage march question cry";
+var mnemonic = "lounge parade heavy hour ugly loud cream category sunset salad trap want";

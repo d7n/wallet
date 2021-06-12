@@ -1,1 +1,1 @@
-var mnemonic = "double palm outside exhibit birth olive peasant vacuum float usage cotton brisk";
+var mnemonic = "dress copper grunt spell letter duck vanish swing cycle thing ethics weekend";

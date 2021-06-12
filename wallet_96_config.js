@@ -1,1 +1,1 @@
-var mnemonic = "burst virtual deny post noise convince exotic ghost display emerge deal cycle";
+var mnemonic = "demise lunch dad cart mask office quick advance session garment bubble carry";

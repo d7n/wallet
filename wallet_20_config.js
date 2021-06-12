@@ -1,1 +1,1 @@
-var mnemonic = "army cricket depend ramp situate swarm title brisk another upgrade pull wood";
+var mnemonic = "boy wall swim recall govern hill clinic little wise tray scrap kind";

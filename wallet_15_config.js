@@ -1,1 +1,1 @@
-var mnemonic = "often custom protect south treat asthma nephew anchor claim album embody prosper";
+var mnemonic = "stairs caution bundle share mass panel law genre consider morning palace tape";

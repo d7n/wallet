@@ -1,1 +1,1 @@
-var mnemonic = "slogan deny near seminar floor relax language knock age public unfair repeat";
+var mnemonic = "govern ten lesson pepper husband multiply language fall loan coyote wish night";

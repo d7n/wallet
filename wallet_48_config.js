@@ -1,1 +1,1 @@
-var mnemonic = "universe gospel avocado laugh crush fiber use pioneer kangaroo blossom wife nasty";
+var mnemonic = "direct snow motor echo battle mother voyage riot own nature occur ahead";

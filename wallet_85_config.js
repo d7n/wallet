@@ -1,1 +1,1 @@
-var mnemonic = "meadow unlock brick voyage solid cricket mercy number account sniff boring private";
+var mnemonic = "wrap hazard minimum oblige below fatigue bridge inform ankle image mobile leopard";

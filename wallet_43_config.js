@@ -1,1 +1,1 @@
-var mnemonic = "need shiver idea shove toddler near strategy color sheriff top secret choose";
+var mnemonic = "palace empower typical decline crater version three glass amused pair primary duty";

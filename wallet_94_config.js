@@ -1,1 +1,1 @@
-var mnemonic = "morning moment remain green start neutral build run fluid scrap sick invite";
+var mnemonic = "inflict useless surface seat flame bright panel cradle guess speak sort cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "alley purpose cost oak virus adjust local example young solar impulse bus";
+var mnemonic = "bracket daughter bronze churn sausage easily trick ghost cost ugly suggest spider";

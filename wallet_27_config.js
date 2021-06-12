@@ -1,1 +1,1 @@
-var mnemonic = "banner custom panic wet choice must bundle alpha tuition rare copy index";
+var mnemonic = "field clip leave wet jar call month bargain arrow either orient rely";

@@ -1,1 +1,1 @@
-var mnemonic = "extend marble chuckle before alien shy edit invite ethics disagree slender certain";
+var mnemonic = "walnut expire feel add bacon winner render unit suggest magic clever glare";

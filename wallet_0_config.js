@@ -1,1 +1,1 @@
-var mnemonic = "paper perfect other invest benefit token bone improve palace frequent trophy file";
+var mnemonic = "advice palace hunt another diary engine bleak poem fabric liquid rescue eye";

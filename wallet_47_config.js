@@ -1,1 +1,1 @@
-var mnemonic = "short ahead exotic style invite notice such voyage glue wasp offer industry";
+var mnemonic = "chaos wheel fatigue lend between replace pony exhaust rich enlist tank orient";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard congress album online brown total place two brain imitate left brand";
+var mnemonic = "easily expire casual song split flame ribbon lecture security endless ticket angle";

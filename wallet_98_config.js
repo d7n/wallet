@@ -1,1 +1,1 @@
-var mnemonic = "armor soda company misery uncover dish expire lazy number modify first search";
+var mnemonic = "language win dynamic tube dawn gossip pumpkin ritual noble crystal lazy bunker";

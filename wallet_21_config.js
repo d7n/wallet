@@ -1,1 +1,1 @@
-var mnemonic = "truly shock liquid jar elbow slide enemy amateur motor violin owner armed";
+var mnemonic = "hand elite insect tomato discover match student end zebra change nose chuckle";

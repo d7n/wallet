@@ -1,1 +1,1 @@
-var mnemonic = "flip silver upgrade lonely share infant over lamp noble upon wait plug";
+var mnemonic = "visa tree fix welcome analyst immense bright village alert blade leaf puzzle";

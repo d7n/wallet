@@ -1,1 +1,1 @@
-var mnemonic = "arch depart express client erode boss jaguar door leave biology primary spin";
+var mnemonic = "monitor ghost provide pull hawk gospel faint follow typical alone panel jeans";

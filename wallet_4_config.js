@@ -1,1 +1,1 @@
-var mnemonic = "outer solution scale unfair swamp morning amused timber pull stand vote visual";
+var mnemonic = "exclude wrap describe useless vacuum hamster congress draw potato check bounce cement";

@@ -1,1 +1,1 @@
-var mnemonic = "tube wire census ocean lumber announce stone lazy blue secret leopard nature";
+var mnemonic = "swear bacon attend differ pulp wasp journey pony post trade cabin major";

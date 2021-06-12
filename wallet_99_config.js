@@ -1,1 +1,1 @@
-var mnemonic = "broccoli plug guilt much ribbon liberty best crush joke clinic uncle raw";
+var mnemonic = "client helmet swear daring april harsh party level cement apart soup inner";

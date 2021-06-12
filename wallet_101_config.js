@@ -1,1 +1,1 @@
-var mnemonic = "neck august mutual close key skate regular labor mango misery suggest winter";
+var mnemonic = "milk update entire goose detail wait depth chat bar symptom during derive";

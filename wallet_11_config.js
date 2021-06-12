@@ -1,1 +1,1 @@
-var mnemonic = "fork another project movie latin immune tape hobby bomb away wish metal";
+var mnemonic = "replace leave slice keen caution donkey web era puppy grow glad trend";

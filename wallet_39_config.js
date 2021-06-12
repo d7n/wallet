@@ -1,1 +1,1 @@
-var mnemonic = "cute ride often nurse tribe garlic tent disagree runway primary mountain good";
+var mnemonic = "hammer sentence tourist town boy biology october vapor valid thought cup hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "tip pioneer vanish snow jazz document jungle spike void dune mistake stick";
+var mnemonic = "spice example broom original final arm country transfer blossom glue tennis milk";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile sheriff exercise inhale cruel thunder sample century rookie maximum organ gift";
+var mnemonic = "about chef nose main aware minor during traffic voice maximum soon tree";

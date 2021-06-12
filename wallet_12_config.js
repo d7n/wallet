@@ -1,1 +1,1 @@
-var mnemonic = "lottery space digital phrase furnace fancy unique gallery muscle canoe rather interest";
+var mnemonic = "urban purpose fence grape devote soup social open hat genius behind april";

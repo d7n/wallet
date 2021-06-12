@@ -1,1 +1,1 @@
-var mnemonic = "west husband before excuse become forward nominee loyal knife quit fiber asthma";
+var mnemonic = "flower jacket pause dutch happy satoshi cost rice lounge airport ticket together";

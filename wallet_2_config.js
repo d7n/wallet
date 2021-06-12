@@ -1,1 +1,1 @@
-var mnemonic = "diamond ask load jump spot salute solar upper cave antique mimic blouse";
+var mnemonic = "interest exotic example bounce crew rifle burger bean harbor velvet milk install";

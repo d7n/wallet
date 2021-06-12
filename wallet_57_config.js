@@ -1,1 +1,1 @@
-var mnemonic = "output disorder head fitness entry reject eight spirit citizen left axis loud";
+var mnemonic = "scrap real exclude correct bid dawn knee all antique basic sponsor man";

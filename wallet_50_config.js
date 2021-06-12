@@ -1,1 +1,1 @@
-var mnemonic = "trophy armor maximum labor false attitude boat joy rubber creek describe maze";
+var mnemonic = "output crater genre narrow inform clarify jealous swim donkey outer glide depend";

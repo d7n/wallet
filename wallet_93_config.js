@@ -1,1 +1,1 @@
-var mnemonic = "fun drill rely update palm option cluster notable embark fall husband seed";
+var mnemonic = "since permit vicious luxury virtual swear town clown fish own bag okay";

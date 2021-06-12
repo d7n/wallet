@@ -1,1 +1,1 @@
-var mnemonic = "more quote destroy pulp stay minor debate smile borrow thumb useless vanish";
+var mnemonic = "merry indicate connect poverty quote prepare aim dove about celery useful pair";

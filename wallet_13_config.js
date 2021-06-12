@@ -1,1 +1,1 @@
-var mnemonic = "frequent clump monster august always blanket mango teach gloom truth speed rather";
+var mnemonic = "river bundle bread rain thumb wash across breeze someone copper journey elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "priority basket mosquito divorce hint video pool rally into spike flee flip";
+var mnemonic = "lake snack hard thank guitar peasant double season shine solar truth duty";

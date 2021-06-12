@@ -1,1 +1,1 @@
-var mnemonic = "label carpet chicken nuclear embrace cave repair expose jealous coconut stereo crisp";
+var mnemonic = "spawn entire move code intact human toe federal search hurdle eternal will";

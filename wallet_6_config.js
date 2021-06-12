@@ -1,1 +1,1 @@
-var mnemonic = "fiscal empower weird mask equal clever basic firm mercy illegal thrive panel";
+var mnemonic = "try priority recipe six badge device trick confirm question bar journey ride";

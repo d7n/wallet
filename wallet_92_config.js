@@ -1,1 +1,1 @@
-var mnemonic = "forum super topic jaguar cram tank same infant slim resist sign logic";
+var mnemonic = "forget quality vote route deposit climb fever absurd earn aware lava sibling";

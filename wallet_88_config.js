@@ -1,1 +1,1 @@
-var mnemonic = "derive mushroom reveal arrest auto october nominee pill joy lawn enlist idle";
+var mnemonic = "pear drama noodle staff lady pudding range light fold neutral organ angry";

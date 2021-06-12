@@ -1,1 +1,1 @@
-var mnemonic = "physical amazing oyster picnic crawl desert unusual jealous sausage behave little pelican";
+var mnemonic = "true drink amused umbrella belt skill happy place aisle grow torch table";

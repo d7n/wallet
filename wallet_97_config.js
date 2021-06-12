@@ -1,1 +1,1 @@
-var mnemonic = "excite noise surface axis become account style whip wife hamster route deer";
+var mnemonic = "hero club civil gallery base awesome moment unhappy buddy pact expect degree";

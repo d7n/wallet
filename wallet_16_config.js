@@ -1,1 +1,1 @@
-var mnemonic = "saddle supreme shuffle vendor desert guard squeeze shell kite equal menu that";
+var mnemonic = "dolphin trumpet guard daughter silver assume fashion drop flip update wreck peace";

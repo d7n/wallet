@@ -1,1 +1,1 @@
-var mnemonic = "rely purpose option range main sword rent frog ball amused plastic good";
+var mnemonic = "exclude cage present expire pizza olympic rebuild stable refuse execute glove bonus";

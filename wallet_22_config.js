@@ -1,1 +1,1 @@
-var mnemonic = "border minimum dutch treat margin patch guide zone vibrant trend orbit broom";
+var mnemonic = "wrong swift extra survey harbor harsh village jar organ broken million slogan";

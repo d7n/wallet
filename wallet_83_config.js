@@ -1,1 +1,1 @@
-var mnemonic = "box desk shy argue ghost stereo cram oval pave winner dove inhale";
+var mnemonic = "nest scatter cotton broom quit immense novel govern dirt clap fun myself";

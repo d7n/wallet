@@ -1,1 +1,1 @@
-var mnemonic = "group quarter scorpion state process sleep match ability coral dizzy brush scatter";
+var mnemonic = "normal mean blind dirt region loud whip work try gallery usage amount";

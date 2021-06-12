@@ -1,1 +1,1 @@
-var mnemonic = "again erupt bike thing stay clarify crash hobby casino junk when later";
+var mnemonic = "foil unusual gun bid address uphold laptop valve mouse ghost feed empower";

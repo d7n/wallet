@@ -1,1 +1,1 @@
-var mnemonic = "trash then duty silk scorpion yellow stem crouch remind trap address live";
+var mnemonic = "success other victory zero pluck autumn unique stove bicycle route wolf girl";

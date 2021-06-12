@@ -1,1 +1,1 @@
-var mnemonic = "pet school found couch output fruit winter drama wage pink country elder";
+var mnemonic = "bridge chest absent rule ladder visual pitch base alter exotic federal vanish";

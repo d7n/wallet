@@ -1,1 +1,1 @@
-var mnemonic = "faith match duck outside erosion witness infant middle verify stock all economy";
+var mnemonic = "deliver steak exchange turkey upgrade kangaroo ivory clean frame bachelor remain trophy";

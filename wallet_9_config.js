@@ -1,1 +1,1 @@
-var mnemonic = "shaft eagle almost kiss clinic property arena ranch range ready sand act";
+var mnemonic = "picture soldier spice lift resemble repair fault equip update slogan apology because";

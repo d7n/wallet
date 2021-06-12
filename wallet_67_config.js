@@ -1,1 +1,1 @@
-var mnemonic = "robot decline unlock degree time scene arrive riot swallow income love service";
+var mnemonic = "call fresh immune surface beauty father parrot anxiety ghost asthma speed mobile";

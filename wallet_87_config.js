@@ -1,1 +1,1 @@
-var mnemonic = "master neither discover diet address gain hub swallow theory tray another often";
+var mnemonic = "rhythm scatter broom fruit winter enemy claw category auto trip memory seat";

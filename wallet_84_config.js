@@ -1,1 +1,1 @@
-var mnemonic = "can small pact reflect rain drama citizen scare suffer island fat faith";
+var mnemonic = "tennis survey fine cause note miracle movie icon seek scrub oblige parent";

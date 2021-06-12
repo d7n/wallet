@@ -1,1 +1,1 @@
-var mnemonic = "trumpet crew control dress stomach swing praise grief whisper call cover name";
+var mnemonic = "reject snow play guide hamster bargain mention educate charge treat upset curtain";

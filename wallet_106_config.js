@@ -1,1 +1,1 @@
-var mnemonic = "chronic adjust sure hawk fly sting garage embark owner vacant rich century";
+var mnemonic = "delay wing example swamp mean defy cloth involve machine chest genre interest";

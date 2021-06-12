@@ -1,1 +1,1 @@
-var mnemonic = "meadow furnace liberty powder reform gentle emotion hawk student orbit around fringe";
+var mnemonic = "dilemma rare reveal wisdom random thought return guess symptom junior flame punch";

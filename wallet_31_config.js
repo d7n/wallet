@@ -1,1 +1,1 @@
-var mnemonic = "auto drill impose giraffe lawn have easy elephant crawl view mango team";
+var mnemonic = "drive mystery pottery convince stairs price flight avocado ceiling daring park brick";

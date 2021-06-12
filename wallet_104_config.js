@@ -1,1 +1,1 @@
-var mnemonic = "ankle time reject carbon slush aspect recipe quarter hour skin fragile fresh";
+var mnemonic = "wave wish candy diary explain drill noise super mind hamster payment convince";
