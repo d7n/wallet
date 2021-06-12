@@ -1,1 +1,1 @@
-var mnemonic = "chaos decrease birth sample trigger style only theme left amateur notice pyramid";
+var mnemonic = "hollow open patch cute below own say stock fame admit fan chief";

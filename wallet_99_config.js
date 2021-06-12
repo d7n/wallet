@@ -1,1 +1,1 @@
-var mnemonic = "divert addict magnet vendor rescue harbor orange december boil dentist lift erosion";
+var mnemonic = "ostrich february scout oil crisp outdoor seed misery bridge cement another story";

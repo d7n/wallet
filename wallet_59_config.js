@@ -1,1 +1,1 @@
-var mnemonic = "simple dutch cabin oyster depart quarter tribe word galaxy chat great end";
+var mnemonic = "aerobic above move metal humor cage enjoy shine document filter exclude walk";

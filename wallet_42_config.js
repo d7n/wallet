@@ -1,1 +1,1 @@
-var mnemonic = "polar monster idea rent wool first sail foster wood great yellow immune";
+var mnemonic = "round weird amount absurd peace beef vessel cactus achieve crisp build blind";

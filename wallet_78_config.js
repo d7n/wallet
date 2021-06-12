@@ -1,1 +1,1 @@
-var mnemonic = "clutch actor opera solid viable frozen salt unfair connect tenant reward predict";
+var mnemonic = "rubber bronze eye cinnamon used point inhale genius flock bomb uncover peanut";

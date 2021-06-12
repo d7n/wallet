@@ -1,1 +1,1 @@
-var mnemonic = "attend suit swarm spirit delay trust nice romance arch object change frame";
+var mnemonic = "awake drama shuffle purse thumb imitate million flag neutral various outer cart";

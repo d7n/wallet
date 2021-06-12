@@ -1,1 +1,1 @@
-var mnemonic = "fever fitness scheme shell obvious oil spring mistake wild cliff sing already";
+var mnemonic = "depend hollow company spider tag special air pencil scatter thought before oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "arena blade text kangaroo fee pizza globe deal angle struggle inch spy";
+var mnemonic = "submit diary must jealous symptom base sight vicious alley rival doctor history";

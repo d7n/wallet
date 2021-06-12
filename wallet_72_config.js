@@ -1,1 +1,1 @@
-var mnemonic = "note harvest select double nasty motor shoe bird pear blue wave vanish";
+var mnemonic = "piece game baby vacant oven dad limb life dream thought market glance";

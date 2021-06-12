@@ -1,1 +1,1 @@
-var mnemonic = "amused pet inspire knife dial tent hello clay loop noble scorpion correct";
+var mnemonic = "clutch mango grape flee affair plate riot deputy nest alarm panther you";

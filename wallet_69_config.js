@@ -1,1 +1,1 @@
-var mnemonic = "drift bamboo scorpion grape dwarf autumn airport capital photo addict seven popular";
+var mnemonic = "liberty lizard fly govern sure priority student destroy quick announce unaware question";

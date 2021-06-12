@@ -1,1 +1,1 @@
-var mnemonic = "toast garage piece maze proud hour sand mango cage stock gather real";
+var mnemonic = "cause north multiply skate say midnight online blue purpose reunion pupil slice";

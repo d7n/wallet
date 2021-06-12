@@ -1,1 +1,1 @@
-var mnemonic = "ill tribe exile viable dumb demise lift mountain possible swap relief load";
+var mnemonic = "fatigue swift bag uniform mountain want trophy trash pact float bronze pyramid";

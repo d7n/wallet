@@ -1,1 +1,1 @@
-var mnemonic = "ribbon winter wash garbage saddle claw soap stumble general deposit similar omit";
+var mnemonic = "dune inhale battle stem manage furnace keep action soon glimpse slim hero";

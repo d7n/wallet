@@ -1,1 +1,1 @@
-var mnemonic = "puppy power crop borrow chest hole blouse odor huge print brown dirt";
+var mnemonic = "gloom catalog flash bulb suit invest stove swallow stuff finger electric bench";

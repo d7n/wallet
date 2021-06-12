@@ -1,1 +1,1 @@
-var mnemonic = "urge match crawl invest drink blossom movie hard also impulse conduct okay";
+var mnemonic = "film snake foot cable glance animal goose current toy kind brass welcome";

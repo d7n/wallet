@@ -1,1 +1,1 @@
-var mnemonic = "asset deal afford gasp champion endless crazy garden sentence embrace hobby pear";
+var mnemonic = "wrong around canoe ride brick dwarf vast artist creek youth involve rapid";

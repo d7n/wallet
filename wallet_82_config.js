@@ -1,1 +1,1 @@
-var mnemonic = "flip purity fancy knee claw betray ordinary stereo column metal august tank";
+var mnemonic = "miracle clutch front custom zone history gold rely easily wild hockey few";

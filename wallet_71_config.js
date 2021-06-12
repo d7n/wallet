@@ -1,1 +1,1 @@
-var mnemonic = "split box broken spare carry zebra around flee donkey chase client mimic";
+var mnemonic = "truck refuse dawn make bronze shock cushion drastic claim climb tennis remind";

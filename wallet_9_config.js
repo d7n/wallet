@@ -1,1 +1,1 @@
-var mnemonic = "endorse budget solution wild gaze omit wing recipe swing renew bean they";
+var mnemonic = "cook box stone foam control subway risk save share learn joy flavor";

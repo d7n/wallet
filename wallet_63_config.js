@@ -1,1 +1,1 @@
-var mnemonic = "major tired giggle critic type link render help mistake motion grid bike";
+var mnemonic = "game shop tip spot able refuse face curve stage hurdle protect winner";

@@ -1,1 +1,1 @@
-var mnemonic = "pass resource beauty color rebel assault radar away seven regular tank below";
+var mnemonic = "stairs tag chuckle two slow kingdom emotion coconut chase wire voyage obtain";

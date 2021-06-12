@@ -1,1 +1,1 @@
-var mnemonic = "coyote margin deal syrup unusual length rough spot jazz delay improve true";
+var mnemonic = "street harbor term setup critic grief clap side benefit layer evil net";

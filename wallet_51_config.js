@@ -1,1 +1,1 @@
-var mnemonic = "wrist illness smart diet area tank over strike sign actual zebra false";
+var mnemonic = "dash arrive license insane govern diesel surround tenant meat ugly sugar arrange";

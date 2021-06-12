@@ -1,1 +1,1 @@
-var mnemonic = "tape street myth bar glad armor advance edge labor silent peace crush";
+var mnemonic = "moment torch clarify size vendor soul blush flight shallow candy announce cotton";

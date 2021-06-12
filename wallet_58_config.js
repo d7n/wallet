@@ -1,1 +1,1 @@
-var mnemonic = "pudding salon neutral secret sister tomato music produce feel stuff dolphin coral";
+var mnemonic = "actual sign virtual earth family fiber near author over tobacco smile height";

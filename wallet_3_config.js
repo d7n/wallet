@@ -1,1 +1,1 @@
-var mnemonic = "syrup indoor fade else senior rack human aerobic ozone receive faculty brown";
+var mnemonic = "rich equip promote defy zone cabin return alter time nerve dream shield";

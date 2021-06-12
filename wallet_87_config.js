@@ -1,1 +1,1 @@
-var mnemonic = "history toward three soap soda lazy tissue human battle art render virtual";
+var mnemonic = "uncle chicken also siren width velvet monkey ahead illness chuckle once pencil";

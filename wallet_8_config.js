@@ -1,1 +1,1 @@
-var mnemonic = "eager thrive episode reward valley grant hair whip visual tumble sentence dry";
+var mnemonic = "size alcohol visual despair arrange rhythm box creek radio because envelope slab";

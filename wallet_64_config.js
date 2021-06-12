@@ -1,1 +1,1 @@
-var mnemonic = "wage cost bless gather regret plate illegal coil before system demise exotic";
+var mnemonic = "impose caught glove obvious enable fever correct casual drama neglect hedgehog mercy";

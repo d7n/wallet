@@ -1,1 +1,1 @@
-var mnemonic = "cheese worth dignity earth equal animal key relief autumn leisure then peasant";
+var mnemonic = "damage garment blanket salmon ugly legend mom distance tuition pelican network cotton";

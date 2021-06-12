@@ -1,1 +1,1 @@
-var mnemonic = "guitar glass still near fence curtain head steel urge vast jump enhance";
+var mnemonic = "leopard useless genius govern window gown library anchor swim filter uphold cannon";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury conduct local symptom awake busy fortune sword bread mango adapt goat";
+var mnemonic = "random sword stool grass cart hint program core early dutch breeze aim";

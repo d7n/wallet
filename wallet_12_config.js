@@ -1,1 +1,1 @@
-var mnemonic = "able badge nothing blood height govern diesel shaft accuse grit spin joy";
+var mnemonic = "order pull combine torch guard runway slim situate calm junk swear cherry";

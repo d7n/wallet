@@ -1,1 +1,1 @@
-var mnemonic = "rally pottery goose diesel donkey increase betray category firm betray silly coconut";
+var mnemonic = "payment six assume bring upper same ball diamond gain throw trigger wreck";

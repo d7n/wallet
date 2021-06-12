@@ -1,1 +1,1 @@
-var mnemonic = "online rotate reopen crash aerobic find will obvious vanish sentence grit dawn";
+var mnemonic = "club inject mask treat daughter monitor coral ocean hair survey enlist exercise";

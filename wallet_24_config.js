@@ -1,1 +1,1 @@
-var mnemonic = "suggest spirit horse pudding erode west ginger shield minor winter diesel episode";
+var mnemonic = "pact resist frame save slide label october average earn forest prosper prevent";

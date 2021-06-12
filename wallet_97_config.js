@@ -1,1 +1,1 @@
-var mnemonic = "cereal visa clarify wrong hub mass ask face panda doctor identify twenty";
+var mnemonic = "purity latin turkey pipe burst glimpse crawl subject parent segment nice cabin";

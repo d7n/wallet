@@ -1,1 +1,1 @@
-var mnemonic = "surround duck remove dance dish expand mushroom deliver frame speak result table";
+var mnemonic = "journey shoe twin hawk top hollow bachelor hammer ecology couch ice okay";

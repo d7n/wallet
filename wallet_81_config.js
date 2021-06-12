@@ -1,1 +1,1 @@
-var mnemonic = "zone mountain example will betray achieve ethics speak easily rude artefact sail";
+var mnemonic = "draw cabbage balcony cliff naive mention garment gadget hedgehog valley stone defy";

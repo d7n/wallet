@@ -1,1 +1,1 @@
-var mnemonic = "mutual wrong dumb unaware crash used this rule range camera enlist cliff";
+var mnemonic = "hat audit crucial addict wood near ostrich morning flash dress state weird";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm deputy kiss agree glow elbow settle beach volume balcony girl stamp";
+var mnemonic = "cloth jacket miracle hood spike spy pencil cattle celery secret school genuine";

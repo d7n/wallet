@@ -1,1 +1,1 @@
-var mnemonic = "pig topple essence clog fiber bonus spike way conduct march build switch";
+var mnemonic = "mind banner spatial inflict inside lion clog fall fish virus clump into";

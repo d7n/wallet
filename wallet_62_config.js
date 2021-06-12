@@ -1,1 +1,1 @@
-var mnemonic = "lecture logic outer mango oxygen health have canal wasp fruit maze cycle";
+var mnemonic = "way blast young slender bar hawk bundle artist turkey helmet minor million";

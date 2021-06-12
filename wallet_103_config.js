@@ -1,1 +1,1 @@
-var mnemonic = "escape duck term outside orange fee copy size cool omit sphere ability";
+var mnemonic = "asthma word place behind bicycle rural thank burden sample satisfy vicious trigger";

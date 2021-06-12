@@ -1,1 +1,1 @@
-var mnemonic = "hub duck fade picture sight business problem sail husband company speak give";
+var mnemonic = "equip treat lab horror above angle stable degree oval attack milk doll";

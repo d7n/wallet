@@ -1,1 +1,1 @@
-var mnemonic = "ostrich armor text shoulder note once release learn suggest lonely volcano critic";
+var mnemonic = "sadness young brick nurse judge matrix broccoli dice volcano sort era please";

@@ -1,1 +1,1 @@
-var mnemonic = "post purse cruise same common brown mixture stem frozen bounce alien kiss";
+var mnemonic = "until grab once program crunch just present cruise stable nose seven prepare";

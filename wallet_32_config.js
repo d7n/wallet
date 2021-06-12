@@ -1,1 +1,1 @@
-var mnemonic = "engine fun grow crowd genius valley water broken grid spare clip ready";
+var mnemonic = "truck vast monster blossom drastic embark dizzy praise six river man achieve";

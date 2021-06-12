@@ -1,1 +1,1 @@
-var mnemonic = "spawn noble witness model ethics awesome detail come lion arena extra turtle";
+var mnemonic = "vital bone unfair volcano nest leisure renew destroy stuff fantasy choose daughter";

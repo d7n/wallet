@@ -1,1 +1,1 @@
-var mnemonic = "supply service kingdom champion video pumpkin jar casual odor crystal any arrange";
+var mnemonic = "gesture cross radio move toilet accident bag boat sand voice powder teach";

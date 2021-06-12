@@ -1,1 +1,1 @@
-var mnemonic = "surge next just typical key toe nose lens acoustic sick until pigeon";
+var mnemonic = "much dizzy shuffle subway pupil differ local forum spider observe blade sheriff";

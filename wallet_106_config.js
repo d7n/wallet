@@ -1,1 +1,1 @@
-var mnemonic = "iron prize autumn produce ensure salt sport box anxiety trouble decade cheap";
+var mnemonic = "evidence latin desk repair sun example number stuff assist logic gain still";

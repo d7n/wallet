@@ -1,1 +1,1 @@
-var mnemonic = "diagram punch oblige music ride direct real loan omit chief please year";
+var mnemonic = "powder oak stereo dance initial sister shrimp lecture category gun dragon virtual";

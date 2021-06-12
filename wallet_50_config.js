@@ -1,1 +1,1 @@
-var mnemonic = "blade profit session wood album cinnamon husband owner rebuild fossil glow original";
+var mnemonic = "shop liberty despair cloud eyebrow ensure walk follow effort birth mango opinion";

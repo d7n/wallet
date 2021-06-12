@@ -1,1 +1,1 @@
-var mnemonic = "they draft sample elevator dawn notable crucial submit warrior wet smooth rhythm";
+var mnemonic = "tree harvest nuclear tornado casino food gun noodle patch hybrid chalk share";

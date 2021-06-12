@@ -1,1 +1,1 @@
-var mnemonic = "crazy milk stadium boy dolphin bunker pattern cash deny below finish ice";
+var mnemonic = "bullet venue fence false junk baby circle anxiety affair share coral soon";

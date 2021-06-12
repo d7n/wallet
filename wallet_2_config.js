@@ -1,1 +1,1 @@
-var mnemonic = "asthma soul curve swear miracle reveal mind loan borrow brick increase draw";
+var mnemonic = "sugar write leaf riot phone burst define deal century inquiry organ update";

@@ -1,1 +1,1 @@
-var mnemonic = "exile laundry fat hole leisure attitude animal meadow witness actual wasp hub";
+var mnemonic = "gospel envelope slide luxury lottery pause tomorrow avocado salute entire region diesel";

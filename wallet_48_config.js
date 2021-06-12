@@ -1,1 +1,1 @@
-var mnemonic = "parent october salon country impact bunker door ginger strike scout verb turtle";
+var mnemonic = "ramp observe asset net collect easily state want slim stereo neck mass";

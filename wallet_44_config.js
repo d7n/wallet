@@ -1,1 +1,1 @@
-var mnemonic = "merge check raise still auto candy safe move maze theme stairs light";
+var mnemonic = "cream real cricket brief dolphin aspect cotton habit various ensure siren bonus";

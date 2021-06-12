@@ -1,1 +1,1 @@
-var mnemonic = "skate agree oil exile nasty satoshi trap upon empty need popular era";
+var mnemonic = "evoke unfair stable excess churn option ankle pact pattern hotel frog shrug";

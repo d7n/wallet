@@ -1,1 +1,1 @@
-var mnemonic = "coral sport canvas wood key debris force patient secret blade suggest city";
+var mnemonic = "urge pyramid grace install consider oxygen fix rebel party tip trim raven";

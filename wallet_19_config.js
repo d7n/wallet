@@ -1,1 +1,1 @@
-var mnemonic = "culture medal annual sibling logic reopen spot system monkey mandate always build";
+var mnemonic = "lecture glass cluster front latin deliver gravity drum length income elder script";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer trick infant chair fetch word stuff cake decrease plug obvious oyster";
+var mnemonic = "picnic scissors prize gown lock elevator differ cloud joy oven insane indoor";

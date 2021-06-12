@@ -1,1 +1,1 @@
-var mnemonic = "oven shrimp correct man vague guide evolve total early live panther arm";
+var mnemonic = "electric glide laundry strong country collect drama mass embrace setup possible carbon";

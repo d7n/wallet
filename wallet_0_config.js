@@ -1,1 +1,1 @@
-var mnemonic = "stamp abuse tuition guess coach novel detect street relax enforce off anger";
+var mnemonic = "process snake rain enjoy decide flight beef bring ozone unit horn tomorrow";

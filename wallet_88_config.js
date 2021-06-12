@@ -1,1 +1,1 @@
-var mnemonic = "chest equip release art file congress cage sustain video emerge minute bonus";
+var mnemonic = "rice ball dynamic gentle shoot exotic maple trial law audit still liquid";

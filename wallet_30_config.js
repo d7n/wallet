@@ -1,1 +1,1 @@
-var mnemonic = "material skill gossip man entry spoil off doctor oblige media oak angry";
+var mnemonic = "quarter bargain vast accident bundle false embark another crash veteran fire among";

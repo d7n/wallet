@@ -1,1 +1,1 @@
-var mnemonic = "people kite brief virtual sail copy prepare about average bag bring ensure";
+var mnemonic = "addict snake car little old cube curtain screen between error trade apology";

@@ -1,1 +1,1 @@
-var mnemonic = "eight flag range grid tide sun mean shiver bread explain divert letter";
+var mnemonic = "slush like grunt gold judge month avoid cry husband cruise effort dragon";

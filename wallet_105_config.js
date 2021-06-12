@@ -1,1 +1,1 @@
-var mnemonic = "shiver patrol water mandate shaft gym place present symbol crack crime ladder";
+var mnemonic = "exclude lunch lens food south undo adapt scrap oblige where slim donate";

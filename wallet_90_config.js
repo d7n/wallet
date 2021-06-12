@@ -1,1 +1,1 @@
-var mnemonic = "solution profit chicken visit system fossil square enrich diamond climb ribbon test";
+var mnemonic = "resemble coast margin push view pulp property scrub ghost confirm just fall";

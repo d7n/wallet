@@ -1,1 +1,1 @@
-var mnemonic = "banner measure drama creek ride coffee melody jealous punch adjust struggle garment";
+var mnemonic = "sad suit already eight ankle client success cattle first leave become giraffe";

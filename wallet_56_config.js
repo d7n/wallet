@@ -1,1 +1,1 @@
-var mnemonic = "defense taste carry few verify envelope shuffle hurry bacon stick victory negative";
+var mnemonic = "early grocery useless shy impulse range purpose thing clarify wasp adult alien";

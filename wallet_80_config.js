@@ -1,1 +1,1 @@
-var mnemonic = "urge trip invest away pool hollow tool any enrich month expose utility";
+var mnemonic = "city must cliff dance loyal vacant hunt legal across seed physical evolve";

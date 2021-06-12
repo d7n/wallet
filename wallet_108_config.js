@@ -1,1 +1,1 @@
-var mnemonic = "wall neglect all fork actress expose hurt shine pretty capital patient mosquito";
+var mnemonic = "swallow chair link undo turtle cute kid venue control thank onion rely";

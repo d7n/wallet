@@ -1,1 +1,1 @@
-var mnemonic = "gossip badge number crash know snow alcohol twenty used canyon wagon sheriff";
+var mnemonic = "leave render sheriff reflect soul march avoid spray roof often ozone sad";

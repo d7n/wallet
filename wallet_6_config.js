@@ -1,1 +1,1 @@
-var mnemonic = "decline raccoon remember sting bamboo include bag side day bike combine reunion";
+var mnemonic = "finger tomorrow choose summer series journey amount farm distance half later plastic";

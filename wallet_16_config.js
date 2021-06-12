@@ -1,1 +1,1 @@
-var mnemonic = "assist scatter infant chuckle guide pyramid bonus throw glimpse rigid tide final";
+var mnemonic = "crystal fossil admit reopen neutral reject ancient reason method brother assume wall";

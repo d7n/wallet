@@ -1,1 +1,1 @@
-var mnemonic = "six wing marble hub rubber race liquid discover public ten false argue";
+var mnemonic = "rhythm action caution oval clown vital heavy easy smile mammal arrange wide";

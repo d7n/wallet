@@ -1,1 +1,1 @@
-var mnemonic = "faculty tube mass approve smooth consider expire act decide peasant symptom fox";
+var mnemonic = "mix travel rent rail common outer east crouch fabric faculty vessel erase";

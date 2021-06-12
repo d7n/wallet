@@ -1,1 +1,1 @@
-var mnemonic = "spatial radar today fade common sweet blur tower pitch reject mechanic column";
+var mnemonic = "enjoy faith silk shaft tag assist spirit prepare pioneer slogan innocent local";

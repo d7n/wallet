@@ -1,1 +1,1 @@
-var mnemonic = "syrup mystery rule decrease portion easy fly point section double rally bench";
+var mnemonic = "month science ski humor city where giant document winner wonder develop rack";

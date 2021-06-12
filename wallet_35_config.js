@@ -1,1 +1,1 @@
-var mnemonic = "clap early seek mixture lazy fine universe because warm behind coral start";
+var mnemonic = "social sausage age embrace wrong victory exhaust silk cattle gentle runway payment";

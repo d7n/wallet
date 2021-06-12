@@ -1,1 +1,1 @@
-var mnemonic = "recall intact belt split produce voice trial popular disagree father visual grain";
+var mnemonic = "hire purpose sausage what lamp cat light parent practice smile quarter puzzle";

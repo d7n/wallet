@@ -1,1 +1,1 @@
-var mnemonic = "fun fragile isolate build avocado distance satisfy nature retreat gift cousin stand";
+var mnemonic = "street connect jazz truck design raw immune spice flame cause cabin buddy";

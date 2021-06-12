@@ -1,1 +1,1 @@
-var mnemonic = "narrow since collect strong tree chase tone wagon various evil pioneer aspect";
+var mnemonic = "cupboard absorb hedgehog genius will polar ripple chief okay mountain soup mansion";
