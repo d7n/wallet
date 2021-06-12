@@ -1,1 +1,1 @@
-var mnemonic = "demand keen nose hill pottery brisk garage wolf juice reveal happy alert";
+var mnemonic = "wheel cute trap address jealous orchard figure swarm teach crunch cradle army";

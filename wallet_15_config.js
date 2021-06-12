@@ -1,1 +1,1 @@
-var mnemonic = "logic grit north gentle measure sunny ceiling carbon alter step minute mobile";
+var mnemonic = "master guard arena hawk pet front organ cricket rib benefit warrior clip";

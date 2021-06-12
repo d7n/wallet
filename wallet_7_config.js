@@ -1,1 +1,1 @@
-var mnemonic = "drastic rigid solution pledge easy vote view riot trade play desert vague";
+var mnemonic = "genre bird crater unveil denial hire pause danger improve field blanket tunnel";

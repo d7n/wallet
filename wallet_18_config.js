@@ -1,1 +1,1 @@
-var mnemonic = "senior zebra amused weasel peace finger survey hotel sting tone margin tenant";
+var mnemonic = "muffin brave visual neck educate doctor diagram story cheap banana survey science";

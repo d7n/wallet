@@ -1,1 +1,1 @@
-var mnemonic = "diagram claim shell faint maze borrow spike decade muffin parrot pitch service";
+var mnemonic = "romance pulse review bring woman just purpose allow resist season impose stone";

@@ -1,1 +1,1 @@
-var mnemonic = "level edge note include buddy replace bamboo dizzy genius join armor chase";
+var mnemonic = "spell trigger zone scout easy skin leader gadget mad indicate relax flip";

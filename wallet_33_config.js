@@ -1,1 +1,1 @@
-var mnemonic = "setup rule myth lawsuit shock smooth unveil ivory surge inhale appear surprise";
+var mnemonic = "clever order health lonely box run elite margin boil chair bundle woman";

@@ -1,1 +1,1 @@
-var mnemonic = "grab spend start coffee alley great another word ask accident case age";
+var mnemonic = "again jazz isolate identify grape wool twenty resist inquiry wrestle funny arena";

@@ -1,1 +1,1 @@
-var mnemonic = "inside tray banner across solar vote uphold again tonight pluck until afford";
+var mnemonic = "rally draw govern meat mixed voyage gospel topple lobster marble column chimney";

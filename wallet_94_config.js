@@ -1,1 +1,1 @@
-var mnemonic = "derive quote leaf auction patient absurd soft glow slow network industry okay";
+var mnemonic = "heavy patrol hobby purpose picnic material quantum gather scrub february cattle tag";

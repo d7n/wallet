@@ -1,1 +1,1 @@
-var mnemonic = "fiscal repair rich faith record always differ bullet wedding brave cousin skirt";
+var mnemonic = "afraid noodle junk hope apple sound obvious blind dumb laundry quick radio";

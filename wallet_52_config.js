@@ -1,1 +1,1 @@
-var mnemonic = "taxi fatal collect monkey year vicious bleak wrestle entry orphan jazz final";
+var mnemonic = "again parent book fun kid atom lion cube arrest mystery tube old";

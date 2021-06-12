@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow sea argue egg bubble trick brother weather setup list clip famous";
+var mnemonic = "canoe bus initial cereal reason real tip mouse absorb ability example skate";

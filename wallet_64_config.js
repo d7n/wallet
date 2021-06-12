@@ -1,1 +1,1 @@
-var mnemonic = "chaos regular isolate ladder whip frozen mixture become cabin save find antique";
+var mnemonic = "slender enroll picnic bargain yellow fabric syrup oxygen fence tumble card castle";

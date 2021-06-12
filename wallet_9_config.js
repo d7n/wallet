@@ -1,1 +1,1 @@
-var mnemonic = "brain siege expose team muffin when drastic skull zone broken bulb disagree";
+var mnemonic = "flight pair travel tell foot friend another game owner churn aisle copy";

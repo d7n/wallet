@@ -1,1 +1,1 @@
-var mnemonic = "nerve bullet rate knee sugar still wolf mass cost kite whisper hospital";
+var mnemonic = "include leader car squirrel enough eyebrow syrup robust galaxy kingdom glare measure";

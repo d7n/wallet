@@ -1,1 +1,1 @@
-var mnemonic = "empty warrior stable flock olympic sand gym average example summer couch wear";
+var mnemonic = "void rapid shoe push target pet onion rely axis cable act chat";

@@ -1,1 +1,1 @@
-var mnemonic = "easy artefact apple syrup demise milk force stadium ancient minimum bless faint";
+var mnemonic = "brave fork actual chest vote symbol dismiss maximum soldier frequent chapter asthma";

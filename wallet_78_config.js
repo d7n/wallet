@@ -1,1 +1,1 @@
-var mnemonic = "lunch fiscal life day civil extend catch wrist drip endorse juice mean";
+var mnemonic = "hunt injury wave zoo grant siren sign install someone general muscle remove";

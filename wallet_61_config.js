@@ -1,1 +1,1 @@
-var mnemonic = "usage morning verb trophy burger pool syrup either when final video disagree";
+var mnemonic = "fossil erase south fog industry craft region abstract about poem brother scene";

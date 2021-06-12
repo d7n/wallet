@@ -1,1 +1,1 @@
-var mnemonic = "pelican job globe outdoor clinic betray actual number plunge dry library truly";
+var mnemonic = "soccer elbow eight dial funny face noodle wasp spell keen under leader";

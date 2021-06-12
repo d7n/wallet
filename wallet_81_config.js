@@ -1,1 +1,1 @@
-var mnemonic = "damp wreck runway rail style essay weekend federal glass fiber edit question";
+var mnemonic = "notable pool museum acid sunset title stumble extra humor north isolate oil";

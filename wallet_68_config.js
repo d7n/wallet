@@ -1,1 +1,1 @@
-var mnemonic = "bicycle slot avoid crouch stove device tag economy code dove carbon suffer";
+var mnemonic = "latin abandon east foster trash carbon police appear gorilla viable salon arrive";

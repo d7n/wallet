@@ -1,1 +1,1 @@
-var mnemonic = "trophy tunnel poet book monitor end fantasy purse mimic load install sausage";
+var mnemonic = "upper click dutch forum pudding front patrol alert year sing pink travel";

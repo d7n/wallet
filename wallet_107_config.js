@@ -1,1 +1,1 @@
-var mnemonic = "until seminar thank army become chef field vote pink surface trash fitness";
+var mnemonic = "net idle crouch zone quantum mango steak remove awesome minimum twice visit";

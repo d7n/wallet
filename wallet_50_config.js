@@ -1,1 +1,1 @@
-var mnemonic = "rocket slide tuna escape range all ritual age page dizzy wheel iron";
+var mnemonic = "vehicle orbit nasty volume bless situate oil deliver small enter program game";

@@ -1,1 +1,1 @@
-var mnemonic = "question trial carpet grow donor liberty absent couple install milk black term";
+var mnemonic = "all connect choose animal equal volume silver hazard cousin fame sustain start";

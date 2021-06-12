@@ -1,1 +1,1 @@
-var mnemonic = "hire company industry century frame edit concert area marble amateur range sleep";
+var mnemonic = "soup evil domain nephew knife call mouse dynamic wood disorder kiss cream";

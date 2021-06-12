@@ -1,1 +1,1 @@
-var mnemonic = "practice true have jelly curious ride use just fun orchard pistol ability";
+var mnemonic = "knife helmet abstract behave film stem heart expose artefact myself already truth";

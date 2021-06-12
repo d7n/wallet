@@ -1,1 +1,1 @@
-var mnemonic = "mercy neck train destroy enter night tourist rookie leopard alien praise catalog";
+var mnemonic = "huge shell rain edit lamp announce jeans visual buddy girl display six";

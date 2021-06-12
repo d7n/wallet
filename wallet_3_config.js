@@ -1,1 +1,1 @@
-var mnemonic = "right angry sauce cash come ordinary tent point clarify treat clump grass";
+var mnemonic = "inject one hint balcony tree setup puzzle ten fetch online pole cargo";

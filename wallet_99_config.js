@@ -1,1 +1,1 @@
-var mnemonic = "lyrics fiction symptom canoe stable elevator bonus neither material duty grape super";
+var mnemonic = "build multiply cute blue swap apple survey false seminar can situate apart";

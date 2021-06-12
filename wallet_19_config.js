@@ -1,1 +1,1 @@
-var mnemonic = "verify ostrich exclude quality ritual age skirt swift best ancient pencil moon";
+var mnemonic = "candy royal buyer dumb pupil girl search pepper south tunnel siren funny";

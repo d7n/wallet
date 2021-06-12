@@ -1,1 +1,1 @@
-var mnemonic = "joy beauty draft concert short clever find cross fall token wire ripple";
+var mnemonic = "between inherit razor detail swim fancy mail whale series share fossil admit";

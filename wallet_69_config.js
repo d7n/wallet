@@ -1,1 +1,1 @@
-var mnemonic = "police faint question ignore lesson spirit tape hint hair tool person believe";
+var mnemonic = "option icon oven gospel spring sell drink tornado point unique desert fabric";

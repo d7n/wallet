@@ -1,1 +1,1 @@
-var mnemonic = "gain timber forest potato rough eyebrow sudden hazard hint goose hover cruel";
+var mnemonic = "donor sand kid razor polar bottom topple drama analyst burger practice jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "riot step pistol carpet rookie alien weather shoe warrior same bachelor office";
+var mnemonic = "analyst deny patient oil response girl medal say neck hour course slide";

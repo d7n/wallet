@@ -1,1 +1,1 @@
-var mnemonic = "tide cushion math debate foster latin curtain one dinosaur tuition idle shine";
+var mnemonic = "army insect lava embark destroy arrive allow glide text flame someone slam";

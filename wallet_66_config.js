@@ -1,1 +1,1 @@
-var mnemonic = "axis property various slogan success plug since task manual banana result bonus";
+var mnemonic = "stereo liar zebra rice trap north split crystal trial tornado dry they";

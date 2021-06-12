@@ -1,1 +1,1 @@
-var mnemonic = "worry surround nominee wide umbrella stock pelican nose rose lens boat announce";
+var mnemonic = "grocery yellow during skull bargain drip crew emerge fee weekend home annual";

@@ -1,1 +1,1 @@
-var mnemonic = "useless vague stay mushroom unusual voyage milk draft mirror merry organ jacket";
+var mnemonic = "open turtle bring suspect eight cupboard segment fatal outside bronze make sad";

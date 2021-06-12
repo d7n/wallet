@@ -1,1 +1,1 @@
-var mnemonic = "school boost exact water announce similar picture find method glory junk nest";
+var mnemonic = "file history abstract image creek bring poet chase major congress vicious miss";

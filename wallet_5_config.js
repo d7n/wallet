@@ -1,1 +1,1 @@
-var mnemonic = "lion vacuum cat ridge jar hammer tired wrong diagram slim cricket enrich";
+var mnemonic = "powder frog book rib torch crop wash absent tooth cherry craft strong";

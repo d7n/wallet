@@ -1,1 +1,1 @@
-var mnemonic = "sorry candy seed diagram group cushion close rent walk around debate razor";
+var mnemonic = "ginger vendor rescue raw calm front brand fantasy gravity whip chicken estate";

@@ -1,1 +1,1 @@
-var mnemonic = "sniff oblige mobile floor explain reason oval major acquire under list render";
+var mnemonic = "shallow final addict dynamic pizza wide train monster trouble turtle staff fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "fire rebel ready hand error stool install select sound build corn profit";
+var mnemonic = "account dynamic brown era quote total raccoon apology work split expect desert";

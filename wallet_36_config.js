@@ -1,1 +1,1 @@
-var mnemonic = "bag army flight jacket field bargain arrive grunt plate put drill bike";
+var mnemonic = "extend impact alarm copper wild tank sponsor tower awesome actual cactus gauge";

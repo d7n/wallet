@@ -1,1 +1,1 @@
-var mnemonic = "symptom give risk country wonder caution foam issue lunch during stock tail";
+var mnemonic = "outer assault guard dove special canyon original judge cable trigger baby fortune";

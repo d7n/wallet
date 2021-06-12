@@ -1,1 +1,1 @@
-var mnemonic = "want degree gauge syrup elbow hybrid orbit manage weasel gap run track";
+var mnemonic = "medal truth type impose august spell voice another force stable hero fame";

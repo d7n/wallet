@@ -1,1 +1,1 @@
-var mnemonic = "update lady cart track bind either modify company drift march indicate attract";
+var mnemonic = "loan smoke regular vacant glad police opinion kangaroo volume worry hotel stomach";

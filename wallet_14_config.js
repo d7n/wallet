@@ -1,1 +1,1 @@
-var mnemonic = "language unknown bone gaze catch stomach mask below salt tilt smoke happy";
+var mnemonic = "couch stadium balance dismiss shoot dawn wink raw cargo life chapter tomorrow";

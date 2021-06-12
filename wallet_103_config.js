@@ -1,1 +1,1 @@
-var mnemonic = "flush wing scheme weekend minimum output process anger nominee mad ritual swear";
+var mnemonic = "become rude notable puzzle neck certain sister chase knife finger elegant finger";

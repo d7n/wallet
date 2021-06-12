@@ -1,1 +1,1 @@
-var mnemonic = "slender wish topic suggest trap island debate fan rhythm bomb venture pear";
+var mnemonic = "spoon dog select nut salad era harvest happy escape ramp task another";

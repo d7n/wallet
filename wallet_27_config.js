@@ -1,1 +1,1 @@
-var mnemonic = "page ask harvest prefer note act aisle foster argue catch address protect";
+var mnemonic = "pattern win arrest wave tissue diagram garbage spell jar hub human learn";

@@ -1,1 +1,1 @@
-var mnemonic = "yard ugly attend chicken tumble sleep piano wrong garment pelican area purpose";
+var mnemonic = "mom action crack glimpse paddle artist cradle junk drive feed author north";

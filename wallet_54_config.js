@@ -1,1 +1,1 @@
-var mnemonic = "load ripple depart example all luxury armed energy half become economy fit";
+var mnemonic = "sick coin six wise outdoor melt person super giant coach hub river";

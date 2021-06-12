@@ -1,1 +1,1 @@
-var mnemonic = "excite ring cigar vote leg accident help patrol east pull liquid spray";
+var mnemonic = "portion body bubble wet suspect sure kitten resemble portion ozone trade original";

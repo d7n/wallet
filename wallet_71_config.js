@@ -1,1 +1,1 @@
-var mnemonic = "thrive blame labor box royal prepare mammal near sign knee grant inhale";
+var mnemonic = "wheel unveil easily soft furnace fancy year lunch gain health rail puzzle";

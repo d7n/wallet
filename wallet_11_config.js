@@ -1,1 +1,1 @@
-var mnemonic = "planet hundred wash axis they arrest hedgehog reject cinnamon action alone right";
+var mnemonic = "very girl feed afraid climb fever evolve cabbage stumble shoe joke similar";

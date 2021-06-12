@@ -1,1 +1,1 @@
-var mnemonic = "case smile century bridge uphold rival save mistake candy crystal cinnamon garbage";
+var mnemonic = "great federal monitor year duck trade alcohol rate wrap carbon inch bar";

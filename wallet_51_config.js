@@ -1,1 +1,1 @@
-var mnemonic = "ghost math clean corn duty lock reason present little urban vocal render";
+var mnemonic = "bench loyal design edge spider pupil acid print autumn enough magnet stamp";

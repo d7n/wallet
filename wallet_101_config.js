@@ -1,1 +1,1 @@
-var mnemonic = "salmon nature kiss tiger sample announce dolphin couple nuclear rotate order hill";
+var mnemonic = "town control now alien shy discover benefit setup alert bicycle comic state";

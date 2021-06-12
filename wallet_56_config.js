@@ -1,1 +1,1 @@
-var mnemonic = "involve elevator assume inner pig couple lamp title gaze muffin grief spatial";
+var mnemonic = "misery grid check panther filter result flash detail open planet useless teach";

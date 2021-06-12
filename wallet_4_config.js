@@ -1,1 +1,1 @@
-var mnemonic = "tray nose soccer degree egg end blade addict lock cliff force weekend";
+var mnemonic = "lab whale glove mansion virus vacuum baby struggle curve pizza unknown describe";

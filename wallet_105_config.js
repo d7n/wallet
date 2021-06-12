@@ -1,1 +1,1 @@
-var mnemonic = "idle mixture travel pretty illegal test divide depth mandate antenna spice hedgehog";
+var mnemonic = "topic simple useful siren account radar child degree pelican hammer green enroll";

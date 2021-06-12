@@ -1,1 +1,1 @@
-var mnemonic = "body indicate decide south tuna man rude talk reveal captain fury injury";
+var mnemonic = "lunar ordinary liberty anxiety smooth remind else merit cycle employ desert rule";

@@ -1,1 +1,1 @@
-var mnemonic = "regret blast glad spice tuition fuel long couch weasel accident daughter example";
+var mnemonic = "portion cube one cruise pioneer scout erosion bring gain hidden security cricket";

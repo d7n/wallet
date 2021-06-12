@@ -1,1 +1,1 @@
-var mnemonic = "wait health noodle error shift air offer defense warfare saddle ginger deliver";
+var mnemonic = "bridge van result notice oil wrong text shove purpose jungle drift wife";

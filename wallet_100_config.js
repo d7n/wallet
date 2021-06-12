@@ -1,1 +1,1 @@
-var mnemonic = "echo lyrics pluck whisper cluster together assist leaf average diagram scorpion surge";
+var mnemonic = "tape hire forward soap exile inherit banner desk wheel dilemma sound document";

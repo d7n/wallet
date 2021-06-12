@@ -1,1 +1,1 @@
-var mnemonic = "have hockey mass right detail nation rack hill midnight tide broccoli lonely";
+var mnemonic = "gesture zero soccer multiply spoil above flee sick double face practice connect";

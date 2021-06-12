@@ -1,1 +1,1 @@
-var mnemonic = "pride elite amused animal right when focus smooth thrive unveil scheme must";
+var mnemonic = "spot eight lecture fly involve kite shift engine post spatial vital core";

@@ -1,1 +1,1 @@
-var mnemonic = "world blame address tired close police attack toy then raven broom oil";
+var mnemonic = "sphere invite exist journey girl awful taxi ring brain gravity stamp mandate";

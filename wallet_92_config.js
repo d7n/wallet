@@ -1,1 +1,1 @@
-var mnemonic = "tobacco unaware injury salute labor breeze ivory chapter region visit run twist";
+var mnemonic = "rug film steak victory shadow eyebrow day satoshi obvious route coast erosion";

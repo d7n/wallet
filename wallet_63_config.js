@@ -1,1 +1,1 @@
-var mnemonic = "rapid eyebrow air book dignity gravity dismiss industry rotate twist athlete public";
+var mnemonic = "lend ugly excuse merge display range vibrant endless hazard shove laundry duck";

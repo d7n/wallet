@@ -1,1 +1,1 @@
-var mnemonic = "banner change rare laptop goddess fatal three blouse earth ordinary trap wreck";
+var mnemonic = "emerge chaos cereal stomach shove drink emotion ridge decorate subject absent fruit";

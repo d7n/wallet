@@ -1,1 +1,1 @@
-var mnemonic = "more box crumble duty wealth science such erase accuse verb lawn nuclear";
+var mnemonic = "hold rule napkin circle muscle catalog era flee scout nice document resist";

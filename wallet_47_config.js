@@ -1,1 +1,1 @@
-var mnemonic = "carry tone assault chicken antenna moral visa stairs electric army lens airport";
+var mnemonic = "powder nut minor theory real weapon medal assist sad diet obey wheat";

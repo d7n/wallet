@@ -1,1 +1,1 @@
-var mnemonic = "sight garment indicate digital work stumble author elephant ghost echo empower hedgehog";
+var mnemonic = "moment pact custom sphere scare measure film more comfort cannon wife stage";

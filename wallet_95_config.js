@@ -1,1 +1,1 @@
-var mnemonic = "firm swarm item current stem price squeeze unfold leg just sorry voice";
+var mnemonic = "space parent remind there trick like evoke rather kind uniform write salad";

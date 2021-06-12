@@ -1,1 +1,1 @@
-var mnemonic = "obey damage before tuna dog pudding benefit route circle loyal excite arch";
+var mnemonic = "blood clip choice glory subject access neck faculty actual east dragon dash";

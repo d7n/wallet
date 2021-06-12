@@ -1,1 +1,1 @@
-var mnemonic = "guide whisper exotic excite property filter assume pilot column lava remain private";
+var mnemonic = "pull erase school card shoulder engine local sphere unfold pepper lava vendor";

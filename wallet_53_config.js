@@ -1,1 +1,1 @@
-var mnemonic = "that photo learn cheap spatial blossom cool sing dirt news vote sea";
+var mnemonic = "offer marine fatigue attract robust jungle dentist field vicious degree pupil control";

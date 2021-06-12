@@ -1,1 +1,1 @@
-var mnemonic = "talent drop leopard trip pact wave across leg picture fault crime confirm";
+var mnemonic = "earn cart spray obscure ancient require angle address useless diagram mom nominee";

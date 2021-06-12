@@ -1,1 +1,1 @@
-var mnemonic = "then crush control lawsuit motion olive relief mushroom predict tape violin mimic";
+var mnemonic = "obtain vicious unknown section donor output awful skill thank fee typical obey";

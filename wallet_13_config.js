@@ -1,1 +1,1 @@
-var mnemonic = "cake work resemble execute brick submit width still more toward reform page";
+var mnemonic = "orphan breeze exchange copy village rail hollow trial decrease kite clock know";

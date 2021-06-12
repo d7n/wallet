@@ -1,1 +1,1 @@
-var mnemonic = "crater sword raven begin material dial album matter undo wage story rate";
+var mnemonic = "duty input bachelor favorite entire rich lottery satoshi dynamic scout maze wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon purchase scheme hour aim response aspect monitor slogan occur emerge limb";
+var mnemonic = "twin shine wedding poverty cherry cliff pottery junk collect husband warrior isolate";

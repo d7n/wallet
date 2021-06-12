@@ -1,1 +1,1 @@
-var mnemonic = "oxygen asthma crumble laptop salute autumn grunt reduce then onion giraffe disagree";
+var mnemonic = "fame midnight donate vague wolf artwork fiction pink labor affair clip mother";

@@ -1,1 +1,1 @@
-var mnemonic = "usual relief dinner project diary funny butter object prize drip picnic ride";
+var mnemonic = "clock few fog mirror liquid comic apart cable rail brisk level deputy";

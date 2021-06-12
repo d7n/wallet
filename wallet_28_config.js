@@ -1,1 +1,1 @@
-var mnemonic = "target photo empower arrange flip pass gloom skate mule crack simple text";
+var mnemonic = "toilet figure crush annual what sand universe hunt sketch between motion law";

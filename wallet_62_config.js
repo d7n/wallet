@@ -1,1 +1,1 @@
-var mnemonic = "bracket ranch display token blue mercy clog book document weekend usage habit";
+var mnemonic = "pencil debris educate garment vicious delay goat hair blouse world faith perfect";

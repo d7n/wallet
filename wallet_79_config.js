@@ -1,1 +1,1 @@
-var mnemonic = "legend pelican will original excite kitchen era camera stem number palm sort";
+var mnemonic = "foam account fine talent retire ridge mosquito whisper error canal meat base";

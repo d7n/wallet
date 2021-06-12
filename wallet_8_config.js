@@ -1,1 +1,1 @@
-var mnemonic = "lend grass boss differ plug bench coral tone frequent toward blush flat";
+var mnemonic = "onion dumb express essence young fiber music toe turtle blood satisfy perfect";

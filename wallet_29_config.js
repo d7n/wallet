@@ -1,1 +1,1 @@
-var mnemonic = "brave cable naive arrest box car maximum release just mom select shrug";
+var mnemonic = "fiscal side promote unhappy wealth vicious plate tomorrow bus buddy blind butter";

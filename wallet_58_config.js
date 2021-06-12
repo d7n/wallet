@@ -1,1 +1,1 @@
-var mnemonic = "index refuse client smart crawl depth weasel shiver achieve weapon pledge crane";
+var mnemonic = "split keep mountain public space echo ridge practice much swim foster oak";

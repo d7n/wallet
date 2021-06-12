@@ -1,1 +1,1 @@
-var mnemonic = "adjust fog exotic bread idle hand affair valid dynamic wealth smoke popular";
+var mnemonic = "awesome cannon zoo blur screen walnut paddle believe estate olympic liar consider";

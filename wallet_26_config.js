@@ -1,1 +1,1 @@
-var mnemonic = "bullet loyal salute rent artefact trial gas park uncle lock clap pet";
+var mnemonic = "pave vote drink east ribbon ability suit involve damp axis embody student";
