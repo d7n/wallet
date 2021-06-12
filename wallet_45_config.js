@@ -1,1 +1,1 @@
-var mnemonic = "gallery input buddy frozen genius quiz select armed raise uphold finger enhance";
+var mnemonic = "defense air knee cattle permit flee shrimp husband expose dumb measure deposit";

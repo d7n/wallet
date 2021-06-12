@@ -1,1 +1,1 @@
-var mnemonic = "sad label series gentle saddle renew robot nest ritual loop resemble tilt";
+var mnemonic = "unusual cat crumble mistake find drink shield tonight badge answer shrimp person";

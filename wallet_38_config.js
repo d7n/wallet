@@ -1,1 +1,1 @@
-var mnemonic = "oblige present sniff online kind rural begin popular travel time diamond inside";
+var mnemonic = "bacon regret hover approve bullet taste sponsor mandate spirit cannon cat together";

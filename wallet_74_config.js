@@ -1,1 +1,1 @@
-var mnemonic = "focus still chase auction address vague sniff lonely cigar spare course surface";
+var mnemonic = "world employ pony fortune coffee hope country settle boss visual super elbow";

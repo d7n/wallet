@@ -1,1 +1,1 @@
-var mnemonic = "income beyond kiss bronze swift toward rely grid giant later abuse increase";
+var mnemonic = "minimum radar blue aspect van fatigue oval extra dish expand draw magic";

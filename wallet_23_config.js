@@ -1,1 +1,1 @@
-var mnemonic = "plunge consider escape bachelor athlete exercise oyster turn reward puzzle certain exercise";
+var mnemonic = "force farm current nose sunset all above monster foil enhance slim gorilla";

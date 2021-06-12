@@ -1,1 +1,1 @@
-var mnemonic = "fit brain blossom wrap fork fiction season duty speed buffalo work arena";
+var mnemonic = "party parent bounce expire simple teach credit put butter purse indoor walnut";

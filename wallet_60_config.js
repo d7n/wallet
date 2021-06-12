@@ -1,1 +1,1 @@
-var mnemonic = "goddess pill exchange stem gallery insect seed pull book link inmate tonight";
+var mnemonic = "menu lecture spoil congress bleak fragile neutral oxygen museum apart vendor debate";

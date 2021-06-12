@@ -1,1 +1,1 @@
-var mnemonic = "finger today hub lend pull aisle cave forum other buffalo robot where";
+var mnemonic = "crater juice universe wife edit hat pepper knife vast inner punch side";

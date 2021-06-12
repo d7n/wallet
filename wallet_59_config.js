@@ -1,1 +1,1 @@
-var mnemonic = "ostrich finish into become strategy crucial bench reflect vendor decorate wool walk";
+var mnemonic = "craft aim never orphan tribe news attract toe adjust fade country flash";

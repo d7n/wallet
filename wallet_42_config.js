@@ -1,1 +1,1 @@
-var mnemonic = "garlic extra syrup drill screen local pupil blast tenant include urban ignore";
+var mnemonic = "alert liberty glow mind metal glue actor buzz junior nature famous electric";

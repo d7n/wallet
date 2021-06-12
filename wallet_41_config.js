@@ -1,1 +1,1 @@
-var mnemonic = "middle rug crime upset shadow vicious quiz property hand load involve domain";
+var mnemonic = "lawsuit team sunset salt spin kiwi suit say flock shove panic resource";

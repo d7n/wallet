@@ -1,1 +1,1 @@
-var mnemonic = "mixture ecology couple embark believe enrich okay news logic orchard member gather";
+var mnemonic = "weekend object elephant dry physical tree frequent lucky very unlock train coast";

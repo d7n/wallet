@@ -1,1 +1,1 @@
-var mnemonic = "uniform fever clinic erupt soap slight zero junior fine recycle february radar";
+var mnemonic = "track sudden theme canal shiver hover peanut steak toast doctor weird beauty";

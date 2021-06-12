@@ -1,1 +1,1 @@
-var mnemonic = "recall baby gas find diesel chronic unaware annual century pill season mountain";
+var mnemonic = "reward twelve bridge jacket share mixture tilt pumpkin own festival memory select";

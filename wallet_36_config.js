@@ -1,1 +1,1 @@
-var mnemonic = "gift sword midnight poet one extra city milk age moral connect spike";
+var mnemonic = "priority twin mistake decline use analyst charge obscure insect muscle easily shoulder";

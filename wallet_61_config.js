@@ -1,1 +1,1 @@
-var mnemonic = "coast visual focus endless opera heavy random return arrest where daring excuse";
+var mnemonic = "waste rice organ time agree nasty envelope lamp wide wife blush thunder";

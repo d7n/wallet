@@ -1,1 +1,1 @@
-var mnemonic = "abuse drip jaguar cushion before plastic false clever air crime clog remind";
+var mnemonic = "mobile hobby script wrist fox bracket ritual liquid improve mesh pioneer wool";

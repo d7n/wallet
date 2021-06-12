@@ -1,1 +1,1 @@
-var mnemonic = "menu wise cabbage please hill echo fruit silent faith possible depth draw";
+var mnemonic = "drum crop volcano infant rug jelly sound penalty alpha buzz answer shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium delay wife gallery still mixture auction audit friend hazard celery resource";
+var mnemonic = "pretty stomach renew album dust burden grass birth blood clip certain garment";

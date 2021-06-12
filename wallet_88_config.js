@@ -1,1 +1,1 @@
-var mnemonic = "then busy letter design midnight palace federal wealth tenant spice federal melody";
+var mnemonic = "blade lock frog receive foam uniform magnet gorilla measure elephant pumpkin current";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy delay hospital juice edge nothing power lemon child because derive evolve";
+var mnemonic = "night sauce before october mandate modify coral deer suggest current option pink";

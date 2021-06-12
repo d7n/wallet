@@ -1,1 +1,1 @@
-var mnemonic = "regret tattoo exact exotic recycle furnace magnet kite faculty drastic woman order";
+var mnemonic = "uncover era trim soup advance ordinary mother whip much rug cement kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "slight seed you opera reflect drill prize thrive erase lion wall orange";
+var mnemonic = "genuine carry heart adult this island crane slogan vessel tilt lion hundred";

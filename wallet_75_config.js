@@ -1,1 +1,1 @@
-var mnemonic = "feature sweet broom venture crucial normal jump deny pride oxygen sea quarter";
+var mnemonic = "wrestle play soap token humble meat silly master runway tonight ordinary movie";

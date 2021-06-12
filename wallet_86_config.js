@@ -1,1 +1,1 @@
-var mnemonic = "icon coach core invest gym cook rose interest critic crucial indoor exile";
+var mnemonic = "hammer sentence young must absurd grid rubber card improve dry animal practice";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise art miracle hill exist myself eyebrow story father slow govern hello";
+var mnemonic = "reduce rain coyote island trade gun twist recipe vanish toilet artefact promote";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny silk double bamboo govern useless borrow earth attitude party august verify";
+var mnemonic = "seek crime where exchange excuse famous easily weather kidney bundle often market";

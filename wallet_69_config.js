@@ -1,1 +1,1 @@
-var mnemonic = "diamond square pluck timber extra luxury culture shrimp barrel blame bounce walk";
+var mnemonic = "panic escape point echo oak pepper spare stool arena desk fossil phone";

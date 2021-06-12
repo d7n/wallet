@@ -1,1 +1,1 @@
-var mnemonic = "quality music climb clutch riot note end manage ask fantasy tiger heavy";
+var mnemonic = "bachelor illness congress innocent provide surround clay close ticket canyon wood save";

@@ -1,1 +1,1 @@
-var mnemonic = "follow proof satoshi gesture hen dismiss detect leopard merge license expect boat";
+var mnemonic = "clinic amused pink lizard awake copy address worry exchange rebel fame onion";

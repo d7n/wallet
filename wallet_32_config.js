@@ -1,1 +1,1 @@
-var mnemonic = "flavor purse detail spoon future update require marine bitter world phrase lizard";
+var mnemonic = "tell oblige scheme across law better beach jazz step reduce install stereo";

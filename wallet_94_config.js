@@ -1,1 +1,1 @@
-var mnemonic = "snack have disease fatal price canvas notable bean annual wisdom aspect soup";
+var mnemonic = "cliff language fatigue topple rule fiber clown exist able art pelican blast";

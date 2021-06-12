@@ -1,1 +1,1 @@
-var mnemonic = "wreck brown slogan alert typical flower addict song mansion need absurd kind";
+var mnemonic = "convince train pyramid month another around opera fluid way sausage assist broom";

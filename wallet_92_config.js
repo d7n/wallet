@@ -1,1 +1,1 @@
-var mnemonic = "cross pizza exchange salt another stable alcohol gadget defense twenty enhance dentist";
+var mnemonic = "twenty example search fancy napkin hint demise shop popular best hope survey";

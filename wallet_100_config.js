@@ -1,1 +1,1 @@
-var mnemonic = "tribe credit loop zoo quantum bright run move accident pottery history bid";
+var mnemonic = "early fuel property yard kite fiber daughter ice desk foil kit frequent";

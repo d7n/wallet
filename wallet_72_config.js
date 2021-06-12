@@ -1,1 +1,1 @@
-var mnemonic = "aunt spy invite face inhale spike glimpse shrimp say close expose enter";
+var mnemonic = "make glove critic sport lunch cement flash carpet slab view access scare";

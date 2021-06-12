@@ -1,1 +1,1 @@
-var mnemonic = "peasant garment draft aerobic taste yard afford foam play awake wall position";
+var mnemonic = "sun arctic element drift like crop fit hair liar crawl evolve animal";

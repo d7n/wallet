@@ -1,1 +1,1 @@
-var mnemonic = "mail argue green rough matter salon life man devote solve lunar safe";
+var mnemonic = "tilt glide child logic embody during gospel slogan when stand wash please";

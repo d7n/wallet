@@ -1,1 +1,1 @@
-var mnemonic = "believe clown mixed swim wrestle sight tribe ignore sheriff defense cloth stay";
+var mnemonic = "sand install dismiss rapid result emerge wash card bleak escape scare proof";

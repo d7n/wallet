@@ -1,1 +1,1 @@
-var mnemonic = "hero marriage abuse direct view coach trap fly ribbon bunker maid scare";
+var mnemonic = "accuse capital stomach palm fiction security clarify cabbage balcony short matrix invest";

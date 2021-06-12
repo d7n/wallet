@@ -1,1 +1,1 @@
-var mnemonic = "top dose word connect cool ocean figure vapor design thing fox tornado";
+var mnemonic = "poverty distance tide equip input also battle brief normal blame stove curtain";

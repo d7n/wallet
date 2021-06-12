@@ -1,1 +1,1 @@
-var mnemonic = "seek stem bamboo grocery market energy uncle toe organ donate wine toast";
+var mnemonic = "joy potato primary skull taxi cream cake cool skate razor taste give";

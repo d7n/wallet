@@ -1,1 +1,1 @@
-var mnemonic = "pause order age smart cry witness rural spider lobster element smile shift";
+var mnemonic = "vendor photo casual moon setup stool number scene fury frown outer define";

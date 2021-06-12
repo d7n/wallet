@@ -1,1 +1,1 @@
-var mnemonic = "twice survey double motor glue famous benefit toilet bless enrich grocery soon";
+var mnemonic = "believe village velvet rapid brick stay emerge fat obvious token jar salad";

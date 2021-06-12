@@ -1,1 +1,1 @@
-var mnemonic = "whale apart genius panel laugh hammer all over private giraffe question chuckle";
+var mnemonic = "moon bubble hen nurse find cabin own path rib beauty surround together";

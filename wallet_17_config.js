@@ -1,1 +1,1 @@
-var mnemonic = "allow mechanic tackle body equip letter original cost fat bag rough employ";
+var mnemonic = "people view brown control burst garden candy fox engine next square erosion";

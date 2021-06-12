@@ -1,1 +1,1 @@
-var mnemonic = "convince escape dinner science imitate prevent veteran erupt faculty output copy final";
+var mnemonic = "blood lamp liquid ankle bamboo call light other vanish fiction suit movie";

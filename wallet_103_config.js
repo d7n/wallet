@@ -1,1 +1,1 @@
-var mnemonic = "enemy clay crazy family asthma blame uncle raw frame cave arm turtle";
+var mnemonic = "bacon family inhale head arrive sting run exact win credit twelve regret";

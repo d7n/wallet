@@ -1,1 +1,1 @@
-var mnemonic = "gold churn slender nut six bag friend huge second gown flee away";
+var mnemonic = "dove system impact journey tuna cruel shine vibrant gaze glide aunt jaguar";

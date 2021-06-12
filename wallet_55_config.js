@@ -1,1 +1,1 @@
-var mnemonic = "marble gift execute lottery celery develop drink song hint illegal primary session";
+var mnemonic = "reward forward exit column alpha miracle food world pencil garbage stadium random";

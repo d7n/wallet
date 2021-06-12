@@ -1,1 +1,1 @@
-var mnemonic = "main actress spike current melt jewel action virus spray code weather notable";
+var mnemonic = "person assault interest visual cycle clarify movie annual april roof vote wonder";

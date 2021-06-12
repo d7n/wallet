@@ -1,1 +1,1 @@
-var mnemonic = "abandon sorry question perfect warrior object glad rebel banner announce label leopard";
+var mnemonic = "snap scare combine story crane brick field vintage economy spare achieve cargo";

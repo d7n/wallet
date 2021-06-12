@@ -1,1 +1,1 @@
-var mnemonic = "minute orange blur appear target remind slam squeeze hill immune aisle float";
+var mnemonic = "hard ticket tourist square van various either caution stamp craft relief venue";

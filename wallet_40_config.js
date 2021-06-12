@@ -1,1 +1,1 @@
-var mnemonic = "quarter crash purity hover vast stadium chef engage fame fee legal silk";
+var mnemonic = "betray task tilt pool chat point payment ankle height business enrich cube";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum column eager awake rack face trumpet cycle always orchard push modify";
+var mnemonic = "fuel crowd method matter hip party polar move embrace whale beauty gym";

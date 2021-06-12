@@ -1,1 +1,1 @@
-var mnemonic = "theory unlock ocean print jump main swift unlock knife alley green wish";
+var mnemonic = "process nurse clap husband property penalty seed tail impact old antenna erosion";

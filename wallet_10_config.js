@@ -1,1 +1,1 @@
-var mnemonic = "illegal balance visit firm other critic visa switch fun vibrant clean divide";
+var mnemonic = "shadow borrow universe vacuum jeans emerge expand alter dice holiday differ bounce";

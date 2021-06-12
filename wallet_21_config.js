@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon legal canyon crop globe describe oval agent neck dream beach prize";
+var mnemonic = "federal venue drama where inhale equal clinic eagle dad tone expire ask";

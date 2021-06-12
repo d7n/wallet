@@ -1,1 +1,1 @@
-var mnemonic = "radar real round funny fork rice tissue divert into share feature neck";
+var mnemonic = "coach latin coast wait give direct tired knife illness fiber decline universe";

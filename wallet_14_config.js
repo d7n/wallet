@@ -1,1 +1,1 @@
-var mnemonic = "void nothing pear chunk vague cool also thing swallow cart mobile model";
+var mnemonic = "popular giraffe derive valley rebel olive actor story organ expire water skull";

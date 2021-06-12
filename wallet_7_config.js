@@ -1,1 +1,1 @@
-var mnemonic = "invite forget napkin moon pioneer insane drop hazard obtain behave fatal syrup";
+var mnemonic = "pioneer harbor gesture very example cluster breeze crawl chronic stumble stem roast";

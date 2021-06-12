@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur document mountain interest blind carry occur purpose error winter fatal loyal";
+var mnemonic = "brand citizen spread focus more wood bench meadow cause connect outdoor brush";

@@ -1,1 +1,1 @@
-var mnemonic = "coast mansion bomb horror tourist swamp armed negative taxi cousin cable disorder";
+var mnemonic = "quit odor off planet shallow dismiss joke engine base park joke cycle";

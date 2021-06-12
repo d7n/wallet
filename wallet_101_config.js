@@ -1,1 +1,1 @@
-var mnemonic = "undo term more kangaroo arrow option image sugar supply invite worth lend";
+var mnemonic = "weapon pilot satisfy flame own venture island height nest busy runway transfer";

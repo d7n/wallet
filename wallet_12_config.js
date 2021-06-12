@@ -1,1 +1,1 @@
-var mnemonic = "physical little kangaroo pave assault release fee force tunnel woman pole calm";
+var mnemonic = "galaxy primary wrist green physical skill hammer skirt runway loyal beauty chief";

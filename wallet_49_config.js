@@ -1,1 +1,1 @@
-var mnemonic = "total noble grab cup lazy person total depart exhibit pill marble depart";
+var mnemonic = "reflect celery vapor champion ghost stage burden december fan orchard quote guess";

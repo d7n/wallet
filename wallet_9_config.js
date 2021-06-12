@@ -1,1 +1,1 @@
-var mnemonic = "used castle keen solid rule device onion mouse fortune among modify real";
+var mnemonic = "phone spread satoshi maze arctic diesel better hamster bread wire robust episode";

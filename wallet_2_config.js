@@ -1,1 +1,1 @@
-var mnemonic = "clap eye exhibit clever fade gift oil convince furnace bread casual hurdle";
+var mnemonic = "vapor around bless wisdom paper ethics stomach estate twin endorse dove adult";

@@ -1,1 +1,1 @@
-var mnemonic = "grief rival federal category point sound parent fruit alert client question victory";
+var mnemonic = "frame weapon bottom coast sustain insect tortoise lawn silent egg marble ribbon";

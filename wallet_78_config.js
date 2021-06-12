@@ -1,1 +1,1 @@
-var mnemonic = "view damp apple chaos jungle outer around like flavor sure pulp slender";
+var mnemonic = "raw almost member liquid crumble muffin tower forum physical impulse carbon gospel";

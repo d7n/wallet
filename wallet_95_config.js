@@ -1,1 +1,1 @@
-var mnemonic = "ramp guilt reflect never broken session wool diet summer waste train assault";
+var mnemonic = "leaf weather accident drip large visa ritual connect soldier basket private blood";

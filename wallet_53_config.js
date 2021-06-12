@@ -1,1 +1,1 @@
-var mnemonic = "sad pink rail public place moral pledge lawn mad witness service club";
+var mnemonic = "task remember scare toss brave hire toilet zoo horror snap sign enhance";

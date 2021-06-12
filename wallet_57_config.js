@@ -1,1 +1,1 @@
-var mnemonic = "trend eye combine trash rate joke fossil property floor goddess fine ketchup";
+var mnemonic = "stamp response sail three dragon among vicious tomato boring auto crane punch";

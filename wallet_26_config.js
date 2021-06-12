@@ -1,1 +1,1 @@
-var mnemonic = "lift seat group buyer brother dizzy pioneer crater vital off response curious";
+var mnemonic = "coach glad claw lunar decorate hour certain child lecture river story diet";

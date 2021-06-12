@@ -1,1 +1,1 @@
-var mnemonic = "clerk office busy seminar body obvious amount warm enrich same animal body";
+var mnemonic = "screen one pill royal search account dance wedding field dune swear attend";

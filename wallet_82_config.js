@@ -1,1 +1,1 @@
-var mnemonic = "canvas twice suffer wreck other permit where twist parrot cook seed brain";
+var mnemonic = "eagle mule wonder initial pencil luxury asset fix unhappy mention clean dash";

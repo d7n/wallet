@@ -1,1 +1,1 @@
-var mnemonic = "lens hip turkey width odor sing scrub trash proud aspect defy coyote";
+var mnemonic = "crowd despair route solar inch cabbage brand fossil misery crazy wool hole";

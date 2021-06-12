@@ -1,1 +1,1 @@
-var mnemonic = "bonus acid cigar rare milk final crack marble have shoot vast parade";
+var mnemonic = "machine engine liberty jewel pride move cheap seat odor drama reduce boss";

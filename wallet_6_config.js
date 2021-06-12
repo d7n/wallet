@@ -1,1 +1,1 @@
-var mnemonic = "color poet pilot list trend slush palace level stay dream trim card";
+var mnemonic = "hotel behave wrong garlic media eight merge seminar pudding flight extra city";

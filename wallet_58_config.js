@@ -1,1 +1,1 @@
-var mnemonic = "brain any rain bounce black figure admit physical timber riot pledge shop";
+var mnemonic = "govern farm loan mule hammer antenna hidden matrix style prison photo blanket";

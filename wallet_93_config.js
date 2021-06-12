@@ -1,1 +1,1 @@
-var mnemonic = "dog hawk renew mushroom cycle holiday first mule glove lock need visa";
+var mnemonic = "decorate ozone decide rebel garment never number chimney cable idle student laugh";

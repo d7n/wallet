@@ -1,1 +1,1 @@
-var mnemonic = "put sick slam still burger drum nut sweet common stadium shy arch";
+var mnemonic = "loyal float bag token recall desert brand cherry riot stool genre cattle";

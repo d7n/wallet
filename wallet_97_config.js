@@ -1,1 +1,1 @@
-var mnemonic = "layer target gospel carry nurse utility draw galaxy filter mechanic goat critic";
+var mnemonic = "system gentle kitchen such wheel fiscal bacon level act ceiling small duck";

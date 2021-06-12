@@ -1,1 +1,1 @@
-var mnemonic = "mouse occur order brand kind salute blue urban scissors tackle clump soft";
+var mnemonic = "juice whale tennis poet soda spirit orbit review stay crane fantasy achieve";

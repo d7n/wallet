@@ -1,1 +1,1 @@
-var mnemonic = "kite very moral foot swap tourist green tell tribe hire stick asset";
+var mnemonic = "tooth track come gain soccer donor maze isolate key cage rent document";

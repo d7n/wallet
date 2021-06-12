@@ -1,1 +1,1 @@
-var mnemonic = "despair base child gym pass film cushion lens burger inquiry ranch eager";
+var mnemonic = "illegal true doctor daughter blue wild crush fruit mistake original deal decrease";

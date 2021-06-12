@@ -1,1 +1,1 @@
-var mnemonic = "pony silent defy wonder heart shiver alone flat monkey label wolf often";
+var mnemonic = "draw exhibit asset raven eight sustain absurd expect chapter pottery cook first";

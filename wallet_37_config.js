@@ -1,1 +1,1 @@
-var mnemonic = "cream cannon dizzy indicate fall sudden survey online rib cook cargo romance";
+var mnemonic = "grow blanket decrease endless kite learn pride impose pipe river blur skull";

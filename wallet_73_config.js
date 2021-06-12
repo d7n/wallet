@@ -1,1 +1,1 @@
-var mnemonic = "cereal sweet shiver code axis mansion maximum demise electric eagle travel tuition";
+var mnemonic = "fame detail relief safe address chimney timber fold express lock guitar denial";
