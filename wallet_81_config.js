@@ -1,1 +1,1 @@
-var mnemonic = "toddler slight curve useless fun gown able hood usage hip together people";
+var mnemonic = "length inform letter connect move liar offer silk muffin clerk glare flight";

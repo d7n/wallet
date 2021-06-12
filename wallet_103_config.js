@@ -1,1 +1,1 @@
-var mnemonic = "track deposit urge just flee extra offer vacant flock derive crush comic";
+var mnemonic = "width glide enact diary great dash acquire abstract host decorate false dentist";

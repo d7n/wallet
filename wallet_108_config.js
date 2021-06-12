@@ -1,1 +1,1 @@
-var mnemonic = "guide debate flip tape gauge host wolf spike normal clown team very";
+var mnemonic = "ranch salmon mimic elbow oppose author exist must dove punch smile comfort";

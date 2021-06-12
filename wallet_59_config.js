@@ -1,1 +1,1 @@
-var mnemonic = "erosion emerge alcohol razor step initial dilemma cannon account agree recipe original";
+var mnemonic = "junior erosion ceiling pizza sentence shuffle make small turn fringe fluid measure";

@@ -1,1 +1,1 @@
-var mnemonic = "people cat era true shoulder icon dog confirm auction almost animal steel";
+var mnemonic = "pole credit member machine mask fatal taste throw six inquiry clay spread";

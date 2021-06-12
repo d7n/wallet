@@ -1,1 +1,1 @@
-var mnemonic = "rubber ribbon paper degree clock puppy shallow again cup finger raccoon alcohol";
+var mnemonic = "army merit snack slot sudden tumble olive obey act debris spot summer";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle liquid country magic detail call filter because owner wage key rule";
+var mnemonic = "kingdom feed regular river tattoo together shoot summer palm sponsor engage cargo";

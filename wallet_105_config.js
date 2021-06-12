@@ -1,1 +1,1 @@
-var mnemonic = "bamboo alter enhance enter virus february expire patrol disagree tornado oil again";
+var mnemonic = "luxury punch critic payment grunt empower once mandate warrior that castle bacon";

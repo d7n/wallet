@@ -1,1 +1,1 @@
-var mnemonic = "alien captain boring cup obtain worry fitness project swing analyst afraid tube";
+var mnemonic = "forward inner ancient mosquito dial melody middle come turkey actress century hard";

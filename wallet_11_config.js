@@ -1,1 +1,1 @@
-var mnemonic = "drip private famous motion bitter buzz easily early squirrel dream case suspect";
+var mnemonic = "sure sunny kind caught alert pioneer typical faculty popular verify stairs outer";

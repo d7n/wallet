@@ -1,1 +1,1 @@
-var mnemonic = "tent again own twin physical else coconut journey walk frequent winner olympic";
+var mnemonic = "industry essence sign reunion gun work lady lamp fortune pig bunker pig";

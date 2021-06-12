@@ -1,1 +1,1 @@
-var mnemonic = "someone vibrant party door afford abandon broom before what clay chest spike";
+var mnemonic = "injury volume tooth sun gym primary angle enforce act silly language child";

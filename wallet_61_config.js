@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit general chair capital hub million cannon alter wild dance model daughter";
+var mnemonic = "hair runway elbow dog slot major clay ticket guitar atom media venue";

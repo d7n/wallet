@@ -1,1 +1,1 @@
-var mnemonic = "electric scrap symptom shine brand tiny industry essence tomorrow gate gloom immune";
+var mnemonic = "donkey inner vague right avoid throw belt thrive lonely fiction monkey dress";

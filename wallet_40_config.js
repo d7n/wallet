@@ -1,1 +1,1 @@
-var mnemonic = "dirt water siege lobster sunny tail peasant honey rug gesture chaos push";
+var mnemonic = "author midnight wash private round discover arch stone warrior cousin tool boil";

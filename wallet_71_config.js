@@ -1,1 +1,1 @@
-var mnemonic = "pluck open slush ceiling blind exclude seek casual bind sell salon know";
+var mnemonic = "brave riot unaware palm measure around inmate behind gain shed matter animal";

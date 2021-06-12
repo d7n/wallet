@@ -1,1 +1,1 @@
-var mnemonic = "movie time enrich labor flip math public assault pause depend fit kitchen";
+var mnemonic = "ivory snow loan head must oven problem phone square allow lamp knock";

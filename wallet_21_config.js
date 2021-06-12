@@ -1,1 +1,1 @@
-var mnemonic = "tired flight client cash record battle actor engine parade cushion useful atom";
+var mnemonic = "sudden service mesh square pepper pigeon lazy twenty alley salute deputy father";

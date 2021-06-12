@@ -1,1 +1,1 @@
-var mnemonic = "desk seat budget chicken company boil match slender spy winter orange rival";
+var mnemonic = "invite embody disease fossil business present floor hello globe ride ignore gain";

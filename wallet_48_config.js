@@ -1,1 +1,1 @@
-var mnemonic = "bullet wasp sphere tobacco place sibling pave suit hungry mixed wool runway";
+var mnemonic = "exhibit melt agent again fan earth secret wire valley conduct bottom police";

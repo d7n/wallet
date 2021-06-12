@@ -1,1 +1,1 @@
-var mnemonic = "blue wisdom half lion tuition typical car cherry evoke unable head screen";
+var mnemonic = "actress habit depth sign bid noise almost champion pyramid unit giggle share";

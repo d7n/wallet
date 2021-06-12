@@ -1,1 +1,1 @@
-var mnemonic = "settle avoid item symptom escape market deliver bacon dignity pond two welcome";
+var mnemonic = "merge language suit slab feature easily pilot coral together index ginger lawn";

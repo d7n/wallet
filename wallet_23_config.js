@@ -1,1 +1,1 @@
-var mnemonic = "route avocado mass salad ill blade rally finish just acid village shrimp";
+var mnemonic = "segment boss party rely model system dress jump student zebra romance learn";

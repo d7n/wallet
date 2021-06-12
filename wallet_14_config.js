@@ -1,1 +1,1 @@
-var mnemonic = "used charge dwarf bacon vessel stamp adjust miracle scissors legal dog correct";
+var mnemonic = "picnic mansion six liar build dad banana flock neutral monkey clip cricket";

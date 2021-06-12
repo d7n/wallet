@@ -1,1 +1,1 @@
-var mnemonic = "fantasy carpet scrap book equal flight fresh bulb that possible modify faith";
+var mnemonic = "strategy opera shift gym gorilla robot lyrics govern sample clerk space jaguar";

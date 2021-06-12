@@ -1,1 +1,1 @@
-var mnemonic = "cruise atom slight crouch south disease process once observe bench world rose";
+var mnemonic = "once beyond kid feel find pave either tray escape awake weird fan";

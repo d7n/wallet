@@ -1,1 +1,1 @@
-var mnemonic = "include unveil wage brisk sweet private hope act crunch attend found purse";
+var mnemonic = "limb chicken lesson person level suspect clog horror scorpion weasel casino aerobic";

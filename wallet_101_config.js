@@ -1,1 +1,1 @@
-var mnemonic = "funny when poverty lock series flash depart fall because kid violin mixed";
+var mnemonic = "fuel volcano require car employ taste shine cereal timber surround quit mix";

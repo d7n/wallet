@@ -1,1 +1,1 @@
-var mnemonic = "hood clerk purity close gaze exist lab bamboo hover layer rely thank";
+var mnemonic = "another distance cigar home close weird early danger embrace lion away mistake";

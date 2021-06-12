@@ -1,1 +1,1 @@
-var mnemonic = "team crane genre tornado across female recipe material float leader kite pull";
+var mnemonic = "behave much firm slogan they any embody token clap risk lonely mix";

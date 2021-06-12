@@ -1,1 +1,1 @@
-var mnemonic = "laptop artwork outside daring ancient question grace web arch where play they";
+var mnemonic = "glance pony group neck pilot wire vote decade shallow attitude axis summer";

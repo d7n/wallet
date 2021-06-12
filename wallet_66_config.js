@@ -1,1 +1,1 @@
-var mnemonic = "syrup bounce toe sketch anchor horn brief twelve punch strike enable bike";
+var mnemonic = "ketchup eternal match swallow glove purpose true casino vehicle steel broom random";

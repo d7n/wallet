@@ -1,1 +1,1 @@
-var mnemonic = "essay wear economy strategy burger flush ethics pupil swarm nature gauge truth";
+var mnemonic = "wage youth gold scorpion soul crystal grunt else uniform equal able climb";

@@ -1,1 +1,1 @@
-var mnemonic = "mix board client vacuum skin hour harsh wood thing mimic august skate";
+var mnemonic = "peace fall broom spoil boy misery scheme critic ski acquire security pilot";

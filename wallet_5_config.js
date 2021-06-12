@@ -1,1 +1,1 @@
-var mnemonic = "april arena corn couch author possible coffee giant toss volume behind style";
+var mnemonic = "truly initial photo bulk suffer coast audit maximum grain prosper sword exit";

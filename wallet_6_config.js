@@ -1,1 +1,1 @@
-var mnemonic = "detect swap park side laundry solar ticket dizzy unfair eagle auction winner";
+var mnemonic = "pledge shine eternal settle link pistol repeat original mixture repeat you galaxy";

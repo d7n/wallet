@@ -1,1 +1,1 @@
-var mnemonic = "island unhappy random hurdle pelican shoe multiply canoe tourist solar alarm oval";
+var mnemonic = "unfold water whisper dinner silk question together toy stairs remember aunt oppose";

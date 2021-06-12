@@ -1,1 +1,1 @@
-var mnemonic = "harsh velvet retire license sunny spoil chief broom upset swallow about book";
+var mnemonic = "bread genius river endless loud trash soul benefit ready noble orchard inch";

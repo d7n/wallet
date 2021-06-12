@@ -1,1 +1,1 @@
-var mnemonic = "champion demise enroll rare budget eagle welcome disorder almost famous radar raven";
+var mnemonic = "combine atom goddess snap fossil feel still flush fit tag shaft gesture";

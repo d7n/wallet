@@ -1,1 +1,1 @@
-var mnemonic = "twelve order assist rail envelope lava burger what keep match shrug genre";
+var mnemonic = "kind polar reason celery dizzy vanish tenant clinic daughter laptop circle canal";

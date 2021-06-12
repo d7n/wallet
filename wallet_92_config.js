@@ -1,1 +1,1 @@
-var mnemonic = "cancel fitness coyote ill allow luggage boy say donate casino upset cook";
+var mnemonic = "hidden dragon urge atom problem sort arrow chicken hamster cricket chapter mistake";

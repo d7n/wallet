@@ -1,1 +1,1 @@
-var mnemonic = "know improve silver birth duck dove immune like school knife fiscal truth";
+var mnemonic = "fine panel junk wire mandate yellow merry version pluck monster donate eight";

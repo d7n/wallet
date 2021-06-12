@@ -1,1 +1,1 @@
-var mnemonic = "ranch cart impose save certain flip mother panther quick wild obey throw";
+var mnemonic = "confirm marine test bless pause fox conduct art toe foam dinosaur blue";

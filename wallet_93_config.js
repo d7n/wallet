@@ -1,1 +1,1 @@
-var mnemonic = "warm place rifle produce category someone define liar forum exotic today violin";
+var mnemonic = "donate immense pioneer cluster blood spend chef clock wise crack speed awake";

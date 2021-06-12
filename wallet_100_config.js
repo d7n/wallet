@@ -1,1 +1,1 @@
-var mnemonic = "popular unfold practice mother furnace write knife snack season toward enact dignity";
+var mnemonic = "violin road gas ladder happy capital awful choice monkey alarm trick roof";

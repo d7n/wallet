@@ -1,1 +1,1 @@
-var mnemonic = "elegant example victory sport novel alone draw gate symptom estate cricket awful";
+var mnemonic = "slim bike web ostrich theory host shrug raccoon chuckle egg bean often";

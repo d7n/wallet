@@ -1,1 +1,1 @@
-var mnemonic = "margin sauce endless pyramid original stadium bright figure choice keep legend course";
+var mnemonic = "inside reason laugh eagle food pepper celery blanket morning beach canal race";

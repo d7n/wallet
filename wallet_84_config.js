@@ -1,1 +1,1 @@
-var mnemonic = "fatal knock hint boat negative green present curious juice sleep enlist lounge";
+var mnemonic = "key mass actor mountain wolf cable dutch benefit feature family avocado fancy";

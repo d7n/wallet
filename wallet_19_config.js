@@ -1,1 +1,1 @@
-var mnemonic = "first nephew next gather large just allow flavor camera evidence direct robust";
+var mnemonic = "image present chalk retire table essay spring same frog insect impact metal";

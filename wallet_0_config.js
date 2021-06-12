@@ -1,1 +1,1 @@
-var mnemonic = "clever also gorilla army such trend leaf usage charge wrestle document service";
+var mnemonic = "aerobic pet base deposit vehicle upper balance siren broom please clip exact";

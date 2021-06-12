@@ -1,1 +1,1 @@
-var mnemonic = "lawn original bread sample off average broom boat initial expect adjust fun";
+var mnemonic = "tag bleak expect coyote tattoo during silly first father siren auction force";

@@ -1,1 +1,1 @@
-var mnemonic = "royal corn tomato slam recall globe junk observe oil light whip flash";
+var mnemonic = "broccoli anchor crack blanket orange panic crawl soup sort merge pistol target";

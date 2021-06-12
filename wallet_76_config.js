@@ -1,1 +1,1 @@
-var mnemonic = "twelve merry you define nature sheriff eagle feature kite puppy youth park";
+var mnemonic = "choice color young flush portion cruise core alpha found water fence ensure";

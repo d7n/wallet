@@ -1,1 +1,1 @@
-var mnemonic = "fan simple scare lava stage laugh river win include icon jealous evidence";
+var mnemonic = "cash shrimp caution banana throw crack valve latin host today badge rabbit";

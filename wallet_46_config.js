@@ -1,1 +1,1 @@
-var mnemonic = "hand actress vague foot enable can game scrub cargo conduct athlete lady";
+var mnemonic = "junior lucky damp want margin lawsuit famous owner hard spin ostrich twice";

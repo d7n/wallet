@@ -1,1 +1,1 @@
-var mnemonic = "apology relief pudding outer tower eager museum infant village wolf ball gravity";
+var mnemonic = "keep hill sock boss glory aware anchor brick harvest turn muscle spot";

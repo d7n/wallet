@@ -1,1 +1,1 @@
-var mnemonic = "liquid miss chest patch review bachelor danger pattern behind horse enemy butter";
+var mnemonic = "naive lesson medal grit happy behave carry cabbage oxygen organ giraffe always";

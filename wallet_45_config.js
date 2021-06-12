@@ -1,1 +1,1 @@
-var mnemonic = "chief pair dawn divorce napkin scene differ stomach wild hip unveil fortune";
+var mnemonic = "erosion saddle agent rally business tuna predict mass engine yellow agent another";

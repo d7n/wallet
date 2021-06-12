@@ -1,1 +1,1 @@
-var mnemonic = "verify bag enter grape glow planet loud snack cigar coast surprise street";
+var mnemonic = "section panther flower ugly used agree tomorrow chimney memory quote art high";

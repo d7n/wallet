@@ -1,1 +1,1 @@
-var mnemonic = "project rotate point toe argue logic mask diamond hill fringe crowd art";
+var mnemonic = "danger stay journey soldier cup object inner document claim better bless later";

@@ -1,1 +1,1 @@
-var mnemonic = "used pet fatal slogan toe rural innocent van pact social weekend physical";
+var mnemonic = "rookie behind demand pool wrong diagram dirt wrong ghost spread copper high";

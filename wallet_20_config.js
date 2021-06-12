@@ -1,1 +1,1 @@
-var mnemonic = "insect wish staff huge clap tank indoor grace already vault oven talent";
+var mnemonic = "deposit bunker together polar cross inch debate quarter farm damage major siege";

@@ -1,1 +1,1 @@
-var mnemonic = "empty spare cat immense best lend size iron unique baby silent brand";
+var mnemonic = "worry color orange merry soul kid season rebel detect scale hedgehog supreme";

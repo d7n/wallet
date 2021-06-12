@@ -1,1 +1,1 @@
-var mnemonic = "daring rhythm vote dolphin paddle gold dirt accuse royal deposit veteran hobby";
+var mnemonic = "planet sister now ripple maze silent jar figure tip forest need save";

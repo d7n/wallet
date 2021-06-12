@@ -1,1 +1,1 @@
-var mnemonic = "hawk domain come mirror index one fish bind noble that march behind";
+var mnemonic = "glue gain limb prison debate rack sheriff pull trend disorder fire minute";

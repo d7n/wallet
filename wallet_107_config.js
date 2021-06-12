@@ -1,1 +1,1 @@
-var mnemonic = "tuition advance margin torch layer bullet someone magnet pulse clap wait author";
+var mnemonic = "poet winner company feature rival floor adult member dwarf position token angle";

@@ -1,1 +1,1 @@
-var mnemonic = "soft concert cable join word holiday stick attend pumpkin narrow course thought";
+var mnemonic = "carpet net busy put isolate harbor social weird code dad grocery index";

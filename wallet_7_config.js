@@ -1,1 +1,1 @@
-var mnemonic = "sunny rice blue veteran lyrics beyond gaze fine because feed power build";
+var mnemonic = "hub rhythm uncle acid dose skin chaos season olympic report label share";

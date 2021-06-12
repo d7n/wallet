@@ -1,1 +1,1 @@
-var mnemonic = "pen minor crunch title deposit buyer push silver task artwork hurdle what";
+var mnemonic = "vacant reflect brick farm pepper mammal become mean file demand fame mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "omit syrup rate rescue tumble cream clever excuse faith baby mammal pipe";
+var mnemonic = "assist fresh guard giant whale child column stairs box live man tape";

@@ -1,1 +1,1 @@
-var mnemonic = "side pink dinner drastic can economy battle card gospel educate input business";
+var mnemonic = "upgrade erase crush slide digital fatal sword front fence expose waste wear";

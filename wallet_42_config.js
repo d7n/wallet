@@ -1,1 +1,1 @@
-var mnemonic = "street kangaroo sweet try bar fossil october start about layer minor fluid";
+var mnemonic = "biology joy detect edge sweet wine elephant bind keep spin benefit cheap";

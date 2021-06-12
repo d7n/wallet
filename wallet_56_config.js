@@ -1,1 +1,1 @@
-var mnemonic = "mushroom knock enable truth excite weekend assault much aspect episode rude taste";
+var mnemonic = "salmon antique pony combine wink way wisdom renew visa angry dawn drama";

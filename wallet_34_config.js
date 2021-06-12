@@ -1,1 +1,1 @@
-var mnemonic = "nuclear inner stone action swallow test know gap ship skate sample divorce";
+var mnemonic = "rookie permit bargain defense state stand pottery embrace plunge live father act";

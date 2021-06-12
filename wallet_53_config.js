@@ -1,1 +1,1 @@
-var mnemonic = "chuckle decrease address exotic repeat behind key broom luxury amount exit update";
+var mnemonic = "transfer lazy orient spawn easy weather poem index truck tragic hour fan";

@@ -1,1 +1,1 @@
-var mnemonic = "juice drift noodle bronze symptom increase impact during tape mass vehicle rent";
+var mnemonic = "one consider clown apart mystery prefer skate name deer animal damage brown";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery shallow hold fury climb abuse immune pilot rather base rare sunny";
+var mnemonic = "tragic mom pen crunch number gloom glory expand spider host price fresh";

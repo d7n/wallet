@@ -1,1 +1,1 @@
-var mnemonic = "book urge token unable trigger harsh vibrant frame industry oxygen tackle assault";
+var mnemonic = "recycle lock bicycle easily crush buffalo paper tomorrow dose assume release panda";

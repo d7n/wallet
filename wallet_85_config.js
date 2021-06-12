@@ -1,1 +1,1 @@
-var mnemonic = "embrace awful ripple glove agree someone artefact brain foster loan middle merge";
+var mnemonic = "please bar panther mesh sense ring foster unusual fabric shoulder notable like";

@@ -1,1 +1,1 @@
-var mnemonic = "ready royal crumble risk alert report humble size erupt earth right scout";
+var mnemonic = "chase solution angry diary tree knock fall worry text news glad hurt";

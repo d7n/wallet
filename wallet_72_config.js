@@ -1,1 +1,1 @@
-var mnemonic = "guilt tourist guard favorite lend front guitar front raise maid quit burden";
+var mnemonic = "clap bless theme then pizza balance city unlock lottery visa buyer stone";

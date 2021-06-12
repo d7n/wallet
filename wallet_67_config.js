@@ -1,1 +1,1 @@
-var mnemonic = "brown million veteran atom cereal damage buzz cannon craft slim angle picnic";
+var mnemonic = "start spatial shop year february search mesh obscure taxi junk industry table";

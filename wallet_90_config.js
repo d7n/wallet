@@ -1,1 +1,1 @@
-var mnemonic = "submit scatter obscure useful essay act blind disease worry lens error horse";
+var mnemonic = "slide wine potato exhaust win foster soul clip tenant legal icon prize";

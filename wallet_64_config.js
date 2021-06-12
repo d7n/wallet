@@ -1,1 +1,1 @@
-var mnemonic = "elegant desk strong faint response enroll miss lens hedgehog march father trip";
+var mnemonic = "drop addict hover island gather sausage memory best west mad animal brother";

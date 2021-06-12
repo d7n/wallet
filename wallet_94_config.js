@@ -1,1 +1,1 @@
-var mnemonic = "basic exit push tower image enforce rib artwork maximum pigeon effort behave";
+var mnemonic = "seven toe describe kangaroo palace bean salad kite scatter crime album upper";

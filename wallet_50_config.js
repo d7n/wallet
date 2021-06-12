@@ -1,1 +1,1 @@
-var mnemonic = "demise actor impact alone damage pause liberty retreat credit prevent suffer year";
+var mnemonic = "knee inject print mango twice alcohol point jump ensure demise cruise estate";

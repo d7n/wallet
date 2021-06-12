@@ -1,1 +1,1 @@
-var mnemonic = "sadness fringe flip tank daughter rain jealous trick urban shaft best frown";
+var mnemonic = "feature crash because wage uncover tank bubble near saddle tragic repeat wise";
