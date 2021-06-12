@@ -1,1 +1,1 @@
-var mnemonic = "guide tray welcome siege hockey eight wealth media flavor deliver topple loyal";
+var mnemonic = "journey sign genius family casino ecology round walk buyer visa balance net";

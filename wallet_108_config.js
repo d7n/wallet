@@ -1,1 +1,1 @@
-var mnemonic = "direct review play stamp lonely brand grow just arrive tent vocal point";
+var mnemonic = "social napkin desert vehicle sock name across wrestle royal impulse federal daughter";

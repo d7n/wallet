@@ -1,1 +1,1 @@
-var mnemonic = "object wait symptom payment adapt guard wheat multiply source coil major element";
+var mnemonic = "torch siege change salon forget false civil sleep ceiling catch grain face";

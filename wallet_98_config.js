@@ -1,1 +1,1 @@
-var mnemonic = "burden grape anger doll twice call chaos skin egg step iron glory";
+var mnemonic = "huge wrap black merit news pizza ocean grief rotate urge course laundry";

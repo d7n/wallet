@@ -1,1 +1,1 @@
-var mnemonic = "hour rigid usual decline adjust hood output panel small capital develop sound";
+var mnemonic = "dove traffic carbon mad gift pipe above enhance curious pistol poverty regular";

@@ -1,1 +1,1 @@
-var mnemonic = "goose forget forum ozone truck oven across dwarf favorite brain sell turkey";
+var mnemonic = "stairs barrel pledge banana since zone target leader month secret sick dad";

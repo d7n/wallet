@@ -1,1 +1,1 @@
-var mnemonic = "weasel shine guess insect air shift crash wink give aerobic pill glove";
+var mnemonic = "summer brown regret satoshi split bronze drip dwarf damp flame build gasp";

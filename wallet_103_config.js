@@ -1,1 +1,1 @@
-var mnemonic = "mad twelve hard black cloth want vanish entire ring this struggle abuse";
+var mnemonic = "kitchen offer adjust unable virus project vacant destroy swallow repeat make frost";

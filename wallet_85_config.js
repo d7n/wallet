@@ -1,1 +1,1 @@
-var mnemonic = "police ripple detail used pass scare winter inquiry diesel edit artwork cycle";
+var mnemonic = "guitar eagle join extend they color arrange sheriff badge observe same citizen";

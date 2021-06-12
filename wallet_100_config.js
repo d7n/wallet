@@ -1,1 +1,1 @@
-var mnemonic = "tell turkey mom length tell swamp mule letter unveil arrive dinner blood";
+var mnemonic = "come naive seed famous dust orange soldier ship dry rack post happy";

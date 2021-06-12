@@ -1,1 +1,1 @@
-var mnemonic = "plunge labor skill urban measure patient snake clay police slab pulse picture";
+var mnemonic = "judge payment sudden basic fame maid yard mail love kind escape dinner";

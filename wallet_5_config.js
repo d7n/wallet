@@ -1,1 +1,1 @@
-var mnemonic = "skin cherry awkward owner someone cream derive public snow globe scrub amazing";
+var mnemonic = "balance jar position inject reason vessel clutch present school hip arch island";

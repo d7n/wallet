@@ -1,1 +1,1 @@
-var mnemonic = "boring session arrive fame exotic artefact any deposit slice depend duty little";
+var mnemonic = "jazz trophy rebel cargo soup parade round lamp punch planet sauce harsh";

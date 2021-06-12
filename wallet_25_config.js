@@ -1,1 +1,1 @@
-var mnemonic = "normal moment initial vessel icon bleak song diary bulb produce envelope resemble";
+var mnemonic = "fever squeeze slab stool waste mouse trial detect fine clutch crash fence";

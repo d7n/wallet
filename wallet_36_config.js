@@ -1,1 +1,1 @@
-var mnemonic = "mask tourist device skill armor fabric father fork hollow tell medal lift";
+var mnemonic = "shift over resist image float run slender pretty account indicate pact relief";

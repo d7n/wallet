@@ -1,1 +1,1 @@
-var mnemonic = "corn place blood column manual vivid nose relax trick grass auction warrior";
+var mnemonic = "purpose roof tissue man slow candy explain spy embody pair leg fox";

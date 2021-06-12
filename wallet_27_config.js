@@ -1,1 +1,1 @@
-var mnemonic = "book range rule junk ability worry garbage track busy bring ritual smile";
+var mnemonic = "marriage glory speed actress length cinnamon defense twice lucky like rocket tip";

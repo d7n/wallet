@@ -1,1 +1,1 @@
-var mnemonic = "sheriff palace reject puppy west push foot bar smooth spawn install wrap";
+var mnemonic = "era bulb update fit normal biology rebuild pumpkin rich engage gas world";

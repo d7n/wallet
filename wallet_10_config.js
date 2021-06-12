@@ -1,1 +1,1 @@
-var mnemonic = "sauce seat flip bleak entry prepare gauge goddess entry reduce segment erosion";
+var mnemonic = "improve cause immense term give brother brick squeeze someone question bargain rare";

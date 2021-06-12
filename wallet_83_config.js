@@ -1,1 +1,1 @@
-var mnemonic = "clap nothing august patch among check inquiry bread client answer mechanic section";
+var mnemonic = "joy turkey pumpkin spawn rare fan accuse absent knee blossom grit review";

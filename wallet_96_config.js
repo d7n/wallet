@@ -1,1 +1,1 @@
-var mnemonic = "estate violin render punch deal rival glance coil ignore brown throw thunder";
+var mnemonic = "unique prefer atom proof dismiss rabbit casual correct resist obey engine soon";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt badge together indoor behave icon trust pioneer subway chicken pudding hair";
+var mnemonic = "true grass pet sugar neck flag autumn affair kingdom envelope west badge";

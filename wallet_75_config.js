@@ -1,1 +1,1 @@
-var mnemonic = "fatigue figure negative grape hurdle metal enroll gas body material wasp beauty";
+var mnemonic = "world entry bright word raven pepper mean come tunnel breeze opinion catch";

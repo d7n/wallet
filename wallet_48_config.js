@@ -1,1 +1,1 @@
-var mnemonic = "radio doctor legal abuse bike observe short neutral tube mixture bird invest";
+var mnemonic = "satoshi puzzle lens general rib seat people milk palm market assault over";

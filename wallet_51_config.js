@@ -1,1 +1,1 @@
-var mnemonic = "judge right decrease rail edit state allow regret love wool pioneer artist";
+var mnemonic = "advance double wrap advice harsh whisper quit short waste ask beauty talent";

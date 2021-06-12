@@ -1,1 +1,1 @@
-var mnemonic = "search educate rule grant result ancient artwork surface turn brave fiber empower";
+var mnemonic = "squirrel advice peace say tomato drink science job shoe tourist radar estate";

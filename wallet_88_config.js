@@ -1,1 +1,1 @@
-var mnemonic = "unaware stand crowd cigar faith leaf man nose friend never arrive debate";
+var mnemonic = "item outer degree reveal sister law fluid sick power tongue error desert";

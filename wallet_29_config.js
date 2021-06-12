@@ -1,1 +1,1 @@
-var mnemonic = "pluck feel movie sister whale ticket atom jump canyon unusual frequent crater";
+var mnemonic = "critic forget mad answer become pig chapter sail seed fix stand dose";

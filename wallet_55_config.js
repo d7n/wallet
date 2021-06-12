@@ -1,1 +1,1 @@
-var mnemonic = "split issue cushion tree desert remove have chuckle banner measure glad logic";
+var mnemonic = "chronic quantum ahead viable oyster acid animal struggle unhappy picture crash stove";

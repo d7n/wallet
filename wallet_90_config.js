@@ -1,1 +1,1 @@
-var mnemonic = "anxiety bomb order slab coil group bird skin excuse excuse another captain";
+var mnemonic = "few rice bomb man toward clog weapon deer disorder coral program wide";

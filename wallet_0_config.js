@@ -1,1 +1,1 @@
-var mnemonic = "priority burst civil space under myself repair stamp honey solar muffin album";
+var mnemonic = "glad sudden attack again clever neither library weasel truly truly toy runway";

@@ -1,1 +1,1 @@
-var mnemonic = "banana village scout city shoot proud make require dune beauty flower calm";
+var mnemonic = "rebuild devote cause frost repair hover joy butter predict mass rifle wrestle";

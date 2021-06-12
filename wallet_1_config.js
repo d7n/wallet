@@ -1,1 +1,1 @@
-var mnemonic = "vacuum erupt jaguar fringe monster blame season drama clay ugly actor unusual";
+var mnemonic = "pill turkey bulb observe refuse insane oblige chef half clog lab curve";

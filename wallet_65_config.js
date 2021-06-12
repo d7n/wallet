@@ -1,1 +1,1 @@
-var mnemonic = "chef sell patient rice other bachelor glide reopen reflect time toddler fancy";
+var mnemonic = "empower valve smoke feed famous moral whale robot impulse pipe spirit decorate";

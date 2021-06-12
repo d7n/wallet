@@ -1,1 +1,1 @@
-var mnemonic = "laugh curious decorate hotel shy dog blue museum attract attitude palace adapt";
+var mnemonic = "ritual illegal cross daring candy same canvas minute banana visa cook extend";

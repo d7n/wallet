@@ -1,1 +1,1 @@
-var mnemonic = "hint human flash dress lion enact race unaware isolate prefer move sudden";
+var mnemonic = "margin drink suit wear taxi punch rug pluck west laptop keen vault";

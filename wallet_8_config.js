@@ -1,1 +1,1 @@
-var mnemonic = "skirt range want essay fine hold leopard bulk cherry west pond alien";
+var mnemonic = "clean comfort slow smile rich arch zero slam web achieve again pet";

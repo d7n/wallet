@@ -1,1 +1,1 @@
-var mnemonic = "property skirt width lizard reason razor cabin one scrub hospital monkey pigeon";
+var mnemonic = "aisle minor illegal child very play crazy bind artist parrot bright salute";

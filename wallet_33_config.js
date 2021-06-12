@@ -1,1 +1,1 @@
-var mnemonic = "crater evidence auto risk card chair library elite hedgehog slush dawn wasp";
+var mnemonic = "action vintage silver salmon vague orbit live wish there wall kid frog";

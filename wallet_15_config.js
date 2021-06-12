@@ -1,1 +1,1 @@
-var mnemonic = "arm element scan alley powder brand elbow search busy album tackle swing";
+var mnemonic = "fitness stereo mammal frequent manage music inform village sun tackle hair bacon";

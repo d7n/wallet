@@ -1,1 +1,1 @@
-var mnemonic = "woman post aerobic dad skull remind eternal advice pretty gown region nature";
+var mnemonic = "broom donor inhale river estate reunion unknown spawn when bar glimpse all";

@@ -1,1 +1,1 @@
-var mnemonic = "claw doll material catalog corn melt slam endless fuel dentist poet fit";
+var mnemonic = "they flush remember educate icon ozone mobile aisle bubble despair keep evil";

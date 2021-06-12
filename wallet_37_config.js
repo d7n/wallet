@@ -1,1 +1,1 @@
-var mnemonic = "snack damage balcony abandon system glass small warm someone rack indoor guess";
+var mnemonic = "twice bone tower mango park aim sketch angry loud law approve paper";

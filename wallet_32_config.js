@@ -1,1 +1,1 @@
-var mnemonic = "normal kitchen menu obvious glance know side inject warfare disorder dream riot";
+var mnemonic = "volcano genre fragile space suggest front potato race silent expand attack guess";

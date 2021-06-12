@@ -1,1 +1,1 @@
-var mnemonic = "pony goddess analyst pizza cereal innocent dune witness vital welcome detail what";
+var mnemonic = "reflect lend cable original crash there pride ostrich sing marine menu extra";

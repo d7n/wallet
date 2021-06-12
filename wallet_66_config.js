@@ -1,1 +1,1 @@
-var mnemonic = "blush adult eyebrow program addict post duck maze face differ garlic lottery";
+var mnemonic = "welcome veteran plate air want pond father diet disease rail wedding oblige";

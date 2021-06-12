@@ -1,1 +1,1 @@
-var mnemonic = "legend field flat logic code example dinosaur shaft gospel hybrid chimney learn";
+var mnemonic = "banana muscle allow toward tiger amateur crane wedding super impact alarm animal";

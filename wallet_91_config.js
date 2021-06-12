@@ -1,1 +1,1 @@
-var mnemonic = "display depth spoil render crawl alarm bottom night actual card response empower";
+var mnemonic = "various dose able viable pact window slender glory balance claw ribbon spawn";

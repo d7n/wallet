@@ -1,1 +1,1 @@
-var mnemonic = "fox supreme floor blame pair ordinary horror cargo aerobic essence lab unable";
+var mnemonic = "deposit melody disease hundred chase witness naive tag disorder stove good meadow";

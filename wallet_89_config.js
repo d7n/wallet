@@ -1,1 +1,1 @@
-var mnemonic = "shoe rain monitor retreat gym cushion resource clay abstract rally feature dish";
+var mnemonic = "stumble stone pudding impulse decide client sibling initial puzzle carbon coil chair";

@@ -1,1 +1,1 @@
-var mnemonic = "ring cake stove bone anchor dash margin volcano vital flower net amazing";
+var mnemonic = "census warfare valley script trust size marriage enhance garbage claim gospel sense";

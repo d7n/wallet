@@ -1,1 +1,1 @@
-var mnemonic = "uncle render exhibit chicken skirt private scatter grace sight erupt glue tent";
+var mnemonic = "piano reopen detect guide bacon hunt plate donkey snack near recycle sight";

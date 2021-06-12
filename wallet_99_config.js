@@ -1,1 +1,1 @@
-var mnemonic = "peasant prison curve nut help unaware reveal wise sponsor wagon gate dream";
+var mnemonic = "exile echo team agent warm addict asset cigar enact best mother solve";

@@ -1,1 +1,1 @@
-var mnemonic = "couple manual twice arm pepper uncover punch sock famous cake exact case";
+var mnemonic = "couch surface bag boil tiny theory cloth thought omit soup home way";

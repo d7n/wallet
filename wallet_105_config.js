@@ -1,1 +1,1 @@
-var mnemonic = "wise desk beef year bronze crucial success bracket normal evolve glance pig";
+var mnemonic = "only still winner slice behave off buyer reform uncle fire rapid job";

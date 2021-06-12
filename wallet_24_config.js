@@ -1,1 +1,1 @@
-var mnemonic = "awful picnic castle sell absorb rebuild bundle advance require field toss sister";
+var mnemonic = "soup aspect infant flat result connect pepper sadness excess organ another wrap";

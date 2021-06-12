@@ -1,1 +1,1 @@
-var mnemonic = "cube beauty inside sword local already discover fat hope bind symbol hope";
+var mnemonic = "service announce border chaos chicken garden glue coffee wide nominee belt wall";

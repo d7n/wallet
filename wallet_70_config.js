@@ -1,1 +1,1 @@
-var mnemonic = "cigar fortune praise digital enable pact comic wood close field girl practice";
+var mnemonic = "poet jungle genius smoke tray dirt myself embody parent unfair early rail";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky rack range endless habit rough nuclear dog pioneer chef debate length";
+var mnemonic = "hurdle auto verb wise athlete online insect disorder coach tumble unfold parade";

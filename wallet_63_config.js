@@ -1,1 +1,1 @@
-var mnemonic = "desk ostrich human black craft mosquito double sting neutral mean blossom damp";
+var mnemonic = "royal advice picnic foot despair quote leisure main pill acquire differ dinosaur";

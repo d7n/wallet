@@ -1,1 +1,1 @@
-var mnemonic = "corn best mass motor flag legal ivory siege person inner rely mass";
+var mnemonic = "auction honey concert minimum profit addict security donate proof cattle debate dumb";

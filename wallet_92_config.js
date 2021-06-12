@@ -1,1 +1,1 @@
-var mnemonic = "palace acquire palace claim obvious again bounce assist rose kingdom talk seed";
+var mnemonic = "renew figure random fine october rookie true repeat indicate ten hidden boat";

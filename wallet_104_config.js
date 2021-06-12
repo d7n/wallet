@@ -1,1 +1,1 @@
-var mnemonic = "answer face ceiling brain desk plunge night invite mandate chalk merry arrest";
+var mnemonic = "dress enjoy mistake fame vendor mass turn argue below easily tower runway";

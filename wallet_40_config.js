@@ -1,1 +1,1 @@
-var mnemonic = "chase snow monkey spot wild benefit trouble obtain rival aware either dizzy";
+var mnemonic = "reflect during general hospital neutral stool orbit during trial happy engage cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "someone phrase slide setup morning convince height agent hip globe business above";
+var mnemonic = "senior know burst exchange bullet unhappy element sweet joke lawsuit roof garlic";

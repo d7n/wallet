@@ -1,1 +1,1 @@
-var mnemonic = "voice skull wrong solution gallery school cotton expect inform shield wasp cover";
+var mnemonic = "shrimp profit case cook open maximum video fragile crack salmon fashion patrol";

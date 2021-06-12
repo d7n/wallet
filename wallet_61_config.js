@@ -1,1 +1,1 @@
-var mnemonic = "narrow genre light quick quantum pigeon next umbrella pony bottom zone merit";
+var mnemonic = "grape pluck point chief damp core adjust section nuclear board isolate equip";

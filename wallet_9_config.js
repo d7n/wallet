@@ -1,1 +1,1 @@
-var mnemonic = "unusual nature trick swim grain toss dust sniff swim lesson motion rabbit";
+var mnemonic = "hole fiction scene pattern donor crime purity boss power spice someone inject";

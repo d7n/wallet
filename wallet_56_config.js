@@ -1,1 +1,1 @@
-var mnemonic = "female mango planet benefit humor point guard morning fence milk satoshi mammal";
+var mnemonic = "silver text switch donor vivid canyon private green feature ankle wine universe";

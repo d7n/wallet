@@ -1,1 +1,1 @@
-var mnemonic = "spawn weather skull whip zone surface develop layer interest deny lamp hollow";
+var mnemonic = "kick work frequent traffic stomach east bomb crumble swamp use column tomato";

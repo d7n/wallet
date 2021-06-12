@@ -1,1 +1,1 @@
-var mnemonic = "carry marble armed mouse purchase pool bleak ski message oyster waste round";
+var mnemonic = "chaos fever view broken shuffle learn regret vacuum arrow match option wet";

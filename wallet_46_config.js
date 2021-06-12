@@ -1,1 +1,1 @@
-var mnemonic = "story shield target walnut minute retire twist warfare tilt canvas rack country";
+var mnemonic = "guess early wild mix engage dust long lemon edge process grass sausage";

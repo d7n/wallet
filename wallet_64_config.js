@@ -1,1 +1,1 @@
-var mnemonic = "kitchen dinosaur weasel endless tuition wonder six fashion nasty cause design month";
+var mnemonic = "worth lava mystery juice more walk risk lunar popular candy shaft type";

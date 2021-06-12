@@ -1,1 +1,1 @@
-var mnemonic = "mechanic dismiss estate brick cigar uphold elegant fashion pizza topic truck popular";
+var mnemonic = "bamboo local caught habit purpose mechanic there program beauty require blade indicate";

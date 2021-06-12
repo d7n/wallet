@@ -1,1 +1,1 @@
-var mnemonic = "pass cave dizzy inflict boss foil repair above manage pepper drink space";
+var mnemonic = "essay force romance imitate frame install fruit tissue equip rate expect nest";

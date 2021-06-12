@@ -1,1 +1,1 @@
-var mnemonic = "bus wealth much amazing rather present critic gun decrease rally card maple";
+var mnemonic = "stove crane grit smoke produce stamp digital uncle water original roof armed";

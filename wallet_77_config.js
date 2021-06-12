@@ -1,1 +1,1 @@
-var mnemonic = "bar throw annual sadness decorate tube panda actor finish carbon blade mountain";
+var mnemonic = "ripple silent ribbon resemble profit ready end word error arrange unlock mind";

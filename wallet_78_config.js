@@ -1,1 +1,1 @@
-var mnemonic = "fee sadness note flock human general improve such husband loyal kitchen plunge";
+var mnemonic = "kind dynamic retire sound twist comfort boat abuse step exact blood milk";

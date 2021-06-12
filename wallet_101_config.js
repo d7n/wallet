@@ -1,1 +1,1 @@
-var mnemonic = "such morning room kind autumn caught sword evoke wife margin toy hand";
+var mnemonic = "jump coconut voyage insect wrestle possible pen loud siege photo work abandon";

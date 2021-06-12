@@ -1,1 +1,1 @@
-var mnemonic = "fan detail since verify green tongue cycle start fuel shadow spy chicken";
+var mnemonic = "total length bronze cheap index able february strategy frost square office buddy";

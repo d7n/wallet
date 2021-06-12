@@ -1,1 +1,1 @@
-var mnemonic = "globe top vanish comfort excuse crowd remember coin endless tortoise hole surround";
+var mnemonic = "guitar gallery select camera remind try effort taste glimpse foot ladder casino";

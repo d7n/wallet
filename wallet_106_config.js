@@ -1,1 +1,1 @@
-var mnemonic = "process unveil witness absorb salute become dizzy gloom arctic beach learn hat";
+var mnemonic = "basic knee follow twice cash consider smart dolphin laptop album helmet canoe";

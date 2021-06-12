@@ -1,1 +1,1 @@
-var mnemonic = "symbol wrestle target offer below disorder ship nothing tomato dream miracle inflict";
+var mnemonic = "mutual video sugar staff result swim position drama knee buzz clinic author";

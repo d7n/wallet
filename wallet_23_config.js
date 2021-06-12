@@ -1,1 +1,1 @@
-var mnemonic = "fence satisfy room robust until gasp easy submit until roast enhance unfold";
+var mnemonic = "frost clown hollow huge fly six claim ball jealous you luxury road";

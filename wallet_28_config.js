@@ -1,1 +1,1 @@
-var mnemonic = "canyon armor arctic outdoor hotel chalk lunar disorder latin demand plastic until";
+var mnemonic = "love latin setup just news carry rich favorite awful couple rally hotel";

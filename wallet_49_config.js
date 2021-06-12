@@ -1,1 +1,1 @@
-var mnemonic = "sun tube fruit tip palm will weather hunt claim wire paper accuse";
+var mnemonic = "hidden quality ugly nominee salmon erase crumble chef tragic empty lamp derive";

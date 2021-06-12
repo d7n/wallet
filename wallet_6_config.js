@@ -1,1 +1,1 @@
-var mnemonic = "hockey upgrade dwarf point purchase core surge attend reform keen elder photo";
+var mnemonic = "emerge ahead notice lady kid harvest drill genuine blanket shoulder note bachelor";

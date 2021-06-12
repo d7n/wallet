@@ -1,1 +1,1 @@
-var mnemonic = "tomato crazy finish milk picnic cliff arrive student cotton season erase try";
+var mnemonic = "arrow meadow device marble region toward sibling open venue rude run boss";

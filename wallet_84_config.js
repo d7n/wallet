@@ -1,1 +1,1 @@
-var mnemonic = "level saddle party almost potato limb live will ankle record tell shoe";
+var mnemonic = "rib train general bless bird supreme employ brush news barely siren brisk";

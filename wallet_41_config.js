@@ -1,1 +1,1 @@
-var mnemonic = "diagram note fun simple jewel bind believe assault box orient powder pride";
+var mnemonic = "nerve olympic staff need action gallery stick ice jazz stadium leopard lawsuit";

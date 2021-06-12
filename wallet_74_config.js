@@ -1,1 +1,1 @@
-var mnemonic = "build unusual solution math tower mixed unfold chuckle fire zebra antenna stove";
+var mnemonic = "mind business boring tape swift cage produce area help oak fantasy sting";
