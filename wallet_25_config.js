@@ -1,1 +1,1 @@
-var mnemonic = "ramp innocent guilt item foster brick endless crunch dignity plate valid excuse";
+var mnemonic = "artist dial furnace suit toe tennis grain capable bag upgrade spawn manual";

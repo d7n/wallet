@@ -1,1 +1,1 @@
-var mnemonic = "guilt true rescue illegal session grid matter ride amused spoon much uncover";
+var mnemonic = "picnic palm recall all cake provide put flat depth clip maple seat";

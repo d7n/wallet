@@ -1,1 +1,1 @@
-var mnemonic = "primary invest tube stove certain truth conduct decorate rain pottery tiny snow";
+var mnemonic = "only novel theme grit end dutch modify humble seven unit sun large";

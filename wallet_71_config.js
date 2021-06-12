@@ -1,1 +1,1 @@
-var mnemonic = "mutual oppose energy sort unique walnut farm female glove true inherit pony";
+var mnemonic = "clever two indoor now choose little series device march float blame genius";

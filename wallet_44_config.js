@@ -1,1 +1,1 @@
-var mnemonic = "around demand garden decrease year hazard example pride prison solar cattle urban";
+var mnemonic = "echo domain convince tobacco diet memory evoke wear indoor slab ill super";

@@ -1,1 +1,1 @@
-var mnemonic = "naive reduce sing tip potato cradle aisle pupil climb slogan split unaware";
+var mnemonic = "lunch client wash network laundry chef quit biology inject electric expand oak";

@@ -1,1 +1,1 @@
-var mnemonic = "idea monitor shock reunion buffalo onion few dizzy diagram bacon author garlic";
+var mnemonic = "jewel rice cliff void gold mesh hope yellow screen piece steel junk";

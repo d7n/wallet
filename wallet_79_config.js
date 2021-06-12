@@ -1,1 +1,1 @@
-var mnemonic = "search mammal tiger tomato oval honey patrol special elbow battle stuff skate";
+var mnemonic = "lion shield link outdoor mirror suit affair pioneer walk flame deputy buddy";

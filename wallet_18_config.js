@@ -1,1 +1,1 @@
-var mnemonic = "miss wine giggle two pen faith control bottom diary detect endless finger";
+var mnemonic = "hockey reopen tomato walnut rice diamond easily harvest fat grass diagram cherry";

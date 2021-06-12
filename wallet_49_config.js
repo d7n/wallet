@@ -1,1 +1,1 @@
-var mnemonic = "unique heavy kick tide scrub rescue tomato motion poverty bundle cloth fix";
+var mnemonic = "reunion live friend hundred comic purse grab analyst middle speak badge submit";

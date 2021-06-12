@@ -1,1 +1,1 @@
-var mnemonic = "divert yellow fame effort water exhaust caught echo camp sad length chimney";
+var mnemonic = "verify lion ripple yellow creek broccoli ocean loud outer ill depth daring";

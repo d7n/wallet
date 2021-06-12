@@ -1,1 +1,1 @@
-var mnemonic = "income coconut round thing fashion shed machine fun matrix this trip animal";
+var mnemonic = "muscle that stick clock wife awesome now security mix duty long patch";

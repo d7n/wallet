@@ -1,1 +1,1 @@
-var mnemonic = "inherit rich black saddle current someone autumn any aspect tip lock sad";
+var mnemonic = "alien vanish dust dentist panel orange another fragile unveil bachelor master prefer";

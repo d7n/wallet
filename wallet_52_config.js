@@ -1,1 +1,1 @@
-var mnemonic = "furnace display survey sheriff suit noise faculty enrich ozone jealous pupil jungle";
+var mnemonic = "hospital cliff series page year divide provide make bleak donate unusual napkin";

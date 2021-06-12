@@ -1,1 +1,1 @@
-var mnemonic = "tooth canvas dune resemble correct evolve charge mixed catch kidney athlete yellow";
+var mnemonic = "scan bottom mother sentence spray teach damp blanket hood upper wife become";

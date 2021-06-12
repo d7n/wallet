@@ -1,1 +1,1 @@
-var mnemonic = "country soda slim asthma rather number host ivory raw gesture noodle buyer";
+var mnemonic = "ask clap begin spatial orange obey guitar car stock super desert stable";

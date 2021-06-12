@@ -1,1 +1,1 @@
-var mnemonic = "sword shoot among more cute unusual half shock tiger come giant very";
+var mnemonic = "decline club erode cupboard cram upset dress gain cliff impulse exclude ship";

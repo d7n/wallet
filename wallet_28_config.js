@@ -1,1 +1,1 @@
-var mnemonic = "draft income napkin nature cereal alarm fit cover unaware isolate pizza west";
+var mnemonic = "city oyster craft mansion trap arch valid grid junk decide museum universe";

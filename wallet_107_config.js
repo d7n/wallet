@@ -1,1 +1,1 @@
-var mnemonic = "camp method ahead cricket immense decorate divert mango holiday pretty bench jeans";
+var mnemonic = "feature mystery ski bring pass thing simple garage afford library flight visual";

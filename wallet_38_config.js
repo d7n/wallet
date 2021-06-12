@@ -1,1 +1,1 @@
-var mnemonic = "basket kick squirrel noble toy patch illness nuclear unit ice concert debris";
+var mnemonic = "author impulse consider replace athlete rare north industry film genre weasel drastic";

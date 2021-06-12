@@ -1,1 +1,1 @@
-var mnemonic = "peanut right luggage coach champion rare sting frog surge alpha lemon cigar";
+var mnemonic = "broccoli hole someone pilot then similar excess devote ignore library hybrid trick";

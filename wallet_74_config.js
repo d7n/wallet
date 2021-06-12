@@ -1,1 +1,1 @@
-var mnemonic = "baby panther sunset kick canvas expand frame palace nurse under middle vault";
+var mnemonic = "benefit receive accident anchor muscle around angry salmon once dial planet love";

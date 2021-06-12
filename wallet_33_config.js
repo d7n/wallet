@@ -1,1 +1,1 @@
-var mnemonic = "pool mansion anxiety basket toe series exist unknown young praise inquiry away";
+var mnemonic = "ostrich casino dune awful correct chase laundry oppose jeans insane picnic eyebrow";

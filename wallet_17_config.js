@@ -1,1 +1,1 @@
-var mnemonic = "mask lava layer rural chapter nuclear inch future toddler fat chalk dream";
+var mnemonic = "vacuum pen bullet design region mix hurry now unable present degree zoo";

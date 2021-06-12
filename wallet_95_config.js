@@ -1,1 +1,1 @@
-var mnemonic = "farm myth soldier term area female crowd update spy diagram soap sadness";
+var mnemonic = "busy genuine bus dice poem increase figure marriage symbol term price square";

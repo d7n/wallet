@@ -1,1 +1,1 @@
-var mnemonic = "nature document body pumpkin corn never engage purpose hazard improve nation picture";
+var mnemonic = "language income teach path camera device ice home pool spot draw oxygen";

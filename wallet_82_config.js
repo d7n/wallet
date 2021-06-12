@@ -1,1 +1,1 @@
-var mnemonic = "actress shield mirror burger live tooth frozen man nice material rebuild segment";
+var mnemonic = "govern easily catch fit theory mom inhale wool ball faith tomato pond";

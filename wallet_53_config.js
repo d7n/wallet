@@ -1,1 +1,1 @@
-var mnemonic = "dove uphold federal noise twist universe always junk forest claw stage magnet";
+var mnemonic = "enforce nature rally globe you night charge awful inherit valid salad desk";

@@ -1,1 +1,1 @@
-var mnemonic = "tank unlock hover tuition almost inside idea beauty sick loan critic assist";
+var mnemonic = "grunt detail little salt shoulder cube warrior airport wet crystal improve easily";

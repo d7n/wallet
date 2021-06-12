@@ -1,1 +1,1 @@
-var mnemonic = "crisp water when choose plunge zone wrong exotic notice toss spider menu";
+var mnemonic = "symptom brown robot fish access wide general insane enlist matrix either found";

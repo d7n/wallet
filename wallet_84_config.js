@@ -1,1 +1,1 @@
-var mnemonic = "anger chief squeeze eagle often over radar cabbage abuse any group home";
+var mnemonic = "enact display dawn giant hammer sick canvas tackle north right solve pull";

@@ -1,1 +1,1 @@
-var mnemonic = "sister manage album copy best clean flavor jungle glow impulse mesh depend";
+var mnemonic = "furnace addict increase echo drop crowd hello number chuckle walk tree depart";

@@ -1,1 +1,1 @@
-var mnemonic = "sing junk talk goddess school ripple evil amount ginger author bread melody";
+var mnemonic = "real round trap more grab middle afraid edit pair route sunny turn";

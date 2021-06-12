@@ -1,1 +1,1 @@
-var mnemonic = "tell nasty nose hammer eager cheese jealous gas because joy fat tide";
+var mnemonic = "observe few salad enough any exercise lecture rich luxury trap asthma dust";

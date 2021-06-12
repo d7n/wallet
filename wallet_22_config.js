@@ -1,1 +1,1 @@
-var mnemonic = "float embody pull need must finger ginger brown reason member sniff estate";
+var mnemonic = "verb coyote game claw gauge rally struggle tag sudden mixture forest feel";

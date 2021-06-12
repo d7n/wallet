@@ -1,1 +1,1 @@
-var mnemonic = "vehicle number dash energy wish olympic taste busy extend hello finish illegal";
+var mnemonic = "time salt supreme gain sell repeat today alone diamond banner cargo force";

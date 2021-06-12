@@ -1,1 +1,1 @@
-var mnemonic = "tattoo travel pear draft car remind ten brush myth valley brick deposit";
+var mnemonic = "life ecology chuckle traffic sight circle tongue radar drink culture deny melody";

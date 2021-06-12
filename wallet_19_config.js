@@ -1,1 +1,1 @@
-var mnemonic = "quick lyrics awesome tomorrow atom amateur damp forward dish humor use infant";
+var mnemonic = "auction clarify library brown elder online alley topple borrow there often brass";

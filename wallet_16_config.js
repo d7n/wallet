@@ -1,1 +1,1 @@
-var mnemonic = "pizza staff pledge gesture broken jazz stuff gather innocent exact casual light";
+var mnemonic = "jump blouse alarm gaze silly forum bottom leaf similar need hybrid fog";

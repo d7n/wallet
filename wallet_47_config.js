@@ -1,1 +1,1 @@
-var mnemonic = "deputy obtain appear swap anxiety impact human soap horse relief slight silent";
+var mnemonic = "head gym arm small payment call unique sugar badge scout crisp click";

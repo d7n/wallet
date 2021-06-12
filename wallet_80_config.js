@@ -1,1 +1,1 @@
-var mnemonic = "adapt upon patient soldier invite patrol treat cabbage position impact cherry proof";
+var mnemonic = "situate lesson olympic kit similar dirt tone guard check pave swear museum";

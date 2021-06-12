@@ -1,1 +1,1 @@
-var mnemonic = "bid situate danger stool apart borrow ill few addict grape elder easy";
+var mnemonic = "farm reopen gloom stable vote album noodle ridge oak family fault rebel";

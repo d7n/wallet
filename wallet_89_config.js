@@ -1,1 +1,1 @@
-var mnemonic = "seat bench orphan brief upper route angry person accuse south session beach";
+var mnemonic = "bunker baby ride hotel stove twin quit isolate author rocket face whale";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow close praise hybrid input slam cancel stage entry damage around income";
+var mnemonic = "voyage raw sound country allow nominee flush have moment awake citizen seven";

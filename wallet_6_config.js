@@ -1,1 +1,1 @@
-var mnemonic = "cost anchor surface cable produce lonely lawn climb family awake spin simple";
+var mnemonic = "enough asset repair jungle news balance soon guide use grab airport over";

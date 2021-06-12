@@ -1,1 +1,1 @@
-var mnemonic = "tourist club enrich length because mask daughter stereo breeze they narrow lava";
+var mnemonic = "shove keen concert hamster bench relax rule shield balance flush puppy wall";

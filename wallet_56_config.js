@@ -1,1 +1,1 @@
-var mnemonic = "step merge brother seek iron hockey believe popular square start record tape";
+var mnemonic = "pelican below virtual portion curve search carpet wrap travel lawsuit home syrup";

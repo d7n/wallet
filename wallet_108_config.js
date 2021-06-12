@@ -1,1 +1,1 @@
-var mnemonic = "under vapor smooth chronic faculty decide track slim engage machine sponsor chief";
+var mnemonic = "paddle clutch fan liberty squirrel series finger hub switch turn regular pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "nut bless place hat depend pole spoil flame brain beach wreck expire";
+var mnemonic = "prefer ozone hello skirt glance soda calm join faint woman person critic";

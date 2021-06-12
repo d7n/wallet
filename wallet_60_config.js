@@ -1,1 +1,1 @@
-var mnemonic = "animal age month witness device enact amazing crunch vanish lounge first toddler";
+var mnemonic = "adapt rule dial remain inch concert electric link coach firm erode razor";

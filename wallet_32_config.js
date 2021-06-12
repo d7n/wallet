@@ -1,1 +1,1 @@
-var mnemonic = "emotion forget pudding meat wrist phone marriage fiber burger cake attend citizen";
+var mnemonic = "wall throw fall brief rose skirt ecology lazy junior path begin test";

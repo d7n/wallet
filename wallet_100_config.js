@@ -1,1 +1,1 @@
-var mnemonic = "floor turkey gap turn tree recipe load program course afford scare layer";
+var mnemonic = "loop emotion nurse reunion holiday explain magic action elite rabbit witness unit";

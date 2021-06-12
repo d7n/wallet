@@ -1,1 +1,1 @@
-var mnemonic = "account ahead gasp emerge merry exotic defy arrest purity guitar garment laundry";
+var mnemonic = "poem practice patch science basket keep happy giggle wide purchase loud jealous";

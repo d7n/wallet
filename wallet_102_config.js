@@ -1,1 +1,1 @@
-var mnemonic = "type just sting horror pipe caution fossil tilt item miracle potato divert";
+var mnemonic = "assume grow end enact traffic genuine educate upset push boy that wasp";

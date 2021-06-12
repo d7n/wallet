@@ -1,1 +1,1 @@
-var mnemonic = "stereo release letter tribe fox ridge promote caught puzzle happy shiver mix";
+var mnemonic = "oval acid retire october blood initial fantasy endless water season ranch addict";

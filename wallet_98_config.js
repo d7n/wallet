@@ -1,1 +1,1 @@
-var mnemonic = "kit rich exclude diary immune small either laundry popular direct toss perfect";
+var mnemonic = "essence title favorite waste wagon fox behind second dolphin wrong hundred oval";

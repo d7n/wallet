@@ -1,1 +1,1 @@
-var mnemonic = "physical omit input satisfy thought dilemma ordinary local flower begin offer cover";
+var mnemonic = "brother purity print hello scrub caution beyond extra ketchup follow toilet lottery";

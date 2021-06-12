@@ -1,1 +1,1 @@
-var mnemonic = "above render hole million cost dice clock during visit casino daring attitude";
+var mnemonic = "hobby gravity picture wasp symptom ginger evidence call noodle custom crunch rebuild";

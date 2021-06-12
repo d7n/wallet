@@ -1,1 +1,1 @@
-var mnemonic = "village verify average expose nothing word sail deposit sketch slice civil proof";
+var mnemonic = "media member nephew execute kingdom fashion valley inflict network erosion attack gap";

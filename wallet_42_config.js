@@ -1,1 +1,1 @@
-var mnemonic = "novel sentence song mandate aim rail when input hockey element useless wall";
+var mnemonic = "census clog gauge destroy until into company jeans spend census omit circle";

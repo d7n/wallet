@@ -1,1 +1,1 @@
-var mnemonic = "educate supply proud envelope small soul canal jewel marine deposit during park";
+var mnemonic = "gorilla firm host start until umbrella glory suspect expire panel net liberty";

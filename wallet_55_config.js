@@ -1,1 +1,1 @@
-var mnemonic = "exhaust barely tower quarter grape solid swift mass denial fall ocean race";
+var mnemonic = "supreme chef asset doctor bounce abuse differ forum aware burger margin marble";

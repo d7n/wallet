@@ -1,1 +1,1 @@
-var mnemonic = "garage fence sense spider fold thumb prize decrease busy bird that best";
+var mnemonic = "recall auto news credit arrest choose order capable smoke fiction unhappy polar";

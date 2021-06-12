@@ -1,1 +1,1 @@
-var mnemonic = "decrease machine speak gaze side wealth hood service space peace trend alone";
+var mnemonic = "trouble angry trim control game metal shy kit much life tone oval";

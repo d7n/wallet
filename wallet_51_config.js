@@ -1,1 +1,1 @@
-var mnemonic = "mother uniform zebra cupboard deliver forget pen spell praise cost anchor two";
+var mnemonic = "involve soap bundle swear chapter oblige leisure cause smile artist search twist";

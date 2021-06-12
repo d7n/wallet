@@ -1,1 +1,1 @@
-var mnemonic = "near twelve render wagon merry daring steak inhale quick lady because decorate";
+var mnemonic = "poem aisle early foster shallow wish cat heavy giraffe disorder swallow connect";

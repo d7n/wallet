@@ -1,1 +1,1 @@
-var mnemonic = "bleak stereo clock exile tomato beauty entire hat scene better congress quote";
+var mnemonic = "captain depend original armor alone you cycle damp foster defy rookie start";

@@ -1,1 +1,1 @@
-var mnemonic = "hole desk tissue always govern select capital unhappy swamp warfare defy south";
+var mnemonic = "busy wool sign page jump drink turkey index wage series erupt arena";

@@ -1,1 +1,1 @@
-var mnemonic = "summer shiver diamond rude sentence protect entire machine steak hood violin unfold";
+var mnemonic = "coil decline safe until title praise manage recall miss village add brush";

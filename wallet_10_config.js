@@ -1,1 +1,1 @@
-var mnemonic = "treat fee scrap art step jungle aware ripple trust board venture rapid";
+var mnemonic = "total ranch away kit hurry meat stadium green vacant strike direct purchase";

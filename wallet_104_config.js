@@ -1,1 +1,1 @@
-var mnemonic = "wasp antenna episode barrel ancient spatial pulp frame live list rapid chuckle";
+var mnemonic = "front rapid buzz trophy afraid trick version only salmon tape hollow verify";

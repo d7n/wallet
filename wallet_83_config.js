@@ -1,1 +1,1 @@
-var mnemonic = "ethics giant front nut clinic scale rifle trigger agent early toy surround";
+var mnemonic = "endless double wife very have bar donor sleep story brand guide advance";

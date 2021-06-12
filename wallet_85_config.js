@@ -1,1 +1,1 @@
-var mnemonic = "phone able program amused potato train secret hero mask member safe alarm";
+var mnemonic = "race unfair spice afford spare trip jewel rose axis drive trust dignity";

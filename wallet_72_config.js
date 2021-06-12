@@ -1,1 +1,1 @@
-var mnemonic = "mix neck hip memory provide speak chalk payment control mechanic fee pluck";
+var mnemonic = "pig predict conduct raw garage ask volcano endless path peanut wife wise";

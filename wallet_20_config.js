@@ -1,1 +1,1 @@
-var mnemonic = "there ritual wear airport predict birth retire anger tell canvas moral potato";
+var mnemonic = "apology logic hello coral hip awesome noise foot anchor resist plunge city";

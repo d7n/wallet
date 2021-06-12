@@ -1,1 +1,1 @@
-var mnemonic = "annual mango quit board margin drastic south faculty merry opera hard kiss";
+var mnemonic = "industry north delay jar link person derive brave garage toilet protect wreck";

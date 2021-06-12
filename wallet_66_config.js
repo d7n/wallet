@@ -1,1 +1,1 @@
-var mnemonic = "destroy wreck region shoot absorb diamond asthma luxury puppy mix announce budget";
+var mnemonic = "include cradle sand narrow blanket slender shop scorpion tragic awesome length aerobic";

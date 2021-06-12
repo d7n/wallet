@@ -1,1 +1,1 @@
-var mnemonic = "caution tip town market best airport limb swift vague average name omit";
+var mnemonic = "poem sunny safe item excuse scene skate pink bike outer crater seek";

@@ -1,1 +1,1 @@
-var mnemonic = "crime amazing hurdle woman duck theory crane cannon blade believe outside dragon";
+var mnemonic = "blur seven drum garage display police poet carpet ice wrong then someone";

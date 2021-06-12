@@ -1,1 +1,1 @@
-var mnemonic = "visit guess infant ethics dentist subway discover melt soda ketchup deer theme";
+var mnemonic = "now siege supreme foam story deal organ awake attract slogan claim object";

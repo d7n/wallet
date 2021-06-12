@@ -1,1 +1,1 @@
-var mnemonic = "sibling action park misery talk cabin play shift popular now hollow fault";
+var mnemonic = "actor casual shoulder argue program case cream scan year pear sauce mutual";

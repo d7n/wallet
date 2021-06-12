@@ -1,1 +1,1 @@
-var mnemonic = "employ control slab hole noble panic hip task flee dry vivid original";
+var mnemonic = "surround genius picnic hero alien artwork bless random exhaust slot cancel congress";

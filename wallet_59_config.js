@@ -1,1 +1,1 @@
-var mnemonic = "layer raven lava unfair print cost such deer gaze tomato surround culture";
+var mnemonic = "gloom lucky enroll eight start normal label equal fish unfair focus motor";

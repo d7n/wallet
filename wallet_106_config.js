@@ -1,1 +1,1 @@
-var mnemonic = "entire example world jaguar company coach wall welcome safe unable thrive casino";
+var mnemonic = "combine heavy plastic entry output list monster oyster ten tuition spirit title";

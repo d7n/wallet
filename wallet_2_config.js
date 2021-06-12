@@ -1,1 +1,1 @@
-var mnemonic = "service snow truth multiply caught chaos blood utility piano rubber shoot job";
+var mnemonic = "amount problem duty kangaroo battle analyst taste neutral length insane atom rally";

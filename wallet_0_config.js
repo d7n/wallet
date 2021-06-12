@@ -1,1 +1,1 @@
-var mnemonic = "ladder march slice wish letter cradle obvious hidden idea lesson scrub trial";
+var mnemonic = "join much nasty decade help faith live fury enforce census gather observe";

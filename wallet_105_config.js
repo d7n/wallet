@@ -1,1 +1,1 @@
-var mnemonic = "tongue embody change crucial plug spot design stomach teach emerge win brick";
+var mnemonic = "then argue rubber barrel shop company number myth explain solve pave near";

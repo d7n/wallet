@@ -1,1 +1,1 @@
-var mnemonic = "unveil team shrug spray claim dolphin arch october patient number foot tunnel";
+var mnemonic = "cart caught true multiply emotion view return notice harsh say swallow camp";

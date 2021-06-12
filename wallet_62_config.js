@@ -1,1 +1,1 @@
-var mnemonic = "slice zone hint fault elegant wish powder trouble window since romance journey";
+var mnemonic = "under situate usage warrior hungry pattern night garden salon guitar lake target";

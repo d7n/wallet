@@ -1,1 +1,1 @@
-var mnemonic = "match notable depend wheel shed stuff laptop sight draw vintage define tool";
+var mnemonic = "wasp museum gather canyon wire equal clinic neglect type violin winner ramp";

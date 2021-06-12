@@ -1,1 +1,1 @@
-var mnemonic = "coil snow switch obey split cannon eager tomorrow globe border suspect file";
+var mnemonic = "decrease travel arrest logic use use attitude trim reason urge box trophy";

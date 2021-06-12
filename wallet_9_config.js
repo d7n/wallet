@@ -1,1 +1,1 @@
-var mnemonic = "suffer travel address hub hand supreme open duck exact promote parrot hood";
+var mnemonic = "invest yellow boss fly proud cloud bag odor good soul kit slide";
