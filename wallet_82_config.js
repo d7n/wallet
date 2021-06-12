@@ -1,1 +1,1 @@
-var mnemonic = "fault wall exclude annual match stick wedding mimic vast ride fatigue tool";
+var mnemonic = "royal corn tomato slam recall globe junk observe oil light whip flash";

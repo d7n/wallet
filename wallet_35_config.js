@@ -1,1 +1,1 @@
-var mnemonic = "rapid door report panther glad giggle crystal nuclear rebuild situate lamp woman";
+var mnemonic = "team crane genre tornado across female recipe material float leader kite pull";

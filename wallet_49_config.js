@@ -1,1 +1,1 @@
-var mnemonic = "total cute crawl comic motion space treat episode scout bargain chief broken";
+var mnemonic = "liquid miss chest patch review bachelor danger pattern behind horse enemy butter";

@@ -1,1 +1,1 @@
-var mnemonic = "recall artwork palm opera book injury cheap essence apple online cricket midnight";
+var mnemonic = "pen minor crunch title deposit buyer push silver task artwork hurdle what";

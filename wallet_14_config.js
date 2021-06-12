@@ -1,1 +1,1 @@
-var mnemonic = "clean review write inject envelope exact memory exit sick universe simple into";
+var mnemonic = "used charge dwarf bacon vessel stamp adjust miracle scissors legal dog correct";

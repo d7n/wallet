@@ -1,1 +1,1 @@
-var mnemonic = "allow trend soup length bird collect husband shield delay fish fence burden";
+var mnemonic = "apology relief pudding outer tower eager museum infant village wolf ball gravity";

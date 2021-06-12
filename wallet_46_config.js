@@ -1,1 +1,1 @@
-var mnemonic = "grow shove reunion pretty canal goat east trumpet lobster snow month stock";
+var mnemonic = "hand actress vague foot enable can game scrub cargo conduct athlete lady";

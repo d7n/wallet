@@ -1,1 +1,1 @@
-var mnemonic = "buffalo term electric math stem rigid final coil normal lounge marriage rookie";
+var mnemonic = "fatal knock hint boat negative green present curious juice sleep enlist lounge";

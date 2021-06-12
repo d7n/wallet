@@ -1,1 +1,1 @@
-var mnemonic = "rescue boat basic degree either palm arm hire grunt betray emerge harvest";
+var mnemonic = "syrup bounce toe sketch anchor horn brief twelve punch strike enable bike";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster vicious vital bean phone sunny bid ensure never title staff fetch";
+var mnemonic = "popular unfold practice mother furnace write knife snack season toward enact dignity";

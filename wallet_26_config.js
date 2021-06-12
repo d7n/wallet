@@ -1,1 +1,1 @@
-var mnemonic = "whale innocent strategy merge number ecology dentist moral attack torch cargo minute";
+var mnemonic = "include scrap ship blush beyond velvet tissue erupt sea another build similar";

@@ -1,1 +1,1 @@
-var mnemonic = "way excite push dignity mail verb floor disorder solve one token notice";
+var mnemonic = "can carpet combine judge edit elegant special night wonder fatigue fashion banner";

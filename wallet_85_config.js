@@ -1,1 +1,1 @@
-var mnemonic = "never nerve now exotic pride brief casino wave dream stool over hill";
+var mnemonic = "embrace awful ripple glove agree someone artefact brain foster loan middle merge";

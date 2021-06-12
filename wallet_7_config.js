@@ -1,1 +1,1 @@
-var mnemonic = "bean town thunder purchase vacuum filter reform assume potato human raise envelope";
+var mnemonic = "sunny rice blue veteran lyrics beyond gaze fine because feed power build";

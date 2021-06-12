@@ -1,1 +1,1 @@
-var mnemonic = "absurd engage frequent machine tape silver clarify loan portion enter try wash";
+var mnemonic = "lawn original bread sample off average broom boat initial expect adjust fun";

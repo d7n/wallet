@@ -1,1 +1,1 @@
-var mnemonic = "wide forum bike tail again beef flash glance narrow evidence horse slim";
+var mnemonic = "grant suggest embrace belt inspire chunk nominee air hazard pigeon retreat decade";

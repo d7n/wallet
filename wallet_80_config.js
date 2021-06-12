@@ -1,1 +1,1 @@
-var mnemonic = "author exercise hello census range host voyage child kiwi grit mercy axis";
+var mnemonic = "settle avoid item symptom escape market deliver bacon dignity pond two welcome";

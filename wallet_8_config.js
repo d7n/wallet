@@ -1,1 +1,1 @@
-var mnemonic = "glare wage occur maximum fan drip laugh engine group inch tomorrow rough";
+var mnemonic = "omit syrup rate rescue tumble cream clever excuse faith baby mammal pipe";

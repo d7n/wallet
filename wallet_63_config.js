@@ -1,1 +1,1 @@
-var mnemonic = "type vendor egg scatter casino senior ignore trap merge attend evidence capital";
+var mnemonic = "essay wear economy strategy burger flush ethics pupil swarm nature gauge truth";

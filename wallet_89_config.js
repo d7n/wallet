@@ -1,1 +1,1 @@
-var mnemonic = "multiply hotel dog mercy digital barely color tongue load horror correct syrup";
+var mnemonic = "use impact space stem lawn cushion strike poverty hawk flip clap sunset";

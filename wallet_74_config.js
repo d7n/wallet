@@ -1,1 +1,1 @@
-var mnemonic = "promote sell upset fan artist mixture useless donor sword employ evidence popular";
+var mnemonic = "will proud industry stool laundry relax language machine discover rural panel slender";

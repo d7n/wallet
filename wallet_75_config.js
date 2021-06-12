@@ -1,1 +1,1 @@
-var mnemonic = "retire turkey crisp entire jump harbor define above spatial fashion mother injury";
+var mnemonic = "sadness fringe flip tank daughter rain jealous trick urban shaft best frown";

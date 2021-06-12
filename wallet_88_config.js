@@ -1,1 +1,1 @@
-var mnemonic = "antenna lecture bike high sheriff display loop raise dose lonely luxury coil";
+var mnemonic = "below point company check rotate hood enforce dash myself orient escape season";

@@ -1,1 +1,1 @@
-var mnemonic = "mom razor limit knock else tobacco abuse van style hat merge sketch";
+var mnemonic = "alien captain boring cup obtain worry fitness project swing analyst afraid tube";

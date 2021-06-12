@@ -1,1 +1,1 @@
-var mnemonic = "lounge praise fatal detect rotate glare witness upper cherry tone cool same";
+var mnemonic = "route avocado mass salad ill blade rally finish just acid village shrimp";

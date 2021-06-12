@@ -1,1 +1,1 @@
-var mnemonic = "type disorder consider achieve chat dizzy clerk reveal knife tail opera ensure";
+var mnemonic = "rich movie robot token adult dragon fan sight oven girl nice genius";

@@ -1,1 +1,1 @@
-var mnemonic = "risk scene hollow ranch humor fun verify cabbage degree churn helmet beauty";
+var mnemonic = "street kangaroo sweet try bar fossil october start about layer minor fluid";

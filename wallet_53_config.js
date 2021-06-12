@@ -1,1 +1,1 @@
-var mnemonic = "club whale lounge loyal average depart tobacco frequent rude poverty fetch plunge";
+var mnemonic = "chuckle decrease address exotic repeat behind key broom luxury amount exit update";

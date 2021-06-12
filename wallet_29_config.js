@@ -1,1 +1,1 @@
-var mnemonic = "census dance limit mango grant scale limb noodle replace practice index iron";
+var mnemonic = "soft concert cable join word holiday stick attend pumpkin narrow course thought";

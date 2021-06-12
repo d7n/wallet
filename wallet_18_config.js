@@ -1,1 +1,1 @@
-var mnemonic = "dial laptop brass random swamp once tissue mouse crucial used response library";
+var mnemonic = "juice drift noodle bronze symptom increase impact during tape mass vehicle rent";

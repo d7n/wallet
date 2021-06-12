@@ -1,1 +1,1 @@
-var mnemonic = "treat box point matrix lecture race amused mail lemon junior clump raw";
+var mnemonic = "twelve order assist rail envelope lava burger what keep match shrug genre";

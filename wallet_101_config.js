@@ -1,1 +1,1 @@
-var mnemonic = "velvet soldier lyrics spoil cream spend broom lady grab various vibrant cricket";
+var mnemonic = "funny when poverty lock series flash depart fall because kid violin mixed";

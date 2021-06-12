@@ -1,1 +1,1 @@
-var mnemonic = "name gap better betray armor object myself minimum salt push much mercy";
+var mnemonic = "brown million veteran atom cereal damage buzz cannon craft slim angle picnic";

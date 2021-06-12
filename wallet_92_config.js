@@ -1,1 +1,1 @@
-var mnemonic = "jump artwork wire acquire goat warrior market afford horse sentence lyrics belt";
+var mnemonic = "cancel fitness coyote ill allow luggage boy say donate casino upset cook";

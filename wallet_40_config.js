@@ -1,1 +1,1 @@
-var mnemonic = "switch clutch patrol spoil ring miss escape insane odor sight recipe gossip";
+var mnemonic = "dirt water siege lobster sunny tail peasant honey rug gesture chaos push";

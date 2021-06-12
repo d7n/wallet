@@ -1,1 +1,1 @@
-var mnemonic = "prevent bike make piece foster sphere blue dog hidden learn report win";
+var mnemonic = "know improve silver birth duck dove immune like school knife fiscal truth";

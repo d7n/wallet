@@ -1,1 +1,1 @@
-var mnemonic = "basic arrange senior carpet cloud good animal gold sweet multiply phone double";
+var mnemonic = "toddler slight curve useless fun gown able hood usage hip together people";

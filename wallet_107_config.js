@@ -1,1 +1,1 @@
-var mnemonic = "tragic fun venue mushroom mouse cereal palace thing mesh speak upper world";
+var mnemonic = "tuition advance margin torch layer bullet someone magnet pulse clap wait author";

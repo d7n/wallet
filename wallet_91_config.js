@@ -1,1 +1,1 @@
-var mnemonic = "box legal slam soft walk panther please purity sugar skate leisure either";
+var mnemonic = "theory sunny okay crumble gesture avoid evolve relax one scrub anchor album";

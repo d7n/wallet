@@ -1,1 +1,1 @@
-var mnemonic = "abstract heavy ankle humor avoid moral security upgrade sorry average dwarf vote";
+var mnemonic = "mystery shallow hold fury climb abuse immune pilot rather base rare sunny";

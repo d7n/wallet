@@ -1,1 +1,1 @@
-var mnemonic = "try coconut exact novel agree spatial demise chief cousin more hint stand";
+var mnemonic = "side pink dinner drastic can economy battle card gospel educate input business";

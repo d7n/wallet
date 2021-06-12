@@ -1,1 +1,1 @@
-var mnemonic = "chimney cloth news draw pigeon almost female casual window stereo mistake news";
+var mnemonic = "movie time enrich labor flip math public assault pause depend fit kitchen";

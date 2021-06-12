@@ -1,1 +1,1 @@
-var mnemonic = "absent trophy stumble thank blood able elite defense long abstract dismiss very";
+var mnemonic = "hawk domain come mirror index one fish bind noble that march behind";

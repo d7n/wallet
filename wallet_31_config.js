@@ -1,1 +1,1 @@
-var mnemonic = "sun relax unit fuel detect bus hollow pony text wasp indoor neglect";
+var mnemonic = "elegant example victory sport novel alone draw gate symptom estate cricket awful";

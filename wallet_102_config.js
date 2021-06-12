@@ -1,1 +1,1 @@
-var mnemonic = "double tissue common height educate broken gold pear order drill medal body";
+var mnemonic = "project rotate point toe argue logic mask diamond hill fringe crowd art";

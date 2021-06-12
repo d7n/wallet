@@ -1,1 +1,1 @@
-var mnemonic = "hollow senior piece drive lemon ahead produce slogan trumpet actor drift cart";
+var mnemonic = "fantasy carpet scrap book equal flight fresh bulb that possible modify faith";

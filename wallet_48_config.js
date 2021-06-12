@@ -1,1 +1,1 @@
-var mnemonic = "cost excuse charge clown edge empower public wedding shiver butter draft dolphin";
+var mnemonic = "bullet wasp sphere tobacco place sibling pave suit hungry mixed wool runway";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard hundred absorb sleep gate promote direct impose stomach width slogan goat";
+var mnemonic = "drip private famous motion bitter buzz easily early squirrel dream case suspect";

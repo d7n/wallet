@@ -1,1 +1,1 @@
-var mnemonic = "hand what edge book rural dirt allow found gain primary essence kiwi";
+var mnemonic = "sunset fantasy foil area inflict sign urge pelican timber fine ability grain";

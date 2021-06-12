@@ -1,1 +1,1 @@
-var mnemonic = "student fever rookie danger romance direct water excuse frame one despair artwork";
+var mnemonic = "affair lobster pig favorite order home topple session jump wreck million host";

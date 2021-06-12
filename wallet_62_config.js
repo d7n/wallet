@@ -1,1 +1,1 @@
-var mnemonic = "vivid blast pyramid elephant thought letter object belt industry exclude gauge switch";
+var mnemonic = "margin sauce endless pyramid original stadium bright figure choice keep legend course";

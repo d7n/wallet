@@ -1,1 +1,1 @@
-var mnemonic = "aunt until push leave dignity horn ridge connect voyage inner prevent risk";
+var mnemonic = "ready royal crumble risk alert report humble size erupt earth right scout";

@@ -1,1 +1,1 @@
-var mnemonic = "slam gravity pumpkin soup hybrid market claim skate enact cinnamon adult salt";
+var mnemonic = "plug write salon bounce mix bamboo wave plate wink regret exhibit scatter";

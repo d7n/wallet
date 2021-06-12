@@ -1,1 +1,1 @@
-var mnemonic = "rubber window yellow actual soon discover cover swift young agree put panic";
+var mnemonic = "include unveil wage brisk sweet private hope act crunch attend found purse";

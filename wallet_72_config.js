@@ -1,1 +1,1 @@
-var mnemonic = "toilet inherit cabbage dance ill together tray team neither test until solve";
+var mnemonic = "guilt tourist guard favorite lend front guitar front raise maid quit burden";

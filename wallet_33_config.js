@@ -1,1 +1,1 @@
-var mnemonic = "basket neither display employ wash easy broom quiz galaxy liberty voyage fire";
+var mnemonic = "book urge token unable trigger harsh vibrant frame industry oxygen tackle assault";

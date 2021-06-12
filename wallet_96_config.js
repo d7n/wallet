@@ -1,1 +1,1 @@
-var mnemonic = "occur ensure report canvas water wheel normal jazz lunch oven oil super";
+var mnemonic = "blue wisdom half lion tuition typical car cherry evoke unable head screen";

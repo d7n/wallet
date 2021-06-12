@@ -1,1 +1,1 @@
-var mnemonic = "album switch december employ sphere shuffle flavor grunt merit delay inherit envelope";
+var mnemonic = "insect wish staff huge clap tank indoor grace already vault oven talent";

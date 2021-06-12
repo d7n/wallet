@@ -1,1 +1,1 @@
-var mnemonic = "turtle alone library alert response reject addict satisfy caught twelve swamp dizzy";
+var mnemonic = "nuclear inner stone action swallow test know gap ship skate sample divorce";

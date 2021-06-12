@@ -1,1 +1,1 @@
-var mnemonic = "excuse chunk receive season work vocal asset auction lemon sign pool habit";
+var mnemonic = "clever also gorilla army such trend leaf usage charge wrestle document service";

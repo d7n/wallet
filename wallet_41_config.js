@@ -1,1 +1,1 @@
-var mnemonic = "picture fame account behind panic situate budget gallery coffee poverty sudden club";
+var mnemonic = "ranch cart impose save certain flip mother panther quick wild obey throw";

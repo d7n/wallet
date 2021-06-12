@@ -1,1 +1,1 @@
-var mnemonic = "salon antenna number behind oil require girl antenna bullet forum cycle child";
+var mnemonic = "twelve merry you define nature sheriff eagle feature kite puppy youth park";

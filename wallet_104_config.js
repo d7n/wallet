@@ -1,1 +1,1 @@
-var mnemonic = "drill dial chronic surprise wasp mystery eye expose upon luggage weird festival";
+var mnemonic = "harsh velvet retire license sunny spoil chief broom upset swallow about book";

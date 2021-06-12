@@ -1,1 +1,1 @@
-var mnemonic = "budget panic resemble glow plunge worry boss leader bring level denial public";
+var mnemonic = "cruise atom slight crouch south disease process once observe bench world rose";

@@ -1,1 +1,1 @@
-var mnemonic = "spider tunnel horse grief boss marriage record toy animal fall symptom flag";
+var mnemonic = "daring rhythm vote dolphin paddle gold dirt accuse royal deposit veteran hobby";

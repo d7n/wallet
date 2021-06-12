@@ -1,1 +1,1 @@
-var mnemonic = "typical pigeon regret scrap dream offer fragile bind stable sight hand share";
+var mnemonic = "friend present educate earth aerobic need hazard federal clutch token dizzy enjoy";

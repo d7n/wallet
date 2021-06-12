@@ -1,1 +1,1 @@
-var mnemonic = "maid sign put mention mix ginger manage potato dry office found auto";
+var mnemonic = "wrestle liquid country magic detail call filter because owner wage key rule";

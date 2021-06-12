@@ -1,1 +1,1 @@
-var mnemonic = "slush robot renew carpet coral midnight kingdom rack govern timber poem card";
+var mnemonic = "jeans bleak sibling jaguar artwork circle vivid erupt inner reopen machine elite";

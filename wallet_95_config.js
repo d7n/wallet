@@ -1,1 +1,1 @@
-var mnemonic = "wisdom chalk video tiger august head always flavor ice blind brick round";
+var mnemonic = "rubber ribbon paper degree clock puppy shallow again cup finger raccoon alcohol";

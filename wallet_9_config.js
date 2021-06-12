@@ -1,1 +1,1 @@
-var mnemonic = "thought eye casino oak vital project between clump chuckle hawk trim limit";
+var mnemonic = "people cat era true shoulder icon dog confirm auction almost animal steel";

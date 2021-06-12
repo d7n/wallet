@@ -1,1 +1,1 @@
-var mnemonic = "panic assault pear useless pledge mule yard reason tongue change grocery other";
+var mnemonic = "tired flight client cash record battle actor engine parade cushion useful atom";

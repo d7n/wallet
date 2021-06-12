@@ -1,1 +1,1 @@
-var mnemonic = "noise engine symbol notice cannon original exclude repair demand planet carry twice";
+var mnemonic = "spend bring devote gym devote poet output grid box morning armor double";

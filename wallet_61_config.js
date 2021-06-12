@@ -1,1 +1,1 @@
-var mnemonic = "service barrel you general invite gap dog gym work furnace advance swallow";
+var mnemonic = "lawsuit general chair capital hub million cannon alter wild dance model daughter";

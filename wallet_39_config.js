@@ -1,1 +1,1 @@
-var mnemonic = "enact street lizard fiscal bulb copper bind guess emerge range that december";
+var mnemonic = "electric scrap symptom shine brand tiny industry essence tomorrow gate gloom immune";

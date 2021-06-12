@@ -1,1 +1,1 @@
-var mnemonic = "seed pitch crowd clump clock easily tumble provide carry caught razor legal";
+var mnemonic = "verify bag enter grape glow planet loud snack cigar coast surprise street";

@@ -1,1 +1,1 @@
-var mnemonic = "doll vivid focus toy fabric drive rotate strike summer edit used nephew";
+var mnemonic = "basic exit push tower image enforce rib artwork maximum pigeon effort behave";

@@ -1,1 +1,1 @@
-var mnemonic = "misery unfold square evolve vehicle secret world match tool tone alone weasel";
+var mnemonic = "pluck open slush ceiling blind exclude seek casual bind sell salon know";

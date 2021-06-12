@@ -1,1 +1,1 @@
-var mnemonic = "cause father source wrong heavy gadget tourist exit balcony spot stumble reward";
+var mnemonic = "demise actor impact alone damage pause liberty retreat credit prevent suffer year";

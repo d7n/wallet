@@ -1,1 +1,1 @@
-var mnemonic = "mesh turtle talent benefit roast type enjoy time shoot cup half deal";
+var mnemonic = "mushroom knock enable truth excite weekend assault much aspect episode rude taste";

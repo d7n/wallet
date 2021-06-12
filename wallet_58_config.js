@@ -1,1 +1,1 @@
-var mnemonic = "disorder subway reduce elite input force tower teach fork library can pact";
+var mnemonic = "virtual arm arrest fade squeeze glass grow scare subway crisp lawn muffin";

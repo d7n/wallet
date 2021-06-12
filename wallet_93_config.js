@@ -1,1 +1,1 @@
-var mnemonic = "deputy leader shed accident toy attack trim around truck solution next napkin";
+var mnemonic = "warm place rifle produce category someone define liar forum exotic today violin";

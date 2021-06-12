@@ -1,1 +1,1 @@
-var mnemonic = "learn panther swing nominee lobster hint crouch pact loop pipe ripple actor";
+var mnemonic = "laptop artwork outside daring ancient question grace web arch where play they";

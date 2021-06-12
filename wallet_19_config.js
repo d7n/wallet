@@ -1,1 +1,1 @@
-var mnemonic = "true bounce panic trial media history answer inquiry service multiply ceiling husband";
+var mnemonic = "first nephew next gather large just allow flavor camera evidence direct robust";

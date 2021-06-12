@@ -1,1 +1,1 @@
-var mnemonic = "poem marriage pet bleak problem exhaust boost video document elder dream weird";
+var mnemonic = "elegant desk strong faint response enroll miss lens hedgehog march father trip";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch skate army nut address between order sketch gentle ill vivid despair";
+var mnemonic = "desk seat budget chicken company boil match slender spy winter orange rival";

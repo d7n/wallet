@@ -1,1 +1,1 @@
-var mnemonic = "dance correct fee swing pledge artist unlock device nation ivory trick vault";
+var mnemonic = "erosion emerge alcohol razor step initial dilemma cannon account agree recipe original";

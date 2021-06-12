@@ -1,1 +1,1 @@
-var mnemonic = "heart blur machine swing sudden matter artwork spirit snack aunt junk forward";
+var mnemonic = "able flock poverty client ice because evoke next lunch exclude exercise there";

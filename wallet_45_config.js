@@ -1,1 +1,1 @@
-var mnemonic = "unfold valley pull cargo moment must diet fury history chase suffer skate";
+var mnemonic = "chief pair dawn divorce napkin scene differ stomach wild hip unveil fortune";

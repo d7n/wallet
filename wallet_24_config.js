@@ -1,1 +1,1 @@
-var mnemonic = "grow gun choice clock piece gentle dry suffer pair strategy iron smooth";
+var mnemonic = "fiber joke chalk kind fall ask abuse harsh always fiber advance creek";
