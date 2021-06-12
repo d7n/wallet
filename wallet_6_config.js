@@ -1,1 +1,1 @@
-var mnemonic = "identify twin average fatal clinic festival relax spoil castle salmon track once";
+var mnemonic = "live case guess butter local cry scrub cushion opinion blanket whale october";

@@ -1,1 +1,1 @@
-var mnemonic = "bless melody solution book monster fire inner lecture sad word alert abstract";
+var mnemonic = "assume knife shift anxiety wall celery glimpse father visual enjoy rhythm brush";

@@ -1,1 +1,1 @@
-var mnemonic = "angle since alpha element message chief hawk snack strong motion ski cause";
+var mnemonic = "bright guilt clever actress wagon chapter dilemma sell grant ceiling pepper manage";

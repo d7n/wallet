@@ -1,1 +1,1 @@
-var mnemonic = "bunker noodle almost sheriff hair fame hair include lamp little cheese proof";
+var mnemonic = "junior doll dilemma say amateur moral matter finish bamboo glare disagree daughter";

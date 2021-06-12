@@ -1,1 +1,1 @@
-var mnemonic = "struggle fat test floor grief wall story lamp zone carry demand pluck";
+var mnemonic = "improve area autumn book brain voice jazz churn horror liar jazz occur";

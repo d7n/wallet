@@ -1,1 +1,1 @@
-var mnemonic = "tonight surface buzz size twenty collect misery cheese daring banana stuff mimic";
+var mnemonic = "throw illegal entire lumber account cook coil already pink maid sail account";

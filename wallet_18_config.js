@@ -1,1 +1,1 @@
-var mnemonic = "call glare warfare blood manage impose inmate swamp spoon march green twin";
+var mnemonic = "concert hedgehog father welcome proof annual damage merry inject ordinary august wise";

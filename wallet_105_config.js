@@ -1,1 +1,1 @@
-var mnemonic = "sword layer govern tiger design weather range stage sketch copy robot gloom";
+var mnemonic = "piece sibling marriage hold weather medal motion season else melt cute vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle world arena under better family vessel federal live excuse color bar";
+var mnemonic = "globe veteran used grain fox rare suspect labor smart venue indicate local";

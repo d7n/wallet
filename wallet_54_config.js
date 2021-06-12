@@ -1,1 +1,1 @@
-var mnemonic = "shove forum blossom foil trend void behind child rubber useful castle enact";
+var mnemonic = "all misery puppy crane favorite obscure hollow state luxury harsh east shadow";

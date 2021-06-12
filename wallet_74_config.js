@@ -1,1 +1,1 @@
-var mnemonic = "hero rubber swap add mass sail master describe tag smart shield prevent";
+var mnemonic = "vocal brick citizen mention regular best entire before dress buyer purpose zone";

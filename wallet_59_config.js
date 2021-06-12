@@ -1,1 +1,1 @@
-var mnemonic = "act cover goddess obvious guide move refuse deny evidence feature dust swift";
+var mnemonic = "empower ready cost indicate undo year duck weasel wild tackle aisle normal";

@@ -1,1 +1,1 @@
-var mnemonic = "auto uniform airport ribbon silent define pony divorce swarm flower skull all";
+var mnemonic = "raw whale index ask birth buyer topic payment exclude talent machine appear";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess naive hurt dune flag snow kind mother myth decade book shove";
+var mnemonic = "sail fade series leopard evoke below quit impulse coyote color squeeze annual";

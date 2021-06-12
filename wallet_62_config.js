@@ -1,1 +1,1 @@
-var mnemonic = "yard flash nominee logic focus kind turn alert movie iron manual deer";
+var mnemonic = "annual cross educate rhythm cover reveal account clay east farm air alcohol";

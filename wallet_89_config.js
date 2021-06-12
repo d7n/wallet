@@ -1,1 +1,1 @@
-var mnemonic = "innocent false divide birth jacket raise casino file inquiry yellow symptom outdoor";
+var mnemonic = "square normal pencil slender camp violin spot cluster latin witness empower what";

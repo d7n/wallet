@@ -1,1 +1,1 @@
-var mnemonic = "distance energy crew turn hammer thought blind setup quit only swarm diary";
+var mnemonic = "since type train push pledge cereal push bus chase dismiss omit exact";

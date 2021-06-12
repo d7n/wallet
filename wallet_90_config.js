@@ -1,1 +1,1 @@
-var mnemonic = "divert salmon rigid erase desk coral awake impact owner exist essay entry";
+var mnemonic = "letter install chalk theme fold dad love tube ostrich hour dizzy pink";

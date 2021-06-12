@@ -1,1 +1,1 @@
-var mnemonic = "receive nation naive electric jewel season nature caught tide deal milk chief";
+var mnemonic = "spy mechanic whale paper sunny cram swing hedgehog brush keen record smart";

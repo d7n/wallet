@@ -1,1 +1,1 @@
-var mnemonic = "spoil simple blanket short tuition manual quit swarm harvest hen stove angry";
+var mnemonic = "wing quote census luggage cost crush code piano photo uphold level scan";

@@ -1,1 +1,1 @@
-var mnemonic = "bike immune decrease genre struggle coconut vanish pear expire breeze trumpet diesel";
+var mnemonic = "visual mother vapor chapter chase recipe harsh author charge motion duty key";

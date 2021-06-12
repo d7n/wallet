@@ -1,1 +1,1 @@
-var mnemonic = "impose tree base still kind ancient mail arrive obvious boring umbrella buyer";
+var mnemonic = "mystery best gentle thank health valley legal air dignity lava donkey vanish";

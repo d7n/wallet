@@ -1,1 +1,1 @@
-var mnemonic = "chaos syrup what sing remember kidney buzz turkey water provide library mom";
+var mnemonic = "library smooth engage expose doctor quality pluck horn believe what rookie umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "key cash deer dwarf august battle artist fog witness thank whip young";
+var mnemonic = "tenant mention pave basket paper arena zoo deputy bonus robot cycle voice";

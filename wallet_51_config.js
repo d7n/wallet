@@ -1,1 +1,1 @@
-var mnemonic = "view tiger empty absorb end ability winter curve sugar moon basic move";
+var mnemonic = "spray chalk clog insane fat exhaust pulp afraid flower slogan favorite mobile";

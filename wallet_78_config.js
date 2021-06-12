@@ -1,1 +1,1 @@
-var mnemonic = "quality early shoulder urban cheese topic basket finger acoustic enhance liar rude";
+var mnemonic = "series mystery luggage teach auto lend month scheme system extra actual dry";

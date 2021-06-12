@@ -1,1 +1,1 @@
-var mnemonic = "fork kite wait draft parent input pill father odor rifle voice blur";
+var mnemonic = "traffic mammal muffin resist earth focus talk phrase tilt green fly fade";

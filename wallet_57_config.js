@@ -1,1 +1,1 @@
-var mnemonic = "normal song surge iron segment drip pelican wait cruise group tuna cream";
+var mnemonic = "head worry school great prefer spike denial pen knee chief grit chicken";

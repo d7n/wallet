@@ -1,1 +1,1 @@
-var mnemonic = "level coral glide sail coach ten catalog lava story ring economy pulp";
+var mnemonic = "jaguar fun venture foster check finish monkey open artefact pigeon erupt bargain";

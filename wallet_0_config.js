@@ -1,1 +1,1 @@
-var mnemonic = "trial december object proof poem prosper dial item frame fly quote ability";
+var mnemonic = "bleak prosper tomato crumble kick curtain debris armor duty into bar trust";

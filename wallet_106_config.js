@@ -1,1 +1,1 @@
-var mnemonic = "cave wear harsh hazard upset shaft rich hazard snack bring arm estate";
+var mnemonic = "chest crucial mountain awake twelve upgrade tell carry stomach cram dignity ecology";

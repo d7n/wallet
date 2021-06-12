@@ -1,1 +1,1 @@
-var mnemonic = "february punch cruise tube jar pretty search place strong crunch blur plate";
+var mnemonic = "lock public camera below mother devote salad priority champion abuse bench visit";

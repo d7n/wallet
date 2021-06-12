@@ -1,1 +1,1 @@
-var mnemonic = "expect renew swift address expect head vendor gloom system remove cactus price";
+var mnemonic = "rack panther trend hope ranch beyond coconut bachelor skull auction dilemma decorate";

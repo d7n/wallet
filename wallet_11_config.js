@@ -1,1 +1,1 @@
-var mnemonic = "cover daughter punch birth unknown elbow law harvest spray divorce limb stool";
+var mnemonic = "bike invite swear favorite anchor around system prevent squeeze slim point welcome";

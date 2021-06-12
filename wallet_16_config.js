@@ -1,1 +1,1 @@
-var mnemonic = "dinner indicate aim cluster year turtle merry expose brass short swim candy";
+var mnemonic = "tragic among switch absurd planet liar fiber aware humble window advice noise";

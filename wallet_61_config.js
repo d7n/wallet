@@ -1,1 +1,1 @@
-var mnemonic = "garlic stool erode educate edit fat festival couple shoot venue blossom exile";
+var mnemonic = "silly provide pull brand sugar response exhibit vapor favorite argue breeze claim";

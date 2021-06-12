@@ -1,1 +1,1 @@
-var mnemonic = "science lemon wisdom youth melt sugar chief echo change know away horn";
+var mnemonic = "alarm voice rebel afford stick outer law weapon special exile congress total";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton three gadget anger brick solar discover outer cave dragon exist crowd";
+var mnemonic = "school phrase fashion dad chef wedding sleep crawl ice change spot giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty wing ball winner toddler vacuum feel medal sock person discover boy";
+var mnemonic = "cherry april fantasy refuse benefit series wrap system ordinary best erode believe";

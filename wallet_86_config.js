@@ -1,1 +1,1 @@
-var mnemonic = "rate risk tone wool lesson piece pink labor author fabric amazing mosquito";
+var mnemonic = "rib brand vague spell fresh urge release retreat decrease base culture elegant";

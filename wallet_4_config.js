@@ -1,1 +1,1 @@
-var mnemonic = "memory number solar east toy chaos fix dismiss industry wall acquire enact";
+var mnemonic = "paddle tourist essay manage say slogan proud decorate oxygen mechanic radar park";

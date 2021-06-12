@@ -1,1 +1,1 @@
-var mnemonic = "toddler busy label scene grief apology smile all repair sponsor heart run";
+var mnemonic = "dolphin evoke swarm regret delay trick sunny scare neutral task gate jacket";

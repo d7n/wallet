@@ -1,1 +1,1 @@
-var mnemonic = "always feel sketch maximum blood drum gym bulb moon popular gallery trust";
+var mnemonic = "battle glory file wild oil brave high catalog farm area save onion";

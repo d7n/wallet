@@ -1,1 +1,1 @@
-var mnemonic = "easy faith occur immense shallow winter error remind twist tourist onion derive";
+var mnemonic = "now song property walk barely hundred direct culture robot legend subway report";

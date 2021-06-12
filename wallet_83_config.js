@@ -1,1 +1,1 @@
-var mnemonic = "retreat scene black hair plastic family label mom enrich snow camera anchor";
+var mnemonic = "around inhale ready zebra birth time patch powder enhance conduct east boat";

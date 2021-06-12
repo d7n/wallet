@@ -1,1 +1,1 @@
-var mnemonic = "front vessel shrug tube address gate collect tell strong matter churn cross";
+var mnemonic = "flash gold century own skate cat hour travel hill hungry tiger express";

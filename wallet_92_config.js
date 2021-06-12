@@ -1,1 +1,1 @@
-var mnemonic = "side more town crawl confirm trend blue winner hidden aspect grow piece";
+var mnemonic = "dish attract include balance earth road any viable throw prosper ignore abandon";

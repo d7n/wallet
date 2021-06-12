@@ -1,1 +1,1 @@
-var mnemonic = "unlock weekend two nuclear tuition lady bike punch cook rib rail outside";
+var mnemonic = "plate deputy lazy carpet march today bread hard high lady response surface";

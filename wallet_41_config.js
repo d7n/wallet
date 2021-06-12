@@ -1,1 +1,1 @@
-var mnemonic = "leader mimic tunnel measure rifle okay scheme fatal elevator spoon rate candy";
+var mnemonic = "super embrace clarify write charge apple soon crush noise humble volume sudden";

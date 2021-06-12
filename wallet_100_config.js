@@ -1,1 +1,1 @@
-var mnemonic = "inside syrup airport setup change soda trophy battle alpha prison knife surprise";
+var mnemonic = "rhythm doll drastic clarify shed zone gather inject country document easy cram";

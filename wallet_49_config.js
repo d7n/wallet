@@ -1,1 +1,1 @@
-var mnemonic = "palm term quality fancy despair happy behave siren reform member claw farm";
+var mnemonic = "layer stick end rent clean ethics happy wealth opinion huge olympic fortune";

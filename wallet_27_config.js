@@ -1,1 +1,1 @@
-var mnemonic = "open stone spend emerge tribe buyer repair trap idea salmon car convince";
+var mnemonic = "shrimp pupil horror drop trigger eye monkey render error eagle garlic session";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel photo regular nose upset advance swarm cart outside this horror space";
+var mnemonic = "trade blade arrest scout impose main void actress among immense park critic";

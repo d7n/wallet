@@ -1,1 +1,1 @@
-var mnemonic = "meat room key abuse spot drink merit total actor tooth divert drift";
+var mnemonic = "slide whip able brand whip knee cup salon bless bridge catch donkey";

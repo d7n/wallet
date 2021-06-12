@@ -1,1 +1,1 @@
-var mnemonic = "push jump depend between traffic marriage just story gown pigeon flat worth";
+var mnemonic = "moon quantum world bullet phone liquid snow retreat cigar ostrich follow bring";

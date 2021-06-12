@@ -1,1 +1,1 @@
-var mnemonic = "celery clock govern lawsuit marriage beyond debris mean dumb sound hello stage";
+var mnemonic = "picture erosion drama quarter buzz gasp tomato noise secret alarm capable carry";

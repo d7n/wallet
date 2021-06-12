@@ -1,1 +1,1 @@
-var mnemonic = "address dose harsh seven boy oxygen gasp album together box offer distance";
+var mnemonic = "ramp poet casino ignore odor provide cousin base cake wrap pig replace";

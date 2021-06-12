@@ -1,1 +1,1 @@
-var mnemonic = "allow wool trophy boat text bicycle jungle addict hold hedgehog holiday chaos";
+var mnemonic = "patient fan pony grid price tuition boil session foam carry found unknown";

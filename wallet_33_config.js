@@ -1,1 +1,1 @@
-var mnemonic = "need beauty false letter correct abstract vague behind focus rare label ready";
+var mnemonic = "toward chief tourist dial humor depend bubble click wide raise feel orbit";

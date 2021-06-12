@@ -1,1 +1,1 @@
-var mnemonic = "fashion minor describe size culture sport parrot collect cherry tent use lunch";
+var mnemonic = "chapter fever above leg ride absorb rude shy inform produce naive ankle";

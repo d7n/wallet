@@ -1,1 +1,1 @@
-var mnemonic = "control collect upon sadness cash marble captain spoon flush wet empty duty";
+var mnemonic = "crush coil chunk woman inflict emotion myth because food spoil acid mixed";

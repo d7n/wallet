@@ -1,1 +1,1 @@
-var mnemonic = "normal reason trick impact base oblige now confirm speed risk shine toe";
+var mnemonic = "twelve across hold gather gospel remain garment rich metal height foil fan";

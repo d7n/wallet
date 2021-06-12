@@ -1,1 +1,1 @@
-var mnemonic = "adjust pulp vibrant gap ecology primary error dice sugar delay tobacco tool";
+var mnemonic = "knock alter approve tourist bomb supreme private view endorse swim amateur people";

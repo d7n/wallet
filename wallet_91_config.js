@@ -1,1 +1,1 @@
-var mnemonic = "gentle cage elevator like source antique elite dutch dirt blanket mother voice";
+var mnemonic = "ocean wedding car thrive april tattoo split sorry change young tiny remember";

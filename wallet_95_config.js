@@ -1,1 +1,1 @@
-var mnemonic = "busy please post include news park melt coach half cross breeze bundle";
+var mnemonic = "ridge estate ten burger depart fuel lyrics casino scrap usage system example";

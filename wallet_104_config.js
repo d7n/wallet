@@ -1,1 +1,1 @@
-var mnemonic = "announce aisle inquiry leave window power plate diesel magic forum clean energy";
+var mnemonic = "elephant claim enrich swift tank tragic web cereal win whisper prosper announce";

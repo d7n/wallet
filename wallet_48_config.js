@@ -1,1 +1,1 @@
-var mnemonic = "angle sunset flag normal foot august icon arch this bread switch drop";
+var mnemonic = "lunch comic tray another void crane proof web treat avoid promote element";

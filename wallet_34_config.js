@@ -1,1 +1,1 @@
-var mnemonic = "report thought page chunk strong want remove arm spider syrup impulse burst";
+var mnemonic = "nation tenant orient subject color mansion lottery skull crazy castle fringe multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "inform hybrid success inspire maze doctor false myself stove review spare witness";
+var mnemonic = "forum congress board among cable prison gospel have omit flame bid erode";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble ranch apart wreck isolate innocent chat prison skill orient huge vanish";
+var mnemonic = "walk student sick topic urban cricket kingdom armor kind wish idle expect";

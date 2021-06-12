@@ -1,1 +1,1 @@
-var mnemonic = "common galaxy have purse change meadow tail future miracle apple gather bounce";
+var mnemonic = "flavor inch scrub security lava wrap favorite fine slogan crunch half like";

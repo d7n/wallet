@@ -1,1 +1,1 @@
-var mnemonic = "monkey oak dolphin alien scissors lizard review uniform liar option legal like";
+var mnemonic = "silk unable curve able injury tiny tornado duck rule warfare embrace pond";

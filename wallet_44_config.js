@@ -1,1 +1,1 @@
-var mnemonic = "shuffle orchard human snow clog tongue income habit daughter can noble potato";
+var mnemonic = "rib grass buddy refuse never exist mail saddle any doctor elite grain";

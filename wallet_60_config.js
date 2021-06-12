@@ -1,1 +1,1 @@
-var mnemonic = "tomato awkward boy banner trend alone surface enact road grain crush cargo";
+var mnemonic = "drama upgrade sock shoot total volume impulse female bomb dinosaur shadow rigid";

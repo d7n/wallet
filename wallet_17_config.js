@@ -1,1 +1,1 @@
-var mnemonic = "hundred vocal magic heavy gate second ghost again protect priority federal ostrich";
+var mnemonic = "anxiety right siren photo rely subway drip large pelican enact oak praise";

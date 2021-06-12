@@ -1,1 +1,1 @@
-var mnemonic = "test undo onion razor athlete club romance arrest ecology deposit voyage illegal";
+var mnemonic = "grace decade valid surround draft tuition vault enjoy muscle consider clean swing";

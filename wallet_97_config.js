@@ -1,1 +1,1 @@
-var mnemonic = "main seed pulse absent twist action chuckle review feed wear alone point";
+var mnemonic = "flag divorce until good honey affair lab end aware civil warrior dish";

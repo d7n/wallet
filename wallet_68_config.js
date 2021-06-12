@@ -1,1 +1,1 @@
-var mnemonic = "beef across amateur unfold hover tree boy pudding unhappy trust half rookie";
+var mnemonic = "twist history explain metal review minimum forum judge pull advice marine crater";

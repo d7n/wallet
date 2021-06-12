@@ -1,1 +1,1 @@
-var mnemonic = "mouse negative boat buddy shy sort throw middle blame anger taste common";
+var mnemonic = "call bind pipe brush tank oblige pattern clock praise switch glass chaos";

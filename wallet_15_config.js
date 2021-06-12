@@ -1,1 +1,1 @@
-var mnemonic = "bird unaware member when obvious another ugly winner patrol icon weekend boat";
+var mnemonic = "mutual until tail wasp armor buffalo segment math sail cake flight luggage";

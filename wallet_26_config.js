@@ -1,1 +1,1 @@
-var mnemonic = "hope tilt lens bonus trash winter nuclear crunch beyond random hurdle toilet";
+var mnemonic = "guide mouse drum make atom crash manage mistake yellow average twenty unhappy";

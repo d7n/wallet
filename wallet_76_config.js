@@ -1,1 +1,1 @@
-var mnemonic = "repeat glass black print debate sad front manual panel wing piece shrimp";
+var mnemonic = "muffin sorry toy grape dash detail twin way cave swamp survey swap";

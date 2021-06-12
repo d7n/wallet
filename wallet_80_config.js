@@ -1,1 +1,1 @@
-var mnemonic = "excess trap dash teach brand apart cheap humble nephew grab certain square";
+var mnemonic = "throw black scrap impact capable spray urban urban pond meat lawn hero";

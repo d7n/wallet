@@ -1,1 +1,1 @@
-var mnemonic = "begin accident security return wink sibling tortoise any silly mansion wall group";
+var mnemonic = "below feature lobster limit fragile sugar universe have noodle hood regular core";

@@ -1,1 +1,1 @@
-var mnemonic = "vivid judge athlete scissors runway zoo cost own toilet evolve two scale";
+var mnemonic = "bounce pulse cover myself ordinary gain life normal fury stone direct inform";

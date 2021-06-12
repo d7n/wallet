@@ -1,1 +1,1 @@
-var mnemonic = "where harvest another festival piece deny loan crater account champion spoil sponsor";
+var mnemonic = "spoon attack boost okay sunset isolate axis soul family arrest west quality";

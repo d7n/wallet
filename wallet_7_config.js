@@ -1,1 +1,1 @@
-var mnemonic = "innocent inject public solve photo twist like volume off mail pony message";
+var mnemonic = "edit below follow level remind bread setup sudden vendor glove three bone";
