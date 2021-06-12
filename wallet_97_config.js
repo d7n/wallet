@@ -1,1 +1,1 @@
-var mnemonic = "cube neck grid stool awkward attend throw sauce alter tackle divide message";
+var mnemonic = "dad outside reflect cost dirt false always aware jump bubble scrub manual";

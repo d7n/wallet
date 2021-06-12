@@ -1,1 +1,1 @@
-var mnemonic = "reveal fluid pyramid coffee chaos dust sausage february head elephant galaxy smoke";
+var mnemonic = "sauce seat flip bleak entry prepare gauge goddess entry reduce segment erosion";

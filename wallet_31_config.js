@@ -1,1 +1,1 @@
-var mnemonic = "country output luxury obvious arrow shop isolate list quick lumber else toilet";
+var mnemonic = "carry marble armed mouse purchase pool bleak ski message oyster waste round";

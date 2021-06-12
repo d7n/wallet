@@ -1,1 +1,1 @@
-var mnemonic = "joke wedding custom dragon uniform clean ginger boring chunk patient tone mechanic";
+var mnemonic = "awful picnic castle sell absorb rebuild bundle advance require field toss sister";

@@ -1,1 +1,1 @@
-var mnemonic = "almost vocal twin female essence butter trap screen glow step device never";
+var mnemonic = "boring session arrive fame exotic artefact any deposit slice depend duty little";

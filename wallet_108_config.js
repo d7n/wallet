@@ -1,1 +1,1 @@
-var mnemonic = "square magnet thrive shrug prepare chef stand disorder tragic extra dune flavor";
+var mnemonic = "direct review play stamp lonely brand grow just arrive tent vocal point";

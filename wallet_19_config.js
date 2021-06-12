@@ -1,1 +1,1 @@
-var mnemonic = "humor grid talent decide fork scout rely similar vast spend comic over";
+var mnemonic = "voice skull wrong solution gallery school cotton expect inform shield wasp cover";

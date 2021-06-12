@@ -1,1 +1,1 @@
-var mnemonic = "attract thumb maid stay submit hand forest tube confirm proud uniform pulse";
+var mnemonic = "police ripple detail used pass scare winter inquiry diesel edit artwork cycle";

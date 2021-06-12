@@ -1,1 +1,1 @@
-var mnemonic = "raise hospital trend come shuffle earth token true hand sort van desert";
+var mnemonic = "mixture diet artwork skull shadow ladder mix patient version exotic pilot super";

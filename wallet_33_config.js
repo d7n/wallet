@@ -1,1 +1,1 @@
-var mnemonic = "conduct chase before fade speed faculty pet evidence spider filter hole market";
+var mnemonic = "crater evidence auto risk card chair library elite hedgehog slush dawn wasp";

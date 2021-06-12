@@ -1,1 +1,1 @@
-var mnemonic = "crunch husband purse summer mom trend soldier aware raise jar betray resource";
+var mnemonic = "lucky rack range endless habit rough nuclear dog pioneer chef debate length";

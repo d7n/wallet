@@ -1,1 +1,1 @@
-var mnemonic = "alter enjoy crumble climb settle click theme replace emotion evoke settle pass";
+var mnemonic = "display depth spoil render crawl alarm bottom night actual card response empower";

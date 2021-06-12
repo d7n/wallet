@@ -1,1 +1,1 @@
-var mnemonic = "place naive boil extend cactus above cup misery click leaf jaguar real";
+var mnemonic = "corn place blood column manual vivid nose relax trick grass auction warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf pair note inspire liquid danger lunch vivid village bicycle major exile";
+var mnemonic = "skirt range want essay fine hold leopard bulk cherry west pond alien";

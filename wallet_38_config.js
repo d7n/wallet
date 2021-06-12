@@ -1,1 +1,1 @@
-var mnemonic = "grocery milk clap film this arch another tongue crazy mercy quote spend";
+var mnemonic = "pass cave dizzy inflict boss foil repair above manage pepper drink space";

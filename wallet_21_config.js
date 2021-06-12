@@ -1,1 +1,1 @@
-var mnemonic = "shuffle marble rescue prefer uncover together silly lawsuit cancel power victory merry";
+var mnemonic = "hint human flash dress lion enact race unaware isolate prefer move sudden";

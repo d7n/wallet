@@ -1,1 +1,1 @@
-var mnemonic = "bird power direct forum element phone hand fork body valley welcome stay";
+var mnemonic = "aunt badge together indoor behave icon trust pioneer subway chicken pudding hair";

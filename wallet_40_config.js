@@ -1,1 +1,1 @@
-var mnemonic = "waste rescue stereo rack track raw home loud napkin roast victory attitude";
+var mnemonic = "chase snow monkey spot wild benefit trouble obtain rival aware either dizzy";

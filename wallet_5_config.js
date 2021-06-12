@@ -1,1 +1,1 @@
-var mnemonic = "exclude whip cage soul ice market prize pumpkin firm mutual among bean";
+var mnemonic = "skin cherry awkward owner someone cream derive public snow globe scrub amazing";

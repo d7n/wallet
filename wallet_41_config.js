@@ -1,1 +1,1 @@
-var mnemonic = "crime harvest hurdle gadget person enemy spend hard sword special wealth type";
+var mnemonic = "diagram note fun simple jewel bind believe assault box orient powder pride";

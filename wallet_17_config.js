@@ -1,1 +1,1 @@
-var mnemonic = "remove couple company crystal prosper curtain deny brass crash jump visual live";
+var mnemonic = "globe top vanish comfort excuse crowd remember coin endless tortoise hole surround";

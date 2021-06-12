@@ -1,1 +1,1 @@
-var mnemonic = "same merit own slam carpet across find tenant distance rug bird super";
+var mnemonic = "print venue creek rally warm donkey artefact fortune black element improve nurse";

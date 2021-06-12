@@ -1,1 +1,1 @@
-var mnemonic = "vehicle supply space surround cereal orient work hint oval cheap concert monitor";
+var mnemonic = "loud improve cat ahead draft analyst wage network smooth sight supreme spring";

@@ -1,1 +1,1 @@
-var mnemonic = "brief elder must shiver stamp picnic piano say music october brain obtain";
+var mnemonic = "book range rule junk ability worry garbage track busy bring ritual smile";

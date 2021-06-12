@@ -1,1 +1,1 @@
-var mnemonic = "boring sport young skill cruel ride frame rural swamp pipe diagram fun";
+var mnemonic = "sun tube fruit tip palm will weather hunt claim wire paper accuse";

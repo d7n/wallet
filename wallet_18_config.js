@@ -1,1 +1,1 @@
-var mnemonic = "diamond smooth cook noise inmate angry poem issue brand symbol weird yard";
+var mnemonic = "property skirt width lizard reason razor cabin one scrub hospital monkey pigeon";

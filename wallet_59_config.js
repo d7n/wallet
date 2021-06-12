@@ -1,1 +1,1 @@
-var mnemonic = "hello popular shoulder jaguar kingdom six aunt gossip badge change ten sample";
+var mnemonic = "iron sock flight goose raven comic ecology confirm garbage flush february witness";

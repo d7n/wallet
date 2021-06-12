@@ -1,1 +1,1 @@
-var mnemonic = "logic cook shuffle faint position kitchen effort mixture upset hotel rocket buyer";
+var mnemonic = "fox supreme floor blame pair ordinary horror cargo aerobic essence lab unable";

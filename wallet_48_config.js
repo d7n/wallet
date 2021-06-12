@@ -1,1 +1,1 @@
-var mnemonic = "novel shoulder head arena coffee century runway rule duck race make hidden";
+var mnemonic = "radio doctor legal abuse bike observe short neutral tube mixture bird invest";

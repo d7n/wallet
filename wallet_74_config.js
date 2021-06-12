@@ -1,1 +1,1 @@
-var mnemonic = "spawn era smile giraffe tone skin youth floor bunker pizza fork faint";
+var mnemonic = "build unusual solution math tower mixed unfold chuckle fire zebra antenna stove";

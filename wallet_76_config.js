@@ -1,1 +1,1 @@
-var mnemonic = "visual bundle soul anchor around onion jeans sphere dial achieve ride social";
+var mnemonic = "legend field flat logic code example dinosaur shaft gospel hybrid chimney learn";

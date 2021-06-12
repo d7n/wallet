@@ -1,1 +1,1 @@
-var mnemonic = "scissors diary burden together rose title collect surround walnut tomato toast boss";
+var mnemonic = "wise desk beef year bronze crucial success bracket normal evolve glance pig";

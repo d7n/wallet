@@ -1,1 +1,1 @@
-var mnemonic = "van hair fork frog material inform rubber pave journey want ghost leisure";
+var mnemonic = "uncle render exhibit chicken skirt private scatter grace sight erupt glue tent";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury proof junk envelope daring slender diamond shoot steel empower pilot food";
+var mnemonic = "sheriff palace reject puppy west push foot bar smooth spawn install wrap";

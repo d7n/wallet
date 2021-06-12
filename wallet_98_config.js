@@ -1,1 +1,1 @@
-var mnemonic = "broccoli just state drift ski sheriff fog squeeze woman leisure toilet enhance";
+var mnemonic = "burden grape anger doll twice call chaos skin egg step iron glory";

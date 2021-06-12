@@ -1,1 +1,1 @@
-var mnemonic = "twenty exhibit tube shrug reopen blue front sorry barrel ball door disagree";
+var mnemonic = "tell turkey mom length tell swamp mule letter unveil arrive dinner blood";

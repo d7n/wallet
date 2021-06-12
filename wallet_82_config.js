@@ -1,1 +1,1 @@
-var mnemonic = "purity use rail supply minute suit nest oak talk kite glory wrong";
+var mnemonic = "cost flame rigid opera trap wink about custom hammer food tone clarify";

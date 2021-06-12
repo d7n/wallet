@@ -1,1 +1,1 @@
-var mnemonic = "spot fox arctic regret scheme wait ridge child skate roast wash soldier";
+var mnemonic = "pluck feel movie sister whale ticket atom jump canyon unusual frequent crater";

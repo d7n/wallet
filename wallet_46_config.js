@@ -1,1 +1,1 @@
-var mnemonic = "era smile tag runway fuel burden swarm hammer sell used iron between";
+var mnemonic = "story shield target walnut minute retire twist warfare tilt canvas rack country";

@@ -1,1 +1,1 @@
-var mnemonic = "can onion wealth ramp dress volcano hurdle matrix grocery mystery ivory lake";
+var mnemonic = "corn best mass motor flag legal ivory siege person inner rely mass";

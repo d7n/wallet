@@ -1,1 +1,1 @@
-var mnemonic = "tobacco invite stem stove breeze van panic repair velvet matrix auction warfare";
+var mnemonic = "normal kitchen menu obvious glance know side inject warfare disorder dream riot";

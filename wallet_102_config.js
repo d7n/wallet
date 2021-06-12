@@ -1,1 +1,1 @@
-var mnemonic = "cousin employ file heavy list always lunch route liberty phone brass capital";
+var mnemonic = "plunge labor skill urban measure patient snake clay police slab pulse picture";

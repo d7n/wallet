@@ -1,1 +1,1 @@
-var mnemonic = "bright mesh join flip bronze asthma hungry bracket upgrade tail lens story";
+var mnemonic = "snack damage balcony abandon system glass small warm someone rack indoor guess";

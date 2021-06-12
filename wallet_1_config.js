@@ -1,1 +1,1 @@
-var mnemonic = "honey stairs planet earth crush label expose smooth symptom faith combine defense";
+var mnemonic = "vacuum erupt jaguar fringe monster blame season drama clay ugly actor unusual";

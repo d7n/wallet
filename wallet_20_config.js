@@ -1,1 +1,1 @@
-var mnemonic = "ribbon round peanut sun april lunar exchange type motor giraffe step thunder";
+var mnemonic = "cube beauty inside sword local already discover fat hope bind symbol hope";

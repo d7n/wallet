@@ -1,1 +1,1 @@
-var mnemonic = "exotic thumb forum print great sentence unique sketch age blind update renew";
+var mnemonic = "unusual nature trick swim grain toss dust sniff swim lesson motion rabbit";

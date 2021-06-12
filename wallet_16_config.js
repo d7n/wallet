@@ -1,1 +1,1 @@
-var mnemonic = "hurt stock gospel second addict picture art flavor purse brown seven trust";
+var mnemonic = "guide tray welcome siege hockey eight wealth media flavor deliver topple loyal";

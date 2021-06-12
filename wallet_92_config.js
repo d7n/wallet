@@ -1,1 +1,1 @@
-var mnemonic = "festival shoulder general critic naive execute super access banana program come walk";
+var mnemonic = "palace acquire palace claim obvious again bounce assist rose kingdom talk seed";

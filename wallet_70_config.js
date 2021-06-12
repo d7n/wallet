@@ -1,1 +1,1 @@
-var mnemonic = "metal paddle onion cart appear enroll smooth clip antique planet loyal region";
+var mnemonic = "cigar fortune praise digital enable pact comic wood close field girl practice";

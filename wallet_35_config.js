@@ -1,1 +1,1 @@
-var mnemonic = "boss prepare metal oxygen leopard parrot tourist lava stick timber habit puzzle";
+var mnemonic = "six purchase utility load direct cheese labor way tongue town cash finish";

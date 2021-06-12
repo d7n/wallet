@@ -1,1 +1,1 @@
-var mnemonic = "matter snow episode jewel bronze exotic mail over clock bleak bird vapor";
+var mnemonic = "female mango planet benefit humor point guard morning fence milk satoshi mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "clock catalog stool also work once access snack brisk thrive mixed gauge";
+var mnemonic = "spawn weather skull whip zone surface develop layer interest deny lamp hollow";

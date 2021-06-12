@@ -1,1 +1,1 @@
-var mnemonic = "quarter soap text because tragic swallow hazard marine grace total paper series";
+var mnemonic = "goose forget forum ozone truck oven across dwarf favorite brain sell turkey";

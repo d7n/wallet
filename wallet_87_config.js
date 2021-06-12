@@ -1,1 +1,1 @@
-var mnemonic = "poverty plug feed indicate minor fiber skill muscle bright wink interest manual";
+var mnemonic = "banana village scout city shoot proud make require dune beauty flower calm";

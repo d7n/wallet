@@ -1,1 +1,1 @@
-var mnemonic = "chest bronze avoid patient oyster parrot toilet cram grass hybrid hope recipe";
+var mnemonic = "judge right decrease rail edit state allow regret love wool pioneer artist";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve autumn flower jungle oven major market neck buffalo great tomorrow where";
+var mnemonic = "hour rigid usual decline adjust hood output panel small capital develop sound";

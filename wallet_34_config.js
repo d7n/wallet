@@ -1,1 +1,1 @@
-var mnemonic = "mountain parrot scatter near top dial ensure menu ramp salon elite rookie";
+var mnemonic = "chat canal first humor maid dad fiscal sword cook hedgehog puzzle jaguar";

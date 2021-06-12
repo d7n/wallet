@@ -1,1 +1,1 @@
-var mnemonic = "property solar pizza magnet cupboard verify hunt hand donkey treat dad night";
+var mnemonic = "search educate rule grant result ancient artwork surface turn brave fiber empower";

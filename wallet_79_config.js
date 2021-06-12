@@ -1,1 +1,1 @@
-var mnemonic = "food bird acid visual record forget unit inch picnic much yard same";
+var mnemonic = "child ill loyal vote indoor deer slam carpet half adjust brief cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile moon cave leisure feature trade paddle bachelor swallow merry brisk place";
+var mnemonic = "pony goddess analyst pizza cereal innocent dune witness vital welcome detail what";

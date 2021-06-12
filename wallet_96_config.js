@@ -1,1 +1,1 @@
-var mnemonic = "derive jacket diary rebuild dog easily input nose crazy debate person stage";
+var mnemonic = "estate violin render punch deal rival glance coil ignore brown throw thunder";

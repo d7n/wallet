@@ -1,1 +1,1 @@
-var mnemonic = "tackle turtle bulk wet approve kite cargo ordinary hurt tray gasp cable";
+var mnemonic = "guard model coast column switch sure scale try tree follow machine transfer";

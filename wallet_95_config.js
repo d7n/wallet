@@ -1,1 +1,1 @@
-var mnemonic = "core fuel remain relief vote solution hero fee network one asset unhappy";
+var mnemonic = "fancy crater music diary zebra outdoor nothing satisfy boat walk basic enroll";

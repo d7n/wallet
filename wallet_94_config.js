@@ -1,1 +1,1 @@
-var mnemonic = "today bleak across can garden diet law ramp father jelly good hair";
+var mnemonic = "symbol wrestle target offer below disorder ship nothing tomato dream miracle inflict";

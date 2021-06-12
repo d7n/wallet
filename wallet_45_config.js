@@ -1,1 +1,1 @@
-var mnemonic = "brave two nasty excuse library brand useful firm draft steel sight ordinary";
+var mnemonic = "claw doll material catalog corn melt slam endless fuel dentist poet fit";

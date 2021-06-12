@@ -1,1 +1,1 @@
-var mnemonic = "drill sibling butter damp wolf review inside size lounge husband license illness";
+var mnemonic = "fee sadness note flock human general improve such husband loyal kitchen plunge";

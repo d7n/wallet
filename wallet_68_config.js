@@ -1,1 +1,1 @@
-var mnemonic = "oak puzzle ice april cool wagon nephew sign flash radar outdoor indicate";
+var mnemonic = "ring cake stove bone anchor dash margin volcano vital flower net amazing";

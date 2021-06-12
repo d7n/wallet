@@ -1,1 +1,1 @@
-var mnemonic = "alarm exact latin goddess slice banner sorry embark trend capable fish midnight";
+var mnemonic = "canyon armor arctic outdoor hotel chalk lunar disorder latin demand plastic until";

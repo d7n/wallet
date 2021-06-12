@@ -1,1 +1,1 @@
-var mnemonic = "risk dance reunion latin hurry shoe drill affair brief awful indoor evolve";
+var mnemonic = "anxiety bomb order slab coil group bird skin excuse excuse another captain";

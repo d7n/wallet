@@ -1,1 +1,1 @@
-var mnemonic = "plastic erupt home blue tomorrow dilemma immune elbow bulk buyer limb rally";
+var mnemonic = "woman post aerobic dad skull remind eternal advice pretty gown region nature";

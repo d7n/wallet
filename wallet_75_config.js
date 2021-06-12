@@ -1,1 +1,1 @@
-var mnemonic = "damp candy destroy rigid recipe veteran track safe twenty bind ostrich oppose";
+var mnemonic = "fatigue figure negative grape hurdle metal enroll gas body material wasp beauty";

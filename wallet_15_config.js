@@ -1,1 +1,1 @@
-var mnemonic = "blossom space grace seminar fringe moral orange buddy news magnet attend way";
+var mnemonic = "arm element scan alley powder brand elbow search busy album tackle swing";

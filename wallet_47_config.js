@@ -1,1 +1,1 @@
-var mnemonic = "roof plate genius range physical lecture prize next panic autumn engine bread";
+var mnemonic = "amazing retreat wash patient away barely grain delay sunny save language guitar";

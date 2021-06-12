@@ -1,1 +1,1 @@
-var mnemonic = "use birth design grid style spoon lobster today scout thunder chapter embrace";
+var mnemonic = "then hollow sample man strong prefer box stereo mistake kiwi thunder yard";

@@ -1,1 +1,1 @@
-var mnemonic = "steel forward reopen trap shell spend proud venture choose jealous rough dynamic";
+var mnemonic = "chef sell patient rice other bachelor glide reopen reflect time toddler fancy";

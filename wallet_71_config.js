@@ -1,1 +1,1 @@
-var mnemonic = "delay can acquire hard service zoo tag choose metal coconut dial jewel";
+var mnemonic = "someone phrase slide setup morning convince height agent hip globe business above";

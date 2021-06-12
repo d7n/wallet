@@ -1,1 +1,1 @@
-var mnemonic = "clump dignity grain retire debris gun chaos describe cram blanket mammal mango";
+var mnemonic = "object wait symptom payment adapt guard wheat multiply source coil major element";

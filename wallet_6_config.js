@@ -1,1 +1,1 @@
-var mnemonic = "live nose avocado service spoil pioneer notable assault lady steel poverty feel";
+var mnemonic = "hockey upgrade dwarf point purchase core surge attend reform keen elder photo";

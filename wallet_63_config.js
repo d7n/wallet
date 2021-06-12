@@ -1,1 +1,1 @@
-var mnemonic = "notice aim sport simple injury day jelly pond gaze survey gloom balance";
+var mnemonic = "desk ostrich human black craft mosquito double sting neutral mean blossom damp";

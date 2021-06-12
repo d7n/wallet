@@ -1,1 +1,1 @@
-var mnemonic = "business age seat fog lottery brisk gate strike discover today purse state";
+var mnemonic = "couple manual twice arm pepper uncover punch sock famous cake exact case";

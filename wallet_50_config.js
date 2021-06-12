@@ -1,1 +1,1 @@
-var mnemonic = "ostrich denial flavor share mean east mention brief civil spoon thumb bird";
+var mnemonic = "mechanic dismiss estate brick cigar uphold elegant fashion pizza topic truck popular";

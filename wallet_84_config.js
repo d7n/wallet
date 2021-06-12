@@ -1,1 +1,1 @@
-var mnemonic = "assault defy mixed evoke cause blue quote mind cool report sail cannon";
+var mnemonic = "level saddle party almost potato limb live will ankle record tell shoe";

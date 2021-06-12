@@ -1,1 +1,1 @@
-var mnemonic = "can tool citizen swear panther strike during improve barrel quarter penalty dignity";
+var mnemonic = "unaware stand crowd cigar faith leaf man nose friend never arrive debate";

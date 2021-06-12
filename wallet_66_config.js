@@ -1,1 +1,1 @@
-var mnemonic = "program immense glove series sing park oil vote puppy assault vibrant shield";
+var mnemonic = "blush adult eyebrow program addict post duck maze face differ garlic lottery";

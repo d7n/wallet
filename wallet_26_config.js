@@ -1,1 +1,1 @@
-var mnemonic = "question velvet season play bean copper affair prison mention kidney clip amused";
+var mnemonic = "theory bottom year subject crucial craft bind bird mixture version sorry corn";

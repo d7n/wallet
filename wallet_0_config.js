@@ -1,1 +1,1 @@
-var mnemonic = "raccoon physical found crush crucial asset arctic monitor emerge cave country mouse";
+var mnemonic = "priority burst civil space under myself repair stamp honey solar muffin album";

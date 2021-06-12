@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo negative game fault predict misery shiver churn joke estate urban flat";
+var mnemonic = "fan detail since verify green tongue cycle start fuel shadow spy chicken";

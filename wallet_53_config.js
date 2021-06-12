@@ -1,1 +1,1 @@
-var mnemonic = "tide egg success desk zebra sad napkin inspire bottom rigid silk pulse";
+var mnemonic = "rent absent enjoy actor identify eternal execute lion return forest dutch outer";

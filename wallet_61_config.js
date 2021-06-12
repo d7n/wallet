@@ -1,1 +1,1 @@
-var mnemonic = "latin giraffe inhale trim easy public symbol century grocery cheap drip wedding";
+var mnemonic = "narrow genre light quick quantum pigeon next umbrella pony bottom zone merit";

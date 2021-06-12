@@ -1,1 +1,1 @@
-var mnemonic = "someone water immune timber rule wear between nest tomato pyramid pulp noble";
+var mnemonic = "shoe rain monitor retreat gym cushion resource clay abstract rally feature dish";
