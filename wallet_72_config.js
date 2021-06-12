@@ -1,1 +1,1 @@
-var mnemonic = "source school diamond cluster permit toast orient witness crawl feature author youth";
+var mnemonic = "coyote rice rich gather coast entry educate main delay analyst truly come";

@@ -1,1 +1,1 @@
-var mnemonic = "path river renew warrior fragile awesome confirm figure true action topple fall";
+var mnemonic = "scatter wedding zebra wear tissue patient juice month unique fragile maximum rate";

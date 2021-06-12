@@ -1,1 +1,1 @@
-var mnemonic = "february rib broom doll friend inhale dinosaur plate unknown answer spy pear";
+var mnemonic = "illness humble broken broccoli thank fork volcano banner usage often stool segment";

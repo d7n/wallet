@@ -1,1 +1,1 @@
-var mnemonic = "slab cotton rule chef guess crush crowd hard moment pond scan rebuild";
+var mnemonic = "leader quarter nephew oval dove goddess turkey put metal false eagle bike";

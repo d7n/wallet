@@ -1,1 +1,1 @@
-var mnemonic = "runway oven guitar retire story replace grape dust discover fatigue soup upset";
+var mnemonic = "roast muscle image shuffle best adjust whisper legend harsh segment master cycle";

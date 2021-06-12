@@ -1,1 +1,1 @@
-var mnemonic = "obvious sight maximum off hour chase winter turkey portion merge pet lottery";
+var mnemonic = "search penalty twice neither secret wool dish cash pave attract question into";

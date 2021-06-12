@@ -1,1 +1,1 @@
-var mnemonic = "pear split since thank photo silver over blur flight also dinosaur electric";
+var mnemonic = "corn dice flag uncover damage era horn involve puzzle goose prison betray";

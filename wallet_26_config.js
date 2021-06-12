@@ -1,1 +1,1 @@
-var mnemonic = "brief assist orbit trap pretty trophy enter dilemma quantum punch zoo seminar";
+var mnemonic = "captain stadium talent squeeze smoke way absent physical narrow goddess waste lamp";

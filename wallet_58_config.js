@@ -1,1 +1,1 @@
-var mnemonic = "pottery clerk mansion shift day hover hub resemble visit pool often tomorrow";
+var mnemonic = "drum tape topple diet select initial monitor oak question aunt vital pupil";

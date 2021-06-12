@@ -1,1 +1,1 @@
-var mnemonic = "release magnet again giraffe ribbon police nominee identify kangaroo run over agree";
+var mnemonic = "copy isolate arch hawk rival report acquire image hub cactus exotic sister";

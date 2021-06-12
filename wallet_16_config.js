@@ -1,1 +1,1 @@
-var mnemonic = "off race snow deliver gloom bar romance butter symbol mesh rotate fragile";
+var mnemonic = "frequent water field snake grace real toilet lift victory sugar acid drama";

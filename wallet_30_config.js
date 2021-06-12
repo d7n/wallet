@@ -1,1 +1,1 @@
-var mnemonic = "nurse yard fantasy viable prepare penalty poet column ghost where coffee nothing";
+var mnemonic = "sound bunker mind enter spend final electric fame fury latin creek mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "choose divert plastic rule drama saddle behave hidden general radar flag bracket";
+var mnemonic = "special magic vague voice maximum announce tone horn slogan move once unfold";

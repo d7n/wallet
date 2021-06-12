@@ -1,1 +1,1 @@
-var mnemonic = "supply put nut tell give actor movie runway despair attitude always orphan";
+var mnemonic = "smooth craft aspect various canyon trouble pistol crystal laugh drive cousin idle";

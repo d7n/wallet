@@ -1,1 +1,1 @@
-var mnemonic = "away crater kingdom rack taxi lamp mind amount describe minute unhappy city";
+var mnemonic = "hobby afford predict act notable clinic cherry rug finger draw find cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "color pudding south lake music oppose jazz pretty into pelican wave seed";
+var mnemonic = "eternal brisk change damp void impose meat distance urban vast liar carbon";

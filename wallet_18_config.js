@@ -1,1 +1,1 @@
-var mnemonic = "draft trip mother custom game asthma concert unhappy video bacon owner trust";
+var mnemonic = "satisfy magic auto hungry robust load where camp sad steel nature dragon";

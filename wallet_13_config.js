@@ -1,1 +1,1 @@
-var mnemonic = "know craft romance cabin naive quantum charge child common finish element skull";
+var mnemonic = "cabbage grow patient knife drive begin future art tone embody tribe abstract";

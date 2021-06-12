@@ -1,1 +1,1 @@
-var mnemonic = "defy assault admit insane cactus close bird fatigue only parrot magnet drum";
+var mnemonic = "drive casual crowd document island sudden volcano consider marriage refuse punch high";

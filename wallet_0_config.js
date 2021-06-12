@@ -1,1 +1,1 @@
-var mnemonic = "tube devote loud eager trumpet arrive fantasy army fine still sadness boring";
+var mnemonic = "true swing busy permit ask fetch service volcano cousin clump crazy dad";

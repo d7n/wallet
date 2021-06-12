@@ -1,1 +1,1 @@
-var mnemonic = "economy fiber scissors aerobic rookie draft bind cement mad pencil valley awesome";
+var mnemonic = "sunset jewel unaware proud fiscal soap pipe minute dash great neck tube";

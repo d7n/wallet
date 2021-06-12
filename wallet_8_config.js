@@ -1,1 +1,1 @@
-var mnemonic = "great second flavor library garbage wrist kangaroo exchange knock aim employ sheriff";
+var mnemonic = "volume close casual code brass leg language flush discover own plunge better";

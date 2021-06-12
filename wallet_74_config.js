@@ -1,1 +1,1 @@
-var mnemonic = "retreat execute essence page great ensure property satoshi stick clinic have exact";
+var mnemonic = "rely crop goat truth carry night apology husband crew knock toy witness";

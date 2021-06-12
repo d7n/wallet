@@ -1,1 +1,1 @@
-var mnemonic = "history dish birth argue favorite tent give conduct fish online record damp";
+var mnemonic = "forum absorb want expire search perfect myth finish cycle few atom risk";

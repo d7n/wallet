@@ -1,1 +1,1 @@
-var mnemonic = "milk chase laugh cluster price attend parent worth impact demise goddess proud";
+var mnemonic = "diesel quarter candy dose sing base indicate together twenty equal busy globe";

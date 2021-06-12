@@ -1,1 +1,1 @@
-var mnemonic = "camp rare penalty split budget jelly deer cycle ship gloom during ripple";
+var mnemonic = "alcohol traffic item dizzy easy about tomorrow cool member shine mosquito worry";

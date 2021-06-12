@@ -1,1 +1,1 @@
-var mnemonic = "melt squirrel dial tool leader main switch rather video coyote ugly hire";
+var mnemonic = "nation protect carry trial equal embody sister voyage angry fix grass load";

@@ -1,1 +1,1 @@
-var mnemonic = "region salute arm torch gorilla phrase skull cup catch symptom payment pride";
+var mnemonic = "agent aunt detect asset balance maple kick pulse garden coral frequent ship";

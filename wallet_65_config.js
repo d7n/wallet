@@ -1,1 +1,1 @@
-var mnemonic = "laundry toilet fuel stay final net clutch patch question raise where label";
+var mnemonic = "tiger bean finish fancy pause trial clay small reduce claim lucky crush";

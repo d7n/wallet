@@ -1,1 +1,1 @@
-var mnemonic = "balcony filter shadow priority slice dose cabbage miracle solve year host mix";
+var mnemonic = "enforce print learn section finger soon grab cruise tunnel transfer grit cement";

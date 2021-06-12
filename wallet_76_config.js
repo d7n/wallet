@@ -1,1 +1,1 @@
-var mnemonic = "field grunt summer spin sand science kid release city awkward seek divide";
+var mnemonic = "worry spray lamp shoe exile combine payment seven reveal grace strategy taxi";

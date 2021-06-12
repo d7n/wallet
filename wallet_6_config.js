@@ -1,1 +1,1 @@
-var mnemonic = "sunset unknown stove lunch stool pool inflict culture wild blood number reduce";
+var mnemonic = "leopard galaxy alert harvest lottery friend fault tank sing into move online";

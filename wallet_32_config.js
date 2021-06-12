@@ -1,1 +1,1 @@
-var mnemonic = "connect camp general yard hungry material corn wide tornado reason eye fabric";
+var mnemonic = "exotic use treat idle gasp field base voyage primary scene hair fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss cloud myself major retreat wing whale all survey arm trumpet town";
+var mnemonic = "manual shrimp sentence later much report genuine assist orphan powder squirrel absorb";

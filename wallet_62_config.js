@@ -1,1 +1,1 @@
-var mnemonic = "onion devote expose sell drift more foot annual high slice shoot spray";
+var mnemonic = "hobby shoe nice giraffe rich property pumpkin chaos alone review derive curtain";

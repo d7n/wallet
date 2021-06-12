@@ -1,1 +1,1 @@
-var mnemonic = "inch guard tomorrow pupil access gossip judge hybrid boil balance innocent dinner";
+var mnemonic = "disagree blossom differ perfect hazard spatial link believe twelve venture intact remove";

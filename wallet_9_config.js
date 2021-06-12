@@ -1,1 +1,1 @@
-var mnemonic = "nerve amused tomato silly allow mail runway series you comic miracle comfort";
+var mnemonic = "advance connect debate situate century rice vacant foam ancient goddess cream canvas";

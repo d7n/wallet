@@ -1,1 +1,1 @@
-var mnemonic = "rigid invite style field minimum arch document depart sting snack anchor diagram";
+var mnemonic = "chief hospital series leg pilot napkin panda inject drill isolate useless industry";

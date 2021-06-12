@@ -1,1 +1,1 @@
-var mnemonic = "page oval fever tissue mix rose flight excuse room meadow property another";
+var mnemonic = "any gap inherit napkin key marble demand spawn tongue envelope stable actress";

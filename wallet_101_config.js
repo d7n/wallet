@@ -1,1 +1,1 @@
-var mnemonic = "coconut unit poverty question eyebrow inside coyote voice steak fog injury only";
+var mnemonic = "estate flower host tongue tray clarify typical dash snack pave calm travel";

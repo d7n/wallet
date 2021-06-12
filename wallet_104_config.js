@@ -1,1 +1,1 @@
-var mnemonic = "elevator ancient culture motor olympic yard pelican stumble because method draft artwork";
+var mnemonic = "kiwi defense useful cargo federal anger scrub upper mom announce swing midnight";

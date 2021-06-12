@@ -1,1 +1,1 @@
-var mnemonic = "latin train bunker already sing wine option order soldier dash better cruel";
+var mnemonic = "leisure pipe sugar wild aisle space output refuse merit trade extend display";

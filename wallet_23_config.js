@@ -1,1 +1,1 @@
-var mnemonic = "core effort galaxy light black pepper latin damp crowd cable rate faculty";
+var mnemonic = "spike tilt cotton hospital easy venue gold kitten bid matrix liberty sick";

@@ -1,1 +1,1 @@
-var mnemonic = "target stamp axis jacket race inquiry idea drip basic fever urban try";
+var mnemonic = "later click bounce happy cloud frost naive cram behind fence dice engage";

@@ -1,1 +1,1 @@
-var mnemonic = "dad reject cable fee bench rebuild forget mosquito metal forward among enlist";
+var mnemonic = "tree option stomach category pledge simple tunnel snow scout tunnel bench chicken";

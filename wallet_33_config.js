@@ -1,1 +1,1 @@
-var mnemonic = "october clog win blood dismiss quote put pet pumpkin matter achieve mammal";
+var mnemonic = "sick then steel extend repeat quarter tip beauty blur keep crystal claw";

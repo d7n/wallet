@@ -1,1 +1,1 @@
-var mnemonic = "evolve this cupboard frog expect gym soccer language toddler pretty define excess";
+var mnemonic = "slot exit eight naive interest leaf cargo stock equip meat arena baby";

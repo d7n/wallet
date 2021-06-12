@@ -1,1 +1,1 @@
-var mnemonic = "tornado sadness network come guilt urge flash dust kind vanish anxiety permit";
+var mnemonic = "warrior stick tape crash boss baby degree car lonely dumb myth width";

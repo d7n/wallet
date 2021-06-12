@@ -1,1 +1,1 @@
-var mnemonic = "vital swim plunge argue east design oxygen verify other bunker promote initial";
+var mnemonic = "escape coffee motor estate limit dice castle farm original village mystery legal";

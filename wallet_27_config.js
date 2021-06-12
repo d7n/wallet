@@ -1,1 +1,1 @@
-var mnemonic = "daughter panda morning fun planet ceiling away hat zero bulb walnut trust";
+var mnemonic = "limit elegant maximum zebra tiger town lucky sample hybrid void laugh gossip";

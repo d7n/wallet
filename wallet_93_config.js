@@ -1,1 +1,1 @@
-var mnemonic = "tiger blade lock monster quantum exact tent sample father crawl chat lady";
+var mnemonic = "enhance pepper nuclear boat oblige emerge image night surface brother gown museum";

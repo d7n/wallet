@@ -1,1 +1,1 @@
-var mnemonic = "stock foil hood clip usage notable ability link reflect glare valve pact";
+var mnemonic = "success label robust account drift stumble guitar siren airport rival deal start";

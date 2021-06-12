@@ -1,1 +1,1 @@
-var mnemonic = "man decline chair slide favorite athlete suffer left regret cherry assist music";
+var mnemonic = "sword help shock acoustic shrimp pupil video alter awkward drama middle chalk";

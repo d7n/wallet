@@ -1,1 +1,1 @@
-var mnemonic = "exclude want silver beef canvas idea winter exhaust portion theory capable tortoise";
+var mnemonic = "exile width razor hidden fashion climb donor average budget swarm soap field";

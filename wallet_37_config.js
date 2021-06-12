@@ -1,1 +1,1 @@
-var mnemonic = "muffin subject agent clutch feel smart extra mail sight alarm debate share";
+var mnemonic = "pulp hair fatigue ecology item actual symptom march child grass target monster";

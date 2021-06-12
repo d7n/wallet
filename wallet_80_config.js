@@ -1,1 +1,1 @@
-var mnemonic = "front two canyon napkin assist home floor lion spice home rule three";
+var mnemonic = "faint radar broccoli puzzle sense where mind pupil aerobic obscure absorb correct";

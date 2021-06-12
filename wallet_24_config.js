@@ -1,1 +1,1 @@
-var mnemonic = "walk hammer cupboard mixed never employ turkey melody blame ticket dash reduce";
+var mnemonic = "spice curious liquid label world piano rebuild original blossom cactus swear blast";

@@ -1,1 +1,1 @@
-var mnemonic = "lion head abuse sea narrow window sugar sell garment limb anxiety corn";
+var mnemonic = "second biology fatal general goose steak lucky cream talent treat scheme stay";

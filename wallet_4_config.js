@@ -1,1 +1,1 @@
-var mnemonic = "fruit apart crunch spot grab source parrot senior picnic hover candy castle";
+var mnemonic = "nuclear census capital expand ensure cry height pumpkin lawn warrior family ask";

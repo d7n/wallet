@@ -1,1 +1,1 @@
-var mnemonic = "unfold idea tide office nerve erode strong rich exile report double auction";
+var mnemonic = "quality defy lion old decide witness truly hundred praise inquiry clerk utility";

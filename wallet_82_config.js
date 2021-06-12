@@ -1,1 +1,1 @@
-var mnemonic = "manage wire fold idea goat organ tackle uphold ill fun vendor cause";
+var mnemonic = "good position rabbit laugh artwork tell submit foot space medal parrot record";

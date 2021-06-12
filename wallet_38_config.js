@@ -1,1 +1,1 @@
-var mnemonic = "spot crystal figure world kiss unlock tuna rally multiply dumb where lend";
+var mnemonic = "square brave wise digital vibrant atom bachelor absent similar zoo immune crush";

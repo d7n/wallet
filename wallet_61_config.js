@@ -1,1 +1,1 @@
-var mnemonic = "carry tube announce border grunt harvest rescue noise invest buddy yellow coral";
+var mnemonic = "give bid icon unaware glove report odor once energy debate swallow hand";

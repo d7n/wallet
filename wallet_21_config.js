@@ -1,1 +1,1 @@
-var mnemonic = "casino crawl must infant potato letter jungle pyramid broccoli desk boat option";
+var mnemonic = "melt wrap edit else true clump team cigar spoil among rule know";

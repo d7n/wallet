@@ -1,1 +1,1 @@
-var mnemonic = "welcome seat depth sweet square grass vehicle priority media route lawn uncover";
+var mnemonic = "salt exclude leisure lemon clean quick danger renew crop base recycle discover";

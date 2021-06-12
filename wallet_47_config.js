@@ -1,1 +1,1 @@
-var mnemonic = "usual bracket zero casino perfect afraid recipe avoid tail favorite identify gravity";
+var mnemonic = "bundle raven cable federal verify slush journey neither save chat doll insane";

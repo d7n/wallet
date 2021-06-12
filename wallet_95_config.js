@@ -1,1 +1,1 @@
-var mnemonic = "radar later feel sniff pipe engage latin stock panda merry attend pond";
+var mnemonic = "portion million vital change jazz jar duck shaft accuse enlist phone melt";

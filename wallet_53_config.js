@@ -1,1 +1,1 @@
-var mnemonic = "tent battle smoke memory hood track urge hint armor stick boil either";
+var mnemonic = "couch toe orchard cotton maple artwork cruise purchase skill novel drink practice";

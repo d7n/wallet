@@ -1,1 +1,1 @@
-var mnemonic = "vast useful naive sun please blade math pool act brown law online";
+var mnemonic = "hurdle real bullet diet quantum garden shop consider green memory moment ghost";

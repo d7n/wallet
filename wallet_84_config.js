@@ -1,1 +1,1 @@
-var mnemonic = "almost age drink subject forest speed table require mirror taste item trash";
+var mnemonic = "draft comic damp vivid ivory entire world burger only exotic pudding rocket";

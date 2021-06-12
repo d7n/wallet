@@ -1,1 +1,1 @@
-var mnemonic = "viable photo glass swallow crew traffic digital afraid lazy ring virus bridge";
+var mnemonic = "eternal address empty diagram tool benefit spike captain betray kick office romance";

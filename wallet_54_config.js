@@ -1,1 +1,1 @@
-var mnemonic = "brick mandate fame enable release few crop fee forest spoon dumb erase";
+var mnemonic = "coast payment ribbon bonus truck city eight general raw celery left decrease";

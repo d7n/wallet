@@ -1,1 +1,1 @@
-var mnemonic = "bacon pumpkin issue radio fury useless spy law differ eye fog smoke";
+var mnemonic = "crystal worry hammer bulk economy quality rescue ice misery jealous gain any";

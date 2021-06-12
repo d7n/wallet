@@ -1,1 +1,1 @@
-var mnemonic = "vehicle powder window knife stem crop spatial gold build kitchen frog high";
+var mnemonic = "approve walk service flower critic candy front spice nest camp indicate abstract";

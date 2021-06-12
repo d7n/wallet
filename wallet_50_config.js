@@ -1,1 +1,1 @@
-var mnemonic = "frame wedding east solid unknown local alien online torch fine quarter gloom";
+var mnemonic = "knock unfair winter left wolf sting genre pride album salmon amazing camp";

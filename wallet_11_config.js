@@ -1,1 +1,1 @@
-var mnemonic = "pledge puzzle depth trigger render venture enforce roast van divide once adjust";
+var mnemonic = "income jungle boring armed letter agent follow famous dawn layer ecology master";

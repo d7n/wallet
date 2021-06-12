@@ -1,1 +1,1 @@
-var mnemonic = "place exit hire sweet fuel gap express much gap summer decorate bridge";
+var mnemonic = "danger enough lens candy pelican emerge hover hunt year bench clog organ";

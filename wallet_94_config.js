@@ -1,1 +1,1 @@
-var mnemonic = "this flat garage diagram oak remain abuse help ring wife permit matrix";
+var mnemonic = "laptop hundred clerk danger family industry camera ecology govern pool govern first";

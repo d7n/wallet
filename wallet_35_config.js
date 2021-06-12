@@ -1,1 +1,1 @@
-var mnemonic = "tag disease clump square struggle talk educate shoot tank slim cross nerve";
+var mnemonic = "total thought just illegal deny brisk crew stuff master warfare matrix target";

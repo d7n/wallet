@@ -1,1 +1,1 @@
-var mnemonic = "barely keep crouch dizzy mammal island gossip device barrel olympic laundry lumber";
+var mnemonic = "advice bitter skill champion exotic tent anger globe grass odor waste artwork";

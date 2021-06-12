@@ -1,1 +1,1 @@
-var mnemonic = "tuna season cannon scene beef unique airport pear choose photo display glimpse";
+var mnemonic = "shadow elbow enter observe shadow jump below farm radar fiscal meadow veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware force argue dream inherit inhale inch inquiry vendor twice wheat doll";
+var mnemonic = "keen kingdom vague gorilla pitch happy chuckle amazing cube venture slice define";

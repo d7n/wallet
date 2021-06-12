@@ -1,1 +1,1 @@
-var mnemonic = "develop dress height topic bright neck scorpion source chimney brother addict state";
+var mnemonic = "victory century umbrella bubble muffin island run milk reunion blouse improve salad";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve ranch river later surge culture exotic supply easily impact original hood";
+var mnemonic = "smile zero puzzle beyond market walk option claw guitar strategy bid conduct";

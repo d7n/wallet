@@ -1,1 +1,1 @@
-var mnemonic = "life suggest park estate finger option place zero fence daughter only album";
+var mnemonic = "admit need void apart draft yellow dance spirit valve drastic letter merit";

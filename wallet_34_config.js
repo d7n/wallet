@@ -1,1 +1,1 @@
-var mnemonic = "amateur steak gauge garbage degree trend hobby hat derive regular visa industry";
+var mnemonic = "raven consider relax inherit ivory nominee oppose snow doctor pencil stamp autumn";

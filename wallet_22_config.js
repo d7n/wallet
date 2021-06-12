@@ -1,1 +1,1 @@
-var mnemonic = "focus curve bone bargain virtual room sheriff doctor tail soul knife welcome";
+var mnemonic = "video thrive defy good walnut future matrix catch acid humor claw fence";

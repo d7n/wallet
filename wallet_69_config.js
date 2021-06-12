@@ -1,1 +1,1 @@
-var mnemonic = "identify embark machine menu transfer omit scatter juice sand please scare high";
+var mnemonic = "bundle night chef aerobic wrong guard burden shy zebra velvet service front";

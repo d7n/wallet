@@ -1,1 +1,1 @@
-var mnemonic = "pole brass concert version clap promote usage suggest sadness misery adjust witness";
+var mnemonic = "surprise million clip card thing wealth stick season labor acoustic simple name";

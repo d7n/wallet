@@ -1,1 +1,1 @@
-var mnemonic = "usage grab prepare camera raise cinnamon purity review crumble wide host broom";
+var mnemonic = "dawn run cereal stereo alert host little tiny series champion wise crucial";

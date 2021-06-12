@@ -1,1 +1,1 @@
-var mnemonic = "razor pond dignity also hood brand token atom before gauge panel glow";
+var mnemonic = "ghost critic border load dentist kick ignore hero proof motion absent prevent";

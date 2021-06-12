@@ -1,1 +1,1 @@
-var mnemonic = "world proud arrow summer elbow ladder ginger grow reduce cheap put detail";
+var mnemonic = "around life portion perfect mixed dynamic ethics record giant copper hero during";

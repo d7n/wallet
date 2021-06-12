@@ -1,1 +1,1 @@
-var mnemonic = "wolf time more gospel unknown near judge cross there citizen order gas";
+var mnemonic = "disorder solid swim history satisfy toward answer between barely wrist aerobic dragon";

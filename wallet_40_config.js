@@ -1,1 +1,1 @@
-var mnemonic = "liar blue because few cash often city audit opinion defy lunar coin";
+var mnemonic = "wish raise actual chef family peasant main couch mixed then home couch";

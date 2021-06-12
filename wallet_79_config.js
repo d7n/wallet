@@ -1,1 +1,1 @@
-var mnemonic = "glory before travel stable syrup wide business frozen energy agree universe oyster";
+var mnemonic = "old mail glad garage suit grain gaze salad tilt hard coffee angry";

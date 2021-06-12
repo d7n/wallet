@@ -1,1 +1,1 @@
-var mnemonic = "grief physical harvest cute loyal enter recipe clog hollow update need caution";
+var mnemonic = "zebra swing noble maple rigid enable nose sausage input alone industry endorse";
