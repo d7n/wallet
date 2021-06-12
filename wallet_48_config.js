@@ -1,1 +1,1 @@
-var mnemonic = "organ winter smile ring kite arrest weather can bulk planet wait label";
+var mnemonic = "address expire front minute fly green dish habit tool film evoke deputy";

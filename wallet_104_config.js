@@ -1,1 +1,1 @@
-var mnemonic = "crucial board beauty stereo cotton inspire promote ordinary cheap honey heavy tribe";
+var mnemonic = "render brave traffic midnight inject mercy mask sustain casino derive tonight lyrics";

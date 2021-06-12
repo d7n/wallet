@@ -1,1 +1,1 @@
-var mnemonic = "female library unfold nation grocery divert local purity churn picnic modify monitor";
+var mnemonic = "road spoon method guess squirrel answer increase suggest warm rebel original pink";

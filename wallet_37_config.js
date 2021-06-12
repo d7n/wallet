@@ -1,1 +1,1 @@
-var mnemonic = "tortoise north game moral almost predict toddler parrot farm sail fork primary";
+var mnemonic = "ready noodle grain swift pill family pencil spoon repeat replace range rack";

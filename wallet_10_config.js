@@ -1,1 +1,1 @@
-var mnemonic = "arrange ahead demise enforce update gloom quarter gallery review practice pride extend";
+var mnemonic = "hover teach cannon record execute jazz permit make foil used genuine vivid";

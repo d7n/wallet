@@ -1,1 +1,1 @@
-var mnemonic = "increase silly cabin toilet slender expand lady process inherit night edge trip";
+var mnemonic = "absurd tube either advice again damage recycle tortoise siege comic depart joke";

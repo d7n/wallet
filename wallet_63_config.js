@@ -1,1 +1,1 @@
-var mnemonic = "rural upgrade alpha north essay feed local barely bracket soda gas benefit";
+var mnemonic = "thunder blur buzz effort obscure buffalo voyage whip monkey live congress mesh";

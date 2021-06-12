@@ -1,1 +1,1 @@
-var mnemonic = "tragic under sock chest come dry woman renew replace recall lawn lesson";
+var mnemonic = "source thunder brain magnet spring raven response also popular mouse scatter evoke";

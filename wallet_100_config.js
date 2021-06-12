@@ -1,1 +1,1 @@
-var mnemonic = "rose carpet ten focus sadness chaos boil exact slight helmet adjust gloom";
+var mnemonic = "knock weapon volume piano jar wrong cook rookie action humor main melt";

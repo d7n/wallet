@@ -1,1 +1,1 @@
-var mnemonic = "mask couch word deer hen uphold sock shop cigar orient tuition image";
+var mnemonic = "dress end front multiply picnic nature property crunch taste index topic dash";

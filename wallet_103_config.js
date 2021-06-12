@@ -1,1 +1,1 @@
-var mnemonic = "scatter toward tortoise ignore size bring page sorry rally own print pulp";
+var mnemonic = "ready voyage rapid can skull sing pair dirt sunset happy tissue limit";

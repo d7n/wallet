@@ -1,1 +1,1 @@
-var mnemonic = "forget enhance rival tomato excuse grab must plunge embark day junior half";
+var mnemonic = "hawk slot alarm adult carry stereo link column parade swim accuse frog";

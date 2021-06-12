@@ -1,1 +1,1 @@
-var mnemonic = "about able oak grant stool peasant blue retire february castle rhythm jeans";
+var mnemonic = "glad quantum salon spin merit toy punch decide matrix short maid engage";

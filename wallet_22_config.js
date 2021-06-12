@@ -1,1 +1,1 @@
-var mnemonic = "valid knock crouch arena sun trick gym shine hole enough side unique";
+var mnemonic = "since tuition rain ritual mirror okay unit until jar eyebrow saddle child";

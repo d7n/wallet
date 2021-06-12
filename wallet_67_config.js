@@ -1,1 +1,1 @@
-var mnemonic = "vessel access cereal bus script bitter behind cost engine ten october allow";
+var mnemonic = "uniform bleak confirm visa treat feature insane business around noble traffic breeze";

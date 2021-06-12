@@ -1,1 +1,1 @@
-var mnemonic = "body rug dumb promote yellow hamster filter split stay safe problem busy";
+var mnemonic = "patient frog mother list refuse lumber boss bargain arena visual saddle crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh side fatigue tomato six half current opinion wedding become ill sock";
+var mnemonic = "woman control mail anchor fashion tray what critic under loud museum destroy";

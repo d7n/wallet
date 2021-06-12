@@ -1,1 +1,1 @@
-var mnemonic = "know scatter sun engage coffee remain inhale mind muffin eager index engage";
+var mnemonic = "trigger direct resource promote winner actual tell picnic canyon frequent across swift";

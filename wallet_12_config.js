@@ -1,1 +1,1 @@
-var mnemonic = "moment call often bunker tourist monitor learn dilemma kiwi hockey same inherit";
+var mnemonic = "code tilt brush gate bid century outside jaguar erupt human divorce jeans";

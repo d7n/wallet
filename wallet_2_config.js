@@ -1,1 +1,1 @@
-var mnemonic = "letter curve west pond nut siren crisp refuse enroll warm giraffe cancel";
+var mnemonic = "muscle coil one polar must market trouble tongue laptop bonus medal lizard";

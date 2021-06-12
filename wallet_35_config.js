@@ -1,1 +1,1 @@
-var mnemonic = "wrist cherry bleak like seat thank lonely spell raw august brother danger";
+var mnemonic = "dog diary mention square view galaxy prepare winter stage analyst denial february";

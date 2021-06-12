@@ -1,1 +1,1 @@
-var mnemonic = "sound wrestle glance engine window ten network quick deny draft verify tilt";
+var mnemonic = "extra multiply clip protect link junior faculty kitchen ability work ten ribbon";

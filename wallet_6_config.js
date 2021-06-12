@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow explain clerk solve smart funny run picture lawsuit dirt squeeze federal";
+var mnemonic = "battle good quantum castle motion lemon travel fantasy quantum pride season one";

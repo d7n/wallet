@@ -1,1 +1,1 @@
-var mnemonic = "human donate final pencil praise bulb aisle era fold cabbage bacon erode";
+var mnemonic = "little rare another kick minute purpose fabric conduct promote electric surprise cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "defy fame found spike electric absurd spoon zebra sweet target afford material";
+var mnemonic = "until garden shove toss onion rifle tag now have dad smooth burden";

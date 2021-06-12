@@ -1,1 +1,1 @@
-var mnemonic = "pulse order glow tape auto round amused school artwork brick quarter vicious";
+var mnemonic = "area audit tank one enact sad trend alpha vessel rival tiger glimpse";

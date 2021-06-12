@@ -1,1 +1,1 @@
-var mnemonic = "street echo distance uncover pilot dice fortune beyond note ship waste busy";
+var mnemonic = "lawsuit topic stone pony pistol poem grape check estate army dance surround";

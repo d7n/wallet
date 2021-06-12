@@ -1,1 +1,1 @@
-var mnemonic = "inner age awesome shop spend multiply swing analyst image split winter caution";
+var mnemonic = "hole certain sadness tent deny girl invite either casual drink cargo often";

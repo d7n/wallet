@@ -1,1 +1,1 @@
-var mnemonic = "erode subject vacant spare century tray congress wagon category type vast develop";
+var mnemonic = "half churn allow turn unique style metal extra novel blush special edge";

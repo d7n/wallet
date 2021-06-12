@@ -1,1 +1,1 @@
-var mnemonic = "caution before join always winner vanish sign flash rival detect wet marble";
+var mnemonic = "ritual cherry verb hamster raccoon sleep borrow index runway armor umbrella board";

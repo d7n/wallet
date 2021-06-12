@@ -1,1 +1,1 @@
-var mnemonic = "ostrich exist sight fold leopard destroy shell unlock vacuum wage vessel worth";
+var mnemonic = "glass return clip finish pact hour struggle admit country glide laundry reward";

@@ -1,1 +1,1 @@
-var mnemonic = "quit major shine hat extend cat estate never muffin arch farm option";
+var mnemonic = "public physical junk entire regret spell baby escape gap satisfy used expect";

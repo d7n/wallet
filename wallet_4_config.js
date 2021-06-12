@@ -1,1 +1,1 @@
-var mnemonic = "swear treat arrow minute aim liquid link dentist maze magic reform flock";
+var mnemonic = "shoulder pass labor pole name topic tragic ethics phrase glove animal hollow";

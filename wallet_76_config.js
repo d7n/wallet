@@ -1,1 +1,1 @@
-var mnemonic = "ozone amused rookie fish beef around mad dune injury ramp eyebrow prosper";
+var mnemonic = "embrace flag picnic detail winter silly clever seat turtle mistake spirit uphold";

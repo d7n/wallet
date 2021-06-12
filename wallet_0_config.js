@@ -1,1 +1,1 @@
-var mnemonic = "snake exit rare educate novel exercise wood section program lemon midnight cool";
+var mnemonic = "stable turn submit chest dizzy sleep tired mouse expire dwarf exhaust vessel";

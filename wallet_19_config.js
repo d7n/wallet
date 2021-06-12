@@ -1,1 +1,1 @@
-var mnemonic = "issue unhappy cannon drum stereo biology illness high correct easy ketchup sniff";
+var mnemonic = "long vicious clump shell page more photo wine tornado spy film ticket";

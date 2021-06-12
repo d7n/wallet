@@ -1,1 +1,1 @@
-var mnemonic = "radio undo butter remain prosper claw exhibit toast tennis copy inmate bring";
+var mnemonic = "feed check mad duck fashion thrive kiss giraffe reopen blind assume own";

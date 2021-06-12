@@ -1,1 +1,1 @@
-var mnemonic = "spin physical effort hurry entire bus buddy bomb donkey improve culture tell";
+var mnemonic = "hockey push aerobic poverty rival high express comic divide banner blush enact";

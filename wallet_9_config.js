@@ -1,1 +1,1 @@
-var mnemonic = "surround decade radar sponsor cliff scene guitar palm fit silent spoil kitten";
+var mnemonic = "enough absurd chunk knife forest puppy try behind lend grid pizza myself";

@@ -1,1 +1,1 @@
-var mnemonic = "expire hello crack syrup enlist glad embark boring hour peasant island lawsuit";
+var mnemonic = "industry stone mix casual club someone six laundry balance above upper inform";

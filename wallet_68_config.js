@@ -1,1 +1,1 @@
-var mnemonic = "honey machine width famous unfair island build excuse require opera fine green";
+var mnemonic = "fiscal kidney summer display test air stamp useless student another unable famous";

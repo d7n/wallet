@@ -1,1 +1,1 @@
-var mnemonic = "anger scheme pool antenna easily later lion canal control simple misery soldier";
+var mnemonic = "giant tired word upon crew napkin crumble current exercise swift march sauce";

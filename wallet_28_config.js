@@ -1,1 +1,1 @@
-var mnemonic = "stumble powder tonight record flee endless bicycle film craft bridge audit service";
+var mnemonic = "budget glass either advance material ordinary purity produce bracket mother alter vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "lens sell ripple ahead weather cart scene blossom common neglect negative deliver";
+var mnemonic = "pelican spray sword correct crush curtain arrow fortune shock olympic gauge define";

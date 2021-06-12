@@ -1,1 +1,1 @@
-var mnemonic = "quantum cover neglect stool ladder rule course tag leave modify elephant sudden";
+var mnemonic = "become spell wet stem rescue brown stumble enhance phrase front ankle orchard";

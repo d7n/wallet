@@ -1,1 +1,1 @@
-var mnemonic = "salad elite joy stadium filter strategy kitchen witness outdoor private fitness core";
+var mnemonic = "ceiling shock good fit because fever rigid reopen boy gold sing suggest";

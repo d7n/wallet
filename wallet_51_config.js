@@ -1,1 +1,1 @@
-var mnemonic = "ability popular student trouble clarify match exist drama slight estate vast allow";
+var mnemonic = "what unhappy beach corn often tide disorder demise balcony target motion camp";

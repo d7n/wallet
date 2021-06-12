@@ -1,1 +1,1 @@
-var mnemonic = "until teach subject pattern bring honey glove also mom language arrange thrive";
+var mnemonic = "weasel carbon amount field rebel evolve wish reward verb convince pool job";

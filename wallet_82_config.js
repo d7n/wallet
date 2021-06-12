@@ -1,1 +1,1 @@
-var mnemonic = "caution world crack visa carpet vacuum wheel fiber pattern blast share manage";
+var mnemonic = "trip rude nose fish famous gloom blast become machine muffin taxi raven";

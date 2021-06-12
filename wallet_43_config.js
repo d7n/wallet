@@ -1,1 +1,1 @@
-var mnemonic = "impact away outdoor cream replace word alcohol dirt island bridge shuffle guilt";
+var mnemonic = "prevent reason nuclear fly shiver grow accident eagle sponsor window echo primary";

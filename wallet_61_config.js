@@ -1,1 +1,1 @@
-var mnemonic = "program minute loyal addict link inherit donor thing raccoon act lady ring";
+var mnemonic = "safe panic claim card raccoon shuffle prepare warrior fade portion dress post";

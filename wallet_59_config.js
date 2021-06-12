@@ -1,1 +1,1 @@
-var mnemonic = "slice upgrade penalty sell taxi salt annual stone lemon ticket assault expect";
+var mnemonic = "vital embody owner evidence wish knee hand relief audit oak eagle sauce";

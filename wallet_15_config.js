@@ -1,1 +1,1 @@
-var mnemonic = "sense furnace super resemble service romance vital dynamic galaxy acoustic answer gorilla";
+var mnemonic = "spell over autumn protect tool vacuum column load wisdom innocent breeze general";

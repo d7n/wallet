@@ -1,1 +1,1 @@
-var mnemonic = "poverty ribbon captain promote fox soap wood toe benefit hill erosion horse";
+var mnemonic = "snake small bunker edge fan liberty scale tag clump rhythm floor pill";

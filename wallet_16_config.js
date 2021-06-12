@@ -1,1 +1,1 @@
-var mnemonic = "ordinary desert alien marine hungry crumble sun spin clay pupil current april";
+var mnemonic = "ritual gain owner jeans own pave pencil express bird gown young tobacco";

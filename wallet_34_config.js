@@ -1,1 +1,1 @@
-var mnemonic = "point month zone define bless over candy enrich brown aim arrange snap";
+var mnemonic = "interest camp crash hollow spoil shy another elder stomach stem capital text";

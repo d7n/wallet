@@ -1,1 +1,1 @@
-var mnemonic = "caught indicate impose crazy arrive rookie corn enhance answer answer cushion flush";
+var mnemonic = "pipe device like female session minute crunch ceiling bus blossom shine call";

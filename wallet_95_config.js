@@ -1,1 +1,1 @@
-var mnemonic = "high waste expect behind plug comic asthma silver canyon lecture border midnight";
+var mnemonic = "market bracket ketchup world accuse derive frequent occur poet cricket volume basket";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual snap tell manual grape rate chronic pear dove mail humor lesson";
+var mnemonic = "dune deposit basket panther frog include cushion reward discover smile trend defense";

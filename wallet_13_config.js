@@ -1,1 +1,1 @@
-var mnemonic = "whisper card stereo announce profit fan tag jewel hazard wrap forum omit";
+var mnemonic = "brass length seminar vocal typical quantum enforce venture cupboard zoo student bird";

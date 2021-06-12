@@ -1,1 +1,1 @@
-var mnemonic = "cabin train victory daring silver six wonder report have concert save catalog";
+var mnemonic = "march stone actor crash ozone claw rate sea manage survey rack antique";

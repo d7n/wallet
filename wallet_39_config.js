@@ -1,1 +1,1 @@
-var mnemonic = "boss smoke steak fantasy volume ready couple disease daring sense gate brisk";
+var mnemonic = "veteran display any hawk buyer vivid sausage receive runway train chapter place";

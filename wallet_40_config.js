@@ -1,1 +1,1 @@
-var mnemonic = "corn hospital drum furnace trend aspect neutral tribe tumble setup friend junior";
+var mnemonic = "deny item circle travel wrong potato wrong donkey double reflect matrix cute";

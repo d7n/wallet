@@ -1,1 +1,1 @@
-var mnemonic = "rival mom jar mistake argue item ticket minute foot radar stool razor";
+var mnemonic = "december tragic guard negative step glove ritual agree common trumpet captain blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "join shield drama suspect lesson sorry lunch gadget cross gesture slogan unable";
+var mnemonic = "fly federal become tongue tattoo jacket mule swing buyer erosion drink vital";

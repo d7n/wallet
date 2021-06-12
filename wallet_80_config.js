@@ -1,1 +1,1 @@
-var mnemonic = "squeeze hazard bridge laundry regret tooth measure dad subway chat park home";
+var mnemonic = "venue mansion renew popular scatter income initial bachelor faith stable shaft depend";

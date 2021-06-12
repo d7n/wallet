@@ -1,1 +1,1 @@
-var mnemonic = "salmon blind right want worry husband razor wisdom blame fun fan minimum";
+var mnemonic = "venue portion catalog swear front ability local camera lift grass dawn visual";

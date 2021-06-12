@@ -1,1 +1,1 @@
-var mnemonic = "hurdle oppose kitten earth cement cabbage mask private offer note soon tube";
+var mnemonic = "advice more toss very rescue poet expect horse boy rent plastic winner";

@@ -1,1 +1,1 @@
-var mnemonic = "giant rebel device donkey curve salt napkin first armed joy law ball";
+var mnemonic = "zebra hobby movie reopen fiscal vocal paddle few spend tent giggle income";

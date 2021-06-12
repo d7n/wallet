@@ -1,1 +1,1 @@
-var mnemonic = "scene slogan ticket behave catalog bottom remember setup false wrist expose announce";
+var mnemonic = "evidence fish capital tattoo accident soda nephew sock notable absurd dizzy erase";

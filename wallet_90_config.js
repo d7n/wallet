@@ -1,1 +1,1 @@
-var mnemonic = "indoor champion clarify diagram increase figure celery avoid entry scrub spice wide";
+var mnemonic = "sell program apple lizard boil immune edge unfold divert tube distance two";

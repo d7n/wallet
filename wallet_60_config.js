@@ -1,1 +1,1 @@
-var mnemonic = "earn casino witness life matrix clinic bullet rhythm skull glove forum party";
+var mnemonic = "pony tree hobby zone speak away acoustic actor absurd document essence spice";

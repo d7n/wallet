@@ -1,1 +1,1 @@
-var mnemonic = "weapon candy put rug barrel make long puppy sibling dinner rabbit empower";
+var mnemonic = "cannon gather public company senior tank unveil hurry match faint hard rule";

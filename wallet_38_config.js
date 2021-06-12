@@ -1,1 +1,1 @@
-var mnemonic = "heavy reject sunset lemon remove tuition protect rice lizard heart twelve control";
+var mnemonic = "able agent athlete control broccoli gain sting shrimp omit scare adult admit";

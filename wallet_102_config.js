@@ -1,1 +1,1 @@
-var mnemonic = "salute noise book depend digital strike cupboard shoulder stadium lunch multiply pear";
+var mnemonic = "scout sunny loud silk grab situate endless left hole speak legend fury";

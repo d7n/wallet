@@ -1,1 +1,1 @@
-var mnemonic = "stone exclude label brain produce oxygen gate paper confirm card dwarf harbor";
+var mnemonic = "local such thought clog gown cigar crash property celery lesson used slot";

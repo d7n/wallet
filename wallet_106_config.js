@@ -1,1 +1,1 @@
-var mnemonic = "wet oval truck flip oxygen ancient rabbit setup zebra catalog cheese inside";
+var mnemonic = "dry matrix junk glare tuna quit minor color inform elegant behind picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "coral clutch wonder diesel forget above sudden material ladder someone day juice";
+var mnemonic = "copper fiber float lobster fire squirrel bottom size gym vacuum shrimp seminar";

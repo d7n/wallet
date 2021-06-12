@@ -1,1 +1,1 @@
-var mnemonic = "mouse hub connect cupboard merit egg soul sunset pulse morning capital tent";
+var mnemonic = "giggle sister like rival trend ball judge green any also grow hover";

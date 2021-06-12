@@ -1,1 +1,1 @@
-var mnemonic = "evolve educate noise this pair cat inject draw leader inner produce spray";
+var mnemonic = "wonder heavy require ordinary student stove churn congress together sister brief grant";

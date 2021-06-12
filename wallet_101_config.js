@@ -1,1 +1,1 @@
-var mnemonic = "walk essence cook glory fun home praise tent narrow laundry tooth trouble";
+var mnemonic = "afraid favorite insect dentist mandate bar endorse devote scrap argue common captain";

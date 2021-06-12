@@ -1,1 +1,1 @@
-var mnemonic = "era nothing what identify venue repeat afford ripple empower media distance beef";
+var mnemonic = "various loud frown electric river farm slow special crowd rigid sound remove";

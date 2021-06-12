@@ -1,1 +1,1 @@
-var mnemonic = "build luxury angry fossil drift fit frost outside subject captain label decrease";
+var mnemonic = "dinner response asthma motion enrich hub attract dice action game side lecture";

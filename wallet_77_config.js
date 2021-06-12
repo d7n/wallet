@@ -1,1 +1,1 @@
-var mnemonic = "fiscal squirrel prefer embody staff flee attract clip hole truck put design";
+var mnemonic = "novel blame practice notice crazy attend daring oven observe crop tourist solve";

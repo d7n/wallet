@@ -1,1 +1,1 @@
-var mnemonic = "bacon chair duty salt office gesture raw electric problem behave matrix divorce";
+var mnemonic = "sort cruise radar amateur property typical piano spell cupboard hundred acoustic cigar";

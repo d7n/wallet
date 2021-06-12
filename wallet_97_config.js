@@ -1,1 +1,1 @@
-var mnemonic = "outdoor orchard any traffic success promote snake endorse debate multiply nose situate";
+var mnemonic = "rotate stand next join gift salute distance sea recycle route hotel maximum";

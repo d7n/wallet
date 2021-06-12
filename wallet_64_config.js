@@ -1,1 +1,1 @@
-var mnemonic = "then street strike diesel long federal witness urge distance multiply kick swallow";
+var mnemonic = "daughter weird cross budget shell bike across vocal gospel front slice polar";

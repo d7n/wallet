@@ -1,1 +1,1 @@
-var mnemonic = "trim creek license resemble heart chaos warrior palm sing roast cement axis";
+var mnemonic = "spawn smooth dinosaur verb like predict safe uphold crack wife apart leisure";

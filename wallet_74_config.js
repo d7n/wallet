@@ -1,1 +1,1 @@
-var mnemonic = "cheap mandate rifle brown labor quick unable adult vague firm clip meadow";
+var mnemonic = "task powder deliver dice idea decide average sell mystery input receive direct";

@@ -1,1 +1,1 @@
-var mnemonic = "caution chest chapter urge jaguar sign canoe picnic first salute cheese final";
+var mnemonic = "dynamic scrub snake truck fancy flock crowd meadow fantasy treat run page";

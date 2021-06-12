@@ -1,1 +1,1 @@
-var mnemonic = "depth turn parrot shop govern foot naive dove rug vessel ride deal";
+var mnemonic = "cream pact cabin escape salad enforce sentence other clog vanish kingdom sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder world canyon fabric benefit dentist lawsuit damage garbage network combine carry";
+var mnemonic = "purse poverty antique country skirt defense attend estate seven spin core famous";

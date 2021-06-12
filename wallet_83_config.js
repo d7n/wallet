@@ -1,1 +1,1 @@
-var mnemonic = "wrestle physical lobster tone shaft news desert census space month enemy rhythm";
+var mnemonic = "transfer there vanish fade flock trouble volume shield hammer renew concert pioneer";

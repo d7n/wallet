@@ -1,1 +1,1 @@
-var mnemonic = "misery reward alter combine heavy sausage stomach guilt skin chicken patrol enact";
+var mnemonic = "gossip gadget wash surface fly maze spatial high enter flush slide impulse";

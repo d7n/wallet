@@ -1,1 +1,1 @@
-var mnemonic = "athlete differ element inch master juice small switch east kick rhythm hunt";
+var mnemonic = "struggle radar clock jazz latin direct oxygen next blue nut crash hero";

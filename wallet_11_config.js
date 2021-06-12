@@ -1,1 +1,1 @@
-var mnemonic = "ice morning blossom remove drama spatial error expect spy warfare mouse forest";
+var mnemonic = "recipe brass castle size away coyote mixed prevent infant dentist soon height";
