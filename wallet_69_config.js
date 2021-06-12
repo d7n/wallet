@@ -1,1 +1,1 @@
-var mnemonic = "trumpet legend because lava cube youth minor habit submit empty fog fall";
+var mnemonic = "remain crane trim blood witness olympic short impact bamboo else service east";

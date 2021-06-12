@@ -1,1 +1,1 @@
-var mnemonic = "demise lunch dad cart mask office quick advance session garment bubble carry";
+var mnemonic = "indicate potato surface copper hat injury citizen deer bean law ten ring";

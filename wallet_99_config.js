@@ -1,1 +1,1 @@
-var mnemonic = "client helmet swear daring april harsh party level cement apart soup inner";
+var mnemonic = "board leg daughter cruise fresh cycle tray disease uncover frequent horn meadow";

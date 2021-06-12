@@ -1,1 +1,1 @@
-var mnemonic = "crush bright monitor believe grain point gas vehicle win tunnel labor amazing";
+var mnemonic = "foster smooth analyst chicken school chat fatal mule network metal grunt bus";

@@ -1,1 +1,1 @@
-var mnemonic = "since permit vicious luxury virtual swear town clown fish own bag okay";
+var mnemonic = "must mouse enlist benefit describe web flush stove custom clay lend crouch";

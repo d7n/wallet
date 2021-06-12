@@ -1,1 +1,1 @@
-var mnemonic = "walnut expire feel add bacon winner render unit suggest magic clever glare";
+var mnemonic = "own cook shine afraid vacant catalog rotate author check vendor syrup potato";

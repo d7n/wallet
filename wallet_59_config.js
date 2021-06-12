@@ -1,1 +1,1 @@
-var mnemonic = "false rack mansion ancient canyon rebel theory news pitch mosquito ranch area";
+var mnemonic = "marine correct hunt village barely current green deposit miracle major battle science";

@@ -1,1 +1,1 @@
-var mnemonic = "delay wing example swamp mean defy cloth involve machine chest genre interest";
+var mnemonic = "expect shallow brisk box spoil benefit fall february segment bunker notice indoor";

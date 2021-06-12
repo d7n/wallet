@@ -1,1 +1,1 @@
-var mnemonic = "scissors mom hello trumpet increase grain absurd gasp since secret daughter lady";
+var mnemonic = "remain super speed gorilla bargain master put boil tribe chaos trick oppose";

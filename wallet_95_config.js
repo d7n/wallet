@@ -1,1 +1,1 @@
-var mnemonic = "blush funny shaft horn demand cigar park school leopard slim comic sight";
+var mnemonic = "discover margin resist marine wealth bundle hub mask welcome exact wood crazy";

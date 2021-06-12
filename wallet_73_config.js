@@ -1,1 +1,1 @@
-var mnemonic = "rack color faith soon defense swim twelve soft once tragic again sausage";
+var mnemonic = "rug throw afraid conduct bachelor ivory medal garment absurd remind pass federal";

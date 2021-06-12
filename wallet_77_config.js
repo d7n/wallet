@@ -1,1 +1,1 @@
-var mnemonic = "bridge chest absent rule ladder visual pitch base alter exotic federal vanish";
+var mnemonic = "sleep mixed crystal spoil firm trash impose tiny idle unusual raise arrest";

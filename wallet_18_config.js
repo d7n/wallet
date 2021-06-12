@@ -1,1 +1,1 @@
-var mnemonic = "theme damage relax plug unaware scheme slim art snack change aisle denial";
+var mnemonic = "feel kiwi armor verb pencil marble sure spice excuse call attack prize";

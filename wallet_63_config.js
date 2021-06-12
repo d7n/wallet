@@ -1,1 +1,1 @@
-var mnemonic = "frozen velvet idea hazard glance purse list mirror witness enough jar candy";
+var mnemonic = "slow make table kick powder expect olive involve portion bread gun foil";

@@ -1,1 +1,1 @@
-var mnemonic = "skin emerge energy attract absurd rhythm winner ritual arrive job amazing skirt";
+var mnemonic = "salute certain album donkey ride decorate asset slush radio vital purpose guard";

@@ -1,1 +1,1 @@
-var mnemonic = "palace empower typical decline crater version three glass amused pair primary duty";
+var mnemonic = "execute version rack payment match monkey lava quarter rib clap cushion level";

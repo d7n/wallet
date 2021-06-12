@@ -1,1 +1,1 @@
-var mnemonic = "rather kite stage jump win gap fiscal have attract worth cousin help";
+var mnemonic = "fiber today horn okay feature sausage clip ripple unlock similar found cause";

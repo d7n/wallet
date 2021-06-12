@@ -1,1 +1,1 @@
-var mnemonic = "output crater genre narrow inform clarify jealous swim donkey outer glide depend";
+var mnemonic = "shiver please tonight kiss brush naive dragon general much good draw nominee";

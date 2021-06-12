@@ -1,1 +1,1 @@
-var mnemonic = "resource glance mean force stairs pony salt there motion online ancient pool";
+var mnemonic = "coach forum obey street rubber wagon roof mouse legend success economy fiscal";

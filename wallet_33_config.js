@@ -1,1 +1,1 @@
-var mnemonic = "lunar exit useless upgrade forward runway cake broom frog entire budget giant";
+var mnemonic = "misery solve valid fragile salute eight afford scrap south icon bridge memory";

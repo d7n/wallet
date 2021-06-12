@@ -1,1 +1,1 @@
-var mnemonic = "direct cruise stock entry seven spring champion congress object ball thing drama";
+var mnemonic = "wage useful melt pupil waste pencil mutual crunch pledge differ pizza silent";

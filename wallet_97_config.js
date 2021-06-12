@@ -1,1 +1,1 @@
-var mnemonic = "hero club civil gallery base awesome moment unhappy buddy pact expect degree";
+var mnemonic = "dust honey escape victory ten current cancel upon swap puzzle around actor";

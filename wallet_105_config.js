@@ -1,1 +1,1 @@
-var mnemonic = "size snack melody elegant damp actress pistol same core organ cotton chapter";
+var mnemonic = "earn target carbon warfare strategy candy must defy build typical vehicle real";

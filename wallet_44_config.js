@@ -1,1 +1,1 @@
-var mnemonic = "undo artist reflect copy lady planet elbow maximum rabbit spider input all";
+var mnemonic = "alert remove idle urge sudden city coral aisle husband milk category case";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle great trash person goose property outer control oil sausage senior usage";
+var mnemonic = "divert eye buffalo intact escape imitate strong slender reunion lion series hotel";

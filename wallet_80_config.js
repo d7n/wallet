@@ -1,1 +1,1 @@
-var mnemonic = "true drink amused umbrella belt skill happy place aisle grow torch table";
+var mnemonic = "language harvest mesh twice mention merge double ship that fiscal give six";

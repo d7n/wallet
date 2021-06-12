@@ -1,1 +1,1 @@
-var mnemonic = "milk update entire goose detail wait depth chat bar symptom during derive";
+var mnemonic = "credit cargo fortune library eight calm strong uncover decade real salt ski";

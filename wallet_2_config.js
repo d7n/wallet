@@ -1,1 +1,1 @@
-var mnemonic = "interest exotic example bounce crew rifle burger bean harbor velvet milk install";
+var mnemonic = "crime budget runway detect river doll sphere cupboard when misery only miss";

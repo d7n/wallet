@@ -1,1 +1,1 @@
-var mnemonic = "normal mean blind dirt region loud whip work try gallery usage amount";
+var mnemonic = "salute dolphin taxi pink once accident input chronic pact kick light neither";

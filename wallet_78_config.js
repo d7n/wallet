@@ -1,1 +1,1 @@
-var mnemonic = "reject snow play guide hamster bargain mention educate charge treat upset curtain";
+var mnemonic = "illegal upon world exotic sudden route grain cherry orchard couple cousin choose";

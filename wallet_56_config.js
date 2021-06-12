@@ -1,1 +1,1 @@
-var mnemonic = "song crazy wise potato swing apart frozen crazy piano gasp romance motor";
+var mnemonic = "card logic become kick system boss damp cube shrimp setup time say";

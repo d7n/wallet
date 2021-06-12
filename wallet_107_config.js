@@ -1,1 +1,1 @@
-var mnemonic = "about chef nose main aware minor during traffic voice maximum soon tree";
+var mnemonic = "cabbage ozone tape youth result water physical usage pulp lyrics inhale basic";

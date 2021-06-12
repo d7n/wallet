@@ -1,1 +1,1 @@
-var mnemonic = "clarify enhance motor snack border unfold trade canvas south filter wealth cattle";
+var mnemonic = "program bonus primary photo cat census baby inject potato blush fence advance";

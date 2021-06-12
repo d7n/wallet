@@ -1,1 +1,1 @@
-var mnemonic = "picture soldier spice lift resemble repair fault equip update slogan apology because";
+var mnemonic = "tired robust goose item void core antique park wear wrist across start";

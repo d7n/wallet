@@ -1,1 +1,1 @@
-var mnemonic = "easily expire casual song split flame ribbon lecture security endless ticket angle";
+var mnemonic = "moment ready island ill trophy convince bulb certain library actress alien banana";

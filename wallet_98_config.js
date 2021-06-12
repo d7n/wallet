@@ -1,1 +1,1 @@
-var mnemonic = "language win dynamic tube dawn gossip pumpkin ritual noble crystal lazy bunker";
+var mnemonic = "jar also attitude opinion topple romance slow visit arch neglect motion one";

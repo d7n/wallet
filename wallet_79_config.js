@@ -1,1 +1,1 @@
-var mnemonic = "humble castle trap find flame acoustic thought catch throw math arch student";
+var mnemonic = "time february pool belt near antenna expose bargain purchase mother horn obey";

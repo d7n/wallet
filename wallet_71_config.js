@@ -1,1 +1,1 @@
-var mnemonic = "boil elder lemon system crazy laugh slender soup toddler gather cheese empower";
+var mnemonic = "gap assist sing recall audit ugly spatial pull gloom evil note park";

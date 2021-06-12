@@ -1,1 +1,1 @@
-var mnemonic = "dilemma rare reveal wisdom random thought return guess symptom junior flame punch";
+var mnemonic = "aspect cup athlete shrimp treat such again slab vibrant buffalo mirror erupt";

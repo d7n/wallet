@@ -1,1 +1,1 @@
-var mnemonic = "exclude wrap describe useless vacuum hamster congress draw potato check bounce cement";
+var mnemonic = "orbit mask vibrant almost foam nurse invest want churn patch elder across";

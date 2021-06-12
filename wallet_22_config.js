@@ -1,1 +1,1 @@
-var mnemonic = "wrong swift extra survey harbor harsh village jar organ broken million slogan";
+var mnemonic = "thunder split famous belt butter lemon random nothing sphere finger tennis shadow";

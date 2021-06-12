@@ -1,1 +1,1 @@
-var mnemonic = "direct snow motor echo battle mother voyage riot own nature occur ahead";
+var mnemonic = "unique imitate hospital alien teach violin approve mail finger merry rural original";

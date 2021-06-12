@@ -1,1 +1,1 @@
-var mnemonic = "visa tree fix welcome analyst immense bright village alert blade leaf puzzle";
+var mnemonic = "deputy climb trouble dial nest orient mansion quarter chest robust joy adult";

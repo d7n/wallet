@@ -1,1 +1,1 @@
-var mnemonic = "pear drama noodle staff lady pudding range light fold neutral organ angry";
+var mnemonic = "sad notice orange stable surround chaos ritual market race example mammal dumb";

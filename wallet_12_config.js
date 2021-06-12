@@ -1,1 +1,1 @@
-var mnemonic = "urban purpose fence grape devote soup social open hat genius behind april";
+var mnemonic = "almost blouse siren abandon venue town night tray all symptom color mother";

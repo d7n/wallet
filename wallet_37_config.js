@@ -1,1 +1,1 @@
-var mnemonic = "soon front hawk bird again trip jeans surround mouse cruel giant good";
+var mnemonic = "report barrel like surround fly bring heavy theory electric flight today embark";

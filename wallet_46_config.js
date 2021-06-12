@@ -1,1 +1,1 @@
-var mnemonic = "frozen custom stick seed shine body visa opera ready siren cinnamon win";
+var mnemonic = "moment grace expand disagree crystal toward science rookie slim despair exchange castle";

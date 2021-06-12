@@ -1,1 +1,1 @@
-var mnemonic = "merry indicate connect poverty quote prepare aim dove about celery useful pair";
+var mnemonic = "duty insect lottery price brick typical pass erase blood fit endorse cupboard";

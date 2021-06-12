@@ -1,1 +1,1 @@
-var mnemonic = "lizard fly ridge phone screen absurd clever inflict office number picnic face";
+var mnemonic = "penalty impose fortune latin time cushion cake menu peace canal planet kick";

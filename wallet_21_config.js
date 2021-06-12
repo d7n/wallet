@@ -1,1 +1,1 @@
-var mnemonic = "hand elite insect tomato discover match student end zebra change nose chuckle";
+var mnemonic = "funny crystal check conduct curious grit love slice sniff toward defy rice";

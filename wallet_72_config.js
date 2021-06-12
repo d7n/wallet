@@ -1,1 +1,1 @@
-var mnemonic = "flower jacket pause dutch happy satoshi cost rice lounge airport ticket together";
+var mnemonic = "comfort exhibit dirt quality state recipe pole receive come shrug imitate finish";

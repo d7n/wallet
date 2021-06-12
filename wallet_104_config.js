@@ -1,1 +1,1 @@
-var mnemonic = "wave wish candy diary explain drill noise super mind hamster payment convince";
+var mnemonic = "bacon limb stick effort border pudding undo tired toast begin moral clarify";

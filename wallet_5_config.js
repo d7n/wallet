@@ -1,1 +1,1 @@
-var mnemonic = "spice example broom original final arm country transfer blossom glue tennis milk";
+var mnemonic = "welcome cart need multiply photo wrist pill like method annual melt number";

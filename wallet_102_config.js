@@ -1,1 +1,1 @@
-var mnemonic = "hammer case foot law exact water gorilla diary sad correct jazz embody";
+var mnemonic = "shine sugar year rough marble attack small comic brave apart jaguar chief";

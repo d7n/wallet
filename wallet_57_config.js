@@ -1,1 +1,1 @@
-var mnemonic = "scrap real exclude correct bid dawn knee all antique basic sponsor man";
+var mnemonic = "distance nuclear reopen bind glow escape fuel canyon trouble tool drum frown";

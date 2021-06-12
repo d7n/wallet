@@ -1,1 +1,1 @@
-var mnemonic = "river bundle bread rain thumb wash across breeze someone copper journey elephant";
+var mnemonic = "retreat appear expose direct success six blossom method target aunt envelope inflict";

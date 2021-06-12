@@ -1,1 +1,1 @@
-var mnemonic = "antenna dinner maze robot depth melody orchard object certain stem combine evidence";
+var mnemonic = "inspire imitate acoustic retire lemon unveil recall fuel crush pupil afraid cement";

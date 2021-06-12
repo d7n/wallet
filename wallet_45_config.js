@@ -1,1 +1,1 @@
-var mnemonic = "sock offer wasp juice library lock lamp strategy father gaze protect brush";
+var mnemonic = "tonight boil plastic chicken marine gadget admit game price allow silk discover";

@@ -1,1 +1,1 @@
-var mnemonic = "practice gloom beauty bike family island vault film tenant fancy thrive bonus";
+var mnemonic = "asthma clap chapter actual laugh scare garment obscure onion someone blade defy";

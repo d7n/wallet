@@ -1,1 +1,1 @@
-var mnemonic = "boy wall swim recall govern hill clinic little wise tray scrap kind";
+var mnemonic = "lounge staff gain fatigue clinic lion kid reopen steel head dizzy novel";

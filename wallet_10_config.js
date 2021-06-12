@@ -1,1 +1,1 @@
-var mnemonic = "doctor loud clean grit usual donkey repair forward resource never dentist nasty";
+var mnemonic = "goat train between donate rookie test fiscal clutch model insect fuel brick";

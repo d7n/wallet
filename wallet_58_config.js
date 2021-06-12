@@ -1,1 +1,1 @@
-var mnemonic = "success other victory zero pluck autumn unique stove bicycle route wolf girl";
+var mnemonic = "spice basket strategy budget faint coffee elder antique refuse feel custom extend";

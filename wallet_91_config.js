@@ -1,1 +1,1 @@
-var mnemonic = "monitor ghost provide pull hawk gospel faint follow typical alone panel jeans";
+var mnemonic = "never stock moment brick picture senior derive trap fossil moon fall afford";

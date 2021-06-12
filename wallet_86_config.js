@@ -1,1 +1,1 @@
-var mnemonic = "retire venue apology great swap doll peanut adult pluck account glue cash";
+var mnemonic = "submit lamp play venue license monitor bonus insane autumn describe rib minimum";

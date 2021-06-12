@@ -1,1 +1,1 @@
-var mnemonic = "tattoo impose normal hungry fiscal guess amount elite exclude admit absurd album";
+var mnemonic = "giggle win liquid spend sunny please flame palm humble paddle hybrid focus";

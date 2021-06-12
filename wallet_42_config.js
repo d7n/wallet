@@ -1,1 +1,1 @@
-var mnemonic = "dress copper grunt spell letter duck vanish swing cycle thing ethics weekend";
+var mnemonic = "guess angle eternal artist card hover install code gun match excite spray";

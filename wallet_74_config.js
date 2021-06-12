@@ -1,1 +1,1 @@
-var mnemonic = "lunar anchor erupt saddle siren cash honey toast blossom nothing ripple wrap";
+var mnemonic = "alert easily foot oak input loyal oval portion embody index visit forget";

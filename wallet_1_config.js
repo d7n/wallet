@@ -1,1 +1,1 @@
-var mnemonic = "hole group trial radar order impulse toward rug spray loop orange retreat";
+var mnemonic = "sound alter van east deer scheme spot bless true tomato guide add";

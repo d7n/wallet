@@ -1,1 +1,1 @@
-var mnemonic = "foil unusual gun bid address uphold laptop valve mouse ghost feed empower";
+var mnemonic = "depth orphan spread wrist excess nasty price bag render dragon pulse dutch";

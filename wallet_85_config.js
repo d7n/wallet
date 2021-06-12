@@ -1,1 +1,1 @@
-var mnemonic = "wrap hazard minimum oblige below fatigue bridge inform ankle image mobile leopard";
+var mnemonic = "blind miracle orphan suggest opinion breeze rebuild million light earth clutch flush";

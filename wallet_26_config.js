@@ -1,1 +1,1 @@
-var mnemonic = "delay thunder fan prison torch pink ladder treat invite cattle wet cotton";
+var mnemonic = "infant pencil pupil cradle alcohol frame ocean angry follow dizzy raise embrace";

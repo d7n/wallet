@@ -1,1 +1,1 @@
-var mnemonic = "relief hollow buddy know ignore brief umbrella winner swear canvas able aware";
+var mnemonic = "acoustic enough charge text picture ribbon wealth tackle spatial alley side ten";

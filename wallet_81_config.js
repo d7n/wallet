@@ -1,1 +1,1 @@
-var mnemonic = "cart spider diagram inhale brass comic same flavor marble purity dress metal";
+var mnemonic = "unlock city matrix finish aerobic climb into rally trigger spread list cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "like sugar noble beyond curious harvest employ play dirt another fury animal";
+var mnemonic = "chaos hen cram slab mask accident claim slide silver manage among goose";

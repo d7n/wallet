@@ -1,1 +1,1 @@
-var mnemonic = "govern ten lesson pepper husband multiply language fall loan coyote wish night";
+var mnemonic = "company hold cliff hockey stove magnet task armor critic upon gym almost";

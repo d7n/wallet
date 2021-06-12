@@ -1,1 +1,1 @@
-var mnemonic = "circle gospel panic blame decide head sustain nose nasty try slice reform";
+var mnemonic = "vault lizard famous forget now crucial shell occur cake door fabric oval";

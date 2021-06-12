@@ -1,1 +1,1 @@
-var mnemonic = "try priority recipe six badge device trick confirm question bar journey ride";
+var mnemonic = "broken afraid dice hub crash side runway gift moon polar harvest input";

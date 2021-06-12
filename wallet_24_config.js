@@ -1,1 +1,1 @@
-var mnemonic = "exclude cage present expire pizza olympic rebuild stable refuse execute glove bonus";
+var mnemonic = "inmate six envelope distance belt involve drift walk summer borrow vehicle hub";

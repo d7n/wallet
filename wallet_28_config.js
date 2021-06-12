@@ -1,1 +1,1 @@
-var mnemonic = "fantasy mind vast clay perfect treat citizen slot security faculty spray live";
+var mnemonic = "ritual abuse guilt sadness satisfy wonder timber hunt type door dice before";

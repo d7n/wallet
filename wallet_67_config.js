@@ -1,1 +1,1 @@
-var mnemonic = "call fresh immune surface beauty father parrot anxiety ghost asthma speed mobile";
+var mnemonic = "gown jacket address into saddle pepper wire fix stone slam truth protect";
