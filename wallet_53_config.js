@@ -1,1 +1,1 @@
-var mnemonic = "cheap cereal milk card face price assume limit solution vapor spoil labor";
+var mnemonic = "that photo learn cheap spatial blossom cool sing dirt news vote sea";

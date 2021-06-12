@@ -1,1 +1,1 @@
-var mnemonic = "bottom health laundry trap uncover mention vote list whip yard hub trouble";
+var mnemonic = "right angry sauce cash come ordinary tent point clarify treat clump grass";

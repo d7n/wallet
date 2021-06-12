@@ -1,1 +1,1 @@
-var mnemonic = "snake absorb radio bronze salon remove night camera asset kingdom notice admit";
+var mnemonic = "adjust fog exotic bread idle hand affair valid dynamic wealth smoke popular";

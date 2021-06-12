@@ -1,1 +1,1 @@
-var mnemonic = "hamster knock bus endorse master question funny denial fiber garlic bind sibling";
+var mnemonic = "empty warrior stable flock olympic sand gym average example summer couch wear";

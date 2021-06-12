@@ -1,1 +1,1 @@
-var mnemonic = "repair social imitate fiber explain fatigue live dignity ripple float crop trial";
+var mnemonic = "logic grit north gentle measure sunny ceiling carbon alter step minute mobile";

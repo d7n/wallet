@@ -1,1 +1,1 @@
-var mnemonic = "slow garment adapt cinnamon rug fan hire water motion song ride fever";
+var mnemonic = "body indicate decide south tuna man rude talk reveal captain fury injury";

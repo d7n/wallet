@@ -1,1 +1,1 @@
-var mnemonic = "alter intact picture venture rude more wisdom siege timber thought hunt six";
+var mnemonic = "easy artefact apple syrup demise milk force stadium ancient minimum bless faint";

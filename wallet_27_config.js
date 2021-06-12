@@ -1,1 +1,1 @@
-var mnemonic = "stadium seed pottery undo lonely meadow among bomb mandate cart air symptom";
+var mnemonic = "page ask harvest prefer note act aisle foster argue catch address protect";

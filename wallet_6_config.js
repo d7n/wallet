@@ -1,1 +1,1 @@
-var mnemonic = "payment dilemma raven deliver brush achieve lion glass music rough exclude motion";
+var mnemonic = "then crush control lawsuit motion olive relief mushroom predict tape violin mimic";

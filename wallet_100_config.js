@@ -1,1 +1,1 @@
-var mnemonic = "zero lumber animal reunion senior firm south concert noble ecology lucky force";
+var mnemonic = "echo lyrics pluck whisper cluster together assist leaf average diagram scorpion surge";

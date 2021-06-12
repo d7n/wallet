@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur toddler daughter blind celery fee humor onion joy aunt wife wild";
+var mnemonic = "bicycle slot avoid crouch stove device tag economy code dove carbon suffer";

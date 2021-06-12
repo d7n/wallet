@@ -1,1 +1,1 @@
-var mnemonic = "maximum frame elder obey escape grab radio salt gentle double you soldier";
+var mnemonic = "lunch fiscal life day civil extend catch wrist drip endorse juice mean";

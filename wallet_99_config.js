@@ -1,1 +1,1 @@
-var mnemonic = "earth swing improve pencil skate forget mobile begin latin enjoy gossip fossil";
+var mnemonic = "lyrics fiction symptom canoe stable elevator bonus neither material duty grape super";

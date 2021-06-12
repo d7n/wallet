@@ -1,1 +1,1 @@
-var mnemonic = "conduct chef odor trophy during remain assume lucky harsh little design visit";
+var mnemonic = "crater sword raven begin material dial album matter undo wage story rate";

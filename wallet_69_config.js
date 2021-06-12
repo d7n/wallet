@@ -1,1 +1,1 @@
-var mnemonic = "cushion prosper hawk kind laugh grit split exhibit song mechanic grape salute";
+var mnemonic = "police faint question ignore lesson spirit tape hint hair tool person believe";

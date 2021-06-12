@@ -1,1 +1,1 @@
-var mnemonic = "dog regret small range unknown mention mass team puppy fatigue pill tooth";
+var mnemonic = "fiscal repair rich faith record always differ bullet wedding brave cousin skirt";

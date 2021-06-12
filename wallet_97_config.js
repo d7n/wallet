@@ -1,1 +1,1 @@
-var mnemonic = "jar grab carry exit scorpion admit imitate drip book sphere position service";
+var mnemonic = "hire company industry century frame edit concert area marble amateur range sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty ribbon shaft fade example vast prosper elevator code dentist lens scatter";
+var mnemonic = "more box crumble duty wealth science such erase accuse verb lawn nuclear";

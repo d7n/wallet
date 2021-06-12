@@ -1,1 +1,1 @@
-var mnemonic = "lottery ugly release actual remove drop margin almost hello swap link arrest";
+var mnemonic = "brain siege expose team muffin when drastic skull zone broken bulb disagree";

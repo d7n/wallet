@@ -1,1 +1,1 @@
-var mnemonic = "woman cannon draft wear winter little spirit category caution mom insane goat";
+var mnemonic = "fire rebel ready hand error stool install select sound build corn profit";

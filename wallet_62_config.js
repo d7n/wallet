@@ -1,1 +1,1 @@
-var mnemonic = "property urge huge until tool discover glad pattern priority govern issue worry";
+var mnemonic = "bracket ranch display token blue mercy clog book document weekend usage habit";

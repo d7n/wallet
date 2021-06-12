@@ -1,1 +1,1 @@
-var mnemonic = "foot squeeze paddle push primary tennis urge march sister vehicle hockey use";
+var mnemonic = "damp wreck runway rail style essay weekend federal glass fiber edit question";

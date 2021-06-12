@@ -1,1 +1,1 @@
-var mnemonic = "hope muscle fat useful sun fog dial crater cargo ceiling lava green";
+var mnemonic = "raccoon purchase scheme hour aim response aspect monitor slogan occur emerge limb";

@@ -1,1 +1,1 @@
-var mnemonic = "verb day machine project laptop idle frost involve cactus school boring truck";
+var mnemonic = "harvest milk mixture coil oval zebra write network display hollow season train";

@@ -1,1 +1,1 @@
-var mnemonic = "service insane speed image blush alarm model coyote faculty wish crew short";
+var mnemonic = "usage morning verb trophy burger pool syrup either when final video disagree";

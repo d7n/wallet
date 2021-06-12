@@ -1,1 +1,1 @@
-var mnemonic = "industry roof leopard zero salute skin obscure gesture tornado grow nephew rocket";
+var mnemonic = "school boost exact water announce similar picture find method glory junk nest";

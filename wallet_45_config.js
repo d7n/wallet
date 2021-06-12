@@ -1,1 +1,1 @@
-var mnemonic = "dynamic future luxury wonder bundle burden marble property genius bid antenna item";
+var mnemonic = "guide whisper exotic excite property filter assume pilot column lava remain private";

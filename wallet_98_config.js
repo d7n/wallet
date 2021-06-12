@@ -1,1 +1,1 @@
-var mnemonic = "hybrid enroll task renew riot swarm among agent ugly holiday cram daughter";
+var mnemonic = "smile sudden swim dinner chat steak win fire music tower like note";

@@ -1,1 +1,1 @@
-var mnemonic = "use flag daring very erupt inch trust high social train bargain vessel";
+var mnemonic = "want degree gauge syrup elbow hybrid orbit manage weasel gap run track";

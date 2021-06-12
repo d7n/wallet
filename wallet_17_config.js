@@ -1,1 +1,1 @@
-var mnemonic = "street claim begin cherry jungle fabric scale kind sentence clinic drive better";
+var mnemonic = "update lady cart track bind either modify company drift march indicate attract";

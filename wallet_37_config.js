@@ -1,1 +1,1 @@
-var mnemonic = "legal blame train alien brass curious quick fortune ostrich leg cake leisure";
+var mnemonic = "slender wish topic suggest trap island debate fan rhythm bomb venture pear";

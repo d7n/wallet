@@ -1,1 +1,1 @@
-var mnemonic = "student truly olympic harvest mystery stage evil dirt proof close buffalo kiwi";
+var mnemonic = "salmon nature kiss tiger sample announce dolphin couple nuclear rotate order hill";

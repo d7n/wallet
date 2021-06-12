@@ -1,1 +1,1 @@
-var mnemonic = "false mushroom open hour filter any impulse roast correct supreme upgrade cry";
+var mnemonic = "have hockey mass right detail nation rack hill midnight tide broccoli lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "grow post dolphin sorry reduce light hunt expect else meadow fancy clip";
+var mnemonic = "split assault that jazz gate fix size drama rain wealth top crawl";

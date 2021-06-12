@@ -1,1 +1,1 @@
-var mnemonic = "august dizzy scout neck giggle cigar divorce panda pledge next describe cluster";
+var mnemonic = "derive quote leaf auction patient absurd soft glow slow network industry okay";

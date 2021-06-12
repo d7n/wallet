@@ -1,1 +1,1 @@
-var mnemonic = "decide rigid doctor person evolve heart draft share innocent wheel crumble steel";
+var mnemonic = "oxygen asthma crumble laptop salute autumn grunt reduce then onion giraffe disagree";

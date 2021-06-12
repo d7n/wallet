@@ -1,1 +1,1 @@
-var mnemonic = "program wrist toilet tribe initial sphere boss record monster address worth coil";
+var mnemonic = "target photo empower arrange flip pass gloom skate mule crack simple text";

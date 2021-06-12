@@ -1,1 +1,1 @@
-var mnemonic = "engine rib dirt tip ordinary fall cliff guess sugar exhibit execute pear";
+var mnemonic = "nerve bullet rate knee sugar still wolf mass cost kite whisper hospital";

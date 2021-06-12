@@ -1,1 +1,1 @@
-var mnemonic = "glue point blame danger screen conduct trip mail belt legend please escape";
+var mnemonic = "case smile century bridge uphold rival save mistake candy crystal cinnamon garbage";

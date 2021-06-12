@@ -1,1 +1,1 @@
-var mnemonic = "cover spirit salute loud transfer lunch jungle silver remember famous hello mouse";
+var mnemonic = "bullet loyal salute rent artefact trial gas park uncle lock clap pet";

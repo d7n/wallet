@@ -1,1 +1,1 @@
-var mnemonic = "make novel aim state around message suggest ribbon rookie fortune bicycle control";
+var mnemonic = "banner change rare laptop goddess fatal three blouse earth ordinary trap wreck";

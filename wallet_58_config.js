@@ -1,1 +1,1 @@
-var mnemonic = "chat session observe school sibling worry burger buzz dirt math inhale argue";
+var mnemonic = "index refuse client smart crawl depth weasel shiver achieve weapon pledge crane";

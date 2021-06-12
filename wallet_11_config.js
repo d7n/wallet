@@ -1,1 +1,1 @@
-var mnemonic = "snack accuse enable park resemble poem dance ghost crawl crowd clerk half";
+var mnemonic = "planet hundred wash axis they arrest hedgehog reject cinnamon action alone right";

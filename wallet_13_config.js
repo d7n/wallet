@@ -1,1 +1,1 @@
-var mnemonic = "amused boss company unhappy series result side alley razor song shop trumpet";
+var mnemonic = "cake work resemble execute brick submit width still more toward reform page";

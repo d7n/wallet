@@ -1,1 +1,1 @@
-var mnemonic = "submit account limb syrup false gasp job spy coast depth merry rain";
+var mnemonic = "joy beauty draft concert short clever find cross fall token wire ripple";

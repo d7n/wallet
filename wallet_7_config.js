@@ -1,1 +1,1 @@
-var mnemonic = "abstract cricket satisfy ski cheap gravity hawk office food party science bundle";
+var mnemonic = "drastic rigid solution pledge easy vote view riot trade play desert vague";

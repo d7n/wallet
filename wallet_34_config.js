@@ -1,1 +1,1 @@
-var mnemonic = "job satoshi tiger goddess seat south year meadow host coast coast weekend";
+var mnemonic = "talent drop leopard trip pact wave across leg picture fault crime confirm";

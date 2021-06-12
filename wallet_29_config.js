@@ -1,1 +1,1 @@
-var mnemonic = "arch cat turtle segment struggle earth rely spider embrace exit hybrid outdoor";
+var mnemonic = "brave cable naive arrest box car maximum release just mom select shrug";

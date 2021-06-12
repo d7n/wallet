@@ -1,1 +1,1 @@
-var mnemonic = "disagree when legal grit shiver bachelor tackle guard hole put trend pen";
+var mnemonic = "question trial carpet grow donor liberty absent couple install milk black term";

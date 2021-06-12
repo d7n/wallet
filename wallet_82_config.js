@@ -1,1 +1,1 @@
-var mnemonic = "barely ozone jazz polar theme rabbit alarm submit image time clay window";
+var mnemonic = "sound slide parrot spawn slab rabbit minute craft humble alcohol mail omit";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey exchange remove veteran screen wedding vehicle enjoy next account festival gentle";
+var mnemonic = "gain timber forest potato rough eyebrow sudden hazard hint goose hover cruel";

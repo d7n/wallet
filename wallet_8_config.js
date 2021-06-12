@@ -1,1 +1,1 @@
-var mnemonic = "night prosper roof inch bike hurry artwork latin taste seed inhale grocery";
+var mnemonic = "lend grass boss differ plug bench coral tone frequent toward blush flat";

@@ -1,1 +1,1 @@
-var mnemonic = "execute lamp exchange ancient figure juice employ model repair reopen job easily";
+var mnemonic = "axis property various slogan success plug since task manual banana result bonus";

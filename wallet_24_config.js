@@ -1,1 +1,1 @@
-var mnemonic = "theory unique filter pipe echo patrol mail hold grass afford ancient zero";
+var mnemonic = "level edge note include buddy replace bamboo dizzy genius join armor chase";

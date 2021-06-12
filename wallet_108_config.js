@@ -1,1 +1,1 @@
-var mnemonic = "hurry admit coast category story evil fit cloth six chef million unit";
+var mnemonic = "sight garment indicate digital work stumble author elephant ghost echo empower hedgehog";

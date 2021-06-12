@@ -1,1 +1,1 @@
-var mnemonic = "rabbit before decide cotton very exit save wish giggle spatial embrace receive";
+var mnemonic = "firm swarm item current stem price squeeze unfold leg just sorry voice";

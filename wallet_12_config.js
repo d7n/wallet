@@ -1,1 +1,1 @@
-var mnemonic = "flat panda network math claim entire visit mom ahead damp solar wide";
+var mnemonic = "siege involve bleak museum cabbage design bonus damage fitness bargain embark ready";

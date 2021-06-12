@@ -1,1 +1,1 @@
-var mnemonic = "ecology analyst build away home cricket ketchup bulk vapor food slush hungry";
+var mnemonic = "grow over shed relief lumber mutual mass extra dry memory under kind";

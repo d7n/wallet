@@ -1,1 +1,1 @@
-var mnemonic = "flag sunset that ethics pelican mass noodle heart daughter humor sing option";
+var mnemonic = "tomorrow sea argue egg bubble trick brother weather setup list clip famous";

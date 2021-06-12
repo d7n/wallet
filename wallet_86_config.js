@@ -1,1 +1,1 @@
-var mnemonic = "uniform permit twenty half crazy fiscal vocal pill piano curtain hotel hen";
+var mnemonic = "maze inform relax faculty inside fix trophy junk mango shoe sketch reduce";

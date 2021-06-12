@@ -1,1 +1,1 @@
-var mnemonic = "donate smoke north group kitchen poverty divide climb flat piano because horror";
+var mnemonic = "bag army flight jacket field bargain arrive grunt plate put drill bike";

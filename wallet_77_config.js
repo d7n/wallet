@@ -1,1 +1,1 @@
-var mnemonic = "laundry ball equal idle seven still ecology crunch bone giant come elephant";
+var mnemonic = "obey damage before tuna dog pudding benefit route circle loyal excite arch";

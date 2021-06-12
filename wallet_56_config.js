@@ -1,1 +1,1 @@
-var mnemonic = "demise speed find gold say tonight typical arm novel concert crowd gravity";
+var mnemonic = "involve elevator assume inner pig couple lamp title gaze muffin grief spatial";

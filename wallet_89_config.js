@@ -1,1 +1,1 @@
-var mnemonic = "baby matter know arrow toast tooth shock science pilot hole gorilla ten";
+var mnemonic = "sorry candy seed diagram group cushion close rent walk around debate razor";

@@ -1,1 +1,1 @@
-var mnemonic = "duck decline mirror napkin stock confirm invite link spot nest tiger isolate";
+var mnemonic = "dwarf carry omit style unique space pattern clinic school message dish gentle";

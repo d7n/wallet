@@ -1,1 +1,1 @@
-var mnemonic = "feed once onion rhythm ozone series similar lamp hour trophy oxygen cactus";
+var mnemonic = "senior zebra amused weasel peace finger survey hotel sting tone margin tenant";

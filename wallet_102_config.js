@@ -1,1 +1,1 @@
-var mnemonic = "mammal drastic image strike sail flush girl because park evil recycle chronic";
+var mnemonic = "symptom give risk country wonder caution foam issue lunch during stock tail";

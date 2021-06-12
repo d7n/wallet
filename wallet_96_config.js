@@ -1,1 +1,1 @@
-var mnemonic = "jump vacant squeeze pond leader goat smile alert dignity ring season bag";
+var mnemonic = "demand keen nose hill pottery brisk garage wolf juice reveal happy alert";

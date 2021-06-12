@@ -1,1 +1,1 @@
-var mnemonic = "praise wheat carry hospital crime write kidney saddle foil sport people rival";
+var mnemonic = "flush wing scheme weekend minimum output process anger nominee mad ritual swear";

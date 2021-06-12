@@ -1,1 +1,1 @@
-var mnemonic = "struggle dutch mountain theory window magnet lion ginger hour legal middle tent";
+var mnemonic = "lion vacuum cat ridge jar hammer tired wrong diagram slim cricket enrich";

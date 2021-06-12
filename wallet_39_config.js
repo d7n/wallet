@@ -1,1 +1,1 @@
-var mnemonic = "leg village carry panda spy vibrant they logic advance ball evolve own";
+var mnemonic = "usual relief dinner project diary funny butter object prize drip picnic ride";

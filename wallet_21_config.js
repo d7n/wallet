@@ -1,1 +1,1 @@
-var mnemonic = "budget roof vast day brisk put convince miss absent defense lecture glad";
+var mnemonic = "useless vague stay mushroom unusual voyage milk draft mirror merry organ jacket";

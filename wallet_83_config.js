@@ -1,1 +1,1 @@
-var mnemonic = "neglect auction message seven blue obvious retire guide draft author pull struggle";
+var mnemonic = "grab spend start coffee alley great another word ask accident case age";

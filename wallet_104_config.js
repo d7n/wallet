@@ -1,1 +1,1 @@
-var mnemonic = "tonight number kingdom lend escape wife purity tuna acquire situate odor forest";
+var mnemonic = "pelican job globe outdoor clinic betray actual number plunge dry library truly";

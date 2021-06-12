@@ -1,1 +1,1 @@
-var mnemonic = "dismiss junior rigid arm response miracle chest rubber whale baby boring kick";
+var mnemonic = "yard ugly attend chicken tumble sleep piano wrong garment pelican area purpose";

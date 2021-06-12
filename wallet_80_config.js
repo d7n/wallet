@@ -1,1 +1,1 @@
-var mnemonic = "power aunt polar unknown room level exhibit begin grace rack north half";
+var mnemonic = "seed lock then cement fantasy candy whisper under clog kick bring column";

@@ -1,1 +1,1 @@
-var mnemonic = "maid orange rack december inherit drop dumb fly nurse desk cash wool";
+var mnemonic = "tray nose soccer degree egg end blade addict lock cliff force weekend";

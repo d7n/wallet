@@ -1,1 +1,1 @@
-var mnemonic = "crucial radar sauce genuine dove they teach strike talent much arrest angle";
+var mnemonic = "rapid eyebrow air book dignity gravity dismiss industry rotate twist athlete public";

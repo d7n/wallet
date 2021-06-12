@@ -1,1 +1,1 @@
-var mnemonic = "finger banana cousin quick fiscal april creek shuffle domain trash few helmet";
+var mnemonic = "load ripple depart example all luxury armed energy half become economy fit";

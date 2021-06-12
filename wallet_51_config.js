@@ -1,1 +1,1 @@
-var mnemonic = "labor crack century tomato symbol pretty fashion naive clump peanut water midnight";
+var mnemonic = "ghost math clean corn duty lock reason present little urban vocal render";

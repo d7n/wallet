@@ -1,1 +1,1 @@
-var mnemonic = "cannon cup cross half humor fresh foil inherit trip easy box one";
+var mnemonic = "regret blast glad spice tuition fuel long couch weasel accident daughter example";

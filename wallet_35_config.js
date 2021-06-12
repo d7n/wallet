@@ -1,1 +1,1 @@
-var mnemonic = "cannon wear spell paddle double check decline expect youth wagon denial pluck";
+var mnemonic = "worry surround nominee wide umbrella stock pelican nose rose lens boat announce";

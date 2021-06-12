@@ -1,1 +1,1 @@
-var mnemonic = "hard funny reward erode hat pudding cupboard produce keep route donate dynamic";
+var mnemonic = "rocket slide tuna escape range all ritual age page dizzy wheel iron";
