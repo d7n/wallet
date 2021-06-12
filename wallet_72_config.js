@@ -1,1 +1,1 @@
-var mnemonic = "explain surface exclude dish assist repeat gallery normal camera digital spot wedding";
+var mnemonic = "churn dust thank recall pulse mass soon leader buyer green liberty verb";

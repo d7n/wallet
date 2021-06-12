@@ -1,1 +1,1 @@
-var mnemonic = "museum poverty meadow faith sleep turtle lawsuit nasty fury ship radar creek";
+var mnemonic = "canyon radar hour wheat delay notable seven wait rapid upset exotic promote";

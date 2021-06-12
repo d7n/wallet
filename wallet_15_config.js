@@ -1,1 +1,1 @@
-var mnemonic = "rug gospel donkey holiday truly fit mixture feel degree penalty caution group";
+var mnemonic = "tray easy master inmate rich globe fault limb parent action aunt polar";

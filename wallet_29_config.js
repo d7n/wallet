@@ -1,1 +1,1 @@
-var mnemonic = "spray boy fix link uniform mystery index rain author response december stable";
+var mnemonic = "hat census mansion pig kit delay humor bitter call version leave exile";

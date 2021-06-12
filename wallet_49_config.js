@@ -1,1 +1,1 @@
-var mnemonic = "vintage morning action device bridge team space start address thought home vault";
+var mnemonic = "alarm obtain arena tube nasty vacuum large pause bargain champion brown evolve";

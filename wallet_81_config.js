@@ -1,1 +1,1 @@
-var mnemonic = "suggest skill inject satisfy come grief riot amused human radio limb school";
+var mnemonic = "amateur mechanic ship diesel reward film ball aerobic impulse whip slam away";

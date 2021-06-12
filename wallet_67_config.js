@@ -1,1 +1,1 @@
-var mnemonic = "room erase chuckle aerobic produce brave faith question become share swamp large";
+var mnemonic = "soul cereal language satisfy moon swim thrive abuse execute disorder lamp number";

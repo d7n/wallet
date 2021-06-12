@@ -1,1 +1,1 @@
-var mnemonic = "live maple wasp aim example machine brief spell wheel awesome play lens";
+var mnemonic = "slot nice access pony repair pride push dress success exit educate emotion";

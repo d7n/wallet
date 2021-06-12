@@ -1,1 +1,1 @@
-var mnemonic = "apple position bargain gate night marble mushroom blush left word menu into";
+var mnemonic = "weird twelve fold aim nature work fly menu small afford million wasp";

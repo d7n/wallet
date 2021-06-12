@@ -1,1 +1,1 @@
-var mnemonic = "cattle dove collect track occur fit elegant journey pilot usual mesh absorb";
+var mnemonic = "muffin ride property metal melt buyer view explain grocery clown warm much";

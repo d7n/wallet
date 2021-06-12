@@ -1,1 +1,1 @@
-var mnemonic = "worth transfer robust author evil youth cousin december erode tribe fabric exact";
+var mnemonic = "assume exile tell ship original minute skill grant life inspire phone praise";

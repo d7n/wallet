@@ -1,1 +1,1 @@
-var mnemonic = "mule wagon seat kid shock sleep concert van culture strike spice caught";
+var mnemonic = "pipe spoon car fatal choose current fork laundry scare ladder lake tumble";

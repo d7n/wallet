@@ -1,1 +1,1 @@
-var mnemonic = "virus clutch armor icon pottery rude check chronic fault garment bar purity";
+var mnemonic = "display vendor balance mean swift carpet erode draw disagree fault else honey";

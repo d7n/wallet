@@ -1,1 +1,1 @@
-var mnemonic = "proud enjoy seat kit material dog cable join core item convince egg";
+var mnemonic = "stage wrong drama cluster end holiday below praise balcony exotic viable embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "machine method latin absurd left girl crane want salon lunch short ignore";
+var mnemonic = "engine suspect dismiss horror debate pitch sentence science near banana river tiger";

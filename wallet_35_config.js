@@ -1,1 +1,1 @@
-var mnemonic = "fancy chunk polar depend happy inner trick brain coyote repeat genius later";
+var mnemonic = "narrow cliff trip combine federal code snack nothing mouse mask waste install";

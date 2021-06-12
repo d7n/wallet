@@ -1,1 +1,1 @@
-var mnemonic = "essence tourist choice health tourist end use body margin unusual injury bracket";
+var mnemonic = "worry bus diesel safe logic slush meadow hole bleak dawn patrol orphan";

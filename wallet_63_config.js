@@ -1,1 +1,1 @@
-var mnemonic = "behind parent layer charge truly column vessel ability client entry buddy lawsuit";
+var mnemonic = "veteran sauce genuine half nest envelope goose present switch pottery acid urban";

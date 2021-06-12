@@ -1,1 +1,1 @@
-var mnemonic = "lottery measure hope acoustic double utility horror actress pull glory wood earth";
+var mnemonic = "shoulder pave olympic brick lady cash lion grunt away under favorite renew";

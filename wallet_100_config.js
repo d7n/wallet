@@ -1,1 +1,1 @@
-var mnemonic = "begin warrior parrot love slow remain exact melody camera raven video web";
+var mnemonic = "burst news desk alpha oppose apple three kiwi giraffe lamp beef acid";

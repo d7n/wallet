@@ -1,1 +1,1 @@
-var mnemonic = "toe staff merit mixed penalty horse mutual search color country supply broccoli";
+var mnemonic = "waste street next join funny hello enhance heavy undo guard board choice";

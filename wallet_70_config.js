@@ -1,1 +1,1 @@
-var mnemonic = "game twin lonely draw reunion birth embark prepare exotic security vivid type";
+var mnemonic = "master siren satisfy know voice similar shock more animal dash radar glide";

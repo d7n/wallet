@@ -1,1 +1,1 @@
-var mnemonic = "parade kind gallery survey tenant mountain arrive royal quarter garage matter input";
+var mnemonic = "lake midnight onion pond picnic aisle crazy caught wall hero basic car";

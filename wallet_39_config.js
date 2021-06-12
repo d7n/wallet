@@ -1,1 +1,1 @@
-var mnemonic = "speed casual exit globe raw chronic offer evidence loud pumpkin original mammal";
+var mnemonic = "moral exhibit lobster layer foil swarm sniff maid gentle pistol giraffe history";

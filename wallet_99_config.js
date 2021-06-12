@@ -1,1 +1,1 @@
-var mnemonic = "candy throw harbor pig fashion lady special impact lion essay couple erode";
+var mnemonic = "odor hen awesome flower usual horn sunny session script silver enter spread";

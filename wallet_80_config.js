@@ -1,1 +1,1 @@
-var mnemonic = "anchor fire bacon elegant mass lizard intact soft design aware jump chase";
+var mnemonic = "piano pet ticket dutch choose steel luggage math setup soldier promote sort";

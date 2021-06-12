@@ -1,1 +1,1 @@
-var mnemonic = "enforce flip avocado learn myself mule heart over urge palace oak bubble";
+var mnemonic = "hammer tortoise learn replace fetch timber cart flee ordinary agree judge fox";

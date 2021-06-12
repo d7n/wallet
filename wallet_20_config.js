@@ -1,1 +1,1 @@
-var mnemonic = "kind fiscal foot walk achieve never edge script weapon unfold web decrease";
+var mnemonic = "cruel gauge excite puppy seek opinion flame globe hip bench boil scale";

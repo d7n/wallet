@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow exclude deputy spider mechanic predict notice panda cannon ice minor pizza";
+var mnemonic = "stomach believe lucky release recycle blame token busy minute harbor scene finish";

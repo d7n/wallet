@@ -1,1 +1,1 @@
-var mnemonic = "ready onion stage tortoise over camera clerk reason clock thumb peanut involve";
+var mnemonic = "horn tunnel shoot swamp skill vocal wink hill absent typical zero punch";

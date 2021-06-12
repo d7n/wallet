@@ -1,1 +1,1 @@
-var mnemonic = "furnace marble shield wedding atom cousin road motor able know squirrel crunch";
+var mnemonic = "spike hawk legend able price country reveal bring runway vapor seat polar";

@@ -1,1 +1,1 @@
-var mnemonic = "flee chair awesome drive stove dry head unhappy island way pulse keen";
+var mnemonic = "witness vast carry follow alien brief worth palm position web offer clump";

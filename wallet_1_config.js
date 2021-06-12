@@ -1,1 +1,1 @@
-var mnemonic = "run butter fortune found evolve thing canoe fury dry hire crunch define";
+var mnemonic = "twin refuse scatter figure gadget swamp mango canal property economy avocado deer";

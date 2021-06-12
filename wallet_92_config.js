@@ -1,1 +1,1 @@
-var mnemonic = "broom because symbol river cake toy celery cushion mimic organ edge common";
+var mnemonic = "dash blanket virus vicious market rely cram tumble adult muscle south door";

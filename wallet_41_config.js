@@ -1,1 +1,1 @@
-var mnemonic = "topple knock resource any topic wild vast maze quiz immune silver alcohol";
+var mnemonic = "addict client punch collect rebuild wolf travel attitude mammal tilt fragile over";

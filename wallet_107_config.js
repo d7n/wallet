@@ -1,1 +1,1 @@
-var mnemonic = "exhibit scout lava tray solar float crew police wink normal enjoy occur";
+var mnemonic = "voice flash strong churn vast course torch pool school grow donor dumb";

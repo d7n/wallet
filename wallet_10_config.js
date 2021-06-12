@@ -1,1 +1,1 @@
-var mnemonic = "keep large raven olive ship scale inform wheat radar outer know hand";
+var mnemonic = "stage tribe accident mandate palm spin pottery enough climb horror garden often";

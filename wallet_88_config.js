@@ -1,1 +1,1 @@
-var mnemonic = "usage guess once torch ecology foot dynamic eye leopard marine hard nest";
+var mnemonic = "advice trumpet walnut amused matrix unusual stick wealth bird enable view rescue";

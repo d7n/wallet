@@ -1,1 +1,1 @@
-var mnemonic = "carpet traffic core expand lift ensure essay fog edge pass old salute";
+var mnemonic = "erase ridge enemy sentence dentist purse naive prison doll gospel adapt kitten";

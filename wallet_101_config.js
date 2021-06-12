@@ -1,1 +1,1 @@
-var mnemonic = "oxygen relax basket medal mansion scissors crater engine school tumble seminar fox";
+var mnemonic = "hybrid devote myth tortoise hammer gasp bullet runway tell purchase kitten release";

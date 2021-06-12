@@ -1,1 +1,1 @@
-var mnemonic = "bag believe reduce away noise script soda genre dish edge wheat cat";
+var mnemonic = "umbrella derive hospital impact swim also process census oval scatter argue december";

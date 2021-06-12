@@ -1,1 +1,1 @@
-var mnemonic = "high inherit cousin shift concert naive topic patient cause neglect major cube";
+var mnemonic = "actress caution skin offer admit crop skirt spoon dragon income ensure grape";

@@ -1,1 +1,1 @@
-var mnemonic = "creek local banner blur job recipe language verb supreme crush lady december";
+var mnemonic = "action obvious already erupt spell regret fancy envelope reveal deposit valve suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "aim method luggage exotic hole humor black hope burger iron lawsuit promote";
+var mnemonic = "orange tobacco script business hurry exit enjoy call soda rate frozen giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "curious crumble own split rescue end actress suggest swallow flush season mandate";
+var mnemonic = "helmet acquire glad message idle word fan can monitor rack monkey chaos";

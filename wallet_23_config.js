@@ -1,1 +1,1 @@
-var mnemonic = "average sail abstract twelve pupil best code range eight river dog cake";
+var mnemonic = "garbage grow champion wash owner attract scissors dentist endless enlist noble until";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight damage quarter chapter opera drip trouble hybrid duck aisle regret diagram";
+var mnemonic = "input scene panda song copy voice office level kid science brain step";

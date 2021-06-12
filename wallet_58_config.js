@@ -1,1 +1,1 @@
-var mnemonic = "object spoon satoshi rebel reduce cradle gun coyote obscure amount notable note";
+var mnemonic = "captain carpet wrong tiger exclude life between shed food certain robust amused";

@@ -1,1 +1,1 @@
-var mnemonic = "usage ridge happy stem spray february income furnace general stairs vivid evoke";
+var mnemonic = "fashion lobster slim lion become cute ordinary place affair grant urge drop";

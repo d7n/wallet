@@ -1,1 +1,1 @@
-var mnemonic = "cabin police option ladder fossil home rib image unit photo broccoli equip";
+var mnemonic = "typical pond planet royal divert elbow effort town garden clog bronze member";

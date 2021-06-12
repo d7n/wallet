@@ -1,1 +1,1 @@
-var mnemonic = "split able sheriff number rude glove process shell horse rabbit view link";
+var mnemonic = "siren country pledge innocent point camp flight mammal name mistake race notable";

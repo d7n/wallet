@@ -1,1 +1,1 @@
-var mnemonic = "jazz dance choose convince zoo elegant dynamic tilt song jacket timber travel";
+var mnemonic = "road hedgehog youth dwarf tuition impose regret swarm shy advice gold fatigue";

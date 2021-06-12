@@ -1,1 +1,1 @@
-var mnemonic = "scorpion goose apology display marine salad horse excuse half rather delay toe";
+var mnemonic = "float left swear captain soul possible member abuse sad sad pioneer thrive";

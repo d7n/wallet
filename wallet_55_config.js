@@ -1,1 +1,1 @@
-var mnemonic = "bus benefit connect belt sport survey project hair pulp ridge fuel vanish";
+var mnemonic = "gift clog laptop match aisle forum bring clock sad tired amateur left";

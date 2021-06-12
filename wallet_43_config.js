@@ -1,1 +1,1 @@
-var mnemonic = "frequent dolphin shoe liquid above banana lunar tragic target direct eagle monitor";
+var mnemonic = "increase need hair supreme error push wash peanut curve dwarf nurse skin";

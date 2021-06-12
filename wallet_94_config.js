@@ -1,1 +1,1 @@
-var mnemonic = "antique mistake kind duty reform submit bus struggle rebel dinosaur romance impact";
+var mnemonic = "cattle shield heavy share sniff client celery actual exit loan struggle desert";

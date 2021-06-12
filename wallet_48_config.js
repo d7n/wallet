@@ -1,1 +1,1 @@
-var mnemonic = "song pact ring flush stomach cactus woman bacon alley announce project upon";
+var mnemonic = "tank rose dinosaur dynamic proof donor bread fork pass clarify ski iron";

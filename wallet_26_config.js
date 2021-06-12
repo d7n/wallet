@@ -1,1 +1,1 @@
-var mnemonic = "churn hungry arrange provide need crew siege reduce doctor inhale gravity million";
+var mnemonic = "giggle brisk improve dish firm weather flower undo involve enter code tattoo";

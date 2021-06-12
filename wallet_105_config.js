@@ -1,1 +1,1 @@
-var mnemonic = "wild side category file note flock delay filter direct affair ceiling eager";
+var mnemonic = "useful cage minute beach security mass lesson foil differ magic shift approve";

@@ -1,1 +1,1 @@
-var mnemonic = "slide addict ill chef misery rubber stomach sleep orphan buyer mean all";
+var mnemonic = "fiscal luxury shell core clerk image priority detect orient dumb picture water";

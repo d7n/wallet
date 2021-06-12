@@ -1,1 +1,1 @@
-var mnemonic = "enable put ten course lock glue figure seed strong service swift fee";
+var mnemonic = "find globe car wide drink clever burden lion give panther jelly brief";

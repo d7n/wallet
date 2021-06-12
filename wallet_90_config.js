@@ -1,1 +1,1 @@
-var mnemonic = "bone home blind uniform next brisk uphold glare menu fancy hazard stand";
+var mnemonic = "gauge bamboo shiver bean lava whale series bamboo friend finger raccoon supply";

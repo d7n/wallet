@@ -1,1 +1,1 @@
-var mnemonic = "hand craft famous control daughter screen repair call degree steel ten memory";
+var mnemonic = "female clutch trade punch zero venue dumb start depend adult cradle enroll";

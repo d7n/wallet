@@ -1,1 +1,1 @@
-var mnemonic = "abuse leg produce trust egg nasty sock opinion purpose zone youth thank";
+var mnemonic = "video bag broccoli grace champion hurt sniff remain innocent mimic novel response";

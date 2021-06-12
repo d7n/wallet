@@ -1,1 +1,1 @@
-var mnemonic = "work ethics adjust pair mistake upgrade attack text sponsor isolate grocery hawk";
+var mnemonic = "fiction cross symbol depart denial quantum crumble bundle syrup admit egg praise";

@@ -1,1 +1,1 @@
-var mnemonic = "wide crazy spy life barely sign surround buffalo lamp salad tank swallow";
+var mnemonic = "clap bike hero gun eight castle chimney fine result sentence expand capable";

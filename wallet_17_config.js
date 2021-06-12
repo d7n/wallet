@@ -1,1 +1,1 @@
-var mnemonic = "next pig learn today piano antenna adapt bench comic rail margin excuse";
+var mnemonic = "face race soft stem video tiny gate chat render ahead load army";

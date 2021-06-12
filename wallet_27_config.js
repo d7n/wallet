@@ -1,1 +1,1 @@
-var mnemonic = "arena brother toddler solution analyst tenant doll calm display clerk drip fault";
+var mnemonic = "dragon crime fog winner mad human robust sail lucky place vibrant sample";

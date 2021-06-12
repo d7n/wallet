@@ -1,1 +1,1 @@
-var mnemonic = "head business motion rally apart copper sustain waste arrive average stumble crunch";
+var mnemonic = "april virus bitter capable become narrow govern girl method submit walnut forget";

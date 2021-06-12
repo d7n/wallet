@@ -1,1 +1,1 @@
-var mnemonic = "steak exhibit more entry pulp boat there found length gorilla bicycle pretty";
+var mnemonic = "cotton frown beauty aim position deliver theory bulk affair measure elegant lounge";

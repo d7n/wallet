@@ -1,1 +1,1 @@
-var mnemonic = "leisure pigeon tiny knock abuse resemble beyond cinnamon trip harbor clog crystal";
+var mnemonic = "strong carry excuse decide frame tower supreme young valve route original network";

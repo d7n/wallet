@@ -1,1 +1,1 @@
-var mnemonic = "settle peanut subway nurse emerge fun disorder decade endorse awful vacant shine";
+var mnemonic = "ignore oblige scrub lonely donate purity online moon record sister mouse visa";

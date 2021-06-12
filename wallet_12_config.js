@@ -1,1 +1,1 @@
-var mnemonic = "feel average naive horn bread guilt panther dignity attack dog name twist";
+var mnemonic = "nice large ensure hedgehog unit remind reveal evil derive dice receive knee";

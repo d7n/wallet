@@ -1,1 +1,1 @@
-var mnemonic = "sugar half switch physical advance kick cube giraffe unusual ability athlete path";
+var mnemonic = "they guide grit icon void until system clip entry knock aunt cake";

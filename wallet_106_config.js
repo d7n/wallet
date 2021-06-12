@@ -1,1 +1,1 @@
-var mnemonic = "clog digital crack innocent tornado leisure copper erosion artefact dutch plate profit";
+var mnemonic = "glide group village color version shield cry churn favorite tornado pink chapter";

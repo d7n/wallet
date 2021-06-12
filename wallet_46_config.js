@@ -1,1 +1,1 @@
-var mnemonic = "luggage price chaos truck accuse recycle april gym either hope then always";
+var mnemonic = "dune nominee pole asset brush yellow curve toast until hat seat recipe";

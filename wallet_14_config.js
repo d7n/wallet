@@ -1,1 +1,1 @@
-var mnemonic = "height eight nose extra genre work reward can spice gesture virus place";
+var mnemonic = "reason home input shoe silly receive cute deal crunch poet helmet divert";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow huge resemble uncle cycle hint opinion gossip brush night bunker spend";
+var mnemonic = "aspect animal knee rocket whale maximum alley right plastic enforce warm abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital bachelor flock champion normal denial few jewel web claim double figure";
+var mnemonic = "extra illegal lamp outer calm uncle lobster excite annual dice jelly slush";

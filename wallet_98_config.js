@@ -1,1 +1,1 @@
-var mnemonic = "pipe cancel grant session smile reopen spatial turtle traffic fringe drink device";
+var mnemonic = "wrist silver dizzy festival erosion roof million arrive flame wool thrive liquid";

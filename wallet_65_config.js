@@ -1,1 +1,1 @@
-var mnemonic = "innocent two lecture miss aspect fit length bachelor syrup era smoke manual";
+var mnemonic = "palace enact school tumble peanut use fantasy wonder romance gas access inflict";

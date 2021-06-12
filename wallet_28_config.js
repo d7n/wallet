@@ -1,1 +1,1 @@
-var mnemonic = "holiday disagree cross quarter gallery critic ripple grid reduce area cube aspect";
+var mnemonic = "pistol ranch exchange hotel hollow magic ceiling venue toss filter equal soda";

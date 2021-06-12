@@ -1,1 +1,1 @@
-var mnemonic = "curious soccer bicycle orange clock submit olympic polar sugar betray evidence brother";
+var mnemonic = "common uncle smooth hen scissors tell weapon volume wheel neither festival sustain";

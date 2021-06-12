@@ -1,1 +1,1 @@
-var mnemonic = "news lend normal enable ozone obvious dice symbol morning sail weird this";
+var mnemonic = "fire kiss require beyond gesture label debate trust gesture near mix valley";

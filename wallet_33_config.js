@@ -1,1 +1,1 @@
-var mnemonic = "soul patient prison coral purity benefit pyramid jacket meat estate shine zero";
+var mnemonic = "kiss talent market review cost high pact gauge chief strike aunt select";

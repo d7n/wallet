@@ -1,1 +1,1 @@
-var mnemonic = "ramp above own they pact capable surprise menu usual during vibrant shuffle";
+var mnemonic = "combine connect beyond relax ostrich dose recycle brain debris pass way shaft";

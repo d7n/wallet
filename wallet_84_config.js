@@ -1,1 +1,1 @@
-var mnemonic = "once legend sorry lady feed spray romance mango talk identify cargo anchor";
+var mnemonic = "idle risk bone way upset match burden match tiger input snap cart";

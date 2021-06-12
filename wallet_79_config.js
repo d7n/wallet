@@ -1,1 +1,1 @@
-var mnemonic = "tenant child young license spy rookie pizza view tired chaos harsh awkward";
+var mnemonic = "copy obtain present garbage expose morning direct fee butter crater green dice";

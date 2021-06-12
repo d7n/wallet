@@ -1,1 +1,1 @@
-var mnemonic = "cancel fluid jump enhance kangaroo fantasy clinic buzz ozone antenna ignore hard";
+var mnemonic = "client december solid sort tip senior sock smart pattern expose witness usage";

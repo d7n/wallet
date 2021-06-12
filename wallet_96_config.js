@@ -1,1 +1,1 @@
-var mnemonic = "siege race elder lesson journey gloom horror adult fee network goat stairs";
+var mnemonic = "panic public mammal blanket tragic mimic merit expire among quarter purchase door";
