@@ -1,1 +1,1 @@
-var mnemonic = "arm few future sell bachelor cargo adapt slim fruit clown drastic other";
+var mnemonic = "ignore address pledge onion nephew boring lecture toward clarify myself carry strategy";

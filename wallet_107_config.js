@@ -1,1 +1,1 @@
-var mnemonic = "strike artist turn squirrel tattoo pair jump belt shadow spoon wedding maximum";
+var mnemonic = "solution chapter clarify cabbage exercise hedgehog beef round account body tuition tuna";

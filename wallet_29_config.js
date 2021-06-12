@@ -1,1 +1,1 @@
-var mnemonic = "salt where garment loan void say help twenty loyal purchase donate toilet";
+var mnemonic = "board rather ribbon myself knife come correct obscure thank vivid borrow help";

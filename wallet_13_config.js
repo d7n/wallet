@@ -1,1 +1,1 @@
-var mnemonic = "annual traffic armed cream slab sister bicycle impulse artefact donkey want goat";
+var mnemonic = "car jazz myth winter wasp escape first hood owner boss stone anxiety";

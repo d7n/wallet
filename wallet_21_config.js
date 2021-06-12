@@ -1,1 +1,1 @@
-var mnemonic = "harsh symbol because guilt abandon foot expand erosion purity fold aerobic auto";
+var mnemonic = "upon flower rely find thought slogan december awesome already empty great taxi";

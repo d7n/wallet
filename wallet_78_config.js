@@ -1,1 +1,1 @@
-var mnemonic = "gym empower employ bleak album jelly nerve measure riot toy eight length";
+var mnemonic = "modify vital seek nasty donor crawl foster strategy enact sorry pyramid beyond";

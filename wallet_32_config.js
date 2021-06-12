@@ -1,1 +1,1 @@
-var mnemonic = "table aunt plate twenty flash wheat credit palm slight column news street";
+var mnemonic = "future convince decline strong amused slab trumpet knife hawk earth cart impact";

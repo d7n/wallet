@@ -1,1 +1,1 @@
-var mnemonic = "castle kiwi final forest mimic camera seed song now risk people romance";
+var mnemonic = "imitate hurdle foot youth crumble clock repeat clinic ritual shallow rack noble";

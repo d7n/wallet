@@ -1,1 +1,1 @@
-var mnemonic = "hurdle genuine taxi kitten census left clown wide figure museum useless false";
+var mnemonic = "embody harsh bridge polar divorce license struggle because major waste cherry dutch";

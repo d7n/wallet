@@ -1,1 +1,1 @@
-var mnemonic = "joke orphan wrap stomach smoke castle lottery split final way famous letter";
+var mnemonic = "donkey ceiling identify naive comfort under garlic category hockey affair debris open";

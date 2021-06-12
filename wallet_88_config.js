@@ -1,1 +1,1 @@
-var mnemonic = "brick burst rural dance manage gossip clean spare behind original later guard";
+var mnemonic = "steel unlock vapor parade teach quiz involve photo birth sketch scene leg";

@@ -1,1 +1,1 @@
-var mnemonic = "direct grid hero flag increase utility arrange place plate dismiss donkey unique";
+var mnemonic = "inner copper supreme run cloth shop casual program green faint write corn";

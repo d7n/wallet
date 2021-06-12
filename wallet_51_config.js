@@ -1,1 +1,1 @@
-var mnemonic = "replace like vendor erosion insane century awake ankle bargain mixture type welcome";
+var mnemonic = "autumn ozone plate sure task crack honey attend matrix behave sight screen";

@@ -1,1 +1,1 @@
-var mnemonic = "pole prison father sign tobacco avocado antique attract shrug insect left flash";
+var mnemonic = "better beach voyage cube monkey bubble core chunk reject scrap strike water";

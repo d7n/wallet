@@ -1,1 +1,1 @@
-var mnemonic = "person rescue noble city erode multiply life volcano quote old uncover scatter";
+var mnemonic = "company fragile unit ghost suggest age tourist arrange govern share giggle genuine";

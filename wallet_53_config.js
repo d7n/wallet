@@ -1,1 +1,1 @@
-var mnemonic = "brown clump cliff lesson claw blue print blush soup wine asthma omit";
+var mnemonic = "manage garden piece ribbon parade put chase range frown stay moment material";

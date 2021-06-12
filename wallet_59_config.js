@@ -1,1 +1,1 @@
-var mnemonic = "coffee kangaroo sister noodle glance hunt huge pistol bomb vivid innocent timber";
+var mnemonic = "party latin dust pony pledge hold boss blanket spider finish unable layer";

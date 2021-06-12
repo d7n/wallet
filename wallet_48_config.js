@@ -1,1 +1,1 @@
-var mnemonic = "submit shed enough improve year device village domain outdoor eye dust limit";
+var mnemonic = "tobacco kit mesh bulb source divorce fringe bean call arena wheel salute";

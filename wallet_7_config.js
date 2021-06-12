@@ -1,1 +1,1 @@
-var mnemonic = "supply earn angry discover exist mammal uncle dust please upgrade upgrade tiger";
+var mnemonic = "able humble stamp mistake pulp milk advance capital oyster decorate settle tobacco";

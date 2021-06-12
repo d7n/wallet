@@ -1,1 +1,1 @@
-var mnemonic = "process shop conduct identify flush dizzy eagle increase place ten pledge enroll";
+var mnemonic = "smart farm woman frog laptop mobile list easy animal fringe adjust busy";

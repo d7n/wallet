@@ -1,1 +1,1 @@
-var mnemonic = "gravity farm popular myth panel rotate chase wink dynamic nice industry mutual";
+var mnemonic = "type divide absorb maximum bless wheat force author excuse tag range ankle";

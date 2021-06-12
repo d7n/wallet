@@ -1,1 +1,1 @@
-var mnemonic = "skirt connect column uncover person great kingdom wolf put cable hold onion";
+var mnemonic = "scare baby insect kitten local cradle thought trust enable february soul flame";

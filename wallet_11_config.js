@@ -1,1 +1,1 @@
-var mnemonic = "bind yard extend crash chunk fine immune era eager insect milk occur";
+var mnemonic = "scheme spoil fiber mimic rubber actual device toe popular aim run tennis";

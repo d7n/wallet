@@ -1,1 +1,1 @@
-var mnemonic = "reopen earn wave talk buffalo panda oyster bronze vacuum unit tobacco sniff";
+var mnemonic = "pledge conduct thought exit hammer unlock lab group segment tone raven twenty";

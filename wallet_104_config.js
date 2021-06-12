@@ -1,1 +1,1 @@
-var mnemonic = "wreck eyebrow pony buffalo hurdle siren song video giraffe crunch shock misery";
+var mnemonic = "argue toward room genuine cabin silver jungle dash actual document life beyond";

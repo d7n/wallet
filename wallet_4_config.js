@@ -1,1 +1,1 @@
-var mnemonic = "bonus attack ketchup grocery fatigue lesson squirrel nut sight depth faculty black";
+var mnemonic = "truck confirm march balcony either clog gather meadow gather series garage neck";

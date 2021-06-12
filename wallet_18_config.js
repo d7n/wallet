@@ -1,1 +1,1 @@
-var mnemonic = "strong weird upset shoe movie energy summer green endorse unknown timber blur";
+var mnemonic = "topic update cluster grape beach top any moral jacket disagree toast twelve";

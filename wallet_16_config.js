@@ -1,1 +1,1 @@
-var mnemonic = "snack globe tennis swift miss crew broken quarter service loyal narrow sight";
+var mnemonic = "valid oxygen talk correct gown modify enemy clerk accident ribbon seven priority";

@@ -1,1 +1,1 @@
-var mnemonic = "morning casual float memory hip chef sign peanut ski vacant grocery father";
+var mnemonic = "grid around trade shop entry sheriff antique biology escape horse hub ready";

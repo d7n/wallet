@@ -1,1 +1,1 @@
-var mnemonic = "concert oblige topple reduce goat else release rare draft quit okay adjust";
+var mnemonic = "fortune door coyote print pause wire bar violin layer net else young";

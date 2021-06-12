@@ -1,1 +1,1 @@
-var mnemonic = "figure rather tray slow pluck sword forget salmon image inch wool sphere";
+var mnemonic = "record junk olympic evolve shadow right frozen large genre sign frown opinion";

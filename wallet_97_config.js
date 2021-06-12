@@ -1,1 +1,1 @@
-var mnemonic = "ginger merry hour buffalo abuse corn foster grab secret lumber emerge stool";
+var mnemonic = "beef crane word memory crew unaware arrange capable thank lend grab attitude";

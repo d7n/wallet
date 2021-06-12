@@ -1,1 +1,1 @@
-var mnemonic = "easy oblige hotel act dance sudden crazy talent high runway liquid crew";
+var mnemonic = "rabbit polar coral melody rather drop much region jump special breeze rack";

@@ -1,1 +1,1 @@
-var mnemonic = "simple hobby axis angle random aware neck city entry unlock opinion scrub";
+var mnemonic = "caught lyrics legal faculty exhaust cage benefit crunch crowd gossip lake guilt";

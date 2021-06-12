@@ -1,1 +1,1 @@
-var mnemonic = "spring place hand use december deputy answer unhappy olympic cat better pink";
+var mnemonic = "shield notice keep nerve crane cabin blame survey marriage fabric stadium avocado";

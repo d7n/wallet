@@ -1,1 +1,1 @@
-var mnemonic = "head child deliver jealous frost piano clip balcony hair pill piece cancel";
+var mnemonic = "biology hurt torch wife color deposit switch barrel soda plug document depend";

@@ -1,1 +1,1 @@
-var mnemonic = "urge finish glove purpose lesson flee rent silk grid deliver second exclude";
+var mnemonic = "remove snack armed lucky jacket knee medal online release unhappy update educate";

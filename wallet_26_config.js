@@ -1,1 +1,1 @@
-var mnemonic = "inform quote tragic access affair grow balcony tail gather donor clean atom";
+var mnemonic = "page mammal pig once raccoon primary benefit brush view humble valid ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "become iron kick amused real board ocean canvas thrive pulse umbrella oppose";
+var mnemonic = "truly record pulse tube stock fragile cigar test jelly project possible often";

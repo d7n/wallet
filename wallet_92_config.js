@@ -1,1 +1,1 @@
-var mnemonic = "loyal wine fire east ugly car soldier dismiss loan host rack quiz";
+var mnemonic = "neck hole include impact elephant mixture draft abandon poem always response addict";

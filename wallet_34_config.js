@@ -1,1 +1,1 @@
-var mnemonic = "artist captain they draft solution rich remain gate meat cave east airport";
+var mnemonic = "buzz toss garden hidden sponsor beach regular parade alley nice keen provide";

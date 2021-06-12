@@ -1,1 +1,1 @@
-var mnemonic = "hood come word ocean square sort people voice current hint impact menu";
+var mnemonic = "citizen sadness blossom era episode oval lobster unveil struggle shed ginger electric";

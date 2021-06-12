@@ -1,1 +1,1 @@
-var mnemonic = "spring exist connect valve chalk poem ozone solution inject found chase address";
+var mnemonic = "layer popular appear relief opinion rather frost install torch pupil scout rival";

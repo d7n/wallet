@@ -1,1 +1,1 @@
-var mnemonic = "library ordinary sea rich inspire glide bleak usual basket confirm defense deputy";
+var mnemonic = "dinner since grocery pizza gold write glow venue extend damp blade pig";

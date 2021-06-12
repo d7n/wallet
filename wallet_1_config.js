@@ -1,1 +1,1 @@
-var mnemonic = "toast glimpse emerge perfect control spy need input history space tired tornado";
+var mnemonic = "club famous remember notable cricket clip real innocent valve cash magnet bag";

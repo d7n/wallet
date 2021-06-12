@@ -1,1 +1,1 @@
-var mnemonic = "cheese impact present reopen guard brief exist upper control canoe common mix";
+var mnemonic = "trash august certain opinion sure ankle scan arrest topple either anger ill";

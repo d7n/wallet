@@ -1,1 +1,1 @@
-var mnemonic = "shoe kick best despair afraid humor actress text ranch witness close couple";
+var mnemonic = "charge season better cotton cinnamon dove ramp animal emerge scorpion horror park";

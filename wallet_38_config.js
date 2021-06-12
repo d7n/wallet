@@ -1,1 +1,1 @@
-var mnemonic = "edit wool snack flee hammer dry record city bean anchor spatial belt";
+var mnemonic = "shield rather coffee snow olympic bus into soft inject evidence grow tray";

@@ -1,1 +1,1 @@
-var mnemonic = "future gap raise shock chronic general skull outdoor dirt hurdle animal leave";
+var mnemonic = "scale public addict plastic blood cause staff wall charge column monster swear";

@@ -1,1 +1,1 @@
-var mnemonic = "earn skin sadness raise area broken large security twice payment favorite case";
+var mnemonic = "exhaust tent dream supreme edit orchard token rotate marble protect hub patient";

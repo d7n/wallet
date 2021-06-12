@@ -1,1 +1,1 @@
-var mnemonic = "only vault argue bundle top loan renew vacuum three position net gym";
+var mnemonic = "fatal famous cry calm win obey tomorrow owner old plastic extend leave";

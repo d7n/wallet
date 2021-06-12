@@ -1,1 +1,1 @@
-var mnemonic = "dismiss diagram tribe access travel reunion park rain list coyote prison tornado";
+var mnemonic = "vibrant menu loop fiber best super only pond force emotion cool settle";

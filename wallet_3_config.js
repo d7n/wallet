@@ -1,1 +1,1 @@
-var mnemonic = "candy duck fan half job dizzy dash scrub enjoy swallow actual track";
+var mnemonic = "warfare sustain spare wreck leader stool come hover plunge collect drop oppose";

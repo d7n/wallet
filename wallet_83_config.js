@@ -1,1 +1,1 @@
-var mnemonic = "taxi awake spread figure calm sausage mass coconut motion phrase okay fabric";
+var mnemonic = "chat stool hamster beach park follow useless bike length matter tone dove";

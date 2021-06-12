@@ -1,1 +1,1 @@
-var mnemonic = "boring wrap shrug release review couple success waste upon daring confirm exhaust";
+var mnemonic = "pond save crash clown fence stand raw resemble scrub omit axis exile";

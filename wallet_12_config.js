@@ -1,1 +1,1 @@
-var mnemonic = "fine harvest name warfare loan scene blanket picnic learn current unfold roast";
+var mnemonic = "onion struggle edge enroll humble catch size artefact range sorry gaze moral";

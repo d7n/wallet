@@ -1,1 +1,1 @@
-var mnemonic = "equal maid plug tomato chapter beach patient feel body salute quote pull";
+var mnemonic = "digital forest win picture uncle worth six engage dignity electric video turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "juice public analyst ten diet clump try evidence fish stick dune range";
+var mnemonic = "artwork essence auto glad outdoor find burger hollow trick friend relief human";

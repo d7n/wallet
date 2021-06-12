@@ -1,1 +1,1 @@
-var mnemonic = "spray valid dinner wrong ozone tomorrow cool interest panther alpha federal praise";
+var mnemonic = "helmet object example replace midnight hazard later armor patch matrix magnet medal";

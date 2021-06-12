@@ -1,1 +1,1 @@
-var mnemonic = "awkward food punch battle usage castle calm autumn cluster nation stairs deer";
+var mnemonic = "clog what canal fiber bubble open bacon response lounge hungry fortune park";

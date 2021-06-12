@@ -1,1 +1,1 @@
-var mnemonic = "kick two width eye keep camera possible mixed lift verify boss discover";
+var mnemonic = "butter discover fog slab supply prize traffic dial own discover torch brisk";

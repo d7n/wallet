@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin potato color organ tide wrist never ceiling require clown keen echo";
+var mnemonic = "choice slot draft lab purchase airport demand lecture device client into kiss";

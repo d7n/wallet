@@ -1,1 +1,1 @@
-var mnemonic = "convince flower casino bright awake explain elbow pupil mirror dune wreck awake";
+var mnemonic = "betray organ leaf horror tunnel thought three around engage address super fence";

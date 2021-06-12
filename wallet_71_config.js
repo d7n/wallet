@@ -1,1 +1,1 @@
-var mnemonic = "screen stadium review girl whale chef prosper song code business letter above";
+var mnemonic = "deal town belt leisure dust pact gesture gesture artefact park merit toward";

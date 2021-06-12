@@ -1,1 +1,1 @@
-var mnemonic = "soon royal useless double saddle knife burst bronze cigar elegant wonder left";
+var mnemonic = "diet chapter rare minor consider combine suffer glad usage prepare shy sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle novel save length brother sting expect improve mule veteran electric juice";
+var mnemonic = "short sunny pepper analyst title submit visa gospel napkin witness stem genius";

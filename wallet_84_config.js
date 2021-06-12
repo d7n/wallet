@@ -1,1 +1,1 @@
-var mnemonic = "region early board embody valley scrap hero rebel fetch banner advance stadium";
+var mnemonic = "muscle parent distance flight project among reunion merit web common visual adapt";

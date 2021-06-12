@@ -1,1 +1,1 @@
-var mnemonic = "match naive tenant auction surge trumpet length sense bamboo live ramp robust";
+var mnemonic = "marriage start lyrics acoustic clean add quiz drop summer barely olympic pass";

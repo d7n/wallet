@@ -1,1 +1,1 @@
-var mnemonic = "near legend limit fox zoo heavy young throw enforce boy penalty remain";
+var mnemonic = "come tonight gorilla menu time office profit avoid ridge impose wheat apology";

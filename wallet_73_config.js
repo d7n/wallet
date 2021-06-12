@@ -1,1 +1,1 @@
-var mnemonic = "own small able candy feed spider tenant client harsh execute invest main";
+var mnemonic = "bamboo shrug market indicate they caught volcano dragon garment envelope mad arctic";

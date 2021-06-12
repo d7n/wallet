@@ -1,1 +1,1 @@
-var mnemonic = "when vendor warrior afford comic change describe biology absurd smooth biology awkward";
+var mnemonic = "tomato praise exercise ill kitchen shoulder sick south action dream upon erase";

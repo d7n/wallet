@@ -1,1 +1,1 @@
-var mnemonic = "logic series shop donor pill cycle double mouse frame industry gas boy";
+var mnemonic = "dizzy caught service quarter ozone object orphan guard lecture index news into";

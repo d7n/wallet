@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow poet worth juice kind fancy coffee usual clap couple happy until";
+var mnemonic = "grain shy ask pledge donate window embark spell pizza giggle siren frog";

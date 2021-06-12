@@ -1,1 +1,1 @@
-var mnemonic = "castle culture zero tip material sort screen jump tag mystery lab hint";
+var mnemonic = "loyal puppy toward chuckle fog weasel plastic bike mistake arrange evil raise";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant beach thunder you stamp seek congress decide shallow route cupboard equal";
+var mnemonic = "orbit enemy smooth chief verify power pool remind inject keen flight vocal";

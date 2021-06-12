@@ -1,1 +1,1 @@
-var mnemonic = "debate magnet inform loud tumble crawl solution decide modify control inch fix";
+var mnemonic = "marriage punch beach clinic found sun soul simple disagree lion image amount";

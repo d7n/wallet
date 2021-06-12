@@ -1,1 +1,1 @@
-var mnemonic = "cost clown survey give spatial ask virtual menu toddler bone document champion";
+var mnemonic = "cushion visual squeeze betray cushion liar tumble bless bulb wet candy title";

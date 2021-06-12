@@ -1,1 +1,1 @@
-var mnemonic = "rule find change execute build spirit share summer true brick drink weather";
+var mnemonic = "drastic alien swarm call resemble hint mutual doll rug lucky powder charge";

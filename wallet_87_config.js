@@ -1,1 +1,1 @@
-var mnemonic = "clay proof swallow female casual cushion hover model device wedding wheel judge";
+var mnemonic = "alter vacuum family feature inner hurdle wing soup woman fan tuna clinic";

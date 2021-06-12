@@ -1,1 +1,1 @@
-var mnemonic = "elder obscure hold moral spy excess wisdom wedding story feed fault click";
+var mnemonic = "dragon gentle trap random modify host cherry carbon brisk inflict enhance cement";

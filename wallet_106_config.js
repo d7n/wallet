@@ -1,1 +1,1 @@
-var mnemonic = "general accident wreck food sentence brief visual book repeat chronic remain fit";
+var mnemonic = "raven swap notice dynamic horror someone prevent nice visit will novel eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "find display utility rubber melt chunk whale vessel edit dune fall better";
+var mnemonic = "square advance smoke hotel town visit verify grief once spirit intact space";

@@ -1,1 +1,1 @@
-var mnemonic = "merry worry public mirror repeat crawl guilt mushroom orchard confirm hover salt";
+var mnemonic = "gold puzzle thing flee letter rural way winner become enlist cycle add";

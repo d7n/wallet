@@ -1,1 +1,1 @@
-var mnemonic = "tail cabin capital riot certain off dilemma salute host name barely diamond";
+var mnemonic = "dream arch traffic piece armor dynamic forget logic claim subway bridge orient";

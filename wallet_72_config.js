@@ -1,1 +1,1 @@
-var mnemonic = "middle tragic inmate kidney cry fancy speak surround myth notice anchor unit";
+var mnemonic = "panther refuse modify gentle prize also network become worry cinnamon multiply furnace";

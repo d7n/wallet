@@ -1,1 +1,1 @@
-var mnemonic = "reduce salute swim amazing original road name run brother devote song sugar";
+var mnemonic = "guard dragon slush jump famous off endorse student rely fork nominee old";

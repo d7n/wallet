@@ -1,1 +1,1 @@
-var mnemonic = "dirt planet emotion warm dismiss impulse gesture genre waste celery state issue";
+var mnemonic = "conduct abstract divide hill genius mechanic debris kiss typical laundry cruise since";

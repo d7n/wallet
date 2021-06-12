@@ -1,1 +1,1 @@
-var mnemonic = "journey aisle genre bag pool maze turtle eternal skate sadness uphold mom";
+var mnemonic = "window shuffle judge fluid obtain brand grab donor similar lizard thank brush";

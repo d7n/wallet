@@ -1,1 +1,1 @@
-var mnemonic = "upper hello busy curious tower problem exist cloth ethics rhythm receive hood";
+var mnemonic = "critic shadow horn describe sadness drink short ketchup inhale kiwi describe whisper";

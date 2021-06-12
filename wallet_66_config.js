@@ -1,1 +1,1 @@
-var mnemonic = "furnace thought staff shadow maze poem uphold spirit bonus upon tomorrow begin";
+var mnemonic = "cactus insane elite book ghost favorite hockey betray civil gallery combine claim";

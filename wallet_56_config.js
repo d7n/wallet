@@ -1,1 +1,1 @@
-var mnemonic = "scheme spray siege stool solve push sound valid economy matrix perfect fossil";
+var mnemonic = "hollow torch mechanic fuel tone sustain cabin inject invest effort inner wise";
