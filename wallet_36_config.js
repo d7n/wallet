@@ -1,1 +1,1 @@
-var mnemonic = "worry nurse canal april vocal viable tuition penalty lyrics today tired snack";
+var mnemonic = "donate smoke north group kitchen poverty divide climb flat piano because horror";

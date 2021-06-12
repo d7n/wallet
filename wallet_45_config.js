@@ -1,1 +1,1 @@
-var mnemonic = "sniff shrug apart document journey baby naive magnet diesel wave fish symptom";
+var mnemonic = "dynamic future luxury wonder bundle burden marble property genius bid antenna item";

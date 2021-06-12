@@ -1,1 +1,1 @@
-var mnemonic = "grab raw patch quit visit fat equip boring tattoo usage receive ribbon";
+var mnemonic = "make novel aim state around message suggest ribbon rookie fortune bicycle control";

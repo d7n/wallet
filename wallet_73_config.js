@@ -1,1 +1,1 @@
-var mnemonic = "moon quantum world bullet phone liquid snow retreat cigar ostrich follow bring";
+var mnemonic = "hamster knock bus endorse master question funny denial fiber garlic bind sibling";

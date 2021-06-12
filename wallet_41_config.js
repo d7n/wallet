@@ -1,1 +1,1 @@
-var mnemonic = "super embrace clarify write charge apple soon crush noise humble volume sudden";
+var mnemonic = "paddle twelve service slogan giraffe collect giraffe involve predict window whisper series";

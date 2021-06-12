@@ -1,1 +1,1 @@
-var mnemonic = "edit below follow level remind bread setup sudden vendor glove three bone";
+var mnemonic = "abstract cricket satisfy ski cheap gravity hawk office food party science bundle";

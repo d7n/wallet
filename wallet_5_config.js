@@ -1,1 +1,1 @@
-var mnemonic = "raw whale index ask birth buyer topic payment exclude talent machine appear";
+var mnemonic = "struggle dutch mountain theory window magnet lion ginger hour legal middle tent";

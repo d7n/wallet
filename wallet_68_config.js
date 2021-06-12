@@ -1,1 +1,1 @@
-var mnemonic = "twist history explain metal review minimum forum judge pull advice marine crater";
+var mnemonic = "dinosaur toddler daughter blind celery fee humor onion joy aunt wife wild";

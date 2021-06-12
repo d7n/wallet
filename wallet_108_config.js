@@ -1,1 +1,1 @@
-var mnemonic = "dentist legal salad february flash clutch order estate immune snack garage outside";
+var mnemonic = "hurry admit coast category story evil fit cloth six chef million unit";

@@ -1,1 +1,1 @@
-var mnemonic = "silk unable curve able injury tiny tornado duck rule warfare embrace pond";
+var mnemonic = "cannon cup cross half humor fresh foil inherit trip easy box one";

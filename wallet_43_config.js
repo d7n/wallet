@@ -1,1 +1,1 @@
-var mnemonic = "below feature lobster limit fragile sugar universe have noodle hood regular core";
+var mnemonic = "know embrace frame dawn fitness cook arrive pelican energy this manage place";

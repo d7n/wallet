@@ -1,1 +1,1 @@
-var mnemonic = "patient fan pony grid price tuition boil session foam carry found unknown";
+var mnemonic = "praise wheat carry hospital crime write kidney saddle foil sport people rival";

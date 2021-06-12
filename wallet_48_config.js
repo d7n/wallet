@@ -1,1 +1,1 @@
-var mnemonic = "lunch comic tray another void crane proof web treat avoid promote element";
+var mnemonic = "flag sunset that ethics pelican mass noodle heart daughter humor sing option";

@@ -1,1 +1,1 @@
-var mnemonic = "now song property walk barely hundred direct culture robot legend subway report";
+var mnemonic = "ecology analyst build away home cricket ketchup bulk vapor food slush hungry";

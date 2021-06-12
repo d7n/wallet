@@ -1,1 +1,1 @@
-var mnemonic = "junior doll dilemma say amateur moral matter finish bamboo glare disagree daughter";
+var mnemonic = "theory unique filter pipe echo patrol mail hold grass afford ancient zero";

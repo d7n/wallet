@@ -1,1 +1,1 @@
-var mnemonic = "spoon attack boost okay sunset isolate axis soul family arrest west quality";
+var mnemonic = "excess slender ensure spray fine abuse impose absorb moment pupil jar lawsuit";

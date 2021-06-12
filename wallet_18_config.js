@@ -1,1 +1,1 @@
-var mnemonic = "concert hedgehog father welcome proof annual damage merry inject ordinary august wise";
+var mnemonic = "feed once onion rhythm ozone series similar lamp hour trophy oxygen cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic lava during fold march detail differ dry enjoy twice pottery vivid";
+var mnemonic = "student truly olympic harvest mystery stage evil dirt proof close buffalo kiwi";

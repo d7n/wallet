@@ -1,1 +1,1 @@
-var mnemonic = "head worry school great prefer spike denial pen knee chief grit chicken";
+var mnemonic = "daring dial bundle misery promote pony gasp pupil almost buffalo super problem";

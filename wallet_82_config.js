@@ -1,1 +1,1 @@
-var mnemonic = "trade blade arrest scout impose main void actress among immense park critic";
+var mnemonic = "barely ozone jazz polar theme rabbit alarm submit image time clay window";

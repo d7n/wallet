@@ -1,1 +1,1 @@
-var mnemonic = "like vast umbrella abuse faith gather shuffle insect success bronze actual bronze";
+var mnemonic = "human again clerk goddess load share verb sport fitness drama escape assist";

@@ -1,1 +1,1 @@
-var mnemonic = "visa whisper hawk notice miracle rebuild arena tragic gauge flash ceiling fancy";
+var mnemonic = "lottery ugly release actual remove drop margin almost hello swap link arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "rack panther trend hope ranch beyond coconut bachelor skull auction dilemma decorate";
+var mnemonic = "hope muscle fat useful sun fog dial crater cargo ceiling lava green";

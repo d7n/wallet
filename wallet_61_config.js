@@ -1,1 +1,1 @@
-var mnemonic = "silly provide pull brand sugar response exhibit vapor favorite argue breeze claim";
+var mnemonic = "service insane speed image blush alarm model coyote faculty wish crew short";

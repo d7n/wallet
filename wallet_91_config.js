@@ -1,1 +1,1 @@
-var mnemonic = "ocean wedding car thrive april tattoo split sorry change young tiny remember";
+var mnemonic = "alter intact picture venture rude more wisdom siege timber thought hunt six";

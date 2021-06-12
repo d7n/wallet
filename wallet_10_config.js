@@ -1,1 +1,1 @@
-var mnemonic = "school phrase fashion dad chef wedding sleep crawl ice change spot giraffe";
+var mnemonic = "liquid mechanic artist artefact improve bronze session balcony neglect material exhibit novel";

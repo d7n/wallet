@@ -1,1 +1,1 @@
-var mnemonic = "letter install chalk theme fold dad love tube ostrich hour dizzy pink";
+var mnemonic = "woman cannon draft wear winter little spirit category caution mom insane goat";

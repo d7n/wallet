@@ -1,1 +1,1 @@
-var mnemonic = "drama upgrade sock shoot total volume impulse female bomb dinosaur shadow rigid";
+var mnemonic = "grow post dolphin sorry reduce light hunt expect else meadow fancy clip";

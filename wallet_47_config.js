@@ -1,1 +1,1 @@
-var mnemonic = "dolphin evoke swarm regret delay trick sunny scare neutral task gate jacket";
+var mnemonic = "receive assist will sustain rifle capable ahead spot post invest cheap aware";

@@ -1,1 +1,1 @@
-var mnemonic = "library smooth engage expose doctor quality pluck horn believe what rookie umbrella";
+var mnemonic = "squirrel yard when click cloth road gun mad drama face once lunar";

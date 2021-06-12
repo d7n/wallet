@@ -1,1 +1,1 @@
-var mnemonic = "paddle tourist essay manage say slogan proud decorate oxygen mechanic radar park";
+var mnemonic = "maid orange rack december inherit drop dumb fly nurse desk cash wool";

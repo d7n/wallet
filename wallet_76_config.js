@@ -1,1 +1,1 @@
-var mnemonic = "muffin sorry toy grape dash detail twin way cave swamp survey swap";
+var mnemonic = "apart hurdle hollow repair uniform raise there enemy scheme soap unlock laundry";

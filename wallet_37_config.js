@@ -1,1 +1,1 @@
-var mnemonic = "bright guilt clever actress wagon chapter dilemma sell grant ceiling pepper manage";
+var mnemonic = "legal blame train alien brass curious quick fortune ostrich leg cake leisure";

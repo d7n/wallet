@@ -1,1 +1,1 @@
-var mnemonic = "elephant claim enrich swift tank tragic web cereal win whisper prosper announce";
+var mnemonic = "tonight number kingdom lend escape wife purity tuna acquire situate odor forest";

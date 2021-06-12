@@ -1,1 +1,1 @@
-var mnemonic = "crush coil chunk woman inflict emotion myth because food spoil acid mixed";
+var mnemonic = "submit account limb syrup false gasp job spy coast depth merry rain";

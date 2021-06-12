@@ -1,1 +1,1 @@
-var mnemonic = "walk student sick topic urban cricket kingdom armor kind wish idle expect";
+var mnemonic = "august dizzy scout neck giggle cigar divorce panda pledge next describe cluster";

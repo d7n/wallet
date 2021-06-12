@@ -1,1 +1,1 @@
-var mnemonic = "tenant mention pave basket paper arena zoo deputy bonus robot cycle voice";
+var mnemonic = "foot squeeze paddle push primary tennis urge march sister vehicle hockey use";

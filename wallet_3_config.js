@@ -1,1 +1,1 @@
-var mnemonic = "mystery best gentle thank health valley legal air dignity lava donkey vanish";
+var mnemonic = "bottom health laundry trap uncover mention vote list whip yard hub trouble";

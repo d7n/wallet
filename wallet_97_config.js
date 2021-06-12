@@ -1,1 +1,1 @@
-var mnemonic = "flag divorce until good honey affair lab end aware civil warrior dish";
+var mnemonic = "jar grab carry exit scorpion admit imitate drip book sphere position service";

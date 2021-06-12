@@ -1,1 +1,1 @@
-var mnemonic = "improve area autumn book brain voice jazz churn horror liar jazz occur";
+var mnemonic = "snake absorb radio bronze salon remove night camera asset kingdom notice admit";

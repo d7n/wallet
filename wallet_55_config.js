@@ -1,1 +1,1 @@
-var mnemonic = "flavor inch scrub security lava wrap favorite fine slogan crunch half like";
+var mnemonic = "dentist divide service define mixture kitten there cupboard beauty margin forward wagon";

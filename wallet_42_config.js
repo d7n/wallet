@@ -1,1 +1,1 @@
-var mnemonic = "seat festival rude enroll chuckle quiz jewel crater that survey hint relief";
+var mnemonic = "decide rigid doctor person evolve heart draft share innocent wheel crumble steel";

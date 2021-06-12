@@ -1,1 +1,1 @@
-var mnemonic = "spy mechanic whale paper sunny cram swing hedgehog brush keen record smart";
+var mnemonic = "tumble gift fuel child field obscure coconut scorpion skill snow large sphere";

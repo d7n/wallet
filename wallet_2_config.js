@@ -1,1 +1,1 @@
-var mnemonic = "jaguar fun venture foster check finish monkey open artefact pigeon erupt bargain";
+var mnemonic = "turkey exchange remove veteran screen wedding vehicle enjoy next account festival gentle";

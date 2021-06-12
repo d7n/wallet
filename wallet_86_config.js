@@ -1,1 +1,1 @@
-var mnemonic = "rib brand vague spell fresh urge release retreat decrease base culture elegant";
+var mnemonic = "uniform permit twenty half crazy fiscal vocal pill piano curtain hotel hen";

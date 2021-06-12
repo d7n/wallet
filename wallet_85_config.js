@@ -1,1 +1,1 @@
-var mnemonic = "sail fade series leopard evoke below quit impulse coyote color squeeze annual";
+var mnemonic = "conduct chef odor trophy during remain assume lucky harsh little design visit";

@@ -1,1 +1,1 @@
-var mnemonic = "plate deputy lazy carpet march today bread hard high lady response surface";
+var mnemonic = "flat panda network math claim entire visit mom ahead damp solar wide";

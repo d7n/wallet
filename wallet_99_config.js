@@ -1,1 +1,1 @@
-var mnemonic = "slide whip able brand whip knee cup salon bless bridge catch donkey";
+var mnemonic = "earth swing improve pencil skate forget mobile begin latin enjoy gossip fossil";

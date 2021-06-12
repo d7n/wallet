@@ -1,1 +1,1 @@
-var mnemonic = "throw black scrap impact capable spray urban urban pond meat lawn hero";
+var mnemonic = "power aunt polar unknown room level exhibit begin grace rack north half";

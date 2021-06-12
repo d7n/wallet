@@ -1,1 +1,1 @@
-var mnemonic = "toward chief tourist dial humor depend bubble click wide raise feel orbit";
+var mnemonic = "lawsuit hobby similar fortune gas planet claim suspect artefact expire render now";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado donkey weird aerobic antique abuse hip shiver fan pioneer couch toss";
+var mnemonic = "mammal drastic image strike sail flush girl because park evil recycle chronic";

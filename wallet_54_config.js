@@ -1,1 +1,1 @@
-var mnemonic = "all misery puppy crane favorite obscure hollow state luxury harsh east shadow";
+var mnemonic = "finger banana cousin quick fiscal april creek shuffle domain trash few helmet";

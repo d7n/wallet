@@ -1,1 +1,1 @@
-var mnemonic = "chest crucial mountain awake twelve upgrade tell carry stomach cram dignity ecology";
+var mnemonic = "loyal carbon dolphin direct sniff carbon siren cost door onion reward volcano";

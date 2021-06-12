@@ -1,1 +1,1 @@
-var mnemonic = "ramp poet casino ignore odor provide cousin base cake wrap pig replace";
+var mnemonic = "dismiss junior rigid arm response miracle chest rubber whale baby boring kick";

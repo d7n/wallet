@@ -1,1 +1,1 @@
-var mnemonic = "spray chalk clog insane fat exhaust pulp afraid flower slogan favorite mobile";
+var mnemonic = "labor crack century tomato symbol pretty fashion naive clump peanut water midnight";

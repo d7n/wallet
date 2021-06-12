@@ -1,1 +1,1 @@
-var mnemonic = "shrimp pupil horror drop trigger eye monkey render error eagle garlic session";
+var mnemonic = "stadium seed pottery undo lonely meadow among bomb mandate cart air symptom";

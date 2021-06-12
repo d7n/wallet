@@ -1,1 +1,1 @@
-var mnemonic = "battle glory file wild oil brave high catalog farm area save onion";
+var mnemonic = "cricket hybrid timber daughter artwork climb solve message beef phrase soda leisure";

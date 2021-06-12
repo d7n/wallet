@@ -1,1 +1,1 @@
-var mnemonic = "forget olive basket walnut confirm melt caught rookie excuse spy trigger ramp";
+var mnemonic = "famous spy first sign baby language monster midnight anger discover edge return";

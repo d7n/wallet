@@ -1,1 +1,1 @@
-var mnemonic = "piece sibling marriage hold weather medal motion season else melt cute vocal";
+var mnemonic = "decrease custom order demise soul fury trumpet trust sugar brave bounce derive";

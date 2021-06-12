@@ -1,1 +1,1 @@
-var mnemonic = "anxiety right siren photo rely subway drip large pelican enact oak praise";
+var mnemonic = "street claim begin cherry jungle fabric scale kind sentence clinic drive better";

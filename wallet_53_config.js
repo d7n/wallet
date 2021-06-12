@@ -1,1 +1,1 @@
-var mnemonic = "lock public camera below mother devote salad priority champion abuse bench visit";
+var mnemonic = "cheap cereal milk card face price assume limit solution vapor spoil labor";

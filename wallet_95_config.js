@@ -1,1 +1,1 @@
-var mnemonic = "ridge estate ten burger depart fuel lyrics casino scrap usage system example";
+var mnemonic = "rabbit before decide cotton very exit save wish giggle spatial embrace receive";

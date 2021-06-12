@@ -1,1 +1,1 @@
-var mnemonic = "mutual until tail wasp armor buffalo segment math sail cake flight luggage";
+var mnemonic = "repair social imitate fiber explain fatigue live dignity ripple float crop trial";

@@ -1,1 +1,1 @@
-var mnemonic = "annual cross educate rhythm cover reveal account clay east farm air alcohol";
+var mnemonic = "property urge huge until tool discover glad pattern priority govern issue worry";

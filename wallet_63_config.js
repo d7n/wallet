@@ -1,1 +1,1 @@
-var mnemonic = "off method upper above dust actual simple adapt poem merit render candy";
+var mnemonic = "crucial radar sauce genuine dove they teach strike talent much arrest angle";

@@ -1,1 +1,1 @@
-var mnemonic = "around inhale ready zebra birth time patch powder enhance conduct east boat";
+var mnemonic = "neglect auction message seven blue obvious retire guide draft author pull struggle";

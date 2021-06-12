@@ -1,1 +1,1 @@
-var mnemonic = "rib grass buddy refuse never exist mail saddle any doctor elite grain";
+var mnemonic = "ritual anxiety sunset obscure then boring winter one hen fringe frown public";

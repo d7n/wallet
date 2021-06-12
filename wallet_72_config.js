@@ -1,1 +1,1 @@
-var mnemonic = "cherry april fantasy refuse benefit series wrap system ordinary best erode believe";
+var mnemonic = "verb day machine project laptop idle frost involve cactus school boring truck";

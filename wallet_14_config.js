@@ -1,1 +1,1 @@
-var mnemonic = "negative limb stadium hover vehicle conduct exotic thing arctic jacket slim ladder";
+var mnemonic = "vital tonight tree ladder actual mirror want sample license warfare hotel tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "empower ready cost indicate undo year duck weasel wild tackle aisle normal";
+var mnemonic = "devote lazy movie forward odor ramp winner pet awesome video kiss citizen";

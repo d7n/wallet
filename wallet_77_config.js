@@ -1,1 +1,1 @@
-var mnemonic = "traffic mammal muffin resist earth focus talk phrase tilt green fly fade";
+var mnemonic = "laundry ball equal idle seven still ecology crunch bone giant come elephant";

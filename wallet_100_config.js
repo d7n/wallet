@@ -1,1 +1,1 @@
-var mnemonic = "rhythm doll drastic clarify shed zone gather inject country document easy cram";
+var mnemonic = "zero lumber animal reunion senior firm south concert noble ecology lucky force";

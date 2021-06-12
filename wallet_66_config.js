@@ -1,1 +1,1 @@
-var mnemonic = "picture erosion drama quarter buzz gasp tomato noise secret alarm capable carry";
+var mnemonic = "execute lamp exchange ancient figure juice employ model repair reopen job easily";

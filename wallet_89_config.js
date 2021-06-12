@@ -1,1 +1,1 @@
-var mnemonic = "square normal pencil slender camp violin spot cluster latin witness empower what";
+var mnemonic = "baby matter know arrow toast tooth shock science pilot hole gorilla ten";

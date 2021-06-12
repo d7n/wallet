@@ -1,1 +1,1 @@
-var mnemonic = "globe veteran used grain fox rare suspect labor smart venue indicate local";
+var mnemonic = "glue point blame danger screen conduct trip mail belt legend please escape";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid long vessel lion blue swear eager arch turtle any emerge later";
+var mnemonic = "law curious art ridge enjoy budget museum nose fluid false only bid";

@@ -1,1 +1,1 @@
-var mnemonic = "grace decade valid surround draft tuition vault enjoy muscle consider clean swing";
+var mnemonic = "night prosper roof inch bike hurry artwork latin taste seed inhale grocery";

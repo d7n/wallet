@@ -1,1 +1,1 @@
-var mnemonic = "bounce pulse cover myself ordinary gain life normal fury stone direct inform";
+var mnemonic = "arch cat turtle segment struggle earth rely spider embrace exit hybrid outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "wing quote census luggage cost crush code piano photo uphold level scan";
+var mnemonic = "leg village carry panda spy vibrant they logic advance ball evolve own";

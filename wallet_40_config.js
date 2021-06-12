@@ -1,1 +1,1 @@
-var mnemonic = "knock alter approve tourist bomb supreme private view endorse swim amateur people";
+var mnemonic = "slow garment adapt cinnamon rug fan hire water motion song ride fever";

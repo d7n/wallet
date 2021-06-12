@@ -1,1 +1,1 @@
-var mnemonic = "sketch tribe park unhappy foster comfort sustain domain siren cereal crunch soap";
+var mnemonic = "use flag daring very erupt inch trust high social train bargain vessel";

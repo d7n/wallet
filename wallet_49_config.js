@@ -1,1 +1,1 @@
-var mnemonic = "layer stick end rent clean ethics happy wealth opinion huge olympic fortune";
+var mnemonic = "faculty ribbon shaft fade example vast prosper elevator code dentist lens scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter fever above leg ride absorb rude shy inform produce naive ankle";
+var mnemonic = "false mushroom open hour filter any impulse roast correct supreme upgrade cry";

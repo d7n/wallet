@@ -1,1 +1,1 @@
-var mnemonic = "engine eight beef payment senior smile nest engine relax iron print right";
+var mnemonic = "industry roof leopard zero salute skin obscure gesture tornado grow nephew rocket";

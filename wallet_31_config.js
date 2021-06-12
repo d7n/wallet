@@ -1,1 +1,1 @@
-var mnemonic = "alarm voice rebel afford stick outer law weapon special exile congress total";
+var mnemonic = "fine grain super pen unit ball decline decline admit sick response need";

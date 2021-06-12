@@ -1,1 +1,1 @@
-var mnemonic = "nation tenant orient subject color mansion lottery skull crazy castle fringe multiply";
+var mnemonic = "job satoshi tiger goddess seat south year meadow host coast coast weekend";

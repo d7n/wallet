@@ -1,1 +1,1 @@
-var mnemonic = "assume knife shift anxiety wall celery glimpse father visual enjoy rhythm brush";
+var mnemonic = "hard funny reward erode hat pudding cupboard produce keep route donate dynamic";

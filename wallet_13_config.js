@@ -1,1 +1,1 @@
-var mnemonic = "call bind pipe brush tank oblige pattern clock praise switch glass chaos";
+var mnemonic = "amused boss company unhappy series result side alley razor song shop trumpet";

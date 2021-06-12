@@ -1,1 +1,1 @@
-var mnemonic = "series mystery luggage teach auto lend month scheme system extra actual dry";
+var mnemonic = "maximum frame elder obey escape grab radio salt gentle double you soldier";

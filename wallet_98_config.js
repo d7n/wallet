@@ -1,1 +1,1 @@
-var mnemonic = "since type train push pledge cereal push bus chase dismiss omit exact";
+var mnemonic = "hybrid enroll task renew riot swarm among agent ugly holiday cram daughter";

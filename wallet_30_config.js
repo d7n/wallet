@@ -1,1 +1,1 @@
-var mnemonic = "taxi board merry twelve before plate embrace clump peasant jealous option fan";
+var mnemonic = "dog regret small range unknown mention mass team puppy fatigue pill tooth";

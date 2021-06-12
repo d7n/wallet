@@ -1,1 +1,1 @@
-var mnemonic = "dish attract include balance earth road any viable throw prosper ignore abandon";
+var mnemonic = "urban fiction hub square prefer inside toward genre clever increase lawsuit century";

@@ -1,1 +1,1 @@
-var mnemonic = "guide mouse drum make atom crash manage mistake yellow average twenty unhappy";
+var mnemonic = "cover spirit salute loud transfer lunch jungle silver remember famous hello mouse";

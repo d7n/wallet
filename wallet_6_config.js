@@ -1,1 +1,1 @@
-var mnemonic = "live case guess butter local cry scrub cushion opinion blanket whale october";
+var mnemonic = "payment dilemma raven deliver brush achieve lion glass music rough exclude motion";

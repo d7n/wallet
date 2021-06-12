@@ -1,1 +1,1 @@
-var mnemonic = "bike invite swear favorite anchor around system prevent squeeze slim point welcome";
+var mnemonic = "snack accuse enable park resemble poem dance ghost crawl crowd clerk half";

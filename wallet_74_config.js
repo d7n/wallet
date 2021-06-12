@@ -1,1 +1,1 @@
-var mnemonic = "vocal brick citizen mention regular best entire before dress buyer purpose zone";
+var mnemonic = "duck decline mirror napkin stock confirm invite link spot nest tiger isolate";
