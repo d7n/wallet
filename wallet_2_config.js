@@ -1,1 +1,1 @@
-var mnemonic = "weird twelve fold aim nature work fly menu small afford million wasp";
+var mnemonic = "level coral glide sail coach ten catalog lava story ring economy pulp";

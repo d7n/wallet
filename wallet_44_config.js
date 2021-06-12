@@ -1,1 +1,1 @@
-var mnemonic = "april virus bitter capable become narrow govern girl method submit walnut forget";
+var mnemonic = "shuffle orchard human snow clog tongue income habit daughter can noble potato";

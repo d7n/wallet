@@ -1,1 +1,1 @@
-var mnemonic = "twin refuse scatter figure gadget swamp mango canal property economy avocado deer";
+var mnemonic = "festival design cereal inside receive whip human chapter venture member funny notice";

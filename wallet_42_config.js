@@ -1,1 +1,1 @@
-var mnemonic = "slight sort allow lock alter dose abstract hub frequent caution board bundle";
+var mnemonic = "table fancy urge derive loop solar fragile argue rebuild satisfy grief flush";

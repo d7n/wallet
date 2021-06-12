@@ -1,1 +1,1 @@
-var mnemonic = "engine suspect dismiss horror debate pitch sentence science near banana river tiger";
+var mnemonic = "expect renew swift address expect head vendor gloom system remove cactus price";

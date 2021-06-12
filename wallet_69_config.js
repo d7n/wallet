@@ -1,1 +1,1 @@
-var mnemonic = "extra illegal lamp outer calm uncle lobster excite annual dice jelly slush";
+var mnemonic = "bike immune decrease genre struggle coconut vanish pear expire breeze trumpet diesel";

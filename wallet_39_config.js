@@ -1,1 +1,1 @@
-var mnemonic = "moral exhibit lobster layer foil swarm sniff maid gentle pistol giraffe history";
+var mnemonic = "spoil simple blanket short tuition manual quit swarm harvest hen stove angry";

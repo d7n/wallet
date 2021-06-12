@@ -1,1 +1,1 @@
-var mnemonic = "alarm obtain arena tube nasty vacuum large pause bargain champion brown evolve";
+var mnemonic = "palm term quality fancy despair happy behave siren reform member claw farm";

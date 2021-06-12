@@ -1,1 +1,1 @@
-var mnemonic = "typical pond planet royal divert elbow effort town garden clog bronze member";
+var mnemonic = "impose tree base still kind ancient mail arrive obvious boring umbrella buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist silver dizzy festival erosion roof million arrive flame wool thrive liquid";
+var mnemonic = "distance energy crew turn hammer thought blind setup quit only swarm diary";

@@ -1,1 +1,1 @@
-var mnemonic = "actress caution skin offer admit crop skirt spoon dragon income ensure grape";
+var mnemonic = "hero rubber swap add mass sail master describe tag smart shield prevent";

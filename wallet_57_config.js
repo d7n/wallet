@@ -1,1 +1,1 @@
-var mnemonic = "found excite plunge expect tobacco badge zone key mammal thank debate okay";
+var mnemonic = "normal song surge iron segment drip pelican wait cruise group tuna cream";

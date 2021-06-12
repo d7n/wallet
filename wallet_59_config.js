@@ -1,1 +1,1 @@
-var mnemonic = "horn tunnel shoot swamp skill vocal wink hill absent typical zero punch";
+var mnemonic = "act cover goddess obvious guide move refuse deny evidence feature dust swift";

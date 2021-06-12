@@ -1,1 +1,1 @@
-var mnemonic = "input scene panda song copy voice office level kid science brain step";
+var mnemonic = "view tiger empty absorb end ability winter curve sugar moon basic move";

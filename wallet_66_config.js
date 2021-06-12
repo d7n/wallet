@@ -1,1 +1,1 @@
-var mnemonic = "action obvious already erupt spell regret fancy envelope reveal deposit valve suggest";
+var mnemonic = "celery clock govern lawsuit marriage beyond debris mean dumb sound hello stage";

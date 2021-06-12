@@ -1,1 +1,1 @@
-var mnemonic = "muffin ride property metal melt buyer view explain grocery clown warm much";
+var mnemonic = "memory number solar east toy chaos fix dismiss industry wall acquire enact";

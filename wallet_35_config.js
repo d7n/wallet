@@ -1,1 +1,1 @@
-var mnemonic = "narrow cliff trip combine federal code snack nothing mouse mask waste install";
+var mnemonic = "original aisle pretty grace write staff section museum auto apple network pencil";

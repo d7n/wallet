@@ -1,1 +1,1 @@
-var mnemonic = "piano pet ticket dutch choose steel luggage math setup soldier promote sort";
+var mnemonic = "excess trap dash teach brand apart cheap humble nephew grab certain square";

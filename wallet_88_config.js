@@ -1,1 +1,1 @@
-var mnemonic = "advice trumpet walnut amused matrix unusual stick wealth bird enable view rescue";
+var mnemonic = "fashion minor describe size culture sport parrot collect cherry tent use lunch";

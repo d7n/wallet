@@ -1,1 +1,1 @@
-var mnemonic = "gauge bamboo shiver bean lava whale series bamboo friend finger raccoon supply";
+var mnemonic = "divert salmon rigid erase desk coral awake impact owner exist essay entry";

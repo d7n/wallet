@@ -1,1 +1,1 @@
-var mnemonic = "female clutch trade punch zero venue dumb start depend adult cradle enroll";
+var mnemonic = "quality early shoulder urban cheese topic basket finger acoustic enhance liar rude";

@@ -1,1 +1,1 @@
-var mnemonic = "tray easy master inmate rich globe fault limb parent action aunt polar";
+var mnemonic = "bird unaware member when obvious another ugly winner patrol icon weekend boat";

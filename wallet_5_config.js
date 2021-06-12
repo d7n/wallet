@@ -1,1 +1,1 @@
-var mnemonic = "female oven picture century supreme jazz wet side eyebrow lend beauty eye";
+var mnemonic = "auto uniform airport ribbon silent define pony divorce swarm flower skull all";

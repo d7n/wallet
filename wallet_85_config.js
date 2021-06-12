@@ -1,1 +1,1 @@
-var mnemonic = "helmet acquire glad message idle word fan can monitor rack monkey chaos";
+var mnemonic = "goddess naive hurt dune flag snow kind mother myth decade book shove";

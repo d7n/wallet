@@ -1,1 +1,1 @@
-var mnemonic = "useless educate dog hazard cross club weasel suffer size hurdle bone bonus";
+var mnemonic = "rate risk tone wool lesson piece pink labor author fabric amazing mosquito";

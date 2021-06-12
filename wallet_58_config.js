@@ -1,1 +1,1 @@
-var mnemonic = "captain carpet wrong tiger exclude life between shed food certain robust amused";
+var mnemonic = "payment valve conduct gap mother health insect clinic myself alpha powder meadow";

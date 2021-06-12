@@ -1,1 +1,1 @@
-var mnemonic = "find globe car wide drink clever burden lion give panther jelly brief";
+var mnemonic = "foot daughter kid hire pet volume impact quiz motion switch number grant";

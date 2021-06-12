@@ -1,1 +1,1 @@
-var mnemonic = "witness vast carry follow alien brief worth palm position web offer clump";
+var mnemonic = "hold tag key require month body naive february sting innocent inspire title";

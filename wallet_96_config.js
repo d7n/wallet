@@ -1,1 +1,1 @@
-var mnemonic = "panic public mammal blanket tragic mimic merit expire among quarter purchase door";
+var mnemonic = "normal reason trick impact base oblige now confirm speed risk shine toe";

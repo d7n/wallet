@@ -1,1 +1,1 @@
-var mnemonic = "pistol ranch exchange hotel hollow magic ceiling venue toss filter equal soda";
+var mnemonic = "duty fancy skirt speed buffalo ask maze rebuild recall refuse virus dwarf";

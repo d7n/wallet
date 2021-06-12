@@ -1,1 +1,1 @@
-var mnemonic = "kiss talent market review cost high pact gauge chief strike aunt select";
+var mnemonic = "need beauty false letter correct abstract vague behind focus rare label ready";

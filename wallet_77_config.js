@@ -1,1 +1,1 @@
-var mnemonic = "garment measure educate girl someone stairs innocent essence one bonus pole victory";
+var mnemonic = "fork kite wait draft parent input pill father odor rifle voice blur";

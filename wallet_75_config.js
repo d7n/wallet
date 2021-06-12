@@ -1,1 +1,1 @@
-var mnemonic = "rebuild sunset gap teach east arrive unit garage hybrid material album chapter";
+var mnemonic = "average crime universe disagree settle elite rent salmon corn merry nurse corn";

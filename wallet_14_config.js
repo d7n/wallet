@@ -1,1 +1,1 @@
-var mnemonic = "reason home input shoe silly receive cute deal crunch poet helmet divert";
+var mnemonic = "custom know coyote poverty jelly junior kidney burger conduct exact common actress";

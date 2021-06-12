@@ -1,1 +1,1 @@
-var mnemonic = "fragile dice eye quiz copy off collect relax win slot paddle require";
+var mnemonic = "cruel photo regular nose upset advance swarm cart outside this horror space";

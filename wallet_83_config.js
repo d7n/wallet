@@ -1,1 +1,1 @@
-var mnemonic = "siren country pledge innocent point camp flight mammal name mistake race notable";
+var mnemonic = "retreat scene black hair plastic family label mom enrich snow camera anchor";

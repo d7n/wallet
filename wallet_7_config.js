@@ -1,1 +1,1 @@
-var mnemonic = "fashion lobster slim lion become cute ordinary place affair grant urge drop";
+var mnemonic = "innocent inject public solve photo twist like volume off mail pony message";

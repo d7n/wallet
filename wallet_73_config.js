@@ -1,1 +1,1 @@
-var mnemonic = "beyond result marriage antenna seminar jar rival tail imitate cousin copper diet";
+var mnemonic = "push jump depend between traffic marriage just story gown pigeon flat worth";

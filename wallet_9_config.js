@@ -1,1 +1,1 @@
-var mnemonic = "video bag broccoli grace champion hurt sniff remain innocent mimic novel response";
+var mnemonic = "hour business ceiling miracle rebel feed earn chef expect eager false achieve";

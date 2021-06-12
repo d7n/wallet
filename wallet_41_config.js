@@ -1,1 +1,1 @@
-var mnemonic = "addict client punch collect rebuild wolf travel attitude mammal tilt fragile over";
+var mnemonic = "leader mimic tunnel measure rifle okay scheme fatal elevator spoon rate candy";

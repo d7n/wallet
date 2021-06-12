@@ -1,1 +1,1 @@
-var mnemonic = "nice large ensure hedgehog unit remind reveal evil derive dice receive knee";
+var mnemonic = "unlock weekend two nuclear tuition lady bike punch cook rib rail outside";

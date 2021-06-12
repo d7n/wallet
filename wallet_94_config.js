@@ -1,1 +1,1 @@
-var mnemonic = "cattle shield heavy share sniff client celery actual exit loan struggle desert";
+var mnemonic = "stumble ranch apart wreck isolate innocent chat prison skill orient huge vanish";

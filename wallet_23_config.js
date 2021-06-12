@@ -1,1 +1,1 @@
-var mnemonic = "garbage grow champion wash owner attract scissors dentist endless enlist noble until";
+var mnemonic = "pluck plastic reason express entry prosper perfect organ tumble inner treat fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "slot nice access pony repair pride push dress success exit educate emotion";
+var mnemonic = "pyramid cactus journey ecology vicious wedding panic manage true goddess achieve any";

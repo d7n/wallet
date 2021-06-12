@@ -1,1 +1,1 @@
-var mnemonic = "fiction cross symbol depart denial quantum crumble bundle syrup admit egg praise";
+var mnemonic = "angle since alpha element message chief hawk snack strong motion ski cause";

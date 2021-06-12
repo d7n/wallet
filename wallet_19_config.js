@@ -1,1 +1,1 @@
-var mnemonic = "combine connect beyond relax ostrich dose recycle brain debris pass way shaft";
+var mnemonic = "because toss draft aspect fault robust desk endless fade trigger decide middle";

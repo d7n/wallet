@@ -1,1 +1,1 @@
-var mnemonic = "tank rose dinosaur dynamic proof donor bread fork pass clarify ski iron";
+var mnemonic = "angle sunset flag normal foot august icon arch this bread switch drop";

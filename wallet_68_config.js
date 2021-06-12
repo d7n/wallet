@@ -1,1 +1,1 @@
-var mnemonic = "festival advice ensure tent helmet virus basket arch mango fault candy primary";
+var mnemonic = "beef across amateur unfold hover tree boy pudding unhappy trust half rookie";

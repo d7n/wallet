@@ -1,1 +1,1 @@
-var mnemonic = "fire kiss require beyond gesture label debate trust gesture near mix valley";
+var mnemonic = "where harvest another festival piece deny loan crater account champion spoil sponsor";

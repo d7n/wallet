@@ -1,1 +1,1 @@
-var mnemonic = "check drip gospel coach camera engine code proud prize nuclear usual lesson";
+var mnemonic = "announce aisle inquiry leave window power plate diesel magic forum clean energy";

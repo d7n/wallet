@@ -1,1 +1,1 @@
-var mnemonic = "cotton frown beauty aim position deliver theory bulk affair measure elegant lounge";
+var mnemonic = "audit monster hat tank little column carry enrich bid stove way box";

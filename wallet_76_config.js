@@ -1,1 +1,1 @@
-var mnemonic = "worry bus diesel safe logic slush meadow hole bleak dawn patrol orphan";
+var mnemonic = "repeat glass black print debate sad front manual panel wing piece shrimp";

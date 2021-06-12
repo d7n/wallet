@@ -1,1 +1,1 @@
-var mnemonic = "face race soft stem video tiny gate chat render ahead load army";
+var mnemonic = "hundred vocal magic heavy gate second ghost again protect priority federal ostrich";

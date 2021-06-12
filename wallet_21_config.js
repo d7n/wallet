@@ -1,1 +1,1 @@
-var mnemonic = "shoulder pave olympic brick lady cash lion grunt away under favorite renew";
+var mnemonic = "inform hybrid success inspire maze doctor false myself stove review spare witness";

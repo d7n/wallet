@@ -1,1 +1,1 @@
-var mnemonic = "aspect animal knee rocket whale maximum alley right plastic enforce warm abandon";
+var mnemonic = "science lemon wisdom youth melt sugar chief echo change know away horn";

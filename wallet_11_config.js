@@ -1,1 +1,1 @@
-var mnemonic = "extra round into violin canal sadness choice perfect clock present session pluck";
+var mnemonic = "cover daughter punch birth unknown elbow law harvest spray divorce limb stool";

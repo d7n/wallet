@@ -1,1 +1,1 @@
-var mnemonic = "increase need hair supreme error push wash peanut curve dwarf nurse skin";
+var mnemonic = "begin accident security return wink sibling tortoise any silly mansion wall group";

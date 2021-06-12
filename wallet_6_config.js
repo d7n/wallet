@@ -1,1 +1,1 @@
-var mnemonic = "canyon radar hour wheat delay notable seven wait rapid upset exotic promote";
+var mnemonic = "identify twin average fatal clinic festival relax spoil castle salmon track once";

@@ -1,1 +1,1 @@
-var mnemonic = "useful cage minute beach security mass lesson foil differ magic shift approve";
+var mnemonic = "sword layer govern tiger design weather range stage sketch copy robot gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "voice flash strong churn vast course torch pool school grow donor dumb";
+var mnemonic = "chaos syrup what sing remember kidney buzz turkey water provide library mom";

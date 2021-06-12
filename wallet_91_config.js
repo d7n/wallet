@@ -1,1 +1,1 @@
-var mnemonic = "note radio anxiety lock resource dose paper kiss basket robot actual review";
+var mnemonic = "gentle cage elevator like source antique elite dutch dirt blanket mother voice";

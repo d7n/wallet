@@ -1,1 +1,1 @@
-var mnemonic = "stage wrong drama cluster end holiday below praise balcony exotic viable embrace";
+var mnemonic = "innocent false divide birth jacket raise casino file inquiry yellow symptom outdoor";

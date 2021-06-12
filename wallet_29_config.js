@@ -1,1 +1,1 @@
-var mnemonic = "hat census mansion pig kit delay humor bitter call version leave exile";
+var mnemonic = "vivid judge athlete scissors runway zoo cost own toilet evolve two scale";

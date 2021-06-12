@@ -1,1 +1,1 @@
-var mnemonic = "strong carry excuse decide frame tower supreme young valve route original network";
+var mnemonic = "struggle fat test floor grief wall story lamp zone carry demand pluck";

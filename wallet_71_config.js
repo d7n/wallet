@@ -1,1 +1,1 @@
-var mnemonic = "mother wall crush drama couch glass know pitch desk man crystal pool";
+var mnemonic = "bring wheat inspire peanut fine air wedding erase column sure pulp work";

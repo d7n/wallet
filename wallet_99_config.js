@@ -1,1 +1,1 @@
-var mnemonic = "odor hen awesome flower usual horn sunny session script silver enter spread";
+var mnemonic = "meat room key abuse spot drink merit total actor tooth divert drift";

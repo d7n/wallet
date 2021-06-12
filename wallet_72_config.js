@@ -1,1 +1,1 @@
-var mnemonic = "churn dust thank recall pulse mass soon leader buyer green liberty verb";
+var mnemonic = "faculty wing ball winner toddler vacuum feel medal sock person discover boy";

@@ -1,1 +1,1 @@
-var mnemonic = "lake midnight onion pond picnic aisle crazy caught wall hero basic car";
+var mnemonic = "bless melody solution book monster fire inner lecture sad word alert abstract";

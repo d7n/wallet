@@ -1,1 +1,1 @@
-var mnemonic = "soul cereal language satisfy moon swim thrive abuse execute disorder lamp number";
+var mnemonic = "easy faith occur immense shallow winter error remind twist tourist onion derive";

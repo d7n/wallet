@@ -1,1 +1,1 @@
-var mnemonic = "hammer tortoise learn replace fetch timber cart flee ordinary agree judge fox";
+var mnemonic = "mouse negative boat buddy shy sort throw middle blame anger taste common";

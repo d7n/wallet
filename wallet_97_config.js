@@ -1,1 +1,1 @@
-var mnemonic = "road hedgehog youth dwarf tuition impose regret swarm shy advice gold fatigue";
+var mnemonic = "main seed pulse absent twist action chuckle review feed wear alone point";

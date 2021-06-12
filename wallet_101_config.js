@@ -1,1 +1,1 @@
-var mnemonic = "hybrid devote myth tortoise hammer gasp bullet runway tell purchase kitten release";
+var mnemonic = "fiber day patch jazz load hospital omit control discover language swift fly";

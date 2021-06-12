@@ -1,1 +1,1 @@
-var mnemonic = "master siren satisfy know voice similar shock more animal dash radar glide";
+var mnemonic = "monkey oak dolphin alien scissors lizard review uniform liar option legal like";

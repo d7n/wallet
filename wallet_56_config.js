@@ -1,1 +1,1 @@
-var mnemonic = "spike hawk legend able price country reveal bring runway vapor seat polar";
+var mnemonic = "dutch escape permit entry beef brave until defy heart mango analyst actress";

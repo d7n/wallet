@@ -1,1 +1,1 @@
-var mnemonic = "client december solid sort tip senior sock smart pattern expose witness usage";
+var mnemonic = "tomato awkward boy banner trend alone surface enact road grain crush cargo";

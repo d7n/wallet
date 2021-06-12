@@ -1,1 +1,1 @@
-var mnemonic = "assume exile tell ship original minute skill grant life inspire phone praise";
+var mnemonic = "garlic stool erode educate edit fat festival couple shoot venue blossom exile";

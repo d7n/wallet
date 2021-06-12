@@ -1,1 +1,1 @@
-var mnemonic = "palace enact school tumble peanut use fantasy wonder romance gas access inflict";
+var mnemonic = "always feel sketch maximum blood drum gym bulb moon popular gallery trust";

@@ -1,1 +1,1 @@
-var mnemonic = "they guide grit icon void until system clip entry knock aunt cake";
+var mnemonic = "allow wool trophy boat text bicycle jungle addict hold hedgehog holiday chaos";

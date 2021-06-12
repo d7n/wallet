@@ -1,1 +1,1 @@
-var mnemonic = "umbrella derive hospital impact swim also process census oval scatter argue december";
+var mnemonic = "pole win apart walk duck present close believe scene poverty rapid obtain";

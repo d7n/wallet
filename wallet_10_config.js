@@ -1,1 +1,1 @@
-var mnemonic = "stage tribe accident mandate palm spin pottery enough climb horror garden often";
+var mnemonic = "cotton three gadget anger brick solar discover outer cave dragon exist crowd";

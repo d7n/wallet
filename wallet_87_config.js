@@ -1,1 +1,1 @@
-var mnemonic = "body absurd abuse pulse mother fog tuna course vehicle area baby eyebrow";
+var mnemonic = "ankle world arena under better family vessel federal live excuse color bar";

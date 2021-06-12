@@ -1,1 +1,1 @@
-var mnemonic = "dash blanket virus vicious market rely cram tumble adult muscle south door";
+var mnemonic = "side more town crawl confirm trend blue winner hidden aspect grow piece";

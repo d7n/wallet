@@ -1,1 +1,1 @@
-var mnemonic = "future shell kiwi festival fly thing cluster exhibit intact dignity echo topic";
+var mnemonic = "report thought page chunk strong want remove arm spider syrup impulse burst";

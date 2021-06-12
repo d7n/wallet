@@ -1,1 +1,1 @@
-var mnemonic = "ignore oblige scrub lonely donate purity online moon record sister mouse visa";
+var mnemonic = "tonight surface buzz size twenty collect misery cheese daring banana stuff mimic";

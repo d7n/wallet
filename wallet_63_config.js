@@ -1,1 +1,1 @@
-var mnemonic = "veteran sauce genuine half nest envelope goose present switch pottery acid urban";
+var mnemonic = "approve melody pave uncover virtual similar april test gas rocket valley clean";

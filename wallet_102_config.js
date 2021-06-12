@@ -1,1 +1,1 @@
-var mnemonic = "orange tobacco script business hurry exit enjoy call soda rate frozen giggle";
+var mnemonic = "come almost thought beach churn labor forest field witness gesture december turkey";
