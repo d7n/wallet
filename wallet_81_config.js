@@ -1,1 +1,1 @@
-var mnemonic = "defy candy miss sing rescue crucial venue dinner aisle calm violin floor";
+var mnemonic = "opinion lunar fashion wagon believe worry blouse still zebra wasp trade oven";

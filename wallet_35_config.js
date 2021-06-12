@@ -1,1 +1,1 @@
-var mnemonic = "raccoon deer blossom uncover skull cannon clutch federal velvet unfold crisp lumber";
+var mnemonic = "extra want stand focus warrior rhythm reject hurry citizen start melody cruel";

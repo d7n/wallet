@@ -1,1 +1,1 @@
-var mnemonic = "include inform piece grain fatal music bean vendor quantum paper outdoor rhythm";
+var mnemonic = "random online veteran caught jazz dad visual deer crack mirror devote orient";

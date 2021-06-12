@@ -1,1 +1,1 @@
-var mnemonic = "defy find near purpose opinion mail catch suggest actress soon ahead fantasy";
+var mnemonic = "match alone legal misery upper maple reduce label butter guitar hover found";

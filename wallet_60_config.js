@@ -1,1 +1,1 @@
-var mnemonic = "sweet gift hat child eagle push position muffin movie sure ring now";
+var mnemonic = "siege often coast fee crater scan taxi want solid sunset rotate yard";

@@ -1,1 +1,1 @@
-var mnemonic = "hat panel relax stay keen suffer common giraffe nose almost tail mercy";
+var mnemonic = "divide attack ski garden young open toe space pill top boring intact";

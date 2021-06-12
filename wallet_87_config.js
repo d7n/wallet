@@ -1,1 +1,1 @@
-var mnemonic = "hospital side blood surface legal hurry alter love next alarm fit maze";
+var mnemonic = "bargain small promote wine hunt page force flag exit bird sleep permit";

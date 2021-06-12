@@ -1,1 +1,1 @@
-var mnemonic = "pink hamster group admit distance address devote cup include stuff coach place";
+var mnemonic = "tired toe law you since elevator assume purity retire unknown mouse merge";

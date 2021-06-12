@@ -1,1 +1,1 @@
-var mnemonic = "melody amount coil push shallow help crucial consider swim village culture junk";
+var mnemonic = "dry grief butter crunch confirm silly weird donkey toddler area left forget";

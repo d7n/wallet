@@ -1,1 +1,1 @@
-var mnemonic = "zoo soap combine length guard badge snow act scatter link minor rifle";
+var mnemonic = "zone girl lamp valve list laundry logic photo dish web response echo";

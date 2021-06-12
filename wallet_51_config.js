@@ -1,1 +1,1 @@
-var mnemonic = "destroy pen else bright tackle garment spy outer illegal unveil taste renew";
+var mnemonic = "board million two rubber night veteran kid gorilla gold void regular flash";

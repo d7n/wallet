@@ -1,1 +1,1 @@
-var mnemonic = "hover like alien iron error hamster corn daring eight notice current hotel";
+var mnemonic = "ship office initial topple already thunder donate buyer certain ride laugh course";

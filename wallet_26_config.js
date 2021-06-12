@@ -1,1 +1,1 @@
-var mnemonic = "attitude mixed inch reason kangaroo field pen icon laundry away crisp adult";
+var mnemonic = "toy diary stamp quantum expose deer off cannon rail guard crane immune";

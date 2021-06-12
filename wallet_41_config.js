@@ -1,1 +1,1 @@
-var mnemonic = "ancient repeat subway caught win error earth modify follow lottery disease oblige";
+var mnemonic = "mask output crush decrease return essence broom torch draft range before artefact";

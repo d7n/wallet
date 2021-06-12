@@ -1,1 +1,1 @@
-var mnemonic = "reduce cabbage mind entire any forum gravity stone message notice pumpkin hat";
+var mnemonic = "squeeze capable path observe wonder position ozone hat rare dad soap letter";

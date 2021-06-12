@@ -1,1 +1,1 @@
-var mnemonic = "mechanic affair blanket basic fix betray call rare hard divide know mail";
+var mnemonic = "local process bread depend hour gesture day face exact way govern motion";

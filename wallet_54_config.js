@@ -1,1 +1,1 @@
-var mnemonic = "smoke purity famous club wrist bench light burger badge document coconut canoe";
+var mnemonic = "sell debate poem fault genius helmet blade category when test churn talent";

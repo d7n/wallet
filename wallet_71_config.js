@@ -1,1 +1,1 @@
-var mnemonic = "palm private canyon shrug cliff avoid evoke garden model foot pact dumb";
+var mnemonic = "wonder mystery page zero science lens asthma blur timber chat hand carpet";

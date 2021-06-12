@@ -1,1 +1,1 @@
-var mnemonic = "settle access remind chapter purity tool shaft device topple fault daughter loyal";
+var mnemonic = "fire search bone orient retire title mercy camera mix market bottom kitchen";

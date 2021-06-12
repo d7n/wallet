@@ -1,1 +1,1 @@
-var mnemonic = "icon shield grocery beach treat village loyal fog cheese above erosion gas";
+var mnemonic = "denial spoil amused age update pattern fringe hour vague deal neutral thunder";

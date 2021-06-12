@@ -1,1 +1,1 @@
-var mnemonic = "boil write cool swallow grief fish rocket buyer number sun ozone spell";
+var mnemonic = "expose seat paper appear move pause antenna exhibit slot mass negative page";

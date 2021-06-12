@@ -1,1 +1,1 @@
-var mnemonic = "equal patient skin employ identify brick clutch lizard boat impact pledge grid";
+var mnemonic = "during sea junior ostrich pink wrist fork congress grunt kingdom consider century";

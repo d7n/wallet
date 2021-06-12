@@ -1,1 +1,1 @@
-var mnemonic = "journey case bulb repair brass deliver obey comfort crucial reveal trend rescue";
+var mnemonic = "top impose speak eternal wrist inhale leopard permit sail segment husband infant";

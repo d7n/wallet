@@ -1,1 +1,1 @@
-var mnemonic = "genius confirm alarm filter early session cover unaware bonus start music culture";
+var mnemonic = "item hole cereal van devote faith hover planet ski outdoor clump husband";

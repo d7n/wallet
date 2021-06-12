@@ -1,1 +1,1 @@
-var mnemonic = "taxi double option identify olive today salute valve thumb release lion second";
+var mnemonic = "meat athlete cabbage image lock unhappy firm news horse hour hair void";

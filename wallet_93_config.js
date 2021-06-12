@@ -1,1 +1,1 @@
-var mnemonic = "shy liar dog whip trouble city pear verify custom analyst pair thunder";
+var mnemonic = "attend mouse switch small air behave refuse flat decade away margin merry";

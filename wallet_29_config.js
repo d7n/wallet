@@ -1,1 +1,1 @@
-var mnemonic = "advance oblige afford state moral zoo dutch trick real audit bless swift";
+var mnemonic = "vapor insane crop truth gesture video clinic prevent medal bounce knock echo";

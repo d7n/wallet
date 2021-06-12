@@ -1,1 +1,1 @@
-var mnemonic = "talk cousin metal pig captain chat resource hover glass decrease blame armed";
+var mnemonic = "clever kingdom sure stumble fade awake funny palace torch gate soda because";

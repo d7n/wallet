@@ -1,1 +1,1 @@
-var mnemonic = "agent retire range circle label aspect nerve prefer globe finish vault intact";
+var mnemonic = "until topic sustain walk video pottery punch hockey crisp until security raven";

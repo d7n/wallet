@@ -1,1 +1,1 @@
-var mnemonic = "north talk need anxiety bottom capable orbit roast once item school acid";
+var mnemonic = "large gym delay property ski swallow add consider tonight win assist oven";

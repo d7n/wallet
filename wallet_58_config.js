@@ -1,1 +1,1 @@
-var mnemonic = "boost worth person item build turtle guide stool fork surface feed chair";
+var mnemonic = "goose humble avoid resource small animal civil comic exist great camera sibling";

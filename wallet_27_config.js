@@ -1,1 +1,1 @@
-var mnemonic = "exchange syrup repair grab gold receive quality crash tomato diamond weapon reveal";
+var mnemonic = "rack fitness shop pledge super clever connect merry vote regret spin kidney";

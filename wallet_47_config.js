@@ -1,1 +1,1 @@
-var mnemonic = "reduce basic blanket aspect month great snow cement control uncle nasty journey";
+var mnemonic = "usual hospital army artefact depart agent where example envelope remember replace admit";

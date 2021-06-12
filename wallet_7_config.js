@@ -1,1 +1,1 @@
-var mnemonic = "surround vocal nuclear milk tree then phrase earth tumble surface indicate join";
+var mnemonic = "circle diary actor purse laptop attract series skill bean issue ripple fatal";

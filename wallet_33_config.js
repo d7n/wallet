@@ -1,1 +1,1 @@
-var mnemonic = "sound nurse have assault toilet pyramid obvious trouble cushion obvious nurse explain";
+var mnemonic = "alert syrup payment ship about side detect slush corn scan dumb home";

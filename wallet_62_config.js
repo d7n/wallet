@@ -1,1 +1,1 @@
-var mnemonic = "poverty trust pigeon keen beyond dumb desert arrange bacon canyon combine supreme";
+var mnemonic = "discover prosper arrow random puppy patient sick lock act choice badge injury";

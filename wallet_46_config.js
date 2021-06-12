@@ -1,1 +1,1 @@
-var mnemonic = "response diet same swear observe spawn leaf angle dry balcony afford disagree";
+var mnemonic = "cash shield globe prefer draw monster champion coach pudding cross dial client";

@@ -1,1 +1,1 @@
-var mnemonic = "mail mass urban wrong popular used drastic bag rule broken dress split";
+var mnemonic = "fringe girl stomach shell limb song critic brand spawn jewel guide sting";

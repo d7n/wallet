@@ -1,1 +1,1 @@
-var mnemonic = "boat basic omit learn dizzy antique mango glance faculty film lion warrior";
+var mnemonic = "game outdoor dolphin cage purse congress steel slam machine wool brother emotion";

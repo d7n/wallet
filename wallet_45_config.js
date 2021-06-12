@@ -1,1 +1,1 @@
-var mnemonic = "wire boil patrol melt live lens teach service brother help maid vivid";
+var mnemonic = "local laptop pretty climb chair figure play carbon picture series middle erase";

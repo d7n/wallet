@@ -1,1 +1,1 @@
-var mnemonic = "syrup flash casual matrix bomb drop come air measure board bitter churn";
+var mnemonic = "sleep shock lounge leg pond around artist panel mechanic bracket there sudden";

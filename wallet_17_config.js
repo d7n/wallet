@@ -1,1 +1,1 @@
-var mnemonic = "fossil gym also repeat robust trial level drum hunt impulse sing one";
+var mnemonic = "auction metal gate electric rebuild october fish question brush future pudding hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "feed lumber sense agent sign ghost visa defense horn armed chronic lazy";
+var mnemonic = "garage weapon ceiling deny frame illegal speak refuse express success journey piece";

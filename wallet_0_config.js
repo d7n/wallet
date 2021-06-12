@@ -1,1 +1,1 @@
-var mnemonic = "exercise tomorrow immune spice panic leaf chest crew umbrella mouse gym duty";
+var mnemonic = "host live diet prevent middle satisfy vanish exchange cable genuine dismiss theme";

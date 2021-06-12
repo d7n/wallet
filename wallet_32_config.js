@@ -1,1 +1,1 @@
-var mnemonic = "cheap defy tell pulse nasty alert fluid pride close blind minor journey";
+var mnemonic = "mixed tip merit maximum vintage candy mad biology panther flock notice empower";

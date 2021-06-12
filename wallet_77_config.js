@@ -1,1 +1,1 @@
-var mnemonic = "fox border expect enable plug gossip angle cotton nice spy pull shrug";
+var mnemonic = "cousin question dust door master end liar vehicle setup dust quarter stand";

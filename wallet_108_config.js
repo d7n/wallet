@@ -1,1 +1,1 @@
-var mnemonic = "put solve spread again barely august own raise maple warrior love solve";
+var mnemonic = "announce cook release trim embody magic talk media sponsor behave owner mix";

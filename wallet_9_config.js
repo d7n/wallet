@@ -1,1 +1,1 @@
-var mnemonic = "laptop clog brown twin fringe giggle fluid remove leaf opinion spread misery";
+var mnemonic = "biology lumber rail when deliver breeze add wrap must field client rookie";

@@ -1,1 +1,1 @@
-var mnemonic = "wise farm fault hope satoshi net curtain crime brand because uphold elegant";
+var mnemonic = "spirit finger announce humor category country inspire daring weather behind girl strike";

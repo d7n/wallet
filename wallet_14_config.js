@@ -1,1 +1,1 @@
-var mnemonic = "cushion laugh nut absurd weekend maze stem walnut install super outside decade";
+var mnemonic = "physical admit enemy denial define random video crowd essay indoor thrive unveil";

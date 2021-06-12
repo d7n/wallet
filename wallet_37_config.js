@@ -1,1 +1,1 @@
-var mnemonic = "oblige axis track place mean hedgehog rhythm idea grit music still demand";
+var mnemonic = "promote hurry palm cannon warrior drum above seek expect culture shift budget";

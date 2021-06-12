@@ -1,1 +1,1 @@
-var mnemonic = "armed movie hurdle vocal debris rude satoshi input outer quick equip city";
+var mnemonic = "peasant pull slogan lion same fun black spray usage before fatal agree";

@@ -1,1 +1,1 @@
-var mnemonic = "wine airport nut blur tiny problem teach year pool oval pair utility";
+var mnemonic = "explain correct ability supreme destroy robot rifle cannon sand concert couch rotate";

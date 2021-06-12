@@ -1,1 +1,1 @@
-var mnemonic = "surprise furnace property sniff curtain fortune trouble predict actress chalk hazard lunar";
+var mnemonic = "color clever party prefer story token rather cloud rural girl combine envelope";

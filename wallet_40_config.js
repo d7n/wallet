@@ -1,1 +1,1 @@
-var mnemonic = "enable tobacco aspect item second bread call rate august shield olive simple";
+var mnemonic = "hat vanish rose dish traffic venture carry hobby save devote ecology sponsor";

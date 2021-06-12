@@ -1,1 +1,1 @@
-var mnemonic = "stadium swim harvest eager great pass year hello among spend wear swift";
+var mnemonic = "inspire tag assume scatter tunnel credit roast document diet enlist visual horn";

@@ -1,1 +1,1 @@
-var mnemonic = "guide spring treat kit fine repeat mercy talent august thrive snack initial";
+var mnemonic = "zoo emerge renew dutch sort recycle dentist rebel ranch scorpion travel wealth";

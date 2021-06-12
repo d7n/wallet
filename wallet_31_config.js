@@ -1,1 +1,1 @@
-var mnemonic = "ready knee tissue olive blouse problem label media voyage labor custom skate";
+var mnemonic = "shop flip nature truck gallery time analyst syrup bronze foam cake maid";

@@ -1,1 +1,1 @@
-var mnemonic = "purity sample crystal caught coach tribe salt bounce salad chunk script bonus";
+var mnemonic = "recipe alone wolf daughter nephew leader sausage awake ten sweet shuffle sugar";

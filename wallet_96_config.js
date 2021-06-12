@@ -1,1 +1,1 @@
-var mnemonic = "dad ball tray burger income method foster grunt squirrel grid famous pilot";
+var mnemonic = "defy moral floor wise basic arrange spatial leg parent bachelor ankle gesture";

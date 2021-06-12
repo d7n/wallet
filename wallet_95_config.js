@@ -1,1 +1,1 @@
-var mnemonic = "boss master thrive oak venue almost net race symbol cool goose section";
+var mnemonic = "door salute helmet dumb discover cable next depend silver eager pear shaft";

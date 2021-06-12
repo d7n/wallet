@@ -1,1 +1,1 @@
-var mnemonic = "reunion update miracle pave term smoke nasty model eight very future loan";
+var mnemonic = "butter later hybrid join rent hero great census bargain stamp above learn";

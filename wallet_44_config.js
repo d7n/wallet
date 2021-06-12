@@ -1,1 +1,1 @@
-var mnemonic = "choose click farm business vague impose wage animal almost slogan once come";
+var mnemonic = "palace enter fantasy earn boil age laugh harvest human today visa crash";

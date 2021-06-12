@@ -1,1 +1,1 @@
-var mnemonic = "unaware bachelor kitten report close copy erase flock crowd wash doll clever";
+var mnemonic = "east again gym source logic inch betray jelly field adjust subject voyage";

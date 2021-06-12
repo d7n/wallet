@@ -1,1 +1,1 @@
-var mnemonic = "ancient lock violin rally brick spy disorder chase leg reveal speak city";
+var mnemonic = "hello galaxy parade endorse attract drink one comic surround aunt great broccoli";

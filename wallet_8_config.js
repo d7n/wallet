@@ -1,1 +1,1 @@
-var mnemonic = "already walnut lady plastic cry empty saddle sort suspect breeze strike embrace";
+var mnemonic = "distance universe apology boat between dinner explain when hover rain net runway";

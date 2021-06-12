@@ -1,1 +1,1 @@
-var mnemonic = "slice predict infant load fuel marine sleep verb dash sadness afford knock";
+var mnemonic = "plunge they unaware wagon million solve castle differ system inherit twist tennis";

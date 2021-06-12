@@ -1,1 +1,1 @@
-var mnemonic = "derive visual fresh section occur spike account inner praise provide mimic scare";
+var mnemonic = "favorite urban large kingdom very tool list outdoor another layer tattoo observe";

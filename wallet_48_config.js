@@ -1,1 +1,1 @@
-var mnemonic = "lonely razor fossil burger sad away shop engine screen obtain taste six";
+var mnemonic = "sign wealth never flee control this learn resist endorse rib flat happy";

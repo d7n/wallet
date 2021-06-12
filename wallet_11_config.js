@@ -1,1 +1,1 @@
-var mnemonic = "misery picture water message kite sponsor pledge aspect various fortune room arrest";
+var mnemonic = "royal arrest issue settle blast stay faint power endless balcony inhale runway";

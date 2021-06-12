@@ -1,1 +1,1 @@
-var mnemonic = "guard amazing finger ketchup swallow there border ketchup crowd grass brain credit";
+var mnemonic = "boss school acquire valve tank razor nature battle suffer magic chimney exotic";

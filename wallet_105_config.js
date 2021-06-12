@@ -1,1 +1,1 @@
-var mnemonic = "there switch hurry sniff inquiry favorite opera sock year vocal under brief";
+var mnemonic = "cattle output future faith fall collect solid april infant price circle quality";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage carbon praise vapor foot pistol scrap alpha cook inherit stairs title";
+var mnemonic = "machine vapor draw biology come teach swallow metal above empty pluck collect";

@@ -1,1 +1,1 @@
-var mnemonic = "stand real august forget hard final faculty head diamond blue glove must";
+var mnemonic = "gentle tonight ankle device bamboo wrap rich salon canal employ mad athlete";

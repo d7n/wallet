@@ -1,1 +1,1 @@
-var mnemonic = "license kangaroo mention dismiss width urban exhaust foam lady cube blouse detail";
+var mnemonic = "under enact nephew nuclear list lamp choose very three welcome hedgehog butter";

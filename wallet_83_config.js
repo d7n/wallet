@@ -1,1 +1,1 @@
-var mnemonic = "blade key grain vicious lobster derive donor tank alter insane crouch spoil";
+var mnemonic = "swarm illegal keep glass attitude hawk vapor circle season mushroom raise valid";

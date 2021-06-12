@@ -1,1 +1,1 @@
-var mnemonic = "elevator remain foam resemble quiz express name ocean modify embark impulse oil";
+var mnemonic = "crisp lumber movie ginger coast patrol improve chef cry clutch club cereal";

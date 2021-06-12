@@ -1,1 +1,1 @@
-var mnemonic = "excite slight dove cup jar stadium produce glue hen snake dwarf scare";
+var mnemonic = "choice maze fame make margin wolf course detect inhale wild timber outdoor";

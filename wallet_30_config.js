@@ -1,1 +1,1 @@
-var mnemonic = "picture snap nerve virus budget table empower arena digital fault fuel worry";
+var mnemonic = "crystal old year session replace they client novel curve museum obey hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "reward option punch soon leopard video feel skill donate glow humble find";
+var mnemonic = "diagram issue result parent only order junk suit upset wine bus cheese";

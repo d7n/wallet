@@ -1,1 +1,1 @@
-var mnemonic = "media mad budget safe iron okay siren disease step horror goose artwork";
+var mnemonic = "network math pool firm survey sort attack illness term oblige month ten";

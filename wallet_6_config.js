@@ -1,1 +1,1 @@
-var mnemonic = "sand edge swarm bronze obvious crisp acid swallow bullet bacon involve iron";
+var mnemonic = "salt junior attack catch rotate mix age blood stage banner nature doctor";

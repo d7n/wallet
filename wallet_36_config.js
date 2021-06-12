@@ -1,1 +1,1 @@
-var mnemonic = "welcome orange jelly lawsuit bomb once metal smart hair churn marble panic";
+var mnemonic = "police glue super garment mercy ribbon candy case double plate arrow joy";

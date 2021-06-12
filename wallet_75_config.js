@@ -1,1 +1,1 @@
-var mnemonic = "design remind duty inspire frown like broccoli pen jaguar relax gain absent";
+var mnemonic = "inject merry obey zoo act scheme crazy observe purpose flame render aerobic";

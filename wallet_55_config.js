@@ -1,1 +1,1 @@
-var mnemonic = "rare token tank unknown marine foam thought ribbon effort patch dinner soap";
+var mnemonic = "minor all impact spoon armor garlic mystery slim decrease label birth raise";

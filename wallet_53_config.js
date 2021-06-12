@@ -1,1 +1,1 @@
-var mnemonic = "celery amazing unhappy mass author stomach stool thank limit turn season length";
+var mnemonic = "confirm police coral fence target tunnel merge income truck multiply trigger tree";

@@ -1,1 +1,1 @@
-var mnemonic = "timber hunt favorite sell because file veteran coin license mansion average true";
+var mnemonic = "citizen august pole upset tent sponsor omit hungry brush cash deposit reform";

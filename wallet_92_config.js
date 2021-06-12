@@ -1,1 +1,1 @@
-var mnemonic = "ghost shadow menu filter paddle asthma thrive sudden pledge tray youth depart";
+var mnemonic = "brisk kidney found photo column metal improve borrow popular dish purpose push";
