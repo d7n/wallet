@@ -1,1 +1,1 @@
-var mnemonic = "brother economy vacant balance dose hurdle grocery joy mushroom fiber concert edit";
+var mnemonic = "deliver list uncover skate piano manual lawsuit flush tiger artwork demand chapter";

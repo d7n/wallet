@@ -1,1 +1,1 @@
-var mnemonic = "cream flame income soccer emerge jewel hole lab oven faint purity invest";
+var mnemonic = "rally adapt absorb aunt wrap alone cook virus drive mistake pottery camera";

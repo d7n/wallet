@@ -1,1 +1,1 @@
-var mnemonic = "all rough stairs copy pilot board false awkward sustain victory erosion flush";
+var mnemonic = "possible life twelve arch bulb despair harsh slide cat say demand just";

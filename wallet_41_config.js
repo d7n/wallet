@@ -1,1 +1,1 @@
-var mnemonic = "jungle sausage essence keep monkey stone sunny fix cushion damp bargain peace";
+var mnemonic = "cart depth behind record zebra film electric clay veteran property coconut video";

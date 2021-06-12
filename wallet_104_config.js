@@ -1,1 +1,1 @@
-var mnemonic = "enter just exile breeze draft portion fury company pole nature often upgrade";
+var mnemonic = "burst tiny artefact betray hub taxi state choose grunt lunar olympic february";

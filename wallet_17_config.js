@@ -1,1 +1,1 @@
-var mnemonic = "sight weekend announce paper change shell praise palace high title tunnel picture";
+var mnemonic = "marriage remove despair frog urge twice burden desk worth region dash dinner";

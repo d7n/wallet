@@ -1,1 +1,1 @@
-var mnemonic = "coil tobacco olympic weird ready orient dinner arrive globe ladder congress climb";
+var mnemonic = "blame sorry doll old manage gorilla scout mouse crucial ship erode language";

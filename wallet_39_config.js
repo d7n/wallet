@@ -1,1 +1,1 @@
-var mnemonic = "key general grid drastic coyote sample obvious drastic cat void guard flee";
+var mnemonic = "sugar settle scan curve fog swing child echo sponsor toss lend become";

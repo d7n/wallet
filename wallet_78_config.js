@@ -1,1 +1,1 @@
-var mnemonic = "human ill round bicycle puzzle curve nest mix confirm ordinary under dove";
+var mnemonic = "fine void immune image minor income purchase dentist wealth wreck usage thumb";

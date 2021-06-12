@@ -1,1 +1,1 @@
-var mnemonic = "begin laundry fiber rib walk brave also green post settle must skill";
+var mnemonic = "model mouse rent evolve correct excite ladder talk chef regret crew true";

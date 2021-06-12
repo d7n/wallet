@@ -1,1 +1,1 @@
-var mnemonic = "size ghost angry solid rough goat bulk family skirt enemy odor solar";
+var mnemonic = "quote crime farm unaware guitar industry husband skirt quick arrive vote spoil";

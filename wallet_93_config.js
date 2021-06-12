@@ -1,1 +1,1 @@
-var mnemonic = "limb juice crack scan melt acquire size ecology snow share note little";
+var mnemonic = "celery torch uncle volume unlock mistake chest easy gate mimic excuse simple";

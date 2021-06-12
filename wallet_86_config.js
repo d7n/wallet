@@ -1,1 +1,1 @@
-var mnemonic = "trial network zebra meat movie session magic estate steak demand gain annual";
+var mnemonic = "goddess type spread between wasp hazard amused brown common sunny beach maple";

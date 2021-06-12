@@ -1,1 +1,1 @@
-var mnemonic = "swift taxi leg system reflect hair crater entry drama clown elevator enemy";
+var mnemonic = "result paddle nation inmate giant impact arctic kingdom world company embrace physical";

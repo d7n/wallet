@@ -1,1 +1,1 @@
-var mnemonic = "invite drop detect drill game prison gospel gather pipe museum shell rely";
+var mnemonic = "carpet solution lyrics sense giggle purchase share recycle stairs crop alcohol fresh";

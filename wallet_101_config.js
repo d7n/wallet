@@ -1,1 +1,1 @@
-var mnemonic = "collect ethics aunt pink menu brother donate fox wheat clinic horn love";
+var mnemonic = "nation patch disease filter usual verify rotate alley tree adapt shaft habit";

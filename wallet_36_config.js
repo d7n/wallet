@@ -1,1 +1,1 @@
-var mnemonic = "steel drift era drama someone swing liquid cage lake predict illness prepare";
+var mnemonic = "apple border excuse scorpion harbor peace special small rail safe shop milk";

@@ -1,1 +1,1 @@
-var mnemonic = "attend ten dose average ill grunt ozone vague cannon attitude security enable";
+var mnemonic = "review similar enroll nut tongue sadness quote labor next there stay fitness";

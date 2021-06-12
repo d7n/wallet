@@ -1,1 +1,1 @@
-var mnemonic = "language second energy subject chief volume middle ill pipe sword crawl chaos";
+var mnemonic = "bronze monkey own food kiwi this sort loud flavor oyster barrel uphold";

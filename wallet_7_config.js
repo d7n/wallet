@@ -1,1 +1,1 @@
-var mnemonic = "shine true knee hollow marine maze mail sound wasp toddler audit stereo";
+var mnemonic = "snow exact cactus chuckle tomorrow inhale bid shove second draw weapon business";

@@ -1,1 +1,1 @@
-var mnemonic = "again sea fitness eagle lonely worry fork zero urge tide south drift";
+var mnemonic = "company fee wild choice panel order cement among seminar fold machine guide";

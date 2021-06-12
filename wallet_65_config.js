@@ -1,1 +1,1 @@
-var mnemonic = "question man dice seek breeze early cheese warfare melody stairs hood apple";
+var mnemonic = "squeeze skirt since dream already drift element burger sock rude reason wire";

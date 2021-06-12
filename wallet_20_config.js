@@ -1,1 +1,1 @@
-var mnemonic = "vessel spoil sausage gold helmet outside disorder danger cruel picnic alcohol ordinary";
+var mnemonic = "void time young duty maid sugar donkey poverty setup grass elephant magnet";

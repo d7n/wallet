@@ -1,1 +1,1 @@
-var mnemonic = "certain mixture mind uphold salt decade salt lottery antenna congress example protect";
+var mnemonic = "arrest pyramid sign motion owner strategy turn visa rotate main country badge";

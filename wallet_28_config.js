@@ -1,1 +1,1 @@
-var mnemonic = "upper winner pulse swift judge wet hurry retreat shove comic bless beef";
+var mnemonic = "glad asset dial fossil mandate exotic insect time glove crush tragic noise";

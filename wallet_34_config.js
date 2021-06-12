@@ -1,1 +1,1 @@
-var mnemonic = "citizen mobile exchange finish sadness smile spring stable slow fury guard senior";
+var mnemonic = "toy pencil lunch used describe reopen again shaft kitchen boost enjoy cousin";

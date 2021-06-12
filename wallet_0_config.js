@@ -1,1 +1,1 @@
-var mnemonic = "film consider pave immense screen enemy exchange news crack despair agent immense";
+var mnemonic = "elder eyebrow gun lumber add farm slight evolve evoke ritual symptom trend";

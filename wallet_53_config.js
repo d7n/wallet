@@ -1,1 +1,1 @@
-var mnemonic = "cause success crucial catch assault marine panther obey tail sense bronze weapon";
+var mnemonic = "hint butter setup snake aspect engine become victory above oil remove foam";

@@ -1,1 +1,1 @@
-var mnemonic = "ten best evolve chair stone cheap brain grid offer fun slush steel";
+var mnemonic = "still six maple blush hand embark echo cement dose remind pen trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "labor response area since illegal make inch casino modify tissue scorpion legal";
+var mnemonic = "upon hundred alarm number lesson gorilla also minor repair fork always spread";

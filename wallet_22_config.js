@@ -1,1 +1,1 @@
-var mnemonic = "nothing honey one price apology health athlete base velvet ugly bonus number";
+var mnemonic = "strategy wing lyrics approve atom name cube slogan what shy crack dolphin";

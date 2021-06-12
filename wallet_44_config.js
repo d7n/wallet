@@ -1,1 +1,1 @@
-var mnemonic = "over upper abandon mirror grain dynamic sample neither item position crater never";
+var mnemonic = "confirm betray glimpse bright fade panda area submit rocket laundry silk time";

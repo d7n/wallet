@@ -1,1 +1,1 @@
-var mnemonic = "stand cabin uphold bus display enhance bubble tape float turtle awesome nut";
+var mnemonic = "tired banana modify sunny uphold sponsor vast myself mandate steak simple system";

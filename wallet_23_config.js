@@ -1,1 +1,1 @@
-var mnemonic = "scorpion nose antenna refuse artwork arrive split state skull card churn kit";
+var mnemonic = "note acoustic usage future spike radio goddess bulk stable sock skirt census";

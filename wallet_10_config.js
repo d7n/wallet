@@ -1,1 +1,1 @@
-var mnemonic = "miracle grit crime ability mule regular moral donate doctor index put chunk";
+var mnemonic = "nose kitten guess trend glide knife pair voice speed tuna blossom limit";

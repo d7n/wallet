@@ -1,1 +1,1 @@
-var mnemonic = "twin sunny satisfy regular treat various winter powder absent useless deer grant";
+var mnemonic = "purity canvas stone bicycle icon stage fade solid rude board museum focus";

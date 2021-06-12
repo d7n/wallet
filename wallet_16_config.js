@@ -1,1 +1,1 @@
-var mnemonic = "couch frog story impose edge symbol only cancel fitness father power tonight";
+var mnemonic = "index zebra illegal next winter verb certain initial file health drip blanket";

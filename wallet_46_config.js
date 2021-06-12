@@ -1,1 +1,1 @@
-var mnemonic = "true surprise jungle burger chest brass release key protect suffer deer unfold";
+var mnemonic = "polar unique thought pumpkin index mimic loud rather spawn right blue replace";

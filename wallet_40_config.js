@@ -1,1 +1,1 @@
-var mnemonic = "finger entry cabbage until topic gap raw grit sunny pumpkin addict fluid";
+var mnemonic = "fire drink shrimp focus basic crater matter carbon later fish citizen senior";

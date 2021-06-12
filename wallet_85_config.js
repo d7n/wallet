@@ -1,1 +1,1 @@
-var mnemonic = "soft current ridge uphold fitness exhibit either adapt shed bus impulse syrup";
+var mnemonic = "pass comic skin main scorpion program hold phone enact found around talk";

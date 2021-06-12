@@ -1,1 +1,1 @@
-var mnemonic = "bottom brisk display enlist album agent glad blame burst quick moment mule";
+var mnemonic = "act snow where brass theory point pulp sudden gospel reform kick ocean";

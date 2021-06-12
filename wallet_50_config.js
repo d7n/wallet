@@ -1,1 +1,1 @@
-var mnemonic = "like animal useful inject coral across valve denial sock foot fan cupboard";
+var mnemonic = "prize woman peasant degree egg hour true sugar estate pluck roast clever";

@@ -1,1 +1,1 @@
-var mnemonic = "echo shift float mind conduct hill defy shift corn bundle reform diesel";
+var mnemonic = "winner stamp pistol few axis half nice gallery dial club drip stove";

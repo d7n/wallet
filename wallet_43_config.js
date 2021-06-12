@@ -1,1 +1,1 @@
-var mnemonic = "hamster diagram shoot pass wrong boring strategy piece abandon defense better razor";
+var mnemonic = "quality asset cliff gauge egg cause foil cannon control auto door emerge";

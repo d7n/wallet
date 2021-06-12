@@ -1,1 +1,1 @@
-var mnemonic = "web over cross bottom need mimic satoshi swarm shine credit cram civil";
+var mnemonic = "frame eternal update battle vague movie mystery castle flag comic shallow cotton";

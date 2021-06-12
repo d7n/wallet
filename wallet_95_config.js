@@ -1,1 +1,1 @@
-var mnemonic = "vague useful minor this tattoo script oyster surround action urban vibrant modify";
+var mnemonic = "evil audit tired scan border enable ripple school dynamic movie toddler wet";

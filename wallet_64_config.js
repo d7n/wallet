@@ -1,1 +1,1 @@
-var mnemonic = "cause distance upgrade long narrow script soldier moral moral arrow disagree lunch";
+var mnemonic = "favorite devote used critic collect original color entire silk exact phrase inject";

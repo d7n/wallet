@@ -1,1 +1,1 @@
-var mnemonic = "gorilla copper public december elite labor nerve oven help spoil photo slight";
+var mnemonic = "pumpkin unveil artist celery vocal humble various west palm oil laugh soda";

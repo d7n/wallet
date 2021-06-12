@@ -1,1 +1,1 @@
-var mnemonic = "picnic dutch north egg enhance dilemma eager rare issue spell margin jeans";
+var mnemonic = "index donor wasp token host clap craft smoke bundle oyster transfer snap";

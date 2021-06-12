@@ -1,1 +1,1 @@
-var mnemonic = "suggest bag connect denial flavor hunt snack census between decorate ahead wrong";
+var mnemonic = "embody expose chalk another upon shadow urge elevator lizard flush view actual";

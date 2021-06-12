@@ -1,1 +1,1 @@
-var mnemonic = "two faith pig bean brother exotic farm vibrant eager evil alcohol they";
+var mnemonic = "into helmet marine attitude deny pottery spike pole fiber lounge property rude";

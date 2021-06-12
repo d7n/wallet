@@ -1,1 +1,1 @@
-var mnemonic = "thank buzz job minor maid bomb skin bundle detail congress castle salmon";
+var mnemonic = "couple inch theory alcohol day trouble hold close sock stove success high";

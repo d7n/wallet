@@ -1,1 +1,1 @@
-var mnemonic = "situate pizza hamster furnace initial awake open mad helmet group ripple soon";
+var mnemonic = "asset must diesel identify hedgehog umbrella maple dose hair patient fashion off";

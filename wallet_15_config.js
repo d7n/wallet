@@ -1,1 +1,1 @@
-var mnemonic = "noise romance salute assist midnight deer provide around train during final consider";
+var mnemonic = "flee weather cloth happy math ready bundle stamp jar verify dinosaur mother";

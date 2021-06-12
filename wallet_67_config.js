@@ -1,1 +1,1 @@
-var mnemonic = "tornado ethics crisp debris interest stone delay spawn party change surface exile";
+var mnemonic = "shop express evil mango crash nose inquiry lens cloud home book trial";

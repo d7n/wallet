@@ -1,1 +1,1 @@
-var mnemonic = "pond neglect carbon poet female ginger rich muscle hip number cousin shell";
+var mnemonic = "envelope produce eternal sport enhance choice guard little atom simple width ready";

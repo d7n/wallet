@@ -1,1 +1,1 @@
-var mnemonic = "pair victory loyal seven involve gospel coin south kid else rocket gym";
+var mnemonic = "movie floor diesel primary robot minute sponsor stock purity vicious dry glad";

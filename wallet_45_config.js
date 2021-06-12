@@ -1,1 +1,1 @@
-var mnemonic = "lock match blossom better rich broccoli cage embark wrestle jealous rescue vast";
+var mnemonic = "ecology impact century rookie glow book damp spice always know buyer typical";

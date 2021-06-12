@@ -1,1 +1,1 @@
-var mnemonic = "piano push coach life blouse nuclear wage zebra excite way news brain";
+var mnemonic = "deputy bulk private economy rescue insect student method word safe improve dentist";

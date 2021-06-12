@@ -1,1 +1,1 @@
-var mnemonic = "slam solution salon hen rent inside hour fragile subject dance lunar unique";
+var mnemonic = "jar spice enact hurry core bless claw net cry order bargain truck";

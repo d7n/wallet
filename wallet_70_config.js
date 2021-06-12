@@ -1,1 +1,1 @@
-var mnemonic = "raw evolve pioneer effort play cost thumb venue usage marine play border";
+var mnemonic = "near snack iron canvas million curious animal reason motion caution barrel long";

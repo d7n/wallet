@@ -1,1 +1,1 @@
-var mnemonic = "multiply blue aware push tool hard spray belt camera ecology noodle sure";
+var mnemonic = "boat require arrow gadget blanket skate diamond sure purse steak pet cram";

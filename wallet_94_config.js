@@ -1,1 +1,1 @@
-var mnemonic = "rhythm talk icon setup track pear absurd peasant worry vault east seminar";
+var mnemonic = "glue degree problem either february daughter gasp nothing bridge echo energy stem";

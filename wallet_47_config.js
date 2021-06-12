@@ -1,1 +1,1 @@
-var mnemonic = "cargo rail tree alpha mechanic direct wrong affair typical flat small tomato";
+var mnemonic = "resist sustain talk wonder garlic moral viable woman point couch section trend";

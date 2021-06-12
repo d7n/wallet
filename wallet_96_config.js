@@ -1,1 +1,1 @@
-var mnemonic = "hundred outside north own puppy social forward okay east you sort nice";
+var mnemonic = "dream sunny silver hurdle sentence enact garden goat during utility pull wisdom";

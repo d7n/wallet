@@ -1,1 +1,1 @@
-var mnemonic = "medal mutual company angry feature chimney task risk notice tag barely tired";
+var mnemonic = "height rail brick seminar renew patrol chair execute machine tone forget gain";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic gap trumpet mom absurd hundred false wonder salute tray olympic slush";
+var mnemonic = "mango girl whale cabin master stable seed visual win pill topic melody";

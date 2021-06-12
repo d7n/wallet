@@ -1,1 +1,1 @@
-var mnemonic = "disagree column water like toddler ripple peanut ensure wisdom adjust need all";
+var mnemonic = "interest believe upper merry ostrich green awful holiday walk arch song forest";

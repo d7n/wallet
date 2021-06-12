@@ -1,1 +1,1 @@
-var mnemonic = "window hazard vast jar sense coral copy away resist section inform spell";
+var mnemonic = "mean increase nice dutch exchange move ridge make army diary bicycle elevator";

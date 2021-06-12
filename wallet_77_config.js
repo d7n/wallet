@@ -1,1 +1,1 @@
-var mnemonic = "select price female ticket goose dinosaur cream strategy science admit orange holiday";
+var mnemonic = "deputy busy palace analyst hero eight sphere acoustic give useless hedgehog young";

@@ -1,1 +1,1 @@
-var mnemonic = "despair artefact equal axis sadness peasant toast foam flock direct bunker mule";
+var mnemonic = "gesture hollow tenant tomorrow display resemble weasel physical same eyebrow silk above";

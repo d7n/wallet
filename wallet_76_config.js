@@ -1,1 +1,1 @@
-var mnemonic = "budget senior bacon company bicycle moment chicken vacant position february naive host";
+var mnemonic = "vault rotate fossil awful crew high destroy kite dawn fluid fold shaft";

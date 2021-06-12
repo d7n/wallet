@@ -1,1 +1,1 @@
-var mnemonic = "tiger notice love rent erode prize token craft notice wasp wait matter";
+var mnemonic = "long bean upgrade dragon physical quiz box mistake market auction peasant powder";

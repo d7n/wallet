@@ -1,1 +1,1 @@
-var mnemonic = "arrange vocal advice abuse apple vacuum tuna next capital glimpse size three";
+var mnemonic = "dial dad bitter pact symptom mushroom cabin gasp box boss slogan final";

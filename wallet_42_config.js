@@ -1,1 +1,1 @@
-var mnemonic = "name kingdom divert fortune venture whisper desk certain invite unveil term photo";
+var mnemonic = "diagram sustain account tell short vivid coconut evoke margin sentence month rally";

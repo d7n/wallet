@@ -1,1 +1,1 @@
-var mnemonic = "pony jacket shift metal wire combine script wreck tomorrow awkward family equal";
+var mnemonic = "industry describe field squirrel glue tortoise unveil together lift tiger ginger win";

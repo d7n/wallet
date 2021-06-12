@@ -1,1 +1,1 @@
-var mnemonic = "sad movie write clutch own keep advice among cattle ring energy sign";
+var mnemonic = "original stool artist unable olive post day exact better barrel dial question";

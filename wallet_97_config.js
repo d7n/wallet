@@ -1,1 +1,1 @@
-var mnemonic = "primary admit select copy render blade early chief maximum vast check fish";
+var mnemonic = "oak cash dilemma sort genre stumble warfare route suggest nurse pave modify";

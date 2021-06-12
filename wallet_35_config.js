@@ -1,1 +1,1 @@
-var mnemonic = "thank wire fabric insane honey ship scheme monkey unhappy dream stairs city";
+var mnemonic = "oven square people few puppy detail ability goddess dream color clinic fish";

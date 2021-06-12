@@ -1,1 +1,1 @@
-var mnemonic = "peace fitness ghost fashion cargo leaf dismiss either much insect lake morning";
+var mnemonic = "resist warfare mansion now tiger world razor civil turn ripple crumble kite";

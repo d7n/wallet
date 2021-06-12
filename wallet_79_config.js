@@ -1,1 +1,1 @@
-var mnemonic = "dwarf wealth pull wine head shaft soft where vast olympic camp canvas";
+var mnemonic = "claw faint wild inside census burst chaos copy obscure unusual result list";

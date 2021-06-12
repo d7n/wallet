@@ -1,1 +1,1 @@
-var mnemonic = "phrase eagle car legend blast mixture outside silly olive magic draft nose";
+var mnemonic = "renew canal only merge huge solution hold build vacuum weapon confirm upset";

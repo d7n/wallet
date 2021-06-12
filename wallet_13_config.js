@@ -1,1 +1,1 @@
-var mnemonic = "ask nice repair height breeze garden song ability hockey chunk voyage behind";
+var mnemonic = "desk ticket emotion man earn region debris embody equip fossil tuition biology";

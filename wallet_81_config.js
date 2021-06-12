@@ -1,1 +1,1 @@
-var mnemonic = "dragon eagle shed wrap wolf shadow cream course rural speed swim hire";
+var mnemonic = "planet wreck entire allow rough middle ill rate cash drastic earth walk";

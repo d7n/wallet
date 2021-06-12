@@ -1,1 +1,1 @@
-var mnemonic = "gold obtain dizzy tower clog phrase route accident sugar spider lonely usual";
+var mnemonic = "obtain bounce invest way august poverty cause play deputy crucial emerge aerobic";

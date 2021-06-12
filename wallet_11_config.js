@@ -1,1 +1,1 @@
-var mnemonic = "animal hello finish shadow link wisdom lava depend time risk neglect agree";
+var mnemonic = "upset leg vault wasp cruel increase mirror sketch attract suggest divert island";

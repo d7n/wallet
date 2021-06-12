@@ -1,1 +1,1 @@
-var mnemonic = "antenna loyal tent wing jaguar fiscal destroy visit need pole child urban";
+var mnemonic = "produce lemon orphan twist reject swarm fade high comfort throw recall world";
