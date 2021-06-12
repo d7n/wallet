@@ -1,1 +1,1 @@
-var mnemonic = "clean comfort slow smile rich arch zero slam web achieve again pet";
+var mnemonic = "find desert auction puppy clean solid choice own silk swallow daughter maximum";

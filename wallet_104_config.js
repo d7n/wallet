@@ -1,1 +1,1 @@
-var mnemonic = "dress enjoy mistake fame vendor mass turn argue below easily tower runway";
+var mnemonic = "job tool worry hockey lock rack parent badge couple decide welcome physical";

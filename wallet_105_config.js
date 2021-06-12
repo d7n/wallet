@@ -1,1 +1,1 @@
-var mnemonic = "only still winner slice behave off buyer reform uncle fire rapid job";
+var mnemonic = "they credit crane solve grab chef true arrest boost practice hand elephant";

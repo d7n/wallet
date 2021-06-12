@@ -1,1 +1,1 @@
-var mnemonic = "banana muscle allow toward tiger amateur crane wedding super impact alarm animal";
+var mnemonic = "frog remove february cable boat track proof turn neck tomorrow antenna annual";

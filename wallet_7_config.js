@@ -1,1 +1,1 @@
-var mnemonic = "auction honey concert minimum profit addict security donate proof cattle debate dumb";
+var mnemonic = "feature egg host jaguar royal grief blossom romance wood dawn gap warrior";

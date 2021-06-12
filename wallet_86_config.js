@@ -1,1 +1,1 @@
-var mnemonic = "purpose roof tissue man slow candy explain spy embody pair leg fox";
+var mnemonic = "someone fun swarm armor head curtain fuel swamp current now game tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve olympic staff need action gallery stick ice jazz stadium leopard lawsuit";
+var mnemonic = "cereal sister illness beyond jump fog neutral hollow roof elbow engine guide";

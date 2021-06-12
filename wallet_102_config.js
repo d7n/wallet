@@ -1,1 +1,1 @@
-var mnemonic = "judge payment sudden basic fame maid yard mail love kind escape dinner";
+var mnemonic = "rebuild siege feed feel steak fabric churn jelly cost cheap slam address";

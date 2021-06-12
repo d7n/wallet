@@ -1,1 +1,1 @@
-var mnemonic = "grape pluck point chief damp core adjust section nuclear board isolate equip";
+var mnemonic = "rely shoulder token shine narrow culture world first mechanic green mother tilt";

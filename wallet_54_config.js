@@ -1,1 +1,1 @@
-var mnemonic = "ritual illegal cross daring candy same canvas minute banana visa cook extend";
+var mnemonic = "defy magnet holiday practice derive attend warm caution math build wide nerve";

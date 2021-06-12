@@ -1,1 +1,1 @@
-var mnemonic = "huge wrap black merit news pizza ocean grief rotate urge course laundry";
+var mnemonic = "crash regret point sound pole creek cat raise own apple frost salmon";

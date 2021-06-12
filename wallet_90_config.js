@@ -1,1 +1,1 @@
-var mnemonic = "few rice bomb man toward clog weapon deer disorder coral program wide";
+var mnemonic = "unveil knee inner sport man card kind ozone asset case glue winter";

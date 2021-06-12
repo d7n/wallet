@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin rail forget tide retire floor wasp dignity rifle vendor reward local";
+var mnemonic = "lucky female bread empower trend matrix proud core picnic seminar recipe frequent";

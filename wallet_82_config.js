@@ -1,1 +1,1 @@
-var mnemonic = "tray surprise dinosaur pizza tonight cup phrase kitten air bonus belt drip";
+var mnemonic = "garlic curtain this crane undo birth luxury pluck ride tornado can vivid";

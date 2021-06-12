@@ -1,1 +1,1 @@
-var mnemonic = "couch surface bag boil tiny theory cloth thought omit soup home way";
+var mnemonic = "boost ski turn wolf traffic sniff seminar canal knock trick tilt garage";

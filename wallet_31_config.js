@@ -1,1 +1,1 @@
-var mnemonic = "chaos fever view broken shuffle learn regret vacuum arrow match option wet";
+var mnemonic = "steak cotton reform siren metal census jaguar view head screen bright acid";

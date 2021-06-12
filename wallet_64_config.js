@@ -1,1 +1,1 @@
-var mnemonic = "worth lava mystery juice more walk risk lunar popular candy shaft type";
+var mnemonic = "curious ticket dream shiver rich raven trash treat alter moment town wasp";

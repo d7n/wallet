@@ -1,1 +1,1 @@
-var mnemonic = "guess early wild mix engage dust long lemon edge process grass sausage";
+var mnemonic = "target fiscal ghost verify sentence degree caught index swim prefer artist dry";

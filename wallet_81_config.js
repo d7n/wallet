@@ -1,1 +1,1 @@
-var mnemonic = "media top budget elite remain robust eye hand achieve wrist wild victory";
+var mnemonic = "hurry common company opinion buyer diesel devote spell enable embark suit casino";

@@ -1,1 +1,1 @@
-var mnemonic = "various dose able viable pact window slender glory balance claw ribbon spawn";
+var mnemonic = "emotion panda forward denial apology ten regular palace pull guide load clinic";

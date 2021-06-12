@@ -1,1 +1,1 @@
-var mnemonic = "bamboo local caught habit purpose mechanic there program beauty require blade indicate";
+var mnemonic = "fuel bunker hockey hobby coil oak unusual draft airport escape satoshi real";

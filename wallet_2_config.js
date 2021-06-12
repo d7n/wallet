@@ -1,1 +1,1 @@
-var mnemonic = "era bulb update fit normal biology rebuild pumpkin rich engage gas world";
+var mnemonic = "subject wheel crawl attract machine cage flock buffalo mixture shoulder food noise";

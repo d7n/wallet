@@ -1,1 +1,1 @@
-var mnemonic = "come naive seed famous dust orange soldier ship dry rack post happy";
+var mnemonic = "airport thing grace radio demand lunar luggage orphan way woman suggest skill";

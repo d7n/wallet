@@ -1,1 +1,1 @@
-var mnemonic = "unique prefer atom proof dismiss rabbit casual correct resist obey engine soon";
+var mnemonic = "minor blast picture crowd grab sea beyond hole doll kind wisdom type";

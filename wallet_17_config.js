@@ -1,1 +1,1 @@
-var mnemonic = "guitar gallery select camera remind try effort taste glimpse foot ladder casino";
+var mnemonic = "family endless model jelly path shell sight wheel canal warm gentle gentle";

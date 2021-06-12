@@ -1,1 +1,1 @@
-var mnemonic = "reflect lend cable original crash there pride ostrich sing marine menu extra";
+var mnemonic = "fruit play screen chuckle rent follow decide material double flower manage satisfy";

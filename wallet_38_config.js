@@ -1,1 +1,1 @@
-var mnemonic = "essay force romance imitate frame install fruit tissue equip rate expect nest";
+var mnemonic = "casino torch drink aspect benefit sibling easy rare crumble luxury vapor jacket";

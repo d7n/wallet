@@ -1,1 +1,1 @@
-var mnemonic = "captain expire pool wasp critic shell bachelor winter hen dust trade install";
+var mnemonic = "approve hospital rain derive gravity half minute drum sustain help clerk olympic";

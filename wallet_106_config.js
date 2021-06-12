@@ -1,1 +1,1 @@
-var mnemonic = "basic knee follow twice cash consider smart dolphin laptop album helmet canoe";
+var mnemonic = "pupil wheat ritual head element eyebrow uncle post buyer crater acquire crunch";

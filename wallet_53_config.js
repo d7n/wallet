@@ -1,1 +1,1 @@
-var mnemonic = "prefer topic say physical brass cherry trouble robot suggest meadow faith message";
+var mnemonic = "outdoor crawl island photo drop fit canoe pony fade rifle wink trumpet";

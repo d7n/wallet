@@ -1,1 +1,1 @@
-var mnemonic = "shift over resist image float run slender pretty account indicate pact relief";
+var mnemonic = "poem shrug admit supply electric sad joy thunder easily hawk coil anchor";

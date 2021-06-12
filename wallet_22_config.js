@@ -1,1 +1,1 @@
-var mnemonic = "achieve supreme quantum dog work fashion cruise can collect want fringe section";
+var mnemonic = "gap arrange credit sheriff drift neutral royal recycle other kite submit toast";

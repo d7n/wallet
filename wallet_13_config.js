@@ -1,1 +1,1 @@
-var mnemonic = "hurdle auto verb wise athlete online insect disorder coach tumble unfold parade";
+var mnemonic = "conduct cloud coffee uphold jacket pull clarify when ugly focus ridge blood";

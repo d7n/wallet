@@ -1,1 +1,1 @@
-var mnemonic = "social napkin desert vehicle sock name across wrestle royal impulse federal daughter";
+var mnemonic = "steak kind adjust unable horror gain rookie control off slam claim age";

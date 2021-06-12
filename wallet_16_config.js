@@ -1,1 +1,1 @@
-var mnemonic = "journey sign genius family casino ecology round walk buyer visa balance net";
+var mnemonic = "whale kit museum man pig tool ahead kidney exact program empower library";

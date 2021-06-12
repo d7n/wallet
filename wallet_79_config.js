@@ -1,1 +1,1 @@
-var mnemonic = "fatal love satoshi manage buddy comic edit height put potato gravity mammal";
+var mnemonic = "mercy loyal narrow slice actress angle goose tired spot corn region cycle";

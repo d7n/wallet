@@ -1,1 +1,1 @@
-var mnemonic = "mind business boring tape swift cage produce area help oak fantasy sting";
+var mnemonic = "dress runway business else injury hybrid arm lady beauty iron settle throw";

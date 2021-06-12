@@ -1,1 +1,1 @@
-var mnemonic = "frost clown hollow huge fly six claim ball jealous you luxury road";
+var mnemonic = "artwork sun safe valve bag spring nose own tumble amazing suggest large";

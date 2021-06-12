@@ -1,1 +1,1 @@
-var mnemonic = "black slight tired sun clutch section educate require salt oil taste elegant";
+var mnemonic = "hold paddle prosper great blanket access sick retire steel nothing speed chef";

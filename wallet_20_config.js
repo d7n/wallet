@@ -1,1 +1,1 @@
-var mnemonic = "service announce border chaos chicken garden glue coffee wide nominee belt wall";
+var mnemonic = "vault now decline critic debate laundry demise battle transfer vivid execute trophy";

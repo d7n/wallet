@@ -1,1 +1,1 @@
-var mnemonic = "same addict twenty decline edit entry reopen umbrella derive equal proof ill";
+var mnemonic = "midnight grab crawl kitchen width alert ketchup interest muffin gold panel escape";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano genre fragile space suggest front potato race silent expand attack guess";
+var mnemonic = "ghost fix lecture season sheriff nose stay famous alley nose clerk shuffle";

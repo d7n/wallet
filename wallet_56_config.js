@@ -1,1 +1,1 @@
-var mnemonic = "silver text switch donor vivid canyon private green feature ankle wine universe";
+var mnemonic = "coffee swarm dismiss empty chalk blind outdoor couple celery margin pottery melt";

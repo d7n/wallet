@@ -1,1 +1,1 @@
-var mnemonic = "item outer degree reveal sister law fluid sick power tongue error desert";
+var mnemonic = "reflect awake typical buyer butter divorce tray hundred digital prevent face clap";

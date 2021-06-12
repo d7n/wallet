@@ -1,1 +1,1 @@
-var mnemonic = "raven orbit cement mansion organ easily seek ill wrist slush situate dice";
+var mnemonic = "tuna sun confirm habit sting magic soap friend genuine first essence expire";

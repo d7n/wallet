@@ -1,1 +1,1 @@
-var mnemonic = "kind dynamic retire sound twist comfort boat abuse step exact blood milk";
+var mnemonic = "actor sphere snap donate ecology august robust vibrant arrow potato cricket desk";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar eagle join extend they color arrange sheriff badge observe same citizen";
+var mnemonic = "arrive observe whale dog wear ridge clap knock device pulse choose ancient";

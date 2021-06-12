@@ -1,1 +1,1 @@
-var mnemonic = "chronic quantum ahead viable oyster acid animal struggle unhappy picture crash stove";
+var mnemonic = "uncover crisp project cattle case popular build garment spray impact lottery nothing";

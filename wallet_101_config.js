@@ -1,1 +1,1 @@
-var mnemonic = "jump coconut voyage insect wrestle possible pen loud siege photo work abandon";
+var mnemonic = "uncover glory tube harvest warm twenty crisp arena wool hen later salmon";

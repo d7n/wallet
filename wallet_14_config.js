@@ -1,1 +1,1 @@
-var mnemonic = "total length bronze cheap index able february strategy frost square office buddy";
+var mnemonic = "century more pond urge diamond envelope original consider rail glove produce slice";

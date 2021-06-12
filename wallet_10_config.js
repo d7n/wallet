@@ -1,1 +1,1 @@
-var mnemonic = "improve cause immense term give brother brick squeeze someone question bargain rare";
+var mnemonic = "brave suggest snow place pelican vehicle jazz orbit sentence symbol soft business";

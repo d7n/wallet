@@ -1,1 +1,1 @@
-var mnemonic = "renew figure random fine october rookie true repeat indicate ten hidden boat";
+var mnemonic = "embark dry below hobby gloom gain clean pave fashion want dumb sister";

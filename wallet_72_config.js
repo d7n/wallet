@@ -1,1 +1,1 @@
-var mnemonic = "squirrel advice peace say tomato drink science job shoe tourist radar estate";
+var mnemonic = "vehicle inside profit bar antenna merry lake because grain enter cup bomb";

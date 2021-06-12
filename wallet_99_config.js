@@ -1,1 +1,1 @@
-var mnemonic = "exile echo team agent warm addict asset cigar enact best mother solve";
+var mnemonic = "portion hire business range sea happy remember analyst tag quote number retire";

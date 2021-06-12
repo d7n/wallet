@@ -1,1 +1,1 @@
-var mnemonic = "emerge ahead notice lady kid harvest drill genuine blanket shoulder note bachelor";
+var mnemonic = "marine endless mom inform unlock diary fiction liar festival tattoo address punch";

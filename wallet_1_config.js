@@ -1,1 +1,1 @@
-var mnemonic = "pill turkey bulb observe refuse insane oblige chef half clog lab curve";
+var mnemonic = "cage swap bonus heart hard wealth swap dial audit tilt palace atom";

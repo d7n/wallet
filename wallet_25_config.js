@@ -1,1 +1,1 @@
-var mnemonic = "fever squeeze slab stool waste mouse trial detect fine clutch crash fence";
+var mnemonic = "pepper color sentence mail myself shiver suffer torch seminar select never will";

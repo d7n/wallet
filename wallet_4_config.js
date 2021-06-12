@@ -1,1 +1,1 @@
-var mnemonic = "piano reopen detect guide bacon hunt plate donkey snack near recycle sight";
+var mnemonic = "luggage excite great dawn stairs initial wave slab dizzy knife gravity cloth";

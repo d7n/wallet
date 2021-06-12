@@ -1,1 +1,1 @@
-var mnemonic = "hip ladder future hawk bleak fault surface chimney flight other march produce";
+var mnemonic = "inject rapid cushion noodle coyote best inmate cinnamon frost fruit vacant taxi";

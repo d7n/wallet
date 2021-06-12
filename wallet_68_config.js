@@ -1,1 +1,1 @@
-var mnemonic = "census warfare valley script trust size marriage enhance garbage claim gospel sense";
+var mnemonic = "around put punch arrive wait engine short reunion enemy exit owner similar";

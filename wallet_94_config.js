@@ -1,1 +1,1 @@
-var mnemonic = "mutual video sugar staff result swim position drama knee buzz clinic author";
+var mnemonic = "noble dial silent electric battle cousin suspect reduce voice glass farm dutch";

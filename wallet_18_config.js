@@ -1,1 +1,1 @@
-var mnemonic = "aisle minor illegal child very play crazy bind artist parrot bright salute";
+var mnemonic = "image crazy spoon floor grief romance harbor across carry universe vessel place";

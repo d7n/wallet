@@ -1,1 +1,1 @@
-var mnemonic = "royal advice picnic foot despair quote leisure main pill acquire differ dinosaur";
+var mnemonic = "paddle cause leopard jacket alert naive banana pact dial wrap long glance";

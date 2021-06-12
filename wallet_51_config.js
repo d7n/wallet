@@ -1,1 +1,1 @@
-var mnemonic = "advance double wrap advice harsh whisper quit short waste ask beauty talent";
+var mnemonic = "fossil sorry stem settle lawsuit language park enjoy indoor chicken that suit";

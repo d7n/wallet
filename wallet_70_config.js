@@ -1,1 +1,1 @@
-var mnemonic = "poet jungle genius smoke tray dirt myself embody parent unfair early rail";
+var mnemonic = "glass mind empower leisure guard father coast rich resemble solve silver rival";

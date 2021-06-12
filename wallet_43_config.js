@@ -1,1 +1,1 @@
-var mnemonic = "arrow meadow device marble region toward sibling open venue rude run boss";
+var mnemonic = "awake home erosion rival cloth matrix patient face critic strong raw lava";

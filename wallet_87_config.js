@@ -1,1 +1,1 @@
-var mnemonic = "rebuild devote cause frost repair hover joy butter predict mass rifle wrestle";
+var mnemonic = "wait movie impose depth melody unfold grass siege wool leg earth elder";

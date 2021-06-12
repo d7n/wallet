@@ -1,1 +1,1 @@
-var mnemonic = "deposit melody disease hundred chase witness naive tag disorder stove good meadow";
+var mnemonic = "coach garbage grunt spy enhance circle decrease disagree another winter note wear";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect during general hospital neutral stool orbit during trial happy engage cloth";
+var mnemonic = "kangaroo will suffer diagram surprise job health silly tomato sniff coconut violin";

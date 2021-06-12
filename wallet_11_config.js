@@ -1,1 +1,1 @@
-var mnemonic = "stairs barrel pledge banana since zone target leader month secret sick dad";
+var mnemonic = "sign robot shrimp iron party guilt arm apology brother distance truth link";

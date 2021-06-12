@@ -1,1 +1,1 @@
-var mnemonic = "true grass pet sugar neck flag autumn affair kingdom envelope west badge";
+var mnemonic = "unusual owner scan discover sorry fever amateur size domain denial decline slight";

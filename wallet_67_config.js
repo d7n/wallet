@@ -1,1 +1,1 @@
-var mnemonic = "own crash paper word length book pill hint drastic tree change goose";
+var mnemonic = "conduct dynamic scrap truly seek leader taste fun model talent material danger";

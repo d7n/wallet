@@ -1,1 +1,1 @@
-var mnemonic = "transfer federal famous hub ticket snow nominee butter affair clown demise wet";
+var mnemonic = "idle sorry risk slice city hire solid sock wage charge borrow worry";

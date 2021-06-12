@@ -1,1 +1,1 @@
-var mnemonic = "margin drink suit wear taxi punch rug pluck west laptop keen vault";
+var mnemonic = "position tilt choose display fantasy dish fitness draw bless mule slight crush";

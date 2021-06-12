@@ -1,1 +1,1 @@
-var mnemonic = "action vintage silver salmon vague orbit live wish there wall kid frog";
+var mnemonic = "table away custom trash phrase traffic original salt despair visual over remember";

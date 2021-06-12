@@ -1,1 +1,1 @@
-var mnemonic = "jazz trophy rebel cargo soup parade round lamp punch planet sauce harsh";
+var mnemonic = "flee voyage welcome earth medal sugar lobster armor list toddler grass maid";

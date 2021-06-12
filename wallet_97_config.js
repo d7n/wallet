@@ -1,1 +1,1 @@
-var mnemonic = "loyal seminar fix name switch skill problem guide elevator warfare swing cable";
+var mnemonic = "resource victory purpose endorse duck whale defense math boost puppy clay brass";

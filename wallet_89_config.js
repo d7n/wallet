@@ -1,1 +1,1 @@
-var mnemonic = "stumble stone pudding impulse decide client sibling initial puzzle carbon coil chair";
+var mnemonic = "cool book salmon kit spray example popular oyster siege clay vessel appear";

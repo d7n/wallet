@@ -1,1 +1,1 @@
-var mnemonic = "love latin setup just news carry rich favorite awful couple rally hotel";
+var mnemonic = "mandate ball danger effort february gesture belt nuclear pave obtain where super";

@@ -1,1 +1,1 @@
-var mnemonic = "twice bone tower mango park aim sketch angry loud law approve paper";
+var mnemonic = "west arm hazard build certain panic despair similar raise all reason either";

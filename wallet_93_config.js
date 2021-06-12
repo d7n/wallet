@@ -1,1 +1,1 @@
-var mnemonic = "stove crane grit smoke produce stamp digital uncle water original roof armed";
+var mnemonic = "audit stomach firm rubber walnut buddy obscure bless burst arena black banner";

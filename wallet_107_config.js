@@ -1,1 +1,1 @@
-var mnemonic = "debate mass symbol december palace century three couple enlist process discover snap";
+var mnemonic = "bean hidden skin deny spice clean lottery income tomorrow culture buyer into";

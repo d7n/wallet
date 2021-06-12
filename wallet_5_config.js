@@ -1,1 +1,1 @@
-var mnemonic = "balance jar position inject reason vessel clutch present school hip arch island";
+var mnemonic = "cushion dog daughter crowd short twin swear stem owner pioneer winner blast";

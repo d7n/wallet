@@ -1,1 +1,1 @@
-var mnemonic = "hockey calm liquid patient improve unaware polar debris vibrant monkey card total";
+var mnemonic = "high choose coconut noise camp swamp shop unit hard tree memory squeeze";

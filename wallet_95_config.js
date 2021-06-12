@@ -1,1 +1,1 @@
-var mnemonic = "boring antique enable tag consider wealth moral asthma bird taxi library sock";
+var mnemonic = "prevent plastic ridge illness beyond celery brick item merge cute electric mother";

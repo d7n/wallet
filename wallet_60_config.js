@@ -1,1 +1,1 @@
-var mnemonic = "torch siege change salon forget false civil sleep ceiling catch grain face";
+var mnemonic = "gain jelly genuine bicycle hold merge february brain road plate under mango";

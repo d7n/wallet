@@ -1,1 +1,1 @@
-var mnemonic = "glad sudden attack again clever neither library weasel truly truly toy runway";
+var mnemonic = "reunion garden trust diet submit gold long wise differ essence canvas chair";

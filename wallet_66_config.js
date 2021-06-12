@@ -1,1 +1,1 @@
-var mnemonic = "welcome veteran plate air want pond father diet disease rail wedding oblige";
+var mnemonic = "giraffe manual estate attitude bring sting today sport result ethics garlic stairs";

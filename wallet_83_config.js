@@ -1,1 +1,1 @@
-var mnemonic = "joy turkey pumpkin spawn rare fan accuse absent knee blossom grit review";
+var mnemonic = "erupt glad afraid oak velvet depart glare witness maple adult record portion";
