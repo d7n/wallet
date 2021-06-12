@@ -1,1 +1,1 @@
-var mnemonic = "utility believe display run grit champion put maze prefer chronic push fabric";
+var mnemonic = "illegal balance visit firm other critic visa switch fun vibrant clean divide";

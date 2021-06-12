@@ -1,1 +1,1 @@
-var mnemonic = "find mind laptop among idea parrot sound spare camera fold awesome bench";
+var mnemonic = "middle rug crime upset shadow vicious quiz property hand load involve domain";

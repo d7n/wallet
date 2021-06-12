@@ -1,1 +1,1 @@
-var mnemonic = "second bronze crucial range silver guess satoshi fire kidney oil crime tide";
+var mnemonic = "radar real round funny fork rice tissue divert into share feature neck";

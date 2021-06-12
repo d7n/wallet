@@ -1,1 +1,1 @@
-var mnemonic = "dose denial orphan left power human need subject fiction nominee wild print";
+var mnemonic = "main actress spike current melt jewel action virus spray code weather notable";

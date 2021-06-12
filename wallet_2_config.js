@@ -1,1 +1,1 @@
-var mnemonic = "address leisure gasp casino unlock donkey fiction scare boost margin impact another";
+var mnemonic = "clap eye exhibit clever fade gift oil convince furnace bread casual hurdle";

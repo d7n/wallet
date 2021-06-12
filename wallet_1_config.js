@@ -1,1 +1,1 @@
-var mnemonic = "cement connect genius wing wrong chase present modify bar stone such laundry";
+var mnemonic = "believe clown mixed swim wrestle sight tribe ignore sheriff defense cloth stay";

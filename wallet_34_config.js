@@ -1,1 +1,1 @@
-var mnemonic = "differ word glimpse tail gift hospital mix bargain purchase thrive asset jungle";
+var mnemonic = "kite very moral foot swap tourist green tell tribe hire stick asset";

@@ -1,1 +1,1 @@
-var mnemonic = "reform tip drama sustain rescue nurse worry setup tube clinic adapt defense";
+var mnemonic = "then busy letter design midnight palace federal wealth tenant spice federal melody";

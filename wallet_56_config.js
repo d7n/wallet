@@ -1,1 +1,1 @@
-var mnemonic = "wonder ramp fault extra object bridge august sting lock slice upper blast";
+var mnemonic = "process chronic copper angle egg plunge accuse physical logic auto gather sausage";

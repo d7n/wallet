@@ -1,1 +1,1 @@
-var mnemonic = "forget blue resemble physical snake action defy cinnamon combine negative hungry spray";
+var mnemonic = "panda banner skill soda mesh pear hockey sugar adapt fuel merit recall";

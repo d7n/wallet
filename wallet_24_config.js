@@ -1,1 +1,1 @@
-var mnemonic = "shine vacuum lunar will radar radar purse crunch crouch useful novel symptom";
+var mnemonic = "follow proof satoshi gesture hen dismiss detect leopard merge license expect boat";

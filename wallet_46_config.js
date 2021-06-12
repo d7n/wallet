@@ -1,1 +1,1 @@
-var mnemonic = "race cool hard local across galaxy chest pumpkin opera faculty omit swamp";
+var mnemonic = "fit brain blossom wrap fork fiction season duty speed buffalo work arena";

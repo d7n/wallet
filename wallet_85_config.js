@@ -1,1 +1,1 @@
-var mnemonic = "rebel hint access moon charge stomach model silk south caution orphan company";
+var mnemonic = "minute orange blur appear target remind slam squeeze hill immune aisle float";

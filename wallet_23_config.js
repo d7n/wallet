@@ -1,1 +1,1 @@
-var mnemonic = "tunnel crime air hazard better student zone stone repair giraffe prison adult";
+var mnemonic = "plunge consider escape bachelor athlete exercise oyster turn reward puzzle certain exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "master west desert chicken zero brick upper pond south dumb resource boil";
+var mnemonic = "recall baby gas find diesel chronic unaware annual century pill season mountain";

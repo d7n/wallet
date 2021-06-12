@@ -1,1 +1,1 @@
-var mnemonic = "trim young vapor divert mobile enlist palm boss cover essence grocery net";
+var mnemonic = "regret tattoo exact exotic recycle furnace magnet kite faculty drastic woman order";

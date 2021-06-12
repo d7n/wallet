@@ -1,1 +1,1 @@
-var mnemonic = "indoor tilt novel review monkey trash zero average tone journey sunny magic";
+var mnemonic = "sunny silk double bamboo govern useless borrow earth attitude party august verify";

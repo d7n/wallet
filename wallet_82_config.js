@@ -1,1 +1,1 @@
-var mnemonic = "toward jewel review cannon walk exchange energy tennis vintage cross symbol work";
+var mnemonic = "canvas twice suffer wreck other permit where twist parrot cook seed brain";

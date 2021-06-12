@@ -1,1 +1,1 @@
-var mnemonic = "guilt section buffalo cinnamon early private wink plastic diary nuclear wealth hen";
+var mnemonic = "aunt spy invite face inhale spike glimpse shrimp say close expose enter";

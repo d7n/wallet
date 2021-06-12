@@ -1,1 +1,1 @@
-var mnemonic = "warrior dream find swim kidney play diagram error wine number install team";
+var mnemonic = "sad label series gentle saddle renew robot nest ritual loop resemble tilt";

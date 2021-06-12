@@ -1,1 +1,1 @@
-var mnemonic = "also measure kitchen museum chunk wing ahead gate social gain cry dish";
+var mnemonic = "quality music climb clutch riot note end manage ask fantasy tiger heavy";

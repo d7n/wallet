@@ -1,1 +1,1 @@
-var mnemonic = "unveil bullet ozone provide prepare stadium host useless cousin invite supply session";
+var mnemonic = "snack have disease fatal price canvas notable bean annual wisdom aspect soup";

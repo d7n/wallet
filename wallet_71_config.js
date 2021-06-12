@@ -1,1 +1,1 @@
-var mnemonic = "fee total range spend rare elbow chalk frozen tennis judge force timber";
+var mnemonic = "coast mansion bomb horror tourist swamp armed negative taxi cousin cable disorder";

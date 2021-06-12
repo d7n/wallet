@@ -1,1 +1,1 @@
-var mnemonic = "crucial hair speed wash spread bid cabbage occur tail spoon cushion bulb";
+var mnemonic = "stadium delay wife gallery still mixture auction audit friend hazard celery resource";

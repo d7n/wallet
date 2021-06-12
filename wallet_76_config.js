@@ -1,1 +1,1 @@
-var mnemonic = "album fork such camera able small city thunder proof left farm pet";
+var mnemonic = "mixture ecology couple embark believe enrich okay news logic orchard member gather";

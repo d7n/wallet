@@ -1,1 +1,1 @@
-var mnemonic = "source run lesson target kit wing cram actress energy sick cage forum";
+var mnemonic = "ramp guilt reflect never broken session wool diet summer waste train assault";

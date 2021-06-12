@@ -1,1 +1,1 @@
-var mnemonic = "sense robot ordinary canal marble brave reward deliver resource trophy brother crisp";
+var mnemonic = "gallery input buddy frozen genius quiz select armed raise uphold finger enhance";

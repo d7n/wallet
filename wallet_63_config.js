@@ -1,1 +1,1 @@
-var mnemonic = "more collect canyon attitude normal uncover phone gather memory seminar duck arctic";
+var mnemonic = "abuse color strike toddler fringe material ketchup light end hero twin fancy";

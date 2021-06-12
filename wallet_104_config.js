@@ -1,1 +1,1 @@
-var mnemonic = "disease version taxi lesson tail rescue merge half cup vivid walk rate";
+var mnemonic = "quantum column eager awake rack face trumpet cycle always orchard push modify";

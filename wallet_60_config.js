@@ -1,1 +1,1 @@
-var mnemonic = "subway ivory prefer purity spirit disease token above enemy diet mimic caution";
+var mnemonic = "goddess pill exchange stem gallery insect seed pull book link inmate tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "slice margin century energy alter fitness arrow home health repair furnace mean";
+var mnemonic = "wreck brown slogan alert typical flower addict song mansion need absurd kind";

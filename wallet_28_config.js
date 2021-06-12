@@ -1,1 +1,1 @@
-var mnemonic = "bread select stairs alien talk park canoe curtain erupt element nephew cricket";
+var mnemonic = "uniform fever clinic erupt soap slight zero junior fine recycle february radar";

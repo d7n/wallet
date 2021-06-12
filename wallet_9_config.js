@@ -1,1 +1,1 @@
-var mnemonic = "stomach relief wine ocean sure live keen discover sign smoke sail among";
+var mnemonic = "used castle keen solid rule device onion mouse fortune among modify real";

@@ -1,1 +1,1 @@
-var mnemonic = "method extra crop gift middle fire half amateur essence flavor quantum direct";
+var mnemonic = "ostrich finish into become strategy crucial bench reflect vendor decorate wool walk";

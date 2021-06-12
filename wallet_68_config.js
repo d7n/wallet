@@ -1,1 +1,1 @@
-var mnemonic = "flee toe alone brisk fetch excite gloom much glare jazz roof camera";
+var mnemonic = "lens hip turkey width odor sing scrub trash proud aspect defy coyote";

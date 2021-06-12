@@ -1,1 +1,1 @@
-var mnemonic = "charge pulp alpha world talk butter decide hunt very security devote protect";
+var mnemonic = "foster position chapter giggle day swim flight chronic wrong vacant fold equal";

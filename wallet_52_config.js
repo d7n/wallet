@@ -1,1 +1,1 @@
-var mnemonic = "tongue fly skill shrug hold affair fat pumpkin inner swift endless empower";
+var mnemonic = "abuse drip jaguar cushion before plastic false clever air crime clog remind";

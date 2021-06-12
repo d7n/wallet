@@ -1,1 +1,1 @@
-var mnemonic = "devote gallery segment liberty ocean solve resource entire virtual smart pudding tooth";
+var mnemonic = "physical little kangaroo pave assault release fee force tunnel woman pole calm";

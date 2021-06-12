@@ -1,1 +1,1 @@
-var mnemonic = "vital mouse dog hover resist system typical marble nephew help episode close";
+var mnemonic = "diamond square pluck timber extra luxury culture shrimp barrel blame bounce walk";

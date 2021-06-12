@@ -1,1 +1,1 @@
-var mnemonic = "exhibit candy toward enter knock uncover uncle opera airport empower chat parrot";
+var mnemonic = "unable tube grit boil evolve swear trophy jump width crack near patient";

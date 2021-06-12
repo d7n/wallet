@@ -1,1 +1,1 @@
-var mnemonic = "swallow mountain nice please play pull grid want clever clump scorpion fly";
+var mnemonic = "oblige present sniff online kind rural begin popular travel time diamond inside";

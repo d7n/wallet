@@ -1,1 +1,1 @@
-var mnemonic = "sell hamster tide garbage tissue fee similar hole list embody camp oyster";
+var mnemonic = "armed forum rubber leave session fancy supreme pen cement aim bar negative";

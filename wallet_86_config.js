@@ -1,1 +1,1 @@
-var mnemonic = "nerve caught toe mad wise orient slow giraffe dwarf poet drink fun";
+var mnemonic = "icon coach core invest gym cook rose interest critic crucial indoor exile";

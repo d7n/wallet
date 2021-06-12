@@ -1,1 +1,1 @@
-var mnemonic = "omit velvet educate random auction buyer balance promote half nature buddy pattern";
+var mnemonic = "grief rival federal category point sound parent fruit alert client question victory";

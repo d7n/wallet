@@ -1,1 +1,1 @@
-var mnemonic = "approve cat glow funny engage random salt error turkey reform output tourist";
+var mnemonic = "gather liquid various stereo siren goddess copper clutch release assault bar stone";

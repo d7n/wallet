@@ -1,1 +1,1 @@
-var mnemonic = "same canal text grid daring indoor snow used decorate sing protect happy";
+var mnemonic = "gift sword midnight poet one extra city milk age moral connect spike";

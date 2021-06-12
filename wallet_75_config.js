@@ -1,1 +1,1 @@
-var mnemonic = "asset property valley news muffin bleak effort mansion this key notable bless";
+var mnemonic = "feature sweet broom venture crucial normal jump deny pride oxygen sea quarter";

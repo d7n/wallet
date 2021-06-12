@@ -1,1 +1,1 @@
-var mnemonic = "struggle bench mushroom cigar budget ask vendor dentist water alpha engage bright";
+var mnemonic = "surprise art miracle hill exist myself eyebrow story father slow govern hello";

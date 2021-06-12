@@ -1,1 +1,1 @@
-var mnemonic = "express exchange radio only capable valid minimum assault economy type high gap";
+var mnemonic = "layer target gospel carry nurse utility draw galaxy filter mechanic goat critic";

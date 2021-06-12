@@ -1,1 +1,1 @@
-var mnemonic = "layer end dream manual behave rack about swim floor usage bubble bachelor";
+var mnemonic = "crazy valid saddle daring step accuse vibrant citizen zero actress over hedgehog";

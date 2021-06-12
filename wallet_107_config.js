@@ -1,1 +1,1 @@
-var mnemonic = "law skin slush exhibit spy total glove into cancel apple circle exile";
+var mnemonic = "dizzy delay hospital juice edge nothing power lemon child because derive evolve";

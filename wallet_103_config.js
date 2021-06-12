@@ -1,1 +1,1 @@
-var mnemonic = "move useless lawsuit toast install grace cattle narrow relief kingdom age empty";
+var mnemonic = "enemy clay crazy family asthma blame uncle raw frame cave arm turtle";

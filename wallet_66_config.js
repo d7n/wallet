@@ -1,1 +1,1 @@
-var mnemonic = "soul host immense motor alone notice fashion outer clump kitten crater bleak";
+var mnemonic = "mouse occur order brand kind salute blue urban scissors tackle clump soft";

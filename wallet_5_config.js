@@ -1,1 +1,1 @@
-var mnemonic = "notice away confirm scrub palace injury snap ugly tent rhythm expand dinosaur";
+var mnemonic = "act angry delay learn uncle approve hurt drive trigger cup cigar option";

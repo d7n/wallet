@@ -1,1 +1,1 @@
-var mnemonic = "gather pumpkin collect copper expose electric law pencil weasel valid twin dinner";
+var mnemonic = "undo term more kangaroo arrow option image sugar supply invite worth lend";

@@ -1,1 +1,1 @@
-var mnemonic = "south fish casual ski family boring control match medal punch nut barely";
+var mnemonic = "fix find volume one profit ask ginger north unfair pink huge rabbit";

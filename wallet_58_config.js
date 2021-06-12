@@ -1,1 +1,1 @@
-var mnemonic = "city half devote scene wool valve pulp sand punch damp sense forum";
+var mnemonic = "brain any rain bounce black figure admit physical timber riot pledge shop";

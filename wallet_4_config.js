@@ -1,1 +1,1 @@
-var mnemonic = "region will saddle lock quarter monkey wood paddle simple art ivory story";
+var mnemonic = "affair crop trap charge mimic hole deer picnic series key blind butter";

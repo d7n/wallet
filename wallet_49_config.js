@@ -1,1 +1,1 @@
-var mnemonic = "lamp coin baby desk work sea secret flash diesel host ridge avoid";
+var mnemonic = "total noble grab cup lazy person total depart exhibit pill marble depart";

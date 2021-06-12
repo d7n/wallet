@@ -1,1 +1,1 @@
-var mnemonic = "sound brief mountain peasant grow genius hotel insect clinic frequent maple else";
+var mnemonic = "income beyond kiss bronze swift toward rely grid giant later abuse increase";

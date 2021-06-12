@@ -1,1 +1,1 @@
-var mnemonic = "elevator divorce gorilla escape hidden gauge must romance lend pipe soldier ozone";
+var mnemonic = "allow mechanic tackle body equip letter original cost fat bag rough employ";

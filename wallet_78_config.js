@@ -1,1 +1,1 @@
-var mnemonic = "blush hover tube misery federal bargain cereal same draw possible butter cave";
+var mnemonic = "view damp apple chaos jungle outer around like flavor sure pulp slender";

@@ -1,1 +1,1 @@
-var mnemonic = "happy flush logic smoke stairs portion rail magic early social evolve true";
+var mnemonic = "envelope dragon crew dash tired rapid view dry dove grief crisp feed";

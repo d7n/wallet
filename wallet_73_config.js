@@ -1,1 +1,1 @@
-var mnemonic = "bright curve wasp twenty decorate wheel hidden claim scout shiver bargain cube";
+var mnemonic = "cereal sweet shiver code axis mansion maximum demise electric eagle travel tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "rural twin angle fever scout green atom doctor kitchen coyote drip staff";
+var mnemonic = "invite forget napkin moon pioneer insane drop hazard obtain behave fatal syrup";

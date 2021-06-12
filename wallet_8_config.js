@@ -1,1 +1,1 @@
-var mnemonic = "mimic fork aunt credit want hospital lens rotate congress fashion wonder afraid";
+var mnemonic = "gold churn slender nut six bag friend huge second gown flee away";

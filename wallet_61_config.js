@@ -1,1 +1,1 @@
-var mnemonic = "can brass crowd palm board over defense frost diesel dynamic dignity depth";
+var mnemonic = "coast visual focus endless opera heavy random return arrest where daring excuse";

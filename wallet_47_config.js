@@ -1,1 +1,1 @@
-var mnemonic = "rubber lab aware fiber labor dismiss guitar jealous output bulk fantasy sniff";
+var mnemonic = "limit broom champion winter marble task diagram uncle region upset crucial edge";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke exercise gun casual material seminar liquid soft uncle cave wish crisp";
+var mnemonic = "void nothing pear chunk vague cool also thing swallow cart mobile model";

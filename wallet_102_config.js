@@ -1,1 +1,1 @@
-var mnemonic = "wise enhance vivid accident illegal limb icon alert town trick thank satoshi";
+var mnemonic = "menu wise cabbage please hill echo fruit silent faith possible depth draw";

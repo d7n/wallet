@@ -1,1 +1,1 @@
-var mnemonic = "empower alley gadget rather breeze across bar upon original bottom antique custom";
+var mnemonic = "bonus acid cigar rare milk final crack marble have shoot vast parade";

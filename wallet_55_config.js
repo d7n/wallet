@@ -1,1 +1,1 @@
-var mnemonic = "zoo song throw scene label offer elephant fancy sun fence resemble diamond";
+var mnemonic = "marble gift execute lottery celery develop drink song hint illegal primary session";

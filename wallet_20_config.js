@@ -1,1 +1,1 @@
-var mnemonic = "tenant bless topic ski chief uncle flag blur spirit sample donate bar";
+var mnemonic = "theory unlock ocean print jump main swift unlock knife alley green wish";

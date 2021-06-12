@@ -1,1 +1,1 @@
-var mnemonic = "hand honey token exercise mosquito rifle soon robot hello risk broom poet";
+var mnemonic = "top dose word connect cool ocean figure vapor design thing fox tornado";

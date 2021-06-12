@@ -1,1 +1,1 @@
-var mnemonic = "entire admit patrol loan group rib ten display oblige across never awesome";
+var mnemonic = "pause order age smart cry witness rural spider lobster element smile shift";

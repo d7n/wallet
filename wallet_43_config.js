@@ -1,1 +1,1 @@
-var mnemonic = "else outdoor loud goat grain prosper much fringe option wife hidden notable";
+var mnemonic = "mail argue green rough matter salon life man devote solve lunar safe";

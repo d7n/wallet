@@ -1,1 +1,1 @@
-var mnemonic = "unveil session state false collect purse used air alone nominee place joke";
+var mnemonic = "seek stem bamboo grocery market energy uncle toe organ donate wine toast";

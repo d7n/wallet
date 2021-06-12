@@ -1,1 +1,1 @@
-var mnemonic = "upper riot chicken valve true note six wrestle gloom dog hotel donate";
+var mnemonic = "pony silent defy wonder heart shiver alone flat monkey label wolf often";

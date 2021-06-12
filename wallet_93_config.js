@@ -1,1 +1,1 @@
-var mnemonic = "dog top scare scorpion reject student galaxy ketchup canal zebra patient that";
+var mnemonic = "dog hawk renew mushroom cycle holiday first mule glove lock need visa";

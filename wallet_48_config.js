@@ -1,1 +1,1 @@
-var mnemonic = "town tenant choice possible rhythm bar negative fatigue old potato bachelor cruise";
+var mnemonic = "west define cinnamon exchange bench upper promote pyramid agree wrestle lava wheel";

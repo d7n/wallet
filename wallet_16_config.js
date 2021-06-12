@@ -1,1 +1,1 @@
-var mnemonic = "stick scrap hospital unable develop you liquid order shove tissue rain erase";
+var mnemonic = "mushroom depart actual trial kidney home joke clerk impact clock soda famous";

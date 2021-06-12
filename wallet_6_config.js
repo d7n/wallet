@@ -1,1 +1,1 @@
-var mnemonic = "country peasant rabbit pull enroll unfair cave worth cricket rebel embrace train";
+var mnemonic = "color poet pilot list trend slush palace level stay dream trim card";

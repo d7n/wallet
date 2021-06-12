@@ -1,1 +1,1 @@
-var mnemonic = "budget enter clinic ecology asthma wheat pill shrug enemy item urge unique";
+var mnemonic = "twice survey double motor glue famous benefit toilet bless enrich grocery soon";

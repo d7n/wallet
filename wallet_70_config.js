@@ -1,1 +1,1 @@
-var mnemonic = "behave lounge hawk mammal uniform jar prison gravity wave any exist yard";
+var mnemonic = "put sick slam still burger drum nut sweet common stadium shy arch";

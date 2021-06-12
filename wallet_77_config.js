@@ -1,1 +1,1 @@
-var mnemonic = "cart tenant common year anchor fiction host lift word usual amused brief";
+var mnemonic = "finger today hub lend pull aisle cave forum other buffalo robot where";

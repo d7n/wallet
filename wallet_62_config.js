@@ -1,1 +1,1 @@
-var mnemonic = "uphold physical humor original limb easily increase exclude dune sleep glory purity";
+var mnemonic = "whale apart genius panel laugh hammer all over private giraffe question chuckle";

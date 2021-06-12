@@ -1,1 +1,1 @@
-var mnemonic = "worry cruel used alien right veteran joke nut wise practice oven add";
+var mnemonic = "cinnamon legal canyon crop globe describe oval agent neck dream beach prize";
