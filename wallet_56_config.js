@@ -1,1 +1,1 @@
-var mnemonic = "media flock pelican lazy tone million sponsor nation elite enable goddess thumb";
+var mnemonic = "brother economy vacant balance dose hurdle grocery joy mushroom fiber concert edit";

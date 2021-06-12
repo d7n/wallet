@@ -1,1 +1,1 @@
-var mnemonic = "random tube alpha unique public reason accuse true pretty void clog congress";
+var mnemonic = "begin laundry fiber rib walk brave also green post settle must skill";

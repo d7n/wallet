@@ -1,1 +1,1 @@
-var mnemonic = "rail custom luxury weapon poet always coffee tiny danger final begin moment";
+var mnemonic = "woman release taste owner catalog captain asthma tuition mule beef enable glide";

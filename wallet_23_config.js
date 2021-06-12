@@ -1,1 +1,1 @@
-var mnemonic = "desk perfect isolate topple weapon table inform spoil regret alcohol curious execute";
+var mnemonic = "scorpion nose antenna refuse artwork arrive split state skull card churn kit";

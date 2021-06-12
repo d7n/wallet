@@ -1,1 +1,1 @@
-var mnemonic = "phrase file problem balance poverty final talent soft physical daring prefer master";
+var mnemonic = "ask nice repair height breeze garden song ability hockey chunk voyage behind";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness cinnamon skin member tomato head neutral silk way thumb toward slogan";
+var mnemonic = "shine true knee hollow marine maze mail sound wasp toddler audit stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden list tag tornado rug normal gap wall strategy hello glance action";
+var mnemonic = "wisdom scare atom fun mountain floor ordinary neck organ height crunch special";

@@ -1,1 +1,1 @@
-var mnemonic = "entire conduct lawsuit post ecology annual pony behave valid truck river chief";
+var mnemonic = "hybrid enter grit foam limb input great bless absent drift decrease run";

@@ -1,1 +1,1 @@
-var mnemonic = "alone equip assist pig half hood tonight rocket calm youth chimney lesson";
+var mnemonic = "coil tobacco olympic weird ready orient dinner arrive globe ladder congress climb";

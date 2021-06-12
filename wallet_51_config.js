@@ -1,1 +1,1 @@
-var mnemonic = "glass weapon mango prison toe settle useful bridge eternal alien wild noble";
+var mnemonic = "attend ten dose average ill grunt ozone vague cannon attitude security enable";

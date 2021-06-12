@@ -1,1 +1,1 @@
-var mnemonic = "resemble ecology park nice attend man tomato sweet receive paper sunny normal";
+var mnemonic = "finger entry cabbage until topic gap raw grit sunny pumpkin addict fluid";

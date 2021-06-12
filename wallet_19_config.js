@@ -1,1 +1,1 @@
-var mnemonic = "perfect inflict broom hill crawl rib agent decade used october lawsuit source";
+var mnemonic = "satisfy cave crater suspect combine clarify silver romance sock recycle wing federal";

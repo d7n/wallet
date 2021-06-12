@@ -1,1 +1,1 @@
-var mnemonic = "detail lab uphold bright element sibling inform kid path sea rookie hammer";
+var mnemonic = "bottom brisk display enlist album agent glad blame burst quick moment mule";

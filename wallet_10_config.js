@@ -1,1 +1,1 @@
-var mnemonic = "strategy before elbow stomach warrior document course frame gallery smart foam detail";
+var mnemonic = "miracle grit crime ability mule regular moral donate doctor index put chunk";

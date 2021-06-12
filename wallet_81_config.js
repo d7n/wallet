@@ -1,1 +1,1 @@
-var mnemonic = "suspect harsh shallow usage quantum bean crouch normal exit strong giraffe grief";
+var mnemonic = "dragon eagle shed wrap wolf shadow cream course rural speed swim hire";

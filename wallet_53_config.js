@@ -1,1 +1,1 @@
-var mnemonic = "flash candy sugar between avocado refuse scrap ring veteran above know valve";
+var mnemonic = "cause success crucial catch assault marine panther obey tail sense bronze weapon";

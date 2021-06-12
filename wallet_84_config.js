@@ -1,1 +1,1 @@
-var mnemonic = "ribbon monkey hobby diet explain educate wisdom toast answer spin upper satoshi";
+var mnemonic = "language second energy subject chief volume middle ill pipe sword crawl chaos";

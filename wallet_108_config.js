@@ -1,1 +1,1 @@
-var mnemonic = "alcohol slot shuffle anger adjust one wedding absent because consider safe sadness";
+var mnemonic = "mountain science inform creek ankle rally genre visit volcano prison aisle idea";

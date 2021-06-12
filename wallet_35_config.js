@@ -1,1 +1,1 @@
-var mnemonic = "emotion quality language swamp want under rescue charge reopen stable shallow roast";
+var mnemonic = "thank wire fabric insane honey ship scheme monkey unhappy dream stairs city";

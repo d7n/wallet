@@ -1,1 +1,1 @@
-var mnemonic = "belt local text oak hub master cushion hen photo enrich network around";
+var mnemonic = "ten best evolve chair stone cheap brain grid offer fun slush steel";

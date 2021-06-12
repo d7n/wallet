@@ -1,1 +1,1 @@
-var mnemonic = "aisle window panda join physical sting easily hotel alarm angry village meadow";
+var mnemonic = "size ghost angry solid rough goat bulk family skirt enemy odor solar";

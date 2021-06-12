@@ -1,1 +1,1 @@
-var mnemonic = "climb insect six sign decline girl misery style denial object horror pink";
+var mnemonic = "name kingdom divert fortune venture whisper desk certain invite unveil term photo";

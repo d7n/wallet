@@ -1,1 +1,1 @@
-var mnemonic = "jaguar mimic quiz shine body unable custom cheese silly wave state wing";
+var mnemonic = "pair victory loyal seven involve gospel coin south kid else rocket gym";

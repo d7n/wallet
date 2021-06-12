@@ -1,1 +1,1 @@
-var mnemonic = "equal shallow number size sponsor acid current theory glass woman match found";
+var mnemonic = "disagree column water like toddler ripple peanut ensure wisdom adjust need all";

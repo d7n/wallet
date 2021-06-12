@@ -1,1 +1,1 @@
-var mnemonic = "possible meadow scale liquid fortune myth this brain bird letter faint awkward";
+var mnemonic = "enter just exile breeze draft portion fury company pole nature often upgrade";

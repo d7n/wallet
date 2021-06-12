@@ -1,1 +1,1 @@
-var mnemonic = "endorse pave predict into culture what grain ramp stand journey lift assist";
+var mnemonic = "peace fitness ghost fashion cargo leaf dismiss either much insect lake morning";

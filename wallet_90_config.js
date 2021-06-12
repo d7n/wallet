@@ -1,1 +1,1 @@
-var mnemonic = "toast cradle sound cabbage flame critic come doll purchase hold arrow provide";
+var mnemonic = "pony jacket shift metal wire combine script wreck tomorrow awkward family equal";

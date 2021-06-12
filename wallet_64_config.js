@@ -1,1 +1,1 @@
-var mnemonic = "pause ice major castle wear milk end orchard welcome sadness illness control";
+var mnemonic = "cause distance upgrade long narrow script soldier moral moral arrow disagree lunch";

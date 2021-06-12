@@ -1,1 +1,1 @@
-var mnemonic = "average talk travel flat balance sunset snow galaxy clip burden tunnel move";
+var mnemonic = "again sea fitness eagle lonely worry fork zero urge tide south drift";

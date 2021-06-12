@@ -1,1 +1,1 @@
-var mnemonic = "afford card earth kick giant goddess world media shock shaft repeat giraffe";
+var mnemonic = "question man dice seek breeze early cheese warfare melody stairs hood apple";

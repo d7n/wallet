@@ -1,1 +1,1 @@
-var mnemonic = "pistol iron infant prosper donor always grab educate mule soul spin merit";
+var mnemonic = "knife devote robust combine disagree dice scan ghost ranch frog trial travel";

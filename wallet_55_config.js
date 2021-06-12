@@ -1,1 +1,1 @@
-var mnemonic = "sure image become coconut swallow opinion pool supply where chat tuition witness";
+var mnemonic = "certain mixture mind uphold salt decade salt lottery antenna congress example protect";

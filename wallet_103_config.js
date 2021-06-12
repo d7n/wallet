@@ -1,1 +1,1 @@
-var mnemonic = "permit trim style next color between service risk decade name marriage drop";
+var mnemonic = "today month firm tourist forget exercise three elbow wood hurt gallery adult";

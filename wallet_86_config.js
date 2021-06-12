@@ -1,1 +1,1 @@
-var mnemonic = "spare bid panda dry hold vehicle observe clown rate judge notable seminar";
+var mnemonic = "trial network zebra meat movie session magic estate steak demand gain annual";

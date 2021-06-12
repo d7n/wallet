@@ -1,1 +1,1 @@
-var mnemonic = "duty produce shift planet joke animal account dumb gas school capital regret";
+var mnemonic = "barely solve puzzle guess poverty reward sheriff share bounce lawn ticket echo";

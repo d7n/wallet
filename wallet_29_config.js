@@ -1,1 +1,1 @@
-var mnemonic = "high material purpose warm awake unlock lend century sphere auction destroy sniff";
+var mnemonic = "gold obtain dizzy tower clog phrase route accident sugar spider lonely usual";

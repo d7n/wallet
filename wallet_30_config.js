@@ -1,1 +1,1 @@
-var mnemonic = "jar tobacco gadget upgrade advice birth level blood supply soul toss please";
+var mnemonic = "clinic soda stand stamp venture crumble ask quarter foot leaf buyer own";

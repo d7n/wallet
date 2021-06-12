@@ -1,1 +1,1 @@
-var mnemonic = "obscure useful city embark tornado pipe allow bring tonight quantum spirit siren";
+var mnemonic = "steel drift era drama someone swing liquid cage lake predict illness prepare";

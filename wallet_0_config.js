@@ -1,1 +1,1 @@
-var mnemonic = "start wedding provide segment reunion coyote meat reform mammal vicious tide field";
+var mnemonic = "film consider pave immense screen enemy exchange news crack despair agent immense";

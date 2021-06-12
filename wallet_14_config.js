@@ -1,1 +1,1 @@
-var mnemonic = "absorb mystery army rare search pupil fish desert remain palm raccoon hurdle";
+var mnemonic = "despair artefact equal axis sadness peasant toast foam flock direct bunker mule";

@@ -1,1 +1,1 @@
-var mnemonic = "stool runway caution butter soup garbage basic stairs light entry ecology judge";
+var mnemonic = "pond neglect carbon poet female ginger rich muscle hip number cousin shell";

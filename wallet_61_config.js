@@ -1,1 +1,1 @@
-var mnemonic = "busy assume island deliver domain outside collect firm shrug flag raccoon bulk";
+var mnemonic = "picnic dutch north egg enhance dilemma eager rare issue spell margin jeans";

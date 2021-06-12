@@ -1,1 +1,1 @@
-var mnemonic = "wise tourist proud ship trouble wisdom wet file obtain this vote trash";
+var mnemonic = "cry mask blade load sun gaze middle glow marine laptop sample black";

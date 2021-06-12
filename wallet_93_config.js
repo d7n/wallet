@@ -1,1 +1,1 @@
-var mnemonic = "nuclear donate sorry spice goddess error icon core coffee dream almost together";
+var mnemonic = "limb juice crack scan melt acquire size ecology snow share note little";

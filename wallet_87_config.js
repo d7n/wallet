@@ -1,1 +1,1 @@
-var mnemonic = "endless essence wool warm chase give jewel prefer unaware bottom wasp judge";
+var mnemonic = "echo shift float mind conduct hill defy shift corn bundle reform diesel";

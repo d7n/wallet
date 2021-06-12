@@ -1,1 +1,1 @@
-var mnemonic = "toss video check average budget property soft usage erupt pencil thumb confirm";
+var mnemonic = "plastic gap trumpet mom absurd hundred false wonder salute tray olympic slush";

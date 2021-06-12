@@ -1,1 +1,1 @@
-var mnemonic = "reject flight gossip auto phrase fabric timber intact rapid hobby opinion topple";
+var mnemonic = "upper winner pulse swift judge wet hurry retreat shove comic bless beef";

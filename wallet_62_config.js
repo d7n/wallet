@@ -1,1 +1,1 @@
-var mnemonic = "saddle power birth echo chief swap hole lawsuit error rigid distance elephant";
+var mnemonic = "web over cross bottom need mimic satoshi swarm shine credit cram civil";

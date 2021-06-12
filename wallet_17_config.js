@@ -1,1 +1,1 @@
-var mnemonic = "team tackle gasp gossip mesh volume afraid symptom actual grocery shaft lock";
+var mnemonic = "sight weekend announce paper change shell praise palace high title tunnel picture";

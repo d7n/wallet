@@ -1,1 +1,1 @@
-var mnemonic = "manual motor obey snap post will pear confirm protect leg creek tape";
+var mnemonic = "hamster diagram shoot pass wrong boring strategy piece abandon defense better razor";

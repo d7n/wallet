@@ -1,1 +1,1 @@
-var mnemonic = "liberty toast reflect scale thought turkey nation yellow negative forum tunnel budget";
+var mnemonic = "enrich chase frown embrace rib misery frown farm option arrest injury firm";

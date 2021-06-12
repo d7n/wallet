@@ -1,1 +1,1 @@
-var mnemonic = "visit shield term subject hidden mule galaxy cart gift boil harbor surround";
+var mnemonic = "stand cabin uphold bus display enhance bubble tape float turtle awesome nut";

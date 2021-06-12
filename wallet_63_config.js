@@ -1,1 +1,1 @@
-var mnemonic = "truly still snow venue blast fabric secret battle noise into viable water";
+var mnemonic = "two faith pig bean brother exotic farm vibrant eager evil alcohol they";

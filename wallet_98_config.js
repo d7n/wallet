@@ -1,1 +1,1 @@
-var mnemonic = "art exercise maid analyst anger crop letter lounge dinner chair staff apple";
+var mnemonic = "suggest bag connect denial flavor hunt snack census between decorate ahead wrong";

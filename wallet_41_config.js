@@ -1,1 +1,1 @@
-var mnemonic = "drastic raven letter travel love subject output grape gym field people soap";
+var mnemonic = "jungle sausage essence keep monkey stone sunny fix cushion damp bargain peace";

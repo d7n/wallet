@@ -1,1 +1,1 @@
-var mnemonic = "width stairs human future gallery during million switch change enhance day bench";
+var mnemonic = "window hazard vast jar sense coral copy away resist section inform spell";

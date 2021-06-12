@@ -1,1 +1,1 @@
-var mnemonic = "faculty document city insect such version magnet fame melt choice world eye";
+var mnemonic = "gorilla copper public december elite labor nerve oven help spoil photo slight";

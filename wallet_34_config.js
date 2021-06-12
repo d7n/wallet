@@ -1,1 +1,1 @@
-var mnemonic = "upon position erase ship grape muffin bronze seat goat motor twin direct";
+var mnemonic = "citizen mobile exchange finish sadness smile spring stable slow fury guard senior";

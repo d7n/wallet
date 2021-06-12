@@ -1,1 +1,1 @@
-var mnemonic = "helmet electric original vibrant wheel fatigue toast drift team dance cancel boss";
+var mnemonic = "tissue response urge among hospital element imitate claw injury provide crouch menu";

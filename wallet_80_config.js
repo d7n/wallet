@@ -1,1 +1,1 @@
-var mnemonic = "abuse cost between exile genius abandon drastic universe mother day cargo evolve";
+var mnemonic = "renew lab tortoise blind before hope provide repair tourist cable private figure";

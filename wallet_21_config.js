@@ -1,1 +1,1 @@
-var mnemonic = "impose pill coil define valley brick token faint chunk hip letter jacket";
+var mnemonic = "situate pizza hamster furnace initial awake open mad helmet group ripple soon";

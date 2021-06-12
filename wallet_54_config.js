@@ -1,1 +1,1 @@
-var mnemonic = "flag attitude nephew matrix virus health vapor kiwi fancy effort nerve total";
+var mnemonic = "arrange vocal advice abuse apple vacuum tuna next capital glimpse size three";

@@ -1,1 +1,1 @@
-var mnemonic = "follow alien rain whip horn alpha crucial rule neutral basket obvious waste";
+var mnemonic = "budget senior bacon company bicycle moment chicken vacant position february naive host";

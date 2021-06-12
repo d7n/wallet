@@ -1,1 +1,1 @@
-var mnemonic = "close remind practice sun invite owner select become goddess deer layer safe";
+var mnemonic = "animal hello finish shadow link wisdom lava depend time risk neglect agree";

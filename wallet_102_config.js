@@ -1,1 +1,1 @@
-var mnemonic = "random grow toe hockey interest final ten useful husband earth core panther";
+var mnemonic = "cream flame income soccer emerge jewel hole lab oven faint purity invest";

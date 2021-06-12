@@ -1,1 +1,1 @@
-var mnemonic = "fitness reward hole anchor major order social piano spice canal fiction bleak";
+var mnemonic = "chalk quote shell real predict medal action hill solution turn shed wall";

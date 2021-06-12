@@ -1,1 +1,1 @@
-var mnemonic = "sick define monitor cost orient success around south become weather discover horse";
+var mnemonic = "twin sunny satisfy regular treat various winter powder absent useless deer grant";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz hill essence coyote creek sketch program come yard fortune canvas fringe";
+var mnemonic = "noise romance salute assist midnight deer provide around train during final consider";

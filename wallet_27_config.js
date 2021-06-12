@@ -1,1 +1,1 @@
-var mnemonic = "frame process keen echo scene giant absurd hill open ceiling devote extra";
+var mnemonic = "thank buzz job minor maid bomb skin bundle detail congress castle salmon";

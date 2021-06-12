@@ -1,1 +1,1 @@
-var mnemonic = "toilet film truly pistol danger girl enact sad minimum emotion badge food";
+var mnemonic = "labor response area since illegal make inch casino modify tissue scorpion legal";

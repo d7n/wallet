@@ -1,1 +1,1 @@
-var mnemonic = "venue scene unhappy illegal clay old climb size govern iron draw trash";
+var mnemonic = "hundred outside north own puppy social forward okay east you sort nice";

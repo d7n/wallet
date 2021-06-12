@@ -1,1 +1,1 @@
-var mnemonic = "fuel evolve tobacco logic host metal appear assume hotel magnet menu echo";
+var mnemonic = "all rough stairs copy pilot board false awkward sustain victory erosion flush";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic about cigar abandon whale loud satisfy train weasel profit bag clock";
+var mnemonic = "piano push coach life blouse nuclear wage zebra excite way news brain";

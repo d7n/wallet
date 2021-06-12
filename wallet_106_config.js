@@ -1,1 +1,1 @@
-var mnemonic = "liar south crucial snake owner fun finish staff verify hard visit train";
+var mnemonic = "flight twenty resource sketch yellow estate bonus erosion harvest job river wish";

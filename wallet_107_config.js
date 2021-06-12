@@ -1,1 +1,1 @@
-var mnemonic = "cigar clock cook stem clap quick leg garden mention protect bulk transfer";
+var mnemonic = "phrase eagle car legend blast mixture outside silly olive magic draft nose";

@@ -1,1 +1,1 @@
-var mnemonic = "hire goat fatigue crystal coffee punch reward object feel zero object lizard";
+var mnemonic = "multiply blue aware push tool hard spray belt camera ecology noodle sure";

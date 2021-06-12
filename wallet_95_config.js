@@ -1,1 +1,1 @@
-var mnemonic = "quantum reunion evolve distance slot comic reject drink cotton labor what joy";
+var mnemonic = "vague useful minor this tattoo script oyster surround action urban vibrant modify";

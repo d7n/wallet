@@ -1,1 +1,1 @@
-var mnemonic = "focus attract quote cherry shove dutch such empower slam cheap mystery weasel";
+var mnemonic = "like animal useful inject coral across valve denial sock foot fan cupboard";

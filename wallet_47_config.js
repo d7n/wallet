@@ -1,1 +1,1 @@
-var mnemonic = "horror dove quick bargain derive danger frog mask duck undo enable drastic";
+var mnemonic = "cargo rail tree alpha mechanic direct wrong affair typical flat small tomato";

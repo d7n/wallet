@@ -1,1 +1,1 @@
-var mnemonic = "thrive level rabbit observe body lamp expect burst addict bridge inch desk";
+var mnemonic = "true surprise jungle burger chest brass release key protect suffer deer unfold";

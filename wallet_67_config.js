@@ -1,1 +1,1 @@
-var mnemonic = "solution pepper color seat device agree kick buffalo nasty sausage census memory";
+var mnemonic = "tornado ethics crisp debris interest stone delay spawn party change surface exile";

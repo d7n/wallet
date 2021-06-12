@@ -1,1 +1,1 @@
-var mnemonic = "fortune sound use good parade shadow peasant cabin inhale jealous simple audit";
+var mnemonic = "select price female ticket goose dinosaur cream strategy science admit orange holiday";

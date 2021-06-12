@@ -1,1 +1,1 @@
-var mnemonic = "mass cloud note grunt foot liquid push nominee stool cereal tone theory";
+var mnemonic = "rhythm talk icon setup track pear absurd peasant worry vault east seminar";

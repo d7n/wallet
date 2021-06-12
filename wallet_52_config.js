@@ -1,1 +1,1 @@
-var mnemonic = "left castle concert super split verify boil vivid blade cat pyramid already";
+var mnemonic = "medal mutual company angry feature chimney task risk notice tag barely tired";

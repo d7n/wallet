@@ -1,1 +1,1 @@
-var mnemonic = "sentence ill web clutch hybrid actress prepare trouble cheese example lesson pet";
+var mnemonic = "sad movie write clutch own keep advice among cattle ring energy sign";

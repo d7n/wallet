@@ -1,1 +1,1 @@
-var mnemonic = "bitter test step garden negative river fork guard letter again call throw";
+var mnemonic = "nothing honey one price apology health athlete base velvet ugly bonus number";

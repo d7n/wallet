@@ -1,1 +1,1 @@
-var mnemonic = "rely wood all couple amateur disease thank start daring tomorrow please remain";
+var mnemonic = "primary admit select copy render blade early chief maximum vast check fish";

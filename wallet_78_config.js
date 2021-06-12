@@ -1,1 +1,1 @@
-var mnemonic = "galaxy kit item wine credit diesel angry rib pupil exchange code heavy";
+var mnemonic = "human ill round bicycle puzzle curve nest mix confirm ordinary under dove";

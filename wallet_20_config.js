@@ -1,1 +1,1 @@
-var mnemonic = "boat swallow pear purse path tooth harvest guitar middle afraid kit attack";
+var mnemonic = "vessel spoil sausage gold helmet outside disorder danger cruel picnic alcohol ordinary";

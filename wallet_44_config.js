@@ -1,1 +1,1 @@
-var mnemonic = "enhance ecology crouch dizzy rather mosquito damp veteran near flag review envelope";
+var mnemonic = "over upper abandon mirror grain dynamic sample neither item position crater never";

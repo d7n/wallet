@@ -1,1 +1,1 @@
-var mnemonic = "stamp prize act attend planet screen shock lumber pumpkin hurt ready era";
+var mnemonic = "lock match blossom better rich broccoli cage embark wrestle jealous rescue vast";
