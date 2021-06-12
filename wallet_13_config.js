@@ -1,1 +1,1 @@
-var mnemonic = "judge forward mandate depth suspect oppose stool march chapter boat van bleak";
+var mnemonic = "suffer trick infant chair fetch word stuff cake decrease plug obvious oyster";

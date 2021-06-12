@@ -1,1 +1,1 @@
-var mnemonic = "spare deliver point tribe power entry speed glad bleak simple child result";
+var mnemonic = "ostrich armor text shoulder note once release learn suggest lonely volcano critic";

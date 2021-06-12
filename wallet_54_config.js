@@ -1,1 +1,1 @@
-var mnemonic = "net young remove sell camera morning lamp result abstract staff leave system";
+var mnemonic = "post purse cruise same common brown mixture stem frozen bounce alien kiss";

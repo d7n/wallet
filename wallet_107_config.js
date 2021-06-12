@@ -1,1 +1,1 @@
-var mnemonic = "correct letter sugar inform turkey liquid crop scheme holiday inspire novel crush";
+var mnemonic = "rally pottery goose diesel donkey increase betray category firm betray silly coconut";

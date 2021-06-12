@@ -1,1 +1,1 @@
-var mnemonic = "hamster account elegant oblige taste cannon volume pulse example citizen approve vendor";
+var mnemonic = "mutual wrong dumb unaware crash used this rule range camera enlist cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "wise brand crisp crystal blouse rival mad sight skirt armed coach ritual";
+var mnemonic = "solution profit chicken visit system fossil square enrich diamond climb ribbon test";

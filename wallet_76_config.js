@@ -1,1 +1,1 @@
-var mnemonic = "inside century repair ahead post dice lamp cup rabbit core shift become";
+var mnemonic = "diagram punch oblige music ride direct real loan omit chief please year";

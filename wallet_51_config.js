@@ -1,1 +1,1 @@
-var mnemonic = "carbon gospel kidney person tobacco permit joy bag confirm electric sphere gasp";
+var mnemonic = "wrist illness smart diet area tank over strike sign actual zebra false";

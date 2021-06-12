@@ -1,1 +1,1 @@
-var mnemonic = "monkey absent enjoy tumble oyster dress include click gap clinic carry minimum";
+var mnemonic = "wage cost bless gather regret plate illegal coil before system demise exotic";

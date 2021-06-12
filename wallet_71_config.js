@@ -1,1 +1,1 @@
-var mnemonic = "among tiny pottery hello inhale october napkin brush measure smart minute cram";
+var mnemonic = "split box broken spare carry zebra around flee donkey chase client mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "debate infant frequent dragon nature distance aisle tenant expand dentist palm fortune";
+var mnemonic = "hub duck fade picture sight business problem sail husband company speak give";

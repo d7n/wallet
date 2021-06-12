@@ -1,1 +1,1 @@
-var mnemonic = "oppose enrich debris together glide jacket salt grow useful luxury patient force";
+var mnemonic = "dice range volcano labor bargain royal primary save ask elder venue divert";

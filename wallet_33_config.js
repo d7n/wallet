@@ -1,1 +1,1 @@
-var mnemonic = "legal advance post mule inner virtual cigar dove bracket noise vicious razor";
+var mnemonic = "swear interest remind stove arrange news hand word stumble certain citizen provide";

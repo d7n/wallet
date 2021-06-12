@@ -1,1 +1,1 @@
-var mnemonic = "day ribbon foam team grow fold repeat curtain pig stage soft wing";
+var mnemonic = "leave absent language display couple mandate shiver tray social ivory cradle degree";

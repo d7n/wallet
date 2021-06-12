@@ -1,1 +1,1 @@
-var mnemonic = "blind cabbage repair poet burst piece exclude velvet random minute middle amateur";
+var mnemonic = "cable wood category hurry razor once tape social sunset chapter idle maze";

@@ -1,1 +1,1 @@
-var mnemonic = "modify slot page excite maximum regret bread coast nephew script receive now";
+var mnemonic = "pudding salon neutral secret sister tomato music produce feel stuff dolphin coral";

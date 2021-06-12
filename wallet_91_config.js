@@ -1,1 +1,1 @@
-var mnemonic = "expose mobile firm curtain gorilla trouble infant pass false liberty seven dragon";
+var mnemonic = "people kite brief virtual sail copy prepare about average bag bring ensure";

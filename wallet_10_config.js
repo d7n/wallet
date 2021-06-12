@@ -1,1 +1,1 @@
-var mnemonic = "impact sister filter tribe tiger year tiny horse mountain kiss high settle";
+var mnemonic = "oil share often fortune drop surge front stomach coconut way birth siege";

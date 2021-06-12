@@ -1,1 +1,1 @@
-var mnemonic = "identify blade pumpkin later tank chimney evolve glad ticket ready open wrist";
+var mnemonic = "stamp abuse tuition guess coach novel detect street relax enforce off anger";

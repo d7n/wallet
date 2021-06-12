@@ -1,1 +1,1 @@
-var mnemonic = "safe ship sock meadow stereo talent slight patient strong rule color train";
+var mnemonic = "online rotate reopen crash aerobic find will obvious vanish sentence grit dawn";

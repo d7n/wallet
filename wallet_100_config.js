@@ -1,1 +1,1 @@
-var mnemonic = "accident leisure skate toy merit attitude whip pitch direct gossip cash harsh";
+var mnemonic = "strategy satoshi demise garlic dust siren gossip mesh step warm wash girl";

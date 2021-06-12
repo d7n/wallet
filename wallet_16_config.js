@@ -1,1 +1,1 @@
-var mnemonic = "cost dry fluid blouse author dentist reform dust report follow must measure";
+var mnemonic = "assist scatter infant chuckle guide pyramid bonus throw glimpse rigid tide final";

@@ -1,1 +1,1 @@
-var mnemonic = "clay kidney mean essence silver you minute orange apart humor regular lamp";
+var mnemonic = "culture medal annual sibling logic reopen spot system monkey mandate always build";

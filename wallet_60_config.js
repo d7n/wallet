@@ -1,1 +1,1 @@
-var mnemonic = "glad silent science snake margin note diary chuckle impose abuse tragic apple";
+var mnemonic = "supply service kingdom champion video pumpkin jar casual odor crystal any arrange";

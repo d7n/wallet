@@ -1,1 +1,1 @@
-var mnemonic = "will aim space garlic unknown nation phrase piano start rather style anger";
+var mnemonic = "asset deal afford gasp champion endless crazy garden sentence embrace hobby pear";

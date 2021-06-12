@@ -1,1 +1,1 @@
-var mnemonic = "cloud ten dismiss express carpet track under strategy rotate puppy fiscal note";
+var mnemonic = "coil orient spread harvest treat object ticket street mango decorate army economy";

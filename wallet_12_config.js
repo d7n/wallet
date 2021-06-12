@@ -1,1 +1,1 @@
-var mnemonic = "life festival waste endorse nest laugh sample various indoor strong emotion castle";
+var mnemonic = "able badge nothing blood height govern diesel shaft accuse grit spin joy";

@@ -1,1 +1,1 @@
-var mnemonic = "trap lottery ignore bar gather rubber century garlic permit flush blur mountain";
+var mnemonic = "material skill gossip man entry spoil off doctor oblige media oak angry";

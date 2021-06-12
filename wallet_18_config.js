@@ -1,1 +1,1 @@
-var mnemonic = "allow all can gown bleak debate jungle sniff giggle vague steel ensure";
+var mnemonic = "attend suit swarm spirit delay trust nice romance arch object change frame";

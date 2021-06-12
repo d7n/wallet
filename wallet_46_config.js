@@ -1,1 +1,1 @@
-var mnemonic = "category rather orange wrap input number rigid load ball chef tired blanket";
+var mnemonic = "puppy power crop borrow chest hole blouse odor huge print brown dirt";

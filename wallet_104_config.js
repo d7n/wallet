@@ -1,1 +1,1 @@
-var mnemonic = "gold shoot jar brief rough beauty about area minor border seed tuna";
+var mnemonic = "surge next just typical key toe nose lens acoustic sick until pigeon";

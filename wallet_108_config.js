@@ -1,1 +1,1 @@
-var mnemonic = "win solve beyond doctor hold board unit evidence call trade announce drip";
+var mnemonic = "wall neglect all fork actress expose hurt shine pretty capital patient mosquito";

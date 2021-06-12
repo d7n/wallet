@@ -1,1 +1,1 @@
-var mnemonic = "senior away physical fan cushion disagree harsh zone normal aisle logic diagram";
+var mnemonic = "surround duck remove dance dish expand mushroom deliver frame speak result table";

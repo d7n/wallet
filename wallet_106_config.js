@@ -1,1 +1,1 @@
-var mnemonic = "turn later copy palm captain cool dinner age excite blade submit waste";
+var mnemonic = "iron prize autumn produce ensure salt sport box anxiety trouble decade cheap";

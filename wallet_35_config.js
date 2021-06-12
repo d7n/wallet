@@ -1,1 +1,1 @@
-var mnemonic = "mandate junk upset volcano bacon sound catalog net ethics frost moon tone";
+var mnemonic = "clap early seek mixture lazy fine universe because warm behind coral start";

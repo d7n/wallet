@@ -1,1 +1,1 @@
-var mnemonic = "dance surge legal rib love busy avocado price loyal august collect animal";
+var mnemonic = "cereal visa clarify wrong hub mass ask face panda doctor identify twenty";

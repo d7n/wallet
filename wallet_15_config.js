@@ -1,1 +1,1 @@
-var mnemonic = "share decade echo scene hurdle wrap exotic water picnic shell wrong gallery";
+var mnemonic = "spawn noble witness model ethics awesome detail come lion arena extra turtle";

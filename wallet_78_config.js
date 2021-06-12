@@ -1,1 +1,1 @@
-var mnemonic = "riot divide mushroom coffee envelope loop clinic trigger champion style labor force";
+var mnemonic = "clutch actor opera solid viable frozen salt unfair connect tenant reward predict";

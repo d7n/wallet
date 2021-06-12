@@ -1,1 +1,1 @@
-var mnemonic = "play artwork gauge anchor coyote erosion cup stomach betray guess reflect ask";
+var mnemonic = "toast garage piece maze proud hour sand mango cage stock gather real";

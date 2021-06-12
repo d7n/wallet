@@ -1,1 +1,1 @@
-var mnemonic = "glare castle pledge deposit shadow couple cereal virtual treat case raw calm";
+var mnemonic = "ill tribe exile viable dumb demise lift mountain possible swap relief load";

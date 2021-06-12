@@ -1,1 +1,1 @@
-var mnemonic = "brisk pulp few move there twenty effort latin start honey pond bulb";
+var mnemonic = "faculty tube mass approve smooth consider expire act decide peasant symptom fox";

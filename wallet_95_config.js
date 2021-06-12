@@ -1,1 +1,1 @@
-var mnemonic = "tumble also because theory found giggle eagle dawn grief admit cost crime";
+var mnemonic = "okay ketchup adult clean picnic blur skin soon what exclude say such";

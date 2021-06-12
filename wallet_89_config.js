@@ -1,1 +1,1 @@
-var mnemonic = "lottery detect there alcohol key endless wink chronic erosion question boat address";
+var mnemonic = "tired crystal special laptop weasel salmon solution movie emotion visit turtle goose";

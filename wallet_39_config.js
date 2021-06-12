@@ -1,1 +1,1 @@
-var mnemonic = "such math sweet hour phone actor candy potato reflect enter laugh shallow";
+var mnemonic = "syrup mystery rule decrease portion easy fly point section double rally bench";

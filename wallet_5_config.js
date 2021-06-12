@@ -1,1 +1,1 @@
-var mnemonic = "govern panther magic region evidence sing genuine flush angry body occur key";
+var mnemonic = "six wing marble hub rubber race liquid discover public ten false argue";

@@ -1,1 +1,1 @@
-var mnemonic = "guard quit point fold remind whisper word craft deal vivid stereo cupboard";
+var mnemonic = "ribbon winter wash garbage saddle claw soap stumble general deposit similar omit";

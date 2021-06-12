@@ -1,1 +1,1 @@
-var mnemonic = "impact accident profit boat twelve claim sound bundle destroy waste kingdom mammal";
+var mnemonic = "oven shrimp correct man vague guide evolve total early live panther arm";

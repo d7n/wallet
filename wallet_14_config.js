@@ -1,1 +1,1 @@
-var mnemonic = "wild tomato lens vendor shoot feed arrow foot oppose winter wet analyst";
+var mnemonic = "skate agree oil exile nasty satoshi trap upon empty need popular era";

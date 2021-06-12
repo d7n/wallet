@@ -1,1 +1,1 @@
-var mnemonic = "all where sustain surge acquire math clog ginger pottery logic movie ride";
+var mnemonic = "eager thrive episode reward valley grant hair whip visual tumble sentence dry";

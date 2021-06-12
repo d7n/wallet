@@ -1,1 +1,1 @@
-var mnemonic = "exhaust screen urban lamp minor moon poet position distance neck mean usual";
+var mnemonic = "omit twin north dream barely boring age vessel glue calm scare purse";

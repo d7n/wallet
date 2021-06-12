@@ -1,1 +1,1 @@
-var mnemonic = "aspect able goat novel satisfy dolphin elder candy wall carbon enrich panda";
+var mnemonic = "offer pond indicate brisk yellow area thumb pudding story grain horn injury";

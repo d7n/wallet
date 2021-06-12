@@ -1,1 +1,1 @@
-var mnemonic = "crew sound output runway stereo raven cause buzz benefit view duty blanket";
+var mnemonic = "violin snap repeat salad drum safe urge palace clay cake elbow heavy";

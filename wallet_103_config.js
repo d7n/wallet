@@ -1,1 +1,1 @@
-var mnemonic = "people track tomato velvet stereo execute vapor relief ritual alcohol winner course";
+var mnemonic = "escape duck term outside orange fee copy size cool omit sphere ability";

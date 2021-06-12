@@ -1,1 +1,1 @@
-var mnemonic = "faith funny rich glare girl employ enlist hire tool opinion arm disagree";
+var mnemonic = "cheese worth dignity earth equal animal key relief autumn leisure then peasant";

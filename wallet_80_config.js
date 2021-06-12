@@ -1,1 +1,1 @@
-var mnemonic = "february silent network girl stock gloom worry gossip century law advance cry";
+var mnemonic = "urge trip invest away pool hollow tool any enrich month expose utility";

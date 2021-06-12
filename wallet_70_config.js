@@ -1,1 +1,1 @@
-var mnemonic = "glance lesson afford right settle mention maximum eager know borrow erosion nose";
+var mnemonic = "exile laundry fat hole leisure attitude animal meadow witness actual wasp hub";

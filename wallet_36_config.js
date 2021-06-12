@@ -1,1 +1,1 @@
-var mnemonic = "genius install talk gas alien obtain disorder sugar raw alter fish coach";
+var mnemonic = "alarm deputy kiss agree glow elbow settle beach volume balcony girl stamp";

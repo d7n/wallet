@@ -1,1 +1,1 @@
-var mnemonic = "universe length circle party caution draft news snack nest tube outdoor into";
+var mnemonic = "amused pet inspire knife dial tent hello clay loop noble scorpion correct";

@@ -1,1 +1,1 @@
-var mnemonic = "what amused jar capital sell gas local wheel aisle must ticket cigar";
+var mnemonic = "endorse budget solution wild gaze omit wing recipe swing renew bean they";

@@ -1,1 +1,1 @@
-var mnemonic = "pet help around minute grass unable crime tip beauty spike silly indoor";
+var mnemonic = "suggest spirit horse pudding erode west ginger shield minor winter diesel episode";

@@ -1,1 +1,1 @@
-var mnemonic = "end short flag chalk robot benefit achieve wrestle extend amazing work civil";
+var mnemonic = "history toward three soap soda lazy tissue human battle art render virtual";

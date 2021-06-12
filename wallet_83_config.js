@@ -1,1 +1,1 @@
-var mnemonic = "desert blind invite caution melt sign dutch cradle melody reunion horn often";
+var mnemonic = "pyramid tribe liberty solid media announce rug lottery term pool next two";

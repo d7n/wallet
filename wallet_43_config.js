@@ -1,1 +1,1 @@
-var mnemonic = "sick orbit awkward exhaust hair round summer safe ignore rotate midnight board";
+var mnemonic = "pig topple essence clog fiber bonus spike way conduct march build switch";

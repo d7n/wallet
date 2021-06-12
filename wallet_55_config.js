@@ -1,1 +1,1 @@
-var mnemonic = "beauty old curious second edit timber civil glide artist velvet elevator whip";
+var mnemonic = "guitar glass still near fence curtain head steel urge vast jump enhance";

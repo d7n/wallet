@@ -1,1 +1,1 @@
-var mnemonic = "reason west chef team monster fantasy civil leader toast purse buyer beyond";
+var mnemonic = "spatial radar today fade common sweet blur tower pitch reject mechanic column";

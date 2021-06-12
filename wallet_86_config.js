@@ -1,1 +1,1 @@
-var mnemonic = "gaze lucky merge they consider card local mansion rhythm short cook civil";
+var mnemonic = "luxury conduct local symptom awake busy fortune sword bread mango adapt goat";

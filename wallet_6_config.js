@@ -1,1 +1,1 @@
-var mnemonic = "target able force alley say game treat pioneer term exile adapt clump";
+var mnemonic = "decline raccoon remember sting bamboo include bag side day bike combine reunion";

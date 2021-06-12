@@ -1,1 +1,1 @@
-var mnemonic = "rebel hood same window convince baby dwarf magic size over rookie clean";
+var mnemonic = "shiver patrol water mandate shaft gym place present symbol crack crime ladder";

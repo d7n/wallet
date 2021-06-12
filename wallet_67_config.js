@@ -1,1 +1,1 @@
-var mnemonic = "coyote market ignore bounce belt solar system hill moral prefer you document";
+var mnemonic = "arena blade text kangaroo fee pizza globe deal angle struggle inch spy";

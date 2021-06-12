@@ -1,1 +1,1 @@
-var mnemonic = "drama immune fabric age antique school guide pole beach heart escape inhale";
+var mnemonic = "novel scale start chaos puzzle vague fashion diet accuse hidden cook say";

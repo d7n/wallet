@@ -1,1 +1,1 @@
-var mnemonic = "else team elegant cattle move inside stay speed today repeat twist beauty";
+var mnemonic = "major tired giggle critic type link render help mistake motion grid bike";

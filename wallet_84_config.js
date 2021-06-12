@@ -1,1 +1,1 @@
-var mnemonic = "submit number such picture body version round afraid tornado merry tool damp";
+var mnemonic = "shiver video dish olympic casino fabric mail need badge wrap maid deer";

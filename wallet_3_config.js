@@ -1,1 +1,1 @@
-var mnemonic = "catch general above image reward ceiling room drift diagram nominee panda curious";
+var mnemonic = "syrup indoor fade else senior rack human aerobic ozone receive faculty brown";

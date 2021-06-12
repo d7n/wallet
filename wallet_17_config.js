@@ -1,1 +1,1 @@
-var mnemonic = "wheel bright metal tackle jealous illegal long initial puppy height ozone piece";
+var mnemonic = "law replace mixture buyer elegant trouble jealous degree demise top wall feature";

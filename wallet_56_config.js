@@ -1,1 +1,1 @@
-var mnemonic = "silly loop jeans october music original camp plug digital language fruit model";
+var mnemonic = "defense taste carry few verify envelope shuffle hurry bacon stick victory negative";

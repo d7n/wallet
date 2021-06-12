@@ -1,1 +1,1 @@
-var mnemonic = "clog high arrest catalog glass lawn chapter stick brass drum great gown";
+var mnemonic = "flip purity fancy knee claw betray ordinary stereo column metal august tank";

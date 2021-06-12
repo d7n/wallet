@@ -1,1 +1,1 @@
-var mnemonic = "resist attitude genius often drama number grocery disorder yellow exist wagon print";
+var mnemonic = "brown demand trade extend goat very portion flush erupt tired entire van";

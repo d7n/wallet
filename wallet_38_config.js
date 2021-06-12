@@ -1,1 +1,1 @@
-var mnemonic = "dawn wood wish hunt royal ready ceiling push doll front original inquiry";
+var mnemonic = "unlock harbor dove vote tired correct grid asset general canoe goddess elevator";

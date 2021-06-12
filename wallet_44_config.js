@@ -1,1 +1,1 @@
-var mnemonic = "section fee unable joke bounce promote dice chaos strong usual cook rebel";
+var mnemonic = "merge check raise still auto candy safe move maze theme stairs light";

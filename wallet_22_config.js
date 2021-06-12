@@ -1,1 +1,1 @@
-var mnemonic = "despair sibling file quantum industry return radar long arrow accident fruit sheriff";
+var mnemonic = "gossip badge number crash know snow alcohol twenty used canyon wagon sheriff";

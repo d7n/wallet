@@ -1,1 +1,1 @@
-var mnemonic = "rough pyramid consider parade then glance silk copper remember forum uphold body";
+var mnemonic = "narrow since collect strong tree chase tone wagon various evil pioneer aspect";

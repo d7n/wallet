@@ -1,1 +1,1 @@
-var mnemonic = "entire arm saddle trophy salmon police enrich step water excite strategy wine";
+var mnemonic = "apple fit laptop ill sugar wagon canvas soda soccer label carpet license";

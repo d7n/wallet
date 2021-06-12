@@ -1,1 +1,1 @@
-var mnemonic = "average zone method caution yard liar unit drift wire second cheese angle";
+var mnemonic = "engine fun grow crowd genius valley water broken grid spare clip ready";

@@ -1,1 +1,1 @@
-var mnemonic = "organ notable inch visa taste rookie carpet fit sign whip scissors satisfy";
+var mnemonic = "zone mountain example will betray achieve ethics speak easily rude artefact sail";

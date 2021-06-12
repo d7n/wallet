@@ -1,1 +1,1 @@
-var mnemonic = "pig simple awake bundle roof winner cost off tip zero balance drama";
+var mnemonic = "chaos decrease birth sample trigger style only theme left amateur notice pyramid";

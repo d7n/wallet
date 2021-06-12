@@ -1,1 +1,1 @@
-var mnemonic = "tomato auto gain outer elephant extra taxi senior gift pizza leopard scan";
+var mnemonic = "manage dice goddess warrior raven hole laugh foam dizzy omit wisdom crazy";

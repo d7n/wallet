@@ -1,1 +1,1 @@
-var mnemonic = "muffin pudding minor entry stay prosper olive join sketch leave peanut they";
+var mnemonic = "recall intact belt split produce voice trial popular disagree father visual grain";

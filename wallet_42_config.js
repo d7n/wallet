@@ -1,1 +1,1 @@
-var mnemonic = "canyon spin eye average rain myself garage candy alley teach loop junior";
+var mnemonic = "polar monster idea rent wool first sail foster wood great yellow immune";

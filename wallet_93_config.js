@@ -1,1 +1,1 @@
-var mnemonic = "witness obey payment outer chaos grace garbage play bomb correct result vital";
+var mnemonic = "fever fitness scheme shell obvious oil spring mistake wild cliff sing already";

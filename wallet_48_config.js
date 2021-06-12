@@ -1,1 +1,1 @@
-var mnemonic = "inquiry horse spike radio deer shock peanut fringe naive bachelor grace curve";
+var mnemonic = "parent october salon country impact bunker door ginger strike scout verb turtle";

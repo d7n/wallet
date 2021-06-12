@@ -1,1 +1,1 @@
-var mnemonic = "ivory then give couple senior diagram silly twin author mesh kiss asset";
+var mnemonic = "lecture logic outer mango oxygen health have canal wasp fruit maze cycle";
