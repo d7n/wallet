@@ -1,1 +1,1 @@
-var mnemonic = "outer bus rural ghost motor reopen current skirt always flee wink across";
+var mnemonic = "diary depart meat lecture humor wrap girl quantum harvest garden concert position";

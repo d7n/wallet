@@ -1,1 +1,1 @@
-var mnemonic = "slogan rail blast duck pitch seed bamboo flee dune farm gas gap";
+var mnemonic = "social saddle amused skirt climb evidence dawn fringe area tortoise own glory";

@@ -1,1 +1,1 @@
-var mnemonic = "bike jaguar shine solve piano rack own mirror shrug cotton answer clarify";
+var mnemonic = "exhaust hollow install puppy surge dignity convince panel medal suffer rapid submit";

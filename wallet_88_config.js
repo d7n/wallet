@@ -1,1 +1,1 @@
-var mnemonic = "reject service mind symbol mammal student coyote expand save october gesture bracket";
+var mnemonic = "possible amused duty hope genuine squeeze shiver tumble enjoy steak wreck exclude";

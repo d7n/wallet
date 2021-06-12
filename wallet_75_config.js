@@ -1,1 +1,1 @@
-var mnemonic = "material tragic control clay poet tortoise obtain butter expire supply boil true";
+var mnemonic = "large project such gain flat myth remove glad web tiger floor piano";

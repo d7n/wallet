@@ -1,1 +1,1 @@
-var mnemonic = "corn alone infant motion egg atom cruise town rug you gloom sword";
+var mnemonic = "tumble blade churn ride album ready surge stuff gym item conduct glory";

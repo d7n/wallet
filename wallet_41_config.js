@@ -1,1 +1,1 @@
-var mnemonic = "hold pumpkin metal bulb unveil clip area lunar belt enough prevent settle";
+var mnemonic = "snow runway access dash stamp between certain wedding assist dust diesel lunch";

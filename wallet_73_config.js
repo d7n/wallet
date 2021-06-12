@@ -1,1 +1,1 @@
-var mnemonic = "peanut insect host eagle drama exhibit wrist swim neither rival remind yard";
+var mnemonic = "draw market sister glory clutch casual auction puzzle fossil planet pizza bracket";

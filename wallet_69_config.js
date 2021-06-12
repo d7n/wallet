@@ -1,1 +1,1 @@
-var mnemonic = "dirt initial hybrid original share shy beyond base top swim position opera";
+var mnemonic = "allow someone laundry ring evolve slight success stem siege soft smoke plunge";

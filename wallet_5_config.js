@@ -1,1 +1,1 @@
-var mnemonic = "hammer weird tissue gentle text found hybrid garden hospital able auction exotic";
+var mnemonic = "minimum friend tip album trust rural token solve swap list impulse balance";

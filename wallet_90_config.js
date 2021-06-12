@@ -1,1 +1,1 @@
-var mnemonic = "region absorb inform radio siren ancient marble grid fault clarify deposit apart";
+var mnemonic = "divorce jar youth you echo balcony liberty valley drip balance road fringe";

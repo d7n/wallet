@@ -1,1 +1,1 @@
-var mnemonic = "wire empty police beach year advance host idle van lumber method sand";
+var mnemonic = "believe arch summer brother crane expire desk sheriff banana north basket series";

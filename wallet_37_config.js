@@ -1,1 +1,1 @@
-var mnemonic = "wool bus office output today rabbit save canal minute boost firm voyage";
+var mnemonic = "good extra talk purse puzzle program clump obtain zero erase medal glory";

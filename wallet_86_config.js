@@ -1,1 +1,1 @@
-var mnemonic = "ensure burden huge vibrant chuckle thumb dumb kitten tortoise mixed unveil flavor";
+var mnemonic = "miss orchard pyramid vessel broom bench emerge flip slim eyebrow rhythm height";

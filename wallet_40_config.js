@@ -1,1 +1,1 @@
-var mnemonic = "gap fee joke mobile found spend loan museum want tent since letter";
+var mnemonic = "logic tortoise disorder more average sing prepare mosquito stem salad idle street";

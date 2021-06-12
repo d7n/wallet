@@ -1,1 +1,1 @@
-var mnemonic = "demise coffee age boat negative taste swing cost dance fit grow belt";
+var mnemonic = "eager spray voyage shop effort road army crush sunny pig moon verb";

@@ -1,1 +1,1 @@
-var mnemonic = "include knife quantum scare combine slide sentence gravity couple segment seven lemon";
+var mnemonic = "various leave distance merge cousin obvious orchard meat fiction payment caught file";

@@ -1,1 +1,1 @@
-var mnemonic = "extend swear decorate fun tenant lunar meat sadness carry staff recipe valve";
+var mnemonic = "snake very primary lab tenant vessel corn scene caught unique sorry pool";

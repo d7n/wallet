@@ -1,1 +1,1 @@
-var mnemonic = "buffalo matrix enlist sad yellow giraffe vast dolphin hard average invest unusual";
+var mnemonic = "term orchard gorilla damp happy join energy solve option audit remember web";

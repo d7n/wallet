@@ -1,1 +1,1 @@
-var mnemonic = "meadow auto over render gather crumble hunt tone current feature galaxy suspect";
+var mnemonic = "bean hotel maple angry sudden medal february kidney loop slow address segment";

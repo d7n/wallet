@@ -1,1 +1,1 @@
-var mnemonic = "sunset dawn fatal busy clay traffic spike ranch interest course annual audit";
+var mnemonic = "empower unveil eight virus replace frog flee prize arena frozen deliver evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "often figure palm strong west choose reward name victory moon spawn ridge";
+var mnemonic = "wide pave caught property genre stool clay wheat punch write cash pulp";

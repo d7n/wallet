@@ -1,1 +1,1 @@
-var mnemonic = "alien frozen hamster ski gift work exercise join toilet spare allow nuclear";
+var mnemonic = "bring bind idle demise once dinosaur large powder slight blue junk stamp";

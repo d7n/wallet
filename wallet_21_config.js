@@ -1,1 +1,1 @@
-var mnemonic = "believe disorder rare save yellow text athlete seed action dice shift object";
+var mnemonic = "equip across inflict record source strike submit drip gap labor royal maze";

@@ -1,1 +1,1 @@
-var mnemonic = "remind snow melody pluck moral human recall group weasel symptom hello social";
+var mnemonic = "blouse front toward shrimp lift train guide music usage fall dove ready";

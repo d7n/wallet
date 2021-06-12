@@ -1,1 +1,1 @@
-var mnemonic = "hat jaguar kitchen arch marble account carpet dynamic walnut pluck vague moral";
+var mnemonic = "exit used nephew nuclear grow effort blanket other visit fitness measure animal";

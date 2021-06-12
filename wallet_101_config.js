@@ -1,1 +1,1 @@
-var mnemonic = "traffic antique joke shiver entire clutch minor fitness skull drip quantum sense";
+var mnemonic = "matrix property engine patrol pulp ensure cement chest ticket vehicle drastic indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster path walk dose zone mimic vault label comic march trust rack";
+var mnemonic = "beyond cricket insect violin visa fetch canvas voice broken arena utility alert";

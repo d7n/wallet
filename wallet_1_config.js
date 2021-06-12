@@ -1,1 +1,1 @@
-var mnemonic = "era hint join bulb injury kick model lottery judge path silk year";
+var mnemonic = "horror empty loan fossil valid rubber process organ hip demand frog pelican";

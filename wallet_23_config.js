@@ -1,1 +1,1 @@
-var mnemonic = "table spot series vehicle live live cute quarter short essay endless region";
+var mnemonic = "hamster punch flat labor cloth slot alert number sponsor hire struggle top";

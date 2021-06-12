@@ -1,1 +1,1 @@
-var mnemonic = "gravity provide film country spread hurt estate sadness envelope tourist rather exist";
+var mnemonic = "cotton that liquid pole absent fetch tackle nurse stairs actual thought later";

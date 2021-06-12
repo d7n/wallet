@@ -1,1 +1,1 @@
-var mnemonic = "siren uncover laundry prevent organ tourist segment day milk strong clump boring";
+var mnemonic = "slight acquire nephew purse sad surge goose swallow december normal board nature";

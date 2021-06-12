@@ -1,1 +1,1 @@
-var mnemonic = "saddle daring call kid rice visual since flower survey grain road eagle";
+var mnemonic = "whisper satoshi over embrace joy crowd smoke depart powder bone impose hood";

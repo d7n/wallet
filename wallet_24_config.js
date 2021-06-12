@@ -1,1 +1,1 @@
-var mnemonic = "drive finger flame scrub minute resource fruit twice deny fade sleep urban";
+var mnemonic = "stick jacket ghost notice helmet surge waste just spike minor drink frog";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn grief clock patrol meat favorite orbit over cluster six seminar travel";
+var mnemonic = "float banana glimpse strategy begin soup metal dilemma style planet water tragic";

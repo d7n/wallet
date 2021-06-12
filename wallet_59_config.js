@@ -1,1 +1,1 @@
-var mnemonic = "only verify satisfy fly kind burger swing recipe way broken sound budget";
+var mnemonic = "whisper hole later human test thank moment spirit demand grocery honey giraffe";

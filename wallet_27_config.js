@@ -1,1 +1,1 @@
-var mnemonic = "wheel winner duty physical camera again day six thing feel panther idle";
+var mnemonic = "day excite lucky bottom visual exotic limb remind network script tank harsh";

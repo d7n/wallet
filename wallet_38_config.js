@@ -1,1 +1,1 @@
-var mnemonic = "midnight gentle city robust wrong panda observe junk render finish sibling damage";
+var mnemonic = "ethics corn edge erupt blame fall amused bounce again supreme hidden height";

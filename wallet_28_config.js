@@ -1,1 +1,1 @@
-var mnemonic = "wheat cause school uniform excuse blossom host earn divide good grief leisure";
+var mnemonic = "track crunch amused dust bachelor photo outer expire purity question cat also";

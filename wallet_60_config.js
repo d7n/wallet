@@ -1,1 +1,1 @@
-var mnemonic = "two night blood wagon autumn detect lake yard oppose later saddle scare";
+var mnemonic = "phone stamp prison execute ahead abandon avocado diagram index early train body";

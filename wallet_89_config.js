@@ -1,1 +1,1 @@
-var mnemonic = "jungle board real seed man shoot vapor just wheel because path desert";
+var mnemonic = "nice fold stadium welcome roof trust opinion crumble bulb canyon cause public";

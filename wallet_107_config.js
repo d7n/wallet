@@ -1,1 +1,1 @@
-var mnemonic = "silver deliver mammal envelope defy total garbage cabin inquiry absorb toss slender";
+var mnemonic = "pretty behave cactus always name miss cinnamon feel inflict excite increase coast";

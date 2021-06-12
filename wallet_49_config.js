@@ -1,1 +1,1 @@
-var mnemonic = "hold toe pretty midnight leaf dolphin pyramid joy what royal category street";
+var mnemonic = "tuition select shift guide habit awesome help poet alcohol bag mango crumble";

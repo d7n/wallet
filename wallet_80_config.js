@@ -1,1 +1,1 @@
-var mnemonic = "blush echo flash pulse hundred rabbit profit boat regret switch core energy";
+var mnemonic = "equal super chest violin enrich elephant valve luxury uncover arrest number save";

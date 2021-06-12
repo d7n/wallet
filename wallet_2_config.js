@@ -1,1 +1,1 @@
-var mnemonic = "pulse opinion media spoil inform wheat room exercise upon erupt panic draft";
+var mnemonic = "know stand asset amount train tragic fame arm creek actual damp leave";

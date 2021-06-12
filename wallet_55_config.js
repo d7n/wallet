@@ -1,1 +1,1 @@
-var mnemonic = "ginger custom predict aisle canal total hint cake trigger monkey skill weather";
+var mnemonic = "output regular ignore assist struggle lawn ripple art ritual meat pretty crater";

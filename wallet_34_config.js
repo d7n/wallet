@@ -1,1 +1,1 @@
-var mnemonic = "erase zoo switch orbit blossom fee senior derive off earth job company";
+var mnemonic = "now pet spoil consider ship example ring travel orient armor announce have";

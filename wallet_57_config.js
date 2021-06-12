@@ -1,1 +1,1 @@
-var mnemonic = "science museum please vast purity author struggle grape increase chair warrior raven";
+var mnemonic = "chase across correct replace sell gossip upper achieve stuff garage boost two";

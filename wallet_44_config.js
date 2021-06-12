@@ -1,1 +1,1 @@
-var mnemonic = "fence minor taxi father diesel april blood scene measure carbon script brother";
+var mnemonic = "rhythm asset flock loud then good pioneer skirt drama glove solution online";

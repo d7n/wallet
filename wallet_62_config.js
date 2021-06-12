@@ -1,1 +1,1 @@
-var mnemonic = "miracle sudden lumber cream rescue engage soap spread smile mystery hair you";
+var mnemonic = "opera magic frost spot fame web poet skill circle large glare cargo";

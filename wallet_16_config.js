@@ -1,1 +1,1 @@
-var mnemonic = "just best broken quit slogan absent truth genuine stone gate depth fan";
+var mnemonic = "cushion tired update afford height orange brother walk retire major learn print";

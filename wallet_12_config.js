@@ -1,1 +1,1 @@
-var mnemonic = "place change shift slender rose charge wonder guitar slot idle short relax";
+var mnemonic = "swear grace install timber minimum candy screen senior dream squirrel strong word";

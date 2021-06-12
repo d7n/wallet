@@ -1,1 +1,1 @@
-var mnemonic = "obey scare voice leg found unique casino involve critic discover fan betray";
+var mnemonic = "climb funny obey seed accuse maximum magnet body friend tank bring execute";

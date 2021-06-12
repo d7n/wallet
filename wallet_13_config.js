@@ -1,1 +1,1 @@
-var mnemonic = "flame search bounce weather melody grunt interest clerk proud oak panic embody";
+var mnemonic = "alter bridge mountain auto raise prefer note blue episode bag frown artist";

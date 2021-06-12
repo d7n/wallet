@@ -1,1 +1,1 @@
-var mnemonic = "lyrics summer vicious palm offer tone moral wasp rare crime basket symptom";
+var mnemonic = "quit deal embrace spell manual bargain joy fog name actual lens drop";

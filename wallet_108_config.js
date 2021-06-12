@@ -1,1 +1,1 @@
-var mnemonic = "betray junior cave firm nasty weasel know wing submit inside level rocket";
+var mnemonic = "delay jelly borrow fresh anchor polar magnet excuse plate input museum genius";

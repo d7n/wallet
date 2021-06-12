@@ -1,1 +1,1 @@
-var mnemonic = "jelly clock balance because sell hammer planet vote symptom you clip analyst";
+var mnemonic = "earth piece begin lunch ahead cigar asset galaxy flee depth shoe double";

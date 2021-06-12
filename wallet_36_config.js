@@ -1,1 +1,1 @@
-var mnemonic = "wet attack animal again round drink tank demise atom glue brick decline";
+var mnemonic = "coil airport hotel meat melt remember fault fiscal aerobic purchase extend session";

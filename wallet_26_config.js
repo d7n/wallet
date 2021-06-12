@@ -1,1 +1,1 @@
-var mnemonic = "balcony involve hungry unfold grab tower jealous cage bronze ten pulp glow";
+var mnemonic = "illegal never small jaguar work only copy clog cannon shiver size giant";

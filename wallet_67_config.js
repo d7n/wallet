@@ -1,1 +1,1 @@
-var mnemonic = "inhale staff taxi rebuild empty length height evidence pepper reflect tell prison";
+var mnemonic = "enough make sign glimpse kingdom celery iron want other mosquito brave kite";

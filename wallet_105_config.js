@@ -1,1 +1,1 @@
-var mnemonic = "eternal day avoid about want this teach quit photo primary embody narrow";
+var mnemonic = "divorce will physical replace insane dentist staff pear reveal frame giggle awkward";

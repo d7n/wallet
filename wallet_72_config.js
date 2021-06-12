@@ -1,1 +1,1 @@
-var mnemonic = "glare minimum lock can grocery control express noodle roof immense upon crawl";
+var mnemonic = "space wash future foster like sing tip focus rural immune pig sketch";

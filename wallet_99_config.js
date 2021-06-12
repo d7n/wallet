@@ -1,1 +1,1 @@
-var mnemonic = "seminar goddess clock soldier repair cash pottery wolf oak kitchen minimum lava";
+var mnemonic = "jazz file brick box solar casino pledge during apple pride couch luggage";

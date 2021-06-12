@@ -1,1 +1,1 @@
-var mnemonic = "like outside twice trade language page truck muscle snap erosion general used";
+var mnemonic = "vacant one unlock interest sense custom history repeat pumpkin maid basket flip";

@@ -1,1 +1,1 @@
-var mnemonic = "loop ocean cement crucial chair noodle panic glory endorse major garlic little";
+var mnemonic = "notice abstract original bridge assist spin series supply rain ladder steel cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "spring security arena orient merit inject impose silly trim turkey kitten glove";
+var mnemonic = "round jeans slight travel ranch captain setup trend piece polar aware desk";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit phrase frost usual pull deny length mix dose despair buffalo often";
+var mnemonic = "ask joke list feed angle arena you noble spell divorce dose deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "spice photo clerk jacket will recycle another miracle sentence soul spray tilt";
+var mnemonic = "sword error trip wise flower equip vast cup law jaguar gaze trick";

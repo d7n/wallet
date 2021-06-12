@@ -1,1 +1,1 @@
-var mnemonic = "sudden polar trade regret affair blossom elbow can wild oven depth mix";
+var mnemonic = "flavor oyster night clarify grief liquid vast click away uncover setup life";

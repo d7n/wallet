@@ -1,1 +1,1 @@
-var mnemonic = "egg wink grit spend other ivory foil slush cube sign city round";
+var mnemonic = "okay suspect armed mushroom man cute coil blast wide scissors mixture argue";

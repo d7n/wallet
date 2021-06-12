@@ -1,1 +1,1 @@
-var mnemonic = "display midnight vault always beauty street owner eight blood book hold ozone";
+var mnemonic = "ripple front mercy turn open hen staff toast bitter obvious fox month";

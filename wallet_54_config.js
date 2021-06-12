@@ -1,1 +1,1 @@
-var mnemonic = "mechanic cannon harbor gift churn helmet junior bless until narrow myth flash";
+var mnemonic = "punch obscure nothing decade about impact donate decorate photo toast game citizen";

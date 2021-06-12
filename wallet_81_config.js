@@ -1,1 +1,1 @@
-var mnemonic = "stone fix hover gossip nurse also penalty erase duty biology elbow asthma";
+var mnemonic = "harbor member sock infant banner profit release cash tumble combine decrease echo";

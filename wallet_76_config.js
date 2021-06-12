@@ -1,1 +1,1 @@
-var mnemonic = "street glimpse uphold motion remain income budget canyon theme knock coach good";
+var mnemonic = "rough device woman provide card tape truly coil then build flavor canal";

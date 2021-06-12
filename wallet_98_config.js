@@ -1,1 +1,1 @@
-var mnemonic = "resemble diamond attend later enroll vicious green mule soldier senior rough column";
+var mnemonic = "damage melody baby ostrich exit camera advice vanish velvet together sponsor piece";

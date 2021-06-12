@@ -1,1 +1,1 @@
-var mnemonic = "april climb desert kit agent lamp scan curious castle verb build satoshi";
+var mnemonic = "anchor copper describe spy employ during whip volume work wasp candy resource";

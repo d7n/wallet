@@ -1,1 +1,1 @@
-var mnemonic = "heart rapid decrease point purity whisper soap deny awful hobby clown rapid";
+var mnemonic = "bind deny erosion impact borrow meadow enlist spawn want acoustic tired power";

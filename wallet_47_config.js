@@ -1,1 +1,1 @@
-var mnemonic = "metal poverty essence alarm claw tag dutch prepare giant torch neck miracle";
+var mnemonic = "rubber reduce detail practice mother unaware chief year swallow nest sign grocery";

@@ -1,1 +1,1 @@
-var mnemonic = "another document lamp stadium play suit barely safe tape seven give build";
+var mnemonic = "proud practice prison zero baby clever chicken glance excess possible chaos cattle";

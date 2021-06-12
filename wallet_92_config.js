@@ -1,1 +1,1 @@
-var mnemonic = "deputy farm minor couple oyster uncle brisk real gorilla uncover weather census";
+var mnemonic = "today flock biology pretty orchard innocent picture project regular beyond ketchup spirit";

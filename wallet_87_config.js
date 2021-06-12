@@ -1,1 +1,1 @@
-var mnemonic = "guilt car dash unhappy ordinary one misery deputy note core float frown";
+var mnemonic = "old around reflect chest antique west song siege occur warrior general voice";

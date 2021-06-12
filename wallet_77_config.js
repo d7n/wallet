@@ -1,1 +1,1 @@
-var mnemonic = "grain credit feed stand merit execute decrease nice exhaust travel poverty business";
+var mnemonic = "when absent behave ability nephew catalog daughter slice option order copper cash";

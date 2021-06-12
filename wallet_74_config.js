@@ -1,1 +1,1 @@
-var mnemonic = "true arrive inch imitate amazing salute south sunset luxury kiss oil unfair";
+var mnemonic = "above open miracle stadium acid dish culture umbrella domain middle palace rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "debris develop comic anchor fruit rose because area host ship pole pink";
+var mnemonic = "primary sense trap grow recycle fruit castle grow better tortoise wide soccer";

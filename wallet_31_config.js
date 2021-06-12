@@ -1,1 +1,1 @@
-var mnemonic = "shiver shaft ill idle nice hill modify silver valve wolf chair basket";
+var mnemonic = "citizen task kitten exercise injury resist brave truth pond unit unaware uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "useful grid stumble foster disorder basket science reject spoil dizzy load tell";
+var mnemonic = "eye scan maze boost defense biology ozone pizza spend upon search fortune";

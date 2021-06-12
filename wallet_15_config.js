@@ -1,1 +1,1 @@
-var mnemonic = "cat ripple catch affair odor frozen cancel relax identify aerobic thumb ramp";
+var mnemonic = "dumb rough cupboard fade deer tobacco cinnamon episode air strategy obey bonus";

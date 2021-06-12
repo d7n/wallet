@@ -1,1 +1,1 @@
-var mnemonic = "amazing pass noble only snack mail fancy correct lucky smoke clock radio";
+var mnemonic = "deliver scout symbol season opinion disease spirit pink shove away person boy";

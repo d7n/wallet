@@ -1,1 +1,1 @@
-var mnemonic = "truth danger exhibit bench perfect fever satoshi confirm pear drive army title";
+var mnemonic = "million wonder assault border auction dial blue letter topple argue grace stick";

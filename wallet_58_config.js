@@ -1,1 +1,1 @@
-var mnemonic = "artefact subject together nurse huge brisk bicycle clerk that lottery sunny talk";
+var mnemonic = "swear rapid gloom ginger someone pole poet foster seminar there fan cat";

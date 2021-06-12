@@ -1,1 +1,1 @@
-var mnemonic = "shuffle push found federal steak kiss flower illegal depth derive giant unable";
+var mnemonic = "slight slush hawk window wait slush next bargain antique word tunnel fantasy";

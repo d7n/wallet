@@ -1,1 +1,1 @@
-var mnemonic = "leg cloud sign rain exist together wife used episode prize legal mango";
+var mnemonic = "garment search aunt myself flag obscure exist resource vast area wasp milk";

@@ -1,1 +1,1 @@
-var mnemonic = "night ranch debris favorite priority action enact nature remain mixture mushroom maximum";
+var mnemonic = "gaze riot street fiction purchase clean utility local excite produce mango pause";
