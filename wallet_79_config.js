@@ -1,1 +1,1 @@
-var mnemonic = "skirt arch million unable pair mistake cousin super staff mountain input floor";
+var mnemonic = "valve increase area all actual kidney pair ride walk summer digital loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "notice over start divert remind spider area federal scene anxiety lizard still";
+var mnemonic = "zone outdoor area express smile pitch second eight drop brisk require crawl";

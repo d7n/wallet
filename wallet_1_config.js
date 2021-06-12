@@ -1,1 +1,1 @@
-var mnemonic = "satisfy wrestle name echo disease shed snap rebel swear penalty noble situate";
+var mnemonic = "hand marble quality surge fluid category tuition iron rule hair woman consider";

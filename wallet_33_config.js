@@ -1,1 +1,1 @@
-var mnemonic = "option extra club step worry vivid oval illness myth dice soft raise";
+var mnemonic = "leave regret seat collect reason guitar general forward zero ridge equip transfer";

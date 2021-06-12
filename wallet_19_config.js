@@ -1,1 +1,1 @@
-var mnemonic = "impact weekend laptop quote order general music cannon inmate silver hundred audit";
+var mnemonic = "poet minor sentence burger hawk toe program inside chronic final service clinic";

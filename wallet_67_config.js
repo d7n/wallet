@@ -1,1 +1,1 @@
-var mnemonic = "make lion taste fuel under argue hawk middle vivid crane firm roof";
+var mnemonic = "path naive assist logic public erupt resemble clump prevent notice follow error";

@@ -1,1 +1,1 @@
-var mnemonic = "deny unable execute river panda space kiwi excuse render observe whip smooth";
+var mnemonic = "game picture reform panel captain slow anxiety ribbon rule beauty slot private";

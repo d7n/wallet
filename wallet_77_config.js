@@ -1,1 +1,1 @@
-var mnemonic = "mirror shrug float blanket card better various fee elder stick situate excess";
+var mnemonic = "clown sunny sheriff west margin settle robust trust speak garment capable million";

@@ -1,1 +1,1 @@
-var mnemonic = "steak suit front harbor ride robot load nation pulp winter symbol divide";
+var mnemonic = "canvas adapt under camp another liberty round force sponsor laundry supreme right";

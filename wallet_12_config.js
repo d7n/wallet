@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo illness switch tuition rain vast void harbor six depth bamboo favorite";
+var mnemonic = "lift country bunker protect lock duty physical essay come exact truly kick";

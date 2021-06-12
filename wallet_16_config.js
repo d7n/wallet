@@ -1,1 +1,1 @@
-var mnemonic = "govern wife hub decide trip grit announce betray decrease attitude square speed";
+var mnemonic = "gym mobile result crisp syrup food duty scheme van sea harsh awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "pass coffee galaxy people infant rally fancy bright tank caution junior snow";
+var mnemonic = "hip circle grow uniform squeeze couch actress monitor humor zebra minor jacket";

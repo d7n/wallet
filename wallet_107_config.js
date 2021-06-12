@@ -1,1 +1,1 @@
-var mnemonic = "prize size divide shift require resemble priority idea pig awesome dwarf distance";
+var mnemonic = "confirm ketchup ring cool lawn spend icon sauce spirit waste chef shaft";

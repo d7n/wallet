@@ -1,1 +1,1 @@
-var mnemonic = "around depart immense drop nominee lift sail similar rough comic neglect glimpse";
+var mnemonic = "guide salt rack ride snow fun venture artwork poet zone panel endless";

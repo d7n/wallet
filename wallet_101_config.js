@@ -1,1 +1,1 @@
-var mnemonic = "certain kidney truth axis bus maze off essay harbor raise coconut visit";
+var mnemonic = "grocery oil scale sustain country music grant control prefer endless become protect";

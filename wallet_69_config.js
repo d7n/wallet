@@ -1,1 +1,1 @@
-var mnemonic = "hungry drastic unit reopen coin feature leaf gap manual napkin member elephant";
+var mnemonic = "dune rebel artist donate gaze ridge neutral mother diary crack punch river";

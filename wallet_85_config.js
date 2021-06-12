@@ -1,1 +1,1 @@
-var mnemonic = "ugly mercy horse wrist mushroom secret blush attend verb amused follow exhibit";
+var mnemonic = "valid time give captain misery glance sort solid debris magic stable normal";

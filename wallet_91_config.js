@@ -1,1 +1,1 @@
-var mnemonic = "hand warrior smooth ginger barrel claim soup lunar hub travel spice relax";
+var mnemonic = "leave whale romance can rabbit soccer fury century wedding juice unhappy behind";

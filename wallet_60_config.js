@@ -1,1 +1,1 @@
-var mnemonic = "square forest grass expire sweet settle fever cram gloom token pulse blade";
+var mnemonic = "quarter select dance ring betray pull pioneer asthma project choose various review";

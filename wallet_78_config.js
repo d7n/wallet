@@ -1,1 +1,1 @@
-var mnemonic = "erosion anger consider equip ozone upper garlic enroll girl decide ancient consider";
+var mnemonic = "sister pistol crucial narrow arch cement dry open raw bulk tongue couch";

@@ -1,1 +1,1 @@
-var mnemonic = "young sight upgrade luggage frost crane excite text light zoo dinosaur senior";
+var mnemonic = "sword physical chimney cattle learn provide grunt off rookie empower camp fan";

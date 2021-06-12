@@ -1,1 +1,1 @@
-var mnemonic = "mom squirrel fiscal gospel prefer base sweet ozone wet obvious patch suspect";
+var mnemonic = "spike turn monkey hammer horror essay civil critic between asthma cushion indoor";

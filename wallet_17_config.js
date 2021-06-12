@@ -1,1 +1,1 @@
-var mnemonic = "battle squeeze flat owner device polar guilt such reveal utility flee tell";
+var mnemonic = "velvet object hurt path recall oven fly neglect smoke aunt smile jar";

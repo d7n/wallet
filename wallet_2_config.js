@@ -1,1 +1,1 @@
-var mnemonic = "replace summer weapon lend mix silent gift journey robot token best marble";
+var mnemonic = "dignity super crawl protect again rebel enlist remember smooth unaware holiday tree";

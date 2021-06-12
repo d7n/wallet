@@ -1,1 +1,1 @@
-var mnemonic = "resemble normal wage express hurry legal put circle left oblige ahead winner";
+var mnemonic = "inmate pill olympic train define decline bone shove ozone sand stadium jeans";

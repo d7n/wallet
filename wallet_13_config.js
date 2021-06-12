@@ -1,1 +1,1 @@
-var mnemonic = "prefer pumpkin shrug entry inspire pioneer either coach valid coach stem video";
+var mnemonic = "together shed organ card napkin heavy slim garden always comfort bicycle fox";

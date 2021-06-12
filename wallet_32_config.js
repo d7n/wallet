@@ -1,1 +1,1 @@
-var mnemonic = "grocery little eyebrow large ready game puzzle industry drive peanut explain speak";
+var mnemonic = "defense approve air cloud exact clever quote hello ball speak unfair second";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy gun ready bring test match high release brisk degree village crunch";
+var mnemonic = "differ visual include hat atom student video this wagon turkey strong ankle";

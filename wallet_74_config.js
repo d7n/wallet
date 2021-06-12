@@ -1,1 +1,1 @@
-var mnemonic = "planet hello beach chicken castle flush oval addict excite rare denial capital";
+var mnemonic = "police man fuel call enlist ridge unfold domain siege neglect grid cotton";

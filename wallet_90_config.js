@@ -1,1 +1,1 @@
-var mnemonic = "initial public art viable universe deliver increase chat usage century female lunch";
+var mnemonic = "scale size expand episode reopen boss talent soldier yellow obtain give table";

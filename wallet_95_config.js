@@ -1,1 +1,1 @@
-var mnemonic = "powder guard force strong pride sort patch bag comic party mercy shine";
+var mnemonic = "angle sea aisle yellow hill feel diary walnut satoshi table language diagram";

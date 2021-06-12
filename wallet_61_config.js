@@ -1,1 +1,1 @@
-var mnemonic = "capital near message oyster fortune alert cousin script goose primary index carpet";
+var mnemonic = "mimic eight flight chimney exact toilet tell garment begin sick liar animal";

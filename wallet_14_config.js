@@ -1,1 +1,1 @@
-var mnemonic = "room proud prevent vintage tourist lawn crop clarify ghost bulk bleak spider";
+var mnemonic = "thing kingdom awful paddle game foster stay deer asthma vehicle alone verb";

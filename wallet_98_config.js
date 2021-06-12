@@ -1,1 +1,1 @@
-var mnemonic = "secret obscure team squirrel fold pudding joke supreme assault helmet assist slight";
+var mnemonic = "outdoor birth plunge cluster rebel bridge orchard release ridge butter want reflect";

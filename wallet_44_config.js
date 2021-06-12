@@ -1,1 +1,1 @@
-var mnemonic = "butter nut basket crystal sample soda alley share hill tourist wealth behave";
+var mnemonic = "duty swift that bless dust post album spoil verify discover clay rain";

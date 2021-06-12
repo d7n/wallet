@@ -1,1 +1,1 @@
-var mnemonic = "spider supreme uncover pond churn extend recall banana planet picnic truly harsh";
+var mnemonic = "legal pave victory empty height slab aim account beach cry turn faith";

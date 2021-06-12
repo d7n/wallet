@@ -1,1 +1,1 @@
-var mnemonic = "secret address picnic sauce glass tonight milk annual finger moment grunt section";
+var mnemonic = "loud gift ginger dice tube identify purse wet wage east riot embark";

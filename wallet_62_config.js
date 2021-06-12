@@ -1,1 +1,1 @@
-var mnemonic = "absent indicate clerk transfer excess word cattle pumpkin good congress jelly series";
+var mnemonic = "dutch gas neither pulse phone slot slice nerve corn man input unique";

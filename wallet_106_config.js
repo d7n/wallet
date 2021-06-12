@@ -1,1 +1,1 @@
-var mnemonic = "mask abandon pony always buyer gate cinnamon satoshi famous ask material few";
+var mnemonic = "agent tube three toe napkin frown hamster mango rate gap drastic found";

@@ -1,1 +1,1 @@
-var mnemonic = "range scheme donate correct poverty light blanket spread olive sand off need";
+var mnemonic = "invite olympic west letter demise rotate fat fringe february govern section enable";

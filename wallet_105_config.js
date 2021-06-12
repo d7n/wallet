@@ -1,1 +1,1 @@
-var mnemonic = "glad calm second fetch rival vibrant family element stereo stock miracle tomato";
+var mnemonic = "luxury pizza salt bird shiver desk oil gown ramp wolf child shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid ill festival visual fault witness vanish ozone absent road cart such";
+var mnemonic = "disease weird inherit drastic repair correct pencil country hedgehog battle region midnight";

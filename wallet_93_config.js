@@ -1,1 +1,1 @@
-var mnemonic = "unfold glimpse cruel doctor hurt receive palace festival into fatigue approve boil";
+var mnemonic = "calm margin process public coyote broom general upgrade labor mesh despair cable";

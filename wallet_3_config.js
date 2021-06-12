@@ -1,1 +1,1 @@
-var mnemonic = "require reflect will industry spoon invite rail try model dust champion pact";
+var mnemonic = "mammal blue arrow author mobile exile select tip setup offer hollow material";

@@ -1,1 +1,1 @@
-var mnemonic = "couch avocado dolphin shield ketchup sure cram explain harvest lyrics garlic collect";
+var mnemonic = "wash pull jealous drop erosion rug barely rapid clutch cliff joy glide";

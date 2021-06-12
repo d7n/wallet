@@ -1,1 +1,1 @@
-var mnemonic = "purse trend wish wagon remain myself harbor muscle buffalo lawsuit street shield";
+var mnemonic = "shell pass cat trend series shaft boil scale solve film blame tiny";

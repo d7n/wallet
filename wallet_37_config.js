@@ -1,1 +1,1 @@
-var mnemonic = "danger champion lend parrot shrug jelly suffer police february puzzle claim cage";
+var mnemonic = "barely avoid sight grow brief candy mixed master wedding sure juice remain";

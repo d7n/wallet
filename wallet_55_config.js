@@ -1,1 +1,1 @@
-var mnemonic = "blame champion result merry effort guess race dune mix mixture loop wave";
+var mnemonic = "target match crunch view ankle dinner ethics guilt cook photo muffin please";

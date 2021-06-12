@@ -1,1 +1,1 @@
-var mnemonic = "side easy measure luxury special father attack mango dinosaur indicate miracle scene";
+var mnemonic = "fiscal cereal oxygen timber easy food phrase worth climb glad spring begin";

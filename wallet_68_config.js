@@ -1,1 +1,1 @@
-var mnemonic = "shoot lyrics illness twelve dismiss romance cherry grunt maximum tattoo sock dial";
+var mnemonic = "crunch language green stick crater arrest light quantum couple inch office twelve";

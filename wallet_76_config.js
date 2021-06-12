@@ -1,1 +1,1 @@
-var mnemonic = "have win among depend bacon magic album sell alert net ensure dial";
+var mnemonic = "tell attack cactus bracket right valve proof gravity taxi add choice reunion";

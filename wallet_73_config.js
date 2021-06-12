@@ -1,1 +1,1 @@
-var mnemonic = "cement inside lunar rail orange hen scrub riot woman tray turkey hollow";
+var mnemonic = "know uncover benefit cactus woman mind gospel breeze raven trim want abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "head other home key gossip canyon west cloud mention video child mistake";
+var mnemonic = "shed raccoon abuse champion embark popular defy hedgehog ready address foster whip";

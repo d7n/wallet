@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow stove axis track absent cricket kid awesome canyon betray village mean";
+var mnemonic = "very electric glance elbow aisle staff vicious option limb inside hill female";

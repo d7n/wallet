@@ -1,1 +1,1 @@
-var mnemonic = "output snow poem push song pole cushion canoe slim much inside duty";
+var mnemonic = "maid purity reflect moral unit kit stuff six thrive output brand wrong";

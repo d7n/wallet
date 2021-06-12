@@ -1,1 +1,1 @@
-var mnemonic = "later wreck exercise ginger guide false cat pink enlist copy gauge engage";
+var mnemonic = "air outdoor swamp give fire upon height prepare idea distance lumber hold";

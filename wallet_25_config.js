@@ -1,1 +1,1 @@
-var mnemonic = "kitchen rice rigid fortune knee limit pipe logic concert lift attract kingdom";
+var mnemonic = "jump arctic pioneer phone treat resist desert solution hub wide enhance bonus";

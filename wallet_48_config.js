@@ -1,1 +1,1 @@
-var mnemonic = "actress tuition catch onion join bless come hello increase cup about ask";
+var mnemonic = "village decide win ship police vibrant drill piece network suspect organ snack";

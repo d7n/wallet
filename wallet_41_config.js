@@ -1,1 +1,1 @@
-var mnemonic = "exercise excess goat include glass onion depth equal glad good hold venture";
+var mnemonic = "response copy repeat affair stage ask measure resemble narrow ugly silk small";

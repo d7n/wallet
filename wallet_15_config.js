@@ -1,1 +1,1 @@
-var mnemonic = "hill fetch sting butter immune surface canyon machine filter glide jar bronze";
+var mnemonic = "property universe buddy wreck price harbor all west whisper eyebrow card insane";

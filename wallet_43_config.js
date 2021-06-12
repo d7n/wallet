@@ -1,1 +1,1 @@
-var mnemonic = "talent tattoo tool shift ask rescue garment snap parent year erode galaxy";
+var mnemonic = "blue window cover give disease index floor wreck tank shadow despair angle";

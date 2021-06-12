@@ -1,1 +1,1 @@
-var mnemonic = "behind home blood maximum brief ski bread agent under gospel escape hurt";
+var mnemonic = "law habit during tribe amount grow cabbage grass other million track track";

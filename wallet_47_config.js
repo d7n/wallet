@@ -1,1 +1,1 @@
-var mnemonic = "parent order recall drop envelope uncle foam always staff region innocent artefact";
+var mnemonic = "absorb mushroom unfair ordinary junk cement used atom harvest brother fantasy lounge";

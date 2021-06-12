@@ -1,1 +1,1 @@
-var mnemonic = "lava fluid frozen inch truth fancy else chase void yard such admit";
+var mnemonic = "company absent broken put digital despair task gentle rubber fun audit lounge";

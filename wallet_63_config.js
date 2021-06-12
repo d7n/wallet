@@ -1,1 +1,1 @@
-var mnemonic = "easy sister accident bid there seek speak judge entry sand disorder recall";
+var mnemonic = "nation easily someone orphan noble patch business bird casino law cheap cram";

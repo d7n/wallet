@@ -1,1 +1,1 @@
-var mnemonic = "thank thing begin pencil fold assault guess energy glad liberty weather digital";
+var mnemonic = "ramp about select seminar rural trial insane cargo twice master nut game";

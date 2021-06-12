@@ -1,1 +1,1 @@
-var mnemonic = "humor gym skill swamp chair found film student error often tuition achieve";
+var mnemonic = "wonder ugly peanut cube jump green donkey island creek pigeon parade sea";

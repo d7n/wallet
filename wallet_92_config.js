@@ -1,1 +1,1 @@
-var mnemonic = "host pioneer sudden mobile model must team toddler fault property penalty remind";
+var mnemonic = "great garlic wall wall quote scale head holiday abuse very position bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "subject scan lab junk blur youth insane garage twenty barely job spray";
+var mnemonic = "minute creek luggage hunt kidney tower worry return pitch crash family lady";

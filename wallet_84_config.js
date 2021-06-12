@@ -1,1 +1,1 @@
-var mnemonic = "bargain sweet true boy violin gift forum deny suspect aerobic tired valve";
+var mnemonic = "viable submit bounce hockey equal phrase size lyrics onion useless portion buyer";

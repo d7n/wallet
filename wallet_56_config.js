@@ -1,1 +1,1 @@
-var mnemonic = "mean often alcohol protect street hungry genre absent vocal ready brain glance";
+var mnemonic = "field jump gym demise motor pond congress slim toss weasel flat student";

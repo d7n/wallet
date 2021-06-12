@@ -1,1 +1,1 @@
-var mnemonic = "seek chase such bid custom drop banner harsh waste replace soup develop";
+var mnemonic = "run path gesture mirror solar daughter icon wagon abuse arrest change novel";

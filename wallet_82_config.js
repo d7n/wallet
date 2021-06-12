@@ -1,1 +1,1 @@
-var mnemonic = "chase original furnace garment notable wisdom spoon person eager that orange myself";
+var mnemonic = "winter era place convince cram loan ugly eternal earth annual egg barrel";

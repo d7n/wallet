@@ -1,1 +1,1 @@
-var mnemonic = "seat brother tackle egg legend slide capable unlock sound crisp liberty retreat";
+var mnemonic = "near blue cannon danger alone elbow tragic zoo avoid inherit young bike";

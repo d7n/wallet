@@ -1,1 +1,1 @@
-var mnemonic = "flavor leg negative praise ship symptom ramp lawn guide sport effort cigar";
+var mnemonic = "round radar enable connect entry damage juice require pool detect mad appear";

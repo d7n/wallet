@@ -1,1 +1,1 @@
-var mnemonic = "winter holiday predict kiss ugly timber enter before present audit tone rescue";
+var mnemonic = "clarify middle trap front doll buddy much census sunny cool drive gas";

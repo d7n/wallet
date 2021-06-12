@@ -1,1 +1,1 @@
-var mnemonic = "water inflict census leg slim oval wait trash lunch dwarf survey skin";
+var mnemonic = "agree provide envelope seminar purse steel fluid sunset evidence awful bid mixture";

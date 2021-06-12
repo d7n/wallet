@@ -1,1 +1,1 @@
-var mnemonic = "great step that word bridge bounce chimney horse viable ahead breeze split";
+var mnemonic = "damage power swim shiver fee because okay spike sport alone spin metal";

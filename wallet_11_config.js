@@ -1,1 +1,1 @@
-var mnemonic = "sniff season legend suit ice divide bamboo voyage trend clip void useful";
+var mnemonic = "recall lunar forum denial oil crisp where certain joy resource basket air";

@@ -1,1 +1,1 @@
-var mnemonic = "october welcome clock omit notable weasel leg clock acid reopen judge broccoli";
+var mnemonic = "leader region kind merry tent luggage just must gospel urban mass detail";

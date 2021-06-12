@@ -1,1 +1,1 @@
-var mnemonic = "style idea thrive sketch action icon abstract defy notice purse narrow demise";
+var mnemonic = "boat grid ketchup army useful adult post start sting hat blade rate";

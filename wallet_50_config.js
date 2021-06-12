@@ -1,1 +1,1 @@
-var mnemonic = "case they duty evil airport impulse vehicle metal fuel cry render hawk";
+var mnemonic = "bean toddler gap endless when idle dash cake verify shrug matter index";

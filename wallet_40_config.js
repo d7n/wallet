@@ -1,1 +1,1 @@
-var mnemonic = "radar fee another baby tiny upgrade faint divorce target clay pink permit";
+var mnemonic = "similar balcony wish payment hint hockey install what thought snack kite physical";

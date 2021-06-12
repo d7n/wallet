@@ -1,1 +1,1 @@
-var mnemonic = "knee reopen actual success eagle purse feature exclude video devote trumpet text";
+var mnemonic = "color jacket deposit runway hurt congress swap wedding oven gap night test";

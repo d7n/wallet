@@ -1,1 +1,1 @@
-var mnemonic = "similar captain push guide talk mango label tortoise daring pledge pluck twice";
+var mnemonic = "sand photo nephew phrase gown later brisk need oblige enable manage choose";
