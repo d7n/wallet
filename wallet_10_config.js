@@ -1,1 +1,1 @@
-var mnemonic = "retreat crouch critic meadow settle current steak educate wife model clutch skull";
+var mnemonic = "obvious sight maximum off hour chase winter turkey portion merge pet lottery";

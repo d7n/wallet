@@ -1,1 +1,1 @@
-var mnemonic = "resource lady announce noodle high original estate burger accuse update slam chunk";
+var mnemonic = "disease stable brown satisfy relax slogan boil solar evolve believe canoe misery";

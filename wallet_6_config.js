@@ -1,1 +1,1 @@
-var mnemonic = "fossil shift job focus system own armed brief goose female section almost";
+var mnemonic = "sunset unknown stove lunch stool pool inflict culture wild blood number reduce";

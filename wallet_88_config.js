@@ -1,1 +1,1 @@
-var mnemonic = "canal label daring fashion science title unable rose senior aspect team install";
+var mnemonic = "pear split since thank photo silver over blur flight also dinosaur electric";

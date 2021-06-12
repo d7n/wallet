@@ -1,1 +1,1 @@
-var mnemonic = "pyramid toy dry embark south manual beauty science bronze distance spread cheese";
+var mnemonic = "october clog win blood dismiss quote put pet pumpkin matter achieve mammal";

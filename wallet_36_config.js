@@ -1,1 +1,1 @@
-var mnemonic = "reason account luxury retire ancient surge alien retreat lab keen recall exit";
+var mnemonic = "evolve ranch river later surge culture exotic supply easily impact original hood";

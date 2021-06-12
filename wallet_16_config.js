@@ -1,1 +1,1 @@
-var mnemonic = "clarify maid couple muscle receive embody gravity easily suit type acquire warfare";
+var mnemonic = "off race snow deliver gloom bar romance butter symbol mesh rotate fragile";

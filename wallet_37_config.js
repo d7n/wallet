@@ -1,1 +1,1 @@
-var mnemonic = "call gift narrow creek bulk account giggle token grape program lobster upper";
+var mnemonic = "muffin subject agent clutch feel smart extra mail sight alarm debate share";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs spring mechanic deer exercise scorpion mom boost whale morning index know";
+var mnemonic = "subway bike century amazing gauge craft churn obey zero item teach remind";

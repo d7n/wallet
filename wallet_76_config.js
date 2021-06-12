@@ -1,1 +1,1 @@
-var mnemonic = "stamp caution chief festival length better survey trash effort soft thunder sponsor";
+var mnemonic = "field grunt summer spin sand science kid release city awkward seek divide";

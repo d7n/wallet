@@ -1,1 +1,1 @@
-var mnemonic = "volume security cute apple turkey punch captain wreck mask exact guide visit";
+var mnemonic = "consider wheel liquid south common wish frequent amateur neck drink cable essence";

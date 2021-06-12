@@ -1,1 +1,1 @@
-var mnemonic = "shove share thought van tumble curve style jeans course evolve tent orchard";
+var mnemonic = "viable photo glass swallow crew traffic digital afraid lazy ring virus bridge";

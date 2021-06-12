@@ -1,1 +1,1 @@
-var mnemonic = "such near arrow mesh dynamic spoon artist hill faith squeeze surge say";
+var mnemonic = "unfold idea tide office nerve erode strong rich exile report double auction";

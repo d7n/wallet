@@ -1,1 +1,1 @@
-var mnemonic = "hope mesh robust faculty connect erupt stove crazy swift garment core swim";
+var mnemonic = "draw waste parrot satoshi early ribbon impulse patch silly treat chalk neglect";

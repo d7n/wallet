@@ -1,1 +1,1 @@
-var mnemonic = "promote junior expire prepare famous anger among caution bird lyrics prefer prefer";
+var mnemonic = "draft trip mother custom game asthma concert unhappy video bacon owner trust";

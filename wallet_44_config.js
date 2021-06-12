@@ -1,1 +1,1 @@
-var mnemonic = "panda school brother earth enact trip cup require churn exclude long away";
+var mnemonic = "balcony filter shadow priority slice dose cabbage miracle solve year host mix";

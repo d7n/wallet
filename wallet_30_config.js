@@ -1,1 +1,1 @@
-var mnemonic = "good close occur service this hint fish save range slow fish gasp";
+var mnemonic = "nurse yard fantasy viable prepare penalty poet column ghost where coffee nothing";

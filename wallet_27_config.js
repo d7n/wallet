@@ -1,1 +1,1 @@
-var mnemonic = "tent cabin lecture buyer crowd juice tide lecture final raise knock angry";
+var mnemonic = "daughter panda morning fun planet ceiling away hat zero bulb walnut trust";

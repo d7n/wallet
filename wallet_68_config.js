@@ -1,1 +1,1 @@
-var mnemonic = "you visit today kitchen match write humor march purchase cover park cupboard";
+var mnemonic = "path river renew warrior fragile awesome confirm figure true action topple fall";

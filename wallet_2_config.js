@@ -1,1 +1,1 @@
-var mnemonic = "promote pitch grocery happy visa pony slot correct describe human update dove";
+var mnemonic = "vast useful naive sun please blade math pool act brown law online";

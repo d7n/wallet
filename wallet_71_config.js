@@ -1,1 +1,1 @@
-var mnemonic = "muscle super erosion walk forget pact another erosion dirt eager excite armor";
+var mnemonic = "vital swim plunge argue east design oxygen verify other bunker promote initial";

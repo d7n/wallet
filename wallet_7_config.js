@@ -1,1 +1,1 @@
-var mnemonic = "sorry only knife wolf win humble goddess isolate usage attend room twelve";
+var mnemonic = "unaware force argue dream inherit inhale inch inquiry vendor twice wheat doll";

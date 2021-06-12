@@ -1,1 +1,1 @@
-var mnemonic = "used toy anxiety major pen fade grape tobacco pistol ritual hard ankle";
+var mnemonic = "tube devote loud eager trumpet arrive fantasy army fine still sadness boring";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt weird elevator embody ridge valid mom start tongue parade critic good";
+var mnemonic = "world proud arrow summer elbow ladder ginger grow reduce cheap put detail";

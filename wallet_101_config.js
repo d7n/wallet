@@ -1,1 +1,1 @@
-var mnemonic = "bus choice have envelope reopen alone glue elephant repair month stay myself";
+var mnemonic = "coconut unit poverty question eyebrow inside coyote voice steak fog injury only";

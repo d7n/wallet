@@ -1,1 +1,1 @@
-var mnemonic = "electric reduce tackle equip deny crouch drama use attitude tomato sudden pact";
+var mnemonic = "focus curve bone bargain virtual room sheriff doctor tail soul knife welcome";

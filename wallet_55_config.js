@@ -1,1 +1,1 @@
-var mnemonic = "frame kit warrior lift intact used captain post require arrow use leaf";
+var mnemonic = "runway oven guitar retire story replace grape dust discover fatigue soup upset";

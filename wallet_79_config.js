@@ -1,1 +1,1 @@
-var mnemonic = "weekend law scene huge empower rice fruit song color canal beauty teach";
+var mnemonic = "glory before travel stable syrup wide business frozen energy agree universe oyster";

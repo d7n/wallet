@@ -1,1 +1,1 @@
-var mnemonic = "pipe much document kidney scissors jump brick enter cattle cotton weather blush";
+var mnemonic = "dad reject cable fee bench rebuild forget mosquito metal forward among enlist";

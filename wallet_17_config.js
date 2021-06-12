@@ -1,1 +1,1 @@
-var mnemonic = "absorb stable inflict slow volume flip motion off slam right sun bracket";
+var mnemonic = "pole brass concert version clap promote usage suggest sadness misery adjust witness";

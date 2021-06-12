@@ -1,1 +1,1 @@
-var mnemonic = "hard defense add dragon train cereal hedgehog skin easily away task garbage";
+var mnemonic = "camp rare penalty split budget jelly deer cycle ship gloom during ripple";

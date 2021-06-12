@@ -1,1 +1,1 @@
-var mnemonic = "apology vacuum judge earn girl amount buddy trash expand cash sudden deposit";
+var mnemonic = "grief physical harvest cute loyal enter recipe clog hollow update need caution";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster day boy sound glimpse neutral try leisure system summer remind canvas";
+var mnemonic = "usual bracket zero casino perfect afraid recipe avoid tail favorite identify gravity";

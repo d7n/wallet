@@ -1,1 +1,1 @@
-var mnemonic = "verb feature resource select ride cherry shop caught barrel fiscal stock float";
+var mnemonic = "liar blue because few cash often city audit opinion defy lunar coin";

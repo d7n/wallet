@@ -1,1 +1,1 @@
-var mnemonic = "waste skill satisfy nest clay panda dress bone hire defy symptom mule";
+var mnemonic = "february rib broom doll friend inhale dinosaur plate unknown answer spy pear";

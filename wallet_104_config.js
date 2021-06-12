@@ -1,1 +1,1 @@
-var mnemonic = "food faith vintage differ salon timber barrel unit manual short oven monitor";
+var mnemonic = "elevator ancient culture motor olympic yard pelican stumble because method draft artwork";

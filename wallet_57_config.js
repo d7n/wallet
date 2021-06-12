@@ -1,1 +1,1 @@
-var mnemonic = "gate liquid fine truly avocado off answer stuff sheriff mango soda spread";
+var mnemonic = "history dish birth argue favorite tent give conduct fish online record damp";

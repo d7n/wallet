@@ -1,1 +1,1 @@
-var mnemonic = "artist know oven stuff mystery whip jaguar small educate power analyst doll";
+var mnemonic = "suspect visit reopen nurse turkey lobster category denial captain exhaust check have";

@@ -1,1 +1,1 @@
-var mnemonic = "option judge police dismiss lift sugar reunion vicious vacant segment tired soccer";
+var mnemonic = "front two canyon napkin assist home floor lion spice home rule three";

@@ -1,1 +1,1 @@
-var mnemonic = "waste tilt stay distance spy sample wrist liberty worry chase move art";
+var mnemonic = "casino crawl must infant potato letter jungle pyramid broccoli desk boat option";

@@ -1,1 +1,1 @@
-var mnemonic = "garden mind human report motion blush blame tag guess consider decade cigar";
+var mnemonic = "identify embark machine menu transfer omit scatter juice sand please scare high";

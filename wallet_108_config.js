@@ -1,1 +1,1 @@
-var mnemonic = "direct language narrow flash resource wage segment power leader since accident way";
+var mnemonic = "welcome seat depth sweet square grass vehicle priority media route lawn uncover";

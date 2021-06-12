@@ -1,1 +1,1 @@
-var mnemonic = "medal wedding sure response half return live shrug alien pet forest whale";
+var mnemonic = "choose divert plastic rule drama saddle behave hidden general radar flag bracket";

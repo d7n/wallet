@@ -1,1 +1,1 @@
-var mnemonic = "aunt surprise pipe long tongue extra congress erupt energy decline engage pledge";
+var mnemonic = "man decline chair slide favorite athlete suffer left regret cherry assist music";

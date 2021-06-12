@@ -1,1 +1,1 @@
-var mnemonic = "salute tiny gas gas road discover chimney much final century jazz dinner";
+var mnemonic = "economy fiber scissors aerobic rookie draft bind cement mad pencil valley awesome";

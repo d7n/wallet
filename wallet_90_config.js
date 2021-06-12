@@ -1,1 +1,1 @@
-var mnemonic = "vote smooth meadow convince film today slab kick long scale awake crystal";
+var mnemonic = "away crater kingdom rack taxi lamp mind amount describe minute unhappy city";

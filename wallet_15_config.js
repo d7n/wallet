@@ -1,1 +1,1 @@
-var mnemonic = "small real illness crisp toddler royal goat mechanic project until napkin govern";
+var mnemonic = "found critic only shock aspect inquiry relief empower cloud fruit ivory refuse";

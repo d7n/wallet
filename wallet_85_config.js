@@ -1,1 +1,1 @@
-var mnemonic = "depth rural walnut convince rain laptop survey announce cook mechanic boat essay";
+var mnemonic = "kiss cloud myself major retreat wing whale all survey arm trumpet town";

@@ -1,1 +1,1 @@
-var mnemonic = "material bunker ugly city guide chair stand inch pet sing disease donor";
+var mnemonic = "rigid invite style field minimum arch document depart sting snack anchor diagram";

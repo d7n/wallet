@@ -1,1 +1,1 @@
-var mnemonic = "giant guide trash april elephant vehicle hungry dragon rapid flush safe stool";
+var mnemonic = "brief assist orbit trap pretty trophy enter dilemma quantum punch zoo seminar";

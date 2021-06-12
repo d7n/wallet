@@ -1,1 +1,1 @@
-var mnemonic = "arch chair embrace ice dutch vintage gallery smart miss please follow aisle";
+var mnemonic = "width lamp maid slim uncle grain lock phrase network common paddle require";

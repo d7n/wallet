@@ -1,1 +1,1 @@
-var mnemonic = "lake enter split keen emerge rice lab crouch shine violin cool fade";
+var mnemonic = "bacon pumpkin issue radio fury useless spy law differ eye fog smoke";

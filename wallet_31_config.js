@@ -1,1 +1,1 @@
-var mnemonic = "cement glue people abstract bottom hawk crisp canvas simple auction narrow seat";
+var mnemonic = "vehicle powder window knife stem crop spatial gold build kitchen frog high";

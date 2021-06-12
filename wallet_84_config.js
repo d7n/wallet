@@ -1,1 +1,1 @@
-var mnemonic = "camera family cushion pilot saddle special random consider gather first wise ginger";
+var mnemonic = "almost age drink subject forest speed table require mirror taste item trash";

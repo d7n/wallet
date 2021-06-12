@@ -1,1 +1,1 @@
-var mnemonic = "offer will powder merge room aspect famous there elegant wise royal energy";
+var mnemonic = "manage wire fold idea goat organ tackle uphold ill fun vendor cause";

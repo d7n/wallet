@@ -1,1 +1,1 @@
-var mnemonic = "picnic neutral lottery obey thing focus option name trial educate blast step";
+var mnemonic = "life suggest park estate finger option place zero fence daughter only album";

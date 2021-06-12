@@ -1,1 +1,1 @@
-var mnemonic = "goat what issue emotion weird quote funny floor remind impact unit steak";
+var mnemonic = "carry tube announce border grunt harvest rescue noise invest buddy yellow coral";

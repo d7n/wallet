@@ -1,1 +1,1 @@
-var mnemonic = "acquire donor cool goose pizza spike bench round visual length garment panda";
+var mnemonic = "page oval fever tissue mix rose flight excuse room meadow property another";

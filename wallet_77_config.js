@@ -1,1 +1,1 @@
-var mnemonic = "rally judge exclude spoon potato online tiny blast replace mesh wife maze";
+var mnemonic = "aunt sausage radio vicious discover juice crisp depend net drive lobster high";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion green pulp lottery marble olympic notice unit begin size unable talk";
+var mnemonic = "lion head abuse sea narrow window sugar sell garment limb anxiety corn";

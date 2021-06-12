@@ -1,1 +1,1 @@
-var mnemonic = "banner language attack ostrich uncle alpha taxi blouse level six pear between";
+var mnemonic = "inch guard tomorrow pupil access gossip judge hybrid boil balance innocent dinner";

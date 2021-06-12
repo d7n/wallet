@@ -1,1 +1,1 @@
-var mnemonic = "flag exist object rough oyster blanket income physical offer version license ketchup";
+var mnemonic = "this flat garage diagram oak remain abuse help ring wife permit matrix";

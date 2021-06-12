@@ -1,1 +1,1 @@
-var mnemonic = "winter gym relief rescue skirt excite garage inner sauce minute gauge vanish";
+var mnemonic = "melt squirrel dial tool leader main switch rather video coyote ugly hire";

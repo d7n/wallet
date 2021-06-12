@@ -1,1 +1,1 @@
-var mnemonic = "ramp lucky kingdom park obey around dilemma journey tide genuine advance match";
+var mnemonic = "supply put nut tell give actor movie runway despair attitude always orphan";

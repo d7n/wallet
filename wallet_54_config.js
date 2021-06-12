@@ -1,1 +1,1 @@
-var mnemonic = "soon buyer symbol office two road inflict omit fiction patch report twelve";
+var mnemonic = "brick mandate fame enable release few crop fee forest spoon dumb erase";

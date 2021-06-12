@@ -1,1 +1,1 @@
-var mnemonic = "bless mouse mandate divert lady oil solution cloth version rifle room front";
+var mnemonic = "tornado sadness network come guilt urge flash dust kind vanish anxiety permit";

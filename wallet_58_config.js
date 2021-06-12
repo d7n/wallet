@@ -1,1 +1,1 @@
-var mnemonic = "jewel attend drift that bar foam define history soldier hobby duty else";
+var mnemonic = "pottery clerk mansion shift day hover hub resemble visit pool often tomorrow";

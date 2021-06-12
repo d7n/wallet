@@ -1,1 +1,1 @@
-var mnemonic = "social pizza parrot basic large february draw position gather sport foot force";
+var mnemonic = "connect camp general yard hungry material corn wide tornado reason eye fabric";

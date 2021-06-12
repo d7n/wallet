@@ -1,1 +1,1 @@
-var mnemonic = "already churn exhibit glove marble drop gospel humble toast prison lake oval";
+var mnemonic = "place exit hire sweet fuel gap express much gap summer decorate bridge";

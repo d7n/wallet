@@ -1,1 +1,1 @@
-var mnemonic = "letter around rebuild gap target defense certain bulk bitter shaft cart plastic";
+var mnemonic = "target stamp axis jacket race inquiry idea drip basic fever urban try";

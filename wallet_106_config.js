@@ -1,1 +1,1 @@
-var mnemonic = "sail horse leaf urban ostrich law sell analyst text despair grocery around";
+var mnemonic = "entry sweet forest settle oval shadow grass return across ticket deposit rather";

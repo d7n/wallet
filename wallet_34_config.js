@@ -1,1 +1,1 @@
-var mnemonic = "security rebel slogan cash response gadget vast alarm hello almost cage mimic";
+var mnemonic = "amateur steak gauge garbage degree trend hobby hat derive regular visa industry";

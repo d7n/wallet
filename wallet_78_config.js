@@ -1,1 +1,1 @@
-var mnemonic = "spell main best post dad demise pact girl retreat reduce social response";
+var mnemonic = "barely keep crouch dizzy mammal island gossip device barrel olympic laundry lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "day swing doll bitter copy point web race clerk chapter gaze mom";
+var mnemonic = "color pudding south lake music oppose jazz pretty into pelican wave seed";

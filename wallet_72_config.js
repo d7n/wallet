@@ -1,1 +1,1 @@
-var mnemonic = "wrestle decline dry problem void mean post jeans trust point fiscal sing";
+var mnemonic = "source school diamond cluster permit toast orient witness crawl feature author youth";

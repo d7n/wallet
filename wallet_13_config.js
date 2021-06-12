@@ -1,1 +1,1 @@
-var mnemonic = "match raccoon color start govern citizen moment cage behind swim warfare exist";
+var mnemonic = "know craft romance cabin naive quantum charge child common finish element skull";

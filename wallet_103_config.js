@@ -1,1 +1,1 @@
-var mnemonic = "drama second code category hello pupil symptom tell transfer about auction doctor";
+var mnemonic = "wolf time more gospel unknown near judge cross there citizen order gas";

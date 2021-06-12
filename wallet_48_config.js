@@ -1,1 +1,1 @@
-var mnemonic = "option balcony lawn day digital deer express route beyond timber gas budget";
+var mnemonic = "usage grab prepare camera raise cinnamon purity review crumble wide host broom";

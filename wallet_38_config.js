@@ -1,1 +1,1 @@
-var mnemonic = "warrior pulse wrestle fossil ivory concert tool betray universe filter call alley";
+var mnemonic = "spot crystal figure world kiss unlock tuna rally multiply dumb where lend";

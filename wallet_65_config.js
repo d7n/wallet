@@ -1,1 +1,1 @@
-var mnemonic = "cheese veteran equal maximum truck slide park whale buffalo rain spell bonus";
+var mnemonic = "laundry toilet fuel stay final net clutch patch question raise where label";

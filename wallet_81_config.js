@@ -1,1 +1,1 @@
-var mnemonic = "usual found math garage benefit apple timber merry surge wild lottery soap";
+var mnemonic = "slab cotton rule chef guess crush crowd hard moment pond scan rebuild";

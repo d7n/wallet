@@ -1,1 +1,1 @@
-var mnemonic = "sugar pool such sun gas exhaust raw horse scheme east brief disagree";
+var mnemonic = "fruit apart crunch spot grab source parrot senior picnic hover candy castle";

@@ -1,1 +1,1 @@
-var mnemonic = "paper omit render then half owner luggage pelican globe mimic tunnel trial";
+var mnemonic = "exclude want silver beef canvas idea winter exhaust portion theory capable tortoise";

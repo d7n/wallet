@@ -1,1 +1,1 @@
-var mnemonic = "circle sentence hen steel gospel attitude street derive abuse sense salmon liquid";
+var mnemonic = "walk hammer cupboard mixed never employ turkey melody blame ticket dash reduce";

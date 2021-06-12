@@ -1,1 +1,1 @@
-var mnemonic = "kitten cloth move goat strong ladder road exhibit leaf fatigue disease typical";
+var mnemonic = "release magnet again giraffe ribbon police nominee identify kangaroo run over agree";

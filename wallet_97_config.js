@@ -1,1 +1,1 @@
-var mnemonic = "home slight setup exhaust only climb wood congress piece rule turn category";
+var mnemonic = "milk chase laugh cluster price attend parent worth impact demise goddess proud";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage route army hat view normal average note grab left leg find";
+var mnemonic = "retreat execute essence page great ensure property satoshi stick clinic have exact";

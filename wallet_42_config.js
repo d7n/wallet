@@ -1,1 +1,1 @@
-var mnemonic = "midnight talent this spider gadget sentence review reveal mail huge word orchard";
+var mnemonic = "banner fat sphere alien leaf tooth enhance dish blossom alarm assist note";

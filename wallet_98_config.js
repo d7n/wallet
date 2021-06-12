@@ -1,1 +1,1 @@
-var mnemonic = "service acoustic account mammal excite benefit hour fitness unveil borrow nation jazz";
+var mnemonic = "tuna season cannon scene beef unique airport pear choose photo display glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "major symbol alpha pig control because tattoo can treat trip grunt clap";
+var mnemonic = "tent battle smoke memory hood track urge hint armor stick boil either";

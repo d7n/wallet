@@ -1,1 +1,1 @@
-var mnemonic = "lumber never rude tennis video original almost march patrol news parent year";
+var mnemonic = "stock foil hood clip usage notable ability link reflect glare valve pact";

@@ -1,1 +1,1 @@
-var mnemonic = "happy certain elevator sure crazy sight riot job lobster shrug cause prison";
+var mnemonic = "tiger blade lock monster quantum exact tent sample father crawl chat lady";

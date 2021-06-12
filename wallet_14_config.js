@@ -1,1 +1,1 @@
-var mnemonic = "auto robust desk amazing tomato argue glide battle valid gaze annual video";
+var mnemonic = "evolve this cupboard frog expect gym soccer language toddler pretty define excess";
