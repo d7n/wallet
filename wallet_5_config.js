@@ -1,1 +1,1 @@
-var mnemonic = "welcome cart need multiply photo wrist pill like method annual melt number";
+var mnemonic = "original hurt trade cross elbow lazy clown viable decline quantum stool six";

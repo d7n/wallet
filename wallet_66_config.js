@@ -1,1 +1,1 @@
-var mnemonic = "divert eye buffalo intact escape imitate strong slender reunion lion series hotel";
+var mnemonic = "creek local banner blur job recipe language verb supreme crush lady december";

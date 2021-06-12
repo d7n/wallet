@@ -1,1 +1,1 @@
-var mnemonic = "report barrel like surround fly bring heavy theory electric flight today embark";
+var mnemonic = "work ethics adjust pair mistake upgrade attack text sponsor isolate grocery hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic enough charge text picture ribbon wealth tackle spatial alley side ten";
+var mnemonic = "fancy chunk polar depend happy inner trick brain coyote repeat genius later";

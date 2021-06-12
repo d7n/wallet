@@ -1,1 +1,1 @@
-var mnemonic = "program bonus primary photo cat census baby inject potato blush fence advance";
+var mnemonic = "cabin police option ladder fossil home rib image unit photo broccoli equip";

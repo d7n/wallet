@@ -1,1 +1,1 @@
-var mnemonic = "board leg daughter cruise fresh cycle tray disease uncover frequent horn meadow";
+var mnemonic = "candy throw harbor pig fashion lady special impact lion essay couple erode";

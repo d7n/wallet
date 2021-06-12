@@ -1,1 +1,1 @@
-var mnemonic = "goat train between donate rookie test fiscal clutch model insect fuel brick";
+var mnemonic = "keep large raven olive ship scale inform wheat radar outer know hand";

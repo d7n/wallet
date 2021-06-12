@@ -1,1 +1,1 @@
-var mnemonic = "below lens fever bubble ill much marble laundry supply lake deny seed";
+var mnemonic = "arrow huge resemble uncle cycle hint opinion gossip brush night bunker spend";

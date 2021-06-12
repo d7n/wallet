@@ -1,1 +1,1 @@
-var mnemonic = "bleak price turkey title easily humor bubble exhaust youth visit force van";
+var mnemonic = "arena brother toddler solution analyst tenant doll calm display clerk drip fault";

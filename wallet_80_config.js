@@ -1,1 +1,1 @@
-var mnemonic = "language harvest mesh twice mention merge double ship that fiscal give six";
+var mnemonic = "anchor fire bacon elegant mass lizard intact soft design aware jump chase";

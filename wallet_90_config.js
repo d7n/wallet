@@ -1,1 +1,1 @@
-var mnemonic = "coach forum obey street rubber wagon roof mouse legend success economy fiscal";
+var mnemonic = "bone home blind uniform next brisk uphold glare menu fancy hazard stand";

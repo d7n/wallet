@@ -1,1 +1,1 @@
-var mnemonic = "deputy climb trouble dial nest orient mansion quarter chest robust joy adult";
+var mnemonic = "leisure pigeon tiny knock abuse resemble beyond cinnamon trip harbor clog crystal";

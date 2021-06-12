@@ -1,1 +1,1 @@
-var mnemonic = "term away cradle enroll letter tomato danger weird situate cheese laundry real";
+var mnemonic = "bus benefit connect belt sport survey project hair pulp ridge fuel vanish";

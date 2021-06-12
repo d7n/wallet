@@ -1,1 +1,1 @@
-var mnemonic = "inmate six envelope distance belt involve drift walk summer borrow vehicle hub";
+var mnemonic = "praise raccoon shield delay struggle spin medal clerk axis lady cry fish";

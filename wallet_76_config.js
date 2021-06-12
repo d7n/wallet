@@ -1,1 +1,1 @@
-var mnemonic = "salute dolphin taxi pink once accident input chronic pact kick light neither";
+var mnemonic = "essence tourist choice health tourist end use body margin unusual injury bracket";

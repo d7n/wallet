@@ -1,1 +1,1 @@
-var mnemonic = "ritual abuse guilt sadness satisfy wonder timber hunt type door dice before";
+var mnemonic = "holiday disagree cross quarter gallery critic ripple grid reduce area cube aspect";

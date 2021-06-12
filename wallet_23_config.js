@@ -1,1 +1,1 @@
-var mnemonic = "depth orphan spread wrist excess nasty price bag render dragon pulse dutch";
+var mnemonic = "average sail abstract twelve pupil best code range eight river dog cake";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge staff gain fatigue clinic lion kid reopen steel head dizzy novel";
+var mnemonic = "kind fiscal foot walk achieve never edge script weapon unfold web decrease";

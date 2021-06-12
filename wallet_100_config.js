@@ -1,1 +1,1 @@
-var mnemonic = "giggle win liquid spend sunny please flame palm humble paddle hybrid focus";
+var mnemonic = "begin warrior parrot love slow remain exact melody camera raven video web";

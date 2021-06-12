@@ -1,1 +1,1 @@
-var mnemonic = "misery solve valid fragile salute eight afford scrap south icon bridge memory";
+var mnemonic = "soul patient prison coral purity benefit pyramid jacket meat estate shine zero";

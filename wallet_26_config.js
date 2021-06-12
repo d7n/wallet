@@ -1,1 +1,1 @@
-var mnemonic = "infant pencil pupil cradle alcohol frame ocean angry follow dizzy raise embrace";
+var mnemonic = "churn hungry arrange provide need crew siege reduce doctor inhale gravity million";

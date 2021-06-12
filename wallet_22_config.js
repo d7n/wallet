@@ -1,1 +1,1 @@
-var mnemonic = "thunder split famous belt butter lemon random nothing sphere finger tennis shadow";
+var mnemonic = "machine method latin absurd left girl crane want salon lunch short ignore";

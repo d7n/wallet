@@ -1,1 +1,1 @@
-var mnemonic = "remain crane trim blood witness olympic short impact bamboo else service east";
+var mnemonic = "hospital bachelor flock champion normal denial few jewel web claim double figure";

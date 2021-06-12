@@ -1,1 +1,1 @@
-var mnemonic = "vendor urge door season you attract fly decline dismiss embark lecture place";
+var mnemonic = "height eight nose extra genre work reward can spice gesture virus place";

@@ -1,1 +1,1 @@
-var mnemonic = "salute certain album donkey ride decorate asset slush radio vital purpose guard";
+var mnemonic = "such tennis ability naive crisp rural sausage hat major evolve iron misery";

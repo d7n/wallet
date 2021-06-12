@@ -1,1 +1,1 @@
-var mnemonic = "moment grace expand disagree crystal toward science rookie slim despair exchange castle";
+var mnemonic = "luggage price chaos truck accuse recycle april gym either hope then always";

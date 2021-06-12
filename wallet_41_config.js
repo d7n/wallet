@@ -1,1 +1,1 @@
-var mnemonic = "wage useful melt pupil waste pencil mutual crunch pledge differ pizza silent";
+var mnemonic = "topple knock resource any topic wild vast maze quiz immune silver alcohol";

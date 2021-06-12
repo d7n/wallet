@@ -1,1 +1,1 @@
-var mnemonic = "fiber today horn okay feature sausage clip ripple unlock similar found cause";
+var mnemonic = "spray boy fix link uniform mystery index rain author response december stable";

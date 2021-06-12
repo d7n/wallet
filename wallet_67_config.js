@@ -1,1 +1,1 @@
-var mnemonic = "gown jacket address into saddle pepper wire fix stone slam truth protect";
+var mnemonic = "room erase chuckle aerobic produce brave faith question become share swamp large";

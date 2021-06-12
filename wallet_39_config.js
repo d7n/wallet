@@ -1,1 +1,1 @@
-var mnemonic = "prosper exhibit abandon rabbit scare metal cabin rookie bridge celery anxiety erosion";
+var mnemonic = "speed casual exit globe raw chronic offer evidence loud pumpkin original mammal";

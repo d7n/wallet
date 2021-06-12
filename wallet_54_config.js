@@ -1,1 +1,1 @@
-var mnemonic = "zoo rally cage riot old seat profit winter always prosper sample evil";
+var mnemonic = "tomorrow exclude deputy spider mechanic predict notice panda cannon ice minor pizza";

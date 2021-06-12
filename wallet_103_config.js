@@ -1,1 +1,1 @@
-var mnemonic = "tribe pigeon notice august swallow fly wine heavy space mouse hammer please";
+var mnemonic = "sugar half switch physical advance kick cube giraffe unusual ability athlete path";

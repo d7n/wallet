@@ -1,1 +1,1 @@
-var mnemonic = "broken afraid dice hub crash side runway gift moon polar harvest input";
+var mnemonic = "museum poverty meadow faith sleep turtle lawsuit nasty fury ship radar creek";

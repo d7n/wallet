@@ -1,1 +1,1 @@
-var mnemonic = "mention tortoise torch manage siren give play someone pink soon tone broom";
+var mnemonic = "vintage morning action device bridge team space start address thought home vault";

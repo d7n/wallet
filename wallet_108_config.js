@@ -1,1 +1,1 @@
-var mnemonic = "ocean more vapor design myself fat today sea tortoise gossip spatial october";
+var mnemonic = "bag believe reduce away noise script soda genre dish edge wheat cat";

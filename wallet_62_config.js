@@ -1,1 +1,1 @@
-var mnemonic = "foster smooth analyst chicken school chat fatal mule network metal grunt bus";
+var mnemonic = "toe staff merit mixed penalty horse mutual search color country supply broccoli";

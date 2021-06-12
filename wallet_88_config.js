@@ -1,1 +1,1 @@
-var mnemonic = "sad notice orange stable surround chaos ritual market race example mammal dumb";
+var mnemonic = "usage guess once torch ecology foot dynamic eye leopard marine hard nest";

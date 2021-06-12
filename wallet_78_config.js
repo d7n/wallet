@@ -1,1 +1,1 @@
-var mnemonic = "illegal upon world exotic sudden route grain cherry orchard couple cousin choose";
+var mnemonic = "hand craft famous control daughter screen repair call degree steel ten memory";

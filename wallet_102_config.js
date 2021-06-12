@@ -1,1 +1,1 @@
-var mnemonic = "shine sugar year rough marble attack small comic brave apart jaguar chief";
+var mnemonic = "aim method luggage exotic hole humor black hope burger iron lawsuit promote";

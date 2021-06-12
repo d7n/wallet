@@ -1,1 +1,1 @@
-var mnemonic = "vault lizard famous forget now crucial shell occur cake door fabric oval";
+var mnemonic = "ramp above own they pact capable surprise menu usual during vibrant shuffle";

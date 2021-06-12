@@ -1,1 +1,1 @@
-var mnemonic = "time february pool belt near antenna expose bargain purchase mother horn obey";
+var mnemonic = "tenant child young license spy rookie pizza view tired chaos harsh awkward";

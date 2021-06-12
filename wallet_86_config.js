@@ -1,1 +1,1 @@
-var mnemonic = "submit lamp play venue license monitor bonus insane autumn describe rib minimum";
+var mnemonic = "addict orchard awesome coin ability detect cereal knife census rate goose intact";

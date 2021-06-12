@@ -1,1 +1,1 @@
-var mnemonic = "tonight throw ecology attack gather dial empty write soup puzzle science ability";
+var mnemonic = "mule wagon seat kid shock sleep concert van culture strike spice caught";

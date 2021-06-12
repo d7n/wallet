@@ -1,1 +1,1 @@
-var mnemonic = "shallow bullet prepare north razor stable stock also autumn spell blue local";
+var mnemonic = "news lend normal enable ozone obvious dice symbol morning sail weird this";

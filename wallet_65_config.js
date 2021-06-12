@@ -1,1 +1,1 @@
-var mnemonic = "claim book wolf dune south evoke muscle area plunge pride disorder you";
+var mnemonic = "innocent two lecture miss aspect fit length bachelor syrup era smoke manual";

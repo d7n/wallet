@@ -1,1 +1,1 @@
-var mnemonic = "orbit mask vibrant almost foam nurse invest want churn patch elder across";
+var mnemonic = "cattle dove collect track occur fit elegant journey pilot usual mesh absorb";

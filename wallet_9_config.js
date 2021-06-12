@@ -1,1 +1,1 @@
-var mnemonic = "tired robust goose item void core antique park wear wrist across start";
+var mnemonic = "abuse leg produce trust egg nasty sock opinion purpose zone youth thank";

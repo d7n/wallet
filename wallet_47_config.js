@@ -1,1 +1,1 @@
-var mnemonic = "antenna huge viable unknown taxi pitch whale lunar unusual please room sphere";
+var mnemonic = "curious soccer bicycle orange clock submit olympic polar sugar betray evidence brother";

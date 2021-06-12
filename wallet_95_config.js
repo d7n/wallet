@@ -1,1 +1,1 @@
-var mnemonic = "discover margin resist marine wealth bundle hub mask welcome exact wood crazy";
+var mnemonic = "carpet traffic core expand lift ensure essay fog edge pass old salute";

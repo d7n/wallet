@@ -1,1 +1,1 @@
-var mnemonic = "credit cargo fortune library eight calm strong uncover decade real salt ski";
+var mnemonic = "oxygen relax basket medal mansion scissors crater engine school tumble seminar fox";

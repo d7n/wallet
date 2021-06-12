@@ -1,1 +1,1 @@
-var mnemonic = "gap assist sing recall audit ugly spatial pull gloom evil note park";
+var mnemonic = "evil huge rich dinosaur avoid quick city hour switch right lucky fault";

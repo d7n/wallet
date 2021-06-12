@@ -1,1 +1,1 @@
-var mnemonic = "indicate potato surface copper hat injury citizen deer bean law ten ring";
+var mnemonic = "siege race elder lesson journey gloom horror adult fee network goat stairs";

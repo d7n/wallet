@@ -1,1 +1,1 @@
-var mnemonic = "earn target carbon warfare strategy candy must defy build typical vehicle real";
+var mnemonic = "wild side category file note flock delay filter direct affair ceiling eager";

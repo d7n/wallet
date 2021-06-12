@@ -1,1 +1,1 @@
-var mnemonic = "unlock city matrix finish aerobic climb into rally trigger spread list cargo";
+var mnemonic = "suggest skill inject satisfy come grief riot amused human radio limb school";

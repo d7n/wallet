@@ -1,1 +1,1 @@
-var mnemonic = "bacon limb stick effort border pudding undo tired toast begin moral clarify";
+var mnemonic = "problem mention mobile fluid rapid wealth mother crawl minute own young chimney";

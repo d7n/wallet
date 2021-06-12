@@ -1,1 +1,1 @@
-var mnemonic = "remain super speed gorilla bargain master put boil tribe chaos trick oppose";
+var mnemonic = "next pig learn today piano antenna adapt bench comic rail margin excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "distance nuclear reopen bind glow escape fuel canyon trouble tool drum frown";
+var mnemonic = "cruel hub access rain silent pink behind doctor kitten spirit output blush";

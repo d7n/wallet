@@ -1,1 +1,1 @@
-var mnemonic = "almost blouse siren abandon venue town night tray all symptom color mother";
+var mnemonic = "feel average naive horn bread guilt panther dignity attack dog name twist";

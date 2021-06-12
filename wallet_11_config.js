@@ -1,1 +1,1 @@
-var mnemonic = "height analyst miss bubble summer replace this garment tongue bright assume soul";
+var mnemonic = "hint unique rice olive gospel annual neither vintage midnight strike ketchup damage";

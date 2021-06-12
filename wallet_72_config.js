@@ -1,1 +1,1 @@
-var mnemonic = "comfort exhibit dirt quality state recipe pole receive come shrug imitate finish";
+var mnemonic = "explain surface exclude dish assist repeat gallery normal camera digital spot wedding";

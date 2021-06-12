@@ -1,1 +1,1 @@
-var mnemonic = "unique imitate hospital alien teach violin approve mail finger merry rural original";
+var mnemonic = "song pact ring flush stomach cactus woman bacon alley announce project upon";

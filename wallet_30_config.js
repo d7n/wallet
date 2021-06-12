@@ -1,1 +1,1 @@
-var mnemonic = "glue inform crucial local train muscle someone ten leisure eye grow example";
+var mnemonic = "enable put ten course lock glue figure seed strong service swift fee";

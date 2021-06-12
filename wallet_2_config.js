@@ -1,1 +1,1 @@
-var mnemonic = "crime budget runway detect river doll sphere cupboard when misery only miss";
+var mnemonic = "apple position bargain gate night marble mushroom blush left word menu into";

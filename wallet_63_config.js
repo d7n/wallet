@@ -1,1 +1,1 @@
-var mnemonic = "slow make table kick powder expect olive involve portion bread gun foil";
+var mnemonic = "behind parent layer charge truly column vessel ability client entry buddy lawsuit";

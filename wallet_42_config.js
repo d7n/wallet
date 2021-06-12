@@ -1,1 +1,1 @@
-var mnemonic = "guess angle eternal artist card hover install code gun match excite spray";
+var mnemonic = "winner brush civil pear expire oblige rail guilt impulse parrot rally little";

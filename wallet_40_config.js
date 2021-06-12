@@ -1,1 +1,1 @@
-var mnemonic = "penalty impose fortune latin time cushion cake menu peace canal planet kick";
+var mnemonic = "naive three flavor area vague chimney carpet comic fade chief solution sort";

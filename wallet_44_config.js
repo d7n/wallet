@@ -1,1 +1,1 @@
-var mnemonic = "alert remove idle urge sudden city coral aisle husband milk category case";
+var mnemonic = "head business motion rally apart copper sustain waste arrive average stumble crunch";

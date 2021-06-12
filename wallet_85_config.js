@@ -1,1 +1,1 @@
-var mnemonic = "blind miracle orphan suggest opinion breeze rebuild million light earth clutch flush";
+var mnemonic = "curious crumble own split rescue end actress suggest swallow flush season mandate";

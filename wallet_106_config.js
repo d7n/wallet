@@ -1,1 +1,1 @@
-var mnemonic = "expect shallow brisk box spoil benefit fall february segment bunker notice indoor";
+var mnemonic = "clog digital crack innocent tornado leisure copper erosion artefact dutch plate profit";

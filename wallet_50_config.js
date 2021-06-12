@@ -1,1 +1,1 @@
-var mnemonic = "shiver please tonight kiss brush naive dragon general much good draw nominee";
+var mnemonic = "parade kind gallery survey tenant mountain arrive royal quarter garage matter input";

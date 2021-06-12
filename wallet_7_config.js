@@ -1,1 +1,1 @@
-var mnemonic = "enemy hole depth circle cream firm predict agent surge thumb feed bar";
+var mnemonic = "usage ridge happy stem spray february income furnace general stairs vivid evoke";

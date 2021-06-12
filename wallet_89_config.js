@@ -1,1 +1,1 @@
-var mnemonic = "gasp weather polar private local goddess phone typical wood vocal page cotton";
+var mnemonic = "proud enjoy seat kit material dog cable join core item convince egg";

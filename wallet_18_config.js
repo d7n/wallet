@@ -1,1 +1,1 @@
-var mnemonic = "feel kiwi armor verb pencil marble sure spice excuse call attack prize";
+var mnemonic = "scorpion goose apology display marine salad horse excuse half rather delay toe";

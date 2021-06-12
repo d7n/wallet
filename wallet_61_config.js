@@ -1,1 +1,1 @@
-var mnemonic = "inspire imitate acoustic retire lemon unveil recall fuel crush pupil afraid cement";
+var mnemonic = "worth transfer robust author evil youth cousin december erode tribe fabric exact";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma clap chapter actual laugh scare garment obscure onion someone blade defy";
+var mnemonic = "dismiss tennis give blade able exile elder horror finish pledge art punch";

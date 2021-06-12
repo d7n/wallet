@@ -1,1 +1,1 @@
-var mnemonic = "concert shoe path devote upon finish bamboo coral toilet speed metal select";
+var mnemonic = "broom because symbol river cake toy celery cushion mimic organ edge common";

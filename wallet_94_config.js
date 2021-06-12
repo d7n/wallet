@@ -1,1 +1,1 @@
-var mnemonic = "friend forest erode clarify market february wagon average room kangaroo color crisp";
+var mnemonic = "antique mistake kind duty reform submit bus struggle rebel dinosaur romance impact";

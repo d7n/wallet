@@ -1,1 +1,1 @@
-var mnemonic = "hamster giant worry space detail oval fringe doll public urban similar either";
+var mnemonic = "laundry merit wire estate segment flee trophy reduce toe luggage already usage";

@@ -1,1 +1,1 @@
-var mnemonic = "company hold cliff hockey stove magnet task armor critic upon gym almost";
+var mnemonic = "flee chair awesome drive stove dry head unhappy island way pulse keen";

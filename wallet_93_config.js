@@ -1,1 +1,1 @@
-var mnemonic = "must mouse enlist benefit describe web flush stove custom clay lend crouch";
+var mnemonic = "live maple wasp aim example machine brief spell wheel awesome play lens";

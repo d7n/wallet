@@ -1,1 +1,1 @@
-var mnemonic = "execute version rack payment match monkey lava quarter rib clap cushion level";
+var mnemonic = "frequent dolphin shoe liquid above banana lunar tragic target direct eagle monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "chase man ask frown charge mistake remove mercy bargain put very error";
+var mnemonic = "settle peanut subway nurse emerge fun disorder decade endorse awful vacant shine";

@@ -1,1 +1,1 @@
-var mnemonic = "tired blue sense prize wasp noodle nerve palm youth pass found card";
+var mnemonic = "cancel fluid jump enhance kangaroo fantasy clinic buzz ozone antenna ignore hard";

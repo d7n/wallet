@@ -1,1 +1,1 @@
-var mnemonic = "yard mouse carpet extra bunker build air common creek verify degree oblige";
+var mnemonic = "tonight damage quarter chapter opera drip trouble hybrid duck aisle regret diagram";

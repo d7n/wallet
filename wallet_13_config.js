@@ -1,1 +1,1 @@
-var mnemonic = "retreat appear expose direct success six blossom method target aunt envelope inflict";
+var mnemonic = "enforce flip avocado learn myself mule heart over urge palace oak bubble";

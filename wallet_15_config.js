@@ -1,1 +1,1 @@
-var mnemonic = "cradle era shoot raven cart song clerk hammer soul order swamp close";
+var mnemonic = "rug gospel donkey holiday truly fit mixture feel degree penalty caution group";

@@ -1,1 +1,1 @@
-var mnemonic = "own cook shine afraid vacant catalog rotate author check vendor syrup potato";
+var mnemonic = "wide crazy spy life barely sign surround buffalo lamp salad tank swallow";

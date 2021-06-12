@@ -1,1 +1,1 @@
-var mnemonic = "spice basket strategy budget faint coffee elder antique refuse feel custom extend";
+var mnemonic = "object spoon satoshi rebel reduce cradle gun coyote obscure amount notable note";

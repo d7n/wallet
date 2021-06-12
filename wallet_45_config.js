@@ -1,1 +1,1 @@
-var mnemonic = "tonight boil plastic chicken marine gadget admit game price allow silk discover";
+var mnemonic = "slide addict ill chef misery rubber stomach sleep orphan buyer mean all";
