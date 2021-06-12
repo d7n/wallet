@@ -1,1 +1,1 @@
-var mnemonic = "very electric glance elbow aisle staff vicious option limb inside hill female";
+var mnemonic = "destroy wreck region shoot absorb diamond asthma luxury puppy mix announce budget";

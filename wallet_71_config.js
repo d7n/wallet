@@ -1,1 +1,1 @@
-var mnemonic = "hip circle grow uniform squeeze couch actress monitor humor zebra minor jacket";
+var mnemonic = "mutual oppose energy sort unique walnut farm female glove true inherit pony";

@@ -1,1 +1,1 @@
-var mnemonic = "damage power swim shiver fee because okay spike sport alone spin metal";
+var mnemonic = "figure cereal scrap donate appear already resource similar relief spice crater skate";

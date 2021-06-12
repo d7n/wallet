@@ -1,1 +1,1 @@
-var mnemonic = "minute creek luggage hunt kidney tower worry return pitch crash family lady";
+var mnemonic = "foil twin base labor excuse quote adjust eager raccoon erase dune cloud";

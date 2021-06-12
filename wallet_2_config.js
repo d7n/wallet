@@ -1,1 +1,1 @@
-var mnemonic = "dignity super crawl protect again rebel enlist remember smooth unaware holiday tree";
+var mnemonic = "service snow truth multiply caught chaos blood utility piano rubber shoot job";

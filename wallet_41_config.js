@@ -1,1 +1,1 @@
-var mnemonic = "response copy repeat affair stage ask measure resemble narrow ugly silk small";
+var mnemonic = "physical omit input satisfy thought dilemma ordinary local flower begin offer cover";

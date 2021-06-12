@@ -1,1 +1,1 @@
-var mnemonic = "leave regret seat collect reason guitar general forward zero ridge equip transfer";
+var mnemonic = "pool mansion anxiety basket toe series exist unknown young praise inquiry away";

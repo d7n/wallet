@@ -1,1 +1,1 @@
-var mnemonic = "duty swift that bless dust post album spoil verify discover clay rain";
+var mnemonic = "around demand garden decrease year hazard example pride prison solar cattle urban";

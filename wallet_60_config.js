@@ -1,1 +1,1 @@
-var mnemonic = "quarter select dance ring betray pull pioneer asthma project choose various review";
+var mnemonic = "animal age month witness device enact amazing crunch vanish lounge first toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce process alone have faculty magic box forum clever rifle nose around";
+var mnemonic = "miss wine giggle two pen faith control bottom diary detect endless finger";

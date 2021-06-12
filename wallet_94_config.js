@@ -1,1 +1,1 @@
-var mnemonic = "describe lava dizzy tiny judge fatal neck recipe typical viable kid fitness";
+var mnemonic = "tattoo travel pear draft car remind ten brush myth valley brick deposit";

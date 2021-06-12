@@ -1,1 +1,1 @@
-var mnemonic = "blue window cover give disease index floor wreck tank shadow despair angle";
+var mnemonic = "guilt true rescue illegal session grid matter ride amused spoon much uncover";

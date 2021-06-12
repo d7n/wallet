@@ -1,1 +1,1 @@
-var mnemonic = "scale size expand episode reopen boss talent soldier yellow obtain give table";
+var mnemonic = "vehicle number dash energy wish olympic taste busy extend hello finish illegal";

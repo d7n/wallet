@@ -1,1 +1,1 @@
-var mnemonic = "position degree brass rule forest gas original pattern owner wrong portion silly";
+var mnemonic = "basket kick squirrel noble toy patch illness nuclear unit ice concert debris";

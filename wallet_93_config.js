@@ -1,1 +1,1 @@
-var mnemonic = "calm margin process public coyote broom general upgrade labor mesh despair cable";
+var mnemonic = "crime amazing hurdle woman duck theory crane cannon blade believe outside dragon";

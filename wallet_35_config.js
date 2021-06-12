@@ -1,1 +1,1 @@
-var mnemonic = "category foster pretty rally view example add later argue front burden alert";
+var mnemonic = "unveil team shrug spray claim dolphin arch october patient number foot tunnel";

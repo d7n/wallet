@@ -1,1 +1,1 @@
-var mnemonic = "shell pass cat trend series shaft boil scale solve film blame tiny";
+var mnemonic = "unique heavy kick tide scrub rescue tomato motion poverty bundle cloth fix";

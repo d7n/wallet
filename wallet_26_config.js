@@ -1,1 +1,1 @@
-var mnemonic = "forum fish ladder produce switch once dynamic thrive pelican light need plunge";
+var mnemonic = "naive reduce sing tip potato cradle aisle pupil climb slogan split unaware";

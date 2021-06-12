@@ -1,1 +1,1 @@
-var mnemonic = "sword physical chimney cattle learn provide grunt off rookie empower camp fan";
+var mnemonic = "there ritual wear airport predict birth retire anger tell canvas moral potato";

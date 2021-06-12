@@ -1,1 +1,1 @@
-var mnemonic = "hand marble quality surge fluid category tuition iron rule hair woman consider";
+var mnemonic = "nature document body pumpkin corn never engage purpose hazard improve nation picture";

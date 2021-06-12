@@ -1,1 +1,1 @@
-var mnemonic = "legal pave victory empty height slab aim account beach cry turn faith";
+var mnemonic = "draft income napkin nature cereal alarm fit cover unaware isolate pizza west";

@@ -1,1 +1,1 @@
-var mnemonic = "air outdoor swamp give fire upon height prepare idea distance lumber hold";
+var mnemonic = "run puzzle sausage toe stumble child alcohol toilet avoid garden sell soccer";

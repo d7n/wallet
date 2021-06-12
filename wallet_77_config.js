@@ -1,1 +1,1 @@
-var mnemonic = "clown sunny sheriff west margin settle robust trust speak garment capable million";
+var mnemonic = "time switch rival vintage violin exist orange mask exist coral provide slab";

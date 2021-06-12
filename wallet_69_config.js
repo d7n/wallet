@@ -1,1 +1,1 @@
-var mnemonic = "dune rebel artist donate gaze ridge neutral mother diary crack punch river";
+var mnemonic = "elder fan chest one slim order length frown reject trip sibling morning";

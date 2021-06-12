@@ -1,1 +1,1 @@
-var mnemonic = "tell attack cactus bracket right valve proof gravity taxi add choice reunion";
+var mnemonic = "visit guess infant ethics dentist subway discover melt soda ketchup deer theme";

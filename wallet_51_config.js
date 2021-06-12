@@ -1,1 +1,1 @@
-var mnemonic = "canvas adapt under camp another liberty round force sponsor laundry supreme right";
+var mnemonic = "mother uniform zebra cupboard deliver forget pen spell praise cost anchor two";

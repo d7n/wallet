@@ -1,1 +1,1 @@
-var mnemonic = "lift country bunker protect lock duty physical essay come exact truly kick";
+var mnemonic = "scheme frequent novel twist market frequent shed seek axis cereal invest alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "jump arctic pioneer phone treat resist desert solution hub wide enhance bonus";
+var mnemonic = "ramp innocent guilt item foster brick endless crunch dignity plate valid excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "defense approve air cloud exact clever quote hello ball speak unfair second";
+var mnemonic = "emotion forget pudding meat wrist phone marriage fiber burger cake attend citizen";

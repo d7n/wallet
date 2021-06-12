@@ -1,1 +1,1 @@
-var mnemonic = "dutch gas neither pulse phone slot slice nerve corn man input unique";
+var mnemonic = "slice zone hint fault elegant wish powder trouble window since romance journey";

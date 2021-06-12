@@ -1,1 +1,1 @@
-var mnemonic = "velvet object hurt path recall oven fly neglect smoke aunt smile jar";
+var mnemonic = "mask lava layer rural chapter nuclear inch future toddler fat chalk dream";

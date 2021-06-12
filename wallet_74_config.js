@@ -1,1 +1,1 @@
-var mnemonic = "police man fuel call enlist ridge unfold domain siege neglect grid cotton";
+var mnemonic = "baby panther sunset kick canvas expand frame palace nurse under middle vault";

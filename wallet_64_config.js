@@ -1,1 +1,1 @@
-var mnemonic = "wash pull jealous drop erosion rug barely rapid clutch cliff joy glide";
+var mnemonic = "peanut right luggage coach champion rare sting frog surge alpha lemon cigar";

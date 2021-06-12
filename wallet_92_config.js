@@ -1,1 +1,1 @@
-var mnemonic = "great garlic wall wall quote scale head holiday abuse very position bullet";
+var mnemonic = "caution tip town market best airport limb swift vague average name omit";

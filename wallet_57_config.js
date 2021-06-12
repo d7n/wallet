@@ -1,1 +1,1 @@
-var mnemonic = "slab demand hammer wife aerobic tonight demand asthma wife flip typical inch";
+var mnemonic = "inherit rich black saddle current someone autumn any aspect tip lock sad";

@@ -1,1 +1,1 @@
-var mnemonic = "viable submit bounce hockey equal phrase size lyrics onion useless portion buyer";
+var mnemonic = "anger chief squeeze eagle often over radar cabbage abuse any group home";

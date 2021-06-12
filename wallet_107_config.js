@@ -1,1 +1,1 @@
-var mnemonic = "confirm ketchup ring cool lawn spend icon sauce spirit waste chef shaft";
+var mnemonic = "camp method ahead cricket immense decorate divert mango holiday pretty bench jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom shed immune increase desert file behave fee vote jar judge sausage";
+var mnemonic = "layer raven lava unfair print cost such deer gaze tomato surround culture";

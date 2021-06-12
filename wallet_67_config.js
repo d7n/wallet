@@ -1,1 +1,1 @@
-var mnemonic = "path naive assist logic public erupt resemble clump prevent notice follow error";
+var mnemonic = "country soda slim asthma rather number host ivory raw gesture noodle buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "spike turn monkey hammer horror essay civil critic between asthma cushion indoor";
+var mnemonic = "tooth canvas dune resemble correct evolve charge mixed catch kidney athlete yellow";

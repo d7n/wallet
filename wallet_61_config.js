@@ -1,1 +1,1 @@
-var mnemonic = "mimic eight flight chimney exact toilet tell garment begin sick liar animal";
+var mnemonic = "village verify average expose nothing word sail deposit sketch slice civil proof";

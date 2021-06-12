@@ -1,1 +1,1 @@
-var mnemonic = "nation easily someone orphan noble patch business bird casino law cheap cram";
+var mnemonic = "primary invest tube stove certain truth conduct decorate rain pottery tiny snow";

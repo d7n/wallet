@@ -1,1 +1,1 @@
-var mnemonic = "left scorpion inner liar crunch load car club clay kind cash always";
+var mnemonic = "cost anchor surface cable produce lonely lawn climb family awake spin simple";

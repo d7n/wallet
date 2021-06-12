@@ -1,1 +1,1 @@
-var mnemonic = "agent tube three toe napkin frown hamster mango rate gap drastic found";
+var mnemonic = "entire example world jaguar company coach wall welcome safe unable thrive casino";

@@ -1,1 +1,1 @@
-var mnemonic = "party deposit release believe tide member bacon rural spoon minor city across";
+var mnemonic = "suffer travel address hub hand supreme open duck exact promote parrot hood";

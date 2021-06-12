@@ -1,1 +1,1 @@
-var mnemonic = "similar balcony wish payment hint hockey install what thought snack kite physical";
+var mnemonic = "sword shoot among more cute unusual half shock tiger come giant very";

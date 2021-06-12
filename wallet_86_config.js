@@ -1,1 +1,1 @@
-var mnemonic = "seek dress metal practice delay exist put race error since follow tip";
+var mnemonic = "summer shiver diamond rude sentence protect entire machine steak hood violin unfold";

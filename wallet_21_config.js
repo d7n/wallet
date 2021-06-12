@@ -1,1 +1,1 @@
-var mnemonic = "loud gift ginger dice tube identify purse wet wage east riot embark";
+var mnemonic = "income coconut round thing fashion shed machine fun matrix this trip animal";

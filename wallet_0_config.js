@@ -1,1 +1,1 @@
-var mnemonic = "wonder ugly peanut cube jump green donkey island creek pigeon parade sea";
+var mnemonic = "ladder march slice wish letter cradle obvious hidden idea lesson scrub trial";

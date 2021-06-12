@@ -1,1 +1,1 @@
-var mnemonic = "clinic member glass notable sleep salon crucial glare advice wisdom organ ability";
+var mnemonic = "bid situate danger stool apart borrow ill few addict grape elder easy";

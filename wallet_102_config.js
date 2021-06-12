@@ -1,1 +1,1 @@
-var mnemonic = "silly oxygen peasant crane belt favorite enter tool proud gravity adapt hurdle";
+var mnemonic = "type just sting horror pipe caution fossil tilt item miracle potato divert";

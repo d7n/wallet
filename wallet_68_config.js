@@ -1,1 +1,1 @@
-var mnemonic = "crunch language green stick crater arrest light quantum couple inch office twelve";
+var mnemonic = "above render hole million cost dice clock during visit casino daring attitude";

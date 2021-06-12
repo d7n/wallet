@@ -1,1 +1,1 @@
-var mnemonic = "glad address kitten miracle lobster follow explain average youth fresh noodle fashion";
+var mnemonic = "gym cloth visit tuna ostrich valid tribe sting snack clean tomato can";

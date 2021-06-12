@@ -1,1 +1,1 @@
-var mnemonic = "throw hub venue enough atom segment predict outdoor hamster throw uncover anxiety";
+var mnemonic = "minimum lock outside weekend junk solution lottery favorite tumble curve output filter";

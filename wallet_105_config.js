@@ -1,1 +1,1 @@
-var mnemonic = "luxury pizza salt bird shiver desk oil gown ramp wolf child shallow";
+var mnemonic = "tongue embody change crucial plug spot design stomach teach emerge win brick";

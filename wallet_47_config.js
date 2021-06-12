@@ -1,1 +1,1 @@
-var mnemonic = "absorb mushroom unfair ordinary junk cement used atom harvest brother fantasy lounge";
+var mnemonic = "deputy obtain appear swap anxiety impact human soap horse relief slight silent";

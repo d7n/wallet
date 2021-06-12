@@ -1,1 +1,1 @@
-var mnemonic = "leader region kind merry tent luggage just must gospel urban mass detail";
+var mnemonic = "cradle race pretty drill fold bomb festival concert ask slender skate balcony";

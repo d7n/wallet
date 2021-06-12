@@ -1,1 +1,1 @@
-var mnemonic = "invite olympic west letter demise rotate fat fringe february govern section enable";
+var mnemonic = "wasp antenna episode barrel ancient spatial pulp frame live list rapid chuckle";

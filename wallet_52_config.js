@@ -1,1 +1,1 @@
-var mnemonic = "agree provide envelope seminar purse steel fluid sunset evidence awful bid mixture";
+var mnemonic = "furnace display survey sheriff suit noise faculty enrich ozone jealous pupil jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify middle trap front doll buddy much census sunny cool drive gas";
+var mnemonic = "coil snow switch obey split cannon eager tomorrow globe border suspect file";

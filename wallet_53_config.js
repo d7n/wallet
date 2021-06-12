@@ -1,1 +1,1 @@
-var mnemonic = "company absent broken put digital despair task gentle rubber fun audit lounge";
+var mnemonic = "dove uphold federal noise twist universe always junk forest claw stage magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "target match crunch view ankle dinner ethics guilt cook photo muffin please";
+var mnemonic = "exhaust barely tower quarter grape solid swift mass denial fall ocean race";

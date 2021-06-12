@@ -1,1 +1,1 @@
-var mnemonic = "bean laundry rally fossil define near claw wedding under cigar vendor offer";
+var mnemonic = "float embody pull need must finger ginger brown reason member sniff estate";

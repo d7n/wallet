@@ -1,1 +1,1 @@
-var mnemonic = "thing kingdom awful paddle game foster stay deer asthma vehicle alone verb";
+var mnemonic = "tell nasty nose hammer eager cheese jealous gas because joy fat tide";

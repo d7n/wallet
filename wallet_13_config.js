@@ -1,1 +1,1 @@
-var mnemonic = "together shed organ card napkin heavy slim garden always comfort bicycle fox";
+var mnemonic = "eagle used fragile loyal easy cream program family tape spot autumn hurt";

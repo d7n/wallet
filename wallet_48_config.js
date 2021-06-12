@@ -1,1 +1,1 @@
-var mnemonic = "village decide win ship police vibrant drill piece network suspect organ snack";
+var mnemonic = "learn victory human artist next melody joke program hover topic secret tomorrow";

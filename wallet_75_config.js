@@ -1,1 +1,1 @@
-var mnemonic = "differ visual include hat atom student video this wagon turkey strong ankle";
+var mnemonic = "match notable depend wheel shed stuff laptop sight draw vintage define tool";

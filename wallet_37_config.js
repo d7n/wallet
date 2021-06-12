@@ -1,1 +1,1 @@
-var mnemonic = "barely avoid sight grow brief candy mixed master wedding sure juice remain";
+var mnemonic = "sibling action park misery talk cabin play shift popular now hollow fault";

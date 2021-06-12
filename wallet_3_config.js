@@ -1,1 +1,1 @@
-var mnemonic = "mammal blue arrow author mobile exile select tip setup offer hollow material";
+var mnemonic = "tourist club enrich length because mask daughter stereo breeze they narrow lava";

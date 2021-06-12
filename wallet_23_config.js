@@ -1,1 +1,1 @@
-var mnemonic = "boat grid ketchup army useful adult post start sting hat blade rate";
+var mnemonic = "near twelve render wagon merry daring steak inhale quick lady because decorate";

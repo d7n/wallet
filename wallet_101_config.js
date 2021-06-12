@@ -1,1 +1,1 @@
-var mnemonic = "grocery oil scale sustain country music grant control prefer endless become protect";
+var mnemonic = "sister manage album copy best clean flavor jungle glow impulse mesh depend";

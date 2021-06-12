@@ -1,1 +1,1 @@
-var mnemonic = "color jacket deposit runway hurt congress swap wedding oven gap night test";
+var mnemonic = "hole desk tissue always govern select capital unhappy swamp warfare defy south";

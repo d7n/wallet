@@ -1,1 +1,1 @@
-var mnemonic = "fiscal cereal oxygen timber easy food phrase worth climb glad spring begin";
+var mnemonic = "despair snap that rich narrow clap settle steel tonight syrup bounce arm";

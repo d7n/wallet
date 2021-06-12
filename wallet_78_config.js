@@ -1,1 +1,1 @@
-var mnemonic = "sister pistol crucial narrow arch cement dry open raw bulk tongue couch";
+var mnemonic = "stereo release letter tribe fox ridge promote caught puzzle happy shiver mix";

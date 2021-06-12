@@ -1,1 +1,1 @@
-var mnemonic = "law habit during tribe amount grow cabbage grass other million track track";
+var mnemonic = "tone lonely equal rotate together help dust end border amazing leopard replace";

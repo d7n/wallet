@@ -1,1 +1,1 @@
-var mnemonic = "recall lunar forum denial oil crisp where certain joy resource basket air";
+var mnemonic = "divert yellow fame effort water exhaust caught echo camp sad length chimney";

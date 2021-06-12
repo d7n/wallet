@@ -1,1 +1,1 @@
-var mnemonic = "valve increase area all actual kidney pair ride walk summer digital loyal";
+var mnemonic = "search mammal tiger tomato oval honey patrol special elbow battle stuff skate";

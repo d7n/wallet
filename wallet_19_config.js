@@ -1,1 +1,1 @@
-var mnemonic = "poet minor sentence burger hawk toe program inside chronic final service clinic";
+var mnemonic = "quick lyrics awesome tomorrow atom amateur damp forward dish humor use infant";

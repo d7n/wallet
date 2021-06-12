@@ -1,1 +1,1 @@
-var mnemonic = "melody twenty gold pioneer wolf volcano basket bless clerk fat dust dust";
+var mnemonic = "theme senior scrap alert issue actress moon shoulder explain where scheme mansion";

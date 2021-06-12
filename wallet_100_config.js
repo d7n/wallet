@@ -1,1 +1,1 @@
-var mnemonic = "zone outdoor area express smile pitch second eight drop brisk require crawl";
+var mnemonic = "floor turkey gap turn tree recipe load program course afford scare layer";

@@ -1,1 +1,1 @@
-var mnemonic = "property universe buddy wreck price harbor all west whisper eyebrow card insane";
+var mnemonic = "account ahead gasp emerge merry exotic defy arrest purity guitar garment laundry";

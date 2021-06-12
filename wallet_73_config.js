@@ -1,1 +1,1 @@
-var mnemonic = "know uncover benefit cactus woman mind gospel breeze raven trim want abandon";
+var mnemonic = "crisp water when choose plunge zone wrong exotic notice toss spider menu";
