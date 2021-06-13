@@ -1,1 +1,1 @@
-var mnemonic = "mechanic assume permit cross parrot way reduce divert bring gesture antenna lion";
+var mnemonic = "slogan pear spatial property benefit fit wing lumber island blood junk erase";

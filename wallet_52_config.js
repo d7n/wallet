@@ -1,1 +1,1 @@
-var mnemonic = "august harbor paddle hedgehog laptop any loyal false setup enter polar identify";
+var mnemonic = "artist observe run wheel lamp potato poet enrich razor sleep during bounce";

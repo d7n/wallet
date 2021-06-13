@@ -1,1 +1,1 @@
-var mnemonic = "vivid damage limit eagle castle anger toss potato clip forward act company";
+var mnemonic = "melt grain wealth cliff diagram debris sleep two pig either drastic law";

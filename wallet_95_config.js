@@ -1,1 +1,1 @@
-var mnemonic = "flat east modify easy taxi roof rain impact cousin process calm coil";
+var mnemonic = "easy humble wire expand blast nephew ship popular outer symbol gas nasty";

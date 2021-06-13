@@ -1,1 +1,1 @@
-var mnemonic = "spawn addict panic picture animal inch mother major kid source atom thumb";
+var mnemonic = "sad heart color stand install confirm robust another water still song occur";

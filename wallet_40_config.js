@@ -1,1 +1,1 @@
-var mnemonic = "style legend school divorce wall around illness will net decide sadness fix";
+var mnemonic = "mercy charge daughter love dumb later cave bulk rice uncle siege spy";

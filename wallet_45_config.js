@@ -1,1 +1,1 @@
-var mnemonic = "enact history zebra breeze cliff scrub blind subject step mandate amused clerk";
+var mnemonic = "remove remind easily still surge ozone used mechanic cook mind employ enjoy";

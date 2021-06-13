@@ -1,1 +1,1 @@
-var mnemonic = "dash survey wrong put satisfy loud deputy normal width region common cake";
+var mnemonic = "topic clever what lunch recall sausage sponsor keep explain trick sketch achieve";

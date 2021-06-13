@@ -1,1 +1,1 @@
-var mnemonic = "century bag lake floor nut bleak solve observe slim seed select depend";
+var mnemonic = "blast bamboo dragon gown rack salute leader wish region field viable morning";

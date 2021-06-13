@@ -1,1 +1,1 @@
-var mnemonic = "focus segment nephew rebel require baby tortoise copy welcome able whip strategy";
+var mnemonic = "build major clerk few clay lesson green artist lizard inquiry toilet empower";

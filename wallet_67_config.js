@@ -1,1 +1,1 @@
-var mnemonic = "scout steak mushroom peasant pilot drama talent deer want mask someone bench";
+var mnemonic = "question balance parrot wear game execute vote silly vocal noodle calm card";

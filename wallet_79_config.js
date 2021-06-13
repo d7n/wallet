@@ -1,1 +1,1 @@
-var mnemonic = "naive laundry barrel off abandon soap bomb math dawn where toast journey";
+var mnemonic = "venture actual pelican immense popular puzzle peace manual feature knee grape ancient";

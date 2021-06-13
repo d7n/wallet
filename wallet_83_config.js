@@ -1,1 +1,1 @@
-var mnemonic = "intact uniform child film oyster fabric unlock enroll sorry fog crew behave";
+var mnemonic = "smile knife pretty cinnamon collect normal guess flag seed scorpion useless drum";

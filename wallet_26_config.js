@@ -1,1 +1,1 @@
-var mnemonic = "hurdle meadow antenna hurry quiz critic expose describe tomato lend scheme predict";
+var mnemonic = "mention pole cigar mule oak valve exit rule voice region hospital soft";

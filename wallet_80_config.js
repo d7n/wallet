@@ -1,1 +1,1 @@
-var mnemonic = "great fly master step furnace erupt start view alter turn beauty recipe";
+var mnemonic = "horn length enrich omit silent pluck dial margin cute chalk glory fabric";

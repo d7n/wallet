@@ -1,1 +1,1 @@
-var mnemonic = "rotate fog cluster same joy mention phrase crash often shaft crane danger";
+var mnemonic = "cigar skin garbage exile blind educate spirit sell around average put green";

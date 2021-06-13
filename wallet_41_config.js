@@ -1,1 +1,1 @@
-var mnemonic = "usual crash slam suffer appear ribbon evil make skate invite civil worth";
+var mnemonic = "right above vote deputy ability math live miracle segment green grief speed";

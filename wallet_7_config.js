@@ -1,1 +1,1 @@
-var mnemonic = "course organ area worry cricket bounce police oyster uniform screen behind huge";
+var mnemonic = "color increase question gravity brick engage hybrid dad kitten enrich team oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch menu clown own motion flavor clerk erosion couple mansion spin donor";
+var mnemonic = "olive warrior clinic myth room card inspire special speed insane brain danger";

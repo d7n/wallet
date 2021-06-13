@@ -1,1 +1,1 @@
-var mnemonic = "enter stove laugh swarm easy twin insane again breeze tennis radar cactus";
+var mnemonic = "material produce chief scare own glue oak moral town income force peanut";

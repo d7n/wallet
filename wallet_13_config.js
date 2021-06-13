@@ -1,1 +1,1 @@
-var mnemonic = "discover spirit inject add kidney chalk bitter ceiling cement mango federal unknown";
+var mnemonic = "current owner bike pistol early sing cabbage net forum divert yellow sure";

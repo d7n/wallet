@@ -1,1 +1,1 @@
-var mnemonic = "supply wash initial chief boring holiday uncle citizen invite later fantasy cover";
+var mnemonic = "replace casino write such miracle opera anger nephew police wedding cousin junk";

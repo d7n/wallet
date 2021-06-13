@@ -1,1 +1,1 @@
-var mnemonic = "amazing library coffee pause woman thunder vicious system earth man unfold husband";
+var mnemonic = "brush coin buzz inhale barrel visa unhappy legal orange scan only cream";

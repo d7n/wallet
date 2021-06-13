@@ -1,1 +1,1 @@
-var mnemonic = "rhythm online cloth bar element treat true grant access mass chimney stuff";
+var mnemonic = "fork book barely collect seed collect tennis arena delay vessel nasty prosper";

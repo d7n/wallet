@@ -1,1 +1,1 @@
-var mnemonic = "upon neutral whisper trick park heavy marriage exhaust learn joke act popular";
+var mnemonic = "that talent employ mechanic talent talent wealth beauty wash crunch cattle original";

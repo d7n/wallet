@@ -1,1 +1,1 @@
-var mnemonic = "tragic hazard olive idle mixture miracle laugh apart tunnel weasel tunnel lunch";
+var mnemonic = "head click gospel mirror payment scrub clip visual lizard army inspire absurd";

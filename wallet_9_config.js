@@ -1,1 +1,1 @@
-var mnemonic = "hope safe random change oxygen beyond coast gloom orange client cram road";
+var mnemonic = "capital eight issue shaft radar group dial guess next pear target surround";

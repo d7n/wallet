@@ -1,1 +1,1 @@
-var mnemonic = "cancel exist tackle obtain jar left together decrease girl talent rookie system";
+var mnemonic = "thumb limit copy spawn bone gospel drink crawl kitten fun orient can";

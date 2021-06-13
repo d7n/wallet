@@ -1,1 +1,1 @@
-var mnemonic = "pulse clap blast once help unit liberty loan dolphin weekend anger victory";
+var mnemonic = "tuition seed inmate tape favorite worth liquid orbit office wedding fluid pool";

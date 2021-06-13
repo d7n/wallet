@@ -1,1 +1,1 @@
-var mnemonic = "oxygen wrestle pelican vast empty rifle december assist token frequent emotion sea";
+var mnemonic = "phone spread tone present burst width what benefit exclude math chat cup";

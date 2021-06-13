@@ -1,1 +1,1 @@
-var mnemonic = "canoe annual rain crack miss glove engage street piece cram boost punch";
+var mnemonic = "potato blade spice eyebrow million grocery parent awake cost clinic gain divert";

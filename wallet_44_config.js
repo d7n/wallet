@@ -1,1 +1,1 @@
-var mnemonic = "play inhale pole mail gloom tape risk gospel shoulder rate side protect";
+var mnemonic = "harsh critic lazy same blind smooth address output doll decide alien tongue";

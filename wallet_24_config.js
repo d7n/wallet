@@ -1,1 +1,1 @@
-var mnemonic = "bag scout cram unhappy build donate door roof canoe noodle when paddle";
+var mnemonic = "post party mosquito fat tired slender flock below caught gift share phone";

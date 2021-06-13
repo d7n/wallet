@@ -1,1 +1,1 @@
-var mnemonic = "original nothing rice genre know arch depend ship scene time old enough";
+var mnemonic = "story useless defense enjoy scrub love kick neutral zoo convince mean holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "empty snap mesh shrimp plate hundred school brick panel foil reflect powder";
+var mnemonic = "ostrich nurse alert pluck april mind code hood video index motor hire";

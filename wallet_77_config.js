@@ -1,1 +1,1 @@
-var mnemonic = "slab pluck autumn mixed island twice barrel laptop foam quiz useful absorb";
+var mnemonic = "garlic typical visual wheel rare income dice science talent cube mistake bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "spend ball now truck trick alien fruit vicious hero point express boil";
+var mnemonic = "melt weasel health ill leaf crater barrel hill ancient own option trumpet";

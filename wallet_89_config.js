@@ -1,1 +1,1 @@
-var mnemonic = "master sugar pepper trade enroll uncle genre demise wrist sing original undo";
+var mnemonic = "parade bean law coyote tennis tiny enable waste illness lobster thunder jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "purse educate aisle ramp garment dress lion car negative gloom fury vague";
+var mnemonic = "chimney tomato cheap mimic west submit correct bunker floor any abstract wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "visit disease panther combine general adapt dream sail grant pumpkin void brick";
+var mnemonic = "ordinary series desert daughter leg shoulder decade library limit monster rule pupil";

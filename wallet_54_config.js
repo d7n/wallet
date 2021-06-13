@@ -1,1 +1,1 @@
-var mnemonic = "athlete scissors team loud burst virtual initial once antenna life abstract aware";
+var mnemonic = "lava rich game fan purchase urban also camera hand reason rubber grid";

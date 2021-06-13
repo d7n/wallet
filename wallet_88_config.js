@@ -1,1 +1,1 @@
-var mnemonic = "hood sleep abuse alley candy coast monkey meadow isolate dress skate humble";
+var mnemonic = "fitness wear embody boat very shiver lab answer pattern add wage split";

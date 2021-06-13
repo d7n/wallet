@@ -1,1 +1,1 @@
-var mnemonic = "guilt outdoor drop blur void squirrel one front jazz cereal blush general";
+var mnemonic = "catalog submit key board desk light head style actor invite embark ridge";

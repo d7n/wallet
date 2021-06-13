@@ -1,1 +1,1 @@
-var mnemonic = "protect gauge cotton wonder evolve hood era tenant jazz leg come street";
+var mnemonic = "time boil six jeans popular wink hub long wheat machine flame explain";

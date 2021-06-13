@@ -1,1 +1,1 @@
-var mnemonic = "slight agree increase sick butter thunder gun idle run target bring witness";
+var mnemonic = "crawl coach skill solve evil regular destroy fish toward view story desk";

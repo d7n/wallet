@@ -1,1 +1,1 @@
-var mnemonic = "loud crazy dizzy glide swallow cattle collect present gate dutch coil obey";
+var mnemonic = "hour jealous city atom nerve orange buffalo ghost future leisure drum enough";

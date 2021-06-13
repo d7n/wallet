@@ -1,1 +1,1 @@
-var mnemonic = "thing romance marble live mouse into ripple snack orient flush engage local";
+var mnemonic = "aware jewel either another apart shaft own song page bean logic tobacco";

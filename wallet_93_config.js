@@ -1,1 +1,1 @@
-var mnemonic = "reform cabbage inhale famous mosquito moral arctic medal emotion month upset festival";
+var mnemonic = "purpose lottery tribe pipe recipe employ oak shove august place side wealth";

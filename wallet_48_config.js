@@ -1,1 +1,1 @@
-var mnemonic = "year family eye ceiling equip coral scorpion frown assume glue mercy best";
+var mnemonic = "correct wisdom drift version wealth decade travel scheme crime defense vote boil";

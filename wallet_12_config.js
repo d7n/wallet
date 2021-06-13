@@ -1,1 +1,1 @@
-var mnemonic = "notice nominee happy state evil report walk good involve champion reveal scale";
+var mnemonic = "salon situate correct blouse post insect refuse change warm enjoy chest price";

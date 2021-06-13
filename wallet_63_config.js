@@ -1,1 +1,1 @@
-var mnemonic = "leaf universe credit hybrid nasty extra copy update vital seminar elite pole";
+var mnemonic = "catch suit thunder casino result apology amused puppy wide pioneer drop wrap";

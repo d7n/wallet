@@ -1,1 +1,1 @@
-var mnemonic = "pave glove clown barely puzzle tenant inch silver burger silver drink mesh";
+var mnemonic = "audit apology choose thunder alone wire vessel giggle foil evil drift erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe jar talent economy warrior eager false answer other december lens inside";
+var mnemonic = "side usage analyst tide album install street cradle exercise celery frost violin";

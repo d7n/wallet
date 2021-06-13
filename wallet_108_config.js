@@ -1,1 +1,1 @@
-var mnemonic = "improve riot weather resist flat cross dinner large spray usual profit champion";
+var mnemonic = "announce message moral possible twenty dice someone fiber business book voice stem";

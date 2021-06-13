@@ -1,1 +1,1 @@
-var mnemonic = "tissue slow hold angry snack powder true cave nerve give prosper filter";
+var mnemonic = "bright once unveil rude unveil mad tower carbon world brother review advance";

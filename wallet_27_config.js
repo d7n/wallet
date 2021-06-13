@@ -1,1 +1,1 @@
-var mnemonic = "hospital brick modify ankle normal build view grain skin skill tobacco century";
+var mnemonic = "inflict session wine letter toast frown alone spot crunch another heart glove";

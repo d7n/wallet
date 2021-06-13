@@ -1,1 +1,1 @@
-var mnemonic = "junior appear state material protect nation steak monkey lesson banner rent damage";
+var mnemonic = "wood cancel ancient inspire knife fix tower retire lunar table pistol language";

@@ -1,1 +1,1 @@
-var mnemonic = "armed monster foster cancel hill find chief artwork empty maid visual history";
+var mnemonic = "figure tilt issue trade scrub industry obey brush crumble valid tape purity";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram quick ill blanket fox cube access can grass grace still worth";
+var mnemonic = "rice wealth goose slender valve project already quantum finger crash before diamond";

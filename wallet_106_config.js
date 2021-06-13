@@ -1,1 +1,1 @@
-var mnemonic = "fat flat keep wash bus logic invite violin soap brass filter army";
+var mnemonic = "enhance police spread vocal learn trade ivory balcony entire shallow axis supreme";

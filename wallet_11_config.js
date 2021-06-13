@@ -1,1 +1,1 @@
-var mnemonic = "boy february smile toilet useful top swift broccoli pet isolate oblige paper";
+var mnemonic = "bid eager taxi advice long sustain insect ancient demand two light check";

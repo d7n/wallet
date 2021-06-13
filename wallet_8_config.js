@@ -1,1 +1,1 @@
-var mnemonic = "report blue spin crunch ball exotic walk involve love stem radar follow";
+var mnemonic = "anger earn brick illegal dirt cup sample frame announce prosper stem error";

@@ -1,1 +1,1 @@
-var mnemonic = "copper salon bundle memory cruel protect dumb sketch usage reason patrol eagle";
+var mnemonic = "fiber school diet fossil chase crush bone match you derive wise scrap";

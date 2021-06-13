@@ -1,1 +1,1 @@
-var mnemonic = "bring evidence regular humor neck boat cabbage rival end manual drop nephew";
+var mnemonic = "mechanic chair negative stadium stock steel dawn find rent until forget predict";

@@ -1,1 +1,1 @@
-var mnemonic = "drift age treat monitor film use segment reject visit pet stand near";
+var mnemonic = "marble enough pig nuclear wedding denial boy seat mention enjoy permit chest";

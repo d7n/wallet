@@ -1,1 +1,1 @@
-var mnemonic = "waste flock wonder quantum fever trash rose peanut citizen turtle recycle kick";
+var mnemonic = "pioneer army web casino parent opera couch whisper tornado minor turn stem";

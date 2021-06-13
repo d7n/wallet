@@ -1,1 +1,1 @@
-var mnemonic = "usual solid rotate emotion upgrade trash humor fitness jacket hover aerobic note";
+var mnemonic = "bargain cabbage crunch coyote raw bird rent alarm strong category same ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster urban charge wish position area movie thought cancel gain increase sing";
+var mnemonic = "smooth taste diamond hammer claw camp blade catalog gun mad broccoli august";

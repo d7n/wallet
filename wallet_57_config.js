@@ -1,1 +1,1 @@
-var mnemonic = "struggle rescue carbon visit miss ritual fall oven olympic leave silent aerobic";
+var mnemonic = "armor glide mansion asset rigid summer until misery guard define dirt thumb";

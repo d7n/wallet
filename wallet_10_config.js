@@ -1,1 +1,1 @@
-var mnemonic = "opinion settle reopen magic vault lock brain tunnel draw drill message gossip";
+var mnemonic = "pistol quiz talent amount buzz visual rebuild run sentence kind lock fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "stable tortoise flower save guilt suffer canoe convince world resource subject ship";
+var mnemonic = "foster february subway whip hawk cube exist attract excite fork arctic memory";

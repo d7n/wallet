@@ -1,1 +1,1 @@
-var mnemonic = "able analyst fire obscure bracket syrup pride crazy loan kick clump wolf";
+var mnemonic = "dove give receive solve bargain virtual neither stairs dune theme glance raccoon";

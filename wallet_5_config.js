@@ -1,1 +1,1 @@
-var mnemonic = "theory reject photo minute mouse nature soul episode mixed verb enemy symbol";
+var mnemonic = "rookie asset unveil always alert spawn drop anxiety voyage visual escape soon";

@@ -1,1 +1,1 @@
-var mnemonic = "foster have attitude mistake novel quit blossom cabbage tree afford shy control";
+var mnemonic = "cloud hamster turn yellow replace error lounge beauty goose donate program clip";

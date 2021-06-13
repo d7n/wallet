@@ -1,1 +1,1 @@
-var mnemonic = "rack seminar because tattoo stable target dry leisure crop trial hidden put";
+var mnemonic = "bean quick bullet sleep output debate current zoo hotel then able cattle";

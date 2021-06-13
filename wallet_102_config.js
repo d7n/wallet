@@ -1,1 +1,1 @@
-var mnemonic = "snake patient area ranch party foil canoe brother beyond marine quick drill";
+var mnemonic = "ginger grid heart similar north apart beauty page mirror govern apart december";

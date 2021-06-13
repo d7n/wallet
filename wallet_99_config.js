@@ -1,1 +1,1 @@
-var mnemonic = "black cruel safe discover zero issue dash velvet dentist coast helmet gym";
+var mnemonic = "favorite sea horn deposit outside shallow hood that web noodle rough dice";

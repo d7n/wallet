@@ -1,1 +1,1 @@
-var mnemonic = "guitar method mix veteran pluck kind color nurse improve hood police job";
+var mnemonic = "inside want open crawl consider jacket team eyebrow rice wing peasant deny";

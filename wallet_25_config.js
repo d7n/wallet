@@ -1,1 +1,1 @@
-var mnemonic = "tunnel cactus innocent spin crazy wheat industry shadow town movie lady team";
+var mnemonic = "tank swarm use acquire exhaust truly father park cloud recall quality drill";

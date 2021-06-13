@@ -1,1 +1,1 @@
-var mnemonic = "then garlic lesson chef liquid differ invest parade frown surge post glow";
+var mnemonic = "cruise toddler hybrid upon lumber please solve thunder rabbit jar mimic robot";

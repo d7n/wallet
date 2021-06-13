@@ -1,1 +1,1 @@
-var mnemonic = "acid cheap trouble idle absent deputy jealous peasant fly leg super govern";
+var mnemonic = "allow never goddess dinner tool tank image cricket help quiz pledge kick";

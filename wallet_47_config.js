@@ -1,1 +1,1 @@
-var mnemonic = "garlic breeze fragile casual midnight reason seminar net able aspect find donor";
+var mnemonic = "accident impose join fly vehicle plunge zone ten coyote glove undo express";

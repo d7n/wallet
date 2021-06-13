@@ -1,1 +1,1 @@
-var mnemonic = "little service mail birth zoo destroy bid siege flame patch negative approve";
+var mnemonic = "wonder clog upset insect fold true congress field unlock solve dose despair";

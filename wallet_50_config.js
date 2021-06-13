@@ -1,1 +1,1 @@
-var mnemonic = "crash skin any slice odor host hamster slam since hand two talk";
+var mnemonic = "party design leave ribbon all jewel common long trade involve oval hunt";

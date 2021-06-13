@@ -1,1 +1,1 @@
-var mnemonic = "visual answer exist donor wing moral among stay fade width diamond length";
+var mnemonic = "shock sell magnet piece garden refuse clean forget anxiety joy clean wash";

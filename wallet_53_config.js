@@ -1,1 +1,1 @@
-var mnemonic = "exhibit glow blanket response spawn early bracket voyage rigid occur dad crime";
+var mnemonic = "ladder ocean device coconut fly master benefit churn select honey multiply rifle";

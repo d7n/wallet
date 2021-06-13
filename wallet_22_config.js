@@ -1,1 +1,1 @@
-var mnemonic = "vintage involve unique absurd enhance fork moral smile faculty govern mix party";
+var mnemonic = "ocean acquire trust feel popular right affair leisure drop album sense waste";

@@ -1,1 +1,1 @@
-var mnemonic = "island coffee evolve yellow chimney mom follow ankle false final develop path";
+var mnemonic = "swamp monster august knife pepper energy mean girl receive funny welcome arm";

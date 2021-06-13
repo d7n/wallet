@@ -1,1 +1,1 @@
-var mnemonic = "private imitate foot spot icon burger afford leave flip illegal manual ensure";
+var mnemonic = "charge eagle people proof enlist super rule primary already toe genius fee";

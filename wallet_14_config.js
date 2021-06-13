@@ -1,1 +1,1 @@
-var mnemonic = "oxygen south toddler true travel approve cross peasant mountain diet entire weasel";
+var mnemonic = "welcome lizard example tribe picture blood rhythm embrace hello among describe bamboo";

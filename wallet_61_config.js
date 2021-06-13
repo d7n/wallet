@@ -1,1 +1,1 @@
-var mnemonic = "fossil eager any shoulder quarter essence defense danger morning copy shell relief";
+var mnemonic = "report magnet fan other quote inspire such sign mixture there metal run";

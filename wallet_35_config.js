@@ -1,1 +1,1 @@
-var mnemonic = "coffee cable audit taste glide spare float flag when other goddess home";
+var mnemonic = "man boring blur daughter possible hockey melody leave fee supply grace giant";

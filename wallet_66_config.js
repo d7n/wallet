@@ -1,1 +1,1 @@
-var mnemonic = "acquire govern mother hotel used cousin hold table pluck notice assist tape";
+var mnemonic = "outer climb visual mango legal bird december cushion reform awful wagon gauge";
