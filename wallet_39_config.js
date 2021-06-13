@@ -1,1 +1,1 @@
-var mnemonic = "head soul hero dog hospital kitten fresh whip put rival addict dawn";
+var mnemonic = "elbow dust swarm remember turn divert warfare emotion scrub wine unknown blouse";

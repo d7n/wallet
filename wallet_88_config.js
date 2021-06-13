@@ -1,1 +1,1 @@
-var mnemonic = "humor book noodle ribbon when market fiscal chimney sweet slow city rally";
+var mnemonic = "margin detect enlist reunion plastic someone under estate friend lecture cheap winner";

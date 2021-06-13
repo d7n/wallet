@@ -1,1 +1,1 @@
-var mnemonic = "vintage wrestle couch sure bird drop era guilt drum asthma west faculty";
+var mnemonic = "team undo gate until machine ketchup cabbage beauty earn mercy super clerk";

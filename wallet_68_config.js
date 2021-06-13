@@ -1,1 +1,1 @@
-var mnemonic = "abandon argue human exchange code diagram mushroom arrive scan harvest corn electric";
+var mnemonic = "logic mutual february path render habit hawk foil fitness neutral learn device";

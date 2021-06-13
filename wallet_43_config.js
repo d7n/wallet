@@ -1,1 +1,1 @@
-var mnemonic = "rule nurse ranch crater agent leopard conduct inner normal chest pink struggle";
+var mnemonic = "rail silver sausage common divert example follow obtain law auction nasty tattoo";

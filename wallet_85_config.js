@@ -1,1 +1,1 @@
-var mnemonic = "valve core fold merge robot coach spot spike shine fancy spider glow";
+var mnemonic = "trash popular faith grunt bullet fiscal diagram purpose cover window frost viable";

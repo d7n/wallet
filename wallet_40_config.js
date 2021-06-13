@@ -1,1 +1,1 @@
-var mnemonic = "pledge upgrade diet off fence bracket concert initial yellow angry cost silly";
+var mnemonic = "green episode accuse melody dignity mother alien document review member model recipe";

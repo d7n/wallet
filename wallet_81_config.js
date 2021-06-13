@@ -1,1 +1,1 @@
-var mnemonic = "jealous roof shrimp next seek annual maximum ahead genre chuckle height banana";
+var mnemonic = "media rather lend rifle salon goose cube quantum say bus runway pepper";

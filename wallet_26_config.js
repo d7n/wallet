@@ -1,1 +1,1 @@
-var mnemonic = "noble garden punch connect enforce nuclear earn oval digital rotate special ritual";
+var mnemonic = "chase question life crop fiscal relax olympic timber exclude over stereo truck";

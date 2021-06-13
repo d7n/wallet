@@ -1,1 +1,1 @@
-var mnemonic = "journey where melt label elephant welcome forward buzz inform clutch sound cook";
+var mnemonic = "connect shoe pair faith exhibit resist select release believe economy cabbage surround";

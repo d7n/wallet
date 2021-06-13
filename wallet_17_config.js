@@ -1,1 +1,1 @@
-var mnemonic = "gallery lake choose beauty awesome obscure tunnel uncover aspect used employ shy";
+var mnemonic = "behave sketch mind edge dilemma perfect target absorb admit pig thing update";

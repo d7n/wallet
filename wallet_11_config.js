@@ -1,1 +1,1 @@
-var mnemonic = "local tonight already neutral project seed cloth someone nature clean thought weapon";
+var mnemonic = "middle senior whip affair vocal wire guitar seminar trade present because atom";

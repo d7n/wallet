@@ -1,1 +1,1 @@
-var mnemonic = "forum item then axis neglect because diary very lava empty reveal lady";
+var mnemonic = "rival toe reason off wet lucky increase rent wrap describe monitor erode";

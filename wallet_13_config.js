@@ -1,1 +1,1 @@
-var mnemonic = "amount rapid absurd excite ability shock shoulder hub pave siren admit finger";
+var mnemonic = "scrap venture borrow tumble wasp famous amazing expand bid sea escape random";

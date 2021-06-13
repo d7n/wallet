@@ -1,1 +1,1 @@
-var mnemonic = "proof garden clay iron furnace fluid basic foot album impose spawn rabbit";
+var mnemonic = "echo stay inquiry benefit shadow opinion fiber creek virus actor sport ginger";

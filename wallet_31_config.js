@@ -1,1 +1,1 @@
-var mnemonic = "arrest clever cattle april energy pride push camp chunk embrace pulp fire";
+var mnemonic = "share cliff foam muscle point crash lyrics draft torch mouse erupt equal";

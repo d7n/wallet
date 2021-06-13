@@ -1,1 +1,1 @@
-var mnemonic = "length notice donor eternal dolphin breeze seed jazz cancel bus pond entry";
+var mnemonic = "game screen immune media hungry core gift struggle pond genre blast honey";

@@ -1,1 +1,1 @@
-var mnemonic = "online bargain resemble craft panel problem muscle input awesome meat chief sadness";
+var mnemonic = "envelope unit know business carpet envelope wait detect strike drastic always anxiety";

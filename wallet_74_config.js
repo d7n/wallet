@@ -1,1 +1,1 @@
-var mnemonic = "task mushroom toward cube stone marriage grab inner draw rubber paper win";
+var mnemonic = "antenna start view scene strong early trade segment rival among barely monitor";

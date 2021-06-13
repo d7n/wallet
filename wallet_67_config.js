@@ -1,1 +1,1 @@
-var mnemonic = "neck stairs quit hungry drive someone defense castle century buyer hover afraid";
+var mnemonic = "angle gadget robot rotate fiber average pig nephew smart reduce donkey nice";

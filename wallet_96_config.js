@@ -1,1 +1,1 @@
-var mnemonic = "asset grab quantum alert chimney bus sunny jar trial robust net fuel";
+var mnemonic = "nerve rate potato harsh shift teach text long reject goat between double";

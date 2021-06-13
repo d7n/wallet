@@ -1,1 +1,1 @@
-var mnemonic = "fluid public glory grit job tribe swim kind empower unit shoulder cheese";
+var mnemonic = "situate useless orchard category prize seed august success lens tonight million perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen scale rice mask until video update taste universe donate there tackle";
+var mnemonic = "squeeze owner link misery retire bless slab insane illegal ten foot aim";

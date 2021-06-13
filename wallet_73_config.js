@@ -1,1 +1,1 @@
-var mnemonic = "cushion accident brand country square column acoustic icon cattle quality safe rice";
+var mnemonic = "olympic couple steel believe surprise gorilla demand joy sponsor dirt detail because";

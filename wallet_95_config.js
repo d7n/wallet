@@ -1,1 +1,1 @@
-var mnemonic = "jelly ladder jaguar minimum resource night cash tone use smart dragon unique";
+var mnemonic = "net cram tenant tail curious about frozen armed jewel visual present child";

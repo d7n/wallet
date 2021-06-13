@@ -1,1 +1,1 @@
-var mnemonic = "range capital income dice mimic gravity leopard obtain filter estate shadow start";
+var mnemonic = "elite correct number brown pizza bicycle empower luggage bleak ritual million place";

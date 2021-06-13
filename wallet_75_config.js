@@ -1,1 +1,1 @@
-var mnemonic = "unfair woman disorder flip surge ladder found dial fiber tooth eyebrow mansion";
+var mnemonic = "egg disorder uncle comic saddle loyal october joy current web math fault";

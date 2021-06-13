@@ -1,1 +1,1 @@
-var mnemonic = "country labor neutral miracle kit topic wonder theme traffic enact today crew";
+var mnemonic = "light rare month fuel forest nominee define off half join cost night";

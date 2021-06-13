@@ -1,1 +1,1 @@
-var mnemonic = "lemon stable marriage raise card repair seven degree pave huge course always";
+var mnemonic = "clown custom rabbit base position fabric modify fashion panic energy scheme web";

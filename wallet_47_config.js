@@ -1,1 +1,1 @@
-var mnemonic = "hard expect grant arrest okay hard canoe blade solid wear wage assume";
+var mnemonic = "fire whisper sick long order shallow moon talent immune initial cheap fetch";

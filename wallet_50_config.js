@@ -1,1 +1,1 @@
-var mnemonic = "detail unveil comfort fog parade quality obscure absorb bullet across number chapter";
+var mnemonic = "cabbage night space control warrior liar session ramp film field flee skate";

@@ -1,1 +1,1 @@
-var mnemonic = "adult strike olympic wheat stable breeze urge regular thought chronic cancel capital";
+var mnemonic = "arch kind never unfold close planet point shuffle soap kingdom wood observe";

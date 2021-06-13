@@ -1,1 +1,1 @@
-var mnemonic = "wait paper tilt giraffe vague lecture design mail program burst prepare noodle";
+var mnemonic = "fitness embody oppose voice suspect false polar glass another leave only hungry";

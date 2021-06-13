@@ -1,1 +1,1 @@
-var mnemonic = "diet document evoke mix devote antenna paper mind curtain burst hold kit";
+var mnemonic = "piece perfect blossom miracle twin sense betray bench canal blanket there envelope";

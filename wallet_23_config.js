@@ -1,1 +1,1 @@
-var mnemonic = "eternal rookie click owner weather material object limb truth check prison typical";
+var mnemonic = "rule season nice gown key speed border order deputy slot cruel uncover";

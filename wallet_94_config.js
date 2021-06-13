@@ -1,1 +1,1 @@
-var mnemonic = "height purity december poem rebel lazy say earn bleak cereal angry program";
+var mnemonic = "key detail taxi glad legend boss throw neutral suffer visa cup fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo domain remove pact blush rude web theme happy mail sleep resource";
+var mnemonic = "duck arrow merit coast toast loud kangaroo bubble motion usage hockey joy";

@@ -1,1 +1,1 @@
-var mnemonic = "object brave melody rough face crush arena across off boy dish differ";
+var mnemonic = "edge scrub first behind thumb bench position scheme supreme laugh boost truck";

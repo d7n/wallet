@@ -1,1 +1,1 @@
-var mnemonic = "movie resource quit praise body group door prefer undo crazy stage voice";
+var mnemonic = "junior load blanket omit destroy random chunk stairs screen bronze ball ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "please future smoke issue tired drum merge memory citizen betray pumpkin glory";
+var mnemonic = "evoke run anger option section glance surprise metal hero member whisper media";

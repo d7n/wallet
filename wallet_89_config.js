@@ -1,1 +1,1 @@
-var mnemonic = "raven height control boy marriage fix spatial reflect live globe sock crowd";
+var mnemonic = "title tumble ivory extra random pact cave claw shoe lift chimney twenty";

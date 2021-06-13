@@ -1,1 +1,1 @@
-var mnemonic = "wife daughter sand embody grape gun dice oyster nurse electric vital empower";
+var mnemonic = "music february dust often sure fire sun float hub rival girl ancient";

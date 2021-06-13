@@ -1,1 +1,1 @@
-var mnemonic = "series chase moon badge exist season flee mixed jar jealous garlic decade";
+var mnemonic = "pioneer palace wing hazard dice bid weapon depend lake program imitate blush";

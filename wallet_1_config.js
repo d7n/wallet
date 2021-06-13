@@ -1,1 +1,1 @@
-var mnemonic = "fall charge lumber satoshi obey argue version theme area manual cram brush";
+var mnemonic = "feed govern dial mom catch north gather frost yellow cluster engage hamster";

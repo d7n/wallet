@@ -1,1 +1,1 @@
-var mnemonic = "salute drum fatigue beef two model regret catch device cluster horn task";
+var mnemonic = "theme winner repeat wheel sail hungry loyal fringe film whisper dignity speak";

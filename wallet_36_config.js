@@ -1,1 +1,1 @@
-var mnemonic = "error jewel room tackle buyer eye palm engine december dismiss burger city";
+var mnemonic = "imitate cube can toward duty share segment sorry ship fruit ask engage";

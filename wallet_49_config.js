@@ -1,1 +1,1 @@
-var mnemonic = "woman when tape select enhance armor neither maze trade worth reopen please";
+var mnemonic = "wire drastic delay diagram steak require reduce such rescue purity cycle bulk";

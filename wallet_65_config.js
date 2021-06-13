@@ -1,1 +1,1 @@
-var mnemonic = "health silent ethics puppy crane kitchen odor battle pen skirt false stairs";
+var mnemonic = "similar quality dawn ten order guard pigeon reward faculty indoor relief pencil";

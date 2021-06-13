@@ -1,1 +1,1 @@
-var mnemonic = "health rent physical flip neither pool pink finish smooth strong account jaguar";
+var mnemonic = "trust weasel once install nerve kid sing monkey rule push manage absent";

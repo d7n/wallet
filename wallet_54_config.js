@@ -1,1 +1,1 @@
-var mnemonic = "robust dinner airport chapter tennis test skill feature pioneer expect all surround";
+var mnemonic = "awful kiwi expand earth file erosion talk own pyramid beef drill night";

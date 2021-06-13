@@ -1,1 +1,1 @@
-var mnemonic = "mutual kind allow smooth lake hobby exile calm holiday fiscal horror calm";
+var mnemonic = "alien fiction link left boy season cart village mesh trap hidden hour";

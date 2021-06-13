@@ -1,1 +1,1 @@
-var mnemonic = "thank pilot spawn clump become october rescue crucial course drama apology tonight";
+var mnemonic = "into island soon desk snap fog sudden turtle ribbon alcohol father news";

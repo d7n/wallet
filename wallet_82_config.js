@@ -1,1 +1,1 @@
-var mnemonic = "punch ignore spring inform unknown catalog salon gaze proof mixed brisk subway";
+var mnemonic = "ask remain aisle off process forward brave drop march magic faint correct";

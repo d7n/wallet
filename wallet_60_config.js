@@ -1,1 +1,1 @@
-var mnemonic = "accuse walk derive evil climb time blossom adapt have remain humble flush";
+var mnemonic = "tortoise fatal oxygen movie next purchase joke vacuum dice service village update";

@@ -1,1 +1,1 @@
-var mnemonic = "timber menu advance thank shaft country taste normal select myth pen habit";
+var mnemonic = "chat annual patient upon return reunion venture radar crush ethics exact during";

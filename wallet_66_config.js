@@ -1,1 +1,1 @@
-var mnemonic = "fan seat vocal exercise stem mixed rookie wall thumb thumb flame skill";
+var mnemonic = "claw grief guilt yard secret theme another raise seed peasant credit reduce";

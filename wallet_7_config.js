@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon aerobic outside elegant antique silent drive weather weather clerk adult oxygen";
+var mnemonic = "casual define stool dentist toilet fresh paddle food inner need point afford";

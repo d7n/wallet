@@ -1,1 +1,1 @@
-var mnemonic = "bind clay novel cement wild casual quote genius purse cheese enroll august";
+var mnemonic = "valve initial arrest notable approve planet angry polar cluster gossip wreck acoustic";

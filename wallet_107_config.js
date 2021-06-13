@@ -1,1 +1,1 @@
-var mnemonic = "reopen local jump banner erase chest manage tell cage twice hat demand";
+var mnemonic = "sample gaze ask genuine cactus excite nerve size slot ordinary celery tobacco";

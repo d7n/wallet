@@ -1,1 +1,1 @@
-var mnemonic = "grid veteran person garlic cave swap kid solid stage token because year";
+var mnemonic = "loop tank empower oblige tape small simple tunnel rapid antenna seminar demise";

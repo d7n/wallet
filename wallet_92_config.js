@@ -1,1 +1,1 @@
-var mnemonic = "much immune fury collect stick above raw air town broccoli eternal skull";
+var mnemonic = "fresh chef arrive joke celery example hold solar develop moon ski gap";

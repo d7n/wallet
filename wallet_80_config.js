@@ -1,1 +1,1 @@
-var mnemonic = "trim bird divorce holiday basic shift typical enjoy reflect leisure quick champion";
+var mnemonic = "below unfold usage purpose render smart head erosion concert width useful album";

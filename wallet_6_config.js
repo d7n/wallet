@@ -1,1 +1,1 @@
-var mnemonic = "indicate cover visual vacuum dry style guard width liberty what fortune sketch";
+var mnemonic = "bullet wear joke cute resist unlock must game forward theory scale spice";

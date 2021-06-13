@@ -1,1 +1,1 @@
-var mnemonic = "balance feel wink wage inspire impact polar coral milk impose school aerobic";
+var mnemonic = "disagree glass start two artefact piano erase easy chaos elephant picnic stadium";

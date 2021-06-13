@@ -1,1 +1,1 @@
-var mnemonic = "type tuition trim lab fork property umbrella stomach hint absent mountain short";
+var mnemonic = "art october drift vacant soda flavor asthma boat lonely bachelor priority weasel";

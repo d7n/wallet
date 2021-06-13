@@ -1,1 +1,1 @@
-var mnemonic = "harvest runway badge success play dynamic captain royal eternal dragon ozone phrase";
+var mnemonic = "sentence panther original betray park member attract hair vessel wrap spread endless";

@@ -1,1 +1,1 @@
-var mnemonic = "travel length decline office thought moment hard legend body same assault toss";
+var mnemonic = "harvest uncover bicycle bleak outside what auto around turkey order laptop memory";

@@ -1,1 +1,1 @@
-var mnemonic = "fat census infant bird erupt immense sponsor surround save slim divorce suit";
+var mnemonic = "sail sustain bundle scare egg oval solar culture copper collect bottom vacant";

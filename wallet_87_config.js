@@ -1,1 +1,1 @@
-var mnemonic = "hold fancy foster alpha canal creek owner theory dove flight child birth";
+var mnemonic = "desert love warm copy want sad manual brief blue pledge burden science";

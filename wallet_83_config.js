@@ -1,1 +1,1 @@
-var mnemonic = "pledge length mask giraffe diet august address three humor trap service shrug";
+var mnemonic = "quantum rookie lock mind toward capable evolve outdoor soda mobile rifle clog";

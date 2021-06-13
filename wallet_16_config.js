@@ -1,1 +1,1 @@
-var mnemonic = "twenty orient trim purpose mad excess cargo tackle spring celery bread crumble";
+var mnemonic = "chronic source job winner machine eager symbol swift pitch gold twenty train";

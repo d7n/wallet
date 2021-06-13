@@ -1,1 +1,1 @@
-var mnemonic = "avocado glance debate balance pill renew taxi athlete advice puppy august tone";
+var mnemonic = "desk curtain category patient carpet about disorder gloom spell digital adjust huge";

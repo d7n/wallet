@@ -1,1 +1,1 @@
-var mnemonic = "state manage extend crisp inform album shy lawn palace audit fan east";
+var mnemonic = "dune tobacco ahead sense company donkey cute priority extra option fit horror";

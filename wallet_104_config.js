@@ -1,1 +1,1 @@
-var mnemonic = "stairs powder series blade solution benefit lawn glide ability floor intact ask";
+var mnemonic = "slab illness excess pyramid announce absorb trick night step ready pluck donate";

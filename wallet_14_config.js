@@ -1,1 +1,1 @@
-var mnemonic = "grit nature pepper inquiry issue foam domain melt giraffe rack cancel trick";
+var mnemonic = "prevent resource tissue charge company life carry voyage wrap foil jacket market";

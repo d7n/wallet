@@ -1,1 +1,1 @@
-var mnemonic = "pledge inform science stock door party panther harvest vicious rebuild daughter trend";
+var mnemonic = "defy nice hybrid charge invest brown green vote awesome recycle else science";

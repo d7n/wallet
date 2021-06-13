@@ -1,1 +1,1 @@
-var mnemonic = "market differ worry network confirm quiz snack organ ugly load fee furnace";
+var mnemonic = "okay entire canal hair blanket matrix grant little bag upset stomach language";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce hurry brick nest still add admit ancient vote order cost glare";
+var mnemonic = "celery prevent planet guilt physical exist obscure put maple aerobic clever rack";

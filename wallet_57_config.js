@@ -1,1 +1,1 @@
-var mnemonic = "ranch inch raise nest tooth rib scrap sport candy worth dry bunker";
+var mnemonic = "promote potato genuine knock analyst hockey flash team beyond ridge blush torch";

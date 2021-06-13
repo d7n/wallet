@@ -1,1 +1,1 @@
-var mnemonic = "tank coconut tool climb latin bicycle false cradle shoot anxiety basic clap";
+var mnemonic = "cheap write alter siege lamp path zoo since bar strategy risk shield";

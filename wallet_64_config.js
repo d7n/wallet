@@ -1,1 +1,1 @@
-var mnemonic = "wall hour reform minute cinnamon fiscal guard fury quality buffalo kingdom flavor";
+var mnemonic = "poem banner peace grab spot nasty steak vast jaguar cook smart inject";

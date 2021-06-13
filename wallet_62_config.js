@@ -1,1 +1,1 @@
-var mnemonic = "patrol pipe crater envelope define volume priority update village exotic mercy audit";
+var mnemonic = "modify meat youth impact humor poet over poem awful virus symbol pelican";

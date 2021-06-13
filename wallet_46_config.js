@@ -1,1 +1,1 @@
-var mnemonic = "junk habit prepare state pumpkin awesome special program drink glide discover loop";
+var mnemonic = "thought fire follow angry print couch myself upset room excuse artist sentence";

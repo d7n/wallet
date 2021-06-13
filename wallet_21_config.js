@@ -1,1 +1,1 @@
-var mnemonic = "stamp plate prepare high cheese electric fence stable arrive rookie code swallow";
+var mnemonic = "economy orphan they woman cotton meat fee sugar patient security safe vacuum";

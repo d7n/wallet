@@ -1,1 +1,1 @@
-var mnemonic = "keep stove virus december master debate nominee attitude air crash illegal sphere";
+var mnemonic = "false sock skirt robust hen mother brain neglect beyond unhappy drive saddle";
