@@ -1,1 +1,1 @@
-var mnemonic = "phrase acquire worry warfare spawn private rural actress anger moral regret panel";
+var mnemonic = "capital sheriff hobby illegal decrease curve shock broom wage banner enrich install";

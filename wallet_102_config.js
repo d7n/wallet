@@ -1,1 +1,1 @@
-var mnemonic = "raise accuse offer aspect invite clip hole venue slide number divert region";
+var mnemonic = "spoil advance impulse resist cotton expose allow stamp fan craft decade umbrella";

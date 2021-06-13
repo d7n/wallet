@@ -1,1 +1,1 @@
-var mnemonic = "excuse adapt panel then chunk lucky daughter pencil adapt airport fitness claim";
+var mnemonic = "warm wrist refuse ill jaguar supply favorite brother common bone broom liar";

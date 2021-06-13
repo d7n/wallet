@@ -1,1 +1,1 @@
-var mnemonic = "rookie vapor alley apart reunion wagon juice afford more gravity spike acoustic";
+var mnemonic = "fortune all pause isolate parrot cup destroy open enact dilemma seven human";

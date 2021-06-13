@@ -1,1 +1,1 @@
-var mnemonic = "dwarf craft alarm patient will breeze note taxi priority clinic flip crisp";
+var mnemonic = "capable dwarf refuse fog again bracket toddler beach swear title general minute";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery spread spider focus great pretty skirt index gift limb nation broken";
+var mnemonic = "umbrella latin fiber brick nephew advance wedding romance leg page ritual rival";

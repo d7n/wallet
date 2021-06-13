@@ -1,1 +1,1 @@
-var mnemonic = "idea obey just movie high total security tag people immense escape juice";
+var mnemonic = "february dice lunch trim chair culture desk shy license grab advice dry";

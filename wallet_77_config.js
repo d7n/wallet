@@ -1,1 +1,1 @@
-var mnemonic = "rhythm output option powder shallow crouch upper pipe scale crush assist assault";
+var mnemonic = "neither general inside coast sword science agent item lecture burst tornado female";

@@ -1,1 +1,1 @@
-var mnemonic = "math secret dynamic sail aunt best size rib duty catch cake tower";
+var mnemonic = "wish actress net access safe romance couch vault section harbor where symptom";

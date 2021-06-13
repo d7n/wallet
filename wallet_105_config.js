@@ -1,1 +1,1 @@
-var mnemonic = "forget income custom convince change manual hill monkey choice lawsuit laptop issue";
+var mnemonic = "sponsor because quit provide near web artwork vague rug distance matrix live";

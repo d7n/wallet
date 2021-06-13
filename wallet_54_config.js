@@ -1,1 +1,1 @@
-var mnemonic = "media hammer sock innocent lyrics pole fee river unfair brick budget science";
+var mnemonic = "dawn use warfare robust divide recipe indicate come inherit verify retreat video";

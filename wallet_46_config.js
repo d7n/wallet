@@ -1,1 +1,1 @@
-var mnemonic = "stamp chuckle across elevator fringe icon grain frequent report favorite discover sleep";
+var mnemonic = "object garage certain snap clever tell divert desert valve method major album";

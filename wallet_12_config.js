@@ -1,1 +1,1 @@
-var mnemonic = "slam shoulder civil fly mom claw help opinion faith wheat inspire meat";
+var mnemonic = "royal increase write disease unique foam soda estate kingdom despair donate elite";

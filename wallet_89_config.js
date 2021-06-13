@@ -1,1 +1,1 @@
-var mnemonic = "bundle injury accuse clarify drum normal corn crane crunch opinion bomb garden";
+var mnemonic = "cycle salt tired chest home there grunt annual pluck idle wonder explain";

@@ -1,1 +1,1 @@
-var mnemonic = "car slogan trade modify pelican trend just style ancient boil pear arctic";
+var mnemonic = "muffin garbage race walnut night broccoli charge great clap sell globe island";

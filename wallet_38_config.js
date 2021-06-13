@@ -1,1 +1,1 @@
-var mnemonic = "move scrub abuse strategy rigid reform morning chimney fire obscure grow exit";
+var mnemonic = "novel tragic empty frequent unhappy drip race drama cabin exotic elephant analyst";

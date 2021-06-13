@@ -1,1 +1,1 @@
-var mnemonic = "need velvet seminar west jar sort devote chronic daughter muscle walk cover";
+var mnemonic = "awake grid armor cement clump slight festival hawk wheat join cheap under";

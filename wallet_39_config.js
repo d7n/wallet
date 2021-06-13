@@ -1,1 +1,1 @@
-var mnemonic = "sugar vital ivory limit faculty into betray sheriff latin paper august sausage";
+var mnemonic = "gain youth arrive achieve shell load cage lemon say tissue rhythm alley";

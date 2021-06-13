@@ -1,1 +1,1 @@
-var mnemonic = "south caution tent exile uniform fence chair digital equal paddle blade humor";
+var mnemonic = "wise tired grief banana hire sunny opera require increase movie stove trim";

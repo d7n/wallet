@@ -1,1 +1,1 @@
-var mnemonic = "pig chunk snap inhale season sure beyond arctic detect bottom tennis peace";
+var mnemonic = "inflict calm reopen laundry purchase purpose age world spread float mercy unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "replace erosion ability timber divert hole fragile arm major effort letter certain";
+var mnemonic = "lazy tragic energy faint label spin park nut balcony source box exile";

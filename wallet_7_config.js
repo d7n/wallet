@@ -1,1 +1,1 @@
-var mnemonic = "boy scissors tower enable upset disagree afraid rose candy style inherit gauge";
+var mnemonic = "suffer message ask knock orphan swear pear harsh order favorite forest diary";

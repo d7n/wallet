@@ -1,1 +1,1 @@
-var mnemonic = "airport trigger joke april kite boy swift gallery farm capable title medal";
+var mnemonic = "carry ship pilot air hope story course mutual tiger height donate erode";

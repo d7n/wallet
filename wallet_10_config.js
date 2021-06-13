@@ -1,1 +1,1 @@
-var mnemonic = "enjoy funny vintage silly view seven wasp robust angry gasp pass juice";
+var mnemonic = "open stove advice wisdom hedgehog dance side second turkey yellow sail hedgehog";

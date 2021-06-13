@@ -1,1 +1,1 @@
-var mnemonic = "squirrel kite trial clay act nose drip goat captain fade record endorse";
+var mnemonic = "artist unfair once maid grunt enlist captain second gold fault small reward";

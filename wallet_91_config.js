@@ -1,1 +1,1 @@
-var mnemonic = "august ugly prize illegal inflict indoor hint private nation achieve amazing thought";
+var mnemonic = "dinosaur snow shoot feel sweet number sure nose relief farm umbrella crop";

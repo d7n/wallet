@@ -1,1 +1,1 @@
-var mnemonic = "shuffle reason nothing segment pluck sphere actual chicken gift since cash zoo";
+var mnemonic = "tennis lend sick filter lawn pizza evoke engage panic sound proof athlete";

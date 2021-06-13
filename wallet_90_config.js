@@ -1,1 +1,1 @@
-var mnemonic = "right ginger question pulp magnet immune deposit day rural category cram during";
+var mnemonic = "tell spoon ahead sting degree memory lawsuit alien hub innocent tortoise rate";

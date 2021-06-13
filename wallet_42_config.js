@@ -1,1 +1,1 @@
-var mnemonic = "electric vanish replace word ignore sauce mushroom three else price virtual forward";
+var mnemonic = "error infant tone buddy detail nominee card drive ticket shell process rate";

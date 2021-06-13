@@ -1,1 +1,1 @@
-var mnemonic = "broom decade question usual wrong result rebel oven relax raven enrich length";
+var mnemonic = "junk plate labor supreme sell chair bus purse action woman gossip dismiss";

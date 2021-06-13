@@ -1,1 +1,1 @@
-var mnemonic = "earth sample funny floor room alarm upset extend slogan aisle avoid keen";
+var mnemonic = "uncover lava verify wheat sock empty snake trip upset found eager chunk";

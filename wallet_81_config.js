@@ -1,1 +1,1 @@
-var mnemonic = "shiver mask candy large snack solution volume shine flush piano trouble tide";
+var mnemonic = "wrap claw fun crane office duty pulse master behave beauty wave rifle";

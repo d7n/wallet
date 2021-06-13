@@ -1,1 +1,1 @@
-var mnemonic = "observe drop width tube march narrow suit letter famous away assist deposit";
+var mnemonic = "outer champion time minor robust resource glory obtain toward icon peanut that";

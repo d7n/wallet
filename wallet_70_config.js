@@ -1,1 +1,1 @@
-var mnemonic = "defense gown vehicle find whip pause absent garbage find toy script force";
+var mnemonic = "chef satisfy shiver recycle tumble vacant armor list bright upgrade repeat acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "habit allow inquiry catch place wear round minute material potato lock gauge";
+var mnemonic = "burger uncover similar gold gate injury debate eyebrow furnace north vivid exercise";

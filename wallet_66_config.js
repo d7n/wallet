@@ -1,1 +1,1 @@
-var mnemonic = "indoor start fuel census update bleak acoustic sell tenant laptop height blade";
+var mnemonic = "include smooth define sick choice elephant shell stumble snack snack rain frost";

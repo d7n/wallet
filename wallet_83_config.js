@@ -1,1 +1,1 @@
-var mnemonic = "diagram pony become tail bean oval magnet argue around remind until lend";
+var mnemonic = "curtain plate crisp blood marriage bacon sentence regret ankle power cute slush";

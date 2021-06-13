@@ -1,1 +1,1 @@
-var mnemonic = "citizen teach enjoy glimpse casual mechanic script pupil material bomb swarm valve";
+var mnemonic = "corn royal fun clap loud blame pact bamboo pupil bicycle stone quiz";

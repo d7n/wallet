@@ -1,1 +1,1 @@
-var mnemonic = "clarify describe suspect alpha twice reason fossil chest display issue civil garden";
+var mnemonic = "length foster journey gather asthma goat coast humble captain various heavy harvest";

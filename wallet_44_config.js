@@ -1,1 +1,1 @@
-var mnemonic = "fragile rural near during advance orphan near van marble outdoor saddle track";
+var mnemonic = "lobster tackle reflect bulk victory pencil invite tired category rail used sudden";

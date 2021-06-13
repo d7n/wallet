@@ -1,1 +1,1 @@
-var mnemonic = "bachelor tree nephew chronic harbor wreck thunder vintage lemon cake pumpkin chimney";
+var mnemonic = "crack mirror below pony carbon march polar tunnel mind crawl twenty furnace";

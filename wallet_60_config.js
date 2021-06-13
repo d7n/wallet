@@ -1,1 +1,1 @@
-var mnemonic = "layer can fluid afford major indicate choice able bread nice vessel fly";
+var mnemonic = "clock cluster foster sentence jacket return clever piano another license cinnamon tragic";

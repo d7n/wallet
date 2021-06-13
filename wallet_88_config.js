@@ -1,1 +1,1 @@
-var mnemonic = "hard rural mad benefit grid cross add jacket what grow one film";
+var mnemonic = "token system upper sea flag shove infant empty palm under world cream";

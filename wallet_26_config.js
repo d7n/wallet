@@ -1,1 +1,1 @@
-var mnemonic = "author square apology trick balance moral midnight rebuild saddle attack domain glide";
+var mnemonic = "rib arrest box neither write seed brief victory swap move spoil spawn";

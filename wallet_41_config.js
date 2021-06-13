@@ -1,1 +1,1 @@
-var mnemonic = "twist foot disease initial guide cube actor immune urban huge stomach lunar";
+var mnemonic = "cool rigid asset hurdle stereo fix oval arrow warrior reunion swim budget";

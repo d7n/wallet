@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin soccer collect remember learn column hand pet before scheme wolf attend";
+var mnemonic = "equip wing reunion toy all payment position nut glide aware calm milk";

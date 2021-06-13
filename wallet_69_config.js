@@ -1,1 +1,1 @@
-var mnemonic = "circle asthma grant canal skull frozen cheese unique bird silly impulse animal";
+var mnemonic = "inquiry accident bargain pulp poverty bean legal adult toward true gaze service";

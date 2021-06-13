@@ -1,1 +1,1 @@
-var mnemonic = "ridge ketchup crane flame arrest stock north shrug sniff trim soap suspect";
+var mnemonic = "payment bag grass question huge birth pencil side destroy crucial drip slide";

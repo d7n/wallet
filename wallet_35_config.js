@@ -1,1 +1,1 @@
-var mnemonic = "various exit basket soup describe what confirm meat bone click fade subject";
+var mnemonic = "parade laugh tragic pill detect typical share nasty spare they device juice";

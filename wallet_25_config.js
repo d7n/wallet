@@ -1,1 +1,1 @@
-var mnemonic = "figure brief often exhaust little note city panel inform win carbon orange";
+var mnemonic = "can approve soap witness cancel crowd garden able wall monkey antenna elite";

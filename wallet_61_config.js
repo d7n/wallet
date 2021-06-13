@@ -1,1 +1,1 @@
-var mnemonic = "own abstract dune erase crack retire live orphan filter brave label tomato";
+var mnemonic = "chronic gasp pumpkin angry erode lesson pull beauty two wine fame always";

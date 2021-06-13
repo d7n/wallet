@@ -1,1 +1,1 @@
-var mnemonic = "chapter shrug cheese buyer bus urge enjoy doctor improve order toddler party";
+var mnemonic = "scissors fiscal retreat medal magic hockey coconut garden risk spider right neglect";

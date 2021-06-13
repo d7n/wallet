@@ -1,1 +1,1 @@
-var mnemonic = "need response obtain barely letter water hidden salmon panic have praise tilt";
+var mnemonic = "dance forest inherit spatial feature lonely melt frequent violin theory mistake laugh";

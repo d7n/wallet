@@ -1,1 +1,1 @@
-var mnemonic = "option talk catch cave edit menu small elevator express rescue vacuum dog";
+var mnemonic = "depart trim attract dignity file blind radio inquiry recycle piece tomorrow soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "detail sketch ozone occur subject spray region glide punch style gaze exotic";
+var mnemonic = "boring sunny struggle discover false grape choice issue jump quality topic machine";

@@ -1,1 +1,1 @@
-var mnemonic = "exit brain unfold ranch select street speak survey dove top hawk salad";
+var mnemonic = "similar month clock horse green wire inform junk cricket base clap casino";

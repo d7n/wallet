@@ -1,1 +1,1 @@
-var mnemonic = "pond ghost version render breeze frozen furnace foster tortoise sunny retreat profit";
+var mnemonic = "siren quarter feature behave word task replace exchange tuna runway agent utility";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile any donor sustain divorce inhale coral large ugly brain infant crane";
+var mnemonic = "runway fade copper enjoy powder broken shoulder dish disorder insect eye sphere";

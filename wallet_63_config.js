@@ -1,1 +1,1 @@
-var mnemonic = "poem mutual hub aspect retire advance coast lock grant chair horror letter";
+var mnemonic = "speed title script across hungry youth blanket damage fiber series obscure enable";

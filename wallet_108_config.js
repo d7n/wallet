@@ -1,1 +1,1 @@
-var mnemonic = "remain denial video wreck miss embody vague flip cook hub deposit file";
+var mnemonic = "position lunar reveal panic yellow critic aware step random whisper autumn front";

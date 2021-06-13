@@ -1,1 +1,1 @@
-var mnemonic = "claw able learn since anxiety become novel nest egg strike resemble proud";
+var mnemonic = "talk width web hip proud pitch wreck across slogan theme gadget hidden";

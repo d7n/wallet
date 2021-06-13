@@ -1,1 +1,1 @@
-var mnemonic = "opinion remember keep bronze hour bone unlock scare jazz cave actor calm";
+var mnemonic = "puzzle impose rifle panda border merge bone come calm frog spoil shine";

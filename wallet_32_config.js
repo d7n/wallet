@@ -1,1 +1,1 @@
-var mnemonic = "satisfy decrease danger regret approve bird whip donate immense usage level pear";
+var mnemonic = "boat water bulb lady bonus pen comfort address then high slab witness";

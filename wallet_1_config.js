@@ -1,1 +1,1 @@
-var mnemonic = "unknown mountain siege alone moral state inform dentist bunker license leaf adult";
+var mnemonic = "dream father heavy profit zone garden mule same net valid rocket dizzy";

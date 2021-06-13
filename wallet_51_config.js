@@ -1,1 +1,1 @@
-var mnemonic = "tip company pattern famous goddess describe ribbon paper bus embody egg table";
+var mnemonic = "fruit enforce tone glow taste cannon struggle clown bind release viable column";

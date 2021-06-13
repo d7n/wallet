@@ -1,1 +1,1 @@
-var mnemonic = "donor chase roast pilot uncle voyage nerve rely enrich always valve rich";
+var mnemonic = "spoil emerge super motion autumn child model all uphold group kind flag";

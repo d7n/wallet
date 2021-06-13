@@ -1,1 +1,1 @@
-var mnemonic = "resist stomach feed north neglect peace tank reduce medal section car vintage";
+var mnemonic = "trial car thought guide critic visa jacket receive addict magic sand bacon";

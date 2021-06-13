@@ -1,1 +1,1 @@
-var mnemonic = "real license pony rib balance magnet phrase ski parade abuse base drill";
+var mnemonic = "sell visit lecture girl camera pride mushroom best depend next exclude holiday";

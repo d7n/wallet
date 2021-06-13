@@ -1,1 +1,1 @@
-var mnemonic = "bench gift curtain man exact canoe crew rug clip mango script scan";
+var mnemonic = "marine gym brief alien luxury video amazing crane decide divorce act kick";

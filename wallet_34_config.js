@@ -1,1 +1,1 @@
-var mnemonic = "tonight hub educate joy advice cry detail pupil burst endorse hollow dinosaur";
+var mnemonic = "soul amused spirit fantasy panel neutral shrimp coach oven great ladder gas";

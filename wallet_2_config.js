@@ -1,1 +1,1 @@
-var mnemonic = "tree lady copy style jewel february giggle bounce reunion monitor goat pair";
+var mnemonic = "quick offer float rescue thrive welcome mouse perfect room place funny wave";

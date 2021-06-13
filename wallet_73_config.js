@@ -1,1 +1,1 @@
-var mnemonic = "mail army ill glory exotic target guilt unfair jewel dream crawl book";
+var mnemonic = "daring corn glue live kitchen holiday thank inhale woman once ghost hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel exhibit sugar pig square size ranch hamster same outside cram unfold";
+var mnemonic = "blood voice slab unit shrug pelican pelican horse tell island trophy target";

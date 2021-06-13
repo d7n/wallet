@@ -1,1 +1,1 @@
-var mnemonic = "second come spin help nothing version window extend car crisp oppose slow";
+var mnemonic = "melt off text wool spatial rack people spring inquiry gossip vapor destroy";

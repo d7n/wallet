@@ -1,1 +1,1 @@
-var mnemonic = "entry tag core blossom host faint nice uniform burst glare latin morning";
+var mnemonic = "gauge popular legal sauce brand elegant rookie hospital awful dentist work balcony";

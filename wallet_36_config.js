@@ -1,1 +1,1 @@
-var mnemonic = "element involve fruit trend journey river video boy effort army pill toss";
+var mnemonic = "front move process security dad gauge exercise cart woman borrow vivid jeans";

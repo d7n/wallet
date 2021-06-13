@@ -1,1 +1,1 @@
-var mnemonic = "tray foil jazz drum table gun scare parade vicious pigeon east join";
+var mnemonic = "satoshi across say office film guitar catch curve first twist chef have";

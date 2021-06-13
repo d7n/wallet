@@ -1,1 +1,1 @@
-var mnemonic = "wolf debris lamp merit panel female height advance crush morning pupil field";
+var mnemonic = "kiwi upon true carry employ exchange matrix dizzy slim position humble problem";

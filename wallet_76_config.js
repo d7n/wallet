@@ -1,1 +1,1 @@
-var mnemonic = "collect involve unfold raven face prosper slice pumpkin glimpse thumb ocean soap";
+var mnemonic = "food mix remind demand decrease sick design woman must flip rather boss";

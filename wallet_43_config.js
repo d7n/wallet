@@ -1,1 +1,1 @@
-var mnemonic = "taste enough shoot teach image cabbage hour digital maid man half village";
+var mnemonic = "gain solution heavy burger safe knife garlic peasant upper invest nation diagram";

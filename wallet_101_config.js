@@ -1,1 +1,1 @@
-var mnemonic = "position alert drip moment draw toddler bundle lemon loud flush behave palace";
+var mnemonic = "captain hollow west borrow sentence tree hedgehog sleep survey ignore until volcano";

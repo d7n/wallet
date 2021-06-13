@@ -1,1 +1,1 @@
-var mnemonic = "scan guitar scout detect outdoor corn flavor typical congress stand below spoil";
+var mnemonic = "alone long cost syrup gap town diagram salad praise nurse general before";

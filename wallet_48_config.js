@@ -1,1 +1,1 @@
-var mnemonic = "aware rival advance situate pond tip drill opera review crew divert satisfy";
+var mnemonic = "barely gossip indoor claw gorilla barrel piece invite casual loyal curve wrap";

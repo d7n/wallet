@@ -1,1 +1,1 @@
-var mnemonic = "try pole below pond reflect twenty fine taxi walk radio cliff security";
+var mnemonic = "advice water ugly vocal hire brick secret silk almost language buzz allow";

@@ -1,1 +1,1 @@
-var mnemonic = "industry stuff scrub tunnel gas expand lab asset surge uncle emotion yard";
+var mnemonic = "liberty ramp awesome skill grocery foil rather basket turn same endorse warm";

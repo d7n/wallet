@@ -1,1 +1,1 @@
-var mnemonic = "coral design payment skull voyage term toy asset excite venue quantum cross";
+var mnemonic = "age stuff crucial balcony squirrel word giraffe cluster access ritual snake scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "museum shield stable diary lizard oxygen trim urge outdoor curve process inform";
+var mnemonic = "suggest nasty type coast section wisdom library ability fun shove endorse picture";

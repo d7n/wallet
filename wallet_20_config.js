@@ -1,1 +1,1 @@
-var mnemonic = "explain rare forget dragon one target island upon era pet yard ship";
+var mnemonic = "fragile huge mobile large renew visa biology joke music wish client engage";

@@ -1,1 +1,1 @@
-var mnemonic = "like pudding long place piece protect mango notable prefer uncle demand flag";
+var mnemonic = "vessel glove hill over echo subway mystery poverty oak regular august resemble";

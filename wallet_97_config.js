@@ -1,1 +1,1 @@
-var mnemonic = "radio drama gown twelve action team cost lunch oval mother guilt cause";
+var mnemonic = "beyond charge input picture almost cannon clog universe toast liar distance refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot glory alcohol motor soul head lava item jar napkin fever pave";
+var mnemonic = "clever sketch pigeon fiction arena model adult dish exotic advance brief question";

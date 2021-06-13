@@ -1,1 +1,1 @@
-var mnemonic = "brick bronze critic unable around network frozen between pledge staff salt bamboo";
+var mnemonic = "visa swim cute amazing tray hat wrap fog rifle idle laundry hurry";

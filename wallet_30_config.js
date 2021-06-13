@@ -1,1 +1,1 @@
-var mnemonic = "scatter object ostrich fresh north garage anchor alarm vast reform engage skin";
+var mnemonic = "ostrich awake either degree cake maid tennis they salute just ugly bracket";
