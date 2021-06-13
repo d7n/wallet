@@ -1,1 +1,1 @@
-var mnemonic = "endless random hawk derive vessel carbon blind lounge opera comic gauge anxiety";
+var mnemonic = "toddler road toy crawl project toward over visa jewel devote bag traffic";

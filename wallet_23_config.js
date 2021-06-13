@@ -1,1 +1,1 @@
-var mnemonic = "believe harsh quit payment soon goose print spawn silent believe observe pyramid";
+var mnemonic = "flash finish sort castle casual retreat render thing mesh initial wreck deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "require crouch moral shield river black garden dumb blanket brain quality sword";
+var mnemonic = "issue among true phrase praise stuff travel gauge puzzle local office vessel";

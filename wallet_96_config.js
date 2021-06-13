@@ -1,1 +1,1 @@
-var mnemonic = "walnut expect wide bounce tenant century goose retreat battle eight tag utility";
+var mnemonic = "season mixed athlete peanut autumn enforce region mushroom mansion novel property sorry";

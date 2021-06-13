@@ -1,1 +1,1 @@
-var mnemonic = "sure opinion universe web creek drama brief monster average discover daughter slice";
+var mnemonic = "april place naive cherry twelve raven arrive hub romance museum gossip master";

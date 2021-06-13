@@ -1,1 +1,1 @@
-var mnemonic = "upper put wood can fatigue switch maid evidence wet tenant spend doll";
+var mnemonic = "degree city ivory load artefact kitten light survey sign safe depart picture";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans ankle small orient mom turn foot fan barely theory small skate";
+var mnemonic = "grant wage open wait symbol blur initial differ soccer wage someone between";

@@ -1,1 +1,1 @@
-var mnemonic = "below fresh much enemy crack cereal relax destroy cover scout before milk";
+var mnemonic = "mixture movie boring bronze issue lunar then brush robust affair phrase top";

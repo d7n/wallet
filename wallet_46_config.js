@@ -1,1 +1,1 @@
-var mnemonic = "glory profit umbrella seek harbor rapid program deputy robot square cheap unit";
+var mnemonic = "home case erosion fall boil option estate kitten jewel absent tag will";

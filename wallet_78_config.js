@@ -1,1 +1,1 @@
-var mnemonic = "dress like old secret claw auction machine purity injury jump detail absent";
+var mnemonic = "custom seven struggle march transfer swarm jacket apology pitch science rain toss";

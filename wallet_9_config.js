@@ -1,1 +1,1 @@
-var mnemonic = "chunk segment senior chicken rude settle stereo rabbit draft gorilla inch fee";
+var mnemonic = "shadow clown tortoise piano outdoor fatal invest zebra supply round lab meat";

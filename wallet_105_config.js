@@ -1,1 +1,1 @@
-var mnemonic = "milk motor pumpkin sure museum put world remain immune laugh pluck crop";
+var mnemonic = "lens outside away sad citizen mimic various above frequent clock cup clip";

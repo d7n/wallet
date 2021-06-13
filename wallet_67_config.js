@@ -1,1 +1,1 @@
-var mnemonic = "jewel strategy sorry action ill load project gate small inquiry flip culture";
+var mnemonic = "hybrid nature cruel stereo blame biology grace kind coffee upper burst unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "oil fringe clutch satoshi melt slice dish day decide scheme cloth before";
+var mnemonic = "jealous flush eternal drum victory imitate bounce hard quit fragile machine often";

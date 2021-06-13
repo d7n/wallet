@@ -1,1 +1,1 @@
-var mnemonic = "lunch rigid myth fatal emotion alert roof answer city ordinary scare toilet";
+var mnemonic = "deal scrap fish hazard control fitness grab grit face also strike bright";

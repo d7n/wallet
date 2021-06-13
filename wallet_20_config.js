@@ -1,1 +1,1 @@
-var mnemonic = "crystal juice fortune funny bring knife alert broom ship lend jelly order";
+var mnemonic = "jump argue royal enroll thunder trumpet volume lift tail usage broccoli connect";

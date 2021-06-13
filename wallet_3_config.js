@@ -1,1 +1,1 @@
-var mnemonic = "wife arrest network guide hamster finish maid boat custom friend dirt ribbon";
+var mnemonic = "volcano knife airport burden change assault pelican kitten blade leisure pyramid alone";

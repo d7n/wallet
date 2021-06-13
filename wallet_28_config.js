@@ -1,1 +1,1 @@
-var mnemonic = "sun replace merry vacant west cradle anchor firm family wagon kit when";
+var mnemonic = "torch guess visa fox age radar anger hard order depend permit thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "gate ecology person emerge token runway utility rabbit warfare judge slam kid";
+var mnemonic = "reunion afraid circle erode journey banana umbrella pretty rapid income view shell";

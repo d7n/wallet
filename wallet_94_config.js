@@ -1,1 +1,1 @@
-var mnemonic = "phone erase elephant voice reward garage suit echo boy then leaf skull";
+var mnemonic = "anger luxury slim finish depart crisp thought student gloom dress dog ramp";

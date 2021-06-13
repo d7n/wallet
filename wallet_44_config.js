@@ -1,1 +1,1 @@
-var mnemonic = "immense glove island rotate test scale shed please lamp edit program dawn";
+var mnemonic = "same talk order educate rotate endorse dove fresh permit horn biology broken";

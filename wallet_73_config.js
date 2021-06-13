@@ -1,1 +1,1 @@
-var mnemonic = "speed maximum recipe loud claw mosquito filter cart elevator ticket daring pave";
+var mnemonic = "glory remain bean skull flag inmate cherry silent stable neck tiger ribbon";

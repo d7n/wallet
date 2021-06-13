@@ -1,1 +1,1 @@
-var mnemonic = "manual trouble burst rapid obvious table peasant junior grain pink inspire range";
+var mnemonic = "unique surround journey drum basic credit resist blast hedgehog morning fee tent";

@@ -1,1 +1,1 @@
-var mnemonic = "flat curious marine cool veteran risk recipe spy hurry erosion inherit honey";
+var mnemonic = "spoon rabbit tribe artwork cargo talk logic anger stool casino scout theory";

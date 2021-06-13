@@ -1,1 +1,1 @@
-var mnemonic = "beef child fine only across junk canvas quote acoustic silver plate anxiety";
+var mnemonic = "net ladder there sign hedgehog cost subject fix armed coil struggle plunge";

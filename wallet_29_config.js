@@ -1,1 +1,1 @@
-var mnemonic = "cart hurt crumble picture uphold gaze struggle pause simple floor air mushroom";
+var mnemonic = "alien ring soft rhythm eight patrol away aerobic mind roof fog kick";

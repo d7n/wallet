@@ -1,1 +1,1 @@
-var mnemonic = "worth gold donkey curtain topple moral inmate little catch pull never immune";
+var mnemonic = "student visit wagon repair actor supreme boat salad aisle grass dilemma unfold";

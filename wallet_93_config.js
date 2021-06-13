@@ -1,1 +1,1 @@
-var mnemonic = "staff salad kid behave elevator dress ghost length enjoy atom risk keep";
+var mnemonic = "obscure baby draft below save busy join unfair cruel try flush spy";

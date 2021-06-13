@@ -1,1 +1,1 @@
-var mnemonic = "edit slogan clean hockey lazy equip scan stone resist month drastic lottery";
+var mnemonic = "dove appear solar praise source ability put tool team one banana season";

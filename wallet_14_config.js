@@ -1,1 +1,1 @@
-var mnemonic = "one shallow angle borrow valve salon memory people vessel palace symbol guilt";
+var mnemonic = "cattle timber jacket squeeze coil peace own curtain reason treat good seat";

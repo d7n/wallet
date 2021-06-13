@@ -1,1 +1,1 @@
-var mnemonic = "elbow fatigue answer alert inspire airport sample climb shock school magnet magic";
+var mnemonic = "clay blur hand zero bronze arch mystery swamp elder pool news pitch";

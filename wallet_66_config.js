@@ -1,1 +1,1 @@
-var mnemonic = "color sleep auction patient quick purchase ready brown alien rapid magnet rail";
+var mnemonic = "traffic practice eye effort split tag swallow physical clever bulk very kitten";

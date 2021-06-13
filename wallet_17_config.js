@@ -1,1 +1,1 @@
-var mnemonic = "seven travel captain forum staff grape east only sail analyst mail sound";
+var mnemonic = "symptom mammal eyebrow cover ozone debris scheme blood normal visual run enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat van noble burden glory recall bomb sort initial mechanic kite brother";
+var mnemonic = "small nose stable eight junior weasel inmate bachelor rival calm outdoor already";

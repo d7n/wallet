@@ -1,1 +1,1 @@
-var mnemonic = "bonus produce video nasty want toy gasp camera anger volume save street";
+var mnemonic = "wise exact switch usage lottery boat fat try panel protect alarm hover";

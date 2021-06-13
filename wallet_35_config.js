@@ -1,1 +1,1 @@
-var mnemonic = "insane hungry primary unfair hedgehog better guide hobby rival defense interest grass";
+var mnemonic = "capital engage sick border pet nature orphan monitor sort asset narrow kiwi";

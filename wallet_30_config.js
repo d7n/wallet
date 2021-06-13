@@ -1,1 +1,1 @@
-var mnemonic = "life forum glide much hover worth limit vague fury decrease history march";
+var mnemonic = "project radar quick ketchup method ten enjoy equal fee burden honey member";

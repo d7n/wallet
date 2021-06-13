@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur analyst guard gate clown range perfect winner busy radio perfect hungry";
+var mnemonic = "nice pact grow soup token anchor chief dizzy injury embark enter slender";

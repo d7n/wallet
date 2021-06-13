@@ -1,1 +1,1 @@
-var mnemonic = "crunch hungry script silly sweet bubble tonight forward over unfair wine version";
+var mnemonic = "inch talent grape undo lens sick like range toilet crazy walk certain";

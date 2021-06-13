@@ -1,1 +1,1 @@
-var mnemonic = "addict order upon ensure clip flavor eager remove immune trigger approve visual";
+var mnemonic = "purse age aisle pluck duck bus couch subject diet vast brisk expose";

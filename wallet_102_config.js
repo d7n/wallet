@@ -1,1 +1,1 @@
-var mnemonic = "control swamp diagram tent boat float lumber nuclear height boy couple blouse";
+var mnemonic = "debate catalog scale uphold buzz tobacco cushion green good enlist rail movie";

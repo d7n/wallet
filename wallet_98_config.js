@@ -1,1 +1,1 @@
-var mnemonic = "token lucky elevator leave kiss front brand salute flight train repair sugar";
+var mnemonic = "jacket absurd fold market vote throw crew total room sleep unknown deliver";

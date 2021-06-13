@@ -1,1 +1,1 @@
-var mnemonic = "cousin scale twice group van yellow cargo limb humble brother mandate exhibit";
+var mnemonic = "oppose yard sight anchor cluster merit fire scare depart decide visual volcano";

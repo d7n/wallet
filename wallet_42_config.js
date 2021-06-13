@@ -1,1 +1,1 @@
-var mnemonic = "utility else audit quality direct combine pistol limit type control remind fashion";
+var mnemonic = "legend poet slow purse grow movie junior either best ten sponsor eternal";

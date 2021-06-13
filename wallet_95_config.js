@@ -1,1 +1,1 @@
-var mnemonic = "adjust hollow mean such blur trim chalk jacket tool zebra grain galaxy";
+var mnemonic = "very whisper orange bonus broken that cause okay warm food surge mixture";

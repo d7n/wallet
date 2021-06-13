@@ -1,1 +1,1 @@
-var mnemonic = "lecture document hedgehog loop fog liquid usual donate rigid mixture glass dry";
+var mnemonic = "pole lift educate bamboo inch early nuclear soldier hello pulp arrow action";

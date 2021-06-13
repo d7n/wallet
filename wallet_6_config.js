@@ -1,1 +1,1 @@
-var mnemonic = "cluster route nerve guide define mosquito lecture bring faculty indicate snake injury";
+var mnemonic = "inform man expect egg entire wear gather net company coach stumble spice";

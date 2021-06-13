@@ -1,1 +1,1 @@
-var mnemonic = "evil label start exile robot height defense nuclear swamp space ill guilt";
+var mnemonic = "ill bitter orient announce elegant nephew hazard half cause labor path solar";

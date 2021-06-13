@@ -1,1 +1,1 @@
-var mnemonic = "napkin list vicious wait message actual program hidden comic cool humor know";
+var mnemonic = "double come iron shove bleak scare evolve egg orbit wave glove frequent";

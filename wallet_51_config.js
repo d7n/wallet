@@ -1,1 +1,1 @@
-var mnemonic = "flip receive animal intact vacuum strike pipe where winner indicate speak wink";
+var mnemonic = "boss bright gym pole source mansion prepare old amused discover olive sad";

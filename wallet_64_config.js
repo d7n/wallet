@@ -1,1 +1,1 @@
-var mnemonic = "such duck split stage vanish humble derive cousin poem taste discover credit";
+var mnemonic = "industry blouse duty depth fringe danger hold welcome measure pumpkin logic shy";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk govern promote clay horror armor front chief cereal bind patrol upset";
+var mnemonic = "mail say fly gesture vacuum city today erosion express struggle robust enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel math truck destroy erase wet fortune time gaze wire head toss";
+var mnemonic = "ride flash funny inmate heart review average twist sunny humble patch badge";

@@ -1,1 +1,1 @@
-var mnemonic = "about husband royal notice island over street retreat travel option decade rather";
+var mnemonic = "loop behave glad surge potato scene silly clay float rough such novel";

@@ -1,1 +1,1 @@
-var mnemonic = "polar weasel wreck bullet point dose orchard denial job tilt acoustic food";
+var mnemonic = "reward report scissors real below skill bulk sick flip taxi climb crumble";

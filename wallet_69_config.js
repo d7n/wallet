@@ -1,1 +1,1 @@
-var mnemonic = "crime exhibit punch behind distance top seat shell swim luxury proof scan";
+var mnemonic = "perfect orient ship ring burden volume finger minimum box fever drop trick";

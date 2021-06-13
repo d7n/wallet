@@ -1,1 +1,1 @@
-var mnemonic = "drastic candy soap pause asthma budget wrap oyster guitar swift soap celery";
+var mnemonic = "decorate shrug ski behave argue relax syrup phrase please box remember menu";

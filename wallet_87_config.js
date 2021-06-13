@@ -1,1 +1,1 @@
-var mnemonic = "cricket antique proud nerve harsh visa debris invite rescue crunch reunion prefer";
+var mnemonic = "mother dynamic timber wage finger iron column mind cabbage man enemy antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "bus victory pool rapid tired tray problem must vault often cradle cigar";
+var mnemonic = "clog loan autumn hint middle bubble rough asthma claim alarm later void";

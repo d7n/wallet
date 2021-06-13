@@ -1,1 +1,1 @@
-var mnemonic = "soft exhibit ahead false ship inner keep acoustic allow radar raccoon chair";
+var mnemonic = "crowd screen business double insect tomorrow same blade olive become fox spring";

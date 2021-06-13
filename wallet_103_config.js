@@ -1,1 +1,1 @@
-var mnemonic = "leaf maple hello tape toward bone narrow giggle extra above pass amazing";
+var mnemonic = "meat room bone cute favorite seed menu right total employ drum frown";

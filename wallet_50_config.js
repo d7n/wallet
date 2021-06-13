@@ -1,1 +1,1 @@
-var mnemonic = "nephew laugh athlete account voyage cream occur fine search color demise kite";
+var mnemonic = "accident charge acquire assault yellow boat melt garden laundry ensure peasant outdoor";

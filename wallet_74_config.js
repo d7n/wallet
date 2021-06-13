@@ -1,1 +1,1 @@
-var mnemonic = "time execute pen wrestle drip minor cliff frame tree mandate ship mammal";
+var mnemonic = "shy rib peace wise birth hope silver motor ship upon sick coin";

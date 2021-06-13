@@ -1,1 +1,1 @@
-var mnemonic = "advance panther beauty journey tomato seek ski peanut ball wink observe spread";
+var mnemonic = "angle much elbow found universe output congress yellow jazz mail rice army";

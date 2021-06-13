@@ -1,1 +1,1 @@
-var mnemonic = "impact become absent term cry glance planet gun vapor slush economy layer";
+var mnemonic = "gauge follow desert hello april board summer frog smoke novel tunnel fade";

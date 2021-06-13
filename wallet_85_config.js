@@ -1,1 +1,1 @@
-var mnemonic = "project steel violin story orchard genuine output obey seven cruise jewel lava";
+var mnemonic = "divorce inherit shrug fire stadium smoke polar unfold oyster solid buzz south";

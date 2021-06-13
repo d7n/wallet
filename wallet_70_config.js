@@ -1,1 +1,1 @@
-var mnemonic = "wrap door busy flavor about sun trick cycle keen detail flock twin";
+var mnemonic = "dry during toward purchase either kiwi dragon impact timber planet chef rigid";

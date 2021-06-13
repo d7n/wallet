@@ -1,1 +1,1 @@
-var mnemonic = "skin cheese trim trigger garbage dose sweet private about invest annual dune";
+var mnemonic = "sauce eternal stand slush bicycle under margin floor possible canyon song blouse";

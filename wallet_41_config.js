@@ -1,1 +1,1 @@
-var mnemonic = "second fuel afraid clock response envelope final gold balance garment affair ten";
+var mnemonic = "almost reduce hard deliver pride drum unfold option city ghost alone abuse";

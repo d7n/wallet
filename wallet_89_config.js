@@ -1,1 +1,1 @@
-var mnemonic = "veteran october glare mansion top nominee monitor ordinary humble winner hat flee";
+var mnemonic = "symbol capable tomato spoil device early share salmon hero catch sunny quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "exit pear patch hundred embark antique process resist blouse divert truck aim";
+var mnemonic = "access illegal tiny card leopard outside end drum cream best lock sight";

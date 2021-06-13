@@ -1,1 +1,1 @@
-var mnemonic = "also position voice material alone outdoor sheriff cute photo story woman talk";
+var mnemonic = "foil genius rent session dolphin pass maximum hamster wine have butter cupboard";

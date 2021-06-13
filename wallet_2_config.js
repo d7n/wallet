@@ -1,1 +1,1 @@
-var mnemonic = "crater recipe merry angle sock enjoy gesture fine brush ramp exclude agent";
+var mnemonic = "dust matter drip empty mimic profit dizzy rely hundred suggest split fossil";

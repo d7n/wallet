@@ -1,1 +1,1 @@
-var mnemonic = "main wall love recycle chuckle hamster cactus bunker crisp good ceiling link";
+var mnemonic = "where broom master tonight alpha industry maze bus boss select company upper";

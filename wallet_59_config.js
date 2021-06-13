@@ -1,1 +1,1 @@
-var mnemonic = "weird lake fossil place rain best random drink someone chuckle decorate unusual";
+var mnemonic = "beauty boring sunset neglect author biology useful wheat casual switch river scatter";

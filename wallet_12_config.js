@@ -1,1 +1,1 @@
-var mnemonic = "repair boil split broccoli comfort violin saddle olive nut team airport denial";
+var mnemonic = "august share sting gold frequent midnight desert slice medal endorse obey tired";

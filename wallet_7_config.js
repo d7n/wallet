@@ -1,1 +1,1 @@
-var mnemonic = "animal dirt plastic inmate scissors clown zoo act mesh best use fog";
+var mnemonic = "glide layer surround biology fat theme reopen truly case lend position valid";

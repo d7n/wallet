@@ -1,1 +1,1 @@
-var mnemonic = "doctor track olive talent crane rescue later doll green eye purity gossip";
+var mnemonic = "sugar filter liar hope trust zoo calm chuckle guide dutch adjust glide";

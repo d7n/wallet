@@ -1,1 +1,1 @@
-var mnemonic = "box fence report inject love limb forest section afraid hotel morning swear";
+var mnemonic = "settle tragic shop distance lawsuit alert brief lift bleak glory staff path";

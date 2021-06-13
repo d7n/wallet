@@ -1,1 +1,1 @@
-var mnemonic = "nice approve harvest demand radio vault piece often antique menu post impulse";
+var mnemonic = "decline recall kangaroo industry inject unable view hover exhaust swear what distance";

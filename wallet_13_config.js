@@ -1,1 +1,1 @@
-var mnemonic = "enough liquid tuition pool strong world square sister poet wet north mystery";
+var mnemonic = "inquiry trigger usual pony sort strike admit helmet notice chair lecture arena";

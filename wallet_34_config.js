@@ -1,1 +1,1 @@
-var mnemonic = "strategy thumb basic fabric shield buzz window flock vibrant siren arrange accuse";
+var mnemonic = "guilt sudden sure online dose boat lend exhibit agent powder ankle eternal";

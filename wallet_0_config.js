@@ -1,1 +1,1 @@
-var mnemonic = "lift force collect advice pelican person time taxi credit bargain start clinic";
+var mnemonic = "property kitchen nothing original other artwork hollow age borrow tattoo ancient coffee";

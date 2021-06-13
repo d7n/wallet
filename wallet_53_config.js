@@ -1,1 +1,1 @@
-var mnemonic = "anchor pony goddess connect rain purse cereal pet bicycle card luxury media";
+var mnemonic = "yard work surge distance army impact hungry warm urge sort police glimpse";

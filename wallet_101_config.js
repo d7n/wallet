@@ -1,1 +1,1 @@
-var mnemonic = "follow above violin merry photo say repeat census lava mystery boy symbol";
+var mnemonic = "plug father throw gown pretty endless flip decorate debris render bleak butter";

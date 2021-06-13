@@ -1,1 +1,1 @@
-var mnemonic = "design border grape diamond sting cube already salon ghost diary believe notable";
+var mnemonic = "general cake monkey upper host sustain language annual matrix obscure genius life";

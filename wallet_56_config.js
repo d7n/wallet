@@ -1,1 +1,1 @@
-var mnemonic = "ignore velvet object claim beef response radio collect wheel merge upset tragic";
+var mnemonic = "spare upon assume define romance choice erode provide profit destroy ball couch";

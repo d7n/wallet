@@ -1,1 +1,1 @@
-var mnemonic = "diagram moment swarm festival enhance obey tooth attract bag sugar stage monitor";
+var mnemonic = "orbit eager beyond code address virtual security torch praise olive moment wink";

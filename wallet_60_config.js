@@ -1,1 +1,1 @@
-var mnemonic = "tip salute layer milk asthma agree accident diary cactus puzzle shield game";
+var mnemonic = "lucky peace start rocket flat brush quantum potato grass multiply fun loyal";

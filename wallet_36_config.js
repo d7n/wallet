@@ -1,1 +1,1 @@
-var mnemonic = "forest chat good help yellow screen fan then fury liquid suggest cabbage";
+var mnemonic = "shove service wagon clay yellow dutch replace split flower tuition egg endorse";
