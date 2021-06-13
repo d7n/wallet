@@ -1,1 +1,1 @@
-var mnemonic = "brand sound rule canoe timber marble kid patch february magnet stumble wedding";
+var mnemonic = "few jazz design eagle fortune artist amazing outdoor disagree treat speak bus";

@@ -1,1 +1,1 @@
-var mnemonic = "six unique chicken essence accident interest system soap reward used real scare";
+var mnemonic = "merge throw armed zone survey approve portion west path report table vibrant";

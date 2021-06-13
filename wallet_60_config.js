@@ -1,1 +1,1 @@
-var mnemonic = "drive viable choice enough middle toss genre opera knee lend high just";
+var mnemonic = "spell surround moral move message movie submit wolf eye prize uniform convince";

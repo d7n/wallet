@@ -1,1 +1,1 @@
-var mnemonic = "neglect ride response confirm beyond struggle garbage divorce height onion snap skill";
+var mnemonic = "fog soul dream vendor custom push pride amateur magnet lion jump fog";

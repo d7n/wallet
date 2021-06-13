@@ -1,1 +1,1 @@
-var mnemonic = "tobacco radar fat naive prize village surface bring south differ wedding food";
+var mnemonic = "meadow cotton someone defense trumpet medal trade guitar dust ritual quit main";

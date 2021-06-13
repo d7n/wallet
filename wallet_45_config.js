@@ -1,1 +1,1 @@
-var mnemonic = "skill kind unable blade wide carpet august chef airport brisk quote crop";
+var mnemonic = "water pigeon latin track slim talk abuse extra glove typical give laundry";

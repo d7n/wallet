@@ -1,1 +1,1 @@
-var mnemonic = "book tag gallery swing swamp then blind amount old item wish early";
+var mnemonic = "twice sphere sun sphere phrase turkey elevator stereo hint cherry gas viable";

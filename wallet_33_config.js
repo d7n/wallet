@@ -1,1 +1,1 @@
-var mnemonic = "welcome library portion believe build canvas fix note leisure blue client sleep";
+var mnemonic = "width rail beyond merit fiscal link seven luxury candy naive sure polar";

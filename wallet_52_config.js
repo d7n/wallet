@@ -1,1 +1,1 @@
-var mnemonic = "weather pioneer slide void buddy pool useless betray tent lend enlist cabbage";
+var mnemonic = "work blouse tilt very mention autumn shoe drift glare write ripple submit";

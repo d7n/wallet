@@ -1,1 +1,1 @@
-var mnemonic = "twenty picnic ocean small tortoise attract search bundle tide black noble tonight";
+var mnemonic = "boring diary emerge cable pottery boring tobacco possible license dune base slam";

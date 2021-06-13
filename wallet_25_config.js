@@ -1,1 +1,1 @@
-var mnemonic = "mention behind vault mercy miracle upper turkey acquire wealth wing smooth mutual";
+var mnemonic = "scale mammal relax waste economy lumber trade vessel source lottery expect turn";

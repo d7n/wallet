@@ -1,1 +1,1 @@
-var mnemonic = "small begin image equal dust horse problem coral pig slice silk shove";
+var mnemonic = "bid retire across outdoor object apple click absent crush inmate rain illness";

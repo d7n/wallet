@@ -1,1 +1,1 @@
-var mnemonic = "lady such certain hour recall auction pioneer need trophy gospel brief mother";
+var mnemonic = "list trick electric swear airport tag immune slab connect pond hurt sheriff";

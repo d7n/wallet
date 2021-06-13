@@ -1,1 +1,1 @@
-var mnemonic = "tone enjoy elegant relief spray sorry space knock easy dish riot brief";
+var mnemonic = "release time asset erode accident churn toast analyst hand oven ignore unhappy";

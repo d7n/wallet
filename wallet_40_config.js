@@ -1,1 +1,1 @@
-var mnemonic = "draw address reward sound deposit fit abandon nuclear strike chaos slab next";
+var mnemonic = "magnet uncle maid crouch cash asset when tool seed ketchup fold cool";

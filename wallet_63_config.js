@@ -1,1 +1,1 @@
-var mnemonic = "initial ribbon hope napkin possible tackle left trial tail cloud disease delay";
+var mnemonic = "attend topple seek supreme ladder tank high network boss work bring way";

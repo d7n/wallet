@@ -1,1 +1,1 @@
-var mnemonic = "unveil system creek awkward often wall flight happy anxiety upper twin double";
+var mnemonic = "road charge length theme alpha glare skin dog buffalo general panda extra";

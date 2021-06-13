@@ -1,1 +1,1 @@
-var mnemonic = "adult income scan anxiety issue present eternal already planet palace cabbage trip";
+var mnemonic = "oxygen trip kitchen atom choice start duck airport problem begin cigar shaft";

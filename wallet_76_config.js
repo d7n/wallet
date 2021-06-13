@@ -1,1 +1,1 @@
-var mnemonic = "slim core loyal ivory alone law wall situate cash size palm morning";
+var mnemonic = "candy chicken soccer minor glove great eagle obvious tenant unusual lab thought";

@@ -1,1 +1,1 @@
-var mnemonic = "agent brother furnace body fabric sponsor chase drift snack hen invest service";
+var mnemonic = "various finger erupt resist story renew loop outer special couch drum near";

@@ -1,1 +1,1 @@
-var mnemonic = "month fly mandate asthma final strong install seat yard fossil sign quote";
+var mnemonic = "hip marriage edge mistake cattle fine stable summer leopard safe box mammal";

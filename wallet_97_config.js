@@ -1,1 +1,1 @@
-var mnemonic = "rare meat talk offer march enter cool share village wonder differ senior";
+var mnemonic = "critic absent autumn spring picture oil grant choose digital exact unhappy nose";

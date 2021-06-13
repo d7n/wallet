@@ -1,1 +1,1 @@
-var mnemonic = "prevent patrol quiz coral media galaxy test diesel kangaroo quarter problem access";
+var mnemonic = "odor payment hawk blouse avocado squeeze curious evil act exchange disagree lava";

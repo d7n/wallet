@@ -1,1 +1,1 @@
-var mnemonic = "baby auto whale luxury tumble antique page parent hospital edge cargo into";
+var mnemonic = "lava soldier unique boil weird before cereal echo fog captain better isolate";

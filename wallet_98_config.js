@@ -1,1 +1,1 @@
-var mnemonic = "damp sail sister father spin box duty twin message gloom person lemon";
+var mnemonic = "thing tobacco list tower dinosaur carry often payment virtual pig brother behave";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf castle shy roast blouse reveal artwork dance music razor rhythm bread";
+var mnemonic = "recipe cereal wheat match fashion life scene team consider festival budget romance";

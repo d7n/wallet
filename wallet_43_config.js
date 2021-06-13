@@ -1,1 +1,1 @@
-var mnemonic = "neutral blur glass addict alarm street tiger front point pass ribbon seat";
+var mnemonic = "warm vote half paddle attitude funny song hire limb target now lottery";

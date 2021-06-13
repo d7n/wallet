@@ -1,1 +1,1 @@
-var mnemonic = "spoil uphold skin salmon file spice seminar only rescue stamp lady promote";
+var mnemonic = "victory doctor basic opinion speed tourist repair wet again emerge pyramid found";

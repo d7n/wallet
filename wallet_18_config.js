@@ -1,1 +1,1 @@
-var mnemonic = "beauty smart lumber sibling rib dog tiger manage adjust manual obtain possible";
+var mnemonic = "anchor donkey spy gather bacon marriage grit lesson speed festival fit useful";

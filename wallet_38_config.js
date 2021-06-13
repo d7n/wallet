@@ -1,1 +1,1 @@
-var mnemonic = "excuse glimpse slow pet quick obscure gasp case around churn harvest walk";
+var mnemonic = "mind copper egg turtle flat blood path nurse bulk balance fish absurd";

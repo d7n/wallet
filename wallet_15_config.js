@@ -1,1 +1,1 @@
-var mnemonic = "hospital liberty spawn illegal upgrade cable lab pull rocket cart bean ability";
+var mnemonic = "route quarter weird cycle dance tongue scrap century flame elevator ranch pride";

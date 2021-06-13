@@ -1,1 +1,1 @@
-var mnemonic = "celery amused hockey place medal donkey excuse diesel upset final vote almost";
+var mnemonic = "knife riot employ repair catalog proof key dragon sail sword lens pride";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm rapid main medal luggage stuff episode month reject ask slim educate";
+var mnemonic = "steel enable luxury salt usage whip wet laugh favorite nation float boy";

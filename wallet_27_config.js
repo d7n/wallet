@@ -1,1 +1,1 @@
-var mnemonic = "dignity garden waste switch title chair property code supreme remember aisle wolf";
+var mnemonic = "soda found sword oak hunt combine hidden destroy daring issue already giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "quality purity foot spoil summer sun february humor echo such delay album";
+var mnemonic = "hungry top surge cost evil argue gentle diamond ice still business predict";

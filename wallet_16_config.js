@@ -1,1 +1,1 @@
-var mnemonic = "option figure ecology observe laptop wool page voyage rate nasty teach account";
+var mnemonic = "solar pear dose power grain age kingdom gallery brick topple detect arch";

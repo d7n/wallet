@@ -1,1 +1,1 @@
-var mnemonic = "digital piece pelican save rather flock put faint slab soap topic rocket";
+var mnemonic = "genuine can promote change tunnel response round nurse apple stamp hedgehog oil";

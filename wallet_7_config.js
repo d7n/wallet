@@ -1,1 +1,1 @@
-var mnemonic = "silent among used elder inform wool foot decide drift aunt grunt soft";
+var mnemonic = "unfair yard vintage vacuum year comic ski gain admit unfold wide obscure";

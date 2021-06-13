@@ -1,1 +1,1 @@
-var mnemonic = "sustain act pool welcome turtle future way bracket dizzy ugly middle gain";
+var mnemonic = "miss capable usual accuse fee endorse water pattern turn state kidney ozone";

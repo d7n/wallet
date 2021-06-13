@@ -1,1 +1,1 @@
-var mnemonic = "glad gun wet float refuse crew spice canvas rail cousin situate orient";
+var mnemonic = "margin they swamp bring family phone grape faith below monster fuel number";

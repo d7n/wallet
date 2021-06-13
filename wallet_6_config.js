@@ -1,1 +1,1 @@
-var mnemonic = "found sing fringe sport twelve sock swap violin pepper churn acquire vague";
+var mnemonic = "indicate nothing fence left engage crane noble inspire flock fan core vault";

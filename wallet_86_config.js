@@ -1,1 +1,1 @@
-var mnemonic = "appear shrug aim price mean put used merge upgrade lock shoot mosquito";
+var mnemonic = "width soon gown man render swarm disagree crumble sadness impact tackle purchase";

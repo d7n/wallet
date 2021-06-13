@@ -1,1 +1,1 @@
-var mnemonic = "kiss panther cliff describe include stand direct pyramid expect rose quantum execute";
+var mnemonic = "kangaroo chapter okay movie tone winter illness antenna spirit weekend segment fun";

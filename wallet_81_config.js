@@ -1,1 +1,1 @@
-var mnemonic = "interest cancel happy position avocado search prevent exhaust drip lock kid entire";
+var mnemonic = "female recall soul indicate material general diet discover brand surprise make tube";

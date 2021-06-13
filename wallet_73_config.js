@@ -1,1 +1,1 @@
-var mnemonic = "favorite unfair photo safe smooth biology used hybrid lock era zero pink";
+var mnemonic = "helmet rival gesture either vehicle ten jelly lobster lobster roof soda rich";

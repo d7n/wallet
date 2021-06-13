@@ -1,1 +1,1 @@
-var mnemonic = "resource above assist habit favorite fringe pledge push arrow aisle visit crash";
+var mnemonic = "stay capable media afraid flash combine analyst any school flight stomach crawl";

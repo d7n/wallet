@@ -1,1 +1,1 @@
-var mnemonic = "whip next auto envelope library egg juice vast catch winter devote exhaust";
+var mnemonic = "hover poem scan peasant knock just upper climb legend retire gas float";

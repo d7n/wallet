@@ -1,1 +1,1 @@
-var mnemonic = "know tell frown scatter derive borrow arrive moral gesture repeat tunnel three";
+var mnemonic = "wrestle rate color parade mutual ship blur float resource butter code eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy cross foster fire thumb option arch deny rich imitate wage brother";
+var mnemonic = "relax train cradle salon adapt hospital punch finish swamp lend quantum spoon";

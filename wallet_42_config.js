@@ -1,1 +1,1 @@
-var mnemonic = "because keen limit social dream faith veteran daughter genre elite when win";
+var mnemonic = "ride item age pledge audit must inmate poet ability elevator visit mention";

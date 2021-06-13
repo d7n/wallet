@@ -1,1 +1,1 @@
-var mnemonic = "earn holiday ticket violin grid sudden web dismiss sunny author demise common";
+var mnemonic = "bar already exist place joke anger language lion zero critic early age";

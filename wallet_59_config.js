@@ -1,1 +1,1 @@
-var mnemonic = "laundry atom drip warfare armed despair hint neutral return general mixed arrest";
+var mnemonic = "way crystal pill midnight horn mango dinner dwarf word rice speak space";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee weather clip lonely copy ceiling exit brain wait group general orbit";
+var mnemonic = "setup need resemble pause program rare thank stomach bicycle item fold reform";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust tag furnace you silly shock approve wealth can birth misery off";
+var mnemonic = "truck weather galaxy noble cancel clean animal bind steel taxi close inspire";

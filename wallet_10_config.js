@@ -1,1 +1,1 @@
-var mnemonic = "priority board blame blood lock together private multiply later pause animal phone";
+var mnemonic = "hill install sugar almost purity best artist impose display patient filter hobby";

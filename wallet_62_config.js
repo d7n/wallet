@@ -1,1 +1,1 @@
-var mnemonic = "person follow habit flee immune enroll elbow endorse lunar van oppose battle";
+var mnemonic = "cash exercise steak brief essence antenna move absorb include slab bamboo antique";

@@ -1,1 +1,1 @@
-var mnemonic = "left motor yellow joy fire human travel lion rebel happy suggest transfer";
+var mnemonic = "apology knife alone wear ice armor scale garden fruit struggle ethics eager";

@@ -1,1 +1,1 @@
-var mnemonic = "palm limit cruise hunt modify reveal wealth reform power arrange base skull";
+var mnemonic = "there exclude used satoshi swap box cradle meat change milk blade market";

@@ -1,1 +1,1 @@
-var mnemonic = "school visit amazing hobby negative very volcano family fox giant cigar citizen";
+var mnemonic = "diagram arena curve wolf athlete exit trim used rookie razor swift dutch";

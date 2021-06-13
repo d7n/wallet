@@ -1,1 +1,1 @@
-var mnemonic = "topic category unlock fantasy path talk twist fruit enrich sadness silent flight";
+var mnemonic = "creek device team catch bean drink legend idea leopard bachelor volcano firm";

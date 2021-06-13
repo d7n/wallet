@@ -1,1 +1,1 @@
-var mnemonic = "output victory trouble screen iron dumb choice street weird trust rib east";
+var mnemonic = "burst memory produce sting used virus latin vocal seek render skate ball";

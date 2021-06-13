@@ -1,1 +1,1 @@
-var mnemonic = "coffee claim fossil auction harsh demise fault hamster grape make vicious caution";
+var mnemonic = "thunder absurd damp buzz toss satisfy small lunch guess reason believe clutch";

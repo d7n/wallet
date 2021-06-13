@@ -1,1 +1,1 @@
-var mnemonic = "various critic enter dance senior pottery october decline kitchen carry wolf social";
+var mnemonic = "tiger simple school oppose soda kangaroo series catch left nature portion broom";

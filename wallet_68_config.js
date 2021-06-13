@@ -1,1 +1,1 @@
-var mnemonic = "taxi great duty purchase muffin party sign gap glory beyond list wreck";
+var mnemonic = "razor young label rain kiwi this radio pause aware hint someone mercy";

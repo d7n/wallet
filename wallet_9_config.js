@@ -1,1 +1,1 @@
-var mnemonic = "million theme gorilla resource flush boss monkey snow gasp opera lunch order";
+var mnemonic = "kiss wild firm essay kiss chef impose swap wedding rubber device toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction comfort skull price grit arena provide coast maximum winner panel digital";
+var mnemonic = "all amazing vault breeze rice reward hobby opinion make raw orchard fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "steak mansion shoot access inquiry decade beef now horror eternal harsh tumble";
+var mnemonic = "very image bid lunar discover album gap install pink misery defense drum";

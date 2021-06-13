@@ -1,1 +1,1 @@
-var mnemonic = "cook unknown valve project math salute skull manage radio favorite minor switch";
+var mnemonic = "parade hurdle toe olive ripple relax hire toy quit ramp ramp undo";

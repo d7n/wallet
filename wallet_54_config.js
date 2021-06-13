@@ -1,1 +1,1 @@
-var mnemonic = "moment aunt debris client box hint valley comic october mesh usual zero";
+var mnemonic = "glow assault similar decide together cube square tiny pizza ball quote uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "flat diet fossil rigid about depart income sheriff control eye next clump";
+var mnemonic = "lounge royal garbage skate analyst protect kidney fiction moon output step mistake";

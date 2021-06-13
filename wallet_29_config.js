@@ -1,1 +1,1 @@
-var mnemonic = "mystery off shoulder flight tomato corn gesture resource kite luxury twist clever";
+var mnemonic = "check upper gown original bamboo stick rally predict give blind siege senior";

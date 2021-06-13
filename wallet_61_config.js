@@ -1,1 +1,1 @@
-var mnemonic = "jazz chief trophy detect brown invest typical concert pond myth popular joke";
+var mnemonic = "lend slam dish shift voice wide meadow ladder lava habit blush jelly";

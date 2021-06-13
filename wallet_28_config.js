@@ -1,1 +1,1 @@
-var mnemonic = "night attend lock net find science hub network silk liberty cheap cart";
+var mnemonic = "before brother high dentist imitate filter giraffe switch stove select balcony rotate";

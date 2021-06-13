@@ -1,1 +1,1 @@
-var mnemonic = "mystery bread clerk gadget permit sustain profit inform same horse spray retire";
+var mnemonic = "cave exile derive pig club choose half record pluck sand raccoon eager";

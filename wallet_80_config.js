@@ -1,1 +1,1 @@
-var mnemonic = "civil federal spider pepper sting major nation canal dune fresh teach parent";
+var mnemonic = "scrub bar useless keep mom solve hazard extend catalog ethics evoke curious";

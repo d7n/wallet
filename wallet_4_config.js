@@ -1,1 +1,1 @@
-var mnemonic = "damp bicycle they edge broken boost receive monster shaft wish entire mother";
+var mnemonic = "ability pole parrot that organ frame razor theme fly mirror bridge addict";

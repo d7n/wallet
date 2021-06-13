@@ -1,1 +1,1 @@
-var mnemonic = "list already canal hip van appear priority horn sentence desk swear tortoise";
+var mnemonic = "weapon charge dilemma parrot ride review future slender blame actress wide perfect";

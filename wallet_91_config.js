@@ -1,1 +1,1 @@
-var mnemonic = "fold certain east extra involve pistol drive anxiety dinner memory evolve small";
+var mnemonic = "card void mosquito clerk amount toy ladder salmon chair mountain direct uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "donate cram find warrior grape dynamic you future report session cabbage flower";
+var mnemonic = "drift pair neck sport answer soccer lonely august injury metal during style";

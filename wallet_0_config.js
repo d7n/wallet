@@ -1,1 +1,1 @@
-var mnemonic = "swap accuse shadow issue myself fire latin ready noble physical silent walnut";
+var mnemonic = "afford ride club pulse tennis moral smooth robust blame raven gun peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "exit run face rare soft alcohol soup join love emotion approve warrior";
+var mnemonic = "stay venture upon describe oval wheat prevent bomb inmate shift cinnamon actor";

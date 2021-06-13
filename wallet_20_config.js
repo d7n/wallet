@@ -1,1 +1,1 @@
-var mnemonic = "retreat else art flame area amount pole swing umbrella open spider trash";
+var mnemonic = "nation club beyond end rally then upon picture army viable crystal expose";

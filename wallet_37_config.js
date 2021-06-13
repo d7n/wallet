@@ -1,1 +1,1 @@
-var mnemonic = "indoor embark sound rebuild rival say female movie bulk limit tail cloud";
+var mnemonic = "shock grocery exist secret bargain virus extend plug receive own essence safe";

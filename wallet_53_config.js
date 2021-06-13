@@ -1,1 +1,1 @@
-var mnemonic = "grow inhale ordinary blind west cheap slab soldier unable found foot early";
+var mnemonic = "tag drive modify index surge aspect mix endless pass spell south turn";

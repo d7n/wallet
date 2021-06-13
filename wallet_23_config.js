@@ -1,1 +1,1 @@
-var mnemonic = "around erode scatter envelope until argue frog screen giant satoshi erosion dawn";
+var mnemonic = "thunder neutral super improve match art grocery grief mouse peasant fringe bulk";

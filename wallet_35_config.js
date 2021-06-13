@@ -1,1 +1,1 @@
-var mnemonic = "decline always impulse observe narrow hold menu owner wage sing soda shoot";
+var mnemonic = "west steel solve gallery soul fan sing embody problem custom hello lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight beach quote corn glue again into describe couch draft float depend";
+var mnemonic = "panda exile patch rule violin equip sniff advice scrap inject park gadget";

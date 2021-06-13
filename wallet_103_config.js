@@ -1,1 +1,1 @@
-var mnemonic = "alert equip blush cause rural great sponsor cluster theory blast brass snake";
+var mnemonic = "eager output scrap forum amateur brown cricket trial opinion tent essay dog";

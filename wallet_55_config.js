@@ -1,1 +1,1 @@
-var mnemonic = "drive ramp claw jaguar actual voice section slow soon disorder spoon segment";
+var mnemonic = "despair mother sword drill gossip clog power try weasel hole expire decline";

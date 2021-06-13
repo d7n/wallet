@@ -1,1 +1,1 @@
-var mnemonic = "interest tray diamond praise dial cause captain bitter spell address rice undo";
+var mnemonic = "test giant glare exclude mosquito all option good adjust spice reveal home";

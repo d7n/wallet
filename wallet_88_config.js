@@ -1,1 +1,1 @@
-var mnemonic = "cloth device program level floor pause real strike kiss wait police myself";
+var mnemonic = "artwork table dog entry old abstract vintage possible champion couch want hair";
