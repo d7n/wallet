@@ -1,1 +1,1 @@
-var mnemonic = "orange rubber between ten section soda symptom jar reunion rifle letter spirit";
+var mnemonic = "judge shrimp rug divide speed name rain minimum reopen pool repeat plate";

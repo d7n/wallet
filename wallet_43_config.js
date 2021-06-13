@@ -1,1 +1,1 @@
-var mnemonic = "soldier distance scene excuse raccoon valid panther feature always announce trash subject";
+var mnemonic = "tornado enrich office digital faith volcano forget venture fruit vanish wedding canyon";

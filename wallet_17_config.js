@@ -1,1 +1,1 @@
-var mnemonic = "emotion rescue marine drill game engine business outer among vessel behave bright";
+var mnemonic = "puppy size sword forward spider equip culture beach they vault garment shield";

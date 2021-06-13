@@ -1,1 +1,1 @@
-var mnemonic = "jealous rocket dwarf wrestle region company brother power habit visit text urban";
+var mnemonic = "woman merry quick weather brush expect rebel moon faith dignity divide divide";

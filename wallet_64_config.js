@@ -1,1 +1,1 @@
-var mnemonic = "virus improve across evolve brown cream scout shine royal clay drop wife";
+var mnemonic = "orphan little common carpet similar detect lab actress core grunt slam swift";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric measure approve only kit athlete youth usual useful maid screen sun";
+var mnemonic = "kick kind shadow age improve limb rule need clerk search cram load";

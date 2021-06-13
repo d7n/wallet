@@ -1,1 +1,1 @@
-var mnemonic = "punch wish start abuse autumn scan bundle food account similar give blame";
+var mnemonic = "energy trend cushion define basket disagree tell exchange strong feed vital gift";

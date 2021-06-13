@@ -1,1 +1,1 @@
-var mnemonic = "dial second panic dove point love flower connect canyon west nasty meadow";
+var mnemonic = "pass student dawn select avocado aware arrive there family conduct mystery expand";

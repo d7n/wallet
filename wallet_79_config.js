@@ -1,1 +1,1 @@
-var mnemonic = "elegant lesson swift dad dilemma mutual minute tuna uncover plug crime skirt";
+var mnemonic = "multiply fog equal couple attract amazing coconut meadow crisp paddle upper model";

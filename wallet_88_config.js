@@ -1,1 +1,1 @@
-var mnemonic = "ask unable depart again whale cash gather shiver monster immune stay start";
+var mnemonic = "vacant chat blast airport cake airport close cute legend nothing gorilla pattern";

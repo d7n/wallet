@@ -1,1 +1,1 @@
-var mnemonic = "lock dance already life village harvest eight obey valve gesture reward tool";
+var mnemonic = "donate light usual skate nephew pact hungry donkey reflect battle gloom pear";

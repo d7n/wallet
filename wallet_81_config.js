@@ -1,1 +1,1 @@
-var mnemonic = "very ten term aware steak guitar urban often urban render behind digital";
+var mnemonic = "lab glow cover bleak cinnamon immune text walnut note retreat noble gospel";

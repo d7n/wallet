@@ -1,1 +1,1 @@
-var mnemonic = "option rack affair scrub spare execute quick gift banner material enrich pass";
+var mnemonic = "other client rain attract enrich camera obscure lake peace treat poem cream";

@@ -1,1 +1,1 @@
-var mnemonic = "what forest crack desert sausage fetch very sunset artefact attract rival grief";
+var mnemonic = "deal switch goose practice candy rabbit token capital venue repeat bar attract";

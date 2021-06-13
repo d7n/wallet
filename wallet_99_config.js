@@ -1,1 +1,1 @@
-var mnemonic = "silly mom smoke turkey post riot ask spirit next priority always noble";
+var mnemonic = "divert convince that inmate hungry write later month immune debate now property";

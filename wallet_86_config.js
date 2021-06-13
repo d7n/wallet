@@ -1,1 +1,1 @@
-var mnemonic = "true remind gown cabbage weather zoo goat trick fever limit banner indicate";
+var mnemonic = "drum first person lounge carry globe dad rural special potato initial post";

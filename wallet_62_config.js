@@ -1,1 +1,1 @@
-var mnemonic = "hotel gold float puppy duck pear attend fringe victory gym edit beyond";
+var mnemonic = "jump aspect peasant country talent produce garden remain frog eye farm rack";

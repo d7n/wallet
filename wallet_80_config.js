@@ -1,1 +1,1 @@
-var mnemonic = "suit place laundry spy squirrel mind change market rough announce record loyal";
+var mnemonic = "couch employ provide century alter rug seed call basic youth picnic eyebrow";

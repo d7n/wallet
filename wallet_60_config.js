@@ -1,1 +1,1 @@
-var mnemonic = "valley warfare cup cushion flash tongue other object picture story reward dragon";
+var mnemonic = "borrow expand hole jump flag area obscure inch argue mass upset mountain";

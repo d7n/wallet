@@ -1,1 +1,1 @@
-var mnemonic = "guilt smoke judge palace runway attack horse lottery coyote vacuum deny add";
+var mnemonic = "rail fancy box position struggle box gaze image step visit kite ignore";

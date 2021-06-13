@@ -1,1 +1,1 @@
-var mnemonic = "act vast kitten wreck destroy kit economy civil donkey snow risk minimum";
+var mnemonic = "mind bacon add fury term fat bulk annual frequent media stem give";

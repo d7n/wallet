@@ -1,1 +1,1 @@
-var mnemonic = "tortoise resist blind rib document manage road impact hobby boost cannon staff";
+var mnemonic = "vague napkin network wedding duty morning news stem drama eyebrow another enforce";

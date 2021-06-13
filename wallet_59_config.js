@@ -1,1 +1,1 @@
-var mnemonic = "snap vivid involve grace small high explain clutch remain make grunt visual";
+var mnemonic = "saddle genius decide symbol captain stone about super curious friend cinnamon forward";

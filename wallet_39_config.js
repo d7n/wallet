@@ -1,1 +1,1 @@
-var mnemonic = "jump kind rescue erosion ocean cute shrug jar session sheriff empty emotion";
+var mnemonic = "crumble pact miracle tiger attract theme pattern wet outdoor monster rice metal";

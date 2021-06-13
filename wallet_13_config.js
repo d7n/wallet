@@ -1,1 +1,1 @@
-var mnemonic = "either combine candy assume water extra economy pride grab wine wild flag";
+var mnemonic = "carbon head hold maze tag symptom celery dignity spend skin target pact";

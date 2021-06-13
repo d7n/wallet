@@ -1,1 +1,1 @@
-var mnemonic = "lumber ripple swear hard giant later mass sad fossil gaze wise joy";
+var mnemonic = "club rescue skate fix crazy harsh fault butter vacant champion fantasy habit";

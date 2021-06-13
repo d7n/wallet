@@ -1,1 +1,1 @@
-var mnemonic = "witness ribbon absurd play task left tomato stairs animal note arrange muscle";
+var mnemonic = "hurt hospital nest ordinary nominee leg mandate split child fiction razor stairs";

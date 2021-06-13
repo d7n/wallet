@@ -1,1 +1,1 @@
-var mnemonic = "fly owner broom mail spread copy crew prison humor that great bicycle";
+var mnemonic = "medal bridge assist logic balance rhythm into glass behave blur mango sight";

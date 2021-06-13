@@ -1,1 +1,1 @@
-var mnemonic = "can shield catch ensure pig fat excess gate enlist pair scrap pattern";
+var mnemonic = "disease clog brother left trouble symbol thunder senior business usual leaf sister";

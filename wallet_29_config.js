@@ -1,1 +1,1 @@
-var mnemonic = "slab soul cargo gym below rubber increase soap inject surface mystery already";
+var mnemonic = "enroll collect olympic laptop battle recipe grace slow ensure kiwi elbow recycle";

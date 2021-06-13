@@ -1,1 +1,1 @@
-var mnemonic = "stereo boring lucky father area eternal depth humor this wire music across";
+var mnemonic = "edge soul donkey memory mutual section require identify diary volume uncle phone";

@@ -1,1 +1,1 @@
-var mnemonic = "urban old junk minimum fashion attend elite satisfy regret welcome damage calm";
+var mnemonic = "bacon faculty awkward sister object river dragon theory basic mercy hungry promote";

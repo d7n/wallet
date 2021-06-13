@@ -1,1 +1,1 @@
-var mnemonic = "royal caution chef silver mushroom woman fish device type chapter car small";
+var mnemonic = "trick symbol estate jazz leader mountain scout brief faint patient village copper";

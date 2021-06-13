@@ -1,1 +1,1 @@
-var mnemonic = "buddy slam faith achieve smoke expand predict amount rather address school destroy";
+var mnemonic = "frog relax reflect ticket essence blouse pepper fetch submit blood consider valley";

@@ -1,1 +1,1 @@
-var mnemonic = "always near joke until clay dinner table organ evidence wine dose avocado";
+var mnemonic = "strike glimpse repeat deal dirt early category head brand veteran unit consider";

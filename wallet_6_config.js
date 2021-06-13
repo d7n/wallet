@@ -1,1 +1,1 @@
-var mnemonic = "possible nose scan thrive autumn easy either cabin fatal predict push tray";
+var mnemonic = "genuine atom fitness depart differ involve eight bottom always easily smile grid";

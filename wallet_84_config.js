@@ -1,1 +1,1 @@
-var mnemonic = "ghost utility churn gain ring have phrase gloom credit derive address skirt";
+var mnemonic = "vicious fine shed sheriff thing success member excite group voice cube weird";

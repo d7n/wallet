@@ -1,1 +1,1 @@
-var mnemonic = "globe sauce nothing goose super panda tiger scare enact know eagle acid";
+var mnemonic = "wreck shine tent name drop shallow spider pupil accident surprise guilt mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge amount achieve trial tide spin position catch flush chair hawk melody";
+var mnemonic = "foil emotion virtual head catch nature about stone believe axis attitude vessel";

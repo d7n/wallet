@@ -1,1 +1,1 @@
-var mnemonic = "chief cattle drop toss loop civil cube twenty check blouse eight lawsuit";
+var mnemonic = "box soul search guess key swallow have risk nation defy mad draw";

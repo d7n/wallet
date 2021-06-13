@@ -1,1 +1,1 @@
-var mnemonic = "kingdom force quit grab twin verify oyster old depart guide grit switch";
+var mnemonic = "wage grocery east pond coconut margin skull tunnel switch permit guard leader";

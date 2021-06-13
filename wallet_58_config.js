@@ -1,1 +1,1 @@
-var mnemonic = "romance drum seed snack enact attitude main icon motion design festival cement";
+var mnemonic = "miracle relief ginger produce stem armor armed board order permit misery first";

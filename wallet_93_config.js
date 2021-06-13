@@ -1,1 +1,1 @@
-var mnemonic = "velvet frequent valve collect swap require episode burger cactus analyst can embrace";
+var mnemonic = "jaguar member deputy kangaroo source nothing wear board liberty unhappy note kangaroo";

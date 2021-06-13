@@ -1,1 +1,1 @@
-var mnemonic = "fence film polar cupboard edge rural sight target crisp reunion worry media";
+var mnemonic = "supreme absorb piano submit just bar cancel express soda crack toast rely";

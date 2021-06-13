@@ -1,1 +1,1 @@
-var mnemonic = "amateur develop can cargo crazy thumb dog method goddess jump jacket double";
+var mnemonic = "sense must cliff square title shrimp inform wrestle change cover suggest illness";

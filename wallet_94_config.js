@@ -1,1 +1,1 @@
-var mnemonic = "current please tomato enact nurse ostrich lounge hawk click lunar lock away";
+var mnemonic = "task describe rude law multiply people brown clerk denial jar nut forward";

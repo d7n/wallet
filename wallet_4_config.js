@@ -1,1 +1,1 @@
-var mnemonic = "asset bleak sail clever dutch gentle rescue patch cigar circle loop general";
+var mnemonic = "help arch street goddess good decide pond click exotic double program this";

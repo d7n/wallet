@@ -1,1 +1,1 @@
-var mnemonic = "damage series shop swamp repair thrive pupil airport they street yard october";
+var mnemonic = "also satoshi host cage route flush canyon shrimp scheme armed affair acid";

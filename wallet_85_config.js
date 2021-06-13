@@ -1,1 +1,1 @@
-var mnemonic = "angry sure frost trade youth home chase drive dice balance review replace";
+var mnemonic = "arrow letter double noise expand thumb faith dry equip fan express arrange";

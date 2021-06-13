@@ -1,1 +1,1 @@
-var mnemonic = "ivory actual never lucky blood lyrics hurry typical rocket section knife hand";
+var mnemonic = "kitchen toilet round trash defense derive twin hill coil expire volume illegal";

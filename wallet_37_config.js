@@ -1,1 +1,1 @@
-var mnemonic = "raw casual able robot parade jazz oppose pear hero opera monkey culture";
+var mnemonic = "eternal pelican above captain second silly style unable stage depend media word";

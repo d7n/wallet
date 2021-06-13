@@ -1,1 +1,1 @@
-var mnemonic = "vault lunar people ticket consider luggage intact staff modify sphere satisfy gauge";
+var mnemonic = "banana inform arm nest village gossip primary chef daring talk neglect wife";

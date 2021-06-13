@@ -1,1 +1,1 @@
-var mnemonic = "expect object transfer human earn flush crunch appear parrot reduce february silent";
+var mnemonic = "pottery soccer day accident shrug child horse mammal junior entire either artist";

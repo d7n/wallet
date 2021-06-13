@@ -1,1 +1,1 @@
-var mnemonic = "educate cost lonely atom token plug opinion draft carry mimic tuna stem";
+var mnemonic = "poverty impact twice orchard scale powder immune result unable transfer quick relax";

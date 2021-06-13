@@ -1,1 +1,1 @@
-var mnemonic = "novel pledge abuse buzz method clever sand milk card practice enlist dizzy";
+var mnemonic = "tide burst kite wood fragile category state verify thank nasty sad penalty";

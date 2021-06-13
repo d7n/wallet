@@ -1,1 +1,1 @@
-var mnemonic = "sound confirm step ginger idea broccoli napkin kid birth yellow home gloom";
+var mnemonic = "subway fame rack near enable local risk equip denial fabric bar tag";

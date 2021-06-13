@@ -1,1 +1,1 @@
-var mnemonic = "silly base welcome match remain believe acid alter wet phone essay rigid";
+var mnemonic = "clever olive you marine soccer leopard orchard soup sustain erode update inhale";

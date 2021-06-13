@@ -1,1 +1,1 @@
-var mnemonic = "pulp violin luxury transfer palace feel group test know ugly enable despair";
+var mnemonic = "kite marriage pitch either slush shoe execute upon autumn moment metal attract";

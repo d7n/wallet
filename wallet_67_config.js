@@ -1,1 +1,1 @@
-var mnemonic = "inside clip squirrel bleak nuclear mechanic cattle lyrics census dad aim elder";
+var mnemonic = "reject thumb wrist tooth ethics merge gown chunk face govern planet around";

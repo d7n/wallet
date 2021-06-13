@@ -1,1 +1,1 @@
-var mnemonic = "magnet palace you village drip glass enroll offer window broccoli slow crisp";
+var mnemonic = "glance convince language analyst brother swap strategy rotate destroy able color crumble";

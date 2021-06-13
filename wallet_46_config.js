@@ -1,1 +1,1 @@
-var mnemonic = "broken frost space enemy exhaust witness avocado theory warm coin swap life";
+var mnemonic = "sight sign march much nut bracket cry permit front shy undo elegant";

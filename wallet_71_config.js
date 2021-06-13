@@ -1,1 +1,1 @@
-var mnemonic = "horse tuna riot client report skull horror update room flash field clown";
+var mnemonic = "drum repair estate almost spike pitch struggle force upon car law sister";

@@ -1,1 +1,1 @@
-var mnemonic = "garment today debris update voyage news liberty slide sure uniform where gravity";
+var mnemonic = "nominee future park beauty pupil document antique pretty enhance raw fluid weapon";

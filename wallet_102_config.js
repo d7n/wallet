@@ -1,1 +1,1 @@
-var mnemonic = "atom valid balcony virtual glue net attract word guilt gloom polar cash";
+var mnemonic = "where brown sand finish never timber phone weather satoshi sunset chair group";

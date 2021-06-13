@@ -1,1 +1,1 @@
-var mnemonic = "transfer save casual thought raise safe find alpha brown bomb visual casino";
+var mnemonic = "lake december swear panel link rival around drift surge baby weasel novel";

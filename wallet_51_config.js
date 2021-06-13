@@ -1,1 +1,1 @@
-var mnemonic = "chicken angle remember please orchard drive pepper animal use loop broken between";
+var mnemonic = "sword dish actor oppose fiction rain total drink urge still setup danger";

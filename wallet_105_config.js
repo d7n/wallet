@@ -1,1 +1,1 @@
-var mnemonic = "critic bench scan reflect frame note impulse rug gossip cart armed place";
+var mnemonic = "venture common essence side salt enable idea gun valley october arrive yard";

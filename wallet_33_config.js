@@ -1,1 +1,1 @@
-var mnemonic = "convince green addict copy foil grit young asset essay mountain kiwi web";
+var mnemonic = "scale valve snake slot hip scale cricket bracket cart category sudden write";

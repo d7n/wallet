@@ -1,1 +1,1 @@
-var mnemonic = "derive eagle hundred wheat team robust soup cash drink flee kid chase";
+var mnemonic = "vault quit film parent grain coin flash develop gain subject produce energy";

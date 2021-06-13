@@ -1,1 +1,1 @@
-var mnemonic = "wreck puppy gorilla pottery foot monkey twelve load picture mushroom custom romance";
+var mnemonic = "great pulse that february gospel select alert episode notable second tourist curve";

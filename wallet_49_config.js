@@ -1,1 +1,1 @@
-var mnemonic = "embark party better lumber bonus pet jar body increase certain sheriff curtain";
+var mnemonic = "circle wash afraid final pledge rapid senior describe vicious decade talk alien";

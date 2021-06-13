@@ -1,1 +1,1 @@
-var mnemonic = "bunker cattle tag onion bind bulb mirror fabric crew flash alien bronze";
+var mnemonic = "net unit tail rookie cloth pave assist bridge impulse elite tower armor";

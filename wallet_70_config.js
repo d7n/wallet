@@ -1,1 +1,1 @@
-var mnemonic = "nut estate run myself stone clock soccer idle cage leader rigid ketchup";
+var mnemonic = "notice silly person comfort park agent whisper mix genius universe license shoulder";

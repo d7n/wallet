@@ -1,1 +1,1 @@
-var mnemonic = "drive shell write today asset acid snap monitor elephant average force toe";
+var mnemonic = "mail oak captain input pride half tongue fork provide setup boy mosquito";

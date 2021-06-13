@@ -1,1 +1,1 @@
-var mnemonic = "music post half allow stick odor early robot credit vault ice add";
+var mnemonic = "trophy occur ask digital holiday fringe mountain control float kidney room bachelor";

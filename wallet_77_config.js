@@ -1,1 +1,1 @@
-var mnemonic = "mention buffalo cage include clog rate repeat invest coast matter junk word";
+var mnemonic = "skate raw admit raise broom index multiply fame bounce curve furnace federal";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain jelly inner illegal debate ivory code equip forest icon stumble ridge";
+var mnemonic = "crisp riot nature drastic hurry snack film civil throw clog very toy";

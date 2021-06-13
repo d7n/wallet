@@ -1,1 +1,1 @@
-var mnemonic = "raven fruit position reject rich coil crazy beach version cause improve curve";
+var mnemonic = "beauty keep polar auto mechanic shock stadium fiction rocket dog consider dwarf";

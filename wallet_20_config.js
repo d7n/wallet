@@ -1,1 +1,1 @@
-var mnemonic = "man pizza music dizzy until image social rich crew correct try grid";
+var mnemonic = "cricket finger bamboo lava boil sock seek drill expose stay child sudden";

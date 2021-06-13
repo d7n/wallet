@@ -1,1 +1,1 @@
-var mnemonic = "word door flee casino tell bean river mix panther photo section eyebrow";
+var mnemonic = "young deer coyote record scale comic garbage peace pattern upon garbage express";

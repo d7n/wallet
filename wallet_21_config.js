@@ -1,1 +1,1 @@
-var mnemonic = "glow doll still palm lesson surface crater dove hurdle mixture glow memory";
+var mnemonic = "novel submit concert clown play genre radio letter plate steak live harbor";

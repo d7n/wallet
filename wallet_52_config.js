@@ -1,1 +1,1 @@
-var mnemonic = "vehicle popular frequent gown expand orbit matrix host plate eye tennis believe";
+var mnemonic = "brand room thumb execute drama bullet supreme midnight chicken anchor depart sudden";

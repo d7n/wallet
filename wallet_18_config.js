@@ -1,1 +1,1 @@
-var mnemonic = "demise pigeon during token tree smile jungle blade pole more minimum harvest";
+var mnemonic = "habit marriage traffic desk phrase page found bubble chest parade spend narrow";

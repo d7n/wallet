@@ -1,1 +1,1 @@
-var mnemonic = "finish charge bar gap axis excite million hedgehog prize south decide head";
+var mnemonic = "rare mixture ginger check warrior layer bid praise interest rack negative result";

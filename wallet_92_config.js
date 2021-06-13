@@ -1,1 +1,1 @@
-var mnemonic = "glove physical maximum capable random talent tragic animal profit woman dove absent";
+var mnemonic = "topple estate wash rely bar scrap speed affair hunt chunk organ kingdom";
