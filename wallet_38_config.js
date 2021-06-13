@@ -1,1 +1,1 @@
-var mnemonic = "winter dial vague shiver awesome canyon butter lonely box feel during vast";
+var mnemonic = "acquire close quit question special truth runway favorite host hair muffin world";

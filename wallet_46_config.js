@@ -1,1 +1,1 @@
-var mnemonic = "reform connect anchor love chalk tuna copper paper garment valve cream young";
+var mnemonic = "coast comfort innocent woman year culture cry steel shy wool rug into";

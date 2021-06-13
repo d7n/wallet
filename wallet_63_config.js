@@ -1,1 +1,1 @@
-var mnemonic = "attack crop staff patch mandate side bunker fine echo betray pause list";
+var mnemonic = "common tiny over media breeze twice label process goat sample garbage early";

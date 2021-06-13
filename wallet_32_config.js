@@ -1,1 +1,1 @@
-var mnemonic = "rather degree unfair swear panda credit retire evolve crunch old mushroom agent";
+var mnemonic = "trial chase innocent bundle solar best tide firm cause afford apple shoe";

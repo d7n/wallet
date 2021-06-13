@@ -1,1 +1,1 @@
-var mnemonic = "end basic inform pony coral around clutch brass chaos comfort bus rose";
+var mnemonic = "lawsuit cradle stool basic decide side crew soccer pet cotton real live";

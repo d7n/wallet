@@ -1,1 +1,1 @@
-var mnemonic = "chimney country setup retreat enable mirror letter weapon youth transfer best item";
+var mnemonic = "auction eager evidence erase scorpion gospel obey siren romance limit hybrid opinion";

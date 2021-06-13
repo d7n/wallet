@@ -1,1 +1,1 @@
-var mnemonic = "abuse awkward bag force basket recipe cruise omit one initial company clog";
+var mnemonic = "lake race people possible mother inmate lemon opinion crazy reject certain desert";

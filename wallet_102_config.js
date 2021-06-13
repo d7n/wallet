@@ -1,1 +1,1 @@
-var mnemonic = "sock display grace venue shrimp mass ramp dolphin identify scatter concert grief";
+var mnemonic = "dry wealth panic disease unlock abandon ginger organ swift above sorry connect";

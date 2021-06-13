@@ -1,1 +1,1 @@
-var mnemonic = "morning erosion menu height own hollow age detail gym interest twelve ugly";
+var mnemonic = "course umbrella weird stamp pupil member hip manage absent bamboo narrow lawn";

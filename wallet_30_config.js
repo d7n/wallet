@@ -1,1 +1,1 @@
-var mnemonic = "acoustic immense below always arrive hockey slender bike diary plastic toy toy";
+var mnemonic = "domain comic rookie absorb rebuild secret proof permit poverty range battle misery";

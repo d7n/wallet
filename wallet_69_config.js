@@ -1,1 +1,1 @@
-var mnemonic = "gadget roast kingdom silver bar demand such actress parrot nest innocent expand";
+var mnemonic = "fruit hockey helmet blossom merit girl dilemma fade result army decorate undo";

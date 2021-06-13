@@ -1,1 +1,1 @@
-var mnemonic = "there angry force sting raccoon island goat brown benefit leg student fat";
+var mnemonic = "among nest pet defense joy trash voice giggle riot mutual suggest void";

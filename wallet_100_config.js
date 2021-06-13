@@ -1,1 +1,1 @@
-var mnemonic = "april course mutual human combine blanket sell offer quit false sister goose";
+var mnemonic = "decide decrease fog sketch excuse market bird foot egg fame vibrant youth";

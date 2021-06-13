@@ -1,1 +1,1 @@
-var mnemonic = "holiday property virtual fan fun narrow soft fault great input clog prefer";
+var mnemonic = "alone behind exercise able turkey salon blush width lab reveal blue alert";

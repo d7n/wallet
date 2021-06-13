@@ -1,1 +1,1 @@
-var mnemonic = "hole cry prepare club ring offer thought scatter castle robot inquiry panda";
+var mnemonic = "supreme age yard caught follow like magnet record glove moral panel victory";

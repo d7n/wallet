@@ -1,1 +1,1 @@
-var mnemonic = "debris pepper antique chaos sniff cave tube soon plastic version excite monkey";
+var mnemonic = "enemy language cabbage hockey want silent spray afford body usual camera butter";

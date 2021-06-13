@@ -1,1 +1,1 @@
-var mnemonic = "either narrow ordinary flash catch scheme oak win pig sadness polar early";
+var mnemonic = "wrist lawn there orphan mushroom jeans office transfer avocado burden dawn boat";

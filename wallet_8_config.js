@@ -1,1 +1,1 @@
-var mnemonic = "clown adult excite welcome tube jacket empty retire garage romance client provide";
+var mnemonic = "equip vacuum lion wire inspire magnet zebra envelope sponsor great equip tiny";

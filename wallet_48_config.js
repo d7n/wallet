@@ -1,1 +1,1 @@
-var mnemonic = "bus globe horn wrist process gentle speed hammer drum brand beach execute";
+var mnemonic = "trim day limb account decade engage pill gravity observe confirm flat meat";

@@ -1,1 +1,1 @@
-var mnemonic = "oval label curtain trust enable hurry rice entry math circle auto detect";
+var mnemonic = "cheese illegal useful already dry demand must toast blur mimic donor soon";

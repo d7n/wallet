@@ -1,1 +1,1 @@
-var mnemonic = "museum duty type position story shock price alert view buffalo burger quantum";
+var mnemonic = "boil august gauge label road furnace bullet dumb husband output mind world";

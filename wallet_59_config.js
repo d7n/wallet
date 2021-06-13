@@ -1,1 +1,1 @@
-var mnemonic = "mystery elite install door act panda trap filter goddess where join reason";
+var mnemonic = "stool arm concert type unhappy tank umbrella bitter shaft anchor doctor atom";

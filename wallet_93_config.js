@@ -1,1 +1,1 @@
-var mnemonic = "fork find tunnel file above project path spice oil private shrimp artist";
+var mnemonic = "uncle cactus item sick dog certain joy love youth clay price because";

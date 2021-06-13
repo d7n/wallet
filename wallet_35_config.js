@@ -1,1 +1,1 @@
-var mnemonic = "trend post hundred scan annual poverty spy abuse piano combine inhale more";
+var mnemonic = "start spoon steel praise front guitar chest peace dumb canvas antenna assault";

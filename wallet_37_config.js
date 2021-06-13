@@ -1,1 +1,1 @@
-var mnemonic = "risk produce city forest stadium awkward youth badge bone bundle key voyage";
+var mnemonic = "bird family lottery claw planet cube mad escape practice vehicle predict shaft";

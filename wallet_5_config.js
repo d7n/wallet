@@ -1,1 +1,1 @@
-var mnemonic = "steak forward loan detect during speed tortoise chef bleak soul design possible";
+var mnemonic = "ghost canal spirit piece hint layer party liberty refuse shield under farm";

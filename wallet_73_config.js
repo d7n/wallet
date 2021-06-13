@@ -1,1 +1,1 @@
-var mnemonic = "over armed kingdom obtain crime bridge horror comic employ shuffle absurd onion";
+var mnemonic = "artist chat buzz wreck relief suggest balance floor gap tongue month render";

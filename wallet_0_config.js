@@ -1,1 +1,1 @@
-var mnemonic = "tomato evil betray town human connect entry episode hair wasp cake window";
+var mnemonic = "essence hello honey rotate trend loan push change onion snap power expire";

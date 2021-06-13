@@ -1,1 +1,1 @@
-var mnemonic = "fossil cake quick stomach gas derive armor rare call core agent picture";
+var mnemonic = "safe dynamic shuffle vocal quote ecology best fox chest fever intact surge";

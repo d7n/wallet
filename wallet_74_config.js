@@ -1,1 +1,1 @@
-var mnemonic = "student whisper join total near antique wise afraid panic fatigue entire cement";
+var mnemonic = "join online shed capable bulb indicate position media enrich raven logic knee";

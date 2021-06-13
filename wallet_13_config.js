@@ -1,1 +1,1 @@
-var mnemonic = "budget mansion whip craft depth response degree hood stereo arrest steel bulk";
+var mnemonic = "wreck travel anger candy popular glare song inside stumble arrange reform length";

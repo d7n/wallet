@@ -1,1 +1,1 @@
-var mnemonic = "endless polar flip dirt unhappy monster will scare weekend below smart anxiety";
+var mnemonic = "peanut toy dial legend pitch empty faculty immense emotion wife dry forward";

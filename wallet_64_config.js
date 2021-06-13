@@ -1,1 +1,1 @@
-var mnemonic = "betray walnut river good vivid immune marble sock arena zero cook add";
+var mnemonic = "federal reveal orchard margin rhythm acquire filter ostrich risk style barely hero";

@@ -1,1 +1,1 @@
-var mnemonic = "relax royal error defy turkey brown slab ecology tail arctic stamp cannon";
+var mnemonic = "innocent dry tooth toy choose warrior final senior hand sad point earn";

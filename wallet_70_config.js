@@ -1,1 +1,1 @@
-var mnemonic = "expire lawsuit engage soccer text great lazy cute crunch depth situate rain";
+var mnemonic = "badge garage select draft police inmate vacant alone nerve doll loop gorilla";

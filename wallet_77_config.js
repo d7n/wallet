@@ -1,1 +1,1 @@
-var mnemonic = "rotate avocado cloth sight lucky inquiry virus advance cry hour about voyage";
+var mnemonic = "usage attitude strong cigar soda bridge decrease save barrel apple face ecology";

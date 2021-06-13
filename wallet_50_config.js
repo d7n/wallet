@@ -1,1 +1,1 @@
-var mnemonic = "visit drive ostrich review young shrimp saddle funny silent plug federal motor";
+var mnemonic = "orphan design entry kick bonus rival bone milk symptom humor buffalo uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "habit snake survey decrease very imitate chef dignity second total honey sting";
+var mnemonic = "broken genuine radio alpha concert insect super autumn sniff quiz chair dice";

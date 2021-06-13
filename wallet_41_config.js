@@ -1,1 +1,1 @@
-var mnemonic = "seminar stairs final cliff salt crop poem put artist document tunnel uncle";
+var mnemonic = "recycle trap minimum remind drive birth ski imitate firm path midnight flash";

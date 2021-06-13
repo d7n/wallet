@@ -1,1 +1,1 @@
-var mnemonic = "police fashion common replace whale hover system that focus suspect village normal";
+var mnemonic = "come misery photo permit thing distance stove skill repair label cupboard indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion impose immune extend clever real flip tunnel claim ankle slight dolphin";
+var mnemonic = "fine about spirit wolf income jeans place thought phrase race inflict leaf";

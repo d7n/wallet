@@ -1,1 +1,1 @@
-var mnemonic = "right virtual absorb valley timber faint cook giraffe rail keep this reopen";
+var mnemonic = "old mammal assault next long hundred grain either misery scatter seek wife";

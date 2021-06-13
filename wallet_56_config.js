@@ -1,1 +1,1 @@
-var mnemonic = "chimney champion dignity immense mean leave section zero seat oppose display diagram";
+var mnemonic = "mountain pool seven lyrics arrow tongue vicious panther happy flight weather squeeze";

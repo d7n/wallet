@@ -1,1 +1,1 @@
-var mnemonic = "fire shift pet switch answer six frost rapid vicious knock merit frost";
+var mnemonic = "eye goose assist picnic pen season exist wave describe spatial dolphin ecology";

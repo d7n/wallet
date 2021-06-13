@@ -1,1 +1,1 @@
-var mnemonic = "kit crime reflect pig meadow stick donate beach obscure minor village cruel";
+var mnemonic = "blood village enjoy work harsh blanket rail actual tray crack armor anchor";

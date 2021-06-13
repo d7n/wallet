@@ -1,1 +1,1 @@
-var mnemonic = "large depend cover loud network sugar merry surge diary define maid trust";
+var mnemonic = "robust fantasy same mansion hunt armor brass coral cigar dice warm kangaroo";

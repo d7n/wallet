@@ -1,1 +1,1 @@
-var mnemonic = "confirm still gaze latin play song century kitten vehicle hover lonely trap";
+var mnemonic = "hundred unique market scheme tape rigid boil spread flip repair just cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "biology stool useful sphere awkward oak quick capable grunt raw elite enter";
+var mnemonic = "cluster ethics basket raven draft social enact holiday slogan wait involve weasel";

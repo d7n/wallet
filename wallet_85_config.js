@@ -1,1 +1,1 @@
-var mnemonic = "wealth bounce female attract evolve deputy pelican dice liberty spoil sea omit";
+var mnemonic = "early hire kit next sniff trip depend ship alpha grain gap giggle";

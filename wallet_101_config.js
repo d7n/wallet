@@ -1,1 +1,1 @@
-var mnemonic = "spider tornado divert describe stumble shiver soccer element proof beach idea farm";
+var mnemonic = "sand memory escape stamp know butter slice expect save enforce visit world";

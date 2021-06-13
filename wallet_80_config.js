@@ -1,1 +1,1 @@
-var mnemonic = "dismiss drive vendor barely rug lottery aspect caution measure sand large output";
+var mnemonic = "will tunnel open satisfy carbon track alien surface action common laugh idle";

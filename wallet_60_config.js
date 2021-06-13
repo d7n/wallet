@@ -1,1 +1,1 @@
-var mnemonic = "excess nasty mistake rocket gauge guilt clean gallery come track cheese seat";
+var mnemonic = "basic reduce airport sister tunnel mistake exhaust aware mix oyster minimum deny";

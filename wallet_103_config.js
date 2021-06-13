@@ -1,1 +1,1 @@
-var mnemonic = "crack relax direct flip height lock speed hub model limb earn banner";
+var mnemonic = "diagram earth bridge length gaze man neck twice bring distance multiply aware";

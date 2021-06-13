@@ -1,1 +1,1 @@
-var mnemonic = "dynamic borrow exhaust fault inch enact tuna rail devote mirror distance tail";
+var mnemonic = "embrace urge gym hub shadow sight flee squeeze maze journey remember artwork";

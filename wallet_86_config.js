@@ -1,1 +1,1 @@
-var mnemonic = "eagle sport across best engine stove adapt rail acoustic rhythm pumpkin leader";
+var mnemonic = "render around buzz wealth arctic purity cannon law extra fiber second hammer";

@@ -1,1 +1,1 @@
-var mnemonic = "stay script school elephant subject category senior flock master oven empty wedding";
+var mnemonic = "exact method entire topic winter live hidden island menu release tool tribe";

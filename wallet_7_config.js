@@ -1,1 +1,1 @@
-var mnemonic = "wash green fiber skill helmet large husband trade nothing museum unit please";
+var mnemonic = "sail high energy bench merge gauge float plate parent lounge jealous captain";

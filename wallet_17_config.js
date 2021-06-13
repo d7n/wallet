@@ -1,1 +1,1 @@
-var mnemonic = "fever face cube list shop rule glass creek spawn weapon top mountain";
+var mnemonic = "labor coast faculty boat canal stool average snap anxiety prosper orchard grant";

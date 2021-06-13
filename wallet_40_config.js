@@ -1,1 +1,1 @@
-var mnemonic = "tape shallow topple suffer uncle pistol segment narrow explain turtle material immune";
+var mnemonic = "famous behind screen wasp tail leader lava field valid unveil now tuition";

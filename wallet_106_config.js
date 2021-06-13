@@ -1,1 +1,1 @@
-var mnemonic = "spot soda casual trash surface edit what liar piece flame long liquid";
+var mnemonic = "dove fashion slot rhythm arm tilt street brave finger fiscal high noodle";

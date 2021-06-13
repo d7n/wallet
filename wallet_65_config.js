@@ -1,1 +1,1 @@
-var mnemonic = "wild kingdom skull orange lab indicate dad apple timber sign pause account";
+var mnemonic = "detect fancy crouch evoke near melody airport label swift piece myth switch";

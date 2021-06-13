@@ -1,1 +1,1 @@
-var mnemonic = "rain program sport erase tide attitude mistake oxygen indicate mule unique lobster";
+var mnemonic = "deal bright lamp desk category rib mesh safe pumpkin judge goose flock";

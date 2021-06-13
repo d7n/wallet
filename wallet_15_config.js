@@ -1,1 +1,1 @@
-var mnemonic = "elevator arm joke awful canal height obey myself dinner shrimp bag riot";
+var mnemonic = "doctor lawn cup assume grit country east lumber scorpion teach joke guess";

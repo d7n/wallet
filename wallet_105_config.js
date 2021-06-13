@@ -1,1 +1,1 @@
-var mnemonic = "steak effort tail carpet weather bachelor retreat clarify high drink average beyond";
+var mnemonic = "pull able inmate guide garbage final point morning tuna garbage dice fancy";

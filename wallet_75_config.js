@@ -1,1 +1,1 @@
-var mnemonic = "parrot tennis bind leopard smoke wet symbol industry scene sheriff spell change";
+var mnemonic = "destroy kiwi judge domain divert earth mimic iron debris afford harsh pistol";

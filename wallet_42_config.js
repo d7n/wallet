@@ -1,1 +1,1 @@
-var mnemonic = "rocket napkin bounce age end trick monster device deliver lottery reject border";
+var mnemonic = "fluid around submit rent crazy match confirm figure cigar fat jungle resource";

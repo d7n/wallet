@@ -1,1 +1,1 @@
-var mnemonic = "tribe voyage dust ecology brick program humble pride multiply play off solar";
+var mnemonic = "spell beach leaf off defy peace wear glance immune valley stereo later";

@@ -1,1 +1,1 @@
-var mnemonic = "auction network claim bread already fatal security exercise avoid merge fly marble";
+var mnemonic = "twin van nature october black original total flip call neutral can gloom";

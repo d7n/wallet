@@ -1,1 +1,1 @@
-var mnemonic = "dress buffalo vehicle brain sport gather shrimp need issue science adult trouble";
+var mnemonic = "crawl song utility holiday huge style habit print throw lunar gun loop";

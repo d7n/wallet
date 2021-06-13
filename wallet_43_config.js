@@ -1,1 +1,1 @@
-var mnemonic = "alter dynamic liberty razor wing include goddess love retreat effort monkey cook";
+var mnemonic = "fine army rice title trip zone detail blood surround intact mesh envelope";

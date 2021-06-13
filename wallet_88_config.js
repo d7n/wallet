@@ -1,1 +1,1 @@
-var mnemonic = "sample cereal eagle example clap payment fitness pottery neck hair artist recycle";
+var mnemonic = "expand balcony warm afford dawn blur nerve scrub post enhance enemy junior";

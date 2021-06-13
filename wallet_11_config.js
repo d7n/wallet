@@ -1,1 +1,1 @@
-var mnemonic = "story gospel fit offer scout then provide host hood cheese exchange guess";
+var mnemonic = "phone shuffle island future once initial addict goat visit decade reveal gift";

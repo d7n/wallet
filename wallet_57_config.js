@@ -1,1 +1,1 @@
-var mnemonic = "clap owner mad flee trophy scale question outside goat mistake organ auction";
+var mnemonic = "length waste glide above social like green situate timber baby fiction record";

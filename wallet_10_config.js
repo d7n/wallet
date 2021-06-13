@@ -1,1 +1,1 @@
-var mnemonic = "trick side shuffle human rely bone response elevator marine quick vague banana";
+var mnemonic = "crumble good they shoot decrease plastic stage achieve account tool spike cute";

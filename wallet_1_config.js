@@ -1,1 +1,1 @@
-var mnemonic = "ridge return style cool field bunker grow giraffe height ceiling monitor rebuild";
+var mnemonic = "soul express juice letter have bean can lady observe upon sock mystery";

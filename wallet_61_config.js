@@ -1,1 +1,1 @@
-var mnemonic = "flee busy now invite rent all yellow mouse tumble island hire betray";
+var mnemonic = "comic fetch impose tumble renew vault hazard lyrics dust used fury present";

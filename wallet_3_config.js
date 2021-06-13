@@ -1,1 +1,1 @@
-var mnemonic = "toddler long suggest penalty group tip across photo velvet maid kangaroo ritual";
+var mnemonic = "nuclear bus mouse peasant artist keep hour exclude remind lunch biology female";

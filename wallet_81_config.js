@@ -1,1 +1,1 @@
-var mnemonic = "blanket range reunion century enhance citizen garlic desert toward sort cash razor";
+var mnemonic = "credit resemble symptom antique nest tank auction floor hood hover public honey";

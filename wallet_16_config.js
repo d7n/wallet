@@ -1,1 +1,1 @@
-var mnemonic = "meadow era update agent fold soup green ready pony stumble author task";
+var mnemonic = "gallery brisk sad success brush cat seek virtual image near aerobic door";

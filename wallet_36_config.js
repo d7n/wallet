@@ -1,1 +1,1 @@
-var mnemonic = "movie bounce movie slam edge glance family approve salad borrow civil settle";
+var mnemonic = "own aerobic borrow toss napkin jacket salon mandate harsh fiscal course uncover";

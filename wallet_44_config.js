@@ -1,1 +1,1 @@
-var mnemonic = "manage assault actor banner wreck sure client fruit february grant tiger alien";
+var mnemonic = "put razor black vibrant perfect taste phrase bone unit bike sail danger";

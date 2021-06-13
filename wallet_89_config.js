@@ -1,1 +1,1 @@
-var mnemonic = "pony possible coconut vivid dial sausage stove agree attitude save educate cheap";
+var mnemonic = "typical negative moon carpet voyage thing airport defense blade garden deliver year";

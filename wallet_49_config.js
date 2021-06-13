@@ -1,1 +1,1 @@
-var mnemonic = "dirt kangaroo crowd place vibrant point team phone palm mother sure denial";
+var mnemonic = "cream word history drum grace obscure satoshi tiny inform scene carry blossom";

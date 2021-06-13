@@ -1,1 +1,1 @@
-var mnemonic = "cost pizza rare parent renew domain token method surround suit fan lawsuit";
+var mnemonic = "neutral height fruit legal club gather swap decline atom chapter silly text";

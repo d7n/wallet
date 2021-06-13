@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon miracle pill pool panther object soda veteran token input illegal acid";
+var mnemonic = "belt liar equal alone assist often wisdom marble brisk feature similar neither";

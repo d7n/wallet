@@ -1,1 +1,1 @@
-var mnemonic = "fossil nice affair hazard crisp want uncle hockey duck talk image dial";
+var mnemonic = "left ethics night educate glue violin vendor one skirt typical network process";

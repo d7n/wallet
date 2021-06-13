@@ -1,1 +1,1 @@
-var mnemonic = "few champion artwork time pudding breeze cruel banana attack prepare lock pull";
+var mnemonic = "ordinary depth couple ostrich adjust brief liar brave snap eternal trigger two";
