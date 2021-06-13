@@ -1,1 +1,1 @@
-var mnemonic = "tag drive modify index surge aspect mix endless pass spell south turn";
+var mnemonic = "float quantum chimney split soul faith boat pizza lumber salt world mule";

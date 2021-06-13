@@ -1,1 +1,1 @@
-var mnemonic = "creek device team catch bean drink legend idea leopard bachelor volcano firm";
+var mnemonic = "shrimp typical figure cigar often economy collect path produce net earth scheme";

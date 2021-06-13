@@ -1,1 +1,1 @@
-var mnemonic = "margin they swamp bring family phone grape faith below monster fuel number";
+var mnemonic = "occur stable coyote pass upset vessel forward brush worry deliver biology museum";

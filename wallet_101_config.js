@@ -1,1 +1,1 @@
-var mnemonic = "rival rally sorry satoshi catalog margin blue album dove length raw game";
+var mnemonic = "athlete wrestle honey grief drama acid arm rely allow island also grocery";

@@ -1,1 +1,1 @@
-var mnemonic = "stay capable media afraid flash combine analyst any school flight stomach crawl";
+var mnemonic = "snow mutual baby shrimp autumn exchange party popular junk poem answer buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "ability pole parrot that organ frame razor theme fly mirror bridge addict";
+var mnemonic = "frequent live twist soon dynamic dog eagle search wedding reject upon wisdom";

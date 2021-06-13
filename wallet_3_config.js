@@ -1,1 +1,1 @@
-var mnemonic = "steel enable luxury salt usage whip wet laugh favorite nation float boy";
+var mnemonic = "solar small still inhale lobster copy expect resemble slot spread foot employ";

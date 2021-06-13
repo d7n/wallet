@@ -1,1 +1,1 @@
-var mnemonic = "boring diary emerge cable pottery boring tobacco possible license dune base slam";
+var mnemonic = "high together input impose melody title occur gold polar evidence tomorrow mushroom";

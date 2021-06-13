@@ -1,1 +1,1 @@
-var mnemonic = "wrestle rate color parade mutual ship blur float resource butter code eagle";
+var mnemonic = "elephant spring humble casino setup exhaust swallow isolate female disease pudding bonus";

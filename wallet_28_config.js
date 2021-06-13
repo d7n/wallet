@@ -1,1 +1,1 @@
-var mnemonic = "before brother high dentist imitate filter giraffe switch stove select balcony rotate";
+var mnemonic = "jaguar screen inherit erase term exit robust vendor wrestle swamp ahead open";

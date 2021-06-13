@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo chapter okay movie tone winter illness antenna spirit weekend segment fun";
+var mnemonic = "deny garbage enemy stumble siren lucky health topic outdoor winter immense print";

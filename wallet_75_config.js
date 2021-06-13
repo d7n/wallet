@@ -1,1 +1,1 @@
-var mnemonic = "episode polar napkin empower image metal produce evolve step skull penalty topple";
+var mnemonic = "appear useful vital creek loud insect year recycle expose purity robot asthma";

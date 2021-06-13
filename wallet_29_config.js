@@ -1,1 +1,1 @@
-var mnemonic = "check upper gown original bamboo stick rally predict give blind siege senior";
+var mnemonic = "hood spice humble video winner pottery ginger arctic check easy vault nut";

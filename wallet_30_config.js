@@ -1,1 +1,1 @@
-var mnemonic = "road charge length theme alpha glare skin dog buffalo general panda extra";
+var mnemonic = "universe tenant unfair twelve broccoli hire window truly snack ripple soon west";

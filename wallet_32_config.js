@@ -1,1 +1,1 @@
-var mnemonic = "hungry top surge cost evil argue gentle diamond ice still business predict";
+var mnemonic = "thrive net admit sad verb museum sentence dynamic buffalo tomato gun anger";

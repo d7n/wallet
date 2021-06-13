@@ -1,1 +1,1 @@
-var mnemonic = "mind copper egg turtle flat blood path nurse bulk balance fish absurd";
+var mnemonic = "evoke lecture typical gold welcome traffic desert early dog secret glove matrix";

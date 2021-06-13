@@ -1,1 +1,1 @@
-var mnemonic = "razor young label rain kiwi this radio pause aware hint someone mercy";
+var mnemonic = "acoustic live pill draw clown frog option episode visit inner flash three";

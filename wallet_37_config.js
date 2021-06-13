@@ -1,1 +1,1 @@
-var mnemonic = "shock grocery exist secret bargain virus extend plug receive own essence safe";
+var mnemonic = "process trend rule world defense cause mechanic toe solve ethics romance mountain";

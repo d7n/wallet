@@ -1,1 +1,1 @@
-var mnemonic = "hip marriage edge mistake cattle fine stable summer leopard safe box mammal";
+var mnemonic = "flush pipe grab stay tired core upset disagree tomato face rapid price";

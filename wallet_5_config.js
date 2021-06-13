@@ -1,1 +1,1 @@
-var mnemonic = "twice sphere sun sphere phrase turkey elevator stereo hint cherry gas viable";
+var mnemonic = "win scare mountain million luxury voyage split arm afraid baby noble spring";

@@ -1,1 +1,1 @@
-var mnemonic = "relax train cradle salon adapt hospital punch finish swamp lend quantum spoon";
+var mnemonic = "tortoise above invite mouse mushroom oxygen swift rather sponsor govern tribe powder";

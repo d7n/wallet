@@ -1,1 +1,1 @@
-var mnemonic = "very image bid lunar discover album gap install pink misery defense drum";
+var mnemonic = "first question olive arch smart employ base athlete dizzy shoulder interest relax";

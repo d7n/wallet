@@ -1,1 +1,1 @@
-var mnemonic = "scrub bar useless keep mom solve hazard extend catalog ethics evoke curious";
+var mnemonic = "post popular seek matter pony foil stairs proof arrest famous despair chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "drift pair neck sport answer soccer lonely august injury metal during style";
+var mnemonic = "roast skate zone select sphere veteran bounce acquire into gesture census panel";

@@ -1,1 +1,1 @@
-var mnemonic = "water pigeon latin track slim talk abuse extra glove typical give laundry";
+var mnemonic = "area cannon tree garbage dust another uncle attack auto confirm offer town";

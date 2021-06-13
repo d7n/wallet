@@ -1,1 +1,1 @@
-var mnemonic = "kiss wild firm essay kiss chef impose swap wedding rubber device toddler";
+var mnemonic = "gallery divert affair monkey rare auto disorder middle tuna despair ginger steel";

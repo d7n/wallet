@@ -1,1 +1,1 @@
-var mnemonic = "furnace circle flame diamond like hidden prepare imitate artefact bike vault shine";
+var mnemonic = "grief assault demise balcony trip civil know emotion absorb water other retire";

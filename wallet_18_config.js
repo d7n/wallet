@@ -1,1 +1,1 @@
-var mnemonic = "anchor donkey spy gather bacon marriage grit lesson speed festival fit useful";
+var mnemonic = "motion diet join sauce melody oyster civil win canvas pass differ fruit";

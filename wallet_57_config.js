@@ -1,1 +1,1 @@
-var mnemonic = "lava soldier unique boil weird before cereal echo fog captain better isolate";
+var mnemonic = "black tree primary keen easily attack fence rebel gym ancient assault mask";

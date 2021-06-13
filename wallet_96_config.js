@@ -1,1 +1,1 @@
-var mnemonic = "fog soul dream vendor custom push pride amateur magnet lion jump fog";
+var mnemonic = "gadget bubble mobile have sport action resemble rotate fall gate ring leopard";

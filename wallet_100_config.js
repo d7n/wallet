@@ -1,1 +1,1 @@
-var mnemonic = "weapon charge dilemma parrot ride review future slender blame actress wide perfect";
+var mnemonic = "bread swamp young fury female glare stable pause parrot blame rigid season";

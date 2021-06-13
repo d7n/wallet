@@ -1,1 +1,1 @@
-var mnemonic = "cave exile derive pig club choose half record pluck sand raccoon eager";
+var mnemonic = "leisure angle retire cart marble girl honey box ball wood unfold upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "width rail beyond merit fiscal link seven luxury candy naive sure polar";
+var mnemonic = "cradle skull plug summer alpha dance agree edit liquid tornado mystery another";

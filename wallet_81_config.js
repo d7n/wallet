@@ -1,1 +1,1 @@
-var mnemonic = "female recall soul indicate material general diet discover brand surprise make tube";
+var mnemonic = "expire whisper universe into series design average fish elbow busy manual collect";

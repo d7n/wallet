@@ -1,1 +1,1 @@
-var mnemonic = "few jazz design eagle fortune artist amazing outdoor disagree treat speak bus";
+var mnemonic = "puzzle kit sunny east cool point trouble segment eternal wear path own";

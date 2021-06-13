@@ -1,1 +1,1 @@
-var mnemonic = "list trick electric swear airport tag immune slab connect pond hurt sheriff";
+var mnemonic = "flash draw relief humor shaft exhaust heart prison local random runway marble";

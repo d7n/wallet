@@ -1,1 +1,1 @@
-var mnemonic = "anxiety success during enough link volume advance success inflict merge valley method";
+var mnemonic = "review exchange harbor diagram digital crazy equip join taste have thrive critic";

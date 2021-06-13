@@ -1,1 +1,1 @@
-var mnemonic = "eager output scrap forum amateur brown cricket trial opinion tent essay dog";
+var mnemonic = "dawn exist gown direct absurd praise betray drill demand broom sweet apple";

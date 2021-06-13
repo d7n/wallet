@@ -1,1 +1,1 @@
-var mnemonic = "spell surround moral move message movie submit wolf eye prize uniform convince";
+var mnemonic = "choose fever jar shiver ring paddle hair picture price tooth current mention";

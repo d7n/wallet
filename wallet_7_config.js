@@ -1,1 +1,1 @@
-var mnemonic = "unfair yard vintage vacuum year comic ski gain admit unfold wide obscure";
+var mnemonic = "impose used blanket help castle like stick vault odor train injury actor";

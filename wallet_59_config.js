@@ -1,1 +1,1 @@
-var mnemonic = "way crystal pill midnight horn mango dinner dwarf word rice speak space";
+var mnemonic = "session forward sauce radar devote three brass ramp nurse rent major innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "cash exercise steak brief essence antenna move absorb include slab bamboo antique";
+var mnemonic = "polar venue sibling name pigeon apart mom vapor you devote razor sunset";

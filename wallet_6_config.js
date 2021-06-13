@@ -1,1 +1,1 @@
-var mnemonic = "indicate nothing fence left engage crane noble inspire flock fan core vault";
+var mnemonic = "cube suffer social minute champion parent choice onion that ill device debris";

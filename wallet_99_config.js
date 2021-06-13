@@ -1,1 +1,1 @@
-var mnemonic = "dinner spider biology minute crawl trouble fiscal venture erode gas worth make";
+var mnemonic = "jacket need grape air weekend charge harvest liquid record jazz warrior monkey";

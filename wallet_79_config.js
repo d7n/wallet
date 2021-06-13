@@ -1,1 +1,1 @@
-var mnemonic = "bid retire across outdoor object apple click absent crush inmate rain illness";
+var mnemonic = "box milk dutch dilemma property sun cricket bird correct collect bulb neck";

@@ -1,1 +1,1 @@
-var mnemonic = "merge throw armed zone survey approve portion west path report table vibrant";
+var mnemonic = "blue recall limb vibrant unit magic vicious winner boss senior easily wide";

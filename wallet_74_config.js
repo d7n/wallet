@@ -1,1 +1,1 @@
-var mnemonic = "famous senior ready typical series deer habit frame dish island benefit fade";
+var mnemonic = "swing write three person minute tooth ask tape split govern winner rule";

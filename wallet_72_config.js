@@ -1,1 +1,1 @@
-var mnemonic = "buzz mystery zoo teach beauty original people veteran tornado adjust hub hole";
+var mnemonic = "flat menu rice fan pear emotion other surprise chair never palm elevator";

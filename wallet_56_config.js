@@ -1,1 +1,1 @@
-var mnemonic = "thunder absurd damp buzz toss satisfy small lunch guess reason believe clutch";
+var mnemonic = "demand shy bus bullet addict foam effort lonely earth spend skate empower";

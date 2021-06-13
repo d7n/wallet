@@ -1,1 +1,1 @@
-var mnemonic = "meadow cotton someone defense trumpet medal trade guitar dust ritual quit main";
+var mnemonic = "feature caught birth hidden bounce visit soap loud scissors sting snack shadow";

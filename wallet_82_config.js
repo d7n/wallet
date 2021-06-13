@@ -1,1 +1,1 @@
-var mnemonic = "stay venture upon describe oval wheat prevent bomb inmate shift cinnamon actor";
+var mnemonic = "shrimp pass spring ability people mix tell fiber guard purse board ostrich";

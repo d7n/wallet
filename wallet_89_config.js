@@ -1,1 +1,1 @@
-var mnemonic = "fame emerge hedgehog birth autumn celery rely blame frost disagree enlist salad";
+var mnemonic = "fragile error other eight vague this echo pretty mouse prison jelly monkey";

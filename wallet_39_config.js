@@ -1,1 +1,1 @@
-var mnemonic = "knife riot employ repair catalog proof key dragon sail sword lens pride";
+var mnemonic = "gold draft wide ethics foster water record educate apple lawsuit motion great";

@@ -1,1 +1,1 @@
-var mnemonic = "critic absent autumn spring picture oil grant choose digital exact unhappy nose";
+var mnemonic = "system apology magnet tumble tumble enemy drama anger lunar shrug vicious reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe cereal wheat match fashion life scene team consider festival budget romance";
+var mnemonic = "deposit great abuse click build drift orchard pistol response detail loan eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "garment opera renew clean trend dizzy tonight knee reform name voyage radio";
+var mnemonic = "tree wrist mail cover airport unit glue avoid pool huge best minimum";

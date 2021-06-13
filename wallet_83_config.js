@@ -1,1 +1,1 @@
-var mnemonic = "odor payment hawk blouse avocado squeeze curious evil act exchange disagree lava";
+var mnemonic = "mercy hidden album spring clay flower middle install hamster below later identify";

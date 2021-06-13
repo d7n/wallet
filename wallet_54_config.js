@@ -1,1 +1,1 @@
-var mnemonic = "glow assault similar decide together cube square tiny pizza ball quote uniform";
+var mnemonic = "laundry inside post receive pole recycle soon crowd choice tobacco raise sand";

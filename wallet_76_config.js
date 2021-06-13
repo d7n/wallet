@@ -1,1 +1,1 @@
-var mnemonic = "candy chicken soccer minor glove great eagle obvious tenant unusual lab thought";
+var mnemonic = "until always believe wisdom parrot scrub crop gate egg neither laundry boil";

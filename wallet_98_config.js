@@ -1,1 +1,1 @@
-var mnemonic = "thing tobacco list tower dinosaur carry often payment virtual pig brother behave";
+var mnemonic = "list transfer problem there spoon usage expose cement void owner anxiety sustain";

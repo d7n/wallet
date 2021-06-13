@@ -1,1 +1,1 @@
-var mnemonic = "ride item age pledge audit must inmate poet ability elevator visit mention";
+var mnemonic = "promote project wink wink outer idle cover pulp sadness soda explain lecture";

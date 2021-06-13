@@ -1,1 +1,1 @@
-var mnemonic = "magnet uncle maid crouch cash asset when tool seed ketchup fold cool";
+var mnemonic = "jazz tape tunnel sting rotate pyramid marriage label goat stay fiction deer";

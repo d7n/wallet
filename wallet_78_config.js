@@ -1,1 +1,1 @@
-var mnemonic = "miss capable usual accuse fee endorse water pattern turn state kidney ozone";
+var mnemonic = "chuckle quiz coast kangaroo patrol demand tonight useful order design donate mechanic";

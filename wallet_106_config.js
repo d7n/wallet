@@ -1,1 +1,1 @@
-var mnemonic = "provide scale pottery cram people zero venue mule error survey learn insane";
+var mnemonic = "trophy have evil addict gloom make pulp edge resource used impose over";

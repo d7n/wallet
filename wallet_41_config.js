@@ -1,1 +1,1 @@
-var mnemonic = "all amazing vault breeze rice reward hobby opinion make raw orchard fiber";
+var mnemonic = "clip silly equip hole private street nothing artist observe question better item";

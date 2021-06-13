@@ -1,1 +1,1 @@
-var mnemonic = "genuine can promote change tunnel response round nurse apple stamp hedgehog oil";
+var mnemonic = "episode analyst hat steel author flavor object mask female review draw skate";

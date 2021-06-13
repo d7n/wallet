@@ -1,1 +1,1 @@
-var mnemonic = "victory doctor basic opinion speed tourist repair wet again emerge pyramid found";
+var mnemonic = "they sting neutral crazy push village feature unhappy despair weapon cushion forward";

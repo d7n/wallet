@@ -1,1 +1,1 @@
-var mnemonic = "attend topple seek supreme ladder tank high network boss work bring way";
+var mnemonic = "drive wolf aim rhythm police elbow salad endorse anchor budget addict unique";

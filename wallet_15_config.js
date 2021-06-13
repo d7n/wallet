@@ -1,1 +1,1 @@
-var mnemonic = "route quarter weird cycle dance tongue scrap century flame elevator ranch pride";
+var mnemonic = "left remember deliver wagon female brief rather bread front fat dream welcome";

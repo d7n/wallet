@@ -1,1 +1,1 @@
-var mnemonic = "afford ride club pulse tennis moral smooth robust blame raven gun peanut";
+var mnemonic = "bottom spot film increase miracle path fault mention loud drink verify camera";

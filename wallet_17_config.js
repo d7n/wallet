@@ -1,1 +1,1 @@
-var mnemonic = "setup need resemble pause program rare thank stomach bicycle item fold reform";
+var mnemonic = "upset security symptom family then wise canoe agent author tool menu eight";

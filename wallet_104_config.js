@@ -1,1 +1,1 @@
-var mnemonic = "tiger simple school oppose soda kangaroo series catch left nature portion broom";
+var mnemonic = "parade spend wasp fury vapor blue fragile give roast used vibrant cart";

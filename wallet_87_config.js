@@ -1,1 +1,1 @@
-var mnemonic = "private dice transfer rival movie violin resource mechanic army submit session abandon";
+var mnemonic = "know word craft clump model soldier kiss fan funny report parrot rotate";

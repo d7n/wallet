@@ -1,1 +1,1 @@
-var mnemonic = "solar pear dose power grain age kingdom gallery brick topple detect arch";
+var mnemonic = "dismiss cart crime anger oblige upper between dial drama leave cry suffer";

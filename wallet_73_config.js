@@ -1,1 +1,1 @@
-var mnemonic = "helmet rival gesture either vehicle ten jelly lobster lobster roof soda rich";
+var mnemonic = "valley slot swift minimum balance sugar fire fiber actress country move bullet";

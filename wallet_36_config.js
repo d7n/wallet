@@ -1,1 +1,1 @@
-var mnemonic = "apology knife alone wear ice armor scale garden fruit struggle ethics eager";
+var mnemonic = "cause silver kingdom globe body leisure law release idle bracket mouse inch";

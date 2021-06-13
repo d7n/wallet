@@ -1,1 +1,1 @@
-var mnemonic = "click blade steel odor onion build source ritual olympic number rebel child";
+var mnemonic = "tank donor match garlic vacuum cage door merge clump toddler episode must";

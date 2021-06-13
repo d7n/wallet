@@ -1,1 +1,1 @@
-var mnemonic = "scale mammal relax waste economy lumber trade vessel source lottery expect turn";
+var mnemonic = "toss happy amateur dance meadow fatigue save rare chief over market few";

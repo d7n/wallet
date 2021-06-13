@@ -1,1 +1,1 @@
-var mnemonic = "lounge royal garbage skate analyst protect kidney fiction moon output step mistake";
+var mnemonic = "entire weasel will belt flame language muscle follow teach govern quantum primary";

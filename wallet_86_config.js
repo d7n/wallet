@@ -1,1 +1,1 @@
-var mnemonic = "width soon gown man render swarm disagree crumble sadness impact tackle purchase";
+var mnemonic = "audit gorilla home social cute move next fit name first fence biology";

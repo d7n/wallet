@@ -1,1 +1,1 @@
-var mnemonic = "work blouse tilt very mention autumn shoe drift glare write ripple submit";
+var mnemonic = "clarify urge people empower bitter title cotton elephant inspire outdoor visual forward";

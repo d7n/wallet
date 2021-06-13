@@ -1,1 +1,1 @@
-var mnemonic = "silly caution pumpkin start share inside picnic bread print wisdom rebuild orange";
+var mnemonic = "air link deny measure sock best tail march faith salmon air copy";

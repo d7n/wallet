@@ -1,1 +1,1 @@
-var mnemonic = "release time asset erode accident churn toast analyst hand oven ignore unhappy";
+var mnemonic = "cry palm domain surround jelly oxygen miss glide wood business critic reform";

@@ -1,1 +1,1 @@
-var mnemonic = "panda exile patch rule violin equip sniff advice scrap inject park gadget";
+var mnemonic = "food thrive know cargo reform glide favorite want term dolphin typical churn";

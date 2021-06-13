@@ -1,1 +1,1 @@
-var mnemonic = "hover poem scan peasant knock just upper climb legend retire gas float";
+var mnemonic = "common math meadow cousin barely cook crumble junk fall wide fever once";

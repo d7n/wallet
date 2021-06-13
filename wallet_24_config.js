@@ -1,1 +1,1 @@
-var mnemonic = "truck weather galaxy noble cancel clean animal bind steel taxi close inspire";
+var mnemonic = "uncover agent ball smart raw tongue match half mom boy furnace execute";
