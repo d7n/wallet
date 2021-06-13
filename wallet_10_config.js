@@ -1,1 +1,1 @@
-var mnemonic = "lawn lab tuna obvious boost road powder almost twist blush year omit";
+var mnemonic = "priority board blame blood lock together private multiply later pause animal phone";

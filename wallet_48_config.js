@@ -1,1 +1,1 @@
-var mnemonic = "silly pipe stay side ready collect basic quote actor pride eight diary";
+var mnemonic = "child wasp ribbon way window boil slogan noise bike setup scan employ";

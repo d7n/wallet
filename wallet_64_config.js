@@ -1,1 +1,1 @@
-var mnemonic = "noble harvest shy width say real grief pear extend bottom whisper flag";
+var mnemonic = "palm limit cruise hunt modify reveal wealth reform power arrange base skull";

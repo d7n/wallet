@@ -1,1 +1,1 @@
-var mnemonic = "insect scissors lab sight salon loop misery renew essay stadium save lecture";
+var mnemonic = "damp sail sister father spin box duty twin message gloom person lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "salon exit rebel puppy gold bless split mixed talent clump skill turtle";
+var mnemonic = "tobacco radar fat naive prize village surface bring south differ wedding food";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup shove hub inmate approve drop myself object lizard tail able reunion";
+var mnemonic = "flat diet fossil rigid about depart income sheriff control eye next clump";

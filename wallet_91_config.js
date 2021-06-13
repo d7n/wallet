@@ -1,1 +1,1 @@
-var mnemonic = "power exhaust civil loud adult sort deny material rural alcohol next blood";
+var mnemonic = "fold certain east extra involve pistol drive anxiety dinner memory evolve small";

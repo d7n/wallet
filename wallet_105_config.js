@@ -1,1 +1,1 @@
-var mnemonic = "disorder similar increase bridge error opera dismiss warrior animal swift excite matrix";
+var mnemonic = "donate cram find warrior grape dynamic you future report session cabbage flower";

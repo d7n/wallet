@@ -1,1 +1,1 @@
-var mnemonic = "illegal horse brick entry gun twin junior mimic nest history harsh ensure";
+var mnemonic = "puppy cross foster fire thumb option arch deny rich imitate wage brother";

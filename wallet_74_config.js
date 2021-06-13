@@ -1,1 +1,1 @@
-var mnemonic = "huge choose worry cause kite decline double latin elbow draw devote receive";
+var mnemonic = "dose donor gravity travel blame traffic baby hint plunge parade mobile clutch";

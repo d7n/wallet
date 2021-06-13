@@ -1,1 +1,1 @@
-var mnemonic = "cost cream task logic hover goose various eagle route drill swamp flip";
+var mnemonic = "unveil system creek awkward often wall flight happy anxiety upper twin double";

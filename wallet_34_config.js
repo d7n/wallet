@@ -1,1 +1,1 @@
-var mnemonic = "draw screen camera carbon cancel close door hub banana lucky parrot city";
+var mnemonic = "resource above assist habit favorite fringe pledge push arrow aisle visit crash";

@@ -1,1 +1,1 @@
-var mnemonic = "fish tortoise useful skate theory boy connect rotate defy glad unable chicken";
+var mnemonic = "jazz chief trophy detect brown invest typical concert pond myth popular joke";

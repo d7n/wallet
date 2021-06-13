@@ -1,1 +1,1 @@
-var mnemonic = "birth echo relief logic prepare alien retire arm disease weapon mix rigid";
+var mnemonic = "school visit amazing hobby negative very volcano family fox giant cigar citizen";

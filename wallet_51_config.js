@@ -1,1 +1,1 @@
-var mnemonic = "universe endless genuine can service dog plunge mobile artwork gather feel robot";
+var mnemonic = "tobacco jacket rival recall skull fine prison chase glance include accident glove";

@@ -1,1 +1,1 @@
-var mnemonic = "able accuse remind agree salon love train warfare estate give harvest tornado";
+var mnemonic = "excuse glimpse slow pet quick obscure gasp case around churn harvest walk";

@@ -1,1 +1,1 @@
-var mnemonic = "early okay unaware onion diagram phone memory open once lift output wood";
+var mnemonic = "weather pioneer slide void buddy pool useless betray tent lend enlist cabbage";

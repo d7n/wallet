@@ -1,1 +1,1 @@
-var mnemonic = "hat six town clog dune sick sick still lazy ice fuel bread";
+var mnemonic = "laundry atom drip warfare armed despair hint neutral return general mixed arrest";

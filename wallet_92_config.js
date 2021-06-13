@@ -1,1 +1,1 @@
-var mnemonic = "shine life gun any antenna ankle credit desk filter remember cat carpet";
+var mnemonic = "output victory trouble screen iron dumb choice street weird trust rib east";

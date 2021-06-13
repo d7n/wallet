@@ -1,1 +1,1 @@
-var mnemonic = "concert effort close occur sketch sure alarm lazy enemy solution sudden layer";
+var mnemonic = "baby auto whale luxury tumble antique page parent hospital edge cargo into";

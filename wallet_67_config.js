@@ -1,1 +1,1 @@
-var mnemonic = "glory turtle toward cotton diet quit certain apart practice tissue series route";
+var mnemonic = "mistake destroy access pact differ ginger result elephant taste damage prepare clean";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle similar want one meat debate behind rubber chicken cable usual tortoise";
+var mnemonic = "slim core loyal ivory alone law wall situate cash size palm morning";

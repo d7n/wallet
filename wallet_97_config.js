@@ -1,1 +1,1 @@
-var mnemonic = "lady genuine announce reward coast tennis spare pitch slight town rail love";
+var mnemonic = "rare meat talk offer march enter cool share village wonder differ senior";

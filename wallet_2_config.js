@@ -1,1 +1,1 @@
-var mnemonic = "tree solution remove jeans pull sunny device swear cruise sketch habit fortune";
+var mnemonic = "behave public february leisure glove cup such crunch faculty math tomato lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "coral gaze hawk match remove minor pear pelican wreck scare alter orchard";
+var mnemonic = "midnight beach quote corn glue again into describe couch draft float depend";

@@ -1,1 +1,1 @@
-var mnemonic = "seven lumber dinosaur produce this renew either sunset van album deputy skin";
+var mnemonic = "celery amused hockey place medal donkey excuse diesel upset final vote almost";

@@ -1,1 +1,1 @@
-var mnemonic = "memory blanket certain toward soldier govern table expand cake car check song";
+var mnemonic = "prevent patrol quiz coral media galaxy test diesel kangaroo quarter problem access";

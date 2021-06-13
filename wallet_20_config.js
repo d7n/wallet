@@ -1,1 +1,1 @@
-var mnemonic = "boy math lesson lake transfer that amount property parent allow ball scare";
+var mnemonic = "retreat else art flame area amount pole swing umbrella open spider trash";

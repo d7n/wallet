@@ -1,1 +1,1 @@
-var mnemonic = "royal where announce galaxy giraffe width figure spread offer pact expect put";
+var mnemonic = "bachelor peace oak tone immune world eye ankle clutch lounge crumble simple";

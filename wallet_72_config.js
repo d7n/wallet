@@ -1,1 +1,1 @@
-var mnemonic = "reduce minor crawl public regular hurt remember method garbage orient select illegal";
+var mnemonic = "bar surface more shock chalk level cigar bundle require final rally ticket";

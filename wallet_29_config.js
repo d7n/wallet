@@ -1,1 +1,1 @@
-var mnemonic = "relief egg olympic exhibit shallow bamboo load lift into soda team update";
+var mnemonic = "mystery off shoulder flight tomato corn gesture resource kite luxury twist clever";

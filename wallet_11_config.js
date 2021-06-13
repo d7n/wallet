@@ -1,1 +1,1 @@
-var mnemonic = "boil square sword often purse smooth payment torch joy screen build cute";
+var mnemonic = "lady such certain hour recall auction pioneer need trophy gospel brief mother";

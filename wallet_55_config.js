@@ -1,1 +1,1 @@
-var mnemonic = "transfer one glimpse call palm cream october capital swap inherit absorb host";
+var mnemonic = "drive ramp claw jaguar actual voice section slow soon disorder spoon segment";

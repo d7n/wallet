@@ -1,1 +1,1 @@
-var mnemonic = "solve run carbon satoshi end bread snap digital sauce spike ship mix";
+var mnemonic = "brand sound rule canoe timber marble kid patch february magnet stumble wedding";

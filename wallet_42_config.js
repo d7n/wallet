@@ -1,1 +1,1 @@
-var mnemonic = "crop parrot cereal clip one pony again spell bulb human public fine";
+var mnemonic = "because keen limit social dream faith veteran daughter genre elite when win";

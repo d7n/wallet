@@ -1,1 +1,1 @@
-var mnemonic = "police brief wheat click treat screen permit eagle cheese inmate infant tribe";
+var mnemonic = "sustain act pool welcome turtle future way bracket dizzy ugly middle gain";

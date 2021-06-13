@@ -1,1 +1,1 @@
-var mnemonic = "talent maze three nature inside dose loyal dog soon spawn grunt dilemma";
+var mnemonic = "sing match reunion cherry real struggle ketchup danger goat solve length come";

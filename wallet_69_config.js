@@ -1,1 +1,1 @@
-var mnemonic = "occur cupboard duty fetch collect affair rich judge distance armor tide open";
+var mnemonic = "mystery bread clerk gadget permit sustain profit inform same horse spray retire";

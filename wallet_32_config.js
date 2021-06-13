@@ -1,1 +1,1 @@
-var mnemonic = "loan burger trash beauty horn upset review entry arena repeat fade music";
+var mnemonic = "quality purity foot spoil summer sun february humor echo such delay album";

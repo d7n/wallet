@@ -1,1 +1,1 @@
-var mnemonic = "mansion people wasp ask mammal acid person wage topic duty toast gap";
+var mnemonic = "skill kind unable blade wide carpet august chef airport brisk quote crop";

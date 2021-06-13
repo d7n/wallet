@@ -1,1 +1,1 @@
-var mnemonic = "example share rug coil struggle fly bid success blue inch poverty monitor";
+var mnemonic = "month fly mandate asthma final strong install seat yard fossil sign quote";

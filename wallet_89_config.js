@@ -1,1 +1,1 @@
-var mnemonic = "dwarf little pilot vacant riot save connect same win enjoy naive dizzy";
+var mnemonic = "opinion attack test labor century shallow permit fresh jump once pave crawl";

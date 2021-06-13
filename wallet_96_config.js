@@ -1,1 +1,1 @@
-var mnemonic = "come clutch muffin anxiety design twelve foil whale february glide exact argue";
+var mnemonic = "neglect ride response confirm beyond struggle garbage divorce height onion snap skill";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive dutch birth reason coyote maid cotton crane page route movie puppy";
+var mnemonic = "million theme gorilla resource flush boss monkey snow gasp opera lunch order";

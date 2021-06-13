@@ -1,1 +1,1 @@
-var mnemonic = "tired absorb own elephant humble work bid loop reject rhythm surface throw";
+var mnemonic = "mention behind vault mercy miracle upper turkey acquire wealth wing smooth mutual";

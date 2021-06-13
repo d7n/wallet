@@ -1,1 +1,1 @@
-var mnemonic = "what elevator snap rescue strategy empty example erode together daughter evil harvest";
+var mnemonic = "glad gun wet float refuse crew spice canvas rail cousin situate orient";

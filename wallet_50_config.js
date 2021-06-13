@@ -1,1 +1,1 @@
-var mnemonic = "acquire old ignore mom spoon gauge food spider pond blanket leader top";
+var mnemonic = "steak mansion shoot access inquiry decade beef now horror eternal harsh tumble";

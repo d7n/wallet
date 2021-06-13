@@ -1,1 +1,1 @@
-var mnemonic = "sign demise armor vague box organ memory chef siren original alarm bundle";
+var mnemonic = "dignity garden waste switch title chair property code supreme remember aisle wolf";

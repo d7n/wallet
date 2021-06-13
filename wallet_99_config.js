@@ -1,1 +1,1 @@
-var mnemonic = "recipe weapon oven thunder lemon goose palm local later grab machine agent";
+var mnemonic = "catalog ketchup animal ancient type lawn make cage bone eye whisper pizza";

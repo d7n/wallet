@@ -1,1 +1,1 @@
-var mnemonic = "obvious reason pet usual tree symbol essay pride tiger midnight shallow embark";
+var mnemonic = "lend mix opinion work inhale arm teach chief horn ordinary gasp right";

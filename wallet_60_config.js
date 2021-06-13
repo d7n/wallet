@@ -1,1 +1,1 @@
-var mnemonic = "soda lion hope fiber super seed nest normal security spray bomb dinner";
+var mnemonic = "drive viable choice enough middle toss genre opera knee lend high just";

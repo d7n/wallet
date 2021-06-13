@@ -1,1 +1,1 @@
-var mnemonic = "bicycle jump tag cover surround point brave appear pupil hybrid season artefact";
+var mnemonic = "cook unknown valve project math salute skull manage radio favorite minor switch";

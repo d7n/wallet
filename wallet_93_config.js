@@ -1,1 +1,1 @@
-var mnemonic = "cute fatal damage useless mountain give skull alone end chronic unfold forward";
+var mnemonic = "kiss panther cliff describe include stand direct pyramid expect rose quantum execute";

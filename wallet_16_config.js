@@ -1,1 +1,1 @@
-var mnemonic = "zoo alcohol clinic nation diet wolf bonus erode ship tube skate hidden";
+var mnemonic = "option figure ecology observe laptop wool page voyage rate nasty teach account";

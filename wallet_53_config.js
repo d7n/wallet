@@ -1,1 +1,1 @@
-var mnemonic = "virus industry eyebrow puppy crush tray during lens first record faculty audit";
+var mnemonic = "grow inhale ordinary blind west cheap slab soldier unable found foot early";

@@ -1,1 +1,1 @@
-var mnemonic = "coral blind leaf sport group dress basket frown host roof buffalo square";
+var mnemonic = "list already canal hip van appear priority horn sentence desk swear tortoise";

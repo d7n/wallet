@@ -1,1 +1,1 @@
-var mnemonic = "depart wave tube object squirrel recipe satoshi glove razor relax lesson pledge";
+var mnemonic = "around erode scatter envelope until argue frog screen giant satoshi erosion dawn";

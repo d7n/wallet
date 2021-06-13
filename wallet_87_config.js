@@ -1,1 +1,1 @@
-var mnemonic = "acquire across crumble cube spray spirit cloth music embrace face kid want";
+var mnemonic = "body dolphin winter shallow soda ship mention diet that essay visual city";

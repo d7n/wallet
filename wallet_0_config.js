@@ -1,1 +1,1 @@
-var mnemonic = "embark drill claw spoon skin price length gloom original enlist infant manual";
+var mnemonic = "swap accuse shadow issue myself fire latin ready noble physical silent walnut";

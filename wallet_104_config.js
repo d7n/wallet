@@ -1,1 +1,1 @@
-var mnemonic = "draft maze prosper will wire unable skill lizard view sand bullet manage";
+var mnemonic = "various critic enter dance senior pottery october decline kitchen carry wolf social";

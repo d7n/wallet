@@ -1,1 +1,1 @@
-var mnemonic = "present cement glimpse client spare symbol stone paper rebel rice play famous";
+var mnemonic = "left motor yellow joy fire human travel lion rebel happy suggest transfer";

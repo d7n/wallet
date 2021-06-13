@@ -1,1 +1,1 @@
-var mnemonic = "praise ocean catalog phrase raccoon roof certain velvet purpose connect rate armed";
+var mnemonic = "city original tube total pill ability sight hire jewel tourist diet voice";

@@ -1,1 +1,1 @@
-var mnemonic = "rate wet witness reduce wreck vital board buffalo alpha mistake broken usual";
+var mnemonic = "spoil uphold skin salmon file spice seminar only rescue stamp lady promote";

@@ -1,1 +1,1 @@
-var mnemonic = "predict town alley demand ride pool income device august fringe panther grape";
+var mnemonic = "appear shrug aim price mean put used merge upgrade lock shoot mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "flush picture toilet dust welcome nurse era prize acquire proof bar aunt";
+var mnemonic = "alert equip blush cause rural great sponsor cluster theory blast brass snake";

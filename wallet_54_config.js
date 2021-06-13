@@ -1,1 +1,1 @@
-var mnemonic = "dwarf example assume elite palace couple ketchup prison relax teach fresh dream";
+var mnemonic = "moment aunt debris client box hint valley comic october mesh usual zero";

@@ -1,1 +1,1 @@
-var mnemonic = "upset great permit ladder slice client album return erosion merge true cycle";
+var mnemonic = "civil federal spider pepper sting major nation canal dune fresh teach parent";

@@ -1,1 +1,1 @@
-var mnemonic = "person crunch close riot mom ritual payment skin cactus inherit bus giraffe";
+var mnemonic = "whip next auto envelope library egg juice vast catch winter devote exhaust";

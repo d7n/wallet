@@ -1,1 +1,1 @@
-var mnemonic = "type era mix imitate prepare stick pen second few napkin ribbon chicken";
+var mnemonic = "decline always impulse observe narrow hold menu owner wage sing soda shoot";

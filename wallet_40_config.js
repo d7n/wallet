@@ -1,1 +1,1 @@
-var mnemonic = "era retire person retire actress icon melt gloom bag float ostrich own";
+var mnemonic = "draw address reward sound deposit fit abandon nuclear strike chaos slab next";

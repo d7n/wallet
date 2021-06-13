@@ -1,1 +1,1 @@
-var mnemonic = "regular multiply quality barrel property pudding blame welcome accuse endorse return write";
+var mnemonic = "silent among used elder inform wool foot decide drift aunt grunt soft";

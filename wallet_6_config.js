@@ -1,1 +1,1 @@
-var mnemonic = "copy artwork expect riot trial all smart raccoon wing radio drive atom";
+var mnemonic = "found sing fringe sport twelve sock swap violin pepper churn acquire vague";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit sugar face host what tank deer dish sibling course drink such";
+var mnemonic = "rebel life honey ketchup piano dust reflect file saddle rocket elevator since";

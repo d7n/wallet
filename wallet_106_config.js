@@ -1,1 +1,1 @@
-var mnemonic = "impulse because hole trophy stick draw wedding trust volume happy pause term";
+var mnemonic = "final hybrid advice sad galaxy furnace blame cherry word gun grape midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral property time decline legal stem cotton side certain enable critic another";
+var mnemonic = "digital piece pelican save rather flock put faint slab soap topic rocket";

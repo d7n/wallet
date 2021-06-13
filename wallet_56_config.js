@@ -1,1 +1,1 @@
-var mnemonic = "hamster electric merge dilemma unusual bacon voyage spirit present snake brief deer";
+var mnemonic = "coffee claim fossil auction harsh demise fault hamster grape make vicious caution";

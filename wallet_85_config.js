@@ -1,1 +1,1 @@
-var mnemonic = "rigid return harbor size prevent meadow figure card sister type melody goat";
+var mnemonic = "six unique chicken essence accident interest system soap reward used real scare";

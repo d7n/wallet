@@ -1,1 +1,1 @@
-var mnemonic = "legend bachelor category board vessel clever load wheel service elbow answer reform";
+var mnemonic = "taxi great duty purchase muffin party sign gap glory beyond list wreck";

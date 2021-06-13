@@ -1,1 +1,1 @@
-var mnemonic = "slot similar seed engine that badge soon flee elevator across tribe artwork";
+var mnemonic = "know tell frown scatter derive borrow arrive moral gesture repeat tunnel three";

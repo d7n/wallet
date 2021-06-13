@@ -1,1 +1,1 @@
-var mnemonic = "twenty outside virus crew drift siren unable endorse voice stairs portion tortoise";
+var mnemonic = "neutral blur glass addict alarm street tiger front point pass ribbon seat";

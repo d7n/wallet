@@ -1,1 +1,1 @@
-var mnemonic = "unknown donate cover expose either leopard swarm eye fiscal great payment move";
+var mnemonic = "agent brother furnace body fabric sponsor chase drift snack hen invest service";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal vault exercise put trouble print glass season aware method alert dragon";
+var mnemonic = "favorite unfair photo safe smooth biology used hybrid lock era zero pink";

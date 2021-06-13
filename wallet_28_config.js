@@ -1,1 +1,1 @@
-var mnemonic = "clerk mandate fatigue photo argue skull leg build ritual mouse wolf afford";
+var mnemonic = "night attend lock net find science hub network silk liberty cheap cart";

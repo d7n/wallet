@@ -1,1 +1,1 @@
-var mnemonic = "scissors economy warm doll garment vault lamp orient resist between inside chair";
+var mnemonic = "indoor embark sound rebuild rival say female movie bulk limit tail cloud";

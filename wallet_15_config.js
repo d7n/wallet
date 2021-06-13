@@ -1,1 +1,1 @@
-var mnemonic = "actual bag bicycle there finger time weapon purpose elbow rival warfare quantum";
+var mnemonic = "hospital liberty spawn illegal upgrade cable lab pull rocket cart bean ability";

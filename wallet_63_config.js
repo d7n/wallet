@@ -1,1 +1,1 @@
-var mnemonic = "weird know motor page glue good case goddess friend attract dad way";
+var mnemonic = "initial ribbon hope napkin possible tackle left trial tail cloud disease delay";

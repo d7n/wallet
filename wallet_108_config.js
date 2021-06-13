@@ -1,1 +1,1 @@
-var mnemonic = "lava canal stay like reason glide glimpse cradle gossip inflict screen gate";
+var mnemonic = "refuse reveal dial bleak moral list guard small small reveal century top";
