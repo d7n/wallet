@@ -1,1 +1,1 @@
-var mnemonic = "critic float snack great select hero drama panther element void fame clown";
+var mnemonic = "script tired gadget accuse verify butter horror hawk win busy huge among";

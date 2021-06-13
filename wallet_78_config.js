@@ -1,1 +1,1 @@
-var mnemonic = "crisp riot nature drastic hurry snack film civil throw clog very toy";
+var mnemonic = "wagon wool sport actor extra engine pause kit spin size general keen";

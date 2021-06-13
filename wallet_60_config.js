@@ -1,1 +1,1 @@
-var mnemonic = "borrow expand hole jump flag area obscure inch argue mass upset mountain";
+var mnemonic = "upset wasp town few fog spray neither cupboard knee vital earth drive";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant chat blast airport cake airport close cute legend nothing gorilla pattern";
+var mnemonic = "reduce mail already hip tone quality market wall right undo antenna judge";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious fine shed sheriff thing success member excite group voice cube weird";
+var mnemonic = "net matrix call surface decrease noodle bleak gasp naive apology female bicycle";

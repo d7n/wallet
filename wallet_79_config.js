@@ -1,1 +1,1 @@
-var mnemonic = "multiply fog equal couple attract amazing coconut meadow crisp paddle upper model";
+var mnemonic = "blur busy unit behind deal walk cloth brother account key craft notable";

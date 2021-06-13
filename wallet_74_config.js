@@ -1,1 +1,1 @@
-var mnemonic = "pass student dawn select avocado aware arrive there family conduct mystery expand";
+var mnemonic = "bargain stumble pencil good neglect upper any hole umbrella author athlete install";

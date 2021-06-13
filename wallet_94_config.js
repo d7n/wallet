@@ -1,1 +1,1 @@
-var mnemonic = "task describe rude law multiply people brown clerk denial jar nut forward";
+var mnemonic = "horn salmon brief they someone menu page robust clever stone sword tape";

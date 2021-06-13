@@ -1,1 +1,1 @@
-var mnemonic = "trick symbol estate jazz leader mountain scout brief faint patient village copper";
+var mnemonic = "tomato happy fantasy transfer inject luxury retreat leg pretty hockey member army";

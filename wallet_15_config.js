@@ -1,1 +1,1 @@
-var mnemonic = "subway fame rack near enable local risk equip denial fabric bar tag";
+var mnemonic = "toddler pattern alert suit sight corn oyster better weekend giggle when clutch";

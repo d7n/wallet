@@ -1,1 +1,1 @@
-var mnemonic = "dream invite spare allow certain hedgehog flash devote turkey fortune rough exit";
+var mnemonic = "more coral song project viable badge monster any habit runway chat color";

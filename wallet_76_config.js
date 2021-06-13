@@ -1,1 +1,1 @@
-var mnemonic = "club rescue skate fix crazy harsh fault butter vacant champion fantasy habit";
+var mnemonic = "empty portion once outdoor weasel accuse finish brass wild lucky prize bind";

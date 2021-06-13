@@ -1,1 +1,1 @@
-var mnemonic = "trophy occur ask digital holiday fringe mountain control float kidney room bachelor";
+var mnemonic = "edge tuna belt auto father admit what concert song fold index large";

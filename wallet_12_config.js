@@ -1,1 +1,1 @@
-var mnemonic = "rail fancy box position struggle box gaze image step visit kite ignore";
+var mnemonic = "shine afraid shock spare today accident walk mean then tenant flame bunker";

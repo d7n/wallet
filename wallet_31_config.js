@@ -1,1 +1,1 @@
-var mnemonic = "foil emotion virtual head catch nature about stone believe axis attitude vessel";
+var mnemonic = "slender fuel borrow upper noodle sure piece junk road foil coil steak";

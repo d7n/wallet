@@ -1,1 +1,1 @@
-var mnemonic = "beauty keep polar auto mechanic shock stadium fiction rocket dog consider dwarf";
+var mnemonic = "ship solid trust lazy rebel brisk then win wink grocery onion scare";

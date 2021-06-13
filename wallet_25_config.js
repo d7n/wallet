@@ -1,1 +1,1 @@
-var mnemonic = "poverty impact twice orchard scale powder immune result unable transfer quick relax";
+var mnemonic = "lock force refuse differ keen trigger core will promote federal aim immune";

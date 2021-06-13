@@ -1,1 +1,1 @@
-var mnemonic = "eternal pelican above captain second silly style unable stage depend media word";
+var mnemonic = "beach nose drift ripple remain reunion gallery rent outdoor ostrich impulse wrestle";

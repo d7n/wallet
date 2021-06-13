@@ -1,1 +1,1 @@
-var mnemonic = "sight sign march much nut bracket cry permit front shy undo elegant";
+var mnemonic = "excuse seed pattern banana tuna oxygen regular spatial exchange retire glare finger";

@@ -1,1 +1,1 @@
-var mnemonic = "there metal blast accuse amused demise trade control loud ticket fold silk";
+var mnemonic = "unlock kick apology race defense immune crash sun fetch letter steak noise";

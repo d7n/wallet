@@ -1,1 +1,1 @@
-var mnemonic = "mind bacon add fury term fat bulk annual frequent media stem give";
+var mnemonic = "legend idea grape found letter forward salute cry wink clock venture garment";

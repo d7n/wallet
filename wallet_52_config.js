@@ -1,1 +1,1 @@
-var mnemonic = "brand room thumb execute drama bullet supreme midnight chicken anchor depart sudden";
+var mnemonic = "lion raw license risk morning thumb act episode behind jewel come burst";

@@ -1,1 +1,1 @@
-var mnemonic = "sense must cliff square title shrimp inform wrestle change cover suggest illness";
+var mnemonic = "february panda design hub outside refuse jealous car private gospel purpose tired";

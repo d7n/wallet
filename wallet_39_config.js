@@ -1,1 +1,1 @@
-var mnemonic = "crumble pact miracle tiger attract theme pattern wet outdoor monster rice metal";
+var mnemonic = "antenna street hockey creek bachelor salad wave response camera subject betray bean";

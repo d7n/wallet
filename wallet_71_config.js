@@ -1,1 +1,1 @@
-var mnemonic = "drum repair estate almost spike pitch struggle force upon car law sister";
+var mnemonic = "exile cluster test victory vanish coconut isolate speed bar ocean opinion fog";

@@ -1,1 +1,1 @@
-var mnemonic = "reject thumb wrist tooth ethics merge gown chunk face govern planet around";
+var mnemonic = "idle crouch west gasp tortoise gown reopen faculty judge tent security this";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle genius decide symbol captain stone about super curious friend cinnamon forward";
+var mnemonic = "monster right mountain garden hour wish hand flush scare siren fashion tip";

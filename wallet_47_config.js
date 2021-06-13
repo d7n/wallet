@@ -1,1 +1,1 @@
-var mnemonic = "other client rain attract enrich camera obscure lake peace treat poem cream";
+var mnemonic = "deposit sentence detect faint north achieve vehicle daring palace hawk gaze ensure";

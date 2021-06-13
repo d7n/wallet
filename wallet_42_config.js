@@ -1,1 +1,1 @@
-var mnemonic = "also satoshi host cage route flush canyon shrimp scheme armed affair acid";
+var mnemonic = "axis human horse gesture frog evidence laundry space swift velvet section donate";

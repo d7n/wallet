@@ -1,1 +1,1 @@
-var mnemonic = "slide mercy two claim glance frog fringe mirror cross adult icon seat";
+var mnemonic = "cream parent skull duty news leisure donate glue culture tank unique absorb";

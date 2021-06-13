@@ -1,1 +1,1 @@
-var mnemonic = "great pulse that february gospel select alert episode notable second tourist curve";
+var mnemonic = "relax gain price meadow remind bitter abstract rapid label paper scatter tackle";

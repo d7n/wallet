@@ -1,1 +1,1 @@
-var mnemonic = "puppy size sword forward spider equip culture beach they vault garment shield";
+var mnemonic = "case fold devote speed job farm husband size intact rose marble rug";

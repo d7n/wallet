@@ -1,1 +1,1 @@
-var mnemonic = "skate raw admit raise broom index multiply fame bounce curve furnace federal";
+var mnemonic = "feed sign fury system violin tomorrow voyage refuse invest same spirit great";

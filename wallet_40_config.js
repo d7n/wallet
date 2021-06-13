@@ -1,1 +1,1 @@
-var mnemonic = "strike glimpse repeat deal dirt early category head brand veteran unit consider";
+var mnemonic = "radar model payment lock muscle reject action vapor any cute copy phone";

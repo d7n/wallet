@@ -1,1 +1,1 @@
-var mnemonic = "hawk squirrel sugar sail tower grant embark worth real mixed physical before";
+var mnemonic = "annual clump humble gossip coach all snap lyrics convince brand clay vital";

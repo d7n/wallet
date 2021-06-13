@@ -1,1 +1,1 @@
-var mnemonic = "frog relax reflect ticket essence blouse pepper fetch submit blood consider valley";
+var mnemonic = "relax common armed quote scrub captain black endorse brave isolate try arrest";

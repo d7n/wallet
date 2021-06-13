@@ -1,1 +1,1 @@
-var mnemonic = "custom profit donkey nice fall analyst answer where burst air edge magic";
+var mnemonic = "extend local diamond curious degree uncle trial act young long across fashion";

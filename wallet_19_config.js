@@ -1,1 +1,1 @@
-var mnemonic = "hurt hospital nest ordinary nominee leg mandate split child fiction razor stairs";
+var mnemonic = "scout tooth collect depend company auto raven amazing weekend moral target crop";

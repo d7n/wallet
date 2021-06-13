@@ -1,1 +1,1 @@
-var mnemonic = "social space opera only once retire choose become margin plunge cherry retire";
+var mnemonic = "tomato deer engine breeze cry allow hurdle staff cart human demise rifle";

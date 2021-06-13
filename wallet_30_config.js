@@ -1,1 +1,1 @@
-var mnemonic = "vault quit film parent grain coin flash develop gain subject produce energy";
+var mnemonic = "valid exhaust anger whip exist cloth zone swim pony home armed pepper";

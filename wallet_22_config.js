@@ -1,1 +1,1 @@
-var mnemonic = "glance convince language analyst brother swap strategy rotate destroy able color crumble";
+var mnemonic = "finish canvas gather twin test gold game timber lab uniform enrich stomach";

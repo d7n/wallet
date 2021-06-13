@@ -1,1 +1,1 @@
-var mnemonic = "habit marriage traffic desk phrase page found bubble chest parade spend narrow";
+var mnemonic = "congress foster forest gorilla entry photo ahead tissue program bulk lava castle";

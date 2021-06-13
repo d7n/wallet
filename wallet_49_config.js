@@ -1,1 +1,1 @@
-var mnemonic = "circle wash afraid final pledge rapid senior describe vicious decade talk alien";
+var mnemonic = "special anchor mansion divorce captain fatigue fiber tuna dumb raven enter stumble";

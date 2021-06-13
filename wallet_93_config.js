@@ -1,1 +1,1 @@
-var mnemonic = "jaguar member deputy kangaroo source nothing wear board liberty unhappy note kangaroo";
+var mnemonic = "text dry warrior doctor maid hub horn air space bacon repair segment";

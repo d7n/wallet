@@ -1,1 +1,1 @@
-var mnemonic = "mail oak captain input pride half tongue fork provide setup boy mosquito";
+var mnemonic = "oven asset delay winter attract spoil chaos mixture display sauce catch debate";

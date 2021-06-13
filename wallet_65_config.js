@@ -1,1 +1,1 @@
-var mnemonic = "rare fantasy aunt same thrive south digital garden plunge shoe promote unusual";
+var mnemonic = "bid exclude water silver imitate light hill region faint priority twist sign";

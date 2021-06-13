@@ -1,1 +1,1 @@
-var mnemonic = "stage sight rich exile lion three error skin tool gauge walk viable";
+var mnemonic = "couple notable dumb ticket pole vessel bar gorilla cycle harvest ecology paddle";

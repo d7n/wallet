@@ -1,1 +1,1 @@
-var mnemonic = "lake december swear panel link rival around drift surge baby weasel novel";
+var mnemonic = "giggle bonus wheat timber crowd rubber name swear wash trim solve inherit";

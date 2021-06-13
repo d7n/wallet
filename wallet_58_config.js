@@ -1,1 +1,1 @@
-var mnemonic = "miracle relief ginger produce stem armor armed board order permit misery first";
+var mnemonic = "region lab early liquid consider frost program virus anger lunar sustain pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "vague napkin network wedding duty morning news stem drama eyebrow another enforce";
+var mnemonic = "vibrant real captain hole horror dust field bulb subject monitor barrel slender";

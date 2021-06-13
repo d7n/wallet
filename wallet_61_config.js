@@ -1,1 +1,1 @@
-var mnemonic = "donate light usual skate nephew pact hungry donkey reflect battle gloom pear";
+var mnemonic = "alley certain cannon convince jealous digital quick rent cake vocal husband soft";

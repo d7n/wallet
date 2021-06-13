@@ -1,1 +1,1 @@
-var mnemonic = "scissors act aisle cram current prize invest leopard garden invest execute observe";
+var mnemonic = "stay problem body escape arrive cement uncover evolve either board again wreck";

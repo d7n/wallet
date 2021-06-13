@@ -1,1 +1,1 @@
-var mnemonic = "century danger gaze sword awesome foam second envelope that faculty manual gadget";
+var mnemonic = "ski mirror relax indoor room chalk dad limit dog baby drip relief";

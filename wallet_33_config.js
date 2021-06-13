@@ -1,1 +1,1 @@
-var mnemonic = "scale valve snake slot hip scale cricket bracket cart category sudden write";
+var mnemonic = "enact power fork female deer bitter lion castle hold nasty eyebrow write";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee future park beauty pupil document antique pretty enhance raw fluid weapon";
+var mnemonic = "limb sudden uncle tobacco punch praise castle cart engine behind hunt join";

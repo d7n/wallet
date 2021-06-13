@@ -1,1 +1,1 @@
-var mnemonic = "dawn draft fine film survey bounce verify love flock strong smoke orphan";
+var mnemonic = "daring bridge hurt file text glue carbon chalk color sugar dismiss audit";

@@ -1,1 +1,1 @@
-var mnemonic = "deal switch goose practice candy rabbit token capital venue repeat bar attract";
+var mnemonic = "story flight lamp oxygen august skill neutral deal borrow mix usual rigid";

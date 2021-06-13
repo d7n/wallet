@@ -1,1 +1,1 @@
-var mnemonic = "medal bridge assist logic balance rhythm into glass behave blur mango sight";
+var mnemonic = "hammer maximum frown practice dice toddler weapon wood cactus section story dust";

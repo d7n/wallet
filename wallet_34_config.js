@@ -1,1 +1,1 @@
-var mnemonic = "wreck shine tent name drop shallow spider pupil accident surprise guilt mimic";
+var mnemonic = "story shift skill timber merge pattern much bicycle immune jazz color arrow";

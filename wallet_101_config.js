@@ -1,1 +1,1 @@
-var mnemonic = "disease clog brother left trouble symbol thunder senior business usual leaf sister";
+var mnemonic = "ketchup fork bean short toy athlete wrestle velvet check adapt torch goose";

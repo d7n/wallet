@@ -1,1 +1,1 @@
-var mnemonic = "layer warfare artefact snow crush subway girl issue math evoke recycle stick";
+var mnemonic = "deal evil endorse swallow mixed buzz bring humble sand zero lounge early";

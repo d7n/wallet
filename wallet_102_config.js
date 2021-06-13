@@ -1,1 +1,1 @@
-var mnemonic = "where brown sand finish never timber phone weather satoshi sunset chair group";
+var mnemonic = "genius close disease meadow crane choice useful also worry mirror lucky panda";

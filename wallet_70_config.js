@@ -1,1 +1,1 @@
-var mnemonic = "notice silly person comfort park agent whisper mix genius universe license shoulder";
+var mnemonic = "lake injury garden coffee often party debate like north daughter junk best";

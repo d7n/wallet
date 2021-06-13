@@ -1,1 +1,1 @@
-var mnemonic = "absent volume forget flat attitude dismiss talent token clown indoor between hybrid";
+var mnemonic = "iron audit deal road want toward govern sunset lounge access mango expire";

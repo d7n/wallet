@@ -1,1 +1,1 @@
-var mnemonic = "puppy add exchange symptom fog glad smile neglect inflict scorpion next damp";
+var mnemonic = "mention cheap buyer swamp horn code hour clever uniform stock service clock";

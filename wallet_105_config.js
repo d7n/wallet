@@ -1,1 +1,1 @@
-var mnemonic = "venture common essence side salt enable idea gun valley october arrive yard";
+var mnemonic = "when only neglect degree move main sauce rabbit wait exercise develop link";

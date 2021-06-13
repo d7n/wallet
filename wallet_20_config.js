@@ -1,1 +1,1 @@
-var mnemonic = "cricket finger bamboo lava boil sock seek drill expose stay child sudden";
+var mnemonic = "tool spy unaware color marine process ecology area hour ball pen claw";

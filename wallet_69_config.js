@@ -1,1 +1,1 @@
-var mnemonic = "rare mixture ginger check warrior layer bid praise interest rack negative result";
+var mnemonic = "final enhance author feed thing code ecology whale bitter later insane emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "divert convince that inmate hungry write later month immune debate now property";
+var mnemonic = "tenant horror audit assault treat order sort close shadow frown surround deliver";

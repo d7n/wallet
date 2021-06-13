@@ -1,1 +1,1 @@
-var mnemonic = "genuine atom fitness depart differ involve eight bottom always easily smile grid";
+var mnemonic = "surge mango have liquid crazy danger fabric domain theme perfect parent female";

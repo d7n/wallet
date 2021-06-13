@@ -1,1 +1,1 @@
-var mnemonic = "wage grocery east pond coconut margin skull tunnel switch permit guard leader";
+var mnemonic = "antique step special skate future pitch miss script solution horn tilt into";

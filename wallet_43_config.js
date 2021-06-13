@@ -1,1 +1,1 @@
-var mnemonic = "tornado enrich office digital faith volcano forget venture fruit vanish wedding canyon";
+var mnemonic = "dynamic vault prison liquid dentist select rebuild object mule strategy sport marble";

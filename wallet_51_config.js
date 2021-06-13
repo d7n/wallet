@@ -1,1 +1,1 @@
-var mnemonic = "sword dish actor oppose fiction rain total drink urge still setup danger";
+var mnemonic = "flat lucky despair gas bunker wise pupil right vanish include unknown erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "copy arctic rival fatal current electric luxury citizen quick unfold humor unit";
+var mnemonic = "practice circle asset current side toss vibrant blood void bulb wood glance";

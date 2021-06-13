@@ -1,1 +1,1 @@
-var mnemonic = "laptop flight table rifle view term surround column tunnel sock excess ivory";
+var mnemonic = "kiss armor carbon cloud escape armed clap skate analyst bamboo lens sort";

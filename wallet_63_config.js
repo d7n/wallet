@@ -1,1 +1,1 @@
-var mnemonic = "fly spawn soon kidney require hedgehog hobby high humor coffee margin saddle";
+var mnemonic = "powder cabin cheese film monitor work mystery fluid possible trade learn ritual";

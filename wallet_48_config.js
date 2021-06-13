@@ -1,1 +1,1 @@
-var mnemonic = "edge soul donkey memory mutual section require identify diary volume uncle phone";
+var mnemonic = "feature giant pony quarter auto response afraid goddess nose weasel occur casual";

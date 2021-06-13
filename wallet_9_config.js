@@ -1,1 +1,1 @@
-var mnemonic = "cigar pitch case crunch federal raw soda addict sketch orbit dolphin whisper";
+var mnemonic = "wagon jeans buzz title real pool misery belt monitor never rail certain";

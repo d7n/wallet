@@ -1,1 +1,1 @@
-var mnemonic = "clever olive you marine soccer leopard orchard soup sustain erode update inhale";
+var mnemonic = "path happy scissors vintage actor pet tell dignity method egg end near";

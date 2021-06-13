@@ -1,1 +1,1 @@
-var mnemonic = "ask dose short retire shoe fine amazing later crunch gorilla evidence unusual";
+var mnemonic = "flash hole sweet order final expose dune room visa trend symptom crystal";

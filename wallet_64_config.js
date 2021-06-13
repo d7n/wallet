@@ -1,1 +1,1 @@
-var mnemonic = "orphan little common carpet similar detect lab actress core grunt slam swift";
+var mnemonic = "dentist angry buyer total nice rude organ final priority source call lumber";

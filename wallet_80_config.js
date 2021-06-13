@@ -1,1 +1,1 @@
-var mnemonic = "couch employ provide century alter rug seed call basic youth picnic eyebrow";
+var mnemonic = "arrow inform found member smooth there elegant combine step heavy track boost";
