@@ -1,1 +1,1 @@
-var mnemonic = "bright once unveil rude unveil mad tower carbon world brother review advance";
+var mnemonic = "circle asthma grant canal skull frozen cheese unique bird silly impulse animal";

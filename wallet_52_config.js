@@ -1,1 +1,1 @@
-var mnemonic = "artist observe run wheel lamp potato poet enrich razor sleep during bounce";
+var mnemonic = "pig chunk snap inhale season sure beyond arctic detect bottom tennis peace";

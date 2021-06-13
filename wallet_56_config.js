@@ -1,1 +1,1 @@
-var mnemonic = "rice wealth goose slender valve project already quantum finger crash before diamond";
+var mnemonic = "broom decade question usual wrong result rebel oven relax raven enrich length";

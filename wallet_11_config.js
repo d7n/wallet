@@ -1,1 +1,1 @@
-var mnemonic = "bid eager taxi advice long sustain insect ancient demand two light check";
+var mnemonic = "detail sketch ozone occur subject spray region glide punch style gaze exotic";

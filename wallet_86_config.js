@@ -1,1 +1,1 @@
-var mnemonic = "wonder clog upset insect fold true congress field unlock solve dose despair";
+var mnemonic = "decide parrot desk boat bitter nothing sketch matrix inform high retreat exhibit";

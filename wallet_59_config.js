@@ -1,1 +1,1 @@
-var mnemonic = "figure tilt issue trade scrub industry obey brush crumble valid tape purity";
+var mnemonic = "airport trigger joke april kite boy swift gallery farm capable title medal";

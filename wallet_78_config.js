@@ -1,1 +1,1 @@
-var mnemonic = "bargain cabbage crunch coyote raw bird rent alarm strong category same ugly";
+var mnemonic = "resource gasp soon uncover exchange upon camera solve afford pupil spray dilemma";

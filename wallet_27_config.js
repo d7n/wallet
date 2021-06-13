@@ -1,1 +1,1 @@
-var mnemonic = "inflict session wine letter toast frown alone spot crunch another heart glove";
+var mnemonic = "excuse adapt panel then chunk lucky daughter pencil adapt airport fitness claim";

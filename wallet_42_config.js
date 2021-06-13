@@ -1,1 +1,1 @@
-var mnemonic = "melt grain wealth cliff diagram debris sleep two pig either drastic law";
+var mnemonic = "electric vanish replace word ignore sauce mushroom three else price virtual forward";

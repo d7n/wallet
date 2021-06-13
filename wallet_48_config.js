@@ -1,1 +1,1 @@
-var mnemonic = "correct wisdom drift version wealth decade travel scheme crime defense vote boil";
+var mnemonic = "aware rival advance situate pond tip drill opera review crew divert satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "build major clerk few clay lesson green artist lizard inquiry toilet empower";
+var mnemonic = "math secret dynamic sail aunt best size rib duty catch cake tower";

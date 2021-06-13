@@ -1,1 +1,1 @@
-var mnemonic = "wood cancel ancient inspire knife fix tower retire lunar table pistol language";
+var mnemonic = "august ugly prize illegal inflict indoor hint private nation achieve amazing thought";

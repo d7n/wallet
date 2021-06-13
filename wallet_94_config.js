@@ -1,1 +1,1 @@
-var mnemonic = "fork book barely collect seed collect tennis arena delay vessel nasty prosper";
+var mnemonic = "tray foil jazz drum table gun scare parade vicious pigeon east join";

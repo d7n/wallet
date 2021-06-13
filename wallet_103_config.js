@@ -1,1 +1,1 @@
-var mnemonic = "cigar skin garbage exile blind educate spirit sell around average put green";
+var mnemonic = "clown shift bench axis differ sure bring celery allow what multiply hurdle";

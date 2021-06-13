@@ -1,1 +1,1 @@
-var mnemonic = "favorite sea horn deposit outside shallow hood that web noodle rough dice";
+var mnemonic = "soldier apart mammal assume track junk spring priority switch must own scrub";

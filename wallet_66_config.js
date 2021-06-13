@@ -1,1 +1,1 @@
-var mnemonic = "outer climb visual mango legal bird december cushion reform awful wagon gauge";
+var mnemonic = "indoor start fuel census update bleak acoustic sell tenant laptop height blade";

@@ -1,1 +1,1 @@
-var mnemonic = "phone spread tone present burst width what benefit exclude math chat cup";
+var mnemonic = "rookie vapor alley apart reunion wagon juice afford more gravity spike acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "horn length enrich omit silent pluck dial margin cute chalk glory fabric";
+var mnemonic = "pond ghost version render breeze frozen furnace foster tortoise sunny retreat profit";

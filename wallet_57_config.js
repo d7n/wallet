@@ -1,1 +1,1 @@
-var mnemonic = "armor glide mansion asset rigid summer until misery guard define dirt thumb";
+var mnemonic = "pumpkin soccer collect remember learn column hand pet before scheme wolf attend";

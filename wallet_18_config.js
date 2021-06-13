@@ -1,1 +1,1 @@
-var mnemonic = "jelly cabin inflict priority caught rather galaxy dentist price render mask manual";
+var mnemonic = "replace erosion ability timber divert hole fragile arm major effort letter certain";

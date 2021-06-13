@@ -1,1 +1,1 @@
-var mnemonic = "report magnet fan other quote inspire such sign mixture there metal run";
+var mnemonic = "own abstract dune erase crack retire live orphan filter brave label tomato";

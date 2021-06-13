@@ -1,1 +1,1 @@
-var mnemonic = "tuition seed inmate tape favorite worth liquid orbit office wedding fluid pool";
+var mnemonic = "forget company six ten ceiling text spike dumb never answer video lecture";

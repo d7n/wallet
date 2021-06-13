@@ -1,1 +1,1 @@
-var mnemonic = "room tell agent shiver panel hawk box donate disagree focus sketch tennis";
+var mnemonic = "brick bronze critic unable around network frozen between pledge staff salt bamboo";

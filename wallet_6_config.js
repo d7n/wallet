@@ -1,1 +1,1 @@
-var mnemonic = "marble enough pig nuclear wedding denial boy seat mention enjoy permit chest";
+var mnemonic = "real license pony rib balance magnet phrase ski parade abuse base drill";

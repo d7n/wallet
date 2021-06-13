@@ -1,1 +1,1 @@
-var mnemonic = "catch suit thunder casino result apology amused puppy wide pioneer drop wrap";
+var mnemonic = "poem mutual hub aspect retire advance coast lock grant chair horror letter";

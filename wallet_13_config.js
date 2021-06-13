@@ -1,1 +1,1 @@
-var mnemonic = "current owner bike pistol early sing cabbage net forum divert yellow sure";
+var mnemonic = "second come spin help nothing version window extend car crisp oppose slow";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh critic lazy same blind smooth address output doll decide alien tongue";
+var mnemonic = "fragile rural near during advance orphan near van marble outdoor saddle track";

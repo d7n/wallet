@@ -1,1 +1,1 @@
-var mnemonic = "ginger grid heart similar north apart beauty page mirror govern apart december";
+var mnemonic = "raise accuse offer aspect invite clip hole venue slide number divert region";

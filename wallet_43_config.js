@@ -1,1 +1,1 @@
-var mnemonic = "caution rural magnet place panic tackle scorpion expect amused lottery voyage tourist";
+var mnemonic = "taste enough shoot teach image cabbage hour digital maid man half village";

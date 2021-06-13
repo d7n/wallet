@@ -1,1 +1,1 @@
-var mnemonic = "charge eagle people proof enlist super rule primary already toe genius fee";
+var mnemonic = "mobile any donor sustain divorce inhale coral large ugly brain infant crane";

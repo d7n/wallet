@@ -1,1 +1,1 @@
-var mnemonic = "material produce chief scare own glue oak moral town income force peanut";
+var mnemonic = "issue loop health region device cruel device address outer educate balance tackle";

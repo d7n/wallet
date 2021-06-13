@@ -1,1 +1,1 @@
-var mnemonic = "party design leave ribbon all jewel common long trade involve oval hunt";
+var mnemonic = "try pole below pond reflect twenty fine taxi walk radio cliff security";

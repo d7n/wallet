@@ -1,1 +1,1 @@
-var mnemonic = "side usage analyst tide album install street cradle exercise celery frost violin";
+var mnemonic = "wolf debris lamp merit panel female height advance crush morning pupil field";

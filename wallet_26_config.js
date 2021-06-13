@@ -1,1 +1,1 @@
-var mnemonic = "mention pole cigar mule oak valve exit rule voice region hospital soft";
+var mnemonic = "author square apology trick balance moral midnight rebuild saddle attack domain glide";

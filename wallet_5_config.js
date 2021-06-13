@@ -1,1 +1,1 @@
-var mnemonic = "rookie asset unveil always alert spawn drop anxiety voyage visual escape soon";
+var mnemonic = "phrase acquire worry warfare spawn private rural actress anger moral regret panel";

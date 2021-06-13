@@ -1,1 +1,1 @@
-var mnemonic = "slogan pear spatial property benefit fit wing lumber island blood junk erase";
+var mnemonic = "smoke place gorilla forward design print edit aspect repair absent lens amount";

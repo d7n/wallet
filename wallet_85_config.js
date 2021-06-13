@@ -1,1 +1,1 @@
-var mnemonic = "smooth taste diamond hammer claw camp blade catalog gun mad broccoli august";
+var mnemonic = "clarify describe suspect alpha twice reason fossil chest display issue civil garden";

@@ -1,1 +1,1 @@
-var mnemonic = "blast bamboo dragon gown rack salute leader wish region field viable morning";
+var mnemonic = "resist stomach feed north neglect peace tank reduce medal section car vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber school diet fossil chase crush bone match you derive wise scrap";
+var mnemonic = "claw able learn since anxiety become novel nest egg strike resemble proud";

@@ -1,1 +1,1 @@
-var mnemonic = "color increase question gravity brick engage hybrid dad kitten enrich team oblige";
+var mnemonic = "boy scissors tower enable upset disagree afraid rose candy style inherit gauge";

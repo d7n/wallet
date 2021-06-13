@@ -1,1 +1,1 @@
-var mnemonic = "parade bean law coyote tennis tiny enable waste illness lobster thunder jacket";
+var mnemonic = "bundle injury accuse clarify drum normal corn crane crunch opinion bomb garden";

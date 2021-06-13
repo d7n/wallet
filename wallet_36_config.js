@@ -1,1 +1,1 @@
-var mnemonic = "ostrich nurse alert pluck april mind code hood video index motor hire";
+var mnemonic = "element involve fruit trend journey river video boy effort army pill toss";

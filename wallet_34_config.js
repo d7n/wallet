@@ -1,1 +1,1 @@
-var mnemonic = "shock sell magnet piece garden refuse clean forget anxiety joy clean wash";
+var mnemonic = "tonight hub educate joy advice cry detail pupil burst endorse hollow dinosaur";

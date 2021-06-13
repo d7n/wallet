@@ -1,1 +1,1 @@
-var mnemonic = "lava rich game fan purchase urban also camera hand reason rubber grid";
+var mnemonic = "media hammer sock innocent lyrics pole fee river unfair brick budget science";

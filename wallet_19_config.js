@@ -1,1 +1,1 @@
-var mnemonic = "coast sound popular walnut island clever jar street cream scrap desk security";
+var mnemonic = "message kitten slide mad later screen mad saddle genuine audit acquire bird";

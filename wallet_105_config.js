@@ -1,1 +1,1 @@
-var mnemonic = "crawl coach skill solve evil regular destroy fish toward view story desk";
+var mnemonic = "forget income custom convince change manual hill monkey choice lawsuit laptop issue";

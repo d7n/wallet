@@ -1,1 +1,1 @@
-var mnemonic = "ordinary series desert daughter leg shoulder decade library limit monster rule pupil";
+var mnemonic = "mystery spread spider focus great pretty skirt index gift limb nation broken";

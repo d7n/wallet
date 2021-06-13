@@ -1,1 +1,1 @@
-var mnemonic = "garlic typical visual wheel rare income dice science talent cube mistake bridge";
+var mnemonic = "rhythm output option powder shallow crouch upper pipe scale crush assist assault";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy catch swing rather ugly must crew citizen talent impact world keep";
+var mnemonic = "scatter object ostrich fresh north garage anchor alarm vast reform engage skin";

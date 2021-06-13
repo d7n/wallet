@@ -1,1 +1,1 @@
-var mnemonic = "purpose lottery tribe pipe recipe employ oak shove august place side wealth";
+var mnemonic = "cruel exhibit sugar pig square size ranch hamster same outside cram unfold";

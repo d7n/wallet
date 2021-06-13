@@ -1,1 +1,1 @@
-var mnemonic = "audit apology choose thunder alone wire vessel giggle foil evil drift erupt";
+var mnemonic = "layer can fluid afford major indicate choice able bread nice vessel fly";

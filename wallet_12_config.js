@@ -1,1 +1,1 @@
-var mnemonic = "salon situate correct blouse post insect refuse change warm enjoy chest price";
+var mnemonic = "slam shoulder civil fly mom claw help opinion faith wheat inspire meat";

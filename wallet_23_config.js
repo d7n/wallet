@@ -1,1 +1,1 @@
-var mnemonic = "inflict design weapon route dentist scheme real ahead sample trophy little various";
+var mnemonic = "pilot glory alcohol motor soul head lava item jar napkin fever pave";

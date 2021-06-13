@@ -1,1 +1,1 @@
-var mnemonic = "head click gospel mirror payment scrub clip visual lizard army inspire absurd";
+var mnemonic = "sugar vital ivory limit faculty into betray sheriff latin paper august sausage";

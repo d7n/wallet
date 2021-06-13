@@ -1,1 +1,1 @@
-var mnemonic = "allow never goddess dinner tool tank image cricket help quiz pledge kick";
+var mnemonic = "stamp chuckle across elevator fringe icon grain frequent report favorite discover sleep";

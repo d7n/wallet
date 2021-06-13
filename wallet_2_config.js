@@ -1,1 +1,1 @@
-var mnemonic = "hover furnace slab glide chuckle media truly tilt raise filter school found";
+var mnemonic = "tree lady copy style jewel february giggle bounce reunion monitor goat pair";

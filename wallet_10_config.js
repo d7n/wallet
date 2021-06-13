@@ -1,1 +1,1 @@
-var mnemonic = "pistol quiz talent amount buzz visual rebuild run sentence kind lock fiction";
+var mnemonic = "enjoy funny vintage silly view seven wasp robust angry gasp pass juice";

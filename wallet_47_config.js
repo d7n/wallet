@@ -1,1 +1,1 @@
-var mnemonic = "accident impose join fly vehicle plunge zone ten coyote glove undo express";
+var mnemonic = "scan guitar scout detect outdoor corn flavor typical congress stand below spoil";

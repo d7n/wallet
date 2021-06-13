@@ -1,1 +1,1 @@
-var mnemonic = "story useless defense enjoy scrub love kick neutral zoo convince mean holiday";
+var mnemonic = "explain rare forget dragon one target island upon era pet yard ship";

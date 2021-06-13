@@ -1,1 +1,1 @@
-var mnemonic = "sad heart color stand install confirm robust another water still song occur";
+var mnemonic = "unknown mountain siege alone moral state inform dentist bunker license leaf adult";

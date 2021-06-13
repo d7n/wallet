@@ -1,1 +1,1 @@
-var mnemonic = "melt weasel health ill leaf crater barrel hill ancient own option trumpet";
+var mnemonic = "dwarf craft alarm patient will breeze note taxi priority clinic flip crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "easy humble wire expand blast nephew ship popular outer symbol gas nasty";
+var mnemonic = "idea obey just movie high total security tag people immense escape juice";

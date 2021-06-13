@@ -1,1 +1,1 @@
-var mnemonic = "mercy charge daughter love dumb later cave bulk rice uncle siege spy";
+var mnemonic = "habit allow inquiry catch place wear round minute material potato lock gauge";

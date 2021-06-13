@@ -1,1 +1,1 @@
-var mnemonic = "cruise toddler hybrid upon lumber please solve thunder rabbit jar mimic robot";
+var mnemonic = "museum shield stable diary lizard oxygen trim urge outdoor curve process inform";

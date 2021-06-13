@@ -1,1 +1,1 @@
-var mnemonic = "topic clever what lunch recall sausage sponsor keep explain trick sketch achieve";
+var mnemonic = "like pudding long place piece protect mango notable prefer uncle demand flag";

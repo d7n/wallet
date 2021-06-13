@@ -1,1 +1,1 @@
-var mnemonic = "ladder ocean device coconut fly master benefit churn select honey multiply rifle";
+var mnemonic = "coral design payment skull voyage term toy asset excite venue quantum cross";

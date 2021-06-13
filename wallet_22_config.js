@@ -1,1 +1,1 @@
-var mnemonic = "ocean acquire trust feel popular right affair leisure drop album sense waste";
+var mnemonic = "squirrel kite trial clay act nose drip goat captain fade record endorse";

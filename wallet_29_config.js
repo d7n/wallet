@@ -1,1 +1,1 @@
-var mnemonic = "bean quick bullet sleep output debate current zoo hotel then able cattle";
+var mnemonic = "ridge ketchup crane flame arrest stock north shrug sniff trim soap suspect";

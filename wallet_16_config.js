@@ -1,1 +1,1 @@
-var mnemonic = "potato blade spice eyebrow million grocery parent awake cost clinic gain divert";
+var mnemonic = "need response obtain barely letter water hidden salmon panic have praise tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "hour jealous city atom nerve orange buffalo ghost future leisure drum enough";
+var mnemonic = "industry stuff scrub tunnel gas expand lab asset surge uncle emotion yard";

@@ -1,1 +1,1 @@
-var mnemonic = "time boil six jeans popular wink hub long wheat machine flame explain";
+var mnemonic = "earth sample funny floor room alarm upset extend slogan aisle avoid keen";

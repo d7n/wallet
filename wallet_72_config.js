@@ -1,1 +1,1 @@
-var mnemonic = "thumb limit copy spawn bone gospel drink crawl kitten fun orient can";
+var mnemonic = "opinion remember keep bronze hour bone unlock scare jazz cave actor calm";

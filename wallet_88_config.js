@@ -1,1 +1,1 @@
-var mnemonic = "fitness wear embody boat very shiver lab answer pattern add wage split";
+var mnemonic = "hard rural mad benefit grid cross add jacket what grow one film";

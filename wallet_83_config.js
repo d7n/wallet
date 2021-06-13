@@ -1,1 +1,1 @@
-var mnemonic = "smile knife pretty cinnamon collect normal guess flag seed scorpion useless drum";
+var mnemonic = "diagram pony become tail bean oval magnet argue around remind until lend";

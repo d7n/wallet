@@ -1,1 +1,1 @@
-var mnemonic = "venture actual pelican immense popular puzzle peace manual feature knee grape ancient";
+var mnemonic = "south caution tent exile uniform fence chair digital equal paddle blade humor";

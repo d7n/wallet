@@ -1,1 +1,1 @@
-var mnemonic = "capital eight issue shaft radar group dial guess next pear target surround";
+var mnemonic = "cloud range expire enable save guard inflict nest female frequent valley purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp monster august knife pepper energy mean girl receive funny welcome arm";
+var mnemonic = "satisfy decrease danger regret approve bird whip donate immense usage level pear";

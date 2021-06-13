@@ -1,1 +1,1 @@
-var mnemonic = "welcome lizard example tribe picture blood rhythm embrace hello among describe bamboo";
+var mnemonic = "car slogan trade modify pelican trend just style ancient boil pear arctic";

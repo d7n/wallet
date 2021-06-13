@@ -1,1 +1,1 @@
-var mnemonic = "olive warrior clinic myth room card inspire special speed insane brain danger";
+var mnemonic = "coil vacant arrive cousin purity exile seek scatter rebel lamp erode practice";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf boss kind regret blur luggage struggle hunt catch banana mammal vault";
+var mnemonic = "mail army ill glory exotic target guilt unfair jewel dream crawl book";

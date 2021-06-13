@@ -1,1 +1,1 @@
-var mnemonic = "liquid diagram race inject lawsuit daring sport figure core monkey valley jar";
+var mnemonic = "excuse festival cloud dance pizza unfold loop bike squirrel vintage kind office";

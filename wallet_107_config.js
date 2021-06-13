@@ -1,1 +1,1 @@
-var mnemonic = "worry chuckle pond oak crucial elephant valve borrow uncover what wisdom juice";
+var mnemonic = "need velvet seminar west jar sort devote chronic daughter muscle walk cover";

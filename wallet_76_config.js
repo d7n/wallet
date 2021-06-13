@@ -1,1 +1,1 @@
-var mnemonic = "cloud hamster turn yellow replace error lounge beauty goose donate program clip";
+var mnemonic = "collect involve unfold raven face prosper slice pumpkin glimpse thumb ocean soap";

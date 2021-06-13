@@ -1,1 +1,1 @@
-var mnemonic = "that talent employ mechanic talent talent wealth beauty wash crunch cattle original";
+var mnemonic = "bench gift curtain man exact canoe crew rug clip mango script scan";

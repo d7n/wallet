@@ -1,1 +1,1 @@
-var mnemonic = "tank swarm use acquire exhaust truly father park cloud recall quality drill";
+var mnemonic = "figure brief often exhaust little note city panel inform win carbon orange";
