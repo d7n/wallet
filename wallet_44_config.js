@@ -1,1 +1,1 @@
-var mnemonic = "mammal benefit razor invest female dry jewel bridge auto scare baby junior";
+var mnemonic = "play inhale pole mail gloom tape risk gospel shoulder rate side protect";

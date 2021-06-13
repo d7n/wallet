@@ -1,1 +1,1 @@
-var mnemonic = "rely shoulder token shine narrow culture world first mechanic green mother tilt";
+var mnemonic = "fossil eager any shoulder quarter essence defense danger morning copy shell relief";

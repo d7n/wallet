@@ -1,1 +1,1 @@
-var mnemonic = "steak kind adjust unable horror gain rookie control off slam claim age";
+var mnemonic = "improve riot weather resist flat cross dinner large spray usual profit champion";

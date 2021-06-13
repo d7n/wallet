@@ -1,1 +1,1 @@
-var mnemonic = "uncover glory tube harvest warm twenty crisp arena wool hen later salmon";
+var mnemonic = "guitar method mix veteran pluck kind color nurse improve hood police job";

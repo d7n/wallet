@@ -1,1 +1,1 @@
-var mnemonic = "ghost fix lecture season sheriff nose stay famous alley nose clerk shuffle";
+var mnemonic = "island coffee evolve yellow chimney mom follow ankle false final develop path";

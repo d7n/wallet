@@ -1,1 +1,1 @@
-var mnemonic = "quick powder salt rabbit snack raise tomato aspect prepare quick seed ticket";
+var mnemonic = "bag scout cram unhappy build donate door roof canoe noodle when paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "tell helmet aunt fetch sniff reform end message angry exchange what normal";
+var mnemonic = "private imitate foot spot icon burger afford leave flip illegal manual ensure";

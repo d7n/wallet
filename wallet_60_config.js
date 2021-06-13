@@ -1,1 +1,1 @@
-var mnemonic = "gain jelly genuine bicycle hold merge february brain road plate under mango";
+var mnemonic = "pave glove clown barely puzzle tenant inch silver burger silver drink mesh";

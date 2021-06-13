@@ -1,1 +1,1 @@
-var mnemonic = "lucky female bread empower trend matrix proud core picnic seminar recipe frequent";
+var mnemonic = "primary few beauty lamp budget cabin secret siren other hope palm game";

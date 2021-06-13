@@ -1,1 +1,1 @@
-var mnemonic = "artwork sun safe valve bag spring nose own tumble amazing suggest large";
+var mnemonic = "swear soup predict stumble fold quarter fashion feel bracket kick raise upper";

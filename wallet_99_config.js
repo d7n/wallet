@@ -1,1 +1,1 @@
-var mnemonic = "portion hire business range sea happy remember analyst tag quote number retire";
+var mnemonic = "black cruel safe discover zero issue dash velvet dentist coast helmet gym";

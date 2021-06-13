@@ -1,1 +1,1 @@
-var mnemonic = "giraffe manual estate attitude bring sting today sport result ethics garlic stairs";
+var mnemonic = "acquire govern mother hotel used cousin hold table pluck notice assist tape";

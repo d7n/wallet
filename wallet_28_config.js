@@ -1,1 +1,1 @@
-var mnemonic = "mandate ball danger effort february gesture belt nuclear pave obtain where super";
+var mnemonic = "couch company great act myth expect olympic erase hip wrong wage draft";

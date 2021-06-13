@@ -1,1 +1,1 @@
-var mnemonic = "cereal sister illness beyond jump fog neutral hollow roof elbow engine guide";
+var mnemonic = "usual crash slam suffer appear ribbon evil make skate invite civil worth";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit play screen chuckle rent follow decide material double flower manage satisfy";
+var mnemonic = "struggle rescue carbon visit miss ritual fall oven olympic leave silent aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil wheat ritual head element eyebrow uncle post buyer crater acquire crunch";
+var mnemonic = "fat flat keep wash bus logic invite violin soap brass filter army";

@@ -1,1 +1,1 @@
-var mnemonic = "someone fun swarm armor head curtain fuel swamp current now game tornado";
+var mnemonic = "little service mail birth zoo destroy bid siege flame patch negative approve";

@@ -1,1 +1,1 @@
-var mnemonic = "feature egg host jaguar royal grief blossom romance wood dawn gap warrior";
+var mnemonic = "course organ area worry cricket bounce police oyster uniform screen behind huge";

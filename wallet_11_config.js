@@ -1,1 +1,1 @@
-var mnemonic = "sign robot shrimp iron party guilt arm apology brother distance truth link";
+var mnemonic = "boy february smile toilet useful top swift broccoli pet isolate oblige paper";

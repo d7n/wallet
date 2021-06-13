@@ -1,1 +1,1 @@
-var mnemonic = "dad assist outdoor fringe term steak wedding pitch where swallow vault theory";
+var mnemonic = "year family eye ceiling equip coral scorpion frown assume glue mercy best";

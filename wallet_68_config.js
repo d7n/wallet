@@ -1,1 +1,1 @@
-var mnemonic = "around put punch arrive wait engine short reunion enemy exit owner similar";
+var mnemonic = "bring evidence regular humor neck boat cabbage rival end manual drop nephew";

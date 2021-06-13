@@ -1,1 +1,1 @@
-var mnemonic = "erupt glad afraid oak velvet depart glare witness maple adult record portion";
+var mnemonic = "intact uniform child film oyster fabric unlock enroll sorry fog crew behave";

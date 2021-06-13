@@ -1,1 +1,1 @@
-var mnemonic = "fossil sorry stem settle lawsuit language park enjoy indoor chicken that suit";
+var mnemonic = "element cruel symptom reflect unit village matrix jump six improve tumble fiction";

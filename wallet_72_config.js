@@ -1,1 +1,1 @@
-var mnemonic = "vehicle inside profit bar antenna merry lake because grain enter cup bomb";
+var mnemonic = "cancel exist tackle obtain jar left together decrease girl talent rookie system";

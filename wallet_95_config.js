@@ -1,1 +1,1 @@
-var mnemonic = "prevent plastic ridge illness beyond celery brick item merge cute electric mother";
+var mnemonic = "flat east modify easy taxi roof rain impact cousin process calm coil";

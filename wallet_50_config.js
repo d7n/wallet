@@ -1,1 +1,1 @@
-var mnemonic = "fuel bunker hockey hobby coil oak unusual draft airport escape satoshi real";
+var mnemonic = "crash skin any slice odor host hamster slam since hand two talk";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct dynamic scrap truly seek leader taste fun model talent material danger";
+var mnemonic = "scout steak mushroom peasant pilot drama talent deer want mask someone bench";

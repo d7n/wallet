@@ -1,1 +1,1 @@
-var mnemonic = "aware silent napkin unusual horse proof ladder husband above table erode tape";
+var mnemonic = "waste flock wonder quantum fever trash rose peanut citizen turtle recycle kick";

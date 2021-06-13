@@ -1,1 +1,1 @@
-var mnemonic = "reflect awake typical buyer butter divorce tray hundred digital prevent face clap";
+var mnemonic = "hood sleep abuse alley candy coast monkey meadow isolate dress skate humble";

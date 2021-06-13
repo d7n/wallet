@@ -1,1 +1,1 @@
-var mnemonic = "find desert auction puppy clean solid choice own silk swallow daughter maximum";
+var mnemonic = "report blue spin crunch ball exotic walk involve love stem radar follow";

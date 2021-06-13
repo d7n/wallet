@@ -1,1 +1,1 @@
-var mnemonic = "airport thing grace radio demand lunar luggage orphan way woman suggest skill";
+var mnemonic = "stable tortoise flower save guilt suffer canoe convince world resource subject ship";

@@ -1,1 +1,1 @@
-var mnemonic = "cage swap bonus heart hard wealth swap dial audit tilt palace atom";
+var mnemonic = "spawn addict panic picture animal inch mother major kid source atom thumb";

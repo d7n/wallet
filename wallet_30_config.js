@@ -1,1 +1,1 @@
-var mnemonic = "flee voyage welcome earth medal sugar lobster armor list toddler grass maid";
+var mnemonic = "embody awesome defy fragile minute atom match fee tennis dilemma space powder";

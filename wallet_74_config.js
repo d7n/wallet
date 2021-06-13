@@ -1,1 +1,1 @@
-var mnemonic = "dress runway business else injury hybrid arm lady beauty iron settle throw";
+var mnemonic = "amazing library coffee pause woman thunder vicious system earth man unfold husband";

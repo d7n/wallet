@@ -1,1 +1,1 @@
-var mnemonic = "hurry common company opinion buyer diesel devote spell enable embark suit casino";
+var mnemonic = "cup evil quality harvest stomach bless glimpse vacuum exhaust inspire grab rotate";

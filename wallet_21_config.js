@@ -1,1 +1,1 @@
-var mnemonic = "position tilt choose display fantasy dish fitness draw bless mule slight crush";
+var mnemonic = "thing romance marble live mouse into ripple snack orient flush engage local";

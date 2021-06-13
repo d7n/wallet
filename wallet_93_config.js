@@ -1,1 +1,1 @@
-var mnemonic = "audit stomach firm rubber walnut buddy obscure bless burst arena black banner";
+var mnemonic = "reform cabbage inhale famous mosquito moral arctic medal emotion month upset festival";

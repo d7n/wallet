@@ -1,1 +1,1 @@
-var mnemonic = "mirror flip doctor draw trumpet two gaze ready success piece vehicle kick";
+var mnemonic = "slab pluck autumn mixed island twice barrel laptop foam quiz useful absorb";

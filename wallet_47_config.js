@@ -1,1 +1,1 @@
-var mnemonic = "hold paddle prosper great blanket access sick retire steel nothing speed chef";
+var mnemonic = "garlic breeze fragile casual midnight reason seminar net able aspect find donor";

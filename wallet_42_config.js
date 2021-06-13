@@ -1,1 +1,1 @@
-var mnemonic = "unusual owner scan discover sorry fever amateur size domain denial decline slight";
+var mnemonic = "vivid damage limit eagle castle anger toss potato clip forward act company";

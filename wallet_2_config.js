@@ -1,1 +1,1 @@
-var mnemonic = "subject wheel crawl attract machine cage flock buffalo mixture shoulder food noise";
+var mnemonic = "electric twin circle shine where cabbage ivory net width garbage private resource";

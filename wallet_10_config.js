@@ -1,1 +1,1 @@
-var mnemonic = "brave suggest snow place pelican vehicle jazz orbit sentence symbol soft business";
+var mnemonic = "opinion settle reopen magic vault lock brain tunnel draw drill message gossip";

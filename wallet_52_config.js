@@ -1,1 +1,1 @@
-var mnemonic = "approve hospital rain derive gravity half minute drum sustain help clerk olympic";
+var mnemonic = "august harbor paddle hedgehog laptop any loyal false setup enter polar identify";

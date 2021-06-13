@@ -1,1 +1,1 @@
-var mnemonic = "steak cotton reform siren metal census jaguar view head screen bright acid";
+var mnemonic = "then garlic lesson chef liquid differ invest parade frown surge post glow";

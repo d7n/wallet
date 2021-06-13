@@ -1,1 +1,1 @@
-var mnemonic = "obtain like kidney junior crisp naive home draft autumn spice ahead nature";
+var mnemonic = "oxygen wrestle pelican vast empty rifle december assist token frequent emotion sea";

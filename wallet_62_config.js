@@ -1,1 +1,1 @@
-var mnemonic = "protect sure anger soldier inspire improve twist arch pass olympic side half";
+var mnemonic = "spend ball now truck trick alien fruit vicious hero point express boil";

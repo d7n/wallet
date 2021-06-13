@@ -1,1 +1,1 @@
-var mnemonic = "outdoor crawl island photo drop fit canoe pony fade rifle wink trumpet";
+var mnemonic = "exhibit glow blanket response spawn early bracket voyage rigid occur dad crime";

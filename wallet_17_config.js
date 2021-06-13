@@ -1,1 +1,1 @@
-var mnemonic = "family endless model jelly path shell sight wheel canal warm gentle gentle";
+var mnemonic = "any luggage force burger rescue coach potato vicious soon order empower dragon";

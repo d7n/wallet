@@ -1,1 +1,1 @@
-var mnemonic = "glass mind empower leisure guard father coast rich resemble solve silver rival";
+var mnemonic = "era elephant cradle chuckle super horror pave cricket wrap cushion change gaze";

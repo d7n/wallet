@@ -1,1 +1,1 @@
-var mnemonic = "job tool worry hockey lock rack parent badge couple decide welcome physical";
+var mnemonic = "fringe jar talent economy warrior eager false answer other december lens inside";

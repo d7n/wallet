@@ -1,1 +1,1 @@
-var mnemonic = "gesture salt wisdom echo light oppose bar deposit valley travel unable great";
+var mnemonic = "rotate fog cluster same joy mention phrase crash often shaft crane danger";

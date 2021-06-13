@@ -1,1 +1,1 @@
-var mnemonic = "unveil knee inner sport man card kind ozone asset case glue winter";
+var mnemonic = "clog angry scorpion blanket ethics curious change cabin civil marble social taxi";

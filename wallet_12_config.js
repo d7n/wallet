@@ -1,1 +1,1 @@
-var mnemonic = "royal throw jelly swear insane useless wave once stick cherry core country";
+var mnemonic = "notice nominee happy state evil report walk good involve champion reveal scale";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion dog daughter crowd short twin swear stem owner pioneer winner blast";
+var mnemonic = "theory reject photo minute mouse nature soul episode mixed verb enemy symbol";

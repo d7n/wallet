@@ -1,1 +1,1 @@
-var mnemonic = "century more pond urge diamond envelope original consider rail glove produce slice";
+var mnemonic = "oxygen south toddler true travel approve cross peasant mountain diet entire weasel";

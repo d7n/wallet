@@ -1,1 +1,1 @@
-var mnemonic = "paddle cause leopard jacket alert naive banana pact dial wrap long glance";
+var mnemonic = "leaf universe credit hybrid nasty extra copy update vital seminar elite pole";

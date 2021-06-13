@@ -1,1 +1,1 @@
-var mnemonic = "tuna sun confirm habit sting magic soap friend genuine first essence expire";
+var mnemonic = "great fly master step furnace erupt start view alter turn beauty recipe";

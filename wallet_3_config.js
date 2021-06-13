@@ -1,1 +1,1 @@
-var mnemonic = "coach garbage grunt spy enhance circle decrease disagree another winter note wear";
+var mnemonic = "loud crazy dizzy glide swallow cattle collect present gate dutch coil obey";

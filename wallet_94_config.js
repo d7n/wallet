@@ -1,1 +1,1 @@
-var mnemonic = "noble dial silent electric battle cousin suspect reduce voice glass farm dutch";
+var mnemonic = "rhythm online cloth bar element treat true grant access mass chimney stuff";

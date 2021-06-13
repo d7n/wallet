@@ -1,1 +1,1 @@
-var mnemonic = "arrive observe whale dog wear ridge clap knock device pulse choose ancient";
+var mnemonic = "hamster urban charge wish position area movie thought cancel gain increase sing";

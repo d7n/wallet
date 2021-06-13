@@ -1,1 +1,1 @@
-var mnemonic = "west arm hazard build certain panic despair similar raise all reason either";
+var mnemonic = "able analyst fire obscure bracket syrup pride crazy loan kick clump wolf";

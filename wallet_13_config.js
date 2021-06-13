@@ -1,1 +1,1 @@
-var mnemonic = "conduct cloud coffee uphold jacket pull clarify when ugly focus ridge blood";
+var mnemonic = "discover spirit inject add kidney chalk bitter ceiling cement mango federal unknown";

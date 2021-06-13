@@ -1,1 +1,1 @@
-var mnemonic = "rebel lion then sound wonder total theory crouch wolf grape ranch chef";
+var mnemonic = "unknown erode embark holiday uniform girl lunar end twist item vital nephew";

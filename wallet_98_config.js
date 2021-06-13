@@ -1,1 +1,1 @@
-var mnemonic = "crash regret point sound pole creek cat raise own apple frost salmon";
+var mnemonic = "guilt outdoor drop blur void squirrel one front jazz cereal blush general";

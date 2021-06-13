@@ -1,1 +1,1 @@
-var mnemonic = "culture omit grace toward season swallow pumpkin jungle width click acid topple";
+var mnemonic = "pulse clap blast once help unit liberty loan dolphin weekend anger victory";

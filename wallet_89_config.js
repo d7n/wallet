@@ -1,1 +1,1 @@
-var mnemonic = "cool book salmon kit spray example popular oyster siege clay vessel appear";
+var mnemonic = "master sugar pepper trade enroll uncle genre demise wrist sing original undo";

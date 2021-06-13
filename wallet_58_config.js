@@ -1,1 +1,1 @@
-var mnemonic = "boost ski turn wolf traffic sniff seminar canal knock trick tilt garage";
+var mnemonic = "enter stove laugh swarm easy twin insane again breeze tennis radar cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "vault now decline critic debate laundry demise battle transfer vivid execute trophy";
+var mnemonic = "original nothing rice genre know arch depend ship scene time old enough";

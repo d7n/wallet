@@ -1,1 +1,1 @@
-var mnemonic = "reunion garden trust diet submit gold long wise differ essence canvas chair";
+var mnemonic = "visit disease panther combine general adapt dream sail grant pumpkin void brick";

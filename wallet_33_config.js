@@ -1,1 +1,1 @@
-var mnemonic = "table away custom trash phrase traffic original salt despair visual over remember";
+var mnemonic = "copper salon bundle memory cruel protect dumb sketch usage reason patrol eagle";

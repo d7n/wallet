@@ -1,1 +1,1 @@
-var mnemonic = "rebuild siege feed feel steak fabric churn jelly cost cheap slam address";
+var mnemonic = "snake patient area ranch party foil canoe brother beyond marine quick drill";

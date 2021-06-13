@@ -1,1 +1,1 @@
-var mnemonic = "ride owner draft middle toilet style engine idea scrap air bring wrap";
+var mnemonic = "hope safe random change oxygen beyond coast gloom orange client cram road";

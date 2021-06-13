@@ -1,1 +1,1 @@
-var mnemonic = "whale kit museum man pig tool ahead kidney exact program empower library";
+var mnemonic = "canoe annual rain crack miss glove engage street piece cram boost punch";

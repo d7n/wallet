@@ -1,1 +1,1 @@
-var mnemonic = "wait movie impose depth melody unfold grass siege wool leg earth elder";
+var mnemonic = "focus segment nephew rebel require baby tortoise copy welcome able whip strategy";

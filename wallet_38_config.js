@@ -1,1 +1,1 @@
-var mnemonic = "casino torch drink aspect benefit sibling easy rare crumble luxury vapor jacket";
+var mnemonic = "also indicate inform muscle punch machine cool garbage pigeon mandate action apart";

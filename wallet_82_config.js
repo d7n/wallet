@@ -1,1 +1,1 @@
-var mnemonic = "garlic curtain this crane undo birth luxury pluck ride tornado can vivid";
+var mnemonic = "purse educate aisle ramp garment dress lion car negative gloom fury vague";

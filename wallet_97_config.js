@@ -1,1 +1,1 @@
-var mnemonic = "resource victory purpose endorse duck whale defense math boost puppy clay brass";
+var mnemonic = "supply wash initial chief boring holiday uncle citizen invite later fantasy cover";

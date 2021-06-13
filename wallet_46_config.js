@@ -1,1 +1,1 @@
-var mnemonic = "target fiscal ghost verify sentence degree caught index swim prefer artist dry";
+var mnemonic = "acid cheap trouble idle absent deputy jealous peasant fly leg super govern";

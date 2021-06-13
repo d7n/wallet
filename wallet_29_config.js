@@ -1,1 +1,1 @@
-var mnemonic = "opinion crime brass arrest wreck legend master roast daring duty gap space";
+var mnemonic = "rack seminar because tattoo stable target dry leisure crop trial hidden put";

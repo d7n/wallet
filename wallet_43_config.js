@@ -1,1 +1,1 @@
-var mnemonic = "awake home erosion rival cloth matrix patient face critic strong raw lava";
+var mnemonic = "kit output bacon dutch sample world youth sing swallow address leg dry";

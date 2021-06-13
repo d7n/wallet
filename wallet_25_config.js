@@ -1,1 +1,1 @@
-var mnemonic = "pepper color sentence mail myself shiver suffer torch seminar select never will";
+var mnemonic = "tunnel cactus innocent spin crazy wheat industry shadow town movie lady team";

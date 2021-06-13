@@ -1,1 +1,1 @@
-var mnemonic = "uncover crisp project cattle case popular build garment spray impact lottery nothing";
+var mnemonic = "dash survey wrong put satisfy loud deputy normal width region common cake";

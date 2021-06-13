@@ -1,1 +1,1 @@
-var mnemonic = "decrease stick olympic kiss wheat pair nice segment sleep distance gaze candy";
+var mnemonic = "tissue slow hold angry snack powder true cave nerve give prosper filter";

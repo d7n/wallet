@@ -1,1 +1,1 @@
-var mnemonic = "mercy loyal narrow slice actress angle goose tired spot corn region cycle";
+var mnemonic = "naive laundry barrel off abandon soap bomb math dawn where toast journey";

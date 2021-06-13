@@ -1,1 +1,1 @@
-var mnemonic = "embark dry below hobby gloom gain clean pave fashion want dumb sister";
+var mnemonic = "century bag lake floor nut bleak solve observe slim seed select depend";

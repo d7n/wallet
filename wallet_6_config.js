@@ -1,1 +1,1 @@
-var mnemonic = "marine endless mom inform unlock diary fiction liar festival tattoo address punch";
+var mnemonic = "drift age treat monitor film use segment reject visit pet stand near";

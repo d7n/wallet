@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo will suffer diagram surprise job health silly tomato sniff coconut violin";
+var mnemonic = "style legend school divorce wall around illness will net decide sadness fix";

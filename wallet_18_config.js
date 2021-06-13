@@ -1,1 +1,1 @@
-var mnemonic = "image crazy spoon floor grief romance harbor across carry universe vessel place";
+var mnemonic = "permit tower job hold breeze civil wool viable travel dolphin until salon";

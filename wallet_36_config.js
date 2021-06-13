@@ -1,1 +1,1 @@
-var mnemonic = "poem shrug admit supply electric sad joy thunder easily hawk coil anchor";
+var mnemonic = "empty snap mesh shrimp plate hundred school brick panel foil reflect powder";

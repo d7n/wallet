@@ -1,1 +1,1 @@
-var mnemonic = "defy magnet holiday practice derive attend warm caution math build wide nerve";
+var mnemonic = "athlete scissors team loud burst virtual initial once antenna life abstract aware";
