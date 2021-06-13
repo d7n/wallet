@@ -1,1 +1,1 @@
-var mnemonic = "seat cliff luxury liberty danger color extra file height invite ginger because";
+var mnemonic = "dune damage route below rocket middle deny chest caution mixture learn crunch";

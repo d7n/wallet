@@ -1,1 +1,1 @@
-var mnemonic = "blue notice exit cram match trumpet rubber garment abuse tooth mule hold";
+var mnemonic = "airport skull raven field huge wood trust cotton whisper kingdom trip december";

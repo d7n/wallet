@@ -1,1 +1,1 @@
-var mnemonic = "measure cook sport reason garlic release giraffe kingdom immense very gown snake";
+var mnemonic = "accident rubber client found category earn first carbon scrub decrease ring two";

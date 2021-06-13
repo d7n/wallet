@@ -1,1 +1,1 @@
-var mnemonic = "carry hire offer hockey piece bar nest parent thank indoor clutch rival";
+var mnemonic = "casino monkey abstract garbage illegal mobile craft zoo prevent airport theme derive";

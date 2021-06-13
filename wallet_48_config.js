@@ -1,1 +1,1 @@
-var mnemonic = "oppose awful warm hospital grace stuff traffic avocado gap lonely text equip";
+var mnemonic = "multiply devote merit rice stove unfair radar exit canoe identify clerk outer";

@@ -1,1 +1,1 @@
-var mnemonic = "basic fan acoustic capital kiwi tired gold advance cat artist snake open";
+var mnemonic = "then home imitate deal cigar raccoon gather tonight trophy sentence give fine";

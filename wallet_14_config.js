@@ -1,1 +1,1 @@
-var mnemonic = "witness logic scheme angry observe ginger siren voyage awesome fold embody half";
+var mnemonic = "arena round away town paddle drastic guide resemble ancient stable scatter two";

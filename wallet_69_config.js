@@ -1,1 +1,1 @@
-var mnemonic = "razor reduce tribe innocent fix program cup weekend quick concert agree afraid";
+var mnemonic = "oxygen pair exit moment more special much fortune erode can play peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "curious gaze you boy day alter pilot solution raise raw under decide";
+var mnemonic = "dynamic arrow write option quantum elder kiwi access team garden burst okay";

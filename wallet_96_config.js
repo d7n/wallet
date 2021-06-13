@@ -1,1 +1,1 @@
-var mnemonic = "kitchen sing tone acoustic bird copper bread meat phrase fault habit lecture";
+var mnemonic = "crack thrive asset pole engine ride solar wealth awake settle mail shallow";

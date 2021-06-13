@@ -1,1 +1,1 @@
-var mnemonic = "mixed resist captain arena body license element plunge swarm plate taste meadow";
+var mnemonic = "library rate noble during rate fantasy response hood casino stable rubber pause";

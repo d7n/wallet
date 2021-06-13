@@ -1,1 +1,1 @@
-var mnemonic = "unfair fatal immense donkey vicious local genius joke upset involve brave blossom";
+var mnemonic = "offer disease lady hockey taste defense taste clip sadness cloth bulb someone";

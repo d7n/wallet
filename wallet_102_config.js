@@ -1,1 +1,1 @@
-var mnemonic = "filter boy electric bitter property mind father illness fog toast mountain dice";
+var mnemonic = "ribbon start cram time relief ivory voice drink manage world unveil caught";

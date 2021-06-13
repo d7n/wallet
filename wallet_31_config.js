@@ -1,1 +1,1 @@
-var mnemonic = "oppose distance grant account ask loop add february inquiry easily pipe vessel";
+var mnemonic = "urge multiply pond brown capable person hammer orchard extra scene goddess spread";

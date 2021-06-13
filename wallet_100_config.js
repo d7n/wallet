@@ -1,1 +1,1 @@
-var mnemonic = "blade result donor equip answer light prosper genius orbit ecology liberty cherry";
+var mnemonic = "cupboard suffer drastic smile bus drive cliff bronze begin aerobic whip noodle";

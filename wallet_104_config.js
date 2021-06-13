@@ -1,1 +1,1 @@
-var mnemonic = "milk knock tunnel cause right type rule review knock banner silk clown";
+var mnemonic = "radar toddler road sample company list position various member shove dirt mouse";

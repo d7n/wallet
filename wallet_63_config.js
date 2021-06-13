@@ -1,1 +1,1 @@
-var mnemonic = "erupt resist stumble piano ketchup brown theme tiger express vicious prize fetch";
+var mnemonic = "occur fine fire tape foot food bamboo upper voice order celery trophy";

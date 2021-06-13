@@ -1,1 +1,1 @@
-var mnemonic = "kiwi advance arrest brief payment home obvious find veteran hawk code violin";
+var mnemonic = "trash tiger lizard measure junior body hurt dentist marriage click excuse swing";

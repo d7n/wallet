@@ -1,1 +1,1 @@
-var mnemonic = "craft taxi nasty alarm craft matrix return maple scale version pitch mystery";
+var mnemonic = "vapor logic duck profit mirror click menu renew dismiss derive bar term";

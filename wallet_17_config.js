@@ -1,1 +1,1 @@
-var mnemonic = "orient success toward index video cloud tooth state club dragon salute chair";
+var mnemonic = "play grace artefact addict saddle liar range ranch speak grain merge chicken";

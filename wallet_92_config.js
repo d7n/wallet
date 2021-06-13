@@ -1,1 +1,1 @@
-var mnemonic = "turkey fresh equip slogan matter quarter pen narrow explain sphere useless used";
+var mnemonic = "fall woman shine pet broken energy type mutual trick person nurse doctor";

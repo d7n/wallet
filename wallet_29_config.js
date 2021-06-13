@@ -1,1 +1,1 @@
-var mnemonic = "eagle impulse stuff trim diesel only coast flight tool forum cotton apart";
+var mnemonic = "help cotton shine current corn maze stomach traffic dice measure syrup lunar";

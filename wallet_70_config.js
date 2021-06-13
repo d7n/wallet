@@ -1,1 +1,1 @@
-var mnemonic = "humble exercise process pretty purse apple tired museum clap poem settle orchard";
+var mnemonic = "humor glance shine ankle around defy effort tuna defense ritual smile twelve";

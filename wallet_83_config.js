@@ -1,1 +1,1 @@
-var mnemonic = "proud funny isolate gown unfold comfort sail engage stomach session wonder ginger";
+var mnemonic = "zoo mechanic moment describe stadium turtle west ocean grunt half poet mystery";

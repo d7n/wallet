@@ -1,1 +1,1 @@
-var mnemonic = "arrow december volume flag ivory tank hazard salad dove curve shove ride";
+var mnemonic = "lab cliff cable donor fury direct walk fly can day skin under";

@@ -1,1 +1,1 @@
-var mnemonic = "valid solution fall position tenant glue moon sort caution guess insane dad";
+var mnemonic = "atom little forest sad prefer surround notice female loan whale danger gesture";

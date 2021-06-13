@@ -1,1 +1,1 @@
-var mnemonic = "gossip prefer edit connect scene family mule govern erosion cheap artwork match";
+var mnemonic = "practice orange faith space fat beyond ankle divorce swift unlock mean suspect";

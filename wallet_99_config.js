@@ -1,1 +1,1 @@
-var mnemonic = "neutral prize coast quantum blouse make earth mesh web maple program crush";
+var mnemonic = "fiscal consider property side cruise worry elder distance public labor assault slender";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff ship wisdom cover valley legend call text pull return domain child";
+var mnemonic = "woman lazy else sword organ cost soap gauge panel stairs join lyrics";

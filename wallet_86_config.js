@@ -1,1 +1,1 @@
-var mnemonic = "waste ignore guitar agent okay mixture public mansion brush occur air album";
+var mnemonic = "spread report gun network thunder menu potato obvious argue square trigger safe";

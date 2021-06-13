@@ -1,1 +1,1 @@
-var mnemonic = "jeans cupboard home arm scan doll number attract aunt cinnamon excuse neglect";
+var mnemonic = "morning thought security easily sister slice nominee chef tornado symbol miss impact";

@@ -1,1 +1,1 @@
-var mnemonic = "blind leaf file sail skin cry enhance marine other ketchup heart second";
+var mnemonic = "canoe leg rack layer lab menu allow deny fantasy you kid spray";

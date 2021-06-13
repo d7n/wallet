@@ -1,1 +1,1 @@
-var mnemonic = "catalog involve vacuum lounge shuffle weird sample panic ice present trumpet route";
+var mnemonic = "aerobic erosion tissue advice uncle attract donate metal decorate tape wait poem";

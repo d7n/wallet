@@ -1,1 +1,1 @@
-var mnemonic = "neglect mechanic merit print lumber urban above unveil fatigue ask wrap essence";
+var mnemonic = "dish surface thrive motor glide fury satoshi thunder announce common hair clean";

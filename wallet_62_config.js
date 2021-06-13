@@ -1,1 +1,1 @@
-var mnemonic = "rebel daring match young arch goat venue define slab eye beach depart";
+var mnemonic = "trouble dash fortune reform convince melt snap trip theory picture chase property";

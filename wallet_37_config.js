@@ -1,1 +1,1 @@
-var mnemonic = "turtle humor aisle admit long ignore employ call home now ketchup soccer";
+var mnemonic = "prosper hat toast gravity news exhaust poet comic write core accuse shove";

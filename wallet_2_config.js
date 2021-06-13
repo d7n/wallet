@@ -1,1 +1,1 @@
-var mnemonic = "onion urge change deer nurse rabbit apple illegal bid husband wave input";
+var mnemonic = "reveal figure angle rocket silent economy biology oppose lumber coin magic ritual";

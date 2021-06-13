@@ -1,1 +1,1 @@
-var mnemonic = "treat opinion fringe fine flower machine menu afraid paddle payment dice judge";
+var mnemonic = "brave method stamp elder car friend border torch churn power wait apart";

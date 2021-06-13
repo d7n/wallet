@@ -1,1 +1,1 @@
-var mnemonic = "demise soon actress derive resemble situate eagle twenty display fault crash melt";
+var mnemonic = "pull flee draw thought situate decline unfold deliver citizen improve unfold wrestle";

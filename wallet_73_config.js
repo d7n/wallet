@@ -1,1 +1,1 @@
-var mnemonic = "only affair pill sword desert report entire kangaroo occur height noble ask";
+var mnemonic = "shift hen surge scatter exhibit amazing awkward extend fury impose wheel spray";

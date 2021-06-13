@@ -1,1 +1,1 @@
-var mnemonic = "neck mail disease parrot science prosper lift change crash gloom sphere bleak";
+var mnemonic = "country keen shoulder future basket chaos business bacon plate cry rabbit squeeze";

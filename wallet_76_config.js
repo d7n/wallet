@@ -1,1 +1,1 @@
-var mnemonic = "state stadium run execute address smart reject senior story chunk list depth";
+var mnemonic = "peace staff spice pole ordinary lunch buyer crumble help alley crater jump";

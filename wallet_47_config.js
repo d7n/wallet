@@ -1,1 +1,1 @@
-var mnemonic = "clog useful pole minute lab accuse battle differ kidney panther width pioneer";
+var mnemonic = "solve emerge mother organ master morning skate empty together sword metal media";

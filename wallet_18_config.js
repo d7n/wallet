@@ -1,1 +1,1 @@
-var mnemonic = "inner damage bulb risk venture rail glow mean sell short slow scissors";
+var mnemonic = "party sniff alter link warfare farm wing picture bread slow page soap";

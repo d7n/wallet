@@ -1,1 +1,1 @@
-var mnemonic = "day require afford cave fit almost chat bottom crazy omit quote lion";
+var mnemonic = "opinion can deposit engine common camp intact peanut witness sleep jump post";

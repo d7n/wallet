@@ -1,1 +1,1 @@
-var mnemonic = "moon donor foam wasp subway ship service wage poverty minor perfect easy";
+var mnemonic = "police aware history question fragile middle blush sudden laugh news file abuse";

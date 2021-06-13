@@ -1,1 +1,1 @@
-var mnemonic = "lend phone stick bomb end model luxury cricket conduct ring space correct";
+var mnemonic = "surface divert evoke end clock among base future space liberty wink seven";

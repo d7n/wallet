@@ -1,1 +1,1 @@
-var mnemonic = "motor endorse return bench fit this creek grow sure equal nuclear vintage";
+var mnemonic = "alert network broken often journey letter muffin napkin power slim fold quarter";

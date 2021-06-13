@@ -1,1 +1,1 @@
-var mnemonic = "smoke decline taxi state valley winter scare cheese oil owner model such";
+var mnemonic = "trouble lion draw easily lounge travel educate daring ordinary marriage poverty chief";

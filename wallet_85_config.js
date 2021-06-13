@@ -1,1 +1,1 @@
-var mnemonic = "peasant visual speed narrow spray grace hazard blouse caught shoulder strong deer";
+var mnemonic = "cupboard release accuse trend shoe sight pond link control eternal race among";

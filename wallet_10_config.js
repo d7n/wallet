@@ -1,1 +1,1 @@
-var mnemonic = "member kiss stumble congress fitness tomorrow saddle hidden dice impulse solve forward";
+var mnemonic = "creek wear put head tunnel club idea actual badge include essence tree";

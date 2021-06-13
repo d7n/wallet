@@ -1,1 +1,1 @@
-var mnemonic = "expose obtain never inhale awkward jungle garbage hurt mushroom slot expire cousin";
+var mnemonic = "comic truck taxi clerk category spawn attend skirt medal riot trust express";

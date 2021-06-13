@@ -1,1 +1,1 @@
-var mnemonic = "sauce drive lion agent thunder melt tonight cause million blast runway lazy";
+var mnemonic = "crystal apology trap mosquito reunion shoot razor another narrow trip cover sport";

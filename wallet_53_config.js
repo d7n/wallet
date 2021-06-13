@@ -1,1 +1,1 @@
-var mnemonic = "sniff jump crater paper syrup exile river notable pave trust nation ensure";
+var mnemonic = "photo tumble pond fruit region cupboard mosquito second reduce payment oil story";

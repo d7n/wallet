@@ -1,1 +1,1 @@
-var mnemonic = "section author pact hurt buddy chalk casino soft supply heart flight detail";
+var mnemonic = "spray increase assume morning impulse swallow easy erode oblige ginger emerge world";

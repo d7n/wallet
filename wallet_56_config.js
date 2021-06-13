@@ -1,1 +1,1 @@
-var mnemonic = "today talent trash squirrel involve weekend beef exotic merry correct mom sweet";
+var mnemonic = "print survey almost employ firm together cattle flip light tenant test doll";

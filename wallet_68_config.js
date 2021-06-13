@@ -1,1 +1,1 @@
-var mnemonic = "tattoo blade cycle cargo arch lecture soft twenty fruit situate shy empower";
+var mnemonic = "payment topic identify daughter pupil doctor shine assist attract stumble program mean";

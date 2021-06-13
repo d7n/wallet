@@ -1,1 +1,1 @@
-var mnemonic = "husband latin viable illegal acquire steel doll bachelor obey miracle possible secret";
+var mnemonic = "inhale spoil skin then shoot rally harbor forward climb volcano ivory ugly";

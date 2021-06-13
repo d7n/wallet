@@ -1,1 +1,1 @@
-var mnemonic = "recall latin rhythm antenna grid hill inspire fold resemble unit slice occur";
+var mnemonic = "uniform sign rebuild hunt harvest odor elephant capital warrior brisk dignity dream";

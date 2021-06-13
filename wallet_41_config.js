@@ -1,1 +1,1 @@
-var mnemonic = "sad fitness illness ice bench divide cross bamboo price already cargo illness";
+var mnemonic = "enact cream tone under radar prevent master voice solid canal nurse stumble";

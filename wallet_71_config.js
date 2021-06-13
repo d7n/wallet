@@ -1,1 +1,1 @@
-var mnemonic = "arena rubber side airport mixture elephant knock verb surge author trend harbor";
+var mnemonic = "meadow decline general wisdom tonight crop sport whisper coil glimpse success camp";

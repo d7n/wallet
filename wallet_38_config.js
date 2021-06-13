@@ -1,1 +1,1 @@
-var mnemonic = "firm calm vital crack exotic antique soda eight accuse minor blur across";
+var mnemonic = "rocket easy daring scorpion alter riot food wage cry return total denial";

@@ -1,1 +1,1 @@
-var mnemonic = "belt travel belt hockey method extend end joy crumble erupt tag purity";
+var mnemonic = "other coin social fury aunt bunker pluck rotate diet abstract stairs unfold";

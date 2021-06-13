@@ -1,1 +1,1 @@
-var mnemonic = "bubble prepare lady viable wish monitor obtain expire awake echo plug foil";
+var mnemonic = "disagree surprise because blast stamp funny enrich frown winner label nest lake";

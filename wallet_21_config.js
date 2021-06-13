@@ -1,1 +1,1 @@
-var mnemonic = "rail flower jacket burger wise chuckle census afford describe motor question coast";
+var mnemonic = "license credit ignore brick slot know critic find churn notice keep ghost";

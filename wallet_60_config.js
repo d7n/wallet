@@ -1,1 +1,1 @@
-var mnemonic = "impulse bid index degree venue language slide laugh universe moment pear join";
+var mnemonic = "chalk divorce badge select wet clog apology crisp culture razor humble silly";

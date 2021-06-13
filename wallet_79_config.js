@@ -1,1 +1,1 @@
-var mnemonic = "online they wear supreme service better mobile green height tent twice soda";
+var mnemonic = "actor possible put opinion ensure virus seed mammal you bicycle sure obtain";

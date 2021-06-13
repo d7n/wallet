@@ -1,1 +1,1 @@
-var mnemonic = "venture puppy shy muffin midnight catch truth dry harbor deposit height fit";
+var mnemonic = "girl blood fade dinner push frequent negative onion buddy iron silk weird";

@@ -1,1 +1,1 @@
-var mnemonic = "judge impose creek wreck common stumble know arrest pride twelve cat shift";
+var mnemonic = "excite creek collect sibling way balance crouch acoustic top cube soap concert";

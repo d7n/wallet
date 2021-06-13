@@ -1,1 +1,1 @@
-var mnemonic = "retire fee inject rate identify flush disease public mystery wash donkey pioneer";
+var mnemonic = "deer state title viable observe evoke melody dream wall lunar tackle spare";

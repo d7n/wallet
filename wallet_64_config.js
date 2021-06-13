@@ -1,1 +1,1 @@
-var mnemonic = "head then loop arch rug provide bag custom victory amused poem simple";
+var mnemonic = "sheriff sphere bid outer dinosaur merit crystal dismiss bring social shove rain";

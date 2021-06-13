@@ -1,1 +1,1 @@
-var mnemonic = "girl erosion scale ramp scheme manage enhance elite cabbage lens decline fringe";
+var mnemonic = "hazard blouse trouble panther violin smart pole pill hood join decline coconut";

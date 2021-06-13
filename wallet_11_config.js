@@ -1,1 +1,1 @@
-var mnemonic = "symbol cactus eight edit minute jump coast brass resemble cross portion creek";
+var mnemonic = "medal fat judge robust because prefer odor liberty one spice infant rib";

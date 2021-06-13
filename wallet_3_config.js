@@ -1,1 +1,1 @@
-var mnemonic = "narrow person option spider enact truly repair dirt defense raw nothing jungle";
+var mnemonic = "near day old tower spoil nest there breeze reject frozen motor bracket";

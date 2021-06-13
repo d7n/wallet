@@ -1,1 +1,1 @@
-var mnemonic = "core renew link ring social scheme planet flame wrestle era shrimp bone";
+var mnemonic = "abuse unusual toilet monkey loyal sponsor enact budget shell arrest camera start";

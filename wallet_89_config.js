@@ -1,1 +1,1 @@
-var mnemonic = "right stable involve sign execute capital element tomato tortoise tag pride core";
+var mnemonic = "spring shiver phone define success rain peace penalty bronze ribbon attend scorpion";

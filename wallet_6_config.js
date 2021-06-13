@@ -1,1 +1,1 @@
-var mnemonic = "profit lizard love kiwi immense miss visa way naive split wrist name";
+var mnemonic = "alarm violin security supply shock degree among bubble veteran target sun earth";

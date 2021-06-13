@@ -1,1 +1,1 @@
-var mnemonic = "patrol daring crew print front length must leave above input thumb donor";
+var mnemonic = "marriage electric skull render tag breeze unique meat cabbage abuse spawn anchor";

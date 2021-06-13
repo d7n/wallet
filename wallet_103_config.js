@@ -1,1 +1,1 @@
-var mnemonic = "often thumb confirm balcony animal must rude rhythm tool above evoke steak";
+var mnemonic = "play slam adjust define rigid shoulder giggle bench grain menu above invest";

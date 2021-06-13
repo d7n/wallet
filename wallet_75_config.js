@@ -1,1 +1,1 @@
-var mnemonic = "bachelor stomach park pause trade road neck fever network note planet general";
+var mnemonic = "code budget uncover stem bitter vanish pigeon card always style speed mimic";

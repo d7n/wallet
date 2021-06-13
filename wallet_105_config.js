@@ -1,1 +1,1 @@
-var mnemonic = "absorb limb wrap any prepare turn try message damage address become venue";
+var mnemonic = "drama indoor safe ability vehicle forget drama hen feel cycle expand sell";

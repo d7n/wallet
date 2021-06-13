@@ -1,1 +1,1 @@
-var mnemonic = "alarm decade inhale fold bread bike clown unit predict oven motor social";
+var mnemonic = "eternal fiscal tourist swear into chief hand convince off salt scatter utility";

@@ -1,1 +1,1 @@
-var mnemonic = "monster buyer budget truck journey cheap atom powder access sauce pelican repeat";
+var mnemonic = "paddle affair chaos soft turtle amused upon surround mother room march eight";

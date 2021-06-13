@@ -1,1 +1,1 @@
-var mnemonic = "web defy damage creek flat thunder intact truck rich spoon limb brother";
+var mnemonic = "foam cause topic echo toast shoulder either start wool dish robot view";

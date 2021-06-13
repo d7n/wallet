@@ -1,1 +1,1 @@
-var mnemonic = "horse title sister carbon below teach achieve usage clerk reject flush enable";
+var mnemonic = "skate debris flush nurse goose owner clock balance follow dynamic number know";

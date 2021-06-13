@@ -1,1 +1,1 @@
-var mnemonic = "slush excite result release injury prison security embark remain mimic oil miss";
+var mnemonic = "cereal guilt enact soon price quote web pluck despair model enact second";

@@ -1,1 +1,1 @@
-var mnemonic = "private worth churn toe slow awesome daughter lumber copy cat fringe disagree";
+var mnemonic = "tourist maximum exchange patient pledge sea dumb version save pyramid panic congress";

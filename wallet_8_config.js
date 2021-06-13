@@ -1,1 +1,1 @@
-var mnemonic = "blanket desk genius scheme must tide party give search copy exhaust mad";
+var mnemonic = "embark finish praise exile save six clean width middle foam dentist hurt";

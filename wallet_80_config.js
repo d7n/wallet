@@ -1,1 +1,1 @@
-var mnemonic = "onion episode assault mail lend flight hunt fly club history civil suit";
+var mnemonic = "sail wheat basket south gather high caught much stuff scare slab target";
