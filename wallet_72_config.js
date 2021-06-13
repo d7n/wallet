@@ -1,1 +1,1 @@
-var mnemonic = "proud coach orbit oyster flat include pole someone orient pizza race sweet";
+var mnemonic = "marriage accuse plate kidney confirm oven catalog piece pipe thrive swap dose";

@@ -1,1 +1,1 @@
-var mnemonic = "cable coin awful expand primary opera tenant volume fan ill drastic club";
+var mnemonic = "tribe voyage dust ecology brick program humble pride multiply play off solar";

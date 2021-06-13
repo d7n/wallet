@@ -1,1 +1,1 @@
-var mnemonic = "myself length uncle transfer lawn stomach yard morning basic edge tomato long";
+var mnemonic = "dismiss drive vendor barely rug lottery aspect caution measure sand large output";

@@ -1,1 +1,1 @@
-var mnemonic = "add strategy enroll any churn sudden slot purchase mention soap element width";
+var mnemonic = "trick side shuffle human rely bone response elevator marine quick vague banana";

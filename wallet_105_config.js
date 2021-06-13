@@ -1,1 +1,1 @@
-var mnemonic = "slow patrol connect same evoke number track east mobile few cloud cotton";
+var mnemonic = "steak effort tail carpet weather bachelor retreat clarify high drink average beyond";

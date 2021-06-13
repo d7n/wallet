@@ -1,1 +1,1 @@
-var mnemonic = "help various wolf cement labor warfare tree pull beach purchase alter shell";
+var mnemonic = "there angry force sting raccoon island goat brown benefit leg student fat";

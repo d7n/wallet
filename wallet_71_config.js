@@ -1,1 +1,1 @@
-var mnemonic = "car jelly razor thank today coast devote task outer buddy picture route";
+var mnemonic = "debris pepper antique chaos sniff cave tube soon plastic version excite monkey";

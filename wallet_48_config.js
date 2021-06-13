@@ -1,1 +1,1 @@
-var mnemonic = "marine attract render more concert loyal width unaware flavor sketch evoke marine";
+var mnemonic = "bus globe horn wrist process gentle speed hammer drum brand beach execute";

@@ -1,1 +1,1 @@
-var mnemonic = "retire tumble furnace deputy glue retreat decide tool song force crime mother";
+var mnemonic = "stay finger flip nice throw scorpion jacket climb punch fancy game three";

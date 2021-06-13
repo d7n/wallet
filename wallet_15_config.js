@@ -1,1 +1,1 @@
-var mnemonic = "mouse march divert shaft when copy deputy area prepare tourist forward rhythm";
+var mnemonic = "elevator arm joke awful canal height obey myself dinner shrimp bag riot";

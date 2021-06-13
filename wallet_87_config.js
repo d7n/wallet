@@ -1,1 +1,1 @@
-var mnemonic = "holiday marine little boss now ozone hamster balance chicken decade area noise";
+var mnemonic = "few champion artwork time pudding breeze cruel banana attack prepare lock pull";

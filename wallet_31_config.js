@@ -1,1 +1,1 @@
-var mnemonic = "announce radar mistake erosion hour photo drive short wagon lady gate alert";
+var mnemonic = "biology stool useful sphere awkward oak quick capable grunt raw elite enter";

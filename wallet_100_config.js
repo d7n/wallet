@@ -1,1 +1,1 @@
-var mnemonic = "foam swift dry arm order list spider kiwi gaze notice monitor security";
+var mnemonic = "april course mutual human combine blanket sell offer quit false sister goose";

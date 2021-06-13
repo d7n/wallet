@@ -1,1 +1,1 @@
-var mnemonic = "aim exercise cherry eye shallow picnic brand draft merry clever spare cash";
+var mnemonic = "rotate avocado cloth sight lucky inquiry virus advance cry hour about voyage";

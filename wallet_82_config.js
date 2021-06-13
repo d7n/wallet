@@ -1,1 +1,1 @@
-var mnemonic = "airport ketchup present wreck eager obey sense dream civil picture various cactus";
+var mnemonic = "fossil nice affair hazard crisp want uncle hockey duck talk image dial";

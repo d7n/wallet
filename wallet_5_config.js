@@ -1,1 +1,1 @@
-var mnemonic = "room interest region tongue subway stage lonely melody cycle laptop divide switch";
+var mnemonic = "steak forward loan detect during speed tortoise chef bleak soul design possible";

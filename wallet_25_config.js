@@ -1,1 +1,1 @@
-var mnemonic = "verify tip gown strong speak pilot cheese balcony lunch ride mass unlock";
+var mnemonic = "oval label curtain trust enable hurry rice entry math circle auto detect";

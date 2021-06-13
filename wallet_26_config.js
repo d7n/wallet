@@ -1,1 +1,1 @@
-var mnemonic = "rather decrease hover student fog federal expire transfer tuition increase custom focus";
+var mnemonic = "rain program sport erase tide attitude mistake oxygen indicate mule unique lobster";

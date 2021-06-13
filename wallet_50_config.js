@@ -1,1 +1,1 @@
-var mnemonic = "long visual thumb voyage swear odor donate impact energy program art erupt";
+var mnemonic = "visit drive ostrich review young shrimp saddle funny silent plug federal motor";

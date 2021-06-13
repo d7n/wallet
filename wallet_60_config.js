@@ -1,1 +1,1 @@
-var mnemonic = "mutual walnut execute grunt giraffe film can corn history party old priority";
+var mnemonic = "excess nasty mistake rocket gauge guilt clean gallery come track cheese seat";

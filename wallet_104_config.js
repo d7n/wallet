@@ -1,1 +1,1 @@
-var mnemonic = "file myself assault outdoor laundry sound refuse room nation dumb fun conduct";
+var mnemonic = "museum duty type position story shock price alert view buffalo burger quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate safe cargo worry fine edge close disorder umbrella utility impulse economy";
+var mnemonic = "winter dial vague shiver awesome canyon butter lonely box feel during vast";

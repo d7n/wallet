@@ -1,1 +1,1 @@
-var mnemonic = "kidney beyond flame debate only galaxy enough glove nice kangaroo pulp bachelor";
+var mnemonic = "movie bounce movie slam edge glance family approve salad borrow civil settle";

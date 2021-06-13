@@ -1,1 +1,1 @@
-var mnemonic = "call shrimp strike dream nut prefer fire grab clap horse wash also";
+var mnemonic = "chimney country setup retreat enable mirror letter weapon youth transfer best item";

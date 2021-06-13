@@ -1,1 +1,1 @@
-var mnemonic = "wash surprise bitter glide decorate wool march chat snack audit nasty critic";
+var mnemonic = "turkey tape arrange want clever debate potato settle logic quantum lemon boost";

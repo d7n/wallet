@@ -1,1 +1,1 @@
-var mnemonic = "slush prevent vessel giggle excite rule have repeat exhibit cushion suggest vapor";
+var mnemonic = "wealth bounce female attract evolve deputy pelican dice liberty spoil sea omit";

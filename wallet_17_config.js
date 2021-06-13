@@ -1,1 +1,1 @@
-var mnemonic = "lunch security prevent spike speed talk want swear grant claim casual wealth";
+var mnemonic = "fever face cube list shop rule glass creek spawn weapon top mountain";

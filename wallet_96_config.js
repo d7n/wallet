@@ -1,1 +1,1 @@
-var mnemonic = "october core air depth flock broom clown mouse climb remember junk obtain";
+var mnemonic = "endless polar flip dirt unhappy monster will scare weekend below smart anxiety";

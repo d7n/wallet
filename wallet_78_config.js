@@ -1,1 +1,1 @@
-var mnemonic = "slow snack dismiss tank citizen autumn gap drive vocal stone sure steak";
+var mnemonic = "tomorrow purity slow weekend enact emerge bottom grocery okay dose cricket grass";

@@ -1,1 +1,1 @@
-var mnemonic = "trim debate express mixed must census invite vessel wolf tonight tackle area";
+var mnemonic = "either narrow ordinary flash catch scheme oak win pig sadness polar early";

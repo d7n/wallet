@@ -1,1 +1,1 @@
-var mnemonic = "robust ranch kind name mansion habit donkey zebra suggest sort faculty negative";
+var mnemonic = "slab digital during avoid trouble bacon move magic gasp kangaroo coral universe";

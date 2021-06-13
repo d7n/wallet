@@ -1,1 +1,1 @@
-var mnemonic = "wave luggage tape race believe stereo bulk laugh struggle dad wasp super";
+var mnemonic = "holiday property virtual fan fun narrow soft fault great input clog prefer";

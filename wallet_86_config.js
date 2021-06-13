@@ -1,1 +1,1 @@
-var mnemonic = "blouse chicken all ghost that erupt trumpet wrap wagon buyer giant vicious";
+var mnemonic = "eagle sport across best engine stove adapt rail acoustic rhythm pumpkin leader";

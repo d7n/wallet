@@ -1,1 +1,1 @@
-var mnemonic = "holiday cotton kitten keen humble aware assume usual canal gap patient boat";
+var mnemonic = "pony possible coconut vivid dial sausage stove agree attitude save educate cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "toast outer absorb mutual tree reflect owner cupboard velvet power swim own";
+var mnemonic = "visit cost math upset project cool around illness uncover regular planet relax";

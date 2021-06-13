@@ -1,1 +1,1 @@
-var mnemonic = "across laundry undo busy one bonus project faculty indicate renew impact tackle";
+var mnemonic = "manage assault actor banner wreck sure client fruit february grant tiger alien";

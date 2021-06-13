@@ -1,1 +1,1 @@
-var mnemonic = "knee bleak retreat goose kick crash jealous small furnace begin resist away";
+var mnemonic = "abuse awkward bag force basket recipe cruise omit one initial company clog";

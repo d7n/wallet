@@ -1,1 +1,1 @@
-var mnemonic = "reunion settle comic animal hurry spawn submit skate beef sheriff toe choice";
+var mnemonic = "alter dynamic liberty razor wing include goddess love retreat effort monkey cook";

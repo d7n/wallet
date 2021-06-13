@@ -1,1 +1,1 @@
-var mnemonic = "weasel acoustic depart fine fog brown beach spatial avocado original baby wise";
+var mnemonic = "scrap renew dawn person street gospel humor link popular category release crawl";

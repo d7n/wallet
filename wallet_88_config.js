@@ -1,1 +1,1 @@
-var mnemonic = "despair physical rabbit plastic fold iron bulb tackle morning skin cycle donor";
+var mnemonic = "sample cereal eagle example clap payment fitness pottery neck hair artist recycle";

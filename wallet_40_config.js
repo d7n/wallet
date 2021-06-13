@@ -1,1 +1,1 @@
-var mnemonic = "day actress metal nest pledge roast only dizzy dolphin review cram sun";
+var mnemonic = "tape shallow topple suffer uncle pistol segment narrow explain turtle material immune";

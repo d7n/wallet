@@ -1,1 +1,1 @@
-var mnemonic = "remember lemon hope convince wine funny layer loan tool quarter elbow fix";
+var mnemonic = "over armed kingdom obtain crime bridge horror comic employ shuffle absurd onion";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard pulp razor liar rapid close fever cloth edit leader boil chalk";
+var mnemonic = "farm nest coin useful front must bubble outside ill keep nuclear excess";

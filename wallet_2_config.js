@@ -1,1 +1,1 @@
-var mnemonic = "cart wood minor area life year budget carry castle breeze view conduct";
+var mnemonic = "copper open sure flag face eager ethics behind globe turtle account patient";

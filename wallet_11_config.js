@@ -1,1 +1,1 @@
-var mnemonic = "hello wink chunk minimum music lava nephew nature saddle question steel lemon";
+var mnemonic = "story gospel fit offer scout then provide host hood cheese exchange guess";

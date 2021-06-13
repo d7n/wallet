@@ -1,1 +1,1 @@
-var mnemonic = "jelly fashion return naive crisp kick depart citizen correct spoon scissors machine";
+var mnemonic = "chimney champion dignity immense mean leave section zero seat oppose display diagram";

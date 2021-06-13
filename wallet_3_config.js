@@ -1,1 +1,1 @@
-var mnemonic = "steel ancient original lunch mutual bulb tackle option cereal category knee hill";
+var mnemonic = "toddler long suggest penalty group tip across photo velvet maid kangaroo ritual";

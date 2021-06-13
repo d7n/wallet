@@ -1,1 +1,1 @@
-var mnemonic = "token expand quit insect mystery muffin rib tomorrow female tomato canyon goose";
+var mnemonic = "seminar stairs final cliff salt crop poem put artist document tunnel uncle";

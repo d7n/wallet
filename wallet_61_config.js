@@ -1,1 +1,1 @@
-var mnemonic = "able exhibit eager various oven frog pencil curtain verify elite pulp obvious";
+var mnemonic = "flee busy now invite rent all yellow mouse tumble island hire betray";

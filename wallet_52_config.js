@@ -1,1 +1,1 @@
-var mnemonic = "agent shadow discover couch brick segment industry nasty pretty van away curve";
+var mnemonic = "cost pizza rare parent renew domain token method surround suit fan lawsuit";

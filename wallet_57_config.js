@@ -1,1 +1,1 @@
-var mnemonic = "giant attitude title laundry october note rabbit canyon obtain elevator culture clap";
+var mnemonic = "clap owner mad flee trophy scale question outside goat mistake organ auction";

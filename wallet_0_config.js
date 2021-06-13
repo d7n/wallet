@@ -1,1 +1,1 @@
-var mnemonic = "lens program crumble snow frost mixture hub figure clip reward retreat girl";
+var mnemonic = "tomato evil betray town human connect entry episode hair wasp cake window";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch cigar survey engine derive web shaft junior juice circle milk all";
+var mnemonic = "wild glue injury kid alter foot doll capable outside load whale lyrics";

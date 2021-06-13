@@ -1,1 +1,1 @@
-var mnemonic = "height hurdle resource breeze much author reject essence asset infant stool usual";
+var mnemonic = "rather degree unfair swear panda credit retire evolve crunch old mushroom agent";

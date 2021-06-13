@@ -1,1 +1,1 @@
-var mnemonic = "hunt fun attract inquiry birth until observe guitar captain light away draw";
+var mnemonic = "acoustic immense below always arrive hockey slender bike diary plastic toy toy";

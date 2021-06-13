@@ -1,1 +1,1 @@
-var mnemonic = "economy table narrow clock regret beef zone travel senior unusual theme fossil";
+var mnemonic = "wild kingdom skull orange lab indicate dad apple timber sign pause account";

@@ -1,1 +1,1 @@
-var mnemonic = "boss during find father clump pole spice purchase now plunge shift kind";
+var mnemonic = "reason illegal fade cook heart vault dismiss kitten budget leaf coin member";

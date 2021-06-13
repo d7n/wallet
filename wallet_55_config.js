@@ -1,1 +1,1 @@
-var mnemonic = "puppy eager wash feed clown stadium bleak prepare mix they acid net";
+var mnemonic = "stay script school elephant subject category senior flock master oven empty wedding";

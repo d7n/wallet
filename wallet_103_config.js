@@ -1,1 +1,1 @@
-var mnemonic = "spell galaxy thought grit table second farm alien matter mandate feel open";
+var mnemonic = "crack relax direct flip height lock speed hub model limb earn banner";

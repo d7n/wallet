@@ -1,1 +1,1 @@
-var mnemonic = "artist guess shoot struggle primary maple yard cliff glare ticket lobster avocado";
+var mnemonic = "meadow era update agent fold soup green ready pony stumble author task";

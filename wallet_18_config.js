@@ -1,1 +1,1 @@
-var mnemonic = "lift govern liquid rival old own color couple theory venue token modify";
+var mnemonic = "hole cry prepare club ring offer thought scatter castle robot inquiry panda";

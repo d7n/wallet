@@ -1,1 +1,1 @@
-var mnemonic = "thrive suit trend adjust silk emotion quality resist lake assist toddler uniform";
+var mnemonic = "fossil cake quick stomach gas derive armor rare call core agent picture";

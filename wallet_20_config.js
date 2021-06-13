@@ -1,1 +1,1 @@
-var mnemonic = "scale sister traffic patch candy grief craft fame summer dizzy present reunion";
+var mnemonic = "mansion impose immune extend clever real flip tunnel claim ankle slight dolphin";

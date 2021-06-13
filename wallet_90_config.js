@@ -1,1 +1,1 @@
-var mnemonic = "cycle envelope bench gallery twin brisk assume rather ocean wedding enter original";
+var mnemonic = "street enter else between fantasy supply way struggle gas usual rely phone";

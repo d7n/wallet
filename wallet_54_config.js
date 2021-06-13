@@ -1,1 +1,1 @@
-var mnemonic = "athlete tiny meadow can word property purchase winter skin orange vibrant marble";
+var mnemonic = "auction network claim bread already fatal security exercise avoid merge fly marble";

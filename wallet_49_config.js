@@ -1,1 +1,1 @@
-var mnemonic = "balance water tourist peace stone ribbon deposit toward play total cattle fat";
+var mnemonic = "dirt kangaroo crowd place vibrant point team phone palm mother sure denial";

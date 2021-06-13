@@ -1,1 +1,1 @@
-var mnemonic = "eye glare already casino tennis there phone sphere toilet craft economy base";
+var mnemonic = "mystery elite install door act panda trap filter goddess where join reason";

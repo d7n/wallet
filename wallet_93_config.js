@@ -1,1 +1,1 @@
-var mnemonic = "abandon climb decide allow crystal check conduct snake robust olympic wish reform";
+var mnemonic = "fork find tunnel file above project path spice oil private shrimp artist";

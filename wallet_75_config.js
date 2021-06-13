@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin scout thought what buzz forward woman thumb detect educate artwork able";
+var mnemonic = "parrot tennis bind leopard smoke wet symbol industry scene sheriff spell change";

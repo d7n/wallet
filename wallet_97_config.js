@@ -1,1 +1,1 @@
-var mnemonic = "hole song piece kidney super lend fantasy cherry right pause frame liberty";
+var mnemonic = "morning erosion menu height own hollow age detail gym interest twelve ugly";

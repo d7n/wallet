@@ -1,1 +1,1 @@
-var mnemonic = "mansion usual crouch syrup poem useless sadness response accuse syrup spoil voice";
+var mnemonic = "confirm still gaze latin play song century kitten vehicle hover lonely trap";

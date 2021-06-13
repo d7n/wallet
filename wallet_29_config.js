@@ -1,1 +1,1 @@
-var mnemonic = "swap hat fury kite vague bench veteran join edge bread sorry steak";
+var mnemonic = "large depend cover loud network sugar merry surge diary define maid trust";

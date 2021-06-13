@@ -1,1 +1,1 @@
-var mnemonic = "column three praise ivory sorry sort music album luggage stable coast bus";
+var mnemonic = "relax royal error defy turkey brown slab ecology tail arctic stamp cannon";

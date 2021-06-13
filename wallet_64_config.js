@@ -1,1 +1,1 @@
-var mnemonic = "misery horror floor slim can swallow air giggle annual fortune general educate";
+var mnemonic = "betray walnut river good vivid immune marble sock arena zero cook add";

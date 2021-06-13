@@ -1,1 +1,1 @@
-var mnemonic = "shield destroy mobile nerve soap width jaguar build list oppose guess canoe";
+var mnemonic = "witness copy verify menu cool return vast hire pen toss reject crew";

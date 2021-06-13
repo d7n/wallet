@@ -1,1 +1,1 @@
-var mnemonic = "picnic consider rebel loan profit ring element spread cost tuition dial virtual";
+var mnemonic = "rocket napkin bounce age end trick monster device deliver lottery reject border";

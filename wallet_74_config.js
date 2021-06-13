@@ -1,1 +1,1 @@
-var mnemonic = "travel grunt obvious dwarf blast cannon extend stuff hope walk service warfare";
+var mnemonic = "student whisper join total near antique wise afraid panic fatigue entire cement";

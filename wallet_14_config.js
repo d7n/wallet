@@ -1,1 +1,1 @@
-var mnemonic = "employ ice verb silly moon grit burst mad another chaos inch innocent";
+var mnemonic = "cinnamon miracle pill pool panther object soda veteran token input illegal acid";

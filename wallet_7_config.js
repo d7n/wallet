@@ -1,1 +1,1 @@
-var mnemonic = "castle tunnel what strong hood round maximum enroll roast pear race give";
+var mnemonic = "wash green fiber skill helmet large husband trade nothing museum unit please";

@@ -1,1 +1,1 @@
-var mnemonic = "occur enough gift coil ceiling guitar globe clever zebra until wise prepare";
+var mnemonic = "spot soda casual trash surface edit what liar piece flame long liquid";

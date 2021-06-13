@@ -1,1 +1,1 @@
-var mnemonic = "faith town dance visit party choice cruise tree hat monitor text outdoor";
+var mnemonic = "trend post hundred scan annual poverty spy abuse piano combine inhale more";

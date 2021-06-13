@@ -1,1 +1,1 @@
-var mnemonic = "exhaust leopard blanket source dash fox spot news achieve rival exclude brass";
+var mnemonic = "police fashion common replace whale hover system that focus suspect village normal";

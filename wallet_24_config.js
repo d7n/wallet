@@ -1,1 +1,1 @@
-var mnemonic = "aware poverty mad deliver echo elbow produce enemy ritual nice moral rich";
+var mnemonic = "dress buffalo vehicle brain sport gather shrimp need issue science adult trouble";

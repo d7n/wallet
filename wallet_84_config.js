@@ -1,1 +1,1 @@
-var mnemonic = "already never brain permit usual blood plug magic waste foil group stairs";
+var mnemonic = "clock alcohol van brother save illness envelope space frog penalty plunge blossom";

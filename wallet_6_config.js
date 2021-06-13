@@ -1,1 +1,1 @@
-var mnemonic = "celery room puzzle black juice answer argue impose grid belt pony say";
+var mnemonic = "bring great abuse party upon embody improve school funny service fish sock";

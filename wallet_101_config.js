@@ -1,1 +1,1 @@
-var mnemonic = "lion drama burger harvest organ mandate patient leopard squirrel buzz protect slush";
+var mnemonic = "spider tornado divert describe stumble shiver soccer element proof beach idea farm";

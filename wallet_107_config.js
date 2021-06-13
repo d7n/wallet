@@ -1,1 +1,1 @@
-var mnemonic = "verb pencil blouse miracle slow danger useless tell dinner like move mimic";
+var mnemonic = "kit crime reflect pig meadow stick donate beach obscure minor village cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "wine mother grass reduce bomb foot child survey exist flip shift dwarf";
+var mnemonic = "sock display grace venue shrimp mass ramp dolphin identify scatter concert grief";
