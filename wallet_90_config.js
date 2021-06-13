@@ -1,1 +1,1 @@
-var mnemonic = "pulp kitten arm rude practice play exchange gold ring plunge spoon door";
+var mnemonic = "crop museum wise abstract siege unveil size enhance work crouch torch edge";

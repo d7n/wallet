@@ -1,1 +1,1 @@
-var mnemonic = "embody vacant orbit crowd good satoshi angle tornado more course boat project";
+var mnemonic = "fork snow skull benefit attack screen couch chat duty leopard lobster bonus";

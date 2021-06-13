@@ -1,1 +1,1 @@
-var mnemonic = "bulb entire clean drum undo vague behind profit episode useless liar hammer";
+var mnemonic = "divorce oblige argue omit recycle addict siege case police ghost actual hero";

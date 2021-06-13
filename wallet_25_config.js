@@ -1,1 +1,1 @@
-var mnemonic = "gym carry debate tell acid excuse fringe wonder claw element cat myth";
+var mnemonic = "benefit decade drama law barely horn fresh child quick marine imitate garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "spot detail drift embrace obvious adult worry craft half rebel always tonight";
+var mnemonic = "label panda despair laptop nation parent valley choice half document erode toddler";

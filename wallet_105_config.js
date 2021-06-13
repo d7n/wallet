@@ -1,1 +1,1 @@
-var mnemonic = "glow step net knee message grief trip road agree invite bottom youth";
+var mnemonic = "erode nasty owner squeeze twenty shift oil marble step never industry ostrich";

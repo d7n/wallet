@@ -1,1 +1,1 @@
-var mnemonic = "bundle domain blame subject neither wrestle include barely senior analyst final rescue";
+var mnemonic = "edit banner mimic shop safe hurdle know undo spend faculty joke vintage";

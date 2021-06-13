@@ -1,1 +1,1 @@
-var mnemonic = "equip small swarm defy moon owner chicken job clown again few town";
+var mnemonic = "scale yard comfort summer unhappy crowd outside glow lounge pony hire dog";

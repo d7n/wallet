@@ -1,1 +1,1 @@
-var mnemonic = "vintage steak double track diamond soft ugly garbage nut manual nothing trophy";
+var mnemonic = "cage interest dwarf service misery spirit dizzy guitar clown chief harsh ancient";

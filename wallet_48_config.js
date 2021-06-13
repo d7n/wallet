@@ -1,1 +1,1 @@
-var mnemonic = "auto neglect middle walnut sight assist inside pen prison tray nasty seven";
+var mnemonic = "apple wise abstract royal swim spread uncle move aspect demise soda sport";

@@ -1,1 +1,1 @@
-var mnemonic = "trade protect aware sheriff trash image often divert trouble tape wheat glimpse";
+var mnemonic = "jaguar purity exclude hole glare kangaroo vault property pill impact quantum mistake";

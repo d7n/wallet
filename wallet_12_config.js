@@ -1,1 +1,1 @@
-var mnemonic = "visit manual clarify sheriff shift example furnace girl swing measure busy nice";
+var mnemonic = "explain pudding swift corn zone glare cricket bamboo snake video mansion above";

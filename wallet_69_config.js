@@ -1,1 +1,1 @@
-var mnemonic = "habit vicious section bread jacket grape race shop coach army poet scrap";
+var mnemonic = "ritual protect exhibit report faculty element famous crystal physical uncle device ribbon";

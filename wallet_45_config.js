@@ -1,1 +1,1 @@
-var mnemonic = "ring lyrics desk decline rain napkin mass distance connect seminar inquiry patient";
+var mnemonic = "erosion shiver obey mechanic decrease bacon sheriff meat flash dose jelly exhaust";

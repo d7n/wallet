@@ -1,1 +1,1 @@
-var mnemonic = "ritual female timber protect video you rebuild nut blur coil use ripple";
+var mnemonic = "museum cattle evoke depart weasel onion model super toss embody beyond category";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow clip next armor observe critic marine cotton maid other genius sunny";
+var mnemonic = "sail address ill flower embark grunt genius enable thank pull horn diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "notice deputy science enforce school lumber salt correct purse civil order verb";
+var mnemonic = "airport bomb napkin unlock chuckle kite mixed mushroom giraffe brick vocal uncover";

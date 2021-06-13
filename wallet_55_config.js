@@ -1,1 +1,1 @@
-var mnemonic = "cannon spare build toast ancient ghost kidney reveal attack doll six name";
+var mnemonic = "involve maple slam flavor bone immense crew soccer mask zoo dynamic attack";

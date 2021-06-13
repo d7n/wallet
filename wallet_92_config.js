@@ -1,1 +1,1 @@
-var mnemonic = "exclude dirt omit wasp naive cruel news saddle exact tackle letter alley";
+var mnemonic = "canal silent strategy payment pottery razor scorpion rookie lock observe isolate excuse";

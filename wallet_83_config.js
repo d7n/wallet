@@ -1,1 +1,1 @@
-var mnemonic = "manage clever brother august goose door pair danger rate depart twelve swear";
+var mnemonic = "lend cram dream joy glide often clerk monster chapter now paper chicken";

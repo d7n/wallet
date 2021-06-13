@@ -1,1 +1,1 @@
-var mnemonic = "fresh bridge carpet own library below salt butter solve display course device";
+var mnemonic = "clip away holiday quantum security soap light crack seed world badge used";

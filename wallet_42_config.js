@@ -1,1 +1,1 @@
-var mnemonic = "hair pattern pluck west lunar joke sea deal excite fuel dismiss world";
+var mnemonic = "rack snake glide window pulse cloud reunion churn inject employ month increase";

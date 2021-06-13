@@ -1,1 +1,1 @@
-var mnemonic = "benefit maple envelope enforce shuffle old frog around urge prepare road intact";
+var mnemonic = "practice impact boring good gesture impulse festival light write envelope gossip cancel";

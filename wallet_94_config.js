@@ -1,1 +1,1 @@
-var mnemonic = "fever teach risk clinic pioneer wedding inform smart cheese census early sock";
+var mnemonic = "rough spot tray blame rival wolf report glance open pilot assault social";

@@ -1,1 +1,1 @@
-var mnemonic = "train impose alter effort load tragic series employ orbit else exit boring";
+var mnemonic = "loop seminar foil worth patient tattoo lava panther hen drop hill kiss";

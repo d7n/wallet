@@ -1,1 +1,1 @@
-var mnemonic = "sphere inhale runway cat gossip vote palm immense exact sugar useful save";
+var mnemonic = "income consider jump spread agent doll fat famous season plug please raccoon";

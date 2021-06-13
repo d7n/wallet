@@ -1,1 +1,1 @@
-var mnemonic = "clutch ranch zebra balance future mother burger unaware aerobic alert clarify assume";
+var mnemonic = "surface harvest stereo lyrics dumb render lake sudden keen galaxy hobby hurt";

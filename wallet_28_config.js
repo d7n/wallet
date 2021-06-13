@@ -1,1 +1,1 @@
-var mnemonic = "equal eyebrow spell match turkey twenty rebel wagon segment ethics frozen immense";
+var mnemonic = "vehicle hungry next choose predict crater certain great apple dwarf inch leisure";

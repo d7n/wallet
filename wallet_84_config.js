@@ -1,1 +1,1 @@
-var mnemonic = "illness task poet dog list flag wool monkey bless enrich ask envelope";
+var mnemonic = "midnight black grain black acid rely title virtual mansion hunt smoke fly";

@@ -1,1 +1,1 @@
-var mnemonic = "return divide coconut warm solid trend visual diamond permit ranch resist bottom";
+var mnemonic = "client hard deal twist beauty mother edit oxygen gasp egg now output";

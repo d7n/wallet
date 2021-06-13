@@ -1,1 +1,1 @@
-var mnemonic = "weasel replace coffee program neck depth general stairs column master wisdom tilt";
+var mnemonic = "jazz foot note message exhibit sleep theory decline act clip name extra";

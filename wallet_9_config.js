@@ -1,1 +1,1 @@
-var mnemonic = "whisper beauty unhappy bean crime tiger ribbon cross web blame old impact";
+var mnemonic = "throw latin consider license social solve helmet solar armor carry focus supply";

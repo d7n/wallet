@@ -1,1 +1,1 @@
-var mnemonic = "spoon expose setup alert become place zero ostrich cargo what flame pen";
+var mnemonic = "syrup property bleak smooth moment theory attract recipe width zone correct impact";

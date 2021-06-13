@@ -1,1 +1,1 @@
-var mnemonic = "twin enjoy stadium dentist spider electric duck morning scatter fiscal help unique";
+var mnemonic = "beauty spread cargo rural kiwi concert embrace inform also poem happy pretty";

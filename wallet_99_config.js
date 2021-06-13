@@ -1,1 +1,1 @@
-var mnemonic = "era ugly toast garage since basic yard name viable vacant move pretty";
+var mnemonic = "blood domain intact satoshi unhappy language rebel law achieve brief nest imitate";

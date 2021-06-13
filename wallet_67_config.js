@@ -1,1 +1,1 @@
-var mnemonic = "six tent middle casual future cannon remain design slot muscle clap vibrant";
+var mnemonic = "palace gold north cluster wash galaxy fall duty manage shuffle turkey high";

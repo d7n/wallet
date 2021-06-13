@@ -1,1 +1,1 @@
-var mnemonic = "champion boat joy soldier drop brisk piece recall mask because smile valid";
+var mnemonic = "casino breeze also around forest between peanut elite camera shock arch syrup";

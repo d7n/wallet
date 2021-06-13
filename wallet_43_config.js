@@ -1,1 +1,1 @@
-var mnemonic = "library sword element claw monster vivid neck treat alert motor attack witness";
+var mnemonic = "collect sword plunge gaze amused salon paddle pool symptom since betray rent";

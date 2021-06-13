@@ -1,1 +1,1 @@
-var mnemonic = "behind census grace success budget duty scene panda deer idle mansion turtle";
+var mnemonic = "elder verb cricket champion grocery together year crisp basket human safe wife";

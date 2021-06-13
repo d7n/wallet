@@ -1,1 +1,1 @@
-var mnemonic = "drastic near aware rice tongue salt midnight unhappy dinner unusual soup inquiry";
+var mnemonic = "topic start inflict increase antenna motion flip country vacant dutch embark friend";

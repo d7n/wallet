@@ -1,1 +1,1 @@
-var mnemonic = "gasp cute twin nasty tunnel scatter pact uncover slight couple measure amazing";
+var mnemonic = "tape ridge hurry sunny tone gap lyrics parrot original peanut pipe hurt";

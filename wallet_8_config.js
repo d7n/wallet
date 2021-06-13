@@ -1,1 +1,1 @@
-var mnemonic = "dial gown lamp rug cable cage wasp setup boring question slice invite";
+var mnemonic = "angle renew embody garment undo radar calm miracle wife away wisdom pony";

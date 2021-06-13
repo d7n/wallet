@@ -1,1 +1,1 @@
-var mnemonic = "cargo typical give snow camera tower useless ginger dilemma sponsor smile humor";
+var mnemonic = "industry apart wink office exist place taxi trash miss sock unfold visa";

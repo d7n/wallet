@@ -1,1 +1,1 @@
-var mnemonic = "settle modify pond tired leopard win magnet buffalo spice metal hour cup";
+var mnemonic = "chief short brown column priority rate twelve poem word letter toe shield";

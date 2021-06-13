@@ -1,1 +1,1 @@
-var mnemonic = "bicycle island scale thumb public unable real motor equal leisure craft brand";
+var mnemonic = "bring top divide team tilt sand hungry term hockey render symptom wash";

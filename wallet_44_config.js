@@ -1,1 +1,1 @@
-var mnemonic = "quiz below chuckle release mimic powder mass tragic only jaguar column wealth";
+var mnemonic = "scout amount wreck patient panther friend hair paddle fish bone bonus dutch";

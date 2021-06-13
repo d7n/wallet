@@ -1,1 +1,1 @@
-var mnemonic = "staff toilet green roast solution tooth hub upper dilemma meat add crane";
+var mnemonic = "exhibit impose valve you gold purse own mixed sing dumb logic inside";

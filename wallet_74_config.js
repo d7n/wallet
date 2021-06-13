@@ -1,1 +1,1 @@
-var mnemonic = "boat tail open place shoot prison few dawn fuel card message recall";
+var mnemonic = "gym round camp rigid maximum innocent acquire topple bleak valve boring cave";

@@ -1,1 +1,1 @@
-var mnemonic = "service gift orient journey enable thumb tip rib pyramid position leader goat";
+var mnemonic = "crash fit town bonus inflict sword nut inherit ripple anger infant tired";

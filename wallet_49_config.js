@@ -1,1 +1,1 @@
-var mnemonic = "match large mango harbor satoshi inflict comfort woman field churn minimum spatial";
+var mnemonic = "raise indoor between alien vote owner fox effort long trouble scare trash";

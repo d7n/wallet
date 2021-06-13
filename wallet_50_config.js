@@ -1,1 +1,1 @@
-var mnemonic = "rubber churn merge large action expect step jelly glad street plunge polar";
+var mnemonic = "cage sense bulk night hill spoon bid west sorry knock anchor account";

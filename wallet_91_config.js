@@ -1,1 +1,1 @@
-var mnemonic = "account crop rain then spirit dish advance fragile ball thing enough hedgehog";
+var mnemonic = "hunt spring bamboo injury now select explain exhibit involve cry pigeon define";

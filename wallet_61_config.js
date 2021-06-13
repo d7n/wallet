@@ -1,1 +1,1 @@
-var mnemonic = "bird embrace explain fault later arch tribe clip music front noise flavor";
+var mnemonic = "prize betray flee quit wheat grant junk romance end clinic better script";

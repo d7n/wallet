@@ -1,1 +1,1 @@
-var mnemonic = "moral tragic rubber elevator goose mixture document hundred result soup gate mix";
+var mnemonic = "loud purpose anxiety network lend donate snap suffer rabbit busy next boy";

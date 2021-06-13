@@ -1,1 +1,1 @@
-var mnemonic = "season uphold stay flavor dad helmet run oak gain patrol inject blue";
+var mnemonic = "unique damage step sock educate always laundry blanket lucky bonus idle gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin before all enter group matrix lock breeze attract wonder caught casino";
+var mnemonic = "subject insect enough side keen faint grant sad oxygen carbon annual urge";

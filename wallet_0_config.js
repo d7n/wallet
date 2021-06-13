@@ -1,1 +1,1 @@
-var mnemonic = "urban above person spend only flavor loan rally fossil question raven enroll";
+var mnemonic = "motion bracket list rough argue dumb carry way minute coil minimum hotel";

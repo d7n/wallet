@@ -1,1 +1,1 @@
-var mnemonic = "document surround increase crush possible curious kidney curious logic surface shrimp shadow";
+var mnemonic = "attack eager ski ice rose nut true salt again cluster success brother";

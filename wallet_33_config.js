@@ -1,1 +1,1 @@
-var mnemonic = "liberty symptom lottery purchase garment taste cliff kitten leg curtain shaft wall";
+var mnemonic = "wage poverty dove save erosion suffer blue lava document release flight ceiling";

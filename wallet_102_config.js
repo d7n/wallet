@@ -1,1 +1,1 @@
-var mnemonic = "level moon type sun spin caution scout season common track plate bleak";
+var mnemonic = "disagree average long page silver chronic lazy pluck cloth coin worry teach";

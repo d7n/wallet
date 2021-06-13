@@ -1,1 +1,1 @@
-var mnemonic = "rail weapon pluck tool veteran peanut grant accident margin husband various any";
+var mnemonic = "place drift toe advice panda occur about lens renew orphan bright peanut";

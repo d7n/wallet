@@ -1,1 +1,1 @@
-var mnemonic = "rival vault already security love mixture coral mandate produce room moral little";
+var mnemonic = "image cluster arrive grocery clutch minimum text breeze earth pool bar romance";

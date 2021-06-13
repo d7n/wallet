@@ -1,1 +1,1 @@
-var mnemonic = "uncle there upgrade bulb chair blossom clinic bring witness undo despair toast";
+var mnemonic = "inflict ability thought six mobile assume curious guilt caution clarify mobile arm";

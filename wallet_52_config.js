@@ -1,1 +1,1 @@
-var mnemonic = "rose chef weird wisdom robot order wage brick draft steel glove robot";
+var mnemonic = "dish document faculty away child moon harbor detail verify board memory liar";

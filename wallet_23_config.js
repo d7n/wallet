@@ -1,1 +1,1 @@
-var mnemonic = "elegant accuse bulb track someone kiss loud typical fury there hollow document";
+var mnemonic = "elevator churn nasty autumn fury ketchup banana rookie invest term cycle evolve";

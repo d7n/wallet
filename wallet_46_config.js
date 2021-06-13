@@ -1,1 +1,1 @@
-var mnemonic = "idle helmet insane alley spring critic afraid news blind wait icon buzz";
+var mnemonic = "provide cupboard mammal token faith quality solid duck purchase absurd pear gentle";

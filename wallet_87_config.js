@@ -1,1 +1,1 @@
-var mnemonic = "radar become oval knock retreat agent basket hood absent merit arrow obey";
+var mnemonic = "used obscure sponsor holiday thought color melt imitate case blush lunar just";

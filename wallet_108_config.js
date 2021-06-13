@@ -1,1 +1,1 @@
-var mnemonic = "appear flee toss error soup orient column industry lecture arrive since cloud";
+var mnemonic = "rack hope royal ghost claim exist ignore ankle dinner obey gold approve";

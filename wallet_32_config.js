@@ -1,1 +1,1 @@
-var mnemonic = "cheese fashion trip until hard decrease wheat champion stock pitch okay lawn";
+var mnemonic = "ostrich speak evolve appear pretty dash kitchen flash help resist absorb latin";

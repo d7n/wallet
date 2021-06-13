@@ -1,1 +1,1 @@
-var mnemonic = "ensure waste sword section ethics divert slice acoustic hat symptom shield control";
+var mnemonic = "coin evil ring swing hazard resource win harbor lend squeeze average essence";

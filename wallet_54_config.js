@@ -1,1 +1,1 @@
-var mnemonic = "breeze purchase kidney small awful random warfare edge music miracle post flash";
+var mnemonic = "word nothing weird arrive phone grace spawn profit effort riot answer sorry";

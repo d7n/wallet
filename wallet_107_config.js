@@ -1,1 +1,1 @@
-var mnemonic = "inflict seven secret funny flame boat gentle pole hunt dynamic skin depart";
+var mnemonic = "supply expire brass virus palm rebel illness unlock differ project blood army";

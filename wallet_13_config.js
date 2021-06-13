@@ -1,1 +1,1 @@
-var mnemonic = "sentence able surprise urge average flame rescue jungle capable vague tank same";
+var mnemonic = "parrot monitor enjoy clutch upper denial wet bamboo mechanic script rubber flower";

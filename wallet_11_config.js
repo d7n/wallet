@@ -1,1 +1,1 @@
-var mnemonic = "load tired pudding tackle carbon obey assume follow monkey absorb swamp number";
+var mnemonic = "crime steak boss mechanic chuckle sauce mountain heart cactus rally into rely";

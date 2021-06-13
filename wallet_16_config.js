@@ -1,1 +1,1 @@
-var mnemonic = "scrub wash cloud tube observe volume genius mirror antique distance jelly light";
+var mnemonic = "elite wonder jar general enrich print dish car bubble damage multiply sausage";

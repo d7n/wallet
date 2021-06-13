@@ -1,1 +1,1 @@
-var mnemonic = "destroy excess later tube junior upgrade flight travel puppy august craft alert";
+var mnemonic = "rebuild raccoon immense law clever luxury power relief interest owner ramp surface";

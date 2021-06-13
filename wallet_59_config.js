@@ -1,1 +1,1 @@
-var mnemonic = "because rude aim reflect reject speak away candy inject group fringe wing";
+var mnemonic = "another good source valley duty business blossom local route blouse merry nothing";

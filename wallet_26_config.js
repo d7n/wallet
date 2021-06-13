@@ -1,1 +1,1 @@
-var mnemonic = "lift disorder novel vital bullet dismiss wet large pretty armor patient design";
+var mnemonic = "glare regular still next harsh rigid dish laugh scrap chuckle explain frozen";

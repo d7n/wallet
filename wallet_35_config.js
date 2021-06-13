@@ -1,1 +1,1 @@
-var mnemonic = "flight actor evolve adapt rather dog master wisdom rice before artefact promote";
+var mnemonic = "apple sunset glare better screen veteran salmon glide shift consider farm private";

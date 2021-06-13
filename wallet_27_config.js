@@ -1,1 +1,1 @@
-var mnemonic = "hotel bundle album help announce monkey cotton toss ostrich cart faculty midnight";
+var mnemonic = "kite found now vintage indicate pass matrix mixture lobster people gate admit";

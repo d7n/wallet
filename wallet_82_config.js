@@ -1,1 +1,1 @@
-var mnemonic = "crater gas fashion apple long tray anchor range board interest refuse then";
+var mnemonic = "will custom tobacco also auction alcohol pigeon they next half industry human";

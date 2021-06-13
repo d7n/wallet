@@ -1,1 +1,1 @@
-var mnemonic = "inner inquiry arrive section one void decrease fabric elite suspect cluster novel";
+var mnemonic = "project farm like warm margin conduct hockey essay idea special sport leopard";

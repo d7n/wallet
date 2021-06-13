@@ -1,1 +1,1 @@
-var mnemonic = "aisle scorpion audit fitness since skin illness patient camp narrow urban visit";
+var mnemonic = "term insane marble judge run curtain caution nasty address venture bone legal";

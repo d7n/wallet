@@ -1,1 +1,1 @@
-var mnemonic = "inside remember patrol clap virtual fuel spend vintage traffic nothing tilt involve";
+var mnemonic = "exit trumpet glide hat laptop torch elephant dance matter approve island again";

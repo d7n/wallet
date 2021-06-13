@@ -1,1 +1,1 @@
-var mnemonic = "treat monkey ignore jealous silly primary daughter stereo island jar chapter bronze";
+var mnemonic = "economy load west gas sure dynamic airport girl animal announce oyster sting";

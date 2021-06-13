@@ -1,1 +1,1 @@
-var mnemonic = "talent speak success palm twenty citizen punch finger trigger hazard gossip before";
+var mnemonic = "mention charge lens vivid deer shift portion badge author dash loud swing";

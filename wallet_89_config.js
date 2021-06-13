@@ -1,1 +1,1 @@
-var mnemonic = "enable sniff lottery march lock century spoil guard organ marine edge please";
+var mnemonic = "wheel chief planet certain way brown wait found tent fence uncle bring";

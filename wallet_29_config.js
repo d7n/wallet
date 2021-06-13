@@ -1,1 +1,1 @@
-var mnemonic = "champion beauty someone comic put slow buffalo cram question document brand tortoise";
+var mnemonic = "usual cargo cheap glass alley top resemble alcohol surge kangaroo wrap eight";
