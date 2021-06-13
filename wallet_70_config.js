@@ -1,1 +1,1 @@
-var mnemonic = "creek sketch together hope day flower owner audit grass island feed dress";
+var mnemonic = "defy smooth entry calm hero output black biology caution trophy able private";

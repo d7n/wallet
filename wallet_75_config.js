@@ -1,1 +1,1 @@
-var mnemonic = "plastic bar turn media forum damp shell ketchup similar sail reduce tumble";
+var mnemonic = "improve aspect pumpkin gas extra slice asthma audit shadow liberty awkward long";

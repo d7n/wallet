@@ -1,1 +1,1 @@
-var mnemonic = "shadow witness utility borrow cake slam world sail asset inject order history";
+var mnemonic = "bullet rebel agree jewel rice aware appear snap pet neutral knife unaware";

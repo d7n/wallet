@@ -1,1 +1,1 @@
-var mnemonic = "animal explain major truly oblige breeze tennis burst increase process drastic ignore";
+var mnemonic = "emerge rookie what galaxy together select put present client torch gloom abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "forget myself float embrace embrace danger mix forest bicycle raise excess atom";
+var mnemonic = "frog pole law legal weasel cycle ensure banana cheap fall nerve office";

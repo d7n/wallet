@@ -1,1 +1,1 @@
-var mnemonic = "true lawn outside organ link curve scorpion gaze arrest oval load achieve";
+var mnemonic = "ghost friend drift desert siren dignity venture wall where orphan utility swamp";

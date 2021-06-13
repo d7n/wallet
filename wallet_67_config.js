@@ -1,1 +1,1 @@
-var mnemonic = "disagree wage pause check stadium able edge peasant blast age left way";
+var mnemonic = "ivory two myth material liberty west dance bid height weird chronic lesson";

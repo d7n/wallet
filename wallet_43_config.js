@@ -1,1 +1,1 @@
-var mnemonic = "umbrella cash play sudden cube illness dinner universe miss main panel pioneer";
+var mnemonic = "smart drill layer void rude ritual link honey ramp gasp dutch fetch";

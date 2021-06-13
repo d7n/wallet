@@ -1,1 +1,1 @@
-var mnemonic = "entry syrup treat please midnight egg volcano web wolf power budget illness";
+var mnemonic = "sport ill need region wonder observe now pig donkey kiss sudden chase";

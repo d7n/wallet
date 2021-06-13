@@ -1,1 +1,1 @@
-var mnemonic = "tribe clerk toast champion nest unique current artefact amount little brief task";
+var mnemonic = "great flush scrap thought wrong swarm bullet giraffe acid attack outdoor slot";

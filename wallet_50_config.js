@@ -1,1 +1,1 @@
-var mnemonic = "drip holiday pledge brisk minimum horse search march room aerobic honey ticket";
+var mnemonic = "train lumber else model humor raccoon talent camera grace pill erosion owner";

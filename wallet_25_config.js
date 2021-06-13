@@ -1,1 +1,1 @@
-var mnemonic = "grass fault spend trial vacant banner claw sadness clarify slight settle right";
+var mnemonic = "mansion raw daring release teach awkward sword secret person novel mother ginger";

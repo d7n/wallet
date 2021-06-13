@@ -1,1 +1,1 @@
-var mnemonic = "access again violin tragic decrease adult sock copper sing pumpkin market rigid";
+var mnemonic = "novel poverty vibrant image drift brother release subway search market lobster infant";

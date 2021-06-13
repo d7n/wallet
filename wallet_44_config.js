@@ -1,1 +1,1 @@
-var mnemonic = "exercise piano jungle begin orange civil apple monster annual solar powder bleak";
+var mnemonic = "pulse unaware acid predict coral rather magic educate trouble print fortune bread";

@@ -1,1 +1,1 @@
-var mnemonic = "teach bamboo process ocean public inject immense lazy unusual arctic crisp junk";
+var mnemonic = "net trash danger soft salute axis stage choose dish glimpse addict safe";

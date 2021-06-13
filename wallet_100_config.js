@@ -1,1 +1,1 @@
-var mnemonic = "length sadness season remain canal void lab dynamic bullet claw grit empower";
+var mnemonic = "file double page throw basket regular chuckle sell black virus blast suit";

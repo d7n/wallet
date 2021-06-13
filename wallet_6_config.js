@@ -1,1 +1,1 @@
-var mnemonic = "erase weird sign six stage still glory junk side luggage spin bird";
+var mnemonic = "diagram venture picnic guess eternal bargain giraffe unique supply infant what finish";

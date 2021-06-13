@@ -1,1 +1,1 @@
-var mnemonic = "shaft melt punch dentist family detail what renew gloom person horse entire";
+var mnemonic = "void reveal lens breeze elegant mad firm guide cage horror result rhythm";

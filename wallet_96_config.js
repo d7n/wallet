@@ -1,1 +1,1 @@
-var mnemonic = "toward apple resist chest pole game forest pizza bicycle reward term warm";
+var mnemonic = "salad blast wedding prosper possible soda curtain supreme slender outdoor online mention";

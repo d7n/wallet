@@ -1,1 +1,1 @@
-var mnemonic = "enemy news ranch predict ivory era coil lonely meat birth primary gospel";
+var mnemonic = "guitar mosquito island capital purchase swallow bulb whale monitor ghost picture twelve";

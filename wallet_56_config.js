@@ -1,1 +1,1 @@
-var mnemonic = "chair diamond expire truck twenty pelican eye series display sense smart paddle";
+var mnemonic = "shield gravity rather cram grace weekend only unfair coach tomato smile vote";

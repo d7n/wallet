@@ -1,1 +1,1 @@
-var mnemonic = "speed soft finger easy topic volcano neck supply obvious escape table judge";
+var mnemonic = "metal position patch coach knee pill puzzle age vacant behave west hire";

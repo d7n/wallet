@@ -1,1 +1,1 @@
-var mnemonic = "festival material begin network solution now miracle dentist noble require tone tourist";
+var mnemonic = "memory finger evil arena eternal promote virus toss purchase humble slim maximum";

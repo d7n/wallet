@@ -1,1 +1,1 @@
-var mnemonic = "cradle blouse figure warm quiz okay merge badge taxi option strategy insect";
+var mnemonic = "chase crazy deal grit rate exile train other scatter grain chicken merit";

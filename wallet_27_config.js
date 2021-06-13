@@ -1,1 +1,1 @@
-var mnemonic = "embrace laundry width abuse wire fork prize uncover eye squeeze food language";
+var mnemonic = "begin dinner weapon desk message little reason below earn hip skate welcome";

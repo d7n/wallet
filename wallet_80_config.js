@@ -1,1 +1,1 @@
-var mnemonic = "crouch lens ignore dog dwarf spray polar man melody second sugar drive";
+var mnemonic = "other hollow actress zero lawn demise unfold width stereo congress time raw";

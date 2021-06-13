@@ -1,1 +1,1 @@
-var mnemonic = "tourist client canoe gauge grow double uncle reward mean mirror silent attitude";
+var mnemonic = "summer subject panther document diagram boy book endorse junior wire height enemy";

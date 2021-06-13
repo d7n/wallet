@@ -1,1 +1,1 @@
-var mnemonic = "fix symptom buzz viable law buzz celery sponsor hospital wing crisp rebel";
+var mnemonic = "fan sure tomato oyster rude latin judge town palm step original truth";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune share void tiny change weapon crane chef action write fabric claim";
+var mnemonic = "position topple husband weasel middle bitter elevator arrow hybrid choice photo vacant";

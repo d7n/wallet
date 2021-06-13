@@ -1,1 +1,1 @@
-var mnemonic = "valve diagram rain purpose level village base dignity grow void skin use";
+var mnemonic = "age crack bundle fit foster mother panda flame universe wheat chaos gun";

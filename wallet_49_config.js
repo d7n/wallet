@@ -1,1 +1,1 @@
-var mnemonic = "quote dinosaur better mobile border betray bean donkey retreat mixed brush connect";
+var mnemonic = "uncover actual alley bright toilet inform twin armed bonus quote win bleak";

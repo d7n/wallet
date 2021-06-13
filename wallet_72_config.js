@@ -1,1 +1,1 @@
-var mnemonic = "network relief fatal predict easily machine mimic simple feed trip budget door";
+var mnemonic = "web paddle key garden sudden head become inject person suggest stamp ginger";

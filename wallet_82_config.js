@@ -1,1 +1,1 @@
-var mnemonic = "tomato still index inform foot walnut innocent mobile size country egg office";
+var mnemonic = "destroy divorce abuse struggle number interest latin left taste jeans priority ski";

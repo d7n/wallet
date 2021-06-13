@@ -1,1 +1,1 @@
-var mnemonic = "amazing point way half balcony equip stereo border plunge shove conduct segment";
+var mnemonic = "disagree rebel escape vanish truly will doctor habit usage defense state wing";

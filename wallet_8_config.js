@@ -1,1 +1,1 @@
-var mnemonic = "please route supreme globe surprise swarm genre intact rally quality paper merry";
+var mnemonic = "material bicycle category broccoli autumn offer filter brick fame erupt upon toe";

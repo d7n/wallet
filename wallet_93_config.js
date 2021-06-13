@@ -1,1 +1,1 @@
-var mnemonic = "casino shadow wife power taxi doll speed umbrella first exchange odor salmon";
+var mnemonic = "boil evil shrug decrease open unique slush pact market arrow great sport";

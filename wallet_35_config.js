@@ -1,1 +1,1 @@
-var mnemonic = "affair library direct monitor soft chronic surprise more normal tide spirit clever";
+var mnemonic = "rent reject drastic tiny exit snow spawn bean portion kidney brick police";

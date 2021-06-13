@@ -1,1 +1,1 @@
-var mnemonic = "copper fatigue cry craft analyst return camp refuse tobacco oval ticket switch";
+var mnemonic = "boring silent price muffin noise proud trend idle critic avocado minimum shallow";

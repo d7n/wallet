@@ -1,1 +1,1 @@
-var mnemonic = "stumble cruel brand exact cat awesome lab flavor excuse curious theme south";
+var mnemonic = "cable acid grid avocado antique news olympic true color eagle misery basic";

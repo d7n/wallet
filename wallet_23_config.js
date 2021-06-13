@@ -1,1 +1,1 @@
-var mnemonic = "broom canyon fame other labor message gospel almost cube arrange outside assume";
+var mnemonic = "rather weasel announce sun alpha bonus video huge monster enter review sorry";

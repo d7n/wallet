@@ -1,1 +1,1 @@
-var mnemonic = "develop city engage snack talk vast fetch edge token sight chair sock";
+var mnemonic = "spider donate inmate shield cricket rice stand gasp supreme beyond glory kit";

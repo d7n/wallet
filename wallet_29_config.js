@@ -1,1 +1,1 @@
-var mnemonic = "piano attack search robust loud material thumb tissue ride wealth retire sense";
+var mnemonic = "harsh pave truck found dynamic job pledge chalk hold mercy fog force";

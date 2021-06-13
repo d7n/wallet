@@ -1,1 +1,1 @@
-var mnemonic = "work suit copy split powder drink edit offer polar alone glove other";
+var mnemonic = "general slender curve damp spice spell organ maze mosquito swing cram reject";

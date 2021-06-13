@@ -1,1 +1,1 @@
-var mnemonic = "found month chuckle frost banner devote length critic elegant number honey arrest";
+var mnemonic = "live south prevent scene extend foam deny allow draw method pet humble";

@@ -1,1 +1,1 @@
-var mnemonic = "usual sound cactus hazard session treat void hidden doctor boss else three";
+var mnemonic = "physical fossil cement chef exercise myth alley thing frost gauge solid poem";

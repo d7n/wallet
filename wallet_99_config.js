@@ -1,1 +1,1 @@
-var mnemonic = "beef capital arena step common chaos trial define foil very dinner private";
+var mnemonic = "blossom tooth once evolve decrease oil ugly nominee bar frost lemon denial";

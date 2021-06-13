@@ -1,1 +1,1 @@
-var mnemonic = "broccoli voyage fringe accident kind decade token pipe gorilla useless industry hour";
+var mnemonic = "plastic polar camera decrease fossil lumber treat used game gravity tornado movie";

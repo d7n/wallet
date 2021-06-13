@@ -1,1 +1,1 @@
-var mnemonic = "actress leave antenna engine wonder broken series concert recipe gospel rate equal";
+var mnemonic = "around sing town shield asthma embark radio two rifle volume account property";

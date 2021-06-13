@@ -1,1 +1,1 @@
-var mnemonic = "bus shoe whale fix mechanic interest file paper kitchen flash cheese valid";
+var mnemonic = "during box industry note bone venture scrub prevent spray tiny write yellow";

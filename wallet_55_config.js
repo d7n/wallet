@@ -1,1 +1,1 @@
-var mnemonic = "meadow problem aim business soon clean physical spread section scout negative type";
+var mnemonic = "advance circle frog unfold ginger enroll buddy sight story private layer hotel";

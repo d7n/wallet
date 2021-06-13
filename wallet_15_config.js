@@ -1,1 +1,1 @@
-var mnemonic = "sense sleep afford dinosaur limit wife develop message paddle invest divorce tooth";
+var mnemonic = "monitor talk tomorrow float bring cheese judge harbor person great snap affair";

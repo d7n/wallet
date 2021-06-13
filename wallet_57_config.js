@@ -1,1 +1,1 @@
-var mnemonic = "then betray rotate net auto crisp eye airport goose goddess circle find";
+var mnemonic = "loop web rigid hidden emotion private rival attack ordinary theory empty future";

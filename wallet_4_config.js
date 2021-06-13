@@ -1,1 +1,1 @@
-var mnemonic = "trigger knee talent rate chaos scare valid steel key goddess dance expire";
+var mnemonic = "stereo tomorrow gate concert ball island rain crime chair cargo mechanic knee";

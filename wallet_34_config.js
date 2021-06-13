@@ -1,1 +1,1 @@
-var mnemonic = "way income coin present deliver trick slow apple maple knife rich submit";
+var mnemonic = "peace theory erode thank motor slow atom surface inch typical drastic thunder";

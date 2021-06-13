@@ -1,1 +1,1 @@
-var mnemonic = "auction someone consider page swift protect robot endless river page ethics six";
+var mnemonic = "weather walnut brain flat sunny camera flock select increase asset captain either";

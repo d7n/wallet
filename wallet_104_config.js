@@ -1,1 +1,1 @@
-var mnemonic = "march sausage immense fit wink judge steel lunar birth royal pioneer under";
+var mnemonic = "chimney green soccer afraid average tenant palm present friend switch grain license";

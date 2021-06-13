@@ -1,1 +1,1 @@
-var mnemonic = "century loan cabbage rib much inhale then clay either execute legal toddler";
+var mnemonic = "duck enroll second advice trim manual consider iron improve bicycle salad victory";

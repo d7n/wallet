@@ -1,1 +1,1 @@
-var mnemonic = "olympic lawsuit exotic security food crowd spy planet seven educate need cram";
+var mnemonic = "cotton aspect know fruit toy cliff record fortune dentist pulp plunge tiny";

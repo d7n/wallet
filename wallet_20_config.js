@@ -1,1 +1,1 @@
-var mnemonic = "canal insane burger physical weasel work citizen escape shuffle across flock chest";
+var mnemonic = "boring chuckle autumn renew envelope elephant early olive slow garden put strike";

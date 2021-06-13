@@ -1,1 +1,1 @@
-var mnemonic = "beauty actor vanish thunder baby tennis record voyage method parade turkey brand";
+var mnemonic = "program reopen clock trust frog fog cargo return mammal rent dice stomach";

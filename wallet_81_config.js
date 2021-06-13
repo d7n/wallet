@@ -1,1 +1,1 @@
-var mnemonic = "harsh surface scene evil upset eternal liar social visa two bus ridge";
+var mnemonic = "calm nephew broom lab east dune egg below riot siege mistake across";

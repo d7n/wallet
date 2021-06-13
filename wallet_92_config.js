@@ -1,1 +1,1 @@
-var mnemonic = "turkey patient end frog company stumble now artefact title own track bird";
+var mnemonic = "beyond ghost office inhale middle increase defy kid satisfy kick ancient illegal";

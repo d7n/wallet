@@ -1,1 +1,1 @@
-var mnemonic = "blouse tube party local gaze you venue slab museum reduce rural chapter";
+var mnemonic = "icon install game method cheap armor bunker pony buyer coast goose powder";

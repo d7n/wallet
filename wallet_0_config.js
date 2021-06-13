@@ -1,1 +1,1 @@
-var mnemonic = "oval bean viable supreme tool victory olive track edit siren huge goddess";
+var mnemonic = "cloud angry digital rebel spot notice ice ball frozen zoo pilot major";

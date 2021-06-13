@@ -1,1 +1,1 @@
-var mnemonic = "load salmon join bind ripple mirror whale sick lottery omit lawn battle";
+var mnemonic = "slide edge talent inmate water chat mimic genius aisle syrup exile clump";

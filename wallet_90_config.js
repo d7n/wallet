@@ -1,1 +1,1 @@
-var mnemonic = "typical sweet pave essence space mind spring cross level purse salad wave";
+var mnemonic = "maximum pride reason link demise pitch wall hand super limit reward yellow";

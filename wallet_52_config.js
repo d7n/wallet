@@ -1,1 +1,1 @@
-var mnemonic = "sort absent drum shell current napkin chest slight hold dolphin embody village";
+var mnemonic = "silly window sort misery robust goddess negative foot december science mom news";

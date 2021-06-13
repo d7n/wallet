@@ -1,1 +1,1 @@
-var mnemonic = "dish mass warrior oil pen chief trap cash alcohol gadget box unfair";
+var mnemonic = "round claw donkey staff census run affair front monkey produce hat icon";

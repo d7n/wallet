@@ -1,1 +1,1 @@
-var mnemonic = "always insane erupt decline maximum find matrix velvet short energy ribbon ship";
+var mnemonic = "pulp cluster cotton work crawl dress firm card jeans depend roast collect";

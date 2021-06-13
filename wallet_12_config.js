@@ -1,1 +1,1 @@
-var mnemonic = "inner ridge math october catalog siren shoot anger goat save twenty nothing";
+var mnemonic = "stairs garage dolphin bridge verify already spread life prison list hour gun";

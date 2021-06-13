@@ -1,1 +1,1 @@
-var mnemonic = "mail begin sweet differ idea finger replace abandon uncle monkey roof battle";
+var mnemonic = "chase alone spice cry west century book canal bundle quiz inject transfer";

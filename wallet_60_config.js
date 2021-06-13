@@ -1,1 +1,1 @@
-var mnemonic = "laugh february garlic crawl victory check dwarf hub public violin notice yard";
+var mnemonic = "differ theme east coral chalk blouse dinosaur behave main produce solve hammer";

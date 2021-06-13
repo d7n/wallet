@@ -1,1 +1,1 @@
-var mnemonic = "auto custom couch grocery pulse orphan remain embrace cabbage outdoor winner now";
+var mnemonic = "inspire senior vague live home artwork oyster grape say divide unveil local";

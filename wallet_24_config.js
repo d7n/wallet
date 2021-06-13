@@ -1,1 +1,1 @@
-var mnemonic = "illegal view doctor kiss spike any across invite pink east produce cheap";
+var mnemonic = "tool invest hospital allow small diagram glide virus tooth current sample fantasy";

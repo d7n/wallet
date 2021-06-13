@@ -1,1 +1,1 @@
-var mnemonic = "wink pitch stool normal pride practice army symptom rocket animal actual flee";
+var mnemonic = "reason hockey movie cycle physical sunset unfair tag device flash lizard energy";

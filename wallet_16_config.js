@@ -1,1 +1,1 @@
-var mnemonic = "diesel wing camera fun shaft neck broccoli traffic collect celery yard rent";
+var mnemonic = "trouble boring bundle outer blood school arrive turtle because series come arm";

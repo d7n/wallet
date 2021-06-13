@@ -1,1 +1,1 @@
-var mnemonic = "uniform casino gorilla either limit pluck fee diesel waste adapt curve hidden";
+var mnemonic = "network weapon because steel tackle bar flame vague salmon local amount believe";

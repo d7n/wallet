@@ -1,1 +1,1 @@
-var mnemonic = "fun run drum return female second embody seminar kit surge kitchen employ";
+var mnemonic = "inhale again regular damp asthma warrior custom pitch letter vendor token meat";

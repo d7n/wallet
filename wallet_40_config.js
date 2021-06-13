@@ -1,1 +1,1 @@
-var mnemonic = "chase someone critic garbage black regret razor describe comfort cost obvious garage";
+var mnemonic = "clerk letter major universe wash wife front guard truck poet grocery regular";

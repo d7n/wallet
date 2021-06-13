@@ -1,1 +1,1 @@
-var mnemonic = "ski over trick spot zero glide slender wasp gather illegal turtle sea";
+var mnemonic = "echo female spin country used clever quarter item force believe dress bundle";

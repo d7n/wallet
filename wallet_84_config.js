@@ -1,1 +1,1 @@
-var mnemonic = "turtle off mix silk claw rubber word valley rebuild saddle depart mother";
+var mnemonic = "approve ostrich strong cave acoustic invite poem ahead ladder involve bulb ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "game dress pole foam alien episode flash test aware random ask earth";
+var mnemonic = "sense property lazy detail badge river stay pitch decrease box silver view";

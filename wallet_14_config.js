@@ -1,1 +1,1 @@
-var mnemonic = "flip force panic lawn fancy radar cruel stool myth orphan addict few";
+var mnemonic = "write diagram absorb short walk stone curious speed exhaust bird extend nephew";

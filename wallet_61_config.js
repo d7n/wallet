@@ -1,1 +1,1 @@
-var mnemonic = "throw pilot knee degree mail pulse wealth slot badge erosion debris key";
+var mnemonic = "subject evoke lens party monkey kite rack prepare nerve vast leisure wash";

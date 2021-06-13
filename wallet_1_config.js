@@ -1,1 +1,1 @@
-var mnemonic = "witness erosion daring iron rare glow pause twist front gaze laugh vocal";
+var mnemonic = "suit nephew defense secret chuckle wonder mind begin soul swallow depend brush";

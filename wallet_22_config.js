@@ -1,1 +1,1 @@
-var mnemonic = "feel flame auction inquiry update judge cinnamon dune dove stand biology stem";
+var mnemonic = "resemble relief trigger sign erode comfort breeze regret ankle dove seven casino";

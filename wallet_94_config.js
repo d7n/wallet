@@ -1,1 +1,1 @@
-var mnemonic = "grid super give twenty divorce grunt protect athlete relief bamboo rude cigar";
+var mnemonic = "empower reform sheriff sport pulp supply allow mom pattern visit govern topple";

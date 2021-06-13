@@ -1,1 +1,1 @@
-var mnemonic = "blade safe just upon pipe guide spatial hammer stick orange risk fatigue";
+var mnemonic = "swing borrow web road broom excess refuse snack issue month visa math";

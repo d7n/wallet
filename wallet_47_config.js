@@ -1,1 +1,1 @@
-var mnemonic = "hen car special piano luggage warfare social sentence neck banner omit exile";
+var mnemonic = "enact rocket address medal business invest hub antenna coconut plug gasp dove";
