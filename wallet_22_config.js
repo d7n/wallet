@@ -1,1 +1,1 @@
-var mnemonic = "swallow train treat boss own bleak chronic end giraffe space when chef";
+var mnemonic = "worry opinion champion burden steel orchard hurt decide second seat month despair";

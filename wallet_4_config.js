@@ -1,1 +1,1 @@
-var mnemonic = "drift pink people truck fitness join trick welcome else magic mystery aim";
+var mnemonic = "ensure nation clog midnight volcano celery soup replace husband stone stomach about";

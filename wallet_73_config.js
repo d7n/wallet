@@ -1,1 +1,1 @@
-var mnemonic = "gas immune stove thunder bleak brother remove earn guilt change process usage";
+var mnemonic = "maximum hurdle scout entry run dragon project frog boat movie cherry village";

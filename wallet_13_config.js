@@ -1,1 +1,1 @@
-var mnemonic = "spring glare tuna young trophy mom crucial employ legend loyal lottery ritual";
+var mnemonic = "visit poet lunch escape inner broccoli envelope slide acoustic blind car demise";

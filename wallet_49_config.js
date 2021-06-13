@@ -1,1 +1,1 @@
-var mnemonic = "unknown garment uniform west simple salute joke lesson tape draw caught then";
+var mnemonic = "episode shine exclude network bleak explain stool bind crash arrow sad miracle";

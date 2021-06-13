@@ -1,1 +1,1 @@
-var mnemonic = "theory ball tent pluck idea nephew sudden wire shallow series warfare idea";
+var mnemonic = "demand near member kit useful crop runway film mother detail powder black";

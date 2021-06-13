@@ -1,1 +1,1 @@
-var mnemonic = "mixed assault mobile usage monkey employ announce liquid truth behave link dial";
+var mnemonic = "cup figure kidney salon subway learn someone cabin moral basket response base";

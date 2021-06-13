@@ -1,1 +1,1 @@
-var mnemonic = "uniform fold crystal curve galaxy mushroom surface bamboo survey fall trust pond";
+var mnemonic = "afford language wink cover bless write cat private valid begin worth main";

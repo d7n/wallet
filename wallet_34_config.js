@@ -1,1 +1,1 @@
-var mnemonic = "mammal multiply radio muscle ghost stairs afford oyster together disorder bleak easily";
+var mnemonic = "keen upon win shock bronze hello hair bachelor crouch room note bid";

@@ -1,1 +1,1 @@
-var mnemonic = "earn slot build other antique lonely advance visa welcome body rib hill";
+var mnemonic = "few fringe trick street this nose butter tree pig logic topple range";

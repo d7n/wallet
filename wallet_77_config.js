@@ -1,1 +1,1 @@
-var mnemonic = "hurdle clutch medal ostrich notice walk plug bleak disagree unveil social crunch";
+var mnemonic = "shock draft peanut correct route protect maid permit toward fire cross remind";

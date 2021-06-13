@@ -1,1 +1,1 @@
-var mnemonic = "business vast together exhaust until quick display unlock repeat surface violin pyramid";
+var mnemonic = "habit broccoli surprise merit twelve impact bring arm have scorpion rapid monster";

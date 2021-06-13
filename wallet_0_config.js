@@ -1,1 +1,1 @@
-var mnemonic = "kitten conduct casual outside tiny valve harsh acid manual various ceiling during";
+var mnemonic = "clay popular merry flock empty token borrow album slush tourist fortune stem";

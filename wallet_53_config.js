@@ -1,1 +1,1 @@
-var mnemonic = "plate arctic erosion cash syrup trim impulse orphan little asset hope clutch";
+var mnemonic = "yellow elite leisure thank match cinnamon stamp spot still finish tackle caution";

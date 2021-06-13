@@ -1,1 +1,1 @@
-var mnemonic = "someone gallery since nest palace patch garbage ugly park rain bachelor nut";
+var mnemonic = "mix little recall odor twin team fabric picture luggage title because lamp";

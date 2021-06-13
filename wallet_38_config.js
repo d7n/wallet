@@ -1,1 +1,1 @@
-var mnemonic = "where high law thank clutch seat grocery where pigeon crime bomb atom";
+var mnemonic = "trophy eagle swim alert then typical connect attitude upgrade glare lunar cake";

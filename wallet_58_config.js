@@ -1,1 +1,1 @@
-var mnemonic = "prison shop decade during limit plastic relax leopard floor insect address year";
+var mnemonic = "sail crack asset daring wash crunch marine rebel broom tortoise degree express";

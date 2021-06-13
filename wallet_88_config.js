@@ -1,1 +1,1 @@
-var mnemonic = "busy gaze clean demise slab unique tenant soup normal jump cave library";
+var mnemonic = "ride armor edit chronic leader floor toy garment alone auto attack fortune";

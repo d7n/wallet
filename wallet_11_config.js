@@ -1,1 +1,1 @@
-var mnemonic = "swear crowd toast repair unlock slice shoulder liquid crack oven glimpse supply";
+var mnemonic = "alone angle flag parrot change surface champion hello prize alpha borrow idea";

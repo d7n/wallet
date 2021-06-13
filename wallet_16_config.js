@@ -1,1 +1,1 @@
-var mnemonic = "deposit economy still peanut return camp volcano adult wedding build spend hurry";
+var mnemonic = "protect obtain put tired bike unaware assist loyal treat retire almost dirt";

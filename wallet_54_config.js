@@ -1,1 +1,1 @@
-var mnemonic = "junk kid consider friend exit logic regret mad salon scrub wing flip";
+var mnemonic = "easily cinnamon design foster uphold december length keen rubber manage property game";

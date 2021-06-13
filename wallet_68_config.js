@@ -1,1 +1,1 @@
-var mnemonic = "absurd please bubble grass gallery caught come work unknown sort two more";
+var mnemonic = "foil learn funny embody trend proof smooth give thank junk tent dress";

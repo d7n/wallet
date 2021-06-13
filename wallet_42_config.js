@@ -1,1 +1,1 @@
-var mnemonic = "mosquito salt head isolate thunder final celery access live rough cook used";
+var mnemonic = "latin maid click stick ribbon panic ostrich mirror cousin galaxy inhale push";

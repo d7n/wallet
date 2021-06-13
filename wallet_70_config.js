@@ -1,1 +1,1 @@
-var mnemonic = "guilt evolve liar visa snack tongue cloud feature middle resemble second cushion";
+var mnemonic = "girl foster brush flavor column inch ill crush impose size rule observe";

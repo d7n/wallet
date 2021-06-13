@@ -1,1 +1,1 @@
-var mnemonic = "noodle asthma spy before mail wash dumb want promote effort include hen";
+var mnemonic = "dinner kick clerk balcony hockey nation jeans deposit draft odor afraid produce";

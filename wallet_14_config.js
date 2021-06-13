@@ -1,1 +1,1 @@
-var mnemonic = "athlete frost unlock chef target ecology retreat error elite town merry supply";
+var mnemonic = "void civil theory divorce chicken afford march world father acid current inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "stage window ceiling shrimp reveal term floor story sword park gesture announce";
+var mnemonic = "top vehicle black travel beauty dose bamboo nothing february over gauge october";

@@ -1,1 +1,1 @@
-var mnemonic = "coral culture wait pumpkin keep broccoli endorse daughter receive mother emotion rally";
+var mnemonic = "march onion only similar act found caught dish dance monkey fiber circle";

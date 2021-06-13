@@ -1,1 +1,1 @@
-var mnemonic = "orphan soda bullet tomato cushion knife upset bottom gloom ecology devote lawsuit";
+var mnemonic = "begin soft inform accuse language ladder tomato such palace pink piece they";

@@ -1,1 +1,1 @@
-var mnemonic = "document knock vault capable cash unfair orbit buddy type inquiry close render";
+var mnemonic = "swim festival truly become clutch enforce glow crew multiply monitor dutch gate";

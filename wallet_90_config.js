@@ -1,1 +1,1 @@
-var mnemonic = "guitar blush viable spring short bring autumn lamp drip dial accuse advance";
+var mnemonic = "beach cool spoil help capable venture candy found convince wave shed put";

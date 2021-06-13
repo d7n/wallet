@@ -1,1 +1,1 @@
-var mnemonic = "option turtle will beyond talent escape ginger index drum advance kitten baby";
+var mnemonic = "cabbage light flight will live clown lamp gold nurse neglect tribe vague";

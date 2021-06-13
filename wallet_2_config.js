@@ -1,1 +1,1 @@
-var mnemonic = "situate prevent lemon snack admit produce smart goose inject wonder decorate soft";
+var mnemonic = "october stumble reason render carry spatial problem property mistake excite strong example";

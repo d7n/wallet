@@ -1,1 +1,1 @@
-var mnemonic = "disease outer number ramp enable meat few nation bamboo buyer end auto";
+var mnemonic = "dwarf young pink wheat west expire again mandate damp mention before pilot";

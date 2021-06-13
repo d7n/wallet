@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo magic palm camp pretty page accident science city choose romance ecology";
+var mnemonic = "very possible glance unit emerge lesson boss manual demise pupil evolve olive";

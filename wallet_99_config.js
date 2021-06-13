@@ -1,1 +1,1 @@
-var mnemonic = "resemble social hundred elevator color balcony crouch joke idea aisle strategy subway";
+var mnemonic = "finish final exchange twist company domain pilot issue coast movie duck entire";

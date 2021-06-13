@@ -1,1 +1,1 @@
-var mnemonic = "common garden supreme permit square sound torch orange work bread web mesh";
+var mnemonic = "cook laundry zone top feel oval quick unveil crash maple baby coral";

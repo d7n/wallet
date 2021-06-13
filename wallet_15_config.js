@@ -1,1 +1,1 @@
-var mnemonic = "absurd year wink wrap dumb patch benefit coffee tribe napkin three chaos";
+var mnemonic = "either audit lemon lion visual load bullet sugar coconut confirm shallow ask";

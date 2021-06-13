@@ -1,1 +1,1 @@
-var mnemonic = "hover deer tomorrow trumpet pair citizen sibling hold polar donor language popular";
+var mnemonic = "wisdom erase ahead neither attract athlete night about term two crime valid";

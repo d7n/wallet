@@ -1,1 +1,1 @@
-var mnemonic = "dust sock bitter churn write monster rely age excuse blur scrub clinic";
+var mnemonic = "card exclude impact blind then cloth sample small page frost radar blush";

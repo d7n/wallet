@@ -1,1 +1,1 @@
-var mnemonic = "illegal word endless memory cherry report erosion steak body alert initial coil";
+var mnemonic = "fragile stomach cannon bright toast seat shoulder park kit engine stumble quiz";

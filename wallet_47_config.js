@@ -1,1 +1,1 @@
-var mnemonic = "hurdle cable recall solar bless size evoke dice tray twist waste lonely";
+var mnemonic = "churn taxi eagle fame mistake excite sauce utility dose acid achieve expose";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder emotion dumb valid domain skate body scissors base teach speak pitch";
+var mnemonic = "soul trial input alarm sea inspire assist school witness piano skin grant";

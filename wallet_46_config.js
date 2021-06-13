@@ -1,1 +1,1 @@
-var mnemonic = "empty urban ketchup prosper gentle artwork blame cousin fiber tide gather fun";
+var mnemonic = "future pigeon oppose maximum marble short woman mystery disorder shuffle shy banner";

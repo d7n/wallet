@@ -1,1 +1,1 @@
-var mnemonic = "weird dust matrix wealth elevator plastic certain throw puzzle loan sugar burst";
+var mnemonic = "dad hard win urban shuffle reopen abandon match clean photo coconut artefact";

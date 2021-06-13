@@ -1,1 +1,1 @@
-var mnemonic = "remind snap thought height avocado strong antique turn picture oppose trophy receive";
+var mnemonic = "east cart detail aunt salmon entire balance gravity clip iron tube brain";

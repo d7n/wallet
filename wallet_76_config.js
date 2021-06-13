@@ -1,1 +1,1 @@
-var mnemonic = "arctic banner fork decrease stomach clay twelve mansion front pledge surface surround";
+var mnemonic = "right relax panic know banner morning also can live captain rent curious";

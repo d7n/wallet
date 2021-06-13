@@ -1,1 +1,1 @@
-var mnemonic = "curtain tide under spare discover off umbrella wink gym key edit praise";
+var mnemonic = "slender vast clay essay chief nerve logic tiny note cricket paddle paper";

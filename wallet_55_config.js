@@ -1,1 +1,1 @@
-var mnemonic = "game talent cruise version oil save remain loop assist celery pair where";
+var mnemonic = "jealous have dinosaur desert depart neither champion seven sound transfer outside predict";

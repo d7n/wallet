@@ -1,1 +1,1 @@
-var mnemonic = "gather chalk denial table mushroom stage immune poverty shield drip lend invite";
+var mnemonic = "afraid actor best woman require minimum mountain unit indoor orange omit flight";

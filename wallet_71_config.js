@@ -1,1 +1,1 @@
-var mnemonic = "exhaust cook enact fish quick leaf taxi hurry fault captain soup tiny";
+var mnemonic = "ill avocado people sister indicate car jazz favorite keep network damage minor";

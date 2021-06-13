@@ -1,1 +1,1 @@
-var mnemonic = "leopard palace pulse quick crawl engage myth ice cherry giraffe awful asset";
+var mnemonic = "coin mask oyster bus teach fiber toilet pond depend wait forum wisdom";

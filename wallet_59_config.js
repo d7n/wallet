@@ -1,1 +1,1 @@
-var mnemonic = "maximum reward sign hill clay convince hope super height loyal chair pencil";
+var mnemonic = "size undo ahead sad zoo measure escape sweet fatigue glass shrug practice";

@@ -1,1 +1,1 @@
-var mnemonic = "mix produce region artist amount noodle produce deliver defense bargain fat device";
+var mnemonic = "enact meadow exist exhaust various ride solar pulp idle knock hazard average";

@@ -1,1 +1,1 @@
-var mnemonic = "step fantasy giggle mobile favorite host tree bonus bird spy inch tuna";
+var mnemonic = "excess buffalo real check process juice carbon snow ahead enable venture toe";

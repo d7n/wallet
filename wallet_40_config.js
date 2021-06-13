@@ -1,1 +1,1 @@
-var mnemonic = "swim absurd candy deny shine village borrow kitten member almost give consider";
+var mnemonic = "labor mystery usual warrior dwarf inch kitchen two success box swift puppy";

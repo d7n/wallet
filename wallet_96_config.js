@@ -1,1 +1,1 @@
-var mnemonic = "spray source sort prize father remain size thunder symbol level cute manage";
+var mnemonic = "exhibit maximum rough hunt when square woman wink pave quarter table marriage";

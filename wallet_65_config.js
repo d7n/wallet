@@ -1,1 +1,1 @@
-var mnemonic = "donkey diamond payment shadow powder any client voice mass goose law jacket";
+var mnemonic = "body chief pretty depend health have blossom split employ crime imitate ship";

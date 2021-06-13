@@ -1,1 +1,1 @@
-var mnemonic = "gospel copper blade arrange brother tag moon damp sauce where sauce child";
+var mnemonic = "load vague holiday better scheme welcome minor chimney manage above illness private";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic that giant split bus pluck donor top solve upper gym afraid";
+var mnemonic = "layer mask know dress explain apology tuna eyebrow man require combine seek";

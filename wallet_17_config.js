@@ -1,1 +1,1 @@
-var mnemonic = "three entry setup admit surprise warrior fancy neck elegant grocery supply confirm";
+var mnemonic = "rally argue power describe stumble romance click will miracle planet surprise bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow echo library orphan paddle sing piano theory worry fuel photo second";
+var mnemonic = "noodle snack quiz melt snake veteran essence share dune mountain drop action";

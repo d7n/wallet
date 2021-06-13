@@ -1,1 +1,1 @@
-var mnemonic = "already obscure subject slow fix fix repair sport such leisure walk art";
+var mnemonic = "you raise firm fabric scrap brass smoke evoke change winner soon narrow";

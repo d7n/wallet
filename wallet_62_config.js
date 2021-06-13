@@ -1,1 +1,1 @@
-var mnemonic = "hockey globe jacket into assume misery current canyon love ripple achieve dust";
+var mnemonic = "gauge flip genuine volcano hamster typical hockey ripple head clever energy survey";

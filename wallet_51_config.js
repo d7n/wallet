@@ -1,1 +1,1 @@
-var mnemonic = "demise twelve grid derive dress under urge lift green gadget amount organ";
+var mnemonic = "image word movie mind pulp enable collect define enlist turn odor wisdom";

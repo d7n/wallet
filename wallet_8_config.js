@@ -1,1 +1,1 @@
-var mnemonic = "suggest hair virus grief enroll render two bird business bounce liar soccer";
+var mnemonic = "spell game field cloth manual weather stone omit pull kick flat army";

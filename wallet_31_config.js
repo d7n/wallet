@@ -1,1 +1,1 @@
-var mnemonic = "swear happy announce clarify arctic hero velvet eager valley license mass consider";
+var mnemonic = "dirt lucky fit scene clown sell square kiss sudden coffee ostrich aware";

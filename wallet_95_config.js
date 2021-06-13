@@ -1,1 +1,1 @@
-var mnemonic = "another possible wrestle awesome response elite gospel mammal build pave expose soda";
+var mnemonic = "allow rescue velvet give win donate gym angry soda maid regret army";

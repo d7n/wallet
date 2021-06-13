@@ -1,1 +1,1 @@
-var mnemonic = "wall detail neck fade farm concert evidence outer proud doctor model aim";
+var mnemonic = "practice vague opinion plastic carbon business loop peanut assist expose plug home";

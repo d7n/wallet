@@ -1,1 +1,1 @@
-var mnemonic = "reject elegant broken south tissue fold add canvas faculty milk barrel december";
+var mnemonic = "bomb delay shift plunge adult yard suspect gadget garbage nature secret veteran";

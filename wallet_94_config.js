@@ -1,1 +1,1 @@
-var mnemonic = "lizard pudding goddess speed hour sell start rule easy canoe loan weather";
+var mnemonic = "rack zebra crystal ship goat ring tiny space announce raven country unveil";

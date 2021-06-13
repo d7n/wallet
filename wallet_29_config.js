@@ -1,1 +1,1 @@
-var mnemonic = "wood artist basket bread mention absent bamboo often rule exercise excuse blanket";
+var mnemonic = "front hire audit swap flee help other lonely inside skill vessel indicate";

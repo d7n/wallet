@@ -1,1 +1,1 @@
-var mnemonic = "abuse wet hockey awkward issue excess call motion kidney still stable cannon";
+var mnemonic = "devote dwarf pool inquiry float govern dawn genre tail humble put canoe";

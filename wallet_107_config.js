@@ -1,1 +1,1 @@
-var mnemonic = "swamp spot write odor smoke shuffle arctic project motor oyster very print";
+var mnemonic = "hockey amused fashion sudden dinosaur stable scheme network cement ready breeze napkin";

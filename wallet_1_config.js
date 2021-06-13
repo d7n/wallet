@@ -1,1 +1,1 @@
-var mnemonic = "citizen vacuum learn arrive kangaroo bird green birth electric aspect donate barely";
+var mnemonic = "portion possible angry syrup awful auction normal stick token mail juice rotate";

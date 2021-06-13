@@ -1,1 +1,1 @@
-var mnemonic = "virus easy accuse observe game also outer puzzle layer large phrase trust";
+var mnemonic = "produce brave profit spawn fame initial better tiny private ensure tooth panel";

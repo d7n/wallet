@@ -1,1 +1,1 @@
-var mnemonic = "track crane toilet emerge wheat path way battle warrior six siren chief";
+var mnemonic = "patch panda scatter jump discover pill trip hill warm social obvious slender";

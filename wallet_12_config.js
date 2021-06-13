@@ -1,1 +1,1 @@
-var mnemonic = "huge undo runway beef describe crime enemy raw cabin blanket inmate staff";
+var mnemonic = "error million tongue join gossip carbon adjust fat park flip robot bullet";

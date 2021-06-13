@@ -1,1 +1,1 @@
-var mnemonic = "mango man term round surface ask notice extend pair job casino actress";
+var mnemonic = "budget upset radio tonight ceiling picture artefact radar void fish beach riot";

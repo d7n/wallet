@@ -1,1 +1,1 @@
-var mnemonic = "announce clean engage lift ghost radio video note pull theory illness neglect";
+var mnemonic = "used canal hello entire decade chimney ostrich spoon exist share federal thumb";

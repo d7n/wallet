@@ -1,1 +1,1 @@
-var mnemonic = "possible bean neck toward prevent ceiling invest venture brother divert wedding west";
+var mnemonic = "notice rigid bonus track harvest work swallow hold hand gaze novel street";

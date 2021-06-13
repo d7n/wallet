@@ -1,1 +1,1 @@
-var mnemonic = "note pole dentist empty sword bachelor offer expect puzzle badge word vehicle";
+var mnemonic = "extra hamster link artwork rapid lottery angry race muffin elevator coin bracket";

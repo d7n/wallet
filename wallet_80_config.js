@@ -1,1 +1,1 @@
-var mnemonic = "hollow portion vendor virus oyster improve theme alter pole account morning brand";
+var mnemonic = "evoke dynamic country meadow casual clinic limit they occur audit afraid bean";

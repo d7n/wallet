@@ -1,1 +1,1 @@
-var mnemonic = "emerge nerve half bitter loyal scrap call cream conduct velvet silk gravity";
+var mnemonic = "top index seat car raise control blast rhythm slight crowd decline census";

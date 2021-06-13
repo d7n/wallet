@@ -1,1 +1,1 @@
-var mnemonic = "enough limit rough injury moment pottery super permit spread wife pact inflict";
+var mnemonic = "script always wet ginger despair valve shine account weapon invest soldier indoor";

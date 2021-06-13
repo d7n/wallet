@@ -1,1 +1,1 @@
-var mnemonic = "dance flight donate pulp regular inquiry indicate season office all tree great";
+var mnemonic = "easy return option stumble release play crime reveal farm reveal flame salute";

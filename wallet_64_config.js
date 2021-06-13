@@ -1,1 +1,1 @@
-var mnemonic = "brisk salt derive essence nut eye nurse relax save link author bitter";
+var mnemonic = "satisfy theme extra true hover system sort relief island maple egg enter";

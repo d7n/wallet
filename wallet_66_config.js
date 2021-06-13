@@ -1,1 +1,1 @@
-var mnemonic = "crush pig fat dial intact sing pave rotate breeze butter project this";
+var mnemonic = "curious love bicycle general lumber visa case alert dumb trust you when";

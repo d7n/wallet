@@ -1,1 +1,1 @@
-var mnemonic = "grace pledge canoe toast child science dice apple wait toss evil secret";
+var mnemonic = "future sheriff hello change add secret erode recycle wise act cinnamon isolate";
