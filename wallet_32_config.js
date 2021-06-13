@@ -1,1 +1,1 @@
-var mnemonic = "warfare glory lend amount hammer ripple surround glide pride air toy wage";
+var mnemonic = "finish crime ritual woman connect mushroom concert flush father direct play train";

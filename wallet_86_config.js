@@ -1,1 +1,1 @@
-var mnemonic = "spice pulse worry build nature remind marine hurdle earn gaze thunder task";
+var mnemonic = "expose home cactus organ sentence finger load voice prepare mansion chimney sea";

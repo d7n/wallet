@@ -1,1 +1,1 @@
-var mnemonic = "piece health bonus whip tell nation suit credit grace control surround armor";
+var mnemonic = "meat canal solar insane witness swing receive horn track purpose quantum custom";

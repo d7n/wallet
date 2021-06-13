@@ -1,1 +1,1 @@
-var mnemonic = "upon puppy ten giant defense very manage panic spare almost path rifle";
+var mnemonic = "arena this naive dash seat biology horse duty must accuse ginger kite";

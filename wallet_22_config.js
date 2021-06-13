@@ -1,1 +1,1 @@
-var mnemonic = "friend mistake raw desert sleep appear saddle promote height unit empower visa";
+var mnemonic = "sad client mother decrease news menu island close practice dash spice then";

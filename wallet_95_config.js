@@ -1,1 +1,1 @@
-var mnemonic = "attack proof word start noise other spray crane liar hold cycle scan";
+var mnemonic = "steak file lobster maid valve unit surround news tackle pony pizza volcano";

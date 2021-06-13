@@ -1,1 +1,1 @@
-var mnemonic = "sting display nest ankle leader coast code absorb when option maple acquire";
+var mnemonic = "reason injury elephant exact worry title glance surface advance answer soup dance";

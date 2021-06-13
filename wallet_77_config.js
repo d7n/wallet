@@ -1,1 +1,1 @@
-var mnemonic = "monkey faculty hotel escape buyer stable absorb shock strong captain stereo mail";
+var mnemonic = "angle neutral board ankle achieve subway fury scissors six liquid empty crowd";

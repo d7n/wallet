@@ -1,1 +1,1 @@
-var mnemonic = "claim ginger forward foam next result much balcony barely volume mistake buddy";
+var mnemonic = "pretty bulb trumpet frog scorpion industry plunge victory bench genuine law draft";

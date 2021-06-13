@@ -1,1 +1,1 @@
-var mnemonic = "lend bread market meat grace creek cover gesture dirt anchor length walk";
+var mnemonic = "regret segment spirit march lady rich wet surface fun execute ribbon again";

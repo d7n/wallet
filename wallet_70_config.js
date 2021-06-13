@@ -1,1 +1,1 @@
-var mnemonic = "response tortoise finger artwork vintage uncover blood sort aisle logic pudding october";
+var mnemonic = "avoid soul copy future surface wear salon mad identify often danger chronic";

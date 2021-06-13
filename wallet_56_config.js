@@ -1,1 +1,1 @@
-var mnemonic = "build obey wink school skate collect control height quick milk media main";
+var mnemonic = "game cushion document draft skirt solution plate clean remove vanish grocery cash";

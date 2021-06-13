@@ -1,1 +1,1 @@
-var mnemonic = "blind dirt pulp auction alcohol curtain surface stomach horse example share athlete";
+var mnemonic = "prefer jelly capital angle tent motion injury robust recall siren ozone congress";

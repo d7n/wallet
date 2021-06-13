@@ -1,1 +1,1 @@
-var mnemonic = "middle crystal genuine suffer pass parent clay oak problem roof wire brand";
+var mnemonic = "zero insect middle benefit upgrade vicious hen prosper lyrics suspect used nature";

@@ -1,1 +1,1 @@
-var mnemonic = "update warm beyond tape green piece kite polar reject feature wisdom reveal";
+var mnemonic = "such guess chief clay venue verify night noodle answer mandate organ shy";

@@ -1,1 +1,1 @@
-var mnemonic = "fox pond cement barrel stage ice panda attend walk despair depth waste";
+var mnemonic = "grid rural silent achieve toward divide exclude never away fringe pig delay";

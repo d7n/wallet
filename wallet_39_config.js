@@ -1,1 +1,1 @@
-var mnemonic = "toilet apple hungry verb render minor enact donor mouse clerk gesture unfair";
+var mnemonic = "trim awake idea few win income use combine occur royal type area";

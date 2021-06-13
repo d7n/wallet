@@ -1,1 +1,1 @@
-var mnemonic = "silk bless increase hawk hire dish owner concert winner outer slim grass";
+var mnemonic = "once arrow strategy fly impose seat dune lamp machine nuclear canvas athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "crack divert derive puppy pond saddle luxury frown swap island dinner barrel";
+var mnemonic = "age venue huge tell drastic indoor cry motion spring parrot raccoon leisure";

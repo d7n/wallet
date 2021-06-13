@@ -1,1 +1,1 @@
-var mnemonic = "soon identify slush struggle lobster super noodle tiny horn annual shine escape";
+var mnemonic = "tragic rack robot boost supply lawn spring medal slow baby desk produce";

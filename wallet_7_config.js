@@ -1,1 +1,1 @@
-var mnemonic = "antique mixture party isolate range enhance fragile liberty notice theory intact gun";
+var mnemonic = "grid inner mean stove piano awesome limit man business problem swarm destroy";

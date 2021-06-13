@@ -1,1 +1,1 @@
-var mnemonic = "snake put click blossom future they glow coin tag holiday twenty calm";
+var mnemonic = "ordinary pioneer copper beach forest battle divorce nephew promote milk entire subway";

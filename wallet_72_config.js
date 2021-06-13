@@ -1,1 +1,1 @@
-var mnemonic = "offer help outside engage celery before fly antenna harsh tube beauty disorder";
+var mnemonic = "note wet enter mouse brisk despair girl latin submit season capital original";

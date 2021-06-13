@@ -1,1 +1,1 @@
-var mnemonic = "observe measure display reward road sentence globe adjust harsh unhappy trumpet apart";
+var mnemonic = "text issue glory frame cause raven trophy rude flame cause scare name";

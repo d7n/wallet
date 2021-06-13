@@ -1,1 +1,1 @@
-var mnemonic = "tone until because enjoy box sentence story critic tuition monitor swim wheat";
+var mnemonic = "tobacco wave beyond borrow claw oblige casino over peace young amazing toddler";

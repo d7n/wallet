@@ -1,1 +1,1 @@
-var mnemonic = "usual impact mosquito hero noble dove budget believe gentle desk broom become";
+var mnemonic = "rely mix immense west camp guard attract drive worry agent spirit color";

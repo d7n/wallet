@@ -1,1 +1,1 @@
-var mnemonic = "broom curious imitate smile idea autumn divert visa wing razor stool city";
+var mnemonic = "work imitate notice need chase swamp obtain goose coyote coffee bus powder";

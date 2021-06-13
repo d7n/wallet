@@ -1,1 +1,1 @@
-var mnemonic = "city marble advice increase expect health weapon deny creek grid program pause";
+var mnemonic = "they lift flight train fashion assume kangaroo wild pave episode learn wreck";

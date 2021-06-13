@@ -1,1 +1,1 @@
-var mnemonic = "exit squirrel glass tongue nephew nasty liar pelican advance win front trade";
+var mnemonic = "bachelor cannon salute act erupt engine brain noble pupil surface grass spend";

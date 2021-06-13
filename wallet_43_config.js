@@ -1,1 +1,1 @@
-var mnemonic = "link ride copper drama term huge pulse forum divide canvas jewel manage";
+var mnemonic = "frog soccer final general science famous dinosaur ball wild ostrich weasel depart";

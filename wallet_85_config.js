@@ -1,1 +1,1 @@
-var mnemonic = "possible pave engage wasp impact consider rebuild false unfold come culture crater";
+var mnemonic = "sister cruel nurse dial obscure beach install charge loop rose room spread";

@@ -1,1 +1,1 @@
-var mnemonic = "smart sing choice school distance knife level stable bright length aspect slim";
+var mnemonic = "noise retreat once bridge lobster phrase diagram grant wash wheat mistake inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "dream strike drink sell cattle total tobacco science cute alien toast diagram";
+var mnemonic = "citizen close episode derive island father churn quit settle leopard scheme muscle";

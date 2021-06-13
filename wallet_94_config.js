@@ -1,1 +1,1 @@
-var mnemonic = "number harbor squeeze ill van become satoshi merry mutual right feed fruit";
+var mnemonic = "stuff blue enhance rural track penalty glove eyebrow shed jar ship subject";

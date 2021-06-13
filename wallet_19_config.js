@@ -1,1 +1,1 @@
-var mnemonic = "border struggle final such gym accuse develop elbow insect metal stove tragic";
+var mnemonic = "effort solid piece sock dose deal dumb cigar force tip armor waste";

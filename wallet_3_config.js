@@ -1,1 +1,1 @@
-var mnemonic = "wood nasty foster hurt antenna dirt candy retire accident submit devote belt";
+var mnemonic = "memory elegant choose major meat strategy abstract nice kit pig history possible";

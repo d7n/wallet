@@ -1,1 +1,1 @@
-var mnemonic = "avocado involve bicycle trick trade upper ketchup together vessel squirrel idea humor";
+var mnemonic = "guess raw return depth onion present direct flat element left pepper intact";

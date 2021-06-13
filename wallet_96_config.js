@@ -1,1 +1,1 @@
-var mnemonic = "novel pull sausage dragon pretty clock cousin weapon label click galaxy enough";
+var mnemonic = "canyon sword join van comfort eight medal client identify journey guitar auto";

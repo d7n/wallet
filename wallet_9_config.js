@@ -1,1 +1,1 @@
-var mnemonic = "off scan guitar hunt animal dignity hood entire target swing calm monster";
+var mnemonic = "lend nest eager shine segment cook spell silver shove process leaf visit";

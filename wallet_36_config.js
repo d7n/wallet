@@ -1,1 +1,1 @@
-var mnemonic = "shuffle fly vanish evidence spray lemon job genre true struggle enemy predict";
+var mnemonic = "thrive note shiver silver truth mass airport damp cactus crawl fetch transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "situate actor dilemma bridge grid vocal blame sea grocery tomato uncle input";
+var mnemonic = "priority sign absorb toe fiber quarter same guilt mail repeat luxury gown";

@@ -1,1 +1,1 @@
-var mnemonic = "salute deputy phone silver property valley correct easy pistol risk awful stove";
+var mnemonic = "erase term style rescue target field mutual design daring order grunt notice";

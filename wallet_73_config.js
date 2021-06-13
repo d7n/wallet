@@ -1,1 +1,1 @@
-var mnemonic = "submit sketch modify verify shoulder suffer royal reveal office miracle happy wife";
+var mnemonic = "venue critic recycle health uncle zero rifle special wood net matrix remove";

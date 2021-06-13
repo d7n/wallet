@@ -1,1 +1,1 @@
-var mnemonic = "flame laugh true leave grocery top truly urge month cereal sick empty";
+var mnemonic = "poverty scorpion common museum usage critic describe hockey force delay poverty jelly";

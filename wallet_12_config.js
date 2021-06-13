@@ -1,1 +1,1 @@
-var mnemonic = "essence dolphin run library design guide tell melt pitch chest found pass";
+var mnemonic = "club brother brief truly figure topple manage giggle resource raise spatial scan";

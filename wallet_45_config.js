@@ -1,1 +1,1 @@
-var mnemonic = "grocery pyramid drift roof slogan ribbon dentist absent flag airport choice hard";
+var mnemonic = "daring rifle bracket manual leopard baby blue scheme find misery board mouse";

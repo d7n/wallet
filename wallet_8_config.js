@@ -1,1 +1,1 @@
-var mnemonic = "wood craft proof soon impact snow minimum voyage exist dawn alcohol gaze";
+var mnemonic = "decide faculty afford patient put track detail butter gather album gloom rice";

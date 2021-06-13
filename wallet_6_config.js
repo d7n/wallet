@@ -1,1 +1,1 @@
-var mnemonic = "method leopard story venue alcohol regular diagram tree token foster inflict hungry";
+var mnemonic = "kitten enemy limb problem bulk upgrade demise satisfy shiver farm label grace";

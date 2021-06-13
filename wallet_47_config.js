@@ -1,1 +1,1 @@
-var mnemonic = "panic spice awake spare law member glad lucky cart spare record genuine";
+var mnemonic = "desk sail riot city letter rebel uncle filter evoke daring inspire repair";

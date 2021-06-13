@@ -1,1 +1,1 @@
-var mnemonic = "pelican naive stumble reveal auction must sample salon earth upon chapter draw";
+var mnemonic = "option ocean drastic maze plug crawl very window easily way unaware awesome";

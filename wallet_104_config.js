@@ -1,1 +1,1 @@
-var mnemonic = "know glass carpet sunset crop mom bunker chair slice oppose cargo practice";
+var mnemonic = "stage then cannon health verb observe moment control nut tomato equal vintage";

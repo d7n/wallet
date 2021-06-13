@@ -1,1 +1,1 @@
-var mnemonic = "wide between chunk episode basic bag problem rug demand deliver rough firm";
+var mnemonic = "gesture become drift noise black congress laptop hurt filter toe stem tip";

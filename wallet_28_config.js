@@ -1,1 +1,1 @@
-var mnemonic = "govern broccoli disagree sunset exist wood member short forward juice pond hire";
+var mnemonic = "offer friend fall fly reflect dilemma enroll glare replace final midnight owner";

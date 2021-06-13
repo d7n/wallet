@@ -1,1 +1,1 @@
-var mnemonic = "gloom become text write add resemble program title mobile goat jar apple";
+var mnemonic = "expect veteran shoe sadness connect meadow ribbon bar risk settle eight mixed";

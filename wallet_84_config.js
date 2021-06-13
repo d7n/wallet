@@ -1,1 +1,1 @@
-var mnemonic = "admit arrow card road olive autumn junior nurse light asthma left cluster";
+var mnemonic = "again nasty bus devote double three illness simple shell follow material idle";

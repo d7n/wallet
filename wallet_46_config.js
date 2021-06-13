@@ -1,1 +1,1 @@
-var mnemonic = "give echo brisk salt dice tuna guess desk emotion culture visa flip";
+var mnemonic = "rice direct hawk hundred bracket knee scorpion kitten special later rain margin";

@@ -1,1 +1,1 @@
-var mnemonic = "oven cereal cage hawk bounce top fit gate funny junk shoe wonder";
+var mnemonic = "section someone quote action mandate burger digital tongue position fall quick wash";

@@ -1,1 +1,1 @@
-var mnemonic = "someone process arm company embody hole detail smart exclude patch hold monitor";
+var mnemonic = "brother flush dinner wolf gauge practice various quit dumb relief fever eye";

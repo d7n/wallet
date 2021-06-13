@@ -1,1 +1,1 @@
-var mnemonic = "wrong evil auto comfort crack sunset swamp empower toss nominee divide explain";
+var mnemonic = "lobster surround crush foster brand deer excess tornado write melt supreme fury";

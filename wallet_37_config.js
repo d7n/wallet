@@ -1,1 +1,1 @@
-var mnemonic = "fame jaguar fashion immense fiber little world mix column cat cycle unable";
+var mnemonic = "lock excess actress rug soccer okay elite tree modify juice burst vocal";

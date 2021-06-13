@@ -1,1 +1,1 @@
-var mnemonic = "wreck plug predict upset wild rare task aware utility ocean rigid shuffle";
+var mnemonic = "master reflect play bring color arctic expand syrup local paper charge slogan";

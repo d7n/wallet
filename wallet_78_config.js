@@ -1,1 +1,1 @@
-var mnemonic = "subject peanut myth fall spring response smile person lock half try attitude";
+var mnemonic = "change squirrel field later ancient message length aunt attract border thank exile";

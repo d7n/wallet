@@ -1,1 +1,1 @@
-var mnemonic = "century side buyer enrich rude author lock arena recall clock dry neither";
+var mnemonic = "name bullet misery trick wise fee virus machine cargo habit jealous version";

@@ -1,1 +1,1 @@
-var mnemonic = "axis acid jacket city kitten depend paddle also celery essence embody three";
+var mnemonic = "blur settle wasp dynamic waste trim license into police term can quiz";

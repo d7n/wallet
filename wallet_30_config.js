@@ -1,1 +1,1 @@
-var mnemonic = "grape salon tunnel junior alien emotion leg wide element elbow hip donor";
+var mnemonic = "dismiss catch hat erupt arm peasant shrug idea broken window spray teach";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain force pony agree unlock actual ceiling glue intact merge wine post";
+var mnemonic = "dial seminar auction width consider veteran crack gown hand oyster dish thank";

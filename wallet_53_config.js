@@ -1,1 +1,1 @@
-var mnemonic = "round harvest broccoli giraffe cat must faculty scare window fatal sea move";
+var mnemonic = "also gesture wasp laptop shine animal carry pizza pull toe brand hip";

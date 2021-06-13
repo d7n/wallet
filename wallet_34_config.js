@@ -1,1 +1,1 @@
-var mnemonic = "width blush swarm eternal level rib ethics monster inherit organ lamp anger";
+var mnemonic = "orchard music roast kingdom young lion elevator apology egg liquid gravity custom";

@@ -1,1 +1,1 @@
-var mnemonic = "lava wire fluid danger early sister tilt bulk any flip soup cotton";
+var mnemonic = "double voice wool slim file drama nation jazz erupt enjoy memory banner";

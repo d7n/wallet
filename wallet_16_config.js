@@ -1,1 +1,1 @@
-var mnemonic = "sight day inherit bronze melt poem nice brush couple fly view flock";
+var mnemonic = "flag little opera kick tray raccoon fat expire harsh infant super glare";

@@ -1,1 +1,1 @@
-var mnemonic = "siren govern place staff flee proud liquid fringe sauce attend account abstract";
+var mnemonic = "coffee element inhale shop math smoke engage voice stadium wet believe tongue";

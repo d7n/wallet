@@ -1,1 +1,1 @@
-var mnemonic = "fantasy food promote predict response honey trick brief volume ridge accuse piano";
+var mnemonic = "clock enjoy control science spot swear total wage practice couch risk scatter";

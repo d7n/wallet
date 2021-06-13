@@ -1,1 +1,1 @@
-var mnemonic = "right first sad mushroom elephant there lounge fun atom scale dizzy gospel";
+var mnemonic = "early wire suggest innocent soap way tortoise car speak planet mechanic soda";

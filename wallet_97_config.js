@@ -1,1 +1,1 @@
-var mnemonic = "wife aim license fine fever sleep oak gadget alien trash win throw";
+var mnemonic = "glare force awake borrow alley spring piano record keen soft crawl guide";

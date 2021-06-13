@@ -1,1 +1,1 @@
-var mnemonic = "hat pole balance dose decide put object ivory axis soldier session crush";
+var mnemonic = "rain reject vocal shiver bargain conduct flavor sniff license garage orbit caught";

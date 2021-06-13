@@ -1,1 +1,1 @@
-var mnemonic = "feed tide walnut oxygen keep pretty scrap pride canvas person stem detail";
+var mnemonic = "mouse core leopard cat thought dress void lock gold total clock involve";

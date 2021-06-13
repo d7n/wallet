@@ -1,1 +1,1 @@
-var mnemonic = "side project easy orient nothing steak asthma paper vanish egg industry puppy";
+var mnemonic = "noodle acquire hover aunt genuine easily siren tired embody library blame daughter";

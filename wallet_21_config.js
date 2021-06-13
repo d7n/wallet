@@ -1,1 +1,1 @@
-var mnemonic = "bundle symbol coconut aspect guide fiber glow review visual van project barely";
+var mnemonic = "relief twice cook visual soda reject sample skin worth virtual blossom betray";

@@ -1,1 +1,1 @@
-var mnemonic = "submit gather genius afraid child neck bag tuition waste head inch annual";
+var mnemonic = "screen model imitate bulb vast impulse swing girl shaft shy sort tank";

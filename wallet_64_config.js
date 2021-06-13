@@ -1,1 +1,1 @@
-var mnemonic = "genius furnace receive awesome cave attract pipe code ill lyrics season travel";
+var mnemonic = "alone sun anchor tongue aware light afraid volcano hand impulse coin lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "label skin mystery defense close food undo tower target cabin ticket absent";
+var mnemonic = "public behind name bomb blanket fruit run faith either ridge agree siren";

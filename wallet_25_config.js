@@ -1,1 +1,1 @@
-var mnemonic = "lemon grow moral bicycle spray pet lawn bind motion onion scout ship";
+var mnemonic = "series enact joy pattern salon nominee shine obtain room shallow loop what";

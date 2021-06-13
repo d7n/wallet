@@ -1,1 +1,1 @@
-var mnemonic = "rack truly bubble security open slab eagle merit indicate blur monster evoke";
+var mnemonic = "confirm grab flock egg silent thumb fix figure medal chimney occur clown";

@@ -1,1 +1,1 @@
-var mnemonic = "team coin pilot flag wave cup length dawn ice forum artwork note";
+var mnemonic = "rhythm field eternal rude town catch clinic middle benefit anger engage crucial";

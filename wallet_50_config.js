@@ -1,1 +1,1 @@
-var mnemonic = "joy supply decrease program assault lobster globe stable census prison thank crime";
+var mnemonic = "evolve unaware tumble gain awake debris sport reopen please few deposit inquiry";

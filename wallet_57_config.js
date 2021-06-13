@@ -1,1 +1,1 @@
-var mnemonic = "palm vague tattoo circle angry much phrase crush silver pledge buffalo buzz";
+var mnemonic = "shallow acid finish surround nut shrimp afford door soldier happy kid city";

@@ -1,1 +1,1 @@
-var mnemonic = "bid help walk resource syrup sweet opinion ivory page ensure also height";
+var mnemonic = "eagle check cruel feature lunch hockey know lend resource denial witness remember";

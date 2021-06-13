@@ -1,1 +1,1 @@
-var mnemonic = "scan habit marine response people alter road talent version dinner win dial";
+var mnemonic = "promote earn artefact culture garden witness pencil accuse fame sample marble balcony";
