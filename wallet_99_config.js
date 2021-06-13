@@ -1,1 +1,1 @@
-var mnemonic = "toward chef donkey only border afraid surface lamp window rookie green bar";
+var mnemonic = "budget furnace spend ramp fork grief creek sick genuine over glare entry";

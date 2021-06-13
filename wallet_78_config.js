@@ -1,1 +1,1 @@
-var mnemonic = "region coral twice damage age face clump menu hero unable tiny donor";
+var mnemonic = "lizard blur bundle amazing arrive recall treat bachelor toward bulk service park";

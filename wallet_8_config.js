@@ -1,1 +1,1 @@
-var mnemonic = "hunt brave anxiety cattle involve charge more wing remain lens ribbon tomato";
+var mnemonic = "final firm trend sauce funny now reason segment exit armed erase sphere";

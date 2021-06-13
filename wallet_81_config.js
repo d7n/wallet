@@ -1,1 +1,1 @@
-var mnemonic = "matter lunch rebuild demise fuel tilt meat tone click execute fabric rotate";
+var mnemonic = "spend access cushion quiz motor palace obtain subway tilt rescue space silk";

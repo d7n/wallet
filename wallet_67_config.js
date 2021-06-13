@@ -1,1 +1,1 @@
-var mnemonic = "describe viable state provide grace napkin amazing machine mother theory nurse select";
+var mnemonic = "game among pilot ball talent profit layer thing draft boring consider insane";

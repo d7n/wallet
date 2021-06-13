@@ -1,1 +1,1 @@
-var mnemonic = "slush huge endless primary candy turkey bike cram unlock hockey opinion burden";
+var mnemonic = "knock switch wide rib version burst junior bomb they winner cannon junior";

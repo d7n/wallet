@@ -1,1 +1,1 @@
-var mnemonic = "elder wedding accident burden chimney grunt visual emerge hybrid crumble gossip index";
+var mnemonic = "arena electric label gesture bid because various carry razor draft glare electric";

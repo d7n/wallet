@@ -1,1 +1,1 @@
-var mnemonic = "north volcano rally bargain stage nuclear flag artefact cinnamon prevent salon security";
+var mnemonic = "alpha can avoid equal chat slot story carbon erase tilt approve pause";

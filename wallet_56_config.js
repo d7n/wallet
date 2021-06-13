@@ -1,1 +1,1 @@
-var mnemonic = "cactus truck parent divert dream acquire prosper bronze property thrive amazing quality";
+var mnemonic = "object carpet aunt then bomb armed fat under choose box sniff elder";

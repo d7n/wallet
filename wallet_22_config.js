@@ -1,1 +1,1 @@
-var mnemonic = "thumb blind render chimney mail metal blue phone news vacuum carbon twelve";
+var mnemonic = "turtle jungle glass measure poet there trip attract work panel grant identify";

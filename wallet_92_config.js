@@ -1,1 +1,1 @@
-var mnemonic = "daughter midnight gallery improve staff recipe kingdom lake stay under method gospel";
+var mnemonic = "series stick stumble into grit magic rabbit then fuel predict lizard smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel swear mail tiger liar oven elite tongue abuse cross push thrive";
+var mnemonic = "yard alter unusual inquiry worth hollow smile ketchup sleep approve spice mirror";

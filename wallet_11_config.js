@@ -1,1 +1,1 @@
-var mnemonic = "valid repair pudding injury panther comic flame rookie february soccer improve wink";
+var mnemonic = "sing admit crane trumpet tree convince praise glide rookie since inside amount";

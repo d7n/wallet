@@ -1,1 +1,1 @@
-var mnemonic = "dog skull inform model decrease toe amount color rubber city lizard few";
+var mnemonic = "draft resource coin dream tooth vanish woman able engine security wine bronze";

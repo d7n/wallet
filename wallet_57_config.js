@@ -1,1 +1,1 @@
-var mnemonic = "surprise color maple quiz glance tilt sick salute camera undo private mass";
+var mnemonic = "sick dial tower police pioneer swear similar include wine illegal into unfold";

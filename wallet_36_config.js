@@ -1,1 +1,1 @@
-var mnemonic = "radar special tank north balcony put insect magic diesel thunder radar frown";
+var mnemonic = "silent random torch slice sister gallery kitten tell outside trumpet pave useless";

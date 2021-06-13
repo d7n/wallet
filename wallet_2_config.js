@@ -1,1 +1,1 @@
-var mnemonic = "immense cupboard beyond fringe husband silly obey promote south muscle palm knock";
+var mnemonic = "pull debris fuel toy youth cube adjust silent west evolve knock vehicle";

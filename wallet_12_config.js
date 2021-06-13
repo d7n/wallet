@@ -1,1 +1,1 @@
-var mnemonic = "raw garlic grocery home nasty fatal web bunker present elbow spice pool";
+var mnemonic = "purse two way quantum shield assume eyebrow elite mango fresh provide crawl";

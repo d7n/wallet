@@ -1,1 +1,1 @@
-var mnemonic = "man quality mercy satoshi denial member original method glimpse crater punch neck";
+var mnemonic = "firm aware guilt reason rival close globe upper blanket nice soul happy";

@@ -1,1 +1,1 @@
-var mnemonic = "sing security always usual illness age weekend pulse guard toilet cupboard rib";
+var mnemonic = "bread pepper bag link hope one license rescue equal task weekend toward";

@@ -1,1 +1,1 @@
-var mnemonic = "candy total maze loan umbrella foster under enable hub push uncover leaf";
+var mnemonic = "sell odor excess game wife kidney joke object cement slide veteran news";

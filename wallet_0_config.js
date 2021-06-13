@@ -1,1 +1,1 @@
-var mnemonic = "recall bullet increase satoshi region renew pool accident nut tattoo honey van";
+var mnemonic = "agent dolphin milk invest order heart stamp tag bracket reform stick dutch";

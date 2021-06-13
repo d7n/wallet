@@ -1,1 +1,1 @@
-var mnemonic = "later fun diary panda differ solar siege blossom unit shallow tip tell";
+var mnemonic = "sell deposit coffee river peace cement shallow inhale luggage script skull decade";

@@ -1,1 +1,1 @@
-var mnemonic = "slab mail diagram quiz impose fish faith route lock custom inform stay";
+var mnemonic = "absurd purpose base decline taxi exchange hen ostrich bird faith whisper process";

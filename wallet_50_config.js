@@ -1,1 +1,1 @@
-var mnemonic = "dress perfect announce popular client cruise spray barrel baby retire pyramid inquiry";
+var mnemonic = "ritual about infant demise cheap under fine rifle lobster lonely repeat ripple";

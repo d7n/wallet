@@ -1,1 +1,1 @@
-var mnemonic = "bread fan pupil state salt mansion topple light silver caught isolate exhaust";
+var mnemonic = "flower will idle sail fit extra express acoustic essay else air where";

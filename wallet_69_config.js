@@ -1,1 +1,1 @@
-var mnemonic = "chef oppose differ myth prevent tongue hour music extra display base captain";
+var mnemonic = "puppy element crew crime access twice enough current enjoy desert move during";

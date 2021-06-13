@@ -1,1 +1,1 @@
-var mnemonic = "enough sick ahead fold pave space resemble snack habit unlock sure reject";
+var mnemonic = "maid clap evil glimpse worry dose stereo bubble link love twelve bachelor";

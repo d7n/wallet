@@ -1,1 +1,1 @@
-var mnemonic = "initial tortoise melody actual chat eyebrow frame prize scrub weird team cupboard";
+var mnemonic = "quote reopen mirror patrol snake tattoo body mimic canoe slight confirm setup";

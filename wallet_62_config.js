@@ -1,1 +1,1 @@
-var mnemonic = "police mom inject victory shift math pilot wheel aware diesel pipe long";
+var mnemonic = "denial buzz armed draft order scorpion snack hat jeans palm bind banner";

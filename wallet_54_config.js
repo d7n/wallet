@@ -1,1 +1,1 @@
-var mnemonic = "park crucial black fence glare certain forum improve rhythm giraffe local palm";
+var mnemonic = "chest glide task ice primary advice slogan hen assume farm milk buffalo";

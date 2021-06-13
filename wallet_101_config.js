@@ -1,1 +1,1 @@
-var mnemonic = "pulp draw refuse peasant taste fever stove senior soft volcano soccer audit";
+var mnemonic = "syrup describe depend road test lens strategy image liar civil act dune";

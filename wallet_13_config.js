@@ -1,1 +1,1 @@
-var mnemonic = "famous shiver frown cereal pelican guide buddy light organ inhale move quantum";
+var mnemonic = "obvious sock olympic romance ramp enhance sound ghost fruit erupt only crumble";

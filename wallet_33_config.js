@@ -1,1 +1,1 @@
-var mnemonic = "panther raise filter owner sea session patrol garage tuna spice pond orphan";
+var mnemonic = "festival orphan between express couch ceiling negative survey section chalk dignity people";

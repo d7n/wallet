@@ -1,1 +1,1 @@
-var mnemonic = "purity reflect math guilt derive tenant between echo raise lottery sleep obtain";
+var mnemonic = "puppy laptop modify youth catalog broom risk lawn juice taste shuffle public";

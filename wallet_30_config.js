@@ -1,1 +1,1 @@
-var mnemonic = "imitate math bounce aware cart resemble carpet muscle cattle material seed skate";
+var mnemonic = "woman sister system devote fruit guide slow chalk chuckle file rocket wire";

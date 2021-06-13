@@ -1,1 +1,1 @@
-var mnemonic = "flight inner badge awake quit blanket initial search chair brush knock ordinary";
+var mnemonic = "pride appear sick cancel network addict young public icon online bright shrimp";

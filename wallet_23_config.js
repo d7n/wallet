@@ -1,1 +1,1 @@
-var mnemonic = "cage siren climb room occur cube hill wish put dinosaur simple hill";
+var mnemonic = "garbage first wine network fun pass arrive way few feed century diesel";

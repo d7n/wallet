@@ -1,1 +1,1 @@
-var mnemonic = "brick system clever town parrot iron type hurry bread pepper link lecture";
+var mnemonic = "brush snap park ring into mixed usage beef just hobby expire attract";

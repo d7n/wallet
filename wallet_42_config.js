@@ -1,1 +1,1 @@
-var mnemonic = "bomb stumble armor festival profit frog infant claim beauty girl globe area";
+var mnemonic = "pyramid motor huge soon fence test giraffe barely reward deliver key near";

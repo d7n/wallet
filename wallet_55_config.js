@@ -1,1 +1,1 @@
-var mnemonic = "reflect cluster order present apology educate beef insect anxiety fetch bright misery";
+var mnemonic = "choice dice faint client number deputy wool tobacco chest beauty teach finish";

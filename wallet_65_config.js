@@ -1,1 +1,1 @@
-var mnemonic = "puppy verify breeze skate blouse champion enter report exit dignity zone tank";
+var mnemonic = "swarm exact measure wood winter penalty know foil adjust response useless fitness";

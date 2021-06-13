@@ -1,1 +1,1 @@
-var mnemonic = "nice welcome assault sign bean cotton theme stage drip horror flat taste";
+var mnemonic = "limit gun rough empty pride quantum satoshi blast easily quote report silent";

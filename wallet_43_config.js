@@ -1,1 +1,1 @@
-var mnemonic = "grass result pig ability prosper indoor first awkward crater cloud apart pave";
+var mnemonic = "fluid blue build ribbon burger enjoy decline wealth tooth drop swallow staff";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake boy initial seminar robot yard moral garbage off expect weasel romance";
+var mnemonic = "equal junior grid icon flag moral arrow quality toilet appear shrug position";

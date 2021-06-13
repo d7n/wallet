@@ -1,1 +1,1 @@
-var mnemonic = "suggest hair shrimp better army illegal axis tree city motion coil mandate";
+var mnemonic = "minimum satisfy parrot flavor sausage few move ivory unable pig guilt dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "frost news seek ancient change body giraffe worth brisk kind paper oven";
+var mnemonic = "lion crew either nothing maid senior scrap sausage enroll laundry clinic lunch";

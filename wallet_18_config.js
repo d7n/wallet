@@ -1,1 +1,1 @@
-var mnemonic = "dish album spell ask wide punch arena behind village merry forum entry";
+var mnemonic = "transfer energy dolphin rule pizza convince clever sample until good unknown motor";

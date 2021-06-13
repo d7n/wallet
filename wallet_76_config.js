@@ -1,1 +1,1 @@
-var mnemonic = "hand engage pudding observe bamboo maid sample either clay wood planet kit";
+var mnemonic = "left ceiling tuition ancient donor tomorrow olive gather orient fee gallery matter";

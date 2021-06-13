@@ -1,1 +1,1 @@
-var mnemonic = "inmate slight raise waste cash use turkey opera rubber forum hundred garlic";
+var mnemonic = "umbrella glad meat mix forum cactus shoot roof food crash cute black";

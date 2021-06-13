@@ -1,1 +1,1 @@
-var mnemonic = "ice young wisdom genuine crater enhance warm paper later notice trigger they";
+var mnemonic = "silk traffic purchase rain welcome twice cancel dentist bubble observe kidney boring";

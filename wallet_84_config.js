@@ -1,1 +1,1 @@
-var mnemonic = "figure tackle artwork faint fruit jacket odor planet prize brown lounge umbrella";
+var mnemonic = "then explain write solution crane mad damp kiss margin captain salmon fun";

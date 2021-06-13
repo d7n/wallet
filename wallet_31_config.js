@@ -1,1 +1,1 @@
-var mnemonic = "rural basket antenna toward fan right summer rebuild video divorce trick ramp";
+var mnemonic = "total patch hammer figure muffin kingdom sudden oyster coast maximum display size";

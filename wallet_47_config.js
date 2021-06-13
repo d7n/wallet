@@ -1,1 +1,1 @@
-var mnemonic = "educate shift twin live claw twelve nominee quit heart west weird cricket";
+var mnemonic = "improve evil relax tiny auction tuition end define acquire panther special pottery";

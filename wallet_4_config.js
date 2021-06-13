@@ -1,1 +1,1 @@
-var mnemonic = "near strong drama focus year keen quantum mercy fold setup goose first";
+var mnemonic = "this holiday peanut oak decade since cry van any sister verify legend";

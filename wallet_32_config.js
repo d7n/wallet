@@ -1,1 +1,1 @@
-var mnemonic = "vote cactus fiber sight arm invest math rocket uphold soft since prosper";
+var mnemonic = "dutch priority fitness squirrel solve subway alpha blade notice yard exchange razor";

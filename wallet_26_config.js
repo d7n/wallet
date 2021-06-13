@@ -1,1 +1,1 @@
-var mnemonic = "purpose mimic fury tragic wrist all mushroom name noodle water million hub";
+var mnemonic = "crime tell thrive deliver usual novel nose mobile jewel warfare next spread";

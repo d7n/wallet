@@ -1,1 +1,1 @@
-var mnemonic = "nothing sadness tide canvas garbage cushion exit earn unable bleak put glass";
+var mnemonic = "twist glimpse people butter oblige uphold turn whip whip family daring prize";

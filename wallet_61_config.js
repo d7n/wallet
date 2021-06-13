@@ -1,1 +1,1 @@
-var mnemonic = "gravity spend fox describe zebra license govern live bullet boil era shrug";
+var mnemonic = "famous basket siege obvious rhythm ramp next manage cousin brass shield blush";

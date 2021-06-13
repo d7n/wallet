@@ -1,1 +1,1 @@
-var mnemonic = "short dash pottery lady shoot false circle sugar slender unveil arrive romance";
+var mnemonic = "jaguar general sing huge same amateur february shrimp rude air kiss breeze";

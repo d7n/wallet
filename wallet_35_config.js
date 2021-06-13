@@ -1,1 +1,1 @@
-var mnemonic = "calm trophy double cattle fury kit pencil call grass pride topic rail";
+var mnemonic = "bird upset hand embody short frost census permit spray august host when";

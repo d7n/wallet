@@ -1,1 +1,1 @@
-var mnemonic = "want foster umbrella suit fruit neglect point model curious seminar neck announce";
+var mnemonic = "visit spatial draft furnace accident today hair note trap visual return language";

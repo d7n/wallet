@@ -1,1 +1,1 @@
-var mnemonic = "brave artist umbrella ritual talent taste happy vacuum produce cigar warfare expose";
+var mnemonic = "phone gauge chimney magnet neck toward acoustic thought arrow flip mirror copy";

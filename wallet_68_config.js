@@ -1,1 +1,1 @@
-var mnemonic = "detect victory ensure bind mad amazing base enlist all basic joy puppy";
+var mnemonic = "stool track moral sausage lonely kite hub curve truly cricket mandate clap";

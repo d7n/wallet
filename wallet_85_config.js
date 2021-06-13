@@ -1,1 +1,1 @@
-var mnemonic = "ridge regular attend knife orient fun blur elephant alarm real boat car";
+var mnemonic = "benefit illness shock length main baby parrot giant upgrade avoid six high";

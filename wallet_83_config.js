@@ -1,1 +1,1 @@
-var mnemonic = "skin desk just female path theory dutch news aunt uniform corn awful";
+var mnemonic = "mail tent match use region flight pole scan spawn lion tunnel helmet";

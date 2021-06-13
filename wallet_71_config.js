@@ -1,1 +1,1 @@
-var mnemonic = "sheriff secret scissors settle quality prepare celery slice worth wolf couch fabric";
+var mnemonic = "wear smile rhythm near snow coffee scrap faculty reject circle public kitchen";

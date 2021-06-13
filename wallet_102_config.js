@@ -1,1 +1,1 @@
-var mnemonic = "perfect liar knife rocket pretty receive blind isolate jealous upgrade again will";
+var mnemonic = "result spring hand umbrella beyond gas scatter shield govern photo orbit episode";

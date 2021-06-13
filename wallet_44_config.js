@@ -1,1 +1,1 @@
-var mnemonic = "frown equal brave issue pair inherit glare sad duty net nose area";
+var mnemonic = "dream drip daughter truly gun whip frog quantum hour mosquito milk toss";

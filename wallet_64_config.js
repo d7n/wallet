@@ -1,1 +1,1 @@
-var mnemonic = "patch solar pool rose swarm doctor lemon meat scare wisdom daring satoshi";
+var mnemonic = "luxury artwork basket hand citizen deposit cushion jealous media follow vessel aisle";

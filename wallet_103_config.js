@@ -1,1 +1,1 @@
-var mnemonic = "gossip where elegant fury tornado matrix student woman hybrid project verify pulse";
+var mnemonic = "spring wealth kiwi attract tool judge journey gloom immense prepare stadium settle";

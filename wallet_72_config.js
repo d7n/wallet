@@ -1,1 +1,1 @@
-var mnemonic = "antique guilt track enrich hurt panic comic neutral prepare wreck decade often";
+var mnemonic = "private effort mask reunion mountain angle crawl argue tunnel assault senior valid";

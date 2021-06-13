@@ -1,1 +1,1 @@
-var mnemonic = "evidence elder nasty inspire camera height tonight service catalog recall vacant original";
+var mnemonic = "marriage skate furnace disagree fury author exhibit bamboo decline layer fork economy";

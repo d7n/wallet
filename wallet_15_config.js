@@ -1,1 +1,1 @@
-var mnemonic = "chief jump clog vendor gasp vapor cream cousin humble space route brand";
+var mnemonic = "salad equal exile audit wild crystal shock fatal uncle scout siren crowd";

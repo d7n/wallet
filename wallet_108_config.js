@@ -1,1 +1,1 @@
-var mnemonic = "gallery ethics legend rebuild unaware just since face uniform syrup verb use";
+var mnemonic = "dry pencil ketchup neither peanut month nut viable old square year vessel";

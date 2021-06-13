@@ -1,1 +1,1 @@
-var mnemonic = "pull father tip donor chalk silver shine biology layer ritual maid issue";
+var mnemonic = "husband cause voice dragon shoe push lend fog board into deliver youth";

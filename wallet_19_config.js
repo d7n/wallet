@@ -1,1 +1,1 @@
-var mnemonic = "owner tilt autumn actual increase arrest shiver gun person mask blush weapon";
+var mnemonic = "liberty off quality jelly door avocado dash wave auction aim spend soda";

@@ -1,1 +1,1 @@
-var mnemonic = "assault network genuine book return segment sheriff hedgehog boy episode fall battle";
+var mnemonic = "horror alone clap dust raven twelve excite weekend trip pizza spring spare";

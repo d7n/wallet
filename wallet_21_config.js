@@ -1,1 +1,1 @@
-var mnemonic = "embark talent patch echo ankle peasant impact panel sense craft goddess dice";
+var mnemonic = "vessel embrace royal taste fame such friend learn since biology kiwi humor";

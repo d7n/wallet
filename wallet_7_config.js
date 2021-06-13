@@ -1,1 +1,1 @@
-var mnemonic = "flight rubber grass enjoy stick blouse pool arrest biology margin weird river";
+var mnemonic = "excess open front quiz empty valve pepper cabin strategy tornado salad cliff";

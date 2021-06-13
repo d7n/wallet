@@ -1,1 +1,1 @@
-var mnemonic = "blossom mom sweet innocent logic rescue erosion insect inquiry idea mean beach";
+var mnemonic = "until arctic ankle nuclear bottom always teach suffer pelican until broccoli lend";

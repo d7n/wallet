@@ -1,1 +1,1 @@
-var mnemonic = "nominee select physical depend raven popular foam panda mother rally venue venture";
+var mnemonic = "rug galaxy slide dwarf pair swift leaf loop bounce fresh column fortune";

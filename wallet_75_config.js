@@ -1,1 +1,1 @@
-var mnemonic = "garden escape right empty time spice flame october noise flush slim radar";
+var mnemonic = "pretty enjoy garlic genuine become cigar sweet permit festival exact ice garlic";

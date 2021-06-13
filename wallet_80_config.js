@@ -1,1 +1,1 @@
-var mnemonic = "once sound donor dose tiger horse oyster reject marble churn relief glass";
+var mnemonic = "riot bus city syrup human aspect reason fantasy cover pioneer major balance";

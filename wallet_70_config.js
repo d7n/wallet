@@ -1,1 +1,1 @@
-var mnemonic = "tattoo recall eight tortoise ahead snake bomb spread render mail agent impose";
+var mnemonic = "mandate weasel profit cook perfect release volume scrap because lemon cross reform";

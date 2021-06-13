@@ -1,1 +1,1 @@
-var mnemonic = "pool crew decrease spoil load penalty walk service manage spawn final manage";
+var mnemonic = "wrestle help tonight island jealous file proud group amateur million coil morning";

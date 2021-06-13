@@ -1,1 +1,1 @@
-var mnemonic = "visa average make news canal fruit alley domain jelly hundred pet now";
+var mnemonic = "rose rude other payment guard half blanket state huge connect cherry rifle";

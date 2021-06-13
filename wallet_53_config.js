@@ -1,1 +1,1 @@
-var mnemonic = "clarify coach twice black real duck blanket across ramp broken obey clinic";
+var mnemonic = "catch judge idea wolf wing cousin unfold reason hood sea step mad";

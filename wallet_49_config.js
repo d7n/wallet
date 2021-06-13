@@ -1,1 +1,1 @@
-var mnemonic = "smart dry evil puppy mutual volcano moon ship hello hour winner keep";
+var mnemonic = "movie remain cupboard gesture quit word maid celery radar unfair buyer flee";

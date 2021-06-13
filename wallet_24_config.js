@@ -1,1 +1,1 @@
-var mnemonic = "primary code coin giant humor bleak ladder cigar smart cactus loan peace";
+var mnemonic = "know regret shadow opera valley smart pink abuse oil decrease impulse lion";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin limit baby limit club oyster scrub recall gather swarm emerge trophy";
+var mnemonic = "frost subject cost garlic inhale oval double fantasy car length soldier trip";
