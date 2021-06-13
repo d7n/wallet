@@ -1,1 +1,1 @@
-var mnemonic = "legal rebel mushroom tomorrow tomorrow garage immense resemble mix remove glory tonight";
+var mnemonic = "region print child then inmate mail genius creek dial fatigue machine another";

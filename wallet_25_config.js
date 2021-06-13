@@ -1,1 +1,1 @@
-var mnemonic = "resource rude antique west file hawk color gauge boss lawn reform shoot";
+var mnemonic = "taste license enable argue since half august crouch rebuild february run ankle";

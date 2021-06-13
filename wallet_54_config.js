@@ -1,1 +1,1 @@
-var mnemonic = "letter wrong other near online hazard used cliff glad claw leaf midnight";
+var mnemonic = "manage afford taxi knee monkey comic critic stage toward mushroom youth subject";

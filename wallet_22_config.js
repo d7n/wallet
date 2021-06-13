@@ -1,1 +1,1 @@
-var mnemonic = "merry witness equal brass lawn term among receive goddess small car gun";
+var mnemonic = "dwarf genuine ring valve armor exist range cost wall notice ski express";

@@ -1,1 +1,1 @@
-var mnemonic = "please twist random fossil term useless venue fluid soldier fun perfect suffer";
+var mnemonic = "cushion subject wool mushroom depth swarm resource gallery reduce confirm jungle once";

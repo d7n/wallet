@@ -1,1 +1,1 @@
-var mnemonic = "stumble corn uncover ring book disease subject scissors nothing decade hover kitten";
+var mnemonic = "maid action album song weasel donate lock jealous climb pelican clock lift";

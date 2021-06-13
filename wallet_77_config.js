@@ -1,1 +1,1 @@
-var mnemonic = "indoor kind afraid fiction sweet struggle column youth lens seminar hammer bind";
+var mnemonic = "mammal laugh clinic vapor now dream swear protect select connect ostrich raise";

@@ -1,1 +1,1 @@
-var mnemonic = "car shoot usual mandate dinner brass vacuum blind conduct situate leg boy";
+var mnemonic = "fix afford direct pond theme forward phone prosper camp fame fault awake";

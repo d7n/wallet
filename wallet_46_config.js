@@ -1,1 +1,1 @@
-var mnemonic = "object bike hungry metal marble phone canyon increase main output wild agent";
+var mnemonic = "canvas borrow diesel foster quit kick visa boat tunnel affair twin escape";

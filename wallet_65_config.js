@@ -1,1 +1,1 @@
-var mnemonic = "satisfy high please match ghost tired worry oblige arrange cruise plate oxygen";
+var mnemonic = "control never hurdle debris rough clown rookie urge cliff copper bachelor ask";

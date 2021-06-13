@@ -1,1 +1,1 @@
-var mnemonic = "rule grief grape magnet color timber upper staff confirm peasant glance space";
+var mnemonic = "hill moral ocean weekend craft latin boat health patient hedgehog leaf gym";

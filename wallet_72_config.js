@@ -1,1 +1,1 @@
-var mnemonic = "interest black material entry adjust exotic slim tray armed cruise deal attack";
+var mnemonic = "clever weekend face evolve peasant alcohol sound brave rice grief mosquito unit";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve early brand maple win caution repeat say someone satisfy where blossom";
+var mnemonic = "rice safe onion note over luxury notable novel coral letter elder catch";

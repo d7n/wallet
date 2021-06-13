@@ -1,1 +1,1 @@
-var mnemonic = "often heavy flavor vibrant battle chronic artist tuna only table tell alter";
+var mnemonic = "tragic cradle helmet broom bulk kingdom work speed soda globe room dash";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy width sibling crystal submit secret antique thought uncle barrel mean ahead";
+var mnemonic = "pyramid clock student pencil music paddle rocket feel there canoe panda waste";

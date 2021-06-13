@@ -1,1 +1,1 @@
-var mnemonic = "blood awful salt length draw shift staff adapt misery favorite boring mistake";
+var mnemonic = "coral forget skull unlock enough mutual vendor season crash congress wagon general";

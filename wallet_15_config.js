@@ -1,1 +1,1 @@
-var mnemonic = "average weasel pretty later debate increase spy report piece eyebrow total fury";
+var mnemonic = "turn pig gorilla tuna all tape typical material emerge ignore olympic top";

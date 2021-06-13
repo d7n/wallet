@@ -1,1 +1,1 @@
-var mnemonic = "neglect potato fault intact enough bulb century about join forest tobacco blur";
+var mnemonic = "sick share solid play denial crucial name student amused hungry spirit crew";

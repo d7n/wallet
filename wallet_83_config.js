@@ -1,1 +1,1 @@
-var mnemonic = "tent family dolphin blossom clip glow recycle wing tag until second price";
+var mnemonic = "shell skate critic universe idea trial best horn vapor title supreme term";

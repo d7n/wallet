@@ -1,1 +1,1 @@
-var mnemonic = "clutch analyst route absorb sight museum identify rival flash oil replace dove";
+var mnemonic = "artwork rival marine avocado hamster beef tomato offer rain adult retreat process";

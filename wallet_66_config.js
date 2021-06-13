@@ -1,1 +1,1 @@
-var mnemonic = "miracle smoke pause enhance royal auto shrimp tone planet ginger champion rather";
+var mnemonic = "logic east rail bounce oyster blood addict kangaroo cycle perfect olive apart";

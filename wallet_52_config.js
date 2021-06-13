@@ -1,1 +1,1 @@
-var mnemonic = "canoe fashion humble end myth pair weapon alien belt spider much word";
+var mnemonic = "keep please slight rib valley glimpse story jump wagon verify movie cook";

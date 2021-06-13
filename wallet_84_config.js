@@ -1,1 +1,1 @@
-var mnemonic = "trumpet attract hope option slender state gun loyal risk sure someone useful";
+var mnemonic = "vibrant depart box modify electric long salad hobby situate alone symptom tooth";

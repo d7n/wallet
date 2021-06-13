@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit better chapter vehicle gather advice saddle gloom fault fish away dust";
+var mnemonic = "castle able harbor come girl addict arrest trial surround turtle flat immune";

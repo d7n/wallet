@@ -1,1 +1,1 @@
-var mnemonic = "small rule success muffin salute maid install together casino cinnamon fault cotton";
+var mnemonic = "census salute trouble beach short brand napkin unlock hedgehog decrease hire small";

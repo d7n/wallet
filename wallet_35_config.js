@@ -1,1 +1,1 @@
-var mnemonic = "finish match opera help coral echo found order cushion horror dragon random";
+var mnemonic = "cram unlock omit venture universe clog garage flush few shrug meat fantasy";

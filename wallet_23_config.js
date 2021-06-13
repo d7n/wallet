@@ -1,1 +1,1 @@
-var mnemonic = "club two stage across inhale chuckle dance asthma rough hold success follow";
+var mnemonic = "barrel cat feel vehicle race universe own axis gaze funny school number";

@@ -1,1 +1,1 @@
-var mnemonic = "limit turtle sphere dutch people audit check width head kite drum safe";
+var mnemonic = "brisk model essence harvest coil dune time before suit armor above tattoo";

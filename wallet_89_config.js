@@ -1,1 +1,1 @@
-var mnemonic = "rocket shadow dinosaur title often soccer liberty absurd actual bean fragile legal";
+var mnemonic = "clip actress sadness rude wave subway east submit muffin front parent bulk";

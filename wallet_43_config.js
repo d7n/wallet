@@ -1,1 +1,1 @@
-var mnemonic = "defy bachelor elephant marble spell share theme weasel fancy anchor load seed";
+var mnemonic = "pet fall near cash doll mystery squirrel joke bone spread express glass";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor burst toward ghost staff repeat rigid tourist shoot carry water range";
+var mnemonic = "spring impact draft find hole bright trick donkey foot chef alien army";

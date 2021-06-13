@@ -1,1 +1,1 @@
-var mnemonic = "happy gauge squeeze crazy slogan noise roast snake they olive million model";
+var mnemonic = "wise void monitor hood wing vibrant pulse guitar engine bonus news egg";

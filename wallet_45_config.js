@@ -1,1 +1,1 @@
-var mnemonic = "harvest globe dish rate hospital use fun network broccoli mercy smoke turkey";
+var mnemonic = "duck item clever ordinary liquid few suspect evolve magic frame tray pair";

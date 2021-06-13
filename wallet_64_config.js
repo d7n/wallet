@@ -1,1 +1,1 @@
-var mnemonic = "legend teach sell sorry tornado satoshi conduct receive outdoor theory notice cross";
+var mnemonic = "drink disagree grab meat loan bless pet dutch acoustic arrow swamp select";

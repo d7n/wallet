@@ -1,1 +1,1 @@
-var mnemonic = "apology scan stay bike wage hurdle giant comic unknown jar butter argue";
+var mnemonic = "doctor diet transfer ring system else bicycle guide vocal reject share bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "alien recycle fly zone smart correct finish trick evolve rural fire ahead";
+var mnemonic = "venture power spread transfer sphere coyote nice churn claim often spike drip";

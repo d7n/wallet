@@ -1,1 +1,1 @@
-var mnemonic = "dragon creek sausage trip diary royal order taste suggest electric rabbit answer";
+var mnemonic = "filter coach topple copy antenna wing plastic casino husband cry crane just";

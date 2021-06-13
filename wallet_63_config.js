@@ -1,1 +1,1 @@
-var mnemonic = "tumble cliff define pioneer media donate receive anxiety gun outdoor rent nation";
+var mnemonic = "bright dirt winter knife session auto party right genius grape ribbon scrub";

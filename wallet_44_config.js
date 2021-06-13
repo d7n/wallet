@@ -1,1 +1,1 @@
-var mnemonic = "aisle sketch shift buzz sibling memory dolphin treat pink arrow amused police";
+var mnemonic = "lonely drive swallow clap fantasy park until bounce arrest banana define pill";

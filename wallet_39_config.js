@@ -1,1 +1,1 @@
-var mnemonic = "teach later bless error super goat ankle pony trip remember swim unfair";
+var mnemonic = "wine wrist enhance confirm adapt short unable garage matter urge inflict season";

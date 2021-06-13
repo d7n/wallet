@@ -1,1 +1,1 @@
-var mnemonic = "civil spirit enlist fatal embody good symptom engage news hair coil novel";
+var mnemonic = "purity pitch crop member sauce often above reunion bring school morning shy";

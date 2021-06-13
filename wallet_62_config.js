@@ -1,1 +1,1 @@
-var mnemonic = "diesel hotel describe home skirt movie grape few vehicle manual bamboo airport";
+var mnemonic = "force kick toy knock explain dragon wrong cigar lift energy believe debate";

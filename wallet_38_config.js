@@ -1,1 +1,1 @@
-var mnemonic = "ribbon faint excuse arrange fashion sure person shell obvious rug emotion evil";
+var mnemonic = "scrub net divorce extend couple shadow media open hood true spoil double";

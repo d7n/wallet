@@ -1,1 +1,1 @@
-var mnemonic = "buddy message poet fade play green solve copy typical short inform nature";
+var mnemonic = "today giggle need van perfect buffalo maid tenant media sell fee enact";

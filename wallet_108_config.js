@@ -1,1 +1,1 @@
-var mnemonic = "bleak rotate deer funny april blast document believe park myth later soon";
+var mnemonic = "avocado knock secret abandon flush worth type sad prepare danger party impulse";

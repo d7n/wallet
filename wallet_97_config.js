@@ -1,1 +1,1 @@
-var mnemonic = "boost receive velvet mind saddle flag control deer kick race busy fall";
+var mnemonic = "shuffle lens protect differ small pulp maid august frost fatal aisle club";

@@ -1,1 +1,1 @@
-var mnemonic = "kite topple cancel dumb wagon august much remain chicken access south soul";
+var mnemonic = "arrest mean cruise fortune stem buffalo film jelly fever panic assume later";

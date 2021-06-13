@@ -1,1 +1,1 @@
-var mnemonic = "blur gospel actual miracle eager corn tray process arrest absurd garden liquid";
+var mnemonic = "dawn lawn useful cry civil control latin valid exotic muffin mom shoe";

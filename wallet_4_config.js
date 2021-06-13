@@ -1,1 +1,1 @@
-var mnemonic = "logic job taxi daughter six sponsor pact ginger mushroom drum turkey oblige";
+var mnemonic = "blue celery visual frost neck bless shell clown lumber mushroom traffic layer";

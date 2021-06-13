@@ -1,1 +1,1 @@
-var mnemonic = "again ensure repair rhythm this whale almost kidney gown crane silver govern";
+var mnemonic = "thing doll end unique report clay math elbow car hour gap lawsuit";

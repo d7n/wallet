@@ -1,1 +1,1 @@
-var mnemonic = "hammer taste save artwork divert spy immense forget burger region unveil wasp";
+var mnemonic = "middle bag follow property auto copy leaf rice spot vital height cradle";

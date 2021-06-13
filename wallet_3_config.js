@@ -1,1 +1,1 @@
-var mnemonic = "club grid auction clever reason regular interest rebuild morning item panther else";
+var mnemonic = "detail switch dignity subject cigar motor decrease exhaust gospel favorite panda art";

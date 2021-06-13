@@ -1,1 +1,1 @@
-var mnemonic = "network output syrup office stone agree mask whale blossom exclude high trash";
+var mnemonic = "cement room web agent domain gesture noble lumber series hole fever bottom";

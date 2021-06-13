@@ -1,1 +1,1 @@
-var mnemonic = "garlic miss wrist truck whip tide festival matrix mean lumber much ritual";
+var mnemonic = "theme ribbon boil clown antique fog eight weekend book muffin innocent inherit";

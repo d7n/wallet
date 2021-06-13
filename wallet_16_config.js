@@ -1,1 +1,1 @@
-var mnemonic = "brain raw intact fork upon latin balcony predict ticket obtain ecology tissue";
+var mnemonic = "foam panda pond garment awful bar tiger toy arrest autumn faith plate";

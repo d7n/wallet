@@ -1,1 +1,1 @@
-var mnemonic = "theory canyon cloud spoil appear know mixed position rhythm object estate boring";
+var mnemonic = "mistake cigar noble rose apology glue balcony medal fork soccer orange kiss";

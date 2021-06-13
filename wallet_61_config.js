@@ -1,1 +1,1 @@
-var mnemonic = "airport carry seminar model visit define vacuum fly split enemy range stuff";
+var mnemonic = "start purpose actor ginger creek reveal steel supreme stage supreme ranch beef";

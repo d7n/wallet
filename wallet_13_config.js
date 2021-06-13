@@ -1,1 +1,1 @@
-var mnemonic = "gospel surprise region leisure cup friend pitch wealth visa inmate glad special";
+var mnemonic = "parent lawsuit broccoli chase snow actress bid taste plastic snake decorate ceiling";

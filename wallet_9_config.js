@@ -1,1 +1,1 @@
-var mnemonic = "math name wonder negative truly south foster panel female final axis always";
+var mnemonic = "wait suspect original hobby such tail option pizza truly isolate basic reject";

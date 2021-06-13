@@ -1,1 +1,1 @@
-var mnemonic = "aspect north fabric bag broken october wedding fitness cushion notice learn gold";
+var mnemonic = "small arena pigeon pulp travel text right piano mutual feed this fine";

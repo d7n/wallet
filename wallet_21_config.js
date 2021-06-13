@@ -1,1 +1,1 @@
-var mnemonic = "gym meadow breeze flock chaos style aisle often egg pair swim powder";
+var mnemonic = "brush ensure reflect lion art trial produce rather maze ghost hedgehog aunt";

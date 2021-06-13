@@ -1,1 +1,1 @@
-var mnemonic = "humble badge surround around tube citizen talent rigid avocado east slow sugar";
+var mnemonic = "demand leisure dawn barely spoon luggage resemble truth art assume beach clerk";

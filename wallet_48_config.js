@@ -1,1 +1,1 @@
-var mnemonic = "dice since resemble early message antenna this erase table prosper vocal grit";
+var mnemonic = "quantum agree icon room speak tortoise jar unknown isolate wool arrive start";

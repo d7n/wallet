@@ -1,1 +1,1 @@
-var mnemonic = "welcome primary october occur thumb summer hint excuse cloth head like confirm";
+var mnemonic = "category fat dutch lab voice enough beef upon place magnet impose joy";

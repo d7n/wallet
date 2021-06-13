@@ -1,1 +1,1 @@
-var mnemonic = "disease horror exhibit tone home cargo destroy struggle toss tent light balance";
+var mnemonic = "rabbit praise amateur motion fold reject regular interest music course shadow riot";

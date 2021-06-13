@@ -1,1 +1,1 @@
-var mnemonic = "promote erase diesel clay page merit harsh symptom find slow force core";
+var mnemonic = "essence digital hard thought steel crouch offer minimum arrow clever infant uphold";

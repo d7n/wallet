@@ -1,1 +1,1 @@
-var mnemonic = "hockey police spin risk rookie mandate famous gospel globe vacuum special jacket";
+var mnemonic = "breeze universe tobacco craft rifle wish metal useless save unfold smile squirrel";

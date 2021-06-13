@@ -1,1 +1,1 @@
-var mnemonic = "prepare picnic various unfold awful gorilla oak approve satoshi mansion salmon talk";
+var mnemonic = "struggle attack chronic bounce explain gentle author jelly journey nurse entry fortune";

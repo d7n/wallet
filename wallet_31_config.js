@@ -1,1 +1,1 @@
-var mnemonic = "hollow allow shed lend figure sibling track misery mule giggle slight edge";
+var mnemonic = "monkey woman erosion burger excite easily embody chaos shoulder fox sorry basic";

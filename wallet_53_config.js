@@ -1,1 +1,1 @@
-var mnemonic = "egg senior cotton smooth asthma crawl garment nation inside sort limb act";
+var mnemonic = "trap shrimp biology pill manage unveil twenty join year into gather gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "skin goddess guide smoke picture ride soup original ceiling save yellow slow";
+var mnemonic = "enough garden lobster song recipe hope pilot enemy then august kit head";

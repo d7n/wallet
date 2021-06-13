@@ -1,1 +1,1 @@
-var mnemonic = "salt sunny stable various jealous rapid sweet broken weapon milk return dose";
+var mnemonic = "rough wave frame plastic valley master warfare live fly avocado owner maple";

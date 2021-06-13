@@ -1,1 +1,1 @@
-var mnemonic = "wide obvious human release wrap human grain trend wagon mushroom palace pill";
+var mnemonic = "load reason comic daring crunch net limit rate gentle barrel trick disease";

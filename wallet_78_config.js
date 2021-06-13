@@ -1,1 +1,1 @@
-var mnemonic = "run shallow peanut fuel sniff cycle inform trouble harvest person bar what";
+var mnemonic = "spot spirit scan evil execute quiz game few slide chunk slogan pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "what chat hip cargo weekend calm baby hello grain update hint cross";
+var mnemonic = "spell put prevent lounge alley spot salon ahead enlist memory endorse shoe";

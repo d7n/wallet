@@ -1,1 +1,1 @@
-var mnemonic = "pudding guilt unaware glimpse bar tomorrow solar wave they juice river easy";
+var mnemonic = "host frame pony list since inject drip possible spawn rabbit resemble arch";

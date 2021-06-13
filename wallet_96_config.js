@@ -1,1 +1,1 @@
-var mnemonic = "blood paper seek inner present hollow issue ripple coconut quarter rare romance";
+var mnemonic = "cage case sadness shed marriage option upper tank flash radar purchase reward";

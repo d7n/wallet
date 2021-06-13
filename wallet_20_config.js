@@ -1,1 +1,1 @@
-var mnemonic = "exchange quote gauge prosper damp mix obey flag desert foot canvas evoke";
+var mnemonic = "impose tiny height clinic trust wish grace achieve deny shrug wool police";

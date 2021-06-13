@@ -1,1 +1,1 @@
-var mnemonic = "amateur hybrid sand abandon click stadium inside pride once cloth favorite panel";
+var mnemonic = "able undo analyst insane fiction board flavor bench monster awful there actor";

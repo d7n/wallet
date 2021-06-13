@@ -1,1 +1,1 @@
-var mnemonic = "tattoo urge poverty boy speed story turkey cram sand knee digital rule";
+var mnemonic = "leave fiscal team endless disease bag snake fame radar obtain quarter fault";

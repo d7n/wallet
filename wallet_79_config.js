@@ -1,1 +1,1 @@
-var mnemonic = "beyond success park robust mirror west else want lunch disorder future antique";
+var mnemonic = "symptom empty sauce romance poem bullet bracket card easily vibrant length breeze";

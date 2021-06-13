@@ -1,1 +1,1 @@
-var mnemonic = "hello matrix birth property bridge museum noodle winter scrap naive desert tooth";
+var mnemonic = "smoke duck concert ceiling faint next sting pilot walk safe estate salute";

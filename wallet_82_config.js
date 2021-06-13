@@ -1,1 +1,1 @@
-var mnemonic = "like mention analyst doll moral glance portion lunar toast basic ensure derive";
+var mnemonic = "hero left velvet punch crush flat runway solve lecture scrap fuel fork";

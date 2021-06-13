@@ -1,1 +1,1 @@
-var mnemonic = "maple dolphin desk toddler double stumble scorpion reveal sleep fat tribe question";
+var mnemonic = "stock vessel giggle please detail check drip cable true bar meat excess";

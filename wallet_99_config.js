@@ -1,1 +1,1 @@
-var mnemonic = "frog cram equip emerge capable echo ability farm grape system behind gloom";
+var mnemonic = "pencil edge beach oven trend cake defy wave spell season unhappy collect";

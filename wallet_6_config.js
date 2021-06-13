@@ -1,1 +1,1 @@
-var mnemonic = "message rebuild cinnamon deny copper funny gasp ball absent trade burst pledge";
+var mnemonic = "insane exit lava hover side luxury finger shuffle home hat soda material";

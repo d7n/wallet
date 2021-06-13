@@ -1,1 +1,1 @@
-var mnemonic = "planet spawn purpose apart lumber evil idea cry million air bullet whale";
+var mnemonic = "patrol gown horror recipe rule spell effort sense marriage rib movie either";

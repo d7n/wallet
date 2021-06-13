@@ -1,1 +1,1 @@
-var mnemonic = "term melody cloud reward struggle sure east boss ready improve open focus";
+var mnemonic = "bullet pistol pulse jeans vintage hurry between insane subway cliff once arm";

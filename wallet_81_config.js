@@ -1,1 +1,1 @@
-var mnemonic = "near obtain emerge law immense genuine spider shell banana apple soda movie";
+var mnemonic = "captain rich yard ice disorder reduce dry script label mean romance sand";

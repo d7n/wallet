@@ -1,1 +1,1 @@
-var mnemonic = "math change barrel reform virus unaware teach when just task board replace";
+var mnemonic = "relief forward punch network child lumber sign cube gesture dish system melt";

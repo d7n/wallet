@@ -1,1 +1,1 @@
-var mnemonic = "grunt glow trophy attract express confirm grape mail nose select grunt seat";
+var mnemonic = "stove guilt happy combine face slush crew begin super blade teach wolf";

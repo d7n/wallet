@@ -1,1 +1,1 @@
-var mnemonic = "pride giant emerge senior hen gesture wagon link bacon silly puppy valve";
+var mnemonic = "someone observe rifle pulp call hub want crazy middle board ski discover";
