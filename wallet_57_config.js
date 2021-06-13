@@ -1,1 +1,1 @@
-var mnemonic = "expand math intact usage knock clutch tribe asset enable dish thank neutral";
+var mnemonic = "slide inside strategy three sauce fresh inject mouse train say wise nerve";

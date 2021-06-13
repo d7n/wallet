@@ -1,1 +1,1 @@
-var mnemonic = "box employ evolve stay sample about pattern trouble finish entire regular simple";
+var mnemonic = "leopard palace pulse quick crawl engage myth ice cherry giraffe awful asset";

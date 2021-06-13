@@ -1,1 +1,1 @@
-var mnemonic = "sibling census success analyst reason tray rather bottom dash visual struggle joke";
+var mnemonic = "swallow train treat boss own bleak chronic end giraffe space when chef";

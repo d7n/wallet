@@ -1,1 +1,1 @@
-var mnemonic = "style tower question object salmon text fog scatter eager shrug jealous unable";
+var mnemonic = "hover deer tomorrow trumpet pair citizen sibling hold polar donor language popular";

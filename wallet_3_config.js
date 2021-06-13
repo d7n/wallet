@@ -1,1 +1,1 @@
-var mnemonic = "that master member account subject blind marble kitten innocent mask biology cry";
+var mnemonic = "measure replace hungry auto stairs life auto flee sand prosper soap cricket";

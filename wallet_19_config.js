@@ -1,1 +1,1 @@
-var mnemonic = "market purpose sting hockey grid best chronic push kick clinic prevent ring";
+var mnemonic = "abuse wet hockey awkward issue excess call motion kidney still stable cannon";

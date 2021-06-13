@@ -1,1 +1,1 @@
-var mnemonic = "knife excite orient agree shove stereo smile vibrant crane parade image roast";
+var mnemonic = "swear happy announce clarify arctic hero velvet eager valley license mass consider";

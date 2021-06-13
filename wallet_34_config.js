@@ -1,1 +1,1 @@
-var mnemonic = "smart because yellow sight grab brick produce mouse chicken board grant carbon";
+var mnemonic = "mammal multiply radio muscle ghost stairs afford oyster together disorder bleak easily";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale stay lunar drama own wisdom inner night payment anchor bless practice";
+var mnemonic = "arctic banner fork decrease stomach clay twelve mansion front pledge surface surround";

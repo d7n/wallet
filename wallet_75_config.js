@@ -1,1 +1,1 @@
-var mnemonic = "lunch ugly noise various planet opera hybrid sugar actress illness oppose gift";
+var mnemonic = "virus easy accuse observe game also outer puzzle layer large phrase trust";

@@ -1,1 +1,1 @@
-var mnemonic = "explain umbrella blind jacket unit dose typical limit parent cross imitate loan";
+var mnemonic = "situate prevent lemon snack admit produce smart goose inject wonder decorate soft";

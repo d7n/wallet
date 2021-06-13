@@ -1,1 +1,1 @@
-var mnemonic = "across tumble ski panther transfer interest mixture tackle cloud carpet civil neck";
+var mnemonic = "note pole dentist empty sword bachelor offer expect puzzle badge word vehicle";

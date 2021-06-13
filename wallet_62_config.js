@@ -1,1 +1,1 @@
-var mnemonic = "social lucky tilt aim color fame radio runway glad comfort solar dignity";
+var mnemonic = "hockey globe jacket into assume misery current canyon love ripple achieve dust";

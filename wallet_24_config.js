@@ -1,1 +1,1 @@
-var mnemonic = "crane staff upon pond clay chalk frown genre goose wolf smart decorate";
+var mnemonic = "glad ski accident photo assault warm trigger egg cool must start addict";

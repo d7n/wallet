@@ -1,1 +1,1 @@
-var mnemonic = "sense wolf expect action equal hurry holiday tortoise phrase type grocery chronic";
+var mnemonic = "another possible wrestle awesome response elite gospel mammal build pave expose soda";

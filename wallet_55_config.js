@@ -1,1 +1,1 @@
-var mnemonic = "deer elite pair raccoon moon digital myth dentist push jazz knife better";
+var mnemonic = "game talent cruise version oil save remain loop assist celery pair where";

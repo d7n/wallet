@@ -1,1 +1,1 @@
-var mnemonic = "dance weather sister scout better disagree sudden purse bitter roast human blood";
+var mnemonic = "dance flight donate pulp regular inquiry indicate season office all tree great";

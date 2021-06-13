@@ -1,1 +1,1 @@
-var mnemonic = "auto before waste leader child belt obscure fine eye upgrade chest traffic";
+var mnemonic = "track crane toilet emerge wheat path way battle warrior six siren chief";

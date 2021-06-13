@@ -1,1 +1,1 @@
-var mnemonic = "symbol asthma coin butter sudden foil delay brief custom expand anchor major";
+var mnemonic = "load opinion code lake armed script practice ramp civil odor myself flight";

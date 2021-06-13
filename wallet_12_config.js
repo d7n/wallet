@@ -1,1 +1,1 @@
-var mnemonic = "verb embrace rail quick fever era weird train hungry sample repair joke";
+var mnemonic = "huge undo runway beef describe crime enemy raw cabin blanket inmate staff";

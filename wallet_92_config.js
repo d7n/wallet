@@ -1,1 +1,1 @@
-var mnemonic = "candy gas afraid define step teach salon jelly zone ghost harbor kind";
+var mnemonic = "grace pledge canoe toast child science dice apple wait toss evil secret";

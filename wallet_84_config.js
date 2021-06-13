@@ -1,1 +1,1 @@
-var mnemonic = "together swear another kidney impose soup trial chaos festival doctor worry trust";
+var mnemonic = "hurry knee cargo affair fly vendor walk twist tunnel owner mandate arena";

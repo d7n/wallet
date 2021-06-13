@@ -1,1 +1,1 @@
-var mnemonic = "anchor coil shoot hire raccoon current duty banana viable green custom animal";
+var mnemonic = "kangaroo magic palm camp pretty page accident science city choose romance ecology";

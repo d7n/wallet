@@ -1,1 +1,1 @@
-var mnemonic = "senior chronic script setup benefit only knife into assault lonely dynamic duck";
+var mnemonic = "announce clean engage lift ghost radio video note pull theory illness neglect";

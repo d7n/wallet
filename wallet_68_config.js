@@ -1,1 +1,1 @@
-var mnemonic = "love bean page coyote pet whip they salad brass title argue slam";
+var mnemonic = "absurd please bubble grass gallery caught come work unknown sort two more";

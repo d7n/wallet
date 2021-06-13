@@ -1,1 +1,1 @@
-var mnemonic = "barrel escape length advance roof distance quarter skull heart ramp cherry session";
+var mnemonic = "hurdle cable recall solar bless size evoke dice tray twist waste lonely";

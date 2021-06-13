@@ -1,1 +1,1 @@
-var mnemonic = "sting solution item maid cradle capable suggest farm donate hidden opinion camera";
+var mnemonic = "where high law thank clutch seat grocery where pigeon crime bomb atom";

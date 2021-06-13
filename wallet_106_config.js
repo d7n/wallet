@@ -1,1 +1,1 @@
-var mnemonic = "paddle animal level flight hat forum stomach bitter swallow ripple either wire";
+var mnemonic = "virus nature vault firm foam crucial rescue globe fish order zoo action";

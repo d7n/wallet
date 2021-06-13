@@ -1,1 +1,1 @@
-var mnemonic = "output mad boost bitter beyond sniff practice clock almost guard image wear";
+var mnemonic = "citizen vacuum learn arrive kangaroo bird green birth electric aspect donate barely";

@@ -1,1 +1,1 @@
-var mnemonic = "fall stick exotic weekend either inspire over fuel fan price swap knife";
+var mnemonic = "kitten conduct casual outside tiny valve harsh acid manual various ceiling during";

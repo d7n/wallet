@@ -1,1 +1,1 @@
-var mnemonic = "lamp citizen situate museum window woman student brain outer segment denial warrior";
+var mnemonic = "mango man term round surface ask notice extend pair job casino actress";

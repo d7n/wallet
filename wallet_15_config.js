@@ -1,1 +1,1 @@
-var mnemonic = "stage double resist million choice prosper process banana guitar spoon inside ball";
+var mnemonic = "absurd year wink wrap dumb patch benefit coffee tribe napkin three chaos";

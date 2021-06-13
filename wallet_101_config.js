@@ -1,1 +1,1 @@
-var mnemonic = "ship wine pass hobby squeeze unique outside blood voyage act blast prosper";
+var mnemonic = "document knock vault capable cash unfair orbit buddy type inquiry close render";

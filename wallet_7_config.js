@@ -1,1 +1,1 @@
-var mnemonic = "simple chair giant torch argue speak prefer latin shallow pretty kingdom boss";
+var mnemonic = "uniform fold crystal curve galaxy mushroom surface bamboo survey fall trust pond";

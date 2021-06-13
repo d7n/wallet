@@ -1,1 +1,1 @@
-var mnemonic = "oxygen absent congress then mutual rack rich stadium deer float exercise issue";
+var mnemonic = "noodle asthma spy before mail wash dumb want promote effort include hen";

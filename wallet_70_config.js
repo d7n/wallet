@@ -1,1 +1,1 @@
-var mnemonic = "sick grit report evoke double wheat sting home eager lemon myth twist";
+var mnemonic = "guilt evolve liar visa snack tongue cloud feature middle resemble second cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "wide double rail pupil blast grant cat spring interest group collect tell";
+var mnemonic = "option turtle will beyond talent escape ginger index drum advance kitten baby";

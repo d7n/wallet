@@ -1,1 +1,1 @@
-var mnemonic = "resource million abstract dream enough remember pave enroll again chef risk used";
+var mnemonic = "business vast together exhaust until quick display unlock repeat surface violin pyramid";

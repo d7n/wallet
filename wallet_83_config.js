@@ -1,1 +1,1 @@
-var mnemonic = "video legend equal moon spray unit olive air state display trumpet rural";
+var mnemonic = "already obscure subject slow fix fix repair sport such leisure walk art";

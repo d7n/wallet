@@ -1,1 +1,1 @@
-var mnemonic = "leg indicate purchase arm pride aisle card office catalog social tone divert";
+var mnemonic = "remind snap thought height avocado strong antique turn picture oppose trophy receive";

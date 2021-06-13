@@ -1,1 +1,1 @@
-var mnemonic = "vicious tomorrow olive gain monitor scout ivory method major include ski dose";
+var mnemonic = "possible bean neck toward prevent ceiling invest venture brother divert wedding west";

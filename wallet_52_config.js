@@ -1,1 +1,1 @@
-var mnemonic = "vintage pair amateur space usual girl claim harbor describe fury enhance hole";
+var mnemonic = "theory ball tent pluck idea nephew sudden wire shallow series warfare idea";

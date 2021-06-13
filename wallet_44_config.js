@@ -1,1 +1,1 @@
-var mnemonic = "december syrup gift exact road kitchen shrug hope spray fit maximum have";
+var mnemonic = "thunder emotion dumb valid domain skate body scissors base teach speak pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin category spend utility wet picture table language shoulder opera retreat town";
+var mnemonic = "coral culture wait pumpkin keep broccoli endorse daughter receive mother emotion rally";

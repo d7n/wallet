@@ -1,1 +1,1 @@
-var mnemonic = "hold ocean garlic level smart scheme mobile settle announce journey cram monster";
+var mnemonic = "shell trigger near vault amount moon unique forget apology release engine puzzle";

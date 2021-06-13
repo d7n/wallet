@@ -1,1 +1,1 @@
-var mnemonic = "brain slender cancel catch mother popular coach fun beef monitor wide school";
+var mnemonic = "spring glare tuna young trophy mom crucial employ legend loyal lottery ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "ten stomach burger series salmon crisp remind fault summer use banana purchase";
+var mnemonic = "lizard pudding goddess speed hour sell start rule easy canoe loan weather";

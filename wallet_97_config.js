@@ -1,1 +1,1 @@
-var mnemonic = "bonus control afraid story light disagree shoulder shiver opinion purpose taste rotate";
+var mnemonic = "gospel copper blade arrange brother tag moon damp sauce where sauce child";

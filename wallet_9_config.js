@@ -1,1 +1,1 @@
-var mnemonic = "clarify bronze engage mountain grief alcohol welcome trick taste strong antique coconut";
+var mnemonic = "cross scrap base slide camp gain steak permit gate demand cradle fee";

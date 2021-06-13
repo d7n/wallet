@@ -1,1 +1,1 @@
-var mnemonic = "share satoshi lecture famous venue horror match clean evil bar dutch syrup";
+var mnemonic = "suggest hair virus grief enroll render two bird business bounce liar soccer";

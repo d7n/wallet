@@ -1,1 +1,1 @@
-var mnemonic = "comic parrot duty belt wink monkey dawn key swallow stage below brass";
+var mnemonic = "illegal word endless memory cherry report erosion steak body alert initial coil";

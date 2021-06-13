@@ -1,1 +1,1 @@
-var mnemonic = "glue action sentence coffee chest airport duck stay piano token orbit front";
+var mnemonic = "orphan soda bullet tomato cushion knife upset bottom gloom ecology devote lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "practice unveil leaf spider daughter ozone roof castle rice vacuum pig floor";
+var mnemonic = "step fantasy giggle mobile favorite host tree bonus bird spy inch tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "blue width fossil fade purchase awful twenty drink punch admit cook forget";
+var mnemonic = "swim absurd candy deny shine village borrow kitten member almost give consider";

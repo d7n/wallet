@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur piece flash music entry junior episode adjust online antique cloth imitate";
+var mnemonic = "spray source sort prize father remain size thunder symbol level cute manage";

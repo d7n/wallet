@@ -1,1 +1,1 @@
-var mnemonic = "clerk drama letter divert grape shoulder gain universe umbrella alone harsh time";
+var mnemonic = "gather chalk denial table mushroom stage immune poverty shield drip lend invite";

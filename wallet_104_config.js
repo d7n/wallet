@@ -1,1 +1,1 @@
-var mnemonic = "heavy soldier girl dinosaur dish machine tourist weekend boat fun under escape";
+var mnemonic = "wall detail neck fade farm concert evidence outer proud doctor model aim";

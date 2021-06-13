@@ -1,1 +1,1 @@
-var mnemonic = "give nice stand blind vocal fossil easy cheese stay crop cool cancel";
+var mnemonic = "demise twelve grid derive dress under urge lift green gadget amount organ";

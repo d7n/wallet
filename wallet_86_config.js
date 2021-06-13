@@ -1,1 +1,1 @@
-var mnemonic = "angry example donate security spatial ride ankle anchor remain fitness manage depth";
+var mnemonic = "later around scrap famous shoulder filter season drastic slot afford valid zone";

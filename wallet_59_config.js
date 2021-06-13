@@ -1,1 +1,1 @@
-var mnemonic = "melt bounce front joke diet hotel clip initial candy erosion dutch output";
+var mnemonic = "maximum reward sign hill clay convince hope super height loyal chair pencil";

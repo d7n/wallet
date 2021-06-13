@@ -1,1 +1,1 @@
-var mnemonic = "advice plastic wheat undo thank proud run general surprise build fragile vessel";
+var mnemonic = "transfer shrimp address huge spider tissue demand ancient ensure square demand weird";

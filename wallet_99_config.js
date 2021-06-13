@@ -1,1 +1,1 @@
-var mnemonic = "gasp cricket orphan ketchup curtain long antique future below erupt hub sock";
+var mnemonic = "resemble social hundred elevator color balcony crouch joke idea aisle strategy subway";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep soccer rose ready army task swear scare finish tortoise burden decide";
+var mnemonic = "swamp spot write odor smoke shuffle arctic project motor oyster very print";

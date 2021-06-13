@@ -1,1 +1,1 @@
-var mnemonic = "prize quarter check proof receive grape obey mail fuel autumn eagle tide";
+var mnemonic = "three entry setup admit surprise warrior fancy neck elegant grocery supply confirm";

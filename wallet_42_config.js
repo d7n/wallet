@@ -1,1 +1,1 @@
-var mnemonic = "cigar dwarf enhance artefact puppy main hollow differ winter huge bunker series";
+var mnemonic = "mosquito salt head isolate thunder final celery access live rough cook used";

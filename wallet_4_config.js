@@ -1,1 +1,1 @@
-var mnemonic = "diamond husband vintage tongue pitch toddler logic improve cycle keep symbol wire";
+var mnemonic = "drift pink people truck fitness join trick welcome else magic mystery aim";

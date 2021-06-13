@@ -1,1 +1,1 @@
-var mnemonic = "dial tomorrow sick empower problem cool oyster inspire suffer duty select wrong";
+var mnemonic = "junk kid consider friend exit logic regret mad salon scrub wing flip";

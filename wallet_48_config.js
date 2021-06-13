@@ -1,1 +1,1 @@
-var mnemonic = "check security faculty wrestle kite toddler isolate injury satisfy winner oxygen outside";
+var mnemonic = "staff shove run audit boil seek color season glue melt neck mixed";

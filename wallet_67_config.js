@@ -1,1 +1,1 @@
-var mnemonic = "equip bottom home belt dress someone usage digital budget what note present";
+var mnemonic = "someone gallery since nest palace patch garbage ugly park rain bachelor nut";

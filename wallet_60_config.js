@@ -1,1 +1,1 @@
-var mnemonic = "bus shed neglect make notice kingdom fancy arrange victory canal vote vacant";
+var mnemonic = "table swap sadness two tent senior purse neglect lizard acoustic solar million";

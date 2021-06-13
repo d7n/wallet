@@ -1,1 +1,1 @@
-var mnemonic = "gap vehicle rabbit benefit stem vault fish toddler cruise lake sample glance";
+var mnemonic = "stage window ceiling shrimp reveal term floor story sword park gesture announce";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist load wire sunny denial wait raven hair east case spend deputy";
+var mnemonic = "mouse mesh token lab virtual virtual brick evolve phone flock churn trade";

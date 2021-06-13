@@ -1,1 +1,1 @@
-var mnemonic = "blast art finger member they valley language purpose example artist become differ";
+var mnemonic = "hurdle clutch medal ostrich notice walk plug bleak disagree unveil social crunch";

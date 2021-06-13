@@ -1,1 +1,1 @@
-var mnemonic = "patient warrior capital code damage appear good talk tag sausage taxi pulse";
+var mnemonic = "emerge nerve half bitter loyal scrap call cream conduct velvet silk gravity";

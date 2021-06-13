@@ -1,1 +1,1 @@
-var mnemonic = "snap proud describe discover affair attend broom air chunk outer pencil today";
+var mnemonic = "common garden supreme permit square sound torch orange work bread web mesh";

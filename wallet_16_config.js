@@ -1,1 +1,1 @@
-var mnemonic = "manual fever original choose crucial card taste globe primary approve girl polar";
+var mnemonic = "deposit economy still peanut return camp volcano adult wedding build spend hurry";

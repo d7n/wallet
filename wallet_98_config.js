@@ -1,1 +1,1 @@
-var mnemonic = "margin dog music brisk apart jacket immense game net upon swim bring";
+var mnemonic = "this ethics comic opera tribe curtain marriage avocado valley love crisp print";

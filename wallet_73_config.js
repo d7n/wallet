@@ -1,1 +1,1 @@
-var mnemonic = "capable filter weird plug renew crystal topple kangaroo during nephew obtain waste";
+var mnemonic = "gas immune stove thunder bleak brother remove earn guilt change process usage";

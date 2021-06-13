@@ -1,1 +1,1 @@
-var mnemonic = "blossom wine kit worry fine excuse mimic front angry fee drink exile";
+var mnemonic = "busy gaze clean demise slab unique tenant soup normal jump cave library";

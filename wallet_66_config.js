@@ -1,1 +1,1 @@
-var mnemonic = "chimney toward poverty sniff nephew carbon save empty surround loan cushion tissue";
+var mnemonic = "crush pig fat dial intact sing pave rotate breeze butter project this";

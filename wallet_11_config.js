@@ -1,1 +1,1 @@
-var mnemonic = "age chase other age lounge net token social mystery indicate blue ship";
+var mnemonic = "swear crowd toast repair unlock slice shoulder liquid crack oven glimpse supply";

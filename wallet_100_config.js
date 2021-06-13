@@ -1,1 +1,1 @@
-var mnemonic = "frown three train castle napkin park ankle refuse labor ranch orient improve";
+var mnemonic = "dust sock bitter churn write monster rely age excuse blur scrub clinic";

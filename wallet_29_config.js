@@ -1,1 +1,1 @@
-var mnemonic = "enroll defy quiz under home dress nasty visa blue kit venue cart";
+var mnemonic = "wood artist basket bread mention absent bamboo often rule exercise excuse blanket";

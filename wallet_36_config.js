@@ -1,1 +1,1 @@
-var mnemonic = "rescue crisp brief earn void else nominee blouse piano gown alarm muffin";
+var mnemonic = "abandon tilt swarm problem abandon call same cherry stone toddler actor fiber";

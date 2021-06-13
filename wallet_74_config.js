@@ -1,1 +1,1 @@
-var mnemonic = "scorpion goose simple pulp picnic pumpkin tongue legal wrist save inform lawn";
+var mnemonic = "weird dust matrix wealth elevator plastic certain throw puzzle loan sugar burst";

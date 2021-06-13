@@ -1,1 +1,1 @@
-var mnemonic = "major muscle expose toddler group disease profit velvet regret frost betray remove";
+var mnemonic = "donkey diamond payment shadow powder any client voice mass goose law jacket";

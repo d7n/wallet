@@ -1,1 +1,1 @@
-var mnemonic = "topple hospital turkey cereal slender submit bleak venue impulse crane inner orchard";
+var mnemonic = "earn slot build other antique lonely advance visa welcome body rib hill";

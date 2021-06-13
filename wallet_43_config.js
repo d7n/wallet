@@ -1,1 +1,1 @@
-var mnemonic = "correct author group solar usual grunt vault holiday stumble duty miss beauty";
+var mnemonic = "arrow echo library orphan paddle sing piano theory worry fuel photo second";

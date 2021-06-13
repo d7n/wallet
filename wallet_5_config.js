@@ -1,1 +1,1 @@
-var mnemonic = "enlist south merry attract strike major intact explain wagon shoe talent mimic";
+var mnemonic = "curtain tide under spare discover off umbrella wink gym key edit praise";
