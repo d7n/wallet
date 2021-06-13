@@ -1,1 +1,1 @@
-var mnemonic = "always river airport speed year onion reject live useful couple security usual";
+var mnemonic = "insane hungry primary unfair hedgehog better guide hobby rival defense interest grass";

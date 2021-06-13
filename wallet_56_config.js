@@ -1,1 +1,1 @@
-var mnemonic = "primary upset uncover degree dutch recipe unknown decorate inmate finish slot tonight";
+var mnemonic = "ignore velvet object claim beef response radio collect wheel merge upset tragic";

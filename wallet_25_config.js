@@ -1,1 +1,1 @@
-var mnemonic = "collect flag prosper fire donkey hole buyer alarm magic mercy alcohol medal";
+var mnemonic = "lecture document hedgehog loop fog liquid usual donate rigid mixture glass dry";

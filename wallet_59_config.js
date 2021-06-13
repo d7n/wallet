@@ -1,1 +1,1 @@
-var mnemonic = "few keen cream ahead wage shoe fiber rib image mystery supply catch";
+var mnemonic = "weird lake fossil place rain best random drink someone chuckle decorate unusual";

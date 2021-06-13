@@ -1,1 +1,1 @@
-var mnemonic = "mistake jump tent egg popular pear mansion exercise riot sort slogan ceiling";
+var mnemonic = "token lucky elevator leave kiss front brand salute flight train repair sugar";

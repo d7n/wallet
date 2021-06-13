@@ -1,1 +1,1 @@
-var mnemonic = "there text always grit skin question merry blouse guard body mansion memory";
+var mnemonic = "drastic candy soap pause asthma budget wrap oyster guitar swift soap celery";

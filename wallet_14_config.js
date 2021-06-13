@@ -1,1 +1,1 @@
-var mnemonic = "faith fortune prosper evil disagree silly learn august cream saddle clutch trophy";
+var mnemonic = "one shallow angle borrow valve salon memory people vessel palace symbol guilt";

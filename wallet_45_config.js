@@ -1,1 +1,1 @@
-var mnemonic = "patrol clerk legend floor gorilla reduce drift palm misery hold cradle write";
+var mnemonic = "diagram moment swarm festival enhance obey tooth attract bag sugar stage monitor";

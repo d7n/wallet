@@ -1,1 +1,1 @@
-var mnemonic = "ticket rib shadow still art help world please stuff peasant film velvet";
+var mnemonic = "shrug between calm brown soap clown win sauce enact gap empower verify";

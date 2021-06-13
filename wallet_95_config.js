@@ -1,1 +1,1 @@
-var mnemonic = "gospel frog awful immune vague away cook brisk advance palm waste bullet";
+var mnemonic = "adjust hollow mean such blur trim chalk jacket tool zebra grain galaxy";

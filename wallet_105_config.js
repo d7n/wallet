@@ -1,1 +1,1 @@
-var mnemonic = "random vendor edit width future sign era time bullet click mango doctor";
+var mnemonic = "milk motor pumpkin sure museum put world remain immune laugh pluck crop";

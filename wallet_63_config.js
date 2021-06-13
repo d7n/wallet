@@ -1,1 +1,1 @@
-var mnemonic = "common cattle beach jewel snap end height around chalk unveil predict kid";
+var mnemonic = "also position voice material alone outdoor sheriff cute photo story woman talk";

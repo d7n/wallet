@@ -1,1 +1,1 @@
-var mnemonic = "law twist slender welcome type fox now universe nurse deposit type vendor";
+var mnemonic = "chapter burst hazard harvest siege argue chest capital waste couple march mom";

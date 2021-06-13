@@ -1,1 +1,1 @@
-var mnemonic = "energy position furnace craft where endorse thumb stereo thing spatial vicious off";
+var mnemonic = "flip receive animal intact vacuum strike pipe where winner indicate speak wink";

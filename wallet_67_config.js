@@ -1,1 +1,1 @@
-var mnemonic = "drama refuse adult problem swear average car hollow crane cram piano action";
+var mnemonic = "jewel strategy sorry action ill load project gate small inquiry flip culture";

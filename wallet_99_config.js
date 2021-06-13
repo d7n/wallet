@@ -1,1 +1,1 @@
-var mnemonic = "deposit increase slide slow session false stadium impose cheap sock pulse jealous";
+var mnemonic = "design border grape diamond sting cube already salon ghost diary believe notable";

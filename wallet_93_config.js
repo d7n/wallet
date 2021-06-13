@@ -1,1 +1,1 @@
-var mnemonic = "motion copy ostrich youth option town mansion kitten approve more actor hello";
+var mnemonic = "staff salad kid behave elevator dress ghost length enjoy atom risk keep";

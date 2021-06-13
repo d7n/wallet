@@ -1,1 +1,1 @@
-var mnemonic = "layer elder image fuel kite safe engage more similar all raven plastic";
+var mnemonic = "bonus produce video nasty want toy gasp camera anger volume save street";

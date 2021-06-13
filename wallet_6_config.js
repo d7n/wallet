@@ -1,1 +1,1 @@
-var mnemonic = "clump boss any resist brass birth human believe nothing language nice sleep";
+var mnemonic = "cluster route nerve guide define mosquito lecture bring faculty indicate snake injury";

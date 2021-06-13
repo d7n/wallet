@@ -1,1 +1,1 @@
-var mnemonic = "present horn zebra peasant quote zoo worth jacket material rough rail tired";
+var mnemonic = "regular onion sting tide produce gate horse month salute output art garlic";

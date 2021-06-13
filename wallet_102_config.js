@@ -1,1 +1,1 @@
-var mnemonic = "skill collect term tenant stomach stove spirit equip cross believe loud want";
+var mnemonic = "control swamp diagram tent boat float lumber nuclear height boy couple blouse";

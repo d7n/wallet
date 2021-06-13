@@ -1,1 +1,1 @@
-var mnemonic = "gate right noise weather debate churn regret staff when cattle water slush";
+var mnemonic = "bus victory pool rapid tired tray problem must vault often cradle cigar";

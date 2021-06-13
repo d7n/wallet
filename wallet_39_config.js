@@ -1,1 +1,1 @@
-var mnemonic = "rice game urban bulb drill beef wrong plate artefact change problem average";
+var mnemonic = "napkin list vicious wait message actual program hidden comic cool humor know";

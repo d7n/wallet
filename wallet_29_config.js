@@ -1,1 +1,1 @@
-var mnemonic = "junior payment front evil spider judge tennis thing spoil you sphere use";
+var mnemonic = "cart hurt crumble picture uphold gaze struggle pause simple floor air mushroom";

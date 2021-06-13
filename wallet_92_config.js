@@ -1,1 +1,1 @@
-var mnemonic = "short rate shoulder extend charge brisk rival pioneer rookie disorder address over";
+var mnemonic = "lunch rigid myth fatal emotion alert roof answer city ordinary scare toilet";

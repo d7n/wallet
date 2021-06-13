@@ -1,1 +1,1 @@
-var mnemonic = "outside credit clown waste come virus warm jewel such immense unhappy ice";
+var mnemonic = "oil fringe clutch satoshi melt slice dish day decide scheme cloth before";

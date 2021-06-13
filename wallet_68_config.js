@@ -1,1 +1,1 @@
-var mnemonic = "year snack brush history square bracket sorry bus pole claim violin poem";
+var mnemonic = "beef child fine only across junk canvas quote acoustic silver plate anxiety";

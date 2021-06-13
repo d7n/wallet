@@ -1,1 +1,1 @@
-var mnemonic = "dirt member weather gift minute egg vital task banner soccer thumb run";
+var mnemonic = "lion pill accident tragic truck raw spray crop pony crane grape rather";

@@ -1,1 +1,1 @@
-var mnemonic = "cement magic grab ostrich category access wisdom crouch arrest devote minor noble";
+var mnemonic = "leaf maple hello tape toward bone narrow giggle extra above pass amazing";

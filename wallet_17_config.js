@@ -1,1 +1,1 @@
-var mnemonic = "slogan remove zebra thought dizzy smoke april pretty wife action price night";
+var mnemonic = "seven travel captain forum staff grape east only sail analyst mail sound";

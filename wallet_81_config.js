@@ -1,1 +1,1 @@
-var mnemonic = "sausage input goat door denial genius flame fluid junk easily dash clock";
+var mnemonic = "exit pear patch hundred embark antique process resist blouse divert truck aim";

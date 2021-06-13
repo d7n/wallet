@@ -1,1 +1,1 @@
-var mnemonic = "bus mystery grocery stable bounce behind another wish garbage slam nation horn";
+var mnemonic = "advance panther beauty journey tomato seek ski peanut ball wink observe spread";

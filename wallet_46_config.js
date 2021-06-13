@@ -1,1 +1,1 @@
-var mnemonic = "unknown rate pink eager license frost smoke bulk boil proud model ritual";
+var mnemonic = "glory profit umbrella seek harbor rapid program deputy robot square cheap unit";

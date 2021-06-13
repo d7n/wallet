@@ -1,1 +1,1 @@
-var mnemonic = "huge endless service cable cargo vendor among husband property focus hawk goat";
+var mnemonic = "peace lend double duck course pulp unit congress pupil search struggle asthma";

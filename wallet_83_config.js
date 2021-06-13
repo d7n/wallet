@@ -1,1 +1,1 @@
-var mnemonic = "excuse zoo abandon couch flip sense isolate asset subway fresh glance health";
+var mnemonic = "flat curious marine cool veteran risk recipe spy hurry erosion inherit honey";

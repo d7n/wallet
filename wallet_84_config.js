@@ -1,1 +1,1 @@
-var mnemonic = "orange enjoy traffic service edit shoe hunt stable palm holiday stem system";
+var mnemonic = "evil label start exile robot height defense nuclear swamp space ill guilt";

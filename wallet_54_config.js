@@ -1,1 +1,1 @@
-var mnemonic = "verb park leader also joke sudden property panda pole peanut breeze employ";
+var mnemonic = "casino marble jelly act issue chief inside fine can road mix scheme";

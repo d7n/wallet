@@ -1,1 +1,1 @@
-var mnemonic = "bring bounce shallow six found flavor retire dinner expect direct safe float";
+var mnemonic = "elbow fatigue answer alert inspire airport sample climb shock school magnet magic";

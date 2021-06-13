@@ -1,1 +1,1 @@
-var mnemonic = "misery lunar skin easy novel churn garment curtain normal regular mass pig";
+var mnemonic = "endless random hawk derive vessel carbon blind lounge opera comic gauge anxiety";

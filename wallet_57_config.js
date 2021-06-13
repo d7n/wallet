@@ -1,1 +1,1 @@
-var mnemonic = "blue drama broccoli retire color sugar repeat tumble bottom category major trick";
+var mnemonic = "box fence report inject love limb forest section afraid hotel morning swear";

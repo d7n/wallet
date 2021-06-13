@@ -1,1 +1,1 @@
-var mnemonic = "stove fuel globe pizza real citizen avoid situate breeze shoe what dust";
+var mnemonic = "manual trouble burst rapid obvious table peasant junior grain pink inspire range";

@@ -1,1 +1,1 @@
-var mnemonic = "weather divide pizza tell aisle ball level midnight exercise ceiling supreme hurt";
+var mnemonic = "skin cheese trim trigger garbage dose sweet private about invest annual dune";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic like tell purse hand joy solve air humor paper key exclude";
+var mnemonic = "require crouch moral shield river black garden dumb blanket brain quality sword";

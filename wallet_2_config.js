@@ -1,1 +1,1 @@
-var mnemonic = "kiwi nerve staff narrow quarter rare leisure kangaroo weekend gas adapt cigar";
+var mnemonic = "crater recipe merry angle sock enjoy gesture fine brush ramp exclude agent";

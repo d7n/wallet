@@ -1,1 +1,1 @@
-var mnemonic = "ramp van flip crop valid toy right visual light owner spatial chronic";
+var mnemonic = "about husband royal notice island over street retreat travel option decade rather";

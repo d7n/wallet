@@ -1,1 +1,1 @@
-var mnemonic = "rubber aware kingdom sea cloud social urban insane armed stay parade famous";
+var mnemonic = "edit slogan clean hockey lazy equip scan stone resist month drastic lottery";

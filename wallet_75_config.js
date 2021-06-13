@@ -1,1 +1,1 @@
-var mnemonic = "ceiling dance ticket cinnamon suggest result cheese spike lumber kid burden write";
+var mnemonic = "nice approve harvest demand radio vault piece often antique menu post impulse";

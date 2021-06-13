@@ -1,1 +1,1 @@
-var mnemonic = "naive nephew pig grunt plug riot proof olympic sunny indicate trouble frequent";
+var mnemonic = "impact become absent term cry glance planet gun vapor slush economy layer";

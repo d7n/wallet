@@ -1,1 +1,1 @@
-var mnemonic = "tiny capital culture obtain camera praise foster enact now slab detect pottery";
+var mnemonic = "raise royal start exercise mistake verb alert island bomb tobacco super plate";

@@ -1,1 +1,1 @@
-var mnemonic = "staff diagram grunt urban car arctic model quality empty bean melt impulse";
+var mnemonic = "animal dirt plastic inmate scissors clown zoo act mesh best use fog";

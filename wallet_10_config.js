@@ -1,1 +1,1 @@
-var mnemonic = "where unveil brother sample pole patrol credit vicious shell orange supreme oak";
+var mnemonic = "below fresh much enemy crack cereal relax destroy cover scout before milk";

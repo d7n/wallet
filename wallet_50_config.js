@@ -1,1 +1,1 @@
-var mnemonic = "category tree catalog tape garden stamp flat wool harvest marble beef enter";
+var mnemonic = "nephew laugh athlete account voyage cream occur fine search color demise kite";

@@ -1,1 +1,1 @@
-var mnemonic = "foot gauge wink midnight act tomato eager reopen kitchen memory quality side";
+var mnemonic = "gate ecology person emerge token runway utility rabbit warfare judge slam kid";

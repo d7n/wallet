@@ -1,1 +1,1 @@
-var mnemonic = "track charge faint raccoon aisle squirrel balcony throw fix inside family unveil";
+var mnemonic = "time execute pen wrestle drip minor cliff frame tree mandate ship mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "winter smooth toward coffee piano jump clutch crop oval two surface jeans";
+var mnemonic = "crunch hungry script silly sweet bubble tonight forward over unfair wine version";

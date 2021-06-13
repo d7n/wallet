@@ -1,1 +1,1 @@
-var mnemonic = "claw pupil slab bone upset measure brisk explain swift shoulder major wealth";
+var mnemonic = "chunk govern promote clay horror armor front chief cereal bind patrol upset";

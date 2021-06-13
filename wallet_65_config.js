@@ -1,1 +1,1 @@
-var mnemonic = "deputy saddle tomorrow never viable veteran tomato science list point know skull";
+var mnemonic = "crouch nation thunder bicycle grace whip special rhythm excess visual away member";

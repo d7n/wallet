@@ -1,1 +1,1 @@
-var mnemonic = "grunt toilet head burst open scare beef alarm valley physical dash load";
+var mnemonic = "puppy barely gentle electric bus train dream sleep enlist oyster transfer option";

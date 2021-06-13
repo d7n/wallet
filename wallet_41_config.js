@@ -1,1 +1,1 @@
-var mnemonic = "help poverty meadow access eye advance island identify machine salmon zone payment";
+var mnemonic = "second fuel afraid clock response envelope final gold balance garment affair ten";

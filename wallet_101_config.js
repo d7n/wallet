@@ -1,1 +1,1 @@
-var mnemonic = "soup grab orchard illness frame leave window phrase clump release helmet skin";
+var mnemonic = "follow above violin merry photo say repeat census lava mystery boy symbol";

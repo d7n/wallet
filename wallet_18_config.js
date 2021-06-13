@@ -1,1 +1,1 @@
-var mnemonic = "permit escape soccer office okay ramp miracle object cart insane dust renew";
+var mnemonic = "decade crop still urge mercy top never stock square occur airport radar";

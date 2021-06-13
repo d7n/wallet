@@ -1,1 +1,1 @@
-var mnemonic = "waste note tell real elite fiscal kind vicious blossom scrap energy aerobic";
+var mnemonic = "enough liquid tuition pool strong world square sister poet wet north mystery";

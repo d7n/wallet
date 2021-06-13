@@ -1,1 +1,1 @@
-var mnemonic = "miracle across pigeon wheat marine pole priority render battle label access leader";
+var mnemonic = "color sleep auction patient quick purchase ready brown alien rapid magnet rail";

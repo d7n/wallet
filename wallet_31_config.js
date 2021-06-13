@@ -1,1 +1,1 @@
-var mnemonic = "frame rate barrel usual olive affair step velvet speed profit soda ask";
+var mnemonic = "finish neither discover loud cannon sting flush liar lizard short suspect barely";

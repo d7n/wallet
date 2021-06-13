@@ -1,1 +1,1 @@
-var mnemonic = "chuckle crack rubber plunge proud rebuild south pet syrup liar science outside";
+var mnemonic = "much melt farm supply profit marine ankle inject defense leisure dawn roast";

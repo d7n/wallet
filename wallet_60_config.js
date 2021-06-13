@@ -1,1 +1,1 @@
-var mnemonic = "car diagram regular abandon must video city silly very ski feed pencil";
+var mnemonic = "tip salute layer milk asthma agree accident diary cactus puzzle shield game";

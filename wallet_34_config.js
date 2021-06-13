@@ -1,1 +1,1 @@
-var mnemonic = "trigger agent risk acquire border portion first poverty horn friend notable shy";
+var mnemonic = "strategy thumb basic fabric shield buzz window flock vibrant siren arrange accuse";

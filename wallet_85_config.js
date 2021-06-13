@@ -1,1 +1,1 @@
-var mnemonic = "organ struggle hurry happy orange inch rain wedding valve guitar wage sight";
+var mnemonic = "project steel violin story orchard genuine output obey seven cruise jewel lava";

@@ -1,1 +1,1 @@
-var mnemonic = "okay pumpkin stuff today usage flavor elder improve home tent helmet improve";
+var mnemonic = "wife arrest network guide hamster finish maid boat custom friend dirt ribbon";

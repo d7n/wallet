@@ -1,1 +1,1 @@
-var mnemonic = "build scale shrimp field slender life ability lens always ankle mushroom upset";
+var mnemonic = "veteran october glare mansion top nominee monitor ordinary humble winner hat flee";

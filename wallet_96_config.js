@@ -1,1 +1,1 @@
-var mnemonic = "bird diet poet indoor glare key mercy innocent brick demise frost vendor";
+var mnemonic = "walnut expect wide bounce tenant century goose retreat battle eight tag utility";

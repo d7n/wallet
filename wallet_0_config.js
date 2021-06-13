@@ -1,1 +1,1 @@
-var mnemonic = "grant tumble resemble token mind record vibrant bid wedding limb ripple skirt";
+var mnemonic = "lift force collect advice pelican person time taxi credit bargain start clinic";

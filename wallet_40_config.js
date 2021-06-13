@@ -1,1 +1,1 @@
-var mnemonic = "middle girl cost chef jeans melt staff butter planet plug burden abuse";
+var mnemonic = "alarm opera never simple winter simple angry they then exercise knife gain";

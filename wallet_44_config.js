@@ -1,1 +1,1 @@
-var mnemonic = "fever banana seven paper captain raven scan spread great craft exhaust version";
+var mnemonic = "immense glove island rotate test scale shed please lamp edit program dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "moon category hammer consider typical between nation food ethics rural aspect fee";
+var mnemonic = "anchor pony goddess connect rain purse cereal pet bicycle card luxury media";

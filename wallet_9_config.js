@@ -1,1 +1,1 @@
-var mnemonic = "despair churn visa ball exist hover type nothing weapon erosion drama pull";
+var mnemonic = "chunk segment senior chicken rude settle stereo rabbit draft gorilla inch fee";

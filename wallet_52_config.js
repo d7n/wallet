@@ -1,1 +1,1 @@
-var mnemonic = "raise bean suffer depth merit around scale rare captain mammal help motor";
+var mnemonic = "champion found belt gentle random express club crater today easily lady camp";

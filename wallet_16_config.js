@@ -1,1 +1,1 @@
-var mnemonic = "burger walk horse begin borrow reduce rubber write prize document pill verify";
+var mnemonic = "addict order upon ensure clip flavor eager remove immune trigger approve visual";

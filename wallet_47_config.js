@@ -1,1 +1,1 @@
-var mnemonic = "wide duck execute recall quantum bridge quit apart crack final custom obvious";
+var mnemonic = "vocal pipe excite hammer sausage slim gravity ability album struggle desk settle";

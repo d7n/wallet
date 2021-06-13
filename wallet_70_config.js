@@ -1,1 +1,1 @@
-var mnemonic = "wave weird group remove ladder catch elite crane trophy spend stay scissors";
+var mnemonic = "wrap door busy flavor about sun trick cycle keen detail flock twin";

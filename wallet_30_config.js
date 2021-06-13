@@ -1,1 +1,1 @@
-var mnemonic = "raven leave odor behave unhappy ugly phone fit shrimp barely blame mom";
+var mnemonic = "life forum glide much hover worth limit vague fury decrease history march";

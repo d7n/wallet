@@ -1,1 +1,1 @@
-var mnemonic = "bleak fit pattern pelican index hen beach hurt lava demand dutch oven";
+var mnemonic = "dress like old secret claw auction machine purity injury jump detail absent";

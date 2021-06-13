@@ -1,1 +1,1 @@
-var mnemonic = "elder remain either rice island skirt accident picture loop ignore dentist later";
+var mnemonic = "worth gold donkey curtain topple moral inmate little catch pull never immune";

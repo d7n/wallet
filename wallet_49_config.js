@@ -1,1 +1,1 @@
-var mnemonic = "source original globe basket room face manage clutch charge naive egg tourist";
+var mnemonic = "sure opinion universe web creek drama brief monster average discover daughter slice";

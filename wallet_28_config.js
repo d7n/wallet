@@ -1,1 +1,1 @@
-var mnemonic = "fee arrow long notable winner sauce mean drift note include scout frog";
+var mnemonic = "sun replace merry vacant west cradle anchor firm family wagon kit when";
