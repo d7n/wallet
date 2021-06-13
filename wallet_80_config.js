@@ -1,1 +1,1 @@
-var mnemonic = "sponsor above domain film ribbon cradle any bicycle police umbrella pride essence";
+var mnemonic = "any toss high volcano bronze mail almost bounce easy code nest betray";

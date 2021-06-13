@@ -1,1 +1,1 @@
-var mnemonic = "brief castle blanket magic region output proof dune narrow melody among you";
+var mnemonic = "random kitten waste catalog cube wheat future butter vacuum inflict topple secret";

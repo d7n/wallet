@@ -1,1 +1,1 @@
-var mnemonic = "raise alien toe civil ahead nuclear knee magnet session find clog ladder";
+var mnemonic = "stumble balance fetch sport blur chapter usual swear convince happy image salute";

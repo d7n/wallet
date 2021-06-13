@@ -1,1 +1,1 @@
-var mnemonic = "attend hawk antique dawn between govern sad measure knock burst monster emerge";
+var mnemonic = "next chuckle help main initial equal adjust undo enlist tag cruel stage";

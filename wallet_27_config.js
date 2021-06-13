@@ -1,1 +1,1 @@
-var mnemonic = "borrow embrace bulb enough ordinary figure damage embody occur invite toddler either";
+var mnemonic = "spike spider actual nose palace hire awkward opinion pulp staff cancel disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "gate together cargo action cousin search dune guitar lens grow source airport";
+var mnemonic = "rice mirror lounge foil bind drive seminar become interest middle magic uphold";

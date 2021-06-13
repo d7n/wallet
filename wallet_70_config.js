@@ -1,1 +1,1 @@
-var mnemonic = "boat feature velvet entry since cook garden stem wisdom denial visa fancy";
+var mnemonic = "balance fault rare bone online cliff provide move random weather pen cream";

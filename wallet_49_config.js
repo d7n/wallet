@@ -1,1 +1,1 @@
-var mnemonic = "unknown lesson lecture potato hip exotic adult drum glance night wasp replace";
+var mnemonic = "memory embrace climb predict desk loop grain hawk license direct middle brown";

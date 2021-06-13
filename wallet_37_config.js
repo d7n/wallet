@@ -1,1 +1,1 @@
-var mnemonic = "sugar day finish blast casino rookie rib noble gauge where nice reflect";
+var mnemonic = "hen inmate dirt pitch drama fade shoot screen pigeon water liar join";

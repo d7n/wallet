@@ -1,1 +1,1 @@
-var mnemonic = "arrest steel sentence bean caught ladder noble must return start brisk rather";
+var mnemonic = "spin swim east mango lesson problem toy tattoo wage clap submit industry";

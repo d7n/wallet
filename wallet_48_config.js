@@ -1,1 +1,1 @@
-var mnemonic = "vacant buddy voyage blind honey shell urge love dinosaur define recall material";
+var mnemonic = "connect aim hint banana bronze certain ill wrong lion miss elevator nation";

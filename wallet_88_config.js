@@ -1,1 +1,1 @@
-var mnemonic = "sail calm fiscal plug staff define sphere lens harvest prize wear creek";
+var mnemonic = "session local actual dove true other pet seminar burden asthma gaze drum";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle wear scale wink fine ice cool cram grape hour unaware goddess";
+var mnemonic = "beach panel hub combine clean hire purpose tennis lab square dilemma resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "sing reason vivid neglect exist jump offer strike chimney eager pear spatial";
+var mnemonic = "rough inch cable hidden project palace page fish hand long pond walnut";

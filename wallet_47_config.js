@@ -1,1 +1,1 @@
-var mnemonic = "vendor burst thumb unhappy foster because fitness kick doll trouble silk service";
+var mnemonic = "width clean echo opinion indicate endless celery milk arrow use organ volume";

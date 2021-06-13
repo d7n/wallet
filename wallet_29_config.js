@@ -1,1 +1,1 @@
-var mnemonic = "donate tag capable report element erosion pool solution east marine fury gas";
+var mnemonic = "afraid skull develop olympic caution decorate erosion toast dish pink wild fox";

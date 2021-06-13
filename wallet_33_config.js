@@ -1,1 +1,1 @@
-var mnemonic = "there puzzle lake melt wealth bind portion machine verb enter alien fox";
+var mnemonic = "brain lake company cup cash solution poverty grape goose you success urban";

@@ -1,1 +1,1 @@
-var mnemonic = "that main rib actor mystery rhythm join verb age vote insane hero";
+var mnemonic = "desert miss vessel remember perfect reject bonus fall enter economy area craft";

@@ -1,1 +1,1 @@
-var mnemonic = "rice same want bridge charge embody patch cargo route monster custom pencil";
+var mnemonic = "follow kangaroo neck under blast eternal maple tongue cage loud play planet";

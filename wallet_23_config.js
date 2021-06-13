@@ -1,1 +1,1 @@
-var mnemonic = "lobster around pipe odor render pen peace holiday duck old identify usage";
+var mnemonic = "piano reopen hour arm develop concert spread gravity another naive artist pill";

@@ -1,1 +1,1 @@
-var mnemonic = "sock say more emerge leisure spread opinion anchor debris fun gadget blur";
+var mnemonic = "dog prize nasty divorce hint zoo zoo brisk surround carbon poet genre";

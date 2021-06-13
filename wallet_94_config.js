@@ -1,1 +1,1 @@
-var mnemonic = "pull whip fragile mother disorder child student phone exist accident plastic outdoor";
+var mnemonic = "favorite bench kick tool employ artwork pledge dial car various mother hope";

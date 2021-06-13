@@ -1,1 +1,1 @@
-var mnemonic = "much abuse enroll giant tribe primary focus possible maximum base wrestle cause";
+var mnemonic = "game style illegal cereal harsh marriage noodle drift poem angle control laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle arch input circle waste lottery enact fall pipe steak gate nurse";
+var mnemonic = "build group card palm finger hand digital bird circle focus fluid main";

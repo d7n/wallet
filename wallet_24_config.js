@@ -1,1 +1,1 @@
-var mnemonic = "swallow canal evidence furnace torch stable used possible setup frown employ ignore";
+var mnemonic = "leisure receive spin success hunt coyote toast pudding forum fog try kiss";

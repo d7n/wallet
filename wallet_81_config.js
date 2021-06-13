@@ -1,1 +1,1 @@
-var mnemonic = "spend true meadow spike company shuffle believe imitate mixture fetch bus awful";
+var mnemonic = "describe current promote loop spice border resemble vicious zone volume avocado empower";

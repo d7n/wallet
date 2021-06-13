@@ -1,1 +1,1 @@
-var mnemonic = "snap protect grief copper between volume harsh hollow today this lucky urban";
+var mnemonic = "public grant online suggest steak journey absorb metal hundred supply road rapid";

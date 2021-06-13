@@ -1,1 +1,1 @@
-var mnemonic = "cabin cigar neglect exhaust run vintage penalty exit dumb main seven curious";
+var mnemonic = "hawk bring sibling try universe path virtual curious measure awkward vacuum then";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap crush round dynamic debris decrease income unlock maze congress thrive burden";
+var mnemonic = "lecture glow atom sibling motion suggest minimum globe guard fruit phrase average";

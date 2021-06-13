@@ -1,1 +1,1 @@
-var mnemonic = "marriage clog elder frog trash pull island gloom tray brief convince reduce";
+var mnemonic = "ask supreme liquid veteran snack seek angle blossom text caution mother close";

@@ -1,1 +1,1 @@
-var mnemonic = "bind year scale enough witness above august scout swallow earn clown roof";
+var mnemonic = "sell cancel between sense system breeze slender two story crime consider brain";

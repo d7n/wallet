@@ -1,1 +1,1 @@
-var mnemonic = "afford slide board jewel farm output swap carry brand leisure bird local";
+var mnemonic = "author purchase attract borrow surround hobby fragile fashion mind evolve news heart";

@@ -1,1 +1,1 @@
-var mnemonic = "maple kiss enemy pudding first wreck innocent update sorry stock confirm boy";
+var mnemonic = "day mind card point lunch beauty eagle ankle hurdle rice talent brush";

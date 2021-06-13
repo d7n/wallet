@@ -1,1 +1,1 @@
-var mnemonic = "drill kitten champion cheese edge come disorder planet shift height hard puzzle";
+var mnemonic = "dance brush gaze palm trophy again company staff injury belt april snow";

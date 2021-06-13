@@ -1,1 +1,1 @@
-var mnemonic = "broom arrive coffee unfold venture dwarf street during cart cream enter initial";
+var mnemonic = "series cricket profit attract pave rabbit spin lizard actor banner affair design";

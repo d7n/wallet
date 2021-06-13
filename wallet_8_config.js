@@ -1,1 +1,1 @@
-var mnemonic = "champion trial eager arrange ice rival fence adult laugh artist make angle";
+var mnemonic = "base among must town cabbage warfare embrace clock all another citizen slow";

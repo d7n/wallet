@@ -1,1 +1,1 @@
-var mnemonic = "unique true toward cheap resource north just wealth various check rifle brief";
+var mnemonic = "typical option note nothing depend system swamp vague guess cup scale copper";

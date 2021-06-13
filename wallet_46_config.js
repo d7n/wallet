@@ -1,1 +1,1 @@
-var mnemonic = "system debate define word head act sad spy neck timber ice share";
+var mnemonic = "card section depth duck much blast rail parade mountain crater major emotion";

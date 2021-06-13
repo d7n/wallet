@@ -1,1 +1,1 @@
-var mnemonic = "demand snack bullet supply barely cruise alert grain rack depth boy crystal";
+var mnemonic = "mention clog august adult exclude grief woman paddle base arctic stick smile";

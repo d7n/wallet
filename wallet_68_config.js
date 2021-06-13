@@ -1,1 +1,1 @@
-var mnemonic = "fashion farm obvious bus imitate lizard circle settle initial social dilemma follow";
+var mnemonic = "happy cute blanket dismiss front stone flavor offer edge obscure auction deal";

@@ -1,1 +1,1 @@
-var mnemonic = "october govern future liar close entire common river garment ghost asset impact";
+var mnemonic = "donor vessel scrub setup plug owner cat property boil radar science battle";

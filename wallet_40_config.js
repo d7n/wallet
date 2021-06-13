@@ -1,1 +1,1 @@
-var mnemonic = "uncover session enforce wash blanket exit minor alert virtual yard risk reflect";
+var mnemonic = "polar shop raccoon strategy victory tuna bulb shift cherry food crash fade";

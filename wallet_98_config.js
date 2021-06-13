@@ -1,1 +1,1 @@
-var mnemonic = "arrange clutch below vote song announce east vivid bubble mango extend large";
+var mnemonic = "duty dutch unusual once trap reopen snack result help deer pear dry";

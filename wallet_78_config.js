@@ -1,1 +1,1 @@
-var mnemonic = "hope nerve frost mom culture swear soccer morning aisle throw document song";
+var mnemonic = "basket phrase hub help fee rail dance comfort tip glide logic enlist";

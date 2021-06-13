@@ -1,1 +1,1 @@
-var mnemonic = "return science excuse mixture hub shiver hammer combine total ice name dismiss";
+var mnemonic = "maze noble pool odor recipe bachelor hundred wood comfort wrestle immense limit";

@@ -1,1 +1,1 @@
-var mnemonic = "keep aim black hedgehog brief juice chest pole tooth grab armor firm";
+var mnemonic = "honey grow vault cause inflict drop hover gown coast hand shaft fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "brave mass local dizzy leg october equal push income load energy lobster";
+var mnemonic = "secret scissors buzz pipe barely cargo actor junk where bachelor coach upper";

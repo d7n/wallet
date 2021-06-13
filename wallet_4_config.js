@@ -1,1 +1,1 @@
-var mnemonic = "decorate move slim person valley paper armed vault gasp machine gaze wood";
+var mnemonic = "inflict team purchase hunt resist ostrich tumble arm game question scan morning";

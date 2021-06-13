@@ -1,1 +1,1 @@
-var mnemonic = "local reunion reject bench unaware solve step kid duty chef beauty cargo";
+var mnemonic = "copy royal increase bird coil prize winter hip smoke furnace trap caught";

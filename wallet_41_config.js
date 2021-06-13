@@ -1,1 +1,1 @@
-var mnemonic = "law high action medal always club neglect mirror erode car cable tide";
+var mnemonic = "erase zone tank tongue unlock cruise afford trip rate small border fish";

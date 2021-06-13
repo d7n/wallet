@@ -1,1 +1,1 @@
-var mnemonic = "noodle swear cricket mention side exile enjoy theory enough vibrant shallow clay";
+var mnemonic = "clay barely soldier episode behind cost wood gown public learn power embark";

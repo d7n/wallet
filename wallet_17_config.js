@@ -1,1 +1,1 @@
-var mnemonic = "sun immune cave sort firm enough vault harvest toy judge auction funny";
+var mnemonic = "forum cook hill police despair creek funny adjust close wagon cross pulse";

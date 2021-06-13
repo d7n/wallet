@@ -1,1 +1,1 @@
-var mnemonic = "goat extend loud wise core draw pipe helmet giraffe cruise foil hover";
+var mnemonic = "section unhappy moral shiver spray animal drum sock frequent choose rifle monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "life cloud impulse wage remove huge drum hammer hundred safe arrange hill";
+var mnemonic = "naive leisure useless swing fly fatigue ketchup miracle device body inform pool";

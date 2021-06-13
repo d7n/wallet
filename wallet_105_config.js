@@ -1,1 +1,1 @@
-var mnemonic = "harbor scare city congress night depth patient payment hire because enhance weather";
+var mnemonic = "outdoor home stable omit reveal radar silly hub opera spray cheese hazard";

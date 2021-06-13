@@ -1,1 +1,1 @@
-var mnemonic = "test faith license ordinary ankle wire wisdom museum east upon engage recycle";
+var mnemonic = "equal axis way immense sword help pill spider wheat curtain siren athlete";

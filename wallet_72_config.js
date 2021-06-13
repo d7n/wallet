@@ -1,1 +1,1 @@
-var mnemonic = "begin mesh reward mouse hotel coyote armor fresh peace garden brush monster";
+var mnemonic = "verb hope chalk bag slim trick cargo lumber hospital media offer borrow";

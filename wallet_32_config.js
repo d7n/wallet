@@ -1,1 +1,1 @@
-var mnemonic = "alien shoulder include vast little fault artwork level fox hold peanut client";
+var mnemonic = "print clerk foam surge country wait ready mind movie tennis ordinary gasp";

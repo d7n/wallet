@@ -1,1 +1,1 @@
-var mnemonic = "horn income brain idle youth impose panda annual cool oppose crush rack";
+var mnemonic = "popular dirt green home earth mean train elephant feature supply company artwork";

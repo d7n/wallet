@@ -1,1 +1,1 @@
-var mnemonic = "mutual survey harbor tribe cousin tortoise plastic either forward hamster zoo bunker";
+var mnemonic = "mixed fit mean gun pottery unusual know trial fury clump poet spirit";

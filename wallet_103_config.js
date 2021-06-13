@@ -1,1 +1,1 @@
-var mnemonic = "lyrics purpose uncle autumn pumpkin level reason estate effort test tornado turtle";
+var mnemonic = "away song leaf sock life promote demise lecture sphere discover scout smooth";

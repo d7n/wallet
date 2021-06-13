@@ -1,1 +1,1 @@
-var mnemonic = "vanish cable end modify woman diesel firm tiny thought ball inject wonder";
+var mnemonic = "gate bronze much noble total sad turn sunset clay toilet situate quick";

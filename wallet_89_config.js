@@ -1,1 +1,1 @@
-var mnemonic = "divert agree army siren senior bracket armor acid echo evil crisp world";
+var mnemonic = "vapor sphere stem ivory destroy bleak bleak salad lawn nephew buyer blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch series flight asthma ghost magnet open benefit van bulb phone ten";
+var mnemonic = "pudding detail flower impose phone tourist van acquire crush web champion motor";

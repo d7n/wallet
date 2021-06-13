@@ -1,1 +1,1 @@
-var mnemonic = "weekend wasp result pool twin island symptom pact dynamic advice energy forget";
+var mnemonic = "flag hospital anger combine wheat flavor aerobic mountain install cook giggle crane";

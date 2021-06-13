@@ -1,1 +1,1 @@
-var mnemonic = "pudding when symptom symbol choice ready stairs clip inherit panic story produce";
+var mnemonic = "above dice select deputy once tenant lyrics always rug label assault deposit";

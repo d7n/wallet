@@ -1,1 +1,1 @@
-var mnemonic = "acoustic employ vicious real maid island domain announce example april firm put";
+var mnemonic = "mechanic balcony blouse dragon smooth able wheat okay okay season civil bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal pudding stool panel glide hybrid ordinary wrap real great maze tube";
+var mnemonic = "caught panic vivid winter curve bunker exotic book mind practice favorite resource";

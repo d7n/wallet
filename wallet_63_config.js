@@ -1,1 +1,1 @@
-var mnemonic = "famous demise mercy retreat coast jealous echo print grass possible powder family";
+var mnemonic = "impact between swift title rug ladder peasant try awake blast fringe expand";

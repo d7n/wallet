@@ -1,1 +1,1 @@
-var mnemonic = "become loop clever south total object tenant shed emotion suit perfect betray";
+var mnemonic = "pilot eager decade wing describe supreme gadget chronic economy attract bonus gossip";

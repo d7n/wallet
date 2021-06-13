@@ -1,1 +1,1 @@
-var mnemonic = "figure odor fame tornado frown leopard flee narrow worry possible worry neither";
+var mnemonic = "blue fresh kingdom slight alcohol pilot rhythm bulk end pulse ranch symbol";

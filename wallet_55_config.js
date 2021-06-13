@@ -1,1 +1,1 @@
-var mnemonic = "also spray source night tip enforce nerve domain team annual magic ski";
+var mnemonic = "dolphin ugly layer slush blast course matter spider hole excite gallery genre";

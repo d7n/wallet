@@ -1,1 +1,1 @@
-var mnemonic = "future design hobby popular solar craft road primary destroy save two own";
+var mnemonic = "lend credit swim jeans avoid fame axis agree select bridge mom slim";

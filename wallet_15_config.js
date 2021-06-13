@@ -1,1 +1,1 @@
-var mnemonic = "post want notable tiger fabric sport loan flee type original maze stuff";
+var mnemonic = "produce injury cloud attract hamster insane victory test street cram bundle upset";

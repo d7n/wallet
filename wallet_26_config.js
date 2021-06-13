@@ -1,1 +1,1 @@
-var mnemonic = "lyrics whale girl jump cloud render rather ring gaze job more pyramid";
+var mnemonic = "cute trade door motion isolate you glove relax giant kite blood interest";

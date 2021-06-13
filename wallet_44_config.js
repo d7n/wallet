@@ -1,1 +1,1 @@
-var mnemonic = "space fire novel happy search crack wrong wear deal settle enough bundle";
+var mnemonic = "harsh shoe nominee engine ensure caution mobile clown early area token valley";

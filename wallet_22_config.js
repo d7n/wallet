@@ -1,1 +1,1 @@
-var mnemonic = "thought nice verify trial tobacco tip chuckle join spice rule coach satisfy";
+var mnemonic = "vivid foil local blame roast radar such soda damp street fluid gift";

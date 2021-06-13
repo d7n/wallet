@@ -1,1 +1,1 @@
-var mnemonic = "clean visual world wife omit glove shine stairs scrub wrong repair erosion";
+var mnemonic = "shy super eye loan call magnet quantum tired blast artefact teach magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner ketchup parrot father keep dance menu leisure name sponsor decrease spawn";
+var mnemonic = "grunt patch repeat nasty science link cake parade cricket drum planet wonder";

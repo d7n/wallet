@@ -1,1 +1,1 @@
-var mnemonic = "travel artwork beauty shaft dish manage true actor brain run ill chunk";
+var mnemonic = "cliff buzz artefact twenty jungle cloth whisper huge deal library club stumble";

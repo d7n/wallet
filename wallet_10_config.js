@@ -1,1 +1,1 @@
-var mnemonic = "dignity swing cement inform tag patrol life frame basic pattern write frozen";
+var mnemonic = "resemble rain deal buzz pill tiger basket dad undo taxi abuse remain";

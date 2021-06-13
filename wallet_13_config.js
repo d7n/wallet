@@ -1,1 +1,1 @@
-var mnemonic = "idea payment diary borrow place hungry nest scene subway grid bacon sad";
+var mnemonic = "rotate deny melody lesson middle olive seed middle fetch olive mad fault";

@@ -1,1 +1,1 @@
-var mnemonic = "interest swear cruise blood become will shoot craft order prosper frozen garbage";
+var mnemonic = "topple crush liberty cancel lumber face alert couple review vicious recall gather";

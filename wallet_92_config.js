@@ -1,1 +1,1 @@
-var mnemonic = "shrug camera inhale dizzy abuse finger aisle voyage health impact moral alone";
+var mnemonic = "evolve hero dirt venue surround actor easy bomb south ring toward general";

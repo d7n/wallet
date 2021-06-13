@@ -1,1 +1,1 @@
-var mnemonic = "census feature wolf metal yard dove fee gaze endless bone interest artist";
+var mnemonic = "because soft few coyote picnic notice truth job stone cactus toast antenna";

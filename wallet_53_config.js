@@ -1,1 +1,1 @@
-var mnemonic = "cruise judge stone struggle zebra hand upgrade border fashion cloth way fuel";
+var mnemonic = "engine daughter machine grape submit cliff wife vital spoil drastic rubber border";

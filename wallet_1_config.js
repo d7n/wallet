@@ -1,1 +1,1 @@
-var mnemonic = "couch minor enemy school ivory famous century liquid near until grape divorce";
+var mnemonic = "violin cactus update motor draft verify exclude small any senior green puppy";

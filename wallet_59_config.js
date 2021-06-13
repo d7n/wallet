@@ -1,1 +1,1 @@
-var mnemonic = "shadow wrap enter veteran attend art fame victory sadness square icon party";
+var mnemonic = "notable more steel opinion device farm rule enroll inside cotton destroy inside";

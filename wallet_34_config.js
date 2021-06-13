@@ -1,1 +1,1 @@
-var mnemonic = "miracle potato push skirt airport cabin horror dog luggage robot machine fold";
+var mnemonic = "arm kind potato ten clutch number pitch virtual diesel raw diary pledge";

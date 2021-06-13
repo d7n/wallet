@@ -1,1 +1,1 @@
-var mnemonic = "they frame snap better method sad glass nothing soccer angry endorse much";
+var mnemonic = "tobacco siren unknown early water enact fan before color alarm card dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll tattoo injury reject bless end miss capable correct this start cherry";
+var mnemonic = "leave country change paddle brass hope erase bid find bike gas gain";

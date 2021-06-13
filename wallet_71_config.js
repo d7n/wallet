@@ -1,1 +1,1 @@
-var mnemonic = "nation visit burst gossip hospital assume resemble valley control say crash boost";
+var mnemonic = "select prefer scout exist opera lunch among rack fluid involve valve destroy";

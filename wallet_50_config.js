@@ -1,1 +1,1 @@
-var mnemonic = "pet convince potato update fine will weather decrease opinion sound riot cover";
+var mnemonic = "plug head tag sentence useless assume upon bleak bean infant party gun";
