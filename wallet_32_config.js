@@ -1,1 +1,1 @@
-var mnemonic = "trouble lion draw easily lounge travel educate daring ordinary marriage poverty chief";
+var mnemonic = "ginger assist ocean tag crowd produce life target kite want advance hockey";

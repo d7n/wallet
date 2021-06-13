@@ -1,1 +1,1 @@
-var mnemonic = "dune damage route below rocket middle deny chest caution mixture learn crunch";
+var mnemonic = "school feed door hen code answer infant fox initial spike cash dwarf";

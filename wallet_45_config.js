@@ -1,1 +1,1 @@
-var mnemonic = "lab cliff cable donor fury direct walk fly can day skin under";
+var mnemonic = "auto before waste leader child belt obscure fine eye upgrade chest traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "police aware history question fragile middle blush sudden laugh news file abuse";
+var mnemonic = "twist grit push ask appear boost tail claw creek raise near equip";

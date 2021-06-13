@@ -1,1 +1,1 @@
-var mnemonic = "offer disease lady hockey taste defense taste clip sadness cloth bulb someone";
+var mnemonic = "major muscle expose toddler group disease profit velvet regret frost betray remove";

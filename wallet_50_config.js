@@ -1,1 +1,1 @@
-var mnemonic = "heart zebra swarm divert despair strong tone country load radio middle quantum";
+var mnemonic = "anchor coil shoot hire raccoon current duty banana viable green custom animal";

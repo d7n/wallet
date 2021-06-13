@@ -1,1 +1,1 @@
-var mnemonic = "party sniff alter link warfare farm wing picture bread slow page soap";
+var mnemonic = "wide double rail pupil blast grant cat spring interest group collect tell";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard blouse trouble panther violin smart pole pill hood join decline coconut";
+var mnemonic = "ten stomach burger series salmon crisp remind fault summer use banana purchase";

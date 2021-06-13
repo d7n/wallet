@@ -1,1 +1,1 @@
-var mnemonic = "arena round away town paddle drastic guide resemble ancient stable scatter two";
+var mnemonic = "forget silent stamp patient remain leader crowd insect fog stock feature enlist";

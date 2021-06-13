@@ -1,1 +1,1 @@
-var mnemonic = "pave oblige sun seed slim fitness entire aim hurry club quantum decide";
+var mnemonic = "gap vehicle rabbit benefit stem vault fish toddler cruise lake sample glance";

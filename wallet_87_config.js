@@ -1,1 +1,1 @@
-var mnemonic = "atom little forest sad prefer surround notice female loan whale danger gesture";
+var mnemonic = "tag afford onion exclude amazing refuse piano spring office track love treat";

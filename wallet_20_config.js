@@ -1,1 +1,1 @@
-var mnemonic = "famous suspect hero fresh body word silly regular animal health fiction federal";
+var mnemonic = "snap proud describe discover affair attend broom air chunk outer pencil today";

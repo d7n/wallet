@@ -1,1 +1,1 @@
-var mnemonic = "marriage electric skull render tag breeze unique meat cabbage abuse spawn anchor";
+var mnemonic = "expand math intact usage knock clutch tribe asset enable dish thank neutral";

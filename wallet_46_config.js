@@ -1,1 +1,1 @@
-var mnemonic = "crystal apology trap mosquito reunion shoot razor another narrow trip cover sport";
+var mnemonic = "wreck burden found notice ball replace wall kingdom guess taxi light pet";

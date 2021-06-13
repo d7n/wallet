@@ -1,1 +1,1 @@
-var mnemonic = "accident rubber client found category earn first carbon scrub decrease ring two";
+var mnemonic = "paddle animal level flight hat forum stomach bitter swallow ripple either wire";

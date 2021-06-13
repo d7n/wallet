@@ -1,1 +1,1 @@
-var mnemonic = "comic truck taxi clerk category spawn attend skirt medal riot trust express";
+var mnemonic = "enlist south merry attract strike major intact explain wagon shoe talent mimic";

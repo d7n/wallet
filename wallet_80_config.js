@@ -1,1 +1,1 @@
-var mnemonic = "sail wheat basket south gather high caught much stuff scare slab target";
+var mnemonic = "cereal car chapter faculty glory toddler rate toy cotton ozone salmon swim";

@@ -1,1 +1,1 @@
-var mnemonic = "spray increase assume morning impulse swallow easy erode oblige ginger emerge world";
+var mnemonic = "sleep soccer rose ready army task swear scare finish tortoise burden decide";

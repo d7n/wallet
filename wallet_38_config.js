@@ -1,1 +1,1 @@
-var mnemonic = "rocket easy daring scorpion alter riot food wage cry return total denial";
+var mnemonic = "sting solution item maid cradle capable suggest farm donate hidden opinion camera";

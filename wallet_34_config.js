@@ -1,1 +1,1 @@
-var mnemonic = "shiver paddle pattern near weekend summer announce great image blush claim unhappy";
+var mnemonic = "smart because yellow sight grab brick produce mouse chicken board grant carbon";

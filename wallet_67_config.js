@@ -1,1 +1,1 @@
-var mnemonic = "skate debris flush nurse goose owner clock balance follow dynamic number know";
+var mnemonic = "equip bottom home belt dress someone usage digital budget what note present";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply devote merit rice stove unfair radar exit canoe identify clerk outer";
+var mnemonic = "check security faculty wrestle kite toddler isolate injury satisfy winner oxygen outside";

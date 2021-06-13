@@ -1,1 +1,1 @@
-var mnemonic = "vague broccoli summer defense effort silly fish goddess credit pluck seminar purse";
+var mnemonic = "brain slender cancel catch mother popular coach fun beef monitor wide school";

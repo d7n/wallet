@@ -1,1 +1,1 @@
-var mnemonic = "library rate noble during rate fantasy response hood casino stable rubber pause";
+var mnemonic = "champion level car border faculty museum allow balance sure wealth lesson bullet";

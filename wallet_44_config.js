@@ -1,1 +1,1 @@
-var mnemonic = "girl blood fade dinner push frequent negative onion buddy iron silk weird";
+var mnemonic = "december syrup gift exact road kitchen shrug hope spray fit maximum have";

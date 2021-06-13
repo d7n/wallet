@@ -1,1 +1,1 @@
-var mnemonic = "other coin social fury aunt bunker pluck rotate diet abstract stairs unfold";
+var mnemonic = "fall stick exotic weekend either inspire over fuel fan price swap knife";

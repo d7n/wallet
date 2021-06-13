@@ -1,1 +1,1 @@
-var mnemonic = "faint destroy satisfy audit wedding where erase fame knee gossip match delay";
+var mnemonic = "vintage pair amateur space usual girl claim harbor describe fury enhance hole";

@@ -1,1 +1,1 @@
-var mnemonic = "license credit ignore brick slot know critic find churn notice keep ghost";
+var mnemonic = "clerk drama letter divert grape shoulder gain universe umbrella alone harsh time";

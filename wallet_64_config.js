@@ -1,1 +1,1 @@
-var mnemonic = "sheriff sphere bid outer dinosaur merit crystal dismiss bring social shove rain";
+var mnemonic = "release today key clump vibrant drop planet farm pilot travel useful valley";

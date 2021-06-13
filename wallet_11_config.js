@@ -1,1 +1,1 @@
-var mnemonic = "medal fat judge robust because prefer odor liberty one spice infant rib";
+var mnemonic = "age chase other age lounge net token social mystery indicate blue ship";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst school chief radar hurt cabbage route stage truly girl about spread";
+var mnemonic = "blossom wine kit worry fine excuse mimic front angry fee drink exile";

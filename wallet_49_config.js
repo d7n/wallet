@@ -1,1 +1,1 @@
-var mnemonic = "country keen shoulder future basket chaos business bacon plate cry rabbit squeeze";
+var mnemonic = "alert venture bike bone february country rent valid monkey rival audit scrap";

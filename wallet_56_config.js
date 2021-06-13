@@ -1,1 +1,1 @@
-var mnemonic = "print survey almost employ firm together cattle flip light tenant test doll";
+var mnemonic = "dance weather sister scout better disagree sudden purse bitter roast human blood";

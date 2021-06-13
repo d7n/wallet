@@ -1,1 +1,1 @@
-var mnemonic = "play slam adjust define rigid shoulder giggle bench grain menu above invest";
+var mnemonic = "advice plastic wheat undo thank proud run general surprise build fragile vessel";

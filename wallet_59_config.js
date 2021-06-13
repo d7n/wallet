@@ -1,1 +1,1 @@
-var mnemonic = "aerobic erosion tissue advice uncle attract donate metal decorate tape wait poem";
+var mnemonic = "melt bounce front joke diet hotel clip initial candy erosion dutch output";

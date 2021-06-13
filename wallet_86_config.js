@@ -1,1 +1,1 @@
-var mnemonic = "spread report gun network thunder menu potato obvious argue square trigger safe";
+var mnemonic = "angry example donate security spatial ride ankle anchor remain fitness manage depth";

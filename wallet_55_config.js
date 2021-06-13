@@ -1,1 +1,1 @@
-var mnemonic = "airport skull raven field huge wood trust cotton whisper kingdom trip december";
+var mnemonic = "deer elite pair raccoon moon digital myth dentist push jazz knife better";

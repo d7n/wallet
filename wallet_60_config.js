@@ -1,1 +1,1 @@
-var mnemonic = "chalk divorce badge select wet clog apology crisp culture razor humble silly";
+var mnemonic = "bus shed neglect make notice kingdom fancy arrange victory canal vote vacant";

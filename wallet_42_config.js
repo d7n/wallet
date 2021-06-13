@@ -1,1 +1,1 @@
-var mnemonic = "kid antenna afford clip loan issue oak pole eternal pool empower copy";
+var mnemonic = "cigar dwarf enhance artefact puppy main hollow differ winter huge bunker series";

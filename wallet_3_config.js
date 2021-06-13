@@ -1,1 +1,1 @@
-var mnemonic = "near day old tower spoil nest there breeze reject frozen motor bracket";
+var mnemonic = "that master member account subject blind marble kitten innocent mask biology cry";

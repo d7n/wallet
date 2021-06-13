@@ -1,1 +1,1 @@
-var mnemonic = "excite creek collect sibling way balance crouch acoustic top cube soap concert";
+var mnemonic = "stage double resist million choice prosper process banana guitar spoon inside ball";

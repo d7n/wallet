@@ -1,1 +1,1 @@
-var mnemonic = "oxygen pair exit moment more special much fortune erode can play peasant";
+var mnemonic = "style tower question object salmon text fog scatter eager shrug jealous unable";

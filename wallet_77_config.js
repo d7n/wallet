@@ -1,1 +1,1 @@
-var mnemonic = "pudding stable machine awesome match hungry rescue tennis range document nice real";
+var mnemonic = "blast art finger member they valley language purpose example artist become differ";

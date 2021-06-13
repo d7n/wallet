@@ -1,1 +1,1 @@
-var mnemonic = "abuse unusual toilet monkey loyal sponsor enact budget shell arrest camera start";
+var mnemonic = "comic parrot duty belt wink monkey dawn key swallow stage below brass";

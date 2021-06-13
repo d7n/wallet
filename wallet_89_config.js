@@ -1,1 +1,1 @@
-var mnemonic = "spring shiver phone define success rain peace penalty bronze ribbon attend scorpion";
+var mnemonic = "idea popular rib jeans finish fatigue focus breeze item element soap claw";

@@ -1,1 +1,1 @@
-var mnemonic = "dish surface thrive motor glide fury satoshi thunder announce common hair clean";
+var mnemonic = "margin dog music brisk apart jacket immense game net upon swim bring";

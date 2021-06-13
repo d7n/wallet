@@ -1,1 +1,1 @@
-var mnemonic = "peace staff spice pole ordinary lunch buyer crumble help alley crater jump";
+var mnemonic = "inhale stay lunar drama own wisdom inner night payment anchor bless practice";

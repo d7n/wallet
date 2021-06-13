@@ -1,1 +1,1 @@
-var mnemonic = "empower above gold season empty very decade hour trim chief motor sand";
+var mnemonic = "dial tomorrow sick empower problem cool oyster inspire suffer duty select wrong";

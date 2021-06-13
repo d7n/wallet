@@ -1,1 +1,1 @@
-var mnemonic = "reveal figure angle rocket silent economy biology oppose lumber coin magic ritual";
+var mnemonic = "explain umbrella blind jacket unit dose typical limit parent cross imitate loan";

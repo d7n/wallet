@@ -1,1 +1,1 @@
-var mnemonic = "creek wear put head tunnel club idea actual badge include essence tree";
+var mnemonic = "leg indicate purchase arm pride aisle card office catalog social tone divert";

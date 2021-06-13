@@ -1,1 +1,1 @@
-var mnemonic = "page book foot census question bargain pool disorder reopen run goddess orchard";
+var mnemonic = "blue width fossil fade purchase awful twenty drink punch admit cook forget";

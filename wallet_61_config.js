@@ -1,1 +1,1 @@
-var mnemonic = "alert network broken often journey letter muffin napkin power slim fold quarter";
+var mnemonic = "clever tuition inhale hope knee blue like swift throw palm vehicle clog";

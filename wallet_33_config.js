@@ -1,1 +1,1 @@
-var mnemonic = "practice orange faith space fat beyond ankle divorce swift unlock mean suspect";
+var mnemonic = "oxygen absent congress then mutual rack rich stadium deer float exercise issue";

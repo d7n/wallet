@@ -1,1 +1,1 @@
-var mnemonic = "paddle affair chaos soft turtle amused upon surround mother room march eight";
+var mnemonic = "resource million abstract dream enough remember pave enroll again chef risk used";

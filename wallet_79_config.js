@@ -1,1 +1,1 @@
-var mnemonic = "actor possible put opinion ensure virus seed mammal you bicycle sure obtain";
+var mnemonic = "worry letter rail already rib tone robot abstract tree inch can critic";

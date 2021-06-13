@@ -1,1 +1,1 @@
-var mnemonic = "then home imitate deal cigar raccoon gather tonight trophy sentence give fine";
+var mnemonic = "diamond husband vintage tongue pitch toddler logic improve cycle keep symbol wire";

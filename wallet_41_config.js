@@ -1,1 +1,1 @@
-var mnemonic = "enact cream tone under radar prevent master voice solid canal nurse stumble";
+var mnemonic = "patient warrior capital code damage appear good talk tag sausage taxi pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "deer state title viable observe evoke melody dream wall lunar tackle spare";
+var mnemonic = "sibling census success analyst reason tray rather bottom dash visual struggle joke";

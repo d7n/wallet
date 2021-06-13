@@ -1,1 +1,1 @@
-var mnemonic = "cupboard suffer drastic smile bus drive cliff bronze begin aerobic whip noodle";
+var mnemonic = "frown three train castle napkin park ankle refuse labor ranch orient improve";

@@ -1,1 +1,1 @@
-var mnemonic = "foam cause topic echo toast shoulder either start wool dish robot view";
+var mnemonic = "output mad boost bitter beyond sniff practice clock almost guard image wear";

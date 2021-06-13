@@ -1,1 +1,1 @@
-var mnemonic = "fall woman shine pet broken energy type mutual trick person nurse doctor";
+var mnemonic = "candy gas afraid define step teach salon jelly zone ghost harbor kind";

@@ -1,1 +1,1 @@
-var mnemonic = "attract sea roast shed hole current upset anchor auction error sort regret";
+var mnemonic = "correct author group solar usual grunt vault holiday stumble duty miss beauty";

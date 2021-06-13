@@ -1,1 +1,1 @@
-var mnemonic = "humor glance shine ankle around defy effort tuna defense ritual smile twelve";
+var mnemonic = "sick grit report evoke double wheat sting home eager lemon myth twist";

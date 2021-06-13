@@ -1,1 +1,1 @@
-var mnemonic = "play grace artefact addict saddle liar range ranch speak grain merge chicken";
+var mnemonic = "prize quarter check proof receive grape obey mail fuel autumn eagle tide";

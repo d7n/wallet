@@ -1,1 +1,1 @@
-var mnemonic = "solve emerge mother organ master morning skate empty together sword metal media";
+var mnemonic = "barrel escape length advance roof distance quarter skull heart ramp cherry session";

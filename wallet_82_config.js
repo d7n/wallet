@@ -1,1 +1,1 @@
-var mnemonic = "speed flip melt off beef document catalog toy eye shrug good isolate";
+var mnemonic = "lamp citizen situate museum window woman student brain outer segment denial warrior";

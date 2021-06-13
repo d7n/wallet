@@ -1,1 +1,1 @@
-var mnemonic = "pudding culture hill lake gaze famous midnight model next guilt conduct forum";
+var mnemonic = "guide float stable chief decade wise undo shell collect lift purity benefit";

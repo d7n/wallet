@@ -1,1 +1,1 @@
-var mnemonic = "inhale spoil skin then shoot rally harbor forward climb volcano ivory ugly";
+var mnemonic = "together swear another kidney impose soup trial chaos festival doctor worry trust";

@@ -1,1 +1,1 @@
-var mnemonic = "brave method stamp elder car friend border torch churn power wait apart";
+var mnemonic = "practice unveil leaf spider daughter ozone roof castle rice vacuum pig floor";

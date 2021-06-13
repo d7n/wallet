@@ -1,1 +1,1 @@
-var mnemonic = "prosper hat toast gravity news exhaust poet comic write core accuse shove";
+var mnemonic = "dentist load wire sunny denial wait raven hair east case spend deputy";

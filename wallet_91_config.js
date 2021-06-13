@@ -1,1 +1,1 @@
-var mnemonic = "disagree surprise because blast stamp funny enrich frown winner label nest lake";
+var mnemonic = "senior chronic script setup benefit only knife into assault lonely dynamic duck";

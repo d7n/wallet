@@ -1,1 +1,1 @@
-var mnemonic = "capable useful version kit inhale shuffle arm auction agree ensure brick average";
+var mnemonic = "behind fame shuffle sail property settle cost sting equal law evidence hawk";

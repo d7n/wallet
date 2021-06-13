@@ -1,1 +1,1 @@
-var mnemonic = "surface divert evoke end clock among base future space liberty wink seven";
+var mnemonic = "give nice stand blind vocal fossil easy cheese stay crop cool cancel";

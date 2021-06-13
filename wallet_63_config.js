@@ -1,1 +1,1 @@
-var mnemonic = "occur fine fire tape foot food bamboo upper voice order celery trophy";
+var mnemonic = "hold ocean garlic level smart scheme mobile settle announce journey cram monster";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion can deposit engine common camp intact peanut witness sleep jump post";
+var mnemonic = "verb embrace rail quick fever era weird train hungry sample repair joke";

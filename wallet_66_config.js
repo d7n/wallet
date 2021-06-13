@@ -1,1 +1,1 @@
-var mnemonic = "cereal guilt enact soon price quote web pluck despair model enact second";
+var mnemonic = "chimney toward poverty sniff nephew carbon save empty surround loan cushion tissue";

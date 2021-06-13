@@ -1,1 +1,1 @@
-var mnemonic = "eternal fiscal tourist swear into chief hand convince off salt scatter utility";
+var mnemonic = "rescue crisp brief earn void else nominee blouse piano gown alarm muffin";

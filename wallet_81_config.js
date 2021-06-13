@@ -1,1 +1,1 @@
-var mnemonic = "morning thought security easily sister slice nominee chef tornado symbol miss impact";
+var mnemonic = "symbol asthma coin butter sudden foil delay brief custom expand anchor major";

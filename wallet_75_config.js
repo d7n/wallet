@@ -1,1 +1,1 @@
-var mnemonic = "code budget uncover stem bitter vanish pigeon card always style speed mimic";
+var mnemonic = "lunch ugly noise various planet opera hybrid sugar actress illness oppose gift";

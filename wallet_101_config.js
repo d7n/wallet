@@ -1,1 +1,1 @@
-var mnemonic = "dynamic arrow write option quantum elder kiwi access team garden burst okay";
+var mnemonic = "ship wine pass hobby squeeze unique outside blood voyage act blast prosper";

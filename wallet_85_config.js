@@ -1,1 +1,1 @@
-var mnemonic = "cupboard release accuse trend shoe sight pond link control eternal race among";
+var mnemonic = "box employ evolve stay sample about pattern trouble finish entire regular simple";

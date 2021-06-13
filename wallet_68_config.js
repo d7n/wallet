@@ -1,1 +1,1 @@
-var mnemonic = "payment topic identify daughter pupil doctor shine assist attract stumble program mean";
+var mnemonic = "love bean page coyote pet whip they salad brass title argue slam";

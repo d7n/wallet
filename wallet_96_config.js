@@ -1,1 +1,1 @@
-var mnemonic = "crack thrive asset pole engine ride solar wealth awake settle mail shallow";
+var mnemonic = "dinosaur piece flash music entry junior episode adjust online antique cloth imitate";
