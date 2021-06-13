@@ -1,1 +1,1 @@
-var mnemonic = "monkey life era faculty duty love peasant height wash settle define brave";
+var mnemonic = "fluid stereo virtual device subject argue sad energy cup relax vague asset";

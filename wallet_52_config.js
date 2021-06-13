@@ -1,1 +1,1 @@
-var mnemonic = "train uniform duty panel grant measure quiz alert tribe giraffe pen primary";
+var mnemonic = "sort absent drum shell current napkin chest slight hold dolphin embody village";

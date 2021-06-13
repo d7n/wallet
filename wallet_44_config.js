@@ -1,1 +1,1 @@
-var mnemonic = "gravity ankle upper crystal option kid wood valve gossip skill foot discover";
+var mnemonic = "exercise piano jungle begin orange civil apple monster annual solar powder bleak";

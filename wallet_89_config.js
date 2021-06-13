@@ -1,1 +1,1 @@
-var mnemonic = "genuine enhance foam budget truth nasty lava audit sample bread shuffle retire";
+var mnemonic = "vintage misery announce steel hospital turkey blade project snack vault chaos ride";

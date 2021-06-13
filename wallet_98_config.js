@@ -1,1 +1,1 @@
-var mnemonic = "define refuse spray guide fiction enlist town submit seek poverty recipe width";
+var mnemonic = "reform symbol screen also enroll champion such tomato act accident purse next";

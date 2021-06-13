@@ -1,1 +1,1 @@
-var mnemonic = "siege share steel shuffle worth capital share pilot stick happy combine baby";
+var mnemonic = "bone horse boat baby bulb candy song devote frog crazy love entry";

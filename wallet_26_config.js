@@ -1,1 +1,1 @@
-var mnemonic = "human run zoo cloud impact wall topple fiction reform state ahead version";
+var mnemonic = "sail nut rich slide virus kiwi brown volume credit citizen address mosquito";

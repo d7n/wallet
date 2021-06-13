@@ -1,1 +1,1 @@
-var mnemonic = "share account person eager easily search wealth sadness pear girl kangaroo safe";
+var mnemonic = "grid super give twenty divorce grunt protect athlete relief bamboo rude cigar";

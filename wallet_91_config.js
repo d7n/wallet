@@ -1,1 +1,1 @@
-var mnemonic = "exile horse congress click service amateur panther concert marine blame page distance";
+var mnemonic = "green sting female series muscle depth cloth crawl swear pigeon worth that";

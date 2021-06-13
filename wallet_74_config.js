@@ -1,1 +1,1 @@
-var mnemonic = "fold liquid hidden melody diet oblige orchard lift design afraid unfair noble";
+var mnemonic = "teach bamboo process ocean public inject immense lazy unusual arctic crisp junk";

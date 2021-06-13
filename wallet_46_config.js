@@ -1,1 +1,1 @@
-var mnemonic = "grain buyer attend toy adapt praise type nice injury embrace settle enrich";
+var mnemonic = "broccoli voyage fringe accident kind decade token pipe gorilla useless industry hour";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep margin flush chapter old hollow until relax endorse core advance diary";
+var mnemonic = "fire history build mass cart refuse animal dream suit kiss security before";

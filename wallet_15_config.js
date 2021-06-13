@@ -1,1 +1,1 @@
-var mnemonic = "buzz jaguar crime faint thank mimic motion dune enable tower awful theory";
+var mnemonic = "sense sleep afford dinosaur limit wife develop message paddle invest divorce tooth";

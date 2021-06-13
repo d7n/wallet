@@ -1,1 +1,1 @@
-var mnemonic = "anchor often sight cook embark program combine clump slender write wrong civil";
+var mnemonic = "bus shoe whale fix mechanic interest file paper kitchen flash cheese valid";

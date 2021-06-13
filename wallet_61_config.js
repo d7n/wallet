@@ -1,1 +1,1 @@
-var mnemonic = "rapid eye display shoot blush corn copy tennis science similar write clutch";
+var mnemonic = "throw pilot knee degree mail pulse wealth slot badge erosion debris key";

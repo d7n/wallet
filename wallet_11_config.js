@@ -1,1 +1,1 @@
-var mnemonic = "chronic father echo dragon two oak arrive short wait toe average scrap";
+var mnemonic = "auction someone consider page swift protect robot endless river page ethics six";

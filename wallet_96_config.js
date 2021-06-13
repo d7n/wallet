@@ -1,1 +1,1 @@
-var mnemonic = "rescue crush clump husband time poem together caution good duty crack clinic";
+var mnemonic = "toward apple resist chest pole game forest pizza bicycle reward term warm";

@@ -1,1 +1,1 @@
-var mnemonic = "business absent depend city crazy home draft nurse brand pet slender artwork";
+var mnemonic = "oval bean viable supreme tool victory olive track edit siren huge goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle like swamp gain polar rabbit want drive shadow agent crew blood";
+var mnemonic = "safe wasp control stairs ocean ordinary trick sound recipe soft disorder give";

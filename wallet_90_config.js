@@ -1,1 +1,1 @@
-var mnemonic = "mule dolphin shoot aware spawn false always where laptop isolate buzz twenty";
+var mnemonic = "typical sweet pave essence space mind spring cross level purse salad wave";

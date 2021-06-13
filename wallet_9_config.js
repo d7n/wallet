@@ -1,1 +1,1 @@
-var mnemonic = "cheese latin reward planet helmet dutch cram man pizza relax kingdom cement";
+var mnemonic = "true lawn outside organ link curve scorpion gaze arrest oval load achieve";

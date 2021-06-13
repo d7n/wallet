@@ -1,1 +1,1 @@
-var mnemonic = "path hole yard neutral priority yard tool hour monster notice attack mail";
+var mnemonic = "erase weird sign six stage still glory junk side luggage spin bird";

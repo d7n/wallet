@@ -1,1 +1,1 @@
-var mnemonic = "fade gesture glue off awful gesture profit bean nurse draft aisle leopard";
+var mnemonic = "work suit copy split powder drink edit offer polar alone glove other";

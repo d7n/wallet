@@ -1,1 +1,1 @@
-var mnemonic = "grief enjoy worth sleep brain brick bread collect view guard curtain refuse";
+var mnemonic = "nice rough lesson crunch best exile notable deny trial visual clarify reopen";

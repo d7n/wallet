@@ -1,1 +1,1 @@
-var mnemonic = "output lens expect smile kite discover melt ecology river media poet obtain";
+var mnemonic = "blouse tube party local gaze you venue slab museum reduce rural chapter";

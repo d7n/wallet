@@ -1,1 +1,1 @@
-var mnemonic = "swing impulse snack elephant another brisk heart fly punch size design copy";
+var mnemonic = "enemy news ranch predict ivory era coil lonely meat birth primary gospel";

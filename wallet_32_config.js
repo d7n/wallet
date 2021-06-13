@@ -1,1 +1,1 @@
-var mnemonic = "speed scan license dove play struggle remain much moral muscle horror gas";
+var mnemonic = "always insane erupt decline maximum find matrix velvet short energy ribbon ship";

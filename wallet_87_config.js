@@ -1,1 +1,1 @@
-var mnemonic = "list rural lab prevent monkey total fix ready evoke primary route venture";
+var mnemonic = "dish mass warrior oil pen chief trap cash alcohol gadget box unfair";

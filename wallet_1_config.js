@@ -1,1 +1,1 @@
-var mnemonic = "later term valid annual bread together rain shrug iron destroy gather dry";
+var mnemonic = "witness erosion daring iron rare glow pause twist front gaze laugh vocal";

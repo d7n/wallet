@@ -1,1 +1,1 @@
-var mnemonic = "know same history fetch pig total web actress remain usual whisper dignity";
+var mnemonic = "tribe clerk toast champion nest unique current artefact amount little brief task";

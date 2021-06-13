@@ -1,1 +1,1 @@
-var mnemonic = "lottery trip weekend hip february poet will eager attack current luxury old";
+var mnemonic = "fox reward planet earth razor proof spirit skill merge combine exit story";

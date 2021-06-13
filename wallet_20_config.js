@@ -1,1 +1,1 @@
-var mnemonic = "early despair ball nurse artist define shiver say end obvious wild tank";
+var mnemonic = "canal insane burger physical weasel work citizen escape shuffle across flock chest";

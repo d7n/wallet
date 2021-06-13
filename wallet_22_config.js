@@ -1,1 +1,1 @@
-var mnemonic = "shine stadium tail valid artefact hint demand winter pepper motion dune coin";
+var mnemonic = "feel flame auction inquiry update judge cinnamon dune dove stand biology stem";

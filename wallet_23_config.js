@@ -1,1 +1,1 @@
-var mnemonic = "panda avoid easily intact dismiss depart globe climb harsh leisure scare visual";
+var mnemonic = "broom canyon fame other labor message gospel almost cube arrange outside assume";

@@ -1,1 +1,1 @@
-var mnemonic = "glue three stick nose pipe cheese use shoulder nominee forest this day";
+var mnemonic = "drift vendor castle tobacco such torch lady canyon cup motion sign alter";

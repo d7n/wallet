@@ -1,1 +1,1 @@
-var mnemonic = "ankle club rescue before swamp coast media setup dry slam layer resource";
+var mnemonic = "mail begin sweet differ idea finger replace abandon uncle monkey roof battle";

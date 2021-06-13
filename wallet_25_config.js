@@ -1,1 +1,1 @@
-var mnemonic = "next pen diesel uphold spirit plastic mechanic broom chief library maze burst";
+var mnemonic = "grass fault spend trial vacant banner claw sadness clarify slight settle right";

@@ -1,1 +1,1 @@
-var mnemonic = "crash return shed fresh fabric hybrid enhance dilemma ball juice own sunset";
+var mnemonic = "entry syrup treat please midnight egg volcano web wolf power budget illness";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf corn curve maze twist absurd oil perfect draft table source penalty";
+var mnemonic = "casino shadow wife power taxi doll speed umbrella first exchange odor salmon";

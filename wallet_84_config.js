@@ -1,1 +1,1 @@
-var mnemonic = "spoil noise cart off present elbow slam smooth arrange midnight lab breeze";
+var mnemonic = "turtle off mix silk claw rubber word valley rebuild saddle depart mother";

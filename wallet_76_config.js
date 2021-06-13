@@ -1,1 +1,1 @@
-var mnemonic = "stand limit soon trip pair ask prosper climb flee culture merit suit";
+var mnemonic = "actress leave antenna engine wonder broken series concert recipe gospel rate equal";

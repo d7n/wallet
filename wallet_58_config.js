@@ -1,1 +1,1 @@
-var mnemonic = "tool test bottom wink false pact syrup popular myth all seminar review";
+var mnemonic = "stumble cruel brand exact cat awesome lab flavor excuse curious theme south";

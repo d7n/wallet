@@ -1,1 +1,1 @@
-var mnemonic = "buyer aware risk spawn cake race harbor dream banner brave quality craft";
+var mnemonic = "found month chuckle frost banner devote length critic elegant number honey arrest";

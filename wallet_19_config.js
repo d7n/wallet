@@ -1,1 +1,1 @@
-var mnemonic = "sense fence dry road drink vote carpet conduct office notice whale suggest";
+var mnemonic = "access again violin tragic decrease adult sock copper sing pumpkin market rigid";

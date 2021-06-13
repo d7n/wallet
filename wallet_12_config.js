@@ -1,1 +1,1 @@
-var mnemonic = "bullet rhythm nuclear slender occur battle dust glance abstract crunch number settle";
+var mnemonic = "inner ridge math october catalog siren shoot anger goat save twenty nothing";

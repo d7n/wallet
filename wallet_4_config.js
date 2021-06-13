@@ -1,1 +1,1 @@
-var mnemonic = "surprise view theme imitate try range dismiss castle rice neck decorate bulb";
+var mnemonic = "trigger knee talent rate chaos scare valid steel key goddess dance expire";

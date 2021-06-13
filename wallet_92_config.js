@@ -1,1 +1,1 @@
-var mnemonic = "cross remind brand tail angle jar south obvious mango plunge soldier know";
+var mnemonic = "turkey patient end frog company stumble now artefact title own track bird";

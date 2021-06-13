@@ -1,1 +1,1 @@
-var mnemonic = "harvest liar minimum minimum neutral rural law install energy citizen cradle odor";
+var mnemonic = "game dress pole foam alien episode flash test aware random ask earth";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle avoid fatigue absurd boy drop toast audit begin popular number attack";
+var mnemonic = "tomato still index inform foot walnut innocent mobile size country egg office";

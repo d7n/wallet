@@ -1,1 +1,1 @@
-var mnemonic = "give account bench dance output blame reopen range match proof wash heart";
+var mnemonic = "tourist client canoe gauge grow double uncle reward mean mirror silent attitude";

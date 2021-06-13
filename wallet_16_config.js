@@ -1,1 +1,1 @@
-var mnemonic = "transfer heart hold woman novel valid sun mother unusual carry frozen aunt";
+var mnemonic = "diesel wing camera fun shaft neck broccoli traffic collect celery yard rent";

@@ -1,1 +1,1 @@
-var mnemonic = "require honey betray shield usage reason cloud mass camp invest tired smoke";
+var mnemonic = "chair diamond expire truck twenty pelican eye series display sense smart paddle";

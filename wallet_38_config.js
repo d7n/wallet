@@ -1,1 +1,1 @@
-var mnemonic = "dad puzzle embrace language twenty social gold problem quit conduct bring game";
+var mnemonic = "shadow witness utility borrow cake slam world sail asset inject order history";

@@ -1,1 +1,1 @@
-var mnemonic = "silent again slot prevent veteran calm ketchup access unlock tunnel bubble scout";
+var mnemonic = "copper fatigue cry craft analyst return camp refuse tobacco oval ticket switch";

@@ -1,1 +1,1 @@
-var mnemonic = "produce maze cereal source jelly cram accuse december typical merry carbon couple";
+var mnemonic = "please route supreme globe surprise swarm genre intact rally quality paper merry";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil detect service glide help shift rule clever enable cloth obscure sadness";
+var mnemonic = "ski over trick spot zero glide slender wasp gather illegal turtle sea";

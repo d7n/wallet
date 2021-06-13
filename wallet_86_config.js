@@ -1,1 +1,1 @@
-var mnemonic = "top evil circle occur slim fold hat maze drift thought scare rain";
+var mnemonic = "amazing point way half balcony equip stereo border plunge shove conduct segment";

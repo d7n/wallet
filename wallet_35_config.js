@@ -1,1 +1,1 @@
-var mnemonic = "phrase hammer attitude various gas circle flee move stairs artwork budget weekend";
+var mnemonic = "affair library direct monitor soft chronic surprise more normal tide spirit clever";

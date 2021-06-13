@@ -1,1 +1,1 @@
-var mnemonic = "announce simple reason device lion live alley neither brass private crew apple";
+var mnemonic = "behind bulk improve neither service host damp slush exhaust foster kiwi cannon";

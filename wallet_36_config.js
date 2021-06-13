@@ -1,1 +1,1 @@
-var mnemonic = "pencil beef walk cat cruise spell scale vacant borrow fall resource window";
+var mnemonic = "fun run drum return female second embody seminar kit surge kitchen employ";

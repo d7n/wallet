@@ -1,1 +1,1 @@
-var mnemonic = "cactus must gap circle calm course crime address join climb coach scissors";
+var mnemonic = "fix symptom buzz viable law buzz celery sponsor hospital wing crisp rebel";

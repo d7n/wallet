@@ -1,1 +1,1 @@
-var mnemonic = "pistol elbow noodle wave topple midnight neglect because wreck river head page";
+var mnemonic = "usual sound cactus hazard session treat void hidden doctor boss else three";

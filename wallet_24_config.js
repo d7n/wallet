@@ -1,1 +1,1 @@
-var mnemonic = "rough lazy cigar carry disease song empty material gun amused party slight";
+var mnemonic = "illegal view doctor kiss spike any across invite pink east produce cheap";

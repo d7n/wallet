@@ -1,1 +1,1 @@
-var mnemonic = "asthma display sniff gym practice blood virus warfare afford gloom memory ring";
+var mnemonic = "blade safe just upon pipe guide spatial hammer stick orange risk fatigue";

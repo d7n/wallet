@@ -1,1 +1,1 @@
-var mnemonic = "chalk memory claim quantum weasel smooth defense call label dirt public husband";
+var mnemonic = "speed soft finger easy topic volcano neck supply obvious escape table judge";

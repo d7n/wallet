@@ -1,1 +1,1 @@
-var mnemonic = "mask aerobic rose fossil gentle grow identify sock moment rural spin room";
+var mnemonic = "topple pluck future possible quiz repeat cotton twice mystery grape fire slam";

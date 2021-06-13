@@ -1,1 +1,1 @@
-var mnemonic = "report useful position emerge occur slab have confirm claim champion recall stool";
+var mnemonic = "fortune share void tiny change weapon crane chef action write fabric claim";

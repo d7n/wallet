@@ -1,1 +1,1 @@
-var mnemonic = "charge dutch stone switch proof harbor raccoon pipe snack story offer small";
+var mnemonic = "flip force panic lawn fancy radar cruel stool myth orphan addict few";

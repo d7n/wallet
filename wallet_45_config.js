@@ -1,1 +1,1 @@
-var mnemonic = "bridge win census maple elevator all situate chunk also apology rare report";
+var mnemonic = "century loan cabbage rib much inhale then clay either execute legal toddler";

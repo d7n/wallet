@@ -1,1 +1,1 @@
-var mnemonic = "suggest ozone flush erosion attitude lottery label emerge correct radar dance drip";
+var mnemonic = "festival material begin network solution now miracle dentist noble require tone tourist";

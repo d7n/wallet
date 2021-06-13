@@ -1,1 +1,1 @@
-var mnemonic = "pupil song rifle powder wood timber attack pipe catalog dismiss potato range";
+var mnemonic = "forget myself float embrace embrace danger mix forest bicycle raise excess atom";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty end extend lend glide acquire next wing domain use horror stable";
+var mnemonic = "quote dinosaur better mobile border betray bean donkey retreat mixed brush connect";

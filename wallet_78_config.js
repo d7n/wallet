@@ -1,1 +1,1 @@
-var mnemonic = "juice tube milk illegal boy volume cancel pelican expand unable slender sheriff";
+var mnemonic = "shaft melt punch dentist family detail what renew gloom person horse entire";

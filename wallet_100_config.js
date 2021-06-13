@@ -1,1 +1,1 @@
-var mnemonic = "number mandate witness sunny science path good twist stomach check noble worth";
+var mnemonic = "length sadness season remain canal void lab dynamic bullet claw grit empower";

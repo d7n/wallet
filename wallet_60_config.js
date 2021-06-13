@@ -1,1 +1,1 @@
-var mnemonic = "stem outer adapt injury holiday junior squeeze embrace collect barrel before response";
+var mnemonic = "laugh february garlic crawl victory check dwarf hub public violin notice yard";

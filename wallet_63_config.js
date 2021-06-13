@@ -1,1 +1,1 @@
-var mnemonic = "health raven pond twelve lunar situate bicycle media danger tide grunt shaft";
+var mnemonic = "state worth math ceiling camp planet burst child try purchase crunch diet";

@@ -1,1 +1,1 @@
-var mnemonic = "marble bicycle lunar note drastic orchard father fan zero grape equal fortune";
+var mnemonic = "nerve series pottery grit project delay stable priority devote panther sauce crouch";

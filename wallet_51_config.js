@@ -1,1 +1,1 @@
-var mnemonic = "witness black sell garlic hockey road forget involve nephew rely jacket dutch";
+var mnemonic = "develop city engage snack talk vast fetch edge token sight chair sock";

@@ -1,1 +1,1 @@
-var mnemonic = "drip ice brother much solve plastic camera crouch toilet kick fix spray";
+var mnemonic = "harsh surface scene evil upset eternal liar social visa two bus ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty fragile bean chase hope hedgehog track galaxy glass drastic scene actor";
+var mnemonic = "network relief fatal predict easily machine mimic simple feed trip budget door";

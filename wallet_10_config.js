@@ -1,1 +1,1 @@
-var mnemonic = "midnight special slush rescue flower dwarf addict field autumn betray valve illegal";
+var mnemonic = "animal explain major truly oblige breeze tennis burst increase process drastic ignore";

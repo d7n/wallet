@@ -1,1 +1,1 @@
-var mnemonic = "initial wing lounge debate twist reveal metal mean siege robust during rookie";
+var mnemonic = "wink pitch stool normal pride practice army symptom rocket animal actual flee";

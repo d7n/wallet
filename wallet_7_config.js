@@ -1,1 +1,1 @@
-var mnemonic = "absorb dog visit smoke quality erode bomb drill soda twenty tonight fault";
+var mnemonic = "auto custom couch grocery pulse orphan remain embrace cabbage outdoor winner now";

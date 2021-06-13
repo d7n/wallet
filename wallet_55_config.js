@@ -1,1 +1,1 @@
-var mnemonic = "winter elephant mother crawl vague bronze core video mistake snack unfair veteran";
+var mnemonic = "meadow problem aim business soon clean physical spread section scout negative type";

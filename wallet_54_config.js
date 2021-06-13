@@ -1,1 +1,1 @@
-var mnemonic = "sea future swamp kiss lumber gentle jazz crowd outside sniff indoor intact";
+var mnemonic = "behave bacon weird depart notable crop about unfold second light vibrant silly";

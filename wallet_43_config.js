@@ -1,1 +1,1 @@
-var mnemonic = "expire garage video twin gauge model cradle butter subway renew spin license";
+var mnemonic = "umbrella cash play sudden cube illness dinner universe miss main panel pioneer";

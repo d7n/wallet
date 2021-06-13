@@ -1,1 +1,1 @@
-var mnemonic = "vapor execute syrup heart pill feature carbon myth tackle odor fine high";
+var mnemonic = "way income coin present deliver trick slow apple maple knife rich submit";

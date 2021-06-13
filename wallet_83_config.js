@@ -1,1 +1,1 @@
-var mnemonic = "wedding teach midnight lesson income shuffle skirt paddle cradle tip ignore oxygen";
+var mnemonic = "peasant theme evoke minute actual diary pilot tennis analyst float siege carpet";
