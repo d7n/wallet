@@ -1,1 +1,1 @@
-var mnemonic = "federal hotel whale park impact skull elbow wine south tomato close skill";
+var mnemonic = "seek sister behave next labor orange domain picnic rude build must feel";

@@ -1,1 +1,1 @@
-var mnemonic = "grain fit era choice vacuum walnut inherit tape luggage goose pet middle";
+var mnemonic = "advance language impose crop liar maid inject thrive fabric blood bronze license";

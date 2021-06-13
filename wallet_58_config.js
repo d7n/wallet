@@ -1,1 +1,1 @@
-var mnemonic = "limit cook all walnut depth artwork myth cloth hair dignity shop mouse";
+var mnemonic = "swamp someone seek disease taste ride orient eagle output mobile bike satoshi";

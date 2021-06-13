@@ -1,1 +1,1 @@
-var mnemonic = "scare found harsh able sibling shell ozone vibrant vivid merge useless rebel";
+var mnemonic = "finger kangaroo nuclear coach street extra differ denial crowd scale blast symptom";

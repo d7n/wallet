@@ -1,1 +1,1 @@
-var mnemonic = "ability cage say slow hidden absorb lobster illness latin absurd save rescue";
+var mnemonic = "coast brick sample duck clown more average labor promote maximum corn bamboo";

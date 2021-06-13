@@ -1,1 +1,1 @@
-var mnemonic = "share nasty crash index reject stem express adult romance today hamster envelope";
+var mnemonic = "relief train erase unable hair wing science safe clutch rate stem maze";

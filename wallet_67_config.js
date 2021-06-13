@@ -1,1 +1,1 @@
-var mnemonic = "rebuild ritual actor kitten decorate narrow burger rose enemy agree mean divert";
+var mnemonic = "process taxi essence enrich pig harvest broccoli practice level web flower release";

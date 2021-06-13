@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur appear master sheriff upgrade unique uniform topic moment tuition spirit coral";
+var mnemonic = "monster eagle flush grass call figure material sister enlist rain comfort angle";

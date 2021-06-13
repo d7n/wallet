@@ -1,1 +1,1 @@
-var mnemonic = "mule injury play brush volcano develop web globe carpet retire evil solid";
+var mnemonic = "loop shoe almost fly stove peasant energy top rather visa collect half";

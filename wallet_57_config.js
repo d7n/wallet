@@ -1,1 +1,1 @@
-var mnemonic = "memory car rough safe solid defy knife accuse arctic party rescue fan";
+var mnemonic = "tuition load scout interest scan demand disease blood salute tragic system high";

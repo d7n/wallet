@@ -1,1 +1,1 @@
-var mnemonic = "grab pigeon measure flee movie word stem soon minute wing when wait";
+var mnemonic = "culture bind square blade shoe beauty luxury essay banana bring grab video";

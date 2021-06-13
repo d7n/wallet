@@ -1,1 +1,1 @@
-var mnemonic = "cabin dutch profit smooth mixture impulse history room pupil hello prevent merit";
+var mnemonic = "garlic gas trumpet exotic coconut anchor harsh east glide anger asset antique";

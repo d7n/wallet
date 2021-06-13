@@ -1,1 +1,1 @@
-var mnemonic = "among leave movie target hair school raw pepper tired park false host";
+var mnemonic = "ceiling crush timber cloth genre breeze note number manual swear veteran range";

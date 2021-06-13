@@ -1,1 +1,1 @@
-var mnemonic = "slight brass hybrid trap crack total trumpet shoe mixed empower cruise pause";
+var mnemonic = "tag bachelor salt search below tank cargo chat crisp voice blind flee";

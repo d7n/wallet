@@ -1,1 +1,1 @@
-var mnemonic = "unusual runway human jar corn ensure sock gift coffee illness leg witness";
+var mnemonic = "clump advance fatal crash story pair put vintage need then promote camp";

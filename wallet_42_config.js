@@ -1,1 +1,1 @@
-var mnemonic = "observe control spell leaf fuel oven assault language chuckle coach profit aware";
+var mnemonic = "green extra pepper flock boring orphan abstract ginger supply few govern detail";

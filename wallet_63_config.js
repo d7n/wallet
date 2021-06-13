@@ -1,1 +1,1 @@
-var mnemonic = "first peanut deny tornado awful two picnic record mansion bitter short response";
+var mnemonic = "genuine disease jacket party maple document suspect music table north sadness split";

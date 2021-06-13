@@ -1,1 +1,1 @@
-var mnemonic = "verb skin humble detect plunge consider wink top tent jewel icon voyage";
+var mnemonic = "noble rather chef nose similar pill useful grit tomorrow extra carbon fitness";

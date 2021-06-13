@@ -1,1 +1,1 @@
-var mnemonic = "bind praise grape round message grain later scare dose brass wood tiny";
+var mnemonic = "top enhance remove trash empower dial over trumpet worth unknown response what";

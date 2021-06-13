@@ -1,1 +1,1 @@
-var mnemonic = "puppy equal kind poverty escape grass replace wasp coach brand drastic little";
+var mnemonic = "pass pulp cliff canoe grow photo pact income absurd soul lawn shaft";

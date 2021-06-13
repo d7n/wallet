@@ -1,1 +1,1 @@
-var mnemonic = "tuition host puppy park middle oblige disagree sign horse discover tide route";
+var mnemonic = "october brush shield burger image wheel luxury three glove toward scan message";

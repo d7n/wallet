@@ -1,1 +1,1 @@
-var mnemonic = "mom fix arch sketch blood toward forward candy replace visa empty chuckle";
+var mnemonic = "rich crew play speed comfort horror guess nature mansion timber jump cave";

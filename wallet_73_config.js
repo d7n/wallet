@@ -1,1 +1,1 @@
-var mnemonic = "carry wash earn crisp snap farm alone act viable must clock marble";
+var mnemonic = "roof scrap miracle story open exchange asset roast spike half account topic";

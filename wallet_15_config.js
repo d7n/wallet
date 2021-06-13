@@ -1,1 +1,1 @@
-var mnemonic = "uniform soup denial giant menu exhibit ball brave crowd cluster edge near";
+var mnemonic = "pepper escape unique label electric behind horse soda scheme face cute gloom";

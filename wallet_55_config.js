@@ -1,1 +1,1 @@
-var mnemonic = "butter decrease miracle marriage slot embrace blush flight donkey miss mammal problem";
+var mnemonic = "harbor rookie blush exhibit fog result cost emerge flock struggle scare recipe";

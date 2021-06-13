@@ -1,1 +1,1 @@
-var mnemonic = "salon effort involve keen wink fitness universe license rookie little swallow silly";
+var mnemonic = "comfort purpose nation case near custom cancel elevator tree dentist fetch thing";

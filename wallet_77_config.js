@@ -1,1 +1,1 @@
-var mnemonic = "slender retire danger pill announce october worth palm forum forum elegant love";
+var mnemonic = "tumble barrel regular lawn bomb client casual burst luggage upgrade vivid entire";

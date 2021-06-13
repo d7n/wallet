@@ -1,1 +1,1 @@
-var mnemonic = "bean feature diet scrub occur decade try vintage false possible prepare snake";
+var mnemonic = "very insane language clay actress fade caution pigeon seek since sure dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "shock acid banana endless corn icon reject pledge shaft use donkey someone";
+var mnemonic = "afford peace fault buyer nut drive apart actress hope robot van walnut";

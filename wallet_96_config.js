@@ -1,1 +1,1 @@
-var mnemonic = "hurt mass strong script left blast drill catch tired edit material verb";
+var mnemonic = "unusual area panel equal stay climb marriage meadow home employ syrup upper";

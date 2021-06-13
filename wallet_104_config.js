@@ -1,1 +1,1 @@
-var mnemonic = "sick track upgrade swallow street tooth zone trick shoot odor town build";
+var mnemonic = "toilet giraffe reform benefit brand carpet winter gap weekend believe tag achieve";

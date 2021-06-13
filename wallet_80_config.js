@@ -1,1 +1,1 @@
-var mnemonic = "general other edge slush rabbit avoid depart job banner pretty sing mixed";
+var mnemonic = "rude fade clay shoulder south loop decorate simple aerobic warfare foil session";

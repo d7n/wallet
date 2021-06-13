@@ -1,1 +1,1 @@
-var mnemonic = "hover argue sadness human dose rent green pipe lamp cat inside erase";
+var mnemonic = "jump come rough cute nation winter spike adjust idea unlock access enough";

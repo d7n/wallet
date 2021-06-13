@@ -1,1 +1,1 @@
-var mnemonic = "chair ahead sea dolphin art depend farm emotion donate unlock rabbit monster";
+var mnemonic = "truck print chief garage million turn hockey inch balcony legal dentist thing";

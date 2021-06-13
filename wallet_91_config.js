@@ -1,1 +1,1 @@
-var mnemonic = "first script length idea milk tuition bundle hurdle month violin palace mad";
+var mnemonic = "sphere must creek question noodle dust box burden match option skin exist";

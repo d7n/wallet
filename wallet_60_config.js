@@ -1,1 +1,1 @@
-var mnemonic = "climb yard avocado exhibit fork bind never project alter acoustic tuna local";
+var mnemonic = "chronic donate monster chat photo naive oak iron vacant unique donor topple";

@@ -1,1 +1,1 @@
-var mnemonic = "panther pave subject reward prepare image comic laptop wave screen peanut trash";
+var mnemonic = "laundry normal vast butter teach image cry pudding barrel admit merit physical";

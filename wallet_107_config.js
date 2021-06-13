@@ -1,1 +1,1 @@
-var mnemonic = "boil provide treat weekend sketch oak diet fortune arrange salute virus west";
+var mnemonic = "bracket vehicle delay gorilla kingdom hurt brown thing idle noise gesture lens";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil syrup hospital foot couple place turtle know news office negative apology";
+var mnemonic = "culture physical bundle symbol false crop child wink soap tragic move novel";

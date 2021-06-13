@@ -1,1 +1,1 @@
-var mnemonic = "night practice pet accuse kitchen deny sense express trumpet silver pelican sock";
+var mnemonic = "logic width artwork term ozone story rice humble screen useless brand all";

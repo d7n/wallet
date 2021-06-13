@@ -1,1 +1,1 @@
-var mnemonic = "arrest rib consider witness first harsh follow auction scrub easily robot envelope";
+var mnemonic = "often salt spice size long range primary main special daring twelve cruise";

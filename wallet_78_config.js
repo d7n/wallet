@@ -1,1 +1,1 @@
-var mnemonic = "follow mixed cattle spray layer play similar reason umbrella video stock used";
+var mnemonic = "affair label silver glide belt attack stand stadium motion animal victory embody";

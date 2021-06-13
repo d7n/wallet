@@ -1,1 +1,1 @@
-var mnemonic = "solve plastic skill mandate smart tomato armor actual pattern advance search shy";
+var mnemonic = "beyond beyond ring slow dignity please slight file debris life interest couch";

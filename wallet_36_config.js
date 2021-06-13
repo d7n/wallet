@@ -1,1 +1,1 @@
-var mnemonic = "punch verb relief emerge chicken rigid keep alien box term pond input";
+var mnemonic = "gun strategy depend betray robot fold clog choice pipe educate affair slow";

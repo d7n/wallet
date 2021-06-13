@@ -1,1 +1,1 @@
-var mnemonic = "village tuna wait frost beyond village syrup best blouse daughter ridge original";
+var mnemonic = "orchard maze shallow sting culture expect pistol civil amazing return face truth";

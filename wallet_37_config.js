@@ -1,1 +1,1 @@
-var mnemonic = "zebra purpose anchor suggest wreck scare lounge guitar powder odor staff eagle";
+var mnemonic = "vacant vital supply express cram segment that bird churn student palace phone";

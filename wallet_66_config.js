@@ -1,1 +1,1 @@
-var mnemonic = "find shaft violin legend candy pigeon oxygen tone hood belt layer load";
+var mnemonic = "armor rail crash arrange repair exile flash agree swing involve hen sword";

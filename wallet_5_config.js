@@ -1,1 +1,1 @@
-var mnemonic = "penalty retreat organ stay neither cable more staff gauge razor teach shoot";
+var mnemonic = "pulse salt mixed veteran burst fortune pen moon box mystery call hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "round odor clap pluck basket gospel sand glory spoil ticket gap eyebrow";
+var mnemonic = "crew output protect stool float ski fault naive company thunder online rib";

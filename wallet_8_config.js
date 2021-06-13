@@ -1,1 +1,1 @@
-var mnemonic = "there tackle purse owner pond endorse history airport merit broken lawsuit palace";
+var mnemonic = "among opera arrow steak unknown cinnamon around sample shoot clump high clap";

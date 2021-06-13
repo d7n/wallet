@@ -1,1 +1,1 @@
-var mnemonic = "candy leaf season ice carry exotic recall scheme find panther stadium cruise";
+var mnemonic = "call foot rocket attitude victory myth this wrap vanish gauge parent alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "useless hard switch potato depth position measure leave coach old scorpion fiber";
+var mnemonic = "bracket brand harvest phrase reward stumble case flame urban road mean ketchup";

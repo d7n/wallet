@@ -1,1 +1,1 @@
-var mnemonic = "sure mosquito aunt forward hurt put first butter input marble desert elder";
+var mnemonic = "siege crouch machine primary culture already main fee light concert speak half";

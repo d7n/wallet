@@ -1,1 +1,1 @@
-var mnemonic = "laptop cabin icon witness twelve fiction comic twin shine envelope obey immense";
+var mnemonic = "erase orange eagle lucky loan helmet jazz potato course service plate eyebrow";

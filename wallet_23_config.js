@@ -1,1 +1,1 @@
-var mnemonic = "escape lens focus short country produce bench relief throw suit add very";
+var mnemonic = "retire cheap arrow bacon soul jelly whisper immense address glance cable bike";

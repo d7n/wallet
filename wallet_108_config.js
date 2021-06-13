@@ -1,1 +1,1 @@
-var mnemonic = "casual salad defy december sure wood heart struggle plate vault used slim";
+var mnemonic = "horror ivory horse fly worth race pencil wait simple lab parent flame";

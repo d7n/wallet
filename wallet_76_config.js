@@ -1,1 +1,1 @@
-var mnemonic = "giraffe auction light code ten daring strong carry blossom street rubber spread";
+var mnemonic = "test fitness truth orbit innocent section price always certain first sister code";

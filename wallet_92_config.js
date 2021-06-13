@@ -1,1 +1,1 @@
-var mnemonic = "diesel friend report south valid diary biology key cushion match portion club";
+var mnemonic = "shock gadget fever typical brown divert apology extend potato camera cigar hand";

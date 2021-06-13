@@ -1,1 +1,1 @@
-var mnemonic = "health egg later inner soon veteran face dream enemy embark mixed can";
+var mnemonic = "truly liar oxygen sleep interest cabin wrestle worry chunk abandon noodle connect";

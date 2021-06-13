@@ -1,1 +1,1 @@
-var mnemonic = "execute bean goddess crystal clump sadness buzz system negative unhappy sadness lamp";
+var mnemonic = "slab fox olympic lock door scrap book wasp make gossip rail river";

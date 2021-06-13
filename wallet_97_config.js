@@ -1,1 +1,1 @@
-var mnemonic = "deer inflict garment live amateur ostrich until sunny indoor ghost special razor";
+var mnemonic = "excite orange duck thrive fluid direct blur glass escape hotel satisfy mother";

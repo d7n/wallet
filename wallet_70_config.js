@@ -1,1 +1,1 @@
-var mnemonic = "gesture scatter can call dignity teach exotic spike lawn security layer stove";
+var mnemonic = "kid combine room cram hurry circle unhappy blur vocal tip vintage admit";

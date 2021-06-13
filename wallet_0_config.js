@@ -1,1 +1,1 @@
-var mnemonic = "banner spare sad expire flash tank goose raw horror order always bundle";
+var mnemonic = "essay spot entry spoil outdoor clean panic fatigue reject comic silly town";

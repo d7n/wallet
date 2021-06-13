@@ -1,1 +1,1 @@
-var mnemonic = "crash tired buyer sample page position fatigue piece intact code between tilt";
+var mnemonic = "congress wrong food trip fold marine answer bird spirit friend version angry";

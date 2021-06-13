@@ -1,1 +1,1 @@
-var mnemonic = "spray casual like gaze comic logic magic soda street section curtain else";
+var mnemonic = "speed siren zone tag below churn cage mandate weapon impact deny color";

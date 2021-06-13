@@ -1,1 +1,1 @@
-var mnemonic = "derive indoor light gesture stove ordinary day nothing meat market eight dust";
+var mnemonic = "merry exotic garage gaze taste cabin wise path word empower art unfair";

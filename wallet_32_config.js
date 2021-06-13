@@ -1,1 +1,1 @@
-var mnemonic = "ranch river pact token brother sun voice people print stay thank toddler";
+var mnemonic = "fence cart file brain fossil fox awkward food fat asset clutch member";

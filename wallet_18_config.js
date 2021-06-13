@@ -1,1 +1,1 @@
-var mnemonic = "expect nothing priority donor face kiwi inside quantum menu visual exhibit deposit";
+var mnemonic = "used session unable purity face bleak plastic dizzy crop drastic movie enough";

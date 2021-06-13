@@ -1,1 +1,1 @@
-var mnemonic = "size ski focus lizard damp ignore vacuum chalk denial toy run dutch";
+var mnemonic = "uniform dry receive sentence blade ask rebuild mechanic agent tool wine apple";

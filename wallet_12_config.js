@@ -1,1 +1,1 @@
-var mnemonic = "sweet dentist squeeze december mushroom embark fire name equip grape perfect crunch";
+var mnemonic = "before utility basic state pass artefact egg intact slender hip hybrid bulk";

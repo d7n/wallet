@@ -1,1 +1,1 @@
-var mnemonic = "elevator capital confirm mixture original guide tumble bird actress venue knock depth";
+var mnemonic = "lyrics wisdom gadget trial capable use vault excuse key toe basket aunt";

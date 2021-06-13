@@ -1,1 +1,1 @@
-var mnemonic = "minute quantum solve broken ice sort bench olympic safe topple great owner";
+var mnemonic = "spring trade oblige chalk inject tilt good funny purity insect burst ride";

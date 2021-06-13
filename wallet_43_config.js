@@ -1,1 +1,1 @@
-var mnemonic = "stick broom drive decrease fabric burden help exercise sword loyal toss acquire";
+var mnemonic = "sleep wolf asset satisfy picnic captain strategy ribbon hat gold solution demand";

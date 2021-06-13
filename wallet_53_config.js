@@ -1,1 +1,1 @@
-var mnemonic = "try search valve seed stereo odor session inflict gown security split dignity";
+var mnemonic = "injury chest start child start kidney canal peanut become bless salute leisure";

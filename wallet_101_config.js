@@ -1,1 +1,1 @@
-var mnemonic = "elite water notice false taxi balance knee hover unit large repair north";
+var mnemonic = "kitchen follow act caution hold daughter derive visual south film practice delay";

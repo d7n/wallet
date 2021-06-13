@@ -1,1 +1,1 @@
-var mnemonic = "nuclear slush zebra wrong soft fog jungle skirt behave safe subject ladder";
+var mnemonic = "nephew submit around loud confirm street carpet know grape palm logic frog";

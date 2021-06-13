@@ -1,1 +1,1 @@
-var mnemonic = "team fruit case party laundry toy loud snow custom office outside fossil";
+var mnemonic = "month supply pizza repeat stick increase wink immune word cry sort midnight";

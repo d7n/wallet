@@ -1,1 +1,1 @@
-var mnemonic = "orphan always one divorce apple news drop street speed segment assault canoe";
+var mnemonic = "jazz shove prevent basket shaft ship embrace vacant divide ethics remind brass";

@@ -1,1 +1,1 @@
-var mnemonic = "stage future mule spike indicate festival turkey laundry swamp movie kiwi cotton";
+var mnemonic = "fresh salon neck history buyer chalk orchard swift scatter fancy jelly asset";

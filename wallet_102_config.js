@@ -1,1 +1,1 @@
-var mnemonic = "family city fish flight jewel insane topple citizen fantasy crawl oil pet";
+var mnemonic = "federal deny vacuum tank version amused brother market glow obey valve easy";

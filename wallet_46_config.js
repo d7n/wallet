@@ -1,1 +1,1 @@
-var mnemonic = "luxury company access empty skill energy kit hazard step trophy valve stage";
+var mnemonic = "agree frame this cave flee ship tuna depart shift clean issue current";

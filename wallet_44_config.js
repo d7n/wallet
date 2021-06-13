@@ -1,1 +1,1 @@
-var mnemonic = "alter swallow join sail lawn fence opera peanut burst time snack zone";
+var mnemonic = "scan close result nerve bicycle alarm liar glare digital warrior era outer";

@@ -1,1 +1,1 @@
-var mnemonic = "beef regret title prison heavy panic rib orchard evolve change liberty brain";
+var mnemonic = "dragon file title host someone soul supreme cruise also slight dry clinic";
