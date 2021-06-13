@@ -1,1 +1,1 @@
-var mnemonic = "blue recall limb vibrant unit magic vicious winner boss senior easily wide";
+var mnemonic = "lemon ignore actor upset double practice maze comfort budget skill proof maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket perfect piano lab narrow banana total feel able vault pilot jazz";
+var mnemonic = "dash hedgehog quarter feature can chase timber visit thunder steel snow cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover agent ball smart raw tongue match half mom boy furnace execute";
+var mnemonic = "regret absorb bird opera blade blade flush cover joy tenant matrix access";

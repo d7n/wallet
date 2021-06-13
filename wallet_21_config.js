@@ -1,1 +1,1 @@
-var mnemonic = "occur stable coyote pass upset vessel forward brush worry deliver biology museum";
+var mnemonic = "muscle finish tunnel safe finish demand remain chief salt token obtain rack";

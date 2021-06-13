@@ -1,1 +1,1 @@
-var mnemonic = "swing write three person minute tooth ask tape split govern winner rule";
+var mnemonic = "lab usage harbor also man dad spoil mouse coconut heart anxiety myself";

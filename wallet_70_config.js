@@ -1,1 +1,1 @@
-var mnemonic = "feature caught birth hidden bounce visit soap loud scissors sting snack shadow";
+var mnemonic = "bag choose bundle myth shoot photo tape they hundred gap opera autumn";

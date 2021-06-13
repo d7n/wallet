@@ -1,1 +1,1 @@
-var mnemonic = "shrimp typical figure cigar often economy collect path produce net earth scheme";
+var mnemonic = "sleep razor index asset avoid defense hollow clog can opinion must border";

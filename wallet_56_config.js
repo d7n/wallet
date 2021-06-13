@@ -1,1 +1,1 @@
-var mnemonic = "demand shy bus bullet addict foam effort lonely earth spend skate empower";
+var mnemonic = "kit author steak hope husband basic lonely struggle must unlock gadget fatigue";

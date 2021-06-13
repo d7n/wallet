@@ -1,1 +1,1 @@
-var mnemonic = "episode analyst hat steel author flavor object mask female review draw skate";
+var mnemonic = "town aunt scare wrist sword casino used enemy run patrol shield gadget";

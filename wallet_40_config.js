@@ -1,1 +1,1 @@
-var mnemonic = "jazz tape tunnel sting rotate pyramid marriage label goat stay fiction deer";
+var mnemonic = "waste win nation start travel install skate nasty balcony utility today typical";

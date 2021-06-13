@@ -1,1 +1,1 @@
-var mnemonic = "solar small still inhale lobster copy expect resemble slot spread foot employ";
+var mnemonic = "wish web cupboard valley replace swamp avocado ocean pass slam diary drip";

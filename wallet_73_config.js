@@ -1,1 +1,1 @@
-var mnemonic = "valley slot swift minimum balance sugar fire fiber actress country move bullet";
+var mnemonic = "mosquito salmon grow slogan giant city pitch view bicycle settle tree giant";

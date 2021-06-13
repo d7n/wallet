@@ -1,1 +1,1 @@
-var mnemonic = "fragile error other eight vague this echo pretty mouse prison jelly monkey";
+var mnemonic = "lunch obvious disagree coach old large whale lunch divide beach pretty speed";

@@ -1,1 +1,1 @@
-var mnemonic = "win scare mountain million luxury voyage split arm afraid baby noble spring";
+var mnemonic = "bamboo erosion stove pond farm dress liquid cruise someone multiply gas action";

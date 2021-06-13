@@ -1,1 +1,1 @@
-var mnemonic = "they sting neutral crazy push village feature unhappy despair weapon cushion forward";
+var mnemonic = "maximum crawl toward blame divorce glance joy theory kitchen eager dream major";

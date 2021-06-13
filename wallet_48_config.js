@@ -1,1 +1,1 @@
-var mnemonic = "review exchange harbor diagram digital crazy equip join taste have thrive critic";
+var mnemonic = "lecture gospel remember domain spot draft viable car magic best another base";

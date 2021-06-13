@@ -1,1 +1,1 @@
-var mnemonic = "toss happy amateur dance meadow fatigue save rare chief over market few";
+var mnemonic = "hawk length century skirt road wall broccoli depart cluster sadness topic embark";

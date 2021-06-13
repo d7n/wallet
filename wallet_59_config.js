@@ -1,1 +1,1 @@
-var mnemonic = "session forward sauce radar devote three brass ramp nurse rent major innocent";
+var mnemonic = "impose increase coin copper odor meadow salmon hold able basic thought unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "broom tribe wrestle spice thrive delay economy ritual multiply please depend liberty";
+var mnemonic = "call weekend bracket since jazz veteran april usual busy bench repair slender";

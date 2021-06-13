@@ -1,1 +1,1 @@
-var mnemonic = "dynamic actress raven twelve hollow rough wrestle shield disagree dream very nurse";
+var mnemonic = "fossil wedding similar play style domain luggage family type memory silly spy";

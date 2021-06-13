@@ -1,1 +1,1 @@
-var mnemonic = "dawn exist gown direct absurd praise betray drill demand broom sweet apple";
+var mnemonic = "online vapor job lonely wide thunder enough wild aware brick staff emotion";

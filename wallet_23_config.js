@@ -1,1 +1,1 @@
-var mnemonic = "toddler document error slender scan include green ask kitchen goddess submit mushroom";
+var mnemonic = "okay broccoli problem gasp ordinary odor liberty debate usage obvious wasp heavy";

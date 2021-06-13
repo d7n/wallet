@@ -1,1 +1,1 @@
-var mnemonic = "entire weasel will belt flame language muscle follow teach govern quantum primary";
+var mnemonic = "cigar ahead lion trip original trade category grunt draw wise acquire interest";

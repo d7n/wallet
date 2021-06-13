@@ -1,1 +1,1 @@
-var mnemonic = "universe tenant unfair twelve broccoli hire window truly snack ripple soon west";
+var mnemonic = "vibrant square estate velvet trigger foot cannon wine away timber rhythm grain";

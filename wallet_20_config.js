@@ -1,1 +1,1 @@
-var mnemonic = "snap update beyond retire return lawn print dutch fold name ten coach";
+var mnemonic = "more educate cinnamon keen clever radio cat crack silent bamboo gloom question";

@@ -1,1 +1,1 @@
-var mnemonic = "food thrive know cargo reform glide favorite want term dolphin typical churn";
+var mnemonic = "harsh arrow tomato soft usage taxi rhythm bone gossip portion damp bus";

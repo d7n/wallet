@@ -1,1 +1,1 @@
-var mnemonic = "flush pipe grab stay tired core upset disagree tomato face rapid price";
+var mnemonic = "buddy spirit observe story inside stable speak machine tourist indicate lady spare";

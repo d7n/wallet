@@ -1,1 +1,1 @@
-var mnemonic = "system apology magnet tumble tumble enemy drama anger lunar shrug vicious reflect";
+var mnemonic = "danger always front casino cricket broom kite spray energy betray update army";

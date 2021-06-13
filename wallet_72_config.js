@@ -1,1 +1,1 @@
-var mnemonic = "flat menu rice fan pear emotion other surprise chair never palm elevator";
+var mnemonic = "tackle false together grow walk stock crunch hold bonus era tumble cream";

@@ -1,1 +1,1 @@
-var mnemonic = "area cannon tree garbage dust another uncle attack auto confirm offer town";
+var mnemonic = "history sponsor trade insect result eagle hold ticket fire culture valve dinner";

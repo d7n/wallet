@@ -1,1 +1,1 @@
-var mnemonic = "until always believe wisdom parrot scrub crop gate egg neither laundry boil";
+var mnemonic = "water water away resist humor bright fault cry web muscle ten side";

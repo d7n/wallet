@@ -1,1 +1,1 @@
-var mnemonic = "common math meadow cousin barely cook crumble junk fall wide fever once";
+var mnemonic = "gather power devote harvest coral service few air again menu cannon dinner";

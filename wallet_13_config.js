@@ -1,1 +1,1 @@
-var mnemonic = "allow suspect extra power dish clever unveil gospel exit build cash luggage";
+var mnemonic = "empty analyst system sight bounce stuff patch wool hip liberty order history";

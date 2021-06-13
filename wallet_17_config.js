@@ -1,1 +1,1 @@
-var mnemonic = "upset security symptom family then wise canoe agent author tool menu eight";
+var mnemonic = "twenty youth tennis chuckle tool salad assault intact doll explain wedding badge";

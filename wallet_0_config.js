@@ -1,1 +1,1 @@
-var mnemonic = "bottom spot film increase miracle path fault mention loud drink verify camera";
+var mnemonic = "idea true gold modify enrich intact industry analyst alcohol mask parent goddess";

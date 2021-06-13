@@ -1,1 +1,1 @@
-var mnemonic = "drink letter love what toddler usual record casual divide cereal ankle unusual";
+var mnemonic = "cabbage dish identify make divert slice recall employ output ticket rescue loop";

@@ -1,1 +1,1 @@
-var mnemonic = "spell vendor write choice frequent armed fork portion problem subject horror feel";
+var mnemonic = "tide scrub anxiety path curve idea wrap interest off repair point rare";

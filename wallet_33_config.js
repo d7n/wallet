@@ -1,1 +1,1 @@
-var mnemonic = "cradle skull plug summer alpha dance agree edit liquid tornado mystery another";
+var mnemonic = "winter tower crawl cannon myself abstract fame fitness breeze valley bind depend";

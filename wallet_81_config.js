@@ -1,1 +1,1 @@
-var mnemonic = "expire whisper universe into series design average fish elbow busy manual collect";
+var mnemonic = "rather salon finish wood select walk demand idea garbage gentle island common";

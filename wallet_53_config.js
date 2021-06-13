@@ -1,1 +1,1 @@
-var mnemonic = "float quantum chimney split soul faith boat pizza lumber salt world mule";
+var mnemonic = "short patient language rude main safe hamster section prison order three defense";

@@ -1,1 +1,1 @@
-var mnemonic = "first question olive arch smart employ base athlete dizzy shoulder interest relax";
+var mnemonic = "cactus vessel actual stick remember visa lounge plug joy wisdom agent climb";

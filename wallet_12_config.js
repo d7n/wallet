@@ -1,1 +1,1 @@
-var mnemonic = "pitch music real puzzle unfold labor bean image model neck accuse federal";
+var mnemonic = "witness aisle merry wild concert veteran carry quality sight guitar ancient stove";

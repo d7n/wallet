@@ -1,1 +1,1 @@
-var mnemonic = "black tree primary keen easily attack fence rebel gym ancient assault mask";
+var mnemonic = "snack exit join cluster inflict analyst proof pottery punch leopard possible embrace";

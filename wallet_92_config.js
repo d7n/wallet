@@ -1,1 +1,1 @@
-var mnemonic = "armed pipe verb bread own syrup wish proof crumble civil way tent";
+var mnemonic = "wolf favorite bulk actor behave boat large asthma tired floor local remain";

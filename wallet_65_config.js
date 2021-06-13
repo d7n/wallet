@@ -1,1 +1,1 @@
-var mnemonic = "alien dragon pave click inmate library scheme candy artist party measure napkin";
+var mnemonic = "garden carpet spread alert essence tiger dawn family mail olympic confirm awkward";

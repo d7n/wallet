@@ -1,1 +1,1 @@
-var mnemonic = "grief assault demise balcony trip civil know emotion absorb water other retire";
+var mnemonic = "address toe sell pulse arrest taste horror snake lizard vocal unhappy quiz";

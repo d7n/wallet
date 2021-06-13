@@ -1,1 +1,1 @@
-var mnemonic = "high together input impose melody title occur gold polar evidence tomorrow mushroom";
+var mnemonic = "lake example ready mom bridge dune group legend sniff planet amount snow";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy hidden album spring clay flower middle install hamster below later identify";
+var mnemonic = "horn canoe hard sponsor cruise name cram observe object urge original major";

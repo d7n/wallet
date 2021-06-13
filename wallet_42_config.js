@@ -1,1 +1,1 @@
-var mnemonic = "promote project wink wink outer idle cover pulp sadness soda explain lecture";
+var mnemonic = "main crowd still cute reject news stool lunar lumber rescue biology rice";

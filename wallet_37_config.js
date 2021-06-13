@@ -1,1 +1,1 @@
-var mnemonic = "process trend rule world defense cause mechanic toe solve ethics romance mountain";
+var mnemonic = "stem trap exercise hazard error round grape series always loud pact olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "choose fever jar shiver ring paddle hair picture price tooth current mention";
+var mnemonic = "food possible copper elegant keen bike source salmon easy curtain short fire";

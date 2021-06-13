@@ -1,1 +1,1 @@
-var mnemonic = "snow mutual baby shrimp autumn exchange party popular junk poem answer buffalo";
+var mnemonic = "service announce present wealth bird remind excess field increase client three coin";

@@ -1,1 +1,1 @@
-var mnemonic = "cube suffer social minute champion parent choice onion that ill device debris";
+var mnemonic = "kidney key jazz welcome analyst cram magnet scene manage game sausage predict";

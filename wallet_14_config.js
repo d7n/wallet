@@ -1,1 +1,1 @@
-var mnemonic = "cry palm domain surround jelly oxygen miss glide wood business critic reform";
+var mnemonic = "fit barely advance brief isolate veteran skull degree vague style wink history";

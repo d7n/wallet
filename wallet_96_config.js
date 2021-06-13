@@ -1,1 +1,1 @@
-var mnemonic = "gadget bubble mobile have sport action resemble rotate fall gate ring leopard";
+var mnemonic = "rude wedding grief sort pattern hurt shrimp pledge youth level pride boost";

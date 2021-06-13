@@ -1,1 +1,1 @@
-var mnemonic = "know word craft clump model soldier kiss fan funny report parrot rotate";
+var mnemonic = "receive riot gift profit gym hotel stock pill river inner leaf hero";

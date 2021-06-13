@@ -1,1 +1,1 @@
-var mnemonic = "polar venue sibling name pigeon apart mom vapor you devote razor sunset";
+var mnemonic = "toddler fatal damage pony immense board receive method oval coconut often just";

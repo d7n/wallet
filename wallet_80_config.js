@@ -1,1 +1,1 @@
-var mnemonic = "post popular seek matter pony foil stairs proof arrest famous despair chunk";
+var mnemonic = "flee busy praise analyst upper egg tag gown ghost lemon robust remain";

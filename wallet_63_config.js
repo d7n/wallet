@@ -1,1 +1,1 @@
-var mnemonic = "drive wolf aim rhythm police elbow salad endorse anchor budget addict unique";
+var mnemonic = "cart off drastic inspire fatal hope doctor emotion buddy cargo capable best";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle kit sunny east cool point trouble segment eternal wear path own";
+var mnemonic = "seek saddle agent satoshi gasp rally license broom entire general region entry";

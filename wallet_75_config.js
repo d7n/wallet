@@ -1,1 +1,1 @@
-var mnemonic = "appear useful vital creek loud insect year recycle expose purity robot asthma";
+var mnemonic = "mind filter express labor father elite error cactus erode height permit typical";

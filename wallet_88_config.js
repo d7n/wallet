@@ -1,1 +1,1 @@
-var mnemonic = "doll slush behind parent fabric used regret brick enjoy obey common pet";
+var mnemonic = "viable trouble enter reflect ghost wreck cabin impulse throw guilt second bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify urge people empower bitter title cotton elephant inspire outdoor visual forward";
+var mnemonic = "sure squeeze blouse fringe pyramid hat hawk happy gain dad summer lend";

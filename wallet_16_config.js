@@ -1,1 +1,1 @@
-var mnemonic = "dismiss cart crime anger oblige upper between dial drama leave cry suffer";
+var mnemonic = "search olive like repair olive essence ship know tiger sponsor about worth";

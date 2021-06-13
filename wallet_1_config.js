@@ -1,1 +1,1 @@
-var mnemonic = "visual whip hint use area decrease family hire silver fun smoke odor";
+var mnemonic = "mango flight wealth film odor dress erosion concert shrug fringe swim farm";

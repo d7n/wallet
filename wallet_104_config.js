@@ -1,1 +1,1 @@
-var mnemonic = "parade spend wasp fury vapor blue fragile give roast used vibrant cart";
+var mnemonic = "surge february buzz gain omit awful veteran taxi armed online coral execute";

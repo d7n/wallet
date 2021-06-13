@@ -1,1 +1,1 @@
-var mnemonic = "carpet crop kit copper obvious public ostrich motor usage party rude manage";
+var mnemonic = "famous mention pretty security fix crater skill indoor twice embrace flame wreck";

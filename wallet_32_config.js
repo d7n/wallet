@@ -1,1 +1,1 @@
-var mnemonic = "thrive net admit sad verb museum sentence dynamic buffalo tomato gun anger";
+var mnemonic = "task mountain program river celery virtual found settle shoot farm anchor trash";

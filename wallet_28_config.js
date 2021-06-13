@@ -1,1 +1,1 @@
-var mnemonic = "jaguar screen inherit erase term exit robust vendor wrestle swamp ahead open";
+var mnemonic = "slender filter panther hobby elite danger kidney duck cabbage health very matter";

@@ -1,1 +1,1 @@
-var mnemonic = "audit gorilla home social cute move next fit name first fence biology";
+var mnemonic = "pyramid random file flip fringe vanish road stairs disagree rack abuse hour";

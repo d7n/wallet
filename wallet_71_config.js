@@ -1,1 +1,1 @@
-var mnemonic = "bird asset uncover vicious coach minor amused receive museum airport chalk math";
+var mnemonic = "train bind come peanut picture foam ask wool jewel page eternal alpha";

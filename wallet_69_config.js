@@ -1,1 +1,1 @@
-var mnemonic = "leisure angle retire cart marble girl honey box ball wood unfold upgrade";
+var mnemonic = "amazing canyon snow cage journey hamster tornado obtain movie right destroy pepper";

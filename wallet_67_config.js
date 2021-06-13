@@ -1,1 +1,1 @@
-var mnemonic = "course law that green adult pattern dune resemble caution venue violin faith";
+var mnemonic = "soap dynamic miss dust start wave reduce sustain rally advice marble father";

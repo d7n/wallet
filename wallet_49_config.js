@@ -1,1 +1,1 @@
-var mnemonic = "air link deny measure sock best tail march faith salmon air copy";
+var mnemonic = "patient pepper talent hungry also feel lens give satisfy joy gaze burden";

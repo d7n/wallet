@@ -1,1 +1,1 @@
-var mnemonic = "left remember deliver wagon female brief rather bread front fat dream welcome";
+var mnemonic = "chimney board height decline satoshi wide van tobacco absorb false such demise";

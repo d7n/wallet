@@ -1,1 +1,1 @@
-var mnemonic = "gallery divert affair monkey rare auto disorder middle tuna despair ginger steel";
+var mnemonic = "salute chest edge nephew rigid income smoke trigger team attack reduce gain";

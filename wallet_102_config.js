@@ -1,1 +1,1 @@
-var mnemonic = "require afford reward solve grass gauge assault float safe effort dolphin height";
+var mnemonic = "nice mom steel enrich foster ecology book melt admit legend glove expose";

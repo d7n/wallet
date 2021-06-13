@@ -1,1 +1,1 @@
-var mnemonic = "clip silly equip hole private street nothing artist observe question better item";
+var mnemonic = "doctor metal smart shoulder allow turkey renew notice tilt print hazard people";

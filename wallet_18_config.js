@@ -1,1 +1,1 @@
-var mnemonic = "motion diet join sauce melody oyster civil win canvas pass differ fruit";
+var mnemonic = "grunt fine give hen code absorb pilot fault between can earth very";

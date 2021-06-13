@@ -1,1 +1,1 @@
-var mnemonic = "gold draft wide ethics foster water record educate apple lawsuit motion great";
+var mnemonic = "trigger advice month deputy puppy edit shop aware great region notice sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp pass spring ability people mix tell fiber guard purse board ostrich";
+var mnemonic = "original volcano real again lake hockey seven lend trash quiz boring apology";

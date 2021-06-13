@@ -1,1 +1,1 @@
-var mnemonic = "hood spice humble video winner pottery ginger arctic check easy vault nut";
+var mnemonic = "recipe fringe broom onion umbrella glimpse lesson warrior math benefit wash matter";

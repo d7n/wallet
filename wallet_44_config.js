@@ -1,1 +1,1 @@
-var mnemonic = "elephant spring humble casino setup exhaust swallow isolate female disease pudding bonus";
+var mnemonic = "citizen squirrel behave dawn actress print elephant funny calm wool service lemon";

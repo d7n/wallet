@@ -1,1 +1,1 @@
-var mnemonic = "deposit great abuse click build drift orchard pistol response detail loan eyebrow";
+var mnemonic = "metal debris bulk dose soul regular position wash illegal bird unusual spare";

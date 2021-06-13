@@ -1,1 +1,1 @@
-var mnemonic = "evoke lecture typical gold welcome traffic desert early dog secret glove matrix";
+var mnemonic = "winner three favorite estate intact original order make top defy siege dinosaur";

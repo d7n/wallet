@@ -1,1 +1,1 @@
-var mnemonic = "certain usage learn wall capital solution solid chunk custom wrist goose strong";
+var mnemonic = "avocado man negative juice frozen mobile sunset oval steak border note swarm";

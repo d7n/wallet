@@ -1,1 +1,1 @@
-var mnemonic = "deny garbage enemy stumble siren lucky health topic outdoor winter immense print";
+var mnemonic = "kidney dad broom huge promote orient debate flash dilemma shy sing pretty";

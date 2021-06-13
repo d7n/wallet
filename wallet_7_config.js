@@ -1,1 +1,1 @@
-var mnemonic = "impose used blanket help castle like stick vault odor train injury actor";
+var mnemonic = "wing victory ball path siege field jealous since image unveil cup noodle";

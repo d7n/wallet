@@ -1,1 +1,1 @@
-var mnemonic = "jacket need grape air weekend charge harvest liquid record jazz warrior monkey";
+var mnemonic = "peanut fossil stamp bind abstract skirt duck gentle into orange dry rally";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon program ensure faith depend pepper shiver gadget dirt blood family giant";
+var mnemonic = "apart various trigger scene fish fly glue cliff net claim antenna wide";
