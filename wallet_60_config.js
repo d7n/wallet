@@ -1,1 +1,1 @@
-var mnemonic = "upset wasp town few fog spray neither cupboard knee vital earth drive";
+var mnemonic = "despair cruise diet tuna juice swarm exclude over heavy hole remember hamster";

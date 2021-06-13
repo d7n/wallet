@@ -1,1 +1,1 @@
-var mnemonic = "slender fuel borrow upper noodle sure piece junk road foil coil steak";
+var mnemonic = "coconut outer collect despair post height task palace dinosaur ramp segment sunset";

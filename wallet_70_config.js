@@ -1,1 +1,1 @@
-var mnemonic = "lake injury garden coffee often party debate like north daughter junk best";
+var mnemonic = "master camp retire chaos pumpkin session nature enough gym spring miracle rug";

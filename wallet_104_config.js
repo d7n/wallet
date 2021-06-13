@@ -1,1 +1,1 @@
-var mnemonic = "guitar bless small victory canyon honey citizen flower item lens awake ramp";
+var mnemonic = "desert endorse script link equip combine aware vapor day van window lamp";

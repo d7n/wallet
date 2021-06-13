@@ -1,1 +1,1 @@
-var mnemonic = "arrow inform found member smooth there elegant combine step heavy track boost";
+var mnemonic = "inquiry figure delay champion tiny almost benefit airport make brisk holiday one";

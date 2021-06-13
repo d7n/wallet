@@ -1,1 +1,1 @@
-var mnemonic = "wild arctic smooth inmate rib ripple baby humble oppose mesh race broccoli";
+var mnemonic = "fresh tone fuel labor pioneer hungry cushion client job pet hundred suggest";

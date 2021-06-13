@@ -1,1 +1,1 @@
-var mnemonic = "scout tooth collect depend company auto raven amazing weekend moral target crop";
+var mnemonic = "van afford lucky object soap update disease father symptom life donate fossil";

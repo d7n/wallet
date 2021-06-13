@@ -1,1 +1,1 @@
-var mnemonic = "annual clump humble gossip coach all snap lyrics convince brand clay vital";
+var mnemonic = "visual exchange north double strike barrel educate minimum stereo flush comfort enact";

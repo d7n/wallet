@@ -1,1 +1,1 @@
-var mnemonic = "text dry warrior doctor maid hub horn air space bacon repair segment";
+var mnemonic = "asthma two they ethics dad rough snap away drastic venue boss olive";

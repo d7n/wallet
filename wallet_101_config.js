@@ -1,1 +1,1 @@
-var mnemonic = "ketchup fork bean short toy athlete wrestle velvet check adapt torch goose";
+var mnemonic = "ugly record slab sand silk apology letter ceiling primary lonely daring entry";

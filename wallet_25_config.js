@@ -1,1 +1,1 @@
-var mnemonic = "lock force refuse differ keen trigger core will promote federal aim immune";
+var mnemonic = "crowd future crane embody human crouch wheat over level bamboo quote bubble";

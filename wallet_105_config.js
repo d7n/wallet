@@ -1,1 +1,1 @@
-var mnemonic = "when only neglect degree move main sauce rabbit wait exercise develop link";
+var mnemonic = "swarm pig symbol vehicle pledge frost stable youth able trip knock fragile";

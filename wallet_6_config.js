@@ -1,1 +1,1 @@
-var mnemonic = "surge mango have liquid crazy danger fabric domain theme perfect parent female";
+var mnemonic = "affair used change charge purity meadow tennis sound bunker visual yard mosquito";

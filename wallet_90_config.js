@@ -1,1 +1,1 @@
-var mnemonic = "kiss armor carbon cloud escape armed clap skate analyst bamboo lens sort";
+var mnemonic = "evil school husband proud virus tell document fetch famous shiver inform obey";

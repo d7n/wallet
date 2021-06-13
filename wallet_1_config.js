@@ -1,1 +1,1 @@
-var mnemonic = "cream parent skull duty news leisure donate glue culture tank unique absorb";
+var mnemonic = "hamster play device find manual brave minimum dune whip select raven account";

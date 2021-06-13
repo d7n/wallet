@@ -1,1 +1,1 @@
-var mnemonic = "unlock kick apology race defense immune crash sun fetch letter steak noise";
+var mnemonic = "neglect speak ride forum monster twelve race innocent steak invite tissue differ";

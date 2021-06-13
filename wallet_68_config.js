@@ -1,1 +1,1 @@
-var mnemonic = "stay problem body escape arrive cement uncover evolve either board again wreck";
+var mnemonic = "survey change tube law valve tower sell arch vault act where second";

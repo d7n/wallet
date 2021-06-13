@@ -1,1 +1,1 @@
-var mnemonic = "final enhance author feed thing code ecology whale bitter later insane emerge";
+var mnemonic = "volume cluster dismiss rely uphold outdoor human anxiety danger bone pitch pulp";

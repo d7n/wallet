@@ -1,1 +1,1 @@
-var mnemonic = "crouch urban tilt heart rack omit dove beef hospital forget dizzy join";
+var mnemonic = "unveil style chaos enact hunt embody wagon distance extend entire weekend spoil";

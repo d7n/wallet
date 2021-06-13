@@ -1,1 +1,1 @@
-var mnemonic = "cabbage until door dirt action throw burden picnic point step list isolate";
+var mnemonic = "liquid border short finger cage final elite course fancy throw clock effort";

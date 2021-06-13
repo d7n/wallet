@@ -1,1 +1,1 @@
-var mnemonic = "case fold devote speed job farm husband size intact rose marble rug";
+var mnemonic = "proud latin dumb patch shiver pottery energy crush plate jungle swing random";

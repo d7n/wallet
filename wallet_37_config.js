@@ -1,1 +1,1 @@
-var mnemonic = "beach nose drift ripple remain reunion gallery rent outdoor ostrich impulse wrestle";
+var mnemonic = "food lawn gallery roof sort later cruel organ tape know world eye";

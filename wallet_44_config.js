@@ -1,1 +1,1 @@
-var mnemonic = "story flight lamp oxygen august skill neutral deal borrow mix usual rigid";
+var mnemonic = "tornado assault gaze region soon sun attack glue top relief sudden guitar";

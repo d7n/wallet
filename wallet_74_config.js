@@ -1,1 +1,1 @@
-var mnemonic = "bargain stumble pencil good neglect upper any hole umbrella author athlete install";
+var mnemonic = "spirit horse truly extend ritual make account mass sense husband cabin disorder";

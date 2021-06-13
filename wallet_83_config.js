@@ -1,1 +1,1 @@
-var mnemonic = "token glue hawk achieve execute present planet inspire universe clown knife author";
+var mnemonic = "movie uncle dance fish shoot aerobic switch throw defense ethics can agree";

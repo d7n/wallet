@@ -1,1 +1,1 @@
-var mnemonic = "radar model payment lock muscle reject action vapor any cute copy phone";
+var mnemonic = "delay trick away wash virus poem aware exchange lecture material page gold";

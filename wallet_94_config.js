@@ -1,1 +1,1 @@
-var mnemonic = "horn salmon brief they someone menu page robust clever stone sword tape";
+var mnemonic = "festival exercise egg sword daughter mix peace holiday risk silk fiction shadow";

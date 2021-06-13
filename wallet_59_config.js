@@ -1,1 +1,1 @@
-var mnemonic = "monster right mountain garden hour wish hand flush scare siren fashion tip";
+var mnemonic = "trim mandate strike foot visa boss rain melody crush video stable solar";

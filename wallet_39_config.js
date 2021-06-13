@@ -1,1 +1,1 @@
-var mnemonic = "antenna street hockey creek bachelor salad wave response camera subject betray bean";
+var mnemonic = "solar defy uncle melt such runway all mechanic tray stage above dinosaur";

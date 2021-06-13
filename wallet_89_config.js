@@ -1,1 +1,1 @@
-var mnemonic = "call action flash cement process tone vault desert rocket old funny wheat";
+var mnemonic = "climb fix project jar rocket card cart plug barely canvas dinner matrix";

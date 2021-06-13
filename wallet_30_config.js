@@ -1,1 +1,1 @@
-var mnemonic = "valid exhaust anger whip exist cloth zone swim pony home armed pepper";
+var mnemonic = "sword zone lottery consider struggle draft card pony pony safe grace cactus";

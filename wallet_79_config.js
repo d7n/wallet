@@ -1,1 +1,1 @@
-var mnemonic = "blur busy unit behind deal walk cloth brother account key craft notable";
+var mnemonic = "nuclear sweet rural salad help title curtain ensure become work alarm aware";

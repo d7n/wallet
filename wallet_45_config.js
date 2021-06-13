@@ -1,1 +1,1 @@
-var mnemonic = "script tired gadget accuse verify butter horror hawk win busy huge among";
+var mnemonic = "vessel stand solution sting purchase shed combine clerk cart paddle lumber clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "donor uphold plug hedgehog vicious between express mobile unit zone slab spawn";
+var mnemonic = "insect bottom prison twin celery brief enter circle element wheel estate mercy";

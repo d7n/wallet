@@ -1,1 +1,1 @@
-var mnemonic = "lion raw license risk morning thumb act episode behind jewel come burst";
+var mnemonic = "van leave town picture gold vault used blast salad digital save timber";

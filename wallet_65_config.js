@@ -1,1 +1,1 @@
-var mnemonic = "bid exclude water silver imitate light hill region faint priority twist sign";
+var mnemonic = "chicken project key sphere virus skirt soup view inject engage rule script";

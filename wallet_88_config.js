@@ -1,1 +1,1 @@
-var mnemonic = "reduce mail already hip tone quality market wall right undo antenna judge";
+var mnemonic = "fit census picnic engage select reveal mask gaze group yard other people";

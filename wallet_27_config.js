@@ -1,1 +1,1 @@
-var mnemonic = "flash hole sweet order final expose dune room visa trend symptom crystal";
+var mnemonic = "clock barely blame crowd drift method sauce hood grab fun canal hospital";

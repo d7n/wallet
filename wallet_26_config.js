@@ -1,1 +1,1 @@
-var mnemonic = "legend idea grape found letter forward salute cry wink clock venture garment";
+var mnemonic = "bleak increase weapon author zone confirm connect weasel edit churn team embody";

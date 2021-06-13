@@ -1,1 +1,1 @@
-var mnemonic = "effort pepper security chef jaguar build hard ripple often month sphere need";
+var mnemonic = "myth flock rough rhythm finger length aunt derive consider side cabbage rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "mention tuna soon text lucky embark brick walk ten network lucky clap";
+var mnemonic = "moment hundred wonder that plastic host cry response goose drift observe deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat salt tape evil enrich hundred abandon glide company ahead robot brave";
+var mnemonic = "talk hope lock ladder walnut humble crush draw salad jungle image fold";

@@ -1,1 +1,1 @@
-var mnemonic = "ship solid trust lazy rebel brisk then win wink grocery onion scare";
+var mnemonic = "spatial amused rib alpha month double fall exhibit pupil wage junk prefer";

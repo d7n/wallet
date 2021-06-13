@@ -1,1 +1,1 @@
-var mnemonic = "enact power fork female deer bitter lion castle hold nasty eyebrow write";
+var mnemonic = "pipe giraffe deal act gun garlic modify state sketch then capable client";

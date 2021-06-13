@@ -1,1 +1,1 @@
-var mnemonic = "genius close disease meadow crane choice useful also worry mirror lucky panda";
+var mnemonic = "ugly trust bag cabbage journey assume security boss bacon reunion trend bus";

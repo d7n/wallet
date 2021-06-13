@@ -1,1 +1,1 @@
-var mnemonic = "tomato deer engine breeze cry allow hurdle staff cart human demise rifle";
+var mnemonic = "seat change truck swap business artefact useful ostrich inmate six audit dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "ski mirror relax indoor room chalk dad limit dog baby drip relief";
+var mnemonic = "toe trigger ancient hundred sick refuse curve insane original echo rescue climb";

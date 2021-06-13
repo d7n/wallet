@@ -1,1 +1,1 @@
-var mnemonic = "extend local diamond curious degree uncle trial act young long across fashion";
+var mnemonic = "put target negative shield assist hungry cost helmet enroll guilt advance thumb";

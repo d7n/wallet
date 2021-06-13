@@ -1,1 +1,1 @@
-var mnemonic = "alley certain cannon convince jealous digital quick rent cake vocal husband soft";
+var mnemonic = "swarm license velvet erode cover unfold size clean rubber lecture surprise pioneer";

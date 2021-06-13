@@ -1,1 +1,1 @@
-var mnemonic = "practice circle asset current side toss vibrant blood void bulb wood glance";
+var mnemonic = "success chef nurse chief garage treat add live whip host inherit polar";

@@ -1,1 +1,1 @@
-var mnemonic = "net matrix call surface decrease noodle bleak gasp naive apology female bicycle";
+var mnemonic = "pioneer lens expand trial oblige estate jar major lake horror supreme mistake";

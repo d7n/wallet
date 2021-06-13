@@ -1,1 +1,1 @@
-var mnemonic = "deal evil endorse swallow mixed buzz bring humble sand zero lounge early";
+var mnemonic = "kind busy slow squeeze field virus valid glue there case draw today";

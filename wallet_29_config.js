@@ -1,1 +1,1 @@
-var mnemonic = "sting update typical certain chase theory type van famous neither labor author";
+var mnemonic = "exhibit hole crop situate grief increase club debris network chicken gown speed";

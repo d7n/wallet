@@ -1,1 +1,1 @@
-var mnemonic = "electric business million crumble industry exotic animal resemble unusual tumble pave cheap";
+var mnemonic = "wrap magnet foster little crack spot mesh oyster frequent candy carbon vibrant";

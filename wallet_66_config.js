@@ -1,1 +1,1 @@
-var mnemonic = "couple notable dumb ticket pole vessel bar gorilla cycle harvest ecology paddle";
+var mnemonic = "unlock mix rather fade absurd tilt process vehicle flavor search fee flat";

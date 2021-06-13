@@ -1,1 +1,1 @@
-var mnemonic = "believe able purchase parade weather razor bacon library pioneer journey essence moment";
+var mnemonic = "bitter rocket another two tool vehicle simple kidney radar infant deputy clinic";

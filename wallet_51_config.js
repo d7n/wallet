@@ -1,1 +1,1 @@
-var mnemonic = "flat lucky despair gas bunker wise pupil right vanish include unknown erosion";
+var mnemonic = "license wear way banana foot kidney usual praise add misery coin high";

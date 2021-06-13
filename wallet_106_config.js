@@ -1,1 +1,1 @@
-var mnemonic = "poet client devote broken rate twice wish dose weasel addict foil goddess";
+var mnemonic = "tomato never kite panel cattle potato broken mother cart civil gauge tower";

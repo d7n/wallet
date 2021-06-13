@@ -1,1 +1,1 @@
-var mnemonic = "fiction diary team mail artwork kick regular inmate hub hold mushroom feel";
+var mnemonic = "swim clock useful vendor inhale away bike web wash disease flight noble";

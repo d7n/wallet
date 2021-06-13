@@ -1,1 +1,1 @@
-var mnemonic = "humble pulp clump lunch marble wrestle various merit conduct victory enact ladder";
+var mnemonic = "critic loop manual region sudden original industry cost wisdom spray mass ramp";

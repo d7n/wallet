@@ -1,1 +1,1 @@
-var mnemonic = "idle crouch west gasp tortoise gown reopen faculty judge tent security this";
+var mnemonic = "venture name flock beyond uncover month degree month genuine hero rice silk";

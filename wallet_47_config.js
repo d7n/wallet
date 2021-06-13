@@ -1,1 +1,1 @@
-var mnemonic = "deposit sentence detect faint north achieve vehicle daring palace hawk gaze ensure";
+var mnemonic = "record search breeze crash stuff burst zebra light dismiss bike duty make";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant horror audit assault treat order sort close shadow frown surround deliver";
+var mnemonic = "oven burden prosper garbage toast visit taste word juice upon pilot devote";

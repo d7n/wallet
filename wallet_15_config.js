@@ -1,1 +1,1 @@
-var mnemonic = "toddler pattern alert suit sight corn oyster better weekend giggle when clutch";
+var mnemonic = "much early draft chuckle mixture lizard uncover actor indoor fatigue index sand";

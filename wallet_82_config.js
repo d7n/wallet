@@ -1,1 +1,1 @@
-var mnemonic = "relax gain price meadow remind bitter abstract rapid label paper scatter tackle";
+var mnemonic = "reflect morning clock couch hood caution govern brother spike ensure thing exit";

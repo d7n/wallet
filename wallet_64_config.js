@@ -1,1 +1,1 @@
-var mnemonic = "dentist angry buyer total nice rude organ final priority source call lumber";
+var mnemonic = "slab hour prison any apple stereo pumpkin gorilla piano flash return task";

@@ -1,1 +1,1 @@
-var mnemonic = "empty portion once outdoor weasel accuse finish brass wild lucky prize bind";
+var mnemonic = "farm deer throw oxygen require fall tumble flash brick between toe below";

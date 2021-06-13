@@ -1,1 +1,1 @@
-var mnemonic = "gown photo release warrior bid maximum chair violin stem energy whisper panda";
+var mnemonic = "million globe bone pudding couch brown cherry fancy broom letter panel nerve";

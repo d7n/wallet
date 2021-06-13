@@ -1,1 +1,1 @@
-var mnemonic = "hammer maximum frown practice dice toddler weapon wood cactus section story dust";
+var mnemonic = "base cat actor slush chest absorb fame bundle cheap member edge fiber";

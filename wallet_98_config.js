@@ -1,1 +1,1 @@
-var mnemonic = "relax common armed quote scrub captain black endorse brave isolate try arrest";
+var mnemonic = "stereo liquid dial grab six lonely tattoo observe lemon invite abstract impact";

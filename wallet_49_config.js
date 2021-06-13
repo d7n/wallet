@@ -1,1 +1,1 @@
-var mnemonic = "special anchor mansion divorce captain fatigue fiber tuna dumb raven enter stumble";
+var mnemonic = "worry cross alone prosper wreck endorse improve kingdom pyramid cloth dash magnet";

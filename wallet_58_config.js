@@ -1,1 +1,1 @@
-var mnemonic = "region lab early liquid consider frost program virus anger lunar sustain pistol";
+var mnemonic = "palm pair weather virus patch verb letter doll season brick fly cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "edge tuna belt auto father admit what concert song fold index large";
+var mnemonic = "code weird favorite way base shell group chase hybrid explain mountain funny";

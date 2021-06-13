@@ -1,1 +1,1 @@
-var mnemonic = "require buddy sport funny fragile happy hope home degree stick ask join";
+var mnemonic = "cargo short torch diagram illness artist tornado avocado you number unable shy";

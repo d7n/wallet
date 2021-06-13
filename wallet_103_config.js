@@ -1,1 +1,1 @@
-var mnemonic = "february panda design hub outside refuse jealous car private gospel purpose tired";
+var mnemonic = "remember awesome bless consider list tuna keen enrich oval winner solution simple";

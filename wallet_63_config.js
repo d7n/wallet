@@ -1,1 +1,1 @@
-var mnemonic = "powder cabin cheese film monitor work mystery fluid possible trade learn ritual";
+var mnemonic = "pitch law yard fossil banana stereo visual shrimp load dust loop expire";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse seed pattern banana tuna oxygen regular spatial exchange retire glare finger";
+var mnemonic = "monitor gun task hub script math voyage matrix later lazy rabbit trend";

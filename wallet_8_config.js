@@ -1,1 +1,1 @@
-var mnemonic = "twist middle tissue father ethics garbage defy own script mesh traffic client";
+var mnemonic = "curtain endless hybrid output cruel token royal lunar gas nice size net";

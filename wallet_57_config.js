@@ -1,1 +1,1 @@
-var mnemonic = "wonder private modify truth trash axis rent concert milk crew daughter letter";
+var mnemonic = "jealous drift stone open yellow chicken pipe man write boost useful search";

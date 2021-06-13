@@ -1,1 +1,1 @@
-var mnemonic = "funny vibrant conduct loan pride dismiss ivory wing twin hidden worry rely";
+var mnemonic = "gospel disagree wisdom aim snow pond anger drop weird brown sponsor unfold";

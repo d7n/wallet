@@ -1,1 +1,1 @@
-var mnemonic = "learn fade crowd lawn heavy fruit health pig grunt predict swift clip";
+var mnemonic = "essay cage borrow resemble brave song velvet age spell rare sail table";

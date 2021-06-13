@@ -1,1 +1,1 @@
-var mnemonic = "finish canvas gather twin test gold game timber lab uniform enrich stomach";
+var mnemonic = "crane excess allow struggle rare guilt grace dune dust almost shaft then";

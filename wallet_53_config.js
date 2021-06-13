@@ -1,1 +1,1 @@
-var mnemonic = "mention cheap buyer swamp horn code hour clever uniform stock service clock";
+var mnemonic = "small loud summer gun horse pear ostrich airport today edge holiday midnight";

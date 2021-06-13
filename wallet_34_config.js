@@ -1,1 +1,1 @@
-var mnemonic = "story shift skill timber merge pattern much bicycle immune jazz color arrow";
+var mnemonic = "weapon kitchen number reduce kick inhale gesture start soft produce either lonely";

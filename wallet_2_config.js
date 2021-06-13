@@ -1,1 +1,1 @@
-var mnemonic = "antique step special skate future pitch miss script solution horn tilt into";
+var mnemonic = "virus comic apple wrist mimic craft cruel enemy truth brief creek bullet";
