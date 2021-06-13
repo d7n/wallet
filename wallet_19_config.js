@@ -1,1 +1,1 @@
-var mnemonic = "prison aspect avoid card denial strong auto length invest day praise hockey";
+var mnemonic = "success crucial divorce puzzle jeans hamster sausage point brush rule music husband";

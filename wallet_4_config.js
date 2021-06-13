@@ -1,1 +1,1 @@
-var mnemonic = "art grit acoustic social snow eye seminar brick ridge decorate present beach";
+var mnemonic = "decorate move slim person valley paper armed vault gasp machine gaze wood";

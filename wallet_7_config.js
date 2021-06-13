@@ -1,1 +1,1 @@
-var mnemonic = "piano donor scatter near float media exist hello flock vintage flock agree";
+var mnemonic = "dutch series flight asthma ghost magnet open benefit van bulb phone ten";

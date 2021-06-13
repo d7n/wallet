@@ -1,1 +1,1 @@
-var mnemonic = "kiss owner orbit shine few warfare nurse life coral length cabbage derive";
+var mnemonic = "suspect history agree suit paddle van early slot wear father echo hold";

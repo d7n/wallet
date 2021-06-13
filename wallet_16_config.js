@@ -1,1 +1,1 @@
-var mnemonic = "observe useless element tuition virus raven truth win aunt become travel tool";
+var mnemonic = "sock say more emerge leisure spread opinion anchor debris fun gadget blur";

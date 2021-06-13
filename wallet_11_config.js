@@ -1,1 +1,1 @@
-var mnemonic = "cycle congress cook soup raise into labor silly long tree exclude conduct";
+var mnemonic = "gate together cargo action cousin search dune guitar lens grow source airport";

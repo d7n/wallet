@@ -1,1 +1,1 @@
-var mnemonic = "outside nature anxiety recall siege exact baby ice ship year labor depart";
+var mnemonic = "law high action medal always club neglect mirror erode car cable tide";

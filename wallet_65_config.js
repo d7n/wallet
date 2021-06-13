@@ -1,1 +1,1 @@
-var mnemonic = "already general worth shoulder state option bomb screen replace very topic warrior";
+var mnemonic = "chunk sadness canoe village cycle divorce dust wire soap save glide zero";

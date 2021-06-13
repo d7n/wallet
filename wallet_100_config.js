@@ -1,1 +1,1 @@
-var mnemonic = "session magic diary beauty lava struggle flush pave void dumb public phrase";
+var mnemonic = "cabin cigar neglect exhaust run vintage penalty exit dumb main seven curious";

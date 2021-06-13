@@ -1,1 +1,1 @@
-var mnemonic = "cannon gospel must behind under grant enhance casual unlock raven sense where";
+var mnemonic = "couch minor enemy school ivory famous century liquid near until grape divorce";

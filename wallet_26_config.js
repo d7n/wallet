@@ -1,1 +1,1 @@
-var mnemonic = "account country busy unable among rough grocery gold tent actress lawsuit tent";
+var mnemonic = "lyrics whale girl jump cloud render rather ring gaze job more pyramid";

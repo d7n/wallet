@@ -1,1 +1,1 @@
-var mnemonic = "faint coffee sword under spring lava ability board spatial speak antique wild";
+var mnemonic = "swallow canal evidence furnace torch stable used possible setup frown employ ignore";

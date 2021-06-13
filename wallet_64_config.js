@@ -1,1 +1,1 @@
-var mnemonic = "ozone expand frame whale call wrong marriage indicate boil cloud actual emerge";
+var mnemonic = "husband aisle face stamp smoke chimney protect angry rescue portion success visit";

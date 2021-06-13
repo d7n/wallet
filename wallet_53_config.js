@@ -1,1 +1,1 @@
-var mnemonic = "theory hobby aerobic side ahead lift hedgehog jaguar achieve coffee dumb finish";
+var mnemonic = "cruise judge stone struggle zebra hand upgrade border fashion cloth way fuel";

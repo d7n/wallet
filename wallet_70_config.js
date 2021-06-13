@@ -1,1 +1,1 @@
-var mnemonic = "clinic fork noodle dentist brisk weird wisdom modify black neither physical shop";
+var mnemonic = "boat feature velvet entry since cook garden stem wisdom denial visa fancy";

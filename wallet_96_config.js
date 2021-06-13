@@ -1,1 +1,1 @@
-var mnemonic = "segment cradle knee select light maple concert fan churn steel teach change";
+var mnemonic = "noodle swear cricket mention side exile enjoy theory enough vibrant shallow clay";

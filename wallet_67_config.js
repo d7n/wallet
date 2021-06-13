@@ -1,1 +1,1 @@
-var mnemonic = "similar extend flip eagle dynamic dice pizza remove control boil hint wash";
+var mnemonic = "test faith license ordinary ankle wire wisdom museum east upon engage recycle";

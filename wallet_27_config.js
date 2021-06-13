@@ -1,1 +1,1 @@
-var mnemonic = "dawn fancy lottery flag wing sad favorite snack length logic maze speed";
+var mnemonic = "borrow embrace bulb enough ordinary figure damage embody occur invite toddler either";

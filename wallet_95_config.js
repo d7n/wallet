@@ -1,1 +1,1 @@
-var mnemonic = "job table lawn employ crouch walnut rule plastic refuse insect slab release";
+var mnemonic = "arrest steel sentence bean caught ladder noble must return start brisk rather";

@@ -1,1 +1,1 @@
-var mnemonic = "minute margin wonder lecture plate tail mutual breeze addict man load impose";
+var mnemonic = "keep aim black hedgehog brief juice chest pole tooth grab armor firm";

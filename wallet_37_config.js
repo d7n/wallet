@@ -1,1 +1,1 @@
-var mnemonic = "render reason equip water benefit cram lunch foster arm gather faculty kingdom";
+var mnemonic = "sugar day finish blast casino rookie rib noble gauge where nice reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "weird mechanic trip number nurse fold slow open shop pass room twelve";
+var mnemonic = "also spray source night tip enforce nerve domain team annual magic ski";

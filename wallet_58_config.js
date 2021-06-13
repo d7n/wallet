@@ -1,1 +1,1 @@
-var mnemonic = "awesome purity today miss mirror barely music expire dirt duty dust quit";
+var mnemonic = "tag acquire place album smoke south hurry eager vessel mixed record connect";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar warrior best hundred furnace stomach tenant ability law brother success venue";
+var mnemonic = "clean visual world wife omit glove shine stairs scrub wrong repair erosion";

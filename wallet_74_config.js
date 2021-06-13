@@ -1,1 +1,1 @@
-var mnemonic = "remain night cup someone inquiry sting drive snake left loop bottom chimney";
+var mnemonic = "food initial follow disorder protect cream height sample setup bamboo arrest lift";

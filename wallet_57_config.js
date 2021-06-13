@@ -1,1 +1,1 @@
-var mnemonic = "click clinic level plastic tip frozen olympic turkey warfare match muscle top";
+var mnemonic = "elite vacuum success buzz dune income limb tuition bus junior light income";

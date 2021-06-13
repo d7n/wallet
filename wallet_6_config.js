@@ -1,1 +1,1 @@
-var mnemonic = "emotion jewel social sponsor gas spoon inject kitchen sea demise immune juice";
+var mnemonic = "brief castle blanket magic region output proof dune narrow melody among you";

@@ -1,1 +1,1 @@
-var mnemonic = "average risk color destroy apart quote noble penalty town manual oval open";
+var mnemonic = "interest swear cruise blood become will shoot craft order prosper frozen garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence tape rural room foster prison feed slender fish column frozen all";
+var mnemonic = "sun immune cave sort firm enough vault harvest toy judge auction funny";

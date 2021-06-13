@@ -1,1 +1,1 @@
-var mnemonic = "awkward stock picnic offer finish lunar hard glare bench edit resource change";
+var mnemonic = "space fire novel happy search crack wrong wear deal settle enough bundle";

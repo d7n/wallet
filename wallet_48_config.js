@@ -1,1 +1,1 @@
-var mnemonic = "surge peanut ordinary come buzz polar like subject shaft edit climb during";
+var mnemonic = "vacant buddy voyage blind honey shell urge love dinosaur define recall material";

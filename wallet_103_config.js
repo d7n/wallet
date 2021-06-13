@@ -1,1 +1,1 @@
-var mnemonic = "crash country sure grow decorate point tumble describe legal leg risk blade";
+var mnemonic = "lyrics purpose uncle autumn pumpkin level reason estate effort test tornado turtle";

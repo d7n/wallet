@@ -1,1 +1,1 @@
-var mnemonic = "brief opinion remind couch release early sister empty manual edit solve cannon";
+var mnemonic = "horn income brain idle youth impose panda annual cool oppose crush rack";

@@ -1,1 +1,1 @@
-var mnemonic = "cause autumn spawn sock differ fall surround life swallow sting hawk tackle";
+var mnemonic = "axis evoke okay vibrant suggest host sweet round flip toddler rifle clever";

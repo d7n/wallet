@@ -1,1 +1,1 @@
-var mnemonic = "cage spread feature jazz screen orient coast beauty vintage oyster shove olympic";
+var mnemonic = "vanish cable end modify woman diesel firm tiny thought ball inject wonder";

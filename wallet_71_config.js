@@ -1,1 +1,1 @@
-var mnemonic = "banner spring correct mobile mammal file bike clever swap chuckle derive share";
+var mnemonic = "nation visit burst gossip hospital assume resemble valley control say crash boost";

@@ -1,1 +1,1 @@
-var mnemonic = "join near sibling pottery alert ghost ski sail camp cherry pet uniform";
+var mnemonic = "goat extend loud wise core draw pipe helmet giraffe cruise foil hover";

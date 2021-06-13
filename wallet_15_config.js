@@ -1,1 +1,1 @@
-var mnemonic = "rebel leg simple genius crawl great summer erode sunny marble bonus around";
+var mnemonic = "post want notable tiger fabric sport loan flee type original maze stuff";

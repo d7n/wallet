@@ -1,1 +1,1 @@
-var mnemonic = "raw casual ribbon core crouch include sock obscure jungle case focus roof";
+var mnemonic = "inform athlete mango gain seven order jeans west arena arrow below inflict";

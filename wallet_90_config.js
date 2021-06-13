@@ -1,1 +1,1 @@
-var mnemonic = "coyote enrich merry romance license inner gorilla boy cool appear check box";
+var mnemonic = "travel artwork beauty shaft dish manage true actor brain run ill chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "push mixture prize race music release boss mass essay magic eagle large";
+var mnemonic = "spend true meadow spike company shuffle believe imitate mixture fetch bus awful";

@@ -1,1 +1,1 @@
-var mnemonic = "they sister trumpet earth stamp lesson voice client delay inner oxygen switch";
+var mnemonic = "idea payment diary borrow place hungry nest scene subway grid bacon sad";

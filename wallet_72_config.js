@@ -1,1 +1,1 @@
-var mnemonic = "bacon resemble kidney table actress victory faculty cause approve lesson repeat else";
+var mnemonic = "begin mesh reward mouse hotel coyote armor fresh peace garden brush monster";

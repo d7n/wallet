@@ -1,1 +1,1 @@
-var mnemonic = "divide river quiz life ill fold select skull code praise flat oven";
+var mnemonic = "afford slide board jewel farm output swap carry brand leisure bird local";

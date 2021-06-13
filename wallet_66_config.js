@@ -1,1 +1,1 @@
-var mnemonic = "negative nerve early fence hard fish chalk code hybrid vague relief crack";
+var mnemonic = "bundle wear scale wink fine ice cool cram grape hour unaware goddess";

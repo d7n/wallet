@@ -1,1 +1,1 @@
-var mnemonic = "tiger tunnel carbon require excess parent domain congress cool dismiss title cross";
+var mnemonic = "snake tail spatial manage unusual exclude brass matrix dust empty exhaust response";

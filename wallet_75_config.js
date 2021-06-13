@@ -1,1 +1,1 @@
-var mnemonic = "useless void sibling pet mule space pencil soldier swallow mouse salt address";
+var mnemonic = "mutual survey harbor tribe cousin tortoise plastic either forward hamster zoo bunker";

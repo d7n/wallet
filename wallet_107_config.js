@@ -1,1 +1,1 @@
-var mnemonic = "case tiny around grid whale buzz trophy empty test ceiling flee inside";
+var mnemonic = "uncle arch input circle waste lottery enact fall pipe steak gate nurse";

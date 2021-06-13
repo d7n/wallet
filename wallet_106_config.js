@@ -1,1 +1,1 @@
-var mnemonic = "category require crumble problem infant hybrid siren travel extend letter metal inch";
+var mnemonic = "acoustic employ vicious real maid island domain announce example april firm put";

@@ -1,1 +1,1 @@
-var mnemonic = "grit sand wall two scatter fiber monkey excite kitten silly spoil cable";
+var mnemonic = "life cloud impulse wage remove huge drum hammer hundred safe arrange hill";

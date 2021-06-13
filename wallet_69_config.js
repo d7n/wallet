@@ -1,1 +1,1 @@
-var mnemonic = "ticket cancel anchor law balance nerve sign medal dragon remind language road";
+var mnemonic = "become loop clever south total object tenant shed emotion suit perfect betray";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy glimpse turtle turtle image curve ginger bamboo piano hedgehog evidence desert";
+var mnemonic = "fashion farm obvious bus imitate lizard circle settle initial social dilemma follow";

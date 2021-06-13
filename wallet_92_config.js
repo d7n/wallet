@@ -1,1 +1,1 @@
-var mnemonic = "obscure visit tattoo banner voice cruise trigger collect unique genuine dial goat";
+var mnemonic = "shrug camera inhale dizzy abuse finger aisle voyage health impact moral alone";

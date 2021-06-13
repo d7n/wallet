@@ -1,1 +1,1 @@
-var mnemonic = "lecture deputy arena oval lizard accident visual public multiply exist faint gift";
+var mnemonic = "drill kitten champion cheese edge come disorder planet shift height hard puzzle";

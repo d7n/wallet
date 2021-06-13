@@ -1,1 +1,1 @@
-var mnemonic = "power card mutual burden cloth rich kick lend response wall wrestle mansion";
+var mnemonic = "alien shoulder include vast little fault artwork level fox hold peanut client";

@@ -1,1 +1,1 @@
-var mnemonic = "joke wall lottery scissors pipe success kit glove bargain verify tonight eight";
+var mnemonic = "smart breeze maple attract brown curtain wrap ship tent entire tumble program";

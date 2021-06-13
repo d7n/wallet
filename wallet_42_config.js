@@ -1,1 +1,1 @@
-var mnemonic = "intact forest side review zone uniform spin belt foot spend rapid clinic";
+var mnemonic = "fly observe glow shy orphan amazing lift heart emerge devote divorce oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "caught entry emotion tunnel bacon crash spy obtain husband tackle happy sting";
+var mnemonic = "maple kiss enemy pudding first wreck innocent update sorry stock confirm boy";

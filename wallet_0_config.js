@@ -1,1 +1,1 @@
-var mnemonic = "pave maid oyster toilet deposit blame frown machine spike same popular engine";
+var mnemonic = "weekend wasp result pool twin island symptom pact dynamic advice energy forget";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal legal clog cool choice kid garage taste sound jazz outside bargain";
+var mnemonic = "miracle potato push skirt airport cabin horror dog luggage robot machine fold";

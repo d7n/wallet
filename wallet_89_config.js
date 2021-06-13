@@ -1,1 +1,1 @@
-var mnemonic = "bounce tornado cargo enroll column join trick dentist sheriff wonder card demand";
+var mnemonic = "divert agree army siren senior bracket armor acid echo evil crisp world";

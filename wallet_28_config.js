@@ -1,1 +1,1 @@
-var mnemonic = "panther napkin ecology physical valley blanket coil dream embody fantasy oppose easy";
+var mnemonic = "return hospital spy spare title right candy strong mesh stamp orchard ability";

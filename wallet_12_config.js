@@ -1,1 +1,1 @@
-var mnemonic = "tiny cry husband seat cage evidence celery increase master unusual cigar twist";
+var mnemonic = "oil park lottery digital brush verb senior velvet ramp run shadow chef";

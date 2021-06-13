@@ -1,1 +1,1 @@
-var mnemonic = "quality oblige ketchup erode analyst bacon stay price reduce pumpkin hospital iron";
+var mnemonic = "system debate define word head act sad spy neck timber ice share";

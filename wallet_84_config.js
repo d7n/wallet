@@ -1,1 +1,1 @@
-var mnemonic = "few first wire render drink print filter fly more shuffle night purchase";
+var mnemonic = "much abuse enroll giant tribe primary focus possible maximum base wrestle cause";

@@ -1,1 +1,1 @@
-var mnemonic = "book roof hero marine behind shine craft speed comfort unfair bicycle slam";
+var mnemonic = "demand snack bullet supply barely cruise alert grain rack depth boy crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth upper truth degree sword scheme sail have crucial neither fault cancel";
+var mnemonic = "pull whip fragile mother disorder child student phone exist accident plastic outdoor";

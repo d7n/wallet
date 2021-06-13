@@ -1,1 +1,1 @@
-var mnemonic = "misery access whip trip left cupboard board lazy motion fringe proof myth";
+var mnemonic = "attend hawk antique dawn between govern sad measure knock burst monster emerge";

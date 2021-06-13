@@ -1,1 +1,1 @@
-var mnemonic = "situate decorate hip hammer behave fly victory push song post bitter swing";
+var mnemonic = "future design hobby popular solar craft road primary destroy save two own";

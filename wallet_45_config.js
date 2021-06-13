@@ -1,1 +1,1 @@
-var mnemonic = "space rapid obscure relax keep unfair genre soap crumble simple moral cabbage";
+var mnemonic = "unique true toward cheap resource north just wealth various check rifle brief";

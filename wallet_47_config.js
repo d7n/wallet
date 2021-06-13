@@ -1,1 +1,1 @@
-var mnemonic = "tobacco question choose armor core bar sure planet like minimum welcome clutch";
+var mnemonic = "vendor burst thumb unhappy foster because fitness kick doll trouble silk service";

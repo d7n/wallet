@@ -1,1 +1,1 @@
-var mnemonic = "equip twice tree main easily carry vicious strategy party pill load today";
+var mnemonic = "share warrior derive survey acid test pass false around dream they horn";

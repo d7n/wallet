@@ -1,1 +1,1 @@
-var mnemonic = "only boost okay walk gun mule pact start pizza zoo lucky cereal";
+var mnemonic = "famous demise mercy retreat coast jealous echo print grass possible powder family";

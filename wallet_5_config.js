@@ -1,1 +1,1 @@
-var mnemonic = "you maze rifle crater prevent crowd cook jeans tornado hand below brush";
+var mnemonic = "local reunion reject bench unaware solve step kid duty chef beauty cargo";

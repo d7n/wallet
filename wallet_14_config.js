@@ -1,1 +1,1 @@
-var mnemonic = "tiger advice tortoise model layer swim predict ketchup switch can meadow stuff";
+var mnemonic = "brave mass local dizzy leg october equal push income load energy lobster";

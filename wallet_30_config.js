@@ -1,1 +1,1 @@
-var mnemonic = "broken magic afford joy found raw circle gadget shop vehicle pumpkin toward";
+var mnemonic = "figure odor fame tornado frown leopard flee narrow worry possible worry neither";

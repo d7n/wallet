@@ -1,1 +1,1 @@
-var mnemonic = "cover beach cloth just differ pair another zero churn coach pulse pet";
+var mnemonic = "pet convince potato update fine will weather decrease opinion sound riot cover";

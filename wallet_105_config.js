@@ -1,1 +1,1 @@
-var mnemonic = "business festival vague team twice again gather practice grit mean meadow illegal";
+var mnemonic = "harbor scare city congress night depth patient payment hire because enhance weather";

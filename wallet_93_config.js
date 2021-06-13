@@ -1,1 +1,1 @@
-var mnemonic = "guilt theme boat hedgehog divide tower rely federal kitten collect joy faculty";
+var mnemonic = "sing reason vivid neglect exist jump offer strike chimney eager pear spatial";

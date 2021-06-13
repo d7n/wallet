@@ -1,1 +1,1 @@
-var mnemonic = "garden glory lesson grit yellow course garbage banner dutch state engine tonight";
+var mnemonic = "that main rib actor mystery rhythm join verb age vote insane hero";

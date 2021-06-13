@@ -1,1 +1,1 @@
-var mnemonic = "judge drift noodle quantum pilot limb chuckle road pave drive people enable";
+var mnemonic = "broom arrive coffee unfold venture dwarf street during cart cream enter initial";

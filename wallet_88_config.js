@@ -1,1 +1,1 @@
-var mnemonic = "mystery fury monster nut share term shock knock bounce east wish adjust";
+var mnemonic = "sail calm fiscal plug staff define sphere lens harvest prize wear creek";

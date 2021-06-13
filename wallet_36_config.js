@@ -1,1 +1,1 @@
-var mnemonic = "pipe gown injury escape lawn black hill sustain wink solar vehicle tool";
+var mnemonic = "enroll tattoo injury reject bless end miss capable correct this start cherry";

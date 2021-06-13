@@ -1,1 +1,1 @@
-var mnemonic = "matrix merge shoulder monster awesome jump isolate secret area swing speed buddy";
+var mnemonic = "unknown lesson lecture potato hip exotic adult drum glance night wasp replace";

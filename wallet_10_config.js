@@ -1,1 +1,1 @@
-var mnemonic = "wide car visit setup twelve client rather squirrel bonus derive genuine stove";
+var mnemonic = "dignity swing cement inform tag patrol life frame basic pattern write frozen";

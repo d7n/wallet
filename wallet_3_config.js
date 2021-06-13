@@ -1,1 +1,1 @@
-var mnemonic = "connect valid churn camp night execute almost urge vast country evolve addict";
+var mnemonic = "pudding when symptom symbol choice ready stairs clip inherit panic story produce";

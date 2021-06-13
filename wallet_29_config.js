@@ -1,1 +1,1 @@
-var mnemonic = "blur forget evoke smooth alert smooth december enjoy child cage pill borrow";
+var mnemonic = "donate tag capable report element erosion pool solution east marine fury gas";

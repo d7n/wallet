@@ -1,1 +1,1 @@
-var mnemonic = "high anchor view advice scout actor detail spirit program latin science giant";
+var mnemonic = "raise alien toe civil ahead nuclear knee magnet session find clog ladder";

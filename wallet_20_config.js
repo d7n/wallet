@@ -1,1 +1,1 @@
-var mnemonic = "common live theme hybrid weapon mind field grief success flame medal such";
+var mnemonic = "snap protect grief copper between volume harsh hollow today this lucky urban";
