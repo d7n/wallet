@@ -1,1 +1,1 @@
-var mnemonic = "process taxi essence enrich pig harvest broccoli practice level web flower release";
+var mnemonic = "bar act cup cluster stone ring thing empty blame animal middle welcome";

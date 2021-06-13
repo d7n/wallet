@@ -1,1 +1,1 @@
-var mnemonic = "top enhance remove trash empower dial over trumpet worth unknown response what";
+var mnemonic = "rough lazy cigar carry disease song empty material gun amused party slight";

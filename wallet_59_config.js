@@ -1,1 +1,1 @@
-var mnemonic = "into almost holiday margin august planet cake display pilot decade bacon sound";
+var mnemonic = "mask aerobic rose fossil gentle grow identify sock moment rural spin room";

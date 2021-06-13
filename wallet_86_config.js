@@ -1,1 +1,1 @@
-var mnemonic = "slab fox olympic lock door scrap book wasp make gossip rail river";
+var mnemonic = "top evil circle occur slim fold hat maze drift thought scare rain";

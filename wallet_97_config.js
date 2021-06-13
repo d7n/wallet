@@ -1,1 +1,1 @@
-var mnemonic = "excite orange duck thrive fluid direct blur glass escape hotel satisfy mother";
+var mnemonic = "initial wing lounge debate twist reveal metal mean siege robust during rookie";

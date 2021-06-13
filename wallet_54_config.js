@@ -1,1 +1,1 @@
-var mnemonic = "useful guide science cage slight any also prize put actress dumb grocery";
+var mnemonic = "sea future swamp kiss lumber gentle jazz crowd outside sniff indoor intact";

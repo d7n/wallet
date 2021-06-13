@@ -1,1 +1,1 @@
-var mnemonic = "lyrics wisdom gadget trial capable use vault excuse key toe basket aunt";
+var mnemonic = "cactus must gap circle calm course crime address join climb coach scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "used session unable purity face bleak plastic dizzy crop drastic movie enough";
+var mnemonic = "stand bike auto exhibit neglect shoe cross venue month rhythm sweet route";

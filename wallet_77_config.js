@@ -1,1 +1,1 @@
-var mnemonic = "tumble barrel regular lawn bomb client casual burst luggage upgrade vivid entire";
+var mnemonic = "glue three stick nose pipe cheese use shoulder nominee forest this day";

@@ -1,1 +1,1 @@
-var mnemonic = "kid combine room cram hurry circle unhappy blur vocal tip vintage admit";
+var mnemonic = "slice rose floor pen essay good great sense bronze sort couch muscle";

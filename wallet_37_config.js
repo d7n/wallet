@@ -1,1 +1,1 @@
-var mnemonic = "vacant vital supply express cram segment that bird churn student palace phone";
+var mnemonic = "farm vocal mystery scan hover midnight program knock master around cash undo";

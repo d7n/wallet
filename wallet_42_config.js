@@ -1,1 +1,1 @@
-var mnemonic = "green extra pepper flock boring orphan abstract ginger supply few govern detail";
+var mnemonic = "silent again slot prevent veteran calm ketchup access unlock tunnel bubble scout";

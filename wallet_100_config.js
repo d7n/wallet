@@ -1,1 +1,1 @@
-var mnemonic = "uniform dry receive sentence blade ask rebuild mechanic agent tool wine apple";
+var mnemonic = "number mandate witness sunny science path good twist stomach check noble worth";

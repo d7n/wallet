@@ -1,1 +1,1 @@
-var mnemonic = "sleep wolf asset satisfy picnic captain strategy ribbon hat gold solution demand";
+var mnemonic = "expire garage video twin gauge model cradle butter subway renew spin license";

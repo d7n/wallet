@@ -1,1 +1,1 @@
-var mnemonic = "rude fade clay shoulder south loop decorate simple aerobic warfare foil session";
+var mnemonic = "grief north argue motion solution bomb surround fury member dry cousin hunt";

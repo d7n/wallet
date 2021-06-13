@@ -1,1 +1,1 @@
-var mnemonic = "tragic essence kiwi half december moon drama razor maximum morning photo sleep";
+var mnemonic = "uncle like swamp gain polar rabbit want drive shadow agent crew blood";

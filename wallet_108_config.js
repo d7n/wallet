@@ -1,1 +1,1 @@
-var mnemonic = "horror ivory horse fly worth race pencil wait simple lab parent flame";
+var mnemonic = "pistol elbow noodle wave topple midnight neglect because wreck river head page";

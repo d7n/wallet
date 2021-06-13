@@ -1,1 +1,1 @@
-var mnemonic = "test fitness truth orbit innocent section price always certain first sister code";
+var mnemonic = "stand limit soon trip pair ask prosper climb flee culture merit suit";

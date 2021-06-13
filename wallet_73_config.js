@@ -1,1 +1,1 @@
-var mnemonic = "roof scrap miracle story open exchange asset roast spike half account topic";
+var mnemonic = "swing impulse snack elephant another brisk heart fly punch size design copy";

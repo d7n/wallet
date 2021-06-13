@@ -1,1 +1,1 @@
-var mnemonic = "advance advance abstract wine custom present aware prepare beyond spy diagram exhibit";
+var mnemonic = "share account person eager easily search wealth sadness pear girl kangaroo safe";

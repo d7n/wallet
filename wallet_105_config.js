@@ -1,1 +1,1 @@
-var mnemonic = "month supply pizza repeat stick increase wink immune word cry sort midnight";
+var mnemonic = "scene mercy vicious person ignore snake budget pull miracle live display predict";

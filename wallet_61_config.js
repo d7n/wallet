@@ -1,1 +1,1 @@
-var mnemonic = "tag bachelor salt search below tank cargo chat crisp voice blind flee";
+var mnemonic = "rapid eye display shoot blush corn copy tennis science similar write clutch";

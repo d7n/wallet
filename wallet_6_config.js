@@ -1,1 +1,1 @@
-var mnemonic = "jump come rough cute nation winter spike adjust idea unlock access enough";
+var mnemonic = "path hole yard neutral priority yard tool hour monster notice attack mail";

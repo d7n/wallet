@@ -1,1 +1,1 @@
-var mnemonic = "before utility basic state pass artefact egg intact slender hip hybrid bulk";
+var mnemonic = "bullet rhythm nuclear slender occur battle dust glance abstract crunch number settle";

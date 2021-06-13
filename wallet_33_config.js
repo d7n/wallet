@@ -1,1 +1,1 @@
-var mnemonic = "loop shoe almost fly stove peasant energy top rather visa collect half";
+var mnemonic = "report useful position emerge occur slab have confirm claim champion recall stool";

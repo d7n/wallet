@@ -1,1 +1,1 @@
-var mnemonic = "speed siren zone tag below churn cage mandate weapon impact deny color";
+var mnemonic = "crash return shed fresh fabric hybrid enhance dilemma ball juice own sunset";

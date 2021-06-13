@@ -1,1 +1,1 @@
-var mnemonic = "clump advance fatal crash story pair put vintage need then promote camp";
+var mnemonic = "surprise view theme imitate try range dismiss castle rice neck decorate bulb";

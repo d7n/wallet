@@ -1,1 +1,1 @@
-var mnemonic = "retire cheap arrow bacon soul jelly whisper immense address glance cable bike";
+var mnemonic = "panda avoid easily intact dismiss depart globe climb harsh leisure scare visual";

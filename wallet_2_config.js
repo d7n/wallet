@@ -1,1 +1,1 @@
-var mnemonic = "nephew submit around loud confirm street carpet know grape palm logic frog";
+var mnemonic = "chief music number pipe recall fame scan nature boost bubble author soda";

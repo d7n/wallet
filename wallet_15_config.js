@@ -1,1 +1,1 @@
-var mnemonic = "pepper escape unique label electric behind horse soda scheme face cute gloom";
+var mnemonic = "buzz jaguar crime faint thank mimic motion dune enable tower awful theory";

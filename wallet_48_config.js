@@ -1,1 +1,1 @@
-var mnemonic = "address dignity organ lab cycle holiday crazy agent coach faint car concert";
+var mnemonic = "give account bench dance output blame reopen range match proof wash heart";

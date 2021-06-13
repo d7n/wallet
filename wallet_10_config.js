@@ -1,1 +1,1 @@
-var mnemonic = "advance language impose crop liar maid inject thrive fabric blood bronze license";
+var mnemonic = "midnight special slush rescue flower dwarf addict field autumn betray valve illegal";

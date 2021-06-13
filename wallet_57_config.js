@@ -1,1 +1,1 @@
-var mnemonic = "tuition load scout interest scan demand disease blood salute tragic system high";
+var mnemonic = "kitten frame belt seed memory false panel unique pride also network little";

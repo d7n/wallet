@@ -1,1 +1,1 @@
-var mnemonic = "culture physical bundle symbol false crop child wink soap tragic move novel";
+var mnemonic = "unveil detect service glide help shift rule clever enable cloth obscure sadness";

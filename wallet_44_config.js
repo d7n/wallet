@@ -1,1 +1,1 @@
-var mnemonic = "scan close result nerve bicycle alarm liar glare digital warrior era outer";
+var mnemonic = "gravity ankle upper crystal option kid wood valve gossip skill foot discover";

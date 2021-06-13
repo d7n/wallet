@@ -1,1 +1,1 @@
-var mnemonic = "genuine disease jacket party maple document suspect music table north sadness split";
+var mnemonic = "health raven pond twelve lunar situate bicycle media danger tide grunt shaft";

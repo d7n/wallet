@@ -1,1 +1,1 @@
-var mnemonic = "swamp someone seek disease taste ride orient eagle output mobile bike satoshi";
+var mnemonic = "tool test bottom wink false pact syrup popular myth all seminar review";

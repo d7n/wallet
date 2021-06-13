@@ -1,1 +1,1 @@
-var mnemonic = "start creek devote swallow diesel cruise depend curtain army regular ramp earth";
+var mnemonic = "fade gesture glue off awful gesture profit bean nurse draft aisle leopard";

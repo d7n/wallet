@@ -1,1 +1,1 @@
-var mnemonic = "unusual area panel equal stay climb marriage meadow home employ syrup upper";
+var mnemonic = "rescue crush clump husband time poem together caution good duty crack clinic";

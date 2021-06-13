@@ -1,1 +1,1 @@
-var mnemonic = "finger kangaroo nuclear coach street extra differ denial crowd scale blast symptom";
+var mnemonic = "vapor execute syrup heart pill feature carbon myth tackle odor fine high";

@@ -1,1 +1,1 @@
-var mnemonic = "already expect avoid title capable start hip review kiss throw certain patrol";
+var mnemonic = "pupil song rifle powder wood timber attack pipe catalog dismiss potato range";

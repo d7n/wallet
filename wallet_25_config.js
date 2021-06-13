@@ -1,1 +1,1 @@
-var mnemonic = "truly liar oxygen sleep interest cabin wrestle worry chunk abandon noodle connect";
+var mnemonic = "next pen diesel uphold spirit plastic mechanic broom chief library maze burst";

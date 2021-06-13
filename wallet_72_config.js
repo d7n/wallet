@@ -1,1 +1,1 @@
-var mnemonic = "seek sister behave next labor orange domain picnic rude build must feel";
+var mnemonic = "poverty fragile bean chase hope hedgehog track galaxy glass drastic scene actor";

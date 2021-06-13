@@ -1,1 +1,1 @@
-var mnemonic = "toilet giraffe reform benefit brand carpet winter gap weekend believe tag achieve";
+var mnemonic = "feed capable walnut raccoon gravity rack describe kingdom blur flush base damp";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket vehicle delay gorilla kingdom hurt brown thing idle noise gesture lens";
+var mnemonic = "frequent element jacket valve original phrase marble scrap brave display proof credit";

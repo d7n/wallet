@@ -1,1 +1,1 @@
-var mnemonic = "monster eagle flush grass call figure material sister enlist rain comfort angle";
+var mnemonic = "grief enjoy worth sleep brain brick bread collect view guard curtain refuse";

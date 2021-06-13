@@ -1,1 +1,1 @@
-var mnemonic = "rich crew play speed comfort horror guess nature mansion timber jump cave";
+var mnemonic = "later term valid annual bread together rain shrug iron destroy gather dry";

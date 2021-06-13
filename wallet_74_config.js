@@ -1,1 +1,1 @@
-var mnemonic = "siege crouch machine primary culture already main fee light concert speak half";
+var mnemonic = "fold liquid hidden melody diet oblige orchard lift design afraid unfair noble";

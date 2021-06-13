@@ -1,1 +1,1 @@
-var mnemonic = "olive dinosaur one tumble soft embody tuition void photo insane glad dinner";
+var mnemonic = "sock smile extend load flavor decrease stool together inch copper almost today";

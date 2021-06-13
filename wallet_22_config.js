@@ -1,1 +1,1 @@
-var mnemonic = "laundry normal vast butter teach image cry pudding barrel admit merit physical";
+var mnemonic = "shine stadium tail valid artefact hint demand winter pepper motion dune coin";

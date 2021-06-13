@@ -1,1 +1,1 @@
-var mnemonic = "swift witness churn company boat sun praise near ridge same faith hobby";
+var mnemonic = "giggle embrace task update tuna cute lock deliver float nuclear rocket dial";

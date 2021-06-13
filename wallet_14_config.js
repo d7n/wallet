@@ -1,1 +1,1 @@
-var mnemonic = "noble rather chef nose similar pill useful grit tomorrow extra carbon fitness";
+var mnemonic = "charge dutch stone switch proof harbor raccoon pipe snack story offer small";

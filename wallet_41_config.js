@@ -1,1 +1,1 @@
-var mnemonic = "trash screen village artefact auto risk bargain switch lazy manage pair happy";
+var mnemonic = "believe eagle mixture intact copy oppose avocado junior smile sock sphere expand";

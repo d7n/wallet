@@ -1,1 +1,1 @@
-var mnemonic = "retreat filter when addict happy quality barrel anchor copper apology fringe bike";
+var mnemonic = "dad puzzle embrace language twenty social gold problem quit conduct bring game";

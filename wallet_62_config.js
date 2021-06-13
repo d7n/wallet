@@ -1,1 +1,1 @@
-var mnemonic = "bracket brand harvest phrase reward stumble case flame urban road mean ketchup";
+var mnemonic = "output lens expect smile kite discover melt ecology river media poet obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond beyond ring slow dignity please slight file debris life interest couch";
+var mnemonic = "exhibit wife pyramid metal fall barely depend iron lawsuit discover hover wedding";

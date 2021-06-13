@@ -1,1 +1,1 @@
-var mnemonic = "afford peace fault buyer nut drive apart actress hope robot van walnut";
+var mnemonic = "drip ice brother much solve plastic camera crouch toilet kick fix spray";

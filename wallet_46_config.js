@@ -1,1 +1,1 @@
-var mnemonic = "agree frame this cave flee ship tuna depart shift clean issue current";
+var mnemonic = "grain buyer attend toy adapt praise type nice injury embrace settle enrich";

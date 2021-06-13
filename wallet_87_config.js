@@ -1,1 +1,1 @@
-var mnemonic = "crew output protect stool float ski fault naive company thunder online rib";
+var mnemonic = "list rural lab prevent monkey total fix ready evoke primary route venture";

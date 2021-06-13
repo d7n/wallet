@@ -1,1 +1,1 @@
-var mnemonic = "essay spot entry spoil outdoor clean panic fatigue reject comic silly town";
+var mnemonic = "business absent depend city crazy home draft nurse brand pet slender artwork";

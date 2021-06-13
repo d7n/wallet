@@ -1,1 +1,1 @@
-var mnemonic = "post fitness exchange much jump side ball regular chimney frame dad address";
+var mnemonic = "siege share steel shuffle worth capital share pilot stick happy combine baby";

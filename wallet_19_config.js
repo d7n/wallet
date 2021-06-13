@@ -1,1 +1,1 @@
-var mnemonic = "jazz shove prevent basket shaft ship embrace vacant divide ethics remind brass";
+var mnemonic = "sense fence dry road drink vote carpet conduct office notice whale suggest";

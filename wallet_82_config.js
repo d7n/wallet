@@ -1,1 +1,1 @@
-var mnemonic = "truck print chief garage million turn hockey inch balcony legal dentist thing";
+var mnemonic = "cattle avoid fatigue absurd boy drop toast audit begin popular number attack";

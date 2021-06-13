@@ -1,1 +1,1 @@
-var mnemonic = "garlic gas trumpet exotic coconut anchor harsh east glide anger asset antique";
+var mnemonic = "twenty end extend lend glide acquire next wing domain use horror stable";

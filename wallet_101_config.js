@@ -1,1 +1,1 @@
-var mnemonic = "kitchen follow act caution hold daughter derive visual south film practice delay";
+var mnemonic = "educate van flame nation caution chief switch vapor dress initial word one";

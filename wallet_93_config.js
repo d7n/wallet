@@ -1,1 +1,1 @@
-var mnemonic = "fresh salon neck history buyer chalk orchard swift scatter fancy jelly asset";
+var mnemonic = "leaf corn curve maze twist absurd oil perfect draft table source penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "merry exotic garage gaze taste cabin wise path word empower art unfair";
+var mnemonic = "vault kitten you gossip clay letter pond glue one foil unveil ship";

@@ -1,1 +1,1 @@
-var mnemonic = "culture bind square blade shoe beauty luxury essay banana bring grab video";
+var mnemonic = "bridge win census maple elevator all situate chunk also apology rare report";

@@ -1,1 +1,1 @@
-var mnemonic = "armor rail crash arrange repair exile flash agree swing involve hen sword";
+var mnemonic = "sleep margin flush chapter old hollow until relax endorse core advance diary";

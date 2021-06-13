@@ -1,1 +1,1 @@
-var mnemonic = "fence cart file brain fossil fox awkward food fat asset clutch member";
+var mnemonic = "speed scan license dove play struggle remain much moral muscle horror gas";

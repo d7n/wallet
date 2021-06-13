@@ -1,1 +1,1 @@
-var mnemonic = "comfort purpose nation case near custom cancel elevator tree dentist fetch thing";
+var mnemonic = "harvest liar minimum minimum neutral rural law install energy citizen cradle odor";

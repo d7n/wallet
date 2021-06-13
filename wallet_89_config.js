@@ -1,1 +1,1 @@
-var mnemonic = "scare demand silly actual palm dove extra addict power leaf lecture model";
+var mnemonic = "genuine enhance foam budget truth nasty lava audit sample bread shuffle retire";

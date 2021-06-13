@@ -1,1 +1,1 @@
-var mnemonic = "among opera arrow steak unknown cinnamon around sample shoot clump high clap";
+var mnemonic = "produce maze cereal source jelly cram accuse december typical merry carbon couple";

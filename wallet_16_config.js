@@ -1,1 +1,1 @@
-var mnemonic = "parent wise disagree valley erupt expand fury drill scare note play capable";
+var mnemonic = "transfer heart hold woman novel valid sun mother unusual carry frozen aunt";

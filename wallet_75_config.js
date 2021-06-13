@@ -1,1 +1,1 @@
-var mnemonic = "coast brick sample duck clown more average labor promote maximum corn bamboo";
+var mnemonic = "burst draft traffic dress proud butter boss citizen chair bless debate dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "spring trade oblige chalk inject tilt good funny purity insect burst ride";
+var mnemonic = "wedding teach midnight lesson income shuffle skirt paddle cradle tip ignore oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "purse future chef apple cement because sweet develop roof obtain celery chair";
+var mnemonic = "whisper muffin year siege cactus course tool awkward horse heavy soon virtual";

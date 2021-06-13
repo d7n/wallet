@@ -1,1 +1,1 @@
-var mnemonic = "very insane language clay actress fade caution pigeon seek since sure dignity";
+var mnemonic = "define refuse spray guide fiction enlist town submit seek poverty recipe width";

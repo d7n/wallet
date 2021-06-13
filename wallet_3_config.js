@@ -1,1 +1,1 @@
-var mnemonic = "stage funny mouse kind magic benefit sniff immense horror clutch ethics core";
+var mnemonic = "marble bicycle lunar note drastic orchard father fan zero grape equal fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "sphere must creek question noodle dust box burden match option skin exist";
+var mnemonic = "exile horse congress click service amateur panther concert marine blame page distance";

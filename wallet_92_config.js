@@ -1,1 +1,1 @@
-var mnemonic = "shock gadget fever typical brown divert apology extend potato camera cigar hand";
+var mnemonic = "cross remind brand tail angle jar south obvious mango plunge soldier know";
