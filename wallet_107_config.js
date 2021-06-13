@@ -1,1 +1,1 @@
-var mnemonic = "sick system awesome aim drastic sibling eagle gospel lawn churn opera harvest";
+var mnemonic = "case tiny around grid whale buzz trophy empty test ceiling flee inside";

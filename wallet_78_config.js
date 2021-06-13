@@ -1,1 +1,1 @@
-var mnemonic = "truck budget duck company abstract theme spirit bottom jewel velvet cup echo";
+var mnemonic = "eternal credit royal problem express receive segment dice mosquito success typical clump";

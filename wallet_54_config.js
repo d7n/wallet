@@ -1,1 +1,1 @@
-var mnemonic = "tuna list draw boil elbow now sick undo slim walk decade card";
+var mnemonic = "equip twice tree main easily carry vicious strategy party pill load today";

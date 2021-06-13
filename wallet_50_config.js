@@ -1,1 +1,1 @@
-var mnemonic = "hospital reunion zone timber artefact eight excess jealous crucial nuclear feature luggage";
+var mnemonic = "cover beach cloth just differ pair another zero churn coach pulse pet";

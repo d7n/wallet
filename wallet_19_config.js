@@ -1,1 +1,1 @@
-var mnemonic = "film phone never poem frost will negative walk unfair burden slide spot";
+var mnemonic = "prison aspect avoid card denial strong auto length invest day praise hockey";

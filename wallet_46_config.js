@@ -1,1 +1,1 @@
-var mnemonic = "journey dragon equip update barely recycle liberty limb pair crop bind town";
+var mnemonic = "quality oblige ketchup erode analyst bacon stay price reduce pumpkin hospital iron";

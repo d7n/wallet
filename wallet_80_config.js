@@ -1,1 +1,1 @@
-var mnemonic = "almost farm wide space credit bar science bright hole flame differ castle";
+var mnemonic = "kitten improve confirm narrow render strike lend north accuse odor pizza drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "expect mixed remain voyage violin intact offer auto because brave depth segment";
+var mnemonic = "few first wire render drink print filter fly more shuffle night purchase";

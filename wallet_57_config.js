@@ -1,1 +1,1 @@
-var mnemonic = "again discover frequent luxury scissors wall script grant shallow item anger brass";
+var mnemonic = "click clinic level plastic tip frozen olympic turkey warfare match muscle top";

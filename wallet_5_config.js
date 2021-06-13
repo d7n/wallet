@@ -1,1 +1,1 @@
-var mnemonic = "wrap wild vibrant intact entire begin crystal party cost include learn pear";
+var mnemonic = "you maze rifle crater prevent crowd cook jeans tornado hand below brush";

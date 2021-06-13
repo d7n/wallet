@@ -1,1 +1,1 @@
-var mnemonic = "possible mixture machine nation again idle vanish mutual turkey know slice small";
+var mnemonic = "rebel leg simple genius crawl great summer erode sunny marble bonus around";

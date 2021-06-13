@@ -1,1 +1,1 @@
-var mnemonic = "uncle deliver renew remove mobile utility inch behind close curve very acid";
+var mnemonic = "cycle congress cook soup raise into labor silly long tree exclude conduct";

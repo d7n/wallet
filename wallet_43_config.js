@@ -1,1 +1,1 @@
-var mnemonic = "great warrior mercy diary market skate gain license shift announce rose over";
+var mnemonic = "faint oven swallow firm define pulse pony west holiday mercy horn enhance";

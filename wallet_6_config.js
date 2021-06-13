@@ -1,1 +1,1 @@
-var mnemonic = "harbor cheap salute warrior relax legend drastic giggle author grain humor devote";
+var mnemonic = "emotion jewel social sponsor gas spoon inject kitchen sea demise immune juice";

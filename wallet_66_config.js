@@ -1,1 +1,1 @@
-var mnemonic = "deliver region ordinary attack soccer bind control oak orange grocery solar antenna";
+var mnemonic = "negative nerve early fence hard fish chalk code hybrid vague relief crack";

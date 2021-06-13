@@ -1,1 +1,1 @@
-var mnemonic = "chair other emotion find moon walk meadow catalog one effort ritual screen";
+var mnemonic = "remain night cup someone inquiry sting drive snake left loop bottom chimney";

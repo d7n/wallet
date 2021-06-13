@@ -1,1 +1,1 @@
-var mnemonic = "police pride lift view flight mystery treat popular delay few infant price";
+var mnemonic = "tobacco question choose armor core bar sure planet like minimum welcome clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue raise resource ill hotel bone pilot champion aunt skate jungle cabin";
+var mnemonic = "banner spring correct mobile mammal file bike clever swap chuckle derive share";

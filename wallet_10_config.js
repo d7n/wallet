@@ -1,1 +1,1 @@
-var mnemonic = "snake hair identify message lonely silk identify sunny genuine gap describe carpet";
+var mnemonic = "wide car visit setup twelve client rather squirrel bonus derive genuine stove";

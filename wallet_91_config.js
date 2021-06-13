@@ -1,1 +1,1 @@
-var mnemonic = "leaf basket supreme now spoil arrest embark flee turn dirt captain hospital";
+var mnemonic = "garden glory lesson grit yellow course garbage banner dutch state engine tonight";

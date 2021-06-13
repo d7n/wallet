@@ -1,1 +1,1 @@
-var mnemonic = "caution little false chicken flip cook update minor ketchup pond orchard jungle";
+var mnemonic = "intact forest side review zone uniform spin belt foot spend rapid clinic";

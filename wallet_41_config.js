@@ -1,1 +1,1 @@
-var mnemonic = "romance under gentle weird play now way clutch liar year income alter";
+var mnemonic = "outside nature anxiety recall siege exact baby ice ship year labor depart";

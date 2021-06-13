@@ -1,1 +1,1 @@
-var mnemonic = "balance casino broom hobby card middle march kiss fossil scan bubble silly";
+var mnemonic = "category require crumble problem infant hybrid siren travel extend letter metal inch";

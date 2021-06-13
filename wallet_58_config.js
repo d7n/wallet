@@ -1,1 +1,1 @@
-var mnemonic = "drum sense isolate web term payment chaos route food vanish citizen infant";
+var mnemonic = "awesome purity today miss mirror barely music expire dirt duty dust quit";

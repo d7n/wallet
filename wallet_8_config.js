@@ -1,1 +1,1 @@
-var mnemonic = "clever aerobic dice differ sound atom music legend culture print shuffle custom";
+var mnemonic = "smooth leopard water source spider soup logic pool shiver large parade crucial";

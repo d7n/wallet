@@ -1,1 +1,1 @@
-var mnemonic = "learn umbrella artefact provide ill turn double motor gadget oyster swap slice";
+var mnemonic = "observe useless element tuition virus raven truth win aunt become travel tool";

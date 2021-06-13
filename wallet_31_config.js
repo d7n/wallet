@@ -1,1 +1,1 @@
-var mnemonic = "usual joke circle reunion hill wreck rare into more used eternal famous";
+var mnemonic = "reward glimpse easily angry trigger hip cross border recipe sun oak perfect";

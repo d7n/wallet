@@ -1,1 +1,1 @@
-var mnemonic = "amateur melody what find solar embody demand upper job sheriff mechanic point";
+var mnemonic = "nasty another feed distance moral monitor print twice deal tourist abandon fault";

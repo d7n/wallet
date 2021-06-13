@@ -1,1 +1,1 @@
-var mnemonic = "task dash warfare exile uncover pottery issue wrong resemble trip ribbon celery";
+var mnemonic = "awkward stock picnic offer finish lunar hard glare bench edit resource change";

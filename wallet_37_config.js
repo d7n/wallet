@@ -1,1 +1,1 @@
-var mnemonic = "spy lady faint scatter fancy crunch demand garlic among pulp film bag";
+var mnemonic = "render reason equip water benefit cram lunch foster arm gather faculty kingdom";

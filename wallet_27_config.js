@@ -1,1 +1,1 @@
-var mnemonic = "diary street wave patient faith journey civil debris angle infant sick combine";
+var mnemonic = "dawn fancy lottery flag wing sad favorite snack length logic maze speed";

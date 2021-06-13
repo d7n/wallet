@@ -1,1 +1,1 @@
-var mnemonic = "soccer fitness enlist toast tree eyebrow movie anxiety junior flush decline lion";
+var mnemonic = "raw casual ribbon core crouch include sock obscure jungle case focus roof";

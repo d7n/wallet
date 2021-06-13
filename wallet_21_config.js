@@ -1,1 +1,1 @@
-var mnemonic = "cute this chase shuffle tuition fury gasp universe what pudding reform glory";
+var mnemonic = "cattle jaguar that any antique wife garlic paddle curious cotton trumpet guess";

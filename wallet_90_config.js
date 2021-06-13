@@ -1,1 +1,1 @@
-var mnemonic = "blue purse cupboard dignity install become puzzle insane engine diet neglect push";
+var mnemonic = "coyote enrich merry romance license inner gorilla boy cool appear check box";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster meat solar mixture enroll tattoo body insane basic direct eye observe";
+var mnemonic = "click aunt major express hour baby noodle erosion huge raven movie develop";

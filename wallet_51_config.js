@@ -1,1 +1,1 @@
-var mnemonic = "piece episode day useful flash measure human video water scrap novel space";
+var mnemonic = "zoo gesture moral super water another demand friend lottery spatial emotion course";

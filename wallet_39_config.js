@@ -1,1 +1,1 @@
-var mnemonic = "tree balance cargo junk wreck odor farm nothing situate range describe mammal";
+var mnemonic = "joke wall lottery scissors pipe success kit glove bargain verify tonight eight";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity punch walk join early verify purpose perfect occur nose buddy north";
+var mnemonic = "toddler midnight swamp aspect renew safe adapt link label ski crop sample";

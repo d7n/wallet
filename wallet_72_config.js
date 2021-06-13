@@ -1,1 +1,1 @@
-var mnemonic = "afraid convince pulp planet wool trick convince air wear canal regular accident";
+var mnemonic = "bacon resemble kidney table actress victory faculty cause approve lesson repeat else";

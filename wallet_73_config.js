@@ -1,1 +1,1 @@
-var mnemonic = "visa uncover embrace border trend snow fatal feed park travel turn artist";
+var mnemonic = "brief opinion remind couch release early sister empty manual edit solve cannon";

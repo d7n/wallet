@@ -1,1 +1,1 @@
-var mnemonic = "about stereo coffee bachelor era sunset design catch change figure fashion drill";
+var mnemonic = "mystery fury monster nut share term shock knock bounce east wish adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "sport segment ill immense muscle ask picture syrup oak shoe cross dice";
+var mnemonic = "guitar warrior best hundred furnace stomach tenant ability law brother success venue";

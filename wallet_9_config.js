@@ -1,1 +1,1 @@
-var mnemonic = "heavy have bomb sun ghost pig script junk canyon indicate volcano spin";
+var mnemonic = "join near sibling pottery alert ghost ski sail camp cherry pet uniform";

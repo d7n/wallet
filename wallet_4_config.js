@@ -1,1 +1,1 @@
-var mnemonic = "sunset oil skate utility depart exclude involve patch govern resource deliver weekend";
+var mnemonic = "art grit acoustic social snow eye seminar brick ridge decorate present beach";

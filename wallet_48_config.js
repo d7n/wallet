@@ -1,1 +1,1 @@
-var mnemonic = "oxygen wedding wife rice siege denial pelican nice jealous predict anger forum";
+var mnemonic = "surge peanut ordinary come buzz polar like subject shaft edit climb during";

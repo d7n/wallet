@@ -1,1 +1,1 @@
-var mnemonic = "hockey boil code miracle cheese avocado flip atom struggle blush approve wish";
+var mnemonic = "weird mechanic trip number nurse fold slow open shop pass room twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "diary nest slice favorite pool pigeon zoo charge fiction example hero picture";
+var mnemonic = "high anchor view advice scout actor detail spirit program latin science giant";

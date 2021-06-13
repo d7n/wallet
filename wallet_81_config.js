@@ -1,1 +1,1 @@
-var mnemonic = "width clump cube credit reform maze edit use hold climb remain pumpkin";
+var mnemonic = "push mixture prize race music release boss mass essay magic eagle large";

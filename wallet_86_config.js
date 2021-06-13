@@ -1,1 +1,1 @@
-var mnemonic = "sure awake finish idle edit tattoo angle actual hair boy artefact equal";
+var mnemonic = "average risk color destroy apart quote noble penalty town manual oval open";

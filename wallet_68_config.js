@@ -1,1 +1,1 @@
-var mnemonic = "mouse daughter tone physical finger junk biology saddle drive velvet acid divorce";
+var mnemonic = "mercy glimpse turtle turtle image curve ginger bamboo piano hedgehog evidence desert";

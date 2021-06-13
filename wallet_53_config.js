@@ -1,1 +1,1 @@
-var mnemonic = "give ordinary fatal sting elephant ethics allow wash session suspect garment lumber";
+var mnemonic = "theory hobby aerobic side ahead lift hedgehog jaguar achieve coffee dumb finish";

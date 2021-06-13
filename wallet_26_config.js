@@ -1,1 +1,1 @@
-var mnemonic = "victory velvet knee record dial simple extra prize egg charge car giraffe";
+var mnemonic = "account country busy unable among rough grocery gold tent actress lawsuit tent";

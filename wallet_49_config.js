@@ -1,1 +1,1 @@
-var mnemonic = "decide drink violin detail thumb wealth disorder oil wish bottom rose slender";
+var mnemonic = "matrix merge shoulder monster awesome jump isolate secret area swing speed buddy";

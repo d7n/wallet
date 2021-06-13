@@ -1,1 +1,1 @@
-var mnemonic = "zoo guide legend theme wear truly minute donkey curtain organ pelican sure";
+var mnemonic = "situate decorate hip hammer behave fly victory push song post bitter swing";

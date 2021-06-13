@@ -1,1 +1,1 @@
-var mnemonic = "frog acoustic wild reveal raven behave resist wife wink keen lava pudding";
+var mnemonic = "segment cradle knee select light maple concert fan churn steel teach change";

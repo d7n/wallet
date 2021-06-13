@@ -1,1 +1,1 @@
-var mnemonic = "leisure turn mask emotion figure wide piano now tool sibling ladder oven";
+var mnemonic = "tiger advice tortoise model layer swim predict ketchup switch can meadow stuff";

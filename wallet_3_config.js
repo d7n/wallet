@@ -1,1 +1,1 @@
-var mnemonic = "brand fire shine grace ghost result betray grain chair trick consider bar";
+var mnemonic = "connect valid churn camp night execute almost urge vast country evolve addict";

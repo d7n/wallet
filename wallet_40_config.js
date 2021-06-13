@@ -1,1 +1,1 @@
-var mnemonic = "tobacco spot option flush slide group sugar belt soldier someone cake snap";
+var mnemonic = "piano victory owner emotion lake ostrich bullet burden rent repair vivid mountain";

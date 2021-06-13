@@ -1,1 +1,1 @@
-var mnemonic = "grocery subway cream moon burger humor pact banner deposit warrior smart crazy";
+var mnemonic = "grit sand wall two scatter fiber monkey excite kitten silly spoil cable";

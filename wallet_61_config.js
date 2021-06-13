@@ -1,1 +1,1 @@
-var mnemonic = "orbit sword evidence news unaware distance insect thunder summer fox breeze nose";
+var mnemonic = "cause autumn spawn sock differ fall surround life swallow sting hawk tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "input ticket tray village book column disorder swap spare sand scan traffic";
+var mnemonic = "caught entry emotion tunnel bacon crash spy obtain husband tackle happy sting";

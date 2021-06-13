@@ -1,1 +1,1 @@
-var mnemonic = "cruise quick have rude cluster stairs speak result appear volume ridge hour";
+var mnemonic = "crash country sure grow decorate point tumble describe legal leg risk blade";

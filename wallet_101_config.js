@@ -1,1 +1,1 @@
-var mnemonic = "argue garlic cheap filter movie around grass trigger happy eye river aspect";
+var mnemonic = "divide river quiz life ill fold select skull code praise flat oven";

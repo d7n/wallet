@@ -1,1 +1,1 @@
-var mnemonic = "must wreck large swift exercise together approve elite isolate fire gentle basket";
+var mnemonic = "animal onion scout refuse buzz slam image order number distance wall mask";

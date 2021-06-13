@@ -1,1 +1,1 @@
-var mnemonic = "aspect explain change shove reform elite garbage burger truth fork right alcohol";
+var mnemonic = "few earth blue indicate flavor ring noodle enact light student divert fine";

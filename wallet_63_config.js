@@ -1,1 +1,1 @@
-var mnemonic = "general ceiling holiday enroll oyster just thing crumble marine final forget bitter";
+var mnemonic = "only boost okay walk gun mule pact start pizza zoo lucky cereal";

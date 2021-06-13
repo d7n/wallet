@@ -1,1 +1,1 @@
-var mnemonic = "argue parade ugly mix message rescue settle valve game blur simple pause";
+var mnemonic = "similar extend flip eagle dynamic dice pizza remove control boil hint wash";

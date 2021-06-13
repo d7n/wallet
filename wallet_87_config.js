@@ -1,1 +1,1 @@
-var mnemonic = "jungle window artefact believe debate clay undo sudden donate online nothing marine";
+var mnemonic = "tiger tunnel carbon require excess parent domain congress cool dismiss title cross";

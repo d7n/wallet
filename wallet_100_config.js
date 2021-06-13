@@ -1,1 +1,1 @@
-var mnemonic = "arch physical sweet vehicle fit cause flavor pave crater habit duck clog";
+var mnemonic = "session magic diary beauty lava struggle flush pave void dumb public phrase";

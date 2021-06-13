@@ -1,1 +1,1 @@
-var mnemonic = "cruel chase valley describe lumber idea slot spider carry burden salute onion";
+var mnemonic = "pave maid oyster toilet deposit blame frown machine spike same popular engine";

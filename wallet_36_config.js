@@ -1,1 +1,1 @@
-var mnemonic = "wheat runway cousin puppy grid wall basic task bundle invite task where";
+var mnemonic = "pipe gown injury escape lawn black hill sustain wink solar vehicle tool";

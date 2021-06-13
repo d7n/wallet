@@ -1,1 +1,1 @@
-var mnemonic = "danger wine sick betray apart address surprise good hobby point wife woman";
+var mnemonic = "job table lawn employ crouch walnut rule plastic refuse insect slab release";

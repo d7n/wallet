@@ -1,1 +1,1 @@
-var mnemonic = "domain hero chuckle turn lock aunt exercise spin uncle spirit ready vanish";
+var mnemonic = "misery access whip trip left cupboard board lazy motion fringe proof myth";

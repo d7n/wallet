@@ -1,1 +1,1 @@
-var mnemonic = "year solution mansion stand way vacuum pause exact drive anger west chunk";
+var mnemonic = "fragile myth destroy cabin police blame grief industry black spare million iron";

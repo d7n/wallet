@@ -1,1 +1,1 @@
-var mnemonic = "essence typical brisk armor equal consider buzz lake solar strategy tape region";
+var mnemonic = "sentence tape rural room foster prison feed slender fish column frozen all";

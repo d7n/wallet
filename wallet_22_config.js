@@ -1,1 +1,1 @@
-var mnemonic = "adjust price absorb history hero promote bag happy exhibit vehicle defense two";
+var mnemonic = "pepper ranch crash certain blossom fatal alarm rural river rely face pipe";

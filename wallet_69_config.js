@@ -1,1 +1,1 @@
-var mnemonic = "vote aware garden tennis volcano spirit unit reunion fire fall mechanic awkward";
+var mnemonic = "ticket cancel anchor law balance nerve sign medal dragon remind language road";

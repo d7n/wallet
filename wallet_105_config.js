@@ -1,1 +1,1 @@
-var mnemonic = "bird cabbage impulse present clarify february grunt chef crumble decide friend argue";
+var mnemonic = "business festival vague team twice again gather practice grit mean meadow illegal";

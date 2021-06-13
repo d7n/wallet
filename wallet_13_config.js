@@ -1,1 +1,1 @@
-var mnemonic = "license honey fresh appear vintage trim heavy radar feed similar uniform museum";
+var mnemonic = "they sister trumpet earth stamp lesson voice client delay inner oxygen switch";

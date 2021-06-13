@@ -1,1 +1,1 @@
-var mnemonic = "term benefit motor ticket narrow zone iron sausage stay outer banner gravity";
+var mnemonic = "useless void sibling pet mule space pencil soldier swallow mouse salt address";

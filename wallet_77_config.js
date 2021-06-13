@@ -1,1 +1,1 @@
-var mnemonic = "diamond bulb win girl wrist strong borrow thrive lunch cycle provide spike";
+var mnemonic = "lecture deputy arena oval lizard accident visual public multiply exist faint gift";

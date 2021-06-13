@@ -1,1 +1,1 @@
-var mnemonic = "actress rebel gentle end tornado find swallow gain machine spy cross decide";
+var mnemonic = "blur forget evoke smooth alert smooth december enjoy child cage pill borrow";

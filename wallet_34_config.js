@@ -1,1 +1,1 @@
-var mnemonic = "like neutral fringe craft kit clever dizzy floor march toss tag divide";
+var mnemonic = "crystal legal clog cool choice kid garage taste sound jazz outside bargain";
