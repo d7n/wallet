@@ -1,1 +1,1 @@
-var mnemonic = "will custom tobacco also auction alcohol pigeon they next half industry human";
+var mnemonic = "punch ignore spring inform unknown catalog salon gaze proof mixed brisk subway";

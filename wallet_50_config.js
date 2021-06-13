@@ -1,1 +1,1 @@
-var mnemonic = "cage sense bulk night hill spoon bid west sorry knock anchor account";
+var mnemonic = "detail unveil comfort fog parade quality obscure absorb bullet across number chapter";

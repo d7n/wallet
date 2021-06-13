@@ -1,1 +1,1 @@
-var mnemonic = "you gun jelly enroll rent charge slow solar biology absurd save banana";
+var mnemonic = "fluid public glory grit job tribe swim kind empower unit shoulder cheese";

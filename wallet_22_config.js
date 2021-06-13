@@ -1,1 +1,1 @@
-var mnemonic = "saddle cool beyond onion rice pioneer luxury vital enough near agree boy";
+var mnemonic = "harvest runway badge success play dynamic captain royal eternal dragon ozone phrase";

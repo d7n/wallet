@@ -1,1 +1,1 @@
-var mnemonic = "place drift toe advice panda occur about lens renew orphan bright peanut";
+var mnemonic = "head soul hero dog hospital kitten fresh whip put rival addict dawn";

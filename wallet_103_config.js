@@ -1,1 +1,1 @@
-var mnemonic = "beauty spread cargo rural kiwi concert embrace inform also poem happy pretty";
+var mnemonic = "true stick clap ribbon tattoo loan little title load coast mystery magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "elite wonder jar general enrich print dish car bubble damage multiply sausage";
+var mnemonic = "twenty orient trim purpose mad excess cargo tackle spring celery bread crumble";

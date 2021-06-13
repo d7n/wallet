@@ -1,1 +1,1 @@
-var mnemonic = "project farm like warm margin conduct hockey essay idea special sport leopard";
+var mnemonic = "valve core fold merge robot coach spot spike shine fancy spider glow";

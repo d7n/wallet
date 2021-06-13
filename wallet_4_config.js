@@ -1,1 +1,1 @@
-var mnemonic = "edit banner mimic shop safe hurdle know undo spend faculty joke vintage";
+var mnemonic = "grid veteran person garlic cave swap kid solid stage token because year";

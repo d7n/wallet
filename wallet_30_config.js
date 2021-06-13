@@ -1,1 +1,1 @@
-var mnemonic = "divide surge tool easily manual bottom tell wonder cage proud cotton student";
+var mnemonic = "movie resource quit praise body group door prefer undo crazy stage voice";

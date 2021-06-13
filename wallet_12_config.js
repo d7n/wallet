@@ -1,1 +1,1 @@
-var mnemonic = "explain pudding swift corn zone glare cricket bamboo snake video mansion above";
+var mnemonic = "tattoo domain remove pact blush rude web theme happy mail sleep resource";

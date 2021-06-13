@@ -1,1 +1,1 @@
-var mnemonic = "erode nasty owner squeeze twenty shift oil marble step never industry ostrich";
+var mnemonic = "health rent physical flip neither pool pink finish smooth strong account jaguar";

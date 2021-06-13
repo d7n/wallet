@@ -1,1 +1,1 @@
-var mnemonic = "theme illness cry art riot curious stamp doll dad news joy lock";
+var mnemonic = "error jewel room tackle buyer eye palm engine december dismiss burger city";

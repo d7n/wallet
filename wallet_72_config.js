@@ -1,1 +1,1 @@
-var mnemonic = "creek vague dilemma hybrid east toilet asthma round gasp fit address lion";
+var mnemonic = "salute drum fatigue beef two model regret catch device cluster horn task";

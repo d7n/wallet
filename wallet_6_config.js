@@ -1,1 +1,1 @@
-var mnemonic = "loud purpose anxiety network lend donate snap suffer rabbit busy next boy";
+var mnemonic = "indicate cover visual vacuum dry style guard width liberty what fortune sketch";

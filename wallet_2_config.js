@@ -1,1 +1,1 @@
-var mnemonic = "coin evil ring swing hazard resource win harbor lend squeeze average essence";
+var mnemonic = "length notice donor eternal dolphin breeze seed jazz cancel bus pond entry";

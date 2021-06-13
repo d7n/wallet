@@ -1,1 +1,1 @@
-var mnemonic = "mention charge lens vivid deer shift portion badge author dash loud swing";
+var mnemonic = "wait paper tilt giraffe vague lecture design mail program burst prepare noodle";

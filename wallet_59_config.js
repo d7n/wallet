@@ -1,1 +1,1 @@
-var mnemonic = "another good source valley duty business blossom local route blouse merry nothing";
+var mnemonic = "snow inside cricket gentle injury notable electric atom poverty enough senior alert";

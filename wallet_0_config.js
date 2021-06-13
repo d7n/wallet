@@ -1,1 +1,1 @@
-var mnemonic = "motion bracket list rough argue dumb carry way minute coil minimum hotel";
+var mnemonic = "element never mercy run dune mouse nominee race burden mistake diary fatigue";

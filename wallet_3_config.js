@@ -1,1 +1,1 @@
-var mnemonic = "conduct swift maximum pyramid nature pretty pattern twin unveil build unlock misery";
+var mnemonic = "sugar loop receive grief fiber expire drive side hat bleak gravity noble";

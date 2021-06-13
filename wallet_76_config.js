@@ -1,1 +1,1 @@
-var mnemonic = "income consider jump spread agent doll fat famous season plug please raccoon";
+var mnemonic = "keep stove virus december master debate nominee attitude air crash illegal sphere";

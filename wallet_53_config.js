@@ -1,1 +1,1 @@
-var mnemonic = "frozen artwork bomb render slot autumn debate also quantum despair relax resist";
+var mnemonic = "series chase moon badge exist season flee mixed jar jealous garlic decade";

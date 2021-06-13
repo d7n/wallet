@@ -1,1 +1,1 @@
-var mnemonic = "industry apart wink office exist place taxi trash miss sock unfold visa";
+var mnemonic = "ranch inch raise nest tooth rib scrap sport candy worth dry bunker";

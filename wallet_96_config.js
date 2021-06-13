@@ -1,1 +1,1 @@
-var mnemonic = "topic start inflict increase antenna motion flip country vacant dutch embark friend";
+var mnemonic = "asset grab quantum alert chimney bus sunny jar trial robust net fuel";

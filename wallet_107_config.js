@@ -1,1 +1,1 @@
-var mnemonic = "supply expire brass virus palm rebel illness unlock differ project blood army";
+var mnemonic = "reopen local jump banner erase chest manage tell cage twice hat demand";

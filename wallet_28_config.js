@@ -1,1 +1,1 @@
-var mnemonic = "vehicle hungry next choose predict crater certain great apple dwarf inch leisure";
+var mnemonic = "lemon stable marriage raise card repair seven degree pave huge course always";

@@ -1,1 +1,1 @@
-var mnemonic = "web then tent fame text skill auto maid rubber this peasant elite";
+var mnemonic = "accuse walk derive evil climb time blossom adapt have remain humble flush";

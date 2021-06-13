@@ -1,1 +1,1 @@
-var mnemonic = "erosion shiver obey mechanic decrease bacon sheriff meat flash dose jelly exhaust";
+var mnemonic = "diesel similar rug session just hood flavor grain artist devote exclude bright";

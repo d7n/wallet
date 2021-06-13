@@ -1,1 +1,1 @@
-var mnemonic = "museum cattle evoke depart weasel onion model super toss embody beyond category";
+var mnemonic = "abandon argue human exchange code diagram mushroom arrive scan harvest corn electric";

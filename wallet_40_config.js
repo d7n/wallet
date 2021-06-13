@@ -1,1 +1,1 @@
-var mnemonic = "label panda despair laptop nation parent valley choice half document erode toddler";
+var mnemonic = "pledge upgrade diet off fence bracket concert initial yellow angry cost silly";

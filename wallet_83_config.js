@@ -1,1 +1,1 @@
-var mnemonic = "lend cram dream joy glide often clerk monster chapter now paper chicken";
+var mnemonic = "pledge length mask giraffe diet august address three humor trap service shrug";

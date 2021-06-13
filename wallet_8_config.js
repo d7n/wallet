@@ -1,1 +1,1 @@
-var mnemonic = "angle renew embody garment undo radar calm miracle wife away wisdom pony";
+var mnemonic = "canvas rail infant update own soap leave neglect wait lizard fall priority";

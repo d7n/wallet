@@ -1,1 +1,1 @@
-var mnemonic = "throw latin consider license social solve helmet solar armor carry focus supply";
+var mnemonic = "rough reject ladder exist twin bar resemble inform boss drip almost clay";

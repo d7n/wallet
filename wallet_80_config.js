@@ -1,1 +1,1 @@
-var mnemonic = "public situate paddle parent honey prevent assist meat abandon crucial review betray";
+var mnemonic = "trim bird divorce holiday basic shift typical enjoy reflect leisure quick champion";

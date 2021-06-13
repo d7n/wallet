@@ -1,1 +1,1 @@
-var mnemonic = "fork snow skull benefit attack screen couch chat duty leopard lobster bonus";
+var mnemonic = "forum item then axis neglect because diary very lava empty reveal lady";

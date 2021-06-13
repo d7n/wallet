@@ -1,1 +1,1 @@
-var mnemonic = "rough spot tray blame rival wolf report glance open pilot assault social";
+var mnemonic = "height purity december poem rebel lazy say earn bleak cereal angry program";

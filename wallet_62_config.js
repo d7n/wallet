@@ -1,1 +1,1 @@
-var mnemonic = "decide kangaroo twin lazy urge parrot museum flee salmon person energy agent";
+var mnemonic = "patrol pipe crater envelope define volume priority update village exotic mercy audit";

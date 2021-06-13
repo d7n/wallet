@@ -1,1 +1,1 @@
-var mnemonic = "attack eager ski ice rose nut true salt again cluster success brother";
+var mnemonic = "tobacco whisper chair sadness spring number deposit stairs myth short language forward";

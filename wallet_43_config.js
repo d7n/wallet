@@ -1,1 +1,1 @@
-var mnemonic = "collect sword plunge gaze amused salon paddle pool symptom since betray rent";
+var mnemonic = "rule nurse ranch crater agent leopard conduct inner normal chest pink struggle";

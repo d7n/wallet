@@ -1,1 +1,1 @@
-var mnemonic = "elevator churn nasty autumn fury ketchup banana rookie invest term cycle evolve";
+var mnemonic = "eternal rookie click owner weather material object limb truth check prison typical";

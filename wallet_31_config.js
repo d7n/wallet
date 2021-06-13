@@ -1,1 +1,1 @@
-var mnemonic = "divorce oblige argue omit recycle addict siege case police ghost actual hero";
+var mnemonic = "arrest clever cattle april energy pride push camp chunk embrace pulp fire";

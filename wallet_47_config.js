@@ -1,1 +1,1 @@
-var mnemonic = "iron catch creek liberty faith crush art helmet slab session recycle lonely";
+var mnemonic = "hard expect grant arrest okay hard canoe blade solid wear wage assume";

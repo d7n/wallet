@@ -1,1 +1,1 @@
-var mnemonic = "jazz foot note message exhibit sleep theory decline act clip name extra";
+var mnemonic = "online bargain resemble craft panel problem muscle input awesome meat chief sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight black grain black acid rely title virtual mansion hunt smoke fly";
+var mnemonic = "travel length decline office thought moment hard legend body same assault toss";

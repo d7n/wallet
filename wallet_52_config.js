@@ -1,1 +1,1 @@
-var mnemonic = "dish document faculty away child moon harbor detail verify board memory liar";
+var mnemonic = "bind clay novel cement wild casual quote genius purse cheese enroll august";

@@ -1,1 +1,1 @@
-var mnemonic = "casino breeze also around forest between peanut elite camera shock arch syrup";
+var mnemonic = "place connect between problem ship execute bubble buzz edit shrimp welcome list";

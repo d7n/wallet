@@ -1,1 +1,1 @@
-var mnemonic = "scale yard comfort summer unhappy crowd outside glow lounge pony hire dog";
+var mnemonic = "mammal cluster vendor labor tobacco snake churn elder stadium lizard equal oppose";

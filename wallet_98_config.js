@@ -1,1 +1,1 @@
-var mnemonic = "display black vicious wheat defense senior erupt recall random wolf slide often";
+var mnemonic = "type tuition trim lab fork property umbrella stomach hint absent mountain short";

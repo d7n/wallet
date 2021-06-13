@@ -1,1 +1,1 @@
-var mnemonic = "rebuild raccoon immense law clever luxury power relief interest owner ramp surface";
+var mnemonic = "jealous roof shrimp next seek annual maximum ahead genre chuckle height banana";

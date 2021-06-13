@@ -1,1 +1,1 @@
-var mnemonic = "practice impact boring good gesture impulse festival light write envelope gossip cancel";
+var mnemonic = "stairs powder series blade solution benefit lawn glide ability floor intact ask";

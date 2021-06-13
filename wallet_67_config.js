@@ -1,1 +1,1 @@
-var mnemonic = "palace gold north cluster wash galaxy fall duty manage shuffle turkey high";
+var mnemonic = "neck stairs quit hungry drive someone defense castle century buyer hover afraid";

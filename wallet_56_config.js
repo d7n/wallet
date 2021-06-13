@@ -1,1 +1,1 @@
-var mnemonic = "exhibit impose valve you gold purse own mixed sing dumb logic inside";
+var mnemonic = "divorce pepper help render stand arm neglect emerge guide under will clip";

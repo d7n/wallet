@@ -1,1 +1,1 @@
-var mnemonic = "surface harvest stereo lyrics dumb render lake sudden keen galaxy hobby hurt";
+var mnemonic = "horn milk physical cargo sense that cattle sport hen clock electric sort";

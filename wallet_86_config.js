@@ -1,1 +1,1 @@
-var mnemonic = "cage interest dwarf service misery spirit dizzy guitar clown chief harsh ancient";
+var mnemonic = "fat census infant bird erupt immense sponsor surround save slim divorce suit";

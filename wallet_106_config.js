@@ -1,1 +1,1 @@
-var mnemonic = "group twice rib frozen craft forward address wheat north member sugar woman";
+var mnemonic = "journey where melt label elephant welcome forward buzz inform clutch sound cook";

@@ -1,1 +1,1 @@
-var mnemonic = "spring program pizza mom unlock pear cabin hello pole creek shuffle catch";
+var mnemonic = "cushion accident brand country square column acoustic icon cattle quality safe rice";

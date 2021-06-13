@@ -1,1 +1,1 @@
-var mnemonic = "raise indoor between alien vote owner fox effort long trouble scare trash";
+var mnemonic = "woman when tape select enhance armor neither maze trade worth reopen please";

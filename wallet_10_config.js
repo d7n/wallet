@@ -1,1 +1,1 @@
-var mnemonic = "economy load west gas sure dynamic airport girl animal announce oyster sting";
+var mnemonic = "kingdom rigid narrow receive supply jeans beauty ecology wagon forest still ceiling";

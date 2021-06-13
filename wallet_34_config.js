@@ -1,1 +1,1 @@
-var mnemonic = "unique damage step sock educate always laundry blanket lucky bonus idle gauge";
+var mnemonic = "oxygen scale rice mask until video update taste universe donate there tackle";

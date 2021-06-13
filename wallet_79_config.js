@@ -1,1 +1,1 @@
-var mnemonic = "syrup property bleak smooth moment theory attract recipe width zone correct impact";
+var mnemonic = "autumn note hungry kite bid whisper gaze inside police describe road copy";

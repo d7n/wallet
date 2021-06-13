@@ -1,1 +1,1 @@
-var mnemonic = "apple sunset glare better screen veteran salmon glide shift consider farm private";
+var mnemonic = "mom apology monitor slide grow casino position happy text enrich avocado suit";

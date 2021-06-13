@@ -1,1 +1,1 @@
-var mnemonic = "foam afford habit couple ready pencil quick merge order polar quality tail";
+var mnemonic = "jelly ladder jaguar minimum resource night cash tone use smart dragon unique";

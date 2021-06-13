@@ -1,1 +1,1 @@
-var mnemonic = "elder verb cricket champion grocery together year crisp basket human safe wife";
+var mnemonic = "wall hour reform minute cinnamon fiscal guard fury quality buffalo kingdom flavor";

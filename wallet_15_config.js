@@ -1,1 +1,1 @@
-var mnemonic = "jaguar purity exclude hole glare kangaroo vault property pill impact quantum mistake";
+var mnemonic = "country labor neutral miracle kit topic wonder theme traffic enact today crew";

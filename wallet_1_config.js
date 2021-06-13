@@ -1,1 +1,1 @@
-var mnemonic = "subject insect enough side keen faint grant sad oxygen carbon annual urge";
+var mnemonic = "fall charge lumber satoshi obey argue version theme area manual cram brush";

@@ -1,1 +1,1 @@
-var mnemonic = "tape ridge hurry sunny tone gap lyrics parrot original peanut pipe hurt";
+var mnemonic = "fan seat vocal exercise stem mixed rookie wall thumb thumb flame skill";

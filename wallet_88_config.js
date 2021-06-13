@@ -1,1 +1,1 @@
-var mnemonic = "loop seminar foil worth patient tattoo lava panther hen drop hill kiss";
+var mnemonic = "humor book noodle ribbon when market fiscal chimney sweet slow city rally";

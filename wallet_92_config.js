@@ -1,1 +1,1 @@
-var mnemonic = "canal silent strategy payment pottery razor scorpion rookie lock observe isolate excuse";
+var mnemonic = "much immune fury collect stick above raw air town broccoli eternal skull";

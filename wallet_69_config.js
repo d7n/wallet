@@ -1,1 +1,1 @@
-var mnemonic = "ritual protect exhibit report faculty element famous crystal physical uncle device ribbon";
+var mnemonic = "acoustic chimney lens stairs fix feed lemon dynamic veteran fragile town boat";

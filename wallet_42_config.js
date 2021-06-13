@@ -1,1 +1,1 @@
-var mnemonic = "rack snake glide window pulse cloud reunion churn inject employ month increase";
+var mnemonic = "monster update polar merge extend object rather negative walk limit fitness extra";

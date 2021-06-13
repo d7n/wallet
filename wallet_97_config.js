@@ -1,1 +1,1 @@
-var mnemonic = "term insane marble judge run curtain caution nasty address venture bone legal";
+var mnemonic = "proof garden clay iron furnace fluid basic foot album impose spawn rabbit";

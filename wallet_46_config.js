@@ -1,1 +1,1 @@
-var mnemonic = "provide cupboard mammal token faith quality solid duck purchase absurd pear gentle";
+var mnemonic = "junk habit prepare state pumpkin awesome special program drink glide discover loop";

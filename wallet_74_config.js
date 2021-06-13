@@ -1,1 +1,1 @@
-var mnemonic = "gym round camp rigid maximum innocent acquire topple bleak valve boring cave";
+var mnemonic = "task mushroom toward cube stone marriage grab inner draw rubber paper win";

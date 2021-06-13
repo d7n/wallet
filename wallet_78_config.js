@@ -1,1 +1,1 @@
-var mnemonic = "client hard deal twist beauty mother edit oxygen gasp egg now output";
+var mnemonic = "diet document evoke mix devote antenna paper mind curtain burst hold kit";

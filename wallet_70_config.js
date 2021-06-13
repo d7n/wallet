@@ -1,1 +1,1 @@
-var mnemonic = "bulb real renew target bulk empower weird quit jealous decide tourist degree";
+var mnemonic = "market differ worry network confirm quiz snack organ ugly load fee furnace";

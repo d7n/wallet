@@ -1,1 +1,1 @@
-var mnemonic = "wage poverty dove save erosion suffer blue lava document release flight ceiling";
+var mnemonic = "mutual kind allow smooth lake hobby exile calm holiday fiscal horror calm";

@@ -1,1 +1,1 @@
-var mnemonic = "kite found now vintage indicate pass matrix mixture lobster people gate admit";
+var mnemonic = "casual submit purse skin tissue amazing clean energy soap razor curious sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "sail address ill flower embark grunt genius enable thank pull horn diamond";
+var mnemonic = "wife daughter sand embody grape gun dice oyster nurse electric vital empower";

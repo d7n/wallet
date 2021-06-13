@@ -1,1 +1,1 @@
-var mnemonic = "usual cargo cheap glass alley top resemble alcohol surge kangaroo wrap eight";
+var mnemonic = "range capital income dice mimic gravity leopard obtain filter estate shadow start";

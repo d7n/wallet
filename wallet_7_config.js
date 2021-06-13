@@ -1,1 +1,1 @@
-var mnemonic = "echo gauge sauce insect poverty original soldier sister trash program focus alert";
+var mnemonic = "cinnamon aerobic outside elegant antique silent drive weather weather clerk adult oxygen";

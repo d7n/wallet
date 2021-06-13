@@ -1,1 +1,1 @@
-var mnemonic = "wheel chief planet certain way brown wait found tent fence uncle bring";
+var mnemonic = "raven height control boy marriage fix spatial reflect live globe sock crowd";

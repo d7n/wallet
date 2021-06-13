@@ -1,1 +1,1 @@
-var mnemonic = "crop museum wise abstract siege unveil size enhance work crouch torch edge";
+var mnemonic = "input permit junior despair grain topic asthma tray secret ask hill void";

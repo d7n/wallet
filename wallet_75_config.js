@@ -1,1 +1,1 @@
-var mnemonic = "bring top divide team tilt sand hungry term hockey render symptom wash";
+var mnemonic = "unfair woman disorder flip surge ladder found dial fiber tooth eyebrow mansion";

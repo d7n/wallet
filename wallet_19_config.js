@@ -1,1 +1,1 @@
-var mnemonic = "crash fit town bonus inflict sword nut inherit ripple anger infant tired";
+var mnemonic = "adult strike olympic wheat stable breeze urge regular thought chronic cancel capital";

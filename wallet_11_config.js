@@ -1,1 +1,1 @@
-var mnemonic = "crime steak boss mechanic chuckle sauce mountain heart cactus rally into rely";
+var mnemonic = "local tonight already neutral project seed cloth someone nature clean thought weapon";
