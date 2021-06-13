@@ -1,1 +1,1 @@
-var mnemonic = "merry give baby peanut rifle dial say have weekend pumpkin enable raven";
+var mnemonic = "sure awake finish idle edit tattoo angle actual hair boy artefact equal";

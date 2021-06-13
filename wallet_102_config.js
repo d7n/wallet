@@ -1,1 +1,1 @@
-var mnemonic = "begin soft inform accuse language ladder tomato such palace pink piece they";
+var mnemonic = "sport segment ill immense muscle ask picture syrup oak shoe cross dice";

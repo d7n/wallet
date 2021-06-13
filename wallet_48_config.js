@@ -1,1 +1,1 @@
-var mnemonic = "south awesome timber member rule top abuse parent refuse heavy dance hidden";
+var mnemonic = "oxygen wedding wife rice siege denial pelican nice jealous predict anger forum";

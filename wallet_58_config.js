@@ -1,1 +1,1 @@
-var mnemonic = "sail crack asset daring wash crunch marine rebel broom tortoise degree express";
+var mnemonic = "drum sense isolate web term payment chaos route food vanish citizen infant";

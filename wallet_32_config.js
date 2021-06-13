@@ -1,1 +1,1 @@
-var mnemonic = "enact meadow exist exhaust various ride solar pulp idle knock hazard average";
+var mnemonic = "kit brother slice release armor moment satoshi fetch output public foster bomb";

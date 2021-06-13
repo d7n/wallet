@@ -1,1 +1,1 @@
-var mnemonic = "ensure nation clog midnight volcano celery soup replace husband stone stomach about";
+var mnemonic = "sunset oil skate utility depart exclude involve patch govern resource deliver weekend";

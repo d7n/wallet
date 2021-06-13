@@ -1,1 +1,1 @@
-var mnemonic = "jealous have dinosaur desert depart neither champion seven sound transfer outside predict";
+var mnemonic = "hockey boil code miracle cheese avocado flip atom struggle blush approve wish";

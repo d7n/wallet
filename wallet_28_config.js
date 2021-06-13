@@ -1,1 +1,1 @@
-var mnemonic = "fragile stomach cannon bright toast seat shoulder park kit engine stumble quiz";
+var mnemonic = "sponsor time toddler good two change congress slow solid prefer coin warrior";

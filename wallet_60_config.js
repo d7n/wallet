@@ -1,1 +1,1 @@
-var mnemonic = "hundred rent else once series limit skin embrace easily super limit coil";
+var mnemonic = "aspect explain change shove reform elite garbage burger truth fork right alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "demand near member kit useful crop runway film mother detail powder black";
+var mnemonic = "merry rebel bundle blue march observe radio claim strike exit brisk broken";

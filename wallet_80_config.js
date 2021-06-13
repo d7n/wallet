@@ -1,1 +1,1 @@
-var mnemonic = "evoke dynamic country meadow casual clinic limit they occur audit afraid bean";
+var mnemonic = "almost farm wide space credit bar science bright hole flame differ castle";

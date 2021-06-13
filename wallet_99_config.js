@@ -1,1 +1,1 @@
-var mnemonic = "finish final exchange twist company domain pilot issue coast movie duck entire";
+var mnemonic = "zoo guide legend theme wear truly minute donkey curtain organ pelican sure";

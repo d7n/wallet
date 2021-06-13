@@ -1,1 +1,1 @@
-var mnemonic = "gauge flip genuine volcano hamster typical hockey ripple head clever energy survey";
+var mnemonic = "scrub palace mad spoon hard work token talent proof pair plug ivory";

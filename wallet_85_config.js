@@ -1,1 +1,1 @@
-var mnemonic = "coin mask oyster bus teach fiber toilet pond depend wait forum wisdom";
+var mnemonic = "saddle stamp around lava recall west reject panda early cool crew diary";

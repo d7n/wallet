@@ -1,1 +1,1 @@
-var mnemonic = "trophy eagle swim alert then typical connect attitude upgrade glare lunar cake";
+var mnemonic = "slogan truth setup injury tongue pretty harbor scare faith argue mad between";

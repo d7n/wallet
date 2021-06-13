@@ -1,1 +1,1 @@
-var mnemonic = "wisdom erase ahead neither attract athlete night about term two crime valid";
+var mnemonic = "vote aware garden tennis volcano spirit unit reunion fire fall mechanic awkward";

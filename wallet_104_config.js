@@ -1,1 +1,1 @@
-var mnemonic = "practice vague opinion plastic carbon business loop peanut assist expose plug home";
+var mnemonic = "input ticket tray village book column disorder swap spare sand scan traffic";

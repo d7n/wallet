@@ -1,1 +1,1 @@
-var mnemonic = "gate pitch tortoise sheriff taste old prepare ankle stairs denial gym squeeze";
+var mnemonic = "width clump cube credit reform maze edit use hold climb remain pumpkin";

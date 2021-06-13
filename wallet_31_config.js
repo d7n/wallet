@@ -1,1 +1,1 @@
-var mnemonic = "dirt lucky fit scene clown sell square kiss sudden coffee ostrich aware";
+var mnemonic = "usual joke circle reunion hill wreck rare into more used eternal famous";

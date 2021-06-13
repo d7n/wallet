@@ -1,1 +1,1 @@
-var mnemonic = "alone angle flag parrot change surface champion hello prize alpha borrow idea";
+var mnemonic = "uncle deliver renew remove mobile utility inch behind close curve very acid";

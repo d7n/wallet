@@ -1,1 +1,1 @@
-var mnemonic = "card exclude impact blind then cloth sample small page frost radar blush";
+var mnemonic = "arch physical sweet vehicle fit cause flavor pave crater habit duck clog";

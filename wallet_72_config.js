@@ -1,1 +1,1 @@
-var mnemonic = "extra hamster link artwork rapid lottery angry race muffin elevator coin bracket";
+var mnemonic = "afraid convince pulp planet wool trick convince air wear canal regular accident";

@@ -1,1 +1,1 @@
-var mnemonic = "labor mystery usual warrior dwarf inch kitchen two success box swift puppy";
+var mnemonic = "tobacco spot option flush slide group sugar belt soldier someone cake snap";

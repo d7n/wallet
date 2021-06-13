@@ -1,1 +1,1 @@
-var mnemonic = "follow distance oxygen six fault horror manage name swap source six south";
+var mnemonic = "domain hero chuckle turn lock aunt exercise spin uncle spirit ready vanish";

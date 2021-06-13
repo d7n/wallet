@@ -1,1 +1,1 @@
-var mnemonic = "maximum hurdle scout entry run dragon project frog boat movie cherry village";
+var mnemonic = "visa uncover embrace border trend snow fatal feed park travel turn artist";

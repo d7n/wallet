@@ -1,1 +1,1 @@
-var mnemonic = "very possible glance unit emerge lesson boss manual demise pupil evolve olive";
+var mnemonic = "hospital reunion zone timber artefact eight excess jealous crucial nuclear feature luggage";

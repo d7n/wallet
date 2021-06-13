@@ -1,1 +1,1 @@
-var mnemonic = "front hire audit swap flee help other lonely inside skill vessel indicate";
+var mnemonic = "actress rebel gentle end tornado find swallow gain machine spy cross decide";

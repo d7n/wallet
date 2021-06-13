@@ -1,1 +1,1 @@
-var mnemonic = "future pigeon oppose maximum marble short woman mystery disorder shuffle shy banner";
+var mnemonic = "journey dragon equip update barely recycle liberty limb pair crop bind town";

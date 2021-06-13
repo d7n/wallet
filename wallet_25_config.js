@@ -1,1 +1,1 @@
-var mnemonic = "top vehicle black travel beauty dose bamboo nothing february over gauge october";
+var mnemonic = "pill spawn arctic voice enter debate head olive shoe general woman ginger";

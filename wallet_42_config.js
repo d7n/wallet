@@ -1,1 +1,1 @@
-var mnemonic = "latin maid click stick ribbon panic ostrich mirror cousin galaxy inhale push";
+var mnemonic = "caution little false chicken flip cook update minor ketchup pond orchard jungle";

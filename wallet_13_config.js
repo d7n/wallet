@@ -1,1 +1,1 @@
-var mnemonic = "visit poet lunch escape inner broccoli envelope slide acoustic blind car demise";
+var mnemonic = "license honey fresh appear vintage trim heavy radar feed similar uniform museum";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid actor best woman require minimum mountain unit indoor orange omit flight";
+var mnemonic = "cute this chase shuffle tuition fury gasp universe what pudding reform glory";

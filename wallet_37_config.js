@@ -1,1 +1,1 @@
-var mnemonic = "hammer illegal vague diamond first series snap fall fan fog rally acoustic";
+var mnemonic = "spy lady faint scatter fancy crunch demand garlic among pulp film bag";

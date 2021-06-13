@@ -1,1 +1,1 @@
-var mnemonic = "pizza west seed robot choice super country major half glare prosper order";
+var mnemonic = "wheat runway cousin puppy grid wall basic task bundle invite task where";

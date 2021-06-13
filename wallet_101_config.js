@@ -1,1 +1,1 @@
-var mnemonic = "swim festival truly become clutch enforce glow crew multiply monitor dutch gate";
+var mnemonic = "argue garlic cheap filter movie around grass trigger happy eye river aspect";

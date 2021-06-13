@@ -1,1 +1,1 @@
-var mnemonic = "portion possible angry syrup awful auction normal stick token mail juice rotate";
+var mnemonic = "barrel trade exhibit woman mad cute silk basic copy wear there emerge";

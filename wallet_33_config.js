@@ -1,1 +1,1 @@
-var mnemonic = "dinner kick clerk balcony hockey nation jeans deposit draft odor afraid produce";
+var mnemonic = "turkey spatial crowd uncle remain mutual lawsuit gaze mixed person atom enjoy";

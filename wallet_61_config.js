@@ -1,1 +1,1 @@
-var mnemonic = "script always wet ginger despair valve shine account weapon invest soldier indoor";
+var mnemonic = "orbit sword evidence news unaware distance insect thunder summer fox breeze nose";

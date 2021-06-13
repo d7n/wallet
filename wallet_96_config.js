@@ -1,1 +1,1 @@
-var mnemonic = "exhibit maximum rough hunt when square woman wink pave quarter table marriage";
+var mnemonic = "frog acoustic wild reveal raven behave resist wife wink keen lava pudding";

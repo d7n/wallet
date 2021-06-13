@@ -1,1 +1,1 @@
-var mnemonic = "east cart detail aunt salmon entire balance gravity clip iron tube brain";
+var mnemonic = "snake hair identify message lonely silk identify sunny genuine gap describe carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "layer mask know dress explain apology tuna eyebrow man require combine seek";
+var mnemonic = "method suggest divorce buzz sauce change body wrap season photo surge talk";

@@ -1,1 +1,1 @@
-var mnemonic = "episode happy smart chat forum height neck cash person paddle tool private";
+var mnemonic = "expect mixed remain voyage violin intact offer auto because brave depth segment";

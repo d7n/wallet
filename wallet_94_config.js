@@ -1,1 +1,1 @@
-var mnemonic = "rack zebra crystal ship goat ring tiny space announce raven country unveil";
+var mnemonic = "hunt tuna car walnut urban industry drastic project burst chef street climb";

@@ -1,1 +1,1 @@
-var mnemonic = "either audit lemon lion visual load bullet sugar coconut confirm shallow ask";
+var mnemonic = "possible mixture machine nation again idle vanish mutual turkey know slice small";

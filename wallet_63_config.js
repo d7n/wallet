@@ -1,1 +1,1 @@
-var mnemonic = "weapon random scare sponsor apology doctor frown jeans warfare scale shiver flight";
+var mnemonic = "general ceiling holiday enroll oyster just thing crumble marine final forget bitter";

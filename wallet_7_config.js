@@ -1,1 +1,1 @@
-var mnemonic = "afford language wink cover bless write cat private valid begin worth main";
+var mnemonic = "aisle unaware awesome recipe hungry sand lobster fork video raise possible summer";

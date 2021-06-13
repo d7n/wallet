@@ -1,1 +1,1 @@
-var mnemonic = "load vague holiday better scheme welcome minor chimney manage above illness private";
+var mnemonic = "lobster meat solar mixture enroll tattoo body insane basic direct eye observe";

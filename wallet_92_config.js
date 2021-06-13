@@ -1,1 +1,1 @@
-var mnemonic = "future sheriff hello change add secret erode recycle wise act cinnamon isolate";
+var mnemonic = "sport once motor supreme runway spend mother pudding caution opera original pottery";

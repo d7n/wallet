@@ -1,1 +1,1 @@
-var mnemonic = "noodle snack quiz melt snake veteran essence share dune mountain drop action";
+var mnemonic = "great warrior mercy diary market skate gain license shift announce rose over";

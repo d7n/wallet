@@ -1,1 +1,1 @@
-var mnemonic = "mix little recall odor twin team fabric picture luggage title because lamp";
+var mnemonic = "argue parade ugly mix message rescue settle valve game blur simple pause";

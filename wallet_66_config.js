@@ -1,1 +1,1 @@
-var mnemonic = "curious love bicycle general lumber visa case alert dumb trust you when";
+var mnemonic = "deliver region ordinary attack soccer bind control oak orange grocery solar antenna";

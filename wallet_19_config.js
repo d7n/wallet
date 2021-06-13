@@ -1,1 +1,1 @@
-var mnemonic = "devote dwarf pool inquiry float govern dawn genre tail humble put canoe";
+var mnemonic = "film phone never poem frost will negative walk unfair burden slide spot";

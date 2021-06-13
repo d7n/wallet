@@ -1,1 +1,1 @@
-var mnemonic = "march onion only similar act found caught dish dance monkey fiber circle";
+var mnemonic = "victory velvet knee record dial simple extra prize egg charge car giraffe";

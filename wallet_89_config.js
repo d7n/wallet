@@ -1,1 +1,1 @@
-var mnemonic = "unlock where snap glad cattle base broom market seminar between army venue";
+var mnemonic = "churn security gravity snack cotton genre large window aisle novel chief alpha";

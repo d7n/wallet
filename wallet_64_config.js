@@ -1,1 +1,1 @@
-var mnemonic = "satisfy theme extra true hover system sort relief island maple egg enter";
+var mnemonic = "inner property artefact observe right age coin flee word top bright collect";

@@ -1,1 +1,1 @@
-var mnemonic = "glow version crisp virtual fog crush vehicle auto chalk stage game cube";
+var mnemonic = "calm high crawl lyrics bird palm acquire couch hurdle force fatal worry";

@@ -1,1 +1,1 @@
-var mnemonic = "beach cool spoil help capable venture candy found convince wave shed put";
+var mnemonic = "blue purse cupboard dignity install become puzzle insane engine diet neglect push";

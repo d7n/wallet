@@ -1,1 +1,1 @@
-var mnemonic = "used canal hello entire decade chimney ostrich spoon exist share federal thumb";
+var mnemonic = "leaf basket supreme now spoil arrest embark flee turn dirt captain hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "easy return option stumble release play crime reveal farm reveal flame salute";
+var mnemonic = "must wreck large swift exercise together approve elite isolate fire gentle basket";

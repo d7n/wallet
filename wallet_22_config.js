@@ -1,1 +1,1 @@
-var mnemonic = "worry opinion champion burden steel orchard hurt decide second seat month despair";
+var mnemonic = "adjust price absorb history hero promote bag happy exhibit vehicle defense two";

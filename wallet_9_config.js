@@ -1,1 +1,1 @@
-var mnemonic = "tag glue roast occur shrug vault spy silver twenty smart uniform field";
+var mnemonic = "heavy have bomb sun ghost pig script junk canyon indicate volcano spin";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle volcano timber more vapor either hill butter rely hunt art reunion";
+var mnemonic = "again discover frequent luxury scissors wall script grant shallow item anger brass";

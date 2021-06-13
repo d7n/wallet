@@ -1,1 +1,1 @@
-var mnemonic = "shock draft peanut correct route protect maid permit toward fire cross remind";
+var mnemonic = "diamond bulb win girl wrist strong borrow thrive lunch cycle provide spike";

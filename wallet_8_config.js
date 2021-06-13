@@ -1,1 +1,1 @@
-var mnemonic = "spell game field cloth manual weather stone omit pull kick flat army";
+var mnemonic = "clever aerobic dice differ sound atom music legend culture print shuffle custom";

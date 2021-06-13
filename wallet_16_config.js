@@ -1,1 +1,1 @@
-var mnemonic = "protect obtain put tired bike unaware assist loyal treat retire almost dirt";
+var mnemonic = "learn umbrella artefact provide ill turn double motor gadget oyster swap slice";

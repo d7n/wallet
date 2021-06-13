@@ -1,1 +1,1 @@
-var mnemonic = "cook laundry zone top feel oval quick unveil crash maple baby coral";
+var mnemonic = "exhaust frost waste slide denial organ message inflict stand isolate release resist";

@@ -1,1 +1,1 @@
-var mnemonic = "top index seat car raise control blast rhythm slight crowd decline census";
+var mnemonic = "romance under gentle weird play now way clutch liar year income alter";

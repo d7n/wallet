@@ -1,1 +1,1 @@
-var mnemonic = "frame dial general cage electric history oppose dwarf behind dwarf twin police";
+var mnemonic = "brand fire shine grace ghost result betray grain chair trick consider bar";

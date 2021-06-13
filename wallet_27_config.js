@@ -1,1 +1,1 @@
-var mnemonic = "bomb delay shift plunge adult yard suspect gadget garbage nature secret veteran";
+var mnemonic = "diary street wave patient faith journey civil debris angle infant sick combine";

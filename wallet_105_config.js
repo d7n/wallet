@@ -1,1 +1,1 @@
-var mnemonic = "notice rigid bonus track harvest work swallow hold hand gaze novel street";
+var mnemonic = "bird cabbage impulse present clarify february grunt chef crumble decide friend argue";

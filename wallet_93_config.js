@@ -1,1 +1,1 @@
-var mnemonic = "habit broccoli surprise merit twelve impact bring arm have scorpion rapid monster";
+var mnemonic = "diary lounge south raw fault review panel below craft verb lava chair";

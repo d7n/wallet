@@ -1,1 +1,1 @@
-var mnemonic = "error million tongue join gossip carbon adjust fat park flip robot bullet";
+var mnemonic = "close fossil bronze weird viable various damage brief icon fossil inject foil";

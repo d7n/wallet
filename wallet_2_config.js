@@ -1,1 +1,1 @@
-var mnemonic = "october stumble reason render carry spatial problem property mistake excite strong example";
+var mnemonic = "deer finger what pupil siege shine emotion truck define team auction mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey amused fashion sudden dinosaur stable scheme network cement ready breeze napkin";
+var mnemonic = "sick system awesome aim drastic sibling eagle gospel lawn churn opera harvest";

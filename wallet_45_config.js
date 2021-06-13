@@ -1,1 +1,1 @@
-var mnemonic = "patch panda scatter jump discover pill trip hill warm social obvious slender";
+var mnemonic = "cattle boy hard dentist hospital cage spread pair enhance paddle matrix oblige";

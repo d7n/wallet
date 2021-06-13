@@ -1,1 +1,1 @@
-var mnemonic = "fiber team group chat over car common employ blur blanket process observe";
+var mnemonic = "harbor cheap salute warrior relax legend drastic giggle author grain humor devote";

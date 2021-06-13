@@ -1,1 +1,1 @@
-var mnemonic = "inherit right arrow room kid depend fish today club eagle castle pole";
+var mnemonic = "soccer fitness enlist toast tree eyebrow movie anxiety junior flush decline lion";

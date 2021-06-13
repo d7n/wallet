@@ -1,1 +1,1 @@
-var mnemonic = "churn taxi eagle fame mistake excite sauce utility dose acid achieve expose";
+var mnemonic = "police pride lift view flight mystery treat popular delay few infant price";

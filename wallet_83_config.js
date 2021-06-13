@@ -1,1 +1,1 @@
-var mnemonic = "you raise firm fabric scrap brass smoke evoke change winner soon narrow";
+var mnemonic = "grocery subway cream moon burger humor pact banner deposit warrior smart crazy";

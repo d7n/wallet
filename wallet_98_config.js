@@ -1,1 +1,1 @@
-var mnemonic = "vacuum critic fatigue smile genius pumpkin soon mutual repair brother entire scheme";
+var mnemonic = "amateur melody what find solar embody demand upper job sheriff mechanic point";

@@ -1,1 +1,1 @@
-var mnemonic = "rally argue power describe stumble romance click will miracle planet surprise bachelor";
+var mnemonic = "essence typical brisk armor equal consider buzz lake solar strategy tape region";

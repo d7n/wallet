@@ -1,1 +1,1 @@
-var mnemonic = "image word movie mind pulp enable collect define enlist turn odor wisdom";
+var mnemonic = "piece episode day useful flash measure human video water scrap novel space";

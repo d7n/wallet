@@ -1,1 +1,1 @@
-var mnemonic = "dwarf young pink wheat west expire again mandate damp mention before pilot";
+var mnemonic = "double nominee include space cigar exclude opera rent access credit agent kite";

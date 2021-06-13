@@ -1,1 +1,1 @@
-var mnemonic = "size undo ahead sad zoo measure escape sweet fatigue glass shrug practice";
+var mnemonic = "dignity punch walk join early verify purpose perfect occur nose buddy north";

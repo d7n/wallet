@@ -1,1 +1,1 @@
-var mnemonic = "budget upset radio tonight ceiling picture artefact radar void fish beach riot";
+var mnemonic = "year solution mansion stand way vacuum pause exact drive anger west chunk";

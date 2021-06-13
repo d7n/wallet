@@ -1,1 +1,1 @@
-var mnemonic = "allow rescue velvet give win donate gym angry soda maid regret army";
+var mnemonic = "danger wine sick betray apart address surprise good hobby point wife woman";

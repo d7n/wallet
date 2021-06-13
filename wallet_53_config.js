@@ -1,1 +1,1 @@
-var mnemonic = "yellow elite leisure thank match cinnamon stamp spot still finish tackle caution";
+var mnemonic = "give ordinary fatal sting elephant ethics allow wash session suspect garment lumber";

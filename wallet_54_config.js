@@ -1,1 +1,1 @@
-var mnemonic = "easily cinnamon design foster uphold december length keen rubber manage property game";
+var mnemonic = "tuna list draw boil elbow now sick undo slim walk decade card";

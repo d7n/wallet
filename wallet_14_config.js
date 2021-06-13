@@ -1,1 +1,1 @@
-var mnemonic = "void civil theory divorce chicken afford march world father acid current inherit";
+var mnemonic = "leisure turn mask emotion figure wide piano now tool sibling ladder oven";

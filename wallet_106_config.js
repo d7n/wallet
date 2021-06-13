@@ -1,1 +1,1 @@
-var mnemonic = "tribe hole stay warm gesture mask lemon unveil organ between what bread";
+var mnemonic = "balance casino broom hobby card middle march kiss fossil scan bubble silly";

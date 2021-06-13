@@ -1,1 +1,1 @@
-var mnemonic = "girl foster brush flavor column inch ill crush impose size rule observe";
+var mnemonic = "caught cover dial scrub access believe science era rent mule throw defense";

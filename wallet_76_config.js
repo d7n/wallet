@@ -1,1 +1,1 @@
-var mnemonic = "right relax panic know banner morning also can live captain rent curious";
+var mnemonic = "exhibit letter cushion undo reward dinner fence depart need merge tag hen";

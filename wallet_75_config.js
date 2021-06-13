@@ -1,1 +1,1 @@
-var mnemonic = "produce brave profit spawn fame initial better tiny private ensure tooth panel";
+var mnemonic = "term benefit motor ticket narrow zone iron sausage stay outer banner gravity";

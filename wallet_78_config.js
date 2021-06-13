@@ -1,1 +1,1 @@
-var mnemonic = "sound isolate pact option space lift perfect upon umbrella gadget safe soap";
+var mnemonic = "truck budget duck company abstract theme spirit bottom jewel velvet cup echo";
