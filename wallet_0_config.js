@@ -1,1 +1,1 @@
-var mnemonic = "denial essay involve odor section carry emotion magnet cat misery adapt virus";
+var mnemonic = "belt travel belt hockey method extend end joy crumble erupt tag purity";

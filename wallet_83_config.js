@@ -1,1 +1,1 @@
-var mnemonic = "cube fade east suspect media margin sure letter grace decide taste truth";
+var mnemonic = "proud funny isolate gown unfold comfort sail engage stomach session wonder ginger";

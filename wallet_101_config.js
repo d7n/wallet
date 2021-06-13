@@ -1,1 +1,1 @@
-var mnemonic = "visa assist change consider upper funny point neither flame twelve company return";
+var mnemonic = "curious gaze you boy day alter pilot solution raise raw under decide";

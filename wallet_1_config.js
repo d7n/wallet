@@ -1,1 +1,1 @@
-var mnemonic = "love top journey steak key gas unlock oblige pole decade rubber suspect";
+var mnemonic = "web defy damage creek flat thunder intact truck rich spoon limb brother";

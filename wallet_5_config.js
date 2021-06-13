@@ -1,1 +1,1 @@
-var mnemonic = "black destroy welcome ecology dance maid language pulse ripple beauty already elevator";
+var mnemonic = "expose obtain never inhale awkward jungle garbage hurt mushroom slot expire cousin";

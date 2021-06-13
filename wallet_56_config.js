@@ -1,1 +1,1 @@
-var mnemonic = "test silk length pupil tape leaf country tell segment cool audit churn";
+var mnemonic = "today talent trash squirrel involve weekend beef exotic merry correct mom sweet";

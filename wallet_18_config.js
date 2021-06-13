@@ -1,1 +1,1 @@
-var mnemonic = "mask desert deny viable winter oppose skirt argue common sudden token elder";
+var mnemonic = "inner damage bulb risk venture rail glow mean sell short slow scissors";

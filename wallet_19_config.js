@@ -1,1 +1,1 @@
-var mnemonic = "duck elder uphold maple general agent board inherit oppose analyst amateur report";
+var mnemonic = "craft taxi nasty alarm craft matrix return maple scale version pitch mystery";

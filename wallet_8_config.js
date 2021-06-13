@@ -1,1 +1,1 @@
-var mnemonic = "crack caution blade wheat toy yellow brother real bunker damp crazy forest";
+var mnemonic = "blanket desk genius scheme must tide party give search copy exhaust mad";

@@ -1,1 +1,1 @@
-var mnemonic = "flush skull drive digital welcome dumb pelican program final moment short body";
+var mnemonic = "kiwi advance arrest brief payment home obvious find veteran hawk code violin";

@@ -1,1 +1,1 @@
-var mnemonic = "wise rib mom build wedding ritual connect pride boring month element donate";
+var mnemonic = "blade result donor equip answer light prosper genius orbit ecology liberty cherry";

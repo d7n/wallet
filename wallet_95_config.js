@@ -1,1 +1,1 @@
-var mnemonic = "siren aisle live panic open text install acquire charge logic market history";
+var mnemonic = "ladder electric busy once target select fabric empty planet front model tackle";

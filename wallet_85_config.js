@@ -1,1 +1,1 @@
-var mnemonic = "cherry sting trust fever spell team bottom link frozen into cherry ship";
+var mnemonic = "peasant visual speed narrow spray grace hazard blouse caught shoulder strong deer";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate cheap buyer vague skirt deliver pear denial fresh guitar stadium suspect";
+var mnemonic = "state stadium run execute address smart reject senior story chunk list depth";

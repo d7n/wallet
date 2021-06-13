@@ -1,1 +1,1 @@
-var mnemonic = "force moral polar chief mule oxygen copper hand thing milk hawk edge";
+var mnemonic = "sauce drive lion agent thunder melt tonight cause million blast runway lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "swim resemble transfer blind empty board enjoy scene neglect immense prosper exhibit";
+var mnemonic = "seat cliff luxury liberty danger color extra file height invite ginger because";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle pottery produce act runway plunge sail fox vast floor weekend library";
+var mnemonic = "sheriff ship wisdom cover valley legend call text pull return domain child";

@@ -1,1 +1,1 @@
-var mnemonic = "regret patrol extra museum chronic divert struggle elegant famous describe occur fan";
+var mnemonic = "rabbit quick clutch bring north senior old hungry above boil bargain color";

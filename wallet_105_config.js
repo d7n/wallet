@@ -1,1 +1,1 @@
-var mnemonic = "nurse soda soul march toe put sound history dog social rhythm flame";
+var mnemonic = "absorb limb wrap any prepare turn try message damage address become venue";

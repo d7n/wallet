@@ -1,1 +1,1 @@
-var mnemonic = "install bike weekend oppose boy leopard action slogan unit axis woman robot";
+var mnemonic = "alarm decade inhale fold bread bike clown unit predict oven motor social";

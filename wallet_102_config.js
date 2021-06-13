@@ -1,1 +1,1 @@
-var mnemonic = "enroll awake dress ritual rookie dice hundred address capital worth bitter laugh";
+var mnemonic = "filter boy electric bitter property mind father illness fog toast mountain dice";

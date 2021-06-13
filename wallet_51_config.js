@@ -1,1 +1,1 @@
-var mnemonic = "year lift they second eyebrow top brown fade target already prevent report";
+var mnemonic = "lend phone stick bomb end model luxury cricket conduct ring space correct";

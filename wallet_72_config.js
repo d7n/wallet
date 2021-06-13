@@ -1,1 +1,1 @@
-var mnemonic = "caught lucky balcony stairs skill recipe forest goddess stove merit cage hybrid";
+var mnemonic = "harvest absurd uphold follow cover frog venture current tobacco symbol club muffin";

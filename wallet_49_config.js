@@ -1,1 +1,1 @@
-var mnemonic = "alley gossip claw boost school life depth road rebel vapor find naive";
+var mnemonic = "neck mail disease parrot science prosper lift change crash gloom sphere bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "pear radio switch unveil jump scatter swamp item glad barrel explain sketch";
+var mnemonic = "day require afford cave fit almost chat bottom crazy omit quote lion";

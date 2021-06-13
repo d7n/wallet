@@ -1,1 +1,1 @@
-var mnemonic = "siege laundry lawsuit treat clown gauge cushion filter also screen check afraid";
+var mnemonic = "clog useful pole minute lab accuse battle differ kidney panther width pioneer";

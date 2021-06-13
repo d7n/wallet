@@ -1,1 +1,1 @@
-var mnemonic = "awful mushroom clump account ticket rain rail expire scare tobacco trim segment";
+var mnemonic = "measure cook sport reason garlic release giraffe kingdom immense very gown snake";

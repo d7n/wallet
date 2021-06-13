@@ -1,1 +1,1 @@
-var mnemonic = "lumber ripple crash waste jealous exile vast major grant clap moment glow";
+var mnemonic = "girl erosion scale ramp scheme manage enhance elite cabbage lens decline fringe";

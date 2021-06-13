@@ -1,1 +1,1 @@
-var mnemonic = "ski faith mammal fee flame envelope gossip muscle ready ordinary notable title";
+var mnemonic = "pizza such list appear dragon refuse wink into innocent bundle panel canyon";

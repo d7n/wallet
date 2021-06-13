@@ -1,1 +1,1 @@
-var mnemonic = "hamster aisle wire cereal alert dizzy also insect indoor critic illegal swarm";
+var mnemonic = "oppose distance grant account ask loop add february inquiry easily pipe vessel";

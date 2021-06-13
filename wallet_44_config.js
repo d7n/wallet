@@ -1,1 +1,1 @@
-var mnemonic = "fee base merge much cost join castle sell visit broom midnight water";
+var mnemonic = "venture puppy shy muffin midnight catch truth dry harbor deposit height fit";

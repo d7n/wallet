@@ -1,1 +1,1 @@
-var mnemonic = "ability tomorrow lecture lonely under trophy average mad cricket history brave relief";
+var mnemonic = "smoke decline taxi state valley winter scare cheese oil owner model such";

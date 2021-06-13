@@ -1,1 +1,1 @@
-var mnemonic = "danger express almost rare snow chief reward poem rude produce fortune drum";
+var mnemonic = "seven project fire rifle reduce sketch october web country crack exist increase";

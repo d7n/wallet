@@ -1,1 +1,1 @@
-var mnemonic = "used keep ask else price illness fade cigar tuition link unaware muffin";
+var mnemonic = "arena rubber side airport mixture elephant knock verb surge author trend harbor";

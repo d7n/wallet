@@ -1,1 +1,1 @@
-var mnemonic = "wild load prevent wait believe journey skin horse enable captain duty spread";
+var mnemonic = "private worth churn toe slow awesome daughter lumber copy cat fringe disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "palm panic move omit flavor lens orange toss flock walnut stamp alpha";
+var mnemonic = "mixed resist captain arena body license element plunge swarm plate taste meadow";

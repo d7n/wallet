@@ -1,1 +1,1 @@
-var mnemonic = "ginger crisp toe goddess wish soap endorse gather capable deer street plastic";
+var mnemonic = "mention pole bamboo safe wise oblige slight panic concert humble harbor shine";

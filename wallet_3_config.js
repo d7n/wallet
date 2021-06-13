@@ -1,1 +1,1 @@
-var mnemonic = "attitude vague sand opinion window chase wisdom teach vendor proud item dash";
+var mnemonic = "narrow person option spider enact truly repair dirt defense raw nothing jungle";

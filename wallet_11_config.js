@@ -1,1 +1,1 @@
-var mnemonic = "sail bonus office cart tuna strong strong animal grain nasty sheriff silent";
+var mnemonic = "symbol cactus eight edit minute jump coast brass resemble cross portion creek";

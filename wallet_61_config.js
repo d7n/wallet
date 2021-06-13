@@ -1,1 +1,1 @@
-var mnemonic = "road behind always expect region seek salute term february cruel relief cube";
+var mnemonic = "motor endorse return bench fit this creek grow sure equal nuclear vintage";

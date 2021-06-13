@@ -1,1 +1,1 @@
-var mnemonic = "space ask pudding sock wood spare rigid oil retire know device final";
+var mnemonic = "often thumb confirm balcony animal must rude rhythm tool above evoke steak";

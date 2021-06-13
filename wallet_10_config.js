@@ -1,1 +1,1 @@
-var mnemonic = "control power into execute flush hire feed blame gown gorilla absorb door";
+var mnemonic = "member kiss stumble congress fitness tomorrow saddle hidden dice impulse solve forward";

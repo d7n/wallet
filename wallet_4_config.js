@@ -1,1 +1,1 @@
-var mnemonic = "glide decrease yard ghost hedgehog brown curve actress notable wisdom million over";
+var mnemonic = "basic fan acoustic capital kiwi tired gold advance cat artist snake open";

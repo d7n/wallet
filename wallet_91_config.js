@@ -1,1 +1,1 @@
-var mnemonic = "tilt reason cotton fragile rubber risk kangaroo luggage fly magic pulp chaos";
+var mnemonic = "bubble prepare lady viable wish monitor obtain expire awake echo plug foil";

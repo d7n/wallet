@@ -1,1 +1,1 @@
-var mnemonic = "truck upper curious imitate clean ripple shove humble brown nut orchard taste";
+var mnemonic = "recall latin rhythm antenna grid hill inspire fold resemble unit slice occur";

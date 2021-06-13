@@ -1,1 +1,1 @@
-var mnemonic = "there unusual adjust school cannon still liquid soon cricket anchor topic month";
+var mnemonic = "patrol daring crew print front length must leave above input thumb donor";

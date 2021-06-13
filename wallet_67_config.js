@@ -1,1 +1,1 @@
-var mnemonic = "fame index lonely federal oyster joy pizza cinnamon shoe acquire bread hunt";
+var mnemonic = "horse title sister carbon below teach achieve usage clerk reject flush enable";

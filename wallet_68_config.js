@@ -1,1 +1,1 @@
-var mnemonic = "caution there glue coach kind sense fitness soft trigger also fetch crouch";
+var mnemonic = "tattoo blade cycle cargo arch lecture soft twenty fruit situate shy empower";

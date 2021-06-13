@@ -1,1 +1,1 @@
-var mnemonic = "final arena cherry faith possible prepare fruit defense deliver timber treat cable";
+var mnemonic = "section author pact hurt buddy chalk casino soft supply heart flight detail";

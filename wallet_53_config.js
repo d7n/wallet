@@ -1,1 +1,1 @@
-var mnemonic = "alert client wait fade scheme hair worth situate slush rate mass degree";
+var mnemonic = "sniff jump crater paper syrup exile river notable pave trust nation ensure";

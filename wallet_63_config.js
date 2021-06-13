@@ -1,1 +1,1 @@
-var mnemonic = "island stone much struggle correct grocery casual stove zoo combine begin resemble";
+var mnemonic = "erupt resist stumble piano ketchup brown theme tiger express vicious prize fetch";

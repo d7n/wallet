@@ -1,1 +1,1 @@
-var mnemonic = "connect valley fluid seek gravity grocery spy hill lab episode february wasp";
+var mnemonic = "settle payment silk this two crater sure habit garden morning field famous";

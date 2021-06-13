@@ -1,1 +1,1 @@
-var mnemonic = "ghost road echo truck kid sort item ladder collect genuine liquid route";
+var mnemonic = "jeans cupboard home arm scan doll number attract aunt cinnamon excuse neglect";

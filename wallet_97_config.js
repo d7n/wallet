@@ -1,1 +1,1 @@
-var mnemonic = "upper sport diagram double logic output gravity illegal chronic pear mother spatial";
+var mnemonic = "demise soon actress derive resemble situate eagle twenty display fault crash melt";

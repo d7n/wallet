@@ -1,1 +1,1 @@
-var mnemonic = "midnight uniform inherit fantasy build leopard soccer sister blur code fine theory";
+var mnemonic = "stadium tribe treat gold shove inspire again budget bleak asthma pool main";

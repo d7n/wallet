@@ -1,1 +1,1 @@
-var mnemonic = "link green inside tone organ ring letter around oak extend chase scene";
+var mnemonic = "primary stove kitchen affair climb doll project leisure february bread kiwi fatal";

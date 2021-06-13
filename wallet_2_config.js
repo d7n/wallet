@@ -1,1 +1,1 @@
-var mnemonic = "fee blade since wait cabin morning clap boat raw future toe purity";
+var mnemonic = "onion urge change deer nurse rabbit apple illegal bid husband wave input";

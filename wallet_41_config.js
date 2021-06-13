@@ -1,1 +1,1 @@
-var mnemonic = "verify yellow wash enlist mixture second now define theme laundry pony solution";
+var mnemonic = "sad fitness illness ice bench divide cross bamboo price already cargo illness";

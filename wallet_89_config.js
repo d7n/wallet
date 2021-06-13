@@ -1,1 +1,1 @@
-var mnemonic = "exercise gain all pepper suffer gift advice addict arch picture deputy program";
+var mnemonic = "right stable involve sign execute capital element tomato tortoise tag pride core";

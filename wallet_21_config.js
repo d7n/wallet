@@ -1,1 +1,1 @@
-var mnemonic = "pond uphold fade deal pitch amateur life equal call ill brother person";
+var mnemonic = "rail flower jacket burger wise chuckle census afford describe motor question coast";

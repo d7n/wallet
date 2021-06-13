@@ -1,1 +1,1 @@
-var mnemonic = "bind tail saddle spread route edge provide protect vague coconut spot tragic";
+var mnemonic = "online they wear supreme service better mobile green height tent twice soda";

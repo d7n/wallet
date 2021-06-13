@@ -1,1 +1,1 @@
-var mnemonic = "trust language usage fee always antique split absent teach else lecture grape";
+var mnemonic = "extend display fiction urge spider rack hungry dawn better benefit right old";

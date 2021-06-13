@@ -1,1 +1,1 @@
-var mnemonic = "south twenty problem improve avocado neck stereo paddle burger worry broken action";
+var mnemonic = "confirm shove super card glue bean ocean together lottery spot often minute";

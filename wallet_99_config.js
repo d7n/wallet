@@ -1,1 +1,1 @@
-var mnemonic = "away reduce ten multiply vanish fat giant aerobic payment device gospel time";
+var mnemonic = "neutral prize coast quantum blouse make earth mesh web maple program crush";

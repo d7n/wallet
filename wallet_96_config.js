@@ -1,1 +1,1 @@
-var mnemonic = "armor impulse ticket roof surprise used solve glance voice inmate detail little";
+var mnemonic = "kitchen sing tone acoustic bird copper bread meat phrase fault habit lecture";

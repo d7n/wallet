@@ -1,1 +1,1 @@
-var mnemonic = "nerve tower kangaroo cliff throw range crime project odor hero patch olive";
+var mnemonic = "rebel daring match young arch goat venue define slab eye beach depart";

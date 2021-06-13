@@ -1,1 +1,1 @@
-var mnemonic = "honey excite inside hurry trumpet ship rebuild damage magnet merge offer belt";
+var mnemonic = "treat opinion fringe fine flower machine menu afraid paddle payment dice judge";

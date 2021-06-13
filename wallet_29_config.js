@@ -1,1 +1,1 @@
-var mnemonic = "sea much asthma film sure make about glare milk marine melt gun";
+var mnemonic = "eagle impulse stuff trim diesel only coast flight tool forum cotton apart";

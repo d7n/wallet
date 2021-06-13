@@ -1,1 +1,1 @@
-var mnemonic = "idea brief talent speak south exhaust canal monitor adapt puppy ugly amount";
+var mnemonic = "soldier opera blue file cause rocket craft sister large scrub merit rug";

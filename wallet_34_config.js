@@ -1,1 +1,1 @@
-var mnemonic = "outdoor rice attitude hidden proud bunker nation mind harvest resource gloom glory";
+var mnemonic = "direct ostrich deputy inhale junior glove birth soul fashion knock omit inhale";

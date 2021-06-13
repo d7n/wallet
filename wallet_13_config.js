@@ -1,1 +1,1 @@
-var mnemonic = "oval shuffle wheat oven rely multiply suffer chapter minimum enlist vehicle saddle";
+var mnemonic = "swamp budget zoo calm wreck scheme wife drum empower matrix flavor traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon system feel club rescue symptom first pear loan arm normal oppose";
+var mnemonic = "slush excite result release injury prison security embark remain mimic oil miss";

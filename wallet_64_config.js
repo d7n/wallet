@@ -1,1 +1,1 @@
-var mnemonic = "cat mystery interest isolate favorite onion office valid gesture lucky tourist tonight";
+var mnemonic = "head then loop arch rug provide bag custom victory amused poem simple";

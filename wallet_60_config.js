@@ -1,1 +1,1 @@
-var mnemonic = "bachelor bulk raven tube paper size course net aspect afford defy wheel";
+var mnemonic = "impulse bid index degree venue language slide laugh universe moment pear join";

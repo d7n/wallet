@@ -1,1 +1,1 @@
-var mnemonic = "combine raccoon agent worth riot sample hospital immense angry despair dinner power";
+var mnemonic = "flavor sustain trim bean target snake employ happy bulk viable fury select";

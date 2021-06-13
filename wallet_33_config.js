@@ -1,1 +1,1 @@
-var mnemonic = "upon cruise inject common resemble curtain timber source thumb finger tail click";
+var mnemonic = "gossip prefer edit connect scene family mule govern erosion cheap artwork match";

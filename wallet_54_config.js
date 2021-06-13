@@ -1,1 +1,1 @@
-var mnemonic = "achieve stomach maze grunt balance fade imitate tail width wood recall put";
+var mnemonic = "behind balance picture confirm van cancel shallow jaguar gown trophy vendor immense";

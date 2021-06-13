@@ -1,1 +1,1 @@
-var mnemonic = "certain avocado urban hen course autumn oval acoustic pattern mandate addict baby";
+var mnemonic = "lobster hello zone electric future cage goose wink drip wreck solar fiction";

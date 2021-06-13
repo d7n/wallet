@@ -1,1 +1,1 @@
-var mnemonic = "nothing talk ski miss receive height day gorilla panel bridge rival scorpion";
+var mnemonic = "judge impose creek wreck common stumble know arrest pride twelve cat shift";

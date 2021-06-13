@@ -1,1 +1,1 @@
-var mnemonic = "supply sauce found link front certain vicious scorpion violin soccer north object";
+var mnemonic = "firm calm vital crack exotic antique soda eight accuse minor blur across";

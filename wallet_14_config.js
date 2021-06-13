@@ -1,1 +1,1 @@
-var mnemonic = "cancel gauge around address van theme view glance segment city okay law";
+var mnemonic = "witness logic scheme angry observe ginger siren voyage awesome fold embody half";

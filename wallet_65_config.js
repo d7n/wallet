@@ -1,1 +1,1 @@
-var mnemonic = "attract debate cattle grocery local royal collect figure volcano indoor float story";
+var mnemonic = "unfair fatal immense donkey vicious local genius joke upset involve brave blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "logic issue ensure undo never creek dinner riot creek marine joy welcome";
+var mnemonic = "orient success toward index video cloud tooth state club dragon salute chair";

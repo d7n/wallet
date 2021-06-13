@@ -1,1 +1,1 @@
-var mnemonic = "avoid lend start allow clean sweet disagree one day couch hero seminar";
+var mnemonic = "blind leaf file sail skin cry enhance marine other ketchup heart second";

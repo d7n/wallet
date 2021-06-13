@@ -1,1 +1,1 @@
-var mnemonic = "page task snow regular agree either certain loop lock fruit fan assault";
+var mnemonic = "arrow december volume flag ivory tank hazard salad dove curve shove ride";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle slide food ribbon exchange warrior annual legend flower rail stadium wear";
+var mnemonic = "turkey fresh equip slogan matter quarter pen narrow explain sphere useless used";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling owner fiber medal strong joke crew voice buddy crane cube tackle";
+var mnemonic = "onion episode assault mail lend flight hunt fly club history civil suit";

@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo feed cover people wide ability any mimic plug pledge cheap atom";
+var mnemonic = "jeans neck harvest pizza canyon morning aware fatigue current city delay year";

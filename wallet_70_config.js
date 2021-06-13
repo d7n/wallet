@@ -1,1 +1,1 @@
-var mnemonic = "topic injury trim paper cry coral prison hobby bachelor educate hospital escape";
+var mnemonic = "humble exercise process pretty purse apple tired museum clap poem settle orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "witness try please joy chronic narrow impose balcony card festival monster rose";
+var mnemonic = "moon donor foam wasp subway ship service wage poverty minor perfect easy";
