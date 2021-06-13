@@ -1,1 +1,1 @@
-var mnemonic = "idea wrist street onion disorder police unfair argue meadow age speed tray";
+var mnemonic = "clutch alley appear error sock away story shy gather december rigid rifle";

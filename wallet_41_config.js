@@ -1,1 +1,1 @@
-var mnemonic = "dwarf miracle timber ancient hurry tank menu always glance metal welcome before";
+var mnemonic = "buddy squeeze solve appear believe quiz breeze year page rally endorse tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "shield file life forest member way lobster section casual tank dilemma guilt";
+var mnemonic = "street carpet tank regular awkward merge hero grunt supreme drive car local";

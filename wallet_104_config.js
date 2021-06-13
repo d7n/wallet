@@ -1,1 +1,1 @@
-var mnemonic = "tornado extend message pottery spread edit sail gate giant lawn outdoor talent";
+var mnemonic = "gaze suit memory pen capital concert either avocado short nest myself fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "spring police hip success true soul screen random shoulder rough first pass";
+var mnemonic = "outside decade length grant scissors symbol ridge buddy pyramid stumble riot asset";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry shiver breeze useless wrong various edit umbrella fantasy soon staff orbit";
+var mnemonic = "nominee path satisfy fly result february mandate admit notice party mystery valve";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow eight fame good join great toss link tank release kick protect";
+var mnemonic = "manual victory large army meat rib peanut worth hockey melody text depend";

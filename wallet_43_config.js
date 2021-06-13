@@ -1,1 +1,1 @@
-var mnemonic = "width annual crunch bundle expire fit toy finger over island chaos elevator";
+var mnemonic = "banana ranch flip okay online guilt magic because surprise voyage heavy also";

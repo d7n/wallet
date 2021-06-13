@@ -1,1 +1,1 @@
-var mnemonic = "weasel unhappy home extend urban sweet deliver hybrid million page copper cricket";
+var mnemonic = "pulse economy actress speed neglect panda tragic crunch patrol list high road";

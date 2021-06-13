@@ -1,1 +1,1 @@
-var mnemonic = "goose cabbage three trophy ring guilt elevator conduct border stool pumpkin seek";
+var mnemonic = "hungry romance light apart cement soup era lesson borrow until better eternal";

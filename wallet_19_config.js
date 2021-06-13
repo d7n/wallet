@@ -1,1 +1,1 @@
-var mnemonic = "submit fiscal bargain base control speed industry blush minimum stem define mountain";
+var mnemonic = "snow gorilla plastic silk employ sight level sure knock pride deputy arena";

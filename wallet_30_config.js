@@ -1,1 +1,1 @@
-var mnemonic = "canvas pluck family leg crater border beef flee differ make flag industry";
+var mnemonic = "wagon lounge kidney client try empower other room cage left monkey general";

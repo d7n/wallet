@@ -1,1 +1,1 @@
-var mnemonic = "citizen example husband pelican clown tongue cover brand mind mouse country worth";
+var mnemonic = "era foam tackle duty inflict winter critic invest diary retreat test tomorrow";

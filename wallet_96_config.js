@@ -1,1 +1,1 @@
-var mnemonic = "nasty turtle common canvas clay call left strike detail air stereo adult";
+var mnemonic = "clump estate scissors dog auction culture before salon cave make mutual climb";

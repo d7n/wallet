@@ -1,1 +1,1 @@
-var mnemonic = "foster coil view fat dry park into wait genius genre bench zoo";
+var mnemonic = "unveil click write pyramid dwarf dune office involve vessel poem medal sun";

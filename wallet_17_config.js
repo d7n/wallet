@@ -1,1 +1,1 @@
-var mnemonic = "practice piano license subject couple burden olympic main teach lunar mimic knee";
+var mnemonic = "such snack maple lab motion damp leopard subway whip second expose frozen";

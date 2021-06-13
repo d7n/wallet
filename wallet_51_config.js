@@ -1,1 +1,1 @@
-var mnemonic = "device neither source kite liquid alert morning retreat siren juice boy oxygen";
+var mnemonic = "curtain pumpkin rhythm select knock vintage until critic stuff corn two liar";

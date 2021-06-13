@@ -1,1 +1,1 @@
-var mnemonic = "ticket fun broom struggle episode credit update insect acid grocery subway unaware";
+var mnemonic = "session disease office chapter creek around math seven size ginger title swear";

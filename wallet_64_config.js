@@ -1,1 +1,1 @@
-var mnemonic = "sail property patch point lucky card scan mushroom prosper matrix frog foot";
+var mnemonic = "bottom iron today actor squeeze picnic fix now across shrug crucial ski";

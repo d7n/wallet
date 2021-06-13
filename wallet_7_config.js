@@ -1,1 +1,1 @@
-var mnemonic = "hill short invite insect crack vanish dizzy return dose tourist gadget outdoor";
+var mnemonic = "lend frog source cake vessel emerge silly fame party enable excite win";

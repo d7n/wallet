@@ -1,1 +1,1 @@
-var mnemonic = "reveal stove logic call current travel foster bring arrange arch proud butter";
+var mnemonic = "tone mad amazing magic injury female color shuffle survey notice burden aunt";

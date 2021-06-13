@@ -1,1 +1,1 @@
-var mnemonic = "room traffic fix guilt clarify wink someone arrest chest license robot shine";
+var mnemonic = "immune uniform news ecology clean version swim exclude render bicycle orient blur";

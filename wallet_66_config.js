@@ -1,1 +1,1 @@
-var mnemonic = "dentist lady blur valve drive empower problem deposit sorry work patient special";
+var mnemonic = "assist tool host blossom invest sister boost false enlist coffee office lottery";

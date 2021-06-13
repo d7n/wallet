@@ -1,1 +1,1 @@
-var mnemonic = "holiday success crater carbon soft enlist broom congress stumble find jar wild";
+var mnemonic = "bone media asthma label peasant endorse wreck seat cheap business dwarf uniform";

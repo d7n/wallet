@@ -1,1 +1,1 @@
-var mnemonic = "state innocent away wink charge twelve family sketch echo calm quote human";
+var mnemonic = "theory please search sadness era auto happy health donate mirror donor uphold";

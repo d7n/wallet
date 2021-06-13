@@ -1,1 +1,1 @@
-var mnemonic = "april coyote parrot wood cargo endorse dash piano core oblige original ill";
+var mnemonic = "once panel web lawsuit busy canoe endless rice sure join lamp license";

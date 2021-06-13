@@ -1,1 +1,1 @@
-var mnemonic = "scrub valid discover wheat tent dry panther sock remain pulse north grain";
+var mnemonic = "safe gravity album pulp other priority firm better verb better merit dignity";

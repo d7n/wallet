@@ -1,1 +1,1 @@
-var mnemonic = "theory grace distance onion essence tornado random sample pink depth valley right";
+var mnemonic = "pipe upon wolf dentist salute royal brass quiz toss reject frost metal";

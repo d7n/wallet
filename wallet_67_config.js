@@ -1,1 +1,1 @@
-var mnemonic = "abstract badge between lucky tiger usual feature spot grow certain wear gown";
+var mnemonic = "august traffic scout egg tackle stable talk test tray gentle forest tail";

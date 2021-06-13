@@ -1,1 +1,1 @@
-var mnemonic = "ability kiss wave erosion step parent raccoon grocery spin human square agent";
+var mnemonic = "ripple clap age ankle brisk lecture dismiss domain stomach almost spy announce";

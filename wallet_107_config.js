@@ -1,1 +1,1 @@
-var mnemonic = "walnut inhale credit belt device vicious width almost crowd spirit pull bridge";
+var mnemonic = "salute essence between combine guide virus few double segment forum nominee until";

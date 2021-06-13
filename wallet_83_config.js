@@ -1,1 +1,1 @@
-var mnemonic = "brand ridge combine exact helmet owner sense increase faculty garlic address play";
+var mnemonic = "defense bring label denial goose bitter capable kingdom excuse crime liar fog";

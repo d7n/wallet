@@ -1,1 +1,1 @@
-var mnemonic = "trip bubble slice also juice salmon kick primary put purse legend reflect";
+var mnemonic = "shop believe lemon tired parent deal accident pause august image fine stand";

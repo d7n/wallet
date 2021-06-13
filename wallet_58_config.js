@@ -1,1 +1,1 @@
-var mnemonic = "apple episode youth follow across model demand lawsuit rival vivid nice define";
+var mnemonic = "mechanic orchard party tackle food party inform health dose faint lonely coin";

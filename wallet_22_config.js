@@ -1,1 +1,1 @@
-var mnemonic = "april museum custom amount tomorrow chronic bread chat mammal practice over wood";
+var mnemonic = "tuna gold bike wrong hidden expose shuffle hip law solid trap name";

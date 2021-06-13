@@ -1,1 +1,1 @@
-var mnemonic = "shield label duck salon race river approve minor vessel budget blouse force";
+var mnemonic = "just entire badge junk have flag choose crane ticket sentence clean nerve";

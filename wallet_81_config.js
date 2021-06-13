@@ -1,1 +1,1 @@
-var mnemonic = "auto steel prosper lens head buyer athlete anxiety infant sample eternal artist";
+var mnemonic = "staff erupt card sudden cover effort kiss jar resist pitch begin just";

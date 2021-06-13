@@ -1,1 +1,1 @@
-var mnemonic = "skin bless bless battle jar crouch intact version debate embody capable barrel";
+var mnemonic = "sure cabbage march lyrics main pact space fatal vacant puzzle half sleep";

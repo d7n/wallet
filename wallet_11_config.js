@@ -1,1 +1,1 @@
-var mnemonic = "slush host mixed company twelve tuition paddle forum ramp require maid tackle";
+var mnemonic = "cave dial total north depth spend heart sleep parade crime kite enact";

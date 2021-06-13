@@ -1,1 +1,1 @@
-var mnemonic = "cake cabin stock thrive renew balance rubber vocal during power antique nurse";
+var mnemonic = "baby notable battle kitchen kingdom evidence gold deliver quality mechanic diagram today";

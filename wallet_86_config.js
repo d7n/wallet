@@ -1,1 +1,1 @@
-var mnemonic = "chair exit liquid oblige tip refuse duty lawsuit already better deposit cigar";
+var mnemonic = "daughter sugar vehicle tongue cabin program deputy coil phone coconut quiz still";

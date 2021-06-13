@@ -1,1 +1,1 @@
-var mnemonic = "unfair toast pudding icon render prosper unable brush helmet supreme crucial notice";
+var mnemonic = "maple sell scorpion toe hidden alert spare hire north sure mirror voyage";

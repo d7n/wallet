@@ -1,1 +1,1 @@
-var mnemonic = "moral depth green chapter hunt neither organ snake carry clock find market";
+var mnemonic = "option come home hazard bitter bid retire dwarf artist volume water jungle";

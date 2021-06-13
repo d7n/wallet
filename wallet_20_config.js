@@ -1,1 +1,1 @@
-var mnemonic = "lawn castle salad buyer accident seven trust swarm fix avoid cotton rule";
+var mnemonic = "panel brain nest cotton movie fancy bar fresh skull jaguar lesson weekend";

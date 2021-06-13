@@ -1,1 +1,1 @@
-var mnemonic = "during exercise silent minor patient deputy arrange girl enrich antique toss render";
+var mnemonic = "paper ignore charge lazy rate shield pistol unfair never seminar parrot recall";

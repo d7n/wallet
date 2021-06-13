@@ -1,1 +1,1 @@
-var mnemonic = "burden chunk truth fence patient vast trouble organ hungry diamond company position";
+var mnemonic = "stereo armed twist kidney modify movie sauce another cargo street prepare winner";

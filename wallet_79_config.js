@@ -1,1 +1,1 @@
-var mnemonic = "lion prison odor call able either october craft boost lion crime outdoor";
+var mnemonic = "insane leave increase luxury mammal panda pottery almost topple major another bulk";

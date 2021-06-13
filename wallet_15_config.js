@@ -1,1 +1,1 @@
-var mnemonic = "cause inner buzz thank grace symbol wall student fever beyond scatter share";
+var mnemonic = "crisp topple ensure screen atom boat ahead card obtain curve unlock choice";

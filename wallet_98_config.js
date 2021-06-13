@@ -1,1 +1,1 @@
-var mnemonic = "wheel sure will tray say grain poet crystal filter ghost calm tilt";
+var mnemonic = "boat swing edit thunder sail virus desk easily path melt invest segment";

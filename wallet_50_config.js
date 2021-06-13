@@ -1,1 +1,1 @@
-var mnemonic = "cliff panther cook egg box rich harbor involve tide unlock sorry call";
+var mnemonic = "mechanic middle relax kidney swear rapid slam shed endorse honey kangaroo tourist";

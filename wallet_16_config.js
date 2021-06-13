@@ -1,1 +1,1 @@
-var mnemonic = "below rigid mother vivid diamond repeat void pyramid deposit arrow rookie inspire";
+var mnemonic = "snap final fossil oven dash share empower delay ensure bless air peanut";

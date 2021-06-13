@@ -1,1 +1,1 @@
-var mnemonic = "return obtain stand pupil benefit crop false token sell federal travel bridge";
+var mnemonic = "height pilot alarm leisure ankle mail enroll shrimp absorb plate eagle near";

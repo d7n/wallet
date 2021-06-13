@@ -1,1 +1,1 @@
-var mnemonic = "hurdle panic shield buffalo aunt gas pact brother reform language win mother";
+var mnemonic = "pet lens come dad fence gas shaft electric repeat remain expand anxiety";

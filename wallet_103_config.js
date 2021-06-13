@@ -1,1 +1,1 @@
-var mnemonic = "reason fame kiwi cart cake green intact depend affair robot edit catch";
+var mnemonic = "dirt hub switch snow galaxy reduce century steak blade deny eagle surprise";

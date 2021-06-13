@@ -1,1 +1,1 @@
-var mnemonic = "client blanket satisfy assume number hen isolate vacant muffin great credit chuckle";
+var mnemonic = "cereal syrup angle ensure license skin tackle three betray mule also breeze";

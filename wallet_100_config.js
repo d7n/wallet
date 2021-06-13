@@ -1,1 +1,1 @@
-var mnemonic = "dutch slight wide fiber raccoon rookie fork share dirt riot gift cigar";
+var mnemonic = "abandon mimic way twist month naive win hard little picture disease vital";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle shy castle foil correct clay polar sleep cheese enlist evil fog";
+var mnemonic = "clean dad renew mixed nation two vast multiply cricket language slow alter";

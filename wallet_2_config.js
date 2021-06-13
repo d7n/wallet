@@ -1,1 +1,1 @@
-var mnemonic = "twist term lens fish twist poet base moral attend credit capable soon";
+var mnemonic = "trouble wine reunion jump ball know cliff enlist husband symbol trouble black";

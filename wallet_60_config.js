@@ -1,1 +1,1 @@
-var mnemonic = "divorce hour diet federal hotel two away shock dragon bone position coach";
+var mnemonic = "club pretty dust sentence lizard ride ghost point palace truly swing decorate";

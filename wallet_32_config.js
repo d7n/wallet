@@ -1,1 +1,1 @@
-var mnemonic = "again sleep cricket unique never fat better plunge welcome gossip chicken festival";
+var mnemonic = "hybrid entire tornado heart limb indicate detect decide crazy run fence tiny";

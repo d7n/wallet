@@ -1,1 +1,1 @@
-var mnemonic = "blind sniff what keep garden season once pact faint zoo final festival";
+var mnemonic = "hope element village grant box patient woman case number champion clarify sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp twice suspect twenty come jeans bulb subject vault hover senior input";
+var mnemonic = "mom liquid sketch stable robust void piece diet april leopard accident wrong";

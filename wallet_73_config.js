@@ -1,1 +1,1 @@
-var mnemonic = "crunch depth stumble address such tape camera skirt super public shoot expose";
+var mnemonic = "brown tomato exhibit section hawk enrich common come real act remove income";

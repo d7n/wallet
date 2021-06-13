@@ -1,1 +1,1 @@
-var mnemonic = "rigid holiday citizen wink plate body ecology corn chapter gown vanish term";
+var mnemonic = "more boy useless casual wood fog junior sting call mansion vapor ugly";

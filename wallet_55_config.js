@@ -1,1 +1,1 @@
-var mnemonic = "club build noodle need brown civil flash warrior romance rely subway melt";
+var mnemonic = "recycle swear pride wealth lizard execute sense hero claim exile scare tooth";

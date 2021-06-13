@@ -1,1 +1,1 @@
-var mnemonic = "weasel feel surprise fancy creek sheriff jelly plastic three wrong can embrace";
+var mnemonic = "miss access monitor frown custom remind equal jewel assault negative cable custom";

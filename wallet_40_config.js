@@ -1,1 +1,1 @@
-var mnemonic = "lab stairs cash glory attract sorry squirrel bulk cherry camera drink glance";
+var mnemonic = "core fresh sun census keep machine copy later enable join humor call";

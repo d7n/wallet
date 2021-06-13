@@ -1,1 +1,1 @@
-var mnemonic = "donor prison script purse say tunnel once shock hover drink occur merit";
+var mnemonic = "powder theory involve fine place off try tray boat energy claim reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "where flame season cube print obscure virtual method carbon hill giggle accident";
+var mnemonic = "forward blue assault resist display game answer neutral march network repeat scare";

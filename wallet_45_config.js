@@ -1,1 +1,1 @@
-var mnemonic = "sound virtual fade talk raw goddess engage warm shove list adjust banana";
+var mnemonic = "shaft tornado symbol snake gown number cheap help time luggage joke father";

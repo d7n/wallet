@@ -1,1 +1,1 @@
-var mnemonic = "afraid juice segment jewel brother strategy convince great object network diesel call";
+var mnemonic = "lesson wide latin theme basket index goddess danger feed anger champion parent";

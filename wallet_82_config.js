@@ -1,1 +1,1 @@
-var mnemonic = "seek verb eternal view dry reward identify soldier swallow echo stock awkward";
+var mnemonic = "coin ill dry inflict humble slush panel surge civil boat lecture quit";

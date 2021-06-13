@@ -1,1 +1,1 @@
-var mnemonic = "idea enroll rare entire wagon dentist trust orchard turkey wise notice list";
+var mnemonic = "alley win basket dinosaur hamster actual collect defense myself hurry apology enact";

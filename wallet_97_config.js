@@ -1,1 +1,1 @@
-var mnemonic = "version edge insane egg fashion lion stool mix hurt reveal display surface";
+var mnemonic = "mutual budget beach wing genius kidney stock imitate solid hire win gap";

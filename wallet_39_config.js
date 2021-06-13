@@ -1,1 +1,1 @@
-var mnemonic = "any elite champion symptom quiz stove surge renew unable airport climb maximum";
+var mnemonic = "such cloud funny plug argue hill airport scheme snow spoon visual million";

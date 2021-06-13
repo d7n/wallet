@@ -1,1 +1,1 @@
-var mnemonic = "brief poet empty gentle shoot feed camp jelly sure voice chuckle local";
+var mnemonic = "cart raven never mountain water glide fat edge divide fit provide universe";

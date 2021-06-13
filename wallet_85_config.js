@@ -1,1 +1,1 @@
-var mnemonic = "arrange fever science van sail dizzy render absent enjoy bleak receive syrup";
+var mnemonic = "swap regular state sustain cycle merry afraid trim action pony dog village";

@@ -1,1 +1,1 @@
-var mnemonic = "honey discover corn smile reason ability video birth skill jeans street hospital";
+var mnemonic = "tribe marriage fish oval obscure core clock food educate interest pattern echo";

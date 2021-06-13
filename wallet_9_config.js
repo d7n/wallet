@@ -1,1 +1,1 @@
-var mnemonic = "govern tackle caution sun title dream before column coral kit faculty trap";
+var mnemonic = "toddler rural drink style virtual dice luxury since quiz memory result admit";

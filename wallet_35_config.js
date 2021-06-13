@@ -1,1 +1,1 @@
-var mnemonic = "learn tired window copy betray smart beach avocado clean candy phone piano";
+var mnemonic = "screen engage into sick liquid aerobic educate area bullet cancel swamp vessel";

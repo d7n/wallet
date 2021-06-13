@@ -1,1 +1,1 @@
-var mnemonic = "civil first jaguar organ liar sock thing genuine whisper scissors syrup ribbon";
+var mnemonic = "letter vacant over club clump hat meat veteran prepare ivory sudden until";

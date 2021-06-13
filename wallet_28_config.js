@@ -1,1 +1,1 @@
-var mnemonic = "month decline flag nose exotic hurdle present miss become rug spell index";
+var mnemonic = "tilt reward original zebra crowd report mandate toy hand cradle warm sand";

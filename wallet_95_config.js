@@ -1,1 +1,1 @@
-var mnemonic = "jewel book debris path slender account cram sugar elder female inspire choice";
+var mnemonic = "repeat excite armor airport treat plastic certain lift illegal mean invest achieve";

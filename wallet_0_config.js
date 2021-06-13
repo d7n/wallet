@@ -1,1 +1,1 @@
-var mnemonic = "access tenant destroy ticket route smart emerge eight before original card option";
+var mnemonic = "stereo equal inquiry latin remain goat elbow neck feed parade conduct cruise";

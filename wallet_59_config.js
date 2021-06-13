@@ -1,1 +1,1 @@
-var mnemonic = "stay traffic plate casino grunt flip govern giraffe awake biology tunnel zero";
+var mnemonic = "absorb another spy donor primary frost celery argue perfect rail aunt expose";

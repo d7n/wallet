@@ -1,1 +1,1 @@
-var mnemonic = "public dog buyer extra route maze where clap birth shaft analyst ahead";
+var mnemonic = "example pulse can narrow shadow across absurd wonder flash return pioneer remain";

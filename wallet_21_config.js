@@ -1,1 +1,1 @@
-var mnemonic = "inner giraffe please champion magnet ocean wood express keen elite pelican canal";
+var mnemonic = "crouch write mass earth subway tattoo expose cattle become garlic coffee immune";

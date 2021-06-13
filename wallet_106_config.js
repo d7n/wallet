@@ -1,1 +1,1 @@
-var mnemonic = "spawn ecology problem forward then skill stage upon gift jealous pave wink";
+var mnemonic = "coral attend furnace seek medal gasp team differ shrimp together lawn sunset";

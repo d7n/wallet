@@ -1,1 +1,1 @@
-var mnemonic = "leave coil season soccer require hammer enhance awkward motor shoulder lonely cabbage";
+var mnemonic = "ridge predict track reason nice culture chief identify glue split abuse virus";

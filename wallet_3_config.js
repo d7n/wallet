@@ -1,1 +1,1 @@
-var mnemonic = "grunt name example lady lazy inspire cave venture track wine burger license";
+var mnemonic = "elephant loop unable argue author bicycle velvet recipe trust jump layer reflect";

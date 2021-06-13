@@ -1,1 +1,1 @@
-var mnemonic = "stool fury waste enrich remain economy flame release fat unfair damage tornado";
+var mnemonic = "illegal lunar dose fly edit snake invest little insect season stock moon";

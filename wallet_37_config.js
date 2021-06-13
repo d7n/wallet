@@ -1,1 +1,1 @@
-var mnemonic = "theory audit drift vacuum wet oval panic like boss you hold brain";
+var mnemonic = "above record smoke reveal carbon receive innocent afford vanish hip slam fluid";

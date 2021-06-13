@@ -1,1 +1,1 @@
-var mnemonic = "dwarf shine report arrest unlock robot olive peace rubber hint pig guilt";
+var mnemonic = "burger van orphan napkin idea sheriff short assume leopard label unusual suggest";

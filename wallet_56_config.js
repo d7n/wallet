@@ -1,1 +1,1 @@
-var mnemonic = "power boil edit bench garbage act latin man pigeon curve mask sign";
+var mnemonic = "issue solution glimpse helmet badge wine among wasp convince fire old lizard";

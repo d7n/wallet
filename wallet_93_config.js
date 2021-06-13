@@ -1,1 +1,1 @@
-var mnemonic = "team more access police easy essay section letter state alley charge sibling";
+var mnemonic = "control vital push hurry tissue wife emerge movie misery obscure jar clay";
