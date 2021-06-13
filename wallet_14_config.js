@@ -1,1 +1,1 @@
-var mnemonic = "muffin garbage race walnut night broccoli charge great clap sell globe island";
+var mnemonic = "rival vault already security love mixture coral mandate produce room moral little";

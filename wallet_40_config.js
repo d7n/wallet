@@ -1,1 +1,1 @@
-var mnemonic = "burger uncover similar gold gate injury debate eyebrow furnace north vivid exercise";
+var mnemonic = "spot detail drift embrace obvious adult worry craft half rebel always tonight";

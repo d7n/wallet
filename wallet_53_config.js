@@ -1,1 +1,1 @@
-var mnemonic = "age stuff crucial balcony squirrel word giraffe cluster access ritual snake scheme";
+var mnemonic = "involve edge sport useless cross combine please admit calm cement neutral primary";

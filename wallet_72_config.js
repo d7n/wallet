@@ -1,1 +1,1 @@
-var mnemonic = "puzzle impose rifle panda border merge bone come calm frog spoil shine";
+var mnemonic = "hold gate humble glimpse man obtain step before involve venue kangaroo shield";

@@ -1,1 +1,1 @@
-var mnemonic = "dance forest inherit spatial feature lonely melt frequent violin theory mistake laugh";
+var mnemonic = "scrub wash cloud tube observe volume genius mirror antique distance jelly light";

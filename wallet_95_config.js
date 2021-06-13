@@ -1,1 +1,1 @@
-var mnemonic = "february dice lunch trim chair culture desk shy license grab advice dry";
+var mnemonic = "pottery scare woman valve swim way cook gauge harvest sign anchor negative";

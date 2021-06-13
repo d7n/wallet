@@ -1,1 +1,1 @@
-var mnemonic = "capital sheriff hobby illegal decrease curve shock broom wage banner enrich install";
+var mnemonic = "document surround increase crush possible curious kidney curious logic surface shrimp shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain plate crisp blood marriage bacon sentence regret ankle power cute slush";
+var mnemonic = "manage clever brother august goose door pair danger rate depart twelve swear";

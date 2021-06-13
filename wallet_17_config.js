@@ -1,1 +1,1 @@
-var mnemonic = "inch crater snap animal lift dress trend ghost stable test outdoor dynamic";
+var mnemonic = "fresh bridge carpet own library below salt butter solve display course device";

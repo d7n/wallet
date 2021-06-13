@@ -1,1 +1,1 @@
-var mnemonic = "quick offer float rescue thrive welcome mouse perfect room place funny wave";
+var mnemonic = "ensure waste sword section ethics divert slice acoustic hat symptom shield control";

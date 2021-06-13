@@ -1,1 +1,1 @@
-var mnemonic = "payment bag grass question huge birth pencil side destroy crucial drip slide";
+var mnemonic = "champion beauty someone comic put slow buffalo cram question document brand tortoise";

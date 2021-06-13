@@ -1,1 +1,1 @@
-var mnemonic = "artist unfair once maid grunt enlist captain second gold fault small reward";
+var mnemonic = "gaze skirt require frequent syrup ensure phone best enjoy artist gasp crime";

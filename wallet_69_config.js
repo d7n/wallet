@@ -1,1 +1,1 @@
-var mnemonic = "inquiry accident bargain pulp poverty bean legal adult toward true gaze service";
+var mnemonic = "habit vicious section bread jacket grape race shop coach army poet scrap";

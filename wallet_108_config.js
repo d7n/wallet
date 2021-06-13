@@ -1,1 +1,1 @@
-var mnemonic = "position lunar reveal panic yellow critic aware step random whisper autumn front";
+var mnemonic = "appear flee toss error soup orient column industry lecture arrive since cloud";

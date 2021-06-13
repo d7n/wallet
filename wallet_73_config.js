@@ -1,1 +1,1 @@
-var mnemonic = "daring corn glue live kitchen holiday thank inhale woman once ghost hamster";
+var mnemonic = "bind orange prize rebuild bench rain tone patient rival vendor lawn survey";

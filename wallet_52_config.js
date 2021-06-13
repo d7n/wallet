@@ -1,1 +1,1 @@
-var mnemonic = "inflict calm reopen laundry purchase purpose age world spread float mercy unfair";
+var mnemonic = "rose chef weird wisdom robot order wage brick draft steel glove robot";

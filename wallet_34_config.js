@@ -1,1 +1,1 @@
-var mnemonic = "soul amused spirit fantasy panel neutral shrimp coach oven great ladder gas";
+var mnemonic = "season uphold stay flavor dad helmet run oak gain patrol inject blue";

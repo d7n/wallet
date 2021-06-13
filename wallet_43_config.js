@@ -1,1 +1,1 @@
-var mnemonic = "gain solution heavy burger safe knife garlic peasant upper invest nation diagram";
+var mnemonic = "library sword element claw monster vivid neck treat alert motor attack witness";

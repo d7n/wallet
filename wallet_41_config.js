@@ -1,1 +1,1 @@
-var mnemonic = "cool rigid asset hurdle stereo fix oval arrow warrior reunion swim budget";
+var mnemonic = "mutual nasty daughter fish shield this pencil goddess cool middle remember daughter";

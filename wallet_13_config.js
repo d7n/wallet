@@ -1,1 +1,1 @@
-var mnemonic = "melt off text wool spatial rack people spring inquiry gossip vapor destroy";
+var mnemonic = "sentence able surprise urge average flame rescue jungle capable vague tank same";

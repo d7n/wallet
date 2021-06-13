@@ -1,1 +1,1 @@
-var mnemonic = "between struggle own tornado sting text flavor tip nuclear guess tired witness";
+var mnemonic = "drastic near aware rice tongue salt midnight unhappy dinner unusual soup inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "clever sketch pigeon fiction arena model adult dish exotic advance brief question";
+var mnemonic = "elegant accuse bulb track someone kiss loud typical fury there hollow document";

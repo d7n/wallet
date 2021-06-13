@@ -1,1 +1,1 @@
-var mnemonic = "tennis lend sick filter lawn pizza evoke engage panic sound proof athlete";
+var mnemonic = "ritual female timber protect video you rebuild nut blur coil use ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "blood voice slab unit shrug pelican pelican horse tell island trophy target";
+var mnemonic = "weasel replace coffee program neck depth general stairs column master wisdom tilt";

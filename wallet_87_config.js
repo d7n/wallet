@@ -1,1 +1,1 @@
-var mnemonic = "wish actress net access safe romance couch vault section harbor where symptom";
+var mnemonic = "radar become oval knock retreat agent basket hood absent merit arrow obey";

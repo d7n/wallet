@@ -1,1 +1,1 @@
-var mnemonic = "length foster journey gather asthma goat coast humble captain various heavy harvest";
+var mnemonic = "inner inquiry arrive section one void decrease fabric elite suspect cluster novel";

@@ -1,1 +1,1 @@
-var mnemonic = "wise tired grief banana hire sunny opera require increase movie stove trim";
+var mnemonic = "spoon expose setup alert become place zero ostrich cargo what flame pen";

@@ -1,1 +1,1 @@
-var mnemonic = "boat water bulb lady bonus pen comfort address then high slab witness";
+var mnemonic = "cheese fashion trip until hard decrease wheat champion stock pitch okay lawn";

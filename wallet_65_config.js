@@ -1,1 +1,1 @@
-var mnemonic = "runway fade copper enjoy powder broken shoulder dish disorder insect eye sphere";
+var mnemonic = "donkey uncle quit engine dinosaur phrase receive bubble tobacco chat injury absurd";

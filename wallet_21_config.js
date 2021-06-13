@@ -1,1 +1,1 @@
-var mnemonic = "rail palace thing staff capital shop habit fame draft script empty captain";
+var mnemonic = "uncle there upgrade bulb chair blossom clinic bring witness undo despair toast";

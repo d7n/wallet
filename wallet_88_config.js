@@ -1,1 +1,1 @@
-var mnemonic = "token system upper sea flag shove infant empty palm under world cream";
+var mnemonic = "train impose alter effort load tragic series employ orbit else exit boring";

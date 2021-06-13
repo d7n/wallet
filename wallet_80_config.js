@@ -1,1 +1,1 @@
-var mnemonic = "siren quarter feature behave word task replace exchange tuna runway agent utility";
+var mnemonic = "layer trumpet fiscal economy october yellow habit speed route raise hunt glad";

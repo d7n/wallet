@@ -1,1 +1,1 @@
-var mnemonic = "liberty ramp awesome skill grocery foil rather basket turn same endorse warm";
+var mnemonic = "dad shrug chicken sell tape table unfold holiday life dirt sting unveil";

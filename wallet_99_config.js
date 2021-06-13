@@ -1,1 +1,1 @@
-var mnemonic = "uncle stuff daring assist blur steel few clay floor umbrella actress that";
+var mnemonic = "era ugly toast garage since basic yard name viable vacant move pretty";

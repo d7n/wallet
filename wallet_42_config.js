@@ -1,1 +1,1 @@
-var mnemonic = "error infant tone buddy detail nominee card drive ticket shell process rate";
+var mnemonic = "hair pattern pluck west lunar joke sea deal excite fuel dismiss world";

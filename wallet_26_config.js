@@ -1,1 +1,1 @@
-var mnemonic = "rib arrest box neither write seed brief victory swap move spoil spawn";
+var mnemonic = "lift disorder novel vital bullet dismiss wet large pretty armor patient design";

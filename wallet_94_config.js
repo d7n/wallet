@@ -1,1 +1,1 @@
-var mnemonic = "satoshi across say office film guitar catch curve first twist chef have";
+var mnemonic = "fever teach risk clinic pioneer wedding inform smart cheese census early sock";

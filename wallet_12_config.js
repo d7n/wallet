@@ -1,1 +1,1 @@
-var mnemonic = "royal increase write disease unique foam soda estate kingdom despair donate elite";
+var mnemonic = "visit manual clarify sheriff shift example furnace girl swing measure busy nice";

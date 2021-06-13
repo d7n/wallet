@@ -1,1 +1,1 @@
-var mnemonic = "depart trim attract dignity file blind radio inquiry recycle piece tomorrow soccer";
+var mnemonic = "trip canyon help mobile still write nature gate man lesson jar alarm";

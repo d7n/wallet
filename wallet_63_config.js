@@ -1,1 +1,1 @@
-var mnemonic = "speed title script across hungry youth blanket damage fiber series obscure enable";
+var mnemonic = "equip small swarm defy moon owner chicken job clown again few town";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil advance impulse resist cotton expose allow stamp fan craft decade umbrella";
+var mnemonic = "level moon type sun spin caution scout season common track plate bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "trial car thought guide critic visa jacket receive addict magic sand bacon";
+var mnemonic = "exclude dirt omit wasp naive cruel news saddle exact tackle letter alley";

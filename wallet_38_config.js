@@ -1,1 +1,1 @@
-var mnemonic = "novel tragic empty frequent unhappy drip race drama cabin exotic elephant analyst";
+var mnemonic = "inside remember patrol clap virtual fuel spend vintage traffic nothing tilt involve";

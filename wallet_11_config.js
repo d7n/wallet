@@ -1,1 +1,1 @@
-var mnemonic = "boring sunny struggle discover false grape choice issue jump quality topic machine";
+var mnemonic = "load tired pudding tackle carbon obey assume follow monkey absorb swamp number";

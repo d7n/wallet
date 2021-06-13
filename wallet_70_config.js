@@ -1,1 +1,1 @@
-var mnemonic = "chef satisfy shiver recycle tumble vacant armor list bright upgrade repeat acoustic";
+var mnemonic = "salmon warrior erosion expect track kidney iron loop police broccoli dust hole";

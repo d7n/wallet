@@ -1,1 +1,1 @@
-var mnemonic = "carry ship pilot air hope story course mutual tiger height donate erode";
+var mnemonic = "because rude aim reflect reject speak away candy inject group fringe wing";

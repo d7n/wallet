@@ -1,1 +1,1 @@
-var mnemonic = "front move process security dad gauge exercise cart woman borrow vivid jeans";
+var mnemonic = "place zebra episode tube expect split twin height forget barely journey actor";

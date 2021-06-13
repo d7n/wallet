@@ -1,1 +1,1 @@
-var mnemonic = "captain hollow west borrow sentence tree hedgehog sleep survey ignore until volcano";
+var mnemonic = "where cloth south wild avocado universe oxygen sting happy gym call blue";

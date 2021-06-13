@@ -1,1 +1,1 @@
-var mnemonic = "junk plate labor supreme sell chair bus purse action woman gossip dismiss";
+var mnemonic = "staff toilet green roast solution tooth hub upper dilemma meat add crane";

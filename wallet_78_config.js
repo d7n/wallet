@@ -1,1 +1,1 @@
-var mnemonic = "above problem shove dynamic car elevator unit middle plate quiz outdoor boil";
+var mnemonic = "return divide coconut warm solid trend visual diamond permit ranch resist bottom";

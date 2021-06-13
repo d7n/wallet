@@ -1,1 +1,1 @@
-var mnemonic = "tissue simple holiday soon local give menu veteran sketch animal way club";
+var mnemonic = "settle modify pond tired leopard win magnet buffalo spice metal hour cup";

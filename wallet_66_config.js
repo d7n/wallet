@@ -1,1 +1,1 @@
-var mnemonic = "include smooth define sick choice elephant shell stumble snack snack rain frost";
+var mnemonic = "gasp cute twin nasty tunnel scatter pact uncover slight couple measure amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "world rifle inject ski neither bounce turn need egg soda garage predict";
+var mnemonic = "bundle domain blame subject neither wrestle include barely senior analyst final rescue";

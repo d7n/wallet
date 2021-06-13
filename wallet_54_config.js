@@ -1,1 +1,1 @@
-var mnemonic = "dawn use warfare robust divide recipe indicate come inherit verify retreat video";
+var mnemonic = "breeze purchase kidney small awful random warfare edge music miracle post flash";

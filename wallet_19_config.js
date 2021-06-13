@@ -1,1 +1,1 @@
-var mnemonic = "elite piano move barely flee wing very strategy parent coconut mix oppose";
+var mnemonic = "service gift orient journey enable thumb tip rib pyramid position leader goat";

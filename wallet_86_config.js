@@ -1,1 +1,1 @@
-var mnemonic = "hand echo wet coyote hen input unique fish glad join teach soul";
+var mnemonic = "vintage steak double track diamond soft ugly garbage nut manual nothing trophy";

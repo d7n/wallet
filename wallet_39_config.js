@@ -1,1 +1,1 @@
-var mnemonic = "gain youth arrive achieve shell load cage lemon say tissue rhythm alley";
+var mnemonic = "rail weapon pluck tool veteran peanut grant accident margin husband various any";

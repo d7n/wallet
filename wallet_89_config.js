@@ -1,1 +1,1 @@
-var mnemonic = "cycle salt tired chest home there grunt annual pluck idle wonder explain";
+var mnemonic = "enable sniff lottery march lock century spoil guard organ marine edge please";

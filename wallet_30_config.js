@@ -1,1 +1,1 @@
-var mnemonic = "ostrich awake either degree cake maid tennis they salute just ugly bracket";
+var mnemonic = "slow bone cousin roast retire word punch dose wise ill balcony rent";

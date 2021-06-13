@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur snow shoot feel sweet number sure nose relief farm umbrella crop";
+var mnemonic = "account crop rain then spirit dish advance fragile ball thing enough hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "advice water ugly vocal hire brick secret silk almost language buzz allow";
+var mnemonic = "rubber churn merge large action expect step jelly glad street plunge polar";

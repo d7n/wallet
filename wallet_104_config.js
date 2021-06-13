@@ -1,1 +1,1 @@
-var mnemonic = "kiwi upon true carry employ exchange matrix dizzy slim position humble problem";
+var mnemonic = "benefit maple envelope enforce shuffle old frog around urge prepare road intact";

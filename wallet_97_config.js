@@ -1,1 +1,1 @@
-var mnemonic = "beyond charge input picture almost cannon clog universe toast liar distance refuse";
+var mnemonic = "aisle scorpion audit fitness since skin illness patient camp narrow urban visit";

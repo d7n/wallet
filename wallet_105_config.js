@@ -1,1 +1,1 @@
-var mnemonic = "sponsor because quit provide near web artwork vague rug distance matrix live";
+var mnemonic = "glow step net knee message grief trip road agree invite bottom youth";

@@ -1,1 +1,1 @@
-var mnemonic = "object garage certain snap clever tell divert desert valve method major album";
+var mnemonic = "idle helmet insane alley spring critic afraid news blind wait icon buzz";

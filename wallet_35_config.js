@@ -1,1 +1,1 @@
-var mnemonic = "parade laugh tragic pill detect typical share nasty spare they device juice";
+var mnemonic = "flight actor evolve adapt rather dog master wisdom rice before artefact promote";

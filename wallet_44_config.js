@@ -1,1 +1,1 @@
-var mnemonic = "lobster tackle reflect bulk victory pencil invite tired category rail used sudden";
+var mnemonic = "quiz below chuckle release mimic powder mass tragic only jaguar column wealth";

@@ -1,1 +1,1 @@
-var mnemonic = "clock cluster foster sentence jacket return clever piano another license cinnamon tragic";
+var mnemonic = "margin soap answer around note motor defy legal receive misery tissue table";

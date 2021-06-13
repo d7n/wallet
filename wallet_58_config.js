@@ -1,1 +1,1 @@
-var mnemonic = "bike entire glow eye fork danger address mean draw photo depth banner";
+var mnemonic = "busy sphere sign into move physical blur pizza tourist friend cook material";

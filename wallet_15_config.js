@@ -1,1 +1,1 @@
-var mnemonic = "spoil emerge super motion autumn child model all uphold group kind flag";
+var mnemonic = "trade protect aware sheriff trash image often divert trouble tape wheat glimpse";

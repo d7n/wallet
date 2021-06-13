@@ -1,1 +1,1 @@
-var mnemonic = "hip boil lecture cause police radio husband accident design buyer loud once";
+var mnemonic = "twin enjoy stadium dentist spider electric duck morning scatter fiscal help unique";

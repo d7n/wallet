@@ -1,1 +1,1 @@
-var mnemonic = "outer champion time minor robust resource glory obtain toward icon peanut that";
+var mnemonic = "model fine dirt uniform knife boost process industry cave citizen lonely vacuum";

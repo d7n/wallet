@@ -1,1 +1,1 @@
-var mnemonic = "dream father heavy profit zone garden mule same net valid rocket dizzy";
+var mnemonic = "napkin before all enter group matrix lock breeze attract wonder caught casino";

@@ -1,1 +1,1 @@
-var mnemonic = "corn royal fun clap loud blame pact bamboo pupil bicycle stone quiz";
+var mnemonic = "crater gas fashion apple long tray anchor range board interest refuse then";

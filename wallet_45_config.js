@@ -1,1 +1,1 @@
-var mnemonic = "early siren appear coffee hundred salon father insect focus banana trumpet wide";
+var mnemonic = "ring lyrics desk decline rain napkin mass distance connect seminar inquiry patient";

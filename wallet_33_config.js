@@ -1,1 +1,1 @@
-var mnemonic = "talk width web hip proud pitch wreck across slogan theme gadget hidden";
+var mnemonic = "liberty symptom lottery purchase garment taste cliff kitten leg curtain shaft wall";

@@ -1,1 +1,1 @@
-var mnemonic = "govern turtle inside control check draw ignore annual use tide nothing remain";
+var mnemonic = "equal eyebrow spell match turkey twenty rebel wagon segment ethics frozen immense";

@@ -1,1 +1,1 @@
-var mnemonic = "alone long cost syrup gap town diagram salad praise nurse general before";
+var mnemonic = "double stable build click farm initial next print report thought laugh credit";

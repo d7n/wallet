@@ -1,1 +1,1 @@
-var mnemonic = "open stove advice wisdom hedgehog dance side second turkey yellow sail hedgehog";
+var mnemonic = "treat monkey ignore jealous silly primary daughter stereo island jar chapter bronze";

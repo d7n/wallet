@@ -1,1 +1,1 @@
-var mnemonic = "can approve soap witness cancel crowd garden able wall monkey antenna elite";
+var mnemonic = "gym carry debate tell acid excuse fringe wonder claw element cat myth";

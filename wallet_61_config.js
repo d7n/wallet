@@ -1,1 +1,1 @@
-var mnemonic = "chronic gasp pumpkin angry erode lesson pull beauty two wine fame always";
+var mnemonic = "bird embrace explain fault later arch tribe clip music front noise flavor";

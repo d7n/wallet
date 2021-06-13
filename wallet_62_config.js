@@ -1,1 +1,1 @@
-var mnemonic = "capable dwarf refuse fog again bracket toddler beach swear title general minute";
+var mnemonic = "provide mango clump undo emerge jar warfare uncle swing enforce summer plug";

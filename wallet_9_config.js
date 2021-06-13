@@ -1,1 +1,1 @@
-var mnemonic = "genuine improve speed intact velvet laugh furnace sound bring any treat chest";
+var mnemonic = "whisper beauty unhappy bean crime tiger ribbon cross web blame old impact";

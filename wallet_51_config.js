@@ -1,1 +1,1 @@
-var mnemonic = "fruit enforce tone glow taste cannon struggle clown bind release viable column";
+var mnemonic = "embody vacant orbit crowd good satoshi angle tornado more course boat project";

@@ -1,1 +1,1 @@
-var mnemonic = "churn initial lottery pumpkin keep comic twice raw tilt exhaust input pencil";
+var mnemonic = "talent speak success palm twenty citizen punch finger trigger hazard gossip before";

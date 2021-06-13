@@ -1,1 +1,1 @@
-var mnemonic = "barely gossip indoor claw gorilla barrel piece invite casual loyal curve wrap";
+var mnemonic = "auto neglect middle walnut sight assist inside pen prison tray nasty seven";

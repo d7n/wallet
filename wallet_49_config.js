@@ -1,1 +1,1 @@
-var mnemonic = "fortune all pause isolate parrot cup destroy open enact dilemma seven human";
+var mnemonic = "match large mango harbor satoshi inflict comfort woman field churn minimum spatial";

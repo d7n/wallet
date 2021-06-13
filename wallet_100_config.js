@@ -1,1 +1,1 @@
-var mnemonic = "scissors fiscal retreat medal magic hockey coconut garden risk spider right neglect";
+var mnemonic = "sand thought security captain shiver file traffic orchard fetch symptom label spider";

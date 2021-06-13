@@ -1,1 +1,1 @@
-var mnemonic = "uncover lava verify wheat sock empty snake trip upset found eager chunk";
+var mnemonic = "bicycle island scale thumb public unable real motor equal leisure craft brand";

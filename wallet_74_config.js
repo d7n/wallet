@@ -1,1 +1,1 @@
-var mnemonic = "crack mirror below pony carbon march polar tunnel mind crawl twenty furnace";
+var mnemonic = "boat tail open place shoot prison few dawn fuel card message recall";

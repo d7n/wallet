@@ -1,1 +1,1 @@
-var mnemonic = "summer film across riot actress grow eagle leader misery banana ancient notice";
+var mnemonic = "six tent middle casual future cannon remain design slot muscle clap vibrant";
