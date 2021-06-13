@@ -1,1 +1,1 @@
-var mnemonic = "tobacco wave beyond borrow claw oblige casino over peace young amazing toddler";
+var mnemonic = "practice piano license subject couple burden olympic main teach lunar mimic knee";

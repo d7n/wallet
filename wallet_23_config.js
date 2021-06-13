@@ -1,1 +1,1 @@
-var mnemonic = "infant confirm innocent law enact soap borrow join artwork sustain place crouch";
+var mnemonic = "innocent rough lonely alarm stove various hope melt effort chronic shoe edge";

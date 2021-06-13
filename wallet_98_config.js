@@ -1,1 +1,1 @@
-var mnemonic = "can play danger coach pair castle hope session urban electric card spray";
+var mnemonic = "wheel sure will tray say grain poet crystal filter ghost calm tilt";

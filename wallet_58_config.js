@@ -1,1 +1,1 @@
-var mnemonic = "they lift flight train fashion assume kangaroo wild pave episode learn wreck";
+var mnemonic = "apple episode youth follow across model demand lawsuit rival vivid nice define";

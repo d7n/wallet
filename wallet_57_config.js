@@ -1,1 +1,1 @@
-var mnemonic = "shallow acid finish surround nut shrimp afford door soldier happy kid city";
+var mnemonic = "donor prison script purse say tunnel once shock hover drink occur merit";

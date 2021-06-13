@@ -1,1 +1,1 @@
-var mnemonic = "arena this naive dash seat biology horse duty must accuse ginger kite";
+var mnemonic = "learn tired window copy betray smart beach avocado clean candy phone piano";

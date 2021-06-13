@@ -1,1 +1,1 @@
-var mnemonic = "memory elegant choose major meat strategy abstract nice kit pig history possible";
+var mnemonic = "grunt name example lady lazy inspire cave venture track wine burger license";

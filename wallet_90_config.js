@@ -1,1 +1,1 @@
-var mnemonic = "section someone quote action mandate burger digital tongue position fall quick wash";
+var mnemonic = "goose cabbage three trophy ring guilt elevator conduct border stool pumpkin seek";

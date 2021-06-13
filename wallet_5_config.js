@@ -1,1 +1,1 @@
-var mnemonic = "rhythm field eternal rude town catch clinic middle benefit anger engage crucial";
+var mnemonic = "link crawl bridge frown soon buyer priority column bar plug appear oblige";

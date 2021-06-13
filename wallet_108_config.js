@@ -1,1 +1,1 @@
-var mnemonic = "resource problem approve rare carry boil feel escape casino silver where volume";
+var mnemonic = "ticket fun broom struggle episode credit update insect acid grocery subway unaware";

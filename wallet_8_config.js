@@ -1,1 +1,1 @@
-var mnemonic = "decide faculty afford patient put track detail butter gather album gloom rice";
+var mnemonic = "spring police hip success true soul screen random shoulder rough first pass";

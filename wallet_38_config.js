@@ -1,1 +1,1 @@
-var mnemonic = "name bullet misery trick wise fee virus machine cargo habit jealous version";
+var mnemonic = "holiday success crater carbon soft enlist broom congress stumble find jar wild";

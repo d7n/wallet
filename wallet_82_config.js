@@ -1,1 +1,1 @@
-var mnemonic = "rely mix immense west camp guard attract drive worry agent spirit color";
+var mnemonic = "seek verb eternal view dry reward identify soldier swallow echo stock awkward";

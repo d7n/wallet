@@ -1,1 +1,1 @@
-var mnemonic = "game cushion document draft skirt solution plate clean remove vanish grocery cash";
+var mnemonic = "power boil edit bench garbage act latin man pigeon curve mask sign";

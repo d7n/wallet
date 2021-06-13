@@ -1,1 +1,1 @@
-var mnemonic = "news awkward surround soda shove ketchup merge add bulb solution banner subject";
+var mnemonic = "salad retreat color survey depart wheat later have coast decide cactus kit";

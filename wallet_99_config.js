@@ -1,1 +1,1 @@
-var mnemonic = "coffee element inhale shop math smoke engage voice stadium wet believe tongue";
+var mnemonic = "cake cabin stock thrive renew balance rubber vocal during power antique nurse";

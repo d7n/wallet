@@ -1,1 +1,1 @@
-var mnemonic = "bachelor cannon salute act erupt engine brain noble pupil surface grass spend";
+var mnemonic = "where flame season cube print obscure virtual method carbon hill giggle accident";

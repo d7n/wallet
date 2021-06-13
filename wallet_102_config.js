@@ -1,1 +1,1 @@
-var mnemonic = "try police current chapter claw shy board deliver play shadow drum stumble";
+var mnemonic = "leave coil season soccer require hammer enhance awkward motor shoulder lonely cabbage";

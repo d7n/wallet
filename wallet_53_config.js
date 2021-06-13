@@ -1,1 +1,1 @@
-var mnemonic = "also gesture wasp laptop shine animal carry pizza pull toe brand hip";
+var mnemonic = "burden chunk truth fence patient vast trouble organ hungry diamond company position";

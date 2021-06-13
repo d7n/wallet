@@ -1,1 +1,1 @@
-var mnemonic = "lend nest eager shine segment cook spell silver shove process leaf visit";
+var mnemonic = "govern tackle caution sun title dream before column coral kit faculty trap";

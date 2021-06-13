@@ -1,1 +1,1 @@
-var mnemonic = "ordinary pioneer copper beach forest battle divorce nephew promote milk entire subway";
+var mnemonic = "ability kiss wave erosion step parent raccoon grocery spin human square agent";

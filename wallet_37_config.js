@@ -1,1 +1,1 @@
-var mnemonic = "lock excess actress rug soccer okay elite tree modify juice burst vocal";
+var mnemonic = "theory audit drift vacuum wet oval panic like boss you hold brain";

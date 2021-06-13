@@ -1,1 +1,1 @@
-var mnemonic = "aunt jazz jacket rib urban gap benefit undo zero penalty survey senior";
+var mnemonic = "dwarf shine report arrest unlock robot olive peace rubber hint pig guilt";

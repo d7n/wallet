@@ -1,1 +1,1 @@
-var mnemonic = "early wire suggest innocent soap way tortoise car speak planet mechanic soda";
+var mnemonic = "stay traffic plate casino grunt flip govern giraffe awake biology tunnel zero";

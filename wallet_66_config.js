@@ -1,1 +1,1 @@
-var mnemonic = "screen model imitate bulb vast impulse swing girl shaft shy sort tank";
+var mnemonic = "dentist lady blur valve drive empower problem deposit sorry work patient special";

@@ -1,1 +1,1 @@
-var mnemonic = "boring way borrow twenty float neglect practice hurry cart coast million world";
+var mnemonic = "scene arch dry category swarm address caught tribe barely rice swear century";

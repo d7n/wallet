@@ -1,1 +1,1 @@
-var mnemonic = "prefer jelly capital angle tent motion injury robust recall siren ozone congress";
+var mnemonic = "rigid holiday citizen wink plate body ecology corn chapter gown vanish term";

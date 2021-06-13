@@ -1,1 +1,1 @@
-var mnemonic = "stuff blue enhance rural track penalty glove eyebrow shed jar ship subject";
+var mnemonic = "faint kingdom vast year license grocery differ type jaguar ranch accuse eight";

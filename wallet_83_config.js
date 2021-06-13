@@ -1,1 +1,1 @@
-var mnemonic = "regret segment spirit march lady rich wet surface fun execute ribbon again";
+var mnemonic = "brand ridge combine exact helmet owner sense increase faculty garlic address play";

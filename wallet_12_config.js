@@ -1,1 +1,1 @@
-var mnemonic = "club brother brief truly figure topple manage giggle resource raise spatial scan";
+var mnemonic = "idea wrist street onion disorder police unfair argue meadow age speed tray";

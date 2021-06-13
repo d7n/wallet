@@ -1,1 +1,1 @@
-var mnemonic = "kitten enemy limb problem bulk upgrade demise satisfy shiver farm label grace";
+var mnemonic = "brief poet empty gentle shoot feed camp jelly sure voice chuckle local";

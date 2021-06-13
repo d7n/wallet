@@ -1,1 +1,1 @@
-var mnemonic = "canyon sword join van comfort eight medal client identify journey guitar auto";
+var mnemonic = "nasty turtle common canvas clay call left strike detail air stereo adult";

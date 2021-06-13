@@ -1,1 +1,1 @@
-var mnemonic = "angle neutral board ankle achieve subway fury scissors six liquid empty crowd";
+var mnemonic = "return obtain stand pupil benefit crop false token sell federal travel bridge";

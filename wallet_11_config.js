@@ -1,1 +1,1 @@
-var mnemonic = "deny slide rapid cloud over toe forum common bless age neutral black";
+var mnemonic = "slush host mixed company twelve tuition paddle forum ramp require maid tackle";

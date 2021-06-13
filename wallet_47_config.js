@@ -1,1 +1,1 @@
-var mnemonic = "desk sail riot city letter rebel uncle filter evoke daring inspire repair";
+var mnemonic = "during exercise silent minor patient deputy arrange girl enrich antique toss render";

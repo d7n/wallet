@@ -1,1 +1,1 @@
-var mnemonic = "frog soccer final general science famous dinosaur ball wild ostrich weasel depart";
+var mnemonic = "width annual crunch bundle expire fit toy finger over island chaos elevator";

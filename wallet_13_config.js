@@ -1,1 +1,1 @@
-var mnemonic = "blur settle wasp dynamic waste trim license into police term can quiz";
+var mnemonic = "hungry shiver breeze useless wrong various edit umbrella fantasy soon staff orbit";

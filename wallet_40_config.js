@@ -1,1 +1,1 @@
-var mnemonic = "poverty scorpion common museum usage critic describe hockey force delay poverty jelly";
+var mnemonic = "lab stairs cash glory attract sorry squirrel bulk cherry camera drink glance";

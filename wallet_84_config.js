@@ -1,1 +1,1 @@
-var mnemonic = "again nasty bus devote double three illness simple shell follow material idle";
+var mnemonic = "stable island knife debate media pretty buzz surface card rude ticket acid";

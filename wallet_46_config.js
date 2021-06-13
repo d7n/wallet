@@ -1,1 +1,1 @@
-var mnemonic = "rice direct hawk hundred bracket knee scorpion kitten special later rain margin";
+var mnemonic = "hurdle panic shield buffalo aunt gas pact brother reform language win mother";

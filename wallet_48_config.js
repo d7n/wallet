@@ -1,1 +1,1 @@
-var mnemonic = "device pelican grow oil achieve emotion risk trip surface special hat now";
+var mnemonic = "honey discover corn smile reason ability video birth skill jeans street hospital";

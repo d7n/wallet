@@ -1,1 +1,1 @@
-var mnemonic = "orchard music roast kingdom young lion elevator apology egg liquid gravity custom";
+var mnemonic = "moral depth green chapter hunt neither organ snake carry clock find market";

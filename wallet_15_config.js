@@ -1,1 +1,1 @@
-var mnemonic = "fame horn banana goose raw timber advance aunt unable achieve cube nuclear";
+var mnemonic = "cause inner buzz thank grace symbol wall student fever beyond scatter share";

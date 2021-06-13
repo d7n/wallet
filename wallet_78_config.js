@@ -1,1 +1,1 @@
-var mnemonic = "change squirrel field later ancient message length aunt attract border thank exile";
+var mnemonic = "reveal stove logic call current travel foster bring arrange arch proud butter";

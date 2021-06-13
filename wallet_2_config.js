@@ -1,1 +1,1 @@
-var mnemonic = "public behind name bomb blanket fruit run faith either ridge agree siren";
+var mnemonic = "twist term lens fish twist poet base moral attend credit capable soon";

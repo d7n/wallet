@@ -1,1 +1,1 @@
-var mnemonic = "note wet enter mouse brisk despair girl latin submit season capital original";
+var mnemonic = "state innocent away wink charge twelve family sketch echo calm quote human";

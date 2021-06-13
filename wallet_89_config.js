@@ -1,1 +1,1 @@
-var mnemonic = "tragic rack robot boost supply lawn spring medal slow baby desk produce";
+var mnemonic = "client blanket satisfy assume number hen isolate vacant muffin great credit chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "daring rifle bracket manual leopard baby blue scheme find misery board mouse";
+var mnemonic = "sound virtual fade talk raw goddess engage warm shove list adjust banana";

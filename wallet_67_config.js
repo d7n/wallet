@@ -1,1 +1,1 @@
-var mnemonic = "option ocean drastic maze plug crawl very window easily way unaware awesome";
+var mnemonic = "abstract badge between lucky tiger usual feature spot grow certain wear gown";

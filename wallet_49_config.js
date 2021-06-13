@@ -1,1 +1,1 @@
-var mnemonic = "lobster surround crush foster brand deer excess tornado write melt supreme fury";
+var mnemonic = "idea enroll rare entire wagon dentist trust orchard turkey wise notice list";

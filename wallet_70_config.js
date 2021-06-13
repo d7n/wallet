@@ -1,1 +1,1 @@
-var mnemonic = "avoid soul copy future surface wear salon mad identify often danger chronic";
+var mnemonic = "scrub valid discover wheat tent dry panther sock remain pulse north grain";

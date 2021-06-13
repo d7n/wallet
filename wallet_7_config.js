@@ -1,1 +1,1 @@
-var mnemonic = "grid inner mean stove piano awesome limit man business problem swarm destroy";
+var mnemonic = "hill short invite insect crack vanish dizzy return dose tourist gadget outdoor";

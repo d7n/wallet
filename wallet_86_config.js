@@ -1,1 +1,1 @@
-var mnemonic = "expose home cactus organ sentence finger load voice prepare mansion chimney sea";
+var mnemonic = "chair exit liquid oblige tip refuse duty lawsuit already better deposit cigar";

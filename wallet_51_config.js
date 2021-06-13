@@ -1,1 +1,1 @@
-var mnemonic = "age venue huge tell drastic indoor cry motion spring parrot raccoon leisure";
+var mnemonic = "device neither source kite liquid alert morning retreat siren juice boy oxygen";

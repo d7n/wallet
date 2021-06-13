@@ -1,1 +1,1 @@
-var mnemonic = "sister cruel nurse dial obscure beach install charge loop rose room spread";
+var mnemonic = "arrange fever science van sail dizzy render absent enjoy bleak receive syrup";

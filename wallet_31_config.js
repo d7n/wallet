@@ -1,1 +1,1 @@
-var mnemonic = "expect veteran shoe sadness connect meadow ribbon bar risk settle eight mixed";
+var mnemonic = "wine police innocent ozone sport hedgehog luxury result travel violin parent kidney";

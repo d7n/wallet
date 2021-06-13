@@ -1,1 +1,1 @@
-var mnemonic = "grid rural silent achieve toward divide exclude never away fringe pig delay";
+var mnemonic = "civil first jaguar organ liar sock thing genuine whisper scissors syrup ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope guide pupil summer wrong misery pool afford fit client charge believe";
+var mnemonic = "blind sniff what keep garden season once pact faint zoo final festival";

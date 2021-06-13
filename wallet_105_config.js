@@ -1,1 +1,1 @@
-var mnemonic = "hundred cry chalk beef answer excess foster ignore exit enlist actual tell";
+var mnemonic = "puzzle shy castle foil correct clay polar sleep cheese enlist evil fog";

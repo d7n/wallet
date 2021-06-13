@@ -1,1 +1,1 @@
-var mnemonic = "noodle acquire hover aunt genuine easily siren tired embody library blame daughter";
+var mnemonic = "weasel unhappy home extend urban sweet deliver hybrid million page copper cricket";

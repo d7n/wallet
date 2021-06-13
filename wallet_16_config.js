@@ -1,1 +1,1 @@
-var mnemonic = "flag little opera kick tray raccoon fat expire harsh infant super glare";
+var mnemonic = "below rigid mother vivid diamond repeat void pyramid deposit arrow rookie inspire";

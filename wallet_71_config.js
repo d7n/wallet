@@ -1,1 +1,1 @@
-var mnemonic = "reason injury elephant exact worry title glance surface advance answer soup dance";
+var mnemonic = "public dog buyer extra route maze where clap birth shaft analyst ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm grab flock egg silent thumb fix figure medal chimney occur clown";
+var mnemonic = "club build noodle need brown civil flash warrior romance rely subway melt";

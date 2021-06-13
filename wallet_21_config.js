@@ -1,1 +1,1 @@
-var mnemonic = "relief twice cook visual soda reject sample skin worth virtual blossom betray";
+var mnemonic = "inner giraffe please champion magnet ocean wood express keen elite pelican canal";

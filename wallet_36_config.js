@@ -1,1 +1,1 @@
-var mnemonic = "thrive note shiver silver truth mass airport damp cactus crawl fetch transfer";
+var mnemonic = "april coyote parrot wood cargo endorse dash piano core oblige original ill";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle check cruel feature lunch hockey know lend resource denial witness remember";
+var mnemonic = "plate aware forum hungry hazard panel grape absent pave heart glue jar";

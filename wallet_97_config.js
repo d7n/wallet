@@ -1,1 +1,1 @@
-var mnemonic = "glare force awake borrow alley spring piano record keen soft crawl guide";
+var mnemonic = "version edge insane egg fashion lion stool mix hurt reveal display surface";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture become drift noise black congress laptop hurt filter toe stem tip";
+var mnemonic = "crisp twice suspect twenty come jeans bulb subject vault hover senior input";

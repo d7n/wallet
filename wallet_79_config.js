@@ -1,1 +1,1 @@
-var mnemonic = "mouse core leopard cat thought dress void lock gold total clock involve";
+var mnemonic = "lion prison odor call able either october craft boost lion crime outdoor";

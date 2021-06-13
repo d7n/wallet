@@ -1,1 +1,1 @@
-var mnemonic = "guess raw return depth onion present direct flat element left pepper intact";
+var mnemonic = "afraid juice segment jewel brother strategy convince great object network diesel call";

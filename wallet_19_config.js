@@ -1,1 +1,1 @@
-var mnemonic = "effort solid piece sock dose deal dumb cigar force tip armor waste";
+var mnemonic = "submit fiscal bargain base control speed industry blush minimum stem define mountain";

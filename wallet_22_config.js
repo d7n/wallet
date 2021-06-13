@@ -1,1 +1,1 @@
-var mnemonic = "sad client mother decrease news menu island close practice dash spice then";
+var mnemonic = "april museum custom amount tomorrow chronic bread chat mammal practice over wood";

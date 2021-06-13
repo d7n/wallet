@@ -1,1 +1,1 @@
-var mnemonic = "venue critic recycle health uncle zero rifle special wood net matrix remove";
+var mnemonic = "crunch depth stumble address such tape camera skirt super public shoot expose";

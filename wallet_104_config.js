@@ -1,1 +1,1 @@
-var mnemonic = "stage then cannon health verb observe moment control nut tomato equal vintage";
+var mnemonic = "tornado extend message pottery spread edit sail gate giant lawn outdoor talent";

@@ -1,1 +1,1 @@
-var mnemonic = "zero insect middle benefit upgrade vicious hen prosper lyrics suspect used nature";
+var mnemonic = "auto steel prosper lens head buyer athlete anxiety infant sample eternal artist";

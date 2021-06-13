@@ -1,1 +1,1 @@
-var mnemonic = "dial seminar auction width consider veteran crack gown hand oyster dish thank";
+var mnemonic = "divorce hour diet federal hotel two away shock dragon bone position coach";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss catch hat erupt arm peasant shrug idea broken window spray teach";
+var mnemonic = "canvas pluck family leg crater border beef flee differ make flag industry";

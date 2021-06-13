@@ -1,1 +1,1 @@
-var mnemonic = "neutral wrestle below innocent hurt silver feature scheme success gun trouble badge";
+var mnemonic = "spawn ecology problem forward then skill stage upon gift jealous pave wink";

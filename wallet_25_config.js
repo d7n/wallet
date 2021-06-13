@@ -1,1 +1,1 @@
-var mnemonic = "series enact joy pattern salon nominee shine obtain room shallow loop what";
+var mnemonic = "leaf path dress come loan much artist cement salad drama add keen";

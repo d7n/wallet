@@ -1,1 +1,1 @@
-var mnemonic = "offer friend fall fly reflect dilemma enroll glare replace final midnight owner";
+var mnemonic = "month decline flag nose exotic hurdle present miss become rug spell index";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate push school soda salt mushroom token snack rigid pass plastic hollow";
+var mnemonic = "trip bubble slice also juice salmon kick primary put purse legend reflect";

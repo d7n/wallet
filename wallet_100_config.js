@@ -1,1 +1,1 @@
-var mnemonic = "brother flush dinner wolf gauge practice various quit dumb relief fever eye";
+var mnemonic = "dutch slight wide fiber raccoon rookie fork share dirt riot gift cigar";

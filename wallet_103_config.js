@@ -1,1 +1,1 @@
-var mnemonic = "rival bag aim garbage direct banana oxygen display subject kitchen six tortoise";
+var mnemonic = "reason fame kiwi cart cake green intact depend affair robot edit catch";

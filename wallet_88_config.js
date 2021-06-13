@@ -1,1 +1,1 @@
-var mnemonic = "crane virus assume journey tray trumpet razor often caught trigger help earth";
+var mnemonic = "shield label duck salon race river approve minor vessel budget blouse force";

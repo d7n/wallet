@@ -1,1 +1,1 @@
-var mnemonic = "steak file lobster maid valve unit surround news tackle pony pizza volcano";
+var mnemonic = "jewel book debris path slender account cram sugar elder female inspire choice";

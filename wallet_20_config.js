@@ -1,1 +1,1 @@
-var mnemonic = "double voice wool slim file drama nation jazz erupt enjoy memory banner";
+var mnemonic = "lawn castle salad buyer accident seven trust swarm fix avoid cotton rule";
