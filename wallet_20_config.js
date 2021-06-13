@@ -1,1 +1,1 @@
-var mnemonic = "more educate cinnamon keen clever radio cat crack silent bamboo gloom question";
+var mnemonic = "idea brief talent speak south exhaust canal monitor adapt puppy ugly amount";

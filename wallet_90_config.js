@@ -1,1 +1,1 @@
-var mnemonic = "cigar ahead lion trip original trade category grunt draw wise acquire interest";
+var mnemonic = "palm panic move omit flavor lens orange toss flock walnut stamp alpha";

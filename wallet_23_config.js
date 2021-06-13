@@ -1,1 +1,1 @@
-var mnemonic = "okay broccoli problem gasp ordinary odor liberty debate usage obvious wasp heavy";
+var mnemonic = "danger express almost rare snow chief reward poem rude produce fortune drum";

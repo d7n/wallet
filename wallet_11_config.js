@@ -1,1 +1,1 @@
-var mnemonic = "solar dwarf shrug hobby picnic jazz start assault morning purse become weekend";
+var mnemonic = "sail bonus office cart tuna strong strong animal grain nasty sheriff silent";

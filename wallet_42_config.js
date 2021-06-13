@@ -1,1 +1,1 @@
-var mnemonic = "main crowd still cute reject news stool lunar lumber rescue biology rice";
+var mnemonic = "ski faith mammal fee flame envelope gossip muscle ready ordinary notable title";

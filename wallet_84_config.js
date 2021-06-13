@@ -1,1 +1,1 @@
-var mnemonic = "metal debris bulk dose soul regular position wash illegal bird unusual spare";
+var mnemonic = "robot smile fine juice exotic control select wasp rotate tackle popular provide";

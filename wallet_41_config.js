@@ -1,1 +1,1 @@
-var mnemonic = "doctor metal smart shoulder allow turkey renew notice tilt print hazard people";
+var mnemonic = "verify yellow wash enlist mixture second now define theme laundry pony solution";

@@ -1,1 +1,1 @@
-var mnemonic = "fire mandate boy obey shop symptom pumpkin damp maze scale dolphin entry";
+var mnemonic = "awful mushroom clump account ticket rain rail expire scare tobacco trim segment";

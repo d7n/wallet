@@ -1,1 +1,1 @@
-var mnemonic = "recipe fringe broom onion umbrella glimpse lesson warrior math benefit wash matter";
+var mnemonic = "sea much asthma film sure make about glare milk marine melt gun";

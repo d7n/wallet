@@ -1,1 +1,1 @@
-var mnemonic = "gather power devote harvest coral service few air again menu cannon dinner";
+var mnemonic = "lumber ripple crash waste jealous exile vast major grant clap moment glow";

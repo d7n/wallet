@@ -1,1 +1,1 @@
-var mnemonic = "apart various trigger scene fish fly glue cliff net claim antenna wide";
+var mnemonic = "tilt reason cotton fragile rubber risk kangaroo luggage fly magic pulp chaos";

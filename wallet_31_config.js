@@ -1,1 +1,1 @@
-var mnemonic = "dash hedgehog quarter feature can chase timber visit thunder steel snow cloud";
+var mnemonic = "hamster aisle wire cereal alert dizzy also insect indoor critic illegal swarm";

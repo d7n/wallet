@@ -1,1 +1,1 @@
-var mnemonic = "twenty youth tennis chuckle tool salad assault intact doll explain wedding badge";
+var mnemonic = "logic issue ensure undo never creek dinner riot creek marine joy welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "patient pepper talent hungry also feel lens give satisfy joy gaze burden";
+var mnemonic = "alley gossip claw boost school life depth road rebel vapor find naive";

@@ -1,1 +1,1 @@
-var mnemonic = "short patient language rude main safe hamster section prison order three defense";
+var mnemonic = "alert client wait fade scheme hair worth situate slush rate mass degree";

@@ -1,1 +1,1 @@
-var mnemonic = "tide scrub anxiety path curve idea wrap interest off repair point rare";
+var mnemonic = "swim resemble transfer blind empty board enjoy scene neglect immense prosper exhibit";

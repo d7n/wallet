@@ -1,1 +1,1 @@
-var mnemonic = "fossil wedding similar play style domain luggage family type memory silly spy";
+var mnemonic = "truck upper curious imitate clean ripple shove humble brown nut orchard taste";

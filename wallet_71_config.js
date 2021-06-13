@@ -1,1 +1,1 @@
-var mnemonic = "train bind come peanut picture foam ask wool jewel page eternal alpha";
+var mnemonic = "used keep ask else price illness fade cigar tuition link unaware muffin";

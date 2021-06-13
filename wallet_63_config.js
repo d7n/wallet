@@ -1,1 +1,1 @@
-var mnemonic = "cart off drastic inspire fatal hope doctor emotion buddy cargo capable best";
+var mnemonic = "island stone much struggle correct grocery casual stove zoo combine begin resemble";

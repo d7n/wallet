@@ -1,1 +1,1 @@
-var mnemonic = "mango flight wealth film odor dress erosion concert shrug fringe swim farm";
+var mnemonic = "love top journey steak key gas unlock oblige pole decade rubber suspect";

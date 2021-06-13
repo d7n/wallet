@@ -1,1 +1,1 @@
-var mnemonic = "bamboo erosion stove pond farm dress liquid cruise someone multiply gas action";
+var mnemonic = "black destroy welcome ecology dance maid language pulse ripple beauty already elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor reduce sword cannon clown library mutual finish acid abandon squeeze fitness";
+var mnemonic = "install bike weekend oppose boy leopard action slogan unit axis woman robot";

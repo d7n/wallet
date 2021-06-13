@@ -1,1 +1,1 @@
-var mnemonic = "call weekend bracket since jazz veteran april usual busy bench repair slender";
+var mnemonic = "cat mystery interest isolate favorite onion office valid gesture lucky tourist tonight";

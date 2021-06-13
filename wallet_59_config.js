@@ -1,1 +1,1 @@
-var mnemonic = "impose increase coin copper odor meadow salmon hold able basic thought unusual";
+var mnemonic = "aware law light draft immense utility voice mountain aunt witness fit fossil";

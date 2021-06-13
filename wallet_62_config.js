@@ -1,1 +1,1 @@
-var mnemonic = "toddler fatal damage pony immense board receive method oval coconut often just";
+var mnemonic = "nerve tower kangaroo cliff throw range crime project odor hero patch olive";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy spirit observe story inside stable speak machine tourist indicate lady spare";
+var mnemonic = "wagon system feel club rescue symptom first pear loan arm normal oppose";

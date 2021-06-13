@@ -1,1 +1,1 @@
-var mnemonic = "lab usage harbor also man dad spoil mouse coconut heart anxiety myself";
+var mnemonic = "wild load prevent wait believe journey skin horse enable captain duty spread";

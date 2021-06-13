@@ -1,1 +1,1 @@
-var mnemonic = "task mountain program river celery virtual found settle shoot farm anchor trash";
+var mnemonic = "ability tomorrow lecture lonely under trophy average mad cricket history brave relief";

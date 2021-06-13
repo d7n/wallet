@@ -1,1 +1,1 @@
-var mnemonic = "wish web cupboard valley replace swamp avocado ocean pass slam diary drip";
+var mnemonic = "attitude vague sand opinion window chase wisdom teach vendor proud item dash";

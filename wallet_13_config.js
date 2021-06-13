@@ -1,1 +1,1 @@
-var mnemonic = "empty analyst system sight bounce stuff patch wool hip liberty order history";
+var mnemonic = "oval shuffle wheat oven rely multiply suffer chapter minimum enlist vehicle saddle";

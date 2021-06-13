@@ -1,1 +1,1 @@
-var mnemonic = "danger always front casino cricket broom kite spray energy betray update army";
+var mnemonic = "upper sport diagram double logic output gravity illegal chronic pear mother spatial";

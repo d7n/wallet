@@ -1,1 +1,1 @@
-var mnemonic = "kidney dad broom huge promote orient debate flash dilemma shy sing pretty";
+var mnemonic = "potato blast field vicious love hen embody scheme piano rare hospital humble";

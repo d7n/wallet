@@ -1,1 +1,1 @@
-var mnemonic = "bag choose bundle myth shoot photo tape they hundred gap opera autumn";
+var mnemonic = "topic injury trim paper cry coral prison hobby bachelor educate hospital escape";

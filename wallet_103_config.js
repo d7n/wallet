@@ -1,1 +1,1 @@
-var mnemonic = "online vapor job lonely wide thunder enough wild aware brick staff emotion";
+var mnemonic = "space ask pudding sock wood spare rigid oil retire know device final";

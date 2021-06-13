@@ -1,1 +1,1 @@
-var mnemonic = "service announce present wealth bird remind excess field increase client three coin";
+var mnemonic = "outdoor rice attitude hidden proud bunker nation mind harvest resource gloom glory";

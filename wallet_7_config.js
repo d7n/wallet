@@ -1,1 +1,1 @@
-var mnemonic = "wing victory ball path siege field jealous since image unveil cup noodle";
+var mnemonic = "puzzle pottery produce act runway plunge sail fox vast floor weekend library";

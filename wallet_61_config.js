@@ -1,1 +1,1 @@
-var mnemonic = "cabbage dish identify make divert slice recall employ output ticket rescue loop";
+var mnemonic = "road behind always expect region seek salute term february cruel relief cube";

@@ -1,1 +1,1 @@
-var mnemonic = "girl predict false young similar shiver model check wink door reopen lion";
+var mnemonic = "wise rib mom build wedding ritual connect pride boring month element donate";

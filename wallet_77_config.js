@@ -1,1 +1,1 @@
-var mnemonic = "lake example ready mom bridge dune group legend sniff planet amount snow";
+var mnemonic = "link green inside tone organ ring letter around oak extend chase scene";

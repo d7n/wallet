@@ -1,1 +1,1 @@
-var mnemonic = "winter tower crawl cannon myself abstract fame fitness breeze valley bind depend";
+var mnemonic = "upon cruise inject common resemble curtain timber source thumb finger tail click";

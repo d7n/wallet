@@ -1,1 +1,1 @@
-var mnemonic = "lemon ignore actor upset double practice maze comfort budget skill proof maximum";
+var mnemonic = "cherry sting trust fever spell team bottom link frozen into cherry ship";

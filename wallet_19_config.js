@@ -1,1 +1,1 @@
-var mnemonic = "seek saddle agent satoshi gasp rally license broom entire general region entry";
+var mnemonic = "duck elder uphold maple general agent board inherit oppose analyst amateur report";

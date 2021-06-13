@@ -1,1 +1,1 @@
-var mnemonic = "lunch obvious disagree coach old large whale lunch divide beach pretty speed";
+var mnemonic = "exercise gain all pepper suffer gift advice addict arch picture deputy program";

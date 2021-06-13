@@ -1,1 +1,1 @@
-var mnemonic = "sure squeeze blouse fringe pyramid hat hawk happy gain dad summer lend";
+var mnemonic = "certain avocado urban hen course autumn oval acoustic pattern mandate addict baby";

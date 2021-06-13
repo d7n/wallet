@@ -1,1 +1,1 @@
-var mnemonic = "stem trap exercise hazard error round grape series always loud pact olympic";
+var mnemonic = "rescue same phone quick cancel inmate check cruise now sun unit transfer";

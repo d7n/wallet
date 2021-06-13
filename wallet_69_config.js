@@ -1,1 +1,1 @@
-var mnemonic = "amazing canyon snow cage journey hamster tornado obtain movie right destroy pepper";
+var mnemonic = "elbow assist depart item execute pulp vacant engage tunnel must immense length";

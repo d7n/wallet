@@ -1,1 +1,1 @@
-var mnemonic = "mosquito salmon grow slogan giant city pitch view bicycle settle tree giant";
+var mnemonic = "volume busy tragic pole school era nation early hawk kind fun notable";

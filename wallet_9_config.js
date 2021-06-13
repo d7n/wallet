@@ -1,1 +1,1 @@
-var mnemonic = "salute chest edge nephew rigid income smoke trigger team attack reduce gain";
+var mnemonic = "avoid lend start allow clean sweet disagree one day couch hero seminar";

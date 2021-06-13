@@ -1,1 +1,1 @@
-var mnemonic = "jewel brass muscle price thought lens wheat scrap client hamster gather sweet";
+var mnemonic = "combine raccoon agent worth riot sample hospital immense angry despair dinner power";

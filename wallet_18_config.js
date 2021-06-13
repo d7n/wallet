@@ -1,1 +1,1 @@
-var mnemonic = "grunt fine give hen code absorb pilot fault between can earth very";
+var mnemonic = "mask desert deny viable winter oppose skirt argue common sudden token elder";

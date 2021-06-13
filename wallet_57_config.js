@@ -1,1 +1,1 @@
-var mnemonic = "snack exit join cluster inflict analyst proof pottery punch leopard possible embrace";
+var mnemonic = "there unusual adjust school cannon still liquid soon cricket anchor topic month";

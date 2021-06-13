@@ -1,1 +1,1 @@
-var mnemonic = "water water away resist humor bright fault cry web muscle ten side";
+var mnemonic = "inmate cheap buyer vague skirt deliver pear denial fresh guitar stadium suspect";

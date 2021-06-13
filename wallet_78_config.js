@@ -1,1 +1,1 @@
-var mnemonic = "misery anchor number fan right ask capital farm pass season flight entire";
+var mnemonic = "south twenty problem improve avocado neck stereo paddle burger worry broken action";

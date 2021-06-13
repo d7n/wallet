@@ -1,1 +1,1 @@
-var mnemonic = "proud stereo caught become response flat arch mixture wrong evil ring seed";
+var mnemonic = "fog combine property before obscure super allow light spatial fiscal air comfort";

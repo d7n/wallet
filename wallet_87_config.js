@@ -1,1 +1,1 @@
-var mnemonic = "receive riot gift profit gym hotel stock pill river inner leaf hero";
+var mnemonic = "victory govern drip protect news fortune vivid under bless guess office illness";

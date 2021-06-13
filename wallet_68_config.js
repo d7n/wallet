@@ -1,1 +1,1 @@
-var mnemonic = "quick open this design science turn resemble moral brand tone try exhibit";
+var mnemonic = "caution there glue coach kind sense fitness soft trigger also fetch crouch";

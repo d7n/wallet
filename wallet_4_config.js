@@ -1,1 +1,1 @@
-var mnemonic = "foam isolate pass battle trim struggle gun kit donate real such sign";
+var mnemonic = "glide decrease yard ghost hedgehog brown curve actress notable wisdom million over";

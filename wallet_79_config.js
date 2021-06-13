@@ -1,1 +1,1 @@
-var mnemonic = "cereal hotel spawn wine steak ritual retire pluck awful unique decrease moon";
+var mnemonic = "bind tail saddle spread route edge provide protect vague coconut spot tragic";

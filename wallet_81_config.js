@@ -1,1 +1,1 @@
-var mnemonic = "rather salon finish wood select walk demand idea garbage gentle island common";
+var mnemonic = "ghost road echo truck kid sort item ladder collect genuine liquid route";

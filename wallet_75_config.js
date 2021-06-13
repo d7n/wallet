@@ -1,1 +1,1 @@
-var mnemonic = "mind filter express labor father elite error cactus erode height permit typical";
+var mnemonic = "season grant chief cheap ski evidence blanket attack slow empty cotton display";

@@ -1,1 +1,1 @@
-var mnemonic = "nice mom steel enrich foster ecology book melt admit legend glove expose";
+var mnemonic = "enroll awake dress ritual rookie dice hundred address capital worth bitter laugh";

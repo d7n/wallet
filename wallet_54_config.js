@@ -1,1 +1,1 @@
-var mnemonic = "menu august battle finish sad dress kangaroo skate donate energy reward add";
+var mnemonic = "achieve stomach maze grunt balance fade imitate tail width wood recall put";

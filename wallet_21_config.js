@@ -1,1 +1,1 @@
-var mnemonic = "muscle finish tunnel safe finish demand remain chief salt token obtain rack";
+var mnemonic = "pond uphold fade deal pitch amateur life equal call ill brother person";

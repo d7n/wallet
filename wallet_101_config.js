@@ -1,1 +1,1 @@
-var mnemonic = "try deposit possible horse upper carry acid expire deposit voice turkey snake";
+var mnemonic = "visa assist change consider upper funny point neither flame twelve company return";

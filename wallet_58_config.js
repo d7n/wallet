@@ -1,1 +1,1 @@
-var mnemonic = "maximum crawl toward blame divorce glance joy theory kitchen eager dream major";
+var mnemonic = "witness try please joy chronic narrow impose balcony card festival monster rose";

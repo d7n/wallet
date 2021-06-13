@@ -1,1 +1,1 @@
-var mnemonic = "vibrant square estate velvet trigger foot cannon wine away timber rhythm grain";
+var mnemonic = "honey excite inside hurry trumpet ship rebuild damage magnet merge offer belt";

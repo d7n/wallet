@@ -1,1 +1,1 @@
-var mnemonic = "garden carpet spread alert essence tiger dawn family mail olympic confirm awkward";
+var mnemonic = "attract debate cattle grocery local royal collect figure volcano indoor float story";

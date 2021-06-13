@@ -1,1 +1,1 @@
-var mnemonic = "rude wedding grief sort pattern hurt shrimp pledge youth level pride boost";
+var mnemonic = "armor impulse ticket roof surprise used solve glance voice inmate detail little";

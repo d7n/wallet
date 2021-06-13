@@ -1,1 +1,1 @@
-var mnemonic = "regret absorb bird opera blade blade flush cover joy tenant matrix access";
+var mnemonic = "regret patrol extra museum chronic divert struggle elegant famous describe occur fan";

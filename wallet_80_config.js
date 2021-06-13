@@ -1,1 +1,1 @@
-var mnemonic = "flee busy praise analyst upper egg tag gown ghost lemon robust remain";
+var mnemonic = "ceiling owner fiber medal strong joke crew voice buddy crane cube tackle";

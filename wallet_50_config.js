@@ -1,1 +1,1 @@
-var mnemonic = "cactus vessel actual stick remember visa lounge plug joy wisdom agent climb";
+var mnemonic = "ginger crisp toe goddess wish soap endorse gather capable deer street plastic";

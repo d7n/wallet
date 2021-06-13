@@ -1,1 +1,1 @@
-var mnemonic = "recycle acid boat intact grant divide common barely roast ribbon change lonely";
+var mnemonic = "blast layer loyal arm switch parent problem discover spy pledge damp hockey";

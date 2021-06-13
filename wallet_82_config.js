@@ -1,1 +1,1 @@
-var mnemonic = "original volcano real again lake hockey seven lend trash quiz boring apology";
+var mnemonic = "inhale bid scrap early atom rookie chicken harbor dentist obtain wealth zero";

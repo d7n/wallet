@@ -1,1 +1,1 @@
-var mnemonic = "famous mention pretty security fix crater skill indoor twice embrace flame wreck";
+var mnemonic = "ready help museum poverty bottom plastic bomb language elevator fabric patch token";

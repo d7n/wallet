@@ -1,1 +1,1 @@
-var mnemonic = "witness aisle merry wild concert veteran carry quality sight guitar ancient stove";
+var mnemonic = "pear radio switch unveil jump scatter swamp item glad barrel explain sketch";

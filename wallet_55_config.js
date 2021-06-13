@@ -1,1 +1,1 @@
-var mnemonic = "avocado man negative juice frozen mobile sunset oval steak border note swarm";
+var mnemonic = "run opera swing robot repair appear unusual piano clutch beauty other devote";

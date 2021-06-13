@@ -1,1 +1,1 @@
-var mnemonic = "kit author steak hope husband basic lonely struggle must unlock gadget fatigue";
+var mnemonic = "test silk length pupil tape leaf country tell segment cool audit churn";

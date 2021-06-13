@@ -1,1 +1,1 @@
-var mnemonic = "pyramid random file flip fringe vanish road stairs disagree rack abuse hour";
+var mnemonic = "pony that advice evolve step flame amount letter say ice venture cement";

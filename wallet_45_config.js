@@ -1,1 +1,1 @@
-var mnemonic = "history sponsor trade insect result eagle hold ticket fire culture valve dinner";
+var mnemonic = "page task snow regular agree either certain loop lock fruit fan assault";

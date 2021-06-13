@@ -1,1 +1,1 @@
-var mnemonic = "uphold sure switch swear reject hip liberty drill calm elite cereal element";
+var mnemonic = "nurse soda soul march toe put sound history dog social rhythm flame";

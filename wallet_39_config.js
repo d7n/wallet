@@ -1,1 +1,1 @@
-var mnemonic = "trigger advice month deputy puppy edit shop aware great region notice sphere";
+var mnemonic = "flush skull drive digital welcome dumb pelican program final moment short body";

@@ -1,1 +1,1 @@
-var mnemonic = "surge february buzz gain omit awful veteran taxi armed online coral execute";
+var mnemonic = "awake belt pupil rough ozone stove luxury pole ghost subject shadow topic";

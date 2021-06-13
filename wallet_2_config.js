@@ -1,1 +1,1 @@
-var mnemonic = "dress there trim salmon correct loyal hollow board cry maid night vacuum";
+var mnemonic = "fee blade since wait cabin morning clap boat raw future toe purity";

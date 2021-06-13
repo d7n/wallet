@@ -1,1 +1,1 @@
-var mnemonic = "peanut fossil stamp bind abstract skirt duck gentle into orange dry rally";
+var mnemonic = "away reduce ten multiply vanish fat giant aerobic payment device gospel time";

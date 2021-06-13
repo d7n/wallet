@@ -1,1 +1,1 @@
-var mnemonic = "idea true gold modify enrich intact industry analyst alcohol mask parent goddess";
+var mnemonic = "denial essay involve odor section carry emotion magnet cat misery adapt virus";

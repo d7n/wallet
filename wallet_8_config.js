@@ -1,1 +1,1 @@
-var mnemonic = "town aunt scare wrist sword casino used enemy run patrol shield gadget";
+var mnemonic = "crack caution blade wheat toy yellow brother real bunker damp crazy forest";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney key jazz welcome analyst cram magnet scene manage game sausage predict";
+var mnemonic = "approve leopard moment net bid answer industry crucial gospel business surround sort";

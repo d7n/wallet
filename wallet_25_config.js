@@ -1,1 +1,1 @@
-var mnemonic = "hawk length century skirt road wall broccoli depart cluster sadness topic embark";
+var mnemonic = "midnight uniform inherit fantasy build leopard soccer sister blur code fine theory";
