@@ -1,1 +1,1 @@
-var mnemonic = "similar quality dawn ten order guard pigeon reward faculty indoor relief pencil";
+var mnemonic = "document catch tobacco rough primary foster mango quit either voyage slice agree";

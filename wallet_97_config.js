@@ -1,1 +1,1 @@
-var mnemonic = "echo stay inquiry benefit shadow opinion fiber creek virus actor sport ginger";
+var mnemonic = "trust list dinner mule daughter edge kingdom purity walk inquiry pyramid cruel";

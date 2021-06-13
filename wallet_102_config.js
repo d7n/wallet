@@ -1,1 +1,1 @@
-var mnemonic = "shed target elder seven cradle trumpet glare smoke garbage toward roof valid";
+var mnemonic = "venue gas source category hedgehog man fly announce decrease direct model enter";

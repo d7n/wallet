@@ -1,1 +1,1 @@
-var mnemonic = "promote potato genuine knock analyst hockey flash team beyond ridge blush torch";
+var mnemonic = "scrap demand lucky vanish derive illegal master forum nest pilot panda divide";

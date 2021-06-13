@@ -1,1 +1,1 @@
-var mnemonic = "piece perfect blossom miracle twin sense betray bench canal blanket there envelope";
+var mnemonic = "huge enforce merit choice category fall diesel noise window dry potato snow";

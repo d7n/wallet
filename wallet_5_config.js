@@ -1,1 +1,1 @@
-var mnemonic = "current horror imitate amused place detail orient expose aerobic people return flame";
+var mnemonic = "poet scout harvest saddle priority music merge ketchup nut marriage shuffle pet";

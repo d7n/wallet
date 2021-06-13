@@ -1,1 +1,1 @@
-var mnemonic = "slab illness excess pyramid announce absorb trick night step ready pluck donate";
+var mnemonic = "cup joke artefact swarm tilt rose fuel agree nature radio vendor nose";

@@ -1,1 +1,1 @@
-var mnemonic = "share cliff foam muscle point crash lyrics draft torch mouse erupt equal";
+var mnemonic = "drip erosion salon maze resist sweet trend subway opinion price flip spoil";

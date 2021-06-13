@@ -1,1 +1,1 @@
-var mnemonic = "awful kiwi expand earth file erosion talk own pyramid beef drill night";
+var mnemonic = "kidney leisure alien obey fiber room brother tragic erupt cement face satisfy";

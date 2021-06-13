@@ -1,1 +1,1 @@
-var mnemonic = "poem banner peace grab spot nasty steak vast jaguar cook smart inject";
+var mnemonic = "feed fly twist afford barely dolphin cram apology divert creek impact such";

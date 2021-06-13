@@ -1,1 +1,1 @@
-var mnemonic = "envelope unit know business carpet envelope wait detect strike drastic always anxiety";
+var mnemonic = "humble seminar cloth license run multiply visual rose wave interest transfer ghost";

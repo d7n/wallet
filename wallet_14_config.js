@@ -1,1 +1,1 @@
-var mnemonic = "prevent resource tissue charge company life carry voyage wrap foil jacket market";
+var mnemonic = "tuition wool pave fluid roast eternal fan crystal gold sugar renew spread";

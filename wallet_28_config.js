@@ -1,1 +1,1 @@
-var mnemonic = "clown custom rabbit base position fabric modify fashion panic energy scheme web";
+var mnemonic = "ring worry begin arctic expect hint husband legal museum repeat tone protect";

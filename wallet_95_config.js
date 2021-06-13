@@ -1,1 +1,1 @@
-var mnemonic = "net cram tenant tail curious about frozen armed jewel visual present child";
+var mnemonic = "farm toward oppose pumpkin damp fence spawn effort rhythm amused moral forget";

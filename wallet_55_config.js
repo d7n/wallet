@@ -1,1 +1,1 @@
-var mnemonic = "desk curtain category patient carpet about disorder gloom spell digital adjust huge";
+var mnemonic = "achieve bottom virtual donor icon witness tent panda deposit machine learn arrest";

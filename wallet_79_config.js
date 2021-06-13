@@ -1,1 +1,1 @@
-var mnemonic = "only still pact airport fence youth obscure account march fresh connect tonight";
+var mnemonic = "afford arrange kick cigar heart buzz reform bargain short banana razor worth";

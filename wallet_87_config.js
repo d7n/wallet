@@ -1,1 +1,1 @@
-var mnemonic = "desert love warm copy want sad manual brief blue pledge burden science";
+var mnemonic = "submit pony cannon gentle cabbage sugar submit hello practice bunker physical cupboard";

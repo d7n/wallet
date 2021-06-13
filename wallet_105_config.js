@@ -1,1 +1,1 @@
-var mnemonic = "trust weasel once install nerve kid sing monkey rule push manage absent";
+var mnemonic = "public globe false coil gap hire wear early document tornado delay sketch";

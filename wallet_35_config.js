@@ -1,1 +1,1 @@
-var mnemonic = "bleak season gentle energy flat pottery decline climb furnace ticket frozen message";
+var mnemonic = "cupboard wise bench love sphere acid dumb protect acoustic flame glue express";

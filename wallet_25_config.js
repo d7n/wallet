@@ -1,1 +1,1 @@
-var mnemonic = "dune tobacco ahead sense company donkey cute priority extra option fit horror";
+var mnemonic = "crane salon syrup smoke tower relief two square night ability sustain palm";

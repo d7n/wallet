@@ -1,1 +1,1 @@
-var mnemonic = "harvest uncover bicycle bleak outside what auto around turkey order laptop memory";
+var mnemonic = "series put hero ankle describe wedding wish foster piece fuel remember enrich";

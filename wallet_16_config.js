@@ -1,1 +1,1 @@
-var mnemonic = "chronic source job winner machine eager symbol swift pitch gold twenty train";
+var mnemonic = "rigid chapter divert patient plug unveil green frozen orchard very primary deputy";

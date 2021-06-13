@@ -1,1 +1,1 @@
-var mnemonic = "art october drift vacant soda flavor asthma boat lonely bachelor priority weasel";
+var mnemonic = "vivid breeze dismiss adult spell involve guide enemy spin switch sketch oval";

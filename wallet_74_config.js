@@ -1,1 +1,1 @@
-var mnemonic = "antenna start view scene strong early trade segment rival among barely monitor";
+var mnemonic = "interest electric guitar forget select camp autumn roast staff skill lazy royal";

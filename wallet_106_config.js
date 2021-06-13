@@ -1,1 +1,1 @@
-var mnemonic = "connect shoe pair faith exhibit resist select release believe economy cabbage surround";
+var mnemonic = "unit hen wave pave fatal cushion media power lemon fence canal private";

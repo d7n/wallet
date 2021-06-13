@@ -1,1 +1,1 @@
-var mnemonic = "behave sketch mind edge dilemma perfect target absorb admit pig thing update";
+var mnemonic = "young wide shield enact isolate atom found process weather high benefit lake";

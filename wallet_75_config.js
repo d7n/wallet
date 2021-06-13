@@ -1,1 +1,1 @@
-var mnemonic = "egg disorder uncle comic saddle loyal october joy current web math fault";
+var mnemonic = "cactus buffalo upon during charge distance hammer grape produce palm lion empower";

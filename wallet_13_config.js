@@ -1,1 +1,1 @@
-var mnemonic = "scrap venture borrow tumble wasp famous amazing expand bid sea escape random";
+var mnemonic = "layer area risk fantasy spider program ill artist hurdle useless arrange essay";

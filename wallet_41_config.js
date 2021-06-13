@@ -1,1 +1,1 @@
-var mnemonic = "team undo gate until machine ketchup cabbage beauty earn mercy super clerk";
+var mnemonic = "antenna luxury because resemble pull slim success couple clog cook head require";

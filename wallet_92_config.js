@@ -1,1 +1,1 @@
-var mnemonic = "fresh chef arrive joke celery example hold solar develop moon ski gap";
+var mnemonic = "alpha crash number problem cloth penalty gym worth spend walk accident bird";

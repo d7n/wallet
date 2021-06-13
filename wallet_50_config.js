@@ -1,1 +1,1 @@
-var mnemonic = "cabbage night space control warrior liar session ramp film field flee skate";
+var mnemonic = "media someone wisdom brief motion blame prosper junk hedgehog buyer sister rug";

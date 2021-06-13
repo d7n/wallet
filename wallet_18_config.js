@@ -1,1 +1,1 @@
-var mnemonic = "life debris october second purity cigar pistol like unable input dad section";
+var mnemonic = "surprise aware drill attract casual open congress festival also quarter sponsor buzz";

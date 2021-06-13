@@ -1,1 +1,1 @@
-var mnemonic = "cook post husband bamboo cupboard endless shift forum kangaroo sample hurry pond";
+var mnemonic = "sister supreme dirt link trust ready skin subject popular diet copy chronic";

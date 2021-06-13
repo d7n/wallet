@@ -1,1 +1,1 @@
-var mnemonic = "casual define stool dentist toilet fresh paddle food inner need point afford";
+var mnemonic = "merit sketch dirt season forest figure cushion slide glow health fame detect";

@@ -1,1 +1,1 @@
-var mnemonic = "loop tank empower oblige tape small simple tunnel rapid antenna seminar demise";
+var mnemonic = "matter viable shy model couple coast impulse mule force critic rain crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "axis attack cargo mix stool few arm fun will unaware capital useless";
+var mnemonic = "replace romance naive nasty little job annual core knife mixture turkey report";

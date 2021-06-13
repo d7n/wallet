@@ -1,1 +1,1 @@
-var mnemonic = "sample gaze ask genuine cactus excite nerve size slot ordinary celery tobacco";
+var mnemonic = "move gospel they quantum liar illegal rib drift shed december episode elder";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate cube can toward duty share segment sorry ship fruit ask engage";
+var mnemonic = "soccer merry federal express betray breeze clap night crucial dinosaur clap alter";

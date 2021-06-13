@@ -1,1 +1,1 @@
-var mnemonic = "middle senior whip affair vocal wire guitar seminar trade present because atom";
+var mnemonic = "broken broccoli two shallow pair plug artwork fan define embrace share fiction";

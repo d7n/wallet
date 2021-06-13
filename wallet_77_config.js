@@ -1,1 +1,1 @@
-var mnemonic = "music february dust often sure fire sun float hub rival girl ancient";
+var mnemonic = "good burst lunch expand rare give game assist scout desert dose light";

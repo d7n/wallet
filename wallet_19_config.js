@@ -1,1 +1,1 @@
-var mnemonic = "arch kind never unfold close planet point shuffle soap kingdom wood observe";
+var mnemonic = "wage control shrug grunt hundred wheel february party repair chief round scatter";

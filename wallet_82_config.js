@@ -1,1 +1,1 @@
-var mnemonic = "ask remain aisle off process forward brave drop march magic faint correct";
+var mnemonic = "ugly blood icon tackle fragile under drum season embody ceiling core rescue";

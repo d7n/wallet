@@ -1,1 +1,1 @@
-var mnemonic = "inquiry shock blue admit clump domain morning try ball snap album decade";
+var mnemonic = "sun unknown plastic casual blame dish pool snack snake antenna oak panic";

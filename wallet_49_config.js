@@ -1,1 +1,1 @@
-var mnemonic = "wire drastic delay diagram steak require reduce such rescue purity cycle bulk";
+var mnemonic = "oil debate ask crumble topple envelope drill predict attack raven poem sting";

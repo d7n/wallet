@@ -1,1 +1,1 @@
-var mnemonic = "green episode accuse melody dignity mother alien document review member model recipe";
+var mnemonic = "mammal engine busy video always gauge arm base stadium spy option saddle";

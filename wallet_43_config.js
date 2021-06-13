@@ -1,1 +1,1 @@
-var mnemonic = "rail silver sausage common divert example follow obtain law auction nasty tattoo";
+var mnemonic = "enemy width patient cheap bright cheese lawn suggest riot junk outdoor magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow dust swarm remember turn divert warfare emotion scrub wine unknown blouse";
+var mnemonic = "give alpha faculty floor world hello error drive stomach kitchen mushroom water";

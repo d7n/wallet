@@ -1,1 +1,1 @@
-var mnemonic = "chimney river sound trick air surge pluck height split clump brass dish";
+var mnemonic = "floor reopen neither rabbit toss collect ask river describe child because thunder";

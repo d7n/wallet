@@ -1,1 +1,1 @@
-var mnemonic = "great crop effort nurse bar vocal poverty annual dumb play volcano typical";
+var mnemonic = "false trap favorite duck gauge live view gift gauge heavy garage sport";

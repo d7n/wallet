@@ -1,1 +1,1 @@
-var mnemonic = "nerve rate potato harsh shift teach text long reject goat between double";
+var mnemonic = "retreat glass calm theory deliver pair rather crush student pulp burst ignore";

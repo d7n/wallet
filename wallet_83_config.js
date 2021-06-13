@@ -1,1 +1,1 @@
-var mnemonic = "quantum rookie lock mind toward capable evolve outdoor soda mobile rifle clog";
+var mnemonic = "waste consider minimum kangaroo history spider sweet kid foot feel wasp blast";

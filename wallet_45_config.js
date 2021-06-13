@@ -1,1 +1,1 @@
-var mnemonic = "resist door blue success finger impose panda unaware hungry flush since vehicle";
+var mnemonic = "endorse catalog siren beach morning palace wire comic midnight deny turtle wife";

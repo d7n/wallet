@@ -1,1 +1,1 @@
-var mnemonic = "bullet wear joke cute resist unlock must game forward theory scale spice";
+var mnemonic = "casual squirrel business announce public march skill keep hold bright gaze age";

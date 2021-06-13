@@ -1,1 +1,1 @@
-var mnemonic = "below unfold usage purpose render smart head erosion concert width useful album";
+var mnemonic = "garage ivory obscure worry flush donkey fuel cigar unusual modify reduce proof";

@@ -1,1 +1,1 @@
-var mnemonic = "hint camera impose useless clutch pigeon fortune help reward torch palm ripple";
+var mnemonic = "alone harbor scatter phrase try biology drill tortoise found reduce force test";

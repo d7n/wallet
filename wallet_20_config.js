@@ -1,1 +1,1 @@
-var mnemonic = "test sheriff top onion sick smooth monkey jaguar cattle material angry gas";
+var mnemonic = "oak claim garage seven edit visual loop puzzle curious defy genre dune";

@@ -1,1 +1,1 @@
-var mnemonic = "section quantum usage much ritual puzzle poem develop spy sudden size mushroom";
+var mnemonic = "hollow swear crumble rubber elbow middle dynamic record bless episode hill slender";

@@ -1,1 +1,1 @@
-var mnemonic = "thought fire follow angry print couch myself upset room excuse artist sentence";
+var mnemonic = "seminar tired mushroom artefact soft humble pudding liberty best truly sound dizzy";

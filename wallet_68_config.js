@@ -1,1 +1,1 @@
-var mnemonic = "logic mutual february path render habit hawk foil fitness neutral learn device";
+var mnemonic = "wet coral unable diesel battle mind garbage wool toast essay dad poverty";

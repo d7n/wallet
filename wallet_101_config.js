@@ -1,1 +1,1 @@
-var mnemonic = "situate useless orchard category prize seed august success lens tonight million perfect";
+var mnemonic = "bundle giraffe suggest real print impact tornado awesome retreat two unable drift";

@@ -1,1 +1,1 @@
-var mnemonic = "duck arrow merit coast toast loud kangaroo bubble motion usage hockey joy";
+var mnemonic = "eternal stick eager mom glad toss purpose coral culture claw town supreme";

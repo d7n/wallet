@@ -1,1 +1,1 @@
-var mnemonic = "fitness embody oppose voice suspect false polar glass another leave only hungry";
+var mnemonic = "word novel submit visa absent defy fat admit earth despair atom jacket";

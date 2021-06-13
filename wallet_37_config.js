@@ -1,1 +1,1 @@
-var mnemonic = "tank utility shed moment crucial next shy print asthma width shock recall";
+var mnemonic = "nest manage genius industry wisdom carry slush true frequent inflict eight insect";

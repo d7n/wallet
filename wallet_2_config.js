@@ -1,1 +1,1 @@
-var mnemonic = "game screen immune media hungry core gift struggle pond genre blast honey";
+var mnemonic = "audit cherry eagle shove field eight flag raise target pyramid before future";

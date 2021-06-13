@@ -1,1 +1,1 @@
-var mnemonic = "swallow loyal convince erode kit shop spatial excess erase solve movie brick";
+var mnemonic = "number senior shed art hold endless sport idle interest print public talent";

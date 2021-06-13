@@ -1,1 +1,1 @@
-var mnemonic = "elite correct number brown pizza bicycle empower luggage bleak ritual million place";
+var mnemonic = "dizzy thrive scatter wise juice indoor skate unknown diagram simple friend cake";

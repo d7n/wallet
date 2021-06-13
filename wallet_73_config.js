@@ -1,1 +1,1 @@
-var mnemonic = "olympic couple steel believe surprise gorilla demand joy sponsor dirt detail because";
+var mnemonic = "clean float reward hope wing minimum sugar shallow treat system core pledge";

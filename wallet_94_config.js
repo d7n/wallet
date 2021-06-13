@@ -1,1 +1,1 @@
-var mnemonic = "key detail taxi glad legend boss throw neutral suffer visa cup fatal";
+var mnemonic = "other jealous inside worth embody animal conduct snack tomato rough beef outdoor";

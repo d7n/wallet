@@ -1,1 +1,1 @@
-var mnemonic = "alien fiction link left boy season cart village mesh trap hidden hour";
+var mnemonic = "disagree mimic crunch destroy false release gaze peace example they pulp term";

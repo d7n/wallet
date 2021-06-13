@@ -1,1 +1,1 @@
-var mnemonic = "valve initial arrest notable approve planet angry polar cluster gossip wreck acoustic";
+var mnemonic = "gesture rough wrist protect gaze slim panic awkward stomach author object junk";

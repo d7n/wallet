@@ -1,1 +1,1 @@
-var mnemonic = "evoke run anger option section glance surprise metal hero member whisper media";
+var mnemonic = "yard airport brave fetch weird whisper aunt sad skull beef thank planet";

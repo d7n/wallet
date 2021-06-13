@@ -1,1 +1,1 @@
-var mnemonic = "feed govern dial mom catch north gather frost yellow cluster engage hamster";
+var mnemonic = "captain oppose unaware shy cargo rather coin jungle torch spirit home sad";

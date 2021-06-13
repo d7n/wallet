@@ -1,1 +1,1 @@
-var mnemonic = "title tumble ivory extra random pact cave claw shoe lift chimney twenty";
+var mnemonic = "dose tape lock shine web fat range claim attitude plug odor absent";

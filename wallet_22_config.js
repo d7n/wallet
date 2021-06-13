@@ -1,1 +1,1 @@
-var mnemonic = "sentence panther original betray park member attract hair vessel wrap spread endless";
+var mnemonic = "wait calm matter silent donate purpose lesson kiss sustain hero near ozone";

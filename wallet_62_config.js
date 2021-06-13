@@ -1,1 +1,1 @@
-var mnemonic = "modify meat youth impact humor poet over poem awful virus symbol pelican";
+var mnemonic = "interest home topple salt upon enable defy hand educate height camp level";

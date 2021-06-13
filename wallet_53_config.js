@@ -1,1 +1,1 @@
-var mnemonic = "pioneer palace wing hazard dice bid weapon depend lake program imitate blush";
+var mnemonic = "urge link cricket shaft black dream stove garage safe uncover spell cricket";

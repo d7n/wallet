@@ -1,1 +1,1 @@
-var mnemonic = "edge scrub first behind thumb bench position scheme supreme laugh boost truck";
+var mnemonic = "skill coral news news title print note file deer fix body quick";

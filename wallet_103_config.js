@@ -1,1 +1,1 @@
-var mnemonic = "column industry lake first skill vacuum frozen layer forward over action cheese";
+var mnemonic = "egg isolate attract damp rookie recall apology wild forest peace debate return";

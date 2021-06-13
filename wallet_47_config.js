@@ -1,1 +1,1 @@
-var mnemonic = "fire whisper sick long order shallow moon talent immune initial cheap fetch";
+var mnemonic = "canoe argue innocent evoke public roof task inspire symptom magic aisle outer";

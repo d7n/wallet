@@ -1,1 +1,1 @@
-var mnemonic = "theme winner repeat wheel sail hungry loyal fringe film whisper dignity speak";
+var mnemonic = "push rebel sick cable unlock hotel jeans normal green timber regular abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle alcohol average dream piece loop exact equal hurt void legend home";
+var mnemonic = "wonder shove blur radio screen girl duck thing super spider library recall";

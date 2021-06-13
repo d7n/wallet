@@ -1,1 +1,1 @@
-var mnemonic = "grief fetch theme auction drop few bachelor reject wrestle vicious hold second";
+var mnemonic = "cabbage donor venture great fashion filter water over crumble mosquito robust emotion";

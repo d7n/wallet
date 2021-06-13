@@ -1,1 +1,1 @@
-var mnemonic = "okay entire canal hair blanket matrix grant little bag upset stomach language";
+var mnemonic = "depart where thank winner teach acquire welcome term opinion swamp elder suit";

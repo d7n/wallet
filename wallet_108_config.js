@@ -1,1 +1,1 @@
-var mnemonic = "defy nice hybrid charge invest brown green vote awesome recycle else science";
+var mnemonic = "gap feed prosper captain slush oppose hamster share reduce busy total when";

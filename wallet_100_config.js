@@ -1,1 +1,1 @@
-var mnemonic = "disagree glass start two artefact piano erase easy chaos elephant picnic stadium";
+var mnemonic = "lizard find dutch dial equip harvest reason rural method caution auto response";

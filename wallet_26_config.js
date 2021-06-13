@@ -1,1 +1,1 @@
-var mnemonic = "chase question life crop fiscal relax olympic timber exclude over stereo truck";
+var mnemonic = "raise silver cash exchange syrup load hero wild despair bottom cart nominee";
