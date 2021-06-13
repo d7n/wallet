@@ -1,1 +1,1 @@
-var mnemonic = "shield gravity rather cram grace weekend only unfair coach tomato smile vote";
+var mnemonic = "build obey wink school skate collect control height quick milk media main";

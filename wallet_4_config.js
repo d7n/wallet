@@ -1,1 +1,1 @@
-var mnemonic = "stereo tomorrow gate concert ball island rain crime chair cargo mechanic knee";
+var mnemonic = "snake put click blossom future they glow coin tag holiday twenty calm";

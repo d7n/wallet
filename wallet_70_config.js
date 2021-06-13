@@ -1,1 +1,1 @@
-var mnemonic = "defy smooth entry calm hero output black biology caution trophy able private";
+var mnemonic = "response tortoise finger artwork vintage uncover blood sort aisle logic pudding october";

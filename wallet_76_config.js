@@ -1,1 +1,1 @@
-var mnemonic = "around sing town shield asthma embark radio two rifle volume account property";
+var mnemonic = "dream strike drink sell cattle total tobacco science cute alien toast diagram";

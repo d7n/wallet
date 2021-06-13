@@ -1,1 +1,1 @@
-var mnemonic = "talent ethics sail infant chat aim satisfy winter person subway leave lift";
+var mnemonic = "govern enjoy lunar mechanic alter erase subject fossil unknown inhale bracket favorite";

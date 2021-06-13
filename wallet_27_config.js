@@ -1,1 +1,1 @@
-var mnemonic = "begin dinner weapon desk message little reason below earn hip skate welcome";
+var mnemonic = "piece health bonus whip tell nation suit credit grace control surround armor";

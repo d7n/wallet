@@ -1,1 +1,1 @@
-var mnemonic = "mansion raw daring release teach awkward sword secret person novel mother ginger";
+var mnemonic = "lemon grow moral bicycle spray pet lawn bind motion onion scout ship";

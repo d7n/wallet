@@ -1,1 +1,1 @@
-var mnemonic = "harsh pave truck found dynamic job pledge chalk hold mercy fog force";
+var mnemonic = "invite damage blind gravity sand need reflect ski visa pause final exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "smart drill layer void rude ritual link honey ramp gasp dutch fetch";
+var mnemonic = "link ride copper drama term huge pulse forum divide canvas jewel manage";

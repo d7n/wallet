@@ -1,1 +1,1 @@
-var mnemonic = "empower reform sheriff sport pulp supply allow mom pattern visit govern topple";
+var mnemonic = "number harbor squeeze ill van become satoshi merry mutual right feed fruit";

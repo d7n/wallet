@@ -1,1 +1,1 @@
-var mnemonic = "boring silent price muffin noise proud trend idle critic avocado minimum shallow";
+var mnemonic = "rescue step talent employ throw palace nurse farm inquiry strategy brown quiz";

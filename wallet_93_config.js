@@ -1,1 +1,1 @@
-var mnemonic = "boil evil shrug decrease open unique slush pact market arrow great sport";
+var mnemonic = "claim ginger forward foam next result much balcony barely volume mistake buddy";

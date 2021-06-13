@@ -1,1 +1,1 @@
-var mnemonic = "frog pole law legal weasel cycle ensure banana cheap fall nerve office";
+var mnemonic = "bundle symbol coconut aspect guide fiber glow review visual van project barely";

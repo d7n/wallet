@@ -1,1 +1,1 @@
-var mnemonic = "chase glance mail mutual match gossip beyond sadness shield gas bubble trigger";
+var mnemonic = "scan habit marine response people alter road talent version dinner win dial";

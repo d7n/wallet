@@ -1,1 +1,1 @@
-var mnemonic = "metal position patch coach knee pill puzzle age vacant behave west hire";
+var mnemonic = "genius furnace receive awesome cave attract pipe code ill lyrics season travel";

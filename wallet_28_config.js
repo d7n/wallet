@@ -1,1 +1,1 @@
-var mnemonic = "apart conduct drum cage fan excuse pair volume across milk almost cherry";
+var mnemonic = "govern broccoli disagree sunset exist wood member short forward juice pond hire";

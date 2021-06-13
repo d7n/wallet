@@ -1,1 +1,1 @@
-var mnemonic = "differ theme east coral chalk blouse dinosaur behave main produce solve hammer";
+var mnemonic = "bargain force pony agree unlock actual ceiling glue intact merge wine post";

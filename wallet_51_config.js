@@ -1,1 +1,1 @@
-var mnemonic = "spider donate inmate shield cricket rice stand gasp supreme beyond glory kit";
+var mnemonic = "crack divert derive puppy pond saddle luxury frown swap island dinner barrel";

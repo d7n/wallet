@@ -1,1 +1,1 @@
-var mnemonic = "during box industry note bone venture scrub prevent spray tiny write yellow";
+var mnemonic = "round harvest broccoli giraffe cat must faculty scare window fatal sea move";

@@ -1,1 +1,1 @@
-var mnemonic = "duck enroll second advice trim manual consider iron improve bicycle salad victory";
+var mnemonic = "grocery pyramid drift roof slogan ribbon dentist absent flag airport choice hard";

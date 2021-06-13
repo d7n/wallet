@@ -1,1 +1,1 @@
-var mnemonic = "switch melt lobster maximum verb system frame aim crisp image caught already";
+var mnemonic = "wood nasty foster hurt antenna dirt candy retire accident submit devote belt";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly alarm cousin mobile truck sunny viable neutral accident truth ritual ability";
+var mnemonic = "monkey faculty hotel escape buyer stable absorb shock strong captain stereo mail";

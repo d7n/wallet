@@ -1,1 +1,1 @@
-var mnemonic = "fan sure tomato oyster rude latin judge town palm step original truth";
+var mnemonic = "attack proof word start noise other spray crane liar hold cycle scan";

@@ -1,1 +1,1 @@
-var mnemonic = "net trash danger soft salute axis stage choose dish glimpse addict safe";
+var mnemonic = "hat pole balance dose decide put object ivory axis soldier session crush";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar mosquito island capital purchase swallow bulb whale monitor ghost picture twelve";
+var mnemonic = "submit sketch modify verify shoulder suffer royal reveal office miracle happy wife";

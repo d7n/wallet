@@ -1,1 +1,1 @@
-var mnemonic = "beyond ghost office inhale middle increase defy kid satisfy kick ancient illegal";
+var mnemonic = "observe measure display reward road sentence globe adjust harsh unhappy trumpet apart";

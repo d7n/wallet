@@ -1,1 +1,1 @@
-var mnemonic = "loop web rigid hidden emotion private rival attack ordinary theory empty future";
+var mnemonic = "palm vague tattoo circle angry much phrase crush silver pledge buffalo buzz";

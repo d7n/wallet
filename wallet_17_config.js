@@ -1,1 +1,1 @@
-var mnemonic = "great flush scrap thought wrong swarm bullet giraffe acid attack outdoor slot";
+var mnemonic = "tone until because enjoy box sentence story critic tuition monitor swim wheat";

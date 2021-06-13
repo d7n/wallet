@@ -1,1 +1,1 @@
-var mnemonic = "sense property lazy detail badge river stay pitch decrease box silver view";
+var mnemonic = "sting display nest ankle leader coast code absorb when option maple acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "silly window sort misery robust goddess negative foot december science mom news";
+var mnemonic = "side project easy orient nothing steak asthma paper vanish egg industry puppy";

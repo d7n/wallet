@@ -1,1 +1,1 @@
-var mnemonic = "pulse unaware acid predict coral rather magic educate trouble print fortune bread";
+var mnemonic = "bid help walk resource syrup sweet opinion ivory page ensure also height";

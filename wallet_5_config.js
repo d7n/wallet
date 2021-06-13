@@ -1,1 +1,1 @@
-var mnemonic = "slide edge talent inmate water chat mimic genius aisle syrup exile clump";
+var mnemonic = "team coin pilot flag wave cup length dawn ice forum artwork note";

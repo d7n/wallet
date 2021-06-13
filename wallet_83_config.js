@@ -1,1 +1,1 @@
-var mnemonic = "eagle book amused coconut pupil outer siren kite crazy month disorder quick";
+var mnemonic = "lend bread market meat grace creek cover gesture dirt anchor length walk";

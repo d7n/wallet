@@ -1,1 +1,1 @@
-var mnemonic = "novel poverty vibrant image drift brother release subway search market lobster infant";
+var mnemonic = "border struggle final such gym accuse develop elbow insect metal stove tragic";

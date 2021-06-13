@@ -1,1 +1,1 @@
-var mnemonic = "cloud angry digital rebel spot notice ice ball frozen zoo pilot major";
+var mnemonic = "fantasy food promote predict response honey trick brief volume ridge accuse piano";

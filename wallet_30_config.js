@@ -1,1 +1,1 @@
-var mnemonic = "van match genre reveal thank village asset initial print harbor prize view";
+var mnemonic = "grape salon tunnel junior alien emotion leg wide element elbow hip donor";

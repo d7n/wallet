@@ -1,1 +1,1 @@
-var mnemonic = "peace theory erode thank motor slow atom surface inch typical drastic thunder";
+var mnemonic = "width blush swarm eternal level rib ethics monster inherit organ lamp anger";

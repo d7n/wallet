@@ -1,1 +1,1 @@
-var mnemonic = "network weapon because steel tackle bar flame vague salmon local amount believe";
+var mnemonic = "glimpse forum barrel consider add middle inject grace video dwarf wool angle";

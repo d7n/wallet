@@ -1,1 +1,1 @@
-var mnemonic = "maximum pride reason link demise pitch wall hand super limit reward yellow";
+var mnemonic = "oven cereal cage hawk bounce top fit gate funny junk shoe wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "web paddle key garden sudden head become inject person suggest stamp ginger";
+var mnemonic = "offer help outside engage celery before fly antenna harsh tube beauty disorder";

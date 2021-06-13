@@ -1,1 +1,1 @@
-var mnemonic = "suit nephew defense secret chuckle wonder mind begin soul swallow depend brush";
+var mnemonic = "exit squirrel glass tongue nephew nasty liar pelican advance win front trade";

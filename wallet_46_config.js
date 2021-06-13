@@ -1,1 +1,1 @@
-var mnemonic = "plastic polar camera decrease fossil lumber treat used game gravity tornado movie";
+var mnemonic = "give echo brisk salt dice tuna guess desk emotion culture visa flip";

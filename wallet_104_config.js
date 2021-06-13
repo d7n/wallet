@@ -1,1 +1,1 @@
-var mnemonic = "chimney green soccer afraid average tenant palm present friend switch grain license";
+var mnemonic = "know glass carpet sunset crop mom bunker chair slice oppose cargo practice";

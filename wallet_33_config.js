@@ -1,1 +1,1 @@
-var mnemonic = "position topple husband weasel middle bitter elevator arrow hybrid choice photo vacant";
+var mnemonic = "smart sing choice school distance knife level stable bright length aspect slim";

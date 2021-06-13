@@ -1,1 +1,1 @@
-var mnemonic = "icon install game method cheap armor bunker pony buyer coast goose powder";
+var mnemonic = "blind dirt pulp auction alcohol curtain surface stomach horse example share athlete";

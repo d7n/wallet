@@ -1,1 +1,1 @@
-var mnemonic = "tool invest hospital allow small diagram glide virus tooth current sample fantasy";
+var mnemonic = "account velvet spice hamster injury frog grow chapter enact garment orange soup";

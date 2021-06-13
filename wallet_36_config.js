@@ -1,1 +1,1 @@
-var mnemonic = "inhale again regular damp asthma warrior custom pitch letter vendor token meat";
+var mnemonic = "shuffle fly vanish evidence spray lemon job genre true struggle enemy predict";

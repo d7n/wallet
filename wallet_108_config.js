@@ -1,1 +1,1 @@
-var mnemonic = "physical fossil cement chef exercise myth alley thing frost gauge solid poem";
+var mnemonic = "turn slam ill grape worth quick system shaft skate genuine prefer use";

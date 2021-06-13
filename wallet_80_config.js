@@ -1,1 +1,1 @@
-var mnemonic = "other hollow actress zero lawn demise unfold width stereo congress time raw";
+var mnemonic = "wide between chunk episode basic bag problem rug demand deliver rough firm";

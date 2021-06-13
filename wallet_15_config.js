@@ -1,1 +1,1 @@
-var mnemonic = "monitor talk tomorrow float bring cheese judge harbor person great snap affair";
+var mnemonic = "demise obey enroll stage scrap crater believe museum build spin like bring";

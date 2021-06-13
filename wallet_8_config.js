@@ -1,1 +1,1 @@
-var mnemonic = "material bicycle category broccoli autumn offer filter brick fame erupt upon toe";
+var mnemonic = "wood craft proof soon impact snow minimum voyage exist dawn alcohol gaze";

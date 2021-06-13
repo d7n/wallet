@@ -1,1 +1,1 @@
-var mnemonic = "cable acid grid avocado antique news olympic true color eagle misery basic";
+var mnemonic = "city marble advice increase expect health weapon deny creek grid program pause";

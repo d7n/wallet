@@ -1,1 +1,1 @@
-var mnemonic = "clerk letter major universe wash wife front guard truck poet grocery regular";
+var mnemonic = "flame laugh true leave grocery top truly urge month cereal sick empty";

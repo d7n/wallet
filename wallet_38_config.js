@@ -1,1 +1,1 @@
-var mnemonic = "bullet rebel agree jewel rice aware appear snap pet neutral knife unaware";
+var mnemonic = "century side buyer enrich rude author lock arena recall clock dry neither";

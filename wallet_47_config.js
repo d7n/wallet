@@ -1,1 +1,1 @@
-var mnemonic = "enact rocket address medal business invest hub antenna coconut plug gasp dove";
+var mnemonic = "panic spice awake spare law member glad lucky cart spare record genuine";

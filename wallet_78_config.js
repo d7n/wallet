@@ -1,1 +1,1 @@
-var mnemonic = "void reveal lens breeze elegant mad firm guide cage horror result rhythm";
+var mnemonic = "subject peanut myth fall spring response smile person lock half try attitude";

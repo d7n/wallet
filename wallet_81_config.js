@@ -1,1 +1,1 @@
-var mnemonic = "calm nephew broom lab east dune egg below riot siege mistake across";
+var mnemonic = "middle crystal genuine suffer pass parent clay oak problem roof wire brand";

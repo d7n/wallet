@@ -1,1 +1,1 @@
-var mnemonic = "summer subject panther document diagram boy book endorse junior wire height enemy";
+var mnemonic = "blast style merry van walk foot lady swallow sand pool mistake dust";

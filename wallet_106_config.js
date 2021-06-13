@@ -1,1 +1,1 @@
-var mnemonic = "pass task lava field equip theory rescue strike gate moon inquiry tell";
+var mnemonic = "before siege pledge upgrade coffee inmate exclude peasant involve gift amount strategy";

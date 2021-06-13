@@ -1,1 +1,1 @@
-var mnemonic = "trouble boring bundle outer blood school arrive turtle because series come arm";
+var mnemonic = "sight day inherit bronze melt poem nice brush couple fly view flock";

@@ -1,1 +1,1 @@
-var mnemonic = "swing borrow web road broom excess refuse snack issue month visa math";
+var mnemonic = "axis acid jacket city kitten depend paddle also celery essence embody three";

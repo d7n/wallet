@@ -1,1 +1,1 @@
-var mnemonic = "stairs garage dolphin bridge verify already spread life prison list hour gun";
+var mnemonic = "essence dolphin run library design guide tell melt pitch chest found pass";

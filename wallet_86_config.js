@@ -1,1 +1,1 @@
-var mnemonic = "disagree rebel escape vanish truly will doctor habit usage defense state wing";
+var mnemonic = "spice pulse worry build nature remind marine hurdle earn gaze thunder task";

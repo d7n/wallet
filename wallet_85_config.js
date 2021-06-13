@@ -1,1 +1,1 @@
-var mnemonic = "list crash heavy inner cycle response foil title brief mobile lunar worth";
+var mnemonic = "possible pave engage wasp impact consider rebuild false unfold come culture crater";

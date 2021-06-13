@@ -1,1 +1,1 @@
-var mnemonic = "general slender curve damp spice spell organ maze mosquito swing cram reject";
+var mnemonic = "gloom become text write add resemble program title mobile goat jar apple";

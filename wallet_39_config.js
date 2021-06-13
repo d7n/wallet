@@ -1,1 +1,1 @@
-var mnemonic = "live south prevent scene extend foam deny allow draw method pet humble";
+var mnemonic = "toilet apple hungry verb render minor enact donor mouse clerk gesture unfair";

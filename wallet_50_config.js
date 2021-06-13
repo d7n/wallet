@@ -1,1 +1,1 @@
-var mnemonic = "train lumber else model humor raccoon talent camera grace pill erosion owner";
+var mnemonic = "joy supply decrease program assault lobster globe stable census prison thank crime";

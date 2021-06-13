@@ -1,1 +1,1 @@
-var mnemonic = "weather walnut brain flat sunny camera flock select increase asset captain either";
+var mnemonic = "measure circle hurdle gather patient live desk print pen dwarf amused outer";

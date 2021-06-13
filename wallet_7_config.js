@@ -1,1 +1,1 @@
-var mnemonic = "inspire senior vague live home artwork oyster grape say divide unveil local";
+var mnemonic = "antique mixture party isolate range enhance fragile liberty notice theory intact gun";

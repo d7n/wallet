@@ -1,1 +1,1 @@
-var mnemonic = "age crack bundle fit foster mother panda flame universe wheat chaos gun";
+var mnemonic = "label skin mystery defense close food undo tower target cabin ticket absent";

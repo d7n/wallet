@@ -1,1 +1,1 @@
-var mnemonic = "destroy divorce abuse struggle number interest latin left taste jeans priority ski";
+var mnemonic = "usual impact mosquito hero noble dove budget believe gentle desk broom become";

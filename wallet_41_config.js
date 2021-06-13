@@ -1,1 +1,1 @@
-var mnemonic = "program reopen clock trust frog fog cargo return mammal rent dice stomach";
+var mnemonic = "keen purpose wreck sea mention settle gold spare smart motor nuclear chief";

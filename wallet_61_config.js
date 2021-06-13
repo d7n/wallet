@@ -1,1 +1,1 @@
-var mnemonic = "subject evoke lens party monkey kite rack prepare nerve vast leisure wash";
+var mnemonic = "pizza despair wolf choice teach royal child truck noodle tonight coach museum";

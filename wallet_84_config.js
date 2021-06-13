@@ -1,1 +1,1 @@
-var mnemonic = "approve ostrich strong cave acoustic invite poem ahead ladder involve bulb ramp";
+var mnemonic = "admit arrow card road olive autumn junior nurse light asthma left cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory two myth material liberty west dance bid height weird chronic lesson";
+var mnemonic = "pelican naive stumble reveal auction must sample salon earth upon chapter draw";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram venture picnic guess eternal bargain giraffe unique supply infant what finish";
+var mnemonic = "method leopard story venue alcohol regular diagram tree token foster inflict hungry";

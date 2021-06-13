@@ -1,1 +1,1 @@
-var mnemonic = "sport ill need region wonder observe now pig donkey kiss sudden chase";
+var mnemonic = "differ tragic good faculty history depth sauce coast devote sport special zebra";

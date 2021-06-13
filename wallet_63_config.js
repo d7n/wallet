@@ -1,1 +1,1 @@
-var mnemonic = "cabin car critic flush also orange either pelican gesture sugar layer market";
+var mnemonic = "silk bless increase hawk hire dish owner concert winner outer slim grass";

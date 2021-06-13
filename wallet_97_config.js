@@ -1,1 +1,1 @@
-var mnemonic = "reason hockey movie cycle physical sunset unfair tag device flash lizard energy";
+var mnemonic = "wife aim license fine fever sleep oak gadget alien trash win throw";

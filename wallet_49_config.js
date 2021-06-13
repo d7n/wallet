@@ -1,1 +1,1 @@
-var mnemonic = "uncover actual alley bright toilet inform twin armed bonus quote win bleak";
+var mnemonic = "wrong evil auto comfort crack sunset swamp empower toss nominee divide explain";

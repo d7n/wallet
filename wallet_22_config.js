@@ -1,1 +1,1 @@
-var mnemonic = "resemble relief trigger sign erode comfort breeze regret ankle dove seven casino";
+var mnemonic = "friend mistake raw desert sleep appear saddle promote height unit empower visa";

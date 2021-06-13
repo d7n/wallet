@@ -1,1 +1,1 @@
-var mnemonic = "boring chuckle autumn renew envelope elephant early olive slow garden put strike";
+var mnemonic = "lava wire fluid danger early sister tilt bulk any flip soup cotton";

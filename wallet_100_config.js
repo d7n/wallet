@@ -1,1 +1,1 @@
-var mnemonic = "file double page throw basket regular chuckle sell black virus blast suit";
+var mnemonic = "someone process arm company embody hole detail smart exclude patch hold monitor";

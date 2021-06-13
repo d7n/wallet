@@ -1,1 +1,1 @@
-var mnemonic = "rather weasel announce sun alpha bonus video huge monster enter review sorry";
+var mnemonic = "work peanut switch pioneer give concert stage vintage tiny pilot physical couch";

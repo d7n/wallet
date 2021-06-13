@@ -1,1 +1,1 @@
-var mnemonic = "exercise acoustic build segment rack jar describe bitter scorpion extra patient artist";
+var mnemonic = "cement mystery attract candy few town public will frozen human village put";

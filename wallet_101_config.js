@@ -1,1 +1,1 @@
-var mnemonic = "chase crazy deal grit rate exile train other scatter grain chicken merit";
+var mnemonic = "salute deputy phone silver property valley correct easy pistol risk awful stove";

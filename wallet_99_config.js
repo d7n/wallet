@@ -1,1 +1,1 @@
-var mnemonic = "blossom tooth once evolve decrease oil ugly nominee bar frost lemon denial";
+var mnemonic = "siren govern place staff flee proud liquid fringe sauce attend account abstract";

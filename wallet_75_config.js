@@ -1,1 +1,1 @@
-var mnemonic = "improve aspect pumpkin gas extra slice asthma audit shadow liberty awkward long";
+var mnemonic = "avocado involve bicycle trick trade upper ketchup together vessel squirrel idea humor";
