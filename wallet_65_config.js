@@ -1,1 +1,1 @@
-var mnemonic = "shallow pluck ensure country lawsuit uncle aware trend hope pact provide sunset";
+var mnemonic = "mango language flower help subject eternal two case filter hair alley bachelor";

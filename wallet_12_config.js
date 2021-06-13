@@ -1,1 +1,1 @@
-var mnemonic = "medal soldier spoil artefact also feed primary similar cover squirrel wear sound";
+var mnemonic = "jump idle hockey knock verify ahead panel cycle bulb wave bulb panic";

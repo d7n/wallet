@@ -1,1 +1,1 @@
-var mnemonic = "knee brass toast omit salon ride tomorrow stadium toddler spring word private";
+var mnemonic = "found fossil emerge panda survey square skirt evil menu time zoo circle";

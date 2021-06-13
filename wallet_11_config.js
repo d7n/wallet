@@ -1,1 +1,1 @@
-var mnemonic = "rice mirror lounge foil bind drive seminar become interest middle magic uphold";
+var mnemonic = "forget cement absorb adult federal improve noodle banner gas drama camp member";

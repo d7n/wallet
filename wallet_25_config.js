@@ -1,1 +1,1 @@
-var mnemonic = "donor vessel scrub setup plug owner cat property boil radar science battle";
+var mnemonic = "rifle ocean roast judge sail abstract trip acoustic bulk crane mushroom job";

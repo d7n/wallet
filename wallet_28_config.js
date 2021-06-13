@@ -1,1 +1,1 @@
-var mnemonic = "emotion public picture garment talk fluid ridge animal brand wonder congress hat";
+var mnemonic = "artefact regular swap remain blue impulse educate parade road follow pass much";

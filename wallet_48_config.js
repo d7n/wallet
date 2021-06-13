@@ -1,1 +1,1 @@
-var mnemonic = "connect aim hint banana bronze certain ill wrong lion miss elevator nation";
+var mnemonic = "sadness scan pottery mass rich chronic voice inflict void steak canal speak";

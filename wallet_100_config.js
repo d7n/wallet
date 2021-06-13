@@ -1,1 +1,1 @@
-var mnemonic = "hawk bring sibling try universe path virtual curious measure awkward vacuum then";
+var mnemonic = "permit affair brown unaware vessel cement slot long spawn hold wing clutch";

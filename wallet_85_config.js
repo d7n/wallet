@@ -1,1 +1,1 @@
-var mnemonic = "gate bronze much noble total sad turn sunset clay toilet situate quick";
+var mnemonic = "tackle manage clown curtain butter industry senior parrot wolf degree artist renew";

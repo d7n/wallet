@@ -1,1 +1,1 @@
-var mnemonic = "harsh shoe nominee engine ensure caution mobile clown early area token valley";
+var mnemonic = "clock merry gas pumpkin uncle snack travel arch multiply essence like wet";

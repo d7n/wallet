@@ -1,1 +1,1 @@
-var mnemonic = "any toss high volcano bronze mail almost bounce easy code nest betray";
+var mnemonic = "below day behind system ripple tooth silent good science leave wild license";

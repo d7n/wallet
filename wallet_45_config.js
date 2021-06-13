@@ -1,1 +1,1 @@
-var mnemonic = "typical option note nothing depend system swamp vague guess cup scale copper";
+var mnemonic = "myself scatter above private orbit author banana produce question kid stuff screen";

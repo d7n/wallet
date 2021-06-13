@@ -1,1 +1,1 @@
-var mnemonic = "forum cook hill police despair creek funny adjust close wagon cross pulse";
+var mnemonic = "color february chicken roast blossom distance citizen odor code piano motor liberty";

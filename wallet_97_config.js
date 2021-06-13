@@ -1,1 +1,1 @@
-var mnemonic = "sell cancel between sense system breeze slender two story crime consider brain";
+var mnemonic = "beach large peanut cost physical dutch trash razor leg grunt catch cat";

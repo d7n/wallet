@@ -1,1 +1,1 @@
-var mnemonic = "earn border sunny give bulb ring pledge month skirt two miracle nut";
+var mnemonic = "wage gym machine buyer toward cruel arena novel already blossom always blossom";

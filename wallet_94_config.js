@@ -1,1 +1,1 @@
-var mnemonic = "favorite bench kick tool employ artwork pledge dial car various mother hope";
+var mnemonic = "day cook yard owner enroll brown violin genre more swarm voice captain";

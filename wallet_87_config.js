@@ -1,1 +1,1 @@
-var mnemonic = "wire eye chimney own program frown usage tuna proof then slush swamp";
+var mnemonic = "own differ crystal captain airport donkey total pupil present else normal achieve";

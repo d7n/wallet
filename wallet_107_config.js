@@ -1,1 +1,1 @@
-var mnemonic = "build group card palm finger hand digital bird circle focus fluid main";
+var mnemonic = "manual arch venue vendor maple scale service toddler lion source fury bacon";

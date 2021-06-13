@@ -1,1 +1,1 @@
-var mnemonic = "section unhappy moral shiver spray animal drum sock frequent choose rifle monitor";
+var mnemonic = "promote fresh carbon coyote seat lazy food kangaroo tonight tool buzz electric";

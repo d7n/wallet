@@ -1,1 +1,1 @@
-var mnemonic = "pilot eager decade wing describe supreme gadget chronic economy attract bonus gossip";
+var mnemonic = "inject crash price merge coconut pulse term soccer cost flush leopard clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure receive spin success hunt coyote toast pudding forum fog try kiss";
+var mnemonic = "nasty wedding margin order brisk enemy deal speak oven romance parrot churn";

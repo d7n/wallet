@@ -1,1 +1,1 @@
-var mnemonic = "polar shop raccoon strategy victory tuna bulb shift cherry food crash fade";
+var mnemonic = "hospital cupboard achieve find mammal year kitchen salute giggle rescue sister cloth";

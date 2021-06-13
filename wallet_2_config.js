@@ -1,1 +1,1 @@
-var mnemonic = "honey grow vault cause inflict drop hover gown coast hand shaft fruit";
+var mnemonic = "mimic cat angle seek benefit elevator soldier subject metal speak foil test";

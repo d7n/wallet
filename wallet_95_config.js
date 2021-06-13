@@ -1,1 +1,1 @@
-var mnemonic = "spin swim east mango lesson problem toy tattoo wage clap submit industry";
+var mnemonic = "alien kid finger float soul loop supply problem network toddler estate letter";

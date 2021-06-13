@@ -1,1 +1,1 @@
-var mnemonic = "basket phrase hub help fee rail dance comfort tip glide logic enlist";
+var mnemonic = "ketchup update undo addict exclude resource melody gift modify latin mushroom food";

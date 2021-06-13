@@ -1,1 +1,1 @@
-var mnemonic = "author purchase attract borrow surround hobby fragile fashion mind evolve news heart";
+var mnemonic = "walk elevator unfold wedding label delay blue cargo final settle rain dumb";

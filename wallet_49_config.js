@@ -1,1 +1,1 @@
-var mnemonic = "memory embrace climb predict desk loop grain hawk license direct middle brown";
+var mnemonic = "decide market dust sign kangaroo ring bleak ostrich pattern hip alien comfort";

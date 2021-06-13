@@ -1,1 +1,1 @@
-var mnemonic = "secret scissors buzz pipe barely cargo actor junk where bachelor coach upper";
+var mnemonic = "foam barely dutch mad cactus cigar never leave useless voice salute circle";

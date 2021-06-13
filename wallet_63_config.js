@@ -1,1 +1,1 @@
-var mnemonic = "impact between swift title rug ladder peasant try awake blast fringe expand";
+var mnemonic = "humor always basic depend quit meadow city wheat faculty rookie daughter hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "spike spider actual nose palace hire awkward opinion pulp staff cancel disorder";
+var mnemonic = "present have blur creek monitor frozen velvet addict dog patrol decrease expand";

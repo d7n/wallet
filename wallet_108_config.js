@@ -1,1 +1,1 @@
-var mnemonic = "next chuckle help main initial equal adjust undo enlist tag cruel stage";
+var mnemonic = "leopard book when minor soccer refuse hundred helmet fee ostrich horror visual";

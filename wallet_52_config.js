@@ -1,1 +1,1 @@
-var mnemonic = "mention clog august adult exclude grief woman paddle base arctic stick smile";
+var mnemonic = "organ excite price shuffle engage inhale tail roast chuckle history slush silk";

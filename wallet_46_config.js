@@ -1,1 +1,1 @@
-var mnemonic = "card section depth duck much blast rail parade mountain crater major emotion";
+var mnemonic = "crucial saddle trend say veteran purpose donor delay crystal cube shoulder ticket";

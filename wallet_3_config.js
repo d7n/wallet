@@ -1,1 +1,1 @@
-var mnemonic = "above dice select deputy once tenant lyrics always rug label assault deposit";
+var mnemonic = "cruel auto toilet ankle simple ill promote orbit measure order melody rival";

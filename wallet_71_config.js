@@ -1,1 +1,1 @@
-var mnemonic = "select prefer scout exist opera lunch among rack fluid involve valve destroy";
+var mnemonic = "make daring stage lake gold wrist hollow idea pair brain carry afraid";

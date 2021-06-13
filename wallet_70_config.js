@@ -1,1 +1,1 @@
-var mnemonic = "balance fault rare bone online cliff provide move random weather pen cream";
+var mnemonic = "kitchen choice cat scorpion fog online morning select guess minimum faith mansion";

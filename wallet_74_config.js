@@ -1,1 +1,1 @@
-var mnemonic = "car frame safe grit mansion tail nest delay syrup bundle follow mammal";
+var mnemonic = "scene talent butter mule talent verify library immense wheel angle crop horse";

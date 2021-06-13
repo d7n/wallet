@@ -1,1 +1,1 @@
-var mnemonic = "grunt patch repeat nasty science link cake parade cricket drum planet wonder";
+var mnemonic = "actor cross reward fruit try boring tomorrow pipe produce secret ugly parade";

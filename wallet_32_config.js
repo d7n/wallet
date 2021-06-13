@@ -1,1 +1,1 @@
-var mnemonic = "print clerk foam surge country wait ready mind movie tennis ordinary gasp";
+var mnemonic = "lesson core galaxy shadow decorate inform panel student innocent satoshi artwork victory";

@@ -1,1 +1,1 @@
-var mnemonic = "clay barely soldier episode behind cost wood gown public learn power embark";
+var mnemonic = "mom famous enough shoe frost able maid silent nominee long donor gun";

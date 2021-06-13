@@ -1,1 +1,1 @@
-var mnemonic = "vapor sphere stem ivory destroy bleak bleak salad lawn nephew buyer blouse";
+var mnemonic = "chunk ketchup call volume swim puzzle dynamic mutual clean panther lock arrive";

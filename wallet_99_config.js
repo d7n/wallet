@@ -1,1 +1,1 @@
-var mnemonic = "lend credit swim jeans avoid fame axis agree select bridge mom slim";
+var mnemonic = "choice tunnel bleak powder derive whale spare ensure conduct three cherry burst";

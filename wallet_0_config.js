@@ -1,1 +1,1 @@
-var mnemonic = "flag hospital anger combine wheat flavor aerobic mountain install cook giggle crane";
+var mnemonic = "trash west draft emotion ring evolve impact drastic scan label nest awkward";

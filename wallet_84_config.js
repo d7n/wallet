@@ -1,1 +1,1 @@
-var mnemonic = "game style illegal cereal harsh marriage noodle drift poem angle control laptop";
+var mnemonic = "hammer pulp elbow nice mouse art equal snack vibrant identify genre column";

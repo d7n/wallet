@@ -1,1 +1,1 @@
-var mnemonic = "violin cactus update motor draft verify exclude small any senior green puppy";
+var mnemonic = "ghost analyst social check slush later wrist muffin card bike solution such";

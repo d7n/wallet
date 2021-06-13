@@ -1,1 +1,1 @@
-var mnemonic = "kick almost escape entry assist leg govern domain nephew approve stereo method";
+var mnemonic = "same fall author bullet game right they employ empower chalk inmate appear";

@@ -1,1 +1,1 @@
-var mnemonic = "describe current promote loop spice border resemble vicious zone volume avocado empower";
+var mnemonic = "bronze clay chair report gentle scene worth garbage fiber win wool student";

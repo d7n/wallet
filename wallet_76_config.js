@@ -1,1 +1,1 @@
-var mnemonic = "tobacco siren unknown early water enact fan before color alarm card dizzy";
+var mnemonic = "source ticket pencil pen evolve rigid network ethics pattern rule border join";

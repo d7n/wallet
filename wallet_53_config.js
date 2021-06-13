@@ -1,1 +1,1 @@
-var mnemonic = "engine daughter machine grape submit cliff wife vital spoil drastic rubber border";
+var mnemonic = "obtain way veteran detect spray medal senior trend benefit protect atom tooth";

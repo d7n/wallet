@@ -1,1 +1,1 @@
-var mnemonic = "arm kind potato ten clutch number pitch virtual diesel raw diary pledge";
+var mnemonic = "nature around elder artist neutral cherry tiger kiwi wire taxi renew win";

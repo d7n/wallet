@@ -1,1 +1,1 @@
-var mnemonic = "zone tone elite fiscal convince tag crawl grocery candy add much page";
+var mnemonic = "point visa belt inform bronze south dilemma rose view problem immense risk";

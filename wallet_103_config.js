@@ -1,1 +1,1 @@
-var mnemonic = "away song leaf sock life promote demise lecture sphere discover scout smooth";
+var mnemonic = "cook sock kind stem sock gauge must company orient plate frozen just";

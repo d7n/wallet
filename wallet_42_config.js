@@ -1,1 +1,1 @@
-var mnemonic = "doctor diamond lemon record pink wet theory park solar bread ranch ketchup";
+var mnemonic = "gauge amount uncover rain spider crash wrong rifle unlock pipe spare banana";

@@ -1,1 +1,1 @@
-var mnemonic = "cute trade door motion isolate you glove relax giant kite blood interest";
+var mnemonic = "decide sample artist fun worth leaf eternal seek impact work diet clarify";

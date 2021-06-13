@@ -1,1 +1,1 @@
-var mnemonic = "width clean echo opinion indicate endless celery milk arrow use organ volume";
+var mnemonic = "visa regret broom crew decrease layer element genre uphold battle abuse sauce";

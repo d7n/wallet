@@ -1,1 +1,1 @@
-var mnemonic = "drama fire skin forest drum ramp trick inside gym celery canoe logic";
+var mnemonic = "dune prefer mind jaguar leg brief slab lumber lock silent inflict brown";

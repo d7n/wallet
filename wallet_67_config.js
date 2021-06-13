@@ -1,1 +1,1 @@
-var mnemonic = "equal axis way immense sword help pill spider wheat curtain siren athlete";
+var mnemonic = "employ valve fade dilemma wet decade head aerobic number unique ancient film";

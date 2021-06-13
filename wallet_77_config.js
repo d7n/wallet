@@ -1,1 +1,1 @@
-var mnemonic = "dance brush gaze palm trophy again company staff injury belt april snow";
+var mnemonic = "prison recipe lava rabbit clump foot large teach horn gun brother truth";

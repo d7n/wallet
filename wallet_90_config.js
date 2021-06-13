@@ -1,1 +1,1 @@
-var mnemonic = "cliff buzz artefact twenty jungle cloth whisper huge deal library club stumble";
+var mnemonic = "horror fine ability provide match electric yellow craft supreme subway wet million";

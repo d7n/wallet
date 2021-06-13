@@ -1,1 +1,1 @@
-var mnemonic = "base among must town cabbage warfare embrace clock all another citizen slow";
+var mnemonic = "twist come female today silver borrow gather cat mask vacuum useful design";

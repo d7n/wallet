@@ -1,1 +1,1 @@
-var mnemonic = "afraid skull develop olympic caution decorate erosion toast dish pink wild fox";
+var mnemonic = "slide amazing correct clean dawn elbow warfare assist observe wasp solve lemon";

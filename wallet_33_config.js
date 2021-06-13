@@ -1,1 +1,1 @@
-var mnemonic = "brain lake company cup cash solution poverty grape goose you success urban";
+var mnemonic = "stick raw urge tone alley spread pottery pilot village grant mouse scan";

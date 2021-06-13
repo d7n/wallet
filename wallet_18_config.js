@@ -1,1 +1,1 @@
-var mnemonic = "stumble balance fetch sport blur chapter usual swear convince happy image salute";
+var mnemonic = "crash apple order power staff zone boy visual machine glimpse system twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin ugly layer slush blast course matter spider hole excite gallery genre";
+var mnemonic = "artefact scale option attend federal ordinary sight abuse hair quality pair best";

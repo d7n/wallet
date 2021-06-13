@@ -1,1 +1,1 @@
-var mnemonic = "verb hope chalk bag slim trick cargo lumber hospital media offer borrow";
+var mnemonic = "cause muscle feel figure mushroom meadow hat index tattoo clay cabin shop";

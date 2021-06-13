@@ -1,1 +1,1 @@
-var mnemonic = "evolve hero dirt venue surround actor easy bomb south ring toward general";
+var mnemonic = "blind group toast source ceiling chef wink solid phrase garden oval square";

@@ -1,1 +1,1 @@
-var mnemonic = "dog prize nasty divorce hint zoo zoo brisk surround carbon poet genre";
+var mnemonic = "sense steak replace stock fury judge gold motor dutch plug kingdom miss";

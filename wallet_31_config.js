@@ -1,1 +1,1 @@
-var mnemonic = "ask supreme liquid veteran snack seek angle blossom text caution mother close";
+var mnemonic = "file buddy jewel snap duck chapter rent dirt dance seven scale shock";

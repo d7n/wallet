@@ -1,1 +1,1 @@
-var mnemonic = "inflict team purchase hunt resist ostrich tumble arm game question scan morning";
+var mnemonic = "evidence pizza sword nasty inmate will unfold cousin crouch glad utility typical";

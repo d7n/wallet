@@ -1,1 +1,1 @@
-var mnemonic = "shy super eye loan call magnet quantum tired blast artefact teach magnet";
+var mnemonic = "digital girl call hobby screen poverty bring desk glare robust sing strike";

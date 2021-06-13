@@ -1,1 +1,1 @@
-var mnemonic = "notable more steel opinion device farm rule enroll inside cotton destroy inside";
+var mnemonic = "smart uphold error oxygen snake welcome erase try unit tell thumb change";

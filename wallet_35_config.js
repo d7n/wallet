@@ -1,1 +1,1 @@
-var mnemonic = "river advice mango black front ocean layer ivory rebel scout plastic ketchup";
+var mnemonic = "open foil artwork deal equip street brick always kitten budget cook modify";

@@ -1,1 +1,1 @@
-var mnemonic = "duty dutch unusual once trap reopen snack result help deer pear dry";
+var mnemonic = "step play resource write return escape prison enforce lucky gaze salute rapid";

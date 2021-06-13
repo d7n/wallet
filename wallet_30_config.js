@@ -1,1 +1,1 @@
-var mnemonic = "blue fresh kingdom slight alcohol pilot rhythm bulk end pulse ranch symbol";
+var mnemonic = "involve section relax park relief goat easy zebra supply priority oil exile";

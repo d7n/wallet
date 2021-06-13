@@ -1,1 +1,1 @@
-var mnemonic = "rough inch cable hidden project palace page fish hand long pond walnut";
+var mnemonic = "tell move awful claw hero cannon fresh morning immense pupil treat cave";

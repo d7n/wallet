@@ -1,1 +1,1 @@
-var mnemonic = "popular dirt green home earth mean train elephant feature supply company artwork";
+var mnemonic = "exact wine add undo mention shallow essay unfair track test fine text";

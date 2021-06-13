@@ -1,1 +1,1 @@
-var mnemonic = "copy royal increase bird coil prize winter hip smoke furnace trap caught";
+var mnemonic = "team yard amount faint under rough garage focus poem spider boy range";

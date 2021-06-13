@@ -1,1 +1,1 @@
-var mnemonic = "hen inmate dirt pitch drama fade shoot screen pigeon water liar join";
+var mnemonic = "across sign evolve kiwi nut safe insane income infant prison olympic dice";

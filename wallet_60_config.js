@@ -1,1 +1,1 @@
-var mnemonic = "maze noble pool odor recipe bachelor hundred wood comfort wrestle immense limit";
+var mnemonic = "host salon armor whisper defense junior oxygen shallow gossip medal awake spot";

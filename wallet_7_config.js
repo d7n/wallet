@@ -1,1 +1,1 @@
-var mnemonic = "pudding detail flower impose phone tourist van acquire crush web champion motor";
+var mnemonic = "salt popular suggest train delay place castle sound limb tongue exact similar";

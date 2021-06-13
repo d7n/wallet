@@ -1,1 +1,1 @@
-var mnemonic = "day mind card point lunch beauty eagle ankle hurdle rice talent brush";
+var mnemonic = "outdoor jacket carry unaware novel audit pair mask valve tone evil fit";

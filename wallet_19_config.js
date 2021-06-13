@@ -1,1 +1,1 @@
-var mnemonic = "hat arch fire major avoid style aerobic frozen exotic patch cram wave";
+var mnemonic = "sing blossom couch spawn tent believe broccoli thunder similar globe address omit";

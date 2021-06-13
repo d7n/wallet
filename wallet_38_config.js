@@ -1,1 +1,1 @@
-var mnemonic = "follow kangaroo neck under blast eternal maple tongue cage loud play planet";
+var mnemonic = "latin ride elder blanket urge phrase book payment rich layer buddy trophy";
