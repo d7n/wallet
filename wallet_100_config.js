@@ -1,1 +1,1 @@
-var mnemonic = "abandon mimic way twist month naive win hard little picture disease vital";
+var mnemonic = "foam swift dry arm order list spider kiwi gaze notice monitor security";

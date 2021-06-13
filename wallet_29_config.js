@@ -1,1 +1,1 @@
-var mnemonic = "danger salute side breeze lawsuit police damp crumble require cradle village warfare";
+var mnemonic = "swap hat fury kite vague bench veteran join edge bread sorry steak";

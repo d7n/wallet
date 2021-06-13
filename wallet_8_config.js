@@ -1,1 +1,1 @@
-var mnemonic = "outside decade length grant scissors symbol ridge buddy pyramid stumble riot asset";
+var mnemonic = "fury vehicle grow water icon atom loud situate upset only rule brief";

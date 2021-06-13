@@ -1,1 +1,1 @@
-var mnemonic = "cart raven never mountain water glide fat edge divide fit provide universe";
+var mnemonic = "celery room puzzle black juice answer argue impose grid belt pony say";

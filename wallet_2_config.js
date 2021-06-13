@@ -1,1 +1,1 @@
-var mnemonic = "trouble wine reunion jump ball know cliff enlist husband symbol trouble black";
+var mnemonic = "cart wood minor area life year budget carry castle breeze view conduct";

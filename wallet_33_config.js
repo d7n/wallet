@@ -1,1 +1,1 @@
-var mnemonic = "december fence smoke used fold vessel celery dash bench fiscal warm hello";
+var mnemonic = "boss during find father clump pole spice purchase now plunge shift kind";

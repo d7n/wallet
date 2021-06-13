@@ -1,1 +1,1 @@
-var mnemonic = "control vital push hurry tissue wife emerge movie misery obscure jar clay";
+var mnemonic = "abandon climb decide allow crystal check conduct snake robust olympic wish reform";

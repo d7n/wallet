@@ -1,1 +1,1 @@
-var mnemonic = "nominee path satisfy fly result february mandate admit notice party mystery valve";
+var mnemonic = "business cactus vault flag purpose scan vacant trust win taxi catalog occur";

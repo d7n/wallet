@@ -1,1 +1,1 @@
-var mnemonic = "lend frog source cake vessel emerge silly fame party enable excite win";
+var mnemonic = "castle tunnel what strong hood round maximum enroll roast pear race give";

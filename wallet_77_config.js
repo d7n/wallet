@@ -1,1 +1,1 @@
-var mnemonic = "height pilot alarm leisure ankle mail enroll shrimp absorb plate eagle near";
+var mnemonic = "aim exercise cherry eye shallow picnic brand draft merry clever spare cash";

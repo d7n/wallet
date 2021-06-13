@@ -1,1 +1,1 @@
-var mnemonic = "pipe upon wolf dentist salute royal brass quiz toss reject frost metal";
+var mnemonic = "athlete tiny meadow can word property purchase winter skin orange vibrant marble";

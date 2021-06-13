@@ -1,1 +1,1 @@
-var mnemonic = "tone mad amazing magic injury female color shuffle survey notice burden aunt";
+var mnemonic = "slow snack dismiss tank citizen autumn gap drive vocal stone sure steak";

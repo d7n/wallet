@@ -1,1 +1,1 @@
-var mnemonic = "issue solution glimpse helmet badge wine among wasp convince fire old lizard";
+var mnemonic = "jelly fashion return naive crisp kick depart citizen correct spoon scissors machine";

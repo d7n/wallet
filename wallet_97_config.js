@@ -1,1 +1,1 @@
-var mnemonic = "mutual budget beach wing genius kidney stock imitate solid hire win gap";
+var mnemonic = "hole song piece kidney super lend fantasy cherry right pause frame liberty";

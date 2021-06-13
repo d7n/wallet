@@ -1,1 +1,1 @@
-var mnemonic = "burger van orphan napkin idea sheriff short assume leopard label unusual suggest";
+var mnemonic = "lift govern liquid rival old own color couple theory venue token modify";

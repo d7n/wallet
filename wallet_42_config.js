@@ -1,1 +1,1 @@
-var mnemonic = "shop believe lemon tired parent deal accident pause august image fine stand";
+var mnemonic = "picnic consider rebel loan profit ring element spread cost tuition dial virtual";

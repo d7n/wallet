@@ -1,1 +1,1 @@
-var mnemonic = "hope element village grant box patient woman case number champion clarify sketch";
+var mnemonic = "able exhibit eager various oven frog pencil curtain verify elite pulp obvious";

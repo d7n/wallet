@@ -1,1 +1,1 @@
-var mnemonic = "era foam tackle duty inflict winter critic invest diary retreat test tomorrow";
+var mnemonic = "aware poverty mad deliver echo elbow produce enemy ritual nice moral rich";

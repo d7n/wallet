@@ -1,1 +1,1 @@
-var mnemonic = "version spatial enable husband region habit sail december among life scheme double";
+var mnemonic = "economy table narrow clock regret beef zone travel senior unusual theme fossil";

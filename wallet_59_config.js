@@ -1,1 +1,1 @@
-var mnemonic = "absorb another spy donor primary frost celery argue perfect rail aunt expose";
+var mnemonic = "eye glare already casino tennis there phone sphere toilet craft economy base";

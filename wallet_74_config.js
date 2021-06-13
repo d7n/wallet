@@ -1,1 +1,1 @@
-var mnemonic = "play artefact eagle scare lottery produce iron dose cargo grape rug consider";
+var mnemonic = "travel grunt obvious dwarf blast cannon extend stuff hope walk service warfare";

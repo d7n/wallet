@@ -1,1 +1,1 @@
-var mnemonic = "insane leave increase luxury mammal panda pottery almost topple major another bulk";
+var mnemonic = "flame fossil fashion poverty infant canyon pretty wrist tank jaguar acoustic salmon";

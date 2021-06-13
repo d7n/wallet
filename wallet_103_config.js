@@ -1,1 +1,1 @@
-var mnemonic = "dirt hub switch snow galaxy reduce century steak blade deny eagle surprise";
+var mnemonic = "spell galaxy thought grit table second farm alien matter mandate feel open";

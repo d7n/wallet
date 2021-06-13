@@ -1,1 +1,1 @@
-var mnemonic = "clutch alley appear error sock away story shy gather december rigid rifle";
+var mnemonic = "thrive suit trend adjust silk emotion quality resist lake assist toddler uniform";

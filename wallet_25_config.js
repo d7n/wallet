@@ -1,1 +1,1 @@
-var mnemonic = "eager minute curtain pair random royal belt envelope catalog taxi copper bounce";
+var mnemonic = "verify tip gown strong speak pilot cheese balcony lunch ride mass unlock";

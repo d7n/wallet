@@ -1,1 +1,1 @@
-var mnemonic = "letter vacant over club clump hat meat veteran prepare ivory sudden until";
+var mnemonic = "add strategy enroll any churn sudden slot purchase mention soap element width";

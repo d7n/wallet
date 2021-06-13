@@ -1,1 +1,1 @@
-var mnemonic = "hazard process gold once fatigue amateur live dinner warm feature harvest jump";
+var mnemonic = "session initial steak bottom erase word kind life huge ahead unveil west";

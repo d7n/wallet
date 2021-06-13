@@ -1,1 +1,1 @@
-var mnemonic = "example pulse can narrow shadow across absurd wonder flash return pioneer remain";
+var mnemonic = "car jelly razor thank today coast devote task outer buddy picture route";

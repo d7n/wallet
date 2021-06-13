@@ -1,1 +1,1 @@
-var mnemonic = "ripple clap age ankle brisk lecture dismiss domain stomach almost spy announce";
+var mnemonic = "lunar enable permit moral paper cactus enact doctor indoor hammer sphere member";

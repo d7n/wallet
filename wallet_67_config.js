@@ -1,1 +1,1 @@
-var mnemonic = "august traffic scout egg tackle stable talk test tray gentle forest tail";
+var mnemonic = "riot once debate climb kid arrange once party skirt cross thing glimpse";

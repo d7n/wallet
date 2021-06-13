@@ -1,1 +1,1 @@
-var mnemonic = "baby notable battle kitchen kingdom evidence gold deliver quality mechanic diagram today";
+var mnemonic = "weasel acoustic depart fine fog brown beach spatial avocado original baby wise";

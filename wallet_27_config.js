@@ -1,1 +1,1 @@
-var mnemonic = "miss access monitor frown custom remind equal jewel assault negative cable custom";
+var mnemonic = "exhaust leopard blanket source dash fox spot news achieve rival exclude brass";

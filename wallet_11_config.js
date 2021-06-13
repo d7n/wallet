@@ -1,1 +1,1 @@
-var mnemonic = "cave dial total north depth spend heart sleep parade crime kite enact";
+var mnemonic = "hello wink chunk minimum music lava nephew nature saddle question steel lemon";

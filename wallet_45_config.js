@@ -1,1 +1,1 @@
-var mnemonic = "shaft tornado symbol snake gown number cheap help time luggage joke father";
+var mnemonic = "toast outer absorb mutual tree reflect owner cupboard velvet power swim own";

@@ -1,1 +1,1 @@
-var mnemonic = "mom liquid sketch stable robust void piece diet april leopard accident wrong";
+var mnemonic = "myself length uncle transfer lawn stomach yard morning basic edge tomato long";

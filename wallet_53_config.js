@@ -1,1 +1,1 @@
-var mnemonic = "stereo armed twist kidney modify movie sauce another cargo street prepare winner";
+var mnemonic = "water pitch glide shed fold series tube pyramid head truly recall stand";

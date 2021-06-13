@@ -1,1 +1,1 @@
-var mnemonic = "swap regular state sustain cycle merry afraid trim action pony dog village";
+var mnemonic = "slush prevent vessel giggle excite rule have repeat exhibit cushion suggest vapor";

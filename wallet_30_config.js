@@ -1,1 +1,1 @@
-var mnemonic = "wagon lounge kidney client try empower other room cage left monkey general";
+var mnemonic = "hunt fun attract inquiry birth until observe guitar captain light away draw";

@@ -1,1 +1,1 @@
-var mnemonic = "alley win basket dinosaur hamster actual collect defense myself hurry apology enact";
+var mnemonic = "balance water tourist peace stone ribbon deposit toward play total cattle fat";

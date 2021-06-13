@@ -1,1 +1,1 @@
-var mnemonic = "sure cabbage march lyrics main pact space fatal vacant puzzle half sleep";
+var mnemonic = "holiday marine little boss now ozone hamster balance chicken decade area noise";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil click write pyramid dwarf dune office involve vessel poem medal sun";
+var mnemonic = "trim debate express mixed must census invite vessel wolf tonight tackle area";

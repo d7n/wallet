@@ -1,1 +1,1 @@
-var mnemonic = "ceiling absorb marble bundle nothing beyond grape limit country switch person brass";
+var mnemonic = "phone audit turkey economy harsh canoe throw hospital base negative rack relax";

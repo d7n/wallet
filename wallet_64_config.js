@@ -1,1 +1,1 @@
-var mnemonic = "bottom iron today actor squeeze picnic fix now across shrug crucial ski";
+var mnemonic = "misery horror floor slim can swallow air giggle annual fortune general educate";

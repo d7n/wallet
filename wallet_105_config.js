@@ -1,1 +1,1 @@
-var mnemonic = "clean dad renew mixed nation two vast multiply cricket language slow alter";
+var mnemonic = "slow patrol connect same evoke number track east mobile few cloud cotton";

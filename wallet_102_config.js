@@ -1,1 +1,1 @@
-var mnemonic = "ridge predict track reason nice culture chief identify glue split abuse virus";
+var mnemonic = "wine mother grass reduce bomb foot child survey exist flip shift dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal lunar dose fly edit snake invest little insect season stock moon";
+var mnemonic = "lion drama burger harvest organ mandate patient leopard squirrel buzz protect slush";

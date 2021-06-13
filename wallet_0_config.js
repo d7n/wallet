@@ -1,1 +1,1 @@
-var mnemonic = "stereo equal inquiry latin remain goat elbow neck feed parade conduct cruise";
+var mnemonic = "lens program crumble snow frost mixture hub figure clip reward retreat girl";

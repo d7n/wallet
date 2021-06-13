@@ -1,1 +1,1 @@
-var mnemonic = "curtain pumpkin rhythm select knock vintage until critic stuff corn two liar";
+var mnemonic = "toward hat neglect tenant green smart furnace evolve swap zone hockey find";

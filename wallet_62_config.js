@@ -1,1 +1,1 @@
-var mnemonic = "more boy useless casual wood fog junior sting call mansion vapor ugly";
+var mnemonic = "jacket kit fashion describe punch cattle inspire giraffe girl arrow asset buzz";

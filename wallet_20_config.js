@@ -1,1 +1,1 @@
-var mnemonic = "panel brain nest cotton movie fancy bar fresh skull jaguar lesson weekend";
+var mnemonic = "scale sister traffic patch candy grief craft fame summer dizzy present reunion";

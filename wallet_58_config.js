@@ -1,1 +1,1 @@
-var mnemonic = "mechanic orchard party tackle food party inform health dose faint lonely coin";
+var mnemonic = "device boost fit boat click beyond size recycle announce beef pattern chapter";

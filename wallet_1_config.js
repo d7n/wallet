@@ -1,1 +1,1 @@
-var mnemonic = "forward blue assault resist display game answer neutral march network repeat scare";
+var mnemonic = "attack recycle organ scatter connect comfort traffic black exclude mechanic soul situate";

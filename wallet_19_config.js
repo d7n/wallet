@@ -1,1 +1,1 @@
-var mnemonic = "snow gorilla plastic silk employ sight level sure knock pride deputy arena";
+var mnemonic = "wave luggage tape race believe stereo bulk laugh struggle dad wasp super";

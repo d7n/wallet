@@ -1,1 +1,1 @@
-var mnemonic = "repeat excite armor airport treat plastic certain lift illegal mean invest achieve";
+var mnemonic = "cupboard pulp razor liar rapid close fever cloth edit leader boil chalk";

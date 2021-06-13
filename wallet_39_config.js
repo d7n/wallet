@@ -1,1 +1,1 @@
-var mnemonic = "such cloud funny plug argue hill airport scheme snow spoon visual million";
+var mnemonic = "robust ranch kind name mansion habit donkey zebra suggest sort faculty negative";

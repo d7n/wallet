@@ -1,1 +1,1 @@
-var mnemonic = "tuna gold bike wrong hidden expose shuffle hip law solid trap name";
+var mnemonic = "shield destroy mobile nerve soap width jaguar build list oppose guess canoe";

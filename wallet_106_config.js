@@ -1,1 +1,1 @@
-var mnemonic = "coral attend furnace seek medal gasp team differ shrimp together lawn sunset";
+var mnemonic = "occur enough gift coil ceiling guitar globe clever zebra until wise prepare";

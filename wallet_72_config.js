@@ -1,1 +1,1 @@
-var mnemonic = "theory please search sadness era auto happy health donate mirror donor uphold";
+var mnemonic = "proud coach orbit oyster flat include pole someone orient pizza race sweet";

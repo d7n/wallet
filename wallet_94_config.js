@@ -1,1 +1,1 @@
-var mnemonic = "wear blouse ridge exercise pool brass rapid budget oval inspire during wrestle";
+var mnemonic = "mansion usual crouch syrup poem useless sadness response accuse syrup spoil voice";

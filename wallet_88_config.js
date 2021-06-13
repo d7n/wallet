@@ -1,1 +1,1 @@
-var mnemonic = "just entire badge junk have flag choose crane ticket sentence clean nerve";
+var mnemonic = "despair physical rabbit plastic fold iron bulb tackle morning skin cycle donor";

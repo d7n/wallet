@@ -1,1 +1,1 @@
-var mnemonic = "gaze suit memory pen capital concert either avocado short nest myself fitness";
+var mnemonic = "file myself assault outdoor laundry sound refuse room nation dumb fun conduct";

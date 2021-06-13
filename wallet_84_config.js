@@ -1,1 +1,1 @@
-var mnemonic = "repair eager gaze random frame category load sleep special lunch symptom toilet";
+var mnemonic = "already never brain permit usual blood plug magic waste foil group stairs";

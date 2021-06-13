@@ -1,1 +1,1 @@
-var mnemonic = "clump estate scissors dog auction culture before salon cave make mutual climb";
+var mnemonic = "october core air depth flock broom clown mouse climb remember junk obtain";

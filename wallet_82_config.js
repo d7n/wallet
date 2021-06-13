@@ -1,1 +1,1 @@
-var mnemonic = "coin ill dry inflict humble slush panel surge civil boat lecture quit";
+var mnemonic = "airport ketchup present wreck eager obey sense dream civil picture various cactus";

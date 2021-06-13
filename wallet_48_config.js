@@ -1,1 +1,1 @@
-var mnemonic = "tribe marriage fish oval obscure core clock food educate interest pattern echo";
+var mnemonic = "marine attract render more concert loyal width unaware flavor sketch evoke marine";

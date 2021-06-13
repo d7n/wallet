@@ -1,1 +1,1 @@
-var mnemonic = "bone media asthma label peasant endorse wreck seat cheap business dwarf uniform";
+var mnemonic = "inmate safe cargo worry fine edge close disorder umbrella utility impulse economy";

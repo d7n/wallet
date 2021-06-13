@@ -1,1 +1,1 @@
-var mnemonic = "defense bring label denial goose bitter capable kingdom excuse crime liar fog";
+var mnemonic = "cable coin awful expand primary opera tenant volume fan ill drastic club";

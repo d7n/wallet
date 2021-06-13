@@ -1,1 +1,1 @@
-var mnemonic = "blanket toilet sister certain illness unknown surge sun join brush velvet digital";
+var mnemonic = "retire tumble furnace deputy glue retreat decide tool song force crime mother";

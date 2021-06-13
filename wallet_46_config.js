@@ -1,1 +1,1 @@
-var mnemonic = "pet lens come dad fence gas shaft electric repeat remain expand anxiety";
+var mnemonic = "tell heart author traffic any gloom office obtain light glad maximum exercise";

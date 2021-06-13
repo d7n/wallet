@@ -1,1 +1,1 @@
-var mnemonic = "banana ranch flip okay online guilt magic because surprise voyage heavy also";
+var mnemonic = "reunion settle comic animal hurry spawn submit skate beef sheriff toe choice";

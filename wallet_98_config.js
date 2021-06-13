@@ -1,1 +1,1 @@
-var mnemonic = "boat swing edit thunder sail virus desk easily path melt invest segment";
+var mnemonic = "crouch cigar survey engine derive web shaft junior juice circle milk all";

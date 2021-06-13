@@ -1,1 +1,1 @@
-var mnemonic = "such snack maple lab motion damp leopard subway whip second expose frozen";
+var mnemonic = "lunch security prevent spike speed talk want swear grant claim casual wealth";

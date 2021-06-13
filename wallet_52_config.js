@@ -1,1 +1,1 @@
-var mnemonic = "pulse economy actress speed neglect panda tragic crunch patrol list high road";
+var mnemonic = "agent shadow discover couch brick segment industry nasty pretty van away curve";

@@ -1,1 +1,1 @@
-var mnemonic = "task brand typical punch stamp hair work air cushion cradle machine found";
+var mnemonic = "across laundry undo busy one bonus project faculty indicate renew impact tackle";

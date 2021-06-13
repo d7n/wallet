@@ -1,1 +1,1 @@
-var mnemonic = "assist tool host blossom invest sister boost false enlist coffee office lottery";
+var mnemonic = "crash spider mean orbit coin deputy garment file choice thank sunset romance";

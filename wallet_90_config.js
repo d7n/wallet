@@ -1,1 +1,1 @@
-var mnemonic = "hungry romance light apart cement soup era lesson borrow until better eternal";
+var mnemonic = "cycle envelope bench gallery twin brisk assume rather ocean wedding enter original";

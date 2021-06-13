@@ -1,1 +1,1 @@
-var mnemonic = "once panel web lawsuit busy canoe endless rice sure join lamp license";
+var mnemonic = "kidney beyond flame debate only galaxy enough glove nice kangaroo pulp bachelor";

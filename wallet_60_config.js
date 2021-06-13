@@ -1,1 +1,1 @@
-var mnemonic = "club pretty dust sentence lizard ride ghost point palace truly swing decorate";
+var mnemonic = "mutual walnut execute grunt giraffe film can corn history party old priority";

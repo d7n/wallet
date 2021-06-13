@@ -1,1 +1,1 @@
-var mnemonic = "option come home hazard bitter bid retire dwarf artist volume water jungle";
+var mnemonic = "column three praise ivory sorry sort music album luggage stable coast bus";

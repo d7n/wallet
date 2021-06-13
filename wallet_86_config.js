@@ -1,1 +1,1 @@
-var mnemonic = "daughter sugar vehicle tongue cabin program deputy coil phone coconut quiz still";
+var mnemonic = "blouse chicken all ghost that erupt trumpet wrap wagon buyer giant vicious";

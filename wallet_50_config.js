@@ -1,1 +1,1 @@
-var mnemonic = "mechanic middle relax kidney swear rapid slam shed endorse honey kangaroo tourist";
+var mnemonic = "long visual thumb voyage swear odor donate impact energy program art erupt";

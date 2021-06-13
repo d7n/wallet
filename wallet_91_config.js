@@ -1,1 +1,1 @@
-var mnemonic = "manual victory large army meat rib peanut worth hockey melody text depend";
+var mnemonic = "zebra oblige wisdom turtle buffalo stay amount dream glad iron what hamster";

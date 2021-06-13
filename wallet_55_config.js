@@ -1,1 +1,1 @@
-var mnemonic = "recycle swear pride wealth lizard execute sense hero claim exile scare tooth";
+var mnemonic = "puppy eager wash feed clown stadium bleak prepare mix they acid net";

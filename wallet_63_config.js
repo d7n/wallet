@@ -1,1 +1,1 @@
-var mnemonic = "maple sell scorpion toe hidden alert spare hire north sure mirror voyage";
+var mnemonic = "yellow state save answer cage maid verify enemy three crater barely leopard";

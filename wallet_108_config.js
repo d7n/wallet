@@ -1,1 +1,1 @@
-var mnemonic = "session disease office chapter creek around math seven size ginger title swear";
+var mnemonic = "knee bleak retreat goose kick crash jealous small furnace begin resist away";

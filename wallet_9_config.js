@@ -1,1 +1,1 @@
-var mnemonic = "toddler rural drink style virtual dice luxury since quiz memory result admit";
+var mnemonic = "call shrimp strike dream nut prefer fire grab clap horse wash also";

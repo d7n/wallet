@@ -1,1 +1,1 @@
-var mnemonic = "hybrid entire tornado heart limb indicate detect decide crazy run fence tiny";
+var mnemonic = "height hurdle resource breeze much author reject essence asset infant stool usual";

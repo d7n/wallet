@@ -1,1 +1,1 @@
-var mnemonic = "elephant loop unable argue author bicycle velvet recipe trust jump layer reflect";
+var mnemonic = "steel ancient original lunch mutual bulb tackle option cereal category knee hill";

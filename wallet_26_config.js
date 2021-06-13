@@ -1,1 +1,1 @@
-var mnemonic = "street carpet tank regular awkward merge hero grunt supreme drive car local";
+var mnemonic = "rather decrease hover student fog federal expire transfer tuition increase custom focus";

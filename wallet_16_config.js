@@ -1,1 +1,1 @@
-var mnemonic = "snap final fossil oven dash share empower delay ensure bless air peanut";
+var mnemonic = "artist guess shoot struggle primary maple yard cliff glare ticket lobster avocado";
