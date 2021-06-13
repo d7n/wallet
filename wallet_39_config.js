@@ -1,1 +1,1 @@
-var mnemonic = "wage gym machine buyer toward cruel arena novel already blossom always blossom";
+var mnemonic = "teach later bless error super goat ankle pony trip remember swim unfair";

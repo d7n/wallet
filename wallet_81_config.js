@@ -1,1 +1,1 @@
-var mnemonic = "bronze clay chair report gentle scene worth garbage fiber win wool student";
+var mnemonic = "near obtain emerge law immense genuine spider shell banana apple soda movie";

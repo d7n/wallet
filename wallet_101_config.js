@@ -1,1 +1,1 @@
-var mnemonic = "walk elevator unfold wedding label delay blue cargo final settle rain dumb";
+var mnemonic = "maple dolphin desk toddler double stumble scorpion reveal sleep fat tribe question";

@@ -1,1 +1,1 @@
-var mnemonic = "citizen front fine retreat echo simple oak glare know pave dad jeans";
+var mnemonic = "tattoo urge poverty boy speed story turkey cram sand knee digital rule";

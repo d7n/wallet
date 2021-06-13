@@ -1,1 +1,1 @@
-var mnemonic = "horror fine ability provide match electric yellow craft supreme subway wet million";
+var mnemonic = "please twist random fossil term useless venue fluid soldier fun perfect suffer";

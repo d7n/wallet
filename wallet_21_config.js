@@ -1,1 +1,1 @@
-var mnemonic = "click place notable eyebrow giggle usual park nephew control snow grid recipe";
+var mnemonic = "gym meadow breeze flock chaos style aisle often egg pair swim powder";

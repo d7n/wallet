@@ -1,1 +1,1 @@
-var mnemonic = "income rocket arrest canal outside start urge dumb enter snap crane twelve";
+var mnemonic = "club two stage across inhale chuckle dance asthma rough hold success follow";

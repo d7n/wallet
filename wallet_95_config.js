@@ -1,1 +1,1 @@
-var mnemonic = "alien kid finger float soul loop supply problem network toddler estate letter";
+var mnemonic = "upgrade jazz pattern blind turn virus light pulp corn gold bomb lunch";

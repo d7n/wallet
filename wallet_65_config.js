@@ -1,1 +1,1 @@
-var mnemonic = "mango language flower help subject eternal two case filter hair alley bachelor";
+var mnemonic = "satisfy high please match ghost tired worry oblige arrange cruise plate oxygen";

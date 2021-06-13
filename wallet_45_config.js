@@ -1,1 +1,1 @@
-var mnemonic = "myself scatter above private orbit author banana produce question kid stuff screen";
+var mnemonic = "harvest globe dish rate hospital use fun network broccoli mercy smoke turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal yellow outside dawn royal weapon soap double stairs modify age knee";
+var mnemonic = "stumble corn uncover ring book disease subject scissors nothing decade hover kitten";

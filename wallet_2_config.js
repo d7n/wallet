@@ -1,1 +1,1 @@
-var mnemonic = "mimic cat angle seek benefit elevator soldier subject metal speak foil test";
+var mnemonic = "buddy width sibling crystal submit secret antique thought uncle barrel mean ahead";

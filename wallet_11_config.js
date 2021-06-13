@@ -1,1 +1,1 @@
-var mnemonic = "forget cement absorb adult federal improve noodle banner gas drama camp member";
+var mnemonic = "remind host utility cheap tonight gain kitchen uncle magic wheat idle rubber";

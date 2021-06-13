@@ -1,1 +1,1 @@
-var mnemonic = "food tonight merry verify cart dynamic yellow decide drink exhibit casual genuine";
+var mnemonic = "pride giant emerge senior hen gesture wagon link bacon silly puppy valve";

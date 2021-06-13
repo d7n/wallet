@@ -1,1 +1,1 @@
-var mnemonic = "black cart sort record heart mountain source filter addict welcome smile ring";
+var mnemonic = "make aim pelican veteran tilt affair truth second digital gaze saddle draw";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle dizzy labor sick general code lunar surprise kitten crush blade hawk";
+var mnemonic = "lawsuit better chapter vehicle gather advice saddle gloom fault fish away dust";

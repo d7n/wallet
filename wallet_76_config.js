@@ -1,1 +1,1 @@
-var mnemonic = "source ticket pencil pen evolve rigid network ethics pattern rule border join";
+var mnemonic = "august slide sentence flower place vendor sad agree south stay cement ill";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen choice cat scorpion fog online morning select guess minimum faith mansion";
+var mnemonic = "keen mail secret episode seminar front diamond grow sort coffee baby frog";

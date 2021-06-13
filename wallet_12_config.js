@@ -1,1 +1,1 @@
-var mnemonic = "jump idle hockey knock verify ahead panel cycle bulb wave bulb panic";
+var mnemonic = "garlic miss wrist truck whip tide festival matrix mean lumber much ritual";

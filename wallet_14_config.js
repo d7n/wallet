@@ -1,1 +1,1 @@
-var mnemonic = "foam barely dutch mad cactus cigar never leave useless voice salute circle";
+var mnemonic = "promote erase diesel clay page merit harsh symptom find slow force core";

@@ -1,1 +1,1 @@
-var mnemonic = "point visa belt inform bronze south dilemma rose view problem immense risk";
+var mnemonic = "humble badge surround around tube citizen talent rigid avocado east slow sugar";

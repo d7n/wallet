@@ -1,1 +1,1 @@
-var mnemonic = "hood material hybrid siege deny wrong outdoor corn final stairs grain volcano";
+var mnemonic = "happy gauge squeeze crazy slogan noise roast snake they olive million model";

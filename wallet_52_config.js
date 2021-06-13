@@ -1,1 +1,1 @@
-var mnemonic = "organ excite price shuffle engage inhale tail roast chuckle history slush silk";
+var mnemonic = "canoe fashion humble end myth pair weapon alien belt spider much word";

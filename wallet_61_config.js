@@ -1,1 +1,1 @@
-var mnemonic = "found fossil emerge panda survey square skirt evil menu time zoo circle";
+var mnemonic = "airport carry seminar model visit define vacuum fly split enemy range stuff";

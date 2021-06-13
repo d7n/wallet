@@ -1,1 +1,1 @@
-var mnemonic = "across sign evolve kiwi nut safe insane income infant prison olympic dice";
+var mnemonic = "small rule success muffin salute maid install together casino cinnamon fault cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "wait deer secret volcano calm romance solution slight physical salmon thing galaxy";
+var mnemonic = "legend teach sell sorry tornado satoshi conduct receive outdoor theory notice cross";

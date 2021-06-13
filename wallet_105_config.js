@@ -1,1 +1,1 @@
-var mnemonic = "across agree gentle trim damage across frost hip agree coffee assault feature";
+var mnemonic = "blood awful salt length draw shift staff adapt misery favorite boring mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "humor always basic depend quit meadow city wheat faculty rookie daughter hockey";
+var mnemonic = "tumble cliff define pioneer media donate receive anxiety gun outdoor rent nation";

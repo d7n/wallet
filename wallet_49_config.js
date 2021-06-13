@@ -1,1 +1,1 @@
-var mnemonic = "decide market dust sign kangaroo ring bleak ostrich pattern hip alien comfort";
+var mnemonic = "vendor burst toward ghost staff repeat rigid tourist shoot carry water range";

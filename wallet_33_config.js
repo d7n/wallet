@@ -1,1 +1,1 @@
-var mnemonic = "stick raw urge tone alley spread pottery pilot village grant mouse scan";
+var mnemonic = "math change barrel reform virus unaware teach when just task board replace";

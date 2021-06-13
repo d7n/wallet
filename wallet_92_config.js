@@ -1,1 +1,1 @@
-var mnemonic = "blind group toast source ceiling chef wink solid phrase garden oval square";
+var mnemonic = "network output syrup office stone agree mask whale blossom exclude high trash";

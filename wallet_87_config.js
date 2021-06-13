@@ -1,1 +1,1 @@
-var mnemonic = "own differ crystal captain airport donkey total pupil present else normal achieve";
+var mnemonic = "disease horror exhibit tone home cargo destroy struggle toss tent light balance";

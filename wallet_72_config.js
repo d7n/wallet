@@ -1,1 +1,1 @@
-var mnemonic = "cause muscle feel figure mushroom meadow hat index tattoo clay cabin shop";
+var mnemonic = "interest black material entry adjust exotic slim tray armed cruise deal attack";

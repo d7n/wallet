@@ -1,1 +1,1 @@
-var mnemonic = "team yard amount faint under rough garage focus poem spider boy range";
+var mnemonic = "grunt glow trophy attract express confirm grape mail nose select grunt seat";

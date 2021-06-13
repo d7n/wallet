@@ -1,1 +1,1 @@
-var mnemonic = "day cook yard owner enroll brown violin genre more swarm voice captain";
+var mnemonic = "welcome primary october occur thumb summer hint excuse cloth head like confirm";

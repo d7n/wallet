@@ -1,1 +1,1 @@
-var mnemonic = "point tattoo garage pottery embody nothing among sniff box mention drastic grid";
+var mnemonic = "message rebuild cinnamon deny copper funny gasp ball absent trade burst pledge";

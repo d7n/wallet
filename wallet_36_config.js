@@ -1,1 +1,1 @@
-var mnemonic = "saddle pause heavy spin utility vanish depend edit slot razor melt laptop";
+var mnemonic = "apology scan stay bike wage hurdle giant comic unknown jar butter argue";

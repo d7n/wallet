@@ -1,1 +1,1 @@
-var mnemonic = "hammer pulp elbow nice mouse art equal snack vibrant identify genre column";
+var mnemonic = "trumpet attract hope option slender state gun loyal risk sure someone useful";

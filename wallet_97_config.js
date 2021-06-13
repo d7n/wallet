@@ -1,1 +1,1 @@
-var mnemonic = "beach large peanut cost physical dutch trash razor leg grunt catch cat";
+var mnemonic = "boost receive velvet mind saddle flag control deer kick race busy fall";

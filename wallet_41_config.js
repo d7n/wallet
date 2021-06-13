@@ -1,1 +1,1 @@
-var mnemonic = "ghost spirit under save velvet remind illegal armor mushroom advice favorite kangaroo";
+var mnemonic = "clutch analyst route absorb sight museum identify rival flash oil replace dove";

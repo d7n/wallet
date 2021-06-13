@@ -1,1 +1,1 @@
-var mnemonic = "actor cross reward fruit try boring tomorrow pipe produce secret ugly parade";
+var mnemonic = "defy bachelor elephant marble spell share theme weasel fancy anchor load seed";

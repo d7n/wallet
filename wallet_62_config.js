@@ -1,1 +1,1 @@
-var mnemonic = "dune field ensure ramp motion inquiry notice rocket height thunder age village";
+var mnemonic = "diesel hotel describe home skirt movie grape few vehicle manual bamboo airport";

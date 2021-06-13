@@ -1,1 +1,1 @@
-var mnemonic = "cruel auto toilet ankle simple ill promote orbit measure order melody rival";
+var mnemonic = "club grid auction clever reason regular interest rebuild morning item panther else";

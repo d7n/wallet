@@ -1,1 +1,1 @@
-var mnemonic = "lesson core galaxy shadow decorate inform panel student innocent satoshi artwork victory";
+var mnemonic = "car shoot usual mandate dinner brass vacuum blind conduct situate leg boy";

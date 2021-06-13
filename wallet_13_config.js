@@ -1,1 +1,1 @@
-var mnemonic = "drink pond fury keep chapter garden upgrade teach place rural kit hunt";
+var mnemonic = "gospel surprise region leisure cup friend pitch wealth visa inmate glad special";

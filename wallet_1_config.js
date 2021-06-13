@@ -1,1 +1,1 @@
-var mnemonic = "ghost analyst social check slush later wrist muffin card bike solution such";
+var mnemonic = "blur tragic music monitor donate warm busy city expect brother vanish clarify";

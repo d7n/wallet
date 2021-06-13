@@ -1,1 +1,1 @@
-var mnemonic = "manual arch venue vendor maple scale service toddler lion source fury bacon";
+var mnemonic = "skin goddess guide smoke picture ride soup original ceiling save yellow slow";

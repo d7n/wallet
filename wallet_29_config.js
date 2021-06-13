@@ -1,1 +1,1 @@
-var mnemonic = "slide amazing correct clean dawn elbow warfare assist observe wasp solve lemon";
+var mnemonic = "few milk opera special foot west century bubble catch neutral motion know";

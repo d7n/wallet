@@ -1,1 +1,1 @@
-var mnemonic = "inject crash price merge coconut pulse term soccer cost flush leopard clerk";
+var mnemonic = "title slogan advice art sing emotion message trumpet admit large invest wire";

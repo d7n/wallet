@@ -1,1 +1,1 @@
-var mnemonic = "involve section relax park relief goat easy zebra supply priority oil exile";
+var mnemonic = "neglect potato fault intact enough bulb century about join forest tobacco blur";

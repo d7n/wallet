@@ -1,1 +1,1 @@
-var mnemonic = "split measure ribbon field edge industry finish shoulder peasant three give image";
+var mnemonic = "exchange quote gauge prosper damp mix obey flag desert foot canvas evoke";

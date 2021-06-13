@@ -1,1 +1,1 @@
-var mnemonic = "obtain way veteran detect spray medal senior trend benefit protect atom tooth";
+var mnemonic = "egg senior cotton smooth asthma crawl garment nation inside sort limb act";

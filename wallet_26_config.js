@@ -1,1 +1,1 @@
-var mnemonic = "decide sample artist fun worth leaf eternal seek impact work diet clarify";
+var mnemonic = "limit turtle sphere dutch people audit check width head kite drum safe";

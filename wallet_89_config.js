@@ -1,1 +1,1 @@
-var mnemonic = "chunk ketchup call volume swim puzzle dynamic mutual clean panther lock arrive";
+var mnemonic = "rocket shadow dinosaur title often soccer liberty absurd actual bean fragile legal";

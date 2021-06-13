@@ -1,1 +1,1 @@
-var mnemonic = "color february chicken roast blossom distance citizen odor code piano motor liberty";
+var mnemonic = "planet spawn purpose apart lumber evil idea cry million air bullet whale";

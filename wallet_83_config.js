@@ -1,1 +1,1 @@
-var mnemonic = "green play depart say trophy tone carpet normal pill together hub reflect";
+var mnemonic = "tent family dolphin blossom clip glow recycle wing tag until second price";

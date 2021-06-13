@@ -1,1 +1,1 @@
-var mnemonic = "same fall author bullet game right they employ empower chalk inmate appear";
+var mnemonic = "boost train brother trap six fashion silent cherry exhaust render lesson milk";

@@ -1,1 +1,1 @@
-var mnemonic = "employ valve fade dilemma wet decade head aerobic number unique ancient film";
+var mnemonic = "depart timber vote turkey cave fancy video swift alpha film dove trim";

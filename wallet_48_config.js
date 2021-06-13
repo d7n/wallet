@@ -1,1 +1,1 @@
-var mnemonic = "sadness scan pottery mass rich chronic voice inflict void steak canal speak";
+var mnemonic = "dice since resemble early message antenna this erase table prosper vocal grit";

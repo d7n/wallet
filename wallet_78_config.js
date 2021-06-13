@@ -1,1 +1,1 @@
-var mnemonic = "ketchup update undo addict exclude resource melody gift modify latin mushroom food";
+var mnemonic = "run shallow peanut fuel sniff cycle inform trouble harvest person bar what";

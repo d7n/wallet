@@ -1,1 +1,1 @@
-var mnemonic = "gauge amount uncover rain spider crash wrong rifle unlock pipe spare banana";
+var mnemonic = "harvest skull ecology dog machine utility trumpet scan mosquito border someone decorate";

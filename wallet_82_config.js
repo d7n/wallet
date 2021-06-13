@@ -1,1 +1,1 @@
-var mnemonic = "forum slice suffer excite parent author million leisure false surface snap again";
+var mnemonic = "like mention analyst doll moral glance portion lunar toast basic ensure derive";

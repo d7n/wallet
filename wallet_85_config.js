@@ -1,1 +1,1 @@
-var mnemonic = "tackle manage clown curtain butter industry senior parrot wolf degree artist renew";
+var mnemonic = "term melody cloud reward struggle sure east boss ready improve open focus";

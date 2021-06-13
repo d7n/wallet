@@ -1,1 +1,1 @@
-var mnemonic = "digital girl call hobby screen poverty bring desk glare robust sing strike";
+var mnemonic = "blur gospel actual miracle eager corn tray process arrest absurd garden liquid";

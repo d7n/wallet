@@ -1,1 +1,1 @@
-var mnemonic = "step play resource write return escape prison enforce lucky gaze salute rapid";
+var mnemonic = "hammer taste save artwork divert spy immense forget burger region unveil wasp";

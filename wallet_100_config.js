@@ -1,1 +1,1 @@
-var mnemonic = "permit affair brown unaware vessel cement slot long spawn hold wing clutch";
+var mnemonic = "alien recycle fly zone smart correct finish trick evolve rural fire ahead";

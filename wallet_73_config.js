@@ -1,1 +1,1 @@
-var mnemonic = "exact wine add undo mention shallow essay unfair track test fine text";
+var mnemonic = "aspect north fabric bag broken october wedding fitness cushion notice learn gold";

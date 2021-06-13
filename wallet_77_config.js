@@ -1,1 +1,1 @@
-var mnemonic = "prison recipe lava rabbit clump foot large teach horn gun brother truth";
+var mnemonic = "indoor kind afraid fiction sweet struggle column youth lens seminar hammer bind";

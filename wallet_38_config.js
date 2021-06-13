@@ -1,1 +1,1 @@
-var mnemonic = "latin ride elder blanket urge phrase book payment rich layer buddy trophy";
+var mnemonic = "ribbon faint excuse arrange fashion sure person shell obvious rug emotion evil";

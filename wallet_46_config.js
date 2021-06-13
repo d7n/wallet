@@ -1,1 +1,1 @@
-var mnemonic = "crucial saddle trend say veteran purpose donor delay crystal cube shoulder ticket";
+var mnemonic = "object bike hungry metal marble phone canyon increase main output wild agent";

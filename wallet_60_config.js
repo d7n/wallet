@@ -1,1 +1,1 @@
-var mnemonic = "host salon armor whisper defense junior oxygen shallow gossip medal awake spot";
+var mnemonic = "hello matrix birth property bridge museum noodle winter scrap naive desert tooth";

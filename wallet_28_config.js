@@ -1,1 +1,1 @@
-var mnemonic = "artefact regular swap remain blue impulse educate parade road follow pass much";
+var mnemonic = "often heavy flavor vibrant battle chronic artist tuna only table tell alter";

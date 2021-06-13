@@ -1,1 +1,1 @@
-var mnemonic = "icon sphere invest february sauce shed region near rice purity exclude life";
+var mnemonic = "kite topple cancel dumb wagon august much remain chicken access south soul";

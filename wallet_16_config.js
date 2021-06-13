@@ -1,1 +1,1 @@
-var mnemonic = "sense steak replace stock fury judge gold motor dutch plug kingdom miss";
+var mnemonic = "brain raw intact fork upon latin balcony predict ticket obtain ecology tissue";

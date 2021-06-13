@@ -1,1 +1,1 @@
-var mnemonic = "file buddy jewel snap duck chapter rent dirt dance seven scale shock";
+var mnemonic = "hollow allow shed lend figure sibling track misery mule giggle slight edge";

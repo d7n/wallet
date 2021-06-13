@@ -1,1 +1,1 @@
-var mnemonic = "below day behind system ripple tooth silent good science leave wild license";
+var mnemonic = "again ensure repair rhythm this whale almost kidney gown crane silver govern";

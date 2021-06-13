@@ -1,1 +1,1 @@
-var mnemonic = "choice tunnel bleak powder derive whale spare ensure conduct three cherry burst";
+var mnemonic = "frog cram equip emerge capable echo ability farm grape system behind gloom";

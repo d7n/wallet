@@ -1,1 +1,1 @@
-var mnemonic = "trash west draft emotion ring evolve impact drastic scan label nest awkward";
+var mnemonic = "hockey police spin risk rookie mandate famous gospel globe vacuum special jacket";

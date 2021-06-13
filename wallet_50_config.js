@@ -1,1 +1,1 @@
-var mnemonic = "middle lemon horror evolve square ten turkey laptop error aerobic buyer jar";
+var mnemonic = "dragon creek sausage trip diary royal order taste suggest electric rabbit answer";

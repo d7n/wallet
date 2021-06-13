@@ -1,1 +1,1 @@
-var mnemonic = "outdoor jacket carry unaware novel audit pair mask valve tone evil fit";
+var mnemonic = "swear fatal assist bright crater boat rocket ring fortune laptop fortune thing";

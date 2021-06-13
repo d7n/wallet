@@ -1,1 +1,1 @@
-var mnemonic = "dune prefer mind jaguar leg brief slab lumber lock silent inflict brown";
+var mnemonic = "letter wrong other near online hazard used cliff glad claw leaf midnight";

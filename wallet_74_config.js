@@ -1,1 +1,1 @@
-var mnemonic = "scene talent butter mule talent verify library immense wheel angle crop horse";
+var mnemonic = "ceiling garbage inspire begin test shop bean plunge salon large equip rapid";

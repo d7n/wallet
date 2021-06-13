@@ -1,1 +1,1 @@
-var mnemonic = "mask improve cross buzz orange hard spawn country asset list silent alter";
+var mnemonic = "merry witness equal brass lawn term among receive goddess small car gun";

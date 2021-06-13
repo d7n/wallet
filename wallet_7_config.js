@@ -1,1 +1,1 @@
-var mnemonic = "salt popular suggest train delay place castle sound limb tongue exact similar";
+var mnemonic = "theory canyon cloud spoil appear know mixed position rhythm object estate boring";

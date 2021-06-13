@@ -1,1 +1,1 @@
-var mnemonic = "present have blur creek monitor frozen velvet addict dog patrol decrease expand";
+var mnemonic = "forward anchor during immune walk gain divide element ethics food ribbon art";

@@ -1,1 +1,1 @@
-var mnemonic = "promote fresh carbon coyote seat lazy food kangaroo tonight tool buzz electric";
+var mnemonic = "math name wonder negative truly south foster panel female final axis always";

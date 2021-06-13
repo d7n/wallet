@@ -1,1 +1,1 @@
-var mnemonic = "rifle ocean roast judge sail abstract trip acoustic bulk crane mushroom job";
+var mnemonic = "resource rude antique west file hawk color gauge boss lawn reform shoot";

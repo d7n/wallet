@@ -1,1 +1,1 @@
-var mnemonic = "nature around elder artist neutral cherry tiger kiwi wire taxi renew win";
+var mnemonic = "what chat hip cargo weekend calm baby hello grain update hint cross";
