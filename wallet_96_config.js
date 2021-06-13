@@ -1,1 +1,1 @@
-var mnemonic = "retreat glass calm theory deliver pair rather crush student pulp burst ignore";
+var mnemonic = "blossom mom sweet innocent logic rescue erosion insect inquiry idea mean beach";

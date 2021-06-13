@@ -1,1 +1,1 @@
-var mnemonic = "gauge collect snap tobacco mom way strong upon over picture hospital pear";
+var mnemonic = "toward chef donkey only border afraid surface lamp window rookie green bar";

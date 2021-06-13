@@ -1,1 +1,1 @@
-var mnemonic = "rigid chapter divert patient plug unveil green frozen orchard very primary deputy";
+var mnemonic = "candy total maze loan umbrella foster under enable hub push uncover leaf";

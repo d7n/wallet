@@ -1,1 +1,1 @@
-var mnemonic = "egg isolate attract damp rookie recall apology wild forest peace debate return";
+var mnemonic = "gossip where elegant fury tornado matrix student woman hybrid project verify pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "other jealous inside worth embody animal conduct snack tomato rough beef outdoor";
+var mnemonic = "there rebel mean bulk fashion arrive pepper annual letter issue setup year";

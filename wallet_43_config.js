@@ -1,1 +1,1 @@
-var mnemonic = "enemy width patient cheap bright cheese lawn suggest riot junk outdoor magnet";
+var mnemonic = "grass result pig ability prosper indoor first awkward crater cloud apart pave";

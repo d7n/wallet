@@ -1,1 +1,1 @@
-var mnemonic = "nest manage genius industry wisdom carry slush true frequent inflict eight insect";
+var mnemonic = "mistake boy initial seminar robot yard moral garbage off expect weasel romance";

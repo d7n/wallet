@@ -1,1 +1,1 @@
-var mnemonic = "disagree mimic crunch destroy false release gaze peace example they pulp term";
+var mnemonic = "panther raise filter owner sea session patrol garage tuna spice pond orphan";

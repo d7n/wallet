@@ -1,1 +1,1 @@
-var mnemonic = "bundle giraffe suggest real print impact tornado awesome retreat two unable drift";
+var mnemonic = "pulp draw refuse peasant taste fever stove senior soft volcano soccer audit";

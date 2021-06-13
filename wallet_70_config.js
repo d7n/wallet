@@ -1,1 +1,1 @@
-var mnemonic = "depart where thank winner teach acquire welcome term opinion swamp elder suit";
+var mnemonic = "tattoo recall eight tortoise ahead snake bomb spread render mail agent impose";

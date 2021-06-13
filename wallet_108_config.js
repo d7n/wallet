@@ -1,1 +1,1 @@
-var mnemonic = "gap feed prosper captain slush oppose hamster share reduce busy total when";
+var mnemonic = "gallery ethics legend rebuild unaware just since face uniform syrup verb use";

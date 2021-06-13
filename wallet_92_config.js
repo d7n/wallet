@@ -1,1 +1,1 @@
-var mnemonic = "alpha crash number problem cloth penalty gym worth spend walk accident bird";
+var mnemonic = "daughter midnight gallery improve staff recipe kingdom lake stay under method gospel";

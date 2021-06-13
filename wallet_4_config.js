@@ -1,1 +1,1 @@
-var mnemonic = "matter viable shy model couple coast impulse mule force critic rain crazy";
+var mnemonic = "near strong drama focus year keen quantum mercy fold setup goose first";

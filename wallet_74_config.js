@@ -1,1 +1,1 @@
-var mnemonic = "interest electric guitar forget select camp autumn roast staff skill lazy royal";
+var mnemonic = "clean squirrel catalog volume zone avoid mandate become wreck accuse brick doll";

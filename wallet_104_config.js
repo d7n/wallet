@@ -1,1 +1,1 @@
-var mnemonic = "cup joke artefact swarm tilt rose fuel agree nature radio vendor nose";
+var mnemonic = "art exotic across rocket burden strike desk force gloom medal just two";

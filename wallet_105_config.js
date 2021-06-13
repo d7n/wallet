@@ -1,1 +1,1 @@
-var mnemonic = "public globe false coil gap hire wear early document tornado delay sketch";
+var mnemonic = "dragon kit drift hole blade top gift fluid solid start deposit acquire";

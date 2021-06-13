@@ -1,1 +1,1 @@
-var mnemonic = "alone harbor scatter phrase try biology drill tortoise found reduce force test";
+var mnemonic = "film ripple tribe resemble retreat neither short unfair way theory stable brother";

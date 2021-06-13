@@ -1,1 +1,1 @@
-var mnemonic = "mammal engine busy video always gauge arm base stadium spy option saddle";
+var mnemonic = "tail involve chimney surround goddess sphere flock forward glue soldier relax step";

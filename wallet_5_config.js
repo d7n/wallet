@@ -1,1 +1,1 @@
-var mnemonic = "poet scout harvest saddle priority music merge ketchup nut marriage shuffle pet";
+var mnemonic = "essay afraid injury wealth frozen brain rhythm explain prepare discover float subject";

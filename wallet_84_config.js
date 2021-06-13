@@ -1,1 +1,1 @@
-var mnemonic = "series put hero ankle describe wedding wish foster piece fuel remember enrich";
+var mnemonic = "figure tackle artwork faint fruit jacket odor planet prize brown lounge umbrella";

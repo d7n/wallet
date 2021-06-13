@@ -1,1 +1,1 @@
-var mnemonic = "garage ivory obscure worry flush donkey fuel cigar unusual modify reduce proof";
+var mnemonic = "once sound donor dose tiger horse oyster reject marble churn relief glass";

@@ -1,1 +1,1 @@
-var mnemonic = "sun unknown plastic casual blame dish pool snack snake antenna oak panic";
+var mnemonic = "slab mail diagram quiz impose fish faith route lock custom inform stay";

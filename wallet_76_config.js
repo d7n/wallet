@@ -1,1 +1,1 @@
-var mnemonic = "pitch report knife skin pelican fruit random prevent pattern brisk place bless";
+var mnemonic = "hand engage pudding observe bamboo maid sample either clay wood planet kit";

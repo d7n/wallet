@@ -1,1 +1,1 @@
-var mnemonic = "false trap favorite duck gauge live view gift gauge heavy garage sport";
+var mnemonic = "recall bullet increase satoshi region renew pool accident nut tattoo honey van";

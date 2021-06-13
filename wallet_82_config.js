@@ -1,1 +1,1 @@
-var mnemonic = "ugly blood icon tackle fragile under drum season embody ceiling core rescue";
+var mnemonic = "pool crew decrease spoil load penalty walk service manage spawn final manage";

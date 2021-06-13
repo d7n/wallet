@@ -1,1 +1,1 @@
-var mnemonic = "ring worry begin arctic expect hint husband legal museum repeat tone protect";
+var mnemonic = "sing security always usual illness age weekend pulse guard toilet cupboard rib";

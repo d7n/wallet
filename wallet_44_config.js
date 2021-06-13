@@ -1,1 +1,1 @@
-var mnemonic = "yard airport brave fetch weird whisper aunt sad skull beef thank planet";
+var mnemonic = "frown equal brave issue pair inherit glare sad duty net nose area";

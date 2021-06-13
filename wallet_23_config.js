@@ -1,1 +1,1 @@
-var mnemonic = "off anxiety slot kitchen position omit pepper strong ignore fashion pulp winter";
+var mnemonic = "cage siren climb room occur cube hill wish put dinosaur simple hill";

@@ -1,1 +1,1 @@
-var mnemonic = "merit sketch dirt season forest figure cushion slide glow health fame detect";
+var mnemonic = "flight rubber grass enjoy stick blouse pool arrest biology margin weird river";

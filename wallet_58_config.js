@@ -1,1 +1,1 @@
-var mnemonic = "kit mansion rebel coffee traffic romance green critic pottery sting arrow panel";
+var mnemonic = "fan yellow twelve mobile shift brother child trigger actor host author transfer";

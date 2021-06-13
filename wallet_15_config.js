@@ -1,1 +1,1 @@
-var mnemonic = "pioneer venture main job sock rate web decide inflict enough rent audit";
+var mnemonic = "chief jump clog vendor gasp vapor cream cousin humble space route brand";

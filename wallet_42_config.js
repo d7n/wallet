@@ -1,1 +1,1 @@
-var mnemonic = "hollow swear crumble rubber elbow middle dynamic record bless episode hill slender";
+var mnemonic = "bomb stumble armor festival profit frog infant claim beauty girl globe area";

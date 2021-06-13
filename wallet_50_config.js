@@ -1,1 +1,1 @@
-var mnemonic = "media someone wisdom brief motion blame prosper junk hedgehog buyer sister rug";
+var mnemonic = "dress perfect announce popular client cruise spray barrel baby retire pyramid inquiry";

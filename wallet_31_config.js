@@ -1,1 +1,1 @@
-var mnemonic = "drip erosion salon maze resist sweet trend subway opinion price flip spoil";
+var mnemonic = "rural basket antenna toward fan right summer rebuild video divorce trick ramp";

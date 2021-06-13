@@ -1,1 +1,1 @@
-var mnemonic = "water seat invite flash crunch meadow gym alpha chronic fancy work tomorrow";
+var mnemonic = "vote cactus fiber sight arm invest math rocket uphold soft since prosper";

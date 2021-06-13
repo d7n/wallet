@@ -1,1 +1,1 @@
-var mnemonic = "farm toward oppose pumpkin damp fence spawn effort rhythm amused moral forget";
+var mnemonic = "nominee select physical depend raven popular foam panda mother rally venue venture";

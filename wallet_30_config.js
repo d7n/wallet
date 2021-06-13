@@ -1,1 +1,1 @@
-var mnemonic = "soft illegal pen own airport simple amused arctic remind detail syrup faith";
+var mnemonic = "imitate math bounce aware cart resemble carpet muscle cattle material seed skate";

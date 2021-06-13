@@ -1,1 +1,1 @@
-var mnemonic = "clean float reward hope wing minimum sugar shallow treat system core pledge";
+var mnemonic = "short dash pottery lady shoot false circle sugar slender unveil arrive romance";

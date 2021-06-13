@@ -1,1 +1,1 @@
-var mnemonic = "casual squirrel business announce public march skill keep hold bright gaze age";
+var mnemonic = "enough sick ahead fold pave space resemble snack habit unlock sure reject";

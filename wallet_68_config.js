@@ -1,1 +1,1 @@
-var mnemonic = "wet coral unable diesel battle mind garbage wool toast essay dad poverty";
+var mnemonic = "detect victory ensure bind mad amazing base enlist all basic joy puppy";

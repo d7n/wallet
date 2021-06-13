@@ -1,1 +1,1 @@
-var mnemonic = "urge link cricket shaft black dream stove garage safe uncover spell cricket";
+var mnemonic = "clarify coach twice black real duck blanket across ramp broken obey clinic";

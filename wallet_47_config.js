@@ -1,1 +1,1 @@
-var mnemonic = "canoe argue innocent evoke public roof task inspire symptom magic aisle outer";
+var mnemonic = "educate shift twin live claw twelve nominee quit heart west weird cricket";

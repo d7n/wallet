@@ -1,1 +1,1 @@
-var mnemonic = "unfair tattoo ritual arena bounce exit humor sure gaze poet away appear";
+var mnemonic = "flight inner badge awake quit blanket initial search chair brush knock ordinary";

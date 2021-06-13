@@ -1,1 +1,1 @@
-var mnemonic = "wait calm matter silent donate purpose lesson kiss sustain hero near ozone";
+var mnemonic = "thumb blind render chimney mail metal blue phone news vacuum carbon twelve";

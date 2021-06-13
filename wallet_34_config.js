@@ -1,1 +1,1 @@
-var mnemonic = "tray assist pepper insane any ladder child allow race acquire lens jar";
+var mnemonic = "later fun diary panda differ solar siege blossom unit shallow tip tell";

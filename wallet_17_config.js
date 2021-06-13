@@ -1,1 +1,1 @@
-var mnemonic = "young wide shield enact isolate atom found process weather high benefit lake";
+var mnemonic = "pull father tip donor chalk silver shine biology layer ritual maid issue";

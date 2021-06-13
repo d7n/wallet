@@ -1,1 +1,1 @@
-var mnemonic = "pig tornado clog dial night fame cotton essence peace submit artefact chef";
+var mnemonic = "embark talent patch echo ankle peasant impact panel sense craft goddess dice";

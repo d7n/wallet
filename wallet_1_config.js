@@ -1,1 +1,1 @@
-var mnemonic = "captain oppose unaware shy cargo rather coin jungle torch spirit home sad";
+var mnemonic = "diesel swear mail tiger liar oven elite tongue abuse cross push thrive";

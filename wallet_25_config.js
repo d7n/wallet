@@ -1,1 +1,1 @@
-var mnemonic = "crane salon syrup smoke tower relief two square night ability sustain palm";
+var mnemonic = "pumpkin limit baby limit club oyster scrub recall gather swarm emerge trophy";

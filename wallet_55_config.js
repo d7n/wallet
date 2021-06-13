@@ -1,1 +1,1 @@
-var mnemonic = "achieve bottom virtual donor icon witness tent panda deposit machine learn arrest";
+var mnemonic = "reflect cluster order present apology educate beef insect anxiety fetch bright misery";

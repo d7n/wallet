@@ -1,1 +1,1 @@
-var mnemonic = "planet guard easily squirrel whale there digital cage yard love core birth";
+var mnemonic = "suggest hair shrimp better army illegal axis tree city motion coil mandate";

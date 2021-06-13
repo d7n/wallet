@@ -1,1 +1,1 @@
-var mnemonic = "sister supreme dirt link trust ready skin subject popular diet copy chronic";
+var mnemonic = "elder wedding accident burden chimney grunt visual emerge hybrid crumble gossip index";

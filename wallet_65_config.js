@@ -1,1 +1,1 @@
-var mnemonic = "document catch tobacco rough primary foster mango quit either voyage slice agree";
+var mnemonic = "puppy verify breeze skate blouse champion enter report exit dignity zone tank";

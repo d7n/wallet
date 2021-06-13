@@ -1,1 +1,1 @@
-var mnemonic = "waste consider minimum kangaroo history spider sweet kid foot feel wasp blast";
+var mnemonic = "skin desk just female path theory dutch news aunt uniform corn awful";

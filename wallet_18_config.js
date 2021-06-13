@@ -1,1 +1,1 @@
-var mnemonic = "surprise aware drill attract casual open congress festival also quarter sponsor buzz";
+var mnemonic = "dish album spell ask wide punch arena behind village merry forum entry";

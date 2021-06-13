@@ -1,1 +1,1 @@
-var mnemonic = "eternal stick eager mom glad toss purpose coral culture claw town supreme";
+var mnemonic = "raw garlic grocery home nasty fatal web bunker present elbow spice pool";

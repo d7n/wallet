@@ -1,1 +1,1 @@
-var mnemonic = "seminar tired mushroom artefact soft humble pudding liberty best truly sound dizzy";
+var mnemonic = "dog skull inform model decrease toe amount color rubber city lizard few";

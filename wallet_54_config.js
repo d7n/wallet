@@ -1,1 +1,1 @@
-var mnemonic = "kidney leisure alien obey fiber room brother tragic erupt cement face satisfy";
+var mnemonic = "park crucial black fence glare certain forum improve rhythm giraffe local palm";

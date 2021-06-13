@@ -1,1 +1,1 @@
-var mnemonic = "scrap demand lucky vanish derive illegal master forum nest pilot panda divide";
+var mnemonic = "surprise color maple quiz glance tilt sick salute camera undo private mass";

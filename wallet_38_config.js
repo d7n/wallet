@@ -1,1 +1,1 @@
-var mnemonic = "skill coral news news title print note file deer fix body quick";
+var mnemonic = "fatal weird furnace close side exhibit liar there gossip cupboard anger manage";

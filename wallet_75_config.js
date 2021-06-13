@@ -1,1 +1,1 @@
-var mnemonic = "cactus buffalo upon during charge distance hammer grape produce palm lion empower";
+var mnemonic = "garden escape right empty time spice flame october noise flush slim radar";

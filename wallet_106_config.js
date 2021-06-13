@@ -1,1 +1,1 @@
-var mnemonic = "unit hen wave pave fatal cushion media power lemon fence canal private";
+var mnemonic = "assault network genuine book return segment sheriff hedgehog boy episode fall battle";

@@ -1,1 +1,1 @@
-var mnemonic = "venue gas source category hedgehog man fly announce decrease direct model enter";
+var mnemonic = "perfect liar knife rocket pretty receive blind isolate jealous upgrade again will";

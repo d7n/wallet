@@ -1,1 +1,1 @@
-var mnemonic = "huge enforce merit choice category fall diesel noise window dry potato snow";
+var mnemonic = "region coral twice damage age face clump menu hero unable tiny donor";

@@ -1,1 +1,1 @@
-var mnemonic = "wage control shrug grunt hundred wheel february party repair chief round scatter";
+var mnemonic = "owner tilt autumn actual increase arrest shiver gun person mask blush weapon";

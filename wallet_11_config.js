@@ -1,1 +1,1 @@
-var mnemonic = "broken broccoli two shallow pair plug artwork fan define embrace share fiction";
+var mnemonic = "valid repair pudding injury panther comic flame rookie february soccer improve wink";

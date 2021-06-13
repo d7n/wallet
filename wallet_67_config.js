@@ -1,1 +1,1 @@
-var mnemonic = "chronic behind simple jewel tone south old truth forward bracket just budget";
+var mnemonic = "describe viable state provide grace napkin amazing machine mother theory nurse select";

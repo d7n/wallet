@@ -1,1 +1,1 @@
-var mnemonic = "cupboard wise bench love sphere acid dumb protect acoustic flame glue express";
+var mnemonic = "calm trophy double cattle fury kit pencil call grass pride topic rail";

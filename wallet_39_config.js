@@ -1,1 +1,1 @@
-var mnemonic = "give alpha faculty floor world hello error drive stomach kitchen mushroom water";
+var mnemonic = "evidence elder nasty inspire camera height tonight service catalog recall vacant original";

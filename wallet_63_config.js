@@ -1,1 +1,1 @@
-var mnemonic = "floor reopen neither rabbit toss collect ask river describe child because thunder";
+var mnemonic = "nice welcome assault sign bean cotton theme stage drip horror flat taste";

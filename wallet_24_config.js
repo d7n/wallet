@@ -1,1 +1,1 @@
-var mnemonic = "cabbage donor venture great fashion filter water over crumble mosquito robust emotion";
+var mnemonic = "primary code coin giant humor bleak ladder cigar smart cactus loan peace";

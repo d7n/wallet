@@ -1,1 +1,1 @@
-var mnemonic = "word novel submit visa absent defy fat admit earth despair atom jacket";
+var mnemonic = "sheriff secret scissors settle quality prepare celery slice worth wolf couch fabric";

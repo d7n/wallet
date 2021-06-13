@@ -1,1 +1,1 @@
-var mnemonic = "audit cherry eagle shove field eight flag raise target pyramid before future";
+var mnemonic = "immense cupboard beyond fringe husband silly obey promote south muscle palm knock";

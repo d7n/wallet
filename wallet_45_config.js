@@ -1,1 +1,1 @@
-var mnemonic = "endorse catalog siren beach morning palace wire comic midnight deny turtle wife";
+var mnemonic = "initial tortoise melody actual chat eyebrow frame prize scrub weird team cupboard";

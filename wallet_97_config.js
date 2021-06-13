@@ -1,1 +1,1 @@
-var mnemonic = "trust list dinner mule daughter edge kingdom purity walk inquiry pyramid cruel";
+var mnemonic = "frost news seek ancient change body giraffe worth brisk kind paper oven";

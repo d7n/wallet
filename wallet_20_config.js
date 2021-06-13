@@ -1,1 +1,1 @@
-var mnemonic = "oak claim garage seven edit visual loop puzzle curious defy genre dune";
+var mnemonic = "boat bridge trouble claim chimney invite swear review abuse main fortune ship";

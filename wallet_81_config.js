@@ -1,1 +1,1 @@
-var mnemonic = "grass royal bar toddler mix soap gift peasant chest scan wheel climb";
+var mnemonic = "matter lunch rebuild demise fuel tilt meat tone click execute fabric rotate";

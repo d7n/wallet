@@ -1,1 +1,1 @@
-var mnemonic = "oil debate ask crumble topple envelope drill predict attack raven poem sting";
+var mnemonic = "smart dry evil puppy mutual volcano moon ship hello hour winner keep";

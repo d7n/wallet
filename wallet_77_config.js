@@ -1,1 +1,1 @@
-var mnemonic = "good burst lunch expand rare give game assist scout desert dose light";
+var mnemonic = "nothing sadness tide canvas garbage cushion exit earn unable bleak put glass";

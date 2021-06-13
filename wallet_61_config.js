@@ -1,1 +1,1 @@
-var mnemonic = "unable tongue claw reopen tomorrow salad flee daring meat tobacco script demise";
+var mnemonic = "gravity spend fox describe zebra license govern live bullet boil era shrug";

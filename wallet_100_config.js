@@ -1,1 +1,1 @@
-var mnemonic = "lizard find dutch dial equip harvest reason rural method caution auto response";
+var mnemonic = "like sand call column crater motion glow figure piano middle blouse hat";

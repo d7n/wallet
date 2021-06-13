@@ -1,1 +1,1 @@
-var mnemonic = "feed fly twist afford barely dolphin cram apology divert creek impact such";
+var mnemonic = "patch solar pool rose swarm doctor lemon meat scare wisdom daring satoshi";

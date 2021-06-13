@@ -1,1 +1,1 @@
-var mnemonic = "layer area risk fantasy spider program ill artist hurdle useless arrange essay";
+var mnemonic = "famous shiver frown cereal pelican guide buddy light organ inhale move quantum";

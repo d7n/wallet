@@ -1,1 +1,1 @@
-var mnemonic = "couple oval reduce harsh happy amused echo beach practice script sight exile";
+var mnemonic = "want foster umbrella suit fruit neglect point model curious seminar neck announce";

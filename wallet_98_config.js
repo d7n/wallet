@@ -1,1 +1,1 @@
-var mnemonic = "vivid breeze dismiss adult spell involve guide enemy spin switch sketch oval";
+var mnemonic = "erupt bid dance type radio limit airport beauty scan fine that margin";

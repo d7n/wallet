@@ -1,1 +1,1 @@
-var mnemonic = "gesture rough wrist protect gaze slim panic awkward stomach author object junk";
+var mnemonic = "ice young wisdom genuine crater enhance warm paper later notice trigger they";

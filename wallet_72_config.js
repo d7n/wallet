@@ -1,1 +1,1 @@
-var mnemonic = "push rebel sick cable unlock hotel jeans normal green timber regular abuse";
+var mnemonic = "antique guilt track enrich hurt panic comic neutral prepare wreck decade often";
